@@ -837,3 +837,4 @@
 [2021-04-02 01:37:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-02 01:37:06]: ***  [, Level 0]: 'Mleku' has left the game
 [2021-04-02 01:37:17]: ***  [, Level 0]: 'PoliceTee' has left the game
+[2021-04-02 01:37:36]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
