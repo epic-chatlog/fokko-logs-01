@@ -650,3 +650,8 @@
 [2021-04-02 01:15:52]: BulgarianTee [xSD7, Level 38]: E
 [2021-04-02 01:16:12]: BulgarianTee [xSD7, Level 38]: kais: go to school already
 [2021-04-02 01:16:23]: (1)kais [, Level 58]: i go now
+[2021-04-02 01:16:28]: ***  [, Level 0]: 'ist ein Noob' entered and joined the game
+[2021-04-02 01:16:29]: BulgarianTee [xSD7, Level 38]: rq
+[2021-04-02 01:16:32]: ***  [, Level 0]: 'comic' entered and joined the game
+[2021-04-02 01:16:34]: (1)kais [, Level 58]: sure
+[2021-04-02 01:16:34]: ***  [, Level 0]: 'ist ein Noob' has left the game
