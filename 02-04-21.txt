@@ -5556,3 +5556,4 @@
 [2021-04-02 08:34:08]: ***  [, Level 0]: '*Chilli' entered and joined the game
 [2021-04-02 08:34:43]: ***  [, Level 0]: 'Noxl.' has left the game
 [2021-04-02 08:34:46]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-02 08:34:56]: Niccname [, Level 0]: u
