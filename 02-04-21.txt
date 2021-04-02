@@ -8405,3 +8405,4 @@
 [2021-04-02 11:06:05]: ***  [, Level 0]: '(1)Friendiship ;' entered and joined the game
 [2021-04-02 11:06:08]: ***  [, Level 0]: 'Twikes' has left the game
 [2021-04-02 11:06:09]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
+[2021-04-02 11:06:18]: Shiro. [, Level 50]: gay
