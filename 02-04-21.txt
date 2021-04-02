@@ -3455,3 +3455,6 @@
 [2021-04-02 05:05:49]: ***  [, Level 0]: '[D] MNKY | Arin' entered and joined the game
 [2021-04-02 05:05:51]: hhh3 [, Level 48]: Cylox.♥: sağ
 [2021-04-02 05:05:53]: Cylox♥ [♥, Level 30]: nerde
+[2021-04-02 05:05:57]: ***  [, Level 0]: '(1)Friendiship ;' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-02 05:05:57]: ***  [, Level 0]: 'Friendiship ;-)' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-02 05:05:59]: ***  [, Level 0]: 'seabass' has left the game
