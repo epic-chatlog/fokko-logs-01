@@ -1852,3 +1852,6 @@
 [2021-04-02 03:16:51]: Isegrin [, Level 54]: ChillerDragon: FAK OF FKA ofasdofkaskf
 [2021-04-02 03:17:00]: ChillerDragon [|*KoG*|, Level 44]: faaaaaaaaak Isegrin
 [2021-04-02 03:17:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-02 03:17:05]: ChillerDragon [|*KoG*|, Level 44]: talk 1
+[2021-04-02 03:17:06]: ***  [, Level 0]: 'GODLIKe.' has left the game
+[2021-04-02 03:17:12]: ChillerDragon [|*KoG*|, Level 44]: no chat no help xd
