@@ -1093,3 +1093,6 @@
 [2021-04-02 01:56:49]: ***  [, Level 0]: WarHammer' finished in: 2 minute(s) 36.42 second(s)
 [2021-04-02 01:56:50]: power [TrRShClNrRs, Level 0]: (1)ChillerDrago:
 [2021-04-02 01:56:56]: ChillerDragon [|*KoG*|, Level 44]: aaa endless
+[2021-04-02 01:57:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-02 01:57:03]: ChillerDragon [|*KoG*|, Level 44]: xd
+[2021-04-02 01:57:09]: ChillerDragon [|*KoG*|, Level 44]: portal always too short
