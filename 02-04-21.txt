@@ -5473,3 +5473,7 @@
 [2021-04-02 08:18:40]: Falco642 [, Level 0]: ok then
 [2021-04-02 08:18:41]: power [TrRShClNrRs, Level 0]: but idm clapping u
 [2021-04-02 08:18:44]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-02 08:18:51]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-02 08:18:57]: ***  [, Level 0]: '✯ |toxicdaddy' has left the game
+[2021-04-02 08:18:57]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
+[2021-04-02 08:18:57]: Falco642 [, Level 0]: mhm
