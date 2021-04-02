@@ -5506,3 +5506,4 @@
 [2021-04-02 08:24:44]: ***  [, Level 0]: '|~|' has left the game (Timeout)
 [2021-04-02 08:24:52]: Shiro. [, Level 50]: men watafack
 [2021-04-02 08:24:55]: ***  [, Level 0]: 'Noxl.' entered and joined the game
+[2021-04-02 08:25:19]: ***  [, Level 0]: 'УБИВАТЬ!' entered and joined the game
