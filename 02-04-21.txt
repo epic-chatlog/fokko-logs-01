@@ -739,3 +739,5 @@
 [2021-04-02 01:26:58]: ChillerDragon.* [|*KoG*|, Level 41]: 400k on bank
 [2021-04-02 01:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-02 01:27:10]: ChillerDragon.* [|*KoG*|, Level 41]: i wanna dat taser on mi 2nd dummies
+[2021-04-02 01:27:24]: ***  [, Level 0]: 'nam' joined the spectators
+[2021-04-02 01:27:29]: ***  [, Level 0]: 'nam' joined the game
