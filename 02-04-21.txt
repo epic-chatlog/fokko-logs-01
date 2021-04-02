@@ -12912,3 +12912,5 @@
 [2021-04-02 16:26:29]: x7|KshKsh99 [xSD7, Level 37]: XD
 [2021-04-02 16:26:41]: x7|KshKsh99 [xSD7, Level 37]: wow
 [2021-04-02 16:26:46]: Flipper [, Level 13]: D:
+[2021-04-02 16:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-02 16:27:02]: ✯ | FayZoR [|Supressed|, Level 42]: Flipper: come xD
