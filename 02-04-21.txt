@@ -5480,3 +5480,4 @@
 [2021-04-02 08:19:01]: ***  [, Level 0]: 'cunt' entered and joined the game
 [2021-04-02 08:19:03]: ***  [, Level 0]: 'GODLIKe.' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-02 08:19:33]: ***  [, Level 0]: 'cunt' has left the game
+[2021-04-02 08:20:04]: Noxl [.bad, Level 48]: ohh
