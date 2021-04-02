@@ -11558,3 +11558,5 @@
 [2021-04-02 13:37:38]: (1)ERROR. [404, Level 40]: tf
 [2021-04-02 13:37:40]: Isegrin [, Level 54]: GOLD: pisda
 [2021-04-02 13:37:45]: GOLD [404, Level 40]: its u
+[2021-04-02 13:38:02]: ***  [, Level 0]: 'ölüm bekçisi' has left the game
+[2021-04-02 13:38:05]: ChillerDragon [|*KoG*|, Level 44]: Falco641: !
