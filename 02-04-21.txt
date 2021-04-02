@@ -8802,3 +8802,6 @@
 [2021-04-02 11:23:43]: Λtlantis Ψ [ᅟᅟ , Level 39]: sry
 [2021-04-02 11:23:47]: ChillerDragon [|*KoG*|, Level 44]: be nice instead BulgarianTee
 [2021-04-02 11:23:49]: BulgarianTee [xSD7, Level 0]: ChillerDragon: not cuz ppl do it just cuz they think its cool while for me its actual way of life.. in-game
+[2021-04-02 11:23:54]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-02 11:23:55]: ***  [, Level 0]: 'Lucas' has left the game (Timeout)
+[2021-04-02 11:24:04]: BulgarianTee [xSD7, Level 0]: ChillerDragon: used to be nice, what did i get? heavygayneral and error trashtalk 24/7
