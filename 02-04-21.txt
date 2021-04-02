@@ -5317,3 +5317,5 @@
 [2021-04-02 07:53:00]: Pigie♥ [♥, Level 36]: AAAAAAAAAAAAA
 [2021-04-02 07:53:02]: ***  [, Level 0]: 'Pigi♥' entered and joined the game
 [2021-04-02 07:53:02]: Noxl [.bad, Level 48]: spike
+[2021-04-02 07:53:04]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-02 07:53:11]: ***  [, Level 0]: 'lolpoep' has left the game
