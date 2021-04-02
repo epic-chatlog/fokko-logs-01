@@ -3028,3 +3028,4 @@
 [2021-04-02 04:22:00]: BulgarianTee [xSD7, Level 0]: E
 [2021-04-02 04:22:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-02 04:22:05]: Lucas [THECEPS, Level 32]: wtf was that
+[2021-04-02 04:22:16]: ***  [, Level 0]: 'Asta' has left the game
