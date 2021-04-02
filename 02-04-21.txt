@@ -9767,3 +9767,5 @@
 [2021-04-02 12:02:13]: ***  [, Level 0]: 'i am jerry kill' has left the game
 [2021-04-02 12:02:18]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
 [2021-04-02 12:02:32]: ***  [, Level 0]: 'i am jerry kill' has left the game
+[2021-04-02 12:02:36]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
+[2021-04-02 12:02:41]: УБИВАТЬ! [, Level 0]: xD
