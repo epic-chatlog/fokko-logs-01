@@ -11419,3 +11419,7 @@
 [2021-04-02 13:24:25]: ***  [, Level 0]: koro's killing spree was ended by ChillerDragon (5 blocks)
 [2021-04-02 13:24:29]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
 [2021-04-02 13:24:35]: Noxl. [.bad, Level 35]: ERROR:
+[2021-04-02 13:24:42]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-02 13:24:43]: ***  [, Level 0]: 'Axel ²' entered and joined the game
+[2021-04-02 13:24:47]: ***  [, Level 0]: 'gian x' has left the game
+[2021-04-02 13:24:47]: Noxl. [.bad, Level 35]: nice ^_^
