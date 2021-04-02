@@ -456,3 +456,5 @@
 [2021-04-02 00:49:40]: SAUD [, Level 20]: nam:  <<<<<<<
 [2021-04-02 00:49:41]: ***  [, Level 0]: 'Amirian' has left the game
 [2021-04-02 00:49:42]: SAUD [, Level 20]: nam:  <<<<<<<
+[2021-04-02 00:49:50]: kais [, Level 65]: yes, i am rn
+[2021-04-02 00:49:59]: BulgarianTee [xSD7, Level 38]: (1)kais: always has been
