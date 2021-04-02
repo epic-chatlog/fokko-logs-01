@@ -11368,3 +11368,10 @@
 [2021-04-02 13:20:11]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-02 13:20:14]: Noxl. [.bad, Level 35]: chillerdagorn: rq
 [2021-04-02 13:20:14]: sL|whutasme [, Level 4]: ERROR:
+[2021-04-02 13:20:23]: Marcisten [Helper, Level 0]: ChillerDragon: helo
+[2021-04-02 13:20:23]: ChillerDragon.* [Chilli.*, Level 41]: xd Noxl
+[2021-04-02 13:20:24]: jjjjj [, Level 0]: ERROR:
+[2021-04-02 13:20:25]: ChillerDragon.* [|*KoG*|, Level 41]: hi
+[2021-04-02 13:20:28]: jjjjj [, Level 0]: ERROR:
+[2021-04-02 13:20:28]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-02 13:20:30]: Falco642 [, Level 0]: Axel: how
