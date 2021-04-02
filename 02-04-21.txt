@@ -1326,3 +1326,9 @@
 [2021-04-02 02:29:41]: ***  [, Level 0]: 'Foxie♥' entered and joined the game
 [2021-04-02 02:29:42]: Marcisten [hax, Level 44]: u easy enemy -_-
 [2021-04-02 02:29:57]: Nonoh [citrom, Level 40]: Marcisten: sziaa
+[2021-04-02 02:29:59]: Foxie♥ [♥, Level 32]: WTF
+[2021-04-02 02:30:03]: Lucas [THECEPS, Level 32]: Marcisten: ore fun fight?
+[2021-04-02 02:30:08]: ***  [, Level 0]: Nonoh finished in: 2 minute(s) 35.22 second(s)
+[2021-04-02 02:30:08]: Marcisten [hax, Level 44]: Lucas: yes
+[2021-04-02 02:30:09]: ***  [, Level 0]: Noémi[Đ] finished in: 1 minute(s) 27.96 second(s)
+[2021-04-02 02:30:09]: ***  [, Level 0]: New record: 17.80 second(s) better.
