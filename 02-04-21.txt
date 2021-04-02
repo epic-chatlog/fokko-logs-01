@@ -2429,3 +2429,5 @@
 [2021-04-02 03:44:03]: GODLIKe [hax, Level 44]: ı scared u prank
 [2021-04-02 03:44:03]: f"{self.name}" [, Level 0]: u saved isegrin
 [2021-04-02 03:44:04]: ***  [, Level 0]: 'gamer' joined the game
+[2021-04-02 03:44:12]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-02 03:44:19]: ChillerDragon [Chilli.*, Level 44]: rq shiro xd
