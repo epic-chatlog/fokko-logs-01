@@ -9648,3 +9648,12 @@
 [2021-04-02 11:57:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-02 11:57:04]:   [, Level 0]: [D] Boti.: őőő
 [2021-04-02 11:57:05]:   [, Level 0]: [D] Boti.: XDD
+[2021-04-02 11:57:06]: ***  [, Level 0]: '[D] Boti.' has left the game
+[2021-04-02 11:57:07]: Kiøn1029 [.bad, Level 31]: HOGY
+[2021-04-02 11:57:07]: УБИВАТЬ! [, Level 0]: GODLIKe.: <<
+[2021-04-02 11:57:10]: (1)Boti. [.bad, Level 32]: kion
+[2021-04-02 11:57:12]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
+[2021-04-02 11:57:16]: ***  [, Level 0]: 'cup of tee 2' entered and joined the game
+[2021-04-02 11:57:17]: Kiøn1029 [.bad, Level 31]: AZ ANYÁD ENNE MEG
+[2021-04-02 11:57:18]: ***  [, Level 0]: Lucas finished in: 3 minute(s) 32.20 second(s)
+[2021-04-02 11:57:18]: ***  [, Level 0]: New record:  6.18 second(s) better.
