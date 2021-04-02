@@ -11418,3 +11418,4 @@
 [2021-04-02 13:24:25]: ***  [, Level 0]: УБИВАТЬ!'s killing spree was ended by Lucas (6 blocks)
 [2021-04-02 13:24:25]: ***  [, Level 0]: koro's killing spree was ended by ChillerDragon (5 blocks)
 [2021-04-02 13:24:29]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
+[2021-04-02 13:24:35]: Noxl. [.bad, Level 35]: ERROR:
