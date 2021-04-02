@@ -822,3 +822,4 @@
 [2021-04-02 01:35:38]: LareneGyvaeh [FookinLads, Level 36]: tru
 [2021-04-02 01:35:45]: nam [, Level 0]: HELP
 [2021-04-02 01:35:54]: nam [, Level 0]: Wheels.:  help
+[2021-04-02 01:35:59]: ***  [, Level 0]: 'nam' has been muted for 60 seconds
