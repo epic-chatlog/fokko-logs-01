@@ -6976,3 +6976,9 @@
 [2021-04-02 10:02:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-02 10:02:04]: Mʎɹ シ [not today, Level 11]: kurama: Ок
 [2021-04-02 10:02:04]: NENNY196 [csplyr, Level 0]: Relaxღ:  pls stoppp
+[2021-04-02 10:02:16]: Mʎɹ シ [not today, Level 11]: kurama: За дж?
+[2021-04-02 10:02:16]:   [, Level 0]: kurama: Mʎɹ シ: джампы
+[2021-04-02 10:02:17]: ***  [, Level 0]: 'WarHammer'' left the minigame 'Instagib Boom FNG'
+[2021-04-02 10:02:20]: ***  [, Level 0]: 'Noémi[Đ]' has left the game (Timeout Protection over)
+[2021-04-02 10:02:20]: ***  [, Level 0]: 'Nonoh' has left the game (Timeout Protection over)
+[2021-04-02 10:02:21]:   [, Level 0]: kurama: Mʎɹ シ: да
