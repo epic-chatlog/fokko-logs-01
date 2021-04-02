@@ -630,3 +630,4 @@
 [2021-04-02 01:12:58]: ***  [, Level 0]: 'ist ein Noob' has left the game
 [2021-04-02 01:13:04]: ***  [, Level 0]: 'ist ein Noob' entered and joined the game
 [2021-04-02 01:13:20]: ***  [, Level 0]: 'vlot1k3' entered and joined the game
+[2021-04-02 01:13:30]: ***  [, Level 0]: 'ist ein Noob' has left the game
