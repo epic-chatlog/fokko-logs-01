@@ -875,3 +875,5 @@
 [2021-04-02 01:41:10]: BulgarianTee [xSD7, Level 38]: ChillerDragon.*: im a distraction
 [2021-04-02 01:41:14]: ChillerDragon.* [Chilli.*, Level 41]: nice
 [2021-04-02 01:41:17]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
+[2021-04-02 01:41:28]: ChillerDragon.* [Chilli.*, Level 41]: where is flappy my mate
+[2021-04-02 01:41:29]: ChillerDragon.* [Chilli.*, Level 41]: he stuck
