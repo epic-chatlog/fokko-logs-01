@@ -12353,3 +12353,5 @@
 [2021-04-02 15:07:14]: ***  [, Level 0]: ''' has left the game (Timeout)
 [2021-04-02 15:07:15]: Λtlantis Ψ [ᅟᅟ , Level 39]: pro
 [2021-04-02 15:07:19]: ***  [, Level 0]: 'P' entered and joined the game
+[2021-04-02 15:07:21]: ***  [, Level 0]: 'WarHammer' has left the game (Timeout)
+[2021-04-02 15:07:21]: ***  [, Level 0]: 'WarHammer'' has left the game (Timeout)
