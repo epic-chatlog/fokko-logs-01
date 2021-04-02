@@ -7737,3 +7737,5 @@
 [2021-04-02 10:37:08]: kurama [, Level 7]: фармить
 [2021-04-02 10:37:14]: [D] sL|whutasme [, Level 0]: ahhhhh ChillerDragon
 [2021-04-02 10:37:17]: Noragami [, Level 19]: wow
+[2021-04-02 10:37:24]: ***  [, Level 0]: '(1)Maatiteusz' entered and joined the game
+[2021-04-02 10:37:30]: ***  [, Level 0]: '(1)Meetiteusz' entered and joined the game
