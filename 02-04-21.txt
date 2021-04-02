@@ -5585,3 +5585,4 @@
 [2021-04-02 08:38:47]: (1)Salut [, Level 25]: kais:  tu as payé combien pour l'avoir ?
 [2021-04-02 08:38:49]: ***  [, Level 0]: 'hhnaut31' entered and joined the game
 [2021-04-02 08:38:55]: [D] ✯ |toxicd [|Supressed, Level 20]: (1)kais:
+[2021-04-02 08:39:00]: (1)kais [, Level 58]: (2)Salut: 100k
