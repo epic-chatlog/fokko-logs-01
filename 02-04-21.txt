@@ -12470,3 +12470,5 @@
 [2021-04-02 15:24:06]: ***  [, Level 0]: [D] ♥TAKO♥ is on a killing spree with 5 blocks
 [2021-04-02 15:24:10]: any [404, Level 37]: AHHAHAHAHAHHAHAHA
 [2021-04-02 15:25:12]: ***  [, Level 0]: [D] ♥TAKO♥'s killing spree was ended by fomjn (6 blocks)
+[2021-04-02 15:25:23]: fomjn [RUA, Level 0]: xddd
+[2021-04-02 15:25:26]: fomjn [RUA, Level 0]: double kill
