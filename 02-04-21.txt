@@ -340,3 +340,7 @@
 [2021-04-02 00:34:38]: Foxie♥ [♥, Level 32]: ERROR: :(
 [2021-04-02 00:34:41]: BulgarianTee [xSD7, Level 0]: A
 [2021-04-02 00:34:46]: BulgarianTee [xSD7, Level 0]: kais big gae
+[2021-04-02 00:34:49]: ***  [, Level 0]: 'Foxie♥' has left the game
+[2021-04-02 00:34:49]: (1)kais [, Level 58]: BulgarianTee: u
+[2021-04-02 00:34:51]: BulgarianTee [xSD7, Level 0]: rq
+[2021-04-02 00:34:53]: (1)kais [, Level 58]: RQ
