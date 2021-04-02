@@ -464,3 +464,5 @@
 [2021-04-02 00:50:48]: ***  [, Level 0]: 'SAUD' has left the game (Timeout)
 [2021-04-02 00:51:04]: BulgarianTee [xSD7, Level 38]: E
 [2021-04-02 00:51:06]: (1)kais [, Level 58]: lier :(
+[2021-04-02 00:51:11]: BulgarianTee [xSD7, Level 38]: u didnt free me in time
+[2021-04-02 00:51:17]: BulgarianTee [xSD7, Level 38]: E
