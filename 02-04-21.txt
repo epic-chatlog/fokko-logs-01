@@ -1332,3 +1332,4 @@
 [2021-04-02 02:30:08]: Marcisten [hax, Level 44]: Lucas: yes
 [2021-04-02 02:30:09]: ***  [, Level 0]: Noémi[Đ] finished in: 1 minute(s) 27.96 second(s)
 [2021-04-02 02:30:09]: ***  [, Level 0]: New record: 17.80 second(s) better.
+[2021-04-02 02:30:21]: ***  [, Level 0]: 'coffee' entered and joined the game
