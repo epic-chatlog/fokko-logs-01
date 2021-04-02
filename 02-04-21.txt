@@ -5628,3 +5628,8 @@
 [2021-04-02 08:44:45]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-02 08:44:48]: ***  [, Level 0]: '(2)Kirito' finished the special race!
 [2021-04-02 08:44:50]: Falco642 [, Level 0]: [D] BC|Tixnix: lmao mhm
+[2021-04-02 08:44:57]: sun.slow(y) [sunrise., Level 35]: bb
+[2021-04-02 08:44:58]: ***  [, Level 0]: 'sun.slow(y)' has left the game
+[2021-04-02 08:44:59]: [D] BC|Tixnix [BC, Level 25]: Falco642: ?
+[2021-04-02 08:45:05]: ***  [, Level 0]: (1)Kirito finished in: 7 minute(s)  3.44 second(s)
+[2021-04-02 08:45:05]: ***  [, Level 0]: '(1)Kirito' finished the special race!
