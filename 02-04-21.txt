@@ -11375,3 +11375,7 @@
 [2021-04-02 13:20:28]: jjjjj [, Level 0]: ERROR:
 [2021-04-02 13:20:28]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-02 13:20:30]: Falco642 [, Level 0]: Axel: how
+[2021-04-02 13:20:32]: jjjjj [, Level 0]: ERROR:
+[2021-04-02 13:20:32]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-02 13:20:38]: Λtlantis Ψ [ᅟᅟ , Level 39]: (1)✯ | FayZoR:  how do i fix this
+[2021-04-02 13:20:40]: Falco642 [, Level 0]: wait i think i know how
