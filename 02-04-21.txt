@@ -12474,3 +12474,5 @@
 [2021-04-02 15:25:26]: fomjn [RUA, Level 0]: double kill
 [2021-04-02 15:25:33]: ***  [, Level 0]: fomjn is on a killing spree with 5 blocks
 [2021-04-02 15:25:59]: ✯ | FayZoR [|Supressed|, Level 42]: hhh3: peace ?
+[2021-04-02 15:26:13]: ***  [, Level 0]: fomjn's killing spree was ended by |~| (9 blocks)
+[2021-04-02 15:26:14]: [D] ♥TAKO♥ [, Level 0]: big pro
