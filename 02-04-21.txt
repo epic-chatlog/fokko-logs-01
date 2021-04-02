@@ -2419,3 +2419,7 @@
 [2021-04-02 03:43:40]: Pigie♥ [♥, Level 36]: (1)Kirito: wait there
 [2021-04-02 03:43:41]: ***  [, Level 0]: 'Shiro.' entered and joined the game
 [2021-04-02 03:43:46]: ChillerDragon [|*KoG*|, Level 44]: kla ez вłøøđcave einfach mir helfen und drin
+[2021-04-02 03:43:51]: GODLIKe [hax, Level 44]: War
+[2021-04-02 03:43:52]: вłøøđωave [ƨơʅơ, Level 0]: f"{self.name}": ?
+[2021-04-02 03:43:52]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
+[2021-04-02 03:43:56]: Isegrin [, Level 54]: GODLIKe: prank
