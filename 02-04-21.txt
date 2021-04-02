@@ -8823,3 +8823,6 @@
 [2021-04-02 11:24:38]: ***  [, Level 0]: 'ビール|Zero' has left the game (Timeout)
 [2021-04-02 11:24:39]: BulgarianTee [xSD7, Level 0]: ChillerDragon: xa-xa-xa-xa0))
 [2021-04-02 11:24:39]: ***  [, Level 0]: '[D] BC|Tixnix' finished the special race!
+[2021-04-02 11:24:45]: Shiro. [, Level 50]: fanboy
+[2021-04-02 11:24:53]: Shiro. [, Level 50]: cringe no name
+[2021-04-02 11:24:53]: ***  [, Level 0]: 'Mʎɹ シ' has left the game
