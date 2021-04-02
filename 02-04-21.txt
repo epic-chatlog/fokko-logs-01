@@ -8729,3 +8729,8 @@
 [2021-04-02 11:20:43]: ***  [, Level 0]: New record: 41.40 second(s) better.
 [2021-04-02 11:20:45]: BulgarianTee [xSD7, Level 0]: ChillerDragon: xD same
 [2021-04-02 11:20:48]: Shiro. [, Level 50]: Λtlantis Ψ: all the way right
+[2021-04-02 11:20:50]: Mʎɹ シ [not today, Level 11]: Rainbow Tee: У меня сестра орёт, не виновен
+[2021-04-02 11:20:50]:   [, Level 0]: ✯ NinjaWhite: f"{self.name}": niga niga?
+[2021-04-02 11:20:55]: Λtlantis Ψ [ᅟᅟ , Level 39]: dont have jumpos
+[2021-04-02 11:20:58]: Λtlantis Ψ [ᅟᅟ , Level 39]: Shiro.:  xD
+[2021-04-02 11:21:00]: ***  [, Level 0]: 'Samurai' entered and joined the game
