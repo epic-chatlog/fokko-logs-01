@@ -856,3 +856,8 @@
 [2021-04-02 01:39:39]: ***  [, Level 0]: 'Wheels' finished the special race!
 [2021-04-02 01:39:40]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-02 01:39:41]: ChillerDragon.* [|*KoG*|, Level 41]: ye
+[2021-04-02 01:39:45]: ***  [, Level 0]: Wheels. finished in: 9 minute(s) 12.74 second(s)
+[2021-04-02 01:39:45]: ***  [, Level 0]: New record: 35.50 second(s) better.
+[2021-04-02 01:39:45]: ***  [, Level 0]: 'Wheels.' finished the special race!
+[2021-04-02 01:39:48]: BulgarianTee [xSD7, Level 38]: E
+[2021-04-02 01:39:51]: ChillerDragon.* [|*KoG*|, Level 41]: E
