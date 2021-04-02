@@ -12306,3 +12306,6 @@
 [2021-04-02 15:00:30]: ***  [, Level 0]: 'hhh3' entered and joined the game
 [2021-04-02 15:00:30]: ✯ | FayZoR [|Supressed|, Level 42]: chillerdagorn: i don't want fight you
 [2021-04-02 15:00:40]: Λtlantis Ψ [ᅟᅟ , Level 39]: fuclk
+[2021-04-02 15:00:48]: ***  [, Level 0]: 'hhh3' has left the game
+[2021-04-02 15:00:55]: ***  [, Level 0]: 'P' has left the game (Timeout)
+[2021-04-02 15:00:55]: ***  [, Level 0]: '(1)P4Pyr0s' has left the game (Timeout)
