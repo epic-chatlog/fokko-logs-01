@@ -8392,3 +8392,5 @@
 [2021-04-02 11:05:07]: ***  [, Level 0]: NENNY196's killing spree was ended by Falco642 (5 blocks)
 [2021-04-02 11:05:15]: ChillerDragon [Chilli.*, Level 44]: im not afk im 2nd client BulgarianTee
 [2021-04-02 11:05:17]: BulgarianTee [xSD7, Level 0]: Kiøn1029: i have pingspikes to make up for it
+[2021-04-02 11:05:24]: BulgarianTee [xSD7, Level 0]: ChillerDragon: is toxicdady bad?
+[2021-04-02 11:05:29]: Kiøn1029 [.bad, Level 31]: BulgarianTee: yes this is why
