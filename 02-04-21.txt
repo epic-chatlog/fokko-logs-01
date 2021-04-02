@@ -5084,3 +5084,6 @@
 [2021-04-02 07:23:21]: ***  [, Level 0]: 'L1P3KC' joined the spectators
 [2021-04-02 07:23:25]: ***  [, Level 0]: 'L1P3KC' joined the game
 [2021-04-02 07:24:01]: ***  [, Level 0]: 'L1P3KC' joined the spectators
+[2021-04-02 07:24:06]: ***  [, Level 0]: 'L1P3KC' joined the game
+[2021-04-02 07:24:13]: ***  [, Level 0]: 'L1P3KC' joined the spectators
+[2021-04-02 07:24:17]: ***  [, Level 0]: 'L1P3KC' joined the game
