@@ -3211,3 +3211,4 @@
 [2021-04-02 04:39:55]: ***  [, Level 0]: '(1)kais' would have timed out, but can use timeout protection now
 [2021-04-02 04:39:55]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
 [2021-04-02 04:40:16]: ***  [, Level 0]: 'Тучка' entered and joined the game
+[2021-04-02 04:40:28]: ***  [, Level 0]: 'Kirito' has left the game
