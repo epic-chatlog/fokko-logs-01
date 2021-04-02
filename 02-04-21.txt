@@ -11671,3 +11671,8 @@
 [2021-04-02 13:47:33]: YelloWorlD [404, Level 41]: any: c toi emilcha ?
 [2021-04-02 13:47:36]: ***  [, Level 0]: ✯ | FayZoR's killing spree was ended by koro (7 blocks)
 [2021-04-02 13:47:38]: ChillerDragon [|*KoG*|, Level 44]: ERROR ne
+[2021-04-02 13:47:41]: ChillerDragon [|*KoG*|, Level 44]: mach mal nich ERROR
+[2021-04-02 13:47:46]: ***  [, Level 0]: 'jjjjj' changed name to 'hello'
+[2021-04-02 13:47:48]: ChillerDragon [|*KoG*|, Level 44]: ok ERROR ?
+[2021-04-02 13:47:49]: ERROR. [404, Level 55]: ChillerDragon:  oh doch
+[2021-04-02 13:47:51]: ✯ | FayZoR [|Supressed|, Level 42]: any: assume maintenant que t'es emilcha
