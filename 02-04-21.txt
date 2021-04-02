@@ -12108,3 +12108,5 @@
 [2021-04-02 14:30:57]: (1)sL|whutasme [, Level 0]: yes fake S Y T H N
 [2021-04-02 14:31:09]: S Y T H N [iPro, Level 37]: (1)sL|whutasme: i am real shutuo
 [2021-04-02 14:31:19]: (1)sL|whutasme [, Level 0]: S Y T H N: fake
+[2021-04-02 14:31:30]: Lucas [THECEPS, Level 33]: ChillerDragon.*:
+[2021-04-02 14:31:30]: ChillerDragon [|*KoG*|, Level 44]: Lucas: I am currently afk.
