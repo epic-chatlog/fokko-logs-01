@@ -11676,3 +11676,7 @@
 [2021-04-02 13:47:48]: ChillerDragon [|*KoG*|, Level 44]: ok ERROR ?
 [2021-04-02 13:47:49]: ERROR. [404, Level 55]: ChillerDragon:  oh doch
 [2021-04-02 13:47:51]: ✯ | FayZoR [|Supressed|, Level 42]: any: assume maintenant que t'es emilcha
+[2021-04-02 13:47:54]: YelloWorlD [404, Level 41]: any: pk changer de nom
+[2021-04-02 13:47:58]: ***  [, Level 0]: 'Falco641' has left the game
+[2021-04-02 13:47:58]: ***  [, Level 0]: 'Falco642' has left the game
+[2021-04-02 13:48:04]: WarHammer' [, Level 16]: LAG
