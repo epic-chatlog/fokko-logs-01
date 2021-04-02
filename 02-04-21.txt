@@ -4723,3 +4723,6 @@
 [2021-04-02 06:40:20]: FULL WAR [, Level 0]: Samurai: no war pls
 [2021-04-02 06:40:23]: ***  [, Level 0]: 'Virus' entered and joined the game
 [2021-04-02 06:40:26]: Mista bombastic [TrRShClNrRs, Level 40]: Killua: told me to tell him to tell me to tell u he hates u
+[2021-04-02 06:40:27]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-02 06:40:27]: ***  [, Level 0]: '(1)ES' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-02 06:40:30]: ***  [, Level 0]: 'Virus' has left the game
