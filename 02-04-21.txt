@@ -10901,3 +10901,5 @@
 [2021-04-02 12:56:02]: hhh3 [, Level 48]: ChillerDragon.*: give me 10 taser ammo
 [2021-04-02 12:56:03]: lolpoep [, Level 15]: why
 [2021-04-02 12:56:05]: ERROR. [404, Level 55]: Pigie♥:  war
+[2021-04-02 12:56:13]:   [, Level 0]: Pigie♥: ERROR.: CLAN
+[2021-04-02 12:56:17]: lolpoep [, Level 15]: no
