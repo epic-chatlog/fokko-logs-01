@@ -5578,3 +5578,6 @@
 [2021-04-02 08:37:39]: Falco642 [, Level 0]: (1)RoberGN:
 [2021-04-02 08:37:42]: (2)Salut [, Level 0]: Noxl:  you have infini jump ?
 [2021-04-02 08:37:46]: ***  [, Level 0]: Falco642 is on a killing spree with 5 blocks
+[2021-04-02 08:38:00]: ***  [γώÿÿ, Level 0]: 'Kyrma' entered and joined the game
+[2021-04-02 08:38:01]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-02 08:38:01]: ***  [, Level 0]: '__init__(self):' has left the game
