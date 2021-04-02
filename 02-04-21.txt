@@ -880,3 +880,8 @@
 [2021-04-02 01:41:50]: ***  [, Level 0]: 'Niko' entered and joined the game
 [2021-04-02 01:41:51]: BulgarianTee [xSD7, Level 38]: XD
 [2021-04-02 01:41:52]: ERROR [404, Level 73]: HeavyGeneral:  tf get weapons
+[2021-04-02 01:41:58]: ChillerDragon.* [Chilli.*, Level 41]: no he pro
+[2021-04-02 01:42:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-02 01:42:01]: ChillerDragon.* [Chilli.*, Level 41]: hammer op
+[2021-04-02 01:42:02]: HeavyGeneral [FookinLads, Level 44]: ERROR: i need time to recover my skill
+[2021-04-02 01:42:07]: ERROR [404, Level 73]: ChillerDragon:  no one talked to u so stfu
