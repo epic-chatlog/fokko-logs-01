@@ -8844,3 +8844,7 @@
 [2021-04-02 11:25:35]: BulgarianTee [xSD7, Level 0]: E
 [2021-04-02 11:25:36]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-02 11:25:37]: ***  [, Level 0]: 'PEPEL' entered and joined the game
+[2021-04-02 11:25:47]: cookie [, Level 0]: oçoooooooof
+[2021-04-02 11:25:48]: ***  [, Level 0]: '(1)RoberGN' entered and joined the game
+[2021-04-02 11:25:53]: ***  [, Level 0]: '(1)RoberGN' has left the game
+[2021-04-02 11:25:54]: cookie [, Level 0]: µ
