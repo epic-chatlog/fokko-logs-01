@@ -601,3 +601,4 @@
 [2021-04-02 01:09:50]: ***  [, Level 0]: '[D] Amirian' entered and joined the game
 [2021-04-02 01:09:52]: HeavyGeneral [FookinLads, Level 44]: to get into police i need 2 shots of grenade?
 [2021-04-02 01:09:53]: kais [, Level 65]: HeavyGeneral: 5 is max spawnweapon
+[2021-04-02 01:09:57]: kais [, Level 65]: HeavyGeneral: yeah
