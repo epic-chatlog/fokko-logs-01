@@ -1064,3 +1064,6 @@
 [2021-04-02 01:54:33]: ERROR. [404, Level 55]: son pech aber auch
 [2021-04-02 01:54:35]: (2)ChillerDrago [Chilli.*, Level 30]: xD
 [2021-04-02 01:54:40]: Leblebi [, Level 22]: power: i can help your dummy
+[2021-04-02 01:54:52]: ***  [, Level 0]: 'comic' has left the game
+[2021-04-02 01:54:56]: (1)ChillerDrago [|*KoG*|, Level 30]: aaaaaaaaaaaaa
+[2021-04-02 01:54:56]: Leblebi [, Level 22]: power: i can help your dummy
