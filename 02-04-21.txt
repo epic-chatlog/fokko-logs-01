@@ -8862,3 +8862,9 @@
 [2021-04-02 11:26:27]: ChillerDragon [|*KoG*|, Level 44]: login BulgarianTee
 [2021-04-02 11:26:37]: ChillerDragon [Chilli.*, Level 44]: login BulgarianTee !
 [2021-04-02 11:26:41]: BulgarianTee [xSD7, Level 25]: E
+[2021-04-02 11:26:48]: ***  [, Level 0]: '✯ | Chronos' entered and joined the game
+[2021-04-02 11:26:51]: ***  [, Level 0]: Shiro. finished in: 1 minute(s) 56.18 second(s)
+[2021-04-02 11:26:51]: ***  [, Level 0]: New record: 2 minute(s) 24.16 second(s) better.
+[2021-04-02 11:26:57]: Λtlantis Ψ [ᅟᅟ , Level 39]: thx
+[2021-04-02 11:26:57]: ***  [, Level 0]: Λtlantis Ψ finished in: 2 minute(s) 37.74 second(s)
+[2021-04-02 11:26:57]: ***  [, Level 0]: New record: 1 minute(s) 42.80 second(s) better.
