@@ -3429,3 +3429,8 @@
 [2021-04-02 05:04:00]: ***  [, Level 0]: 'Kyrma' has left the game
 [2021-04-02 05:04:00]: ***  [, Level 0]: 'Rainbow Tee' has left the game
 [2021-04-02 05:04:02]: ***  [, Level 0]: 'Mʎɹ シ' has left the game
+[2021-04-02 05:04:08]: Cylox♥ [♥, Level 0]: MNKY | Arin:
+[2021-04-02 05:04:12]: ***  [, Level 0]: 'hhh3' finished the special race!
+[2021-04-02 05:04:13]: ***  [, Level 0]: 'hhnaut31' finished the special race!
+[2021-04-02 05:04:13]: MNKY | Arin [MNKY, Level 30]: EVET?
+[2021-04-02 05:04:16]: ***  [, Level 0]: 'seabass' joined the spectators
