@@ -321,3 +321,5 @@
 [2021-04-02 00:32:55]: kais [, Level 65]: yes
 [2021-04-02 00:32:59]: kais [, Level 65]: he hammered me up xD
 [2021-04-02 00:33:01]: ERROR [404, Level 73]: xD
+[2021-04-02 00:33:28]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
+[2021-04-02 00:33:33]: PoliceTee [xSD7, Level 0]: E
