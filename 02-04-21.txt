@@ -12251,3 +12251,5 @@
 [2021-04-02 14:52:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-02 14:52:37]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-02 14:52:37]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' has left the game
+[2021-04-02 14:53:16]: ***  [, Level 0]: 'Keø' has left the game
+[2021-04-02 14:53:16]: ***  [, Level 0]: 'koro' has left the game
