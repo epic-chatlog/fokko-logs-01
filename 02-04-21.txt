@@ -419,3 +419,5 @@
 [2021-04-02 00:46:04]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
 [2021-04-02 00:46:10]: ***  [, Level 0]: 'Amirian YA' entered and joined the game
 [2021-04-02 00:46:11]: BulgarianTee [xSD7, Level 38]: E
+[2021-04-02 00:46:13]: BulgarianTee [xSD7, Level 38]: GAME SUX
+[2021-04-02 00:46:23]: BulgarianTee [xSD7, Level 38]: bad game
