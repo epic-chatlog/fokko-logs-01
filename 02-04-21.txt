@@ -11185,3 +11185,6 @@
 [2021-04-02 13:10:13]: ***  [, Level 0]: 'Axel' entered and joined the game
 [2021-04-02 13:10:14]: ERROR. [404, Level 55]: HeavyGeneral:  who?
 [2021-04-02 13:10:19]: HeavyGeneral [FookinLads, Level 44]: ERROR: each time he gets to police instead of tryingto block he helps all
+[2021-04-02 13:10:20]: HeavyGeneral [FookinLads, Level 44]: ERROR: chiller
+[2021-04-02 13:10:26]: HeavyGeneral [FookinLads, Level 44]: ERROR: more like retarded syndrome
+[2021-04-02 13:10:28]: ERROR. [404, Level 55]: HeavyGeneral:  yeah xDDD
