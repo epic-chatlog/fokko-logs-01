@@ -2244,3 +2244,10 @@
 [2021-04-02 03:36:36]: WarHammer [, Level 25]: Kezo: hmm
 [2021-04-02 03:36:44]: WarHammer [, Level 25]: Kezo:  wait
 [2021-04-02 03:37:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-02 03:37:05]:   [, Level 0]: lolpoep: HELP ME
+[2021-04-02 03:37:07]: ***  [, Level 0]: 'cunt' entered and joined the game
+[2021-04-02 03:37:08]: Pigie♥ [♥, Level 36]: xd
+[2021-04-02 03:37:09]: WarHammer' [, Level 15]: Kezo:  GEL
+[2021-04-02 03:37:10]: ***  [, Level 0]: 'BC|serwan' has left the game (Timeout)
+[2021-04-02 03:37:10]: ***  [, Level 0]: '[D] BC|serwan' has left the game (Timeout)
+[2021-04-02 03:37:10]: ***  [, Level 0]: 'serwan' has left the game (Too weak connection (not acked for 60 seconds))
