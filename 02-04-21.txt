@@ -3690,3 +3690,6 @@
 [2021-04-02 05:35:21]: MNKY | Arin [MNKY, Level 0]: :_
 [2021-04-02 05:35:21]: ***  [, Level 0]: '(1)Kirito' would have timed out, but can use timeout protection now
 [2021-04-02 05:35:23]: MNKY | Arin [MNKY, Level 0]: :-:
+[2021-04-02 05:35:25]: ***  [, Level 0]: 'Ghost' entered and joined the game
+[2021-04-02 05:35:29]: (2)SAUD [, Level 0]: coekie:  DONT change ur name
+[2021-04-02 05:35:31]: MNKY | Arin [MNKY, Level 0]: stop :-:
