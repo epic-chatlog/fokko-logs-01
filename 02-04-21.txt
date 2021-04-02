@@ -5025,3 +5025,7 @@
 [2021-04-02 07:13:11]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
 [2021-04-02 07:13:15]: <-_-> [, Level 13]: [D] ✯ |toxicd:
 [2021-04-02 07:13:36]: ***  [, Level 0]: 'bella.exe' has left the game (Timeout)
+[2021-04-02 07:13:40]: ***  [, Level 0]: 'Ghost 2.0' has left the game (Timeout)
+[2021-04-02 07:13:40]: ***  [, Level 0]: 'Ghost' has left the game (Timeout)
+[2021-04-02 07:13:45]: ChillerDragon.* [|*KoG*|, Level 41]: lolpoep: so for real now
+[2021-04-02 07:13:50]: ChillerDragon.* [|*KoG*|, Level 41]: lolpoep: make some tear emotes pls
