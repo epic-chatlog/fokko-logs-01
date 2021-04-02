@@ -703,3 +703,4 @@
 [2021-04-02 01:21:44]: ***  [, Level 0]: '(2)ChillerDragon' finished the special race!
 [2021-04-02 01:22:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-02 01:22:49]: ***  [, Level 0]: '(1)ChillerDragon' finished the special race!
+[2021-04-02 01:23:04]: BulgarianTee [xSD7, Level 38]: ChillerDragon: networking or softwareing?
