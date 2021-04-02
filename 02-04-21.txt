@@ -12336,3 +12336,6 @@
 [2021-04-02 15:04:43]: Λtlantis Ψ [ᅟᅟ , Level 39]: xD
 [2021-04-02 15:04:44]: Λtlantis Ψ [ᅟᅟ , Level 39]: THX
 [2021-04-02 15:04:50]: Λtlantis Ψ [ᅟᅟ , Level 39]: .d
+[2021-04-02 15:05:02]: Λtlantis Ψ [ᅟᅟ , Level 39]: INF JUMP?
+[2021-04-02 15:05:04]: Λtlantis Ψ [ᅟᅟ , Level 39]: any:  inf jump?
+[2021-04-02 15:05:06]: ***  [, Level 0]: 'Kirito' entered and joined the game
