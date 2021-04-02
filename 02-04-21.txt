@@ -5217,3 +5217,5 @@
 [2021-04-02 07:41:02]: kais [, Level 65]: u
 [2021-04-02 07:41:23]: ***  [, Level 0]: '|~|' entered and joined the game
 [2021-04-02 07:41:25]: GODLIKe. [GANG, Level 39]: nub
+[2021-04-02 07:41:27]: ***  [, Level 0]: '#3 blocker' has left the game
+[2021-04-02 07:41:38]: kais [, Level 65]: xD
