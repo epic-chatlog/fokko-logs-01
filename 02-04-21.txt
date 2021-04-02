@@ -7517,3 +7517,9 @@
 [2021-04-02 10:25:43]:   [, Level 0]: Kezo: ♥TAKO♥: NABER LAN KNK
 [2021-04-02 10:25:43]: kurama [, Level 7]: Mʎɹ シ: нет
 [2021-04-02 10:25:44]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
+[2021-04-02 10:25:54]: cookie [, Level 0]: help
+[2021-04-02 10:25:54]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-02 10:25:55]: cookie [, Level 0]: :spec
+[2021-04-02 10:25:56]: kurama [, Level 7]: Mʎɹ シ: сук
+[2021-04-02 10:25:56]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-02 10:25:56]: Friendiship ;-) [, Level 0]: help
