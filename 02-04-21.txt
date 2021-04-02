@@ -1747,3 +1747,6 @@
 [2021-04-02 03:07:22]: ChillerDragon.* [Chilli.*, Level 41]: faaaak Isegrin
 [2021-04-02 03:07:23]: ***  [, Level 0]: 'Robin Hood' entered and joined the game
 [2021-04-02 03:07:29]: Foxie♥ [♥, Level 32]: GODLIKe: ok run dog
+[2021-04-02 03:07:39]: ***  [, Level 0]: 'Amirian' has left the game (Timeout Protection over)
+[2021-04-02 03:07:39]: ***  [, Level 0]: '[D] Amirian' has left the game (Timeout Protection over)
+[2021-04-02 03:07:44]: ChillerDragon.* [Chilli.*, Level 41]: aa
