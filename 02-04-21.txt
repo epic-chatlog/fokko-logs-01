@@ -11506,3 +11506,6 @@
 [2021-04-02 13:31:13]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
 [2021-04-02 13:31:13]: ***  [, Level 0]: 'BC|Tixnix' has left the game
 [2021-04-02 13:31:15]: Noxl. [.bad, Level 35]: GOLD: i kill ChillerDragon
+[2021-04-02 13:31:23]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-02 13:31:26]: ChillerDragon [Chilli.*, Level 44]: wb YelloWorlD ?
+[2021-04-02 13:31:28]: ✯ | FayZoR [|Supressed|, Level 42]: YelloWorlD: ta pas compris que any est just un helper
