@@ -11963,3 +11963,6 @@
 [2021-04-02 14:12:44]: ChillerDragon [|*KoG*|, Level 44]: but no need to justify all good (1)sL|whutasme
 [2021-04-02 14:13:00]: (1)sL|whutasme [, Level 0]: ChillerDragon: i am the of people
 [2021-04-02 14:13:07]: (1)sL|whutasme [, Level 0]: dog
+[2021-04-02 14:13:40]: ***  [, Level 0]: WarHammer finished in: 2 minute(s)  9.48 second(s)
+[2021-04-02 14:13:40]: ***  [, Level 0]: New record: 6 minute(s) 10.92 second(s) better.
+[2021-04-02 14:13:46]: ***  [, Level 0]: WarHammer' finished in: 2 minute(s) 41.46 second(s)
