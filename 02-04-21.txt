@@ -12598,3 +12598,6 @@
 [2021-04-02 15:38:40]: ***  [, Level 0]: '(1)fameless tee' entered and joined the game
 [2021-04-02 15:39:00]: ***  [, Level 0]: '(1)fameless tee' has left the game
 [2021-04-02 15:39:00]: ***  [, Level 0]: 'Dagonaut' has left the game
+[2021-04-02 15:39:07]: ***  [, Level 0]: (1)УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-02 15:39:16]: ***  [, Level 0]: '|~|' has left the game
+[2021-04-02 15:39:16]: ***  [, Level 0]: '|-|' has left the game
