@@ -5355,3 +5355,4 @@
 [2021-04-02 07:55:21]: ***  [, Level 0]: 'power' has left the game
 [2021-04-02 07:55:21]: ***  [, Level 0]: 'power2' has left the game
 [2021-04-02 07:55:23]: Noxl [.bad, Level 48]: Pigie♥: sry
+[2021-04-02 07:55:40]: Noxl [.bad, Level 48]: bob: kk
