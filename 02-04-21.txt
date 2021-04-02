@@ -3228,3 +3228,7 @@
 [2021-04-02 04:43:50]: УБИВАТЬ! [, Level 0]: чВ
 [2021-04-02 04:43:55]: ***  [, Level 0]: '(1)kais' has left the game (Timeout Protection over)
 [2021-04-02 04:43:55]: ***  [, Level 0]: 'kais' has left the game (Timeout Protection over)
+[2021-04-02 04:44:03]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-02 04:44:06]: Rainbow Tee [KyStiKi, Level 9]: XDD
+[2021-04-02 04:44:07]: УБИВАТЬ! [, Level 0]: xD
+[2021-04-02 04:44:12]: ***  [, Level 0]: 'nameless tee' entered and joined the game
