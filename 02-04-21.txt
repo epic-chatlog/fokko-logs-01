@@ -5358,3 +5358,5 @@
 [2021-04-02 07:55:40]: Noxl [.bad, Level 48]: bob: kk
 [2021-04-02 07:55:44]: ***  [, Level 0]: '#5 blocker' has left the game
 [2021-04-02 07:55:55]: ***  [, Level 0]: Noxl's killing spree was ended by bob (6 blocks)
+[2021-04-02 07:57:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-02 07:57:04]: Noxl [.bad, Level 48]: Pigie♥: u have portl ?
