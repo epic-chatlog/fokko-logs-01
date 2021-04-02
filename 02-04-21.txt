@@ -5750,3 +5750,5 @@
 [2021-04-02 09:00:50]: Niccname [, Level 0]: wth
 [2021-04-02 09:00:58]: ***  [, Level 0]: 'Maestro' has left the game
 [2021-04-02 09:01:04]: [D] BC|Tixnix [BC, Level 25]: xD
+[2021-04-02 09:01:12]: Noxl [, Level 48]: taser
+[2021-04-02 09:01:15]: hhh3 [, Level 48]: endless
