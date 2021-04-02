@@ -5598,3 +5598,5 @@
 [2021-04-02 08:40:10]: ***  [, Level 0]: (2)Kirito finished in: 3 minute(s) 11.94 second(s)
 [2021-04-02 08:40:19]: ***  [, Level 0]: MÊŽÉ¹ ã‚· finished in: 4 minute(s) 59.68 second(s)
 [2021-04-02 08:40:20]: ***  [ýÿÿ, Level 0]: (3)Kirito finished in: 5 minute(s) 38.24 second(s)
+[2021-04-02 08:40:31]: Niccname [, Level 0]: thx
+[2021-04-02 08:40:32]: sun.slow(y) [sunrise., Level 35]: ENDLESS
