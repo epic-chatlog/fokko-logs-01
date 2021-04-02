@@ -2604,3 +2604,5 @@
 [2021-04-02 03:54:32]: Pigie♥ [♥, Level 36]: ChillerDragon.*: << up
 [2021-04-02 03:54:33]: Isegrin [, Level 54]: f"{self.name}": fak of gay
 [2021-04-02 03:54:36]: Kezo [FookinLads, Level 41]: WarHammer: burda bir 20 dk beklicem
+[2021-04-02 03:54:41]: ChillerDragon.* [|*KoG*|, Level 41]: ? power
+[2021-04-02 03:54:44]: lolpoep [Ape, Level 0]: flap
