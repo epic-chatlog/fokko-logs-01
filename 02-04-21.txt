@@ -798,3 +798,4 @@
 [2021-04-02 01:33:38]: ***  [, Level 0]: 'ist ein Noob' has left the game
 [2021-04-02 01:34:01]: BulgarianTee [xSD7, Level 38]: chillergod
 [2021-04-02 01:34:02]: comic [comically, Level 12]: no
+[2021-04-02 01:34:18]: ChillerDragon.* [Chilli.*, Level 41]: xD
