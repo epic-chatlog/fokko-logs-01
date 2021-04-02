@@ -5502,3 +5502,7 @@
 [2021-04-02 08:24:02]: УБИВАТЬ! [, Level 0]: Xd
 [2021-04-02 08:24:05]: ***  [, Level 0]: 'УБИВАТЬ!' has left the game
 [2021-04-02 08:24:41]: Noxl [.bad, Level 48]: |-|: down
+[2021-04-02 08:24:44]: ***  [, Level 0]: '|-|' has left the game (Timeout)
+[2021-04-02 08:24:44]: ***  [, Level 0]: '|~|' has left the game (Timeout)
+[2021-04-02 08:24:52]: Shiro. [, Level 50]: men watafack
+[2021-04-02 08:24:55]: ***  [, Level 0]: 'Noxl.' entered and joined the game
