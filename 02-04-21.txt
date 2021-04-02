@@ -7083,3 +7083,9 @@
 [2021-04-02 10:06:59]: kais [, Level 65]: sL|whutasme: now it is in your bank
 [2021-04-02 10:07:00]: power [TrRShClNrRs, Level 0]: kk comic
 [2021-04-02 10:07:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-02 10:07:04]: sL|whutasme [, Level 0]: thx
+[2021-04-02 10:07:06]: kais [, Level 65]: sL|whutasme: do /stats
+[2021-04-02 10:07:07]: comic [comically, Level 12]: power: i missclicked on you
+[2021-04-02 10:07:10]: hhh3 [, Level 48]: weqe: fdjksfodısann
+[2021-04-02 10:07:12]: ChillerDragon [Chilli.*, Level 44]: weqe: best brother
+[2021-04-02 10:07:12]: kais [, Level 65]: [D] sL|whutasme: or /money
