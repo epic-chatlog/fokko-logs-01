@@ -11624,3 +11624,9 @@
 [2021-04-02 13:44:08]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
 [2021-04-02 13:44:10]: (2)ChillerDrago [|*KoG*|, Level 31]: ay ERROR hast du mich gespikt?
 [2021-04-02 13:44:10]: Falco642 [, Level 0]: ChillerDragon: i suppse you dont even remember it
+[2021-04-02 13:44:14]: ERROR. [404, Level 55]: right
+[2021-04-02 13:44:15]: Noxl [.bad, Level 0]: lagg
+[2021-04-02 13:44:18]: (2)ChillerDrago [|*KoG*|, Level 31]: mach doch nich ERROR
+[2021-04-02 13:44:20]: BulgarianTee [xSD7, Level 0]: E
+[2021-04-02 13:44:21]: ***  [, Level 0]: 'mo3taz' entered and joined the game
+[2021-04-02 13:44:23]: (1)ERROR. [404, Level 40]: was mach doch nicht ?
