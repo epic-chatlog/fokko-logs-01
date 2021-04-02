@@ -7848,3 +7848,4 @@
 [2021-04-02 10:41:36]: (1)kais [, Level 58]: kurama: comming
 [2021-04-02 10:41:36]: ***  [, Level 0]: 'BulgarianTee' entered and joined the game
 [2021-04-02 10:41:39]: kurama [, Level 7]: (1)kais: ty
+[2021-04-02 10:41:51]: ***  [, Level 0]: ChillerDragon.* is on a killing spree with 5 blocks
