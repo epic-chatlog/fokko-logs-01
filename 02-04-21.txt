@@ -2364,3 +2364,10 @@
 [2021-04-02 03:41:41]: Pigie♥ [♥, Level 36]: (1)Kirito:
 [2021-04-02 03:41:41]: power [TrRShClNrRs, Level 0]: f"{self.name}":
 [2021-04-02 03:41:43]: Pigie♥ [♥, Level 36]: (1)Kirito:
+[2021-04-02 03:41:47]: WarHammer' [, Level 15]: Kezo:  LA GELSENE
+[2021-04-02 03:41:49]: f"{self.name}" [, Level 0]: power:
+[2021-04-02 03:41:52]: Pigie♥ [♥, Level 36]: (1)Kirito: i pressed k
+[2021-04-02 03:41:53]: WarHammer' [, Level 15]: Kezo:  aloo
+[2021-04-02 03:41:55]: MNKY | Arin [MNKY, Level 0]: Fuck
+[2021-04-02 03:41:55]: GODLIKe [hax, Level 44]: oyun krallı: yukarıya laser getirsene
+[2021-04-02 03:41:56]:   [, Level 0]: •Slowy: WarHammer: geldim
