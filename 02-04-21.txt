@@ -6891,3 +6891,6 @@
 [2021-04-02 09:57:56]: ***  [, Level 0]: 'WarHammer'' left the minigame 'Instagib FNG'
 [2021-04-02 09:57:57]:   [, Level 0]: (1)Λtlantis Ψ: [D] ✯ |toxicd:  stop
 [2021-04-02 09:58:05]: ***  [, Level 0]: 'WarHammer'' joined the minigame 'Instagib Boom FNG', use '/boomfng' to join aswell
+[2021-04-02 09:58:15]: ♥TAKO♥ [, Level 24]: sun.slow(y):  peace?
+[2021-04-02 09:58:16]: Boti. [.bad, Level 32]: MONKE BACK
+[2021-04-02 09:58:18]:   [, Level 0]: weqe: Boti.: <3
