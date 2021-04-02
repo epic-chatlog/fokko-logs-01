@@ -5306,3 +5306,4 @@
 [2021-04-02 07:52:16]: ***  [, Level 0]: 'mosse' entered and joined the game
 [2021-04-02 07:52:21]: ***  [, Level 0]: 'mosse' has left the game
 [2021-04-02 07:52:21]: ***  [, Level 0]: Noxl is on a killing spree with 5 blocks
+[2021-04-02 07:52:32]: Noxl [.bad, Level 48]: come
