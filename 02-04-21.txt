@@ -459,3 +459,6 @@
 [2021-04-02 00:49:50]: kais [, Level 65]: yes, i am rn
 [2021-04-02 00:49:59]: BulgarianTee [xSD7, Level 38]: (1)kais: always has been
 [2021-04-02 00:50:41]: BulgarianTee [xSD7, Level 38]: (1)kais: free me i wont do nothing bad
+[2021-04-02 00:50:48]: ***  [, Level 0]: '(2)SAUD' has left the game (Timeout)
+[2021-04-02 00:50:48]: ***  [, Level 0]: '(1)SAUD' has left the game (Timeout)
+[2021-04-02 00:50:48]: ***  [, Level 0]: 'SAUD' has left the game (Timeout)
