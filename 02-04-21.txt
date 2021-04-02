@@ -4525,3 +4525,5 @@
 [2021-04-02 06:31:33]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 10 blocks
 [2021-04-02 06:31:35]: incoming [TrRShClNrRs, Level 36]: ChillerDragon.*: DO I MONI MONI?
 [2021-04-02 06:31:38]: Cylox. [, Level 0]: no
+[2021-04-02 06:31:42]: ChillerDragon [|*KoG*|, Level 44]: incoming: fix name idk who u are
+[2021-04-02 06:31:46]: ChillerDragon [|*KoG*|, Level 44]: are u terston?
