@@ -3762,3 +3762,5 @@
 [2021-04-02 05:41:36]: ***  [, Level 0]: 'Ghost' has left the game
 [2021-04-02 05:41:40]: lolpoep [Ape, Level 14]: idn
 [2021-04-02 05:42:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-02 05:42:06]: ***  [, Level 0]: 'Desi' entered and joined the game
+[2021-04-02 05:42:07]: lolpoep [Ape, Level 14]: is dis for fun ????
