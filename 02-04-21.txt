@@ -1196,3 +1196,6 @@
 [2021-04-02 02:11:59]: ***  [, Level 0]: 'HeavyGeneral' has left the game (Timeout)
 [2021-04-02 02:12:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-02 02:12:02]: GODLIKe [hax, Level 44]: aaaaaaaa
+[2021-04-02 02:12:03]: ***  [, Level 0]: (1)ERROR is on a killing spree with 5 blocks
+[2021-04-02 02:12:04]: power2 [TrRShClNrRs, Level 0]: gay
+[2021-04-02 02:12:10]: GODLIKe [hax, Level 44]: (1)ERROR: u dummy have 10k xd
