@@ -1315,3 +1315,7 @@
 [2021-04-02 02:28:46]: ***  [, Level 0]: Pimka✿ finished in: 1 minute(s) 59.34 second(s)
 [2021-04-02 02:28:46]: ***  [, Level 0]: Pimka☀ finished in: 3 minute(s)  2.34 second(s)
 [2021-04-02 02:28:47]: Marcisten [hax, Level 44]: np
+[2021-04-02 02:28:58]: ***  [, Level 0]: ES finished in: 1 minute(s) 22.82 second(s)
+[2021-04-02 02:28:58]: ***  [, Level 0]: New record: 3 minute(s)  7.20 second(s) better.
+[2021-04-02 02:29:03]: ***  [, Level 0]: 'Lucas' finished the special race!
+[2021-04-02 02:29:04]: ***  [, Level 0]: '.' changed name to 'Amirian'
