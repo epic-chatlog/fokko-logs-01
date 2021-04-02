@@ -1211,3 +1211,5 @@
 [2021-04-02 02:13:19]: ***  [, Level 0]: '(1)ERROR' has left the game
 [2021-04-02 02:13:20]: ***  [, Level 0]: 'ERROR.' has left the game
 [2021-04-02 02:13:20]: ***  [, Level 0]: 'ERROR' has left the game
+[2021-04-02 02:13:33]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
+[2021-04-02 02:13:37]: ***  [, Level 0]: '~DemoizL~' has left the game (Timeout)
