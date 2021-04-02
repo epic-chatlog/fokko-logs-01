@@ -3469,3 +3469,7 @@
 [2021-04-02 05:06:53]: [D] ✯ |toxicd [|Supressed, Level 20]: (1)SAUD: nah
 [2021-04-02 05:07:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-02 05:07:06]: (1)SAUD [, Level 13]: ✯ |toxicdaddy:  YES U DID but its okay
+[2021-04-02 05:07:08]: ***  [, Level 0]: 'P4PyrOs' entered and joined the game
+[2021-04-02 05:07:18]: ***  [, Level 0]: '✯ |toxicdaddy' has left the game
+[2021-04-02 05:07:18]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
+[2021-04-02 05:07:19]: hhh3 [, Level 48]: ✯ |toxicdaddy: ?
