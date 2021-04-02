@@ -487,3 +487,5 @@
 [2021-04-02 00:55:21]: ***  [, Level 0]: '(1)' entered and joined the game
 [2021-04-02 00:55:29]: (1)kais [, Level 58]: ok cool
 [2021-04-02 00:55:38]: BulgarianTee [xSD7, Level 38]: (1)kais: use it or gae
+[2021-04-02 00:55:45]: (1)kais [, Level 58]: no
+[2021-04-02 00:55:48]: ***  [, Level 0]: '(1)' changed name to 'HeavyGeneral'
