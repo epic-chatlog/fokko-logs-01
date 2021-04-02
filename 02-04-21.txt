@@ -11355,3 +11355,10 @@
 [2021-04-02 13:19:33]: Marcisten [Helper, Level 0]: ~DemoizL~: you have been unfortunately killed
 [2021-04-02 13:19:34]: ***  [, Level 0]: 'MieSlime' has left the game
 [2021-04-02 13:19:38]: HeavyGeneral [FookinLads, Level 44]: ERROR: sad they give up on first loose
+[2021-04-02 13:19:44]: ERROR. [404, Level 55]: HeavyGeneral:  like always
+[2021-04-02 13:19:45]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
+[2021-04-02 13:19:46]: Falco642 [, Level 0]: why dont u connect dummy
+[2021-04-02 13:19:48]: ChillerDragon [Chilli.*, Level 44]: aaaaaaaaaaaa Isegrin !
+[2021-04-02 13:19:49]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
+[2021-04-02 13:19:50]: ✯ | FayZoR [|Supressed|, Level 42]: (1)Λtlantis Ψ:
+[2021-04-02 13:19:52]: HeavyGeneral [FookinLads, Level 44]: ERROR: cringe
