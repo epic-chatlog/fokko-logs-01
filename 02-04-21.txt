@@ -12375,3 +12375,5 @@
 [2021-04-02 15:10:19]: ✯ | FayZoR [|Supressed|, Level 42]: nob
 [2021-04-02 15:10:28]: ***  [, Level 0]: '(1)P4Pyr0s' has left the game (Timeout)
 [2021-04-02 15:10:28]: ***  [, Level 0]: 'P' has left the game (Timeout)
+[2021-04-02 15:10:34]: fomjn [RUA, Level 0]: ✯ | FayZoR: ?
+[2021-04-02 15:10:36]: Kirito [, Level 32]: hahahahahhaha
