@@ -323,3 +323,4 @@
 [2021-04-02 00:33:01]: ERROR [404, Level 73]: xD
 [2021-04-02 00:33:28]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
 [2021-04-02 00:33:33]: PoliceTee [xSD7, Level 0]: E
+[2021-04-02 00:33:38]: ***  [, Level 0]: 'PoliceTee' has left the game
