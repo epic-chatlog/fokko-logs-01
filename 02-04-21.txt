@@ -2711,3 +2711,5 @@
 [2021-04-02 04:02:06]: ***  [, Level 0]: ChillerDragon finished in: 1 minute(s) 49.36 second(s)
 [2021-04-02 04:02:07]: lolpoep [Ape, Level 0]: lucas help me
 [2021-04-02 04:02:11]: ***  [, Level 0]: 'MieSlime' has left the game
+[2021-04-02 04:02:21]: ***  [, Level 0]: 'Тучка' has left the game
+[2021-04-02 04:02:25]: ***  [, Level 0]: 'Isegrin' has left the game
