@@ -576,3 +576,4 @@
 [2021-04-02 01:06:35]: ERROR. [404, Level 55]: HeavyGeneral:  just kill
 [2021-04-02 01:06:37]: kais [, Level 65]: HeavyGeneral: you don't need me to buy grenade xD
 [2021-04-02 01:06:43]: ERROR. [404, Level 55]: HeavyGeneral:  u only lose money if ure freeze
+[2021-04-02 01:06:48]: kais [, Level 65]: HeavyGeneral: take ur money and respawn
