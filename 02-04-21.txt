@@ -428,3 +428,5 @@
 [2021-04-02 00:46:49]: (1)kais [, Level 58]: xD
 [2021-04-02 00:46:56]: BulgarianTee [xSD7, Level 38]: BAD
 [2021-04-02 00:46:57]: BulgarianTee [xSD7, Level 38]: LAg
+[2021-04-02 00:47:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-02 00:47:02]: SAUD [, Level 20]: nam:  i cant
