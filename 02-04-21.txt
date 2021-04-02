@@ -3901,3 +3901,12 @@
 [2021-04-02 05:52:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-02 05:52:03]: WarHammer [, Level 25]: Kezo:  DC
 [2021-04-02 05:52:04]: (2)ChillerDrago [|*KoG*|, Level 31]: i think ill just check demos TL|ŦƹƦ$ŦǾN
+[2021-04-02 05:52:12]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
+[2021-04-02 05:52:12]: ***  [, Level 0]: 'ChillerDragon' has left the game
+[2021-04-02 05:52:13]: ***  [, Level 0]: '(2)ChillerDragon' changed name to 'ChillerDragon'
+[2021-04-02 05:52:14]: [D] mamikral011 [, Level 0]: Lucas: war?
+[2021-04-02 05:52:14]: ***  [, Level 0]: 'IPodex' entered and joined the game
+[2021-04-02 05:52:16]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: ChillerDragon: you are the biggest bully
+[2021-04-02 05:52:16]: ***  [, Level 0]: 'ChillerDragon' has left the game
+[2021-04-02 05:52:16]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
+[2021-04-02 05:52:18]: ***  [, Level 0]: 'IPodex' has left the game
