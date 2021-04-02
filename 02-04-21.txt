@@ -539,3 +539,5 @@
 [2021-04-02 01:02:43]: HeavyGeneral [FookinLads, Level 44]: kais: show
 [2021-04-02 01:02:52]: kais [, Level 65]: i just took endless :(
 [2021-04-02 01:02:56]: HeavyGeneral [FookinLads, Level 44]: kais: sec i buy grenade
+[2021-04-02 01:03:03]: ERROR. [404, Level 55]: kais i let u in endless room again then
+[2021-04-02 01:03:08]: BulgarianTee [xSD7, Level 38]: HeavyGeneral: i could show if my ping wasnt triple the amount it is
