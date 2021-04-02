@@ -1298,3 +1298,5 @@
 [2021-04-02 02:26:52]: ***  [, Level 0]: 'power2' has left the game
 [2021-04-02 02:27:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-02 02:27:25]: Lucas [THECEPS, Level 32]: Ghost 2.0: ?
+[2021-04-02 02:27:31]: Marcisten [hax, Level 44]: Lucas: war
+[2021-04-02 02:27:40]: Lucas [THECEPS, Level 32]: Marcisten: ?
