@@ -5614,3 +5614,6 @@
 [2021-04-02 08:42:52]: ***  [, Level 0]: Falco642 is on a killing spree with 5 blocks
 [2021-04-02 08:43:10]: sun.slow(y) [sunrise., Level 35]: need dummy
 [2021-04-02 08:43:10]: ***  [, Level 0]: Noxl is on a killing spree with 5 blocks
+[2021-04-02 08:43:20]: ***  [‹þÿÿ, Level 0]: 'Noob Redis' entered and joined the game
+[2021-04-02 08:43:23]: ***  [, Level 0]: '[D] *Chilli' entered and joined the game
+[2021-04-02 08:43:27]: ***  [˜, Level 0]: 'nameless tee' joined the spectators
