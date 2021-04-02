@@ -11858,3 +11858,4 @@
 [2021-04-02 14:00:48]: Noob Redis [dum, Level 47]: Isegrin: you best pipiska
 [2021-04-02 14:01:03]: Isegrin [, Level 54]: Noob Redis: show pipiska
 [2021-04-02 14:01:03]: (1)ERROR [404, Level 47]: (2)ChillerDrago:  10jahre ictf/zcatch dann reden wir nochmal war mal besser aber die pause machts.
+[2021-04-02 14:01:16]: (2)ChillerDrago [|*KoG*|, Level 31]: flex ERROR xd
