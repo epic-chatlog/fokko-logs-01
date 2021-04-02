@@ -12121,3 +12121,5 @@
 [2021-04-02 14:32:46]: (1)sL|whutasme [, Level 0]: S Y T H N: then you are just weird
 [2021-04-02 14:32:52]: Λtlantis Ψ [ᅟᅟ , Level 39]: xD
 [2021-04-02 14:32:56]: Λtlantis Ψ [ᅟᅟ , Level 39]: koro:  ?
+[2021-04-02 14:33:04]: ***  [, Level 0]: Λtlantis Ψ's killing spree was ended by koro (19 blocks)
+[2021-04-02 14:33:08]: Kirito [, Level 32]: __init__(self):: peace ?
