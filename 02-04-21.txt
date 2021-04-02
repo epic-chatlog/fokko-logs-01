@@ -6343,3 +6343,10 @@
 [2021-04-02 09:35:18]: Boti. [.bad, Level 32]: kion hagydt
 [2021-04-02 09:35:22]: Kiøn1029 [.bad, Level 31]: mester lövész vok
 [2021-04-02 09:35:25]: Boti. [.bad, Level 32]: az
+[2021-04-02 09:35:27]: Boti. [.bad, Level 32]: kion a sniper
+[2021-04-02 09:35:29]: ChillerDragon [|*KoG*|, Level 44]: not warm
+[2021-04-02 09:35:32]: Kiøn1029 [.bad, Level 31]: irlben tényleg
+[2021-04-02 09:35:32]: ChillerDragon [|*KoG*|, Level 44]: ok war Boti.
+[2021-04-02 09:35:33]: ***  [, Level 0]: 'Sky' has left the game
+[2021-04-02 09:35:38]: Boti. [.bad, Level 32]: XDD
+[2021-04-02 09:35:38]: kais [, Level 65]: sL|whutasme:  you also need to /login <account name> <password>
