@@ -2935,3 +2935,5 @@
 [2021-04-02 04:15:09]: PoliceTee [xSD7, Level 0]: ChillerDragon: you here?
 [2021-04-02 04:15:09]: ChillerDragon [|*KoG*|, Level 44]: PoliceTee: I am currently afk.
 [2021-04-02 04:15:10]: Pigie♥ [♥, Level 36]: and watch
+[2021-04-02 04:15:23]: (1)/ [, Level 0]: police
+[2021-04-02 04:15:25]: (1)/ [, Level 0]: help
