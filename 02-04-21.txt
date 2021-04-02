@@ -2345,3 +2345,10 @@
 [2021-04-02 03:41:05]: ***  [, Level 0]: WarHammer finished in: 4 minute(s) 20.04 second(s)
 [2021-04-02 03:41:05]: ***  [, Level 0]: New record: 4 minute(s)  0.36 second(s) better.
 [2021-04-02 03:41:08]: WarHammer [, Level 25]: ,KEZO SPEC
+[2021-04-02 03:41:10]: WarHammer [, Level 25]: Kezo:  SPEC
+[2021-04-02 03:41:12]: ***  [, Level 0]: 'gamer' joined the spectators
+[2021-04-02 03:41:16]: Isegrin [, Level 54]: power: they were wrong wTF
+[2021-04-02 03:41:16]: ***  [, Level 0]: 'gamer' joined the game
+[2021-04-02 03:41:16]: ***  [, Level 0]: 'rayen' entered and joined the game
+[2021-04-02 03:41:19]: Kezo [FookinLads, Level 41]: WarHammer: lan nasıl girdin :d
+[2021-04-02 03:41:20]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
