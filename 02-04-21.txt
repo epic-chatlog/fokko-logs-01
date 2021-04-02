@@ -12563,3 +12563,5 @@
 [2021-04-02 15:34:13]: ***  [, Level 0]: 'brainless tee' has left the game
 [2021-04-02 15:34:13]: ***  [, Level 0]: 'x7|KshKsh99' has left the game
 [2021-04-02 15:34:15]: Λtlantis Ψ [ᅟᅟ , Level 39]: xd
+[2021-04-02 15:34:29]: ***  [, Level 0]: 'x7|KshKsh99' entered and joined the game
+[2021-04-02 15:34:30]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
