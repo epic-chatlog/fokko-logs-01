@@ -10108,3 +10108,7 @@
 [2021-04-02 12:19:55]: ***  [, Level 0]: '__init__(self):' finished the special race!
 [2021-04-02 12:19:57]: hhh3 [, Level 48]: nerdesın
 [2021-04-02 12:19:57]: ***  [, Level 0]: 'Neosia' entered and joined the game
+[2021-04-02 12:19:57]: GODLIKe [hax, Level 44]: hhnaut31: hay amk
+[2021-04-02 12:19:59]: ***  [, Level 0]: '(1)Friendiship ;' finished the special race!
+[2021-04-02 12:20:02]: ***  [, Level 0]: 'f"{self.name}"' finished the special race!
+[2021-04-02 12:20:06]: GODLIKe [hax, Level 44]: hhnaut31: öldüm sen gelene kadar amk
