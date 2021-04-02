@@ -11811,3 +11811,5 @@
 [2021-04-02 13:57:30]: (1)ERROR [404, Level 47]: well ure bad fake
 [2021-04-02 13:57:36]: (2)ChillerDrago [|*KoG*|, Level 31]: oke ERROR ? wie sieht das dann aus
 [2021-04-02 13:57:36]: Noxl [.bad, Level 0]: VeemID: help mee
+[2021-04-02 13:57:43]: Noxl [.bad, Level 0]: VeemID: okk
+[2021-04-02 13:57:48]: (1)ERROR [404, Level 47]: (2)ChillerDrago:  noch nicht ausprobiert
