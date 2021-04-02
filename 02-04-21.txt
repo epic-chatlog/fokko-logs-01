@@ -1826,3 +1826,6 @@
 [2021-04-02 03:15:02]: MNKY | Arin [MNKY, Level 15]: du bist so weird alter
 [2021-04-02 03:15:02]: ***  [, Level 0]: 'Kirito' entered and joined the game
 [2021-04-02 03:15:10]: ***  [, Level 0]: ChillerDragon is on a killing spree with 5 blocks
+[2021-04-02 03:15:26]: ChillerDragon [Chilli.*, Level 44]: pretty sure we have war 1
+[2021-04-02 03:15:29]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
+[2021-04-02 03:15:33]: 1 [, Level 0]: no
