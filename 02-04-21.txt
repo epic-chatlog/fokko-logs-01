@@ -11509,3 +11509,6 @@
 [2021-04-02 13:31:23]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-02 13:31:26]: ChillerDragon [Chilli.*, Level 44]: wb YelloWorlD ?
 [2021-04-02 13:31:28]: ✯ | FayZoR [|Supressed|, Level 42]: YelloWorlD: ta pas compris que any est just un helper
+[2021-04-02 13:31:36]: ChillerDragon [|*KoG*|, Level 44]: wb sok YelloWorlD
+[2021-04-02 13:31:40]: sL|whutasme [, Level 4]: i am so sorry ERROR
+[2021-04-02 13:31:46]: sL|whutasme [, Level 4]: excuse me pls ERROR
