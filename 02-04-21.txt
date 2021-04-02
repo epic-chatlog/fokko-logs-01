@@ -3606,3 +3606,5 @@
 [2021-04-02 05:22:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-02 05:22:30]: Ðream [TrRShClNrRs, Level 46]: David?
 [2021-04-02 05:22:50]: Ðream [TrRShClNrRs, Level 46]: :D
+[2021-04-02 05:23:15]: slim fuk [, Level 36]: XDDDDDDD
+[2021-04-02 05:23:16]: ***  [, Level 0]: '[D] BC|Tixnix' joined the minigame 'Block', use '/block' to join aswell
