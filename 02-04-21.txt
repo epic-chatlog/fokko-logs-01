@@ -352,3 +352,6 @@
 [2021-04-02 00:36:03]: BulgarianTee [xSD7, Level 0]: (1)kais: i would describe it if i saw it in less than 5 sec delay
 [2021-04-02 00:36:28]: BulgarianTee [xSD7, Level 38]: speedrun timing myself out any%
 [2021-04-02 00:36:32]: kais [, Level 65]: spookygang
+[2021-04-02 00:36:58]: BulgarianTee [xSD7, Level 38]: E
+[2021-04-02 00:37:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-02 00:37:08]: BulgarianTee [xSD7, Level 38]: ERROR: thats me, kais
