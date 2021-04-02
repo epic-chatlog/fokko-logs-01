@@ -649,3 +649,4 @@
 [2021-04-02 01:15:48]: ***  [, Level 0]: 'nam' has left the game (Timeout)
 [2021-04-02 01:15:52]: BulgarianTee [xSD7, Level 38]: E
 [2021-04-02 01:16:12]: BulgarianTee [xSD7, Level 38]: kais: go to school already
+[2021-04-02 01:16:23]: (1)kais [, Level 58]: i go now
