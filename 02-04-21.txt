@@ -3748,3 +3748,5 @@
 [2021-04-02 05:40:23]: ***  [, Level 0]: 'koro' has left the game (Timeout Protection over)
 [2021-04-02 05:40:27]: Lucas [THECEPS, Level 33]: lolpoep: for you
 [2021-04-02 05:40:28]: Kezo [FookinLads, Level 41]: mamikral011: efm karşim
+[2021-04-02 05:40:39]: ***  [, Level 0]: 'Met♥' changed name to 'Sabzero'
+[2021-04-02 05:40:47]: ***  [, Level 0]: '(1)Ghost' entered and joined the game
