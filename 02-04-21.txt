@@ -12513,3 +12513,7 @@
 [2021-04-02 15:30:59]: ***  [, Level 0]: 'any' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-02 15:30:59]: ***  [, Level 0]: 'any²' has left the game (Timeout)
 [2021-04-02 15:31:02]: Λtlantis Ψ [ᅟᅟ , Level 39]: xD
+[2021-04-02 15:31:10]: [D] ♥TAKO♥ [, Level 0]: ı wanna plot :c
+[2021-04-02 15:31:12]: Λtlantis Ψ [ᅟᅟ , Level 39]: xD
+[2021-04-02 15:31:13]: [D] ♥TAKO♥ [, Level 0]: any way
+[2021-04-02 15:31:14]: Λtlantis Ψ [ᅟᅟ , Level 39]: xD
