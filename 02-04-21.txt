@@ -11784,3 +11784,6 @@
 [2021-04-02 13:55:33]: (1)ERROR [404, Level 47]: any default
 [2021-04-02 13:55:35]: (1)ChillerDrago [Chilli.*, Level 30]: welcher ERROR
 [2021-04-02 13:55:42]: (1)ERROR [404, Level 47]: (1)ChillerDrago:  secret
+[2021-04-02 13:55:50]: (1)ChillerDrago [Chilli.*, Level 30]: von nudelsaft der oder was
+[2021-04-02 13:55:53]: ***  [, Level 0]: any is on a killing spree with 5 blocks
+[2021-04-02 13:55:56]: (1)ERROR [404, Level 47]: nein das nur killlog und chat
