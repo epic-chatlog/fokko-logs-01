@@ -11447,3 +11447,5 @@
 [2021-04-02 13:26:36]: ***  [, Level 0]: 'i3's tee' has left the game
 [2021-04-02 13:26:38]: ERROR [404, Level 73]: like always i just smoked one
 [2021-04-02 13:26:42]: ChillerDragon.* [|*KoG*|, Level 41]: omg stop saying that for real HeavyGeneral i come all the time and then u go afk should i just give up or what
+[2021-04-02 13:26:49]: ChillerDragon.* [|*KoG*|, Level 41]: i respawn non stop HeavyGeneral
+[2021-04-02 13:26:52]: ***  [, Level 0]: '(1)УБИВАТЬ!' entered and joined the game
