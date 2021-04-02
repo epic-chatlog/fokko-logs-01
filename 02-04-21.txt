@@ -1118,3 +1118,5 @@
 [2021-04-02 01:59:56]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' would have timed out, but can use timeout protection now
 [2021-04-02 02:00:40]: WarHammer [, Level 25]: eyw kral
 [2021-04-02 02:01:25]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
+[2021-04-02 02:01:33]: HeavyGeneral [FookinLads, Level 44]: Dog xa-xa0))
+[2021-04-02 02:01:34]: ***  [, Level 0]: '[D] Deadmouse' has left the game
