@@ -8414,3 +8414,6 @@
 [2021-04-02 11:06:38]: ***  [, Level 0]: ᅟᅟ is on a killing spree with 5 blocks
 [2021-04-02 11:06:38]: kurama [, Level 7]: Fluffy: неееееееееееееееть кота износиловали в переулке
 [2021-04-02 11:06:40]: ***  [, Level 0]: '✯ | FayZoR' entered and joined the game
+[2021-04-02 11:06:59]: S Y T H N [iPro, Level 37]: ES: ...
+[2021-04-02 11:07:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-02 11:07:05]: ***  [, Level 0]: ᅟᅟ's killing spree was ended by NENNY196 (5 blocks)
