@@ -5240,3 +5240,4 @@
 [2021-04-02 07:43:14]: kurama [, Level 6]: Lucas: ok
 [2021-04-02 07:43:48]: Lucas [THECEPS, Level 33]: kurama: how much do you have
 [2021-04-02 07:43:54]: kurama [, Level 6]: Lucas: 10]
+[2021-04-02 07:44:32]: kurama [, Level 6]: Lucas: im on police
