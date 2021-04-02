@@ -5138,3 +5138,8 @@
 [2021-04-02 07:31:32]: ***  [, Level 0]: 'Falco642' has left the game
 [2021-04-02 07:31:44]: Meetiteusz [TrRShClNrRs, Level 0]: GODLIKe: its all
 [2021-04-02 07:31:45]: GODLIKe. [GANG, Level 0]: Meetiteusz: spec me
+[2021-04-02 07:31:47]: Salut [, Level 31]: kais:  toujours aussi sadique
+[2021-04-02 07:31:48]: GODLIKe. [GANG, Level 0]: Meetiteusz: here
+[2021-04-02 07:31:49]: ***  [, Level 0]: 'iSomay' entered and joined the game
+[2021-04-02 07:31:50]: ***  [, Level 0]: 'Falco641' entered and joined the game
+[2021-04-02 07:31:55]: ***  [, Level 0]: 'iSomay' has left the game
