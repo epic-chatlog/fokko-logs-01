@@ -12508,3 +12508,8 @@
 [2021-04-02 15:30:23]: Λtlantis Ψ [ᅟᅟ , Level 39]: (1)✯ | FayZoR:
 [2021-04-02 15:30:26]: Λtlantis Ψ [ᅟᅟ , Level 39]: can you yhelp me now
 [2021-04-02 15:30:51]: Λtlantis Ψ [ᅟᅟ , Level 39]: [D] ♥TAKO♥:  luk
+[2021-04-02 15:30:53]: Λtlantis Ψ [ᅟᅟ , Level 39]: what happend
+[2021-04-02 15:30:58]: Λtlantis Ψ [ᅟᅟ , Level 39]: i cant edit
+[2021-04-02 15:30:59]: ***  [, Level 0]: 'any' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-02 15:30:59]: ***  [, Level 0]: 'any²' has left the game (Timeout)
+[2021-04-02 15:31:02]: Λtlantis Ψ [ᅟᅟ , Level 39]: xD
