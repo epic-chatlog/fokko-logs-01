@@ -584,3 +584,4 @@
 [2021-04-02 01:07:04]: ***  [, Level 0]: New record: 3 minute(s) 50.40 second(s) better.
 [2021-04-02 01:07:04]: ERROR. [404, Level 55]: xD
 [2021-04-02 01:07:05]: ***  [, Level 0]: nam finished in: 3 minute(s) 27.78 second(s)
+[2021-04-02 01:07:21]: HeavyGeneral [FookinLads, Level 44]: how do i withdraw specific number
