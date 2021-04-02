@@ -823,3 +823,7 @@
 [2021-04-02 01:35:45]: nam [, Level 0]: HELP
 [2021-04-02 01:35:54]: nam [, Level 0]: Wheels.:  help
 [2021-04-02 01:35:59]: ***  [, Level 0]: 'nam' has been muted for 60 seconds
+[2021-04-02 01:36:14]: ***  [, Level 0]: 'nam' joined the spectators
+[2021-04-02 01:36:16]: ChillerDragon.* [|*KoG*|, Level 41]: aaaaaaaaa
+[2021-04-02 01:36:18]: ***  [, Level 0]: 'nam' joined the game
+[2021-04-02 01:36:19]: BulgarianTee [xSD7, Level 38]: FUKIN
