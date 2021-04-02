@@ -2713,3 +2713,5 @@
 [2021-04-02 04:02:11]: ***  [, Level 0]: 'MieSlime' has left the game
 [2021-04-02 04:02:21]: ***  [, Level 0]: 'Тучка' has left the game
 [2021-04-02 04:02:25]: ***  [, Level 0]: 'Isegrin' has left the game
+[2021-04-02 04:02:36]: ChillerDragon [Chilli.*, Level 44]: aaaaa
+[2021-04-02 04:02:38]: ***  [, Level 0]: 'IDK my name' entered and joined the game
