@@ -1279,3 +1279,6 @@
 [2021-04-02 02:24:51]: ***  [, Level 0]: power2's killing spree was ended by comic (13 blocks)
 [2021-04-02 02:24:53]: GODLIKe. [GANG, Level 39]: lagggg
 [2021-04-02 02:24:54]: comic [comically, Level 12]: nice
+[2021-04-02 02:24:59]: GODLIKe. [GANG, Level 39]: die game
+[2021-04-02 02:25:01]: ***  [, Level 0]: 'Ghost' entered and joined the game
+[2021-04-02 02:25:01]: ***  [, Level 0]: 'Wheels' has left the game
