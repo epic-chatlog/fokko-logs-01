@@ -2078,3 +2078,5 @@
 [2021-04-02 03:29:00]: GODLIKe [hax, Level 44]: Robin Hood: come 1 vs 1
 [2021-04-02 03:29:01]: WarHammer [, Level 25]: Kezo:  sagol validehanım
 [2021-04-02 03:29:05]: GODLIKe [hax, Level 44]: Robin Hood: come 1 vs 1
+[2021-04-02 03:29:15]: GODLIKe [hax, Level 44]: Robin Hood: come spawn
+[2021-04-02 03:29:16]: ***  [, Level 0]: 'УБИВАТЬ!' entered and joined the game
