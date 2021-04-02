@@ -3533,3 +3533,4 @@
 [2021-04-02 05:13:30]: (2)SAUD [, Level 0]: xDDD
 [2021-04-02 05:13:36]: slim fuk [, Level 36]: SAUD: 2 dummy = 3 player xd
 [2021-04-02 05:13:40]: slim fuk [, Level 36]: SAUD: and u have jetpac xd
+[2021-04-02 05:13:57]: (2)SAUD [, Level 0]: does the jetpack make any diff xDDD
