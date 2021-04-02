@@ -11514,3 +11514,4 @@
 [2021-04-02 13:31:46]: sL|whutasme [, Level 4]: excuse me pls ERROR
 [2021-04-02 13:31:47]: ERROR [404, Level 73]: sL|whutasme: ?
 [2021-04-02 13:31:48]: ***  [, Level 0]: Λtlantis Ψ is on a killing spree with 10 blocks
+[2021-04-02 13:32:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
