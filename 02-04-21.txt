@@ -700,3 +700,4 @@
 [2021-04-02 01:20:46]: comic [comically, Level 12]: STOP
 [2021-04-02 01:21:27]: nam [, Level 0]: (1)Friendiship :  HELP
 [2021-04-02 01:21:33]: ***  [, Level 0]: 'SoniCN' has left the game
+[2021-04-02 01:21:44]: ***  [, Level 0]: '(2)ChillerDragon' finished the special race!
