@@ -511,3 +511,6 @@
 [2021-04-02 00:59:39]: kais [, Level 65]: BulgarianTee: who tf like leterature
 [2021-04-02 00:59:43]: kais [, Level 65]: literature*
 [2021-04-02 00:59:52]: BulgarianTee [xSD7, Level 38]: kais: nobody
+[2021-04-02 01:00:00]: (1)kais [, Level 58]: BulgarianTee: who tf like books ?
+[2021-04-02 01:00:03]: ERROR. [404, Level 55]: xD
+[2021-04-02 01:00:08]: BulgarianTee [xSD7, Level 38]: (1)kais: u
