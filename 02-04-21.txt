@@ -7619,3 +7619,5 @@
 [2021-04-02 10:30:02]: ***  [, Level 0]: '[D] MNKY | Arin' has left the game
 [2021-04-02 10:30:03]: cookie [, Level 0]: more right
 [2021-04-02 10:30:04]: ***  [, Level 0]: '[D] MNKY | Arin' entered and joined the game
+[2021-04-02 10:30:08]: Noxl [.bad, Level 35]: Saliimen: mn ant
+[2021-04-02 10:30:16]: iMxtteo [, Level 26]: S Y T H N: xd
