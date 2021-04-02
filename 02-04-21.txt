@@ -2451,3 +2451,5 @@
 [2021-04-02 03:45:20]: ***  [, Level 0]: New record: 2 minute(s) 31.36 second(s) better.
 [2021-04-02 03:45:21]:   [, Level 0]: (1)вłøøđωave: wtffff
 [2021-04-02 03:45:21]: H2SO4 [, Level 0]: ChillerDragon: im not logged in xd
+[2021-04-02 03:45:26]: ***  [, Level 0]: WarHammer' finished in: 3 minute(s) 55.60 second(s)
+[2021-04-02 03:45:26]: ***  [, Level 0]: New record:  8.04 second(s) better.
