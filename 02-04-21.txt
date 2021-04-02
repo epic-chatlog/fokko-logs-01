@@ -11650,3 +11650,6 @@
 [2021-04-02 13:45:47]: ✯ | FayZoR [|Supressed|, Level 42]: koro:
 [2021-04-02 13:46:04]: (1)ERROR [404, Level 47]: ChillerDragon:  gesoffen?
 [2021-04-02 13:46:06]: ✯ | FayZoR [|Supressed|, Level 42]: koro: stop -.-
+[2021-04-02 13:46:17]: ***  [, Level 0]: ✯ | FayZoR is on a killing spree with 5 blocks
+[2021-04-02 13:46:19]: (1)ERROR [404, Level 47]: ChillerDragon:  du afk blockst mich überall und ich soll dich nicht spiken? xDDDD
+[2021-04-02 13:46:23]: ✯ | FayZoR [|Supressed|, Level 42]: koro: -.-
