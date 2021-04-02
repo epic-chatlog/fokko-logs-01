@@ -3202,3 +3202,5 @@
 [2021-04-02 04:37:02]: ***  [, Level 0]: '[D] haris ist d' entered and joined the game
 [2021-04-02 04:37:09]: ***  [, Level 0]: 'Cylox.♥' entered and joined the game
 [2021-04-02 04:37:16]: ***  [, Level 0]: 'Cylox.♥' has left the game
+[2021-04-02 04:38:27]: ***  [, Level 0]: '[D] haris ist d' has left the game
+[2021-04-02 04:38:32]: ***  [, Level 0]: 'haris ist dumm' has left the game
