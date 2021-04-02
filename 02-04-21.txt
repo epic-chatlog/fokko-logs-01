@@ -11390,3 +11390,5 @@
 [2021-04-02 13:21:46]: ***  [, Level 0]: '(1)ChillerDragon' changed name to '(2)ChillerDragon'
 [2021-04-02 13:22:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-02 13:22:05]: Noxl. [.bad, Level 35]: koro: ^_^
+[2021-04-02 13:22:27]: ***  [, Level 0]: Noxl's killing spree was ended by (2)ChillerDragon (5 blocks)
+[2021-04-02 13:22:29]: ***  [, Level 0]: 'gian x' joined the spectators
