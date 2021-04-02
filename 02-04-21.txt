@@ -1637,3 +1637,7 @@
 [2021-04-02 02:56:31]: ***  [, Level 0]: 'YelloWorlD' has left the game
 [2021-04-02 02:56:38]: GODLIKe [hax, Level 44]: (2)ChillerDrago: WTF
 [2021-04-02 02:56:59]: ***  [, Level 0]: 'Isegrin' entered and joined the game
+[2021-04-02 02:57:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-02 02:57:06]: ***  [, Level 0]: 'Pimka☀' has left the game
+[2021-04-02 02:57:06]: ***  [, Level 0]: 'Pimka✿' has left the game
+[2021-04-02 02:57:11]: ChillerDragon [Chilli.*, Level 44]: why so rude GODLIKe
