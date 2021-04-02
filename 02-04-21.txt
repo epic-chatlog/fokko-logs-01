@@ -11408,3 +11408,6 @@
 [2021-04-02 13:23:20]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-02 13:23:25]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-02 13:23:31]: Noxl. [.bad, Level 35]: koro: <<
+[2021-04-02 13:23:45]: Noxl. [.bad, Level 35]: ERROR:
+[2021-04-02 13:23:50]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-02 13:23:53]: Noxl. [.bad, Level 35]: HeavyGeneral:
