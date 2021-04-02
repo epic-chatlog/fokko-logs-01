@@ -5029,3 +5029,5 @@
 [2021-04-02 07:13:40]: ***  [, Level 0]: 'Ghost' has left the game (Timeout)
 [2021-04-02 07:13:45]: ChillerDragon.* [|*KoG*|, Level 41]: lolpoep: so for real now
 [2021-04-02 07:13:50]: ChillerDragon.* [|*KoG*|, Level 41]: lolpoep: make some tear emotes pls
+[2021-04-02 07:13:57]: ChillerDragon.* [|*KoG*|, Level 41]: like this
+[2021-04-02 07:13:58]: ChillerDragon.* [|*KoG*|, Level 41]: keep doing it
