@@ -1096,3 +1096,8 @@
 [2021-04-02 01:57:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-02 01:57:03]: ChillerDragon [|*KoG*|, Level 44]: xd
 [2021-04-02 01:57:09]: ChillerDragon [|*KoG*|, Level 44]: portal always too short
+[2021-04-02 01:57:12]: ERROR. [404, Level 55]: HeavyGeneral:  GAY
+[2021-04-02 01:57:14]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
+[2021-04-02 01:57:14]: ERROR. [404, Level 55]: xD
+[2021-04-02 01:57:16]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
+[2021-04-02 01:57:18]: ChillerDragon [|*KoG*|, Level 44]: so now coffe for real
