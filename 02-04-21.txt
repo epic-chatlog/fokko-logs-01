@@ -6887,3 +6887,7 @@
 [2021-04-02 09:57:32]: Noxl [.bad, Level 35]: koro:
 [2021-04-02 09:57:39]: ♥TAKO♥ [, Level 24]: pls
 [2021-04-02 09:57:49]: lolpoep [, Level 14]: help me please
+[2021-04-02 09:57:55]: sun.slow(y) [sunrise., Level 35]: haha
+[2021-04-02 09:57:56]: ***  [, Level 0]: 'WarHammer'' left the minigame 'Instagib FNG'
+[2021-04-02 09:57:57]:   [, Level 0]: (1)Λtlantis Ψ: [D] ✯ |toxicd:  stop
+[2021-04-02 09:58:05]: ***  [, Level 0]: 'WarHammer'' joined the minigame 'Instagib Boom FNG', use '/boomfng' to join aswell
