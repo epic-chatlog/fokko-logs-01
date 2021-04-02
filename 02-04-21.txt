@@ -2623,3 +2623,4 @@
 [2021-04-02 03:56:54]:   [, Level 0]: Kyrma: power: wtf
 [2021-04-02 03:56:56]: power [TrRShClNrRs, Level 0]: Isegrin: arrest me
 [2021-04-02 03:57:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-02 03:57:24]: WarHammer' [, Level 15]: Kezo:  ARKADAN GİREK
