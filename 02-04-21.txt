@@ -4960,3 +4960,4 @@
 [2021-04-02 07:01:52]: ***  [, Level 0]: 'SamuraЙ' has left the game
 [2021-04-02 07:01:52]: ***  [, Level 0]: 'Samurai' has left the game
 [2021-04-02 07:02:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-02 07:02:22]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
