@@ -12863,3 +12863,6 @@
 [2021-04-02 16:21:24]: ~DemoizL~ [, Level 38]: ✯ | FayZoR: bah nan
 [2021-04-02 16:21:32]: ✯ | FayZoR [|Supressed|, Level 42]: ~DemoizL~: pk t'aide kirito ?
 [2021-04-02 16:21:38]: ~DemoizL~ [, Level 38]: ✯ | FayZoR: pk pas ?
+[2021-04-02 16:21:47]: ✯ | FayZoR [|Supressed|, Level 42]: ~DemoizL~: psk je l'aime pas
+[2021-04-02 16:21:53]: ***  [, Level 0]: 'Rawad' entered and joined the game
+[2021-04-02 16:21:58]: Rawad [BFF, Level 0]: KI
