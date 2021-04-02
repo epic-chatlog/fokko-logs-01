@@ -1137,3 +1137,4 @@
 [2021-04-02 02:04:32]: ***  [, Level 0]: Q-Q finished in: 5 minute(s)  4.96 second(s)
 [2021-04-02 02:04:50]: ***  [, Level 0]: '☺☻☺☻' entered and joined the game
 [2021-04-02 02:04:58]: ***  [, Level 0]: '☺☻☺☻' changed name to '(1)ERROR'
+[2021-04-02 02:05:15]: ***  [, Level 0]: power2 is on a killing spree with 5 blocks
