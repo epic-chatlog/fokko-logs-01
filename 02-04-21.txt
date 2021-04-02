@@ -11522,3 +11522,5 @@
 [2021-04-02 13:32:33]: ✯ | FayZoR [|Supressed|, Level 42]: YelloWorlD: any ce fait rouler dessus par tlm ici, et fait honte a la 404 qui sont sensé être réputer pour être vraiment solides
 [2021-04-02 13:32:40]: ERROR [404, Level 73]: ChillerDragon.*:  was erwartest du ers in 404
 [2021-04-02 13:32:48]: ChillerDragon [Chilli.*, Level 44]: weiss ich ja nich ERROR
+[2021-04-02 13:32:50]: ***  [, Level 0]: koro is on a killing spree with 5 blocks
+[2021-04-02 13:32:55]: ᅟᅟ [ΛtlantisΨ, Level 7]: YelloWorlD:  stop attacking me
