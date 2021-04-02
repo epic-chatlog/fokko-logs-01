@@ -2672,3 +2672,6 @@
 [2021-04-02 04:00:25]: Isegrin [, Level 54]: power2: XD
 [2021-04-02 04:00:26]: power2 [TrRShClNrRs, Level 0]: cool f"{self.name}"
 [2021-04-02 04:00:29]: •Slowy [FookinLads, Level 38]: BulgarianTee: we have team wtfffff
+[2021-04-02 04:00:29]: ChillerDragon [Chilli.*, Level 44]: Isegrin: pls dont kill
+[2021-04-02 04:00:30]: BulgarianTee [xSD7, Level 0]: ChillerDragon.*: wake up lazy
+[2021-04-02 04:00:39]: lolpoep [Ape, Level 0]: bulgar tee help me
