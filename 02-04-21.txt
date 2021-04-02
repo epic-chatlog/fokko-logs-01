@@ -11532,3 +11532,4 @@
 [2021-04-02 13:33:18]: ***  [, Level 0]: 'Tixnix' has left the game (Timeout)
 [2021-04-02 13:33:21]: YelloWorlD [404, Level 41]: Λtlantis Ψ: bonus noob
 [2021-04-02 13:33:25]: Λtlantis Ψ [ᅟᅟ , Level 39]: YelloWorlD:  stop
+[2021-04-02 13:33:44]: ERROR. [404, Level 55]: laggs
