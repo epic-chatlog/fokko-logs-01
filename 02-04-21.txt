@@ -8980,3 +8980,6 @@
 [2021-04-02 11:31:53]:   [, Level 0]: Nudelsaft c:: o
 [2021-04-02 11:31:54]: cookie [, Level 0]: I like turtles.
 [2021-04-02 11:31:54]: i am gay [, Level 0]: Kiøn1029: mad :(
+[2021-04-02 11:32:01]: Kiøn1029 [.bad, Level 31]: i am gay: no
+[2021-04-02 11:32:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-02 11:32:04]: Shiro. [, Level 50]: go right i laser u
