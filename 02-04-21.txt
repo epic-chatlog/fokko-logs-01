@@ -4961,3 +4961,5 @@
 [2021-04-02 07:01:52]: ***  [, Level 0]: 'Samurai' has left the game
 [2021-04-02 07:02:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-02 07:02:22]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
+[2021-04-02 07:02:30]: FULL WAR [, Level 15]: Cylox.♥: sınısız jump ? gelicem dc birazdan
+[2021-04-02 07:02:32]: ***  [, Level 0]: '(3)Kirito' entered and joined the game
