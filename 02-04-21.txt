@@ -7187,3 +7187,5 @@
 [2021-04-02 10:11:20]: ***  [, Level 0]: '[D] Boti.' has left the game
 [2021-04-02 10:11:25]: ***  [, Level 0]: kiøn1029 is on a killing spree with 10 blocks
 [2021-04-02 10:11:30]: comic [comically, Level 12]: Falco641: yes they tell me that all t he time
+[2021-04-02 10:11:43]: ***  [, Level 0]: 'NetFlix' has left the game
+[2021-04-02 10:11:43]: ***  [, Level 0]: 'curcu' entered and joined the game
