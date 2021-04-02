@@ -692,3 +692,4 @@
 [2021-04-02 01:19:45]: ***  [, Level 0]: (1)ChillerDragon finished in: 1 minute(s) 39.38 second(s)
 [2021-04-02 01:19:50]: ***  [, Level 0]: (2)ChillerDragon finished in: 1 minute(s) 41.20 second(s)
 [2021-04-02 01:19:50]: ***  [, Level 0]: New record: 1 minute(s)  2.34 second(s) better.
+[2021-04-02 01:19:52]: Shiro. [, Level 50]: flappy still not fixed oO
