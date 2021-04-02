@@ -11117,3 +11117,7 @@
 [2021-04-02 13:06:47]:   [, Level 0]: Isegrin: [D] mamikral011: prank :-d
 [2021-04-02 13:06:49]: ***  [, Level 0]: '[D] MieSlime' has left the game
 [2021-04-02 13:06:51]: (1)Meetiteusz [TrRShClNrRs, Level 0]: GODLIKe: hi
+[2021-04-02 13:06:55]: ✯ | FayZoR [|Supressed|, Level 42]: ChillerDragon: u attacked me
+[2021-04-02 13:06:55]: mamikral011 [, Level 25]: segrin warrrrr
+[2021-04-02 13:07:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-02 13:07:01]: (1)ChillerDrago [Chilli.*, Level 30]: in police (1)✯ | FayZoR not on spawn
