@@ -11218,3 +11218,6 @@
 [2021-04-02 13:12:17]: ***  [, Level 0]: 'Dan' entered and joined the game
 [2021-04-02 13:12:20]: ERROR. [404, Level 55]: HeavyGeneral:  did O_O  rly helped him rn?
 [2021-04-02 13:12:22]: ***  [, Level 0]: 'O_O' changed name to 'jjjjj'
+[2021-04-02 13:12:28]: (1)Meetiteusz [TrRShClNrRs, Level 0]: GODLIKe.: yeah i think thats should work
+[2021-04-02 13:12:31]: HeavyGeneral [FookinLads, Level 44]: ERROR: yes
+[2021-04-02 13:12:31]: ChillerDragon [Chilli.*, Level 44]: ja weil alle meine mates rage quitten ERROR xd
