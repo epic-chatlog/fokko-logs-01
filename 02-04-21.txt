@@ -5991,3 +5991,7 @@
 [2021-04-02 09:16:29]: ***  [, Level 0]: sL|whutasme finished in: 2 minute(s)  4.58 second(s)
 [2021-04-02 09:16:29]: ***  [, Level 0]: New record: 17.14 second(s) better.
 [2021-04-02 09:16:38]: Kirito♥ [♥, Level 32]: xD
+[2021-04-02 09:16:43]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
+[2021-04-02 09:16:50]: Pigie♥ [♥, Level 36]: Kirito♥: activate 18 laser
+[2021-04-02 09:16:51]: WarHammer' [, Level 16]: Cylox.♥:  AHJFKAF
+[2021-04-02 09:16:54]: ***  [, Level 0]: ### 'WarHammer'' xd
