@@ -355,3 +355,7 @@
 [2021-04-02 00:36:58]: BulgarianTee [xSD7, Level 38]: E
 [2021-04-02 00:37:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-02 00:37:08]: BulgarianTee [xSD7, Level 38]: ERROR: thats me, kais
+[2021-04-02 00:37:10]: BulgarianTee [xSD7, Level 38]: ERROR: stop
+[2021-04-02 00:37:15]: BulgarianTee [xSD7, Level 38]: ERROR.: ITS ME KAIS
+[2021-04-02 00:37:18]: (1)kais [, Level 58]: xD
+[2021-04-02 00:37:19]: BulgarianTee [xSD7, Level 38]: ERROR: NOb
