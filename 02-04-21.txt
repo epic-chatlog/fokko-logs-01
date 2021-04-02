@@ -11466,3 +11466,8 @@
 [2021-04-02 13:28:21]: ***  [, Level 0]: 'MieSlime' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-02 13:28:26]: Noxl. [.bad, Level 35]: koro: wait
 [2021-04-02 13:28:28]: (2)ChillerDrago [Chilli.*, Level 31]: u want war at spawn too (1)УБИВАТ ?
+[2021-04-02 13:28:34]: ***  [, Level 0]: 'NetFlix' has left the game
+[2021-04-02 13:28:35]: GOLD [404, Level 40]: ERROR: yo
+[2021-04-02 13:28:41]: GOLD [404, Level 40]: koro: ?
+[2021-04-02 13:28:41]: S Y T H N [iPro, Level 37]: P4PyrOs: мы должны убить его?
+[2021-04-02 13:28:44]: ***  [, Level 0]: Chillingo's killing spree was ended by MieSlime (11 blocks)
