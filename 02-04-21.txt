@@ -12866,3 +12866,7 @@
 [2021-04-02 16:21:47]: ✯ | FayZoR [|Supressed|, Level 42]: ~DemoizL~: psk je l'aime pas
 [2021-04-02 16:21:53]: ***  [, Level 0]: 'Rawad' entered and joined the game
 [2021-04-02 16:21:58]: Rawad [BFF, Level 0]: KI
+[2021-04-02 16:22:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-02 16:22:01]: Rawad [BFF, Level 0]: Kirito:  fku ♥
+[2021-04-02 16:22:03]: ~DemoizL~ [, Level 38]: ✯ | FayZoR: donc je dois aider que les personnes que tu aime ?
+[2021-04-02 16:22:10]: ✯ | FayZoR [|Supressed|, Level 42]: ouaip
