@@ -11163,3 +11163,6 @@
 [2021-04-02 13:09:04]: BC|Tixnix [BC, Level 33]: warte
 [2021-04-02 13:09:06]: ***  [, Level 0]: (1)ChillerDragon finished in: 2 minute(s) 19.80 second(s)
 [2021-04-02 13:09:07]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-02 13:09:10]:   [, Level 0]: MieSlime: |-|:  help up pls
+[2021-04-02 13:09:12]: ✯ | FayZoR [|Supressed|, Level 42]: Nonoh: and ? u attacked me
+[2021-04-02 13:09:15]: ***  [, Level 0]: 'gian x' joined the spectators
