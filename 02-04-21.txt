@@ -5543,3 +5543,6 @@
 [2021-04-02 08:31:11]: ***  [, Level 0]: 'sL|whutasme' has left the game
 [2021-04-02 08:31:13]: (1)Salut [, Level 25]: Alien:  ?
 [2021-04-02 08:31:22]: Alien [UndergrounD, Level 41]: what
+[2021-04-02 08:31:46]: Shiro. [, Level 50]: scary lady
+[2021-04-02 08:31:49]: Salut [, Level 31]: Alien:  it your room ?
+[2021-04-02 08:31:52]: Maatiteusz [TrRShClNrRs, Level 34]: __init__(self):: can u help me?
