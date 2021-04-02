@@ -735,3 +735,6 @@
 [2021-04-02 01:26:43]: (1)Friendiship  [, Level 0]: help
 [2021-04-02 01:26:45]: ChillerDragon.* [|*KoG*|, Level 41]: BulgarianTee: u rich?
 [2021-04-02 01:26:51]: comic [comically, Level 12]: reset
+[2021-04-02 01:26:55]: BulgarianTee [xSD7, Level 38]: ChillerDragon.*: im #poorgang both in game and in real life
+[2021-04-02 01:26:58]: ChillerDragon.* [|*KoG*|, Level 41]: 400k on bank
+[2021-04-02 01:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
