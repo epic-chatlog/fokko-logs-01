@@ -6388,3 +6388,6 @@
 [2021-04-02 09:36:58]: Boti. [.bad, Level 32]: nagy fightok vannak mi meg csak így itt chillelünk
 [2021-04-02 09:37:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-02 09:37:05]: Kiøn1029 [.bad, Level 31]: hát igen
+[2021-04-02 09:37:11]: Boti. [.bad, Level 32]: de szép padló
+[2021-04-02 09:37:12]:   [, Level 0]: power: u want it?
+[2021-04-02 09:37:17]: ChillerDragon [Chilli.*, Level 44]: war Noragami
