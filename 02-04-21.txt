@@ -11813,3 +11813,6 @@
 [2021-04-02 13:57:36]: Noxl [.bad, Level 0]: VeemID: help mee
 [2021-04-02 13:57:43]: Noxl [.bad, Level 0]: VeemID: okk
 [2021-04-02 13:57:48]: (1)ERROR [404, Level 47]: (2)ChillerDrago:  noch nicht ausprobiert
+[2021-04-02 13:57:56]: WarHammer' [, Level 16]: xdl lag
+[2021-04-02 13:57:57]: (2)ChillerDrago [|*KoG*|, Level 31]: ich rall null was dein setup is ERROR xd
+[2021-04-02 13:58:03]: ***  [, Level 0]: '(2)ERROR' changed name to '(1)koro'
