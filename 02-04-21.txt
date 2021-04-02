@@ -3225,3 +3225,6 @@
 [2021-04-02 04:42:58]: ***  [, Level 0]: '|-|' entered and joined the game
 [2021-04-02 04:43:00]: ***  [, Level 0]: '|~|' entered and joined the game
 [2021-04-02 04:43:06]: ***  [, Level 0]: '(1)Friendiship ;' joined the game
+[2021-04-02 04:43:50]: УБИВАТЬ! [, Level 0]: чВ
+[2021-04-02 04:43:55]: ***  [, Level 0]: '(1)kais' has left the game (Timeout Protection over)
+[2021-04-02 04:43:55]: ***  [, Level 0]: 'kais' has left the game (Timeout Protection over)
