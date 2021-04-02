@@ -8217,3 +8217,5 @@
 [2021-04-02 10:56:25]: ***  [, Level 0]: 'Twikes' entered and joined the game
 [2021-04-02 10:56:35]:   [, Level 0]: Kaptar: Noragami: u want farm ?
 [2021-04-02 10:56:37]: ᅟᅟ [ΛtlantisΨ, Level 0]: (1)•Slowy:  i want down
+[2021-04-02 10:56:47]: Noragami [, Level 19]: Kaptar +
+[2021-04-02 10:56:58]:   [, Level 0]: Kaptar: Noragami: And don't atk (2)ChillerDrago ?
