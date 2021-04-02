@@ -3277,3 +3277,4 @@
 [2021-04-02 04:51:09]: ***  [, Level 0]: 'hhnaut31' entered and joined the game
 [2021-04-02 04:51:15]: ***  [, Level 0]: 'Rainbow Tee' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-02 04:51:17]: ***  [, Level 0]: H0dƌƔ1 is on a killing spree with 5 blocks
+[2021-04-02 04:52:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
