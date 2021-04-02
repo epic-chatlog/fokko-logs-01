@@ -12704,3 +12704,5 @@
 [2021-04-02 15:48:32]: Mr.KshKsh99 [xSD7, Level 0]: XD
 [2021-04-02 15:48:38]: ***  [, Level 0]: 'Λtlantis Ψ' has left the game (Timeout)
 [2021-04-02 15:48:38]: ***  [, Level 0]: 'ᅟᅟ' has left the game (Timeout)
+[2021-04-02 15:48:53]: ***  [, Level 0]: '♥TAKO♥' would have timed out, but can use timeout protection now
+[2021-04-02 15:48:53]: ***  [, Level 0]: '[D] ♥TAKO♥' would have timed out, but can use timeout protection now
