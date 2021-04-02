@@ -12996,3 +12996,4 @@
 [2021-04-02 16:43:08]: ***  [, Level 0]: 'Kirito' has left the game (Timeout Protection over)
 [2021-04-02 16:47:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-02 16:52:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-02 16:57:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
