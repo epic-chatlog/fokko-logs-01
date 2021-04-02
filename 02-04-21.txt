@@ -844,3 +844,7 @@
 [2021-04-02 01:38:34]: ***  [, Level 0]: 'ZEUS' has left the game
 [2021-04-02 01:38:34]: ***  [, Level 0]: 'Noragami' has left the game
 [2021-04-02 01:38:38]: BulgarianTee [xSD7, Level 38]: wtf
+[2021-04-02 01:38:43]: BulgarianTee [xSD7, Level 38]: I HAD 300 MS
+[2021-04-02 01:38:45]: BulgarianTee [xSD7, Level 38]: AND NO JUMPS
+[2021-04-02 01:38:46]: ERROR [404, Level 73]: cool
+[2021-04-02 01:38:47]: BulgarianTee [xSD7, Level 38]: WTFF XDDD
