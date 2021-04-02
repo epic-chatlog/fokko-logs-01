@@ -444,3 +444,6 @@
 [2021-04-02 00:48:28]: ***  [, Level 0]: '[D] Leblebi' entered and joined the game
 [2021-04-02 00:48:33]: (1)kais [, Level 58]: wow
 [2021-04-02 00:48:38]: ***  [, Level 0]: '(1)/\' changed name to '(1)/'
+[2021-04-02 00:48:50]: ***  [, Level 0]: '(1)/' changed name to 'Amirian'
+[2021-04-02 00:48:57]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
+[2021-04-02 00:49:00]: SAUD [, Level 20]: s/epc
