@@ -4341,3 +4341,4 @@
 [2021-04-02 06:21:54]: MNKY | Arin [MNKY, Level 0]: bob!!!
 [2021-04-02 06:22:00]: bob [MNKY, Level 36]: wie kann ich dir dabei helfen
 [2021-04-02 06:22:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-02 06:22:10]: Mista bombastic [TrRShClNrRs, Level 40]: SVEN?
