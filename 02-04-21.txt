@@ -11554,3 +11554,6 @@
 [2021-04-02 13:37:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-02 13:37:06]: ERROR [404, Level 73]: DONT MAKE me laugh
 [2021-04-02 13:37:25]: Noxl [.bad, Level 0]: Axel:
+[2021-04-02 13:37:33]: Falco642 [, Level 0]: do portal
+[2021-04-02 13:37:38]: (1)ERROR. [404, Level 40]: tf
+[2021-04-02 13:37:40]: Isegrin [, Level 54]: GOLD: pisda
