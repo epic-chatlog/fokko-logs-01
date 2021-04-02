@@ -12871,3 +12871,5 @@
 [2021-04-02 16:22:03]: ~DemoizL~ [, Level 38]: ✯ | FayZoR: donc je dois aider que les personnes que tu aime ?
 [2021-04-02 16:22:10]: ✯ | FayZoR [|Supressed|, Level 42]: ouaip
 [2021-04-02 16:22:36]: ~DemoizL~ [, Level 38]: ✯ | FayZoR: et pourquoi c'est pas toi qui aide que les personnes que j'aime ?
+[2021-04-02 16:22:49]: ~DemoizL~ [, Level 38]: ✯ | FayZoR: arrete
+[2021-04-02 16:22:54]: ✯ | FayZoR [|Supressed|, Level 42]: ~DemoizL~: pk ?
