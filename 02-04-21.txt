@@ -10918,3 +10918,5 @@
 [2021-04-02 12:56:48]: VeemID [, Level 0]: lolpoep: so sorry
 [2021-04-02 12:56:55]: ***  [, Level 0]: 'gian x' entered and joined the game
 [2021-04-02 12:56:57]: lolpoep [, Level 15]: VeemID:  its oke
+[2021-04-02 12:57:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-02 12:57:04]: Lucas [THECEPS, Level 33]: [D] mamikral011: i've warned you
