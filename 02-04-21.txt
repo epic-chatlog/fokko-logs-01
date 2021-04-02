@@ -5539,3 +5539,4 @@
 [2021-04-02 08:30:47]: sun.slow(y) [sunrise., Level 35]: nub
 [2021-04-02 08:30:48]: sun.slow(y) [sunrise., Level 35]: Shiro.: nub
 [2021-04-02 08:30:50]: Shiro. [, Level 50]: come royal
+[2021-04-02 08:31:02]: ***  [, Level 0]: 'sL|whutasme' entered and joined the game
