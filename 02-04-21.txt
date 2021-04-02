@@ -1215,3 +1215,6 @@
 [2021-04-02 02:13:37]: ***  [, Level 0]: '~DemoizL~' has left the game (Timeout)
 [2021-04-02 02:13:50]: power2 [TrRShClNrRs, Level 0]: Niko: u want room?
 [2021-04-02 02:13:59]: Niko [, Level 0]: huh?
+[2021-04-02 02:14:08]: Niko [, Level 0]: police room? maybe
+[2021-04-02 02:14:11]: power2 [TrRShClNrRs, Level 0]: stop Random Guy
+[2021-04-02 02:14:12]: Niko [, Level 0]: =В
