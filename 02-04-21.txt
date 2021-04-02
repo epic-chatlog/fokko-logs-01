@@ -11801,3 +11801,8 @@
 [2021-04-02 13:56:43]: WarHammer' [, Level 16]: ERROR 2 XD
 [2021-04-02 13:56:44]: HeavyGeneral [FookinLads, Level 44]: chillerdagorn: watr
 [2021-04-02 13:56:47]: (2)ChillerDrago [|*KoG*|, Level 31]: mega umständlich dann
+[2021-04-02 13:56:51]: ✯ | FayZoR [|Supressed|, Level 42]: koro: stop try
+[2021-04-02 13:56:51]: (2)ChillerDrago [|*KoG*|, Level 31]: HeavyGeneral: i am not chillerdagorn btw
+[2021-04-02 13:56:52]: any² [404, Level 0]: hi HeavyGeneral ! :D
+[2021-04-02 13:56:53]: ***  [, Level 0]: 'Noob Redis' entered and joined the game
+[2021-04-02 13:57:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
