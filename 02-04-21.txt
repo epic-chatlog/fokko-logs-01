@@ -9937,3 +9937,15 @@
 [2021-04-02 12:11:30]: ***  [, Level 0]: 'i am jerry kill' has left the game
 [2021-04-02 12:11:30]: ChillerDragon.* [|*KoG*|, Level 41]: cuz u didnt want to join me (1)✯ | FayZoR
 [2021-04-02 12:11:34]: ChillerDragon.* [|*KoG*|, Level 41]: u said u dont want team (1)✯ | FayZoR
+[2021-04-02 12:11:35]: GODLIKe [hax, Level 44]: OLM ÖLDÜ OYUN AMK
+[2021-04-02 12:11:35]: mamikral011 [, Level 25]: XD
+[2021-04-02 12:11:39]: ***  [, Level 0]: __init__(self): finished in: 2 minute(s) 50.74 second(s)
+[2021-04-02 12:11:39]: ***  [, Level 0]: New record: 1 minute(s) 52.20 second(s) better.
+[2021-04-02 12:11:40]: ***  [, Level 0]: 'cookie' entered and joined the game
+[2021-04-02 12:11:41]:   [, Level 0]: (1)Kaptar: ChillerDragon.*: Thx, i'm ur 1 ally now
+[2021-04-02 12:11:43]: ***  [, Level 0]: (1)Friendiship ; finished in: 2 minute(s) 50.60 second(s)
+[2021-04-02 12:11:43]: ***  [, Level 0]: New record: 8 minute(s)  6.60 second(s) better.
+[2021-04-02 12:11:43]: BulgarianTee [xSD7, Level 25]: ChillerDragon: now i have 30 fps with BulgarianTee very fun
+[2021-04-02 12:11:43]: ***  [, Level 0]: f"{self.name}" finished in: 3 minute(s) 32.24 second(s)
+[2021-04-02 12:11:43]: ***  [, Level 0]: New record: 8 minute(s)  4.94 second(s) better.
+[2021-04-02 12:11:44]: ✯ | FayZoR [|Supressed|, Level 42]: PoliceTee: just shutup little trash bag guy
