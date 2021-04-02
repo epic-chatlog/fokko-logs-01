@@ -3338,3 +3338,6 @@
 [2021-04-02 04:56:10]: (1)SAUD [, Level 13]: bob: how much does the portal cost in dollar ?
 [2021-04-02 04:56:10]: ***  [, Level 0]: '[D] MNKY | Arin' has left the game
 [2021-04-02 04:56:11]: Cylox♥ [♥, Level 0]: pls of
+[2021-04-02 04:56:18]: ***  [, Level 0]: 'Torento' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-02 04:56:21]: lolpoep [Ape, Level 0]: haha lol
+[2021-04-02 04:56:24]: ***  [, Level 0]: 'Тучка' has left the game
