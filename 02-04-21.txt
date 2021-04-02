@@ -1750,3 +1750,4 @@
 [2021-04-02 03:07:39]: ***  [, Level 0]: 'Amirian' has left the game (Timeout Protection over)
 [2021-04-02 03:07:39]: ***  [, Level 0]: '[D] Amirian' has left the game (Timeout Protection over)
 [2021-04-02 03:07:44]: ChillerDragon.* [Chilli.*, Level 41]: aa
+[2021-04-02 03:07:57]: ChillerDragon.* [Chilli.*, Level 41]: this guy xd
