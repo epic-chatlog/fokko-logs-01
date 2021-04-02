@@ -5737,3 +5737,4 @@
 [2021-04-02 08:59:13]: ***  [, Level 0]: WarHammer finished in: 1 minute(s) 34.18 second(s)
 [2021-04-02 08:59:13]: ***  [, Level 0]: New record: 6 minute(s) 46.22 second(s) better.
 [2021-04-02 08:59:17]: ***  [, Level 0]: WarHammer' finished in: 3 minute(s)  8.88 second(s)
+[2021-04-02 08:59:25]: Mʎɹ シ [not today, Level 11]: Friendiship ;-): Ok, i stop
