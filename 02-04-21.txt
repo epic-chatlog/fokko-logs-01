@@ -7493,3 +7493,6 @@
 [2021-04-02 10:24:40]: (1)kais [, Level 58]: ok
 [2021-04-02 10:24:44]: ***  [, Level 0]: '<-_->' would have timed out, but can use timeout protection now
 [2021-04-02 10:24:44]: ***  [, Level 0]: 'P4PyrOs' would have timed out, but can use timeout protection now
+[2021-04-02 10:24:46]: ***  [, Level 0]: '(1)P4PyrOs' has left the game
+[2021-04-02 10:24:50]:   [, Level 0]: [D] sL|whutasme: WarHammer:
+[2021-04-02 10:24:52]: kurama [, Level 7]: Mʎɹ シ: бомж
