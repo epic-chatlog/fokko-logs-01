@@ -238,3 +238,4 @@
 [2021-04-02 00:23:44]: ***  [, Level 0]: 'Ghost' has left the game (Timeout)
 [2021-04-02 00:23:54]: kais [, Level 65]: Foxie♥: nobo
 [2021-04-02 00:24:02]: BulgarianTee [xSD7, Level 0]: THESE TIMINGS ARE CONFUSING AF
+[2021-04-02 00:24:03]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
