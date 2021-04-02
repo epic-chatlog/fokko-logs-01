@@ -12936,3 +12936,4 @@
 [2021-04-02 16:31:16]: Mr.KshKsh99 [xSD7, Level 0]: f4
 [2021-04-02 16:31:23]: ***  [, Level 0]: 'BULLETBOT' has left the game
 [2021-04-02 16:31:33]: Mr.KshKsh99 [xSD7, Level 0]: Flipper: help ✯ | FayZoR
+[2021-04-02 16:32:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
