@@ -10815,3 +10815,9 @@
 [2021-04-02 12:51:55]: ERROR [404, Level 73]: sL|whutasme:  u want war?
 [2021-04-02 12:51:57]: [D] mamikral011 [, Level 20]: :D
 [2021-04-02 12:52:00]: ***  [, Level 0]: Noémi[Đ] is on a killing spree with 10 blocks
+[2021-04-02 12:52:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-02 12:52:03]: (1)Maatiteusz [TrRShClNrRs, Level 12]: mamikral011: and emm what
+[2021-04-02 12:52:03]: GODLIKe [hax, Level 44]: cup of tee: u have space button makro x
+[2021-04-02 12:52:06]: ***  [, Level 0]: 'Pigi♥' entered and joined the game
+[2021-04-02 12:52:07]: cup of tee [abh, Level 37]: GODLIKe: it just spam jump rly rly fast
+[2021-04-02 12:52:07]: ***  [, Level 0]: 'ZEWO' entered and joined the game
