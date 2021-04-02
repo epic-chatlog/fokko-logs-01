@@ -901,3 +901,7 @@
 [2021-04-02 01:43:07]: PoliceTee [xSD7, Level 0]: controlling police is too
 [2021-04-02 01:43:15]: ChillerDragon.* [Chilli.*, Level 41]: u can go afk all day and code on flappy or make blmapchill map updates xd
 [2021-04-02 01:43:16]: ERROR [404, Level 73]: PoliceTee:  enjoy it wont be for long
+[2021-04-02 01:43:23]: PoliceTee [xSD7, Level 0]: ERROR: ikr :(
+[2021-04-02 01:43:27]: Leblebi [, Level 22]: ERROR: wait me pls
+[2021-04-02 01:43:28]: PoliceTee [xSD7, Level 0]: ERROR: thats the sad part
+[2021-04-02 01:43:29]: ERROR [404, Level 73]: and if u lose ure mad af
