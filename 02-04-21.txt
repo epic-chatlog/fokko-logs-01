@@ -3962,3 +3962,4 @@
 [2021-04-02 05:57:00]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
 [2021-04-02 05:57:01]: lolpoep [Ape, Level 14]: bob
 [2021-04-02 05:57:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-02 05:57:14]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' xa-xa-xa-xa0))
