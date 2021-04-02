@@ -6302,3 +6302,6 @@
 [2021-04-02 09:33:08]: Boti. [.bad, Level 32]: ChillerDragon.*: ???
 [2021-04-02 09:33:10]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
 [2021-04-02 09:33:21]: ***  [, Level 0]: '(1)NENNY196' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-02 09:33:25]: Kiøn1029 [.bad, Level 31]: Boti.: segítenem kellene chillernek
+[2021-04-02 09:33:29]: Boti. [.bad, Level 32]: tudod ki fog
+[2021-04-02 09:33:30]: Kiøn1029 [.bad, Level 31]: Boti.: de nem segítek
