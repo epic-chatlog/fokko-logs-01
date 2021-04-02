@@ -995,3 +995,7 @@
 [2021-04-02 01:48:48]: ERROR [404, Level 73]: ok go on
 [2021-04-02 01:48:49]: ChillerDragon [|*KoG*|, Level 44]: still id rather have u as mates
 [2021-04-02 01:48:55]: HeavyGeneral [FookinLads, Level 44]: fighting u is not fun
+[2021-04-02 01:48:59]: ERROR [404, Level 73]: we pass
+[2021-04-02 01:49:00]: ChillerDragon [|*KoG*|, Level 44]: rude HeavyGeneral
+[2021-04-02 01:49:05]: HeavyGeneral [FookinLads, Level 44]: spamm-->taser-->spamm
+[2021-04-02 01:49:07]: HeavyGeneral [FookinLads, Level 44]: interesting
