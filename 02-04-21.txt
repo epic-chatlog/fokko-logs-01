@@ -1129,3 +1129,5 @@
 [2021-04-02 02:03:26]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
 [2021-04-02 02:03:38]: [D] Leblebi [, Level 18]: power: noob
 [2021-04-02 02:03:45]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-02 02:03:53]: ***  [, Level 0]: Leblebi finished in: 9 minute(s) 42.24 second(s)
+[2021-04-02 02:03:56]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' has left the game (Timeout Protection over)
