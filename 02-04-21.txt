@@ -3068,3 +3068,5 @@
 [2021-04-02 04:25:24]: Kezo [FookinLads, Level 41]: IDK my name: LOOLL
 [2021-04-02 04:25:43]: ***  [, Level 0]: 'Adi' entered and joined the game
 [2021-04-02 04:25:51]: GODLIKe [hax, Level 44]: Kezo: Nonoh la var mı
+[2021-04-02 04:26:00]: Kezo [FookinLads, Level 41]: GODLIKe: var
+[2021-04-02 04:26:03]: GODLIKe [hax, Level 44]: tamam
