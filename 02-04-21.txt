@@ -4516,3 +4516,6 @@
 [2021-04-02 06:31:07]: ChillerDragon [Chilli.*, Level 44]: make angry emote hhh3
 [2021-04-02 06:31:08]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-02 06:31:12]: MNKY | Arin [MNKY, Level 0]: xD
+[2021-04-02 06:31:13]: incoming [TrRShClNrRs, Level 36]: ChillerDragon: WHERE ARE YOUR MOVIE
+[2021-04-02 06:31:21]: incoming [TrRShClNrRs, Level 36]: ChillerDragon: WHEN DO WE START
+[2021-04-02 06:31:24]: ***  [, Level 0]: '.S L E E P Y'' entered and joined the game
