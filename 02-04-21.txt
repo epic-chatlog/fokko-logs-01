@@ -5223,3 +5223,5 @@
 [2021-04-02 07:41:46]: kais [, Level 65]: no u
 [2021-04-02 07:41:46]: ***  [, Level 0]: '(1)Maatiteusz' entered and joined the game
 [2021-04-02 07:41:47]: GODLIKe. [GANG, Level 39]: u
+[2021-04-02 07:41:55]: kurama [, Level 6]: Lucas: U SHANGE SKIN?
+[2021-04-02 07:42:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
