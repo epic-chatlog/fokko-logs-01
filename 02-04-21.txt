@@ -9804,3 +9804,4 @@
 [2021-04-02 12:04:04]: ***  [, Level 0]: 'i am jerry kill' has left the game
 [2021-04-02 12:04:07]: [D] mamikral011 [, Level 20]: weqe: how munch
 [2021-04-02 12:04:11]:   [, Level 0]: weqe: 50k mamikral011
+[2021-04-02 12:04:19]: [D] mamikral011 [, Level 20]: weqe: off pls 30k
