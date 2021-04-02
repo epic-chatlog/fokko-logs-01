@@ -12850,3 +12850,6 @@
 [2021-04-02 16:18:25]: ***  [, Level 0]: x7|KshKsh99 is on a killing spree with 5 blocks
 [2021-04-02 16:19:09]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
 [2021-04-02 16:19:11]: Mr.KshKsh99 [xSD7, Level 0]: XD
+[2021-04-02 16:19:20]: Mr.KshKsh99 [xSD7, Level 0]: ✯ | FayZoR: leave Flipper
+[2021-04-02 16:19:22]: Flipper [, Level 13]: i meant to shoot ksh XD
+[2021-04-02 16:19:23]: Mr.KshKsh99 [xSD7, Level 0]: XD
