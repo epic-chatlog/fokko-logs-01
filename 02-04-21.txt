@@ -5762,3 +5762,6 @@
 [2021-04-02 09:02:07]: WarHammer' [, Level 15]: dami orda kalsın
 [2021-04-02 09:02:09]: hhh3 [, Level 48]: Salut:
 [2021-04-02 09:02:30]: ***  [, Level 0]: 'Kyrma' entered and joined the game
+[2021-04-02 09:02:35]: WarHammer' [, Level 15]: Cylox.♥:  SEN ALACAKSAN AL BEN ALMİCAM
+[2021-04-02 09:02:37]: ***  [, Level 0]: Noob Redis finished in: 1 minute(s) 25.42 second(s)
+[2021-04-02 09:02:37]: ***  [, Level 0]: New record: 2 minute(s) 52.80 second(s) better.
