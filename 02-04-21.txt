@@ -7644,3 +7644,5 @@
 [2021-04-02 10:31:37]: ビール|Zero [Drunks, Level 26]: МНЕ ПИЗДА
 [2021-04-02 10:31:38]: Maatiteusz [TrRShClNrRs, Level 34]: hhnaut31: ok thx for info
 [2021-04-02 10:31:46]: ***  [, Level 0]: 'Saturn' entered and joined the game
+[2021-04-02 10:31:59]: BC|kakashi [BC, Level 0]: Rainbow Tee:
+[2021-04-02 10:32:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
