@@ -12092,3 +12092,8 @@
 [2021-04-02 14:29:20]: ***  [, Level 0]: koro's killing spree was ended by Λtlantis Ψ (6 blocks)
 [2021-04-02 14:29:22]: (1)sL|whutasme [, Level 0]: S Y T H N: no
 [2021-04-02 14:29:26]: Kirito [, Level 32]: ok
+[2021-04-02 14:29:35]: Kirito [, Level 32]: why
+[2021-04-02 14:29:40]: Λtlantis Ψ [ᅟᅟ , Level 39]: Kirito:  you block f"{self.name}"
+[2021-04-02 14:29:43]: Kirito [, Level 32]: i didnt
+[2021-04-02 14:29:44]: Λtlantis Ψ [ᅟᅟ , Level 39]: Kirito:  you block (1)✯ | FayZoR
+[2021-04-02 14:29:45]: Kirito [, Level 32]: wtf
