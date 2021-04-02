@@ -9265,3 +9265,8 @@
 [2021-04-02 11:44:23]: ***  [, Level 0]: 'mamikral011' finished the special race!
 [2021-04-02 11:44:24]: ***  [, Level 0]: mamikral011 finished in: 5 minute(s) 21.02 second(s)
 [2021-04-02 11:44:24]: ***  [, Level 0]: New record: 8 minute(s) 40.90 second(s) better.
+[2021-04-02 11:44:30]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-02 11:44:33]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
+[2021-04-02 11:44:33]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-02 11:44:35]: ***  [, Level 0]: '[D] mamikral011' finished the special race!
+[2021-04-02 11:44:35]: ***  [, Level 0]: 'bob' entered and joined the game
