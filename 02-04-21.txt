@@ -416,3 +416,6 @@
 [2021-04-02 00:45:30]: BulgarianTee [xSD7, Level 38]: LAG
 [2021-04-02 00:45:34]: (1)kais [, Level 58]: BulgarianTee: u
 [2021-04-02 00:45:58]: BulgarianTee [xSD7, Level 38]: (1)kais: scared lil' nob
+[2021-04-02 00:46:04]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
+[2021-04-02 00:46:10]: ***  [, Level 0]: 'Amirian YA' entered and joined the game
+[2021-04-02 00:46:11]: BulgarianTee [xSD7, Level 38]: E
