@@ -7094,3 +7094,7 @@
 [2021-04-02 10:07:19]: ***  [, Level 0]: Falco642 is on a killing spree with 5 blocks
 [2021-04-02 10:07:25]: ***  [, Level 0]: Falco642's killing spree was ended by BC|serwan (6 blocks)
 [2021-04-02 10:07:26]: kais [, Level 65]: [D] sL|whutasme: you don't want to place the rest ?
+[2021-04-02 10:07:33]: ***  [, Level 0]: 'rayen' entered and joined the game
+[2021-04-02 10:07:36]: ***  [, Level 0]: kiøn1029 is on a killing spree with 5 blocks
+[2021-04-02 10:07:38]: sL|whutasme [, Level 0]: if you want
+[2021-04-02 10:07:40]: ***  [, Level 0]: 'Noragami' joined the minigame 'Survival', use '/survival' to join aswell
