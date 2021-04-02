@@ -11975,3 +11975,4 @@
 [2021-04-02 14:14:37]: ***  [, Level 0]: '(1)Λtlantis Ψ' entered and joined the game
 [2021-04-02 14:14:47]: ***  [, Level 0]: '(2)Λtlantis Ψ' entered and joined the game
 [2021-04-02 14:14:50]: ***  [, Level 0]: 'mekitsune' entered and joined the game
+[2021-04-02 14:14:53]: Kirito [, Level 32]: (1)✯ | FayZoR: you failed the first english class didnt you?
