@@ -885,3 +885,8 @@
 [2021-04-02 01:42:01]: ChillerDragon.* [Chilli.*, Level 41]: hammer op
 [2021-04-02 01:42:02]: HeavyGeneral [FookinLads, Level 44]: ERROR: i need time to recover my skill
 [2021-04-02 01:42:07]: ERROR [404, Level 73]: ChillerDragon:  no one talked to u so stfu
+[2021-04-02 01:42:07]: HeavyGeneral [FookinLads, Level 44]: ERROR: i was out of pc for too long
+[2021-04-02 01:42:07]: ***  [, Level 0]: 'nam' has left the game
+[2021-04-02 01:42:15]: BulgarianTee [xSD7, Level 38]: eew blue flag
+[2021-04-02 01:42:18]: ChillerDragon.* [|*KoG*|, Level 41]: ikr
+[2021-04-02 01:42:19]: ***  [, Level 0]: 'Leblebi' entered and joined the game
