@@ -5452,3 +5452,6 @@
 [2021-04-02 08:16:10]: ***  [, Level 0]: 'power' has left the game
 [2021-04-02 08:16:10]: ***  [, Level 0]: 'power2' has left the game
 [2021-04-02 08:16:21]: ***  [, Level 0]: 'УБИВАТЬ!' entered and joined the game
+[2021-04-02 08:16:24]: Noxl [.bad, Level 48]: cunt: ok
+[2021-04-02 08:16:32]: ***  [, Level 0]: f"{self.name}" finished in: 1 minute(s) 55.86 second(s)
+[2021-04-02 08:16:32]: ***  [, Level 0]: New record: 9 minute(s) 41.32 second(s) better.
