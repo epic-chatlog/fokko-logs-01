@@ -5518,3 +5518,6 @@
 [2021-04-02 08:26:09]: sun.slow(y) [sunrise., Level 35]: no expired bro
 [2021-04-02 08:26:45]: ***  [, Level 0]: '✯ |toxicdaddy' entered and joined the game
 [2021-04-02 08:26:50]: ***  [, Level 0]: '(1)RoberGN' entered and joined the game
+[2021-04-02 08:26:52]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
+[2021-04-02 08:27:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-02 08:27:01]: ***  [, Level 0]: 'RoberGN' has left the game (Timeout)
