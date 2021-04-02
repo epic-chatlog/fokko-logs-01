@@ -11536,3 +11536,5 @@
 [2021-04-02 13:34:02]: ***  [, Level 0]: 'VeemID [2]' entered and joined the game
 [2021-04-02 13:34:19]: ***  [, Level 0]: 'MieSlime' has left the game
 [2021-04-02 13:34:19]: ✯ | FayZoR [|Supressed|, Level 42]: YelloWorlD: d'ailleur c'est même pas any mdr, c'est Emilcha qui c'est rename car il se faisais bulli par error car il l'a kill
+[2021-04-02 13:34:44]: ERROR. [404, Level 55]: btw HeavyGeneral  he safed yellow.
+[2021-04-02 13:34:46]: ERROR. [404, Level 55]: chiller*
