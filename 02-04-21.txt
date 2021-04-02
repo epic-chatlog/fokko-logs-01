@@ -5521,3 +5521,4 @@
 [2021-04-02 08:26:52]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
 [2021-04-02 08:27:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-02 08:27:01]: ***  [, Level 0]: 'RoberGN' has left the game (Timeout)
+[2021-04-02 08:27:27]: ***  [, Level 0]: 'Ghost' entered and joined the game
