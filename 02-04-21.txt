@@ -11487,3 +11487,7 @@
 [2021-04-02 13:30:12]: Noxl. [.bad, Level 35]: GOLD: i wanna kill ChillerDragon !!!
 [2021-04-02 13:30:19]: GOLD [404, Level 40]: Noxl: u will help him
 [2021-04-02 13:30:20]: S Y T H N [iPro, Level 37]: (1)Λtlantis Ψ: 'JAP' IS AN INVALID TARGET LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT
+[2021-04-02 13:30:23]: VeemID [, Level 26]: G
+[2021-04-02 13:30:25]: ERROR [404, Level 73]: GOLD:  no he doesnt
+[2021-04-02 13:30:31]: ***  [, Level 0]: 'Axel ²' entered and joined the game
+[2021-04-02 13:30:32]: Noxl. [.bad, Level 35]: GOLD: no ^_^
