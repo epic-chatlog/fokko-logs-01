@@ -11987,3 +11987,9 @@
 [2021-04-02 14:16:41]: ✯ | FayZoR [|Supressed|, Level 42]: (1)Λtlantis Ψ: edit
 [2021-04-02 14:16:43]: Λtlantis Ψ [ᅟᅟ , Level 39]: cant
 [2021-04-02 14:16:46]: Λtlantis Ψ [ᅟᅟ , Level 39]: look
+[2021-04-02 14:16:53]: ***  [, Level 0]: '✯ NinjaWhite' entered and joined the game
+[2021-04-02 14:16:55]: Λtlantis Ψ [ᅟᅟ , Level 39]: b/plot edit
+[2021-04-02 14:16:56]: ***  [, Level 0]: '✯ | Ninjablac' entered and joined the game
+[2021-04-02 14:16:59]: S Y T H N [iPro, Level 37]: ✯ NinjaWhite: hey
+[2021-04-02 14:16:59]: Λtlantis Ψ [ᅟᅟ , Level 39]: doesnt work
+[2021-04-02 14:17:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
