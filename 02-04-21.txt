@@ -10805,3 +10805,7 @@
 [2021-04-02 12:51:30]: VeemID [, Level 0]: nameless: we go inf jump ?
 [2021-04-02 12:51:35]: Noxl [.bad, Level 35]: Kirito: war4life
 [2021-04-02 12:51:36]: ERROR [404, Level 73]: sL|whutasme:  BAD IDEA rly
+[2021-04-02 12:51:41]: ***  [, Level 0]: 'x_x' entered and joined the game
+[2021-04-02 12:51:41]:   [, Level 0]: nameless: VeemID: i go ---->
+[2021-04-02 12:51:41]: [D] mamikral011 [, Level 20]: (1)Maatiteusz: offf you beter
+[2021-04-02 12:51:48]: (1)Maatiteusz [TrRShClNrRs, Level 12]: mamikral011: Better xD
