@@ -12319,3 +12319,7 @@
 [2021-04-02 15:01:41]: Λtlantis Ψ [ᅟᅟ , Level 39]: xD
 [2021-04-02 15:02:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-02 15:02:08]: Λtlantis Ψ [ᅟᅟ , Level 39]: any:
+[2021-04-02 15:02:09]: Λtlantis Ψ [ᅟᅟ , Level 39]: if you go
+[2021-04-02 15:02:11]: Λtlantis Ψ [ᅟᅟ , Level 39]: superroom
+[2021-04-02 15:02:12]: Λtlantis Ψ [ᅟᅟ , Level 39]: press 1
+[2021-04-02 15:02:16]: Λtlantis Ψ [ᅟᅟ , Level 39]: to free me .D
