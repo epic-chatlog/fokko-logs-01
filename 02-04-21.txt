@@ -5604,3 +5604,4 @@
 [2021-04-02 08:40:37]: ***  [sýÿÿ, Level 0]: Falco642's killing spree was ended by [D] âœ¯ |toxicd (17 blocks)
 [2021-04-02 08:40:38]: ***  [°þÿÿ, Level 0]: 'Falco642' has left the game
 [2021-04-02 08:40:49]: ***  [, Level 0]: 'Falco642' entered and joined the game
+[2021-04-02 08:41:26]: Noxl [.bad, Level 48]: sun.slow(y): come dog
