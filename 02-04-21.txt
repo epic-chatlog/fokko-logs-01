@@ -5672,3 +5672,5 @@
 [2021-04-02 08:50:34]: Niccname [, Level 0]: ?
 [2021-04-02 08:50:44]: Noxl [.bad, Level 48]: Salut: war4life
 [2021-04-02 08:51:03]: Cry Ratish [dummy, Level 43]: ahahhahah
+[2021-04-02 08:51:20]: ***  [, Level 0]: 'sL|whutasme' entered and joined the game
+[2021-04-02 08:51:25]: Salut [, Level 31]: Noxl:  you want kill me I kill you
