@@ -1306,3 +1306,5 @@
 [2021-04-02 02:28:00]: Lucas [THECEPS, Level 32]: Marcisten: you sayd war for no reason
 [2021-04-02 02:28:00]: ***  [, Level 0]: Ghost 2.0 finished in: 1 minute(s) 35.78 second(s)
 [2021-04-02 02:28:05]: ***  [, Level 0]: 'Amirian' entered and joined the game
+[2021-04-02 02:28:10]: Marcisten [hax, Level 44]: Lucas: boring game ı need enemy
+[2021-04-02 02:28:15]: ***  [, Level 0]: 'Amirian' changed name to '.'
