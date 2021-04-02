@@ -7332,3 +7332,8 @@
 [2021-04-02 10:17:30]: ***  [, Level 0]: ChillerDragon is on a killing spree with 5 blocks
 [2021-04-02 10:17:34]:   [, Level 0]: Rock: Mʎɹ シ: тоже норм
 [2021-04-02 10:17:36]: P4PyrOs [, Level 22]: To late
+[2021-04-02 10:17:40]: P4PyrOs [, Level 22]: learn to play
+[2021-04-02 10:17:45]: ***  [, Level 0]: ビール|Zero finished in: 0 minute(s) 58.32 second(s)
+[2021-04-02 10:17:45]: ***  [, Level 0]: New record: 1 minute(s) 13.04 second(s) better.
+[2021-04-02 10:17:50]: ***  [, Level 0]: 'Kyrma' has left the game
+[2021-04-02 10:17:50]: ChillerDragon [|*KoG*|, Level 44]: kais: ERROR has dogs
