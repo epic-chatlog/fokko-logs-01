@@ -4919,3 +4919,6 @@
 [2021-04-02 06:58:06]: ***  [, Level 0]: 'GOLD' has left the game
 [2021-04-02 06:58:06]: SamuraЙ [{D}, Level 0]: ChillerDragon: hi bro!
 [2021-04-02 06:58:07]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-02 06:58:09]: ChillerDragon [|*KoG*|, Level 44]: hi SamuraЙ
+[2021-04-02 06:58:10]: hhh3 [, Level 48]: Maatiteusz: omg my flag
+[2021-04-02 06:58:14]: ***  [, Level 0]: 'Treebeard' has left the game
