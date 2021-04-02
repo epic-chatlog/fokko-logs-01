@@ -430,3 +430,5 @@
 [2021-04-02 00:46:57]: BulgarianTee [xSD7, Level 38]: LAg
 [2021-04-02 00:47:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-02 00:47:02]: SAUD [, Level 20]: nam:  i cant
+[2021-04-02 00:47:17]: BulgarianTee [xSD7, Level 38]: BAD LAG
+[2021-04-02 00:47:24]: ***  [, Level 0]: 'Amirian YA' changed name to '.'
