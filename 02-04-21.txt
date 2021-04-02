@@ -5643,3 +5643,6 @@
 [2021-04-02 08:46:26]: ***  [, Level 0]: 'Noxl.' entered and joined the game
 [2021-04-02 08:46:33]: Salut [, Level 31]: hhh3:  you no farm ?
 [2021-04-02 08:46:46]: ***  [, Level 0]: 'toine' entered and joined the game
+[2021-04-02 08:46:59]: (1)RoberGN [, Level 0]: ok
+[2021-04-02 08:47:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-02 08:47:03]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
