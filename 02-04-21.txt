@@ -2320,3 +2320,7 @@
 [2021-04-02 03:39:58]: Mʎɹ シ [not today, Level 0]: WarHammer: can i?
 [2021-04-02 03:40:03]: Kezo [FookinLads, Level 41]: gay stupid :D
 [2021-04-02 03:40:04]: power [TrRShClNrRs, Level 0]: haha Isegrin i love our relationship
+[2021-04-02 03:40:06]: (2)SAUD [, Level 0]: [D] MNKY | Arin:
+[2021-04-02 03:40:12]: ***  [, Level 0]: 'gamer' joined the spectators
+[2021-04-02 03:40:14]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
+[2021-04-02 03:40:16]: ***  [, Level 0]: 'gamer' joined the game
