@@ -4726,3 +4726,6 @@
 [2021-04-02 06:40:27]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-02 06:40:27]: ***  [, Level 0]: '(1)ES' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-02 06:40:30]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-02 06:40:56]: ***  [, Level 0]: 'Friendiship ;-)' has left the game
+[2021-04-02 06:40:56]: Isegrin [, Level 54]: FAAK
+[2021-04-02 06:40:58]: Killua [FookinLads, Level 44]: Mista bombastic: no are you and your friend who currently plays here with us- bestfriends?
