@@ -877,3 +877,6 @@
 [2021-04-02 01:41:17]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
 [2021-04-02 01:41:28]: ChillerDragon.* [Chilli.*, Level 41]: where is flappy my mate
 [2021-04-02 01:41:29]: ChillerDragon.* [Chilli.*, Level 41]: he stuck
+[2021-04-02 01:41:50]: ***  [, Level 0]: 'Niko' entered and joined the game
+[2021-04-02 01:41:51]: BulgarianTee [xSD7, Level 38]: XD
+[2021-04-02 01:41:52]: ERROR [404, Level 73]: HeavyGeneral:  tf get weapons
