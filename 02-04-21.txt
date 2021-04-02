@@ -11546,3 +11546,4 @@
 [2021-04-02 13:35:53]: ERROR [404, Level 73]: no u
 [2021-04-02 13:35:56]: GOLD [404, Level 40]: im bad
 [2021-04-02 13:36:07]: ERROR [404, Level 73]: Keø:  doesnt matter u attacked my clanmate
+[2021-04-02 13:36:35]: ERROR [404, Level 73]: Keø:  fookinlads just add randoms shame
