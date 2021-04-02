@@ -9551,3 +9551,7 @@
 [2021-04-02 11:53:12]: Mista bombastic [TrRShClNrRs, Level 40]: hogy nem szedik a makkot, nem szedik a makkot fedeles kosárba.
 [2021-04-02 11:53:12]:   [, Level 0]: Boti.: Lucas: war
 [2021-04-02 11:53:14]:   [, Level 0]: kiøn1029: (1)Boti.: hát most ha nem vesznek észre
+[2021-04-02 11:53:16]: ***  [, Level 0]: 'alexandre' has left the game
+[2021-04-02 11:53:18]: ***  [, Level 0]: 'alexandre' entered and joined the game
+[2021-04-02 11:53:20]: Mista bombastic [TrRShClNrRs, Level 40]: Felmegy a legény a fára,a makkfa tetejére,
+[2021-04-02 11:53:23]: (1)Boti. [.bad, Level 32]: megyek policeba yolo ozt ja
