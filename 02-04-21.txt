@@ -1727,3 +1727,6 @@
 [2021-04-02 03:05:24]: ***  [, Level 0]: 'PROsto_4elovek' entered and joined the game
 [2021-04-02 03:05:39]: Foxie♥ [♥, Level 32]: SAUD: hes my dog
 [2021-04-02 03:05:45]: GODLIKe [hax, Level 44]: Foxie♥: stupid
+[2021-04-02 03:05:50]: Foxie♥ [♥, Level 32]: GODLIKe: ?
+[2021-04-02 03:05:54]: GODLIKe [hax, Level 44]: who ur dog
+[2021-04-02 03:05:59]: SAUD [, Level 20]: Foxie♥:  xD
