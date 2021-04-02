@@ -5558,3 +5558,4 @@
 [2021-04-02 08:34:46]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-02 08:34:56]: Niccname [, Level 0]: u
 [2021-04-02 08:35:08]: ***  [, Level 0]: 'Rainbow Tee' entered and joined the game
+[2021-04-02 08:35:18]: ***  [, Level 0]: 'Mʎɹ シ' entered and joined the game
