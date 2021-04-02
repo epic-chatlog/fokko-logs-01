@@ -11453,3 +11453,5 @@
 [2021-04-02 13:27:22]: HeavyGeneral [FookinLads, Level 44]: ERROR: oof gotta afk 5-7 min
 [2021-04-02 13:27:23]: S Y T H N [iPro, Level 37]: (1)Λtlantis Ψ: Yo
 [2021-04-02 13:27:29]: S Y T H N [iPro, Level 37]: (1)Λtlantis Ψ: Pyccknn
+[2021-04-02 13:27:35]: HeavyGeneral [FookinLads, Level 44]: ERROR: half afk
+[2021-04-02 13:27:35]: ERROR [404, Level 73]: np im here
