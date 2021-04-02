@@ -12018,3 +12018,8 @@
 [2021-04-02 14:20:08]: ***  [, Level 0]: koro is on a killing spree with 5 blocks
 [2021-04-02 14:20:15]: Kirito [, Level 32]: STOP ruining
 [2021-04-02 14:20:19]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' entered and joined the game
+[2021-04-02 14:20:28]: Kirito [, Level 32]: (1)sL|whutasme:  LEMME STACK IDIOT
+[2021-04-02 14:20:30]: ***  [, Level 0]: 'AndreyWhitily' has left the game
+[2021-04-02 14:20:32]: ***  [, Level 0]: 'AndreyWhitily' entered and joined the game
+[2021-04-02 14:20:37]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-02 14:20:39]: sL|whutasme [, Level 5]: lol Kirito
