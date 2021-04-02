@@ -1011,3 +1011,6 @@
 [2021-04-02 01:49:40]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-02 01:49:46]: ᅟᅟᅟᅟᅟ [, Level 0]: NOOOOOOO
 [2021-04-02 01:49:47]: ***  [, Level 0]: 'Alien' entered and joined the game
+[2021-04-02 01:50:02]: ERROR. [404, Level 55]: HeavyGeneral:  zzzz
+[2021-04-02 01:50:07]: HeavyGeneral [FookinLads, Level 44]: ye had calll
+[2021-04-02 01:50:08]: ERROR [404, Level 73]: xD
