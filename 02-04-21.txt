@@ -3232,3 +3232,6 @@
 [2021-04-02 04:44:06]: Rainbow Tee [KyStiKi, Level 9]: XDD
 [2021-04-02 04:44:07]: УБИВАТЬ! [, Level 0]: xD
 [2021-04-02 04:44:12]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-02 04:44:14]: ***  [, Level 0]: 'Тучка' entered and joined the game
+[2021-04-02 04:44:18]: ***  [, Level 0]: 'lolpoep' entered and joined the game
+[2021-04-02 04:44:23]: ***  [, Level 0]: Lucas finished in: 2 minute(s) 21.96 second(s)
