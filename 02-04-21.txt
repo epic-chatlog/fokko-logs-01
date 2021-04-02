@@ -10212,3 +10212,9 @@
 [2021-04-02 12:24:05]: ***  [, Level 0]: '[D] BC|serwan' left the minigame 'Survival'
 [2021-04-02 12:24:10]: GODLIKe [hax, Level 44]: QKWEPĞLÜWQEKOQWP
 [2021-04-02 12:24:12]: ***  [, Level 0]: ''' entered and joined the game
+[2021-04-02 12:24:14]:   [, Level 0]: Noxl: ChillerDragon: what ?
+[2021-04-02 12:24:16]: ***  [, Level 0]: 'BC|serwan' left the minigame 'Survival'
+[2021-04-02 12:24:18]: (1)Maatiteusz [TrRShClNrRs, Level 0]: koro: one jump too much
+[2021-04-02 12:24:18]: GODLIKe [hax, Level 44]: WQKOEĞ2LPWQEL
+[2021-04-02 12:24:20]: ChillerDragon.* [|*KoG*|, Level 41]: u said wtf Noxl
+[2021-04-02 12:24:24]:   [, Level 0]: Noxl: me ?
