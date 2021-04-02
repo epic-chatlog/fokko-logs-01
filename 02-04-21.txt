@@ -6280,3 +6280,7 @@
 [2021-04-02 09:32:04]: ***  [, Level 0]: 'Nonoh' entered and joined the game
 [2021-04-02 09:32:07]: ***  [, Level 0]: '(1)RoberGN' has left the game
 [2021-04-02 09:32:07]: sL|whutasme [, Level 0]: (1)Λtlantis Ψ: man how i have levels
+[2021-04-02 09:32:11]: ***  [, Level 0]: 'Noémi[Đ]' entered and joined the game
+[2021-04-02 09:32:12]: Niccname [, Level 0]: thc
+[2021-04-02 09:32:12]: ***  [, Level 0]: '(1)NENNY196' entered and joined the game
+[2021-04-02 09:32:16]: Kiøn1029 [.bad, Level 31]: XDD
