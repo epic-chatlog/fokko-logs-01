@@ -12974,3 +12974,5 @@
 [2021-04-02 16:36:25]: ***  [, Level 0]: '~DemoizL~' has left the game
 [2021-04-02 16:36:25]: ***  [, Level 0]: 'All Apologies' joined the game
 [2021-04-02 16:36:27]: ***  [, Level 0]: 'hhh3' has left the game
+[2021-04-02 16:36:47]: ***  [, Level 0]: 'All Apologies' joined the spectators
+[2021-04-02 16:36:51]: ***  [, Level 0]: 'All Apologies' joined the game
