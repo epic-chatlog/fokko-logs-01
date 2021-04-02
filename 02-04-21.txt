@@ -8781,3 +8781,9 @@
 [2021-04-02 11:22:37]: ***  [, Level 0]: 'kurama' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-02 11:22:38]: BulgarianTee [xSD7, Level 0]: ChillerDragon: toxic + bully = bulgarian
 [2021-04-02 11:22:38]: Shiro. [, Level 50]: Λtlantis Ψ: kill
+[2021-04-02 11:22:45]: Shiro. [, Level 50]: Λtlantis Ψ: remove /plot spawn
+[2021-04-02 11:22:45]: BulgarianTee [xSD7, Level 0]: ChillerDragon: at least me
+[2021-04-02 11:22:46]: Λtlantis Ψ [ᅟᅟ , Level 39]: i have wepen
+[2021-04-02 11:22:49]: ***  [, Level 0]: '✯ NinjaWhite' has left the game
+[2021-04-02 11:22:49]: ***  [, Level 0]: '✯ | Ninjablac' has left the game
+[2021-04-02 11:22:49]: ChillerDragon [Chilli.*, Level 44]: stap it BulgarianTee
