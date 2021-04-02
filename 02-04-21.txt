@@ -3166,3 +3166,5 @@
 [2021-04-02 04:32:13]: GODLIKe [hax, Level 44]: WarHammer': dokunmuyor kimseye gidiyor sadece
 [2021-04-02 04:32:30]: ***  [, Level 0]: 'Cylox♥' entered and joined the game
 [2021-04-02 04:33:06]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-02 04:33:09]: ***  [, Level 0]: '(1)✯ | FayZoR' has left the game (Timeout Protection over)
+[2021-04-02 04:33:09]: ***  [, Level 0]: '(1)✯ | Chronos' has left the game (Timeout Protection over)
