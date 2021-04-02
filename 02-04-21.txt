@@ -4810,3 +4810,6 @@
 [2021-04-02 06:46:54]: (2)SAUD [, Level 0]: sun.slow(y):
 [2021-04-02 06:46:57]: (2)SAUD [, Level 0]: lolpoep:
 [2021-04-02 06:47:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-02 06:48:28]: ***  [, Level 0]: 'cunt' entered and joined the game
+[2021-04-02 06:48:28]: lolpoep [Ape, Level 14]: hhh3 stop
+[2021-04-02 06:48:30]: Isegrin [, Level 54]: mamikral011: cyka bliuet
