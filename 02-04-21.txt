@@ -11108,3 +11108,5 @@
 [2021-04-02 13:06:22]: BC|Tixnix [BC, Level 33]: ERROR:
 [2021-04-02 13:06:22]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-02 13:06:26]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-02 13:06:35]: [D] mamikral011 [, Level 20]: Isegrin: war?
+[2021-04-02 13:06:40]: ***  [, Level 0]: 'NetFlix' has left the game
