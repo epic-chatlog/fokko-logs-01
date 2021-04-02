@@ -118,3 +118,7 @@
 [2021-04-02 00:11:43]: (2)SAUD [, Level 10]: xD
 [2021-04-02 00:11:44]: ERROR. [404, Level 55]: OPSIE
 [2021-04-02 00:11:53]: ERROR. [404, Level 55]: xD
+[2021-04-02 00:11:57]: ERROR. [404, Level 55]: xDDD
+[2021-04-02 00:12:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-02 00:12:03]: Foxie♥ [♥, Level 32]: ERROR: fukin dik
+[2021-04-02 00:12:09]: BulgarianTee [xSD7, Level 0]: kais: bad af
