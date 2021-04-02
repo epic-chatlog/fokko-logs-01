@@ -11503,3 +11503,6 @@
 [2021-04-02 13:30:58]: any [404, Level 0]: GOLD: cup of tee is friend
 [2021-04-02 13:31:00]: Noxl. [.bad, Level 35]: GOLD: nice
 [2021-04-02 13:31:06]: sL|whutasme [, Level 4]: ok thx ERROR
+[2021-04-02 13:31:13]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
+[2021-04-02 13:31:13]: ***  [, Level 0]: 'BC|Tixnix' has left the game
+[2021-04-02 13:31:15]: Noxl. [.bad, Level 35]: GOLD: i kill ChillerDragon
