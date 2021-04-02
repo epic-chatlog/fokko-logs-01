@@ -520,3 +520,4 @@
 [2021-04-02 01:00:27]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-02 01:00:37]: ***  [, Level 0]: '(1)ChillerDragon' changed name to '(2)ChillerDragon'
 [2021-04-02 01:00:44]: kais [, Level 65]: i had to read 4 this year for school, read none xD
+[2021-04-02 01:01:33]: ***  [, Level 0]: kais finished in: 41 minute(s) 20.48 second(s)
