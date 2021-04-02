@@ -701,3 +701,4 @@
 [2021-04-02 01:21:27]: nam [, Level 0]: (1)Friendiship :  HELP
 [2021-04-02 01:21:33]: ***  [, Level 0]: 'SoniCN' has left the game
 [2021-04-02 01:21:44]: ***  [, Level 0]: '(2)ChillerDragon' finished the special race!
+[2021-04-02 01:22:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
