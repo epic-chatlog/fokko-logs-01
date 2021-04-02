@@ -8452,3 +8452,5 @@
 [2021-04-02 11:09:01]: ***  [, Level 0]: 'PwNd' entered and joined the game
 [2021-04-02 11:09:06]: ***  [, Level 0]: 'Katz' has left the game
 [2021-04-02 11:09:09]: BulgarianTee [xSD7, Level 0]: ChillerDragon: ChillerMad
+[2021-04-02 11:09:17]: ***  [, Level 0]: 'Falco642' has left the game
+[2021-04-02 11:09:17]: ***  [, Level 0]: 'Falco641' has left the game
