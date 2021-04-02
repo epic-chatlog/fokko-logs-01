@@ -971,3 +971,9 @@
 [2021-04-02 01:47:01]: [D] Leblebi [, Level 18]: kill and grenade
 [2021-04-02 01:47:03]: ERROR [404, Level 73]: HeavyGeneral:  first time x7 didnt rq
 [2021-04-02 01:47:06]: BulgarianTee [xSD7, Level 38]: E
+[2021-04-02 01:47:12]: ChillerDragon.* [Chilli.*, Level 41]: i come HeavyGeneral
+[2021-04-02 01:47:14]: power [TrRShClNrRs, Level 13]: ERROR: can u come jetpack race pls?
+[2021-04-02 01:47:17]: ERROR [404, Level 73]: no
+[2021-04-02 01:47:22]: ***  [, Level 0]: 'PoliceTee' has left the game
+[2021-04-02 01:47:22]: ***  [, Level 0]: 'BulgarianTee' has left the game
+[2021-04-02 01:47:23]: power [TrRShClNrRs, Level 13]: ok nw
