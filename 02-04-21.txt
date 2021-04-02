@@ -12991,3 +12991,4 @@
 [2021-04-02 16:39:01]: ***  [, Level 0]: '(1)Kirito' would have timed out, but can use timeout protection now
 [2021-04-02 16:42:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-02 16:42:03]: ***  [, Level 0]: '♥TAKO♥' entered and joined the game
+[2021-04-02 16:42:13]: ***  [, Level 0]: '♥TAKO♥' has left the game
