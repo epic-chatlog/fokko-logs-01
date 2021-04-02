@@ -526,3 +526,6 @@
 [2021-04-02 01:02:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-02 01:02:04]: BulgarianTee [xSD7, Level 38]: LAG IS SHIT
 [2021-04-02 01:02:05]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
+[2021-04-02 01:02:08]: HeavyGeneral [FookinLads, Level 44]: ERROR: i gotta learn how to get into police w 2 jumps
+[2021-04-02 01:02:12]: HeavyGeneral [FookinLads, Level 44]: ERROR: kekw
+[2021-04-02 01:02:17]: ***  [, Level 0]: 'PoliceTee' has left the game
