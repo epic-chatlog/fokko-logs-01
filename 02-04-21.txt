@@ -10515,3 +10515,5 @@
 [2021-04-02 12:37:03]: GODLIKe [hax, Level 44]: d+: reset
 [2021-04-02 12:37:09]: BC|Tixnix [BC, Level 33]: ':
 [2021-04-02 12:37:12]: BC|Tixnix [BC, Level 33]: ERROR:
+[2021-04-02 12:37:24]:   [, Level 0]: d+: weqe: im gonna 1v1 himm
+[2021-04-02 12:37:27]: ***  [, Level 0]: '(1)Friendiship ;' has left the game
