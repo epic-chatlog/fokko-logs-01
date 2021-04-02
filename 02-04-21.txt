@@ -3958,3 +3958,7 @@
 [2021-04-02 05:56:09]: Kezo [FookinLads, Level 41]: are you wb er ?
 [2021-04-02 05:56:41]: lolpoep [Ape, Level 14]: sorry
 [2021-04-02 05:56:45]: Kezo [FookinLads, Level 41]: kais:
+[2021-04-02 05:56:51]: ***  [, Level 0]: 'FULL WAR' entered and joined the game
+[2021-04-02 05:57:00]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-02 05:57:01]: lolpoep [Ape, Level 14]: bob
+[2021-04-02 05:57:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
