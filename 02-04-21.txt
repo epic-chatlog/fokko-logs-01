@@ -11105,3 +11105,6 @@
 [2021-04-02 13:06:15]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-02 13:06:15]: ***  [, Level 0]: 'haxxless dummy' has left the game
 [2021-04-02 13:06:17]: ***  [, Level 0]: [D] mamikral011 is on a killing spree with 5 blocks
+[2021-04-02 13:06:22]: BC|Tixnix [BC, Level 33]: ERROR:
+[2021-04-02 13:06:22]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-02 13:06:26]: ***  [, Level 0]: 'gian x' joined the game
