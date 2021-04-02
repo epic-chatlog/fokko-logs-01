@@ -5508,3 +5508,6 @@
 [2021-04-02 08:24:55]: ***  [, Level 0]: 'Noxl.' entered and joined the game
 [2021-04-02 08:25:19]: ***  [, Level 0]: 'УБИВАТЬ!' entered and joined the game
 [2021-04-02 08:25:38]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
+[2021-04-02 08:25:43]: Shiro. [, Level 50]: sun.slow(y): sun
+[2021-04-02 08:25:48]: sun.slow(y) [sunrise., Level 35]: shirgay
+[2021-04-02 08:25:54]: Shiro. [, Level 50]: ♥
