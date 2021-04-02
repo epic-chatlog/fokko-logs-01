@@ -769,3 +769,6 @@
 [2021-04-02 01:29:57]: (1)ChillerDrago [Chilli.*, Level 30]: fookin
 [2021-04-02 01:30:03]: Shiro. [, Level 50]: BulgarianTee: im in fookinlads
 [2021-04-02 01:30:07]: Shiro. [, Level 50]: (jk)
+[2021-04-02 01:30:09]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-02 01:30:10]: ***  [, Level 0]: 'Wheels.' entered and joined the game
+[2021-04-02 01:30:11]: BulgarianTee [xSD7, Level 38]: Shiro.: xD
