@@ -5380,3 +5380,7 @@
 [2021-04-02 07:58:49]: kurama [, Level 7]: Noxl:
 [2021-04-02 07:58:52]: Noxl [.bad, Level 48]: rly
 [2021-04-02 07:59:09]: weqe [MNKY, Level 10]: bob:
+[2021-04-02 07:59:22]: bob [MNKY, Level 36]: lag xd
+[2021-04-02 07:59:22]: ***  [, Level 0]: 'Ghost' has left the game (Timeout)
+[2021-04-02 07:59:22]: ***  [, Level 0]: 'Ghost 2.0' has left the game (Timeout)
+[2021-04-02 07:59:23]: ***  [, Level 0]: 'bob' has left the game
