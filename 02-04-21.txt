@@ -10086,3 +10086,7 @@
 [2021-04-02 12:19:05]: ***  [, Level 0]: 'koro' entered and joined the game
 [2021-04-02 12:19:05]:   [, Level 0]: Pigie♥: weqe: wait
 [2021-04-02 12:19:06]: ***  [, Level 0]: '[D] BC|Tixnix' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-02 12:19:11]: ***  [, Level 0]: Rem's dummy finished in: 1 minute(s) 40.74 second(s)
+[2021-04-02 12:19:16]:   [, Level 0]: BC|kakashi: ./survival
+[2021-04-02 12:19:20]: ***  [, Level 0]: Rem's bae finished in: 0 minute(s) 59.56 second(s)
+[2021-04-02 12:19:20]: ***  [, Level 0]: New record: 44.18 second(s) better.
