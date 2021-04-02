@@ -5066,3 +5066,7 @@
 [2021-04-02 07:21:23]: ✯ |toxicdaddy [|Supressed, Level 24]: Kirito: wtf
 [2021-04-02 07:21:35]: Kirito [, Level 32]: [D] ✯ |toxicd:  dein clan
 [2021-04-02 07:21:42]: Kirito [, Level 32]: [D] ✯ |toxicd: drecks starbucks clan
+[2021-04-02 07:21:48]: ***  [, Level 0]: 'Falco641' entered and joined the game
+[2021-04-02 07:21:50]: ***  [, Level 0]: 'DaBaby' entered and joined the game
+[2021-04-02 07:21:53]: ***  [, Level 0]: 'DaBaby' has left the game
+[2021-04-02 07:21:54]: ***  [, Level 0]: 'Falco642' entered and joined the game
