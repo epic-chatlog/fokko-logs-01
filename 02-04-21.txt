@@ -1014,3 +1014,5 @@
 [2021-04-02 01:50:02]: ERROR. [404, Level 55]: HeavyGeneral:  zzzz
 [2021-04-02 01:50:07]: HeavyGeneral [FookinLads, Level 44]: ye had calll
 [2021-04-02 01:50:08]: ERROR [404, Level 73]: xD
+[2021-04-02 01:50:14]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-02 01:50:18]: ChillerDragon.* [Chilli.*, Level 41]: go re HeavyGeneral
