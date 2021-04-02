@@ -11648,3 +11648,5 @@
 [2021-04-02 13:45:43]: GOLD [404, Level 40]: xDDD
 [2021-04-02 13:45:46]: ChillerDragon [|*KoG*|, Level 44]: das nich nice ERROR
 [2021-04-02 13:45:47]: ✯ | FayZoR [|Supressed|, Level 42]: koro:
+[2021-04-02 13:46:04]: (1)ERROR [404, Level 47]: ChillerDragon:  gesoffen?
+[2021-04-02 13:46:06]: ✯ | FayZoR [|Supressed|, Level 42]: koro: stop -.-
