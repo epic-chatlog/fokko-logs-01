@@ -784,3 +784,6 @@
 [2021-04-02 01:32:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-02 01:32:13]: Shiro. [, Level 50]: wat
 [2021-04-02 01:32:16]: Shiro. [, Level 50]: why i dont have dj
+[2021-04-02 01:32:20]: ***  [, Level 0]: '(1)Wheels' entered and joined the game
+[2021-04-02 01:32:20]: Shiro. [, Level 50]: lkwfmzet
+[2021-04-02 01:32:23]: BulgarianTee [xSD7, Level 38]: Shiro.: dj for non-gays only
