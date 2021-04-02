@@ -12201,3 +12201,7 @@
 [2021-04-02 14:41:20]: ***  [, Level 0]: '__init__(self):' has left the game
 [2021-04-02 14:41:25]: ✯ | FayZoR [|Supressed|, Level 42]: rq
 [2021-04-02 14:41:35]: LareneGyvaeh [FookinLads, Level 36]: k
+[2021-04-02 14:42:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-02 14:42:01]: ✯ | FayZoR [|Supressed|, Level 42]: weqe: i qpike any
+[2021-04-02 14:42:04]: weqe [MNKY, Level 11]: ok
+[2021-04-02 14:42:07]: ***  [, Level 0]: any's killing spree was ended by ✯ | FayZoR (5 blocks)
