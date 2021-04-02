@@ -148,3 +148,6 @@
 [2021-04-02 00:14:14]: ***  [, Level 0]: 'BulgarianTee' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-02 00:14:14]: ***  [, Level 0]: 'PoliceTee' has left the game (Timeout)
 [2021-04-02 00:14:14]: (1)BulgarianTee [xSD7, Level 0]: ERROR: i had no jumps anyways
+[2021-04-02 00:14:22]: ERROR [404, Level 73]: cool
+[2021-04-02 00:14:23]: ***  [, Level 0]: '(1)BulgarianTee' changed name to 'BulgarianTee'
+[2021-04-02 00:14:30]: kais [, Level 65]: Foxie♥: no, ✯ | FayZoR and u vs me
