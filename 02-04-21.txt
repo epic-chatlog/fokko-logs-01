@@ -3198,3 +3198,5 @@
 [2021-04-02 04:35:48]: ***  [, Level 0]: 'GODLIKe' has left the game
 [2021-04-02 04:36:00]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-02 04:36:18]: ***  [, Level 0]: 'H2SO4' has left the game
+[2021-04-02 04:37:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-02 04:37:02]: ***  [, Level 0]: '[D] haris ist d' entered and joined the game
