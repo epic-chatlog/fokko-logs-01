@@ -5441,3 +5441,4 @@
 [2021-04-02 08:13:09]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-02 08:13:17]: GODLIKe. [GANG, Level 39]: lagg
 [2021-04-02 08:13:47]: ***  [, Level 0]: '__init__(self):' entered and joined the game
+[2021-04-02 08:14:46]: GODLIKe. [GANG, Level 39]: bad lag
