@@ -452,3 +452,7 @@
 [2021-04-02 00:49:15]: nameless tee [, Level 22]: wait
 [2021-04-02 00:49:16]: SAUD [, Level 20]: ./spec
 [2021-04-02 00:49:33]: SAUD [, Level 20]: nam:  <<<<<<<
+[2021-04-02 00:49:39]: BulgarianTee [xSD7, Level 38]: kais: pure garbager
+[2021-04-02 00:49:40]: SAUD [, Level 20]: nam:  <<<<<<<
+[2021-04-02 00:49:41]: ***  [, Level 0]: 'Amirian' has left the game
+[2021-04-02 00:49:42]: SAUD [, Level 20]: nam:  <<<<<<<
