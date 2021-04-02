@@ -8300,3 +8300,8 @@
 [2021-04-02 11:00:04]: Shiro. [, Level 50]: i won :D
 [2021-04-02 11:00:20]: ***  [, Level 0]: (2)ChillerDragon finished in: 1 minute(s) 32.26 second(s)
 [2021-04-02 11:00:20]: ***  [, Level 0]: New record: 1 minute(s) 11.28 second(s) better.
+[2021-04-02 11:00:33]: BulgarianTee [xSD7, Level 0]: E
+[2021-04-02 11:00:37]: ***  [, Level 0]: NENNY196 is on a killing spree with 5 blocks
+[2021-04-02 11:00:39]: ***  [, Level 0]: '(1)✯ | FayZoR' would have timed out, but can use timeout protection now
+[2021-04-02 11:00:39]: ***  [, Level 0]: '✯ | FayZoR' would have timed out, but can use timeout protection now
+[2021-04-02 11:00:39]: ***  [, Level 0]: '✯ | Chronos' would have timed out, but can use timeout protection now
