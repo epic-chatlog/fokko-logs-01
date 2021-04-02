@@ -2745,3 +2745,5 @@
 [2021-04-02 04:04:00]: [D] MNKY | Arin [, Level 0]: Ez bc clan
 [2021-04-02 04:04:04]: BulgarianTee [xSD7, Level 38]: ChillerDragon: XDDD
 [2021-04-02 04:04:08]: ChillerDragon [Chilli.*, Level 44]: its hard BulgarianTee
+[2021-04-02 04:04:10]: ***  [, Level 0]: '[D] MNKY | Arin' has left the game
+[2021-04-02 04:04:12]: ChillerDragon [Chilli.*, Level 44]: gotta train BulgarianTee
