@@ -11783,3 +11783,4 @@
 [2021-04-02 13:55:30]: (1)ERROR [404, Level 47]: (1)ChillerDrago:  bot regelt
 [2021-04-02 13:55:33]: (1)ERROR [404, Level 47]: any default
 [2021-04-02 13:55:35]: (1)ChillerDrago [Chilli.*, Level 30]: welcher ERROR
+[2021-04-02 13:55:42]: (1)ERROR [404, Level 47]: (1)ChillerDrago:  secret
