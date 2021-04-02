@@ -7080,3 +7080,6 @@
 [2021-04-02 10:06:25]:   [, Level 0]: Falco642: war for life
 [2021-04-02 10:06:35]: sL|whutasme [, Level 0]: ok
 [2021-04-02 10:06:42]: [D] ✯ |toxicd [|Supressed, Level 0]: sdäsamdkljajfslfnafg
+[2021-04-02 10:06:59]: kais [, Level 65]: sL|whutasme: now it is in your bank
+[2021-04-02 10:07:00]: power [TrRShClNrRs, Level 0]: kk comic
+[2021-04-02 10:07:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
