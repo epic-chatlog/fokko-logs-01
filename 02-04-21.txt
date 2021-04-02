@@ -11808,3 +11808,6 @@
 [2021-04-02 13:57:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-02 13:57:09]: (1)ERROR [404, Level 47]: (1)ChillerDrago:  umständlich? addname ERROR dann hätte ich zugriff auf die bots im spiel.
 [2021-04-02 13:57:23]: (2)ERROR [, Level 0]: ERROR: i am ERROR AHAHAA
+[2021-04-02 13:57:30]: (1)ERROR [404, Level 47]: well ure bad fake
+[2021-04-02 13:57:36]: (2)ChillerDrago [|*KoG*|, Level 31]: oke ERROR ? wie sieht das dann aus
+[2021-04-02 13:57:36]: Noxl [.bad, Level 0]: VeemID: help mee
