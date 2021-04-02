@@ -6052,3 +6052,8 @@
 [2021-04-02 09:20:04]: WarHammer [, Level 25]: jet hook ve spooky
 [2021-04-02 09:20:06]: ***  [, Level 0]: 'cookie' entered and joined the game
 [2021-04-02 09:20:08]: WarHammer [, Level 25]: its cyloks
+[2021-04-02 09:20:16]: ***  [, Level 0]: 'sL|whutasme' finished the special race!
+[2021-04-02 09:20:18]: ***  [, Level 0]: '(1)P4Pyr0s' has left the game
+[2021-04-02 09:20:19]: ***  [, Level 0]: Cry Ratish finished in: 8 minute(s) 21.88 second(s)
+[2021-04-02 09:20:19]: ***  [, Level 0]: 'Cry Ratish' finished the special race!
+[2021-04-02 09:20:20]: ***  [, Level 0]: '(1)P4Pyr0s' entered and joined the game
