@@ -8343,3 +8343,6 @@
 [2021-04-02 11:02:43]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
 [2021-04-02 11:02:51]: ビール|Zero [Drunks, Level 26]: +++
 [2021-04-02 11:02:51]: BulgarianTee [xSD7, Level 0]: E
+[2021-04-02 11:02:53]: ***  [, Level 0]: 'Friendiship ;-)' has left the game
+[2021-04-02 11:02:55]: (1)ChillerDrago [Chilli.*, Level 30]: rly ist ein Noob
+[2021-04-02 11:02:55]: ビール|Zero [Drunks, Level 26]: ну
