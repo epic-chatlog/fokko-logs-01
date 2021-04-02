@@ -2324,3 +2324,11 @@
 [2021-04-02 03:40:12]: ***  [, Level 0]: 'gamer' joined the spectators
 [2021-04-02 03:40:14]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
 [2021-04-02 03:40:16]: ***  [, Level 0]: 'gamer' joined the game
+[2021-04-02 03:40:20]: ***  [, Level 0]: f"{self.name}"'s killing spree was ended by coprophile (5 blocks)
+[2021-04-02 03:40:27]: ***  [, Level 0]: 'H2SO4' entered and joined the game
+[2021-04-02 03:40:30]: ***  [, Level 0]: 'Robin Hood' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-02 03:40:30]: ***  [, Level 0]: 'Ghost' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-02 03:40:30]: ***  [, Level 0]: 'Ghost 2.0' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-02 03:40:30]: ***  [, Level 0]: '(1)Ghost' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-02 03:40:31]: ChillerDragon [|*KoG*|, Level 44]: police Isegrin so good
+[2021-04-02 03:40:32]: Isegrin [, Level 54]: power: im not gay wtf
