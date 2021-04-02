@@ -1121,3 +1121,4 @@
 [2021-04-02 02:01:33]: HeavyGeneral [FookinLads, Level 44]: Dog xa-xa0))
 [2021-04-02 02:01:34]: ***  [, Level 0]: '[D] Deadmouse' has left the game
 [2021-04-02 02:01:50]: ***  [, Level 0]: 'Lucas' entered and joined the game
+[2021-04-02 02:02:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
