@@ -8645,3 +8645,10 @@
 [2021-04-02 11:17:20]: ***  [, Level 0]: 'Axel ²' has left the game
 [2021-04-02 11:17:21]: Λtlantis Ψ [ᅟᅟ , Level 39]: Shiro.: ok
 [2021-04-02 11:17:21]: ***  [, Level 0]: ✯ | FayZoR is on a killing spree with 5 blocks
+[2021-04-02 11:17:22]: BulgarianTee [xSD7, Level 0]: GAE
+[2021-04-02 11:17:23]: kurama [, Level 7]: Mʎɹ シ1love:
+[2021-04-02 11:17:26]: ChillerDragon [|*KoG*|, Level 44]: BulgarianTee: many enemys is not much harder BulgarianTee
+[2021-04-02 11:17:27]: ***  [, Level 0]: 'Shiro.' started an auction on plot 6 for 1 money (plot expires on 09.04.2021 (10:00))
+[2021-04-02 11:17:27]: ***  [, Level 0]: Use '/plot buy 1 Shiro.' to buy the plot
+[2021-04-02 11:17:32]: kurama [, Level 7]: Mʎɹ シ1love: dsgecnbtn
+[2021-04-02 11:17:33]: ***  [, Level 0]: Plot 6 has been bought by 'Λtlantis Ψ'
