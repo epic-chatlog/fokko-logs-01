@@ -11449,3 +11449,4 @@
 [2021-04-02 13:26:42]: ChillerDragon.* [|*KoG*|, Level 41]: omg stop saying that for real HeavyGeneral i come all the time and then u go afk should i just give up or what
 [2021-04-02 13:26:49]: ChillerDragon.* [|*KoG*|, Level 41]: i respawn non stop HeavyGeneral
 [2021-04-02 13:26:52]: ***  [, Level 0]: '(1)УБИВАТЬ!' entered and joined the game
+[2021-04-02 13:27:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
