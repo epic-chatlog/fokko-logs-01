@@ -5394,3 +5394,7 @@
 [2021-04-02 08:00:11]: Noxl [.bad, Level 48]: ok
 [2021-04-02 08:00:14]: kurama [, Level 7]: Mʎɹ シ: нах пришол тыж не играешь здесь?
 [2021-04-02 08:00:22]: Mʎɹ シ [not today, Level 0]: kurama: Отвлечся
+[2021-04-02 08:00:28]: Mʎɹ シ [not today, Level 0]: kurama: Потом кодить уйду
+[2021-04-02 08:00:32]: ***  [, Level 0]: 'Ðream' has left the game
+[2021-04-02 08:00:32]: ***  [, Level 0]: 'Ƭevan' has left the game
+[2021-04-02 08:00:35]: Mʎɹ シ [not today, Level 0]: kurama: Хуёго после копи
