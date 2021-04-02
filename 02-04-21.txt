@@ -12197,3 +12197,5 @@
 [2021-04-02 14:41:05]: sL|whutasme [, Level 5]: (1)Λtlantis Ψ: bye
 [2021-04-02 14:41:11]: ***  [, Level 0]: '(1)sL|whutasme' has left the game
 [2021-04-02 14:41:11]: ***  [, Level 0]: 'sL|whutasme' has left the game
+[2021-04-02 14:41:20]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-02 14:41:20]: ***  [, Level 0]: '__init__(self):' has left the game
