@@ -11049,3 +11049,9 @@
 [2021-04-02 13:03:26]: Noxl. [.bad, Level 0]: ???
 [2021-04-02 13:03:47]: ***  [, Level 0]: 'Pigi♥' has left the game
 [2021-04-02 13:03:48]: hhh3 [, Level 48]: ERROR: FREE JET TY
+[2021-04-02 13:03:54]: ERROR. [404, Level 55]: useless lol
+[2021-04-02 13:03:55]: ***  [, Level 0]: 'peS' has left the game
+[2021-04-02 13:03:55]: ***  [, Level 0]: '[D] peS' has left the game
+[2021-04-02 13:03:56]: ***  [, Level 0]: 'Keø' entered and joined the game
+[2021-04-02 13:03:58]:   [, Level 0]: Nonoh: xd
+[2021-04-02 13:04:02]: ChillerDragon.* [|*KoG*|, Level 41]: stop hhh3 Pigie♥
