@@ -8858,3 +8858,5 @@
 [2021-04-02 11:26:16]: ChillerDragon [Chilli.*, Level 44]: aaaaaaaaa why BulgarianTee
 [2021-04-02 11:26:17]: Shiro. [, Level 50]: bruh lags
 [2021-04-02 11:26:18]: BulgarianTee [xSD7, Level 0]: ChillerDragon: alright fixed
+[2021-04-02 11:26:27]: BulgarianTee [xSD7, Level 0]: ChillerDragon: sometimes when i outtab of teeworlds it just.. happens
+[2021-04-02 11:26:27]: ChillerDragon [|*KoG*|, Level 44]: login BulgarianTee
