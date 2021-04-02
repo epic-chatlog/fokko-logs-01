@@ -1124,3 +1124,6 @@
 [2021-04-02 02:02:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-02 02:02:44]: Niko [, Level 0]: Leblebi:
 [2021-04-02 02:02:52]: Niko [, Level 0]: save Q-Q
+[2021-04-02 02:03:20]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
+[2021-04-02 02:03:20]: ***  [, Level 0]: '[D] Deadmouse' has left the game
+[2021-04-02 02:03:26]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
