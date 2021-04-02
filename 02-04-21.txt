@@ -485,3 +485,5 @@
 [2021-04-02 00:55:18]: [D] Leblebi [, Level 0]: lag
 [2021-04-02 00:55:21]: BulgarianTee [xSD7, Level 38]: (1)kais: 335.06
 [2021-04-02 00:55:21]: ***  [, Level 0]: '(1)' entered and joined the game
+[2021-04-02 00:55:29]: (1)kais [, Level 58]: ok cool
+[2021-04-02 00:55:38]: BulgarianTee [xSD7, Level 38]: (1)kais: use it or gae
