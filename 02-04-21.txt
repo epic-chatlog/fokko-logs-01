@@ -11491,3 +11491,7 @@
 [2021-04-02 13:30:25]: ERROR [404, Level 73]: GOLD:  no he doesnt
 [2021-04-02 13:30:31]: ***  [, Level 0]: 'Axel ²' entered and joined the game
 [2021-04-02 13:30:32]: Noxl. [.bad, Level 35]: GOLD: no ^_^
+[2021-04-02 13:30:34]: sL|whutasme [, Level 4]: ERROR: let's me farm now pls
+[2021-04-02 13:30:42]: ERROR [404, Level 73]: sL|whutasme:  i just safed u wtf?
+[2021-04-02 13:30:43]: ***  [, Level 0]: 'Nonoh' has left the game
+[2021-04-02 13:30:43]: ***  [, Level 0]: 'Noémi[Đ]' has left the game
