@@ -1144,3 +1144,4 @@
 [2021-04-02 02:06:15]: (1)ERROR [404, Level 47]: xD
 [2021-04-02 02:06:19]: power [TrRShClNrRs, Level 0]: comic: ur so cute+
 [2021-04-02 02:06:45]: comic [comically, Level 12]: power: like why am i the worst pvper ever
+[2021-04-02 02:07:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
