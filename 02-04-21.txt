@@ -6372,3 +6372,8 @@
 [2021-04-02 09:36:05]: Boti. [.bad, Level 32]: megbeszéltük
 [2021-04-02 09:36:07]: WarHammer' [, Level 16]: IPROHAVESMALLD:  İDK
 [2021-04-02 09:36:08]: kais [, Level 65]: sL|whutasme: you need to connect you have level
+[2021-04-02 09:36:17]: ***  [, Level 0]: '✯ |toxicdaddy' has left the game
+[2021-04-02 09:36:17]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
+[2021-04-02 09:36:22]: sL|whutasme [, Level 0]: no i haven't level
+[2021-04-02 09:36:23]: kais [, Level 65]: sL|whutasme:  need to do /login <account name> <password>
+[2021-04-02 09:36:28]: Boti. [.bad, Level 32]: ChillerDragon: team chiller looks like you are not in it
