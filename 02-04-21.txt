@@ -9722,3 +9722,4 @@
 [2021-04-02 11:59:40]: ***  [, Level 0]: 'cookie' has left the game (Timeout)
 [2021-04-02 11:59:40]: ***  [, Level 0]: 'lolpoep' has left the game (Timeout)
 [2021-04-02 11:59:44]: Kiøn1029 [.bad, Level 31]: PoliceTee: nob
+[2021-04-02 11:59:54]: PoliceTee [xSD7, Level 0]: Kiøn1029: i have pingspikes
