@@ -663,3 +663,7 @@
 [2021-04-02 01:17:12]: Shiro. [, Level 50]: BulgarianTee: show me then ;)
 [2021-04-02 01:17:17]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
 [2021-04-02 01:17:21]: ChillerDragon.* [|*KoG*|, Level 41]: try tripple nade Shiro.
+[2021-04-02 01:17:26]: BulgarianTee [xSD7, Level 38]: Shiro.: wait i need to rob flappy
+[2021-04-02 01:17:28]: ***  [, Level 0]: 'oyun krallı' has left the game
+[2021-04-02 01:17:35]: Shiro. [, Level 50]: dont need tripple nade
+[2021-04-02 01:17:36]: ***  [, Level 0]: ChillerDragon.* finished in: 15 minute(s) 18.86 second(s)
