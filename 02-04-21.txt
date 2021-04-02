@@ -2431,3 +2431,4 @@
 [2021-04-02 03:44:04]: ***  [, Level 0]: 'gamer' joined the game
 [2021-04-02 03:44:12]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-02 03:44:19]: ChillerDragon [Chilli.*, Level 44]: rq shiro xd
+[2021-04-02 03:44:38]: ***  [, Level 0]: •Slowy finished in: 0 minute(s) 41.34 second(s)
