@@ -872,3 +872,6 @@
 [2021-04-02 01:40:43]: ERROR [404, Level 73]: uff
 [2021-04-02 01:40:59]: power2 [TrRShClNrRs, Level 0]: ty erri
 [2021-04-02 01:41:03]: BulgarianTee [xSD7, Level 38]: ChillerDragon.*: i cant finish someone when me and everyone around me teleports every ms
+[2021-04-02 01:41:10]: BulgarianTee [xSD7, Level 38]: ChillerDragon.*: im a distraction
+[2021-04-02 01:41:14]: ChillerDragon.* [Chilli.*, Level 41]: nice
+[2021-04-02 01:41:17]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
