@@ -9815,3 +9815,6 @@
 [2021-04-02 12:04:42]:   [, Level 0]: weqe: yes [D] mamikral011
 [2021-04-02 12:04:42]: cup of tee [abh, Level 37]: S Y T H N: inf jumps ?
 [2021-04-02 12:04:47]: [D] mamikral011 [, Level 20]: weqe: offf okey
+[2021-04-02 12:04:50]: ***  [, Level 0]: 'Lucas' finished the special race!
+[2021-04-02 12:04:56]:   [, Level 0]: weqe: ok [D] mamikral011
+[2021-04-02 12:05:01]: Kiøn1029 [.bad, Level 31]: XDDD
