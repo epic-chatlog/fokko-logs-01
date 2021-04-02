@@ -5710,3 +5710,6 @@
 [2021-04-02 08:56:05]: Noob Redis [dum, Level 47]: wait
 [2021-04-02 08:56:05]: ***  [, Level 0]: 'Outiz' has left the game
 [2021-04-02 08:56:08]: hhh3 [, Level 48]: peace
+[2021-04-02 08:56:13]: ***  [, Level 0]: 'Тучка' has left the game
+[2021-04-02 08:56:17]: hhh3 [, Level 48]: peace
+[2021-04-02 08:56:20]: Friendiship ;-) [, Level 0]: Rainbow Tee: where are you ?
