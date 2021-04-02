@@ -3702,3 +3702,6 @@
 [2021-04-02 05:36:20]: MNKY | Arin [MNKY, Level 0]: yes
 [2021-04-02 05:36:21]: MNKY | Arin [MNKY, Level 0]: :-:
 [2021-04-02 05:36:23]: ***  [, Level 0]: 'koro' would have timed out, but can use timeout protection now
+[2021-04-02 05:36:24]: Lucas [THECEPS, Level 33]: BC|Tixnix: want flag?
+[2021-04-02 05:36:33]: ***  [, Level 0]: 'BC|Tixnix' has left the game
+[2021-04-02 05:36:33]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
