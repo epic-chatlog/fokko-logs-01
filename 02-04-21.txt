@@ -11655,3 +11655,4 @@
 [2021-04-02 13:46:23]: ✯ | FayZoR [|Supressed|, Level 42]: koro: -.-
 [2021-04-02 13:46:28]: (1)ERROR [404, Level 47]: ChillerDragon.*:  du vogel guck nicht so tief ins fläschen
 [2021-04-02 13:46:38]: ChillerDragon [|*KoG*|, Level 44]: ERROR: immer noch die taser sache?
+[2021-04-02 13:46:46]: ChillerDragon [|*KoG*|, Level 44]: da hab ich dich aber nich zum spawn geschickt ERROR
