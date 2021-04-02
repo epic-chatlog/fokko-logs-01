@@ -11428,3 +11428,5 @@
 [2021-04-02 13:25:11]: HeavyGeneral [FookinLads, Level 44]: ERROR:
 [2021-04-02 13:25:11]: ***  [, Level 0]: 'Axel ²' has left the game
 [2021-04-02 13:25:17]: HeavyGeneral [FookinLads, Level 44]: ERROR: halo
+[2021-04-02 13:25:32]: ***  [, Level 0]: 'S Y T H N' changed name to '(2)Λtlantis Ψ'
+[2021-04-02 13:25:34]: Isegrin [, Level 54]: ChillerDragon: no
