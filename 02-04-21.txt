@@ -11543,3 +11543,5 @@
 [2021-04-02 13:35:01]: Falco642 [, Level 0]: xd
 [2021-04-02 13:35:14]: ***  [, Level 0]: '(1)Λtlantis Ψ' has left the game
 [2021-04-02 13:35:17]: HeavyGeneral [FookinLads, Level 44]: koro: why u help chiller?
+[2021-04-02 13:35:53]: ERROR [404, Level 73]: no u
+[2021-04-02 13:35:56]: GOLD [404, Level 40]: im bad
