@@ -1641,3 +1641,6 @@
 [2021-04-02 02:57:06]: ***  [, Level 0]: 'Pimka☀' has left the game
 [2021-04-02 02:57:06]: ***  [, Level 0]: 'Pimka✿' has left the game
 [2021-04-02 02:57:11]: ChillerDragon [Chilli.*, Level 44]: why so rude GODLIKe
+[2021-04-02 02:57:13]: Torento [, Level 22]: GODLIKe:
+[2021-04-02 02:57:16]: ***  [, Level 0]: 'ビール|Zero' entered and joined the game
+[2021-04-02 02:57:20]: ***  [, Level 0]: 'Rock' entered and joined the game
