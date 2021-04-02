@@ -5718,3 +5718,5 @@
 [2021-04-02 08:56:42]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-02 08:56:49]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-02 08:57:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-02 08:57:15]: Friendiship ;-) [, Level 0]: Mʎɹ シ: why block me ??
+[2021-04-02 08:57:16]: ***  [, Level 0]: 'fox' has left the game
