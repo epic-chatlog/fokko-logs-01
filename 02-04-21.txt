@@ -6314,3 +6314,6 @@
 [2021-04-02 09:33:53]:   [, Level 0]: MORFY: (1)Friendiship : open 3
 [2021-04-02 09:33:57]: Niccname [, Level 0]: ja ok
 [2021-04-02 09:33:57]: sL|whutasme [, Level 0]: (1)Λtlantis Ψ: how i grind level
+[2021-04-02 09:34:02]: BC|Tixnix [BC, Level 33]: kais: help
+[2021-04-02 09:34:02]: ***  [, Level 0]: 'MORFY' finished the special race!
+[2021-04-02 09:34:03]: Boti. [.bad, Level 32]: umm
