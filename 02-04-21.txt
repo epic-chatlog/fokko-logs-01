@@ -2616,3 +2616,5 @@
 [2021-04-02 03:55:51]: ***  [, Level 0]: 'Kyrma' entered and joined the game
 [2021-04-02 03:55:52]: (1)Kirito [, Level 32]: yes
 [2021-04-02 03:55:56]: ***  [, Level 0]: 'David' entered and joined the game
+[2021-04-02 03:56:09]: lolpoep [Ape, Level 0]: het is goet lukas
+[2021-04-02 03:56:15]: Lucas [THECEPS, Level 32]: lolpoep: ok
