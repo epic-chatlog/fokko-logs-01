@@ -5776,3 +5776,7 @@
 [2021-04-02 09:03:43]: (3)Kirito [, Level 13]: Noxl: so are you in the clan?
 [2021-04-02 09:03:48]: ***  [, Level 0]: 'Λtlantis Ψ' entered and joined the game
 [2021-04-02 09:03:50]: Noob Redis [dum, Level 47]: xdddd
+[2021-04-02 09:04:01]: ***  [, Level 0]: 'Mista bombastic' has left the game
+[2021-04-02 09:04:04]: ***  [, Level 0]: 'Kyrma' entered and joined the game
+[2021-04-02 09:04:06]: Λtlantis Ψ [ᅟᅟ , Level 0]: RoberGN:  xD
+[2021-04-02 09:04:10]: Λtlantis Ψ [ᅟᅟ , Level 0]: RoberGN:  headbang
