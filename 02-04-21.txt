@@ -1185,3 +1185,6 @@
 [2021-04-02 02:10:14]: ***  [, Level 0]: 'Q-Q' has left the game
 [2021-04-02 02:10:27]: Random Guy [, Level 40]: gay
 [2021-04-02 02:11:02]: power2 [TrRShClNrRs, Level 0]: comic: u dead
+[2021-04-02 02:11:06]: comic [comically, Level 12]: power2: no
+[2021-04-02 02:11:09]: comic [comically, Level 12]: power2: i will be
+[2021-04-02 02:11:14]: Random Guy [, Level 40]: xD
