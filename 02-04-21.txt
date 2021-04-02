@@ -5526,3 +5526,5 @@
 [2021-04-02 08:27:31]: ***  [, Level 0]: '✯ |toxicdaddy' has left the game
 [2021-04-02 08:27:35]: ***  [, Level 0]: '✯ |toxicdaddy' entered and joined the game
 [2021-04-02 08:27:38]: ***  [, Level 0]: 'Ghost' has left the game
+[2021-04-02 08:27:42]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
+[2021-04-02 08:27:46]: ***  [, Level 0]: 649. sun.slow(y) Time: 02:14.72, requested by sun.slow(y)
