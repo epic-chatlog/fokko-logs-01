@@ -832,3 +832,5 @@
 [2021-04-02 01:36:43]: HeavyGeneral [FookinLads, Level 44]: cringe players
 [2021-04-02 01:36:44]: ***  [, Level 0]: 'Mleku' entered and joined the game
 [2021-04-02 01:36:44]: ChillerDragon.* [Chilli.*, Level 41]: strong ~DemoizL~
+[2021-04-02 01:36:50]: ***  [, Level 0]: 'Friendiship ;-)' has left the game (Timeout)
+[2021-04-02 01:36:50]: ***  [, Level 0]: '(1)Friendiship ;' has left the game (Timeout)
