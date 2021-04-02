@@ -12282,3 +12282,8 @@
 [2021-04-02 14:57:47]: ***  [, Level 0]: 'Noxl.' has left the game
 [2021-04-02 14:57:48]: ***  [, Level 0]: 'Noxl' has left the game
 [2021-04-02 14:58:11]: Λtlantis Ψ [ᅟᅟ , Level 39]: any:
+[2021-04-02 14:58:13]: ***  [, Level 0]: 'Lucas' entered and joined the game
+[2021-04-02 14:58:14]: Λtlantis Ψ [ᅟᅟ , Level 39]: i have a question
+[2021-04-02 14:58:18]: any [404, Level 37]: Λtlantis Ψ: ye
+[2021-04-02 14:58:18]: Λtlantis Ψ [ᅟᅟ , Level 39]: did you bought portal?
+[2021-04-02 14:58:23]: any [404, Level 37]: Λtlantis Ψ: ye
