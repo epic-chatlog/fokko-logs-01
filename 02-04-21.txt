@@ -7337,3 +7337,8 @@
 [2021-04-02 10:17:45]: ***  [, Level 0]: New record: 1 minute(s) 13.04 second(s) better.
 [2021-04-02 10:17:50]: ***  [, Level 0]: 'Kyrma' has left the game
 [2021-04-02 10:17:50]: ChillerDragon [|*KoG*|, Level 44]: kais: ERROR has dogs
+[2021-04-02 10:17:53]: ***  [, Level 0]: 'Rainbow Tee' has left the game
+[2021-04-02 10:17:58]: MNKY | Arin [MNKY, Level 0]: ♥TAKO♥:
+[2021-04-02 10:17:59]: kais [, Level 65]: ChillerDragon: they're your dogs, they help you only because they don't want war with you
+[2021-04-02 10:18:00]: MNKY | Arin [MNKY, Level 0]: lets bait him
+[2021-04-02 10:18:01]: MNKY | Arin [MNKY, Level 0]: Ez
