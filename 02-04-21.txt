@@ -1067,3 +1067,7 @@
 [2021-04-02 01:54:52]: ***  [, Level 0]: 'comic' has left the game
 [2021-04-02 01:54:56]: (1)ChillerDrago [|*KoG*|, Level 30]: aaaaaaaaaaaaa
 [2021-04-02 01:54:56]: Leblebi [, Level 22]: power: i can help your dummy
+[2021-04-02 01:55:01]: (1)ChillerDrago [|*KoG*|, Level 30]: yo ERROR
+[2021-04-02 01:55:04]: ***  [, Level 0]: 'comic' entered and joined the game
+[2021-04-02 01:55:08]: (1)ChillerDrago [|*KoG*|, Level 30]: kennst du schon den ultimativen block hier?
+[2021-04-02 01:55:09]: comic [comically, Level 0]: power: ?????????
