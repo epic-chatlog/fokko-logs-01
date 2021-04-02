@@ -12068,3 +12068,6 @@
 [2021-04-02 14:26:41]: ***  [, Level 0]: WarHammer finished in: 4 minute(s) 25.34 second(s)
 [2021-04-02 14:26:50]: Λtlantis Ψ [ᅟᅟ , Level 39]: xDDDDD
 [2021-04-02 14:26:53]: sL|whutasme [, Level 5]: flappy: fake
+[2021-04-02 14:27:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-02 14:27:01]: sL|whutasme [, Level 5]: (1)Λtlantis Ψ: fake
+[2021-04-02 14:27:06]: S Y T H N [iPro, Level 37]: sL|whutasme: ez
