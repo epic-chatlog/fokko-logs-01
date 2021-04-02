@@ -1250,3 +1250,5 @@
 [2021-04-02 02:21:38]: ***  [, Level 0]: power2 is on a killing spree with 5 blocks
 [2021-04-02 02:21:40]: power2 [TrRShClNrRs, Level 0]: :) comic
 [2021-04-02 02:21:54]: comic [comically, Level 12]: power2: if you keep this up youre gonna get blamed for spawnblocking
+[2021-04-02 02:22:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-02 02:22:04]: power2 [TrRShClNrRs, Level 0]: ur the one
