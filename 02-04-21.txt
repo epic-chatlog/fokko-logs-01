@@ -12841,3 +12841,4 @@
 [2021-04-02 16:16:16]: (1)УБИВАТ [, Level 0]: flappy:
 [2021-04-02 16:16:48]: ***  [, Level 0]: 'Kirito' entered and joined the game
 [2021-04-02 16:16:48]: ***  [, Level 0]: 'Flipper' entered and joined the game
+[2021-04-02 16:17:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
