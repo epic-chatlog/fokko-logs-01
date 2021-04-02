@@ -3238,3 +3238,6 @@
 [2021-04-02 04:45:06]: ✯ |toxicdaddy [|Supressed, Level 24]: BC|Tixnix: was
 [2021-04-02 04:45:10]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-02 04:45:14]: ***  [, Level 0]: 'Тучка' has left the game
+[2021-04-02 04:45:26]: [D] BC|Tixnix [BC, Level 25]: ✯ |toxicdaddy: darf ich die flagge bitte
+[2021-04-02 04:45:31]: ***  [, Level 0]: 'Lucas' finished the special race!
+[2021-04-02 04:45:32]: ***  [, Level 0]: 'RoberGN' entered and joined the game
