@@ -1258,3 +1258,5 @@
 [2021-04-02 02:22:34]: comic [comically, Level 12]: power2: hoooooooooooooooooooooooooooow
 [2021-04-02 02:22:34]: ***  [, Level 0]: power2 is on a killing spree with 10 blocks
 [2021-04-02 02:22:38]: power2 [TrRShClNrRs, Level 0]: u want me
+[2021-04-02 02:22:51]: comic [comically, Level 12]: HOOOOOOOOOOOOOOOOOOOW
+[2021-04-02 02:22:52]: power2 [TrRShClNrRs, Level 0]: u want me to show u son?
