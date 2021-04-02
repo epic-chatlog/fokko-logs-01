@@ -3247,3 +3247,5 @@
 [2021-04-02 04:45:54]: ***  [, Level 0]: УБИВАТЬ!'s killing spree was ended by H0dƌƔ1 (9 blocks)
 [2021-04-02 04:45:59]: ***  [, Level 0]: 'Cr7xxx' entered and joined the game
 [2021-04-02 04:46:08]: ZEUS [, Level 25]: ,e
+[2021-04-02 04:46:17]: ***  [, Level 0]: 'Cr7xxx' has left the game
+[2021-04-02 04:46:20]: ZEUS [, Level 25]: me
