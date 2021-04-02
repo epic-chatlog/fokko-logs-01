@@ -462,3 +462,5 @@
 [2021-04-02 00:50:48]: ***  [, Level 0]: '(2)SAUD' has left the game (Timeout)
 [2021-04-02 00:50:48]: ***  [, Level 0]: '(1)SAUD' has left the game (Timeout)
 [2021-04-02 00:50:48]: ***  [, Level 0]: 'SAUD' has left the game (Timeout)
+[2021-04-02 00:51:04]: BulgarianTee [xSD7, Level 38]: E
+[2021-04-02 00:51:06]: (1)kais [, Level 58]: lier :(
