@@ -6022,3 +6022,5 @@
 [2021-04-02 09:18:37]: Тучка [KyStiKi, Level 0]: Rainbow Tee: TC
 [2021-04-02 09:18:43]: ***  [, Level 0]: '(1)NENNY196' has left the game (Timeout)
 [2021-04-02 09:18:45]: Тучка [KyStiKi, Level 0]: Rainbow Tee: CK
+[2021-04-02 09:18:53]: ***  [, Level 0]: '(1)P4Pyr0s' has left the game
+[2021-04-02 09:18:55]: ***  [, Level 0]: '(1)P4Pyr0s' entered and joined the game
