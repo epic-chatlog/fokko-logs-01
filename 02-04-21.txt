@@ -1243,3 +1243,6 @@
 [2021-04-02 02:20:39]: ***  [, Level 0]: Wheels is on a killing spree with 5 blocks
 [2021-04-02 02:20:41]: GODLIKe [hax, Level 44]: lagg
 [2021-04-02 02:21:00]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
+[2021-04-02 02:21:29]: ***  [, Level 0]: Wheels's killing spree was ended by ~DemoizL~ (6 blocks)
+[2021-04-02 02:21:30]: Lucas [THECEPS, Level 32]: Nonoh: >>
+[2021-04-02 02:21:31]: comic [comically, Level 12]: power2: tf is this garbage moves
