@@ -4834,3 +4834,7 @@
 [2021-04-02 06:51:42]: [D] mamikral011 [, Level 0]: sun.slow(y): why gay?
 [2021-04-02 06:51:44]: sun.slow(y) [sunrise., Level 35]: mamikral011: nub
 [2021-04-02 06:51:52]: mamikral011 [, Level 0]: sun.slow(y): offf
+[2021-04-02 06:51:59]: mamikral011 [, Level 0]: sun.slow(y): ? war?
+[2021-04-02 06:52:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-02 06:52:02]: sun.slow(y) [sunrise., Level 35]: yes
+[2021-04-02 06:52:05]: Kirito [, Level 32]: SAUD:  fast
