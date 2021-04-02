@@ -8598,3 +8598,8 @@
 [2021-04-02 11:15:47]: BulgarianTee [xSD7, Level 0]: normally it should be 1$ per sec => 1 billion seconds
 [2021-04-02 11:15:48]: ***  [, Level 0]: '(1)ES' entered and joined the game
 [2021-04-02 11:15:51]: ***  [, Level 0]: (2)ChillerDragon finished in: 12 minute(s) 10.96 second(s)
+[2021-04-02 11:15:55]: Λtlantis Ψ [ᅟᅟ , Level 39]: Shiro.:  but the guy is afk
+[2021-04-02 11:15:56]: ***  [, Level 0]: 'Axel' entered and joined the game
+[2021-04-02 11:16:01]: ***  [, Level 0]: 'Axel' has left the game
+[2021-04-02 11:16:06]: Λtlantis Ψ [ᅟᅟ , Level 39]: Shiro.:  you give me cash xD
+[2021-04-02 11:16:07]: ChillerDragon [Chilli.*, Level 44]: pro BulgarianTee
