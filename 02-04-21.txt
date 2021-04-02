@@ -3693,3 +3693,5 @@
 [2021-04-02 05:35:25]: ***  [, Level 0]: 'Ghost' entered and joined the game
 [2021-04-02 05:35:29]: (2)SAUD [, Level 0]: coekie:  DONT change ur name
 [2021-04-02 05:35:31]: MNKY | Arin [MNKY, Level 0]: stop :-:
+[2021-04-02 05:35:39]: ***  [, Level 0]: 'coekie' has left the game
+[2021-04-02 05:35:44]: ***  [, Level 0]: 'xanixz' has left the game
