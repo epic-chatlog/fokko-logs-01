@@ -324,3 +324,7 @@
 [2021-04-02 00:33:28]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
 [2021-04-02 00:33:33]: PoliceTee [xSD7, Level 0]: E
 [2021-04-02 00:33:38]: ***  [, Level 0]: 'PoliceTee' has left the game
+[2021-04-02 00:33:46]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
+[2021-04-02 00:33:47]: oyun krallı [, Level 11]: Foxie♥:  help
+[2021-04-02 00:33:53]: PoliceTee [xSD7, Level 0]: whoever created lag
+[2021-04-02 00:33:56]: PoliceTee [xSD7, Level 0]: is a big gay
