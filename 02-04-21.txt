@@ -5087,3 +5087,4 @@
 [2021-04-02 07:24:06]: ***  [, Level 0]: 'L1P3KC' joined the game
 [2021-04-02 07:24:13]: ***  [, Level 0]: 'L1P3KC' joined the spectators
 [2021-04-02 07:24:17]: ***  [, Level 0]: 'L1P3KC' joined the game
+[2021-04-02 07:24:19]: Kirito [, Level 32]: xD
