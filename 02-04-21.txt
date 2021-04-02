@@ -9270,3 +9270,6 @@
 [2021-04-02 11:44:33]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-02 11:44:35]: ***  [, Level 0]: '[D] mamikral011' finished the special race!
 [2021-04-02 11:44:35]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-02 11:44:44]:   [, Level 0]: kiøn1029: Boti.: speak to us in hungarian launge then
+[2021-04-02 11:44:46]: ***  [, Level 0]: 'haris ist dumm' has left the game
+[2021-04-02 11:44:50]: BulgarianTee [xSD7, Level 25]: ChillerDragon: u messed it up
