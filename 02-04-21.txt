@@ -5701,3 +5701,5 @@
 [2021-04-02 08:54:45]: ***  [, Level 0]: 'Тучка' entered and joined the game
 [2021-04-02 08:55:17]: Noob Redis [dum, Level 47]: xD
 [2021-04-02 08:55:41]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-02 08:55:46]: Salut [, Level 31]: hhh3:  sorry xD
+[2021-04-02 08:55:46]: ***  [, Level 0]: 'Kyrma' entered and joined the game
