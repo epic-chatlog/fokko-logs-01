@@ -11791,3 +11791,5 @@
 [2021-04-02 13:56:06]: ***  [, Level 0]: 'GOD OF BUTTS' has left the game
 [2021-04-02 13:56:10]: ***  [, Level 0]: 'hello' changed name to '(2)ERROR'
 [2021-04-02 13:56:12]: ***  [, Level 0]: 'Kirito' joined the spectators
+[2021-04-02 13:56:15]: ***  [, Level 0]: 'Kirito' joined the game
+[2021-04-02 13:56:21]: (1)ERROR [404, Level 47]: (1)ChillerDrago:  könnte ich ja müsste nur was in dc eingeben
