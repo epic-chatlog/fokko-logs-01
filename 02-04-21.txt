@@ -8549,3 +8549,6 @@
 [2021-04-02 11:13:34]: ***  [, Level 0]: 'kiøn1029' has left the game
 [2021-04-02 11:13:36]: ***  [, Level 0]: 'Kyrma' has left the game
 [2021-04-02 11:13:40]: ***  [, Level 0]: 'Kyrma' entered and joined the game
+[2021-04-02 11:13:48]: Λtlantis Ψ [ᅟᅟ , Level 39]: Shiro.:
+[2021-04-02 11:13:49]: ***  [, Level 0]: 'koro' has left the game (Timeout Protection over)
+[2021-04-02 11:13:53]: Λtlantis Ψ [ᅟᅟ , Level 39]: Shiro.: i have a question
