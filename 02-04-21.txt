@@ -9724,3 +9724,6 @@
 [2021-04-02 11:59:44]: Kiøn1029 [.bad, Level 31]: PoliceTee: nob
 [2021-04-02 11:59:54]: PoliceTee [xSD7, Level 0]: Kiøn1029: i have pingspikes
 [2021-04-02 12:00:07]: Kiøn1029 [.bad, Level 31]: I like turtles.
+[2021-04-02 12:00:21]: GODLIKe [hax, Level 44]: hhnaut31:
+[2021-04-02 12:00:25]: ***  [, Level 0]: 'haris ist dumm' has left the game
+[2021-04-02 12:00:26]: PoliceTee [xSD7, Level 0]: E
