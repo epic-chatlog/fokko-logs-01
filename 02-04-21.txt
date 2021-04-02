@@ -12086,3 +12086,7 @@
 [2021-04-02 14:28:47]: (1)sL|whutasme [, Level 0]: S Y T H N: and you are a fake
 [2021-04-02 14:28:50]: Kirito [, Level 32]: koro:  <<
 [2021-04-02 14:28:57]: __init__(self): [, Level 0]: (1)Λtlantis Ψ: fake
+[2021-04-02 14:29:10]: sL|whutasme [, Level 5]: ahaha S Y T H N
+[2021-04-02 14:29:11]: Λtlantis Ψ [ᅟᅟ , Level 39]: Kirito:  dont block him
+[2021-04-02 14:29:16]: S Y T H N [iPro, Level 37]: sL|whutasme: i am the reaal on
+[2021-04-02 14:29:20]: ***  [, Level 0]: koro's killing spree was ended by Λtlantis Ψ (6 blocks)
