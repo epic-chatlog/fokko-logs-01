@@ -5427,3 +5427,6 @@
 [2021-04-02 08:07:18]: Pigie♥ [♥, Level 36]: Noxl: ?
 [2021-04-02 08:07:41]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-02 08:07:42]: GODLIKe. [GANG, Level 39]: Salut: stupid
+[2021-04-02 08:07:53]: ***  [, Level 0]: |-| finished in: 2 minute(s) 19.06 second(s)
+[2021-04-02 08:07:53]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-02 08:07:55]: ***  [, Level 0]: |~| finished in: 2 minute(s) 20.96 second(s)
