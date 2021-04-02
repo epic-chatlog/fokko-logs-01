@@ -8449,3 +8449,6 @@
 [2021-04-02 11:08:55]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' has left the game
 [2021-04-02 11:08:57]: ist ein Noob [, Level 42]: rq
 [2021-04-02 11:09:00]: ist ein Noob [, Level 42]: xaxaxaxaxa
+[2021-04-02 11:09:01]: ***  [, Level 0]: 'PwNd' entered and joined the game
+[2021-04-02 11:09:06]: ***  [, Level 0]: 'Katz' has left the game
+[2021-04-02 11:09:09]: BulgarianTee [xSD7, Level 0]: ChillerDragon: ChillerMad
