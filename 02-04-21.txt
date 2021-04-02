@@ -401,3 +401,7 @@
 [2021-04-02 00:42:38]: ***  [, Level 0]: 'piok' entered and joined the game
 [2021-04-02 00:42:48]: BulgarianTee [xSD7, Level 38]: E
 [2021-04-02 00:43:08]: BulgarianTee [xSD7, Level 38]: WHY
+[2021-04-02 00:43:17]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-02 00:43:17]: BulgarianTee [xSD7, Level 38]: EZOPZ
+[2021-04-02 00:43:19]: ***  [, Level 0]: 'piok' has left the game
+[2021-04-02 00:43:22]: ***  [, Level 0]: 'piok' entered and joined the game
