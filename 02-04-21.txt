@@ -5501,3 +5501,4 @@
 [2021-04-02 08:23:44]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
 [2021-04-02 08:24:02]: УБИВАТЬ! [, Level 0]: Xd
 [2021-04-02 08:24:05]: ***  [, Level 0]: 'УБИВАТЬ!' has left the game
+[2021-04-02 08:24:41]: Noxl [.bad, Level 48]: |-|: down
