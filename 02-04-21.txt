@@ -438,3 +438,8 @@
 [2021-04-02 00:48:17]: SAUD [, Level 20]: nam:  1v1 4 fum ?
 [2021-04-02 00:48:19]: BulgarianTee [xSD7, Level 38]: kais: bet i can annoy u a lot
 [2021-04-02 00:48:19]: SAUD [, Level 20]: n
+[2021-04-02 00:48:24]: (1)kais [, Level 58]: well, do
+[2021-04-02 00:48:27]: ***  [, Level 0]: '.' changed name to '(1)/\'
+[2021-04-02 00:48:28]: BulgarianTee [xSD7, Level 38]: (1)kais: spec me
+[2021-04-02 00:48:28]: ***  [, Level 0]: '[D] Leblebi' entered and joined the game
+[2021-04-02 00:48:33]: (1)kais [, Level 58]: wow
