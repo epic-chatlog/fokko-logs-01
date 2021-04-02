@@ -1088,3 +1088,5 @@
 [2021-04-02 01:55:54]: ***  [, Level 0]: 'Wheels' has left the game
 [2021-04-02 01:56:01]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
 [2021-04-02 01:56:11]: comic [comically, Level 12]: power2: what did i do to you
+[2021-04-02 01:56:43]: ***  [, Level 0]: WarHammer finished in: 1 minute(s) 50.90 second(s)
+[2021-04-02 01:56:43]: ***  [, Level 0]: New record: 47.12 second(s) better.
