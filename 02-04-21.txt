@@ -11399,3 +11399,7 @@
 [2021-04-02 13:22:49]: ***  [, Level 0]: 'Marcisten' has left the game
 [2021-04-02 13:22:50]: Falco642 [, Level 0]: wait
 [2021-04-02 13:22:54]: Axel [TrRShClNrRs, Level 30]: Marcisten: well, you can shoot every direction actually :D
+[2021-04-02 13:22:58]:   [, Level 0]: S Y T H N: any: yo
+[2021-04-02 13:23:00]: ***  [, Level 0]: koro is on a killing spree with 5 blocks
+[2021-04-02 13:23:07]: any [404, Level 0]: S Y T H N: heyy
+[2021-04-02 13:23:07]: Axel [TrRShClNrRs, Level 30]: Marcisten: bind mouse5 "+fire; say /money drop 1"
