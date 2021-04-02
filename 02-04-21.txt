@@ -3746,3 +3746,5 @@
 [2021-04-02 05:40:20]: ***  [, Level 0]: 'Kirito' entered and joined the game
 [2021-04-02 05:40:22]: mamikral011 [, Level 0]: Kezo: abi hoşgeldin abi
 [2021-04-02 05:40:23]: ***  [, Level 0]: 'koro' has left the game (Timeout Protection over)
+[2021-04-02 05:40:27]: Lucas [THECEPS, Level 33]: lolpoep: for you
+[2021-04-02 05:40:28]: Kezo [FookinLads, Level 41]: mamikral011: efm karşim
