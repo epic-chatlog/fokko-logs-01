@@ -5303,3 +5303,6 @@
 [2021-04-02 07:52:02]: ***  [, Level 0]: '(1)Meetiteusz' entered and joined the game
 [2021-04-02 07:52:10]: Pigie♥ [♥, Level 36]: (2)Kirito: AAAAA
 [2021-04-02 07:52:13]: Pigie♥ [♥, Level 36]: Kirito: AAAAAAAA
+[2021-04-02 07:52:16]: ***  [, Level 0]: 'mosse' entered and joined the game
+[2021-04-02 07:52:21]: ***  [, Level 0]: 'mosse' has left the game
+[2021-04-02 07:52:21]: ***  [, Level 0]: Noxl is on a killing spree with 5 blocks
