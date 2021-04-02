@@ -3660,3 +3660,6 @@
 [2021-04-02 05:31:52]: Isegrin [, Level 54]: cyka
 [2021-04-02 05:31:56]: ***  [, Level 0]: 'coekie' entered and joined the game
 [2021-04-02 05:32:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-02 05:32:14]: ***  [, Level 0]: [D] BC|Tixnix's killing spree was ended by BC|Deku (5 blocks)
+[2021-04-02 05:32:21]: (2)SAUD [, Level 0]: endless and 8 jump xD Fluffy
+[2021-04-02 05:32:24]: (2)SAUD [, Level 0]: endless and 8 jump xD Lucas
