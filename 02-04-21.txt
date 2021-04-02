@@ -5492,3 +5492,4 @@
 [2021-04-02 08:21:15]: Pimka☀ [FookinLads, Level 25]: Shiro.: heh
 [2021-04-02 08:21:33]: (2)Salut [, Level 0]: power:
 [2021-04-02 08:21:38]: ***  [, Level 0]: '__init__(self):' finished the special race!
+[2021-04-02 08:21:43]: ***  [, Level 0]: 'f"{self.name}"' finished the special race!
