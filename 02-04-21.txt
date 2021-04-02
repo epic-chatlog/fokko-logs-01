@@ -11900,3 +11900,5 @@
 [2021-04-02 14:05:18]: VeemID [, Level 26]: Noxl: tell me why ???
 [2021-04-02 14:05:19]: Kirito [, Level 32]: WarHammer: i will never stop blocking you now because you helped my enemy
 [2021-04-02 14:05:27]: WarHammer' [, Level 16]: Kirito:  u blocked me
+[2021-04-02 14:05:32]: Kirito [, Level 32]: WarHammer: if you helped me i would have stopped
+[2021-04-02 14:05:33]: ✯ | FayZoR [|Supressed|, Level 42]: any: t'es pourris
