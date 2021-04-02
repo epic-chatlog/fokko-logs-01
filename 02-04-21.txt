@@ -12058,3 +12058,6 @@
 [2021-04-02 14:25:17]: ✯ | FayZoR [|Supressed|, Level 42]: (1)Λtlantis Ψ: tel me the cmd
 [2021-04-02 14:25:21]: Λtlantis Ψ [ᅟᅟ , Level 39]: (1)✯ | FayZoR:  equ
 [2021-04-02 14:25:25]: (1)sL|whutasme [, Level 0]: S Y T H N: shut up i lag and i don't want fight
+[2021-04-02 14:25:35]: Λtlantis Ψ [ᅟᅟ , Level 39]: (1)✯ | FayZoR:  equip taser
+[2021-04-02 14:25:37]: (1)sL|whutasme [, Level 0]: i want just farm
+[2021-04-02 14:25:40]: Λtlantis Ψ [ᅟᅟ , Level 39]: press f4
