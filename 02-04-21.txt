@@ -1192,3 +1192,7 @@
 [2021-04-02 02:11:17]: Random Guy [, Level 40]: XDDDDDDDDDDDDDDDDDDDDDD
 [2021-04-02 02:11:40]: Niko [, Level 0]: maybe he not eng?
 [2021-04-02 02:11:44]: Niko [, Level 0]: maybe
+[2021-04-02 02:11:59]: ***  [, Level 0]: 'LareneGyvaeh' has left the game (Timeout)
+[2021-04-02 02:11:59]: ***  [, Level 0]: 'HeavyGeneral' has left the game (Timeout)
+[2021-04-02 02:12:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-02 02:12:02]: GODLIKe [hax, Level 44]: aaaaaaaa
