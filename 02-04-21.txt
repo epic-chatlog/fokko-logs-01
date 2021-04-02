@@ -216,3 +216,6 @@
 [2021-04-02 00:21:59]: ***  [, Level 0]: '.S L E E P Y'' has left the game
 [2021-04-02 00:22:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-02 00:22:05]: BulgarianTee [xSD7, Level 0]: rq
+[2021-04-02 00:22:13]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
+[2021-04-02 00:22:15]: ✯ | FayZoR [|Supressed|, Level 42]: BulgarianTee: ?
+[2021-04-02 00:22:22]: BulgarianTee [xSD7, Level 0]: ✯ | FayZoR: u help Foxie♥ who kill me cuz hes a cringe helper
