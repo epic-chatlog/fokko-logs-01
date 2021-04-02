@@ -1319,3 +1319,5 @@
 [2021-04-02 02:28:58]: ***  [, Level 0]: New record: 3 minute(s)  7.20 second(s) better.
 [2021-04-02 02:29:03]: ***  [, Level 0]: 'Lucas' finished the special race!
 [2021-04-02 02:29:04]: ***  [, Level 0]: '.' changed name to 'Amirian'
+[2021-04-02 02:29:10]: ***  [, Level 0]: '[D] .' changed name to 'fF'
+[2021-04-02 02:29:19]: ***  [, Level 0]: 'fF' changed name to '[D] Amirian'
