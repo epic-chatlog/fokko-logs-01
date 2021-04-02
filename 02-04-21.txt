@@ -5825,3 +5825,7 @@
 [2021-04-02 09:07:40]: Cry Ratish [dummy, Level 43]: Нету
 [2021-04-02 09:07:42]: ***  [, Level 0]: 'Saturn' entered and joined the game
 [2021-04-02 09:07:42]: ***  [, Level 0]: 'Pigie♥' entered and joined the game
+[2021-04-02 09:07:46]: ***  [, Level 0]: 'Salut' has left the game
+[2021-04-02 09:07:48]: (1)Kirito [, Level 10]: Falco641:
+[2021-04-02 09:07:54]: ***  [, Level 0]: '(2)Salut' has left the game
+[2021-04-02 09:07:54]: Friendiship ;-) [, Level 0]: toine: tu appuis sur les 2 fleches
