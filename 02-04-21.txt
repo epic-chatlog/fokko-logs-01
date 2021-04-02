@@ -11395,3 +11395,7 @@
 [2021-04-02 13:22:33]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-02 13:22:35]: jjjjj [, Level 0]: (1)✯ | FayZoR:
 [2021-04-02 13:22:37]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-02 13:22:42]: Marcisten [Helper, Level 0]: Axel: how?
+[2021-04-02 13:22:49]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-02 13:22:50]: Falco642 [, Level 0]: wait
+[2021-04-02 13:22:54]: Axel [TrRShClNrRs, Level 30]: Marcisten: well, you can shoot every direction actually :D
