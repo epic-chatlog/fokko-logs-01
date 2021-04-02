@@ -8860,3 +8860,5 @@
 [2021-04-02 11:26:18]: BulgarianTee [xSD7, Level 0]: ChillerDragon: alright fixed
 [2021-04-02 11:26:27]: BulgarianTee [xSD7, Level 0]: ChillerDragon: sometimes when i outtab of teeworlds it just.. happens
 [2021-04-02 11:26:27]: ChillerDragon [|*KoG*|, Level 44]: login BulgarianTee
+[2021-04-02 11:26:37]: ChillerDragon [Chilli.*, Level 44]: login BulgarianTee !
+[2021-04-02 11:26:41]: BulgarianTee [xSD7, Level 25]: E
