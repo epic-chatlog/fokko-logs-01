@@ -5607,3 +5607,4 @@
 [2021-04-02 08:41:26]: Noxl [.bad, Level 48]: sun.slow(y): come dog
 [2021-04-02 08:41:52]: (1)kais [, Level 58]: hhh3: gay, lemme farm
 [2021-04-02 08:41:53]: ***  [, Level 0]: 'Noxl.' entered and joined the game
+[2021-04-02 08:42:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
