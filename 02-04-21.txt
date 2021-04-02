@@ -514,3 +514,5 @@
 [2021-04-02 01:00:00]: (1)kais [, Level 58]: BulgarianTee: who tf like books ?
 [2021-04-02 01:00:03]: ERROR. [404, Level 55]: xD
 [2021-04-02 01:00:08]: BulgarianTee [xSD7, Level 38]: (1)kais: u
+[2021-04-02 01:00:17]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
+[2021-04-02 01:00:18]: kais [, Level 65]: oh god no, i hate them
