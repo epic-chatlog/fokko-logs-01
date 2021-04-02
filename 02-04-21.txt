@@ -11708,3 +11708,7 @@
 [2021-04-02 13:49:57]: ChillerDragon [|*KoG*|, Level 44]: ja passt ja ERROR
 [2021-04-02 13:50:02]: ChillerDragon [|*KoG*|, Level 44]: willst du ja so ERROR
 [2021-04-02 13:50:04]: (1)ERROR [404, Level 47]: da unterstütze ich es nicht
+[2021-04-02 13:50:08]: (1)ERROR [404, Level 47]: das du farmen kannst.
+[2021-04-02 13:50:12]: ChillerDragon [|*KoG*|, Level 44]: nich farmen ERROR
+[2021-04-02 13:50:16]: (1)ERROR [404, Level 47]: oder hier stehen
+[2021-04-02 13:50:17]: ChillerDragon [|*KoG*|, Level 44]: nur in police ERROR geht auch freeze
