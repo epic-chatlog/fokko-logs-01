@@ -977,3 +977,6 @@
 [2021-04-02 01:47:22]: ***  [, Level 0]: 'PoliceTee' has left the game
 [2021-04-02 01:47:22]: ***  [, Level 0]: 'BulgarianTee' has left the game
 [2021-04-02 01:47:23]: power [TrRShClNrRs, Level 13]: ok nw
+[2021-04-02 01:47:31]: ERROR [404, Level 73]: rq
+[2021-04-02 01:47:32]: HeavyGeneral [FookinLads, Level 44]: RQ RQ RQ RQ RQ RQ
+[2021-04-02 01:47:34]: ᅟᅟᅟᅟᅟ [, Level 0]: ERROR: i only building map
