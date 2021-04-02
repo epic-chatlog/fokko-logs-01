@@ -12225,3 +12225,5 @@
 [2021-04-02 14:46:39]: HeavyGeneral [FookinLads, Level 44]: omg
 [2021-04-02 14:47:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-02 14:47:14]: ✯ | FayZoR [|Supressed|, Level 42]: Isegrin: laser
+[2021-04-02 14:47:22]: Isegrin [, Level 54]: ✯ | FayZoR: wat
+[2021-04-02 14:47:28]: any [404, Level 37]: HeavyGeneral:
