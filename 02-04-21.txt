@@ -11364,3 +11364,7 @@
 [2021-04-02 13:19:52]: HeavyGeneral [FookinLads, Level 44]: ERROR: cringe
 [2021-04-02 13:19:56]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-02 13:20:05]: sL|whutasme [, Level 4]: ERROR: ²
+[2021-04-02 13:20:06]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-02 13:20:11]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-02 13:20:14]: Noxl. [.bad, Level 35]: chillerdagorn: rq
+[2021-04-02 13:20:14]: sL|whutasme [, Level 4]: ERROR:
