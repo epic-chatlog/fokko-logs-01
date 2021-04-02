@@ -967,3 +967,7 @@
 [2021-04-02 01:46:55]: HeavyGeneral [FookinLads, Level 44]: yikes
 [2021-04-02 01:46:56]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' entered and joined the game
 [2021-04-02 01:46:56]: ChillerDragon.* [Chilli.*, Level 41]: oh cmn HeavyGeneral stap saying that
+[2021-04-02 01:47:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-02 01:47:01]: [D] Leblebi [, Level 18]: kill and grenade
+[2021-04-02 01:47:03]: ERROR [404, Level 73]: HeavyGeneral:  first time x7 didnt rq
+[2021-04-02 01:47:06]: BulgarianTee [xSD7, Level 38]: E
