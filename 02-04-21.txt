@@ -9477,3 +9477,10 @@
 [2021-04-02 11:51:26]: ***  [, Level 0]: 'alexandre' entered and joined the game
 [2021-04-02 11:51:27]:   [, Level 0]: kiøn1029: BulgarianTee: blind
 [2021-04-02 11:51:29]: ***  [, Level 0]: ### 'Mista bombastic' QUACK
+[2021-04-02 11:51:36]: ***  [, Level 0]: 'alexandre' has left the game
+[2021-04-02 11:51:38]:   [, Level 0]: GODLIKe: hhh3:
+[2021-04-02 11:51:38]:   [, Level 0]: kiøn1029: lent vok policebam
+[2021-04-02 11:51:38]: bob [MNKY, Level 36]: weqe: u have inf jump?
+[2021-04-02 11:51:41]: weqe [MNKY, Level 11]: no bob
+[2021-04-02 11:51:41]: (1)Boti. [.bad, Level 32]: BulgarianTee: cant rn
+[2021-04-02 11:51:46]: BulgarianTee [xSD7, Level 25]: (1)Boti.: useless gae
