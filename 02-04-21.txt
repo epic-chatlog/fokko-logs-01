@@ -12347,3 +12347,5 @@
 [2021-04-02 15:06:31]: Λtlantis Ψ [ᅟᅟ , Level 39]: oof
 [2021-04-02 15:06:32]: Λtlantis Ψ [ᅟᅟ , Level 39]: xD
 [2021-04-02 15:06:40]: Λtlantis Ψ [ᅟᅟ , Level 39]: you went left or right?
+[2021-04-02 15:06:58]: any [404, Level 37]: Λtlantis Ψ: ---- <<< -<--<--
+[2021-04-02 15:07:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
