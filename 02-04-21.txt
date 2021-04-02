@@ -6285,3 +6285,6 @@
 [2021-04-02 09:32:12]: ***  [, Level 0]: '(1)NENNY196' entered and joined the game
 [2021-04-02 09:32:16]: Kiøn1029 [.bad, Level 31]: XDD
 [2021-04-02 09:32:35]: Boti. [.bad, Level 32]: what
+[2021-04-02 09:32:40]: ***  [, Level 0]: 'Sky' has left the game
+[2021-04-02 09:32:42]: Boti. [.bad, Level 32]: ✯ |toxicdaddy: ??
+[2021-04-02 09:32:42]: ***  [, Level 0]: 'NENNY196' has left the game (Timeout)
