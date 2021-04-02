@@ -3257,3 +3257,5 @@
 [2021-04-02 04:47:16]: ***  [, Level 0]: 'Noragami' entered and joined the game
 [2021-04-02 04:47:30]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 10 blocks
 [2021-04-02 04:47:33]: ***  [, Level 0]: (1)Friendiship ; is on a killing spree with 5 blocks
+[2021-04-02 04:47:38]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-02 04:47:41]: ***  [, Level 0]: (1)Friendiship ;'s killing spree was ended by (2)SAUD (7 blocks)
