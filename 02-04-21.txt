@@ -6384,3 +6384,7 @@
 [2021-04-02 09:36:42]: ♥TAKO♥ [, Level 24]: şilkdsg
 [2021-04-02 09:36:48]: WarHammer' [, Level 16]: ♥TAKO♥:  SENSİN SALAK
 [2021-04-02 09:36:51]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-02 09:36:54]:   [, Level 0]: Niccname: help
+[2021-04-02 09:36:58]: Boti. [.bad, Level 32]: nagy fightok vannak mi meg csak így itt chillelünk
+[2021-04-02 09:37:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-02 09:37:05]: Kiøn1029 [.bad, Level 31]: hát igen
