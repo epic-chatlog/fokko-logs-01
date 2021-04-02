@@ -11725,3 +11725,6 @@
 [2021-04-02 13:51:02]: ChillerDragon [|*KoG*|, Level 44]: dann geh ich dir nimmer auf die nüsse obv ERROR
 [2021-04-02 13:51:03]: WarHammer [, Level 25]: Kirito:  fuuuck
 [2021-04-02 13:51:07]: ChillerDragon [|*KoG*|, Level 44]: dann passt alles ERROR
+[2021-04-02 13:51:10]: Kirito [, Level 32]: WarHammer:  xD
+[2021-04-02 13:51:11]: (1)ERROR [404, Level 47]: ChillerDragon.*:  well mute
+[2021-04-02 13:51:18]: ChillerDragon [|*KoG*|, Level 44]: das geht doch nich oder ERROR ?
