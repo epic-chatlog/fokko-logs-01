@@ -11424,3 +11424,7 @@
 [2021-04-02 13:24:47]: ***  [, Level 0]: 'gian x' has left the game
 [2021-04-02 13:24:47]: Noxl. [.bad, Level 35]: nice ^_^
 [2021-04-02 13:24:55]: ChillerDragon [|*KoG*|, Level 44]: aaaaaaa
+[2021-04-02 13:25:11]: ChillerDragon [Chilli.*, Level 44]: Isegrin: prank :_)
+[2021-04-02 13:25:11]: HeavyGeneral [FookinLads, Level 44]: ERROR:
+[2021-04-02 13:25:11]: ***  [, Level 0]: 'Axel ²' has left the game
+[2021-04-02 13:25:17]: HeavyGeneral [FookinLads, Level 44]: ERROR: halo
