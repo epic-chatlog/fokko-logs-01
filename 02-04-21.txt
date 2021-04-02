@@ -12931,3 +12931,7 @@
 [2021-04-02 16:30:04]: Flipper [, Level 13]: i didnt have double
 [2021-04-02 16:30:46]: Flipper [, Level 13]: hammerfly
 [2021-04-02 16:31:07]: Mr.KshKsh99 [xSD7, Level 0]: shot gun
+[2021-04-02 16:31:13]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
+[2021-04-02 16:31:13]: Mr.KshKsh99 [xSD7, Level 0]: f3
+[2021-04-02 16:31:16]: Mr.KshKsh99 [xSD7, Level 0]: f4
+[2021-04-02 16:31:23]: ***  [, Level 0]: 'BULLETBOT' has left the game
