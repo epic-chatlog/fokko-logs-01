@@ -10658,3 +10658,7 @@
 [2021-04-02 12:45:39]: Nonoh [citrom, Level 40]: Pigie♥: ok
 [2021-04-02 12:45:48]: mamikral011 [, Level 25]: ERROR:
 [2021-04-02 12:45:48]: Rem's bae [, Level 42]: ERROR.: ma duude help
+[2021-04-02 12:45:53]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-02 12:45:54]: ***  [, Level 0]: 'Kirito' has left the game
+[2021-04-02 12:45:55]: ***  [, Level 0]: 'LareneGyvaeh' entered and joined the game
+[2021-04-02 12:45:59]: Nonoh [citrom, Level 40]: Pigie♥: nothing
