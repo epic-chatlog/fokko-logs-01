@@ -11524,3 +11524,8 @@
 [2021-04-02 13:32:48]: ChillerDragon [Chilli.*, Level 44]: weiss ich ja nich ERROR
 [2021-04-02 13:32:50]: ***  [, Level 0]: koro is on a killing spree with 5 blocks
 [2021-04-02 13:32:55]: ᅟᅟ [ΛtlantisΨ, Level 7]: YelloWorlD:  stop attacking me
+[2021-04-02 13:33:03]: ***  [, Level 0]: '(1)Meetiteusz' has left the game
+[2021-04-02 13:33:03]: ***  [, Level 0]: '(1)Maatiteusz' has left the game
+[2021-04-02 13:33:05]: ***  [, Level 0]: '~' changed name to 'P'
+[2021-04-02 13:33:06]: bruh moment [, Level 37]: ERROR: ? :(
+[2021-04-02 13:33:09]: ᅟᅟ [ΛtlantisΨ, Level 7]: xD
