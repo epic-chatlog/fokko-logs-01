@@ -10532,3 +10532,9 @@
 [2021-04-02 12:38:14]: ***  [, Level 0]: 'Marcisten' has left the game
 [2021-04-02 12:38:14]: ***  [, Level 0]: 'Marcisten Dummy' has left the game
 [2021-04-02 12:38:17]: GODLIKe [hax, Level 44]: 2 1
+[2021-04-02 12:38:20]: ChillerDragon.* [|*KoG*|, Level 41]: Tixnix: ah deutsch?
+[2021-04-02 12:38:20]: mamikral011 [, Level 25]: weqe: :D
+[2021-04-02 12:38:25]: BC|Tixnix [BC, Level 33]: ERROR: hab
+[2021-04-02 12:38:27]: ***  [, Level 0]: '(1)Meetiteusz' entered and joined the game
+[2021-04-02 12:38:28]: ERROR [404, Level 73]: ChillerDragon.*:  so bad wie immer
+[2021-04-02 12:38:30]: ERROR [404, Level 73]: danke dir
