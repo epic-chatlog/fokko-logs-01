@@ -5215,3 +5215,5 @@
 [2021-04-02 07:41:00]: ***  [, Level 0]: 'NinjaWhiteYT' entered and joined the game
 [2021-04-02 07:41:02]: ***  [, Level 0]: 'NinjaWhiteYT' has left the game
 [2021-04-02 07:41:02]: kais [, Level 65]: u
+[2021-04-02 07:41:23]: ***  [, Level 0]: '|~|' entered and joined the game
+[2021-04-02 07:41:25]: GODLIKe. [GANG, Level 39]: nub
