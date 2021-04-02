@@ -5671,3 +5671,4 @@
 [2021-04-02 08:50:19]: ***  [, Level 0]: New record: 4 minute(s) 40.12 second(s) better.
 [2021-04-02 08:50:34]: Niccname [, Level 0]: ?
 [2021-04-02 08:50:44]: Noxl [.bad, Level 48]: Salut: war4life
+[2021-04-02 08:51:03]: Cry Ratish [dummy, Level 43]: ahahhahah
