@@ -1353,3 +1353,4 @@
 [2021-04-02 02:32:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-02 02:32:02]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
 [2021-04-02 02:32:03]: Lucas [THECEPS, Level 32]: ~DemoizL~: what do you have against Nonoh
+[2021-04-02 02:32:17]: [D] ✯ |toxicd [|Supressed, Level 0]: Noémi[Đ]: pls wait
