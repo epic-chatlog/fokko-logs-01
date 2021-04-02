@@ -1139,3 +1139,5 @@
 [2021-04-02 02:04:58]: ***  [, Level 0]: '☺☻☺☻' changed name to '(1)ERROR'
 [2021-04-02 02:05:15]: ***  [, Level 0]: power2 is on a killing spree with 5 blocks
 [2021-04-02 02:05:33]: Q-Q [, Level 0]: fuck
+[2021-04-02 02:06:07]: ***  [, Level 0]: '(1)' entered and joined the game
+[2021-04-02 02:06:13]: (1)ERROR [404, Level 47]: hax
