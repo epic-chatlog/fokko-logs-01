@@ -1116,3 +1116,4 @@
 [2021-04-02 01:59:25]: ***  [, Level 0]: 'Q-Q' entered and joined the game
 [2021-04-02 01:59:36]: [D] Leblebi [, Level 18]: ERROR:
 [2021-04-02 01:59:56]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' would have timed out, but can use timeout protection now
+[2021-04-02 02:00:40]: WarHammer [, Level 25]: eyw kral
