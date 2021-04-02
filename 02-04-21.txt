@@ -780,3 +780,5 @@
 [2021-04-02 01:30:53]: BulgarianTee [xSD7, Level 38]: Shiro.: WAIT OK SRRYSRRYSRYYR
 [2021-04-02 01:30:57]: BulgarianTee [xSD7, Level 38]: Shiro.: WAS PRANKJ
 [2021-04-02 01:31:50]: BulgarianTee [xSD7, Level 38]: Shiro.: go unstuck flappy
+[2021-04-02 01:31:55]: Shiro. [, Level 50]: no menw hy
+[2021-04-02 01:32:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
