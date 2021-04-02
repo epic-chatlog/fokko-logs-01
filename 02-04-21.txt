@@ -3753,3 +3753,7 @@
 [2021-04-02 05:40:54]: ***  [, Level 0]: 'Ghost' has left the game (Timeout)
 [2021-04-02 05:40:59]: ***  [, Level 0]: '(1)Ghost' has left the game
 [2021-04-02 05:41:08]: ***  [, Level 0]: 'Ghost' entered and joined the game
+[2021-04-02 05:41:18]: ***  [, Level 0]: 'Ghost' has left the game
+[2021-04-02 05:41:23]: hhh3 [, Level 48]: laggooooo
+[2021-04-02 05:41:23]: ***  [, Level 0]: 'Ghost' entered and joined the game
+[2021-04-02 05:41:26]: lolpoep [Ape, Level 14]: saud
