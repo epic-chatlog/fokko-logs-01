@@ -625,3 +625,5 @@
 [2021-04-02 01:11:32]: Cylox♥ [♥, Level 30]: chillerdagorn: ahah
 [2021-04-02 01:11:32]: Shiro. [, Level 50]: when fix /rank
 [2021-04-02 01:12:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-02 01:12:06]: ***  [, Level 0]: 'SoniCN' entered and joined the game
+[2021-04-02 01:12:16]: ***  [, Level 0]: 'rainbow' has left the game
