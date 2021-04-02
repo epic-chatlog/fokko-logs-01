@@ -3215,3 +3215,4 @@
 [2021-04-02 04:40:39]: ***  [, Level 0]: 'Тучка' has left the game
 [2021-04-02 04:40:44]: ***  [, Level 0]: 'H0dƌƔ1' entered and joined the game
 [2021-04-02 04:41:31]: SAUD [, Level 20]: 1:  NVM
+[2021-04-02 04:42:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
