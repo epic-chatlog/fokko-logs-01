@@ -3019,3 +3019,4 @@
 [2021-04-02 04:21:10]: ***  [, Level 0]: 'PoliceTee' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-02 04:21:20]: (1) [, Level 3]: Help
 [2021-04-02 04:21:21]: (1) [, Level 3]: please
+[2021-04-02 04:21:40]: oyun krallı [, Level 11]: niye kimseye vermiyima
