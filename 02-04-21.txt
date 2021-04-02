@@ -8328,3 +8328,5 @@
 [2021-04-02 11:02:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-02 11:02:02]: NENNY196 [w, Level 0]: WTF
 [2021-04-02 11:02:02]: ***  [, Level 0]: NENNY196's killing spree was ended by any (5 blocks)
+[2021-04-02 11:02:10]: ***  [, Level 0]: '(2)✯ | FayZoR' entered and joined the game
+[2021-04-02 11:02:15]: ***  [, Level 0]: 'Friendiship ;-)' has left the game
