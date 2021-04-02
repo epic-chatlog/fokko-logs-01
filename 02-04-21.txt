@@ -11793,3 +11793,6 @@
 [2021-04-02 13:56:12]: ***  [, Level 0]: 'Kirito' joined the spectators
 [2021-04-02 13:56:15]: ***  [, Level 0]: 'Kirito' joined the game
 [2021-04-02 13:56:21]: (1)ERROR [404, Level 47]: (1)ChillerDrago:  könnte ich ja müsste nur was in dc eingeben
+[2021-04-02 13:56:31]: HeavyGeneral [FookinLads, Level 44]: chillerdagorn: ?
+[2021-04-02 13:56:34]: (2)ERROR [, Level 0]: AHAHAHAHAH ERROR
+[2021-04-02 13:56:34]: (2)ChillerDrago [|*KoG*|, Level 31]: ja also nein HeavyGeneral
