@@ -10860,3 +10860,9 @@
 [2021-04-02 12:53:43]: ***  [, Level 0]: 'ölüm bekçisi' joined the spectators
 [2021-04-02 12:53:46]: [D] sL|whutasme [, Level 0]: ERROR: ok but if i do nothing i will die bye other player and chilli
 [2021-04-02 12:53:50]: [D] mamikral011 [, Level 20]: (1)Maatiteusz: off stop
+[2021-04-02 12:53:54]: ***  [, Level 0]: 'Noxl.' entered and joined the game
+[2021-04-02 12:53:55]: (1)Maatiteusz [TrRShClNrRs, Level 12]: mamikral011: better
+[2021-04-02 12:53:55]: ***  [, Level 0]: 'ölüm bekçisi' joined the game
+[2021-04-02 12:53:57]: ***  [, Level 0]: 'NetFlix' has left the game (Timeout)
+[2021-04-02 12:53:59]: mamikral011 [, Level 25]: :D
+[2021-04-02 12:53:59]: ***  [, Level 0]: 'ölüm bekçisi' joined the spectators
