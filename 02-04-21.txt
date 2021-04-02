@@ -12227,3 +12227,5 @@
 [2021-04-02 14:47:14]: ✯ | FayZoR [|Supressed|, Level 42]: Isegrin: laser
 [2021-04-02 14:47:22]: Isegrin [, Level 54]: ✯ | FayZoR: wat
 [2021-04-02 14:47:28]: any [404, Level 37]: HeavyGeneral:
+[2021-04-02 14:48:58]: ***  [, Level 0]: 'Kirito' has left the game
+[2021-04-02 14:48:58]: ***  [, Level 0]: '(1)Kirito' has left the game
