@@ -5550,3 +5550,4 @@
 [2021-04-02 08:32:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-02 08:32:02]: Salut [, Level 31]: Alien:  xD
 [2021-04-02 08:32:05]: Alien [UndergrounD, Level 41]: ^^
+[2021-04-02 08:32:22]: ***  [, Level 0]: 'Niccname' entered and joined the game
