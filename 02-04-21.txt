@@ -11889,3 +11889,5 @@
 [2021-04-02 14:03:50]: Noxl. [.bad, Level 35]: lagg
 [2021-04-02 14:04:13]: Kirito [, Level 32]: WarHammer:
 [2021-04-02 14:04:17]: Noxl. [.bad, Level 35]: Noob Redis: dont help him
+[2021-04-02 14:04:33]: Kirito [, Level 32]: WarHammer:  if you help me i stop
+[2021-04-02 14:04:35]: ***  [, Level 0]: 'mo3taz' has left the game
