@@ -308,3 +308,7 @@
 [2021-04-02 00:31:29]: BulgarianTee [xSD7, Level 0]: ERROR.: E
 [2021-04-02 00:32:00]: BulgarianTee [xSD7, Level 0]: bulgarians shouldnt exist
 [2021-04-02 00:32:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-02 00:32:07]: ERROR [404, Level 73]: tuth
+[2021-04-02 00:32:08]: BulgarianTee [xSD7, Level 0]: bulgaria was destroyed for 700 years from the map
+[2021-04-02 00:32:08]: ERROR [404, Level 73]: truth
+[2021-04-02 00:32:12]: BulgarianTee [xSD7, Level 0]: why do we still exist then
