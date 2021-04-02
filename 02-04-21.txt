@@ -5414,3 +5414,4 @@
 [2021-04-02 08:03:33]: ***  [, Level 0]: '|-|' entered and joined the game
 [2021-04-02 08:03:38]: ***  [, Level 0]: '|~|' entered and joined the game
 [2021-04-02 08:04:30]: kurama [, Level 7]: Mʎɹ シ: я почему то не могу говорить в дс
+[2021-04-02 08:04:50]: Mʎɹ シ [not today, Level 0]: kurama: Может настройки дс
