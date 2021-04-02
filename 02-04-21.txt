@@ -3296,3 +3296,6 @@
 [2021-04-02 04:52:49]: hhh3 [, Level 48]: (1)SAUD: look ./top5points
 [2021-04-02 04:52:54]: ***  [, Level 0]: 'Torento' entered and joined the game
 [2021-04-02 04:53:11]: (1)SAUD [, Level 13]: niceoo hhh3
+[2021-04-02 04:53:17]: УБИВАТЬ! [, Level 0]: В доте)
+[2021-04-02 04:53:19]: (1)SAUD [, Level 13]: but what is points hhh3
+[2021-04-02 04:53:25]: hhh3 [, Level 48]: SAUD: block
