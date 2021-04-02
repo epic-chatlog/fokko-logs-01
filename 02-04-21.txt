@@ -10869,3 +10869,6 @@
 [2021-04-02 12:54:06]: mamikral011 [, Level 25]: (1)Maatiteusz: pls :D
 [2021-04-02 12:54:12]: ***  [, Level 0]: '|~|' entered and joined the game
 [2021-04-02 12:54:14]: (1)Maatiteusz [TrRShClNrRs, Level 12]: mamikral011: no
+[2021-04-02 12:54:21]:   [, Level 0]: Noxl.: Noémi[Đ]: okk
+[2021-04-02 12:54:23]: ***  [, Level 0]: '(1)ZEWO' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-02 12:54:25]: BC|Tixnix [BC, Level 33]: Maatiteusz:
