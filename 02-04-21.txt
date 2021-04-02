@@ -5498,3 +5498,4 @@
 [2021-04-02 08:22:09]: ***  [, Level 0]: 'power2' has left the game
 [2021-04-02 08:22:09]: ***  [, Level 0]: 'power' has left the game
 [2021-04-02 08:23:22]: Falco642 [, Level 0]: Pimka☀: wtf?
+[2021-04-02 08:23:44]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
