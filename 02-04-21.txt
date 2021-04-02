@@ -9810,3 +9810,8 @@
 [2021-04-02 12:04:28]: ***  [, Level 0]: 'Kezo' has left the game
 [2021-04-02 12:04:32]: [D] mamikral011 [, Level 20]: weqe: off okey
 [2021-04-02 12:04:36]: PoliceTee [xSD7, Level 0]: kezo rq
+[2021-04-02 12:04:38]: [D] mamikral011 [, Level 20]: weqe: 50k?
+[2021-04-02 12:04:41]: ***  [, Level 0]: 'kiøn1029' has left the game
+[2021-04-02 12:04:42]:   [, Level 0]: weqe: yes [D] mamikral011
+[2021-04-02 12:04:42]: cup of tee [abh, Level 37]: S Y T H N: inf jumps ?
+[2021-04-02 12:04:47]: [D] mamikral011 [, Level 20]: weqe: offf okey
