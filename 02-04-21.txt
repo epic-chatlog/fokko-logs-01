@@ -12341,3 +12341,4 @@
 [2021-04-02 15:05:06]: ***  [, Level 0]: 'Kirito' entered and joined the game
 [2021-04-02 15:05:27]: ✯ | FayZoR [|Supressed|, Level 42]: Isegrin: :c
 [2021-04-02 15:05:31]: Isegrin [, Level 54]: ehehe
+[2021-04-02 15:05:46]: ***  [, Level 0]: 'Isegrin' has left the game
