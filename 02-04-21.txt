@@ -11387,3 +11387,4 @@
 [2021-04-02 13:21:16]: ***  [, Level 0]: 'Axel ²' entered and joined the game
 [2021-04-02 13:21:34]: ***  [, Level 0]: 'Axel ²' has left the game
 [2021-04-02 13:21:41]: Falco642 [, Level 0]: wait
+[2021-04-02 13:21:46]: ***  [, Level 0]: '(1)ChillerDragon' changed name to '(2)ChillerDragon'
