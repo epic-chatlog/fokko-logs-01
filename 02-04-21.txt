@@ -1629,3 +1629,4 @@
 [2021-04-02 02:55:13]: ***  [, Level 0]: '♥TAKO♥' has left the game (Timeout)
 [2021-04-02 02:55:25]: GODLIKe [hax, Level 44]: Deadmouse: war for life
 [2021-04-02 02:55:27]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
+[2021-04-02 02:55:47]: ***  [, Level 0]: 'coprophile' entered and joined the game
