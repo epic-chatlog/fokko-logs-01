@@ -10335,3 +10335,5 @@
 [2021-04-02 12:29:14]:   [, Level 0]: BC|kakashi: bye
 [2021-04-02 12:29:16]: ChillerDragon.* [|*KoG*|, Level 41]: so u help me Noxl ?
 [2021-04-02 12:29:16]: ***  [, Level 0]: 'BC|kakashi' has left the game
+[2021-04-02 12:29:21]: Noxl [.bad, Level 35]: ok
+[2021-04-02 12:29:25]: ChillerDragon.* [Chilli.*, Level 41]: always Noxl ?
