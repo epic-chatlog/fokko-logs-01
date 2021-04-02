@@ -12848,3 +12848,5 @@
 [2021-04-02 16:17:35]: x7|KshKsh99 [xSD7, Level 37]: Flipper: hi
 [2021-04-02 16:17:59]: x7|KshKsh99 [xSD7, Level 37]: A
 [2021-04-02 16:18:25]: ***  [, Level 0]: x7|KshKsh99 is on a killing spree with 5 blocks
+[2021-04-02 16:19:09]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
+[2021-04-02 16:19:11]: Mr.KshKsh99 [xSD7, Level 0]: XD
