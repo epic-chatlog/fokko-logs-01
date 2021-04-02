@@ -226,3 +226,8 @@
 [2021-04-02 00:22:40]: BulgarianTee [xSD7, Level 0]: ✯ | FayZoR: I DONT WANT Foxie♥ CHOSE IT
 [2021-04-02 00:22:47]: ✯ | FayZoR [|Supressed|, Level 42]: BulgarianTee: np
 [2021-04-02 00:22:54]: BulgarianTee [xSD7, Level 0]: ✯ | FayZoR: just stfu already
+[2021-04-02 00:23:02]: BulgarianTee [xSD7, Level 0]: ERROR: i have no jumps
+[2021-04-02 00:23:03]: ***  [, Level 0]: 'Noragami' entered and joined the game
+[2021-04-02 00:23:05]: BulgarianTee [xSD7, Level 0]: ERROR: no good ping
+[2021-04-02 00:23:07]: BulgarianTee [xSD7, Level 0]: ERROR: no nothing
+[2021-04-02 00:23:11]: ERROR [404, Level 73]: SO
