@@ -12596,3 +12596,5 @@
 [2021-04-02 15:38:17]: Λtlantis Ψ [ᅟᅟ , Level 39]: HAHAHAHA
 [2021-04-02 15:38:21]: Λtlantis Ψ [ᅟᅟ , Level 39]: i have so much POWER
 [2021-04-02 15:38:40]: ***  [, Level 0]: '(1)fameless tee' entered and joined the game
+[2021-04-02 15:39:00]: ***  [, Level 0]: '(1)fameless tee' has left the game
+[2021-04-02 15:39:00]: ***  [, Level 0]: 'Dagonaut' has left the game
