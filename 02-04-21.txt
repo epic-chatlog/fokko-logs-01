@@ -5998,3 +5998,5 @@
 [2021-04-02 09:17:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-02 09:17:06]: ***  [, Level 0]: 'Kyrma' entered and joined the game
 [2021-04-02 09:17:07]: P4PyrOs [, Level 22]: fuck
+[2021-04-02 09:17:11]: ***  [, Level 0]: 'd+' entered and joined the game
+[2021-04-02 09:17:12]: ***  [, Level 0]: '(1)Friendiship ;' entered and joined the game
