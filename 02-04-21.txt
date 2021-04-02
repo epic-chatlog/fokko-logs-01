@@ -516,3 +516,5 @@
 [2021-04-02 01:00:08]: BulgarianTee [xSD7, Level 38]: (1)kais: u
 [2021-04-02 01:00:17]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
 [2021-04-02 01:00:18]: kais [, Level 65]: oh god no, i hate them
+[2021-04-02 01:00:23]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
+[2021-04-02 01:00:27]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
