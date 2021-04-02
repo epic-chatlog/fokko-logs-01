@@ -693,3 +693,5 @@
 [2021-04-02 01:19:50]: ***  [, Level 0]: (2)ChillerDragon finished in: 1 minute(s) 41.20 second(s)
 [2021-04-02 01:19:50]: ***  [, Level 0]: New record: 1 minute(s)  2.34 second(s) better.
 [2021-04-02 01:19:52]: Shiro. [, Level 50]: flappy still not fixed oO
+[2021-04-02 01:20:10]: (2)ChillerDrago [Chilli.*, Level 30]: Shiro.: ye fokko has to merge my code and update the server
+[2021-04-02 01:20:13]: (2)ChillerDrago [Chilli.*, Level 30]: but code is ready
