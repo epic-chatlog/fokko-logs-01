@@ -5511,3 +5511,7 @@
 [2021-04-02 08:25:43]: Shiro. [, Level 50]: sun.slow(y): sun
 [2021-04-02 08:25:48]: sun.slow(y) [sunrise., Level 35]: shirgay
 [2021-04-02 08:25:54]: Shiro. [, Level 50]: ♥
+[2021-04-02 08:26:00]: sun.slow(y) [sunrise., Level 35]: xd
+[2021-04-02 08:26:00]: УБИВАТЬ! [, Level 0]: sun.slow(y): :0
+[2021-04-02 08:26:04]: sun.slow(y) [sunrise., Level 35]: sry
+[2021-04-02 08:26:04]: Noxl. [.bad, Level 0]: sun.slow(y): u have portl
