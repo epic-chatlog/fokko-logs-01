@@ -5593,3 +5593,5 @@
 [2021-04-02 08:39:40]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-02 08:39:44]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-02 08:39:55]: Noxl [.bad, Level 48]: sun.slow(y): wtf
+[2021-04-02 08:40:01]: ***  [, Level 0]: Rainbow Tee finished in: 2 minute(s) 16.40 second(s)
+[2021-04-02 08:40:07]: ***  [, Level 0]: Falco642 is on a killing spree with 15 blocks
