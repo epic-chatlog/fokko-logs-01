@@ -5516,3 +5516,5 @@
 [2021-04-02 08:26:04]: sun.slow(y) [sunrise., Level 35]: sry
 [2021-04-02 08:26:04]: Noxl. [.bad, Level 0]: sun.slow(y): u have portl
 [2021-04-02 08:26:09]: sun.slow(y) [sunrise., Level 35]: no expired bro
+[2021-04-02 08:26:45]: ***  [, Level 0]: '✯ |toxicdaddy' entered and joined the game
+[2021-04-02 08:26:50]: ***  [, Level 0]: '(1)RoberGN' entered and joined the game
