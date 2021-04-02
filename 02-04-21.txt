@@ -10126,3 +10126,8 @@
 [2021-04-02 12:21:01]: ***  [, Level 0]: 'Rem's dummy' finished the special race!
 [2021-04-02 12:21:03]: ***  [, Level 0]: 'Rem's bae' finished the special race!
 [2021-04-02 12:21:07]: ***  [, Level 0]: 'victlex' entered and joined the game
+[2021-04-02 12:21:10]: ***  [, Level 0]: '[D] BC|serwan' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-02 12:21:11]: PoliceTee [xSD7, Level 0]: (1)✯ | FayZoR: you struggled when i have triple ping so not
+[2021-04-02 12:21:14]: f"{self.name}" [, Level 0]: GODLIKe: really ?
+[2021-04-02 12:21:19]: GODLIKe [hax, Level 44]: yes
+[2021-04-02 12:21:20]: PoliceTee [xSD7, Level 0]: (1)✯ | FayZoR: also you played like a pussy camping one spot come in more skill spot
