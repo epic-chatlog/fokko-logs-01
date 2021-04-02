@@ -7849,3 +7849,10 @@
 [2021-04-02 10:41:36]: ***  [, Level 0]: 'BulgarianTee' entered and joined the game
 [2021-04-02 10:41:39]: kurama [, Level 7]: (1)kais: ty
 [2021-04-02 10:41:51]: ***  [, Level 0]: ChillerDragon.* is on a killing spree with 5 blocks
+[2021-04-02 10:41:54]: BulgarianTee [xSD7, Level 0]: HOW TF DO I HAVE GOOD PING AT V3 AND BAD PING HERE???
+[2021-04-02 10:41:56]: BulgarianTee [xSD7, Level 0]: :C
+[2021-04-02 10:41:56]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game (Timeout)
+[2021-04-02 10:41:56]: ***  [, Level 0]: 'BC|Tixnix' has left the game (Timeout)
+[2021-04-02 10:41:56]: ***  [, Level 0]: 'BC|kakashi' would have timed out, but can use timeout protection now
+[2021-04-02 10:41:56]: ***  [, Level 0]: '(1)BC|Tixnix' has left the game (Timeout)
+[2021-04-02 10:42:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
