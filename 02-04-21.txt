@@ -12843,3 +12843,6 @@
 [2021-04-02 16:16:48]: ***  [, Level 0]: 'Flipper' entered and joined the game
 [2021-04-02 16:17:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-02 16:17:20]: x7|KshKsh99 [xSD7, Level 37]: XD
+[2021-04-02 16:17:26]: Flipper [, Level 13]: hi ksh
+[2021-04-02 16:17:28]: ✯ | FayZoR [|Supressed|, Level 42]: flappy: war
+[2021-04-02 16:17:35]: x7|KshKsh99 [xSD7, Level 37]: Flipper: hi
