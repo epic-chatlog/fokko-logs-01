@@ -296,3 +296,4 @@
 [2021-04-02 00:29:56]: ***  [, Level 0]: '☺☻☺☻' changed name to 'ERROR'
 [2021-04-02 00:30:01]: ***  [, Level 0]: 'ERROR.' entered and joined the game
 [2021-04-02 00:30:06]: Noragami [, Level 19]: ☺
+[2021-04-02 00:30:20]: BulgarianTee [xSD7, Level 0]: E
