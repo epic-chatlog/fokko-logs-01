@@ -1360,3 +1360,4 @@
 [2021-04-02 02:32:50]: ***  [, Level 0]: Ghost finished in: 6 minute(s) 52.36 second(s)
 [2021-04-02 02:32:53]: comic [comically, Level 12]: BC|Deku:
 [2021-04-02 02:32:57]: ***  [, Level 0]: 'Ghost 2.0' finished the special race!
+[2021-04-02 02:33:03]: comic [comically, Level 12]: BC|Deku:
