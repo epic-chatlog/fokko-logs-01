@@ -11553,3 +11553,4 @@
 [2021-04-02 13:36:56]: ERROR [404, Level 73]: xDDDDDDDDDDDDD
 [2021-04-02 13:37:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-02 13:37:06]: ERROR [404, Level 73]: DONT MAKE me laugh
+[2021-04-02 13:37:25]: Noxl [.bad, Level 0]: Axel:
