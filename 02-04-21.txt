@@ -1021,3 +1021,6 @@
 [2021-04-02 01:50:33]: [D] Leblebi [, Level 18]: ERROR: pls help :{
 [2021-04-02 01:50:35]: ChillerDragon.* [Chilli.*, Level 41]: u need train LareneGyvaeh see dummy
 [2021-04-02 01:51:00]: ChillerDragon.* [Chilli.*, Level 41]: pro
+[2021-04-02 01:51:05]: ***  [, Level 0]: WarHammer' finished in: 2 minute(s) 17.64 second(s)
+[2021-04-02 01:51:10]: ChillerDragon [Chilli.*, Level 44]: aaaaaaaaa xd
+[2021-04-02 01:51:11]: [D] Leblebi [, Level 18]: XD
