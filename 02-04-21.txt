@@ -6415,3 +6415,9 @@
 [2021-04-02 09:38:02]:   [, Level 0]: power: comic:
 [2021-04-02 09:38:04]: Boti. [.bad, Level 32]: egyszer meg kell
 [2021-04-02 09:38:05]: Kiøn1029 [.bad, Level 31]: főleg ha falun vagy
+[2021-04-02 09:38:07]:   [, Level 0]: comic: power: ?
+[2021-04-02 09:38:09]:   [, Level 0]: comic: power: yes?
+[2021-04-02 09:38:10]: Boti. [.bad, Level 32]: igen
+[2021-04-02 09:38:11]: Boti. [.bad, Level 32]: XDD
+[2021-04-02 09:38:12]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-02 09:38:18]: sL|whutasme [, Level 0]: he said iwrong password kais
