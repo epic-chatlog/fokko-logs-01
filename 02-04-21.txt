@@ -8871,3 +8871,5 @@
 [2021-04-02 11:27:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-02 11:27:07]: ***  [, Level 0]: 'nennybabaa' entered and joined the game
 [2021-04-02 11:27:09]: BulgarianTee [xSD7, Level 25]: E
+[2021-04-02 11:27:19]: BulgarianTee [xSD7, Level 25]: e
+[2021-04-02 11:27:19]: ***  [, Level 0]: koro finished in: 4 minute(s) 30.48 second(s)
