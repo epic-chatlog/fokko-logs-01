@@ -3273,3 +3273,4 @@
 [2021-04-02 04:50:09]: ***  [, Level 0]: 'RoberGN' has left the game
 [2021-04-02 04:50:09]: УБИВАТЬ! [, Level 0]: (1)SAUD: karma
 [2021-04-02 04:50:15]: (1)SAUD [, Level 13]: what ?
+[2021-04-02 04:50:53]: ***  [, Level 0]: 'bob' entered and joined the game
