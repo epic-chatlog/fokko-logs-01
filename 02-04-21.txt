@@ -5531,3 +5531,5 @@
 [2021-04-02 08:28:19]: ***  [, Level 0]: Noxl is on a killing spree with 5 blocks
 [2021-04-02 08:28:21]: sun.slow(y) [sunrise., Level 35]: [D] BC|Tixnix:
 [2021-04-02 08:28:30]: sun.slow(y) [sunrise., Level 35]: idiotttt
+[2021-04-02 08:28:56]: ***  [, Level 0]: 'Pimka☀' has left the game
+[2021-04-02 08:28:56]: ***  [, Level 0]: 'Pimka✿' has left the game
