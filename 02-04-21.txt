@@ -11188,3 +11188,5 @@
 [2021-04-02 13:10:20]: HeavyGeneral [FookinLads, Level 44]: ERROR: chiller
 [2021-04-02 13:10:26]: HeavyGeneral [FookinLads, Level 44]: ERROR: more like retarded syndrome
 [2021-04-02 13:10:28]: ERROR. [404, Level 55]: HeavyGeneral:  yeah xDDD
+[2021-04-02 13:10:36]:   [, Level 0]: O_O: yare yare daze
+[2021-04-02 13:10:37]: ERROR. [404, Level 55]: HeavyGeneral:  and if someone doesnt help war xD
