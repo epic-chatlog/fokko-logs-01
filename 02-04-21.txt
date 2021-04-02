@@ -9873,3 +9873,6 @@
 [2021-04-02 12:07:51]: weqe [MNKY, Level 11]: wait (1)Kaptar
 [2021-04-02 12:07:57]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
 [2021-04-02 12:08:05]: weqe [MNKY, Level 11]: wait GODLIKe.
+[2021-04-02 12:08:06]: ✯ | FayZoR [|Supressed|, Level 42]: PoliceTee: trash bag
+[2021-04-02 12:08:09]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-02 12:08:16]: cup of tee [abh, Level 37]: S Y T H N: yes x)
