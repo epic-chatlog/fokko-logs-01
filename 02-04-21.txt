@@ -5249,3 +5249,6 @@
 [2021-04-02 07:45:27]: ***  [, Level 0]: Ghost 2.0 is on a killing spree with 5 blocks
 [2021-04-02 07:45:30]: ***  [, Level 0]: 'DirtySprite' joined the spectators
 [2021-04-02 07:45:53]: ***  [, Level 0]: 'DirtySprite' joined the game
+[2021-04-02 07:46:08]: Salut [, Level 31]: GODLIKe.:  you kill me
+[2021-04-02 07:46:10]: GODLIKe [hax, Level 44]: Salut: go
+[2021-04-02 07:46:11]: GODLIKe [hax, Level 44]: how
