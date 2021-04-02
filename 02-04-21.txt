@@ -11484,3 +11484,6 @@
 [2021-04-02 13:29:42]: S Y T H N [iPro, Level 37]: sL|whutasme: Ораторское искусство
 [2021-04-02 13:29:58]: Noxl. [.bad, Level 35]: GOLD: ?
 [2021-04-02 13:30:06]: ERROR [404, Level 73]: koro u attacked my clanmate xD
+[2021-04-02 13:30:12]: Noxl. [.bad, Level 35]: GOLD: i wanna kill ChillerDragon !!!
+[2021-04-02 13:30:19]: GOLD [404, Level 40]: Noxl: u will help him
+[2021-04-02 13:30:20]: S Y T H N [iPro, Level 37]: (1)Λtlantis Ψ: 'JAP' IS AN INVALID TARGET LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT
