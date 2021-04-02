@@ -12189,3 +12189,7 @@
 [2021-04-02 14:40:41]: Kirito [, Level 32]: xD ~DemoizL~ ^
 [2021-04-02 14:40:44]: Kirito [, Level 32]: f"{self.name}":
 [2021-04-02 14:40:45]: Kirito [, Level 32]: dude
+[2021-04-02 14:40:52]: sL|whutasme [, Level 5]: (1)Λtlantis Ψ: bye
+[2021-04-02 14:40:56]: Λtlantis Ψ [ᅟᅟ , Level 39]: n
+[2021-04-02 14:40:57]: Λtlantis Ψ [ᅟᅟ , Level 39]: nooo
+[2021-04-02 14:40:59]: Λtlantis Ψ [ᅟᅟ , Level 39]: dont go
