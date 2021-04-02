@@ -3767,3 +3767,6 @@
 [2021-04-02 05:42:35]: fat fuk [, Level 36]: TL|ŦƹƦ$ŦǾN: blade is 10 0
 [2021-04-02 05:42:41]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: fat fuk: against who
 [2021-04-02 05:42:49]: fat fuk [, Level 36]: TL|ŦƹƦ$ŦǾN: against Blade
+[2021-04-02 05:42:53]: ***  [, Level 0]: 'Desi' has left the game
+[2021-04-02 05:42:53]: ***  [, Level 0]: 'Sabzero' has left the game
+[2021-04-02 05:43:02]: ***  [, Level 0]: 'Sabzero' entered and joined the game
