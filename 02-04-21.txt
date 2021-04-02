@@ -5481,3 +5481,8 @@
 [2021-04-02 08:19:03]: ***  [, Level 0]: 'GODLIKe.' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-02 08:19:33]: ***  [, Level 0]: 'cunt' has left the game
 [2021-04-02 08:20:04]: Noxl [.bad, Level 48]: ohh
+[2021-04-02 08:20:21]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-02 08:20:25]: ***  [, Level 0]: |~| finished in: 2 minute(s)  4.88 second(s)
+[2021-04-02 08:20:25]: ***  [, Level 0]: New record: 16.08 second(s) better.
+[2021-04-02 08:20:27]: ***  [, Level 0]: |-| finished in: 3 minute(s) 44.16 second(s)
+[2021-04-02 08:20:29]: ***  [, Level 0]: Noxl finished in: 2 minute(s)  9.30 second(s)
