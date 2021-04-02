@@ -5561,3 +5561,5 @@
 [2021-04-02 08:35:18]: ***  [, Level 0]: 'Mʎɹ シ' entered and joined the game
 [2021-04-02 08:35:42]: Noxl [.bad, Level 48]: no
 [2021-04-02 08:35:46]: Noxl [.bad, Level 48]: laser
+[2021-04-02 08:36:15]: (2)Salut [, Level 0]: sun.slow(y):  xD
+[2021-04-02 08:36:17]: ***  [, Level 0]: '*Chilli' has left the game
