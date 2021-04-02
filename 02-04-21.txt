@@ -2423,3 +2423,9 @@
 [2021-04-02 03:43:52]: вłøøđωave [ƨơʅơ, Level 0]: f"{self.name}": ?
 [2021-04-02 03:43:52]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
 [2021-04-02 03:43:56]: Isegrin [, Level 54]: GODLIKe: prank
+[2021-04-02 03:44:00]: ***  [, Level 0]: 'gamer' joined the spectators
+[2021-04-02 03:44:01]: ***  [, Level 0]: ChillerDragon is on a killing spree with 20 blocks
+[2021-04-02 03:44:02]: ***  [, Level 0]: 'вłøøđcave' has left the game
+[2021-04-02 03:44:03]: GODLIKe [hax, Level 44]: ı scared u prank
+[2021-04-02 03:44:03]: f"{self.name}" [, Level 0]: u saved isegrin
+[2021-04-02 03:44:04]: ***  [, Level 0]: 'gamer' joined the game
