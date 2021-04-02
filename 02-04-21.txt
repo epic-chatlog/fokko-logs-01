@@ -5690,3 +5690,5 @@
 [2021-04-02 08:53:00]: Noxl. [, Level 0]: xD
 [2021-04-02 08:53:08]: Noxl. [, Level 0]: hello <#
 [2021-04-02 08:53:10]: Noxl. [, Level 0]: 3
+[2021-04-02 08:53:15]: ***  [, Level 0]: ✯ |toxicdaddy finished in: 6 minute(s) 39.66 second(s)
+[2021-04-02 08:53:25]: ***  [, Level 0]: 'sL|whutasme' has left the game
