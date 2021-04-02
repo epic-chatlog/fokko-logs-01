@@ -5571,3 +5571,5 @@
 [2021-04-02 08:36:45]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-02 08:36:50]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-02 08:36:50]: ***  [, Level 0]: '*Chilli' entered and joined the game
+[2021-04-02 08:37:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-02 08:37:08]: ***  [!þÿÿ, Level 0]: 'hhh3' entered and joined the game
