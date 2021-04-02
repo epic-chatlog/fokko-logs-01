@@ -3194,3 +3194,5 @@
 [2021-04-02 04:35:36]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-02 04:35:37]: ***  [, Level 0]: '•Slowy' has left the game
 [2021-04-02 04:35:37]: ***  [, Level 0]: 'Kezo' has left the game
+[2021-04-02 04:35:48]: ***  [, Level 0]: 'GODLIKe.' has left the game
+[2021-04-02 04:35:48]: ***  [, Level 0]: 'GODLIKe' has left the game
