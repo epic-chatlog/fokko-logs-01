@@ -3570,3 +3570,7 @@
 [2021-04-02 05:16:46]: (1)SAUD [, Level 13]: xDDD
 [2021-04-02 05:16:52]: (1)SAUD [, Level 13]: Lucas:  STOP
 [2021-04-02 05:16:56]: slim fuk [, Level 36]: SAUD: XD
+[2021-04-02 05:17:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-02 05:17:05]: slim fuk [, Level 36]: Lucas: SAUD pays my pills
+[2021-04-02 05:17:09]: ***  [, Level 0]: [D] BC|Tixnix is on a killing spree with 5 blocks
+[2021-04-02 05:17:11]: slim fuk [, Level 36]: Lucas: i cant betray him
