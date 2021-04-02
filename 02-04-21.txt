@@ -12743,3 +12743,5 @@
 [2021-04-02 15:56:39]: ✯ | FayZoR [|Supressed|, Level 42]: xDDD
 [2021-04-02 15:56:41]: Mr.KshKsh99 [xSD7, Level 0]: XD
 [2021-04-02 15:56:46]: Mr.KshKsh99 [xSD7, Level 0]: war
+[2021-04-02 15:56:52]: ✯ | FayZoR [|Supressed|, Level 42]: Mr.KshKsh99: really ? XDD
+[2021-04-02 15:57:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
