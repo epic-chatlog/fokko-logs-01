@@ -4778,3 +4778,4 @@
 [2021-04-02 06:43:44]: ***  [, Level 0]: 'mamikral011' entered and joined the game
 [2021-04-02 06:43:50]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
 [2021-04-02 06:43:50]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-02 06:44:01]: baskar [|TR| Agalar, Level 0]: hhh3: my new player
