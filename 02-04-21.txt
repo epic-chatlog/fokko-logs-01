@@ -5133,3 +5133,6 @@
 [2021-04-02 07:30:32]: GODLIKe [hax, Level 44]: Meetiteusz: yes wait
 [2021-04-02 07:30:42]: GODLIKe [hax, Level 44]: kais: gay
 [2021-04-02 07:30:46]: GODLIKe [hax, Level 44]: stop
+[2021-04-02 07:31:24]: ***  [, Level 0]: 'kurama' entered and joined the game
+[2021-04-02 07:31:32]: ***  [, Level 0]: 'Falco641' has left the game
+[2021-04-02 07:31:32]: ***  [, Level 0]: 'Falco642' has left the game
