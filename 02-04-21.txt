@@ -5486,3 +5486,5 @@
 [2021-04-02 08:20:25]: ***  [, Level 0]: New record: 16.08 second(s) better.
 [2021-04-02 08:20:27]: ***  [, Level 0]: |-| finished in: 3 minute(s) 44.16 second(s)
 [2021-04-02 08:20:29]: ***  [, Level 0]: Noxl finished in: 2 minute(s)  9.30 second(s)
+[2021-04-02 08:21:04]: Pimka☀ [FookinLads, Level 25]: Shiro.: GAY
+[2021-04-02 08:21:05]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
