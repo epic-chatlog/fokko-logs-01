@@ -531,3 +531,7 @@
 [2021-04-02 01:02:17]: ***  [, Level 0]: 'PoliceTee' has left the game
 [2021-04-02 01:02:22]: ERROR. [404, Level 55]: HeavyGeneral:  idnt that hard ig even furtsu can xD
 [2021-04-02 01:02:27]: HeavyGeneral [FookinLads, Level 44]: ERROR: oof
+[2021-04-02 01:02:32]: ERROR. [404, Level 55]: KEZO can HeavyGeneral
+[2021-04-02 01:02:35]: HeavyGeneral [FookinLads, Level 44]: ERROR: y know how?
+[2021-04-02 01:02:39]: ***  [, Level 0]: '(1)Friendiship ;' entered and joined the game
+[2021-04-02 01:02:40]: kais [, Level 65]: HeavyGeneral: it is easy af
