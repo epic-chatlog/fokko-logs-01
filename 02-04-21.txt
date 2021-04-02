@@ -11561,3 +11561,5 @@
 [2021-04-02 13:38:02]: ***  [, Level 0]: 'ölüm bekçisi' has left the game
 [2021-04-02 13:38:05]: ChillerDragon [|*KoG*|, Level 44]: Falco641: !
 [2021-04-02 13:38:11]: Falco642 [, Level 0]: uhh
+[2021-04-02 13:38:28]: ***  [, Level 0]: koro's killing spree was ended by GOLD (5 blocks)
+[2021-04-02 13:38:31]: ChillerDragon [|*KoG*|, Level 44]: freeze him Noxl
