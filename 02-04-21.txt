@@ -1322,3 +1322,6 @@
 [2021-04-02 02:29:10]: ***  [, Level 0]: '[D] .' changed name to 'fF'
 [2021-04-02 02:29:19]: ***  [, Level 0]: 'fF' changed name to '[D] Amirian'
 [2021-04-02 02:29:21]: Marcisten [hax, Level 44]: Lucas: raid plssssss
+[2021-04-02 02:29:41]: Lucas [THECEPS, Level 32]: Marcisten: yikes
+[2021-04-02 02:29:41]: ***  [, Level 0]: 'Foxie♥' entered and joined the game
+[2021-04-02 02:29:42]: Marcisten [hax, Level 44]: u easy enemy -_-
