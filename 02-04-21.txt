@@ -3208,3 +3208,5 @@
 [2021-04-02 04:39:29]: Lucas [THECEPS, Level 32]: oyun krallı: >>
 [2021-04-02 04:39:35]: ***  [, Level 0]: 'ZEUS' entered and joined the game
 [2021-04-02 04:39:48]: Lucas [THECEPS, Level 32]: oyun krallı: nvm
+[2021-04-02 04:39:55]: ***  [, Level 0]: '(1)kais' would have timed out, but can use timeout protection now
+[2021-04-02 04:39:55]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
