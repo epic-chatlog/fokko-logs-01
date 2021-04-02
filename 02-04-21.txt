@@ -11715,3 +11715,5 @@
 [2021-04-02 13:50:19]: VeemID [, Level 26]: Noxl: why ?
 [2021-04-02 13:50:20]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
 [2021-04-02 13:50:21]: (1)ERROR [404, Level 47]: Nein.
+[2021-04-02 13:50:34]: ChillerDragon [|*KoG*|, Level 44]: sei doch nich so jz ERROR
+[2021-04-02 13:50:37]: Noxl [.bad, Level 0]: what
