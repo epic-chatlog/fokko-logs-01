@@ -4093,3 +4093,4 @@
 [2021-04-02 06:08:01]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-02 06:08:03]: MNKY | Arin [MNKY, Level 0]: xD
 [2021-04-02 06:08:03]: Killua [FookinLads, Level 44]: Telefantastic: i dont see no '.' here anyways
+[2021-04-02 06:08:11]: ***  [, Level 0]: 'Juan.' changed name to '.'
