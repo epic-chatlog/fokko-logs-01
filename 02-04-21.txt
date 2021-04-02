@@ -448,3 +448,6 @@
 [2021-04-02 00:48:57]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
 [2021-04-02 00:49:00]: SAUD [, Level 20]: s/epc
 [2021-04-02 00:49:11]: SAUD [, Level 20]: nameless tee:
+[2021-04-02 00:49:14]: SAUD [, Level 20]: nam:
+[2021-04-02 00:49:15]: nameless tee [, Level 22]: wait
+[2021-04-02 00:49:16]: SAUD [, Level 20]: ./spec
