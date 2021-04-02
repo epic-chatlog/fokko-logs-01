@@ -3642,3 +3642,6 @@
 [2021-04-02 05:29:03]: ***  [, Level 0]: '|~|' has left the game
 [2021-04-02 05:29:03]: ***  [, Level 0]: '|-|' has left the game
 [2021-04-02 05:29:15]: fat fuk [, Level 36]: Isegrin: prank
+[2021-04-02 05:29:19]: ***  [, Level 0]: '(1)kais' entered and joined the game
+[2021-04-02 05:29:21]: fat fuk [, Level 36]: Isegrin: ima prankster
+[2021-04-02 05:29:25]: fat fuk [, Level 36]: Isegrin: DANCE Isegrin DANCEW
