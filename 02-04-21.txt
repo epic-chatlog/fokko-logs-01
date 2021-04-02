@@ -5734,3 +5734,6 @@
 [2021-04-02 08:58:49]: Kirito [, Level 32]: Cylox.♥:  <3
 [2021-04-02 08:58:58]: (2)Salut [, Level 0]: hhh3:  look xD
 [2021-04-02 08:58:59]: ***  [, Level 0]: 'Тучка' has left the game
+[2021-04-02 08:59:13]: ***  [, Level 0]: WarHammer finished in: 1 minute(s) 34.18 second(s)
+[2021-04-02 08:59:13]: ***  [, Level 0]: New record: 6 minute(s) 46.22 second(s) better.
+[2021-04-02 08:59:17]: ***  [, Level 0]: WarHammer' finished in: 3 minute(s)  8.88 second(s)
