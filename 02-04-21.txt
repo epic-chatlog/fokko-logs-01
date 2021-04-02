@@ -12808,3 +12808,6 @@
 [2021-04-02 16:07:49]: x7|KshKsh99 [xSD7, Level 37]: right
 [2021-04-02 16:08:26]: x7|KshKsh99 [xSD7, Level 37]: wtf
 [2021-04-02 16:08:30]: ✯ | FayZoR [|Supressed|, Level 42]: 3
+[2021-04-02 16:08:31]: ✯ | FayZoR [|Supressed|, Level 42]: 2
+[2021-04-02 16:08:33]: ✯ | FayZoR [|Supressed|, Level 42]: 1
+[2021-04-02 16:08:35]: ✯ | FayZoR [|Supressed|, Level 42]: explosion
