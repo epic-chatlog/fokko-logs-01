@@ -5692,3 +5692,6 @@
 [2021-04-02 08:53:10]: Noxl. [, Level 0]: 3
 [2021-04-02 08:53:15]: ***  [, Level 0]: ✯ |toxicdaddy finished in: 6 minute(s) 39.66 second(s)
 [2021-04-02 08:53:25]: ***  [, Level 0]: 'sL|whutasme' has left the game
+[2021-04-02 08:53:33]: toine [zelda, Level 0]: comment faire les disscoure perso???
+[2021-04-02 08:53:34]: ***  [, Level 0]: 'sL|whutasme' entered and joined the game
+[2021-04-02 08:53:37]: ***  [, Level 0]: 'Kill Chiller' has left the game
