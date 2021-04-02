@@ -1132,3 +1132,5 @@
 [2021-04-02 02:03:53]: ***  [, Level 0]: Leblebi finished in: 9 minute(s) 42.24 second(s)
 [2021-04-02 02:03:56]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' has left the game (Timeout Protection over)
 [2021-04-02 02:04:13]: ERROR [404, Level 73]: xD
+[2021-04-02 02:04:19]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
+[2021-04-02 02:04:27]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' entered and joined the game
