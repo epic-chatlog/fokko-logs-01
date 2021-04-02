@@ -661,3 +661,5 @@
 [2021-04-02 01:17:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-02 01:17:08]: BulgarianTee [xSD7, Level 38]: Shiro.: ye i can xd
 [2021-04-02 01:17:12]: Shiro. [, Level 50]: BulgarianTee: show me then ;)
+[2021-04-02 01:17:17]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
+[2021-04-02 01:17:21]: ChillerDragon.* [|*KoG*|, Level 41]: try tripple nade Shiro.
