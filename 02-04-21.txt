@@ -12036,3 +12036,5 @@
 [2021-04-02 14:23:08]: ***  [, Level 0]: '✯ | Ninjablac' has left the game
 [2021-04-02 14:23:27]: ***  [, Level 0]: '__init__(self):' entered and joined the game
 [2021-04-02 14:23:44]: Λtlantis Ψ [ᅟᅟ , Level 39]: (1)✯ | FayZoR:
+[2021-04-02 14:23:58]: (1)sL|whutasme [, Level 0]: stop S Y T H N
+[2021-04-02 14:24:08]: Λtlantis Ψ [ᅟᅟ , Level 39]: (1)✯ | FayZoR:  you have ammo for taser
