@@ -10538,3 +10538,9 @@
 [2021-04-02 12:38:27]: ***  [, Level 0]: '(1)Meetiteusz' entered and joined the game
 [2021-04-02 12:38:28]: ERROR [404, Level 73]: ChillerDragon.*:  so bad wie immer
 [2021-04-02 12:38:30]: ERROR [404, Level 73]: danke dir
+[2021-04-02 12:38:31]: ***  [, Level 0]: '(1)Meetiteusz' has left the game
+[2021-04-02 12:38:33]: ChillerDragon.* [|*KoG*|, Level 41]: Tixnix: du hast ERROR geholfen aber nich mir also haben wir war :/
+[2021-04-02 12:38:36]: ERROR [404, Level 73]: Maatiteusz:  what did u say?
+[2021-04-02 12:38:37]: GODLIKe [hax, Level 44]: 3 1
+[2021-04-02 12:38:38]: ***  [, Level 0]: Friendiship ;-) finished in: 56 minute(s) 15.94 second(s)
+[2021-04-02 12:38:40]: mamikral011 [, Level 25]: weqe: war :D
