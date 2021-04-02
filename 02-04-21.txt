@@ -11911,3 +11911,6 @@
 [2021-04-02 14:06:31]: WarHammer [, Level 25]: Kirito:  u blocked before
 [2021-04-02 14:06:38]: Kirito [, Level 32]: WarHammer: u are so dumb omg
 [2021-04-02 14:06:43]: VeemID [, Level 26]: Noxl: I HELPED YOU
+[2021-04-02 14:06:58]: WarHammer [, Level 25]: Kirito:  stfu, first u blocked me i dont touched u.
+[2021-04-02 14:07:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-02 14:07:05]: Kirito [, Level 32]: WarHammer: war4life
