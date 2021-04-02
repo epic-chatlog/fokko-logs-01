@@ -5635,3 +5635,6 @@
 [2021-04-02 08:45:05]: ***  [, Level 0]: '(1)Kirito' finished the special race!
 [2021-04-02 08:45:16]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-02 08:45:17]: Falco642 [, Level 0]: [D] BC|Tixnix: ur bad without all your boyfriends and dog ES
+[2021-04-02 08:45:19]: ***  [, Level 0]: 'Maestro' entered and joined the game
+[2021-04-02 08:45:22]: ***  [, Level 0]: 'Cry Ratish' entered and joined the game
+[2021-04-02 08:45:27]: ***  [, Level 0]: 'Noxl.' has left the game
