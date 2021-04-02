@@ -5263,3 +5263,6 @@
 [2021-04-02 07:47:53]: ***  [, Level 0]: 'DirtySprite' has left the game
 [2021-04-02 07:48:03]: Meetiteusz [TrRShClNrRs, Level 0]: P4PyrOs: is it ur dummy?
 [2021-04-02 07:48:05]: ***  [, Level 0]: '(1)Salut' entered and joined the game
+[2021-04-02 07:48:14]: P4PyrOs [, Level 21]: nope a good friend
+[2021-04-02 07:48:17]: ***  [, Level 0]: 'Noxl' entered and joined the game
+[2021-04-02 07:48:18]: P4PyrOs [, Level 21]: imma luck after him
