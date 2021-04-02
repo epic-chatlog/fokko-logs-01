@@ -2047,3 +2047,5 @@
 [2021-04-02 03:27:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-02 03:27:01]: ***  [, Level 0]: 'вłøøđcave' has left the game
 [2021-04-02 03:27:06]: Pigie♥ [♥, Level 36]: Kirito: run
+[2021-04-02 03:27:11]: Pigie♥ [♥, Level 36]: (1)Kirito: RUN
+[2021-04-02 03:27:16]: Kezo [FookinLads, Level 41]: ChillerDragon: fuck off :D
