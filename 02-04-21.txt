@@ -7714,3 +7714,5 @@
 [2021-04-02 10:35:40]: kurama [, Level 7]: Rock: аааа
 [2021-04-02 10:35:42]: ***  [, Level 0]: '<-_->' has left the game (Timeout)
 [2021-04-02 10:35:44]: ***  [, Level 0]: '(1)P4PyrOs' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-02 10:35:55]: [D] sL|whutasme [, Level 0]: ok i let's you farm but you let's me farm
+[2021-04-02 10:35:56]: ChillerDragon.* [Chilli.*, Level 41]: why should i help u if u dont help me [D] sL|whutasme
