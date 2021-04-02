@@ -1226,3 +1226,4 @@
 [2021-04-02 02:15:07]: ***  [, Level 0]: '(1)' has left the game
 [2021-04-02 02:15:07]: ***  [, Level 0]: 'Random Guy' has left the game
 [2021-04-02 02:15:13]: Markis [, Level 0]: spec
+[2021-04-02 02:15:26]: ***  [, Level 0]: 'Markis' has left the game
