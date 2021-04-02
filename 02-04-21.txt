@@ -6503,3 +6503,14 @@
 [2021-04-02 09:40:29]: Boti. [.bad, Level 32]: egyszer csak meggyőzöm
 [2021-04-02 09:40:30]: Saturn [, Level 23]: Boti.: Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter.
 [2021-04-02 09:40:33]: Kiøn1029 [.bad, Level 31]: segítek ennek az egyetlen chillernek
+[2021-04-02 09:40:33]: ***  [, Level 0]: 'Noxl.' has left the game (Timeout)
+[2021-04-02 09:40:33]: ***  [, Level 0]: 'Noxl' has left the game (Timeout)
+[2021-04-02 09:40:34]: ***  [, Level 0]: '(2)Kirito' has left the game (Timeout)
+[2021-04-02 09:40:34]: ***  [, Level 0]: '(3)Kirito' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-02 09:40:34]: Falco641 [, Level 17]: toine: WTF
+[2021-04-02 09:40:37]: ***  [, Level 0]: 'WarHammer'' left the minigame 'Block'
+[2021-04-02 09:40:37]: Boti. [.bad, Level 32]: MONI
+[2021-04-02 09:40:38]: ***  [, Level 0]: 'Farmer.♥' has left the game
+[2021-04-02 09:40:40]: ***  [, Level 0]: 'Farmer.♥' entered and joined the game
+[2021-04-02 09:40:41]: Falco641 [, Level 17]: fucking rat
+[2021-04-02 09:40:42]: ***  [, Level 0]: 'SoA Mairbos' has left the game
