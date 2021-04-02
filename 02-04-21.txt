@@ -7049,3 +7049,7 @@
 [2021-04-02 10:04:54]: ***  [, Level 0]: 'cookie' finished the special race!
 [2021-04-02 10:04:59]: ***  [, Level 0]: BC|serwan is on a killing spree with 5 blocks
 [2021-04-02 10:05:01]: sL|whutasme [, Level 0]: kais: why i can't go bank
+[2021-04-02 10:05:06]: kais [, Level 65]: [D] sL|whutasme: press f4
+[2021-04-02 10:05:10]: Boti. [.bad, Level 32]: zsa spawnblockolni?
+[2021-04-02 10:05:12]: ***  [, Level 0]: '[D] Boti.' has left the game
+[2021-04-02 10:05:13]: ***  [, Level 0]: 'lolpoep' finished the special race!
