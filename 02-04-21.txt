@@ -5411,3 +5411,5 @@
 [2021-04-02 08:02:33]: Noxl [.bad, Level 48]: Salut: god
 [2021-04-02 08:02:43]: ***  [, Level 0]: Pigie♥'s killing spree was ended by Salut (7 blocks)
 [2021-04-02 08:03:13]: kurama [, Level 7]: Mʎɹ シ: ты слышишь меня?
+[2021-04-02 08:03:33]: ***  [, Level 0]: '|-|' entered and joined the game
+[2021-04-02 08:03:38]: ***  [, Level 0]: '|~|' entered and joined the game
