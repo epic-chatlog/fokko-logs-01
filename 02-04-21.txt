@@ -3624,3 +3624,4 @@
 [2021-04-02 05:27:02]: ***  [, Level 0]: '<-_->' finished the special race!
 [2021-04-02 05:27:02]: ***  [, Level 0]: [D] MNKY | Arin finished in: 9 minute(s) 31.86 second(s)
 [2021-04-02 05:27:02]: ***  [, Level 0]: '[D] MNKY | Arin' finished the special race!
+[2021-04-02 05:27:12]: ***  [, Level 0]: '(1)Ƭevan' entered and joined the game
