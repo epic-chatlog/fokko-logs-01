@@ -12,3 +12,4 @@
 [2021-04-02 00:01:51]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-02 00:02:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-02 00:02:09]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-02 00:02:17]: BulgarianTee [xSD7, Level 0]: kais: heh?
