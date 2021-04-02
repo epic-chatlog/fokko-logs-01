@@ -827,3 +827,5 @@
 [2021-04-02 01:36:16]: ChillerDragon.* [|*KoG*|, Level 41]: aaaaaaaaa
 [2021-04-02 01:36:18]: ***  [, Level 0]: 'nam' joined the game
 [2021-04-02 01:36:19]: BulgarianTee [xSD7, Level 38]: FUKIN
+[2021-04-02 01:36:22]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
+[2021-04-02 01:36:25]: ChillerDragon.* [|*KoG*|, Level 41]: pro
