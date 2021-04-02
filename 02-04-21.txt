@@ -8841,3 +8841,6 @@
 [2021-04-02 11:25:30]: ***  [, Level 0]: BC|serwan finished in: 8 minute(s)  0.14 second(s)
 [2021-04-02 11:25:30]: ***  [, Level 0]: 'BC|serwan' finished the special race!
 [2021-04-02 11:25:31]: BulgarianTee [xSD7, Level 0]: ChillerDragon: yes i got better
+[2021-04-02 11:25:35]: BulgarianTee [xSD7, Level 0]: E
+[2021-04-02 11:25:36]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-02 11:25:37]: ***  [, Level 0]: 'PEPEL' entered and joined the game
