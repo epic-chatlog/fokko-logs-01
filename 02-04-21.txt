@@ -7488,3 +7488,8 @@
 [2021-04-02 10:24:29]: kurama [, Level 7]: Mʎɹ シ: ...
 [2021-04-02 10:24:30]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
 [2021-04-02 10:24:31]: ***  [, Level 0]: 'ChillerDragon' has left the game
+[2021-04-02 10:24:35]:   [, Level 0]: [D] sL|whutasme: yes i want this kais
+[2021-04-02 10:24:36]: ***  [, Level 0]: 'koro' has left the game (Timeout Protection over)
+[2021-04-02 10:24:40]: (1)kais [, Level 58]: ok
+[2021-04-02 10:24:44]: ***  [, Level 0]: '<-_->' would have timed out, but can use timeout protection now
+[2021-04-02 10:24:44]: ***  [, Level 0]: 'P4PyrOs' would have timed out, but can use timeout protection now
