@@ -306,3 +306,5 @@
 [2021-04-02 00:31:18]: BulgarianTee [xSD7, Level 0]: (1)kais: kinda sad
 [2021-04-02 00:31:29]: (1)kais [, Level 58]: BulgarianTee: sad
 [2021-04-02 00:31:29]: BulgarianTee [xSD7, Level 0]: ERROR.: E
+[2021-04-02 00:32:00]: BulgarianTee [xSD7, Level 0]: bulgarians shouldnt exist
+[2021-04-02 00:32:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
