@@ -5647,3 +5647,4 @@
 [2021-04-02 08:47:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-02 08:47:03]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
 [2021-04-02 08:47:23]: [D] BC|Tixnix [BC, Level 25]: Falco641: shhhhhh you have no monye to give the water
+[2021-04-02 08:47:43]: Noxl [.bad, Level 48]: Salut: ohh
