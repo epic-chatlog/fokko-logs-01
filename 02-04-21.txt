@@ -11212,3 +11212,9 @@
 [2021-04-02 13:11:52]: Falco641 [, Level 18]: xd
 [2021-04-02 13:11:53]: ChillerDragon [|*KoG*|, Level 44]: war O_O
 [2021-04-02 13:12:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-02 13:12:15]: ***  [, Level 0]: 'Friendiship ;-)' has left the game
+[2021-04-02 13:12:15]: ERROR. [404, Level 55]: ChillerDragon.*:  ist doch immer das selbe sobald ich da bin biste raus aus police
+[2021-04-02 13:12:16]:   [, Level 0]: GODLIKe: Meetiteusz: ı need delete teeworlds
+[2021-04-02 13:12:17]: ***  [, Level 0]: 'Dan' entered and joined the game
+[2021-04-02 13:12:20]: ERROR. [404, Level 55]: HeavyGeneral:  did O_O  rly helped him rn?
+[2021-04-02 13:12:22]: ***  [, Level 0]: 'O_O' changed name to 'jjjjj'
