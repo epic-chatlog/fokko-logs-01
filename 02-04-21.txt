@@ -1127,3 +1127,4 @@
 [2021-04-02 02:03:20]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
 [2021-04-02 02:03:20]: ***  [, Level 0]: '[D] Deadmouse' has left the game
 [2021-04-02 02:03:26]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
+[2021-04-02 02:03:38]: [D] Leblebi [, Level 18]: power: noob
