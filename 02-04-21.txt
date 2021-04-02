@@ -8330,3 +8330,7 @@
 [2021-04-02 11:02:02]: ***  [, Level 0]: NENNY196's killing spree was ended by any (5 blocks)
 [2021-04-02 11:02:10]: ***  [, Level 0]: '(2)✯ | FayZoR' entered and joined the game
 [2021-04-02 11:02:15]: ***  [, Level 0]: 'Friendiship ;-)' has left the game
+[2021-04-02 11:02:18]:   [, Level 0]: any: (1)•Slowy:
+[2021-04-02 11:02:23]: ***  [, Level 0]: 'Kirito♥' has left the game
+[2021-04-02 11:02:23]: ***  [, Level 0]: '(1)Kirito♥' has left the game
+[2021-04-02 11:02:24]: ***  [, Level 0]: 'Kirito' has left the game
