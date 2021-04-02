@@ -421,3 +421,6 @@
 [2021-04-02 00:46:11]: BulgarianTee [xSD7, Level 38]: E
 [2021-04-02 00:46:13]: BulgarianTee [xSD7, Level 38]: GAME SUX
 [2021-04-02 00:46:23]: BulgarianTee [xSD7, Level 38]: bad game
+[2021-04-02 00:46:26]: ***  [, Level 0]: 'muluk' has left the game (Timeout)
+[2021-04-02 00:46:30]: nameless tee [, Level 22]: oyun krallı: naneyi yedin sen şimdi
+[2021-04-02 00:46:35]: BulgarianTee [xSD7, Level 38]: ezopz
