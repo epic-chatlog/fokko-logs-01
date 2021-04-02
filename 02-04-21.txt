@@ -1292,3 +1292,4 @@
 [2021-04-02 02:26:20]: ***  [, Level 0]: 'ES' has left the game
 [2021-04-02 02:26:28]: Marcisten [hax, Level 44]: WTF
 [2021-04-02 02:26:29]: ***  [, Level 0]: Lucas finished in: 2 minute(s) 42.94 second(s)
+[2021-04-02 02:26:31]: ***  [, Level 0]: 'Niko' has left the game
