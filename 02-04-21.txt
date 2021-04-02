@@ -12986,3 +12986,4 @@
 [2021-04-02 16:37:29]: ***  [, Level 0]: 'All Apologies' joined the game
 [2021-04-02 16:38:01]: ***  [, Level 0]: 'All Apologies' joined the spectators
 [2021-04-02 16:38:07]: ***  [, Level 0]: 'Flupper' entered and joined the game
+[2021-04-02 16:38:20]: ***  [, Level 0]: 'All Apologies' has left the game
