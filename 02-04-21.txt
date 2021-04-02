@@ -3080,3 +3080,6 @@
 [2021-04-02 04:27:00]: ***  [, Level 0]: Kezo is on a killing spree with 5 blocks
 [2021-04-02 04:27:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-02 04:27:05]: Kezo [FookinLads, Level 41]: Lucas: so bad gay
+[2021-04-02 04:27:10]: ***  [, Level 0]: 'Nonoh' has left the game (Timeout Protection over)
+[2021-04-02 04:27:10]: ***  [, Level 0]: 'Noémi[Đ]' has left the game (Timeout Protection over)
+[2021-04-02 04:27:13]: ***  [, Level 0]: [D] BC|Tixnix finished in: 8 minute(s) 25.68 second(s)
