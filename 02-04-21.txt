@@ -1343,3 +1343,8 @@
 [2021-04-02 02:31:13]: Nonoh [citrom, Level 40]: Lucas: 1
 [2021-04-02 02:31:14]: Marcisten [hax, Level 44]: Nonoh: wait
 [2021-04-02 02:31:19]: Nonoh [citrom, Level 40]: Lucas: 2
+[2021-04-02 02:31:27]: ***  [, Level 0]: '✯ |toxicdaddy' entered and joined the game
+[2021-04-02 02:31:29]: Marcisten [hax, Level 44]: lagg
+[2021-04-02 02:31:30]: ~DemoizL~ [, Level 38]: Lucas: war
+[2021-04-02 02:31:32]: ***  [, Level 0]: 'Pimka☀' finished the special race!
+[2021-04-02 02:31:33]: ***  [, Level 0]: 'Pimka✿' finished the special race!
