@@ -761,3 +761,7 @@
 [2021-04-02 01:29:32]: ***  [, Level 0]: 'Wheels' entered and joined the game
 [2021-04-02 01:29:33]: ***  [, Level 0]: 'WarHammer' has left the game (Timeout)
 [2021-04-02 01:29:43]: (1)ChillerDrago [Chilli.*, Level 30]: if i go afk 10 mins i get spiked BulgarianTee idk what 1mil u talkin baut m8
+[2021-04-02 01:29:47]: ERROR. [404, Level 55]: BulgarianTee: sadly u cant farm for 7h in police xd
+[2021-04-02 01:29:48]: ***  [, Level 0]: '(1)WarHammer' has left the game
+[2021-04-02 01:29:51]: BulgarianTee [xSD7, Level 38]: ChillerDragon: but FookinErrordogs kill me
+[2021-04-02 01:29:54]: (1)ChillerDrago [Chilli.*, Level 30]: ye
