@@ -5014,3 +5014,5 @@
 [2021-04-02 07:10:25]: Kill Chiller [, Level 44]: please Ƭevan
 [2021-04-02 07:10:32]: Kill Chiller [, Level 44]: nah
 [2021-04-02 07:10:33]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-02 07:11:17]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
+[2021-04-02 07:11:17]: ***  [, Level 0]: 'Kill Chiller' has left the game
