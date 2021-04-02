@@ -5985,3 +5985,8 @@
 [2021-04-02 09:16:02]: ***  [, Level 0]: 'Kill Chiller' entered and joined the game
 [2021-04-02 09:16:17]: ***  [, Level 0]: 'Kyrma' has left the game
 [2021-04-02 09:16:17]: ***  [, Level 0]: 'Kill Chiller' has left the game
+[2021-04-02 09:16:18]: Pigie♥ [♥, Level 36]: Kirito♥: he'll leave
+[2021-04-02 09:16:20]: ***  [, Level 0]: 'NENNY196' entered and joined the game
+[2021-04-02 09:16:23]: ***  [, Level 0]: '[D] MNKY | Arin' entered and joined the game
+[2021-04-02 09:16:29]: ***  [, Level 0]: sL|whutasme finished in: 2 minute(s)  4.58 second(s)
+[2021-04-02 09:16:29]: ***  [, Level 0]: New record: 17.14 second(s) better.
