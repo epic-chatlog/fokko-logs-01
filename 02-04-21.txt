@@ -5569,3 +5569,5 @@
 [2021-04-02 08:36:40]: ***  [, Level 0]: '*Chilli' has left the game
 [2021-04-02 08:36:45]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-02 08:36:45]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-02 08:36:50]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-02 08:36:50]: ***  [, Level 0]: '*Chilli' entered and joined the game
