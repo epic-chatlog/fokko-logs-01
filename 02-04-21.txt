@@ -9801,3 +9801,6 @@
 [2021-04-02 12:03:51]: ***  [, Level 0]: New record: 1 minute(s)  3.56 second(s) better.
 [2021-04-02 12:03:54]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
 [2021-04-02 12:03:54]: ***  [, Level 0]: '(1)Kaptar' entered and joined the game
+[2021-04-02 12:04:04]: ***  [, Level 0]: 'i am jerry kill' has left the game
+[2021-04-02 12:04:07]: [D] mamikral011 [, Level 20]: weqe: how munch
+[2021-04-02 12:04:11]:   [, Level 0]: weqe: 50k mamikral011
