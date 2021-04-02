@@ -1288,3 +1288,7 @@
 [2021-04-02 02:25:33]: ***  [, Level 0]: 'Ghost' entered and joined the game
 [2021-04-02 02:25:39]: ***  [, Level 0]: 'Ghost 2.0' entered and joined the game
 [2021-04-02 02:25:41]: ***  [, Level 0]: 'Pimka☀' entered and joined the game
+[2021-04-02 02:26:20]: ***  [, Level 0]: 'ES' entered and joined the game
+[2021-04-02 02:26:20]: ***  [, Level 0]: 'ES' has left the game
+[2021-04-02 02:26:28]: Marcisten [hax, Level 44]: WTF
+[2021-04-02 02:26:29]: ***  [, Level 0]: Lucas finished in: 2 minute(s) 42.94 second(s)
