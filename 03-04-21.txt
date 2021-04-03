@@ -11870,3 +11870,4 @@
 [2021-04-03 16:03:19]: ***  [, Level 0]: '[D] BULLETBOT' has left the game
 [2021-04-03 16:04:05]: BULLETBOT [, Level 0]: FUCKING CAT
 [2021-04-03 16:04:29]: BULLETBOT [, Level 0]: OM
+[2021-04-03 16:04:35]: ***  [, Level 0]: Godking Elderon is on a killing spree with 5 blocks
