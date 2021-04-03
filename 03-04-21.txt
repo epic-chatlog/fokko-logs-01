@@ -5596,3 +5596,6 @@
 [2021-04-03 07:17:01]: [D] ✯ |toxicd [|Supressed, Level 20]: cookie: haha
 [2021-04-03 07:17:05]: cookie [, Level 0]: [D] ✯ |toxicd:  hahaha lol
 [2021-04-03 07:17:08]:   [, Level 0]: Falco642: Isegrin: xd
+[2021-04-03 07:17:17]: ***  [, Level 0]: sαвєя is on a killing spree with 15 blocks
+[2021-04-03 07:17:19]:   [, Level 0]: Falco642: Isegrin: arrest
+[2021-04-03 07:17:24]:   [, Level 0]: Isegrin: Falco642: SHAT AP
