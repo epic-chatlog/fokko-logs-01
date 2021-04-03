@@ -4897,3 +4897,4 @@
 [2021-04-03 06:25:41]: Rock [, Level 15]: go
 [2021-04-03 06:25:41]: ***  [, Level 0]: 'Soros' has left the game
 [2021-04-03 06:25:41]: ***  [, Level 0]: 'el champeon' has left the game
+[2021-04-03 06:26:00]: ***  [, Level 0]: 'el champeon' entered and joined the game
