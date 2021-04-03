@@ -4656,3 +4656,5 @@
 [2021-04-03 06:04:14]:   [, Level 0]: bob: i do superpower now
 [2021-04-03 06:04:35]: Fearless [FookinLads, Level 40]: OMG
 [2021-04-03 06:04:52]: Fearless [FookinLads, Level 40]: ビール|Zero:  stupid nigger
+[2021-04-03 06:04:56]: ***  [, Level 0]: 'f"{self.name}"' has left the game (Timeout)
+[2021-04-03 06:04:58]: ***  [, Level 0]: 'Lucas' entered and joined the game
