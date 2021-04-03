@@ -4592,3 +4592,6 @@
 [2021-04-03 05:59:10]: |HolyHo| [, Level 18]: HeavyGeneral: ?
 [2021-04-03 05:59:17]: HeavyGeneral [FookinLads, Level 44]: (1)|HolyHo|°: what
 [2021-04-03 05:59:18]: ***  [, Level 0]: 'батя' entered and joined the game
+[2021-04-03 05:59:28]: ***  [, Level 0]: '(1)ビール|Zero' entered and joined the game
+[2021-04-03 05:59:28]: [D] mamikral011 [, Level 20]: ♥TAKO♥: yene hızlı yardım
+[2021-04-03 05:59:31]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
