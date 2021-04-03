@@ -2341,3 +2341,5 @@
 [2021-04-03 03:00:32]: cunt [, Level 0]: hhh3: yes gay
 [2021-04-03 03:00:54]: ***  [, Level 0]: 'Random Guy' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-03 03:00:55]: ***  [, Level 0]: 'ClemEntine' has left the game
+[2021-04-03 03:01:02]: ***  [, Level 0]: 'WarHammer'' has left the game
+[2021-04-03 03:01:02]: ***  [, Level 0]: 'WarHammer' has left the game
