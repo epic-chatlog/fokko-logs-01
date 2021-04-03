@@ -13987,3 +13987,4 @@
 [2021-04-02 23:50:33]: |HolyHo| [TrRShClNrRs, Level 0]: ERROR.: but u made 404 right?|
 [2021-04-02 23:50:38]: ERROR [404, Level 73]: fookinlads and 404 use it.
 [2021-04-02 23:50:41]: ERROR [404, Level 73]: ye
+[2021-04-02 23:51:42]: ***  [, Level 0]: 'Boti.' entered and joined the game
