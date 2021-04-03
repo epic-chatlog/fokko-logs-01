@@ -13741,3 +13741,6 @@
 [2021-04-02 22:37:18]: SAUD [, Level 0]: help
 [2021-04-02 22:37:19]: x7|Flipper [xSD7, Level 39]: .
 [2021-04-02 22:37:20]: SAUD [, Level 0]: xD
+[2021-04-02 22:37:26]: Flupper [, Level 13]: go to bank
+[2021-04-02 22:37:28]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-02 22:37:30]: SAUD [, Level 0]: HELP
