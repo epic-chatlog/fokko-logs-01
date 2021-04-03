@@ -4475,3 +4475,7 @@
 [2021-04-03 05:52:29]: Axel [TrRShClNrRs, Level 30]: ok lmao
 [2021-04-03 05:52:29]: |HolyHo|° [, Level 28]: HeavyGeneral:
 [2021-04-03 05:52:32]: ♥TAKO♥ [, Level 24]: portal yeeee
+[2021-04-03 05:52:40]: ***  [, Level 0]: '(1)SAUD' has left the game
+[2021-04-03 05:52:44]: ***  [, Level 0]: 'Falco641' entered and joined the game
+[2021-04-03 05:52:45]: f"{self.name}" [, Level 0]: Soros: he cant get outta there :D
+[2021-04-03 05:52:49]: Fearless [FookinLads, Level 40]: bob:  omg let me to bank stupid nigger
