@@ -5042,3 +5042,5 @@
 [2021-04-03 06:35:15]: (1)|HolyHo|° [, Level 0]: HeavyGeneral: yo??!!!
 [2021-04-03 06:35:18]: ***  [, Level 0]: 'SpiderMan' has left the game
 [2021-04-03 06:35:19]: Rock [, Level 15]: (1)|HolyHo|°: Plsss
+[2021-04-03 06:35:28]: Rock [, Level 15]: (1)|HolyHo|: tthx
+[2021-04-03 06:35:30]: Rock [, Level 15]: thx
