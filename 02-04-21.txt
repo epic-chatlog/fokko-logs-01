@@ -13955,3 +13955,5 @@
 [2021-04-02 23:41:33]: ビール|Zero [Drunks, Level 26]: ERROR: we can do it) it so ez no
 [2021-04-02 23:41:34]: ビール|Zero [Drunks, Level 26]: w
 [2021-04-02 23:42:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-02 23:42:44]: ERROR [404, Level 73]: stop
+[2021-04-02 23:42:48]: ERROR [404, Level 73]: stay there
