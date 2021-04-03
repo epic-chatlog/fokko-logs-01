@@ -9721,3 +9721,5 @@
 [2021-04-03 12:00:26]: ***  [, Level 0]: 'teee' entered and joined the game
 [2021-04-03 12:00:33]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
 [2021-04-03 12:00:40]: CKA3A4NIK[NR] [Night Raid, Level 35]: УБИВАТЬ!:  ты сабзеро?
+[2021-04-03 12:00:47]: ***  [, Level 0]: 'Женя гей' entered and joined the game
+[2021-04-03 12:00:48]: УБИВАТЬ! [, Level 0]: я камекадзе
