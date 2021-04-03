@@ -13098,3 +13098,4 @@
 [2021-04-02 17:45:48]: Kirito♥ [♥, Level 23]: Flipper: hello my old son
 [2021-04-02 17:45:51]: Flipper [, Level 39]: hi
 [2021-04-02 17:46:08]: ***  [, Level 0]: 'Flipper' changed name to 'x7|Flipper'
+[2021-04-02 17:47:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
