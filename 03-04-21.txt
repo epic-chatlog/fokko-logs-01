@@ -2396,3 +2396,8 @@
 [2021-04-03 03:09:00]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
 [2021-04-03 03:09:01]: ***  [, Level 0]: 'Lareth (PL)' has left the game
 [2021-04-03 03:09:02]: ChillerDragon [Chilli.*, Level 44]: hi
+[2021-04-03 03:09:04]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
+[2021-04-03 03:09:09]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-03 03:09:11]: ✯ |toxicdaddy [|Supressed, Level 24]: dsfcd myl
+[2021-04-03 03:09:12]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-03 03:09:15]: ***  [, Level 0]: '(1)ChillerDragon' changed name to '(2)ChillerDragon'
