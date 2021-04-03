@@ -587,3 +587,6 @@
 [2021-04-03 01:17:01]: ***  [, Level 0]: 'MaşƘƔ' has left the game
 [2021-04-03 01:17:19]: ***  [, Level 0]: 'ZEWO' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
 [2021-04-03 01:17:19]: ***  [, Level 0]: 'ZEWO's dummy' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
+[2021-04-03 01:17:22]: |HolyHo| [TrRShClNrRs, Level 17]: ♥TAKO♥: war?
+[2021-04-03 01:17:25]: ♥TAKO♥ [, Level 24]: flag
+[2021-04-03 01:17:29]: |HolyHo| [TrRShClNrRs, Level 17]: ♥TAKO♥: no
