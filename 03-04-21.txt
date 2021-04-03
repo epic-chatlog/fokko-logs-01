@@ -7994,3 +7994,6 @@
 [2021-04-03 10:00:50]: ***  [, Level 0]: 'Hady' entered and joined the game
 [2021-04-03 10:00:50]: bob [MNKY, Level 36]: Rem's bae: war
 [2021-04-03 10:00:54]: ChillerDragon.* [|*KoG*|, Level 41]: Rem's bae: ne wir sind anders
+[2021-04-03 10:00:55]:   [, Level 0]: Hady: i m back
+[2021-04-03 10:01:03]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-03 10:01:04]: ChillerDragon.* [|*KoG*|, Level 41]: Rem's bae: ich blocke alle die nicht helfen und ERROR blockt alle die helfen
