@@ -6192,3 +6192,11 @@
 [2021-04-03 08:02:37]: SAUD [, Level 13]: WDYM Λtlantis Ψ
 [2021-04-03 08:02:40]:   [, Level 0]: :)|(:: kais: ok tue cette pute alors
 [2021-04-03 08:02:41]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: SAUD:  yes
+[2021-04-03 08:02:47]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: SAUD:  go in 5 sek
+[2021-04-03 08:02:48]:   [, Level 0]: (1)kais: :)|(:: il m'a rien fait
+[2021-04-03 08:02:51]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: SAUD: stop
+[2021-04-03 08:02:54]:   [, Level 0]: (1)ERROR: SAUD:  rly now?
+[2021-04-03 08:02:55]: Lucas [THECEPS, Level 33]: cookie: can you make another dummy?
+[2021-04-03 08:02:55]: S Y T H N [iPro, Level 37]: Cylox: rly trash
+[2021-04-03 08:02:56]:   [, Level 0]: WarHammer: ChillerDragon:  stop switch 20
+[2021-04-03 08:02:56]: ChillerDragon [Chilli.*, Level 44]: WarHammer: I am currently afk.
