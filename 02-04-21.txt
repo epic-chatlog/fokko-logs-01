@@ -13515,3 +13515,5 @@
 [2021-04-02 20:36:13]: ***  [, Level 0]: 'Jhish' has left the game
 [2021-04-02 20:37:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-02 20:40:58]: ***  [, Level 0]: 'x7|Flipper' entered and joined the game
+[2021-04-02 20:41:18]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-02 20:41:18]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' has left the game
