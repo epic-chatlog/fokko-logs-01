@@ -5512,3 +5512,4 @@
 [2021-04-03 07:09:24]: ***  [, Level 0]: '__init__(self):' entered and joined the game
 [2021-04-03 07:09:27]: Rock [, Level 15]: Cylox: i give you inf jumps
 [2021-04-03 07:09:33]: ***  [, Level 0]: 'Cylox.♥' entered and joined the game
+[2021-04-03 07:09:47]: sαвєя [FookinLads, Level 0]: Keø: you blocked me ;?
