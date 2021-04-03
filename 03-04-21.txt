@@ -7329,3 +7329,11 @@
 [2021-04-03 09:03:59]: ***  [, Level 0]: 'Kwadraciakowy' has left the game
 [2021-04-03 09:04:03]: ERROR [404, Level 55]: omg how sad
 [2021-04-03 09:04:26]: (1)kais [, Level 58]: HeavyGeneral: sry xD
+[2021-04-03 09:04:30]: ***  [, Level 0]: 'Cylox.♥' has left the game
+[2021-04-03 09:04:30]: ***  [, Level 0]: 'Cylox♥' has left the game
+[2021-04-03 09:04:35]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-03 09:04:35]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' has left the game
+[2021-04-03 09:04:37]: ***  [, Level 0]: 'nennybaba' entered and joined the game
+[2021-04-03 09:04:37]: any [404, Level 37]: ERROR: hi
+[2021-04-03 09:04:40]: ***  [, Level 0]: '(1)Λtlantis Ψ' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 09:04:40]: ***  [, Level 0]: 'Λtlantis Ψ' has left the game (Timeout)
