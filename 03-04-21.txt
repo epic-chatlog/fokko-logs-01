@@ -3030,3 +3030,5 @@
 [2021-04-03 04:22:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-03 04:22:08]: Random Guy [, Level 40]: ✞|koro:
 [2021-04-03 04:22:13]: Random Guy [, Level 40]: ✞|koro: dude
+[2021-04-03 04:22:41]: ***  [, Level 0]: '[D] Sutzer' has left the game
+[2021-04-03 04:22:41]: ***  [, Level 0]: 'Sutzer' has left the game
