@@ -3622,3 +3622,5 @@
 [2021-04-03 05:06:38]: ***  [, Level 0]: '(1)kais' has left the game (Timeout)
 [2021-04-03 05:06:38]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
 [2021-04-03 05:06:44]: Kezo [FookinLads, Level 41]: mamikral011: endless noob
+[2021-04-03 05:06:51]: mamikral011 [, Level 25]: Kezo:
+[2021-04-03 05:07:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
