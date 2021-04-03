@@ -9391,3 +9391,7 @@
 [2021-04-03 11:31:47]: ***  [, Level 0]: Keø is on a killing spree with 5 blocks
 [2021-04-03 11:32:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-03 11:32:21]: bob [MNKY, Level 36]: Keø:
+[2021-04-03 11:32:24]: bob [MNKY, Level 36]: war
+[2021-04-03 11:32:28]: ***  [, Level 0]: '(1)Λtlantis Ψ' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 11:32:28]: ***  [, Level 0]: 'Λtlantis Ψ' has left the game (Timeout)
+[2021-04-03 11:32:35]: BulgarianTee [xSD7, Level 0]: Kezo: Keø: go team against 404 and Terston and Heavy?
