@@ -9084,3 +9084,5 @@
 [2021-04-03 11:11:43]: ***  [, Level 0]: '✯ |toxicdaddy' has left the game
 [2021-04-03 11:11:43]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
 [2021-04-03 11:11:55]: kais [, Level 65]: RQ
+[2021-04-03 11:12:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-03 11:12:07]: ***  [, Level 0]: Kezo is on a killing spree with 10 blocks
