@@ -10413,3 +10413,5 @@
 [2021-04-03 13:12:58]: Isegrin [, Level 54]: pidr
 [2021-04-03 13:13:25]: Isegrin [, Level 54]: BLIET
 [2021-04-03 13:13:38]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-03 13:14:11]: Isegrin [, Level 54]: NEI
+[2021-04-03 13:14:20]: Isegrin [, Level 54]: sun.slow(y): pidar
