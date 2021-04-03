@@ -11391,3 +11391,5 @@
 [2021-04-03 15:06:47]: ***  [, Level 0]: 'KoRaPcz' entered and joined the game
 [2021-04-03 15:06:47]: ***  [, Level 0]: 'Shrimp' joined the spectators
 [2021-04-03 15:06:50]: ***  [, Level 0]: 'Shrimp' joined the game
+[2021-04-03 15:07:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-03 15:07:03]: ***  [, Level 0]: 'Λtlantis Ψ' changed name to 'x7|Supers'
