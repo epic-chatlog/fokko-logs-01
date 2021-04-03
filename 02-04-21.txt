@@ -13016,3 +13016,4 @@
 [2021-04-02 17:27:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-02 17:29:29]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
 [2021-04-02 17:29:58]: ***  [, Level 0]: '(2)Kirito' has left the game
+[2021-04-02 17:30:17]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
