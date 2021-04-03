@@ -1976,3 +1976,6 @@
 [2021-04-03 02:27:30]: ChillerDragon.* [|*KoG*|, Level 41]: GOLD: aide :)
 [2021-04-03 02:27:33]: ***  [, Level 0]: 'Boti.' would have timed out, but can use timeout protection now
 [2021-04-03 02:27:36]: |ΛnץOиe| [, Level 0]: GOLD: ptdr je l'ai aps aidé kestu dis pelo
+[2021-04-03 02:27:47]: ***  [, Level 0]: 'x7|JustRace.' entered and joined the game
+[2021-04-03 02:27:51]: ***  [, Level 0]: 'GODLIKe.' has left the game
+[2021-04-03 02:27:51]: ***  [, Level 0]: 'GODLIKe' has left the game
