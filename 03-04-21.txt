@@ -7343,3 +7343,5 @@
 [2021-04-03 09:05:39]: mamikral011 [, Level 25]: ERROR:
 [2021-04-03 09:05:41]: FULL WAR [, Level 0]: ZEUS: sory my ping
 [2021-04-03 09:05:53]: ***  [, Level 0]: '(1)Rainbow Tee' changed name to 'Rainbow Tee'
+[2021-04-03 09:06:17]: ***  [, Level 0]: 'nennybaba' would have timed out, but can use timeout protection now
+[2021-04-03 09:06:17]: ***  [, Level 0]: 'Keø' entered and joined the game
