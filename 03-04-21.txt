@@ -3799,3 +3799,6 @@
 [2021-04-03 05:17:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-03 05:17:02]: [D] BC|Tixnix [BC, Level 25]: |HolyHo|: HELP XD
 [2021-04-03 05:17:07]: mamikral011 [, Level 25]: ►AmirianYA◄: stoppp
+[2021-04-03 05:17:11]: ***  [, Level 0]: 'K1M9N' joined the spectators
+[2021-04-03 05:17:15]: ***  [, Level 0]: 'K1M9N' joined the game
+[2021-04-03 05:17:19]: Random Guy [, Level 40]: HeavyGeneral:
