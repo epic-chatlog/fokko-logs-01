@@ -7599,3 +7599,4 @@
 [2021-04-03 09:31:21]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
 [2021-04-03 09:31:30]: ***  [, Level 0]: 'Kyrma' entered and joined the game
 [2021-04-03 09:31:31]: lolpoep [Ape, Level 16]: t/spec
+[2021-04-03 09:31:39]: ***  [, Level 0]: WarHammer finished in: 1 minute(s) 55.30 second(s)
