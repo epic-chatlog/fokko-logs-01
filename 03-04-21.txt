@@ -4883,3 +4883,5 @@
 [2021-04-03 06:24:54]: Rock [, Level 15]: yes
 [2021-04-03 06:24:58]: ***  [, Level 0]: Chillingo is on a killing spree with 15 blocks
 [2021-04-03 06:25:01]: ***  [, Level 0]: Chillingo's killing spree was ended by ~DemoizL~ (15 blocks)
+[2021-04-03 06:25:03]: Rock [, Level 15]: go left
+[2021-04-03 06:25:04]: Rock [, Level 15]: yes
