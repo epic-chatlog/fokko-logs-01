@@ -80,3 +80,5 @@
 [2021-04-03 00:11:46]: ***  [, Level 0]: '*NigGa_' has left the game
 [2021-04-03 00:11:48]: Boti. [.bad, Level 32]: error közbe így melletünk
 [2021-04-03 00:11:50]: Boti. [.bad, Level 32]: XD
+[2021-04-03 00:11:56]: Boti. [.bad, Level 32]: chilles
+[2021-04-03 00:12:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
