@@ -10353,3 +10353,4 @@
 [2021-04-03 12:58:07]: Fearless [FookinLads, Level 40]: Asta:  no jotaro
 [2021-04-03 12:58:08]: sun.slow(y) [sunrise., Level 35]: Fearless: /w
 [2021-04-03 12:58:11]: Asta [FookinLads, Level 43]: Fearless:  eheh xD
+[2021-04-03 12:58:29]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
