@@ -1849,3 +1849,5 @@
 [2021-04-03 02:20:32]: ChillerDragon.* [|*KoG*|, Level 41]: power: he can speak eng
 [2021-04-03 02:20:32]: GOLD [404, Level 41]: power: ?
 [2021-04-03 02:20:33]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
+[2021-04-03 02:20:34]: GOLD [404, Level 41]: power: ok
+[2021-04-03 02:20:44]: ***  [, Level 0]: YelloWorlD's killing spree was ended by Random Guy (14 blocks)
