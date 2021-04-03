@@ -1072,3 +1072,9 @@
 [2021-04-03 01:46:54]: kiøn1029 [.bad, Level 25]: XD
 [2021-04-03 01:46:57]: ***  [, Level 0]: '(1)Boti.' changed name to 'Kezo'
 [2021-04-03 01:46:57]: [D] Boti. [.bad, Level 27]: ez a megoldás
+[2021-04-03 01:47:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-03 01:47:01]: kiøn1029 [.bad, Level 25]: így hagyod az egészet
+[2021-04-03 01:47:01]: ♥TAKO♥ [, Level 24]: Kezo:  knknknkknkn
+[2021-04-03 01:47:05]: Kezo [FookinLads, Level 41]: ♥TAKO♥: efm bebegim
+[2021-04-03 01:47:08]: kiøn1029 [.bad, Level 25]: 1 évig ki nem kapcsolod a géped
+[2021-04-03 01:47:10]: [D] Boti. [.bad, Level 27]: este is afkolok majd végig
