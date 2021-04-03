@@ -5530,3 +5530,6 @@
 [2021-04-03 07:12:14]: ***  [, Level 0]: 'Nudelsaft c:' joined the spectators
 [2021-04-03 07:12:18]: ***  [, Level 0]: 'Nudelsaft c:' joined the game
 [2021-04-03 07:12:21]: __init__(self): [, Level 0]: Isegrin: what language is that ?? :D
+[2021-04-03 07:12:27]: Isegrin [, Level 54]: __init__(self):: russian :-D
+[2021-04-03 07:12:34]: ***  [, Level 0]: cunt is on a killing spree with 5 blocks
+[2021-04-03 07:12:35]: (1)NetFlix [, Level 14]: ᕦ( ͡° ͜ʖ ͡°)ᕤ
