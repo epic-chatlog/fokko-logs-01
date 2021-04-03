@@ -4234,3 +4234,9 @@
 [2021-04-03 05:39:40]: Fearless [FookinLads, Level 40]: omg
 [2021-04-03 05:39:41]: f"{self.name}" [, Level 18]: lolpoep:
 [2021-04-03 05:39:42]: Fearless [FookinLads, Level 40]: i got rqainbow
+[2021-04-03 05:39:43]: f"{self.name}" [, Level 18]: power:
+[2021-04-03 05:39:46]: f"{self.name}" [, Level 18]: lolpoep: sry
+[2021-04-03 05:39:46]: ***  [, Level 0]: 'comic' has left the game
+[2021-04-03 05:39:51]: ***  [, Level 0]: ### '[INFO]' CTRL+SHIFT+Q = RAINBOW
+[2021-04-03 05:39:51]: Fearless [FookinLads, Level 40]: comic XAXAXAXa
+[2021-04-03 05:39:52]: lolpoep [, Level 15]: f"{self.name}": wat
