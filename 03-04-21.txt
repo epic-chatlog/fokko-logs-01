@@ -7198,3 +7198,6 @@
 [2021-04-03 08:54:04]: [D] mamikral011 [, Level 20]: ERROR.:
 [2021-04-03 08:54:05]: ***  [, Level 0]: 'вłøøđcave' has left the game
 [2021-04-03 08:54:05]: ***  [, Level 0]: 'вłøøđωave' has left the game
+[2021-04-03 08:54:11]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 08:54:15]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-03 08:54:20]: Pigie♥ [♥, Level 36]: ERROR: can i ples farm in police?
