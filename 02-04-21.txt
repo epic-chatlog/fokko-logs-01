@@ -13957,3 +13957,4 @@
 [2021-04-02 23:42:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-02 23:42:44]: ERROR [404, Level 73]: stop
 [2021-04-02 23:42:48]: ERROR [404, Level 73]: stay there
+[2021-04-02 23:43:34]: ***  [, Level 0]: 'lol' entered and joined the game
