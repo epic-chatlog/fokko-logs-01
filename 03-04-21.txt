@@ -8515,3 +8515,6 @@
 [2021-04-03 10:35:19]:   [, Level 0]: [D]Torento: give me laser
 [2021-04-03 10:35:21]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-03 10:35:27]:   [, Level 0]: [D]Torento: my on infinity
+[2021-04-03 10:35:31]:   [, Level 0]: [D]Torento: Rem's dummy:
+[2021-04-03 10:35:35]:   [, Level 0]: [D]Torento: give laser
+[2021-04-03 10:35:40]:   [, Level 0]: [D]Torento: focus
