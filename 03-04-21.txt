@@ -5644,3 +5644,5 @@
 [2021-04-03 07:22:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-03 07:22:11]: Random Guy [, Level 40]: »Amirian YA«: so
 [2021-04-03 07:22:18]: Random Guy [, Level 40]: »Amirian YA«: i should wait
+[2021-04-03 07:22:21]: ***  [, Level 0]: 'SAUD' entered and joined the game
+[2021-04-03 07:22:31]:   [, Level 0]: SAUD: Λtlantis Ψ:  yo back
