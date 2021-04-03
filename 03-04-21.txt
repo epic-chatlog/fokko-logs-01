@@ -743,3 +743,7 @@
 [2021-04-03 01:29:56]: hyper [CrAzY, Level 0]: ChillerDragon: suck my dick
 [2021-04-03 01:29:57]: kiøn1029 [.bad, Level 25]: igen
 [2021-04-03 01:30:00]: ***  [, Level 0]: '(1)kais' entered and joined the game
+[2021-04-03 01:30:07]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
+[2021-04-03 01:30:10]: ***  [, Level 0]: 'WarHammer' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 01:30:10]: ***  [, Level 0]: 'WarHammer'' has left the game (Timeout)
+[2021-04-03 01:30:13]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
