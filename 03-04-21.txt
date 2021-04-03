@@ -2884,3 +2884,6 @@
 [2021-04-03 03:56:04]: ***  [, Level 0]: '(1)|HolyHo|°' has left the game (Timeout)
 [2021-04-03 03:56:04]: ***  [, Level 0]: '(1)|HolyHo|' has left the game (Timeout)
 [2021-04-03 03:56:14]: Random Guy [, Level 40]: MELP
+[2021-04-03 03:56:17]: |MıssOяchiĐ| [, Level 48]: sL|whutasme: m'en balec de ta vie mdrr
+[2021-04-03 03:56:17]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-03 03:56:26]: sL|cunt [, Level 0]: xD
