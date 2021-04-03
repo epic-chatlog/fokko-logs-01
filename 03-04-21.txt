@@ -10646,3 +10646,5 @@
 [2021-04-03 13:43:45]: УБИВАТЬ! [, Level 0]: NUB
 [2021-04-03 13:43:46]: sun.slow(y) [sunrise., Level 35]: luck
 [2021-04-03 13:43:47]: sun.slow(y) [sunrise., Level 35]: lag
+[2021-04-03 13:43:50]: sun.slow(y) [sunrise., Level 35]: ez nubn
+[2021-04-03 13:43:57]: УБИВАТЬ! [, Level 0]: NUB)
