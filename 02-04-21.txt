@@ -13489,3 +13489,4 @@
 [2021-04-02 19:28:29]: weqe [MNKY, Level 11]: ✯|Not Bulash: war ?
 [2021-04-02 19:28:35]: ✯|Not Bulash [|Supressed|, Level 0]: weqe: if u want :D
 [2021-04-02 19:32:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-02 19:32:16]: ***  [, Level 0]: 'weqe' has left the game
