@@ -13722,3 +13722,6 @@
 [2021-04-02 22:33:02]: weqe [MNKY, Level 11]: wtf SAUD
 [2021-04-02 22:33:03]: SAUD [, Level 0]: duder
 [2021-04-02 22:33:08]: SAUD [, Level 0]: wtff
+[2021-04-02 22:33:20]: weqe [MNKY, Level 11]: Flupper: u love me ?
+[2021-04-02 22:33:23]: Flupper [, Level 13]: yes
+[2021-04-02 22:33:26]: weqe [MNKY, Level 11]: me too\
