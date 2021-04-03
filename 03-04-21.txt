@@ -3361,3 +3361,6 @@
 [2021-04-03 04:51:16]: ***  [, Level 0]: 'bruh' entered and joined the game
 [2021-04-03 04:51:36]: cookie [, Level 0]: oof
 [2021-04-03 04:51:46]: cookie [, Level 0]: yeah i dont need my dummy
+[2021-04-03 04:52:00]: Falco641 [, Level 18]: Λtlantis Ψ: that was a long war4life
+[2021-04-03 04:52:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-03 04:52:03]: Λtlantis Ψ [ᅟᅟ , Level 13]: ik
