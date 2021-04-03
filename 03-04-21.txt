@@ -4629,3 +4629,5 @@
 [2021-04-03 06:01:48]: (2)NetFlix [, Level 0]: Soros:  come
 [2021-04-03 06:01:50]: ***  [, Level 0]: 'Keø' entered and joined the game
 [2021-04-03 06:01:56]: ***  [, Level 0]: 'Axel ²' has left the game
+[2021-04-03 06:02:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-03 06:02:04]: HeavyGeneral [FookinLads, Level 44]: ~DemoizL~: Dog
