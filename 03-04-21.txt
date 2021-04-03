@@ -3483,3 +3483,5 @@
 [2021-04-03 04:59:41]: ***  [, Level 0]: 'nennybaba' has left the game
 [2021-04-03 04:59:42]: ***  [, Level 0]: Lucas finished in: 7 minute(s)  2.48 second(s)
 [2021-04-03 04:59:45]: ***  [, Level 0]: Soros's killing spree was ended by Falco642 (11 blocks)
+[2021-04-03 04:59:47]: ***  [, Level 0]: 'Simssa' entered and joined the game
+[2021-04-03 04:59:49]: SAUD [, Level 0]: xdd
