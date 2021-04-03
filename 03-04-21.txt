@@ -12015,3 +12015,4 @@
 [2021-04-03 16:34:01]: ***  [, Level 0]: 'Astra Pils' has left the game
 [2021-04-03 16:34:07]: ***  [, Level 0]: '<-_->' entered and joined the game
 [2021-04-03 16:34:44]: ***  [, Level 0]: 'Fichtenmopped' has left the game
+[2021-04-03 16:34:54]: ***  [, Level 0]: 'Lord Txtte' has left the game
