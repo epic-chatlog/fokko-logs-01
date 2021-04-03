@@ -12036,3 +12036,4 @@
 [2021-04-03 16:42:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-03 16:43:16]: (2)УБИВАТ [, Level 0]: gg
 [2021-04-03 16:43:27]: (2)УБИВАТ [, Level 0]: me spawn)
+[2021-04-03 16:44:22]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 5 blocks
