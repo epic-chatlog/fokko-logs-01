@@ -10291,3 +10291,8 @@
 [2021-04-03 12:50:40]: ***  [, Level 0]: '(1)NetFlix' has left the game
 [2021-04-03 12:50:46]: Asta [FookinLads, Level 43]: Cylox:  ♥
 [2021-04-03 12:50:57]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-03 12:51:01]: Asta [FookinLads, Level 43]: Fearless:  ?????
+[2021-04-03 12:51:03]: ***  [, Level 0]: 'Sutzer' entered and joined the game
+[2021-04-03 12:51:06]: Asta [FookinLads, Level 43]: Fearless:  reason ?
+[2021-04-03 12:51:09]: .S L E E P Y' [iPro ♡, Level 0]: gay
+[2021-04-03 12:51:09]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
