@@ -9426,3 +9426,6 @@
 [2021-04-03 11:35:30]: bob [MNKY, Level 36]: koro: get bonus
 [2021-04-03 11:35:32]: Torento [, Level 0]: ку
 [2021-04-03 11:35:37]: BulgarianTee [xSD7, Level 0]: Kirito♥: you war with chiller?
+[2021-04-03 11:35:44]: Kirito♥ [♥, Level 33]: BulgarianTee: no
+[2021-04-03 11:35:45]: bob [MNKY, Level 36]: koro: u understand english?
+[2021-04-03 11:35:48]: BulgarianTee [xSD7, Level 0]: bob: you war with chiller?
