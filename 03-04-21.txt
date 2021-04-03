@@ -5410,3 +5410,5 @@
 [2021-04-03 07:02:53]: Noob Redis [dum, Level 47]: only with bonus noob
 [2021-04-03 07:02:53]: ***  [, Level 0]: '(1)kais' finished the special race!
 [2021-04-03 07:02:55]: ♥TAKO♥ [, Level 24]: Rock:  NOT AGAİN
+[2021-04-03 07:02:58]: Rock [, Level 15]: Ok
+[2021-04-03 07:03:05]: ♥TAKO♥ [, Level 24]: OK GO
