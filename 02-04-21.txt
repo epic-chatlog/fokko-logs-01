@@ -13107,3 +13107,4 @@
 [2021-04-02 17:53:12]: ***  [, Level 0]: 'Flupper' entered and joined the game
 [2021-04-02 17:53:15]: Kirito♥ [♥, Level 23]: HAHAHAHAH wtf
 [2021-04-02 17:53:15]: ***  [, Level 0]: 'DrugdealerNeutr' entered and joined the game
+[2021-04-02 17:53:28]: ***  [, Level 0]: 'DrugdealerNeutr' has left the game
