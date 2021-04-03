@@ -4083,3 +4083,6 @@
 [2021-04-03 05:30:05]: ***  [, Level 0]: 'K1M9N' joined the game
 [2021-04-03 05:30:08]: Λtlantis Ψ [ᅟᅟ , Level 13]: EZ'
 [2021-04-03 05:30:11]: ***  [, Level 0]: 'Pigie♥' entered and joined the game
+[2021-04-03 05:30:17]:   [, Level 0]: Lucas: f"{self.name}": nope
+[2021-04-03 05:30:22]: [D] BC|Tixnix [BC, Level 25]: bob: hahahah mit 1 jump und hammer hahahahah noob
+[2021-04-03 05:30:22]:   [, Level 0]: Pigie♥: Kirito♥:
