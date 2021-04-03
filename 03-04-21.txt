@@ -8436,3 +8436,7 @@
 [2021-04-03 10:26:34]: GODLIKe [hax, Level 44]: bu ping ne
 [2021-04-03 10:27:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-03 10:27:09]: Rem's bae [, Level 42]: koro: helps
+[2021-04-03 10:27:12]: ***  [, Level 0]: 'PANZELKOWY' entered and joined the game
+[2021-04-03 10:27:13]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 10:27:15]: ***  [, Level 0]: 'PANZELKOWY' has left the game
+[2021-04-03 10:27:17]: ***  [, Level 0]: 'gian x' joined the game
