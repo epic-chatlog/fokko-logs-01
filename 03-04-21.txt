@@ -10485,3 +10485,4 @@
 [2021-04-03 13:21:42]: GODLIKe [hax, Level 44]: Isegrin: nub
 [2021-04-03 13:21:47]: Isegrin [, Level 54]: GODLIKe: pidr
 [2021-04-03 13:21:47]: Lucas [THECEPS, Level 33]: Isegrin: XDE
+[2021-04-03 13:22:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
