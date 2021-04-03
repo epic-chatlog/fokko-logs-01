@@ -13344,3 +13344,4 @@
 [2021-04-02 18:43:13]: SAUD [, Level 0]: weqe:
 [2021-04-02 18:44:10]: SAUD [, Level 0]: (1)sL|whutasme:
 [2021-04-02 18:44:21]: SAUD [, Level 0]: sL|whutasme:
+[2021-04-02 18:44:51]: ***  [, Level 0]: 'nameless tee' has left the game
