@@ -11703,3 +11703,5 @@
 [2021-04-03 15:39:17]: ***  [, Level 0]: 'ᅟᅟᅟ' has left the game
 [2021-04-03 15:39:17]: ***  [, Level 0]: 'ᅟᅟᅟᅟ' has left the game
 [2021-04-03 15:39:56]: west morland [michi, Level 36]: help
+[2021-04-03 15:40:02]: west morland [michi, Level 36]: please
+[2021-04-03 15:40:07]: west morland [michi, Level 36]: i want peace
