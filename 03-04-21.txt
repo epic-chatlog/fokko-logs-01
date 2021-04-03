@@ -5636,3 +5636,5 @@
 [2021-04-03 07:20:11]: ***  [, Level 0]: 'Virus' entered and joined the game
 [2021-04-03 07:20:20]: cookie [, Level 0]: [D] ✯ |toxicd:  no its not my frend but yeah
 [2021-04-03 07:20:21]: »Amirian YA« [YAMIRIANA�, Level 0]: Random Guy:
+[2021-04-03 07:20:30]: Random Guy [, Level 40]: »Amirian YA«:
+[2021-04-03 07:20:36]: Random Guy [, Level 40]: »Amirian YA«: ?\c
