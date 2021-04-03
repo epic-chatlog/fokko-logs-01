@@ -10147,3 +10147,5 @@
 [2021-04-03 12:36:33]: ***  [, Level 0]: 'Fearless' entered and joined the game
 [2021-04-03 12:36:36]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-03 12:36:36]: (1)kais [, Level 58]: Kirito♥: no
+[2021-04-03 12:36:45]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-03 12:36:56]: (1)kais [, Level 58]: Kirito♥: you just live with a german family in an english language country
