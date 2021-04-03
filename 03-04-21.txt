@@ -10388,3 +10388,5 @@
 [2021-04-03 13:05:00]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
 [2021-04-03 13:05:00]: ***  [, Level 0]: '✯ |toxicdaddy' has left the game
 [2021-04-03 13:05:10]: (1)kais [, Level 58]: ez RQ
+[2021-04-03 13:05:17]: Isegrin [, Level 54]: blied
+[2021-04-03 13:05:19]: ***  [, Level 0]: 'sun.slow(y)' has left the game
