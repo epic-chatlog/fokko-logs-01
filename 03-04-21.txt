@@ -11799,3 +11799,4 @@
 [2021-04-03 15:52:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-03 15:52:03]: x7|KshKsh99 [xSD7, Level 37]: x7|Supers: go to my dummy ihave 100k there
 [2021-04-03 15:52:08]: x7|Supers [xSD7ᅟ , Level 39]: where
+[2021-04-03 15:52:16]: x7|KshKsh99 [xSD7, Level 37]: endless
