@@ -321,3 +321,4 @@
 [2021-04-03 00:52:44]: ***  [, Level 0]: '(1)GODLIKe' has left the game
 [2021-04-03 00:53:15]: ***  [, Level 0]: 'Cylox.♥' has left the game (Timeout)
 [2021-04-03 00:53:15]: ***  [, Level 0]: 'Cylox♥' has left the game (Timeout)
+[2021-04-03 00:53:32]: ***  [, Level 0]: 'dima tee' entered and joined the game
