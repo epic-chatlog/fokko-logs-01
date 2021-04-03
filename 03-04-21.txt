@@ -10350,3 +10350,6 @@
 [2021-04-03 12:57:58]: sun.slow(y) [sunrise., Level 35]: Fearless: yeah give nr
 [2021-04-03 12:58:01]: Asta [FookinLads, Level 43]: Fearless:  u see my skin ?
 [2021-04-03 12:58:03]: Fearless [FookinLads, Level 40]: sun.slow(y):  where to send
+[2021-04-03 12:58:07]: Fearless [FookinLads, Level 40]: Asta:  no jotaro
+[2021-04-03 12:58:08]: sun.slow(y) [sunrise., Level 35]: Fearless: /w
+[2021-04-03 12:58:11]: Asta [FookinLads, Level 43]: Fearless:  eheh xD
