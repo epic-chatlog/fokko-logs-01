@@ -7284,3 +7284,4 @@
 [2021-04-03 09:00:14]: ***  [����, Level 0]: 'gian x' joined the spectators
 [2021-04-03 09:00:18]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-03 09:00:22]: ***  [, Level 0]: 'Wipper' entered and joined the game
+[2021-04-03 09:00:48]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
