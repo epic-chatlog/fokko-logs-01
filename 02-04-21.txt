@@ -13874,3 +13874,5 @@
 [2021-04-02 23:16:09]: Flupper [, Level 13]: lets play another map
 [2021-04-02 23:16:15]: ***  [, Level 0]: 'BulgarianTee' entered and joined the game
 [2021-04-02 23:16:16]: Flupper [, Level 13]: until i leave
+[2021-04-02 23:16:21]: Flupper [, Level 13]: HIII
+[2021-04-02 23:16:28]: BulgarianTee [xSD7, Level 0]: yo Flupper
