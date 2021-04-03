@@ -10903,3 +10903,6 @@
 [2021-04-03 14:11:50]: S Y T H N [iPro, Level 37]: maasto
 [2021-04-03 14:11:51]: mamikral011 [, Level 25]: :D
 [2021-04-03 14:11:59]: mamikral011 [, Level 25]: ✯ |toxicdaddy: sorry I cant bro
+[2021-04-03 14:12:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-03 14:12:09]: S Y T H N [iPro, Level 37]: [D] ✯ |toxicd: boi!!
+[2021-04-03 14:12:13]: [D] ✯ |toxicd [|Supressed, Level 21]: S Y T H N: was
