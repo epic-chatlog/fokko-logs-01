@@ -13767,3 +13767,5 @@
 [2021-04-02 22:42:19]: SAUD [, Level 0]: what
 [2021-04-02 22:42:23]: Flupper [, Level 13]: nvm
 [2021-04-02 22:42:46]: Flupper [, Level 13]: there is a 10 sec cool down
+[2021-04-02 22:42:50]: Flupper [, Level 13]: for portal
+[2021-04-02 22:42:54]: SAUD [, Level 0]: ty
