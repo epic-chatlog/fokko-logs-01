@@ -13015,3 +13015,4 @@
 [2021-04-02 17:22:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-02 17:27:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-02 17:29:29]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
+[2021-04-02 17:29:58]: ***  [, Level 0]: '(2)Kirito' has left the game
