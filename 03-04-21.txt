@@ -7481,3 +7481,4 @@
 [2021-04-03 09:20:04]:   [, Level 0]: weqe: SAUD:
 [2021-04-03 09:20:34]: ***  [, Level 0]: [D] mamikral011 is on a killing spree with 10 blocks
 [2021-04-03 09:20:36]: ***  [, Level 0]: 'Karol Woźniak' entered and joined the game
+[2021-04-03 09:20:41]: ***  [, Level 0]: 'Karol Woźniak' has left the game
