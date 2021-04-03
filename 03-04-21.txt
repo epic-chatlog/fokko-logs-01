@@ -7738,3 +7738,6 @@
 [2021-04-03 09:43:08]: ***  [, Level 0]: 'Rem's dummy' entered and joined the game
 [2021-04-03 09:43:11]: ***  [, Level 0]: 'Rainbow Tee' has left the game
 [2021-04-03 09:43:32]: (2)SAUD [, Level 20]: bye
+[2021-04-03 09:43:38]: ***  [, Level 0]: 'SAUD' has left the game
+[2021-04-03 09:43:38]: ***  [, Level 0]: '(2)SAUD' has left the game
+[2021-04-03 09:43:48]: ***  [, Level 0]: 'gian x' joined the spectators
