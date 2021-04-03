@@ -9651,3 +9651,4 @@
 [2021-04-03 11:54:17]: ***  [, Level 0]: 'Lucas' entered and joined the game
 [2021-04-03 11:54:18]: Kezo{D} [FookinLads, Level 38]: CKA3A4NIK[NR]: no
 [2021-04-03 11:54:18]: CKA3A4NIK[NR] [Night Raid, Level 35]: t
+[2021-04-03 11:54:22]: CKA3A4NIK[NR] [Night Raid, Level 35]: HeavyGeneral:  Привет ты тут?
