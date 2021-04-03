@@ -3094,3 +3094,4 @@
 [2021-04-03 04:31:18]: ***  [, Level 0]: Lucas finished in: 2 minute(s) 19.86 second(s)
 [2021-04-03 04:31:18]: ***  [, Level 0]: New record: 1 minute(s) 18.52 second(s) better.
 [2021-04-03 04:31:23]: Random Guy [, Level 40]: go up
+[2021-04-03 04:31:47]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
