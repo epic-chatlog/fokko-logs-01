@@ -4453,3 +4453,6 @@
 [2021-04-03 05:51:34]: |HolyHo|° [, Level 28]: bob: no cocksucker
 [2021-04-03 05:51:36]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
 [2021-04-03 05:51:36]: (2)Λtlantis Ψ [ᅟᅟ , Level 0]: gpo
+[2021-04-03 05:51:45]: ***  [, Level 0]: 'Λtlantis Ψ' entered and joined the game
+[2021-04-03 05:51:48]: Fearless [FookinLads, Level 40]: hey Rimso
+[2021-04-03 05:51:50]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
