@@ -12053,3 +12053,4 @@
 [2021-04-03 16:49:44]: ***  [, Level 0]: fomin is on a killing spree with 5 blocks
 [2021-04-03 16:49:53]: ***  [, Level 0]: fomjn is on a killing spree with 5 blocks
 [2021-04-03 16:50:01]: ***  [, Level 0]: fomin's killing spree was ended by [RUS] (6 blocks)
+[2021-04-03 16:50:17]: ***  [, Level 0]: fomjn is on a killing spree with 10 blocks
