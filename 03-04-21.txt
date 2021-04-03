@@ -5462,3 +5462,6 @@
 [2021-04-03 07:06:23]: [D] ✯ |toxicd [|Supressed, Level 20]: cookie: :)
 [2021-04-03 07:06:25]: ♥TAKO♥ [, Level 24]: sαвєя:  knk dc bak ya flşgh
 [2021-04-03 07:06:26]: cookie [, Level 0]: [D] ✯ |toxicd:  oke
+[2021-04-03 07:06:50]:   [, Level 0]: cunt: f"{self.name}": comunist time
+[2021-04-03 07:06:57]: ***  [, Level 0]: '(1)|HolyHo|°' has left the game (Timeout)
+[2021-04-03 07:06:57]: ***  [, Level 0]: '(1)|HolyHo|' has left the game (Timeout)
