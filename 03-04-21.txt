@@ -10729,3 +10729,5 @@
 [2021-04-03 13:54:44]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-03 13:54:48]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
 [2021-04-03 13:54:49]: mamikral011 [, Level 25]: ♥TAKO♥: çok saol kanka
+[2021-04-03 13:54:58]: ♥TAKO♥ [, Level 24]: mamikral011:  kral için değer
+[2021-04-03 13:55:02]: mamikral011 [, Level 25]: ♥TAKO♥: :D
