@@ -7936,3 +7936,4 @@
 [2021-04-03 09:55:44]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-03 09:55:48]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-03 09:56:04]: bob [MNKY, Level 36]: HAHA
+[2021-04-03 09:56:37]: ***  [, Level 0]: Chillingo is on a killing spree with 5 blocks
