@@ -107,3 +107,7 @@
 [2021-04-03 00:14:21]: (1)ビール|Ze [Drunks, Level 10]: you s good
 [2021-04-03 00:14:31]: (1)ビール|Ze [Drunks, Level 10]: ops
 [2021-04-03 00:14:45]: (1)ビール|Ze [Drunks, Level 10]: do you)
+[2021-04-03 00:15:06]: (1)ビール|Ze [Drunks, Level 10]: soso
+[2021-04-03 00:15:06]: Boti. [.bad, Level 32]: what
+[2021-04-03 00:15:12]: ERROR. [404, Level 55]: what what
+[2021-04-03 00:15:15]: Boti. [.bad, Level 32]: idk
