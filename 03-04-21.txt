@@ -2401,3 +2401,6 @@
 [2021-04-03 03:09:11]: ✯ |toxicdaddy [|Supressed, Level 24]: dsfcd myl
 [2021-04-03 03:09:12]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-03 03:09:15]: ***  [, Level 0]: '(1)ChillerDragon' changed name to '(2)ChillerDragon'
+[2021-04-03 03:09:16]: |HolyHo| [, Level 18]: [D] Fearless:
+[2021-04-03 03:09:26]: Mista bombastic [TrRShClNrRs, Level 40]: HeavyGeneral: how heavy?
+[2021-04-03 03:09:27]: ***  [, Level 0]: '[D] Fearless' has left the game
