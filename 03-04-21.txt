@@ -9500,3 +9500,6 @@
 [2021-04-03 11:42:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-03 11:42:07]: CKA3A4NIK[NR] [Night Raid, Level 35]: Keø:
 [2021-04-03 11:42:14]: CKA3A4NIK[NR] [Night Raid, Level 35]: bob:  << XD
+[2021-04-03 11:42:22]: CKA3A4NIK[NR] [Night Raid, Level 35]: bob:  Who he?
+[2021-04-03 11:42:26]: bob [MNKY, Level 36]: koro
+[2021-04-03 11:42:29]: CKA3A4NIK[NR] [Night Raid, Level 35]: bob:  aa
