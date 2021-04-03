@@ -13788,3 +13788,5 @@
 [2021-04-02 22:48:40]: ***  [, Level 0]: 'teefrank' has left the game
 [2021-04-02 22:49:26]: Flupper [, Level 13]: look]
 [2021-04-02 22:49:30]: Flupper [, Level 13]: wait
+[2021-04-02 22:50:05]: SAUD [, Level 20]: WHAT
+[2021-04-02 22:50:10]: SAUD [, Level 20]: xD
