@@ -10688,3 +10688,7 @@
 [2021-04-03 13:50:19]: ***  [, Level 0]: 'ES' has left the game (Timeout)
 [2021-04-03 13:50:33]: ✯ | FayZoR [|Supressed|, Level 42]: x7|Flipper:
 [2021-04-03 13:50:35]: ***  [, Level 0]: 'Neosia' entered and joined the game
+[2021-04-03 13:50:54]: x7|Flipper [xSD7, Level 39]: why
+[2021-04-03 13:50:56]: x7|Flipper [xSD7, Level 39]: i need
+[2021-04-03 13:50:57]: ✯ | FayZoR [|Supressed|, Level 42]: x7|Flipper: i just have 3
+[2021-04-03 13:51:00]: x7|Flipper [xSD7, Level 39]: oh ok
