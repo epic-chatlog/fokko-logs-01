@@ -10502,3 +10502,5 @@
 [2021-04-03 13:24:02]: sun.slow(y) [sunrise., Level 0]: DWAOLPNIKODAWIJNODN
 [2021-04-03 13:24:03]: Isegrin [, Level 54]: ahah
 [2021-04-03 13:24:06]: Isegrin [, Level 54]: BLIET
+[2021-04-03 13:24:17]: ***  [, Level 0]: 'GOLD' has left the game (Timeout)
+[2021-04-03 13:24:17]: ***  [, Level 0]: 'YelloWorlD' has left the game (Timeout)
