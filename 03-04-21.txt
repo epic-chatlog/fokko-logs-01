@@ -10394,3 +10394,7 @@
 [2021-04-03 13:05:47]: ***  [, Level 0]: 'OLALAA' has left the game
 [2021-04-03 13:06:21]: ***  [, Level 0]: '(2)NetFlix' has left the game (Timeout)
 [2021-04-03 13:07:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-03 13:07:25]: Isegrin [, Level 54]: XD
+[2021-04-03 13:07:25]: BULLETBOT [, Level 0]: dd
+[2021-04-03 13:07:26]: BULLETBOT [, Level 0]: tcxxd
+[2021-04-03 13:07:27]: BULLETBOT [, Level 0]: sdxdxd
