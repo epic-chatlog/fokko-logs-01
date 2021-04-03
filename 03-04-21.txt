@@ -4397,3 +4397,9 @@
 [2021-04-03 05:48:39]: bob [MNKY, Level 36]: f"{self.name}": war
 [2021-04-03 05:48:40]:   [, Level 0]: [INFO]: ♥TAKO♥: 0.7
 [2021-04-03 05:48:44]: SAUD [, Level 20]: Λtlantis Ψ:
+[2021-04-03 05:48:50]: cookie [, Level 0]: bob: hi whant war
+[2021-04-03 05:48:51]: ~DemoizL~ [, Level 39]: f"{self.name}": idiot
+[2021-04-03 05:48:55]: Λtlantis Ψ [ᅟᅟ , Level 13]: SAUD:  ?
+[2021-04-03 05:48:58]: cookie [, Level 0]: bob: hi kill me
+[2021-04-03 05:48:59]: ***  [, Level 0]: '(1)Λtlantis Ψ' entered and joined the game
+[2021-04-03 05:48:59]: mamikral011 [, Level 25]: el champeon: war?
