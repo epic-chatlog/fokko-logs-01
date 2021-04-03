@@ -3667,3 +3667,7 @@
 [2021-04-03 05:09:34]: cookie [, Level 0]: give it
 [2021-04-03 05:09:37]: bob [MNKY, Level 36]: cookie: care
 [2021-04-03 05:09:38]: (1)-_- [, Level 0]: any:  why
+[2021-04-03 05:09:40]: ***  [, Level 0]: 'K1M9N' entered and joined the game
+[2021-04-03 05:09:49]: Random Guy [, Level 40]: HeavyGeneral: you are unpraked person
+[2021-04-03 05:09:51]: ***  [, Level 0]: 'K1M9N' joined the spectators
+[2021-04-03 05:09:51]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
