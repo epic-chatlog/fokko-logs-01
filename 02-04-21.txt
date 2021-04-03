@@ -13942,3 +13942,5 @@
 [2021-04-02 23:36:40]: ***  [, Level 0]: '*NigGa_' has left the game
 [2021-04-02 23:37:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-02 23:37:41]: ***  [, Level 0]: 'teee' entered and joined the game
+[2021-04-02 23:37:59]: ビール|Zero [Drunks, Level 26]: ERROR:
+[2021-04-02 23:38:07]: (1)SAUD [, Level 13]: STOP
