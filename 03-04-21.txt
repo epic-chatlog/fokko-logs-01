@@ -9338,3 +9338,7 @@
 [2021-04-03 11:27:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-03 11:27:19]: bob [MNKY, Level 36]: noob
 [2021-04-03 11:27:41]: Λtlantis Ψ [ᅟᅟ , Level 13]: bob:  help?
+[2021-04-03 11:27:45]: bob [MNKY, Level 36]: where
+[2021-04-03 11:27:48]: Λtlantis Ψ [ᅟᅟ , Level 13]: bob:  up
+[2021-04-03 11:27:49]: Λtlantis Ψ [ᅟᅟ , Level 13]: spawn
+[2021-04-03 11:27:53]: Λtlantis Ψ [ᅟᅟ , Level 13]: right
