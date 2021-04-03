@@ -11829,3 +11829,4 @@
 [2021-04-03 15:55:18]: ***  [, Level 0]: 'ThePG' joined the game
 [2021-04-03 15:55:56]: (1)Kirito [, Level 0]: BULLETBOT: wow
 [2021-04-03 15:55:59]: BULLETBOT [, Level 0]: XD
+[2021-04-03 15:56:04]: ***  [, Level 0]: 'ThePG' has left the game
