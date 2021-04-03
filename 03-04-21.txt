@@ -4573,3 +4573,6 @@
 [2021-04-03 05:58:01]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
 [2021-04-03 05:58:04]: Axel [TrRShClNrRs, Level 30]: |HolyHo| Maatiteusz hi
 [2021-04-03 05:58:05]:   [, Level 0]: Soros: f"{self.name}": I got one
+[2021-04-03 05:58:10]: f"{self.name}" [, Level 0]: Falco642: troll with me :D
+[2021-04-03 05:58:10]: |HolyHo|° [, Level 28]: Axel: hi
+[2021-04-03 05:58:14]:   [, Level 0]: Falco642: ok
