@@ -8369,3 +8369,6 @@
 [2021-04-03 10:21:27]: ***  [, Level 0]: 'Marcisten' entered and joined the game
 [2021-04-03 10:21:27]: ***  [, Level 0]: 'P4Pyr0s' has left the game
 [2021-04-03 10:21:32]: kais [, Level 65]: (1)ERROR: :(
+[2021-04-03 10:21:33]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
+[2021-04-03 10:21:34]: Marcisten [Helper, Level 0]: MAGYAROK
+[2021-04-03 10:21:44]: (1)ERROR [404, Level 40]: GODLIKe:
