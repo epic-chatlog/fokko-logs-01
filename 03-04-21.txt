@@ -11272,3 +11272,5 @@
 [2021-04-03 14:56:30]: ***  [, Level 0]: 'Ghost 2.0.' entered and joined the game
 [2021-04-03 14:56:32]: ***  [, Level 0]: 'Treebeard' has left the game
 [2021-04-03 14:56:41]: x7|zemer [xSD7, Level 0]: Flipper: WHAT DID I DO???
+[2021-04-03 14:56:58]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
+[2021-04-03 14:57:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
