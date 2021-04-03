@@ -4527,3 +4527,10 @@
 [2021-04-03 05:55:49]: [D] mamikral011 [, Level 20]: Rock: war?
 [2021-04-03 05:55:53]: ***  [, Level 0]: 'Axel ²' has left the game
 [2021-04-03 05:55:54]: ***  [, Level 0]: ### 'Fearless' first one to give me 50k i will give 100k
+[2021-04-03 05:56:08]: ***  [, Level 0]: 'хондэй' entered and joined the game
+[2021-04-03 05:56:09]: ***  [, Level 0]: ### 'Fearless' first one to give me 50k i will give 100k
+[2021-04-03 05:56:09]: mamikral011 [, Level 25]: Rock: war?
+[2021-04-03 05:56:12]: [D] mamikral011 [, Level 20]: power2: war
+[2021-04-03 05:56:13]: Soros [, Level 0]: f"{self.name}":
+[2021-04-03 05:56:16]: mamikral011 [, Level 25]: Axel: war
+[2021-04-03 05:56:16]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
