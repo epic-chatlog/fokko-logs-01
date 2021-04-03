@@ -2071,3 +2071,8 @@
 [2021-04-03 02:36:27]: |HolyHo|° [, Level 28]: Red Flag: who r u
 [2021-04-03 02:36:38]: HeavyGeneral [FookinLads, Level 44]: Pizda Mysor xaxa0))
 [2021-04-03 02:36:39]: HeavyGeneral [FookinLads, Level 44]: crineg
+[2021-04-03 02:36:53]: Random Guy [, Level 40]: HeavyGeneral: good kill
+[2021-04-03 02:36:54]: ***  [, Level 0]: HeavyGeneral is on a killing spree with 10 blocks
+[2021-04-03 02:36:56]: ***  [, Level 0]: 'Kiøn1029' has left the game
+[2021-04-03 02:36:56]: ***  [, Level 0]: 'kiøn1029' has left the game
+[2021-04-03 02:37:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
