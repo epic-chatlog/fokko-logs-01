@@ -4841,3 +4841,7 @@
 [2021-04-03 06:22:08]: Rock [, Level 15]: buy
 [2021-04-03 06:22:16]: ***  [, Level 0]: ':)|(:' entered and joined the game
 [2021-04-03 06:22:18]: Rock [, Level 15]: Rimso: can i tell you about server?
+[2021-04-03 06:22:25]: ***  [, Level 0]: Falco642 is on a killing spree with 5 blocks
+[2021-04-03 06:22:26]: ***  [, Level 0]: 'Maatiteusz' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 06:22:29]: Rimso [, Level 2]: I'm logged in
+[2021-04-03 06:22:32]: Rimso [, Level 2]: why not
