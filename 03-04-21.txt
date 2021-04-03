@@ -8383,3 +8383,7 @@
 [2021-04-03 10:22:13]: ***  [, Level 0]: 'gian x' has left the game
 [2021-04-03 10:22:14]: ***  [, Level 0]: 'gian x' entered and joined the game
 [2021-04-03 10:22:18]: Cylox.♥ [♥, Level 0]: Ghost: you block me
+[2021-04-03 10:22:31]: ***  [, Level 0]: 'gian x' has left the game
+[2021-04-03 10:22:32]: ***  [, Level 0]: 'gian x' entered and joined the game
+[2021-04-03 10:22:33]: Cylox.♥ [♥, Level 0]: nah
+[2021-04-03 10:22:34]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
