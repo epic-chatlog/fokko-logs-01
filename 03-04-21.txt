@@ -7147,3 +7147,8 @@
 [2021-04-03 08:50:25]:   [, Level 0]: sun.slow(y): tee in black: need 3vs1 + wb
 [2021-04-03 08:50:26]:   [, Level 0]: sun.slow(y): ggs
 [2021-04-03 08:50:27]: Pigie♥ [♥, Level 36]: Kirito♥: i ned charge taser ...........
+[2021-04-03 08:50:33]: ***  [, Level 0]: 'Cylox.♥' has left the game
+[2021-04-03 08:50:34]: ***  [, Level 0]: 'Cylox.♥' entered and joined the game
+[2021-04-03 08:50:38]: tee in black [², Level 0]: sun.slow(y): yeah yeah hypocrite, whatever
+[2021-04-03 08:50:40]: ***  [, Level 0]: 'muzzy' has left the game
+[2021-04-03 08:50:42]: Pigie♥ [♥, Level 36]: Kirito♥: mean
