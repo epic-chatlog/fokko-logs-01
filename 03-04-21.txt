@@ -9483,3 +9483,5 @@
 [2021-04-03 11:40:00]: bob [MNKY, Level 36]: no taser
 [2021-04-03 11:40:02]: ***  [, Level 0]: 'darkstar' entered and joined the game
 [2021-04-03 11:40:03]: CKA3A4NIK[NR] [Night Raid, Level 35]: Kezo:   you here?d
+[2021-04-03 11:40:06]: ***  [, Level 0]: 'brainless tee' entered and joined the game
+[2021-04-03 11:40:06]: CKA3A4NIK[NR] [Night Raid, Level 35]: Kezo:   you here?
