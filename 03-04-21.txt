@@ -6105,3 +6105,8 @@
 [2021-04-03 07:57:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-03 07:57:03]:   [, Level 0]: (1)ERROR.: (2)SAUD:  fucking stop stayin there
 [2021-04-03 07:57:07]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: Rainbow Tee:  wait there
+[2021-04-03 07:57:09]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: Rainbow Tee:  look up
+[2021-04-03 07:57:12]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: Rainbow Tee:  dont
+[2021-04-03 07:57:13]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: Rainbow Tee:  wait there
+[2021-04-03 07:57:14]: (1)SAUD [, Level 0]: (1)ERROR:  helping my dummy
+[2021-04-03 07:57:18]: Rainbow Tee [KyStiKi, Level 10]: ok
