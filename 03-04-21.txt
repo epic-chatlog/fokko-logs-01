@@ -3054,3 +3054,5 @@
 [2021-04-03 04:26:36]: (1)NetFlix [, Level 14]: kais: how can you get to the super room by the spawn?
 [2021-04-03 04:26:39]: comic [comically, Level 12]: Random Guy: oh ok
 [2021-04-03 04:26:44]: Random Guy [, Level 0]: wait
+[2021-04-03 04:26:46]: ***  [, Level 0]: kais finished in: 121 minute(s) 47.70 second(s)
+[2021-04-03 04:26:47]: Random Guy [, Level 0]: i must login
