@@ -11545,3 +11545,8 @@
 [2021-04-03 15:21:46]: ***  [, Level 0]: 'Shrimp' has left the game
 [2021-04-03 15:21:47]: x7|Supers [ᅟᅟ , Level 39]: x7|KshKsh99:  bro i hate him
 [2021-04-03 15:21:48]: x7|Flipper [xSD7, Level 13]: huh
+[2021-04-03 15:21:52]: x7|KshKsh99 [xSD7, Level 37]: x7|Supers: i am the leader
+[2021-04-03 15:21:53]: x7|Flipper [xSD7, Level 13]: wait fayzor join??
+[2021-04-03 15:21:56]: x7|Supers [ᅟᅟ , Level 39]: .
+[2021-04-03 15:21:58]: x7|KshKsh99 [xSD7, Level 37]: x7|Supers: why you hate him ?
+[2021-04-03 15:22:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
