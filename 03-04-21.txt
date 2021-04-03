@@ -2992,3 +2992,5 @@
 [2021-04-03 04:07:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-03 04:07:10]: ***  [, Level 0]: 'Katz' has left the game (Timeout)
 [2021-04-03 04:07:18]: ***  [, Level 0]: 'Dagonaut' has left the game
+[2021-04-03 04:07:53]: BC|Tixnix [BC, Level 33]: sL|whutasme: why help you no me ß
+[2021-04-03 04:07:53]: sL|whutasme [, Level 5]: BC|Tixnix: :(
