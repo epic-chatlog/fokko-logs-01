@@ -3986,3 +3986,4 @@
 [2021-04-03 05:24:58]:   [, Level 0]: power: ?
 [2021-04-03 05:25:04]:   [, Level 0]: Lucas: power: sometimes i do one the other time the otehr
 [2021-04-03 05:25:06]:   [, Level 0]: Lucas: other
+[2021-04-03 05:25:18]:   [, Level 0]: power: ah okia
