@@ -2339,3 +2339,5 @@
 [2021-04-03 03:00:24]: ***  [, Level 0]: [D] BC|serwan finished in: 9 minute(s) 38.22 second(s)
 [2021-04-03 03:00:29]: [D] Fearless [FookinLads, Level 50]: hhh3:  :C
 [2021-04-03 03:00:32]: cunt [, Level 0]: hhh3: yes gay
+[2021-04-03 03:00:54]: ***  [, Level 0]: 'Random Guy' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-03 03:00:55]: ***  [, Level 0]: 'ClemEntine' has left the game
