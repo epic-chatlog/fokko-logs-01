@@ -13920,3 +13920,6 @@
 [2021-04-02 23:20:02]: x7|Flipper [xSD7, Level 39]: ?
 [2021-04-02 23:20:04]: SAUD [, Level 20]: yeah
 [2021-04-02 23:20:06]: x7|Flipper [xSD7, Level 39]: k
+[2021-04-02 23:20:09]: ***  [, Level 0]: 'x7|Flipper' has left the game
+[2021-04-02 23:20:09]: ***  [, Level 0]: 'Flupper' has left the game
+[2021-04-02 23:20:12]: ***  [, Level 0]: 'SAUD' has left the game
