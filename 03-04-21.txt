@@ -2199,3 +2199,4 @@
 [2021-04-03 02:46:08]: GOLD [404, Level 41]: HeavyGeneral: matebal xx10
 [2021-04-03 02:46:11]: HeavyGeneral [FookinLads, Level 44]: xDDDDDDDDDDDDDDDDDDD
 [2021-04-03 02:47:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-03 02:47:33]: ***  [, Level 0]: WarHammer' finished in: 2 minute(s) 15.02 second(s)
