@@ -5646,3 +5646,5 @@
 [2021-04-03 07:22:18]: Random Guy [, Level 40]: »Amirian YA«: i should wait
 [2021-04-03 07:22:21]: ***  [, Level 0]: 'SAUD' entered and joined the game
 [2021-04-03 07:22:31]:   [, Level 0]: SAUD: Λtlantis Ψ:  yo back
+[2021-04-03 07:22:33]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 27.48 second(s)
+[2021-04-03 07:22:33]: ***  [, Level 0]: New record: 12.20 second(s) better.
