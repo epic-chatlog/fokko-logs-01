@@ -4810,3 +4810,6 @@
 [2021-04-03 06:19:16]: Rimso [, Level 2]: how to move money from wallet to bank ?
 [2021-04-03 06:19:17]: [D] mamikral011 [, Level 20]: (1)any: help
 [2021-04-03 06:19:22]: Rock [, Level 15]: go for me
+[2021-04-03 06:19:30]: ***  [, Level 0]: 'black_cat' has left the game
+[2021-04-03 06:19:33]: ***  [, Level 0]: (1)•Slowy's killing spree was ended by Sutzer (12 blocks)
+[2021-04-03 06:19:33]: ***  [, Level 0]: 'black_cat' entered and joined the game
