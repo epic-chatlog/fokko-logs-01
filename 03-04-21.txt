@@ -4515,3 +4515,6 @@
 [2021-04-03 05:55:09]: ♥TAKO♥ [, Level 24]: but
 [2021-04-03 05:55:10]: ***  [, Level 0]: '✔Pouet{D}' entered and joined the game
 [2021-04-03 05:55:16]: |HolyHo|° [, Level 28]: HeavyGeneral: pls do
+[2021-04-03 05:55:21]: Falco641 [, Level 18]: f"{self.name}": gay helper
+[2021-04-03 05:55:26]: ***  [, Level 0]: mamikral011 is on a killing spree with 5 blocks
+[2021-04-03 05:55:28]: ***  [, Level 0]: 'Cylox' entered and joined the game
