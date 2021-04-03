@@ -305,3 +305,5 @@
 [2021-04-03 00:51:05]: ***  [, Level 0]: '(1)Rock' has left the game
 [2021-04-03 00:51:07]: GODLIKe [hax, Level 44]: rq
 [2021-04-03 00:51:11]: MieSlime [, Level 43]: wait
+[2021-04-03 00:51:39]: ***  [, Level 0]: '(1)Friendiship ;' entered and joined the game
+[2021-04-03 00:51:41]: GODLIKe [hax, Level 44]: şimdi burdan çıkmak var jeqwok
