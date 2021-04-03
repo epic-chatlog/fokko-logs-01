@@ -5062,3 +5062,5 @@
 [2021-04-03 06:36:25]: ***  [, Level 0]: 'K1M9N' joined the spectators
 [2021-04-03 06:36:28]: ***  [, Level 0]: 'K1M9N' joined the game
 [2021-04-03 06:36:31]: ***  [, Level 0]: (1)any is on a killing spree with 5 blocks
+[2021-04-03 06:36:43]: Friendiship ;-) [, Level 0]: (1)Ghost: on arrete la guerre
+[2021-04-03 06:36:44]: ***  [, Level 0]: (1)any's killing spree was ended by Falco642 (5 blocks)
