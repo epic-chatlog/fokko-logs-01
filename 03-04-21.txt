@@ -8242,3 +8242,10 @@
 [2021-04-03 10:16:45]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
 [2021-04-03 10:16:47]: GASHKA [#TeeGamers, Level 0]: bind "k" /kill
 [2021-04-03 10:16:53]: ERROR [404, Level 55]: ChillerDragon:  eher weniger ^^
+[2021-04-03 10:16:56]: GASHKA [#TeeGamers, Level 0]: write
+[2021-04-03 10:16:59]: ERROR [404, Level 55]: ictf spielt heut zutage niemand mehr
+[2021-04-03 10:17:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-03 10:17:01]: GASHKA [#TeeGamers, Level 0]: f1
+[2021-04-03 10:17:04]: (1)Friendiship  [, Level 0]: (1)ERROR: i stop help, pls no war , i am not police :-(
+[2021-04-03 10:17:04]: kais [, Level 65]: xD
+[2021-04-03 10:17:05]: any² [404, Level 25]: Rem's bae: tell him to stop be a kid and spawnblock
