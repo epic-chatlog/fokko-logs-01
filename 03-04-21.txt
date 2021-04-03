@@ -7933,3 +7933,5 @@
 [2021-04-03 09:55:35]: bob [MNKY, Level 36]: weqe:
 [2021-04-03 09:55:35]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-03 09:55:38]: bob [MNKY, Level 36]: weqe:
+[2021-04-03 09:55:44]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 09:55:48]: ***  [, Level 0]: 'gian x' joined the game
