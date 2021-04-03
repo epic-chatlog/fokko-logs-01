@@ -7308,3 +7308,6 @@
 [2021-04-03 09:02:41]: ***  [, Level 0]: 'tee in black' has left the game
 [2021-04-03 09:03:00]: ***  [, Level 0]: '(1)Rainbow Tee' entered and joined the game
 [2021-04-03 09:03:04]: mamikral011 [, Level 25]: ERROR: Falco641 stop bitch
+[2021-04-03 09:03:06]:   [, Level 0]: (1)Rainbow Tee: (1)Λtlantis Ψ: im crashed ;(
+[2021-04-03 09:03:15]: [D] mamikral011 [, Level 20]: Falco641: stoppp
+[2021-04-03 09:03:16]: ***  [, Level 0]: 'Isegrin' entered and joined the game
