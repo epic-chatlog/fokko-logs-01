@@ -4804,3 +4804,5 @@
 [2021-04-03 06:18:38]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-03 06:18:39]: |HolyHo| [, Level 18]: ✞|koro: come at me 100 %
 [2021-04-03 06:18:57]:   [, Level 0]: f"{self.name}": el champeon: :D:D:DD
+[2021-04-03 06:18:59]: ***  [, Level 0]: 'MieSlime' has left the game
+[2021-04-03 06:19:04]:   [, Level 0]: sL|whutasme: Sutzer:
