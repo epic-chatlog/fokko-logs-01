@@ -3687,3 +3687,7 @@
 [2021-04-03 05:10:38]: ***  [, Level 0]: 'kais' has left the game (Timeout Protection over)
 [2021-04-03 05:10:38]: Lucas [THECEPS, Level 33]: Λtlantis Ψ: i hate you
 [2021-04-03 05:10:40]: bob [MNKY, Level 36]: cookie: mamikral011
+[2021-04-03 05:10:41]: ***  [, Level 0]: 'kais' entered and joined the game
+[2021-04-03 05:10:43]: Λtlantis Ψ [ᅟᅟ , Level 13]: Lucas:  kys
+[2021-04-03 05:10:44]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-03 05:10:47]: cookie [, Level 0]: bob:  oke
