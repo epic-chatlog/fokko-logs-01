@@ -13569,3 +13569,5 @@
 [2021-04-02 21:05:37]: x7|Flipper [xSD7, Level 39]: i cxant
 [2021-04-02 21:05:40]: S Y T H N [iPro, Level 37]: SAUD: come
 [2021-04-02 21:05:52]: SAUD [, Level 20]: S Y T H N:  xD
+[2021-04-02 21:06:03]: x7|Flipper [xSD7, Level 39]: i get max ammo in taser
+[2021-04-02 21:06:05]: x7|Flipper [xSD7, Level 39]: for it
