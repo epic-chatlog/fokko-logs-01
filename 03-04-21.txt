@@ -4778,3 +4778,5 @@
 [2021-04-03 06:17:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-03 06:17:04]: ***  [, Level 0]: el champeon is on a killing spree with 20 blocks
 [2021-04-03 06:17:05]: ***  [, Level 0]: 'Andresss' entered and joined the game
+[2021-04-03 06:17:10]: ***  [, Level 0]: 'Andresss' has left the game
+[2021-04-03 06:17:13]: ***  [, Level 0]: 'Andresss' entered and joined the game
