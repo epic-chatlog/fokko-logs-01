@@ -6449,3 +6449,8 @@
 [2021-04-03 08:14:21]:   [, Level 0]: Noob Redis: i need kill all
 [2021-04-03 08:14:21]:   [, Level 0]: WarHammer': Kezo:  YelloWorlD  ?
 [2021-04-03 08:14:23]: YelloWorlD [404, Level 73]: Kezo{D}: 404 NOT FOOKINLADS
+[2021-04-03 08:14:26]: (1)kais [, Level 58]: bob: they won't do it xD, most of those nobos waiting for portal are same clan as him
+[2021-04-03 08:14:28]: Kezo{D} [FookinLads, Level 38]: YelloWorlD: ik
+[2021-04-03 08:14:29]: ERROR [404, Level 55]: delete
+[2021-04-03 08:14:30]:   [, Level 0]: WarHammer': YelloWorlD:  xd
+[2021-04-03 08:14:30]:   [, Level 0]: Noob Redis: i need training my aim
