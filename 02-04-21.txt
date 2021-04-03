@@ -13892,3 +13892,4 @@
 [2021-04-02 23:17:19]: x7|Flipper [xSD7, Level 39]: ok
 [2021-04-02 23:17:20]: x7|Flipper [xSD7, Level 39]: wait why
 [2021-04-02 23:17:25]: x7|Flipper [xSD7, Level 39]: we gonna play another map
+[2021-04-02 23:17:30]: x7|Flipper [xSD7, Level 39]: not blmapchill
