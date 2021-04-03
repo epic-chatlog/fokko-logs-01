@@ -13650,3 +13650,4 @@
 [2021-04-02 21:45:29]: ***  [, Level 0]: 'cHilLerDagron' has left the game
 [2021-04-02 21:45:58]: ***  [, Level 0]: 'cHilLerDagron' entered and joined the game
 [2021-04-02 21:46:16]: cHilLerDagron [Fortnite, Level 0]: weqe:
+[2021-04-02 21:47:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
