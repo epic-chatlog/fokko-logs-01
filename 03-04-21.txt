@@ -4201,3 +4201,6 @@
 [2021-04-03 05:37:48]: ***  [, Level 0]: Kezo is on a killing spree with 5 blocks
 [2021-04-03 05:37:51]:   [, Level 0]: Lucas: i've not war with heaveygeneral but he got war with chiller dragon and i help him
 [2021-04-03 05:37:59]: ***  [, Level 0]: 'nameless' has left the game
+[2021-04-03 05:38:12]: el champeon [, Level 0]: power: help or war
+[2021-04-03 05:38:12]: ***  [, Level 0]: ビール|Zero finished in: 1 minute(s) 41.78 second(s)
+[2021-04-03 05:38:12]: ***  [, Level 0]: New record: 29.58 second(s) better.
