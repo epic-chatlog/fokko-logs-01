@@ -7960,3 +7960,8 @@
 [2021-04-03 09:58:25]: ***  [, Level 0]: ChillerDragon's killing spree was ended by ERROR. (7 blocks)
 [2021-04-03 09:58:39]: ←   [, Level 0]: Ghost: est ce que tu compte racheter le portail ?
 [2021-04-03 09:58:44]: ERROR. [404, Level 73]: how bad are u fr
+[2021-04-03 09:59:10]: (1)NetFlix [, Level 15]: i cant get out
+[2021-04-03 09:59:10]: ERROR [404, Level 55]: koro >
+[2021-04-03 09:59:13]: ChillerDragon [|*KoG*|, Level 44]: wb?
+[2021-04-03 09:59:13]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-03 09:59:14]: Rock [, Level 16]: why
