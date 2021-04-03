@@ -13787,3 +13787,4 @@
 [2021-04-02 22:48:27]: ***  [, Level 0]: 'teefrank' entered and joined the game
 [2021-04-02 22:48:40]: ***  [, Level 0]: 'teefrank' has left the game
 [2021-04-02 22:49:26]: Flupper [, Level 13]: look]
+[2021-04-02 22:49:30]: Flupper [, Level 13]: wait
