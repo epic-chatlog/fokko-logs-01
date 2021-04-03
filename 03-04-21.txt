@@ -5128,3 +5128,6 @@
 [2021-04-03 06:44:28]: cookie [, Level 0]: hmmm
 [2021-04-03 06:44:29]: Rock [, Level 15]: cookie: go
 [2021-04-03 06:44:36]: Rock [, Level 15]: cookie: press left
+[2021-04-03 06:44:42]: cookie [, Level 0]: oke left
+[2021-04-03 06:44:45]: |ΛnץOиe| [, Level 0]: WHO FAKING SESTACK
+[2021-04-03 06:44:48]: |ΛnץOиe| [, Level 0]: DE*
