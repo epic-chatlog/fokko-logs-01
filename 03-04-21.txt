@@ -8587,3 +8587,11 @@
 [2021-04-03 10:40:26]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0.5
 [2021-04-03 10:40:29]: ***  [, Level 0]: VeemID [2] finished in: 2 minute(s) 53.14 second(s)
 [2021-04-03 10:40:29]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0.25
+[2021-04-03 10:40:32]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0.125
+[2021-04-03 10:40:32]: ***  [, Level 0]: 'DerBAAHAHASTARD' entered and joined the game
+[2021-04-03 10:40:32]: ***  [, Level 0]: 'bo' entered and joined the game
+[2021-04-03 10:40:34]: ***  [, Level 0]: 'Katz' entered and joined the game
+[2021-04-03 10:40:34]: Kezo{D} [FookinLads, Level 38]: sun.slow(y): AMINA KODUMUN OROSPU COCU
+[2021-04-03 10:40:35]: ***  [, Level 0]: 'DerBAAHAHASTARD' has left the game
+[2021-04-03 10:40:39]: sun.slow(y) [sunrise., Level 35]: sikerim lan amina koyim orospu
+[2021-04-03 10:40:40]: ***  [, Level 0]: 'bo' has left the game
