@@ -4825,3 +4825,9 @@
 [2021-04-03 06:20:29]: ***  [, Level 0]: 'mamikral011' has left the game (Timeout)
 [2021-04-03 06:20:41]:   [, Level 0]: f"{self.name}": laaaaaaaags
 [2021-04-03 06:20:52]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
+[2021-04-03 06:21:00]: Rock [, Level 15]: Rimso: it bot)
+[2021-04-03 06:21:01]:   [, Level 0]: [D] Sutzer: Kezo: oooh you 4 dummys with bonus
+[2021-04-03 06:21:04]:   [, Level 0]: [D] Sutzer: XD
+[2021-04-03 06:21:07]: Kezo [FookinLads, Level 41]: Keø:
+[2021-04-03 06:21:08]: ***  [, Level 0]: Falco641 is on a killing spree with 5 blocks
+[2021-04-03 06:21:08]: ***  [, Level 0]: (1)Ghost's killing spree was ended by Falco641 (8 blocks)
