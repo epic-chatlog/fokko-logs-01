@@ -6073,3 +6073,5 @@
 [2021-04-03 07:55:00]:   [, Level 0]: (1)ERROR: skill
 [2021-04-03 07:55:03]: ***  [, Level 0]: 'K!ked' has left the game
 [2021-04-03 07:55:07]: sL|whutasme [, Level 7]: i never save yoou now Kezo
+[2021-04-03 07:55:10]: Kezo [FookinLads, Level 41]: sL|whutasme: you realy want this ?
+[2021-04-03 07:55:15]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' entered and joined the game
