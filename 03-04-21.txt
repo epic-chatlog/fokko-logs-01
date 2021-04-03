@@ -4411,3 +4411,6 @@
 [2021-04-03 05:49:24]: ***  [, Level 0]: 'Kirito♥' has left the game (Timeout Protection over)
 [2021-04-03 05:49:32]:   [, Level 0]: Rock: el champeon: STOP FAST!
 [2021-04-03 05:49:47]:   [, Level 0]: Rock: bob: help pls
+[2021-04-03 05:50:06]: Fearless [FookinLads, Level 40]: Rimso:  how to play this game im new
+[2021-04-03 05:50:06]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
+[2021-04-03 05:50:12]: ***  [, Level 0]: 'SAUD' has left the game
