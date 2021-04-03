@@ -10906,3 +10906,4 @@
 [2021-04-03 14:12:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-03 14:12:09]: S Y T H N [iPro, Level 37]: [D] ✯ |toxicd: boi!!
 [2021-04-03 14:12:13]: [D] ✯ |toxicd [|Supressed, Level 21]: S Y T H N: was
+[2021-04-03 14:12:20]: ✯ | FayZoR [|Supressed|, Level 42]: any: t'es ridicule
