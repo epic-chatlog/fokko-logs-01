@@ -4338,3 +4338,5 @@
 [2021-04-03 05:44:36]: ***  [, Level 0]: 'black_cat' entered and joined the game
 [2021-04-03 05:44:37]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
 [2021-04-03 05:44:42]: ***  [, Level 0]: '[INFO]' has been muted for 60 seconds
+[2021-04-03 05:44:59]:   [, Level 0]: nennybaba: .
+[2021-04-03 05:45:00]: Kyrma [KyStiKi, Level 0]: xd
