@@ -1638,3 +1638,6 @@
 [2021-04-03 02:10:12]: Random Guy [, Level 40]: YelloWorlD: left up
 [2021-04-03 02:10:12]: power [TrRShClNrRs, Level 13]: YelloWorlD: come 1vs1
 [2021-04-03 02:10:12]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
+[2021-04-03 02:10:15]: Boti. [.bad, Level 32]: HeavyGeneral: why?
+[2021-04-03 02:10:20]: , [TrRShClNrRs, Level 41]: YelloWorlD: whay
+[2021-04-03 02:10:24]: Boti. [.bad, Level 32]: HeavyGeneral: explain
