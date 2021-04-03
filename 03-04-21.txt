@@ -9177,3 +9177,6 @@
 [2021-04-03 11:17:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-03 11:17:03]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-03 11:17:03]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: koro: o
+[2021-04-03 11:17:09]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-03 11:17:11]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: koro
+[2021-04-03 11:17:15]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: koro bliet
