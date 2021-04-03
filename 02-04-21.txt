@@ -13978,3 +13978,7 @@
 [2021-04-02 23:48:18]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
 [2021-04-02 23:48:30]: ***  [, Level 0]: 'Kiøn1029' has left the game
 [2021-04-02 23:49:33]: |HolyHo| [TrRShClNrRs, Level 0]: ERROR.: i see u are in fookinlads to
+[2021-04-02 23:49:41]: ERROR [404, Level 73]: im not
+[2021-04-02 23:49:49]: ERROR [404, Level 73]: im in 404
+[2021-04-02 23:49:51]: |HolyHo| [TrRShClNrRs, Level 0]: ERROR: ur in the discord chat
+[2021-04-02 23:49:52]: ERROR [404, Level 73]: like u see
