@@ -5372,3 +5372,8 @@
 [2021-04-03 07:00:47]: Falco642 [, Level 0]: 17 8
 [2021-04-03 07:00:52]:   [, Level 0]: Meetiteusz: Rock: I STARTED?
 [2021-04-03 07:00:53]:   [, Level 0]: Meetiteusz: Rock: when
+[2021-04-03 07:00:58]: ***  [, Level 0]: 'H0dƌƔ1' entered and joined the game
+[2021-04-03 07:00:58]: Rock [, Level 15]: yesterday
+[2021-04-03 07:01:01]: sαвєя{D} [FookinLads, Level 0]: Noob Redis: war
+[2021-04-03 07:01:02]: Falco642 [, Level 0]: 18 8
+[2021-04-03 07:01:07]: Falco642 [, Level 0]: wtf lags
