@@ -8651,3 +8651,6 @@
 [2021-04-03 10:43:52]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-03 10:44:05]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: rq in 3
 [2021-04-03 10:44:07]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 10:44:09]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 2
+[2021-04-03 10:44:13]: , [TrRShClNrRs, Level 41]: Kezo: TL|ŦƹƦ$ŦǾN is boring xd
+[2021-04-03 10:44:15]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 1
