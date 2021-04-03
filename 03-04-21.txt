@@ -8068,3 +8068,5 @@
 [2021-04-03 10:05:04]: ERROR. [404, Level 73]: ich zähle nur die tatsachen auf.
 [2021-04-03 10:05:05]: ***  [, Level 0]: 'VeemID [2]' entered and joined the game
 [2021-04-03 10:05:13]: ERROR. [404, Level 73]: wenn er hilft greif ich an wenn er nichts macht ist alles gut
+[2021-04-03 10:05:24]: ERROR [404, Level 55]: heißt nicht das er mir helfen muss.
+[2021-04-03 10:05:30]: Rem's bae [, Level 42]: also muss ich ERROR ChillerDragon und weqe helfen um nicht geblock zu werden ? wie soll das den gehen ?
