@@ -5577,3 +5577,7 @@
 [2021-04-03 07:15:38]: Falco642 [, Level 0]: NO
 [2021-04-03 07:15:41]:   [, Level 0]: Traveco: Ðeathscyth: dadda
 [2021-04-03 07:15:45]: [D] ✯ |toxicd [|Supressed, Level 20]: cookie:
+[2021-04-03 07:15:48]: Ðeathscyth [, Level 1]: Traveco: ?
+[2021-04-03 07:15:53]: f"{self.name}" [, Level 0]: Ðeathscyth: i can escape :D
+[2021-04-03 07:15:57]: [D] ✯ |toxicd [|Supressed, Level 20]: cookie: help me main
+[2021-04-03 07:15:59]: cookie [, Level 0]: i go try
