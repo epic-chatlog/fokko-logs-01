@@ -7597,3 +7597,5 @@
 [2021-04-03 09:31:11]: Falco642 [, Level 0]: lag
 [2021-04-03 09:31:17]: kais [, Level 65]: RQ
 [2021-04-03 09:31:21]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
+[2021-04-03 09:31:30]: ***  [, Level 0]: 'Kyrma' entered and joined the game
+[2021-04-03 09:31:31]: lolpoep [Ape, Level 16]: t/spec
