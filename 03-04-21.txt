@@ -3060,3 +3060,5 @@
 [2021-04-03 04:27:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-03 04:27:02]: kais [, Level 65]: (1)NetFlix: you need checkpoint and going in the rainbow thing up of the spawn
 [2021-04-03 04:27:15]: (1)NetFlix [, Level 14]: kais: how do i checkpoint?
+[2021-04-03 04:27:26]: ***  [, Level 0]: '[D] nenny' entered and joined the game
+[2021-04-03 04:27:26]: Random Guy [, Level 40]: comic: are you ready?
