@@ -2077,3 +2077,4 @@
 [2021-04-03 02:36:56]: ***  [, Level 0]: 'kiøn1029' has left the game
 [2021-04-03 02:37:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-03 02:37:03]: WarHammer' [, Level 0]: YelloWorlD:  ~DemoizL~  <<
+[2021-04-03 02:37:31]: WarHammer' [, Level 0]: (1)|HolyHo|:
