@@ -5648,3 +5648,5 @@
 [2021-04-03 07:22:31]:   [, Level 0]: SAUD: Λtlantis Ψ:  yo back
 [2021-04-03 07:22:33]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 27.48 second(s)
 [2021-04-03 07:22:33]: ***  [, Level 0]: New record: 12.20 second(s) better.
+[2021-04-03 07:22:45]: ***  [, Level 0]: 'cunt' finished the special race!
+[2021-04-03 07:22:54]: ***  [, Level 0]: 'Cylox.♥' finished the special race!
