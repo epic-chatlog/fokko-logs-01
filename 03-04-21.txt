@@ -6291,3 +6291,7 @@
 [2021-04-03 08:08:25]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: ✯|Not Bulash:  look
 [2021-04-03 08:08:29]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: follow me ✯|Not Bulash
 [2021-04-03 08:08:31]: ERROR [404, Level 55]: Kezo:  war
+[2021-04-03 08:08:37]: Kezo{D} [FookinLads, Level 38]: ERROR: nah
+[2021-04-03 08:08:41]:   [, Level 0]: nennybaba: what are you doing?
+[2021-04-03 08:08:44]: Kezo{D} [FookinLads, Level 38]: ERROR: why ?
+[2021-04-03 08:08:44]:   [, Level 0]: nennybaba: bloodwave
