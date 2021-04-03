@@ -13807,3 +13807,5 @@
 [2021-04-02 22:53:22]: SAUD [, Level 20]: wtf
 [2021-04-02 22:53:23]: SAUD [, Level 20]: xD
 [2021-04-02 22:55:29]: SAUD [, Level 20]: Flupper:
+[2021-04-02 22:55:50]: SAUD [, Level 20]: how much does the portal cost in dollar
+[2021-04-02 22:55:53]: Flupper [, Level 13]: 12
