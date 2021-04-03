@@ -13929,3 +13929,4 @@
 [2021-04-02 23:23:31]: ***  [, Level 0]: '(1)ビール|Zero' entered and joined the game
 [2021-04-02 23:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-02 23:27:50]: (1)ビール|Ze [Drunks, Level 0]: Kirito♥: pls help in endless
+[2021-04-02 23:28:17]: ***  [, Level 0]: '(1)ビール|Zero' has left the game
