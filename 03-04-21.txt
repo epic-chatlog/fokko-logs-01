@@ -4917,3 +4917,7 @@
 [2021-04-03 06:26:46]: ***  [, Level 0]: 'K1M9N' entered and joined the game
 [2021-04-03 06:26:48]: ***  [, Level 0]: 'el champeon' entered and joined the game
 [2021-04-03 06:26:50]: bob [MNKY, Level 36]: get bonus
+[2021-04-03 06:26:51]: Rock [, Level 15]: to jet?
+[2021-04-03 06:26:54]: Rimso [, Level 2]: yup
+[2021-04-03 06:27:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-03 06:27:02]: ***  [, Level 0]: 'K1M9N' has left the game
