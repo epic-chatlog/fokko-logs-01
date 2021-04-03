@@ -10103,3 +10103,6 @@
 [2021-04-03 12:30:48]: BulgarianTee [xSD7, Level 0]: NOT RQ
 [2021-04-03 12:30:49]: ***  [, Level 0]: 'PoliceTee' has left the game
 [2021-04-03 12:30:49]: ***  [, Level 0]: 'BulgarianTee' has left the game
+[2021-04-03 12:30:56]: Kirito♥ [♥, Level 33]: kais: you are bi?
+[2021-04-03 12:31:02]: ***  [, Level 0]: [D] MieSlime's killing spree was ended by teee (7 blocks)
+[2021-04-03 12:31:05]: (1)kais [, Level 58]: Kirito♥: no
