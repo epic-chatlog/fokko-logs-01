@@ -8788,3 +8788,5 @@
 [2021-04-03 10:54:15]: ***  [, Level 0]: 'dozbord' has left the game
 [2021-04-03 10:54:27]: ***  [, Level 0]: 'Katz' left the minigame 'Instagib FNG'
 [2021-04-03 10:54:33]: Kezo [FookinLads, Level 41]: koro:AHAHAHAH
+[2021-04-03 10:54:52]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 10:54:54]: ***  [, Level 0]: 'Katz' joined the minigame 'Instagib Boom FNG', use '/boomfng' to join aswell
