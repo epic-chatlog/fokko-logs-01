@@ -7265,3 +7265,6 @@
 [2021-04-03 08:58:22]: УБИВАТЬ! [, Level 0]: нубик)
 [2021-04-03 08:58:24]: ***  [, Level 0]: УБИВАТЬ!'s killing spree was ended by tee in black (10 blocks)
 [2021-04-03 08:58:25]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-03 08:58:34]:   [, Level 0]: tee in black: параша а не сервер
+[2021-04-03 08:58:36]: ERROR. [404, Level 73]: ^^
+[2021-04-03 08:58:39]:   [, Level 0]: tee in black: просто отврат
