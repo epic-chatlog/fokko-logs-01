@@ -13619,3 +13619,5 @@
 [2021-04-02 21:27:11]: ***  [, Level 0]: 'salvita' has left the game
 [2021-04-02 21:28:58]: ***  [, Level 0]: 'weqe' entered and joined the game
 [2021-04-02 21:31:46]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' changed name to 'S Y T H N'
+[2021-04-02 21:32:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-02 21:32:01]: weqe [MNKY, Level 11]: taser tards
