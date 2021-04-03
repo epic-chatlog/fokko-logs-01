@@ -11396,3 +11396,6 @@
 [2021-04-03 15:07:15]: ***  [, Level 0]: 'Shrimp' joined the spectators
 [2021-04-03 15:07:17]: ***  [, Level 0]: 'KoRaPcz' has left the game
 [2021-04-03 15:07:18]: ***  [, Level 0]: 'Shrimp' joined the game
+[2021-04-03 15:07:23]: x7|Supers [ᅟᅟ , Level 39]: x7|KshKsh99:  hello
+[2021-04-03 15:07:26]: x7|Supers [ᅟᅟ , Level 39]: x7|KshKsh99:  pls write
+[2021-04-03 15:07:30]: Shrimp [, Level 0]: hello
