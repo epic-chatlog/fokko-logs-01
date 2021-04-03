@@ -7260,3 +7260,8 @@
 [2021-04-03 08:57:50]: SAUD [, Level 13]: NP
 [2021-04-03 08:57:51]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-03 08:57:57]:   [, Level 0]: tee in black: пиздец куда фоко все деньги с донатов сливает
+[2021-04-03 08:58:21]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 08:58:22]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 10 blocks
+[2021-04-03 08:58:22]: УБИВАТЬ! [, Level 0]: нубик)
+[2021-04-03 08:58:24]: ***  [, Level 0]: УБИВАТЬ!'s killing spree was ended by tee in black (10 blocks)
+[2021-04-03 08:58:25]: ***  [, Level 0]: 'gian x' joined the game
