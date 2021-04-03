@@ -6627,3 +6627,4 @@
 [2021-04-03 08:22:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-03 08:22:03]: Falco641 [, Level 18]: lmao
 [2021-04-03 08:22:06]:   [, Level 0]: Noob Redis: shit
+[2021-04-03 08:22:14]: ***  [, Level 0]: 'deSi' has left the game
