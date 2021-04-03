@@ -7750,3 +7750,13 @@
 [2021-04-03 09:44:17]: Terston Max [, Level 0]: error
 [2021-04-03 09:44:20]: Terston Max [, Level 0]: ERROR
 [2021-04-03 09:44:24]: Terston Max [, Level 0]: im trying out
+[2021-04-03 09:44:26]: Terston Max [, Level 0]: 0.7
+[2021-04-03 09:44:30]: ERROR. [404, Level 73]: write in dc
+[2021-04-03 09:44:31]: Terston Max [, Level 0]: what is this shit
+[2021-04-03 09:44:31]: ERROR. [404, Level 73]: YE
+[2021-04-03 09:44:32]: Terston Max [, Level 0]: SHUT UP
+[2021-04-03 09:44:33]: Terston Max [, Level 0]: OMG
+[2021-04-03 09:44:35]: weqe [MNKY, Level 11]: ERROR.: i dont mind you , but your mates are super gay buddy
+[2021-04-03 09:44:36]: ***  [, Level 0]: 'Terston Max' has been muted for 60 seconds
+[2021-04-03 09:44:36]: ***  [, Level 0]: 'lolpoep' has left the game
+[2021-04-03 09:44:38]: ERROR. [404, Level 73]: xD
