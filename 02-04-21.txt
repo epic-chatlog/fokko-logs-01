@@ -13012,3 +13012,4 @@
 [2021-04-02 17:17:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-02 17:17:44]: ***  [, Level 0]: 'Noxl' entered and joined the game
 [2021-04-02 17:18:52]: ***  [, Level 0]: 'Noxl' has left the game (Timeout)
+[2021-04-02 17:22:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
