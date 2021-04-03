@@ -144,3 +144,6 @@
 [2021-04-03 00:26:42]: ***  [, Level 0]: 'Sean C' entered and joined the game
 [2021-04-03 00:26:50]: GODLIKe [hax, Level 44]: ÖLDÜ OYUN MAK
 [2021-04-03 00:26:56]: ***  [, Level 0]: 'Sean C' has left the game
+[2021-04-03 00:27:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-03 00:27:06]: ***  [, Level 0]: 'kais' has left the game (Timeout Protection over)
+[2021-04-03 00:27:06]: ***  [, Level 0]: 'MieSlime' has left the game (Timeout Protection over)
