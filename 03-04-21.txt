@@ -8782,3 +8782,6 @@
 [2021-04-03 10:53:41]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-03 10:53:44]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-03 10:53:47]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' xa-xa-xa-xa0))
+[2021-04-03 10:54:00]: ***  [, Level 0]: 'Katz' joined the minigame 'Instagib FNG', use '/fng' to join aswell
+[2021-04-03 10:54:03]: ***  [, Level 0]: (1)kais finished in: 55 minute(s)  7.76 second(s)
+[2021-04-03 10:54:04]: ***  [, Level 0]: 'S Y T H N' has left the game
