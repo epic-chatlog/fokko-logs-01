@@ -3840,3 +3840,8 @@
 [2021-04-03 05:18:29]: »Amirian YA« [YAMIRIANA�, Level 29]: HeavyGeneral:
 [2021-04-03 05:18:30]: mamikral011 [, Level 25]: [D] BC|Tixnix: war?
 [2021-04-03 05:18:31]: |HolyHo| [, Level 18]: HeavyGeneral: i saved you :D
+[2021-04-03 05:18:36]: mamikral011 [, Level 25]: [D] BC|Tixnix: iditd
+[2021-04-03 05:18:37]: cookie [, Level 0]: bob
+[2021-04-03 05:18:37]: Soros [, Level 0]: f"{self.name}": hah
+[2021-04-03 05:18:39]: »Amirian YA« [YAMIRIANA�, Level 29]: BC|Tixnix:
+[2021-04-03 05:18:41]: »Amirian YA« [YAMIRIANA�, Level 29]: bob:
