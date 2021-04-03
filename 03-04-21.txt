@@ -10425,3 +10425,5 @@
 [2021-04-03 13:15:37]: YelloWorlD [404, Level 73]: koro: avec l'argent couvreur ?
 [2021-04-03 13:15:43]: Isegrin [, Level 54]: sun.slow(y): WTF
 [2021-04-03 13:15:45]: Isegrin [, Level 54]: sun.slow(y): u broke it
+[2021-04-03 13:16:02]: Isegrin [, Level 54]: sun.slow(y): guj
+[2021-04-03 13:16:05]: sun.slow(y) [sunrise., Level 0]: dumm
