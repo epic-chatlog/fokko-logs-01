@@ -5846,3 +5846,5 @@
 [2021-04-03 07:41:07]:   [, Level 0]: ERROR.: tf server laggy?
 [2021-04-03 07:41:08]: Falco641 [, Level 18]: war for life
 [2021-04-03 07:41:09]: GOLD [404, Level 41]: cookie: help
+[2021-04-03 07:41:19]: GOLD [404, Level 41]: ERROR: u lag
+[2021-04-03 07:41:26]:   [, Level 0]: ERROR: GOLD:  yeh?
