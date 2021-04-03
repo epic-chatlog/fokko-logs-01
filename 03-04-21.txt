@@ -4965,3 +4965,5 @@
 [2021-04-03 06:31:58]: cookie [, Level 0]: (1)any²:  oke i kill him
 [2021-04-03 06:31:58]:   [, Level 0]: (1)|HolyHo|: tctc
 [2021-04-03 06:31:58]: ***  [, Level 0]: 'black_cat' entered and joined the game
+[2021-04-03 06:32:00]: ***  [, Level 0]: 'Axel' entered and joined the game
+[2021-04-03 06:32:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
