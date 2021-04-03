@@ -13583,3 +13583,4 @@
 [2021-04-02 21:07:06]: x7|Flipper [xSD7, Level 39]: can you call sythn
 [2021-04-02 21:07:18]: SAUD [, Level 20]: WTFF
 [2021-04-02 21:07:22]: SAUD [, Level 20]: WHATTT
+[2021-04-02 21:07:42]: ***  [, Level 0]: 'Alien' has left the game
