@@ -2420,3 +2420,6 @@
 [2021-04-03 03:12:21]: |HolyHo| [, Level 18]: ChillerDragon: hello again
 [2021-04-03 03:12:22]: ***  [, Level 0]: 'Katz' has left the game
 [2021-04-03 03:12:24]: ChillerDragon.* [|*KoG*|, Level 41]: hi |HolyHo|
+[2021-04-03 03:12:36]: ***  [, Level 0]: '#3 blocker' has left the game
+[2021-04-03 03:12:39]: ***  [, Level 0]: 'RoberGN' entered and joined the game
+[2021-04-03 03:12:39]: Ļåҕ Lobster [Ļåҕ, Level 0]: ChillerDragon.*: thx
