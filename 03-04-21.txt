@@ -4892,3 +4892,8 @@
 [2021-04-03 06:25:25]: bob [MNKY, Level 36]: get bonus
 [2021-04-03 06:25:26]: |HolyHo| [, Level 18]: •Slowy: so much
 [2021-04-03 06:25:33]:   [, Level 0]: (1)any: (1)•Slowy:
+[2021-04-03 06:25:38]: Rock [, Level 15]: oh
+[2021-04-03 06:25:40]: Rock [, Level 15]: dont need
+[2021-04-03 06:25:41]: Rock [, Level 15]: go
+[2021-04-03 06:25:41]: ***  [, Level 0]: 'Soros' has left the game
+[2021-04-03 06:25:41]: ***  [, Level 0]: 'el champeon' has left the game
