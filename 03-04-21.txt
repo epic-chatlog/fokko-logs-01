@@ -5666,3 +5666,5 @@
 [2021-04-03 07:25:05]: ***  [, Level 0]: '►AmirianYA◄' entered and joined the game
 [2021-04-03 07:25:07]:   [, Level 0]: Falco642: Sutzer:
 [2021-04-03 07:25:15]: ***  [, Level 0]: '(1)kais' has left the game
+[2021-04-03 07:25:22]: ***  [, Level 0]: '[D] Random Guy' has left the game
+[2021-04-03 07:25:22]: ***  [, Level 0]: 'Random Guy' has left the game
