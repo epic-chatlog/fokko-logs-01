@@ -13521,3 +13521,4 @@
 [2021-04-02 20:42:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-02 20:44:05]: ***  [, Level 0]: 'Flupper' entered and joined the game
 [2021-04-02 20:45:35]: ***  [, Level 0]: '(1)Alien' entered and joined the game
+[2021-04-02 20:45:46]: ***  [, Level 0]: '(1)Alien' has left the game
