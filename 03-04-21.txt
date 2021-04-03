@@ -2253,3 +2253,5 @@
 [2021-04-03 02:51:06]: redder panda [TrRShClNrRs, Level 41]: rq
 [2021-04-03 02:51:14]: ***  [, Level 0]: 'hhh3' entered and joined the game
 [2021-04-03 02:51:16]: ***  [, Level 0]: 'redder panda' left the minigame 'Block'
+[2021-04-03 02:51:39]: Neoteny [, Level 0]: help
+[2021-04-03 02:51:43]: ***  [, Level 0]: '[D] BC|Tixnix' finished the special race!
