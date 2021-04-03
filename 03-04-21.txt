@@ -11232,3 +11232,5 @@
 [2021-04-03 14:50:09]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
 [2021-04-03 14:50:19]: ♥TAKO♥ [, Level 24]: LAN NİYE ÖLDÜREYİM
 [2021-04-03 14:50:21]: ♥TAKO♥ [, Level 24]: al beni
+[2021-04-03 14:50:26]: ***  [, Level 0]: '(1)Λtlantis Ψ' entered and joined the game
+[2021-04-03 14:50:28]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
