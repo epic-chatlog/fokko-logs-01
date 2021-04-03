@@ -6947,3 +6947,7 @@
 [2021-04-03 08:37:19]: ERROR [404, Level 55]: laggs
 [2021-04-03 08:37:23]: mamikral011 [, Level 25]: WarHammer: abi para
 [2021-04-03 08:37:29]: WarHammer' [, Level 16]: mamikral011:  LAN YOKKİ
+[2021-04-03 08:37:33]: mamikral011 [, Level 25]: WarHammer: nası
+[2021-04-03 08:37:34]: penguin [², Level 4]: wtf
+[2021-04-03 08:37:35]: penguin [², Level 4]: kag
+[2021-04-03 08:37:42]: penguin [², Level 4]: wtf
