@@ -10514,3 +10514,5 @@
 [2021-04-03 13:25:43]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 5 blocks
 [2021-04-03 13:25:43]: sun.slow(y) [sunrise., Level 0]: ahahahah
 [2021-04-03 13:26:11]: Lucas [THECEPS, Level 33]: DarkStar: are you the guy who is pro in ctf5
+[2021-04-03 13:26:21]: ***  [, Level 0]: '✯ |toxicdaddy' entered and joined the game
+[2021-04-03 13:26:22]: GODLIKe [hax, Level 44]: nub
