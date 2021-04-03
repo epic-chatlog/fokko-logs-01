@@ -9869,3 +9869,5 @@
 [2021-04-03 12:14:01]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-03 12:14:06]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-03 12:14:11]: x7|Flipper [xSD7, Level 13]: hi
+[2021-04-03 12:14:22]: [D] Sutzer [Guard, Level 0]: Kezo: help me or i will war with you to
+[2021-04-03 12:14:23]: [D] Sutzer [Guard, Level 0]: oo
