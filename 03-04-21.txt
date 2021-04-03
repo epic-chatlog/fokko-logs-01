@@ -11342,3 +11342,5 @@
 [2021-04-03 15:03:58]: Shrimp [, Level 0]: bruh
 [2021-04-03 15:03:59]: ***  [, Level 0]: ### 'WarHammer'' xd
 [2021-04-03 15:04:04]: Flipper [, Level 13]: fayzor atlantis is x7 supers
+[2021-04-03 15:04:10]: ***  [, Level 0]: 'Shrimp' joined the spectators
+[2021-04-03 15:04:13]: ***  [, Level 0]: 'Shrimp' joined the game
