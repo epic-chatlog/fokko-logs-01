@@ -67,3 +67,5 @@
 [2021-04-03 00:10:17]: Kiøn1029 [.bad, Level 31]: szar ez a majom
 [2021-04-03 00:10:20]: Boti. [.bad, Level 32]: az
 [2021-04-03 00:10:29]: Boti. [.bad, Level 32]: a másik az jobb volt
+[2021-04-03 00:10:32]: Kiøn1029 [.bad, Level 31]: igebn
+[2021-04-03 00:10:33]: Boti. [.bad, Level 32]: portalos
