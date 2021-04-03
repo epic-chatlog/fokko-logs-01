@@ -1809,3 +1809,7 @@
 [2021-04-03 02:17:56]: power2 [TrRShClNrRs, Level 0]: only cuddle GODLIKe
 [2021-04-03 02:18:07]: . [TrRShClNrRs, Level 42]: YelloWorlD: just power dud :Cccc
 [2021-04-03 02:18:11]: Mista bombastic [TrRShClNrRs, Level 40]: YelloWorlD: he does nothing
+[2021-04-03 02:18:19]: ***  [, Level 0]: 'i am jerry kill' has left the game
+[2021-04-03 02:18:19]: ChillerDragon [Chilli.*, Level 44]: aa
+[2021-04-03 02:18:20]: Mista bombastic [TrRShClNrRs, Level 40]: YelloWorlD: he is good
+[2021-04-03 02:18:22]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
