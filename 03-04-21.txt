@@ -4853,3 +4853,5 @@
 [2021-04-03 06:22:57]: ***  [, Level 0]: '[D] Sutzer' has left the game
 [2021-04-03 06:22:57]: ***  [, Level 0]: 'Sutzer' has left the game
 [2021-04-03 06:23:01]: Rimso [, Level 2]: where ?
+[2021-04-03 06:23:12]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
+[2021-04-03 06:23:12]: |HolyHo|° [, Level 28]: (1)Kezo: ily<3
