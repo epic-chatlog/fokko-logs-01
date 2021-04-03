@@ -3077,3 +3077,4 @@
 [2021-04-03 04:29:05]: ***  [, Level 0]: '-_-' entered and joined the game
 [2021-04-03 04:29:27]: ***  [, Level 0]: 'kais' finished the special race!
 [2021-04-03 04:29:27]: ***  [, Level 0]: 'Maatiteusz' entered and joined the game
+[2021-04-03 04:29:29]: ***  [, Level 0]: 'Isegrin' has left the game
