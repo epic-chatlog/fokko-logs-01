@@ -8473,3 +8473,5 @@
 [2021-04-03 10:31:09]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-03 10:31:13]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-03 10:31:17]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-03 10:31:19]: ***  [, Level 0]: 'ebal_rot_admina' has left the game
+[2021-04-03 10:31:21]: ***  [, Level 0]: '[D]Torento' entered and joined the game
