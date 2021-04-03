@@ -3074,3 +3074,4 @@
 [2021-04-03 04:28:44]: ***  [, Level 0]: 'sL|whutasme' entered and joined the game
 [2021-04-03 04:28:49]: ***  [, Level 0]: 'sL|whutasme' has left the game
 [2021-04-03 04:28:51]: ***  [, Level 0]: 'Lucas' entered and joined the game
+[2021-04-03 04:29:05]: ***  [, Level 0]: '-_-' entered and joined the game
