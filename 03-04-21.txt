@@ -7459,3 +7459,6 @@
 [2021-04-03 09:17:01]: ***  [, Level 0]: 'Sutzer' entered and joined the game
 [2021-04-03 09:17:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-03 09:17:04]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
+[2021-04-03 09:17:06]: ***  [, Level 0]: 'ehhe' entered and joined the game
+[2021-04-03 09:17:08]: deSi [|TR| Agalar, Level 15]: mamikral011: dc ekicem bak 2 dk dc
+[2021-04-03 09:17:10]: ***  [, Level 0]: 'ehhe' has left the game
