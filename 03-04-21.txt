@@ -4271,3 +4271,10 @@
 [2021-04-03 05:41:10]: ***  [, Level 0]: 'Ghost 2.0' has left the game (Timeout)
 [2021-04-03 05:41:17]: Fearless [FookinLads, Level 40]: |HolyHo|:  w4l
 [2021-04-03 05:41:19]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-03 05:41:25]: Falco641 [, Level 18]: |HolyHo|:
+[2021-04-03 05:41:26]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-03 05:41:27]: (1)-_- [, Level 0]: stop
+[2021-04-03 05:41:27]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-03 05:41:28]: Fearless [FookinLads, Level 40]: HeavyGeneral:  stop helping |HolyHo|  hes a dog
+[2021-04-03 05:41:29]: ***  [, Level 0]: 'K1M9N' joined the spectators
+[2021-04-03 05:41:30]: Falco641 [, Level 18]: wow
