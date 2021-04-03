@@ -4921,3 +4921,5 @@
 [2021-04-03 06:26:54]: Rimso [, Level 2]: yup
 [2021-04-03 06:27:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-03 06:27:02]: ***  [, Level 0]: 'K1M9N' has left the game
+[2021-04-03 06:27:08]: ***  [, Level 0]: 'Soros' entered and joined the game
+[2021-04-03 06:27:10]: ***  [, Level 0]: (1)Ghost's killing spree was ended by [D] ✯ |toxicd (5 blocks)
