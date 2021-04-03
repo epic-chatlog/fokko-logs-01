@@ -4943,3 +4943,5 @@
 [2021-04-03 06:30:21]: Rock [, Level 15]: wait
 [2021-04-03 06:30:23]: ✔Pouet{D} [WeAreYoung, Level 0]: HeavyGeneral: help
 [2021-04-03 06:30:27]: Rock [, Level 15]: go
+[2021-04-03 06:30:36]: ✔Pouet{D} [WeAreYoung, Level 0]: ✞|koro: help
+[2021-04-03 06:30:45]: cookie [, Level 0]: any sorry
