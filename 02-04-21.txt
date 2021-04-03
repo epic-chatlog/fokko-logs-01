@@ -13946,3 +13946,6 @@
 [2021-04-02 23:38:07]: (1)SAUD [, Level 13]: STOP
 [2021-04-02 23:38:17]: ビール|Zero [Drunks, Level 26]: ERROR: lets take another flag?i can help
 [2021-04-02 23:38:21]: ERROR. [404, Level 55]: wait
+[2021-04-02 23:39:20]: (1)SAUD [, Level 13]: Rock:  no idiot just hook ur dummy
+[2021-04-02 23:39:23]: (1)SAUD [, Level 13]: down
+[2021-04-02 23:39:27]: (1)SAUD [, Level 13]: yeah
