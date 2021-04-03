@@ -13527,3 +13527,4 @@
 [2021-04-02 20:57:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-02 20:57:17]: ***  [, Level 0]: 'SAUD' entered and joined the game
 [2021-04-02 20:57:27]: SAUD [, Level 0]: hola
+[2021-04-02 20:57:46]: SAUD [, Level 0]: everyone is afk huh
