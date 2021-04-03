@@ -5021,3 +5021,5 @@
 [2021-04-03 06:33:39]: ***  [, Level 0]: ~~~~~~~~~~
 [2021-04-03 06:33:39]: ***  [, Level 0]: Drop money: '/money drop <amount>'
 [2021-04-03 06:33:39]: ***  [, Level 0]: Invalid whisper
+[2021-04-03 06:33:48]:   [, Level 0]: Axel: Mista bombastic: hi
+[2021-04-03 06:33:51]:   [, Level 0]: Mista bombastic: Axel: hii
