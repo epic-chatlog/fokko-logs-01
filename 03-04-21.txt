@@ -10407,3 +10407,4 @@
 [2021-04-03 13:10:08]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
 [2021-04-03 13:10:08]: ***  [, Level 0]: '[D] Fearless' has left the game
 [2021-04-03 13:10:08]: ***  [, Level 0]: 'Fearless' has left the game
+[2021-04-03 13:11:38]: ***  [, Level 0]: 'monkey' entered and joined the game
