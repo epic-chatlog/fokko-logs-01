@@ -2918,3 +2918,12 @@
 [2021-04-03 03:57:21]: ***  [, Level 0]: 'Pigi♥' has left the game
 [2021-04-03 03:57:21]: Random Guy [, Level 40]: ✞|koro: bb
 [2021-04-03 03:57:26]: Pigie♥ [♥, Level 36]: Random Guy:
+[2021-04-03 03:57:28]: ***  [, Level 0]: 'Isegrin' entered and joined the game
+[2021-04-03 03:57:28]: sL|whutasme [, Level 5]: m'en on est pas fr
+[2021-04-03 03:57:29]: Pigie♥ [♥, Level 36]: Random Guy:
+[2021-04-03 03:57:29]: ***  [, Level 0]: 'Ghost 2.0' has left the game (Timeout)
+[2021-04-03 03:57:29]: ***  [, Level 0]: 'Ghost' has left the game (Timeout)
+[2021-04-03 03:57:31]: ***  [, Level 0]: Lucas finished in: 2 minute(s) 36.70 second(s)
+[2021-04-03 03:57:31]: power [TrRShClNrRs, Level 0]: spec me comic
+[2021-04-03 03:57:36]: Pigie♥ [♥, Level 36]: BC|Tixnix: i helped u
+[2021-04-03 03:57:38]: comic [comically, Level 12]: power: ok
