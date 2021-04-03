@@ -7843,3 +7843,6 @@
 [2021-04-03 09:50:01]: ***  [, Level 0]: '[D] Sutzer' has left the game
 [2021-04-03 09:50:01]: ***  [, Level 0]: 'Sutzer' has left the game
 [2021-04-03 09:50:03]: kgh [, Level 10]: dont move
+[2021-04-03 09:50:19]: ***  [, Level 0]: 'comic' entered and joined the game
+[2021-04-03 09:50:20]: Rem's bae [, Level 42]: ChillerDragon.*: do u have a bot for rocket of walls ?
+[2021-04-03 09:50:26]: ***  [, Level 0]: 'gian x' joined the spectators
