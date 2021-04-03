@@ -4848,3 +4848,7 @@
 [2021-04-03 06:22:44]: ***  [, Level 0]: (1)Ghost is on a killing spree with 5 blocks
 [2021-04-03 06:22:45]: ***  [, Level 0]: Falco642's killing spree was ended by (1)Ghost (6 blocks)
 [2021-04-03 06:22:47]: Rock [, Level 15]: first go to inf jumps ok?
+[2021-04-03 06:22:48]: ***  [, Level 0]: Chillingo is on a killing spree with 10 blocks
+[2021-04-03 06:22:51]: Sutzer [Guard, Level 0]: |HolyHo|: sry but i will play csgo now
+[2021-04-03 06:22:57]: ***  [, Level 0]: '[D] Sutzer' has left the game
+[2021-04-03 06:22:57]: ***  [, Level 0]: 'Sutzer' has left the game
