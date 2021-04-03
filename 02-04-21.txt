@@ -13952,3 +13952,5 @@
 [2021-04-02 23:39:34]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
 [2021-04-02 23:39:48]: ***  [, Level 0]: '(1)ERROR.' entered and joined the game
 [2021-04-02 23:41:10]: ビール|Zero [Drunks, Level 26]: ERROR: LOOOK
+[2021-04-02 23:41:33]: ビール|Zero [Drunks, Level 26]: ERROR: we can do it) it so ez no
+[2021-04-02 23:41:34]: ビール|Zero [Drunks, Level 26]: w
