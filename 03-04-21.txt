@@ -5465,3 +5465,5 @@
 [2021-04-03 07:06:50]:   [, Level 0]: cunt: f"{self.name}": comunist time
 [2021-04-03 07:06:57]: ***  [, Level 0]: '(1)|HolyHo|°' has left the game (Timeout)
 [2021-04-03 07:06:57]: ***  [, Level 0]: '(1)|HolyHo|' has left the game (Timeout)
+[2021-04-03 07:07:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-03 07:07:06]: ***  [, Level 0]: 'ZEWO's dummy' has left the game
