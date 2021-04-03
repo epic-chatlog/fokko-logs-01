@@ -13145,3 +13145,5 @@
 [2021-04-02 18:01:19]: aw [Z-Team, Level 0]: bro lets block some people
 [2021-04-02 18:01:23]: Flupper [, Level 0]: can i go
 [2021-04-02 18:01:23]: weqe [MNKY, Level 11]: ok wait me
+[2021-04-02 18:01:57]: weqe [MNKY, Level 11]: aw: i need help
+[2021-04-02 18:02:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
