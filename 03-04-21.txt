@@ -7400,3 +7400,4 @@
 [2021-04-03 09:10:54]:   [, Level 0]: nameless: bye
 [2021-04-03 09:10:55]: ***  [, Level 0]: 'nameless' has left the game
 [2021-04-03 09:10:57]:   [, Level 0]: LareneGyvaeh: mamikral011: war
+[2021-04-03 09:11:01]: FULL WAR [, Level 6]: ZEUS:
