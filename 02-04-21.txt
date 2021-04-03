@@ -13813,3 +13813,5 @@
 [2021-04-02 22:56:59]: SAUD [, Level 20]: u think i can buy it with my currency
 [2021-04-02 22:57:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-02 22:59:16]: ***  [, Level 0]: '(1)SAUD' entered and joined the game
+[2021-04-02 23:00:01]: SAUD [, Level 20]: ب
+[2021-04-02 23:00:04]: SAUD [, Level 20]: Flupper:
