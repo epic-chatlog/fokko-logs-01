@@ -4393,3 +4393,7 @@
 [2021-04-03 05:48:29]: bob [MNKY, Level 36]: f"{self.name}": stop
 [2021-04-03 05:48:29]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
 [2021-04-03 05:48:31]: ビール|Zero [Drunks, Level 26]: el champeon: stor or war
+[2021-04-03 05:48:38]: ***  [, Level 0]: 'Rimso' entered and joined the game
+[2021-04-03 05:48:39]: bob [MNKY, Level 36]: f"{self.name}": war
+[2021-04-03 05:48:40]:   [, Level 0]: [INFO]: ♥TAKO♥: 0.7
+[2021-04-03 05:48:44]: SAUD [, Level 20]: Λtlantis Ψ:
