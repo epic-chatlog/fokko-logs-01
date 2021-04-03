@@ -4355,3 +4355,6 @@
 [2021-04-03 05:45:48]: ***  [, Level 0]: '-_-' has left the game
 [2021-04-03 05:45:48]: ♥TAKO♥ [, Level 24]: NOT WORK
 [2021-04-03 05:45:56]:   [, Level 0]: [INFO]: ♥TAKO♥: you need 0.7
+[2021-04-03 05:46:07]: mamikral011 [, Level 25]: stop
+[2021-04-03 05:46:09]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
+[2021-04-03 05:46:11]: ビール|Zero [Drunks, Level 26]: (づ｡◕‿‿◕｡)づ
