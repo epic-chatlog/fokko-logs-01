@@ -4835,3 +4835,4 @@
 [2021-04-03 06:21:32]: |HolyHo| [, Level 18]: s
 [2021-04-03 06:21:38]: Rimso [, Level 2]: If I buy items, it registred in my account ? Or I need to buy them eche connection
 [2021-04-03 06:21:43]: ***  [, Level 0]: '(1)any²' entered and joined the game
+[2021-04-03 06:21:52]:   [, Level 0]: f"{self.name}": laaaaaaaaaaaaaaags
