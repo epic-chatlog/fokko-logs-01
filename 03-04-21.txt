@@ -2233,3 +2233,4 @@
 [2021-04-03 02:50:05]: redder panda [TrRShClNrRs, Level 41]: 4 2
 [2021-04-03 02:50:06]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
 [2021-04-03 02:50:06]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
+[2021-04-03 02:50:16]: ***  [, Level 0]: 'Katz' joined the minigame 'Survival', use '/survival' to join aswell
