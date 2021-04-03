@@ -1940,3 +1940,5 @@
 [2021-04-03 02:24:47]: power2 [TrRShClNrRs, Level 0]: wtf GOLD xDD
 [2021-04-03 02:24:50]: GOLD [404, Level 41]: power: stfu
 [2021-04-03 02:24:54]: power2 [TrRShClNrRs, Level 0]: xD
+[2021-04-03 02:25:18]: ***  [, Level 0]: 'Noémi[Đ]' has left the game
+[2021-04-03 02:25:18]: ***  [, Level 0]: 'Nonoh' has left the game
