@@ -7723,3 +7723,5 @@
 [2021-04-03 09:41:43]: Falco641 [, Level 18]: there goes all my savings
 [2021-04-03 09:41:47]: SAUD [, Level 13]: Lucas:  i will leave bye
 [2021-04-03 09:41:54]: Lucas [THECEPS, Level 33]: SAUD: bye
+[2021-04-03 09:42:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-03 09:42:12]: ✯|Not Bulash [|Supressed|, Level 0]: weqe: ??
