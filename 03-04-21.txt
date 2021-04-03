@@ -12048,3 +12048,4 @@
 [2021-04-03 16:48:22]: ***  [, Level 0]: [RUS] is on a killing spree with 5 blocks
 [2021-04-03 16:48:42]: ***  [, Level 0]: [RUS] is on a killing spree with 10 blocks
 [2021-04-03 16:48:50]: ***  [, Level 0]: [RUS]'s killing spree was ended by (2)УБИВАТЬ! (11 blocks)
+[2021-04-03 16:49:23]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 5 blocks
