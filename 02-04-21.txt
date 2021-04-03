@@ -13612,3 +13612,4 @@
 [2021-04-02 21:15:58]: SAUD [, Level 20]: using portal to  fight somone who playing tee for 3 weeks xD
 [2021-04-02 21:16:18]: ***  [, Level 0]: 'SAUD' has left the game
 [2021-04-02 21:17:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-02 21:22:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
