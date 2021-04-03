@@ -481,3 +481,5 @@
 [2021-04-03 01:08:39]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
 [2021-04-03 01:08:41]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
 [2021-04-03 01:08:42]: ***  [, Level 0]: '(1)Rock' has left the game
+[2021-04-03 01:08:46]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-03 01:08:51]: |HolyHo| [TrRShClNrRs, Level 17]: MieSlime: flg
