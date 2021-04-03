@@ -9224,3 +9224,5 @@
 [2021-04-03 11:19:06]: ***  [, Level 0]: 'PoliceTee' has left the game
 [2021-04-03 11:19:12]: NetFlix [, Level 11]: Lucas: ok
 [2021-04-03 11:19:18]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 11:19:33]: ***  [, Level 0]: 'sun.slow(y)' has left the game
+[2021-04-03 11:19:33]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
