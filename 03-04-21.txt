@@ -6562,3 +6562,6 @@
 [2021-04-03 08:18:02]: ***  [, Level 0]: 'GODLIKe.' has left the game
 [2021-04-03 08:18:02]: ***  [, Level 0]: 'GODLIKe' has left the game
 [2021-04-03 08:18:03]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: Alien:  what you want?
+[2021-04-03 08:18:07]: sL|whutasme [, Level 7]: where are you YelloWorlD
+[2021-04-03 08:18:10]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: Alien:  you want jumps?
+[2021-04-03 08:18:15]: YelloWorlD [404, Level 73]: sL|whutasme: police
