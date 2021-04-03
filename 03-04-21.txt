@@ -4702,3 +4702,7 @@
 [2021-04-03 06:10:38]: ***  [, Level 0]: 'black_cat' has left the game
 [2021-04-03 06:10:39]: ***  [, Level 0]: 'black_cat' entered and joined the game
 [2021-04-03 06:10:45]: ビール|Zero [Drunks, Level 26]: Lucas: )
+[2021-04-03 06:10:51]: Fearless [FookinLads, Level 40]: wtf
+[2021-04-03 06:10:52]: ***  [, Level 0]: 'black_cat' has left the game
+[2021-04-03 06:10:53]: ***  [, Level 0]: 'black_cat' entered and joined the game
+[2021-04-03 06:10:57]: Fearless [FookinLads, Level 40]: are u guys stupid?
