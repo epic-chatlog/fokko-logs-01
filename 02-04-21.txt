@@ -13939,3 +13939,4 @@
 [2021-04-02 23:35:54]: ビール|Zero [Drunks, Level 26]: ERROR: plssss
 [2021-04-02 23:36:00]: ビール|Zero [Drunks, Level 26]: thcx
 [2021-04-02 23:36:29]: ***  [, Level 0]: '*NigGa_' entered and joined the game
+[2021-04-02 23:36:40]: ***  [, Level 0]: '*NigGa_' has left the game
