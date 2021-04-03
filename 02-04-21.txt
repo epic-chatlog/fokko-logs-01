@@ -13621,3 +13621,5 @@
 [2021-04-02 21:31:46]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' changed name to 'S Y T H N'
 [2021-04-02 21:32:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-02 21:32:01]: weqe [MNKY, Level 11]: taser tards
+[2021-04-02 21:33:23]: S Y T H N [iPro, Level 37]: weqe: portal noob
+[2021-04-02 21:33:28]: weqe [MNKY, Level 11]: ?
