@@ -5097,3 +5097,4 @@
 [2021-04-03 06:39:55]: Swarfey [FookinLads, Level 60]: now u are a cup
 [2021-04-03 06:40:05]: Rimso [, Level 2]: yes
 [2021-04-03 06:40:19]:   [, Level 0]: power: black_cat: ?
+[2021-04-03 06:40:23]: ***  [, Level 0]: 'Axel' has left the game
