@@ -2258,3 +2258,10 @@
 [2021-04-03 02:51:55]: Fearless [FookinLads, Level 40]: BC|serwan:  ccme
 [2021-04-03 02:51:56]: Neoteny [, Level 0]: help
 [2021-04-03 02:51:57]: ***  [, Level 0]: 'redder panda' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-03 02:52:00]: Fearless [FookinLads, Level 40]: [D] BC|serwan:  right
+[2021-04-03 02:52:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-03 02:52:06]: Fearless [FookinLads, Level 40]: [D] BC|serwan:  right
+[2021-04-03 02:52:06]: ***  [, Level 0]: 'GOLD' has left the game
+[2021-04-03 02:52:06]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-03 02:52:07]: ***  [, Level 0]: 'Neoteny' has left the game
+[2021-04-03 02:52:08]: ***  [, Level 0]: 'Katz' has left the game
