@@ -7405,3 +7405,5 @@
 [2021-04-03 09:11:16]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-03 09:11:18]: ZEUS [, Level 25]: FULL WAR ?
 [2021-04-03 09:11:25]: FULL WAR [, Level 6]: ZEUS: hellp
+[2021-04-03 09:11:26]: ***  [, Level 0]: ### 'WarHammer'' xd
+[2021-04-03 09:11:37]: ZEUS [, Level 25]: FULL WAR its not my war
