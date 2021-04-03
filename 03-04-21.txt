@@ -10411,3 +10411,4 @@
 [2021-04-03 13:12:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-03 13:12:38]: ***  [, Level 0]: 'monkey' has left the game
 [2021-04-03 13:12:58]: Isegrin [, Level 54]: pidr
+[2021-04-03 13:13:25]: Isegrin [, Level 54]: BLIET
