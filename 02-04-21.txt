@@ -13691,3 +13691,4 @@
 [2021-04-02 22:17:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-02 22:19:33]: ***  [, Level 0]: 'ClemEntine' entered and joined the game
 [2021-04-02 22:21:04]: ***  [, Level 0]: 'x7|Flipper' entered and joined the game
+[2021-04-02 22:21:23]: ✯ | Bulash [|Supressed|, Level 24]: weqe: war4life dumb ass
