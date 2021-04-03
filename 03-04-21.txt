@@ -4885,3 +4885,8 @@
 [2021-04-03 06:25:01]: ***  [, Level 0]: Chillingo's killing spree was ended by ~DemoizL~ (15 blocks)
 [2021-04-03 06:25:03]: Rock [, Level 15]: go left
 [2021-04-03 06:25:04]: Rock [, Level 15]: yes
+[2021-04-03 06:25:18]: cookie [, Level 0]: Friendiship ;-):  dont help the anemys
+[2021-04-03 06:25:18]: ***  [, Level 0]: 'black_cat' has left the game
+[2021-04-03 06:25:21]: ***  [, Level 0]: 'black_cat' entered and joined the game
+[2021-04-03 06:25:25]: Rock [, Level 15]: Rimso: wait unfrezze me in the end
+[2021-04-03 06:25:25]: bob [MNKY, Level 36]: get bonus
