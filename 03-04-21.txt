@@ -8499,3 +8499,6 @@
 [2021-04-03 10:34:20]: ***  [, Level 0]: '.' entered and joined the game
 [2021-04-03 10:34:20]: ***  [, Level 0]: 'Telefantastic' entered and joined the game
 [2021-04-03 10:34:26]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: Mista bombastic: omg
+[2021-04-03 10:34:49]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: SUKA
+[2021-04-03 10:34:50]: ***  [, Level 0]: 'Killua' entered and joined the game
+[2021-04-03 10:34:51]: Sutzer [Guard, Level 0]: xD
