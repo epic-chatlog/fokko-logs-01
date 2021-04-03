@@ -13097,3 +13097,4 @@
 [2021-04-02 17:45:38]: weqe [MNKY, Level 11]: hi Flipper <3
 [2021-04-02 17:45:48]: Kirito♥ [♥, Level 23]: Flipper: hello my old son
 [2021-04-02 17:45:51]: Flipper [, Level 39]: hi
+[2021-04-02 17:46:08]: ***  [, Level 0]: 'Flipper' changed name to 'x7|Flipper'
