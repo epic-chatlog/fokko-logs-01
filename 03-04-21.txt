@@ -4823,3 +4823,4 @@
 [2021-04-03 06:20:05]: (1)Kezo [FookinLads, Level 0]: (1)|HolyHo|°: no
 [2021-04-03 06:20:29]: ***  [, Level 0]: '[D] mamikral011' has left the game (Timeout)
 [2021-04-03 06:20:29]: ***  [, Level 0]: 'mamikral011' has left the game (Timeout)
+[2021-04-03 06:20:41]:   [, Level 0]: f"{self.name}": laaaaaaaags
