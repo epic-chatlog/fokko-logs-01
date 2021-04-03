@@ -6176,3 +6176,7 @@
 [2021-04-03 08:01:46]: ***  [, Level 0]: 'power' has left the game
 [2021-04-03 08:01:46]:   [, Level 0]: (1)ERROR: stay dog
 [2021-04-03 08:01:51]: cookie [, Level 0]: lucas
+[2021-04-03 08:02:01]: cookie [, Level 0]: Lucas dont help kezo
+[2021-04-03 08:02:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-03 08:02:01]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: SAUD:  press 1
+[2021-04-03 08:02:06]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: SAUD:  press 1left
