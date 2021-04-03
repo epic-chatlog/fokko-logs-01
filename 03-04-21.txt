@@ -6977,3 +6977,7 @@
 [2021-04-03 08:39:35]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-03 08:39:38]: sun.slow(y) [sunrise., Level 35]: penguin: i fuck all of u in 1vs1
 [2021-04-03 08:39:42]: ***  [, Level 0]: 'Kirito♥' changed name to 'Kirito'
+[2021-04-03 08:39:46]: ERROR [404, Level 55]: uhm
+[2021-04-03 08:39:48]: ***  [, Level 0]: ERROR is on a killing spree with 5 blocks
+[2021-04-03 08:39:48]: penguin [², Level 4]: sun.slow(y): yeah sure
+[2021-04-03 08:39:56]: mamikral011 [, Level 25]: ♥TAKO♥: abi şekil yapanı şekil yaparız
