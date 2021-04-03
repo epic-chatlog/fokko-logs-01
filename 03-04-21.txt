@@ -2561,3 +2561,7 @@
 [2021-04-03 03:30:01]: Pigie♥ [♥, Level 36]: stop Fearless
 [2021-04-03 03:30:07]: Pigie♥ [♥, Level 36]: Fearless: STOP
 [2021-04-03 03:30:15]: Fearless [FookinLads, Level 40]: bad pig
+[2021-04-03 03:30:17]: ***  [, Level 0]: 'serwan' entered and joined the game
+[2021-04-03 03:30:23]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
+[2021-04-03 03:30:24]: Pigie♥ [♥, Level 36]: Fearless: no u bad pumkin
+[2021-04-03 03:30:24]: ChillerDragon [Chilli.*, Level 44]: im afk Lucas ^^
