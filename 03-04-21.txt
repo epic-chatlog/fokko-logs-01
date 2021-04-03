@@ -5058,3 +5058,7 @@
 [2021-04-03 06:36:11]: ***  [, Level 0]: 'K1M9N' joined the game
 [2021-04-03 06:36:21]: ***  [, Level 0]: 'power' has left the game
 [2021-04-03 06:36:21]: ***  [, Level 0]: 'power2' has left the game
+[2021-04-03 06:36:24]: ***  [, Level 0]: 'Rimso' finished the special race!
+[2021-04-03 06:36:25]: ***  [, Level 0]: 'K1M9N' joined the spectators
+[2021-04-03 06:36:28]: ***  [, Level 0]: 'K1M9N' joined the game
+[2021-04-03 06:36:31]: ***  [, Level 0]: (1)any is on a killing spree with 5 blocks
