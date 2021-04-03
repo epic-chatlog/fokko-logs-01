@@ -2686,3 +2686,5 @@
 [2021-04-03 03:41:39]: ***  [, Level 0]: cunt's killing spree was ended by RoberGN (5 blocks)
 [2021-04-03 03:41:41]: ***  [, Level 0]: 'uptoram' entered and joined the game
 [2021-04-03 03:41:44]: |ΛnץOиe| [, Level 0]: |HolyHo|: ahah
+[2021-04-03 03:41:59]: ***  [, Level 0]: 'uptoram' has left the game
+[2021-04-03 03:42:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
