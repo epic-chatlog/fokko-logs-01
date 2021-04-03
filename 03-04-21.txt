@@ -389,3 +389,9 @@
 [2021-04-03 01:02:12]: (1)SAUD [, Level 13]: GODLIKe:
 [2021-04-03 01:02:24]: (1)SAUD [, Level 13]: GODLIKe: what
 [2021-04-03 01:02:30]: GODLIKe [hax, Level 44]: u see ?
+[2021-04-03 01:02:33]: MieSlime [, Level 43]: GODLIKe:  do u play Rogue Company ?
+[2021-04-03 01:02:34]: (1)SAUD [, Level 13]: yeah?
+[2021-04-03 01:02:37]: GODLIKe [hax, Level 44]: no
+[2021-04-03 01:02:39]: GODLIKe [hax, Level 44]: MieSlime: no
+[2021-04-03 01:02:39]: ***  [, Level 0]: '(1)Friendiship ;' entered and joined the game
+[2021-04-03 01:02:42]: MieSlime [, Level 43]: GODLIKe:  ok xD
