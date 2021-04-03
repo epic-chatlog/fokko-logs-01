@@ -5348,3 +5348,7 @@
 [2021-04-03 06:59:39]: Falco642 [, Level 0]: wait
 [2021-04-03 06:59:39]: sL|whutasme [, Level 6]: kais:
 [2021-04-03 06:59:40]: Random Guy [, Level 40]: Maatiteusz: XDDDDDDD
+[2021-04-03 06:59:44]: Falco642 [, Level 0]: no 15 6
+[2021-04-03 06:59:44]: ***  [, Level 0]: 'Meetiteusz' entered and joined the game
+[2021-04-03 06:59:44]: Random Guy [, Level 40]: Maatiteusz: X KURWA D
+[2021-04-03 06:59:50]: Falco642 [, Level 0]: 16 6
