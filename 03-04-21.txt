@@ -5937,3 +5937,6 @@
 [2021-04-03 07:46:05]: ***  [, Level 0]: '(1)Kezo' changed name to 'Kezo'
 [2021-04-03 07:46:15]: Falco641 [, Level 18]: lmao
 [2021-04-03 07:46:19]: ***  [, Level 0]: 'Alien' entered and joined the game
+[2021-04-03 07:46:26]: (2)SAUD [, Level 0]: ✯ | FayZoR:
+[2021-04-03 07:46:28]: (2)SAUD [, Level 0]: Falco641:
+[2021-04-03 07:46:32]: Maatiteusz [TrRShClNrRs, Level 35]: cookie: yup
