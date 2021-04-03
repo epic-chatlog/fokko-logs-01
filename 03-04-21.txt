@@ -10328,3 +10328,4 @@
 [2021-04-03 12:54:14]: ***  [, Level 0]: 'Sutzer' has left the game (Timeout)
 [2021-04-03 12:54:14]: ***  [, Level 0]: '[D] Sutzer' has left the game (Timeout)
 [2021-04-03 12:54:21]: ***  [, Level 0]: 'koro' entered and joined the game
+[2021-04-03 12:55:06]: ***  [, Level 0]: 'Virus' entered and joined the game
