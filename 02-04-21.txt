@@ -13092,3 +13092,6 @@
 [2021-04-02 17:44:18]: ***  [, Level 0]: 'DrugdealerNeutr' has left the game
 [2021-04-02 17:45:05]: ***  [, Level 0]: 'DrugdealerNeutr' entered and joined the game
 [2021-04-02 17:45:16]: ***  [, Level 0]: 'Flipper' entered and joined the game
+[2021-04-02 17:45:34]: Flipper [, Level 39]: hi
+[2021-04-02 17:45:34]: ***  [, Level 0]: 'DrugdealerNeutr' has left the game
+[2021-04-02 17:45:38]: weqe [MNKY, Level 11]: hi Flipper <3
