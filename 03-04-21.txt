@@ -6020,3 +6020,6 @@
 [2021-04-03 07:50:33]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-03 07:50:35]: Rainbow Tee [KyStiKi, Level 10]: (1)Λtlantis Ψ: wait
 [2021-04-03 07:50:38]: :)|(: [, Level 1]: Kezo: why man
+[2021-04-03 07:50:42]: GOLD [404, Level 41]: ERROR: bad
+[2021-04-03 07:50:48]: ERROR. [404, Level 47]: tf it was ure fault.
+[2021-04-03 07:50:48]: Isegrin [, Level 54]: AAAAAAAAA
