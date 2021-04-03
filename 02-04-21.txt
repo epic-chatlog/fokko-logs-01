@@ -13967,3 +13967,4 @@
 [2021-04-02 23:45:01]: ***  [, Level 0]: '|HolyHo|' entered and joined the game
 [2021-04-02 23:45:04]: (1)SAUD [, Level 13]: |HolyHo|°:
 [2021-04-02 23:45:28]: |HolyHo| [TrRShClNrRs, Level 0]: ERROR: why u mad
+[2021-04-02 23:46:01]: |HolyHo|° [TrRShClNrRs, Level 0]: ERROR: dude
