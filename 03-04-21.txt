@@ -7408,3 +7408,4 @@
 [2021-04-03 09:11:26]: ***  [, Level 0]: ### 'WarHammer'' xd
 [2021-04-03 09:11:37]: ZEUS [, Level 25]: FULL WAR its not my war
 [2021-04-03 09:11:46]: (1)Friendiship  [, Level 0]: Rainbow Tee: ok, sorry
+[2021-04-03 09:12:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
