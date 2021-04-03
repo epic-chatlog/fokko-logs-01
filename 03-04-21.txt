@@ -9856,3 +9856,5 @@
 [2021-04-03 12:12:40]: [D] ✯ |toxicd [|Supressed, Level 21]: VeemID:
 [2021-04-03 12:12:43]: ***  [, Level 0]: 'any²' has left the game
 [2021-04-03 12:12:43]: ***  [, Level 0]: 'any' has left the game
+[2021-04-03 12:12:58]: lolpoep [Ape, Level 0]: koro <y
+[2021-04-03 12:12:59]: ***  [, Level 0]: 'power' has left the game
