@@ -7707,3 +7707,8 @@
 [2021-04-03 09:41:01]: ChillerDragon.* [Chilli.*, Level 41]: aaaaaaaaaa
 [2021-04-03 09:41:03]: ***  [, Level 0]: '✯ | Bulash' entered and joined the game
 [2021-04-03 09:41:10]: weqe [MNKY, Level 11]: ERROR: war ?
+[2021-04-03 09:41:12]: ChillerDragon [Chilli.*, Level 44]: omg
+[2021-04-03 09:41:15]: ChillerDragon [|*KoG*|, Level 44]: grenade
+[2021-04-03 09:41:18]: ERROR [404, Level 55]: weqe:  u didnt helped me so i dont help u.
+[2021-04-03 09:41:19]: ***  [, Level 0]: ChillerDragon.*'s killing spree was ended by kais (12 blocks)
+[2021-04-03 09:41:20]: ERROR [404, Level 55]: easy facts.
