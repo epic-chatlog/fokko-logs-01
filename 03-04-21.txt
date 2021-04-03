@@ -7609,3 +7609,9 @@
 [2021-04-03 09:31:57]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-03 09:31:57]: ChillerDragon [|*KoG*|, Level 44]: wir haben war weil ich weqe geholfen hab ERROR
 [2021-04-03 09:31:57]: lolpoep [Ape, Level 16]: weqe
+[2021-04-03 09:32:00]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-03 09:32:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-03 09:32:07]: ***  [, Level 0]: 'tee in black' has left the game
+[2021-04-03 09:32:07]: ***  [, Level 0]: 'penguin' has left the game
+[2021-04-03 09:32:10]: ***  [, Level 0]: 'WarHammer'' has left the game
+[2021-04-03 09:32:10]: ***  [, Level 0]: 'WarHammer' has left the game
