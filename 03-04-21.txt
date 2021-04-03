@@ -344,3 +344,8 @@
 [2021-04-03 00:56:10]: ***  [, Level 0]: 'dima tee' entered and joined the game
 [2021-04-03 00:56:28]: ♥TAKO♥ [, Level 24]: aağğğğ
 [2021-04-03 00:57:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-03 00:57:04]: (1)SAUD [, Level 13]: GP
+[2021-04-03 00:57:05]: ***  [, Level 0]: GODLIKe finished in: 1 minute(s) 45.32 second(s)
+[2021-04-03 00:57:06]: (1)SAUD [, Level 13]: GODLIKe:
+[2021-04-03 00:57:09]: GODLIKe. [GANG, Level 39]: wait
+[2021-04-03 00:57:09]: ***  [, Level 0]: GODLIKe. finished in: 3 minute(s) 10.72 second(s)
