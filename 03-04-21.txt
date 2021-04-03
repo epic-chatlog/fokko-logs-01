@@ -10124,3 +10124,5 @@
 [2021-04-03 12:33:24]: ***  [, Level 0]: [D] MieSlime's killing spree was ended by Pigie♥ (7 blocks)
 [2021-04-03 12:33:28]: ***  [, Level 0]: 'Kezo{D}' has left the game
 [2021-04-03 12:33:28]: ***  [, Level 0]: 'Kezo' has left the game
+[2021-04-03 12:33:38]: ***  [, Level 0]: 'teee' has left the game
+[2021-04-03 12:33:44]: ***  [, Level 0]: 'Adi' entered and joined the game
