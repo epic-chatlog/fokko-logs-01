@@ -8776,3 +8776,4 @@
 [2021-04-03 10:53:16]: ***  [, Level 0]: ### 'Kezo{D}' WAR
 [2021-04-03 10:53:17]: ***  [, Level 0]: 'Kezo{D}' has been muted for 60 seconds
 [2021-04-03 10:53:18]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-03 10:53:30]: ***  [, Level 0]: 'gian x' joined the spectators
