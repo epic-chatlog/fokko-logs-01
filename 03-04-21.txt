@@ -11471,3 +11471,5 @@
 [2021-04-03 15:13:02]: Shrimp [, Level 0]: t/money
 [2021-04-03 15:13:03]: Flipper [, Level 13]: oh wait
 [2021-04-03 15:13:06]: Flipper [, Level 13]: i forgot hold om
+[2021-04-03 15:13:08]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-03 15:13:15]: ***  [, Level 0]: 'Flipper' changed name to 'x7|Flipper'
