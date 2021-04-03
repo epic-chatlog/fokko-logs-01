@@ -3063,3 +3063,8 @@
 [2021-04-03 04:27:26]: ***  [, Level 0]: '[D] nenny' entered and joined the game
 [2021-04-03 04:27:26]: Random Guy [, Level 40]: comic: are you ready?
 [2021-04-03 04:27:35]: ***  [, Level 0]: 'Wheels' entered and joined the game
+[2021-04-03 04:27:45]: kais [, Level 65]: (1)NetFlix: going in a checkpoint tile
+[2021-04-03 04:27:47]: comic [comically, Level 12]: Random Guy: ive done it once tho
+[2021-04-03 04:27:49]: ***  [, Level 0]: '(1)sL|whutasme' has left the game
+[2021-04-03 04:27:49]: ***  [, Level 0]: 'sL|whutasme' has left the game
+[2021-04-03 04:27:56]: (1)NetFlix [, Level 14]: kais: where?
