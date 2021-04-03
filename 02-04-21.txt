@@ -13771,3 +13771,5 @@
 [2021-04-02 22:42:54]: SAUD [, Level 0]: ty
 [2021-04-02 22:45:05]: Flupper [, Level 13]: ihy
 [2021-04-02 22:45:14]: SAUD [, Level 0]: ihy
+[2021-04-02 22:45:30]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-02 22:45:31]: SAUD [, Level 0]: take me to the lpace
