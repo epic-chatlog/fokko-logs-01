@@ -5621,3 +5621,6 @@
 [2021-04-03 07:18:45]: ***  [, Level 0]: Ðeathscyth finished in: 5 minute(s) 11.82 second(s)
 [2021-04-03 07:19:21]: ***  [, Level 0]: '»Amirian YA«' entered and joined the game
 [2021-04-03 07:19:23]: kais [, Level 65]: Isegrin: ez nobo
+[2021-04-03 07:19:31]: Isegrin [, Level 54]: kais: u
+[2021-04-03 07:19:34]: kais [, Level 65]: :(
+[2021-04-03 07:19:36]:   [, Level 0]: Falco642: Isegrin: xd
