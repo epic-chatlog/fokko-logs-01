@@ -8237,3 +8237,8 @@
 [2021-04-03 10:16:29]: ChillerDragon [Chilli.*, Level 44]: hmm ERROR
 [2021-04-03 10:16:38]: kais [, Level 65]: xD
 [2021-04-03 10:16:38]: ***  [, Level 0]: 'HaTOms' has left the game
+[2021-04-03 10:16:41]: ChillerDragon [Chilli.*, Level 44]: lokka halbe ictf skill verloren ERROR
+[2021-04-03 10:16:45]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
+[2021-04-03 10:16:45]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-03 10:16:47]: GASHKA [#TeeGamers, Level 0]: bind "k" /kill
+[2021-04-03 10:16:53]: ERROR [404, Level 55]: ChillerDragon:  eher weniger ^^
