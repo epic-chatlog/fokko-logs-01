@@ -9705,3 +9705,10 @@
 [2021-04-03 11:58:44]: CKA3A4NIK[NR] [Night Raid, Level 35]: koro:
 [2021-04-03 11:58:47]: CKA3A4NIK[NR] [Night Raid, Level 35]:  thx
 [2021-04-03 11:59:11]: Pigie♥ [♥, Level 36]: HeavyGeneral:
+[2021-04-03 11:59:20]: ***  [, Level 0]: 859. Kezo{D} Time: 05:19.40, requested by Kezo{D}
+[2021-04-03 11:59:20]: ***  [, Level 0]: 'Axel' entered and joined the game
+[2021-04-03 11:59:22]: ***  [, Level 0]: '(1)Ghost' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 11:59:22]: ***  [, Level 0]: '(1)Ghost 2.0' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 11:59:22]: ***  [, Level 0]: 'Ghost' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 11:59:22]: ***  [, Level 0]: 'Ghost 2.0' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 11:59:24]: ***  [, Level 0]: 'Axel' has left the game
