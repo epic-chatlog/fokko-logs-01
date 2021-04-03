@@ -13951,3 +13951,4 @@
 [2021-04-02 23:39:27]: (1)SAUD [, Level 13]: yeah
 [2021-04-02 23:39:34]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
 [2021-04-02 23:39:48]: ***  [, Level 0]: '(1)ERROR.' entered and joined the game
+[2021-04-02 23:41:10]: ビール|Zero [Drunks, Level 26]: ERROR: LOOOK
