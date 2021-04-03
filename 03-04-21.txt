@@ -6505,3 +6505,5 @@
 [2021-04-03 08:16:10]: ERROR [404, Level 55]: sL|whutasme:  so ask YelloWorlD  if he sa ye u can otherwise no sorry :D
 [2021-04-03 08:16:13]: ***  [, Level 0]: ### 'WarHammer'' xd
 [2021-04-03 08:16:13]: sL|whutasme [, Level 7]: no no sorry ERROR i can't*
+[2021-04-03 08:16:18]: ***  [, Level 0]: 'Random Guy' entered and joined the game
+[2021-04-03 08:16:20]:   [, Level 0]: Kong: pls
