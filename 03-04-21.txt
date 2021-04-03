@@ -7037,3 +7037,6 @@
 [2021-04-03 08:43:53]: ♥TAKO♥ [, Level 24]: hadi bb
 [2021-04-03 08:43:56]: mamikral011 [, Level 25]: ♥TAKO♥: bb
 [2021-04-03 08:44:03]: ♥TAKO♥ [, Level 24]: plotumdayım
+[2021-04-03 08:44:16]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' has left the game
+[2021-04-03 08:44:19]: ERROR. [404, Level 73]: sun.slow(y): ?
+[2021-04-03 08:44:22]: ***  [, Level 0]: 'Kirito' changed name to 'Kirito♥'
