@@ -4484,3 +4484,7 @@
 [2021-04-03 05:53:04]: ***  [, Level 0]: 'Falco642' entered and joined the game
 [2021-04-03 05:53:14]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
 [2021-04-03 05:53:17]: ***  [, Level 0]: '(1)Λtlantis Ψ' entered and joined the game
+[2021-04-03 05:53:28]:   [, Level 0]: (1)Λtlantis Ψ: ♥TAKO♥:  :D
+[2021-04-03 05:53:31]:   [, Level 0]: (1)Λtlantis Ψ: ♥TAKO♥:  again
+[2021-04-03 05:53:32]: ♥TAKO♥ [, Level 24]: (2)Λtlantis Ψ:  :D
+[2021-04-03 05:53:38]: |HolyHo|° [, Level 28]: HeavyGeneral:
