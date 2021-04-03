@@ -6140,3 +6140,8 @@
 [2021-04-03 07:59:40]:   [, Level 0]: (1)Λtlantis Ψ: help me
 [2021-04-03 07:59:41]:   [, Level 0]: (1)Λtlantis Ψ: mamikral011:
 [2021-04-03 07:59:58]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-03 08:00:11]: Kezo [FookinLads, Level 41]: war war war
+[2021-04-03 08:00:13]: cookie [, Level 0]: dont kill
+[2021-04-03 08:00:13]: ***  [, Level 0]: (1)ERROR. finished in: 2 minute(s) 10.60 second(s)
+[2021-04-03 08:00:17]: Cylox [♥, Level 30]: (1)Λtlantis Ψ:
+[2021-04-03 08:00:18]: Kezo [FookinLads, Level 41]: cookie: help me = peace
