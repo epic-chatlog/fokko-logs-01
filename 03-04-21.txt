@@ -3403,3 +3403,7 @@
 [2021-04-03 04:54:48]: Random Guy [, Level 40]: cookie: hi
 [2021-04-03 04:54:50]: cookie [, Level 0]: Random Guy:  hi
 [2021-04-03 04:54:54]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-03 04:55:00]: cookie [, Level 0]: Random Guy:  i go take lolpoep up
+[2021-04-03 04:55:03]: Falco641 [, Level 18]: any:
+[2021-04-03 04:55:04]: ***  [, Level 0]: '(1)Λtlantis Ψ' entered and joined the game
+[2021-04-03 04:55:04]: ***  [, Level 0]: '(1)Λtlantis Ψ' has left the game
