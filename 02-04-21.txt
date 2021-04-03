@@ -13499,3 +13499,4 @@
 [2021-04-02 19:47:20]: ***  [, Level 0]: 'DrugdealerNeutr' has left the game
 [2021-04-02 19:47:20]: ***  [, Level 0]: 'x7|zemer' has left the game
 [2021-04-02 19:52:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-02 19:57:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
