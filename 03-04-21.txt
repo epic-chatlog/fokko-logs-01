@@ -1866,3 +1866,9 @@
 [2021-04-03 02:21:22]: ***  [, Level 0]: 'Fearless' has left the game
 [2021-04-03 02:21:24]: (1)kais [, Level 58]: GODLIKe.: no u
 [2021-04-03 02:21:26]: GODLIKe. [GANG, Level 39]: u
+[2021-04-03 02:21:36]: ***  [, Level 0]: 'Fearless' entered and joined the game
+[2021-04-03 02:21:40]: (1)kais [, Level 58]: no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u
+[2021-04-03 02:21:40]: HeavyGeneral [FookinLads, Level 44]: Random Guy: nice laser
+[2021-04-03 02:21:45]: ***  [, Level 0]: 'i am jerry kill' has left the game
+[2021-04-03 02:21:48]: Random Guy [, Level 40]: HeavyGeneral: ye thank you
+[2021-04-03 02:21:48]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
