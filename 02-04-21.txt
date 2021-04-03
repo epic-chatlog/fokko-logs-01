@@ -13719,3 +13719,5 @@
 [2021-04-02 22:32:42]: Flupper [, Level 13]: go spaWN
 [2021-04-02 22:32:52]: weqe [MNKY, Level 11]: SAUD: my brother
 [2021-04-02 22:32:52]: SAUD [, Level 0]: ca
+[2021-04-02 22:33:02]: weqe [MNKY, Level 11]: wtf SAUD
+[2021-04-02 22:33:03]: SAUD [, Level 0]: duder
