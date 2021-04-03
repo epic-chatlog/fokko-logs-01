@@ -10494,3 +10494,5 @@
 [2021-04-03 13:23:02]: sun.slow(y) [sunrise., Level 0]: S Y T H N: wuppertal wieso
 [2021-04-03 13:23:11]: S Y T H N [iPro, Level 37]: sun.slow(y): wollte er nur wissen xD
 [2021-04-03 13:23:17]: sun.slow(y) [sunrise., Level 0]: S Y T H N: will der vorbei kommen
+[2021-04-03 13:23:25]: sun.slow(y) [sunrise., Level 0]: S Y T H N: bisschen mein sack krauln oder whuus
+[2021-04-03 13:23:27]: S Y T H N [iPro, Level 37]: sun.slow(y): kaann gut sein
