@@ -4378,3 +4378,9 @@
 [2021-04-03 05:47:46]: ***  [, Level 0]: 'nennybaba' has left the game
 [2021-04-03 05:47:47]: cookie [, Level 0]: f"{self.name}":  f you war4life njow
 [2021-04-03 05:47:55]: ✯ |toxicdaddy [|Supressed, Level 24]: [D] mamikral011: YOU WANT WAR YOU GET WAR
+[2021-04-03 05:48:06]:   [, Level 0]: [INFO]: ♥TAKO♥: it only works with 0.7 client
+[2021-04-03 05:48:10]: ***  [, Level 0]: ### 'brainless tee' CTRL + SHIFT + Q = RAINBOW
+[2021-04-03 05:48:11]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
+[2021-04-03 05:48:13]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
+[2021-04-03 05:48:13]: ***  [, Level 0]: '✯ |toxicdaddy' has left the game
+[2021-04-03 05:48:13]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
