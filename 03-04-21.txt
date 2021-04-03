@@ -4839,3 +4839,5 @@
 [2021-04-03 06:22:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-03 06:22:02]: Rock [, Level 15]: you must first login then you can but
 [2021-04-03 06:22:08]: Rock [, Level 15]: buy
+[2021-04-03 06:22:16]: ***  [, Level 0]: ':)|(:' entered and joined the game
+[2021-04-03 06:22:18]: Rock [, Level 15]: Rimso: can i tell you about server?
