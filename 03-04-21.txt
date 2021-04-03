@@ -7988,3 +7988,9 @@
 [2021-04-03 10:00:24]: Rem's bae [, Level 42]: ChillerDragon.*: muss ich das :/  es sind doch deine wars
 [2021-04-03 10:00:27]: ***  [, Level 0]: 'Alien' left the minigame 'Survival'
 [2021-04-03 10:00:31]: ERROR [404, Level 55]: Rem's bae:  wenn dus tust hast du war.
+[2021-04-03 10:00:43]: Rem's bae [, Level 42]: ERROR: ahh du bist genauso wie er
+[2021-04-03 10:00:44]: ChillerDragon.* [Chilli.*, Level 41]: entweder  mit mir oder gegen mich Rem's bae
+[2021-04-03 10:00:50]: ERROR. [404, Level 73]: Rem's bae:  nur wenn du ihm hilfst.
+[2021-04-03 10:00:50]: ***  [, Level 0]: 'Hady' entered and joined the game
+[2021-04-03 10:00:50]: bob [MNKY, Level 36]: Rem's bae: war
+[2021-04-03 10:00:54]: ChillerDragon.* [|*KoG*|, Level 41]: Rem's bae: ne wir sind anders
