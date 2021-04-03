@@ -7279,3 +7279,5 @@
 [2021-04-03 08:59:21]: mamikral011 [, Level 25]: ERROR: help
 [2021-04-03 08:59:31]: ***  [�, Level 0]: 'gian x' joined the spectators
 [2021-04-03 08:59:35]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-03 09:00:00]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 09:00:04]: ***  [, Level 0]: 'gian x' joined the game
