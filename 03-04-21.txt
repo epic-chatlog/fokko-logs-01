@@ -118,3 +118,4 @@
 [2021-04-03 00:16:50]: ***  [, Level 0]: '(1)|HolyHo|°' entered and joined the game
 [2021-04-03 00:17:00]: ***  [, Level 0]: '(1)|HolyHo|' entered and joined the game
 [2021-04-03 00:17:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-03 00:17:54]: ***  [, Level 0]: 'nameless te' entered and joined the game
