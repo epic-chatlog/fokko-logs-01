@@ -3278,3 +3278,5 @@
 [2021-04-03 04:44:19]: cookie [, Level 0]: comic:  oow your dear
 [2021-04-03 04:44:23]: comic [comically, Level 12]: cookie: yup
 [2021-04-03 04:44:31]: mamikral011 [, Level 0]: BC|Tixnix:
+[2021-04-03 04:44:42]: ***  [, Level 0]: '|HolyHo|' entered and joined the game
+[2021-04-03 04:44:52]: mamikral011 [, Level 0]: :D
