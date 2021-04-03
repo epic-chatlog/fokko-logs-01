@@ -5469,3 +5469,5 @@
 [2021-04-03 07:07:06]: ***  [, Level 0]: 'ZEWO's dummy' has left the game
 [2021-04-03 07:07:14]: cookie [, Level 0]: nooo
 [2021-04-03 07:07:20]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-03 07:07:32]:   [, Level 0]: cunt: Isegrin: opfer
+[2021-04-03 07:07:32]: ***  [w, Level 0]: '(1)Nudelsaft c:' has left the game (Timeout Protection used)
