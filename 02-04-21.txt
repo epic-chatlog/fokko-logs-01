@@ -13636,3 +13636,5 @@
 [2021-04-02 21:39:29]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' changed name to 'Oh Nonames!'
 [2021-04-02 21:42:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-02 21:43:04]: ***  [, Level 0]: 'DrugdealerNeutr' entered and joined the game
+[2021-04-02 21:43:16]: ***  [, Level 0]: 'DrugdealerNeutr' has left the game
+[2021-04-02 21:43:21]: ***  [, Level 0]: 'DrugdealerNeutr' entered and joined the game
