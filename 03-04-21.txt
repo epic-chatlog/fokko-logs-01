@@ -11964,3 +11964,4 @@
 [2021-04-03 16:23:59]: Astra Pils [, Level 0]: wtf it doenst work
 [2021-04-03 16:24:04]: (1)Kirito [, Level 23]: yes or press f1 and type "bind k kill" without the ". Then press k
 [2021-04-03 16:24:26]: Astra Pils [, Level 0]: thanks that worked
+[2021-04-03 16:24:41]: Astra Pils [, Level 0]: masallah like we germans say
