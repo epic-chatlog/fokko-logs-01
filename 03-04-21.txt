@@ -12069,3 +12069,6 @@
 [2021-04-03 16:54:44]: S Y T H N [iPro, Level 37]: <-_->: der ez?
 [2021-04-03 16:54:47]: <-_-> [, Level 0]: ja xD
 [2021-04-03 16:55:03]: ***  [, Level 0]: (2)УБИВАТЬ!'s killing spree was ended by fomin (12 blocks)
+[2021-04-03 16:55:38]: ***  [, Level 0]: fomin is on a killing spree with 5 blocks
+[2021-04-03 16:55:40]: S Y T H N [iPro, Level 37]: all
+[2021-04-03 16:55:41]: ***  [, Level 0]: fomin's killing spree was ended by (2)УБИВАТЬ! (5 blocks)
