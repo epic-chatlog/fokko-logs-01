@@ -6227,3 +6227,5 @@
 [2021-04-03 08:04:39]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: come
 [2021-04-03 08:04:40]: Rainbow Tee [KyStiKi, Level 10]: come
 [2021-04-03 08:04:43]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: no
+[2021-04-03 08:04:51]: ***  [, Level 0]: 'lolpoep' has left the game (Timeout)
+[2021-04-03 08:04:58]: YelloWorlD [404, Level 73]: (1)ERROR: u want ur main ?
