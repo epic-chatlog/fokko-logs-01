@@ -3020,3 +3020,5 @@
 [2021-04-03 04:15:46]: ***  [, Level 0]: '[D] BC|Tixnix' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-03 04:15:48]: ***  [, Level 0]: 'Cylox♥' has left the game
 [2021-04-03 04:17:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-03 04:17:07]: sL|whutasme [, Level 5]: ✞|koro: stop pls
+[2021-04-03 04:17:11]: ***  [, Level 0]: '[D] BC|Tixnix' left the minigame 'Block'
