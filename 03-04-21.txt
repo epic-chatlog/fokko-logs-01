@@ -8496,3 +8496,6 @@
 [2021-04-03 10:34:12]: ***  [, Level 0]: 'Killua' has left the game
 [2021-04-03 10:34:12]: ***  [, Level 0]: 'Hurtful' joined the game
 [2021-04-03 10:34:18]: WarHammer [, Level 26]: Kezo:  asdkjafaf a  lan dami bak
+[2021-04-03 10:34:20]: ***  [, Level 0]: '.' entered and joined the game
+[2021-04-03 10:34:20]: ***  [, Level 0]: 'Telefantastic' entered and joined the game
+[2021-04-03 10:34:26]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: Mista bombastic: omg
