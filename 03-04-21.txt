@@ -2301,3 +2301,4 @@
 [2021-04-03 02:56:10]: evenredderpanda [TrRShClNrRs, Level 42]: ez moni
 [2021-04-03 02:56:19]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-03 02:56:40]: ***  [, Level 0]: 'power' has left the game
+[2021-04-03 02:57:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
