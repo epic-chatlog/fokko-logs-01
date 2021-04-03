@@ -13338,3 +13338,4 @@
 [2021-04-02 18:27:02]: ***  [, Level 0]: 'x7|Flipper' has left the game
 [2021-04-02 18:27:02]: ***  [, Level 0]: 'Flupper' has left the game
 [2021-04-02 18:32:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-02 18:35:07]: ***  [, Level 0]: 'nameless tee' entered and joined the game
