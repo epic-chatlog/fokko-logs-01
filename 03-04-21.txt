@@ -9620,3 +9620,4 @@
 [2021-04-03 11:51:16]: Kezo{D} [FookinLads, Level 38]: CKA3A4NIK[NR]:
 [2021-04-03 11:51:19]: ***  [, Level 0]: 'weqe' entered and joined the game
 [2021-04-03 11:51:24]: BulgarianTee [xSD7, Level 0]: CKA3A4NIK[NR]: war
+[2021-04-03 11:51:39]: CKA3A4NIK[NR] [Night Raid, Level 35]: BulgarianTee:  You start block me
