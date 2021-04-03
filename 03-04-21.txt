@@ -7617,3 +7617,7 @@
 [2021-04-03 09:32:10]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-03 09:32:27]: ERROR [404, Level 55]: lolpoep:  war
 [2021-04-03 09:32:28]: ***  [, Level 0]: 'Kyrma' has left the game
+[2021-04-03 09:32:34]: lolpoep [Ape, Level 16]: jou killd me hahaha
+[2021-04-03 09:32:35]: ***  [, Level 0]: ERROR's killing spree was ended by ChillerDragon (9 blocks)
+[2021-04-03 09:32:39]: ERROR [404, Level 55]: lolpoep:  and now u got war
+[2021-04-03 09:32:40]: ChillerDragon [Chilli.*, Level 44]: verstehe ich nich ERROR
