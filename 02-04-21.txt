@@ -13704,3 +13704,5 @@
 [2021-04-02 22:28:50]: Flupper [, Level 13]: weqe you have jetpack?
 [2021-04-02 22:29:04]: Flupper [, Level 13]: weqe:
 [2021-04-02 22:30:00]: ***  [, Level 0]: 'SAUD' entered and joined the game
+[2021-04-02 22:30:13]: SAUD [, Level 0]: صث
+[2021-04-02 22:30:14]: SAUD [, Level 0]: weqe:
