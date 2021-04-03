@@ -5931,3 +5931,4 @@
 [2021-04-03 07:45:35]: ***  [, Level 0]: 'Virus' entered and joined the game
 [2021-04-03 07:45:40]: cookie [, Level 0]: Maatit help
 [2021-04-03 07:45:44]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-03 07:45:53]: [D] ✯ |toxicd [|Supressed, Level 20]: Falco641: k
