@@ -13744,3 +13744,8 @@
 [2021-04-02 22:37:26]: Flupper [, Level 13]: go to bank
 [2021-04-02 22:37:28]: ***  [, Level 0]: 'weqe' has left the game
 [2021-04-02 22:37:30]: SAUD [, Level 0]: HELP
+[2021-04-02 22:37:33]: Flupper [, Level 13]: where
+[2021-04-02 22:37:36]: SAUD [, Level 0]: SPEC
+[2021-04-02 22:37:38]: SAUD [, Level 0]: IDK
+[2021-04-02 22:37:42]: SAUD [, Level 0]: OHH
+[2021-04-02 22:37:44]: Flupper [, Level 13]: damn mf
