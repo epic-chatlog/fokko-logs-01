@@ -4706,3 +4706,6 @@
 [2021-04-03 06:10:52]: ***  [, Level 0]: 'black_cat' has left the game
 [2021-04-03 06:10:53]: ***  [, Level 0]: 'black_cat' entered and joined the game
 [2021-04-03 06:10:57]: Fearless [FookinLads, Level 40]: are u guys stupid?
+[2021-04-03 06:11:25]: ***  [, Level 0]: 'black_cat' has left the game
+[2021-04-03 06:11:27]: ***  [, Level 0]: 'black_cat' entered and joined the game
+[2021-04-03 06:11:30]: cookie [, Level 0]: i lose
