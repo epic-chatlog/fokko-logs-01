@@ -1115,3 +1115,6 @@
 [2021-04-03 01:48:53]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-03 01:48:59]: [D] Boti. [.bad, Level 27]: what
 [2021-04-03 01:48:59]: Random Guy [, Level 0]: i just hooking you
+[2021-04-03 01:49:03]: [D] Boti. [.bad, Level 27]: what
+[2021-04-03 01:49:04]: Random Guy [, Level 0]: dude i have 2 jumps
+[2021-04-03 01:49:09]: ***  [, Level 0]: 'Cylox' has left the game
