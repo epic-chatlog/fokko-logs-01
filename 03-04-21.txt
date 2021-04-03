@@ -8083,3 +8083,5 @@
 [2021-04-03 10:06:06]: ChillerDragon [Chilli.*, Level 44]: ERROR: du hast sie aufgegriffen
 [2021-04-03 10:06:06]: ***  [, Level 0]: 'Rainbow Tee' has left the game
 [2021-04-03 10:06:07]: Rem's bae [, Level 42]: ChillerDragon: warum nicht ? xD
+[2021-04-03 10:06:11]: ERROR. [404, Level 73]: ChillerDragon.*:  exakt
+[2021-04-03 10:06:17]: ERROR. [404, Level 73]: so macht man das im Alter.
