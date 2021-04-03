@@ -7663,3 +7663,7 @@
 [2021-04-03 09:37:21]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-03 09:37:23]: ***  [, Level 0]: 'fernan' joined the spectators
 [2021-04-03 09:37:25]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-03 09:37:26]: ***  [, Level 0]: 'fernan' joined the game
+[2021-04-03 09:37:30]: ERROR [404, Level 55]: laggs
+[2021-04-03 09:37:31]: weqe [MNKY, Level 11]: pls someone block flappy
+[2021-04-03 09:37:34]: ***  [, Level 0]: 'fernan' joined the spectators
