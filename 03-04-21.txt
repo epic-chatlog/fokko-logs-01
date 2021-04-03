@@ -4579,3 +4579,5 @@
 [2021-04-03 05:58:19]: ***  [, Level 0]: 'Axel ²' entered and joined the game
 [2021-04-03 05:58:24]: [INFO] [, Level 0]: ♥TAKO♥: u have to stand still when u press it
 [2021-04-03 05:58:35]: [INFO] [, Level 0]: its kinda buggy it crashes sometimes
+[2021-04-03 05:58:45]: |HolyHo| [, Level 18]: Fearless: ok u can have it
+[2021-04-03 05:58:45]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
