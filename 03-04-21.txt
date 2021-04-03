@@ -4770,3 +4770,6 @@
 [2021-04-03 06:16:19]: ***  [, Level 0]: 'Kirito♥' entered and joined the game
 [2021-04-03 06:16:22]:   [, Level 0]: (1)any: Fearless: >
 [2021-04-03 06:16:33]: Fearless [FookinLads, Level 40]: AXAXAXAXAXAXAXAXA
+[2021-04-03 06:16:34]: Fearless [FookinLads, Level 40]: 9v1
+[2021-04-03 06:16:41]: ***  [, Level 0]: (1)Kezo is on a killing spree with 10 blocks
+[2021-04-03 06:16:44]: ***  [, Level 0]: el champeon is on a killing spree with 15 blocks
