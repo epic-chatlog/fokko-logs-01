@@ -6230,3 +6230,7 @@
 [2021-04-03 08:04:51]: ***  [, Level 0]: 'lolpoep' has left the game (Timeout)
 [2021-04-03 08:04:58]: YelloWorlD [404, Level 73]: (1)ERROR: u want ur main ?
 [2021-04-03 08:05:02]: ERROR [404, Level 55]: no need
+[2021-04-03 08:05:20]: Isegrin [, Level 54]: ERROR: i prank chilera :-D
+[2021-04-03 08:05:24]: (1)ERROR [404, Level 40]: Isegrin:  ^^
+[2021-04-03 08:05:25]: ***  [, Level 0]: WarHammer finished in: 1 minute(s) 27.54 second(s)
+[2021-04-03 08:05:25]: ***  [, Level 0]: New record: 6 minute(s) 52.86 second(s) better.
