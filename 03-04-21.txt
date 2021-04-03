@@ -11511,3 +11511,4 @@
 [2021-04-03 15:18:10]: x7|Flipper [xSD7, Level 13]: XD
 [2021-04-03 15:18:16]: x7|KshKsh99 [xSD7, Level 37]: (1)✯ | FayZoR: i dont know him
 [2021-04-03 15:18:22]: x7|Flipper [xSD7, Level 13]: huh
+[2021-04-03 15:18:32]: ***  [, Level 0]: 'Random Guy' has left the game (Timeout)
