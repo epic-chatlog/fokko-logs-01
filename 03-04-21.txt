@@ -2510,3 +2510,6 @@
 [2021-04-03 03:22:31]: HeavyGeneral [FookinLads, Level 44]: Fearless: anyways stop
 [2021-04-03 03:23:21]: ***  [, Level 0]: |~| finished in: 2 minute(s) 14.20 second(s)
 [2021-04-03 03:23:25]: ***  [, Level 0]: |-| finished in: 3 minute(s) 55.12 second(s)
+[2021-04-03 03:23:42]: Fearless [FookinLads, Level 40]: HeavyGeneral:  hes stupid af
+[2021-04-03 03:23:43]: HeavyGeneral [FookinLads, Level 44]: koro: stop
+[2021-04-03 03:23:47]: HeavyGeneral [FookinLads, Level 44]: Fearless: stop too
