@@ -5894,3 +5894,7 @@
 [2021-04-03 07:43:39]: ***  [, Level 0]: 'power2' entered and joined the game
 [2021-04-03 07:43:43]: ***  [, Level 0]: '(2)SAUD' entered and joined the game
 [2021-04-03 07:43:52]: ***  [, Level 0]: 'ERROR' entered and joined the game
+[2021-04-03 07:43:58]: ***  [, Level 0]: 'ERROR.' entered and joined the game
+[2021-04-03 07:44:00]:   [, Level 0]: ERROR.: tf
+[2021-04-03 07:44:01]:   [, Level 0]: Meetiteusz: YelloWorlD: thx
+[2021-04-03 07:44:03]: ***  [, Level 0]: '»Amirian YA«' entered and joined the game
