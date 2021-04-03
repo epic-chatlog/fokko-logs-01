@@ -7908,3 +7908,7 @@
 [2021-04-03 09:54:03]: ChillerDragon.* [Chilli.*, Level 41]: spiky ERROR bob
 [2021-04-03 09:54:05]: (1)kais [, Level 58]: bob: because not my war
 [2021-04-03 09:54:06]: bob [MNKY, Level 36]: ok
+[2021-04-03 09:54:06]: ***  [, Level 0]: 'P4Pyr0s' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 09:54:06]: ***  [, Level 0]: '<-_->' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 09:54:08]: Rem's dummy [, Level 38]: the one under u
+[2021-04-03 09:54:14]: bob [MNKY, Level 36]: (1)kais: i killed myself
