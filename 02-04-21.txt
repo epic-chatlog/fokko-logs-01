@@ -13162,3 +13162,6 @@
 [2021-04-02 18:03:06]: weqe [MNKY, Level 11]: yes
 [2021-04-02 18:03:08]: weqe [MNKY, Level 11]: more right
 [2021-04-02 18:04:29]: aw [Z-Team, Level 0]: help
+[2021-04-02 18:04:42]: weqe [MNKY, Level 11]: what is this
+[2021-04-02 18:04:43]: aw [Z-Team, Level 0]: how dafuq did i got here
+[2021-04-02 18:04:43]: weqe [MNKY, Level 11]: where ru
