@@ -3761,3 +3761,8 @@
 [2021-04-03 05:14:39]: SAUD [, Level 0]: t
 [2021-04-03 05:14:41]: BC|Tixnix [BC, Level 33]: Random Guy:
 [2021-04-03 05:14:41]: cookie [, Level 0]: wear
+[2021-04-03 05:14:44]: ***  [, Level 0]: f"{self.name}"'s killing spree was ended by (1)kais (5 blocks)
+[2021-04-03 05:14:46]: mamikral011 [, Level 25]: cookie: war?
+[2021-04-03 05:14:48]: any [404, Level 37]: kais:
+[2021-04-03 05:14:52]: cookie [, Level 0]: mamikral011:  wear are you
+[2021-04-03 05:14:53]: ***  [, Level 0]: 'MieSlime' entered and joined the game
