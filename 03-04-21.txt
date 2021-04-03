@@ -4576,3 +4576,5 @@
 [2021-04-03 05:58:10]: f"{self.name}" [, Level 0]: Falco642: troll with me :D
 [2021-04-03 05:58:10]: |HolyHo|° [, Level 28]: Axel: hi
 [2021-04-03 05:58:14]:   [, Level 0]: Falco642: ok
+[2021-04-03 05:58:19]: ***  [, Level 0]: 'Axel ²' entered and joined the game
+[2021-04-03 05:58:24]: [INFO] [, Level 0]: ♥TAKO♥: u have to stand still when u press it
