@@ -12038,3 +12038,5 @@
 [2021-04-03 16:43:27]: (2)УБИВАТ [, Level 0]: me spawn)
 [2021-04-03 16:44:22]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 5 blocks
 [2021-04-03 16:44:34]: (2)УБИВАТ [, Level 0]: gg wp
+[2021-04-03 16:45:27]: ***  [, Level 0]: '[RUS]' entered and joined the game
+[2021-04-03 16:45:28]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 10 blocks
