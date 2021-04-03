@@ -13752,3 +13752,6 @@
 [2021-04-02 22:37:46]: SAUD [, Level 0]: ABOVE U NEAR
 [2021-04-02 22:37:49]: SAUD [, Level 0]: the indf
 [2021-04-02 22:37:56]: SAUD [, Level 0]: xD
+[2021-04-02 22:37:57]: Flupper [, Level 13]: .
+[2021-04-02 22:38:03]: SAUD [, Level 0]: xDDD
+[2021-04-02 22:38:07]: SAUD [, Level 0]: kill >
