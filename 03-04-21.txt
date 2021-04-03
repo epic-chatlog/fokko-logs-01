@@ -7246,3 +7246,7 @@
 [2021-04-03 08:57:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-03 08:57:03]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-03 08:57:03]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-03 08:57:11]: ***  [, Level 0]: '(1)SAUD' has left the game
+[2021-04-03 08:57:15]: any [404, Level 37]: kais: moyen je sors ? :D
+[2021-04-03 08:57:16]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-03 08:57:19]:   [, Level 0]: tee in black: УБИВАТЬ!: ты жалок xD
