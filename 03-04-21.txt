@@ -4440,3 +4440,5 @@
 [2021-04-03 05:51:12]: power [TrRShClNrRs, Level 13]: wake up Zer
 [2021-04-03 05:51:13]: ***  [, Level 0]: 'Falco641' has left the game (Timeout)
 [2021-04-03 05:51:13]: ***  [, Level 0]: 'Falco642' has left the game (Timeout)
+[2021-04-03 05:51:16]: cookie [, Level 0]: no
+[2021-04-03 05:51:24]: (2)Λtlantis Ψ [ᅟᅟ , Level 0]: ♥TAKO♥:  i timeout
