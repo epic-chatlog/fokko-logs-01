@@ -2417,3 +2417,6 @@
 [2021-04-03 03:12:01]: ***  [, Level 0]: 'Mista bombastic' has left the game
 [2021-04-03 03:12:19]: ***  [, Level 0]: 'redder panda' has left the game
 [2021-04-03 03:12:19]: ***  [, Level 0]: 'evenredderpanda' has left the game
+[2021-04-03 03:12:21]: |HolyHo| [, Level 18]: ChillerDragon: hello again
+[2021-04-03 03:12:22]: ***  [, Level 0]: 'Katz' has left the game
+[2021-04-03 03:12:24]: ChillerDragon.* [|*KoG*|, Level 41]: hi |HolyHo|
