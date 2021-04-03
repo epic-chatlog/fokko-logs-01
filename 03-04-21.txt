@@ -515,3 +515,7 @@
 [2021-04-03 01:11:52]: ***  [, Level 0]: 'GASHKA' entered and joined the game
 [2021-04-03 01:11:53]: Pigi♥ [♥, Level 0]: FAKING IDIOT
 [2021-04-03 01:11:53]: hhh5 [hax, Level 44]: fake
+[2021-04-03 01:11:59]: WarHammer [, Level 25]: ChillerDragon:  wowowo  hi
+[2021-04-03 01:12:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-03 01:12:03]: ***  [, Level 0]: 'lonchantao' entered and joined the game
+[2021-04-03 01:12:07]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
