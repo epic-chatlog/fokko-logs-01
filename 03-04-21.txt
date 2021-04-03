@@ -3107,3 +3107,4 @@
 [2021-04-03 04:33:18]: Falco641 [, Level 0]: dont help
 [2021-04-03 04:33:20]: [D] nenny [, Level 0]: ok
 [2021-04-03 04:33:40]: ***  [, Level 0]: 'Falco642' entered and joined the game
+[2021-04-03 04:34:15]: Lucas [THECEPS, Level 33]: HeavyGeneral: chiller is gone now
