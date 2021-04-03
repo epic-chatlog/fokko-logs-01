@@ -9442,3 +9442,7 @@
 [2021-04-03 11:36:47]: bob [MNKY, Level 36]: hello sir
 [2021-04-03 11:36:52]: ***  [, Level 0]: 'Sutzer' entered and joined the game
 [2021-04-03 11:37:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-03 11:37:05]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
+[2021-04-03 11:37:06]: Kezo{D} [FookinLads, Level 38]: lag
+[2021-04-03 11:37:08]: Kezo{D} [FookinLads, Level 38]: WTF
+[2021-04-03 11:37:12]: Kezo{D} [FookinLads, Level 38]: MY PC İS REALY BAD
