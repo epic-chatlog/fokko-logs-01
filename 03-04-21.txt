@@ -11013,3 +11013,12 @@
 [2021-04-03 14:21:49]: ♥TAKO♥ [, Level 24]: Λtlantis Ψ:  why:c
 [2021-04-03 14:21:51]: ChillerDragon.* [Chilli.*, Level 41]: whatever i rq
 [2021-04-03 14:21:52]: Λtlantis Ψ [ᅟᅟ , Level 13]: ♥TAKO♥:  your friend
+[2021-04-03 14:21:54]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
+[2021-04-03 14:21:54]: ***  [, Level 0]: 'ChillerDragon' has left the game
+[2021-04-03 14:21:54]: Λtlantis Ψ [ᅟᅟ , Level 13]: ♥TAKO♥:  mamikral
+[2021-04-03 14:21:56]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
+[2021-04-03 14:21:56]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
+[2021-04-03 14:21:57]: Λtlantis Ψ [ᅟᅟ , Level 13]: ♥TAKO♥:  my enemy
+[2021-04-03 14:22:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-03 14:22:02]: Λtlantis Ψ [ᅟᅟ , Level 13]: any:  beans?
+[2021-04-03 14:22:03]: ♥TAKO♥ [, Level 24]: Λtlantis Ψ:  why ur enemy
