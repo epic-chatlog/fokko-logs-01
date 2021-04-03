@@ -354,3 +354,5 @@
 [2021-04-03 00:57:55]: Telefantastic [TrRShClNrRs, Level 0]: power: hii
 [2021-04-03 00:58:02]: GODLIKe. [GANG, Level 39]: Telefantastic: u
 [2021-04-03 00:58:12]: Telefantastic [TrRShClNrRs, Level 0]: GODLIKe: me
+[2021-04-03 00:58:14]: GODLIKe [hax, Level 44]: u
+[2021-04-03 00:58:22]: ***  [, Level 0]: 'Telefantastic' has left the game
