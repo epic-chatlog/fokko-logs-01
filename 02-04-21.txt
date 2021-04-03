@@ -13990,3 +13990,4 @@
 [2021-04-02 23:51:42]: ***  [, Level 0]: 'Boti.' entered and joined the game
 [2021-04-02 23:52:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-02 23:54:36]: |HolyHo| [TrRShClNrRs, Level 17]: Boti.: 1v1'?
+[2021-04-02 23:54:56]: Boti. [.bad, Level 32]: sure
