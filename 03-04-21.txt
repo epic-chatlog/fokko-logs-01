@@ -8770,3 +8770,9 @@
 [2021-04-03 10:53:05]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-03 10:53:07]: Juan. [TrRShClNrRs, Level 42]: TL|ŦƹƦ$ŦǾN: AIFD
 [2021-04-03 10:53:07]: Kezo{D} [FookinLads, Level 38]: WOWW
+[2021-04-03 10:53:09]: Kezo{D} [FookinLads, Level 38]: WARAWRARWARWARAW
+[2021-04-03 10:53:10]: Kezo{D} [FookinLads, Level 38]: WAR
+[2021-04-03 10:53:15]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-03 10:53:16]: ***  [, Level 0]: ### 'Kezo{D}' WAR
+[2021-04-03 10:53:17]: ***  [, Level 0]: 'Kezo{D}' has been muted for 60 seconds
+[2021-04-03 10:53:18]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
