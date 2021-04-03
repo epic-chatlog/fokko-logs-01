@@ -629,3 +629,7 @@
 [2021-04-03 01:21:06]: ***  [, Level 0]: 'proooooyum' joined the spectators
 [2021-04-03 01:21:07]: ***  [, Level 0]: 'ERROR' has left the game
 [2021-04-03 01:21:07]: ***  [, Level 0]: 'ERROR.' has left the game
+[2021-04-03 01:21:10]: ***  [, Level 0]: 'proooooyum' joined the game
+[2021-04-03 01:21:12]: ***  [, Level 0]: ### 'WarHammer'' xd
+[2021-04-03 01:21:17]: ***  [, Level 0]: '(1)ERROR.' has left the game
+[2021-04-03 01:21:17]: ***  [, Level 0]: '(1)ERROR' has left the game
