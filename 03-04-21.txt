@@ -11267,3 +11267,5 @@
 [2021-04-03 14:55:08]: WarHammer [, Level 26]: (1)✯ | FayZoR:
 [2021-04-03 14:55:56]: ***  [, Level 0]: 'Treebeard' entered and joined the game
 [2021-04-03 14:56:09]: ***  [, Level 0]: '(1)Ghost 2.0' entered and joined the game
+[2021-04-03 14:56:17]: x7|zemer [xSD7, Level 0]: Flipper:
+[2021-04-03 14:56:20]: ***  [, Level 0]: '(1)Ghost 2.0' has left the game
