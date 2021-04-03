@@ -13958,3 +13958,7 @@
 [2021-04-02 23:42:44]: ERROR [404, Level 73]: stop
 [2021-04-02 23:42:48]: ERROR [404, Level 73]: stay there
 [2021-04-02 23:43:34]: ***  [, Level 0]: 'lol' entered and joined the game
+[2021-04-02 23:43:38]: ***  [, Level 0]: 'lol' has left the game
+[2021-04-02 23:43:39]: Rock [, Level 15]: nice
+[2021-04-02 23:43:45]: Rock [, Level 15]: can i take flag
+[2021-04-02 23:43:46]: ***  [, Level 0]: '|HolyHo|°' entered and joined the game
