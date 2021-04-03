@@ -343,3 +343,4 @@
 [2021-04-03 00:56:08]: ***  [, Level 0]: 'dima tee' has left the game
 [2021-04-03 00:56:10]: ***  [, Level 0]: 'dima tee' entered and joined the game
 [2021-04-03 00:56:28]: ♥TAKO♥ [, Level 24]: aağğğğ
+[2021-04-03 00:57:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
