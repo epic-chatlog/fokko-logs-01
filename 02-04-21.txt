@@ -13699,3 +13699,4 @@
 [2021-04-02 22:26:36]: ***  [, Level 0]: '✯ | Bulash' has left the game
 [2021-04-02 22:26:39]: weqe [MNKY, Level 11]: poka!!
 [2021-04-02 22:26:40]: x7|Flipper [xSD7, Level 39]: XDDD
+[2021-04-02 22:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
