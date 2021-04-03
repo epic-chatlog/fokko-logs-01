@@ -6102,3 +6102,6 @@
 [2021-04-03 07:56:47]:   [, Level 0]: (1)ERROR.: (2)SAUD:  war
 [2021-04-03 07:56:53]: Error 1love [Error, Level 9]: [D] mamikral011: havent
 [2021-04-03 07:56:56]: (1)SAUD [, Level 0]: WTF (1)ERROR  ?
+[2021-04-03 07:57:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-03 07:57:03]:   [, Level 0]: (1)ERROR.: (2)SAUD:  fucking stop stayin there
+[2021-04-03 07:57:07]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: Rainbow Tee:  wait there
