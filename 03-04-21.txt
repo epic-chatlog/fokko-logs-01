@@ -3049,3 +3049,8 @@
 [2021-04-03 04:26:15]: (1)sL|whutasme [, Level 0]: kais: i 50k moneyr
 [2021-04-03 04:26:20]: kais [, Level 65]: (1)sL|whutasme: nice
 [2021-04-03 04:26:28]: Random Guy [, Level 0]: comic:
+[2021-04-03 04:26:32]: Random Guy [, Level 0]: race
+[2021-04-03 04:26:35]: comic [comically, Level 12]: Random Guy: ?
+[2021-04-03 04:26:36]: (1)NetFlix [, Level 14]: kais: how can you get to the super room by the spawn?
+[2021-04-03 04:26:39]: comic [comically, Level 12]: Random Guy: oh ok
+[2021-04-03 04:26:44]: Random Guy [, Level 0]: wait
