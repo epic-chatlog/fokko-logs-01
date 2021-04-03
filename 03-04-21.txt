@@ -5271,3 +5271,9 @@
 [2021-04-03 06:54:31]:   [, Level 0]: (1)|HolyHo|: (1)ai9u7wgreaui: NO WAR
 [2021-04-03 06:54:41]: ***  [, Level 0]: 'Maatiteusz' entered and joined the game
 [2021-04-03 06:54:50]: Falco642 [, Level 0]: 6 4
+[2021-04-03 06:54:53]: ѕαвєя [FookinLads, Level 0]: (1)|HolyHo|: this is my first name
+[2021-04-03 06:54:53]:   [, Level 0]: power: Maatiteusz:
+[2021-04-03 06:54:56]:   [, Level 0]: Maatiteusz: power: ?
+[2021-04-03 06:54:56]:   [, Level 0]: power: can nu help pols m Maatiteusz
+[2021-04-03 06:55:01]:   [, Level 0]: Maatiteusz: power: ?
+[2021-04-03 06:55:01]:   [, Level 0]: power: get in er
