@@ -13579,3 +13579,5 @@
 [2021-04-02 21:06:53]: x7|Flipper [xSD7, Level 39]: why kill
 [2021-04-02 21:06:55]: ***  [, Level 0]: 'S Y T H N' changed name to 'ᅟᅟᅟᅟᅟ'
 [2021-04-02 21:06:56]: ᅟᅟᅟᅟᅟ [iPro, Level 37]: idk
+[2021-04-02 21:07:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-02 21:07:06]: x7|Flipper [xSD7, Level 39]: can you call sythn
