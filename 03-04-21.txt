@@ -4371,3 +4371,5 @@
 [2021-04-03 05:47:19]: ***  [, Level 0]: '»Amirian YA«' has left the game
 [2021-04-03 05:47:21]: cookie [, Level 0]: f"{self.name}":  fun war man
 [2021-04-03 05:47:23]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
+[2021-04-03 05:47:34]: ***  [, Level 0]: 'Kyrma' would have timed out, but can use timeout protection now
+[2021-04-03 05:47:34]: ***  [, Level 0]: 'Rainbow Tee' would have timed out, but can use timeout protection now
