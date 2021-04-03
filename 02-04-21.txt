@@ -13995,3 +13995,6 @@
 [2021-04-02 23:56:28]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
 [2021-04-02 23:56:50]: Boti. [.bad, Level 32]: xd
 [2021-04-02 23:56:56]: Boti. [.bad, Level 32]: kion nézd az epikó 1v1et
+[2021-04-02 23:57:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-02 23:57:07]: Kiøn1029 [.bad, Level 31]: XD
+[2021-04-02 23:57:10]: Kiøn1029 [.bad, Level 31]: teccetős
