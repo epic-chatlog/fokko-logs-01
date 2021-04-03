@@ -5600,3 +5600,5 @@
 [2021-04-03 07:17:19]:   [, Level 0]: Falco642: Isegrin: arrest
 [2021-04-03 07:17:24]:   [, Level 0]: Isegrin: Falco642: SHAT AP
 [2021-04-03 07:17:36]: ***  [, Level 0]: 'rayen' has left the game (Timeout)
+[2021-04-03 07:17:41]:   [, Level 0]: Falco642: Isegrin: i wanna arrest
+[2021-04-03 07:17:42]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
