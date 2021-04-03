@@ -2255,3 +2255,6 @@
 [2021-04-03 02:51:16]: ***  [, Level 0]: 'redder panda' left the minigame 'Block'
 [2021-04-03 02:51:39]: Neoteny [, Level 0]: help
 [2021-04-03 02:51:43]: ***  [, Level 0]: '[D] BC|Tixnix' finished the special race!
+[2021-04-03 02:51:55]: Fearless [FookinLads, Level 40]: BC|serwan:  ccme
+[2021-04-03 02:51:56]: Neoteny [, Level 0]: help
+[2021-04-03 02:51:57]: ***  [, Level 0]: 'redder panda' joined the minigame 'Block', use '/block' to join aswell
