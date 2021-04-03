@@ -7189,3 +7189,7 @@
 [2021-04-03 08:53:08]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-03 08:53:18]: tee in black [², Level 0]: lagggggg
 [2021-04-03 08:53:28]: ***  [, Level 0]: 'ISWI' entered and joined the game
+[2021-04-03 08:53:52]: Lucas [THECEPS, Level 33]: ✯ |toxicdaddy: he got flag
+[2021-04-03 08:53:57]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 08:53:57]: ***  [, Level 0]: 'Random Guy' has left the game
+[2021-04-03 08:53:57]: ***  [, Level 0]: '[D] Random Guy' has left the game
