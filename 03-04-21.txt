@@ -10635,3 +10635,6 @@
 [2021-04-03 13:42:55]: GODLIKe. [GANG, Level 0]: alg
 [2021-04-03 13:43:07]: GODLIKe [hax, Level 44]: Isegrin: ı rq bye
 [2021-04-03 13:43:10]: Isegrin [, Level 54]: ok nub
+[2021-04-03 13:43:13]: GODLIKe [hax, Level 44]: u
+[2021-04-03 13:43:14]: ***  [, Level 0]: 'GODLIKe.' has left the game
+[2021-04-03 13:43:14]: ***  [, Level 0]: 'GODLIKe' has left the game
