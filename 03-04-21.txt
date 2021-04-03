@@ -1308,3 +1308,5 @@
 [2021-04-03 01:56:56]: [D] BC|Tixnix [BC, Level 0]: ♥JustRace♥: ? i kiling no you
 [2021-04-03 01:57:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-03 01:57:03]: WarHammer' [, Level 16]: HeavyGeneral:  wtf police left
+[2021-04-03 01:57:05]: ♥JustRace♥ [xSD7, Level 0]: BC|Tixnix:  go
+[2021-04-03 01:57:06]: ***  [, Level 0]: 'Cylox♥' left the minigame 'Survival'
