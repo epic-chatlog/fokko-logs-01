@@ -133,3 +133,6 @@
 [2021-04-03 00:22:21]: Rock [, Level 15]: GODLIKe: you havent portal and you cant kill me
 [2021-04-03 00:22:30]: ビール|Zero [Drunks, Level 26]: HAHAHAHHAHG
 [2021-04-03 00:22:36]: ビール|Zero [Drunks, Level 26]: ez 506 money
+[2021-04-03 00:23:06]: ***  [, Level 0]: '(1)kais' has left the game (Timeout)
+[2021-04-03 00:23:06]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
+[2021-04-03 00:23:06]: ***  [, Level 0]: 'MieSlime' would have timed out, but can use timeout protection now
