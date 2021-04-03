@@ -5380,3 +5380,7 @@
 [2021-04-03 07:01:17]: Random Guy [, Level 40]: XD
 [2021-04-03 07:01:17]: Noob Redis [dum, Level 47]: XD
 [2021-04-03 07:01:18]: Falco642 [, Level 0]: 19 8
+[2021-04-03 07:01:22]: cookie [, Level 0]: you have fun war
+[2021-04-03 07:01:27]: ***  [, Level 0]: 'Sutzer' entered and joined the game
+[2021-04-03 07:01:29]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
+[2021-04-03 07:01:31]:   [, Level 0]: Isegrin: PranK
