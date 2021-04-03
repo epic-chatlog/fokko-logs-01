@@ -7771,3 +7771,8 @@
 [2021-04-03 09:45:16]: Rem's dummy [, Level 0]: weqe: whut
 [2021-04-03 09:45:21]: ERROR. [404, Level 73]: weqe:  imagine teaming with chiller
 [2021-04-03 09:45:22]: Rem's dummy [, Level 0]: weqe: tell me what happend
+[2021-04-03 09:45:27]: ERROR. [404, Level 73]: weqe:  like i said super gay.
+[2021-04-03 09:45:27]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 09:45:31]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-03 09:45:31]: ERROR. [404, Level 73]: weqe:  + wrong team.
+[2021-04-03 09:45:38]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
