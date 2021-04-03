@@ -11762,3 +11762,4 @@
 [2021-04-03 15:46:17]: Flupper [, Level 0]: i will
 [2021-04-03 15:46:23]: Starloot [Mobius, Level 0]: i was born at not not last night
 [2021-04-03 15:46:40]: x7|Flipper [xSD7, Level 13]: ass
+[2021-04-03 15:47:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
