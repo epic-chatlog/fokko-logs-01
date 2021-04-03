@@ -4780,3 +4780,6 @@
 [2021-04-03 06:17:05]: ***  [, Level 0]: 'Andresss' entered and joined the game
 [2021-04-03 06:17:10]: ***  [, Level 0]: 'Andresss' has left the game
 [2021-04-03 06:17:13]: ***  [, Level 0]: 'Andresss' entered and joined the game
+[2021-04-03 06:17:21]: ***  [, Level 0]: 'Andresss' has left the game
+[2021-04-03 06:17:23]: ***  [, Level 0]: 'black_cat' entered and joined the game
+[2021-04-03 06:17:30]: Fearless [FookinLads, Level 40]: mamikral011:  its very bad u guys need 5 ppl attacking me in same time to kill me
