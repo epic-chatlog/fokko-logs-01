@@ -10511,3 +10511,5 @@
 [2021-04-03 13:25:07]: Lucas [THECEPS, Level 33]: DarkStar: i took the long way
 [2021-04-03 13:25:12]: DarkStar [Painless, Level 0]: oh
 [2021-04-03 13:25:13]: sun.slow(y) [sunrise., Level 0]: FUCK
+[2021-04-03 13:25:43]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 5 blocks
+[2021-04-03 13:25:43]: sun.slow(y) [sunrise., Level 0]: ahahahah
