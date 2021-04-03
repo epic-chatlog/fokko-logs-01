@@ -351,3 +351,4 @@
 [2021-04-03 00:57:09]: ***  [, Level 0]: GODLIKe. finished in: 3 minute(s) 10.72 second(s)
 [2021-04-03 00:57:25]: ***  [, Level 0]: (1)SAUD finished in: 2 minute(s) 20.96 second(s)
 [2021-04-03 00:57:27]: ***  [, Level 0]: 'Telefantastic' entered and joined the game
+[2021-04-03 00:57:55]: Telefantastic [TrRShClNrRs, Level 0]: power: hii
