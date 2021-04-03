@@ -8360,3 +8360,8 @@
 [2021-04-03 10:21:05]: any [404, Level 37]: Falco641: dont care
 [2021-04-03 10:21:05]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
 [2021-04-03 10:21:07]: Cylox.♥ [♥, Level 0]: no
+[2021-04-03 10:21:10]: Falco641 [, Level 18]: bruh
+[2021-04-03 10:21:16]: ***  [, Level 0]: '(1)Friendiship ;' has left the game (Timeout)
+[2021-04-03 10:21:16]: ***  [, Level 0]: '(1)Friendiship ;' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 10:21:16]: ***  [, Level 0]: 'Friendiship ;-)' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 10:21:16]: ***  [, Level 0]: '(1)Friendiship ;' has left the game (Too weak connection (not acked for 60 seconds))
