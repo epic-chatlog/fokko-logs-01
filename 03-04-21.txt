@@ -10544,3 +10544,5 @@
 [2021-04-03 13:29:29]: ***  [, Level 0]: sun.slow(y)'s killing spree was ended by Isegrin (8 blocks)
 [2021-04-03 13:29:36]: Λtlantis Ψ [ᅟᅟ , Level 13]: [D] ✯ |toxicd:  come
 [2021-04-03 13:29:45]: Isegrin [, Level 54]: sun.slow(y): toxic wtF
+[2021-04-03 13:29:47]: ✯ |toxicdaddy [|Supressed, Level 0]: Λtlantis Ψ: danke
+[2021-04-03 13:29:51]: Λtlantis Ψ [ᅟᅟ , Level 13]: ✯ |toxicdaddy:  np
