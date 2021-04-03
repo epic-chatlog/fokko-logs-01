@@ -7201,3 +7201,5 @@
 [2021-04-03 08:54:11]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-03 08:54:15]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-03 08:54:20]: Pigie♥ [♥, Level 36]: ERROR: can i ples farm in police?
+[2021-04-03 08:54:25]: ERROR. [404, Level 73]: no
+[2021-04-03 08:54:33]: ***  [, Level 0]: 'gian x' joined the spectators
