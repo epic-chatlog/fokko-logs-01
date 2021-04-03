@@ -7522,3 +7522,5 @@
 [2021-04-03 09:26:47]: [D] mamikral011 [, Level 20]: deSi: orospu çocu
 [2021-04-03 09:26:52]: [D] mamikral011 [, Level 20]: deSi: war for life
 [2021-04-03 09:26:54]: WarHammer' [, Level 16]: deSi:  war
+[2021-04-03 09:26:56]: ***  [, Level 0]: 'Alien' entered and joined the game
+[2021-04-03 09:27:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
