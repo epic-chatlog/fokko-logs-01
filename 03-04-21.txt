@@ -4329,3 +4329,6 @@
 [2021-04-03 05:44:03]:   [, Level 0]: K1M9N: ВЫ ИЗДИВАЕТЕСЬ\
 [2021-04-03 05:44:09]: el champeon [, Level 0]: f"{self.name}": COME AND TROLL OTHERS
 [2021-04-03 05:44:09]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
+[2021-04-03 05:44:12]: mamikral011 [, Level 25]: ✯ |toxicdaddy:
+[2021-04-03 05:44:13]:   [, Level 0]: cookie: help me
+[2021-04-03 05:44:18]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
