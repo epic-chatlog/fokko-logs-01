@@ -4240,3 +4240,9 @@
 [2021-04-03 05:39:51]: ***  [, Level 0]: ### '[INFO]' CTRL+SHIFT+Q = RAINBOW
 [2021-04-03 05:39:51]: Fearless [FookinLads, Level 40]: comic XAXAXAXa
 [2021-04-03 05:39:52]: lolpoep [, Level 15]: f"{self.name}": wat
+[2021-04-03 05:39:56]: ***  [, Level 0]: 'K1M9N' joined the spectators
+[2021-04-03 05:39:59]: ***  [, Level 0]: 'K1M9N' joined the game
+[2021-04-03 05:40:00]:   [, Level 0]: [INFO]: COMIC :DDDD
+[2021-04-03 05:40:00]: Falco641 [, Level 18]: (1)Kezo: wtf? u just helped and now u trying to kill me?
+[2021-04-03 05:40:03]: White Wolf [, Level 24]: .S L E E P Y': why -_-
+[2021-04-03 05:40:04]: ***  [, Level 0]: 'Pigie♥' has left the game
