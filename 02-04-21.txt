@@ -13988,3 +13988,4 @@
 [2021-04-02 23:50:38]: ERROR [404, Level 73]: fookinlads and 404 use it.
 [2021-04-02 23:50:41]: ERROR [404, Level 73]: ye
 [2021-04-02 23:51:42]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[2021-04-02 23:52:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
