@@ -11650,3 +11650,6 @@
 [2021-04-03 15:31:37]: ***  [, Level 0]: '✯ | Chronos' changed name to 'x7|Chronos'
 [2021-04-03 15:31:38]: west morland [michi, Level 36]: losers
 [2021-04-03 15:31:46]: ***  [, Level 0]: 'ancelinajöle' has left the game
+[2021-04-03 15:32:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-03 15:32:07]: ***  [, Level 0]: '(1)✯ | FayZoR' changed name to '(1)x7|FayZoR'
+[2021-04-03 15:32:07]: ***  [, Level 0]: '(1)✯ | Chronos' changed name to '(1)x7|Chronos'
