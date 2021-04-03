@@ -8174,3 +8174,6 @@
 [2021-04-03 10:12:43]: ***  [, Level 0]: 'VeemID' has left the game (Timeout Protection over)
 [2021-04-03 10:12:45]: comic [comically, Level 12]: [D] ✯ |toxicd: where
 [2021-04-03 10:12:46]: any [404, Level 37]: Rem's bae: u help Falco war ok
+[2021-04-03 10:12:52]: Rem's bae [, Level 42]: any: xD
+[2021-04-03 10:12:54]: GASHKA [#TeeGamers, Level 0]: click f 1 and write bind "k" лшдд
+[2021-04-03 10:12:59]: GASHKA [#TeeGamers, Level 0]: kill*
