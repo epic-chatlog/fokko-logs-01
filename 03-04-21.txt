@@ -561,3 +561,5 @@
 [2021-04-03 01:15:13]: ***  [, Level 0]: 'Bartłomiejósz' entered and joined the game
 [2021-04-03 01:15:14]: ♥TAKO♥ [, Level 24]: LAN Bİ DK BANA AŞIK OLAN SANOREX DEİLDİ ZEWOYDU AMK
 [2021-04-03 01:15:19]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-03 01:15:26]: ***  [, Level 0]: 'Bartłomiejósz' has left the game
+[2021-04-03 01:15:26]: ♥TAKO♥ [, Level 24]: YANLIŞ BİLGİ VERDİM HERKEZE
