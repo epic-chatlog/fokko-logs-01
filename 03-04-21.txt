@@ -8622,3 +8622,6 @@
 [2021-04-03 10:42:22]: ***  [, Level 0]: 'hhh3' has left the game
 [2021-04-03 10:42:23]: WarHammer [, Level 26]: Kezo:  lag
 [2021-04-03 10:42:29]: Mista bombastic [TrRShClNrRs, Level 40]: TL|ŦƹƦ$ŦǾN: billy likes licking his own smegma
+[2021-04-03 10:42:35]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 10:42:39]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-03 10:42:40]: , [TrRShClNrRs, Level 41]: TL|ŦƹƦ$ŦǾN: a b c d
