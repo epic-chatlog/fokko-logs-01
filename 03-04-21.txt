@@ -246,3 +246,5 @@
 [2021-04-03 00:42:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-03 00:42:00]: ERROR [404, Level 73]: Cylox.♥:  stfu
 [2021-04-03 00:42:08]: ***  [, Level 0]: '♥TAKO♥' entered and joined the game
+[2021-04-03 00:42:10]: (1)|HolyHo| [TrRShClNrRs, Level 0]: ERROR: pls
+[2021-04-03 00:42:17]: GODLIKe [hax, Level 44]: Cylox.♥: bekle sen 2 dk ya geliyorum
