@@ -1608,3 +1608,10 @@
 [2021-04-03 02:09:03]: Random Guy [, Level 40]: xd
 [2021-04-03 02:09:08]: Random Guy [, Level 40]: kurama: sry
 [2021-04-03 02:09:11]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
+[2021-04-03 02:09:14]: kurama [, Level 7]: Random Guy: OK
+[2021-04-03 02:09:14]: (1)|HolyHo|° [TrRShClNrRs, Level 6]: HeavyGeneral: but help>
+[2021-04-03 02:09:15]: HeavyGeneral [FookinLads, Level 44]: |HolyHo|: whats ur name
+[2021-04-03 02:09:15]: [D] Boti. [.bad, Level 27]: yello balfaszkodik
+[2021-04-03 02:09:19]: kiøn1029 [.bad, Level 25]: aha
+[2021-04-03 02:09:20]: ***  [, Level 0]: 'i am jerry kill' has left the game
+[2021-04-03 02:09:23]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
