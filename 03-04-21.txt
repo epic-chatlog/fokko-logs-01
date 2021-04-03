@@ -7324,3 +7324,7 @@
 [2021-04-03 09:03:43]: ***  [, Level 0]: 'Kwadraciakowy' entered and joined the game
 [2021-04-03 09:03:51]: ***  [, Level 0]: '(1)Friendiship ;' entered and joined the game
 [2021-04-03 09:03:53]: ***  [, Level 0]: 'HeavyGeneral' entered and joined the game
+[2021-04-03 09:03:58]: ***  [, Level 0]: 'Handballgentina' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 09:03:58]: ***  [, Level 0]: 'Footballgentina' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 09:03:59]: ***  [, Level 0]: 'Kwadraciakowy' has left the game
+[2021-04-03 09:04:03]: ERROR [404, Level 55]: omg how sad
