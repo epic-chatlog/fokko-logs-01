@@ -6295,3 +6295,7 @@
 [2021-04-03 08:08:41]:   [, Level 0]: nennybaba: what are you doing?
 [2021-04-03 08:08:44]: Kezo{D} [FookinLads, Level 38]: ERROR: why ?
 [2021-04-03 08:08:44]:   [, Level 0]: nennybaba: bloodwave
+[2021-04-03 08:08:48]: Kezo{D} [FookinLads, Level 38]: ERROR: no reason ?
+[2021-04-03 08:08:48]:   [, Level 0]: [D] ♥TAKO♥: bob:  hi
+[2021-04-03 08:08:52]:   [, Level 0]: nennybaba: bloodwave
+[2021-04-03 08:08:54]:   [, Level 0]: nennybaba: why
