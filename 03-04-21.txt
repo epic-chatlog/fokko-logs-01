@@ -8301,3 +8301,9 @@
 [2021-04-03 10:19:00]: ERROR [404, Level 55]: ictf damals
 [2021-04-03 10:19:05]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
 [2021-04-03 10:19:07]: ERROR [404, Level 55]: zcatch aus
+[2021-04-03 10:19:09]: ERROR [404, Level 55]: auch
+[2021-04-03 10:19:10]: ChillerDragon [|*KoG*|, Level 44]: damals vlt noch easyDragon oder ERROR
+[2021-04-03 10:19:12]: ***  [, Level 0]: 'BULLETBOT' has left the game
+[2021-04-03 10:19:13]: Falco641 [, Level 18]: wow
+[2021-04-03 10:19:15]: Rem's bae [, Level 42]: xD
+[2021-04-03 10:19:17]: Rem's bae [, Level 42]: pro xD
