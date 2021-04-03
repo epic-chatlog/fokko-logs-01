@@ -3754,3 +3754,10 @@
 [2021-04-03 05:14:24]: Kezo [FookinLads, Level 41]: mamikral011: ADAMI ATMA
 [2021-04-03 05:14:26]: mamikral011 [, Level 25]: |HolyHo|°: come
 [2021-04-03 05:14:29]: BC|Tixnix [BC, Level 33]: bob: NOI NOI
+[2021-04-03 05:14:31]: SAUD [, Level 0]: oops
+[2021-04-03 05:14:31]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
+[2021-04-03 05:14:37]: SAUD [, Level 0]: Maatiteusz:
+[2021-04-03 05:14:38]: mamikral011 [, Level 25]: cookie: help
+[2021-04-03 05:14:39]: SAUD [, Level 0]: t
+[2021-04-03 05:14:41]: BC|Tixnix [BC, Level 33]: Random Guy:
+[2021-04-03 05:14:41]: cookie [, Level 0]: wear
