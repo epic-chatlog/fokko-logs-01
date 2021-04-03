@@ -7241,3 +7241,8 @@
 [2021-04-03 08:56:29]:   [, Level 0]: tee in black: УБИВАТЬ!: ты жалок xD
 [2021-04-03 08:56:47]: УБИВАТЬ! [, Level 0]: нубик)
 [2021-04-03 08:56:53]:   [, Level 0]: tee in black: УБИВАТЬ!: ты жалок xD
+[2021-04-03 08:56:59]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 08:57:00]: Pigie♥ [♥, Level 36]: xd Cylox.♥
+[2021-04-03 08:57:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-03 08:57:03]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-03 08:57:03]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 5 blocks
