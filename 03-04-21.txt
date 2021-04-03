@@ -2368,3 +2368,5 @@
 [2021-04-03 03:05:00]: |HolyHo|° [, Level 28]: HeavyGeneral: hellup
 [2021-04-03 03:05:21]: |HolyHo|° [, Level 28]: koro: hellup
 [2021-04-03 03:05:29]: any² [404, Level 0]: HeavyGeneral: he kills me ...q
+[2021-04-03 03:06:05]: ***  [, Level 0]: 'Lucas' entered and joined the game
+[2021-04-03 03:06:12]: any [404, Level 37]: ?
