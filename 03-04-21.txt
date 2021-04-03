@@ -7337,3 +7337,4 @@
 [2021-04-03 09:04:37]: any [404, Level 37]: ERROR: hi
 [2021-04-03 09:04:40]: ***  [, Level 0]: '(1)Λtlantis Ψ' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-03 09:04:40]: ***  [, Level 0]: 'Λtlantis Ψ' has left the game (Timeout)
+[2021-04-03 09:05:14]: ***  [, Level 0]: 'lolpoep' entered and joined the game
