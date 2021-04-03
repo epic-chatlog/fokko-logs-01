@@ -11925,3 +11925,4 @@
 [2021-04-03 16:18:46]: ***  [, Level 0]: 'Astra Pils' entered and joined the game
 [2021-04-03 16:18:51]: Astra Pils [, Level 0]: HALLO MY BROS
 [2021-04-03 16:18:55]: Astra Pils [, Level 0]: sry for CAPS
+[2021-04-03 16:19:21]: Astra Pils [, Level 0]: kill
