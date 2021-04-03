@@ -2217,3 +2217,4 @@
 [2021-04-03 02:48:27]: ***  [, Level 0]: 'Kirito' entered and joined the game
 [2021-04-03 02:48:28]: Fearless [FookinLads, Level 40]: YelloWorlD:  xaxaxa
 [2021-04-03 02:48:30]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
+[2021-04-03 02:48:58]: #3 blocker [TW|Blockers, Level 0]: 22
