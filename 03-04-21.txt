@@ -474,3 +474,6 @@
 [2021-04-03 01:08:18]: ***  [, Level 0]: '(1)ビール|Zero' entered and joined the game
 [2021-04-03 01:08:19]: ZEWO [, Level 0]: hhh5: ok
 [2021-04-03 01:08:20]: ***  [, Level 0]: '(1)Rock' entered and joined the game
+[2021-04-03 01:08:30]: ***  [, Level 0]: '(1)Rock' has left the game
+[2021-04-03 01:08:31]: ***  [, Level 0]: '(1)Rock' entered and joined the game
+[2021-04-03 01:08:32]: ***  [, Level 0]: ### 'WarHammer' xd
