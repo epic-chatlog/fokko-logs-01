@@ -3307,3 +3307,6 @@
 [2021-04-03 04:46:32]: cookie [, Level 0]: wear i need to jump
 [2021-04-03 04:46:36]: nennybaba [, Level 0]: Falco642: thanks :)
 [2021-04-03 04:46:39]: comic [comically, Level 12]: cookie: just walk into that
+[2021-04-03 04:46:41]: ***  [, Level 0]: 'hhh3' has left the game (Timeout)
+[2021-04-03 04:46:43]: cookie [, Level 0]: ok
+[2021-04-03 04:46:49]: comic [comically, Level 12]: cookie: not like that
