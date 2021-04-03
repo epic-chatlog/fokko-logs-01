@@ -8164,3 +8164,6 @@
 [2021-04-03 10:12:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-03 10:12:03]: bob [MNKY, Level 36]: obwohl 10 jahre ictf
 [2021-04-03 10:12:06]: GASHKA [#TeeGamers, Level 0]: you press k?
+[2021-04-03 10:12:17]: ERROR. [404, Level 73]: bob bin ictf player
+[2021-04-03 10:12:19]: ERROR. [404, Level 73]: again
+[2021-04-03 10:12:21]: ERROR. [404, Level 73]: kein blocker
