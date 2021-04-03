@@ -3974,3 +3974,9 @@
 [2021-04-03 05:24:33]: Kyrma [KyStiKi, Level 0]: Falco641:
 [2021-04-03 05:24:33]: Λtlantis Ψ [ᅟᅟ , Level 13]: ~DemoizL~:  heop
 [2021-04-03 05:24:33]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-03 05:24:36]: (1)-_- [, Level 0]: ~DemoizL~:
+[2021-04-03 05:24:39]:   [, Level 0]: power: Lucas:
+[2021-04-03 05:24:42]:   [, Level 0]: f"{self.name}": Soros: hahaha
+[2021-04-03 05:24:44]:   [, Level 0]: power: why changed skin Lucas
+[2021-04-03 05:24:44]: cookie [, Level 0]: dont
+[2021-04-03 05:24:45]: (1)-_- [, Level 0]: (1)Λtlantis Ψ: *
