@@ -13368,3 +13368,5 @@
 [2021-04-02 18:59:43]: (1)SAUD [, Level 0]: yeah
 [2021-04-02 18:59:45]: (1)SAUD [, Level 0]: i know
 [2021-04-02 18:59:52]: ***  [, Level 0]: 'hhh3' entered and joined the game
+[2021-04-02 18:59:57]: (1)SAUD [, Level 0]: i was about to tell u
+[2021-04-02 18:59:59]: ***  [, Level 0]: '✯|Not Bulash' entered and joined the game
