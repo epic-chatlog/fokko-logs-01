@@ -8555,3 +8555,5 @@
 [2021-04-03 10:37:30]: ***  [, Level 0]: 'Torento' has left the game
 [2021-04-03 10:37:46]: ***  [, Level 0]: koro is on a killing spree with 5 blocks
 [2021-04-03 10:37:51]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-03 10:38:15]: ***  [, Level 0]: 'Rem's dummy' has left the game
+[2021-04-03 10:38:15]: ***  [, Level 0]: 'Rem's bae' has left the game
