@@ -6915,3 +6915,5 @@
 [2021-04-03 08:34:45]: WarHammer' [, Level 16]: mamikral011:  SEN ATTIN OLM
 [2021-04-03 08:34:50]: [D] mamikral011 [, Level 20]: FULL WAR: bak işte benim dostum dedim yardım eder
 [2021-04-03 08:34:53]: [D] mamikral011 [, Level 20]: FULL WAR: war
+[2021-04-03 08:34:58]: ***  [, Level 0]: 'CriStaline' entered and joined the game
+[2021-04-03 08:35:06]: ***  [, Level 0]: 'tee in black' has left the game
