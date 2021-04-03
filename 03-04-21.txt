@@ -4651,3 +4651,5 @@
 [2021-04-03 06:03:44]: |HolyHo| [, Level 18]: ✞|koro: >
 [2021-04-03 06:03:52]:   [, Level 0]: (1)Ghost: :SPEC
 [2021-04-03 06:03:54]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
+[2021-04-03 06:03:59]: |HolyHo| [, Level 18]: HeavyGeneral: TWF
+[2021-04-03 06:04:06]: HeavyGeneral [FookinLads, Level 44]: bob: boring
