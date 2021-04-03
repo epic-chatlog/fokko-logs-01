@@ -10126,3 +10126,6 @@
 [2021-04-03 12:33:28]: ***  [, Level 0]: 'Kezo' has left the game
 [2021-04-03 12:33:38]: ***  [, Level 0]: 'teee' has left the game
 [2021-04-03 12:33:44]: ***  [, Level 0]: 'Adi' entered and joined the game
+[2021-04-03 12:33:47]: Kirito♥ [♥, Level 33]: kais: i think your IQ must be under 0.5
+[2021-04-03 12:33:47]: ***  [, Level 0]: 'Adi' has left the game
+[2021-04-03 12:33:47]: (1)kais [, Level 58]: Kirito♥: yeah, 0.5 braincells = a braincells that is still here but don't work correctly
