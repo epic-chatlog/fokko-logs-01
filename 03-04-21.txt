@@ -4205,3 +4205,4 @@
 [2021-04-03 05:38:12]: ***  [, Level 0]: ビール|Zero finished in: 1 minute(s) 41.78 second(s)
 [2021-04-03 05:38:12]: ***  [, Level 0]: New record: 29.58 second(s) better.
 [2021-04-03 05:38:23]: cookie [, Level 0]: no
+[2021-04-03 05:38:32]: ***  [, Level 0]: 'Pouet[NR]' entered and joined the game
