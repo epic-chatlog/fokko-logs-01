@@ -13434,3 +13434,6 @@
 [2021-04-02 19:20:41]: (1)Kirito♥ [♥, Level 32]: thx
 [2021-04-02 19:20:43]: SAUD [, Level 20]: np
 [2021-04-02 19:22:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-02 19:22:14]: Kirito♥ [♥, Level 23]: byee SAUD love you too xDD
+[2021-04-02 19:22:19]: ***  [, Level 0]: 'SAUD' has left the game
+[2021-04-02 19:22:21]: ***  [, Level 0]: '(1)SAUD' has left the game
