@@ -12058,3 +12058,4 @@
 [2021-04-03 16:51:05]: ***  [, Level 0]: fomjn's killing spree was ended by (2)УБИВАТЬ! (15 blocks)
 [2021-04-03 16:51:38]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 5 blocks
 [2021-04-03 16:52:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-03 16:52:33]: (2)УБИВАТ [, Level 0]: gg
