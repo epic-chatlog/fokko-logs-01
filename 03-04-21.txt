@@ -2693,3 +2693,7 @@
 [2021-04-03 03:42:10]: ***  [, Level 0]: 'Kinder' entered and joined the game
 [2021-04-03 03:42:15]: Lucas [THECEPS, Level 33]: Pigie♥: idc
 [2021-04-03 03:42:16]: |HolyHo| [, Level 18]: |MıssOяchiĐ|: but i so :D
+[2021-04-03 03:42:31]: ***  [, Level 0]: 'BC|serwan' has left the game (Timeout)
+[2021-04-03 03:42:32]: ***  [, Level 0]: '[D] BC|serwan' has left the game (Timeout)
+[2021-04-03 03:42:32]: ***  [, Level 0]: 'serwan' has left the game (Timeout)
+[2021-04-03 03:42:41]: ***  [, Level 0]: 'Pigi♥' has left the game
