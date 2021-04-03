@@ -1872,3 +1872,6 @@
 [2021-04-03 02:21:45]: ***  [, Level 0]: 'i am jerry kill' has left the game
 [2021-04-03 02:21:48]: Random Guy [, Level 40]: HeavyGeneral: ye thank you
 [2021-04-03 02:21:48]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
+[2021-04-03 02:21:50]:   [, Level 0]: Fearless: HeavyGeneral:  hey
+[2021-04-03 02:21:55]: ***  [, Level 0]: '~DemoizL~' has left the game (Timeout)
+[2021-04-03 02:21:57]: ***  [, Level 0]: ### 'WarHammer'' xd
