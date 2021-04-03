@@ -12020,3 +12020,5 @@
 [2021-04-03 16:36:52]: teee [, Level 0]: HH
 [2021-04-03 16:36:53]: teee [, Level 0]: 88
 [2021-04-03 16:36:56]: (1)УБИВАТ [, Level 0]: GG
+[2021-04-03 16:37:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-03 16:37:10]: teee [, Level 0]: ss mar
