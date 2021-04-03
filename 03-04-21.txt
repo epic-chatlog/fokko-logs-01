@@ -5321,3 +5321,5 @@
 [2021-04-03 06:57:59]:   [, Level 0]: power2: nw r´ty to!
 [2021-04-03 06:58:01]: ***  [, Level 0]: 'power' has left the game
 [2021-04-03 06:58:01]: ***  [, Level 0]: 'power2' has left the game
+[2021-04-03 06:58:06]:   [, Level 0]: Isegrin: Maatiteusz: PRANK
+[2021-04-03 06:58:10]: Falco642 [, Level 0]: 13 5
