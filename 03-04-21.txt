@@ -3084,3 +3084,6 @@
 [2021-04-03 04:30:08]: ***  [, Level 0]: '(1)-_-' entered and joined the game
 [2021-04-03 04:30:26]: (1)kais [, Level 58]: (1)NetFlix: you don't have checkpoint
 [2021-04-03 04:30:31]: Andresss [Citrom, Level 1]: what is money
+[2021-04-03 04:30:42]: (1)NetFlix [, Level 14]: kais: how can i get one?
+[2021-04-03 04:30:43]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-03 04:30:45]: kais [, Level 65]: (1)NetFlix: spec me
