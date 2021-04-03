@@ -8356,3 +8356,7 @@
 [2021-04-03 10:20:49]: GASHKA [#TeeGamers, Level 0]: press f1
 [2021-04-03 10:20:55]: GASHKA [#TeeGamers, Level 0]: stop
 [2021-04-03 10:20:56]: GODLIKe. [GANG, Level 0]: Deadmouse: war
+[2021-04-03 10:21:04]: ***  [, Level 0]: '(1)ERROR.' has left the game
+[2021-04-03 10:21:05]: any [404, Level 37]: Falco641: dont care
+[2021-04-03 10:21:05]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
+[2021-04-03 10:21:07]: Cylox.♥ [♥, Level 0]: no
