@@ -13001,3 +13001,4 @@
 [2021-04-02 16:57:56]: ***  [, Level 0]: 'Flupper' has left the game
 [2021-04-02 16:59:14]: ***  [, Level 0]: 'УБИВАТЬ!' has left the game
 [2021-04-02 17:01:08]: ***  [, Level 0]: '(1)УБИВАТЬ!' has left the game (Timeout)
+[2021-04-02 17:02:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
