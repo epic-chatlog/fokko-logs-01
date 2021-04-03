@@ -7678,3 +7678,8 @@
 [2021-04-03 09:38:09]: ***  [, Level 0]: 'Kyrma' entered and joined the game
 [2021-04-03 09:38:12]: ***  [, Level 0]: 'Alien' left the minigame 'Survival'
 [2021-04-03 09:38:22]: SAUD [, Level 13]: Lucas:  hi again xD
+[2021-04-03 09:38:28]: Lucas [THECEPS, Level 33]: SAUD: hi
+[2021-04-03 09:38:28]: ***  [, Level 0]: 'Kyrma' has left the game
+[2021-04-03 09:38:31]: Rainbow Tee [KyStiKi, Level 10]: Falco641:
+[2021-04-03 09:38:33]: ***  [, Level 0]: 'fernan' joined the spectators
+[2021-04-03 09:38:37]: ***  [, Level 0]: 'fernan' joined the game
