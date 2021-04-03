@@ -8802,3 +8802,5 @@
 [2021-04-03 10:56:19]: ***  [, Level 0]: kais finished in: 3 minute(s) 13.60 second(s)
 [2021-04-03 10:56:19]: ***  [, Level 0]: New record: 10 minute(s) 35.82 second(s) better.
 [2021-04-03 10:56:19]: ***  [, Level 0]: 'kais' finished the special race!
+[2021-04-03 10:56:23]: ***  [, Level 0]: '(1)kais' finished the special race!
+[2021-04-03 10:56:23]: ***  [, Level 0]: 'Katz' left the minigame 'Instagib Boom FNG'
