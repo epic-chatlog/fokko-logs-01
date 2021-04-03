@@ -7791,3 +7791,7 @@
 [2021-04-03 09:47:00]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-03 09:47:01]: kais [, Level 65]: ChillerDragon.*: you had it
 [2021-04-03 09:47:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-03 09:47:02]: Rem's bae [, Level 42]: weqe: bcs i dont even remember ur name tho...
+[2021-04-03 09:47:07]: ChillerDragon.* [Chilli.*, Level 41]: ye kais
+[2021-04-03 09:47:10]: ***  [, Level 0]: 'sun.slow(y)' has left the game
+[2021-04-03 09:47:10]: weqe [MNKY, Level 11]: Rem's bae: could it be someone was faking u
