@@ -5730,3 +5730,4 @@
 [2021-04-03 07:31:34]: ***  [, Level 0]: 'Ðeathscyth' has left the game
 [2021-04-03 07:31:42]: ►AmirianYA◄ [YARIMINAღ, Level 0]: Maatiteusz: sorry pls help
 [2021-04-03 07:31:48]:   [, Level 0]: SAUD: xD
+[2021-04-03 07:32:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
