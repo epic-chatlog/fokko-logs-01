@@ -13495,3 +13495,4 @@
 [2021-04-02 19:37:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-02 19:42:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-02 19:47:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-02 19:47:06]: ***  [, Level 0]: 'DrugdealerNeutr' entered and joined the game
