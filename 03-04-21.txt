@@ -5525,3 +5525,5 @@
 [2021-04-03 07:11:13]:   [, Level 0]: Falco642: cunt: your going to brazil
 [2021-04-03 07:11:32]: Isegrin [, Level 54]: __init__(self):: sigh heil
 [2021-04-03 07:11:48]:   [, Level 0]: Falco642: yyour going to brazil bad
+[2021-04-03 07:11:57]: Isegrin [, Level 54]: __init__(self):: lenin eto grib
+[2021-04-03 07:12:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
