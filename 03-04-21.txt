@@ -4631,3 +4631,7 @@
 [2021-04-03 06:01:56]: ***  [, Level 0]: 'Axel ²' has left the game
 [2021-04-03 06:02:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-03 06:02:04]: HeavyGeneral [FookinLads, Level 44]: ~DemoizL~: Dog
+[2021-04-03 06:02:13]: Fearless [FookinLads, Level 40]: omg bad
+[2021-04-03 06:02:17]: Fearless [FookinLads, Level 40]: inf jump player
+[2021-04-03 06:02:20]: (2)NetFlix [, Level 0]: Soros: you are free to come on (2)NetFlix
+[2021-04-03 06:02:20]: Fearless [FookinLads, Level 40]: and kills himself
