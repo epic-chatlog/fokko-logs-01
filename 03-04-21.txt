@@ -4319,3 +4319,6 @@
 [2021-04-03 05:43:18]:   [, Level 0]: cookie: ghost
 [2021-04-03 05:43:19]: ***  [, Level 0]: '»Amirian YA«' has left the game
 [2021-04-03 05:43:19]: ***  [, Level 0]: '►AmirianYA◄' has left the game
+[2021-04-03 05:43:24]: HeavyGeneral [FookinLads, Level 44]: bob: dog
+[2021-04-03 05:43:28]: [D] mamikral011 [, Level 0]: Lucas: fluffy 1
+[2021-04-03 05:43:28]: |HolyHo| [, Level 18]: HeavyGeneral: ~?
