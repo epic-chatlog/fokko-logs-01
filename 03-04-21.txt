@@ -3103,3 +3103,4 @@
 [2021-04-03 04:32:28]: ***  [, Level 0]: 'cookie' entered and joined the game
 [2021-04-03 04:32:39]: ***  [, Level 0]: 'Falco641' entered and joined the game
 [2021-04-03 04:32:41]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-03 04:33:04]: ***  [, Level 0]: 'mamikral011' has left the game
