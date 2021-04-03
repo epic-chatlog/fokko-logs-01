@@ -2224,3 +2224,5 @@
 [2021-04-03 02:49:16]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
 [2021-04-03 02:49:17]: ***  [, Level 0]: 741. GOLD Time: 03:15.56, requested by GOLD
 [2021-04-03 02:49:18]: HeavyGeneral [FookinLads, Level 44]: xDDD
+[2021-04-03 02:49:23]: ***  [, Level 0]: ### 'GOLD' xaxaxaxaxaxa
+[2021-04-03 02:49:28]: redder panda [TrRShClNrRs, Level 41]: 3 2
