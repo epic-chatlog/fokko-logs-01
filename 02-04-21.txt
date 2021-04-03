@@ -13541,3 +13541,4 @@
 [2021-04-02 21:01:47]: S Y T H N [iPro, Level 37]: Flupper: du bot
 [2021-04-02 21:01:50]: x7|Flipper [xSD7, Level 39]: hi sythn
 [2021-04-02 21:02:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-02 21:02:24]: S Y T H N [iPro, Level 37]: x7|Flipper: wait
