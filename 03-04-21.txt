@@ -7671,3 +7671,9 @@
 [2021-04-03 09:38:00]: ***  [, Level 0]: 'FULL WAR' has left the game
 [2021-04-03 09:38:00]: ***  [, Level 0]: 'deSi' has left the game
 [2021-04-03 09:38:01]: ERROR [404, Level 55]: oh weqe
+[2021-04-03 09:38:04]: lolpoep [Ape, Level 16]: i did 2 kills
+[2021-04-03 09:38:05]: ERROR [404, Level 55]: now we have war again
+[2021-04-03 09:38:05]: ***  [, Level 0]: ChillerDragon.* is on a killing spree with 10 blocks
+[2021-04-03 09:38:07]: ***  [, Level 0]: 'Alien' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-03 09:38:09]: ***  [, Level 0]: 'Kyrma' entered and joined the game
+[2021-04-03 09:38:12]: ***  [, Level 0]: 'Alien' left the minigame 'Survival'
