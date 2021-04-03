@@ -2465,3 +2465,5 @@
 [2021-04-03 03:19:02]: HeavyGeneral [FookinLads, Level 44]: helped to chiller
 [2021-04-03 03:19:04]: HeavyGeneral [FookinLads, Level 44]: stop acitng idiot
 [2021-04-03 03:19:24]: Lucas [THECEPS, Level 33]: [D] BC|serwan: BC|serwan
+[2021-04-03 03:19:26]: ***  [, Level 0]: '|-|' entered and joined the game
+[2021-04-03 03:19:28]: ***  [, Level 0]: '|~|' entered and joined the game
