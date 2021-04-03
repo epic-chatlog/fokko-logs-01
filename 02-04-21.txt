@@ -13778,3 +13778,7 @@
 [2021-04-02 22:47:20]: Flupper [, Level 13]: careful
 [2021-04-02 22:47:38]: Flupper [, Level 13]: coiem
 [2021-04-02 22:47:41]: Flupper [, Level 13]: walk off
+[2021-04-02 22:47:46]: SAUD [, Level 0]: huh
+[2021-04-02 22:47:46]: Flupper [, Level 13]: hold d
+[2021-04-02 22:47:49]: Flupper [, Level 13]: dont let go
+[2021-04-02 22:47:54]: SAUD [, Level 0]: bruh
