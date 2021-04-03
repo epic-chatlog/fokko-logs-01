@@ -3081,3 +3081,4 @@
 [2021-04-03 04:29:46]: ***  [, Level 0]: (1)kais finished in: 125 minute(s)  2.30 second(s)
 [2021-04-03 04:29:46]: ***  [, Level 0]: '(1)kais' finished the special race!
 [2021-04-03 04:30:04]: ***  [, Level 0]: [D] nenny is on a killing spree with 5 blocks
+[2021-04-03 04:30:08]: ***  [, Level 0]: '(1)-_-' entered and joined the game
