@@ -7136,3 +7136,8 @@
 [2021-04-03 08:49:58]: ♥TAKO♥ [, Level 24]: any wat
 [2021-04-03 08:49:58]: ***  [, Level 0]: d is on a killing spree with 5 blocks
 [2021-04-03 08:50:00]: ♥TAKO♥ [, Level 24]: any way
+[2021-04-03 08:50:09]:   [, Level 0]: Falco642: deSi: war?
+[2021-04-03 08:50:14]: ***  [, Level 0]: 'muzzy' entered and joined the game
+[2021-04-03 08:50:17]: ***  [, Level 0]: d's killing spree was ended by tee in black (6 blocks)
+[2021-04-03 08:50:19]: tee in black [², Level 0]: d: bad
+[2021-04-03 08:50:19]: ***  [, Level 0]: 'УБИВАТЬ!' entered and joined the game
