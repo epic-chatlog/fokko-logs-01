@@ -2347,3 +2347,7 @@
 [2021-04-03 03:01:21]: [D] Fearless [FookinLads, Level 50]: [D] BC|Tixnix:  press  fluffy 1
 [2021-04-03 03:01:23]: ***  [, Level 0]: Chillingo is on a killing spree with 5 blocks
 [2021-04-03 03:01:38]: ***  [, Level 0]: Chillingo's killing spree was ended by Random Guy (5 blocks)
+[2021-04-03 03:02:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-03 03:02:05]: [D] Fearless [FookinLads, Level 50]: cunt:  nub
+[2021-04-03 03:02:09]: Random Guy [, Level 40]: HeavyGeneral: wait it isnt cookies
+[2021-04-03 03:02:10]: [D] Fearless [FookinLads, Level 50]: [D] BC|serwan:
