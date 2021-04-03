@@ -8365,3 +8365,7 @@
 [2021-04-03 10:21:16]: ***  [, Level 0]: '(1)Friendiship ;' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-03 10:21:16]: ***  [, Level 0]: 'Friendiship ;-)' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-03 10:21:16]: ***  [, Level 0]: '(1)Friendiship ;' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 10:21:22]: Falco641 [, Level 18]: why you gotta be so stubborn
+[2021-04-03 10:21:27]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-03 10:21:27]: ***  [, Level 0]: 'P4Pyr0s' has left the game
+[2021-04-03 10:21:32]: kais [, Level 65]: (1)ERROR: :(
