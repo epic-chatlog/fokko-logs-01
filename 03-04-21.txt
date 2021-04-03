@@ -2503,3 +2503,4 @@
 [2021-04-03 03:21:55]: ***  [, Level 0]: 'вłøøđωave' entered and joined the game
 [2021-04-03 03:22:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-03 03:22:02]: BC|Tixnix [BC, Level 33]: HeavyGeneral: ?
+[2021-04-03 03:22:12]: any [404, Level 37]: |HolyHo|: bruh i never killed him x)
