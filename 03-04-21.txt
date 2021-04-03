@@ -10321,3 +10321,5 @@
 [2021-04-03 12:53:10]: ***  [, Level 0]: 'Isegrin' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-03 12:53:29]: Fearless [FookinLads, Level 40]: ezezezezezeze
 [2021-04-03 12:53:31]: Asta [FookinLads, Level 43]: Fearless:  fuck u
+[2021-04-03 12:53:38]: Asta [FookinLads, Level 43]: Fearless:  lolll get saved twice byt flappy
+[2021-04-03 12:53:45]: Fearless [FookinLads, Level 40]: ezezezezez
