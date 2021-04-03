@@ -9741,3 +9741,5 @@
 [2021-04-03 12:01:39]: Pigie♥ [♥, Level 36]: Sutzer: jet for 1 sec
 [2021-04-03 12:01:44]: Kezo [FookinLads, Level 41]: AH ŞİT
 [2021-04-03 12:01:51]: Kaptar [, Level 0]: any: je te full help gros
+[2021-04-03 12:02:01]: any² [404, Level 25]: Kaptar: tkt
+[2021-04-03 12:02:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
