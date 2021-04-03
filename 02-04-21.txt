@@ -13532,3 +13532,4 @@
 [2021-04-02 20:58:08]: SAUD [, Level 0]: bounos dias
 [2021-04-02 20:58:09]: SAUD [, Level 0]: xD
 [2021-04-02 20:58:12]: Alien [UndergrounD, Level 41]: D
+[2021-04-02 20:58:37]: SAUD [, Level 0]: Flupper: gj
