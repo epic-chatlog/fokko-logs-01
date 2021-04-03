@@ -585,3 +585,5 @@
 [2021-04-03 01:16:58]: Pigie♥ [♥, Level 36]: ✯ |toxicdaddy: I DONT GIVE A SHIT DICK
 [2021-04-03 01:17:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-03 01:17:01]: ***  [, Level 0]: 'MaşƘƔ' has left the game
+[2021-04-03 01:17:19]: ***  [, Level 0]: 'ZEWO' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
+[2021-04-03 01:17:19]: ***  [, Level 0]: 'ZEWO's dummy' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
