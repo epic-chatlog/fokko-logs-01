@@ -7717,3 +7717,8 @@
 [2021-04-03 09:41:33]: ERROR [404, Level 55]: i didnt as well
 [2021-04-03 09:41:35]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-03 09:41:36]: SAUD [, Level 13]: Lucas:
+[2021-04-03 09:41:37]: ERROR [404, Level 55]: i just want my dummys
+[2021-04-03 09:41:39]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-03 09:41:41]: Lucas [THECEPS, Level 33]: SAUD: ?
+[2021-04-03 09:41:43]: Falco641 [, Level 18]: there goes all my savings
+[2021-04-03 09:41:47]: SAUD [, Level 13]: Lucas:  i will leave bye
