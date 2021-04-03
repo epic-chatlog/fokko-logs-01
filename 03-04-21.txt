@@ -11125,3 +11125,5 @@
 [2021-04-03 14:36:20]: УБИВАТЬ! [, Level 0]: nub
 [2021-04-03 14:37:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-03 14:37:10]: Random Guy [, Level 40]: XD
+[2021-04-03 14:37:18]: ✯ | FayZoR [|Supressed|, Level 42]: Random Guy: im pro grenade xD
+[2021-04-03 14:37:23]: Random Guy [, Level 40]: ye XD
