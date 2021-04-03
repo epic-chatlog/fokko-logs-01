@@ -10434,3 +10434,8 @@
 [2021-04-03 13:17:20]: sun.slow(y) [sunrise., Level 0]: NERVENSÄGE
 [2021-04-03 13:17:22]: YelloWorlD [404, Level 73]: Kaptar: pk ca change quoi ?
 [2021-04-03 13:17:30]: sun.slow(y) [sunrise., Level 0]: NERVENSÄGE
+[2021-04-03 13:17:32]: sun.slow(y) [sunrise., Level 0]: Isegrin: du nervst
+[2021-04-03 13:17:36]: Isegrin [, Level 54]: was?
+[2021-04-03 13:17:37]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-03 13:17:38]: sun.slow(y) [sunrise., Level 0]: du nervst
+[2021-04-03 13:17:40]: Kaptar [, Level 24]: YelloWorlD: je te dirais après ta réponse xd
