@@ -13493,3 +13493,4 @@
 [2021-04-02 19:32:38]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' entered and joined the game
 [2021-04-02 19:33:49]: S Y T H N [iPro, Level 39]: ✯ | Bulash:
 [2021-04-02 19:37:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-02 19:42:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
