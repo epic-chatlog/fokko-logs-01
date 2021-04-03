@@ -4876,3 +4876,7 @@
 [2021-04-03 06:24:29]: ***  [, Level 0]: cookie is on a killing spree with 5 blocks
 [2021-04-03 06:24:33]: |HolyHo| [, Level 18]: (1)Kezo: police
 [2021-04-03 06:24:34]:   [, Level 0]: Falco642: f"{self.name}": without soros or el champeno you even refuse to fight back lmao
+[2021-04-03 06:24:37]: ***  [, Level 0]: Soros's killing spree was ended by :)|(: (11 blocks)
+[2021-04-03 06:24:40]: (1)Kezo [FookinLads, Level 0]: (1)|HolyHo|°: come
+[2021-04-03 06:24:43]:   [, Level 0]: Falco642: champeon*
+[2021-04-03 06:24:47]: Rock [, Level 15]: press A
