@@ -10550,3 +10550,4 @@
 [2021-04-03 13:30:12]: ***  [, Level 0]: Lucas finished in: 2 minute(s)  3.32 second(s)
 [2021-04-03 13:30:12]: ***  [, Level 0]: New record: 1 minute(s) 35.06 second(s) better.
 [2021-04-03 13:30:15]: Isegrin [, Level 54]: FAAK
+[2021-04-03 13:31:00]: ***  [, Level 0]: Isegrin is on a killing spree with 5 blocks
