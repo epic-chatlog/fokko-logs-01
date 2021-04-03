@@ -5424,3 +5424,5 @@
 [2021-04-03 07:04:05]: sαвєя{D} [FookinLads, Level 0]: no
 [2021-04-03 07:04:11]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [2021-04-03 07:04:13]: Meetiteusz [TrRShClNrRs, Level 0]: Rock: dog
+[2021-04-03 07:04:33]: ***  [, Level 0]: 'kais' has left the game
+[2021-04-03 07:04:33]: ***  [, Level 0]: '(1)kais' has left the game
