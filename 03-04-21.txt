@@ -2194,3 +2194,7 @@
 [2021-04-03 02:45:23]: ***  [, Level 0]: New record:  8.68 second(s) better.
 [2021-04-03 02:45:24]: ***  [, Level 0]: 'RoberGN' has left the game
 [2021-04-03 02:46:02]: redder panda [TrRShClNrRs, Level 41]: 0 1
+[2021-04-03 02:46:05]: GOLD [404, Level 41]: xDDD
+[2021-04-03 02:46:07]: HeavyGeneral [FookinLads, Level 44]: xDD GOLD
+[2021-04-03 02:46:08]: GOLD [404, Level 41]: HeavyGeneral: matebal xx10
+[2021-04-03 02:46:11]: HeavyGeneral [FookinLads, Level 44]: xDDDDDDDDDDDDDDDDDDD
