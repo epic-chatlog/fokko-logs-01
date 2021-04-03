@@ -4927,3 +4927,4 @@
 [2021-04-03 06:27:34]: ***  [, Level 0]: '✯ |toxicdaddy' has left the game
 [2021-04-03 06:27:34]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
 [2021-04-03 06:27:40]: Rock [, Level 15]: wait
+[2021-04-03 06:28:45]: cookie [, Level 0]: help me
