@@ -13716,3 +13716,6 @@
 [2021-04-02 22:32:33]: Flupper [, Level 13]: do you want
 [2021-04-02 22:32:36]: weqe [MNKY, Level 11]: yes
 [2021-04-02 22:32:38]: SAUD [, Level 0]: xD
+[2021-04-02 22:32:42]: Flupper [, Level 13]: go spaWN
+[2021-04-02 22:32:52]: weqe [MNKY, Level 11]: SAUD: my brother
+[2021-04-02 22:32:52]: SAUD [, Level 0]: ca
