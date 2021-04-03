@@ -9440,3 +9440,5 @@
 [2021-04-03 11:36:43]: CKA3A4NIK[NR] [Night Raid, Level 35]: bob:  hi my love
 [2021-04-03 11:36:46]: CKA3A4NIK[NR] [Night Raid, Level 35]: bob: :D
 [2021-04-03 11:36:47]: bob [MNKY, Level 36]: hello sir
+[2021-04-03 11:36:52]: ***  [, Level 0]: 'Sutzer' entered and joined the game
+[2021-04-03 11:37:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
