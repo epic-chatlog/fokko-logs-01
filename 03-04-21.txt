@@ -2990,3 +2990,4 @@
 [2021-04-03 04:05:50]: ***  [, Level 0]: 'Treebeard' has left the game
 [2021-04-03 04:06:02]: ***  [, Level 0]: 'ClemEntine' entered and joined the game
 [2021-04-03 04:07:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-03 04:07:10]: ***  [, Level 0]: 'Katz' has left the game (Timeout)
