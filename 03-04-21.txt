@@ -4907,3 +4907,8 @@
 [2021-04-03 06:26:24]: ***  [, Level 0]: 'el champeon' has left the game
 [2021-04-03 06:26:24]: ***  [, Level 0]: 'Soros' has left the game
 [2021-04-03 06:26:25]: ***  [, Level 0]: 'el champeon5474' entered and joined the game
+[2021-04-03 06:26:30]: ***  [, Level 0]: 'Soros0010438748' entered and joined the game
+[2021-04-03 06:26:31]: ***  [, Level 0]: 'el champeon5474' has left the game
+[2021-04-03 06:26:31]: ***  [, Level 0]: 'Soros0010438748' has left the game
+[2021-04-03 06:26:35]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
+[2021-04-03 06:26:35]: Rock [, Level 15]: you can hammer fly here
