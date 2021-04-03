@@ -1813,3 +1813,4 @@
 [2021-04-03 02:18:19]: ChillerDragon [Chilli.*, Level 44]: aa
 [2021-04-03 02:18:20]: Mista bombastic [TrRShClNrRs, Level 40]: YelloWorlD: he is good
 [2021-04-03 02:18:22]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
+[2021-04-03 02:18:27]: ***  [, Level 0]: '(1)Friendiship ;' has left the game (Timeout)
