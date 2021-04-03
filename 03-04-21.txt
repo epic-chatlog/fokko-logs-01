@@ -419,3 +419,8 @@
 [2021-04-03 01:04:55]: ***  [, Level 0]: '(1)Friendiship ;' entered and joined the game
 [2021-04-03 01:04:57]: ***  [, Level 0]: 'GODLIKe' changed name to 'hhh4'
 [2021-04-03 01:04:58]: ERROR. [404, Level 55]: i stacked u dont.
+[2021-04-03 01:05:04]: (1)|HolyHo| [TrRShClNrRs, Level 0]: ERROR: pls stack me to
+[2021-04-03 01:05:08]: (1)SAUD [, Level 13]: GODLIKe.:  are u hhh4 ?
+[2021-04-03 01:05:08]: ERROR. [404, Level 55]: nop
+[2021-04-03 01:05:13]: hhh4 [hax, Level 44]: (1)SAUD: yes
+[2021-04-03 01:05:14]: (1)|HolyHo| [TrRShClNrRs, Level 0]: ERROR: ill pay
