@@ -5675,3 +5675,6 @@
 [2021-04-03 07:26:19]: Isegrin [, Level 54]: AAAAAAAAAAAAAAA
 [2021-04-03 07:26:24]: ***  [, Level 0]: 'Maatiteusz' finished the special race!
 [2021-04-03 07:26:27]: Isegrin [, Level 54]: kezo das ist prank
+[2021-04-03 07:26:31]: ***  [, Level 0]: 'Cylox.♥' has left the game (Timeout)
+[2021-04-03 07:26:31]: ***  [, Level 0]: 'Cylox' has left the game (Timeout)
+[2021-04-03 07:26:42]: Isegrin [, Level 54]: sαвєя{D}: esta es prank
