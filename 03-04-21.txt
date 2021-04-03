@@ -11846,3 +11846,6 @@
 [2021-04-03 16:01:00]: BULLETBOT [, Level 0]: WTFFF
 [2021-04-03 16:01:03]: ***  [, Level 0]: 'Neosia' entered and joined the game
 [2021-04-03 16:01:05]: ***  [, Level 0]: 'SKZ' has left the game
+[2021-04-03 16:01:12]: ***  [, Level 0]: 'cHilLerDargon' entered and joined the game
+[2021-04-03 16:01:14]: ***  [, Level 0]: 'Neosia' has left the game
+[2021-04-03 16:01:21]: ***  [, Level 0]: 'cHilLerDargon' has left the game
