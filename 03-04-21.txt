@@ -3043,3 +3043,5 @@
 [2021-04-03 04:25:07]: ***  [, Level 0]: 'nenny' entered and joined the game
 [2021-04-03 04:25:08]: kais [, Level 65]: (1)sL|whutasme: hi
 [2021-04-03 04:25:09]: ***  [, Level 0]: 'Happy cat' entered and joined the game
+[2021-04-03 04:25:26]: sL|whutasme [, Level 5]: kais: how are you
+[2021-04-03 04:25:33]: (1)kais [, Level 58]: nice and you ?
