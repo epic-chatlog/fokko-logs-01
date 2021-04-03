@@ -13815,3 +13815,5 @@
 [2021-04-02 22:59:16]: ***  [, Level 0]: '(1)SAUD' entered and joined the game
 [2021-04-02 23:00:01]: SAUD [, Level 20]: ب
 [2021-04-02 23:00:04]: SAUD [, Level 20]: Flupper:
+[2021-04-02 23:00:44]: x7|Flipper [xSD7, Level 39]: wyhat
+[2021-04-02 23:00:49]: x7|Flipper [xSD7, Level 39]: im afk farming in my plot
