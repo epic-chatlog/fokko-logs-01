@@ -4340,3 +4340,7 @@
 [2021-04-03 05:44:42]: ***  [, Level 0]: '[INFO]' has been muted for 60 seconds
 [2021-04-03 05:44:59]:   [, Level 0]: nennybaba: .
 [2021-04-03 05:45:00]: Kyrma [KyStiKi, Level 0]: xd
+[2021-04-03 05:45:00]: Sutzer [Guard, Level 0]: Xd
+[2021-04-03 05:45:08]: ***  [, Level 0]: '»Amirian YA«' entered and joined the game
+[2021-04-03 05:45:10]: |HolyHo| [, Level 18]: HeavyGeneral: yo?
+[2021-04-03 05:45:11]:   [, Level 0]: cookie: Lucas
