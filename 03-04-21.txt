@@ -2037,3 +2037,6 @@
 [2021-04-03 02:33:00]: ***  [, Level 0]: '.' changed name to 'bol'
 [2021-04-03 02:33:00]: ***  [, Level 0]: ',' changed name to 'big bol'
 [2021-04-03 02:33:05]: GOLD [404, Level 41]: koro: stop def les meuf
+[2021-04-03 02:33:13]: WarHammer' [, Level 0]: just like a fly on the wall
+[2021-04-03 02:33:15]: Mista bombastic [TrRShClNrRs, Level 40]: power: why xd
+[2021-04-03 02:33:17]: ChillerDragon [|*KoG*|, Level 44]: koro: aide chiller :)
