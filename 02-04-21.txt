@@ -13773,3 +13773,4 @@
 [2021-04-02 22:45:14]: SAUD [, Level 0]: ihy
 [2021-04-02 22:45:30]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-02 22:45:31]: SAUD [, Level 0]: take me to the lpace
+[2021-04-02 22:46:33]: ***  [, Level 0]: 'nameless tee' has left the game
