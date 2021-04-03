@@ -3033,3 +3033,5 @@
 [2021-04-03 04:22:41]: ***  [, Level 0]: '[D] Sutzer' has left the game
 [2021-04-03 04:22:41]: ***  [, Level 0]: 'Sutzer' has left the game
 [2021-04-03 04:22:52]: ***  [, Level 0]: '✯ |toxicdaddy' entered and joined the game
+[2021-04-03 04:23:03]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
+[2021-04-03 04:23:06]: Isegrin [, Level 54]: cyka
