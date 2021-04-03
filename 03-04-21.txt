@@ -11686,3 +11686,8 @@
 [2021-04-03 15:36:37]: ***  [, Level 0]: 'ᅟᅟᅟ' entered and joined the game
 [2021-04-03 15:36:37]: x7|Supers [xSD7ᅟ , Level 39]: x7|Flipper:  clan skins
 [2021-04-03 15:36:49]: x7|Supers [xSD7ᅟ , Level 39]: ~DemoizL~:  ger?
+[2021-04-03 15:36:56]: x7|Supers [xSD7ᅟ , Level 39]: x7|Flipper:  BCS YOU DIDNT ASKED JUSTRACE
+[2021-04-03 15:36:57]: ~DemoizL~ [, Level 39]: x7|Supers: no
+[2021-04-03 15:36:59]: x7|Supers [xSD7ᅟ , Level 39]: TO MAKE YOU ONE
+[2021-04-03 15:37:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-03 15:37:04]: x7|Flipper [xSD7, Level 13]: wait
