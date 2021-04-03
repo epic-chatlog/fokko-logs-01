@@ -4373,3 +4373,7 @@
 [2021-04-03 05:47:23]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
 [2021-04-03 05:47:34]: ***  [, Level 0]: 'Kyrma' would have timed out, but can use timeout protection now
 [2021-04-03 05:47:34]: ***  [, Level 0]: 'Rainbow Tee' would have timed out, but can use timeout protection now
+[2021-04-03 05:47:36]: |HolyHo| [, Level 18]: Fearless: where u
+[2021-04-03 05:47:42]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
+[2021-04-03 05:47:46]: ***  [, Level 0]: 'nennybaba' has left the game
+[2021-04-03 05:47:47]: cookie [, Level 0]: f"{self.name}":  f you war4life njow
