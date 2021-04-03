@@ -37,3 +37,6 @@
 [2021-04-03 00:05:39]: ***  [, Level 0]: 'ClemEntine' entered and joined the game
 [2021-04-03 00:06:23]: (1)ビール|Ze [Drunks, Level 10]: Kiøn1029: help)
 [2021-04-03 00:06:31]: (1)ビール|Ze [Drunks, Level 10]: Boti. help
+[2021-04-03 00:06:39]: Kiøn1029 [.bad, Level 31]: csaló
+[2021-04-03 00:06:40]: Boti. [.bad, Level 32]: az
+[2021-04-03 00:06:43]: Boti. [.bad, Level 32]: taserspammer vok
