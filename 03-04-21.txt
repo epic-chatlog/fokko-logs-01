@@ -130,3 +130,4 @@
 [2021-04-03 00:21:07]: ***  [, Level 0]: 'Ļåҕ Lobster' has left the game
 [2021-04-03 00:21:30]: ***  [, Level 0]: 'MieSlime' entered and joined the game
 [2021-04-03 00:22:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-03 00:22:21]: Rock [, Level 15]: GODLIKe: you havent portal and you cant kill me
