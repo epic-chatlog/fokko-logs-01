@@ -3587,3 +3587,6 @@
 [2021-04-03 05:04:57]: comic [comically, Level 12]: Falco641: idk
 [2021-04-03 05:04:57]: SAUD [, Level 0]: OK
 [2021-04-03 05:05:01]: cookie [, Level 0]: no
+[2021-04-03 05:05:03]: cookie [, Level 0]: kezo
+[2021-04-03 05:05:07]: ***  [, Level 0]: '(1)SAUD' entered and joined the game
+[2021-04-03 05:05:11]: Λtlantis Ψ [ᅟᅟ , Level 13]: SAUD:  then go in the house right up from spawn
