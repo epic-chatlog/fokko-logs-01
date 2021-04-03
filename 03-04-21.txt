@@ -5613,3 +5613,9 @@
 [2021-04-03 07:18:35]:   [, Level 0]: Falco642: xd
 [2021-04-03 07:18:35]: ***  [, Level 0]: cunt finished in: 2 minute(s) 24.44 second(s)
 [2021-04-03 07:18:35]: cookie [, Level 0]: wtf
+[2021-04-03 07:18:42]:   [, Level 0]: Falco642: wheeze
+[2021-04-03 07:18:42]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-03 07:18:42]: ***  [, Level 0]: '__init__(self):' has left the game
+[2021-04-03 07:18:43]: kais [, Level 65]: oh, you're not wanted anymore xD
+[2021-04-03 07:18:44]: ***  [, Level 0]: Cylox.♥ finished in: 2 minute(s) 29.30 second(s)
+[2021-04-03 07:18:45]: ***  [, Level 0]: Ðeathscyth finished in: 5 minute(s) 11.82 second(s)
