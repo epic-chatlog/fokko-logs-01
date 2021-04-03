@@ -385,3 +385,5 @@
 [2021-04-03 01:01:19]: ***  [, Level 0]: 'power' has left the game
 [2021-04-03 01:02:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-03 01:02:05]: GODLIKe [hax, Level 44]: (1)SAUD: look my eyes
+[2021-04-03 01:02:08]: ZEWO [, Level 0]: SA
+[2021-04-03 01:02:12]: (1)SAUD [, Level 13]: GODLIKe:
