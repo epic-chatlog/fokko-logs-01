@@ -8873,3 +8873,8 @@
 [2021-04-03 11:00:01]: ***  [, Level 0]: '<-_->' entered and joined the game
 [2021-04-03 11:00:04]: Juan. [TrRShClNrRs, Level 42]: TL|ŦƹƦ$ŦǾN: clnr
 [2021-04-03 11:00:07]: Juan. [TrRShClNrRs, Level 42]: TL|ŦƹƦ$ŦǾN: what is that clnr
+[2021-04-03 11:00:16]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: KEZO
+[2021-04-03 11:00:18]: Kezo [FookinLads, Level 41]: TL|ŦƹƦ$ŦǾN: MAD
+[2021-04-03 11:00:19]: Kezo [FookinLads, Level 41]: MAD
+[2021-04-03 11:00:19]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: DONT PLAY WITH FOOD
+[2021-04-03 11:00:22]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: DONT PLA WITH FODO
