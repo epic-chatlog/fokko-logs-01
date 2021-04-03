@@ -8595,3 +8595,10 @@
 [2021-04-03 10:40:35]: ***  [, Level 0]: 'DerBAAHAHASTARD' has left the game
 [2021-04-03 10:40:39]: sun.slow(y) [sunrise., Level 35]: sikerim lan amina koyim orospu
 [2021-04-03 10:40:40]: ***  [, Level 0]: 'bo' has left the game
+[2021-04-03 10:40:43]: WarHammer [, Level 26]: sun.slow(y):  AHJFKAFD
+[2021-04-03 10:40:44]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0.0625
+[2021-04-03 10:40:45]: ***  [, Level 0]: 'hhh3' entered and joined the game
+[2021-04-03 10:40:51]: WarHammer [, Level 26]: sun.slow(y):  TÜRKMÜSÜN ?
+[2021-04-03 10:40:54]: ***  [, Level 0]: 'PANZELKOWY' has left the game
+[2021-04-03 10:40:54]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 10:40:54]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0.03125
