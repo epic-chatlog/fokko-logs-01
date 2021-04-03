@@ -10333,3 +10333,6 @@
 [2021-04-03 12:55:18]: ***  [, Level 0]: 'Virus' has left the game
 [2021-04-03 12:55:44]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
 [2021-04-03 12:55:53]: Isegrin [, Level 54]: PRANBK
+[2021-04-03 12:56:07]: Asta [FookinLads, Level 43]: Isegrin:  idc
+[2021-04-03 12:56:13]: ***  [, Level 0]: '.S L E E P Y'' has left the game
+[2021-04-03 12:56:16]: Fearless [FookinLads, Level 40]: rq
