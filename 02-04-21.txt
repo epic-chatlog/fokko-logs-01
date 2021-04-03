@@ -13341,3 +13341,4 @@
 [2021-04-02 18:35:07]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-02 18:37:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-02 18:42:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-02 18:43:13]: SAUD [, Level 0]: weqe:
