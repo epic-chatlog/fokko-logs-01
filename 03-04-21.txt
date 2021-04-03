@@ -2667,3 +2667,6 @@
 [2021-04-03 03:40:24]: sL|whutasme [, Level 0]: en haut quoi
 [2021-04-03 03:40:36]: |HolyHo| [, Level 18]: koro: pls 100 k i help u
 [2021-04-03 03:40:38]: ***  [, Level 0]: 'uptoram' entered and joined the game
+[2021-04-03 03:40:51]: sL|whutasme [, Level 0]: pk pas ici
+[2021-04-03 03:40:58]: ***  [, Level 0]: 'uptoram' has left the game
+[2021-04-03 03:41:01]: ***  [, Level 0]: 'uptoram' entered and joined the game
