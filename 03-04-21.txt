@@ -8708,3 +8708,5 @@
 [2021-04-03 10:47:44]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-03 10:47:57]: ***  [, Level 0]: '.' changed name to 'Juan.'
 [2021-04-03 10:48:00]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-03 10:48:10]: , [TrRShClNrRs, Level 41]: TL|ŦƹƦ$ŦǾN: look
+[2021-04-03 10:48:18]: ***  [, Level 0]: 'gian x' joined the spectators
