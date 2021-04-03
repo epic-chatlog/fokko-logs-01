@@ -5759,3 +5759,6 @@
 [2021-04-03 07:33:37]: Kezo{D} [FookinLads, Level 0]: yaw
 [2021-04-03 07:33:42]: Kezo{D} [FookinLads, Level 0]: 3k yı atıyorum
 [2021-04-03 07:33:43]: Kezo{D} [FookinLads, Level 0]: 1
+[2021-04-03 07:33:44]: Kezo{D} [FookinLads, Level 0]: 2
+[2021-04-03 07:33:47]: Kezo{D} [FookinLads, Level 0]: attım gitti
+[2021-04-03 07:33:48]: ♥TAKO♥ [, Level 24]: LAN SENİN YÜZÜNDEN ENLESS IM GİTTİ
