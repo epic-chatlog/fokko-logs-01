@@ -3068,3 +3068,6 @@
 [2021-04-03 04:27:49]: ***  [, Level 0]: '(1)sL|whutasme' has left the game
 [2021-04-03 04:27:49]: ***  [, Level 0]: 'sL|whutasme' has left the game
 [2021-04-03 04:27:56]: (1)NetFlix [, Level 14]: kais: where?
+[2021-04-03 04:28:11]: (1)kais [, Level 58]: (1)NetFlix: on the right
+[2021-04-03 04:28:15]: Random Guy [, Level 40]: SORRy
+[2021-04-03 04:28:19]: comic [comically, Level 12]: iz ok
