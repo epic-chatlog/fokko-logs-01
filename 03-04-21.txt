@@ -4967,3 +4967,11 @@
 [2021-04-03 06:31:58]: ***  [, Level 0]: 'black_cat' entered and joined the game
 [2021-04-03 06:32:00]: ***  [, Level 0]: 'Axel' entered and joined the game
 [2021-04-03 06:32:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-03 06:32:11]: ***  [, Level 0]: cookie is on a killing spree with 10 blocks
+[2021-04-03 06:32:11]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
+[2021-04-03 06:32:12]: Rock [, Level 15]: jump
+[2021-04-03 06:32:12]:   [, Level 0]: Falco642: xd
+[2021-04-03 06:32:13]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
+[2021-04-03 06:32:14]: ***  [, Level 0]: '~DemoizL~' has left the game
+[2021-04-03 06:32:15]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
+[2021-04-03 06:32:18]:   [, Level 0]: (1)|HolyHo|: Axel: come :D
