@@ -5749,3 +5749,7 @@
 [2021-04-03 07:33:11]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
 [2021-04-03 07:33:14]: Kezo{D} [FookinLads, Level 0]: ♥TAKO♥: yaaa onu alma farmına
 [2021-04-03 07:33:15]: Kezo{D} [FookinLads, Level 0]: şit
+[2021-04-03 07:33:28]: cookie [, Level 0]: HELP
+[2021-04-03 07:33:29]: ***  [, Level 0]: '►AmirianYA◄' has left the game
+[2021-04-03 07:33:29]: ***  [, Level 0]: '»Amirian YA«' has left the game
+[2021-04-03 07:33:31]: Kezo{D} [FookinLads, Level 0]: oha bekleş para
