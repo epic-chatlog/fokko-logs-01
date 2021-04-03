@@ -13676,3 +13676,5 @@
 [2021-04-02 21:53:11]: x7|Flipper [xSD7, Level 39]: i cant
 [2021-04-02 21:53:17]: ClemEntine [, Level 0]: help
 [2021-04-02 21:54:06]: ***  [, Level 0]: 'Oh Nonames!' changed name to 'ᅟᅟᅟᅟᅟ'
+[2021-04-02 21:54:25]: ***  [, Level 0]: '(1)ᅟᅟᅟᅟᅟ' has left the game
+[2021-04-02 21:54:25]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' has left the game
