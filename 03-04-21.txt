@@ -151,3 +151,4 @@
 [2021-04-03 00:27:58]: Cylox♥ [♥, Level 30]: anskm
 [2021-04-03 00:28:21]: ***  [, Level 0]: 'PANZELKOWY' entered and joined the game
 [2021-04-03 00:28:25]: ***  [, Level 0]: 'PANZELKOWY' has left the game
+[2021-04-03 00:28:42]: ***  [, Level 0]: Cylox.♥ finished in: 4 minute(s) 45.70 second(s)
