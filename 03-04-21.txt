@@ -7113,3 +7113,9 @@
 [2021-04-03 08:49:01]: ***  [, Level 0]: tee in black is on a killing spree with 10 blocks
 [2021-04-03 08:49:01]: SAUD [, Level 13]: HOW CAN i leave
 [2021-04-03 08:49:01]: ***  [, Level 0]: ᅟᅟᅟᅟᅟ is on a killing spree with 5 blocks
+[2021-04-03 08:49:08]: ♥TAKO♥ [, Level 24]: res
+[2021-04-03 08:49:10]: ***  [, Level 0]: 'd' entered and joined the game
+[2021-04-03 08:49:13]: ♥TAKO♥ [, Level 24]: or
+[2021-04-03 08:49:16]: ***  [, Level 0]: '(2)kais' has left the game (Timeout)
+[2021-04-03 08:49:18]: ***  [, Level 0]: ᅟᅟᅟᅟᅟ's killing spree was ended by Kyrma (6 blocks)
+[2021-04-03 08:49:19]: Lucas [THECEPS, Level 33]: kais: ?
