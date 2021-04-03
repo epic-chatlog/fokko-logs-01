@@ -1709,3 +1709,6 @@
 [2021-04-03 02:13:45]: ***  [, Level 0]: 'i am jerry kill' has left the game
 [2021-04-03 02:13:49]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
 [2021-04-03 02:13:50]: kurama [, Level 7]: .: F
+[2021-04-03 02:13:51]: |HolyHo|° [, Level 28]: , i dont get ping u text other 2
+[2021-04-03 02:13:54]: ***  [, Level 0]: 'BC|kakashi' finished the special race!
+[2021-04-03 02:13:56]: . [TrRShClNrRs, Level 42]: |HolyHo|°: oh
