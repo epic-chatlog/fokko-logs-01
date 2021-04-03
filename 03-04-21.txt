@@ -5744,3 +5744,5 @@
 [2021-04-03 07:32:39]: Kezo{D} [FookinLads, Level 0]: şit
 [2021-04-03 07:32:41]: ***  [, Level 0]: kais finished in: 7 minute(s)  2.14 second(s)
 [2021-04-03 07:32:41]: ***  [, Level 0]: New record: 6 minute(s) 47.28 second(s) better.
+[2021-04-03 07:33:02]: ♥TAKO♥ [, Level 24]: ne var
+[2021-04-03 07:33:04]: cookie [, Level 0]: i need the grenade
