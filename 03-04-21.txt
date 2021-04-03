@@ -3098,3 +3098,4 @@
 [2021-04-03 04:31:57]: any [404, Level 37]: heyyy kais
 [2021-04-03 04:32:01]: (1)kais [, Level 58]: slt
 [2021-04-03 04:32:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-03 04:32:16]: ***  [, Level 0]: 'Lucas' finished the special race!
