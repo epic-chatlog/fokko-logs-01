@@ -10325,3 +10325,6 @@
 [2021-04-03 12:53:45]: Fearless [FookinLads, Level 40]: ezezezezez
 [2021-04-03 12:54:10]: ***  [, Level 0]: 'Isegrin' entered and joined the game
 [2021-04-03 12:54:11]: Asta [FookinLads, Level 43]: Fearless:  did u know i didn't want to kill u ?
+[2021-04-03 12:54:14]: ***  [, Level 0]: 'Sutzer' has left the game (Timeout)
+[2021-04-03 12:54:14]: ***  [, Level 0]: '[D] Sutzer' has left the game (Timeout)
+[2021-04-03 12:54:21]: ***  [, Level 0]: 'koro' entered and joined the game
