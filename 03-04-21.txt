@@ -5746,3 +5746,6 @@
 [2021-04-03 07:32:41]: ***  [, Level 0]: New record: 6 minute(s) 47.28 second(s) better.
 [2021-04-03 07:33:02]: ♥TAKO♥ [, Level 24]: ne var
 [2021-04-03 07:33:04]: cookie [, Level 0]: i need the grenade
+[2021-04-03 07:33:11]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
+[2021-04-03 07:33:14]: Kezo{D} [FookinLads, Level 0]: ♥TAKO♥: yaaa onu alma farmına
+[2021-04-03 07:33:15]: Kezo{D} [FookinLads, Level 0]: şit
