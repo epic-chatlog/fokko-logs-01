@@ -13348,3 +13348,4 @@
 [2021-04-02 18:45:25]: ***  [, Level 0]: '(1)SAUD' entered and joined the game
 [2021-04-02 18:45:31]: (1)sL|whutasme [, Level 0]: saud give me your rocket
 [2021-04-02 18:45:34]: (1)sL|whutasme [, Level 0]: SAUD:
+[2021-04-02 18:47:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
