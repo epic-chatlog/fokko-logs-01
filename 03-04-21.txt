@@ -7278,3 +7278,4 @@
 [2021-04-03 08:59:19]: ERROR [404, Level 55]: i knew theres coming one more
 [2021-04-03 08:59:21]: mamikral011 [, Level 25]: ERROR: help
 [2021-04-03 08:59:31]: ***  [�, Level 0]: 'gian x' joined the spectators
+[2021-04-03 08:59:35]: ***  [, Level 0]: 'gian x' joined the game
