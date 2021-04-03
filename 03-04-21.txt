@@ -4932,3 +4932,5 @@
 [2021-04-03 06:28:52]: ***  [, Level 0]: Rock is on a killing spree with 5 blocks
 [2021-04-03 06:29:03]: ***  [, Level 0]: 'f"{self.name}"' has left the game
 [2021-04-03 06:29:03]: ***  [, Level 0]: '__init__(self):' has left the game
+[2021-04-03 06:29:38]: Rock [, Level 15]: Rimso: fuck
+[2021-04-03 06:29:40]: Rimso [, Level 2]: xD
