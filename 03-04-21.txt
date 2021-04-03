@@ -10370,3 +10370,5 @@
 [2021-04-03 13:01:25]: ***  [, Level 0]: 'Asta' has left the game
 [2021-04-03 13:01:47]: kais [, Level 65]: sun.slow(y): nobo
 [2021-04-03 13:01:52]: sun.slow(y) [sunrise., Level 35]: kais: no u bad
+[2021-04-03 13:01:59]: (1)kais [, Level 58]: :( u
+[2021-04-03 13:02:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
