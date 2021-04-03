@@ -650,3 +650,7 @@
 [2021-04-03 01:22:18]: (1)Friendiship  [, Level 0]: |HolyHo|: why get moni ?
 [2021-04-03 01:22:20]: |HolyHo|° [TrRShClNrRs, Level 28]: (1)Friendiship : wait respawn come spawn
 [2021-04-03 01:22:30]: |HolyHo|° [TrRShClNrRs, Level 28]: (1)Friendiship : respawn
+[2021-04-03 01:22:44]: ***  [, Level 0]: (1)ChillerDragon finished in: 1 minute(s) 19.74 second(s)
+[2021-04-03 01:22:44]: ***  [, Level 0]: New record: 11.66 second(s) better.
+[2021-04-03 01:22:44]: ***  [, Level 0]: (2)ChillerDragon finished in: 1 minute(s) 51.18 second(s)
+[2021-04-03 01:22:44]: ***  [, Level 0]: New record: 52.36 second(s) better.
