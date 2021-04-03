@@ -112,3 +112,4 @@
 [2021-04-03 00:15:12]: ERROR. [404, Level 55]: what what
 [2021-04-03 00:15:15]: Boti. [.bad, Level 32]: idk
 [2021-04-03 00:15:22]: ***  [, Level 0]: 'Boti.' has left the game
+[2021-04-03 00:15:50]: (1)Rock [, Level 8]: GODLIKe: i can open
