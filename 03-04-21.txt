@@ -6150,3 +6150,8 @@
 [2021-04-03 08:00:23]: ***  [, Level 0]: '(1)kais' has left the game
 [2021-04-03 08:00:29]: cookie [, Level 0]: peace wtf
 [2021-04-03 08:00:30]:   [, Level 0]: [D] mamikral011: (1)Λtlantis Ψ: help
+[2021-04-03 08:00:32]: ***  [, Level 0]: 'kais' entered and joined the game
+[2021-04-03 08:00:36]: (1)Λtlantis Ψ [ᅟᅟ , Level 13]: mamikral011:  wait
+[2021-04-03 08:00:38]: Kezo [FookinLads, Level 41]: cookie: you are lolpoep dummy ik
+[2021-04-03 08:00:40]:   [, Level 0]: [D] mamikral011: (1)Λtlantis Ψ: sorry
+[2021-04-03 08:00:43]: cookie [, Level 0]: no
