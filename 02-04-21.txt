@@ -13977,3 +13977,4 @@
 [2021-04-02 23:47:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-02 23:48:18]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
 [2021-04-02 23:48:30]: ***  [, Level 0]: 'Kiøn1029' has left the game
+[2021-04-02 23:49:33]: |HolyHo| [TrRShClNrRs, Level 0]: ERROR.: i see u are in fookinlads to
