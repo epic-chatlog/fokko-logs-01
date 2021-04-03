@@ -11873,3 +11873,4 @@
 [2021-04-03 16:04:35]: ***  [, Level 0]: Godking Elderon is on a killing spree with 5 blocks
 [2021-04-03 16:04:54]: ***  [, Level 0]: Godking Elderon's killing spree was ended by BULLETBOT (5 blocks)
 [2021-04-03 16:04:57]: ***  [, Level 0]: '.S L E E P Y'' entered and joined the game
+[2021-04-03 16:05:13]: ***  [, Level 0]: '[D] BULLETBOT' entered and joined the game
