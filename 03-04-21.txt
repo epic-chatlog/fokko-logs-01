@@ -5592,3 +5592,7 @@
 [2021-04-03 07:16:39]: cookie [, Level 0]: ready laser
 [2021-04-03 07:16:48]: Falco641 [, Level 18]: ✞|koro:
 [2021-04-03 07:16:57]: cookie [, Level 0]: I like turtles.
+[2021-04-03 07:17:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-03 07:17:01]: [D] ✯ |toxicd [|Supressed, Level 20]: cookie: haha
+[2021-04-03 07:17:05]: cookie [, Level 0]: [D] ✯ |toxicd:  hahaha lol
+[2021-04-03 07:17:08]:   [, Level 0]: Falco642: Isegrin: xd
