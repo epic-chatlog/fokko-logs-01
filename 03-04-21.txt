@@ -7692,3 +7692,12 @@
 [2021-04-03 09:39:08]: SAUD [, Level 13]: ?
 [2021-04-03 09:39:17]: ***  [, Level 0]: 'fernan' has left the game
 [2021-04-03 09:39:27]: Rainbow Tee [KyStiKi, Level 10]: Falco641:
+[2021-04-03 09:39:30]: lolpoep [Ape, Level 16]: error is here
+[2021-04-03 09:39:30]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 09:39:33]: ERROR [404, Level 55]: HeavyGeneral: ?
+[2021-04-03 09:39:33]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-03 09:39:34]: Lucas [THECEPS, Level 33]: SAUD: nah i just turn of my computer sound
+[2021-04-03 09:39:36]: HeavyGeneral [FookinLads, Level 44]: ERROR: ?
+[2021-04-03 09:39:37]: HeavyGeneral [FookinLads, Level 44]: ERROR: i lag
+[2021-04-03 09:39:37]: ERROR [404, Level 55]: omg
+[2021-04-03 09:39:38]: ***  [, Level 0]: ChillerDragon is on a killing spree with 5 blocks
