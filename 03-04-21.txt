@@ -3880,3 +3880,5 @@
 [2021-04-03 05:20:03]:   [, Level 0]: Sutzer: BC|Tixnix:
 [2021-04-03 05:20:06]: ***  [, Level 0]: 'A player' has left the game
 [2021-04-03 05:20:10]: comic [comically, Level 12]: (1)NetFlix: hey i saved you just so you know
+[2021-04-03 05:20:10]: ***  [, Level 0]: mamikral011 is on a killing spree with 5 blocks
+[2021-04-03 05:20:17]: Random Guy [, Level 40]: XD
