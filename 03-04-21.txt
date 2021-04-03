@@ -5277,3 +5277,8 @@
 [2021-04-03 06:54:56]:   [, Level 0]: power: can nu help pols m Maatiteusz
 [2021-04-03 06:55:01]:   [, Level 0]: Maatiteusz: power: ?
 [2021-04-03 06:55:01]:   [, Level 0]: power: get in er
+[2021-04-03 06:55:09]: ***  [, Level 0]: 'L1P3KC' joined the spectators
+[2021-04-03 06:55:13]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-03 06:55:13]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-03 06:55:13]: ***  [, Level 0]: 'L1P3KC' joined the game
+[2021-04-03 06:55:14]: Falco642 [, Level 0]: 6 4
