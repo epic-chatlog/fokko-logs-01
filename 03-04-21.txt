@@ -10392,3 +10392,4 @@
 [2021-04-03 13:05:19]: ***  [, Level 0]: 'sun.slow(y)' has left the game
 [2021-04-03 13:05:47]: ***  [, Level 0]: '.Peאnut~*' has left the game
 [2021-04-03 13:05:47]: ***  [, Level 0]: 'OLALAA' has left the game
+[2021-04-03 13:06:21]: ***  [, Level 0]: '(2)NetFlix' has left the game (Timeout)
