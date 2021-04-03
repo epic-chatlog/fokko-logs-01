@@ -2025,3 +2025,5 @@
 [2021-04-03 02:31:33]: ***  [, Level 0]: GOLD is on a killing spree with 5 blocks
 [2021-04-03 02:31:33]: ***  [, Level 0]: 'Boti.' has left the game (Timeout Protection over)
 [2021-04-03 02:32:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-03 02:32:07]: |HolyHo|° [, Level 28]: HeavyGeneral: dumm
+[2021-04-03 02:32:16]: Random Guy [, Level 40]: HeavyGeneral: can you open your eyes?
