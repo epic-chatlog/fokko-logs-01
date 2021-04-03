@@ -7040,3 +7040,5 @@
 [2021-04-03 08:44:16]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' has left the game
 [2021-04-03 08:44:19]: ERROR. [404, Level 73]: sun.slow(y): ?
 [2021-04-03 08:44:22]: ***  [, Level 0]: 'Kirito' changed name to 'Kirito♥'
+[2021-04-03 08:44:35]: mamikral011 [, Level 25]: WarHammer': gel killeyek şlyy
+[2021-04-03 08:44:36]: ***  [, Level 0]: 'tee in black' entered and joined the game
