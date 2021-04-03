@@ -13761,3 +13761,4 @@
 [2021-04-02 22:40:08]: Flupper [, Level 13]: oml
 [2021-04-02 22:40:24]: SAUD [, Level 0]: wtfff
 [2021-04-02 22:40:28]: SAUD [, Level 0]: stop
+[2021-04-02 22:42:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
