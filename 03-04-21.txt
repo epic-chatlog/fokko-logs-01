@@ -11834,3 +11834,4 @@
 [2021-04-03 15:57:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-03 15:58:56]: ~DemoizL~ [, Level 39]: xD
 [2021-04-03 15:58:58]: BULLETBOT [, Level 0]: XD
+[2021-04-03 15:59:11]: BULLETBOT [, Level 0]: EZÚŰ
