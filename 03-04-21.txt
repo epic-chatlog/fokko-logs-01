@@ -2318,3 +2318,7 @@
 [2021-04-03 02:59:12]: ***  [, Level 0]: 'Random Guy' entered and joined the game
 [2021-04-03 02:59:17]: |HolyHo| [, Level 18]: HeavyGeneral: u my bank
 [2021-04-03 02:59:21]: HeavyGeneral [FookinLads, Level 44]: :o
+[2021-04-03 02:59:29]: Random Guy [, Level 0]: HeavyGeneral: hello cute i back
+[2021-04-03 02:59:32]: ***  [, Level 0]: Fearless finished in: 3 minute(s) 17.00 second(s)
+[2021-04-03 02:59:32]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-03 02:59:36]: HeavyGeneral [FookinLads, Level 44]: Random Guy: not for long
