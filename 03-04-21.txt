@@ -9390,3 +9390,4 @@
 [2021-04-03 11:31:47]: BulgarianTee [xSD7, Level 0]: E
 [2021-04-03 11:31:47]: ***  [, Level 0]: Keø is on a killing spree with 5 blocks
 [2021-04-03 11:32:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-03 11:32:21]: bob [MNKY, Level 36]: Keø:
