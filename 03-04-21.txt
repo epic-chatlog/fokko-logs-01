@@ -4581,3 +4581,5 @@
 [2021-04-03 05:58:35]: [INFO] [, Level 0]: its kinda buggy it crashes sometimes
 [2021-04-03 05:58:45]: |HolyHo| [, Level 18]: Fearless: ok u can have it
 [2021-04-03 05:58:45]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
+[2021-04-03 05:58:57]: ***  [, Level 0]: 'Axel ²' has left the game
+[2021-04-03 05:58:58]: |HolyHo| [, Level 18]: Fearless: but never EVER try to peace me
