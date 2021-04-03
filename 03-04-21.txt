@@ -7216,3 +7216,6 @@
 [2021-04-03 08:55:04]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-03 08:55:08]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-03 08:55:08]: Pigie♥ [♥, Level 36]: ERROR.: well no shit sherlock but why u kil mi
+[2021-04-03 08:55:15]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-03 08:55:16]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 08:55:20]: ***  [, Level 0]: 'gian x' joined the game
