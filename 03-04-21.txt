@@ -8814,3 +8814,8 @@
 [2021-04-03 10:57:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-03 10:57:03]: (1)Ghost [Limoncello, Level 0]: logué ?
 [2021-04-03 10:57:06]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-03 10:57:21]: Juan. [TrRShClNrRs, Level 42]: TL|ŦƹƦ$ŦǾN: WHAT 10 MIN
+[2021-04-03 10:57:23]: Juan. [TrRShClNrRs, Level 42]: TL|ŦƹƦ$ŦǾN: FOR WHAT 10 MIN
+[2021-04-03 10:57:26]: Juan. [TrRShClNrRs, Level 42]: TL|ŦƹƦ$ŦǾN: FOR WHAT REASON
+[2021-04-03 10:57:26]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 10:57:29]: ***  [, Level 0]: 'gian x' joined the game
