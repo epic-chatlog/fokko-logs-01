@@ -4946,3 +4946,7 @@
 [2021-04-03 06:30:36]: ✔Pouet{D} [WeAreYoung, Level 0]: ✞|koro: help
 [2021-04-03 06:30:45]: cookie [, Level 0]: any sorry
 [2021-04-03 06:30:49]: ***  [, Level 0]: 'K1M9N' entered and joined the game
+[2021-04-03 06:31:01]: Rock [, Level 15]: left
+[2021-04-03 06:31:03]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-03 06:31:03]: Rock [, Level 15]: hook me to left
+[2021-04-03 06:31:09]:   [, Level 0]: el champeon: any²: fuck u
