@@ -5023,3 +5023,11 @@
 [2021-04-03 06:33:39]: ***  [, Level 0]: Invalid whisper
 [2021-04-03 06:33:48]:   [, Level 0]: Axel: Mista bombastic: hi
 [2021-04-03 06:33:51]:   [, Level 0]: Mista bombastic: Axel: hii
+[2021-04-03 06:34:00]: ***  [, Level 0]: 'Swarfey' joined the spectators
+[2021-04-03 06:34:02]:   [, Level 0]: Falco642: power: wtf?
+[2021-04-03 06:34:02]: Rock [, Level 15]: Rimso: ok wait  5 min
+[2021-04-03 06:34:03]: ***  [, Level 0]: 'K1M9N' joined the spectators
+[2021-04-03 06:34:05]: ***  [, Level 0]: 'Swarfey' joined the game
+[2021-04-03 06:34:06]: ***  [, Level 0]: 'K1M9N' joined the game
+[2021-04-03 06:34:09]:   [, Level 0]: power: Falco641: ?
+[2021-04-03 06:34:09]: ***  [, Level 0]: '|ΛnץOиe|' entered and joined the game
