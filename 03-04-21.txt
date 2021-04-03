@@ -8488,3 +8488,4 @@
 [2021-04-03 10:32:44]: ***  [, Level 0]: 'Kezo' entered and joined the game
 [2021-04-03 10:33:00]: ***  [, Level 0]: 'Kezo{D}' entered and joined the game
 [2021-04-03 10:33:33]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-03 10:33:43]:   [, Level 0]: WarHammer: Kezo:  kraaal
