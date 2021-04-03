@@ -3458,3 +3458,5 @@
 [2021-04-03 04:57:45]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-03 04:57:48]: Lucas [THECEPS, Level 33]: ChillerDragon: np
 [2021-04-03 04:57:48]: Random Guy [, Level 40]: xd
+[2021-04-03 04:57:57]: cookie [, Level 0]: I like turtles.
+[2021-04-03 04:58:03]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
