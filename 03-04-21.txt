@@ -11642,3 +11642,6 @@
 [2021-04-03 15:30:43]: x7|Flipper [xSD7, Level 13]: stupid bitch
 [2021-04-03 15:30:51]: ***  [, Level 0]: 'lovzvol' entered and joined the game
 [2021-04-03 15:30:57]: ***  [, Level 0]: 'Godking Elderon' entered and joined the game
+[2021-04-03 15:31:09]: ~DemoizL~ [, Level 39]: bob ?
+[2021-04-03 15:31:12]: ***  [, Level 0]: 'lovzvol' has left the game
+[2021-04-03 15:31:17]: x7|Flipper [xSD7, Level 13]: xd its bob
