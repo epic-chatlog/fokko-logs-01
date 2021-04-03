@@ -12008,3 +12008,4 @@
 [2021-04-03 16:31:09]: Astra Pils [, Level 0]: do you want to learn some german words?
 [2021-04-03 16:31:23]: Astra Pils [, Level 0]: dick = schwanz
 [2021-04-03 16:31:38]: Astra Pils [, Level 0]: tits is easy , its titten
+[2021-04-03 16:32:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
