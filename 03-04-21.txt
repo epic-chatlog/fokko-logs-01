@@ -4721,3 +4721,4 @@
 [2021-04-03 06:12:07]: ***  [, Level 0]: 'black_cat' has left the game
 [2021-04-03 06:12:07]: ビール|Zero [Drunks, Level 26]: (2)NetFlix: dont kill
 [2021-04-03 06:12:08]: ***  [, Level 0]: 'black_cat' entered and joined the game
+[2021-04-03 06:12:21]: (2)NetFlix [, Level 0]: ビール|Zero: kill?
