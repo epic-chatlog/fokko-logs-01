@@ -8889,3 +8889,5 @@
 [2021-04-03 11:01:07]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-03 11:01:07]: BulgarianTee [xSD7, Level 0]: TL|ŦƹƦ$ŦǾN: fair enough
 [2021-04-03 11:01:10]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-03 11:01:39]: ***  [, Level 0]: 'Dennis xD Sonic' joined the spectators
+[2021-04-03 11:01:43]: ***  [, Level 0]: 'Dennis xD Sonic' joined the game
