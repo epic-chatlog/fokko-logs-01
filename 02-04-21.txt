@@ -13031,3 +13031,4 @@
 [2021-04-02 17:32:06]: weqe [MNKY, Level 11]: Kirito: how come u have my flag ?
 [2021-04-02 17:32:07]: Kirito [, Level 32]: why did you kill
 [2021-04-02 17:32:12]: Kirito [, Level 32]: weqe: it was on spawn?
+[2021-04-02 17:32:16]: Kirito [, Level 32]: weqe: obviously
