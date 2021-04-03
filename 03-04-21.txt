@@ -7075,3 +7075,7 @@
 [2021-04-03 08:47:08]: Lucas [THECEPS, Level 33]: (2)kais: yes
 [2021-04-03 08:47:16]: (2)kais [, Level 0]: Lucas: and endless?
 [2021-04-03 08:47:17]: tee in black [², Level 0]: sun.slow(y): no name
+[2021-04-03 08:47:19]:   [, Level 0]: sun.slow(y): ERROR: am spawn
+[2021-04-03 08:47:20]: Lucas [THECEPS, Level 33]: (2)kais: yes
+[2021-04-03 08:47:21]:   [, Level 0]: sun.slow(y): tee in black: hahahaha
+[2021-04-03 08:47:27]: ERROR [404, Level 55]: sun.slow(y): achso
