@@ -4956,3 +4956,12 @@
 [2021-04-03 06:31:30]: (1)any² [404, Level 0]: el champeon: dont spawn block
 [2021-04-03 06:31:41]:   [, Level 0]: Soros: (1)any: apparently I stopped it
 [2021-04-03 06:31:45]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-03 06:31:50]: Rock [, Level 15]: go first
+[2021-04-03 06:31:50]: ***  [, Level 0]: 'K1M9N' joined the spectators
+[2021-04-03 06:31:51]: (1)any² [404, Level 0]: cookie: dont help
+[2021-04-03 06:31:53]: ***  [, Level 0]: 'K1M9N' joined the game
+[2021-04-03 06:31:55]: ***  [, Level 0]: 'black_cat' has left the game
+[2021-04-03 06:31:55]:   [, Level 0]: (1)|HolyHo|: (1)any²:
+[2021-04-03 06:31:58]: cookie [, Level 0]: (1)any²:  oke i kill him
+[2021-04-03 06:31:58]:   [, Level 0]: (1)|HolyHo|: tctc
+[2021-04-03 06:31:58]: ***  [, Level 0]: 'black_cat' entered and joined the game
