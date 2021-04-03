@@ -5574,3 +5574,6 @@
 [2021-04-03 07:15:20]: ***  [, Level 0]: 'kais' entered and joined the game
 [2021-04-03 07:15:23]:   [, Level 0]: kais: :)|(::  ok
 [2021-04-03 07:15:35]: Ðeathscyth [, Level 1]: f"{self.name}": ull get caught
+[2021-04-03 07:15:38]: Falco642 [, Level 0]: NO
+[2021-04-03 07:15:41]:   [, Level 0]: Traveco: Ðeathscyth: dadda
+[2021-04-03 07:15:45]: [D] ✯ |toxicd [|Supressed, Level 20]: cookie:
