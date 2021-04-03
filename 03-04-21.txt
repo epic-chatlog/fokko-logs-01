@@ -6007,3 +6007,5 @@
 [2021-04-03 07:49:54]: ***  [, Level 0]: 'Rummy' entered and joined the game
 [2021-04-03 07:49:54]: ***  [, Level 0]: 'Rummy' has left the game
 [2021-04-03 07:50:00]: ***  [, Level 0]: 'Rummy' entered and joined the game
+[2021-04-03 07:50:03]:   [, Level 0]: ♥TAKO♥: paraaaaaaamm
+[2021-04-03 07:50:09]: WarHammer [, Level 26]: ♥TAKO♥:  LAN PARA YOK BENDEEE
