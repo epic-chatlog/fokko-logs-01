@@ -8387,3 +8387,4 @@
 [2021-04-03 10:22:32]: ***  [, Level 0]: 'gian x' entered and joined the game
 [2021-04-03 10:22:33]: Cylox.♥ [♥, Level 0]: nah
 [2021-04-03 10:22:34]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
+[2021-04-03 10:22:43]: Marcisten [Helper, Level 0]: gian x: you know you can press f1 and type kill to reset
