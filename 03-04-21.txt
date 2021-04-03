@@ -5542,3 +5542,8 @@
 [2021-04-03 07:13:37]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
 [2021-04-03 07:13:39]: cunt [, Level 0]: f"{self.name}": Isegrin  HIUTNING ME WITH ANTICOMMIE RIFLE
 [2021-04-03 07:13:41]:   [, Level 0]: Cylox.♥: flag
+[2021-04-03 07:13:47]: ***  [, Level 0]: f"{self.name}"'s killing spree was ended by Isegrin (6 blocks)
+[2021-04-03 07:13:51]: NetFlix [, Level 9]: why?
+[2021-04-03 07:13:52]:   [, Level 0]: Ðeathscyth: Isegrin: race
+[2021-04-03 07:13:55]: sαвєя{D} [FookinLads, Level 0]: ✞|koro: why you crying all time stop
+[2021-04-03 07:13:56]: ***  [, Level 0]: cunt's killing spree was ended by Isegrin (9 blocks)
