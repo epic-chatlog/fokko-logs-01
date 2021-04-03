@@ -1858,3 +1858,5 @@
 [2021-04-03 02:20:54]: ChillerDragon.* [|*KoG*|, Level 41]: power:  he
 [2021-04-03 02:20:55]: ***  [, Level 0]: ### 'WarHammer'' xd
 [2021-04-03 02:20:57]: ***  [, Level 0]: 'i am jerry kill' has left the game
+[2021-04-03 02:21:00]: ***  [, Level 0]: 'i am jerry kill' entered and joined the game
+[2021-04-03 02:21:01]: ChillerDragon.* [Chilli.*, Level 41]: power: demozuil
