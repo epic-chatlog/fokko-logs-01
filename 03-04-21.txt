@@ -2392,3 +2392,7 @@
 [2021-04-03 03:08:28]: ***  [, Level 0]: 'cunt' has left the game
 [2021-04-03 03:08:41]: |HolyHo| [, Level 18]: evenredderpanda: sorry i killed u .
 [2021-04-03 03:08:41]: Lareth (PL) [PROO, Level 0]: jak wyjsc z paki
+[2021-04-03 03:08:58]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
+[2021-04-03 03:09:00]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
+[2021-04-03 03:09:01]: ***  [, Level 0]: 'Lareth (PL)' has left the game
+[2021-04-03 03:09:02]: ChillerDragon [Chilli.*, Level 44]: hi
