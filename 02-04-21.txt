@@ -13536,3 +13536,6 @@
 [2021-04-02 20:58:41]: x7|Flipper [xSD7, Level 39]: ty
 [2021-04-02 21:01:02]: SAUD [, Level 20]: STOP IT Flupper  Alien
 [2021-04-02 21:01:34]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-02 21:01:45]: x7|Flipper [xSD7, Level 39]: XD
+[2021-04-02 21:01:47]: SAUD [, Level 20]: Xd
+[2021-04-02 21:01:47]: S Y T H N [iPro, Level 37]: Flupper: du bot
