@@ -1566,3 +1566,7 @@
 [2021-04-03 02:07:28]: ***  [, Level 0]: 'koro' entered and joined the game
 [2021-04-03 02:07:36]: Random Guy [, Level 40]: power: ye?
 [2021-04-03 02:07:47]: kurama [, Level 7]: .: then u sayed ok fuck with u
+[2021-04-03 02:07:51]: (1)|HolyHo|° [TrRShClNrRs, Level 6]: HeavyGeneral: but i guess im not actually in the clan then?
+[2021-04-03 02:07:52]: . [TrRShClNrRs, Level 42]: kurama: i
+[2021-04-03 02:07:55]: . [TrRShClNrRs, Level 42]: kurama: i dont
+[2021-04-03 02:07:59]: ***  [, Level 0]: '(1)kais' joined the minigame 'Survival', use '/survival' to join aswell
