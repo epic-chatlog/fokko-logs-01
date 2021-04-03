@@ -9914,3 +9914,5 @@
 [2021-04-03 12:16:40]: ***  [, Level 0]: 'lolpoep hater' entered and joined the game
 [2021-04-03 12:16:51]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-03 12:17:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-03 12:17:11]: VeemID [, Level 26]: Lucas: i dont need it
+[2021-04-03 12:17:14]: Lucas [THECEPS, Level 33]: VeemID: :O
