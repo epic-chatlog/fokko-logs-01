@@ -7939,3 +7939,4 @@
 [2021-04-03 09:56:37]: ***  [, Level 0]: Chillingo is on a killing spree with 5 blocks
 [2021-04-03 09:56:40]: bob [MNKY, Level 36]: er hat error hegolfen
 [2021-04-03 09:56:47]: ***  [, Level 0]: 'Ghost' entered and joined the game
+[2021-04-03 09:57:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
