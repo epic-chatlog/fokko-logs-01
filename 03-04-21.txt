@@ -11485,3 +11485,4 @@
 [2021-04-03 15:14:43]: Shrimp [, Level 0]: cmdlist
 [2021-04-03 15:14:47]: ***  [, Level 0]: 'Godking Elderon' would have timed out, but can use timeout protection now
 [2021-04-03 15:14:47]: ***  [, Level 0]: 'Starloot' would have timed out, but can use timeout protection now
+[2021-04-03 15:15:12]: x7|Supers [ᅟᅟ , Level 39]: you wanted war
