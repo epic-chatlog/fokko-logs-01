@@ -87,3 +87,7 @@
 [2021-04-03 00:12:14]: Kiøn1029 [.bad, Level 31]: legalább afkol
 [2021-04-03 00:12:19]: Boti. [.bad, Level 32]: 70 milliója van errornak geci
 [2021-04-03 00:12:21]: Boti. [.bad, Level 32]: mi a fasz
+[2021-04-03 00:12:34]: Kiøn1029 [.bad, Level 31]: és nem ad senkinek
+[2021-04-03 00:12:36]: ***  [, Level 0]: 'GODLIKe' finished the special race!
+[2021-04-03 00:12:39]: Boti. [.bad, Level 32]: igen mert kötsög
+[2021-04-03 00:12:42]: ***  [, Level 0]: 'GODLIKe.' finished the special race!
