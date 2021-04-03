@@ -10404,3 +10404,6 @@
 [2021-04-03 13:09:05]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
 [2021-04-03 13:09:20]: Isegrin [, Level 54]: XD
 [2021-04-03 13:09:35]: ***  [, Level 0]: 'BULLETBOT' has left the game
+[2021-04-03 13:10:08]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
+[2021-04-03 13:10:08]: ***  [, Level 0]: '[D] Fearless' has left the game
+[2021-04-03 13:10:08]: ***  [, Level 0]: 'Fearless' has left the game
