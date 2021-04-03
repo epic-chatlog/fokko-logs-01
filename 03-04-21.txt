@@ -2986,3 +2986,5 @@
 [2021-04-03 04:05:10]: ***  [, Level 0]: 'Lucas' has left the game
 [2021-04-03 04:05:37]: ***  [, Level 0]: 'Cylox♥' has left the game
 [2021-04-03 04:05:37]: ***  [, Level 0]: 'Cylox.♥' has left the game
+[2021-04-03 04:05:50]: ***  [, Level 0]: 'Treebeard' entered and joined the game
+[2021-04-03 04:05:50]: ***  [, Level 0]: 'Treebeard' has left the game
