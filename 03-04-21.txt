@@ -3114,3 +3114,7 @@
 [2021-04-03 04:34:56]: kais [, Level 65]: Happy cat: yes Fluffy is a bott
 [2021-04-03 04:34:56]: GODLIKe [hax, Level 44]: Happy cat: yes
 [2021-04-03 04:35:07]: Happy cat [, Level 0]: ok
+[2021-04-03 04:35:25]: kais [, Level 65]: Happy cat: flappy, Fluffy, Chillingo, ZillyDreck and MLG_PRO are bots
+[2021-04-03 04:35:25]: ***  [, Level 0]: '[D] nenny' changed name to 'bot nenny'
+[2021-04-03 04:35:25]: ***  [, Level 0]: 'nenny' changed name to 'nennybaba'
+[2021-04-03 04:35:25]: mamikral011 [, Level 0]: cookie: my ping nice :D
