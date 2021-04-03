@@ -10068,3 +10068,5 @@
 [2021-04-03 12:27:55]: ***  [, Level 0]: MieSlime's killing spree was ended by Kezo (8 blocks)
 [2021-04-03 12:27:58]: MieSlime [FookinLads, Level 43]: Kezo:  !
 [2021-04-03 12:28:00]: BulgarianTee [xSD7, Level 0]: any: leave the guy alone
+[2021-04-03 12:28:06]: any [404, Level 37]: BulgarianTee: ye
+[2021-04-03 12:28:12]: ***  [, Level 0]: '[D] MieSlime' entered and joined the game
