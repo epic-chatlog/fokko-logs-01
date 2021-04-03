@@ -9812,3 +9812,4 @@
 [2021-04-03 12:09:05]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-03 12:09:08]: CKA3A4NIK[NR] [Night Raid, Level 35]: Kezo:  << fast
 [2021-04-03 12:09:10]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-03 12:09:27]: ***  [, Level 0]: 675. BulgarianTee Time: 02:34.96, requested by BulgarianTee
