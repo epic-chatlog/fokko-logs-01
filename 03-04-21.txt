@@ -8015,3 +8015,9 @@
 [2021-04-03 10:01:46]: Hady [new bot, Level 0]: (1)kais:  you are scared?
 [2021-04-03 10:01:47]: bob [MNKY, Level 36]: weqe: we no chance
 [2021-04-03 10:01:54]: Falco641 [, Level 18]: comic: i once jumped right in this shithole
+[2021-04-03 10:01:59]: comic [comically, Level 12]: Falco641: lol
+[2021-04-03 10:02:00]: Falco641 [, Level 18]: somehow
+[2021-04-03 10:02:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-03 10:02:03]: ***  [, Level 0]: 'Alien' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-03 10:02:05]: Hady [new bot, Level 0]: (1)kais:  10 points
+[2021-04-03 10:02:07]: ***  [, Level 0]: 'Alien' has left the game
