@@ -4681,3 +4681,7 @@
 [2021-04-03 06:08:31]: ***  [, Level 0]: 'black_cat' has left the game
 [2021-04-03 06:08:33]: ***  [, Level 0]: 'black_cat' entered and joined the game
 [2021-04-03 06:08:35]: [D] mamikral011 [, Level 20]: (1)Kezo: hi
+[2021-04-03 06:08:39]: (1)Kezo [FookinLads, Level 0]: mamikral011: hi
+[2021-04-03 06:08:45]: ビール|Zero [Drunks, Level 26]: XD
+[2021-04-03 06:08:45]:   [, Level 0]: Lucas: Rock: don't need
+[2021-04-03 06:08:46]: ビール|Zero [Drunks, Level 26]: wtf
