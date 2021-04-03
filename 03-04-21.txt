@@ -623,3 +623,9 @@
 [2021-04-03 01:20:48]: (1)ChillerDrago [Chilli.*, Level 30]: wessen ERROR
 [2021-04-03 01:20:49]: (1)ERROR. [404, Level 40]: so bb
 [2021-04-03 01:20:54]: ***  [, Level 0]: 'docteur maboull' has left the game
+[2021-04-03 01:21:01]: (1)ERROR. [404, Level 40]: bis später genieß die zeit ein wenig
+[2021-04-03 01:21:03]: Pigie♥ [♥, Level 36]: (1)SAUD: AHAAHHAAHA DOG
+[2021-04-03 01:21:05]: ***  [, Level 0]: 'docteur maboull' entered and joined the game
+[2021-04-03 01:21:06]: ***  [, Level 0]: 'proooooyum' joined the spectators
+[2021-04-03 01:21:07]: ***  [, Level 0]: 'ERROR' has left the game
+[2021-04-03 01:21:07]: ***  [, Level 0]: 'ERROR.' has left the game
