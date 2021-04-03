@@ -7626,3 +7626,5 @@
 [2021-04-03 09:33:27]: lolpoep [Ape, Level 16]: say sorry
 [2021-04-03 09:33:46]: FULL WAR [, Level 6]: lolpoep:
 [2021-04-03 09:33:50]: ERROR [404, Level 55]: weqe:  zzzzz
+[2021-04-03 09:33:57]: lolpoep [Ape, Level 16]: chit
+[2021-04-03 09:34:04]: ERROR [404, Level 55]: HeavyGeneral:
