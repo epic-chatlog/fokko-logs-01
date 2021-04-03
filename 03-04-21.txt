@@ -4335,3 +4335,6 @@
 [2021-04-03 05:44:28]:   [, Level 0]: cookie: ghost
 [2021-04-03 05:44:31]: ***  [, Level 0]: ### 'brainless tee' CTRL + SHIFT + Q = RAINBOW
 [2021-04-03 05:44:33]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
+[2021-04-03 05:44:36]: ***  [, Level 0]: 'black_cat' entered and joined the game
+[2021-04-03 05:44:37]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
+[2021-04-03 05:44:42]: ***  [, Level 0]: '[INFO]' has been muted for 60 seconds
