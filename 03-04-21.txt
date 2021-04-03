@@ -4540,3 +4540,9 @@
 [2021-04-03 05:56:20]: ♥TAKO♥ [, Level 24]: Fearless:  WTF good but ı cant give u :c
 [2021-04-03 05:56:23]: ***  [, Level 0]: 'хондэй' joined the game
 [2021-04-03 05:56:24]: mamikral011 [, Level 25]: Rock: you ..
+[2021-04-03 05:56:32]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
+[2021-04-03 05:56:32]: ***  [, Level 0]: 'хондэй' has left the game
+[2021-04-03 05:56:33]: bob [MNKY, Level 36]: ✞|koro: buy it
+[2021-04-03 05:56:37]: Soros [, Level 0]: f"{self.name}": hoops
+[2021-04-03 05:56:41]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-03 05:56:41]: power [TrRShClNrRs, Level 13]: mamikral011: fk off, u lost me when u killed me
