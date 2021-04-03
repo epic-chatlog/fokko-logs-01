@@ -5602,3 +5602,5 @@
 [2021-04-03 07:17:36]: ***  [, Level 0]: 'rayen' has left the game (Timeout)
 [2021-04-03 07:17:41]:   [, Level 0]: Falco642: Isegrin: i wanna arrest
 [2021-04-03 07:17:42]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
+[2021-04-03 07:18:01]: kais [, Level 65]: Falco642: you want to be arrest ?
+[2021-04-03 07:18:01]:   [, Level 0]: Cylox.♥: pro
