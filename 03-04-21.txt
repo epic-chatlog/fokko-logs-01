@@ -9342,3 +9342,4 @@
 [2021-04-03 11:27:48]: Λtlantis Ψ [ᅟᅟ , Level 13]: bob:  up
 [2021-04-03 11:27:49]: Λtlantis Ψ [ᅟᅟ , Level 13]: spawn
 [2021-04-03 11:27:53]: Λtlantis Ψ [ᅟᅟ , Level 13]: right
+[2021-04-03 11:27:57]: ***  [, Level 0]: 'jemm' has left the game
