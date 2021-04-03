@@ -3118,3 +3118,7 @@
 [2021-04-03 04:35:25]: ***  [, Level 0]: '[D] nenny' changed name to 'bot nenny'
 [2021-04-03 04:35:25]: ***  [, Level 0]: 'nenny' changed name to 'nennybaba'
 [2021-04-03 04:35:25]: mamikral011 [, Level 0]: cookie: my ping nice :D
+[2021-04-03 04:35:30]: ***  [, Level 0]: GODLIKe finished in: 1 minute(s)  7.40 second(s)
+[2021-04-03 04:35:30]: ***  [, Level 0]: New record:  6.60 second(s) better.
+[2021-04-03 04:35:31]: ***  [, Level 0]: comic finished in: 3 minute(s) 19.72 second(s)
+[2021-04-03 04:35:31]: ***  [, Level 0]: Random Guy finished in: 3 minute(s) 20.02 second(s)
