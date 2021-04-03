@@ -7839,3 +7839,7 @@
 [2021-04-03 09:49:41]: ***  [, Level 0]: 'Terston Max' has left the game
 [2021-04-03 09:49:42]: (2)ChillerDrago [|*KoG*|, Level 31]: braaa abob
 [2021-04-03 09:49:45]: ***  [, Level 0]: 'SwiftFox' has left the game
+[2021-04-03 09:50:00]: Sutzer [Guard, Level 0]: bruuh this pay2win sucks
+[2021-04-03 09:50:01]: ***  [, Level 0]: '[D] Sutzer' has left the game
+[2021-04-03 09:50:01]: ***  [, Level 0]: 'Sutzer' has left the game
+[2021-04-03 09:50:03]: kgh [, Level 10]: dont move
