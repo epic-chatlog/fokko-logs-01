@@ -2983,3 +2983,4 @@
 [2021-04-03 04:04:50]: comic [comically, Level 12]: power2: nah
 [2021-04-03 04:04:55]: power2 [TrRShClNrRs, Level 0]: RoberGN: u wanna go?
 [2021-04-03 04:04:58]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-03 04:05:10]: ***  [, Level 0]: 'Lucas' has left the game
