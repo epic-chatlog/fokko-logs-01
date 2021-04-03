@@ -4716,3 +4716,8 @@
 [2021-04-03 06:11:45]: ***  [, Level 0]: 'Meetiteusz' entered and joined the game
 [2021-04-03 06:11:47]: Fearless [FookinLads, Level 40]: ✔Pouet:  you guys help me and come back with me
 [2021-04-03 06:11:49]: ***  [, Level 0]: 'Meetiteusz' has left the game
+[2021-04-03 06:12:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-03 06:12:06]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-03 06:12:07]: ***  [, Level 0]: 'black_cat' has left the game
+[2021-04-03 06:12:07]: ビール|Zero [Drunks, Level 26]: (2)NetFlix: dont kill
+[2021-04-03 06:12:08]: ***  [, Level 0]: 'black_cat' entered and joined the game
