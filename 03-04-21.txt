@@ -4954,3 +4954,5 @@
 [2021-04-03 06:31:23]: ***  [, Level 0]: Rimso finished in: 3 minute(s) 29.08 second(s)
 [2021-04-03 06:31:25]: ***  [, Level 0]: Soros's killing spree was ended by (1)any² (5 blocks)
 [2021-04-03 06:31:30]: (1)any² [404, Level 0]: el champeon: dont spawn block
+[2021-04-03 06:31:41]:   [, Level 0]: Soros: (1)any: apparently I stopped it
+[2021-04-03 06:31:45]: ***  [, Level 0]: 'bob' has left the game
