@@ -2271,3 +2271,6 @@
 [2021-04-03 02:52:22]: ***  [, Level 0]: Fearless finished in: 1 minute(s) 38.92 second(s)
 [2021-04-03 02:52:22]: ***  [, Level 0]: New record: 5 minute(s) 25.68 second(s) better.
 [2021-04-03 02:52:31]: ***  [, Level 0]: 'WarHammer' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-03 02:52:40]: HeavyGeneral [FookinLads, Level 44]: chiller rage afk?
+[2021-04-03 02:52:40]: ***  [, Level 0]: 'Mista bombastic' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-03 02:52:47]: HeavyGeneral [FookinLads, Level 44]: he rq
