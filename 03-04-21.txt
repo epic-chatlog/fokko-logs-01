@@ -2028,3 +2028,6 @@
 [2021-04-03 02:32:07]: |HolyHo|° [, Level 28]: HeavyGeneral: dumm
 [2021-04-03 02:32:16]: Random Guy [, Level 40]: HeavyGeneral: can you open your eyes?
 [2021-04-03 02:32:24]: any [404, Level 37]: HeavyGeneral:  power is enemy ?
+[2021-04-03 02:32:36]: . [TrRShClNrRs, Level 42]: any: power isnt enemy
+[2021-04-03 02:32:38]: power [TrRShClNrRs, Level 13]: me friend any
+[2021-04-03 02:32:39]: YelloWorlD [404, Level 73]: koro: stop def les meuf
