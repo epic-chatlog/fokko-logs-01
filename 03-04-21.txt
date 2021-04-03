@@ -9635,3 +9635,7 @@
 [2021-04-03 11:52:45]: CKA3A4NIK[NR] [Night Raid, Level 35]: Kezo:  Give taser battery pls
 [2021-04-03 11:52:49]: Torento [, Level 22]: BulgarianTee: no my war
 [2021-04-03 11:52:52]: CKA3A4NIK[NR] [Night Raid, Level 35]: Kezo:  Give taser battery pls
+[2021-04-03 11:52:56]: ***  [, Level 0]: 'Lucas' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-03 11:52:59]: Kezo [FookinLads, Level 41]: CKA3A4NIK[NR]: i have 7
+[2021-04-03 11:53:02]: CKA3A4NIK[NR] [Night Raid, Level 35]: Oh
+[2021-04-03 11:53:04]: CKA3A4NIK[NR] [Night Raid, Level 35]: thx
