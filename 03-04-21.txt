@@ -2445,3 +2445,7 @@
 [2021-04-03 03:16:40]: any² [404, Level 0]: HeavyGeneral: BC|kakashi helped ...
 [2021-04-03 03:16:50]: HeavyGeneral [FookinLads, Level 44]: ye i see
 [2021-04-03 03:16:58]: any [404, Level 37]: HeavyGeneral: thx <3
+[2021-04-03 03:17:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-03 03:17:02]: BULLETBOT [, Level 0]: omfg
+[2021-04-03 03:17:02]: HeavyGeneral [FookinLads, Level 44]: [D] BC|Tixnix: war
+[2021-04-03 03:17:04]: BULLETBOT [, Level 0]: fuck off
