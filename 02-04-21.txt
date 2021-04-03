@@ -13791,3 +13791,5 @@
 [2021-04-02 22:50:05]: SAUD [, Level 20]: WHAT
 [2021-04-02 22:50:10]: SAUD [, Level 20]: xD
 [2021-04-02 22:50:17]: x7|Flipper [xSD7, Level 39]: jump here
+[2021-04-02 22:50:35]: x7|Flipper [xSD7, Level 39]: imagine using taser
+[2021-04-02 22:50:37]: x7|Flipper [xSD7, Level 39]: only for nubs
