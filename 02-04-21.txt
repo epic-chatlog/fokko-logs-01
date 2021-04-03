@@ -13877,3 +13877,6 @@
 [2021-04-02 23:16:21]: Flupper [, Level 13]: HIII
 [2021-04-02 23:16:28]: BulgarianTee [xSD7, Level 0]: yo Flupper
 [2021-04-02 23:16:30]: Flupper [, Level 13]: HI
+[2021-04-02 23:16:41]: BulgarianTee [xSD7, Level 0]: alright my net is too trash i rq
+[2021-04-02 23:16:43]: ***  [, Level 0]: 'BulgarianTee' has left the game
+[2021-04-02 23:16:52]: Flupper [, Level 13]: yo saud
