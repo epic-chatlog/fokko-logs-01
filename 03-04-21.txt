@@ -3024,3 +3024,4 @@
 [2021-04-03 04:17:11]: ***  [, Level 0]: '[D] BC|Tixnix' left the minigame 'Block'
 [2021-04-03 04:17:21]: sL|whutasme [, Level 5]: BC|Tixnix:
 [2021-04-03 04:18:53]: ***  [, Level 0]: 'SAUD' entered and joined the game
+[2021-04-03 04:20:33]: [D] Sutzer [Guard, Level 0]: HI
