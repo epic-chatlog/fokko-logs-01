@@ -4518,3 +4518,8 @@
 [2021-04-03 05:55:21]: Falco641 [, Level 18]: f"{self.name}": gay helper
 [2021-04-03 05:55:26]: ***  [, Level 0]: mamikral011 is on a killing spree with 5 blocks
 [2021-04-03 05:55:28]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-03 05:55:33]: Falco641 [, Level 18]: f"{self.name}": war
+[2021-04-03 05:55:34]: Λtlantis Ψ [ΛtlantisΨ, Level 39]: ♥TAKO♥:  thx
+[2021-04-03 05:55:37]: ♥TAKO♥ [, Level 24]: np
+[2021-04-03 05:55:39]: Falco641 [, Level 18]: filthy helper
+[2021-04-03 05:55:41]: |HolyHo|° [, Level 28]: HeavyGeneral: ignore lmao
