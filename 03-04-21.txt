@@ -11933,3 +11933,5 @@
 [2021-04-03 16:19:47]: ***  [, Level 0]: 'Lord Txtte' entered and joined the game
 [2021-04-03 16:19:49]: ***  [, Level 0]: 'Astra Pils' has left the game
 [2021-04-03 16:19:52]: ***  [, Level 0]: 'Astra Pils' entered and joined the game
+[2021-04-03 16:20:17]: ***  [, Level 0]: 'masterpro110' entered and joined the game
+[2021-04-03 16:20:19]: Astra Pils [, Level 0]: so many french people here
