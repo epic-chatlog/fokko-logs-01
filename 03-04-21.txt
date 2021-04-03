@@ -4567,3 +4567,9 @@
 [2021-04-03 05:57:45]: |HolyHo| [, Level 18]: HeavyGeneral: YOOOOOOOOOOOOOOOOOOOOOOOOOO
 [2021-04-03 05:57:50]: |HolyHo| [, Level 18]: ✞|koro: CMON
 [2021-04-03 05:57:53]: [D] mamikral011 [, Level 20]: ♥TAKO♥: hızlı yardım aşşa dayım
+[2021-04-03 05:57:56]: f"{self.name}" [, Level 0]: Soros: why
+[2021-04-03 05:57:58]: cookie [, Level 0]: yes
+[2021-04-03 05:57:59]: [INFO] [, Level 0]: ♥TAKO♥: LOL
+[2021-04-03 05:58:01]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
+[2021-04-03 05:58:04]: Axel [TrRShClNrRs, Level 30]: |HolyHo| Maatiteusz hi
+[2021-04-03 05:58:05]:   [, Level 0]: Soros: f"{self.name}": I got one
