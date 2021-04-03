@@ -5940,3 +5940,5 @@
 [2021-04-03 07:46:26]: (2)SAUD [, Level 0]: ✯ | FayZoR:
 [2021-04-03 07:46:28]: (2)SAUD [, Level 0]: Falco641:
 [2021-04-03 07:46:32]: Maatiteusz [TrRShClNrRs, Level 35]: cookie: yup
+[2021-04-03 07:46:38]: Maatiteusz [TrRShClNrRs, Level 35]: cookie: up
+[2021-04-03 07:46:44]: (2)SAUD [, Level 0]: Falco641:
