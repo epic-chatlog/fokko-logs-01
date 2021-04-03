@@ -10180,3 +10180,8 @@
 [2021-04-03 12:39:31]: ***  [, Level 0]: 'Isegrin' entered and joined the game
 [2021-04-03 12:39:34]: any [404, Level 37]: Kirito♥: ooooooopp look likes you are in jail :D
 [2021-04-03 12:39:36]: Pigie♥ [♥, Level 36]: Kirito♥: USE THE BRAIN POWER
+[2021-04-03 12:39:48]: any [404, Level 37]: Pigie♥: sad
+[2021-04-03 12:39:48]: (1)kais [, Level 58]: Oops, look like your teammate is dumb
+[2021-04-03 12:39:49]: Pigie♥ [♥, Level 36]: Kirito♥: i tried sorry
+[2021-04-03 12:39:52]: ***  [, Level 0]: 'MieSlime' has left the game
+[2021-04-03 12:39:52]: ***  [, Level 0]: '[D] MieSlime' has left the game
