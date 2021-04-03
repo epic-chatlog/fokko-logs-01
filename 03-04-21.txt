@@ -7984,3 +7984,6 @@
 [2021-04-03 10:00:05]: bob [MNKY, Level 36]: XDD
 [2021-04-03 10:00:07]: comic [comically, Level 12]: Falco641: epic
 [2021-04-03 10:00:08]: ChillerDragon.* [|*KoG*|, Level 41]: magst du mir dann helfen Rem's bae ?
+[2021-04-03 10:00:20]: ***  [, Level 0]: 'Alien' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-03 10:00:24]: Rem's bae [, Level 42]: ChillerDragon.*: muss ich das :/  es sind doch deine wars
+[2021-04-03 10:00:27]: ***  [, Level 0]: 'Alien' left the minigame 'Survival'
