@@ -610,3 +610,6 @@
 [2021-04-03 01:19:00]: (1)SAUD [, Level 20]: xDDDD Pigie♥  NOBO SCARED
 [2021-04-03 01:19:14]: (1)ERROR. [404, Level 40]: xDDDDDDDDDDDDDDD
 [2021-04-03 01:19:31]: Pigie♥ [♥, Level 36]: ♥TAKO♥: get in
+[2021-04-03 01:19:34]: Pigie♥ [♥, Level 36]: ♥TAKO♥: go in
+[2021-04-03 01:19:40]: Pigie♥ [♥, Level 36]: ♥TAKO♥: BRUH
+[2021-04-03 01:19:42]: ERROR. [404, Level 55]: well ure lucky i go afk ChillerDragon  we will have some fun later.
