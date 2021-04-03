@@ -13937,3 +13937,4 @@
 [2021-04-02 23:34:44]: ビール|Zero [Drunks, Level 26]: ERROR: fluffy 1
 [2021-04-02 23:35:12]: ビール|Zero [Drunks, Level 26]: ERROR:
 [2021-04-02 23:35:54]: ビール|Zero [Drunks, Level 26]: ERROR: plssss
+[2021-04-02 23:36:00]: ビール|Zero [Drunks, Level 26]: thcx
