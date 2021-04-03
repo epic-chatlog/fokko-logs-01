@@ -8233,3 +8233,7 @@
 [2021-04-03 10:16:13]: GASHKA [#TeeGamers, Level 0]: write bind "k" /kill
 [2021-04-03 10:16:24]: Rem's bae [, Level 42]: any: ?
 [2021-04-03 10:16:25]: ERROR [404, Level 55]: ChillerDragon:  hab mich recht schnell dran gewöhnt
+[2021-04-03 10:16:29]: Keø [FookinLads, Level 50]: x
+[2021-04-03 10:16:29]: ChillerDragon [Chilli.*, Level 44]: hmm ERROR
+[2021-04-03 10:16:38]: kais [, Level 65]: xD
+[2021-04-03 10:16:38]: ***  [, Level 0]: 'HaTOms' has left the game
