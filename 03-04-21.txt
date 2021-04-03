@@ -3101,3 +3101,5 @@
 [2021-04-03 04:32:16]: ***  [, Level 0]: 'Lucas' finished the special race!
 [2021-04-03 04:32:23]: GODLIKe [hax, Level 44]: any: gay
 [2021-04-03 04:32:28]: ***  [, Level 0]: 'cookie' entered and joined the game
+[2021-04-03 04:32:39]: ***  [, Level 0]: 'Falco641' entered and joined the game
+[2021-04-03 04:32:41]: ***  [, Level 0]: 'mamikral011' entered and joined the game
