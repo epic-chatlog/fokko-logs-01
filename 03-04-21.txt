@@ -10759,3 +10759,5 @@
 [2021-04-03 13:57:07]: ✯ | FayZoR [|Supressed|, Level 42]: Ghost: exactement + un gros suceur a error
 [2021-04-03 13:57:07]: any [404, Level 37]: ✯ | FayZoR: mad
 [2021-04-03 13:57:07]: Sutzer [Guard, Level 0]: BULLETBOT: do you want to wb me?
+[2021-04-03 13:57:15]: BULLETBOT [, Level 0]: Sutzer: just want enemies
+[2021-04-03 13:57:17]: BULLETBOT [, Level 0]: cuz bored
