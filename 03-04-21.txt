@@ -11923,3 +11923,5 @@
 [2021-04-03 16:18:41]: ***  [, Level 0]: 'Lord Txtte' entered and joined the game
 [2021-04-03 16:18:43]: ***  [, Level 0]: 'Fichtenmopped' entered and joined the game
 [2021-04-03 16:18:46]: ***  [, Level 0]: 'Astra Pils' entered and joined the game
+[2021-04-03 16:18:51]: Astra Pils [, Level 0]: HALLO MY BROS
+[2021-04-03 16:18:55]: Astra Pils [, Level 0]: sry for CAPS
