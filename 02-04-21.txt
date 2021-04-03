@@ -13809,3 +13809,4 @@
 [2021-04-02 22:55:29]: SAUD [, Level 20]: Flupper:
 [2021-04-02 22:55:50]: SAUD [, Level 20]: how much does the portal cost in dollar
 [2021-04-02 22:55:53]: Flupper [, Level 13]: 12
+[2021-04-02 22:56:06]: Flupper [, Level 13]: i bought it in dollar too
