@@ -7456,3 +7456,6 @@
 [2021-04-03 09:16:36]:   [, Level 0]: weqe: LOL WHO ARE THE REST
 [2021-04-03 09:16:45]: ChillerDragon [Chilli.*, Level 44]: i leave them chill weqe xd
 [2021-04-03 09:16:52]: (1)Friendiship  [, Level 0]: (1)ChillerDrago:
+[2021-04-03 09:17:01]: ***  [, Level 0]: 'Sutzer' entered and joined the game
+[2021-04-03 09:17:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-03 09:17:04]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
