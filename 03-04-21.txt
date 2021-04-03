@@ -8917,3 +8917,5 @@
 [2021-04-03 11:02:51]: ***  [, Level 0]: 'Katz' has left the game
 [2021-04-03 11:02:53]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-03 11:02:57]: BulgarianTee [xSD7, Level 0]: Mista bombastic: u saw nothing
+[2021-04-03 11:02:58]: ***  [, Level 0]: 'Dennis xD Sonic' joined the spectators
+[2021-04-03 11:03:04]: ***  [, Level 0]: 'Dennis xD Sonic' has left the game
