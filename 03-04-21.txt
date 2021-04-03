@@ -2981,3 +2981,5 @@
 [2021-04-03 04:04:39]: ***  [, Level 0]: '(1)sL|whutasme' entered and joined the game
 [2021-04-03 04:04:47]: power2 [TrRShClNrRs, Level 0]: comic: again?
 [2021-04-03 04:04:50]: comic [comically, Level 12]: power2: nah
+[2021-04-03 04:04:55]: power2 [TrRShClNrRs, Level 0]: RoberGN: u wanna go?
+[2021-04-03 04:04:58]: ***  [, Level 0]: 'WarHammer' entered and joined the game
