@@ -11473,3 +11473,6 @@
 [2021-04-03 15:13:06]: Flipper [, Level 13]: i forgot hold om
 [2021-04-03 15:13:08]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-03 15:13:15]: ***  [, Level 0]: 'Flipper' changed name to 'x7|Flipper'
+[2021-04-03 15:13:32]: x7|Flipper [xSD7, Level 13]: WTONG KEY XD
+[2021-04-03 15:13:34]: x7|Flipper [xSD7, Level 13]: wrong
+[2021-04-03 15:13:36]: x7|KshKsh99 [xSD7, Level 37]: XD
