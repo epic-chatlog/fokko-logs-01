@@ -8398,3 +8398,6 @@
 [2021-04-03 10:23:26]: ***  [, Level 0]: 'i am jerry kill' has left the game
 [2021-04-03 10:23:31]: VeemID [, Level 0]: GODLIKe.: oh
 [2021-04-03 10:23:41]: УБИВАТЬ! [, Level 0]: any: <<
+[2021-04-03 10:23:49]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-03 10:23:55]: ***  [, Level 0]: '<-_->' entered and joined the game
+[2021-04-03 10:23:58]: ***  [, Level 0]: 'VeemID [2]' entered and joined the game
