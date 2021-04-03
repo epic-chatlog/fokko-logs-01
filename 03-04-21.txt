@@ -4924,3 +4924,5 @@
 [2021-04-03 06:27:08]: ***  [, Level 0]: 'Soros' entered and joined the game
 [2021-04-03 06:27:10]: ***  [, Level 0]: (1)Ghost's killing spree was ended by [D] ✯ |toxicd (5 blocks)
 [2021-04-03 06:27:15]:   [, Level 0]: Soros: ✔Pouet: hey
+[2021-04-03 06:27:34]: ***  [, Level 0]: '✯ |toxicdaddy' has left the game
+[2021-04-03 06:27:34]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
