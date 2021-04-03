@@ -8179,3 +8179,4 @@
 [2021-04-03 10:12:59]: GASHKA [#TeeGamers, Level 0]: kill*
 [2021-04-03 10:13:11]: bob [MNKY, Level 36]: Ghost 2.0: why u always die x
 [2021-04-03 10:13:24]: GASHKA [#TeeGamers, Level 0]: write bind "K" KILL
+[2021-04-03 10:13:29]: GASHKA [#TeeGamers, Level 0]: kill*
