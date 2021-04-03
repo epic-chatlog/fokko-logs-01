@@ -13009,3 +13009,4 @@
 [2021-04-02 17:12:35]: ***  [, Level 0]: 'Kirito' entered and joined the game
 [2021-04-02 17:13:08]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
 [2021-04-02 17:13:40]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-02 17:17:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
