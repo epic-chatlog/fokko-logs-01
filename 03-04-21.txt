@@ -11123,3 +11123,5 @@
 [2021-04-03 14:35:49]: ✯ | FayZoR [|Supressed|, Level 42]: wtf x
 [2021-04-03 14:35:52]: WarHammer [, Level 0]: ♥TAKO♥:  tabi lan
 [2021-04-03 14:36:20]: УБИВАТЬ! [, Level 0]: nub
+[2021-04-03 14:37:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-03 14:37:10]: Random Guy [, Level 40]: XD
