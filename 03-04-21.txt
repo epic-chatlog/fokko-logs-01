@@ -6280,3 +6280,5 @@
 [2021-04-03 08:07:47]:   [, Level 0]: WarHammer': ?
 [2021-04-03 08:07:52]:   [, Level 0]: bob: MOVE
 [2021-04-03 08:07:53]:   [, Level 0]: bob: faggot
+[2021-04-03 08:08:02]:   [, Level 0]: WarHammer': SAUD:  GO TELE WİTH DUMMY
+[2021-04-03 08:08:06]:   [, Level 0]: WarHammer': SAUD:  CP
