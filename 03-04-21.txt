@@ -11951,3 +11951,6 @@
 [2021-04-03 16:22:37]: ***  [, Level 0]: 'west morland' entered and joined the game
 [2021-04-03 16:22:37]: Astra Pils [, Level 0]: but you country
 [2021-04-03 16:22:40]: Astra Pils [, Level 0]: your
+[2021-04-03 16:22:51]: ***  [, Level 0]: 'west morland' has left the game
+[2021-04-03 16:22:51]: (1)Kirito [, Level 23]: Astra Pils: u mean the city?
+[2021-04-03 16:22:53]: Astra Pils [, Level 0]: i m just kidding :D
