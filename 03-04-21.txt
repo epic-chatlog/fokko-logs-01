@@ -7767,3 +7767,4 @@
 [2021-04-03 09:44:51]: weqe [MNKY, Level 11]: Rem's dummy: u dont remember ?
 [2021-04-03 09:44:56]: ERROR. [404, Level 73]: ok no fake
 [2021-04-03 09:45:00]: Rem's dummy [, Level 0]: weqe: obviously no
+[2021-04-03 09:45:09]: weqe [MNKY, Level 11]: u probably should see a doctor then Rem's dummy a
