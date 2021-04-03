@@ -13426,3 +13426,8 @@
 [2021-04-02 19:16:11]: SAUD [, Level 20]: dude
 [2021-04-02 19:17:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-02 19:17:05]: (1)Kirito♥ [♥, Level 32]: where
+[2021-04-02 19:17:40]: ***  [, Level 0]: '✯|Not Bulash' finished the special race!
+[2021-04-02 19:17:42]: (1)Kirito♥ [♥, Level 32]: i see
+[2021-04-02 19:17:42]: ***  [, Level 0]: ✯ | Bulash finished in: 7 minute(s)  6.02 second(s)
+[2021-04-02 19:17:42]: ***  [, Level 0]: '✯ | Bulash' finished the special race!
+[2021-04-02 19:17:43]: ***  [, Level 0]: 'HΛVΛ' entered and joined the game
