@@ -4900,3 +4900,10 @@
 [2021-04-03 06:26:00]: ***  [, Level 0]: 'el champeon' entered and joined the game
 [2021-04-03 06:26:03]: Rock [, Level 15]: now go to jetpack?
 [2021-04-03 06:26:06]: ***  [, Level 0]: 'Soros' entered and joined the game
+[2021-04-03 06:26:17]: ***  [, Level 0]: '__init__(self):' entered and joined the game
+[2021-04-03 06:26:19]: ***  [, Level 0]: (1)Ghost is on a killing spree with 5 blocks
+[2021-04-03 06:26:22]: Rimso [, Level 2]: but if I dont have jetpack how I'm supposed to do this
+[2021-04-03 06:26:24]: Rock [, Level 15]: oops
+[2021-04-03 06:26:24]: ***  [, Level 0]: 'el champeon' has left the game
+[2021-04-03 06:26:24]: ***  [, Level 0]: 'Soros' has left the game
+[2021-04-03 06:26:25]: ***  [, Level 0]: 'el champeon5474' entered and joined the game
