@@ -4845,3 +4845,6 @@
 [2021-04-03 06:22:26]: ***  [, Level 0]: 'Maatiteusz' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-03 06:22:29]: Rimso [, Level 2]: I'm logged in
 [2021-04-03 06:22:32]: Rimso [, Level 2]: why not
+[2021-04-03 06:22:44]: ***  [, Level 0]: (1)Ghost is on a killing spree with 5 blocks
+[2021-04-03 06:22:45]: ***  [, Level 0]: Falco642's killing spree was ended by (1)Ghost (6 blocks)
+[2021-04-03 06:22:47]: Rock [, Level 15]: first go to inf jumps ok?
