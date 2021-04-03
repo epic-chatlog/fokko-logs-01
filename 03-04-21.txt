@@ -7321,3 +7321,6 @@
 [2021-04-03 09:03:39]: ***  [, Level 0]: '✞|koro' entered and joined the game
 [2021-04-03 09:03:42]: ***  [, Level 0]: 'Kyrma' has left the game (Timeout)
 [2021-04-03 09:03:42]: ***  [, Level 0]: 'Rainbow Tee' has left the game (Timeout)
+[2021-04-03 09:03:43]: ***  [, Level 0]: 'Kwadraciakowy' entered and joined the game
+[2021-04-03 09:03:51]: ***  [, Level 0]: '(1)Friendiship ;' entered and joined the game
+[2021-04-03 09:03:53]: ***  [, Level 0]: 'HeavyGeneral' entered and joined the game
