@@ -6632,3 +6632,5 @@
 [2021-04-03 08:22:27]: ***  [, Level 0]: 'Cry Ratish' has left the game
 [2021-04-03 08:22:27]: ***  [, Level 0]: 'Noob Redis' has left the game
 [2021-04-03 08:22:29]: ***  [, Level 0]: вłøøđωave's killing spree was ended by Nera with lags (12 blocks)
+[2021-04-03 08:22:31]: ***  [, Level 0]: 'deSi' entered and joined the game
+[2021-04-03 08:22:41]: ***  [, Level 0]: Nera with lags is on a killing spree with 5 blocks
