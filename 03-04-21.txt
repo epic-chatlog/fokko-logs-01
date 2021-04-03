@@ -2383,3 +2383,5 @@
 [2021-04-03 03:07:15]: ***  [, Level 0]: 'sL|cunt' entered and joined the game
 [2021-04-03 03:07:37]: Random Guy [, Level 40]: Lareth (PL): chcesz iść do więzienia
 [2021-04-03 03:07:49]: Lareth (PL) [PROO, Level 0]: XD
+[2021-04-03 03:07:53]: Lareth (PL) [PROO, Level 0]: pl?
+[2021-04-03 03:07:59]: Random Guy [, Level 40]: Lareth (PL): tak
