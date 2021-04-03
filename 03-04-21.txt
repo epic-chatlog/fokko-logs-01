@@ -120,3 +120,4 @@
 [2021-04-03 00:17:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-03 00:17:54]: ***  [, Level 0]: 'nameless te' entered and joined the game
 [2021-04-03 00:18:07]: ***  [, Level 0]: 'nameless te' has left the game
+[2021-04-03 00:18:17]: ***  [, Level 0]: 'Cylox' entered and joined the game
