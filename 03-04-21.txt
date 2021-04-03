@@ -5527,3 +5527,6 @@
 [2021-04-03 07:11:48]:   [, Level 0]: Falco642: yyour going to brazil bad
 [2021-04-03 07:11:57]: Isegrin [, Level 54]: __init__(self):: lenin eto grib
 [2021-04-03 07:12:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-03 07:12:14]: ***  [, Level 0]: 'Nudelsaft c:' joined the spectators
+[2021-04-03 07:12:18]: ***  [, Level 0]: 'Nudelsaft c:' joined the game
+[2021-04-03 07:12:21]: __init__(self): [, Level 0]: Isegrin: what language is that ?? :D
