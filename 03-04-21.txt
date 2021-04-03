@@ -149,3 +149,5 @@
 [2021-04-03 00:27:06]: ***  [, Level 0]: 'MieSlime' has left the game (Timeout Protection over)
 [2021-04-03 00:27:24]: GODLIKe [hax, Level 44]: Cylox.♥:
 [2021-04-03 00:27:58]: Cylox♥ [♥, Level 30]: anskm
+[2021-04-03 00:28:21]: ***  [, Level 0]: 'PANZELKOWY' entered and joined the game
+[2021-04-03 00:28:25]: ***  [, Level 0]: 'PANZELKOWY' has left the game
