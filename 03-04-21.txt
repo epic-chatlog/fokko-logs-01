@@ -4230,3 +4230,7 @@
 [2021-04-03 05:39:18]: Falco641 [, Level 18]: wtf lag
 [2021-04-03 05:39:20]: Falco641 [, Level 18]: (1)Kezo:
 [2021-04-03 05:39:26]: ***  [, Level 0]: ### '[INFO]' CTRL+SHIFT+Q = RAINBOW
+[2021-04-03 05:39:38]: Fearless [FookinLads, Level 40]: [D] ✯ |toxicd:  shoot me
+[2021-04-03 05:39:40]: Fearless [FookinLads, Level 40]: omg
+[2021-04-03 05:39:41]: f"{self.name}" [, Level 18]: lolpoep:
+[2021-04-03 05:39:42]: Fearless [FookinLads, Level 40]: i got rqainbow
