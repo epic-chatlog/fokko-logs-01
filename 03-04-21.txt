@@ -4821,3 +4821,5 @@
 [2021-04-03 06:19:59]: |HolyHo| [, Level 18]: Kezo: u afk?
 [2021-04-03 06:20:02]: Rimso [, Level 2]: oh ok ty
 [2021-04-03 06:20:05]: (1)Kezo [FookinLads, Level 0]: (1)|HolyHo|°: no
+[2021-04-03 06:20:29]: ***  [, Level 0]: '[D] mamikral011' has left the game (Timeout)
+[2021-04-03 06:20:29]: ***  [, Level 0]: 'mamikral011' has left the game (Timeout)
