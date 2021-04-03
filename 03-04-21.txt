@@ -8228,3 +8228,6 @@
 [2021-04-03 10:15:52]: GASHKA [#TeeGamers, Level 0]: stooop
 [2021-04-03 10:15:56]: (1)Friendiship  [, Level 0]: (1)ERROR: no war please
 [2021-04-03 10:15:57]: ChillerDragon [|*KoG*|, Level 44]: aaaaaaaaaa
+[2021-04-03 10:16:11]: ERROR [404, Level 55]: Friendiship ;-):  na ure helper no need in police
+[2021-04-03 10:16:11]: ChillerDragon [Chilli.*, Level 44]: du sagma wegen 10 jahre ictf ERROR tiltet dich nich der taser delay?
+[2021-04-03 10:16:13]: GASHKA [#TeeGamers, Level 0]: write bind "k" /kill
