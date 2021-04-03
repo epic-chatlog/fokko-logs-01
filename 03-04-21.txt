@@ -2322,3 +2322,6 @@
 [2021-04-03 02:59:32]: ***  [, Level 0]: Fearless finished in: 3 minute(s) 17.00 second(s)
 [2021-04-03 02:59:32]: ***  [, Level 0]: '#5 blocker' has left the game
 [2021-04-03 02:59:36]: HeavyGeneral [FookinLads, Level 44]: Random Guy: not for long
+[2021-04-03 02:59:38]: WarHammer' [, Level 16]: where is furtsu
+[2021-04-03 02:59:42]: Fearless [FookinLads, Level 40]: WarHammer:  dead
+[2021-04-03 02:59:47]: Random Guy [, Level 0]: HeavyGeneral: i know but i baking cookies
