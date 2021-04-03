@@ -4265,3 +4265,9 @@
 [2021-04-03 05:41:02]: [D] mamikral011 [, Level 0]: ビール|Zero: :D
 [2021-04-03 05:41:04]: ***  [, Level 0]: 'K1M9N' joined the spectators
 [2021-04-03 05:41:04]:   [, Level 0]: ビール|Zero: (1)NetFlix: fluffy 1 pls
+[2021-04-03 05:41:08]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
+[2021-04-03 05:41:08]: ***  [, Level 0]: 'K1M9N' joined the game
+[2021-04-03 05:41:10]: ***  [, Level 0]: 'Ghost' has left the game (Timeout)
+[2021-04-03 05:41:10]: ***  [, Level 0]: 'Ghost 2.0' has left the game (Timeout)
+[2021-04-03 05:41:17]: Fearless [FookinLads, Level 40]: |HolyHo|:  w4l
+[2021-04-03 05:41:19]: ***  [, Level 0]: 'f"{self.name}"' has left the game
