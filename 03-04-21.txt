@@ -2965,3 +2965,5 @@
 [2021-04-03 04:00:13]: power [TrRShClNrRs, Level 0]: again?
 [2021-04-03 04:00:57]: power2 [TrRShClNrRs, Level 0]: u coming comc?
 [2021-04-03 04:01:02]: ***  [, Level 0]: 'Pigie♥' has left the game
+[2021-04-03 04:02:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-03 04:02:08]: ***  [, Level 0]: 'Katz' joined the spectators
