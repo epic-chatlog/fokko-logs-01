@@ -11883,3 +11883,5 @@
 [2021-04-03 16:06:56]: ᅟᅟᅟᅟ [, Level 7]: .S L E E P Y':  no u
 [2021-04-03 16:06:57]: .S L E E P Y' [iPro ♡, Level 38]: u
 [2021-04-03 16:07:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-03 16:07:06]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' has left the game
+[2021-04-03 16:07:08]: .S L E E P Y' [iPro ♡, Level 38]: ez
