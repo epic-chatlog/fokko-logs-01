@@ -13005,3 +13005,4 @@
 [2021-04-02 17:02:05]: ***  [, Level 0]: 'Hajt' entered and joined the game
 [2021-04-02 17:02:30]: ***  [, Level 0]: 'Hajt' has left the game
 [2021-04-02 17:07:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-02 17:12:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
