@@ -2304,3 +2304,8 @@
 [2021-04-03 02:57:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-03 02:57:36]: ***  [, Level 0]: 'ClemEntine' entered and joined the game
 [2021-04-03 02:57:56]: ***  [, Level 0]: 'RoberGN' entered and joined the game
+[2021-04-03 02:58:25]: Mista bombastic [TrRShClNrRs, Level 40]: |HolyHo|: he is . wtf
+[2021-04-03 02:58:28]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-03 02:58:29]: ***  [, Level 0]: 'ulrich' entered and joined the game
+[2021-04-03 02:58:31]: |HolyHo| [, Level 18]: Mista bombastic: ow fr?
+[2021-04-03 02:58:34]: ***  [, Level 0]: 'ulrich' has left the game
