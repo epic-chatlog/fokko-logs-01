@@ -8057,3 +8057,8 @@
 [2021-04-03 10:04:05]: Rem's bae [, Level 42]: ChillerDragon.*: ach xD mach wat du willst :D
 [2021-04-03 10:04:07]: ERROR [404, Level 55]: Rem's bae:  und das was chiller macht ist kernbehindert nur al so am rande.
 [2021-04-03 10:04:08]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-03 10:04:14]: ChillerDragon.* [|*KoG*|, Level 41]: mimimi ERROR
+[2021-04-03 10:04:14]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 10:04:19]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-03 10:04:20]: ERROR [404, Level 55]: ChillerDragon:  mimimi?
+[2021-04-03 10:04:20]: Rem's bae [, Level 42]: ERROR: du machst das doch genau so xD
