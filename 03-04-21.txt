@@ -4323,3 +4323,4 @@
 [2021-04-03 05:43:28]: [D] mamikral011 [, Level 0]: Lucas: fluffy 1
 [2021-04-03 05:43:28]: |HolyHo| [, Level 18]: HeavyGeneral: ~?
 [2021-04-03 05:43:37]: ビール|Zero [Drunks, Level 26]: bob: fluffy 1
+[2021-04-03 05:43:58]: ビール|Zero [Drunks, Level 26]: f"{self.name}": fluffy 1
