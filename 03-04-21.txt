@@ -11344,3 +11344,7 @@
 [2021-04-03 15:04:04]: Flipper [, Level 13]: fayzor atlantis is x7 supers
 [2021-04-03 15:04:10]: ***  [, Level 0]: 'Shrimp' joined the spectators
 [2021-04-03 15:04:13]: ***  [, Level 0]: 'Shrimp' joined the game
+[2021-04-03 15:04:22]: ***  [, Level 0]: 'Shrimp' joined the spectators
+[2021-04-03 15:04:23]: ✯ | FayZoR [|Supressed|, Level 42]: Flipper: oh okay, that shit is Λtlantis Ψ
+[2021-04-03 15:04:25]: ***  [, Level 0]: 'Shrimp' joined the game
+[2021-04-03 15:04:27]: WarHammer' [, Level 16]: düştüm
