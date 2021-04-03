@@ -6145,3 +6145,8 @@
 [2021-04-03 08:00:13]: ***  [, Level 0]: (1)ERROR. finished in: 2 minute(s) 10.60 second(s)
 [2021-04-03 08:00:17]: Cylox [♥, Level 30]: (1)Λtlantis Ψ:
 [2021-04-03 08:00:18]: Kezo [FookinLads, Level 41]: cookie: help me = peace
+[2021-04-03 08:00:21]:   [, Level 0]: (1)Λtlantis Ψ: Cylox:  no
+[2021-04-03 08:00:23]: ***  [, Level 0]: 'kais' has left the game
+[2021-04-03 08:00:23]: ***  [, Level 0]: '(1)kais' has left the game
+[2021-04-03 08:00:29]: cookie [, Level 0]: peace wtf
+[2021-04-03 08:00:30]:   [, Level 0]: [D] mamikral011: (1)Λtlantis Ψ: help
