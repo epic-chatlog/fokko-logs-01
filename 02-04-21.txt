@@ -14008,3 +14008,4 @@
 [2021-04-02 23:57:55]: ***  [, Level 0]: '(1)Rock' entered and joined the game
 [2021-04-02 23:58:27]: Boti. [.bad, Level 32]: XDD
 [2021-04-02 23:58:32]: Boti. [.bad, Level 32]: Kiøn1029: figyeld
+[2021-04-02 23:58:45]: Boti. [.bad, Level 32]: suicide stack
