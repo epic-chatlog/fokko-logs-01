@@ -10298,3 +10298,5 @@
 [2021-04-03 12:51:09]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
 [2021-04-03 12:51:16]: Asta [FookinLads, Level 43]: Fearless:  the reason ?
 [2021-04-03 12:51:19]: Fearless [FookinLads, Level 40]: Asta:  youre on clanwar
+[2021-04-03 12:51:29]: Asta [FookinLads, Level 43]: Fearless:  -_- im in FookinLads
+[2021-04-03 12:51:35]: Fearless [FookinLads, Level 40]: Asta:  b ut u in clan war
