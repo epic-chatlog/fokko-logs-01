@@ -13156,3 +13156,6 @@
 [2021-04-02 18:02:39]: weqe [MNKY, Level 11]: go on like u usually do
 [2021-04-02 18:02:48]: weqe [MNKY, Level 11]: yes go on
 [2021-04-02 18:02:52]: weqe [MNKY, Level 11]: yes
+[2021-04-02 18:02:54]: weqe [MNKY, Level 11]: go on
+[2021-04-02 18:02:59]: weqe [MNKY, Level 11]: dont go left now
+[2021-04-02 18:03:02]: weqe [MNKY, Level 11]: go right
