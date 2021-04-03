@@ -4677,3 +4677,7 @@
 [2021-04-03 06:07:57]: ***  [, Level 0]: Sutzer finished in: 1 minute(s) 55.14 second(s)
 [2021-04-03 06:08:02]:   [, Level 0]: bob: nice
 [2021-04-03 06:08:18]: Rock [, Level 15]: Lucas: i can help u
+[2021-04-03 06:08:27]: |HolyHo| [, Level 18]: bob: why u kil++d
+[2021-04-03 06:08:31]: ***  [, Level 0]: 'black_cat' has left the game
+[2021-04-03 06:08:33]: ***  [, Level 0]: 'black_cat' entered and joined the game
+[2021-04-03 06:08:35]: [D] mamikral011 [, Level 20]: (1)Kezo: hi
