@@ -8155,3 +8155,7 @@
 [2021-04-03 10:11:24]: Rem's bae [, Level 42]: ChillerDragon: sieeehst de
 [2021-04-03 10:11:26]: ERROR. [404, Level 73]: bob ok rq
 [2021-04-03 10:11:31]: bob [MNKY, Level 36]: ok ich hol ammo
+[2021-04-03 10:11:39]: ChillerDragon.* [Chilli.*, Level 41]: fake rq
+[2021-04-03 10:11:41]: ERROR. [404, Level 73]: supi
+[2021-04-03 10:11:41]: Rem's bae [, Level 42]: any: yooo
+[2021-04-03 10:11:46]: ChillerDragon.* [Chilli.*, Level 41]: gömnmn doch ERROR
