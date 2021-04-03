@@ -11892,3 +11892,5 @@
 [2021-04-03 16:07:39]: ***  [, Level 0]: '~DemoizL~' has left the game
 [2021-04-03 16:07:41]: (1)Kirito [, Level 23]: .S L E E P Y': i dont even have 2 jumps
 [2021-04-03 16:07:43]: (1)Kirito [, Level 23]: .S L E E P Y': xd
+[2021-04-03 16:08:37]: ***  [, Level 0]: '.Huh?~*' has left the game
+[2021-04-03 16:08:37]: ***  [, Level 0]: '.S L E E P Y'' has left the game
