@@ -8378,3 +8378,4 @@
 [2021-04-03 10:21:50]: GODLIKe [hax, Level 44]: (1)ERROR:
 [2021-04-03 10:21:53]: ***  [, Level 0]: '(1)ERROR' has left the game
 [2021-04-03 10:21:53]: Sutzer [Guard, Level 0]: Cylox.♥: what do i get if i would help you?
+[2021-04-03 10:22:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
