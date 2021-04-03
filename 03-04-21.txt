@@ -2995,3 +2995,5 @@
 [2021-04-03 04:07:53]: BC|Tixnix [BC, Level 33]: sL|whutasme: why help you no me ß
 [2021-04-03 04:07:53]: sL|whutasme [, Level 5]: BC|Tixnix: :(
 [2021-04-03 04:08:11]: ***  [, Level 0]: 'Katz' entered and joined the game
+[2021-04-03 04:08:30]: ***  [, Level 0]: 'power2' has left the game
+[2021-04-03 04:08:30]: ***  [, Level 0]: 'power' has left the game
