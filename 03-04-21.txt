@@ -2493,3 +2493,7 @@
 [2021-04-03 03:21:19]: HeavyGeneral [FookinLads, Level 44]: sure
 [2021-04-03 03:21:21]: HeavyGeneral [FookinLads, Level 44]: i saw u helping him
 [2021-04-03 03:21:22]: HeavyGeneral [FookinLads, Level 44]: LMAO
+[2021-04-03 03:21:29]: ***  [, Level 0]: 'Kong' entered and joined the game
+[2021-04-03 03:21:32]: ***  [, Level 0]: '✯ |toxicdaddy' has left the game
+[2021-04-03 03:21:32]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
+[2021-04-03 03:21:36]: ***  [, Level 0]: '[D] Fearless' has left the game
