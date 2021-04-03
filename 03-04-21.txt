@@ -7737,3 +7737,4 @@
 [2021-04-03 09:43:05]: kais [, Level 65]: ✯|Not Bulash: because
 [2021-04-03 09:43:08]: ***  [, Level 0]: 'Rem's dummy' entered and joined the game
 [2021-04-03 09:43:11]: ***  [, Level 0]: 'Rainbow Tee' has left the game
+[2021-04-03 09:43:32]: (2)SAUD [, Level 20]: bye
