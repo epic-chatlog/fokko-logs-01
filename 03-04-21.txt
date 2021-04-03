@@ -11230,3 +11230,5 @@
 [2021-04-03 14:50:02]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
 [2021-04-03 14:50:04]: WarHammer [, Level 26]: SİKTİR LAN AŞŞAĞI ATIP ÖLDÜRCEKTİN
 [2021-04-03 14:50:09]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
+[2021-04-03 14:50:19]: ♥TAKO♥ [, Level 24]: LAN NİYE ÖLDÜREYİM
+[2021-04-03 14:50:21]: ♥TAKO♥ [, Level 24]: al beni
