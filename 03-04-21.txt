@@ -2013,3 +2013,6 @@
 [2021-04-03 02:30:00]: ***  [, Level 0]: '♥JustRace♥' has left the game
 [2021-04-03 02:30:13]: Lucas [THECEPS, Level 33]: Random Guy: ?
 [2021-04-03 02:30:24]: HeavyGeneral [FookinLads, Level 44]: Random Guy: sad
+[2021-04-03 02:30:31]: Random Guy [, Level 40]: HeavyGeneral: as my life
+[2021-04-03 02:30:33]: any [404, Level 37]: hi HeavyGeneral !
+[2021-04-03 02:30:37]: ChillerDragon [|*KoG*|, Level 44]: dark Random Guy
