@@ -6070,3 +6070,6 @@
 [2021-04-03 07:54:35]: Kezo [FookinLads, Level 41]: :)|(:: ok mute
 [2021-04-03 07:54:37]: sL|whutasme [, Level 7]: why you killing me Kezo
 [2021-04-03 07:54:54]: sL|whutasme [, Level 7]: Kezo: ok war4life
+[2021-04-03 07:55:00]:   [, Level 0]: (1)ERROR: skill
+[2021-04-03 07:55:03]: ***  [, Level 0]: 'K!ked' has left the game
+[2021-04-03 07:55:07]: sL|whutasme [, Level 7]: i never save yoou now Kezo
