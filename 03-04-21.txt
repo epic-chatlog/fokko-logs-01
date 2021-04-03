@@ -7624,3 +7624,5 @@
 [2021-04-03 09:32:59]: SAUD [, Level 13]: xD HELP Rimso
 [2021-04-03 09:33:03]: SAUD [, Level 13]: xD HELP Rainbow Tee
 [2021-04-03 09:33:27]: lolpoep [Ape, Level 16]: say sorry
+[2021-04-03 09:33:46]: FULL WAR [, Level 6]: lolpoep:
+[2021-04-03 09:33:50]: ERROR [404, Level 55]: weqe:  zzzzz
