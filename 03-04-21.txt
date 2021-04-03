@@ -424,3 +424,7 @@
 [2021-04-03 01:05:08]: ERROR. [404, Level 55]: nop
 [2021-04-03 01:05:13]: hhh4 [hax, Level 44]: (1)SAUD: yes
 [2021-04-03 01:05:14]: (1)|HolyHo| [TrRShClNrRs, Level 0]: ERROR: ill pay
+[2021-04-03 01:05:21]: ERROR. [404, Level 55]:  do /stats ERROR
+[2021-04-03 01:05:21]: (1)SAUD [, Level 13]: hhh4:  nah
+[2021-04-03 01:05:22]: hhh4 [hax, Level 44]: ♥TAKO♥: he
+[2021-04-03 01:05:25]: ERROR. [404, Level 55]:  i dont need money.
