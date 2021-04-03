@@ -10530,3 +10530,5 @@
 [2021-04-03 13:28:13]: sun.slow(y) [sunrise., Level 0]: S Y T H N: offenburg? ist das n kuhficker?
 [2021-04-03 13:28:15]: sun.slow(y) [sunrise., Level 0]: dorfkind
 [2021-04-03 13:28:16]: sun.slow(y) [sunrise., Level 0]: hahahah
+[2021-04-03 13:28:23]: S Y T H N [iPro, Level 37]: sun.slow(y): jeder aufem server ist toxic
+[2021-04-03 13:28:33]: sun.slow(y) [sunrise., Level 0]: S Y T H N: bin ich auch privat
