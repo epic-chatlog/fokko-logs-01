@@ -5840,3 +5840,9 @@
 [2021-04-03 07:40:55]: [D] ✯ |toxicd [|Supressed, Level 20]: cookie: help me
 [2021-04-03 07:40:55]: ***  [, Level 0]: 'ERROR.' entered and joined the game
 [2021-04-03 07:41:00]: Kezo{D} [FookinLads, Level 0]: ♥TAKO♥: VE ONUN GERÇEK İSMİ X7|SUPERS
+[2021-04-03 07:41:05]: Kezo{D} [FookinLads, Level 0]: ♥TAKO♥: VE BENİM DÜŞMAN KLANIMDA
+[2021-04-03 07:41:06]: Falco641 [, Level 18]: cookie: dog
+[2021-04-03 07:41:07]: YelloWorlD [404, Level 73]: cookie: help
+[2021-04-03 07:41:07]:   [, Level 0]: ERROR.: tf server laggy?
+[2021-04-03 07:41:08]: Falco641 [, Level 18]: war for life
+[2021-04-03 07:41:09]: GOLD [404, Level 41]: cookie: help
