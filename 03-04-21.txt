@@ -9303,3 +9303,7 @@
 [2021-04-03 11:24:00]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-03 11:24:25]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-03 11:24:34]: ***  [, Level 0]: 'gian x' has left the game
+[2021-04-03 11:24:44]: BulgarianTee [xSD7, Level 0]: E
+[2021-04-03 11:24:49]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: wellow
+[2021-04-03 11:24:54]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: BulgarianTee: i want to kill u omg
+[2021-04-03 11:24:54]: BulgarianTee [xSD7, Level 0]: E
