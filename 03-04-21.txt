@@ -12030,3 +12030,4 @@
 [2021-04-03 16:37:44]: (1)УБИВАТ [, Level 0]: gg wp[
 [2021-04-03 16:38:14]: ***  [, Level 0]: 'fomjn' entered and joined the game
 [2021-04-03 16:38:21]: ***  [, Level 0]: '(2)УБИВАТЬ!' entered and joined the game
+[2021-04-03 16:39:05]: ***  [, Level 0]: 'fomin' entered and joined the game
