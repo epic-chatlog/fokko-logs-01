@@ -7959,3 +7959,4 @@
 [2021-04-03 09:58:22]: Alien [UndergrounD, Level 0]: war xzD
 [2021-04-03 09:58:25]: ***  [, Level 0]: ChillerDragon's killing spree was ended by ERROR. (7 blocks)
 [2021-04-03 09:58:39]: ←   [, Level 0]: Ghost: est ce que tu compte racheter le portail ?
+[2021-04-03 09:58:44]: ERROR. [404, Level 73]: how bad are u fr
