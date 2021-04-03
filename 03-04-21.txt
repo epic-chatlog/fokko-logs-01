@@ -6211,3 +6211,4 @@
 [2021-04-03 08:03:20]: ***  [, Level 0]: 'Deadmouse' has left the game
 [2021-04-03 08:03:20]:   [, Level 0]: WarHammer: ChillerDragon:  stop switch 20
 [2021-04-03 08:03:21]: Lucas [THECEPS, Level 33]: cookie: that can to
+[2021-04-03 08:03:27]: cookie [, Level 0]: Lucas:  i need to go
