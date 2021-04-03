@@ -4982,3 +4982,8 @@
 [2021-04-03 06:32:45]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-03 06:32:46]: Rimso [, Level 2]: WHAT A LUCK
 [2021-04-03 06:32:46]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-03 06:33:14]: ***  [, Level 0]: 'Soros' has left the game
+[2021-04-03 06:33:14]: ***  [, Level 0]: 'el champeon' has left the game
+[2021-04-03 06:33:16]: ***  [, Level 0]: (1)|HolyHo|° finished in: 1 minute(s)  7.98 second(s)
+[2021-04-03 06:33:16]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-03 06:33:19]: ***  [, Level 0]: 'K1M9N' joined the spectators
