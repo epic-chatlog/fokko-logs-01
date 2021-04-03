@@ -4912,3 +4912,8 @@
 [2021-04-03 06:26:31]: ***  [, Level 0]: 'Soros0010438748' has left the game
 [2021-04-03 06:26:35]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
 [2021-04-03 06:26:35]: Rock [, Level 15]: you can hammer fly here
+[2021-04-03 06:26:41]: Rock [, Level 15]: with dummy
+[2021-04-03 06:26:42]: Rimso [, Level 2]: ohok
+[2021-04-03 06:26:46]: ***  [, Level 0]: 'K1M9N' entered and joined the game
+[2021-04-03 06:26:48]: ***  [, Level 0]: 'el champeon' entered and joined the game
+[2021-04-03 06:26:50]: bob [MNKY, Level 36]: get bonus
