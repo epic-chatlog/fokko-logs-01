@@ -5055,3 +5055,6 @@
 [2021-04-03 06:36:03]: ***  [, Level 0]: '✔Pouet{D}' has left the game (Timeout)
 [2021-04-03 06:36:07]: ***  [, Level 0]: 'K1M9N' joined the spectators
 [2021-04-03 06:36:07]: cookie [, Level 0]: gmmm
+[2021-04-03 06:36:11]: ***  [, Level 0]: 'K1M9N' joined the game
+[2021-04-03 06:36:21]: ***  [, Level 0]: 'power' has left the game
+[2021-04-03 06:36:21]: ***  [, Level 0]: 'power2' has left the game
