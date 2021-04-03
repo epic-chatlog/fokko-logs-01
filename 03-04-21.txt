@@ -7677,3 +7677,4 @@
 [2021-04-03 09:38:07]: ***  [, Level 0]: 'Alien' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-03 09:38:09]: ***  [, Level 0]: 'Kyrma' entered and joined the game
 [2021-04-03 09:38:12]: ***  [, Level 0]: 'Alien' left the minigame 'Survival'
+[2021-04-03 09:38:22]: SAUD [, Level 13]: Lucas:  hi again xD
