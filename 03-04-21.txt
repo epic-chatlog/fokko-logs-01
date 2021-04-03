@@ -4977,3 +4977,8 @@
 [2021-04-03 06:32:18]:   [, Level 0]: (1)|HolyHo|: Axel: come :D
 [2021-04-03 06:32:27]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
 [2021-04-03 06:32:35]: ***  [, Level 0]: '~DemoizL~' has left the game
+[2021-04-03 06:32:36]: Rock [, Level 15]: wtf
+[2021-04-03 06:32:40]:   [, Level 0]: Axel: Thanks
+[2021-04-03 06:32:45]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-03 06:32:46]: Rimso [, Level 2]: WHAT A LUCK
+[2021-04-03 06:32:46]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
