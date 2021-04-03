@@ -13884,3 +13884,7 @@
 [2021-04-02 23:16:56]: Flupper [, Level 13]: we gon play another map
 [2021-04-02 23:17:00]: Flupper [, Level 13]: ill pick leave
 [2021-04-02 23:17:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-02 23:17:05]: SAUD [, Level 20]: ok but wait
+[2021-04-02 23:17:08]: Flupper [, Level 13]: y
+[2021-04-02 23:17:12]: SAUD [, Level 20]: i wanna place to afk
+[2021-04-02 23:17:14]: SAUD [, Level 20]: ur plot
