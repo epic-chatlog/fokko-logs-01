@@ -4428,3 +4428,8 @@
 [2021-04-03 05:50:43]: cookie [, Level 0]: ghost
 [2021-04-03 05:50:45]:   [, Level 0]: Rimso: Fearless: just farm and enjoy xD
 [2021-04-03 05:50:46]: cookie [, Level 0]: help
+[2021-04-03 05:50:51]: Fearless [FookinLads, Level 40]: Rimso:  ok thx
+[2021-04-03 05:50:58]: ***  [, Level 0]: 'Axel' entered and joined the game
+[2021-04-03 05:50:58]: ***  [, Level 0]: '(2)Λtlantis Ψ' entered and joined the game
+[2021-04-03 05:51:00]: ***  [, Level 0]: ### '[INFO]' CTRL + SHIFT + Q = RAINBOW
+[2021-04-03 05:51:02]: power [TrRShClNrRs, Level 13]: Sutzer:
