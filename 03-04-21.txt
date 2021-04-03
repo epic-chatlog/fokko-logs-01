@@ -7660,3 +7660,6 @@
 [2021-04-03 09:37:01]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-03 09:37:01]: ***  [, Level 0]: 'fernan' joined the spectators
 [2021-04-03 09:37:05]: ***  [, Level 0]: 'fernan' joined the game
+[2021-04-03 09:37:21]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-03 09:37:23]: ***  [, Level 0]: 'fernan' joined the spectators
+[2021-04-03 09:37:25]: ***  [, Level 0]: 'gian x' joined the game
