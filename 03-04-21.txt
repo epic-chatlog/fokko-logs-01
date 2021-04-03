@@ -11670,3 +11670,6 @@
 [2021-04-03 15:34:28]: ***  [, Level 0]: 'lovzvol' entered and joined the game
 [2021-04-03 15:34:30]: x7|Flipper [xSD7, Level 13]: :C
 [2021-04-03 15:34:43]: x7|Flipper [xSD7, Level 13]: S Y T H N help
+[2021-04-03 15:35:04]: west morland [michi, Level 36]: help
+[2021-04-03 15:35:05]: ***  [, Level 0]: 'lovzvol' has left the game
+[2021-04-03 15:35:07]: west morland [michi, Level 36]: please
