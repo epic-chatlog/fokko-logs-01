@@ -5893,3 +5893,4 @@
 [2021-04-03 07:43:36]: ***  [, Level 0]: Maatiteusz's killing spree was ended by YelloWorlD (5 blocks)
 [2021-04-03 07:43:39]: ***  [, Level 0]: 'power2' entered and joined the game
 [2021-04-03 07:43:43]: ***  [, Level 0]: '(2)SAUD' entered and joined the game
+[2021-04-03 07:43:52]: ***  [, Level 0]: 'ERROR' entered and joined the game
