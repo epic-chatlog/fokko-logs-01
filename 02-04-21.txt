@@ -13007,3 +13007,4 @@
 [2021-04-02 17:07:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-02 17:12:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-02 17:12:35]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-02 17:13:08]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
