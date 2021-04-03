@@ -7524,3 +7524,5 @@
 [2021-04-03 09:26:54]: WarHammer' [, Level 16]: deSi:  war
 [2021-04-03 09:26:56]: ***  [, Level 0]: 'Alien' entered and joined the game
 [2021-04-03 09:27:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-03 09:27:15]: SAUD [, Level 13]: Lucas:  hi
+[2021-04-03 09:27:18]:   [, Level 0]: [D] Sutzer: bruh xD
