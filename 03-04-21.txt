@@ -4806,3 +4806,7 @@
 [2021-04-03 06:18:57]:   [, Level 0]: f"{self.name}": el champeon: :D:D:DD
 [2021-04-03 06:18:59]: ***  [, Level 0]: 'MieSlime' has left the game
 [2021-04-03 06:19:04]:   [, Level 0]: sL|whutasme: Sutzer:
+[2021-04-03 06:19:13]: ***  [, Level 0]: (1)Ghost is on a killing spree with 5 blocks
+[2021-04-03 06:19:16]: Rimso [, Level 2]: how to move money from wallet to bank ?
+[2021-04-03 06:19:17]: [D] mamikral011 [, Level 20]: (1)any: help
+[2021-04-03 06:19:22]: Rock [, Level 15]: go for me
