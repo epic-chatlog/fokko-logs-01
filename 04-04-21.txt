@@ -6109,3 +6109,8 @@
 [2021-04-04 07:26:10]: (1)Kirito [♥, Level 34]: [D] ✯ |toxicd: angle muss auf 222
 [2021-04-04 07:26:19]: ***  [, Level 0]: 'Nonoh' has left the game
 [2021-04-04 07:26:19]: ***  [, Level 0]: 'Noémi[Đ]' has left the game
+[2021-04-04 07:26:33]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 5 blocks
+[2021-04-04 07:26:35]: ***  [, Level 0]: 'Punguin' has left the game
+[2021-04-04 07:26:39]: ERROR. [404, Level 56]: xD
+[2021-04-04 07:26:41]: ***  [, Level 0]: ### 'ERROR.' Woof-Woof
+[2021-04-04 07:26:43]: ***  [, Level 0]: BC|Tixnix's killing spree was ended by [D]Torento (5 blocks)
