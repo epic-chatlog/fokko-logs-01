@@ -5986,3 +5986,8 @@
 [2021-04-04 07:10:40]: Noémi[Đ] [citrom, Level 32]: xd Torento
 [2021-04-04 07:10:52]: Number1 [unspeedrun, Level 0]: money
 [2021-04-04 07:11:07]: Number1 [unspeedrun, Level 0]: money giveaway lol
+[2021-04-04 07:11:11]: Fearless [Fookinlads, Level 40]: ez
+[2021-04-04 07:11:12]:   [, Level 0]: BulgarianTee: E
+[2021-04-04 07:11:13]: ***  [, Level 0]: 'Fearless' has left the game
+[2021-04-04 07:11:21]: Number1 [unspeedrun, Level 0]: f
+[2021-04-04 07:11:21]: ***  [, Level 0]: 'Deadmouse' entered and joined the game
