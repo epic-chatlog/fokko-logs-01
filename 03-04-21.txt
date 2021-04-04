@@ -13525,3 +13525,5 @@
 [2021-04-03 23:52:38]: [D] Boti. [.bad, Level 27]: XD
 [2021-04-03 23:52:40]: [D] Boti. [.bad, Level 27]: instant timeout
 [2021-04-03 23:52:50]: ***  [, Level 0]: 'SAUD' entered and joined the game
+[2021-04-03 23:53:06]: ***  [, Level 0]: 'BulgarianTee' has left the game (Timeout)
+[2021-04-03 23:53:07]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
