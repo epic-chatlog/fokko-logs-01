@@ -5762,3 +5762,10 @@
 [2021-04-04 06:57:56]: ***  [, Level 0]: 'ᅟᅟᅟᅟ' changed name to 'x7|Supers'
 [2021-04-04 06:58:00]: ***  [, Level 0]: 'Torento' entered and joined the game
 [2021-04-04 06:58:00]:   [, Level 0]: Isegrin: (2)ERROR: fake error?
+[2021-04-04 06:58:04]: (2)ERROR [404, Level 40]: Isegrin:  fearless is kinda cute tho
+[2021-04-04 06:58:08]: ᅟᅟ [, Level 0]: Number1:  nab
+[2021-04-04 06:58:10]: SAUD [, Level 20]: TY [D] Sutzer
+[2021-04-04 06:58:11]:   [, Level 0]: Number1: what
+[2021-04-04 06:58:11]: Punguin [HunClass, Level 0]: Nonoh:
+[2021-04-04 06:58:13]:   [, Level 0]: Isegrin: (2)ERROR: is he?
+[2021-04-04 06:58:14]: Punguin [HunClass, Level 0]: Nonoh: gyere ide
