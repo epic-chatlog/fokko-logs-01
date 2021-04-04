@@ -5711,3 +5711,8 @@
 [2021-04-04 06:55:16]:   [, Level 0]: Isegrin: Noémi[Đ]: no
 [2021-04-04 06:55:17]: SAUD [, Level 20]: 70m and farm xDDDDD ERROR
 [2021-04-04 06:55:23]: ***  [, Level 0]: 'Sutzer' finished the special race!
+[2021-04-04 06:55:26]: ***  [, Level 0]: '[D] Sutzer' finished the special race!
+[2021-04-04 06:55:30]: ERROR [404, Level 73]: SAUD:  ye i want top1
+[2021-04-04 06:55:32]: SAUD [, Level 20]: ERROR:  i have 100000 and feel so rich
+[2021-04-04 06:55:35]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-04 06:55:35]: Noémi[Đ] [citrom, Level 32]: Isegrin: hmm u policehammer me and i war for u forevr
