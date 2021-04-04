@@ -12120,3 +12120,6 @@
 [2021-04-03 17:04:50]: ***  [, Level 0]: '<-_->' entered and joined the game
 [2021-04-03 17:04:51]: ***  [, Level 0]: '<-_->' has left the game
 [2021-04-03 17:04:51]: ***  [, Level 0]: 'Robertos paparo' joined the game
+[2021-04-03 17:04:57]: ***  [, Level 0]: 'Robertos paparo' joined the spectators
+[2021-04-03 17:05:00]: ***  [, Level 0]: 'Robertos paparo' joined the game
+[2021-04-03 17:05:00]: ***  [, Level 0]: '<-_->' entered and joined the game
