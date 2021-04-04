@@ -12098,3 +12098,4 @@
 [2021-04-03 16:59:35]: OP|Supers [OldPlayers, Level 39]: ja oder nein
 [2021-04-03 16:59:36]: OP|Supers [OldPlayers, Level 39]: discord
 [2021-04-03 16:59:59]: (2)УБИВАТ [, Level 0]: winm
+[2021-04-03 17:00:09]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 15 blocks
