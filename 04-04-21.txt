@@ -1352,3 +1352,7 @@
 [2021-04-04 01:34:37]: Nonoh [citrom, Level 40]: suadu know
 [2021-04-04 01:34:42]: [D] Boti. [.bad, Level 27]: lézerkard
 [2021-04-04 01:34:44]: (2)SAUD [, Level 3]: Nonoh:  u help him now or ill throw ur dummy
+[2021-04-04 01:34:49]: ***  [, Level 0]: 'İm Madzo' changed name to 'MADZO'
+[2021-04-04 01:34:51]: Nonoh [citrom, Level 40]: SAUD: u help my dummy and i help Rawad
+[2021-04-04 01:34:54]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-04 01:34:58]: Kiøn1029 [.bad, Level 31]: double kill
