@@ -9718,3 +9718,6 @@
 [2021-04-04 10:49:07]: Nudelsaft c: [FookinLads, Level 60]: da war ja was
 [2021-04-04 10:49:11]: (1)ChillerDrago [|*KoG*|, Level 0]: rxd
 [2021-04-04 10:49:20]: (1)ChillerDrago [|*KoG*|, Level 0]: so binb ma weg
+[2021-04-04 10:49:23]: Nudelsaft c: [FookinLads, Level 60]: D:
+[2021-04-04 10:49:27]: (1)ChillerDrago [|*KoG*|, Level 0]: mache tests Nudelsaft c:
+[2021-04-04 10:49:29]: Nudelsaft c: [FookinLads, Level 60]: ah
