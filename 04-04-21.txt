@@ -5996,3 +5996,6 @@
 [2021-04-04 07:11:59]: ***  [, Level 0]: 'Jiraya' entered and joined the game
 [2021-04-04 07:12:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-04 07:12:07]: Torento [, Level 23]: wtfff
+[2021-04-04 07:12:13]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
+[2021-04-04 07:12:13]: Number1 [unspeedrun, Level 0]: what
+[2021-04-04 07:12:20]: Falco641 [, Level 18]: stuff expensive here
