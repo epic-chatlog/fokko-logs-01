@@ -13570,3 +13570,5 @@
 [2021-04-04 16:13:17]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-04 16:13:23]: Shiro. [Whɪтє, Level 42]: c'était pas du sarcasme en disant le serveur entier
 [2021-04-04 16:13:25]: Shiro. [Whɪтє, Level 42]: C'est la vérité
+[2021-04-04 16:13:36]: ***  [, Level 0]: '❤FallDog❤' joined the spectators
+[2021-04-04 16:13:40]: ***  [, Level 0]: '❤FallDog❤' joined the game
