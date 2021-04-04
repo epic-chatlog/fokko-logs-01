@@ -9370,3 +9370,7 @@
 [2021-04-04 10:21:44]: PoliceTee [xSD7, Level 25]: E
 [2021-04-04 10:21:46]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
 [2021-04-04 10:21:51]:   [, Level 0]: PureLuck: PoliceTee: MieSlime  arrested me because im black
+[2021-04-04 10:21:52]: ***  [, Level 0]: 'ᅟᅟᅟ' has left the game (Timeout)
+[2021-04-04 10:21:52]: ***  [, Level 0]: 'P4Pyr0s' has left the game (Timeout)
+[2021-04-04 10:21:56]: ビール|Zero [Drunks, Level 27]: any: im his friend
+[2021-04-04 10:22:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
