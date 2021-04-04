@@ -5888,3 +5888,5 @@
 [2021-04-04 07:04:49]: ***  [, Level 0]: '[D] Sutzer' has left the game
 [2021-04-04 07:04:50]: ✯ |toxicdaddy [|Supressed, Level 24]: (1)Kirito:
 [2021-04-04 07:04:53]: ***  [, Level 0]: 'sammy' entered and joined the game
+[2021-04-04 07:05:01]: Punguin [HunClass, Level 0]: Nonoh: nem kell pénz?
+[2021-04-04 07:05:03]: Fearless [Fookinlads, Level 40]: Keø:  :c
