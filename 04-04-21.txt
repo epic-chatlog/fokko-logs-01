@@ -4582,3 +4582,6 @@
 [2021-04-04 05:43:36]: (1)ERROR. [404, Level 0]: omg
 [2021-04-04 05:43:38]: kurama [, Level 8]: Rock: НЕ МНЕ УЖЕ НЕ ХОЧЕТС
 [2021-04-04 05:43:38]: coprophile [, Level 0]: comic: dude why did you said ctrl+shift+d
+[2021-04-04 05:43:44]:   [, Level 0]: comic: coprophile: its funny
+[2021-04-04 05:43:49]: Rock [, Level 17]: я спрашивал?
+[2021-04-04 05:43:51]: coprophile [, Level 0]: yea
