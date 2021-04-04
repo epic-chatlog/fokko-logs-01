@@ -2525,3 +2525,4 @@
 [2021-04-04 02:39:25]: ***  [, Level 0]: 'Boti.' has left the game
 [2021-04-04 02:39:44]: (1)ビール|Ze [Drunks, Level 10]: не мешай ща
 [2021-04-04 02:39:49]: ***  [, Level 0]: 'R2D2' entered and joined the game
+[2021-04-04 02:39:58]: ChillerDragon.* [|*KoG*|, Level 41]: blue flag [D] BC|Tixnix cringe
