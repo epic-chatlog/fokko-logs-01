@@ -13164,3 +13164,5 @@
 [2021-04-04 15:24:02]: x7|FayZoR [xSD7, Level 42]: capj'ai envie de voir si tu te bas comme lui
 [2021-04-04 15:25:05]: x7|FayZoR [xSD7, Level 42]: cup of tee: si tu te bas comme lui t'es officièlement any
 [2021-04-04 15:25:08]: cup of tee [abh, Level 37]: x7|FayZoR: /block ?
+[2021-04-04 15:25:15]: ***  [, Level 0]: 'cup of tee' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-04 15:25:22]: ***  [, Level 0]: 'x7|FayZoR' joined the minigame 'Block', use '/block' to join aswell
