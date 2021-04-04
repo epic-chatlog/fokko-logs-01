@@ -5852,3 +5852,7 @@
 [2021-04-04 07:03:20]:   [, Level 0]: Number1: okay
 [2021-04-04 07:03:24]: (2)ERROR [404, Level 40]: xd
 [2021-04-04 07:03:25]:   [, Level 0]: BulgarianTee: ERROR: WAIT LISTENN E
+[2021-04-04 07:03:31]: ***  [, Level 0]: 'Cylox.♥' has left the game
+[2021-04-04 07:03:31]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-04 07:03:34]: Noémi[Đ] [citrom, Level 32]: Torento:
+[2021-04-04 07:03:36]: power2 [TrRShClNrRs, Level 0]: ERROR: how are u and ur dummy playing at the samew time
