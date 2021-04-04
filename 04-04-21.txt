@@ -9748,3 +9748,8 @@
 [2021-04-04 10:50:33]: ***  [, Level 0]: 'Tee Shirt' has left the game
 [2021-04-04 10:50:36]: (1)SAUD [, Level 15]: Nudelsaft c::  i helped u and helped him
 [2021-04-04 10:50:46]: Nudelsaft c: [FookinLads, Level 60]: SAUD: yea and u still helped him after i blocked him
+[2021-04-04 10:50:48]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
+[2021-04-04 10:50:48]: ***  [, Level 0]: '(3)ChillerDragon' has left the game
+[2021-04-04 10:50:49]: x7|FayZoR [xSD7, Level 42]: koro: t'arrive ?
+[2021-04-04 10:50:50]: Nudelsaft c: [FookinLads, Level 60]: SAUD: and u saw me blocking him
+[2021-04-04 10:50:57]: (1)SAUD [, Level 15]: Nudelsaft c::  and u were dead
