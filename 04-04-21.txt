@@ -3923,3 +3923,7 @@
 [2021-04-04 04:29:27]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
 [2021-04-04 04:29:27]: [D] mamikral011 [, Level 20]: BC|Tixnix: :D
 [2021-04-04 04:29:30]: ***  [, Level 0]: 'Torento' entered and joined the game
+[2021-04-04 04:29:39]: [D] BC|Tixnix [BC, Level 0]: mamikral011: :D
+[2021-04-04 04:29:40]: ビール|Zero [Drunks, Level 27]: fuk
+[2021-04-04 04:29:40]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
+[2021-04-04 04:29:44]: ***  [, Level 0]: 'Torento' has left the game
