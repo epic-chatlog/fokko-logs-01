@@ -12204,3 +12204,6 @@
 [2021-04-03 17:18:45]: ***  [, Level 0]: '[RUS]' has left the game
 [2021-04-03 17:19:06]: ***  [, Level 0]: fomin is on a killing spree with 5 blocks
 [2021-04-03 17:19:13]: ***  [, Level 0]: 'GORİL' joined the game
+[2021-04-03 17:19:45]: ***  [, Level 0]: fomin is on a killing spree with 10 blocks
+[2021-04-03 17:19:45]: teee [, Level 0]: she have
+[2021-04-03 17:19:46]: ***  [, Level 0]: 'd' entered and joined the game
