@@ -5781,3 +5781,5 @@
 [2021-04-04 06:58:36]: (2)ERROR [404, Level 40]: Isegrin:  cant love myself
 [2021-04-04 06:58:38]: ***  [, Level 0]: 'Falco641' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-04 06:58:38]: ***  [, Level 0]: 'Falco642' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-04 06:58:40]: SAUD [, Level 20]: xDD
+[2021-04-04 06:58:41]: power [TrRShClNrRs, Level 0]: Isegrin:
