@@ -755,3 +755,6 @@
 [2021-04-04 00:56:40]: x7|Flipper [xSD7, Level 14]: i want overnight farm
 [2021-04-04 00:56:51]: x7|Flipper [xSD7, Level 14]: cylodx do u have a plot
 [2021-04-04 00:56:52]: Torento [, Level 23]: weqe: hey
+[2021-04-04 00:57:00]: Cylox [♥, Level 30]: x7|Flipper: yes
+[2021-04-04 00:57:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 00:57:05]: x7|Flipper [xSD7, Level 14]: can i afk farm in it
