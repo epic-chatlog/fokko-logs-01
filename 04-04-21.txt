@@ -5841,3 +5841,10 @@
 [2021-04-04 07:02:57]:   [, Level 0]: Falco642: say /register username password password
 [2021-04-04 07:03:00]:   [, Level 0]: Number1: f the mans
 [2021-04-04 07:03:04]: (2)ERROR [404, Level 40]: Keø:  :c
+[2021-04-04 07:03:07]:   [, Level 0]: Falco642: wait
+[2021-04-04 07:03:07]: (2)ERROR [404, Level 40]: Keø:  help fearless :C
+[2021-04-04 07:03:07]:   [, Level 0]: BulgarianTee: ERROR: A
+[2021-04-04 07:03:08]:   [, Level 0]: Number1: do i say it
+[2021-04-04 07:03:11]:   [, Level 0]: BulgarianTee: ERROR: WAIT LISTEN
+[2021-04-04 07:03:11]:   [, Level 0]: Falco642: yeah
+[2021-04-04 07:03:16]:   [, Level 0]: BulgarianTee: ERROR: WAIT
