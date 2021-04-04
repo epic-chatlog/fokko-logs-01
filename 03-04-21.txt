@@ -12305,3 +12305,4 @@
 [2021-04-03 17:42:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-03 17:43:06]: ***  [, Level 0]: 'cHilLerDargon' entered and joined the game
 [2021-04-03 17:43:08]: ***  [, Level 0]: 'cHilLerDargon' has left the game
+[2021-04-03 17:43:30]: УБИВАТЬ! [, Level 0]: sun.slow(y): by
