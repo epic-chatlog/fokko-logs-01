@@ -10332,3 +10332,5 @@
 [2021-04-04 11:43:33]: ChillerDragon.* [Chilli.*, Level 41]: weqe: I am currently afk.
 [2021-04-04 11:43:34]: ***  [, Level 0]: 'Λtlantis Ψ' has left the game
 [2021-04-04 11:43:36]: ***  [, Level 0]: 'Λtlantis Ψ' entered and joined the game
+[2021-04-04 11:43:51]: Nudelsaft c: [FookinLads, Level 60]: weqe: nah, if u have everyone on your side, you have chillerdragons enemies on ur side
+[2021-04-04 11:43:51]: ***  [, Level 0]: 'Λtlantis Ψ' has left the game
