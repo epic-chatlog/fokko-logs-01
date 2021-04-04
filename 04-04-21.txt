@@ -5811,3 +5811,6 @@
 [2021-04-04 07:00:33]: [D] Punguin [, Level 0]: Nonoh: gyere
 [2021-04-04 07:00:36]:   [, Level 0]: Falco641: no
 [2021-04-04 07:00:39]:   [, Level 0]: Falco641: nvm lol
+[2021-04-04 07:00:53]:   [, Level 0]: Number1: f
+[2021-04-04 07:00:53]: ***  [, Level 0]: 'moonisabitch' has left the game
+[2021-04-04 07:01:01]: Sutzer [Guard, Level 0]: ?
