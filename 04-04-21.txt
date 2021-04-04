@@ -9608,3 +9608,4 @@
 [2021-04-04 10:41:49]: ビール|Zero [Drunks, Level 27]: NetFlix:
 [2021-04-04 10:41:55]: Lucas [THECEPS, Level 34]: ♥TAKO♥: i gotta go eat rn
 [2021-04-04 10:42:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-04 10:42:07]: ***  [, Level 0]: 'Marcisten' has left the game
