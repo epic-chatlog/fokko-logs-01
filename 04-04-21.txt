@@ -6018,3 +6018,7 @@
 [2021-04-04 07:13:32]: [D] Punguin [, Level 0]: res?
 [2021-04-04 07:13:35]: Noémi[Đ] [citrom, Level 32]: Torento: Punguin im coming
 [2021-04-04 07:13:37]: ***  [, Level 0]: Noémi[Đ]'s killing spree was ended by Punguin (6 blocks)
+[2021-04-04 07:13:47]: [D] Punguin [, Level 0]: hol vagy?
+[2021-04-04 07:13:53]:   [, Level 0]: Number1: afk for a little
+[2021-04-04 07:13:55]: ***  [, Level 0]: 'Falco642' has left the game
+[2021-04-04 07:13:55]: ***  [, Level 0]: 'Falco641' has left the game
