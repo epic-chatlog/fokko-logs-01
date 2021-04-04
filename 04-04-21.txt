@@ -9795,3 +9795,4 @@
 [2021-04-04 10:54:54]: ***  [, Level 0]: 'Rock' has left the game
 [2021-04-04 10:54:56]: ♥JustRace♥ [xSD7, Level 0]: XDDD
 [2021-04-04 10:55:02]: Nudelsaft c: [FookinLads, Level 60]: Isegrin: rude
+[2021-04-04 10:55:09]: ***  [, Level 0]: 'Rock' entered and joined the game
