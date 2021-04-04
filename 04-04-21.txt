@@ -12468,3 +12468,4 @@
 [2021-04-04 14:08:58]: ***  [, Level 0]: 'keø' has left the game (Timeout Protection over)
 [2021-04-04 14:11:16]: ***  [, Level 0]: 'quzii' entered and joined the game
 [2021-04-04 14:12:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-04 14:12:12]: ***  [, Level 0]: 'cup of tee' entered and joined the game
