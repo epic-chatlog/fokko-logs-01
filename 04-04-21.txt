@@ -5334,3 +5334,5 @@
 [2021-04-04 06:31:57]: Nonoh [citrom, Level 40]: ok
 [2021-04-04 06:32:01]: SAUD [, Level 20]: mami:  <
 [2021-04-04 06:32:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-04 06:32:29]: Kaptar [, Level 0]: Maatiteusz: u'r with or against [D] Fearless ?
+[2021-04-04 06:32:30]: SAUD [, Level 20]: mami:  leave it
