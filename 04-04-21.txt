@@ -2365,3 +2365,9 @@
 [2021-04-04 02:31:42]: ChillerDragon.* [Chilli.*, Level 41]: meg Boti.
 [2021-04-04 02:31:43]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-04 02:31:46]: [D] Boti. [.bad, Level 0]: what
+[2021-04-04 02:31:47]: weqe [MNKY, Level 11]: bob: <3
+[2021-04-04 02:31:49]: ChillerDragon.* [Chilli.*, Level 41]: bob: what does meg mean? xd
+[2021-04-04 02:31:51]: [D] Boti. [.bad, Level 0]: my dummy is afk dud
+[2021-04-04 02:31:52]: WarHammer' [, Level 16]: OW
+[2021-04-04 02:31:54]: ChillerDragon.* [Chilli.*, Level 41]: Boti.: what does meg mean? xd
+[2021-04-04 02:31:54]: ***  [, Level 0]: '[D] Boti.' has left the game
