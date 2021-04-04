@@ -12528,3 +12528,5 @@
 [2021-04-04 14:19:14]: (2)ERROR [404, Level 40]: im undercover error
 [2021-04-04 14:19:24]: Isegrin [, Level 54]: why
 [2021-04-04 14:19:26]: (2)ERROR [404, Level 40]: im fyrles
+[2021-04-04 14:19:31]: Isegrin [, Level 54]: WHy u fake error
+[2021-04-04 14:19:39]: (2)ERROR [404, Level 40]: cuz wanted to know why shiro is gay
