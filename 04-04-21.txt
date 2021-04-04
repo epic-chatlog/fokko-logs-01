@@ -5993,3 +5993,6 @@
 [2021-04-04 07:11:21]: ***  [, Level 0]: 'Deadmouse' entered and joined the game
 [2021-04-04 07:11:23]: Falco642 [, Level 3]: lmao
 [2021-04-04 07:11:55]: Punguin [HunClass, Level 0]: Nonoh:
+[2021-04-04 07:11:59]: ***  [, Level 0]: 'Jiraya' entered and joined the game
+[2021-04-04 07:12:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 07:12:07]: Torento [, Level 23]: wtfff
