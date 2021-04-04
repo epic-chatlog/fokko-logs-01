@@ -8784,3 +8784,7 @@
 [2021-04-04 09:43:58]: [D] mamikral011 [, Level 20]: ERROR.:
 [2021-04-04 09:44:00]:   [, Level 0]: GameOver: Error
 [2021-04-04 09:44:01]: ***  [, Level 0]: mamikral011 is on a killing spree with 5 blocks
+[2021-04-04 09:44:15]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-04 09:44:15]:   [, Level 0]: Pigie♥: Clight: help me down
+[2021-04-04 09:44:17]: ***  [, Level 0]: 'Rock' entered and joined the game
+[2021-04-04 09:44:22]: (2)ChillerDrago [Chilli.*, Level 44]: yo Nudelsaft c:
