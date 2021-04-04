@@ -12803,3 +12803,7 @@
 [2021-04-03 21:51:57]: SAUD [, Level 0]: i saw it
 [2021-04-03 21:52:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-03 21:52:20]: SAUD [, Level 20]: xD
+[2021-04-03 21:52:29]: Flupper [, Level 0]: 48- 685
+[2021-04-03 21:52:32]: Flupper [, Level 0]: 480
+[2021-04-03 21:52:33]: Flupper [, Level 0]: i suck
+[2021-04-03 21:52:34]: Flupper [, Level 0]: XD
