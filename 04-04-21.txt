@@ -7115,3 +7115,7 @@
 [2021-04-04 08:20:05]: ***  [, Level 0]: 'Asta' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-04 08:20:13]: kurama [, Level 8]: Rock: бот
 [2021-04-04 08:20:17]:   [, Level 0]: GODLIKe.: x7|FayZoR: ty
+[2021-04-04 08:20:21]: BulgarianTee [xSD7, Level 0]: E
+[2021-04-04 08:20:22]: ***  [, Level 0]: 'AnonimowyPatryk' entered and joined the game
+[2021-04-04 08:20:30]: ***  [, Level 0]: 'MilfxHunter' entered and joined the game
+[2021-04-04 08:20:30]:   [, Level 0]: ERROR.: zzzzz wb so i use portal easy handle
