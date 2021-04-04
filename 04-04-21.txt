@@ -2070,3 +2070,7 @@
 [2021-04-04 02:16:50]: Nonoh [citrom, Level 40]: PoliceTee:
 [2021-04-04 02:16:50]: Kiøn1029 [.bad, Level 31]: hát igen
 [2021-04-04 02:16:55]: Boti. [.bad, Level 32]: hogy kell muteolni kliensben
+[2021-04-04 02:16:59]: Boti. [.bad, Level 32]: kéne
+[2021-04-04 02:17:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-04 02:17:04]: Kiøn1029 [.bad, Level 31]: playersnél
+[2021-04-04 02:17:04]: HeavyGeneral [FookinLads, Level 44]: ah
