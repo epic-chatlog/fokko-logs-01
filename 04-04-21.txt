@@ -9519,3 +9519,7 @@
 [2021-04-04 10:34:35]: SAUD [, Level 21]: [D] ✯ |toxicd: dont worry im blockin him
 [2021-04-04 10:34:36]: Lucas [THECEPS, Level 34]: any: it's better to go sleep if you're tires
 [2021-04-04 10:34:42]: ***  [, Level 0]: 'Clight.♥' entered and joined the game
+[2021-04-04 10:34:53]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-04 10:34:55]: mami [, Level 0]: wait dear
+[2021-04-04 10:34:56]: ***  [, Level 0]: 'Clight.♥' changed name to 'Clight.'
+[2021-04-04 10:34:58]: ***  [, Level 0]: 'nameless tee' has left the game
