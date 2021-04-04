@@ -8856,3 +8856,6 @@
 [2021-04-04 09:47:30]: BC|kakashi [BC, Level 25]: Dregger: fake fight
 [2021-04-04 09:47:34]: ***  [, Level 0]: 'nameless te' has left the game
 [2021-04-04 09:47:36]: ***  [, Level 0]: 'nameless te' entered and joined the game
+[2021-04-04 09:47:44]: mamikral011 [, Level 26]: x7|FayZoR: bomba
+[2021-04-04 09:47:48]: ***  [, Level 0]: 'penguin' entered and joined the game
+[2021-04-04 09:47:52]:   [, Level 0]: (2)ChillerDragon: erklär ma ganzen workflow Nudelsaft c:
