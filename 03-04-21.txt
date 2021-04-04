@@ -12196,3 +12196,6 @@
 [2021-04-03 17:17:34]: teee [, Level 0]: she is ok bro?
 [2021-04-03 17:17:47]: ***  [, Level 0]: 'GORİL' joined the spectators
 [2021-04-03 17:17:51]: ***  [, Level 0]: 'GORİL' joined the game
+[2021-04-03 17:18:00]: ***  [, Level 0]: 'GORİL' joined the spectators
+[2021-04-03 17:18:00]: ***  [, Level 0]: 'quzii' entered and joined the game
+[2021-04-03 17:18:03]: ***  [, Level 0]: 'GORİL' joined the game
