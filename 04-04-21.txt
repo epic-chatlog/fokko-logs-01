@@ -13151,3 +13151,4 @@
 [2021-04-04 15:21:06]: x7|FayZoR [xSD7, Level 42]: la seule question que je me pose c'est comment tu fait pour hook comme sa, sinon ta tout de any
 [2021-04-04 15:21:10]: ***  [, Level 0]: 'Whoopty' entered and joined the game
 [2021-04-04 15:21:33]: ***  [, Level 0]: 'Whoopty' has left the game
+[2021-04-04 15:22:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
