@@ -1953,3 +1953,6 @@
 [2021-04-04 02:10:22]: ***  [, Level 0]: '[D] ✯ |toxicd' finished the special race!
 [2021-04-04 02:10:22]: BC|kakashi [BC, Level 0]: PoliceTee: ok wait
 [2021-04-04 02:10:29]: BulgarianTee [xSD7, Level 38]: ChillerDragon: but im poor gang i got no money to come to germany
+[2021-04-04 02:10:30]: ***  [, Level 0]: 'BC|kakashi' finished the special race!
+[2021-04-04 02:10:30]: ***  [, Level 0]: ✯ |toxicdaddy finished in: 7 minute(s)  8.50 second(s)
+[2021-04-04 02:10:30]: ***  [, Level 0]: '✯ |toxicdaddy' finished the special race!
