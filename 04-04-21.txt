@@ -1487,3 +1487,6 @@
 [2021-04-04 01:42:01]: [D] Boti. [.bad, Level 0]: rip wifi
 [2021-04-04 01:42:01]: Kiøn1029 [.bad, Level 31]: Boti.: most lebaszta a laptopot
 [2021-04-04 01:42:03]: Kiøn1029 [.bad, Level 31]: ideges
+[2021-04-04 01:42:06]: [D] Boti. [.bad, Level 0]: mad
+[2021-04-04 01:42:13]: ***  [, Level 0]: 'ClemEntine' entered and joined the game
+[2021-04-04 01:42:15]: [D] Boti. [.bad, Level 0]: nem kéne warolni
