@@ -7471,3 +7471,5 @@
 [2021-04-04 08:36:04]: ***  [, Level 0]: 'Virus' has left the game
 [2021-04-04 08:36:10]: SarıDünya [, Level 26]: mamikral011:  YELLOWORLD sarıdünya demek
 [2021-04-04 08:36:17]: ***  [, Level 0]: 'Cylox' left the minigame 'Survival'
+[2021-04-04 08:36:29]: ***  [, Level 0]: 'BC|Tixnix' left the minigame 'Survival'
+[2021-04-04 08:36:32]: ***  [, Level 0]: 'ALTIN' entered and joined the game
