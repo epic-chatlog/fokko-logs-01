@@ -12858,3 +12858,4 @@
 [2021-04-03 22:01:01]: x7|Flipper [xSD7, Level 13]: OML;
 [2021-04-03 22:01:07]: SAUD [, Level 20]: What
 [2021-04-03 22:01:10]: x7|Flipper [xSD7, Level 13]: nvm
+[2021-04-03 22:02:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
