@@ -12315,3 +12315,5 @@
 [2021-04-03 17:44:03]: УБИВАТЬ! [, Level 0]: xD
 [2021-04-03 17:44:06]: УБИВАТЬ! [, Level 0]: Nub
 [2021-04-03 17:44:06]: sun.slow(y) [sunrise., Level 35]: ezyy
+[2021-04-03 17:44:21]: ***  [, Level 0]: 'cHilLerDargon' entered and joined the game
+[2021-04-03 17:44:24]: УБИВАТЬ! [, Level 0]: gg wp
