@@ -4262,3 +4262,5 @@
 [2021-04-04 05:07:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-04 05:07:06]: Rock [, Level 17]: Lucas: then go on edge
 [2021-04-04 05:07:17]: ***  [, Level 0]: 'lolpoep' entered and joined the game
+[2021-04-04 05:07:36]: Lucas [THECEPS, Level 34]: Rock: th
+[2021-04-04 05:07:37]: Lucas [THECEPS, Level 34]: thx
