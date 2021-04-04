@@ -4747,3 +4747,8 @@
 [2021-04-04 05:56:54]: bob [, Level 36]: ERROR: peace
 [2021-04-04 05:56:56]: bob [, Level 36]: ich liebe dich
 [2021-04-04 05:56:56]: ***  [, Level 0]: 'COMEBODY' joined the spectators
+[2021-04-04 05:57:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 05:57:02]: ***  [, Level 0]: 'COMEBODY' joined the game
+[2021-04-04 05:57:09]: SAUD [, Level 20]: bob:  ozx
+[2021-04-04 05:57:11]: Virus [, Level 0]: ERROR: nein
+[2021-04-04 05:57:11]: mamikral011 [, Level 25]: ERROR.: my friend bro
