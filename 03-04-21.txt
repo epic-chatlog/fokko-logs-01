@@ -12328,3 +12328,5 @@
 [2021-04-03 17:46:10]: sun.slow(y) [sunrise., Level 35]: hahaa
 [2021-04-03 17:46:15]: sun.slow(y) [sunrise., Level 35]: my area here ^^ ez noob
 [2021-04-03 17:46:16]: УБИВАТЬ! [, Level 0]: :) karma
+[2021-04-03 17:47:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-03 17:47:04]: УБИВАТЬ! [, Level 0]: xD
