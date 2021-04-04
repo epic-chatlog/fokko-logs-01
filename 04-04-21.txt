@@ -11773,3 +11773,8 @@
 [2021-04-04 13:08:01]: ChillerDragon.* [Chilli.*, Level 41]: brother gang
 [2021-04-04 13:08:01]: bob [, Level 36]: ok brtoeher nice
 [2021-04-04 13:08:04]: bob [, Level 36]: how did you do that
+[2021-04-04 13:08:09]: ChillerDragon.* [Chilli.*, Level 41]: he paid bob xd
+[2021-04-04 13:08:11]: ***  [, Level 0]: 'Vodo4ka' has left the game
+[2021-04-04 13:08:12]: weqe [MNKY, Level 11]: bob: he paid me 30k
+[2021-04-04 13:08:15]: cup of tee [abh, Level 37]: Nudelsaft c:: i tryed to add a wait using os time but it was not making the script wait but the whole game x)))
+[2021-04-04 13:08:15]: ChillerDragon.* [Chilli.*, Level 41]: xD
