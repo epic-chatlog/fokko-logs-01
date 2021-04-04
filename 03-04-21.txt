@@ -12766,3 +12766,6 @@
 [2021-04-03 21:47:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-03 21:47:02]: Flupper [, Level 0]: wat
 [2021-04-03 21:47:12]: SAUD [, Level 0]: u Flupper  have a girl ?
+[2021-04-03 21:47:16]: Flupper [, Level 0]: yes
+[2021-04-03 21:47:18]: SAUD [, Level 0]: holy
+[2021-04-03 21:47:23]: Flupper [, Level 0]: what
