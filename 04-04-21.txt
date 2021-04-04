@@ -1529,3 +1529,8 @@
 [2021-04-04 01:44:20]: (3)SAUD [, Level 20]: Cylox:
 [2021-04-04 01:44:20]: x7|TimePause [xSD7, Level 35]: ABUSER
 [2021-04-04 01:44:21]: ***  [, Level 0]: 'LareneGyvaeh' entered and joined the game
+[2021-04-04 01:44:30]: BulgarianTee [xSD7, Level 38]: TimePause's nub: LEAVE ME ALONE
+[2021-04-04 01:44:33]: (3)SAUD [, Level 20]: Cylox:  come he lrft
+[2021-04-04 01:44:36]: (3)SAUD [, Level 20]: Cylox:  come he left
+[2021-04-04 01:44:39]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
+[2021-04-04 01:44:39]: ***  [, Level 0]: 'BC|Tixnix' finished the special race!
