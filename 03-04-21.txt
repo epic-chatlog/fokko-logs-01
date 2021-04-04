@@ -13264,3 +13264,4 @@
 [2021-04-03 23:16:40]: weqe [MNKY, Level 11]: Boti.: i need help brother
 [2021-04-03 23:16:44]: Wheels [, Level 31]: boti
 [2021-04-03 23:16:44]: [D]Torento [, Level 0]: [D] Deadmouse: pess A
+[2021-04-03 23:17:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
