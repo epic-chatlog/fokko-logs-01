@@ -8605,3 +8605,4 @@
 [2021-04-04 09:30:17]: ERROR [404, Level 73]: (2)ChillerDrago:  meiner kost 120€ ungefähr xd
 [2021-04-04 09:30:30]:   [, Level 0]: (2)ChillerDragon: yikes ERROR wofür brauchst du sone maschine?
 [2021-04-04 09:30:35]: ERROR [404, Level 73]: (2)ChillerDrago:  aber nicht für teeworlds
+[2021-04-04 09:30:44]:   [, Level 0]: (2)ChillerDragon: ja sag an wofür ERROR
