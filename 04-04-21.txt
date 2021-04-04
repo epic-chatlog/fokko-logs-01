@@ -892,3 +892,10 @@
 [2021-04-04 01:06:41]: Torento [, Level 23]: Deadmouse:
 [2021-04-04 01:06:45]: ビール|Zero [Drunks, Level 26]: (づ｡◕‿‿◕｡)づ
 [2021-04-04 01:06:56]: x7|TimePause [xSD7, Level 35]: bruh
+[2021-04-04 01:06:59]: BulgarianTee [xSD7, Level 38]: x7|TimePause: WHAT THE FUCK IS WRONG WITH YOU
+[2021-04-04 01:07:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 01:07:01]: ***  [, Level 0]: '(1)♫Amirian♬' entered and joined the game
+[2021-04-04 01:07:06]: BulgarianTee [xSD7, Level 38]: BAD AF
+[2021-04-04 01:07:07]: ***  [, Level 0]: '♫Amirian♬.' has left the game (Timeout)
+[2021-04-04 01:07:07]: ***  [, Level 0]: '♫Amirian♬' has left the game (Timeout)
+[2021-04-04 01:07:08]: ***  [, Level 0]: 'Tziys*' changed name to 'sex7|Boti.'
