@@ -13227,3 +13227,4 @@
 [2021-04-03 23:02:41]: ***  [, Level 0]: '[D] Boti.' has left the game
 [2021-04-03 23:03:16]: [D]Torento [, Level 0]: stop
 [2021-04-03 23:03:19]: [D]Torento [, Level 0]: check
+[2021-04-03 23:04:03]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
