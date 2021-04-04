@@ -12537,3 +12537,4 @@
 [2021-04-03 21:15:24]: ***  [, Level 0]: 'x7|zemer' has left the game
 [2021-04-03 21:15:35]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
 [2021-04-03 21:15:35]: ***  [, Level 0]: 'Asemco' has left the game
+[2021-04-03 21:15:44]: ***  [, Level 0]: 'Ðeathscyth' has left the game
