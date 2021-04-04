@@ -13409,3 +13409,7 @@
 [2021-04-03 23:36:31]: Kiøn1029 [.bad, Level 31]: íh
 [2021-04-03 23:36:40]: Kiøn1029 [.bad, Level 31]: ha lefordította bajok vannak
 [2021-04-03 23:36:43]: Boti. [.bad, Level 32]: az biztos
+[2021-04-03 23:36:52]: Boti. [.bad, Level 32]: íhh
+[2021-04-03 23:36:59]: Boti. [.bad, Level 32]: zárlatos a maki
+[2021-04-03 23:37:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-03 23:37:00]: Boti. [.bad, Level 32]: XDDDDDD
