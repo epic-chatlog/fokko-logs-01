@@ -13350,3 +13350,6 @@
 [2021-04-04 15:50:06]: (1)S Y T H N [iPro, Level 0]: sun.slow(y): wieso sollte ich ?:;D
 [2021-04-04 15:50:10]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-04 15:50:10]: ***  [, Level 0]: '(1)S Y T H N' has left the game
+[2021-04-04 15:50:19]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-04 15:50:20]: Shiro. [Whɪтє, Level 42]: wat.
+[2021-04-04 15:50:22]: ***  [, Level 0]: 'ist ein Noob' entered and joined the game
