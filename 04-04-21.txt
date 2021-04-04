@@ -3111,3 +3111,6 @@
 [2021-04-04 03:26:26]: Rock [, Level 17]: чё надо
 [2021-04-04 03:26:34]: kurama [, Level 7]: отойди
 [2021-04-04 03:26:42]: ***  [, Level 0]: 'Fergus' has left the game
+[2021-04-04 03:26:53]: WarHammer [, Level 26]: ~DemoizL~:  FREE FARM
+[2021-04-04 03:27:01]: ***  [, Level 0]: 'Maatiteusz' entered and joined the game
+[2021-04-04 03:27:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
