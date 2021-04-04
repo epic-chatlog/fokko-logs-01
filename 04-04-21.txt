@@ -1907,3 +1907,4 @@
 [2021-04-04 02:07:26]: [D] ✯ |toxicd [|Supressed, Level 0]: BC|kakashi: hah
 [2021-04-04 02:07:31]: ***  [, Level 0]: 'Andromeda' entered and joined the game
 [2021-04-04 02:07:32]: Boti. [.bad, Level 32]: ChillerDragon: ?
+[2021-04-04 02:07:46]: BC|kakashi [BC, Level 0]: [D] ✯ |toxicd: haha lol
