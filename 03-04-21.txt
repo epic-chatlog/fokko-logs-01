@@ -13401,3 +13401,6 @@
 [2021-04-03 23:36:04]: Boti. [.bad, Level 32]: kezo
 [2021-04-03 23:36:08]: [D] Boti. [.bad, Level 27]: meg error
 [2021-04-03 23:36:08]: Kiøn1029 [.bad, Level 31]: me buzi
+[2021-04-03 23:36:18]: Boti. [.bad, Level 32]: majom megbolondult
+[2021-04-03 23:36:21]: Boti. [.bad, Level 32]: szerintem lefordította
+[2021-04-03 23:36:24]: Kiøn1029 [.bad, Level 31]: elromlott XDD
