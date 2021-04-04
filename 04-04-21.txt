@@ -8832,3 +8832,11 @@
 [2021-04-04 09:46:27]:   [, Level 0]: Nudelsaft c:: wieso wohl xd
 [2021-04-04 09:46:27]: GameOver [Vodka, Level 0]: ERROR portal for bank
 [2021-04-04 09:46:34]:   [, Level 0]: (2)ChillerDragon: wie funtzt der bot denn
+[2021-04-04 09:46:40]: GameOver [Vodka, Level 0]: ERROR portal for bank
+[2021-04-04 09:46:40]: ***  [, Level 0]: 'nameless te' has left the game
+[2021-04-04 09:46:43]: ***  [, Level 0]: 'nameless te' entered and joined the game
+[2021-04-04 09:46:43]: ***  [, Level 0]: [D] Deadmouse finished in: 3 minute(s) 47.34 second(s)
+[2021-04-04 09:46:47]:   [, Level 0]: Nudelsaft c:: sehr simpel, ohne json builder
+[2021-04-04 09:46:48]: ERROR. [404, Level 56]: xDDDDD
+[2021-04-04 09:46:48]: GameOver [Vodka, Level 0]: ERROR portal for bank
+[2021-04-04 09:46:51]: ERROR. [404, Level 56]: OK GUYS
