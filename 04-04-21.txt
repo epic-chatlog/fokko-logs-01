@@ -6135,3 +6135,7 @@
 [2021-04-04 07:29:57]: BulgarianTee [xSD7, Level 0]: E
 [2021-04-04 07:30:02]: ***  [, Level 0]: ERROR is on a killing spree with 10 blocks
 [2021-04-04 07:30:16]: (1)Λtlantis Ψ [ᅟᅟᅟ, Level 0]: Xd
+[2021-04-04 07:30:19]: ***  [, Level 0]: 'Λtlantis Ψ' has left the game
+[2021-04-04 07:30:19]: ***  [, Level 0]: '(1)Λtlantis Ψ' has left the game
+[2021-04-04 07:30:21]: ERROR. [404, Level 56]: ✯ | Bulash:  come
+[2021-04-04 07:30:27]: ***  [, Level 0]: 'S Y T H N' has left the game
