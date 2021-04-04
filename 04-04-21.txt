@@ -3912,3 +3912,5 @@
 [2021-04-04 04:28:20]: [D] mamikral011 [, Level 20]: koro: war?
 [2021-04-04 04:28:22]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
 [2021-04-04 04:28:23]: ***  [, Level 0]: Kezo's killing spree was ended by Fearless (6 blocks)
+[2021-04-04 04:28:30]: ***  [, Level 0]: 'tsm' entered and joined the game
+[2021-04-04 04:28:34]: (1)ChillerDrago [Chilli.*, Level 30]: go
