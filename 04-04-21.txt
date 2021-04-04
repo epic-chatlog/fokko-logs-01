@@ -1459,3 +1459,6 @@
 [2021-04-04 01:40:58]: (3)SAUD [, Level 20]: MADZO:  war 4life bitcch
 [2021-04-04 01:40:58]: MADZO [FookinLads, Level 41]: +1
 [2021-04-04 01:41:01]: MADZO [FookinLads, Level 41]: yes
+[2021-04-04 01:41:05]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-04 01:41:08]: [D] Boti. [.bad, Level 0]: íhh
+[2021-04-04 01:41:14]: ***  [, Level 0]: 'WarHammer' has left the game
