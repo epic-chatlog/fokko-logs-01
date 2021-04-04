@@ -12405,3 +12405,6 @@
 [2021-04-03 18:15:13]: x7|zemer [xSD7, Level 0]: sun.slow(y): Acc da war taser und so
 [2021-04-03 18:15:24]: sun.slow(y) [sunrise., Level 35]: warum gibt er auch daten weiter
 [2021-04-03 18:15:39]: x7|zemer [xSD7, Level 0]: sun.slow(y): Weil dani geheult hat
+[2021-04-03 18:15:56]: sun.slow(y) [sunrise., Level 35]: hab kein datenbank zugriff grad
+[2021-04-03 18:16:00]: sun.slow(y) [sunrise., Level 35]: sonst hätt ich pw resettet
+[2021-04-03 18:16:04]: sun.slow(y) [sunrise., Level 35]: muss auf fokko warten sowy
