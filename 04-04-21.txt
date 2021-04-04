@@ -1913,3 +1913,5 @@
 [2021-04-04 02:08:09]: ***  [, Level 0]: 'koro' entered and joined the game
 [2021-04-04 02:08:22]: Kiøn1029 [.bad, Level 31]: I like turtles.
 [2021-04-04 02:08:24]: Boti. [.bad, Level 32]: gyereket dobd le
+[2021-04-04 02:08:28]: Boti. [.bad, Level 32]: taser
+[2021-04-04 02:08:32]: ***  [, Level 0]: 'Curse' has left the game
