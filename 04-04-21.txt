@@ -1634,3 +1634,10 @@
 [2021-04-04 01:51:43]: BulgarianTee [xSD7, Level 38]: HeavyGeneral: almost D:
 [2021-04-04 01:51:44]: ***  [, Level 0]: 'zilly dummy' has left the game
 [2021-04-04 01:51:44]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-04 01:51:50]: ***  [, Level 0]: '[D] Boti.' has left the game
+[2021-04-04 01:51:52]: ***  [, Level 0]: 'K1M9N' has left the game
+[2021-04-04 01:51:52]: (2)SAUD [, Level 3]: we cant [D] Rawad
+[2021-04-04 01:51:56]: ***  [, Level 0]: Boti. finished in: 2 minute(s) 32.86 second(s)
+[2021-04-04 01:51:56]: ***  [, Level 0]: New record:  6.38 second(s) better.
+[2021-04-04 01:51:57]: ***  [, Level 0]: Kiøn1029 finished in: 2 minute(s) 33.90 second(s)
+[2021-04-04 01:51:57]: ***  [, Level 0]: New record: 4 minute(s) 29.32 second(s) better.
