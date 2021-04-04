@@ -6158,3 +6158,5 @@
 [2021-04-04 07:32:08]: ***  [, Level 0]: '(1)Zelph' entered and joined the game
 [2021-04-04 07:32:17]: ***  [, Level 0]: [D] BC|Tixnix is on a killing spree with 5 blocks
 [2021-04-04 07:32:22]: Isegrin [, Level 54]: ERROR.: kek
+[2021-04-04 07:32:32]: Isegrin [, Level 54]: BulgarianTee: xaxa
+[2021-04-04 07:32:34]: ***  [, Level 0]: ERROR. is on a killing spree with 25 blocks
