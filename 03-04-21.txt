@@ -12289,3 +12289,5 @@
 [2021-04-03 17:32:48]: ***  [, Level 0]: OP|Supers finished in: 2 minute(s)  4.14 second(s)
 [2021-04-03 17:32:54]: ***  [, Level 0]: <-_-> finished in: 1 minute(s) 26.16 second(s)
 [2021-04-03 17:34:07]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 10 blocks
+[2021-04-03 17:35:16]: ***  [, Level 0]: 'ᅟᅟᅟᅟ' finished the special race!
+[2021-04-03 17:35:16]: ***  [, Level 0]: ᅟᅟᅟᅟ finished in: 9 minute(s) 50.94 second(s)
