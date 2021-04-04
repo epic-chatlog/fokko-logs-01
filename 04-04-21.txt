@@ -5947,3 +5947,6 @@
 [2021-04-04 07:07:47]: Falco642 [, Level 3]: say /contact
 [2021-04-04 07:07:50]: Noémi[Đ] [citrom, Level 32]: Punguin: mit?
 [2021-04-04 07:07:50]: ***  [, Level 0]: [D] Punguin finished in: 12 minute(s) 35.40 second(s)
+[2021-04-04 07:08:01]: Noémi[Đ] [citrom, Level 32]: Punguin: azt felakarod venni?
+[2021-04-04 07:08:04]: Punguin [HunClass, Level 0]: a pénzem
+[2021-04-04 07:08:06]: Falco642 [, Level 3]: worked?
