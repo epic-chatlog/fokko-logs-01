@@ -5360,3 +5360,6 @@
 [2021-04-04 06:33:49]: (1)ERROR. [404, Level 24]: Fearless:  /pay 600000 ERROR
 [2021-04-04 06:33:54]: Fearless [FookinLads, Level 40]: give me portal
 [2021-04-04 06:33:55]: Fearless [FookinLads, Level 40]: xd
+[2021-04-04 06:33:56]: SAUD [, Level 20]: Kaptar:
+[2021-04-04 06:34:03]: Fearless [FookinLads, Level 40]: buy me
+[2021-04-04 06:34:04]: (1)ERROR. [404, Level 24]: Fearless:  i dont have portal
