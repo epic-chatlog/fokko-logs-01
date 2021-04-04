@@ -2686,3 +2686,7 @@
 [2021-04-04 02:50:38]: Wheels. [, Level 0]: cylox
 [2021-04-04 02:50:51]: bob [, Level 36]: help GOLD
 [2021-04-04 02:50:53]: ChillerDragon.* [Chilli.*, Level 41]: wb gei
+[2021-04-04 02:50:56]: ***  [, Level 0]: '[D] BC|kakashi' entered and joined the game
+[2021-04-04 02:51:01]: R2D2 [, Level 31]: im wheels
+[2021-04-04 02:51:02]: GOLD [404, Level 55]: bob: im YelloWorlD idiot
+[2021-04-04 02:51:04]: ChillerDragon.* [|*KoG*|, Level 41]: dont wb koro
