@@ -12880,3 +12880,7 @@
 [2021-04-04 14:54:49]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [2021-04-04 14:54:50]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-04 14:54:52]: Swarfey [FookinLads, Level 0]: a
+[2021-04-04 14:55:01]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-04 14:55:01]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-04 14:55:05]: ***  [, Level 0]: 'Virus' entered and joined the game
+[2021-04-04 14:55:09]: ***  [, Level 0]: 'Neutral' entered and joined the game
