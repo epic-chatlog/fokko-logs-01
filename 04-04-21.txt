@@ -5436,3 +5436,4 @@
 [2021-04-04 06:37:38]: ***  [, Level 0]: '.0' entered and joined the game
 [2021-04-04 06:37:39]: Punguin [HunClass, Level 1]: Nonoh: eh
 [2021-04-04 06:37:42]:   [, Level 0]: Fearless: koro:  want 600k?
+[2021-04-04 06:37:47]: ERROR. [404, Level 56]: Sutzer: SAUD  come down
