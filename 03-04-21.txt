@@ -12246,3 +12246,5 @@
 [2021-04-03 17:27:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-03 17:27:06]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 5 blocks
 [2021-04-03 17:27:11]: ***  [, Level 0]: 'ᅟᅟᅟ#ALL' changed name to 'сытчн'
+[2021-04-03 17:27:21]: ***  [, Level 0]: 'fomin' has left the game
+[2021-04-03 17:27:23]: ***  [, Level 0]: 'fomjn' has left the game
