@@ -232,3 +232,5 @@
 [2021-04-04 00:21:35]: MORPHIN [, Level 37]: :
 [2021-04-04 00:21:37]: x7|Flipper [xSD7, Level 14]: whos skin is this
 [2021-04-04 00:21:45]: BulgarianTee [xSD7, Level 38]: x7|Flipper: um
+[2021-04-04 00:22:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 00:22:05]: BulgarianTee [xSD7, Level 38]: x7|Flipper: nouu's
