@@ -4717,3 +4717,5 @@
 [2021-04-04 05:54:48]: [D]Torento [, Level 14]: [D] Deadmouse: help pls
 [2021-04-04 05:54:54]: Virus [, Level 0]: ERROR.: jawohl
 [2021-04-04 05:54:56]: ***  [, Level 0]: 'Meetiteusz' entered and joined the game
+[2021-04-04 05:55:03]: ***  [, Level 0]: 'Katz' entered and joined the game
+[2021-04-04 05:55:04]: [D]Torento [, Level 14]: love you
