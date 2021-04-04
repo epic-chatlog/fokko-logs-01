@@ -13007,3 +13007,4 @@
 [2021-04-03 22:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-03 22:27:02]: Flupper [, Level 5]: ok give me a sec
 [2021-04-03 22:27:36]: Flupper [, Level 5]: wheels
+[2021-04-03 22:27:37]: Flupper [, Level 5]: help
