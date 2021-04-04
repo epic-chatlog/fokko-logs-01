@@ -12388,3 +12388,4 @@
 [2021-04-03 18:12:57]: x7|zemer [xSD7, Level 0]: sun.slow(y): aha
 [2021-04-03 18:13:03]: sun.slow(y) [sunrise., Level 35]: x7|zemer: auf diesem server sind 98% kleine fette kinder
 [2021-04-03 18:13:08]: x7|zemer [xSD7, Level 0]: sun.slow(y): IK
+[2021-04-03 18:13:16]: sun.slow(y) [sunrise., Level 35]: x7|zemer: 2% bin ich weil ich bin so breit, ich zähl als 2
