@@ -9468,3 +9468,6 @@
 [2021-04-04 10:29:37]: ***  [, Level 0]: 'rafel' joined the game
 [2021-04-04 10:29:38]: x7|zemer [xSD7, Level 37]: [D] BC|Tixnix: Warum blockst du chillerdragon???
 [2021-04-04 10:29:38]: ChillerDragon [Chilli.*, Level 31]: x7|zemer: I am currently afk.
+[2021-04-04 10:29:48]: [D] BC|Tixnix [BC, Level 10]: x7|zemer: er kilit mich
+[2021-04-04 10:29:56]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-04 10:29:59]: ***  [, Level 0]: 'rafel' joined the game
