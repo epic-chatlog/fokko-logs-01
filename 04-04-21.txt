@@ -6037,3 +6037,5 @@
 [2021-04-04 07:15:26]: ***  [, Level 0]: (1)Λtlantis Ψ is on a killing spree with 5 blocks
 [2021-04-04 07:15:37]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
 [2021-04-04 07:16:06]: ***  [, Level 0]: 'PoliceTee' has left the game
+[2021-04-04 07:16:22]: Isegrin [, Level 54]: XD
+[2021-04-04 07:16:29]: Λtlantis Ψ [ᅟᅟᅟ, Level 39]: ERROR:  hey hoo
