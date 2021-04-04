@@ -13527,3 +13527,4 @@
 [2021-04-03 23:52:50]: ***  [, Level 0]: 'SAUD' entered and joined the game
 [2021-04-03 23:53:06]: ***  [, Level 0]: 'BulgarianTee' has left the game (Timeout)
 [2021-04-03 23:53:07]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
+[2021-04-03 23:53:24]: ***  [, Level 0]: 'PoliceTee' has left the game
