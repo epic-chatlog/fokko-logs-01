@@ -3726,3 +3726,5 @@
 [2021-04-04 04:09:22]: kurama [, Level 7]: я тупой
 [2021-04-04 04:09:24]: ビール|Zero [Drunks, Level 27]: +
 [2021-04-04 04:09:25]: kurama [, Level 7]: я туплй
+[2021-04-04 04:09:44]: kurama [, Level 7]: у тебя дами есть
+[2021-04-04 04:09:47]: ***  [, Level 0]: ChillerDragon finished in: 1 minute(s) 41.62 second(s)
