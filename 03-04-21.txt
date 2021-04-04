@@ -12230,3 +12230,7 @@
 [2021-04-03 17:23:15]: fomin [RUA, Level 0]: sun.slow(y): wait 2 min
 [2021-04-03 17:23:20]: ***  [, Level 0]: 'fomin' has left the game
 [2021-04-03 17:23:20]: ***  [, Level 0]: 'fomjn' has left the game
+[2021-04-03 17:23:59]: УБИВАТЬ! [, Level 0]: gg
+[2021-04-03 17:24:01]: УБИВАТЬ! [, Level 0]: me spawn
+[2021-04-03 17:24:02]: УБИВАТЬ! [, Level 0]: )
+[2021-04-03 17:24:10]: ***  [, Level 0]: 'fomjn' entered and joined the game
