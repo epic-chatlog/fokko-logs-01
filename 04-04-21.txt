@@ -8636,3 +8636,6 @@
 [2021-04-04 09:32:22]: BC|Tixnix [BC, Level 33]: mamikral011: ok how need you
 [2021-04-04 09:32:23]: mamikral011 [, Level 26]: ok
 [2021-04-04 09:32:24]: ***  [, Level 0]: 'ScReAm+11*' has left the game
+[2021-04-04 09:32:25]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[2021-04-04 09:32:30]: mamikral011 [, Level 26]: 40k
+[2021-04-04 09:32:32]: ERROR. [404, Level 56]: (2)ChillerDrago:  nun mehr ddos attacken als in teeworlds die protection ist schon der hammer, die files an sich haben mittlerweile über 15gb aufn server, + Spieler keien 100 sondern mit glück mal 3000 am tag.
