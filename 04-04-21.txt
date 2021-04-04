@@ -6006,3 +6006,7 @@
 [2021-04-04 07:12:46]: ***  [, Level 0]: 'bestvaki' entered and joined the game
 [2021-04-04 07:12:51]: ***  [, Level 0]: 'PoliceTee' has left the game
 [2021-04-04 07:13:05]: Falco641 [, Level 18]: BC|Tixnix: lmao u acually make something out of blocking me when i can literally reset and walk to the same place
+[2021-04-04 07:13:13]: ***  [, Level 0]: 'H0LL4D13W4LDFEE' entered and joined the game
+[2021-04-04 07:13:17]: BulgarianTee [xSD7, Level 0]: E
+[2021-04-04 07:13:17]: ***  [, Level 0]: ERROR. is on a killing spree with 10 blocks
+[2021-04-04 07:13:21]: BC|Tixnix [BC, Level 33]: Falco641: ok!
