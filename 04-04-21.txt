@@ -10550,3 +10550,7 @@
 [2021-04-04 12:00:33]: MieSlime [FookinLads, Level 43]: Kiøn1029:  fast
 [2021-04-04 12:00:36]: [D] mamikral011 [, Level 20]: (1)kais:
 [2021-04-04 12:00:41]: [D] mamikral011 [, Level 20]: kais: pls portal
+[2021-04-04 12:00:45]: kais [, Level 65]: i don't have
+[2021-04-04 12:00:46]: ***  [, Level 0]: '(1)cup of tee' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-04 12:00:46]: (1)cookie [, Level 0]: kais hy
+[2021-04-04 12:00:47]: [D] mamikral011 [, Level 20]: djfgh
