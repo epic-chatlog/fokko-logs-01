@@ -1402,3 +1402,7 @@
 [2021-04-04 01:38:16]: BulgarianTee [xSD7, Level 38]: TimePause's nub: Xd
 [2021-04-04 01:38:17]: Rawad [, Level 4]: Nonoh:  if u just helped us
 [2021-04-04 01:38:24]: Rawad [, Level 4]: Nonoh:  he wont jail both of us
+[2021-04-04 01:38:29]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-04 01:38:33]: ***  [, Level 0]: Boti. is on a killing spree with 5 blocks
+[2021-04-04 01:38:35]: Milky way [, Level 23]: Rawad: how did u get in?
+[2021-04-04 01:38:37]: Rawad [, Level 4]: Nonoh:  buttt noooo help my dummy first
