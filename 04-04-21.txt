@@ -8735,3 +8735,6 @@
 [2021-04-04 09:39:11]: ERROR. [404, Level 56]: uhm
 [2021-04-04 09:39:13]: (2)ChillerDrago [Chilli.*, Level 44]: schreibst du da texte er?
 [2021-04-04 09:39:15]: (2)ChillerDrago [Chilli.*, Level 44]: schreibst du da texte ERROR ?
+[2021-04-04 09:39:19]: ERROR. [404, Level 56]: meistens lua
+[2021-04-04 09:39:20]: ERROR. [404, Level 56]: ja
+[2021-04-04 09:39:21]:   [, Level 0]: Pigie♥: ERROR.: weird ur not  bulling  me
