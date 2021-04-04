@@ -9863,3 +9863,6 @@
 [2021-04-04 10:59:45]: ✯ |toxicdaddy [|Supressed, Level 24]: x7|FayZoR:
 [2021-04-04 10:59:50]: ✯ |toxicdaddy [|Supressed, Level 24]: x7|FayZoR: help
 [2021-04-04 10:59:56]: Isegrin [, Level 54]: Nudelsaft c:: hilf mir
+[2021-04-04 11:00:08]: Nudelsaft c: [FookinLads, Level 60]: Isegrin: wollte ich grad
+[2021-04-04 11:00:12]: Isegrin [, Level 54]: Nudelsaft c:: was
+[2021-04-04 11:00:16]: Nudelsaft c: [FookinLads, Level 60]: Isegrin: aber jetzt muss er es wohl tun
