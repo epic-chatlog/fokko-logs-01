@@ -12503,3 +12503,4 @@
 [2021-04-03 20:28:50]: ***  [, Level 0]: 'x7|zemer' has left the game
 [2021-04-03 20:32:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-03 20:33:19]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
+[2021-04-03 20:33:36]: ***  [, Level 0]: 'x7|Flipper' entered and joined the game
