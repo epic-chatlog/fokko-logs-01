@@ -9327,3 +9327,8 @@
 [2021-04-04 10:19:10]:   [, Level 0]: any: hi ERROR
 [2021-04-04 10:19:21]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
 [2021-04-04 10:19:21]: x7|zemer [xSD7, Level 37]: (
+[2021-04-04 10:19:25]: PoliceTee [xSD7, Level 25]: error bigman afk
+[2021-04-04 10:19:27]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-04 10:19:27]: ***  [, Level 0]: 'NetFlix' entered and joined the game
+[2021-04-04 10:19:28]: (2)ChillerDrago [|*KoG*|, Level 44]: simp any
+[2021-04-04 10:19:34]: (2)ChillerDrago [|*KoG*|, Level 44]: heil bob
