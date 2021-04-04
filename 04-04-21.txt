@@ -4358,3 +4358,10 @@
 [2021-04-04 05:16:54]: ***  [, Level 0]: 'Isegrin' finished the special race!
 [2021-04-04 05:16:55]: ***  [, Level 0]: Deadmouse finished in: 7 minute(s)  0.58 second(s)
 [2021-04-04 05:16:55]: ***  [, Level 0]: 'Deadmouse' finished the special race!
+[2021-04-04 05:17:00]: Isegrin [, Level 54]: GIMME
+[2021-04-04 05:17:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-04 05:17:06]: ***  [, Level 0]: '.Peאnut~*' has left the game
+[2021-04-04 05:17:06]: ***  [, Level 0]: 'OLALAA' has left the game
+[2021-04-04 05:17:06]: [D] ✯ |toxicd [|Supressed, Level 21]: Ghost:
+[2021-04-04 05:17:07]: ♥TAKO♥ [, Level 24]: mamikral011:  olm dünden beri kapatmadım oyunu tabi var
+[2021-04-04 05:17:11]: ***  [, Level 0]: 'hhh3' entered and joined the game
