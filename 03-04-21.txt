@@ -12844,3 +12844,8 @@
 [2021-04-03 21:59:00]: SAUD [, Level 20]: out of map?
 [2021-04-03 21:59:04]: SAUD [, Level 20]: i knew it
 [2021-04-03 21:59:10]: x7|Flipper [xSD7, Level 13]: no police
+[2021-04-03 21:59:14]: SAUD [, Level 20]: wait
+[2021-04-03 21:59:16]: x7|Flipper [xSD7, Level 13]: shortcut
+[2021-04-03 21:59:18]: SAUD [, Level 20]: i know
+[2021-04-03 21:59:21]: x7|Flipper [xSD7, Level 13]: oh xcx
+[2021-04-03 21:59:21]: SAUD [, Level 20]: wait
