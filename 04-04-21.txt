@@ -2249,3 +2249,4 @@
 [2021-04-04 02:26:48]: WarHammer' [, Level 16]: oof lag
 [2021-04-04 02:26:54]: Nudelsaft c: [FookinLads, Level 37]: fater jajajaj xd
 [2021-04-04 02:26:55]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-04 02:27:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
