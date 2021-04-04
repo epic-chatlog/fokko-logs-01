@@ -12865,3 +12865,6 @@
 [2021-04-03 22:03:13]: SAUD [, Level 20]: xDD
 [2021-04-03 22:03:21]: Flupper [, Level 0]: ?
 [2021-04-03 22:03:24]: SAUD [, Level 20]: nvm
+[2021-04-03 22:03:27]: SAUD [, Level 20]: just comr
+[2021-04-03 22:03:28]: Flupper [, Level 0]: WAIT
+[2021-04-03 22:03:29]: SAUD [, Level 20]: xD
