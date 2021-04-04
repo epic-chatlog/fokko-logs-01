@@ -6139,3 +6139,5 @@
 [2021-04-04 07:30:19]: ***  [, Level 0]: '(1)Λtlantis Ψ' has left the game
 [2021-04-04 07:30:21]: ERROR. [404, Level 56]: ✯ | Bulash:  come
 [2021-04-04 07:30:27]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-04 07:30:55]: ERROR. [404, Level 56]: they so boring imma go ps5 soon
+[2021-04-04 07:31:01]: HeavyGeneral [FookinLads, Level 44]: oof
