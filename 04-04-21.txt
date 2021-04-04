@@ -1522,3 +1522,6 @@
 [2021-04-04 01:43:52]: Kiøn1029 [.bad, Level 31]: XD
 [2021-04-04 01:43:53]: Kiøn1029 [.bad, Level 31]: szia
 [2021-04-04 01:44:02]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
+[2021-04-04 01:44:05]: ***  [, Level 0]: 'P4Pyr0s' has left the game
+[2021-04-04 01:44:09]: ***  [, Level 0]: '•Slowy' has left the game
+[2021-04-04 01:44:16]: Marcisten [Helper, Level 0]: Tixnix: sorry
