@@ -13540,3 +13540,5 @@
 [2021-04-03 23:56:04]: ***  [, Level 0]: MORPHIN is on a killing spree with 5 blocks
 [2021-04-03 23:56:19]: (1)BulgarianTee [xSD7, Level 0]: hi
 [2021-04-03 23:56:22]: ***  [, Level 0]: MORPHIN's killing spree was ended by [D] Deadmouse (6 blocks)
+[2021-04-03 23:56:51]: MORPHIN [, Level 37]: SAUD: war
+[2021-04-03 23:56:55]: SAUD [, Level 0]: fuck u
