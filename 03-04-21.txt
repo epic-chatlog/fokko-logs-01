@@ -13228,3 +13228,4 @@
 [2021-04-03 23:03:16]: [D]Torento [, Level 0]: stop
 [2021-04-03 23:03:19]: [D]Torento [, Level 0]: check
 [2021-04-03 23:04:03]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
+[2021-04-03 23:07:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
