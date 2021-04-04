@@ -5017,3 +5017,5 @@
 [2021-04-04 06:15:55]: ***  [, Level 0]: 'Ghost 2.0' entered and joined the game
 [2021-04-04 06:16:07]: SAUD [, Level 20]: mami:  stay here ill get a dummy
 [2021-04-04 06:16:07]: oyun krallı [, Level 0]: yas 12 18 nisan doğum günüm 13 e girecem
+[2021-04-04 06:16:13]: ***  [, Level 0]: '(1)SAUD' entered and joined the game
+[2021-04-04 06:16:13]: oyun krallı [, Level 0]: yas 12 18 nisan doğum günüm 13 e girecem
