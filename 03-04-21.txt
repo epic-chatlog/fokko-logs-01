@@ -12465,3 +12465,4 @@
 [2021-04-03 18:58:37]: ***  [, Level 0]: 'Neutral' has left the game
 [2021-04-03 19:01:14]: ***  [, Level 0]: 'Neutral' entered and joined the game
 [2021-04-03 19:02:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-03 19:03:34]: ***  [, Level 0]: 'x7|zemer' changed name to 'zemer'
