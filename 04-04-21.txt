@@ -8900,3 +8900,6 @@
 [2021-04-04 09:49:42]: Rock [, Level 18]: Lucas: fluffy 1 pls
 [2021-04-04 09:49:43]:   [, Level 0]: json"breaker\"a: @everyone
 [2021-04-04 09:49:43]: mamikral011 [, Level 26]: WarHammer: war
+[2021-04-04 09:49:46]:   [, Level 0]: json"breaker\"a: aaaaaaaaaa
+[2021-04-04 09:49:47]: mamikral011 [, Level 26]: ERROR.:
+[2021-04-04 09:49:55]: ERROR [404, Level 73]: keø:  stop u gay
