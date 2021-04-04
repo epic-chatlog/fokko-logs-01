@@ -10431,3 +10431,6 @@
 [2021-04-04 11:50:54]: cookie [, Level 0]: help
 [2021-04-04 11:51:17]: cookie [, Level 0]: you have laser
 [2021-04-04 11:51:25]: [D] mamikral011 [, Level 20]: fuck ping
+[2021-04-04 11:51:46]: [D] mamikral011 [, Level 20]: keø: war?
+[2021-04-04 11:51:50]: ***  [, Level 0]: '(1)NetFlix' has left the game
+[2021-04-04 11:51:51]: ***  [, Level 0]: 'NetFlix' has left the game
