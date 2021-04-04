@@ -4816,3 +4816,7 @@
 [2021-04-04 06:01:11]: comic [comically, Level 12]: rayen:
 [2021-04-04 06:01:11]: Isegrin [, Level 54]: ERROR: I DONT WANT SPIKEY SPIKEY
 [2021-04-04 06:01:13]: comic [comically, Level 12]: rayen:
+[2021-04-04 06:01:18]: SAUD [, Level 20]: mami:  what
+[2021-04-04 06:01:24]: mami [Ape, Level 16]: doe jou meen lolpoep
+[2021-04-04 06:01:25]: comic [comically, Level 12]: rayen:
+[2021-04-04 06:01:25]: ***  [, Level 0]: 'COMEBODY' has left the game
