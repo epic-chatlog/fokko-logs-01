@@ -4504,3 +4504,5 @@
 [2021-04-04 05:37:13]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
 [2021-04-04 05:37:18]: ***  [, Level 0]: [D]Torento finished in: 22 minute(s) 40.48 second(s)
 [2021-04-04 05:37:20]: (1)ERROR [404, Level 47]: xD
+[2021-04-04 05:37:34]: ***  [, Level 0]: (1)ERROR finished in: 1 minute(s) 40.94 second(s)
+[2021-04-04 05:37:35]: (1)Friendiship  [, Level 0]: [D] mamikral011: ha, lol
