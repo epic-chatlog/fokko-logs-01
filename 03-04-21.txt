@@ -12409,3 +12409,7 @@
 [2021-04-03 18:16:00]: sun.slow(y) [sunrise., Level 35]: sonst hätt ich pw resettet
 [2021-04-03 18:16:04]: sun.slow(y) [sunrise., Level 35]: muss auf fokko warten sowy
 [2021-04-03 18:16:16]: sun.slow(y) [sunrise., Level 35]: wer ist hurrican
+[2021-04-03 18:16:22]: сытчн#ALL [, Level 39]: sun.slow(y): egal
+[2021-04-03 18:16:26]: сытчн#ALL [, Level 39]: sun.slow(y): ich bin sythn
+[2021-04-03 18:16:27]: сытчн#ALL [, Level 39]: alles gut
+[2021-04-03 18:16:29]: sun.slow(y) [sunrise., Level 35]: sytnh
