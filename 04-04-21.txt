@@ -6273,3 +6273,5 @@
 [2021-04-04 07:43:59]: Isegrin [, Level 54]: oyun krallı: stop touching me g ay
 [2021-04-04 07:44:00]: ***  [, Level 0]: 'KoRaPcz' has left the game
 [2021-04-04 07:44:04]: ビール|Zero [Drunks, Level 27]: kurama: чё ?
+[2021-04-04 07:44:06]: Killua [FookinLads, Level 0]: WELLOW
+[2021-04-04 07:44:07]: ERROR. [404, Level 56]: xD
