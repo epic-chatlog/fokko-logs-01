@@ -12186,3 +12186,6 @@
 [2021-04-04 13:32:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-04 13:32:03]: cσκтнıпɢ [zε†α, Level 39]: Fearless:  i didnt do anything :c
 [2021-04-04 13:32:06]: NetFlix [, Level 13]: i took it from spawn
+[2021-04-04 13:32:15]: ***  [, Level 0]: Fearless is on a killing spree with 10 blocks
+[2021-04-04 13:32:15]: ***  [, Level 0]: cσκтнıпɢ's killing spree was ended by Fearless (16 blocks)
+[2021-04-04 13:32:17]: Fearless [Fookinlads, Level 40]: ez
