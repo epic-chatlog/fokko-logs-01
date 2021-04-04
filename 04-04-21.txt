@@ -12393,3 +12393,4 @@
 [2021-04-04 13:54:26]: ***  [, Level 0]: 'Fearless' changed name to '(2)ERROR'
 [2021-04-04 13:54:26]: ***  [, Level 0]: '[D] Fearless' changed name to '[D] ERROR'
 [2021-04-04 13:54:33]: ***  [, Level 0]: '[D] ERROR' has left the game
+[2021-04-04 13:54:49]: (2)ERROR [404, Level 40]: YelloWorlD:  give me portal i give 1mill
