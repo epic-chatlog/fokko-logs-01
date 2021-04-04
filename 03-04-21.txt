@@ -12485,3 +12485,4 @@
 [2021-04-03 19:47:14]: HΛVΛ [, Level 17]: MLG_PRO:
 [2021-04-03 19:52:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-03 19:55:32]: ***  [, Level 0]: 'Larifari' entered and joined the game
+[2021-04-03 19:55:57]: ***  [, Level 0]: 'Zeepe' entered and joined the game
