@@ -10766,3 +10766,5 @@
 [2021-04-04 12:19:12]: ***  [, Level 0]: '[D] BC|Tixnix' changed name to '$Good$'
 [2021-04-04 12:19:16]: ***  [, Level 0]: '[D] mamikral011' finished the special race!
 [2021-04-04 12:19:16]: ***  [, Level 0]: 'All Apologies' joined the spectators
+[2021-04-04 12:19:20]: ***  [, Level 0]: 'All Apologies' joined the game
+[2021-04-04 12:19:20]: ***  [, Level 0]: 'Night Team :D' entered and joined the game
