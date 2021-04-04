@@ -12516,3 +12516,7 @@
 [2021-04-04 14:18:20]: (2)ERROR [404, Level 40]: mnoob
 [2021-04-04 14:18:22]: Isegrin [, Level 54]: u
 [2021-04-04 14:18:37]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-04 14:18:42]: (2)ERROR [404, Level 40]: Shiro.:  bad
+[2021-04-04 14:18:43]: Isegrin [, Level 54]: SIRO
+[2021-04-04 14:18:48]: Shiro. [Whɪтє, Level 50]: (2)ERROR: yo bro
+[2021-04-04 14:18:50]: (2)ERROR [404, Level 40]: Shiro.:  love fearless
