@@ -5220,3 +5220,4 @@
 [2021-04-04 06:26:12]: ***  [, Level 0]: [D] Sutzer finished in: 2 minute(s) 16.48 second(s)
 [2021-04-04 06:26:12]: ***  [, Level 0]: Sutzer finished in: 2 minute(s) 16.74 second(s)
 [2021-04-04 06:26:12]: SAUD [, Level 20]: Kaptar:
+[2021-04-04 06:26:24]: Andresss [Citrom, Level 0]: nem blockoltam senkit
