@@ -13148,3 +13148,5 @@
 [2021-04-03 22:48:03]: ***  [, Level 0]: 'SAUD' has been muted for 60 seconds
 [2021-04-03 22:48:13]: cHurch [HUITA, Level 47]: kekw
 [2021-04-03 22:48:58]: cHurch [HUITA, Level 47]: SAUD: did u play ddrace?
+[2021-04-03 22:49:18]: cHurch [HUITA, Level 47]: jej
+[2021-04-03 22:49:21]: SAUD [, Level 20]: WTF
