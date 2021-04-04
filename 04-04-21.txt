@@ -6050,3 +6050,5 @@
 [2021-04-04 07:17:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-04 07:17:02]: Number1 [unspeedrun, Level 0]: back
 [2021-04-04 07:17:23]: ***  [, Level 0]: 'Number1' has left the game
+[2021-04-04 07:17:32]: Nonoh [citrom, Level 40]: [D] BC|Tixnix: my dummy
+[2021-04-04 07:17:38]: ビール|Zero [Drunks, Level 27]: NetFlix: )
