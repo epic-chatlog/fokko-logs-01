@@ -6849,3 +6849,7 @@
 [2021-04-04 08:10:10]:   [, Level 0]: Supers: x7|FayZoR: ?
 [2021-04-04 08:10:12]: ***  [, Level 0]: 'Лимонад' has left the game
 [2021-04-04 08:10:14]: Rock [, Level 18]: Vodo4ka: /spec Rock
+[2021-04-04 08:10:17]:   [, Level 0]: Supers: x7|FayZoR:  huh
+[2021-04-04 08:10:21]: GOLD [404, Level 37]: x7|FayZoR:
+[2021-04-04 08:10:26]:   [, Level 0]: Supers: x7|FayZoR:  just kill him
+[2021-04-04 08:10:27]: ERROR. [404, Level 56]: ammo? xD
