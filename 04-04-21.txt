@@ -8652,3 +8652,8 @@
 [2021-04-04 09:33:04]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
 [2021-04-04 09:33:08]: ***  [, Level 0]: 'STULEJA 3000' joined the game
 [2021-04-04 09:33:10]: (2)ChillerDrago [|*KoG*|, Level 44]: wie kommst du auf debian ERROR
+[2021-04-04 09:33:17]: ERROR. [404, Level 56]: (1)ChillerDrago:  für teeworlds ?
+[2021-04-04 09:33:17]: BC|Tixnix [BC, Level 33]: mamikral011: yes yes yes then i have no more money
+[2021-04-04 09:33:23]: (2)ChillerDrago [Chilli.*, Level 44]: ja ? ERROR
+[2021-04-04 09:33:23]: ERROR. [404, Level 56]: oder ist das windows?
+[2021-04-04 09:33:24]: (3)SAUD [, Level 0]: ✯ |toxicdaddy:  war 4 life bitch
