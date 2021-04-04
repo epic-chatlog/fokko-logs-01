@@ -8591,3 +8591,6 @@
 [2021-04-04 09:29:35]: ***  [, Level 0]: [D] mamikral011 is on a killing spree with 15 blocks
 [2021-04-04 09:29:37]: ***  [, Level 0]: ERROR. is on a killing spree with 20 blocks
 [2021-04-04 09:29:38]:   [, Level 0]: (2)ChillerDragon: ERROR: joa indirekt
+[2021-04-04 09:29:43]: ERROR. [404, Level 56]: ableger ja
+[2021-04-04 09:29:45]: ***  [, Level 0]: 'Cap'tain roc' entered and joined the game
+[2021-04-04 09:29:52]: ERROR [404, Level 73]: dort hab ich meinen auch (2)ChillerDrago  xD
