@@ -5848,3 +5848,7 @@
 [2021-04-04 07:03:11]:   [, Level 0]: BulgarianTee: ERROR: WAIT LISTEN
 [2021-04-04 07:03:11]:   [, Level 0]: Falco642: yeah
 [2021-04-04 07:03:16]:   [, Level 0]: BulgarianTee: ERROR: WAIT
+[2021-04-04 07:03:16]:   [, Level 0]: Falco642: but insert your user and password
+[2021-04-04 07:03:20]:   [, Level 0]: Number1: okay
+[2021-04-04 07:03:24]: (2)ERROR [404, Level 40]: xd
+[2021-04-04 07:03:25]:   [, Level 0]: BulgarianTee: ERROR: WAIT LISTENN E
