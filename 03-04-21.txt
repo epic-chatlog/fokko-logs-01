@@ -12794,3 +12794,4 @@
 [2021-04-03 21:51:03]: SAUD [, Level 0]: 0 kills 78 deaths
 [2021-04-03 21:51:05]: SAUD [, Level 0]: xD
 [2021-04-03 21:51:13]: Flupper [, Level 0]: only 38k?
+[2021-04-03 21:51:27]: Flupper [, Level 0]: log in to your acc
