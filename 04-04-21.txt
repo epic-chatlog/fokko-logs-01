@@ -10703,3 +10703,7 @@
 [2021-04-04 12:12:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-04 12:12:02]: ***  [, Level 0]: 'All Apologies' joined the spectators
 [2021-04-04 12:12:05]: ***  [, Level 0]: 'All Apologies' joined the game
+[2021-04-04 12:12:20]: ***  [, Level 0]: 'Night Team :D' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-04 12:12:22]: ***  [, Level 0]: 'All Apologies' joined the spectators
+[2021-04-04 12:12:26]: |ΛnץOиe| [, Level 0]: bahaaaaaaa
+[2021-04-04 12:12:26]: ***  [, Level 0]: 'All Apologies' joined the game
