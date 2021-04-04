@@ -6332,3 +6332,7 @@
 [2021-04-04 07:47:10]: BulgarianTee [xSD7, Level 0]: E
 [2021-04-04 07:47:13]: ERROR. [404, Level 56]: I like turtles.
 [2021-04-04 07:47:22]: Rock [, Level 18]: kurama: блокни одного когда другой улетит
+[2021-04-04 07:47:37]: ***  [, Level 0]: 'oxy' changed name to 'keø'
+[2021-04-04 07:47:37]: Rock [, Level 18]: kurama: ты ко мне?
+[2021-04-04 07:47:39]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
+[2021-04-04 07:47:42]: ***  [, Level 0]: 'Cylox' entered and joined the game
