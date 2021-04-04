@@ -8230,3 +8230,7 @@
 [2021-04-04 09:11:53]:   [, Level 0]: ChillerDragon: wake up mamikral011
 [2021-04-04 09:11:57]: Boti. [.bad, Level 32]: tudok hozni flaget
 [2021-04-04 09:11:59]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
+[2021-04-04 09:12:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 09:12:04]: BulgarianTee [xSD7, Level 0]: Killua: people are rekting you all with bonuses, you barely win, and you are garbage without bonuses => you will die easily without them => yes we are the top dogs
+[2021-04-04 09:12:09]: Boti. [.bad, Level 32]: nézd dummymat hogy végig tud e menni
+[2021-04-04 09:12:11]: kais [, Level 65]: ez nobos
