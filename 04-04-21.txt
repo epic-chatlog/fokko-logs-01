@@ -11246,3 +11246,8 @@
 [2021-04-04 12:43:08]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
 [2021-04-04 12:43:08]: not penguin [², Level 0]: Лимонад: what
 [2021-04-04 12:43:11]: mamikral011 [, Level 26]: cup of tee 2:
+[2021-04-04 12:43:22]: ***  [, Level 0]: '[D] Fearless' has left the game
+[2021-04-04 12:43:22]: mami [, Level 16]: Swarfey:
+[2021-04-04 12:43:25]: (2)ChillerDrago [Chilli.*, Level 44]: pro ~DemoizL~
+[2021-04-04 12:43:25]: Swarfey [FookinLads, Level 59]: mami: ?
+[2021-04-04 12:43:25]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
