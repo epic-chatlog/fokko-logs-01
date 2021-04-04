@@ -10768,3 +10768,5 @@
 [2021-04-04 12:19:16]: ***  [, Level 0]: 'All Apologies' joined the spectators
 [2021-04-04 12:19:20]: ***  [, Level 0]: 'All Apologies' joined the game
 [2021-04-04 12:19:20]: ***  [, Level 0]: 'Night Team :D' entered and joined the game
+[2021-04-04 12:19:40]: ***  [, Level 0]: 'LareneGyvaeh' would have timed out, but can use timeout protection now
+[2021-04-04 12:19:40]: ***  [, Level 0]: 'HeavyGeneral' would have timed out, but can use timeout protection now
