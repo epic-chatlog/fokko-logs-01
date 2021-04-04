@@ -12234,3 +12234,4 @@
 [2021-04-03 17:24:01]: УБИВАТЬ! [, Level 0]: me spawn
 [2021-04-03 17:24:02]: УБИВАТЬ! [, Level 0]: )
 [2021-04-03 17:24:10]: ***  [, Level 0]: 'fomjn' entered and joined the game
+[2021-04-03 17:24:42]: ***  [, Level 0]: 'fomin' entered and joined the game
