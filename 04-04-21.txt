@@ -12419,3 +12419,4 @@
 [2021-04-04 13:59:10]: ***  [, Level 0]: 'just tae' left the minigame 'Block'
 [2021-04-04 13:59:24]: (2)ERROR [404, Level 40]: YelloWorlD:  how that high :/
 [2021-04-04 14:00:15]: (2)ERROR [404, Level 40]: YelloWorlD:  OH FAXCK
+[2021-04-04 14:00:44]: ***  [, Level 0]: '♥TAKO♥' has left the game (Timeout Protection over)
