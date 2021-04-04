@@ -4179,3 +4179,5 @@
 [2021-04-04 04:56:50]: ᅟᅟ [, Level 0]: mamikral011:  i help you
 [2021-04-04 04:56:58]: (1)Friendiship  [, Level 0]: ᅟᅟᅟ: help
 [2021-04-04 04:57:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-04 04:57:11]: mamikral011 [, Level 25]: ?
+[2021-04-04 04:57:13]: mamikral011 [, Level 25]: why
