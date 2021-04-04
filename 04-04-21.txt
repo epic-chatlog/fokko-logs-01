@@ -2509,3 +2509,5 @@
 [2021-04-04 02:38:30]: ***  [, Level 0]: 'kais' has left the game
 [2021-04-04 02:38:35]: Kiøn1029 [.bad, Level 31]: telóm már 8x kikapcsolt
 [2021-04-04 02:38:39]: Boti. [.bad, Level 32]: az fasza
+[2021-04-04 02:38:46]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
+[2021-04-04 02:38:51]: Boti. [.bad, Level 32]: XDD
