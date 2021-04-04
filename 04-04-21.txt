@@ -9428,3 +9428,5 @@
 [2021-04-04 10:26:27]: SAUD [, Level 21]: go get urself a one
 [2021-04-04 10:26:40]: ***  [, Level 0]: 'NetFlix' has left the game (Timeout)
 [2021-04-04 10:26:41]: x7|FayZoR [xSD7, Level 42]: PoliceTee: x7|zemer let me fight any alone, i want kill him
+[2021-04-04 10:27:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-04 10:27:01]: x7|zemer [xSD7, Level 37]: x7|FayZoR: ok but i help you when he killed you
