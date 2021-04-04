@@ -4794,3 +4794,6 @@
 [2021-04-04 05:59:34]: Isegrin [, Level 54]: ERROR: shaisee
 [2021-04-04 05:59:58]: ***  [, Level 0]: Meetiteusz finished in: 3 minute(s) 11.34 second(s)
 [2021-04-04 06:00:00]: mamikral011 [, Level 25]: mami: stop bro
+[2021-04-04 06:00:21]: ***  [, Level 0]: 'COMEBODY' joined the spectators
+[2021-04-04 06:00:24]: ***  [, Level 0]: 'COMEBODY' joined the game
+[2021-04-04 06:00:25]: SAUD [, Level 20]: mami:  are u lolipop
