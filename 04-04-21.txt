@@ -565,3 +565,4 @@
 [2021-04-04 00:44:17]: (3)SAUD [, Level 20]: ??
 [2021-04-04 00:44:20]: Mista bombastic [TrRShClNrRs, Level 0]: BulgarianTee: rage play
 [2021-04-04 00:44:26]: BulgarianTee [xSD7, Level 38]: Mista bombastic: yes
+[2021-04-04 00:44:44]: ***  [, Level 0]: '[D] Rawad' entered and joined the game
