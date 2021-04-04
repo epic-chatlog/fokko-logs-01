@@ -8757,3 +8757,6 @@
 [2021-04-04 09:41:41]: mamikral011 [, Level 26]: WarHammer: hll
 [2021-04-04 09:41:46]: WarHammer [, Level 0]: ERROR:
 [2021-04-04 09:41:46]: ***  [, Level 0]: (1)ERROR is on a killing spree with 15 blocks
+[2021-04-04 09:41:50]:   [, Level 0]: mami: sorry
+[2021-04-04 09:41:52]: WarHammer [, Level 0]: mami:  dur
+[2021-04-04 09:42:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
