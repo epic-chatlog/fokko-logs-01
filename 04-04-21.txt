@@ -6168,3 +6168,6 @@
 [2021-04-04 07:33:58]: [D] ✯ |toxicd [|Supressed, Level 21]: (1)Kirito: reset dich
 [2021-04-04 07:33:59]: (1)Kirito [♥, Level 34]: ich töte mich und hole portal ok? du bringst die anderen hierher ✯ |toxicdaddy
 [2021-04-04 07:34:04]: Isegrin [, Level 54]: ERROR.: FAKIN TASER GAYY
+[2021-04-04 07:34:30]: ***  [, Level 0]: 'Treebeard' entered and joined the game
+[2021-04-04 07:34:31]: ***  [, Level 0]: [D] BC|Tixnix's killing spree was ended by BC|Tixnix (5 blocks)
+[2021-04-04 07:34:39]: ***  [, Level 0]: 'Treebeard' has left the game
