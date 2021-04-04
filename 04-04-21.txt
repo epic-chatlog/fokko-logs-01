@@ -249,3 +249,5 @@
 [2021-04-04 00:22:53]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-04 00:23:04]: [D]Torento [, Level 14]: памаги
 [2021-04-04 00:23:09]: MORFY [, Level 28]: ij
+[2021-04-04 00:23:15]: MORFY [, Level 28]: что
+[2021-04-04 00:23:15]: ***  [, Level 0]: 'Cylox.♥' entered and joined the game
