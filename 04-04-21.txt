@@ -829,3 +829,7 @@
 [2021-04-04 01:02:41]: ***  [, Level 0]: 'ビール|Zero' entered and joined the game
 [2021-04-04 01:02:48]: (1)Boti. [FookinLads, Level 38]: weqe: we are jokes
 [2021-04-04 01:02:49]: ***  [, Level 0]: 'Rock' entered and joined the game
+[2021-04-04 01:02:58]: ***  [, Level 0]: 'Boti.' changed name to 'Tziys*'
+[2021-04-04 01:03:01]: ***  [, Level 0]: '(1)Boti.' changed name to 'Boti.'
+[2021-04-04 01:03:05]: Rock [, Level 16]: give rifle pls
+[2021-04-04 01:03:06]: BulgarianTee [xSD7, Level 38]: XDD
