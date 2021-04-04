@@ -1617,3 +1617,7 @@
 [2021-04-04 01:50:30]: [D] Boti. [.bad, Level 0]: kéne dummy is
 [2021-04-04 01:50:32]: Boti. [.bad, Level 32]: am
 [2021-04-04 01:50:32]: ***  [, Level 0]: 'K1M9N' entered and joined the game
+[2021-04-04 01:50:33]: Cylox [♥, Level 30]: ı quit
+[2021-04-04 01:50:37]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
+[2021-04-04 01:50:38]: ***  [, Level 0]: 'Neoteny' has left the game
+[2021-04-04 01:50:44]: kiøn1029 [.bad, Level 0]: chiller a spawnon
