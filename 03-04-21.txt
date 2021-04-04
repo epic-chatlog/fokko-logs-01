@@ -12421,3 +12421,5 @@
 [2021-04-03 18:16:45]: sun.slow(y) [sunrise., Level 35]: und dann ddos ich den
 [2021-04-03 18:16:47]: sun.slow(y) [sunrise., Level 35]: und dann bann ich den
 [2021-04-03 18:16:55]: x7|zemer [xSD7, Level 0]: sun.slow(y): Kann icg auch:)
+[2021-04-03 18:17:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-03 18:17:02]: sun.slow(y) [sunrise., Level 35]: du kannst deine schnauze halten jz
