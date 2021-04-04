@@ -12273,3 +12273,4 @@
 [2021-04-03 17:29:28]: x7|zemer [xSD7, Level 0]: sun.slow(y): Bin schon im call
 [2021-04-03 17:29:32]: sun.slow(y) [sunrise., Level 35]: x7|zemer: dann lad ein
 [2021-04-03 17:29:33]: sun.slow(y) [sunrise., Level 35]: :D
+[2021-04-03 17:29:40]: sun.slow(y) [sunrise., Level 35]: OP|Supers: lad in euren call ein
