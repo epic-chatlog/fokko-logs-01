@@ -6291,3 +6291,6 @@
 [2021-04-04 07:44:59]: ビール|Zero [Drunks, Level 27]: mamikral011: fast
 [2021-04-04 07:45:00]: [D] mamikral011 [, Level 20]: ビール|Zero: okey fast
 [2021-04-04 07:45:05]: ビール|Zero [Drunks, Level 27]: kurama: он денег просит
+[2021-04-04 07:45:07]: [D] mamikral011 [, Level 20]: ビール|Zero: 30k pay
+[2021-04-04 07:45:13]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
+[2021-04-04 07:45:16]: kurama [, Level 8]: ビール|Zero: он даун?
