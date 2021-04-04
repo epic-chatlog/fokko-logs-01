@@ -12209,3 +12209,4 @@
 [2021-04-03 17:19:46]: ***  [, Level 0]: 'd' entered and joined the game
 [2021-04-03 17:20:05]: ***  [, Level 0]: fomin is on a killing spree with 15 blocks
 [2021-04-03 17:20:17]: ***  [, Level 0]: fomin's killing spree was ended by (2)УБИВАТЬ! (15 blocks)
+[2021-04-03 17:20:49]: S Y T H N#ALL [iPro, Level 37]: afk
