@@ -7619,3 +7619,7 @@
 [2021-04-04 08:45:31]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
 [2021-04-04 08:45:35]: kurama [, Level 8]: ЖАЛКО
 [2021-04-04 08:45:40]: BulgarianTee [xSD7, Level 0]: E
+[2021-04-04 08:45:42]: Kiøn1029 [.bad, Level 31]: (1)ChillerDrago: stop learn in hungarian
+[2021-04-04 08:45:45]: ***  [, Level 0]: 'Rock' entered and joined the game
+[2021-04-04 08:45:46]: (2)ChillerDrago [|*KoG*|, Level 31]: xd Kiøn1029
+[2021-04-04 08:45:50]: BulgarianTee [xSD7, Level 0]: ERROR: quality gameplay skill-like block
