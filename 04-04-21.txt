@@ -8808,3 +8808,6 @@
 [2021-04-04 09:45:23]:   [, Level 0]: Nudelsaft c:: ", "content": "blabla",
 [2021-04-04 09:45:27]: mamikral011 [, Level 26]: WarHammer: para atabilin mi
 [2021-04-04 09:45:29]: (2)ChillerDrago [|*KoG*|, Level 44]: ? Nudelsaft c:
+[2021-04-04 09:45:39]: WarHammer [, Level 0]: mami:  ya ellee
+[2021-04-04 09:45:49]: ERROR. [404, Level 56]: (2)ChillerDrago:  De server ist closed source gibt aber auch files die öffentlich auf de standart sind und an denen man arbeiten kann.
+[2021-04-04 09:45:50]: mami [, Level 0]: help me
