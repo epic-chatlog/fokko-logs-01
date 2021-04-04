@@ -9165,3 +9165,7 @@
 [2021-04-04 10:05:20]: ***  [, Level 0]: 'Rock' entered and joined the game
 [2021-04-04 10:05:23]: Nudelsaft c: [FookinLads, Level 60]: (2)ChillerDrago: ja, aber git bash is gud
 [2021-04-04 10:05:27]: (2)ChillerDrago [|*KoG*|, Level 44]: i see Nudelsaft c:
+[2021-04-04 10:05:41]:   [, Level 0]: [D] BC|kakashi: Nudelsaft c:: kannst du mir bitte helfen
+[2021-04-04 10:05:41]: ***  [, Level 0]: 'Rock' has left the game
+[2021-04-04 10:05:42]: ***  [, Level 0]: 'Isegrin' has left the game
+[2021-04-04 10:05:43]: (2)ChillerDrago [|*KoG*|, Level 44]: Nudelsaft c:: #!/bin/bash in erste zeile für good style
