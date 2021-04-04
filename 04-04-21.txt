@@ -9,3 +9,4 @@
 [2021-04-04 00:02:00]: MORFY [, Level 28]: comic: nooob
 [2021-04-04 00:02:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-04 00:02:04]: comic [comically, Level 12]: MORFY: hhhhhhhh
+[2021-04-04 00:02:21]: comic [comically, Level 12]: MORFY: whos the noob now
