@@ -13493,3 +13493,7 @@
 [2021-04-03 23:48:23]: ***  [, Level 0]: '»Amirian YA«' entered and joined the game
 [2021-04-03 23:50:13]: [D] Boti. [.bad, Level 27]: 9 óra van müzlizni kéne gecc
 [2021-04-03 23:50:16]: [D] Boti. [.bad, Level 27]: ma még nem is ettem semmit
+[2021-04-03 23:50:20]: »Amirian YA« [YAMIRIANA�, Level 29]: sorry
+[2021-04-03 23:50:22]: [D] Boti. [.bad, Level 27]: np
+[2021-04-03 23:50:24]: ***  [, Level 0]: 'MORPHIN' entered and joined the game
+[2021-04-03 23:50:26]: Kiøn1029 [.bad, Level 31]: én sem
