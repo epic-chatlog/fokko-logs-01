@@ -10734,3 +10734,6 @@
 [2021-04-04 12:16:57]: ***  [, Level 0]: 'Axel' has left the game
 [2021-04-04 12:16:58]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-04 12:17:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-04 12:17:34]: ***  [, Level 0]: 'NetFlix' has left the game
+[2021-04-04 12:17:36]: |ΛnץOиe| [, Level 0]: u was doing a tower :CCC u broke it! i cry
+[2021-04-04 12:17:36]: ***  [, Level 0]: 'NetFlix' entered and joined the game
