@@ -3987,3 +3987,7 @@
 [2021-04-04 04:35:47]: ***  [, Level 0]: 'Kezo' has been muted for 60 seconds
 [2021-04-04 04:35:50]: kurama [, Level 7]: чивооо
 [2021-04-04 04:35:55]: kurama [, Level 7]: что это было??
+[2021-04-04 04:35:58]: ***  [, Level 0]: 'black_cat' has left the game
+[2021-04-04 04:35:59]: ✯ |toxicdaddy [|Supressed, Level 24]: Kezo:
+[2021-04-04 04:36:02]: ***  [, Level 0]: 'black_cat' entered and joined the game
+[2021-04-04 04:36:05]: Rock [, Level 17]: ты хукнул меня и спас
