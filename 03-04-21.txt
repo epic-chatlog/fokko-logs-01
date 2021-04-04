@@ -13351,3 +13351,4 @@
 [2021-04-03 23:30:32]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
 [2021-04-03 23:30:36]: [D] Boti. [.bad, Level 27]: Kiøn1029: lehet amúgy hogy majomnak hisz és azért kérdezte meg hmmm
 [2021-04-03 23:30:45]: [D] Boti. [.bad, Level 27]: jami
+[2021-04-03 23:30:50]: ***  [, Level 0]: 'kiøn1029' has left the game
