@@ -8662,3 +8662,7 @@
 [2021-04-04 09:33:38]: ERROR [404, Level 73]: ✯ |toxicdaddy: ye?
 [2021-04-04 09:33:45]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 15 blocks
 [2021-04-04 09:33:47]: ERROR [404, Level 73]: ✯ |toxicdaddy:  war
+[2021-04-04 09:33:53]: ***  [, Level 0]: 'STULEJA 3000' has left the game
+[2021-04-04 09:33:55]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-04 09:34:02]: Killua [FookinLads, Level 37]: 0addwar ✯ |toxicdaddy
+[2021-04-04 09:34:02]: ERROR [404, Level 73]: (1)ChillerDrago:  na soviel weiß ich dann auch xD
