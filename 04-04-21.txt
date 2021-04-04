@@ -2511,3 +2511,6 @@
 [2021-04-04 02:38:39]: Boti. [.bad, Level 32]: az fasza
 [2021-04-04 02:38:46]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
 [2021-04-04 02:38:51]: Boti. [.bad, Level 32]: XDD
+[2021-04-04 02:38:55]: ***  [, Level 0]: 'gpasdepseudo' entered and joined the game
+[2021-04-04 02:39:02]: Boti. [.bad, Level 32]: kimegyek kugyához
+[2021-04-04 02:39:03]: ***  [, Level 0]: '[D] Boti.' has left the game
