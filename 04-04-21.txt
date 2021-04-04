@@ -12163,3 +12163,6 @@
 [2021-04-04 13:29:26]: ***  [, Level 0]: 'Jogger' has left the game
 [2021-04-04 13:29:40]: ***  [, Level 0]: 'Λtlantis Ψ' entered and joined the game
 [2021-04-04 13:29:47]: ***  [, Level 0]: 'Λtlantis Ψ' has left the game
+[2021-04-04 13:29:48]: Lucas [THECEPS, Level 34]: Fearless: rly taser
+[2021-04-04 13:29:50]: ***  [, Level 0]: 'x7|Flipper' has left the game
+[2021-04-04 13:29:51]: kais [, Level 65]: GODLIKe.: u want afk ?
