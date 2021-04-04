@@ -5837,3 +5837,7 @@
 [2021-04-04 07:02:34]: Punguin [HunClass, Level 0]: Nonoh: a pénz nem kell neked?
 [2021-04-04 07:02:37]:   [, Level 0]: Falco641: also register make an account
 [2021-04-04 07:02:46]: Noémi[Đ] [citrom, Level 32]: Punguin: ne
+[2021-04-04 07:02:57]:   [, Level 0]: power2: mami: come
+[2021-04-04 07:02:57]:   [, Level 0]: Falco642: say /register username password password
+[2021-04-04 07:03:00]:   [, Level 0]: Number1: f the mans
+[2021-04-04 07:03:04]: (2)ERROR [404, Level 40]: Keø:  :c
