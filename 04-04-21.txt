@@ -1744,3 +1744,7 @@
 [2021-04-04 01:57:38]: (2)SAUD [, Level 3]: Rawad:  af83 be3lmon
 [2021-04-04 01:57:54]: (2)SAUD [, Level 3]: a5wya2h hna Rawad
 [2021-04-04 01:57:57]: BulgarianTee [xSD7, Level 38]: E
+[2021-04-04 01:58:01]: BulgarianTee [xSD7, Level 38]: its getting somewhere
+[2021-04-04 01:58:03]: Rawad [, Level 4]: (2)SAUD:  mash
+[2021-04-04 01:58:04]: Kiøn1029 [.bad, Level 31]: gyere
+[2021-04-04 01:58:04]: Boti. [.bad, Level 32]: ready for laser
