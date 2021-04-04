@@ -5412,3 +5412,6 @@
 [2021-04-04 06:36:02]: Nonoh [citrom, Level 40]: Punguin: ne őt ne helpeld ki
 [2021-04-04 06:36:03]: (1)ERROR. [404, Level 24]: de*
 [2021-04-04 06:36:04]: SAUD [, Level 20]: Punguin:  up
+[2021-04-04 06:36:10]: (1)ERROR. [404, Level 24]: cold war Fearless
+[2021-04-04 06:36:15]:   [, Level 0]: Fearless: ERROR:  noice
+[2021-04-04 06:36:17]: comic [comically, Level 12]: !!!!!!!!!!!!!!!
