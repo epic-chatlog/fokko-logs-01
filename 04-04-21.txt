@@ -7500,3 +7500,6 @@
 [2021-04-04 08:38:35]: ***  [, Level 0]: 'nobody' has left the game
 [2021-04-04 08:38:35]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
 [2021-04-04 08:38:37]: Kiøn1029 [.bad, Level 31]: ChillerDragon: szia
+[2021-04-04 08:38:42]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
+[2021-04-04 08:38:43]: (1)ビール|Ze [Drunks, Level 10]: kurama: ХАХАХа пофармили и хватит
+[2021-04-04 08:38:44]: ChillerDragon.* [|*KoG*|, Level 41]: omg make it harder pls Kiøn1029
