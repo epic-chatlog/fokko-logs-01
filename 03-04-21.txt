@@ -12441,3 +12441,4 @@
 [2021-04-03 18:29:37]: ***  [, Level 0]: 'cHilLerDargon' entered and joined the game
 [2021-04-03 18:29:44]: ***  [, Level 0]: 'cHilLerDargon' has left the game
 [2021-04-03 18:29:57]: ***  [, Level 0]: 'cHilLerDargon' entered and joined the game
+[2021-04-03 18:30:17]: ***  [, Level 0]: 'cHilLerDargon' has left the game
