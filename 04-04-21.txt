@@ -10728,3 +10728,6 @@
 [2021-04-04 12:16:12]: cookie [, Level 0]: war4life vodo
 [2021-04-04 12:16:15]: |ΛnץOиe| [, Level 0]: xD
 [2021-04-04 12:16:27]: ***  [, Level 0]: '(1)mamikral011' has left the game
+[2021-04-04 12:16:48]: ***  [, Level 0]: 'bruh' entered and joined the game
+[2021-04-04 12:16:52]: ***  [, Level 0]: [D] mamikral011 finished in: 6 minute(s) 37.40 second(s)
+[2021-04-04 12:16:54]: ***  [, Level 0]: 'Axel' entered and joined the game
