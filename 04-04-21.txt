@@ -5069,3 +5069,7 @@
 [2021-04-04 06:18:25]: comic [comically, Level 12]: SAUD: nooooooooo
 [2021-04-04 06:18:27]: ***  [, Level 0]: 'comic' has left the game
 [2021-04-04 06:18:30]: Fearless [FookinLads, Level 40]: koro:  <
+[2021-04-04 06:18:37]: Isegrin [, Level 54]: (1)ERROR.: not funny prank D:
+[2021-04-04 06:18:39]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-04 06:18:40]: (1)ERROR. [404, Level 24]: Isegrin:  not a prank
+[2021-04-04 06:18:45]: Isegrin [, Level 54]: (1)ERROR.: AAAAAAAAAAA
