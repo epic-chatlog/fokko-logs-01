@@ -4414,3 +4414,4 @@
 [2021-04-04 05:21:45]: ᅟᅟᅟᅟ [, Level 39]: ERROR:
 [2021-04-04 05:21:54]: ERROR [404, Level 73]: what
 [2021-04-04 05:22:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-04 05:22:57]: ***  [, Level 0]: 'EL PEPE' has left the game
