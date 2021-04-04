@@ -4078,3 +4078,6 @@
 [2021-04-04 04:43:59]: kurama [, Level 7]: Rock: аахахахааха
 [2021-04-04 04:44:12]: Tziys* [FookinLads, Level 38]: Fearless: RJ
 [2021-04-04 04:44:12]: Rock [, Level 17]: здесь трнен
+[2021-04-04 04:44:24]: ***  [, Level 0]: '[D] Fearless' has left the game
+[2021-04-04 04:44:27]: Tziys* [FookinLads, Level 38]: rq
+[2021-04-04 04:44:28]: ***  [, Level 0]: 'coprophile' entered and joined the game
