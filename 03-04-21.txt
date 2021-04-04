@@ -12130,3 +12130,6 @@
 [2021-04-03 17:05:29]: ***  [, Level 0]: [RUS] is on a killing spree with 5 blocks
 [2021-04-03 17:05:30]: ***  [, Level 0]: 'cHilLerDargon' entered and joined the game
 [2021-04-03 17:05:39]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 10 blocks
+[2021-04-03 17:05:54]: S Y T H N#ALL [iPro, Level 37]: chillerdagorn: IST x7|zemer
+[2021-04-03 17:05:57]: ***  [, Level 0]: 'cHilLerDargon' has left the game
+[2021-04-03 17:06:01]: x7|zemer [xSD7, Level 0]: Q
