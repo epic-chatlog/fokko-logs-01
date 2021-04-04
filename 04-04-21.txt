@@ -216,3 +216,11 @@
 [2021-04-04 00:20:29]: Flupper [, Level 0]: :(
 [2021-04-04 00:20:33]: [D]Torento [, Level 14]: PoliceTee:
 [2021-04-04 00:20:35]: Flupper [, Level 0]: dude
+[2021-04-04 00:20:36]: Flupper [, Level 0]: this
+[2021-04-04 00:20:37]: ***  [, Level 0]: Kezo finished in: 4 minute(s) 43.10 second(s)
+[2021-04-04 00:20:37]: Flupper [, Level 0]: game
+[2021-04-04 00:20:39]: Flupper [, Level 0]: is
+[2021-04-04 00:20:41]: ***  [, Level 0]: Kezo{D} finished in: 4 minute(s) 48.04 second(s)
+[2021-04-04 00:20:41]: ***  [, Level 0]: New record: 31.36 second(s) better.
+[2021-04-04 00:20:42]: ***  [, Level 0]: 'cute tee' entered and joined the game
+[2021-04-04 00:20:43]: (3)SAUD [, Level 0]: Torento:
