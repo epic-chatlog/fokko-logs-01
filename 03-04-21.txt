@@ -13002,3 +13002,6 @@
 [2021-04-03 22:26:22]: K!ked [De}|{aBю, Level 62]: u too
 [2021-04-03 22:26:37]: SAUD [, Level 20]: I DONT use taser
 [2021-04-03 22:26:45]: K!ked [De}|{aBю, Level 62]: u use edless
+[2021-04-03 22:26:51]: K!ked [De}|{aBю, Level 62]: thats too bad
+[2021-04-03 22:26:53]: Flupper [, Level 5]: wait
+[2021-04-03 22:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
