@@ -12720,3 +12720,6 @@
 [2021-04-04 14:39:09]: Isegrin [, Level 54]: Shiro liar: bitcoin gud?
 [2021-04-04 14:39:23]: Shiro liar [, Level 40]: yeah 1
 [2021-04-04 14:39:43]: Isegrin [, Level 54]: 1 satoshi
+[2021-04-04 14:39:46]: Isegrin [, Level 54]: xaXAxAxxax
+[2021-04-04 14:39:48]: Shiro liar [, Level 40]: 0.00052
+[2021-04-04 14:39:50]: Shiro liar [, Level 40]: this is 30$
