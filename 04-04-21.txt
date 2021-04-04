@@ -6256,3 +6256,6 @@
 [2021-04-04 07:42:48]: HeavyGeneral [FookinLads, Level 44]: ERROR: well i need to afk
 [2021-04-04 07:42:49]: ***  [, Level 0]: 'x7|zemer' has left the game
 [2021-04-04 07:42:49]: HeavyGeneral [FookinLads, Level 44]: ERROR: oof
+[2021-04-04 07:42:52]: ERROR. [404, Level 56]: Xddd
+[2021-04-04 07:42:56]: [D] mamikral011 [, Level 0]: kurama: why block
+[2021-04-04 07:43:01]: kurama [, Level 8]: [D] mamikral011: who?
