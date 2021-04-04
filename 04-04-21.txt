@@ -8154,3 +8154,6 @@
 [2021-04-04 09:08:26]: [D] mamikral011 [, Level 20]: Shroom: ?
 [2021-04-04 09:08:27]: BulgarianTee [xSD7, Level 0]: Killua: i accept the truth
 [2021-04-04 09:08:30]: [D] mamikral011 [, Level 20]: Boti.: *
+[2021-04-04 09:08:39]: BulgarianTee [xSD7, Level 0]: Killua: the truth is you are all lost without bonuses
+[2021-04-04 09:08:43]: ***  [, Level 0]: 'Ghost.' has left the game (Timeout)
+[2021-04-04 09:08:43]: ***  [, Level 0]: 'Ghost 2.0.' has left the game (Timeout)
