@@ -1974,3 +1974,6 @@
 [2021-04-04 02:11:30]: Boti. [.bad, Level 32]: hogy most volt kétszer no eddig yes volt végig
 [2021-04-04 02:11:34]: ***  [, Level 0]: 'K1M9N' joined the spectators
 [2021-04-04 02:11:37]: ***  [, Level 0]: 'K1M9N' joined the game
+[2021-04-04 02:11:47]: ***  [, Level 0]: 'K1M9N' joined the spectators
+[2021-04-04 02:11:51]: ***  [, Level 0]: 'K1M9N' joined the game
+[2021-04-04 02:11:53]: PoliceTee [xSD7, Level 0]: ChillerDragon: whos idea was to host server in france - so far away from bulgaria :(
