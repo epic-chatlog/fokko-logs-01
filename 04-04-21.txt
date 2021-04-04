@@ -1597,3 +1597,6 @@
 [2021-04-04 01:49:36]: Boti. [.bad, Level 32]: az lesz a deepes
 [2021-04-04 01:49:40]: Boti. [.bad, Level 32]: szóval mind ketten át jutunk
 [2021-04-04 01:49:40]: Milky way [, Level 23]: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[2021-04-04 01:49:53]: BulgarianTee [xSD7, Level 38]: TOO SATURATED
+[2021-04-04 01:49:54]: BulgarianTee [xSD7, Level 38]: E
+[2021-04-04 01:49:55]: Milky way [, Level 23]: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
