@@ -13334,3 +13334,4 @@
 [2021-04-03 23:28:24]: Kiøn1029 [.bad, Level 31]: marad házi állatnak
 [2021-04-03 23:28:26]: [D] Boti. [.bad, Level 27]: you are monke
 [2021-04-03 23:28:29]: [D] Boti. [.bad, Level 27]: still pet
+[2021-04-03 23:28:44]: [D] Boti. [.bad, Level 27]: you can be our pet
