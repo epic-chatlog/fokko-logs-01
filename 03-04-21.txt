@@ -12781,3 +12781,6 @@
 [2021-04-03 21:49:58]: SAUD [, Level 0]: WH
 [2021-04-03 21:50:02]: Flupper [, Level 0]: chiller dargon
 [2021-04-03 21:50:02]: SAUD [, Level 0]: WHY
+[2021-04-03 21:50:16]: SAUD [, Level 0]: wdym by crackesd
+[2021-04-03 21:50:19]: SAUD [, Level 0]: wdym by cracked
+[2021-04-03 21:50:20]: Flupper [, Level 0]: good
