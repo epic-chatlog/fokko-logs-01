@@ -12549,3 +12549,5 @@
 [2021-04-04 14:21:09]: (2)ERROR [404, Level 40]: i even showed my voice to him :,(
 [2021-04-04 14:21:17]: (2)ERROR [404, Level 40]: im so sad now
 [2021-04-04 14:21:18]: ***  [, Level 0]: 'ist ein Noob' entered and joined the game
+[2021-04-04 14:21:27]: ***  [, Level 0]: 'ist ein Noob' has left the game
+[2021-04-04 14:21:29]: Isegrin [, Level 54]: this is so sad can we get 0likes
