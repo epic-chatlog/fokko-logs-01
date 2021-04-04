@@ -12219,3 +12219,5 @@
 [2021-04-04 13:36:09]: ***  [, Level 0]: '(1)Kirito' changed name to 'Kirito'
 [2021-04-04 13:36:12]: ***  [, Level 0]: 'Kirito' has left the game
 [2021-04-04 13:36:17]: ***  [, Level 0]: x7|KshKsh99 finished in: 0 minute(s) 54.44 second(s)
+[2021-04-04 13:36:22]: ***  [, Level 0]: 'haxxless dummy' has left the game
+[2021-04-04 13:36:25]: ***  [, Level 0]: 'haxxless dummy' entered and joined the game
