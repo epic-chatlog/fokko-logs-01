@@ -13268,3 +13268,5 @@
 [2021-04-03 23:17:23]: weqe [MNKY, Level 11]: man spiking is hard :(
 [2021-04-03 23:18:03]: [D] Boti. [.bad, Level 27]: in the hole
 [2021-04-03 23:18:04]: [D] Boti. [.bad, Level 27]: weqe:
+[2021-04-03 23:18:54]: ***  [, Level 0]: 'Wheels' has left the game
+[2021-04-03 23:18:54]: ***  [, Level 0]: 'Wheels.' has left the game
