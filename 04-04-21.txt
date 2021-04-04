@@ -5642,3 +5642,11 @@
 [2021-04-04 06:51:40]: ***  [, Level 0]: New record: 56.36 second(s) better.
 [2021-04-04 06:51:43]: ***  [, Level 0]: 'MORFY' has left the game
 [2021-04-04 06:51:44]: ***  [, Level 0]: 'Number1' entered and joined the game
+[2021-04-04 06:51:45]: ビール|Zero [Drunks, Level 27]: NetFlix: wait
+[2021-04-04 06:51:47]:   [, Level 0]: Number1: high
+[2021-04-04 06:51:48]: ***  [, Level 0]: 'MORFY' entered and joined the game
+[2021-04-04 06:51:48]: ***  [, Level 0]: 'Goose' has left the game
+[2021-04-04 06:51:49]:   [, Level 0]: Falco642: sup Number1
+[2021-04-04 06:51:56]: ***  [, Level 0]: 'MORFY' has left the game
+[2021-04-04 06:51:56]: ***  [, Level 0]: 'MORPHIN' has left the game
+[2021-04-04 06:51:56]:   [, Level 0]: Falco642: wtf laggy
