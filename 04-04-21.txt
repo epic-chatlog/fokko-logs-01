@@ -9069,3 +9069,5 @@
 [2021-04-04 09:58:24]: Rock [, Level 18]: fuck)
 [2021-04-04 09:58:27]: ビール|Zero [Drunks, Level 27]: karma
 [2021-04-04 09:58:30]: ***  [, Level 0]: 'Rock' has left the game
+[2021-04-04 09:58:48]: ***  [, Level 0]: 'Rock' entered and joined the game
+[2021-04-04 09:58:48]: ***  [, Level 0]: 'ERROR.' has left the game
