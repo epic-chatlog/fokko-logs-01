@@ -13483,3 +13483,5 @@
 [2021-04-03 23:47:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-03 23:47:12]: [D] Boti. [.bad, Level 27]: chillerdragon
 [2021-04-03 23:47:14]: [D] Boti. [.bad, Level 27]: látszik
+[2021-04-03 23:47:24]: [D] Boti. [.bad, Level 27]: mehet is a teeworlds in 2021
+[2021-04-03 23:47:27]: Kiøn1029 [.bad, Level 31]: XDDD
