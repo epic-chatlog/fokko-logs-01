@@ -6071,3 +6071,4 @@
 [2021-04-04 07:19:47]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-04 07:20:03]:   [, Level 0]: BulgarianTee: E
 [2021-04-04 07:20:11]:   [, Level 0]: Dregger: lag
+[2021-04-04 07:20:20]: (1)Kirito [♥, Level 34]: ✯ |toxicdaddy:  das dauert ewig
