@@ -6259,3 +6259,5 @@
 [2021-04-04 07:42:52]: ERROR. [404, Level 56]: Xddd
 [2021-04-04 07:42:56]: [D] mamikral011 [, Level 0]: kurama: why block
 [2021-04-04 07:43:01]: kurama [, Level 8]: [D] mamikral011: who?
+[2021-04-04 07:43:03]: ERROR. [404, Level 56]: HeavyGeneral:  TL|ŦƹƦ$ŦǾN  can deal with bulga
+[2021-04-04 07:43:06]: ERROR. [404, Level 56]: y
