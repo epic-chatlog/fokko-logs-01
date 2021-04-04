@@ -12732,3 +12732,5 @@
 [2021-04-03 21:42:24]: SAUD [, Level 0]: waiting for someone?
 [2021-04-03 21:42:33]: Flupper [, Level 0]: i have nobody
 [2021-04-03 21:42:36]: SAUD [, Level 0]: ohh
+[2021-04-03 21:42:52]: SAUD [, Level 0]: u have me
+[2021-04-03 21:42:55]: Flupper [, Level 0]: yea
