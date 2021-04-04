@@ -3781,3 +3781,7 @@
 [2021-04-04 04:14:34]: Isegrin [, Level 54]: WTF
 [2021-04-04 04:14:49]: ***  [, Level 0]: 'vlot1k3' entered and joined the game
 [2021-04-04 04:15:06]: ***  [, Level 0]: 'DarkStar' has left the game
+[2021-04-04 04:15:19]: ChillerDragon [|*KoG*|, Level 44]: afk blox Isegrin
+[2021-04-04 04:15:21]: ***  [, Level 0]: 'vlot1k3' has left the game
+[2021-04-04 04:15:23]: Isegrin [, Level 54]: niet
+[2021-04-04 04:15:25]: darkstar2 [, Level 17]: Cylox.♥: dude
