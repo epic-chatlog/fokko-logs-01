@@ -5176,3 +5176,5 @@
 [2021-04-04 06:22:58]: ***  [, Level 0]: 'Maatiteusz' finished the special race!
 [2021-04-04 06:23:01]: Nonoh [citrom, Level 40]: kurama: f4 dude
 [2021-04-04 06:23:05]: mamikral011 [, Level 25]: (1)ERROR: whyyy
+[2021-04-04 06:23:14]: ***  [, Level 0]: 'Andresss' has left the game
+[2021-04-04 06:23:16]: ***  [, Level 0]: 'Andresss' entered and joined the game
