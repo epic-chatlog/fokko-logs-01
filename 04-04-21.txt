@@ -6047,3 +6047,5 @@
 [2021-04-04 07:16:48]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
 [2021-04-04 07:16:54]: Λtlantis Ψ [ᅟᅟᅟ, Level 39]: ERROR:  ? thats new that we have war?
 [2021-04-04 07:16:54]:   [, Level 0]: ✯|Not Bulash: x7|FayZoR: hi
+[2021-04-04 07:17:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-04 07:17:02]: Number1 [unspeedrun, Level 0]: back
