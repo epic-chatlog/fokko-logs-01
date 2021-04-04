@@ -13373,3 +13373,5 @@
 [2021-04-04 15:55:11]: ***  [, Level 0]: '❤FallDog❤' joined the game
 [2021-04-04 15:55:19]: ***  [, Level 0]: '❤FallDog❤' joined the spectators
 [2021-04-04 15:55:22]: ***  [, Level 0]: '❤FallDog❤' joined the game
+[2021-04-04 15:55:43]: ***  [, Level 0]: '❤FallDog❤' joined the spectators
+[2021-04-04 15:55:46]: ***  [, Level 0]: '❤FallDog❤' joined the game
