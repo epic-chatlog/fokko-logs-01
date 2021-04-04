@@ -12398,3 +12398,4 @@
 [2021-04-03 18:14:25]: sun.slow(y) [sunrise., Level 35]: x7|zemer: du hast keine meinte Supers
 [2021-04-03 18:14:37]: x7|zemer [xSD7, Level 0]: sun.slow(y): Supers ist ein hrs weil er scammt
 [2021-04-03 18:14:40]: ***  [, Level 0]: 'x7|Flipper' entered and joined the game
+[2021-04-03 18:14:43]: sun.slow(y) [sunrise., Level 35]: was scammt er
