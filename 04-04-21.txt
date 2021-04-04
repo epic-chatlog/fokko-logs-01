@@ -10818,3 +10818,6 @@
 [2021-04-04 12:22:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-04 12:22:02]: ChillerDragon [Chilli.*, Level 31]: aa
 [2021-04-04 12:22:04]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
+[2021-04-04 12:22:10]: (1)kais [, Level 58]: (2)ChillerDragon: because i killed him before
+[2021-04-04 12:22:16]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-04 12:22:17]: ChillerDragon.* [|*KoG*|, Level 41]: ur so nice kais why did u do that?
