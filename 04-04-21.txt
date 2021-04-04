@@ -12389,3 +12389,7 @@
 [2021-04-04 13:53:25]: Fearless [Fookinlads, Level 40]: YelloWorlD:  want 600k?
 [2021-04-04 13:53:51]: Fearless [Fookinlads, Level 40]: YelloWorlD:  ok i understand u dont want
 [2021-04-04 13:54:07]: Fearless [Fookinlads, Level 40]: i will be error 2
+[2021-04-04 13:54:25]: YelloWorlD [404, Level 37]: Fearless: ok for 600
+[2021-04-04 13:54:26]: ***  [, Level 0]: 'Fearless' changed name to '(2)ERROR'
+[2021-04-04 13:54:26]: ***  [, Level 0]: '[D] Fearless' changed name to '[D] ERROR'
+[2021-04-04 13:54:33]: ***  [, Level 0]: '[D] ERROR' has left the game
