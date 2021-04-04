@@ -4590,3 +4590,6 @@
 [2021-04-04 05:43:58]: ✯ |toxicdaddy [|Supressed, Level 24]: NetFlix:
 [2021-04-04 05:44:03]: ***  [, Level 0]: 'Hurricaɴe' entered and joined the game
 [2021-04-04 05:44:03]: (1)ERROR. [404, Level 24]: Virus:
+[2021-04-04 05:44:15]: ✯ |toxicdaddy [|Supressed, Level 24]: NetFlix: pls help
+[2021-04-04 05:44:15]:   [, Level 0]: comic: Virus:
+[2021-04-04 05:44:16]: (1)ERROR. [404, Level 24]: Isegrin:
