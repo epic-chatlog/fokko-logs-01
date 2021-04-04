@@ -12395,3 +12395,4 @@
 [2021-04-03 18:13:51]: x7|zemer [xSD7, Level 0]: sun.slow(y): Hzm
 [2021-04-03 18:13:57]: sun.slow(y) [sunrise., Level 35]: mutter ist heilig aslm
 [2021-04-03 18:14:12]: x7|zemer [xSD7, Level 0]: sun.slow(y): Wrm gehst du dann auf mutter??
+[2021-04-03 18:14:25]: sun.slow(y) [sunrise., Level 35]: x7|zemer: du hast keine meinte Supers
