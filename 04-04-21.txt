@@ -12344,3 +12344,5 @@
 [2021-04-04 13:47:56]: [D] Fearless [FookinLads, Level 0]: :C
 [2021-04-04 13:48:03]: ***  [, Level 0]: 'Mr.KshKsh99' has left the game
 [2021-04-04 13:48:03]: ***  [, Level 0]: 'x7|KshKsh99' has left the game
+[2021-04-04 13:48:06]: Fearless [Fookinlads, Level 40]: Shiro.:  nub
+[2021-04-04 13:48:10]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
