@@ -10563,3 +10563,6 @@
 [2021-04-04 12:01:38]: (1)Kirito [♥, Level 34]: kais u gay
 [2021-04-04 12:01:53]: ***  [, Level 0]: (1)kais finished in: 167 minute(s) 47.52 second(s)
 [2021-04-04 12:01:55]: bob [, Level 36]: brother
+[2021-04-04 12:01:59]: ***  [, Level 0]: 'MieSlime' has left the game
+[2021-04-04 12:01:59]: ***  [, Level 0]: 'Asta' has left the game
+[2021-04-04 12:02:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
