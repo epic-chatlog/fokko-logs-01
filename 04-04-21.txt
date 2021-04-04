@@ -3908,3 +3908,7 @@
 [2021-04-04 04:28:08]: ***  [, Level 0]: 'darkstar3' entered and joined the game
 [2021-04-04 04:28:10]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
 [2021-04-04 04:28:11]: [D] mamikral011 [, Level 20]: koro: ?
+[2021-04-04 04:28:17]: (1)ChillerDrago [Chilli.*, Level 30]: xD
+[2021-04-04 04:28:20]: [D] mamikral011 [, Level 20]: koro: war?
+[2021-04-04 04:28:22]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
+[2021-04-04 04:28:23]: ***  [, Level 0]: Kezo's killing spree was ended by Fearless (6 blocks)
