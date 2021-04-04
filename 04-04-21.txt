@@ -4220,3 +4220,6 @@
 [2021-04-04 05:01:44]: Isegrin [, Level 54]: AAAAAAAAAAA
 [2021-04-04 05:01:46]: Isegrin [, Level 54]: Not funny
 [2021-04-04 05:01:51]: Isegrin [, Level 54]: [D] mamikral011: gay
+[2021-04-04 05:02:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-04 05:02:03]: [D] mamikral011 [, Level 20]: seg why
+[2021-04-04 05:02:04]: Isegrin [, Level 54]: DADDY
