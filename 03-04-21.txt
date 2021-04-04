@@ -12594,3 +12594,6 @@
 [2021-04-03 21:27:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-03 21:27:10]: x7|Flipper [xSD7, Level 13]: nah
 [2021-04-03 21:27:15]: x7|Flipper [xSD7, Level 13]: how old r u
+[2021-04-03 21:27:21]: weqe [MNKY, Level 11]: 21
+[2021-04-03 21:27:23]: x7|zemer [xSD7, Level 37]: weqe: Stop.d
+[2021-04-03 21:27:26]: x7|Flipper [xSD7, Level 13]: sun slowy is that age
