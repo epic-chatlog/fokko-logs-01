@@ -3817,3 +3817,6 @@
 [2021-04-04 04:17:47]: Fearless [FookinLads, Level 40]: fookin
 [2021-04-04 04:17:48]: Fearless [FookinLads, Level 40]: why
 [2021-04-04 04:17:54]: Fearless [FookinLads, Level 40]: wut
+[2021-04-04 04:18:01]: Fearless [FookinLads, Level 40]: bro
+[2021-04-04 04:18:05]: ***  [, Level 0]: 'Friendiship ;-)' has left the game (Timeout)
+[2021-04-04 04:18:07]: Fearless [FookinLads, Level 40]: heavy is fookinglads too :/
