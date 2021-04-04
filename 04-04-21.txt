@@ -3220,3 +3220,5 @@
 [2021-04-04 03:36:47]: Maatiteusz [TrRShClNrRs, Level 35]: bob: XD
 [2021-04-04 03:37:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-04 03:37:03]: kurama [, Level 7]: 2:2
+[2021-04-04 03:37:15]: ***  [, Level 0]: x7|FayZoR is on a killing spree with 5 blocks
+[2021-04-04 03:37:15]: ***  [, Level 0]: BC|Tixnix's killing spree was ended by x7|FayZoR (28 blocks)
