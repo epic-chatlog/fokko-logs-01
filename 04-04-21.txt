@@ -8712,3 +8712,6 @@
 [2021-04-04 09:37:16]: (1)ERROR [404, Level 47]: gibt halt einen itemshop wo man krams bekommt wie man besser vorrankommt.
 [2021-04-04 09:37:19]:   [, Level 0]: mami: noooo
 [2021-04-04 09:37:19]: ChillerDragon.* [Chilli.*, Level 41]: ERROR: nich schlecht wvl steuern? xd
+[2021-04-04 09:37:29]: (1)ERROR [404, Level 47]: ChillerDragon.*:  keine?
+[2021-04-04 09:37:33]: (2)ChillerDrago [|*KoG*|, Level 44]: oof ERROR
+[2021-04-04 09:37:38]: (1)ERROR [404, Level 47]: (1)ChillerDrago:  illegal?
