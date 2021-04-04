@@ -3077,3 +3077,8 @@
 [2021-04-04 03:22:58]: Rock [, Level 17]: kurama: стой на подарок
 [2021-04-04 03:22:58]: ***  [, Level 0]: 'YelloWorlD' has left the game
 [2021-04-04 03:22:58]: ***  [, Level 0]: 'GOLD' has left the game
+[2021-04-04 03:23:04]: ***  [, Level 0]: 'Wheels.' has left the game
+[2021-04-04 03:23:04]: ***  [, Level 0]: 'R2D2' has left the game
+[2021-04-04 03:23:10]: Rock [, Level 17]: мало
+[2021-04-04 03:23:11]: kurama [, Level 7]: 2400,
+[2021-04-04 03:23:14]: Rock [, Level 17]: я знаю
