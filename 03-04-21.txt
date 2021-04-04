@@ -12513,3 +12513,4 @@
 [2021-04-03 20:45:20]: ***  [, Level 0]: 'Neutral' entered and joined the game
 [2021-04-03 20:45:37]: ***  [, Level 0]: 'Neutral' has left the game
 [2021-04-03 20:46:35]: ***  [, Level 0]: 'Neutral' entered and joined the game
+[2021-04-03 20:47:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
