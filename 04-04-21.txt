@@ -5250,3 +5250,6 @@
 [2021-04-04 06:27:57]: ***  [, Level 0]: 'Andresss' has left the game
 [2021-04-04 06:27:57]: [D] mamikral011 [, Level 20]: fkldgkd
 [2021-04-04 06:28:01]: SAUD [, Level 20]: (1)ERROR:  i mean to us
+[2021-04-04 06:28:05]: ***  [, Level 0]: 'Tee L' entered and joined the game
+[2021-04-04 06:28:08]: [D] mamikral011 [, Level 20]: dfgklfh
+[2021-04-04 06:28:12]: Fearless [FookinLads, Level 40]: koro:  left up spike it always spikes
