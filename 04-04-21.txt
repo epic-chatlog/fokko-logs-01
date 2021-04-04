@@ -10364,3 +10364,9 @@
 [2021-04-04 11:46:06]: Asta [FookinLads, Level 0]: Nudelsaft c::  its the acc of who
 [2021-04-04 11:46:08]: (1)Kirito [♥, Level 34]: ~DemoizL~: pleaseee
 [2021-04-04 11:46:11]: Nudelsaft c: [FookinLads, Level 60]: Asta: sythn
+[2021-04-04 11:46:27]: Asta [FookinLads, Level 0]: Nudelsaft c::  5k
+[2021-04-04 11:46:29]: Asta [FookinLads, Level 0]: Nudelsaft c::  6k
+[2021-04-04 11:46:30]: Nudelsaft c: [FookinLads, Level 60]: ik
+[2021-04-04 11:46:30]: Asta [FookinLads, Level 0]: Nudelsaft c::  5k
+[2021-04-04 11:46:32]: Asta [FookinLads, Level 0]: Nudelsaft c::  6k
+[2021-04-04 11:46:33]: Nudelsaft c: [FookinLads, Level 60]: its urs
