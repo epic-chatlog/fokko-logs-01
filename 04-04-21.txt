@@ -9435,3 +9435,7 @@
 [2021-04-04 10:27:11]: SAUD [, Level 21]: 2v1
 [2021-04-04 10:27:12]: ✯ |toxicdaddy [|Supressed, Level 24]: SAUD: give
 [2021-04-04 10:27:13]: SAUD [, Level 21]: xD
+[2021-04-04 10:27:15]: ***  [, Level 0]: 'NetFlix' entered and joined the game
+[2021-04-04 10:27:16]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-04 10:27:20]: SAUD [, Level 21]: u help ? ✯ |toxicdaddy
+[2021-04-04 10:27:24]: cookie [, Level 0]: noooooooooooooooooooooo
