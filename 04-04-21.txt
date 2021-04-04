@@ -1774,3 +1774,11 @@
 [2021-04-04 02:00:12]: Boti. [.bad, Level 32]: 17 ms
 [2021-04-04 02:00:17]: BC|Tixnix [BC, Level 33]: BulgarianTee: CHILLER HELPER NOOB
 [2021-04-04 02:00:21]: Boti. [.bad, Level 32]: endlesshook meg nincs
+[2021-04-04 02:00:25]: BulgarianTee [xSD7, Level 38]: BC|Tixnix: i know but he  help me so..
+[2021-04-04 02:00:30]: ChillerDragon.* [|*KoG*|, Level 41]: meg Boti. !
+[2021-04-04 02:00:30]: Boti. [.bad, Level 32]: skiller way
+[2021-04-04 02:00:31]: ***  [, Level 0]: 'Ghost 2.0' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-04 02:00:31]: ***  [, Level 0]: 'Ghost.' has left the game (Timeout)
+[2021-04-04 02:00:31]: ***  [, Level 0]: 'Ghost 2.0.' has left the game (Timeout)
+[2021-04-04 02:00:31]: ***  [, Level 0]: 'Ghost' has left the game (Timeout)
+[2021-04-04 02:00:33]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
