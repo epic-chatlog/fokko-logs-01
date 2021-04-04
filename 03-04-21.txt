@@ -13223,3 +13223,4 @@
 [2021-04-03 23:00:00]: ***  [, Level 0]: 'K!ked' entered and joined the game
 [2021-04-03 23:00:06]: ***  [, Level 0]: 'cHurch' entered and joined the game
 [2021-04-03 23:01:30]: ***  [, Level 0]: 'Rainbow Tee' has left the game
+[2021-04-03 23:02:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
