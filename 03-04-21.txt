@@ -12734,3 +12734,5 @@
 [2021-04-03 21:42:36]: SAUD [, Level 0]: ohh
 [2021-04-03 21:42:52]: SAUD [, Level 0]: u have me
 [2021-04-03 21:42:55]: Flupper [, Level 0]: yea
+[2021-04-03 21:43:03]: SAUD [, Level 0]: im not talking with u
+[2021-04-03 21:43:06]: SAUD [, Level 0]: xD
