@@ -12235,3 +12235,4 @@
 [2021-04-03 17:24:02]: УБИВАТЬ! [, Level 0]: )
 [2021-04-03 17:24:10]: ***  [, Level 0]: 'fomjn' entered and joined the game
 [2021-04-03 17:24:42]: ***  [, Level 0]: 'fomin' entered and joined the game
+[2021-04-03 17:24:58]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 5 blocks
