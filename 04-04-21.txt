@@ -8753,3 +8753,7 @@
 [2021-04-04 09:40:56]: ***  [, Level 0]: 'Astraza2' entered and joined the game
 [2021-04-04 09:40:58]: ***  [, Level 0]: 'Astraza2' has left the game
 [2021-04-04 09:41:03]: (1)ERROR [404, Level 47]: ChillerDragon.*:  ja schau ma yt oder so.
+[2021-04-04 09:41:39]:   [, Level 0]: Pigie♥: ERROR: HOW ARE U ALIVE
+[2021-04-04 09:41:41]: mamikral011 [, Level 26]: WarHammer: hll
+[2021-04-04 09:41:46]: WarHammer [, Level 0]: ERROR:
+[2021-04-04 09:41:46]: ***  [, Level 0]: (1)ERROR is on a killing spree with 15 blocks
