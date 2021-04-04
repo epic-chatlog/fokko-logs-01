@@ -4534,3 +4534,6 @@
 [2021-04-04 05:40:24]: ***  [, Level 0]: 'comic' entered and joined the game
 [2021-04-04 05:40:29]: Rock [, Level 17]: скажи мало?
 [2021-04-04 05:40:32]: (1)ERROR. [404, Level 40]: [D]Torento:  come inf
+[2021-04-04 05:40:47]: [D]Torento [, Level 0]: wait
+[2021-04-04 05:40:49]: Rock [, Level 17]: мало 65?
+[2021-04-04 05:40:52]:   [, Level 0]: comic: coprophile: ctrl shift d
