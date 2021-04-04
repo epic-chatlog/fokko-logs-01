@@ -4329,3 +4329,5 @@
 [2021-04-04 05:14:39]:   [, Level 0]: ERROR: ?
 [2021-04-04 05:14:41]: Fearless [FookinLads, Level 40]: i ded
 [2021-04-04 05:14:42]: Fearless [FookinLads, Level 40]: XD
+[2021-04-04 05:14:50]: Fearless [FookinLads, Level 40]: Friendiship ;-):  fast :C
+[2021-04-04 05:14:52]:   [, Level 0]: ERROR: wait
