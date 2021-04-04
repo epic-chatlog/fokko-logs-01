@@ -12408,3 +12408,4 @@
 [2021-04-03 18:15:56]: sun.slow(y) [sunrise., Level 35]: hab kein datenbank zugriff grad
 [2021-04-03 18:16:00]: sun.slow(y) [sunrise., Level 35]: sonst hätt ich pw resettet
 [2021-04-03 18:16:04]: sun.slow(y) [sunrise., Level 35]: muss auf fokko warten sowy
+[2021-04-03 18:16:16]: sun.slow(y) [sunrise., Level 35]: wer ist hurrican
