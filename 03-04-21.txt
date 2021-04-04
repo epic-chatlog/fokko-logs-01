@@ -12108,3 +12108,5 @@
 [2021-04-03 17:01:16]: ***  [, Level 0]: '<-_->' has left the game (Timeout)
 [2021-04-03 17:01:32]: ***  [, Level 0]: 'ᅟᅟᅟᅟ' entered and joined the game
 [2021-04-03 17:01:44]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
+[2021-04-03 17:01:49]: S Y T H N#ALL [iPro, Level 37]: ez   nab
+[2021-04-03 17:02:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
