@@ -7650,3 +7650,7 @@
 [2021-04-04 08:46:42]: ***  [, Level 0]: 'Isegrin' has left the game
 [2021-04-04 08:46:45]: ERROR [404, Level 73]: xDDDDD
 [2021-04-04 08:46:47]: ***  [, Level 0]: 'said a tree' changed name to 'TL|ŦƹƦ$ŦǾN'
+[2021-04-04 08:46:56]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-04 08:46:59]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-04 08:47:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-04 08:47:04]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
