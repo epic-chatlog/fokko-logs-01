@@ -6230,3 +6230,4 @@
 [2021-04-04 07:41:23]: ***  [, Level 0]: 'Samurai' entered and joined the game
 [2021-04-04 07:41:28]:   [, Level 0]: Samurai: hi
 [2021-04-04 07:41:30]: [D] BC|Tixnix [BC, Level 0]: Torento: yes
+[2021-04-04 07:41:39]: (1)Kirito [♥, Level 34]: ✯ |toxicdaddy: 5800
