@@ -2474,3 +2474,9 @@
 [2021-04-04 02:36:44]: Boti. [.bad, Level 32]: anyám basztatni fog
 [2021-04-04 02:36:49]: (2)ChillerDrago [Chilli.*, Level 31]: xD
 [2021-04-04 02:36:49]: Nudelsaft c: [FookinLads, Level 0]: ChillerDragon: probiere mal alte ddnet version kann so nich bloxxen xd
+[2021-04-04 02:36:53]: YelloWorlD [404, Level 73]: Nudelsaft c:: ?
+[2021-04-04 02:36:54]: Kiøn1029 [.bad, Level 31]: miért nem mentél ki
+[2021-04-04 02:36:55]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-04 02:36:57]: YelloWorlD [404, Level 73]: Nudelsaft c:: traitor ?
+[2021-04-04 02:36:57]: Boti. [.bad, Level 32]: me nem
+[2021-04-04 02:37:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
