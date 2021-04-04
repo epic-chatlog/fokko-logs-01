@@ -1748,3 +1748,5 @@
 [2021-04-04 01:58:03]: Rawad [, Level 4]: (2)SAUD:  mash
 [2021-04-04 01:58:04]: Kiøn1029 [.bad, Level 31]: gyere
 [2021-04-04 01:58:04]: Boti. [.bad, Level 32]: ready for laser
+[2021-04-04 01:58:13]: (2)SAUD [, Level 3]: Rawad: we cant tho
+[2021-04-04 01:58:16]: Rawad [, Level 4]: (2)SAUD:  ):
