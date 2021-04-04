@@ -1641,3 +1641,5 @@
 [2021-04-04 01:51:56]: ***  [, Level 0]: New record:  6.38 second(s) better.
 [2021-04-04 01:51:57]: ***  [, Level 0]: Kiøn1029 finished in: 2 minute(s) 33.90 second(s)
 [2021-04-04 01:51:57]: ***  [, Level 0]: New record: 4 minute(s) 29.32 second(s) better.
+[2021-04-04 01:51:59]: [D] BC|Tixnix [BC, Level 25]: 7N
+[2021-04-04 01:52:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
