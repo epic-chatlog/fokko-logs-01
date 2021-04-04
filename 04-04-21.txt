@@ -6052,3 +6052,5 @@
 [2021-04-04 07:17:23]: ***  [, Level 0]: 'Number1' has left the game
 [2021-04-04 07:17:32]: Nonoh [citrom, Level 40]: [D] BC|Tixnix: my dummy
 [2021-04-04 07:17:38]: ビール|Zero [Drunks, Level 27]: NetFlix: )
+[2021-04-04 07:17:57]: ***  [, Level 0]: '@cE' entered and joined the game
+[2021-04-04 07:18:03]: Nonoh [citrom, Level 40]: Punguin: onan kitud szedni
