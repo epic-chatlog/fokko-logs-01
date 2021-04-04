@@ -6152,3 +6152,6 @@
 [2021-04-04 07:31:40]: ***  [, Level 0]: 'Sutzer' entered and joined the game
 [2021-04-04 07:31:40]: Isegrin [, Level 54]: ERROR.: Puta madreee
 [2021-04-04 07:31:53]: ERROR. [404, Level 56]: xD
+[2021-04-04 07:31:57]: Isegrin [, Level 54]: HeavyGeneral: shaloom
+[2021-04-04 07:32:00]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
+[2021-04-04 07:32:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
