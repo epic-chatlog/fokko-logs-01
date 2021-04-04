@@ -8671,3 +8671,7 @@
 [2021-04-04 09:34:16]: ***  [, Level 0]: 'Pigie♥' entered and joined the game
 [2021-04-04 09:34:17]: ERROR [404, Level 73]: (2)ChillerDrago:  ist halt viel größer als teeworlds ^^
 [2021-04-04 09:34:20]: Killua [FookinLads, Level 37]: 0printonline
+[2021-04-04 09:34:29]: (3)SAUD [, Level 0]: mamikral011:
+[2021-04-04 09:34:30]: ERROR [404, Level 73]: (2)ChillerDrago:  gibt in dem SPiel nen itemshop.
+[2021-04-04 09:34:31]:   [, Level 0]: x7|zemer: BulgarianTee:
+[2021-04-04 09:34:32]: ***  [, Level 0]: 'Clight.' entered and joined the game
