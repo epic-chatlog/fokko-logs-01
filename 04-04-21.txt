@@ -10383,3 +10383,9 @@
 [2021-04-04 11:47:28]: cookie [, Level 0]: noo
 [2021-04-04 11:48:06]: [D] mamikral011 [, Level 0]: ERROR: hi
 [2021-04-04 11:48:08]: ***  [, Level 0]: 'Asta' has left the game
+[2021-04-04 11:48:23]: ***  [, Level 0]: 'scuf' entered and joined the game
+[2021-04-04 11:48:23]: x7|FayZoR [xSD7, Level 42]: weqe: we have team no ?
+[2021-04-04 11:48:26]: scuf [669, Level 0]: weqe: join 2v2 now
+[2021-04-04 11:48:28]: weqe [MNKY, Level 11]: yeah x7|FayZoR
+[2021-04-04 11:48:28]: [D] mamikral011 [, Level 0]: x7|FayZoR: hi bro
+[2021-04-04 11:48:28]: scuf [669, Level 0]: bob
