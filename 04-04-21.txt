@@ -3762,3 +3762,6 @@
 [2021-04-04 04:12:32]: ***  [, Level 0]: '(1)Friendiship ;' entered and joined the game
 [2021-04-04 04:12:38]: bob [, Level 36]: come brother darkstar
 [2021-04-04 04:12:50]: mamikral011 [, Level 25]: Kezo: ?
+[2021-04-04 04:12:53]: [D] BC|kakashi [BC, Level 13]: [D] ✯ |toxicd: und du hast jetpack :)
+[2021-04-04 04:12:55]: ***  [, Level 0]: 'darkstar2' entered and joined the game
+[2021-04-04 04:12:59]: bob [, Level 36]: darkstar2: u block pro?
