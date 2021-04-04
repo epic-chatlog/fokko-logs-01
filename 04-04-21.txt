@@ -1020,3 +1020,6 @@
 [2021-04-04 01:16:04]: ***  [, Level 0]: '(1)ビール|Zero' entered and joined the game
 [2021-04-04 01:16:07]: Kiøn1029 [.bad, Level 31]: váj not
 [2021-04-04 01:16:08]: ♫Amirian♬ [, Level 29]: Rock:
+[2021-04-04 01:16:12]: BulgarianTee [xSD7, Level 38]: bad
+[2021-04-04 01:16:16]: Boti. [.bad, Level 32]: jó az aimom
+[2021-04-04 01:16:20]: ♫Amirian♬ [, Level 29]: Rock: pls
