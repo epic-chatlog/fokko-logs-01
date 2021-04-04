@@ -13500,3 +13500,5 @@
 [2021-04-03 23:50:33]: ***  [, Level 0]: '►AmirianYA◄' entered and joined the game
 [2021-04-03 23:50:45]: [D] Boti. [.bad, Level 27]: gyerek 0 szintel itten policeban farmol azt adom
 [2021-04-03 23:50:50]: [D] Boti. [.bad, Level 27]: 29es ihh
+[2021-04-03 23:50:56]: ***  [, Level 0]: 'BulgarianTee' entered and joined the game
+[2021-04-03 23:50:59]: BulgarianTee [xSD7, Level 0]: K!ked: cringe
