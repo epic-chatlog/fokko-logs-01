@@ -5356,3 +5356,7 @@
 [2021-04-04 06:33:35]: (1)ERROR. [404, Level 24]: ofc
 [2021-04-04 06:33:37]: Fearless [FookinLads, Level 40]: ERROR:  XDDDD
 [2021-04-04 06:33:39]: (1)ERROR. [404, Level 24]: xD
+[2021-04-04 06:33:49]: Nonoh [citrom, Level 40]: Punguin: nem lehetnél itt alapból xd
+[2021-04-04 06:33:49]: (1)ERROR. [404, Level 24]: Fearless:  /pay 600000 ERROR
+[2021-04-04 06:33:54]: Fearless [FookinLads, Level 40]: give me portal
+[2021-04-04 06:33:55]: Fearless [FookinLads, Level 40]: xd
