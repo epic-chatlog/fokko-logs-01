@@ -10049,3 +10049,5 @@
 [2021-04-04 11:14:31]: Lucas [THECEPS, Level 34]: keø: ok
 [2021-04-04 11:14:32]: Nudelsaft c: [FookinLads, Level 60]: wait
 [2021-04-04 11:14:38]: Lucas [THECEPS, Level 34]: (2)ChillerDrago:
+[2021-04-04 11:14:51]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
+[2021-04-04 11:14:57]: ChillerDragon.* [|*KoG*|, Level 41]: xD
