@@ -12282,3 +12282,4 @@
 [2021-04-03 17:30:53]: ***  [, Level 0]: 'x7|zemer' has left the game (Timeout)
 [2021-04-03 17:31:07]: ***  [, Level 0]: 'Oh Nonames!' changed name to 'S Y T H N'
 [2021-04-03 17:31:43]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
+[2021-04-03 17:32:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
