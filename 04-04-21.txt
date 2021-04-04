@@ -9465,3 +9465,6 @@
 [2021-04-04 10:29:31]: ***  [, Level 0]: '(1)ビール|Zero' entered and joined the game
 [2021-04-04 10:29:33]: ***  [, Level 0]: x7|FayZoR is on a killing spree with 5 blocks
 [2021-04-04 10:29:34]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-04 10:29:37]: ***  [, Level 0]: 'rafel' joined the game
+[2021-04-04 10:29:38]: x7|zemer [xSD7, Level 37]: [D] BC|Tixnix: Warum blockst du chillerdragon???
+[2021-04-04 10:29:38]: ChillerDragon [Chilli.*, Level 31]: x7|zemer: I am currently afk.
