@@ -13271,3 +13271,7 @@
 [2021-04-03 23:18:54]: ***  [, Level 0]: 'Wheels' has left the game
 [2021-04-03 23:18:54]: ***  [, Level 0]: 'Wheels.' has left the game
 [2021-04-03 23:19:01]: weqe [MNKY, Level 11]: thanks Boti. <3
+[2021-04-03 23:19:26]: Torento [, Level 22]: [D] Deadmouse:
+[2021-04-03 23:19:27]: Torento [, Level 22]: [D] Deadmouse: wtf
+[2021-04-03 23:19:30]: Torento [, Level 22]: [D] Deadmouse: no kill
+[2021-04-03 23:19:34]: ***  [, Level 0]: Torento finished in: 1 minute(s) 54.96 second(s)
