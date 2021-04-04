@@ -68,3 +68,6 @@
 [2021-04-04 00:06:09]: x7|Flipper [xSD7, Level 14]: huh
 [2021-04-04 00:06:11]: x7|Flipper [xSD7, Level 14]: no i dont
 [2021-04-04 00:06:11]: ***  [, Level 0]: 'TimePause' changed name to 'x7|TimePause'
+[2021-04-04 00:06:18]: (2)SAUD [, Level 0]: i need
+[2021-04-04 00:06:21]: (2)SAUD [, Level 0]: ill afk
+[2021-04-04 00:06:25]: ***  [, Level 0]: '[D]Torento' entered and joined the game
