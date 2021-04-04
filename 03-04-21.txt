@@ -13480,3 +13480,4 @@
 [2021-04-03 23:45:49]: Kiøn1029 [.bad, Level 31]: gyakorolunk a vanillára XDD
 [2021-04-03 23:46:03]: [D] Boti. [.bad, Level 27]: azaz
 [2021-04-03 23:46:17]: [D] Boti. [.bad, Level 27]: majd hostolnék tournamentet ha lennének emberek is
+[2021-04-03 23:47:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
