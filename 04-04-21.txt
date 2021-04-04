@@ -4309,3 +4309,4 @@
 [2021-04-04 05:11:50]: mamikral011 [, Level 25]: [D] ✯ |toxicd: stop bro
 [2021-04-04 05:11:51]: ***  [, Level 0]: '(2)ChillerDragon' has left the game (Timeout Protection over)
 [2021-04-04 05:11:51]: ***  [, Level 0]: '(1)ChillerDragon' has left the game (Timeout Protection over)
+[2021-04-04 05:12:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
