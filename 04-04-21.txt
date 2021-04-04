@@ -2643,3 +2643,6 @@
 [2021-04-04 02:47:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-04 02:47:03]: ChillerDragon.* [Chilli.*, Level 41]: weqe: wb is annpoying
 [2021-04-04 02:47:04]: WarHammer' [, Level 16]: ?
+[2021-04-04 02:47:08]: WarHammer' [, Level 16]: koro:  SAUD  ?
+[2021-04-04 02:47:11]: (3)SAUD [, Level 20]: WarHammer':  help
+[2021-04-04 02:47:18]: (3)SAUD [, Level 20]: koro:  i was afk tho
