@@ -588,3 +588,4 @@
 [2021-04-04 00:45:38]: BulgarianTee [xSD7, Level 38]: Mista bombastic: E
 [2021-04-04 00:45:39]: BulgarianTee [xSD7, Level 38]: Mista bombastic: WAR
 [2021-04-04 00:45:57]: BulgarianTee [xSD7, Level 38]: LAG
+[2021-04-04 00:46:07]: BulgarianTee [xSD7, Level 38]: E
