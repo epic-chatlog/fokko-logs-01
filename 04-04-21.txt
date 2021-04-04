@@ -12060,3 +12060,7 @@
 [2021-04-04 13:21:45]: ***  [, Level 0]: '(1)nobody' changed name to 'nobody'
 [2021-04-04 13:21:49]: Fearless [Fookinlads, Level 40]: koro:
 [2021-04-04 13:21:50]: GODLIKe. [GANG, Level 0]: bob: XDDDDD
+[2021-04-04 13:21:54]: Fearless [Fookinlads, Level 40]: koro:  help
+[2021-04-04 13:22:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 13:22:05]: bob [, Level 36]: kais: what gamemode do u usually play
+[2021-04-04 13:22:06]: Fearless [Fookinlads, Level 40]: koro:  dad
