@@ -12127,3 +12127,6 @@
 [2021-04-03 17:05:14]: fomin [RUA, Level 0]: xd
 [2021-04-03 17:05:16]: (2)УБИВАТ [, Level 0]: noob
 [2021-04-03 17:05:20]: ***  [, Level 0]: 'Robertos paparo' has left the game
+[2021-04-03 17:05:29]: ***  [, Level 0]: [RUS] is on a killing spree with 5 blocks
+[2021-04-03 17:05:30]: ***  [, Level 0]: 'cHilLerDargon' entered and joined the game
+[2021-04-03 17:05:39]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 10 blocks
