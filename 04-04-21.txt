@@ -4933,3 +4933,7 @@
 [2021-04-04 06:09:39]: Fearless [FookinLads, Level 40]: wtf
 [2021-04-04 06:09:40]: SAUD [, Level 20]: Ghost.:
 [2021-04-04 06:09:40]: Fearless [FookinLads, Level 40]: C:
+[2021-04-04 06:09:44]: Andresss [Citrom, Level 1]: Nonoh: ?
+[2021-04-04 06:09:44]: ***  [, Level 0]: '(1)Isegrin' has left the game
+[2021-04-04 06:09:44]: Fearless [FookinLads, Level 40]: ERROR:  im pro see
+[2021-04-04 06:09:45]: Andresss [Citrom, Level 1]: Nonoh:
