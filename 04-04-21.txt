@@ -4315,3 +4315,5 @@
 [2021-04-04 05:12:28]: ***  [, Level 0]: New record: 2 minute(s) 33.46 second(s) better.
 [2021-04-04 05:12:47]: ***  [, Level 0]: 'ERROR' entered and joined the game
 [2021-04-04 05:12:47]: ***  [, Level 0]: 'Yatsu' has left the game
+[2021-04-04 05:12:55]: ***  [, Level 0]: 'ERROR.' entered and joined the game
+[2021-04-04 05:12:55]: Fearless [FookinLads, Level 40]: ERROR:  hey wanna police clean?
