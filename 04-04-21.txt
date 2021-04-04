@@ -1769,3 +1769,5 @@
 [2021-04-04 01:59:58]: (3)SAUD [, Level 20]: r\
 [2021-04-04 01:59:59]: ***  [, Level 0]: Boti. finished in: 0 minute(s) 17.56 second(s)
 [2021-04-04 01:59:59]: ***  [, Level 0]: New record: 2 minute(s) 15.30 second(s) better.
+[2021-04-04 02:00:02]: ***  [, Level 0]: 685. Boti. Time: 02:39.24, requested by Boti.
+[2021-04-04 02:00:05]: Boti. [.bad, Level 32]: de jó
