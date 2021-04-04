@@ -13326,3 +13326,4 @@
 [2021-04-04 15:46:47]: cup of tee [abh, Level 37]: bon a + tlm
 [2021-04-04 15:46:51]: ***  [, Level 0]: 'cup of tee 2' has left the game
 [2021-04-04 15:46:52]: ***  [, Level 0]: 'cup of tee' has left the game
+[2021-04-04 15:47:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
