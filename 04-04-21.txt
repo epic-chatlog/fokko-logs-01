@@ -9574,3 +9574,5 @@
 [2021-04-04 10:38:50]: ***  [, Level 0]: 'Clight.' entered and joined the game
 [2021-04-04 10:38:52]: Lucas [THECEPS, Level 34]: Clight!:
 [2021-04-04 10:38:58]: ♥TAKO♥ [, Level 24]: Clight!:
+[2021-04-04 10:39:05]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-04 10:39:07]: ♥TAKO♥ [, Level 24]: Clight!:
