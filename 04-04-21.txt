@@ -12441,3 +12441,8 @@
 [2021-04-04 14:04:39]: (2)ERROR [404, Level 40]: deawd
 [2021-04-04 14:04:43]: (2)ERROR [404, Level 40]: GOLD:
 [2021-04-04 14:04:48]: (2)ERROR [404, Level 40]: i dad
+[2021-04-04 14:04:50]: (2)ERROR [404, Level 40]: im bad
+[2021-04-04 14:04:54]: mamikral011 [, Level 26]: bb
+[2021-04-04 14:04:56]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-04 14:04:58]: ***  [, Level 0]: 'koro' would have timed out, but can use timeout protection now
+[2021-04-04 14:04:58]: ***  [, Level 0]: 'keø' would have timed out, but can use timeout protection now
