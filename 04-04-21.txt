@@ -174,3 +174,5 @@
 [2021-04-04 00:16:45]: PoliceTee [xSD7, Level 0]: Kezo: kek
 [2021-04-04 00:16:53]: (3)SAUD [, Level 0]: xD
 [2021-04-04 00:16:56]: (1)kais [, Level 58]: fak, pressed the wrong key and killed my 2 tees :(
+[2021-04-04 00:17:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-04 00:17:05]: x7|Flipper [xSD7, Level 14]: lag
