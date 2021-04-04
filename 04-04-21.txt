@@ -13847,3 +13847,4 @@
 [2021-04-04 16:52:46]: ***  [, Level 0]: 'Paayer' has left the game
 [2021-04-04 16:52:48]: x7|FayZoR [xSD7, Level 42]: go police ?
 [2021-04-04 16:53:20]: S Y T H N [iPro, Level 0]: пока !!
+[2021-04-04 16:54:50]: ***  [, Level 0]: 'S Y T H N' changed name to 'Λtlantis Ψ'
