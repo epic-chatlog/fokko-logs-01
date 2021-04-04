@@ -1771,3 +1771,6 @@
 [2021-04-04 01:59:59]: ***  [, Level 0]: New record: 2 minute(s) 15.30 second(s) better.
 [2021-04-04 02:00:02]: ***  [, Level 0]: 685. Boti. Time: 02:39.24, requested by Boti.
 [2021-04-04 02:00:05]: Boti. [.bad, Level 32]: de jó
+[2021-04-04 02:00:12]: Boti. [.bad, Level 32]: 17 ms
+[2021-04-04 02:00:17]: BC|Tixnix [BC, Level 33]: BulgarianTee: CHILLER HELPER NOOB
+[2021-04-04 02:00:21]: Boti. [.bad, Level 32]: endlesshook meg nincs
