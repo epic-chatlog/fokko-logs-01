@@ -13386,3 +13386,5 @@
 [2021-04-04 15:58:54]: ***  [, Level 0]: '❤FallDog❤' joined the game
 [2021-04-04 15:59:00]: ***  [, Level 0]: 'Nudelsaft c:"' entered and joined the game
 [2021-04-04 15:59:01]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-04 15:59:08]: ***  [, Level 0]: '❤FallDog❤' joined the spectators
+[2021-04-04 15:59:11]: ***  [, Level 0]: '❤FallDog❤' joined the game
