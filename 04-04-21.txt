@@ -1534,3 +1534,7 @@
 [2021-04-04 01:44:36]: (3)SAUD [, Level 20]: Cylox:  come he left
 [2021-04-04 01:44:39]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
 [2021-04-04 01:44:39]: ***  [, Level 0]: 'BC|Tixnix' finished the special race!
+[2021-04-04 01:44:43]: MADZO [FookinLads, Level 41]: rq
+[2021-04-04 01:44:44]: ***  [, Level 0]: 'MADZO' has left the game
+[2021-04-04 01:44:45]: ***  [, Level 0]: '[D] BC|Tixnix' finished the special race!
+[2021-04-04 01:44:49]: ***  [, Level 0]: 'Marcisten' has left the game
