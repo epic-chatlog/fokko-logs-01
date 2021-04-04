@@ -10119,3 +10119,6 @@
 [2021-04-04 11:22:01]: ChillerDragon.* [|*KoG*|, Level 41]: sec
 [2021-04-04 11:22:10]: ***  [, Level 0]: 'σмєтнιηg' has left the game
 [2021-04-04 11:22:11]: Kiøn1029 [.bad, Level 31]: szia
+[2021-04-04 11:22:16]: Marcisten [Helper, Level 0]: Kiøn1029: csak akkor segítek ha segítesz noéminek
+[2021-04-04 11:22:21]: ←   [, Level 0]: gfx_vsync 0
+[2021-04-04 11:22:21]: → Nudelsaft c: [FookinLads, Level 60]: executed following command: gfx_vsync 0
