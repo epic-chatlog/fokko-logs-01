@@ -12556,3 +12556,4 @@
 [2021-04-03 21:21:36]: Flupper [, Level 0]: yea
 [2021-04-03 21:21:41]: x7|zemer [xSD7, Level 37]: weqe: Arin said that he left
 [2021-04-03 21:21:48]: weqe [MNKY, Level 11]: lol i kicked him
+[2021-04-03 21:22:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
