@@ -3785,3 +3785,8 @@
 [2021-04-04 04:15:21]: ***  [, Level 0]: 'vlot1k3' has left the game
 [2021-04-04 04:15:23]: Isegrin [, Level 54]: niet
 [2021-04-04 04:15:25]: darkstar2 [, Level 17]: Cylox.♥: dude
+[2021-04-04 04:15:32]: darkstar2 [, Level 17]: Cylox.♥: u stole 5000?
+[2021-04-04 04:15:33]: ***  [, Level 0]: 'Fearless' entered and joined the game
+[2021-04-04 04:15:33]: ***  [, Level 0]: 'Fearless' has left the game
+[2021-04-04 04:15:35]: ***  [, Level 0]: 'Friendiship ;-)' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-04 04:15:35]: ***  [, Level 0]: '(1)Friendiship ;' has left the game (Too weak connection (not acked for 60 seconds))
