@@ -10731,3 +10731,6 @@
 [2021-04-04 12:16:48]: ***  [, Level 0]: 'bruh' entered and joined the game
 [2021-04-04 12:16:52]: ***  [, Level 0]: [D] mamikral011 finished in: 6 minute(s) 37.40 second(s)
 [2021-04-04 12:16:54]: ***  [, Level 0]: 'Axel' entered and joined the game
+[2021-04-04 12:16:57]: ***  [, Level 0]: 'Axel' has left the game
+[2021-04-04 12:16:58]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-04 12:17:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
