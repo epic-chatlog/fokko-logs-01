@@ -12207,3 +12207,4 @@
 [2021-04-04 13:34:53]: ***  [, Level 0]: '(1)NetFlix' has left the game
 [2021-04-04 13:34:54]: ***  [, Level 0]: 'NetFlix' has left the game
 [2021-04-04 13:35:14]: ***  [, Level 0]: '(2)NetFlix' has left the game
+[2021-04-04 13:35:19]: Fearless [Fookinlads, Level 40]: koro:  give portal :,(
