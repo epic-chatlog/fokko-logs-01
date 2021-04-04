@@ -7648,3 +7648,5 @@
 [2021-04-04 08:46:38]: mamikral011 [, Level 25]: Asta: okey bro
 [2021-04-04 08:46:42]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' changed name to 'said a tree'
 [2021-04-04 08:46:42]: ***  [, Level 0]: 'Isegrin' has left the game
+[2021-04-04 08:46:45]: ERROR [404, Level 73]: xDDDDD
+[2021-04-04 08:46:47]: ***  [, Level 0]: 'said a tree' changed name to 'TL|ŦƹƦ$ŦǾN'
