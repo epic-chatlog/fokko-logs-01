@@ -6184,3 +6184,10 @@
 [2021-04-04 07:36:18]: ERROR. [404, Level 56]: xD
 [2021-04-04 07:37:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-04 07:37:05]: Isegrin [, Level 54]: oyun krallı: fak of gay
+[2021-04-04 07:37:39]: ***  [, Level 0]: [D] BC|Tixnix finished in: 0 minute(s) 58.18 second(s)
+[2021-04-04 07:37:39]: ***  [, Level 0]: New record: 23.76 second(s) better.
+[2021-04-04 07:37:40]: BulgarianTee [xSD7, Level 0]: TOO MUCH GAYS
+[2021-04-04 07:37:41]: ***  [, Level 0]: '(1)Friendiship ;' has left the game
+[2021-04-04 07:37:42]: ***  [, Level 0]: 'Friendiship ;-)' has left the game
+[2021-04-04 07:37:43]: ***  [, Level 0]: '(1)Friendiship ;' has left the game
+[2021-04-04 07:37:46]: (1)ERROR [404, Level 47]: go rq
