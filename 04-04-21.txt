@@ -5870,3 +5870,7 @@
 [2021-04-04 07:04:13]: ***  [, Level 0]: 'santi uzum4k1' has left the game
 [2021-04-04 07:04:13]:   [, Level 0]: BulgarianTee: ERROR: E
 [2021-04-04 07:04:13]: ***  [, Level 0]: ERROR is on a killing spree with 5 blocks
+[2021-04-04 07:04:18]: ***  [, Level 0]: '(2)ERROR' changed name to 'Fearless'
+[2021-04-04 07:04:20]: ✯ |toxicdaddy [|Supressed, Level 24]: Ghost:
+[2021-04-04 07:04:20]:   [, Level 0]: Torento: Noémi[Đ]:
+[2021-04-04 07:04:23]: Fearless [Fookinlads, Level 40]: koro:  :c
