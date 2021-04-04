@@ -3381,3 +3381,6 @@
 [2021-04-04 03:47:56]: [D] ✯ |toxicd [|Supressed, Level 21]: (1)x7|FayZoR:
 [2021-04-04 03:47:58]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-04 03:47:59]: Pigie♥ [♥, Level 36]: Meetiteusz: <<
+[2021-04-04 03:48:02]: Pigie♥ [♥, Level 36]: ]
+[2021-04-04 03:48:05]: Pigie♥ [♥, Level 36]: Meetiteusz: <<<<<<<<<<<<
+[2021-04-04 03:48:10]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
