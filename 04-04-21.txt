@@ -1682,3 +1682,5 @@
 [2021-04-04 01:54:20]: Milky way [, Level 23]: kiøn1029:
 [2021-04-04 01:54:22]: [D] Rawad [, Level 2]: SAUD:  hook him here
 [2021-04-04 01:54:29]: (3)SAUD [, Level 20]: wait [D] Rawad
+[2021-04-04 01:54:33]: ***  [, Level 0]: '[D]Torento' entered and joined the game
+[2021-04-04 01:54:36]: BulgarianTee [xSD7, Level 38]: bruuh
