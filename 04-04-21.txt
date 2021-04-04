@@ -4224,3 +4224,7 @@
 [2021-04-04 05:02:03]: [D] mamikral011 [, Level 20]: seg why
 [2021-04-04 05:02:04]: Isegrin [, Level 54]: DADDY
 [2021-04-04 05:02:58]: ***  [, Level 0]: 'Virus' entered and joined the game
+[2021-04-04 05:02:59]: ***  [, Level 0]: 'Kezo' has left the game (Timeout)
+[2021-04-04 05:02:59]: ***  [, Level 0]: 'Tziys*' has left the game (Timeout)
+[2021-04-04 05:02:59]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-04 05:03:09]: [D] mamikral011 [, Level 20]: coprophile: Türksün demi
