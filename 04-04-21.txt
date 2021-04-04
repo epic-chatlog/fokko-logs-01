@@ -10813,3 +10813,8 @@
 [2021-04-04 12:21:50]: (1)kais [, Level 58]: ChillerDragon.*: did you know that Kirito tried to spike you earlier ?
 [2021-04-04 12:21:54]: |MıssOяchiĐ| [, Level 48]: ChillerDragon: STOOOOOOOOOOOP*
 [2021-04-04 12:21:54]: ChillerDragon [Chilli.*, Level 31]: (1)kais: I am currently afk.
+[2021-04-04 12:21:59]: ChillerDragon.* [|*KoG*|, Level 41]: classic kais why only try?
+[2021-04-04 12:22:00]: ChillerDragon [Chilli.*, Level 31]: |MıssOяchiĐ|: I am currently afk.
+[2021-04-04 12:22:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 12:22:02]: ChillerDragon [Chilli.*, Level 31]: aa
+[2021-04-04 12:22:04]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
