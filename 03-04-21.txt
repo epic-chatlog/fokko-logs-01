@@ -12632,3 +12632,4 @@
 [2021-04-03 21:31:22]: x7|Flipper [xSD7, Level 13]: not in a bad way
 [2021-04-03 21:31:31]: weqe [MNKY, Level 11]: okay lol
 [2021-04-03 21:31:48]: ***  [, Level 0]: 'SAUD' entered and joined the game
+[2021-04-03 21:32:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
