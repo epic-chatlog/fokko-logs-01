@@ -10547,3 +10547,6 @@
 [2021-04-04 12:00:24]: (1)cookie [, Level 0]: I like turtles.
 [2021-04-04 12:00:28]: ***  [, Level 0]: 'cup of tee' entered and joined the game
 [2021-04-04 12:00:31]: MieSlime [FookinLads, Level 43]: Kiøn1029:  fasr
+[2021-04-04 12:00:33]: MieSlime [FookinLads, Level 43]: Kiøn1029:  fast
+[2021-04-04 12:00:36]: [D] mamikral011 [, Level 20]: (1)kais:
+[2021-04-04 12:00:41]: [D] mamikral011 [, Level 20]: kais: pls portal
