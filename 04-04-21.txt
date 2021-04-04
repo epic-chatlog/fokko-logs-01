@@ -6228,3 +6228,5 @@
 [2021-04-04 07:41:15]: Torento [, Level 23]: oyun krallı: from the whole policy only block BC|Tixnix
 [2021-04-04 07:41:23]: Isegrin [, Level 54]: oyun krallı: FAK OFFF
 [2021-04-04 07:41:23]: ***  [, Level 0]: 'Samurai' entered and joined the game
+[2021-04-04 07:41:28]:   [, Level 0]: Samurai: hi
+[2021-04-04 07:41:30]: [D] BC|Tixnix [BC, Level 0]: Torento: yes
