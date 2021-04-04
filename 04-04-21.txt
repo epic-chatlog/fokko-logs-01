@@ -129,3 +129,4 @@
 [2021-04-04 00:12:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-04 00:12:05]: [D]Torento [, Level 0]: все
 [2021-04-04 00:12:19]: MORFY [, Level 28]: xd
+[2021-04-04 00:12:27]: ***  [, Level 0]: '(3)SAUD' entered and joined the game
