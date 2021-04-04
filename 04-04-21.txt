@@ -9628,3 +9628,5 @@
 [2021-04-04 10:43:44]: ♥TAKO♥ [, Level 24]: adamı kurtarcan salak
 [2021-04-04 10:43:46]: ♥TAKO♥ [, Level 24]: nyse yaw
 [2021-04-04 10:43:51]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-04 10:43:53]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-04 10:43:54]: ♥TAKO♥ [, Level 24]: [D] ✯ |toxicd:  help
