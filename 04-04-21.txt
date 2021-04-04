@@ -2083,3 +2083,5 @@
 [2021-04-04 02:17:36]: Boti. [.bad, Level 32]: GECI
 [2021-04-04 02:17:38]: ***  [, Level 0]: 'rayen' entered and joined the game
 [2021-04-04 02:17:45]: ChillerDragon [|*KoG*|, Level 44]: hm BulgarianTee
+[2021-04-04 02:17:55]: BulgarianTee [xSD7, Level 38]: A
+[2021-04-04 02:17:58]: BulgarianTee [xSD7, Level 38]: LAGGY Af
