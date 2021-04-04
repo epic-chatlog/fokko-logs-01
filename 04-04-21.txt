@@ -6085,3 +6085,6 @@
 [2021-04-04 07:22:46]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
 [2021-04-04 07:22:57]: ***  [, Level 0]: '[D] Punguin' has left the game
 [2021-04-04 07:22:57]: ***  [, Level 0]: 'Punguin' has left the game
+[2021-04-04 07:22:58]: sammy [cock, Level 0]: was macht man in diesem server
+[2021-04-04 07:22:59]: ***  [, Level 0]: 'Punguin' entered and joined the game
+[2021-04-04 07:22:59]: Isegrin [, Level 54]: Noémi[Đ]: :-D
