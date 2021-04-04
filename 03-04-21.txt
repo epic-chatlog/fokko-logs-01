@@ -12489,3 +12489,4 @@
 [2021-04-03 19:56:11]: ***  [, Level 0]: 'Zeepe' has left the game
 [2021-04-03 19:57:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-03 19:58:12]: ***  [, Level 0]: 'Larifari' has left the game
+[2021-04-03 20:02:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
