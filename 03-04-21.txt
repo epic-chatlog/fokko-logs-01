@@ -13534,3 +13534,5 @@
 [2021-04-03 23:53:38]: Kiøn1029 [.bad, Level 31]: okés
 [2021-04-03 23:53:39]: [D] Boti. [.bad, Level 27]: addig felveszek mindent
 [2021-04-03 23:55:30]: SAUD [, Level 0]: MORPHIN:  u STARTED IT
+[2021-04-03 23:55:36]: MORPHIN [, Level 37]: SAUD: u die
+[2021-04-03 23:55:36]: SAUD [, Level 0]: MORPHIN:  i trid;'
