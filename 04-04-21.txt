@@ -2074,3 +2074,5 @@
 [2021-04-04 02:17:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-04 02:17:04]: Kiøn1029 [.bad, Level 31]: playersnél
 [2021-04-04 02:17:04]: HeavyGeneral [FookinLads, Level 44]: ah
+[2021-04-04 02:17:15]: Boti. [.bad, Level 32]: hol pontosan
+[2021-04-04 02:17:21]: Kiøn1029 [.bad, Level 31]: figyelj
