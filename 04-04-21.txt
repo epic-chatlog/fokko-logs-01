@@ -3897,3 +3897,6 @@
 [2021-04-04 04:27:10]: ***  [, Level 0]: 'darkstar4' has left the game
 [2021-04-04 04:27:10]: ***  [, Level 0]: 'darkstar3' has left the game
 [2021-04-04 04:27:21]: [D] mamikral011 [, Level 20]: koro: why dont help?
+[2021-04-04 04:27:28]: ***  [, Level 0]: 'darkstar' entered and joined the game
+[2021-04-04 04:27:31]: (1)ChillerDrago [Chilli.*, Level 30]: aaaaa i suck
+[2021-04-04 04:27:32]: ***  [, Level 0]: 'darkstar' has left the game
