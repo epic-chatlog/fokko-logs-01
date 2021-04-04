@@ -13280,3 +13280,5 @@
 [2021-04-03 23:22:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-03 23:22:05]: ***  [, Level 0]: [D]Torento finished in: 6 minute(s) 29.96 second(s)
 [2021-04-03 23:22:44]: weqe [MNKY, Level 11]: is he ur friend boti
+[2021-04-03 23:22:47]: [D] Boti. [.bad, Level 27]: yes
+[2021-04-03 23:22:55]: [D] Boti. [.bad, Level 27]: good monke <3
