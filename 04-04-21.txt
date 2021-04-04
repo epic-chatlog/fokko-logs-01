@@ -1628,3 +1628,6 @@
 [2021-04-04 01:51:14]: BulgarianTee [xSD7, Level 38]: WTF
 [2021-04-04 01:51:20]: [D] Boti. [.bad, Level 0]: csak 1 dummy kell azt is majd kiléptetem
 [2021-04-04 01:51:20]: (3)SAUD [, Level 20]: whyyy Cylox.♥
+[2021-04-04 01:51:23]: ***  [, Level 0]: 'Cylox.♥' has left the game
+[2021-04-04 01:51:23]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-04 01:51:28]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
