@@ -1802,3 +1802,6 @@
 [2021-04-04 02:01:46]: BulgarianTee [xSD7, Level 38]: E
 [2021-04-04 02:01:57]: Boti. [.bad, Level 32]: de nem ment
 [2021-04-04 02:02:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-04 02:02:08]: Boti. [.bad, Level 32]: lenyomva volt a space ozt nem ment
+[2021-04-04 02:02:12]: BulgarianTee [xSD7, Level 38]: ChillerDragon:
+[2021-04-04 02:02:13]: Boti. [.bad, Level 32]: várj
