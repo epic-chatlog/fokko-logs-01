@@ -4098,3 +4098,4 @@
 [2021-04-04 04:45:51]: ***  [, Level 0]: '<-_->' changed name to 'ᅟᅟᅟ'
 [2021-04-04 04:46:06]: ***  [, Level 0]: '(1)ᅟᅟᅟᅟ' entered and joined the game
 [2021-04-04 04:46:17]: ***  [, Level 0]: '(1)ᅟᅟᅟᅟ' changed name to 'ᅟᅟ'
+[2021-04-04 04:46:35]: Rock [, Level 17]: kurama: тебя кинули
