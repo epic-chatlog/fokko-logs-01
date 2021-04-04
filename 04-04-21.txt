@@ -8140,3 +8140,7 @@
 [2021-04-04 09:07:52]: Kiøn1029 [.bad, Level 31]: what
 [2021-04-04 09:07:53]: ERROR. [404, Level 56]: ChillerDragon.*:  was los mit dir heute kein bock oder was
 [2021-04-04 09:07:56]:   [, Level 0]: ChillerDragon: short form is meg Kiøn1029 ? xd
+[2021-04-04 09:07:59]:   [, Level 0]: ChillerDragon: ne ERROR
+[2021-04-04 09:08:05]:   [, Level 0]: ChillerDragon: bin pazifist ERROR
+[2021-04-04 09:08:05]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
+[2021-04-04 09:08:09]: Kiøn1029 [.bad, Level 31]: most mit akar
