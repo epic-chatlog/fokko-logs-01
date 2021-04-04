@@ -13854,3 +13854,4 @@
 [2021-04-04 16:56:47]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [2021-04-04 16:56:47]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-04 16:56:53]: Swarfey [FookinLads, Level 0]: a
+[2021-04-04 16:57:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
