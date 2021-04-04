@@ -10784,3 +10784,7 @@
 [2021-04-04 12:20:39]: ***  [, Level 0]: 'cup of tee' entered and joined the game
 [2021-04-04 12:20:40]: kais [, Level 65]: Kirito: yeah
 [2021-04-04 12:20:41]: (1)Kirito [♥, Level 34]: kais: hahahahha xDDD
+[2021-04-04 12:20:46]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
+[2021-04-04 12:20:46]: ***  [, Level 0]: '✯ |toxicdaddy' has left the game
+[2021-04-04 12:20:49]: (1)kais [, Level 58]: RQ
+[2021-04-04 12:20:53]: (1)Kirito [♥, Level 34]: rq lmfao
