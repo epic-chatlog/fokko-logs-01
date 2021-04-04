@@ -2994,3 +2994,5 @@
 [2021-04-04 03:16:10]: ***  [, Level 0]: '(3)SAUD' has left the game (Timeout Protection over)
 [2021-04-04 03:16:14]: Rock [, Level 17]: я лох)
 [2021-04-04 03:16:25]: ***  [, Level 0]: ### 'WarHammer'' xd
+[2021-04-04 03:16:44]: ***  [, Level 0]: '(2)SAUD' has left the game
+[2021-04-04 03:16:44]: ***  [, Level 0]: 'SAUD' has left the game
