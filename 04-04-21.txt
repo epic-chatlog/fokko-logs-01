@@ -10426,3 +10426,6 @@
 [2021-04-04 11:50:23]: ***  [, Level 0]: 'Asta' entered and joined the game
 [2021-04-04 11:50:28]: [D] mamikral011 [, Level 0]: :D
 [2021-04-04 11:50:37]: [D] mamikral011 [, Level 0]: MieSlime: x7|FayZoR my best friend
+[2021-04-04 11:50:49]: cookie [, Level 0]: nooo deaf
+[2021-04-04 11:50:51]: cookie [, Level 0]: dead
+[2021-04-04 11:50:54]: cookie [, Level 0]: help
