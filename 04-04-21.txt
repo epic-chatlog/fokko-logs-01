@@ -10409,3 +10409,5 @@
 [2021-04-04 11:49:04]: ***  [, Level 0]: 'bob' has been muted for 60 seconds
 [2021-04-04 11:49:07]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-04 11:49:08]: MieSlime [FookinLads, Level 43]: ~DemoizL~:  att
+[2021-04-04 11:49:23]: x7|FayZoR [xSD7, Level 42]: weqe: u have laser ?
+[2021-04-04 11:49:26]: weqe [MNKY, Level 11]: no x7|FayZoR
