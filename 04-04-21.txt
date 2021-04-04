@@ -4345,3 +4345,5 @@
 [2021-04-04 05:15:42]: Torento [, Level 23]: im solo
 [2021-04-04 05:15:44]: coprophile [, Level 3]: ok
 [2021-04-04 05:15:46]: ♥TAKO♥ [, Level 24]: sry
+[2021-04-04 05:15:52]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
+[2021-04-04 05:15:58]: ***  [, Level 0]: '(1)ERROR.' entered and joined the game
