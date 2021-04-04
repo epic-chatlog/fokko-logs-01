@@ -8258,3 +8258,8 @@
 [2021-04-04 09:13:45]: ***  [, Level 0]: 'power2' entered and joined the game
 [2021-04-04 09:13:47]: BulgarianTee [xSD7, Level 0]: ERROR: if people again not happy he might eventually remove id
 [2021-04-04 09:13:49]: Killua [FookinLads, Level 37]: BulgarianTee: u aint a threat -> people dont try vs u and do risky things and die but dont care cus its 1 min to retake you -> they die -> u are dumb + they die = u think they dead without bonuses
+[2021-04-04 09:13:50]: ERROR [404, Level 73]: BulgarianTee:  he nerf taser endless inf. like he said
+[2021-04-04 09:13:50]:   [, Level 0]: ChillerDragon: i insta rq when i cant get into police ERROR ?
+[2021-04-04 09:13:53]: BulgarianTee [xSD7, Level 0]: ERROR: he already proposed removing all bonuses
+[2021-04-04 09:13:54]: ERROR [404, Level 73]: BulgarianTee:  he wont
+[2021-04-04 09:13:57]: BulgarianTee [xSD7, Level 0]: ERROR: and just wants a replacement
