@@ -12698,3 +12698,6 @@
 [2021-04-04 14:37:05]: Shiro liar [, Level 40]: atlantis
 [2021-04-04 14:37:06]: ***  [, Level 0]: 'Λtlantis Ψ' has left the game
 [2021-04-04 14:37:13]: Shiro liar [, Level 40]: bad
+[2021-04-04 14:37:36]: Isegrin [, Level 54]: AAA
+[2021-04-04 14:37:38]: [D] Shiro liar [FookinLads, Level 0]: selling my account
+[2021-04-04 14:37:40]: Isegrin [, Level 54]: vittu
