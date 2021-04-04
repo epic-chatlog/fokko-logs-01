@@ -12243,3 +12243,6 @@
 [2021-04-03 17:26:49]: ᅟᅟᅟᅟ [, Level 7]: teee:  pls
 [2021-04-03 17:26:53]: teee [, Level 0]: i have cancer bro
 [2021-04-03 17:26:54]: teee [, Level 0]: let me
+[2021-04-03 17:27:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-03 17:27:06]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 5 blocks
+[2021-04-03 17:27:11]: ***  [, Level 0]: 'ᅟᅟᅟ#ALL' changed name to 'сытчн'
