@@ -9297,3 +9297,4 @@
 [2021-04-04 10:16:36]: PoliceTee [xSD7, Level 25]: Kiøn1029: .bad = x7 ally
 [2021-04-04 10:16:41]: Kiøn1029 [.bad, Level 31]: I like turtles.
 [2021-04-04 10:16:45]: mami [, Level 0]: I like turtles.
+[2021-04-04 10:17:00]: ***  [, Level 0]: x7|zemer is on a killing spree with 10 blocks
