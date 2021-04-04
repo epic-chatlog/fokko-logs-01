@@ -12149,3 +12149,6 @@
 [2021-04-03 17:07:28]: x7|zemer [xSD7, Level 0]: P
 [2021-04-03 17:07:35]: S Y T H N#ALL [iPro, Level 37]: t
 [2021-04-03 17:07:45]: S Y T H N#ALL [iPro, Level 37]: nein
+[2021-04-03 17:07:53]: S Y T H N#ALL [iPro, Level 37]: ohne endless
+[2021-04-03 17:07:58]: S Y T H N#ALL [iPro, Level 37]: only hammer  pistotl
+[2021-04-03 17:08:00]: S Y T H N#ALL [iPro, Level 37]: only hammer  pistol
