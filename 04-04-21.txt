@@ -4264,3 +4264,9 @@
 [2021-04-04 05:07:17]: ***  [, Level 0]: 'lolpoep' entered and joined the game
 [2021-04-04 05:07:36]: Lucas [THECEPS, Level 34]: Rock: th
 [2021-04-04 05:07:37]: Lucas [THECEPS, Level 34]: thx
+[2021-04-04 05:07:42]: [D] mamikral011 [, Level 20]: ✯ |toxicdaddy: nice
+[2021-04-04 05:07:45]: (1)Rock [, Level 12]: Lucas: np bro)
+[2021-04-04 05:07:51]: ***  [, Level 0]: 'ChillerDragon' has left the game (Timeout)
+[2021-04-04 05:07:51]: ***  [, Level 0]: 'ChillerDragon.*' has left the game (Timeout)
+[2021-04-04 05:07:51]: ***  [, Level 0]: '(2)ChillerDragon' would have timed out, but can use timeout protection now
+[2021-04-04 05:07:51]: ***  [, Level 0]: '(1)ChillerDragon' would have timed out, but can use timeout protection now
