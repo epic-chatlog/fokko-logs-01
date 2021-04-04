@@ -4261,3 +4261,4 @@
 [2021-04-04 05:06:48]: Rock [, Level 17]: wait
 [2021-04-04 05:07:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-04 05:07:06]: Rock [, Level 17]: Lucas: then go on edge
+[2021-04-04 05:07:17]: ***  [, Level 0]: 'lolpoep' entered and joined the game
