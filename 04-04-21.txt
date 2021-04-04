@@ -8621,3 +8621,4 @@
 [2021-04-04 09:31:28]: ***  [, Level 0]: 'Cylox.' has left the game
 [2021-04-04 09:31:28]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-04 09:31:29]: BC|Tixnix [BC, Level 33]: Cylox: ex
+[2021-04-04 09:31:40]: (2)ChillerDrago [Chilli.*, Level 44]: wieso is der denn so teuer was sind denn da die specs ERROR
