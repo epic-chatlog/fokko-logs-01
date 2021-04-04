@@ -886,3 +886,6 @@
 [2021-04-04 01:06:07]: ***  [, Level 0]: '[INFO]' has left the game
 [2021-04-04 01:06:16]: weqe [MNKY, Level 11]: BulgarianTee: u need anything before i leave brother
 [2021-04-04 01:06:16]: BulgarianTee [xSD7, Level 38]: weqe: go help x7|TimePause ->
+[2021-04-04 01:06:20]: weqe [MNKY, Level 11]: where BulgarianTee
+[2021-04-04 01:06:23]: BulgarianTee [xSD7, Level 38]: weqe: ->
+[2021-04-04 01:06:29]: BulgarianTee [xSD7, Level 38]: weqe: thx XD
