@@ -12215,3 +12215,7 @@
 [2021-04-04 13:35:53]: BC|Tixnix [BC, Level 33]: cσκтнıпɢ:
 [2021-04-04 13:36:01]: ***  [, Level 0]: 'Kirito' has left the game
 [2021-04-04 13:36:04]: nobody [, Level 39]: rq
+[2021-04-04 13:36:09]: ***  [, Level 0]: '(2)Kirito' has left the game
+[2021-04-04 13:36:09]: ***  [, Level 0]: '(1)Kirito' changed name to 'Kirito'
+[2021-04-04 13:36:12]: ***  [, Level 0]: 'Kirito' has left the game
+[2021-04-04 13:36:17]: ***  [, Level 0]: x7|KshKsh99 finished in: 0 minute(s) 54.44 second(s)
