@@ -9422,3 +9422,5 @@
 [2021-04-04 10:25:50]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-04 10:25:52]: ✯ |toxicdaddy [|Supressed, Level 24]: SAUD: give me u rifel
 [2021-04-04 10:25:55]: ***  [, Level 0]: 'rayen' has left the game
+[2021-04-04 10:26:16]: ***  [, Level 0]: x7|zemer is on a killing spree with 15 blocks
+[2021-04-04 10:26:19]: SAUD [, Level 21]: ✯ |toxicdaddy: fuck off
