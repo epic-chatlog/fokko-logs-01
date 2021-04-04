@@ -12939,3 +12939,6 @@
 [2021-04-03 22:19:39]: Flupper [, Level 0]: when i wake up
 [2021-04-03 22:19:47]: SAUD [, Level 20]: ok hust text me dis
 [2021-04-03 22:19:52]: Flupper [, Level 0]: whats ur disd
+[2021-04-03 22:19:56]: SAUD [, Level 20]: u have it
+[2021-04-03 22:19:58]: Flupper [, Level 0]: WAIT
+[2021-04-03 22:19:59]: Flupper [, Level 0]: XD
