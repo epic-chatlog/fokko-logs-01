@@ -9405,3 +9405,5 @@
 [2021-04-04 10:24:44]: mami [, Level 0]: ffffffff
 [2021-04-04 10:24:50]: ***  [, Level 0]: WarHammer finished in: 6 minute(s) 10.28 second(s)
 [2021-04-04 10:24:50]: ***  [, Level 0]: New record: 2 minute(s) 10.12 second(s) better.
+[2021-04-04 10:24:56]: PoliceTee [xSD7, Level 25]: E
+[2021-04-04 10:24:58]: ***  [, Level 0]: WarHammer' finished in: 5 minute(s) 34.12 second(s)
