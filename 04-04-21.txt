@@ -6033,3 +6033,5 @@
 [2021-04-04 07:14:56]: [D] Punguin [, Level 0]: Nonoh: hol vagy?
 [2021-04-04 07:15:15]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
 [2021-04-04 07:15:17]: ERROR. [404, Level 56]: omg fuck off
+[2021-04-04 07:15:24]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
+[2021-04-04 07:15:26]: ***  [, Level 0]: (1)Λtlantis Ψ is on a killing spree with 5 blocks
