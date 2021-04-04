@@ -7654,3 +7654,5 @@
 [2021-04-04 08:46:59]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-04 08:47:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-04 08:47:04]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
+[2021-04-04 08:47:20]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-04 08:47:26]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: ChillerDragon.*: n wor
