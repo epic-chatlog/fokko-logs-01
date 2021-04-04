@@ -5824,3 +5824,6 @@
 [2021-04-04 07:01:36]:   [, Level 0]: Falco642: reset
 [2021-04-04 07:01:43]:   [, Level 0]: BulgarianTee: E
 [2021-04-04 07:01:47]: Punguin [HunClass, Level 0]: Nonoh: van nalam money
+[2021-04-04 07:01:57]: [D] Punguin [, Level 0]: jer
+[2021-04-04 07:02:00]: Noémi[Đ] [citrom, Level 32]: Punguin: help Torento
+[2021-04-04 07:02:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
