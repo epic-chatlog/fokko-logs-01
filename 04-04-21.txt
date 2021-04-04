@@ -8643,3 +8643,8 @@
 [2021-04-04 09:32:46]: BC|Tixnix [BC, Level 33]: mamikral011: i have 20k XD
 [2021-04-04 09:32:46]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
 [2021-04-04 09:32:48]: mamikral011 [, Level 26]: ok
+[2021-04-04 09:32:50]: ERROR. [404, Level 56]: (2)ChillerDrago:  freebsd braucht ein bisschen mehr (1)ChillerDrago  als debian denke ich
+[2021-04-04 09:32:54]: mamikral011 [, Level 26]: BC|Tixnix: 20k ok
+[2021-04-04 09:32:55]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[2021-04-04 09:32:56]: ERROR. [404, Level 56]: kenne mich mit debian nicht so aus
+[2021-04-04 09:32:58]: ***  [, Level 0]: 'Clight' entered and joined the game
