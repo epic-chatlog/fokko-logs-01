@@ -4054,3 +4054,6 @@
 [2021-04-04 04:41:26]: ビール|Zero [Drunks, Level 27]: ;lb
 [2021-04-04 04:41:27]: ビール|Zero [Drunks, Level 27]: ща
 [2021-04-04 04:41:30]: Kezo [FookinLads, Level 41]: mamikral011: yani sinirlenip oyundan çıktı gibi bişey
+[2021-04-04 04:41:58]: [D] mamikral011 [, Level 20]: Kezo: ab
+[2021-04-04 04:42:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 04:42:08]: [D] mamikral011 [, Level 20]: Kezo: düşmanmı
