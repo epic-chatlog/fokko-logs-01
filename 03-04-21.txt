@@ -12445,3 +12445,4 @@
 [2021-04-03 18:30:20]: ***  [, Level 0]: 'Hurricaɴe' has left the game
 [2021-04-03 18:30:56]: ***  [, Level 0]: 'sun.slow(y)' has left the game
 [2021-04-03 18:32:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-03 18:37:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
