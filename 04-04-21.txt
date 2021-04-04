@@ -4410,3 +4410,5 @@
 [2021-04-04 05:21:32]: ***  [, Level 0]: ᅟᅟᅟᅟ finished in: 8 minute(s) 52.78 second(s)
 [2021-04-04 05:21:32]: ***  [, Level 0]: ᅟᅟᅟ finished in: 8 minute(s) 57.78 second(s)
 [2021-04-04 05:21:32]: ***  [, Level 0]: 'ᅟᅟᅟ' finished the special race!
+[2021-04-04 05:21:42]: Fearless [FookinLads, Level 40]: 5 day? :D
+[2021-04-04 05:21:45]: ᅟᅟᅟᅟ [, Level 39]: ERROR:
