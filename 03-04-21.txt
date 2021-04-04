@@ -12665,3 +12665,5 @@
 [2021-04-03 21:35:01]: SAUD [, Level 0]: weqe:  asal bs
 [2021-04-03 21:35:07]: x7|zemer [xSD7, Level 37]: SAUD:Weed??
 [2021-04-03 21:35:07]: SAUD [, Level 0]: weqe:  al3mr klh
+[2021-04-03 21:35:14]: weqe [MNKY, Level 11]: 7bebe ya 3'ale SAUD
+[2021-04-03 21:35:17]: SAUD [, Level 0]: x7|zemer:  coc
