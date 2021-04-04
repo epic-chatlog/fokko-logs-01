@@ -5860,3 +5860,7 @@
 [2021-04-04 07:03:44]: ERROR [404, Level 73]: power2:  isnt my dummy
 [2021-04-04 07:03:50]:   [, Level 0]: BulgarianTee: ERROR: chiller let me save heavy so i copy his skin :(
 [2021-04-04 07:03:51]: power2 [TrRShClNrRs, Level 0]: imposter :o
+[2021-04-04 07:03:54]:   [, Level 0]: BulgarianTee: ERROR: u too :D?
+[2021-04-04 07:04:02]:   [, Level 0]: Number1: hm
+[2021-04-04 07:04:02]: (2)ERROR [404, Level 40]: bad
+[2021-04-04 07:04:03]: (2)ERROR [404, Level 40]: xd
