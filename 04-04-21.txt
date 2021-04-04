@@ -7113,3 +7113,5 @@
 [2021-04-04 08:20:03]: ***  [, Level 0]: 'Sky-' entered and joined the game
 [2021-04-04 08:20:05]: ***  [, Level 0]: 'MieSlime' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-04 08:20:05]: ***  [, Level 0]: 'Asta' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-04 08:20:13]: kurama [, Level 8]: Rock: бот
+[2021-04-04 08:20:17]:   [, Level 0]: GODLIKe.: x7|FayZoR: ty
