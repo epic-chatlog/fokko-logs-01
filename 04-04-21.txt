@@ -2463,3 +2463,5 @@
 [2021-04-04 02:36:00]: ***  [, Level 0]: 'PoliceTee' has left the game
 [2021-04-04 02:36:00]: ***  [, Level 0]: 'BulgarianTee' has left the game
 [2021-04-04 02:36:05]: ChillerDragon.* [|*KoG*|, Level 41]: xd Kiøn1029
+[2021-04-04 02:36:17]: Kiøn1029 [.bad, Level 31]: ChillerDragon.*: you say to us meg
+[2021-04-04 02:36:18]: ChillerDragon.* [Chilli.*, Level 41]: join ur conversation Kiøn1029
