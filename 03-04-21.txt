@@ -13517,3 +13517,4 @@
 [2021-04-03 23:52:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-03 23:52:02]: Kiøn1029 [.bad, Level 31]: még alszik biztos
 [2021-04-03 23:52:04]: [D] Boti. [.bad, Level 27]: most tanul járni
+[2021-04-03 23:52:09]: [D] Boti. [.bad, Level 27]: azaz
