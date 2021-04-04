@@ -369,3 +369,4 @@
 [2021-04-04 00:32:13]: x7|Flipper [xSD7, Level 14]: oops
 [2021-04-04 00:32:13]: ***  [, Level 0]: '(3)kais' entered and joined the game
 [2021-04-04 00:32:20]: MORPHIN [, Level 37]: пошли в полис
+[2021-04-04 00:32:40]: comic [comically, Level 12]: MORPHIN: HHHHHHHHHH
