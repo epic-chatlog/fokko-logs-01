@@ -1923,3 +1923,8 @@
 [2021-04-04 02:08:53]: ***  [, Level 0]: 'Keø' entered and joined the game
 [2021-04-04 02:09:00]: ***  [, Level 0]: ### 'WarHammer' SuTuFU
 [2021-04-04 02:09:03]: WarHammer [, Level 26]: AA
+[2021-04-04 02:09:07]: ChillerDragon [|*KoG*|, Level 44]: meg WarHammer
+[2021-04-04 02:09:07]: BC|kakashi [BC, Level 0]: [D] ✯ |toxicd:
+[2021-04-04 02:09:07]: ***  [, Level 0]: '[D] Boti.' has left the game
+[2021-04-04 02:09:08]: [D] BC|Tixnix [BC, Level 25]: HeavyGeneral:
+[2021-04-04 02:09:12]: WarHammer [, Level 26]: [D] BC|Tixnix:  WRONG KEY
