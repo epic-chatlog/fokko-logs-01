@@ -1675,3 +1675,7 @@
 [2021-04-04 01:54:03]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
 [2021-04-04 01:54:05]: TimePause's nub [xSD7, Level 13]: BulgarianTee: its *almost* the same
 [2021-04-04 01:54:06]: ***  [, Level 0]: 'P4Pyr0s' has left the game
+[2021-04-04 01:54:09]: (3)SAUD [, Level 20]: x7|TimePause:
+[2021-04-04 01:54:10]: [D] Rawad [, Level 2]: SAUD:  come
+[2021-04-04 01:54:11]: Boti. [.bad, Level 32]: gyer
+[2021-04-04 01:54:14]: BulgarianTee [xSD7, Level 38]: TimePause's nub: barely any difference
