@@ -4365,3 +4365,5 @@
 [2021-04-04 05:17:06]: [D] ✯ |toxicd [|Supressed, Level 21]: Ghost:
 [2021-04-04 05:17:07]: ♥TAKO♥ [, Level 24]: mamikral011:  olm dünden beri kapatmadım oyunu tabi var
 [2021-04-04 05:17:11]: ***  [, Level 0]: 'hhh3' entered and joined the game
+[2021-04-04 05:17:17]: [D] mamikral011 [, Level 20]: ♥TAKO♥: abi beni inf jump a gidek
+[2021-04-04 05:17:24]: Fearless [FookinLads, Level 40]: ERROR:  inf jump?
