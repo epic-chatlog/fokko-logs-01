@@ -12320,3 +12320,4 @@
 [2021-04-03 17:44:35]: УБИВАТЬ! [, Level 0]: sun.slow(y): by
 [2021-04-03 17:44:40]: sun.slow(y) [sunrise., Level 35]: ez nub
 [2021-04-03 17:44:43]: УБИВАТЬ! [, Level 0]: xax
+[2021-04-03 17:45:10]: ***  [, Level 0]: 'cHilLerDargon' has left the game
