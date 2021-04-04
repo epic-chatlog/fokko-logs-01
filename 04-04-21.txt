@@ -5927,3 +5927,6 @@
 [2021-04-04 07:07:04]: Punguin [HunClass, Level 0]: mih?
 [2021-04-04 07:07:06]: Punguin [HunClass, Level 0]: mih
 [2021-04-04 07:07:07]: Falco642 [, Level 0]: and it will give you extra money
+[2021-04-04 07:07:11]: Number1 [unspeedrun, Level 0]: i said it
+[2021-04-04 07:07:13]: Number1 [unspeedrun, Level 0]: it didn't owrk
+[2021-04-04 07:07:17]: ***  [, Level 0]: Punguin finished in: 10 minute(s) 19.36 second(s)
