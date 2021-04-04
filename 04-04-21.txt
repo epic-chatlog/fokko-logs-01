@@ -6074,3 +6074,6 @@
 [2021-04-04 07:20:20]: (1)Kirito [♥, Level 34]: ✯ |toxicdaddy:  das dauert ewig
 [2021-04-04 07:20:57]: oyun krallı [, Level 11]: (1)ERROR.:  help
 [2021-04-04 07:21:29]: (1)Kirito [♥, Level 34]: ✯ |toxicdaddy:  schaffst du das race hier?
+[2021-04-04 07:22:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-04 07:22:01]: (1)Kirito [♥, Level 34]: OH FUCK
+[2021-04-04 07:22:09]: [D] ✯ |toxicd [|Supressed, Level 21]: (1)Kirito: WIESO
