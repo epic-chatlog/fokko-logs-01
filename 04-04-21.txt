@@ -3723,3 +3723,6 @@
 [2021-04-04 04:09:11]: ***  [, Level 0]: 'Kezo' changed name to 'Tziys*'
 [2021-04-04 04:09:11]: ***  [, Level 0]: 'MADZO' changed name to 'Kezo'
 [2021-04-04 04:09:16]: Rock [, Level 17]: ДЕБИЛ
+[2021-04-04 04:09:22]: kurama [, Level 7]: я тупой
+[2021-04-04 04:09:24]: ビール|Zero [Drunks, Level 27]: +
+[2021-04-04 04:09:25]: kurama [, Level 7]: я туплй
