@@ -5263,3 +5263,5 @@
 [2021-04-04 06:29:01]: ***  [, Level 0]: '[D] mamikral011' has left the game
 [2021-04-04 06:29:01]: ***  [, Level 0]: 'mamikral011' has left the game
 [2021-04-04 06:29:02]: Punguin [HunClass, Level 0]: ?
+[2021-04-04 06:29:07]: Maatiteusz [TrRShClNrRs, Level 35]: Fearless: hi
+[2021-04-04 06:29:12]: Nonoh [citrom, Level 40]: Flupper: ki vagy?
