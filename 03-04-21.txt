@@ -12540,3 +12540,4 @@
 [2021-04-03 21:15:44]: ***  [, Level 0]: 'Ðeathscyth' has left the game
 [2021-04-03 21:17:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-03 21:18:05]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-03 21:19:34]: x7|zemer [xSD7, Level 0]: weqe: ???
