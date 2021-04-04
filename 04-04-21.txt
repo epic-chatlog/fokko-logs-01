@@ -8978,3 +8978,6 @@
 [2021-04-04 09:53:18]: ***  [, Level 0]: 'Super dwarf' joined the game
 [2021-04-04 09:53:19]: ***  [, Level 0]: Pigie♥ is on a killing spree with 5 blocks
 [2021-04-04 09:53:21]:   [, Level 0]: (2)ChillerDragon: gogogo x7|zemer !
+[2021-04-04 09:53:24]: Pigie♥ [♥, Level 36]: ERROR: teamwork
+[2021-04-04 09:53:24]: x7|zemer [xSD7, Level 37]: ERROR: Gayy taser player
+[2021-04-04 09:53:32]: ERROR [404, Level 73]: x7|zemer:  tf u used it aswell xDDDDD
