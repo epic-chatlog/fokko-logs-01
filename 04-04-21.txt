@@ -9325,3 +9325,5 @@
 [2021-04-04 10:19:06]: ***  [, Level 0]: 'any' entered and joined the game
 [2021-04-04 10:19:07]: (2)ChillerDrago [|*KoG*|, Level 44]: xD
 [2021-04-04 10:19:10]:   [, Level 0]: any: hi ERROR
+[2021-04-04 10:19:21]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-04 10:19:21]: x7|zemer [xSD7, Level 37]: (
