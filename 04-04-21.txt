@@ -13353,3 +13353,5 @@
 [2021-04-04 15:50:19]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-04 15:50:20]: Shiro. [Whɪтє, Level 42]: wat.
 [2021-04-04 15:50:22]: ***  [, Level 0]: 'ist ein Noob' entered and joined the game
+[2021-04-04 15:50:38]: ***  [, Level 0]: 'Paayer' entered and joined the game
+[2021-04-04 15:51:02]: ***  [, Level 0]: 'Paayer' has left the game
