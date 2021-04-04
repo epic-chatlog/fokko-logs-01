@@ -8862,3 +8862,6 @@
 [2021-04-04 09:47:55]: GameOver [Vodka, Level 0]: help
 [2021-04-04 09:48:03]:   [, Level 0]: x7|zemer: Nudelsaft c::
 [2021-04-04 09:48:04]:   [, Level 0]: Nudelsaft c:: (2)ChillerDrago: {\"username\": \"%s\", \"embeds\": [{ %s\"title\": \"`%s%s`\", \"description\": \"%s\"}]}
+[2021-04-04 09:48:06]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: x7|zemer not come ?
+[2021-04-04 09:48:08]: GameOver [Vodka, Level 0]: help
+[2021-04-04 09:48:13]:   [, Level 0]: (2)ChillerDragon: is das n edited client Nudelsaft c: ? der mit libcurl n request macht oder wie
