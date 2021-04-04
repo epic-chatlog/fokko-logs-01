@@ -9625,3 +9625,6 @@
 [2021-04-04 10:43:18]: ***  [, Level 0]: 'Neutral' has left the game
 [2021-04-04 10:43:27]: mami [, Level 0]: help mami
 [2021-04-04 10:43:27]: ***  [, Level 0]: 'Maatiteusz' has left the game
+[2021-04-04 10:43:44]: ♥TAKO♥ [, Level 24]: adamı kurtarcan salak
+[2021-04-04 10:43:46]: ♥TAKO♥ [, Level 24]: nyse yaw
+[2021-04-04 10:43:51]: ***  [, Level 0]: 'Swarfey' entered and joined the game
