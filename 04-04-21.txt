@@ -8707,3 +8707,5 @@
 [2021-04-04 09:36:50]: (1)ERROR [404, Level 47]: eine gute woche ist, nehmen wir mal so 3k ein.
 [2021-04-04 09:36:57]: (1)ERROR [404, Level 47]: sonst 1-2
 [2021-04-04 09:37:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-04 09:37:07]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: ?
+[2021-04-04 09:37:10]:   [, Level 0]: Pigie♥: Killua: :(
