@@ -9412,3 +9412,6 @@
 [2021-04-04 10:25:10]: ビール|Zero [Drunks, Level 27]: any:
 [2021-04-04 10:25:12]: PoliceTee [xSD7, Level 25]: x7|zemer:
 [2021-04-04 10:25:14]: x7|FayZoR [xSD7, Level 42]: any: t'aime ma nouvelle équipe ?
+[2021-04-04 10:25:30]: [D] BC|Tixnix [BC, Level 10]: x7|zemer:
+[2021-04-04 10:25:30]: ***  [, Level 0]: 'Lucas' has left the game
+[2021-04-04 10:25:37]: bob [, Level 36]: PoliceTee: didnt  swear
