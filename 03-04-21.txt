@@ -12885,3 +12885,4 @@
 [2021-04-03 22:06:37]: SAUD [, Level 20]: woww
 [2021-04-03 22:06:39]: ***  [, Level 0]: 'Wheels.' entered and joined the game
 [2021-04-03 22:06:52]: x7|Flipper [xSD7, Level 13]: portal
+[2021-04-03 22:07:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
