@@ -3694,3 +3694,6 @@
 [2021-04-04 04:06:30]: ***  [, Level 0]: 'haxxless tee' changed name to 'Spec|Ecl'
 [2021-04-04 04:06:50]: ***  [, Level 0]: ChillerDragon's killing spree was ended by koro (12 blocks)
 [2021-04-04 04:06:50]: ***  [, Level 0]: 'Ghost.' entered and joined the game
+[2021-04-04 04:06:54]: Isegrin [, Level 54]: lolpoep: niga?
+[2021-04-04 04:06:55]: [D] BC|kakashi [BC, Level 13]: Rock:  can i go?
+[2021-04-04 04:07:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
