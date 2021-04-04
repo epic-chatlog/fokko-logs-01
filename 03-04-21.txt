@@ -12484,3 +12484,4 @@
 [2021-04-03 19:47:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-03 19:47:14]: HΛVΛ [, Level 17]: MLG_PRO:
 [2021-04-03 19:52:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-03 19:55:32]: ***  [, Level 0]: 'Larifari' entered and joined the game
