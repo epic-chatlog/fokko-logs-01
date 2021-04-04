@@ -10123,3 +10123,6 @@
 [2021-04-04 11:22:21]: ←   [, Level 0]: gfx_vsync 0
 [2021-04-04 11:22:21]: → Nudelsaft c: [FookinLads, Level 60]: executed following command: gfx_vsync 0
 [2021-04-04 11:22:30]: ***  [, Level 0]: '(3)ChillerDragon' has left the game
+[2021-04-04 11:22:41]: ***  [, Level 0]: '(3)ChillerDragon' entered and joined the game
+[2021-04-04 11:22:41]: Nudelsaft c: [FookinLads, Level 60]: ohh sounds
+[2021-04-04 11:22:42]: Nudelsaft c: [FookinLads, Level 60]: xd
