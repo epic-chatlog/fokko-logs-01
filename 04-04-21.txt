@@ -12846,3 +12846,6 @@
 [2021-04-04 14:51:43]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
 [2021-04-04 14:51:50]: x7|FayZoR [xSD7, Level 42]: x7|zemer: hi
 [2021-04-04 14:51:54]: Isegrin [, Level 54]: Shiro liar: maybe he had a bad day in school
+[2021-04-04 14:52:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-04 14:52:01]: Isegrin [, Level 54]: or work if he;s boomer ;_d
+[2021-04-04 14:52:08]: [D] Shiro liar [FookinLads, Level 0]: Isegrin:  its not matter to brake our promise
