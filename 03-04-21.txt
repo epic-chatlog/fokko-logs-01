@@ -12744,3 +12744,5 @@
 [2021-04-03 21:43:38]: SAUD [, Level 0]: hey
 [2021-04-03 21:43:48]: SAUD [, Level 0]: u lied to me xD
 [2021-04-03 21:43:53]: Flupper [, Level 0]: when
+[2021-04-03 21:44:00]: SAUD [, Level 0]: yesterday
+[2021-04-03 21:44:07]: SAUD [, Level 0]: u told the plot was urs
