@@ -11285,3 +11285,6 @@
 [2021-04-04 12:45:28]: Isegrin [, Level 54]: Swarfey: hilfe
 [2021-04-04 12:45:29]: ***  [, Level 0]: 'cookie' has left the game
 [2021-04-04 12:45:32]: ***  [, Level 0]: 'Flick' has left the game
+[2021-04-04 12:45:37]: Nudelsaft c: [FookinLads, Level 60]: Isegrin: espanôl
+[2021-04-04 12:45:42]: Isegrin [, Level 54]: Nudelsaft c:: Si
+[2021-04-04 12:45:45]: x7|Flipper [xSD7, Level 14]: war
