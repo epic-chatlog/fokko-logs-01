@@ -3157,3 +3157,7 @@
 [2021-04-04 03:31:52]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' entered and joined the game
 [2021-04-04 03:32:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-04 03:32:21]: ***  [, Level 0]: 'Katz' entered and joined the game
+[2021-04-04 03:32:33]: ***  [, Level 0]: Meetiteusz finished in: 1 minute(s) 41.32 second(s)
+[2021-04-04 03:32:33]: ***  [, Level 0]: New record: 38.90 second(s) better.
+[2021-04-04 03:32:33]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 45.54 second(s)
+[2021-04-04 03:32:42]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
