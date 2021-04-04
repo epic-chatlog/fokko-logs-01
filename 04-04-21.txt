@@ -3196,3 +3196,6 @@
 [2021-04-04 03:35:07]: kurama [, Level 7]: 1
 [2021-04-04 03:35:08]: kurama [, Level 7]: 2
 [2021-04-04 03:35:15]: ***  [, Level 0]: 'lolpoep' entered and joined the game
+[2021-04-04 03:35:21]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-04 03:35:24]: kurama [, Level 7]: 1:0
+[2021-04-04 03:35:29]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
