@@ -13335,3 +13335,5 @@
 [2021-04-03 23:28:26]: [D] Boti. [.bad, Level 27]: you are monke
 [2021-04-03 23:28:29]: [D] Boti. [.bad, Level 27]: still pet
 [2021-04-03 23:28:44]: [D] Boti. [.bad, Level 27]: you can be our pet
+[2021-04-03 23:28:50]: weqe [MNKY, Level 11]: no wtf
+[2021-04-03 23:28:56]: [D] Boti. [.bad, Level 27]: ok then
