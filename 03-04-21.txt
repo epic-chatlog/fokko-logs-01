@@ -12111,3 +12111,4 @@
 [2021-04-03 17:01:49]: S Y T H N#ALL [iPro, Level 37]: ez   nab
 [2021-04-03 17:02:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-03 17:03:09]: ***  [, Level 0]: (2)УБИВАТЬ!'s killing spree was ended by fomjn (23 blocks)
+[2021-04-03 17:03:28]: ***  [, Level 0]: fomjn is on a killing spree with 5 blocks
