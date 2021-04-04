@@ -869,3 +869,6 @@
 [2021-04-04 01:05:12]: BulgarianTee [xSD7, Level 38]: x7|TimePause: kk
 [2021-04-04 01:05:14]: weqe [MNKY, Level 11]: BulgarianTee: last portal , im leaving
 [2021-04-04 01:05:16]: weqe [MNKY, Level 11]: fix it or not
+[2021-04-04 01:05:23]: ***  [, Level 0]: '[INFO]' entered and joined the game
+[2021-04-04 01:05:23]: Kiøn1029 [.bad, Level 31]: mit akar
+[2021-04-04 01:05:25]: ***  [, Level 0]: '[INFO]' joined the spectators
