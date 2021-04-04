@@ -126,3 +126,5 @@
 [2021-04-04 00:11:53]: PoliceTee [xSD7, Level 0]: Kezo: the people that are meant to protect police from you
 [2021-04-04 00:11:54]: [D]Torento [, Level 0]: ок
 [2021-04-04 00:11:55]: PoliceTee [xSD7, Level 0]: Kezo: thats who
+[2021-04-04 00:12:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-04 00:12:05]: [D]Torento [, Level 0]: все
