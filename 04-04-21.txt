@@ -1564,3 +1564,5 @@
 [2021-04-04 01:46:30]: BulgarianTee [xSD7, Level 38]: E
 [2021-04-04 01:46:37]: ***  [, Level 0]: 'ClemEntine' has left the game
 [2021-04-04 01:46:39]: ***  [, Level 0]: '(1)SAUD' has left the game
+[2021-04-04 01:46:48]: ***  [, Level 0]: 'WarHammer' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-04 01:46:50]: BulgarianTee [xSD7, Level 38]: HeavyGeneral: your saturaation is annoying af
