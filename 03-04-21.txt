@@ -13151,3 +13151,8 @@
 [2021-04-03 22:49:18]: cHurch [HUITA, Level 47]: jej
 [2021-04-03 22:49:21]: SAUD [, Level 20]: WTF
 [2021-04-03 22:49:33]: cHurch [HUITA, Level 47]: kriper 2004
+[2021-04-03 22:49:40]: (1)SAUD [, Level 0]: Wheels:  nice
+[2021-04-03 22:49:41]: ***  [, Level 0]: 'Torento' entered and joined the game
+[2021-04-03 22:49:44]: cHurch [HUITA, Level 47]: SAUD: did u play ddrace?
+[2021-04-03 22:49:48]: (1)SAUD [, Level 0]: yeah
+[2021-04-03 22:49:49]: ***  [, Level 0]: cHurch is on a killing spree with 5 blocks
