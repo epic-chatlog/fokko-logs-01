@@ -3790,3 +3790,5 @@
 [2021-04-04 04:15:33]: ***  [, Level 0]: 'Fearless' has left the game
 [2021-04-04 04:15:35]: ***  [, Level 0]: 'Friendiship ;-)' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-04 04:15:35]: ***  [, Level 0]: '(1)Friendiship ;' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-04 04:15:44]: ***  [, Level 0]: 'Fearless' entered and joined the game
+[2021-04-04 04:15:47]: Cylox.♥ [♥, Level 24]: wtf ?
