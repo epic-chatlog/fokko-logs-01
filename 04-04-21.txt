@@ -3977,3 +3977,9 @@
 [2021-04-04 04:35:12]: ***  [, Level 0]: 'black_cat' has left the game
 [2021-04-04 04:35:17]: Kezo [FookinLads, Level 41]: mamikral011: 2 hesabımdada mermisi 0
 [2021-04-04 04:35:19]: ***  [, Level 0]: 'black_cat' entered and joined the game
+[2021-04-04 04:35:35]: ***  [, Level 0]: 'Keø' has left the game
+[2021-04-04 04:35:35]: ***  [, Level 0]: 'koro' has left the game
+[2021-04-04 04:35:37]: Kezo [FookinLads, Level 41]: rq
+[2021-04-04 04:35:41]: Kezo [FookinLads, Level 41]: rq yazın
+[2021-04-04 04:35:42]: Kezo [FookinLads, Level 41]: seri
+[2021-04-04 04:35:44]: [D] mamikral011 [, Level 20]: rq
