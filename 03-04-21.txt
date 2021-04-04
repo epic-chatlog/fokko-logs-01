@@ -12418,3 +12418,6 @@
 [2021-04-03 18:16:36]: x7|zemer [xSD7, Level 0]: *nix
 [2021-04-03 18:16:39]: sun.slow(y) [sunrise., Level 35]: doch
 [2021-04-03 18:16:42]: sun.slow(y) [sunrise., Level 35]: resetten pw
+[2021-04-03 18:16:45]: sun.slow(y) [sunrise., Level 35]: und dann ddos ich den
+[2021-04-03 18:16:47]: sun.slow(y) [sunrise., Level 35]: und dann bann ich den
+[2021-04-03 18:16:55]: x7|zemer [xSD7, Level 0]: sun.slow(y): Kann icg auch:)
