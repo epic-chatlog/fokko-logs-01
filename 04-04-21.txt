@@ -1793,3 +1793,8 @@
 [2021-04-04 02:01:06]: ChillerDragon.* [Chilli.*, Level 41]: aaaa
 [2021-04-04 02:01:10]: Kiøn1029 [.bad, Level 31]: már chiller is tud magyarul
 [2021-04-04 02:01:13]: Boti. [.bad, Level 32]: mindenki is
+[2021-04-04 02:01:26]: Kiøn1029 [.bad, Level 31]: milyen néoszerű lett hirtelen
+[2021-04-04 02:01:29]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
+[2021-04-04 02:01:30]: Boti. [.bad, Level 32]: az
+[2021-04-04 02:01:34]: ***  [, Level 0]: '✯ |toxicdaddy' entered and joined the game
+[2021-04-04 02:01:34]: Boti. [.bad, Level 32]: flag mindjárt respawnol
