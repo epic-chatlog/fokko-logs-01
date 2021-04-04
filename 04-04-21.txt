@@ -6419,3 +6419,6 @@
 [2021-04-04 07:53:31]: Rock [, Level 18]: bob: help pls
 [2021-04-04 07:53:31]: kurama [, Level 8]: Ghost: ur dummy
 [2021-04-04 07:53:45]: GODLIKe [hax, Level 44]: WQKOEĞL
+[2021-04-04 07:53:48]: ***  [, Level 0]: 'GOLD' entered and joined the game
+[2021-04-04 07:53:53]:   [, Level 0]: kais: GODLIKe: :(
+[2021-04-04 07:53:54]: kurama [, Level 8]: Ghost:
