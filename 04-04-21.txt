@@ -8631,3 +8631,8 @@
 [2021-04-04 09:32:11]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
 [2021-04-04 09:32:11]: BulgarianTee [xSD7, Level 0]: E
 [2021-04-04 09:32:12]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-04 09:32:14]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[2021-04-04 09:32:22]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[2021-04-04 09:32:22]: BC|Tixnix [BC, Level 33]: mamikral011: ok how need you
+[2021-04-04 09:32:23]: mamikral011 [, Level 26]: ok
+[2021-04-04 09:32:24]: ***  [, Level 0]: 'ScReAm+11*' has left the game
