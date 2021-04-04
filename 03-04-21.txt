@@ -12358,3 +12358,4 @@
 [2021-04-03 17:52:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-03 17:54:04]: ***  [, Level 0]: 'cHilLerDargon' entered and joined the game
 [2021-04-03 17:54:05]: ***  [, Level 0]: 'cHilLerDargon' has left the game
+[2021-04-03 17:54:21]: ***  [, Level 0]: 'FelixTheDUDE' entered and joined the game
