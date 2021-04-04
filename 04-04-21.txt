@@ -979,3 +979,6 @@
 [2021-04-04 01:13:38]: ビール|Zero [Drunks, Level 26]: wait
 [2021-04-04 01:13:39]: Cylox [♥, Level 30]: Tziys*: sen kımsın lan
 [2021-04-04 01:13:43]: Kiøn1029 [.bad, Level 31]: sztem is
+[2021-04-04 01:13:47]: Tziys* [kezo bad, Level 32]: Cylox: what
+[2021-04-04 01:13:52]: Tziys* [kezo bad, Level 32]: Cylox: ask Boti.
+[2021-04-04 01:13:57]: Cylox [♥, Level 30]: wtf
