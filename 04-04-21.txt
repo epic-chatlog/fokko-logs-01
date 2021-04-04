@@ -13171,3 +13171,4 @@
 [2021-04-04 15:25:58]: x7|FayZoR [xSD7, Level 42]: bat toi
 [2021-04-04 15:26:02]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
 [2021-04-04 15:26:24]: Isegrin [, Level 54]: RAPIST
+[2021-04-04 15:27:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
