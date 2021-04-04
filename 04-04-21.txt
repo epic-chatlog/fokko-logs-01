@@ -9523,3 +9523,4 @@
 [2021-04-04 10:34:55]: mami [, Level 0]: wait dear
 [2021-04-04 10:34:56]: ***  [, Level 0]: 'Clight.♥' changed name to 'Clight.'
 [2021-04-04 10:34:58]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-04 10:35:06]: ***  [, Level 0]: 'Clight' changed name to 'Clight!'
