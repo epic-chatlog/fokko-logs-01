@@ -13219,3 +13219,4 @@
 [2021-04-03 22:58:37]: Boti. [.bad, Level 32]: np
 [2021-04-03 22:58:40]: ***  [, Level 0]: 'cHurch' has left the game
 [2021-04-03 22:59:00]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
+[2021-04-03 22:59:57]: ***  [, Level 0]: 'K!ked' has left the game
