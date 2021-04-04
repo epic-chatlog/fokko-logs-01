@@ -13093,3 +13093,6 @@
 [2021-04-04 15:15:15]: cup of tee [abh, Level 37]: wutufuk
 [2021-04-04 15:15:17]: x7|FayZoR [xSD7, Level 42]: Isegrin:
 [2021-04-04 15:15:19]: x7|FayZoR [xSD7, Level 42]: xD
+[2021-04-04 15:15:21]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-04 15:15:21]: ***  [, Level 0]: 'Nudelsaft c:"' has left the game
+[2021-04-04 15:15:22]: cup of tee [abh, Level 37]: x))
