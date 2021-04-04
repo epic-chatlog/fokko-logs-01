@@ -12498,3 +12498,4 @@
 [2021-04-03 20:20:55]: ***  [, Level 0]: 'Neutral' has left the game
 [2021-04-03 20:22:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-03 20:24:32]: ***  [, Level 0]: 'Neutral' entered and joined the game
+[2021-04-03 20:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
