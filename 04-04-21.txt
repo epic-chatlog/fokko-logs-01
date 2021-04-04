@@ -3927,3 +3927,6 @@
 [2021-04-04 04:29:40]: ビール|Zero [Drunks, Level 27]: fuk
 [2021-04-04 04:29:40]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
 [2021-04-04 04:29:44]: ***  [, Level 0]: 'Torento' has left the game
+[2021-04-04 04:29:56]: BC|Tixnix [BC, Level 33]: koro:
+[2021-04-04 04:29:56]: ←   [, Level 0]: Ghost 2.0.: do you have the jetpack ?
+[2021-04-04 04:30:01]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
