@@ -12208,3 +12208,6 @@
 [2021-04-04 13:34:54]: ***  [, Level 0]: 'NetFlix' has left the game
 [2021-04-04 13:35:14]: ***  [, Level 0]: '(2)NetFlix' has left the game
 [2021-04-04 13:35:19]: Fearless [Fookinlads, Level 40]: koro:  give portal :,(
+[2021-04-04 13:35:38]: BC|Tixnix [BC, Level 33]: KO
+[2021-04-04 13:35:40]: Fearless [Fookinlads, Level 40]: koro:  want 600k?
+[2021-04-04 13:35:41]: BC|Tixnix [BC, Level 33]: koro:
