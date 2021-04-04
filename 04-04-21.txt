@@ -8525,3 +8525,9 @@
 [2021-04-04 09:26:34]: ERROR [404, Level 73]: xD
 [2021-04-04 09:26:35]: ***  [, Level 0]: 'YelloWorld' changed name to '(2)ChillerDragon'
 [2021-04-04 09:26:36]:   [, Level 0]: (2)ChillerDragon: xD
+[2021-04-04 09:26:42]: mamikral011 [, Level 26]: WarHammer: yene yıkamamış :D
+[2021-04-04 09:26:43]: ***  [, Level 0]: 'Alien' entered and joined the game
+[2021-04-04 09:26:44]:   [, Level 0]: WarHammer: mami:  öp lan
+[2021-04-04 09:26:45]:   [, Level 0]: (2)ChillerDragon: omg what renamed me?
+[2021-04-04 09:26:46]: Andromeda [, Level 0]: 600 WTF
+[2021-04-04 09:26:46]: BulgarianTee [xSD7, Level 0]: ERROR: yeah thats what i was gonna say until i jumped wrong in portal - he is lazy af idk if he will even look at it
