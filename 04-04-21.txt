@@ -2926,3 +2926,7 @@
 [2021-04-04 03:11:59]: Lucas [THECEPS, Level 33]: (3)SAUD: come
 [2021-04-04 03:12:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-04 03:12:03]: kurama [, Level 7]: ビール|Zero:а на каком уровне доступно blody?
+[2021-04-04 03:12:10]: ***  [, Level 0]: '(3)SAUD' would have timed out, but can use timeout protection now
+[2021-04-04 03:12:10]: (2)SAUD [, Level 3]: Lucas:  timeout on my dummy
+[2021-04-04 03:12:10]: Rock [, Level 17]: 5 или 10
+[2021-04-04 03:12:17]: ***  [, Level 0]: ### 'WarHammer'' xd
