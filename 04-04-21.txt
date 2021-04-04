@@ -9044,3 +9044,7 @@
 [2021-04-04 09:56:55]: (2)ChillerDrago [|*KoG*|, Level 44]: xD
 [2021-04-04 09:56:57]: [D] mamikral011 [, Level 20]: (2)ChillerDrago: ?
 [2021-04-04 09:57:00]: [D] mamikral011 [, Level 20]: (2)ChillerDrago: stop or war
+[2021-04-04 09:57:02]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-04 09:57:06]: (2)ChillerDrago [|*KoG*|, Level 44]: we have war already mami
+[2021-04-04 09:57:08]: (2)ChillerDrago [|*KoG*|, Level 44]: we have war already mamikral011
+[2021-04-04 09:57:11]: ***  [, Level 0]: 'BC|kakashi' left the minigame 'Block'
