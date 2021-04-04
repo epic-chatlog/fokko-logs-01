@@ -5775,3 +5775,9 @@
 [2021-04-04 06:58:22]: Noémi[Đ] [citrom, Level 32]: Punguin: nem tudom mi van ott
 [2021-04-04 06:58:24]:   [, Level 0]: Isegrin: (2)ERROR: u like him?
 [2021-04-04 06:58:26]: ᅟᅟ [, Level 0]: Number1:  uspeakenglish
+[2021-04-04 06:58:29]:   [, Level 0]: power: Isegrin:
+[2021-04-04 06:58:30]: (2)ERROR [404, Level 40]: Isegrin:  XDDDD
+[2021-04-04 06:58:34]:   [, Level 0]: [D] Punguin: 585money Nonoh:
+[2021-04-04 06:58:36]: (2)ERROR [404, Level 40]: Isegrin:  cant love myself
+[2021-04-04 06:58:38]: ***  [, Level 0]: 'Falco641' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-04 06:58:38]: ***  [, Level 0]: 'Falco642' has left the game (Too weak connection (not acked for 60 seconds))
