@@ -12861,3 +12861,5 @@
 [2021-04-03 22:02:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-03 22:02:29]: SAUD [, Level 20]: cant
 [2021-04-03 22:02:38]: Flupper [, Level 0]: BVRUAEJFB
+[2021-04-03 22:03:11]: SAUD [, Level 20]: oh
+[2021-04-03 22:03:13]: SAUD [, Level 20]: xDD
