@@ -2818,3 +2818,5 @@
 [2021-04-04 03:01:47]: (1)ビール|Ze [Drunks, Level 10]: kurama: ...
 [2021-04-04 03:01:47]: (3)SAUD [, Level 20]: xD WarHammer
 [2021-04-04 03:01:49]: ChillerDragon.* [Chilli.*, Level 41]: kla [D] BC|kakashi
+[2021-04-04 03:01:59]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
+[2021-04-04 03:02:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
