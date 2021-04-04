@@ -1956,3 +1956,9 @@
 [2021-04-04 02:10:30]: ***  [, Level 0]: 'BC|kakashi' finished the special race!
 [2021-04-04 02:10:30]: ***  [, Level 0]: ✯ |toxicdaddy finished in: 7 minute(s)  8.50 second(s)
 [2021-04-04 02:10:30]: ***  [, Level 0]: '✯ |toxicdaddy' finished the special race!
+[2021-04-04 02:10:42]: BulgarianTee [xSD7, Level 38]: E
+[2021-04-04 02:10:47]: Kiøn1029 [.bad, Level 31]: ez volt egy
+[2021-04-04 02:10:48]: Boti. [.bad, Level 32]: kétszer megint
+[2021-04-04 02:10:51]: ***  [, Level 0]: 'Andromeda' has left the game
+[2021-04-04 02:10:51]: ***  [, Level 0]: 'Milky way' has left the game
+[2021-04-04 02:10:52]: Boti. [.bad, Level 32]: kétszer ugyanaz kell
