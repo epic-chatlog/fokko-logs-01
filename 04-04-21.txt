@@ -9734,3 +9734,6 @@
 [2021-04-04 10:49:56]: x7|zemer [xSD7, Level 37]: Fy
 [2021-04-04 10:49:56]: cookie [, Level 0]: i need hel white inf jump
 [2021-04-04 10:49:59]: x7|zemer [xSD7, Level 37]: x7|FayZoR:
+[2021-04-04 10:50:02]: (1)SAUD [, Level 15]: ChillerDragon:
+[2021-04-04 10:50:02]: ChillerDragon [Chilli.*, Level 31]: (1)SAUD: I am currently afk.
+[2021-04-04 10:50:07]: (1)SAUD [, Level 15]: oh bot
