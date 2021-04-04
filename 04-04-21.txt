@@ -2639,3 +2639,7 @@
 [2021-04-04 02:46:51]: (3)SAUD [, Level 20]: xD
 [2021-04-04 02:46:51]: bob [, Level 36]: ChillerDragon: komm mit
 [2021-04-04 02:46:55]: bob [, Level 36]: ok
+[2021-04-04 02:47:00]: (3)SAUD [, Level 20]: WarHammer':
+[2021-04-04 02:47:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 02:47:03]: ChillerDragon.* [Chilli.*, Level 41]: weqe: wb is annpoying
+[2021-04-04 02:47:04]: WarHammer' [, Level 16]: ?
