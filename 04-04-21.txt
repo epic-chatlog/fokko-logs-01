@@ -12430,3 +12430,4 @@
 [2021-04-04 14:01:32]: (2)ERROR [404, Level 40]: jet killer
 [2021-04-04 14:01:50]: (2)ERROR [404, Level 40]: YelloWorlD:  now im dead
 [2021-04-04 14:01:51]: (2)ERROR [404, Level 40]: nub
+[2021-04-04 14:02:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
