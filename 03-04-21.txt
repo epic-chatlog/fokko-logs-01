@@ -12905,3 +12905,5 @@
 [2021-04-03 22:14:50]: x7|Flipper [xSD7, Level 14]: help me
 [2021-04-03 22:14:59]: SAUD [, Level 20]: dont
 [2021-04-03 22:15:03]: x7|Flipper [xSD7, Level 14]: do
+[2021-04-03 22:16:03]: SAUD [, Level 20]: xD
+[2021-04-03 22:16:04]: ***  [, Level 0]: 'Rysskiu' entered and joined the game
