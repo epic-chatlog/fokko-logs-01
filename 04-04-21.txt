@@ -3124,3 +3124,4 @@
 [2021-04-04 03:28:15]: ***  [, Level 0]: 'Keø' entered and joined the game
 [2021-04-04 03:28:22]: Rock [, Level 17]: сука
 [2021-04-04 03:28:23]: WarHammer' [, Level 16]: ✯|Not Bulash:  OK OK
+[2021-04-04 03:28:30]: [D] BC|Tixnix [BC, Level 25]: WarHammer: help
