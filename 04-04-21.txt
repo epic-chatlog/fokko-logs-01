@@ -13842,3 +13842,4 @@
 [2021-04-04 16:52:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-04 16:52:05]: x7|FayZoR [xSD7, Level 42]: now 87
 [2021-04-04 16:52:30]: x7|zemer [zε†α, Level 37]: x7|FayZoR: stop
+[2021-04-04 16:52:38]: ***  [, Level 0]: 'Paayer' entered and joined the game
