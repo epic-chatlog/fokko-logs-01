@@ -4673,3 +4673,5 @@
 [2021-04-04 05:51:16]: SAUD [, Level 20]: Torento:
 [2021-04-04 05:51:22]: ***  [, Level 0]: 'ᅟᅟᅟᅟ' has left the game
 [2021-04-04 05:51:22]: ***  [, Level 0]: 'ᅟᅟ' has left the game
+[2021-04-04 05:52:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-04 05:52:10]: ✯ |toxicdaddy [|Supressed, Level 24]: comic:
