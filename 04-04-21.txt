@@ -9392,3 +9392,6 @@
 [2021-04-04 10:23:09]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: ?
 [2021-04-04 10:23:10]: x7|zemer [xSD7, Level 37]: ChillerDragon: oK
 [2021-04-04 10:23:10]: ChillerDragon [Chilli.*, Level 31]: x7|zemer: I am currently afk.
+[2021-04-04 10:23:40]: x7|zemer [xSD7, Level 37]: x7|FayZoR:
+[2021-04-04 10:23:42]: x7|zemer [xSD7, Level 37]: BulgarianTee:
+[2021-04-04 10:23:44]: x7|zemer [xSD7, Level 37]: PoliceTee:
