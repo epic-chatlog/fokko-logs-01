@@ -8859,3 +8859,6 @@
 [2021-04-04 09:47:44]: mamikral011 [, Level 26]: x7|FayZoR: bomba
 [2021-04-04 09:47:48]: ***  [, Level 0]: 'penguin' entered and joined the game
 [2021-04-04 09:47:52]:   [, Level 0]: (2)ChillerDragon: erklär ma ganzen workflow Nudelsaft c:
+[2021-04-04 09:47:55]: GameOver [Vodka, Level 0]: help
+[2021-04-04 09:48:03]:   [, Level 0]: x7|zemer: Nudelsaft c::
+[2021-04-04 09:48:04]:   [, Level 0]: Nudelsaft c:: (2)ChillerDrago: {\"username\": \"%s\", \"embeds\": [{ %s\"title\": \"`%s%s`\", \"description\": \"%s\"}]}
