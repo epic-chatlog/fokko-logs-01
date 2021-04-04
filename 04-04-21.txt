@@ -13100,3 +13100,8 @@
 [2021-04-04 15:15:36]: ***  [, Level 0]: 'Nudelsaft c:"' entered and joined the game
 [2021-04-04 15:15:38]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-04 15:15:48]: x7|FayZoR [xSD7, Level 42]: cup of tee: XD
+[2021-04-04 15:15:59]: ***  [, Level 0]: 'Nudelsaft c:"' has left the game
+[2021-04-04 15:15:59]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-04 15:16:08]: x7|Flipper [xSD7, Level 14]: zemer
+[2021-04-04 15:16:09]: Kirito [♥, Level 34]: x7|Flipper:  wait a sec xD
+[2021-04-04 15:16:09]: x7|Flipper [xSD7, Level 14]: how
