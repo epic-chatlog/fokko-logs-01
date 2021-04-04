@@ -7477,3 +7477,4 @@
 [2021-04-04 08:36:57]: ***  [, Level 0]: 'SarıDünya' has left the game
 [2021-04-04 08:36:59]: ***  [, Level 0]: 'Sutzer' has left the game
 [2021-04-04 08:36:59]: ***  [, Level 0]: '[D] Sutzer' has left the game
+[2021-04-04 08:37:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
