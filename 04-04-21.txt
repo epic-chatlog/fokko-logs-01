@@ -12004,3 +12004,8 @@
 [2021-04-04 13:18:31]: Isegrin [, Level 54]: ChillerDragon:
 [2021-04-04 13:18:31]: ChillerDragon [Chilli.*, Level 31]: Isegrin: I am currently afk.
 [2021-04-04 13:18:33]: Isegrin [, Level 54]: ChillerDragon:
+[2021-04-04 13:18:40]: weqe [MNKY, Level 11]: we love you ChillerDragon.*
+[2021-04-04 13:18:40]: ChillerDragon.* [|*KoG*|, Level 41]: weqe: I am currently afk.
+[2021-04-04 13:18:40]: ChillerDragon [Chilli.*, Level 31]: weqe: I am currently afk.
+[2021-04-04 13:18:43]: bob [, Level 36]: ChillerDragon:
+[2021-04-04 13:18:45]: ChillerDragon [Chilli.*, Level 31]: bob: I am currently afk.
