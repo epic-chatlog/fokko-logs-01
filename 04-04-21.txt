@@ -9746,3 +9746,5 @@
 [2021-04-04 10:50:29]: Nudelsaft c: [FookinLads, Level 60]: SAUD: as u wish
 [2021-04-04 10:50:29]: ***  [, Level 0]: 'mami' has left the game
 [2021-04-04 10:50:33]: ***  [, Level 0]: 'Tee Shirt' has left the game
+[2021-04-04 10:50:36]: (1)SAUD [, Level 15]: Nudelsaft c::  i helped u and helped him
+[2021-04-04 10:50:46]: Nudelsaft c: [FookinLads, Level 60]: SAUD: yea and u still helped him after i blocked him
