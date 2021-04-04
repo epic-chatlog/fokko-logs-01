@@ -2480,3 +2480,5 @@
 [2021-04-04 02:36:57]: YelloWorlD [404, Level 73]: Nudelsaft c:: traitor ?
 [2021-04-04 02:36:57]: Boti. [.bad, Level 32]: me nem
 [2021-04-04 02:37:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 02:37:05]: Boti. [.bad, Level 32]: mondtad hogy ne menjek me nincs fasz rivil
+[2021-04-04 02:37:14]: YelloWorlD [404, Level 73]: koro: nudelsaft traitre
