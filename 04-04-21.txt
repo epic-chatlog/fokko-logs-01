@@ -9399,3 +9399,5 @@
 [2021-04-04 10:23:59]: ***  [, Level 0]: '[D] Sutzer' has left the game
 [2021-04-04 10:24:01]: ✯ |toxicdaddy [|Supressed, Level 24]: SAUD: give me rifel
 [2021-04-04 10:24:13]: x7|FayZoR [xSD7, Level 42]: [D] ✯ |toxicd: where any ?
+[2021-04-04 10:24:21]: ✯ |toxicdaddy [|Supressed, Level 24]: x7|FayZoR: he reset
+[2021-04-04 10:24:25]: x7|zemer [xSD7, Level 37]: PoliceTee:
