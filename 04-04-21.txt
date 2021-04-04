@@ -11857,3 +11857,8 @@
 [2021-04-04 13:10:58]: (1)nobody [, Level 44]: XDDD
 [2021-04-04 13:11:16]: ChillerDragon.* [Chilli.*, Level 41]: i am helper :)
 [2021-04-04 13:11:17]: bob [, Level 36]: ChillerDragon: du provozierst
+[2021-04-04 13:11:20]: bob [, Level 36]: vlalah
+[2021-04-04 13:11:22]: bob [, Level 36]: lass einfach
+[2021-04-04 13:11:24]: ChillerDragon.* [Chilli.*, Level 41]: sei kein bully bob
+[2021-04-04 13:11:25]: bob [, Level 36]: du fotze
+[2021-04-04 13:11:32]: cup of tee [abh, Level 37]: Swarfey: yeah just gonna take the sleep code and replace os.clock with Game.Client.Tick
