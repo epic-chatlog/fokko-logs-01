@@ -9117,3 +9117,8 @@
 [2021-04-04 10:01:58]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-04 10:02:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-04 10:02:05]: (3)SAUD [, Level 10]: BulgarianTee:
+[2021-04-04 10:02:09]: BulgarianTee [xSD7, Level 38]: (3)SAUD: sorry
+[2021-04-04 10:02:13]: BulgarianTee [xSD7, Level 38]: x7|zemer: WAIT
+[2021-04-04 10:02:16]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: can portal
+[2021-04-04 10:02:16]: BulgarianTee [xSD7, Level 38]: x7|zemer: ALLY
+[2021-04-04 10:02:17]: (3)SAUD [, Level 10]: BulgarianTee:  but im with u
