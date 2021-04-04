@@ -4675,3 +4675,7 @@
 [2021-04-04 05:51:22]: ***  [, Level 0]: 'ᅟᅟ' has left the game
 [2021-04-04 05:52:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-04 05:52:10]: ✯ |toxicdaddy [|Supressed, Level 24]: comic:
+[2021-04-04 05:52:13]: comic [comically, Level 12]: ✯ |toxicdaddy: yes
+[2021-04-04 05:52:15]: (1)Kirito [♥, Level 34]: mamikral011: wtf traitor i just helped you out
+[2021-04-04 05:52:16]: SAUD [, Level 20]: Torento:  u with who
+[2021-04-04 05:52:23]: (1)Kirito [♥, Level 34]: mamikral011: war for life
