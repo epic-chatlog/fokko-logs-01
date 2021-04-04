@@ -3900,3 +3900,4 @@
 [2021-04-04 04:27:28]: ***  [, Level 0]: 'darkstar' entered and joined the game
 [2021-04-04 04:27:31]: (1)ChillerDrago [Chilli.*, Level 30]: aaaaa i suck
 [2021-04-04 04:27:32]: ***  [, Level 0]: 'darkstar' has left the game
+[2021-04-04 04:27:47]: ***  [, Level 0]: 'darkstar' entered and joined the game
