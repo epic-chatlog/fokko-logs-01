@@ -12365,3 +12365,4 @@
 [2021-04-03 17:58:05]: (1)УБИВАТ [, Level 0]: nub
 [2021-04-03 17:58:50]: ***  [, Level 0]: '#freeassange' entered and joined the game
 [2021-04-03 17:59:25]: ***  [, Level 0]: '#freeassange' has left the game
+[2021-04-03 18:00:34]: ***  [, Level 0]: 'cHilLerDargon' entered and joined the game
