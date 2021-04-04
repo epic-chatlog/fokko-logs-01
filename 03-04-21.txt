@@ -12114,3 +12114,4 @@
 [2021-04-03 17:03:28]: ***  [, Level 0]: fomjn is on a killing spree with 5 blocks
 [2021-04-03 17:03:39]: ***  [, Level 0]: fomjn's killing spree was ended by (2)УБИВАТЬ! (7 blocks)
 [2021-04-03 17:04:11]: ***  [, Level 0]: 'Robertos paparo' entered and joined the game
+[2021-04-03 17:04:19]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 5 blocks
