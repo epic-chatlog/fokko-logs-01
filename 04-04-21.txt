@@ -10379,3 +10379,5 @@
 [2021-04-04 11:47:03]: Asta [FookinLads, Level 0]: Nudelsaft c::  nah
 [2021-04-04 11:47:06]: ***  [, Level 0]: 'Dregger' has left the game
 [2021-04-04 11:47:09]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-04 11:47:24]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
+[2021-04-04 11:47:28]: cookie [, Level 0]: noo
