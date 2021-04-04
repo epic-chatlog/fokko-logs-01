@@ -12422,3 +12422,6 @@
 [2021-04-04 14:00:44]: ***  [, Level 0]: '♥TAKO♥' has left the game (Timeout Protection over)
 [2021-04-04 14:00:50]: ***  [, Level 0]: 'nobody' has left the game
 [2021-04-04 14:00:50]: ***  [, Level 0]: 'GODLIKe.' has left the game
+[2021-04-04 14:00:59]: ***  [, Level 0]: 'cup of tee' has left the game (Timeout)
+[2021-04-04 14:01:00]: (2)ERROR [404, Level 40]: wheres my jet
+[2021-04-04 14:01:09]: YelloWorlD [404, Level 37]: (1)ERROR.: rip
