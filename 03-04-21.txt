@@ -12510,3 +12510,4 @@
 [2021-04-03 20:42:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-03 20:42:12]: ***  [, Level 0]: 'Flupper' entered and joined the game
 [2021-04-03 20:43:13]: x7|Flipper [xSD7, Level 13]: spread gun
+[2021-04-03 20:45:20]: ***  [, Level 0]: 'Neutral' entered and joined the game
