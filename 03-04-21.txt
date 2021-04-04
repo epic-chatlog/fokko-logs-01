@@ -12677,3 +12677,6 @@
 [2021-04-03 21:36:07]: x7|Flipper [xSD7, Level 13]: we
 [2021-04-03 21:36:09]: x7|Flipper [xSD7, Level 13]: e
 [2021-04-03 21:36:10]: x7|Flipper [xSD7, Level 13]: w
+[2021-04-03 21:36:12]: x7|Flipper [xSD7, Level 13]: we
+[2021-04-03 21:36:14]: ***  [, Level 0]: 'x7|Flipper' has been muted for 60 seconds
+[2021-04-03 21:36:18]: SAUD [, Level 0]: xD
