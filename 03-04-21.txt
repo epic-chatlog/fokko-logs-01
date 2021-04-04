@@ -12435,3 +12435,5 @@
 [2021-04-03 18:25:22]: ***  [, Level 0]: '.S L E E P Y'' entered and joined the game
 [2021-04-03 18:25:35]: x7|Flipper [xSD7, Level 13]: ?
 [2021-04-03 18:25:39]: ***  [, Level 0]: '.S L E E P Y'' has left the game
+[2021-04-03 18:27:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-03 18:27:07]: ***  [, Level 0]: 'weqe' has left the game
