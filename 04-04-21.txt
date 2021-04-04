@@ -8648,3 +8648,7 @@
 [2021-04-04 09:32:55]: ***  [, Level 0]: 'STULEJA 3000' joined the game
 [2021-04-04 09:32:56]: ERROR. [404, Level 56]: kenne mich mit debian nicht so aus
 [2021-04-04 09:32:58]: ***  [, Level 0]: 'Clight' entered and joined the game
+[2021-04-04 09:33:02]: ✯ |toxicdaddy [|Supressed, Level 24]: x7|FayZoR:
+[2021-04-04 09:33:04]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[2021-04-04 09:33:08]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[2021-04-04 09:33:10]: (2)ChillerDrago [|*KoG*|, Level 44]: wie kommst du auf debian ERROR
