@@ -12532,3 +12532,4 @@
 [2021-04-03 21:09:10]: ***  [, Level 0]: 'HΛVΛ' has left the game
 [2021-04-03 21:10:01]: ***  [, Level 0]: '(1)HΛVΛ' has left the game
 [2021-04-03 21:10:02]: ***  [, Level 0]: 'Asemco' entered and joined the game
+[2021-04-03 21:12:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
