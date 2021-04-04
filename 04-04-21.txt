@@ -9298,3 +9298,5 @@
 [2021-04-04 10:16:41]: Kiøn1029 [.bad, Level 31]: I like turtles.
 [2021-04-04 10:16:45]: mami [, Level 0]: I like turtles.
 [2021-04-04 10:17:00]: ***  [, Level 0]: x7|zemer is on a killing spree with 10 blocks
+[2021-04-04 10:17:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-04 10:17:12]: PureLuck [, Level 0]: BITCH
