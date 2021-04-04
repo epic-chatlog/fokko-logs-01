@@ -54,3 +54,9 @@
 [2021-04-04 00:05:24]: ***  [, Level 0]: 'Flupper' entered and joined the game
 [2021-04-04 00:05:25]: ***  [, Level 0]: 'cHurch' has left the game
 [2021-04-04 00:05:25]: ***  [, Level 0]: 'K!ked' has left the game
+[2021-04-04 00:05:26]: PoliceTee [xSD7, Level 0]: rq
+[2021-04-04 00:05:28]: MORFY [, Level 28]: scare
+[2021-04-04 00:05:28]: TimePause [xSD7, Level 35]: xd
+[2021-04-04 00:05:30]: TimePause [xSD7, Level 35]: rq
+[2021-04-04 00:05:30]: MORFY [, Level 28]: ahhahaah
+[2021-04-04 00:05:31]: Boti. [.bad, Level 32]: húsveti tojás
