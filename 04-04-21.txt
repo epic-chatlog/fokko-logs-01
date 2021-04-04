@@ -4628,3 +4628,5 @@
 [2021-04-04 05:45:54]: Rock [, Level 17]: kurama: спек меня
 [2021-04-04 05:46:10]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-04 05:46:42]: comic [comically, Level 12]: Virus:
+[2021-04-04 05:46:57]: SAUD [, Level 20]: (1)Kirito:  now afk 888 hours till u get timeout xD\
+[2021-04-04 05:47:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
