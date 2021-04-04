@@ -6461,3 +6461,5 @@
 [2021-04-04 07:55:00]:   [, Level 0]: Lucas: kurama: np
 [2021-04-04 07:55:05]: ***  [, Level 0]: '.S L E E P Y'' entered and joined the game
 [2021-04-04 07:55:07]: SAUD [, Level 21]: BUY police help and some other thing (1)K҉E҉N҉O҉
+[2021-04-04 07:55:20]: ***  [, Level 0]: 'Jack' entered and joined the game
+[2021-04-04 07:55:22]: (1)K҉E҉N҉O҉ [ZzzZzz, Level 0]: SAUD: what does police cost?
