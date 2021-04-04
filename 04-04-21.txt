@@ -9053,3 +9053,7 @@
 [2021-04-04 09:57:24]: ***  [, Level 0]: '[D] BC|Tixnix' left the minigame 'Block'
 [2021-04-04 09:57:26]:   [, Level 0]: BulgarianTee: cya ビール|Zero
 [2021-04-04 09:57:30]:   [, Level 0]: BulgarianTee: cya (1)ERROR.
+[2021-04-04 09:57:43]:   [, Level 0]: BulgarianTee: XDD
+[2021-04-04 09:57:46]: ***  [, Level 0]: koro's killing spree was ended by (1)ChillerDragon (18 blocks)
+[2021-04-04 09:57:47]: [D] BC|Tixnix [BC, Level 0]: Rock: !!!!!!!!!!!!!!!!
+[2021-04-04 09:57:48]: ***  [, Level 0]: '[D] BC|kakashi' entered and joined the game
