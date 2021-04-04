@@ -8742,3 +8742,5 @@
 [2021-04-04 09:39:41]: (2)ChillerDrago [Chilli.*, Level 44]: aso ERROR coden eher dachte du schreibst so role play quest texte
 [2021-04-04 09:39:50]: (2)ChillerDrago [Chilli.*, Level 44]: is metin open sourc ERROR ?
 [2021-04-04 09:39:51]: x7|zemer [xSD7, Level 37]: ERROR: Fckng taser player
+[2021-04-04 09:40:01]: (1)ERROR [404, Level 47]: Killua:  omg
+[2021-04-04 09:40:01]: ***  [, Level 0]: ERROR is on a killing spree with 15 blocks
