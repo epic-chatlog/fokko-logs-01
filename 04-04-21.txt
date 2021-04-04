@@ -11885,3 +11885,6 @@
 [2021-04-04 13:12:26]: Swarfey [FookinLads, Level 59]: cup of tee: well, i dont know lua really well, you could ask on the ath discord if they could provide a delay method
 [2021-04-04 13:12:33]: bob [, Level 36]: ChillerDragon.*: mach mal neue gores map
 [2021-04-04 13:12:33]: Isegrin [, Level 54]: (1)Kirito: gj nub
+[2021-04-04 13:12:42]: ChillerDragon.* [Chilli.*, Level 41]: spielst du überhaupt gores bob?
+[2021-04-04 13:12:46]: ***  [, Level 0]: 'cup of tee' has left the game (Timeout)
+[2021-04-04 13:12:46]: ***  [, Level 0]: 'cup of tee 2' has left the game (Timeout)
