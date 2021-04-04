@@ -2935,3 +2935,5 @@
 [2021-04-04 03:12:24]: Rock [, Level 17]: [D] BC|kakashi: go on edge
 [2021-04-04 03:12:26]: Lucas [THECEPS, Level 33]: (3)SAUD: rip
 [2021-04-04 03:12:27]: (2)SAUD [, Level 3]: Lucas:  idk wtf is this
+[2021-04-04 03:12:42]: Lucas [THECEPS, Level 33]: (2)SAUD: if you are to long in this game you have timeout
+[2021-04-04 03:12:47]: Rock [, Level 17]: wait
