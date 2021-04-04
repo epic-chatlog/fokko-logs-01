@@ -12464,3 +12464,5 @@
 [2021-04-04 14:08:43]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-04 14:08:44]: ***  [, Level 0]: '[D] ERROR' has left the game
 [2021-04-04 14:08:49]: ***  [, Level 0]: '[D] ERROR' entered and joined the game
+[2021-04-04 14:08:58]: ***  [, Level 0]: 'koro' has left the game (Timeout Protection over)
+[2021-04-04 14:08:58]: ***  [, Level 0]: 'keø' has left the game (Timeout Protection over)
