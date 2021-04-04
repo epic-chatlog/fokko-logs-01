@@ -12458,3 +12458,4 @@
 [2021-04-03 18:47:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-03 18:52:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-03 18:54:25]: ***  [, Level 0]: 'cHilLerDargon' entered and joined the game
+[2021-04-03 18:54:53]: ***  [, Level 0]: 'cHilLerDargon' changed name to 'Neutral'
