@@ -758,3 +758,5 @@
 [2021-04-04 00:57:00]: Cylox [♥, Level 30]: x7|Flipper: yes
 [2021-04-04 00:57:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-04 00:57:05]: x7|Flipper [xSD7, Level 14]: can i afk farm in it
+[2021-04-04 00:57:09]: Cylox [♥, Level 30]: ok go ghelp
+[2021-04-04 00:57:11]: Boti. [.bad, Level 32]: Kezo: afk nob
