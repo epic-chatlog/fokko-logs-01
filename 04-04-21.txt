@@ -4228,3 +4228,5 @@
 [2021-04-04 05:02:59]: ***  [, Level 0]: 'Tziys*' has left the game (Timeout)
 [2021-04-04 05:02:59]: ***  [, Level 0]: 'Virus' has left the game
 [2021-04-04 05:03:09]: [D] mamikral011 [, Level 20]: coprophile: Türksün demi
+[2021-04-04 05:03:14]: coprophile [, Level 3]: [D] mamikral011: help please
+[2021-04-04 05:03:20]: [D] mamikral011 [, Level 20]: coprophile: Türkmüsün
