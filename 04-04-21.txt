@@ -4074,3 +4074,5 @@
 [2021-04-04 04:43:24]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [2021-04-04 04:43:47]: black_cat [, Level 0]: sorry
 [2021-04-04 04:43:54]: ***  [, Level 0]: 'Isegrin' entered and joined the game
+[2021-04-04 04:43:58]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
+[2021-04-04 04:43:59]: kurama [, Level 7]: Rock: аахахахааха
