@@ -6524,3 +6524,6 @@
 [2021-04-04 07:57:44]: ***  [, Level 0]: '(1)kais' entered and joined the game
 [2021-04-04 07:57:46]: kurama [, Level 8]: Rock:
 [2021-04-04 07:57:47]: Samurai [QuietLegend, Level 0]: Supers: 7 fps
+[2021-04-04 07:57:50]: ***  [, Level 0]: (1)Supers's killing spree was ended by Isegrin (7 blocks)
+[2021-04-04 07:57:52]:   [, Level 0]: (1)Supers: Samurai:  go rq
+[2021-04-04 07:57:57]: ***  [, Level 0]: 'ulrich' entered and joined the game
