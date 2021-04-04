@@ -95,3 +95,5 @@
 [2021-04-04 00:08:30]: ***  [, Level 0]: '(1)kais' entered and joined the game
 [2021-04-04 00:08:31]: [D]Torento [, Level 0]: MORFY:
 [2021-04-04 00:08:47]: ***  [, Level 0]: '(1)kais' has left the game
+[2021-04-04 00:09:10]: x7|Flipper [xSD7, Level 14]: i nub
+[2021-04-04 00:09:12]: TimePause's nub [xSD7, Level 0]: xd
