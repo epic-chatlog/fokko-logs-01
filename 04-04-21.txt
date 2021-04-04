@@ -12474,3 +12474,6 @@
 [2021-04-04 14:13:25]: (2)ERROR [404, Level 40]: im fake
 [2021-04-04 14:13:26]: (2)ERROR [404, Level 40]: I like turtles.
 [2021-04-04 14:13:28]: ***  [, Level 0]: 'Isegrin' entered and joined the game
+[2021-04-04 14:13:32]: cup of tee [abh, Level 37]: ohh lol
+[2021-04-04 14:13:33]: (2)ERROR [404, Level 40]: yo isegay
+[2021-04-04 14:13:40]: (2)ERROR [404, Level 40]: 200k OMGG
