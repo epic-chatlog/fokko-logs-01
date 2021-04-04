@@ -5265,3 +5265,6 @@
 [2021-04-04 06:29:02]: Punguin [HunClass, Level 0]: ?
 [2021-04-04 06:29:07]: Maatiteusz [TrRShClNrRs, Level 35]: Fearless: hi
 [2021-04-04 06:29:12]: Nonoh [citrom, Level 40]: Flupper: ki vagy?
+[2021-04-04 06:29:18]: Punguin [HunClass, Level 0]: en vagyok
+[2021-04-04 06:29:22]: (1)ERROR. [404, Level 24]: Maatiteusz:  xDD HE RUN
+[2021-04-04 06:29:23]: Punguin [HunClass, Level 0]: XD
