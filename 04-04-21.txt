@@ -4325,3 +4325,7 @@
 [2021-04-04 05:13:57]: mami [Ape, Level 0]: :SPEC
 [2021-04-04 05:14:24]: Fearless [FookinLads, Level 40]: ERROR:  fast
 [2021-04-04 05:14:26]: mami [Ape, Level 0]: freindiship help me
+[2021-04-04 05:14:35]: Fearless [FookinLads, Level 40]: ERROR: o C:
+[2021-04-04 05:14:39]:   [, Level 0]: ERROR: ?
+[2021-04-04 05:14:41]: Fearless [FookinLads, Level 40]: i ded
+[2021-04-04 05:14:42]: Fearless [FookinLads, Level 40]: XD
