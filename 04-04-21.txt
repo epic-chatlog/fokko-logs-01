@@ -4848,3 +4848,8 @@
 [2021-04-04 06:02:34]: [D] Fearless [FookinLads, Level 20]: ?:
 [2021-04-04 06:02:40]: oyun krallı [, Level 0]: bob:
 [2021-04-04 06:02:45]: mami [Ape, Level 16]: oke but downt say eniting to somwann els oke
+[2021-04-04 06:02:59]: [D] Fearless [FookinLads, Level 20]: ERROR:  hel
+[2021-04-04 06:03:00]: SAUD [, Level 20]: mami:  ok change ur skin xD
+[2021-04-04 06:03:00]: [D] Fearless [FookinLads, Level 20]: ERROR:  help
+[2021-04-04 06:03:01]: comic [comically, Level 12]: rayen:
+[2021-04-04 06:03:03]: Andresss [Citrom, Level 1]: Nonoh:
