@@ -3045,3 +3045,5 @@
 [2021-04-04 03:19:52]: ***  [, Level 0]: '♫Amirian♬.' entered and joined the game
 [2021-04-04 03:19:54]: ***  [, Level 0]: '♫Amirian♬.' has left the game
 [2021-04-04 03:19:54]: ✯|Not Bulash [|Supressed|, Level 0]: Keø: ???
+[2021-04-04 03:20:10]: ***  [, Level 0]: 'Treebeard' entered and joined the game
+[2021-04-04 03:20:16]: Rock [, Level 17]: ты изич()
