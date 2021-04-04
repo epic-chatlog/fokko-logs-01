@@ -8803,3 +8803,4 @@
 [2021-04-04 09:44:54]: ERROR. [404, Level 56]: k
 [2021-04-04 09:44:56]:   [, Level 0]: Nudelsaft c:: "
 [2021-04-04 09:45:00]:   [, Level 0]: Nudelsaft c:: "asdigawuieghauiwehuoawe
+[2021-04-04 09:45:04]: (2)ChillerDrago [|*KoG*|, Level 44]: weisst du wie das mit dem coding da funtzt ERROR sieht so closed src aus
