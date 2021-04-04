@@ -12298,3 +12298,4 @@
 [2021-04-03 17:36:25]: x7|zemer [xSD7, Level 0]: 4
 [2021-04-03 17:37:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-03 17:37:48]: sun.slow(y) [sunrise., Level 35]: hold space
+[2021-04-03 17:38:52]: ***  [, Level 0]: 'teee' has left the game
