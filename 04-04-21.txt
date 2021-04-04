@@ -2962,3 +2962,6 @@
 [2021-04-04 03:14:35]: ***  [, Level 0]: 'pumpz' joined the spectators
 [2021-04-04 03:14:37]: ***  [, Level 0]: 'Not Bulash' entered and joined the game
 [2021-04-04 03:14:41]: Lucas [THECEPS, Level 33]: Rock: thx
+[2021-04-04 03:14:43]: ***  [, Level 0]: 'Not Bulash' has left the game
+[2021-04-04 03:14:49]: WarHammer' [, Level 16]: ~DemoizL~:  XD
+[2021-04-04 03:14:53]: ***  [, Level 0]: 'pumpz' joined the game
