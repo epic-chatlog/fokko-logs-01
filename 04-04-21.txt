@@ -4311,3 +4311,5 @@
 [2021-04-04 05:11:51]: ***  [, Level 0]: '(1)ChillerDragon' has left the game (Timeout Protection over)
 [2021-04-04 05:12:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-04 05:12:21]: ***  [, Level 0]: 'Yatsu' entered and joined the game
+[2021-04-04 05:12:28]: ***  [, Level 0]: Isegrin finished in: 1 minute(s)  6.62 second(s)
+[2021-04-04 05:12:28]: ***  [, Level 0]: New record: 2 minute(s) 33.46 second(s) better.
