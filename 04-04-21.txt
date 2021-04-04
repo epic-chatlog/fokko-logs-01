@@ -6984,3 +6984,6 @@
 [2021-04-04 08:15:11]: ***  [, Level 0]: 'Лимонад' entered and joined the game
 [2021-04-04 08:15:14]: GODLIKe [hax, Level 44]: [D] mamikral011: boşa 1m verirsin spawnrifle al 1 mermili en azından tek başına endleese gidersin
 [2021-04-04 08:15:17]: S Y T H N [iPro, Level 37]: ERROR: vermutung richtig das ist fayzor
+[2021-04-04 08:15:23]: ***  [, Level 0]: 'Samurai' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-04 08:15:25]: [D] mamikral011 [, Level 0]: GODLIKe.: mantıklı
+[2021-04-04 08:15:30]: ***  [, Level 0]: 'Sky`iPro' entered and joined the game
