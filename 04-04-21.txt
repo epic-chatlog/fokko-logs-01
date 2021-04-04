@@ -12096,3 +12096,6 @@
 [2021-04-04 13:24:02]: bob [, Level 36]: weqe: i rq
 [2021-04-04 13:24:05]: weqe [MNKY, Level 11]: ok bob me2
 [2021-04-04 13:24:06]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-04 13:24:08]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-04 13:24:10]: Fearless [Fookinlads, Level 40]: rq
+[2021-04-04 13:24:15]: Isegrin [, Level 54]: xD
