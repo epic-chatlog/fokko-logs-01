@@ -1977,3 +1977,6 @@
 [2021-04-04 02:11:47]: ***  [, Level 0]: 'K1M9N' joined the spectators
 [2021-04-04 02:11:51]: ***  [, Level 0]: 'K1M9N' joined the game
 [2021-04-04 02:11:53]: PoliceTee [xSD7, Level 0]: ChillerDragon: whos idea was to host server in france - so far away from bulgaria :(
+[2021-04-04 02:12:00]: WarHammer' [, Level 16]: AFAÖJF
+[2021-04-04 02:12:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-04 02:12:01]: Boti. [.bad, Level 32]: JÓL VAN A FASZOMAT
