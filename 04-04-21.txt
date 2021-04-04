@@ -3983,3 +3983,7 @@
 [2021-04-04 04:35:41]: Kezo [FookinLads, Level 41]: rq yazın
 [2021-04-04 04:35:42]: Kezo [FookinLads, Level 41]: seri
 [2021-04-04 04:35:44]: [D] mamikral011 [, Level 20]: rq
+[2021-04-04 04:35:45]: Kezo [FookinLads, Level 41]: rq
+[2021-04-04 04:35:47]: ***  [, Level 0]: 'Kezo' has been muted for 60 seconds
+[2021-04-04 04:35:50]: kurama [, Level 7]: чивооо
+[2021-04-04 04:35:55]: kurama [, Level 7]: что это было??
