@@ -3931,3 +3931,5 @@
 [2021-04-04 04:29:56]: ←   [, Level 0]: Ghost 2.0.: do you have the jetpack ?
 [2021-04-04 04:30:01]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
 [2021-04-04 04:30:24]: [D] mamikral011 [, Level 20]: Kezo: biz
+[2021-04-04 04:30:29]: (1)Friendiship  [, Level 0]: wait
+[2021-04-04 04:30:31]: Rock [, Level 17]: Ghost 2.0.:
