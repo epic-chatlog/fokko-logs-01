@@ -8702,3 +8702,6 @@
 [2021-04-04 09:36:07]:   [, Level 0]: mami: (3)SAUD:  oke
 [2021-04-04 09:36:27]:   [, Level 0]: x7|zemer: BulgarianTee: Come
 [2021-04-04 09:36:33]: ***  [, Level 0]: 'Cap'tain roc' has left the game
+[2021-04-04 09:36:42]: (1)ERROR [404, Level 47]: ChillerDragon.*:  wir sind im team 4 leute, ich bin da für mysql, und quests schreiben. der rest für c++ etc arbeiten am source und coden. heißt ich betreibe den itemshop die zahlung etc am ende der woche teilen wir alle einna
+[2021-04-04 09:36:44]: ***  [, Level 0]: 'HANDS_ON_RPG' has left the game
+[2021-04-04 09:36:50]: (1)ERROR [404, Level 47]: eine gute woche ist, nehmen wir mal so 3k ein.
