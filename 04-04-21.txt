@@ -3920,3 +3920,6 @@
 [2021-04-04 04:29:12]: ***  [, Level 0]: '[D] Sutzer' has left the game
 [2021-04-04 04:29:12]: ***  [, Level 0]: 'Sutzer' has left the game
 [2021-04-04 04:29:19]: ビール|Zero [Drunks, Level 27]: Ghost 2.0.: wait
+[2021-04-04 04:29:27]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
+[2021-04-04 04:29:27]: [D] mamikral011 [, Level 20]: BC|Tixnix: :D
+[2021-04-04 04:29:30]: ***  [, Level 0]: 'Torento' entered and joined the game
