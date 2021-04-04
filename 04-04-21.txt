@@ -4128,3 +4128,7 @@
 [2021-04-04 04:51:19]: Kezo [FookinLads, Level 41]: (2)ChillerDrago: school time
 [2021-04-04 04:51:41]: [D] mamikral011 [, Level 20]: Kezo: top oldu
 [2021-04-04 04:51:50]: ***  [, Level 0]: 'GoatLike' has left the game
+[2021-04-04 04:51:58]: ビール|Zero [Drunks, Level 27]: Lucas: if you want we can go to my plot_
+[2021-04-04 04:51:59]: ビール|Zero [Drunks, Level 27]: )
+[2021-04-04 04:52:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-04 04:52:02]: ***  [, Level 0]: 'GoatLike' entered and joined the game
