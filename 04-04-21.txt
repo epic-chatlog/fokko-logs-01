@@ -5905,3 +5905,6 @@
 [2021-04-04 07:05:56]: Falco641 [, Level 18]: reset Number1
 [2021-04-04 07:06:08]: Falco642 [, Level 0]: come
 [2021-04-04 07:06:15]: Noémi[Đ] [citrom, Level 32]: Punguin: /money drop ....
+[2021-04-04 07:06:23]:   [, Level 0]: BulgarianTee: E
+[2021-04-04 07:06:25]: Falco642 [, Level 0]: u can farm here
+[2021-04-04 07:06:28]: Falco642 [, Level 0]: and buy some stuff
