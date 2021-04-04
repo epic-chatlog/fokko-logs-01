@@ -12285,3 +12285,4 @@
 [2021-04-03 17:32:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-03 17:32:17]: ***  [, Level 0]: (1)P4Pyr0s finished in: 2 minute(s) 59.72 second(s)
 [2021-04-03 17:32:17]: ***  [, Level 0]: New record: 17 minute(s) 37.14 second(s) better.
+[2021-04-03 17:32:39]: УБИВАТЬ! [, Level 0]: GG WP
