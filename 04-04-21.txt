@@ -5259,3 +5259,7 @@
 [2021-04-04 06:28:43]:   [, Level 0]: comic: (1)Friendiship :
 [2021-04-04 06:28:46]: ***  [, Level 0]: 'Tee L' has left the game
 [2021-04-04 06:28:49]: Nonoh [citrom, Level 40]: Flupper: andress?
+[2021-04-04 06:28:57]:   [, Level 0]: comic: (1)Friendiship :
+[2021-04-04 06:29:01]: ***  [, Level 0]: '[D] mamikral011' has left the game
+[2021-04-04 06:29:01]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-04 06:29:02]: Punguin [HunClass, Level 0]: ?
