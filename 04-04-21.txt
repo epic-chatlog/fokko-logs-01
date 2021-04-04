@@ -13265,3 +13265,5 @@
 [2021-04-04 15:40:15]: ***  [, Level 0]: 'x7|Supers' entered and joined the game
 [2021-04-04 15:40:19]: sun.slow(y) [sunrise., Level 35]: Isegrin: eierkopf plankton
 [2021-04-04 15:40:19]: ***  [, Level 0]: 'x7|Supers' has left the game
+[2021-04-04 15:40:53]: ***  [, Level 0]: 'S Y T H N' changed name to '(1)qυѕнιкє'
+[2021-04-04 15:40:59]: x7|zemer [xSD7, Level 37]: flappy:
