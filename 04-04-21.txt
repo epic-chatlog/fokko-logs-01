@@ -2696,3 +2696,5 @@
 [2021-04-04 02:51:57]: [D] BC|kakashi [BC, Level 0]: kurama:
 [2021-04-04 02:52:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-04 02:52:04]: ChillerDragon [Chilli.*, Level 44]: omw
+[2021-04-04 02:52:27]: Cylox.♥ [♥, Level 0]: pro
+[2021-04-04 02:52:35]: Cylox [♥, Level 30]: pro
