@@ -4707,3 +4707,5 @@
 [2021-04-04 05:53:59]: ***  [, Level 0]: 'GoatLike' has left the game
 [2021-04-04 05:53:59]: ***  [, Level 0]: 'coprophile' has left the game
 [2021-04-04 05:54:15]: ***  [, Level 0]: 'Nonoh' entered and joined the game
+[2021-04-04 05:54:24]: ***  [, Level 0]: 'Noémi[Đ]' entered and joined the game
+[2021-04-04 05:54:29]: mamikral011 [, Level 25]: ERROR.:
