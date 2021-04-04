@@ -9169,3 +9169,4 @@
 [2021-04-04 10:05:41]: ***  [, Level 0]: 'Rock' has left the game
 [2021-04-04 10:05:42]: ***  [, Level 0]: 'Isegrin' has left the game
 [2021-04-04 10:05:43]: (2)ChillerDrago [|*KoG*|, Level 44]: Nudelsaft c:: #!/bin/bash in erste zeile für good style
+[2021-04-04 10:05:53]: (2)ChillerDrago [|*KoG*|, Level 44]: oder /usr/bin/env bash Nudelsaft c:
