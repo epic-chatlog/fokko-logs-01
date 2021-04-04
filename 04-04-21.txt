@@ -8814,3 +8814,11 @@
 [2021-04-04 09:45:52]:   [, Level 0]: Pigie♥: oh SAUD
 [2021-04-04 09:45:57]:   [, Level 0]: Nudelsaft c:: (2)ChillerDrago: gucke ob ich den bot iwie ingame abusen kann aber glaube das endet dann immer mit invalid json und wird garnich erst von dc als message erkannt xd
 [2021-04-04 09:46:00]: GameOver [Vodka, Level 0]: ERROR portal for bank
+[2021-04-04 09:46:04]: ***  [, Level 0]: 'nameless te' entered and joined the game
+[2021-04-04 09:46:07]: WarHammer [, Level 0]: mamikral011:  atamam
+[2021-04-04 09:46:09]: mamikral011 [, Level 26]: WarHammer: para lazım
+[2021-04-04 09:46:11]: GameOver [Vodka, Level 0]: ERROR portal for bank
+[2021-04-04 09:46:12]: mamikral011 [, Level 26]: WarHammer: öle olsun
+[2021-04-04 09:46:12]:   [, Level 0]: (2)ChillerDragon: i see Nudelsaft c:
+[2021-04-04 09:46:14]:   [, Level 0]: Nudelsaft c:: (2)ChillerDrago: vlt sollte ich quotes escapen
+[2021-04-04 09:46:14]:   [, Level 0]: (2)ChillerDragon: @everyone Nudelsaft c:
