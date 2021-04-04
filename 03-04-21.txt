@@ -12730,3 +12730,5 @@
 [2021-04-03 21:42:03]: x7|Flipper [xSD7, Level 13]: XDD
 [2021-04-03 21:42:05]: SAUD [, Level 0]: xD
 [2021-04-03 21:42:24]: SAUD [, Level 0]: waiting for someone?
+[2021-04-03 21:42:33]: Flupper [, Level 0]: i have nobody
+[2021-04-03 21:42:36]: SAUD [, Level 0]: ohh
