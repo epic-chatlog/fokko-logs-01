@@ -2101,3 +2101,4 @@
 [2021-04-04 02:18:39]: Boti. [.bad, Level 32]: ennyi
 [2021-04-04 02:18:40]: ***  [, Level 0]: '[D] BC|kakashi' entered and joined the game
 [2021-04-04 02:18:41]: Boti. [.bad, Level 32]: 2x yes
+[2021-04-04 02:19:04]: Boti. [.bad, Level 32]: dede
