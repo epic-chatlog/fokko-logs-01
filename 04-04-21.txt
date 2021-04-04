@@ -5822,3 +5822,5 @@
 [2021-04-04 07:01:30]:   [, Level 0]: Number1: stuck
 [2021-04-04 07:01:35]:   [, Level 0]: Falco642: ok
 [2021-04-04 07:01:36]:   [, Level 0]: Falco642: reset
+[2021-04-04 07:01:43]:   [, Level 0]: BulgarianTee: E
+[2021-04-04 07:01:47]: Punguin [HunClass, Level 0]: Nonoh: van nalam money
