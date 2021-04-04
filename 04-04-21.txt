@@ -3752,3 +3752,7 @@
 [2021-04-04 04:12:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-04 04:12:03]: Kezo [FookinLads, Level 41]: lag
 [2021-04-04 04:12:06]: ***  [, Level 0]: koro is on a killing spree with 5 blocks
+[2021-04-04 04:12:16]: ***  [, Level 0]: 'darkstar' entered and joined the game
+[2021-04-04 04:12:22]: bob [, Level 36]: DarkStar:
+[2021-04-04 04:12:23]: [D] mamikral011 [, Level 20]: Cylox: elleme onu
+[2021-04-04 04:12:25]: bob [, Level 36]: darkstar: daktar
