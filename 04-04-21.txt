@@ -6435,3 +6435,13 @@
 [2021-04-04 07:54:19]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
 [2021-04-04 07:54:21]: ***  [, Level 0]: '[D] mamikral011' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-04 07:54:21]: ***  [, Level 0]: 'mamikral011' has left the game (Timeout)
+[2021-04-04 07:54:24]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-04 07:54:25]: ***  [, Level 0]: 'puppy' has left the game
+[2021-04-04 07:54:26]: kurama [, Level 8]: puppy:
+[2021-04-04 07:54:28]: kurama [, Level 8]: [D] Sutzer:
+[2021-04-04 07:54:28]: ***  [, Level 0]: 'emanuel321go' has left the game
+[2021-04-04 07:54:30]: (1)K҉E҉N҉O҉ [ZzzZzz, Level 0]: (1)SAUD:
+[2021-04-04 07:54:30]:   [, Level 0]: kais: who ?
+[2021-04-04 07:54:32]: (1)K҉E҉N҉O҉ [ZzzZzz, Level 0]: SAUD:
+[2021-04-04 07:54:32]: SAUD [, Level 21]: YEAH
+[2021-04-04 07:54:33]:   [, Level 0]: Supers: Samurai:  wtf
