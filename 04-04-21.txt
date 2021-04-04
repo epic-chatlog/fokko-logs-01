@@ -12515,3 +12515,4 @@
 [2021-04-04 14:17:48]: (2)ERROR [404, Level 40]: fearless is kinda cute if ur saying this
 [2021-04-04 14:18:20]: (2)ERROR [404, Level 40]: mnoob
 [2021-04-04 14:18:22]: Isegrin [, Level 54]: u
+[2021-04-04 14:18:37]: ***  [, Level 0]: 'Shiro.' entered and joined the game
