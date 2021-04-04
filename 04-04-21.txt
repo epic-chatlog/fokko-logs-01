@@ -2505,3 +2505,7 @@
 [2021-04-04 02:38:22]: ***  [, Level 0]: 'kurama' has left the game
 [2021-04-04 02:38:27]: BC|Tixnix [BC, Level 33]: WarHammer':
 [2021-04-04 02:38:27]: ***  [, Level 0]: 'kurama' entered and joined the game
+[2021-04-04 02:38:30]: ***  [, Level 0]: '(1)kais' has left the game
+[2021-04-04 02:38:30]: ***  [, Level 0]: 'kais' has left the game
+[2021-04-04 02:38:35]: Kiøn1029 [.bad, Level 31]: telóm már 8x kikapcsolt
+[2021-04-04 02:38:39]: Boti. [.bad, Level 32]: az fasza
