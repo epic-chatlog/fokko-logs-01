@@ -9619,3 +9619,5 @@
 [2021-04-04 10:42:38]: mami [, Level 0]: yes
 [2021-04-04 10:42:43]: ♥TAKO♥ [, Level 24]: down
 [2021-04-04 10:42:44]: mami [, Level 0]: wait
+[2021-04-04 10:43:00]: ***  [, Level 0]: 'Neutral' entered and joined the game
+[2021-04-04 10:43:01]: ***  [, Level 0]: 'Maatiteusz' entered and joined the game
