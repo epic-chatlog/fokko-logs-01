@@ -12430,3 +12430,4 @@
 [2021-04-03 18:20:44]: ***  [, Level 0]: 'Flupper' entered and joined the game
 [2021-04-03 18:21:02]: Flupper [, Level 0]: noname
 [2021-04-03 18:22:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-03 18:24:34]: ***  [, Level 0]: 'Hurricaɴe' entered and joined the game
