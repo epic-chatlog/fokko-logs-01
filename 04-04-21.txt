@@ -4271,3 +4271,4 @@
 [2021-04-04 05:07:51]: ***  [, Level 0]: '(2)ChillerDragon' would have timed out, but can use timeout protection now
 [2021-04-04 05:07:51]: ***  [, Level 0]: '(1)ChillerDragon' would have timed out, but can use timeout protection now
 [2021-04-04 05:07:54]: Isegrin [, Level 54]: rq
+[2021-04-04 05:09:12]: ***  [, Level 0]: 'lolpoep' has left the game
