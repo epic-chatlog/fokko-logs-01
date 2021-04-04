@@ -12446,3 +12446,4 @@
 [2021-04-04 14:04:56]: ***  [, Level 0]: 'mamikral011' has left the game
 [2021-04-04 14:04:58]: ***  [, Level 0]: 'koro' would have timed out, but can use timeout protection now
 [2021-04-04 14:04:58]: ***  [, Level 0]: 'keø' would have timed out, but can use timeout protection now
+[2021-04-04 14:06:03]: ***  [, Level 0]: '[D] ERROR' entered and joined the game
