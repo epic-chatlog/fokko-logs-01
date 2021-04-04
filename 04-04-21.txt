@@ -100,3 +100,7 @@
 [2021-04-04 00:09:27]: BulgarianTee [xSD7, Level 0]: heavy gayneral
 [2021-04-04 00:09:27]: x7|Flipper [xSD7, Level 14]: ah
 [2021-04-04 00:09:41]: x7|Flipper [xSD7, Level 14]: who is that
+[2021-04-04 00:09:48]: PoliceTee [xSD7, Level 0]: x7|Flipper: can you guess?
+[2021-04-04 00:09:51]: x7|Flipper [xSD7, Level 14]: no
+[2021-04-04 00:09:53]: PoliceTee [xSD7, Level 0]: LMAOO
+[2021-04-04 00:09:56]: x7|Flipper [xSD7, Level 14]: bulg?
