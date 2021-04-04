@@ -13173,3 +13173,4 @@
 [2021-04-04 15:26:24]: Isegrin [, Level 54]: RAPIST
 [2021-04-04 15:27:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-04 15:27:27]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-04 15:27:35]: ***  [, Level 0]: ### 'power' yoyoyo
