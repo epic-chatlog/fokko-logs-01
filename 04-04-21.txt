@@ -5229,3 +5229,5 @@
 [2021-04-04 06:26:44]: [D] mamikral011 [, Level 20]: ERROR.: you no helper :D
 [2021-04-04 06:26:45]: Andresss [Citrom, Level 0]: en nem
 [2021-04-04 06:26:49]: (1)ERROR. [404, Level 24]: Fearless:  imagine teaming with someone who kills u always xDDD
+[2021-04-04 06:27:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-04 06:27:03]: Fearless [FookinLads, Level 40]: ERROR:  nah koro and me are friends now
