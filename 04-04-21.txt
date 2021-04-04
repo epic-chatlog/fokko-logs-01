@@ -7736,3 +7736,9 @@
 [2021-04-04 08:51:20]: ***  [, Level 0]: 'kurama' has left the game
 [2021-04-04 08:51:25]: [D] mamikral011 [, Level 20]: :D
 [2021-04-04 08:51:27]: BulgarianTee [xSD7, Level 0]: E
+[2021-04-04 08:51:31]: [D] mamikral011 [, Level 20]: koro: OPff
+[2021-04-04 08:51:35]: [D] mamikral011 [, Level 20]: koro: :D
+[2021-04-04 08:51:38]: ***  [, Level 0]: 'MieSlime' would have timed out, but can use timeout protection now
+[2021-04-04 08:51:38]: ***  [, Level 0]: 'Asta' would have timed out, but can use timeout protection now
+[2021-04-04 08:51:40]: ***  [, Level 0]: '[D] BC|Tixnix' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-04 08:51:41]: ChillerDragon [Chilli.*, Level 44]: BulgarianTee: look mi
