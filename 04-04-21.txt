@@ -12511,3 +12511,5 @@
 [2021-04-04 14:17:26]: (2)ERROR [404, Level 40]: not ERROR
 [2021-04-04 14:17:31]: Isegrin [, Level 54]: ur 16
 [2021-04-04 14:17:35]: (2)ERROR [404, Level 40]: almost
+[2021-04-04 14:17:43]: Isegrin [, Level 54]: so legal?
+[2021-04-04 14:17:48]: (2)ERROR [404, Level 40]: fearless is kinda cute if ur saying this
