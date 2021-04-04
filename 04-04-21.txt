@@ -3743,3 +3743,6 @@
 [2021-04-04 04:11:00]: ***  [, Level 0]: 'ChillerDragon' finished the special race!
 [2021-04-04 04:11:19]: ビール|Zero [Drunks, Level 27]: сел и сиди!"
 [2021-04-04 04:11:25]: mamikral011 [, Level 25]: (1)x7|FayZoR:
+[2021-04-04 04:11:31]: mamikral011 [, Level 25]: x7|FayZoR: help
+[2021-04-04 04:11:33]: [D] BC|kakashi [BC, Level 13]: kurama: ok bye
+[2021-04-04 04:11:36]: ***  [, Level 0]: 'Ghost 2.0.' entered and joined the game
