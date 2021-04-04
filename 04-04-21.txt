@@ -11299,3 +11299,6 @@
 [2021-04-04 12:46:50]: nameless [, Level 0]: ✯ |toxicdaddy: muahaha
 [2021-04-04 12:46:52]: ***  [, Level 0]: 'trurlik' entered and joined the game
 [2021-04-04 12:46:54]: ***  [, Level 0]: 'Matihaltameki69' entered and joined the game
+[2021-04-04 12:47:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 12:47:03]: ***  [, Level 0]: (1)kais is on a killing spree with 25 blocks
+[2021-04-04 12:47:04]: ✯ |toxicdaddy [|Supressed, Level 0]: nameless: endless nub
