@@ -12558,3 +12558,5 @@
 [2021-04-04 14:21:57]: ***  [, Level 0]: 'just tae' entered and joined the game
 [2021-04-04 14:22:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-04 14:22:05]: Isegrin [, Level 54]: (2)ERROR: shiro wanted to see ur pipi
+[2021-04-04 14:22:14]: (2)ERROR [404, Level 40]: yea
+[2021-04-04 14:22:18]: (2)ERROR [404, Level 40]: i didnt sent now his mad
