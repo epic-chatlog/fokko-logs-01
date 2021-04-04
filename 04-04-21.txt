@@ -5566,3 +5566,5 @@
 [2021-04-04 06:45:49]:   [, Level 0]: (2)ERROR: best team
 [2021-04-04 06:46:08]: Nonoh [citrom, Level 40]: S Y T H N: war?
 [2021-04-04 06:46:10]: (1)Kirito [♥, Level 34]: Ghost:  GRENADE TO THE FLOOR
+[2021-04-04 06:46:21]: Nonoh [citrom, Level 40]: S Y T H N: kion1029 your friend?
+[2021-04-04 06:46:26]: S Y T H N [iPro, Level 37]: Nonoh: naa
