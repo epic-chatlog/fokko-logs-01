@@ -9994,3 +9994,9 @@
 [2021-04-04 11:08:24]: Nudelsaft c: [FookinLads, Level 60]: Isegrin: i see i see
 [2021-04-04 11:08:36]: ***  [, Level 0]: 'Sutzer' entered and joined the game
 [2021-04-04 11:09:08]: (1)Kirito [♥, Level 34]: x7|FayZoR:
+[2021-04-04 11:09:11]: (1)Kirito [♥, Level 34]: x7|FayZoR: he will be here
+[2021-04-04 11:09:18]: ***  [, Level 0]: 'SAUD' has left the game
+[2021-04-04 11:09:18]: ***  [, Level 0]: '(3)SAUD' has left the game
+[2021-04-04 11:09:18]: ***  [, Level 0]: '(1)SAUD' has left the game
+[2021-04-04 11:09:18]: ***  [, Level 0]: '(2)SAUD' has left the game
+[2021-04-04 11:09:21]: ***  [, Level 0]: 'King Huskyfluf' entered and joined the game
