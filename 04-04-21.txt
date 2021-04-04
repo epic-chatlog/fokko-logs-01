@@ -1259,3 +1259,6 @@
 [2021-04-04 01:28:54]: Kiøn1029 [.bad, Level 31]: szed
 [2021-04-04 01:28:55]: Kiøn1029 [.bad, Level 31]: XDDD
 [2021-04-04 01:28:57]: Boti. [.bad, Level 32]: az
+[2021-04-04 01:29:16]: Boti. [.bad, Level 32]: de mii
+[2021-04-04 01:29:16]: Kiøn1029 [.bad, Level 31]: éjfélkor ma reveal volt
+[2021-04-04 01:29:17]: Boti. [.bad, Level 32]: a csalo
