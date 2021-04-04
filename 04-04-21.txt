@@ -5481,3 +5481,9 @@
 [2021-04-04 06:40:55]: mami [Ape, Level 0]: :SPEC
 [2021-04-04 06:41:00]: comic [comically, Level 12]: .0: take my jet
 [2021-04-04 06:41:00]:   [, Level 0]: ♥TAKO♥: BB
+[2021-04-04 06:41:07]: ***  [, Level 0]: 'x7|FayZoR' has left the game
+[2021-04-04 06:41:07]: ***  [, Level 0]: 'x7|Chronos' has left the game
+[2021-04-04 06:41:09]: ***  [, Level 0]: '(1)x7|Chronos' changed name to 'x7|Chronos'
+[2021-04-04 06:41:09]: ***  [, Level 0]: '(1)x7|FayZoR' changed name to 'x7|FayZoR'
+[2021-04-04 06:41:09]: Maatiteusz [TrRShClNrRs, Level 35]: koro: XD?
+[2021-04-04 06:41:13]: Noémi[Đ] [citrom, Level 32]: god
