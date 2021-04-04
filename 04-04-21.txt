@@ -1800,3 +1800,5 @@
 [2021-04-04 02:01:34]: Boti. [.bad, Level 32]: flag mindjárt respawnol
 [2021-04-04 02:01:42]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
 [2021-04-04 02:01:46]: BulgarianTee [xSD7, Level 38]: E
+[2021-04-04 02:01:57]: Boti. [.bad, Level 32]: de nem ment
+[2021-04-04 02:02:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
