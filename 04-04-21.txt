@@ -1579,3 +1579,5 @@
 [2021-04-04 01:48:21]: TimePause's nub [xSD7, Level 13]: ok
 [2021-04-04 01:48:27]: Boti. [.bad, Level 32]: Kiøn1029: fayzor ír hogy el megy ebédelni de kinek szól ha úgy is afkol 0/24
 [2021-04-04 01:48:35]: Boti. [.bad, Level 32]: khm 14 órája blmapchillen
+[2021-04-04 01:48:45]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-04 01:48:51]: Kiøn1029 [.bad, Level 31]: vigyük ki a racet
