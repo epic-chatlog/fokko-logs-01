@@ -234,3 +234,8 @@
 [2021-04-04 00:21:45]: BulgarianTee [xSD7, Level 38]: x7|Flipper: um
 [2021-04-04 00:22:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-04 00:22:05]: BulgarianTee [xSD7, Level 38]: x7|Flipper: nouu's
+[2021-04-04 00:22:10]: x7|Flipper [xSD7, Level 14]: who is that
+[2021-04-04 00:22:15]: BulgarianTee [xSD7, Level 38]: x7|Flipper: no idea i forgot
+[2021-04-04 00:22:18]: ***  [, Level 0]: (1)kais finished in: 4 minute(s) 20.10 second(s)
+[2021-04-04 00:22:18]: ***  [, Level 0]: New record: 11 minute(s) 18.68 second(s) better.
+[2021-04-04 00:22:18]: ***  [, Level 0]: '(1)kais' finished the special race!
