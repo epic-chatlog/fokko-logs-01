@@ -4657,3 +4657,5 @@
 [2021-04-04 05:49:06]: Isegrin [, Level 54]: (1)ERROR: :-(
 [2021-04-04 05:49:23]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-04 05:49:35]: Cylox♥ [♥, Level 0]: amın oglu
+[2021-04-04 05:49:43]: [D] mamikral011 [, Level 20]: Cylox♥: ne dion lan
+[2021-04-04 05:49:46]: Cylox♥ [♥, Level 0]: sanademedım
