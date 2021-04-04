@@ -2743,3 +2743,7 @@
 [2021-04-04 02:55:19]: bob [, Level 36]: nene
 [2021-04-04 02:55:23]: ChillerDragon [|*KoG*|, Level 44]: so dreckig
 [2021-04-04 02:55:24]: ChillerDragon [|*KoG*|, Level 44]: lw af
+[2021-04-04 02:55:29]: ChillerDragon [|*KoG*|, Level 44]: lass doch wb
+[2021-04-04 02:55:30]: ***  [, Level 0]: 'MADZO' has left the game (Timeout)
+[2021-04-04 02:55:30]: ***  [, Level 0]: 'Kezo' has left the game (Timeout)
+[2021-04-04 02:55:33]: (3)SAUD [, Level 20]: YelloWorlD:
