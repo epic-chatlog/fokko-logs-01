@@ -4739,3 +4739,4 @@
 [2021-04-04 05:56:01]: Nonoh [citrom, Level 40]: Kirito: hmm
 [2021-04-04 05:56:02]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 34.94 second(s)
 [2021-04-04 05:56:02]: ***  [, Level 0]: New record:  4.74 second(s) better.
+[2021-04-04 05:56:23]: ERROR [404, Level 73]: bob portal weg oder wie xD
