@@ -1538,3 +1538,6 @@
 [2021-04-04 01:44:44]: ***  [, Level 0]: 'MADZO' has left the game
 [2021-04-04 01:44:45]: ***  [, Level 0]: '[D] BC|Tixnix' finished the special race!
 [2021-04-04 01:44:49]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-04 01:44:54]: (2)SAUD [, Level 3]: how [D] Rawad
+[2021-04-04 01:45:02]: (2)SAUD [, Level 3]: give me 5 m pls
+[2021-04-04 01:45:03]: BulgarianTee [xSD7, Level 38]: rq
