@@ -6294,3 +6294,6 @@
 [2021-04-04 07:45:07]: [D] mamikral011 [, Level 20]: ビール|Zero: 30k pay
 [2021-04-04 07:45:13]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
 [2021-04-04 07:45:16]: kurama [, Level 8]: ビール|Zero: он даун?
+[2021-04-04 07:45:21]: Rock [, Level 18]: mamikral011: help him
+[2021-04-04 07:45:22]: ***  [, Level 0]: 'PoliceTee' has left the game
+[2021-04-04 07:45:23]: ***  [, Level 0]: 'xaxaxa' changed name to 'xaxa'
