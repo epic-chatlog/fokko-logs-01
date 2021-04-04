@@ -4864,3 +4864,5 @@
 [2021-04-04 06:03:42]: ***  [, Level 0]: 'mami' entered and joined the game
 [2021-04-04 06:03:43]: comic [comically, Level 12]: Isegrin:
 [2021-04-04 06:03:48]: Fearless [FookinLads, Level 40]: Kirito:  rip
+[2021-04-04 06:03:54]: Kirito [, Level 0]: idc look my main
+[2021-04-04 06:03:57]: ***  [, Level 0]: 'bob' has left the game
