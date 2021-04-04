@@ -78,3 +78,6 @@
 [2021-04-04 00:06:48]: x7|Flipper [xSD7, Level 14]: WTF
 [2021-04-04 00:06:57]: MORFY [, Level 28]: [D]Torento: q
 [2021-04-04 00:07:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-04 00:07:06]: [D]Torento [, Level 0]: comic: wtf
+[2021-04-04 00:07:10]: comic [comically, Level 12]: [D]Torento: ?
+[2021-04-04 00:07:13]: ***  [, Level 0]: 'kais' has left the game
