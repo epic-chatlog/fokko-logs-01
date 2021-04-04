@@ -9374,3 +9374,6 @@
 [2021-04-04 10:21:52]: ***  [, Level 0]: 'P4Pyr0s' has left the game (Timeout)
 [2021-04-04 10:21:56]: ビール|Zero [Drunks, Level 27]: any: im his friend
 [2021-04-04 10:22:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 10:22:07]: MieSlime [FookinLads, Level 43]: PureLuck:  ahahahahah very good humour -_-
+[2021-04-04 10:22:08]: PoliceTee [xSD7, Level 25]: E
+[2021-04-04 10:22:15]: ***  [, Level 0]: 'MieSlime' has left the game
