@@ -6002,3 +6002,6 @@
 [2021-04-04 07:12:40]: [D] Punguin [, Level 0]: Nonoh:
 [2021-04-04 07:12:41]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
 [2021-04-04 07:12:44]: ***  [, Level 0]: 'deSi' entered and joined the game
+[2021-04-04 07:12:45]: ***  [, Level 0]: 'Jiraya' has left the game
+[2021-04-04 07:12:46]: ***  [, Level 0]: 'bestvaki' entered and joined the game
+[2021-04-04 07:12:51]: ***  [, Level 0]: 'PoliceTee' has left the game
