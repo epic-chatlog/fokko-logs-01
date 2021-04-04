@@ -13513,3 +13513,7 @@
 [2021-04-03 23:51:40]: ***  [, Level 0]: 'MORFY' entered and joined the game
 [2021-04-03 23:51:47]: [D] Boti. [.bad, Level 27]: afkol spawnon
 [2021-04-03 23:51:49]: [D] Boti. [.bad, Level 27]: ..
+[2021-04-03 23:51:57]: Kiøn1029 [.bad, Level 31]: fos
+[2021-04-03 23:52:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-03 23:52:02]: Kiøn1029 [.bad, Level 31]: még alszik biztos
+[2021-04-03 23:52:04]: [D] Boti. [.bad, Level 27]: most tanul járni
