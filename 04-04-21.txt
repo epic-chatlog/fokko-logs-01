@@ -13445,3 +13445,7 @@
 [2021-04-04 16:04:13]: Shiro. [Whɪтє, Level 42]: pour l'instant tu te fais péter le cul par ~DemoizL~
 [2021-04-04 16:04:18]: ***  [, Level 0]: '(1)Nudelsaft c:"' entered and joined the game
 [2021-04-04 16:04:23]: x7|FayZoR [xSD7, Level 42]: Shiro.: j'essaye mais j'ai 50 personnes a kill avant d'arriver
+[2021-04-04 16:04:36]: ***  [, Level 0]: 'Nudelsaft c:"' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-04 16:04:36]: Shiro. [Whɪтє, Level 42]: d'accord
+[2021-04-04 16:04:39]: Shiro. [Whɪтє, Level 42]: j'ai le serv entier à tuer
+[2021-04-04 16:04:42]: x7|FayZoR [xSD7, Level 42]: Shiro.: logique j'oublie qu'il stagne la
