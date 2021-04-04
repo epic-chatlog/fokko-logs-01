@@ -12146,3 +12146,4 @@
 [2021-04-03 17:06:59]: ***  [, Level 0]: [RUS]'s killing spree was ended by fomin (9 blocks)
 [2021-04-03 17:07:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-03 17:07:01]: x7|zemer [xSD7, Level 0]: DDDDDDDDDD
+[2021-04-03 17:07:28]: x7|zemer [xSD7, Level 0]: P
