@@ -10721,3 +10721,5 @@
 [2021-04-04 12:15:21]: ***  [, Level 0]: 'All Apologies' joined the spectators
 [2021-04-04 12:15:23]: |ΛnץOиe| [, Level 0]: sorry im bad
 [2021-04-04 12:15:25]: ***  [, Level 0]: 'All Apologies' joined the game
+[2021-04-04 12:16:03]: ***  [, Level 0]: 'NetFlix' entered and joined the game
+[2021-04-04 12:16:07]: ***  [, Level 0]: 'All Apologies' joined the spectators
