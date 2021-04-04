@@ -1500,3 +1500,7 @@
 [2021-04-04 01:42:48]: BulgarianTee [xSD7, Level 38]: rq
 [2021-04-04 01:42:51]: BulgarianTee [xSD7, Level 38]: rage timeout
 [2021-04-04 01:42:51]: •Slowy [FookinLads, Level 38]: yrq timeout
+[2021-04-04 01:42:53]: •Slowy [FookinLads, Level 38]: rq
+[2021-04-04 01:42:55]: •Slowy [FookinLads, Level 38]: rqqq
+[2021-04-04 01:42:56]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-04 01:43:00]: BulgarianTee [xSD7, Level 38]: rage join
