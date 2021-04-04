@@ -3846,3 +3846,4 @@
 [2021-04-04 04:21:00]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
 [2021-04-04 04:21:02]: ***  [, Level 0]: 'haxxless dummy' has left the game
 [2021-04-04 04:21:02]: ***  [, Level 0]: 'Spec|Ecl' has left the game
+[2021-04-04 04:21:20]: ***  [, Level 0]: '[D] Fearless' has left the game
