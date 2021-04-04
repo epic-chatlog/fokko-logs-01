@@ -12275,3 +12275,6 @@
 [2021-04-03 17:29:33]: sun.slow(y) [sunrise., Level 35]: :D
 [2021-04-03 17:29:40]: sun.slow(y) [sunrise., Level 35]: OP|Supers: lad in euren call ein
 [2021-04-03 17:29:53]: ***  [, Level 0]: OP|Supers's killing spree was ended by УБИВАТЬ! (5 blocks)
+[2021-04-03 17:29:59]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-03 17:30:02]: OP|Supers [OldPlayers, Level 39]: :D
+[2021-04-03 17:30:04]: OP|Supers [OldPlayers, Level 39]: stop
