@@ -5736,3 +5736,9 @@
 [2021-04-04 06:56:35]:   [, Level 0]: Isegrin: Noémi[Đ]: rUDEE
 [2021-04-04 06:56:42]: Falco642 [, Level 0]: wanna see magic
 [2021-04-04 06:56:44]:   [, Level 0]: Number1: k
+[2021-04-04 06:56:55]: Falco642 [, Level 0]: xd
+[2021-04-04 06:56:56]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-04 06:56:58]:   [, Level 0]: Isegrin: (2)ERROR: :-)
+[2021-04-04 06:57:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-04 06:57:01]: ᅟᅟ [, Level 0]: Punguin:  how long do you play this sgame
+[2021-04-04 06:57:01]:   [, Level 0]: Number1: im freezedd
