@@ -4140,3 +4140,6 @@
 [2021-04-04 04:52:47]: ビール|Zero [Drunks, Level 27]: kurama: congratulations
 [2021-04-04 04:53:08]: [D] mamikral011 [, Level 20]: Kezo:
 [2021-04-04 04:53:16]: [D] mamikral011 [, Level 20]: Tziys*: al iki dk
+[2021-04-04 04:53:27]: [D] mamikral011 [, Level 20]: Tziys*:
+[2021-04-04 04:53:29]: ***  [, Level 0]: '[D] Deadmouse' has left the game
+[2021-04-04 04:53:34]: ***  [, Level 0]: 'OLALAA' entered and joined the game
