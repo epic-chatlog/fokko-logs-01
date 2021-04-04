@@ -1897,3 +1897,6 @@
 [2021-04-04 02:06:42]: ***  [, Level 0]: 'x7|TimePause' has left the game
 [2021-04-04 02:06:45]: BulgarianTee [xSD7, Level 38]: rq
 [2021-04-04 02:06:45]: Boti. [.bad, Level 32]: rq
+[2021-04-04 02:06:51]: ChillerDragon.* [Chilli.*, Level 41]: jumps good BulgarianTee
+[2021-04-04 02:06:55]: ChillerDragon.* [Chilli.*, Level 41]: but i die anyways BulgarianTee
+[2021-04-04 02:07:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
