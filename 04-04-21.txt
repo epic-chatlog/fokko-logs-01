@@ -8725,3 +8725,5 @@
 [2021-04-04 09:38:22]: BC|kakashi [BC, Level 25]: ERROR: was sollte das sein huch
 [2021-04-04 09:38:35]: ERROR. [404, Level 56]: (1)ChillerDrago:  server läuft nicht in deutschland also unwichtig für mich
 [2021-04-04 09:38:36]: (2)ChillerDrago [Chilli.*, Level 44]: ERROR: was für quests schreiben?
+[2021-04-04 09:38:43]: (2)ChillerDrago [Chilli.*, Level 44]: so funtzt das nich ERROR xd
+[2021-04-04 09:38:44]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
