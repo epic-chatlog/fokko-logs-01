@@ -12291,3 +12291,5 @@
 [2021-04-03 17:34:07]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 10 blocks
 [2021-04-03 17:35:16]: ***  [, Level 0]: 'ᅟᅟᅟᅟ' finished the special race!
 [2021-04-03 17:35:16]: ***  [, Level 0]: ᅟᅟᅟᅟ finished in: 9 minute(s) 50.94 second(s)
+[2021-04-03 17:35:20]: ***  [, Level 0]: 'OP|Supers' finished the special race!
+[2021-04-03 17:35:20]: (1)Kirito [, Level 24]: ups
