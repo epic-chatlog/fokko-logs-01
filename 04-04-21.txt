@@ -9534,3 +9534,6 @@
 [2021-04-04 10:35:55]: x7|FayZoR [xSD7, Level 42]: x7|zemer: np for your start
 [2021-04-04 10:35:56]: SAUD [, Level 21]: see
 [2021-04-04 10:35:59]: x7|zemer [xSD7, Level 37]: x7|FayZoR: :D
+[2021-04-04 10:36:26]: ***  [, Level 0]: 'Clight.' has left the game
+[2021-04-04 10:36:27]: SAUD [, Level 21]: x7|zemer:  u from us ?
+[2021-04-04 10:36:35]: Clight! [, Level 30]: ping var
