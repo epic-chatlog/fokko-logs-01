@@ -12480,3 +12480,4 @@
 [2021-04-03 19:32:35]: ***  [, Level 0]: 'HΛVΛ' entered and joined the game
 [2021-04-03 19:37:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-03 19:42:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-03 19:42:50]: ***  [, Level 0]: '(1)HΛVΛ' entered and joined the game
