@@ -1381,3 +1381,5 @@
 [2021-04-04 01:37:01]: BulgarianTee [xSD7, Level 38]: HeavyGeneral: fake?
 [2021-04-04 01:37:10]: HeavyGeneral [FookinLads, Level 44]: yes
 [2021-04-04 01:37:10]: Kiøn1029 [.bad, Level 31]: még az utak is face revealt akarnak
+[2021-04-04 01:37:13]: BulgarianTee [xSD7, Level 38]: HeavyGeneral: ok
+[2021-04-04 01:37:22]: Boti. [.bad, Level 32]: azaz
