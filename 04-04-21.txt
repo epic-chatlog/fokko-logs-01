@@ -5065,3 +5065,7 @@
 [2021-04-04 06:18:16]: ***  [, Level 0]: New record:  0.92 second(s) better.
 [2021-04-04 06:18:16]: SAUD [, Level 20]: comic:
 [2021-04-04 06:18:21]: SAUD [, Level 20]: comic:  shit wait
+[2021-04-04 06:18:23]: comic [comically, Level 12]: SAUD: SHIT IM GONNA HAVE TO RESTART
+[2021-04-04 06:18:25]: comic [comically, Level 12]: SAUD: nooooooooo
+[2021-04-04 06:18:27]: ***  [, Level 0]: 'comic' has left the game
+[2021-04-04 06:18:30]: Fearless [FookinLads, Level 40]: koro:  <
