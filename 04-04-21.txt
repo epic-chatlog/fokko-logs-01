@@ -5026,3 +5026,6 @@
 [2021-04-04 06:16:46]: ***  [, Level 0]: 'Hurricaɴe' entered and joined the game
 [2021-04-04 06:16:48]: mami [Ape, Level 0]: help
 [2021-04-04 06:16:54]: ***  [, Level 0]: 'ᅟᅟᅟᅟ' entered and joined the game
+[2021-04-04 06:17:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-04 06:17:01]:   [, Level 0]: (1)SAUD: mami:  waqit
+[2021-04-04 06:17:08]: Fearless [FookinLads, Level 40]: koro:  lmao he killed you xaxaxax
