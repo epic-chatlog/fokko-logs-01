@@ -9093,3 +9093,6 @@
 [2021-04-04 09:59:43]: ***  [, Level 0]: mamikral011's killing spree was ended by BulgarianTee (8 blocks)
 [2021-04-04 09:59:51]: ***  [, Level 0]: BulgarianTee is on a killing spree with 5 blocks
 [2021-04-04 10:00:03]: ***  [, Level 0]: 'tsm' has left the game
+[2021-04-04 10:00:09]: ***  [, Level 0]: '[D] mamikral011' has left the game
+[2021-04-04 10:00:09]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-04 10:00:15]: ***  [, Level 0]: 'Kirill200615' entered and joined the game
