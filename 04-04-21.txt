@@ -3842,3 +3842,7 @@
 [2021-04-04 04:20:29]: ***  [, Level 0]: '(2)NetFlix' entered and joined the game
 [2021-04-04 04:20:36]: Fearless [FookinLads, Level 40]: koro:  i will help
 [2021-04-04 04:20:47]: blockcutter [, Level 0]: That one there was a violation personally I wouldn't have it
+[2021-04-04 04:20:59]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
+[2021-04-04 04:21:00]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
+[2021-04-04 04:21:02]: ***  [, Level 0]: 'haxxless dummy' has left the game
+[2021-04-04 04:21:02]: ***  [, Level 0]: 'Spec|Ecl' has left the game
