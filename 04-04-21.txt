@@ -4943,3 +4943,5 @@
 [2021-04-04 06:10:03]: mamikral011 [, Level 25]: (1)ERROR: kuul
 [2021-04-04 06:10:12]:   [, Level 0]: Virus: mamikral011: fak u D:
 [2021-04-04 06:10:13]: ***  [, Level 0]: mamikral011 is on a killing spree with 5 blocks
+[2021-04-04 06:10:20]: mamikral011 [, Level 25]: Virus: :D
+[2021-04-04 06:10:23]: Isegrin [, Level 54]: mamikral011: fak u
