@@ -10212,3 +10212,7 @@
 [2021-04-04 11:32:36]: Nudelsaft c: [FookinLads, Level 60]: so its default
 [2021-04-04 11:32:44]: ***  [, Level 0]: 'Larrybambel' entered and joined the game
 [2021-04-04 11:32:44]: MieSlime [FookinLads, Level 43]: Nudelsaft c::  i had it before
+[2021-04-04 11:32:57]: ***  [, Level 0]: 'Sutzer' has left the game
+[2021-04-04 11:32:57]: ***  [, Level 0]: '[D] Sutzer' has left the game
+[2021-04-04 11:32:58]: MieSlime [FookinLads, Level 43]: Nudelsaft c::  fool3 is a spike
+[2021-04-04 11:33:01]: wαrнαммer [, Level 26]: MORFY:  BAD
