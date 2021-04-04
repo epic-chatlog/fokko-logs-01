@@ -12291,3 +12291,9 @@
 [2021-04-04 13:44:34]: ChillerDragon [Chilli.*, Level 32]: Lucas: I am currently afk. (netflix)
 [2021-04-04 13:44:34]: nobody [, Level 44]: XD
 [2021-04-04 13:44:39]: [D] Fearless [FookinLads, Level 0]: chillerdagorn:  bad
+[2021-04-04 13:44:40]: cσκтнıпɢ [zε†α, Level 39]: Mr.KshKsh99:  we need your fire
+[2021-04-04 13:44:47]: [D] Fearless [FookinLads, Level 0]: AHHAHAH
+[2021-04-04 13:44:49]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-04 13:44:50]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-04 13:44:50]: ***  [, Level 0]: '(2)ChillerDragon' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-04 13:44:50]: ***  [, Level 0]: 'ChillerDragon.*' has left the game (Too weak connection (not acked for 60 seconds))
