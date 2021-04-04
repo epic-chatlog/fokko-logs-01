@@ -12280,3 +12280,4 @@
 [2021-04-03 17:30:04]: OP|Supers [OldPlayers, Level 39]: stop
 [2021-04-03 17:30:49]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' changed name to 'Oh Nonames!'
 [2021-04-03 17:30:53]: ***  [, Level 0]: 'x7|zemer' has left the game (Timeout)
+[2021-04-03 17:31:07]: ***  [, Level 0]: 'Oh Nonames!' changed name to 'S Y T H N'
