@@ -3943,3 +3943,6 @@
 [2021-04-04 04:31:14]: ***  [, Level 0]: 'blockcutter' has left the game
 [2021-04-04 04:31:30]: Fearless [FookinLads, Level 40]: Keø:  idiot he helps your enemies too
 [2021-04-04 04:31:34]: ***  [, Level 0]: '<-_->' entered and joined the game
+[2021-04-04 04:31:53]: ***  [, Level 0]: (1)ChillerDragon finished in: 3 minute(s) 35.16 second(s)
+[2021-04-04 04:32:01]: Cylox [♥, Level 30]: off
+[2021-04-04 04:32:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
