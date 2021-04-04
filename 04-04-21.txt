@@ -2740,3 +2740,6 @@
 [2021-04-04 02:54:53]: bob [, Level 36]: ChillerDragon: sind zu viele
 [2021-04-04 02:54:55]: bob [, Level 36]: unfair
 [2021-04-04 02:55:13]: ChillerDragon [Chilli.*, Level 44]: bob is 3v3
+[2021-04-04 02:55:19]: bob [, Level 36]: nene
+[2021-04-04 02:55:23]: ChillerDragon [|*KoG*|, Level 44]: so dreckig
+[2021-04-04 02:55:24]: ChillerDragon [|*KoG*|, Level 44]: lw af
