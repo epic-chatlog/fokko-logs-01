@@ -13187,3 +13187,8 @@
 [2021-04-03 22:54:50]: ***  [, Level 0]: (2)SAUD is on a killing spree with 15 blocks
 [2021-04-03 22:54:52]: ***  [, Level 0]: 'Boti. but 0.7' has left the game
 [2021-04-03 22:54:52]: (2)SAUD [, Level 0]: NOBO
+[2021-04-03 22:54:58]: ***  [, Level 0]: 'SAUD' has left the game
+[2021-04-03 22:54:58]: ***  [, Level 0]: '(1)SAUD' has left the game
+[2021-04-03 22:54:58]: ***  [, Level 0]: '(2)SAUD' has left the game
+[2021-04-03 22:54:58]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[2021-04-03 22:55:06]: K!ked [De}|{aBю, Level 62]: rq
