@@ -13427,3 +13427,6 @@
 [2021-04-04 16:02:37]: ***  [, Level 0]: 'Nudelsaft c:"' entered and joined the game
 [2021-04-04 16:02:37]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-04 16:02:39]: qυѕнιкє [zε†α, Level 0]: who said that
+[2021-04-04 16:02:44]: ***  [, Level 0]: 'd' entered and joined the game
+[2021-04-04 16:02:46]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-04 16:02:46]: ***  [, Level 0]: 'Nudelsaft c:"' has left the game
