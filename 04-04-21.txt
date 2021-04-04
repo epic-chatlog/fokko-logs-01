@@ -4757,3 +4757,4 @@
 [2021-04-04 05:57:26]: Virus [, Level 0]: DA
 [2021-04-04 05:57:37]: Virus [, Level 0]: bob: xaxaa
 [2021-04-04 05:57:47]: Kirito [, Level 0]: Fearless:
+[2021-04-04 05:58:00]: ***  [, Level 0]: 'COMEBODY' joined the spectators
