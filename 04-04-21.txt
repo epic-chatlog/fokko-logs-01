@@ -1356,3 +1356,10 @@
 [2021-04-04 01:34:51]: Nonoh [citrom, Level 40]: SAUD: u help my dummy and i help Rawad
 [2021-04-04 01:34:54]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-04 01:34:58]: Kiøn1029 [.bad, Level 31]: double kill
+[2021-04-04 01:35:00]: Rawad [, Level 4]: Nonoh:  help me and i will help ur dummy
+[2021-04-04 01:35:04]: (2)SAUD [, Level 3]: Nonoh:
+[2021-04-04 01:35:04]: [D] Boti. [.bad, Level 27]: lézerkardal sütöm a pörköltöt
+[2021-04-04 01:35:07]: Nonoh [citrom, Level 40]: SAUD: okey i block your friend
+[2021-04-04 01:35:08]: [D] Boti. [.bad, Level 27]: jami
+[2021-04-04 01:35:08]: Rawad [, Level 4]: (1)SAUD:  dont help her dummy pls
+[2021-04-04 01:35:10]: (2)SAUD [, Level 3]: Nonoh:   what about now?
