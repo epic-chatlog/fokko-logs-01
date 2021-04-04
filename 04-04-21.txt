@@ -13153,3 +13153,6 @@
 [2021-04-04 15:21:33]: ***  [, Level 0]: 'Whoopty' has left the game
 [2021-04-04 15:22:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-04 15:22:15]: Isegrin [, Level 54]: wat
+[2021-04-04 15:22:25]: x7|FayZoR [xSD7, Level 42]: Isegrin: tu cherchge quoi ?
+[2021-04-04 15:22:28]: x7|FayZoR [xSD7, Level 42]: ~DemoizL~: stop
+[2021-04-04 15:22:32]: Isegrin [, Level 54]: x7|FayZoR: i dont speak french xD
