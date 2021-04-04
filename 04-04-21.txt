@@ -10434,3 +10434,6 @@
 [2021-04-04 11:51:46]: [D] mamikral011 [, Level 20]: keø: war?
 [2021-04-04 11:51:50]: ***  [, Level 0]: '(1)NetFlix' has left the game
 [2021-04-04 11:51:51]: ***  [, Level 0]: 'NetFlix' has left the game
+[2021-04-04 11:52:01]: |MıssOяchiĐ| [, Level 48]: mamikral011: fuck off
+[2021-04-04 11:52:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-04 11:52:02]: cookie [, Level 0]: help
