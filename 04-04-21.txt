@@ -4547,3 +4547,7 @@
 [2021-04-04 05:41:14]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-04 05:41:20]: coprophile [, Level 0]: comic: DAMN
 [2021-04-04 05:41:21]: Rock [, Level 17]: 5к легчайше
+[2021-04-04 05:41:33]: ***  [, Level 0]: 'Ghost.' has left the game (Timeout)
+[2021-04-04 05:41:33]: ***  [, Level 0]: 'Ghost 2.0.' has left the game (Timeout)
+[2021-04-04 05:41:33]: ***  [, Level 0]: 'Ghost' has left the game (Timeout)
+[2021-04-04 05:41:33]: ***  [, Level 0]: 'Ghost 2.0' has left the game (Timeout)
