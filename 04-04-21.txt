@@ -12403,3 +12403,5 @@
 [2021-04-04 13:56:11]: YelloWorlD [404, Level 37]: (2)ERROR: no
 [2021-04-04 13:56:12]: (2)ERROR [404, Level 40]: xd
 [2021-04-04 13:56:27]: (2)ERROR [404, Level 40]: would you give ur acc to me for 10k$ irl?
+[2021-04-04 13:56:39]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-04 13:56:44]: ***  [, Level 0]: '♥TAKO♥' would have timed out, but can use timeout protection now
