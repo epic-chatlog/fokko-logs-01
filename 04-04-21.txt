@@ -12701,3 +12701,4 @@
 [2021-04-04 14:37:36]: Isegrin [, Level 54]: AAA
 [2021-04-04 14:37:38]: [D] Shiro liar [FookinLads, Level 0]: selling my account
 [2021-04-04 14:37:40]: Isegrin [, Level 54]: vittu
+[2021-04-04 14:37:52]: Shiro liar [, Level 40]: its level 40 and have 700k
