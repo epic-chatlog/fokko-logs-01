@@ -11981,3 +11981,5 @@
 [2021-04-04 13:17:14]: weqe [MNKY, Level 11]: i love u kais
 [2021-04-04 13:17:15]: bob [, Level 36]: yes i know you
 [2021-04-04 13:17:18]: bob [, Level 36]: i love you too kais
+[2021-04-04 13:17:24]: kais [, Level 65]: no you don't
+[2021-04-04 13:17:24]: ***  [, Level 0]: '~DemoizL~' has left the game
