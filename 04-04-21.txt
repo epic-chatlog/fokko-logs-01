@@ -2796,3 +2796,6 @@
 [2021-04-04 03:00:02]: ***  [, Level 0]: 'NetFlix' entered and joined the game
 [2021-04-04 03:00:03]: ***  [, Level 0]: 'SWG64 (EN/RO)' has left the game
 [2021-04-04 03:00:14]: ChillerDragon [Chilli.*, Level 44]: xD
+[2021-04-04 03:00:17]: BC|Tixnix [BC, Level 33]: GODLIKe:
+[2021-04-04 03:00:18]: ***  [, Level 0]: 'vlot1k3' has left the game
+[2021-04-04 03:00:20]: BC|Tixnix [BC, Level 33]: GOLD:
