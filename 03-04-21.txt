@@ -12194,3 +12194,5 @@
 [2021-04-03 17:17:17]: ***  [, Level 0]: (2)УБИВАТЬ!'s killing spree was ended by x7|zemer (6 blocks)
 [2021-04-03 17:17:20]: ***  [, Level 0]: 'GORİL' entered and joined the game
 [2021-04-03 17:17:34]: teee [, Level 0]: she is ok bro?
+[2021-04-03 17:17:47]: ***  [, Level 0]: 'GORİL' joined the spectators
+[2021-04-03 17:17:51]: ***  [, Level 0]: 'GORİL' joined the game
