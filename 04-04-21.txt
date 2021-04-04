@@ -4297,3 +4297,7 @@
 [2021-04-04 05:10:56]: GoatLike [, Level 0]: Fearless: lol
 [2021-04-04 05:10:59]: Fearless [FookinLads, Level 40]: GoatLike:  what if i call shiro
 [2021-04-04 05:11:01]: Fearless [FookinLads, Level 40]: I like turtles.
+[2021-04-04 05:11:06]: GoatLike [, Level 0]: i dont know who is shiro so
+[2021-04-04 05:11:07]: ***  [, Level 0]: 'Dke' has left the game
+[2021-04-04 05:11:10]: Fearless [FookinLads, Level 40]: good friend
+[2021-04-04 05:11:12]: ***  [, Level 0]: 'Virus' entered and joined the game
