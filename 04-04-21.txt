@@ -4403,3 +4403,4 @@
 [2021-04-04 05:20:58]: [D]Torento [, Level 0]: ERROR.:
 [2021-04-04 05:21:06]: Fearless [FookinLads, Level 40]: ERROR:  i can?
 [2021-04-04 05:21:10]: ERROR. [404, Level 55]: ye
+[2021-04-04 05:21:16]: ビール|Zero [Drunks, Level 27]: ERROR: hi)
