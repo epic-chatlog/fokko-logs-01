@@ -10371,3 +10371,4 @@
 [2021-04-04 11:46:32]: Asta [FookinLads, Level 0]: Nudelsaft c::  6k
 [2021-04-04 11:46:33]: Nudelsaft c: [FookinLads, Level 60]: its urs
 [2021-04-04 11:46:43]: Asta [FookinLads, Level 0]: Nudelsaft c::  no, i foung it on the groun
+[2021-04-04 11:46:52]: ***  [, Level 0]: 'mamikral011' entered and joined the game
