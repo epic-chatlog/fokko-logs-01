@@ -9004,3 +9004,5 @@
 [2021-04-04 09:54:36]: ***  [, Level 0]: 'Pigi♥' has left the game
 [2021-04-04 09:54:41]: Pigie♥ [♥, Level 36]: Andromeda: it is
 [2021-04-04 09:54:46]: (1)ERROR [404, Level 47]: koro war
+[2021-04-04 09:54:50]: Pigie♥ [♥, Level 36]: Andromeda: i dummy copied and killed :(
+[2021-04-04 09:54:54]: ***  [, Level 0]: 'Pigie♥' has left the game
