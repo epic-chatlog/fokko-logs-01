@@ -9366,3 +9366,7 @@
 [2021-04-04 10:21:25]:   [, Level 0]: (3)SAUD: PoliceTee:  watsch
 [2021-04-04 10:21:30]:   [, Level 0]: PureLuck: PoliceTee: i didnt do any
 [2021-04-04 10:21:30]: (2)ChillerDrago [|*KoG*|, Level 44]: ok i go afk BulgarianTee
+[2021-04-04 10:21:43]: ***  [, Level 0]: 'Sutzer' entered and joined the game
+[2021-04-04 10:21:44]: PoliceTee [xSD7, Level 25]: E
+[2021-04-04 10:21:46]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
+[2021-04-04 10:21:51]:   [, Level 0]: PureLuck: PoliceTee: MieSlime  arrested me because im black
