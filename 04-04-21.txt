@@ -8865,3 +8865,8 @@
 [2021-04-04 09:48:06]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: x7|zemer not come ?
 [2021-04-04 09:48:08]: GameOver [Vodka, Level 0]: help
 [2021-04-04 09:48:13]:   [, Level 0]: (2)ChillerDragon: is das n edited client Nudelsaft c: ? der mit libcurl n request macht oder wie
+[2021-04-04 09:48:17]: GameOver [Vodka, Level 0]: help
+[2021-04-04 09:48:18]:   [, Level 0]: x7|zemer: mami: Come
+[2021-04-04 09:48:22]: mami [, Level 0]: x7|zemer:  yes
+[2021-04-04 09:48:30]:   [, Level 0]: Nudelsaft c:: (2)ChillerDrago: heißt jedes " das ingame is wird mit als text ende in json erkannt
+[2021-04-04 09:48:30]: GameOver [Vodka, Level 0]: HELP
