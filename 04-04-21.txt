@@ -13169,3 +13169,4 @@
 [2021-04-04 15:25:55]: ***  [, Level 0]: 'ChillerDragon' has left the game
 [2021-04-04 15:25:55]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
 [2021-04-04 15:25:58]: x7|FayZoR [xSD7, Level 42]: bat toi
+[2021-04-04 15:26:02]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
