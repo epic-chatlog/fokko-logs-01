@@ -13482,3 +13482,5 @@
 [2021-04-04 16:08:14]: qυѕнιкє [zε†α, Level 0]: Shiro.:  Fun war
 [2021-04-04 16:08:28]: ***  [, Level 0]: 'Nudelsaft c:"' entered and joined the game
 [2021-04-04 16:08:28]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-04 16:08:42]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-04 16:08:42]: ***  [, Level 0]: 'Nudelsaft c:"' has left the game
