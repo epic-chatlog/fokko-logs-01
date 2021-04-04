@@ -8851,3 +8851,8 @@
 [2021-04-04 09:47:20]: mamikral011 [, Level 26]: Nudelsaft c:: help
 [2021-04-04 09:47:25]: mamikral011 [, Level 26]: ✯ |toxicdaddy: help
 [2021-04-04 09:47:26]: GameOver [Vodka, Level 0]: ERROR help pls
+[2021-04-04 09:47:29]: ***  [, Level 0]: 'Sutzer' has left the game
+[2021-04-04 09:47:29]: ***  [, Level 0]: '[D] Sutzer' has left the game
+[2021-04-04 09:47:30]: BC|kakashi [BC, Level 25]: Dregger: fake fight
+[2021-04-04 09:47:34]: ***  [, Level 0]: 'nameless te' has left the game
+[2021-04-04 09:47:36]: ***  [, Level 0]: 'nameless te' entered and joined the game
