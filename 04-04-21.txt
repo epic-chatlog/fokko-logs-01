@@ -13125,3 +13125,8 @@
 [2021-04-04 15:18:06]: x7|FayZoR [xSD7, Level 42]: any
 [2021-04-04 15:18:09]: ***  [, Level 0]: 'Nudelsaft c:"' entered and joined the game
 [2021-04-04 15:18:10]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-04 15:18:12]: x7|FayZoR [xSD7, Level 42]: ou encore emilcha
+[2021-04-04 15:18:13]: Swarfey [FookinLads, Level 0]: bb
+[2021-04-04 15:18:14]: Swarfey [FookinLads, Level 0]: cc
+[2021-04-04 15:18:15]: cup of tee [abh, Level 37]: x7|FayZoR: nop
+[2021-04-04 15:18:22]: Nudelsaft c:" [FookinLads, Level 0]: a
