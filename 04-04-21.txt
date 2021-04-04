@@ -1798,3 +1798,5 @@
 [2021-04-04 02:01:30]: Boti. [.bad, Level 32]: az
 [2021-04-04 02:01:34]: ***  [, Level 0]: '✯ |toxicdaddy' entered and joined the game
 [2021-04-04 02:01:34]: Boti. [.bad, Level 32]: flag mindjárt respawnol
+[2021-04-04 02:01:42]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
+[2021-04-04 02:01:46]: BulgarianTee [xSD7, Level 38]: E
