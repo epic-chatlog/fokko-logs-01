@@ -5180,3 +5180,5 @@
 [2021-04-04 06:23:16]: ***  [, Level 0]: 'Andresss' entered and joined the game
 [2021-04-04 06:23:26]:   [, Level 0]: Sutzer: koro:
 [2021-04-04 06:23:28]: [D]Torento [, Level 14]: ERROR: why blocking  Isegrin
+[2021-04-04 06:23:40]:   [, Level 0]: Noémi[Đ]: Ghost: war?
+[2021-04-04 06:23:43]: Isegrin [, Level 54]: [D]Torento: ERROR is prankster :-D
