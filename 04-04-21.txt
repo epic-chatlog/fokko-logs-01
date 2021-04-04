@@ -7623,3 +7623,9 @@
 [2021-04-04 08:45:45]: ***  [, Level 0]: 'Rock' entered and joined the game
 [2021-04-04 08:45:46]: (2)ChillerDrago [|*KoG*|, Level 31]: xd Kiøn1029
 [2021-04-04 08:45:50]: BulgarianTee [xSD7, Level 0]: ERROR: quality gameplay skill-like block
+[2021-04-04 08:45:55]: ***  [, Level 0]: '(3)SAUD' entered and joined the game
+[2021-04-04 08:45:56]: ERROR [404, Level 73]: BulgarianTee: ?
+[2021-04-04 08:45:58]: mamikral011 [, Level 25]: Asta:
+[2021-04-04 08:46:02]: BulgarianTee [xSD7, Level 0]: ERROR: thats what we doing rn
+[2021-04-04 08:46:03]: mamikral011 [, Level 25]: Asta:
+[2021-04-04 08:46:04]: Asta [FookinLads, Level 40]: mamikral011:  YE ,
