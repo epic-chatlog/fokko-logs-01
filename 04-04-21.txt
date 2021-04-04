@@ -3207,3 +3207,6 @@
 [2021-04-04 03:36:04]: ***  [, Level 0]: '~DemoizL~' has left the game
 [2021-04-04 03:36:08]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [2021-04-04 03:36:19]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 37]: external test bob * tfu tfu tfu
+[2021-04-04 03:36:23]: kurama [, Level 7]: 2:0
+[2021-04-04 03:36:26]: ***  [, Level 0]: ✯|Not Bulash is on a killing spree with 10 blocks
+[2021-04-04 03:36:28]: kurama [, Level 7]: or3:0
