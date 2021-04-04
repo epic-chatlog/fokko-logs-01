@@ -4,3 +4,7 @@
 [2021-04-04 00:00:37]: ***  [, Level 0]: '(1)SAUD' entered and joined the game
 [2021-04-04 00:00:54]: cHurch [HUITA, Level 47]: kek
 [2021-04-04 00:01:41]: ***  [, Level 0]: '(2)SAUD' entered and joined the game
+[2021-04-04 00:01:54]: comic [comically, Level 12]: dont say noob
+[2021-04-04 00:01:57]: MORFY [, Level 28]: comic: hook and spam
+[2021-04-04 00:02:00]: MORFY [, Level 28]: comic: nooob
+[2021-04-04 00:02:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
