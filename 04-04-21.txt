@@ -1756,3 +1756,4 @@
 [2021-04-04 01:58:40]: ***  [, Level 0]: 'Boti.' finished the special race!
 [2021-04-04 01:58:41]: ***  [, Level 0]: 'Milky way' finished the special race!
 [2021-04-04 01:58:53]: ***  [, Level 0]: ### 'Kiøn1029' A TESTVÉREK ÖSSZEFOGNAK EZEKKEL A CIGÓKKAL MINDIG A GOND VAN A PARTI ROBBAN MINT EGY ATOMBOMBA GENGSZTER A VÉR ITT AZ UTCA POKLA
+[2021-04-04 01:59:03]: WarHammer [, Level 26]: (2)ChillerDrago:  sa
