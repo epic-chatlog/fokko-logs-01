@@ -12784,3 +12784,6 @@
 [2021-04-03 21:50:16]: SAUD [, Level 0]: wdym by crackesd
 [2021-04-03 21:50:19]: SAUD [, Level 0]: wdym by cracked
 [2021-04-03 21:50:20]: Flupper [, Level 0]: good
+[2021-04-03 21:50:24]: Flupper [, Level 0]: but im joking
+[2021-04-03 21:50:29]: Flupper [, Level 0]: he always afk
+[2021-04-03 21:50:33]: SAUD [, Level 0]: oh
