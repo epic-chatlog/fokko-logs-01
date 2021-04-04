@@ -12482,3 +12482,6 @@
 [2021-04-04 14:14:51]: just tae [, Level 0]: I like turtles.
 [2021-04-04 14:14:53]: (2)ERROR [404, Level 40]: fakc
 [2021-04-04 14:14:57]: (2)ERROR [404, Level 40]: Isegrin:  how
+[2021-04-04 14:15:04]: Isegrin [, Level 54]: (2)ERROR: pro B)
+[2021-04-04 14:15:06]: ***  [, Level 0]: 'quzii' has left the game
+[2021-04-04 14:15:07]: (2)ERROR [404, Level 40]: yeeee
