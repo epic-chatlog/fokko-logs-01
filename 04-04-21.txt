@@ -13413,3 +13413,9 @@
 [2021-04-04 16:01:36]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
 [2021-04-04 16:01:42]: Shiro. [Whɪтє, Level 42]: qυѕнιкє: u was in x7?
 [2021-04-04 16:02:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-04 16:02:06]: ***  [, Level 0]: 'Nudelsaft c:"' entered and joined the game
+[2021-04-04 16:02:07]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-04 16:02:13]: Swarfey [FookinLads, Level 0]: a
+[2021-04-04 16:02:14]: qυѕнιкє [zε†α, Level 0]: Shiro.:  and its fun .D
+[2021-04-04 16:02:16]: ***  [, Level 0]: 'Nudelsaft c:"' has left the game
+[2021-04-04 16:02:16]: ***  [, Level 0]: 'Swarfey' has left the game
