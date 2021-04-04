@@ -3177,3 +3177,6 @@
 [2021-04-04 03:34:02]: mamikral011 [, Level 0]: WarHammer: şu oyuna sıkılarak öle giriorum orda senin girdini gördüm mutlu oldum kral
 [2021-04-04 03:34:05]: Rock [, Level 17]: деньги надобна
 [2021-04-04 03:34:06]: Rock [, Level 17]: ды
+[2021-04-04 03:34:09]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-04 03:34:19]: WarHammer' [, Level 16]: mamikral011:  VAAAY KRAL NE GÜZEL OLMUŞ
+[2021-04-04 03:34:20]: ***  [, Level 0]: 'Meetiteusz' finished the special race!
