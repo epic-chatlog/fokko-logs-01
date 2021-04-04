@@ -64,3 +64,7 @@
 [2021-04-04 00:05:42]: PoliceTee [xSD7, Level 0]: K!ked scared piece of gay traitor
 [2021-04-04 00:05:51]: (2)SAUD [, Level 0]: MORPHIN:  its 10-4 xDDD
 [2021-04-04 00:06:00]: (2)SAUD [, Level 0]: Flupper:
+[2021-04-04 00:06:04]: (2)SAUD [, Level 0]: need the plot
+[2021-04-04 00:06:09]: x7|Flipper [xSD7, Level 14]: huh
+[2021-04-04 00:06:11]: x7|Flipper [xSD7, Level 14]: no i dont
+[2021-04-04 00:06:11]: ***  [, Level 0]: 'TimePause' changed name to 'x7|TimePause'
