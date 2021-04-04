@@ -12502,3 +12502,7 @@
 [2021-04-04 14:17:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-04 14:17:01]: Isegrin [, Level 54]: and
 [2021-04-04 14:17:04]: (2)ERROR [404, Level 40]: fearless
+[2021-04-04 14:17:06]: (2)ERROR [404, Level 40]: who is he
+[2021-04-04 14:17:07]: Isegrin [, Level 54]: (2)ERROR: who are u
+[2021-04-04 14:17:10]: (2)ERROR [404, Level 40]: error
+[2021-04-04 14:17:16]: Isegrin [, Level 54]: (2)ERROR: no error is old fag
