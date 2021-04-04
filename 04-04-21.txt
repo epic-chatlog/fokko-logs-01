@@ -4779,3 +4779,6 @@
 [2021-04-04 05:58:37]: ***  [, Level 0]: 'Andresss' entered and joined the game
 [2021-04-04 05:58:38]: ERROR [404, Level 73]: Virus:  ok cool whatever
 [2021-04-04 05:58:38]: ✯ |toxicdaddy [|Supressed, Level 24]: Maatiteusz: nah
+[2021-04-04 05:58:41]:   [, Level 0]: Andresss: nonoh
+[2021-04-04 05:58:44]: mami [Ape, Level 16]: oke
+[2021-04-04 05:58:48]: ✯ |toxicdaddy [|Supressed, Level 24]: Maatiteusz: we not
