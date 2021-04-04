@@ -9737,3 +9737,7 @@
 [2021-04-04 10:50:02]: (1)SAUD [, Level 15]: ChillerDragon:
 [2021-04-04 10:50:02]: ChillerDragon [Chilli.*, Level 31]: (1)SAUD: I am currently afk.
 [2021-04-04 10:50:07]: (1)SAUD [, Level 15]: oh bot
+[2021-04-04 10:50:12]: (1)SAUD [, Level 15]: xDDD
+[2021-04-04 10:50:14]: Nudelsaft c: [FookinLads, Level 60]: I like turtles.
+[2021-04-04 10:50:15]: Nudelsaft c: [FookinLads, Level 60]: nub
+[2021-04-04 10:50:18]: ***  [, Level 0]: 'cookie' has left the game
