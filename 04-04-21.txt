@@ -9071,3 +9071,5 @@
 [2021-04-04 09:58:30]: ***  [, Level 0]: 'Rock' has left the game
 [2021-04-04 09:58:48]: ***  [, Level 0]: 'Rock' entered and joined the game
 [2021-04-04 09:58:48]: ***  [, Level 0]: 'ERROR.' has left the game
+[2021-04-04 09:58:56]: ***  [, Level 0]: 'tsm' entered and joined the game
+[2021-04-04 09:58:59]: ビール|Zero [Drunks, Level 27]: ok
