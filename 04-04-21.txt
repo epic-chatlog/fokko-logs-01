@@ -5254,3 +5254,5 @@
 [2021-04-04 06:28:08]: [D] mamikral011 [, Level 20]: dfgklfh
 [2021-04-04 06:28:12]: Fearless [FookinLads, Level 40]: koro:  left up spike it always spikes
 [2021-04-04 06:28:21]: ***  [, Level 0]: Nonoh finished in: 4 minute(s)  1.02 second(s)
+[2021-04-04 06:28:30]: ***  [, Level 0]: [D] mamikral011's killing spree was ended by koro (6 blocks)
+[2021-04-04 06:28:33]: ***  [, Level 0]: 'Punguin' entered and joined the game
