@@ -10141,3 +10141,6 @@
 [2021-04-04 11:24:03]: Marcisten [Helper, Level 0]: ~DemoizL~: <3
 [2021-04-04 11:24:09]: Nudelsaft c: [FookinLads, Level 60]: oh tatsächlich
 [2021-04-04 11:24:10]: wαrнαммer [, Level 26]: Sutzer:  he not touching
+[2021-04-04 11:24:16]: [D] Sutzer [Guard, Level 0]: ?
+[2021-04-04 11:24:16]: ***  [, Level 0]: 'MieSlime' entered and joined the game
+[2021-04-04 11:24:18]: wαrнαммer [, Level 26]: Sutzer:  why u touch
