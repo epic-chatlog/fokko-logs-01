@@ -5694,3 +5694,7 @@
 [2021-04-04 06:54:16]: ***  [, Level 0]: 'Maatiteusz' has left the game (Timeout)
 [2021-04-04 06:54:16]: ***  [, Level 0]: 'Meetiteusz' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-04 06:54:17]:   [, Level 0]: Isegrin: Noémi[Đ]: D:
+[2021-04-04 06:54:23]: Noémi[Đ] [citrom, Level 32]: Punguin: onnan kitud szedni
+[2021-04-04 06:54:27]:   [, Level 0]: (2)ERROR: ERROR:  this skin is cute xd
+[2021-04-04 06:54:28]: ERROR [404, Level 73]: xD
+[2021-04-04 06:54:29]:   [, Level 0]: Isegrin: Noémi[Đ]: gay
