@@ -12376,3 +12376,4 @@
 [2021-04-03 18:07:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-03 18:07:39]: ***  [, Level 0]: '<-_->' has left the game (Timeout)
 [2021-04-03 18:07:40]: ***  [, Level 0]: 'P4Pyr0s' has left the game (Timeout)
+[2021-04-03 18:11:25]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
