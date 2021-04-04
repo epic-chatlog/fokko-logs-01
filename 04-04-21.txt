@@ -13068,3 +13068,8 @@
 [2021-04-04 15:11:01]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
 [2021-04-04 15:11:34]: ***  [, Level 0]: 'Miø :) ¼' has left the game
 [2021-04-04 15:11:46]: Isegrin [, Level 54]: baise le
+[2021-04-04 15:12:00]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-04 15:12:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 15:12:01]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-04 15:12:04]: x7|FayZoR [xSD7, Level 42]: Isegrin: t'es fr XDD
+[2021-04-04 15:12:07]: Isegrin [, Level 54]: no
