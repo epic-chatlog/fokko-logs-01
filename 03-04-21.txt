@@ -12787,3 +12787,5 @@
 [2021-04-03 21:50:24]: Flupper [, Level 0]: but im joking
 [2021-04-03 21:50:29]: Flupper [, Level 0]: he always afk
 [2021-04-03 21:50:33]: SAUD [, Level 0]: oh
+[2021-04-03 21:50:43]: SAUD [, Level 0]: ,/stats chillerdagorn
+[2021-04-03 21:50:45]: SAUD [, Level 0]: see
