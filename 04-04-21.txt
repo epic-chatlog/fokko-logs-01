@@ -1377,3 +1377,7 @@
 [2021-04-04 01:36:45]: Boti. [.bad, Level 32]: magyarországon még a tej út is kátyús
 [2021-04-04 01:36:54]: Kiøn1029 [.bad, Level 31]: hát igen
 [2021-04-04 01:36:57]: BulgarianTee [xSD7, Level 38]: E
+[2021-04-04 01:37:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-04 01:37:01]: BulgarianTee [xSD7, Level 38]: HeavyGeneral: fake?
+[2021-04-04 01:37:10]: HeavyGeneral [FookinLads, Level 44]: yes
+[2021-04-04 01:37:10]: Kiøn1029 [.bad, Level 31]: még az utak is face revealt akarnak
