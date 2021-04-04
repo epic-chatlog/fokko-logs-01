@@ -4788,3 +4788,6 @@
 [2021-04-04 05:59:03]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
 [2021-04-04 05:59:09]: ***  [, Level 0]: 'COMEBODY' joined the spectators
 [2021-04-04 05:59:13]: ***  [, Level 0]: 'COMEBODY' joined the game
+[2021-04-04 05:59:18]: Isegrin [, Level 54]: xD
+[2021-04-04 05:59:22]: Isegrin [, Level 54]: ERROR: AAAAAAAAAAAAAAAAA
+[2021-04-04 05:59:26]: Andresss [Citrom, Level 1]: nonoh
