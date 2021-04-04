@@ -4223,3 +4223,4 @@
 [2021-04-04 05:02:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-04 05:02:03]: [D] mamikral011 [, Level 20]: seg why
 [2021-04-04 05:02:04]: Isegrin [, Level 54]: DADDY
+[2021-04-04 05:02:58]: ***  [, Level 0]: 'Virus' entered and joined the game
