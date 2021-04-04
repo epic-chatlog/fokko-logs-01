@@ -4500,3 +4500,6 @@
 [2021-04-04 05:36:47]: (1)Friendiship  [, Level 0]: mamikral011: WHY !?
 [2021-04-04 05:36:56]: (1)ERROR [404, Level 47]: omgg
 [2021-04-04 05:37:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-04 05:37:12]: [D] mamikral011 [, Level 20]: (1)Friendiship : joke hahaa
+[2021-04-04 05:37:13]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
+[2021-04-04 05:37:18]: ***  [, Level 0]: [D]Torento finished in: 22 minute(s) 40.48 second(s)
