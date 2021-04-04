@@ -12578,3 +12578,7 @@
 [2021-04-04 14:23:35]: ***  [, Level 0]: '(2)ERROR' changed name to 'Shiro liar'
 [2021-04-04 14:23:58]: ***  [, Level 0]: 'Psychoduck' entered and joined the game
 [2021-04-04 14:24:12]: ***  [, Level 0]: 'σмєтнιηg' entered and joined the game
+[2021-04-04 14:24:25]: ***  [, Level 0]: 'cσκтнıпɢ' entered and joined the game
+[2021-04-04 14:24:27]: ***  [, Level 0]: 'Psychoduck' has left the game
+[2021-04-04 14:24:28]: Shiro liar [, Level 40]: he betray
+[2021-04-04 14:24:32]: Shiro liar [, Level 40]: shiro
