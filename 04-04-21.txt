@@ -13109,3 +13109,7 @@
 [2021-04-04 15:16:16]: ***  [, Level 0]: 'Nudelsaft c:"' entered and joined the game
 [2021-04-04 15:16:16]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-04 15:16:32]: cup of tee [abh, Level 37]: x7|FayZoR: i'm not real
+[2021-04-04 15:16:35]: Swarfey [FookinLads, Level 0]: a
+[2021-04-04 15:16:36]: Nudelsaft c:" [FookinLads, Level 0]: bb
+[2021-04-04 15:16:38]: Nudelsaft c:" [FookinLads, Level 0]: cc
+[2021-04-04 15:16:41]: x7|Flipper [xSD7, Level 14]: kirito why cant i have red flag
