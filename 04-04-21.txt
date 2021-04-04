@@ -9185,3 +9185,7 @@
 [2021-04-04 10:07:08]: ***  [, Level 0]: 'NetFlix' has left the game
 [2021-04-04 10:07:08]:   [, Level 0]: Nudelsaft c:: ye
 [2021-04-04 10:07:10]:   [, Level 0]: Nudelsaft c:: und clan
+[2021-04-04 10:07:12]: ***  [, Level 0]: 'Kirill200615' has left the game
+[2021-04-04 10:07:18]:   [, Level 0]: Nudelsaft c:: war zu faul da nen check einzubauen wie beim dc
+[2021-04-04 10:07:22]:   [, Level 0]: Nudelsaft c:: weil is sowieso erstmal nur prototyp
+[2021-04-04 10:07:23]: (2)ChillerDrago [|*KoG*|, Level 44]: das is lokka das was ERROR meinte mit er hat alle level von allen xd
