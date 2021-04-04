@@ -2788,3 +2788,7 @@
 [2021-04-04 02:59:34]: ✯ |toxicdaddy [|Supressed, Level 24]: GOLD:  GODLIKe killed u
 [2021-04-04 02:59:38]: SWG64 (EN/RO) [Rockplanets, Level 0]: [
 [2021-04-04 02:59:40]: SWG64 (EN/RO) [Rockplanets, Level 0]: AAA
+[2021-04-04 02:59:43]: GOLD [404, Level 55]: tix
+[2021-04-04 02:59:43]: ***  [, Level 0]: 'vlot1k3' entered and joined the game
+[2021-04-04 02:59:43]: GODLIKe [hax, Level 44]: ✯ |toxicdaddy: bcs we have war stupid
+[2021-04-04 02:59:49]: ✯ |toxicdaddy [|Supressed, Level 24]: GODLIKe: k
