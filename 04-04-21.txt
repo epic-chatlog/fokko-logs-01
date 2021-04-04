@@ -1732,3 +1732,7 @@
 [2021-04-04 01:56:37]: ♥TAKO♥ [, Level 24]: sa
 [2021-04-04 01:56:38]: ***  [, Level 0]: 'kiøn1029' has left the game
 [2021-04-04 01:56:41]: WarHammer [, Level 26]: ♥TAKO♥: o as
+[2021-04-04 01:56:47]: ***  [, Level 0]: Boti. finished in: 4 minute(s)  0.96 second(s)
+[2021-04-04 01:56:50]: ***  [, Level 0]: Kiøn1029 finished in: 3 minute(s) 52.30 second(s)
+[2021-04-04 01:56:54]: ***  [, Level 0]: Milky way finished in: 5 minute(s) 56.30 second(s)
+[2021-04-04 01:56:58]: x7|TimePause [xSD7, Level 35]: gae
