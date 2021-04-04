@@ -7289,3 +7289,6 @@
 [2021-04-04 08:27:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-04 08:27:10]: Rock [, Level 18]: cerf
 [2021-04-04 08:27:14]: ***  [, Level 0]: Asta finished in: 2 minute(s) 16.44 second(s)
+[2021-04-04 08:27:26]: [D] mamikral011 [, Level 0]: YelloWorlD: vs come
+[2021-04-04 08:27:27]:   [, Level 0]: WarHammer: YelloWorlD:  vs mamikral011
+[2021-04-04 08:27:29]: ***  [, Level 0]: '(1)BC|Tixnix' has left the game
