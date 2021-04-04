@@ -10628,3 +10628,4 @@
 [2021-04-04 12:05:31]: ***  [, Level 0]: '(1)kais' finished the special race!
 [2021-04-04 12:05:48]: bob [, Level 36]: weqe: now we win
 [2021-04-04 12:06:10]: (1)kais [, Level 58]: x7|FayZoR: pk tu me specs, t'as peur que je viennes ?
+[2021-04-04 12:06:14]: ***  [, Level 0]: 'All Apologies' entered and joined the game
