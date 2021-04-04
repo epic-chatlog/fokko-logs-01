@@ -9051,3 +9051,5 @@
 [2021-04-04 09:57:16]: mami [, Level 0]: (2)ChillerDrago:  me
 [2021-04-04 09:57:17]: ERROR [404, Level 73]: so cya BulgarianTee
 [2021-04-04 09:57:24]: ***  [, Level 0]: '[D] BC|Tixnix' left the minigame 'Block'
+[2021-04-04 09:57:26]:   [, Level 0]: BulgarianTee: cya ビール|Zero
+[2021-04-04 09:57:30]:   [, Level 0]: BulgarianTee: cya (1)ERROR.
