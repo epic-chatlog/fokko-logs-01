@@ -8659,3 +8659,6 @@
 [2021-04-04 09:33:24]: (3)SAUD [, Level 0]: ✯ |toxicdaddy:  war 4 life bitch
 [2021-04-04 09:33:31]: Killua [FookinLads, Level 37]: ERROR KUN
 [2021-04-04 09:33:37]: (2)ChillerDrago [Chilli.*, Level 44]: ERROR: ja ne is debian aber könnte ja auch alles andere sein xd
+[2021-04-04 09:33:38]: ERROR [404, Level 73]: ✯ |toxicdaddy: ye?
+[2021-04-04 09:33:45]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 15 blocks
+[2021-04-04 09:33:47]: ERROR [404, Level 73]: ✯ |toxicdaddy:  war
