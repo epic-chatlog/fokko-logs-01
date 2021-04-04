@@ -9569,3 +9569,8 @@
 [2021-04-04 10:38:34]: ***  [, Level 0]: 'Rock' entered and joined the game
 [2021-04-04 10:38:40]: ***  [, Level 0]: 'cup of tee' entered and joined the game
 [2021-04-04 10:38:44]: Lucas [THECEPS, Level 34]: ♥TAKO♥: wanted to drag you
+[2021-04-04 10:38:49]: ♥TAKO♥ [, Level 24]: Kirito:
+[2021-04-04 10:38:50]: rafel [otakos, Level 0]: mami
+[2021-04-04 10:38:50]: ***  [, Level 0]: 'Clight.' entered and joined the game
+[2021-04-04 10:38:52]: Lucas [THECEPS, Level 34]: Clight!:
+[2021-04-04 10:38:58]: ♥TAKO♥ [, Level 24]: Clight!:
