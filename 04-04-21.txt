@@ -3805,3 +3805,6 @@
 [2021-04-04 04:16:40]: ビール|Zero [Drunks, Level 27]: уебу отвечаю
 [2021-04-04 04:16:54]: kurama [, Level 7]: Rock: попробу
 [2021-04-04 04:17:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-04 04:17:03]: ***  [, Level 0]: koro's killing spree was ended by [D] ✯ |toxicd (8 blocks)
+[2021-04-04 04:17:04]: ***  [, Level 0]: 'Isegrin' has left the game
+[2021-04-04 04:17:04]: Rock [, Level 17]: ладно я афк не трожь меня
