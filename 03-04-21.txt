@@ -12359,3 +12359,4 @@
 [2021-04-03 17:54:04]: ***  [, Level 0]: 'cHilLerDargon' entered and joined the game
 [2021-04-03 17:54:05]: ***  [, Level 0]: 'cHilLerDargon' has left the game
 [2021-04-03 17:54:21]: ***  [, Level 0]: 'FelixTheDUDE' entered and joined the game
+[2021-04-03 17:55:21]: ***  [, Level 0]: 'FelixTheDUDE' has left the game
