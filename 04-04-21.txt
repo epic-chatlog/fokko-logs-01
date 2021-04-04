@@ -5073,3 +5073,8 @@
 [2021-04-04 06:18:39]: ***  [, Level 0]: 'Virus' has left the game
 [2021-04-04 06:18:40]: (1)ERROR. [404, Level 24]: Isegrin:  not a prank
 [2021-04-04 06:18:45]: Isegrin [, Level 54]: (1)ERROR.: AAAAAAAAAAA
+[2021-04-04 06:18:48]: ***  [, Level 0]: 'comic' entered and joined the game
+[2021-04-04 06:18:50]:   [, Level 0]: comic: STUPID PC
+[2021-04-04 06:18:55]: Fearless [FookinLads, Level 40]: Torento:
+[2021-04-04 06:18:57]: ***  [, Level 0]: 'ess tee' has left the game
+[2021-04-04 06:18:57]:   [, Level 0]: (1)SAUD: comic why
