@@ -12248,3 +12248,7 @@
 [2021-04-03 17:27:11]: ***  [, Level 0]: 'ᅟᅟᅟ#ALL' changed name to 'сытчн'
 [2021-04-03 17:27:21]: ***  [, Level 0]: 'fomin' has left the game
 [2021-04-03 17:27:23]: ***  [, Level 0]: 'fomjn' has left the game
+[2021-04-03 17:27:26]: ᅟᅟᅟᅟ [, Level 7]: teee:  ican heal cancer
+[2021-04-03 17:27:28]: ***  [, Level 0]: 'сытчн' changed name to 'сытчн#ALL'
+[2021-04-03 17:27:29]: teee [, Level 0]: how
+[2021-04-03 17:27:34]: ᅟᅟᅟᅟ [, Level 7]: alt+f4
