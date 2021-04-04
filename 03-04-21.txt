@@ -12925,3 +12925,5 @@
 [2021-04-03 22:18:43]: x7|Flipper [xSD7, Level 14]: ye
 [2021-04-03 22:18:44]: x7|Flipper [xSD7, Level 14]: 4
 [2021-04-03 22:18:46]: (1)SAUD [, Level 0]: ok
+[2021-04-03 22:18:53]: (1)SAUD [, Level 0]: i think imight buy it
+[2021-04-03 22:18:57]: (1)SAUD [, Level 0]: 4 fun
