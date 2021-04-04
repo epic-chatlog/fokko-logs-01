@@ -5650,3 +5650,8 @@
 [2021-04-04 06:51:56]: ***  [, Level 0]: 'MORFY' has left the game
 [2021-04-04 06:51:56]: ***  [, Level 0]: 'MORPHIN' has left the game
 [2021-04-04 06:51:56]:   [, Level 0]: Falco642: wtf laggy
+[2021-04-04 06:51:57]:   [, Level 0]: Falco642: again
+[2021-04-04 06:52:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-04 06:52:03]:   [, Level 0]: Number1: i don't have lag
+[2021-04-04 06:52:04]:   [, Level 0]: Falco642: come
+[2021-04-04 06:52:04]:   [, Level 0]: Cylox: Kezo senmısın amk
