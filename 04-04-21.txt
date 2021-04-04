@@ -12804,3 +12804,4 @@
 [2021-04-04 14:47:57]: Isegrin [, Level 54]: Moon: guten abend
 [2021-04-04 14:48:04]: Isegrin [, Level 54]: BLIET
 [2021-04-04 14:48:15]: Moon [, Level 0]: ist das hier so ein block server? oder was ist das ziel ?
+[2021-04-04 14:48:28]: Isegrin [, Level 54]: what is ziel?
