@@ -10089,3 +10089,5 @@
 [2021-04-04 11:18:46]: Nudelsaft c: [FookinLads, Level 60]: ChillerDragon.*: hmm
 [2021-04-04 11:18:48]: MORFY [, Level 28]: x7|FayZoR: +
 [2021-04-04 11:18:50]: ChillerDragon.* [Chilli.*, Level 41]: soweit aber so stabil Nudelsaft c: aber ich sag dir lokka 100 probleme
+[2021-04-04 11:18:59]: ChillerDragon.* [Chilli.*, Level 41]: mit connection lose und max clients per ip etc Nudelsaft c:
+[2021-04-04 11:19:00]: x7|FayZoR [xSD7, Level 42]: MORFY: shutup dog of Nudelsaft c:
