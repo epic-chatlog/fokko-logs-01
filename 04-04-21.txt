@@ -12183,3 +12183,6 @@
 [2021-04-04 13:31:29]: NetFlix [, Level 13]: WAIT
 [2021-04-04 13:31:30]: Isegrin [, Level 54]: STEZ
 [2021-04-04 13:31:57]: cσκтнıпɢ [zε†α, Level 39]: Fearless:  so pls help
+[2021-04-04 13:32:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 13:32:03]: cσκтнıпɢ [zε†α, Level 39]: Fearless:  i didnt do anything :c
+[2021-04-04 13:32:06]: NetFlix [, Level 13]: i took it from spawn
