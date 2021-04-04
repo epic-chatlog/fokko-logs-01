@@ -12218,3 +12218,5 @@
 [2021-04-03 17:22:00]: ***  [, Level 0]: (2)УБИВАТЬ!'s killing spree was ended by fomjn (7 blocks)
 [2021-04-03 17:22:04]: ***  [, Level 0]: x7|zemer finished in: 3 minute(s) 14.56 second(s)
 [2021-04-03 17:22:09]: ***  [, Level 0]: fomjn is on a killing spree with 5 blocks
+[2021-04-03 17:22:41]: ***  [, Level 0]: 'GORİL' has left the game
+[2021-04-03 17:22:45]: ***  [, Level 0]: fomjn's killing spree was ended by (2)УБИВАТЬ! (8 blocks)
