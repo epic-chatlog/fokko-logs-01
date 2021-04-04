@@ -8760,3 +8760,9 @@
 [2021-04-04 09:41:50]:   [, Level 0]: mami: sorry
 [2021-04-04 09:41:52]: WarHammer [, Level 0]: mami:  dur
 [2021-04-04 09:42:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-04 09:42:04]: mamikral011 [, Level 26]: WarHammer: mami ben deilim mal
+[2021-04-04 09:42:06]: Lucas [THECEPS, Level 34]: BC|kakashi:
+[2021-04-04 09:42:07]: ERROR [404, Level 73]: xDDDDDDD
+[2021-04-04 09:42:10]: WarHammer [, Level 0]: ERROR:  xd
+[2021-04-04 09:42:11]: ***  [, Level 0]: 'Killua' has left the game (Timeout)
+[2021-04-04 09:42:11]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' has left the game (Timeout)
