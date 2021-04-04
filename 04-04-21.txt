@@ -4553,3 +4553,4 @@
 [2021-04-04 05:41:33]: ***  [, Level 0]: 'Ghost 2.0' has left the game (Timeout)
 [2021-04-04 05:42:00]: Rock [, Level 17]: ща
 [2021-04-04 05:42:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-04 05:42:23]: comic [comically, Level 12]: Deadmouse: ctrl shift d
