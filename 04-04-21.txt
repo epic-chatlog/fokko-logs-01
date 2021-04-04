@@ -4083,3 +4083,6 @@
 [2021-04-04 04:44:28]: ***  [, Level 0]: 'coprophile' entered and joined the game
 [2021-04-04 04:44:40]: kurama [, Level 7]: Rock: Я АФК ХОТЕТЬ
 [2021-04-04 04:44:51]: ***  [, Level 0]: Collected 39811 money
+[2021-04-04 04:45:00]: ***  [, Level 0]: Collected 5 money
+[2021-04-04 04:45:02]: ***  [, Level 0]: Collected 1 money
+[2021-04-04 04:45:06]: ChillerDragon [Chilli.*, Level 44]: xD
