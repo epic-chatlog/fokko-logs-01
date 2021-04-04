@@ -12360,3 +12360,4 @@
 [2021-04-03 17:54:05]: ***  [, Level 0]: 'cHilLerDargon' has left the game
 [2021-04-03 17:54:21]: ***  [, Level 0]: 'FelixTheDUDE' entered and joined the game
 [2021-04-03 17:55:21]: ***  [, Level 0]: 'FelixTheDUDE' has left the game
+[2021-04-03 17:57:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
