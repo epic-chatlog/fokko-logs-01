@@ -13473,3 +13473,5 @@
 [2021-04-03 23:44:20]: [D] Boti. [.bad, Level 27]: 100k xp és lvl 33
 [2021-04-03 23:44:26]: [D] Boti. [.bad, Level 27]: aztán már csak pénz kell spawn rifle ozt cs
 [2021-04-03 23:44:32]: ***  [, Level 0]: '(2)kais' entered and joined the game
+[2021-04-03 23:45:03]: [D] Boti. [.bad, Level 27]: well yes but actually no
+[2021-04-03 23:45:05]: [D] Boti. [.bad, Level 27]: legjobb válasz
