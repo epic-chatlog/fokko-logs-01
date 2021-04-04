@@ -7742,3 +7742,5 @@
 [2021-04-04 08:51:38]: ***  [, Level 0]: 'Asta' would have timed out, but can use timeout protection now
 [2021-04-04 08:51:40]: ***  [, Level 0]: '[D] BC|Tixnix' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-04 08:51:41]: ChillerDragon [Chilli.*, Level 44]: BulgarianTee: look mi
+[2021-04-04 08:51:46]: Killua [FookinLads, Level 37]: BulgarianTee: fuckign filthy bulgarians
+[2021-04-04 08:51:51]: BulgarianTee [xSD7, Level 0]: ChillerDragon: Xdd
