@@ -8657,3 +8657,5 @@
 [2021-04-04 09:33:23]: (2)ChillerDrago [Chilli.*, Level 44]: ja ? ERROR
 [2021-04-04 09:33:23]: ERROR. [404, Level 56]: oder ist das windows?
 [2021-04-04 09:33:24]: (3)SAUD [, Level 0]: ✯ |toxicdaddy:  war 4 life bitch
+[2021-04-04 09:33:31]: Killua [FookinLads, Level 37]: ERROR KUN
+[2021-04-04 09:33:37]: (2)ChillerDrago [Chilli.*, Level 44]: ERROR: ja ne is debian aber könnte ja auch alles andere sein xd
