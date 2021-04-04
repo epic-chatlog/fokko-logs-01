@@ -12643,3 +12643,6 @@
 [2021-04-03 21:33:04]: weqe [MNKY, Level 11]: 40
 [2021-04-03 21:33:06]: x7|Flipper [xSD7, Level 13]: what
 [2021-04-03 21:33:07]: SAUD [, Level 0]: xD
+[2021-04-03 21:33:11]: x7|Flipper [xSD7, Level 13]: 40??
+[2021-04-03 21:33:13]: weqe [MNKY, Level 11]: i like games
+[2021-04-03 21:33:15]: SAUD [, Level 0]: xD
