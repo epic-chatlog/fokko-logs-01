@@ -12855,3 +12855,5 @@
 [2021-04-03 22:00:06]: x7|Flipper [xSD7, Level 13]: stop
 [2021-04-03 22:00:24]: SAUD [, Level 20]: xD
 [2021-04-03 22:00:26]: x7|Flipper [xSD7, Level 13]: BRUH
+[2021-04-03 22:01:01]: x7|Flipper [xSD7, Level 13]: OML;
+[2021-04-03 22:01:07]: SAUD [, Level 20]: What
