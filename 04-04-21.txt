@@ -3916,3 +3916,6 @@
 [2021-04-04 04:28:34]: (1)ChillerDrago [Chilli.*, Level 30]: go
 [2021-04-04 04:28:57]: (1)ChillerDrago [|*KoG*|, Level 30]: what#
 [2021-04-04 04:28:58]: ***  [, Level 0]: 'darkstar3' has left the game
+[2021-04-04 04:29:05]: ***  [, Level 0]: 'darkstar' has left the game
+[2021-04-04 04:29:12]: ***  [, Level 0]: '[D] Sutzer' has left the game
+[2021-04-04 04:29:12]: ***  [, Level 0]: 'Sutzer' has left the game
