@@ -1276,3 +1276,7 @@
 [2021-04-04 01:30:02]: Random Guy [, Level 40]: D
 [2021-04-04 01:30:03]: ***  [, Level 0]: (2)SAUD is on a killing spree with 5 blocks
 [2021-04-04 01:30:08]: ***  [, Level 0]: (2)SAUD's killing spree was ended by Rawad (5 blocks)
+[2021-04-04 01:30:20]: Random Guy [, Level 40]: wait change skin
+[2021-04-04 01:30:21]: BulgarianTee [xSD7, Level 38]: Boti.: speedrun gayneral.exe any%
+[2021-04-04 01:30:28]: Boti. [.bad, Level 32]: wdym
+[2021-04-04 01:30:28]: HeavyGeneral [FookinLads, Level 44]: BulgarianTee: xD
