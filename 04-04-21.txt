@@ -10540,3 +10540,6 @@
 [2021-04-04 11:59:40]: ***  [, Level 0]: 'cup of tee' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-04 12:00:05]: MieSlime [FookinLads, Level 43]: Kirito:
 [2021-04-04 12:00:06]: MieSlime [FookinLads, Level 43]: kio
+[2021-04-04 12:00:09]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-04 12:00:12]: ~DemoizL~ [, Level 39]: xD
+[2021-04-04 12:00:15]: MieSlime [FookinLads, Level 43]: Kiøn1029:
