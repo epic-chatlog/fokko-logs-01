@@ -12487,3 +12487,5 @@
 [2021-04-04 14:15:07]: (2)ERROR [404, Level 40]: yeeee
 [2021-04-04 14:15:18]: Isegrin [, Level 54]: (2)ERROR: fearles/
 [2021-04-04 14:15:22]: (2)ERROR [404, Level 40]: Isegrin:  stupid purple
+[2021-04-04 14:15:32]: (2)ERROR [404, Level 40]: yor name is a shit
+[2021-04-04 14:15:36]: Isegrin [, Level 54]: fak of
