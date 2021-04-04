@@ -12472,3 +12472,4 @@
 [2021-04-03 19:04:45]: ***  [, Level 0]: 'x7|Flipper' has left the game
 [2021-04-03 19:04:45]: ***  [, Level 0]: 'Flupper' has left the game
 [2021-04-03 19:07:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-03 19:12:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
