@@ -9509,3 +9509,6 @@
 [2021-04-04 10:33:41]: ***  [, Level 0]: '♥TAKO♥' entered and joined the game
 [2021-04-04 10:33:42]: ***  [, Level 0]: '♥TAKO♥' has left the game
 [2021-04-04 10:33:44]: ***  [, Level 0]: '♥TAKO♥' entered and joined the game
+[2021-04-04 10:33:49]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-04 10:33:49]: any [404, Level 37]: Lucas: zzz
+[2021-04-04 10:33:57]: ***  [, Level 0]: 'Cylox' has left the game
