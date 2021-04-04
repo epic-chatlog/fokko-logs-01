@@ -9596,3 +9596,5 @@
 [2021-04-04 10:40:41]: Marcisten [Helper, Level 0]: koro: noooo im helper :(
 [2021-04-04 10:40:46]: ***  [, Level 0]: Rock finished in: 2 minute(s)  9.44 second(s)
 [2021-04-04 10:40:57]: ♥TAKO♥ [, Level 24]: mami:
+[2021-04-04 10:41:02]: ***  [, Level 0]: x7|zemer's killing spree was ended by koro (17 blocks)
+[2021-04-04 10:41:02]: ***  [, Level 0]: 'rafel' has left the game (Timeout)
