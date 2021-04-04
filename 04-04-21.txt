@@ -3199,3 +3199,5 @@
 [2021-04-04 03:35:21]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-04 03:35:24]: kurama [, Level 7]: 1:0
 [2021-04-04 03:35:29]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-04 03:35:35]: Meetiteusz [TrRShClNrRs, Level 24]: ✯|Not Bulash: thank you
+[2021-04-04 03:35:42]: ***  [, Level 0]: ~DemoizL~'s killing spree was ended by [D] BC|Tixnix (8 blocks)
