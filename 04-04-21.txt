@@ -6107,3 +6107,5 @@
 [2021-04-04 07:25:33]: (1)Kirito [♥, Level 34]: ✯ |toxicdaddy: drück strg+shift+d und dann siehst du rechts "angle" das machst du auf 222 und dann fliegst du
 [2021-04-04 07:25:59]: ***  [, Level 0]: ERROR. is on a killing spree with 20 blocks
 [2021-04-04 07:26:10]: (1)Kirito [♥, Level 34]: [D] ✯ |toxicd: angle muss auf 222
+[2021-04-04 07:26:19]: ***  [, Level 0]: 'Nonoh' has left the game
+[2021-04-04 07:26:19]: ***  [, Level 0]: 'Noémi[Đ]' has left the game
