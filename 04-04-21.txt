@@ -13388,3 +13388,6 @@
 [2021-04-04 15:59:01]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-04 15:59:08]: ***  [, Level 0]: '❤FallDog❤' joined the spectators
 [2021-04-04 15:59:11]: ***  [, Level 0]: '❤FallDog❤' joined the game
+[2021-04-04 15:59:18]: x7|FayZoR [xSD7, Level 42]: im not a fucking traitor like u
+[2021-04-04 15:59:24]: ***  [, Level 0]: '❤FallDog❤' joined the spectators
+[2021-04-04 15:59:27]: ***  [, Level 0]: '❤FallDog❤' joined the game
