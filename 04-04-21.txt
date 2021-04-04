@@ -71,3 +71,5 @@
 [2021-04-04 00:06:18]: (2)SAUD [, Level 0]: i need
 [2021-04-04 00:06:21]: (2)SAUD [, Level 0]: ill afk
 [2021-04-04 00:06:25]: ***  [, Level 0]: '[D]Torento' entered and joined the game
+[2021-04-04 00:06:35]: MORFY [, Level 28]: comic: go 1v1
+[2021-04-04 00:06:36]: MORFY [, Level 28]: comic: noob
