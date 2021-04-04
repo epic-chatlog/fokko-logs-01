@@ -12107,3 +12107,4 @@
 [2021-04-03 17:01:16]: ***  [, Level 0]: 'P4Pyr0s' has left the game (Timeout)
 [2021-04-03 17:01:16]: ***  [, Level 0]: '<-_->' has left the game (Timeout)
 [2021-04-03 17:01:32]: ***  [, Level 0]: 'ᅟᅟᅟᅟ' entered and joined the game
+[2021-04-03 17:01:44]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
