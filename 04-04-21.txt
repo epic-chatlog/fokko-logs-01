@@ -9048,3 +9048,6 @@
 [2021-04-04 09:57:06]: (2)ChillerDrago [|*KoG*|, Level 44]: we have war already mami
 [2021-04-04 09:57:08]: (2)ChillerDrago [|*KoG*|, Level 44]: we have war already mamikral011
 [2021-04-04 09:57:11]: ***  [, Level 0]: 'BC|kakashi' left the minigame 'Block'
+[2021-04-04 09:57:16]: mami [, Level 0]: (2)ChillerDrago:  me
+[2021-04-04 09:57:17]: ERROR [404, Level 73]: so cya BulgarianTee
+[2021-04-04 09:57:24]: ***  [, Level 0]: '[D] BC|Tixnix' left the minigame 'Block'
