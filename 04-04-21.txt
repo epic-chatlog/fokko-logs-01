@@ -10570,3 +10570,8 @@
 [2021-04-04 12:02:10]: ***  [, Level 0]: 'cookie' has left the game (Timeout)
 [2021-04-04 12:02:31]: |ΛnץOиe| [, Level 0]: bob: wtff
 [2021-04-04 12:02:32]: |ΛnץOиe| [, Level 0]: bob: ??
+[2021-04-04 12:02:38]: (1)kais [, Level 58]: x7|FayZoR: j'viens pas pour toi mdr
+[2021-04-04 12:02:38]: ***  [, Level 0]: 'Night Team :D' entered and joined the game
+[2021-04-04 12:02:41]: ***  [, Level 0]: 'Treebeard' entered and joined the game
+[2021-04-04 12:02:42]: ***  [, Level 0]: 'Night Team :D' has left the game
+[2021-04-04 12:02:45]: bob [, Level 36]: NOOO
