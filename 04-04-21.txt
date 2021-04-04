@@ -5416,3 +5416,5 @@
 [2021-04-04 06:36:15]:   [, Level 0]: Fearless: ERROR:  noice
 [2021-04-04 06:36:17]: comic [comically, Level 12]: !!!!!!!!!!!!!!!
 [2021-04-04 06:36:26]: SAUD [, Level 20]: Kaptar:
+[2021-04-04 06:36:35]: SAUD [, Level 20]: [D] Sutzer:
+[2021-04-04 06:36:44]: Punguin [HunClass, Level 1]: help
