@@ -5363,3 +5363,8 @@
 [2021-04-04 06:33:56]: SAUD [, Level 20]: Kaptar:
 [2021-04-04 06:34:03]: Fearless [FookinLads, Level 40]: buy me
 [2021-04-04 06:34:04]: (1)ERROR. [404, Level 24]: Fearless:  i dont have portal
+[2021-04-04 06:34:09]: Fearless [FookinLads, Level 40]: buy
+[2021-04-04 06:34:13]: (1)ERROR. [404, Level 24]: no moni Fearless
+[2021-04-04 06:34:14]: Fearless [FookinLads, Level 40]: and i give 600k
+[2021-04-04 06:34:16]:   [, Level 0]: comic: koro:
+[2021-04-04 06:34:17]: (1)ERROR. [404, Level 24]: HAHAHAHAAHAHAHA
