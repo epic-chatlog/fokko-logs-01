@@ -8870,3 +8870,7 @@
 [2021-04-04 09:48:22]: mami [, Level 0]: x7|zemer:  yes
 [2021-04-04 09:48:30]:   [, Level 0]: Nudelsaft c:: (2)ChillerDrago: heißt jedes " das ingame is wird mit als text ende in json erkannt
 [2021-04-04 09:48:30]: GameOver [Vodka, Level 0]: HELP
+[2021-04-04 09:48:31]: mami [, Level 0]: x7|zemer:  i come
+[2021-04-04 09:48:32]: ***  [, Level 0]: 'ШавухаЪ' entered and joined the game
+[2021-04-04 09:48:34]:   [, Level 0]: Nudelsaft c:: (2)ChillerDrago: ja
+[2021-04-04 09:48:37]:   [, Level 0]: (2)ChillerDragon: verstehe Nudelsaft c:
