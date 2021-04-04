@@ -1737,3 +1737,6 @@
 [2021-04-04 01:56:54]: ***  [, Level 0]: Milky way finished in: 5 minute(s) 56.30 second(s)
 [2021-04-04 01:56:58]: x7|TimePause [xSD7, Level 35]: gae
 [2021-04-04 01:57:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-04 01:57:14]: Boti. [.bad, Level 32]: game lag
+[2021-04-04 01:57:19]: ♥TAKO♥ [, Level 24]: SAUD:  u wanna kill?
+[2021-04-04 01:57:20]: ChillerDragon.* [Chilli.*, Level 41]: neutral sok
