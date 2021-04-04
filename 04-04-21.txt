@@ -6588,3 +6588,6 @@
 [2021-04-04 08:00:03]: ビール|Zero [Drunks, Level 27]: x7|zemer:
 [2021-04-04 08:00:12]: ***  [, Level 0]: 'rx25' entered and joined the game
 [2021-04-04 08:00:12]:   [, Level 0]: GOLD: GODLIKe: xD
+[2021-04-04 08:00:18]:   [, Level 0]: GOLD: GODLIKe: he will die
+[2021-04-04 08:00:19]: Torento [, Level 23]: Ghost:
+[2021-04-04 08:00:24]:   [, Level 0]: GODLIKe.: GOLD: XDDD
