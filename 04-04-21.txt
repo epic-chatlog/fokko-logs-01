@@ -13147,3 +13147,6 @@
 [2021-04-04 15:19:53]: ***  [, Level 0]: 'Neutral' has left the game
 [2021-04-04 15:20:09]: x7|FayZoR [xSD7, Level 42]: cup of tee: je suis sympas mais ta pris du plaisir a m'attaquer
 [2021-04-04 15:20:47]: cup of tee [abh, Level 37]: x7|FayZoR: nop je t'ai dit, c'est un pote ;3
+[2021-04-04 15:21:02]: ***  [, Level 0]: 'quzii' entered and joined the game
+[2021-04-04 15:21:06]: x7|FayZoR [xSD7, Level 42]: la seule question que je me pose c'est comment tu fait pour hook comme sa, sinon ta tout de any
+[2021-04-04 15:21:10]: ***  [, Level 0]: 'Whoopty' entered and joined the game
