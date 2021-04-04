@@ -10487,3 +10487,6 @@
 [2021-04-04 11:54:55]: mamikral011 [, Level 26]: fuck my ping ahhaa
 [2021-04-04 11:55:04]: MieSlime [FookinLads, Level 43]: koro:  ping chiller
 [2021-04-04 11:55:09]: (1)cookie [, Level 0]: Lucas
+[2021-04-04 11:55:13]: ***  [, Level 0]: '(1)Honey Cat' has left the game
+[2021-04-04 11:55:15]: ***  [, Level 0]: 'Lucas' has left the game (Timeout)
+[2021-04-04 11:55:18]: (1)cookie [, Level 0]: no
