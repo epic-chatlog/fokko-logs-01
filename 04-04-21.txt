@@ -1028,3 +1028,6 @@
 [2021-04-04 01:16:51]: Boti. [.bad, Level 32]: TÁNCOLJ CIGÁNY LÁNY
 [2021-04-04 01:16:54]: BulgarianTee [xSD7, Level 38]: TimePause's nub: i swear to god
 [2021-04-04 01:16:54]: Kiøn1029 [.bad, Level 31]: XDDD
+[2021-04-04 01:17:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-04 01:17:00]: Boti. [.bad, Level 32]: GYŐZELMI TÁNCOM HALÓ
+[2021-04-04 01:17:05]: Boti. [.bad, Level 32]: XDD
