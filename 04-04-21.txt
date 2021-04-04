@@ -12478,3 +12478,4 @@
 [2021-04-04 14:13:33]: (2)ERROR [404, Level 40]: yo isegay
 [2021-04-04 14:13:40]: (2)ERROR [404, Level 40]: 200k OMGG
 [2021-04-04 14:13:50]: (2)ERROR [404, Level 40]: there was 200k in polic
+[2021-04-04 14:14:42]: ***  [, Level 0]: '[D] ERROR' has left the game
