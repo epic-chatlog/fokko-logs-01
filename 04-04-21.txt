@@ -2996,3 +2996,7 @@
 [2021-04-04 03:16:25]: ***  [, Level 0]: ### 'WarHammer'' xd
 [2021-04-04 03:16:44]: ***  [, Level 0]: '(2)SAUD' has left the game
 [2021-04-04 03:16:44]: ***  [, Level 0]: 'SAUD' has left the game
+[2021-04-04 03:16:56]: ***  [, Level 0]: 'pumpz' has left the game
+[2021-04-04 03:16:56]: Rock [, Level 17]: ой
+[2021-04-04 03:17:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-04 03:17:03]: x7|FayZoR [xSD7, Level 42]: ✯|Not Bulash: look discord
