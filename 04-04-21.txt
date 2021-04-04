@@ -12405,3 +12405,5 @@
 [2021-04-04 13:56:27]: (2)ERROR [404, Level 40]: would you give ur acc to me for 10k$ irl?
 [2021-04-04 13:56:39]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-04 13:56:44]: ***  [, Level 0]: '♥TAKO♥' would have timed out, but can use timeout protection now
+[2021-04-04 13:57:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-04 13:57:07]: mamikral011 [, Level 26]: ♥TAKO♥: geldim
