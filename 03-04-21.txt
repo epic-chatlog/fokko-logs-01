@@ -12293,3 +12293,4 @@
 [2021-04-03 17:35:16]: ***  [, Level 0]: ᅟᅟᅟᅟ finished in: 9 minute(s) 50.94 second(s)
 [2021-04-03 17:35:20]: ***  [, Level 0]: 'OP|Supers' finished the special race!
 [2021-04-03 17:35:20]: (1)Kirito [, Level 24]: ups
+[2021-04-03 17:35:43]: ***  [, Level 0]: '(1)P4Pyr0s' finished the special race!
