@@ -9622,3 +9622,5 @@
 [2021-04-04 10:43:00]: ***  [, Level 0]: 'Neutral' entered and joined the game
 [2021-04-04 10:43:01]: ***  [, Level 0]: 'Maatiteusz' entered and joined the game
 [2021-04-04 10:43:03]: Rock [, Level 18]: koro: fluffy 1 pls:3
+[2021-04-04 10:43:18]: ***  [, Level 0]: 'Neutral' has left the game
+[2021-04-04 10:43:27]: mami [, Level 0]: help mami
