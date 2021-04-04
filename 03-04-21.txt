@@ -12434,3 +12434,4 @@
 [2021-04-03 18:25:19]: ***  [, Level 0]: 'weqe' entered and joined the game
 [2021-04-03 18:25:22]: ***  [, Level 0]: '.S L E E P Y'' entered and joined the game
 [2021-04-03 18:25:35]: x7|Flipper [xSD7, Level 13]: ?
+[2021-04-03 18:25:39]: ***  [, Level 0]: '.S L E E P Y'' has left the game
