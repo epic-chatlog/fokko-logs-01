@@ -12331,3 +12331,7 @@
 [2021-04-03 17:47:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-03 17:47:04]: УБИВАТЬ! [, Level 0]: xD
 [2021-04-03 17:47:29]: УБИВАТЬ! [, Level 0]: NUB
+[2021-04-03 17:47:47]: x7|zemer [xSD7, Level 0]: nOOB
+[2021-04-03 17:47:48]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-03 17:47:51]: ***  [, Level 0]: 'S Y T H N' changed name to 'Sythn'
+[2021-04-03 17:47:54]: x7|zemer [xSD7, Level 0]: shorty#1337
