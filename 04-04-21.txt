@@ -9487,3 +9487,8 @@
 [2021-04-04 10:31:47]: x7|zemer [xSD7, Level 37]: PoliceTee: Yes sirr
 [2021-04-04 10:31:53]: PoliceTee [xSD7, Level 25]: cy@ teammates :DD
 [2021-04-04 10:31:58]: ***  [, Level 0]: 'PoliceTee' has left the game
+[2021-04-04 10:32:00]: ***  [, Level 0]: 'Treebeard' entered and joined the game
+[2021-04-04 10:32:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-04 10:32:03]: SAUD [, Level 21]: [D] ✯ |toxicd: dont worry im blockin him
+[2021-04-04 10:32:03]: ***  [, Level 0]: 'ehhe' entered and joined the game
+[2021-04-04 10:32:07]: ***  [, Level 0]: 'Treebeard' has left the game
