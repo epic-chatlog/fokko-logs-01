@@ -4245,3 +4245,7 @@
 [2021-04-04 05:05:27]: [D] ✯ |toxicd [|Supressed, Level 21]: [D] mamikral011: we need clear police
 [2021-04-04 05:05:44]: Isegrin [, Level 54]: CHILERO
 [2021-04-04 05:05:53]: Isegrin [, Level 54]: (1)ChillerDragon
+[2021-04-04 05:05:55]: Isegrin [, Level 54]: ChillerDragon.*:
+[2021-04-04 05:05:55]: ChillerDragon [|*KoG*|, Level 44]: Isegrin: I am currently afk.
+[2021-04-04 05:05:59]: (1)Friendiship  [, Level 0]: ᅟᅟᅟᅟ: NO, u block me
+[2021-04-04 05:06:01]: Isegrin [, Level 54]: U AE GAE
