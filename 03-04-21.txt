@@ -12300,3 +12300,4 @@
 [2021-04-03 17:37:48]: sun.slow(y) [sunrise., Level 35]: hold space
 [2021-04-03 17:38:52]: ***  [, Level 0]: 'teee' has left the game
 [2021-04-03 17:39:53]: ***  [, Level 0]: sun.slow(y)'s killing spree was ended by УБИВАТЬ! (12 blocks)
+[2021-04-03 17:41:37]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 5 blocks
