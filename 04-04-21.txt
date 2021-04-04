@@ -3195,3 +3195,4 @@
 [2021-04-04 03:35:05]: ***  [, Level 0]: ~DemoizL~ is on a killing spree with 5 blocks
 [2021-04-04 03:35:07]: kurama [, Level 7]: 1
 [2021-04-04 03:35:08]: kurama [, Level 7]: 2
+[2021-04-04 03:35:15]: ***  [, Level 0]: 'lolpoep' entered and joined the game
