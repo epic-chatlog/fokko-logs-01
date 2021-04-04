@@ -2959,3 +2959,6 @@
 [2021-04-04 03:14:20]: (2)SAUD [, Level 3]: Rock:  oh fuck u
 [2021-04-04 03:14:22]: Rock [, Level 17]: не щас
 [2021-04-04 03:14:28]: Rock [, Level 17]: wait
+[2021-04-04 03:14:35]: ***  [, Level 0]: 'pumpz' joined the spectators
+[2021-04-04 03:14:37]: ***  [, Level 0]: 'Not Bulash' entered and joined the game
+[2021-04-04 03:14:41]: Lucas [THECEPS, Level 33]: Rock: thx
