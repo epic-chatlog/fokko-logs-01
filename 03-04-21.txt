@@ -12814,3 +12814,4 @@
 [2021-04-03 21:53:20]: SAUD [, Level 20]: the one who have portal
 [2021-04-03 21:53:23]: Flupper [, Level 0]: no
 [2021-04-03 21:53:30]: Flupper [, Level 0]: people can buy portal
+[2021-04-03 21:53:36]: SAUD [, Level 20]: i know
