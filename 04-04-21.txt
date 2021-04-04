@@ -1504,3 +1504,7 @@
 [2021-04-04 01:42:55]: •Slowy [FookinLads, Level 38]: rqqq
 [2021-04-04 01:42:56]: ***  [, Level 0]: 'Marcisten' entered and joined the game
 [2021-04-04 01:43:00]: BulgarianTee [xSD7, Level 38]: rage join
+[2021-04-04 01:43:04]: Marcisten [Helper, Level 0]: BulgarianTee: yes
+[2021-04-04 01:43:10]: •Slowy [FookinLads, Level 38]: rj
+[2021-04-04 01:43:11]: [D] Boti. [.bad, Level 0]: what
+[2021-04-04 01:43:12]: •Slowy [FookinLads, Level 38]: rj
