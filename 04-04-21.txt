@@ -4744,3 +4744,6 @@
 [2021-04-04 05:56:43]: ***  [, Level 0]: 'COMEBODY' joined the game
 [2021-04-04 05:56:47]: bob [, Level 36]: fkl
 [2021-04-04 05:56:47]: Virus [, Level 0]: XD
+[2021-04-04 05:56:54]: bob [, Level 36]: ERROR: peace
+[2021-04-04 05:56:56]: bob [, Level 36]: ich liebe dich
+[2021-04-04 05:56:56]: ***  [, Level 0]: 'COMEBODY' joined the spectators
