@@ -6054,3 +6054,7 @@
 [2021-04-04 07:17:38]: ビール|Zero [Drunks, Level 27]: NetFlix: )
 [2021-04-04 07:17:57]: ***  [, Level 0]: '@cE' entered and joined the game
 [2021-04-04 07:18:03]: Nonoh [citrom, Level 40]: Punguin: onan kitud szedni
+[2021-04-04 07:18:07]: ERROR. [404, Level 56]: HeavyGeneral:  bulgarian copy ure color xD
+[2021-04-04 07:18:10]: Nonoh [citrom, Level 40]: Punguin: onan kitud szedni
+[2021-04-04 07:18:11]: ***  [, Level 0]: '✯ | Bulash' entered and joined the game
+[2021-04-04 07:18:14]: HeavyGeneral [FookinLads, Level 44]: ERROR: ye i saw xaxa
