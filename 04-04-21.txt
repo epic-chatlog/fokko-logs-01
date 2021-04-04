@@ -10210,3 +10210,5 @@
 [2021-04-04 11:32:33]: Nudelsaft c: [FookinLads, Level 60]: which nobody can see
 [2021-04-04 11:32:34]: cσκтнıпɢ [zε†α, Level 0]: Привет!
 [2021-04-04 11:32:36]: Nudelsaft c: [FookinLads, Level 60]: so its default
+[2021-04-04 11:32:44]: ***  [, Level 0]: 'Larrybambel' entered and joined the game
+[2021-04-04 11:32:44]: MieSlime [FookinLads, Level 43]: Nudelsaft c::  i had it before
