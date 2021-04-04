@@ -7473,3 +7473,7 @@
 [2021-04-04 08:36:17]: ***  [, Level 0]: 'Cylox' left the minigame 'Survival'
 [2021-04-04 08:36:29]: ***  [, Level 0]: 'BC|Tixnix' left the minigame 'Survival'
 [2021-04-04 08:36:32]: ***  [, Level 0]: 'ALTIN' entered and joined the game
+[2021-04-04 08:36:57]: ***  [, Level 0]: 'ALTIN' has left the game
+[2021-04-04 08:36:57]: ***  [, Level 0]: 'SarıDünya' has left the game
+[2021-04-04 08:36:59]: ***  [, Level 0]: 'Sutzer' has left the game
+[2021-04-04 08:36:59]: ***  [, Level 0]: '[D] Sutzer' has left the game
