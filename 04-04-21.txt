@@ -5829,3 +5829,7 @@
 [2021-04-04 07:02:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-04 07:02:06]: [D] Punguin [, Level 0]: Nonoh:
 [2021-04-04 07:02:12]: Noémi[Đ] [citrom, Level 32]: Punguin: Torento utén menj
+[2021-04-04 07:02:17]: (2)ERROR [404, Level 40]: Keø:  no
+[2021-04-04 07:02:21]:   [, Level 0]: Number1: basically this is a server with no rules lol
+[2021-04-04 07:02:25]: ***  [, Level 0]: 'santi uzum4k1' entered and joined the game
+[2021-04-04 07:02:26]:   [, Level 0]: Falco641: kind of
