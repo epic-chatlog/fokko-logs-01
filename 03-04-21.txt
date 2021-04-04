@@ -13561,3 +13561,6 @@
 [2021-04-03 23:58:02]: cHurch [HUITA, Level 47]: fakin gay
 [2021-04-03 23:58:20]: ***  [, Level 0]: MORPHIN finished in: 1 minute(s) 18.92 second(s)
 [2021-04-03 23:58:46]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
+[2021-04-03 23:59:02]: ***  [, Level 0]: 'PoliceTee' has left the game
+[2021-04-03 23:59:02]: ***  [, Level 0]: 'BulgarianTee' has left the game
+[2021-04-03 23:59:07]: SAUD [, Level 0]: b
