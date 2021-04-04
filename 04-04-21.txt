@@ -12204,3 +12204,5 @@
 [2021-04-04 13:34:23]: Fearless [Fookinlads, Level 40]: koro:  i hate playing night
 [2021-04-04 13:34:28]: ***  [, Level 0]: koro is on a killing spree with 5 blocks
 [2021-04-04 13:34:31]: Fearless [Fookinlads, Level 40]: koro:  cant play music or full house wake up
+[2021-04-04 13:34:53]: ***  [, Level 0]: '(1)NetFlix' has left the game
+[2021-04-04 13:34:54]: ***  [, Level 0]: 'NetFlix' has left the game
