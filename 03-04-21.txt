@@ -12199,3 +12199,4 @@
 [2021-04-03 17:18:00]: ***  [, Level 0]: 'GORİL' joined the spectators
 [2021-04-03 17:18:00]: ***  [, Level 0]: 'quzii' entered and joined the game
 [2021-04-03 17:18:03]: ***  [, Level 0]: 'GORİL' joined the game
+[2021-04-03 17:18:08]: ***  [, Level 0]: 'GORİL' joined the spectators
