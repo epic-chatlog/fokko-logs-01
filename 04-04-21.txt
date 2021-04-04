@@ -5917,3 +5917,13 @@
 [2021-04-04 07:06:50]: ᅟᅟ [, Level 0]: ERROR:  oof
 [2021-04-04 07:06:50]: Number1 [unspeedrun, Level 0]: made a security pin
 [2021-04-04 07:06:52]: ᅟᅟ [, Level 0]: ERROR:  wtf
+[2021-04-04 07:06:56]: ᅟᅟ [, Level 0]: ERROR:  pls
+[2021-04-04 07:06:57]: Falco642 [, Level 0]: also
+[2021-04-04 07:07:00]: Torento [, Level 23]: [D] Punguin: go
+[2021-04-04 07:07:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-04 07:07:01]: Falco642 [, Level 0]: do /connect
+[2021-04-04 07:07:02]: ***  [, Level 0]: 'x7|Supers' has left the game
+[2021-04-04 07:07:02]: ***  [, Level 0]: 'ᅟᅟ' has left the game
+[2021-04-04 07:07:04]: Punguin [HunClass, Level 0]: mih?
+[2021-04-04 07:07:06]: Punguin [HunClass, Level 0]: mih
+[2021-04-04 07:07:07]: Falco642 [, Level 0]: and it will give you extra money
