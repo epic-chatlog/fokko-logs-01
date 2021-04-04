@@ -12708,3 +12708,4 @@
 [2021-04-03 21:39:52]: Flupper [, Level 0]: ?
 [2021-04-03 21:39:58]: SAUD [, Level 0]: nvm
 [2021-04-03 21:40:22]: SAUD [, Level 0]: b a
+[2021-04-03 21:40:54]: ***  [, Level 0]: 'x7|zemer' has left the game
