@@ -8847,3 +8847,7 @@
 [2021-04-04 09:47:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-04 09:47:05]:   [, Level 0]: (2)ChillerDragon: wer fügt das ein Nudelsaft c: ?
 [2021-04-04 09:47:11]: ***  [, Level 0]: 'nameless te' joined the spectators
+[2021-04-04 09:47:17]: mamikral011 [, Level 26]: ERROR.: help :D
+[2021-04-04 09:47:20]: mamikral011 [, Level 26]: Nudelsaft c:: help
+[2021-04-04 09:47:25]: mamikral011 [, Level 26]: ✯ |toxicdaddy: help
+[2021-04-04 09:47:26]: GameOver [Vodka, Level 0]: ERROR help pls
