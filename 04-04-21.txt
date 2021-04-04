@@ -3956,3 +3956,6 @@
 [2021-04-04 04:32:43]: ***  [, Level 0]: 'ᅟᅟᅟᅟ' entered and joined the game
 [2021-04-04 04:32:56]: ***  [, Level 0]: 'RGcuBe' entered and joined the game
 [2021-04-04 04:33:00]: ***  [, Level 0]: 'ChillerDragon.*' finished the special race!
+[2021-04-04 04:33:37]: ***  [, Level 0]: (1)Friendiship ; finished in: 5 minute(s) 18.50 second(s)
+[2021-04-04 04:33:37]: ***  [, Level 0]: New record: 5 minute(s) 38.70 second(s) better.
+[2021-04-04 04:33:44]: [D] mamikral011 [, Level 20]: Cylox.♥: git kırmızı bağrağı al
