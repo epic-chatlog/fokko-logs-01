@@ -12915,3 +12915,9 @@
 [2021-04-03 22:18:13]: (1)SAUD [, Level 0]: HEY Flupper
 [2021-04-03 22:18:24]: (1)SAUD [, Level 0]: plot 2 has only 2 spots to farm?
 [2021-04-03 22:18:27]: x7|Flipper [xSD7, Level 14]: 3
+[2021-04-03 22:18:28]: x7|Flipper [xSD7, Level 14]: 4
+[2021-04-03 22:18:31]: (1)SAUD [, Level 0]: 4?
+[2021-04-03 22:18:33]: (1)SAUD [, Level 0]: sure?
+[2021-04-03 22:18:34]: x7|Flipper [xSD7, Level 14]: ya
+[2021-04-03 22:18:36]: x7|Flipper [xSD7, Level 14]: wait
+[2021-04-03 22:18:38]: x7|Flipper [xSD7, Level 14]: hold on
