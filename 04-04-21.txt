@@ -4659,3 +4659,5 @@
 [2021-04-04 05:49:35]: Cylox♥ [♥, Level 0]: amın oglu
 [2021-04-04 05:49:43]: [D] mamikral011 [, Level 20]: Cylox♥: ne dion lan
 [2021-04-04 05:49:46]: Cylox♥ [♥, Level 0]: sanademedım
+[2021-04-04 05:49:56]: ***  [, Level 0]: (1)ERROR. finished in: 1 minute(s) 14.00 second(s)
+[2021-04-04 05:49:56]: ***  [, Level 0]: New record: 32.98 second(s) better.
