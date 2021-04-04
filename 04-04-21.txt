@@ -11996,3 +11996,11 @@
 [2021-04-04 13:18:19]: ChillerDragon [Chilli.*, Level 31]: bob: I am currently afk.
 [2021-04-04 13:18:21]: bob [, Level 36]: ChillerDragon.*:
 [2021-04-04 13:18:21]: ChillerDragon.* [|*KoG*|, Level 41]: bob: I am currently afk.
+[2021-04-04 13:18:24]: BC|Tixnix [BC, Level 33]: cσκтнıпɢ: no wait
+[2021-04-04 13:18:24]: ChillerDragon [Chilli.*, Level 31]: bob: I am currently afk.
+[2021-04-04 13:18:24]: Isegrin [, Level 54]: ChillerDragon.*:
+[2021-04-04 13:18:24]: ChillerDragon.* [|*KoG*|, Level 41]: brother
+[2021-04-04 13:18:30]: bob [, Level 36]: brother
+[2021-04-04 13:18:31]: Isegrin [, Level 54]: ChillerDragon:
+[2021-04-04 13:18:31]: ChillerDragon [Chilli.*, Level 31]: Isegrin: I am currently afk.
+[2021-04-04 13:18:33]: Isegrin [, Level 54]: ChillerDragon:
