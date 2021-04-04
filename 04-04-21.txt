@@ -4668,3 +4668,5 @@
 [2021-04-04 05:50:35]: ***  [, Level 0]: (1)ERROR finished in: 6 minute(s) 51.38 second(s)
 [2021-04-04 05:50:43]: ***  [, Level 0]: 'Cylox.♥' entered and joined the game
 [2021-04-04 05:50:50]: Cylox♥ [♥, Level 0]: orospu cocugu ananı sıkyım
+[2021-04-04 05:51:07]: ***  [, Level 0]: 'oyun krallı' has left the game
+[2021-04-04 05:51:10]: Cylox♥ [♥, Level 0]: rq
