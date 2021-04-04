@@ -2066,3 +2066,7 @@
 [2021-04-04 02:16:42]: Kiøn1029 [.bad, Level 31]: ChillerDragon.*: stop use translator
 [2021-04-04 02:16:45]: ChillerDragon [Chilli.*, Level 44]: i dont xd
 [2021-04-04 02:16:46]: Boti. [.bad, Level 32]: de adom hogy pofázik össze vissza de nem ért semmit
+[2021-04-04 02:16:49]: Boti. [.bad, Level 32]: client side mute?
+[2021-04-04 02:16:50]: Nonoh [citrom, Level 40]: PoliceTee:
+[2021-04-04 02:16:50]: Kiøn1029 [.bad, Level 31]: hát igen
+[2021-04-04 02:16:55]: Boti. [.bad, Level 32]: hogy kell muteolni kliensben
