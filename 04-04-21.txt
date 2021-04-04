@@ -240,3 +240,7 @@
 [2021-04-04 00:22:18]: ***  [, Level 0]: New record: 11 minute(s) 18.68 second(s) better.
 [2021-04-04 00:22:18]: ***  [, Level 0]: '(1)kais' finished the special race!
 [2021-04-04 00:22:26]: x7|Flipper [xSD7, Level 14]: yeah i was like wtf who is nouu
+[2021-04-04 00:22:37]: ***  [, Level 0]: 'nameless te' entered and joined the game
+[2021-04-04 00:22:38]: BulgarianTee [xSD7, Level 38]: x7|Flipper: kezo is coming just so you know
+[2021-04-04 00:22:40]: ***  [, Level 0]: 'Kezo{D}' changed name to 'Tziys*'
+[2021-04-04 00:22:45]: ***  [, Level 0]: 'nameless te' has left the game
