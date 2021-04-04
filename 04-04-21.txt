@@ -7580,3 +7580,6 @@
 [2021-04-04 08:42:31]: ビール|Zero [Drunks, Level 27]: в банк
 [2021-04-04 08:42:32]: ***  [, Level 0]: 'COMEBODY' joined the game
 [2021-04-04 08:42:39]: Boti. [.bad, Level 32]: Kiøn1029: amikor kellenének törökök nincsenek
+[2021-04-04 08:42:47]: ***  [, Level 0]: 'COMEBODY' has left the game
+[2021-04-04 08:42:48]: Asta [FookinLads, Level 40]: mamikral011:  ye
+[2021-04-04 08:42:49]: ChillerDragon.* [Chilli.*, Level 41]: bully
