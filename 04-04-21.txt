@@ -12470,3 +12470,7 @@
 [2021-04-04 14:12:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-04 14:12:12]: ***  [, Level 0]: 'cup of tee' entered and joined the game
 [2021-04-04 14:13:11]: cup of tee [abh, Level 37]: [D] ERROR: ur not in 404 anymore ? owo
+[2021-04-04 14:13:18]: (2)ERROR [404, Level 40]: not me
+[2021-04-04 14:13:25]: (2)ERROR [404, Level 40]: im fake
+[2021-04-04 14:13:26]: (2)ERROR [404, Level 40]: I like turtles.
+[2021-04-04 14:13:28]: ***  [, Level 0]: 'Isegrin' entered and joined the game
