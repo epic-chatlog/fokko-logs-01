@@ -2523,3 +2523,5 @@
 [2021-04-04 02:39:19]: ***  [, Level 0]: weqe's killing spree was ended by [D] BC|Tixnix (5 blocks)
 [2021-04-04 02:39:22]: (1)ビール|Ze [Drunks, Level 10]: kurama: пойдёшь афкашить
 [2021-04-04 02:39:25]: ***  [, Level 0]: 'Boti.' has left the game
+[2021-04-04 02:39:44]: (1)ビール|Ze [Drunks, Level 10]: не мешай ща
+[2021-04-04 02:39:49]: ***  [, Level 0]: 'R2D2' entered and joined the game
