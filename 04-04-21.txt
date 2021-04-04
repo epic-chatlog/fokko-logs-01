@@ -192,3 +192,6 @@
 [2021-04-04 00:18:12]: (3)SAUD [, Level 0]: MORFY:  kill me here
 [2021-04-04 00:18:14]: PoliceTee [xSD7, Level 0]: kais: IM BulgarianTee YOU NOB
 [2021-04-04 00:18:22]: PoliceTee [xSD7, Level 0]: kais: E
+[2021-04-04 00:18:29]: (1)kais [, Level 58]: who? i don't know noname
+[2021-04-04 00:18:31]: (3)SAUD [, Level 0]: now ? MORFY  xD
+[2021-04-04 00:18:31]: MORFY [, Level 28]: kais help pls
