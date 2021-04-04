@@ -6155,3 +6155,5 @@
 [2021-04-04 07:31:57]: Isegrin [, Level 54]: HeavyGeneral: shaloom
 [2021-04-04 07:32:00]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
 [2021-04-04 07:32:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-04 07:32:08]: ***  [, Level 0]: '(1)Zelph' entered and joined the game
+[2021-04-04 07:32:17]: ***  [, Level 0]: [D] BC|Tixnix is on a killing spree with 5 blocks
