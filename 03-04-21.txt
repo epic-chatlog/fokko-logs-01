@@ -12639,3 +12639,7 @@
 [2021-04-03 21:32:39]: weqe [MNKY, Level 11]: SAUD: how old are u
 [2021-04-03 21:32:48]: SAUD [, Level 0]: almost 16
 [2021-04-03 21:32:54]: weqe [MNKY, Level 11]: nice
+[2021-04-03 21:32:57]: SAUD [, Level 0]: u?
+[2021-04-03 21:33:04]: weqe [MNKY, Level 11]: 40
+[2021-04-03 21:33:06]: x7|Flipper [xSD7, Level 13]: what
+[2021-04-03 21:33:07]: SAUD [, Level 0]: xD
