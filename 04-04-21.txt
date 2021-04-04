@@ -11288,3 +11288,5 @@
 [2021-04-04 12:45:37]: Nudelsaft c: [FookinLads, Level 60]: Isegrin: espanôl
 [2021-04-04 12:45:42]: Isegrin [, Level 54]: Nudelsaft c:: Si
 [2021-04-04 12:45:45]: x7|Flipper [xSD7, Level 14]: war
+[2021-04-04 12:45:51]: Лимонад [MFG, Level 37]: Isegrin: help vodo4ka
+[2021-04-04 12:45:55]: Лимонад [MFG, Level 37]: Isegrin: pamagi
