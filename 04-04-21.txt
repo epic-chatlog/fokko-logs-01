@@ -2239,3 +2239,6 @@
 [2021-04-04 02:26:13]: Kiøn1029 [.bad, Level 31]: leálsz vagy boti nem kap face revealt
 [2021-04-04 02:26:14]: west morland [michi, Level 36]: Nudelsaft c:: ist dir so alngweilig
 [2021-04-04 02:26:17]: Nudelsaft c: [FookinLads, Level 37]: west morland: ja
+[2021-04-04 02:26:19]: Boti. [.bad, Level 32]: ChillerDragon.*: stop
+[2021-04-04 02:26:21]: ChillerDragon [Chilli.*, Level 44]: rq [D] Boti.
+[2021-04-04 02:26:28]: BulgarianTee [xSD7, Level 38]: E
