@@ -12746,3 +12746,7 @@
 [2021-04-03 21:43:53]: Flupper [, Level 0]: when
 [2021-04-03 21:44:00]: SAUD [, Level 0]: yesterday
 [2021-04-03 21:44:07]: SAUD [, Level 0]: u told the plot was urs
+[2021-04-03 21:44:10]: Flupper [, Level 0]: it was
+[2021-04-03 21:44:14]: SAUD [, Level 0]: nah
+[2021-04-03 21:44:16]: Flupper [, Level 0]: i got scammed
+[2021-04-03 21:44:21]: SAUD [, Level 0]: atlantis own it
