@@ -4383,3 +4383,5 @@
 [2021-04-04 05:18:35]: Fearless [FookinLads, Level 40]: ERROR:  :C
 [2021-04-04 05:18:40]: Fearless [FookinLads, Level 40]: im noob
 [2021-04-04 05:19:03]: [D]Torento [, Level 0]: ops
+[2021-04-04 05:19:20]: [D]Torento [, Level 0]: Isegrin: hey
+[2021-04-04 05:19:24]: coprophile [, Level 3]: Isegrin: yo
