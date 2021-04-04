@@ -13230,3 +13230,4 @@
 [2021-04-03 23:04:03]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
 [2021-04-03 23:07:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-03 23:07:53]: Wheels [, Level 31]: how u do that
+[2021-04-03 23:08:01]: [D] Boti. [.bad, Level 27]: ./money drop amount
