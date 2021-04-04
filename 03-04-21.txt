@@ -12892,3 +12892,4 @@
 [2021-04-03 22:11:12]: Flupper [, Level 0]: stop
 [2021-04-03 22:11:28]: SAUD [, Level 20]: i can do it my self
 [2021-04-03 22:11:31]: SAUD [, Level 20]: -_-
+[2021-04-03 22:11:38]: x7|Flipper [xSD7, Level 13]: its a thing for me
