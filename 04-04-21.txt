@@ -4853,3 +4853,6 @@
 [2021-04-04 06:03:00]: [D] Fearless [FookinLads, Level 20]: ERROR:  help
 [2021-04-04 06:03:01]: comic [comically, Level 12]: rayen:
 [2021-04-04 06:03:03]: Andresss [Citrom, Level 1]: Nonoh:
+[2021-04-04 06:03:10]: ***  [, Level 0]: 'mami' has left the game
+[2021-04-04 06:03:16]: Isegrin [, Level 54]: ERROR: stop spec me nub :-D
+[2021-04-04 06:03:16]: [D] ✯ |toxicd [|Supressed, Level 21]: mamikral011: help
