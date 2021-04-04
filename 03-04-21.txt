@@ -13521,3 +13521,6 @@
 [2021-04-03 23:52:21]: [D] Boti. [.bad, Level 27]: alva gépező
 [2021-04-03 23:52:25]: Kiøn1029 [.bad, Level 31]: amikor azok elöbb felkelnek akik éjfélig fent voltak
 [2021-04-03 23:52:31]: [D] Boti. [.bad, Level 27]: azaz
+[2021-04-03 23:52:34]: ***  [, Level 0]: '(1)BulgarianTee' entered and joined the game
+[2021-04-03 23:52:38]: [D] Boti. [.bad, Level 27]: XD
+[2021-04-03 23:52:40]: [D] Boti. [.bad, Level 27]: instant timeout
