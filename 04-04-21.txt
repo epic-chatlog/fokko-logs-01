@@ -7513,3 +7513,8 @@
 [2021-04-04 08:38:58]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-04 08:38:59]: x7|FayZoR [xSD7, Level 42]: mamikral011:
 [2021-04-04 08:39:00]: Kiøn1029 [.bad, Level 31]: ChillerDragon.*: jó napot
+[2021-04-04 08:39:03]: Kiøn1029 [.bad, Level 31]: is it good?
+[2021-04-04 08:39:05]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-04 08:39:08]: ***  [, Level 0]: '(1)ChillerDragon' changed name to '(2)ChillerDragon'
+[2021-04-04 08:39:10]:   [, Level 0]: ChillerDragon: yes ez remember Kiøn1029
+[2021-04-04 08:39:14]: Kiøn1029 [.bad, Level 31]: XD
