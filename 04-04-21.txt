@@ -3792,3 +3792,7 @@
 [2021-04-04 04:15:35]: ***  [, Level 0]: '(1)Friendiship ;' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-04 04:15:44]: ***  [, Level 0]: 'Fearless' entered and joined the game
 [2021-04-04 04:15:47]: Cylox.♥ [♥, Level 24]: wtf ?
+[2021-04-04 04:15:50]: ***  [, Level 0]: 'lolpoep' has left the game
+[2021-04-04 04:15:54]: Cylox.♥ [♥, Level 24]: ????
+[2021-04-04 04:15:57]: Lucas [THECEPS, Level 33]: kurama: you can earn xp and money there
+[2021-04-04 04:15:57]: darkstar2 [, Level 17]: it was here
