@@ -10701,3 +10701,5 @@
 [2021-04-04 12:11:44]: ***  [, Level 0]: 'All Apologies' joined the spectators
 [2021-04-04 12:11:56]: ***  [, Level 0]: 'All Apologies' joined the game
 [2021-04-04 12:12:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-04 12:12:02]: ***  [, Level 0]: 'All Apologies' joined the spectators
+[2021-04-04 12:12:05]: ***  [, Level 0]: 'All Apologies' joined the game
