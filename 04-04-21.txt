@@ -6098,3 +6098,5 @@
 [2021-04-04 07:24:15]: ***  [, Level 0]: 'puppy' entered and joined the game
 [2021-04-04 07:24:30]: (1)Kirito [♥, Level 34]: upps
 [2021-04-04 07:24:31]: ERROR. [404, Level 56]: well HeavyGeneral  my dummy got 100k in wallet xDDD
+[2021-04-04 07:24:59]: Isegrin [, Level 54]: Torento: niga niga :-D
+[2021-04-04 07:25:03]: Torento [, Level 23]: Isegrin: XD
