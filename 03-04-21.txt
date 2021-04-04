@@ -13060,3 +13060,5 @@
 [2021-04-03 22:36:29]: x7|Flipper [xSD7, Level 14]: no
 [2021-04-03 22:37:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-03 22:37:08]: x7|Flipper [xSD7, Level 14]: ?
+[2021-04-03 22:37:38]: x7|Flipper [xSD7, Level 14]: help me with something pls
+[2021-04-03 22:37:38]: SAUD [, Level 20]: Wheels:
