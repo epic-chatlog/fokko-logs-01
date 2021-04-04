@@ -5856,3 +5856,7 @@
 [2021-04-04 07:03:31]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-04 07:03:34]: Noémi[Đ] [citrom, Level 32]: Torento:
 [2021-04-04 07:03:36]: power2 [TrRShClNrRs, Level 0]: ERROR: how are u and ur dummy playing at the samew time
+[2021-04-04 07:03:41]:   [, Level 0]: BulgarianTee: ERROR: can u let me come in and try to bruteforce heavy's skin?
+[2021-04-04 07:03:44]: ERROR [404, Level 73]: power2:  isnt my dummy
+[2021-04-04 07:03:50]:   [, Level 0]: BulgarianTee: ERROR: chiller let me save heavy so i copy his skin :(
+[2021-04-04 07:03:51]: power2 [TrRShClNrRs, Level 0]: imposter :o
