@@ -11280,3 +11280,8 @@
 [2021-04-04 12:44:57]: Fearless [Fookinlads, Level 40]: kais:  maybe later friend
 [2021-04-04 12:45:08]: mami [, Level 16]: ChillerDragon.*:  thx
 [2021-04-04 12:45:20]: ***  [, Level 0]: 'mami' has left the game
+[2021-04-04 12:45:25]: ***  [, Level 0]: 'trurlik' entered and joined the game
+[2021-04-04 12:45:28]: ***  [, Level 0]: 'Flick' entered and joined the game
+[2021-04-04 12:45:28]: Isegrin [, Level 54]: Swarfey: hilfe
+[2021-04-04 12:45:29]: ***  [, Level 0]: 'cookie' has left the game
+[2021-04-04 12:45:32]: ***  [, Level 0]: 'Flick' has left the game
