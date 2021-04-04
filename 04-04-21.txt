@@ -6049,3 +6049,4 @@
 [2021-04-04 07:16:54]:   [, Level 0]: ✯|Not Bulash: x7|FayZoR: hi
 [2021-04-04 07:17:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-04 07:17:02]: Number1 [unspeedrun, Level 0]: back
+[2021-04-04 07:17:23]: ***  [, Level 0]: 'Number1' has left the game
