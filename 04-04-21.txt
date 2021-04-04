@@ -176,3 +176,9 @@
 [2021-04-04 00:16:56]: (1)kais [, Level 58]: fak, pressed the wrong key and killed my 2 tees :(
 [2021-04-04 00:17:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-04 00:17:05]: x7|Flipper [xSD7, Level 14]: lag
+[2021-04-04 00:17:14]: TimePause's nub [xSD7, Level 0]: BulgarianTee: i will be later
+[2021-04-04 00:17:17]: TimePause's nub [xSD7, Level 0]: bb
+[2021-04-04 00:17:18]: ***  [, Level 0]: 'TimePause's nub' has left the game
+[2021-04-04 00:17:18]: ***  [, Level 0]: 'x7|TimePause' has left the game
+[2021-04-04 00:17:20]: BulgarianTee [xSD7, Level 38]: rq
+[2021-04-04 00:17:23]: Kezo [FookinLads, Level 41]: RQ
