@@ -201,3 +201,7 @@
 [2021-04-04 00:18:52]: (3)SAUD [, Level 0]: Xddddd
 [2021-04-04 00:18:53]: MORFY [, Level 28]: ♥
 [2021-04-04 00:19:21]: x7|Flipper [xSD7, Level 14]: amarin
+[2021-04-04 00:19:24]: Rawad [, Level 4]: (3)SAUD:  good morning
+[2021-04-04 00:19:29]: (3)SAUD [, Level 0]: gm
+[2021-04-04 00:19:31]: x7|Flipper [xSD7, Level 14]: armirian
+[2021-04-04 00:19:32]: [D]Torento [, Level 14]: good morning server
