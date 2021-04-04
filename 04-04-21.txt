@@ -10122,3 +10122,4 @@
 [2021-04-04 11:22:16]: Marcisten [Helper, Level 0]: Kiøn1029: csak akkor segítek ha segítesz noéminek
 [2021-04-04 11:22:21]: ←   [, Level 0]: gfx_vsync 0
 [2021-04-04 11:22:21]: → Nudelsaft c: [FookinLads, Level 60]: executed following command: gfx_vsync 0
+[2021-04-04 11:22:30]: ***  [, Level 0]: '(3)ChillerDragon' has left the game
