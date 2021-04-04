@@ -3904,3 +3904,7 @@
 [2021-04-04 04:27:54]: ***  [, Level 0]: '(2)NetFlix' has left the game
 [2021-04-04 04:27:56]: [D] mamikral011 [, Level 20]: koro: helppp
 [2021-04-04 04:27:59]: ***  [, Level 0]: ClemEntine finished in: 3 minute(s) 56.00 second(s)
+[2021-04-04 04:28:04]: [D] mamikral011 [, Level 20]: koro: help left
+[2021-04-04 04:28:08]: ***  [, Level 0]: 'darkstar3' entered and joined the game
+[2021-04-04 04:28:10]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
+[2021-04-04 04:28:11]: [D] mamikral011 [, Level 20]: koro: ?
