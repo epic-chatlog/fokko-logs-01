@@ -9430,3 +9430,8 @@
 [2021-04-04 10:26:41]: x7|FayZoR [xSD7, Level 42]: PoliceTee: x7|zemer let me fight any alone, i want kill him
 [2021-04-04 10:27:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-04 10:27:01]: x7|zemer [xSD7, Level 37]: x7|FayZoR: ok but i help you when he killed you
+[2021-04-04 10:27:05]: ***  [, Level 0]: 'Lucas' entered and joined the game
+[2021-04-04 10:27:08]: SAUD [, Level 21]: nobos
+[2021-04-04 10:27:11]: SAUD [, Level 21]: 2v1
+[2021-04-04 10:27:12]: ✯ |toxicdaddy [|Supressed, Level 24]: SAUD: give
+[2021-04-04 10:27:13]: SAUD [, Level 21]: xD
