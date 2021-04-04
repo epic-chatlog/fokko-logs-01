@@ -12541,3 +12541,5 @@
 [2021-04-03 21:17:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-03 21:18:05]: ***  [, Level 0]: 'weqe' entered and joined the game
 [2021-04-03 21:19:34]: x7|zemer [xSD7, Level 0]: weqe: ???
+[2021-04-03 21:19:54]: x7|zemer [xSD7, Level 37]: weqe: Why are you blocking me
+[2021-04-03 21:19:59]: weqe [MNKY, Level 11]: im not
