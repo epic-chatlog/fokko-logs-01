@@ -6395,3 +6395,6 @@
 [2021-04-04 07:52:07]: [D] mamikral011 [, Level 20]: fuck ping :D
 [2021-04-04 07:52:13]:   [, Level 0]: kais: Cylox: noob
 [2021-04-04 07:52:19]:   [, Level 0]: Cylox: GODLIKe: abı
+[2021-04-04 07:52:21]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
+[2021-04-04 07:52:24]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
+[2021-04-04 07:52:27]:   [, Level 0]: BulgarianTee: while(killuahangsoutwithpeasants();) killua=peasant;
