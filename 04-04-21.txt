@@ -8775,3 +8775,6 @@
 [2021-04-04 09:42:40]: mamikral011 [, Level 26]: warjjaja
 [2021-04-04 09:42:43]: ***  [, Level 0]: 'Pigi♥' entered and joined the game
 [2021-04-04 09:42:51]: mami [, Level 0]: noooooooo
+[2021-04-04 09:43:09]:   [, Level 0]: GameOver: ERROR
+[2021-04-04 09:43:10]: x7|zemer [xSD7, Level 37]: BulgarianTee: Help
+[2021-04-04 09:43:14]: (2)ChillerDrago [Chilli.*, Level 44]: i see ERROR
