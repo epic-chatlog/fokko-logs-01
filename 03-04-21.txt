@@ -12637,3 +12637,5 @@
 [2021-04-03 21:32:14]: weqe [MNKY, Level 11]: yo brother
 [2021-04-03 21:32:20]: SAUD [, Level 0]: yooo weqe
 [2021-04-03 21:32:39]: weqe [MNKY, Level 11]: SAUD: how old are u
+[2021-04-03 21:32:48]: SAUD [, Level 0]: almost 16
+[2021-04-03 21:32:54]: weqe [MNKY, Level 11]: nice
