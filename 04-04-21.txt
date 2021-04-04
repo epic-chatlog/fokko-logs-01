@@ -5449,3 +5449,5 @@
 [2021-04-04 06:38:41]: ***  [, Level 0]: 'ᅟᅟ' entered and joined the game
 [2021-04-04 06:38:46]: ✯ |toxicdaddy [|Supressed, Level 24]: Keø:
 [2021-04-04 06:38:58]: Nonoh [citrom, Level 40]: ERROR: dude SAUD random block me
+[2021-04-04 06:39:04]:   [, Level 0]: .0: how do i reset?
+[2021-04-04 06:39:06]: SAUD [, Level 20]: ERROR:  i havent'
