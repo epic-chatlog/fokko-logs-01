@@ -8347,3 +8347,7 @@
 [2021-04-04 09:18:40]: ***  [, Level 0]: 'GameOver' has left the game (Timeout)
 [2021-04-04 09:18:41]: ERROR [404, Level 73]: ChillerDragon:  ja
 [2021-04-04 09:18:43]:   [, Level 0]: ChillerDragon: ehre
+[2021-04-04 09:18:47]: SAUD [, Level 21]: mamikral011:  holy shit i only have 100k
+[2021-04-04 09:18:52]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
+[2021-04-04 09:18:52]: cookie [, Level 0]: noioo deda
+[2021-04-04 09:18:56]: mamikral011 [, Level 26]: SAUD: ?
