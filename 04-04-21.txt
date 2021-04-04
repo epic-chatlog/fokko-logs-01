@@ -8622,3 +8622,5 @@
 [2021-04-04 09:31:28]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-04 09:31:29]: BC|Tixnix [BC, Level 33]: Cylox: ex
 [2021-04-04 09:31:40]: (2)ChillerDrago [Chilli.*, Level 44]: wieso is der denn so teuer was sind denn da die specs ERROR
+[2021-04-04 09:31:55]: mamikral011 [, Level 26]: BC|Tixnix:
+[2021-04-04 09:32:00]: ***  [, Level 0]: 'STULEJA 3000' entered and joined the game
