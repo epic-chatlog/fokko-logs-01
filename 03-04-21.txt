@@ -12288,3 +12288,4 @@
 [2021-04-03 17:32:39]: УБИВАТЬ! [, Level 0]: GG WP
 [2021-04-03 17:32:48]: ***  [, Level 0]: OP|Supers finished in: 2 minute(s)  4.14 second(s)
 [2021-04-03 17:32:54]: ***  [, Level 0]: <-_-> finished in: 1 minute(s) 26.16 second(s)
+[2021-04-03 17:34:07]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 10 blocks
