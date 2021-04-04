@@ -12287,3 +12287,4 @@
 [2021-04-03 17:32:17]: ***  [, Level 0]: New record: 17 minute(s) 37.14 second(s) better.
 [2021-04-03 17:32:39]: УБИВАТЬ! [, Level 0]: GG WP
 [2021-04-03 17:32:48]: ***  [, Level 0]: OP|Supers finished in: 2 minute(s)  4.14 second(s)
+[2021-04-03 17:32:54]: ***  [, Level 0]: <-_-> finished in: 1 minute(s) 26.16 second(s)
