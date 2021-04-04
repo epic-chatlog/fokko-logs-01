@@ -10556,3 +10556,5 @@
 [2021-04-04 12:00:47]: [D] mamikral011 [, Level 20]: djfgh
 [2021-04-04 12:01:05]: ***  [, Level 0]: kais finished in: 168 minute(s)  1.70 second(s)
 [2021-04-04 12:01:16]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-04 12:01:27]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-04 12:01:30]: Asta [FookinLads, Level 40]: [D] BC|Tixnix:  get me up!!
