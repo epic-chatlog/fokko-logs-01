@@ -3267,3 +3267,7 @@
 [2021-04-04 03:41:00]: kurama [, Level 7]: Rock: открой
 [2021-04-04 03:41:08]: mamikral011 [, Level 25]: WarHammer: mallık yapıosun
 [2021-04-04 03:41:09]: kurama [, Level 7]: Rock: я за ружьём
+[2021-04-04 03:41:31]: bob [, Level 36]: hello elephant
+[2021-04-04 03:41:33]: kurama [, Level 7]: Rock:
+[2021-04-04 03:41:34]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
+[2021-04-04 03:41:34]: ***  [, Level 0]: 'BC|Tixnix' has left the game
