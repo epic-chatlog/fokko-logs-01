@@ -12842,3 +12842,5 @@
 [2021-04-03 21:58:35]: Flupper [, Level 0]: wanna know secret
 [2021-04-03 21:58:40]: SAUD [, Level 20]: yeah?
 [2021-04-03 21:59:00]: SAUD [, Level 20]: out of map?
+[2021-04-03 21:59:04]: SAUD [, Level 20]: i knew it
+[2021-04-03 21:59:10]: x7|Flipper [xSD7, Level 13]: no police
