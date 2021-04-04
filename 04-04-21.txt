@@ -1600,3 +1600,6 @@
 [2021-04-04 01:49:53]: BulgarianTee [xSD7, Level 38]: TOO SATURATED
 [2021-04-04 01:49:54]: BulgarianTee [xSD7, Level 38]: E
 [2021-04-04 01:49:55]: Milky way [, Level 23]: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[2021-04-04 01:50:02]: ***  [, Level 0]: 'Neoteny' entered and joined the game
+[2021-04-04 01:50:07]: BulgarianTee [xSD7, Level 38]: again too saturated
+[2021-04-04 01:50:08]: ***  [, Level 0]: Chillingo's killing spree was ended by [D] Deadmouse (7 blocks)
