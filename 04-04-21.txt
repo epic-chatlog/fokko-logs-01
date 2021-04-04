@@ -8723,3 +8723,5 @@
 [2021-04-04 09:38:16]: ***  [, Level 0]: TL|ŦƹƦ$ŦǾN is on a killing spree with 30 blocks
 [2021-04-04 09:38:19]: ***  [, Level 0]: koro is on a killing spree with 15 blocks
 [2021-04-04 09:38:22]: BC|kakashi [BC, Level 25]: ERROR: was sollte das sein huch
+[2021-04-04 09:38:35]: ERROR. [404, Level 56]: (1)ChillerDrago:  server läuft nicht in deutschland also unwichtig für mich
+[2021-04-04 09:38:36]: (2)ChillerDrago [Chilli.*, Level 44]: ERROR: was für quests schreiben?
