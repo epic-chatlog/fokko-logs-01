@@ -12171,3 +12171,6 @@
 [2021-04-03 17:12:20]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 40 blocks
 [2021-04-03 17:12:55]: (1)Kirito [, Level 24]: alter S Y T H N#ALL wie schnell
 [2021-04-03 17:13:02]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-03 17:13:08]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 45 blocks
+[2021-04-03 17:13:13]: ***  [, Level 0]: [RUS] is on a killing spree with 5 blocks
+[2021-04-03 17:13:15]: ***  [, Level 0]: 'WarHammer' has left the game
