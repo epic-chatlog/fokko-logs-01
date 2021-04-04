@@ -1236,3 +1236,5 @@
 [2021-04-04 01:27:16]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
 [2021-04-04 01:27:18]: (2)SAUD [, Level 3]: xD
 [2021-04-04 01:27:19]: Boti. [.bad, Level 32]: a kis tojás
+[2021-04-04 01:27:20]: Boti. [.bad, Level 32]: megoldja
+[2021-04-04 01:27:25]: BulgarianTee [xSD7, Level 38]: E
