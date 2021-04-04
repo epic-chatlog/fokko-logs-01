@@ -9171,3 +9171,7 @@
 [2021-04-04 10:05:43]: (2)ChillerDrago [|*KoG*|, Level 44]: Nudelsaft c:: #!/bin/bash in erste zeile für good style
 [2021-04-04 10:05:53]: (2)ChillerDrago [|*KoG*|, Level 44]: oder /usr/bin/env bash Nudelsaft c:
 [2021-04-04 10:06:05]:   [, Level 0]: Nudelsaft c:: (2)ChillerDrago: aber bringt das was in git bash? xd
+[2021-04-04 10:06:12]: PoliceTee [xSD7, Level 25]: E
+[2021-04-04 10:06:13]: (2)ChillerDrago [|*KoG*|, Level 44]: ne
+[2021-04-04 10:06:16]: ***  [, Level 0]: ✯ |toxicdaddy is on a killing spree with 5 blocks
+[2021-04-04 10:06:20]: (2)ChillerDrago [|*KoG*|, Level 44]: oder vlt schon kp
