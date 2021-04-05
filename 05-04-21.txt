@@ -1775,3 +1775,8 @@
 [logs/05-04-21.txt, 2021-04-05 01:46:45]: comic [comically, Level 13]: [D] Leblebi: wanna get inf jump?
 [logs/05-04-21.txt, 2021-04-05 01:46:48]: (1)kais [, Level 58]: BulgarianTee:  ok i stop xD
 [logs/05-04-21.txt, 2021-04-05 01:47:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[logs/05-04-21.txt, 2021-04-05 01:47:03]: [D] Leblebi [, Level 18]: i have inf jump
+[logs/05-04-21.txt, 2021-04-05 01:47:08]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[logs/05-04-21.txt, 2021-04-05 01:47:09]: BulgarianTee [xSD7, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 01:47:10]: comic [comically, Level 13]: [D] Leblebi: pl
+[logs/05-04-21.txt, 2021-04-05 01:47:11]: comic [comically, Level 13]: ok
