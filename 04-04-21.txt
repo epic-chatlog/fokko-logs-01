@@ -14655,3 +14655,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:12:15]: Boti. [.bad, Level 32]: fokko ded hmmm
 [logs/04-04-21.txt, 2021-04-04 22:12:21]: PoliceTee [xSD7, Level 0]: ikr XD
 [logs/04-04-21.txt, 2021-04-04 22:12:31]: Boti. [.bad, Level 32]: n1kor same
+[logs/04-04-21.txt, 2021-04-04 22:12:41]: PoliceTee [xSD7, Level 0]: fokko n1kor and mipolo were the same person all along
+[logs/04-04-21.txt, 2021-04-04 22:12:48]: PoliceTee [xSD7, Level 0]: XDDD
+[logs/04-04-21.txt, 2021-04-04 22:12:53]: Boti. [.bad, Level 32]: maybe
