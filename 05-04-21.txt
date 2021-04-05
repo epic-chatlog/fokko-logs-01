@@ -12085,3 +12085,6 @@
 [2021-04-05 12:44:01]: ***  [, Level 0]: '(3)kais' has left the game
 [2021-04-05 12:44:01]: ***  [, Level 0]: '(2)kais' has left the game
 [2021-04-05 12:44:04]:   [, Level 0]: Swarfey: kais: ah nvm i thought its the ping xd
+[2021-04-05 12:44:11]: ***  [, Level 0]: 'less tee' entered and joined the game
+[2021-04-05 12:44:11]: ***  [, Level 0]: 'hmmmmmm' has left the game
+[2021-04-05 12:44:11]: ***  [, Level 0]: '☺' has left the game
