@@ -4497,3 +4497,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:57:52]: Nudelsaft c: [PoopinLads, Level 37]: BulgarianTee: ok cya
 [logs/05-04-21.txt, 2021-04-05 04:57:55]: ***  [, Level 0]: 'BulgarianTee' has left the game
 [logs/05-04-21.txt, 2021-04-05 04:57:55]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:58:08]: cookie [, Level 16]: please help me
+[logs/05-04-21.txt, 2021-04-05 04:58:11]: Nudelsaft c: [PoopinLads, Level 37]: bulgariantee left shiro entered
+[logs/05-04-21.txt, 2021-04-05 04:58:13]: SAUD [, Level 0]: Sutzer: xD
