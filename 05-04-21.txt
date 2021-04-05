@@ -3102,3 +3102,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:32:31]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 03:32:34]: (1)SAUD [, Level 0]: BC|Tixnix: nobo xD
 [logs/05-04-21.txt, 2021-04-05 03:32:34]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:32:44]: »Amirian YA« [YAMIRIANA�, Level 0]: im not
+[logs/05-04-21.txt, 2021-04-05 03:32:45]: BulgarianTee [CleanUpCrew, Level 38]: FUCK
