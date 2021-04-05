@@ -4714,3 +4714,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:27:07]: mami [, Level 0]: Kezo: sa
 [logs/05-04-21.txt, 2021-04-05 05:27:09]: (1)1 [, Level 3]: HELP
 [logs/05-04-21.txt, 2021-04-05 05:27:13]: Kezo [FookinLads, Level 41]: lag
+[logs/05-04-21.txt, 2021-04-05 05:27:18]: mami [, Level 0]: me too
+[logs/05-04-21.txt, 2021-04-05 05:27:19]: ***  [, Level 0]: 'KriegInCome' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:27:28]: Kezo [FookinLads, Level 41]: mami: as
+[logs/05-04-21.txt, 2021-04-05 05:27:29]: [D] ✯ |toxicd [|Supressed, Level 0]: weqe: i help u
