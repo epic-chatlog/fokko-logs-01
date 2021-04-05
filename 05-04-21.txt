@@ -2241,3 +2241,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:16:32]: weqe [MNKY, Level 11]: yes nudelscaft is actually my wife
 [logs/05-04-21.txt, 2021-04-05 02:16:36]: Ƭevan [TrRShClNrRs, Level 48]: who is nudelsaft?
 [logs/05-04-21.txt, 2021-04-05 02:16:37]: BulgarianTee [CleanUpCrew, Level 38]: exactly
+[logs/05-04-21.txt, 2021-04-05 02:16:41]: ***  [, Level 0]: 'nameless tee' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:16:42]: BulgarianTee [CleanUpCrew, Level 38]: Ƭevan: Nudelsaft c:
+[logs/05-04-21.txt, 2021-04-05 02:16:47]: Ƭevan [TrRShClNrRs, Level 48]: Is he there?
