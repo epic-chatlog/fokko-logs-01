@@ -14849,3 +14849,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:33:46]: (3)SAUD [, Level 8]: m
 [logs/04-04-21.txt, 2021-04-04 22:33:47]: PoliceTee [xSD7, Level 24]: WHY TF IS FARMHEAD SO FUCKIN RICH
 [logs/04-04-21.txt, 2021-04-04 22:33:57]: Boti. [.bad, Level 27]: XD
+[logs/04-04-21.txt, 2021-04-04 22:33:58]: (3)SAUD [, Level 8]: who is farmhea
+[logs/04-04-21.txt, 2021-04-04 22:34:03]: PoliceTee [xSD7, Level 11]: and at Tarxe i got 42k
