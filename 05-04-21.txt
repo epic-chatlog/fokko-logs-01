@@ -4954,3 +4954,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:46:51]: ***  [, Level 0]: '(3)1' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:46:56]: KriegInCome [, Level 0]: Kezo:
 [logs/05-04-21.txt, 2021-04-05 05:46:57]: ***  [, Level 0]: 'S Y T H N' changed name to '(1)σмєтнιηg'
+[logs/05-04-21.txt, 2021-04-05 05:47:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[logs/05-04-21.txt, 2021-04-05 05:47:03]: Vodo4ka [JB.st, Level 41]: Ðream:  нахуй ты ему помог
+[logs/05-04-21.txt, 2021-04-05 05:47:10]: wαrнαммer [, Level 26]: Kezo:  GHJAFAD
