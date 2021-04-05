@@ -14986,3 +14986,8 @@
 [logs/04-04-21.txt, 2021-04-04 22:56:05]: BulgarianTee [xSD7, Level 38]: FAT AF
 [logs/04-04-21.txt, 2021-04-04 22:57:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [logs/04-04-21.txt, 2021-04-04 22:57:22]: (3)SAUD [, Level 8]: bruh
+[logs/04-04-21.txt, 2021-04-04 22:58:03]: ***  [, Level 0]: BulgarianTee finished in: 0 minute(s) 34.48 second(s)
+[logs/04-04-21.txt, 2021-04-04 22:58:03]: ***  [, Level 0]: New record: 15.78 second(s) better.
+[logs/04-04-21.txt, 2021-04-04 22:58:06]: BulgarianTee [xSD7, Level 38]: LETS GOOOOOOOOO
+[logs/04-04-21.txt, 2021-04-04 22:58:07]: BulgarianTee [xSD7, Level 38]: 34 SECONDS
+[logs/04-04-21.txt, 2021-04-04 22:58:11]: ***  [, Level 0]: (3)SAUD finished in: 0 minute(s) 55.12 second(s)
