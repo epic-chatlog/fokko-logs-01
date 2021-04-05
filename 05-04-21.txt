@@ -586,3 +586,7 @@
 [logs/05-04-21.txt, 2021-04-05 00:44:36]: mamikral011 [, Level 26]: :D
 [logs/05-04-21.txt, 2021-04-05 00:44:37]: BulgarianTee [xSD7, Level 38]: mamikral011: who kill u?
 [logs/05-04-21.txt, 2021-04-05 00:44:41]: BulgarianTee [xSD7, Level 38]: Asta:
+[logs/05-04-21.txt, 2021-04-05 00:44:45]: mamikral011 [, Level 26]: BulgarianTee: weqe
+[logs/05-04-21.txt, 2021-04-05 00:44:46]: ***  [, Level 0]: 'Vovaster07' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:44:54]: ***  [, Level 0]: 'Vodo4ka' has left the game
+[logs/05-04-21.txt, 2021-04-05 00:44:55]: BulgarianTee [xSD7, Level 38]: SAUD: D:
