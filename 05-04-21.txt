@@ -7618,3 +7618,8 @@
 [2021-04-05 08:36:24]: Falco641 [, Level 18]: xd
 [2021-04-05 08:36:24]: kais [, Level 65]: x7|FayZoR: si tu veux, mais toi tu l'as fais plein de fois, donc t'es pire, c'est ça compte pas :D
 [2021-04-05 08:36:29]: ERROR. [404, Level 74]: ChillerDragon:  server is so laggy
+[2021-04-05 08:36:36]: ChillerDragon.* [|*KoG*|, Level 41]: dachte bin ich ERROR
+[2021-04-05 08:36:39]: ChillerDragon.* [|*KoG*|, Level 41]: aber nur bisschen ERROR
+[2021-04-05 08:36:41]: s6_sven [, Level 1]: Falco641:
+[2021-04-05 08:36:41]: ERROR. [404, Level 74]: abnormal
+[2021-04-05 08:36:42]: s6_sven [, Level 1]: stop
