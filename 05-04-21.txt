@@ -65,3 +65,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:08:28]: Vodo4ka [JB.st, Level 41]: ХАХАХАХХА
 [logs/05-04-21.txt, 2021-04-05 00:08:41]: oyun krallı [, Level 11]: BİTTİ VS
 [logs/05-04-21.txt, 2021-04-05 00:09:15]: oyun krallı [, Level 11]: SORU VE CEVAP
+[logs/05-04-21.txt, 2021-04-05 00:09:17]: BulgarianTee [xSD7, Level 38]: GODLIKe: Vodo4ka: war
+[logs/05-04-21.txt, 2021-04-05 00:09:21]: wαrнαммer [, Level 26]: oyun krallı:   ne
