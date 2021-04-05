@@ -3448,3 +3448,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:00:02]:   [, Level 0]: weqe: Ƭevan: are you my poka friend ?
 [logs/05-04-21.txt, 2021-04-05 04:00:03]: Cylox♥ [♥, Level 30]: Shiro.: whyy
 [logs/05-04-21.txt, 2021-04-05 04:00:03]: Kirito [♥, Level 35]: Shiro.: i raped ur mom last nigh
+[logs/05-04-21.txt, 2021-04-05 04:00:13]:   [, Level 0]: weqe: Ƭevan: are you my poka friend ?
+[logs/05-04-21.txt, 2021-04-05 04:00:15]:   [, Level 0]: Shiro.: Kirito: no u didnt man
+[logs/05-04-21.txt, 2021-04-05 04:00:24]: Kirito [♥, Level 35]: Shiro.: and then i killed ur father
