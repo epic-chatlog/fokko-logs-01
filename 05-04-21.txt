@@ -3802,3 +3802,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:22:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [logs/05-04-21.txt, 2021-04-05 04:22:02]: ***  [, Level 0]: '♫Amirian♬.' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 04:22:03]: cookie [, Level 16]: |ΛnץOиe|:  no i whant to go up
+[logs/05-04-21.txt, 2021-04-05 04:22:23]:   [, Level 0]: BulgarianTee: Shiro.: WAIt
+[logs/05-04-21.txt, 2021-04-05 04:22:23]: mami [, Level 0]: |ΛnץOиe|:  can you unfreeze me
+[logs/05-04-21.txt, 2021-04-05 04:22:26]:   [, Level 0]: BulgarianTee: Shiro.: E
