@@ -3574,3 +3574,8 @@
 [logs/05-04-21.txt, 2021-04-05 04:08:49]: ***  [, Level 0]: '|ΛnץOиe|' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 04:08:50]:   [, Level 0]: Shiro.: that's why u get fucked in 1v3
 [logs/05-04-21.txt, 2021-04-05 04:08:51]: ***  [, Level 0]: ### '♫Amirian♬' ♫Amirian♬ disconected (Timeout)
+[logs/05-04-21.txt, 2021-04-05 04:08:54]: ***  [, Level 0]: 'Lisa' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:08:54]:   [, Level 0]: Shiro.: talk but can't do anything
+[logs/05-04-21.txt, 2021-04-05 04:08:57]:   [, Level 0]: Shiro.: kinda pathetic ngl
+[logs/05-04-21.txt, 2021-04-05 04:08:58]: Foxie♥ [♥, Level 36]: Cylox.♥: rip i guess
+[logs/05-04-21.txt, 2021-04-05 04:09:00]: ***  [, Level 0]: ### '♫Amirian♬' disconected (Timeout)
