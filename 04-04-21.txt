@@ -15238,3 +15238,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:23:12]: ***  [, Level 0]: 'Boti.' has left the game
 [logs/04-04-21.txt, 2021-04-04 23:23:12]: Vodo4ka [JB.st, Level 41]: CRINGE
 [logs/04-04-21.txt, 2021-04-04 23:23:21]: PoliceTee [xSD7, Level 25]: Vodo4ka: mad
+[logs/04-04-21.txt, 2021-04-04 23:23:24]: Vodo4ka [JB.st, Level 41]: SAUD: ??? breh
+[logs/04-04-21.txt, 2021-04-04 23:23:31]: Vodo4ka [JB.st, Level 41]: PoliceTee: i think
