@@ -6415,3 +6415,11 @@
 [2021-04-05 07:20:02]: ***  [, Level 0]: 'ZEWO' entered and joined the game
 [2021-04-05 07:20:08]: ***  [, Level 0]: 'comic' entered and joined the game
 [2021-04-05 07:20:10]: ***  [, Level 0]: Koishi is on a killing spree with 5 blocks
+[2021-04-05 07:20:15]: ***  [, Level 0]: Koishi's killing spree was ended by Zʷʰʸˀ (5 blocks)
+[2021-04-05 07:20:15]: (1)Kirito [♥, Level 35]: (1)Rock: try one more time
+[2021-04-05 07:20:17]: ***  [, Level 0]: 'Maatiteusz' finished the special race!
+[2021-04-05 07:20:20]: ***  [, Level 0]: Sutzer finished in: 2 minute(s)  9.66 second(s)
+[2021-04-05 07:20:22]: ***  [, Level 0]: [D] Sutzer finished in: 1 minute(s) 29.34 second(s)
+[2021-04-05 07:20:23]: ***  [, Level 0]: 'Rock' has left the game
+[2021-04-05 07:20:23]: ***  [, Level 0]: 'ビール|Zero' has left the game
+[2021-04-05 07:20:23]: ZEWO [, Level 0]: ChillerDragon: what talk
