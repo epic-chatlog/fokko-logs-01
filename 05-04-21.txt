@@ -4425,3 +4425,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:52:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [logs/05-04-21.txt, 2021-04-05 04:52:07]: ***  [, Level 0]: 'KoalasSindCool' has left the game
 [logs/05-04-21.txt, 2021-04-05 04:52:13]: MieSlime [FookinLads, Level 43]: BulgarianTee:  normally i have 600-800
+[logs/05-04-21.txt, 2021-04-05 04:52:20]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:52:24]: Swarfey [, Level 60]: BulgarianTee: Vodo4ka is ur stepmum, isegrin got too fat
+[logs/05-04-21.txt, 2021-04-05 04:52:24]: BulgarianTee [CleanUpCrew, Level 38]: keø: wtff just stop Xdd
