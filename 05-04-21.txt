@@ -4688,3 +4688,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:24:19]: (1)ChillerDrago [Chilli.*, Level 31]: yo weqe brother i am afk again xd
 [logs/05-04-21.txt, 2021-04-05 05:24:28]: ***  [, Level 0]: 'ᅟᅟᅟ' changed name to 'Austria'
 [logs/05-04-21.txt, 2021-04-05 05:24:32]: wαrнαммer [, Level 26]: weqe:  i block you bcs u block me. i dont touch u normal time
+[logs/05-04-21.txt, 2021-04-05 05:24:35]: MieSlime [FookinLads, Level 43]: ChillerDragon:  hello
+[logs/05-04-21.txt, 2021-04-05 05:24:35]: ChillerDragon.* [Chilli.*, Level 41]: MieSlime: I am currently afk.
+[logs/05-04-21.txt, 2021-04-05 05:24:42]: Austria [, Level 0]: do you see my name now?
+[logs/05-04-21.txt, 2021-04-05 05:24:45]: Austria [, Level 0]: MieSlime:
