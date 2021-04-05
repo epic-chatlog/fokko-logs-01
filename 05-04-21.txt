@@ -4734,3 +4734,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:29:40]:   [, Level 0]: (1)P4Pyr0s: Kiøn1029: ...
 [logs/05-04-21.txt, 2021-04-05 05:30:16]: ***  [, Level 0]: 'weqe' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:30:18]: [D] ✯ |toxicd [|Supressed, Level 0]: koro: i helped u
+[logs/05-04-21.txt, 2021-04-05 05:30:30]: Vodo4ka [JB.st, Level 41]: ChillerDragon:
+[logs/05-04-21.txt, 2021-04-05 05:30:31]: ChillerDragon [|*KoG*|, Level 44]: Vodo4ka: I am currently afk.
+[logs/05-04-21.txt, 2021-04-05 05:30:31]: [D] ✯ |toxicd [|Supressed, Level 0]: koro: i killed money
+[logs/05-04-21.txt, 2021-04-05 05:30:32]: ***  [, Level 0]: '(1)1' entered and joined the game
