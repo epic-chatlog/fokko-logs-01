@@ -3203,3 +3203,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:38:52]: BulgarianTee [CleanUpCrew, Level 38]: Xd
 [logs/05-04-21.txt, 2021-04-05 03:38:55]: ***  [, Level 0]: 'Yavuz' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:39:10]: Virus [, Level 49]: BC|Tixnix: Im 7
+[logs/05-04-21.txt, 2021-04-05 03:39:12]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:39:13]: ***  [, Level 0]: 'SlerTz.' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:39:15]: ***  [, Level 0]: 'STULEJA 3000' joined the game
