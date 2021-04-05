@@ -1675,3 +1675,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:40:40]: Kirito [Chilli.*, Level 34]: BulgarianTee: why did kais time u out ? how?
 [logs/05-04-21.txt, 2021-04-05 01:40:45]: Hady [new bot, Level 0]: x7|FayZoR: i am in clan
 [logs/05-04-21.txt, 2021-04-05 01:40:54]: Leblebi [, Level 23]: Kirito: im old chilli
+[logs/05-04-21.txt, 2021-04-05 01:40:56]: BulgarianTee [xSD7, Level 38]: Kirito: my PC is slow, particles like spookyghost, atom and bloody can timeout me easily
+[logs/05-04-21.txt, 2021-04-05 01:41:04]: ***  [, Level 0]: 'toine' joined the game
+[logs/05-04-21.txt, 2021-04-05 01:41:05]: BulgarianTee [xSD7, Level 38]: Kirito: if they are spammed or in close proximity to me, or both Xd
