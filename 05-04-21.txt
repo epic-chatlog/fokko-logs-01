@@ -1673,3 +1673,5 @@
 [logs/05-04-21.txt, 2021-04-05 01:40:37]: x7|FayZoR [xSD7, Level 42]: Cylox:
 [logs/05-04-21.txt, 2021-04-05 01:40:38]: BulgarianTee [xSD7, Level 38]: kais: fake news
 [logs/05-04-21.txt, 2021-04-05 01:40:40]: Kirito [Chilli.*, Level 34]: BulgarianTee: why did kais time u out ? how?
+[logs/05-04-21.txt, 2021-04-05 01:40:45]: Hady [new bot, Level 0]: x7|FayZoR: i am in clan
+[logs/05-04-21.txt, 2021-04-05 01:40:54]: Leblebi [, Level 23]: Kirito: im old chilli
