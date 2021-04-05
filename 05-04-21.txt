@@ -5042,3 +5042,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:55:05]:   [, Level 0]: weqe: poka !!
 [logs/05-04-21.txt, 2021-04-05 05:55:10]: kais [, Level 65]: ChillerDragon: we war in police
 [logs/05-04-21.txt, 2021-04-05 05:55:11]: cookie [, Level 16]: Vodo4ka:  help me
+[logs/05-04-21.txt, 2021-04-05 05:55:17]:   [, Level 0]: weqe: poka !!
+[logs/05-04-21.txt, 2021-04-05 05:55:18]: kais [, Level 65]: ChillerDragon: this wasn't really police
+[logs/05-04-21.txt, 2021-04-05 05:55:18]:   [, Level 0]: weqe: poka !!
