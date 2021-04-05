@@ -2633,3 +2633,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:49:58]: BulgarianTee [CleanUpCrew, Level 38]: YelloWorlD: A
 [logs/05-04-21.txt, 2021-04-05 02:50:03]: ***  [, Level 0]: '[D] falkenauge' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:50:03]: ***  [, Level 0]: 'falkenauge' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:50:07]: BulgarianTee [CleanUpCrew, Level 38]: YelloWorlD: JUST CHILL DUDE
+[logs/05-04-21.txt, 2021-04-05 02:50:10]: ***  [, Level 0]: '[D] BC|serwan' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:50:10]: ***  [, Level 0]: 'BC|serwan' has left the game
