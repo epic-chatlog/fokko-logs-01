@@ -2667,3 +2667,7 @@
 [logs/05-04-21.txt, 2021-04-05 02:52:29]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: he is traitor X
 [logs/05-04-21.txt, 2021-04-05 02:52:30]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: he are not x7
 [logs/05-04-21.txt, 2021-04-05 02:52:30]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: he is traitor Xd
+[logs/05-04-21.txt, 2021-04-05 02:52:34]: Fearless [FookinLads, Level 40]: HeavyGeneral:  perfect clan for traitor s
+[logs/05-04-21.txt, 2021-04-05 02:52:35]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: he betrayed x7 Xd
+[logs/05-04-21.txt, 2021-04-05 02:52:42]: ***  [, Level 0]: 'GODLIKe' has left the game (Timeout)
+[logs/05-04-21.txt, 2021-04-05 02:52:42]: ***  [, Level 0]: 'GODLIKe.' has left the game (Timeout)
