@@ -3043,3 +3043,8 @@
 [logs/05-04-21.txt, 2021-04-05 03:28:59]:   [, Level 0]: Shiro.: keø: déco de mon compte
 [logs/05-04-21.txt, 2021-04-05 03:29:03]: ***  [, Level 0]: 'Yavuz' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:29:14]: x7|zemer [xSD7, Level 37]: Wtf
+[logs/05-04-21.txt, 2021-04-05 03:29:21]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:29:21]: Isegrin [, Level 54]: YelloWorlD: its me dummkopf
+[logs/05-04-21.txt, 2021-04-05 03:29:23]: ***  [, Level 0]: 'Paaradox' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:29:26]: ☭ [Drunks, Level 0]: (1)ビール|Ze: хорошо, твой ник искать плохо
+[logs/05-04-21.txt, 2021-04-05 03:29:26]: ***  [, Level 0]: 'STULEJA 3000' joined the game
