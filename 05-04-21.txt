@@ -4959,3 +4959,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:47:10]: wαrнαммer [, Level 26]: Kezo:  GHJAFAD
 [logs/05-04-21.txt, 2021-04-05 05:47:12]: x7|FayZoR [xSD7, Level 42]: kais: tu m'aime bien aussi
 [logs/05-04-21.txt, 2021-04-05 05:47:33]: mami [, Level 0]: fun war
+[logs/05-04-21.txt, 2021-04-05 05:48:04]: mami [, Level 0]: wait
+[logs/05-04-21.txt, 2021-04-05 05:48:05]: ***  [, Level 0]: 'zedwer' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:48:11]: ***  [, Level 0]: '♫Amirian♬' entered and joined the game
