@@ -2060,3 +2060,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:02:35]: [D] Leblebi [, Level 18]: x7|FayZoR: come 1v1 not taser noob
 [logs/05-04-21.txt, 2021-04-05 02:02:35]: Fearless [FookinLads, Level 40]: BulgarianTee:  dont kill Idk  hes my newbie friend
 [logs/05-04-21.txt, 2021-04-05 02:02:37]: kais [, Level 65]: x7|FayZoR: et je fais quoi ?
+[logs/05-04-21.txt, 2021-04-05 02:02:42]: ***  [, Level 0]: 'Lucas' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:02:43]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: back in the day people abused it to unfreeze themselves
