@@ -1756,3 +1756,5 @@
 [logs/05-04-21.txt, 2021-04-05 01:45:19]: ***  [, Level 0]: el champeon is on a killing spree with 30 blocks
 [logs/05-04-21.txt, 2021-04-05 01:45:19]: BulgarianTee [xSD7, Level 38]: (1)kais: this is not funy
 [logs/05-04-21.txt, 2021-04-05 01:45:19]: (1)kais [, Level 58]: [D] Leblebi: and this button open the gate
+[logs/05-04-21.txt, 2021-04-05 01:45:32]: ***  [, Level 0]: el champeon's killing spree was ended by Hady (30 blocks)
+[logs/05-04-21.txt, 2021-04-05 01:45:34]: [D] Leblebi [, Level 18]: xd
