@@ -4745,3 +4745,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:31:00]: Kezo [FookinLads, Level 41]: [D] ✯ |toxicd: ask korod
 [logs/05-04-21.txt, 2021-04-05 05:31:08]: [D] ✯ |toxicd [|Supressed, Level 0]: koro: pls
 [logs/05-04-21.txt, 2021-04-05 05:31:13]: [D] ✯ |toxicd [|Supressed, Level 0]: koro: i helped
+[logs/05-04-21.txt, 2021-04-05 05:31:40]: (2)1 [, Level 11]: KEZO HELP
+[logs/05-04-21.txt, 2021-04-05 05:31:48]: ***  [, Level 0]: '(1)ERROR.' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:31:50]: ChillerDragon [|*KoG*|, Level 44]: ye Vodo4ka?
