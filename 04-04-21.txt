@@ -14777,3 +14777,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:25:06]: (3)SAUD [, Level 8]: im trash now
 [logs/04-04-21.txt, 2021-04-04 22:25:07]: (3)SAUD [, Level 8]: (:
 [logs/04-04-21.txt, 2021-04-04 22:25:08]: [D] Boti. [.bad, Level 32]: you forget to play
+[logs/04-04-21.txt, 2021-04-04 22:25:24]: [D] Boti. [.bad, Level 32]: chillernobo had to much drugs and gores
+[logs/04-04-21.txt, 2021-04-04 22:25:25]: Chilli.* tee [Chilli.*, Level 0]: back then i played a lot of modes but i never stick to any of them, only to blmapchill XD
