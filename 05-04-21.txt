@@ -2674,3 +2674,4 @@
 [logs/05-04-21.txt, 2021-04-05 02:52:52]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: oh okay
 [logs/05-04-21.txt, 2021-04-05 02:53:01]: ***  [, Level 0]: 'LareneGyvaeh' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:53:10]: BulgarianTee [CleanUpCrew, Level 38]: HeavyGeneral: stop be mad
+[logs/05-04-21.txt, 2021-04-05 02:53:20]: Fearless [FookinLads, Level 40]: BulgarianTee:  idc about koro now
