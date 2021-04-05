@@ -3277,3 +3277,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:45:31]: [D] BC|Tixnix [BC, Level 0]: x7|zemer: wen
 [logs/05-04-21.txt, 2021-04-05 03:45:32]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:45:32]: BulgarianTee [CleanUpCrew, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 03:45:38]: LareneGyvaeh [FookinLads, Level 36]: Isegrin: alehem
+[logs/05-04-21.txt, 2021-04-05 03:45:41]:   [, Level 0]: Pigie♥: Kirito:
