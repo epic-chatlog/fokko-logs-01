@@ -9735,3 +9735,6 @@
 [2021-04-05 10:22:48]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-05 10:23:19]: ***  [, Level 0]: 'GOLD' has left the game
 [2021-04-05 10:23:19]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-05 10:23:22]: ◘ [FookinLads, Level 41]: MAD
+[2021-04-05 10:23:25]: ◘ [FookinLads, Level 41]: rage quit :D
+[2021-04-05 10:23:31]: ◘ [FookinLads, Level 41]: rage kill
