@@ -4495,3 +4495,5 @@
 [logs/05-04-21.txt, 2021-04-05 04:57:44]: BulgarianTee [CleanUpCrew, Level 38]: Swarfey: cy@ other time papa
 [logs/05-04-21.txt, 2021-04-05 04:57:46]: MieSlime [FookinLads, Level 43]: Nudelsaft c::  xDD
 [logs/05-04-21.txt, 2021-04-05 04:57:52]: Nudelsaft c: [PoopinLads, Level 37]: BulgarianTee: ok cya
+[logs/05-04-21.txt, 2021-04-05 04:57:55]: ***  [, Level 0]: 'BulgarianTee' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:57:55]: ***  [, Level 0]: 'Shiro.' entered and joined the game
