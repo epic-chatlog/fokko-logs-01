@@ -2825,3 +2825,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:10:48]: ***  [, Level 0]: YelloWorlD is on a killing spree with 5 blocks
 [logs/05-04-21.txt, 2021-04-05 03:10:48]: ***  [, Level 0]: 'SAUD' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:10:49]: PoliceTee [xSD7, Level 25]: rq
+[logs/05-04-21.txt, 2021-04-05 03:11:41]: BulgarianTee [CleanUpCrew, Level 38]: ffs taserspam
