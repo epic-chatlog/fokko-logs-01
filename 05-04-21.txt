@@ -3213,3 +3213,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:39:48]: Kirito [Chilli.*, Level 35]: SlerTz!♥: why did you run in BRO HAHHA wtf
 [logs/05-04-21.txt, 2021-04-05 03:40:00]: ビール|Zero [Drunks, Level 27]: я крутой
 [logs/05-04-21.txt, 2021-04-05 03:40:01]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:40:04]: ビール|Zero [Drunks, Level 27]: а маник лучше)
+[logs/05-04-21.txt, 2021-04-05 03:40:05]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:40:05]: BulgarianTee [CleanUpCrew, Level 38]: E
