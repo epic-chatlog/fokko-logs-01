@@ -1704,3 +1704,8 @@
 [logs/05-04-21.txt, 2021-04-05 01:41:59]: oyun krallı [, Level 11]: VARMI
 [logs/05-04-21.txt, 2021-04-05 01:42:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [logs/05-04-21.txt, 2021-04-05 01:42:00]: Hady [new bot, Level 0]: x7|FayZoR:  i war with him 1 year i don't want more
+[logs/05-04-21.txt, 2021-04-05 01:42:08]: ***  [, Level 0]: el champeon is on a killing spree with 10 blocks
+[logs/05-04-21.txt, 2021-04-05 01:42:17]: ***  [, Level 0]: 'RoberGN' has left the game
+[logs/05-04-21.txt, 2021-04-05 01:42:17]: oyun krallı [, Level 11]: NİYE İLK SEN BASLATIN
+[logs/05-04-21.txt, 2021-04-05 01:42:17]: x7|FayZoR [xSD7, Level 42]: Hady: okay so don't help im in fight
+[logs/05-04-21.txt, 2021-04-05 01:42:20]: kais [, Level 65]: Leblebi: you want exit or stay here ?
