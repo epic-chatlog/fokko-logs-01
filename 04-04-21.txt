@@ -14019,3 +14019,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:21:16]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: yepo xD
 [logs/04-04-21.txt, 2021-04-04 17:21:17]: Nudelsaft c: [FookinLads, Level 37]: XD
 [logs/04-04-21.txt, 2021-04-04 17:21:50]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: 150 times*
+[logs/04-04-21.txt, 2021-04-04 17:22:00]: Who B) [no u, Level 0]: -_.-
+[logs/04-04-21.txt, 2021-04-04 17:22:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
