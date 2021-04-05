@@ -15089,3 +15089,8 @@
 [logs/04-04-21.txt, 2021-04-04 23:07:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [logs/04-04-21.txt, 2021-04-04 23:07:03]: (3)SAUD [, Level 8]: yeah
 [logs/04-04-21.txt, 2021-04-04 23:07:07]: (3)SAUD [, Level 8]: dont ask
+[logs/04-04-21.txt, 2021-04-04 23:07:19]: (3)SAUD [, Level 8]: shit sry
+[logs/04-04-21.txt, 2021-04-04 23:07:20]: ***  [, Level 0]: BulgarianTee finished in: 0 minute(s) 13.92 second(s)
+[logs/04-04-21.txt, 2021-04-04 23:07:20]: ***  [, Level 0]: New record:  1.48 second(s) better.
+[logs/04-04-21.txt, 2021-04-04 23:07:22]: BulgarianTee [xSD7, Level 38]: LETS GOOOOOOOOOOOOOOO
+[logs/04-04-21.txt, 2021-04-04 23:07:23]: (3)SAUD [, Level 8]: niceeee
