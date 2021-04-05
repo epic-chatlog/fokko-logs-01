@@ -2490,3 +2490,7 @@
 [logs/05-04-21.txt, 2021-04-05 02:35:03]: ***  [, Level 0]: 'YelloWorlD' has left the game (Timeout)
 [logs/05-04-21.txt, 2021-04-05 02:35:05]: ***  [, Level 0]: BC|Tixnix's killing spree was ended by Fearless (5 blocks)
 [logs/05-04-21.txt, 2021-04-05 02:35:05]: ᅟᅟᅟᅟ [, Level 47]: noone interesting is fighting
+[logs/05-04-21.txt, 2021-04-05 02:35:08]: Fearless [FookinLads, Level 40]: cant even play without tasr
+[logs/05-04-21.txt, 2021-04-05 02:35:09]: BulgarianTee [CleanUpCrew, Level 38]: OMG GOLD GET GUT NET
+[logs/05-04-21.txt, 2021-04-05 02:35:15]: ᅟᅟᅟᅟ [, Level 47]: lmao and that Yellowworld guy rq
+[logs/05-04-21.txt, 2021-04-05 02:35:17]: ᅟᅟᅟᅟ [, Level 47]: XDDDDD
