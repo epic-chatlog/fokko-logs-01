@@ -9740,3 +9740,4 @@
 [2021-04-05 10:23:31]: ◘ [FookinLads, Level 41]: rage kill
 [2021-04-05 10:23:34]: ***  [, Level 0]: 'Hady' has left the game
 [2021-04-05 10:23:34]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
+[2021-04-05 10:24:05]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
