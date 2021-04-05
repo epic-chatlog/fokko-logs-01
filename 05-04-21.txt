@@ -12544,3 +12544,4 @@
 [2021-04-05 13:16:03]: Nudelsaft c: [FookinLads, Level 60]: ja
 [2021-04-05 13:16:16]: Nudelsaft c: [FookinLads, Level 60]: xd
 [2021-04-05 13:16:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-05 13:17:37]: s7_sven [, Level 0]: Isegrin: ?
