@@ -67,3 +67,9 @@
 [logs/05-04-21.txt, 2021-04-05 00:09:15]: oyun krallı [, Level 11]: SORU VE CEVAP
 [logs/05-04-21.txt, 2021-04-05 00:09:17]: BulgarianTee [xSD7, Level 38]: GODLIKe: Vodo4ka: war
 [logs/05-04-21.txt, 2021-04-05 00:09:21]: wαrнαммer [, Level 26]: oyun krallı:   ne
+[logs/05-04-21.txt, 2021-04-05 00:09:31]: BulgarianTee [xSD7, Level 38]: GODLIKe: Vodo4ka: peace
+[logs/05-04-21.txt, 2021-04-05 00:09:32]: Vodo4ka [JB.st, Level 41]: GODLIKe: noob
+[logs/05-04-21.txt, 2021-04-05 00:09:34]: BulgarianTee [xSD7, Level 38]: WTFFF
+[logs/05-04-21.txt, 2021-04-05 00:09:35]: GODLIKe [hax, Level 44]: Vodo4ka: u
+[logs/05-04-21.txt, 2021-04-05 00:09:35]: BulgarianTee [xSD7, Level 38]: XDDDDDDDDDDD
+[logs/05-04-21.txt, 2021-04-05 00:09:37]: BulgarianTee [xSD7, Level 38]: I WAS JOKING
