@@ -1592,3 +1592,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:35:12]: Leblebi [, Level 23]: HEY
 [logs/05-04-21.txt, 2021-04-05 01:35:12]: Vodo4ka [JB.st, Level 41]: (1)SAUD: now i dont want help u
 [logs/05-04-21.txt, 2021-04-05 01:35:13]: Kirito [Chilli.*, Level 34]: Leblebi:  YOU IDIOT HELP KAIS FUCK YOU WAR4LIFE
+[logs/05-04-21.txt, 2021-04-05 01:35:16]: BulgarianTee [xSD7, Level 0]: kais: fuck you and your particles i lost endless and probably half my money
+[logs/05-04-21.txt, 2021-04-05 01:35:19]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:35:23]: (1)SAUD [, Level 22]: Vodo4ka:  and i dont want ur help
