@@ -2711,3 +2711,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:57:32]: Fearless [FookinLads, Level 40]: ~DemoizL~:  give taser ammo
 [logs/05-04-21.txt, 2021-04-05 02:57:35]: ~DemoizL~ [, Level 39]: Fearless: no
 [logs/05-04-21.txt, 2021-04-05 02:57:38]: Fearless [FookinLads, Level 40]: ~DemoizL~:  ye give
+[logs/05-04-21.txt, 2021-04-05 02:57:43]: HeavyGeneral [FookinLads, Level 44]: TG?
+[logs/05-04-21.txt, 2021-04-05 02:57:47]: Fearless [FookinLads, Level 40]: ~DemoizL~:  ill give u 50k
+[logs/05-04-21.txt, 2021-04-05 02:57:53]: Fearless [FookinLads, Level 40]: ~DemoizL~:  if you give full pack
