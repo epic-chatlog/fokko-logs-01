@@ -704,3 +704,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:50:45]: Boti. [.bad, Level 27]: wasntme
 [logs/05-04-21.txt, 2021-04-05 00:50:48]: MieSlime [FookinLads, Level 43]: Boti.:  im in FookinLads so i can ask for a clan war
 [logs/05-04-21.txt, 2021-04-05 00:50:49]: BulgarianTee [xSD7, Level 38]: kais: but ERROR killed me before i could finish copying it
+[logs/05-04-21.txt, 2021-04-05 00:51:01]: (1)kais [, Level 58]: ahah, bullied
+[logs/05-04-21.txt, 2021-04-05 00:51:04]: ***  [, Level 0]: 'Ego1st' has left the game
