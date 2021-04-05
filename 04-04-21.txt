@@ -14746,3 +14746,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:21:53]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 22:21:58]: (3)SAUD [, Level 8]: xD
 [logs/04-04-21.txt, 2021-04-04 22:22:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[logs/04-04-21.txt, 2021-04-04 22:22:09]: (3)SAUD [, Level 8]: its my lose dance
+[logs/04-04-21.txt, 2021-04-04 22:22:11]: Boti. [.bad, Level 32]: back when i had war with kezo and his gays and all of them died i did a victory dance and then error killed me XDD
+[logs/04-04-21.txt, 2021-04-04 22:22:14]: Chilli.* tee [Chilli.*, Level 0]: aim++
