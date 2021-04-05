@@ -4914,3 +4914,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:44:07]: (1)Cosmo [, Level 0]: help
 [logs/05-04-21.txt, 2021-04-05 05:44:15]: ***  [, Level 0]: 'Pluton' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:44:17]: (1)1 [, Level 0]: HELP
+[logs/05-04-21.txt, 2021-04-05 05:44:27]: ***  [, Level 0]: 'Pluton' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:44:29]: (1)1 [, Level 0]: WAR HEMER HELP
