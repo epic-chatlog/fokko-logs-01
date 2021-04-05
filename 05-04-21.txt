@@ -3042,3 +3042,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:28:56]: Rock [, Level 18]: ManniK: как дела?
 [logs/05-04-21.txt, 2021-04-05 03:28:59]:   [, Level 0]: Shiro.: keø: déco de mon compte
 [logs/05-04-21.txt, 2021-04-05 03:29:03]: ***  [, Level 0]: 'Yavuz' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:29:14]: x7|zemer [xSD7, Level 37]: Wtf
