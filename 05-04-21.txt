@@ -4378,3 +4378,5 @@
 [logs/05-04-21.txt, 2021-04-05 04:48:48]: Isegrin [, Level 54]: Vodo4ka: no u
 [logs/05-04-21.txt, 2021-04-05 04:48:48]:   [, Level 0]: Vodo4ka: MieSlime: idk
 [logs/05-04-21.txt, 2021-04-05 04:48:51]: BulgarianTee [CleanUpCrew, Level 38]: Nudelsaft c:: papa is Isegrin mama?
+[logs/05-04-21.txt, 2021-04-05 04:48:53]:   [, Level 0]: Vodo4ka: Isegrin: u
+[logs/05-04-21.txt, 2021-04-05 04:48:58]: BulgarianTee [CleanUpCrew, Level 38]: XDDD
