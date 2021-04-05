@@ -14182,3 +14182,4 @@
 [2021-04-05 15:58:39]: ***  [, Level 0]: 'sL|KeBu280' entered and joined the game
 [2021-04-05 15:58:40]: ✯Hunter.exe [|Supressed|, Level 35]: S Y T H N: nutz einfach DDnet
 [2021-04-05 15:58:42]: ✯Hunter.exe [|Supressed|, Level 35]: S Y T H N: mensch
+[2021-04-05 15:58:50]: S Y T H N [iPro, Level 37]: ✯Hunter.exe: ath ist besser
