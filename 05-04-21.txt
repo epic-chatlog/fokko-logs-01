@@ -4670,3 +4670,12 @@
 [logs/05-04-21.txt, 2021-04-05 05:23:50]: ᅟᅟᅟ [, Level 0]: wtf
 [logs/05-04-21.txt, 2021-04-05 05:23:50]: MieSlime [FookinLads, Level 43]: mami:  see there are no name ?
 [logs/05-04-21.txt, 2021-04-05 05:23:52]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:23:54]: Kezo [FookinLads, Level 41]: stfu noname
+[logs/05-04-21.txt, 2021-04-05 05:23:54]: MieSlime [FookinLads, Level 43]: Kezo:  u see name ?
+[logs/05-04-21.txt, 2021-04-05 05:23:55]: ᅟᅟᅟ [, Level 0]: i have a name right?
+[logs/05-04-21.txt, 2021-04-05 05:23:57]: Kezo [FookinLads, Level 41]: no
+[logs/05-04-21.txt, 2021-04-05 05:23:59]: Kezo [FookinLads, Level 41]: bug name
+[logs/05-04-21.txt, 2021-04-05 05:23:59]:   [, Level 0]: weqe: ChillerDragon:
+[logs/05-04-21.txt, 2021-04-05 05:24:00]: MieSlime [FookinLads, Level 43]: Kezo:  ye
+[logs/05-04-21.txt, 2021-04-05 05:24:01]: mami [, Level 0]: MieSlime:  yeah i think
+[logs/05-04-21.txt, 2021-04-05 05:24:03]: wαrнαммer [, Level 26]: weqe:  U BLOCK FİRST
