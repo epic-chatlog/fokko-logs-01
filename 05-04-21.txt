@@ -13363,3 +13363,5 @@
 [2021-04-05 14:43:44]: Nudelsaft c: [FookinLads, Level 42]: geh schlafen
 [2021-04-05 14:43:51]: [D] ✯ |toxicd [|Supressed, Level 21]: ?
 [2021-04-05 14:43:56]: ERROR. [404, Level 74]: Nudelsaft c::  bist aber ziemlich überzeugt von dir xDDDD
+[2021-04-05 14:44:05]: Nudelsaft c: [FookinLads, Level 42]: nö, ist nur zu deiner gesundheit
+[2021-04-05 14:44:07]: Nudelsaft c: [FookinLads, Level 42]: schlaf ist gut
