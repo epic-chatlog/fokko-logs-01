@@ -14683,3 +14683,7 @@
 [logs/04-04-21.txt, 2021-04-04 22:15:22]: Boti. [.bad, Level 32]: 2020 april 30
 [logs/04-04-21.txt, 2021-04-04 22:15:25]: Boti. [.bad, Level 32]: first time in game
 [logs/04-04-21.txt, 2021-04-04 22:15:28]: PoliceTee [xSD7, Level 0]: WTF
+[logs/04-04-21.txt, 2021-04-04 22:15:31]: PoliceTee [xSD7, Level 0]: YOU ARENT OG
+[logs/04-04-21.txt, 2021-04-04 22:15:35]: Boti. [.bad, Level 32]: what
+[logs/04-04-21.txt, 2021-04-04 22:15:38]: PoliceTee [xSD7, Level 0]: Boti.: NONAME AF
+[logs/04-04-21.txt, 2021-04-04 22:15:43]: Boti. [.bad, Level 32]: XDDDDDD
