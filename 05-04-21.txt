@@ -2714,3 +2714,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:57:43]: HeavyGeneral [FookinLads, Level 44]: TG?
 [logs/05-04-21.txt, 2021-04-05 02:57:47]: Fearless [FookinLads, Level 40]: ~DemoizL~:  ill give u 50k
 [logs/05-04-21.txt, 2021-04-05 02:57:53]: Fearless [FookinLads, Level 40]: ~DemoizL~:  if you give full pack
+[logs/05-04-21.txt, 2021-04-05 02:57:57]: HeavyGeneral [FookinLads, Level 44]: ok boomer
+[logs/05-04-21.txt, 2021-04-05 02:57:58]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
