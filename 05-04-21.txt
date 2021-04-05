@@ -2522,3 +2522,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:36:48]: x7|FayZoR [xSD7, Level 42]: YelloWorlD: jolie
 [logs/05-04-21.txt, 2021-04-05 02:36:50]: ZEWO [, Level 0]: RoberGN:
 [logs/05-04-21.txt, 2021-04-05 02:36:53]: x7|FayZoR [xSD7, Level 42]: Friendiship ;-): come
+[logs/05-04-21.txt, 2021-04-05 02:37:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[logs/05-04-21.txt, 2021-04-05 02:37:05]: ***  [, Level 0]: 'falkenauge' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:37:07]: ZEWO [, Level 0]: Noémi[Đ]: I fuck?
