@@ -1539,3 +1539,9 @@
 [logs/05-04-21.txt, 2021-04-05 01:31:28]: BulgarianTee [xSD7, Level 38]: kais: LAG OUT FALL IN FREEZE
 [logs/05-04-21.txt, 2021-04-05 01:31:28]: kais [, Level 65]: no, i'm fine
 [logs/05-04-21.txt, 2021-04-05 01:31:30]: weqe [MNKY, Level 11]: Cylox.: XDDDDDDD
+[logs/05-04-21.txt, 2021-04-05 01:31:37]: kais [, Level 65]: 250fps
+[logs/05-04-21.txt, 2021-04-05 01:31:37]: weqe [MNKY, Level 11]: ChillerDragon: brother
+[logs/05-04-21.txt, 2021-04-05 01:31:38]: kais [, Level 65]: i'm fine
+[logs/05-04-21.txt, 2021-04-05 01:31:39]: weqe [MNKY, Level 11]: i missed you
+[logs/05-04-21.txt, 2021-04-05 01:31:43]: ChillerDragon.* [|*KoG*|, Level 41]: brother weqe
+[logs/05-04-21.txt, 2021-04-05 01:31:45]: BulgarianTee [xSD7, Level 38]: kais: LAG OUT
