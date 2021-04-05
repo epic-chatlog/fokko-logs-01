@@ -606,3 +606,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:45:44]: Asta [FookinLads, Level 40]: el champeon:  loooooooolll
 [logs/05-04-21.txt, 2021-04-05 00:45:46]: BulgarianTee [xSD7, Level 38]: weqe: mamikral011: you grown people do business i will go afk and pretend like i always was
 [logs/05-04-21.txt, 2021-04-05 00:45:46]: mamikral011 [, Level 26]: weqe: 30k
+[logs/05-04-21.txt, 2021-04-05 00:45:50]: BulgarianTee [xSD7, Level 38]: kid gang pog
+[logs/05-04-21.txt, 2021-04-05 00:45:52]: ***  [, Level 0]: 'Vodo4ka' has left the game
+[logs/05-04-21.txt, 2021-04-05 00:45:56]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
