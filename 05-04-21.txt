@@ -3361,3 +3361,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:53:46]: ***  [, Level 0]: 'LareneGyvaeh' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:53:46]: ***  [, Level 0]: 'HeavyGeneral' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:53:51]: Isegrin [, Level 54]: AAAAAAAAAA
+[logs/05-04-21.txt, 2021-04-05 03:53:59]: ►AmirianYA◄ [YARIMINAღ, Level 0]: MONI!!!
+[logs/05-04-21.txt, 2021-04-05 03:54:06]: ***  [, Level 0]: 'keø' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:54:06]: ***  [, Level 0]: 'koro' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:54:09]: Isegrin [, Level 54]: x7|FayZoR: NEIN
