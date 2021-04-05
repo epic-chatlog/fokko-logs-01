@@ -11849,3 +11849,5 @@
 [2021-04-05 12:13:28]: NetFlix [, Level 15]: Shiro.:
 [2021-04-05 12:13:38]: |HolyHo| [, Level 28]: Mista Bombastic: gay
 [2021-04-05 12:13:38]: NetFlix [, Level 15]: Shiro.: can i go to the bank?
+[2021-04-05 12:13:40]: ***  [, Level 0]: 'Mista Bombastic' has left the game
+[2021-04-05 12:13:44]: ***  [, Level 0]: 'Foxie♥' has left the game
