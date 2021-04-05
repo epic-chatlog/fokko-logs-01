@@ -3631,3 +3631,4 @@
 [logs/05-04-21.txt, 2021-04-05 04:11:53]: x7|zemer [xSD7, Level 37]: BulgarianTee: Yeah bc i found 17.000 money
 [logs/05-04-21.txt, 2021-04-05 04:11:54]: Foxie♥ [♥, Level 36]: Cylox♥: i didnt ping him its not my fault
 [logs/05-04-21.txt, 2021-04-05 04:11:55]: ***  [, Level 0]: '(2)1' joined the game
+[logs/05-04-21.txt, 2021-04-05 04:12:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
