@@ -14263,3 +14263,6 @@
 [logs/04-04-21.txt, 2021-04-04 18:11:35]: Nudelsaft c: [FookinLads, Level 37]: oh yes papa is coming
 [logs/04-04-21.txt, 2021-04-04 18:11:38]: x7|FayZoR [xSD7, Level 42]: (1)Mr.KshKsh99: XD he want revenge
 [logs/04-04-21.txt, 2021-04-04 18:12:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[logs/04-04-21.txt, 2021-04-04 18:12:22]: Nudelsaft c: [FookinLads, Level 37]: I like turtles.
+[logs/04-04-21.txt, 2021-04-04 18:12:22]: x7|KshKsh99 [xSD7, Level 37]: XD
+[logs/04-04-21.txt, 2021-04-04 18:12:23]: Nudelsaft c: [FookinLads, Level 37]: lag
