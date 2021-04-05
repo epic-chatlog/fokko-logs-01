@@ -10215,3 +10215,13 @@
 [2021-04-05 10:47:43]:   [, Level 0]: Falco641: we will go in that tele
 [2021-04-05 10:47:44]: zZz [{D}, Level 0]: Akalee ღ: ?
 [2021-04-05 10:47:46]: GoatLike [, Level 5]: idk
+[2021-04-05 10:47:50]: ***  [, Level 0]: 'GOLD' entered and joined the game
+[2021-04-05 10:47:51]:   [, Level 0]: ERROR.: ops
+[2021-04-05 10:47:52]:   [, Level 0]: Falco641: i just left my dummy so i can help you get back
+[2021-04-05 10:47:52]: [D] mamikral011 [, Level 0]: WarHammer: ?
+[2021-04-05 10:47:53]: ***  [, Level 0]: ChillerDragon.* is on a killing spree with 30 blocks
+[2021-04-05 10:47:54]: ***  [, Level 0]: 'Maatiteusz' has left the game (Timeout Protection over)
+[2021-04-05 10:47:54]: ***  [, Level 0]: 'Meetiteusz' has left the game (Timeout Protection over)
+[2021-04-05 10:47:54]:   [, Level 0]: Falco641: using dummy
+[2021-04-05 10:47:57]:   [, Level 0]: (1)Cosmo: Falco642: help
+[2021-04-05 10:47:58]: ***  [, Level 0]: 'H0dƌƔ1' finished the special race!
