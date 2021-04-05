@@ -9512,3 +9512,5 @@
 [2021-04-05 10:08:13]: ChillerDragon.* [Chilli.*, Level 41]: ok coekie
 [2021-04-05 10:08:14]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-05 10:08:20]: coekie [Ape, Level 0]: thx
+[2021-04-05 10:08:29]: ***  [, Level 0]: 'GOLD' entered and joined the game
+[2021-04-05 10:08:33]: ***  [, Level 0]: GoatLike is on a killing spree with 10 blocks
