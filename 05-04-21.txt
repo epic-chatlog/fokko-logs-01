@@ -1183,3 +1183,8 @@
 [logs/05-04-21.txt, 2021-04-05 01:15:23]: ***  [, Level 0]: 'Soros' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:15:27]: PoliceTee [xSD7, Level 25]: Leblebi:
 [logs/05-04-21.txt, 2021-04-05 01:15:29]: Leblebi [, Level 22]: KG | Kirito: pls fluffy 1
+[logs/05-04-21.txt, 2021-04-05 01:15:32]: PoliceTee [xSD7, Level 25]: Leblebi:
+[logs/05-04-21.txt, 2021-04-05 01:15:32]: Leblebi [, Level 22]: PoliceTee: fluffy 1 pls
+[logs/05-04-21.txt, 2021-04-05 01:15:36]: PoliceTee [xSD7, Level 25]: Leblebi: look urself
+[logs/05-04-21.txt, 2021-04-05 01:15:36]: Cylox. [♥, Level 0]: wait
+[logs/05-04-21.txt, 2021-04-05 01:15:40]: x7|FayZoR [xSD7, Level 42]: kais: tkt, quand t'auras plus de taser
