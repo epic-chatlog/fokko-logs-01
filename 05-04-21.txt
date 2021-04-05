@@ -144,3 +144,4 @@
 [logs/05-04-21.txt, 2021-04-05 00:13:15]: Vodo4ka [JB.st, Level 41]: BulgarianTee: wait
 [logs/05-04-21.txt, 2021-04-05 00:13:20]: Vodo4ka [JB.st, Level 41]: BulgarianTee: noemi is she?
 [logs/05-04-21.txt, 2021-04-05 00:13:20]: wa̷rha̷mmer [, Level 16]: oyun krallı:  GEL
+[logs/05-04-21.txt, 2021-04-05 00:13:45]: BulgarianTee [xSD7, Level 38]: Vodo4ka: yes
