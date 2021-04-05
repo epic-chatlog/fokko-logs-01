@@ -14462,3 +14462,4 @@
 [logs/04-04-21.txt, 2021-04-04 19:52:17]: ***  [, Level 0]: '(1)SAUD' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 19:53:39]: ***  [, Level 0]: '(2)SAUD' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 19:55:01]: ***  [, Level 0]: '(3)SAUD' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 19:57:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
