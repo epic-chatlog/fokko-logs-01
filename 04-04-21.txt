@@ -15047,3 +15047,7 @@
 [logs/04-04-21.txt, 2021-04-04 23:03:33]: BulgarianTee [xSD7, Level 38]: and i got dummy so
 [logs/04-04-21.txt, 2021-04-04 23:03:44]: BulgarianTee [xSD7, Level 38]: ok ready?
 [logs/04-04-21.txt, 2021-04-04 23:03:46]: (3)SAUD [, Level 8]: yeah
+[logs/04-04-21.txt, 2021-04-04 23:04:15]: ***  [, Level 0]: BulgarianTee finished in: 0 minute(s) 15.72 second(s)
+[logs/04-04-21.txt, 2021-04-04 23:04:15]: ***  [, Level 0]: New record:  0.06 second(s) better.
+[logs/04-04-21.txt, 2021-04-04 23:04:17]: (3)SAUD [, Level 8]: wtf
+[logs/04-04-21.txt, 2021-04-04 23:04:19]: (3)SAUD [, Level 8]: xD
