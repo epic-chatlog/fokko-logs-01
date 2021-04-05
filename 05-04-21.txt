@@ -2611,3 +2611,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:47:46]: ***  [, Level 0]: 'Noémi[Đ]' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:47:46]: Fearless [FookinLads, Level 40]: all of you are clantraitors
 [logs/05-04-21.txt, 2021-04-05 02:47:48]: Fearless [FookinLads, Level 40]: fucking dogs
+[logs/05-04-21.txt, 2021-04-05 02:48:13]: GODLIKe [hax, Level 0]: x7|FayZoR: 10 10
+[logs/05-04-21.txt, 2021-04-05 02:48:19]: BulgarianTee [CleanUpCrew, Level 38]: E
