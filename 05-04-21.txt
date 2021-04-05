@@ -5071,3 +5071,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:57:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [logs/05-04-21.txt, 2021-04-05 05:57:00]:   [, Level 0]: (1)Swarfey: Terston:chillerdragon is this cool
 [logs/05-04-21.txt, 2021-04-05 05:57:02]: Boti. [.bad, Level 0]: not nowe
+[logs/05-04-21.txt, 2021-04-05 05:57:04]: Kezo [FookinLads, Level 41]: weqe: not fight
+[logs/05-04-21.txt, 2021-04-05 05:57:06]: Kezo [FookinLads, Level 41]: come
+[logs/05-04-21.txt, 2021-04-05 05:57:07]: Kezo [FookinLads, Level 41]: no
+[logs/05-04-21.txt, 2021-04-05 05:57:07]:   [, Level 0]: weqe: why ?
