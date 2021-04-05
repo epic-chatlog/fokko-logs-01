@@ -14900,3 +14900,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:38:47]: Boti. [.bad, Level 27]: ERROR: mine some bitcoin farming is useless
 [logs/04-04-21.txt, 2021-04-04 22:39:00]: (1)oyun krallı [, Level 0]: SAUD:  türk müsün
 [logs/04-04-21.txt, 2021-04-04 22:39:03]: PoliceTee [xSD7, Level 0]: XDDD
+[logs/04-04-21.txt, 2021-04-04 22:39:10]: (3)SAUD [, Level 8]: oyun krallı: bruh
+[logs/04-04-21.txt, 2021-04-04 22:39:13]: (1)oyun krallı [, Level 0]: SAUD:  türk müsün
+[logs/04-04-21.txt, 2021-04-04 22:39:17]: SAUD [, Level 22]: ?????????????
