@@ -234,3 +234,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:19:54]: BulgarianTee [xSD7, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 00:19:58]: Vodo4ka [JB.st, Level 41]: weqe: cringe
 [logs/05-04-21.txt, 2021-04-05 00:19:58]: wa̷rha̷mmer [, Level 16]: WUT
+[logs/05-04-21.txt, 2021-04-05 00:20:02]: weqe [MNKY, Level 11]: poka !!
+[logs/05-04-21.txt, 2021-04-05 00:20:09]: Vodo4ka [JB.st, Level 41]: privet
