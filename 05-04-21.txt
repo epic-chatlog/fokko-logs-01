@@ -13380,3 +13380,5 @@
 [2021-04-05 14:46:56]: ***  [, Level 0]: Nudelsaft c:'s killing spree was ended by x7|Chronos (18 blocks)
 [2021-04-05 14:46:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-05 14:47:04]: ERROR. [404, Level 74]: go
+[2021-04-05 14:47:09]: [D] ✯ |toxicd [|Supressed, Level 21]: ✯Hunter.exe: wtf
+[2021-04-05 14:47:18]: ✯Hunter.exe [|Supressed|, Level 35]: [D] ✯ |toxicd: how much
