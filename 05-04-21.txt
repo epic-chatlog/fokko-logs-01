@@ -314,3 +314,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:25:38]: ***  [, Level 0]: 'Лимонад' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 00:25:51]: Лимонад [MFG, Level 37]: CRINGE
 [logs/05-04-21.txt, 2021-04-05 00:25:56]: ***  [, Level 0]: 'Лимонад' has left the game
+[logs/05-04-21.txt, 2021-04-05 00:27:00]: Vodo4ka [JB.st, Level 41]: CRINGE
+[logs/05-04-21.txt, 2021-04-05 00:27:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[logs/05-04-21.txt, 2021-04-05 00:27:04]: weqe [MNKY, Level 11]: poka !!
