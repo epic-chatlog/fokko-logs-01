@@ -2988,3 +2988,10 @@
 [logs/05-04-21.txt, 2021-04-05 03:25:40]: Fearless [, Level 40]: BulgarianTee:
 [logs/05-04-21.txt, 2021-04-05 03:25:40]: cup of tee [abh, Level 0]: YelloWorlD: ready ?
 [logs/05-04-21.txt, 2021-04-05 03:25:54]: (2)ChillerDrago [Chilli.*, Level 32]: fuck u delta
+[logs/05-04-21.txt, 2021-04-05 03:25:56]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:25:59]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:26:00]: x7|zemer [xSD7, Level 37]: Fearless: Sry
+[logs/05-04-21.txt, 2021-04-05 03:26:04]: Fearless [, Level 40]: BulgarianTee:  nah i cant play 60100000000000000v1
+[logs/05-04-21.txt, 2021-04-05 03:26:05]: Fearless [, Level 40]: rq
+[logs/05-04-21.txt, 2021-04-05 03:26:07]: ***  [, Level 0]: '[D] Fearless' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:26:07]: ***  [, Level 0]: 'Fearless' has left the game
