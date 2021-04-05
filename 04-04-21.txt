@@ -14715,3 +14715,9 @@
 [logs/04-04-21.txt, 2021-04-04 22:18:11]: (3)SAUD [, Level 8]: WHAT
 [logs/04-04-21.txt, 2021-04-04 22:18:20]: BaguetTee [France, Level 38]: E
 [logs/04-04-21.txt, 2021-04-04 22:18:22]: (3)SAUD [, Level 8]: that was ur name back then?
+[logs/04-04-21.txt, 2021-04-04 22:18:25]: (3)SAUD [, Level 8]: and skin
+[logs/04-04-21.txt, 2021-04-04 22:18:26]: BaguetTee [France, Level 38]: yes
+[logs/04-04-21.txt, 2021-04-04 22:18:28]: BaguetTee [France, Level 38]: PoliceTee too
+[logs/04-04-21.txt, 2021-04-04 22:18:32]: (3)SAUD [, Level 8]: xD
+[logs/04-04-21.txt, 2021-04-04 22:18:33]: BaguetTee [France, Level 38]: and i was also some other names
+[logs/04-04-21.txt, 2021-04-04 22:18:36]: (3)SAUD [, Level 8]: cringe
