@@ -15375,3 +15375,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:36:51]: Vodo4ka [JB.st, Level 41]: BulgarianTee: u know dat shop in russia
 [logs/04-04-21.txt, 2021-04-04 23:36:52]: Vodo4ka [JB.st, Level 41]: BulgarianTee: 5ka
 [logs/04-04-21.txt, 2021-04-04 23:37:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[logs/04-04-21.txt, 2021-04-04 23:37:08]: PoliceTee [xSD7, Level 25]: Vodo4ka: mad af
+[logs/04-04-21.txt, 2021-04-04 23:37:10]: ***  [, Level 0]: '(1)oyun krallı' has left the game
