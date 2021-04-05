@@ -49,3 +49,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:06:48]: GODLIKe [hax, Level 44]: oyun krallı:
 [logs/05-04-21.txt, 2021-04-05 00:06:52]: GODLIKe [hax, Level 44]: oyun krallı: ->
 [logs/05-04-21.txt, 2021-04-05 00:07:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[logs/05-04-21.txt, 2021-04-05 00:07:08]: GODLIKe [hax, Level 44]: lag
+[logs/05-04-21.txt, 2021-04-05 00:07:15]: wαrнαммer [, Level 26]: AGA B
