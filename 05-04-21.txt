@@ -874,3 +874,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:01:05]: SAUD [, Level 0]: Kirito:  how do u want me to know i was in midlle of  fight
 [logs/05-04-21.txt, 2021-04-05 01:01:07]: kais [, Level 65]: weqe: ik
 [logs/05-04-21.txt, 2021-04-05 01:01:13]: weqe [MNKY, Level 11]: are u arab kais
+[logs/05-04-21.txt, 2021-04-05 01:01:18]: ***  [, Level 0]: 'Vodo4ka' has left the game
+[logs/05-04-21.txt, 2021-04-05 01:01:18]: BulgarianTee [xSD7, Level 38]: kais: now u r freeze u cant spookyghost
+[logs/05-04-21.txt, 2021-04-05 01:01:19]: BulgarianTee [xSD7, Level 38]: (1)kais: STOP
+[logs/05-04-21.txt, 2021-04-05 01:01:26]: weqe [MNKY, Level 11]: are u arab kais
