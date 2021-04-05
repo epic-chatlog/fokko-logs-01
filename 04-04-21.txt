@@ -14483,3 +14483,4 @@
 [logs/04-04-21.txt, 2021-04-04 20:20:40]: Larifari [Tee Wars, Level 0]: beeing afk is ez, true
 [logs/04-04-21.txt, 2021-04-04 20:21:51]: teee [, Level 0]: ez
 [logs/04-04-21.txt, 2021-04-04 20:22:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[logs/04-04-21.txt, 2021-04-04 20:23:13]: ***  [, Level 0]: 'Larifari' has left the game
