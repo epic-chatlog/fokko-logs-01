@@ -12081,3 +12081,7 @@
 [2021-04-05 12:43:39]: Meetiteusz [TrRShClNrRs, Level 25]: Keø: this is my clanmate
 [2021-04-05 12:43:40]:   [, Level 0]: Swarfey: kais: f.zillyhuhn.com
 [2021-04-05 12:43:45]: (2)kais [, Level 36]: [D] ✯ |toxicd: ahah nobo
+[2021-04-05 12:43:58]: (2)kais [, Level 36]: Swarfey: no ty
+[2021-04-05 12:44:01]: ***  [, Level 0]: '(3)kais' has left the game
+[2021-04-05 12:44:01]: ***  [, Level 0]: '(2)kais' has left the game
+[2021-04-05 12:44:04]:   [, Level 0]: Swarfey: kais: ah nvm i thought its the ping xd
