@@ -13365,3 +13365,6 @@
 [2021-04-05 14:43:56]: ERROR. [404, Level 74]: Nudelsaft c::  bist aber ziemlich überzeugt von dir xDDDD
 [2021-04-05 14:44:05]: Nudelsaft c: [FookinLads, Level 42]: nö, ist nur zu deiner gesundheit
 [2021-04-05 14:44:07]: Nudelsaft c: [FookinLads, Level 42]: schlaf ist gut
+[2021-04-05 14:44:23]: ***  [, Level 0]: 's6_sven' has left the game (Timeout)
+[2021-04-05 14:44:23]: ***  [, Level 0]: 's7_sven' has left the game (Timeout)
+[2021-04-05 14:44:33]: iMxtteo [, Level 26]: I like turtles.
