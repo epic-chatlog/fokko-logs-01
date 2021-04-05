@@ -2546,3 +2546,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:39:04]: Fearless [FookinLads, Level 40]: robq
 [logs/05-04-21.txt, 2021-04-05 02:39:08]: Fearless [FookinLads, Level 40]: falkenauge:  w4l
 [logs/05-04-21.txt, 2021-04-05 02:39:08]: ***  [, Level 0]: Fearless's killing spree was ended by falkenauge (6 blocks)
+[logs/05-04-21.txt, 2021-04-05 02:39:14]: ✯ |toxicdaddy [|Supressed, Level 24]: Noémi[Đ]: help me dummy pls
+[logs/05-04-21.txt, 2021-04-05 02:39:18]: YelloWorlD [404, Level 37]: koro:
+[logs/05-04-21.txt, 2021-04-05 02:39:19]: Fearless [FookinLads, Level 40]: falkenauge:  they have portal why u help dogs
