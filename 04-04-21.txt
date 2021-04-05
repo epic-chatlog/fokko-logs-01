@@ -14708,3 +14708,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:17:21]: PoliceTee [xSD7, Level 0]: oh wait not
 [logs/04-04-21.txt, 2021-04-04 22:17:25]: (3)SAUD [, Level 8]: what
 [logs/04-04-21.txt, 2021-04-04 22:17:28]: Boti. [.bad, Level 32]: what kind of hardbass you listen to
+[logs/04-04-21.txt, 2021-04-04 22:17:49]: (3)SAUD [, Level 8]: xD
+[logs/04-04-21.txt, 2021-04-04 22:17:58]: Boti. [.bad, Level 32]: PoliceTee: uamee?
