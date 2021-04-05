@@ -3412,3 +3412,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:58:08]: Ƭevan [TrRShClNrRs, Level 48]: weqe: rat tactic
 [logs/05-04-21.txt, 2021-04-05 03:58:14]: ***  [, Level 0]: 'cookie' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:58:15]:   [, Level 0]: weqe: xaxa Ƭevan
+[logs/05-04-21.txt, 2021-04-05 03:58:21]:   [, Level 0]: ►AmirianYA◄: IDIOTS
