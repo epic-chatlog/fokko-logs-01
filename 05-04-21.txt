@@ -5153,3 +5153,11 @@
 [logs/05-04-21.txt, 2021-04-05 06:01:09]:   [, Level 0]: weqe: power:
 [logs/05-04-21.txt, 2021-04-05 06:01:10]: Boti. [.bad, Level 32]: i have lags
 [logs/05-04-21.txt, 2021-04-05 06:01:19]: K҉E҉N҉O҉ [ZzzZzz, Level 4]: ERROR:
+[logs/05-04-21.txt, 2021-04-05 06:01:23]:   [, Level 0]: weqe: Boti.: help
+[logs/05-04-21.txt, 2021-04-05 06:01:24]: ***  [, Level 0]: '(1)Cosmo' has left the game
+[logs/05-04-21.txt, 2021-04-05 06:01:24]: ***  [, Level 0]: 'Cosmo' has left the game
+[logs/05-04-21.txt, 2021-04-05 06:01:25]: (1)kais [, Level 58]: bruh
+[logs/05-04-21.txt, 2021-04-05 06:01:28]: K҉E҉N҉O҉ [ZzzZzz, Level 4]: u get extra xp for flag?
+[logs/05-04-21.txt, 2021-04-05 06:01:28]: ***  [, Level 0]: '₯-Akuma-'♥'' changed name to 'qυѕнιк'
+[logs/05-04-21.txt, 2021-04-05 06:01:31]: kais [, Level 65]: x7|FayZoR: j'me suis deep xD
+[logs/05-04-21.txt, 2021-04-05 06:01:34]: ChillerDragon [|*KoG*|, Level 44]: in 0.7 save :D
