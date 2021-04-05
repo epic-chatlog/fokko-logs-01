@@ -12594,3 +12594,8 @@
 [2021-04-05 13:23:18]: [D] Sutzer [Guard, Level 0]: x
 [2021-04-05 13:23:19]: [D] Sutzer [Guard, Level 0]: D
 [2021-04-05 13:23:22]: (1)Kirito♥ [♥, Level 36]: mina: ye ty
+[2021-04-05 13:23:33]: (1)Kirito♥ [♥, Level 36]: mina: so where are you fromß
+[2021-04-05 13:23:36]: mina [, Level 0]: (1)Kirito♥: where are u drom
+[2021-04-05 13:23:40]: mina [, Level 0]: from
+[2021-04-05 13:23:41]: tee [, Level 0]: i gtg
+[2021-04-05 13:23:41]: . [TrRShClNrRs, Level 42]: power: tf
