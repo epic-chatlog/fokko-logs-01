@@ -5030,3 +5030,9 @@
 [logs/05-04-21.txt, 2021-04-05 05:54:31]: (1)kais [, Level 58]: ChillerDragon: ?
 [logs/05-04-21.txt, 2021-04-05 05:54:39]: ChillerDragon [Chilli.*, Level 44]: why u help kais
 [logs/05-04-21.txt, 2021-04-05 05:54:42]:   [, Level 0]: Vodo4ka: cookie: u help koro man
+[logs/05-04-21.txt, 2021-04-05 05:54:49]:   [, Level 0]: weqe: poka !!
+[logs/05-04-21.txt, 2021-04-05 05:54:52]: cookie [, Level 16]: Vodo4ka no
+[logs/05-04-21.txt, 2021-04-05 05:54:52]: (1)kais [, Level 58]: ChillerDragon: why not ?
+[logs/05-04-21.txt, 2021-04-05 05:54:53]: wαrнαммer [, Level 26]: sythn
+[logs/05-04-21.txt, 2021-04-05 05:54:54]:   [, Level 0]: weqe: poka !!
+[logs/05-04-21.txt, 2021-04-05 05:54:58]: σмєтнιηg [zε†α, Level 37]: :D
