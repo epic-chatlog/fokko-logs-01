@@ -6164,3 +6164,6 @@
 [2021-04-05 06:58:53]: ***  [, Level 0]: 'mamikral011' has left the game
 [2021-04-05 06:58:56]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-05 06:59:05]: discord bridge [eiuawhrf, Level 24]: Terston: sex
+[2021-04-05 06:59:16]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
+[2021-04-05 06:59:19]: ***  [, Level 0]: '(1)1' has left the game
+[2021-04-05 06:59:22]: discord bridge [eiuawhrf, Level 24]: HeavyGeneral: hi
