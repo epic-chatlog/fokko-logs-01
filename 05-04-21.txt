@@ -4967,3 +4967,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:48:26]:   [, Level 0]: ♫Amirian♬: x7|FayZoR:
 [logs/05-04-21.txt, 2021-04-05 05:48:30]: Vodo4ka [JB.st, Level 41]: ✯ |toxicdaddy: i was helping ya
 [logs/05-04-21.txt, 2021-04-05 05:48:36]: ***  [, Level 0]: 'Animal off hat' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:48:41]: ***  [, Level 0]: 'σмєтнιηg' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:48:43]: ♫Amirian♬ [, Level 0]: x7|FayZoR: pls portal
+[logs/05-04-21.txt, 2021-04-05 05:48:46]: ***  [, Level 0]: '(1)σмєтнιηg' changed name to 'σмєтнιηg'
