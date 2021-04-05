@@ -15109,3 +15109,6 @@
 [logs/04-04-21.txt, 2021-04-04 23:08:37]: (3)SAUD [, Level 8]: where r u from
 [logs/04-04-21.txt, 2021-04-04 23:08:40]: BulgarianTee [xSD7, Level 38]: bulgaria XD
 [logs/04-04-21.txt, 2021-04-04 23:08:44]: (3)SAUD [, Level 8]: xD
+[logs/04-04-21.txt, 2021-04-04 23:09:05]: BulgarianTee [xSD7, Level 38]: i get it why you asking, i used to be BaguetTee and people thought i was french
+[logs/04-04-21.txt, 2021-04-04 23:09:11]: BulgarianTee [xSD7, Level 38]: so i had this joke-name "RussianTee" too
+[logs/04-04-21.txt, 2021-04-04 23:09:13]: (3)SAUD [, Level 8]: yeah
