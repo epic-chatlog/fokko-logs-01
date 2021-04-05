@@ -2822,3 +2822,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:10:36]: bob [Legacy™, Level 36]: gl palying alone
 [logs/05-04-21.txt, 2021-04-05 03:10:37]: ***  [, Level 0]: 'bob' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:10:39]: YelloWorlD [404, Level 37]: rq
+[logs/05-04-21.txt, 2021-04-05 03:10:48]: ***  [, Level 0]: YelloWorlD is on a killing spree with 5 blocks
+[logs/05-04-21.txt, 2021-04-05 03:10:48]: ***  [, Level 0]: 'SAUD' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:10:49]: PoliceTee [xSD7, Level 25]: rq
