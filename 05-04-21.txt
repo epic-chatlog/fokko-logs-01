@@ -13508,3 +13508,5 @@
 [2021-04-05 14:58:01]: sL|cunt [, Level 0]: ReXi: !
 [2021-04-05 14:58:05]: ~DemoizL~ [, Level 39]: ah
 [2021-04-05 14:58:16]: Shiro. [404, Level 42]: hein
+[2021-04-05 14:58:17]: ***  [, Level 0]: 'ist ein Noob' entered and joined the game
+[2021-04-05 14:58:22]: ***  [, Level 0]: 'Isegrin' has left the game
