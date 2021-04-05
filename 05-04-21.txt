@@ -4433,3 +4433,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:52:34]: MieSlime [FookinLads, Level 43]: BulgarianTee:  ik
 [logs/05-04-21.txt, 2021-04-05 04:52:37]: BulgarianTee [CleanUpCrew, Level 38]: MieSlime: HE RESET CUZ HE GAE XD
 [logs/05-04-21.txt, 2021-04-05 04:52:41]: BulgarianTee [CleanUpCrew, Level 38]: Swarfey: E
+[logs/05-04-21.txt, 2021-04-05 04:52:46]: ***  [, Level 0]: 'KoalasSindCool' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:52:50]: BulgarianTee [CleanUpCrew, Level 38]: Swarfey: papa he kill me
+[logs/05-04-21.txt, 2021-04-05 04:52:52]: BulgarianTee [CleanUpCrew, Level 38]: Swarfey: bully him
