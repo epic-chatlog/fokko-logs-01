@@ -10724,3 +10724,8 @@
 [2021-04-05 11:06:35]: ***  [, Level 0]: 'koro' has left the game (Timeout Protection over)
 [2021-04-05 11:06:37]: Deus Ex Machina [, Level 36]: ChillerDragon: u play  gore?
 [2021-04-05 11:06:44]: ChillerDragon [Chilli.*, Level 44]: yes
+[2021-04-05 11:06:47]: Deus Ex Machina [, Level 36]: ChillerDragon: oh
+[2021-04-05 11:06:50]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
+[2021-04-05 11:06:54]: Falco641 [, Level 19]: wait
+[2021-04-05 11:06:56]: GoatLike [, Level 5]: ik
+[2021-04-05 11:06:56]: Deus Ex Machina [, Level 36]: ChillerDragon: me 2
