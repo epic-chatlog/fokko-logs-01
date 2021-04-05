@@ -6506,3 +6506,7 @@
 [2021-04-05 07:26:48]:   [, Level 0]: power: come
 [2021-04-05 07:26:48]: x7|FayZoR [xSD7, Level 42]: kais: tu parle po ? :c
 [2021-04-05 07:26:49]: ♥JustRace♥ [xSD7, Level 36]: ERROR:  ello
+[2021-04-05 07:26:53]: ♥JustRace♥ [xSD7, Level 36]: ERROR:  u no afk
+[2021-04-05 07:26:55]: kais [, Level 65]: x7|FayZoR: pour te dire quoi ?
+[2021-04-05 07:27:00]: ♥JustRace♥ [xSD7, Level 36]: ERROR:  fight
+[2021-04-05 07:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
