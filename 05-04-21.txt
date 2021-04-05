@@ -4788,3 +4788,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:34:16]: ERROR [404, Level 56]: kk xddd
 [logs/05-04-21.txt, 2021-04-05 05:34:25]: P4Pyr0s [, Level 22]: WHAT LANGUAGE ARE YOU (1)P4Pyr0s
 [logs/05-04-21.txt, 2021-04-05 05:34:32]: wαrнαммer [, Level 26]: Tziys*:  SENİN ADAM ÖLDÜ
+[logs/05-04-21.txt, 2021-04-05 05:34:36]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:34:44]: ***  [, Level 0]: '(1)P4Pyr0s' changed name to 'S Y T H N'
+[logs/05-04-21.txt, 2021-04-05 05:34:49]: KriegInCome [, Level 0]: sry
