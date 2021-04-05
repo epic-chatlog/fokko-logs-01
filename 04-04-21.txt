@@ -14520,3 +14520,4 @@
 [logs/04-04-21.txt, 2021-04-04 20:52:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [logs/04-04-21.txt, 2021-04-04 20:57:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [logs/04-04-21.txt, 2021-04-04 21:02:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[logs/04-04-21.txt, 2021-04-04 21:07:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
