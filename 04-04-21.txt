@@ -15007,3 +15007,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:59:46]: (3)SAUD [, Level 8]: -__
 [logs/04-04-21.txt, 2021-04-04 22:59:49]: PoliceTee [xSD7, Level 0]: xD
 [logs/04-04-21.txt, 2021-04-04 23:00:04]: (3)SAUD [, Level 8]: COME
+[logs/04-04-21.txt, 2021-04-04 23:00:13]: (3)SAUD [, Level 8]: Xd
+[logs/04-04-21.txt, 2021-04-04 23:00:14]: (3)SAUD [, Level 8]: xD
+[logs/04-04-21.txt, 2021-04-04 23:00:14]: BulgarianTee [xSD7, Level 38]: ok this should be ez choit
