@@ -2791,3 +2791,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:04:29]: ***  [, Level 0]: 'TimePause's nub' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:05:11]: ***  [, Level 0]: 'Писька' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:05:16]: Fearless [FookinLads, Level 40]: bob:  omg
+[logs/05-04-21.txt, 2021-04-05 03:05:28]: ***  [, Level 0]: keø is on a killing spree with 5 blocks
