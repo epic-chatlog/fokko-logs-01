@@ -307,3 +307,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:25:00]: BulgarianTee [xSD7, Level 38]: Vodo4ka: rage mute
 [logs/05-04-21.txt, 2021-04-05 00:25:06]: ***  [, Level 0]: R2D2 finished in: 15 minute(s) 40.78 second(s)
 [logs/05-04-21.txt, 2021-04-05 00:25:06]: ***  [, Level 0]: 'R2D2' finished the special race!
+[logs/05-04-21.txt, 2021-04-05 00:25:10]: Vodo4ka [JB.st, Level 41]: BulgarianTee: rage cringe word
+[logs/05-04-21.txt, 2021-04-05 00:25:16]: ***  [, Level 0]: 'Лимонад' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:25:19]: ***  [, Level 0]: 'Лимонад' has left the game
