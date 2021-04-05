@@ -750,3 +750,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:53:10]: (1)kais [, Level 58]: BulgarianTee: it work so well xD
 [logs/05-04-21.txt, 2021-04-05 00:53:19]: BulgarianTee [xSD7, Level 38]: kais: this is my anti kais
 [logs/05-04-21.txt, 2021-04-05 00:53:24]: BulgarianTee [xSD7, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 00:53:43]: kais [, Level 65]: BulgarianTee: RUNNN
+[logs/05-04-21.txt, 2021-04-05 00:53:45]: ***  [, Level 0]: Asta is on a killing spree with 5 blocks
+[logs/05-04-21.txt, 2021-04-05 00:53:52]: BulgarianTee [xSD7, Level 38]: MieSlime: YOUR BROTHER IS GAY AF
