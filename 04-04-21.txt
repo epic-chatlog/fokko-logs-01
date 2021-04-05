@@ -15181,3 +15181,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:18:53]: BulgarianTee [xSD7, Level 38]: XDD
 [logs/04-04-21.txt, 2021-04-04 23:18:56]: Vodo4ka [JB.st, Level 41]: BulgarianTee: why...
 [logs/04-04-21.txt, 2021-04-04 23:19:00]: BulgarianTee [xSD7, Level 38]: why not
+[logs/04-04-21.txt, 2021-04-04 23:19:19]: BulgarianTee [xSD7, Level 38]: we need someone with portal to stack us, that would be good D:
+[logs/04-04-21.txt, 2021-04-04 23:19:25]: ***  [, Level 0]: '(1)oyun krallı' has left the game (Too weak connection (not acked for 60 seconds))
