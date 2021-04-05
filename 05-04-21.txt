@@ -5378,3 +5378,5 @@
 [2021-04-05 06:07:08]: ***  [, Level 0]: This account is already logged in
 [2021-04-05 06:07:10]: Nudelsaft c: [PoopinLads, Level 0]: a
 [2021-04-05 06:07:10]: Nudelsaft c: [PoopinLads, Level 0]: a
+[2021-04-05 06:07:14]: ***  [, Level 0]: '(1)ai9u7wgreauiw' has left the game
+[2021-04-05 06:07:14]: ***  [, Level 0]: '(1)chillerdagorn' has left the game
