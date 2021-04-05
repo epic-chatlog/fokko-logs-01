@@ -14319,3 +14319,6 @@
 [2021-04-05 16:12:58]: ✯Hunter.exe [|Supressed|, Level 35]: KriegInCome: move
 [2021-04-05 16:12:58]: hmmmmmm [, Level 8]: x7|FayZoR:
 [2021-04-05 16:13:04]: ***  [, Level 0]: 'S Y T H N' changed name to 'MLG_PRO.'
+[2021-04-05 16:13:09]: ***  [, Level 0]: 'Hunter.exe' has left the game
+[2021-04-05 16:13:10]: ***  [, Level 0]: 'Hunter.exe' entered and joined the game
+[2021-04-05 16:13:14]: ***  [, Level 0]: 'MLG_PRO.' changed name to 'S Y T H N'
