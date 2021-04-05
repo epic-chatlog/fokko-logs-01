@@ -2518,3 +2518,7 @@
 [logs/05-04-21.txt, 2021-04-05 02:36:35]: ***  [, Level 0]: 'Chilli.*' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:36:41]: Fearless [FookinLads, Level 40]: x7|FayZoR:  + i woke up
 [logs/05-04-21.txt, 2021-04-05 02:36:44]: ***  [, Level 0]: 'Chilli.*' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:36:46]: Fearless [FookinLads, Level 40]: x7|FayZoR:  + i have ping too
+[logs/05-04-21.txt, 2021-04-05 02:36:48]: x7|FayZoR [xSD7, Level 42]: YelloWorlD: jolie
+[logs/05-04-21.txt, 2021-04-05 02:36:50]: ZEWO [, Level 0]: RoberGN:
+[logs/05-04-21.txt, 2021-04-05 02:36:53]: x7|FayZoR [xSD7, Level 42]: Friendiship ;-): come
