@@ -14781,3 +14781,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:25:25]: Chilli.* tee [Chilli.*, Level 0]: back then i played a lot of modes but i never stick to any of them, only to blmapchill XD
 [logs/04-04-21.txt, 2021-04-04 22:25:53]: (3)SAUD [, Level 8]: the zombie one was so fckin great
 [logs/04-04-21.txt, 2021-04-04 22:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[logs/04-04-21.txt, 2021-04-04 22:27:28]: ***  [, Level 0]: 'Chilli.* tee' changed name to 'PoliceTee'
+[logs/04-04-21.txt, 2021-04-04 22:27:28]: ***  [, Level 0]: 'BaguetTee' changed name to 'BulgarianTee'
