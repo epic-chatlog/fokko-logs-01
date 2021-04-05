@@ -2926,3 +2926,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:21:03]: ***  [, Level 0]: 'Treebeard' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:21:08]: Isegrin [, Level 54]: hui
 [logs/05-04-21.txt, 2021-04-05 03:21:22]: x7|zemer [xSD7, Level 37]: Tixnix: Nicht mehr in BC???
+[logs/05-04-21.txt, 2021-04-05 03:21:23]: cup of tee [abh, Level 0]: Cylox: up
+[logs/05-04-21.txt, 2021-04-05 03:21:35]: ***  [, Level 0]: 'Tixnix' has left the game (Too weak connection (not acked for 60 seconds))
