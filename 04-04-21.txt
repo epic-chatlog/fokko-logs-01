@@ -14615,3 +14615,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:05:24]: (3)SAUD [, Level 7]: PoliceTee: why
 [logs/04-04-21.txt, 2021-04-04 22:05:29]: PoliceTee [xSD7, Level 0]: SAUD: i dont wanna be alone :(
 [logs/04-04-21.txt, 2021-04-04 22:06:05]: (3)SAUD [, Level 7]: xD  ok ill eat ill be back in 10 minutes
+[logs/04-04-21.txt, 2021-04-04 22:06:11]: PoliceTee [xSD7, Level 0]: yeey :D
+[logs/04-04-21.txt, 2021-04-04 22:06:15]: SAUD [, Level 21]: xD
