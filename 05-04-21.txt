@@ -2944,3 +2944,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:23:28]: ***  [, Level 0]: 'cup of tee 2' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:23:29]: ***  [, Level 0]: '(2)oyun krallı' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 03:23:30]: BulgarianTee [CleanUpCrew, Level 38]: x7|zemer: fuck taser
+[logs/05-04-21.txt, 2021-04-05 03:23:35]: ***  [, Level 0]: 'delta' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:23:37]: x7|zemer [xSD7, Level 37]: BulgarianTee: Yeah ik
+[logs/05-04-21.txt, 2021-04-05 03:23:37]: (2)ChillerDrago [|*KoG*|, Level 32]: fuck the police
