@@ -10937,3 +10937,12 @@
 [2021-04-05 11:16:44]: ***  [, Level 0]: 'nameless' has left the game
 [2021-04-05 11:16:45]: Discord [, Level 24]: Terston: Andromeda dont listen to him..
 [2021-04-05 11:16:46]: ***  [, Level 0]: 'Hello' entered and joined the game
+[2021-04-05 11:16:47]: ***  [, Level 0]: 'BC|serwan' finished the special race!
+[2021-04-05 11:16:47]: ***  [, Level 0]: BC|serwan finished in: 21 minute(s) 12.02 second(s)
+[2021-04-05 11:16:49]: Deus Ex Machina [, Level 36]: ChillerDragon: the world record is at 20.500
+[2021-04-05 11:16:50]: ***  [, Level 0]: 'Hello' has left the game
+[2021-04-05 11:16:52]: ***  [, Level 0]: ChillerDragon finished in: 3 minute(s) 42.96 second(s)
+[2021-04-05 11:16:53]: Andromeda [, Level 24]: Discord: yes
+[2021-04-05 11:16:58]: Andromeda [, Level 24]: Discord: u TL|ŦƹƦ$ŦǾN ?
+[2021-04-05 11:16:59]: ***  [, Level 0]: ChillerDragon.* finished in: 2 minute(s) 47.96 second(s)
+[2021-04-05 11:17:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
