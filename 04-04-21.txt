@@ -14514,3 +14514,4 @@
 [logs/04-04-21.txt, 2021-04-04 20:37:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [logs/04-04-21.txt, 2021-04-04 20:38:18]: ***  [, Level 0]: 'Larifari' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 20:38:23]: ***  [, Level 0]: 'Larifari' has left the game
+[logs/04-04-21.txt, 2021-04-04 20:41:07]: ***  [, Level 0]: 'teee' has left the game
