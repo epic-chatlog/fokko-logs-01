@@ -1886,3 +1886,4 @@
 [logs/05-04-21.txt, 2021-04-05 01:53:58]: [D] Leblebi [, Level 18]: x7|FayZoR: BulgarianTee ask kais why dont block him
 [logs/05-04-21.txt, 2021-04-05 01:54:01]: BulgarianTee [xSD7, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 01:54:03]: BulgarianTee [xSD7, Level 38]: Cylox: round head
+[logs/05-04-21.txt, 2021-04-05 01:54:12]: (1)kais [, Level 58]: x7|FayZoR: non, ça me prouve juste que t'es pas sympa, m'en fou que tu le spike, mais ça se fait pas
