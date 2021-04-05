@@ -5266,3 +5266,14 @@
 [2021-04-05 06:05:01]: ***  [, Level 0]: 'ai9u7wgreauiwgh' has left the game
 [2021-04-05 06:05:01]: ***  [, Level 0]: 'chillerdagorn' has left the game
 [2021-04-05 06:05:04]: Boti. [.bad, Level 32]: i have 5 in wallet
+[2021-04-05 06:05:40]: ***  [, Level 0]: 'ai9u7wgreauiwgh' entered and joined the game
+[2021-04-05 06:05:40]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
+[2021-04-05 06:05:41]: ***  [, Level 0]: '(1)chillerdagorn' entered and joined the game
+[2021-04-05 06:05:41]: ***  [, Level 0]: Successfully logged in
+[2021-04-05 06:05:41]: ***  [, Level 0]: [WARNING] You did not set security pin yet. Check '/pin' for more information.
+[2021-04-05 06:05:41]: ***  [, Level 0]: '(1)ai9u7wgreauiw' entered and joined the game
+[2021-04-05 06:05:41]: ***  [, Level 0]: '(1)ai9u7wgreauiw' entered and joined the game
+[2021-04-05 06:05:41]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
+[2021-04-05 06:05:42]: ***  [, Level 0]: This account is already logged in
+[2021-04-05 06:05:42]: Nudelsaft c: [PoopinLads, Level 0]: b
+[2021-04-05 06:05:42]: Nudelsaft c: [PoopinLads, Level 0]: b
