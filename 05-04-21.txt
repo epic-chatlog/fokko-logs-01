@@ -2477,3 +2477,9 @@
 [logs/05-04-21.txt, 2021-04-05 02:34:17]: ***  [, Level 0]: 'Sutzer' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:34:25]: Noémi[Đ] [citrom, Level 32]: [D] BC|Tixnix: no i help u dude
 [logs/05-04-21.txt, 2021-04-05 02:34:27]: ZEWO [, Level 0]: ok
+[logs/05-04-21.txt, 2021-04-05 02:34:28]: ZEWO [, Level 0]: sory
+[logs/05-04-21.txt, 2021-04-05 02:34:33]: ***  [, Level 0]: '[D] shift' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:34:36]: ***  [, Level 0]: '[D] shift' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:34:36]: ZEWO [, Level 0]: x7|FayZoR: help
+[logs/05-04-21.txt, 2021-04-05 02:34:37]: Lucas [THECEPS, Level 34]: BC|Tixnix: he helped you stupid
+[logs/05-04-21.txt, 2021-04-05 02:34:37]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 5 blocks
