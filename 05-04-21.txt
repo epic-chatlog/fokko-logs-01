@@ -5028,3 +5028,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:54:22]: Nudelsaft c: [PoopinLads, Level 0]: bin runter
 [logs/05-04-21.txt, 2021-04-05 05:54:23]: ChillerDragon [|*KoG*|, Level 44]: simp kais
 [logs/05-04-21.txt, 2021-04-05 05:54:31]: (1)kais [, Level 58]: ChillerDragon: ?
+[logs/05-04-21.txt, 2021-04-05 05:54:39]: ChillerDragon [Chilli.*, Level 44]: why u help kais
+[logs/05-04-21.txt, 2021-04-05 05:54:42]:   [, Level 0]: Vodo4ka: cookie: u help koro man
