@@ -906,3 +906,4 @@
 [logs/05-04-21.txt, 2021-04-05 01:02:36]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:02:39]: SAUD [, Level 0]: he lives in france i guess weqe
 [logs/05-04-21.txt, 2021-04-05 01:02:41]: comic [comically, Level 13]: el champeon: why are you eve fighting
+[logs/05-04-21.txt, 2021-04-05 01:02:47]: BulgarianTee [xSD7, Level 38]: (1)kais: ezpz no farm for flagwasters
