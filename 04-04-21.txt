@@ -15045,3 +15045,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:03:29]: BulgarianTee [xSD7, Level 38]: sub 15 is enough XD
 [logs/04-04-21.txt, 2021-04-04 23:03:32]: (3)SAUD [, Level 8]: xD
 [logs/04-04-21.txt, 2021-04-04 23:03:33]: BulgarianTee [xSD7, Level 38]: and i got dummy so
+[logs/04-04-21.txt, 2021-04-04 23:03:44]: BulgarianTee [xSD7, Level 38]: ok ready?
+[logs/04-04-21.txt, 2021-04-04 23:03:46]: (3)SAUD [, Level 8]: yeah
