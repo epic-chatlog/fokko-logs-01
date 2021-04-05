@@ -907,3 +907,9 @@
 [logs/05-04-21.txt, 2021-04-05 01:02:39]: SAUD [, Level 0]: he lives in france i guess weqe
 [logs/05-04-21.txt, 2021-04-05 01:02:41]: comic [comically, Level 13]: el champeon: why are you eve fighting
 [logs/05-04-21.txt, 2021-04-05 01:02:47]: BulgarianTee [xSD7, Level 38]: (1)kais: ezpz no farm for flagwasters
+[logs/05-04-21.txt, 2021-04-05 01:03:03]: ***  [, Level 0]: 'Vodo4ka' has left the game
+[logs/05-04-21.txt, 2021-04-05 01:03:04]: ***  [, Level 0]: 'Kirito' changed name to 'KG | Kirito'
+[logs/05-04-21.txt, 2021-04-05 01:03:05]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:03:05]: BulgarianTee [xSD7, Level 38]: fak u
+[logs/05-04-21.txt, 2021-04-05 01:03:05]: (1)kais [, Level 58]: no farm for bad pc BulgarianTee
+[logs/05-04-21.txt, 2021-04-05 01:03:05]: weqe [MNKY, Level 11]: kais: my muslim brother <33
