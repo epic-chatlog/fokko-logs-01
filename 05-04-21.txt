@@ -419,3 +419,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:36:17]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: omg omg omg omg omg BulgarianTee ily so much
 [logs/05-04-21.txt, 2021-04-05 00:36:23]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: BulgarianTee: i srsly hope you have a great, fantastic day
 [logs/05-04-21.txt, 2021-04-05 00:36:23]: BulgarianTee [xSD7, Level 38]: TL|ŦƹƦ$ŦǾN: yo
+[logs/05-04-21.txt, 2021-04-05 00:36:26]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: BulgarianTee: i srsly love trees
+[logs/05-04-21.txt, 2021-04-05 00:36:31]: BulgarianTee [xSD7, Level 38]: TL|ŦƹƦ$ŦǾN: team trees
+[logs/05-04-21.txt, 2021-04-05 00:36:33]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: BulgarianTee: and nautre itself
