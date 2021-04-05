@@ -1898,3 +1898,4 @@
 [logs/05-04-21.txt, 2021-04-05 01:54:56]: ***  [, Level 0]: 'BC|serwan' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:54:57]: BulgarianTee [xSD7, Level 38]: kais: wanna go peace after this?
 [logs/05-04-21.txt, 2021-04-05 01:54:57]: x7|FayZoR [xSD7, Level 42]: kais: et moi ? t'es sympa avec moi ?
+[logs/05-04-21.txt, 2021-04-05 01:55:02]: (1)SAUD [, Level 22]: Royal:  ibra?
