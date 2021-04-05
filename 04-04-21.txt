@@ -15475,3 +15475,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:50:36]: Лимонад [MFG, Level 0]: E
 [logs/04-04-21.txt, 2021-04-04 23:50:56]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 23:50:56]: GODLIKe. [GANG, Level 0]: nub
+[logs/04-04-21.txt, 2021-04-04 23:51:00]: wαrнαммer [, Level 26]: WTF
+[logs/04-04-21.txt, 2021-04-04 23:51:12]: wαrнαммer [, Level 26]: STOP
