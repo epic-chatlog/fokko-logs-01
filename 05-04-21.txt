@@ -1325,3 +1325,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:21:50]: BulgarianTee [xSD7, Level 38]: kais: STAY HERe
 [logs/05-04-21.txt, 2021-04-05 01:21:50]: kais [, Level 65]: xD
 [logs/05-04-21.txt, 2021-04-05 01:21:52]: SAUD [, Level 0]: Hady: if u raid with MieSlime  sry ill kill u
+[logs/05-04-21.txt, 2021-04-05 01:21:53]: Hady [new bot, Level 0]: notihing
+[logs/05-04-21.txt, 2021-04-05 01:22:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[logs/05-04-21.txt, 2021-04-05 01:22:02]: MieSlime [FookinLads, Level 43]: Hady:  lmaooo saud is a noob
