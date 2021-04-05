@@ -3395,3 +3395,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:56:51]: BulgarianTee [CleanUpCrew, Level 38]: x7|zemer: yeah XD
 [logs/05-04-21.txt, 2021-04-05 03:57:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [logs/05-04-21.txt, 2021-04-05 03:57:10]: x7|zemer [xSD7, Level 37]: BulgarianTee: Ok:D
+[logs/05-04-21.txt, 2021-04-05 03:57:21]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: x7|zemer: gg i gtg have lunch, then i will see whats going on and then i gtg XD
