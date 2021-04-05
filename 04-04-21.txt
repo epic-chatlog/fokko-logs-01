@@ -14500,3 +14500,4 @@
 [logs/04-04-21.txt, 2021-04-04 20:29:15]: SAUD [, Level 21]: (1)ERROR:  ok
 [logs/04-04-21.txt, 2021-04-04 20:29:41]: ERROR [404, Level 56]: teee:  so bad
 [logs/04-04-21.txt, 2021-04-04 20:30:01]: (1)SAUD [, Level 15]: poor  teee ggs
+[logs/04-04-21.txt, 2021-04-04 20:32:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
