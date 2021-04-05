@@ -1883,3 +1883,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:53:47]: x7|FayZoR [xSD7, Level 42]: kais: je prend par les sentiments
 [logs/05-04-21.txt, 2021-04-05 01:53:48]: (1)oyun krallı [, Level 0]: LEBLEBİ GÖRDÜNNÜ SATTI
 [logs/05-04-21.txt, 2021-04-05 01:53:54]: BulgarianTee [xSD7, Level 38]: x7|FayZoR: no farm space for me :C
+[logs/05-04-21.txt, 2021-04-05 01:53:58]: [D] Leblebi [, Level 18]: x7|FayZoR: BulgarianTee ask kais why dont block him
+[logs/05-04-21.txt, 2021-04-05 01:54:01]: BulgarianTee [xSD7, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 01:54:03]: BulgarianTee [xSD7, Level 38]: Cylox: round head
