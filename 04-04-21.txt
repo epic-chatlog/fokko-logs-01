@@ -14984,3 +14984,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:55:25]: ***  [, Level 0]: '[D] Boti.' has left the game (Timeout)
 [logs/04-04-21.txt, 2021-04-04 22:55:27]: PoliceTee [xSD7, Level 0]: rq
 [logs/04-04-21.txt, 2021-04-04 22:56:05]: BulgarianTee [xSD7, Level 38]: FAT AF
+[logs/04-04-21.txt, 2021-04-04 22:57:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
