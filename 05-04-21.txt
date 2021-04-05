@@ -312,3 +312,4 @@
 [logs/05-04-21.txt, 2021-04-05 00:25:19]: ***  [, Level 0]: 'Лимонад' has left the game
 [logs/05-04-21.txt, 2021-04-05 00:25:37]: Vodo4ka [JB.st, Level 41]: bruh
 [logs/05-04-21.txt, 2021-04-05 00:25:38]: ***  [, Level 0]: 'Лимонад' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:25:51]: Лимонад [MFG, Level 37]: CRINGE
