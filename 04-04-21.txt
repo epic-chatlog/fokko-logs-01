@@ -14042,3 +14042,4 @@
 [logs/04-04-21.txt, 2021-04-04 17:27:45]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: so some member in your team help ennemis :/
 [logs/04-04-21.txt, 2021-04-04 17:27:49]: x7|KshKsh99 [xSD7, Level 0]: who
 [logs/04-04-21.txt, 2021-04-04 17:28:32]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: i don't want create a problem and i don't remember exacly but some help ennemi or attack member if they attack her friend
+[logs/04-04-21.txt, 2021-04-04 17:29:13]: Mr.KshKsh99 [xSD7, Level 0]: portal
