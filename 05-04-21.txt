@@ -5151,3 +5151,5 @@
 [logs/05-04-21.txt, 2021-04-05 06:01:02]:   [, Level 0]: power2: ?
 [logs/05-04-21.txt, 2021-04-05 06:01:05]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [logs/05-04-21.txt, 2021-04-05 06:01:09]:   [, Level 0]: weqe: power:
+[logs/05-04-21.txt, 2021-04-05 06:01:10]: Boti. [.bad, Level 32]: i have lags
+[logs/05-04-21.txt, 2021-04-05 06:01:19]: K҉E҉N҉O҉ [ZzzZzz, Level 4]: ERROR:
