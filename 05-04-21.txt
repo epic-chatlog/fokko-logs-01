@@ -2850,3 +2850,8 @@
 [logs/05-04-21.txt, 2021-04-05 03:15:53]: ***  [, Level 0]: '(1)Rock' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:15:55]: ***  [, Level 0]: '(2)oyun krallı' joined the game
 [logs/05-04-21.txt, 2021-04-05 03:15:57]: Fearless [, Level 40]: BulgarianTee: what do you think
+[logs/05-04-21.txt, 2021-04-05 03:16:02]: TimePause [xSD7, Level 35]: BulgarianTee: i go rq
+[logs/05-04-21.txt, 2021-04-05 03:16:04]: BulgarianTee [CleanUpCrew, Level 38]: Fearless: why tf not raid?
+[logs/05-04-21.txt, 2021-04-05 03:16:04]: ***  [, Level 0]: 'TimePause' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:16:04]: ***  [, Level 0]: 'TimePause's nub' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:16:06]: BulgarianTee [CleanUpCrew, Level 38]: OMG GAY
