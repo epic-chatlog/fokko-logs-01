@@ -2597,3 +2597,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:46:31]: x7|FayZoR [xSD7, Level 42]: can play without 330000000 MS omg
 [logs/05-04-21.txt, 2021-04-05 02:46:32]: ***  [, Level 0]: 'power' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:46:32]: ***  [, Level 0]: 'power2' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:46:37]: x7|FayZoR [xSD7, Level 42]: can't
+[logs/05-04-21.txt, 2021-04-05 02:46:41]: Fearless [FookinLads, Level 40]: YelloWorlD:  dont kill him hes neewbie
