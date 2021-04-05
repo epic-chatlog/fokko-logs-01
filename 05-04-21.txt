@@ -2179,3 +2179,4 @@
 [logs/05-04-21.txt, 2021-04-05 02:11:57]: ***  [, Level 0]: 'Cylox' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:12:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [logs/05-04-21.txt, 2021-04-05 02:12:00]: ᅟᅟ [, Level 60]: touch me more and it wont be that fun anymore
+[logs/05-04-21.txt, 2021-04-05 02:12:07]: weqe [MNKY, Level 11]: im scared
