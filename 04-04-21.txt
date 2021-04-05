@@ -15502,3 +15502,6 @@
 [logs/04-04-21.txt, 2021-04-04 23:53:53]: ***  [, Level 0]: 'wa̷rha̷mmer' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 23:53:57]: Vodo4ka [JB.st, Level 41]: E
 [logs/04-04-21.txt, 2021-04-04 23:53:58]: GODLIKe [hax, Level 44]: XDDDDDDDD
+[logs/04-04-21.txt, 2021-04-04 23:54:09]: GODLIKe [hax, Level 44]: oyun krallı: Vodo4ka çek
+[logs/04-04-21.txt, 2021-04-04 23:54:10]: Vodo4ka [JB.st, Level 41]: GODLIKe:  u fak me for no reason
+[logs/04-04-21.txt, 2021-04-04 23:54:14]: ***  [, Level 0]: 'Лимонад' has left the game
