@@ -2472,3 +2472,8 @@
 [logs/05-04-21.txt, 2021-04-05 02:34:01]: Nonoh [citrom, Level 40]: Tixnix: i help u dude
 [logs/05-04-21.txt, 2021-04-05 02:34:07]: x7|FayZoR [xSD7, Level 42]: soooooo who ddos me im tired
 [logs/05-04-21.txt, 2021-04-05 02:34:10]: PoliceTee [xSD7, Level 25]: E
+[logs/05-04-21.txt, 2021-04-05 02:34:15]: BC|Tixnix [BC, Level 34]: Nonoh: no you want kiling me
+[logs/05-04-21.txt, 2021-04-05 02:34:17]: ***  [, Level 0]: '[D] Sutzer' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:34:17]: ***  [, Level 0]: 'Sutzer' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:34:25]: Noémi[Đ] [citrom, Level 32]: [D] BC|Tixnix: no i help u dude
+[logs/05-04-21.txt, 2021-04-05 02:34:27]: ZEWO [, Level 0]: ok
