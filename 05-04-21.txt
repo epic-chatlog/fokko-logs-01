@@ -4501,3 +4501,5 @@
 [logs/05-04-21.txt, 2021-04-05 04:58:11]: Nudelsaft c: [PoopinLads, Level 37]: bulgariantee left shiro entered
 [logs/05-04-21.txt, 2021-04-05 04:58:13]: SAUD [, Level 0]: Sutzer: xD
 [logs/05-04-21.txt, 2021-04-05 04:58:37]: ***  [, Level 0]: 'Shiro.' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:58:53]: SAUD [, Level 0]: MieSlime:
+[logs/05-04-21.txt, 2021-04-05 04:59:00]: ***  [, Level 0]: '(1)ReXí' changed name to '(1)RéXí'
