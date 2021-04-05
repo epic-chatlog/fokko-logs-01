@@ -13085,3 +13085,4 @@
 [2021-04-05 14:06:15]: (2)Kirito♥ [♥, Level 35]: mina: but you rejected me without a reason :o
 [2021-04-05 14:06:39]: mina [, Level 0]: Kirito♥: i dont reject without reason
 [2021-04-05 14:06:50]: (2)Kirito♥ [♥, Level 35]: mina: so what was the reason?
+[2021-04-05 14:06:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
