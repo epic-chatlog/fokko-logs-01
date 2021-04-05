@@ -14617,3 +14617,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:06:05]: (3)SAUD [, Level 7]: xD  ok ill eat ill be back in 10 minutes
 [logs/04-04-21.txt, 2021-04-04 22:06:11]: PoliceTee [xSD7, Level 0]: yeey :D
 [logs/04-04-21.txt, 2021-04-04 22:06:15]: SAUD [, Level 21]: xD
+[logs/04-04-21.txt, 2021-04-04 22:06:32]: PoliceTee [xSD7, Level 0]: i have /spec everyone in this server, and everyone is afk in a farm place Xdd
