@@ -2262,3 +2262,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:18:10]: ***  [, Level 0]: 'ZEWO' has left the game (Timeout Protection over)
 [logs/05-04-21.txt, 2021-04-05 02:18:10]: ***  [, Level 0]: 'ZEWO's dummy' has left the game (Timeout Protection over)
 [logs/05-04-21.txt, 2021-04-05 02:18:12]: x7|FayZoR [xSD7, Level 42]: weqe: i have peace with s y n t h, i don't think
+[logs/05-04-21.txt, 2021-04-05 02:18:45]: BulgarianTee [CleanUpCrew, Level 38]: XD
+[logs/05-04-21.txt, 2021-04-05 02:18:51]: weqe [MNKY, Level 11]: man taser should be removed from this server
+[logs/05-04-21.txt, 2021-04-05 02:18:53]: BulgarianTee [CleanUpCrew, Level 38]: u dont even need me D:
