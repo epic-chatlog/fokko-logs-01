@@ -1841,3 +1841,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:51:23]: Hady [new bot, Level 33]: BulgarianTee:  i am not bored
 [logs/05-04-21.txt, 2021-04-05 01:51:27]: [D] Leblebi [, Level 18]: xd
 [logs/05-04-21.txt, 2021-04-05 01:51:30]: Hady [new bot, Level 33]: i fun
+[logs/05-04-21.txt, 2021-04-05 01:51:37]: ***  [, Level 0]: (1)kais's killing spree was ended by x7|FayZoR (55 blocks)
+[logs/05-04-21.txt, 2021-04-05 01:51:42]: BulgarianTee [xSD7, Level 38]: im hungry af
+[logs/05-04-21.txt, 2021-04-05 01:51:43]: [D] Leblebi [, Level 18]: afk
