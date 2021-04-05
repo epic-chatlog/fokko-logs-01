@@ -791,3 +791,4 @@
 [logs/05-04-21.txt, 2021-04-05 00:55:22]: Kirito [♥, Level 34]: (1)kais: actually the lure worked
 [logs/05-04-21.txt, 2021-04-05 00:55:25]: Kirito [♥, Level 34]: BulgarianTee: shut up noname
 [logs/05-04-21.txt, 2021-04-05 00:55:28]: BulgarianTee [xSD7, Level 38]: Kirito: E
+[logs/05-04-21.txt, 2021-04-05 00:55:32]: ***  [, Level 0]: Asta's killing spree was ended by weqe (5 blocks)
