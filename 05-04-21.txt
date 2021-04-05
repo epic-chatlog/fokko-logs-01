@@ -249,3 +249,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:21:16]: wαrнαммer [, Level 26]: MİSSUNDERSTOOD
 [logs/05-04-21.txt, 2021-04-05 00:21:17]: Vodo4ka [JB.st, Level 41]: weqe: donater
 [logs/05-04-21.txt, 2021-04-05 00:21:24]: Vodo4ka [JB.st, Level 41]: suka
+[logs/05-04-21.txt, 2021-04-05 00:21:31]: Vodo4ka [JB.st, Level 41]: SO NUB
+[logs/05-04-21.txt, 2021-04-05 00:21:33]: Vodo4ka [JB.st, Level 41]: OMG
