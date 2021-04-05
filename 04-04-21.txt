@@ -15311,3 +15311,7 @@
 [logs/04-04-21.txt, 2021-04-04 23:30:38]: BulgarianTee [xSD7, Level 38]: E
 [logs/04-04-21.txt, 2021-04-04 23:30:51]: Vodo4ka [JB.st, Level 41]: BulgarianTee: let pidorlike farm
 [logs/04-04-21.txt, 2021-04-04 23:30:55]: BulgarianTee [xSD7, Level 38]: XDDDDDDD
+[logs/04-04-21.txt, 2021-04-04 23:31:00]: Vodo4ka [JB.st, Level 41]: XDD
+[logs/04-04-21.txt, 2021-04-04 23:31:04]: BulgarianTee [xSD7, Level 38]: MADLIKe
+[logs/04-04-21.txt, 2021-04-04 23:31:06]: ***  [, Level 0]: 'R2D2' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 23:31:11]: Vodo4ka [JB.st, Level 41]: ХУЙLike
