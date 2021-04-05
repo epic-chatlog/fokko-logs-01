@@ -14214,3 +14214,7 @@
 [logs/04-04-21.txt, 2021-04-04 17:58:07]: ***  [, Level 0]: This account is already logged in
 [logs/04-04-21.txt, 2021-04-04 17:58:12]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: maybe, oh come !!
 [logs/04-04-21.txt, 2021-04-04 17:58:12]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: maybe, oh come !!
+[logs/04-04-21.txt, 2021-04-04 17:58:32]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: he have fail, we can block this account
+[logs/04-04-21.txt, 2021-04-04 17:58:32]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: he have fail, we can block this account
+[logs/04-04-21.txt, 2021-04-04 17:58:34]: ***  [, Level 0]: '(1)ai9u7wgreauiw' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:58:34]: ***  [, Level 0]: '(1)chillerdagorn' has left the game
