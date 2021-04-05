@@ -3118,3 +3118,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:33:33]: BulgarianTee [CleanUpCrew, Level 38]: (1)SAUD: nice Xd
 [logs/05-04-21.txt, 2021-04-05 03:33:33]: ***  [, Level 0]: 'STULEJA 3000' joined the game
 [logs/05-04-21.txt, 2021-04-05 03:33:40]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:33:46]: BulgarianTee [CleanUpCrew, Level 38]: Shiro.: WTFF
+[logs/05-04-21.txt, 2021-04-05 03:33:50]: Isegrin [, Level 54]: BOBI
+[logs/05-04-21.txt, 2021-04-05 03:33:52]:   [, Level 0]: BulgarianTee: Shiro.: we have same enemy you idiot
