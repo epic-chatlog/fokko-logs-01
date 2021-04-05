@@ -85,3 +85,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:10:18]: Vodo4ka [JB.st, Level 41]: EEE
 [logs/05-04-21.txt, 2021-04-05 00:10:25]: comic [comically, Level 13]: sike
 [logs/05-04-21.txt, 2021-04-05 00:10:26]: BulgarianTee [xSD7, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 00:10:33]: oyun krallı [, Level 11]: BANKADA KAÇ BİN VAR
+[logs/05-04-21.txt, 2021-04-05 00:10:39]: Vodo4ka [JB.st, Level 41]: E
+[logs/05-04-21.txt, 2021-04-05 00:10:41]: wαrнαммer [, Level 26]: oyun krallı:  44
