@@ -1394,3 +1394,8 @@
 [logs/05-04-21.txt, 2021-04-05 01:25:13]: kais [, Level 65]: BulgarianTee: u
 [logs/05-04-21.txt, 2021-04-05 01:25:18]: kais [, Level 65]: BulgarianTee: u poor
 [logs/05-04-21.txt, 2021-04-05 01:25:19]: comic [comically, Level 13]: el champeon: ok i blocked you
+[logs/05-04-21.txt, 2021-04-05 01:25:25]: comic [comically, Level 13]: el champeon: what did it do doe?
+[logs/05-04-21.txt, 2021-04-05 01:25:25]: SAUD [, Level 0]: wtfff
+[logs/05-04-21.txt, 2021-04-05 01:25:26]: kais [, Level 65]: BulgarianTee: only 500k
+[logs/05-04-21.txt, 2021-04-05 01:25:32]: comic [comically, Level 13]: Cylox.: yo
+[logs/05-04-21.txt, 2021-04-05 01:25:34]: BulgarianTee [xSD7, Level 38]: kais: yes for a person who never farm is gut
