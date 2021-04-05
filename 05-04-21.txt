@@ -2613,3 +2613,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:47:48]: Fearless [FookinLads, Level 40]: fucking dogs
 [logs/05-04-21.txt, 2021-04-05 02:48:13]: GODLIKe [hax, Level 0]: x7|FayZoR: 10 10
 [logs/05-04-21.txt, 2021-04-05 02:48:19]: BulgarianTee [CleanUpCrew, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 02:48:35]: YelloWorlD [404, Level 37]: Fearless: noob
+[logs/05-04-21.txt, 2021-04-05 02:48:38]: YelloWorlD [404, Level 37]: Fearless: 2V1
+[logs/05-04-21.txt, 2021-04-05 02:48:41]: Fearless [FookinLads, Level 40]: YelloWorlD:  stfu dog
