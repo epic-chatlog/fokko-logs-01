@@ -675,3 +675,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:49:21]: (1)kais [, Level 58]: BulgarianTee: xD
 [logs/05-04-21.txt, 2021-04-05 00:49:21]: ***  [, Level 0]: 'Neoteny' has left the game
 [logs/05-04-21.txt, 2021-04-05 00:49:24]: Asta [FookinLads, Level 40]: Boti.:  ty
+[logs/05-04-21.txt, 2021-04-05 00:49:33]: BulgarianTee [xSD7, Level 38]: kais: |STO{P
+[logs/05-04-21.txt, 2021-04-05 00:49:42]: (1)kais [, Level 58]: CRASH >:D
