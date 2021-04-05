@@ -14241,3 +14241,4 @@
 [logs/04-04-21.txt, 2021-04-04 18:02:36]: ***  [, Level 0]: '(1)Mr.KshKsh99' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 18:04:39]: ***  [, Level 0]: 'Royal' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 18:05:01]: (1)x7|KshKsh99 [xSD7, Level 0]: wtf
+[logs/04-04-21.txt, 2021-04-04 18:05:55]: (1)Mr.KshKsh99 [xSD7, Level 0]: hook
