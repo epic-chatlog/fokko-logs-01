@@ -11731,3 +11731,5 @@
 [2021-04-05 12:03:30]: |HolyHo| [, Level 28]: HeavyGeneral: yes
 [2021-04-05 12:03:33]: HeavyGeneral [FookinLads, Level 44]: |HolyHo|: i did
 [2021-04-05 12:03:38]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-05 12:03:40]: HeavyGeneral [FookinLads, Level 44]: |HolyHo|: he said he just invited u to server
+[2021-04-05 12:03:40]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
