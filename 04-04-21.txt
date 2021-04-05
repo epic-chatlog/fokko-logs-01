@@ -14261,3 +14261,4 @@
 [logs/04-04-21.txt, 2021-04-04 18:11:16]: x7|KshKsh99 [xSD7, Level 37]: use portal on them
 [logs/04-04-21.txt, 2021-04-04 18:11:30]: x7|KshKsh99 [xSD7, Level 37]: Swarfey: is coming
 [logs/04-04-21.txt, 2021-04-04 18:11:35]: Nudelsaft c: [FookinLads, Level 37]: oh yes papa is coming
+[logs/04-04-21.txt, 2021-04-04 18:11:38]: x7|FayZoR [xSD7, Level 42]: (1)Mr.KshKsh99: XD he want revenge
