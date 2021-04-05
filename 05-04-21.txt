@@ -7614,3 +7614,7 @@
 [2021-04-05 08:36:01]: ChillerDragon.* [Chilli.*, Level 41]: brother bob back?
 [2021-04-05 08:36:02]: x7|FayZoR [xSD7, Level 42]: kais: donc ta fait un truc qui se fait pas
 [2021-04-05 08:36:02]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-05 08:36:21]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-05 08:36:24]: Falco641 [, Level 18]: xd
+[2021-04-05 08:36:24]: kais [, Level 65]: x7|FayZoR: si tu veux, mais toi tu l'as fais plein de fois, donc t'es pire, c'est ça compte pas :D
+[2021-04-05 08:36:29]: ERROR. [404, Level 74]: ChillerDragon:  server is so laggy
