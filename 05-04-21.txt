@@ -4341,3 +4341,5 @@
 [logs/05-04-21.txt, 2021-04-05 04:46:32]: Nudelsaft c: [popo, Level 37]: not smooth?
 [logs/05-04-21.txt, 2021-04-05 04:46:35]: ***  [, Level 0]: 'power' has left the game
 [logs/05-04-21.txt, 2021-04-05 04:46:36]: Nudelsaft c: [popo, Level 37]: ok
+[logs/05-04-21.txt, 2021-04-05 04:46:55]:   [, Level 0]: mami: help me
+[logs/05-04-21.txt, 2021-04-05 04:47:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
