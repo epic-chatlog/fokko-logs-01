@@ -5015,3 +5015,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:53:11]: mami [, Level 0]: wtf
 [logs/05-04-21.txt, 2021-04-05 05:53:14]: ***  [, Level 0]: 'power2' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:53:14]: ***  [, Level 0]: 'power2' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:53:21]: ***  [, Level 0]: 'power2' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:53:26]:   [, Level 0]: (1)Swarfey: Swarfey:test
