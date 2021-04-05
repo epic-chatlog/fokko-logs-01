@@ -835,3 +835,7 @@
 [logs/05-04-21.txt, 2021-04-05 00:59:29]: x7|FayZoR [xSD7, Level 42]: Kirito: come
 [logs/05-04-21.txt, 2021-04-05 00:59:35]: Boti. [.bad, Level 27]: XDD
 [logs/05-04-21.txt, 2021-04-05 00:59:39]: MieSlime [FookinLads, Level 43]: SAUD:  ye war4life
+[logs/05-04-21.txt, 2021-04-05 00:59:50]: Kirito [♥, Level 34]: SAUD: wtf? war4life
+[logs/05-04-21.txt, 2021-04-05 00:59:55]: SAUD [, Level 0]: MieSlime:  yeah u tried to kill me
+[logs/05-04-21.txt, 2021-04-05 00:59:58]: SAUD [, Level 0]: Kirito:  ???
+[logs/05-04-21.txt, 2021-04-05 00:59:59]: kais [, Level 65]: BulgarianTee: ok
