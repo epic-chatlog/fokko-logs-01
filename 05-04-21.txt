@@ -3066,3 +3066,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:30:39]: ***  [, Level 0]: 'RoberGN' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:30:40]: Shiro. [Whɪтє, Level 0]: logout
 [logs/05-04-21.txt, 2021-04-05 03:30:48]: (1)SAUD [, Level 0]: BC|Tixnix: u cant win without helpers
+[logs/05-04-21.txt, 2021-04-05 03:31:03]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:31:03]: BulgarianTee [CleanUpCrew, Level 38]: x7|zemer: this fucking taser should be removed
