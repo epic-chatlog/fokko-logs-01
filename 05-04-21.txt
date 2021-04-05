@@ -2331,3 +2331,7 @@
 [logs/05-04-21.txt, 2021-04-05 02:25:07]: BulgarianTee [CleanUpCrew, Level 38]: SHOTGUN GAEE
 [logs/05-04-21.txt, 2021-04-05 02:25:09]: Kirito [Chilli.*, Level 34]: x7|FayZoR: <<<
 [logs/05-04-21.txt, 2021-04-05 02:25:09]: [D] ✯ |toxicd [|Supressed, Level 0]: x7|FayZoR: help
+[logs/05-04-21.txt, 2021-04-05 02:25:13]: [D] ✯ |toxicd [|Supressed, Level 0]: BulgarianTee: help
+[logs/05-04-21.txt, 2021-04-05 02:25:17]: BulgarianTee [CleanUpCrew, Level 38]: THAT WAS SO LUCKY XDDDDDDDDDD
+[logs/05-04-21.txt, 2021-04-05 02:25:18]: Kirito [Chilli.*, Level 34]: x7|FayZoR: please
+[logs/05-04-21.txt, 2021-04-05 02:25:20]: Sutzer [Guard, Level 0]: yeee noname xD
