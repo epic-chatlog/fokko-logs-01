@@ -11986,3 +11986,5 @@
 [2021-04-05 12:30:18]: ***  [, Level 0]: 'ByRushYT' entered and joined the game
 [2021-04-05 12:30:39]: ***  [, Level 0]: 'teee' has left the game
 [2021-04-05 12:30:39]: (1)|HolyHo|° [, Level 6]: HeavyGeneral: u play wifi?
+[2021-04-05 12:30:47]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-05 12:30:50]: ***  [, Level 0]: 'Shiro.' has left the game
