@@ -2592,3 +2592,8 @@
 [logs/05-04-21.txt, 2021-04-05 02:46:07]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:46:09]: BulgarianTee [CleanUpCrew, Level 38]: Idk: ->
 [logs/05-04-21.txt, 2021-04-05 02:46:17]: ***  [, Level 0]: '(1)oyun krallı' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:46:22]: BulgarianTee [CleanUpCrew, Level 38]: Fearless: ->
+[logs/05-04-21.txt, 2021-04-05 02:46:28]: BulgarianTee [CleanUpCrew, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 02:46:31]: x7|FayZoR [xSD7, Level 42]: can play without 330000000 MS omg
+[logs/05-04-21.txt, 2021-04-05 02:46:32]: ***  [, Level 0]: 'power' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:46:32]: ***  [, Level 0]: 'power2' has left the game
