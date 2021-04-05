@@ -2937,3 +2937,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:22:35]: BulgarianTee [CleanUpCrew, Level 38]: x7|zemer: go place portal inside police
 [logs/05-04-21.txt, 2021-04-05 03:22:35]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:22:39]: BulgarianTee [CleanUpCrew, Level 38]: x7|zemer: they got nobody protectin
+[logs/05-04-21.txt, 2021-04-05 03:22:54]: ***  [, Level 0]: 'Idk' has left the game
