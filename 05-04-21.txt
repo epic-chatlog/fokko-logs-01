@@ -3263,3 +3263,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:44:43]: BulgarianTee [CleanUpCrew, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 03:44:48]: (2)Kirito [♥, Level 36]: Pigie♥ farmin
 [logs/05-04-21.txt, 2021-04-05 03:44:54]: ***  [, Level 0]: LareneGyvaeh is on a killing spree with 5 blocks
+[logs/05-04-21.txt, 2021-04-05 03:45:01]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:45:04]:   [, Level 0]: Pigie♥: (1)Kirito: can u logout?
+[logs/05-04-21.txt, 2021-04-05 03:45:06]: ***  [, Level 0]: '(2)1' entered and joined the game
