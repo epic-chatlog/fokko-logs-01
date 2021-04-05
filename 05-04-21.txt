@@ -216,3 +216,7 @@
 [logs/05-04-21.txt, 2021-04-05 00:18:46]: BulgarianTee [xSD7, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 00:18:50]: BulgarianTee [xSD7, Level 38]: weqe:
 [logs/05-04-21.txt, 2021-04-05 00:18:56]: oyun krallı [, Level 11]: weqe:  help
+[logs/05-04-21.txt, 2021-04-05 00:18:58]: Vodo4ka [JB.st, Level 41]: E
+[logs/05-04-21.txt, 2021-04-05 00:18:59]: BulgarianTee [xSD7, Level 38]: weqe: HES A GAY
+[logs/05-04-21.txt, 2021-04-05 00:19:01]: Ƭevan [TrRShClNrRs, Level 48]: Вовааа
+[logs/05-04-21.txt, 2021-04-05 00:19:06]: weqe [MNKY, Level 11]: Vodo4ka: u sure
