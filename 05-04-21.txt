@@ -2726,3 +2726,4 @@
 [logs/05-04-21.txt, 2021-04-05 02:58:48]: ***  [, Level 0]: '(1)RoberGN' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:58:54]: BulgarianTee [CleanUpCrew, Level 38]: Ƭevan: dont
 [logs/05-04-21.txt, 2021-04-05 02:59:14]: BulgarianTee [CleanUpCrew, Level 38]: HeavyGeneral: i dont wanna kill you all :/
+[logs/05-04-21.txt, 2021-04-05 02:59:26]: BulgarianTee [CleanUpCrew, Level 38]: E
