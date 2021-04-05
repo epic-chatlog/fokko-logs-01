@@ -14480,3 +14480,4 @@
 [logs/04-04-21.txt, 2021-04-04 20:20:22]: Larifari [Tee Wars, Level 0]: beeing afk?
 [logs/04-04-21.txt, 2021-04-04 20:20:26]: Larifari [Tee Wars, Level 0]: yeah
 [logs/04-04-21.txt, 2021-04-04 20:20:28]: teee [, Level 0]: ez
+[logs/04-04-21.txt, 2021-04-04 20:20:40]: Larifari [Tee Wars, Level 0]: beeing afk is ez, true
