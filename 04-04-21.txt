@@ -15420,3 +15420,4 @@
 [logs/04-04-21.txt, 2021-04-04 23:42:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [logs/04-04-21.txt, 2021-04-04 23:42:11]: GODLIKe [hax, Level 44]: boring
 [logs/04-04-21.txt, 2021-04-04 23:42:12]: BulgarianTee [xSD7, Level 38]: can i go afk now?
+[logs/04-04-21.txt, 2021-04-04 23:42:21]: BulgarianTee [xSD7, Level 38]: thx
