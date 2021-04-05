@@ -14964,3 +14964,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:49:06]: PoliceTee [xSD7, Level 0]: E
 [logs/04-04-21.txt, 2021-04-04 22:49:29]: PoliceTee [xSD7, Level 0]: kais speedrun any%
 [logs/04-04-21.txt, 2021-04-04 22:49:49]: PoliceTee [xSD7, Level 0]: FUCK THIS GAME
+[logs/04-04-21.txt, 2021-04-04 22:50:18]: PoliceTee [xSD7, Level 0]: ezpz
