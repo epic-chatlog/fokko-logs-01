@@ -14136,3 +14136,6 @@
 [logs/04-04-21.txt, 2021-04-04 17:44:58]: Who B) [no u, Level 0]: i cant register :c
 [logs/04-04-21.txt, 2021-04-04 17:45:18]: x7|KshKsh99 [xSD7, Level 0]: let me do the honor
 [logs/04-04-21.txt, 2021-04-04 17:45:20]: Nudelsaft c: [FookinLads, Level 37]: ah, thanks for pinging me x7|FayZoR i will enable anti farm real quick
+[logs/04-04-21.txt, 2021-04-04 17:45:28]: ***  [, Level 0]: 'σмєтнιηg' has left the game (Timeout)
+[logs/04-04-21.txt, 2021-04-04 17:45:28]: ***  [, Level 0]: 'S Y T H N' has left the game (Timeout)
+[logs/04-04-21.txt, 2021-04-04 17:45:29]: x7|KshKsh99 [xSD7, Level 0]: XD
