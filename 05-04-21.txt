@@ -3461,3 +3461,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:01:02]:   [, Level 0]: weqe: wtf what was that money from
 [logs/05-04-21.txt, 2021-04-05 04:01:13]:   [, Level 0]: Foxie♥: Kirito: wait
 [logs/05-04-21.txt, 2021-04-05 04:01:16]:   [, Level 0]: cookie: llol
+[logs/05-04-21.txt, 2021-04-05 04:01:22]: Kirito [♥, Level 35]: Foxie♥: help Cylox.♥  :D
+[logs/05-04-21.txt, 2021-04-05 04:01:23]: ***  [, Level 0]: '♫Amirian♬' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:01:23]:   [, Level 0]: Foxie♥: Kirito: get him
