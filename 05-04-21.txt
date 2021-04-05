@@ -11718,3 +11718,11 @@
 [2021-04-05 12:02:54]:   [, Level 0]: HeavyGeneral: HI
 [2021-04-05 12:02:54]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-05 12:02:55]: ***  [, Level 0]: ### 'HeavyGeneral' REEEEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-05 12:03:14]: Andromeda [, Level 0]: (2)sL|cunt: INF JUMP
+[2021-04-05 12:03:15]: ***  [, Level 0]: 'Andromeda' has left the game
+[2021-04-05 12:03:17]: ***  [, Level 0]: 's6_sven' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-05 12:03:17]: ***  [, Level 0]: 's7_sven' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-05 12:03:17]: ***  [, Level 0]: '|Smily' entered and joined the game
+[2021-04-05 12:03:19]: |HolyHo| [, Level 28]: HeavyGeneral: but u spoke to nudel
+[2021-04-05 12:03:21]: mamikral011 [, Level 0]: :D
+[2021-04-05 12:03:21]: ***  [, Level 0]: '|Smily' has left the game
