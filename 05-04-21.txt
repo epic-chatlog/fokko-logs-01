@@ -13954,3 +13954,7 @@
 [2021-04-05 15:34:41]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
 [2021-04-05 15:34:41]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
 [2021-04-05 15:34:44]: x7|FayZoR [xSD7, Level 42]: hmmmmmm: fail ? xD
+[2021-04-05 15:34:45]: hmmmmmm [, Level 8]: je suis dead x7|FayZoR
+[2021-04-05 15:34:51]: x7|FayZoR [xSD7, Level 42]: hmmmmmm: j'arrive
+[2021-04-05 15:34:51]: hmmmmmm [, Level 8]: reset stp
+[2021-04-05 15:34:58]: hmmmmmm [, Level 8]: dsl x7|FayZoR
