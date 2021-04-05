@@ -6458,3 +6458,6 @@
 [2021-04-05 07:22:43]: Koishi [, Level 0]: uts/sukuna.: does that mean anything?
 [2021-04-05 07:22:47]: ERROR. [404, Level 74]: zrmHh
 [2021-04-05 07:22:58]: uts/sukuna. [jujutsu, Level 0]: Koishi: from the anime jujutsu kaisen
+[2021-04-05 07:23:07]: ***  [, Level 0]: 'Foxie♥' entered and joined the game
+[2021-04-05 07:23:11]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
+[2021-04-05 07:23:11]: (1)Kirito [♥, Level 35]: "a
