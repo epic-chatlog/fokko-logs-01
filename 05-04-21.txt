@@ -6267,3 +6267,6 @@
 [2021-04-05 07:06:30]:   [, Level 0]: Falco641: arrest
 [2021-04-05 07:06:31]:   [, Level 0]: Falco641: lmao
 [2021-04-05 07:06:36]: ZEWO [, Level 0]: ChillerDragon: what talk
+[2021-04-05 07:06:49]: ***  [, Level 0]: 'White Wolf' entered and joined the game
+[2021-04-05 07:06:52]:   [, Level 0]: ZEWO: ChillerDragon: what talk
+[2021-04-05 07:06:53]: (1)Kirito [♥, Level 35]: ChillerDragon:
