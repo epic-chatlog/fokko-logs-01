@@ -2250,3 +2250,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:17:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [logs/05-04-21.txt, 2021-04-05 02:17:12]: Ƭevan [TrRShClNrRs, Level 48]: I didnt se nudelscraft there
 [logs/05-04-21.txt, 2021-04-05 02:17:13]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: can you stack again? i can show you a better way to stack
+[logs/05-04-21.txt, 2021-04-05 02:17:18]: BulgarianTee [CleanUpCrew, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 02:17:20]: BulgarianTee [CleanUpCrew, Level 38]: SHOTGUN GAE
+[logs/05-04-21.txt, 2021-04-05 02:17:30]: weqe [MNKY, Level 11]: x7|FayZoR: i think he is s y t h n
