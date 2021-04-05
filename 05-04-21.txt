@@ -3159,3 +3159,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:35:41]: PoliceTee [xSD7, Level 25]: x7|zemer: kk
 [logs/05-04-21.txt, 2021-04-05 03:35:44]: (2)Kirito [♥, Level 36]: x7|zemer: sry
 [logs/05-04-21.txt, 2021-04-05 03:35:44]: »Amirian YA« [YAMIRIANA�, Level 29]: GOLD: im helped you
+[logs/05-04-21.txt, 2021-04-05 03:35:52]: ***  [, Level 0]: 'ist ein Noob' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:35:53]: x7|zemer [xSD7, Level 37]: (2)Kirito: Its ok
+[logs/05-04-21.txt, 2021-04-05 03:35:56]: ***  [, Level 0]: 'ist ein Noob' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:36:01]: »Amirian YA« [YAMIRIANA�, Level 29]: GOLD: im helped you
