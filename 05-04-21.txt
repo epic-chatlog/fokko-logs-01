@@ -1887,3 +1887,4 @@
 [logs/05-04-21.txt, 2021-04-05 01:54:01]: BulgarianTee [xSD7, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 01:54:03]: BulgarianTee [xSD7, Level 38]: Cylox: round head
 [logs/05-04-21.txt, 2021-04-05 01:54:12]: (1)kais [, Level 58]: x7|FayZoR: non, ça me prouve juste que t'es pas sympa, m'en fou que tu le spike, mais ça se fait pas
+[logs/05-04-21.txt, 2021-04-05 01:54:34]: Hady [new bot, Level 33]: Royal:
