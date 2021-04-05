@@ -5134,3 +5134,4 @@
 [logs/05-04-21.txt, 2021-04-05 05:59:37]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:59:37]: ***  [, Level 0]: 'Swarfey' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:59:38]: KriegInCome [, Level 0]: (1)Cosmo:  what is here?
+[logs/05-04-21.txt, 2021-04-05 05:59:57]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
