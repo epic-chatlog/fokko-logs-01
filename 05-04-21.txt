@@ -2244,3 +2244,7 @@
 [logs/05-04-21.txt, 2021-04-05 02:16:41]: ***  [, Level 0]: 'nameless tee' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:16:42]: BulgarianTee [CleanUpCrew, Level 38]: Ƭevan: Nudelsaft c:
 [logs/05-04-21.txt, 2021-04-05 02:16:47]: Ƭevan [TrRShClNrRs, Level 48]: Is he there?
+[logs/05-04-21.txt, 2021-04-05 02:16:54]: ***  [, Level 0]: 'Haoden' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:16:55]: BulgarianTee [CleanUpCrew, Level 38]: Ƭevan: he is ERROR's friend
+[logs/05-04-21.txt, 2021-04-05 02:16:58]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: i know his name exacly xD
+[logs/05-04-21.txt, 2021-04-05 02:17:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
