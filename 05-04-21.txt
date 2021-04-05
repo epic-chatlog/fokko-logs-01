@@ -6466,3 +6466,6 @@
 [2021-04-05 07:23:24]: ZEWO [, Level 0]: (1)ChillerDragon: what talk?
 [2021-04-05 07:23:35]: ERROR. [404, Level 74]: ABpAE
 [2021-04-05 07:23:39]: ERROR. [404, Level 74]: 0ABpAE
+[2021-04-05 07:23:45]: ***  [, Level 0]: 'iMxtteo' has left the game
+[2021-04-05 07:23:45]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-05 07:23:50]: ERROR [404, Level 56]: ABpAE
