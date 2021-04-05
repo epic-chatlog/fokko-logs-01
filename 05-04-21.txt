@@ -4741,3 +4741,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:30:35]: [D] ✯ |toxicd [|Supressed, Level 0]: koro:  dumb
 [logs/05-04-21.txt, 2021-04-05 05:30:37]: Vodo4ka [JB.st, Level 41]: ChillerDragon: breh
 [logs/05-04-21.txt, 2021-04-05 05:30:37]: ChillerDragon [|*KoG*|, Level 44]: Vodo4ka: I am currently afk.
+[logs/05-04-21.txt, 2021-04-05 05:30:50]: [D] ✯ |toxicd [|Supressed, Level 0]: Kezo: i helped to kill monkey
+[logs/05-04-21.txt, 2021-04-05 05:31:00]: Kezo [FookinLads, Level 41]: [D] ✯ |toxicd: ask korod
