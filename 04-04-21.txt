@@ -14574,3 +14574,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:00:49]: PoliceTee [xSD7, Level 0]: E
 [logs/04-04-21.txt, 2021-04-04 22:01:20]: PoliceTee [xSD7, Level 0]: XDDDD
 [logs/04-04-21.txt, 2021-04-04 22:01:33]: PoliceTee [xSD7, Level 0]: XDDDDDDDDDDDDD
+[logs/04-04-21.txt, 2021-04-04 22:01:38]: weqe [MNKY, Level 11]: do him
+[logs/04-04-21.txt, 2021-04-04 22:01:39]: weqe [MNKY, Level 11]: i cant
+[logs/04-04-21.txt, 2021-04-04 22:01:41]: weqe [MNKY, Level 11]: so hard
