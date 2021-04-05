@@ -15038,3 +15038,4 @@
 [logs/04-04-21.txt, 2021-04-04 23:02:54]: (3)SAUD [, Level 8]: nice
 [logs/04-04-21.txt, 2021-04-04 23:02:54]: BulgarianTee [xSD7, Level 38]: SO CLOSE TO SUB 15
 [logs/04-04-21.txt, 2021-04-04 23:02:55]: BulgarianTee [xSD7, Level 38]: FUCKKK
+[logs/04-04-21.txt, 2021-04-04 23:03:11]: BulgarianTee [xSD7, Level 38]: the fastest time is 6 seconds but thats done with portal
