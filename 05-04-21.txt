@@ -2868,3 +2868,8 @@
 [logs/05-04-21.txt, 2021-04-05 03:16:43]: BulgarianTee [CleanUpCrew, Level 38]: pussy says a guy with portal and taserspam?
 [logs/05-04-21.txt, 2021-04-05 03:16:44]: BulgarianTee [CleanUpCrew, Level 38]: nice
 [logs/05-04-21.txt, 2021-04-05 03:16:47]: Fearless [, Level 40]: YelloWorlD:  + double portal
+[logs/05-04-21.txt, 2021-04-05 03:16:50]: ***  [, Level 0]: 'cup of tee' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:16:52]: ***  [, Level 0]: 'Marcisten' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:16:52]: SAUD [, Level 22]: K҉E҉N҉O҉: >>
+[logs/05-04-21.txt, 2021-04-05 03:16:56]: K҉E҉N҉O҉ [ZzzZzz, Level 3]: SAUD: ?
+[logs/05-04-21.txt, 2021-04-05 03:17:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
