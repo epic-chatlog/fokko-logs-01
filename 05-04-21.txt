@@ -4200,3 +4200,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:40:04]: ***  [, Level 0]: 'BC|serwan' finished the special race!
 [logs/05-04-21.txt, 2021-04-05 04:40:04]: ***  [, Level 0]: BC|serwan finished in: 30 minute(s) 26.38 second(s)
 [logs/05-04-21.txt, 2021-04-05 04:40:05]: Ðream [TrRShClNrRs, Level 46]: its game is hard politic
+[logs/05-04-21.txt, 2021-04-05 04:40:13]:   [, Level 0]: Vodo4ka: Ðream: darova
+[logs/05-04-21.txt, 2021-04-05 04:40:15]: ***  [, Level 0]: 'bredn' changed name to 'Nudelsaft c:'
+[logs/05-04-21.txt, 2021-04-05 04:40:15]: ***  [, Level 0]: 'nderp' changed name to 'Swarfey'
+[logs/05-04-21.txt, 2021-04-05 04:40:23]:   [, Level 0]: Vodo4ka: Ðream: Я погулял уже 1.5 часа
