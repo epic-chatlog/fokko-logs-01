@@ -1788,3 +1788,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:47:31]: BulgarianTee [xSD7, Level 38]: Hady: i dont?
 [logs/05-04-21.txt, 2021-04-05 01:47:33]: BulgarianTee [xSD7, Level 38]: Cylox.:
 [logs/05-04-21.txt, 2021-04-05 01:47:35]: Hady [new bot, Level 0]: no you do
+[logs/05-04-21.txt, 2021-04-05 01:47:44]: Kirito [Chilli.*, Level 34]: Leblebi: pls come on
+[logs/05-04-21.txt, 2021-04-05 01:47:46]: [D] Leblebi [, Level 18]: u block me
+[logs/05-04-21.txt, 2021-04-05 01:47:48]: Kirito [Chilli.*, Level 34]: Leblebi: war end if u help
