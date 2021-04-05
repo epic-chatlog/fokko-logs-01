@@ -2922,3 +2922,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:20:51]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 03:20:53]: Isegrin [, Level 54]: da
 [logs/05-04-21.txt, 2021-04-05 03:20:54]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:20:56]: ***  [, Level 0]: '(1)SAUD' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:21:03]: ***  [, Level 0]: 'Treebeard' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:21:08]: Isegrin [, Level 54]: hui
