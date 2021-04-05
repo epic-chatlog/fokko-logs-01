@@ -14846,3 +14846,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:33:41]: PoliceTee [xSD7, Level 24]: 230k
 [logs/04-04-21.txt, 2021-04-04 22:33:43]: PoliceTee [xSD7, Level 24]: WTFFFFFF
 [logs/04-04-21.txt, 2021-04-04 22:33:43]: (3)SAUD [, Level 8]: ill afk till sone dogs come and kill me
+[logs/04-04-21.txt, 2021-04-04 22:33:46]: (3)SAUD [, Level 8]: m
+[logs/04-04-21.txt, 2021-04-04 22:33:47]: PoliceTee [xSD7, Level 24]: WHY TF IS FARMHEAD SO FUCKIN RICH
+[logs/04-04-21.txt, 2021-04-04 22:33:57]: Boti. [.bad, Level 27]: XD
