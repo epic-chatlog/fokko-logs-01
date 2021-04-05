@@ -4518,3 +4518,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:00:12]: ***  [, Level 0]: 'MaşƘƔ' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:00:17]: ***  [, Level 0]: 'HeavyGeneral' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:00:25]: ♫Amirian♬ [, Level 29]: yes
+[logs/05-04-21.txt, 2021-04-05 05:00:31]: Nudelsaft c: [PoopinLads, Level 37]: hahahahhahahah
+[logs/05-04-21.txt, 2021-04-05 05:00:39]: Rock [, Level 18]: ♕░░░░░░░░Я ПЕРСОН ░V░I░P░ ТЫ ПАЦАН ВЛИП░░░░░░░░░♕
