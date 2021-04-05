@@ -6542,3 +6542,5 @@
 [2021-04-05 07:29:00]:   [, Level 0]: White Wolf: (1)kais: stp help
 [2021-04-05 07:29:02]: ***  [, Level 0]: '☭' has left the game
 [2021-04-05 07:29:02]: ***  [, Level 0]: 'ManniK' has left the game
+[2021-04-05 07:29:08]:   [, Level 0]: uts/sukuna.: uts/Koishi: do you like the clantag
+[2021-04-05 07:29:15]:   [, Level 0]: uts/sukuna.: uts/Koishi: or do you have any better ideas
