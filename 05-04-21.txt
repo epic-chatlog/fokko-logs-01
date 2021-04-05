@@ -13511,3 +13511,4 @@
 [2021-04-05 14:58:17]: ***  [, Level 0]: 'ist ein Noob' entered and joined the game
 [2021-04-05 14:58:22]: ***  [, Level 0]: 'Isegrin' has left the game
 [2021-04-05 14:58:44]: ***  [, Level 0]: 'sL|KeBu280' entered and joined the game
+[2021-04-05 14:58:59]: ***  [, Level 0]: 'ist ein Noob' changed name to 'Shiro,'
