@@ -3109,3 +3109,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:32:58]: YelloWorlD [404, Level 37]: koro: cpas ton clan legacy ?
 [logs/05-04-21.txt, 2021-04-05 03:33:07]: BC|Tixnix [BC, Level 34]: YelloWorlD:
 [logs/05-04-21.txt, 2021-04-05 03:33:10]:   [, Level 0]: delta: I am moneyglitching
+[logs/05-04-21.txt, 2021-04-05 03:33:16]: ***  [, Level 0]: '0nodeBuff' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:33:17]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:33:24]: (1)SAUD [, Level 0]: BulgarianTee:  UR FRIEND IS helping ur enemy xD
+[logs/05-04-21.txt, 2021-04-05 03:33:26]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
