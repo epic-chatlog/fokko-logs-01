@@ -3396,3 +3396,8 @@
 [logs/05-04-21.txt, 2021-04-05 03:57:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [logs/05-04-21.txt, 2021-04-05 03:57:10]: x7|zemer [xSD7, Level 37]: BulgarianTee: Ok:D
 [logs/05-04-21.txt, 2021-04-05 03:57:21]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: x7|zemer: gg i gtg have lunch, then i will see whats going on and then i gtg XD
+[logs/05-04-21.txt, 2021-04-05 03:57:29]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: x7|zemer: cy@
+[logs/05-04-21.txt, 2021-04-05 03:57:31]: ***  [, Level 0]: '(1)R2D2' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:57:31]: ***  [, Level 0]: '(1)Wheels.' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:57:33]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: what ? xD
+[logs/05-04-21.txt, 2021-04-05 03:57:34]: x7|zemer [xSD7, Level 37]: BulgarianTee: Byeee
