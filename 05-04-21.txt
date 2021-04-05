@@ -14681,3 +14681,4 @@
 [2021-04-05 16:56:29]: S Y T H N [iPro, Level 37]: UselessTee: why the serverr gott not banned?
 [2021-04-05 16:56:33]: UselessTee [, Level 0]: I like turtles.
 [2021-04-05 16:56:39]: UselessTee [, Level 0]: it's just a chill server
+[2021-04-05 16:56:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
