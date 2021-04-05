@@ -4816,3 +4816,8 @@
 [logs/05-04-21.txt, 2021-04-05 05:36:33]: wαrнαммer [, Level 26]: S Y T H N: XD
 [logs/05-04-21.txt, 2021-04-05 05:36:43]: ***  [, Level 0]: '(1)1' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 05:36:47]: YelloWorlD [404, Level 37]: ERROR: mom money xD
+[logs/05-04-21.txt, 2021-04-05 05:36:50]: ERROR [404, Level 56]: xD
+[logs/05-04-21.txt, 2021-04-05 05:36:59]: YelloWorlD [404, Level 37]: ERROR: fake
+[logs/05-04-21.txt, 2021-04-05 05:37:00]: (2)1 [, Level 11]: MAMİ HELP ÜSTEYİM
+[logs/05-04-21.txt, 2021-04-05 05:37:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[logs/05-04-21.txt, 2021-04-05 05:37:01]: (2)1 [, Level 11]: MAMİ HELP ÜSTEYİM
