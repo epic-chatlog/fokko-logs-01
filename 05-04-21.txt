@@ -961,3 +961,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:04:45]: Vodo4ka [JB.st, Level 0]: bb
 [logs/05-04-21.txt, 2021-04-05 01:04:50]: x7|FayZoR [xSD7, Level 42]: (1)Kirito: wait
 [logs/05-04-21.txt, 2021-04-05 01:04:55]: Vodo4ka [JB.st, Level 0]: bb
+[logs/05-04-21.txt, 2021-04-05 01:05:03]: KG | Kirito [KaisGay, Level 34]: SAUD: ok fine
+[logs/05-04-21.txt, 2021-04-05 01:05:04]: BulgarianTee [xSD7, Level 38]: KG | Kirito: KG stays for "Kirito Gay" or "kais gay"?
+[logs/05-04-21.txt, 2021-04-05 01:05:05]: x7|FayZoR [xSD7, Level 42]: (1)Kirito: wait BulgarianTee
