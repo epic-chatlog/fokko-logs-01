@@ -2953,3 +2953,9 @@
 [logs/05-04-21.txt, 2021-04-05 03:24:15]: YelloWorlD [404, Level 37]: kais: o
 [logs/05-04-21.txt, 2021-04-05 03:24:21]: (1)Rock [, Level 13]: ManniK: иди направо до конца
 [logs/05-04-21.txt, 2021-04-05 03:24:24]: ChillerDragon.* [|*KoG*|, Level 41]: did u delta ?
+[logs/05-04-21.txt, 2021-04-05 03:24:25]: ChillerDragon.* [|*KoG*|, Level 41]: rly
+[logs/05-04-21.txt, 2021-04-05 03:24:27]: (1)Rock [, Level 13]: ManniK: сколько сможещб
+[logs/05-04-21.txt, 2021-04-05 03:24:27]: ***  [, Level 0]: '(2)oyun krallı' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:24:28]: Fearless [, Level 40]: omg
+[logs/05-04-21.txt, 2021-04-05 03:24:31]:   [, Level 0]: delta: help
+[logs/05-04-21.txt, 2021-04-05 03:24:32]: (1)Rock [, Level 13]: ManniK: и потом дами
