@@ -2728,3 +2728,4 @@
 [logs/05-04-21.txt, 2021-04-05 02:59:14]: BulgarianTee [CleanUpCrew, Level 38]: HeavyGeneral: i dont wanna kill you all :/
 [logs/05-04-21.txt, 2021-04-05 02:59:26]: BulgarianTee [CleanUpCrew, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 02:59:40]: Fearless [FookinLads, Level 40]: BulgarianTee:  i will you dont need
+[logs/05-04-21.txt, 2021-04-05 02:59:53]: x7|FayZoR [xSD7, Level 42]: keø: 100ms stop think u are good
