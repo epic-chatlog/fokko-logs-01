@@ -2781,3 +2781,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:03:48]: HeavyGeneral [FookinLads, Level 44]: i play my normal aggresive style
 [logs/05-04-21.txt, 2021-04-05 03:03:51]: Fearless [FookinLads, Level 40]: x7|FayZoR:  axaxaaaxx cry
 [logs/05-04-21.txt, 2021-04-05 03:03:52]: HeavyGeneral [FookinLads, Level 44]: 10-0 u
+[logs/05-04-21.txt, 2021-04-05 03:04:00]: ***  [, Level 0]: ビール|Zero finished in: 1 minute(s) 40.66 second(s)
+[logs/05-04-21.txt, 2021-04-05 03:04:00]: ***  [, Level 0]: New record: 30.70 second(s) better.
+[logs/05-04-21.txt, 2021-04-05 03:04:01]: Fearless [FookinLads, Level 40]: x7|FayZoR:  i have 70
+[logs/05-04-21.txt, 2021-04-05 03:04:06]: bob [Legacy™, Level 36]: HeavyGeneral: nub
