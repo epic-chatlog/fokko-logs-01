@@ -14456,3 +14456,4 @@
 [logs/04-04-21.txt, 2021-04-04 19:42:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [logs/04-04-21.txt, 2021-04-04 19:46:21]: ***  [, Level 0]: 'Eksao' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 19:46:41]: ***  [, Level 0]: 'Eksao' has left the game
+[logs/04-04-21.txt, 2021-04-04 19:47:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
