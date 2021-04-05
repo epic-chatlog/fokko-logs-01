@@ -6978,3 +6978,8 @@
 [2021-04-05 08:01:20]: ***  [, Level 0]: 'Lokomit' entered and joined the game
 [2021-04-05 08:01:29]: ***  [, Level 0]: '(1)cookie' has left the game (Timeout)
 [2021-04-05 08:01:40]: soleri1 [, Level 0]: Zʷʰʸˀ:
+[2021-04-05 08:01:56]:   [, Level 0]: [D] mamikral011: ♥JustRace♥:
+[2021-04-05 08:01:58]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-05 08:02:00]: ♥JustRace♥ [no-clan, Level 36]: [D] mamikral011:  yes?
+[2021-04-05 08:02:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-05 08:02:02]:   [, Level 0]: [D] mamikral011: ♥JustRace♥: help
