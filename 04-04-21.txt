@@ -15457,3 +15457,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:47:21]: PoliceTee [xSD7, Level 25]: i did nothing
 [logs/04-04-21.txt, 2021-04-04 23:47:39]: PoliceTee [xSD7, Level 25]: madlike rage kill
 [logs/04-04-21.txt, 2021-04-04 23:48:55]: Vodo4ka [JB.st, Level 41]: xdd
+[logs/04-04-21.txt, 2021-04-04 23:49:18]: ***  [, Level 0]: 'wαrнαммer' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 23:49:21]: Vodo4ka [JB.st, Level 41]: GODLIKe: war
