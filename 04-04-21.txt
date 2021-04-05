@@ -13895,3 +13895,13 @@
 [logs/04-04-21.txt, 2021-04-04 17:02:22]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
 [logs/04-04-21.txt, 2021-04-04 17:02:22]: ***  [, Level 0]: Successfully logged in
 [logs/04-04-21.txt, 2021-04-04 17:02:28]: x7|FayZoR [xSD7, Level 42]: x7|Supers: ur not me lead, stfu too
+[logs/04-04-21.txt, 2021-04-04 17:02:45]: ***  [, Level 0]: '(1)chillerdagorn' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:02:45]: ***  [, Level 0]: '(1)chillerdagorn' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:02:45]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
+[logs/04-04-21.txt, 2021-04-04 17:02:45]: ***  [, Level 0]: '(1)ai9u7wgreauiw' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:02:45]: ***  [, Level 0]: '(1)ai9u7wgreauiw' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:02:45]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
+[logs/04-04-21.txt, 2021-04-04 17:02:46]: ***  [, Level 0]: Successfully logged in
+[logs/04-04-21.txt, 2021-04-04 17:02:46]: ***  [, Level 0]: [WARNING] You did not set security pin yet. Check '/pin' for more information.
+[logs/04-04-21.txt, 2021-04-04 17:02:49]: Swarfey [FookinLads, Level 0]: a
+[logs/04-04-21.txt, 2021-04-04 17:02:49]: Swarfey [FookinLads, Level 0]: a
