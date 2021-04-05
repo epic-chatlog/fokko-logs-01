@@ -1920,3 +1920,9 @@
 [logs/05-04-21.txt, 2021-04-05 01:56:22]: ***  [, Level 0]: 'Souly' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:56:25]: BulgarianTee [xSD7, Level 38]: Souly: EWWWWWWWW
 [logs/05-04-21.txt, 2021-04-05 01:56:25]: ✯ |toxicdaddy [|Supressed, Level 24]: weqe: flag
+[logs/05-04-21.txt, 2021-04-05 01:56:27]: Souly [acqwerty, Level 60]: BulgarianTee: imagine being gay
+[logs/05-04-21.txt, 2021-04-05 01:56:27]: BulgarianTee [xSD7, Level 38]: Souly: BIG CRINGe
+[logs/05-04-21.txt, 2021-04-05 01:56:29]: Hady [new bot, Level 33]: Souly:  hello
+[logs/05-04-21.txt, 2021-04-05 01:56:29]: Souly [acqwerty, Level 60]: Hady: no u
+[logs/05-04-21.txt, 2021-04-05 01:56:34]: Hady [new bot, Level 33]: ?
+[logs/05-04-21.txt, 2021-04-05 01:56:37]: ***  [, Level 0]: 'Lucas' entered and joined the game
