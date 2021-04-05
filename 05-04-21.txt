@@ -6423,3 +6423,6 @@
 [2021-04-05 07:20:23]: ***  [, Level 0]: 'Rock' has left the game
 [2021-04-05 07:20:23]: ***  [, Level 0]: 'ビール|Zero' has left the game
 [2021-04-05 07:20:23]: ZEWO [, Level 0]: ChillerDragon: what talk
+[2021-04-05 07:20:26]: ***  [, Level 0]: '(1)Rock' has left the game
+[2021-04-05 07:20:26]: ***  [, Level 0]: '(1)ビール|Zero' has left the game
+[2021-04-05 07:20:33]: ZEWO [, Level 0]: ChillerDragon: what talk?
