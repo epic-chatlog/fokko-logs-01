@@ -3053,3 +3053,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:29:42]: ***  [, Level 0]: 'STULEJA 3000' joined the game
 [logs/05-04-21.txt, 2021-04-05 03:29:52]: (1)SAUD [, Level 0]: BulgarianTee:  u shouldve  let him fckin die
 [logs/05-04-21.txt, 2021-04-05 03:29:58]: (1)SAUD [, Level 0]: he is trash
+[logs/05-04-21.txt, 2021-04-05 03:30:00]: BC|Tixnix [BC, Level 34]: YelloWorlD:
+[logs/05-04-21.txt, 2021-04-05 03:30:01]: BulgarianTee [CleanUpCrew, Level 38]: (1)SAUD: BC|Tixnix is my friend XD
+[logs/05-04-21.txt, 2021-04-05 03:30:05]: x7|zemer [xSD7, Level 37]: BulgarianTee:
