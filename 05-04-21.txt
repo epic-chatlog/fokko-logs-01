@@ -6736,3 +6736,7 @@
 [2021-04-05 07:44:02]: (1)Friendiship  [, Level 0]: ERROR.:
 [2021-04-05 07:44:11]: kais [, Level 65]: x7|FayZoR: tu y crois ?
 [2021-04-05 07:44:13]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-05 07:44:16]: ♥JustRace♥ [xSD7, Level 36]: ERROR:  go :c
+[2021-04-05 07:44:17]: ERROR [404, Level 56]: xD
+[2021-04-05 07:44:20]: ***  [, Level 0]: ### 'ERROR' Woof-Woof
+[2021-04-05 07:44:22]: ♥JustRace♥ [xSD7, Level 36]: ERROR:  I wont be able to laser good
