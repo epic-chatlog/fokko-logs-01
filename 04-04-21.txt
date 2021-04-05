@@ -14632,3 +14632,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:07:48]: Boti. [.bad, Level 0]: why
 [logs/04-04-21.txt, 2021-04-04 22:07:52]: PoliceTee [xSD7, Level 0]: cuz you arent afk
 [logs/04-04-21.txt, 2021-04-04 22:07:57]: PoliceTee [xSD7, Level 0]: if you spec everyone they are all afk
+[logs/04-04-21.txt, 2021-04-04 22:08:03]: PoliceTee [xSD7, Level 0]: but you arent
+[logs/04-04-21.txt, 2021-04-04 22:08:05]: PoliceTee [xSD7, Level 0]: Boti.: big cringe
