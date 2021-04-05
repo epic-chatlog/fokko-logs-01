@@ -15149,3 +15149,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:14:25]: PoliceTee [xSD7, Level 25]: im a programmer i know a lot of maths
 [logs/04-04-21.txt, 2021-04-04 23:14:48]: (1)SAUD [, Level 16]: fuck
 [logs/04-04-21.txt, 2021-04-04 23:14:49]: PoliceTee [xSD7, Level 25]: people call me history professor too a lot, cuz i talk about police's history a lot
+[logs/04-04-21.txt, 2021-04-04 23:14:58]: (1)SAUD [, Level 16]: xD
+[logs/04-04-21.txt, 2021-04-04 23:15:01]: PoliceTee [xSD7, Level 25]: xD
