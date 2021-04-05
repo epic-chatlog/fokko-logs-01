@@ -14018,3 +14018,4 @@
 [logs/04-04-21.txt, 2021-04-04 17:21:10]: Nudelsaft c: [FookinLads, Level 37]: x7|KshKsh99: fayzor tried to raid 30 times and failed everytime before u were there lmao
 [logs/04-04-21.txt, 2021-04-04 17:21:16]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: yepo xD
 [logs/04-04-21.txt, 2021-04-04 17:21:17]: Nudelsaft c: [FookinLads, Level 37]: XD
+[logs/04-04-21.txt, 2021-04-04 17:21:50]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: 150 times*
