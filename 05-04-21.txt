@@ -13056,3 +13056,7 @@
 [2021-04-05 14:00:24]: (1)kais [, Level 58]: real pros use 4g
 [2021-04-05 14:00:30]: mina [, Level 0]: Kirito♥: mensch ey nimm doch nicht alles immer so persönlich
 [2021-04-05 14:00:46]: (2)Kirito♥ [♥, Level 35]: mina: i do because you meant it personally
+[2021-04-05 14:01:03]: ERROR. [404, Level 74]: nono
+[2021-04-05 14:01:05]: mina [, Level 0]: Kirito♥: i didnt mean it personally
+[2021-04-05 14:01:08]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
+[2021-04-05 14:01:09]: (1)kais [, Level 58]: xD
