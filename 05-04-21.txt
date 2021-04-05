@@ -6486,3 +6486,5 @@
 [2021-04-05 07:24:46]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-05 07:24:53]:   [, Level 0]: comic: power: wait keep going i gotta eat my food
 [2021-04-05 07:24:53]: Maatiteusz [TrRShClNrRs, Level 35]: bob: hi
+[2021-04-05 07:25:32]: ***  [, Level 0]: 'batata' entered and joined the game
+[2021-04-05 07:25:33]:   [, Level 0]: bob: HJAHAH
