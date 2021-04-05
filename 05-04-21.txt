@@ -10447,3 +10447,13 @@
 [2021-04-05 10:56:35]: ***  [, Level 0]: 'falkenauge' entered and joined the game
 [2021-04-05 10:56:47]: [D] mamikral011 [, Level 26]: YelloWorlD: ?
 [2021-04-05 10:56:47]: bob [Legacy™, Level 36]: ChillerDragon: mach nochmal einen
+[2021-04-05 10:56:48]: ***  [, Level 0]: 'Maatiteusz' entered and joined the game
+[2021-04-05 10:56:50]: bob [Legacy™, Level 36]: nen schweren ChillerDragon
+[2021-04-05 10:56:53]: GoatLike [, Level 5]: Falco642: lesss go to the farm place
+[2021-04-05 10:56:53]:   [, Level 0]: Falco641: xd
+[2021-04-05 10:56:53]: Milky way [, Level 23]: ChillerDragon: u kil my friend
+[2021-04-05 10:56:57]:   [, Level 0]: Falco641: alright
+[2021-04-05 10:56:57]: ***  [, Level 0]: 'H A P P Y' has left the game
+[2021-04-05 10:57:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-05 10:57:01]: ChillerDragon.* [Chilli.*, Level 41]: who Milky way
+[2021-04-05 10:57:01]:   [, Level 0]: Maatiteusz: who tf is ddosing me again timeout
