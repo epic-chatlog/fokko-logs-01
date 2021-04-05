@@ -14908,3 +14908,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:39:25]: SAUD [, Level 22]: xD
 [logs/04-04-21.txt, 2021-04-04 22:39:39]: (1)oyun krallı [, Level 0]: Boti.:  türk müsün
 [logs/04-04-21.txt, 2021-04-04 22:39:51]: PoliceTee [xSD7, Level 0]: E
+[logs/04-04-21.txt, 2021-04-04 22:40:25]: PoliceTee [xSD7, Level 0]: how tf i sued to listen to adidas hardbass for hours upon hours without my head hurting XDDD
