@@ -1732,3 +1732,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:43:25]: (1)kais [, Level 58]: Leblebi: this button here open it for 20 secs
 [logs/05-04-21.txt, 2021-04-05 01:43:26]: [D] Leblebi [, Level 18]: i not need
 [logs/05-04-21.txt, 2021-04-05 01:43:30]: Hady [new bot, Level 0]: x7|FayZoR:  ok
+[logs/05-04-21.txt, 2021-04-05 01:43:34]: [D] Leblebi [, Level 18]: oh ok
+[logs/05-04-21.txt, 2021-04-05 01:43:37]: ***  [, Level 0]: el champeon is on a killing spree with 20 blocks
+[logs/05-04-21.txt, 2021-04-05 01:43:40]: Hady [new bot, Level 0]: iam not join any clan
