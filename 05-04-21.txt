@@ -408,3 +408,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:34:58]: ***  [, Level 0]: New record: 42.70 second(s) better.
 [logs/05-04-21.txt, 2021-04-05 00:35:04]: ***  [, Level 0]: Boti. finished in: 2 minute(s) 19.22 second(s)
 [logs/05-04-21.txt, 2021-04-05 00:35:04]: ***  [, Level 0]: New record: 20.02 second(s) better.
+[logs/05-04-21.txt, 2021-04-05 00:35:16]: weqe [MNKY, Level 11]: poka !!
+[logs/05-04-21.txt, 2021-04-05 00:35:19]: weqe [MNKY, Level 11]: Vodo4ka: stop being annoying
