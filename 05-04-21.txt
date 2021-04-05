@@ -1830,3 +1830,4 @@
 [logs/05-04-21.txt, 2021-04-05 01:50:16]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: give jetoack
 [logs/05-04-21.txt, 2021-04-05 01:50:22]: ***  [, Level 0]: el champeon's killing spree was ended by [D] BC|Tixnix (9 blocks)
 [logs/05-04-21.txt, 2021-04-05 01:50:28]: Fearless [FookinLads, Level 40]: el champeon:  dog shit
+[logs/05-04-21.txt, 2021-04-05 01:50:38]: Kirito [Chilli.*, Level 34]: el champeon: dog shit
