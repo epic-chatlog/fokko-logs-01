@@ -6931,3 +6931,6 @@
 [2021-04-05 07:57:49]: ***  [, Level 0]: Zʷʰʸˀ's killing spree was ended by Shroom (8 blocks)
 [2021-04-05 07:57:51]: ***  [, Level 0]: 'Rock' entered and joined the game
 [2021-04-05 07:57:57]: ***  [, Level 0]: (1)kais is on a killing spree with 5 blocks
+[2021-04-05 07:58:10]: ***  [, Level 0]: 'soleri1' entered and joined the game
+[2021-04-05 07:58:15]: ***  [, Level 0]: 'Rock' has left the game
+[2021-04-05 07:58:15]: ***  [, Level 0]: 'ビール|Zero' has left the game
