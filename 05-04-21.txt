@@ -2324,3 +2324,4 @@
 [logs/05-04-21.txt, 2021-04-05 02:24:29]: Sutzer [Guard, Level 0]: not fuck for fun
 [logs/05-04-21.txt, 2021-04-05 02:24:32]: Sutzer [Guard, Level 0]: got it from ph
 [logs/05-04-21.txt, 2021-04-05 02:24:43]: Sutzer [Guard, Level 0]: anyway
+[logs/05-04-21.txt, 2021-04-05 02:24:49]: BulgarianTee [CleanUpCrew, Level 38]: Sutzer: if you stayed neutral you could have come police now and we could fun-fight
