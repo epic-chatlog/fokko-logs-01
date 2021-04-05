@@ -11980,3 +11980,6 @@
 [2021-04-05 12:29:53]: ***  [, Level 0]: 'ByRushYT' entered and joined the game
 [2021-04-05 12:29:58]: ***  [, Level 0]: 'ByRushYT' has left the game
 [2021-04-05 12:30:01]: ***  [, Level 0]: 'ByRushYT' entered and joined the game
+[2021-04-05 12:30:06]: ***  [, Level 0]: 'ByRushYT' has left the game
+[2021-04-05 12:30:07]: ***  [, Level 0]: '(2)kais' entered and joined the game
+[2021-04-05 12:30:16]: (1)|HolyHo|° [, Level 6]: HeavyGeneral: instable ping i see
