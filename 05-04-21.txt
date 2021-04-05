@@ -8811,3 +8811,13 @@
 [2021-04-05 09:35:00]: Koishi [A, Level 0]: OOP!
 [2021-04-05 09:35:02]: ♥TAKO♥ [, Level 25]: Cosmo:  wait
 [2021-04-05 09:35:02]: (1)Cosmo [, Level 0]: [D] ♥TAKO♥: HELP
+[2021-04-05 09:35:03]: ***  [, Level 0]: 'ist ein Noob' entered and joined the game
+[2021-04-05 09:35:04]: cunt [, Level 0]: Satori: hallo mein freund
+[2021-04-05 09:35:06]:   [, Level 0]: ✯ |toxicdaddy: Nudelsaft c:: das war bad
+[2021-04-05 09:35:08]:   [, Level 0]: Foxie♥: Akuma ♥: war
+[2021-04-05 09:35:11]:   [, Level 0]: ✯ |toxicdaddy: ChillerDragon: dummy player
+[2021-04-05 09:35:12]: (1)Cosmo [, Level 0]: ♥TAKO♥: HELP
+[2021-04-05 09:35:12]:   [, Level 0]: Tziys*: Foxie♥: war
+[2021-04-05 09:35:14]:   [, Level 0]: [D] ♥TAKO♥: Cosmo:  wait
+[2021-04-05 09:35:16]: ***  [, Level 0]: ### 'Tziys*' war
+[2021-04-05 09:35:16]:   [, Level 0]: WarHammer: Tziys*:  efm vahema
