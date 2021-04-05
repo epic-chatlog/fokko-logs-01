@@ -1722,3 +1722,9 @@
 [logs/05-04-21.txt, 2021-04-05 01:42:44]: x7|FayZoR [xSD7, Level 42]: Kirito: wait
 [logs/05-04-21.txt, 2021-04-05 01:42:50]: kais [, Level 65]: ok, wait
 [logs/05-04-21.txt, 2021-04-05 01:42:55]: x7|FayZoR [xSD7, Level 42]: Kirito: idc if he x7
+[logs/05-04-21.txt, 2021-04-05 01:42:55]: kais [, Level 65]: it's open
+[logs/05-04-21.txt, 2021-04-05 01:42:59]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: he is x7 ?
+[logs/05-04-21.txt, 2021-04-05 01:43:03]: BulgarianTee [xSD7, Level 38]: x7|FayZoR: not
+[logs/05-04-21.txt, 2021-04-05 01:43:06]: [D] Leblebi [, Level 18]: how
+[logs/05-04-21.txt, 2021-04-05 01:43:06]: Kirito [Chilli.*, Level 34]: x7|FayZoR: he is not x7
+[logs/05-04-21.txt, 2021-04-05 01:43:07]: x7|FayZoR [xSD7, Level 42]: Hady: ok die
