@@ -4010,3 +4010,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:31:27]: BC|serwan [BC, Level 0]: #
 [logs/05-04-21.txt, 2021-04-05 04:31:30]: (2)Kirito [♥, Level 13]: cookie:  HE HUNTS ME DUDE
 [logs/05-04-21.txt, 2021-04-05 04:31:31]: weqe [MNKY, Level 11]: ez noobs
+[logs/05-04-21.txt, 2021-04-05 04:31:38]:   [, Level 0]: Shroom: (1)kais:
+[logs/05-04-21.txt, 2021-04-05 04:31:39]: cookie [, Level 16]: (2)Kirito:  i meen dont ware white me
+[logs/05-04-21.txt, 2021-04-05 04:31:47]: (2)Kirito [♥, Level 13]: cookie: i dont
