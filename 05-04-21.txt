@@ -5765,3 +5765,6 @@
 [2021-04-05 06:28:43]: ***  [, Level 0]: 'kais' entered and joined the game
 [2021-04-05 06:28:43]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
 [2021-04-05 06:28:49]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-05 06:29:05]: ***  [, Level 0]: '♫Amirian♬.' has left the game (Timeout)
+[2021-04-05 06:29:05]: ***  [, Level 0]: '♫Amirian♬' has left the game (Timeout)
+[2021-04-05 06:29:06]: ***  [, Level 0]: '(3)1' has left the game
