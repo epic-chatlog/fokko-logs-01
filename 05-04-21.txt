@@ -845,3 +845,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:00:03]: weqe [MNKY, Level 11]: MieSlime: fuck ur self
 [logs/05-04-21.txt, 2021-04-05 01:00:07]: Kirito [♥, Level 34]: SAUD: traitor
 [logs/05-04-21.txt, 2021-04-05 01:00:12]: MieSlime [FookinLads, Level 43]: SAUD: u bcs U killed me
+[logs/05-04-21.txt, 2021-04-05 01:00:14]: BulgarianTee [xSD7, Level 38]: kais: I WAS AFK TO THE TOILET I DIDNT MOVE A MUSCLE
+[logs/05-04-21.txt, 2021-04-05 01:00:20]: kais [, Level 65]: BulgarianTee: i saw you lmao
+[logs/05-04-21.txt, 2021-04-05 01:00:24]: BulgarianTee [xSD7, Level 38]: kais: demo?
+[logs/05-04-21.txt, 2021-04-05 01:00:26]: x7|FayZoR [xSD7, Level 42]: Kirito: i wait u
