@@ -14924,3 +14924,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:41:38]: (3)SAUD [, Level 8]: ERROR:  IF U See that msg stop using taser 4 god s ake
 [logs/04-04-21.txt, 2021-04-04 22:41:40]: PoliceTee [xSD7, Level 0]: Boti.: "oh back when i was your age i could have listened to hardbass for hours too.."
 [logs/04-04-21.txt, 2021-04-04 22:41:42]: PoliceTee [xSD7, Level 0]: Boti.: XDD
+[logs/04-04-21.txt, 2021-04-04 22:41:52]: Boti. [.bad, Level 27]: boomertee
+[logs/04-04-21.txt, 2021-04-04 22:41:52]: PoliceTee [xSD7, Level 0]: E
