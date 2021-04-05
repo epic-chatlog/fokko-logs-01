@@ -4943,3 +4943,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:45:50]: Tziys* [FookinLads, Level 38]: 4l
 [logs/05-04-21.txt, 2021-04-05 05:45:55]: wαrнαммer [, Level 26]: ife
 [logs/05-04-21.txt, 2021-04-05 05:46:00]: (2)1 [, Level 11]: KEZO KNK HELP
+[logs/05-04-21.txt, 2021-04-05 05:46:08]: (1)ERROR [404, Level 47]: Vodo4ka:  why u fight x7 dog Xdß
+[logs/05-04-21.txt, 2021-04-05 05:46:11]: (2)1 [, Level 11]: KEZO KNK HELP
