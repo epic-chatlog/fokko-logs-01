@@ -3270,3 +3270,10 @@
 [logs/05-04-21.txt, 2021-04-05 03:45:10]: ***  [, Level 0]: '(1)R2D2' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:45:18]: ***  [, Level 0]: 'Sutzer' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:45:20]: ***  [, Level 0]: '(1)Wheels.' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:45:23]:   [, Level 0]: Pigie♥: Kirito: Can u Log Out
+[logs/05-04-21.txt, 2021-04-05 03:45:24]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:45:25]: LareneGyvaeh [FookinLads, Level 36]: xd
+[logs/05-04-21.txt, 2021-04-05 03:45:28]: Isegrin [, Level 54]: LareneGyvaeh: SHALOOM
+[logs/05-04-21.txt, 2021-04-05 03:45:31]: [D] BC|Tixnix [BC, Level 0]: x7|zemer: wen
+[logs/05-04-21.txt, 2021-04-05 03:45:32]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:45:32]: BulgarianTee [CleanUpCrew, Level 38]: E
