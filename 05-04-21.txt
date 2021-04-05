@@ -2947,3 +2947,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:23:35]: ***  [, Level 0]: 'delta' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:23:37]: x7|zemer [xSD7, Level 37]: BulgarianTee: Yeah ik
 [logs/05-04-21.txt, 2021-04-05 03:23:37]: (2)ChillerDrago [|*KoG*|, Level 32]: fuck the police
+[logs/05-04-21.txt, 2021-04-05 03:23:44]: (1)ビール|Ze [Drunks, Level 10]: Mannik падай на край к двери
+[logs/05-04-21.txt, 2021-04-05 03:23:53]: x7|zemer [xSD7, Level 37]: (1)ChillerDrago: Yeah:D
