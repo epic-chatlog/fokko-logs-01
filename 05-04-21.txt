@@ -3156,3 +3156,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:35:36]: ***  [, Level 0]: 'Zetth' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:35:36]: ***  [, Level 0]: 'STULEJA 3000' joined the game
 [logs/05-04-21.txt, 2021-04-05 03:35:37]: x7|zemer [xSD7, Level 37]: BulgarianTee: I am back
+[logs/05-04-21.txt, 2021-04-05 03:35:41]: PoliceTee [xSD7, Level 25]: x7|zemer: kk
+[logs/05-04-21.txt, 2021-04-05 03:35:44]: (2)Kirito [♥, Level 36]: x7|zemer: sry
+[logs/05-04-21.txt, 2021-04-05 03:35:44]: »Amirian YA« [YAMIRIANA�, Level 29]: GOLD: im helped you
