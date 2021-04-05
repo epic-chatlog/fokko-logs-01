@@ -4748,3 +4748,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:31:40]: (2)1 [, Level 11]: KEZO HELP
 [logs/05-04-21.txt, 2021-04-05 05:31:48]: ***  [, Level 0]: '(1)ERROR.' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:31:50]: ChillerDragon [|*KoG*|, Level 44]: ye Vodo4ka?
+[logs/05-04-21.txt, 2021-04-05 05:32:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[logs/05-04-21.txt, 2021-04-05 05:32:00]: ***  [, Level 0]: '(1)ERROR.' entered and joined the game
