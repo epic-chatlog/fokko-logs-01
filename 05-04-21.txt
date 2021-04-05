@@ -4204,3 +4204,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:40:15]: ***  [, Level 0]: 'bredn' changed name to 'Nudelsaft c:'
 [logs/05-04-21.txt, 2021-04-05 04:40:15]: ***  [, Level 0]: 'nderp' changed name to 'Swarfey'
 [logs/05-04-21.txt, 2021-04-05 04:40:23]:   [, Level 0]: Vodo4ka: Ðream: Я погулял уже 1.5 часа
+[logs/05-04-21.txt, 2021-04-05 04:40:27]: ***  [, Level 0]: 'gian x' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 04:40:30]: ***  [, Level 0]: 'gian x' joined the game
+[logs/05-04-21.txt, 2021-04-05 04:40:32]:   [, Level 0]: Vodo4ka: Ðream: Я дольше :))) ТОлько вышел
+[logs/05-04-21.txt, 2021-04-05 04:40:36]:   [, Level 0]: Vodo4ka: Ðream: На улице
