@@ -14764,3 +14764,7 @@
 [logs/04-04-21.txt, 2021-04-04 22:23:50]: Chilli.* tee [Chilli.*, Level 0]: im bad at remembering names
 [logs/04-04-21.txt, 2021-04-04 22:23:56]: (3)SAUD [, Level 8]: xD
 [logs/04-04-21.txt, 2021-04-04 22:24:01]: Boti. [.bad, Level 27]: do you know Boti. ?
+[logs/04-04-21.txt, 2021-04-04 22:24:11]: (3)SAUD [, Level 8]: wait do u remeber the inf mode?
+[logs/04-04-21.txt, 2021-04-04 22:24:13]: Chilli.* tee [Chilli.*, Level 0]: you mean that famous yt cringy minecrafter kid?
+[logs/04-04-21.txt, 2021-04-04 22:24:15]: (3)SAUD [, Level 8]: its all gone by now
+[logs/04-04-21.txt, 2021-04-04 22:24:18]: Boti. [.bad, Level 27]: yep
