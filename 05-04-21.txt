@@ -3051,3 +3051,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:29:36]: (1)ビール|Ze [Drunks, Level 10]: ManniK: XD
 [logs/05-04-21.txt, 2021-04-05 03:29:39]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 03:29:42]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:29:52]: (1)SAUD [, Level 0]: BulgarianTee:  u shouldve  let him fckin die
+[logs/05-04-21.txt, 2021-04-05 03:29:58]: (1)SAUD [, Level 0]: he is trash
