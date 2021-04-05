@@ -2319,3 +2319,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:24:00]: BulgarianTee [CleanUpCrew, Level 38]: Sutzer: you could have stayed neutral and now come
 [logs/05-04-21.txt, 2021-04-05 02:24:00]: Sutzer [Guard, Level 0]: BulgarianTee: why
 [logs/05-04-21.txt, 2021-04-05 02:24:06]: BulgarianTee [CleanUpCrew, Level 38]: Sutzer: you dont wanna come?
+[logs/05-04-21.txt, 2021-04-05 02:24:21]: Sutzer [Guard, Level 0]: BulgarianTee: but i want to fight for fun
+[logs/05-04-21.txt, 2021-04-05 02:24:25]: Sutzer [Guard, Level 0]: FFF
+[logs/05-04-21.txt, 2021-04-05 02:24:29]: Sutzer [Guard, Level 0]: not fuck for fun
