@@ -3113,3 +3113,8 @@
 [logs/05-04-21.txt, 2021-04-05 03:33:17]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:33:24]: (1)SAUD [, Level 0]: BulgarianTee:  UR FRIEND IS helping ur enemy xD
 [logs/05-04-21.txt, 2021-04-05 03:33:26]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:33:30]: Isegrin [, Level 54]: YelloWorlD: stop gay
+[logs/05-04-21.txt, 2021-04-05 03:33:30]: ***  [, Level 0]: '0nodeBuff' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:33:33]: BulgarianTee [CleanUpCrew, Level 38]: (1)SAUD: nice Xd
+[logs/05-04-21.txt, 2021-04-05 03:33:33]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:33:40]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
