@@ -15287,3 +15287,4 @@
 [logs/04-04-21.txt, 2021-04-04 23:28:27]: (2)SAUD [, Level 12]: TASER GAY
 [logs/04-04-21.txt, 2021-04-04 23:28:30]: oyun krallı [, Level 0]: (1)SAUD:  HELP
 [logs/04-04-21.txt, 2021-04-04 23:28:31]: (2)SAUD [, Level 12]: xDDDDDDDDDDDD
+[logs/04-04-21.txt, 2021-04-04 23:28:37]: GODLIKe [hax, Level 44]: bruh
