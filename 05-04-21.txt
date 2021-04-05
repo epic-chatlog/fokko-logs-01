@@ -10721,3 +10721,6 @@
 [2021-04-05 11:06:23]: Deus Ex Machina [, Level 36]: ChillerDragon: whay
 [2021-04-05 11:06:29]: Deus Ex Machina [, Level 36]: ChillerDragon: u fast go 5jump
 [2021-04-05 11:06:31]: Deus Ex Machina [, Level 36]: ChillerDragon: u good
+[2021-04-05 11:06:35]: ***  [, Level 0]: 'koro' has left the game (Timeout Protection over)
+[2021-04-05 11:06:37]: Deus Ex Machina [, Level 36]: ChillerDragon: u play  gore?
+[2021-04-05 11:06:44]: ChillerDragon [Chilli.*, Level 44]: yes
