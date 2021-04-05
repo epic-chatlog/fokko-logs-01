@@ -1729,3 +1729,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:43:06]: Kirito [Chilli.*, Level 34]: x7|FayZoR: he is not x7
 [logs/05-04-21.txt, 2021-04-05 01:43:07]: x7|FayZoR [xSD7, Level 42]: Hady: ok die
 [logs/05-04-21.txt, 2021-04-05 01:43:15]: [D] Leblebi [, Level 18]: kais:  how
+[logs/05-04-21.txt, 2021-04-05 01:43:25]: (1)kais [, Level 58]: Leblebi: this button here open it for 20 secs
+[logs/05-04-21.txt, 2021-04-05 01:43:26]: [D] Leblebi [, Level 18]: i not need
+[logs/05-04-21.txt, 2021-04-05 01:43:30]: Hady [new bot, Level 0]: x7|FayZoR:  ok
