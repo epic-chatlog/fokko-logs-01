@@ -1264,3 +1264,5 @@
 [logs/05-04-21.txt, 2021-04-05 01:18:39]: Vodo4ka [JB.st, Level 41]: [D] Boti.: and u call me dog when dogs help u and u have dummy with endless, how low
 [logs/05-04-21.txt, 2021-04-05 01:18:45]: ***  [, Level 0]: 'Лемур' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:18:46]: [D] Boti. [.bad, Level 32]: Vodo4ka: yeh
+[logs/05-04-21.txt, 2021-04-05 01:18:49]: MieSlime [FookinLads, Level 43]: weqe: ok, so we continue the war ? ok
+[logs/05-04-21.txt, 2021-04-05 01:18:58]: Vodo4ka [JB.st, Level 41]: [D] Boti.: strange person
