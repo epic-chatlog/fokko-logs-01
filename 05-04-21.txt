@@ -39,3 +39,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:05:24]: ***  [, Level 0]: 'Kirill200615' has left the game
 [logs/05-04-21.txt, 2021-04-05 00:05:24]: Vodo4ka [JB.st, Level 41]: E
 [logs/05-04-21.txt, 2021-04-05 00:05:54]: wαrнαммer [, Level 26]: x
+[logs/05-04-21.txt, 2021-04-05 00:06:20]: BulgarianTee [xSD7, Level 38]: Vodo4ka: xoxo
+[logs/05-04-21.txt, 2021-04-05 00:06:24]: Vodo4ka [JB.st, Level 41]: BulgarianTee: ?
