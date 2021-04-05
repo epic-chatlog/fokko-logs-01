@@ -14991,3 +14991,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:58:06]: BulgarianTee [xSD7, Level 38]: LETS GOOOOOOOOO
 [logs/04-04-21.txt, 2021-04-04 22:58:07]: BulgarianTee [xSD7, Level 38]: 34 SECONDS
 [logs/04-04-21.txt, 2021-04-04 22:58:11]: ***  [, Level 0]: (3)SAUD finished in: 0 minute(s) 55.12 second(s)
+[logs/04-04-21.txt, 2021-04-04 22:58:18]: BulgarianTee [xSD7, Level 38]: i want sub 30
