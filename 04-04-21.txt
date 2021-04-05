@@ -15248,3 +15248,7 @@
 [logs/04-04-21.txt, 2021-04-04 23:24:14]: (3)SAUD [, Level 8]: d:-
 [logs/04-04-21.txt, 2021-04-04 23:25:07]: PoliceTee [xSD7, Level 25]: gaylike
 [logs/04-04-21.txt, 2021-04-04 23:25:08]: Vodo4ka [JB.st, Level 41]: BRUH
+[logs/04-04-21.txt, 2021-04-04 23:25:13]: GODLIKe [hax, Level 44]: PoliceTee: u
+[logs/04-04-21.txt, 2021-04-04 23:25:15]: PoliceTee [xSD7, Level 25]: GODLIKe: where you been the past few days? with noemi?
+[logs/04-04-21.txt, 2021-04-04 23:25:17]: Vodo4ka [JB.st, Level 41]: PoliceTee: BulGAYrian
+[logs/04-04-21.txt, 2021-04-04 23:25:21]: PoliceTee [xSD7, Level 25]: XDDD
