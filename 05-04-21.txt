@@ -2907,3 +2907,10 @@
 [logs/05-04-21.txt, 2021-04-05 03:20:01]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 03:20:04]: ***  [, Level 0]: 'STULEJA 3000' joined the game
 [logs/05-04-21.txt, 2021-04-05 03:20:16]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:20:20]: (1)Friendiship  [, Level 0]: YelloWorlD: pourquoi tu me bloque ?!
+[logs/05-04-21.txt, 2021-04-05 03:20:20]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:20:21]: YelloWorlD [404, Level 37]: keø: cb de temps pr la métriser
+[logs/05-04-21.txt, 2021-04-05 03:20:22]: Isegrin [, Level 54]: koro: hola como estas
+[logs/05-04-21.txt, 2021-04-05 03:20:25]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:20:28]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:20:28]: ***  [, Level 0]: 'Tixnix' entered and joined the game
