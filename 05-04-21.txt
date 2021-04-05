@@ -6488,3 +6488,6 @@
 [2021-04-05 07:24:53]: Maatiteusz [TrRShClNrRs, Level 35]: bob: hi
 [2021-04-05 07:25:32]: ***  [, Level 0]: 'batata' entered and joined the game
 [2021-04-05 07:25:33]:   [, Level 0]: bob: HJAHAH
+[2021-04-05 07:25:35]:   [, Level 0]: bob: du luchs
+[2021-04-05 07:25:36]: ***  [, Level 0]: ERROR. is on a killing spree with 5 blocks
+[2021-04-05 07:25:42]: ***  [, Level 0]: 'bob' has left the game
