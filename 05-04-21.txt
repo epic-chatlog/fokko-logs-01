@@ -1328,3 +1328,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:21:53]: Hady [new bot, Level 0]: notihing
 [logs/05-04-21.txt, 2021-04-05 01:22:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [logs/05-04-21.txt, 2021-04-05 01:22:02]: MieSlime [FookinLads, Level 43]: Hady:  lmaooo saud is a noob
+[logs/05-04-21.txt, 2021-04-05 01:22:06]: Hady [new bot, Level 0]: SAUD:  i want war fun
+[logs/05-04-21.txt, 2021-04-05 01:22:10]: comic [comically, Level 13]: this is so shiiiiiit
+[logs/05-04-21.txt, 2021-04-05 01:22:12]: SAUD [, Level 0]: MieSlime:  who fucked u xD
