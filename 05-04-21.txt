@@ -13292,3 +13292,7 @@
 [2021-04-05 14:31:39]: [D] ✯ |toxicd [|Supressed, Level 21]: ✯Hunter.exe:  2l0
 [2021-04-05 14:31:47]: ✯Hunter.exe [|Supressed|, Level 35]: ah ok
 [2021-04-05 14:31:55]: ERROR. [404, Level 74]: SO DONE
+[2021-04-05 14:31:56]: Nudelsaft c: [FookinLads, Level 42]: xD
+[2021-04-05 14:31:57]: ***  [, Level 0]: 'ERROR.' has left the game
+[2021-04-05 14:31:58]: ***  [, Level 0]: 'ERROR.' entered and joined the game
+[2021-04-05 14:31:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
