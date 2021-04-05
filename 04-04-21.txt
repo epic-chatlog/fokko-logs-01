@@ -15417,3 +15417,4 @@
 [logs/04-04-21.txt, 2021-04-04 23:41:16]: Vodo4ka [JB.st, Level 41]: yE
 [logs/04-04-21.txt, 2021-04-04 23:41:20]: Vodo4ka [JB.st, Level 41]: AYE
 [logs/04-04-21.txt, 2021-04-04 23:41:39]: PoliceTee [xSD7, Level 25]: Loxo4ka
+[logs/04-04-21.txt, 2021-04-04 23:42:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
