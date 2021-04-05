@@ -213,3 +213,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:18:23]: weqe [MNKY, Level 11]: ???
 [logs/05-04-21.txt, 2021-04-05 00:18:40]: Vodo4ka [JB.st, Level 41]: BulgarianTee:
 [logs/05-04-21.txt, 2021-04-05 00:18:41]: Vodo4ka [JB.st, Level 41]: I like turtles.
+[logs/05-04-21.txt, 2021-04-05 00:18:46]: BulgarianTee [xSD7, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 00:18:50]: BulgarianTee [xSD7, Level 38]: weqe:
+[logs/05-04-21.txt, 2021-04-05 00:18:56]: oyun krallı [, Level 11]: weqe:  help
