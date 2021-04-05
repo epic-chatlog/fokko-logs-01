@@ -13048,3 +13048,6 @@
 [2021-04-05 13:59:50]: ERROR. [404, Level 74]: xD
 [2021-04-05 13:59:57]: (1)kais [, Level 58]: ERROR: uhm, u use ur phone 4g ?
 [2021-04-05 13:59:58]: (2)Kirito♥ [♥, Level 35]: mina: not mad but im disappointed of you
+[2021-04-05 14:00:05]: ERROR. [404, Level 74]: (1)kais:  no
+[2021-04-05 14:00:06]: ERROR. [404, Level 74]: vpn
+[2021-04-05 14:00:10]: (1)kais [, Level 58]: urg
