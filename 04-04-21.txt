@@ -15014,3 +15014,10 @@
 [logs/04-04-21.txt, 2021-04-04 23:00:21]: (3)SAUD [, Level 8]: nah
 [logs/04-04-21.txt, 2021-04-04 23:00:29]: (3)SAUD [, Level 8]: idts
 [logs/04-04-21.txt, 2021-04-04 23:00:38]: BulgarianTee [xSD7, Level 38]: FUCK
+[logs/04-04-21.txt, 2021-04-04 23:00:43]: (3)SAUD [, Level 8]: xD
+[logs/04-04-21.txt, 2021-04-04 23:00:46]: ***  [, Level 0]: BulgarianTee finished in: 0 minute(s) 17.92 second(s)
+[logs/04-04-21.txt, 2021-04-04 23:00:46]: ***  [, Level 0]: New record:  5.54 second(s) better.
+[logs/04-04-21.txt, 2021-04-04 23:00:47]: BulgarianTee [xSD7, Level 38]: sub 20
+[logs/04-04-21.txt, 2021-04-04 23:00:48]: BulgarianTee [xSD7, Level 38]: gut
+[logs/04-04-21.txt, 2021-04-04 23:00:50]: (3)SAUD [, Level 8]: wowww
+[logs/04-04-21.txt, 2021-04-04 23:00:52]: BulgarianTee [xSD7, Level 38]: but can be better
