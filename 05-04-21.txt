@@ -293,3 +293,8 @@
 [logs/05-04-21.txt, 2021-04-05 00:24:18]: ***  [, Level 0]: 'MieSlime' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 00:24:23]: BulgarianTee [xSD7, Level 38]: Vodo4ka: uc ringe
 [logs/05-04-21.txt, 2021-04-05 00:24:26]: BulgarianTee [xSD7, Level 38]: Vodo4ka: u cringe
+[logs/05-04-21.txt, 2021-04-05 00:24:32]: Vodo4ka [JB.st, Level 41]: BulgarianTee: cringe word is cringe
+[logs/05-04-21.txt, 2021-04-05 00:24:33]: Vodo4ka [JB.st, Level 41]: idiotr
+[logs/05-04-21.txt, 2021-04-05 00:24:36]: BulgarianTee [xSD7, Level 38]: Vodo4ka: no u
+[logs/05-04-21.txt, 2021-04-05 00:24:38]: Vodo4ka [JB.st, Level 41]: u saying olny cringe
+[logs/05-04-21.txt, 2021-04-05 00:24:39]: Vodo4ka [JB.st, Level 41]: idiot
