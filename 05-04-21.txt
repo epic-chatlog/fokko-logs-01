@@ -33,3 +33,4 @@
 [logs/05-04-21.txt, 2021-04-05 00:04:16]: comic [comically, Level 13]: no
 [logs/05-04-21.txt, 2021-04-05 00:04:26]: BulgarianTee [xSD7, Level 38]: rip Vodo4ka
 [logs/05-04-21.txt, 2021-04-05 00:04:28]: Vodo4ka [JB.st, Level 41]: B
+[logs/05-04-21.txt, 2021-04-05 00:04:50]: ***  [, Level 0]: 'Kirill200615' entered and joined the game
