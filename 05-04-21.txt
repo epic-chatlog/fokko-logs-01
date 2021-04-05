@@ -4704,3 +4704,4 @@
 [logs/05-04-21.txt, 2021-04-05 05:25:39]: ***  [, Level 0]: 'kiøn1029' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:26:13]: [D] Sutzer [Guard, Level 0]: :I
 [logs/05-04-21.txt, 2021-04-05 05:26:29]: [D] ✯ |toxicd [|Supressed, Level 0]: Kezo:
+[logs/05-04-21.txt, 2021-04-05 05:26:44]: ***  [, Level 0]: 'Austria' changed name to '[D] P4Pyr0s'
