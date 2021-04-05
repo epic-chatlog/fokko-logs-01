@@ -590,3 +590,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:44:46]: ***  [, Level 0]: 'Vovaster07' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 00:44:54]: ***  [, Level 0]: 'Vodo4ka' has left the game
 [logs/05-04-21.txt, 2021-04-05 00:44:55]: BulgarianTee [xSD7, Level 38]: SAUD: D:
+[logs/05-04-21.txt, 2021-04-05 00:44:56]: SAUD [, Level 0]: BulgarianTee:  idk
+[logs/05-04-21.txt, 2021-04-05 00:45:04]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
