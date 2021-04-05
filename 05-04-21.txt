@@ -13369,3 +13369,6 @@
 [2021-04-05 14:44:23]: ***  [, Level 0]: 's7_sven' has left the game (Timeout)
 [2021-04-05 14:44:33]: iMxtteo [, Level 26]: I like turtles.
 [2021-04-05 14:45:05]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-05 14:45:10]: Kirito♥ [♥, Level 24]: ERROR:  xD
+[2021-04-05 14:45:12]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-05 14:45:17]: ***  [, Level 0]: Nudelsaft c: is on a killing spree with 15 blocks
