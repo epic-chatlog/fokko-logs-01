@@ -11784,3 +11784,8 @@
 [2021-04-05 12:07:23]: Falco641 [, Level 19]: [D] BC|Tixnix: degenerate
 [2021-04-05 12:07:24]: Foxie♥ [♥, Level 36]: GReeeN: ples im sorri
 [2021-04-05 12:07:25]: Falco641 [, Level 19]: get a life
+[2021-04-05 12:07:31]: ***  [, Level 0]: 'Falco642' has left the game
+[2021-04-05 12:07:31]: ***  [, Level 0]: 'Falco641' has left the game
+[2021-04-05 12:07:41]: ***  [, Level 0]: 'Friendiship ;-)' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-05 12:07:41]: ***  [, Level 0]: '(1)Kirito' changed name to 'Kirito♥'
+[2021-04-05 12:07:41]: ***  [, Level 0]: '(2)Kirito' changed name to '(1)Kirito♥'
