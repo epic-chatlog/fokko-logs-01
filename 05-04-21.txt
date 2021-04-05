@@ -592,3 +592,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:44:55]: BulgarianTee [xSD7, Level 38]: SAUD: D:
 [logs/05-04-21.txt, 2021-04-05 00:44:56]: SAUD [, Level 0]: BulgarianTee:  idk
 [logs/05-04-21.txt, 2021-04-05 00:45:04]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:45:09]: BulgarianTee [xSD7, Level 38]: Xd
+[logs/05-04-21.txt, 2021-04-05 00:45:18]: BulgarianTee [xSD7, Level 38]: mamikral011: i did all i could Xd
