@@ -238,3 +238,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:20:09]: Vodo4ka [JB.st, Level 41]: privet
 [logs/05-04-21.txt, 2021-04-05 00:20:17]: Vodo4ka [JB.st, Level 41]: cringe
 [logs/05-04-21.txt, 2021-04-05 00:20:17]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:20:25]: Vodo4ka [JB.st, Level 41]: cringe
+[logs/05-04-21.txt, 2021-04-05 00:20:35]: Vodo4ka [JB.st, Level 41]: weqe: spike for gay
