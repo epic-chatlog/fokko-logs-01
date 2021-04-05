@@ -2617,3 +2617,7 @@
 [logs/05-04-21.txt, 2021-04-05 02:48:38]: YelloWorlD [404, Level 37]: Fearless: 2V1
 [logs/05-04-21.txt, 2021-04-05 02:48:41]: Fearless [FookinLads, Level 40]: YelloWorlD:  stfu dog
 [logs/05-04-21.txt, 2021-04-05 02:48:48]: x7|FayZoR [xSD7, Level 42]: RoberGN:
+[logs/05-04-21.txt, 2021-04-05 02:49:01]: BulgarianTee [CleanUpCrew, Level 38]: Fearless: RIP
+[logs/05-04-21.txt, 2021-04-05 02:49:04]: Fearless [FookinLads, Level 40]: keø:  OMG WTF ARE U DOING
+[logs/05-04-21.txt, 2021-04-05 02:49:07]: [D] falkenauge [Ʀ.I.Ƈ., Level 34]: YelloWorlD: sry
+[logs/05-04-21.txt, 2021-04-05 02:49:13]: Fearless [FookinLads, Level 40]: koro:  ok reported to heavy
