@@ -4017,3 +4017,10 @@
 [logs/05-04-21.txt, 2021-04-05 04:31:58]: (2)Kirito [♥, Level 13]: oh no
 [logs/05-04-21.txt, 2021-04-05 04:32:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [logs/05-04-21.txt, 2021-04-05 04:32:00]: (2)Kirito [♥, Level 13]: cookie: helppp
+[logs/05-04-21.txt, 2021-04-05 04:32:06]: ***  [, Level 0]: 'R2D2' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:32:06]: ***  [, Level 0]: 'Wheels.' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:32:08]: (2)Kirito [♥, Level 13]: Shroom:  :(
+[logs/05-04-21.txt, 2021-04-05 04:32:08]: cunt [, Level 0]: Isegrin: help
+[logs/05-04-21.txt, 2021-04-05 04:32:10]: (2)Kirito [♥, Level 13]: kais: dude xD
+[logs/05-04-21.txt, 2021-04-05 04:32:12]: ♫Amirian♬ [, Level 29]: x7|FayZoR: pls portal
+[logs/05-04-21.txt, 2021-04-05 04:32:13]: cunt [, Level 0]: Isegrin: :D
