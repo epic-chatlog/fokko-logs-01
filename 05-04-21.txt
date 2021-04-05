@@ -13064,3 +13064,6 @@
 [2021-04-05 14:01:44]: ERROR. [404, Level 74]: goood good
 [2021-04-05 14:01:54]: (2)Kirito♥ [♥, Level 35]: mina: go on a date w/ me then i'll think about forgiving you ok?
 [2021-04-05 14:01:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-05 14:02:21]: ***  [, Level 0]: 'ERROR.' has left the game
+[2021-04-05 14:02:21]: mina [, Level 0]: Kirito♥: how do u still like even though i was mean to u?
+[2021-04-05 14:02:22]: ***  [, Level 0]: 'ERROR.' entered and joined the game
