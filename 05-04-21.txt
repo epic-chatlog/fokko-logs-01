@@ -4301,3 +4301,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:44:26]: Ƭevan [TrRShClNrRs, Level 48]: спс
 [logs/05-04-21.txt, 2021-04-05 04:44:32]: BulgarianTee [CleanUpCrew, Level 38]: Nudelsaft c:: WHY U HELP PPL THAT KILL ME
 [logs/05-04-21.txt, 2021-04-05 04:44:35]: ***  [, Level 0]: 'Happy cat' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:44:41]:   [, Level 0]: Vodo4ka: Nudelsaft c:: wat with fookinLads
+[logs/05-04-21.txt, 2021-04-05 04:44:43]:   [, Level 0]: Vodo4ka: Shiro.: why i am idiot
+[logs/05-04-21.txt, 2021-04-05 04:44:48]:   [, Level 0]: Vodo4ka: Shiro.: wtf
