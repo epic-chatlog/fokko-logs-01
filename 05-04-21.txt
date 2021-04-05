@@ -1916,3 +1916,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:56:06]: (1)kais [, Level 58]: BulgarianTee: k nobo, i didn't timeouted u nobo
 [logs/05-04-21.txt, 2021-04-05 01:56:10]: ***  [, Level 0]: Soros's killing spree was ended by Royal (7 blocks)
 [logs/05-04-21.txt, 2021-04-05 01:56:11]: BulgarianTee [xSD7, Level 38]: kais: u
+[logs/05-04-21.txt, 2021-04-05 01:56:17]: Cylox [, Level 30]: ✯ |toxicdaddy: yes nıce
+[logs/05-04-21.txt, 2021-04-05 01:56:22]: ***  [, Level 0]: 'Souly' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:56:25]: BulgarianTee [xSD7, Level 38]: Souly: EWWWWWWWW
+[logs/05-04-21.txt, 2021-04-05 01:56:25]: ✯ |toxicdaddy [|Supressed, Level 24]: weqe: flag
