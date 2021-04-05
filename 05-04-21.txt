@@ -2292,3 +2292,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:21:38]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: idk, that just anoying and let random think are good
 [logs/05-04-21.txt, 2021-04-05 02:21:45]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: true Xd
 [logs/05-04-21.txt, 2021-04-05 02:21:57]: ***  [, Level 0]: 'Nonoh' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:22:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[logs/05-04-21.txt, 2021-04-05 02:22:09]: ***  [, Level 0]: 'Noémi[Đ]' entered and joined the game
