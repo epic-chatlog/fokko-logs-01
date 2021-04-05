@@ -15240,3 +15240,7 @@
 [logs/04-04-21.txt, 2021-04-04 23:23:21]: PoliceTee [xSD7, Level 25]: Vodo4ka: mad
 [logs/04-04-21.txt, 2021-04-04 23:23:24]: Vodo4ka [JB.st, Level 41]: SAUD: ??? breh
 [logs/04-04-21.txt, 2021-04-04 23:23:31]: Vodo4ka [JB.st, Level 41]: PoliceTee: i think
+[logs/04-04-21.txt, 2021-04-04 23:23:37]: Vodo4ka [JB.st, Level 41]: SAUD:  hate me now
+[logs/04-04-21.txt, 2021-04-04 23:23:39]: Vodo4ka [JB.st, Level 41]: xd
+[logs/04-04-21.txt, 2021-04-04 23:23:46]: PoliceTee [xSD7, Level 25]: im never gonna try to replicate heavygayneral's playstyle ever again
+[logs/04-04-21.txt, 2021-04-04 23:23:46]: (3)SAUD [, Level 8]: i dont like u
