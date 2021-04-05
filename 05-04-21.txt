@@ -10202,3 +10202,6 @@
 [2021-04-05 10:46:43]: ***  [, Level 0]: 'cup of tee 2' entered and joined the game
 [2021-04-05 10:46:48]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
 [2021-04-05 10:46:48]: ***  [, Level 0]: '(1)Maatiteusz' entered and joined the game
+[2021-04-05 10:47:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-05 10:47:01]: [D] mamikral011 [, Level 0]: Kezo: izle
+[2021-04-05 10:47:01]:   [, Level 0]: WarHammer: Kezo:  la gel vs
