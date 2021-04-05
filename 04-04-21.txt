@@ -14555,3 +14555,5 @@
 [logs/04-04-21.txt, 2021-04-04 21:57:18]: weqe [MNKY, Level 11]: I like turtles.
 [logs/04-04-21.txt, 2021-04-04 21:57:21]: weqe [MNKY, Level 11]: haha
 [logs/04-04-21.txt, 2021-04-04 21:57:23]: BulgarianTee [xSD7, Level 0]: XD
+[logs/04-04-21.txt, 2021-04-04 21:57:34]: BulgarianTee [xSD7, Level 0]: wait i come with dummy so i can farm
+[logs/04-04-21.txt, 2021-04-04 21:57:35]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
