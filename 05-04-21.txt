@@ -13296,3 +13296,5 @@
 [2021-04-05 14:31:57]: ***  [, Level 0]: 'ERROR.' has left the game
 [2021-04-05 14:31:58]: ***  [, Level 0]: 'ERROR.' entered and joined the game
 [2021-04-05 14:31:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-05 14:32:27]: ✯Hunter.exe [|Supressed|, Level 35]: [D] ✯ |toxicd: denkst kannst mich triggern ? kommst dann halt nicht mehr in police rein
+[2021-04-05 14:32:31]: x7|Chronos [xSD7, Level 35]: Nudelsaft c:: u know u can't
