@@ -14045,3 +14045,4 @@
 [logs/04-04-21.txt, 2021-04-04 17:29:13]: Mr.KshKsh99 [xSD7, Level 0]: portal
 [logs/04-04-21.txt, 2021-04-04 17:29:36]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: can't now, fokko fixed that :/
 [logs/04-04-21.txt, 2021-04-04 17:29:40]: Mr.KshKsh99 [xSD7, Level 0]: oh
+[logs/04-04-21.txt, 2021-04-04 17:29:50]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: no one can come in a room close
