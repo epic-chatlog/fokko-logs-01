@@ -5302,3 +5302,19 @@
 [2021-04-05 06:06:07]: mami [, Level 0]: frend
 [2021-04-05 06:06:08]: Boti. [.bad, Level 32]: chiller will help
 [2021-04-05 06:06:08]: Boti. [.bad, Level 32]: chiller will help
+[2021-04-05 06:06:10]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-05 06:06:10]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-05 06:06:11]: Boti. [.bad, Level 32]: no
+[2021-04-05 06:06:11]: Boti. [.bad, Level 32]: no
+[2021-04-05 06:06:11]: weqe [MNKY, Level 11]: spikey
+[2021-04-05 06:06:11]: weqe [MNKY, Level 11]: spikey
+[2021-04-05 06:06:12]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-05 06:06:12]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-05 06:06:12]: weqe [MNKY, Level 11]: why
+[2021-04-05 06:06:12]: weqe [MNKY, Level 11]: why
+[2021-04-05 06:06:13]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-05 06:06:13]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-05 06:06:14]: Boti. [.bad, Level 32]: nvmú
+[2021-04-05 06:06:14]: Boti. [.bad, Level 32]: nvmú
+[2021-04-05 06:06:19]: Boti. [.bad, Level 32]: lags
+[2021-04-05 06:06:19]: Boti. [.bad, Level 32]: lags
