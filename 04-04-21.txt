@@ -15010,3 +15010,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:00:13]: (3)SAUD [, Level 8]: Xd
 [logs/04-04-21.txt, 2021-04-04 23:00:14]: (3)SAUD [, Level 8]: xD
 [logs/04-04-21.txt, 2021-04-04 23:00:14]: BulgarianTee [xSD7, Level 38]: ok this should be ez choit
+[logs/04-04-21.txt, 2021-04-04 23:00:17]: ***  [, Level 0]: BulgarianTee finished in: 0 minute(s) 42.36 second(s)
+[logs/04-04-21.txt, 2021-04-04 23:00:21]: (3)SAUD [, Level 8]: nah
