@@ -13917,3 +13917,7 @@
 [logs/04-04-21.txt, 2021-04-04 17:04:51]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
 [logs/04-04-21.txt, 2021-04-04 17:04:52]: ***  [, Level 0]: This account is already logged in
 [logs/04-04-21.txt, 2021-04-04 17:05:07]: ***  [, Level 0]: Collected 3 money
+[logs/04-04-21.txt, 2021-04-04 17:05:30]: Swarfey [FookinLads, Level 0]: S Y T H N: hey brauchst du den acc grad oder kann ich den für 1 min?
+[logs/04-04-21.txt, 2021-04-04 17:05:30]: Swarfey [FookinLads, Level 0]: S Y T H N: hey brauchst du den acc grad oder kann ich den für 1 min?
+[logs/04-04-21.txt, 2021-04-04 17:05:30]: ***  [, Level 0]: 'Neutral' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:05:30]: ***  [, Level 0]: 'Neutral' entered and joined the game
