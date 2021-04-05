@@ -12758,3 +12758,5 @@
 [2021-04-05 13:36:02]: ***  [, Level 0]: 'Hi1464' joined the game
 [2021-04-05 13:36:05]: . [TrRShClNrRs, Level 42]: YelloWorlD: if you dont, it means you're a hypocrite
 [2021-04-05 13:36:16]: ***  [, Level 0]: 'Kirito♥' entered and joined the game
+[2021-04-05 13:36:48]: mina [, Level 0]: Kirito♥: guck ma dc
+[2021-04-05 13:36:50]: ***  [, Level 0]: 'Hi1464' has left the game
