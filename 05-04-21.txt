@@ -395,3 +395,8 @@
 [logs/05-04-21.txt, 2021-04-05 00:33:27]: mamikral011 [, Level 0]: ERROR: hi
 [logs/05-04-21.txt, 2021-04-05 00:33:34]: mamikral011 [, Level 0]: x7|FayZoR: hi bro
 [logs/05-04-21.txt, 2021-04-05 00:33:41]: ***  [, Level 0]: Ðream is on a killing spree with 5 blocks
+[logs/05-04-21.txt, 2021-04-05 00:33:45]: ***  [, Level 0]: Ðream's killing spree was ended by Kirito (5 blocks)
+[logs/05-04-21.txt, 2021-04-05 00:33:48]: Vodo4ka [JB.st, Level 41]: Hahha he killed himself
+[logs/05-04-21.txt, 2021-04-05 00:33:49]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:33:49]: Vodo4ka [JB.st, Level 41]: idiot
+[logs/05-04-21.txt, 2021-04-05 00:33:54]: (1)kais [, Level 58]: BulgarianTee: why u changed ur skin ?
