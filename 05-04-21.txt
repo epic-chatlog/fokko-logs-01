@@ -3587,3 +3587,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:09:22]:   [, Level 0]: Shiro.: pidor got mad
 [logs/05-04-21.txt, 2021-04-05 04:09:22]: Foxie♥ [♥, Level 36]: (2)Kirito: <<<<<<<<<<<<<<<<<<<<<<
 [logs/05-04-21.txt, 2021-04-05 04:09:23]: ***  [, Level 0]: ### '♫Amirian♬' disconected (Timeout)
+[logs/05-04-21.txt, 2021-04-05 04:09:34]: x7|zemer [xSD7, Level 37]: weqe:
+[logs/05-04-21.txt, 2021-04-05 04:09:35]: ***  [, Level 0]: ### '♫Amirian♬' disconected (Timeout)
+[logs/05-04-21.txt, 2021-04-05 04:09:36]: weqe [MNKY, Level 11]: yes
+[logs/05-04-21.txt, 2021-04-05 04:09:36]: Foxie♥ [♥, Level 36]: Cylox.♥:
