@@ -15345,3 +15345,6 @@
 [logs/04-04-21.txt, 2021-04-04 23:33:24]: BulgarianTee [xSD7, Level 38]: xD
 [logs/04-04-21.txt, 2021-04-04 23:33:29]: BulgarianTee [xSD7, Level 38]: flappy kill me a lot of times
 [logs/04-04-21.txt, 2021-04-04 23:33:39]: Vodo4ka [JB.st, Level 41]: BulgarianTee: + 1744 money by nothing
+[logs/04-04-21.txt, 2021-04-04 23:34:16]: Vodo4ka [JB.st, Level 41]: SUka
+[logs/04-04-21.txt, 2021-04-04 23:34:19]: BulgarianTee [xSD7, Level 38]: Xdd
+[logs/04-04-21.txt, 2021-04-04 23:34:21]: Vodo4ka [JB.st, Level 41]: ddnet spam not work now
