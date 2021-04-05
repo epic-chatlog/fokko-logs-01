@@ -9624,3 +9624,7 @@
 [2021-04-05 10:15:20]: ***  [, Level 0]: GOLD finished in: 0 minute(s) 34.48 second(s)
 [2021-04-05 10:15:20]: ***  [, Level 0]: New record: 2 minute(s) 41.08 second(s) better.
 [2021-04-05 10:15:22]: Hady [new bot, Level 33]: zZzerayI:  i fun
+[2021-04-05 10:15:30]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-05 10:15:33]: zZzerayI [QuietLegend, Level 24]: Hady: 3 fps wtf
+[2021-04-05 10:15:37]: Hady [new bot, Level 33]: ?
+[2021-04-05 10:15:41]: zZzerayI [QuietLegend, Level 24]: Hady: 3 fps
