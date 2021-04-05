@@ -4837,3 +4837,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:37:34]: Vodo4ka [JB.st, Level 41]: S Y T H N: jokair
 [logs/05-04-21.txt, 2021-04-05 05:37:40]: Tziys* [FookinLads, Level 38]: YelloWorlD: i dont know this
 [logs/05-04-21.txt, 2021-04-05 05:37:50]: Vodo4ka [JB.st, Level 41]: S Y T H N: u not jokair?
+[logs/05-04-21.txt, 2021-04-05 05:37:57]: ***  [, Level 0]: 'S Y T H N' changed name to 'σмєтнιηg'
+[logs/05-04-21.txt, 2021-04-05 05:38:02]: Tziys* [FookinLads, Level 38]: YelloWorlD: FAİL
+[logs/05-04-21.txt, 2021-04-05 05:38:04]: Tziys* [FookinLads, Level 38]: xD
