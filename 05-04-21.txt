@@ -1665,3 +1665,5 @@
 [logs/05-04-21.txt, 2021-04-05 01:40:08]: BulgarianTee [xSD7, Level 38]: Ƭevan: np
 [logs/05-04-21.txt, 2021-04-05 01:40:13]: Kirito [Chilli.*, Level 34]: Leblebi: u helped kais again
 [logs/05-04-21.txt, 2021-04-05 01:40:17]: Leblebi [, Level 23]: no help
+[logs/05-04-21.txt, 2021-04-05 01:40:24]: BulgarianTee [xSD7, Level 38]: kais: see? kirito has no particles
+[logs/05-04-21.txt, 2021-04-05 01:40:25]: Leblebi [, Level 23]: im no help sorry
