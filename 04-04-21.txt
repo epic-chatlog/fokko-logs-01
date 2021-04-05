@@ -14439,3 +14439,4 @@
 [logs/04-04-21.txt, 2021-04-04 18:57:33]: ***  [, Level 0]: 'All Apologies' joined the game
 [logs/04-04-21.txt, 2021-04-04 18:58:12]: ***  [, Level 0]: 'WuschelTV' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 18:58:13]: ***  [, Level 0]: 'All Apologies' has left the game
+[logs/04-04-21.txt, 2021-04-04 18:58:21]: ***  [, Level 0]: 'WuschelTV' has left the game
