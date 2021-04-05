@@ -14581,3 +14581,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:02:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [logs/04-04-21.txt, 2021-04-04 22:02:01]: PoliceTee [xSD7, Level 0]: weqe: when you do it like 30 times like me, you will learn it Xdd
 [logs/04-04-21.txt, 2021-04-04 22:02:09]: PoliceTee [xSD7, Level 0]: E
+[logs/04-04-21.txt, 2021-04-04 22:02:10]: PoliceTee [xSD7, Level 0]: XD
+[logs/04-04-21.txt, 2021-04-04 22:02:22]: weqe [MNKY, Level 11]: PoliceTee: guess my age
