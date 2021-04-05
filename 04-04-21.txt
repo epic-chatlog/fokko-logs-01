@@ -14467,3 +14467,5 @@
 [logs/04-04-21.txt, 2021-04-04 19:59:00]: ***  [, Level 0]: '(1)ERROR.' has left the game (Timeout)
 [logs/04-04-21.txt, 2021-04-04 19:59:00]: ***  [, Level 0]: 'ERROR' has left the game (Timeout)
 [logs/04-04-21.txt, 2021-04-04 19:59:00]: ***  [, Level 0]: 'ERROR.' has left the game (Timeout)
+[logs/04-04-21.txt, 2021-04-04 20:01:41]: ***  [, Level 0]: 'ERROR' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 20:01:41]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
