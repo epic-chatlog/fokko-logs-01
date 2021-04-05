@@ -2533,3 +2533,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:37:31]: ZEWO [, Level 0]: help Idk
 [logs/05-04-21.txt, 2021-04-05 02:37:34]: ZEWO [, Level 0]: Idk: help
 [logs/05-04-21.txt, 2021-04-05 02:37:37]: ZEWO [, Level 0]: JELP
+[logs/05-04-21.txt, 2021-04-05 02:37:52]: ***  [, Level 0]: Fearless is on a killing spree with 5 blocks
+[logs/05-04-21.txt, 2021-04-05 02:37:53]: Kirito [Chilli.*, Level 34]: YelloWorlD:  xD
