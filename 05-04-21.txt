@@ -10558,3 +10558,12 @@
 [2021-04-05 11:00:23]: ***  [, Level 0]: 'cup of tee' has left the game
 [2021-04-05 11:00:26]:   [, Level 0]: ERROR.: ChillerDragon.*:  lies was Akalee ღ  schreibt.
 [2021-04-05 11:00:27]: Falco641 [, Level 19]: toss in
+[2021-04-05 11:00:28]: Falco641 [, Level 19]: all good
+[2021-04-05 11:00:30]: ***  [, Level 0]: 'koro' entered and joined the game
+[2021-04-05 11:00:31]:   [, Level 0]: ERROR.: zuspät
+[2021-04-05 11:00:31]: ChillerDragon [|*KoG*|, Level 44]: was ERROR
+[2021-04-05 11:00:32]: ***  [, Level 0]: 'Maatiteusz' has left the game
+[2021-04-05 11:00:32]: ***  [, Level 0]: 'Meetiteusz' has left the game
+[2021-04-05 11:00:34]: Deus Ex Machina [, Level 36]: ChillerDragon: and if u no help me and  i no help u?
+[2021-04-05 11:00:37]: Deus Ex Machina [, Level 36]: ChillerDragon: its war still?
+[2021-04-05 11:00:40]: ChillerDragon [Chilli.*, Level 44]: yes Deu Sex Machina
