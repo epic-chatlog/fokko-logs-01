@@ -4408,3 +4408,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:50:15]:   [, Level 0]: Vodo4ka: Isegrin: he taser nub
 [logs/05-04-21.txt, 2021-04-05 04:50:18]: ***  [, Level 0]: '(1)Friendiship ;' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 04:50:19]: BulgarianTee [CleanUpCrew, Level 38]: MieSlime: its almost the same, i had a few more details to make but error killed me and i couldnt finish it
+[logs/05-04-21.txt, 2021-04-05 04:50:31]: ***  [, Level 0]: 'koro' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:50:33]:   [, Level 0]: Vodo4ka: XDD
+[logs/05-04-21.txt, 2021-04-05 04:50:38]: BulgarianTee [CleanUpCrew, Level 38]: XDDD
