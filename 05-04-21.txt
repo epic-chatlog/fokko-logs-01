@@ -3244,3 +3244,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:42:08]: ***  [, Level 0]: 'SlerTz.' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:42:11]: ***  [, Level 0]: 'kiøn1029' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:42:11]: ***  [, Level 0]: 'Kiøn1029' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:42:18]: ***  [, Level 0]: 'I SAD' changed name to 'Cylox'
+[logs/05-04-21.txt, 2021-04-05 03:42:26]: Cylox [♥, Level 30]: Kirito: why
