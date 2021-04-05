@@ -14648,3 +14648,7 @@
 [logs/04-04-21.txt, 2021-04-04 22:11:46]: Boti. [.bad, Level 32]: not that
 [logs/04-04-21.txt, 2021-04-04 22:11:46]: PoliceTee [xSD7, Level 0]: lies
 [logs/04-04-21.txt, 2021-04-04 22:11:47]: Boti. [.bad, Level 32]: bruh
+[logs/04-04-21.txt, 2021-04-04 22:11:51]: PoliceTee [xSD7, Level 0]: E
+[logs/04-04-21.txt, 2021-04-04 22:11:52]: Boti. [.bad, Level 32]: n1kor
+[logs/04-04-21.txt, 2021-04-04 22:11:57]: Boti. [.bad, Level 32]: blmappepe srv owner
+[logs/04-04-21.txt, 2021-04-04 22:12:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
