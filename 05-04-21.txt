@@ -3251,3 +3251,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:42:45]: ***  [, Level 0]: 'SlerTz.' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:42:50]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:42:53]: ***  [, Level 0]: '(2)oyun krallı' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:43:45]: x7|FayZoR [xSD7, Level 42]: x7|zemer: ? not come ?
