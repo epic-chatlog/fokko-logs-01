@@ -6390,3 +6390,5 @@
 [2021-04-05 07:17:24]: mami [, Level 0]: Falco642:  why not
 [2021-04-05 07:17:29]: mami [, Level 0]: Falco642:  oow oke
 [2021-04-05 07:17:31]:   [, Level 0]: Black Wolf: mami: ok
+[2021-04-05 07:17:38]: ***  [, Level 0]: 'Sutzer' entered and joined the game
+[2021-04-05 07:17:43]: ***  [, Level 0]: 'Ðream' entered and joined the game
