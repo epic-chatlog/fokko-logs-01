@@ -2498,3 +2498,8 @@
 [logs/05-04-21.txt, 2021-04-05 02:35:22]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:35:23]: Lucas [THECEPS, Level 34]: RoberGN:
 [logs/05-04-21.txt, 2021-04-05 02:35:25]: ***  [, Level 0]: 'nameless tee' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:35:40]: Fearless [FookinLads, Level 40]: Noémi[Đ]:  mondthattad volna
+[logs/05-04-21.txt, 2021-04-05 02:35:42]: ***  [, Level 0]: [D] BC|Tixnix's killing spree was ended by Kirito (5 blocks)
+[logs/05-04-21.txt, 2021-04-05 02:35:43]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:35:44]: Fearless [FookinLads, Level 40]: x7|FayZoR:  when u learn to play
+[logs/05-04-21.txt, 2021-04-05 02:35:47]: Noémi[Đ] [citrom, Level 32]: Fearless: mit? xd
