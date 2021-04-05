@@ -2461,3 +2461,9 @@
 [logs/05-04-21.txt, 2021-04-05 02:33:07]: Fearless [FookinLads, Level 40]: yes
 [logs/05-04-21.txt, 2021-04-05 02:33:10]: ᅟᅟᅟᅟ [, Level 47]: it breaks the whole concept of block
 [logs/05-04-21.txt, 2021-04-05 02:33:11]: Fearless [FookinLads, Level 40]: they cant play without
+[logs/05-04-21.txt, 2021-04-05 02:33:22]: BulgarianTee [CleanUpCrew, Level 38]: Fearless: help
+[logs/05-04-21.txt, 2021-04-05 02:33:23]: ***  [, Level 0]: 'keø' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:33:25]: BulgarianTee [CleanUpCrew, Level 38]: Fearless: bring me here
+[logs/05-04-21.txt, 2021-04-05 02:33:26]: Fearless [FookinLads, Level 40]: BulgarianTee:  what
+[logs/05-04-21.txt, 2021-04-05 02:33:27]: ᅟᅟᅟᅟ [, Level 47]: there is no hookfly incuded when blocking with these nobos
+[logs/05-04-21.txt, 2021-04-05 02:33:28]: ***  [, Level 0]: 'cute tee' entered and joined the game
