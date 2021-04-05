@@ -1828,3 +1828,5 @@
 [logs/05-04-21.txt, 2021-04-05 01:50:05]: [D] Leblebi [, Level 18]: x7|FayZoR: but why
 [logs/05-04-21.txt, 2021-04-05 01:50:10]: BulgarianTee [xSD7, Level 38]: kais: thx for 329 money
 [logs/05-04-21.txt, 2021-04-05 01:50:16]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: give jetoack
+[logs/05-04-21.txt, 2021-04-05 01:50:22]: ***  [, Level 0]: el champeon's killing spree was ended by [D] BC|Tixnix (9 blocks)
+[logs/05-04-21.txt, 2021-04-05 01:50:28]: Fearless [FookinLads, Level 40]: el champeon:  dog shit
