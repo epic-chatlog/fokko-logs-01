@@ -985,3 +985,5 @@
 [logs/05-04-21.txt, 2021-04-05 01:05:53]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:05:56]: x7|FayZoR [xSD7, Level 42]: (1)Kirito: come
 [logs/05-04-21.txt, 2021-04-05 01:05:58]: [D] Boti. [.bad, Level 32]: twe
+[logs/05-04-21.txt, 2021-04-05 01:06:01]: [D] Boti. [.bad, Level 32]: BRUH
+[logs/05-04-21.txt, 2021-04-05 01:06:08]: Asta [FookinLads, Level 40]: Boti.:  weqe  so bad
