@@ -14107,3 +14107,6 @@
 [2021-04-05 15:50:49]: ***  [, Level 0]: 'Shiro,' entered and joined the game
 [2021-04-05 15:51:02]: ***  [, Level 0]: 'Shiro,' has left the game
 [2021-04-05 15:51:04]: ***  [, Level 0]: Shiro. is on a killing spree with 5 blocks
+[2021-04-05 15:51:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-05 15:52:03]: Shiro. [404, Level 42]: zzzzzzzzzzzzzzzzzzzz
+[2021-04-05 15:52:05]: ***  [, Level 0]: Shiro.'s killing spree was ended by hmmmmmm (5 blocks)
