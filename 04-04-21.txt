@@ -14644,3 +14644,7 @@
 [logs/04-04-21.txt, 2021-04-04 22:11:10]: PoliceTee [xSD7, Level 0]: Boti.: no XD
 [logs/04-04-21.txt, 2021-04-04 22:11:14]: Boti. [.bad, Level 32]: saddo
 [logs/04-04-21.txt, 2021-04-04 22:11:34]: PoliceTee [xSD7, Level 0]: Boti.: you know MIPOLO from blmapchill? no? saddo
+[logs/04-04-21.txt, 2021-04-04 22:11:41]: Boti. [.bad, Level 32]: i know
+[logs/04-04-21.txt, 2021-04-04 22:11:46]: Boti. [.bad, Level 32]: not that
+[logs/04-04-21.txt, 2021-04-04 22:11:46]: PoliceTee [xSD7, Level 0]: lies
+[logs/04-04-21.txt, 2021-04-04 22:11:47]: Boti. [.bad, Level 32]: bruh
