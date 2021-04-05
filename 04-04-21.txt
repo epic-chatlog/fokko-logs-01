@@ -14144,3 +14144,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:46:23]: x7|KshKsh99 [xSD7, Level 0]: XD
 [logs/04-04-21.txt, 2021-04-04 17:46:26]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: u think he wont comeback ? XD
 [logs/04-04-21.txt, 2021-04-04 17:46:32]: x7|KshKsh99 [xSD7, Level 0]: XDDD
+[logs/04-04-21.txt, 2021-04-04 17:46:47]: x7|KshKsh99 [xSD7, Level 0]: x7|FayZoR: maybe he is telling his mother what happen here
+[logs/04-04-21.txt, 2021-04-04 17:46:54]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: XDDDD
