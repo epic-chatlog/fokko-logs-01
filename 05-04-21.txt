@@ -4970,3 +4970,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:48:41]: ***  [, Level 0]: 'σмєтнιηg' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:48:43]: ♫Amirian♬ [, Level 0]: x7|FayZoR: pls portal
 [logs/05-04-21.txt, 2021-04-05 05:48:46]: ***  [, Level 0]: '(1)σмєтнιηg' changed name to 'σмєтнιηg'
+[logs/05-04-21.txt, 2021-04-05 05:49:03]: ***  [, Level 0]: Vodo4ka's killing spree was ended by keø (8 blocks)
+[logs/05-04-21.txt, 2021-04-05 05:49:04]: ♫Amirian♬ [, Level 0]: x7|FayZoR: pls portal
