@@ -14830,3 +14830,7 @@
 [logs/04-04-21.txt, 2021-04-04 22:32:40]: (3)SAUD [, Level 8]: i can easily fake that im ERROR  and have war with every single one of this server
 [logs/04-04-21.txt, 2021-04-04 22:32:52]: PoliceTee [xSD7, Level 10]: at chillitee i got 525 Xdd
 [logs/04-04-21.txt, 2021-04-04 22:32:55]: Boti. [.bad, Level 27]: WHAT
+[logs/04-04-21.txt, 2021-04-04 22:33:00]: Boti. [.bad, Level 27]: can i have sum
+[logs/04-04-21.txt, 2021-04-04 22:33:02]: Boti. [.bad, Level 27]: c:
+[logs/04-04-21.txt, 2021-04-04 22:33:05]: PoliceTee [xSD7, Level 10]: Boti.: 525 not k
+[logs/04-04-21.txt, 2021-04-04 22:33:07]: PoliceTee [xSD7, Level 10]: Boti.: just 525
