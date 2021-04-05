@@ -12961,3 +12961,4 @@
 [2021-04-05 13:51:29]: Kirito♥ [♥, Level 24]: ERROR: nooooo baby noooo
 [2021-04-05 13:51:38]: ***  [, Level 0]: GOLD is on a killing spree with 5 blocks
 [2021-04-05 13:51:40]: (2)Kirito♥ [♥, Level 35]: ERROR: ez wayblock
+[2021-04-05 13:51:43]: ERROR. [404, Level 74]: ez
