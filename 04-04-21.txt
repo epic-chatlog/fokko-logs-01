@@ -15135,3 +15135,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:12:47]: BulgarianTee [xSD7, Level 38]: for math simplisity
 [logs/04-04-21.txt, 2021-04-04 23:13:05]: BulgarianTee [xSD7, Level 38]: 100000/350 = 10000/35 = 2000/7 minutes
 [logs/04-04-21.txt, 2021-04-04 23:13:17]: (1)SAUD [, Level 16]: wtf
+[logs/04-04-21.txt, 2021-04-04 23:13:25]: (1)SAUD [, Level 16]: till me a number
+[logs/04-04-21.txt, 2021-04-04 23:13:30]: (1)SAUD [, Level 16]: 100000?
