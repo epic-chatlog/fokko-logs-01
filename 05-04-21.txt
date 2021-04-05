@@ -4530,3 +4530,8 @@
 [logs/05-04-21.txt, 2021-04-05 05:01:37]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: rage ? :D
 [logs/05-04-21.txt, 2021-04-05 05:01:40]: Nudelsaft c: [PoopinLads, Level 37]: u
 [logs/05-04-21.txt, 2021-04-05 05:01:47]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: nope im chill
+[logs/05-04-21.txt, 2021-04-05 05:01:52]: cookie [, Level 16]: ♫Amirian♬:  if you done can you help me im dead
+[logs/05-04-21.txt, 2021-04-05 05:01:53]: Nudelsaft c: [PoopinLads, Level 37]: sure
+[logs/05-04-21.txt, 2021-04-05 05:02:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[logs/05-04-21.txt, 2021-04-05 05:02:00]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: yep
+[logs/05-04-21.txt, 2021-04-05 05:02:03]: Nudelsaft c: [PoopinLads, Level 37]: x7|FayZoR: u are chill, thats why u wish death to people hmmm
