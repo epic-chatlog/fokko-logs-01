@@ -3073,3 +3073,11 @@
 [logs/05-04-21.txt, 2021-04-05 03:31:07]: ***  [, Level 0]: 'STULEJA 3000' joined the game
 [logs/05-04-21.txt, 2021-04-05 03:31:08]: Virus [, Level 49]: Deadmouse: dame tu cosita
 [logs/05-04-21.txt, 2021-04-05 03:31:10]:   [, Level 0]: delta: yes
+[logs/05-04-21.txt, 2021-04-05 03:31:17]: ***  [, Level 0]: 'keø' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:31:18]: ***  [, Level 0]: 'x7|zemer' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:31:19]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:31:20]: ***  [, Level 0]: 'keø' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:31:20]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:31:21]: »Amirian YA« [YAMIRIANA�, Level 0]: delta: you play gamerclient? lol im too (:
+[logs/05-04-21.txt, 2021-04-05 03:31:22]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:31:27]:   [, Level 0]: delta: »Amirian YA«: nice
