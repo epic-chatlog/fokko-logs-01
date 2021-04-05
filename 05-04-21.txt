@@ -3206,3 +3206,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:39:12]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 03:39:13]: ***  [, Level 0]: 'SlerTz.' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:39:15]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:39:27]: BulgarianTee [CleanUpCrew, Level 38]: Virus: u r like 15 or 16 liar
