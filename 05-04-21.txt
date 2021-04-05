@@ -9380,3 +9380,7 @@
 [2021-04-05 09:59:37]: ***  [, Level 0]: 'RoberGN' entered and joined the game
 [2021-04-05 09:59:47]: ***  [, Level 0]: 'coekie' entered and joined the game
 [2021-04-05 09:59:50]: BC|kakashi [BC, Level 26]: iMxtteo: bye
+[2021-04-05 09:59:54]: iMxtteo [, Level 26]: bye
+[2021-04-05 09:59:56]: Swarfey [FookinLads, Level 37]: (1)kais: doesnt work anymore
+[2021-04-05 10:00:02]: (1)kais [, Level 58]: Swarfey: ik
+[2021-04-05 10:00:04]: ***  [, Level 0]: (1)Kirito is on a killing spree with 5 blocks
