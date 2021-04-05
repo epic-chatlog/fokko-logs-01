@@ -3499,3 +3499,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:03:37]: ***  [, Level 0]: 'ulrich' has left the game
 [logs/05-04-21.txt, 2021-04-05 04:03:45]:   [, Level 0]: Shiro.: loser
 [logs/05-04-21.txt, 2021-04-05 04:03:48]: Kirito [♥, Level 35]: Shiro.: ohayo?
+[logs/05-04-21.txt, 2021-04-05 04:03:51]: ***  [, Level 0]: Sky`iPro is on a killing spree with 5 blocks
+[logs/05-04-21.txt, 2021-04-05 04:03:53]: Kirito [♥, Level 35]: Shiro.: it is 2 pm
+[logs/05-04-21.txt, 2021-04-05 04:03:54]: BC|kakashi [BC, Level 26]: Shiro.: HELP
+[logs/05-04-21.txt, 2021-04-05 04:03:56]:   [, Level 0]: BC|Tixnix: Shiro.: say the loser
