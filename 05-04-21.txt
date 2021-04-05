@@ -14050,3 +14050,5 @@
 [2021-04-05 15:41:30]: hmmmmmm [, Level 8]: il meut dit wallet 0
 [2021-04-05 15:41:35]: Shiro. [404, Level 42]: j'avait donné 950k en plus XD
 [2021-04-05 15:41:45]: x7|FayZoR [xSD7, Level 42]: hmmmmmm: alors fait /money drop 200 pour voir
+[2021-04-05 15:41:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-05 15:42:01]: KriegInCome ♥ [♥, Level 15]: Shiro.: ?
