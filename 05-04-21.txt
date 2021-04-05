@@ -4782,3 +4782,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:34:03]:   [, Level 0]: (1)P4Pyr0s: P4Pyr0s: faker
 [logs/05-04-21.txt, 2021-04-05 05:34:03]: (1)kais [, Level 58]: ERROR.: u slow
 [logs/05-04-21.txt, 2021-04-05 05:34:09]: (1)kais [, Level 58]: ERROR.: take both if u want xD
+[logs/05-04-21.txt, 2021-04-05 05:34:12]: wαrнαммer [, Level 26]: am ded
+[logs/05-04-21.txt, 2021-04-05 05:34:13]: (1)kais [, Level 58]: ERROR.: i just want kill him
+[logs/05-04-21.txt, 2021-04-05 05:34:13]: ERROR [404, Level 56]: no just need one
+[logs/05-04-21.txt, 2021-04-05 05:34:16]: ERROR [404, Level 56]: kk xddd
