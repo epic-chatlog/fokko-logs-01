@@ -8183,3 +8183,6 @@
 [2021-04-05 09:05:26]: Isegrin [, Level 54]: ERROR: NOBO
 [2021-04-05 09:05:29]:   [, Level 0]: ₯-Akuma-'♥': any:
 [2021-04-05 09:05:33]: ***  [, Level 0]: ChillerDragon is on a killing spree with 5 blocks
+[2021-04-05 09:05:35]:   [, Level 0]: ₯-Akuma-'♥': any:  i have a question
+[2021-04-05 09:05:42]: ***  [, Level 0]: 'ᅟᅟᅟ' has left the game (Timeout)
+[2021-04-05 09:05:42]: ***  [, Level 0]: 's6_sven' has left the game (Timeout)
