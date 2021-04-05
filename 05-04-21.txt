@@ -1279,3 +1279,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:19:56]: Hady [new bot, Level 0]: SAUD:  hla
 [logs/05-04-21.txt, 2021-04-05 01:20:00]: Vodo4ka [JB.st, Level 41]: weqe: ....
 [logs/05-04-21.txt, 2021-04-05 01:20:01]: SAUD [, Level 0]: Hady:  hla
+[logs/05-04-21.txt, 2021-04-05 01:20:02]: comic [comically, Level 13]: el champeon: imma go full pursuit on you >:)
+[logs/05-04-21.txt, 2021-04-05 01:20:02]: ***  [, Level 0]: comic's killing spree was ended by el champeon (11 blocks)
+[logs/05-04-21.txt, 2021-04-05 01:20:07]: weqe [MNKY, Level 11]: Vodo4ka: sorry bro but Boti. is my brother
+[logs/05-04-21.txt, 2021-04-05 01:20:12]: Vodo4ka [JB.st, Level 41]: weqe: or u dog
