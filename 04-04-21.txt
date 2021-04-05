@@ -15107,3 +15107,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:08:12]: (3)SAUD [, Level 8]: np
 [logs/04-04-21.txt, 2021-04-04 23:08:32]: (3)SAUD [, Level 8]: may i ask u
 [logs/04-04-21.txt, 2021-04-04 23:08:37]: (3)SAUD [, Level 8]: where r u from
+[logs/04-04-21.txt, 2021-04-04 23:08:40]: BulgarianTee [xSD7, Level 38]: bulgaria XD
+[logs/04-04-21.txt, 2021-04-04 23:08:44]: (3)SAUD [, Level 8]: xD
