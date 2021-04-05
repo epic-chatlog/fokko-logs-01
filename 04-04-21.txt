@@ -14680,3 +14680,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:15:14]: Boti. [.bad, Level 32]: april 30 when i started tw and first time played
 [logs/04-04-21.txt, 2021-04-04 22:15:16]: PoliceTee [xSD7, Level 0]: did you join while 0.7 or while 0.6?
 [logs/04-04-21.txt, 2021-04-04 22:15:16]: Boti. [.bad, Level 32]: 2020
+[logs/04-04-21.txt, 2021-04-04 22:15:22]: Boti. [.bad, Level 32]: 2020 april 30
+[logs/04-04-21.txt, 2021-04-04 22:15:25]: Boti. [.bad, Level 32]: first time in game
+[logs/04-04-21.txt, 2021-04-04 22:15:28]: PoliceTee [xSD7, Level 0]: WTF
