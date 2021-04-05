@@ -11928,3 +11928,4 @@
 [2021-04-05 12:22:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-05 12:22:36]: ***  [, Level 0]: 'Keø' entered and joined the game
 [2021-04-05 12:22:36]: mamikral011 [, Level 21]: yanarım yanarım ateşlerde
+[2021-04-05 12:22:50]: ***  [, Level 0]: 'WarHammer' entered and joined the game
