@@ -92,3 +92,8 @@
 [logs/05-04-21.txt, 2021-04-05 00:10:49]: BulgarianTee [xSD7, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 00:10:51]: BulgarianTee [xSD7, Level 38]: STOP
 [logs/05-04-21.txt, 2021-04-05 00:10:52]: BulgarianTee [xSD7, Level 38]: GAYS AF
+[logs/05-04-21.txt, 2021-04-05 00:10:56]: oyun krallı [, Level 11]: clonun
+[logs/05-04-21.txt, 2021-04-05 00:11:00]: Vodo4ka [JB.st, Level 41]: E
+[logs/05-04-21.txt, 2021-04-05 00:11:00]: BulgarianTee [xSD7, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 00:11:04]: GODLIKe. [GANG, Level 39]: ı have ping rq bye
+[logs/05-04-21.txt, 2021-04-05 00:11:05]: wαrнαммer [, Level 26]: 500
