@@ -2257,3 +2257,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:17:42]: BulgarianTee [CleanUpCrew, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 02:17:48]: BulgarianTee [CleanUpCrew, Level 38]: chiller stack
 [logs/05-04-21.txt, 2021-04-05 02:17:54]: x7|FayZoR [xSD7, Level 42]: 60ms
+[logs/05-04-21.txt, 2021-04-05 02:17:57]: BulgarianTee [CleanUpCrew, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 02:17:58]: Fearless [FookinLads, Level 40]: Tixnix:  nigger
