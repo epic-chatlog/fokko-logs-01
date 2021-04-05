@@ -1849,3 +1849,9 @@
 [logs/05-04-21.txt, 2021-04-05 01:51:51]: Hady [new bot, Level 33]: BulgarianTee:  eat me
 [logs/05-04-21.txt, 2021-04-05 01:51:53]: comic [comically, Level 13]: el champeon: ile just stalk you
 [logs/05-04-21.txt, 2021-04-05 01:51:55]: BulgarianTee [xSD7, Level 38]: Hady: no thx
+[logs/05-04-21.txt, 2021-04-05 01:51:58]: ***  [, Level 0]: 'Anky' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:51:59]: Hady [new bot, Level 33]: BulgarianTee: ok
+[logs/05-04-21.txt, 2021-04-05 01:51:59]: x7|FayZoR [xSD7, Level 42]: kais: tu entend le son du spike que fait ton tee avant de mourir ?
+[logs/05-04-21.txt, 2021-04-05 01:52:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[logs/05-04-21.txt, 2021-04-05 01:52:06]: BulgarianTee [xSD7, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 01:52:08]: kais [, Level 65]: x7|FayZoR: non, je joue sans sons
