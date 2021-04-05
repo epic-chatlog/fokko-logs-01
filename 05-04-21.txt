@@ -2708,3 +2708,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:57:00]: ***  [, Level 0]: 'aXe:/' changed name to 'keø'
 [logs/05-04-21.txt, 2021-04-05 02:57:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [logs/05-04-21.txt, 2021-04-05 02:57:02]: Fearless [FookinLads, Level 40]: ~DemoizL~:  give me taser ammo
+[logs/05-04-21.txt, 2021-04-05 02:57:32]: Fearless [FookinLads, Level 40]: ~DemoizL~:  give taser ammo
+[logs/05-04-21.txt, 2021-04-05 02:57:35]: ~DemoizL~ [, Level 39]: Fearless: no
+[logs/05-04-21.txt, 2021-04-05 02:57:38]: Fearless [FookinLads, Level 40]: ~DemoizL~:  ye give
