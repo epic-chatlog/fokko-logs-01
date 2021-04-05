@@ -4893,3 +4893,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:42:09]: S Y T H N [iPro, Level 0]: wtf
 [logs/05-04-21.txt, 2021-04-05 05:42:12]: Vodo4ka [JB.st, Level 41]: ChillerDragon:
 [logs/05-04-21.txt, 2021-04-05 05:42:13]: ERROR. [404, Level 73]: ez
+[logs/05-04-21.txt, 2021-04-05 05:42:19]: ***  [, Level 0]: 'HeavyGeneral' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:42:25]: ERROR. [404, Level 73]: heavy yo
+[logs/05-04-21.txt, 2021-04-05 05:42:31]: Vodo4ka [JB.st, Level 41]: HeavyGeneral qq
+[logs/05-04-21.txt, 2021-04-05 05:42:32]: S Y T H N [iPro, Level 0]: ERROR: ich mache normale race bin fertig und dereckt  jet danke
