@@ -1807,3 +1807,9 @@
 [logs/05-04-21.txt, 2021-04-05 01:49:04]: Kirito [Chilli.*, Level 34]: kais: okay :D
 [logs/05-04-21.txt, 2021-04-05 01:49:11]: Kirito [Chilli.*, Level 34]: el champeon: wanna peace or ??
 [logs/05-04-21.txt, 2021-04-05 01:49:14]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:49:15]: Kirito [Chilli.*, Level 34]: el champeon: oh no
+[logs/05-04-21.txt, 2021-04-05 01:49:15]: [D] Leblebi [, Level 18]: Cylox.: ben eski oyuncuyum geri döndüm tw ye
+[logs/05-04-21.txt, 2021-04-05 01:49:19]: ***  [, Level 0]: 'nameless tee' has left the game
+[logs/05-04-21.txt, 2021-04-05 01:49:22]: kais [, Level 65]: (1)Kirito: don't kill Leblebi, i don't kill your friend because they help u
+[logs/05-04-21.txt, 2021-04-05 01:49:23]: ***  [, Level 0]: 'Fearless' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:49:25]: Kirito [Chilli.*, Level 34]: el champeon: dude
