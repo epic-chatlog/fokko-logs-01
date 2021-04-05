@@ -340,3 +340,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:29:15]: BulgarianTee [xSD7, Level 38]: Vodo4ka: and chill
 [logs/05-04-21.txt, 2021-04-05 00:29:15]: Vodo4ka [JB.st, Level 41]: FAK U
 [logs/05-04-21.txt, 2021-04-05 00:29:19]: Vodo4ka [JB.st, Level 41]: 300
+[logs/05-04-21.txt, 2021-04-05 00:29:22]: weqe [MNKY, Level 11]: Vodo4ka: u do this we ognna have war4ever bro
+[logs/05-04-21.txt, 2021-04-05 00:29:24]: weqe [MNKY, Level 11]: u sure u want it
