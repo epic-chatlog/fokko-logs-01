@@ -4144,3 +4144,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:37:14]: ***  [, Level 0]: 'SAUD' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 04:37:21]: ***  [, Level 0]: 'gian x' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 04:37:39]: BulgarianTee [CleanUpCrew, Level 38]: weqe: LET ME MOVE HIM
+[logs/05-04-21.txt, 2021-04-05 04:37:43]: ***  [, Level 0]: 'gian x' joined the game
+[logs/05-04-21.txt, 2021-04-05 04:37:44]: kais [, Level 65]: Shiro.: oui ?
+[logs/05-04-21.txt, 2021-04-05 04:37:50]: ReXi´s Bitch [, Level 0]: (2)1:
+[logs/05-04-21.txt, 2021-04-05 04:37:50]: MieSlime [FookinLads, Level 43]: weqe:  ok so now i can kill u
