@@ -4664,3 +4664,9 @@
 [logs/05-04-21.txt, 2021-04-05 05:22:58]: MieSlime [FookinLads, Level 43]: no i don't
 [logs/05-04-21.txt, 2021-04-05 05:23:06]: MieSlime [FookinLads, Level 43]: what is ur name ? ??
 [logs/05-04-21.txt, 2021-04-05 05:23:29]: MieSlime [FookinLads, Level 43]: what is ur name ? ??!!!!!
+[logs/05-04-21.txt, 2021-04-05 05:23:39]: MieSlime [FookinLads, Level 43]: mami:  what is the name of this guy ?
+[logs/05-04-21.txt, 2021-04-05 05:23:43]: mami [, Level 0]: MieSlime:  idk
+[logs/05-04-21.txt, 2021-04-05 05:23:46]: Kezo [FookinLads, Level 41]: noname
+[logs/05-04-21.txt, 2021-04-05 05:23:50]: ᅟᅟᅟ [, Level 0]: wtf
+[logs/05-04-21.txt, 2021-04-05 05:23:50]: MieSlime [FookinLads, Level 43]: mami:  see there are no name ?
+[logs/05-04-21.txt, 2021-04-05 05:23:52]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
