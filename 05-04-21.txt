@@ -2503,3 +2503,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:35:43]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:35:44]: Fearless [FookinLads, Level 40]: x7|FayZoR:  when u learn to play
 [logs/05-04-21.txt, 2021-04-05 02:35:47]: Noémi[Đ] [citrom, Level 32]: Fearless: mit? xd
+[logs/05-04-21.txt, 2021-04-05 02:35:49]: BulgarianTee [CleanUpCrew, Level 38]: YelloWorlD: bruh u r a boomer get a good net pls
+[logs/05-04-21.txt, 2021-04-05 02:35:54]: Fearless [FookinLads, Level 40]: Noémi[Đ]:  hogy deepbe vagy
+[logs/05-04-21.txt, 2021-04-05 02:35:59]: Noémi[Đ] [citrom, Level 32]: Fearless: [D] BC|Tixnix blockolt le
