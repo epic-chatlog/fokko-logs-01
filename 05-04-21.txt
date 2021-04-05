@@ -1747,3 +1747,4 @@
 [logs/05-04-21.txt, 2021-04-05 01:44:19]: [D] Leblebi [, Level 18]: grenade
 [logs/05-04-21.txt, 2021-04-05 01:44:24]: Kirito [Chilli.*, Level 34]: Cylox:
 [logs/05-04-21.txt, 2021-04-05 01:44:28]: Kirito [Chilli.*, Level 34]: Cylox: x7|FayZoR down pls
+[logs/05-04-21.txt, 2021-04-05 01:44:38]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: yeah but i don't like him, he helped kais when i have win
