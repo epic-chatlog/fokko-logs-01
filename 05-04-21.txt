@@ -4535,3 +4535,8 @@
 [logs/05-04-21.txt, 2021-04-05 05:02:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [logs/05-04-21.txt, 2021-04-05 05:02:00]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: yep
 [logs/05-04-21.txt, 2021-04-05 05:02:03]: Nudelsaft c: [PoopinLads, Level 37]: x7|FayZoR: u are chill, thats why u wish death to people hmmm
+[logs/05-04-21.txt, 2021-04-05 05:02:05]: Nudelsaft c: [PoopinLads, Level 37]: XD
+[logs/05-04-21.txt, 2021-04-05 05:02:08]: ***  [, Level 0]: 'Lucas' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:02:12]: ♫Amirian♬ [, Level 29]: cookie: wait
+[logs/05-04-21.txt, 2021-04-05 05:02:12]: ***  [, Level 0]: (2)1 finished in: 6 minute(s) 36.10 second(s)
+[logs/05-04-21.txt, 2021-04-05 05:02:16]: cookie [, Level 16]: ♫Amirian♬:  yes
