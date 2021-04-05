@@ -3320,3 +3320,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:49:52]:   [, Level 0]: Foxie♥: Kirito: xd
 [logs/05-04-21.txt, 2021-04-05 03:50:04]:   [, Level 0]: Foxie♥: Kirito: u like my colors?
 [logs/05-04-21.txt, 2021-04-05 03:50:06]: BulgarianTee [CleanUpCrew, Level 38]: Isegrin: WTFFF
+[logs/05-04-21.txt, 2021-04-05 03:50:18]: Kirito [♥, Level 35]: Foxie♥: i love it wait i let u in
+[logs/05-04-21.txt, 2021-04-05 03:50:25]: Isegrin [, Level 54]: BulgarianTee: BULGARIAN PIDAAR
