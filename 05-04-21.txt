@@ -3333,3 +3333,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:51:09]: Isegrin [, Level 54]: BulgarianTee: prand mein bruer
 [logs/05-04-21.txt, 2021-04-05 03:51:12]: Isegrin [, Level 54]: BulgarianTee: bruder
 [logs/05-04-21.txt, 2021-04-05 03:51:14]:   [, Level 0]: Foxi♥: Kirito: What
+[logs/05-04-21.txt, 2021-04-05 03:51:40]: ***  [, Level 0]: 'Foxi♥' has left the game
