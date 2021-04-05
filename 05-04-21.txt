@@ -747,3 +747,4 @@
 [logs/05-04-21.txt, 2021-04-05 00:52:55]: ***  [, Level 0]: 'R2D2' has left the game
 [logs/05-04-21.txt, 2021-04-05 00:52:55]: ***  [, Level 0]: 'Wheels.' has left the game
 [logs/05-04-21.txt, 2021-04-05 00:52:59]: (1)kais [, Level 58]: BulgarianTee: this is my anti-bulgariantee
+[logs/05-04-21.txt, 2021-04-05 00:53:10]: (1)kais [, Level 58]: BulgarianTee: it work so well xD
