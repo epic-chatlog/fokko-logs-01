@@ -376,3 +376,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:32:10]: ***  [, Level 0]: 'Kirito' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 00:32:14]: ***  [, Level 0]: 'Kirito' joined the game
 [logs/05-04-21.txt, 2021-04-05 00:32:15]: (1)kais [, Level 58]: weqe: he'll come to me
+[logs/05-04-21.txt, 2021-04-05 00:32:23]: Kirito [♥, Level 34]: kais: bad lure
+[logs/05-04-21.txt, 2021-04-05 00:32:25]: weqe [MNKY, Level 11]: i will defend you (1)kais
+[logs/05-04-21.txt, 2021-04-05 00:32:27]: weqe [MNKY, Level 11]: dont worry baby
