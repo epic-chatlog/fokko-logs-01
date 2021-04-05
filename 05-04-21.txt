@@ -919,3 +919,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:03:14]: weqe [MNKY, Level 11]: kais: thats why i love you !!
 [logs/05-04-21.txt, 2021-04-05 01:03:14]: el champeon [, Level 0]: comic: you started you killed my bot friend flappy
 [logs/05-04-21.txt, 2021-04-05 01:03:19]: kais [, Level 65]: BulgarianTee: xD
+[logs/05-04-21.txt, 2021-04-05 01:03:26]: comic [comically, Level 13]: el champeon: thats
+[logs/05-04-21.txt, 2021-04-05 01:03:28]: Asta [FookinLads, Level 40]: el champeon:  flappy  is my dog
+[logs/05-04-21.txt, 2021-04-05 01:03:29]: kais [, Level 65]: KG | Kirito: nice clan
