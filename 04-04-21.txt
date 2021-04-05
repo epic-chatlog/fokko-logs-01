@@ -15403,3 +15403,7 @@
 [logs/04-04-21.txt, 2021-04-04 23:40:17]: Vodo4ka [JB.st, Level 41]: PRO
 [logs/04-04-21.txt, 2021-04-04 23:40:21]: BulgarianTee [xSD7, Level 38]: E
 [logs/04-04-21.txt, 2021-04-04 23:40:21]: Vodo4ka [JB.st, Level 41]: E
+[logs/04-04-21.txt, 2021-04-04 23:40:26]: BulgarianTee [xSD7, Level 38]: FAKU
+[logs/04-04-21.txt, 2021-04-04 23:40:31]: Vodo4ka [JB.st, Level 41]: E
+[logs/04-04-21.txt, 2021-04-04 23:40:33]: Vodo4ka [JB.st, Level 41]: A
+[logs/04-04-21.txt, 2021-04-04 23:40:36]: BulgarianTee [xSD7, Level 38]: AAAAA E
