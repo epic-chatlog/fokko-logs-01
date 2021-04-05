@@ -3002,3 +3002,10 @@
 [logs/05-04-21.txt, 2021-04-05 03:26:46]: ***  [, Level 0]: GOLD is on a killing spree with 5 blocks
 [logs/05-04-21.txt, 2021-04-05 03:26:47]: ***  [, Level 0]: 'Wheels.' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:26:52]: Rock [, Level 18]: ManniK: )
+[logs/05-04-21.txt, 2021-04-05 03:26:59]: ***  [, Level 0]: '(1)ManniK' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:27:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[logs/05-04-21.txt, 2021-04-05 03:27:01]: BulgarianTee [CleanUpCrew, Level 38]: XD
+[logs/05-04-21.txt, 2021-04-05 03:27:03]: ***  [, Level 0]: 'NetFlix' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:27:04]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:27:05]: ***  [, Level 0]: 'ImRussia822' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:27:09]: ***  [, Level 0]: 'STULEJA 3000' joined the game
