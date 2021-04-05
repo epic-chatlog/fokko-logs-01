@@ -6187,3 +6187,11 @@
 [2021-04-05 07:00:35]: ♫Amirian♬ [, Level 29]: ✯ |toxicdaddy:
 [2021-04-05 07:00:35]: iMxtteo [, Level 26]: SlerTz.♥: what do you mean
 [2021-04-05 07:00:40]:   [, Level 0]: (1)P4Pyr0s: [D]xD sry iMxtteo
+[2021-04-05 07:00:45]: ♫Amirian♬. [, Level 23]: ✯ |toxicdaddy:
+[2021-04-05 07:00:51]: Foxie♥ [♥, Level 35]: Kirito: u want to play?
+[2021-04-05 07:00:51]: ←   [, Level 0]: player_clan ""
+[2021-04-05 07:00:52]: → Nudelsaft c: [PoopinLads, Level 60]: executed following command: player_clan ""
+[2021-04-05 07:00:53]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
+[2021-04-05 07:00:55]: ←   [, Level 0]: dummy_clan ""
+[2021-04-05 07:00:55]: ♫Amirian♬. [, Level 23]: ✯ |toxicdaddy: noo
+[2021-04-05 07:00:55]: → Nudelsaft c: [PoopinLads, Level 60]: executed following command: dummy_clan ""
