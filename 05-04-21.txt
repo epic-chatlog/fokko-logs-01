@@ -2551,3 +2551,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:39:19]: Fearless [FookinLads, Level 40]: falkenauge:  they have portal why u help dogs
 [logs/05-04-21.txt, 2021-04-05 02:39:25]: Fearless [FookinLads, Level 40]: falkenauge:  but if u dont want police idc
 [logs/05-04-21.txt, 2021-04-05 02:39:35]: ***  [, Level 0]: '7~Danci' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:39:52]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:39:53]: ***  [, Level 0]: 'cute tee' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:39:55]: ***  [, Level 0]: 'GOLD' entered and joined the game
