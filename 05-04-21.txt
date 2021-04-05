@@ -2210,3 +2210,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:13:54]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:13:59]: (1)SAUD [, Level 22]: sry comic
 [logs/05-04-21.txt, 2021-04-05 02:13:59]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: you got this right? i dont need come with dummy :D
+[logs/05-04-21.txt, 2021-04-05 02:14:05]: comic [comically, Level 13]: (1)SAUD: <3
+[logs/05-04-21.txt, 2021-04-05 02:14:10]: ***  [, Level 0]: 'ZEWO' would have timed out, but can use timeout protection now
+[logs/05-04-21.txt, 2021-04-05 02:14:10]: ***  [, Level 0]: 'ZEWO's dummy' would have timed out, but can use timeout protection now
