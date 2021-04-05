@@ -2278,3 +2278,4 @@
 [logs/05-04-21.txt, 2021-04-05 02:19:55]: BulgarianTee [CleanUpCrew, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 02:20:05]: x7|FayZoR [xSD7, Level 42]: can't play with 50ms
 [logs/05-04-21.txt, 2021-04-05 02:20:06]: BulgarianTee [CleanUpCrew, Level 38]: this ghost is annoying he targets me D:
+[logs/05-04-21.txt, 2021-04-05 02:20:16]: ***  [, Level 0]: Fearless is on a killing spree with 5 blocks
