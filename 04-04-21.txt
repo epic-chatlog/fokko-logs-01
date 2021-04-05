@@ -14578,3 +14578,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:01:39]: weqe [MNKY, Level 11]: i cant
 [logs/04-04-21.txt, 2021-04-04 22:01:41]: weqe [MNKY, Level 11]: so hard
 [logs/04-04-21.txt, 2021-04-04 22:01:53]: weqe [MNKY, Level 11]: flappy: we love u ok
+[logs/04-04-21.txt, 2021-04-04 22:02:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[logs/04-04-21.txt, 2021-04-04 22:02:01]: PoliceTee [xSD7, Level 0]: weqe: when you do it like 30 times like me, you will learn it Xdd
+[logs/04-04-21.txt, 2021-04-04 22:02:09]: PoliceTee [xSD7, Level 0]: E
