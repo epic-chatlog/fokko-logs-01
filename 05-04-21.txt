@@ -329,3 +329,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:28:23]: weqe [MNKY, Level 11]: poka !!
 [logs/05-04-21.txt, 2021-04-05 00:28:30]: Vodo4ka [JB.st, Level 41]: :D
 [logs/05-04-21.txt, 2021-04-05 00:28:30]: weqe [MNKY, Level 11]: poka !!
+[logs/05-04-21.txt, 2021-04-05 00:28:31]: ***  [, Level 0]: 'Asta' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:28:41]: Vodo4ka [JB.st, Level 41]: OMG
