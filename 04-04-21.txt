@@ -14250,3 +14250,8 @@
 [logs/04-04-21.txt, 2021-04-04 18:08:48]: ***  [, Level 0]: 'nkil' joined the spectators
 [logs/04-04-21.txt, 2021-04-04 18:08:52]: ***  [, Level 0]: 'nkil' joined the game
 [logs/04-04-21.txt, 2021-04-04 18:09:24]: x7|FayZoR [xSD7, Level 42]: (1)Mr.KshKsh99: XD see nudeisaft changed name for me and u xD
+[logs/04-04-21.txt, 2021-04-04 18:09:33]: ***  [, Level 0]: 'nkil' changed name to 'Swarfey'
+[logs/04-04-21.txt, 2021-04-04 18:09:33]: ***  [, Level 0]: 'likn' changed name to 'Nudelsaft c:'
+[logs/04-04-21.txt, 2021-04-04 18:09:34]: x7|KshKsh99 [xSD7, Level 37]: XD
+[logs/04-04-21.txt, 2021-04-04 18:09:35]: Nudelsaft c: [FookinLads, Level 37]: ups
+[logs/04-04-21.txt, 2021-04-04 18:09:40]: Nudelsaft c: [FookinLads, Level 37]: XD
