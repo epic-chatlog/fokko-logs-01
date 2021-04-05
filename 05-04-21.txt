@@ -14,3 +14,4 @@
 [logs/05-04-21.txt, 2021-04-05 00:01:30]: wαrнαммer [, Level 26]: 2x pro
 [logs/05-04-21.txt, 2021-04-05 00:01:35]: BulgarianTee [xSD7, Level 38]: XD
 [logs/05-04-21.txt, 2021-04-05 00:01:36]: GODLIKe. [GANG, Level 0]: BulgarianTee: spec me look 500 iq tactic
+[logs/05-04-21.txt, 2021-04-05 00:02:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
