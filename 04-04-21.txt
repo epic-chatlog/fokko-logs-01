@@ -14974,3 +14974,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:52:29]: (3)SAUD [, Level 8]: no ill do it
 [logs/04-04-21.txt, 2021-04-04 22:52:47]: BulgarianTee [xSD7, Level 38]: XD
 [logs/04-04-21.txt, 2021-04-04 22:52:49]: SAUD [, Level 22]: i did it
+[logs/04-04-21.txt, 2021-04-04 22:54:06]: ***  [, Level 0]: BulgarianTee finished in: 0 minute(s) 50.26 second(s)
+[logs/04-04-21.txt, 2021-04-04 22:54:06]: ***  [, Level 0]: New record: 1 minute(s) 44.70 second(s) better.
