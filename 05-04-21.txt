@@ -3178,3 +3178,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:37:03]: BulgarianTee [CleanUpCrew, Level 38]: Shiro.: was mb im garbage d:
 [logs/05-04-21.txt, 2021-04-05 03:37:05]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:37:09]: ***  [, Level 0]: '(2)oyun krallı' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:37:12]:   [, Level 0]: HeavyGeneral: Pizda Mysor xaxa0))
+[logs/05-04-21.txt, 2021-04-05 03:37:13]: ***  [, Level 0]: 'delta' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:37:22]: ***  [, Level 0]: 'SAUD' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:37:22]: ***  [, Level 0]: '(1)SAUD' has left the game
