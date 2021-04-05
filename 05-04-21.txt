@@ -1685,3 +1685,9 @@
 [logs/05-04-21.txt, 2021-04-05 01:41:17]: BulgarianTee [xSD7, Level 38]: kais: u just bad
 [logs/05-04-21.txt, 2021-04-05 01:41:17]: ***  [, Level 0]: 'Royal' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:41:18]: oyun krallı [, Level 11]: KNK BUG TAKİLRİNİ ÖLDÜREKMİ
+[logs/05-04-21.txt, 2021-04-05 01:41:19]: x7|FayZoR [xSD7, Level 42]: Hady: no, and if that true u help a ennemi
+[logs/05-04-21.txt, 2021-04-05 01:41:20]: Leblebi [, Level 23]: Kirito: ok i help you
+[logs/05-04-21.txt, 2021-04-05 01:41:20]: kais [, Level 65]: BulgarianTee: xD
+[logs/05-04-21.txt, 2021-04-05 01:41:23]: BulgarianTee [xSD7, Level 38]: kais: war
+[logs/05-04-21.txt, 2021-04-05 01:41:30]: oyun krallı [, Level 11]: KNK BUG TAKİLRİNİ ÖLDÜREKMİ
+[logs/05-04-21.txt, 2021-04-05 01:41:30]: Hady [new bot, Level 0]: x7|FayZoR:  who
