@@ -1040,3 +1040,10 @@
 [logs/05-04-21.txt, 2021-04-05 01:08:51]: SAUD [, Level 0]: taser gay MieSlime
 [logs/05-04-21.txt, 2021-04-05 01:08:51]: BulgarianTee [xSD7, Level 38]: MieSlime more like MadSlime
 [logs/05-04-21.txt, 2021-04-05 01:08:51]: comic [comically, Level 13]: SAUD: ?
+[logs/05-04-21.txt, 2021-04-05 01:08:53]: ***  [, Level 0]: 'MrHawkin' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:08:53]: comic [comically, Level 13]: SAUD: what
+[logs/05-04-21.txt, 2021-04-05 01:08:53]: SAUD [, Level 0]: not u comic
+[logs/05-04-21.txt, 2021-04-05 01:08:58]: Cylox [, Level 30]: flag
+[logs/05-04-21.txt, 2021-04-05 01:08:58]: comic [comically, Level 13]: SAUD: ok
+[logs/05-04-21.txt, 2021-04-05 01:09:00]: weqe [MNKY, Level 11]: kais: help ur brother
+[logs/05-04-21.txt, 2021-04-05 01:09:05]: MieSlime [FookinLads, Level 43]: Cylox:  ok xDD
