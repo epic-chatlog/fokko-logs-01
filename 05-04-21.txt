@@ -5198,3 +5198,7 @@
 [2021-04-05 06:03:34]: ***  [, Level 0]: [WARNING] You did not set security pin yet. Check '/pin' for more information.
 [2021-04-05 06:03:36]: Nudelsaft c: [PoopinLads, Level 0]: a
 [2021-04-05 06:03:36]: Nudelsaft c: [PoopinLads, Level 0]: a
+[2021-04-05 06:03:41]: Nudelsaft c: [PoopinLads, Level 0]: b
+[2021-04-05 06:03:41]: Nudelsaft c: [PoopinLads, Level 0]: b
+[2021-04-05 06:03:48]: ***  [, Level 0]: (1)kais is on a killing spree with 10 blocks
+[2021-04-05 06:03:48]: ***  [, Level 0]: (1)kais is on a killing spree with 10 blocks
