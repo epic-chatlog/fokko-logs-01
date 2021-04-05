@@ -4705,3 +4705,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:26:13]: [D] Sutzer [Guard, Level 0]: :I
 [logs/05-04-21.txt, 2021-04-05 05:26:29]: [D] ✯ |toxicd [|Supressed, Level 0]: Kezo:
 [logs/05-04-21.txt, 2021-04-05 05:26:44]: ***  [, Level 0]: 'Austria' changed name to '[D] P4Pyr0s'
+[logs/05-04-21.txt, 2021-04-05 05:26:47]: ***  [, Level 0]: '[D] P4Pyr0s' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:27:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
