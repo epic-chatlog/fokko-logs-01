@@ -4637,3 +4637,4 @@
 [logs/05-04-21.txt, 2021-04-05 05:19:53]: MieSlime [FookinLads, Level 43]: Vodo4ka:  don't touch |MıssOяchiĐ|
 [logs/05-04-21.txt, 2021-04-05 05:19:56]: MieSlime [FookinLads, Level 43]: Vodo4ka:  ok
 [logs/05-04-21.txt, 2021-04-05 05:20:21]: ***  [, Level 0]: 'MADZO' changed name to 'Kezo'
+[logs/05-04-21.txt, 2021-04-05 05:20:27]: ***  [, Level 0]: 'wαrнαммer' entered and joined the game
