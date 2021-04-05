@@ -15026,3 +15026,6 @@
 [logs/04-04-21.txt, 2021-04-04 23:01:16]: BulgarianTee [xSD7, Level 38]: fuck
 [logs/04-04-21.txt, 2021-04-04 23:01:20]: BulgarianTee [xSD7, Level 38]: XD
 [logs/04-04-21.txt, 2021-04-04 23:01:21]: (3)SAUD [, Level 8]: xDDDDDDD
+[logs/04-04-21.txt, 2021-04-04 23:01:50]: ***  [, Level 0]: BulgarianTee finished in: 0 minute(s) 43.22 second(s)
+[logs/04-04-21.txt, 2021-04-04 23:01:50]: (3)SAUD [, Level 8]: BulgarianTee:
+[logs/04-04-21.txt, 2021-04-04 23:01:51]: (3)SAUD [, Level 8]: xD
