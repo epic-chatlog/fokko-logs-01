@@ -8759,3 +8759,6 @@
 [2021-04-05 09:32:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-05 09:32:04]: Akuma ♥ [, Level 0]: ERROR:  i will do everything for egg god
 [2021-04-05 09:32:12]: Akuma ♥ [, Level 0]: Maatiteusz:
+[2021-04-05 09:32:22]: Akuma ♥ [, Level 0]: Maatiteusz:  he better
+[2021-04-05 09:32:27]: Isegrin [, Level 54]: Kezo: ENEEE
+[2021-04-05 09:32:29]:   [, Level 0]: Kezo: [D] ✯ |toxicd: ok
