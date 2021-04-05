@@ -14475,3 +14475,4 @@
 [logs/04-04-21.txt, 2021-04-04 20:10:35]: ***  [, Level 0]: 'Larifari' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 20:10:37]: ***  [, Level 0]: 'Hady' has left the game
 [logs/04-04-21.txt, 2021-04-04 20:12:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[logs/04-04-21.txt, 2021-04-04 20:17:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
