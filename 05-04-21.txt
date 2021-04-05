@@ -209,3 +209,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:17:54]: Vodo4ka [JB.st, Level 41]: weqe: poka
 [logs/05-04-21.txt, 2021-04-05 00:17:56]: weqe [MNKY, Level 11]: poka !!
 [logs/05-04-21.txt, 2021-04-05 00:18:14]: Vodo4ka [JB.st, Level 41]: weqe: TRAITOR POKA
+[logs/05-04-21.txt, 2021-04-05 00:18:22]: weqe [MNKY, Level 11]: Vodo4ka: >'
+[logs/05-04-21.txt, 2021-04-05 00:18:23]: weqe [MNKY, Level 11]: ???
