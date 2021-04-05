@@ -15220,3 +15220,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:21:52]: BulgarianTee [xSD7, Level 38]: rq
 [logs/04-04-21.txt, 2021-04-04 23:21:53]: SAUD [, Level 22]: xD
 [logs/04-04-21.txt, 2021-04-04 23:21:55]: BulgarianTee [xSD7, Level 38]: XDD
+[logs/04-04-21.txt, 2021-04-04 23:21:56]: Vodo4ka [JB.st, Level 41]: BulgarianTee: cringe farm in police
+[logs/04-04-21.txt, 2021-04-04 23:22:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
