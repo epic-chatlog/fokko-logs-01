@@ -5606,3 +5606,7 @@
 [2021-04-05 06:19:41]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-05 06:19:45]: ***  [, Level 0]: 'Koishi' entered and joined the game
 [2021-04-05 06:19:47]: ***  [, Level 0]: 'Koishi' has left the game
+[2021-04-05 06:19:52]: bob [Legacy™, Level 36]: keø: stop
+[2021-04-05 06:19:53]: bob [Legacy™, Level 36]: wait
+[2021-04-05 06:19:57]: bob [Legacy™, Level 36]: WQAIT
+[2021-04-05 06:19:59]: bob [Legacy™, Level 36]: kurwa
