@@ -1709,3 +1709,12 @@
 [logs/05-04-21.txt, 2021-04-05 01:42:17]: oyun krallı [, Level 11]: NİYE İLK SEN BASLATIN
 [logs/05-04-21.txt, 2021-04-05 01:42:17]: x7|FayZoR [xSD7, Level 42]: Hady: okay so don't help im in fight
 [logs/05-04-21.txt, 2021-04-05 01:42:20]: kais [, Level 65]: Leblebi: you want exit or stay here ?
+[logs/05-04-21.txt, 2021-04-05 01:42:23]: Hady [new bot, Level 0]: ok
+[logs/05-04-21.txt, 2021-04-05 01:42:23]: [D] Leblebi [, Level 18]: yes
+[logs/05-04-21.txt, 2021-04-05 01:42:28]: [D] Leblebi [, Level 18]: and i can help you
+[logs/05-04-21.txt, 2021-04-05 01:42:29]: Hady [new bot, Level 0]: iam not help any one
+[logs/05-04-21.txt, 2021-04-05 01:42:33]: x7|FayZoR [xSD7, Level 42]: Hady: proof u are x7
+[logs/05-04-21.txt, 2021-04-05 01:42:34]: kais [, Level 65]: Leblebi: yes exit or yes stay here ?
+[logs/05-04-21.txt, 2021-04-05 01:42:35]: ***  [, Level 0]: '(2)oyun krallı' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:42:38]: Kirito [Chilli.*, Level 34]: x7|FayZoR: hady is traitor he helped kais
+[logs/05-04-21.txt, 2021-04-05 01:42:38]: [D] Leblebi [, Level 18]: exit
