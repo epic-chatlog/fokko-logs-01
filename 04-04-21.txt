@@ -14540,3 +14540,4 @@
 [logs/04-04-21.txt, 2021-04-04 21:55:54]: weqe [MNKY, Level 11]: mee
 [logs/04-04-21.txt, 2021-04-04 21:55:59]: BulgarianTee [xSD7, Level 0]: POG
 [logs/04-04-21.txt, 2021-04-04 21:56:03]: BulgarianTee [xSD7, Level 0]: come police
+[logs/04-04-21.txt, 2021-04-04 21:56:12]: BulgarianTee [xSD7, Level 0]: my :(
