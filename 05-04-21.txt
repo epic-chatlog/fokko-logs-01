@@ -2325,3 +2325,9 @@
 [logs/05-04-21.txt, 2021-04-05 02:24:32]: Sutzer [Guard, Level 0]: got it from ph
 [logs/05-04-21.txt, 2021-04-05 02:24:43]: Sutzer [Guard, Level 0]: anyway
 [logs/05-04-21.txt, 2021-04-05 02:24:49]: BulgarianTee [CleanUpCrew, Level 38]: Sutzer: if you stayed neutral you could have come police now and we could fun-fight
+[logs/05-04-21.txt, 2021-04-05 02:24:58]: x7|FayZoR [xSD7, Level 42]: weqe: can't fight, i have 100ms
+[logs/05-04-21.txt, 2021-04-05 02:25:05]: BulgarianTee [CleanUpCrew, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 02:25:06]: Kirito [Chilli.*, Level 34]: BulgarianTee: <<
+[logs/05-04-21.txt, 2021-04-05 02:25:07]: BulgarianTee [CleanUpCrew, Level 38]: SHOTGUN GAEE
+[logs/05-04-21.txt, 2021-04-05 02:25:09]: Kirito [Chilli.*, Level 34]: x7|FayZoR: <<<
+[logs/05-04-21.txt, 2021-04-05 02:25:09]: [D] ✯ |toxicd [|Supressed, Level 0]: x7|FayZoR: help
