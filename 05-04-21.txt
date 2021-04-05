@@ -11960,3 +11960,4 @@
 [2021-04-05 12:26:38]: ***  [, Level 0]: 'Cosmo' has left the game (Timeout)
 [2021-04-05 12:26:56]: mamikral011 [, Level 21]: GReeeN:
 [2021-04-05 12:27:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-05 12:27:04]: mamikral011 [, Level 21]: Kirito♥:
