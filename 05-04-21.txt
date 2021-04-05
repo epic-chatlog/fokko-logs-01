@@ -12599,3 +12599,8 @@
 [2021-04-05 13:23:40]: mina [, Level 0]: from
 [2021-04-05 13:23:41]: tee [, Level 0]: i gtg
 [2021-04-05 13:23:41]: . [TrRShClNrRs, Level 42]: power: tf
+[2021-04-05 13:23:45]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-05 13:23:46]: Emre [, Level 0]: ok
+[2021-04-05 13:23:49]: power [TrRShClNrRs, Level 0]: Isegrin: doenst like me . xD
+[2021-04-05 13:23:52]: mina [, Level 0]: .: ye same
+[2021-04-05 13:23:54]: . [TrRShClNrRs, Level 42]: power: oh :c
