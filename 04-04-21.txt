@@ -14980,3 +14980,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:54:40]: SAUD [, Level 22]: yeah
 [logs/04-04-21.txt, 2021-04-04 22:54:56]: SAUD [, Level 22]: wait 4 me
 [logs/04-04-21.txt, 2021-04-04 22:55:04]: (3)SAUD [, Level 8]: xD
+[logs/04-04-21.txt, 2021-04-04 22:55:25]: ***  [, Level 0]: 'Boti.' has left the game (Timeout)
+[logs/04-04-21.txt, 2021-04-04 22:55:25]: ***  [, Level 0]: '[D] Boti.' has left the game (Timeout)
+[logs/04-04-21.txt, 2021-04-04 22:55:27]: PoliceTee [xSD7, Level 0]: rq
