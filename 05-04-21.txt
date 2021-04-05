@@ -404,3 +404,7 @@
 [logs/05-04-21.txt, 2021-04-05 00:34:15]: Asta [FookinLads, Level 0]: Ƭevan:  u dumb ?
 [logs/05-04-21.txt, 2021-04-05 00:34:31]: ***  [, Level 0]: 'Ðream' has left the game
 [logs/05-04-21.txt, 2021-04-05 00:34:33]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:34:58]: ***  [, Level 0]: [D] Boti. finished in: 1 minute(s)  6.88 second(s)
+[logs/05-04-21.txt, 2021-04-05 00:34:58]: ***  [, Level 0]: New record: 42.70 second(s) better.
+[logs/05-04-21.txt, 2021-04-05 00:35:04]: ***  [, Level 0]: Boti. finished in: 2 minute(s) 19.22 second(s)
+[logs/05-04-21.txt, 2021-04-05 00:35:04]: ***  [, Level 0]: New record: 20.02 second(s) better.
