@@ -871,3 +871,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:00:59]: BulgarianTee [xSD7, Level 38]: weqe: his IRL name is kais
 [logs/05-04-21.txt, 2021-04-05 01:01:00]: Kirito [♥, Level 34]: x7|FayZoR: xD
 [logs/05-04-21.txt, 2021-04-05 01:01:03]: weqe [MNKY, Level 11]: kais: its an arabian name u know that ?
+[logs/05-04-21.txt, 2021-04-05 01:01:05]: SAUD [, Level 0]: Kirito:  how do u want me to know i was in midlle of  fight
+[logs/05-04-21.txt, 2021-04-05 01:01:07]: kais [, Level 65]: weqe: ik
+[logs/05-04-21.txt, 2021-04-05 01:01:13]: weqe [MNKY, Level 11]: are u arab kais
