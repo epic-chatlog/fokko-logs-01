@@ -6821,3 +6821,6 @@
 [2021-04-05 07:50:48]:   [, Level 0]: mamikral011: x7|FayZoR: pls portal
 [2021-04-05 07:50:51]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
 [2021-04-05 07:50:55]: WarHammer' [, Level 16]: mamikral011: kraaal
+[2021-04-05 07:51:03]:   [, Level 0]: mamikral011: x7|FayZoR:
+[2021-04-05 07:51:04]: ***  [, Level 0]: 'I AM NOT JURKE' entered and joined the game
+[2021-04-05 07:51:05]: ***  [, Level 0]: 'Shroom' entered and joined the game
