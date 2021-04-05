@@ -897,3 +897,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:02:12]: weqe [MNKY, Level 11]: do you speak arabic kais
 [logs/05-04-21.txt, 2021-04-05 01:02:14]: Kirito [♥, Level 34]: kais: i dont fight w portal noob
 [logs/05-04-21.txt, 2021-04-05 01:02:15]: kais [, Level 65]: weqe: nope
+[logs/05-04-21.txt, 2021-04-05 01:02:20]: ***  [, Level 0]: 'Vodo4ka' has left the game
+[logs/05-04-21.txt, 2021-04-05 01:02:23]: weqe [MNKY, Level 11]: how come u are arabic and u dont speak arabic kais
+[logs/05-04-21.txt, 2021-04-05 01:02:23]: BulgarianTee [xSD7, Level 38]: vodo rq
+[logs/05-04-21.txt, 2021-04-05 01:02:25]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
