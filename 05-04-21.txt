@@ -1620,3 +1620,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:36:44]: ***  [, Level 0]: PoliceTee finished in: 1 minute(s)  1.84 second(s)
 [logs/05-04-21.txt, 2021-04-05 01:36:44]: ***  [, Level 0]: New record: 1 minute(s) 33.80 second(s) better.
 [logs/05-04-21.txt, 2021-04-05 01:36:48]: Kirito [Chilli.*, Level 34]: Leblebi: !?!?
+[logs/05-04-21.txt, 2021-04-05 01:36:56]: (1)SAUD [, Level 22]: yo u can kill me before i farm ChillerDragon.*
+[logs/05-04-21.txt, 2021-04-05 01:36:56]: ChillerDragon.* [|*KoG*|, Level 41]: (1)SAUD: I am currently afk.
+[logs/05-04-21.txt, 2021-04-05 01:37:00]: x7|FayZoR [xSD7, Level 42]: Kirito:
+[logs/05-04-21.txt, 2021-04-05 01:37:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
