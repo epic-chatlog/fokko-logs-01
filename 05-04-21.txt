@@ -2637,3 +2637,7 @@
 [logs/05-04-21.txt, 2021-04-05 02:50:10]: ***  [, Level 0]: '[D] BC|serwan' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:50:10]: ***  [, Level 0]: 'BC|serwan' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:50:32]: Fearless [FookinLads, Level 40]: BulgarianTee:   i realize that every clanmate is gay
+[logs/05-04-21.txt, 2021-04-05 02:50:36]: BulgarianTee [CleanUpCrew, Level 38]: Fearless: true XD
+[logs/05-04-21.txt, 2021-04-05 02:50:39]: GOLD [404, Level 41]: keø: sr
+[logs/05-04-21.txt, 2021-04-05 02:50:39]: Fearless [FookinLads, Level 40]: BulgarianTee:  koro betrays kezo betrays
+[logs/05-04-21.txt, 2021-04-05 02:50:44]: Fearless [FookinLads, Level 40]: even tough they clan mate
