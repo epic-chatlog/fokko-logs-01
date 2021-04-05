@@ -618,3 +618,4 @@
 [logs/05-04-21.txt, 2021-04-05 00:46:18]: (1)kais [, Level 58]: mamikral011: if people want to kill you i can't help
 [logs/05-04-21.txt, 2021-04-05 00:46:19]: mamikral011 [, Level 26]: (1)kais: bro
 [logs/05-04-21.txt, 2021-04-05 00:46:26]: Boti. [.bad, Level 27]: oyun krallı:
+[logs/05-04-21.txt, 2021-04-05 00:46:49]: BulgarianTee [xSD7, Level 38]: weqe: if i spam you enough you will timeout and i can save my friend
