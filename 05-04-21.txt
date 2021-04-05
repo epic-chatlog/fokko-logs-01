@@ -987,3 +987,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:05:58]: [D] Boti. [.bad, Level 32]: twe
 [logs/05-04-21.txt, 2021-04-05 01:06:01]: [D] Boti. [.bad, Level 32]: BRUH
 [logs/05-04-21.txt, 2021-04-05 01:06:08]: Asta [FookinLads, Level 40]: Boti.:  weqe  so bad
+[logs/05-04-21.txt, 2021-04-05 01:06:14]: Asta [FookinLads, Level 40]: Boti.:  weqe  3v1
+[logs/05-04-21.txt, 2021-04-05 01:06:19]: BulgarianTee [xSD7, Level 38]: KG | Kirito: x7|FayZoR: damnnn so closeee D:
+[logs/05-04-21.txt, 2021-04-05 01:06:25]: BulgarianTee [xSD7, Level 38]: kais: lucky bisch
