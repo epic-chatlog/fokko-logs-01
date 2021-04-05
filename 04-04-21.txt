@@ -14898,3 +14898,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:38:24]: PoliceTee [xSD7, Level 0]: \XDD
 [logs/04-04-21.txt, 2021-04-04 22:38:28]: Boti. [.bad, Level 27]: look at discord
 [logs/04-04-21.txt, 2021-04-04 22:38:47]: Boti. [.bad, Level 27]: ERROR: mine some bitcoin farming is useless
+[logs/04-04-21.txt, 2021-04-04 22:39:00]: (1)oyun krallı [, Level 0]: SAUD:  türk müsün
+[logs/04-04-21.txt, 2021-04-04 22:39:03]: PoliceTee [xSD7, Level 0]: XDDD
