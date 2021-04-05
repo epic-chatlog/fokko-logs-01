@@ -285,3 +285,9 @@
 [logs/05-04-21.txt, 2021-04-05 00:23:43]: ***  [, Level 0]: 'comic' finished the special race!
 [logs/05-04-21.txt, 2021-04-05 00:23:53]: Vodo4ka [JB.st, Level 41]: BulgarianTee: u know , im more noob than u, so for u DEPENDS war or not
 [logs/05-04-21.txt, 2021-04-05 00:24:04]: (1)kais [, Level 58]: :D
+[logs/05-04-21.txt, 2021-04-05 00:24:07]: (1)kais [, Level 58]: got u
+[logs/05-04-21.txt, 2021-04-05 00:24:08]: (1)Kirito [♥, Level 24]: kais: ok u fucked me xD
+[logs/05-04-21.txt, 2021-04-05 00:24:08]: ***  [, Level 0]: (1)kais is on a killing spree with 30 blocks
+[logs/05-04-21.txt, 2021-04-05 00:24:16]: ***  [, Level 0]: '(2)kais' has left the game
+[logs/05-04-21.txt, 2021-04-05 00:24:16]: ***  [, Level 0]: '(3)kais' has left the game
+[logs/05-04-21.txt, 2021-04-05 00:24:18]: ***  [, Level 0]: 'MieSlime' entered and joined the game
