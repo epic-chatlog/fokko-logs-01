@@ -3246,3 +3246,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:42:11]: ***  [, Level 0]: 'Kiøn1029' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:42:18]: ***  [, Level 0]: 'I SAD' changed name to 'Cylox'
 [logs/05-04-21.txt, 2021-04-05 03:42:26]: Cylox [♥, Level 30]: Kirito: why
+[logs/05-04-21.txt, 2021-04-05 03:42:37]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:42:40]: ***  [, Level 0]: 'STULEJA 3000' joined the game
