@@ -7528,3 +7528,4 @@
 [2021-04-05 08:32:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-05 08:32:02]: (1)kais [, Level 58]: x7|FayZoR: non, il a respawn
 [2021-04-05 08:32:02]: |ΛnץOиe| [, Level 0]: [D] mamikral011: war life? really life?
+[2021-04-05 08:32:10]: x7|FayZoR [xSD7, Level 42]: (1)kais: tu l'aurais spike
