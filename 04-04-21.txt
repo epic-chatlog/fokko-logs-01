@@ -15191,3 +15191,6 @@
 [logs/04-04-21.txt, 2021-04-04 23:20:10]: BulgarianTee [xSD7, Level 38]: 2b2t is a rip off blmapchill
 [logs/04-04-21.txt, 2021-04-04 23:20:12]: BulgarianTee [xSD7, Level 38]: big cringe
 [logs/04-04-21.txt, 2021-04-04 23:20:16]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 23:20:19]: ***  [, Level 0]: 'oyun krallı' has left the game (Too weak connection (not acked for 60 seconds))
+[logs/04-04-21.txt, 2021-04-04 23:20:25]: (3)SAUD [, Level 8]: rage timeout
+[logs/04-04-21.txt, 2021-04-04 23:20:28]: BulgarianTee [xSD7, Level 38]: XDD
