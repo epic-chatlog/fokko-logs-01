@@ -1611,3 +1611,5 @@
 [logs/05-04-21.txt, 2021-04-05 01:35:59]: (1)kais [, Level 58]: BulgarianTee: it is Kirito not me
 [logs/05-04-21.txt, 2021-04-05 01:36:04]: Leblebi [, Level 23]: Kirito: idk sorry
 [logs/05-04-21.txt, 2021-04-05 01:36:05]: BulgarianTee [xSD7, Level 0]: kais: idc war :c
+[logs/05-04-21.txt, 2021-04-05 01:36:11]: (1)kais [, Level 58]: BulgarianTee: Kirito enable particle, atom etc
+[logs/05-04-21.txt, 2021-04-05 01:36:16]: BulgarianTee [xSD7, Level 0]: (1)kais: no u
