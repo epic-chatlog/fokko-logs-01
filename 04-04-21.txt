@@ -14113,3 +14113,4 @@
 [logs/04-04-21.txt, 2021-04-04 17:41:54]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: u broken my toy >:(
 [logs/04-04-21.txt, 2021-04-04 17:42:00]: x7|KshKsh99 [xSD7, Level 0]: XD
 [logs/04-04-21.txt, 2021-04-04 17:42:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[logs/04-04-21.txt, 2021-04-04 17:42:09]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: now i can't play XD
