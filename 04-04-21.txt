@@ -14347,3 +14347,4 @@
 [logs/04-04-21.txt, 2021-04-04 18:21:08]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: determined to die again
 [logs/04-04-21.txt, 2021-04-04 18:21:12]: Nudelsaft c: [FookinLads, Level 37]: ye
 [logs/04-04-21.txt, 2021-04-04 18:21:17]: Mr.KshKsh99 [xSD7, Level 0]: x7|FayZoR:
+[logs/04-04-21.txt, 2021-04-04 18:22:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
