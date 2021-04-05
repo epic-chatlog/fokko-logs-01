@@ -4941,3 +4941,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:45:39]: Vodo4ka [JB.st, Level 41]: Ðream: 404 Рашут
 [logs/05-04-21.txt, 2021-04-05 05:45:45]: wαrнαммer [, Level 26]: Kezo:  WAR
 [logs/05-04-21.txt, 2021-04-05 05:45:50]: Tziys* [FookinLads, Level 38]: 4l
+[logs/05-04-21.txt, 2021-04-05 05:45:55]: wαrнαммer [, Level 26]: ife
+[logs/05-04-21.txt, 2021-04-05 05:46:00]: (2)1 [, Level 11]: KEZO KNK HELP
