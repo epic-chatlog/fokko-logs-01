@@ -2884,3 +2884,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:17:57]: YelloWorlD [404, Level 37]: Fearless: rage ?
 [logs/05-04-21.txt, 2021-04-05 03:18:01]: YelloWorlD [404, Level 37]: Fearless: idc ur life bro
 [logs/05-04-21.txt, 2021-04-05 03:18:01]: Fearless [, Level 40]: YelloWorlD:  why rage
+[logs/05-04-21.txt, 2021-04-05 03:18:11]: Fearless [, Level 40]: YelloWorlD:  ppl are trash noone can play here
+[logs/05-04-21.txt, 2021-04-05 03:18:11]: ***  [, Level 0]: 'STULEJA 3000' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:18:15]: Fearless [, Level 40]: YelloWorlD:  all think pro
