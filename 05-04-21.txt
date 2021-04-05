@@ -2827,3 +2827,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:10:49]: PoliceTee [xSD7, Level 25]: rq
 [logs/05-04-21.txt, 2021-04-05 03:11:41]: BulgarianTee [CleanUpCrew, Level 38]: ffs taserspam
 [logs/05-04-21.txt, 2021-04-05 03:12:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[logs/05-04-21.txt, 2021-04-05 03:12:06]: K҉E҉N҉O҉ [ZzzZzz, Level 3]: laag lol
+[logs/05-04-21.txt, 2021-04-05 03:12:09]: ***  [, Level 0]: 'Tixnix' has left the game (Too weak connection (not acked for 60 seconds))
+[logs/05-04-21.txt, 2021-04-05 03:12:11]: ***  [, Level 0]: 'ImRussia822' entered and joined the game
