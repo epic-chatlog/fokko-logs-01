@@ -1152,3 +1152,4 @@
 [logs/05-04-21.txt, 2021-04-05 01:13:59]: Vodo4ka [JB.st, Level 41]: Boti.: 5 jumps pro
 [logs/05-04-21.txt, 2021-04-05 01:14:00]: MieSlime [FookinLads, Level 43]: comic:  no xDD
 [logs/05-04-21.txt, 2021-04-05 01:14:02]: ***  [, Level 0]: 'Clight.♥' changed name to 'Cylox.'
+[logs/05-04-21.txt, 2021-04-05 01:14:04]: comic [comically, Level 13]: MieSlime: lolz
