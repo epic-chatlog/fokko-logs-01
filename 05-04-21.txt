@@ -5941,3 +5941,6 @@
 [2021-04-05 06:42:47]: ERROR [404, Level 56]: hes a helper
 [2021-04-05 06:42:49]:   [, Level 0]: Isegrin: ChillerDragon: doesnt work xaxa
 [2021-04-05 06:42:53]: ERROR [404, Level 56]: ✯ |toxicdaddy:  ist nicht meinw ar.
+[2021-04-05 06:42:56]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-05 06:42:56]: ERROR [404, Level 56]: selbst schuld.
+[2021-04-05 06:43:02]: ♫Amirian♬ [, Level 29]: my
