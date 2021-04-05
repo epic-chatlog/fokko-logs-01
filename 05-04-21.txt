@@ -2745,3 +2745,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:01:12]: [D] Fearless [FookinLads, Level 0]: x7|FayZoR:  yeah i was not warmed up
 [logs/05-04-21.txt, 2021-04-05 03:01:13]: x7|FayZoR [xSD7, Level 42]: Fearless: just look ms
 [logs/05-04-21.txt, 2021-04-05 03:01:15]: [D] Fearless [FookinLads, Level 0]: x7|FayZoR:  and still not
+[logs/05-04-21.txt, 2021-04-05 03:01:24]: [D] Fearless [FookinLads, Level 0]: x7|FayZoR:  and i have half of it
