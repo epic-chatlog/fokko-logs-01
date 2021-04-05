@@ -2450,3 +2450,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:31:59]: BulgarianTee [CleanUpCrew, Level 38]: its obviously you souly
 [logs/05-04-21.txt, 2021-04-05 02:32:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [logs/05-04-21.txt, 2021-04-05 02:32:02]: Lucas [THECEPS, Level 34]: Fearless: ?
+[logs/05-04-21.txt, 2021-04-05 02:32:07]: Fearless [FookinLads, Level 40]: Lucas:  danke
+[logs/05-04-21.txt, 2021-04-05 02:32:14]: x7|FayZoR [xSD7, Level 42]: YelloWorlD: après
+[logs/05-04-21.txt, 2021-04-05 02:32:16]: ᅟᅟᅟᅟ [, Level 47]: dude i changed my nick while standing right in front of you
