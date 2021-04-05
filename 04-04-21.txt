@@ -14100,3 +14100,4 @@
 [logs/04-04-21.txt, 2021-04-04 17:39:38]: ***  [, Level 0]: x7|FayZoR is on a killing spree with 15 blocks
 [logs/04-04-21.txt, 2021-04-04 17:39:45]: x7|FayZoR [xSD7, Level 42]: 15 block XDD
 [logs/04-04-21.txt, 2021-04-04 17:39:52]: ***  [, Level 0]: x7|FayZoR's killing spree was ended by Nudelsaft c: (15 blocks)
+[logs/04-04-21.txt, 2021-04-04 17:40:09]: Who B) [no u, Level 0]: ._.XD
