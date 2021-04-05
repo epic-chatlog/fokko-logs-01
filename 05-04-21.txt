@@ -1838,3 +1838,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:50:54]: Kirito [Chilli.*, Level 34]: ✯ |toxicdaddy: dc?
 [logs/05-04-21.txt, 2021-04-05 01:50:56]: Hady [new bot, Level 33]: BulgarianTee:  me
 [logs/05-04-21.txt, 2021-04-05 01:51:03]: BulgarianTee [xSD7, Level 38]: Hady: doesnt seem like dat
+[logs/05-04-21.txt, 2021-04-05 01:51:23]: Hady [new bot, Level 33]: BulgarianTee:  i am not bored
+[logs/05-04-21.txt, 2021-04-05 01:51:27]: [D] Leblebi [, Level 18]: xd
+[logs/05-04-21.txt, 2021-04-05 01:51:30]: Hady [new bot, Level 33]: i fun
