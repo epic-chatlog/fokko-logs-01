@@ -2112,3 +2112,7 @@
 [logs/05-04-21.txt, 2021-04-05 02:06:36]: comic [comically, Level 13]: F
 [logs/05-04-21.txt, 2021-04-05 02:07:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [logs/05-04-21.txt, 2021-04-05 02:07:10]: Fearless [FookinLads, Level 40]: BulgarianTee:
+[logs/05-04-21.txt, 2021-04-05 02:07:15]: Fearless [FookinLads, Level 40]: BulgarianTee:   you fuck new player?
+[logs/05-04-21.txt, 2021-04-05 02:07:22]: weqe [MNKY, Level 11]: Cylox.: ok
+[logs/05-04-21.txt, 2021-04-05 02:07:24]: BulgarianTee [CleanUpCrew, Level 38]: Fearless: no i just joke w/ him
+[logs/05-04-21.txt, 2021-04-05 02:07:27]: ***  [, Level 0]: 'Serhat_28ck' entered and joined the game
