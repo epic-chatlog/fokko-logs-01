@@ -8626,3 +8626,8 @@
 [2021-04-05 09:25:37]: ***  [, Level 0]: 'Sutzer' entered and joined the game
 [2021-04-05 09:25:47]:   [, Level 0]: ERROR.: ChillerDragon:  wer hat gefragt?
 [2021-04-05 09:25:51]: Akuma ♥ [, Level 0]: ERROR:  i will come back
+[2021-04-05 09:26:00]: ***  [, Level 0]: '[D] BC|kakashi' entered and joined the game
+[2021-04-05 09:26:00]:   [, Level 0]: ChillerDragon: arsch ERROR
+[2021-04-05 09:26:01]:   [, Level 0]: Night Team :D: hi power  <33
+[2021-04-05 09:26:05]: ***  [, Level 0]: '[D] BC|kakashi' has left the game
+[2021-04-05 09:26:09]: Akuma ♥ [, Level 0]: Night Team :D:  he traitro
