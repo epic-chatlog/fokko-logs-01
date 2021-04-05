@@ -2270,3 +2270,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:19:12]: Fearless [FookinLads, Level 40]: RoberGN:
 [logs/05-04-21.txt, 2021-04-05 02:19:13]: weqe [MNKY, Level 11]: nop doesnt work
 [logs/05-04-21.txt, 2021-04-05 02:19:15]: Fearless [FookinLads, Level 40]: XDDDD
+[logs/05-04-21.txt, 2021-04-05 02:19:21]: x7|FayZoR [xSD7, Level 42]: weqe: i want test taser after freeze
+[logs/05-04-21.txt, 2021-04-05 02:19:22]: BulgarianTee [CleanUpCrew, Level 38]: E
