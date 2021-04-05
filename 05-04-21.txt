@@ -4142,3 +4142,4 @@
 [logs/05-04-21.txt, 2021-04-05 04:37:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [logs/05-04-21.txt, 2021-04-05 04:37:07]: (2)Kirito [♥, Level 13]: weqe: kys dude you are so bad
 [logs/05-04-21.txt, 2021-04-05 04:37:14]: ***  [, Level 0]: 'SAUD' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:37:21]: ***  [, Level 0]: 'gian x' joined the spectators
