@@ -14453,3 +14453,4 @@
 [logs/04-04-21.txt, 2021-04-04 19:32:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [logs/04-04-21.txt, 2021-04-04 19:34:01]: ***  [, Level 0]: 'teee' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 19:37:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[logs/04-04-21.txt, 2021-04-04 19:42:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
