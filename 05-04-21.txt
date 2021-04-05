@@ -1876,3 +1876,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:53:28]: ***  [, Level 0]: 'weqe' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:53:29]: (1)kais [, Level 58]: x7|FayZoR: -_-, je bute pas tt tes alliers moi
 [logs/05-04-21.txt, 2021-04-05 01:53:31]: Leblebi [, Level 23]: when
+[logs/05-04-21.txt, 2021-04-05 01:53:38]: ***  [, Level 0]: 'Anky' has left the game
+[logs/05-04-21.txt, 2021-04-05 01:53:40]: [D] Leblebi [, Level 18]: x7|FayZoR: when
+[logs/05-04-21.txt, 2021-04-05 01:53:41]: BulgarianTee [xSD7, Level 38]: x7|FayZoR: can you stack ?
+[logs/05-04-21.txt, 2021-04-05 01:53:42]: (1)kais [, Level 58]: x7|FayZoR: en plus il est nouveau, c'est pas gentil
