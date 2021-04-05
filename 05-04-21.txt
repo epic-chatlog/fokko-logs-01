@@ -4802,3 +4802,4 @@
 [logs/05-04-21.txt, 2021-04-05 05:35:11]: YelloWorlD [404, Level 37]: ERROR: portal on my portal
 [logs/05-04-21.txt, 2021-04-05 05:35:24]: KriegInCome [, Level 0]: Tziys*:  is was a misstake wtf?
 [logs/05-04-21.txt, 2021-04-05 05:35:39]: (1)kais [, Level 58]: YelloWorlD: j'en veux pas :(
+[logs/05-04-21.txt, 2021-04-05 05:35:44]: YelloWorlD [404, Level 37]: (1)kais: moi nnplus
