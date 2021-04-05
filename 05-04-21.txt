@@ -1573,3 +1573,5 @@
 [logs/05-04-21.txt, 2021-04-05 01:34:05]: Vodo4ka [JB.st, Level 41]: HAHAH
 [logs/05-04-21.txt, 2021-04-05 01:34:09]: Kirito [Chilli.*, Level 34]: (1)kais: rip :D
 [logs/05-04-21.txt, 2021-04-05 01:34:11]: (1)SAUD [, Level 22]: xD Vodo4ka
+[logs/05-04-21.txt, 2021-04-05 01:34:31]: comic [comically, Level 13]: who wants to get inf jump?
+[logs/05-04-21.txt, 2021-04-05 01:34:37]: (1)SAUD [, Level 22]: xD
