@@ -2538,3 +2538,4 @@
 [logs/05-04-21.txt, 2021-04-05 02:38:04]: ***  [, Level 0]: 'ZEWO' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
 [logs/05-04-21.txt, 2021-04-05 02:38:08]: BulgarianTee [CleanUpCrew, Level 38]: XDDDDDDDDD
 [logs/05-04-21.txt, 2021-04-05 02:38:12]: BulgarianTee [CleanUpCrew, Level 38]: LMAOOO
+[logs/05-04-21.txt, 2021-04-05 02:38:22]: ***  [, Level 0]: 'power' entered and joined the game
