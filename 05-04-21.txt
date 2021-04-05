@@ -4791,3 +4791,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:34:36]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:34:44]: ***  [, Level 0]: '(1)P4Pyr0s' changed name to 'S Y T H N'
 [logs/05-04-21.txt, 2021-04-05 05:34:49]: KriegInCome [, Level 0]: sry
+[logs/05-04-21.txt, 2021-04-05 05:34:52]: wαrнαммer [, Level 26]: WTF S Y T H N
+[logs/05-04-21.txt, 2021-04-05 05:34:56]: KriegInCome [, Level 0]: Tziys*:
+[logs/05-04-21.txt, 2021-04-05 05:34:58]: KriegInCome [, Level 0]: ?????
+[logs/05-04-21.txt, 2021-04-05 05:35:00]: S Y T H N [iPro, Level 0]: i am
