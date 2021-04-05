@@ -13216,3 +13216,5 @@
 [2021-04-05 14:22:38]: ***  [, Level 0]: 'Lime Hell' entered and joined the game
 [2021-04-05 14:22:54]: ***  [, Level 0]: 'Lime Hell' joined the spectators
 [2021-04-05 14:22:57]: ***  [, Level 0]: 'Lime Hell' joined the game
+[2021-04-05 14:23:08]: ***  [, Level 0]: 'Lime Hell' joined the spectators
+[2021-04-05 14:23:17]: [D] ✯ |toxicd [|Supressed, Level 21]: ez
