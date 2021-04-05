@@ -11291,3 +11291,4 @@
 [2021-04-05 11:36:28]: Andromeda [, Level 24]: Kezo: helo
 [2021-04-05 11:36:31]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
 [2021-04-05 11:36:31]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
+[2021-04-05 11:36:40]: ***  [, Level 0]: 'Kezo' has left the game
