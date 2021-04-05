@@ -14890,3 +14890,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:37:28]: [D] Boti. [.bad, Level 32]: XDDDD
 [logs/04-04-21.txt, 2021-04-04 22:37:30]: BulgarianTee [xSD7, Level 38]: XDDd
 [logs/04-04-21.txt, 2021-04-04 22:37:37]: BulgarianTee [xSD7, Level 38]: ezpz 10k
+[logs/04-04-21.txt, 2021-04-04 22:37:41]: BulgarianTee [xSD7, Level 38]: almost 12k actually
