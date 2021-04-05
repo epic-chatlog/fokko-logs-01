@@ -11911,3 +11911,7 @@
 [2021-04-05 12:19:15]: ***  [, Level 0]: 'tenseseal' entered and joined the game
 [2021-04-05 12:19:35]: ***  [, Level 0]: 'tenseseal' has left the game
 [2021-04-05 12:19:48]: Kirito♥ [♥, Level 35]: mamikral011: nice :D
+[2021-04-05 12:19:53]: ***  [, Level 0]: '(1)|HolyHo|' entered and joined the game
+[2021-04-05 12:19:56]: ***  [, Level 0]: 'Maatiteusz' entered and joined the game
+[2021-04-05 12:19:58]: mamikral011 [, Level 21]: ?
+[2021-04-05 12:20:01]: ***  [, Level 0]: 'weqe' has left the game
