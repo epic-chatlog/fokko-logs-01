@@ -3591,3 +3591,8 @@
 [logs/05-04-21.txt, 2021-04-05 04:09:35]: ***  [, Level 0]: ### '♫Amirian♬' disconected (Timeout)
 [logs/05-04-21.txt, 2021-04-05 04:09:36]: weqe [MNKY, Level 11]: yes
 [logs/05-04-21.txt, 2021-04-05 04:09:36]: Foxie♥ [♥, Level 36]: Cylox.♥:
+[logs/05-04-21.txt, 2021-04-05 04:09:47]: Foxie♥ [♥, Level 36]: Cylox♥: rifle
+[logs/05-04-21.txt, 2021-04-05 04:09:49]: Cylox♥ [♥, Level 30]: x7|FayZoR: no
+[logs/05-04-21.txt, 2021-04-05 04:09:53]:   [, Level 0]: mami: noooo
+[logs/05-04-21.txt, 2021-04-05 04:09:55]:   [, Level 0]: |ΛnץOиe|: baha
+[logs/05-04-21.txt, 2021-04-05 04:09:55]: x7|zemer [xSD7, Level 37]: weqe: <<<
