@@ -13963,3 +13963,7 @@
 [logs/04-04-21.txt, 2021-04-04 17:08:29]: S Y T H N [iPro, Level 0]: :D
 [logs/04-04-21.txt, 2021-04-04 17:08:40]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 17:08:44]: ***  [, Level 0]: 'S Y T H N' changed name to 'нυƨнıκε'
+[logs/04-04-21.txt, 2021-04-04 17:08:51]: ***  [, Level 0]: 'нυƨнıκε' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:08:52]: ***  [, Level 0]: '(1)chillerdagorn' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:08:52]: ***  [, Level 0]: '(1)ai9u7wgreauiw' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:08:54]: Nudelsaft c: [FookinLads, Level 0]: a
