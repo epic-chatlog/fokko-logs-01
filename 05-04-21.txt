@@ -2718,3 +2718,7 @@
 [logs/05-04-21.txt, 2021-04-05 02:57:58]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:58:11]: HeavyGeneral [FookinLads, Level 44]: u pute
 [logs/05-04-21.txt, 2021-04-05 02:58:17]: Ƭevan [TrRShClNrRs, Level 48]: x7|FayZoR: nub
+[logs/05-04-21.txt, 2021-04-05 02:58:35]: ***  [, Level 0]: 'bob' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:58:36]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:58:37]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:58:41]: x7|FayZoR [xSD7, Level 42]: Ƭevan: bro i beat u everytime with 100ms stop talk
