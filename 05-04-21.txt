@@ -2729,3 +2729,7 @@
 [logs/05-04-21.txt, 2021-04-05 02:59:26]: BulgarianTee [CleanUpCrew, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 02:59:40]: Fearless [FookinLads, Level 40]: BulgarianTee:  i will you dont need
 [logs/05-04-21.txt, 2021-04-05 02:59:53]: x7|FayZoR [xSD7, Level 42]: keø: 100ms stop think u are good
+[logs/05-04-21.txt, 2021-04-05 03:00:06]: (1)oyun krallı [, Level 0]: lag
+[logs/05-04-21.txt, 2021-04-05 03:00:10]: Fearless [FookinLads, Level 40]: x7|FayZoR:  portal stop being bad
+[logs/05-04-21.txt, 2021-04-05 03:00:13]: (1)RoberGN [, Level 0]: Me too
+[logs/05-04-21.txt, 2021-04-05 03:00:14]: bob [Legacy™, Level 36]: HJAHAH
