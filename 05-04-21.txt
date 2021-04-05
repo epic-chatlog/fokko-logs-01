@@ -3455,3 +3455,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:00:42]: Kirito [♥, Level 35]: Foxie♥: flag :/
 [logs/05-04-21.txt, 2021-04-05 04:00:43]:   [, Level 0]: Shiro.: we're in war
 [logs/05-04-21.txt, 2021-04-05 04:00:47]:   [, Level 0]: Foxie♥: yaeh Shiro.
+[logs/05-04-21.txt, 2021-04-05 04:00:54]:   [, Level 0]: Shiro.: dont talked to u
+[logs/05-04-21.txt, 2021-04-05 04:00:55]: Cylox♥ [♥, Level 30]: Shiro.: child
+[logs/05-04-21.txt, 2021-04-05 04:00:57]:   [, Level 0]: Foxie♥: Kirito: go fast
+[logs/05-04-21.txt, 2021-04-05 04:01:02]:   [, Level 0]: weqe: wtf what was that money from
