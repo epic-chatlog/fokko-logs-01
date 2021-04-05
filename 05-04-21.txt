@@ -4324,3 +4324,9 @@
 [logs/05-04-21.txt, 2021-04-05 04:45:32]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 04:45:37]: Isegrin [, Level 54]: Shiro.: FAK OF
 [logs/05-04-21.txt, 2021-04-05 04:45:41]:   [, Level 0]: MieSlime: Nudelsaft c::  how are u today ?
+[logs/05-04-21.txt, 2021-04-05 04:45:44]: Nudelsaft c: [popo, Level 37]: MieSlime: im fine, hbu
+[logs/05-04-21.txt, 2021-04-05 04:45:45]: Shroom [, Level 28]: Shiro.: can i pass
+[logs/05-04-21.txt, 2021-04-05 04:45:50]:   [, Level 0]: MieSlime: Nudelsaft c::  good too
+[logs/05-04-21.txt, 2021-04-05 04:45:51]:   [, Level 0]: mami: no
+[logs/05-04-21.txt, 2021-04-05 04:45:53]: Nudelsaft c: [popo, Level 37]: nice
+[logs/05-04-21.txt, 2021-04-05 04:45:56]: ***  [, Level 0]: 'Shiro.' has left the game
