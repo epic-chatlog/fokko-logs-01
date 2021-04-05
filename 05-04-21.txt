@@ -8740,3 +8740,12 @@
 [2021-04-05 09:31:07]: ***  [, Level 0]: Cosmo finished in: 8 minute(s)  6.88 second(s)
 [2021-04-05 09:31:07]: ***  [, Level 0]: 'Cosmo' finished the special race!
 [2021-04-05 09:31:09]: ***  [, Level 0]: ### 'WarHammer' xd
+[2021-04-05 09:31:19]:   [, Level 0]: WarHammer: Swarfey:  ??
+[2021-04-05 09:31:21]: ***  [, Level 0]: '[D] Sutzer' has left the game
+[2021-04-05 09:31:21]: ***  [, Level 0]: 'Sutzer' has left the game
+[2021-04-05 09:31:21]:   [, Level 0]: WarHammer: SWARFEY
+[2021-04-05 09:31:22]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
+[2021-04-05 09:31:23]: ***  [, Level 0]: '(1)Cosmo' finished the special race!
+[2021-04-05 09:31:25]: ***  [, Level 0]: '♥TAKO♥' finished the special race!
+[2021-04-05 09:31:25]:   [, Level 0]: WarHammer: SWARFEY STOOP
+[2021-04-05 09:31:25]: Satori [, Level 44]: cunt: what!!
