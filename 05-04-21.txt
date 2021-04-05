@@ -3266,3 +3266,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:45:01]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:45:04]:   [, Level 0]: Pigie♥: (1)Kirito: can u logout?
 [logs/05-04-21.txt, 2021-04-05 03:45:06]: ***  [, Level 0]: '(2)1' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:45:08]: ***  [, Level 0]: 'Killua' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:45:10]: ***  [, Level 0]: '(1)R2D2' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:45:18]: ***  [, Level 0]: 'Sutzer' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:45:20]: ***  [, Level 0]: '(1)Wheels.' entered and joined the game
