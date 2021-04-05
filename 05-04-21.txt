@@ -1390,3 +1390,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:24:58]: BulgarianTee [xSD7, Level 38]: (1)kais: I JUST GO DEPOSIT MY MONEY
 [logs/05-04-21.txt, 2021-04-05 01:25:03]: ***  [, Level 0]: 'x7|Chronos' has left the game
 [logs/05-04-21.txt, 2021-04-05 01:25:05]: BulgarianTee [xSD7, Level 38]: kais: kid
+[logs/05-04-21.txt, 2021-04-05 01:25:12]: ***  [, Level 0]: 'x7|Chronos' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:25:13]: kais [, Level 65]: BulgarianTee: u
+[logs/05-04-21.txt, 2021-04-05 01:25:18]: kais [, Level 65]: BulgarianTee: u poor
+[logs/05-04-21.txt, 2021-04-05 01:25:19]: comic [comically, Level 13]: el champeon: ok i blocked you
