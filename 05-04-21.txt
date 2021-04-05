@@ -4638,3 +4638,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:19:56]: MieSlime [FookinLads, Level 43]: Vodo4ka:  ok
 [logs/05-04-21.txt, 2021-04-05 05:20:21]: ***  [, Level 0]: 'MADZO' changed name to 'Kezo'
 [logs/05-04-21.txt, 2021-04-05 05:20:27]: ***  [, Level 0]: 'wαrнαммer' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:20:38]:   [, Level 0]: Kezo: wαrнαммer: ismine sokayım
+[logs/05-04-21.txt, 2021-04-05 05:20:40]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
