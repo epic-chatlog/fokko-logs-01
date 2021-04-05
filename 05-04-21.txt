@@ -7675,3 +7675,5 @@
 [2021-04-05 08:40:07]: kais [, Level 65]: x7|FayZoR: non
 [2021-04-05 08:40:13]: kais [, Level 65]: x7|FayZoR: j'suis pas devin, peux pas voir
 [2021-04-05 08:40:17]:   [, Level 0]: bob: I like turtles.
+[2021-04-05 08:40:25]: ***  [, Level 0]: 'Friendiship ;-)' has left the game
+[2021-04-05 08:40:27]: x7|FayZoR [xSD7, Level 42]: kais: si, je commence un message et je l'envoie pas publiquement
