@@ -4582,3 +4582,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:08:30]: ***  [, Level 0]: MieSlime's killing spree was ended by weqe (6 blocks)
 [logs/05-04-21.txt, 2021-04-05 05:08:45]: ♫Amirian♬. [, Level 0]: cookie: help
 [logs/05-04-21.txt, 2021-04-05 05:08:49]: cookie [, Level 16]: ♫Amirian♬.:  im dead
+[logs/05-04-21.txt, 2021-04-05 05:09:05]: P4Pyr0s [, Level 22]: ♫Amirian♬:
+[logs/05-04-21.txt, 2021-04-05 05:09:11]: ♫Amirian♬ [, Level 29]: wait
