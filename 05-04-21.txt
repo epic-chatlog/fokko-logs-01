@@ -796,3 +796,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:55:45]: BulgarianTee [xSD7, Level 38]: kais: go timeout
 [logs/05-04-21.txt, 2021-04-05 00:55:45]: Vodo4ka [JB.st, Level 41]: bb
 [logs/05-04-21.txt, 2021-04-05 00:55:55]: Boti. [.bad, Level 27]: nvm
+[logs/05-04-21.txt, 2021-04-05 00:56:24]: BulgarianTee [xSD7, Level 38]: kais: my anti-kais is very effective look
+[logs/05-04-21.txt, 2021-04-05 00:56:27]: BulgarianTee [xSD7, Level 38]: E
