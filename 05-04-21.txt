@@ -3999,3 +3999,5 @@
 [logs/05-04-21.txt, 2021-04-05 04:30:49]: |ΛnץOиe| [, Level 0]: xD
 [logs/05-04-21.txt, 2021-04-05 04:30:52]: cookie [, Level 16]: (2)Kirito:  wait
 [logs/05-04-21.txt, 2021-04-05 04:30:55]: ***  [, Level 0]: 'gian x' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 04:30:58]: Shiro. [Whɪтє, Level 42]: wat
+[logs/05-04-21.txt, 2021-04-05 04:31:04]: ***  [, Level 0]: 'gian x' joined the game
