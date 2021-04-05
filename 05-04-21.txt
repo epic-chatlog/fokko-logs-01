@@ -12014,3 +12014,7 @@
 [2021-04-05 12:34:45]: (1)|HolyHo|° [, Level 6]: hi Nudelsaft c:
 [2021-04-05 12:34:57]: Nudelsaft c: [FookinLads, Level 37]: yo
 [2021-04-05 12:34:57]: ***  [, Level 0]: s7_sven is on a killing spree with 5 blocks
+[2021-04-05 12:35:52]: [D] mamikral011 [, Level 26]: koro: war?
+[2021-04-05 12:35:56]: [D] mamikral011 [, Level 26]: koro: war
+[2021-04-05 12:35:59]: ***  [, Level 0]: '[D] mamikral011' has left the game
+[2021-04-05 12:35:59]: ***  [, Level 0]: 'mamikral011' has left the game
