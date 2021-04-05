@@ -6310,3 +6310,5 @@
 [2021-04-05 07:11:10]: ***  [, Level 0]: Koishi is on a killing spree with 10 blocks
 [2021-04-05 07:11:22]: ***  [, Level 0]: Koishi's killing spree was ended by Zʷʰʸˀ (10 blocks)
 [2021-04-05 07:11:30]: ***  [, Level 0]: 'Satori' entered and joined the game
+[2021-04-05 07:11:51]: SlerTz.♥ [♥, Level 24]: pro
+[2021-04-05 07:11:55]: ***  [, Level 0]: '(2)kais' entered and joined the game
