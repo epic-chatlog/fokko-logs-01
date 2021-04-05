@@ -15283,3 +15283,7 @@
 [logs/04-04-21.txt, 2021-04-04 23:28:02]: Vodo4ka [JB.st, Level 41]: yee
 [logs/04-04-21.txt, 2021-04-04 23:28:02]: PoliceTee [xSD7, Level 25]: Vodo4ka: -_-
 [logs/04-04-21.txt, 2021-04-04 23:28:12]: Vodo4ka [JB.st, Level 41]: PRO
+[logs/04-04-21.txt, 2021-04-04 23:28:24]: oyun krallı [, Level 0]: (1)SAUD:
+[logs/04-04-21.txt, 2021-04-04 23:28:27]: (2)SAUD [, Level 12]: TASER GAY
+[logs/04-04-21.txt, 2021-04-04 23:28:30]: oyun krallı [, Level 0]: (1)SAUD:  HELP
+[logs/04-04-21.txt, 2021-04-04 23:28:31]: (2)SAUD [, Level 12]: xDDDDDDDDDDDD
