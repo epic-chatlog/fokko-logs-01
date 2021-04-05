@@ -262,3 +262,7 @@
 [logs/05-04-21.txt, 2021-04-05 00:22:14]: ***  [, Level 0]: comic finished in: 3 minute(s)  0.08 second(s)
 [logs/05-04-21.txt, 2021-04-05 00:22:14]: ***  [, Level 0]: New record:  9.04 second(s) better.
 [logs/05-04-21.txt, 2021-04-05 00:22:15]: Vodo4ka [JB.st, Level 41]: BulgarianTee: yes u are
+[logs/05-04-21.txt, 2021-04-05 00:22:20]: Vodo4ka [JB.st, Level 41]: BulgarianTee: u let random noob kill me
+[logs/05-04-21.txt, 2021-04-05 00:22:20]: BulgarianTee [xSD7, Level 38]: Vodo4ka: i told u i wanna go farm 3000 times
+[logs/05-04-21.txt, 2021-04-05 00:22:24]: BulgarianTee [xSD7, Level 38]: Vodo4ka: u dont let me free
+[logs/05-04-21.txt, 2021-04-05 00:22:27]: BulgarianTee [xSD7, Level 38]: Vodo4ka: then i come save myself
