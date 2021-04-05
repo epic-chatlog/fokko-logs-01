@@ -1638,3 +1638,5 @@
 [logs/05-04-21.txt, 2021-04-05 01:37:32]: Leblebi [, Level 23]: why
 [logs/05-04-21.txt, 2021-04-05 01:37:33]: Kirito [Chilli.*, Level 34]: Leblebi: i will never give you portal again, if you farm i hunt you.
 [logs/05-04-21.txt, 2021-04-05 01:37:39]: ***  [, Level 0]: 'el champeon' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:37:46]: Kirito [Chilli.*, Level 34]: Leblebi: u didnt help me so i will never stop hunting you
+[logs/05-04-21.txt, 2021-04-05 01:37:53]: Leblebi [, Level 23]: Kirito: im sorry :{
