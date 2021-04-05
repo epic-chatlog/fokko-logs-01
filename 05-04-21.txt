@@ -369,3 +369,10 @@
 [logs/05-04-21.txt, 2021-04-05 00:31:53]: Ƭevan [TrRShClNrRs, Level 48]: Вова
 [logs/05-04-21.txt, 2021-04-05 00:31:57]: Vodo4ka [JB.st, Level 41]: ХУЕВА
 [logs/05-04-21.txt, 2021-04-05 00:31:57]: weqe [MNKY, Level 11]: yeah Kirito u are pretty weak xd
+[logs/05-04-21.txt, 2021-04-05 00:32:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[logs/05-04-21.txt, 2021-04-05 00:32:03]: Kirito [♥, Level 34]: weqe: fucking noname hAHHAHA
+[logs/05-04-21.txt, 2021-04-05 00:32:04]: (1)kais [, Level 58]: weqe: i keep them, they're my lure :D
+[logs/05-04-21.txt, 2021-04-05 00:32:08]: weqe [MNKY, Level 11]: meh okay
+[logs/05-04-21.txt, 2021-04-05 00:32:10]: ***  [, Level 0]: 'Kirito' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 00:32:14]: ***  [, Level 0]: 'Kirito' joined the game
+[logs/05-04-21.txt, 2021-04-05 00:32:15]: (1)kais [, Level 58]: weqe: he'll come to me
