@@ -692,3 +692,7 @@
 [logs/05-04-21.txt, 2021-04-05 00:50:23]: (1)kais [, Level 58]: BulgarianTee:  i use f-client
 [logs/05-04-21.txt, 2021-04-05 00:50:24]: weqe [MNKY, Level 11]: yes
 [logs/05-04-21.txt, 2021-04-05 00:50:24]: (1)SAUD [, Level 22]: war 4 life
+[logs/05-04-21.txt, 2021-04-05 00:50:30]: BulgarianTee [xSD7, Level 38]: kais: i almost have the exact same color as him
+[logs/05-04-21.txt, 2021-04-05 00:50:33]: BulgarianTee [xSD7, Level 38]: kais: almost
+[logs/05-04-21.txt, 2021-04-05 00:50:35]: (1)kais [, Level 58]: BulgarianTee: yeah, i though about it, because it look same as him
+[logs/05-04-21.txt, 2021-04-05 00:50:37]: MieSlime [FookinLads, Level 43]: Boti.:  ohhhhh okkkkkkkkkkkkkkkkkkk war4life
