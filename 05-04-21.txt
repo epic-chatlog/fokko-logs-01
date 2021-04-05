@@ -13375,3 +13375,8 @@
 [2021-04-05 14:46:24]: Kirito♥ [♥, Level 24]: Isegrin: k
 [2021-04-05 14:46:27]: ***  [, Level 0]: '[D] mina' entered and joined the game
 [2021-04-05 14:46:46]: ✯Hunter.exe [|Supressed|, Level 35]: Shiro.: spiek?
+[2021-04-05 14:46:54]: Isegrin [, Level 54]: wait
+[2021-04-05 14:46:56]: ***  [, Level 0]: 'Virus' entered and joined the game
+[2021-04-05 14:46:56]: ***  [, Level 0]: Nudelsaft c:'s killing spree was ended by x7|Chronos (18 blocks)
+[2021-04-05 14:46:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-05 14:47:04]: ERROR. [404, Level 74]: go
