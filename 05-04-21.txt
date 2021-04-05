@@ -242,3 +242,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:20:35]: Vodo4ka [JB.st, Level 41]: weqe: spike for gay
 [logs/05-04-21.txt, 2021-04-05 00:20:49]: wαrнαммer [, Level 26]: oyun krallı:
 [logs/05-04-21.txt, 2021-04-05 00:20:49]: Vodo4ka [JB.st, Level 41]: weqe: omg
+[logs/05-04-21.txt, 2021-04-05 00:20:55]: Vodo4ka [JB.st, Level 41]: OMG
+[logs/05-04-21.txt, 2021-04-05 00:21:01]: Vodo4ka [JB.st, Level 41]: U USING TELEPORT FOR EZ MOVE
