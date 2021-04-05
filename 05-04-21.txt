@@ -13353,3 +13353,5 @@
 [2021-04-05 14:41:59]: Swarfey [FookinLads, Level 60]: 0:
 [2021-04-05 14:41:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-05 14:42:04]: ERROR. [404, Level 74]: Swarfey: ?
+[2021-04-05 14:42:10]: Nudelsaft c: [FookinLads, Level 42]: ach nix
+[2021-04-05 14:42:14]: ERROR. [404, Level 74]: dacht ich mir
