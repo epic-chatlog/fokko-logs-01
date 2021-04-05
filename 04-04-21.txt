@@ -14225,3 +14225,4 @@
 [logs/04-04-21.txt, 2021-04-04 17:58:57]: ***  [, Level 0]: '(1)chillerdagorn' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 17:58:58]: ***  [, Level 0]: '(1)ai9u7wgreauiw' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 17:59:15]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:59:49]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: i take the dummi down XD
