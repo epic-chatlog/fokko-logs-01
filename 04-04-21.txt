@@ -15212,3 +15212,7 @@
 [logs/04-04-21.txt, 2021-04-04 23:21:24]: ***  [, Level 0]: '(1)oyun krallı' has left the game
 [logs/04-04-21.txt, 2021-04-04 23:21:27]: Boti. [.bad, Level 0]: i made my own gamepng
 [logs/04-04-21.txt, 2021-04-04 23:21:30]: BulgarianTee [xSD7, Level 38]: same
+[logs/04-04-21.txt, 2021-04-04 23:21:34]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 23:21:37]: BulgarianTee [xSD7, Level 38]: well my is basically just recolor
+[logs/04-04-21.txt, 2021-04-04 23:21:39]: BulgarianTee [xSD7, Level 38]: but still
+[logs/04-04-21.txt, 2021-04-04 23:21:40]: Vodo4ka [JB.st, Level 41]: XDDDE
