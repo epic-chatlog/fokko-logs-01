@@ -393,3 +393,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:33:19]: Kirito [♥, Level 34]: Boti.: help
 [logs/05-04-21.txt, 2021-04-05 00:33:21]: ***  [, Level 0]: 'mamikral011' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 00:33:27]: mamikral011 [, Level 0]: ERROR: hi
+[logs/05-04-21.txt, 2021-04-05 00:33:34]: mamikral011 [, Level 0]: x7|FayZoR: hi bro
+[logs/05-04-21.txt, 2021-04-05 00:33:41]: ***  [, Level 0]: Ðream is on a killing spree with 5 blocks
