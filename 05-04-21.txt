@@ -2370,3 +2370,7 @@
 [logs/05-04-21.txt, 2021-04-05 02:27:12]: BC|Tixnix [BC, Level 34]: Kirito: 14
 [logs/05-04-21.txt, 2021-04-05 02:27:12]: [D] ✯ |toxicd [|Supressed, Level 0]: x7|FayZoR: k
 [logs/05-04-21.txt, 2021-04-05 02:27:13]: Fearless [FookinLads, Level 40]: Kirito:  open portal spawn
+[logs/05-04-21.txt, 2021-04-05 02:27:15]: BulgarianTee [CleanUpCrew, Level 38]: weqe: WAKE UPP
+[logs/05-04-21.txt, 2021-04-05 02:27:17]: Kirito [Chilli.*, Level 34]: Tixnix: ooof wild
+[logs/05-04-21.txt, 2021-04-05 02:27:25]: Sutzer [Guard, Level 0]: bruuuh XD
+[logs/05-04-21.txt, 2021-04-05 02:27:27]: ᅟᅟ [, Level 60]: funny
