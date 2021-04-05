@@ -13937,3 +13937,17 @@
 [logs/04-04-21.txt, 2021-04-04 17:07:01]: Swarfey [FookinLads, Level 0]: S Y T H N: diesmal auch wirklich nur für 15 sekunden weil ich gleich pennen gehe xD
 [logs/04-04-21.txt, 2021-04-04 17:07:16]: S Y T H N [iPro, Level 37]: Swarfey: Make it quick
 [logs/04-04-21.txt, 2021-04-04 17:07:16]: S Y T H N [iPro, Level 37]: Swarfey: Make it quick
+[logs/04-04-21.txt, 2021-04-04 17:07:44]: ***  [, Level 0]: 'Nudelsaft c:' joined the spectators
+[logs/04-04-21.txt, 2021-04-04 17:07:44]: ***  [, Level 0]: 'Nudelsaft c:' joined the spectators
+[logs/04-04-21.txt, 2021-04-04 17:07:46]: Swarfey [FookinLads, Level 37]: bin fertig
+[logs/04-04-21.txt, 2021-04-04 17:07:46]: Swarfey [FookinLads, Level 37]: bin fertig
+[logs/04-04-21.txt, 2021-04-04 17:07:47]: Swarfey [FookinLads, Level 37]: kannst wieder rein
+[logs/04-04-21.txt, 2021-04-04 17:07:47]: Swarfey [FookinLads, Level 37]: kannst wieder rein
+[logs/04-04-21.txt, 2021-04-04 17:07:48]: ***  [, Level 0]: 'x7|Supers' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:07:48]: ***  [, Level 0]: '₯-Akuma-'♥'' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:07:48]: ***  [, Level 0]: 'x7|Supers' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:07:48]: ***  [, Level 0]: 'Swarfey' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:07:48]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:07:48]: ***  [, Level 0]: '₯-Akuma-'♥'' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:07:48]: ***  [, Level 0]: 'Swarfey' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:07:48]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
