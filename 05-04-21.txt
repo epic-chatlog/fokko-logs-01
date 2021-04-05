@@ -2360,3 +2360,13 @@
 [logs/05-04-21.txt, 2021-04-05 02:26:58]: ***  [, Level 0]: 'ZEWO' has left the game (Too weak connection (not acked for 60 seconds))
 [logs/05-04-21.txt, 2021-04-05 02:26:58]: x7|FayZoR [xSD7, Level 42]: Kirito: hey no spike [D] ✯ |toxicd
 [logs/05-04-21.txt, 2021-04-05 02:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[logs/05-04-21.txt, 2021-04-05 02:27:02]: Kirito [Chilli.*, Level 34]: [D] BC|Tixnix: mit deinen 11 jahren xD
+[logs/05-04-21.txt, 2021-04-05 02:27:03]: ***  [, Level 0]: '[D] Fearless' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:27:06]: Fearless [FookinLads, Level 40]: YelloWorlD:  open
+[logs/05-04-21.txt, 2021-04-05 02:27:07]: Fearless [FookinLads, Level 40]: :C
+[logs/05-04-21.txt, 2021-04-05 02:27:08]: Kirito [Chilli.*, Level 34]: x7|FayZoR: he is my friend we are in discord
+[logs/05-04-21.txt, 2021-04-05 02:27:09]: BulgarianTee [CleanUpCrew, Level 38]: weqe:
+[logs/05-04-21.txt, 2021-04-05 02:27:12]: Sutzer [Guard, Level 0]: BulgarianTee: heeey sup
+[logs/05-04-21.txt, 2021-04-05 02:27:12]: BC|Tixnix [BC, Level 34]: Kirito: 14
+[logs/05-04-21.txt, 2021-04-05 02:27:12]: [D] ✯ |toxicd [|Supressed, Level 0]: x7|FayZoR: k
+[logs/05-04-21.txt, 2021-04-05 02:27:13]: Fearless [FookinLads, Level 40]: Kirito:  open portal spawn
