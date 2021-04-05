@@ -4644,3 +4644,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:21:01]:   [, Level 0]: Kezo: xD
 [logs/05-04-21.txt, 2021-04-05 05:21:10]: MieSlime [FookinLads, Level 43]: who are u ? wtf
 [logs/05-04-21.txt, 2021-04-05 05:21:21]: ***  [, Level 0]: 'weqe' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:21:34]: MieSlime [FookinLads, Level 43]: koro:  c'est qui lui ?
+[logs/05-04-21.txt, 2021-04-05 05:21:35]: ***  [, Level 0]: '~DemoizL~' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:21:41]: [D] ✯ |toxicd [|Supressed, Level 0]: Kezo:
