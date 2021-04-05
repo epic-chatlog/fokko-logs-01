@@ -2566,3 +2566,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:41:10]: Noémi[Đ] [citrom, Level 32]: Fearless: akk ki ?
 [logs/05-04-21.txt, 2021-04-05 02:41:12]: ***  [, Level 0]: 'power2' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:41:21]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:41:36]: Fearless [FookinLads, Level 40]: Noémi[Đ]:  kor
+[logs/05-04-21.txt, 2021-04-05 02:41:37]: Fearless [FookinLads, Level 40]: Noémi[Đ]:  koro
