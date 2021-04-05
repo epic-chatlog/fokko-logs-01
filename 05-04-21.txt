@@ -2148,3 +2148,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:09:09]: (1) [, Level 60]: aah
 [logs/05-04-21.txt, 2021-04-05 02:09:21]: ***  [, Level 0]: 'Serhat_28ck' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:09:24]: Kirito [Chilli.*, Level 34]: Tixnix: kind xD
+[logs/05-04-21.txt, 2021-04-05 02:09:35]: Kirito [Chilli.*, Level 34]: Tixnix: bin 18 was willst du mit deinen 11 jahren hab mal respekt
+[logs/05-04-21.txt, 2021-04-05 02:09:35]: BulgarianTee [CleanUpCrew, Level 38]: OK I GO AFK BB
+[logs/05-04-21.txt, 2021-04-05 02:09:43]: BC|Tixnix [BC, Level 34]: Kirito: 19 hahaha noob
