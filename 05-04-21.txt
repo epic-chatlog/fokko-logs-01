@@ -3227,3 +3227,10 @@
 [logs/05-04-21.txt, 2021-04-05 03:41:19]: I SAD [♥, Level 30]: Kirito:
 [logs/05-04-21.txt, 2021-04-05 03:41:21]: I SAD [♥, Level 30]: Kirito: why
 [logs/05-04-21.txt, 2021-04-05 03:41:21]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:41:23]: I SAD [♥, Level 30]: Kirito: bro
+[logs/05-04-21.txt, 2021-04-05 03:41:24]: I SAD [♥, Level 30]: why
+[logs/05-04-21.txt, 2021-04-05 03:41:25]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:41:30]: I SAD [♥, Level 30]: why
+[logs/05-04-21.txt, 2021-04-05 03:41:32]: Isegrin [, Level 54]: LareneGyvaeh: its me cyka bliet
+[logs/05-04-21.txt, 2021-04-05 03:41:33]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:41:34]: I SAD [♥, Level 30]: fuck you whyy
