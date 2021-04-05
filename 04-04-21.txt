@@ -15069,3 +15069,7 @@
 [logs/04-04-21.txt, 2021-04-04 23:05:36]: (3)SAUD [, Level 8]: '
 [logs/04-04-21.txt, 2021-04-04 23:05:38]: PoliceTee [xSD7, Level 0]: tape 2
 [logs/04-04-21.txt, 2021-04-04 23:05:42]: PoliceTee [xSD7, Level 0]: take*
+[logs/04-04-21.txt, 2021-04-04 23:05:48]: PoliceTee [xSD7, Level 0]: E
+[logs/04-04-21.txt, 2021-04-04 23:05:52]: PoliceTee [xSD7, Level 0]: XDDD
+[logs/04-04-21.txt, 2021-04-04 23:05:57]: (3)SAUD [, Level 8]: xD
+[logs/04-04-21.txt, 2021-04-04 23:05:57]: PoliceTee [xSD7, Level 0]: first try
