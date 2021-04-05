@@ -9814,3 +9814,5 @@
 [2021-04-05 10:30:11]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
 [2021-04-05 10:30:12]: Maatiteusz [TrRShClNrRs, Level 35]: power:
 [2021-04-05 10:30:17]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
+[2021-04-05 10:30:27]: bob [Legacy™, Level 36]: peace me
+[2021-04-05 10:30:29]: bob [Legacy™, Level 36]: i love you
