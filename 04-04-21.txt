@@ -14097,3 +14097,4 @@
 [logs/04-04-21.txt, 2021-04-04 17:38:37]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: XDDD
 [logs/04-04-21.txt, 2021-04-04 17:38:45]: Royal [, Level 0]: both of u garbage
 [logs/04-04-21.txt, 2021-04-04 17:38:45]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: love ur hate
+[logs/04-04-21.txt, 2021-04-04 17:39:38]: ***  [, Level 0]: x7|FayZoR is on a killing spree with 15 blocks
