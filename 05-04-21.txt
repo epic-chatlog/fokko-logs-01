@@ -11860,3 +11860,5 @@
 [2021-04-05 12:14:20]: NetFlix [, Level 15]: |HolyHo|:
 [2021-04-05 12:14:30]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-05 12:14:49]: ***  [, Level 0]: 'falkenauge' entered and joined the game
+[2021-04-05 12:15:11]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-05 12:15:20]: NetFlix [, Level 15]: HardreenClutch: the bank?
