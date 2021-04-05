@@ -14549,3 +14549,5 @@
 [logs/04-04-21.txt, 2021-04-04 21:56:44]: BulgarianTee [xSD7, Level 0]: weqe: its heavygeneral's skin
 [logs/04-04-21.txt, 2021-04-04 21:56:54]: weqe [MNKY, Level 11]: i dont know heavygenerals skin
 [logs/04-04-21.txt, 2021-04-04 21:56:57]: weqe [MNKY, Level 11]: i dont use ddnet
+[logs/04-04-21.txt, 2021-04-04 21:57:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[logs/04-04-21.txt, 2021-04-04 21:57:00]: BulgarianTee [xSD7, Level 0]: Xddd
