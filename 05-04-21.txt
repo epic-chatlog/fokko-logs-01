@@ -13496,3 +13496,4 @@
 [2021-04-05 14:56:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-05 14:57:06]: Shiro. [404, Level 42]: cadeau mec
 [2021-04-05 14:57:11]: ~DemoizL~ [, Level 39]: Shiro.: mais ;-;
+[2021-04-05 14:57:24]: ~DemoizL~ [, Level 39]: Shiro.: je le veux pas ton compte
