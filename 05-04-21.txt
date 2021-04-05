@@ -839,3 +839,9 @@
 [logs/05-04-21.txt, 2021-04-05 00:59:55]: SAUD [, Level 0]: MieSlime:  yeah u tried to kill me
 [logs/05-04-21.txt, 2021-04-05 00:59:58]: SAUD [, Level 0]: Kirito:  ???
 [logs/05-04-21.txt, 2021-04-05 00:59:59]: kais [, Level 65]: BulgarianTee: ok
+[logs/05-04-21.txt, 2021-04-05 01:00:00]: Boti. [.bad, Level 27]: i killed them in 2v1
+[logs/05-04-21.txt, 2021-04-05 01:00:01]: BulgarianTee [xSD7, Level 38]: kais: what
+[logs/05-04-21.txt, 2021-04-05 01:00:03]: BulgarianTee [xSD7, Level 38]: kaisSOTP
+[logs/05-04-21.txt, 2021-04-05 01:00:03]: weqe [MNKY, Level 11]: MieSlime: fuck ur self
+[logs/05-04-21.txt, 2021-04-05 01:00:07]: Kirito [♥, Level 34]: SAUD: traitor
+[logs/05-04-21.txt, 2021-04-05 01:00:12]: MieSlime [FookinLads, Level 43]: SAUD: u bcs U killed me
