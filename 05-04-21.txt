@@ -5600,3 +5600,9 @@
 [2021-04-05 06:19:29]: ***  [, Level 0]: ### 'Kezo' war
 [2021-04-05 06:19:31]: ***  [, Level 0]: '(1)Friendiship ;' entered and joined the game
 [2021-04-05 06:19:34]: weqe [MNKY, Level 11]: ERROR: last chance , say sry or war
+[2021-04-05 06:19:37]: ***  [, Level 0]: ### 'Tziys*' war
+[2021-04-05 06:19:41]: ✯ |toxicdaddy [|Supressed, Level 25]: sp
+[2021-04-05 06:19:41]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-05 06:19:41]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-05 06:19:45]: ***  [, Level 0]: 'Koishi' entered and joined the game
+[2021-04-05 06:19:47]: ***  [, Level 0]: 'Koishi' has left the game
