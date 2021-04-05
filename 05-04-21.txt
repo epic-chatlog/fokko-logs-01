@@ -412,3 +412,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:35:19]: weqe [MNKY, Level 11]: Vodo4ka: stop being annoying
 [logs/05-04-21.txt, 2021-04-05 00:35:28]: Vodo4ka [JB.st, Level 41]: BulgarianTee: i see u have dog
 [logs/05-04-21.txt, 2021-04-05 00:35:38]: BulgarianTee [xSD7, Level 38]: Vodo4ka: me and weqe are friends
+[logs/05-04-21.txt, 2021-04-05 00:35:53]: weqe [MNKY, Level 11]: yes Vodo4ka
+[logs/05-04-21.txt, 2021-04-05 00:35:55]: weqe [MNKY, Level 11]: BulgarianTee: is like my son
