@@ -609,3 +609,9 @@
 [logs/05-04-21.txt, 2021-04-05 00:45:50]: BulgarianTee [xSD7, Level 38]: kid gang pog
 [logs/05-04-21.txt, 2021-04-05 00:45:52]: ***  [, Level 0]: 'Vodo4ka' has left the game
 [logs/05-04-21.txt, 2021-04-05 00:45:56]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:46:02]: mamikral011 [, Level 26]: kais:
+[logs/05-04-21.txt, 2021-04-05 00:46:05]: ***  [, Level 0]: '(1)SAUD' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:46:05]: mamikral011 [, Level 26]: kais:
+[logs/05-04-21.txt, 2021-04-05 00:46:10]: (1)SAUD [, Level 0]: this fckin internet
+[logs/05-04-21.txt, 2021-04-05 00:46:10]: ***  [, Level 0]: 'SAUD' has left the game (Timeout)
+[logs/05-04-21.txt, 2021-04-05 00:46:12]: mamikral011 [, Level 26]: (1)kais:
