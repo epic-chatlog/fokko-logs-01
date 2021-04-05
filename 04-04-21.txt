@@ -15371,3 +15371,7 @@
 [logs/04-04-21.txt, 2021-04-04 23:36:39]: Vodo4ka [JB.st, Level 41]: XHAHAHA
 [logs/04-04-21.txt, 2021-04-04 23:36:43]: Vodo4ka [JB.st, Level 41]: BulgarianTee: Пятёрочка
 [logs/04-04-21.txt, 2021-04-04 23:36:47]: ***  [, Level 0]: '(1)R2D2' has left the game
+[logs/04-04-21.txt, 2021-04-04 23:36:50]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 23:36:51]: Vodo4ka [JB.st, Level 41]: BulgarianTee: u know dat shop in russia
+[logs/04-04-21.txt, 2021-04-04 23:36:52]: Vodo4ka [JB.st, Level 41]: BulgarianTee: 5ka
+[logs/04-04-21.txt, 2021-04-04 23:37:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
