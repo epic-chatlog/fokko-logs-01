@@ -4852,3 +4852,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:38:29]: ***  [, Level 0]: 'Cosmo' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:38:29]:   [, Level 0]: (1)Swarfey: Swarfey:asd
 [logs/05-04-21.txt, 2021-04-05 05:38:30]: ***  [, Level 0]: '(1)Swarfey' has been muted for 60 seconds
+[logs/05-04-21.txt, 2021-04-05 05:38:36]: ***  [, Level 0]: 'σмєтнιηg' changed name to 'S Y T H N'
+[logs/05-04-21.txt, 2021-04-05 05:38:41]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:38:41]: ***  [, Level 0]: '(1)Swarfey' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:38:43]: Tziys* [FookinLads, Level 38]: mami: sg yaw
