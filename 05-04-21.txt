@@ -447,3 +447,9 @@
 [logs/05-04-21.txt, 2021-04-05 00:37:20]: ***  [, Level 0]: 'comic' joined the minigame 'Survival', use '/survival' to join aswell
 [logs/05-04-21.txt, 2021-04-05 00:37:24]: ***  [, Level 0]: '[D] Boti.' finished the special race!
 [logs/05-04-21.txt, 2021-04-05 00:37:28]: BulgarianTee [xSD7, Level 38]: Ƭevan: CHILL
+[logs/05-04-21.txt, 2021-04-05 00:37:28]: ***  [, Level 0]: 'Boti.' finished the special race!
+[logs/05-04-21.txt, 2021-04-05 00:37:30]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: Vodo4ka: privet ya tebya lublyu nadeyus u tebya horoshi den
+[logs/05-04-21.txt, 2021-04-05 00:37:33]: (1)kais [, Level 58]: TL|ŦƹƦ$ŦǾN: very good
+[logs/05-04-21.txt, 2021-04-05 00:37:36]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: Asta: i hope you have a great day ily
+[logs/05-04-21.txt, 2021-04-05 00:37:38]: ***  [, Level 0]: 'nameless te' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:37:38]: BulgarianTee [xSD7, Level 38]: weqe: Ƭevan MieSlime OMG GAYS AF
