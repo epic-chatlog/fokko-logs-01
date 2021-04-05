@@ -5359,3 +5359,22 @@
 [2021-04-05 06:06:50]: Nudelsaft c: [PoopinLads, Level 0]: TL|ŦƹƦ$ŦǾN: all 4 farm
 [2021-04-05 06:06:50]: Nudelsaft c: [PoopinLads, Level 0]: TL|ŦƹƦ$ŦǾN: all 4 farm
 [2021-04-05 06:06:54]: weqe [MNKY, Level 11]: bob brother
+[2021-04-05 06:07:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-05 06:07:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-05 06:07:01]: Nudelsaft c: [PoopinLads, Level 0]: TL|ŦƹƦ$ŦǾN: but the detection if its the first or 2nd client is trash
+[2021-04-05 06:07:01]: Nudelsaft c: [PoopinLads, Level 0]: TL|ŦƹƦ$ŦǾN: but the detection if its the first or 2nd client is trash
+[2021-04-05 06:07:06]: bob [Legacy™, Level 36]: brother weqe
+[2021-04-05 06:07:06]: bob [Legacy™, Level 36]: brother weqe
+[2021-04-05 06:07:07]: ←   [, Level 0]: disconnect; connect 51.210.171.47:7303
+[2021-04-05 06:07:07]: ***  [, Level 0]: '(1)ai9u7wgreauiw' has left the game
+[2021-04-05 06:07:07]: ***  [, Level 0]: '(1)chillerdagorn' has left the game
+[2021-04-05 06:07:07]: ***  [, Level 0]: '(1)chillerdagorn' entered and joined the game
+[2021-04-05 06:07:07]: ***  [, Level 0]: '(1)chillerdagorn' entered and joined the game
+[2021-04-05 06:07:07]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
+[2021-04-05 06:07:08]: ***  [, Level 0]: '(1)ai9u7wgreauiw' entered and joined the game
+[2021-04-05 06:07:08]: ***  [, Level 0]: '(1)ai9u7wgreauiw' entered and joined the game
+[2021-04-05 06:07:08]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
+[2021-04-05 06:07:08]: ERROR [404, Level 56]: TL|ŦƹƦ$ŦǾN:  what u doin xD
+[2021-04-05 06:07:08]: ***  [, Level 0]: This account is already logged in
+[2021-04-05 06:07:10]: Nudelsaft c: [PoopinLads, Level 0]: a
+[2021-04-05 06:07:10]: Nudelsaft c: [PoopinLads, Level 0]: a
