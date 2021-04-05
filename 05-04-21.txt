@@ -6295,3 +6295,5 @@
 [2021-04-05 07:09:01]: (3)SAUD [, Level 8]: hola ♥TAKO♥
 [2021-04-05 07:09:08]: ♥TAKO♥ [, Level 24]: SAUD:  hola
 [2021-04-05 07:09:19]: (3)SAUD [, Level 8]: keep farming ♥TAKO♥
+[2021-04-05 07:09:52]: ZEWO [, Level 0]: (1)ChillerDragon: what talk
+[2021-04-05 07:09:54]: ***  [, Level 0]: 'KriegInCome' entered and joined the game
