@@ -2760,3 +2760,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:02:16]: Ƭevan [TrRShClNrRs, Level 48]: nub
 [logs/05-04-21.txt, 2021-04-05 03:02:21]: TimePause [xSD7, Level 0]: BulgarianTee: yo
 [logs/05-04-21.txt, 2021-04-05 03:02:21]: ***  [, Level 0]: 'Rock' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:02:36]: BulgarianTee [CleanUpCrew, Level 38]: E
