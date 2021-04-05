@@ -1951,3 +1951,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:57:37]: ***  [, Level 0]: Royal's killing spree was ended by el champeon (5 blocks)
 [logs/05-04-21.txt, 2021-04-05 01:57:37]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:57:37]: (1)kais [, Level 58]: BulgarianTee: look discord nobo
+[logs/05-04-21.txt, 2021-04-05 01:57:41]: weqe [MNKY, Level 11]: XDDD
+[logs/05-04-21.txt, 2021-04-05 01:57:41]: ***  [, Level 0]: 'Idk' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:57:42]: ***  [, Level 0]: 'Hady' has left the game
