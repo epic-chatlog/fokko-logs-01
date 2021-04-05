@@ -14858,3 +14858,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:34:27]: ***  [, Level 0]: '(1)oyun krallı' joined the game
 [logs/04-04-21.txt, 2021-04-04 22:34:28]: PoliceTee [xSD7, Level 0]: and see wtf is happening when im not online
 [logs/04-04-21.txt, 2021-04-04 22:34:30]: PoliceTee [xSD7, Level 0]: in the eyes of a random
+[logs/04-04-21.txt, 2021-04-04 22:34:37]: PoliceTee [xSD7, Level 0]: i got it all documented in one cringy diary
+[logs/04-04-21.txt, 2021-04-04 22:34:40]: PoliceTee [xSD7, Level 0]: "Farmhead's diary"
