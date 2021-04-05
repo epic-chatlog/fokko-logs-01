@@ -3469,3 +3469,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:01:57]: Cylox♥ [♥, Level 30]: Foxie♥: why ro
 [logs/05-04-21.txt, 2021-04-05 04:02:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [logs/05-04-21.txt, 2021-04-05 04:02:01]:   [, Level 0]: Foxie♥: Cylox.♥: ?
+[logs/05-04-21.txt, 2021-04-05 04:02:12]: Kirito [♥, Level 35]: Cylox.♥: u want down?
+[logs/05-04-21.txt, 2021-04-05 04:02:15]: ***  [, Level 0]: 'wa̷rha̷mmer' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:02:17]: ***  [, Level 0]: 'RoberGN' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:02:17]:   [, Level 0]: Shiro.: xaxaxa
