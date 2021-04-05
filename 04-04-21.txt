@@ -13929,3 +13929,9 @@
 [logs/04-04-21.txt, 2021-04-04 17:06:33]: ***  [, Level 0]: 'x7|zemer' has left the game
 [logs/04-04-21.txt, 2021-04-04 17:06:39]: ***  [, Level 0]: 'σмєтнιηg' has left the game
 [logs/04-04-21.txt, 2021-04-04 17:06:39]: ***  [, Level 0]: 'σмєтнιηg' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:06:56]: x7|KshKsh99 [xSD7, Level 0]: wow
+[logs/04-04-21.txt, 2021-04-04 17:06:56]: x7|KshKsh99 [xSD7, Level 0]: wow
+[logs/04-04-21.txt, 2021-04-04 17:07:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[logs/04-04-21.txt, 2021-04-04 17:07:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[logs/04-04-21.txt, 2021-04-04 17:07:01]: Swarfey [FookinLads, Level 0]: S Y T H N: diesmal auch wirklich nur für 15 sekunden weil ich gleich pennen gehe xD
+[logs/04-04-21.txt, 2021-04-04 17:07:01]: Swarfey [FookinLads, Level 0]: S Y T H N: diesmal auch wirklich nur für 15 sekunden weil ich gleich pennen gehe xD
