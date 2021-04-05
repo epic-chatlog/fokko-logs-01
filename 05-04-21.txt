@@ -4154,3 +4154,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:38:05]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 04:38:05]: BulgarianTee [CleanUpCrew, Level 38]: weqe:
 [logs/05-04-21.txt, 2021-04-05 04:38:08]: |MıssOяchiĐ| [, Level 48]: BulgarianTee: why:(
+[logs/05-04-21.txt, 2021-04-05 04:38:14]: (1)kais [, Level 58]: Shiro.: j'ai grab
+[logs/05-04-21.txt, 2021-04-05 04:38:15]: BulgarianTee [CleanUpCrew, Level 38]: |MıssOяchiĐ|: shiro helper
+[logs/05-04-21.txt, 2021-04-05 04:38:19]: |MıssOяchiĐ| [, Level 48]: BulgarianTee: hm
