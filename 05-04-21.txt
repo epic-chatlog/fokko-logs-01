@@ -9833,3 +9833,5 @@
 [2021-04-05 10:31:57]: ***  [, Level 0]: 'power' has left the game
 [2021-04-05 10:32:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-05 10:32:00]:   [, Level 0]: H0dƌƔ1: Kezo: nah not rly
+[2021-04-05 10:32:14]: Andromeda [, Level 0]: Kezo: so u best player?
+[2021-04-05 10:32:24]: Kezo [FookinLads, Level 41]: Andromeda: no wtf
