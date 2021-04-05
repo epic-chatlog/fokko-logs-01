@@ -1051,3 +1051,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:09:13]: Leblebi [, Level 22]: tf
 [logs/05-04-21.txt, 2021-04-05 01:09:30]: ***  [, Level 0]: 'MrHawkin' has left the game
 [logs/05-04-21.txt, 2021-04-05 01:09:30]: comic [comically, Level 13]: el champeon: like what did tevan do to you
+[logs/05-04-21.txt, 2021-04-05 01:09:31]: BulgarianTee [xSD7, Level 38]: MieSlime: ur brother big saver
+[logs/05-04-21.txt, 2021-04-05 01:09:36]: Vodo4ka [JB.st, Level 41]: (1)kais: just shotgun weapon bruh
+[logs/05-04-21.txt, 2021-04-05 01:09:36]: MieSlime [FookinLads, Level 43]: Cylox:  really ?
+[logs/05-04-21.txt, 2021-04-05 01:09:40]: MieSlime [FookinLads, Level 43]: Cylox:  u want war ?
