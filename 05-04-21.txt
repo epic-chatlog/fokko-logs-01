@@ -205,3 +205,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:17:25]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 00:17:29]: Vodo4ka [JB.st, Level 41]: BulgarianTee: endless gay heavy
 [logs/05-04-21.txt, 2021-04-05 00:17:34]: BulgarianTee [xSD7, Level 38]: Vodo4ka: talk with me out of freeze
+[logs/05-04-21.txt, 2021-04-05 00:17:45]: Vodo4ka [JB.st, Level 41]: BulgarianTee: u dangerous
+[logs/05-04-21.txt, 2021-04-05 00:17:54]: Vodo4ka [JB.st, Level 41]: weqe: poka
+[logs/05-04-21.txt, 2021-04-05 00:17:56]: weqe [MNKY, Level 11]: poka !!
