@@ -155,3 +155,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:14:16]: BulgarianTee [xSD7, Level 38]: Vodo4ka: depends
 [logs/05-04-21.txt, 2021-04-05 00:14:18]: oyun krallı [, Level 11]: wa̷rha̷mmer:  help
 [logs/05-04-21.txt, 2021-04-05 00:14:21]: BulgarianTee [xSD7, Level 38]: Vodo4ka: do you like my skin :D?
+[logs/05-04-21.txt, 2021-04-05 00:14:28]: Vodo4ka [JB.st, Level 41]: wat's mean depends XD
+[logs/05-04-21.txt, 2021-04-05 00:14:34]: BulgarianTee [xSD7, Level 38]: Vodo4ka: depends = not for sure
+[logs/05-04-21.txt, 2021-04-05 00:14:36]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
