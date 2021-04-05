@@ -561,3 +561,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:43:09]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' has left the game
 [logs/05-04-21.txt, 2021-04-05 00:43:12]: Boti. [.bad, Level 27]: rq
 [logs/05-04-21.txt, 2021-04-05 00:43:13]: Vodo4ka [JB.st, Level 41]: XDD
+[logs/05-04-21.txt, 2021-04-05 00:43:17]: mamikral011 [, Level 26]: weqe: pls sorry help
+[logs/05-04-21.txt, 2021-04-05 00:43:21]: ***  [, Level 0]: 'Лимонад' entered and joined the game
