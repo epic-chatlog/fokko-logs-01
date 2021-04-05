@@ -3331,3 +3331,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:51:03]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:51:08]:   [, Level 0]: Foxi♥: Kirito: waht do u mean
 [logs/05-04-21.txt, 2021-04-05 03:51:09]: Isegrin [, Level 54]: BulgarianTee: prand mein bruer
+[logs/05-04-21.txt, 2021-04-05 03:51:12]: Isegrin [, Level 54]: BulgarianTee: bruder
+[logs/05-04-21.txt, 2021-04-05 03:51:14]:   [, Level 0]: Foxi♥: Kirito: What
