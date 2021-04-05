@@ -1927,3 +1927,10 @@
 [logs/05-04-21.txt, 2021-04-05 01:56:34]: Hady [new bot, Level 33]: ?
 [logs/05-04-21.txt, 2021-04-05 01:56:37]: ***  [, Level 0]: 'Lucas' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:56:41]: Hady [new bot, Level 33]: Souly:  hello
+[logs/05-04-21.txt, 2021-04-05 01:56:52]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:56:55]: [D] Leblebi [, Level 18]: hey (1)Kirito
+[logs/05-04-21.txt, 2021-04-05 01:56:58]: Souly [acqwerty, Level 60]: BulgarianTee: i heard that statistically 1 in 1 Bulgarians are gay
+[logs/05-04-21.txt, 2021-04-05 01:56:59]: weqe [MNKY, Level 11]: x7|FayZoR:
+[logs/05-04-21.txt, 2021-04-05 01:57:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[logs/05-04-21.txt, 2021-04-05 01:57:00]: ***  [, Level 0]: Royal is on a killing spree with 5 blocks
+[logs/05-04-21.txt, 2021-04-05 01:57:03]: Souly [acqwerty, Level 60]: BulgarianTee: seems like its true
