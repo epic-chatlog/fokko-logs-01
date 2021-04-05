@@ -14643,3 +14643,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:11:06]: PoliceTee [xSD7, Level 0]: fuck this adidas hardbass is lagging me
 [logs/04-04-21.txt, 2021-04-04 22:11:10]: PoliceTee [xSD7, Level 0]: Boti.: no XD
 [logs/04-04-21.txt, 2021-04-04 22:11:14]: Boti. [.bad, Level 32]: saddo
+[logs/04-04-21.txt, 2021-04-04 22:11:34]: PoliceTee [xSD7, Level 0]: Boti.: you know MIPOLO from blmapchill? no? saddo
