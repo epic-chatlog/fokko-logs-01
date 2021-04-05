@@ -15514,3 +15514,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:55:27]: wa̷rha̷mmer [, Level 0]: HELLO POLİCETEE
 [logs/04-04-21.txt, 2021-04-04 23:55:29]: ***  [, Level 0]: 'Лимонад' has left the game
 [logs/04-04-21.txt, 2021-04-04 23:55:30]: PoliceTee [xSD7, Level 25]: XDD
+[logs/04-04-21.txt, 2021-04-04 23:55:45]: GODLIKe [hax, Level 44]: warhammer
+[logs/04-04-21.txt, 2021-04-04 23:55:50]: R2D2 [, Level 0]: lekker voor sukkel
