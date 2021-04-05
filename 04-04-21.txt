@@ -14037,3 +14037,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:26:07]: x7|KshKsh99 [xSD7, Level 0]: with out the
 [logs/04-04-21.txt, 2021-04-04 17:26:35]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: can't come in the room now :/
 [logs/04-04-21.txt, 2021-04-04 17:27:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[logs/04-04-21.txt, 2021-04-04 17:27:12]: x7|FayZoR [xSD7, Level 42]: Who B): just for fun don't restart xD
+[logs/04-04-21.txt, 2021-04-04 17:27:17]: Who B) [no u, Level 0]: na
