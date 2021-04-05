@@ -2309,3 +2309,7 @@
 [logs/05-04-21.txt, 2021-04-05 02:23:01]: BulgarianTee [CleanUpCrew, Level 38]: and then just one grenade and poof - in freeze
 [logs/05-04-21.txt, 2021-04-05 02:23:04]: ***  [, Level 0]: '[D] Fearless' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:23:25]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: soo that boring, i think go eat
+[logs/05-04-21.txt, 2021-04-05 02:23:29]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:23:31]: BulgarianTee [CleanUpCrew, Level 38]: [D] Sutzer: yoo you helper ERROR yesterday yes?
+[logs/05-04-21.txt, 2021-04-05 02:23:39]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: i gtg eat too tho XDDd
+[logs/05-04-21.txt, 2021-04-05 02:23:40]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: is a god error
