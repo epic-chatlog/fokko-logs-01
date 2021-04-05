@@ -3222,3 +3222,8 @@
 [logs/05-04-21.txt, 2021-04-05 03:40:49]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 03:40:50]: Isegrin [, Level 54]: HeavyGeneral: WAKE UP
 [logs/05-04-21.txt, 2021-04-05 03:40:53]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:41:12]: ***  [, Level 0]: 'Yavuz' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:41:17]: BulgarianTee [CleanUpCrew, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 03:41:19]: I SAD [♥, Level 30]: Kirito:
+[logs/05-04-21.txt, 2021-04-05 03:41:21]: I SAD [♥, Level 30]: Kirito: why
+[logs/05-04-21.txt, 2021-04-05 03:41:21]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
