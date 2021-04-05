@@ -13360,3 +13360,6 @@
 [2021-04-05 14:43:16]: iMxtteo [, Level 26]: [D] ✯ |toxicd: ?
 [2021-04-05 14:43:22]: [D] ✯ |toxicd [|Supressed, Level 21]: iMxtteo:  hilf mir
 [2021-04-05 14:43:34]: iMxtteo [, Level 26]: [D] ✯ |toxicd: wieso hast du auch nicht
+[2021-04-05 14:43:44]: Nudelsaft c: [FookinLads, Level 42]: geh schlafen
+[2021-04-05 14:43:51]: [D] ✯ |toxicd [|Supressed, Level 21]: ?
+[2021-04-05 14:43:56]: ERROR. [404, Level 74]: Nudelsaft c::  bist aber ziemlich überzeugt von dir xDDDD
