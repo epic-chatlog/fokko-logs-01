@@ -5161,3 +5161,7 @@
 [logs/05-04-21.txt, 2021-04-05 06:01:28]: ***  [, Level 0]: '₯-Akuma-'♥'' changed name to 'qυѕнιк'
 [logs/05-04-21.txt, 2021-04-05 06:01:31]: kais [, Level 65]: x7|FayZoR: j'me suis deep xD
 [logs/05-04-21.txt, 2021-04-05 06:01:34]: ChillerDragon [|*KoG*|, Level 44]: in 0.7 save :D
+[2021-04-05 06:02:39]: ***  [, Level 0]: 'ai9u7wgreauiwgh' entered and joined the game
+[2021-04-05 06:02:39]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
+[2021-04-05 06:02:40]: ***  [, Level 0]: Successfully logged in
+[2021-04-05 06:02:40]: ***  [, Level 0]: [WARNING] You did not set security pin yet. Check '/pin' for more information.
