@@ -3195,3 +3195,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:38:10]: Kirito [Chilli.*, Level 35]: SlerTz!♥: i cant
 [logs/05-04-21.txt, 2021-04-05 03:38:13]: BulgarianTee [CleanUpCrew, Level 38]: fak
 [logs/05-04-21.txt, 2021-04-05 03:38:15]: Shiro. [Whɪтє, Level 50]: ./login ixiixi BTPCFA5
+[logs/05-04-21.txt, 2021-04-05 03:38:27]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:38:30]: ***  [, Level 0]: 'STULEJA 3000' joined the game
