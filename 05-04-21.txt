@@ -4772,3 +4772,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:33:32]: Vodo4ka [JB.st, Level 41]: ERROR.: rly sad :ccc
 [logs/05-04-21.txt, 2021-04-05 05:33:33]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:33:35]: ♫Amirian♬ [, Level 29]: Tziys*: what kill me?
+[logs/05-04-21.txt, 2021-04-05 05:33:44]: ***  [, Level 0]: '♫Amirian♬.' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:33:44]: ***  [, Level 0]: '♫Amirian♬' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:33:50]: (1)1 [, Level 0]: WAR HAMER HELP
