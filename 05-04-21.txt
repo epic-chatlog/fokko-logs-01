@@ -2691,3 +2691,4 @@
 [logs/05-04-21.txt, 2021-04-05 02:54:54]: Fearless [FookinLads, Level 40]: HeavyGeneral:  omg
 [logs/05-04-21.txt, 2021-04-05 02:54:57]: BulgarianTee [CleanUpCrew, Level 38]: HeavyGeneral: fun in-clan war to watch
 [logs/05-04-21.txt, 2021-04-05 02:54:58]: HeavyGeneral [FookinLads, Level 44]: Fearless: just stop lmao
+[logs/05-04-21.txt, 2021-04-05 02:55:10]: Fearless [FookinLads, Level 40]: HeavyGeneral:  idc he killed my friend and me too
