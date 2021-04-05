@@ -1640,3 +1640,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:37:39]: ***  [, Level 0]: 'el champeon' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:37:46]: Kirito [Chilli.*, Level 34]: Leblebi: u didnt help me so i will never stop hunting you
 [logs/05-04-21.txt, 2021-04-05 01:37:53]: Leblebi [, Level 23]: Kirito: im sorry :{
+[logs/05-04-21.txt, 2021-04-05 01:37:56]: x7|FayZoR [xSD7, Level 42]: Leblebi: u not see ? we are ennemi, if u help him i kill u
+[logs/05-04-21.txt, 2021-04-05 01:37:59]: Hady [new bot, Level 0]: (1)kais: ?
+[logs/05-04-21.txt, 2021-04-05 01:38:02]: Kirito [Chilli.*, Level 34]: Hady: JUST KILL FUCKING KAIS FRENCH BAGUETTE SUCKER
+[logs/05-04-21.txt, 2021-04-05 01:38:06]: Hady [new bot, Level 0]: (1)kais:  you have error
