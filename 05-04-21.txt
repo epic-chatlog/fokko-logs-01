@@ -6325,3 +6325,6 @@
 [2021-04-05 07:12:29]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
 [2021-04-05 07:12:31]: ***  [, Level 0]: '(3)kais' entered and joined the game
 [2021-04-05 07:12:35]: ***  [, Level 0]: 'Black Wolf' entered and joined the game
+[2021-04-05 07:12:36]: ***  [, Level 0]: 'amycin' entered and joined the game
+[2021-04-05 07:12:42]: x7|FayZoR [xSD7, Level 42]: ZEWO:
+[2021-04-05 07:12:43]: ***  [, Level 0]: 'amycin' has left the game
