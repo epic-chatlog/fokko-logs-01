@@ -2259,3 +2259,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:17:54]: x7|FayZoR [xSD7, Level 42]: 60ms
 [logs/05-04-21.txt, 2021-04-05 02:17:57]: BulgarianTee [CleanUpCrew, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 02:17:58]: Fearless [FookinLads, Level 40]: Tixnix:  nigger
+[logs/05-04-21.txt, 2021-04-05 02:18:10]: ***  [, Level 0]: 'ZEWO' has left the game (Timeout Protection over)
+[logs/05-04-21.txt, 2021-04-05 02:18:10]: ***  [, Level 0]: 'ZEWO's dummy' has left the game (Timeout Protection over)
+[logs/05-04-21.txt, 2021-04-05 02:18:12]: x7|FayZoR [xSD7, Level 42]: weqe: i have peace with s y n t h, i don't think
