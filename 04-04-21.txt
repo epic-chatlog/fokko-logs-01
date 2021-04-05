@@ -14622,3 +14622,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:07:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [logs/04-04-21.txt, 2021-04-04 22:07:03]: PoliceTee [xSD7, Level 0]: morning blmapchill reminds me of old blmapchill
 [logs/04-04-21.txt, 2021-04-04 22:07:09]: PoliceTee [xSD7, Level 0]: it used to be like that 24/7 back in the day
+[logs/04-04-21.txt, 2021-04-04 22:07:15]: PoliceTee [xSD7, Level 0]: with like 1-2 people active
+[logs/04-04-21.txt, 2021-04-04 22:07:16]: SAUD [, Level 21]: xD
+[logs/04-04-21.txt, 2021-04-04 22:07:16]: PoliceTee [xSD7, Level 0]: XD
