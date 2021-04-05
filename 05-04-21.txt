@@ -1791,3 +1791,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:47:44]: Kirito [Chilli.*, Level 34]: Leblebi: pls come on
 [logs/05-04-21.txt, 2021-04-05 01:47:46]: [D] Leblebi [, Level 18]: u block me
 [logs/05-04-21.txt, 2021-04-05 01:47:48]: Kirito [Chilli.*, Level 34]: Leblebi: war end if u help
+[logs/05-04-21.txt, 2021-04-05 01:48:05]: Hady [new bot, Level 0]: oyun krallı:
+[logs/05-04-21.txt, 2021-04-05 01:48:05]: ***  [, Level 0]: 'Tixnix' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:48:10]: Hady [new bot, Level 0]: kais:
+[logs/05-04-21.txt, 2021-04-05 01:48:13]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
