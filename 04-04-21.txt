@@ -14954,3 +14954,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:48:05]: Boti. [.bad, Level 27]: i go afk
 [logs/04-04-21.txt, 2021-04-04 22:48:08]: PoliceTee [xSD7, Level 0]: cringe
 [logs/04-04-21.txt, 2021-04-04 22:48:11]: Boti. [.bad, Level 27]: no
+[logs/04-04-21.txt, 2021-04-04 22:48:15]: Boti. [.bad, Level 27]: i just make a crappy game.png
+[logs/04-04-21.txt, 2021-04-04 22:48:19]: PoliceTee [xSD7, Level 0]: deposit your money for if ERROR comes xd
+[logs/04-04-21.txt, 2021-04-04 22:48:19]: Boti. [.bad, Level 27]: mashup
