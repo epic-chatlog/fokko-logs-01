@@ -1624,3 +1624,11 @@
 [logs/05-04-21.txt, 2021-04-05 01:36:56]: ChillerDragon.* [|*KoG*|, Level 41]: (1)SAUD: I am currently afk.
 [logs/05-04-21.txt, 2021-04-05 01:37:00]: x7|FayZoR [xSD7, Level 42]: Kirito:
 [logs/05-04-21.txt, 2021-04-05 01:37:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[logs/05-04-21.txt, 2021-04-05 01:37:06]: Leblebi [, Level 23]: Kirito: i give your flag
+[logs/05-04-21.txt, 2021-04-05 01:37:07]: Cylox. [♥, Level 0]: (1)Kirito:
+[logs/05-04-21.txt, 2021-04-05 01:37:07]: comic [comically, Level 13]: inf jump anyone?
+[logs/05-04-21.txt, 2021-04-05 01:37:09]: PoliceTee [xSD7, Level 0]: kais: war kid
+[logs/05-04-21.txt, 2021-04-05 01:37:10]: Cylox. [♥, Level 0]: ERROR:
+[logs/05-04-21.txt, 2021-04-05 01:37:14]: Kirito [Chilli.*, Level 34]: [D] Leblebi:  DONT HELP KAIS DUDE
+[logs/05-04-21.txt, 2021-04-05 01:37:14]: ***  [, Level 0]: 'SAUD' has left the game
+[logs/05-04-21.txt, 2021-04-05 01:37:16]: (1)kais [, Level 58]: PoliceTee: xD
