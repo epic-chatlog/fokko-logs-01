@@ -15162,3 +15162,6 @@
 [logs/04-04-21.txt, 2021-04-04 23:16:31]: (1)SAUD [, Level 16]: and teeworlds pro player
 [logs/04-04-21.txt, 2021-04-04 23:16:34]: BulgarianTee [xSD7, Level 38]: i also like criminal serials and stuff like that Xdd
 [logs/04-04-21.txt, 2021-04-04 23:16:39]: BulgarianTee [xSD7, Level 38]: (1)SAUD: nah not pro
+[logs/04-04-21.txt, 2021-04-04 23:16:42]: (1)SAUD [, Level 16]: yeah
+[logs/04-04-21.txt, 2021-04-04 23:16:45]: (1)SAUD [, Level 16]: u are
+[logs/04-04-21.txt, 2021-04-04 23:16:47]: BulgarianTee [xSD7, Level 38]: im not good, its just that people in this server are bad Xdd
