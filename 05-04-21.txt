@@ -5188,3 +5188,13 @@
 [2021-04-05 06:03:13]: (1)kais [, Level 58]: x7|FayZoR: bah sans mon dummy je serais mort, soit logique non ? -_-
 [2021-04-05 06:03:15]: Boti. [.bad, Level 32]: weqe: help
 [2021-04-05 06:03:20]: x7|FayZoR [xSD7, Level 42]: kais: comme plein de fois mdr
+[2021-04-05 06:03:31]: ERROR [404, Level 56]: ✯ |toxicdaddy:  sagte doch war
+[2021-04-05 06:03:32]: (1)kais [, Level 58]: x7|FayZoR: plein, plein, faut pax exagéré non plus
+[2021-04-05 06:03:33]: ***  [, Level 0]: 'chillerdagorn' entered and joined the game
+[2021-04-05 06:03:33]: ***  [, Level 0]: 'ai9u7wgreauiwgh' entered and joined the game
+[2021-04-05 06:03:33]: ***  [, Level 0]: 'ai9u7wgreauiwgh' entered and joined the game
+[2021-04-05 06:03:33]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
+[2021-04-05 06:03:34]: ***  [, Level 0]: Successfully logged in
+[2021-04-05 06:03:34]: ***  [, Level 0]: [WARNING] You did not set security pin yet. Check '/pin' for more information.
+[2021-04-05 06:03:36]: Nudelsaft c: [PoopinLads, Level 0]: a
+[2021-04-05 06:03:36]: Nudelsaft c: [PoopinLads, Level 0]: a
