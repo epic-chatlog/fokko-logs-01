@@ -6775,3 +6775,7 @@
 [2021-04-05 07:47:45]: ***  [, Level 0]: 'Sutzer' has left the game
 [2021-04-05 07:47:45]: ***  [, Level 0]: '[D] Sutzer' has left the game
 [2021-04-05 07:47:49]:   [, Level 0]: x7|FayZoR: kais: passe par en haut je t'attrape
+[2021-04-05 07:48:03]:   [, Level 0]: x7|FayZoR: kais: ?
+[2021-04-05 07:48:05]: cookie [, Level 16]: Meetiteusz:  help me please
+[2021-04-05 07:48:07]: kais [, Level 65]: x7|FayZoR: non merce
+[2021-04-05 07:48:08]: Meetiteusz [TrRShClNrRs, Level 0]: Rock: wtf
