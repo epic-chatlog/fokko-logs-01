@@ -14815,3 +14815,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:31:01]: PoliceTee [xSD7, Level 0]: Boti.: just create Farmhead v3 and ez 3 mil
 [logs/04-04-21.txt, 2021-04-04 22:31:06]: PoliceTee [xSD7, Level 0]: Boti.: XDDDD or that
 [logs/04-04-21.txt, 2021-04-04 22:31:11]: PoliceTee [xSD7, Level 0]: E
+[logs/04-04-21.txt, 2021-04-04 22:31:19]: Boti. [.bad, Level 27]: i wait for fearless to spike
+[logs/04-04-21.txt, 2021-04-04 22:31:28]: Boti. [.bad, Level 27]: one i got 150k from him
+[logs/04-04-21.txt, 2021-04-04 22:31:28]: PoliceTee [xSD7, Level 0]: then spike fearless XD
