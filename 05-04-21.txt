@@ -8757,3 +8757,5 @@
 [2021-04-05 09:31:52]: Shiro. [404, Level 42]: sus
 [2021-04-05 09:31:56]: ***  [, Level 0]: 'Kezo' entered and joined the game
 [2021-04-05 09:32:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-05 09:32:04]: Akuma ♥ [, Level 0]: ERROR:  i will do everything for egg god
+[2021-04-05 09:32:12]: Akuma ♥ [, Level 0]: Maatiteusz:
