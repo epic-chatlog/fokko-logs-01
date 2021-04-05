@@ -4700,3 +4700,4 @@
 [logs/05-04-21.txt, 2021-04-05 05:24:58]: ***  [, Level 0]: 'Asta' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:24:58]: ***  [, Level 0]: 'MieSlime' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:24:58]: Austria [, Level 0]: do you save me now?
+[logs/05-04-21.txt, 2021-04-05 05:25:27]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
