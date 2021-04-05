@@ -3605,3 +3605,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:10:27]:   [, Level 0]: mami: |ΛnץOиe|:  why
 [logs/05-04-21.txt, 2021-04-05 04:10:32]:   [, Level 0]: |ΛnץOиe|: mami: idk but we're dead
 [logs/05-04-21.txt, 2021-04-05 04:10:33]: Foxie♥ [♥, Level 36]: Chi
+[logs/05-04-21.txt, 2021-04-05 04:10:37]:   [, Level 0]: mami: |ΛnץOиe|:  yeah i know
+[logs/05-04-21.txt, 2021-04-05 04:10:41]:   [, Level 0]: |ΛnץOиe|: mami: bahaha
+[logs/05-04-21.txt, 2021-04-05 04:10:47]:   [, Level 0]: mami: |ΛnץOиe|:  haha
