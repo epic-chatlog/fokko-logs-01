@@ -2905,3 +2905,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:19:52]: (2)oyun krallı [, Level 0]: evet
 [logs/05-04-21.txt, 2021-04-05 03:20:00]: BulgarianTee [CleanUpCrew, Level 38]: x7|zemer:
 [logs/05-04-21.txt, 2021-04-05 03:20:01]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:20:04]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:20:16]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
