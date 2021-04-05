@@ -3034,3 +3034,8 @@
 [logs/05-04-21.txt, 2021-04-05 03:28:40]: BulgarianTee [CleanUpCrew, Level 38]: x7|zemer: XDd
 [logs/05-04-21.txt, 2021-04-05 03:28:40]: oyun krallı [, Level 11]: lag
 [logs/05-04-21.txt, 2021-04-05 03:28:41]: Rock [, Level 18]: ManniK: спс)))
+[logs/05-04-21.txt, 2021-04-05 03:28:43]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:28:44]: ☭ [Drunks, Level 0]:  /login dafy4 dafy4
+[logs/05-04-21.txt, 2021-04-05 03:28:46]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:28:48]: x7|zemer [xSD7, Level 37]: BulgarianTee: XDD
+[logs/05-04-21.txt, 2021-04-05 03:28:50]: ***  [, Level 0]: 'Shiro.' entered and joined the game
