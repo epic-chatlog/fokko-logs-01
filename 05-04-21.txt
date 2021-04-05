@@ -10681,3 +10681,7 @@
 [2021-04-05 11:04:25]: Deus Ex Machina [, Level 36]: ChillerDragon: with Akalee ღ ?
 [2021-04-05 11:04:28]: mami [Ape, Level 16]: mami
 [2021-04-05 11:04:28]: Milky way [, Level 23]: ERROR.:
+[2021-04-05 11:04:33]: Discord [, Level 24]: kais: /w kais test
+[2021-04-05 11:04:34]: Akalee ღ [, Level 36]: ChillerDragon.*: Deu Sex Machina what why?
+[2021-04-05 11:04:39]: Deus Ex Machina [, Level 36]: Akalee ღ: yes
+[2021-04-05 11:04:41]: [D] ✯ |toxicd [|Supressed, Level 21]: ERROR:
