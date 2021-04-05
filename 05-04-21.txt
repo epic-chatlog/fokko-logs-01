@@ -2586,3 +2586,4 @@
 [logs/05-04-21.txt, 2021-04-05 02:44:54]: BulgarianTee [CleanUpCrew, Level 38]: keø: i just wanna go eat lunch and play gta 56
 [logs/05-04-21.txt, 2021-04-05 02:44:54]: ***  [, Level 0]: 'oyun krallı' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:44:57]: BulgarianTee [CleanUpCrew, Level 38]: keø: i just wanna go eat lunch and play gta 5*
+[logs/05-04-21.txt, 2021-04-05 02:45:34]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
