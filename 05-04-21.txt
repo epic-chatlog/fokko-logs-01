@@ -6322,3 +6322,6 @@
 [2021-04-05 07:12:18]: ***  [, Level 0]: 'Deadmouse' has left the game (Timeout)
 [2021-04-05 07:12:18]: ***  [, Level 0]: '(1)Deadmouse' entered and joined the game
 [2021-04-05 07:12:20]:   [, Level 0]: oyun krallı: gel
+[2021-04-05 07:12:29]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
+[2021-04-05 07:12:31]: ***  [, Level 0]: '(3)kais' entered and joined the game
+[2021-04-05 07:12:35]: ***  [, Level 0]: 'Black Wolf' entered and joined the game
