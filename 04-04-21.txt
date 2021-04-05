@@ -14188,3 +14188,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:56:29]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [logs/04-04-21.txt, 2021-04-04 17:56:36]: x7|KshKsh99 [xSD7, Level 37]: we cant
 [logs/04-04-21.txt, 2021-04-04 17:56:36]: x7|KshKsh99 [xSD7, Level 37]: we cant
+[logs/04-04-21.txt, 2021-04-04 17:56:38]: x7|KshKsh99 [xSD7, Level 37]: or
+[logs/04-04-21.txt, 2021-04-04 17:56:38]: x7|KshKsh99 [xSD7, Level 37]: or
