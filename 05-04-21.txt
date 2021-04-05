@@ -1795,3 +1795,4 @@
 [logs/05-04-21.txt, 2021-04-05 01:48:05]: ***  [, Level 0]: 'Tixnix' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:48:10]: Hady [new bot, Level 0]: kais:
 [logs/05-04-21.txt, 2021-04-05 01:48:13]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:48:32]: [D] Leblebi [, Level 18]: its funny xd
