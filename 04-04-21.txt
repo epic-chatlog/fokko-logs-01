@@ -14206,3 +14206,11 @@
 [logs/04-04-21.txt, 2021-04-04 17:57:38]: ***  [, Level 0]: '(1)chillerdagorn' has left the game
 [logs/04-04-21.txt, 2021-04-04 17:57:38]: ***  [, Level 0]: Collected 3 money
 [logs/04-04-21.txt, 2021-04-04 17:57:56]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: see
+[logs/04-04-21.txt, 2021-04-04 17:58:02]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: 2 account leav
+[logs/04-04-21.txt, 2021-04-04 17:58:06]: ***  [, Level 0]: '(1)chillerdagorn' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:58:06]: ***  [, Level 0]: '(1)ai9u7wgreauiw' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:58:06]: ***  [, Level 0]: '(1)ai9u7wgreauiw' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:58:06]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
+[logs/04-04-21.txt, 2021-04-04 17:58:07]: ***  [, Level 0]: This account is already logged in
+[logs/04-04-21.txt, 2021-04-04 17:58:12]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: maybe, oh come !!
+[logs/04-04-21.txt, 2021-04-04 17:58:12]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: maybe, oh come !!
