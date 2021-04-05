@@ -14234,3 +14234,6 @@
 [logs/04-04-21.txt, 2021-04-04 18:01:42]: Mr.KshKsh99 [xSD7, Level 0]: XDDDD
 [logs/04-04-21.txt, 2021-04-04 18:01:47]: x7|FayZoR [xSD7, Level 42]: gived up XDDD
 [logs/04-04-21.txt, 2021-04-04 18:02:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[logs/04-04-21.txt, 2021-04-04 18:02:08]: Mr.KshKsh99 [xSD7, Level 0]: x7|FayZoR: what if we use 6 dummy to block Kirito
+[logs/04-04-21.txt, 2021-04-04 18:02:11]: Mr.KshKsh99 [xSD7, Level 0]: with grenade
+[logs/04-04-21.txt, 2021-04-04 18:02:14]: Mr.KshKsh99 [xSD7, Level 0]: come
