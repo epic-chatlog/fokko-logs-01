@@ -11991,3 +11991,7 @@
 [2021-04-05 12:31:14]: ***  [, Level 0]: '(3)kais' entered and joined the game
 [2021-04-05 12:31:18]: ***  [, Level 0]: '(3)kais' has left the game
 [2021-04-05 12:31:21]: ***  [, Level 0]: '(3)kais' entered and joined the game
+[2021-04-05 12:31:47]: ***  [, Level 0]: ### 'WarHammer' xd
+[2021-04-05 12:31:50]: ***  [, Level 0]: 's7_sven' entered and joined the game
+[2021-04-05 12:31:53]: ***  [, Level 0]: '[D] ByRushYT' entered and joined the game
+[2021-04-05 12:31:56]: (1)|HolyHo|° [, Level 6]: koro: lag?
