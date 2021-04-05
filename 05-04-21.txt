@@ -1857,3 +1857,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:52:08]: kais [, Level 65]: x7|FayZoR: non, je joue sans sons
 [logs/05-04-21.txt, 2021-04-05 01:52:16]: BulgarianTee [xSD7, Level 38]: kais: mad cuz bad
 [logs/05-04-21.txt, 2021-04-05 01:52:20]: x7|FayZoR [xSD7, Level 42]: kais: dommage tu loupe quelque chose
+[logs/05-04-21.txt, 2021-04-05 01:52:23]: Hady [new bot, Level 33]: BulgarianTee:  you block me or fake ?
+[logs/05-04-21.txt, 2021-04-05 01:52:29]: BulgarianTee [xSD7, Level 38]: kais: u gotta think again befor u timout me ever agian
+[logs/05-04-21.txt, 2021-04-05 01:52:30]: ***  [, Level 0]: 'Soros' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:52:32]: kais [, Level 65]: x7|FayZoR: non j'aime pas les sons de ce jeu
