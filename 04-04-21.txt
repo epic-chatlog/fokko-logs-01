@@ -14674,3 +14674,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:14:45]: Boti. [.bad, Level 32]: i used to play with 0.7
 [logs/04-04-21.txt, 2021-04-04 22:14:48]: Boti. [.bad, Level 32]: teeworlds on steam
 [logs/04-04-21.txt, 2021-04-04 22:14:52]: Boti. [.bad, Level 32]: then changed
+[logs/04-04-21.txt, 2021-04-04 22:14:55]: Boti. [.bad, Level 32]: wait
