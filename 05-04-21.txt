@@ -577,3 +577,7 @@
 [logs/05-04-21.txt, 2021-04-05 00:44:15]: mamikral011 [, Level 26]: SAUD: okey okey
 [logs/05-04-21.txt, 2021-04-05 00:44:15]: Лимонад [MFG, Level 0]: bb
 [logs/05-04-21.txt, 2021-04-05 00:44:16]: (1)kais [, Level 58]: xD
+[logs/05-04-21.txt, 2021-04-05 00:44:22]: SAUD [, Level 0]: mamikral011:  i cant
+[logs/05-04-21.txt, 2021-04-05 00:44:25]: ***  [, Level 0]: 'Vodo4ka' has left the game
+[logs/05-04-21.txt, 2021-04-05 00:44:25]: ***  [, Level 0]: 'Лимонад' has left the game
+[logs/05-04-21.txt, 2021-04-05 00:44:29]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
