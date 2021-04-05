@@ -671,3 +671,7 @@
 [logs/05-04-21.txt, 2021-04-05 00:49:15]: ***  [, Level 0]: 'oyun krallı' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 00:49:18]: Asta [FookinLads, Level 40]: Boti.:  don't do it again
 [logs/05-04-21.txt, 2021-04-05 00:49:19]: ***  [, Level 0]: 'oyun krallı' joined the game
+[logs/05-04-21.txt, 2021-04-05 00:49:21]: Boti. [.bad, Level 27]: Asta: ok
+[logs/05-04-21.txt, 2021-04-05 00:49:21]: (1)kais [, Level 58]: BulgarianTee: xD
+[logs/05-04-21.txt, 2021-04-05 00:49:21]: ***  [, Level 0]: 'Neoteny' has left the game
+[logs/05-04-21.txt, 2021-04-05 00:49:24]: Asta [FookinLads, Level 40]: Boti.:  ty
