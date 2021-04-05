@@ -6276,3 +6276,7 @@
 [2021-04-05 07:07:13]: ***  [, Level 0]: '(3)SAUD' entered and joined the game
 [2021-04-05 07:07:16]: ZEWO [, Level 0]: ChillerDragon: what talk
 [2021-04-05 07:07:27]: ZEWO [, Level 0]: (1) ChillerDragon: what talk
+[2021-04-05 07:07:37]: ZEWO [, Level 0]: (1)ChillerDragon: what talk
+[2021-04-05 07:07:44]: ZEWO [, Level 0]: a
+[2021-04-05 07:07:45]:   [, Level 0]: iMxtteo: NO MORE PORTAL
+[2021-04-05 07:07:47]: ZEWO [, Level 0]: (1)ChillerDragon: what talk
