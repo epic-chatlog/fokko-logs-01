@@ -4844,3 +4844,11 @@
 [logs/05-04-21.txt, 2021-04-05 05:38:11]: ***  [, Level 0]: '(1)1' joined the game
 [logs/05-04-21.txt, 2021-04-05 05:38:13]: σмєтнιηg [zε†α, Level 0]: Vodo4ka: you meaan poka: D
 [logs/05-04-21.txt, 2021-04-05 05:38:16]: Tziys* [FookinLads, Level 38]: mami: kim dokundu flappyye kafanıza sokayım
+[logs/05-04-21.txt, 2021-04-05 05:38:22]: Vodo4ka [JB.st, Level 41]: σмєтнιηg: spy
+[logs/05-04-21.txt, 2021-04-05 05:38:22]: ✯ |toxicdaddy [|Supressed, Level 25]: koro:
+[logs/05-04-21.txt, 2021-04-05 05:38:25]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:38:25]: ***  [, Level 0]: '(1)Swarfey' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:38:25]:   [, Level 0]: (1)Swarfey: Swarfey:asd
+[logs/05-04-21.txt, 2021-04-05 05:38:29]: ***  [, Level 0]: 'Cosmo' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:38:29]:   [, Level 0]: (1)Swarfey: Swarfey:asd
+[logs/05-04-21.txt, 2021-04-05 05:38:30]: ***  [, Level 0]: '(1)Swarfey' has been muted for 60 seconds
