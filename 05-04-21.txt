@@ -3107,3 +3107,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:32:52]: ***  [, Level 0]: koro is on a killing spree with 15 blocks
 [logs/05-04-21.txt, 2021-04-05 03:32:53]: ***  [, Level 0]: 'SlerTz!' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:32:58]: YelloWorlD [404, Level 37]: koro: cpas ton clan legacy ?
+[logs/05-04-21.txt, 2021-04-05 03:33:07]: BC|Tixnix [BC, Level 34]: YelloWorlD:
+[logs/05-04-21.txt, 2021-04-05 03:33:10]:   [, Level 0]: delta: I am moneyglitching
