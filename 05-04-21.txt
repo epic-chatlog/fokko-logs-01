@@ -3010,3 +3010,8 @@
 [logs/05-04-21.txt, 2021-04-05 03:27:05]: ***  [, Level 0]: 'ImRussia822' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:27:09]: ***  [, Level 0]: 'STULEJA 3000' joined the game
 [logs/05-04-21.txt, 2021-04-05 03:27:23]: Isegrin [, Level 54]: koro: GOLD WHY SO AGRSIV
+[logs/05-04-21.txt, 2021-04-05 03:27:27]: ***  [, Level 0]: 'BC|Tixnix' joined the minigame 'Block', use '/block' to join aswell
+[logs/05-04-21.txt, 2021-04-05 03:27:28]: ***  [, Level 0]: '★☭★' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:27:32]: ***  [, Level 0]: 'Paaradox' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:27:33]: ***  [, Level 0]: 'BC|Tixnix' left the minigame 'Block'
+[logs/05-04-21.txt, 2021-04-05 03:27:34]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
