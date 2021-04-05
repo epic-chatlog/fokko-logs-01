@@ -1476,3 +1476,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:28:48]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:28:54]: KG | Kirito [KaisGay, Level 34]: ChillerDragon: was geht
 [logs/05-04-21.txt, 2021-04-05 01:28:54]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:28:58]: x7|FayZoR [xSD7, Level 42]: (1)Kirito: me too but no help kais in a fight, i no help (1)Kirito in your fight
+[logs/05-04-21.txt, 2021-04-05 01:28:58]: ***  [, Level 0]: '(1)ChillerDragon' changed name to '(2)ChillerDragon'
+[logs/05-04-21.txt, 2021-04-05 01:28:59]: (1)ChillerDrago [|*KoG*|, Level 30]: yo (1)Kirito
