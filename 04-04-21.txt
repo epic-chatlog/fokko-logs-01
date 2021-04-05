@@ -14512,3 +14512,4 @@
 [logs/04-04-21.txt, 2021-04-04 20:36:00]: ***  [, Level 0]: 'ERROR.' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 20:36:19]: ERROR. [404, Level 73]: so cya
 [logs/04-04-21.txt, 2021-04-04 20:37:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[logs/04-04-21.txt, 2021-04-04 20:38:18]: ***  [, Level 0]: 'Larifari' entered and joined the game
