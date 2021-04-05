@@ -6707,3 +6707,4 @@
 [2021-04-05 07:41:55]: kais [, Level 65]: non
 [2021-04-05 07:41:56]: kais [, Level 65]: une
 [2021-04-05 07:42:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-05 07:42:14]: ***  [, Level 0]: 'nameless tee' finished the special race!
