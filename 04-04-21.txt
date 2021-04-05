@@ -14190,3 +14190,7 @@
 [logs/04-04-21.txt, 2021-04-04 17:56:36]: x7|KshKsh99 [xSD7, Level 37]: we cant
 [logs/04-04-21.txt, 2021-04-04 17:56:38]: x7|KshKsh99 [xSD7, Level 37]: or
 [logs/04-04-21.txt, 2021-04-04 17:56:38]: x7|KshKsh99 [xSD7, Level 37]: or
+[logs/04-04-21.txt, 2021-04-04 17:57:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[logs/04-04-21.txt, 2021-04-04 17:57:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[logs/04-04-21.txt, 2021-04-04 17:57:01]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:57:01]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
