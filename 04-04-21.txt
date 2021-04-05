@@ -13887,3 +13887,5 @@
 [2021-04-04 17:00:48]: ***  [, Level 0]: 'Swarfey' has left the game
 [2021-04-04 17:00:58]: x7|Supers [xSD7, Level 0]: x7|FayZoR:  go spike him you are so big and strong
 [2021-04-04 17:01:00]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-04 17:01:38]: ***  [, Level 0]: 'chillerdagorn' has left the game
+[2021-04-04 17:01:38]: ***  [, Level 0]: 'ai9u7wgreauiwgh' has left the game
