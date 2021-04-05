@@ -7976,3 +7976,4 @@
 [2021-04-05 08:55:33]: Swarfey [, Level 37]: unspec
 [2021-04-05 08:55:36]:   [, Level 0]: |MıssOяchiĐ|: Light Rider: URE IN LIFEE
 [2021-04-05 08:55:39]:   [, Level 0]: |MıssOяchiĐ|: Light Rider: stay here
+[2021-04-05 08:55:56]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
