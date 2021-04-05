@@ -5808,3 +5808,7 @@
 [2021-04-05 06:31:38]: Kezo [FookinLads, Level 41]: ERROR.: no
 [2021-04-05 06:31:39]: SlerTz.♥ [♥, Level 24]: ı helped u
 [2021-04-05 06:31:45]: Kezo [FookinLads, Level 41]: ERROR.: 6 ammo
+[2021-04-05 06:31:49]: SlerTz.♥ [♥, Level 24]: bro
+[2021-04-05 06:31:56]: SlerTz.♥ [♥, Level 24]: bro open
+[2021-04-05 06:32:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-05 06:32:00]: ***  [, Level 0]: '(1)kais' entered and joined the game
