@@ -14888,3 +14888,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:37:20]: (3)SAUD [, Level 8]: IM RLY DOING IT
 [logs/04-04-21.txt, 2021-04-04 22:37:20]: Boti. [.bad, Level 27]: everyone deposit asap
 [logs/04-04-21.txt, 2021-04-04 22:37:28]: [D] Boti. [.bad, Level 32]: XDDDD
+[logs/04-04-21.txt, 2021-04-04 22:37:30]: BulgarianTee [xSD7, Level 38]: XDDd
+[logs/04-04-21.txt, 2021-04-04 22:37:37]: BulgarianTee [xSD7, Level 38]: ezpz 10k
