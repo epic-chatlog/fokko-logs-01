@@ -1780,3 +1780,8 @@
 [logs/05-04-21.txt, 2021-04-05 01:47:09]: BulgarianTee [xSD7, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 01:47:10]: comic [comically, Level 13]: [D] Leblebi: pl
 [logs/05-04-21.txt, 2021-04-05 01:47:11]: comic [comically, Level 13]: ok
+[logs/05-04-21.txt, 2021-04-05 01:47:15]: BulgarianTee [xSD7, Level 38]: hadu
+[logs/05-04-21.txt, 2021-04-05 01:47:16]: BulgarianTee [xSD7, Level 38]: Hady:
+[logs/05-04-21.txt, 2021-04-05 01:47:21]: BulgarianTee [xSD7, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 01:47:21]: ***  [, Level 0]: (1)kais is on a killing spree with 55 blocks
+[logs/05-04-21.txt, 2021-04-05 01:47:26]: Hady [new bot, Level 0]: BulgarianTee:  you block me
