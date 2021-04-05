@@ -14506,3 +14506,5 @@
 [logs/04-04-21.txt, 2021-04-04 20:32:26]: ***  [, Level 0]: 'ERROR.' has left the game
 [logs/04-04-21.txt, 2021-04-04 20:32:27]: ***  [, Level 0]: 'ERROR.' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 20:33:22]: ERROR. [404, Level 73]: smart
+[logs/04-04-21.txt, 2021-04-04 20:33:29]: ERROR. [404, Level 73]: bad.
+[logs/04-04-21.txt, 2021-04-04 20:33:38]: ERROR. [404, Level 73]: now go rq teee
