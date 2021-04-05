@@ -5385,3 +5385,14 @@
 [2021-04-05 06:09:15]: ***  [, Level 0]: Successfully logged in
 [2021-04-05 06:09:15]: ***  [, Level 0]: [WARNING] You did not set security pin yet. Check '/pin' for more information.
 [2021-04-05 06:09:17]: Nudelsaft c: [PoopinLads, Level 0]: a
+[2021-04-05 06:09:20]: ***  [, Level 0]: '(1)chillerdagorn' entered and joined the game
+[2021-04-05 06:09:20]: ***  [, Level 0]: '(1)ai9u7wgreauiw' entered and joined the game
+[2021-04-05 06:09:20]: ***  [, Level 0]: '(1)ai9u7wgreauiw' entered and joined the game
+[2021-04-05 06:09:20]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
+[2021-04-05 06:09:21]: ***  [, Level 0]: This account is already logged in
+[2021-04-05 06:09:23]: ***  [, Level 0]: (1)kais is on a killing spree with 15 blocks
+[2021-04-05 06:09:23]: ***  [, Level 0]: (1)kais is on a killing spree with 15 blocks
+[2021-04-05 06:09:23]: Nudelsaft c: [PoopinLads, Level 0]: b
+[2021-04-05 06:09:23]: Nudelsaft c: [PoopinLads, Level 0]: b
+[2021-04-05 06:09:27]: ***  [, Level 0]: 'ai9u7wgreauiwgh' has left the game
+[2021-04-05 06:09:27]: ***  [, Level 0]: 'chillerdagorn' has left the game
