@@ -6510,3 +6510,5 @@
 [2021-04-05 07:26:55]: kais [, Level 65]: x7|FayZoR: pour te dire quoi ?
 [2021-04-05 07:27:00]: ♥JustRace♥ [xSD7, Level 36]: ERROR:  fight
 [2021-04-05 07:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-05 07:27:12]: kais [, Level 65]: x7|FayZoR:  a part "ok" tu veux que je te réponde quoi ?
+[2021-04-05 07:27:15]: ♥JustRace♥ [xSD7, Level 36]: yes
