@@ -4617,3 +4617,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:15:37]:   [, Level 0]: ♫Amirian♬.: keø: ?
 [logs/05-04-21.txt, 2021-04-05 05:15:43]: Sutzer [Guard, Level 0]: AAAAA
 [logs/05-04-21.txt, 2021-04-05 05:15:48]: Vodo4ka [JB.st, Level 41]: E
+[logs/05-04-21.txt, 2021-04-05 05:17:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[logs/05-04-21.txt, 2021-04-05 05:17:02]: ᅟᅟᅟ [, Level 0]: [D] Deadmouse:
+[logs/05-04-21.txt, 2021-04-05 05:17:05]: ***  [, Level 0]: 'Kezo' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:17:09]: ***  [, Level 0]: 'Kezo' has left the game
