@@ -14490,3 +14490,4 @@
 [logs/04-04-21.txt, 2021-04-04 20:26:33]: teee [, Level 0]: hi
 [logs/04-04-21.txt, 2021-04-04 20:26:49]: ***  [, Level 0]: 'ERROR.' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 20:26:54]: ***  [, Level 0]: teee is on a killing spree with 5 blocks
+[logs/04-04-21.txt, 2021-04-04 20:27:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
