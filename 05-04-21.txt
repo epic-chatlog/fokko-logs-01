@@ -2722,3 +2722,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:58:36]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:58:37]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:58:41]: x7|FayZoR [xSD7, Level 42]: Ƭevan: bro i beat u everytime with 100ms stop talk
+[logs/05-04-21.txt, 2021-04-05 02:58:47]: Fearless [FookinLads, Level 40]: bob:  help raid police
+[logs/05-04-21.txt, 2021-04-05 02:58:48]: ***  [, Level 0]: '(1)RoberGN' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:58:54]: BulgarianTee [CleanUpCrew, Level 38]: Ƭevan: dont
