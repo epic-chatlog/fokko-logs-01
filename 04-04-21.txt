@@ -15157,3 +15157,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:16:11]: (1)SAUD [, Level 16]: history professor and math teacher and programer and president
 [logs/04-04-21.txt, 2021-04-04 23:16:15]: (1)SAUD [, Level 16]: nice
 [logs/04-04-21.txt, 2021-04-04 23:16:15]: BulgarianTee [xSD7, Level 38]: XDD
+[logs/04-04-21.txt, 2021-04-04 23:16:17]: (1)SAUD [, Level 16]: xD
+[logs/04-04-21.txt, 2021-04-04 23:16:24]: (1)SAUD [, Level 16]: oohhh
