@@ -9754,3 +9754,5 @@
 [2021-04-05 10:24:30]: ***  [, Level 0]: 'coekie' has left the game
 [2021-04-05 10:24:30]: Maatiteusz [TrRShClNrRs, Level 35]: Andromeda: can u help le
 [2021-04-05 10:24:42]: Falco642 [, Level 0]: indeed epic
+[2021-04-05 10:25:15]: ***  [, Level 0]: 'Deus Ex Machina' entered and joined the game
+[2021-04-05 10:25:18]:   [, Level 0]: Cosmo: help
