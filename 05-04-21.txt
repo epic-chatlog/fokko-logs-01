@@ -3584,3 +3584,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:09:13]: ***  [, Level 0]: ### '♫Amirian♬' disconected (Timeout)
 [logs/05-04-21.txt, 2021-04-05 04:09:14]: Cylox♥ [♥, Level 30]: x7|FayZoR:
 [logs/05-04-21.txt, 2021-04-05 04:09:17]: Foxie♥ [♥, Level 36]: (2)Kirito: <<<<<<
+[logs/05-04-21.txt, 2021-04-05 04:09:22]:   [, Level 0]: Shiro.: pidor got mad
+[logs/05-04-21.txt, 2021-04-05 04:09:22]: Foxie♥ [♥, Level 36]: (2)Kirito: <<<<<<<<<<<<<<<<<<<<<<
+[logs/05-04-21.txt, 2021-04-05 04:09:23]: ***  [, Level 0]: ### '♫Amirian♬' disconected (Timeout)
