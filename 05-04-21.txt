@@ -6172,3 +6172,5 @@
 [2021-04-05 06:59:37]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
 [2021-04-05 06:59:42]: ***  [, Level 0]: 'SAUD' entered and joined the game
 [2021-04-05 06:59:43]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-05 06:59:57]: discord bridge [eiuawhrf, Level 24]: HeavyGeneral: WATAFACK ITS SO GOOD XAXAXAAXXAXA
+[2021-04-05 07:00:04]: ***  [, Level 0]: 'HeavyGeneral' has left the game
