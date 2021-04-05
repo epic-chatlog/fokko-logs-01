@@ -6228,3 +6228,7 @@
 [2021-04-05 07:03:01]: ***  [, Level 0]: '(1)P4Pyr0s' changed name to 'WasDas'
 [2021-04-05 07:03:03]: ***  [, Level 0]: 'Foxi♥' has left the game
 [2021-04-05 07:03:03]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
+[2021-04-05 07:03:14]:   [, Level 0]: Foxi♥: i  gtg kirito now
+[2021-04-05 07:03:16]: ***  [, Level 0]: 'Foxie♥' has left the game
+[2021-04-05 07:03:16]: ***  [, Level 0]: 'Foxi♥' has left the game
+[2021-04-05 07:03:20]: ***  [, Level 0]: 'Koishi' has left the game
