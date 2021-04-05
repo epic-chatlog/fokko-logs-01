@@ -59,3 +59,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:07:54]: BulgarianTee [xSD7, Level 38]: kiddos
 [logs/05-04-21.txt, 2021-04-05 00:07:55]: oyun krallı [, Level 11]: XDÜ
 [logs/05-04-21.txt, 2021-04-05 00:08:04]: GODLIKe [hax, Level 44]: u
+[logs/05-04-21.txt, 2021-04-05 00:08:11]: ***  [, Level 0]: 'Royal' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:08:13]: BulgarianTee [xSD7, Level 38]: Vodo4ka: xa-xa-xa-xa0))
