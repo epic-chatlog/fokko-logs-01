@@ -2535,3 +2535,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:37:37]: ZEWO [, Level 0]: JELP
 [logs/05-04-21.txt, 2021-04-05 02:37:52]: ***  [, Level 0]: Fearless is on a killing spree with 5 blocks
 [logs/05-04-21.txt, 2021-04-05 02:37:53]: Kirito [Chilli.*, Level 34]: YelloWorlD:  xD
+[logs/05-04-21.txt, 2021-04-05 02:38:04]: ***  [, Level 0]: 'ZEWO' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
+[logs/05-04-21.txt, 2021-04-05 02:38:08]: BulgarianTee [CleanUpCrew, Level 38]: XDDDDDDDDD
+[logs/05-04-21.txt, 2021-04-05 02:38:12]: BulgarianTee [CleanUpCrew, Level 38]: LMAOOO
