@@ -3466,3 +3466,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:01:23]:   [, Level 0]: Foxie♥: Kirito: get him
 [logs/05-04-21.txt, 2021-04-05 04:01:36]: Cylox♥ [♥, Level 30]: Foxie♥: whatttttttt
 [logs/05-04-21.txt, 2021-04-05 04:01:43]:   [, Level 0]: ♫Amirian♬: Shiro.: ?
+[logs/05-04-21.txt, 2021-04-05 04:01:57]: Cylox♥ [♥, Level 30]: Foxie♥: why ro
+[logs/05-04-21.txt, 2021-04-05 04:02:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[logs/05-04-21.txt, 2021-04-05 04:02:01]:   [, Level 0]: Foxie♥: Cylox.♥: ?
