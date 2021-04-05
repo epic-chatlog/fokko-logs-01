@@ -14926,3 +14926,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:41:42]: PoliceTee [xSD7, Level 0]: Boti.: XDD
 [logs/04-04-21.txt, 2021-04-04 22:41:52]: Boti. [.bad, Level 27]: boomertee
 [logs/04-04-21.txt, 2021-04-04 22:41:52]: PoliceTee [xSD7, Level 0]: E
+[logs/04-04-21.txt, 2021-04-04 22:42:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[logs/04-04-21.txt, 2021-04-04 22:42:06]: (3)SAUD [, Level 8]: oyun krallı:
