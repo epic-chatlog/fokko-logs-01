@@ -14944,3 +14944,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:44:03]: Boti. [.bad, Level 27]: katyusha hardbass edition pog
 [logs/04-04-21.txt, 2021-04-04 22:44:33]: ***  [, Level 0]: 'JUSET' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 22:45:18]: PoliceTee [xSD7, Level 0]: tEchno fans spam E
+[logs/04-04-21.txt, 2021-04-04 22:45:36]: Boti. [.bad, Level 27]: techno pogger
+[logs/04-04-21.txt, 2021-04-04 22:45:40]: PoliceTee [xSD7, Level 0]: dream gae
