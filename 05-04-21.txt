@@ -11452,3 +11452,7 @@
 [2021-04-05 11:46:08]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-05 11:46:10]: Falco642 [, Level 0]: ok
 [2021-04-05 11:46:13]: Deu Sex Machina [, Level 36]: sun.slow(y): WHAT DOES YOUR NAME MEAN
+[2021-04-05 11:46:21]: Deu Sex Machina [, Level 36]: sun.slow(y): SORRYS FOR CAPS LOCK
+[2021-04-05 11:46:24]: ***  [, Level 0]: 'sL|cunt' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-05 11:46:25]: ***  [, Level 0]: 'cunt' has left the game (Timeout)
+[2021-04-05 11:46:25]: Deu Sex Machina [, Level 36]: sun.slow(y): I CANT TUR N IT FOFF
