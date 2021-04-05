@@ -3056,3 +3056,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:30:00]: BC|Tixnix [BC, Level 34]: YelloWorlD:
 [logs/05-04-21.txt, 2021-04-05 03:30:01]: BulgarianTee [CleanUpCrew, Level 38]: (1)SAUD: BC|Tixnix is my friend XD
 [logs/05-04-21.txt, 2021-04-05 03:30:05]: x7|zemer [xSD7, Level 37]: BulgarianTee:
+[logs/05-04-21.txt, 2021-04-05 03:30:15]: BC|Tixnix [BC, Level 34]: BulgarianTee: but kiling me
+[logs/05-04-21.txt, 2021-04-05 03:30:22]: (1)SAUD [, Level 0]: BulgarianTee:  yeah so the war is between us so pls dont help
+[logs/05-04-21.txt, 2021-04-05 03:30:22]: ***  [, Level 0]: 'Yavuz' has left the game
