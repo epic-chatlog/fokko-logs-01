@@ -12434,3 +12434,5 @@
 [2021-04-05 13:05:55]: ***  [, Level 0]: (1)kais is on a killing spree with 5 blocks
 [2021-04-05 13:06:01]: σмєтнιηg [zε†α, Level 37]: s6_sven: все хорошо
 [2021-04-05 13:06:30]: ***  [, Level 0]: (1)kais is on a killing spree with 10 blocks
+[2021-04-05 13:06:44]: σмєтнιηg [zε†α, Level 37]: bruh: using k-client fake ping?
+[2021-04-05 13:06:47]: , [TrRShClNrRs, Level 41]: XD
