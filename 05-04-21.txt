@@ -1785,3 +1785,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:47:21]: BulgarianTee [xSD7, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 01:47:21]: ***  [, Level 0]: (1)kais is on a killing spree with 55 blocks
 [logs/05-04-21.txt, 2021-04-05 01:47:26]: Hady [new bot, Level 0]: BulgarianTee:  you block me
+[logs/05-04-21.txt, 2021-04-05 01:47:31]: BulgarianTee [xSD7, Level 38]: Hady: i dont?
+[logs/05-04-21.txt, 2021-04-05 01:47:33]: BulgarianTee [xSD7, Level 38]: Cylox.:
+[logs/05-04-21.txt, 2021-04-05 01:47:35]: Hady [new bot, Level 0]: no you do
