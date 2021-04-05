@@ -3405,3 +3405,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:57:42]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: i basically gtg xd
 [logs/05-04-21.txt, 2021-04-05 03:57:44]: BulgarianTee [CleanUpCrew, Level 38]: cy@ all
 [logs/05-04-21.txt, 2021-04-05 03:57:44]: ***  [, Level 0]: '(1)»Amirian YA«' has left the game (Timeout Protection used)
+[logs/05-04-21.txt, 2021-04-05 03:57:52]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: cya
+[logs/05-04-21.txt, 2021-04-05 03:57:52]: ***  [, Level 0]: '(1)►AmirianYA◄' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:57:54]: ***  [, Level 0]: '(1)►AmirianYA◄' has left the game (Timeout Protection used)
+[logs/05-04-21.txt, 2021-04-05 03:58:01]: ***  [, Level 0]: 'Shiro.' entered and joined the game
