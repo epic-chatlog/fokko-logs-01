@@ -14128,3 +14128,4 @@
 [logs/04-04-21.txt, 2021-04-04 17:43:29]: x7|KshKsh99 [xSD7, Level 0]: Who B): login
 [logs/04-04-21.txt, 2021-04-04 17:43:36]: Who B) [no u, Level 0]: a
 [logs/04-04-21.txt, 2021-04-04 17:43:42]: x7|FayZoR [xSD7, Level 42]: Who B): ur money + exp
+[logs/04-04-21.txt, 2021-04-04 17:44:20]: x7|FayZoR [xSD7, Level 42]: Who B): just stay in this place and u have much money + exp, just for money think for depose in bank
