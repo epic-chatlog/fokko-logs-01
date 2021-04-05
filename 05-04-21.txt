@@ -2106,3 +2106,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:05:50]: ***  [, Level 0]: 'Soros' has left the game (Timeout)
 [logs/05-04-21.txt, 2021-04-05 02:05:51]: Fearless [FookinLads, Level 40]: BulgarianTee:  xd
 [logs/05-04-21.txt, 2021-04-05 02:05:58]: x7|FayZoR [xSD7, Level 42]: Fearless: if he stop too hook me
+[logs/05-04-21.txt, 2021-04-05 02:06:08]: Fearless [FookinLads, Level 40]: Cylox:  imagine losing to a player that joined the full game 2 min ago
+[logs/05-04-21.txt, 2021-04-05 02:06:16]: ***  [, Level 0]: 'BENJI3103' has left the game
