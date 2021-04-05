@@ -4911,3 +4911,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:43:50]: ***  [, Level 0]: 'zedwer' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:43:52]: ***  [, Level 0]: 'Animal off hat' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:43:56]: Kezo [FookinLads, Level 41]: koro:
+[logs/05-04-21.txt, 2021-04-05 05:44:07]: (1)Cosmo [, Level 0]: help
+[logs/05-04-21.txt, 2021-04-05 05:44:15]: ***  [, Level 0]: 'Pluton' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:44:17]: (1)1 [, Level 0]: HELP
