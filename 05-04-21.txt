@@ -2941,3 +2941,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:23:05]: RoberGN [, Level 0]: Cup of tee is stupid dnt help ihi
 [logs/05-04-21.txt, 2021-04-05 03:23:08]: ***  [, Level 0]: 'Virus' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:23:09]: ***  [, Level 0]: 'ManniK' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:23:28]: ***  [, Level 0]: 'cup of tee 2' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:23:29]: ***  [, Level 0]: '(2)oyun krallı' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:23:30]: BulgarianTee [CleanUpCrew, Level 38]: x7|zemer: fuck taser
