@@ -14753,3 +14753,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:22:22]: (3)SAUD [, Level 8]: xD
 [logs/04-04-21.txt, 2021-04-04 22:22:48]: Chilli.* tee [Chilli.*, Level 0]: now i only miss my OGs friends Motq and Oho and roko and OG police is back XDD
 [logs/04-04-21.txt, 2021-04-04 22:22:50]: (3)SAUD [, Level 8]: ERROR IS such a taser kid
+[logs/04-04-21.txt, 2021-04-04 22:22:53]: Boti. [.bad, Level 32]: ik
+[logs/04-04-21.txt, 2021-04-04 22:23:03]: Chilli.* tee [Chilli.*, Level 0]: but error is not a kid
