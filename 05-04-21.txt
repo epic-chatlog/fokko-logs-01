@@ -5986,3 +5986,8 @@
 [2021-04-05 06:46:56]: ***  [, Level 0]: '(1)qυѕнιкє' has left the game
 [2021-04-05 06:46:57]: ***  [, Level 0]: 'qυѕнιкє' has left the game
 [2021-04-05 06:47:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-05 06:47:04]:   [, Level 0]: mamikral011: mami: win
+[2021-04-05 06:47:07]: ***  [, Level 0]: 'Falco641' entered and joined the game
+[2021-04-05 06:47:11]: mami [, Level 0]: mamikral011:  yes mami win
+[2021-04-05 06:47:12]: GoatLike [, Level 0]: Falco641: YO
+[2021-04-05 06:47:13]: power [TrRShClNrRs, Level 14]: wow ERROR wtf.. -.-
