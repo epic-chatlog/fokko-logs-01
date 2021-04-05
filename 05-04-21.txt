@@ -273,3 +273,4 @@
 [logs/05-04-21.txt, 2021-04-05 00:22:35]: Vodo4ka [JB.st, Level 41]: WHEN
 [logs/05-04-21.txt, 2021-04-05 00:22:41]: ***  [, Level 0]: 'Royal' has left the game
 [logs/05-04-21.txt, 2021-04-05 00:22:45]: Vodo4ka [JB.st, Level 41]: U DONT SAY ME GO FARM
+[logs/05-04-21.txt, 2021-04-05 00:22:57]: Vodo4ka [JB.st, Level 41]: BulgarianTee:  WE JUST TALKING
