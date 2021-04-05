@@ -3497,3 +3497,5 @@
 [logs/05-04-21.txt, 2021-04-05 04:03:34]:   [, Level 0]: cookie: aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 [logs/05-04-21.txt, 2021-04-05 04:03:34]:   [, Level 0]: Shiro.: ohayo
 [logs/05-04-21.txt, 2021-04-05 04:03:37]: ***  [, Level 0]: 'ulrich' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:03:45]:   [, Level 0]: Shiro.: loser
+[logs/05-04-21.txt, 2021-04-05 04:03:48]: Kirito [♥, Level 35]: Shiro.: ohayo?
