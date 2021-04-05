@@ -4446,3 +4446,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:54:21]: BulgarianTee [CleanUpCrew, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 04:54:33]: MieSlime [FookinLads, Level 43]: weqe:  can u cry ? for me pls
 [logs/05-04-21.txt, 2021-04-05 04:54:38]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:54:43]: weqe [MNKY, Level 11]: MieSlime: how can i cry with keyboard ?
+[logs/05-04-21.txt, 2021-04-05 04:54:44]: ***  [, Level 0]: 'COMEBOY' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:54:50]: MieSlime [FookinLads, Level 43]: weqe:  "snif"
+[logs/05-04-21.txt, 2021-04-05 04:54:54]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
