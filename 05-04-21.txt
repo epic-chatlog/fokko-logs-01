@@ -3452,3 +3452,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:00:15]:   [, Level 0]: Shiro.: Kirito: no u didnt man
 [logs/05-04-21.txt, 2021-04-05 04:00:24]: Kirito [♥, Level 35]: Shiro.: and then i killed ur father
 [logs/05-04-21.txt, 2021-04-05 04:00:29]:   [, Level 0]: Shiro.: nice
+[logs/05-04-21.txt, 2021-04-05 04:00:42]: Kirito [♥, Level 35]: Foxie♥: flag :/
+[logs/05-04-21.txt, 2021-04-05 04:00:43]:   [, Level 0]: Shiro.: we're in war
+[logs/05-04-21.txt, 2021-04-05 04:00:47]:   [, Level 0]: Foxie♥: yaeh Shiro.
