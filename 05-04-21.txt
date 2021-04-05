@@ -3420,3 +3420,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:58:33]: ***  [, Level 0]: 'WarHammer' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:58:37]: ***  [, Level 0]: Foxie♥ finished in: 0 minute(s) 56.58 second(s)
 [logs/05-04-21.txt, 2021-04-05 03:58:37]: ***  [, Level 0]: New record: 8 minute(s) 40.52 second(s) better.
+[logs/05-04-21.txt, 2021-04-05 03:58:45]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:58:50]: ***  [, Level 0]: 'wαrнαммer' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:58:54]:   [, Level 0]: Foxie♥: Shiro.: what happen
