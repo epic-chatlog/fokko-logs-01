@@ -14726,3 +14726,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:18:46]: PoliceTee [xSD7, Level 0]: Boti.: nah
 [logs/04-04-21.txt, 2021-04-04 22:18:58]: Boti. [.bad, Level 32]: and i thought you was a different player XDD
 [logs/04-04-21.txt, 2021-04-04 22:19:20]: (3)SAUD [, Level 8]: dude last time i played tee worlds was back in  2014 i was like 7 years old
+[logs/04-04-21.txt, 2021-04-04 22:19:29]: Boti. [.bad, Level 32]: wtf
+[logs/04-04-21.txt, 2021-04-04 22:19:31]: PoliceTee [xSD7, Level 0]: Boti.: i started out with [censored name] then with Tomatee, then BaguetTee, short-lived BulgarianTee got replaced with PoliceTee, then i became long-term BulgarianTee and THEN i switche
+[logs/04-04-21.txt, 2021-04-04 22:19:32]: (3)SAUD [, Level 8]: then i came back 4 weeks ago
