@@ -2765,3 +2765,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:02:51]: ***  [, Level 0]: HeavyGeneral is on a killing spree with 5 blocks
 [logs/05-04-21.txt, 2021-04-05 03:02:57]: HeavyGeneral [FookinLads, Level 44]: bob: bad
 [logs/05-04-21.txt, 2021-04-05 03:03:06]: bob [Legacy™, Level 36]: HeavyGeneral: if i play defensive like you do i dotjn die too lol
+[logs/05-04-21.txt, 2021-04-05 03:03:16]: HeavyGeneral [FookinLads, Level 44]: im on 2 jumps?
+[logs/05-04-21.txt, 2021-04-05 03:03:25]: HeavyGeneral [FookinLads, Level 44]: u play taser 8 jumpps
+[logs/05-04-21.txt, 2021-04-05 03:03:26]: bob [Legacy™, Level 36]: stilld efensive
+[logs/05-04-21.txt, 2021-04-05 03:03:28]: bob [Legacy™, Level 36]: i dont taser vs u
