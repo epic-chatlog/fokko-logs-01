@@ -1276,3 +1276,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:19:39]: KG | Kirito [KaisGay, Level 34]: SAUD: ye
 [logs/05-04-21.txt, 2021-04-05 01:19:42]: ***  [, Level 0]: 'Hady' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:19:47]: Boti. [.bad, Level 27]: weapon spammer
+[logs/05-04-21.txt, 2021-04-05 01:19:56]: Hady [new bot, Level 0]: SAUD:  hla
+[logs/05-04-21.txt, 2021-04-05 01:20:00]: Vodo4ka [JB.st, Level 41]: weqe: ....
+[logs/05-04-21.txt, 2021-04-05 01:20:01]: SAUD [, Level 0]: Hady:  hla
