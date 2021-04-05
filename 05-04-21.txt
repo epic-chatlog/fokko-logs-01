@@ -4957,3 +4957,4 @@
 [logs/05-04-21.txt, 2021-04-05 05:47:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [logs/05-04-21.txt, 2021-04-05 05:47:03]: Vodo4ka [JB.st, Level 41]: Ðream:  нахуй ты ему помог
 [logs/05-04-21.txt, 2021-04-05 05:47:10]: wαrнαммer [, Level 26]: Kezo:  GHJAFAD
+[logs/05-04-21.txt, 2021-04-05 05:47:12]: x7|FayZoR [xSD7, Level 42]: kais: tu m'aime bien aussi
