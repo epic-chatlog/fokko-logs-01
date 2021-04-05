@@ -4707,3 +4707,10 @@
 [logs/05-04-21.txt, 2021-04-05 05:26:44]: ***  [, Level 0]: 'Austria' changed name to '[D] P4Pyr0s'
 [logs/05-04-21.txt, 2021-04-05 05:26:47]: ***  [, Level 0]: '[D] P4Pyr0s' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:27:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[logs/05-04-21.txt, 2021-04-05 05:27:01]: ***  [, Level 0]: 'serwan' has left the game (Too weak connection (not acked for 60 seconds))
+[logs/05-04-21.txt, 2021-04-05 05:27:02]: [D] ✯ |toxicd [|Supressed, Level 0]: Kezo: why
+[logs/05-04-21.txt, 2021-04-05 05:27:03]: Kezo [FookinLads, Level 41]: mami: sa
+[logs/05-04-21.txt, 2021-04-05 05:27:07]: ***  [, Level 0]: koro is on a killing spree with 5 blocks
+[logs/05-04-21.txt, 2021-04-05 05:27:07]: mami [, Level 0]: Kezo: sa
+[logs/05-04-21.txt, 2021-04-05 05:27:09]: (1)1 [, Level 3]: HELP
+[logs/05-04-21.txt, 2021-04-05 05:27:13]: Kezo [FookinLads, Level 41]: lag
