@@ -12094,3 +12094,4 @@
 [2021-04-05 12:44:45]: ***  [, Level 0]: 'MORPHIN' has left the game
 [2021-04-05 12:44:45]: ***  [, Level 0]: 'kais' has left the game
 [2021-04-05 12:44:45]: ***  [, Level 0]: '(1)kais' has left the game
+[2021-04-05 12:44:59]: Meetiteusz [TrRShClNrRs, Level 25]: Keø: out of jumps
