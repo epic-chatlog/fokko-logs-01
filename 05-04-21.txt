@@ -3104,3 +3104,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:32:34]: ***  [, Level 0]: 'STULEJA 3000' joined the game
 [logs/05-04-21.txt, 2021-04-05 03:32:44]: »Amirian YA« [YAMIRIANA�, Level 0]: im not
 [logs/05-04-21.txt, 2021-04-05 03:32:45]: BulgarianTee [CleanUpCrew, Level 38]: FUCK
+[logs/05-04-21.txt, 2021-04-05 03:32:52]: ***  [, Level 0]: koro is on a killing spree with 15 blocks
+[logs/05-04-21.txt, 2021-04-05 03:32:53]: ***  [, Level 0]: 'SlerTz!' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:32:58]: YelloWorlD [404, Level 37]: koro: cpas ton clan legacy ?
