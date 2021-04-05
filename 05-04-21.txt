@@ -594,3 +594,9 @@
 [logs/05-04-21.txt, 2021-04-05 00:45:04]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 00:45:09]: BulgarianTee [xSD7, Level 38]: Xd
 [logs/05-04-21.txt, 2021-04-05 00:45:18]: BulgarianTee [xSD7, Level 38]: mamikral011: i did all i could Xd
+[logs/05-04-21.txt, 2021-04-05 00:45:23]: BulgarianTee [xSD7, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 00:45:24]: mamikral011 [, Level 26]: BulgarianTee: 20k
+[logs/05-04-21.txt, 2021-04-05 00:45:25]: Kirito [♥, Level 34]: Wheels.:  xd
+[logs/05-04-21.txt, 2021-04-05 00:45:29]: mamikral011 [, Level 26]: weqe: 20k
+[logs/05-04-21.txt, 2021-04-05 00:45:31]: ***  [, Level 0]: 'Vodo4ka' has left the game
+[logs/05-04-21.txt, 2021-04-05 00:45:32]: Wheels. [, Level 31]: THAT WHUS FUN
