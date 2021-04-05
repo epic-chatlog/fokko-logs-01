@@ -970,3 +970,9 @@
 [logs/05-04-21.txt, 2021-04-05 01:05:19]: ***  [, Level 0]: 'Vodo4ka' has left the game
 [logs/05-04-21.txt, 2021-04-05 01:05:20]: Asta [FookinLads, Level 40]: (1)Kirito:  i like ur clan xD
 [logs/05-04-21.txt, 2021-04-05 01:05:21]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:05:24]: KG | Kirito [KaisGay, Level 34]: Asta: ty :)
+[logs/05-04-21.txt, 2021-04-05 01:05:25]: weqe [MNKY, Level 11]: Vodo4ka: poka!!!
+[logs/05-04-21.txt, 2021-04-05 01:05:28]: SAUD [, Level 0]: KG | Kirito:  so who are u fighting with
+[logs/05-04-21.txt, 2021-04-05 01:05:29]: BulgarianTee [xSD7, Level 38]: (1)Kirito: gut clan
+[logs/05-04-21.txt, 2021-04-05 01:05:31]: ***  [, Level 0]: 'Leblebi' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:05:33]: Vodo4ka [JB.st, Level 0]: weqe: xdd
