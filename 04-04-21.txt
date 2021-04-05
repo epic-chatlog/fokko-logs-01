@@ -15553,3 +15553,6 @@
 [logs/04-04-21.txt, 2021-04-04 23:59:04]: Ƭevan [TrRShClNrRs, Level 48]: PoliceTee: xD
 [logs/04-04-21.txt, 2021-04-04 23:59:09]: Ƭevan [TrRShClNrRs, Level 48]: PoliceTee: u are not russian
 [logs/04-04-21.txt, 2021-04-04 23:59:14]: BulgarianTee [xSD7, Level 38]: yes im not Xd
+[logs/04-04-21.txt, 2021-04-04 23:59:25]: BulgarianTee [xSD7, Level 38]: vodo4ka the policemann
+[logs/04-04-21.txt, 2021-04-04 23:59:27]: Vodo4ka [JB.st, Level 41]: :D
+[logs/04-04-21.txt, 2021-04-04 23:59:30]: ***  [, Level 0]: 'Ðream' entered and joined the game
