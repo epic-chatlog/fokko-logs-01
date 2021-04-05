@@ -14200,3 +14200,8 @@
 [logs/04-04-21.txt, 2021-04-04 17:57:11]: x7|FayZoR [xSD7, Level 42]: sorry xD
 [logs/04-04-21.txt, 2021-04-04 17:57:17]: x7|FayZoR [xSD7, Level 42]: can't kill him bruh xD
 [logs/04-04-21.txt, 2021-04-04 17:57:17]: x7|FayZoR [xSD7, Level 42]: can't kill him bruh xD
+[logs/04-04-21.txt, 2021-04-04 17:57:34]: x7|KshKsh99 [xSD7, Level 37]: yeah
+[logs/04-04-21.txt, 2021-04-04 17:57:34]: x7|KshKsh99 [xSD7, Level 37]: yeah
+[logs/04-04-21.txt, 2021-04-04 17:57:38]: ***  [, Level 0]: '(1)ai9u7wgreauiw' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:57:38]: ***  [, Level 0]: '(1)chillerdagorn' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:57:38]: ***  [, Level 0]: Collected 3 money
