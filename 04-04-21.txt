@@ -14296,3 +14296,6 @@
 [logs/04-04-21.txt, 2021-04-04 18:15:21]: Nudelsaft c: [FookinLads, Level 37]: x7|FayZoR: dude, 30 min ago
 [logs/04-04-21.txt, 2021-04-04 18:15:46]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: yep, u are saved by ur dogs, i can't do anything
 [logs/04-04-21.txt, 2021-04-04 18:15:56]: Nudelsaft c: [FookinLads, Level 37]: which dogs
+[logs/04-04-21.txt, 2021-04-04 18:15:58]: Nudelsaft c: [FookinLads, Level 37]: u are my only dog
+[logs/04-04-21.txt, 2021-04-04 18:15:59]: Nudelsaft c: [FookinLads, Level 37]: <3
+[logs/04-04-21.txt, 2021-04-04 18:16:02]: x7|FayZoR [xSD7, Level 42]: XD
