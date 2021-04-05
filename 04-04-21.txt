@@ -13974,3 +13974,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:09:33]: Nudelsaft c: [FookinLads, Level 37]: S Y T H N: ok sorry diesmal wirklich 15 sek xD
 [logs/04-04-21.txt, 2021-04-04 17:09:37]: Nudelsaft c: [FookinLads, Level 37]: Mr.KshKsh99: gei
 [logs/04-04-21.txt, 2021-04-04 17:11:31]: ***  [, Level 0]: '.S L E E P Y'' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:12:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[logs/04-04-21.txt, 2021-04-04 17:12:04]: ***  [, Level 0]: '.S L E E P Y'' has left the game
