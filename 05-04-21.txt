@@ -6717,3 +6717,7 @@
 [2021-04-05 07:42:48]: kais [, Level 65]: x7|FayZoR: bah viens
 [2021-04-05 07:42:55]: x7|FayZoR [xSD7, Level 42]: kais: toi viens :D
 [2021-04-05 07:42:55]: ERROR [404, Level 56]: uhm kais how boring
+[2021-04-05 07:43:00]: kais [, Level 65]: ERROR: yeah
+[2021-04-05 07:43:08]: ***  [, Level 0]: 'White Wolf' has left the game
+[2021-04-05 07:43:08]: ***  [, Level 0]: 'Black Wolf' has left the game
+[2021-04-05 07:43:10]: kais [, Level 65]: x7|FayZoR: bah j'peux pas, y'a la "porte"
