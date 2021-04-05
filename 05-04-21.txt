@@ -820,3 +820,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:58:11]: BulgarianTee [xSD7, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 00:58:13]: x7|FayZoR [xSD7, Level 42]: Kirito: wait me
 [logs/05-04-21.txt, 2021-04-05 00:58:19]: kais [, Level 65]: Kirito: why virgin is an insult xD
+[logs/05-04-21.txt, 2021-04-05 00:58:27]: Boti. [.bad, Level 27]: XDD
+[logs/05-04-21.txt, 2021-04-05 00:58:30]: Kirito [♥, Level 34]: kais: because nobody wants you forever virgin boi
