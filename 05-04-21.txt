@@ -7698,3 +7698,5 @@
 [2021-04-05 08:41:30]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
 [2021-04-05 08:41:45]: |MıssOяchiĐ| [, Level 48]: oMGGGG LOVE YOU
 [2021-04-05 08:41:47]: kais [, Level 65]: x7|FayZoR: peu etre, mais j'sais pas ce qu'ils disent ces mp
+[2021-04-05 08:42:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-05 08:42:03]: kais [, Level 65]: x7|FayZoR: si ça se trouve tu lui disais juste "j'aime les pates"
