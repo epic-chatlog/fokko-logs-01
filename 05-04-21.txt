@@ -7524,3 +7524,7 @@
 [2021-04-05 08:31:37]: ***  [, Level 0]: 'Light Rider' entered and joined the game
 [2021-04-05 08:31:42]: kais [, Level 65]: ✯ |toxicdaddy: bad
 [2021-04-05 08:31:51]: x7|FayZoR [xSD7, Level 42]: kais: alors tu spike maintenant ?
+[2021-04-05 08:31:55]: ERROR. [404, Level 74]: mach die bridge vorher weg weißt wie ich meine , geht das Nudelsaft c: ?
+[2021-04-05 08:32:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-05 08:32:02]: (1)kais [, Level 58]: x7|FayZoR: non, il a respawn
+[2021-04-05 08:32:02]: |ΛnץOиe| [, Level 0]: [D] mamikral011: war life? really life?
