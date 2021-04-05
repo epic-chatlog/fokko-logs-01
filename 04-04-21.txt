@@ -14259,3 +14259,5 @@
 [logs/04-04-21.txt, 2021-04-04 18:10:54]: x7|KshKsh99 [xSD7, Level 37]: ohhh
 [logs/04-04-21.txt, 2021-04-04 18:11:08]: ***  [, Level 0]: 'Royal' has left the game
 [logs/04-04-21.txt, 2021-04-04 18:11:16]: x7|KshKsh99 [xSD7, Level 37]: use portal on them
+[logs/04-04-21.txt, 2021-04-04 18:11:30]: x7|KshKsh99 [xSD7, Level 37]: Swarfey: is coming
+[logs/04-04-21.txt, 2021-04-04 18:11:35]: Nudelsaft c: [FookinLads, Level 37]: oh yes papa is coming
