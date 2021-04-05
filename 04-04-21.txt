@@ -13921,3 +13921,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:05:30]: Swarfey [FookinLads, Level 0]: S Y T H N: hey brauchst du den acc grad oder kann ich den für 1 min?
 [logs/04-04-21.txt, 2021-04-04 17:05:30]: ***  [, Level 0]: 'Neutral' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 17:05:30]: ***  [, Level 0]: 'Neutral' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:05:36]: ***  [, Level 0]: 'Neutral' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:05:36]: ***  [, Level 0]: 'Neutral' has left the game
