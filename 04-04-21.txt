@@ -15449,3 +15449,4 @@
 [logs/04-04-21.txt, 2021-04-04 23:45:10]: oyun krallı [, Level 11]: R2D2:  HELP
 [logs/04-04-21.txt, 2021-04-04 23:45:23]: Wheels. [, Level 31]: where are u
 [logs/04-04-21.txt, 2021-04-04 23:45:33]: oyun krallı [, Level 11]: R2D2:  HELP
+[logs/04-04-21.txt, 2021-04-04 23:45:47]: oyun krallı [, Level 11]: R2D2:  HELP İNTRO JUMP
