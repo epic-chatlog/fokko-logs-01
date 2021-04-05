@@ -14035,3 +14035,4 @@
 [logs/04-04-21.txt, 2021-04-04 17:25:58]: x7|FayZoR [xSD7, Level 42]: xDDDDDD
 [logs/04-04-21.txt, 2021-04-04 17:26:05]: x7|FayZoR [xSD7, Level 42]: that funny too
 [logs/04-04-21.txt, 2021-04-04 17:26:07]: x7|KshKsh99 [xSD7, Level 0]: with out the
+[logs/04-04-21.txt, 2021-04-04 17:26:35]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: can't come in the room now :/
