@@ -14088,3 +14088,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:36:45]: Nudelsaft c: [FookinLads, Level 37]: which are not online rn
 [logs/04-04-21.txt, 2021-04-04 17:37:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [logs/04-04-21.txt, 2021-04-04 17:37:33]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: im dead that too funny XDDDD
+[logs/04-04-21.txt, 2021-04-04 17:38:05]: x7|FayZoR [xSD7, Level 42]: ez
+[logs/04-04-21.txt, 2021-04-04 17:38:07]: Nudelsaft c: [FookinLads, Level 37]: u
