@@ -2561,3 +2561,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:40:25]: ***  [, Level 0]: 'Lucas' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:40:30]: ***  [, Level 0]: 'PlettBLIX' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:40:38]: Nonoh [citrom, Level 40]: keø: hi kezo
+[logs/05-04-21.txt, 2021-04-05 02:40:47]: Fearless [FookinLads, Level 40]: Nonoh:  nem kezo
+[logs/05-04-21.txt, 2021-04-05 02:40:52]: [D] ✯ |toxicd [|Supressed, Level 21]: power: help me dummy pls
