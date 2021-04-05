@@ -4509,3 +4509,5 @@
 [logs/05-04-21.txt, 2021-04-05 04:59:24]: MieSlime [FookinLads, Level 43]: SAUD:  leave ?
 [logs/05-04-21.txt, 2021-04-05 04:59:29]: SAUD [, Level 0]: MieSlime:  bye
 [logs/05-04-21.txt, 2021-04-05 04:59:31]: ***  [, Level 0]: 'SAUD' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:59:33]: MieSlime [FookinLads, Level 43]: SAUD:  bye lol
+[logs/05-04-21.txt, 2021-04-05 04:59:41]: cookie [, Level 16]: who can help me white inf jump please im stuck
