@@ -15225,3 +15225,8 @@
 [logs/04-04-21.txt, 2021-04-04 23:22:10]: Vodo4ka [JB.st, Level 41]: cringe
 [logs/04-04-21.txt, 2021-04-04 23:22:14]: (3)SAUD [, Level 8]: what
 [logs/04-04-21.txt, 2021-04-04 23:22:26]: (3)SAUD [, Level 8]: wtf is happining
+[logs/04-04-21.txt, 2021-04-04 23:22:41]: ***  [, Level 0]: 'nobody' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 23:22:41]: BulgarianTee [xSD7, Level 38]: E
+[logs/04-04-21.txt, 2021-04-04 23:22:42]: Vodo4ka [JB.st, Level 41]: XD
+[logs/04-04-21.txt, 2021-04-04 23:22:45]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 23:22:45]: Vodo4ka [JB.st, Level 41]: B RUSH
