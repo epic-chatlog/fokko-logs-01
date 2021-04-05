@@ -14693,3 +14693,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:16:15]: Boti. [.bad, Level 32]: who knows
 [logs/04-04-21.txt, 2021-04-04 22:16:17]: PoliceTee [xSD7, Level 0]: no real OGs left :/
 [logs/04-04-21.txt, 2021-04-04 22:16:21]: PoliceTee [xSD7, Level 0]: besides Isegrin i guess
+[logs/04-04-21.txt, 2021-04-04 22:16:30]: PoliceTee [xSD7, Level 0]: E
+[logs/04-04-21.txt, 2021-04-04 22:16:34]: Boti. [.bad, Level 32]: chillernobo og
