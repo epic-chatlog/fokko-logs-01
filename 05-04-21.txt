@@ -4436,3 +4436,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:52:46]: ***  [, Level 0]: 'KoalasSindCool' has left the game
 [logs/05-04-21.txt, 2021-04-05 04:52:50]: BulgarianTee [CleanUpCrew, Level 38]: Swarfey: papa he kill me
 [logs/05-04-21.txt, 2021-04-05 04:52:52]: BulgarianTee [CleanUpCrew, Level 38]: Swarfey: bully him
+[logs/05-04-21.txt, 2021-04-05 04:52:59]: SAUD [, Level 0]: keø:  clearly u r not in mood x7|FayZoR D
+[logs/05-04-21.txt, 2021-04-05 04:53:03]: SAUD [, Level 0]: keø:  clearly u r not in mood xD
+[logs/05-04-21.txt, 2021-04-05 04:53:07]: BulgarianTee [CleanUpCrew, Level 38]: Swarfey: papa he bully me
