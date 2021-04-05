@@ -15258,3 +15258,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:25:43]: GODLIKe [hax, Level 44]: SAUD: war
 [logs/04-04-21.txt, 2021-04-04 23:25:44]: Vodo4ka [JB.st, Level 41]: :o
 [logs/04-04-21.txt, 2021-04-04 23:25:46]: PoliceTee [xSD7, Level 25]: Vodo4ka: stop copy my status
+[logs/04-04-21.txt, 2021-04-04 23:25:51]: (3)SAUD [, Level 8]: KILL ME AND SAY WAR
+[logs/04-04-21.txt, 2021-04-04 23:25:57]: (3)SAUD [, Level 8]: IM LEAVING BTW xD
