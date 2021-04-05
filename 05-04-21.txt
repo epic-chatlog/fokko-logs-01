@@ -2294,3 +2294,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:21:57]: ***  [, Level 0]: 'Nonoh' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:22:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [logs/05-04-21.txt, 2021-04-05 02:22:09]: ***  [, Level 0]: 'Noémi[Đ]' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:22:12]: ***  [, Level 0]: 'RoberGN' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:22:18]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: i was at my village for 10 days, i got back yesterday, the last few days of me staying there were nightmare, i was pingspiking hard
+[logs/05-04-21.txt, 2021-04-05 02:22:21]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: i couldnt do shit xd
