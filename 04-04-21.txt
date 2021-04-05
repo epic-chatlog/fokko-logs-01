@@ -14586,3 +14586,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:02:24]: PoliceTee [xSD7, Level 0]: 21
 [logs/04-04-21.txt, 2021-04-04 22:02:26]: weqe [MNKY, Level 11]: wtf
 [logs/04-04-21.txt, 2021-04-04 22:02:30]: weqe [MNKY, Level 11]: how u know
+[logs/04-04-21.txt, 2021-04-04 22:02:44]: PoliceTee [xSD7, Level 0]: cuz everyone in this damn server is either 13, 18 or 21
