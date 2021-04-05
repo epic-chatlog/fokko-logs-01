@@ -7772,3 +7772,8 @@
 [2021-04-05 08:45:33]: ***  [, Level 0]: 'hoy es noche de' has left the game
 [2021-04-05 08:45:34]: ***  [, Level 0]: ERROR is on a killing spree with 20 blocks
 [2021-04-05 08:45:36]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-05 08:45:37]: Swarfey [, Level 37]: ChillerDragon.*: stoopid
+[2021-04-05 08:45:37]: ChillerDragon.* [|*KoG*|, Level 41]: xD
+[2021-04-05 08:45:39]: Swarfey [, Level 37]: xD
+[2021-04-05 08:45:43]: Swarfey [, Level 37]: ok warte
+[2021-04-05 08:45:49]:   [, Level 0]: MORFY: stop
