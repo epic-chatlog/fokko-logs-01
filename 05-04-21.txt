@@ -14137,3 +14137,5 @@
 [2021-04-05 15:55:41]: S Y T H N [iPro, Level 37]: ✯Hunter.exe: du auch mal wieder da
 [2021-04-05 15:55:51]: ✯Hunter.exe [|Supressed|, Level 35]: S Y T H N: joa
 [2021-04-05 15:55:54]: Shiro. [404, Level 42]: ça parle ça parle en 5v2 tu perds
+[2021-04-05 15:55:59]: ✯Hunter.exe [|Supressed|, Level 35]: S Y T H N: wieso?
+[2021-04-05 15:56:08]: S Y T H N [iPro, Level 37]: ✯Hunter.exe: habe dich vermisst
