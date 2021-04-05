@@ -3383,3 +3383,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:55:49]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:55:51]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:56:00]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: he help us
+[logs/05-04-21.txt, 2021-04-05 03:56:07]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: oh, okay
+[logs/05-04-21.txt, 2021-04-05 03:56:14]:   [, Level 0]: Foxie♥: [D] ✯ |toxicd: war
+[logs/05-04-21.txt, 2021-04-05 03:56:15]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: i saw himw ar with koro
