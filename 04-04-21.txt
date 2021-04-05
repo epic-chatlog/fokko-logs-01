@@ -14675,3 +14675,8 @@
 [logs/04-04-21.txt, 2021-04-04 22:14:48]: Boti. [.bad, Level 32]: teeworlds on steam
 [logs/04-04-21.txt, 2021-04-04 22:14:52]: Boti. [.bad, Level 32]: then changed
 [logs/04-04-21.txt, 2021-04-04 22:14:55]: Boti. [.bad, Level 32]: wait
+[logs/04-04-21.txt, 2021-04-04 22:15:09]: PoliceTee [xSD7, Level 0]: well i mean same but
+[logs/04-04-21.txt, 2021-04-04 22:15:10]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 22:15:14]: Boti. [.bad, Level 32]: april 30 when i started tw and first time played
+[logs/04-04-21.txt, 2021-04-04 22:15:16]: PoliceTee [xSD7, Level 0]: did you join while 0.7 or while 0.6?
+[logs/04-04-21.txt, 2021-04-04 22:15:16]: Boti. [.bad, Level 32]: 2020
