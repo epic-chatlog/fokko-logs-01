@@ -2802,3 +2802,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:06:19]: ***  [, Level 0]: '(1)RoberGN' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:06:29]: BulgarianTee [CleanUpCrew, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 03:06:39]: Fearless [, Level 40]: BulgarianTee:  next time help
+[logs/05-04-21.txt, 2021-04-05 03:06:52]: BulgarianTee [CleanUpCrew, Level 38]: Fearless: kk
+[logs/05-04-21.txt, 2021-04-05 03:07:00]: BulgarianTee [CleanUpCrew, Level 38]: Fearless: srry im blind didnt see u
+[logs/05-04-21.txt, 2021-04-05 03:07:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[logs/05-04-21.txt, 2021-04-05 03:07:01]: ***  [, Level 0]: 'oyun krallı' has left the game
