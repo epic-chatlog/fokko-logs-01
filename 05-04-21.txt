@@ -1178,3 +1178,8 @@
 [logs/05-04-21.txt, 2021-04-05 01:15:13]: ***  [, Level 0]: 'comic' has been muted for 60 seconds
 [logs/05-04-21.txt, 2021-04-05 01:15:15]: Cylox. [♥, Level 0]: sry
 [logs/05-04-21.txt, 2021-04-05 01:15:16]: (1)kais [, Level 58]: AHAHAHAHA
+[logs/05-04-21.txt, 2021-04-05 01:15:21]: (1)kais [, Level 58]: x7|FayZoR: magnifique
+[logs/05-04-21.txt, 2021-04-05 01:15:22]: x7|FayZoR [xSD7, Level 42]: Cylox/
+[logs/05-04-21.txt, 2021-04-05 01:15:23]: ***  [, Level 0]: 'Soros' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:15:27]: PoliceTee [xSD7, Level 25]: Leblebi:
+[logs/05-04-21.txt, 2021-04-05 01:15:29]: Leblebi [, Level 22]: KG | Kirito: pls fluffy 1
