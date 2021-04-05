@@ -6456,3 +6456,5 @@
 [2021-04-05 07:22:25]: uts/sukuna. [jujutsu, Level 0]: Koishi: it's called jujutsu
 [2021-04-05 07:22:41]: uts/sukuna. [jujutsu, Level 0]: Koishi: clantag is uts
 [2021-04-05 07:22:43]: Koishi [, Level 0]: uts/sukuna.: does that mean anything?
+[2021-04-05 07:22:47]: ERROR. [404, Level 74]: zrmHh
+[2021-04-05 07:22:58]: uts/sukuna. [jujutsu, Level 0]: Koishi: from the anime jujutsu kaisen
