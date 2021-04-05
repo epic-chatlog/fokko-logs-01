@@ -173,3 +173,4 @@
 [logs/05-04-21.txt, 2021-04-05 00:15:16]: Vodo4ka [JB.st, Level 41]: BulgarianTee: 50/50 = depends ye?
 [logs/05-04-21.txt, 2021-04-05 00:15:20]: BulgarianTee [xSD7, Level 38]: Vodo4ka: kinda
 [logs/05-04-21.txt, 2021-04-05 00:15:26]: BulgarianTee [xSD7, Level 38]: Vodo4ka: if you like my skin - yes, if you say not - no :(
+[logs/05-04-21.txt, 2021-04-05 00:15:31]: Vodo4ka [JB.st, Level 41]: BulgarianTee: yay, now, i know 1 word more
