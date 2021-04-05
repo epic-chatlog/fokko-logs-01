@@ -4621,3 +4621,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:17:02]: ᅟᅟᅟ [, Level 0]: [D] Deadmouse:
 [logs/05-04-21.txt, 2021-04-05 05:17:05]: ***  [, Level 0]: 'Kezo' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:17:09]: ***  [, Level 0]: 'Kezo' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:17:17]: ***  [, Level 0]: 'MADZO' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:17:18]:   [, Level 0]: ♫Amirian♬.: keø: ):
