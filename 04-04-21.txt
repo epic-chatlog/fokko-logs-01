@@ -14949,3 +14949,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:46:04]: PoliceTee [xSD7, Level 0]: dream and ERROR have that in common: they cheated their way to the top using money and their noobness
 [logs/04-04-21.txt, 2021-04-04 22:46:09]: PoliceTee [xSD7, Level 0]: XDD
 [logs/04-04-21.txt, 2021-04-04 22:46:39]: BulgarianTee [xSD7, Level 38]: E
+[logs/04-04-21.txt, 2021-04-04 22:47:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
