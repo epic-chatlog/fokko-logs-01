@@ -4946,3 +4946,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:46:08]: (1)ERROR [404, Level 47]: Vodo4ka:  why u fight x7 dog Xdß
 [logs/05-04-21.txt, 2021-04-05 05:46:11]: (2)1 [, Level 11]: KEZO KNK HELP
 [logs/05-04-21.txt, 2021-04-05 05:46:29]: kais [, Level 65]: x7|FayZoR: tu l'aimes bien mon dummy dit-donc
+[logs/05-04-21.txt, 2021-04-05 05:46:37]: KriegInCome [, Level 0]: Kezo: ß
+[logs/05-04-21.txt, 2021-04-05 05:46:38]: KriegInCome [, Level 0]: 0ß
+[logs/05-04-21.txt, 2021-04-05 05:46:41]: x7|FayZoR [xSD7, Level 42]: kais: ouaip
+[logs/05-04-21.txt, 2021-04-05 05:46:43]: KriegInCome [, Level 0]: Kezo:
