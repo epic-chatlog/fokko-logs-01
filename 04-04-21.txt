@@ -15516,3 +15516,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:55:30]: PoliceTee [xSD7, Level 25]: XDD
 [logs/04-04-21.txt, 2021-04-04 23:55:45]: GODLIKe [hax, Level 44]: warhammer
 [logs/04-04-21.txt, 2021-04-04 23:55:50]: R2D2 [, Level 0]: lekker voor sukkel
+[logs/04-04-21.txt, 2021-04-04 23:55:54]: GODLIKe [hax, Level 44]: warhammer sal şunu ynaıma gel
+[logs/04-04-21.txt, 2021-04-04 23:56:04]: Vodo4ka [JB.st, Level 41]: greek gays
