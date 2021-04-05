@@ -14052,3 +14052,7 @@
 [2021-04-05 15:41:45]: x7|FayZoR [xSD7, Level 42]: hmmmmmm: alors fait /money drop 200 pour voir
 [2021-04-05 15:41:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-05 15:42:01]: KriegInCome ♥ [♥, Level 15]: Shiro.: ?
+[2021-04-05 15:42:02]: hmmmmmm [, Level 8]: c'est bon
+[2021-04-05 15:42:07]: x7|FayZoR [xSD7, Level 42]: hmmmmmm: nice :D
+[2021-04-05 15:42:08]: ***  [, Level 0]: 'KriegInCome ♥' changed name to 'KriegInCome'
+[2021-04-05 15:42:09]: Shiro. [404, Level 42]: atata
