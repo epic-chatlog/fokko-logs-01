@@ -13516,3 +13516,5 @@
 [2021-04-05 14:59:08]: Shiro. [404, Level 42]: iMxtteo: its koro
 [2021-04-05 14:59:17]: iMxtteo [, Level 26]: i wanna test smh
 [2021-04-05 14:59:23]: Shiro, [, Level 51]: ah ok
+[2021-04-05 14:59:38]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-05 14:59:41]: ***  [, Level 0]: 'sL|KeBu280' has left the game
