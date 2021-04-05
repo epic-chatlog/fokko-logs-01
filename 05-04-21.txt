@@ -2837,3 +2837,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:13:38]: TimePause [xSD7, Level 35]: koro: no skill
 [logs/05-04-21.txt, 2021-04-05 03:14:35]: ***  [, Level 0]: '(1)ビール|Zero' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:14:46]: oyun krallı [, Level 11]: RoberGN:  help
+[logs/05-04-21.txt, 2021-04-05 03:14:55]: ***  [, Level 0]: '(2)oyun krallı' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:14:59]: ***  [, Level 0]: '(2)oyun krallı' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:14:59]: (1)Friendiship  [, Level 0]: YelloWorlD: pourquoi tu me bloque ?
+[logs/05-04-21.txt, 2021-04-05 03:15:06]: TimePause [xSD7, Level 35]: BulgarianTee: <<
