@@ -6013,3 +6013,6 @@
 [2021-04-05 06:49:06]: ***  [, Level 0]: ChillerDragon is on a killing spree with 5 blocks
 [2021-04-05 06:49:10]: Foxie♥ [♥, Level 35]: ✯ |toxicdaddy: <
 [2021-04-05 06:49:17]: ♫Amirian♬. [, Level 0]: I like turtles.
+[2021-04-05 06:49:21]: ***  [, Level 0]: ChillerDragon is on a killing spree with 10 blocks
+[2021-04-05 06:49:29]: ***  [, Level 0]: 'Isegrin' has left the game
+[2021-04-05 06:49:32]: Foxie♥ [♥, Level 35]: ERROR: yey
