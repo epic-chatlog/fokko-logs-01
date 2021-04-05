@@ -14969,3 +14969,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:52:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [logs/04-04-21.txt, 2021-04-04 22:52:15]: (3)SAUD [, Level 8]: brtuh
 [logs/04-04-21.txt, 2021-04-04 22:52:16]: (3)SAUD [, Level 8]: jrterteiuhegriuer\
+[logs/04-04-21.txt, 2021-04-04 22:52:18]: BulgarianTee [xSD7, Level 38]: XD
+[logs/04-04-21.txt, 2021-04-04 22:52:20]: SAUD [, Level 22]: nvm
+[logs/04-04-21.txt, 2021-04-04 22:52:29]: (3)SAUD [, Level 8]: no ill do it
