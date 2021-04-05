@@ -14870,3 +14870,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:35:44]: PoliceTee [xSD7, Level 0]: um Boti.
 [logs/04-04-21.txt, 2021-04-04 22:35:54]: (3)SAUD [, Level 8]: yeah he likes afk so much
 [logs/04-04-21.txt, 2021-04-04 22:35:54]: PoliceTee [xSD7, Level 0]: Boti.: you might wanna look at fokkonauts discord server #general
+[logs/04-04-21.txt, 2021-04-04 22:36:19]: PoliceTee [xSD7, Level 0]: SAUD: error said that you would be really stupid if you try to fake him Xd
+[logs/04-04-21.txt, 2021-04-04 22:36:22]: Boti. [.bad, Level 27]: he suck my dick to say it
+[logs/04-04-21.txt, 2021-04-04 22:36:24]: Boti. [.bad, Level 27]: HI ERROR
