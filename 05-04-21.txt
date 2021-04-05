@@ -12621,3 +12621,5 @@
 [2021-04-05 13:24:36]: ***  [, Level 0]: '(1)Kirito♥' has left the game (Timeout)
 [2021-04-05 13:24:37]: ***  [, Level 0]: 'bruh' has left the game
 [2021-04-05 13:24:37]: ***  [, Level 0]: 'rayen' has left the game
+[2021-04-05 13:24:51]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
+[2021-04-05 13:24:54]: (2)Kirito♥ [♥, Level 35]: mina: you there?
