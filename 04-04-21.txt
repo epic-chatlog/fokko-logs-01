@@ -15266,3 +15266,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:26:20]: GODLIKe. [GANG, Level 0]: PoliceTee: u
 [logs/04-04-21.txt, 2021-04-04 23:26:21]: PoliceTee [xSD7, Level 25]: Vodo4ka: cuz i say so
 [logs/04-04-21.txt, 2021-04-04 23:26:25]: Vodo4ka [JB.st, Level 41]: PoliceTee: proofs
+[logs/04-04-21.txt, 2021-04-04 23:26:30]: PoliceTee [xSD7, Level 25]: Vodo4ka: ok whatever keep it
+[logs/04-04-21.txt, 2021-04-04 23:26:39]: Vodo4ka [JB.st, Level 41]: PoliceTee: :o
