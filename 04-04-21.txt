@@ -14180,3 +14180,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:55:42]: ***  [, Level 0]: 'Swarfey' joined the spectators
 [logs/04-04-21.txt, 2021-04-04 17:55:46]: ***  [, Level 0]: 'Swarfey' joined the game
 [logs/04-04-21.txt, 2021-04-04 17:55:46]: ***  [, Level 0]: 'Swarfey' joined the game
+[logs/04-04-21.txt, 2021-04-04 17:55:59]: Nudelsaft c: [FookinLads, Level 37]: x7|KshKsh99: why did u stop, i thought it was fun waiting for nothing
+[logs/04-04-21.txt, 2021-04-04 17:55:59]: Nudelsaft c: [FookinLads, Level 37]: x7|KshKsh99: why did u stop, i thought it was fun waiting for nothing
