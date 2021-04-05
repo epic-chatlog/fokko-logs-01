@@ -1634,3 +1634,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:37:16]: (1)kais [, Level 58]: PoliceTee: xD
 [logs/05-04-21.txt, 2021-04-05 01:37:20]: x7|FayZoR [xSD7, Level 42]: Leblebi: stop help randmon like kais
 [logs/05-04-21.txt, 2021-04-05 01:37:20]: ***  [, Level 0]: 'Ƭevan' finished the special race!
+[logs/05-04-21.txt, 2021-04-05 01:37:31]: (1)kais [, Level 58]: x7|FayZoR: random ?!
+[logs/05-04-21.txt, 2021-04-05 01:37:32]: Leblebi [, Level 23]: why
+[logs/05-04-21.txt, 2021-04-05 01:37:33]: Kirito [Chilli.*, Level 34]: Leblebi: i will never give you portal again, if you farm i hunt you.
+[logs/05-04-21.txt, 2021-04-05 01:37:39]: ***  [, Level 0]: 'el champeon' entered and joined the game
