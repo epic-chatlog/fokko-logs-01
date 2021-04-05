@@ -2354,3 +2354,9 @@
 [logs/05-04-21.txt, 2021-04-05 02:26:29]: Sutzer [Guard, Level 0]: im bad
 [logs/05-04-21.txt, 2021-04-05 02:26:35]: BulgarianTee [CleanUpCrew, Level 38]: wdym i had 18 money
 [logs/05-04-21.txt, 2021-04-05 02:26:36]: BulgarianTee [CleanUpCrew, Level 38]: :C
+[logs/05-04-21.txt, 2021-04-05 02:26:51]: BC|Tixnix [BC, Level 34]: Kirito: immer hin habe ich ein gegensatz tu dir
+[logs/05-04-21.txt, 2021-04-05 02:26:53]: Kirito [Chilli.*, Level 34]: x7|FayZoR: tysm
+[logs/05-04-21.txt, 2021-04-05 02:26:55]: BulgarianTee [CleanUpCrew, Level 38]: weq
+[logs/05-04-21.txt, 2021-04-05 02:26:58]: ***  [, Level 0]: 'ZEWO' has left the game (Too weak connection (not acked for 60 seconds))
+[logs/05-04-21.txt, 2021-04-05 02:26:58]: x7|FayZoR [xSD7, Level 42]: Kirito: hey no spike [D] ✯ |toxicd
+[logs/05-04-21.txt, 2021-04-05 02:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
