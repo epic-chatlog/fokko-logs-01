@@ -13148,3 +13148,4 @@
 [2021-04-05 14:14:01]: x7|Chronos [xSD7, Level 35]: kais: toi
 [2021-04-05 14:14:05]: kais [arenub, Level 65]: moi ?
 [2021-04-05 14:14:05]: x7|Chronos [xSD7, Level 35]: kais: toi 100k
+[2021-04-05 14:14:15]: kais [arenub, Level 65]: x7|Chronos: roh, on est pas a 70k près....
