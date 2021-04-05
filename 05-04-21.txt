@@ -12578,3 +12578,4 @@
 [2021-04-05 13:21:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-05 13:22:03]: mina [, Level 0]: (1)Kirito♥: kk how old are u
 [2021-04-05 13:22:08]: (1)Kirito♥ [♥, Level 36]: mina: im 18 and u?
+[2021-04-05 13:22:18]: mina [, Level 0]: Kirito♥: 17
