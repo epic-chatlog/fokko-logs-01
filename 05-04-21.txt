@@ -3022,3 +3022,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:27:47]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 03:27:50]: ***  [, Level 0]: 'STULEJA 3000' joined the game
 [logs/05-04-21.txt, 2021-04-05 03:27:56]: (1)oyun krallı [, Level 3]: PoliceTee:  help
+[logs/05-04-21.txt, 2021-04-05 03:28:13]: ***  [, Level 0]: 'RoberGN' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:28:14]: ***  [, Level 0]: 'cup of tee' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:28:14]: ***  [, Level 0]: 'cup of tee 2' has left the game
