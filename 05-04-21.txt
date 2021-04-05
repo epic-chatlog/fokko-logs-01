@@ -244,3 +244,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:20:49]: Vodo4ka [JB.st, Level 41]: weqe: omg
 [logs/05-04-21.txt, 2021-04-05 00:20:55]: Vodo4ka [JB.st, Level 41]: OMG
 [logs/05-04-21.txt, 2021-04-05 00:21:01]: Vodo4ka [JB.st, Level 41]: U USING TELEPORT FOR EZ MOVE
+[logs/05-04-21.txt, 2021-04-05 00:21:12]: Vodo4ka [JB.st, Level 41]: найс трай
+[logs/05-04-21.txt, 2021-04-05 00:21:14]: weqe [MNKY, Level 11]: Vodo4ka: im new
