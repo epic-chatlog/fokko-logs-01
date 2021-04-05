@@ -3284,3 +3284,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:46:02]:   [, Level 0]: Pigie♥: Kirito: log out yeah
 [logs/05-04-21.txt, 2021-04-05 03:46:18]:   [, Level 0]: Pigie♥: Kirito: ty
 [logs/05-04-21.txt, 2021-04-05 03:46:36]: [D] BC|Tixnix [BC, Level 0]: x7|zemer: ja bro wenn ich dir helfe bin ich dead
+[logs/05-04-21.txt, 2021-04-05 03:46:47]: Isegrin [, Level 54]: ►AmirianYA◄: xD
+[logs/05-04-21.txt, 2021-04-05 03:46:48]: (2)Kirito [♥, Level 13]: BC|kakashi:  du bist tixnix oder?
