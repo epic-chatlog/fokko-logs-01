@@ -7768,3 +7768,7 @@
 [2021-04-05 08:45:10]: bob [Legacy™, Level 36]: HAHAH
 [2021-04-05 08:45:15]: any² [404, Level 0]: [D] mamikral011: what is the name of ur skin ?
 [2021-04-05 08:45:17]: ERROR. [404, Level 74]: laggs
+[2021-04-05 08:45:22]: ***  [, Level 0]: 'hoy es noche de' entered and joined the game
+[2021-04-05 08:45:33]: ***  [, Level 0]: 'hoy es noche de' has left the game
+[2021-04-05 08:45:34]: ***  [, Level 0]: ERROR is on a killing spree with 20 blocks
+[2021-04-05 08:45:36]: ***  [, Level 0]: 'bob' has left the game
