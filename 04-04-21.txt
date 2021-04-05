@@ -14627,3 +14627,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:07:16]: PoliceTee [xSD7, Level 0]: XD
 [logs/04-04-21.txt, 2021-04-04 22:07:24]: PoliceTee [xSD7, Level 0]: good ol' days
 [logs/04-04-21.txt, 2021-04-04 22:07:27]: SAUD [, Level 21]: \
+[logs/04-04-21.txt, 2021-04-04 22:07:42]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 22:07:45]: PoliceTee [xSD7, Level 0]: Boti.: cringe
