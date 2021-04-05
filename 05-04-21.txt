@@ -1740,3 +1740,8 @@
 [logs/05-04-21.txt, 2021-04-05 01:43:52]: Kirito [Chilli.*, Level 34]: Hady: spiky spikyyyyy
 [logs/05-04-21.txt, 2021-04-05 01:43:54]: Hady [new bot, Level 0]: Kirito: don't worry
 [logs/05-04-21.txt, 2021-04-05 01:43:54]: BulgarianTee [xSD7, Level 38]: kais: war
+[logs/05-04-21.txt, 2021-04-05 01:44:10]: Cylox [, Level 30]: xd
+[logs/05-04-21.txt, 2021-04-05 01:44:11]: ***  [, Level 0]: el champeon is on a killing spree with 25 blocks
+[logs/05-04-21.txt, 2021-04-05 01:44:14]: Hady [new bot, Level 0]: BulgarianTee:  yea
+[logs/05-04-21.txt, 2021-04-05 01:44:15]: [D] Leblebi [, Level 18]: xd
+[logs/05-04-21.txt, 2021-04-05 01:44:19]: [D] Leblebi [, Level 18]: grenade
