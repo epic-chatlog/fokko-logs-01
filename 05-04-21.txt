@@ -3432,3 +3432,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:59:22]:   [, Level 0]: Foxie♥: Shiro.: why?????????
 [logs/05-04-21.txt, 2021-04-05 03:59:29]: ***  [, Level 0]: '[D] BC|kakashi' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:59:29]:   [, Level 0]: weqe: Ƭevan: i dont understand russian
+[logs/05-04-21.txt, 2021-04-05 03:59:36]:   [, Level 0]: Foxie♥: Kirito: carefull
+[logs/05-04-21.txt, 2021-04-05 03:59:37]: Ƭevan [TrRShClNrRs, Level 48]: Конечно
+[logs/05-04-21.txt, 2021-04-05 03:59:43]:   [, Level 0]: Foxie♥: Kirito: TOLD YA
+[logs/05-04-21.txt, 2021-04-05 03:59:44]:   [, Level 0]: weqe: Ƭevan: what are u saying
