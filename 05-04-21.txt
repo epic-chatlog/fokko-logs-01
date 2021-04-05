@@ -4477,3 +4477,10 @@
 [logs/05-04-21.txt, 2021-04-05 04:56:45]: cookie [, Level 16]: noooo
 [logs/05-04-21.txt, 2021-04-05 04:56:50]: MieSlime [FookinLads, Level 43]: weqe:  idk ?
 [logs/05-04-21.txt, 2021-04-05 04:56:55]: Nudelsaft c: [PoopinLads, Level 37]: Isegrin: u got fat
+[logs/05-04-21.txt, 2021-04-05 04:56:56]: MieSlime [FookinLads, Level 43]: weqe:  u stop save gay people ?
+[logs/05-04-21.txt, 2021-04-05 04:57:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[logs/05-04-21.txt, 2021-04-05 04:57:00]: Isegrin [, Level 54]: Nudelsaft c:: hilf mri
+[logs/05-04-21.txt, 2021-04-05 04:57:01]: cookie [, Level 16]: i need help white inf jump
+[logs/05-04-21.txt, 2021-04-05 04:57:02]: weqe [MNKY, Level 11]: MieSlime: u said we are in war and that u are with miss side
+[logs/05-04-21.txt, 2021-04-05 04:57:07]: Nudelsaft c: [PoopinLads, Level 37]: Isegrin: nö
+[logs/05-04-21.txt, 2021-04-05 04:57:08]: Isegrin [, Level 54]: Nudelsaft c:: i did not
