@@ -4648,3 +4648,9 @@
 [logs/05-04-21.txt, 2021-04-05 05:21:35]: ***  [, Level 0]: '~DemoizL~' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:21:41]: [D] ✯ |toxicd [|Supressed, Level 0]: Kezo:
 [logs/05-04-21.txt, 2021-04-05 05:21:55]: MieSlime [FookinLads, Level 43]: wjo are u ?
+[logs/05-04-21.txt, 2021-04-05 05:22:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[logs/05-04-21.txt, 2021-04-05 05:22:02]: ᅟᅟᅟ [, Level 0]: what do you mean
+[logs/05-04-21.txt, 2021-04-05 05:22:03]: Kezo [FookinLads, Level 41]: xDDDDDDDD
+[logs/05-04-21.txt, 2021-04-05 05:22:06]: MieSlime [FookinLads, Level 43]: u don't have name
+[logs/05-04-21.txt, 2021-04-05 05:22:07]: ***  [, Level 0]: '(1)Kezo' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:22:09]: Vodo4ka [JB.st, Level 41]: Kezo: sweety
