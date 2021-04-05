@@ -1547,3 +1547,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:31:45]: BulgarianTee [xSD7, Level 38]: kais: LAG OUT
 [logs/05-04-21.txt, 2021-04-05 01:31:52]: Vodo4ka [JB.st, Level 41]: XD
 [logs/05-04-21.txt, 2021-04-05 01:31:56]: Vodo4ka [JB.st, Level 41]: (1)SAUD: nice
+[logs/05-04-21.txt, 2021-04-05 01:32:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[logs/05-04-21.txt, 2021-04-05 01:32:06]: (1)SAUD [, Level 22]: xD comic
+[logs/05-04-21.txt, 2021-04-05 01:32:07]: Vodo4ka [JB.st, Level 41]: xd
+[logs/05-04-21.txt, 2021-04-05 01:32:09]: (1)SAUD [, Level 22]: xD Vodo4ka
