@@ -14885,3 +14885,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:37:10]: PoliceTee [xSD7, Level 0]: SAUD: go deposit fast XDDD
 [logs/04-04-21.txt, 2021-04-04 22:37:12]: PoliceTee [xSD7, Level 0]: XDDDDDD
 [logs/04-04-21.txt, 2021-04-04 22:37:14]: (3)SAUD [, Level 8]: xDDDDDDDDDD
+[logs/04-04-21.txt, 2021-04-04 22:37:20]: (3)SAUD [, Level 8]: IM RLY DOING IT
+[logs/04-04-21.txt, 2021-04-04 22:37:20]: Boti. [.bad, Level 27]: everyone deposit asap
+[logs/04-04-21.txt, 2021-04-04 22:37:28]: [D] Boti. [.bad, Level 32]: XDDDD
