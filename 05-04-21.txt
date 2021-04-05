@@ -4692,3 +4692,11 @@
 [logs/05-04-21.txt, 2021-04-05 05:24:35]: ChillerDragon.* [Chilli.*, Level 41]: MieSlime: I am currently afk.
 [logs/05-04-21.txt, 2021-04-05 05:24:42]: Austria [, Level 0]: do you see my name now?
 [logs/05-04-21.txt, 2021-04-05 05:24:45]: Austria [, Level 0]: MieSlime:
+[logs/05-04-21.txt, 2021-04-05 05:24:47]:   [, Level 0]: Tziys*: chillerdagorn:
+[logs/05-04-21.txt, 2021-04-05 05:24:50]:   [, Level 0]: Tziys*: ChillerDragon.*:
+[logs/05-04-21.txt, 2021-04-05 05:24:50]: ChillerDragon.* [Chilli.*, Level 41]: Tziys*: I am currently afk.
+[logs/05-04-21.txt, 2021-04-05 05:24:52]: MieSlime [FookinLads, Level 43]: Austria:  ye
+[logs/05-04-21.txt, 2021-04-05 05:24:52]:   [, Level 0]: Tziys*: idc
+[logs/05-04-21.txt, 2021-04-05 05:24:58]: ***  [, Level 0]: 'Asta' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:24:58]: ***  [, Level 0]: 'MieSlime' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:24:58]: Austria [, Level 0]: do you save me now?
