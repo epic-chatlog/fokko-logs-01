@@ -4906,3 +4906,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:43:20]: S Y T H N [iPro, Level 0]: ERROR: welchen client use du eigendlich?
 [logs/05-04-21.txt, 2021-04-05 05:43:28]: ERROR [404, Level 56]: ddnet unter anderem
 [logs/05-04-21.txt, 2021-04-05 05:43:35]: Vodo4ka [JB.st, Level 41]: Kezo: lmaooooooo
+[logs/05-04-21.txt, 2021-04-05 05:43:44]: S Y T H N [iPro, Level 0]: ok
+[logs/05-04-21.txt, 2021-04-05 05:43:45]: wαrнαммer [, Level 26]: Kezo:  MÜZİKLE ÇOK İYİ GİDİYO SAVAŞ
+[logs/05-04-21.txt, 2021-04-05 05:43:50]: ***  [, Level 0]: 'zedwer' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:43:52]: ***  [, Level 0]: 'Animal off hat' entered and joined the game
