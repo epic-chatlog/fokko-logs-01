@@ -14420,3 +14420,9 @@
 [logs/04-04-21.txt, 2021-04-04 18:40:06]: Nudelsaft c: [FookinLads, Level 37]: it was u :)
 [logs/04-04-21.txt, 2021-04-04 18:40:13]: Nudelsaft c: [FookinLads, Level 37]: u and your death wishes to me
 [logs/04-04-21.txt, 2021-04-04 18:40:25]: Nudelsaft c: [FookinLads, Level 37]: hope u have a dream of yourself wishing death to me another time
+[logs/04-04-21.txt, 2021-04-04 18:40:31]: Nudelsaft c: [FookinLads, Level 37]: or any other tee
+[logs/04-04-21.txt, 2021-04-04 18:40:32]: Nudelsaft c: [FookinLads, Level 37]: good night
+[logs/04-04-21.txt, 2021-04-04 18:40:33]: ***  [, Level 0]: 'Swarfey' has left the game
+[logs/04-04-21.txt, 2021-04-04 18:40:33]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[logs/04-04-21.txt, 2021-04-04 18:40:35]: x7|FayZoR [xSD7, Level 42]: XDDDD
+[logs/04-04-21.txt, 2021-04-04 18:40:38]: x7|FayZoR [xSD7, Level 42]: rq :D
