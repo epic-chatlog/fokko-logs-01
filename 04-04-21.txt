@@ -13957,3 +13957,7 @@
 [logs/04-04-21.txt, 2021-04-04 17:08:09]: ***  [, Level 0]: 'Λtlantis Ψ' changed name to 'S Y T H N'
 [logs/04-04-21.txt, 2021-04-04 17:08:21]: S Y T H N [iPro, Level 0]: fuck you flipper
 [logs/04-04-21.txt, 2021-04-04 17:08:21]: S Y T H N [iPro, Level 0]: fuck you flipper
+[logs/04-04-21.txt, 2021-04-04 17:08:28]: ***  [, Level 0]: '(1)ai9u7wgreauiw' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:08:28]: ***  [, Level 0]: '(1)chillerdagorn' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:08:28]: ***  [, Level 0]: Collected 3 money
+[logs/04-04-21.txt, 2021-04-04 17:08:29]: S Y T H N [iPro, Level 0]: :D
