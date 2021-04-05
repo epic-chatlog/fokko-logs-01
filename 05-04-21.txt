@@ -354,3 +354,4 @@
 [logs/05-04-21.txt, 2021-04-05 00:30:13]: BulgarianTee [xSD7, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 00:30:24]: Vodo4ka [JB.st, Level 41]: B
 [logs/05-04-21.txt, 2021-04-05 00:30:34]: wαrнαммer [, Level 26]: (1)Kirito:  u really dumb
+[logs/05-04-21.txt, 2021-04-05 00:30:48]: wαrнαммer [, Level 26]: AFK KİLLER
