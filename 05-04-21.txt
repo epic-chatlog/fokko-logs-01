@@ -3312,3 +3312,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:48:46]: ***  [, Level 0]: Isegrin is on a killing spree with 5 blocks
 [logs/05-04-21.txt, 2021-04-05 03:49:08]: ►AmirianYA◄ [YARIMINAღ, Level 0]: hey
 [logs/05-04-21.txt, 2021-04-05 03:49:17]: Kirito [♥, Level 35]: Cylox.♥:
+[logs/05-04-21.txt, 2021-04-05 03:49:30]: ***  [, Level 0]: 'ReXi' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:49:33]: ***  [, Level 0]: 'Pigie♥' changed name to 'Foxie♥'
