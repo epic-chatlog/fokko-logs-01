@@ -13393,3 +13393,7 @@
 [2021-04-05 14:47:49]: ***  [, Level 0]: 'Virus' has left the game
 [2021-04-05 14:47:52]: x7|FayZoR [xSD7, Level 42]: I MADE XDDDD
 [2021-04-05 14:47:55]: ERROR. [404, Level 74]: xD
+[2021-04-05 14:47:56]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-05 14:48:00]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: :DDDD
+[2021-04-05 14:48:02]: Nudelsaft c: [FookinLads, Level 0]: :D
+[2021-04-05 14:48:06]: ***  [, Level 0]: 'bob' has left the game
