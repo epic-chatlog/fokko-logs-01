@@ -318,3 +318,4 @@
 [logs/05-04-21.txt, 2021-04-05 00:27:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [logs/05-04-21.txt, 2021-04-05 00:27:04]: weqe [MNKY, Level 11]: poka !!
 [logs/05-04-21.txt, 2021-04-05 00:27:12]: comic [comically, Level 13]: Wheels.:
+[logs/05-04-21.txt, 2021-04-05 00:27:27]: BulgarianTee [xSD7, Level 38]: MieSlime: CHILL MAN IM NOT HERE TO RAID
