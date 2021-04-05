@@ -14538,3 +14538,4 @@
 [2021-04-05 16:36:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-05 16:37:03]: x7|FayZoR [xSD7, Level 42]: hmmmmmm: quoi ? :c
 [2021-04-05 16:37:12]: hmmmmmm [, Level 8]: rien pk x7|FayZoR
+[2021-04-05 16:37:32]: x7|FayZoR [xSD7, Level 42]: hmmmmmm: bah j'aurais pref une meilleure tournure xD
