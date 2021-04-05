@@ -2878,3 +2878,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:17:12]: K҉E҉N҉O҉ [ZzzZzz, Level 3]: SAUD: u stuck? :O
 [logs/05-04-21.txt, 2021-04-05 03:17:22]: SAUD [, Level 22]: i was
 [logs/05-04-21.txt, 2021-04-05 03:17:25]: K҉E҉N҉O҉ [ZzzZzz, Level 3]: sry
+[logs/05-04-21.txt, 2021-04-05 03:17:28]: SAUD [, Level 22]: n
+[logs/05-04-21.txt, 2021-04-05 03:17:31]: SAUD [, Level 22]: pn
+[logs/05-04-21.txt, 2021-04-05 03:17:33]: SAUD [, Level 22]: np
