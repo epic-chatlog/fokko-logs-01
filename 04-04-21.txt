@@ -15194,3 +15194,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:20:19]: ***  [, Level 0]: 'oyun krallı' has left the game (Too weak connection (not acked for 60 seconds))
 [logs/04-04-21.txt, 2021-04-04 23:20:25]: (3)SAUD [, Level 8]: rage timeout
 [logs/04-04-21.txt, 2021-04-04 23:20:28]: BulgarianTee [xSD7, Level 38]: XDD
+[logs/04-04-21.txt, 2021-04-04 23:20:33]: (3)SAUD [, Level 8]: xD\
+[logs/04-04-21.txt, 2021-04-04 23:20:34]: Vodo4ka [JB.st, Level 41]: BulgarianTee: its intresting
