@@ -14257,3 +14257,4 @@
 [logs/04-04-21.txt, 2021-04-04 18:09:40]: Nudelsaft c: [FookinLads, Level 37]: XD
 [logs/04-04-21.txt, 2021-04-04 18:10:25]: x7|KshKsh99 [xSD7, Level 37]: XD
 [logs/04-04-21.txt, 2021-04-04 18:10:54]: x7|KshKsh99 [xSD7, Level 37]: ohhh
+[logs/04-04-21.txt, 2021-04-04 18:11:08]: ***  [, Level 0]: 'Royal' has left the game
