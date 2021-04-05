@@ -14510,3 +14510,4 @@
 [logs/04-04-21.txt, 2021-04-04 20:33:38]: ERROR. [404, Level 73]: now go rq teee
 [logs/04-04-21.txt, 2021-04-04 20:35:59]: ***  [, Level 0]: 'ERROR.' has left the game
 [logs/04-04-21.txt, 2021-04-04 20:36:00]: ***  [, Level 0]: 'ERROR.' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 20:36:19]: ERROR. [404, Level 73]: so cya
