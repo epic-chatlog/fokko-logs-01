@@ -13063,3 +13063,4 @@
 [2021-04-05 14:01:31]: mina [, Level 0]: Kirito♥: u cant just get rid of it
 [2021-04-05 14:01:44]: ERROR. [404, Level 74]: goood good
 [2021-04-05 14:01:54]: (2)Kirito♥ [♥, Level 35]: mina: go on a date w/ me then i'll think about forgiving you ok?
+[2021-04-05 14:01:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
