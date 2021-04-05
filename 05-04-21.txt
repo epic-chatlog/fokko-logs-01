@@ -4627,3 +4627,4 @@
 [logs/05-04-21.txt, 2021-04-05 05:17:40]: ***  [, Level 0]: 'BC|serwan' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:17:41]:   [, Level 0]: ♫Amirian♬.: MieSlime:
 [logs/05-04-21.txt, 2021-04-05 05:17:42]: ***  [, Level 0]: 'BC|Tixnix' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:18:10]: Sutzer [Guard, Level 0]: AAAAAAAA
