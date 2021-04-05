@@ -26,3 +26,4 @@
 [logs/05-04-21.txt, 2021-04-05 00:03:01]: BulgarianTee [xSD7, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 00:03:02]: wαrнαммer [, Level 26]: of lag
 [logs/05-04-21.txt, 2021-04-05 00:03:04]: BulgarianTee [xSD7, Level 38]: FLAPPY GAY AS FUCK
+[logs/05-04-21.txt, 2021-04-05 00:03:13]: wαrнαммer [, Level 26]: lag var ya
