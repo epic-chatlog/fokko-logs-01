@@ -1718,3 +1718,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:42:35]: ***  [, Level 0]: '(2)oyun krallı' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:42:38]: Kirito [Chilli.*, Level 34]: x7|FayZoR: hady is traitor he helped kais
 [logs/05-04-21.txt, 2021-04-05 01:42:38]: [D] Leblebi [, Level 18]: exit
+[logs/05-04-21.txt, 2021-04-05 01:42:44]: ***  [, Level 0]: el champeon is on a killing spree with 15 blocks
+[logs/05-04-21.txt, 2021-04-05 01:42:44]: x7|FayZoR [xSD7, Level 42]: Kirito: wait
+[logs/05-04-21.txt, 2021-04-05 01:42:50]: kais [, Level 65]: ok, wait
+[logs/05-04-21.txt, 2021-04-05 01:42:55]: x7|FayZoR [xSD7, Level 42]: Kirito: idc if he x7
