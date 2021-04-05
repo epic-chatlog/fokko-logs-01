@@ -4872,3 +4872,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:40:18]: S Y T H N [iPro, Level 0]: Vodo4ka: poka: D
 [logs/05-04-21.txt, 2021-04-05 05:40:20]: x7|FayZoR [xSD7, Level 42]: kais: tu veut être afk ?
 [logs/05-04-21.txt, 2021-04-05 05:40:29]: Vodo4ka [JB.st, Level 41]: S Y T H N: Privet ^^
+[logs/05-04-21.txt, 2021-04-05 05:40:41]: wαrнαммer [, Level 26]: keø:
+[logs/05-04-21.txt, 2021-04-05 05:40:44]: wαrнαммer [, Level 26]: help
+[logs/05-04-21.txt, 2021-04-05 05:40:46]: (1)kais [, Level 58]: x7|FayZoR: nan, mais c'est mon apât a kirito
