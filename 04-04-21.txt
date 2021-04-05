@@ -15123,3 +15123,4 @@
 [logs/04-04-21.txt, 2021-04-04 23:11:24]: BulgarianTee [xSD7, Level 38]: im tired of all these wars in afternoon police
 [logs/04-04-21.txt, 2021-04-04 23:11:29]: SAUD [, Level 22]: i just farmed 60k in past 2 hpurs
 [logs/04-04-21.txt, 2021-04-04 23:11:42]: BulgarianTee [xSD7, Level 38]: i can farm 100k in 7 hours with one dummy
+[logs/04-04-21.txt, 2021-04-04 23:11:54]: BulgarianTee [xSD7, Level 38]: if i bring my dummy here i can farm 100k in..
