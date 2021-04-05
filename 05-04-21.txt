@@ -13349,3 +13349,7 @@
 [2021-04-05 14:41:09]: x7|Chronos [xSD7, Level 35]: Nudelsaft c:: i have deposit :D
 [2021-04-05 14:41:37]: ERROR. [404, Level 74]: ohje ich bin zu müde xDDD
 [2021-04-05 14:41:40]: Swarfey [FookinLads, Level 60]: xD
+[2021-04-05 14:41:57]: Swarfey [FookinLads, Level 60]: seit wann so weise
+[2021-04-05 14:41:59]: Swarfey [FookinLads, Level 60]: 0:
+[2021-04-05 14:41:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-05 14:42:04]: ERROR. [404, Level 74]: Swarfey: ?
