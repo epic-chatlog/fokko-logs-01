@@ -15208,3 +15208,7 @@
 [logs/04-04-21.txt, 2021-04-04 23:21:10]: Boti. [.bad, Level 0]: i test the game.png
 [logs/04-04-21.txt, 2021-04-04 23:21:17]: BulgarianTee [xSD7, Level 38]: my game.png is best
 [logs/04-04-21.txt, 2021-04-04 23:21:17]: Boti. [.bad, Level 0]: i fix some shit and i will send it
+[logs/04-04-21.txt, 2021-04-04 23:21:18]: BulgarianTee [xSD7, Level 38]: :3
+[logs/04-04-21.txt, 2021-04-04 23:21:24]: ***  [, Level 0]: '(1)oyun krallı' has left the game
+[logs/04-04-21.txt, 2021-04-04 23:21:27]: Boti. [.bad, Level 0]: i made my own gamepng
+[logs/04-04-21.txt, 2021-04-04 23:21:30]: BulgarianTee [xSD7, Level 38]: same
