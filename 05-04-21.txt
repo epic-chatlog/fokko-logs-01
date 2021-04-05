@@ -442,3 +442,8 @@
 [logs/05-04-21.txt, 2021-04-05 00:37:12]: weqe [MNKY, Level 11]: thx TL|ŦƹƦ$ŦǾN <3
 [logs/05-04-21.txt, 2021-04-05 00:37:15]: ***  [, Level 0]: 'Patoche 65' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 00:37:15]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: and all of you are doing graeat
+[logs/05-04-21.txt, 2021-04-05 00:37:19]: ***  [, Level 0]: 'Patoche 65' has left the game
+[logs/05-04-21.txt, 2021-04-05 00:37:20]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: kais: how is it i heard it was very very good
+[logs/05-04-21.txt, 2021-04-05 00:37:20]: ***  [, Level 0]: 'comic' joined the minigame 'Survival', use '/survival' to join aswell
+[logs/05-04-21.txt, 2021-04-05 00:37:24]: ***  [, Level 0]: '[D] Boti.' finished the special race!
+[logs/05-04-21.txt, 2021-04-05 00:37:28]: BulgarianTee [xSD7, Level 38]: Ƭevan: CHILL
