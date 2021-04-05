@@ -14592,3 +14592,7 @@
 [logs/04-04-21.txt, 2021-04-04 22:03:04]: PoliceTee [xSD7, Level 0]: prolly 40 year olds Xdd
 [logs/04-04-21.txt, 2021-04-04 22:03:07]: weqe [MNKY, Level 11]: how old is error
 [logs/04-04-21.txt, 2021-04-04 22:03:10]: weqe [MNKY, Level 11]: chiller is 22
+[logs/04-04-21.txt, 2021-04-04 22:03:16]: PoliceTee [xSD7, Level 0]: he said im not even twice his age
+[logs/04-04-21.txt, 2021-04-04 22:03:19]: PoliceTee [xSD7, Level 0]: so he is 28+
+[logs/04-04-21.txt, 2021-04-04 22:03:22]: PoliceTee [xSD7, Level 0]: boomer af
+[logs/04-04-21.txt, 2021-04-04 22:03:22]: weqe [MNKY, Level 11]: lele
