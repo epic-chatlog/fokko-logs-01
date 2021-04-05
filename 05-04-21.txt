@@ -2753,3 +2753,10 @@
 [logs/05-04-21.txt, 2021-04-05 03:01:43]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: its fine
 [logs/05-04-21.txt, 2021-04-05 03:02:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [logs/05-04-21.txt, 2021-04-05 03:02:00]: BulgarianTee [CleanUpCrew, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 03:02:11]: Ƭevan [TrRShClNrRs, Level 48]: sure
+[logs/05-04-21.txt, 2021-04-05 03:02:13]: ***  [, Level 0]: 'ビール|Zero' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:02:14]: ***  [, Level 0]: 'TimePause' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:02:14]: Ƭevan [TrRShClNrRs, Level 48]: buv
+[logs/05-04-21.txt, 2021-04-05 03:02:16]: Ƭevan [TrRShClNrRs, Level 48]: nub
+[logs/05-04-21.txt, 2021-04-05 03:02:21]: TimePause [xSD7, Level 0]: BulgarianTee: yo
+[logs/05-04-21.txt, 2021-04-05 03:02:21]: ***  [, Level 0]: 'Rock' entered and joined the game
