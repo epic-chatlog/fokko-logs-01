@@ -14625,3 +14625,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:07:15]: PoliceTee [xSD7, Level 0]: with like 1-2 people active
 [logs/04-04-21.txt, 2021-04-04 22:07:16]: SAUD [, Level 21]: xD
 [logs/04-04-21.txt, 2021-04-04 22:07:16]: PoliceTee [xSD7, Level 0]: XD
+[logs/04-04-21.txt, 2021-04-04 22:07:24]: PoliceTee [xSD7, Level 0]: good ol' days
+[logs/04-04-21.txt, 2021-04-04 22:07:27]: SAUD [, Level 21]: \
