@@ -14854,3 +14854,7 @@
 [logs/04-04-21.txt, 2021-04-04 22:34:16]: PoliceTee [xSD7, Level 0]: (3)SAUD: its one of my secret accounts
 [logs/04-04-21.txt, 2021-04-04 22:34:20]: (3)SAUD [, Level 8]: oh
 [logs/04-04-21.txt, 2021-04-04 22:34:22]: PoliceTee [xSD7, Level 0]: that i used to to sneak in police
+[logs/04-04-21.txt, 2021-04-04 22:34:23]: ***  [, Level 0]: '(1)oyun krallı' joined the spectators
+[logs/04-04-21.txt, 2021-04-04 22:34:27]: ***  [, Level 0]: '(1)oyun krallı' joined the game
+[logs/04-04-21.txt, 2021-04-04 22:34:28]: PoliceTee [xSD7, Level 0]: and see wtf is happening when im not online
+[logs/04-04-21.txt, 2021-04-04 22:34:30]: PoliceTee [xSD7, Level 0]: in the eyes of a random
