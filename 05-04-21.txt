@@ -3769,3 +3769,8 @@
 [logs/05-04-21.txt, 2021-04-05 04:18:38]: Foxie♥ [♥, Level 36]: wait Cylox.♥
 [logs/05-04-21.txt, 2021-04-05 04:18:43]:   [, Level 0]: Foxi♥: WTF
 [logs/05-04-21.txt, 2021-04-05 04:18:54]:   [, Level 0]: |ΛnץOиe|: mami: up?
+[logs/05-04-21.txt, 2021-04-05 04:19:01]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:19:01]: ***  [, Level 0]: 'BC|Tixnix' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:19:06]:   [, Level 0]: |ΛnץOиe|: désolé baha
+[logs/05-04-21.txt, 2021-04-05 04:19:06]: ***  [, Level 0]: 'sL|cunt' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:19:06]: mami [, Level 0]: |ΛnץOиe|:  oke
