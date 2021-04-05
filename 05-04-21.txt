@@ -4568,3 +4568,4 @@
 [logs/05-04-21.txt, 2021-04-05 05:05:49]: cookie [, Level 16]: no
 [logs/05-04-21.txt, 2021-04-05 05:05:51]: rexi [, Level 0]: ~DemoizL~:
 [logs/05-04-21.txt, 2021-04-05 05:06:18]: ***  [, Level 0]: 'Asta' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:06:22]: ***  [, Level 0]: '(2)1' finished the special race!
