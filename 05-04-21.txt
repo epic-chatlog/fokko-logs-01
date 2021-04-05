@@ -2572,3 +2572,4 @@
 [logs/05-04-21.txt, 2021-04-05 02:41:55]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:42:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [logs/05-04-21.txt, 2021-04-05 02:42:35]: BulgarianTee [CleanUpCrew, Level 38]: YelloWorlD: how about you let me farm in police, i let you do what you want in police
+[logs/05-04-21.txt, 2021-04-05 02:42:42]: BulgarianTee [CleanUpCrew, Level 38]: YelloWorlD: i wanna go eat and then play gta 5
