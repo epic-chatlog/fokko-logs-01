@@ -6,3 +6,7 @@
 [logs/05-04-21.txt, 2021-04-05 00:00:40]: BulgarianTee [xSD7, Level 38]: Vodo4ka: NO HE WAS NOT MOVE
 [logs/05-04-21.txt, 2021-04-05 00:00:44]: BulgarianTee [xSD7, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 00:00:49]: Vodo4ka [JB.st, Level 41]: Blind
+[logs/05-04-21.txt, 2021-04-05 00:00:58]: wαrнαммer [, Level 26]: pro
+[logs/05-04-21.txt, 2021-04-05 00:01:01]: Vodo4ka [JB.st, Level 41]: o,g
+[logs/05-04-21.txt, 2021-04-05 00:01:03]: Vodo4ka [JB.st, Level 41]: AFK KILL
+[logs/05-04-21.txt, 2021-04-05 00:01:04]: Vodo4ka [JB.st, Level 41]: HMMM
