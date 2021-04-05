@@ -566,3 +566,8 @@
 [logs/05-04-21.txt, 2021-04-05 00:43:39]: Лимонад [MFG, Level 0]: bb
 [logs/05-04-21.txt, 2021-04-05 00:43:42]: weqe [MNKY, Level 11]: poka !!
 [logs/05-04-21.txt, 2021-04-05 00:43:44]: mamikral011 [, Level 26]: SAUD:
+[logs/05-04-21.txt, 2021-04-05 00:43:54]: mamikral011 [, Level 26]: SAUD: help
+[logs/05-04-21.txt, 2021-04-05 00:43:56]: SAUD [, Level 0]: mamikral011:  who blocked u
+[logs/05-04-21.txt, 2021-04-05 00:44:00]: Clight.♥ [♥, Level 0]: kais: Yes
+[logs/05-04-21.txt, 2021-04-05 00:44:03]: weqe [MNKY, Level 11]: SAUD: dont help him
+[logs/05-04-21.txt, 2021-04-05 00:44:03]: mamikral011 [, Level 26]: Asta: help bro
