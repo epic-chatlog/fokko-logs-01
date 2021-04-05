@@ -14611,3 +14611,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:04:05]: PoliceTee [xSD7, Level 0]: weqe: alright cy@
 [logs/04-04-21.txt, 2021-04-04 22:04:08]: weqe [MNKY, Level 11]: bb brother
 [logs/04-04-21.txt, 2021-04-04 22:04:14]: ***  [, Level 0]: 'weqe' has left the game
+[logs/04-04-21.txt, 2021-04-04 22:05:16]: PoliceTee [xSD7, Level 0]: SAUD: you arent leaving are you?
