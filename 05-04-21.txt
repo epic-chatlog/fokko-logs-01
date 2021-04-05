@@ -6914,3 +6914,5 @@
 [2021-04-05 07:56:29]:   [, Level 0]: Shiro.: koro
 [2021-04-05 07:56:30]: ***  [, Level 0]: '(1)cookie' entered and joined the game
 [2021-04-05 07:56:44]:   [, Level 0]: Shiro.: koro: pd
+[2021-04-05 07:56:49]: comic [comically, Level 13]: Noragami: im just watching
+[2021-04-05 07:57:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
