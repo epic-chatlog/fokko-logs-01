@@ -1768,3 +1768,4 @@
 [logs/05-04-21.txt, 2021-04-05 01:46:02]: comic [comically, Level 13]: (2)oyun krallı: what were you trying to sdo?
 [logs/05-04-21.txt, 2021-04-05 01:46:10]: ***  [, Level 0]: 'weqe' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:46:10]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: ask for he do that in real life
+[logs/05-04-21.txt, 2021-04-05 01:46:18]: BulgarianTee [xSD7, Level 38]: (1)kais: go peace :D?
