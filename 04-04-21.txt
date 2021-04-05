@@ -14999,3 +14999,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:59:03]: BulgarianTee [xSD7, Level 38]: finally
 [logs/04-04-21.txt, 2021-04-04 22:59:03]: (3)SAUD [, Level 8]: u can do better
 [logs/04-04-21.txt, 2021-04-04 22:59:08]: BulgarianTee [xSD7, Level 38]: i know XD
+[logs/04-04-21.txt, 2021-04-04 22:59:26]: BulgarianTee [xSD7, Level 38]: im tryna find a way to chese it
