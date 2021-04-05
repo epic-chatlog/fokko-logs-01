@@ -2819,3 +2819,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:09:41]: TimePause [xSD7, Level 35]: bad
 [logs/05-04-21.txt, 2021-04-05 03:09:53]: BulgarianTee [CleanUpCrew, Level 38]: TimePause: SO GARBAGE
 [logs/05-04-21.txt, 2021-04-05 03:10:05]: ***  [, Level 0]: koro is on a killing spree with 10 blocks
+[logs/05-04-21.txt, 2021-04-05 03:10:36]: bob [Legacy™, Level 36]: gl palying alone
+[logs/05-04-21.txt, 2021-04-05 03:10:37]: ***  [, Level 0]: 'bob' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:10:39]: YelloWorlD [404, Level 37]: rq
