@@ -7255,3 +7255,4 @@
 [2021-04-05 08:17:00]: ***  [, Level 0]: 'hmmmmmm' entered and joined the game
 [2021-04-05 08:17:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-05 08:17:03]: ***  [, Level 0]: '♥JustRace.♥' entered and joined the game
+[2021-04-05 08:17:15]: power [TrRShClNrRs, Level 0]: Zʷʰʸˀ: war?
