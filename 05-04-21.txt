@@ -3283,3 +3283,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:46:01]: ***  [, Level 0]: 'Shiro.' has left the game (Timeout Protection over)
 [logs/05-04-21.txt, 2021-04-05 03:46:02]:   [, Level 0]: Pigie♥: Kirito: log out yeah
 [logs/05-04-21.txt, 2021-04-05 03:46:18]:   [, Level 0]: Pigie♥: Kirito: ty
+[logs/05-04-21.txt, 2021-04-05 03:46:36]: [D] BC|Tixnix [BC, Level 0]: x7|zemer: ja bro wenn ich dir helfe bin ich dead
