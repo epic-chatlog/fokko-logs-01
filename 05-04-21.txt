@@ -2741,3 +2741,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:00:59]: HeavyGeneral [FookinLads, Level 44]: keø: u help x7
 [logs/05-04-21.txt, 2021-04-05 03:01:05]: (1)RoberGN [, Level 0]: Shootgun
 [logs/05-04-21.txt, 2021-04-05 03:01:05]: x7|FayZoR [xSD7, Level 42]: Fearless: today i do that (kill u) with 100ms
+[logs/05-04-21.txt, 2021-04-05 03:01:08]: HeavyGeneral [FookinLads, Level 44]: ok
+[logs/05-04-21.txt, 2021-04-05 03:01:12]: [D] Fearless [FookinLads, Level 0]: x7|FayZoR:  yeah i was not warmed up
+[logs/05-04-21.txt, 2021-04-05 03:01:13]: x7|FayZoR [xSD7, Level 42]: Fearless: just look ms
+[logs/05-04-21.txt, 2021-04-05 03:01:15]: [D] Fearless [FookinLads, Level 0]: x7|FayZoR:  and still not
