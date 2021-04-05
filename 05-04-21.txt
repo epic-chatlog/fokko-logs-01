@@ -556,3 +556,8 @@
 [logs/05-04-21.txt, 2021-04-05 00:42:53]: ***  [, Level 0]: 'comic' left the minigame 'Survival'
 [logs/05-04-21.txt, 2021-04-05 00:42:53]: Vodo4ka [JB.st, Level 41]: weqe: peace?...
 [logs/05-04-21.txt, 2021-04-05 00:42:57]: weqe [MNKY, Level 11]: yes Vodo4ka
+[logs/05-04-21.txt, 2021-04-05 00:43:05]: mamikral011 [, Level 26]: TL|ŦƹƦ$ŦǾN: fast bro
+[logs/05-04-21.txt, 2021-04-05 00:43:09]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' xa-xa-xa-xa0))
+[logs/05-04-21.txt, 2021-04-05 00:43:09]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' has left the game
+[logs/05-04-21.txt, 2021-04-05 00:43:12]: Boti. [.bad, Level 27]: rq
+[logs/05-04-21.txt, 2021-04-05 00:43:13]: Vodo4ka [JB.st, Level 41]: XDD
