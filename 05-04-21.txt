@@ -12064,3 +12064,7 @@
 [2021-04-05 12:41:25]: ***  [, Level 0]: 'hmmmmmm' entered and joined the game
 [2021-04-05 12:41:48]: ***  [, Level 0]: 'MORPHIN' entered and joined the game
 [2021-04-05 12:41:51]: (1)|HolyHo|° [, Level 6]: , u rusty xD
+[2021-04-05 12:41:54]: king d+ [, Level 1]: chillerdagorn: ctf server closed ?
+[2021-04-05 12:41:56]: ***  [, Level 0]: '☺' entered and joined the game
+[2021-04-05 12:41:59]: , [TrRShClNrRs, Level 41]: yea xdd
+[2021-04-05 12:42:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
