@@ -2654,3 +2654,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:51:45]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: who u target ?
 [logs/05-04-21.txt, 2021-04-05 02:51:49]: YelloWorlD [404, Level 37]: keø: laisse moi
 [logs/05-04-21.txt, 2021-04-05 02:51:50]: Fearless [FookinLads, Level 40]: BulgarianTee:  i kill them in 2sec
+[logs/05-04-21.txt, 2021-04-05 02:51:53]: YelloWorlD [404, Level 37]: keø: pas ton war
+[logs/05-04-21.txt, 2021-04-05 02:51:59]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: gold targets me but i target noone
+[logs/05-04-21.txt, 2021-04-05 02:52:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
