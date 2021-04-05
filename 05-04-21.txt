@@ -403,3 +403,4 @@
 [logs/05-04-21.txt, 2021-04-05 00:33:56]: BulgarianTee [xSD7, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 00:34:15]: Asta [FookinLads, Level 0]: Ƭevan:  u dumb ?
 [logs/05-04-21.txt, 2021-04-05 00:34:31]: ***  [, Level 0]: 'Ðream' has left the game
+[logs/05-04-21.txt, 2021-04-05 00:34:33]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' entered and joined the game
