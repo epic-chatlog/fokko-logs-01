@@ -14938,3 +14938,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:43:10]: Boti. [.bad, Level 27]: pog
 [logs/04-04-21.txt, 2021-04-04 22:43:20]: (1)oyun krallı [, Level 0]: Boti.:  vs atak
 [logs/04-04-21.txt, 2021-04-04 22:43:22]: Boti. [.bad, Level 27]: what
+[logs/04-04-21.txt, 2021-04-04 22:43:42]: (1)oyun krallı [, Level 0]: Boti.:  türksün biliyom
