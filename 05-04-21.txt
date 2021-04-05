@@ -1302,3 +1302,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:21:06]: SAUD [, Level 0]: (1)oyun krallı:  flag pls
 [logs/05-04-21.txt, 2021-04-05 01:21:07]: MieSlime [FookinLads, Level 43]: Hady:  heyy
 [logs/05-04-21.txt, 2021-04-05 01:21:09]: Hady [new bot, Level 0]: MieSlime:  hello
+[logs/05-04-21.txt, 2021-04-05 01:21:18]: MieSlime [FookinLads, Level 43]: Hady:  come raid police with us
+[logs/05-04-21.txt, 2021-04-05 01:21:19]: weqe [MNKY, Level 11]: KG | Kirito: im the new king here ,  u need to accept it dumbfuck
+[logs/05-04-21.txt, 2021-04-05 01:21:21]: comic [comically, Level 13]: shiiiiiiiiiiiiiit
+[logs/05-04-21.txt, 2021-04-05 01:21:26]: BulgarianTee [xSD7, Level 38]: kais: im afk wtf why u drag me out of farm gae
