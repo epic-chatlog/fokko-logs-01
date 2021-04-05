@@ -14619,3 +14619,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:06:15]: SAUD [, Level 21]: xD
 [logs/04-04-21.txt, 2021-04-04 22:06:32]: PoliceTee [xSD7, Level 0]: i have /spec everyone in this server, and everyone is afk in a farm place Xdd
 [logs/04-04-21.txt, 2021-04-04 22:06:49]: SAUD [, Level 21]: yeah me too 1 hour ago
+[logs/04-04-21.txt, 2021-04-04 22:07:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[logs/04-04-21.txt, 2021-04-04 22:07:03]: PoliceTee [xSD7, Level 0]: morning blmapchill reminds me of old blmapchill
+[logs/04-04-21.txt, 2021-04-04 22:07:09]: PoliceTee [xSD7, Level 0]: it used to be like that 24/7 back in the day
