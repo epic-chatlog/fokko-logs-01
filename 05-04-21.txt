@@ -2751,3 +2751,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:01:37]: [D] Fearless [FookinLads, Level 0]: BulgarianTee:  after u do it press fluffy 1
 [logs/05-04-21.txt, 2021-04-05 03:01:42]: ***  [, Level 0]: 'Deadmouse' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:01:43]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: its fine
+[logs/05-04-21.txt, 2021-04-05 03:02:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[logs/05-04-21.txt, 2021-04-05 03:02:00]: BulgarianTee [CleanUpCrew, Level 38]: E
