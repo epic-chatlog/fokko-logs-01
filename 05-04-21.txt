@@ -6518,3 +6518,6 @@
 [2021-04-05 07:27:36]: discord bridge [, Level 24]: ERROR: eyyyy
 [2021-04-05 07:27:41]: ERROR. [404, Level 74]: omggg
 [2021-04-05 07:27:45]:   [, Level 0]: White Wolf: ~DemoizL~: stop -_-
+[2021-04-05 07:27:48]: ERROR. [404, Level 74]: Maatiteusz:
+[2021-04-05 07:27:52]: ***  [, Level 0]: Zʷʰʸˀ finished in: 1 minute(s) 28.66 second(s)
+[2021-04-05 07:27:53]: ***  [, Level 0]: x7|FayZoR is on a killing spree with 5 blocks
