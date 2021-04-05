@@ -2171,3 +2171,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:11:08]: x7|FayZoR [xSD7, Level 42]: who are u ?
 [logs/05-04-21.txt, 2021-04-05 02:11:11]: ᅟᅟ [, Level 60]: im noby
 [logs/05-04-21.txt, 2021-04-05 02:11:16]: [D] BC|Tixnix [BC, Level 3]: Kirito: ok kom berlin
+[logs/05-04-21.txt, 2021-04-05 02:11:23]: x7|FayZoR [xSD7, Level 42]: i think is isering
+[logs/05-04-21.txt, 2021-04-05 02:11:31]: ᅟᅟ [, Level 60]: im noby
