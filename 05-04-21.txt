@@ -4857,3 +4857,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:38:41]: ***  [, Level 0]: '(1)Swarfey' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:38:43]: Tziys* [FookinLads, Level 38]: mami: sg yaw
 [logs/05-04-21.txt, 2021-04-05 05:38:53]: (2)1 [, Level 11]: MAMİ HELP
+[logs/05-04-21.txt, 2021-04-05 05:39:09]: Vodo4ka [JB.st, Level 41]: Idiot monkey
+[logs/05-04-21.txt, 2021-04-05 05:39:09]: ***  [, Level 0]: 'σмєтнιηg' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:39:14]: ***  [, Level 0]: 'Cylox♥' entered and joined the game
