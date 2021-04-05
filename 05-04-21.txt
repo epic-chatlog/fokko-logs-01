@@ -564,3 +564,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:43:17]: mamikral011 [, Level 26]: weqe: pls sorry help
 [logs/05-04-21.txt, 2021-04-05 00:43:21]: ***  [, Level 0]: 'Лимонад' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 00:43:39]: Лимонад [MFG, Level 0]: bb
+[logs/05-04-21.txt, 2021-04-05 00:43:42]: weqe [MNKY, Level 11]: poka !!
+[logs/05-04-21.txt, 2021-04-05 00:43:44]: mamikral011 [, Level 26]: SAUD:
