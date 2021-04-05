@@ -5008,3 +5008,4 @@
 [logs/05-04-21.txt, 2021-04-05 05:52:27]:   [, Level 0]: (1)Swarfey: blabla
 [logs/05-04-21.txt, 2021-04-05 05:52:33]:   [, Level 0]: Vodo4ka: breh
 [logs/05-04-21.txt, 2021-04-05 05:52:35]: σмєтнιηg [zε†α, Level 0]: ye
+[logs/05-04-21.txt, 2021-04-05 05:52:50]: kais [, Level 65]: ok cool
