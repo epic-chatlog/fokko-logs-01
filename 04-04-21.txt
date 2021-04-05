@@ -15499,3 +15499,6 @@
 [logs/04-04-21.txt, 2021-04-04 23:53:44]: GODLIKe [hax, Level 44]: Vodo4ka: stop
 [logs/04-04-21.txt, 2021-04-04 23:53:44]: Vodo4ka [JB.st, Level 41]: E
 [logs/04-04-21.txt, 2021-04-04 23:53:45]: PoliceTee [xSD7, Level 25]: GODLIKe: not so much of a flex anymore
+[logs/04-04-21.txt, 2021-04-04 23:53:53]: ***  [, Level 0]: 'wa̷rha̷mmer' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 23:53:57]: Vodo4ka [JB.st, Level 41]: E
+[logs/04-04-21.txt, 2021-04-04 23:53:58]: GODLIKe [hax, Level 44]: XDDDDDDDD
