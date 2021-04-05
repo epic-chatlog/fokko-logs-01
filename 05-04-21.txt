@@ -3648,3 +3648,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:12:36]: ***  [, Level 0]: 'Bobcornichon' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 04:12:37]: weqe [MNKY, Level 11]: BulgarianTee: give me money
 [logs/05-04-21.txt, 2021-04-05 04:12:38]: ♫Amirian♬ [, Level 0]: x7|FayZoR: what im help you
+[logs/05-04-21.txt, 2021-04-05 04:12:40]:   [, Level 0]: BulgarianTee: x7|zemer: and spam F3
+[logs/05-04-21.txt, 2021-04-05 04:12:43]: Foxie♥ [♥, Level 36]: [D] BC|serwan: >>>>>>?
+[logs/05-04-21.txt, 2021-04-05 04:12:43]: ♫Amirian♬ [, Level 0]: x7|FayZoR: what im help you
