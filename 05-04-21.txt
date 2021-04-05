@@ -4991,3 +4991,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:51:22]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:51:22]: ***  [, Level 0]: '(1)Swarfey' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:51:23]:   [, Level 0]: (1)Swarfey: Swarfey:asd
+[logs/05-04-21.txt, 2021-04-05 05:51:38]: Kiøn1029 [.bad, Level 31]: I like turtles.
+[logs/05-04-21.txt, 2021-04-05 05:51:39]: x7|FayZoR [xSD7, Level 42]: (1)kais: je peut jouer avec ton dummi ?
