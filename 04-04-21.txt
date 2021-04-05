@@ -15382,3 +15382,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:37:26]: Vodo4ka [JB.st, Level 41]: PoliceTee: of ur ass
 [logs/04-04-21.txt, 2021-04-04 23:37:30]: PoliceTee [xSD7, Level 25]: Xd
 [logs/04-04-21.txt, 2021-04-04 23:37:36]: Vodo4ka [JB.st, Level 41]: :D
+[logs/04-04-21.txt, 2021-04-04 23:37:40]: PoliceTee [xSD7, Level 25]: Vodo4ka: stop reset nob
+[logs/04-04-21.txt, 2021-04-04 23:37:47]: ***  [, Level 0]: '(1)R2D2' entered and joined the game
