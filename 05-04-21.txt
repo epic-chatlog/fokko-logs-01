@@ -13494,3 +13494,5 @@
 [2021-04-05 14:56:50]: ~DemoizL~ [, Level 39]: nan mrc
 [2021-04-05 14:56:55]: Shiro. [404, Level 42]: okfdp
 [2021-04-05 14:56:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-05 14:57:06]: Shiro. [404, Level 42]: cadeau mec
+[2021-04-05 14:57:11]: ~DemoizL~ [, Level 39]: Shiro.: mais ;-;
