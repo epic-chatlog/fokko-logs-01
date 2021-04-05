@@ -15425,3 +15425,4 @@
 [logs/04-04-21.txt, 2021-04-04 23:42:52]: ***  [, Level 0]: 'Wheels.' finished the special race!
 [logs/04-04-21.txt, 2021-04-04 23:42:55]: ***  [, Level 0]: R2D2 finished in: 11 minute(s) 26.40 second(s)
 [logs/04-04-21.txt, 2021-04-04 23:42:55]: ***  [, Level 0]: 'R2D2' finished the special race!
+[logs/04-04-21.txt, 2021-04-04 23:43:10]: ***  [, Level 0]: 'comic' entered and joined the game
