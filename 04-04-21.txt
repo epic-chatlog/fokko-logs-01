@@ -14167,3 +14167,4 @@
 [logs/04-04-21.txt, 2021-04-04 17:52:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [logs/04-04-21.txt, 2021-04-04 17:52:02]: x7|FayZoR [xSD7, Level 42]: sorry ;-;
 [logs/04-04-21.txt, 2021-04-04 17:52:15]: ***  [, Level 0]: 'Royal' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:53:33]: ***  [, Level 0]: '(1)chillerdagorn' entered and joined the game
