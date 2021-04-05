@@ -4654,3 +4654,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:22:06]: MieSlime [FookinLads, Level 43]: u don't have name
 [logs/05-04-21.txt, 2021-04-05 05:22:07]: ***  [, Level 0]: '(1)Kezo' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:22:09]: Vodo4ka [JB.st, Level 41]: Kezo: sweety
+[logs/05-04-21.txt, 2021-04-05 05:22:26]: MieSlime [FookinLads, Level 43]: u don't have name
+[logs/05-04-21.txt, 2021-04-05 05:22:31]: ᅟᅟᅟ [, Level 0]: what
+[logs/05-04-21.txt, 2021-04-05 05:22:32]: ᅟᅟᅟ [, Level 0]: why
