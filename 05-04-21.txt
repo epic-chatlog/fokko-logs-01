@@ -713,3 +713,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:51:17]: weqe [MNKY, Level 11]: wtf
 [logs/05-04-21.txt, 2021-04-05 00:51:17]: (1)SAUD [, Level 22]: mamikral011:  bitch
 [logs/05-04-21.txt, 2021-04-05 00:51:18]: weqe [MNKY, Level 11]: how u do this dude
+[logs/05-04-21.txt, 2021-04-05 00:51:27]: BulgarianTee [xSD7, Level 38]: wasnt
+[logs/05-04-21.txt, 2021-04-05 00:51:28]: BulgarianTee [xSD7, Level 38]: me
+[logs/05-04-21.txt, 2021-04-05 00:51:30]: BulgarianTee [xSD7, Level 38]: E
