@@ -3338,3 +3338,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:52:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [logs/05-04-21.txt, 2021-04-05 03:52:03]: x7|FayZoR [xSD7, Level 42]: Foxie♥: don't ask for peace after that
 [logs/05-04-21.txt, 2021-04-05 03:52:12]: ►AmirianYA◄ [YARIMINAღ, Level 0]: EZ RIP
+[logs/05-04-21.txt, 2021-04-05 03:52:18]:   [, Level 0]: Foxie♥: »Amirian YA«: ur kirito?
+[logs/05-04-21.txt, 2021-04-05 03:52:22]:   [, Level 0]: Foxie♥: »Amirian YA«: >>
