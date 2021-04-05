@@ -13017,3 +13017,8 @@
 [2021-04-05 13:56:28]: mina [, Level 0]: Kirito♥: im sry honey
 [2021-04-05 13:56:33]: ***  [, Level 0]: 'Hoi' entered and joined the game
 [2021-04-05 13:56:41]: ***  [, Level 0]: 'Isegrin' has left the game
+[2021-04-05 13:56:49]: ***  [, Level 0]: 'Hoi' has left the game
+[2021-04-05 13:56:50]: (2)Kirito♥ [♥, Level 35]: mina: bin ich froh dass du ein typ bist der korb hätte sonst echt weh getan
+[2021-04-05 13:56:58]: ERROR. [404, Level 74]: xD
+[2021-04-05 13:56:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-05 13:56:59]: mina [, Level 0]: Kirito♥: u just wont love the way my bf does
