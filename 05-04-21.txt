@@ -167,3 +167,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:14:57]: BulgarianTee [xSD7, Level 38]: XDD
 [logs/05-04-21.txt, 2021-04-05 00:14:59]: Vodo4ka [JB.st, Level 41]: NOEMI
 [logs/05-04-21.txt, 2021-04-05 00:15:00]: Vodo4ka [JB.st, Level 41]: XDD
+[logs/05-04-21.txt, 2021-04-05 00:15:06]: Vodo4ka [JB.st, Level 41]: CRIJNNNGENGNEE
+[logs/05-04-21.txt, 2021-04-05 00:15:07]: oyun krallı [, Level 11]: gel
+[logs/05-04-21.txt, 2021-04-05 00:15:12]: wαrнαммer [, Level 26]: oyun krallı:  yok beni bulaştırma
