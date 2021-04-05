@@ -15542,3 +15542,4 @@
 [logs/04-04-21.txt, 2021-04-04 23:57:10]: wαrнαммer [, Level 26]: eyw
 [logs/04-04-21.txt, 2021-04-04 23:57:12]: Vodo4ka [JB.st, Level 41]: Ƭevan: дрим?
 [logs/04-04-21.txt, 2021-04-04 23:57:16]: Ƭevan [TrRShClNrRs, Level 48]: ага
+[logs/04-04-21.txt, 2021-04-04 23:57:22]: Vodo4ka [JB.st, Level 41]: понятно...
