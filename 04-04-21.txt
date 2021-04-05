@@ -14931,3 +14931,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:42:11]: ***  [, Level 0]: 'PoliceTee' changed name to 'BoomerTee'
 [logs/04-04-21.txt, 2021-04-04 22:42:15]: BoomerTee [xSD7, Level 0]: Boti.: what did you say?
 [logs/04-04-21.txt, 2021-04-04 22:42:20]: Boti. [.bad, Level 27]: nothing
+[logs/04-04-21.txt, 2021-04-04 22:42:24]: Boti. [.bad, Level 27]:  just mentioned you
+[logs/04-04-21.txt, 2021-04-04 22:42:29]: BoomerTee [xSD7, Level 0]: E
