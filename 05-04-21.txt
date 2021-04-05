@@ -4975,3 +4975,4 @@
 [logs/05-04-21.txt, 2021-04-05 05:49:45]: ***  [, Level 0]: '♫Amirian♬.' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:49:51]: Vodo4ka [JB.st, Level 41]: mami: war
 [logs/05-04-21.txt, 2021-04-05 05:49:51]: ***  [, Level 0]: koro is on a killing spree with 10 blocks
+[logs/05-04-21.txt, 2021-04-05 05:49:58]: ***  [, Level 0]: (2)1 is on a killing spree with 5 blocks
