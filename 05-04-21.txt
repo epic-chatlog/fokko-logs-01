@@ -14682,3 +14682,4 @@
 [2021-04-05 16:56:33]: UselessTee [, Level 0]: I like turtles.
 [2021-04-05 16:56:39]: UselessTee [, Level 0]: it's just a chill server
 [2021-04-05 16:56:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-05 16:57:35]: ***  [, Level 0]: 'Deuf' entered and joined the game
