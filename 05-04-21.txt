@@ -4901,3 +4901,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:42:37]:   [, Level 0]: HeavyGeneral: yo ERROR
 [logs/05-04-21.txt, 2021-04-05 05:42:53]: ERROR. [404, Level 73]: NetFlix:  there u go
 [logs/05-04-21.txt, 2021-04-05 05:42:57]: ERROR. [404, Level 73]: u have
+[logs/05-04-21.txt, 2021-04-05 05:43:08]: NetFlix [, Level 13]: ERROR.: ty
+[logs/05-04-21.txt, 2021-04-05 05:43:12]: ***  [, Level 0]: Vodo4ka is on a killing spree with 5 blocks
