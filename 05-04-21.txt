@@ -3015,3 +3015,9 @@
 [logs/05-04-21.txt, 2021-04-05 03:27:32]: ***  [, Level 0]: 'Paaradox' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:27:33]: ***  [, Level 0]: 'BC|Tixnix' left the minigame 'Block'
 [logs/05-04-21.txt, 2021-04-05 03:27:34]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:27:38]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:27:39]: Cylox. [♥, Level 0]: pro
+[logs/05-04-21.txt, 2021-04-05 03:27:45]: ***  [, Level 0]: 'Cylox.' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:27:45]: ***  [, Level 0]: 'Cylox' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:27:47]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:27:50]: ***  [, Level 0]: 'STULEJA 3000' joined the game
