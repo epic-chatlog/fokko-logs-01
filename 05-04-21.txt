@@ -1024,3 +1024,9 @@
 [logs/05-04-21.txt, 2021-04-05 01:08:08]: ***  [, Level 0]: 'Vodo4ka' has left the game
 [logs/05-04-21.txt, 2021-04-05 01:08:14]: ***  [, Level 0]: 'Kiøn1029' has left the game
 [logs/05-04-21.txt, 2021-04-05 01:08:15]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:08:17]: weqe [MNKY, Level 11]: Vodo4ka: i love you
+[logs/05-04-21.txt, 2021-04-05 01:08:18]: KG | Kirito [KaisGay, Level 34]: Asta: i am so fucking disappointed of you
+[logs/05-04-21.txt, 2021-04-05 01:08:19]: BulgarianTee [xSD7, Level 38]: MieSlime: kais big nobo helper XDdd
+[logs/05-04-21.txt, 2021-04-05 01:08:20]: Vodo4ka [JB.st, Level 0]: weqe: me too
+[logs/05-04-21.txt, 2021-04-05 01:08:20]: comic [comically, Level 13]: toine: bruh what are you doing
+[logs/05-04-21.txt, 2021-04-05 01:08:23]: x7|FayZoR [xSD7, Level 42]: MieSlime: help
