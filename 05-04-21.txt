@@ -1632,3 +1632,5 @@
 [logs/05-04-21.txt, 2021-04-05 01:37:14]: Kirito [Chilli.*, Level 34]: [D] Leblebi:  DONT HELP KAIS DUDE
 [logs/05-04-21.txt, 2021-04-05 01:37:14]: ***  [, Level 0]: 'SAUD' has left the game
 [logs/05-04-21.txt, 2021-04-05 01:37:16]: (1)kais [, Level 58]: PoliceTee: xD
+[logs/05-04-21.txt, 2021-04-05 01:37:20]: x7|FayZoR [xSD7, Level 42]: Leblebi: stop help randmon like kais
+[logs/05-04-21.txt, 2021-04-05 01:37:20]: ***  [, Level 0]: 'Ƭevan' finished the special race!
