@@ -3511,3 +3511,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:04:27]: ***  [, Level 0]: Chillingo is on a killing spree with 5 blocks
 [logs/05-04-21.txt, 2021-04-05 04:04:28]: Kirito [♥, Level 35]: Foxie♥: xDDD
 [logs/05-04-21.txt, 2021-04-05 04:04:34]:   [, Level 0]: Foxie♥: Cylox.♥: come we do race
+[logs/05-04-21.txt, 2021-04-05 04:04:46]:   [, Level 0]: Foxie♥: Shiro.: u got raped stfu
+[logs/05-04-21.txt, 2021-04-05 04:04:46]: ***  [, Level 0]: 'wαrнαммer' left the minigame 'Block'
+[logs/05-04-21.txt, 2021-04-05 04:04:50]:   [, Level 0]: Shiro.: come royal Foxie♥
