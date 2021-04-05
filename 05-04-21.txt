@@ -4321,3 +4321,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:45:25]:   [, Level 0]: mami: help
 [logs/05-04-21.txt, 2021-04-05 04:45:27]:   [, Level 0]: Vodo4ka: Shiro.: i may hurt u, pls stop>_<
 [logs/05-04-21.txt, 2021-04-05 04:45:28]:   [, Level 0]: MieSlime: Nudelsaft c::  how are u today ?
+[logs/05-04-21.txt, 2021-04-05 04:45:32]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:45:37]: Isegrin [, Level 54]: Shiro.: FAK OF
+[logs/05-04-21.txt, 2021-04-05 04:45:41]:   [, Level 0]: MieSlime: Nudelsaft c::  how are u today ?
