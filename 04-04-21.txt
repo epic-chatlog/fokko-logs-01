@@ -15271,3 +15271,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:26:47]: PoliceTee [xSD7, Level 25]: GODLIKe: no srsly where were you yesterday?
 [logs/04-04-21.txt, 2021-04-04 23:27:00]: PoliceTee [xSD7, Level 25]: you dont answer => you were with noemi
 [logs/04-04-21.txt, 2021-04-04 23:27:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[logs/04-04-21.txt, 2021-04-04 23:27:09]: GODLIKe [hax, Level 44]: PoliceTee: ı have war he
+[logs/04-04-21.txt, 2021-04-04 23:27:15]: GODLIKe [hax, Level 44]: PoliceTee: ı have war she *
