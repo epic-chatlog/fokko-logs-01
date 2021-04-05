@@ -2746,3 +2746,8 @@
 [logs/05-04-21.txt, 2021-04-05 03:01:13]: x7|FayZoR [xSD7, Level 42]: Fearless: just look ms
 [logs/05-04-21.txt, 2021-04-05 03:01:15]: [D] Fearless [FookinLads, Level 0]: x7|FayZoR:  and still not
 [logs/05-04-21.txt, 2021-04-05 03:01:24]: [D] Fearless [FookinLads, Level 0]: x7|FayZoR:  and i have half of it
+[logs/05-04-21.txt, 2021-04-05 03:01:35]: [D] Fearless [FookinLads, Level 0]: BulgarianTee:  after u do it press fluffy 1
+[logs/05-04-21.txt, 2021-04-05 03:01:37]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: sorry i can't play with that ping
+[logs/05-04-21.txt, 2021-04-05 03:01:37]: [D] Fearless [FookinLads, Level 0]: BulgarianTee:  after u do it press fluffy 1
+[logs/05-04-21.txt, 2021-04-05 03:01:42]: ***  [, Level 0]: 'Deadmouse' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:01:43]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: its fine
