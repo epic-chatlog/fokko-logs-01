@@ -14951,3 +14951,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:46:39]: BulgarianTee [xSD7, Level 38]: E
 [logs/04-04-21.txt, 2021-04-04 22:47:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [logs/04-04-21.txt, 2021-04-04 22:47:35]: ***  [, Level 0]: 'JUSET' has left the game
+[logs/04-04-21.txt, 2021-04-04 22:48:05]: Boti. [.bad, Level 27]: i go afk
+[logs/04-04-21.txt, 2021-04-04 22:48:08]: PoliceTee [xSD7, Level 0]: cringe
+[logs/04-04-21.txt, 2021-04-04 22:48:11]: Boti. [.bad, Level 27]: no
