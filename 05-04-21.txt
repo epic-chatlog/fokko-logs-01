@@ -1,3 +1,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:00:12]: BulgarianTee [xSD7, Level 38]: Vodo4ka: afk killer bisch
 [logs/05-04-21.txt, 2021-04-05 00:00:18]: wαrнαммer [, Level 26]: silah varmı
 [logs/05-04-21.txt, 2021-04-05 00:00:30]: oyun krallı [, Level 11]: VAR
+[logs/05-04-21.txt, 2021-04-05 00:00:32]: wαrнαммer [, Level 26]: oyun krallı:  yok bendede silah var ama silah kullanakmı diyom
+[logs/05-04-21.txt, 2021-04-05 00:00:32]: Vodo4ka [JB.st, Level 41]: BulgarianTee: IDIOT HE WAS MOVE
+[logs/05-04-21.txt, 2021-04-05 00:00:40]: BulgarianTee [xSD7, Level 38]: Vodo4ka: NO HE WAS NOT MOVE
