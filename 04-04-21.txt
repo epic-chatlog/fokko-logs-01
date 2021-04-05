@@ -14557,3 +14557,5 @@
 [logs/04-04-21.txt, 2021-04-04 21:57:23]: BulgarianTee [xSD7, Level 0]: XD
 [logs/04-04-21.txt, 2021-04-04 21:57:34]: BulgarianTee [xSD7, Level 0]: wait i come with dummy so i can farm
 [logs/04-04-21.txt, 2021-04-04 21:57:35]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 21:57:52]: weqe [MNKY, Level 11]: BulgarianTee: how old u
+[logs/04-04-21.txt, 2021-04-04 21:57:59]: PoliceTee [xSD7, Level 0]: 14
