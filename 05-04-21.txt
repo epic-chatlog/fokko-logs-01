@@ -4718,3 +4718,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:27:19]: ***  [, Level 0]: 'KriegInCome' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:27:28]: Kezo [FookinLads, Level 41]: mami: as
 [logs/05-04-21.txt, 2021-04-05 05:27:29]: [D] ✯ |toxicd [|Supressed, Level 0]: weqe: i help u
+[logs/05-04-21.txt, 2021-04-05 05:27:49]: wαrнαммer [, Level 26]: mami:  ALSANA OLN
+[logs/05-04-21.txt, 2021-04-05 05:27:50]: Kezo [FookinLads, Level 41]: wαrнαммer: mc den çıktım hiç oynayamıyom ab
