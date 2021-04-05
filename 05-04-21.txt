@@ -6729,3 +6729,7 @@
 [2021-04-05 07:43:31]: ERROR [404, Level 56]: kais:  ye
 [2021-04-05 07:43:36]: kais [, Level 65]: ERROR: ok
 [2021-04-05 07:43:37]: Falco642 [, Level 0]: xd
+[2021-04-05 07:43:52]: kais [, Level 65]: x7|FayZoR: AHAH
+[2021-04-05 07:43:55]: comic [comically, Level 13]: bruuuuuuuh
+[2021-04-05 07:43:58]: x7|FayZoR [xSD7, Level 42]: kais: presque :D
+[2021-04-05 07:44:00]: ***  [, Level 0]: 'WarHammer' entered and joined the game
