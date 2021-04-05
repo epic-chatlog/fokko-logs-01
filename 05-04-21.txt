@@ -13117,3 +13117,7 @@
 [2021-04-05 14:11:21]: (2)Kirito♥ [♥, Level 35]: mina: i won't do anything stupid if you dont want it :D
 [2021-04-05 14:11:45]: x7|FayZoR [xSD7, Level 42]: Swarfey: thx
 [2021-04-05 14:11:49]: Swarfey [FookinLads, Level 60]: war4life
+[2021-04-05 14:11:55]: mina [, Level 0]: Kirito♥: but the thing is.. u wanna do it and this is something i dont like
+[2021-04-05 14:11:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-05 14:12:01]: ERROR. [404, Level 74]: verdient
+[2021-04-05 14:12:01]: x7|FayZoR [xSD7, Level 42]: :O + 39k
