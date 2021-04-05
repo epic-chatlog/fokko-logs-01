@@ -9620,3 +9620,7 @@
 [2021-04-05 10:15:06]: Swarfey [FookinLads, Level 37]: cya
 [2021-04-05 10:15:09]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-05 10:15:09]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-05 10:15:17]: zZzerayI [QuietLegend, Level 24]: Hady: ?
+[2021-04-05 10:15:20]: ***  [, Level 0]: GOLD finished in: 0 minute(s) 34.48 second(s)
+[2021-04-05 10:15:20]: ***  [, Level 0]: New record: 2 minute(s) 41.08 second(s) better.
+[2021-04-05 10:15:22]: Hady [new bot, Level 33]: zZzerayI:  i fun
