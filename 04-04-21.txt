@@ -15203,3 +15203,8 @@
 [logs/04-04-21.txt, 2021-04-04 23:20:59]: (3)SAUD [, Level 8]: xD
 [logs/04-04-21.txt, 2021-04-04 23:20:59]: Boti. [.bad, Level 0]: POG
 [logs/04-04-21.txt, 2021-04-04 23:21:04]: BulgarianTee [xSD7, Level 38]: Boti.: rage join
+[logs/04-04-21.txt, 2021-04-04 23:21:07]: Boti. [.bad, Level 0]: no
+[logs/04-04-21.txt, 2021-04-04 23:21:09]: BulgarianTee [xSD7, Level 38]: yes
+[logs/04-04-21.txt, 2021-04-04 23:21:10]: Boti. [.bad, Level 0]: i test the game.png
+[logs/04-04-21.txt, 2021-04-04 23:21:17]: BulgarianTee [xSD7, Level 38]: my game.png is best
+[logs/04-04-21.txt, 2021-04-04 23:21:17]: Boti. [.bad, Level 0]: i fix some shit and i will send it
