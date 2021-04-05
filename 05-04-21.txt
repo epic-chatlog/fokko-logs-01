@@ -2764,3 +2764,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:02:39]: ***  [, Level 0]: koro is on a killing spree with 5 blocks
 [logs/05-04-21.txt, 2021-04-05 03:02:51]: ***  [, Level 0]: HeavyGeneral is on a killing spree with 5 blocks
 [logs/05-04-21.txt, 2021-04-05 03:02:57]: HeavyGeneral [FookinLads, Level 44]: bob: bad
+[logs/05-04-21.txt, 2021-04-05 03:03:06]: bob [Legacy™, Level 36]: HeavyGeneral: if i play defensive like you do i dotjn die too lol
