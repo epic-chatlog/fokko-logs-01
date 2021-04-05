@@ -11773,3 +11773,6 @@
 [2021-04-05 12:06:39]: sL|cunt [, Level 23]: rq
 [2021-04-05 12:06:39]: ***  [, Level 0]: 'sL|cunt' has left the game
 [2021-04-05 12:06:43]: ***  [, Level 0]: '(1)sL|cunt' changed name to 'sL|cunt'
+[2021-04-05 12:06:56]: ***  [, Level 0]: 'sL|cunt' has left the game
+[2021-04-05 12:06:58]: |HolyHo| [, Level 28]: HeavyGeneral: but im just curious what are the needs to join the clan?
+[2021-04-05 12:07:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
