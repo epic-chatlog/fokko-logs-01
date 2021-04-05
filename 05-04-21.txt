@@ -2297,3 +2297,4 @@
 [logs/05-04-21.txt, 2021-04-05 02:22:12]: ***  [, Level 0]: 'RoberGN' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:22:18]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: i was at my village for 10 days, i got back yesterday, the last few days of me staying there were nightmare, i was pingspiking hard
 [logs/05-04-21.txt, 2021-04-05 02:22:21]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: i couldnt do shit xd
+[logs/05-04-21.txt, 2021-04-05 02:22:32]: ***  [, Level 0]: 'RoberGN' entered and joined the game
