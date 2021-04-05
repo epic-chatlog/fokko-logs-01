@@ -14388,3 +14388,4 @@
 [logs/04-04-21.txt, 2021-04-04 18:30:49]: Nudelsaft c: [FookinLads, Level 37]: I like turtles.
 [logs/04-04-21.txt, 2021-04-04 18:30:51]: x7|FayZoR [xSD7, Level 42]: XDD
 [logs/04-04-21.txt, 2021-04-04 18:31:06]: Nudelsaft c: [FookinLads, Level 37]: stupid
+[logs/04-04-21.txt, 2021-04-04 18:32:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
