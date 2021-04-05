@@ -2590,3 +2590,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:45:49]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:45:53]: ***  [, Level 0]: '[D] Fearless' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:46:07]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:46:09]: BulgarianTee [CleanUpCrew, Level 38]: Idk: ->
+[logs/05-04-21.txt, 2021-04-05 02:46:17]: ***  [, Level 0]: '(1)oyun krallı' has left the game
