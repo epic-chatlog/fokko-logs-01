@@ -15328,3 +15328,9 @@
 [logs/04-04-21.txt, 2021-04-04 23:31:40]: BulgarianTee [xSD7, Level 38]: XDd
 [logs/04-04-21.txt, 2021-04-04 23:31:44]: ***  [, Level 0]: 'Wheels.' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 23:31:49]: Vodo4ka [JB.st, Level 41]: BulgarianTee: WITH NOEMI AHAHHAH WITH THE NOOBEST GAY XHDFHASHSAF
+[logs/04-04-21.txt, 2021-04-04 23:31:51]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 23:31:54]: BulgarianTee [xSD7, Level 38]: XDDDDD
+[logs/04-04-21.txt, 2021-04-04 23:31:57]: BulgarianTee [xSD7, Level 38]: GODLIKe: rage join
+[logs/04-04-21.txt, 2021-04-04 23:32:00]: Vodo4ka [JB.st, Level 41]: BulgarianTee: but for real Noemi become better
+[logs/04-04-21.txt, 2021-04-04 23:32:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[logs/04-04-21.txt, 2021-04-04 23:32:01]: GODLIKe [hax, Level 0]: XDDDD
