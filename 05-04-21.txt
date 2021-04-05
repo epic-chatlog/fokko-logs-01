@@ -9719,3 +9719,9 @@
 [2021-04-05 10:22:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-05 10:22:02]:   [, Level 0]: hmmmmm: if you want ChillerDragon
 [2021-04-05 10:22:13]: Maatiteusz [TrRShClNrRs, Level 35]: (1)ERROR: why u cant do something with this guy
+[2021-04-05 10:22:16]: ***  [, Level 0]: '♥JustRace.♥' has left the game
+[2021-04-05 10:22:16]: ***  [, Level 0]: 'Kezo' changed name to '◘'
+[2021-04-05 10:22:16]: ***  [, Level 0]: 'Tziys*' changed name to '○'
+[2021-04-05 10:22:17]: ***  [, Level 0]: ₯-Akuma'♥''s killing spree was ended by flappy (6 blocks)
+[2021-04-05 10:22:17]: ***  [, Level 0]: '♥JustRace.♥' entered and joined the game
+[2021-04-05 10:22:22]: Falco642 [, Level 0]: bruh
