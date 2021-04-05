@@ -849,3 +849,10 @@
 [logs/05-04-21.txt, 2021-04-05 01:00:20]: kais [, Level 65]: BulgarianTee: i saw you lmao
 [logs/05-04-21.txt, 2021-04-05 01:00:24]: BulgarianTee [xSD7, Level 38]: kais: demo?
 [logs/05-04-21.txt, 2021-04-05 01:00:26]: x7|FayZoR [xSD7, Level 42]: Kirito: i wait u
+[logs/05-04-21.txt, 2021-04-05 01:00:26]: SAUD [, Level 0]: Kirito:  wdym i thoght they killed him
+[logs/05-04-21.txt, 2021-04-05 01:00:28]: kais [, Level 65]: BulgarianTee: no
+[logs/05-04-21.txt, 2021-04-05 01:00:29]: Boti. [.bad, Level 27]: bruh
+[logs/05-04-21.txt, 2021-04-05 01:00:30]: SAUD [, Level 0]: Kirito:  bruhh
+[logs/05-04-21.txt, 2021-04-05 01:00:32]: Boti. [.bad, Level 27]: i didnt even focus
+[logs/05-04-21.txt, 2021-04-05 01:00:33]: BulgarianTee [xSD7, Level 38]: kais: haha yes die trash ez
+[logs/05-04-21.txt, 2021-04-05 01:00:38]: Kirito [♥, Level 34]: SAUD: I KILLED HIM DUDE
