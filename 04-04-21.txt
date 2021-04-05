@@ -14533,3 +14533,4 @@
 [logs/04-04-21.txt, 2021-04-04 21:53:34]: ***  [, Level 0]: 'BulgarianTee' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 21:53:41]: BulgarianTee [xSD7, Level 0]: ERROR: u afk?
 [logs/04-04-21.txt, 2021-04-04 21:53:52]: BulgarianTee [xSD7, Level 0]: error afk pog
+[logs/04-04-21.txt, 2021-04-04 21:55:19]: ***  [, Level 0]: 'weqe' entered and joined the game
