@@ -2313,3 +2313,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:23:31]: BulgarianTee [CleanUpCrew, Level 38]: [D] Sutzer: yoo you helper ERROR yesterday yes?
 [logs/05-04-21.txt, 2021-04-05 02:23:39]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: i gtg eat too tho XDDd
 [logs/05-04-21.txt, 2021-04-05 02:23:40]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: is a god error
+[logs/05-04-21.txt, 2021-04-05 02:23:41]: [D] Sutzer [Guard, Level 0]: BulgarianTee: yes
+[logs/05-04-21.txt, 2021-04-05 02:23:51]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:23:53]: BulgarianTee [CleanUpCrew, Level 38]: Sutzer: kinda sad for you
