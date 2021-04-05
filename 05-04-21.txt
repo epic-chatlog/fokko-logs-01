@@ -192,3 +192,7 @@
 [logs/05-04-21.txt, 2021-04-05 00:16:34]: BulgarianTee [xSD7, Level 38]: Vodo4ka: DEPENDS IS GLAGOL
 [logs/05-04-21.txt, 2021-04-05 00:16:36]: Vodo4ka [JB.st, Level 41]: BulgarianTee: wat do, kakat'
 [logs/05-04-21.txt, 2021-04-05 00:16:42]: Vodo4ka [JB.st, Level 41]: GLAGOL
+[logs/05-04-21.txt, 2021-04-05 00:16:43]: Vodo4ka [JB.st, Level 41]: GLADOS
+[logs/05-04-21.txt, 2021-04-05 00:16:45]: BulgarianTee [xSD7, Level 38]: Vodo4ka: JUST SAVE ME I WANNA GO TO FARM XDD
+[logs/05-04-21.txt, 2021-04-05 00:16:48]: wαrнαммer [, Level 26]: BulgarianTee:  say yarram
+[logs/05-04-21.txt, 2021-04-05 00:16:54]: BulgarianTee [xSD7, Level 38]: yarram
