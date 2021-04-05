@@ -4298,3 +4298,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:44:17]: ***  [, Level 0]: 'wαrнαммer' has left the game
 [logs/05-04-21.txt, 2021-04-05 04:44:20]: BulgarianTee [CleanUpCrew, Level 38]: Nudelsaft c:: E
 [logs/05-04-21.txt, 2021-04-05 04:44:22]:   [, Level 0]: |MıssOяchiĐ|: Vodo4ka: no
+[logs/05-04-21.txt, 2021-04-05 04:44:26]: Ƭevan [TrRShClNrRs, Level 48]: спс
+[logs/05-04-21.txt, 2021-04-05 04:44:32]: BulgarianTee [CleanUpCrew, Level 38]: Nudelsaft c:: WHY U HELP PPL THAT KILL ME
+[logs/05-04-21.txt, 2021-04-05 04:44:35]: ***  [, Level 0]: 'Happy cat' entered and joined the game
