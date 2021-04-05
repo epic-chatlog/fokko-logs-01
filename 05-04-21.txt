@@ -4414,3 +4414,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:50:45]: ***  [, Level 0]: 'keø' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 04:51:17]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 04:51:30]: cunt [, Level 0]: ReXi´s Bitch: fick dic
+[logs/05-04-21.txt, 2021-04-05 04:51:34]: MieSlime [FookinLads, Level 43]: BulgarianTee:  i lag
+[logs/05-04-21.txt, 2021-04-05 04:51:36]: ***  [, Level 0]: 'Bobcornichon' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:51:41]: BulgarianTee [CleanUpCrew, Level 38]: MieSlime: i have 50 fps Xd
+[logs/05-04-21.txt, 2021-04-05 04:51:43]: ***  [, Level 0]: 'KoalasSindCool' has left the game
