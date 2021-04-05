@@ -11995,3 +11995,7 @@
 [2021-04-05 12:31:50]: ***  [, Level 0]: 's7_sven' entered and joined the game
 [2021-04-05 12:31:53]: ***  [, Level 0]: '[D] ByRushYT' entered and joined the game
 [2021-04-05 12:31:56]: (1)|HolyHo|° [, Level 6]: koro: lag?
+[2021-04-05 12:32:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-05 12:32:01]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-05 12:32:07]: ***  [, Level 0]: '[D] ByRushYT' has left the game
+[2021-04-05 12:32:10]: ***  [, Level 0]: '[D] ByRushYT' entered and joined the game
