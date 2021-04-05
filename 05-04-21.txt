@@ -629,3 +629,10 @@
 [logs/05-04-21.txt, 2021-04-05 00:47:22]: BulgarianTee [xSD7, Level 38]: Xdddd
 [logs/05-04-21.txt, 2021-04-05 00:47:25]: BulgarianTee [xSD7, Level 38]: (1)kais: true
 [logs/05-04-21.txt, 2021-04-05 00:47:26]: mamikral011 [, Level 26]: beni alll
+[logs/05-04-21.txt, 2021-04-05 00:47:29]: BulgarianTee [xSD7, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 00:47:29]: mamikral011 [, Level 26]: oyun krallı: war
+[logs/05-04-21.txt, 2021-04-05 00:47:31]: BulgarianTee [xSD7, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 00:47:32]: Asta [FookinLads, Level 40]: weqe:  u saved my enemy, i do the same
+[logs/05-04-21.txt, 2021-04-05 00:47:34]: Asta [FookinLads, Level 40]: weqe:  ok war
+[logs/05-04-21.txt, 2021-04-05 00:47:35]: mamikral011 [, Level 26]: oyun krallı: bekle sen piç
+[logs/05-04-21.txt, 2021-04-05 00:47:39]: ***  [, Level 0]: 'Neoteny' entered and joined the game
