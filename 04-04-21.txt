@@ -13992,3 +13992,4 @@
 [logs/04-04-21.txt, 2021-04-04 17:13:56]: Nudelsaft c: [FookinLads, Level 37]: nope
 [logs/04-04-21.txt, 2021-04-04 17:14:00]: Nudelsaft c: [FookinLads, Level 37]: check ur room
 [logs/04-04-21.txt, 2021-04-04 17:14:08]: x7|FayZoR [xSD7, Level 42]: sad reset
+[logs/04-04-21.txt, 2021-04-04 17:15:03]: x7|FayZoR [xSD7, Level 42]: soooo Nudelsaft c: what happen ? :D
