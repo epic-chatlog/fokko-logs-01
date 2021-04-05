@@ -737,3 +737,7 @@
 [logs/05-04-21.txt, 2021-04-05 00:52:17]: mamikral011 [, Level 26]: weqe: why dont stop
 [logs/05-04-21.txt, 2021-04-05 00:52:19]: (1)kais [, Level 58]: ok :(
 [logs/05-04-21.txt, 2021-04-05 00:52:22]: weqe [MNKY, Level 11]: mamikral011: u betrayed me
+[logs/05-04-21.txt, 2021-04-05 00:52:25]: BulgarianTee [xSD7, Level 38]: kais: GO TIMEOUT
+[logs/05-04-21.txt, 2021-04-05 00:52:28]: (1)kais [, Level 58]: no >:D
+[logs/05-04-21.txt, 2021-04-05 00:52:34]: mamikral011 [, Level 26]: [D] Boti.: war
+[logs/05-04-21.txt, 2021-04-05 00:52:35]: ***  [, Level 0]: 'SAUD' entered and joined the game
