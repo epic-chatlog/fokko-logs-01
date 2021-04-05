@@ -15486,3 +15486,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:51:59]: Лимонад [MFG, Level 0]: BulgarianTee: aboba
 [logs/04-04-21.txt, 2021-04-04 23:52:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [logs/04-04-21.txt, 2021-04-04 23:52:06]: BulgarianTee [xSD7, Level 38]: Xd
+[logs/04-04-21.txt, 2021-04-04 23:52:17]: GODLIKe. [GANG, Level 0]: NOOOOOOOOO
+[logs/04-04-21.txt, 2021-04-04 23:52:25]: Лимонад [MFG, Level 0]: E
