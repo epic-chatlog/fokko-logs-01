@@ -11984,3 +11984,5 @@
 [2021-04-05 12:30:07]: ***  [, Level 0]: '(2)kais' entered and joined the game
 [2021-04-05 12:30:16]: (1)|HolyHo|° [, Level 6]: HeavyGeneral: instable ping i see
 [2021-04-05 12:30:18]: ***  [, Level 0]: 'ByRushYT' entered and joined the game
+[2021-04-05 12:30:39]: ***  [, Level 0]: 'teee' has left the game
+[2021-04-05 12:30:39]: (1)|HolyHo|° [, Level 6]: HeavyGeneral: u play wifi?
