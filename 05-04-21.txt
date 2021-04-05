@@ -6934,3 +6934,4 @@
 [2021-04-05 07:58:10]: ***  [, Level 0]: 'soleri1' entered and joined the game
 [2021-04-05 07:58:15]: ***  [, Level 0]: 'Rock' has left the game
 [2021-04-05 07:58:15]: ***  [, Level 0]: 'ビール|Zero' has left the game
+[2021-04-05 07:58:22]: ***  [, Level 0]: (1)kais's killing spree was ended by ~DemoizL~ (7 blocks)
