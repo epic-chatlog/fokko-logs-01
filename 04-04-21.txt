@@ -15438,3 +15438,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:44:11]: ***  [, Level 0]: 'oyun krallı' has been muted for 60 seconds
 [logs/04-04-21.txt, 2021-04-04 23:44:13]: R2D2 [, Level 0]: yes
 [logs/04-04-21.txt, 2021-04-04 23:44:21]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 23:44:30]: Vodo4ka [JB.st, Level 41]: XDD
+[logs/04-04-21.txt, 2021-04-04 23:44:35]: Vodo4ka [JB.st, Level 41]: DJAS
