@@ -15377,3 +15377,6 @@
 [logs/04-04-21.txt, 2021-04-04 23:37:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [logs/04-04-21.txt, 2021-04-04 23:37:08]: PoliceTee [xSD7, Level 25]: Vodo4ka: mad af
 [logs/04-04-21.txt, 2021-04-04 23:37:10]: ***  [, Level 0]: '(1)oyun krallı' has left the game
+[logs/04-04-21.txt, 2021-04-04 23:37:19]: Vodo4ka [JB.st, Level 41]: PoliceTee: i am fan
+[logs/04-04-21.txt, 2021-04-04 23:37:20]: Wheels. [, Level 0]: U WANT UR DUMMIE?
+[logs/04-04-21.txt, 2021-04-04 23:37:26]: Vodo4ka [JB.st, Level 41]: PoliceTee: of ur ass
