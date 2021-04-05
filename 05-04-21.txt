@@ -5097,3 +5097,8 @@
 [logs/05-04-21.txt, 2021-04-05 05:58:13]:   [, Level 0]: weqe: poka !!
 [logs/05-04-21.txt, 2021-04-05 05:58:14]: ERROR [404, Level 56]: laggs
 [logs/05-04-21.txt, 2021-04-05 05:58:15]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[logs/05-04-21.txt, 2021-04-05 05:58:24]:   [, Level 0]: (1)Swarfey: Swarfey:ye the client runs twice
+[logs/05-04-21.txt, 2021-04-05 05:58:29]:   [, Level 0]: (1)Swarfey: Swarfey:1 local 1 server
+[logs/05-04-21.txt, 2021-04-05 05:58:35]: mami [, Level 0]: :spec
+[logs/05-04-21.txt, 2021-04-05 05:58:35]: ***  [, Level 0]: '(1)Swarfey' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:58:35]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game
