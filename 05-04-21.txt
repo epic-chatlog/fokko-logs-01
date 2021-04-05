@@ -3199,3 +3199,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:38:30]: ***  [, Level 0]: 'STULEJA 3000' joined the game
 [logs/05-04-21.txt, 2021-04-05 03:38:39]: SlerTz!♥ [♥, Level 30]: ✯ |toxicdaddy: hş
 [logs/05-04-21.txt, 2021-04-05 03:38:44]: SlerTz!♥ [♥, Level 30]: hi
+[logs/05-04-21.txt, 2021-04-05 03:38:49]: Kirito [Chilli.*, Level 35]: SlerTz!♥: spam grenade
+[logs/05-04-21.txt, 2021-04-05 03:38:52]: BulgarianTee [CleanUpCrew, Level 38]: Xd
+[logs/05-04-21.txt, 2021-04-05 03:38:55]: ***  [, Level 0]: 'Yavuz' entered and joined the game
