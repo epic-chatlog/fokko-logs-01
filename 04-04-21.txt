@@ -14426,3 +14426,4 @@
 [logs/04-04-21.txt, 2021-04-04 18:40:33]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [logs/04-04-21.txt, 2021-04-04 18:40:35]: x7|FayZoR [xSD7, Level 42]: XDDDD
 [logs/04-04-21.txt, 2021-04-04 18:40:38]: x7|FayZoR [xSD7, Level 42]: rq :D
+[logs/04-04-21.txt, 2021-04-04 18:42:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
