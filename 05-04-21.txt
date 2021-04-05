@@ -4522,3 +4522,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:00:39]: Rock [, Level 18]: ♕░░░░░░░░Я ПЕРСОН ░V░I░P░ ТЫ ПАЦАН ВЛИП░░░░░░░░░♕
 [logs/05-04-21.txt, 2021-04-05 05:00:42]: ♫Amirian♬ [, Level 29]: yes inf
 [logs/05-04-21.txt, 2021-04-05 05:00:50]: ***  [, Level 0]: '(1)RéXí' changed name to 'rexi'
+[logs/05-04-21.txt, 2021-04-05 05:01:01]: MieSlime [FookinLads, Level 43]: koro:  weqe  t'avais kill
+[logs/05-04-21.txt, 2021-04-05 05:01:01]: ***  [, Level 0]: 'HeavyGeneral' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:01:02]: cookie [, Level 16]: love
