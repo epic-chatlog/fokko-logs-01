@@ -4588,3 +4588,4 @@
 [logs/05-04-21.txt, 2021-04-05 05:09:40]: ***  [, Level 0]: 'Treebeard' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:09:43]: ♫Amirian♬ [, Level 29]: go help me cookie
 [logs/05-04-21.txt, 2021-04-05 05:09:46]: cookie [, Level 16]: yes
+[logs/05-04-21.txt, 2021-04-05 05:10:00]: ChillerDragon.* [Chilli.*, Level 41]: ZillyDreck: I am currently afk.
