@@ -14104,3 +14104,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:40:54]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: go spike ?
 [logs/04-04-21.txt, 2021-04-04 17:40:59]: x7|KshKsh99 [xSD7, Level 0]: XDD
 [logs/04-04-21.txt, 2021-04-04 17:41:01]: Who B) [no u, Level 0]: xd
+[logs/04-04-21.txt, 2021-04-04 17:41:14]: x7|KshKsh99 [xSD7, Level 0]: XDDDDDDDDDDD x7|FayZoR
+[logs/04-04-21.txt, 2021-04-04 17:41:15]: x7|FayZoR [xSD7, Level 42]: XD
