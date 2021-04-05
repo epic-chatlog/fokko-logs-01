@@ -1020,3 +1020,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:07:58]: ***  [, Level 0]: 'Vodo4ka' has left the game
 [logs/05-04-21.txt, 2021-04-05 01:08:01]: comic [comically, Level 13]: toine:
 [logs/05-04-21.txt, 2021-04-05 01:08:02]: BulgarianTee [xSD7, Level 38]: Boti.: KEK
+[logs/05-04-21.txt, 2021-04-05 01:08:07]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:08:08]: ***  [, Level 0]: 'Vodo4ka' has left the game
+[logs/05-04-21.txt, 2021-04-05 01:08:14]: ***  [, Level 0]: 'Kiøn1029' has left the game
+[logs/05-04-21.txt, 2021-04-05 01:08:15]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
