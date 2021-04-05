@@ -14001,3 +14001,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:16:14]: ***  [, Level 0]: x7|KshKsh99 is on a killing spree with 5 blocks
 [logs/04-04-21.txt, 2021-04-04 17:16:20]: x7|FayZoR [xSD7, Level 42]: XDDDDDDD
 [logs/04-04-21.txt, 2021-04-04 17:16:27]: x7|KshKsh99 [xSD7, Level 0]: XDDDDDDDD
+[logs/04-04-21.txt, 2021-04-04 17:16:40]: ***  [, Level 0]: x7|FayZoR is on a killing spree with 5 blocks
+[logs/04-04-21.txt, 2021-04-04 17:16:40]: ***  [, Level 0]: x7|KshKsh99's killing spree was ended by x7|FayZoR (8 blocks)
