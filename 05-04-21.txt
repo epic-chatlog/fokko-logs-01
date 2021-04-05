@@ -1188,3 +1188,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:15:36]: PoliceTee [xSD7, Level 25]: Leblebi: look urself
 [logs/05-04-21.txt, 2021-04-05 01:15:36]: Cylox. [♥, Level 0]: wait
 [logs/05-04-21.txt, 2021-04-05 01:15:40]: x7|FayZoR [xSD7, Level 42]: kais: tkt, quand t'auras plus de taser
+[logs/05-04-21.txt, 2021-04-05 01:15:45]: [D] Leblebi [, Level 18]: ty ok
+[logs/05-04-21.txt, 2021-04-05 01:15:50]: MieSlime [FookinLads, Level 43]: weqe:  wtffffffffffffffff 6v1
+[logs/05-04-21.txt, 2021-04-05 01:15:52]: (1)kais [, Level 58]: x7|FayZoR: plus de tasers ? quelle blagu
