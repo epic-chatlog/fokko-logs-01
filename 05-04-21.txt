@@ -1969,3 +1969,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:58:36]: [D] BC|Tixnix [BC, Level 3]: comic: ok
 [logs/05-04-21.txt, 2021-04-05 01:58:39]: comic [comically, Level 13]: [D] BC|Tixnix: yay
 [logs/05-04-21.txt, 2021-04-05 01:58:55]: Leblebi [, Level 23]: x7|FayZoR: come 1v1 not taser noob
+[logs/05-04-21.txt, 2021-04-05 01:59:01]: x7|FayZoR [xSD7, Level 42]: Cylox: not my war
+[logs/05-04-21.txt, 2021-04-05 01:59:03]: Cylox [, Level 30]: weqe: dfuck
+[logs/05-04-21.txt, 2021-04-05 01:59:05]: Leblebi [, Level 23]: weqe: help me .d
+[logs/05-04-21.txt, 2021-04-05 01:59:06]: Kirito [Chilli.*, Level 34]: serwan: portal
