@@ -4545,3 +4545,4 @@
 [logs/05-04-21.txt, 2021-04-05 05:02:44]: rexi [, Level 0]: Lucas: wassup
 [logs/05-04-21.txt, 2021-04-05 05:02:44]: ♫Amirian♬ [, Level 29]: me lags
 [logs/05-04-21.txt, 2021-04-05 05:03:01]: ***  [, Level 0]: 'Virus' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:03:19]: ***  [, Level 0]: MieSlime is on a killing spree with 5 blocks
