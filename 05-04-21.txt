@@ -3373,3 +3373,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:55:05]: x7|zemer [xSD7, Level 37]: Foxie♥: Sry
 [logs/05-04-21.txt, 2021-04-05 03:55:09]:   [, Level 0]: Foxie♥: noob
 [logs/05-04-21.txt, 2021-04-05 03:55:24]:   [, Level 0]: Foxie♥: x7|FayZoR: war 4 life this time 4 life u will never get peace only for 1b
+[logs/05-04-21.txt, 2021-04-05 03:55:33]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:55:35]: ***  [, Level 0]: '►AmirianYA◄' would have timed out, but can use timeout protection now
+[logs/05-04-21.txt, 2021-04-05 03:55:35]: ***  [, Level 0]: '»Amirian YA«' would have timed out, but can use timeout protection now
+[logs/05-04-21.txt, 2021-04-05 03:55:38]: x7|FayZoR [xSD7, Level 42]: Foxie♥: press k and shut up
