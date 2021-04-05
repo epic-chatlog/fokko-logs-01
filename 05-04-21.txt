@@ -11292,3 +11292,6 @@
 [2021-04-05 11:36:31]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
 [2021-04-05 11:36:31]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
 [2021-04-05 11:36:40]: ***  [, Level 0]: 'Kezo' has left the game
+[2021-04-05 11:36:56]: Andromeda [, Level 24]: FUCK IKEA
+[2021-04-05 11:36:57]:   [, Level 0]: Foxi♥: GODLIKe: smort u had no inf huk
+[2021-04-05 11:37:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
