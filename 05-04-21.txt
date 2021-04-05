@@ -331,3 +331,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:28:30]: weqe [MNKY, Level 11]: poka !!
 [logs/05-04-21.txt, 2021-04-05 00:28:31]: ***  [, Level 0]: 'Asta' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 00:28:41]: Vodo4ka [JB.st, Level 41]: OMG
+[logs/05-04-21.txt, 2021-04-05 00:28:45]: Vodo4ka [JB.st, Level 41]: 2 gay
+[logs/05-04-21.txt, 2021-04-05 00:28:48]: weqe [MNKY, Level 11]: poka !!
+[logs/05-04-21.txt, 2021-04-05 00:28:51]: ***  [, Level 0]: 'el champeon' entered and joined the game
