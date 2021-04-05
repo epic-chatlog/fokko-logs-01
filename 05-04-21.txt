@@ -1926,3 +1926,4 @@
 [logs/05-04-21.txt, 2021-04-05 01:56:29]: Souly [acqwerty, Level 60]: Hady: no u
 [logs/05-04-21.txt, 2021-04-05 01:56:34]: Hady [new bot, Level 33]: ?
 [logs/05-04-21.txt, 2021-04-05 01:56:37]: ***  [, Level 0]: 'Lucas' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:56:41]: Hady [new bot, Level 33]: Souly:  hello
