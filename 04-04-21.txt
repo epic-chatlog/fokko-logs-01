@@ -14544,3 +14544,6 @@
 [logs/04-04-21.txt, 2021-04-04 21:56:30]: BulgarianTee [xSD7, Level 0]: weqe: you like my new skin :D?
 [logs/04-04-21.txt, 2021-04-04 21:56:32]: weqe [MNKY, Level 11]: yes
 [logs/04-04-21.txt, 2021-04-04 21:56:34]: weqe [MNKY, Level 11]: very handsome
+[logs/04-04-21.txt, 2021-04-04 21:56:36]: weqe [MNKY, Level 11]: i cant even see it
+[logs/04-04-21.txt, 2021-04-04 21:56:36]: BulgarianTee [xSD7, Level 0]: XDDD
+[logs/04-04-21.txt, 2021-04-04 21:56:44]: BulgarianTee [xSD7, Level 0]: weqe: its heavygeneral's skin
