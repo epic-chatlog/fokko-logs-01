@@ -6043,3 +6043,4 @@
 [2021-04-05 06:51:37]:   [, Level 0]: (1)P4Pyr0s: ♫Amirian♬:
 [2021-04-05 06:51:40]: ✯ |toxicdaddy [|Supressed, Level 25]: Foxie♥:
 [2021-04-05 06:51:50]:   [, Level 0]: power2: hihi ChillerDragon
+[2021-04-05 06:52:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
