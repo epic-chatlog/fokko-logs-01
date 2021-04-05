@@ -14730,3 +14730,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:19:31]: PoliceTee [xSD7, Level 0]: Boti.: i started out with [censored name] then with Tomatee, then BaguetTee, short-lived BulgarianTee got replaced with PoliceTee, then i became long-term BulgarianTee and THEN i switche
 [logs/04-04-21.txt, 2021-04-04 22:19:32]: (3)SAUD [, Level 8]: then i came back 4 weeks ago
 [logs/04-04-21.txt, 2021-04-04 22:19:41]: PoliceTee [xSD7, Level 0]: but before BaguetTee was Chilli.* tee too as dummy
+[logs/04-04-21.txt, 2021-04-04 22:19:51]: PoliceTee [xSD7, Level 0]: Chilli.* tee never made it to being my main tho, unlike the rest
