@@ -3755,3 +3755,5 @@
 [logs/05-04-21.txt, 2021-04-05 04:17:16]: ***  [, Level 0]: 'falkenauge' has left the game
 [logs/05-04-21.txt, 2021-04-05 04:17:26]: x7|zemer [xSD7, Level 37]: BulgarianTee: I think my game is lagy
 [logs/05-04-21.txt, 2021-04-05 04:17:28]: x7|FayZoR [xSD7, Level 42]: ♫Amirian♬: first i want kill them
+[logs/05-04-21.txt, 2021-04-05 04:17:42]:   [, Level 0]: Lucas: Lisa: XD
+[logs/05-04-21.txt, 2021-04-05 04:17:47]: ♫Amirian♬ [, Level 0]: x7|FayZoR: no
