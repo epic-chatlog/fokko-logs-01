@@ -14598,3 +14598,7 @@
 [logs/04-04-21.txt, 2021-04-04 22:03:22]: weqe [MNKY, Level 11]: lele
 [logs/04-04-21.txt, 2021-04-04 22:03:25]: PoliceTee [xSD7, Level 0]: XD
 [logs/04-04-21.txt, 2021-04-04 22:03:35]: weqe [MNKY, Level 11]: ok i leave brother
+[logs/04-04-21.txt, 2021-04-04 22:03:38]: PoliceTee [xSD7, Level 0]: why
+[logs/04-04-21.txt, 2021-04-04 22:03:39]: PoliceTee [xSD7, Level 0]: no
+[logs/04-04-21.txt, 2021-04-04 22:03:41]: weqe [MNKY, Level 11]: work
+[logs/04-04-21.txt, 2021-04-04 22:03:46]: PoliceTee [xSD7, Level 0]: weqe: boomer :(
