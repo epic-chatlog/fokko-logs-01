@@ -12541,3 +12541,5 @@
 [2021-04-05 13:15:11]: ***  [, Level 0]: 'Sutzer' entered and joined the game
 [2021-04-05 13:15:15]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
 [2021-04-05 13:15:57]: mina [, Level 0]: yooooo
+[2021-04-05 13:16:03]: Nudelsaft c: [FookinLads, Level 60]: ja
+[2021-04-05 13:16:16]: Nudelsaft c: [FookinLads, Level 60]: xd
