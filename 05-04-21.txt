@@ -4564,3 +4564,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:04:34]: ***  [, Level 0]: 'Isegrin' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:05:08]: ♫Amirian♬ [, Level 29]: x7|FayZoR: pls help
 [logs/05-04-21.txt, 2021-04-05 05:05:27]: x7|FayZoR [xSD7, Level 42]: ♫Amirian♬: can't i need to go
+[logs/05-04-21.txt, 2021-04-05 05:05:47]: cookie [, Level 16]: yes
+[logs/05-04-21.txt, 2021-04-05 05:05:49]: cookie [, Level 16]: no
+[logs/05-04-21.txt, 2021-04-05 05:05:51]: rexi [, Level 0]: ~DemoizL~:
