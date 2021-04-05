@@ -2001,3 +2001,8 @@
 [logs/05-04-21.txt, 2021-04-05 02:00:07]: BulgarianTee [Chilli.*, Level 38]: weqe: not funny
 [logs/05-04-21.txt, 2021-04-05 02:00:08]: x7|FayZoR [xSD7, Level 42]: kais: regarde avant de afk ton pote stp
 [logs/05-04-21.txt, 2021-04-05 02:00:08]: weqe [MNKY, Level 11]: how
+[logs/05-04-21.txt, 2021-04-05 02:00:13]: ***  [, Level 0]: 'BENJI3103' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:00:14]: BulgarianTee [Chilli.*, Level 38]: weqe: maybe turn off your hacks?
+[logs/05-04-21.txt, 2021-04-05 02:00:15]: ***  [, Level 0]: 'el champeon' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:00:19]: weqe [MNKY, Level 11]: xaxa u got me BulgarianTee
+[logs/05-04-21.txt, 2021-04-05 02:00:20]: ***  [, Level 0]: 'Soros' entered and joined the game
