@@ -8190,3 +8190,6 @@
 [2021-04-05 09:05:52]: Light Rider [hello, Level 0]: soleri1: WHAT ARE YOU DOING
 [2021-04-05 09:05:53]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
 [2021-04-05 09:05:55]: ***  [, Level 0]: 'Light Rider' has left the game
+[2021-04-05 09:06:06]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-05 09:06:06]: ***  [, Level 0]: 'GOLD' has left the game
+[2021-04-05 09:06:08]:   [, Level 0]: |MıssOяchiĐ|: ChillerDragon: tfff again
