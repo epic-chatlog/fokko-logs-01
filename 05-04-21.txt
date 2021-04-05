@@ -3413,3 +3413,10 @@
 [logs/05-04-21.txt, 2021-04-05 03:58:14]: ***  [, Level 0]: 'cookie' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:58:15]:   [, Level 0]: weqe: xaxa Ƭevan
 [logs/05-04-21.txt, 2021-04-05 03:58:21]:   [, Level 0]: ►AmirianYA◄: IDIOTS
+[logs/05-04-21.txt, 2021-04-05 03:58:29]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:58:30]:   [, Level 0]: [D] ✯ |toxicd: Foxi♥: help
+[logs/05-04-21.txt, 2021-04-05 03:58:30]: x7|zemer [xSD7, Level 37]: weqe: Ƭevan Stop fighting
+[logs/05-04-21.txt, 2021-04-05 03:58:32]: Cylox.♥ [♥, Level 0]: ♥
+[logs/05-04-21.txt, 2021-04-05 03:58:33]: ***  [, Level 0]: 'WarHammer' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:58:37]: ***  [, Level 0]: Foxie♥ finished in: 0 minute(s) 56.58 second(s)
+[logs/05-04-21.txt, 2021-04-05 03:58:37]: ***  [, Level 0]: New record: 8 minute(s) 40.52 second(s) better.
