@@ -3748,3 +3748,5 @@
 [logs/05-04-21.txt, 2021-04-05 04:16:51]: ♫Amirian♬ [, Level 0]: x7|FayZoR: i dont understand
 [logs/05-04-21.txt, 2021-04-05 04:16:55]: Foxie♥ [♥, Level 36]: x7|FayZoR: mega brain
 [logs/05-04-21.txt, 2021-04-05 04:16:55]:   [, Level 0]: wa̷rha̷mmer: Shiro.:  KRAL
+[logs/05-04-21.txt, 2021-04-05 04:17:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[logs/05-04-21.txt, 2021-04-05 04:17:06]: ***  [, Level 0]: weqe's killing spree was ended by Shiro. (5 blocks)
