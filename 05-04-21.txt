@@ -4237,3 +4237,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:41:41]: BulgarianTee [CleanUpCrew, Level 38]: kais: u
 [logs/05-04-21.txt, 2021-04-05 04:41:44]: cookie [, Level 16]: kais:  your dummy its saved
 [logs/05-04-21.txt, 2021-04-05 04:41:44]: kais [, Level 65]: BulgarianTee: :(
+[logs/05-04-21.txt, 2021-04-05 04:41:48]: (1)kais [, Level 58]: cookie: ty
+[logs/05-04-21.txt, 2021-04-05 04:41:52]: cookie [, Level 16]: (1)kais:  ty
+[logs/05-04-21.txt, 2021-04-05 04:41:56]:   [, Level 0]: Vodo4ka: Ðream: так то да
+[logs/05-04-21.txt, 2021-04-05 04:41:57]: ReXi´s Bitch [, Level 0]: cunt:
