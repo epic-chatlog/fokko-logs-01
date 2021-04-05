@@ -15066,3 +15066,6 @@
 [logs/04-04-21.txt, 2021-04-04 23:05:17]: (3)SAUD [, Level 8]: xD
 [logs/04-04-21.txt, 2021-04-04 23:05:22]: (3)SAUD [, Level 8]: wow
 [logs/04-04-21.txt, 2021-04-04 23:05:23]: (3)SAUD [, Level 8]: xD
+[logs/04-04-21.txt, 2021-04-04 23:05:36]: (3)SAUD [, Level 8]: '
+[logs/04-04-21.txt, 2021-04-04 23:05:38]: PoliceTee [xSD7, Level 0]: tape 2
+[logs/04-04-21.txt, 2021-04-04 23:05:42]: PoliceTee [xSD7, Level 0]: take*
