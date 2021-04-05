@@ -14049,3 +14049,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:30:08]: Swarfey [FookinLads, Level 60]: ez
 [logs/04-04-21.txt, 2021-04-04 17:30:08]: Mr.KshKsh99 [xSD7, Level 0]: XD
 [logs/04-04-21.txt, 2021-04-04 17:30:29]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:30:38]: S Y T H N [iPro, Level 0]: Swarfey: sagtest du nicht schnell
+[logs/04-04-21.txt, 2021-04-04 17:30:46]: Swarfey [FookinLads, Level 60]: S Y T H N: ja kannst dich bei deinen schönen clanmates bedanken
