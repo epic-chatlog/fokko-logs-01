@@ -3786,3 +3786,4 @@
 [logs/05-04-21.txt, 2021-04-05 04:20:14]: Shiro. [Whɪтє, Level 42]: |ΛnץOиe|: >>>
 [logs/05-04-21.txt, 2021-04-05 04:20:18]: ***  [, Level 0]: 'Cylox.♥' has left the game
 [logs/05-04-21.txt, 2021-04-05 04:20:18]: ***  [, Level 0]: 'Cylox♥' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:20:28]: ***  [, Level 0]: 'Lucas' has left the game (Timeout)
