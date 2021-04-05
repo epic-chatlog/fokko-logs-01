@@ -4814,3 +4814,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:36:31]: wαrнαммer [, Level 26]: AAA
 [logs/05-04-21.txt, 2021-04-05 05:36:32]: YelloWorlD [404, Level 37]: ERROR: xD
 [logs/05-04-21.txt, 2021-04-05 05:36:33]: wαrнαммer [, Level 26]: S Y T H N: XD
+[logs/05-04-21.txt, 2021-04-05 05:36:43]: ***  [, Level 0]: '(1)1' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 05:36:47]: YelloWorlD [404, Level 37]: ERROR: mom money xD
