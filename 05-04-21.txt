@@ -11957,3 +11957,4 @@
 [2021-04-05 12:26:01]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 29.00 second(s)
 [2021-04-05 12:26:01]: ***  [, Level 0]: New record: 10.68 second(s) better.
 [2021-04-05 12:26:09]: mamikral011 [, Level 21]: GReeeN: you ass :DDD
+[2021-04-05 12:26:38]: ***  [, Level 0]: 'Cosmo' has left the game (Timeout)
