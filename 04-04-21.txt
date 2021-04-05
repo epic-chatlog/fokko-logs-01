@@ -14198,3 +14198,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:57:08]: x7|KshKsh99 [xSD7, Level 37]: XDDD
 [logs/04-04-21.txt, 2021-04-04 17:57:11]: x7|FayZoR [xSD7, Level 42]: sorry xD
 [logs/04-04-21.txt, 2021-04-04 17:57:11]: x7|FayZoR [xSD7, Level 42]: sorry xD
+[logs/04-04-21.txt, 2021-04-04 17:57:17]: x7|FayZoR [xSD7, Level 42]: can't kill him bruh xD
+[logs/04-04-21.txt, 2021-04-04 17:57:17]: x7|FayZoR [xSD7, Level 42]: can't kill him bruh xD
