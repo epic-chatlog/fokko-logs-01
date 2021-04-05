@@ -2254,3 +2254,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:17:20]: BulgarianTee [CleanUpCrew, Level 38]: SHOTGUN GAE
 [logs/05-04-21.txt, 2021-04-05 02:17:30]: weqe [MNKY, Level 11]: x7|FayZoR: i think he is s y t h n
 [logs/05-04-21.txt, 2021-04-05 02:17:31]: x7|FayZoR [xSD7, Level 42]: wait 80ms
+[logs/05-04-21.txt, 2021-04-05 02:17:42]: BulgarianTee [CleanUpCrew, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 02:17:48]: BulgarianTee [CleanUpCrew, Level 38]: chiller stack
+[logs/05-04-21.txt, 2021-04-05 02:17:54]: x7|FayZoR [xSD7, Level 42]: 60ms
