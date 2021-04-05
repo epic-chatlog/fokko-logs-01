@@ -8737,3 +8737,6 @@
 [2021-04-05 09:30:48]: Sutzer [Guard, Level 0]: prooo XD
 [2021-04-05 09:30:48]:   [, Level 0]: Shiro.: lmao
 [2021-04-05 09:31:01]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
+[2021-04-05 09:31:07]: ***  [, Level 0]: Cosmo finished in: 8 minute(s)  6.88 second(s)
+[2021-04-05 09:31:07]: ***  [, Level 0]: 'Cosmo' finished the special race!
+[2021-04-05 09:31:09]: ***  [, Level 0]: ### 'WarHammer' xd
