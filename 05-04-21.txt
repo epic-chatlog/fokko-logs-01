@@ -2508,3 +2508,7 @@
 [logs/05-04-21.txt, 2021-04-05 02:35:59]: Noémi[Đ] [citrom, Level 32]: Fearless: [D] BC|Tixnix blockolt le
 [logs/05-04-21.txt, 2021-04-05 02:36:08]: x7|FayZoR [xSD7, Level 42]: Fearless: after u beat me and look my ping / ms
 [logs/05-04-21.txt, 2021-04-05 02:36:11]: Noémi[Đ] [citrom, Level 32]: Fearless: jah sry
+[logs/05-04-21.txt, 2021-04-05 02:36:19]: ᅟᅟᅟᅟ [, Level 47]: boring
+[logs/05-04-21.txt, 2021-04-05 02:36:21]: ᅟᅟᅟᅟ [, Level 47]: no challange at all
+[logs/05-04-21.txt, 2021-04-05 02:36:24]: x7|FayZoR [xSD7, Level 42]: Fearless: i beat u with 100ms
+[logs/05-04-21.txt, 2021-04-05 02:36:32]: ***  [, Level 0]: ### 'ᅟᅟᅟᅟ' Get yourself a 0.7 client now at teeworlds.com !!!!!!
