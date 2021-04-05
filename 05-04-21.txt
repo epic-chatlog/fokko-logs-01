@@ -5020,3 +5020,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:53:40]:   [, Level 0]: (1)Swarfey: Swarfey:<@!307928050077794305> look
 [logs/05-04-21.txt, 2021-04-05 05:53:41]: KriegInCome [, Level 0]: ERROR:
 [logs/05-04-21.txt, 2021-04-05 05:53:49]: kais [, Level 65]: 2000 ans plus tard
+[logs/05-04-21.txt, 2021-04-05 05:54:00]: KriegInCome [, Level 0]: Cosmo:  ^^
+[logs/05-04-21.txt, 2021-04-05 05:54:02]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:54:04]: ***  [, Level 0]: 'weqe' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:54:06]: σмєтнιηg [zε†α, Level 0]: Nudelsaft c:: brauchste acc noch
