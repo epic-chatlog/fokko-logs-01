@@ -3493,3 +3493,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:03:03]: Rock [, Level 18]: тогда не надо
 [logs/05-04-21.txt, 2021-04-05 04:03:07]: ***  [, Level 0]: 'wαrнαммer' joined the minigame 'Block', use '/block' to join aswell
 [logs/05-04-21.txt, 2021-04-05 04:03:25]:   [, Level 0]: Foxie♥: BC|Tixnix: CAREFULL
+[logs/05-04-21.txt, 2021-04-05 04:03:33]: ***  [, Level 0]: 'ulrich' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:03:34]:   [, Level 0]: cookie: aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[logs/05-04-21.txt, 2021-04-05 04:03:34]:   [, Level 0]: Shiro.: ohayo
+[logs/05-04-21.txt, 2021-04-05 04:03:37]: ***  [, Level 0]: 'ulrich' has left the game
