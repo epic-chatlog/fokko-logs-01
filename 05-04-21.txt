@@ -891,3 +891,9 @@
 [logs/05-04-21.txt, 2021-04-05 01:02:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [logs/05-04-21.txt, 2021-04-05 01:02:03]: weqe [MNKY, Level 11]: kais: are you arab
 [logs/05-04-21.txt, 2021-04-05 01:02:04]: kais [, Level 65]: Kirito: ONLY PORTAL BAAAD
+[logs/05-04-21.txt, 2021-04-05 01:02:08]: ***  [, Level 0]: 'Vodo4ka' has left the game
+[logs/05-04-21.txt, 2021-04-05 01:02:08]: kais [, Level 65]: weqe: yes, yes
+[logs/05-04-21.txt, 2021-04-05 01:02:10]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:02:12]: weqe [MNKY, Level 11]: do you speak arabic kais
+[logs/05-04-21.txt, 2021-04-05 01:02:14]: Kirito [♥, Level 34]: kais: i dont fight w portal noob
+[logs/05-04-21.txt, 2021-04-05 01:02:15]: kais [, Level 65]: weqe: nope
