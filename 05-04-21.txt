@@ -9725,3 +9725,7 @@
 [2021-04-05 10:22:17]: ***  [, Level 0]: ₯-Akuma'♥''s killing spree was ended by flappy (6 blocks)
 [2021-04-05 10:22:17]: ***  [, Level 0]: '♥JustRace.♥' entered and joined the game
 [2021-04-05 10:22:22]: Falco642 [, Level 0]: bruh
+[2021-04-05 10:22:31]:   [, Level 0]: ERROR.: STOP MAN
+[2021-04-05 10:22:37]: Falco641 [, Level 18]: cup of tee: alright then war it is
+[2021-04-05 10:22:39]: ***  [, Level 0]: '₯-Akuma'♥' has left the game
+[2021-04-05 10:22:39]: ***  [, Level 0]: '₯-Akuma'♥'' has left the game
