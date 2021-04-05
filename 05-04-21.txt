@@ -2558,3 +2558,4 @@
 [logs/05-04-21.txt, 2021-04-05 02:40:05]: ***  [, Level 0]: 'BC|Tixnix' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:40:09]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:40:10]: ***  [, Level 0]: '[D] falkenauge' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:40:25]: ***  [, Level 0]: 'Lucas' has left the game
