@@ -14407,3 +14407,5 @@
 [logs/04-04-21.txt, 2021-04-04 18:36:58]: x7|FayZoR [xSD7, Level 42]: XD
 [logs/04-04-21.txt, 2021-04-04 18:37:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [logs/04-04-21.txt, 2021-04-04 18:37:02]: ***  [, Level 0]: 'x7|KshKsh99' has left the game
+[logs/04-04-21.txt, 2021-04-04 18:37:49]: Nudelsaft c: [FookinLads, Level 37]: u guys are still here
+[logs/04-04-21.txt, 2021-04-04 18:37:52]: Nudelsaft c: [FookinLads, Level 37]: oh ksh went rq
