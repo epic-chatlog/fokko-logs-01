@@ -14243,3 +14243,4 @@
 [logs/04-04-21.txt, 2021-04-04 18:05:01]: (1)x7|KshKsh99 [xSD7, Level 0]: wtf
 [logs/04-04-21.txt, 2021-04-04 18:05:55]: (1)Mr.KshKsh99 [xSD7, Level 0]: hook
 [logs/04-04-21.txt, 2021-04-04 18:06:15]: ***  [, Level 0]: 'likn' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 18:06:23]: x7|KshKsh99 [xSD7, Level 37]: portal
