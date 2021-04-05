@@ -2100,3 +2100,8 @@
 [logs/05-04-21.txt, 2021-04-05 02:05:21]: Cylox. [♥, Level 24]: Fearless: ajhahaha
 [logs/05-04-21.txt, 2021-04-05 02:05:30]: BulgarianTee [CleanUpCrew, Level 38]: Cylox.: thx
 [logs/05-04-21.txt, 2021-04-05 02:05:34]: x7|FayZoR [xSD7, Level 42]: Fearless: unfreeeze me
+[logs/05-04-21.txt, 2021-04-05 02:05:43]: BulgarianTee [CleanUpCrew, Level 38]: Fearless: change your clantag to "Chilli.*" and you will see what
+[logs/05-04-21.txt, 2021-04-05 02:05:45]: Fearless [FookinLads, Level 40]: x7|FayZoR:  dont hurt my friend
+[logs/05-04-21.txt, 2021-04-05 02:05:50]: ***  [, Level 0]: 'el champeon' has left the game (Timeout)
+[logs/05-04-21.txt, 2021-04-05 02:05:50]: ***  [, Level 0]: 'Soros' has left the game (Timeout)
+[logs/05-04-21.txt, 2021-04-05 02:05:51]: Fearless [FookinLads, Level 40]: BulgarianTee:  xd
