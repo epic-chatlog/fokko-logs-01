@@ -5064,3 +5064,10 @@
 [logs/05-04-21.txt, 2021-04-05 05:56:36]: ***  [, Level 0]: '5592' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:56:45]:   [, Level 0]: (1)Swarfey: Terston:<@!533676720285286403> dopeee
 [logs/05-04-21.txt, 2021-04-05 05:56:47]: ***  [, Level 0]: 'wαrнαммer' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:56:51]: Tziys* [FookinLads, Level 38]: Ƭevan: WHY YOU HELPED chillerdagorn
+[logs/05-04-21.txt, 2021-04-05 05:56:58]: ♫Amirian♬ [, Level 0]: KriegInCome:
+[logs/05-04-21.txt, 2021-04-05 05:56:58]: Kezo [FookinLads, Level 41]: weqe: team
+[logs/05-04-21.txt, 2021-04-05 05:56:58]: Boti. [.bad, Level 0]: dont
+[logs/05-04-21.txt, 2021-04-05 05:57:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[logs/05-04-21.txt, 2021-04-05 05:57:00]:   [, Level 0]: (1)Swarfey: Terston:chillerdragon is this cool
+[logs/05-04-21.txt, 2021-04-05 05:57:02]: Boti. [.bad, Level 0]: not nowe
