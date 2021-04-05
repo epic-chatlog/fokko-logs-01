@@ -4451,3 +4451,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:54:50]: MieSlime [FookinLads, Level 43]: weqe:  "snif"
 [logs/05-04-21.txt, 2021-04-05 04:54:54]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 04:55:02]: Friendiship ;-) [, Level 0]: lagggggg
+[logs/05-04-21.txt, 2021-04-05 04:55:11]: ***  [, Level 0]: Swarfey is on a killing spree with 5 blocks
+[logs/05-04-21.txt, 2021-04-05 04:55:13]: ***  [, Level 0]: 'COMEBOY' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:55:14]: ReXi´s Bitch [, Level 0]: KoalasSindCool:
+[logs/05-04-21.txt, 2021-04-05 04:55:15]: ***  [, Level 0]: 'ᅟᅟᅟ' entered and joined the game
