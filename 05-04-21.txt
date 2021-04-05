@@ -181,3 +181,9 @@
 [logs/05-04-21.txt, 2021-04-05 00:15:59]: Vodo4ka [JB.st, Level 41]: XD
 [logs/05-04-21.txt, 2021-04-05 00:16:01]: BulgarianTee [xSD7, Level 38]: Vodo4ka: depends is a word
 [logs/05-04-21.txt, 2021-04-05 00:16:05]: BulgarianTee [xSD7, Level 38]: Vodo4ka: a verb
+[logs/05-04-21.txt, 2021-04-05 00:16:05]: Vodo4ka [JB.st, Level 41]: Adj
+[logs/05-04-21.txt, 2021-04-05 00:16:06]: Vodo4ka [JB.st, Level 41]: ADj
+[logs/05-04-21.txt, 2021-04-05 00:16:08]: Vodo4ka [JB.st, Level 41]: ADja
+[logs/05-04-21.txt, 2021-04-05 00:16:09]: BulgarianTee [xSD7, Level 38]: Vodo4ka: VERB
+[logs/05-04-21.txt, 2021-04-05 00:16:14]: wa̷rha̷mmer [, Level 16]: oyun krallı:  ben sana dedim
+[logs/05-04-21.txt, 2021-04-05 00:16:16]: Vodo4ka [JB.st, Level 41]: NO BLYAT GLAGOL
