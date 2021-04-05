@@ -1462,3 +1462,4 @@
 [logs/05-04-21.txt, 2021-04-05 01:27:58]: x7|FayZoR [xSD7, Level 42]: weqe: soo ok
 [logs/05-04-21.txt, 2021-04-05 01:28:02]: ***  [, Level 0]: (1)kais is on a killing spree with 50 blocks
 [logs/05-04-21.txt, 2021-04-05 01:28:02]: weqe [MNKY, Level 11]: x7|FayZoR: u tasered me buddy
+[logs/05-04-21.txt, 2021-04-05 01:28:15]: x7|FayZoR [xSD7, Level 42]: weqe: u help kais without me
