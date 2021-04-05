@@ -2679,3 +2679,8 @@
 [logs/05-04-21.txt, 2021-04-05 02:53:44]: Fearless [FookinLads, Level 40]: omg inf hook
 [logs/05-04-21.txt, 2021-04-05 02:53:53]: Fearless [FookinLads, Level 40]: HeavyGeneral:  HE FUCKING TRAITOR
 [logs/05-04-21.txt, 2021-04-05 02:54:03]: BulgarianTee [CleanUpCrew, Level 38]: Fearless: mad
+[logs/05-04-21.txt, 2021-04-05 02:54:06]: Fearless [FookinLads, Level 40]: HeavyGeneral:  check discord idiot
+[logs/05-04-21.txt, 2021-04-05 02:54:08]: ***  [, Level 0]: '~DemoizL~' has left the game (Timeout)
+[logs/05-04-21.txt, 2021-04-05 02:54:09]: HeavyGeneral [FookinLads, Level 44]: just stop  lol
+[logs/05-04-21.txt, 2021-04-05 02:54:09]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:54:10]: HeavyGeneral [FookinLads, Level 44]: i saw
