@@ -3358,3 +3358,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:53:40]: ***  [, Level 0]: 'Sky`iPro' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:53:43]: ►AmirianYA◄ [YARIMINAღ, Level 0]: RQ
 [logs/05-04-21.txt, 2021-04-05 03:53:45]:   [, Level 0]: HeavyGeneral: Foxie♥: keø bb
+[logs/05-04-21.txt, 2021-04-05 03:53:46]: ***  [, Level 0]: 'LareneGyvaeh' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:53:46]: ***  [, Level 0]: 'HeavyGeneral' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:53:51]: Isegrin [, Level 54]: AAAAAAAAAA
