@@ -14005,3 +14005,4 @@
 [logs/04-04-21.txt, 2021-04-04 17:16:40]: ***  [, Level 0]: x7|KshKsh99's killing spree was ended by x7|FayZoR (8 blocks)
 [logs/04-04-21.txt, 2021-04-04 17:16:58]: ***  [, Level 0]: x7|FayZoR's killing spree was ended by x7|KshKsh99 (5 blocks)
 [logs/04-04-21.txt, 2021-04-04 17:17:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[logs/04-04-21.txt, 2021-04-04 17:19:16]: x7|KshKsh99 [xSD7, Level 0]: XD
