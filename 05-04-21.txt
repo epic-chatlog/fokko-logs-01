@@ -3248,3 +3248,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:42:26]: Cylox [♥, Level 30]: Kirito: why
 [logs/05-04-21.txt, 2021-04-05 03:42:37]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 03:42:40]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:42:45]: ***  [, Level 0]: 'SlerTz.' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:42:50]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:42:53]: ***  [, Level 0]: '(2)oyun krallı' has left the game
