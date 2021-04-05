@@ -14431,3 +14431,4 @@
 [logs/04-04-21.txt, 2021-04-04 18:52:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [logs/04-04-21.txt, 2021-04-04 18:56:05]: ***  [, Level 0]: 'All Apologies' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 18:56:40]: ***  [, Level 0]: 'All Apologies' joined the spectators
+[logs/04-04-21.txt, 2021-04-04 18:56:50]: ***  [, Level 0]: 'All Apologies' joined the game
