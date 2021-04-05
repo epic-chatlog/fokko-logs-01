@@ -390,3 +390,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:33:01]: ***  [, Level 0]: 'wa̷rha̷mmer' has left the game
 [logs/05-04-21.txt, 2021-04-05 00:33:01]: ***  [, Level 0]: 'wαrнαммer' has left the game
 [logs/05-04-21.txt, 2021-04-05 00:33:01]: weqe [MNKY, Level 11]: poka !!
+[logs/05-04-21.txt, 2021-04-05 00:33:19]: Kirito [♥, Level 34]: Boti.: help
+[logs/05-04-21.txt, 2021-04-05 00:33:21]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:33:27]: mamikral011 [, Level 0]: ERROR: hi
