@@ -1339,3 +1339,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:22:32]: x7|FayZoR [xSD7, Level 42]: Boti.: ?
 [logs/05-04-21.txt, 2021-04-05 01:22:38]: SAUD [, Level 0]: MieSlime:  xD  i killed u and ur friend Asta
 [logs/05-04-21.txt, 2021-04-05 01:22:41]: Boti. [.bad, Level 27]: x7|FayZoR: ?
+[logs/05-04-21.txt, 2021-04-05 01:22:46]: SAUD [, Level 0]: 1v2 mei
+[logs/05-04-21.txt, 2021-04-05 01:22:50]: SAUD [, Level 0]: 1v2 MieSlime
+[logs/05-04-21.txt, 2021-04-05 01:22:52]: x7|FayZoR [xSD7, Level 42]: weqe: i think that noty ur war ?
+[logs/05-04-21.txt, 2021-04-05 01:22:52]: comic [comically, Level 13]: wow that worked
