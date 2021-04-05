@@ -14060,3 +14060,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:31:33]: S Y T H N [iPro, Level 0]: Swarfey: hab paar freunde die aus royal kommen aber so
 [logs/04-04-21.txt, 2021-04-04 17:31:34]: S Y T H N [iPro, Level 0]: nicht
 [logs/04-04-21.txt, 2021-04-04 17:31:42]: Nudelsaft c: [FookinLads, Level 37]: aso
+[logs/04-04-21.txt, 2021-04-04 17:31:58]: ***  [, Level 0]: 'S Y T H N' changed name to 'σмєтнιηg'
+[logs/04-04-21.txt, 2021-04-04 17:32:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
