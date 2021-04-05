@@ -3827,3 +3827,8 @@
 [logs/05-04-21.txt, 2021-04-05 04:23:14]: Isegrin [, Level 54]: Shiro.: AIDE MOI
 [logs/05-04-21.txt, 2021-04-05 04:23:18]: |ΛnץOиe| [, Level 0]: wait
 [logs/05-04-21.txt, 2021-04-05 04:23:19]: x7|zemer [xSD7, Level 37]: mami: War
+[logs/05-04-21.txt, 2021-04-05 04:23:22]: mami [, Level 0]: x7|zemer:  no
+[logs/05-04-21.txt, 2021-04-05 04:23:23]:   [, Level 0]: BulgarianTee: Shiro.: come on man :/
+[logs/05-04-21.txt, 2021-04-05 04:23:28]: mami [, Level 0]: x7|zemer:  wear are you
+[logs/05-04-21.txt, 2021-04-05 04:23:29]:   [, Level 0]: BulgarianTee: Shiro.: E
+[logs/05-04-21.txt, 2021-04-05 04:23:32]:   [, Level 0]: cunt: fett
