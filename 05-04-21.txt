@@ -1855,3 +1855,5 @@
 [logs/05-04-21.txt, 2021-04-05 01:52:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [logs/05-04-21.txt, 2021-04-05 01:52:06]: BulgarianTee [xSD7, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 01:52:08]: kais [, Level 65]: x7|FayZoR: non, je joue sans sons
+[logs/05-04-21.txt, 2021-04-05 01:52:16]: BulgarianTee [xSD7, Level 38]: kais: mad cuz bad
+[logs/05-04-21.txt, 2021-04-05 01:52:20]: x7|FayZoR [xSD7, Level 42]: kais: dommage tu loupe quelque chose
