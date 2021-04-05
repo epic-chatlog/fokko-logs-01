@@ -3720,3 +3720,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:15:36]:   [, Level 0]: BulgarianTee: x7|zemer: you dont drop weapon
 [logs/05-04-21.txt, 2021-04-05 04:15:38]: x7|zemer [xSD7, Level 37]: BulgarianTee: i am presing it
 [logs/05-04-21.txt, 2021-04-05 04:15:38]: Ƭevan [TrRShClNrRs, Level 48]: what english? i'm ukrainian
+[logs/05-04-21.txt, 2021-04-05 04:15:39]: ***  [, Level 0]: weqe is on a killing spree with 5 blocks
+[logs/05-04-21.txt, 2021-04-05 04:15:40]: ♫Amirian♬ [, Level 0]: Foxie♥: no uuu
+[logs/05-04-21.txt, 2021-04-05 04:15:42]:   [, Level 0]: BulgarianTee: x7|zemer: means your F4 key is broken
+[logs/05-04-21.txt, 2021-04-05 04:15:49]:   [, Level 0]: BulgarianTee: x7|zemer: usually F4 drops your weapon
