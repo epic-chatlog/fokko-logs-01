@@ -1297,3 +1297,8 @@
 [logs/05-04-21.txt, 2021-04-05 01:20:45]: Cylox. [♥, Level 0]: KG | Kirito: ı dont helped weqe ı blocked weqe mtoher fucker
 [logs/05-04-21.txt, 2021-04-05 01:20:55]: Cylox [, Level 30]: ı dont noob helper
 [logs/05-04-21.txt, 2021-04-05 01:21:00]: KG | Kirito [KaisGay, Level 34]: Cylox: u helped him out dumbass
+[logs/05-04-21.txt, 2021-04-05 01:21:05]: MieSlime [FookinLads, Level 43]: Hady:
+[logs/05-04-21.txt, 2021-04-05 01:21:05]: SAUD [, Level 0]: (1)oyun krallı:  flag pl
+[logs/05-04-21.txt, 2021-04-05 01:21:06]: SAUD [, Level 0]: (1)oyun krallı:  flag pls
+[logs/05-04-21.txt, 2021-04-05 01:21:07]: MieSlime [FookinLads, Level 43]: Hady:  heyy
+[logs/05-04-21.txt, 2021-04-05 01:21:09]: Hady [new bot, Level 0]: MieSlime:  hello
