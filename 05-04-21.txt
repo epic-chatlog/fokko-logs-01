@@ -2283,3 +2283,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:20:36]: x7|FayZoR [xSD7, Level 42]: wtf 80ms
 [logs/05-04-21.txt, 2021-04-05 02:20:41]: ***  [, Level 0]: 'comic' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:20:43]: x7|FayZoR [xSD7, Level 42]: ddos XD
+[logs/05-04-21.txt, 2021-04-05 02:20:44]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: pingspikes are annoying af yeah xD
+[logs/05-04-21.txt, 2021-04-05 02:20:54]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: are you wireless net or connected with cable?
