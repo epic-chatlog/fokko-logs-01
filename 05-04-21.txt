@@ -8593,3 +8593,8 @@
 [2021-04-05 09:24:03]:   [, Level 0]: ERROR.: Akuma ♥:  chiller and swarfey.
 [2021-04-05 09:24:06]:   [, Level 0]: [D] ♥TAKO♥: (3)NetFlix:
 [2021-04-05 09:24:09]: Akuma ♥ [, Level 0]: ERROR:  why Swarfey :c
+[2021-04-05 09:24:13]:   [, Level 0]: ERROR.: cuz hes a dog
+[2021-04-05 09:24:19]: ***  [, Level 0]: 'iMxtteo' entered and joined the game
+[2021-04-05 09:24:19]: ***  [, Level 0]: '(1)Cosmo' entered and joined the game
+[2021-04-05 09:24:21]: ChillerDragon [|*KoG*|, Level 44]: cuz he is not ERROR
+[2021-04-05 09:24:21]: ***  [, Level 0]: '[D] BC|kakashi' has left the game
