@@ -3237,3 +3237,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:41:38]: ***  [, Level 0]: 'BC|serwan' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:41:40]: x7|zemer [xSD7, Level 37]: [D] BC|Tixnix:
 [logs/05-04-21.txt, 2021-04-05 03:41:40]: I SAD [♥, Level 30]: why noob
+[logs/05-04-21.txt, 2021-04-05 03:41:50]: ***  [, Level 0]: 'ReXi' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:42:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[logs/05-04-21.txt, 2021-04-05 03:42:01]: ***  [, Level 0]: 'Shiro.' would have timed out, but can use timeout protection now
