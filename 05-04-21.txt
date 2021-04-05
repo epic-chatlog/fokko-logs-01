@@ -2044,3 +2044,8 @@
 [logs/05-04-21.txt, 2021-04-05 02:01:57]: ***  [, Level 0]: 'Lucas' has left the game (Timeout)
 [logs/05-04-21.txt, 2021-04-05 02:01:58]: BulgarianTee [CleanUpCrew, Level 38]: Souly: xD heavygayneral skin
 [logs/05-04-21.txt, 2021-04-05 02:01:58]: Souly [acqwerty, Level 60]: BulgarianTee: no u
+[logs/05-04-21.txt, 2021-04-05 02:02:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[logs/05-04-21.txt, 2021-04-05 02:02:01]: Fearless [FookinLads, Level 40]: BulgarianTee:  BRO COME
+[logs/05-04-21.txt, 2021-04-05 02:02:03]: Fearless [FookinLads, Level 40]: BulgarianTee:  spec
+[logs/05-04-21.txt, 2021-04-05 02:02:04]: x7|FayZoR [xSD7, Level 42]: kais: j'essaye pas de faire culpabiliser, je te met en face de t'es actes
+[logs/05-04-21.txt, 2021-04-05 02:02:04]: Fearless [FookinLads, Level 40]: BulgarianTee:  specű
