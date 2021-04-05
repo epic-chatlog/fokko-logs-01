@@ -246,3 +246,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:21:01]: Vodo4ka [JB.st, Level 41]: U USING TELEPORT FOR EZ MOVE
 [logs/05-04-21.txt, 2021-04-05 00:21:12]: Vodo4ka [JB.st, Level 41]: найс трай
 [logs/05-04-21.txt, 2021-04-05 00:21:14]: weqe [MNKY, Level 11]: Vodo4ka: im new
+[logs/05-04-21.txt, 2021-04-05 00:21:16]: wαrнαммer [, Level 26]: MİSSUNDERSTOOD
+[logs/05-04-21.txt, 2021-04-05 00:21:17]: Vodo4ka [JB.st, Level 41]: weqe: donater
+[logs/05-04-21.txt, 2021-04-05 00:21:24]: Vodo4ka [JB.st, Level 41]: suka
