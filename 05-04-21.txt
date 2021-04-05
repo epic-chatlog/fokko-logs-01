@@ -2833,3 +2833,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:12:20]: Rock [, Level 18]: Serhat_28ck:
 [logs/05-04-21.txt, 2021-04-05 03:13:17]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:13:21]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:13:35]: TimePause [xSD7, Level 35]: taser
+[logs/05-04-21.txt, 2021-04-05 03:13:38]: TimePause [xSD7, Level 35]: koro: no skill
