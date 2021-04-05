@@ -15082,3 +15082,7 @@
 [logs/04-04-21.txt, 2021-04-04 23:06:43]: ***  [, Level 0]: BulgarianTee finished in: 0 minute(s) 15.40 second(s)
 [logs/04-04-21.txt, 2021-04-04 23:06:43]: ***  [, Level 0]: New record:  0.32 second(s) better.
 [logs/04-04-21.txt, 2021-04-04 23:06:46]: (3)SAUD [, Level 8]: WOWWW
+[logs/04-04-21.txt, 2021-04-04 23:06:48]: BulgarianTee [xSD7, Level 38]: 0.32 sec
+[logs/04-04-21.txt, 2021-04-04 23:06:49]: BulgarianTee [xSD7, Level 38]: Xddd
+[logs/04-04-21.txt, 2021-04-04 23:06:51]: (3)SAUD [, Level 8]: xD
+[logs/04-04-21.txt, 2021-04-04 23:06:59]: BulgarianTee [xSD7, Level 38]: ok go again?
