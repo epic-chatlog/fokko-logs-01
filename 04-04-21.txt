@@ -15278,3 +15278,7 @@
 [logs/04-04-21.txt, 2021-04-04 23:27:39]: PoliceTee [xSD7, Level 25]: Vodo4ka: XY
 [logs/04-04-21.txt, 2021-04-04 23:27:48]: Vodo4ka [JB.st, Level 41]: PoliceTee: no Х+У=Й
 [logs/04-04-21.txt, 2021-04-04 23:27:53]: Vodo4ka [JB.st, Level 41]: PoliceTee: dick in rus XDDD
+[logs/04-04-21.txt, 2021-04-04 23:27:58]: PoliceTee [xSD7, Level 25]: Vodo4ka: ikr we have it in BG too
+[logs/04-04-21.txt, 2021-04-04 23:28:00]: Vodo4ka [JB.st, Level 41]: i guess u know
+[logs/04-04-21.txt, 2021-04-04 23:28:02]: Vodo4ka [JB.st, Level 41]: yee
+[logs/04-04-21.txt, 2021-04-04 23:28:02]: PoliceTee [xSD7, Level 25]: Vodo4ka: -_-
