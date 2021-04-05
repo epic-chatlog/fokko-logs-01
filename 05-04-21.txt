@@ -4916,3 +4916,10 @@
 [logs/05-04-21.txt, 2021-04-05 05:44:17]: (1)1 [, Level 0]: HELP
 [logs/05-04-21.txt, 2021-04-05 05:44:27]: ***  [, Level 0]: 'Pluton' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:44:29]: (1)1 [, Level 0]: WAR HEMER HELP
+[logs/05-04-21.txt, 2021-04-05 05:44:32]: S Y T H N [iPro, Level 0]: YelloWorlD: thx
+[logs/05-04-21.txt, 2021-04-05 05:44:32]: (1)ERROR [404, Level 47]: YelloWorlD:  spec me xDDD
+[logs/05-04-21.txt, 2021-04-05 05:44:34]: wαrнαммer [, Level 26]: WAR HEMER NE LAN
+[logs/05-04-21.txt, 2021-04-05 05:44:38]: Kezo [FookinLads, Level 41]: AMINA SOKTUMUN LAGI
+[logs/05-04-21.txt, 2021-04-05 05:44:40]: Vodo4ka [JB.st, Level 41]: S Y T H N: Spasi
+[logs/05-04-21.txt, 2021-04-05 05:44:43]: wαrнαммer [, Level 26]: (1)1:  i dont have wepn
+[logs/05-04-21.txt, 2021-04-05 05:44:44]: ***  [, Level 0]: 'cunt' has left the game
