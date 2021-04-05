@@ -12589,3 +12589,5 @@
 [2021-04-05 13:22:55]: power [TrRShClNrRs, Level 0]: xDDDD Isegrin well played
 [2021-04-05 13:22:58]: ***  [, Level 0]: 'power2' entered and joined the game
 [2021-04-05 13:23:01]: Isegrin [, Level 54]: jawohl
+[2021-04-05 13:23:06]: tee [, Level 0]: oops
+[2021-04-05 13:23:13]: Sutzer [Guard, Level 0]: AAAAAAAAA
