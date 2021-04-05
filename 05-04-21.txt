@@ -663,3 +663,7 @@
 [logs/05-04-21.txt, 2021-04-05 00:48:51]: Boti. [.bad, Level 27]: i dont want to
 [logs/05-04-21.txt, 2021-04-05 00:48:52]: Boti. [.bad, Level 27]: XDDDDD
 [logs/05-04-21.txt, 2021-04-05 00:48:52]: BulgarianTee [xSD7, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 00:48:58]: BulgarianTee [xSD7, Level 38]: kais: i will timeout u
+[logs/05-04-21.txt, 2021-04-05 00:49:02]: (1)kais [, Level 58]: sure ?
+[logs/05-04-21.txt, 2021-04-05 00:49:03]: Asta [FookinLads, Level 40]: Boti.:  but u did!!!! and u wanted to save him twice
+[logs/05-04-21.txt, 2021-04-05 00:49:07]: BulgarianTee [xSD7, Level 38]: E
