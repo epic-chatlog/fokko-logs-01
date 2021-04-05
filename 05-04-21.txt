@@ -1695,3 +1695,8 @@
 [logs/05-04-21.txt, 2021-04-05 01:41:36]: oyun krallı [, Level 11]: KNK BUG TAKİLRİNİ ÖLDÜREKMİ
 [logs/05-04-21.txt, 2021-04-05 01:41:40]: x7|FayZoR [xSD7, Level 42]: Cylox: sorry tired
 [logs/05-04-21.txt, 2021-04-05 01:41:44]: x7|FayZoR [xSD7, Level 42]: Hady: kais
+[logs/05-04-21.txt, 2021-04-05 01:41:45]: kais [, Level 65]: Leblebi: do like this
+[logs/05-04-21.txt, 2021-04-05 01:41:45]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[logs/05-04-21.txt, 2021-04-05 01:41:47]: Kirito [Chilli.*, Level 34]: Leblebi: idk if i can trust you. will u kill kais ?
+[logs/05-04-21.txt, 2021-04-05 01:41:48]: oyun krallı [, Level 11]: KNK BUG TAKİLRİNİ ÖLDÜREKMİ CYLOX
+[logs/05-04-21.txt, 2021-04-05 01:41:54]: x7|FayZoR [xSD7, Level 42]: Kirito: can come ?
