@@ -2575,3 +2575,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:42:42]: BulgarianTee [CleanUpCrew, Level 38]: YelloWorlD: i wanna go eat and then play gta 5
 [logs/05-04-21.txt, 2021-04-05 02:43:04]: BulgarianTee [CleanUpCrew, Level 38]: YelloWorlD: before you know it i would have eaten my lunch, deposited all my money and gone play gta 5
 [logs/05-04-21.txt, 2021-04-05 02:43:18]: power2 [TrRShClNrRs, Level 0]: falkenauge:
+[logs/05-04-21.txt, 2021-04-05 02:43:37]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:43:42]: ***  [, Level 0]: '[D] Fearless' has left the game
