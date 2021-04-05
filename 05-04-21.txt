@@ -3028,3 +3028,9 @@
 [logs/05-04-21.txt, 2021-04-05 03:28:22]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 03:28:26]: ***  [, Level 0]: 'Zetth' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:28:27]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:28:33]: x7|zemer [xSD7, Level 37]: BulgarianTee: Fuck
+[logs/05-04-21.txt, 2021-04-05 03:28:37]: BulgarianTee [CleanUpCrew, Level 38]: ze,XD
+[logs/05-04-21.txt, 2021-04-05 03:28:40]: x7|zemer [xSD7, Level 37]: BulgarianTee: Wait
+[logs/05-04-21.txt, 2021-04-05 03:28:40]: BulgarianTee [CleanUpCrew, Level 38]: x7|zemer: XDd
+[logs/05-04-21.txt, 2021-04-05 03:28:40]: oyun krallı [, Level 11]: lag
+[logs/05-04-21.txt, 2021-04-05 03:28:41]: Rock [, Level 18]: ManniK: спс)))
