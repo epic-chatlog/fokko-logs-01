@@ -8615,3 +8615,4 @@
 [2021-04-05 09:24:58]:   [, Level 0]: ERROR.: so bad
 [2021-04-05 09:25:07]:   [, Level 0]: ChillerDragon: ty ERROR
 [2021-04-05 09:25:11]:   [, Level 0]: ERROR.: yw
+[2021-04-05 09:25:19]: ***  [, Level 0]: 'BC|Tixnix' has left the game
