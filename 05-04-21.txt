@@ -12962,3 +12962,8 @@
 [2021-04-05 13:51:38]: ***  [, Level 0]: GOLD is on a killing spree with 5 blocks
 [2021-04-05 13:51:40]: (2)Kirito♥ [♥, Level 35]: ERROR: ez wayblock
 [2021-04-05 13:51:43]: ERROR. [404, Level 74]: ez
+[2021-04-05 13:51:57]: ***  [, Level 0]: 'GOLD' has left the game
+[2021-04-05 13:51:57]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-05 13:51:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-05 13:52:03]: (1)kais [, Level 58]: Kirito♥: ok cool
+[2021-04-05 13:52:08]: (2)Kirito♥ [♥, Level 35]: kais: ikr?
