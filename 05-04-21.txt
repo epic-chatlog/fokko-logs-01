@@ -4686,3 +4686,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:24:17]: ***  [, Level 0]: 'oyun krallı' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:24:18]: Vodo4ka [JB.st, Level 41]: BRUH
 [logs/05-04-21.txt, 2021-04-05 05:24:19]: (1)ChillerDrago [Chilli.*, Level 31]: yo weqe brother i am afk again xd
+[logs/05-04-21.txt, 2021-04-05 05:24:28]: ***  [, Level 0]: 'ᅟᅟᅟ' changed name to 'Austria'
+[logs/05-04-21.txt, 2021-04-05 05:24:32]: wαrнαммer [, Level 26]: weqe:  i block you bcs u block me. i dont touch u normal time
