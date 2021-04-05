@@ -4569,3 +4569,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:05:51]: rexi [, Level 0]: ~DemoizL~:
 [logs/05-04-21.txt, 2021-04-05 05:06:18]: ***  [, Level 0]: 'Asta' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:06:22]: ***  [, Level 0]: '(2)1' finished the special race!
+[logs/05-04-21.txt, 2021-04-05 05:06:53]:   [, Level 0]: Asta: koro:  tu va mourrir comme une merde
+[logs/05-04-21.txt, 2021-04-05 05:06:57]:   [, Level 0]: Asta: mourir*
+[logs/05-04-21.txt, 2021-04-05 05:06:59]:   [, Level 0]: Asta: koro:  xD
+[logs/05-04-21.txt, 2021-04-05 05:07:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
