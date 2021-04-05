@@ -1526,3 +1526,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:30:41]: Hady [new bot, Level 0]: Kirito:
 [logs/05-04-21.txt, 2021-04-05 01:30:42]: Leblebi [, Level 23]: weqe: help me
 [logs/05-04-21.txt, 2021-04-05 01:30:44]: weqe [MNKY, Level 11]: Vodo4ka: man u both are my friends what should i do ?
+[logs/05-04-21.txt, 2021-04-05 01:30:47]: Leblebi [, Level 23]: weqe:
+[logs/05-04-21.txt, 2021-04-05 01:30:49]: weqe [MNKY, Level 11]: Leblebi: do i even know u
+[logs/05-04-21.txt, 2021-04-05 01:30:54]: Vodo4ka [JB.st, Level 41]: weqe: dont help us in battle
+[logs/05-04-21.txt, 2021-04-05 01:30:54]: (1)ChillerDrago [|*KoG*|, Level 30]: help both weqe
