@@ -6798,3 +6798,5 @@
 [2021-04-05 07:49:08]: ***  [, Level 0]: kais is on a killing spree with 5 blocks
 [2021-04-05 07:49:16]: (1)NetFlix [, Level 16]: (1)Kirito: why?
 [2021-04-05 07:49:17]: kais [, Level 65]: ~DemoizL~: tu me fais pas perdre de temps
+[2021-04-05 07:49:29]: ***  [, Level 0]: kais's killing spree was ended by ~DemoizL~ (5 blocks)
+[2021-04-05 07:49:30]: (1)Kirito [♥, Level 35]: (2)NetFlix: idk xD
