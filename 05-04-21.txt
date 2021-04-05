@@ -7824,3 +7824,4 @@
 [2021-04-05 08:48:16]: Falco642 [, Level 0]: Luca: wtf?
 [2021-04-05 08:48:26]: ***  [, Level 0]: MORFY finished in: 1 minute(s) 37.54 second(s)
 [2021-04-05 08:48:26]: ***  [, Level 0]: New record: 1 minute(s) 41.26 second(s) better.
+[2021-04-05 08:48:33]: ***  [, Level 0]: MORPHIN finished in: 4 minute(s)  1.08 second(s)
