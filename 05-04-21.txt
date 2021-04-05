@@ -13870,3 +13870,6 @@
 [2021-04-05 15:27:43]: x7|FayZoR [xSD7, Level 42]: hmmmmmm: kill !!!
 [2021-04-05 15:27:46]: x7|FayZoR [xSD7, Level 42]: hmmmmmm: trop tard
 [2021-04-05 15:27:47]: Shiro. [404, Level 42]: ✯Hunter.exe: go left
+[2021-04-05 15:27:52]: hmmmmmm [, Level 8]: x7|FayZoR: mais pk
+[2021-04-05 15:27:58]: ✯Hunter.exe [|Supressed|, Level 35]: Shiro,: 1sec
+[2021-04-05 15:28:02]: Shiro. [404, Level 42]: ✯Hunter.exe: i died alone man
