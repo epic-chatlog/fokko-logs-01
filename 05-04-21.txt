@@ -6741,3 +6741,5 @@
 [2021-04-05 07:44:20]: ***  [, Level 0]: ### 'ERROR' Woof-Woof
 [2021-04-05 07:44:22]: ♥JustRace♥ [xSD7, Level 36]: ERROR:  I wont be able to laser good
 [2021-04-05 07:44:35]: comic [comically, Level 13]: power: so whats ur favorate color
+[2021-04-05 07:44:42]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-05 07:44:42]: ***  [, Level 0]: 'brainless tee' has left the game
