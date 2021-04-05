@@ -14785,3 +14785,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:27:28]: ***  [, Level 0]: 'BaguetTee' changed name to 'BulgarianTee'
 [logs/04-04-21.txt, 2021-04-04 22:27:37]: PoliceTee [xSD7, Level 0]: i will fix policetee's colour later
 [logs/04-04-21.txt, 2021-04-04 22:27:43]: (3)SAUD [, Level 8]: dude u are broke Boti.
+[logs/04-04-21.txt, 2021-04-04 22:27:50]: (3)SAUD [, Level 8]: u only have 4933
+[logs/04-04-21.txt, 2021-04-04 22:27:51]: Boti. [.bad, Level 27]: SAUD: ik
+[logs/04-04-21.txt, 2021-04-04 22:27:58]: (3)SAUD [, Level 8]: wdym ik
