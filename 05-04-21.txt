@@ -1535,3 +1535,4 @@
 [logs/05-04-21.txt, 2021-04-05 01:31:04]: weqe [MNKY, Level 11]: no Leblebi
 [logs/05-04-21.txt, 2021-04-05 01:31:05]: Kirito [Chilli.*, Level 34]: kais: so bad :D
 [logs/05-04-21.txt, 2021-04-05 01:31:09]: (1)SAUD [, Level 22]: Vodo4ka: even u have 5 jumps xDDDD
+[logs/05-04-21.txt, 2021-04-05 01:31:15]: BulgarianTee [xSD7, Level 38]: kais: DONT YOU LAG?!!!
