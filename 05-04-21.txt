@@ -4631,3 +4631,8 @@
 [logs/05-04-21.txt, 2021-04-05 05:19:13]: ***  [, Level 0]: '[D] ✯ |toxicd' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 05:19:40]: ***  [, Level 0]: 'MADZO' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:19:43]: ***  [, Level 0]: 'MADZO' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:19:51]: Vodo4ka [JB.st, Level 41]: MieSlime: I WANT THEM FARM
+[logs/05-04-21.txt, 2021-04-05 05:19:52]: Swarfey [, Level 60]: keø: gay
+[logs/05-04-21.txt, 2021-04-05 05:19:52]: Vodo4ka [JB.st, Level 41]: OMGF
+[logs/05-04-21.txt, 2021-04-05 05:19:53]: MieSlime [FookinLads, Level 43]: Vodo4ka:  don't touch |MıssOяchiĐ|
+[logs/05-04-21.txt, 2021-04-05 05:19:56]: MieSlime [FookinLads, Level 43]: Vodo4ka:  ok
