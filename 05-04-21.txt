@@ -4123,3 +4123,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:36:08]: MieSlime [FookinLads, Level 43]: weqe:  attack me first
 [logs/05-04-21.txt, 2021-04-05 04:36:09]: BulgarianTee [CleanUpCrew, Level 38]: weqe: move to safer place here shiro can save them ez
 [logs/05-04-21.txt, 2021-04-05 04:36:17]: ***  [, Level 0]: 'Bobcornichon' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:36:24]: ***  [, Level 0]: 'bredn' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:36:26]: (2)Kirito [♥, Level 13]: weqe: i dont have 2 jumps i fcked u
+[logs/05-04-21.txt, 2021-04-05 04:36:30]: MieSlime [FookinLads, Level 43]: weqe:  last time i save u
+[logs/05-04-21.txt, 2021-04-05 04:36:30]: |MıssOяchiĐ| [, Level 48]: Isegrin: bonjur madam
