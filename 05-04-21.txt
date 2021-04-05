@@ -6534,3 +6534,5 @@
 [2021-04-05 07:28:20]: x7|FayZoR [xSD7, Level 42]: Kirito: xD
 [2021-04-05 07:28:35]: ***  [, Level 0]: 'ZEWO' has left the game (Timeout Protection over)
 [2021-04-05 07:28:37]:   [, Level 0]: White Wolf: (1)kais: stp
+[2021-04-05 07:28:45]: ***  [, Level 0]: ~DemoizL~ is on a killing spree with 5 blocks
+[2021-04-05 07:28:46]: x7|FayZoR [xSD7, Level 42]: kais: bah alors ?
