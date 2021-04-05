@@ -15297,3 +15297,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:28:54]: ***  [, Level 0]: '(3)SAUD' has left the game
 [logs/04-04-21.txt, 2021-04-04 23:28:56]: Vodo4ka [JB.st, Level 41]: flappy: u cringe
 [logs/04-04-21.txt, 2021-04-04 23:29:11]: BulgarianTee [xSD7, Level 38]: GODLIKe: so how are you?
+[logs/04-04-21.txt, 2021-04-04 23:29:21]: GODLIKe [hax, Level 44]: BulgarianTee: rage
+[logs/04-04-21.txt, 2021-04-04 23:29:32]: BulgarianTee [xSD7, Level 38]: GODLIKe: why? cuz noemi had to go early from your date?
