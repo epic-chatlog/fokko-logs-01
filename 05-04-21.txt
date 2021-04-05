@@ -1555,3 +1555,8 @@
 [logs/05-04-21.txt, 2021-04-05 01:32:27]: (1)SAUD [, Level 22]: Vodo4ka:  i knew it thats why i deposit my money xD
 [logs/05-04-21.txt, 2021-04-05 01:32:31]: x7|FayZoR [xSD7, Level 42]: kais: qui ta aider cette fois-ci ?
 [logs/05-04-21.txt, 2021-04-05 01:32:47]: Cylox. [♥, Level 0]: chillerdagorn: ı helped u
+[logs/05-04-21.txt, 2021-04-05 01:32:49]: ***  [, Level 0]: 'weqe' has left the game (Too weak connection (not acked for 60 seconds))
+[logs/05-04-21.txt, 2021-04-05 01:32:50]: ***  [, Level 0]: 'BulgarianTee' has left the game (Too weak connection (not acked for 60 seconds))
+[logs/05-04-21.txt, 2021-04-05 01:32:50]: ***  [, Level 0]: 'PoliceTee' has left the game (Too weak connection (not acked for 60 seconds))
+[logs/05-04-21.txt, 2021-04-05 01:32:52]: comic [comically, Level 13]: RoberGN: u good?
+[logs/05-04-21.txt, 2021-04-05 01:32:52]: ChillerDragon.* [Chilli.*, Level 41]: u spiky me Cylox
