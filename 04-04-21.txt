@@ -14551,3 +14551,7 @@
 [logs/04-04-21.txt, 2021-04-04 21:56:57]: weqe [MNKY, Level 11]: i dont use ddnet
 [logs/04-04-21.txt, 2021-04-04 21:57:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [logs/04-04-21.txt, 2021-04-04 21:57:00]: BulgarianTee [xSD7, Level 0]: Xddd
+[logs/04-04-21.txt, 2021-04-04 21:57:14]: BulgarianTee [xSD7, Level 0]: its like one brown egg with the m&m logo on it
+[logs/04-04-21.txt, 2021-04-04 21:57:18]: weqe [MNKY, Level 11]: I like turtles.
+[logs/04-04-21.txt, 2021-04-04 21:57:21]: weqe [MNKY, Level 11]: haha
+[logs/04-04-21.txt, 2021-04-04 21:57:23]: BulgarianTee [xSD7, Level 0]: XD
