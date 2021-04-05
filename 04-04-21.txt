@@ -15143,3 +15143,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:13:58]: BulgarianTee [xSD7, Level 38]: about 5 hours at least
 [logs/04-04-21.txt, 2021-04-04 23:14:02]: BulgarianTee [xSD7, Level 38]: a bit less
 [logs/04-04-21.txt, 2021-04-04 23:14:04]: BulgarianTee [xSD7, Level 38]: prolly
+[logs/04-04-21.txt, 2021-04-04 23:14:13]: (1)SAUD [, Level 16]: are u math teacher ?
+[logs/04-04-21.txt, 2021-04-04 23:14:16]: PoliceTee [xSD7, Level 25]: no
