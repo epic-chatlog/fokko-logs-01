@@ -14739,3 +14739,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:20:41]: Boti. [.bad, Level 32]: XD
 [logs/04-04-21.txt, 2021-04-04 22:20:58]: Boti. [.bad, Level 32]: i have heart emote instead of happy because kion
 [logs/04-04-21.txt, 2021-04-04 22:21:11]: ***  [, Level 0]: 'PoliceTee' changed name to 'Chilli.* tee'
+[logs/04-04-21.txt, 2021-04-04 22:21:17]: (3)SAUD [, Level 8]: yooo Chilli.* tee
+[logs/04-04-21.txt, 2021-04-04 22:21:20]: Chilli.* tee [Chilli.*, Level 0]: yoo
