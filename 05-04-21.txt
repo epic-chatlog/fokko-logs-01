@@ -741,3 +741,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:52:28]: (1)kais [, Level 58]: no >:D
 [logs/05-04-21.txt, 2021-04-05 00:52:34]: mamikral011 [, Level 26]: [D] Boti.: war
 [logs/05-04-21.txt, 2021-04-05 00:52:35]: ***  [, Level 0]: 'SAUD' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:52:43]: (1)kais [, Level 58]: how to make BulgarianTee run
+[logs/05-04-21.txt, 2021-04-05 00:52:44]: [D] Boti. [.bad, Level 32]: bruh
+[logs/05-04-21.txt, 2021-04-05 00:52:47]: [D] Boti. [.bad, Level 32]: im full ded
