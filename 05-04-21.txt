@@ -8509,3 +8509,5 @@
 [2021-04-05 09:19:20]: ilum [inati, Level 0]: D
 [2021-04-05 09:19:20]: ***  [, Level 0]: 'RoberGN' entered and joined the game
 [2021-04-05 09:19:25]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
+[2021-04-05 09:19:28]:   [, Level 0]: falkenauge: Swarfey: hiiii
+[2021-04-05 09:19:32]: Swarfey [, Level 37]: falkenauge: hey :D
