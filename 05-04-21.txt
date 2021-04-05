@@ -2672,3 +2672,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:52:42]: ***  [, Level 0]: 'GODLIKe' has left the game (Timeout)
 [logs/05-04-21.txt, 2021-04-05 02:52:42]: ***  [, Level 0]: 'GODLIKe.' has left the game (Timeout)
 [logs/05-04-21.txt, 2021-04-05 02:52:52]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: oh okay
+[logs/05-04-21.txt, 2021-04-05 02:53:01]: ***  [, Level 0]: 'LareneGyvaeh' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:53:10]: BulgarianTee [CleanUpCrew, Level 38]: HeavyGeneral: stop be mad
