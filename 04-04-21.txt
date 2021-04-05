@@ -14670,3 +14670,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:14:19]: PoliceTee [xSD7, Level 0]: WTF
 [logs/04-04-21.txt, 2021-04-04 22:14:20]: PoliceTee [xSD7, Level 0]: wait
 [logs/04-04-21.txt, 2021-04-04 22:14:27]: Boti. [.bad, Level 32]: wait
+[logs/04-04-21.txt, 2021-04-04 22:14:32]: PoliceTee [xSD7, Level 0]: did you join while it was 0.7 only or after it got released to 0.6?
