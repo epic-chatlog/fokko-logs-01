@@ -1231,3 +1231,10 @@
 [logs/05-04-21.txt, 2021-04-05 01:17:04]: MieSlime [FookinLads, Level 43]: weqe:  oyun krallı
 [logs/05-04-21.txt, 2021-04-05 01:17:04]: SAUD [, Level 0]: KG | Kirito:  ):
 [logs/05-04-21.txt, 2021-04-05 01:17:05]: BulgarianTee [xSD7, Level 38]: (1)kais: DONT GO TO SHOP PLs
+[logs/05-04-21.txt, 2021-04-05 01:17:10]: BulgarianTee [xSD7, Level 38]: (1)kais: STAY HERE PLS
+[logs/05-04-21.txt, 2021-04-05 01:17:10]: SAUD [, Level 0]: KG | Kirito:  ill bring u one
+[logs/05-04-21.txt, 2021-04-05 01:17:12]: MieSlime [FookinLads, Level 43]: weqe:  u saved him twice when i killed him
+[logs/05-04-21.txt, 2021-04-05 01:17:14]: SAUD [, Level 0]: poor KG | Kirito
+[logs/05-04-21.txt, 2021-04-05 01:17:15]: comic [comically, Level 13]: el champeon: i can still be saved ya know
+[logs/05-04-21.txt, 2021-04-05 01:17:17]: ***  [, Level 0]: (1)kais is on a killing spree with 45 blocks
+[logs/05-04-21.txt, 2021-04-05 01:17:19]: ***  [, Level 0]: 'Лимонад' entered and joined the game
