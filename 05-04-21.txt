@@ -3492,3 +3492,4 @@
 [logs/05-04-21.txt, 2021-04-05 04:03:03]:   [, Level 0]: weqe: idk him x7|FayZoR
 [logs/05-04-21.txt, 2021-04-05 04:03:03]: Rock [, Level 18]: тогда не надо
 [logs/05-04-21.txt, 2021-04-05 04:03:07]: ***  [, Level 0]: 'wαrнαммer' joined the minigame 'Block', use '/block' to join aswell
+[logs/05-04-21.txt, 2021-04-05 04:03:25]:   [, Level 0]: Foxie♥: BC|Tixnix: CAREFULL
