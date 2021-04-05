@@ -2049,3 +2049,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:02:03]: Fearless [FookinLads, Level 40]: BulgarianTee:  spec
 [logs/05-04-21.txt, 2021-04-05 02:02:04]: x7|FayZoR [xSD7, Level 42]: kais: j'essaye pas de faire culpabiliser, je te met en face de t'es actes
 [logs/05-04-21.txt, 2021-04-05 02:02:04]: Fearless [FookinLads, Level 40]: BulgarianTee:  specű
+[logs/05-04-21.txt, 2021-04-05 02:02:14]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: oh okay
+[logs/05-04-21.txt, 2021-04-05 02:02:17]: kais [, Level 65]: x7|FayZoR: pour essayer de me faire culpabiliser
+[logs/05-04-21.txt, 2021-04-05 02:02:24]: Leblebi [, Level 23]: x7|FayZoR: come 1v1 not taser noob
