@@ -798,3 +798,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:55:55]: Boti. [.bad, Level 27]: nvm
 [logs/05-04-21.txt, 2021-04-05 00:56:24]: BulgarianTee [xSD7, Level 38]: kais: my anti-kais is very effective look
 [logs/05-04-21.txt, 2021-04-05 00:56:27]: BulgarianTee [xSD7, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 00:56:32]: (1)kais [, Level 58]: uhm, not really
+[logs/05-04-21.txt, 2021-04-05 00:56:33]: Kirito [♥, Level 34]: BulgarianTee: anti-gay*
