@@ -5202,3 +5202,7 @@
 [2021-04-05 06:03:41]: Nudelsaft c: [PoopinLads, Level 0]: b
 [2021-04-05 06:03:48]: ***  [, Level 0]: (1)kais is on a killing spree with 10 blocks
 [2021-04-05 06:03:48]: ***  [, Level 0]: (1)kais is on a killing spree with 10 blocks
+[2021-04-05 06:03:52]: ERROR [404, Level 56]: ja sagte ich ja
+[2021-04-05 06:03:52]: ERROR [404, Level 56]: ja sagte ich ja
+[2021-04-05 06:03:59]: ERROR [404, Level 56]: lies richtig
+[2021-04-05 06:03:59]: ERROR [404, Level 56]: lies richtig
