@@ -14629,3 +14629,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:07:27]: SAUD [, Level 21]: \
 [logs/04-04-21.txt, 2021-04-04 22:07:42]: ***  [, Level 0]: 'Boti.' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 22:07:45]: PoliceTee [xSD7, Level 0]: Boti.: cringe
+[logs/04-04-21.txt, 2021-04-04 22:07:48]: Boti. [.bad, Level 0]: why
+[logs/04-04-21.txt, 2021-04-04 22:07:52]: PoliceTee [xSD7, Level 0]: cuz you arent afk
+[logs/04-04-21.txt, 2021-04-04 22:07:57]: PoliceTee [xSD7, Level 0]: if you spec everyone they are all afk
