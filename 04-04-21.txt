@@ -14772,3 +14772,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:24:21]: Chilli.* tee [Chilli.*, Level 0]: Boti.: nah
 [logs/04-04-21.txt, 2021-04-04 22:24:27]: Chilli.* tee [Chilli.*, Level 0]: E
 [logs/04-04-21.txt, 2021-04-04 22:24:43]: (3)SAUD [, Level 8]: old is G(OLD)
+[logs/04-04-21.txt, 2021-04-04 22:24:48]: Chilli.* tee [Chilli.*, Level 0]: XDD true
