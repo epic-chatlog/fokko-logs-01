@@ -6536,3 +6536,9 @@
 [2021-04-05 07:28:37]:   [, Level 0]: White Wolf: (1)kais: stp
 [2021-04-05 07:28:45]: ***  [, Level 0]: ~DemoizL~ is on a killing spree with 5 blocks
 [2021-04-05 07:28:46]: x7|FayZoR [xSD7, Level 42]: kais: bah alors ?
+[2021-04-05 07:28:53]: (1)kais [, Level 58]: x7|FayZoR: bah alors quoi ?
+[2021-04-05 07:28:57]: x7|FayZoR [xSD7, Level 42]: kais: je suis déçus :c
+[2021-04-05 07:28:57]: ***  [, Level 0]: 'PsYcHo!' entered and joined the game
+[2021-04-05 07:29:00]:   [, Level 0]: White Wolf: (1)kais: stp help
+[2021-04-05 07:29:02]: ***  [, Level 0]: '☭' has left the game
+[2021-04-05 07:29:02]: ***  [, Level 0]: 'ManniK' has left the game
