@@ -14791,3 +14791,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:28:03]: Boti. [.bad, Level 27]: i know
 [logs/04-04-21.txt, 2021-04-04 22:28:48]: Boti. [.bad, Level 27]: be kezo
 [logs/04-04-21.txt, 2021-04-04 22:28:50]: Boti. [.bad, Level 27]: farm on dummy
+[logs/04-04-21.txt, 2021-04-04 22:29:05]: (3)SAUD [, Level 8]: our daddy ( BulgarianTee  ) have 470121
