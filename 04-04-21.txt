@@ -14139,3 +14139,4 @@
 [logs/04-04-21.txt, 2021-04-04 17:45:28]: ***  [, Level 0]: 'σмєтнιηg' has left the game (Timeout)
 [logs/04-04-21.txt, 2021-04-04 17:45:28]: ***  [, Level 0]: 'S Y T H N' has left the game (Timeout)
 [logs/04-04-21.txt, 2021-04-04 17:45:29]: x7|KshKsh99 [xSD7, Level 0]: XD
+[logs/04-04-21.txt, 2021-04-04 17:45:46]: x7|FayZoR [xSD7, Level 42]: xD
