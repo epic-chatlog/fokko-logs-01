@@ -14565,3 +14565,4 @@
 [logs/04-04-21.txt, 2021-04-04 21:58:39]: PoliceTee [xSD7, Level 0]: E
 [logs/04-04-21.txt, 2021-04-04 21:59:04]: PoliceTee [xSD7, Level 0]: go stuck flappy?
 [logs/04-04-21.txt, 2021-04-04 21:59:12]: weqe [MNKY, Level 11]: but i love flappy
+[logs/04-04-21.txt, 2021-04-04 21:59:27]: PoliceTee [xSD7, Level 0]: weqe: thats why we keep him safe at bank so nobody kill him
