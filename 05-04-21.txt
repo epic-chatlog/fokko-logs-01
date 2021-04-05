@@ -2998,3 +2998,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:26:23]: ***  [, Level 0]: 'R2D2' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:26:26]: x7|zemer [xSD7, Level 37]: cup of tee:
 [logs/05-04-21.txt, 2021-04-05 03:26:30]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:26:33]: ***  [, Level 0]: 'STULEJA 3000' joined the game
