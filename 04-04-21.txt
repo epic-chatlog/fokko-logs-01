@@ -14355,3 +14355,6 @@
 [logs/04-04-21.txt, 2021-04-04 18:22:30]: Nudelsaft c: [FookinLads, Level 37]: u are 2
 [logs/04-04-21.txt, 2021-04-04 18:22:40]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: it's u u want come XDD
 [logs/04-04-21.txt, 2021-04-04 18:23:01]: Mr.KshKsh99 [xSD7, Level 0]: XD
+[logs/04-04-21.txt, 2021-04-04 18:23:19]: Mr.KshKsh99 [xSD7, Level 0]: XDDD
+[logs/04-04-21.txt, 2021-04-04 18:23:22]: ***  [, Level 0]: 'weqe' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 18:23:23]: Mr.KshKsh99 [xSD7, Level 0]: ez
