@@ -4511,3 +4511,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:59:31]: ***  [, Level 0]: 'SAUD' has left the game
 [logs/05-04-21.txt, 2021-04-05 04:59:33]: MieSlime [FookinLads, Level 43]: SAUD:  bye lol
 [logs/05-04-21.txt, 2021-04-05 04:59:41]: cookie [, Level 16]: who can help me white inf jump please im stuck
+[logs/05-04-21.txt, 2021-04-05 04:59:50]: ***  [, Level 0]: '♫Amirian♬.' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:59:51]: P4Pyr0s [, Level 22]: ♫Amirian♬:
+[logs/05-04-21.txt, 2021-04-05 04:59:56]: ***  [, Level 0]: 'MaşƘƔ' entered and joined the game
