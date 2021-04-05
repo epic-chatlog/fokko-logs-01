@@ -571,3 +571,9 @@
 [logs/05-04-21.txt, 2021-04-05 00:44:00]: Clight.♥ [♥, Level 0]: kais: Yes
 [logs/05-04-21.txt, 2021-04-05 00:44:03]: weqe [MNKY, Level 11]: SAUD: dont help him
 [logs/05-04-21.txt, 2021-04-05 00:44:03]: mamikral011 [, Level 26]: Asta: help bro
+[logs/05-04-21.txt, 2021-04-05 00:44:08]: SAUD [, Level 0]: sry mamikral011
+[logs/05-04-21.txt, 2021-04-05 00:44:10]: Cylox [, Level 30]: kais: yea
+[logs/05-04-21.txt, 2021-04-05 00:44:13]: Лимонад [MFG, Level 0]: bb
+[logs/05-04-21.txt, 2021-04-05 00:44:15]: mamikral011 [, Level 26]: SAUD: okey okey
+[logs/05-04-21.txt, 2021-04-05 00:44:15]: Лимонад [MFG, Level 0]: bb
+[logs/05-04-21.txt, 2021-04-05 00:44:16]: (1)kais [, Level 58]: xD
