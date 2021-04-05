@@ -2636,3 +2636,4 @@
 [logs/05-04-21.txt, 2021-04-05 02:50:07]: BulgarianTee [CleanUpCrew, Level 38]: YelloWorlD: JUST CHILL DUDE
 [logs/05-04-21.txt, 2021-04-05 02:50:10]: ***  [, Level 0]: '[D] BC|serwan' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:50:10]: ***  [, Level 0]: 'BC|serwan' has left the game
+[logs/05-04-21.txt, 2021-04-05 02:50:32]: Fearless [FookinLads, Level 40]: BulgarianTee:   i realize that every clanmate is gay
