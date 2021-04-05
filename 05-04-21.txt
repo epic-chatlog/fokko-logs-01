@@ -9756,3 +9756,6 @@
 [2021-04-05 10:24:42]: Falco642 [, Level 0]: indeed epic
 [2021-04-05 10:25:15]: ***  [, Level 0]: 'Deus Ex Machina' entered and joined the game
 [2021-04-05 10:25:18]:   [, Level 0]: Cosmo: help
+[2021-04-05 10:25:21]: Maatiteusz [TrRShClNrRs, Level 35]: bob: hi
+[2021-04-05 10:25:23]: bob [Legacy™, Level 36]: hi
+[2021-04-05 10:25:29]: GoatLike [, Level 5]: Falco641: we're waiting for you
