@@ -15387,3 +15387,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:37:55]: Vodo4ka [JB.st, Level 41]: PoliceTee: my button pressing by himself
 [logs/04-04-21.txt, 2021-04-04 23:38:08]: PoliceTee [xSD7, Level 25]: Vodo4ka: then u r cringe
 [logs/04-04-21.txt, 2021-04-04 23:38:10]: (1)R2D2 [, Level 0]: GET UR DUMMIE
+[logs/04-04-21.txt, 2021-04-04 23:38:18]: ***  [, Level 0]: '(1)R2D2' has left the game
+[logs/04-04-21.txt, 2021-04-04 23:38:27]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
