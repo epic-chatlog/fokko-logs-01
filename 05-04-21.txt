@@ -464,3 +464,8 @@
 [logs/05-04-21.txt, 2021-04-05 00:38:11]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 00:38:12]: [D] mamikral011 [, Level 21]: Kirito:
 [logs/05-04-21.txt, 2021-04-05 00:38:16]: [D] mamikral011 [, Level 21]: Kirito: offff
+[logs/05-04-21.txt, 2021-04-05 00:38:22]: MieSlime [FookinLads, Level 43]: did u slept ?
+[logs/05-04-21.txt, 2021-04-05 00:38:30]: Vodo4ka [JB.st, Level 41]: GAYY FLApY
+[logs/05-04-21.txt, 2021-04-05 00:38:30]: BulgarianTee [xSD7, Level 38]: Ƭevan: CHILL
+[logs/05-04-21.txt, 2021-04-05 00:38:32]: weqe [MNKY, Level 11]: BulgarianTee: help pls
+[logs/05-04-21.txt, 2021-04-05 00:38:33]: BulgarianTee [xSD7, Level 38]: Ƭevan: THE FUCK
