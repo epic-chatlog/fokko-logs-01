@@ -2228,3 +2228,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:15:00]: ***  [, Level 0]: '(1)SAUD' has left the game
 [logs/05-04-21.txt, 2021-04-05 02:15:13]: ᅟᅟ [, Level 60]: BulgarianTee: afsafwa
 [logs/05-04-21.txt, 2021-04-05 02:15:14]: ***  [, Level 0]: 554. Serhat_28ck Time: 01:21.94, requested by Serhat_28ck
+[logs/05-04-21.txt, 2021-04-05 02:15:33]: ᅟᅟ [, Level 60]: omg nobo
+[logs/05-04-21.txt, 2021-04-05 02:15:35]: ᅟᅟ [, Level 60]: stop
