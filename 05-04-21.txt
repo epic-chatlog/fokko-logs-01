@@ -5206,3 +5206,10 @@
 [2021-04-05 06:03:52]: ERROR [404, Level 56]: ja sagte ich ja
 [2021-04-05 06:03:59]: ERROR [404, Level 56]: lies richtig
 [2021-04-05 06:03:59]: ERROR [404, Level 56]: lies richtig
+[2021-04-05 06:04:06]: (1)1 [, Level 3]: botti help
+[2021-04-05 06:04:06]: (1)1 [, Level 3]: botti help
+[2021-04-05 06:04:08]: ***  [, Level 0]: '(1)ai9u7wgreauiw' has left the game
+[2021-04-05 06:04:08]: ***  [, Level 0]: '(1)chillerdagorn' has left the game
+[2021-04-05 06:04:10]: Boti. [.bad, Level 32]: no
+[2021-04-05 06:04:11]: (1)1 [, Level 3]: boti help
+[2021-04-05 06:04:14]: ERROR [404, Level 56]: kannst mit einem farmen
