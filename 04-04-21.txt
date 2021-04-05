@@ -13987,3 +13987,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:13:10]: x7|KshKsh99 [xSD7, Level 0]: XDD
 [logs/04-04-21.txt, 2021-04-04 17:13:27]: x7|KshKsh99 [xSD7, Level 0]: XD
 [logs/04-04-21.txt, 2021-04-04 17:13:35]: x7|KshKsh99 [xSD7, Level 0]: look dummy
+[logs/04-04-21.txt, 2021-04-04 17:13:44]: Nudelsaft c: [FookinLads, Level 37]: u cant
+[logs/04-04-21.txt, 2021-04-04 17:13:51]: x7|FayZoR [xSD7, Level 42]: Mr.KshKsh99: this dummi are in my room
