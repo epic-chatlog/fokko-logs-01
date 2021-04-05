@@ -2528,3 +2528,8 @@
 [logs/05-04-21.txt, 2021-04-05 02:37:12]: BulgarianTee [CleanUpCrew, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 02:37:17]: ZEWO [, Level 0]: Noémi[Đ]: I fuck?
 [logs/05-04-21.txt, 2021-04-05 02:37:21]: Fearless [FookinLads, Level 40]: Noémi[Đ]:  idk magyar
+[logs/05-04-21.txt, 2021-04-05 02:37:26]: ZEWO [, Level 0]: hedlp
+[logs/05-04-21.txt, 2021-04-05 02:37:27]: Idk [, Level 0]: ja
+[logs/05-04-21.txt, 2021-04-05 02:37:31]: ZEWO [, Level 0]: help Idk
+[logs/05-04-21.txt, 2021-04-05 02:37:34]: ZEWO [, Level 0]: Idk: help
+[logs/05-04-21.txt, 2021-04-05 02:37:37]: ZEWO [, Level 0]: JELP
