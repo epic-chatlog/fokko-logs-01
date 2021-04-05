@@ -3257,3 +3257,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:43:59]: x7|zemer [xSD7, Level 37]: x7|FayZoR: Wait
 [logs/05-04-21.txt, 2021-04-05 03:44:09]: ***  [, Level 0]: 'oyun krallı' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:44:15]: ***  [, Level 0]: 'Pigie♥' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:44:27]: ***  [, Level 0]: '(1)oyun krallı' has left the game
