@@ -2792,3 +2792,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:05:11]: ***  [, Level 0]: 'Писька' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:05:16]: Fearless [FookinLads, Level 40]: bob:  omg
 [logs/05-04-21.txt, 2021-04-05 03:05:28]: ***  [, Level 0]: keø is on a killing spree with 5 blocks
+[logs/05-04-21.txt, 2021-04-05 03:05:50]: Fearless [FookinLads, Level 40]: koro:  im TRAITOR?
+[logs/05-04-21.txt, 2021-04-05 03:05:52]: Fearless [FookinLads, Level 40]: BulgarianTee:
+[logs/05-04-21.txt, 2021-04-05 03:05:55]: Fearless [FookinLads, Level 40]: BulgarianTee:  omg
