@@ -188,3 +188,7 @@
 [logs/05-04-21.txt, 2021-04-05 00:16:14]: wa̷rha̷mmer [, Level 16]: oyun krallı:  ben sana dedim
 [logs/05-04-21.txt, 2021-04-05 00:16:16]: Vodo4ka [JB.st, Level 41]: NO BLYAT GLAGOL
 [logs/05-04-21.txt, 2021-04-05 00:16:26]: BulgarianTee [xSD7, Level 38]: Vodo4ka: YES GLAGOL
+[logs/05-04-21.txt, 2021-04-05 00:16:30]: ***  [, Level 0]: 'weqe' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:16:34]: BulgarianTee [xSD7, Level 38]: Vodo4ka: DEPENDS IS GLAGOL
+[logs/05-04-21.txt, 2021-04-05 00:16:36]: Vodo4ka [JB.st, Level 41]: BulgarianTee: wat do, kakat'
+[logs/05-04-21.txt, 2021-04-05 00:16:42]: Vodo4ka [JB.st, Level 41]: GLAGOL
