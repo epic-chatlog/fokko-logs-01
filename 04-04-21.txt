@@ -15343,3 +15343,4 @@
 [logs/04-04-21.txt, 2021-04-04 23:32:29]: BulgarianTee [xSD7, Level 38]: same
 [logs/04-04-21.txt, 2021-04-04 23:33:19]: Vodo4ka [JB.st, Level 41]: BulgarianTee: that feeling when flappy is killing u and suicide
 [logs/04-04-21.txt, 2021-04-04 23:33:24]: BulgarianTee [xSD7, Level 38]: xD
+[logs/04-04-21.txt, 2021-04-04 23:33:29]: BulgarianTee [xSD7, Level 38]: flappy kill me a lot of times
