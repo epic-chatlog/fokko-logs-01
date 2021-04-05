@@ -2563,3 +2563,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:40:38]: Nonoh [citrom, Level 40]: keø: hi kezo
 [logs/05-04-21.txt, 2021-04-05 02:40:47]: Fearless [FookinLads, Level 40]: Nonoh:  nem kezo
 [logs/05-04-21.txt, 2021-04-05 02:40:52]: [D] ✯ |toxicd [|Supressed, Level 21]: power: help me dummy pls
+[logs/05-04-21.txt, 2021-04-05 02:41:10]: Noémi[Đ] [citrom, Level 32]: Fearless: akk ki ?
+[logs/05-04-21.txt, 2021-04-05 02:41:12]: ***  [, Level 0]: 'power2' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:41:21]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
