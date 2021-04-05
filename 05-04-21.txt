@@ -3290,3 +3290,9 @@
 [logs/05-04-21.txt, 2021-04-05 03:47:02]:   [, Level 0]: Pigie♥: (1)Kirito: ur in chilli?
 [logs/05-04-21.txt, 2021-04-05 03:47:06]:   [, Level 0]: BC|kakashi: (2)Kirito: nein ich bin BC|kakashi
 [logs/05-04-21.txt, 2021-04-05 03:47:07]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: ->
+[logs/05-04-21.txt, 2021-04-05 03:47:09]: (2)Kirito [♥, Level 13]: Pigie♥: no
+[logs/05-04-21.txt, 2021-04-05 03:47:10]: Isegrin [, Level 54]: BulgarianTee: xaxa
+[logs/05-04-21.txt, 2021-04-05 03:47:10]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: Sutzer killing x7|zemer
+[logs/05-04-21.txt, 2021-04-05 03:47:14]: x7|zemer [xSD7, Level 37]: Sutzer War???
+[logs/05-04-21.txt, 2021-04-05 03:47:16]: (2)Kirito [♥, Level 13]: Pigie♥: im still in ♥
+[logs/05-04-21.txt, 2021-04-05 03:47:17]: ***  [, Level 0]: 'delta' has left the game
