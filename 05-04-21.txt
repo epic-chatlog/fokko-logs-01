@@ -3659,3 +3659,5 @@
 [logs/05-04-21.txt, 2021-04-05 04:13:01]: Kirito [♥, Level 35]: Isegrin: no
 [logs/05-04-21.txt, 2021-04-05 04:13:04]: Kirito [♥, Level 35]: close
 [logs/05-04-21.txt, 2021-04-05 04:13:04]:   [, Level 0]: |ΛnץOиe|: x7|FayZoR: mais kestu branles ptn
+[logs/05-04-21.txt, 2021-04-05 04:13:05]: weqe [MNKY, Level 11]: BulgarianTee: any amount impoor
+[logs/05-04-21.txt, 2021-04-05 04:13:05]: Kirito [♥, Level 35]: Isegrin:
