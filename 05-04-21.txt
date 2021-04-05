@@ -2120,3 +2120,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:07:37]: x7|FayZoR [xSD7, Level 42]: Fearless: ok
 [logs/05-04-21.txt, 2021-04-05 02:07:38]: BulgarianTee [CleanUpCrew, Level 38]: Souly: cringy skin
 [logs/05-04-21.txt, 2021-04-05 02:07:38]: Souly [acqwerty, Level 60]: BulgarianTee: no u
+[logs/05-04-21.txt, 2021-04-05 02:07:45]: Lucas [THECEPS, Level 34]: Cylox.: hi
+[logs/05-04-21.txt, 2021-04-05 02:07:48]: BulgarianTee [CleanUpCrew, Level 38]: Souly: yes i want to
