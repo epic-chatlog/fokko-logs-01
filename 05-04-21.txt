@@ -5075,3 +5075,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:57:06]: Kezo [FookinLads, Level 41]: come
 [logs/05-04-21.txt, 2021-04-05 05:57:07]: Kezo [FookinLads, Level 41]: no
 [logs/05-04-21.txt, 2021-04-05 05:57:07]:   [, Level 0]: weqe: why ?
+[logs/05-04-21.txt, 2021-04-05 05:57:19]:   [, Level 0]: x7|FayZoR: kais: pk tu me laisse pas farm ? xD
+[logs/05-04-21.txt, 2021-04-05 05:57:21]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:57:23]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[logs/05-04-21.txt, 2021-04-05 05:57:28]: kais [, Level 65]: x7|FayZoR: t'as un plot non ? :D
