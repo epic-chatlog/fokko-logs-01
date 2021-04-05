@@ -2213,3 +2213,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:14:05]: comic [comically, Level 13]: (1)SAUD: <3
 [logs/05-04-21.txt, 2021-04-05 02:14:10]: ***  [, Level 0]: 'ZEWO' would have timed out, but can use timeout protection now
 [logs/05-04-21.txt, 2021-04-05 02:14:10]: ***  [, Level 0]: 'ZEWO's dummy' would have timed out, but can use timeout protection now
+[logs/05-04-21.txt, 2021-04-05 02:14:29]: Kirito [Chilli.*, Level 34]: RoberGN: ?
+[logs/05-04-21.txt, 2021-04-05 02:14:33]: Kirito [Chilli.*, Level 34]: RoberGN: War4life
