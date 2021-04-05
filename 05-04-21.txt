@@ -11857,3 +11857,5 @@
 [2021-04-05 12:14:11]: ***  [, Level 0]: '[D] ✯ |toxicd' left the minigame 'Block'
 [2021-04-05 12:14:15]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-05 12:14:17]: ***  [, Level 0]: '(1)Friendiship ;' joined the game
+[2021-04-05 12:14:20]: NetFlix [, Level 15]: |HolyHo|:
+[2021-04-05 12:14:30]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
