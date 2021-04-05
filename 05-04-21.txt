@@ -1804,3 +1804,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:48:56]: kais [, Level 65]: (1)Kirito: i am running out of ammos, i go afk :D
 [logs/05-04-21.txt, 2021-04-05 01:48:59]: Kirito [Chilli.*, Level 34]: el champeon: stop
 [logs/05-04-21.txt, 2021-04-05 01:49:00]: BulgarianTee [xSD7, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 01:49:04]: Kirito [Chilli.*, Level 34]: kais: okay :D
+[logs/05-04-21.txt, 2021-04-05 01:49:11]: Kirito [Chilli.*, Level 34]: el champeon: wanna peace or ??
+[logs/05-04-21.txt, 2021-04-05 01:49:14]: ***  [, Level 0]: 'nameless tee' entered and joined the game
