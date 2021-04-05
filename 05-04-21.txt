@@ -3090,3 +3090,9 @@
 [logs/05-04-21.txt, 2021-04-05 03:32:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [logs/05-04-21.txt, 2021-04-05 03:32:00]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 03:32:04]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:32:10]: BulgarianTee [CleanUpCrew, Level 38]: x7|zemer: i dont need portal
+[logs/05-04-21.txt, 2021-04-05 03:32:12]: SAUD [, Level 22]: gay pussy cant play without taser
+[logs/05-04-21.txt, 2021-04-05 03:32:13]:   [, Level 0]: x7|zemer: BulgarianTee:
+[logs/05-04-21.txt, 2021-04-05 03:32:16]: SAUD [, Level 22]: gay pussy cant play without taser BC|Tixnix
+[logs/05-04-21.txt, 2021-04-05 03:32:17]:   [, Level 0]: x7|zemer: BulgarianTee: Ok:Dd
+[logs/05-04-21.txt, 2021-04-05 03:32:20]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
