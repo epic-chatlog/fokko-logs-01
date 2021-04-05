@@ -4724,3 +4724,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:28:21]: Kiøn1029 [.bad, Level 31]: monke
 [logs/05-04-21.txt, 2021-04-05 05:28:46]: ***  [, Level 0]: '(1)1' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:28:47]: ReXi [, Level 0]: (2)1:
+[logs/05-04-21.txt, 2021-04-05 05:28:49]: Vodo4ka [JB.st, Level 41]: что
+[logs/05-04-21.txt, 2021-04-05 05:29:01]: mami [, Level 0]: lags wooow
