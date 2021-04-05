@@ -15058,3 +15058,6 @@
 [logs/04-04-21.txt, 2021-04-04 23:04:31]: BulgarianTee [xSD7, Level 38]: if i bring my dummy
 [logs/04-04-21.txt, 2021-04-04 23:04:47]: PoliceTee [xSD7, Level 0]: i can laser myself
 [logs/04-04-21.txt, 2021-04-04 23:04:49]: PoliceTee [xSD7, Level 0]: and get so good time
+[logs/04-04-21.txt, 2021-04-04 23:04:58]: BulgarianTee [xSD7, Level 38]: ok ready?
+[logs/04-04-21.txt, 2021-04-04 23:05:00]: (3)SAUD [, Level 8]: YEAH
+[logs/04-04-21.txt, 2021-04-04 23:05:06]: BulgarianTee [xSD7, Level 38]: omg XD
