@@ -6299,3 +6299,7 @@
 [2021-04-05 07:09:54]: ***  [, Level 0]: 'KriegInCome' entered and joined the game
 [2021-04-05 07:10:01]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-05 07:10:13]: ***  [, Level 0]: 'ZEWO's dummy' entered and joined the game
+[2021-04-05 07:10:15]:   [, Level 0]: ZEWO's dummy: (1)ChillerDragon: what talk
+[2021-04-05 07:10:19]:   [, Level 0]: oyun krallı: knk senyoken 5bin buldum
+[2021-04-05 07:10:23]: ZEWO [, Level 0]: (1)ChillerDragon: what talk
+[2021-04-05 07:10:24]: ***  [, Level 0]: Koishi is on a killing spree with 5 blocks
