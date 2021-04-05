@@ -6834,3 +6834,6 @@
 [2021-04-05 07:51:55]: kais [, Level 65]: ?
 [2021-04-05 07:52:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-05 07:52:01]: (1)Kirito [♥, Level 35]: Swarfey: can i have flag please?
+[2021-04-05 07:52:07]: Swarfey [, Level 37]: nah
+[2021-04-05 07:52:12]: (1)Kirito [♥, Level 35]: Swarfey: oh man :(
+[2021-04-05 07:52:12]:   [, Level 0]: Zʷʰʸˀ: Zʷʰʸˀ: I'm not abusing anything.. just legit game mechanics
