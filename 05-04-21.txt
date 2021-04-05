@@ -12615,3 +12615,9 @@
 [2021-04-05 13:24:17]: ***  [, Level 0]: '(1)NetFlix' has left the game
 [2021-04-05 13:24:20]: (2)Kirito♥ [♥, Level 0]: mina: im from the uk but i life in austria
 [2021-04-05 13:24:22]: (2)Kirito♥ [♥, Level 0]: mina: and you?
+[2021-04-05 13:24:31]: ***  [, Level 0]: 'NetFlix' has left the game
+[2021-04-05 13:24:36]: ***  [, Level 0]: 'Kirito' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-05 13:24:36]: ***  [, Level 0]: 'Kirito♥' has left the game (Timeout)
+[2021-04-05 13:24:36]: ***  [, Level 0]: '(1)Kirito♥' has left the game (Timeout)
+[2021-04-05 13:24:37]: ***  [, Level 0]: 'bruh' has left the game
+[2021-04-05 13:24:37]: ***  [, Level 0]: 'rayen' has left the game
