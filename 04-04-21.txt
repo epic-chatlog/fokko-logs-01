@@ -14917,3 +14917,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:40:59]: PoliceTee [xSD7, Level 0]: Boti.: just make my head hurt even more
 [logs/04-04-21.txt, 2021-04-04 22:41:11]: PoliceTee [xSD7, Level 0]: E
 [logs/04-04-21.txt, 2021-04-04 22:41:14]: Boti. [.bad, Level 27]: sad
+[logs/04-04-21.txt, 2021-04-04 22:41:19]: Boti. [.bad, Level 27]: umm
+[logs/04-04-21.txt, 2021-04-04 22:41:23]: Boti. [.bad, Level 27]: are you fuckin yourself
+[logs/04-04-21.txt, 2021-04-04 22:41:25]: Boti. [.bad, Level 27]: g
