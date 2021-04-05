@@ -3173,3 +3173,8 @@
 [logs/05-04-21.txt, 2021-04-05 03:36:44]: ***  [, Level 0]: 'YelloWorlD' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:36:46]: »Amirian YA« [YAMIRIANA�, Level 29]: Shiro.: ?
 [logs/05-04-21.txt, 2021-04-05 03:36:54]: »Amirian YA« [YAMIRIANA�, Level 29]: keø:
+[logs/05-04-21.txt, 2021-04-05 03:36:59]: ***  [, Level 0]: 'delta' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:37:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[logs/05-04-21.txt, 2021-04-05 03:37:03]: BulgarianTee [CleanUpCrew, Level 38]: Shiro.: was mb im garbage d:
+[logs/05-04-21.txt, 2021-04-05 03:37:05]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:37:09]: ***  [, Level 0]: '(2)oyun krallı' entered and joined the game
