@@ -14893,3 +14893,7 @@
 [logs/04-04-21.txt, 2021-04-04 22:37:41]: BulgarianTee [xSD7, Level 38]: almost 12k actually
 [logs/04-04-21.txt, 2021-04-04 22:38:13]: PoliceTee [xSD7, Level 0]: error is still afk
 [logs/04-04-21.txt, 2021-04-04 22:38:17]: PoliceTee [xSD7, Level 0]: thx god
+[logs/04-04-21.txt, 2021-04-04 22:38:20]: Boti. [.bad, Level 27]: yeah
+[logs/04-04-21.txt, 2021-04-04 22:38:22]: Boti. [.bad, Level 27]: XDD
+[logs/04-04-21.txt, 2021-04-04 22:38:24]: PoliceTee [xSD7, Level 0]: \XDD
+[logs/04-04-21.txt, 2021-04-04 22:38:28]: Boti. [.bad, Level 27]: look at discord
