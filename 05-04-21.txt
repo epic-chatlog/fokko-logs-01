@@ -4897,3 +4897,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:42:25]: ERROR. [404, Level 73]: heavy yo
 [logs/05-04-21.txt, 2021-04-05 05:42:31]: Vodo4ka [JB.st, Level 41]: HeavyGeneral qq
 [logs/05-04-21.txt, 2021-04-05 05:42:32]: S Y T H N [iPro, Level 0]: ERROR: ich mache normale race bin fertig und dereckt  jet danke
+[logs/05-04-21.txt, 2021-04-05 05:42:33]: NetFlix [, Level 13]: ERROR: can i get jetpack?
+[logs/05-04-21.txt, 2021-04-05 05:42:37]:   [, Level 0]: HeavyGeneral: yo ERROR
