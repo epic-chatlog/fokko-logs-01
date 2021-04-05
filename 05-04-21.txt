@@ -6983,3 +6983,7 @@
 [2021-04-05 08:02:00]: ♥JustRace♥ [no-clan, Level 36]: [D] mamikral011:  yes?
 [2021-04-05 08:02:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-05 08:02:02]:   [, Level 0]: [D] mamikral011: ♥JustRace♥: help
+[2021-04-05 08:02:09]: ***  [, Level 0]: 'uts/Koishi' has left the game
+[2021-04-05 08:02:09]: ***  [, Level 0]: 'Satori' has left the game
+[2021-04-05 08:02:10]:   [, Level 0]: [D] mamikral011: |MıssOяchiĐ|: ?
+[2021-04-05 08:02:14]: WarHammer' [, Level 16]: koroo
