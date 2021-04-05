@@ -2807,3 +2807,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:07:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [logs/05-04-21.txt, 2021-04-05 03:07:01]: ***  [, Level 0]: 'oyun krallı' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:07:43]: Fearless [, Level 40]: bob:
+[logs/05-04-21.txt, 2021-04-05 03:07:58]: BulgarianTee [CleanUpCrew, Level 38]: TimePause: Ƭevan ->
+[logs/05-04-21.txt, 2021-04-05 03:07:58]: TimePause's nub [xSD7, Level 0]: taser
+[logs/05-04-21.txt, 2021-04-05 03:07:59]: Fearless [, Level 40]: TimePause:  help im with you guys omg
+[logs/05-04-21.txt, 2021-04-05 03:07:59]: TimePause's nub [xSD7, Level 0]: bad
