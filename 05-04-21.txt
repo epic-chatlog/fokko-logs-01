@@ -4576,3 +4576,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:07:33]: ***  [, Level 0]: MieSlime's killing spree was ended by koro (6 blocks)
 [logs/05-04-21.txt, 2021-04-05 05:07:36]: MieSlime [FookinLads, Level 43]: koro:  non
 [logs/05-04-21.txt, 2021-04-05 05:07:46]: ♫Amirian♬ [, Level 29]: x7|FayZoR: pls help
+[logs/05-04-21.txt, 2021-04-05 05:07:59]: ♫Amirian♬ [, Level 29]: cookie: help
+[logs/05-04-21.txt, 2021-04-05 05:08:04]: cookie [, Level 16]: ♫Amirian♬:  imd dead
