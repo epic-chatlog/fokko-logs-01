@@ -13925,3 +13925,7 @@
 [logs/04-04-21.txt, 2021-04-04 17:05:36]: ***  [, Level 0]: 'Neutral' has left the game
 [logs/04-04-21.txt, 2021-04-04 17:06:14]: σмєтнιηg [zε†α, Level 37]: x7|KshKsh99: did you program the bot or how
 [logs/04-04-21.txt, 2021-04-04 17:06:14]: σмєтнιηg [zε†α, Level 37]: x7|KshKsh99: did you program the bot or how
+[logs/04-04-21.txt, 2021-04-04 17:06:33]: ***  [, Level 0]: 'x7|zemer' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:06:33]: ***  [, Level 0]: 'x7|zemer' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:06:39]: ***  [, Level 0]: 'σмєтнιηg' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:06:39]: ***  [, Level 0]: 'σмєтнιηg' has left the game
