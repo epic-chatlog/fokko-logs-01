@@ -2789,3 +2789,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:04:09]: Fearless [FookinLads, Level 40]: x7|FayZoR:  and 1000fps
 [logs/05-04-21.txt, 2021-04-05 03:04:19]: HeavyGeneral [FookinLads, Level 44]: bob: scared dog
 [logs/05-04-21.txt, 2021-04-05 03:04:29]: ***  [, Level 0]: 'TimePause's nub' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:05:11]: ***  [, Level 0]: 'Писька' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:05:16]: Fearless [FookinLads, Level 40]: bob:  omg
