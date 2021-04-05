@@ -3401,3 +3401,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:57:31]: ***  [, Level 0]: '(1)Wheels.' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:57:33]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: what ? xD
 [logs/05-04-21.txt, 2021-04-05 03:57:34]: x7|zemer [xSD7, Level 37]: BulgarianTee: Byeee
+[logs/05-04-21.txt, 2021-04-05 03:57:41]: ***  [, Level 0]: '(1)»Amirian YA«' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:57:42]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: i basically gtg xd
+[logs/05-04-21.txt, 2021-04-05 03:57:44]: BulgarianTee [CleanUpCrew, Level 38]: cy@ all
+[logs/05-04-21.txt, 2021-04-05 03:57:44]: ***  [, Level 0]: '(1)»Amirian YA«' has left the game (Timeout Protection used)
