@@ -1569,3 +1569,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:33:52]: Kirito [Chilli.*, Level 34]: kais: Hhahhahahah really? :D
 [logs/05-04-21.txt, 2021-04-05 01:33:57]: (1)kais [, Level 58]: Kirito: yes
 [logs/05-04-21.txt, 2021-04-05 01:34:00]: Kirito [Chilli.*, Level 34]: kais: oops xD
+[logs/05-04-21.txt, 2021-04-05 01:34:04]: (1)kais [, Level 58]: Kirito: cause of particles
+[logs/05-04-21.txt, 2021-04-05 01:34:05]: Vodo4ka [JB.st, Level 41]: HAHAH
+[logs/05-04-21.txt, 2021-04-05 01:34:09]: Kirito [Chilli.*, Level 34]: (1)kais: rip :D
+[logs/05-04-21.txt, 2021-04-05 01:34:11]: (1)SAUD [, Level 22]: xD Vodo4ka
