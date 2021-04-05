@@ -14182,3 +14182,9 @@
 [logs/04-04-21.txt, 2021-04-04 17:55:46]: ***  [, Level 0]: 'Swarfey' joined the game
 [logs/04-04-21.txt, 2021-04-04 17:55:59]: Nudelsaft c: [FookinLads, Level 37]: x7|KshKsh99: why did u stop, i thought it was fun waiting for nothing
 [logs/04-04-21.txt, 2021-04-04 17:55:59]: Nudelsaft c: [FookinLads, Level 37]: x7|KshKsh99: why did u stop, i thought it was fun waiting for nothing
+[logs/04-04-21.txt, 2021-04-04 17:56:29]: ***  [, Level 0]: 'Swarfey' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:56:29]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:56:29]: ***  [, Level 0]: 'Swarfey' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:56:29]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:56:36]: x7|KshKsh99 [xSD7, Level 37]: we cant
+[logs/04-04-21.txt, 2021-04-04 17:56:36]: x7|KshKsh99 [xSD7, Level 37]: we cant
