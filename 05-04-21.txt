@@ -3258,3 +3258,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:44:09]: ***  [, Level 0]: 'oyun krallı' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:44:15]: ***  [, Level 0]: 'Pigie♥' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:44:27]: ***  [, Level 0]: '(1)oyun krallı' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:44:31]:   [, Level 0]: Pigie♥: Kirito: whacha doin
+[logs/05-04-21.txt, 2021-04-05 03:44:39]: ***  [, Level 0]: '(1)1' entered and joined the game
