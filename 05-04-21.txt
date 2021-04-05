@@ -3240,3 +3240,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:41:50]: ***  [, Level 0]: 'ReXi' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:42:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [logs/05-04-21.txt, 2021-04-05 03:42:01]: ***  [, Level 0]: 'Shiro.' would have timed out, but can use timeout protection now
+[logs/05-04-21.txt, 2021-04-05 03:42:04]: BulgarianTee [CleanUpCrew, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 03:42:08]: ***  [, Level 0]: 'SlerTz.' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:42:11]: ***  [, Level 0]: 'kiøn1029' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:42:11]: ***  [, Level 0]: 'Kiøn1029' has left the game
