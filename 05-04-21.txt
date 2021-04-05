@@ -3068,3 +3068,8 @@
 [logs/05-04-21.txt, 2021-04-05 03:30:48]: (1)SAUD [, Level 0]: BC|Tixnix: u cant win without helpers
 [logs/05-04-21.txt, 2021-04-05 03:31:03]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 03:31:03]: BulgarianTee [CleanUpCrew, Level 38]: x7|zemer: this fucking taser should be removed
+[logs/05-04-21.txt, 2021-04-05 03:31:05]: ***  [, Level 0]: 'bob' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:31:06]:   [, Level 0]: »Amirian YA«: delta: you play gamerclient?
+[logs/05-04-21.txt, 2021-04-05 03:31:07]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:31:08]: Virus [, Level 49]: Deadmouse: dame tu cosita
+[logs/05-04-21.txt, 2021-04-05 03:31:10]:   [, Level 0]: delta: yes
