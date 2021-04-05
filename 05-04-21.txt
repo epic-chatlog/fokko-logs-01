@@ -6376,3 +6376,5 @@
 [2021-04-05 07:16:08]: discord bridge [, Level 24]: HeavyGeneral: go-go
 [2021-04-05 07:16:25]: .S L E E P Y' [iPro ♡, Level 0]: TL|ŦƹƦ$ŦǾN:  i bet my apple juice that this headshot guy is koro
 [2021-04-05 07:16:26]: ♥JustRace♥ [xSD7, Level 36]: TL|ŦƹƦ$ŦǾN:  ello
+[2021-04-05 07:16:30]: ***  [, Level 0]: 'ZEWO's dummy' has left the game (Timeout)
+[2021-04-05 07:16:30]: ***  [, Level 0]: 'ZEWO' has left the game (Timeout)
