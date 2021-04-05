@@ -13789,3 +13789,5 @@
 [2021-04-05 15:21:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-05 15:22:01]: hmmmmmm [, Level 8]: mais moi j'ai que 2 exp par second
 [2021-04-05 15:22:03]: hmmmmmm [, Level 8]: pas 5
+[2021-04-05 15:22:08]: Shiro. [404, Level 42]: mystere mystere
+[2021-04-05 15:22:12]: x7|FayZoR [xSD7, Level 42]: hmmmmmm: c'est le bonus survival
