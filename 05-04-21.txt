@@ -2891,3 +2891,8 @@
 [logs/05-04-21.txt, 2021-04-05 03:18:26]: ***  [, Level 0]: 'STULEJA 3000' joined the game
 [logs/05-04-21.txt, 2021-04-05 03:18:36]: YelloWorlD [404, Level 37]: Fearless: idc ur life bro
 [logs/05-04-21.txt, 2021-04-05 03:18:42]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:18:46]: ***  [, Level 0]: 'STULEJA 3000' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:18:51]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:18:52]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:18:54]: ***  [, Level 0]: 'Isegrin' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:18:55]: ***  [, Level 0]: 'STULEJA 3000' joined the game
