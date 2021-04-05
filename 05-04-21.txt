@@ -6593,3 +6593,11 @@
 [2021-04-05 07:32:48]: ***  [, Level 0]: 'Rock' entered and joined the game
 [2021-04-05 07:32:48]: comic [comically, Level 13]: power: epic
 [2021-04-05 07:32:50]: ♥JustRace♥ [xSD7, Level 36]: ERROR.:  still managed to fail the laser
+[2021-04-05 07:32:52]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-05 07:32:54]: White Wolf [, Level 24]: ~DemoizL~: karma x)
+[2021-04-05 07:32:55]: ♥JustRace♥ [xSD7, Level 36]: epic
+[2021-04-05 07:32:56]: ***  [, Level 0]: Zʷʰʸˀ is on a killing spree with 5 blocks
+[2021-04-05 07:32:58]:   [, Level 0]: ~DemoizL~: White Wolf: ?
+[2021-04-05 07:32:59]: ERROR [404, Level 56]: ♥JustRace♥:  well no shame
+[2021-04-05 07:33:02]: power [TrRShClNrRs, Level 0]: u have to get me comic
+[2021-04-05 07:33:04]: ♥JustRace♥ [xSD7, Level 36]: power2:  u ded
