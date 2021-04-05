@@ -15435,3 +15435,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:43:57]: comic [comically, Level 12]: defuq?!
 [logs/04-04-21.txt, 2021-04-04 23:44:01]: BulgarianTee [xSD7, Level 38]: both Vodo4ka and GODLIKe you are delusional
 [logs/04-04-21.txt, 2021-04-04 23:44:01]: oyun krallı [, Level 11]: Wheels.:  HELP
+[logs/04-04-21.txt, 2021-04-04 23:44:11]: ***  [, Level 0]: 'oyun krallı' has been muted for 60 seconds
+[logs/04-04-21.txt, 2021-04-04 23:44:13]: R2D2 [, Level 0]: yes
