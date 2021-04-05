@@ -14602,3 +14602,8 @@
 [logs/04-04-21.txt, 2021-04-04 22:03:39]: PoliceTee [xSD7, Level 0]: no
 [logs/04-04-21.txt, 2021-04-04 22:03:41]: weqe [MNKY, Level 11]: work
 [logs/04-04-21.txt, 2021-04-04 22:03:46]: PoliceTee [xSD7, Level 0]: weqe: boomer :(
+[logs/04-04-21.txt, 2021-04-04 22:03:51]: weqe [MNKY, Level 11]: noo
+[logs/04-04-21.txt, 2021-04-04 22:03:54]: weqe [MNKY, Level 11]: work = study
+[logs/04-04-21.txt, 2021-04-04 22:03:57]: PoliceTee [xSD7, Level 0]: true
+[logs/04-04-21.txt, 2021-04-04 22:03:58]: PoliceTee [xSD7, Level 0]: XD
+[logs/04-04-21.txt, 2021-04-04 22:04:01]: PoliceTee [xSD7, Level 0]: then u not boomer
