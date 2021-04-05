@@ -13961,3 +13961,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:08:28]: ***  [, Level 0]: '(1)chillerdagorn' has left the game
 [logs/04-04-21.txt, 2021-04-04 17:08:28]: ***  [, Level 0]: Collected 3 money
 [logs/04-04-21.txt, 2021-04-04 17:08:29]: S Y T H N [iPro, Level 0]: :D
+[logs/04-04-21.txt, 2021-04-04 17:08:40]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:08:44]: ***  [, Level 0]: 'S Y T H N' changed name to 'нυƨнıκε'
