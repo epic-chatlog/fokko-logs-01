@@ -6392,3 +6392,5 @@
 [2021-04-05 07:17:31]:   [, Level 0]: Black Wolf: mami: ok
 [2021-04-05 07:17:38]: ***  [, Level 0]: 'Sutzer' entered and joined the game
 [2021-04-05 07:17:43]: ***  [, Level 0]: 'Ðream' entered and joined the game
+[2021-04-05 07:17:55]: ***  [, Level 0]: (1)kais finished in: 4 minute(s) 26.62 second(s)
+[2021-04-05 07:17:55]: ***  [, Level 0]: New record: 11 minute(s) 12.16 second(s) better.
