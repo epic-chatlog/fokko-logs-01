@@ -13368,3 +13368,4 @@
 [2021-04-05 14:44:23]: ***  [, Level 0]: 's6_sven' has left the game (Timeout)
 [2021-04-05 14:44:23]: ***  [, Level 0]: 's7_sven' has left the game (Timeout)
 [2021-04-05 14:44:33]: iMxtteo [, Level 26]: I like turtles.
+[2021-04-05 14:45:05]: ***  [, Level 0]: 'Shiro.' entered and joined the game
