@@ -4013,3 +4013,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:31:38]:   [, Level 0]: Shroom: (1)kais:
 [logs/05-04-21.txt, 2021-04-05 04:31:39]: cookie [, Level 16]: (2)Kirito:  i meen dont ware white me
 [logs/05-04-21.txt, 2021-04-05 04:31:47]: (2)Kirito [♥, Level 13]: cookie: i dont
+[logs/05-04-21.txt, 2021-04-05 04:31:52]: cookie [, Level 16]: (2)Kirito:  oke
+[logs/05-04-21.txt, 2021-04-05 04:31:58]: (2)Kirito [♥, Level 13]: oh no
+[logs/05-04-21.txt, 2021-04-05 04:32:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[logs/05-04-21.txt, 2021-04-05 04:32:00]: (2)Kirito [♥, Level 13]: cookie: helppp
