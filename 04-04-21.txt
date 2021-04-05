@@ -13905,3 +13905,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:02:46]: ***  [, Level 0]: [WARNING] You did not set security pin yet. Check '/pin' for more information.
 [logs/04-04-21.txt, 2021-04-04 17:02:49]: Swarfey [FookinLads, Level 0]: a
 [logs/04-04-21.txt, 2021-04-04 17:02:49]: Swarfey [FookinLads, Level 0]: a
+[logs/04-04-21.txt, 2021-04-04 17:02:55]: ***  [, Level 0]: 'chillerdagorn' has left the game
+[logs/04-04-21.txt, 2021-04-04 17:02:55]: ***  [, Level 0]: 'ai9u7wgreauiwgh' has left the game
