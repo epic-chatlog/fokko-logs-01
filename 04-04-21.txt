@@ -15196,3 +15196,7 @@
 [logs/04-04-21.txt, 2021-04-04 23:20:28]: BulgarianTee [xSD7, Level 38]: XDD
 [logs/04-04-21.txt, 2021-04-04 23:20:33]: (3)SAUD [, Level 8]: xD\
 [logs/04-04-21.txt, 2021-04-04 23:20:34]: Vodo4ka [JB.st, Level 41]: BulgarianTee: its intresting
+[logs/04-04-21.txt, 2021-04-04 23:20:43]: BulgarianTee [xSD7, Level 38]: yeah kinda
+[logs/04-04-21.txt, 2021-04-04 23:20:46]: ***  [, Level 0]: 'Boti. but 0.7' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 23:20:49]: ***  [, Level 0]: 'Boti. but 0.7' has left the game
+[logs/04-04-21.txt, 2021-04-04 23:20:53]: ***  [, Level 0]: 'Boti.' entered and joined the game
