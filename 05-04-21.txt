@@ -257,3 +257,8 @@
 [logs/05-04-21.txt, 2021-04-05 00:21:50]: ***  [, Level 0]: (2)kais finished in: 2 minute(s)  3.64 second(s)
 [logs/05-04-21.txt, 2021-04-05 00:22:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [logs/05-04-21.txt, 2021-04-05 00:22:03]: Vodo4ka [JB.st, Level 41]: BulgarianTee: HAHAH war4life u just dont understand fun endless bitch
+[logs/05-04-21.txt, 2021-04-05 00:22:10]: Vodo4ka [JB.st, Level 41]: BulgarianTee: ADIOS PERO
+[logs/05-04-21.txt, 2021-04-05 00:22:11]: BulgarianTee [xSD7, Level 38]: Vodo4ka: i dont understand fun?
+[logs/05-04-21.txt, 2021-04-05 00:22:14]: ***  [, Level 0]: comic finished in: 3 minute(s)  0.08 second(s)
+[logs/05-04-21.txt, 2021-04-05 00:22:14]: ***  [, Level 0]: New record:  9.04 second(s) better.
+[logs/05-04-21.txt, 2021-04-05 00:22:15]: Vodo4ka [JB.st, Level 41]: BulgarianTee: yes u are
