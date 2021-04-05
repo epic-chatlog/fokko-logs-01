@@ -9733,3 +9733,5 @@
 [2021-04-05 10:22:44]: ***  [, Level 0]: 'Cosmo' entered and joined the game
 [2021-04-05 10:22:46]:   [, Level 0]: hmmmmm: i am not your dog ChillerDragon
 [2021-04-05 10:22:48]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-05 10:23:19]: ***  [, Level 0]: 'GOLD' has left the game
+[2021-04-05 10:23:19]: ***  [, Level 0]: 'YelloWorlD' has left the game
