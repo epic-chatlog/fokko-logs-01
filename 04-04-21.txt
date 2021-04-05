@@ -15165,3 +15165,8 @@
 [logs/04-04-21.txt, 2021-04-04 23:16:42]: (1)SAUD [, Level 16]: yeah
 [logs/04-04-21.txt, 2021-04-04 23:16:45]: (1)SAUD [, Level 16]: u are
 [logs/04-04-21.txt, 2021-04-04 23:16:47]: BulgarianTee [xSD7, Level 38]: im not good, its just that people in this server are bad Xdd
+[logs/04-04-21.txt, 2021-04-04 23:16:54]: (1)SAUD [, Level 16]: xD
+[logs/04-04-21.txt, 2021-04-04 23:16:57]: BulgarianTee [xSD7, Level 38]: except heavygeneral and terston
+[logs/04-04-21.txt, 2021-04-04 23:16:59]: BulgarianTee [xSD7, Level 38]: they are quite good
+[logs/04-04-21.txt, 2021-04-04 23:17:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[logs/04-04-21.txt, 2021-04-04 23:17:04]: BulgarianTee [xSD7, Level 38]: and timepause too
