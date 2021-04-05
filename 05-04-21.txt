@@ -3522,3 +3522,4 @@
 [logs/05-04-21.txt, 2021-04-05 04:05:49]: ***  [, Level 0]: ### 'wa̷rha̷mmer' xd
 [logs/05-04-21.txt, 2021-04-05 04:05:50]:   [, Level 0]: Foxie♥: Cylox.♥: np
 [logs/05-04-21.txt, 2021-04-05 04:05:57]:   [, Level 0]: Foxie♥: Kirito: Cylox.♥ is a very good member
+[logs/05-04-21.txt, 2021-04-05 04:06:33]: ***  [, Level 0]: (2)Kirito is on a killing spree with 5 blocks
