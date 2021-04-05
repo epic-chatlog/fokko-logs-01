@@ -14073,3 +14073,6 @@
 [logs/04-04-21.txt, 2021-04-04 17:35:15]: Who B) [no u, Level 0]: XD
 [logs/04-04-21.txt, 2021-04-04 17:35:17]: Nudelsaft c: [FookinLads, Level 37]: x7|FayZoR: nah, u lost 2v1 so many times
 [logs/04-04-21.txt, 2021-04-04 17:35:18]: Nudelsaft c: [FookinLads, Level 37]: 3v1 even
+[logs/04-04-21.txt, 2021-04-04 17:35:24]: Nudelsaft c: [FookinLads, Level 37]: cant play without endles
+[logs/04-04-21.txt, 2021-04-04 17:35:25]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: u lose xD
+[logs/04-04-21.txt, 2021-04-04 17:35:25]: Nudelsaft c: [FookinLads, Level 37]: s
