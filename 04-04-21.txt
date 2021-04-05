@@ -14176,3 +14176,7 @@
 [logs/04-04-21.txt, 2021-04-04 17:53:53]: x7|KshKsh99 [xSD7, Level 37]: shot me
 [logs/04-04-21.txt, 2021-04-04 17:54:22]: x7|KshKsh99 [xSD7, Level 37]: jump with me
 [logs/04-04-21.txt, 2021-04-04 17:54:22]: x7|KshKsh99 [xSD7, Level 37]: jump with me
+[logs/04-04-21.txt, 2021-04-04 17:55:42]: ***  [, Level 0]: 'Swarfey' joined the spectators
+[logs/04-04-21.txt, 2021-04-04 17:55:42]: ***  [, Level 0]: 'Swarfey' joined the spectators
+[logs/04-04-21.txt, 2021-04-04 17:55:46]: ***  [, Level 0]: 'Swarfey' joined the game
+[logs/04-04-21.txt, 2021-04-04 17:55:46]: ***  [, Level 0]: 'Swarfey' joined the game
