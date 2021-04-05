@@ -2800,3 +2800,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:06:08]: Fearless [FookinLads, Level 40]: HeavyGeneral:  i leave clan too much traitor
 [logs/05-04-21.txt, 2021-04-05 03:06:19]: Fearless [, Level 40]: TimePause:  help
 [logs/05-04-21.txt, 2021-04-05 03:06:19]: ***  [, Level 0]: '(1)RoberGN' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:06:29]: BulgarianTee [CleanUpCrew, Level 38]: E
