@@ -3352,3 +3352,9 @@
 [logs/05-04-21.txt, 2021-04-05 03:53:26]: ***  [, Level 0]: 'Sutzer' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:53:26]: ***  [, Level 0]: '[D] Sutzer' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:53:29]:   [, Level 0]: x7|zemer: x7|FayZoR: Its ok
+[logs/05-04-21.txt, 2021-04-05 03:53:33]:   [, Level 0]: HeavyGeneral: keø: me rq
+[logs/05-04-21.txt, 2021-04-05 03:53:35]:   [, Level 0]: x7|zemer: sry
+[logs/05-04-21.txt, 2021-04-05 03:53:38]:   [, Level 0]: Foxie♥: HeavyGeneral: baiii
+[logs/05-04-21.txt, 2021-04-05 03:53:40]: ***  [, Level 0]: 'Sky`iPro' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:53:43]: ►AmirianYA◄ [YARIMINAღ, Level 0]: RQ
+[logs/05-04-21.txt, 2021-04-05 03:53:45]:   [, Level 0]: HeavyGeneral: Foxie♥: keø bb
