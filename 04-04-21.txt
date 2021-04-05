@@ -15440,3 +15440,7 @@
 [logs/04-04-21.txt, 2021-04-04 23:44:21]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 23:44:30]: Vodo4ka [JB.st, Level 41]: XDD
 [logs/04-04-21.txt, 2021-04-04 23:44:35]: Vodo4ka [JB.st, Level 41]: DJAS
+[logs/04-04-21.txt, 2021-04-04 23:44:41]: comic [comically, Level 12]: oyun krallı: bruh
+[logs/04-04-21.txt, 2021-04-04 23:44:43]: ***  [, Level 0]: '(1)oyun krallı' has left the game
+[logs/04-04-21.txt, 2021-04-04 23:44:50]: Wheels. [, Level 31]: where
+[logs/04-04-21.txt, 2021-04-04 23:44:51]: PoliceTee [xSD7, Level 25]: now let me afk loxo4ka and madlike
