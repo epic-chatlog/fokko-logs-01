@@ -14009,3 +14009,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:19:19]: x7|FayZoR [xSD7, Level 42]: AHAHAHAHAH
 [logs/04-04-21.txt, 2021-04-04 17:20:03]: x7|FayZoR [xSD7, Level 42]: xD
 [logs/04-04-21.txt, 2021-04-04 17:20:07]: ***  [, Level 0]: x7|FayZoR is on a killing spree with 5 blocks
+[logs/04-04-21.txt, 2021-04-04 17:20:37]: ***  [, Level 0]: 'Who B)' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:20:37]: x7|FayZoR [xSD7, Level 42]: yXDDD
