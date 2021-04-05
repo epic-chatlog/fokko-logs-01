@@ -14713,3 +14713,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:18:01]: ***  [, Level 0]: 'BulgarianTee' changed name to 'BaguetTee'
 [logs/04-04-21.txt, 2021-04-04 22:18:06]: PoliceTee [xSD7, Level 0]: now its the same
 [logs/04-04-21.txt, 2021-04-04 22:18:11]: (3)SAUD [, Level 8]: WHAT
+[logs/04-04-21.txt, 2021-04-04 22:18:20]: BaguetTee [France, Level 38]: E
+[logs/04-04-21.txt, 2021-04-04 22:18:22]: (3)SAUD [, Level 8]: that was ur name back then?
