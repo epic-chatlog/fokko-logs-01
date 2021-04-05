@@ -2404,3 +2404,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:29:24]: Kirito [Chilli.*, Level 34]: BC|Tixnix: nice
 [logs/05-04-21.txt, 2021-04-05 02:29:35]: ***  [, Level 0]: 'koro' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:29:47]: ***  [, Level 0]: '(1)Friendiship ;' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:29:51]: ***  [, Level 0]: 'GOLD' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:29:53]: Fearless [FookinLads, Level 40]: RoberGN:  kill Tixnix
+[logs/05-04-21.txt, 2021-04-05 02:30:00]: Fearless [FookinLads, Level 40]: RoberGN:  war?
