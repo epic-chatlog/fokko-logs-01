@@ -2307,3 +2307,4 @@
 [logs/05-04-21.txt, 2021-04-05 02:22:55]: BulgarianTee [CleanUpCrew, Level 38]: XD
 [logs/05-04-21.txt, 2021-04-05 02:22:59]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: xD
 [logs/05-04-21.txt, 2021-04-05 02:23:01]: BulgarianTee [CleanUpCrew, Level 38]: and then just one grenade and poof - in freeze
+[logs/05-04-21.txt, 2021-04-05 02:23:04]: ***  [, Level 0]: '[D] Fearless' has left the game
