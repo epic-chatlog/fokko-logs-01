@@ -3182,3 +3182,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:37:13]: ***  [, Level 0]: 'delta' joined the game
 [logs/05-04-21.txt, 2021-04-05 03:37:22]: ***  [, Level 0]: 'SAUD' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:37:22]: ***  [, Level 0]: '(1)SAUD' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:37:46]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
