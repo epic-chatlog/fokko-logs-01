@@ -2663,3 +2663,7 @@
 [logs/05-04-21.txt, 2021-04-05 02:52:14]: ***  [, Level 0]: 'HeavyGeneral' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 02:52:17]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: no, who u target in x7 are traitor ?
 [logs/05-04-21.txt, 2021-04-05 02:52:18]: BulgarianTee [CleanUpCrew, Level 38]: yoo HeavyGeneral
+[logs/05-04-21.txt, 2021-04-05 02:52:23]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: GODLIKe
+[logs/05-04-21.txt, 2021-04-05 02:52:29]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: he is traitor X
+[logs/05-04-21.txt, 2021-04-05 02:52:30]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: he are not x7
+[logs/05-04-21.txt, 2021-04-05 02:52:30]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: he is traitor Xd
