@@ -3788,3 +3788,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:20:18]: ***  [, Level 0]: 'Cylox♥' has left the game
 [logs/05-04-21.txt, 2021-04-05 04:20:28]: ***  [, Level 0]: 'Lucas' has left the game (Timeout)
 [logs/05-04-21.txt, 2021-04-05 04:20:49]:   [, Level 0]: Foxi♥: kais: u attack fayzor?
+[logs/05-04-21.txt, 2021-04-05 04:21:00]: ***  [, Level 0]: '[D] BC|kakashi' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:21:01]: ***  [, Level 0]: 'BC|kakashi' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:21:03]: |ΛnץOиe| [, Level 0]: ♫Amirian♬: baha fucker
+[logs/05-04-21.txt, 2021-04-05 04:21:04]: Isegrin [, Level 54]: |ΛnץOиe|: hielp ;-d
