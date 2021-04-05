@@ -14560,3 +14560,5 @@
 [logs/04-04-21.txt, 2021-04-04 21:57:52]: weqe [MNKY, Level 11]: BulgarianTee: how old u
 [logs/04-04-21.txt, 2021-04-04 21:57:59]: PoliceTee [xSD7, Level 0]: 14
 [logs/04-04-21.txt, 2021-04-04 21:58:05]: weqe [MNKY, Level 11]: nice
+[logs/04-04-21.txt, 2021-04-04 21:58:14]: PoliceTee [xSD7, Level 0]: too much school
+[logs/04-04-21.txt, 2021-04-04 21:58:20]: weqe [MNKY, Level 11]: indeed
