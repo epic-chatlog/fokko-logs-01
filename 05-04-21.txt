@@ -1700,3 +1700,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:41:47]: Kirito [Chilli.*, Level 34]: Leblebi: idk if i can trust you. will u kill kais ?
 [logs/05-04-21.txt, 2021-04-05 01:41:48]: oyun krallı [, Level 11]: KNK BUG TAKİLRİNİ ÖLDÜREKMİ CYLOX
 [logs/05-04-21.txt, 2021-04-05 01:41:54]: x7|FayZoR [xSD7, Level 42]: Kirito: can come ?
+[logs/05-04-21.txt, 2021-04-05 01:41:56]: Cylox [, Level 30]: oyun krallı: sıktıer gıt
+[logs/05-04-21.txt, 2021-04-05 01:41:59]: oyun krallı [, Level 11]: VARMI
+[logs/05-04-21.txt, 2021-04-05 01:42:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[logs/05-04-21.txt, 2021-04-05 01:42:00]: Hady [new bot, Level 0]: x7|FayZoR:  i war with him 1 year i don't want more
