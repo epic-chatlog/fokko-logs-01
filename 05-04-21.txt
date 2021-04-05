@@ -4589,3 +4589,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:09:43]: ♫Amirian♬ [, Level 29]: go help me cookie
 [logs/05-04-21.txt, 2021-04-05 05:09:46]: cookie [, Level 16]: yes
 [logs/05-04-21.txt, 2021-04-05 05:10:00]: ChillerDragon.* [Chilli.*, Level 41]: ZillyDreck: I am currently afk.
+[logs/05-04-21.txt, 2021-04-05 05:10:30]: ***  [, Level 0]: 'weqe' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:10:33]: ♫Amirian♬ [, Level 29]: yeeeeeeeeeeeeeeeeeeees
+[logs/05-04-21.txt, 2021-04-05 05:10:33]: cookie [, Level 16]: easy
