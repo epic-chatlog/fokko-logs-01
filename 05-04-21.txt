@@ -3348,3 +3348,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:52:58]:   [, Level 0]: Foxie♥: koro: ?
 [logs/05-04-21.txt, 2021-04-05 03:53:07]: ►AmirianYA◄ [YARIMINAღ, Level 0]: Ƭevan:
 [logs/05-04-21.txt, 2021-04-05 03:53:12]:   [, Level 0]: x7|zemer: x7|FayZoR: ?
+[logs/05-04-21.txt, 2021-04-05 03:53:23]: x7|FayZoR [xSD7, Level 42]: x7|zemer: sorry too much people
+[logs/05-04-21.txt, 2021-04-05 03:53:26]: ***  [, Level 0]: 'Sutzer' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:53:26]: ***  [, Level 0]: '[D] Sutzer' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:53:29]:   [, Level 0]: x7|zemer: x7|FayZoR: Its ok
