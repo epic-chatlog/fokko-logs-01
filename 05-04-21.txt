@@ -13170,3 +13170,4 @@
 [2021-04-05 14:16:39]: kais [clan, Level 65]: x7|Chronos: alors, si y'avais personne a coté je comprend
 [2021-04-05 14:16:59]: Isegrin [, Level 54]: (2)Kirito♥: D:
 [2021-04-05 14:16:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-05 14:17:14]: ***  [, Level 0]: '_Berk_' has left the game (Too weak connection (not acked for 60 seconds))
