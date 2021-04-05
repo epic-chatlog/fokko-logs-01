@@ -14401,3 +14401,4 @@
 [logs/04-04-21.txt, 2021-04-04 18:36:05]: ***  [, Level 0]: '(1)Mr.KshKsh99' has left the game
 [logs/04-04-21.txt, 2021-04-04 18:36:28]: ***  [, Level 0]: 'Mr.KshKsh99' has left the game
 [logs/04-04-21.txt, 2021-04-04 18:36:32]: x7|KshKsh99 [xSD7, Level 37]: XD
+[logs/04-04-21.txt, 2021-04-04 18:36:45]: x7|KshKsh99 [xSD7, Level 37]: see you later XD
