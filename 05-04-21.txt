@@ -615,3 +615,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:46:10]: (1)SAUD [, Level 0]: this fckin internet
 [logs/05-04-21.txt, 2021-04-05 00:46:10]: ***  [, Level 0]: 'SAUD' has left the game (Timeout)
 [logs/05-04-21.txt, 2021-04-05 00:46:12]: mamikral011 [, Level 26]: (1)kais:
+[logs/05-04-21.txt, 2021-04-05 00:46:18]: (1)kais [, Level 58]: mamikral011: if people want to kill you i can't help
+[logs/05-04-21.txt, 2021-04-05 00:46:19]: mamikral011 [, Level 26]: (1)kais: bro
