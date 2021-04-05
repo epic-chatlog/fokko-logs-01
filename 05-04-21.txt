@@ -2289,3 +2289,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:21:15]: [D] BC|Tixnix [BC, Level 3]: BulgarianTee:
 [logs/05-04-21.txt, 2021-04-05 02:21:16]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: hm then its strange why you have pingspikes.. i have cable at my apartment - never pingspike
 [logs/05-04-21.txt, 2021-04-05 02:21:18]: ***  [, Level 0]: 'RoberGN' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:21:38]: x7|FayZoR [xSD7, Level 42]: BulgarianTee: idk, that just anoying and let random think are good
+[logs/05-04-21.txt, 2021-04-05 02:21:45]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: true Xd
