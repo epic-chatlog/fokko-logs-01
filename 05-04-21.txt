@@ -4560,3 +4560,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:04:04]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: i just wanted come in my plot afk after
 [logs/05-04-21.txt, 2021-04-05 05:04:07]: ***  [, Level 0]: 'Lucas' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:04:17]: x7|FayZoR [xSD7, Level 42]: Nudelsaft c:: xD if u want
+[logs/05-04-21.txt, 2021-04-05 05:04:34]: ***  [, Level 0]: 'Virus' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:04:34]: ***  [, Level 0]: 'Isegrin' has left the game
