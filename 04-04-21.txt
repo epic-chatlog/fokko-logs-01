@@ -14368,3 +14368,4 @@
 [logs/04-04-21.txt, 2021-04-04 18:27:16]: (1)x7|KshKsh99 [xSD7, Level 0]: XDDDDDDD
 [logs/04-04-21.txt, 2021-04-04 18:27:23]: x7|FayZoR [xSD7, Level 42]: he fail ? XDDDDD
 [logs/04-04-21.txt, 2021-04-04 18:27:42]: x7|FayZoR [xSD7, Level 42]: XDDDDDDDDD
+[logs/04-04-21.txt, 2021-04-04 18:27:50]: x7|FayZoR [xSD7, Level 42]: he use that, im dead
