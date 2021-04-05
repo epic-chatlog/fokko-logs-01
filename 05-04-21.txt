@@ -2899,3 +2899,6 @@
 [logs/05-04-21.txt, 2021-04-05 03:19:00]: RoberGN [, Level 0]: no
 [logs/05-04-21.txt, 2021-04-05 03:19:16]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:19:27]: Cylox [, Level 0]: adamları dıkene ata kmı
+[logs/05-04-21.txt, 2021-04-05 03:19:42]: ***  [, Level 0]: 'Cylox.' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:19:43]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:19:46]: ***  [, Level 0]: 'STULEJA 3000' joined the game
