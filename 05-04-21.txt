@@ -2337,3 +2337,7 @@
 [logs/05-04-21.txt, 2021-04-05 02:25:20]: Sutzer [Guard, Level 0]: yeee noname xD
 [logs/05-04-21.txt, 2021-04-05 02:25:25]: Sutzer [Guard, Level 0]: bruuh xD
 [logs/05-04-21.txt, 2021-04-05 02:25:34]: [D] BC|Tixnix [BC, Level 3]: x7|FayZoR:
+[logs/05-04-21.txt, 2021-04-05 02:25:52]: ***  [, Level 0]: 'ZEWO' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:25:52]: BulgarianTee [CleanUpCrew, Level 38]: weqe: x7|FayZoR: you understand that we survived out of pure luck yeah XD?
+[logs/05-04-21.txt, 2021-04-05 02:25:53]: Kirito [Chilli.*, Level 34]: x7|FayZoR: please up
+[logs/05-04-21.txt, 2021-04-05 02:25:55]: [D] BC|Tixnix [BC, Level 3]: Kirito: dein lieblies freund kommt :D
