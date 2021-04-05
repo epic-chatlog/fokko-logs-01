@@ -1901,3 +1901,5 @@
 [logs/05-04-21.txt, 2021-04-05 01:55:02]: (1)SAUD [, Level 22]: Royal:  ibra?
 [logs/05-04-21.txt, 2021-04-05 01:55:12]: weqe [MNKY, Level 11]: oyun krallı:
 [logs/05-04-21.txt, 2021-04-05 01:55:15]: (1)kais [, Level 58]: x7|FayZoR: franchement, pourais etre bien plus cancer
+[logs/05-04-21.txt, 2021-04-05 01:55:26]: x7|FayZoR [xSD7, Level 42]: kais: et comment ? tu ma voler 100k
+[logs/05-04-21.txt, 2021-04-05 01:55:28]: BulgarianTee [xSD7, Level 38]: kais: cancer language
