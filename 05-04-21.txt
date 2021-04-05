@@ -2274,3 +2274,4 @@
 [logs/05-04-21.txt, 2021-04-05 02:19:22]: BulgarianTee [CleanUpCrew, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 02:19:30]: x7|FayZoR [xSD7, Level 42]: if he cancel freeze
 [logs/05-04-21.txt, 2021-04-05 02:19:39]: ***  [, Level 0]: 'Sutzer' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 02:19:43]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
