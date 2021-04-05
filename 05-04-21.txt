@@ -4525,3 +4525,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:01:01]: MieSlime [FookinLads, Level 43]: koro:  weqe  t'avais kill
 [logs/05-04-21.txt, 2021-04-05 05:01:01]: ***  [, Level 0]: 'HeavyGeneral' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:01:02]: cookie [, Level 16]: love
+[logs/05-04-21.txt, 2021-04-05 05:01:18]: cookie [, Level 16]: nooo
+[logs/05-04-21.txt, 2021-04-05 05:01:21]: ***  [, Level 0]: 'Happy cat' has left the game
