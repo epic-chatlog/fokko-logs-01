@@ -12012,3 +12012,5 @@
 [2021-04-05 12:34:21]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-05 12:34:23]: mamikral011 [, Level 21]: warh?
 [2021-04-05 12:34:45]: (1)|HolyHo|° [, Level 6]: hi Nudelsaft c:
+[2021-04-05 12:34:57]: Nudelsaft c: [FookinLads, Level 37]: yo
+[2021-04-05 12:34:57]: ***  [, Level 0]: s7_sven is on a killing spree with 5 blocks
