@@ -1745,3 +1745,5 @@
 [logs/05-04-21.txt, 2021-04-05 01:44:14]: Hady [new bot, Level 0]: BulgarianTee:  yea
 [logs/05-04-21.txt, 2021-04-05 01:44:15]: [D] Leblebi [, Level 18]: xd
 [logs/05-04-21.txt, 2021-04-05 01:44:19]: [D] Leblebi [, Level 18]: grenade
+[logs/05-04-21.txt, 2021-04-05 01:44:24]: Kirito [Chilli.*, Level 34]: Cylox:
+[logs/05-04-21.txt, 2021-04-05 01:44:28]: Kirito [Chilli.*, Level 34]: Cylox: x7|FayZoR down pls
