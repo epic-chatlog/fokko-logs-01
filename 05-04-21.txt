@@ -11890,3 +11890,9 @@
 [2021-04-05 12:17:07]: [D] mamikral011 [, Level 26]: Kirito: my win hahah
 [2021-04-05 12:17:14]: [D] ✯ |toxicd [|Supressed, Level 21]: mamikral011:
 [2021-04-05 12:17:21]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-05 12:17:26]: ***  [, Level 0]: '[D] falkenauge' entered and joined the game
+[2021-04-05 12:17:27]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-05 12:17:29]: [D] mamikral011 [, Level 26]: HardreenClutch: :D
+[2021-04-05 12:17:30]: |HolyHo| [, Level 28]: hi bob
+[2021-04-05 12:17:32]: ***  [, Level 0]: '[D] falkenauge' has left the game
+[2021-04-05 12:17:32]: ***  [, Level 0]: 'falkenauge' has left the game
