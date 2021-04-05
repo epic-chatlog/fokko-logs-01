@@ -4721,3 +4721,4 @@
 [logs/05-04-21.txt, 2021-04-05 05:27:49]: wαrнαммer [, Level 26]: mami:  ALSANA OLN
 [logs/05-04-21.txt, 2021-04-05 05:27:50]: Kezo [FookinLads, Level 41]: wαrнαммer: mc den çıktım hiç oynayamıyom ab
 [logs/05-04-21.txt, 2021-04-05 05:28:01]: ***  [, Level 0]: 'rexi' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:28:21]: Kiøn1029 [.bad, Level 31]: monke
