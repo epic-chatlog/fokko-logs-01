@@ -11888,3 +11888,5 @@
 [2021-04-05 12:17:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-05 12:17:00]: ***  [, Level 0]: 'power' has left the game
 [2021-04-05 12:17:07]: [D] mamikral011 [, Level 26]: Kirito: my win hahah
+[2021-04-05 12:17:14]: [D] ✯ |toxicd [|Supressed, Level 21]: mamikral011:
+[2021-04-05 12:17:21]: ***  [, Level 0]: 'bob' entered and joined the game
