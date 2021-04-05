@@ -14639,3 +14639,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:08:43]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 22:09:12]: ***  [, Level 0]: '[D] Boti.' has left the game
 [logs/04-04-21.txt, 2021-04-04 22:10:50]: PoliceTee [xSD7, Level 0]: E
+[logs/04-04-21.txt, 2021-04-04 22:11:01]: Boti. [.bad, Level 32]: do you know n1kor from the blmappepe server?
