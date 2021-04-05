@@ -13121,3 +13121,5 @@
 [2021-04-05 14:11:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-05 14:12:01]: ERROR. [404, Level 74]: verdient
 [2021-04-05 14:12:01]: x7|FayZoR [xSD7, Level 42]: :O + 39k
+[2021-04-05 14:12:16]: ERROR. [404, Level 74]: x7|FayZoR:  i help u if u want fuck swarfey ;)
+[2021-04-05 14:12:17]: kais [arenub, Level 65]: x7|FayZoR: et après ça parle de moi ...
