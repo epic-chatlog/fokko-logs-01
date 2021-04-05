@@ -3144,3 +3144,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:35:06]: [D] BC|Tixnix [BC, Level 0]: koro:
 [logs/05-04-21.txt, 2021-04-05 03:35:06]: ***  [, Level 0]: 'delta' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 03:35:11]: »Amirian YA« [YAMIRIANA�, Level 29]: yeser
+[logs/05-04-21.txt, 2021-04-05 03:35:19]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:35:19]: BulgarianTee [CleanUpCrew, Level 38]: Shiro.: ...
+[logs/05-04-21.txt, 2021-04-05 03:35:24]: ***  [, Level 0]: 'SlerTz!' changed name to 'SlerTz!♥'
+[logs/05-04-21.txt, 2021-04-05 03:35:24]: ***  [, Level 0]: 'STULEJA 3000' joined the game
