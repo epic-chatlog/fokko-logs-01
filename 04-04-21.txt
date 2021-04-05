@@ -14237,3 +14237,4 @@
 [logs/04-04-21.txt, 2021-04-04 18:02:08]: Mr.KshKsh99 [xSD7, Level 0]: x7|FayZoR: what if we use 6 dummy to block Kirito
 [logs/04-04-21.txt, 2021-04-04 18:02:11]: Mr.KshKsh99 [xSD7, Level 0]: with grenade
 [logs/04-04-21.txt, 2021-04-04 18:02:14]: Mr.KshKsh99 [xSD7, Level 0]: come
+[logs/04-04-21.txt, 2021-04-04 18:02:32]: ***  [, Level 0]: '(1)x7|KshKsh99' entered and joined the game
