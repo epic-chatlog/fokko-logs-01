@@ -2969,3 +2969,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:24:57]: oyun krallı [, Level 11]: lan 8 jump almayı unutmusum
 [logs/05-04-21.txt, 2021-04-05 03:24:57]: ChillerDragon.* [|*KoG*|, Level 41]: can u not wb YelloWorlD
 [logs/05-04-21.txt, 2021-04-05 03:25:01]: (1)Rock [, Level 13]: ManniK:
+[logs/05-04-21.txt, 2021-04-05 03:25:04]: Cylox. [♥, Level 0]: xd
+[logs/05-04-21.txt, 2021-04-05 03:25:10]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:25:13]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:25:13]: ***  [, Level 0]: 'STULEJA 3000' joined the game
