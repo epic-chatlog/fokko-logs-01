@@ -3444,3 +3444,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:59:55]: ***  [, Level 0]: '»Amirian YA«' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:59:55]:   [, Level 0]: Foxie♥: Kirito: kill well get im
 [logs/05-04-21.txt, 2021-04-05 03:59:56]: Kirito [♥, Level 35]: Shiro.:  WHY
+[logs/05-04-21.txt, 2021-04-05 03:59:59]: ***  [, Level 0]: 'Foxi♥' has left the game
+[logs/05-04-21.txt, 2021-04-05 04:00:02]:   [, Level 0]: weqe: Ƭevan: are you my poka friend ?
+[logs/05-04-21.txt, 2021-04-05 04:00:03]: Cylox♥ [♥, Level 30]: Shiro.: whyy
+[logs/05-04-21.txt, 2021-04-05 04:00:03]: Kirito [♥, Level 35]: Shiro.: i raped ur mom last nigh
