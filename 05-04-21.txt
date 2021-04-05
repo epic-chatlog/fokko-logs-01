@@ -5213,3 +5213,11 @@
 [2021-04-05 06:04:10]: Boti. [.bad, Level 32]: no
 [2021-04-05 06:04:11]: (1)1 [, Level 3]: boti help
 [2021-04-05 06:04:14]: ERROR [404, Level 56]: kannst mit einem farmen
+[2021-04-05 06:04:15]: (1)1 [, Level 3]: boti. help
+[2021-04-05 06:04:22]: (1)1 [, Level 3]: Boti. help
+[2021-04-05 06:04:22]: Vodo4ka [JB.st, Level 41]: ✯ |toxicdaddy:
+[2021-04-05 06:04:23]: (1)1 [, Level 3]: Boti. help
+[2021-04-05 06:04:25]: x7|FayZoR [xSD7, Level 42]: kais: tu sais le plus drole ?
+[2021-04-05 06:04:26]: (1)1 [, Level 3]: Boti. help
+[2021-04-05 06:04:26]: mami [, Level 0]: hi is back
+[2021-04-05 06:04:27]: (1)1 [, Level 3]: Boti. help
