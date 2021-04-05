@@ -1974,3 +1974,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:59:05]: Leblebi [, Level 23]: weqe: help me .d
 [logs/05-04-21.txt, 2021-04-05 01:59:06]: Kirito [Chilli.*, Level 34]: serwan: portal
 [logs/05-04-21.txt, 2021-04-05 01:59:13]: ***  [, Level 0]: 'Idk' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:59:22]: BulgarianTee [Chilli.*, Level 38]: oops Xd
+[logs/05-04-21.txt, 2021-04-05 01:59:26]: (1)kais [, Level 58]: t
+[logs/05-04-21.txt, 2021-04-05 01:59:27]: Leblebi [, Level 23]: weqe: i want help yıu
+[logs/05-04-21.txt, 2021-04-05 01:59:31]: Leblebi [, Level 23]: weqe: i want help you
