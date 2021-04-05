@@ -14721,3 +14721,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:18:32]: (3)SAUD [, Level 8]: xD
 [logs/04-04-21.txt, 2021-04-04 22:18:33]: BaguetTee [France, Level 38]: and i was also some other names
 [logs/04-04-21.txt, 2021-04-04 22:18:36]: (3)SAUD [, Level 8]: cringe
+[logs/04-04-21.txt, 2021-04-04 22:18:41]: BaguetTee [France, Level 38]: my skin was not this
+[logs/04-04-21.txt, 2021-04-04 22:18:41]: Boti. [.bad, Level 32]: i thought baguetee was your dummy name back then
+[logs/04-04-21.txt, 2021-04-04 22:18:46]: PoliceTee [xSD7, Level 0]: Boti.: nah
