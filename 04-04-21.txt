@@ -14688,3 +14688,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:15:38]: PoliceTee [xSD7, Level 0]: Boti.: NONAME AF
 [logs/04-04-21.txt, 2021-04-04 22:15:43]: Boti. [.bad, Level 32]: XDDDDDD
 [logs/04-04-21.txt, 2021-04-04 22:15:52]: PoliceTee [xSD7, Level 0]: Boti.: i thought you joined like early 2020, late 2019
+[logs/04-04-21.txt, 2021-04-04 22:15:57]: Boti. [.bad, Level 32]: XDDDDD
+[logs/04-04-21.txt, 2021-04-04 22:16:01]: PoliceTee [xSD7, Level 0]: Boti.: i must be confusing u with someone
