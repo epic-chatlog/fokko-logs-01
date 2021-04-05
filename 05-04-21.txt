@@ -1005,3 +1005,5 @@
 [logs/05-04-21.txt, 2021-04-05 01:06:58]: Boti. [.bad, Level 27]: kais: DUMBASS
 [logs/05-04-21.txt, 2021-04-05 01:07:00]: BulgarianTee [xSD7, Level 38]: x7|FayZoR: my PC is weak af kais can turn on rainbow and bloody and my PC is dead
 [logs/05-04-21.txt, 2021-04-05 01:07:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[logs/05-04-21.txt, 2021-04-05 01:07:08]: BulgarianTee [xSD7, Level 38]: KG | Kirito: no i was in /spec cheering for you the entire time :D
+[logs/05-04-21.txt, 2021-04-05 01:07:09]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
