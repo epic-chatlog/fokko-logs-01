@@ -2812,3 +2812,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:07:59]: Fearless [, Level 40]: TimePause:  help im with you guys omg
 [logs/05-04-21.txt, 2021-04-05 03:07:59]: TimePause's nub [xSD7, Level 0]: bad
 [logs/05-04-21.txt, 2021-04-05 03:08:12]: BulgarianTee [CleanUpCrew, Level 38]: E
+[logs/05-04-21.txt, 2021-04-05 03:08:15]: Ƭevan [TrRShClNrRs, Level 48]: aaaa lags
+[logs/05-04-21.txt, 2021-04-05 03:08:24]: PoliceTee [xSD7, Level 25]: gay
