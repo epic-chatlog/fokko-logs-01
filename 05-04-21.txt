@@ -5165,3 +5165,13 @@
 [2021-04-05 06:02:39]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
 [2021-04-05 06:02:40]: ***  [, Level 0]: Successfully logged in
 [2021-04-05 06:02:40]: ***  [, Level 0]: [WARNING] You did not set security pin yet. Check '/pin' for more information.
+[2021-04-05 06:02:46]: ai9u7wgreauiwgh [eiuawhrf, Level 24]: Swarfey: blub
+[2021-04-05 06:02:49]: Boti. [.bad, Level 32]: BRUH
+[2021-04-05 06:02:51]: ERROR. [404, Level 73]: ✯ |toxicdaddy:  ist mir egal
+[2021-04-05 06:02:52]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-05 06:02:53]: x7|FayZoR [xSD7, Level 42]: kais: et sans ton dummi mdr
+[2021-04-05 06:02:55]: ***  [, Level 0]: '(1)chillerdagorn' entered and joined the game
+[2021-04-05 06:02:55]: ***  [, Level 0]: '(1)ai9u7wgreauiw' entered and joined the game
+[2021-04-05 06:02:55]: ***  [, Level 0]: '(1)ai9u7wgreauiw' entered and joined the game
+[2021-04-05 06:02:55]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
+[2021-04-05 06:02:56]: ***  [, Level 0]: This account is already logged in
