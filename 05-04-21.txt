@@ -2864,3 +2864,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:16:21]: ***  [, Level 0]: '(1)oyun krallı' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:16:24]: ***  [, Level 0]: 'any' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:16:27]: YelloWorlD [404, Level 37]: BulgarianTee: u pussy cant raid solo
+[logs/05-04-21.txt, 2021-04-05 03:16:40]: Fearless [, Level 40]: YelloWorlD:  yeah cuz u guys 4v1 taser
+[logs/05-04-21.txt, 2021-04-05 03:16:43]: BulgarianTee [CleanUpCrew, Level 38]: pussy says a guy with portal and taserspam?
+[logs/05-04-21.txt, 2021-04-05 03:16:44]: BulgarianTee [CleanUpCrew, Level 38]: nice
+[logs/05-04-21.txt, 2021-04-05 03:16:47]: Fearless [, Level 40]: YelloWorlD:  + double portal
