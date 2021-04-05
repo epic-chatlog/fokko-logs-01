@@ -10,3 +10,4 @@
 [logs/05-04-21.txt, 2021-04-05 00:01:01]: Vodo4ka [JB.st, Level 41]: o,g
 [logs/05-04-21.txt, 2021-04-05 00:01:03]: Vodo4ka [JB.st, Level 41]: AFK KILL
 [logs/05-04-21.txt, 2021-04-05 00:01:04]: Vodo4ka [JB.st, Level 41]: HMMM
+[logs/05-04-21.txt, 2021-04-05 00:01:29]: Vodo4ka [JB.st, Level 41]: GODLIKe:  +4768 thx
