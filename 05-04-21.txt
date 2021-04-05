@@ -1691,3 +1691,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:41:23]: BulgarianTee [xSD7, Level 38]: kais: war
 [logs/05-04-21.txt, 2021-04-05 01:41:30]: oyun krallı [, Level 11]: KNK BUG TAKİLRİNİ ÖLDÜREKMİ
 [logs/05-04-21.txt, 2021-04-05 01:41:30]: Hady [new bot, Level 0]: x7|FayZoR:  who
+[logs/05-04-21.txt, 2021-04-05 01:41:36]: x7|FayZoR [xSD7, Level 42]: Cylox:
+[logs/05-04-21.txt, 2021-04-05 01:41:36]: oyun krallı [, Level 11]: KNK BUG TAKİLRİNİ ÖLDÜREKMİ
+[logs/05-04-21.txt, 2021-04-05 01:41:40]: x7|FayZoR [xSD7, Level 42]: Cylox: sorry tired
+[logs/05-04-21.txt, 2021-04-05 01:41:44]: x7|FayZoR [xSD7, Level 42]: Hady: kais
