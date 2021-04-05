@@ -12032,3 +12032,5 @@
 [2021-04-05 12:37:17]: [D] ✯ |toxicd [|Supressed, Level 21]: Keø:
 [2021-04-05 12:37:20]: (1)|HolyHo|° [, Level 6]: (3)kais: pay taxes
 [2021-04-05 12:37:29]: (2)kais [, Level 0]: (1)|HolyHo|°: i send by banl
+[2021-04-05 12:37:32]: ***  [, Level 0]: [D] ✯ |toxicd's killing spree was ended by Nudelsaft c: (5 blocks)
+[2021-04-05 12:37:36]: ***  [, Level 0]: 'king d+' entered and joined the game
