@@ -1649,3 +1649,7 @@
 [logs/05-04-21.txt, 2021-04-05 01:38:25]: Kirito [Chilli.*, Level 34]: kais: fuck you and kys
 [logs/05-04-21.txt, 2021-04-05 01:38:30]: Hady [new bot, Level 0]: Kirito:   no i can't
 [logs/05-04-21.txt, 2021-04-05 01:38:31]: (1)kais [, Level 58]: (1)Kirito: it's just a game, stop raging
+[logs/05-04-21.txt, 2021-04-05 01:38:48]: Leblebi [, Level 23]: x7|FayZoR: sorry
+[logs/05-04-21.txt, 2021-04-05 01:38:51]: Leblebi [, Level 23]: kais: sorry
+[logs/05-04-21.txt, 2021-04-05 01:38:52]: oyun krallı [, Level 11]: CYLOX
+[logs/05-04-21.txt, 2021-04-05 01:38:55]: ***  [, Level 0]: 'PoliceTee' finished the special race!
