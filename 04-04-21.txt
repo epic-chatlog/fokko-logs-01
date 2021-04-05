@@ -14811,3 +14811,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:30:47]: (3)SAUD [, Level 8]: PoliceTee:  holy shit
 [logs/04-04-21.txt, 2021-04-04 22:30:49]: PoliceTee [xSD7, Level 0]: exactly
 [logs/04-04-21.txt, 2021-04-04 22:30:52]: Boti. [.bad, Level 27]: just spike error
+[logs/04-04-21.txt, 2021-04-04 22:30:55]: (3)SAUD [, Level 8]: but what id souly joined
+[logs/04-04-21.txt, 2021-04-04 22:31:01]: PoliceTee [xSD7, Level 0]: Boti.: just create Farmhead v3 and ez 3 mil
