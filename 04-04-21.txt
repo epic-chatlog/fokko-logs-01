@@ -14392,3 +14392,6 @@
 [logs/04-04-21.txt, 2021-04-04 18:32:19]: x7|FayZoR [xSD7, Level 42]: XDDD
 [logs/04-04-21.txt, 2021-04-04 18:32:32]: x7|FayZoR [xSD7, Level 42]: (1)Mr.KshKsh99:
 [logs/04-04-21.txt, 2021-04-04 18:33:10]: x7|FayZoR [xSD7, Level 42]: xD
+[logs/04-04-21.txt, 2021-04-04 18:33:47]: Mr.KshKsh99 [xSD7, Level 0]: x7|FayZoR:
+[logs/04-04-21.txt, 2021-04-04 18:33:50]: x7|FayZoR [xSD7, Level 42]: ?
+[logs/04-04-21.txt, 2021-04-04 18:33:52]: Mr.KshKsh99 [xSD7, Level 0]: stop
