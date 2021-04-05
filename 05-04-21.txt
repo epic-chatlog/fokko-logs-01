@@ -4118,3 +4118,8 @@
 [logs/05-04-21.txt, 2021-04-05 04:35:56]: MieSlime [FookinLads, Level 43]: weqe:  no
 [logs/05-04-21.txt, 2021-04-05 04:35:59]: MieSlime [FookinLads, Level 43]: weqe:  u are a traitor
 [logs/05-04-21.txt, 2021-04-05 04:36:03]: mami [, Level 0]: help lpease
+[logs/05-04-21.txt, 2021-04-05 04:36:06]: weqe [MNKY, Level 11]: wtf MieSlime
+[logs/05-04-21.txt, 2021-04-05 04:36:08]: (1)kais [, Level 58]: Shiro.: oui ?
+[logs/05-04-21.txt, 2021-04-05 04:36:08]: MieSlime [FookinLads, Level 43]: weqe:  attack me first
+[logs/05-04-21.txt, 2021-04-05 04:36:09]: BulgarianTee [CleanUpCrew, Level 38]: weqe: move to safer place here shiro can save them ez
+[logs/05-04-21.txt, 2021-04-05 04:36:17]: ***  [, Level 0]: 'Bobcornichon' entered and joined the game
