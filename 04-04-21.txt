@@ -14950,3 +14950,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:46:09]: PoliceTee [xSD7, Level 0]: XDD
 [logs/04-04-21.txt, 2021-04-04 22:46:39]: BulgarianTee [xSD7, Level 38]: E
 [logs/04-04-21.txt, 2021-04-04 22:47:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[logs/04-04-21.txt, 2021-04-04 22:47:35]: ***  [, Level 0]: 'JUSET' has left the game
