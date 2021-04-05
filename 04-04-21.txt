@@ -14024,3 +14024,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:22:06]: ***  [, Level 0]: x7|FayZoR is on a killing spree with 10 blocks
 [logs/04-04-21.txt, 2021-04-04 17:22:07]: x7|KshKsh99 [xSD7, Level 0]: XDDD
 [logs/04-04-21.txt, 2021-04-04 17:22:24]: x7|FayZoR [xSD7, Level 42]: xddddddd
+[logs/04-04-21.txt, 2021-04-04 17:22:57]: x7|FayZoR [xSD7, Level 42]: funny :D
+[logs/04-04-21.txt, 2021-04-04 17:23:01]: x7|KshKsh99 [xSD7, Level 0]: XD
