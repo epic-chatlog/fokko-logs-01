@@ -8624,3 +8624,5 @@
 [2021-04-05 09:25:36]: ***  [, Level 0]: 'Night Team :D' entered and joined the game
 [2021-04-05 09:25:37]: Akuma ♥ [, Level 0]: pew h
 [2021-04-05 09:25:37]: ***  [, Level 0]: 'Sutzer' entered and joined the game
+[2021-04-05 09:25:47]:   [, Level 0]: ERROR.: ChillerDragon:  wer hat gefragt?
+[2021-04-05 09:25:51]: Akuma ♥ [, Level 0]: ERROR:  i will come back
