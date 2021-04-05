@@ -13390,3 +13390,6 @@
 [2021-04-05 14:47:33]: ERROR. [404, Level 74]: ez
 [2021-04-05 14:47:34]: ***  [, Level 0]: '[D] mina' has left the game
 [2021-04-05 14:47:39]: x7|FayZoR [xSD7, Level 42]: OMGV XDDDDDDD
+[2021-04-05 14:47:49]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-05 14:47:52]: x7|FayZoR [xSD7, Level 42]: I MADE XDDDD
+[2021-04-05 14:47:55]: ERROR. [404, Level 74]: xD
