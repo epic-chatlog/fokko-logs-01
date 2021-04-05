@@ -1436,3 +1436,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:26:58]: KG | Kirito [KaisGay, Level 34]: Leblebi: sry
 [logs/05-04-21.txt, 2021-04-05 01:26:59]: comic [comically, Level 13]: Cylox.: i hab question
 [logs/05-04-21.txt, 2021-04-05 01:27:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[logs/05-04-21.txt, 2021-04-05 01:27:03]: comic [comically, Level 13]: Cylox.: what does blocking do
+[logs/05-04-21.txt, 2021-04-05 01:27:05]: weqe [MNKY, Level 11]: KG | Kirito: xDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD , U ARE SO MAD WTF
+[logs/05-04-21.txt, 2021-04-05 01:27:10]: ***  [, Level 0]: 'Kirill200615' has left the game
