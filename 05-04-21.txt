@@ -5139,3 +5139,4 @@
 [logs/05-04-21.txt, 2021-04-05 06:00:08]: ***  [, Level 0]: '[D] ✯ |toxicd' has left the game
 [logs/05-04-21.txt, 2021-04-05 06:00:17]: ***  [, Level 0]: koro's killing spree was ended by (2)ChillerDragon (10 blocks)
 [logs/05-04-21.txt, 2021-04-05 06:00:25]: ***  [, Level 0]: '₯-Akuma-'♥'' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 06:00:31]: Vodo4ka [JB.st, Level 41]: ERROR: WHY U COMING WHEN IM BUSY SUKA
