@@ -422,3 +422,5 @@
 [logs/05-04-21.txt, 2021-04-05 00:36:26]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: BulgarianTee: i srsly love trees
 [logs/05-04-21.txt, 2021-04-05 00:36:31]: BulgarianTee [xSD7, Level 38]: TL|ŦƹƦ$ŦǾN: team trees
 [logs/05-04-21.txt, 2021-04-05 00:36:33]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: BulgarianTee: and nautre itself
+[logs/05-04-21.txt, 2021-04-05 00:36:45]: ***  [, Level 0]: 'Patoche 65' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 00:36:47]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: i hope you have a graet, fantastic day and night and evening BulgarianTee
