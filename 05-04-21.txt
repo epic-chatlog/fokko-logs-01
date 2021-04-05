@@ -3286,3 +3286,7 @@
 [logs/05-04-21.txt, 2021-04-05 03:46:36]: [D] BC|Tixnix [BC, Level 0]: x7|zemer: ja bro wenn ich dir helfe bin ich dead
 [logs/05-04-21.txt, 2021-04-05 03:46:47]: Isegrin [, Level 54]: ►AmirianYA◄: xD
 [logs/05-04-21.txt, 2021-04-05 03:46:48]: (2)Kirito [♥, Level 13]: BC|kakashi:  du bist tixnix oder?
+[logs/05-04-21.txt, 2021-04-05 03:47:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[logs/05-04-21.txt, 2021-04-05 03:47:02]:   [, Level 0]: Pigie♥: (1)Kirito: ur in chilli?
+[logs/05-04-21.txt, 2021-04-05 03:47:06]:   [, Level 0]: BC|kakashi: (2)Kirito: nein ich bin BC|kakashi
+[logs/05-04-21.txt, 2021-04-05 03:47:07]: BulgarianTee [CleanUpCrew, Level 38]: x7|FayZoR: ->
