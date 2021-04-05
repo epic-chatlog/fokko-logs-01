@@ -6483,3 +6483,6 @@
 [2021-04-05 07:24:34]:   [, Level 0]: uts/Koishi: AAA
 [2021-04-05 07:24:35]: ***  [, Level 0]: 'ZEWO' would have timed out, but can use timeout protection now
 [2021-04-05 07:24:40]:   [, Level 0]: uts/Koishi: ty]
+[2021-04-05 07:24:46]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-05 07:24:53]:   [, Level 0]: comic: power: wait keep going i gotta eat my food
+[2021-04-05 07:24:53]: Maatiteusz [TrRShClNrRs, Level 35]: bob: hi
