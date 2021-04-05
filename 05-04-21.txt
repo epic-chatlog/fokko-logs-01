@@ -4950,3 +4950,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:46:38]: KriegInCome [, Level 0]: 0ß
 [logs/05-04-21.txt, 2021-04-05 05:46:41]: x7|FayZoR [xSD7, Level 42]: kais: ouaip
 [logs/05-04-21.txt, 2021-04-05 05:46:43]: KriegInCome [, Level 0]: Kezo:
+[logs/05-04-21.txt, 2021-04-05 05:46:46]: KriegInCome [, Level 0]: i saved you
+[logs/05-04-21.txt, 2021-04-05 05:46:51]: ***  [, Level 0]: '(3)1' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:46:56]: KriegInCome [, Level 0]: Kezo:
+[logs/05-04-21.txt, 2021-04-05 05:46:57]: ***  [, Level 0]: 'S Y T H N' changed name to '(1)σмєтнιηg'
