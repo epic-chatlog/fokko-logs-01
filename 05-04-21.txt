@@ -2862,3 +2862,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:16:18]: ***  [, Level 0]: 'Писька' has left the game
 [logs/05-04-21.txt, 2021-04-05 03:16:18]: BulgarianTee [CleanUpCrew, Level 38]: Fearless: raid
 [logs/05-04-21.txt, 2021-04-05 03:16:21]: ***  [, Level 0]: '(1)oyun krallı' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:16:24]: ***  [, Level 0]: 'any' has left the game
+[logs/05-04-21.txt, 2021-04-05 03:16:27]: YelloWorlD [404, Level 37]: BulgarianTee: u pussy cant raid solo
