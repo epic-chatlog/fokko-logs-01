@@ -1468,3 +1468,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:28:28]: SAUD [, Level 0]: Leblebi:  ist ok
 [logs/05-04-21.txt, 2021-04-05 01:28:28]: BulgarianTee [xSD7, Level 38]: (1)kais: wtf
 [logs/05-04-21.txt, 2021-04-05 01:28:30]: weqe [MNKY, Level 11]: i like u x7|FayZoR
+[logs/05-04-21.txt, 2021-04-05 01:28:32]: KG | Kirito [KaisGay, Level 34]: weqe: alone u cant xD
+[logs/05-04-21.txt, 2021-04-05 01:28:36]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:28:40]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
