@@ -14903,3 +14903,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:39:10]: (3)SAUD [, Level 8]: oyun krallı: bruh
 [logs/04-04-21.txt, 2021-04-04 22:39:13]: (1)oyun krallı [, Level 0]: SAUD:  türk müsün
 [logs/04-04-21.txt, 2021-04-04 22:39:17]: SAUD [, Level 22]: ?????????????
+[logs/04-04-21.txt, 2021-04-04 22:39:18]: Boti. [.bad, Level 27]: günaydin
+[logs/04-04-21.txt, 2021-04-04 22:39:21]: Boti. [.bad, Level 27]: all i know
+[logs/04-04-21.txt, 2021-04-04 22:39:25]: SAUD [, Level 22]: xD
