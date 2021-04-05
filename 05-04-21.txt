@@ -2844,3 +2844,9 @@
 [logs/05-04-21.txt, 2021-04-05 03:15:34]: ***  [, Level 0]: YelloWorlD is on a killing spree with 10 blocks
 [logs/05-04-21.txt, 2021-04-05 03:15:39]: ***  [, Level 0]: 'any' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 03:15:43]: BulgarianTee [CleanUpCrew, Level 38]: Fearless: u here?
+[logs/05-04-21.txt, 2021-04-05 03:15:48]: K҉E҉N҉O҉ [ZzzZzz, Level 3]: hi SAUD  :D
+[logs/05-04-21.txt, 2021-04-05 03:15:49]: ***  [, Level 0]: 'Писька' joined the spectators
+[logs/05-04-21.txt, 2021-04-05 03:15:52]: SAUD [, Level 22]: HI
+[logs/05-04-21.txt, 2021-04-05 03:15:53]: ***  [, Level 0]: '(1)Rock' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 03:15:55]: ***  [, Level 0]: '(2)oyun krallı' joined the game
+[logs/05-04-21.txt, 2021-04-05 03:15:57]: Fearless [, Level 40]: BulgarianTee: what do you think
