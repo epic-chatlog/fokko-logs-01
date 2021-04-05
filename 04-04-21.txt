@@ -14503,3 +14503,5 @@
 [logs/04-04-21.txt, 2021-04-04 20:32:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [logs/04-04-21.txt, 2021-04-04 20:32:13]: (1)SAUD [, Level 15]: ERROR:  tthaTS TAKE SO  LONGG
 [logs/04-04-21.txt, 2021-04-04 20:32:15]: (1)SAUD [, Level 15]: xD
+[logs/04-04-21.txt, 2021-04-04 20:32:26]: ***  [, Level 0]: 'ERROR.' has left the game
+[logs/04-04-21.txt, 2021-04-04 20:32:27]: ***  [, Level 0]: 'ERROR.' entered and joined the game
