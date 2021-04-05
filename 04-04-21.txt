@@ -14706,3 +14706,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:17:17]: PoliceTee [xSD7, Level 0]: its just like the old days
 [logs/04-04-21.txt, 2021-04-04 22:17:20]: PoliceTee [xSD7, Level 0]: basically the same
 [logs/04-04-21.txt, 2021-04-04 22:17:21]: PoliceTee [xSD7, Level 0]: oh wait not
+[logs/04-04-21.txt, 2021-04-04 22:17:25]: (3)SAUD [, Level 8]: what
+[logs/04-04-21.txt, 2021-04-04 22:17:28]: Boti. [.bad, Level 32]: what kind of hardbass you listen to
