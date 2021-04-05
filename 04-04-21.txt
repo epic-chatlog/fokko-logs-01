@@ -14789,3 +14789,4 @@
 [logs/04-04-21.txt, 2021-04-04 22:27:51]: Boti. [.bad, Level 27]: SAUD: ik
 [logs/04-04-21.txt, 2021-04-04 22:27:58]: (3)SAUD [, Level 8]: wdym ik
 [logs/04-04-21.txt, 2021-04-04 22:28:03]: Boti. [.bad, Level 27]: i know
+[logs/04-04-21.txt, 2021-04-04 22:28:48]: Boti. [.bad, Level 27]: be kezo
