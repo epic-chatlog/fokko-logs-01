@@ -14703,3 +14703,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:16:58]: PoliceTee [xSD7, Level 0]: finally
 [logs/04-04-21.txt, 2021-04-04 22:17:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [logs/04-04-21.txt, 2021-04-04 22:17:11]: PoliceTee [xSD7, Level 0]: hmm listening to hardbass, empty police, afk server
+[logs/04-04-21.txt, 2021-04-04 22:17:17]: PoliceTee [xSD7, Level 0]: its just like the old days
+[logs/04-04-21.txt, 2021-04-04 22:17:20]: PoliceTee [xSD7, Level 0]: basically the same
+[logs/04-04-21.txt, 2021-04-04 22:17:21]: PoliceTee [xSD7, Level 0]: oh wait not
