@@ -6544,3 +6544,5 @@
 [2021-04-05 07:29:02]: ***  [, Level 0]: 'ManniK' has left the game
 [2021-04-05 07:29:08]:   [, Level 0]: uts/sukuna.: uts/Koishi: do you like the clantag
 [2021-04-05 07:29:15]:   [, Level 0]: uts/sukuna.: uts/Koishi: or do you have any better ideas
+[2021-04-05 07:29:29]: power [TrRShClNrRs, Level 0]: rip comic
+[2021-04-05 07:29:33]:   [, Level 0]: uts/Koishi: idk
