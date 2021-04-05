@@ -152,3 +152,6 @@
 [logs/05-04-21.txt, 2021-04-05 00:14:04]: oyun krallı [, Level 11]: help
 [logs/05-04-21.txt, 2021-04-05 00:14:11]: Vodo4ka [JB.st, Level 41]: BulgarianTee:  do u want fak me?
 [logs/05-04-21.txt, 2021-04-05 00:14:12]: oyun krallı [, Level 11]: wa̷rha̷mmer:
+[logs/05-04-21.txt, 2021-04-05 00:14:16]: BulgarianTee [xSD7, Level 38]: Vodo4ka: depends
+[logs/05-04-21.txt, 2021-04-05 00:14:18]: oyun krallı [, Level 11]: wa̷rha̷mmer:  help
+[logs/05-04-21.txt, 2021-04-05 00:14:21]: BulgarianTee [xSD7, Level 38]: Vodo4ka: do you like my skin :D?
