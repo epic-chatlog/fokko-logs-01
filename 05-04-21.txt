@@ -3167,3 +3167,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:36:22]: ***  [, Level 0]: 'STULEJA 3000' joined the game
 [logs/05-04-21.txt, 2021-04-05 03:36:27]: ***  [, Level 0]: 'STULEJA 3000' joined the spectators
 [logs/05-04-21.txt, 2021-04-05 03:36:30]: (2)Kirito [♥, Level 36]: xD
+[logs/05-04-21.txt, 2021-04-05 03:36:33]: x7|zemer [xSD7, Level 37]: Xd
+[logs/05-04-21.txt, 2021-04-05 03:36:37]: ***  [, Level 0]: 'STULEJA 3000' joined the game
