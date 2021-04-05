@@ -4729,3 +4729,5 @@
 [logs/05-04-21.txt, 2021-04-05 05:29:03]: ***  [, Level 0]: Sutzer is on a killing spree with 5 blocks
 [logs/05-04-21.txt, 2021-04-05 05:29:12]: ***  [, Level 0]: 'ReXi' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:29:14]: ***  [, Level 0]: '(1)P4Pyr0s' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:29:18]: [D] ✯ |toxicd [|Supressed, Level 0]: Kezo:
+[logs/05-04-21.txt, 2021-04-05 05:29:21]:   [, Level 0]: (1)P4Pyr0s: P4Pyr0s: Привет!
