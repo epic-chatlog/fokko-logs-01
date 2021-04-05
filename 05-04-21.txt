@@ -6167,3 +6167,6 @@
 [2021-04-05 06:59:16]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
 [2021-04-05 06:59:19]: ***  [, Level 0]: '(1)1' has left the game
 [2021-04-05 06:59:22]: discord bridge [eiuawhrf, Level 24]: HeavyGeneral: hi
+[2021-04-05 06:59:28]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
+[2021-04-05 06:59:30]: ***  [, Level 0]: 'HeavyGeneral' entered and joined the game
+[2021-04-05 06:59:37]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
