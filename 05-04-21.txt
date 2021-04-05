@@ -5746,3 +5746,7 @@
 [2021-04-05 06:27:20]: ***  [, Level 0]: 'badoumed' has left the game
 [2021-04-05 06:27:26]: ♥TAKO♥ [, Level 24]: Kezo:  kıyamam lan ben sana
 [2021-04-05 06:27:33]: Kezo [FookinLads, Level 41]: ♥TAKO♥: kıyma ab
+[2021-04-05 06:27:40]: ♥TAKO♥ [, Level 24]: Kezo:  kıyamam lan zaten
+[2021-04-05 06:27:47]:   [, Level 0]: Foxie♥: ERROR: got a dog
+[2021-04-05 06:27:50]: bob [Legacy™, Level 36]: bin taser meister ChillerDragon
+[2021-04-05 06:27:51]: (1)1 [, Level 3]: FOXİ HELP
