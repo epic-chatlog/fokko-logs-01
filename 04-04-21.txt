@@ -14851,3 +14851,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:33:57]: Boti. [.bad, Level 27]: XD
 [logs/04-04-21.txt, 2021-04-04 22:33:58]: (3)SAUD [, Level 8]: who is farmhea
 [logs/04-04-21.txt, 2021-04-04 22:34:03]: PoliceTee [xSD7, Level 11]: and at Tarxe i got 42k
+[logs/04-04-21.txt, 2021-04-04 22:34:16]: PoliceTee [xSD7, Level 0]: (3)SAUD: its one of my secret accounts
+[logs/04-04-21.txt, 2021-04-04 22:34:20]: (3)SAUD [, Level 8]: oh
+[logs/04-04-21.txt, 2021-04-04 22:34:22]: PoliceTee [xSD7, Level 0]: that i used to to sneak in police
