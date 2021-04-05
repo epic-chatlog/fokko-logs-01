@@ -1617,3 +1617,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:36:27]: (1)kais [, Level 58]: BulgarianTee: spec him lmao look
 [logs/05-04-21.txt, 2021-04-05 01:36:27]: PoliceTee [xSD7, Level 0]: kirito isnt gay he wouldnt do that to me
 [logs/05-04-21.txt, 2021-04-05 01:36:29]: PoliceTee [xSD7, Level 0]: unlike you
+[logs/05-04-21.txt, 2021-04-05 01:36:44]: ***  [, Level 0]: PoliceTee finished in: 1 minute(s)  1.84 second(s)
+[logs/05-04-21.txt, 2021-04-05 01:36:44]: ***  [, Level 0]: New record: 1 minute(s) 33.80 second(s) better.
+[logs/05-04-21.txt, 2021-04-05 01:36:48]: Kirito [Chilli.*, Level 34]: Leblebi: !?!?
