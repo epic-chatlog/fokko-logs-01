@@ -15131,3 +15131,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:12:28]: SAUD [, Level 22]: holyy
 [logs/04-04-21.txt, 2021-04-04 23:12:30]: BulgarianTee [xSD7, Level 38]: means 360 money per min
 [logs/04-04-21.txt, 2021-04-04 23:12:35]: SAUD [, Level 22]: wtf
+[logs/04-04-21.txt, 2021-04-04 23:12:42]: BulgarianTee [xSD7, Level 38]: if we make it 350 money per min
+[logs/04-04-21.txt, 2021-04-04 23:12:47]: BulgarianTee [xSD7, Level 38]: for math simplisity
