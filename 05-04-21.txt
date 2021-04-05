@@ -129,3 +129,8 @@
 [logs/05-04-21.txt, 2021-04-05 00:12:28]: oyun krallı [, Level 11]: sınır sızmı
 [logs/05-04-21.txt, 2021-04-05 00:12:34]: BulgarianTee [xSD7, Level 38]: XDD
 [logs/05-04-21.txt, 2021-04-05 00:12:35]: Vodo4ka [JB.st, Level 41]: BulgarianTee: BRUH NO
+[logs/05-04-21.txt, 2021-04-05 00:12:38]: wαrнαммer [, Level 26]: oyun krallı:  mermisi sınırlı
+[logs/05-04-21.txt, 2021-04-05 00:12:40]: BulgarianTee [xSD7, Level 38]: Vodo4ka: YES XD
+[logs/05-04-21.txt, 2021-04-05 00:12:44]: ***  [, Level 0]: 'GODLIKe' has left the game
+[logs/05-04-21.txt, 2021-04-05 00:12:45]: Vodo4ka [JB.st, Level 41]: BulgarianTee:  i mean charachter
+[logs/05-04-21.txt, 2021-04-05 00:12:46]: BulgarianTee [xSD7, Level 38]: NO
