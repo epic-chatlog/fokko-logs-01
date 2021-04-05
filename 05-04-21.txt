@@ -2705,3 +2705,6 @@
 [logs/05-04-21.txt, 2021-04-05 02:56:33]: BulgarianTee [CleanUpCrew, Level 38]: Fearless: Xdd
 [logs/05-04-21.txt, 2021-04-05 02:56:33]: ***  [, Level 0]: 'keø' changed name to 'aXe:/'
 [logs/05-04-21.txt, 2021-04-05 02:56:42]: Fearless [FookinLads, Level 40]: aXe:/:  trash name
+[logs/05-04-21.txt, 2021-04-05 02:57:00]: ***  [, Level 0]: 'aXe:/' changed name to 'keø'
+[logs/05-04-21.txt, 2021-04-05 02:57:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[logs/05-04-21.txt, 2021-04-05 02:57:02]: Fearless [FookinLads, Level 40]: ~DemoizL~:  give me taser ammo
