@@ -1007,3 +1007,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:07:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [logs/05-04-21.txt, 2021-04-05 01:07:08]: BulgarianTee [xSD7, Level 38]: KG | Kirito: no i was in /spec cheering for you the entire time :D
 [logs/05-04-21.txt, 2021-04-05 01:07:09]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:07:15]: KG | Kirito [KaisGay, Level 34]: BulgarianTee: awesome :D
+[logs/05-04-21.txt, 2021-04-05 01:07:17]: comic [comically, Level 13]: dam i suck
+[logs/05-04-21.txt, 2021-04-05 01:07:21]: BulgarianTee [xSD7, Level 38]: :DDD
