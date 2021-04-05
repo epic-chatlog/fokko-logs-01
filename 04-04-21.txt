@@ -14862,3 +14862,6 @@
 [logs/04-04-21.txt, 2021-04-04 22:34:40]: PoliceTee [xSD7, Level 0]: "Farmhead's diary"
 [logs/04-04-21.txt, 2021-04-04 22:34:48]: Boti. [.bad, Level 27]: wait i didnt watch the vid
 [logs/04-04-21.txt, 2021-04-04 22:34:56]: Boti. [.bad, Level 27]: i recorded 2 hours afk
+[logs/04-04-21.txt, 2021-04-04 22:35:00]: Boti. [.bad, Level 27]: and someone afk blocked
+[logs/04-04-21.txt, 2021-04-04 22:35:00]: PoliceTee [xSD7, Level 0]: Xdd
+[logs/04-04-21.txt, 2021-04-04 22:35:03]: Boti. [.bad, Level 27]: chillerdragon 2
