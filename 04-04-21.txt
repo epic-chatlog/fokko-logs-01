@@ -14824,3 +14824,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:31:54]: PoliceTee [xSD7, Level 0]: i will just create Tarxe v2 if i ever need money
 [logs/04-04-21.txt, 2021-04-04 22:32:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [logs/04-04-21.txt, 2021-04-04 22:32:02]: PoliceTee [xSD7, Level 0]: but this time i will be peaceful Xd
+[logs/04-04-21.txt, 2021-04-04 22:32:10]: Boti. [.bad, Level 27]: i make error 2 to farm 0/24
+[logs/04-04-21.txt, 2021-04-04 22:32:13]: PoliceTee [xSD7, Level 0]: how money i actually got at baguettee?
