@@ -2484,3 +2484,9 @@
 [logs/05-04-21.txt, 2021-04-05 02:34:37]: Lucas [THECEPS, Level 34]: BC|Tixnix: he helped you stupid
 [logs/05-04-21.txt, 2021-04-05 02:34:37]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 5 blocks
 [logs/05-04-21.txt, 2021-04-05 02:34:53]: ZEWO [, Level 0]: koro: helpş
+[logs/05-04-21.txt, 2021-04-05 02:35:00]: ᅟᅟᅟᅟ [, Level 47]: okay im bored
+[logs/05-04-21.txt, 2021-04-05 02:35:01]: Noémi[Đ] [citrom, Level 32]: Fearless: szia
+[logs/05-04-21.txt, 2021-04-05 02:35:03]: ***  [, Level 0]: 'GOLD' has left the game (Timeout)
+[logs/05-04-21.txt, 2021-04-05 02:35:03]: ***  [, Level 0]: 'YelloWorlD' has left the game (Timeout)
+[logs/05-04-21.txt, 2021-04-05 02:35:05]: ***  [, Level 0]: BC|Tixnix's killing spree was ended by Fearless (5 blocks)
+[logs/05-04-21.txt, 2021-04-05 02:35:05]: ᅟᅟᅟᅟ [, Level 47]: noone interesting is fighting
