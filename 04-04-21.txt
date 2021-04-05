@@ -14822,3 +14822,5 @@
 [logs/04-04-21.txt, 2021-04-04 22:31:33]: PoliceTee [xSD7, Level 0]: E
 [logs/04-04-21.txt, 2021-04-04 22:31:41]: Boti. [.bad, Level 27]: or just ask for moni
 [logs/04-04-21.txt, 2021-04-04 22:31:54]: PoliceTee [xSD7, Level 0]: i will just create Tarxe v2 if i ever need money
+[logs/04-04-21.txt, 2021-04-04 22:32:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[logs/04-04-21.txt, 2021-04-04 22:32:02]: PoliceTee [xSD7, Level 0]: but this time i will be peaceful Xd
