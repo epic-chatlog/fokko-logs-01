@@ -9234,3 +9234,5 @@
 [2021-04-05 09:51:24]:   [, Level 0]: Koishi: ₯-Akuma'♥: was
 [2021-04-05 09:51:27]:   [, Level 0]: ChillerDragon: Discord: @fokkonaut ping
 [2021-04-05 09:51:29]: ***  [, Level 0]: 'Control' entered and joined the game
+[2021-04-05 09:51:36]: ₯-Akuma'♥' [Deepthroat, Level 0]: Koishi:  nix
+[2021-04-05 09:51:47]: ***  [, Level 0]: 'Cylox' has left the game
