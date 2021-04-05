@@ -8258,3 +8258,5 @@
 [2021-04-05 09:09:45]: [D] mamikral011 [, Level 0]: (2)ChillerDrago: okey you
 [2021-04-05 09:09:48]: ***  [, Level 0]: power finished in: 4 minute(s) 39.20 second(s)
 [2021-04-05 09:09:49]: Swarfey [, Level 37]: ChillerDragon: gib mir 5 min
+[2021-04-05 09:10:12]: ***  [, Level 0]: ERROR's killing spree was ended by Swarfey (20 blocks)
+[2021-04-05 09:10:12]:   [, Level 0]: mamikral011: laga
