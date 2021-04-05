@@ -15467,3 +15467,6 @@
 [logs/04-04-21.txt, 2021-04-04 23:49:34]: Vodo4ka [JB.st, Level 41]: EEEEE
 [logs/04-04-21.txt, 2021-04-04 23:49:35]: GODLIKe [hax, Level 44]: PoliceTee: wake up gay
 [logs/04-04-21.txt, 2021-04-04 23:49:44]: Vodo4ka [JB.st, Level 41]: E
+[logs/04-04-21.txt, 2021-04-04 23:49:48]: ***  [, Level 0]: 'Лимонад' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 23:49:55]: GODLIKe. [GANG, Level 0]: stop reset gay
+[logs/04-04-21.txt, 2021-04-04 23:49:58]: Лимонад [MFG, Level 0]: E
