@@ -15557,3 +15557,4 @@
 [logs/04-04-21.txt, 2021-04-04 23:59:27]: Vodo4ka [JB.st, Level 41]: :D
 [logs/04-04-21.txt, 2021-04-04 23:59:30]: ***  [, Level 0]: 'Ðream' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 23:59:48]: oyun krallı [, Level 11]: VS ATAKMI
+[logs/04-04-21.txt, 2021-04-04 23:59:54]: wαrнαммer [, Level 26]: ama sen full sün
