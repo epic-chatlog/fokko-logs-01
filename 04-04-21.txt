@@ -14397,3 +14397,5 @@
 [logs/04-04-21.txt, 2021-04-04 18:33:52]: Mr.KshKsh99 [xSD7, Level 0]: stop
 [logs/04-04-21.txt, 2021-04-04 18:34:41]: Mr.KshKsh99 [xSD7, Level 0]: he will be like i was chilling watching netfliex
 [logs/04-04-21.txt, 2021-04-04 18:34:54]: x7|FayZoR [xSD7, Level 42]: xD and cry
+[logs/04-04-21.txt, 2021-04-04 18:36:05]: ***  [, Level 0]: '(1)x7|KshKsh99' has left the game
+[logs/04-04-21.txt, 2021-04-04 18:36:05]: ***  [, Level 0]: '(1)Mr.KshKsh99' has left the game
