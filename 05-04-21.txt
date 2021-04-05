@@ -4580,3 +4580,4 @@
 [logs/05-04-21.txt, 2021-04-05 05:08:04]: cookie [, Level 16]: ♫Amirian♬:  imd dead
 [logs/05-04-21.txt, 2021-04-05 05:08:16]: ***  [, Level 0]: MieSlime is on a killing spree with 5 blocks
 [logs/05-04-21.txt, 2021-04-05 05:08:30]: ***  [, Level 0]: MieSlime's killing spree was ended by weqe (6 blocks)
+[logs/05-04-21.txt, 2021-04-05 05:08:45]: ♫Amirian♬. [, Level 0]: cookie: help
