@@ -4659,3 +4659,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:22:32]: ᅟᅟᅟ [, Level 0]: why
 [logs/05-04-21.txt, 2021-04-05 05:22:37]: MieSlime [FookinLads, Level 43]: what is ur name ?
 [logs/05-04-21.txt, 2021-04-05 05:22:44]: MieSlime [FookinLads, Level 43]: what is ur name ? ??
+[logs/05-04-21.txt, 2021-04-05 05:22:52]: ***  [, Level 0]: '(1)Kezo' changed name to 'Tziys*'
+[logs/05-04-21.txt, 2021-04-05 05:22:54]: ᅟᅟᅟ [, Level 0]: dont you see it
+[logs/05-04-21.txt, 2021-04-05 05:22:58]: MieSlime [FookinLads, Level 43]: no i don't
