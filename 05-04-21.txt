@@ -1813,3 +1813,6 @@
 [logs/05-04-21.txt, 2021-04-05 01:49:22]: kais [, Level 65]: (1)Kirito: don't kill Leblebi, i don't kill your friend because they help u
 [logs/05-04-21.txt, 2021-04-05 01:49:23]: ***  [, Level 0]: 'Fearless' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 01:49:25]: Kirito [Chilli.*, Level 34]: el champeon: dude
+[logs/05-04-21.txt, 2021-04-05 01:49:29]: Kirito [Chilli.*, Level 34]: el champeon: i will fuck you
+[logs/05-04-21.txt, 2021-04-05 01:49:32]: ***  [, Level 0]: '✯ |toxicdaddy' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 01:49:38]: [D] Leblebi [, Level 18]: Cylox.: Hady ?
