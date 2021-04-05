@@ -13825,3 +13825,6 @@
 [2021-04-05 15:24:47]: x7|Chronos [xSD7, Level 35]: Kirito♥: what u want ?
 [2021-04-05 15:24:57]: hmmmmmm [, Level 8]: et aussi comment je fais pour vendre mon argent alors
 [2021-04-05 15:25:00]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-05 15:25:06]: x7|FayZoR [xSD7, Level 42]: hmmmmmm: rendre ?
+[2021-04-05 15:25:06]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-05 15:25:11]: ~DemoizL~ [, Level 39]: Shiro.: c'est ''credits'' la commande ?
