@@ -1644,3 +1644,4 @@
 [logs/05-04-21.txt, 2021-04-05 01:37:59]: Hady [new bot, Level 0]: (1)kais: ?
 [logs/05-04-21.txt, 2021-04-05 01:38:02]: Kirito [Chilli.*, Level 34]: Hady: JUST KILL FUCKING KAIS FRENCH BAGUETTE SUCKER
 [logs/05-04-21.txt, 2021-04-05 01:38:06]: Hady [new bot, Level 0]: (1)kais:  you have error
+[logs/05-04-21.txt, 2021-04-05 01:38:17]: (1)kais [, Level 58]: (1)Kirito: it's just a game, stop raging
