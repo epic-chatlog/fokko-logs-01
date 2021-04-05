@@ -3488,3 +3488,7 @@
 [logs/05-04-21.txt, 2021-04-05 04:02:55]: ☭ [Drunks, Level 1]: на всех
 [logs/05-04-21.txt, 2021-04-05 04:02:59]: x7|FayZoR [xSD7, Level 42]: weqe: war with him ?
 [logs/05-04-21.txt, 2021-04-05 04:02:59]: Rock [, Level 18]: а
+[logs/05-04-21.txt, 2021-04-05 04:03:03]:   [, Level 0]: cookie: no
+[logs/05-04-21.txt, 2021-04-05 04:03:03]:   [, Level 0]: weqe: idk him x7|FayZoR
+[logs/05-04-21.txt, 2021-04-05 04:03:03]: Rock [, Level 18]: тогда не надо
+[logs/05-04-21.txt, 2021-04-05 04:03:07]: ***  [, Level 0]: 'wαrнαммer' joined the minigame 'Block', use '/block' to join aswell
