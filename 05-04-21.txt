@@ -2987,3 +2987,4 @@
 [logs/05-04-21.txt, 2021-04-05 03:25:40]: BulgarianTee [CleanUpCrew, Level 38]: Fearless: god
 [logs/05-04-21.txt, 2021-04-05 03:25:40]: Fearless [, Level 40]: BulgarianTee:
 [logs/05-04-21.txt, 2021-04-05 03:25:40]: cup of tee [abh, Level 0]: YelloWorlD: ready ?
+[logs/05-04-21.txt, 2021-04-05 03:25:54]: (2)ChillerDrago [Chilli.*, Level 32]: fuck u delta
