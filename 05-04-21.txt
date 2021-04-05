@@ -3611,3 +3611,4 @@
 [logs/05-04-21.txt, 2021-04-05 04:10:52]: x7|FayZoR [xSD7, Level 42]: [D] BC|kakashi:
 [logs/05-04-21.txt, 2021-04-05 04:11:02]: ***  [, Level 0]: 'Lucas' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 04:11:02]: Foxie♥ [♥, Level 36]: Cylox♥: dont use taser its bad for u just gather the batteries for later
+[logs/05-04-21.txt, 2021-04-05 04:11:17]: ***  [, Level 0]: ### '♫Amirian♬' disconected (Timeout)
