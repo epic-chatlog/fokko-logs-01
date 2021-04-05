@@ -3473,3 +3473,8 @@
 [logs/05-04-21.txt, 2021-04-05 04:02:15]: ***  [, Level 0]: 'wa̷rha̷mmer' entered and joined the game
 [logs/05-04-21.txt, 2021-04-05 04:02:17]: ***  [, Level 0]: 'RoberGN' has left the game
 [logs/05-04-21.txt, 2021-04-05 04:02:17]:   [, Level 0]: Shiro.: xaxaxa
+[logs/05-04-21.txt, 2021-04-05 04:02:26]:   [, Level 0]: weqe: Wheels.: u love me ?
+[logs/05-04-21.txt, 2021-04-05 04:02:28]: Rock [, Level 18]: сколько денег?ma
+[logs/05-04-21.txt, 2021-04-05 04:02:30]: Rock [, Level 18]: mannik
+[logs/05-04-21.txt, 2021-04-05 04:02:33]:   [, Level 0]: ♫Amirian♬: idiot
+[logs/05-04-21.txt, 2021-04-05 04:02:33]:   [, Level 0]: Foxie♥: Kirito: go to >>
