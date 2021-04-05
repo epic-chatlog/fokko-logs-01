@@ -3279,3 +3279,5 @@
 [logs/05-04-21.txt, 2021-04-05 03:45:32]: BulgarianTee [CleanUpCrew, Level 38]: E
 [logs/05-04-21.txt, 2021-04-05 03:45:38]: LareneGyvaeh [FookinLads, Level 36]: Isegrin: alehem
 [logs/05-04-21.txt, 2021-04-05 03:45:41]:   [, Level 0]: Pigie♥: Kirito:
+[logs/05-04-21.txt, 2021-04-05 03:45:59]: (2)Kirito [♥, Level 36]: pigie u wanna login?
+[logs/05-04-21.txt, 2021-04-05 03:46:01]: ***  [, Level 0]: 'Shiro.' has left the game (Timeout Protection over)
