@@ -5102,3 +5102,7 @@
 [logs/05-04-21.txt, 2021-04-05 05:58:35]: mami [, Level 0]: :spec
 [logs/05-04-21.txt, 2021-04-05 05:58:35]: ***  [, Level 0]: '(1)Swarfey' has left the game
 [logs/05-04-21.txt, 2021-04-05 05:58:35]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game
+[logs/05-04-21.txt, 2021-04-05 05:58:37]:   [, Level 0]: weqe: poka !!
+[logs/05-04-21.txt, 2021-04-05 05:58:43]:   [, Level 0]: TL|ŦƹƦ$ŦǾN: swarfey we should add spaces to the
+[logs/05-04-21.txt, 2021-04-05 05:58:43]:   [, Level 0]: weqe: wtf power ?
+[logs/05-04-21.txt, 2021-04-05 05:58:44]: Tziys* [FookinLads, Level 38]: war
