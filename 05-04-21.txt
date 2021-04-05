@@ -4890,3 +4890,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:41:58]: ***  [, Level 0]: 'Cylox.♥' changed name to 'SlerTz.♥'
 [logs/05-04-21.txt, 2021-04-05 05:42:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [logs/05-04-21.txt, 2021-04-05 05:42:01]: S Y T H N [iPro, Level 0]: ✯ |toxicdaddy: was willst du und nerv nichtt
+[logs/05-04-21.txt, 2021-04-05 05:42:09]: S Y T H N [iPro, Level 0]: wtf
+[logs/05-04-21.txt, 2021-04-05 05:42:12]: Vodo4ka [JB.st, Level 41]: ChillerDragon:
+[logs/05-04-21.txt, 2021-04-05 05:42:13]: ERROR. [404, Level 73]: ez
