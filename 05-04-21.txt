@@ -2401,3 +2401,5 @@
 [logs/05-04-21.txt, 2021-04-05 02:29:16]: BC|Tixnix [BC, Level 34]: Kirito: hatte du hu
 [logs/05-04-21.txt, 2021-04-05 02:29:23]: BulgarianTee [CleanUpCrew, Level 38]: YelloWorlD: and then rename yourself to "         "
 [logs/05-04-21.txt, 2021-04-05 02:29:23]: x7|FayZoR [xSD7, Level 42]: Nonoh:
+[logs/05-04-21.txt, 2021-04-05 02:29:24]: Kirito [Chilli.*, Level 34]: BC|Tixnix: nice
+[logs/05-04-21.txt, 2021-04-05 02:29:35]: ***  [, Level 0]: 'koro' entered and joined the game
