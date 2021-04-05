@@ -15470,3 +15470,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:49:48]: ***  [, Level 0]: 'Лимонад' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 23:49:55]: GODLIKe. [GANG, Level 0]: stop reset gay
 [logs/04-04-21.txt, 2021-04-04 23:49:58]: Лимонад [MFG, Level 0]: E
+[logs/04-04-21.txt, 2021-04-04 23:50:02]: GODLIKe. [GANG, Level 0]: aa
+[logs/04-04-21.txt, 2021-04-04 23:50:09]: GODLIKe. [GANG, Level 0]: aaaa
