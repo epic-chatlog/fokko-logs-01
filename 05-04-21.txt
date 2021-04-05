@@ -1110,3 +1110,5 @@
 [logs/05-04-21.txt, 2021-04-05 01:11:57]: Clight.♥ [♥, Level 0]: KG | Kirito: lie bro
 [logs/05-04-21.txt, 2021-04-05 01:11:58]: comic [comically, Level 13]: MieSlime:
 [logs/05-04-21.txt, 2021-04-05 01:11:58]: BulgarianTee [xSD7, Level 38]: Boti.: he allows heavy's bot, so your is allowed too
+[logs/05-04-21.txt, 2021-04-05 01:12:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[logs/05-04-21.txt, 2021-04-05 01:12:05]: weqe [MNKY, Level 11]: Vodo4ka: pls stop help gay Ƭevan
