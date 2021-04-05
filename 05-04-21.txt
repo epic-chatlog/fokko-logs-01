@@ -14590,3 +14590,6 @@
 [2021-04-05 16:41:56]: ***  [, Level 0]: '(1)S Y T H N' entered and joined the game
 [2021-04-05 16:41:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-05 16:42:00]: x7|FayZoR [xSD7, Level 42]: hmmmmmm: je faisais que perdre bruh
+[2021-04-05 16:42:24]: UselessTee [, Level 0]: what is money for?
+[2021-04-05 16:42:26]: ***  [, Level 0]: '(1)S Y T H N' has left the game
+[2021-04-05 16:42:31]: Mr.KshKsh99 [xSD7, Level 0]: not bad
