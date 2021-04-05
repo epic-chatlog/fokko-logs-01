@@ -12591,3 +12591,6 @@
 [2021-04-05 13:23:01]: Isegrin [, Level 54]: jawohl
 [2021-04-05 13:23:06]: tee [, Level 0]: oops
 [2021-04-05 13:23:13]: Sutzer [Guard, Level 0]: AAAAAAAAA
+[2021-04-05 13:23:18]: [D] Sutzer [Guard, Level 0]: x
+[2021-04-05 13:23:19]: [D] Sutzer [Guard, Level 0]: D
+[2021-04-05 13:23:22]: (1)Kirito♥ [♥, Level 36]: mina: ye ty
