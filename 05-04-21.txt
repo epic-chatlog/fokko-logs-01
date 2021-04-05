@@ -301,3 +301,9 @@
 [logs/05-04-21.txt, 2021-04-05 00:24:46]: BulgarianTee [xSD7, Level 38]: Vodo4ka: and you only kill and not listen
 [logs/05-04-21.txt, 2021-04-05 00:24:47]: BulgarianTee [xSD7, Level 38]: Vodo4ka: idiot
 [logs/05-04-21.txt, 2021-04-05 00:24:55]: Vodo4ka [JB.st, Level 41]: BulgarianTee: muting :o
+[logs/05-04-21.txt, 2021-04-05 00:25:00]: ***  [, Level 0]: Wheels. finished in: 4 minute(s) 19.82 second(s)
+[logs/05-04-21.txt, 2021-04-05 00:25:00]: ***  [, Level 0]: New record: 2 minute(s) 45.58 second(s) better.
+[logs/05-04-21.txt, 2021-04-05 00:25:00]: ***  [, Level 0]: 'Wheels.' finished the special race!
+[logs/05-04-21.txt, 2021-04-05 00:25:00]: BulgarianTee [xSD7, Level 38]: Vodo4ka: rage mute
+[logs/05-04-21.txt, 2021-04-05 00:25:06]: ***  [, Level 0]: R2D2 finished in: 15 minute(s) 40.78 second(s)
+[logs/05-04-21.txt, 2021-04-05 00:25:06]: ***  [, Level 0]: 'R2D2' finished the special race!
