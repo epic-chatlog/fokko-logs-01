@@ -4405,3 +4405,6 @@
 [logs/05-04-21.txt, 2021-04-05 04:50:05]: MieSlime [FookinLads, Level 43]: BulgarianTee:  same skin than heavy
 [logs/05-04-21.txt, 2021-04-05 04:50:06]:   [, Level 0]: Vodo4ka: XDD
 [logs/05-04-21.txt, 2021-04-05 04:50:11]: Isegrin [, Level 54]: Vodo4ka: bliet
+[logs/05-04-21.txt, 2021-04-05 04:50:15]:   [, Level 0]: Vodo4ka: Isegrin: he taser nub
+[logs/05-04-21.txt, 2021-04-05 04:50:18]: ***  [, Level 0]: '(1)Friendiship ;' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 04:50:19]: BulgarianTee [CleanUpCrew, Level 38]: MieSlime: its almost the same, i had a few more details to make but error killed me and i couldnt finish it
