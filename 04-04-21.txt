@@ -14194,3 +14194,7 @@
 [logs/04-04-21.txt, 2021-04-04 17:57:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [logs/04-04-21.txt, 2021-04-04 17:57:01]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [logs/04-04-21.txt, 2021-04-04 17:57:01]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[logs/04-04-21.txt, 2021-04-04 17:57:08]: x7|KshKsh99 [xSD7, Level 37]: XDDD
+[logs/04-04-21.txt, 2021-04-04 17:57:08]: x7|KshKsh99 [xSD7, Level 37]: XDDD
+[logs/04-04-21.txt, 2021-04-04 17:57:11]: x7|FayZoR [xSD7, Level 42]: sorry xD
+[logs/04-04-21.txt, 2021-04-04 17:57:11]: x7|FayZoR [xSD7, Level 42]: sorry xD
