@@ -7631,3 +7631,7 @@
 [2021-04-05 08:36:48]: Falco641 [, Level 18]: xd
 [2021-04-05 08:36:49]: s6_sven [, Level 1]: help
 [2021-04-05 08:36:54]:   [, Level 0]: bob: s6
+[2021-04-05 08:37:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-05 08:37:01]: kais [, Level 65]: x7|FayZoR: non, je parle pas de moi
+[2021-04-05 08:37:05]:   [, Level 0]: bob: s6 where
+[2021-04-05 08:37:06]: |ΛnץOиe| [, Level 0]: WBHAHAHA
