@@ -6765,3 +6765,5 @@
 [2021-04-05 07:46:58]:   [, Level 0]: x7|FayZoR: kais: viens je t'aide
 [2021-04-05 07:46:59]: (1)Kirito [♥, Level 35]: oh shit i suck
 [2021-04-05 07:47:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-05 07:47:15]: comic [comically, Level 13]: power2: aight
+[2021-04-05 07:47:17]: (1)Friendiship  [, Level 0]: ERROR:
