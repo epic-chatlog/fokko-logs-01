@@ -14122,3 +14122,5 @@
 [logs/04-04-21.txt, 2021-04-04 17:42:44]: x7|FayZoR [xSD7, Level 42]: Who B): come with me
 [logs/04-04-21.txt, 2021-04-04 17:42:46]: x7|KshKsh99 [xSD7, Level 0]: login first
 [logs/04-04-21.txt, 2021-04-04 17:43:03]: x7|FayZoR [xSD7, Level 42]: wtf come
+[logs/04-04-21.txt, 2021-04-04 17:43:09]: Who B) [no u, Level 0]: a
+[logs/04-04-21.txt, 2021-04-04 17:43:11]: Who B) [no u, Level 0]: XD
