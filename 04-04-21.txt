@@ -15030,3 +15030,5 @@
 [logs/04-04-21.txt, 2021-04-04 23:01:50]: (3)SAUD [, Level 8]: BulgarianTee:
 [logs/04-04-21.txt, 2021-04-04 23:01:51]: (3)SAUD [, Level 8]: xD
 [logs/04-04-21.txt, 2021-04-04 23:02:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[logs/04-04-21.txt, 2021-04-04 23:02:27]: BulgarianTee [xSD7, Level 38]: (3)SAUD: ok ready?
+[logs/04-04-21.txt, 2021-04-04 23:02:29]: (3)SAUD [, Level 8]: yeah
