@@ -4738,3 +4738,6 @@
 [logs/05-04-21.txt, 2021-04-05 05:30:31]: ChillerDragon [|*KoG*|, Level 44]: Vodo4ka: I am currently afk.
 [logs/05-04-21.txt, 2021-04-05 05:30:31]: [D] ✯ |toxicd [|Supressed, Level 0]: koro: i killed money
 [logs/05-04-21.txt, 2021-04-05 05:30:32]: ***  [, Level 0]: '(1)1' entered and joined the game
+[logs/05-04-21.txt, 2021-04-05 05:30:35]: [D] ✯ |toxicd [|Supressed, Level 0]: koro:  dumb
+[logs/05-04-21.txt, 2021-04-05 05:30:37]: Vodo4ka [JB.st, Level 41]: ChillerDragon: breh
+[logs/05-04-21.txt, 2021-04-05 05:30:37]: ChillerDragon [|*KoG*|, Level 44]: Vodo4ka: I am currently afk.
