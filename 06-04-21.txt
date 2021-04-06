@@ -8461,3 +8461,6 @@
 [2021-04-06 09:00:55]: ***  [, Level 0]: 'Catty' joined the spectators
 [2021-04-06 09:00:56]: (2)ChillerDrago [|*KoG*|, Level 44]: moi aide kais
 [2021-04-06 09:00:59]: ***  [, Level 0]: 'Catty' joined the game
+[2021-04-06 09:01:07]:   [, Level 0]: (1)Axandos: kais:  big pp thx 4 the help
+[2021-04-06 09:01:11]: ***  [, Level 0]: '(1)Hunter.exe' entered and joined the game
+[2021-04-06 09:01:13]: ***  [, Level 0]: 'Telefantastic' entered and joined the game
