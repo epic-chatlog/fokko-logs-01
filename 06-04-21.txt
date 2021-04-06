@@ -12742,3 +12742,5 @@
 [2021-04-06 13:46:31]: S Y T H N [iPro, Level 37]: BC|Tixnix: kannst kein english?
 [2021-04-06 13:46:38]: BC|Tixnix [BC, Level 0]: S Y T H N: doch
 [2021-04-06 13:46:50]: BC|Tixnix [BC, Level 0]: GOLD: ok come
+[2021-04-06 13:46:56]: (1)Kirito♥ [♥, Level 24]: S Y T H N: :/ bro wir hatten doch peace :(
+[2021-04-06 13:46:58]: ***  [, Level 0]: [INFO] You can create an account using '/register'
