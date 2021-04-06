@@ -7561,3 +7561,7 @@
 [2021-04-06 08:22:47]: WarHammer [, Level 26]: ERROR:  U TEAM CHİLLER ?
 [2021-04-06 08:22:51]: ***  [, Level 0]: [POLICE-CHANNEL] 'S Y T H N' is spawnblocking. Catch him!
 [2021-04-06 08:22:53]: S Y T H N [iPro, Level 37]: bruh
+[2021-04-06 08:22:54]: ERROR [404, Level 56]: no team
+[2021-04-06 08:22:56]: ChillerDragon.* [|*KoG*|, Level 41]: mert kiøn1029 what is that
+[2021-04-06 08:23:03]: kiøn1029 [.bad, Level 25]: what?
+[2021-04-06 08:23:04]: S Y T H N [iPro, Level 37]: where   are u
