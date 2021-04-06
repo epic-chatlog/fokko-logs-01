@@ -15481,3 +15481,5 @@
 [2021-04-05 23:01:23]: ***  [, Level 0]: 'BulgarianTee' entered and joined the game
 [2021-04-05 23:01:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-05 23:02:29]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
+[2021-04-05 23:03:02]: ***  [, Level 0]: 'Anatomy' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-05 23:03:04]: PoliceTee [xSD7, Level 0]: rq
