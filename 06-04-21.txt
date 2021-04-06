@@ -4485,3 +4485,4 @@
 [2021-04-06 04:34:37]: CKA3A4NIK[NR] [Night Raid, Level 35]: stop
 [2021-04-06 04:34:42]: 11111 [, Level 0]: WW1: NOOB
 [2021-04-06 04:34:45]: mami [Ape, Level 16]: say sorry
+[2021-04-06 04:35:22]: ***  [, Level 0]: 'Maatiteusz' finished the special race!
