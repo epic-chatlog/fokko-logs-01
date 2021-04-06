@@ -10579,3 +10579,7 @@
 [2021-04-06 10:59:54]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 41.70 second(s)
 [2021-04-06 10:59:57]: ***  [, Level 0]: ### 'Kezo' LAAAAAAAAAAAAAAAAG
 [2021-04-06 10:59:57]: any [404, Level 37]: Chronos: sinon je doit aller manger envoie moi un mp discord :/
+[2021-04-06 11:00:01]: ***  [, Level 0]: ### 'Kezo' LAAAAAAAAAAAAAAAAG
+[2021-04-06 11:00:10]: ERROR [404, Level 56]: GOLD:
+[2021-04-06 11:00:10]: ***  [, Level 0]: ### 'Kezo' LAAAAAAAAAAAAAAAAG
+[2021-04-06 11:00:15]: GOLD [404, Level 40]: ERROR: why i beat all xD
