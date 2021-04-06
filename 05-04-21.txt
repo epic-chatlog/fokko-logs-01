@@ -15175,3 +15175,4 @@
 [2021-04-05 20:44:00]: Hady [new bot, Level 0]: SAUD:  HELLO
 [2021-04-05 20:44:58]: ***  [, Level 0]: 'ilum' entered and joined the game
 [2021-04-05 20:46:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-05 20:47:07]: ***  [, Level 0]: 'Hady' has left the game
