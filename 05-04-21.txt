@@ -15880,3 +15880,4 @@
 [2021-04-05 23:39:02]: Chilli.* tee [Chilli.*, Level 25]: rq
 [2021-04-05 23:39:02]: Not Boti. [.bad, Level 32]: rq
 [2021-04-05 23:39:08]: ***  [, Level 0]: 'Not Boti.' changed name to 'Boti.'
+[2021-04-05 23:39:42]: s7_sven [, Level 16]: wait
