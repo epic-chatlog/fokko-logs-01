@@ -6274,3 +6274,10 @@
 [2021-04-06 07:17:03]: ***  [, Level 0]: coffee is on a killing spree with 5 blocks
 [2021-04-06 07:17:06]: ***  [, Level 0]: [POLICE-CHANNEL] 'coffee' is spawnblocking. Catch him!
 [2021-04-06 07:17:06]: ChillerDragon.* [|*KoG*|, Level 41]: 24/7 TL|ŦƹƦ$ŦǾN
+[2021-04-06 07:17:10]: ***  [, Level 0]: 'Maatiteusz' entered and joined the game
+[2021-04-06 07:17:11]: ***  [, Level 0]: [POLICE-CHANNEL] 'coffee' is spawnblocking. Catch him!
+[2021-04-06 07:17:12]: ***  [, Level 0]: 'RoberGN' has left the game (Timeout)
+[2021-04-06 07:17:12]: ***  [, Level 0]: 'Shiro.' would have timed out, but can use timeout protection now
+[2021-04-06 07:17:12]: ***  [, Level 0]: [POLICE-CHANNEL] 'coffee' is spawnblocking. Catch him!
+[2021-04-06 07:17:15]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-06 07:17:17]: ChillerDragon.* [|*KoG*|, Level 41]: i tried that but i failed cuz my gfx driver broken
