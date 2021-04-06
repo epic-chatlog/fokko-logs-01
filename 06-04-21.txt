@@ -12271,3 +12271,5 @@
 [2021-04-06 12:48:50]: Axandos [, Level 25]: bob:  :c
 [2021-04-06 12:49:11]: ***  [, Level 0]: 'mamikral011' has left the game (Timeout Protection over)
 [2021-04-06 12:49:27]: Axandos [, Level 25]: bob:  junge lass doch
+[2021-04-06 12:49:44]: (1)ES [, Level 0]: Fearless: помоги
+[2021-04-06 12:49:48]: Fearless [, Level 40]: wait
