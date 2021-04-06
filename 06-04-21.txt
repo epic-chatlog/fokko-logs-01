@@ -5560,3 +5560,7 @@
 [2021-04-06 06:44:24]: (1)ChillerDrago [Chilli.*, Level 31]: pro (1)ss
 [2021-04-06 06:44:24]: CKA3A4NIK[NR] [Night Raid, Level 35]: (1)ss:  war?
 [2021-04-06 06:44:29]: CKA3A4NIK[NR] [Night Raid, Level 35]: (1)ss: 1
+[2021-04-06 06:44:30]: CKA3A4NIK[NR] [Night Raid, Level 35]: (1)ss: 2
+[2021-04-06 06:44:33]: CKA3A4NIK[NR] [Night Raid, Level 35]: (1)ss: 3?
+[2021-04-06 06:44:34]: ***  [, Level 0]: 'hhnaut31ᅟ' changed name to '(1)ssᅟ'
+[2021-04-06 06:44:41]: Ch¡llerDragon [, Level 47]: (1)ChillerDrago: now good?
