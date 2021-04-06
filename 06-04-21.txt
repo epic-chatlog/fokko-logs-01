@@ -10535,3 +10535,8 @@
 [2021-04-06 10:57:10]: any [404, Level 37]: ERROR: whatt ?
 [2021-04-06 10:57:12]: Kaptar [, Level 24]: go re
 [2021-04-06 10:57:17]: Chronos [, Level 0]: ERROR: the world don't want i come police
+[2021-04-06 10:57:25]: GOLD [404, Level 40]: Kaptar: pourtant sur Kaptar t'es chaus
+[2021-04-06 10:57:30]: ***  [, Level 0]: 'Deadmouse' has left the game
+[2021-04-06 10:57:30]: ***  [, Level 0]: '[D] Deadmouse' has left the game
+[2021-04-06 10:57:31]: Kaptar [, Level 24]: comprend aps mdr
+[2021-04-06 10:57:35]: GOLD [404, Level 40]: Kaptar: pourtant sur multimapless t'es chaus
