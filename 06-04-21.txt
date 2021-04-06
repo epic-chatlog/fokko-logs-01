@@ -2901,3 +2901,6 @@
 [2021-04-06 02:41:04]: (2)ChillerDrago [Chilli.*, Level 32]: ja ERROR aber du bist pro
 [2021-04-06 02:41:09]: (2)ChillerDrago [Chilli.*, Level 32]: nix demokratie
 [2021-04-06 02:41:12]: (2)ChillerDrago [Chilli.*, Level 32]: du könig
+[2021-04-06 02:41:19]: ERROR [404, Level 56]: lass es einfach
+[2021-04-06 02:41:23]: (2)ChillerDrago [Chilli.*, Level 32]: sag deinen hunden die sollen weqe brother lassen
+[2021-04-06 02:41:23]: ERROR [404, Level 56]: weqe:  restart and were good.
