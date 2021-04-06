@@ -1392,3 +1392,6 @@
 [2021-04-06 01:13:13]: ***  [, Level 0]: 'f"{self.name}"' has left the game
 [2021-04-06 01:13:13]: ***  [, Level 0]: 'Лимонад' has left the game
 [2021-04-06 01:13:19]: Shiro. [404, Level 42]: if ? = kill him if ? = help him
+[2021-04-06 01:13:33]: NO ERROR. [404, Level 74]: chose urself u already did before.
+[2021-04-06 01:13:33]: OP|Supers [OldPlayers, Level 0]: s6_sven:  mein enemy
+[2021-04-06 01:13:36]: OP|Supers [OldPlayers, Level 0]: s6_sven:  hör afu
