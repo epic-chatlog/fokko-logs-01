@@ -7257,3 +7257,9 @@
 [2021-04-06 08:08:17]: ***  [, Level 0]: »ℱℬℑ« is on a killing spree with 5 blocks
 [2021-04-06 08:08:17]: ***  [, Level 0]: [POLICE-CHANNEL] '»ℱℬℑ«' is spawnblocking. Catch him!
 [2021-04-06 08:08:19]: GReeeN [, Level 0]: wieso ?
+[2021-04-06 08:08:21]:   [, Level 0]: ERROR: guck doch
+[2021-04-06 08:08:23]:   [, Level 0]: ERROR: xD
+[2021-04-06 08:08:24]: ***  [, Level 0]: 'kiøn1029' finished the special race!
+[2021-04-06 08:08:25]: ***  [, Level 0]: 'Boti.' finished the special race!
+[2021-04-06 08:08:26]: ***  [, Level 0]: [POLICE-CHANNEL] '»ℱℬℑ«' is spawnblocking. Catch him!
+[2021-04-06 08:08:26]:   [, Level 0]: ERROR: spec
