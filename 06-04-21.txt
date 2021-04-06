@@ -7228,3 +7228,4 @@
 [2021-04-06 08:04:35]: ***  [, Level 0]: 'P4Pyr0s' would have timed out, but can use timeout protection now
 [2021-04-06 08:04:35]: ***  [, Level 0]: 's7_sven' would have timed out, but can use timeout protection now
 [2021-04-06 08:04:36]: kiøn1029 [.bad, Level 0]: XDD
+[2021-04-06 08:04:56]: ***  [, Level 0]: 'coala12' entered and joined the game
