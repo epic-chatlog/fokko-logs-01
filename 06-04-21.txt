@@ -7609,3 +7609,4 @@
 [2021-04-06 08:25:27]: Boti. [.bad, Level 33]: majd csinálok saját sound effectet
 [2021-04-06 08:25:29]: (2)ChillerDrago [|*KoG*|, Level 44]: merde kais
 [2021-04-06 08:25:51]:   [, Level 0]: power: NO ERROR.: hiiii
+[2021-04-06 08:26:04]: ChillerDragon.* [Chilli.*, Level 41]: flappy: nub
