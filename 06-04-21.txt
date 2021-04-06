@@ -8482,3 +8482,6 @@
 [2021-04-06 09:01:57]:   [, Level 0]: ビール|Scorp: GReeeN: im ビール|Zero
 [2021-04-06 09:01:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-06 09:02:05]: ビール|Scorp [, Level 19]: GReeeN:
+[2021-04-06 09:02:08]: (2)ChillerDrago [Chilli.*, Level 44]: how kais
+[2021-04-06 09:02:13]: (1)kais [, Level 58]: ChillerDragon: you're actually switching words
+[2021-04-06 09:02:14]: ビール|Scorp [, Level 19]: thc
