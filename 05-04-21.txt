@@ -15129,3 +15129,4 @@
 [2021-04-05 20:08:35]: ***  [, Level 0]: 'KriegInCome' has left the game (Timeout Protection over)
 [2021-04-05 20:11:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-05 20:13:23]: ***  [, Level 0]: 'σмєтнιηg' entered and joined the game
+[2021-04-05 20:15:29]: ***  [, Level 0]: 'σмєтнιηg' has left the game (Timeout)
