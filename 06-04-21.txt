@@ -13021,3 +13021,4 @@
 [2021-04-06 14:17:27]: fomjn [RUA, Level 0]: 6505 seconds jail
 [2021-04-06 14:17:29]: fomjn [RUA, Level 0]: new record
 [2021-04-06 14:17:32]: Isegrin [, Level 54]: wr
+[2021-04-06 14:17:44]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
