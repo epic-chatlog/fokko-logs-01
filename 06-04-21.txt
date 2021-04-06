@@ -10272,3 +10272,5 @@
 [2021-04-06 10:44:35]: ***  [, Level 0]: 'Kaptar' entered and joined the game
 [2021-04-06 10:44:40]:   [, Level 0]: Hunter.exe: iMxtteo: kog?
 [2021-04-06 10:45:03]: plopkoek [, Level 0]: wait
+[2021-04-06 10:45:20]:   [, Level 0]: sun.slow(y): iMxtteo: gibts mittlerweile neue jugendtreff ?
+[2021-04-06 10:45:27]: ***  [, Level 0]: 'ERROR.' entered and joined the game
