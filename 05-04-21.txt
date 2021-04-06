@@ -15484,3 +15484,4 @@
 [2021-04-05 23:03:02]: ***  [, Level 0]: 'Anatomy' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-05 23:03:04]: PoliceTee [xSD7, Level 0]: rq
 [2021-04-05 23:03:47]: Boti. [.bad, Level 32]: PoliceTee: flag waster
+[2021-04-05 23:03:53]: BulgarianTee [CleanUpCrew, Level 38]: Boti.: no u
