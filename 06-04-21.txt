@@ -13005,3 +13005,8 @@
 [2021-04-06 14:16:34]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
 [2021-04-06 14:16:46]: Isegrin [, Level 54]: ~DemoizL~: HE NAZI RUN
 [2021-04-06 14:16:47]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
+[2021-04-06 14:16:51]: Isegrin [, Level 54]: AAdAA
+[2021-04-06 14:16:52]: ***  [, Level 0]: fomjn is on a killing spree with 25 blocks
+[2021-04-06 14:16:52]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
+[2021-04-06 14:16:54]: Isegrin [, Level 54]: GAS CHAMBER
+[2021-04-06 14:16:56]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
