@@ -13351,3 +13351,8 @@
 [2021-04-06 15:20:32]: hmmmmmm [, Level 10]: usles ?
 [2021-04-06 15:20:38]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-06 15:20:41]: t [, Level 42]: hmmmmmm: mdr
+[2021-04-06 15:20:49]: DARWINS YT 18 [, Level 0]: HOLA
+[2021-04-06 15:20:50]: x7|Flipper [xSD7, Level 14]: hmmmmmmmmmm
+[2021-04-06 15:20:50]: hmmmmmm [, Level 10]: oui mais c'était avant
+[2021-04-06 15:20:53]: x7|Flipper [xSD7, Level 14]: go righjt
+[2021-04-06 15:20:55]: ***  [, Level 0]: 'DARWINS YT 18' has left the game
