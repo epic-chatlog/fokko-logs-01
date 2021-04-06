@@ -12323,3 +12323,5 @@
 [2021-04-06 12:59:26]: nameless [, Level 0]: any: xD
 [2021-04-06 12:59:41]: ***  [, Level 0]: 'Jean Baptiste' entered and joined the game
 [2021-04-06 12:59:45]: nameless [, Level 0]: any: xDD
+[2021-04-06 13:00:31]: Fearless [, Level 40]: Axandos:  i think shiro was trolling
+[2021-04-06 13:00:35]: Axandos [, Level 25]: ye
