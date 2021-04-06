@@ -2752,3 +2752,4 @@
 [2021-04-06 02:21:36]:   [, Level 0]: ♫Amirian♬: Friendiship ;-): noob YelloWorlD
 [2021-04-06 02:21:38]: power2 [TrRShClNrRs, Level 0]: Rock: k
 [2021-04-06 02:21:41]: power2 [TrRShClNrRs, Level 0]: heeelp
+[2021-04-06 02:21:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
