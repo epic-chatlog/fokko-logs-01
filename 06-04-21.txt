@@ -1576,3 +1576,10 @@
 [2021-04-06 01:24:10]: s7_sven [, Level 0]: nice
 [2021-04-06 01:24:16]: Vodo4ka [JB.st, Level 41]: cHurch: каким образом я ною? Назвав тебя собакой?
 [2021-04-06 01:24:20]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-06 01:24:30]: Swarfey [FookinLads, Level 60]: lol wtfv
+[2021-04-06 01:24:31]: Swarfey [FookinLads, Level 60]: XD
+[2021-04-06 01:24:36]: Foxi♥ [♥, Level 0]: Swarfey: <3
+[2021-04-06 01:24:37]: Swarfey [FookinLads, Level 60]: <3
+[2021-04-06 01:24:39]: ***  [, Level 0]: 'Foxi♥' has left the game
+[2021-04-06 01:24:39]: Swarfey [FookinLads, Level 60]: ty xd
+[2021-04-06 01:24:39]: ERROR [404, Level 56]: Foxi♥:  war
