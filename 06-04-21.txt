@@ -12674,3 +12674,5 @@
 [2021-04-06 13:36:11]: ***  [, Level 0]: '(1)i' has left the game
 [2021-04-06 13:36:12]: ***  [, Level 0]: fomjn is on a killing spree with 5 blocks
 [2021-04-06 13:36:14]: [D] BC|kakashi [BC, Level 0]: Sad Guy:
+[2021-04-06 13:36:28]: [D] BC|kakashi [BC, Level 0]: Sad Guy: weak up
+[2021-04-06 13:36:34]: ***  [, Level 0]: fomjn's killing spree was ended by [D] toxicdaddy (5 blocks)
