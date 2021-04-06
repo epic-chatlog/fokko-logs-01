@@ -9976,3 +9976,7 @@
 [2021-04-06 10:28:29]: ***  [, Level 0]: [D] Deadmouse finished in: 2 minute(s)  9.92 second(s)
 [2021-04-06 10:28:29]: ***  [, Level 0]: New record: 1 minute(s) 54.08 second(s) better.
 [2021-04-06 10:28:31]: BC|kakashi [BC, Level 0]: (1)Axandos: was geht
+[2021-04-06 10:28:34]: BC|Tixnix [BC, Level 34]: x7|zemer:
+[2021-04-06 10:28:36]: Black Wolf [, Level 0]: ChillerDragon.*: stop now
+[2021-04-06 10:28:36]: ChillerDragon [Chilli.*, Level 32]: Black Wolf: I am currently afk.
+[2021-04-06 10:28:37]: (1)Axandos [, Level 25]: hi
