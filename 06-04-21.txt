@@ -4581,3 +4581,7 @@
 [2021-04-06 04:44:13]: Not WarHammer [, Level 26]: chillerdagorn:  İ DONT TOUCH
 [2021-04-06 04:44:22]: CKA3A4NIK[NR] [Night Raid, Level 35]: умру ты поможеш?
 [2021-04-06 04:44:35]: Shiro. [404, Level 42]: 11111: gay
+[2021-04-06 05:31:33]: ***  [, Level 0]: 'ai9u7wgreauiwgh' entered and joined the game
+[2021-04-06 05:31:33]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
+[2021-04-06 05:31:33]: ***  [, Level 0]: Successfully logged in
+[2021-04-06 05:31:33]: ***  [, Level 0]: [WARNING] You did not set security pin yet. Check '/pin' for more information.
