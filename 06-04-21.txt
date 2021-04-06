@@ -5242,3 +5242,5 @@
 [2021-04-06 06:21:56]: [D] toxicdaddy [, Level 21]: ChillerDragon: WIESO
 [2021-04-06 06:21:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-06 06:22:03]: ChillerDragon [Chilli.*, Level 44]: flag ? Swarfey xd
+[2021-04-06 06:22:07]: ChillerDragon [Chilli.*, Level 44]: du bloxt mich toxicdaddy
+[2021-04-06 06:22:11]: ChillerDragon [Chilli.*, Level 44]: wayblock even toxicdaddy
