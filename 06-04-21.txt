@@ -6455,3 +6455,5 @@
 [2021-04-06 07:25:05]: ***  [, Level 0]: 'Isegrin' finished the special race!
 [2021-04-06 07:25:06]: Foxie♥ [♥, Level 36]: Maatiteusz: im poor
 [2021-04-06 07:25:13]: ***  [, Level 0]: '(1)Foxi♥' entered and joined the game
+[2021-04-06 07:25:16]:   [, Level 0]: Maatiteusz: Foxie♥: wait
+[2021-04-06 07:25:23]: ChillerDragon.* [|*KoG*|, Level 41]: xD
