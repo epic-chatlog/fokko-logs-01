@@ -5362,3 +5362,4 @@
 [2021-04-06 06:32:00]: ***  [, Level 0]: 'drakie' has left the game (Timeout)
 [2021-04-06 06:32:00]: ChillerDragon [|*KoG*|, Level 44]: xD
 [2021-04-06 06:32:01]: ***  [, Level 0]: 'drakie' entered and joined the game
+[2021-04-06 06:32:09]: Nudelsaft c: [FookinLads, Level 60]: ss: fr?
