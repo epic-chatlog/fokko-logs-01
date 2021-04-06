@@ -12926,3 +12926,6 @@
 [2021-04-06 14:08:03]: ***  [, Level 0]: 'lefo' has left the game
 [2021-04-06 14:08:03]: ***  [, Level 0]: 'J3nxCAst3x' has left the game
 [2021-04-06 14:08:22]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
+[2021-04-06 14:08:52]: ***  [, Level 0]: fomin is on a killing spree with 5 blocks
+[2021-04-06 14:08:56]: ***  [, Level 0]: fomjn is on a killing spree with 20 blocks
+[2021-04-06 14:08:56]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
