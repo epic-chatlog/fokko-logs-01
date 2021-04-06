@@ -15620,3 +15620,6 @@
 [2021-04-05 23:21:56]: PoliceTee [xSD7, Level 25]: s7_sven: clan
 [2021-04-05 23:21:58]: ***  [, Level 0]: 'Boti.' entered and joined the game
 [2021-04-05 23:21:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-05 23:22:08]: s7_sven [, Level 16]: mhh
+[2021-04-05 23:22:09]: Anatomyx [WeAreYoung, Level 0]: BulgarianTee: PoliceTee Boti. Falco641  x7|zemer  s7_sven SAUD ai9u7wgreauiwgh (1)chillerdagor falkenauge [D] falkenauge (1)chillerdagor s6_sven
+[2021-04-05 23:22:11]: PoliceTee [xSD7, Level 25]: Anatomyx: zzzz
