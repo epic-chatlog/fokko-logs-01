@@ -10045,3 +10045,5 @@
 [2021-04-06 10:31:36]:   [, Level 0]: |HolyHo|°: ビール|Scorp: war
 [2021-04-06 10:31:36]: ***  [, Level 0]: 'tee in black' entered and joined the game
 [2021-04-06 10:31:39]: plopkoek [, Level 0]: kurama:  wait
+[2021-04-06 10:31:49]: plopkoek [, Level 0]: kurama:  hmmm
+[2021-04-06 10:31:58]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
