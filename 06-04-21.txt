@@ -4705,3 +4705,6 @@
 [2021-04-06 05:42:13]: ***  [, Level 0]: 'fuck Shiro.' entered and joined the game
 [2021-04-06 05:42:13]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game (Timeout Protection used)
 [2021-04-06 05:42:15]: ***  [, Level 0]: 'fuck Shiro.' has left the game (Timeout Protection used)
+[2021-04-06 05:42:29]: ***  [, Level 0]: 'WarHammer' has left the game (Timeout)
+[2021-04-06 05:42:29]: ***  [, Level 0]: 'WarHammer'' has left the game (Timeout)
+[2021-04-06 05:42:30]: ***  [, Level 0]: 'Pimka✿' entered and joined the game
