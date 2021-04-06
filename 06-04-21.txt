@@ -12668,3 +12668,8 @@
 [2021-04-06 13:35:18]: ***  [, Level 0]: [D] toxicdaddy's killing spree was ended by any (9 blocks)
 [2021-04-06 13:35:24]: ez [, Level 42]: Kirito♥: fokko are my friend :D so bye ♥
 [2021-04-06 13:35:43]: Kirito♥ [♥, Level 35]: ez: idc you faked someone it is against the rules
+[2021-04-06 13:36:06]: ***  [, Level 0]: '1' has left the game (Timeout Protection over)
+[2021-04-06 13:36:06]: ***  [, Level 0]: 'nameless tee' has left the game (Timeout Protection over)
+[2021-04-06 13:36:11]: ***  [, Level 0]: 'ez' has left the game
+[2021-04-06 13:36:11]: ***  [, Level 0]: '(1)i' has left the game
+[2021-04-06 13:36:12]: ***  [, Level 0]: fomjn is on a killing spree with 5 blocks
