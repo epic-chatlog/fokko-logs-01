@@ -4683,3 +4683,9 @@
 [2021-04-06 05:40:21]: ChillerDragon.* [Chilli.*, Level 41]: ty ss
 [2021-04-06 05:40:21]: WarHammer' [, Level 0]: flappy:  ha ha bot
 [2021-04-06 05:40:37]: ***  [, Level 0]: 'Two zero' entered and joined the game
+[2021-04-06 05:40:43]: ***  [, Level 0]: 'Two zero' has left the game
+[2021-04-06 05:40:47]: ***  [, Level 0]: 'Two zero' entered and joined the game
+[2021-04-06 05:40:47]: ***  [, Level 0]: 'Two zero' has left the game
+[2021-04-06 05:40:48]: fokkonaut [, Level 102]: ChillerDragon:
+[2021-04-06 05:40:52]: WarHammer' [, Level 0]: chillerdagorn:
+[2021-04-06 05:40:53]: fokkonaut [, Level 102]: ChillerDragon: is das alles auch performant genug
