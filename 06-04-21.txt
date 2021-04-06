@@ -5586,3 +5586,7 @@
 [2021-04-06 06:45:40]:   [, Level 0]: Ding Dong: laser
 [2021-04-06 06:45:42]: (1)ss [, Level 12]: help
 [2021-04-06 06:45:46]: (1)ChillerDrago [|*KoG*|, Level 31]: das triggert
+[2021-04-06 06:45:48]: power2 [TrRShClNrRs, Level 0]: u gotta pay
+[2021-04-06 06:45:48]: ***  [, Level 0]: 'Isegrin' entered and joined the game
+[2021-04-06 06:45:57]:   [, Level 0]: Ding Dong: wait rly ?
+[2021-04-06 06:46:00]: (1)ChillerDrago [Chilli.*, Level 31]: Isegrin why rq
