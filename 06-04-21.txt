@@ -11767,3 +11767,4 @@
 [2021-04-06 12:17:53]:   [, Level 0]: kemboa: restart
 [2021-04-06 12:18:03]:   [, Level 0]: WarHammer: XD
 [2021-04-06 12:18:08]:   [, Level 0]: WarHammer: XXD
+[2021-04-06 12:18:44]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
