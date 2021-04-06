@@ -4486,3 +4486,5 @@
 [2021-04-06 04:34:42]: 11111 [, Level 0]: WW1: NOOB
 [2021-04-06 04:34:45]: mami [Ape, Level 16]: say sorry
 [2021-04-06 04:35:22]: ***  [, Level 0]: 'Maatiteusz' finished the special race!
+[2021-04-06 04:35:46]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-06 04:35:48]: iMxtteo [, Level 26]: I like turtles.
