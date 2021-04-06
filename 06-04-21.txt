@@ -1704,3 +1704,5 @@
 [2021-04-06 01:33:48]: ***  [, Level 0]: '♫Amirian♬' entered and joined the game
 [2021-04-06 01:33:53]: Nudelsaft c: [FookinLads, Level 37]: GET ISEGRIN
 [2021-04-06 01:34:01]: ***  [, Level 0]: 'Kaptar' has left the game
+[2021-04-06 01:34:21]: Nudelsaft c: [FookinLads, Level 37]: AAAAA
+[2021-04-06 01:34:22]: Nudelsaft c: [FookinLads, Level 37]: XD
