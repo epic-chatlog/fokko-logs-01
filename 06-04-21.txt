@@ -2926,3 +2926,5 @@
 [2021-04-06 02:42:08]: ERROR [404, Level 56]: i got 70mio
 [2021-04-06 02:42:13]: (2)ChillerDrago [Chilli.*, Level 32]: he cant control em weqe
 [2021-04-06 02:42:18]: ERROR [404, Level 56]: weqe: idc about my friends its about us
+[2021-04-06 02:42:19]: (2)ChillerDrago [Chilli.*, Level 32]: u gotta make peace with them weqe
+[2021-04-06 02:42:26]: Falco642 [, Level 3]: peace imateo
