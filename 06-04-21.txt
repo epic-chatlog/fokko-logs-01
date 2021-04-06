@@ -5294,3 +5294,6 @@
 [2021-04-06 06:26:36]: any [404, Level 37]: Swarfey: ok
 [2021-04-06 06:26:53]: Swarfey [FookinLads, Level 37]: ez³
 [2021-04-06 06:26:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-06 06:27:10]: ***  [, Level 0]: 'koya' entered and joined the game
+[2021-04-06 06:27:12]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-06 06:27:12]: ChillerDragon [|*KoG*|, Level 44]: simp
