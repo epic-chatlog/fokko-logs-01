@@ -11506,3 +11506,6 @@
 [2021-04-06 11:57:58]: GODLIKe [hax, Level 44]: YelloWorlD: ok ?
 [2021-04-06 11:58:00]: Demon [DD-persian, Level 10]: good
 [2021-04-06 11:58:01]: YelloWorlD [404, Level 41]: GODLIKe: ok
+[2021-04-06 11:58:06]: ***  [, Level 0]: 'Schnick' entered and joined the game
+[2021-04-06 11:58:08]: mamikral011 [, Level 0]: Demon: joke sorry
+[2021-04-06 11:58:09]: ***  [, Level 0]: 'tee' joined the minigame 'Survival', use '/survival' to join aswell
