@@ -13499,3 +13499,4 @@
 [2021-04-06 15:54:33]: ***  [, Level 0]: 'Marcisten' has left the game
 [2021-04-06 15:54:38]: ♥TAKO♥ [, Level 25]: yeeeeey
 [2021-04-06 15:57:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-06 15:57:17]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
