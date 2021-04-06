@@ -12700,3 +12700,4 @@
 [2021-04-06 13:43:26]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
 [2021-04-06 13:43:33]: (1)Kirito♥ [♥, Level 24]: Virus:  xD
 [2021-04-06 13:43:37]: ***  [, Level 0]: 'J3nxCAst3x' entered and joined the game
+[2021-04-06 13:43:47]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' has been caught by 'any' (10 minutes arrest)
