@@ -5311,3 +5311,5 @@
 [2021-04-06 06:28:41]: ChillerDragon [Chilli.*, Level 44]: aber any is n arsch ERROR
 [2021-04-06 06:28:47]: ERROR [404, Level 56]: ChillerDragon:  sind alle in 404
 [2021-04-06 06:28:55]: ChillerDragon [Chilli.*, Level 44]: ja ERROR aber er is hässlich dazu xd
+[2021-04-06 06:29:04]: ERROR [404, Level 56]: mir recht egal wie die leute aussehen
+[2021-04-06 06:29:05]: ChillerDragon [|*KoG*|, Level 44]: schau dir an wie er aussieht
