@@ -4538,3 +4538,4 @@
 [2021-04-06 04:40:01]: ビール|Scorp [, Level 0]: CKA3A4NIK: ха
 [2021-04-06 04:40:02]: CKA3A4NIK[NR] [Night Raid, Level 35]: Donatello:  Peace?
 [2021-04-06 04:40:07]: CKA3A4NIK [, Level 32]: Donatello:  Peace? pls?
+[2021-04-06 04:40:18]: ***  [, Level 0]: 'power' has left the game
