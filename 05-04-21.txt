@@ -14994,3 +14994,5 @@
 [2021-04-05 18:29:21]: ***  [, Level 0]: 'S Y T H N' changed name to 'нυƨнıκε'
 [2021-04-05 18:29:22]: ***  [, Level 0]: 'Elmattoski :>' has left the game
 [2021-04-05 18:31:46]: нυƨнıκε [zε†α, Level 37]: wallet?
+[2021-04-05 18:31:55]: нυƨнıκε [zε†α, Level 37]: how many wallet you have
+[2021-04-05 18:31:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
