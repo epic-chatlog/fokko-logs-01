@@ -13693,3 +13693,4 @@
 [2021-04-06 16:41:19]: x7|zemer [xSD7, Level 0]: (1)Mr.KshKsh99: S Y T H N is on his acc
 [2021-04-06 16:41:43]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
 [2021-04-06 16:41:43]: ***  [, Level 0]: '♥TAKO♥' has left the game
+[2021-04-06 16:42:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
