@@ -13010,3 +13010,10 @@
 [2021-04-06 14:16:52]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
 [2021-04-06 14:16:54]: Isegrin [, Level 54]: GAS CHAMBER
 [2021-04-06 14:16:56]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
+[2021-04-06 14:17:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-06 14:17:03]: Isegrin [, Level 54]: YelloWorlD: PLES DONT KIL ME
+[2021-04-06 14:17:04]: (2)Kirito♥ [♥, Level 36]: ~DemoizL~:  heeelep :(
+[2021-04-06 14:17:05]: fomjn [RUA, Level 0]: Kirito♥: xd
+[2021-04-06 14:17:10]: ***  [, Level 0]: 'GOLD' has left the game
+[2021-04-06 14:17:10]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-06 14:17:11]: Isegrin [, Level 54]: YelloWorlD: dont gas me nazi PLES
