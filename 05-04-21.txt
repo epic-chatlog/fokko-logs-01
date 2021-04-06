@@ -15039,3 +15039,6 @@
 [2021-04-05 18:57:34]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-05 18:57:55]: ***  [, Level 0]: 'σмєтнιηg' has left the game (Timeout)
 [2021-04-05 18:57:55]: ***  [, Level 0]: '(1)S Y T H N' has left the game (Timeout)
+[2021-04-05 18:58:52]: ***  [, Level 0]: 's6_sven' has left the game
+[2021-04-05 18:58:52]: ***  [, Level 0]: 's7_sven' has left the game
+[2021-04-05 18:58:55]: ***  [, Level 0]: '(1)P4PyrOs' entered and joined the game
