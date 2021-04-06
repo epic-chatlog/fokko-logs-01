@@ -5056,3 +5056,5 @@
 [2021-04-06 06:06:59]: ChillerDragon [|*KoG*|, Level 44]: pro Swarfey
 [2021-04-06 06:07:00]: ss [, Level 3]: FOKNAUNT HELP
 [2021-04-06 06:07:02]: Discord [, Level 39]: Swarfey: ja das wars
+[2021-04-06 06:07:08]: Discord [, Level 39]: Swarfey: es wird dann das \ mit angezeigt
+[2021-04-06 06:07:08]: ***  [, Level 0]: 'lol' entered and joined the game
