@@ -12457,3 +12457,5 @@
 [2021-04-06 13:16:58]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-06 13:17:26]: ***  [, Level 0]: '☻' changed name to 'MieSlime'
 [2021-04-06 13:17:57]: Fearless [, Level 40]: Axandos:  KURA
+[2021-04-06 13:18:11]: ***  [, Level 0]: ### 'TURİSH POWER' TURKİSH POWER
+[2021-04-06 13:18:17]: ***  [, Level 0]: 'fomjn' entered and joined the game
