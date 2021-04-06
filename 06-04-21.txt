@@ -12279,3 +12279,6 @@
 [2021-04-06 12:51:07]: ***  [, Level 0]: 'fox' has left the game
 [2021-04-06 12:51:14]: ***  [, Level 0]: 'S Y T H N' has left the game (Timeout)
 [2021-04-06 12:51:25]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
+[2021-04-06 12:51:52]: ☺ [, Level 2]: BULLETBOT: hey man
+[2021-04-06 12:51:56]: BULLETBOT [, Level 0]: who you
+[2021-04-06 12:51:58]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
