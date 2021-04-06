@@ -56,3 +56,8 @@
 [2021-04-06 00:02:51]: [D] Boti. [.bad, Level 27]: (1)x7|KshKsh99: new dog?
 [2021-04-06 00:02:58]: PoliceTee [xSD7, Level 25]: E
 [2021-04-06 00:03:05]: Kiøn1029 [.bad, Level 31]: szegény maki
+[2021-04-06 00:03:14]: [D] Boti. [.bad, Level 27]: az
+[2021-04-06 00:03:15]: ***  [, Level 0]: 'Kodeik' joined the spectators
+[2021-04-06 00:03:19]: ***  [, Level 0]: 'Kodeik' joined the game
+[2021-04-06 00:03:19]: [D] Boti. [.bad, Level 27]: defaults
+[2021-04-06 00:03:24]: Kiøn1029 [.bad, Level 31]: igen
