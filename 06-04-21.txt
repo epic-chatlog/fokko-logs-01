@@ -2112,3 +2112,16 @@
 [2021-04-06 01:50:20]: ***  [, Level 0]: 'power2' entered and joined the game
 [2021-04-06 01:50:21]: ♫Amirian♬ [, Level 29]: ERROR:
 [2021-04-06 01:50:21]:   [, Level 0]: (1)OP|Supers: Vodo4ka:  wait
+[2021-04-06 01:50:25]: Swarfey [FookinLads, Level 60]: ERROR: hab nur clanmates vertraut, ein mal
+[2021-04-06 01:50:25]: ***  [, Level 0]: '[D] mamikral011' has left the game (Timeout)
+[2021-04-06 01:50:25]: ***  [, Level 0]: 'mamikral011' has left the game (Timeout)
+[2021-04-06 01:50:26]: Kezo [FookinLads, Level 0]: Foxie♥: dont try again
+[2021-04-06 01:50:26]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-06 01:50:28]:   [, Level 0]: (1)OP|Supers: 'BU' IS AN INVALID TARGET LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT
+[2021-04-06 01:50:28]: Swarfey [FookinLads, Level 60]: sad
+[2021-04-06 01:50:29]: Nudelsaft c: [FookinLads, Level 37]: xd
+[2021-04-06 01:50:29]: ***  [, Level 0]: NO ERROR. is on a killing spree with 5 blocks
+[2021-04-06 01:50:31]: Kezo [FookinLads, Level 0]: timeout sad :D
+[2021-04-06 01:50:33]:   [, Level 0]: (1)OP|Supers: :c
+[2021-04-06 01:50:34]: NO ERROR. [404, Level 74]: Swarfey:  sage immer wieder
+[2021-04-06 01:50:37]: ♫Amirian♬ [, Level 29]: Boti.: thx
