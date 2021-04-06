@@ -9635,3 +9635,5 @@
 [2021-04-06 10:01:53]: White Wolf [, Level 24]: any: plz fluffy 1
 [2021-04-06 10:01:55]: ***  [, Level 0]: ### 'Demon' help
 [2021-04-06 10:01:56]: ***  [, Level 0]: 'Demon' has been muted for 60 seconds
+[2021-04-06 10:01:58]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-06 10:02:09]: GOLD [404, Level 40]: ChillerDragon: >>>
