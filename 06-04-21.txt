@@ -13214,3 +13214,5 @@
 [2021-04-06 14:49:32]: Kezo [FookinLads, Level 0]: elim çarptı
 [2021-04-06 14:49:48]: ***  [, Level 0]: 'Kezo' changed name to 'vahema'
 [2021-04-06 14:49:53]: LagHammer [, Level 0]: <3
+[2021-04-06 14:50:04]: ***  [, Level 0]: 'vahema' changed name to 'KeğhtZo'
+[2021-04-06 14:50:04]: LagHammer [, Level 0]: aha beklediğim olay gerçekleşti
