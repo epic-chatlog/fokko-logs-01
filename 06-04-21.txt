@@ -13397,3 +13397,6 @@
 [2021-04-06 15:27:15]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
 [2021-04-06 15:27:17]: fomin [RUA, Level 0]: flappy is bot?
 [2021-04-06 15:27:20]: Flupper [xSD7, Level 0]: yes
+[2021-04-06 15:27:23]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
+[2021-04-06 15:27:24]: fomin [RUA, Level 0]: I like turtles.
+[2021-04-06 15:27:32]: Flupper [xSD7, Level 0]: t
