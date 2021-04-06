@@ -7407,3 +7407,5 @@
 [2021-04-06 08:15:28]: Boti. [.bad, Level 33]: np
 [2021-04-06 08:15:30]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-06 08:15:31]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-06 08:15:37]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-06 08:15:42]: ERROR [404, Level 56]: ChillerDragon:  kezo warhammer cylox xDDD
