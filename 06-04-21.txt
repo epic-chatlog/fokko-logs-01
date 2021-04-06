@@ -11509,3 +11509,6 @@
 [2021-04-06 11:58:06]: ***  [, Level 0]: 'Schnick' entered and joined the game
 [2021-04-06 11:58:08]: mamikral011 [, Level 0]: Demon: joke sorry
 [2021-04-06 11:58:09]: ***  [, Level 0]: 'tee' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-06 11:58:20]: Foxi♥ [♥, Level 0]: UselessTee: war?
+[2021-04-06 11:58:22]: Demon [DD-persian, Level 10]: want help?
+[2021-04-06 11:58:25]: ***  [, Level 0]: 'tee' left the minigame 'Survival'
