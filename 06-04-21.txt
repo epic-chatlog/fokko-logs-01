@@ -5388,3 +5388,9 @@
 [2021-04-06 06:33:52]: ***  [, Level 0]: ss's killing spree was ended by power (6 blocks)
 [2021-04-06 06:33:57]: ***  [, Level 0]: 'Sutzer' entered and joined the game
 [2021-04-06 06:33:59]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-06 06:34:02]: ChillerDragon [|*KoG*|, Level 44]: u look like shit GODLIKe
+[2021-04-06 06:34:08]: ***  [, Level 0]: 'Sutzer' has left the game
+[2021-04-06 06:34:10]: ***  [, Level 0]: 'Sutzer' entered and joined the game
+[2021-04-06 06:34:10]: ***  [, Level 0]: power is on a killing spree with 5 blocks
+[2021-04-06 06:34:10]: ***  [, Level 0]: [POLICE-CHANNEL] 'power' is spawnblocking. Catch him!
+[2021-04-06 06:34:12]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
