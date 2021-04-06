@@ -13456,3 +13456,4 @@
 [2021-04-06 15:44:16]: t [, Level 42]: x7|Flipper: fun war ?
 [2021-04-06 15:44:16]: x7|zemer [xSD7, Level 0]: x7|Flipper:
 [2021-04-06 15:44:50]: ***  [, Level 0]: x7|Flipper is on a killing spree with 5 blocks
+[2021-04-06 15:45:24]: ***  [, Level 0]: 'BRO' has left the game
