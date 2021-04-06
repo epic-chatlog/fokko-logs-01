@@ -14988,3 +14988,4 @@
 [2021-04-05 18:26:07]: ***  [, Level 0]: 'fORTNITE' entered and joined the game
 [2021-04-05 18:26:14]: ***  [, Level 0]: '(1)S Y T H N' entered and joined the game
 [2021-04-05 18:26:24]: ***  [, Level 0]: '(1)S Y T H N' changed name to 'σмєтнιηg'
+[2021-04-05 18:26:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
