@@ -6369,3 +6369,6 @@
 [2021-04-06 07:21:28]: ***  [, Level 0]: 'Falco641' would have timed out, but can use timeout protection now
 [2021-04-06 07:21:33]: Shiro. [404, Level 42]: Killua: i need help>>>
 [2021-04-06 07:21:39]: [D] toxicdaddy [, Level 21]: Killua: help
+[2021-04-06 07:21:39]: Foxie♥ [♥, Level 36]: k
+[2021-04-06 07:21:42]: ***  [, Level 0]: 'power' has left the game
+[2021-04-06 07:21:49]: ***  [, Level 0]: 'Kezo' has left the game
