@@ -13672,3 +13672,6 @@
 [2021-04-06 16:36:38]: ☺ [, Level 4]: XD
 [2021-04-06 16:37:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-06 16:37:48]: ☺ [, Level 4]: [D] ♥TAKO♥: i will farm
+[2021-04-06 16:37:58]: ***  [, Level 0]: '(1)x7|KshKsh99' entered and joined the game
+[2021-04-06 16:38:01]: ***  [, Level 0]: '(1)Mr.KshKsh99' entered and joined the game
+[2021-04-06 16:38:03]: [D] ♥TAKO♥ [, Level 0]: ☺:  ok
