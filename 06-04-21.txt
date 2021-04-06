@@ -1268,3 +1268,6 @@
 [2021-04-06 01:04:53]: cHurch [HUITA, Level 47]: MEMEME
 [2021-04-06 01:04:54]: ***  [, Level 0]: Лимонад's killing spree was ended by f"{self.name}" (15 blocks)
 [2021-04-06 01:04:54]: cHurch [HUITA, Level 47]: wat
+[2021-04-06 01:05:01]: Shiro. [404, Level 42]: ez
+[2021-04-06 01:05:02]: OP|Supers [OldPlayers, Level 0]: falkenauge:  xD
+[2021-04-06 01:05:05]: OP|Supers [OldPlayers, Level 0]: Falco641:  wtf
