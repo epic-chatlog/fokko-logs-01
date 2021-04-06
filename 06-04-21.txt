@@ -4774,3 +4774,7 @@
 [2021-04-06 05:49:59]: ***  [, Level 0]: 'ss' joined the spectators
 [2021-04-06 05:50:05]: WarHammer' [, Level 16]: fokko
 [2021-04-06 05:50:10]: ChillerDragon [|*KoG*|, Level 44]: bis limit fokkonaut
+[2021-04-06 05:50:11]: CKA3A4NIK[NR] [Night Raid, Level 35]: Cylox:  You said war4life
+[2021-04-06 05:50:11]: WarHammer' [, Level 16]: where are you
+[2021-04-06 05:50:16]: fokkonaut [, Level 102]: ChillerDragon: hat kein limit
+[2021-04-06 05:50:22]: fokkonaut [, Level 102]: ChillerDragon: nur private repos haben limit
