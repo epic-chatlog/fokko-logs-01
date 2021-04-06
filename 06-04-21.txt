@@ -7302,3 +7302,5 @@
 [2021-04-06 08:10:50]:   [, Level 0]: ERROR: GReeeN:  sie kommen xDD
 [2021-04-06 08:11:04]: Boti. [.bad, Level 33]: dummym kint van böriből
 [2021-04-06 08:11:05]: Boti. [.bad, Level 33]: nagyon jó
+[2021-04-06 08:11:07]: ***  [, Level 0]: '[D] Boti.' has left the game
+[2021-04-06 08:11:11]: ***  [, Level 0]: 'Lokomit' entered and joined the game
