@@ -12368,3 +12368,6 @@
 [2021-04-06 13:04:58]: Discord [, Level 39]: ERROR: xDD
 [2021-04-06 13:05:07]: Fearless [, Level 40]: Discord:  nudel made bot?
 [2021-04-06 13:05:09]: Discord [, Level 39]: ERROR: HEAVY NUB
+[2021-04-06 13:05:17]: Discord [, Level 39]: ERROR: fearless ye
+[2021-04-06 13:05:23]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
+[2021-04-06 13:05:27]: Fearless [, Level 40]: Discord:  nudel such a good programer
