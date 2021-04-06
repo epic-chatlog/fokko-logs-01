@@ -2877,3 +2877,6 @@
 [2021-04-06 02:39:10]: ***  [, Level 0]: 's6_sven' has left the game
 [2021-04-06 02:39:13]: (2)ChillerDrago [|*KoG*|, Level 32]: ich lasse keine mates im stich ERROR
 [2021-04-06 02:39:14]: iMxtteo [, Level 26]: inf jump noob
+[2021-04-06 02:39:27]: ***  [, Level 0]: 'MattéoLaChienn' has left the game
+[2021-04-06 02:39:27]: iMxtteo [, Level 26]: wtf
+[2021-04-06 02:39:28]: (2)ChillerDrago [|*KoG*|, Level 32]: ERROR: warum bloxt du weqe
