@@ -11811,3 +11811,6 @@
 [2021-04-06 12:21:56]: tee [, Level 0]: Shiro.: lol
 [2021-04-06 12:21:57]: [D] mamikral011 [, Level 21]: s7_sven: helppppp
 [2021-04-06 12:21:58]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-06 12:22:06]: WarHammer [, Level 0]: KEZO HELP
+[2021-04-06 12:22:06]: [D] mamikral011 [, Level 21]: s7_sven: war?
+[2021-04-06 12:22:10]: WarHammer [, Level 0]: KEZO HELP
