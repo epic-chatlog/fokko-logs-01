@@ -2754,3 +2754,5 @@
 [2021-04-06 02:21:41]: power2 [TrRShClNrRs, Level 0]: heeelp
 [2021-04-06 02:21:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-06 02:22:18]:   [, Level 0]: ♫Amirian♬: pls
+[2021-04-06 02:23:19]:   [, Level 0]: ♫Amirian♬: ur meme
+[2021-04-06 02:23:25]: Isegrin [, Level 54]: YelloWorlD: xD
