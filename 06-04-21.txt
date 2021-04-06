@@ -13647,3 +13647,6 @@
 [2021-04-06 16:31:29]: ***  [, Level 0]: [POLICE-CHANNEL] '♥TAKO♥' is spawnblocking. Catch him!
 [2021-04-06 16:32:01]: ***  [, Level 0]: ♥TAKO♥'s killing spree was ended by x7|KshKsh99 (9 blocks)
 [2021-04-06 16:32:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-06 16:32:15]: ***  [, Level 0]: [POLICE-CHANNEL] '♥TAKO♥' has been caught by 'x7|KshKsh99' (5 minutes arrest)
+[2021-04-06 16:32:16]: x7|KshKsh99 [xSD7, Level 37]: XD
+[2021-04-06 16:32:17]: ♥TAKO♥ [, Level 25]: noooooooooooo
