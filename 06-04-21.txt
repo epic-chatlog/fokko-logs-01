@@ -12948,3 +12948,7 @@
 [2021-04-06 14:12:11]: ***  [, Level 0]: [POLICE-CHANNEL] '[D] toxicdaddy' is spawnblocking. Catch him!
 [2021-04-06 14:12:17]: ***  [, Level 0]: 'Virus' entered and joined the game
 [2021-04-06 14:12:30]: ***  [, Level 0]: [POLICE-CHANNEL] '[D] toxicdaddy' has been caught by 'Virus' (10 minutes arrest)
+[2021-04-06 14:12:42]: Isegrin [, Level 54]: [D] toxicdaddy: NEW APE IN THE ZOO
+[2021-04-06 14:12:47]: ***  [, Level 0]: 'soleri1' has left the game
+[2021-04-06 14:12:51]: Isegrin [, Level 54]: BRAND NEW
+[2021-04-06 14:12:52]: [D] toxicdaddy [, Level 22]: Isegrin: war
