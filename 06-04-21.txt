@@ -1882,3 +1882,9 @@
 [2021-04-06 01:43:10]: mamikral011 [, Level 0]: :d
 [2021-04-06 01:43:13]: Boti. [.bad, Level 32]: és
 [2021-04-06 01:43:13]: Foxie♥ [♥, Level 35]: falkenauge: DOWBN
+[2021-04-06 01:43:14]: mamikral011 [, Level 0]: ERROR: help
+[2021-04-06 01:43:15]: Boti. [.bad, Level 32]: mindjárt
+[2021-04-06 01:43:16]: Boti. [.bad, Level 32]: nagy pillanat
+[2021-04-06 01:43:21]: kiøn1029 [.bad, Level 25]: az
+[2021-04-06 01:43:24]: mamikral011 [, Level 0]: help .
+[2021-04-06 01:43:25]: NO ERROR. [404, Level 74]: xD
