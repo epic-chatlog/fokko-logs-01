@@ -7183,3 +7183,4 @@
 [2021-04-06 08:00:18]: kiøn1029 [.bad, Level 0]: XDDD
 [2021-04-06 08:00:29]: ***  [, Level 0]: '(1)coala45' entered and joined the game
 [2021-04-06 08:00:33]: ***  [, Level 0]: '[2] VeemID' entered and joined the game
+[2021-04-06 08:01:03]: ERROR [404, Level 56]: ChillerDragon:  guck 5jumps xD
