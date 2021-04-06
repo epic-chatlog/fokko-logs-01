@@ -5987,3 +5987,7 @@
 [2021-04-06 07:04:58]: ***  [, Level 0]: '(1)Cosmo' has left the game
 [2021-04-06 07:04:58]: ***  [, Level 0]: 'Cosmo' has left the game
 [2021-04-06 07:04:59]: fokkonaut [, Level 102]: Shiro.: just join with ddnet noob learn to read
+[2021-04-06 07:05:04]: Shiro. [404, Level 42]: no men
+[2021-04-06 07:05:06]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-06 07:05:09]: fokkonaut [, Level 102]: Shiro,: ye men
+[2021-04-06 07:05:09]: Isegrin [, Level 54]: CHILERA
