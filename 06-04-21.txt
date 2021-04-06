@@ -1380,3 +1380,5 @@
 [2021-04-06 01:12:33]: Nudelsaft c: [FookinLads, Level 37]: 1
 [2021-04-06 01:12:34]: Shiro. [404, Level 42]: chose a number
 [2021-04-06 01:12:34]: cHurch [HUITA, Level 47]: 1
+[2021-04-06 01:12:36]: cHurch [HUITA, Level 47]: 2
+[2021-04-06 01:12:47]: OP|Supers [OldPlayers, Level 0]: :c
