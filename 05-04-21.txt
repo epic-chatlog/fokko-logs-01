@@ -16219,3 +16219,8 @@
 [2021-04-05 23:56:38]: Kiøn1029 [.bad, Level 31]: monke
 [2021-04-05 23:56:42]: ***  [, Level 0]: 'Tuc' has left the game
 [2021-04-05 23:56:43]: ***  [, Level 0]: 'Tuc' entered and joined the game
+[2021-04-05 23:56:48]: ***  [, Level 0]: 'Ðream' entered and joined the game
+[2021-04-05 23:56:54]: Boti. [.bad, Level 32]: 30k xp és lvl 33
+[2021-04-05 23:56:55]: Kiøn1029 [.bad, Level 31]: megver
+[2021-04-05 23:56:55]: ***  [, Level 0]: '(1)1' finished the special race!
+[2021-04-05 23:56:56]: HeavyGeneral [, Level 0]: weqe: when the impostor is sus
