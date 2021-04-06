@@ -15468,3 +15468,4 @@
 [2021-04-05 22:53:47]: ***  [, Level 0]: R2D2 finished in: 2 minute(s) 40.72 second(s)
 [2021-04-05 22:54:11]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
 [2021-04-05 22:54:46]: ***  [, Level 0]: 'P4Pyr0s' changed name to '(1)falkenauge'
+[2021-04-05 22:55:45]: ***  [, Level 0]: 'Chicken wing' finished the special race!
