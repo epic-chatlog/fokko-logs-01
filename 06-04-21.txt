@@ -3513,3 +3513,5 @@
 [2021-04-06 03:27:50]: Rock [, Level 19]: Shiro.: thx for help
 [2021-04-06 03:27:54]: NO ERROR. [404, Level 74]: Nudelsaft c::  xD
 [2021-04-06 03:28:01]: NO ERROR. [404, Level 74]: Nudelsaft c::  hatten pause xD
+[2021-04-06 03:28:06]: ***  [, Level 0]: 'Yerbatero' entered and joined the game
+[2021-04-06 03:28:06]: NO ERROR. [404, Level 74]: Nudelsaft c::  wollte eigtl nur afk
