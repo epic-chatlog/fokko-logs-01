@@ -10698,3 +10698,7 @@
 [2021-04-06 11:04:37]: YelloWorlD [404, Level 41]: ERROR: like 100k for peace
 [2021-04-06 11:04:37]: ***  [, Level 0]: 630. Kezo Time: 02:03.06, requested by Kezo
 [2021-04-06 11:04:46]: Axandos [, Level 25]: MORFY:
+[2021-04-06 11:04:51]: ERROR [404, Level 56]: ath client hat doch translator oder (1)ChillerDrago
+[2021-04-06 11:04:52]: ***  [, Level 0]: 'Demon,' entered and joined the game
+[2021-04-06 11:04:59]: (2)ChillerDrago [Chilli.*, Level 44]: hab ich ma gehört ja ERROR
+[2021-04-06 11:04:59]: ***  [, Level 0]: 'Leblebi' entered and joined the game
