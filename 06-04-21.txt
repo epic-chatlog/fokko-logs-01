@@ -10270,3 +10270,4 @@
 [2021-04-06 10:44:01]:   [, Level 0]: kurama: x7|Chronos:
 [2021-04-06 10:44:31]: ***  [, Level 0]: 'Hunter.exe' entered and joined the game
 [2021-04-06 10:44:35]: ***  [, Level 0]: 'Kaptar' entered and joined the game
+[2021-04-06 10:44:40]:   [, Level 0]: Hunter.exe: iMxtteo: kog?
