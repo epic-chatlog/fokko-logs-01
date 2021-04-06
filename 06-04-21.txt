@@ -13093,3 +13093,4 @@
 [2021-04-06 14:32:52]: ***  [, Level 0]: [POLICE-CHANNEL] '(2)Kirito♥' is spawnblocking. Catch him!
 [2021-04-06 14:33:13]: ***  [, Level 0]: 'H0LL4D13W4LDFEE' entered and joined the game
 [2021-04-06 14:33:16]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' has been caught by '[D] toxicdaddy' (20 minutes arrest)
+[2021-04-06 14:33:34]: (2)Kirito♥ [♥, Level 36]: fomin: 20 minute
