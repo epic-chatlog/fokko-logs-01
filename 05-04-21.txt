@@ -15873,3 +15873,10 @@
 [2021-04-05 23:38:51]: (1)kais [, Level 58]: ez
 [2021-04-05 23:38:54]: ***  [, Level 0]: 'not warhammer' changed name to 'Not WarHammer'
 [2021-04-05 23:38:54]: ASDADASDSADSADS [ASDADSDADAS, Level 0]: ASADDSADASADSADSADASASDFDADASASFFADSFSAFDFDASGDFASFGDASFDASDFSADFGASFGDSAGFFGDASDDFGSADFGSAGFDASFDASFDFSAFDGHSAGHFDSAFHDFHSAFDAFDSFADFASFJADSFDJGFSADFASDDFASJDJFSAJFDSADSDJFGSADJFASDASDFGSADJF
+[2021-04-05 23:38:56]: (1)kais [, Level 58]: xD
+[2021-04-05 23:39:00]: ***  [, Level 0]: 'ASDADASDSADSADS' has left the game
+[2021-04-05 23:39:00]: ***  [, Level 0]: '(1)ASDADASDSADSA' has left the game
+[2021-04-05 23:39:01]: Chilli.* tee [Chilli.*, Level 25]: E
+[2021-04-05 23:39:02]: Chilli.* tee [Chilli.*, Level 25]: rq
+[2021-04-05 23:39:02]: Not Boti. [.bad, Level 32]: rq
+[2021-04-05 23:39:08]: ***  [, Level 0]: 'Not Boti.' changed name to 'Boti.'
