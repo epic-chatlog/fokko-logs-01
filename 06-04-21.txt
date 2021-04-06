@@ -1477,3 +1477,6 @@
 [2021-04-06 01:17:41]: OP|Supers [OldPlayers, Level 0]: Nudelsaft c::  hilfe pls :)
 [2021-04-06 01:17:46]: Vodo4ka [JB.st, Level 41]: cHurch: а то что ты собака не думаю
 [2021-04-06 01:17:56]: Boti. [.bad, Level 32]: s6_sven: bad ksh dog
+[2021-04-06 01:18:07]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-06 01:18:08]: comic [comically, Level 13]: flappy: ayy flappy my man
+[2021-04-06 01:18:09]: cHurch [HUITA, Level 47]: Vodo4ka: ты меня пиздил с кшом ещё и обзывает собакой
