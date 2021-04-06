@@ -1395,3 +1395,5 @@
 [2021-04-06 01:13:33]: NO ERROR. [404, Level 74]: chose urself u already did before.
 [2021-04-06 01:13:33]: OP|Supers [OldPlayers, Level 0]: s6_sven:  mein enemy
 [2021-04-06 01:13:36]: OP|Supers [OldPlayers, Level 0]: s6_sven:  hör afu
+[2021-04-06 01:13:48]: Shiro. [404, Level 42]: WAT
+[2021-04-06 01:13:50]: OP|Supers [OldPlayers, Level 0]: xD
