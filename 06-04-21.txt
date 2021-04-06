@@ -12676,3 +12676,7 @@
 [2021-04-06 13:36:14]: [D] BC|kakashi [BC, Level 0]: Sad Guy:
 [2021-04-06 13:36:28]: [D] BC|kakashi [BC, Level 0]: Sad Guy: weak up
 [2021-04-06 13:36:34]: ***  [, Level 0]: fomjn's killing spree was ended by [D] toxicdaddy (5 blocks)
+[2021-04-06 13:36:57]: any [404, Level 37]: toxicdaddy: ez
+[2021-04-06 13:36:58]: ***  [, Level 0]: '[D] Sad Guy' has left the game (Timeout)
+[2021-04-06 13:36:58]: ***  [, Level 0]: 'Sad Guy' has left the game (Timeout)
+[2021-04-06 13:36:58]: ***  [, Level 0]: [INFO] You can create an account using '/register'
