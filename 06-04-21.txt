@@ -11032,3 +11032,7 @@
 [2021-04-06 11:23:56]: ***  [, Level 0]: 'Demon,' entered and joined the game
 [2021-04-06 11:23:58]: ***  [, Level 0]: 'Demon,' has left the game
 [2021-04-06 11:24:08]:   [, Level 0]: hmmmmmm: hmmmmmm: oui
+[2021-04-06 11:24:12]: ***  [, Level 0]: 'Demon,' entered and joined the game
+[2021-04-06 11:24:12]:   [, Level 0]: hmmmmmm: FayZoR: oui
+[2021-04-06 11:24:15]: ***  [, Level 0]: 'Demon,' has left the game
+[2021-04-06 11:24:19]: Chronos [, Level 0]: hmmmmmm: peut pas savoir ? :c
