@@ -9829,3 +9829,7 @@
 [2021-04-06 10:16:30]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
 [2021-04-06 10:16:38]: mami [, Level 0]: mamikral011: plopkoek my train dummy
 [2021-04-06 10:16:45]:   [, Level 0]: x7|Chronos: GOLD: je ne savais pas ce qui faisais de toi que t'était fort, sa sa en fait partie, faut juste que je maitrise
+[2021-04-06 10:16:58]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-06 10:17:03]:   [, Level 0]: mamikral011: x7|zemer: come pls portal
+[2021-04-06 10:17:05]: ビール|Scorp [, Level 19]: Demon: no
+[2021-04-06 10:17:08]: Demon [DD-persian, Level 10]: ok
