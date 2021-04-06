@@ -7557,3 +7557,7 @@
 [2021-04-06 08:22:34]: Falco642 [, Level 0]: braindead fucknut
 [2021-04-06 08:22:37]: ***  [, Level 0]: '[D] Cylox' has left the game
 [2021-04-06 08:22:37]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-06 08:22:43]: Falco642 [, Level 0]: moaned "war?" when i killed you
+[2021-04-06 08:22:47]: WarHammer [, Level 26]: ERROR:  U TEAM CHİLLER ?
+[2021-04-06 08:22:51]: ***  [, Level 0]: [POLICE-CHANNEL] 'S Y T H N' is spawnblocking. Catch him!
+[2021-04-06 08:22:53]: S Y T H N [iPro, Level 37]: bruh
