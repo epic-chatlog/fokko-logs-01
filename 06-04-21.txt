@@ -1170,3 +1170,5 @@
 [2021-04-06 00:58:00]: Shiro. [404, Level 42]: looks like u can only spawn kill xaxaxaxaax
 [2021-04-06 00:58:09]: [D] falkenauge [Ʀ.I.Ƈ., Level 35]: ERROR: er hat shir dummy
 [2021-04-06 00:58:14]: ERROR [404, Level 56]: was?
+[2021-04-06 00:58:27]: [D] falkenauge [Ʀ.I.Ƈ., Level 35]: ich will shir   o nicht taggen
+[2021-04-06 00:58:27]: ERROR [404, Level 56]: Shiro.:  dummy
