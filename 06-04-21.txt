@@ -13132,3 +13132,5 @@
 [2021-04-06 14:39:05]: ***  [, Level 0]: [POLICE-CHANNEL] '(2)Kirito♥' is spawnblocking. Catch him!
 [2021-04-06 14:39:10]: ***  [, Level 0]: (2)Kirito♥ is on a killing spree with 25 blocks
 [2021-04-06 14:39:10]: ***  [, Level 0]: [POLICE-CHANNEL] '(2)Kirito♥' is spawnblocking. Catch him!
+[2021-04-06 14:39:19]: Kezo [FookinLads, Level 41]: WarHammer: aga eskiden çok sevdigim bir texture pack vardı aga
+[2021-04-06 14:39:27]: Kezo [FookinLads, Level 41]: WarHammer: onu bayadır kullanmadıgımı fark ettim
