@@ -8470,3 +8470,5 @@
 [2021-04-06 09:01:23]:   [, Level 0]: (1)Axandos: Hunter.exe:  was geht
 [2021-04-06 09:01:23]: ***  [, Level 0]: '(1)Hunter.exe' has left the game
 [2021-04-06 09:01:24]:   [, Level 0]: Telefantastic: Maatiteusz: hii
+[2021-04-06 09:01:29]: (2)ChillerDrago [Chilli.*, Level 44]: t'aide me kais
+[2021-04-06 09:01:36]: ***  [, Level 0]: 'x7|Chronos' has left the game
