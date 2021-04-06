@@ -10247,3 +10247,7 @@
 [2021-04-06 10:42:05]: GOLD [404, Level 40]: ERROR why
 [2021-04-06 10:42:11]: ERROR [404, Level 74]: GOLD:  idk french xDDD
 [2021-04-06 10:42:20]: GOLD [404, Level 40]: ERROR no need to know xD
+[2021-04-06 10:42:23]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
+[2021-04-06 10:42:29]: ERROR [404, Level 74]: IMMA load ath client theres a translator if i remember right
+[2021-04-06 10:42:33]:   [, Level 0]: Kotik: [D] Deadmouse: do u want to go to me?/spec Kotik
+[2021-04-06 10:42:34]: comic [comically, Level 13]: jesus
