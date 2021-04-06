@@ -5071,3 +5071,5 @@
 [2021-04-06 06:08:02]: Discord [, Level 39]: Swarfey: guck mal
 [2021-04-06 06:08:04]: Discord [, Level 39]: fokkonaut: \`hallo\`
 [2021-04-06 06:08:05]: Discord [, Level 39]: fokkonaut: geht doch
+[2021-04-06 06:08:11]: Discord [, Level 39]: Swarfey: wenn du `@everyone` machst wird niemand gepingt
+[2021-04-06 06:08:14]: ***  [, Level 0]: '(2)lol' entered and joined the game
