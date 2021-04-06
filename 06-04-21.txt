@@ -11694,3 +11694,6 @@
 [2021-04-06 12:11:58]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-06 12:12:03]: ☺ [, Level 2]: you are endless hook s7_sven
 [2021-04-06 12:12:08]: ***  [, Level 0]: 'GODLIKe.' has left the game
+[2021-04-06 12:12:12]: ***  [, Level 0]: ### 'WarHammer' xd
+[2021-04-06 12:12:13]: s7_sven [, Level 0]: i will try without
+[2021-04-06 12:12:20]: GODLIKe [hax, Level 44]: q ?
