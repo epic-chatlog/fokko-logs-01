@@ -464,3 +464,6 @@
 [2021-04-06 00:26:08]: ***  [, Level 0]: (1)x7|KshKsh99's killing spree was ended by WarHammer' (27 blocks)
 [2021-04-06 00:26:12]: ***  [, Level 0]: 'Enter men' entered and joined the game
 [2021-04-06 00:26:17]: Falco642 [, Level 0]: tee: l2p
+[2021-04-06 00:26:19]: Falco642 [, Level 0]: srsly
+[2021-04-06 00:26:21]: ***  [, Level 0]: PoliceTee's killing spree was ended by x7|gaytee (5 blocks)
+[2021-04-06 00:26:25]: WarHammer' [, Level 16]: HUH
