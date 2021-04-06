@@ -126,3 +126,6 @@
 [2021-04-06 00:06:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-06 00:06:59]: (1)x7|KshKsh99 [xSD7, Level 37]: power2: say thanks daddy not ty
 [2021-04-06 00:07:10]: (1)x7|KshKsh99 [xSD7, Level 37]: power2: respect your elder
+[2021-04-06 00:07:21]: ***  [, Level 0]: '(2)1' has left the game
+[2021-04-06 00:07:27]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-06 00:07:31]: Kiøn1029 [.bad, Level 31]: bulgi spammel dc-n
