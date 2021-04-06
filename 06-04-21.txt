@@ -7250,3 +7250,6 @@
 [2021-04-06 08:07:12]: ***  [, Level 0]: '(2)Cosmo' has left the game
 [2021-04-06 08:07:14]:   [, Level 0]: Boti.: XD
 [2021-04-06 08:07:21]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-06 08:07:25]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
+[2021-04-06 08:07:34]: ***  [, Level 0]: 'coala23' has left the game
+[2021-04-06 08:07:34]: ***  [, Level 0]: 'coala3251' has left the game
