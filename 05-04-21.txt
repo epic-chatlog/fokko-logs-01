@@ -15121,3 +15121,7 @@
 [2021-04-05 20:04:36]: ***  [, Level 0]: '(1)' has left the game (Timeout)
 [2021-04-05 20:05:58]: ***  [, Level 0]: 'x7|zemer' has left the game
 [2021-04-05 20:06:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-05 20:07:45]: ***  [, Level 0]: 'нυƨнıκε' has left the game (Timeout)
+[2021-04-05 20:07:45]: ***  [, Level 0]: '(1)S Y T H N' has left the game (Timeout)
+[2021-04-05 20:07:45]: ***  [, Level 0]: 'σмєтнιηg' has left the game (Timeout)
+[2021-04-05 20:07:45]: ***  [, Level 0]: 'S Y T H N' has left the game (Timeout)
