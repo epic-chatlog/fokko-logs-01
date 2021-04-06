@@ -3091,3 +3091,6 @@
 [2021-04-06 02:56:23]: ***  [, Level 0]: 'Shiro.' entered and joined the game
 [2021-04-06 02:56:32]: EvenFatterAss [, Level 36]: Swarfey: ????????????????????????
 [2021-04-06 02:56:36]: Swarfey [FookinLads, Level 60]: u are annoying
+[2021-04-06 02:56:49]: FatterAss [, Level 36]: Nudelsaft c:: i did nothing
+[2021-04-06 02:56:50]: Nudelsaft c: [FookinLads, Level 37]: war?
+[2021-04-06 02:56:53]: Nudelsaft c: [FookinLads, Level 37]: u hooked me
