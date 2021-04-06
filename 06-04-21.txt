@@ -1447,3 +1447,8 @@
 [2021-04-06 01:15:33]: ***  [, Level 0]: 'komando' has left the game
 [2021-04-06 01:15:38]: Mista bombastic [TrRShClNrRs, Level 40]: Shiro.: tf
 [2021-04-06 01:16:06]: ***  [, Level 0]: '[D] Boti.' has left the game
+[2021-04-06 01:16:12]: ***  [, Level 0]: Boti. is on a killing spree with 5 blocks
+[2021-04-06 01:16:14]: Shiro. [404, Level 42]: end of fun i leave
+[2021-04-06 01:16:14]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-06 01:16:14]: ***  [, Level 0]: 'ist ein Noob' has left the game
+[2021-04-06 01:16:17]: Nudelsaft c: [FookinLads, Level 37]: aaaaaaaaaa
