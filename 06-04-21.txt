@@ -9505,3 +9505,6 @@
 [2021-04-06 09:55:49]: ビール|Scorp [, Level 19]: Falco642: fluffy 1
 [2021-04-06 09:55:49]: ***  [, Level 0]: power finished in: 4 minute(s) 15.50 second(s)
 [2021-04-06 09:55:52]: mami [, Level 0]: ビール|Scorp: oke
+[2021-04-06 09:56:06]:   [, Level 0]: YelloWorlD: power: lucky
+[2021-04-06 09:56:11]: power [TrRShClNrRs, Level 0]: <3 YelloWorlD
+[2021-04-06 09:56:12]:   [, Level 0]: Isegrin: YelloWorlD: AAAAAAAA
