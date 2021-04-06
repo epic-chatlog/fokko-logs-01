@@ -15411,3 +15411,4 @@
 [2021-04-05 22:01:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-05 22:04:01]: ***  [, Level 0]: WarHammer finished in: 4 minute(s) 21.92 second(s)
 [2021-04-05 22:04:01]: ***  [, Level 0]: New record: 3 minute(s) 58.48 second(s) better.
+[2021-04-05 22:04:05]: ***  [, Level 0]: WarHammer' finished in: 2 minute(s)  3.94 second(s)
