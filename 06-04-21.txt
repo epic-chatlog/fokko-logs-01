@@ -3354,3 +3354,7 @@
 [2021-04-06 03:17:19]: NO ERROR. [404, Level 74]: thanks
 [2021-04-06 03:17:21]:   [, Level 0]: any: np
 [2021-04-06 03:17:22]: NO ERROR. [404, Level 74]: ye?
+[2021-04-06 03:17:25]: Shiro. [404, Level 42]: hax
+[2021-04-06 03:17:25]: ***  [, Level 0]: '1234' entered and joined the game
+[2021-04-06 03:17:28]: Nudelsaft c: [FookinLads, Level 37]: AAAAAAAA
+[2021-04-06 03:17:35]: ***  [, Level 0]: '1234' has left the game
