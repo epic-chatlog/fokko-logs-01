@@ -8694,3 +8694,7 @@
 [2021-04-06 09:12:30]: ***  [, Level 0]: 'power2' entered and joined the game
 [2021-04-06 09:12:32]: (1)Axandos [, Level 25]: S Y T H N:  insane
 [2021-04-06 09:12:38]: (1)kais [, Level 58]: ChillerDragon: it should be "bon professeur"
+[2021-04-06 09:12:44]: ***  [, Level 0]: 'ビール|Scorp' has left the game
+[2021-04-06 09:12:46]: (2)ChillerDrago [Chilli.*, Level 44]: bon bon kais
+[2021-04-06 09:12:46]:   [, Level 0]: S Y T H N: (1)Axandos: fng player geworden oder wie ja
+[2021-04-06 09:12:50]: ***  [, Level 0]: 'mT Азазел' has left the game
