@@ -9470,3 +9470,6 @@
 [2021-04-06 09:52:23]: ***  [, Level 0]: ChillerDragon.* is on a killing spree with 5 blocks
 [2021-04-06 09:52:23]: (1)ChillerDrago [|*KoG*|, Level 31]: : I am currently afk.
 [2021-04-06 09:52:23]: ChillerDragon.* [|*KoG*|, Level 41]: : I am currently afk.
+[2021-04-06 09:52:27]: kais [, Level 65]: x7|Chronos: non, tkt
+[2021-04-06 09:52:33]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-06 09:52:34]: Isegrin [, Level 54]: ビール|Scorp: MOVE
