@@ -1372,3 +1372,5 @@
 [2021-04-06 01:11:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-06 01:12:05]: OP|Supers [OldPlayers, Level 0]: XDDD
 [2021-04-06 01:12:06]: OP|Supers [OldPlayers, Level 0]: f u
+[2021-04-06 01:12:17]: OP|Supers [OldPlayers, Level 0]: ;c
+[2021-04-06 01:12:20]: ***  [, Level 0]: 's7_sven' entered and joined the game
