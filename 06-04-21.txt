@@ -12681,3 +12681,5 @@
 [2021-04-06 13:36:58]: ***  [, Level 0]: 'Sad Guy' has left the game (Timeout)
 [2021-04-06 13:36:58]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-06 13:37:15]: [D] BC|kakashi [BC, Level 0]: kais:
+[2021-04-06 13:37:43]: ***  [, Level 0]: '(1)ES' has left the game (Timeout)
+[2021-04-06 13:37:43]: ***  [, Level 0]: 'ES' has left the game (Timeout)
