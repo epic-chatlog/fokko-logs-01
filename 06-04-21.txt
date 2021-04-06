@@ -4630,3 +4630,5 @@
 [2021-04-06 05:35:11]: mami [Ape, Level 16]: lo
 [2021-04-06 05:35:14]: mami [Ape, Level 16]: xd
 [2021-04-06 05:35:15]: ***  [, Level 0]: 'ビール|Scorp' entered and joined the game
+[2021-04-06 05:35:21]: ***  [, Level 0]: Cosmo finished in: 1 minute(s) 44.84 second(s)
+[2021-04-06 05:35:21]: ***  [, Level 0]: New record: 2 minute(s) 32.20 second(s) better.
