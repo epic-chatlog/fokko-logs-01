@@ -5383,3 +5383,5 @@
 [2021-04-06 06:33:29]: ***  [, Level 0]: 'kais' has left the game (Timeout Protection over)
 [2021-04-06 06:33:29]: ***  [, Level 0]: '(1)kais' has left the game (Timeout Protection over)
 [2021-04-06 06:33:34]: ᅟᅟ [, Level 60]: :c
+[2021-04-06 06:33:40]: ***  [, Level 0]: ss is on a killing spree with 5 blocks
+[2021-04-06 06:33:41]: ᅟᅟ [, Level 60]: rude
