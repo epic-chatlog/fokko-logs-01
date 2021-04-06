@@ -8411,3 +8411,6 @@
 [2021-04-06 08:57:42]: (2)ChillerDrago [|*KoG*|, Level 44]: send frehcn again lkais
 [2021-04-06 08:57:44]: ***  [, Level 0]: 'Catty' joined the game
 [2021-04-06 08:57:47]: i [, Level 39]: Meetiteusz: see ur account
+[2021-04-06 08:57:57]: ***  [, Level 0]: '(1)Axandos' entered and joined the game
+[2021-04-06 08:57:58]: ***  [, Level 0]: 'Axandos' has left the game
+[2021-04-06 08:58:02]:   [, Level 0]: (1)Axandos: kais:  thx
