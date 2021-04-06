@@ -4647,3 +4647,5 @@
 [2021-04-06 05:36:50]: CKA3A4NIK[NR] [Night Raid, Level 35]: fokkonaut:  im normal
 [2021-04-06 05:36:53]: Sutzer [Guard, Level 0]: sL|KeBu28: laser up
 [2021-04-06 05:36:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-06 05:37:11]: Sutzer [Guard, Level 0]: sL|KeBu28: you are boring
+[2021-04-06 05:37:11]: ***  [, Level 0]: [POLICE-CHANNEL] 'WarHammer' has been caught by 'fokkonaut' (19 minutes arrest)
