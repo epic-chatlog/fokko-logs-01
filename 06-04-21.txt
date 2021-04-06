@@ -4667,3 +4667,4 @@
 [2021-04-06 05:39:27]: WarHammer' [, Level 0]: x
 [2021-04-06 05:39:36]: WarHammer' [, Level 0]: arrested me
 [2021-04-06 05:39:38]: ***  [, Level 0]: '[D] toxicdaddy' entered and joined the game
+[2021-04-06 05:39:39]: ***  [, Level 0]: 'Curse' entered and joined the game
