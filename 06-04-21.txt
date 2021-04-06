@@ -12435,3 +12435,5 @@
 [2021-04-06 13:12:33]: ☻ [FookinLads, Level 43]: ☺:  spike ?
 [2021-04-06 13:12:37]: ☺ [, Level 2]: yes
 [2021-04-06 13:12:39]: ☻ [FookinLads, Level 43]: ok
+[2021-04-06 13:13:01]: ☻ [FookinLads, Level 43]: ☺:  hard without portal
+[2021-04-06 13:13:02]: ***  [, Level 0]: [D] toxicdaddy is on a killing spree with 5 blocks
