@@ -5221,3 +5221,4 @@
 [2021-04-06 06:18:12]: ***  [, Level 0]: '♥JustRace.♥' has left the game
 [2021-04-06 06:18:15]: ***  [, Level 0]: 'ビール|Scorp' entered and joined the game
 [2021-04-06 06:18:21]: ***  [, Level 0]: 'Xelthios' has left the game
+[2021-04-06 06:18:25]: ChillerDragon [Chilli.*, Level 44]: ez rq
