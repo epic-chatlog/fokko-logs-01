@@ -12925,3 +12925,4 @@
 [2021-04-06 14:07:52]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
 [2021-04-06 14:08:03]: ***  [, Level 0]: 'lefo' has left the game
 [2021-04-06 14:08:03]: ***  [, Level 0]: 'J3nxCAst3x' has left the game
+[2021-04-06 14:08:22]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
