@@ -15419,3 +15419,4 @@
 [2021-04-05 22:10:05]: zєυѕ [, Level 25]: t
 [2021-04-05 22:10:24]: WarHammer [, Level 26]: T
 [2021-04-05 22:10:43]: ***  [, Level 0]: 'zєυѕ' has left the game
+[2021-04-05 22:11:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
