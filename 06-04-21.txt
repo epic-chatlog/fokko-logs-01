@@ -5086,3 +5086,6 @@
 [2021-04-06 06:09:14]: Swarfey [FookinLads, Level 37]: ChillerDragon: hä wieso nicht xd
 [2021-04-06 06:09:18]: ***  [, Level 0]: '(2)ss' has left the game
 [2021-04-06 06:09:19]: ChillerDragon [Chilli.*, Level 44]: wegen der bridge
+[2021-04-06 06:09:26]: ChillerDragon [|*KoG*|, Level 44]: die is nich feature complete
+[2021-04-06 06:09:30]: ***  [, Level 0]: 'VIktor Robban' entered and joined the game
+[2021-04-06 06:09:32]: Swarfey [FookinLads, Level 37]: es wird von der api als normale nachricht genommen soweit ich weiß
