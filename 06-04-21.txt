@@ -1374,3 +1374,9 @@
 [2021-04-06 01:12:06]: OP|Supers [OldPlayers, Level 0]: f u
 [2021-04-06 01:12:17]: OP|Supers [OldPlayers, Level 0]: ;c
 [2021-04-06 01:12:20]: ***  [, Level 0]: 's7_sven' entered and joined the game
+[2021-04-06 01:12:24]: Nudelsaft c: [FookinLads, Level 37]: Shiro.: need my jetpack for that?
+[2021-04-06 01:12:26]: ***  [, Level 0]: 'Лимонад' entered and joined the game
+[2021-04-06 01:12:32]: Shiro. [404, Level 42]: ERROR: 1 or 2
+[2021-04-06 01:12:33]: Nudelsaft c: [FookinLads, Level 37]: 1
+[2021-04-06 01:12:34]: Shiro. [404, Level 42]: chose a number
+[2021-04-06 01:12:34]: cHurch [HUITA, Level 47]: 1
