@@ -1480,3 +1480,5 @@
 [2021-04-06 01:18:07]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-06 01:18:08]: comic [comically, Level 13]: flappy: ayy flappy my man
 [2021-04-06 01:18:09]: cHurch [HUITA, Level 47]: Vodo4ka: ты меня пиздил с кшом ещё и обзывает собакой
+[2021-04-06 01:18:17]: OP|Supers [OldPlayers, Level 0]: Boti.:  he is no ksh dog
+[2021-04-06 01:18:24]: Boti. [.bad, Level 32]: OP|Supers: he is
