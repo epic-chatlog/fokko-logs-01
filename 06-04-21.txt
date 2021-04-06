@@ -1544,3 +1544,5 @@
 [2021-04-06 01:21:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-06 01:22:01]: [D] falkenauge [Ʀ.I.Ƈ., Level 35]: ERROR:
 [2021-04-06 01:22:10]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-06 01:22:18]: OP|Supers [OldPlayers, Level 0]: comic:  Bye :D
+[2021-04-06 01:22:23]: comic [comically, Level 13]: OP|Supers: byee ^_^
