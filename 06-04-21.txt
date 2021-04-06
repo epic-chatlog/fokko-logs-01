@@ -2790,3 +2790,4 @@
 [2021-04-06 02:27:39]: iMxtteo [, Level 26]: fuck this
 [2021-04-06 02:27:41]: ***  [, Level 0]: 'Bobcornichon' entered and joined the game
 [2021-04-06 02:27:48]:   [, Level 0]: ♫Amirian♬: taser trash
+[2021-04-06 02:28:01]: ***  [, Level 0]: 'weqe' has left the game (Timeout)
