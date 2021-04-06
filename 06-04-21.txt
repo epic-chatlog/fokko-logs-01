@@ -2648,3 +2648,6 @@
 [2021-04-06 02:11:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-06 02:12:04]: Boti. [.bad, Level 33]: most talán tényleg
 [2021-04-06 02:12:05]: ***  [, Level 0]: 'Boti.' has left the game
+[2021-04-06 02:12:08]: falkenauge [Ʀ.I.Ƈ., Level 34]: wer hat mich getötet Nudelsaft c: ???
+[2021-04-06 02:12:08]: kiøn1029 [.bad, Level 25]: az jó
+[2021-04-06 02:12:17]: Falco642 [, Level 0]: SAUD: who put you there
