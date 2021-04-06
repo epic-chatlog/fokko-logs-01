@@ -10636,3 +10636,11 @@
 [2021-04-06 11:02:24]: MORFY [, Level 29]: wtf
 [2021-04-06 11:02:25]: Kezo [FookinLads, Level 41]: TASER TASER
 [2021-04-06 11:02:28]: ***  [, Level 0]: 'lolo2378' has left the game
+[2021-04-06 11:02:29]: Chronos [, Level 0]: ERROR: np xD
+[2021-04-06 11:02:30]: ***  [, Level 0]: ### 'Kezo' LAAAAAAAAAAAAAAAAG
+[2021-04-06 11:02:30]: ERROR [404, Level 56]: Kezo:  we can do tomorrow 2jumps hammer
+[2021-04-06 11:02:31]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-06 11:02:33]: ***  [, Level 0]: 'lolo2378' entered and joined the game
+[2021-04-06 11:02:35]: ***  [, Level 0]: 'hmmmmmm' entered and joined the game
+[2021-04-06 11:02:36]: ERROR [404, Level 56]: Kezo:  now i go sleep
+[2021-04-06 11:02:38]:   [, Level 0]: Maatiteusz: YelloWorlD: maybe now
