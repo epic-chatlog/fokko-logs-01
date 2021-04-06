@@ -3962,3 +3962,5 @@
 [2021-04-06 04:03:21]: ***  [, Level 0]: 'Falco642' has left the game
 [2021-04-06 04:03:22]: s6_sven [, Level 0]: toxicdaddy: ?
 [2021-04-06 04:03:28]: ***  [, Level 0]: 'OP|Supers' entered and joined the game
+[2021-04-06 04:03:40]: ***  [, Level 0]: Pimka✿ finished in: 1 minute(s)  9.10 second(s)
+[2021-04-06 04:03:40]: ***  [, Level 0]: New record:  9.52 second(s) better.
