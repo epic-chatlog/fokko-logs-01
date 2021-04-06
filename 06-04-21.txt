@@ -13411,3 +13411,6 @@
 [2021-04-06 15:27:55]: jcanela2022 [, Level 0]: t
 [2021-04-06 15:28:02]: ***  [, Level 0]: 'jcanela2022' has been muted for 60 seconds
 [2021-04-06 15:28:03]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
+[2021-04-06 15:28:42]: t [, Level 42]: laser
+[2021-04-06 15:28:42]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
+[2021-04-06 15:28:43]: x7|Flipper [xSD7, Level 14]: laser
