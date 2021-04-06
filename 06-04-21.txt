@@ -10000,3 +10000,5 @@
 [2021-04-06 10:29:33]: ***  [, Level 0]: '(1)ERROR' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-06 10:29:33]: ***  [, Level 0]: 'ERROR.' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-06 10:29:33]: ***  [, Level 0]: 'ERROR' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-06 10:29:41]: ***  [, Level 0]: 'HardreenClutch' entered and joined the game
+[2021-04-06 10:29:47]: Demon [DD-persian, Level 10]: :(
