@@ -15429,3 +15429,4 @@
 [2021-04-05 22:25:46]: ***  [, Level 0]: 'Anatomy' entered and joined the game
 [2021-04-05 22:26:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-05 22:29:00]: Anatomy [MaL4iki kz, Level 35]: kais: сука пиздец охуевший да
+[2021-04-05 22:29:14]: ***  [, Level 0]: 'Anatomy' has left the game
