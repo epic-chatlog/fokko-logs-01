@@ -12930,3 +12930,4 @@
 [2021-04-06 14:08:56]: ***  [, Level 0]: fomjn is on a killing spree with 20 blocks
 [2021-04-06 14:08:56]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
 [2021-04-06 14:09:14]: ***  [, Level 0]: [D] toxicdaddy's killing spree was ended by YelloWorlD (5 blocks)
+[2021-04-06 14:09:18]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
