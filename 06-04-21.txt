@@ -10850,3 +10850,5 @@
 [2021-04-06 11:12:02]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 34.48 second(s)
 [2021-04-06 11:12:03]: GOLD [404, Level 40]: Kaptar: 5 1
 [2021-04-06 11:12:06]: Kotik [, Level 19]: mami:  im ビール|Zero
+[2021-04-06 11:12:08]: GOLD [404, Level 40]: Kaptar: 5 2
+[2021-04-06 11:12:18]: mami [, Level 1]: Kotik:  oke
