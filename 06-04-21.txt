@@ -8888,3 +8888,7 @@
 [2021-04-06 09:22:34]: (1)kais [, Level 58]: ChillerDragon: temporairement
 [2021-04-06 09:22:37]:   [, Level 0]: (2)ChillerDragon: bra
 [2021-04-06 09:22:38]: [2] VeemID [, Level 26]: (1)kais: chillerdragon est safe mtn ?
+[2021-04-06 09:22:49]:   [, Level 0]: (2)ChillerDragon: ok non paix kais
+[2021-04-06 09:22:51]:   [, Level 0]: (2)ChillerDragon: guerra kais!
+[2021-04-06 09:22:54]: ***  [, Level 0]: 'iMxtteo' has left the game
+[2021-04-06 09:22:58]: ***  [, Level 0]: [POLICE-CHANNEL] 'Noragami' is spawnblocking. Catch him!
