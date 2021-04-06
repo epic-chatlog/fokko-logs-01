@@ -3738,3 +3738,6 @@
 [2021-04-06 03:42:22]: ***  [, Level 0]: 'Sutzer' has left the game
 [2021-04-06 03:42:22]: ***  [, Level 0]: '[D] Sutzer' has left the game
 [2021-04-06 03:42:28]: EvenFatterAss [, Level 36]: NO ERROR.: ye
+[2021-04-06 03:42:33]: MieSlime [FookinLads, Level 43]: .:  pls stop
+[2021-04-06 03:42:37]: . [TrRShClNrRs, Level 42]: MieSlime: he
+[2021-04-06 03:42:41]: . [TrRShClNrRs, Level 42]: MieSlime: started
