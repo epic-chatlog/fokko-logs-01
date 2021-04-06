@@ -4679,3 +4679,6 @@
 [2021-04-06 05:40:10]: mami [Ape, Level 16]: i die
 [2021-04-06 05:40:10]: ***  [, Level 0]: 'SlerTz.♥' entered and joined the game
 [2021-04-06 05:40:15]: fokkonaut [, Level 102]: sec
+[2021-04-06 05:40:20]: ***  [, Level 0]: 'mami' has left the game
+[2021-04-06 05:40:21]: ChillerDragon.* [Chilli.*, Level 41]: ty ss
+[2021-04-06 05:40:21]: WarHammer' [, Level 0]: flappy:  ha ha bot
