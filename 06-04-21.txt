@@ -1263,3 +1263,8 @@
 [2021-04-06 01:04:29]: Shiro. [404, Level 42]: XDD
 [2021-04-06 01:04:38]: Swarfey [FookinLads, Level 60]: aaaaaaa
 [2021-04-06 01:04:42]: OP|Supers [OldPlayers, Level 0]: 253 angle
+[2021-04-06 01:04:45]: ***  [, Level 0]: Лимонад is on a killing spree with 15 blocks
+[2021-04-06 01:04:53]: Shiro. [404, Level 42]: wat
+[2021-04-06 01:04:53]: cHurch [HUITA, Level 47]: MEMEME
+[2021-04-06 01:04:54]: ***  [, Level 0]: Лимонад's killing spree was ended by f"{self.name}" (15 blocks)
+[2021-04-06 01:04:54]: cHurch [HUITA, Level 47]: wat
