@@ -13461,3 +13461,5 @@
 [2021-04-06 15:46:39]: x7|Flipper [xSD7, Level 14]: join the cakk
 [2021-04-06 15:46:42]: x7|Flipper [xSD7, Level 14]: call
 [2021-04-06 15:47:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-06 15:47:55]: ***  [, Level 0]: 'jcanela2022' has left the game
+[2021-04-06 15:47:58]: ***  [, Level 0]: 'jcanela2022' entered and joined the game
