@@ -15096,3 +15096,4 @@
 [2021-04-05 19:48:00]: ***  [, Level 0]: 'нυƨнıκε' entered and joined the game
 [2021-04-05 19:48:06]: ***  [, Level 0]: 'нυƨнıκε' changed name to 'x7|zemer'
 [2021-04-05 19:48:31]: ***  [, Level 0]: 'x7|zemer' changed name to '(1)σмєтнιηg'
+[2021-04-05 19:48:36]: ***  [, Level 0]: '(1)σмєтнιηg' changed name to 'x7|zemer'
