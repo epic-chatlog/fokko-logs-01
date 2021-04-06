@@ -12454,3 +12454,4 @@
 [2021-04-06 13:16:51]: ***  [, Level 0]: 'Инк' has left the game
 [2021-04-06 13:16:52]: ***  [, Level 0]: '[D] BC|Tixnix' would have timed out, but can use timeout protection now
 [2021-04-06 13:16:53]: ***  [, Level 0]: 'BC|Tixnix' would have timed out, but can use timeout protection now
+[2021-04-06 13:16:58]: ***  [, Level 0]: [INFO] You can create an account using '/register'
