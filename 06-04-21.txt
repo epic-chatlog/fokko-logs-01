@@ -12981,3 +12981,5 @@
 [2021-04-06 14:15:07]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
 [2021-04-06 14:15:07]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
 [2021-04-06 14:15:07]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
+[2021-04-06 14:15:12]: ***  [, Level 0]: fomjn is on a killing spree with 10 blocks
+[2021-04-06 14:15:12]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
