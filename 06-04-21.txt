@@ -1172,3 +1172,7 @@
 [2021-04-06 00:58:14]: ERROR [404, Level 56]: was?
 [2021-04-06 00:58:27]: [D] falkenauge [Ʀ.I.Ƈ., Level 35]: ich will shir   o nicht taggen
 [2021-04-06 00:58:27]: ERROR [404, Level 56]: Shiro.:  dummy
+[2021-04-06 00:58:32]: Vodo4ka [JB.st, Level 41]: OP|Supers: another traitor
+[2021-04-06 00:58:33]: [D] falkenauge [Ʀ.I.Ƈ., Level 35]: er hat sein dummy geholt
+[2021-04-06 00:58:36]: OP|Supers [OldPlayers, Level 0]: Shiro.:  thx
+[2021-04-06 00:58:37]: ist ein Noob [, Level 51]: ERROR: wat
