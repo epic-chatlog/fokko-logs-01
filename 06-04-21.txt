@@ -13230,3 +13230,4 @@
 [2021-04-06 14:51:55]: LagHammer [, Level 0]: VAHEMA:  bazen gidip gelcek maus
 [2021-04-06 14:52:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-06 14:52:03]: VAHEMA [FookinLads, Level 0]: LagHammer: neden
+[2021-04-06 14:52:18]: LagHammer [, Level 0]: VAHEMA:  pil bitince öyle oluyo. boşta pil yok yarın gidip almam lazım
