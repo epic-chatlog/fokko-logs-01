@@ -13153,3 +13153,4 @@
 [2021-04-06 14:41:50]: WarHammer [, Level 0]: hamer gitti
 [2021-04-06 14:41:59]: Kezo [FookinLads, Level 41]: FLAG SAVAŞLARI ASDFLJAS
 [2021-04-06 14:42:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-06 14:42:10]: ***  [, Level 0]: 'fomjn' entered and joined the game
