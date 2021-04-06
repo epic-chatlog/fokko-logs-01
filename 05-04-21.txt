@@ -15173,3 +15173,4 @@
 [2021-04-05 20:41:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-05 20:42:09]: SAUD [, Level 22]: \
 [2021-04-05 20:44:00]: Hady [new bot, Level 0]: SAUD:  HELLO
+[2021-04-05 20:44:58]: ***  [, Level 0]: 'ilum' entered and joined the game
