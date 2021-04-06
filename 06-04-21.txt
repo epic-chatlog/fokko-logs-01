@@ -13702,3 +13702,4 @@
 [2021-04-06 16:47:30]: ***  [, Level 0]: '(1)S Y T H N' entered and joined the game
 [2021-04-06 16:47:33]: ***  [, Level 0]: '(1)S Y T H N' has left the game
 [2021-04-06 16:47:36]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-06 16:49:35]: ***  [, Level 0]: (2)Kirito♥ is on a killing spree with 5 blocks
