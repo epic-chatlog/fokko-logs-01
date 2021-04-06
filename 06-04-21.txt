@@ -3246,3 +3246,8 @@
 [2021-04-06 03:07:57]: ***  [, Level 0]: 'SrakaWGaciach' has left the game
 [2021-04-06 03:08:12]: ***  [, Level 0]: 'WW2' entered and joined the game
 [2021-04-06 03:08:14]: ***  [, Level 0]: '(1)1' has left the game
+[2021-04-06 03:08:22]: Shiro. [404, Level 42]: Nudelsaft c:: wait
+[2021-04-06 03:08:24]: Shiro. [404, Level 42]: look
+[2021-04-06 03:08:24]: Nudelsaft c: [FookinLads, Level 37]: yes
+[2021-04-06 03:08:25]: NO ERROR. [404, Level 74]: xD
+[2021-04-06 03:08:25]: ***  [, Level 0]: 'WW1' entered and joined the game
