@@ -479,3 +479,6 @@
 [2021-04-06 00:27:02]: Koishi [A, Level 0]: oh
 [2021-04-06 00:27:14]: PoliceTee [xSD7, Level 25]: E
 [2021-04-06 00:27:18]: .BadGayClan [xSD7, Level 23]: f
+[2021-04-06 00:27:23]: ***  [, Level 0]: '.BadGayClan' changed name to 'x7|zemer'
+[2021-04-06 00:27:28]: Kiøn1029 [.bad, Level 31]: boti
+[2021-04-06 00:27:30]: Kiøn1029 [.bad, Level 31]: gyere
