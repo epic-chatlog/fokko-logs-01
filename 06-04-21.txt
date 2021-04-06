@@ -7247,3 +7247,6 @@
 [2021-04-06 08:07:06]: ***  [, Level 0]: »ℱℬℑ«'s killing spree was ended by coala3152 (10 blocks)
 [2021-04-06 08:07:08]: ***  [, Level 0]: kiøn1029 finished in: 4 minute(s) 38.38 second(s)
 [2021-04-06 08:07:08]: ***  [, Level 0]: New record: 23.68 second(s) better.
+[2021-04-06 08:07:12]: ***  [, Level 0]: '(2)Cosmo' has left the game
+[2021-04-06 08:07:14]:   [, Level 0]: Boti.: XD
+[2021-04-06 08:07:21]: ***  [, Level 0]: 'nameless tee' has left the game
