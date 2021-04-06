@@ -5298,3 +5298,4 @@
 [2021-04-06 06:27:12]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-06 06:27:12]: ChillerDragon [|*KoG*|, Level 44]: simp
 [2021-04-06 06:27:23]: ***  [, Level 0]: Kirito♥ is on a killing spree with 5 blocks
+[2021-04-06 06:27:33]: Swarfey [FookinLads, Level 37]: ERROR: ChillerDragon nice teamwork
