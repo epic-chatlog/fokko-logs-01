@@ -5652,3 +5652,5 @@
 [2021-04-06 06:48:39]: ***  [, Level 0]: 'VIktor Robban' entered and joined the game
 [2021-04-06 06:48:43]: ᅟᅟ [, Level 60]: omg lag
 [2021-04-06 06:48:47]: ***  [, Level 0]: [POLICE-CHANNEL] 'Shiro.' is spawnblocking. Catch him!
+[2021-04-06 06:48:47]: ***  [, Level 0]: ChillerDragon finished in: 13 minute(s) 52.20 second(s)
+[2021-04-06 06:48:50]: WarHammer [, Level 26]: ChillerDragon:  megbgeb ne amınakoyşm
