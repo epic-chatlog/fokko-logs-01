@@ -1388,3 +1388,7 @@
 [2021-04-06 01:13:05]: cHurch [HUITA, Level 47]: luv ur big ass
 [2021-04-06 01:13:07]: Shiro. [404, Level 42]: ERROR: 1 or 2
 [2021-04-06 01:13:09]: Shiro. [404, Level 42]: chose a number
+[2021-04-06 01:13:13]: ***  [, Level 0]: '__init__(self):' has left the game
+[2021-04-06 01:13:13]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-06 01:13:13]: ***  [, Level 0]: 'Лимонад' has left the game
+[2021-04-06 01:13:19]: Shiro. [404, Level 42]: if ? = kill him if ? = help him
