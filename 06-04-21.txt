@@ -10664,3 +10664,5 @@
 [2021-04-06 11:03:14]: BC|kakashi [BC, Level 0]: #
 [2021-04-06 11:03:15]:   [, Level 0]: Maatiteusz: ERROR: i hate you
 [2021-04-06 11:03:18]: ERROR [404, Level 56]: Maatiteusz:  nono
+[2021-04-06 11:03:20]:   [, Level 0]: ulrich: Isegrin: hurensohn
+[2021-04-06 11:03:22]: ***  [, Level 0]: 'ulrich' has left the game
