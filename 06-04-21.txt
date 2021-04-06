@@ -3884,3 +3884,8 @@
 [2021-04-06 03:55:43]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
 [2021-04-06 03:55:47]: Isegrin [, Level 54]: fak of
 [2021-04-06 03:56:00]: ***  [, Level 0]: 'tastee' entered and joined the game
+[2021-04-06 03:56:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-06 03:57:00]: [D] BC|Tixnix [BC, Level 26]: any²: boti kiling
+[2021-04-06 03:57:02]: Isegrin [, Level 54]: ez
+[2021-04-06 03:57:03]: Raffaello [, Level 0]: rq
+[2021-04-06 03:57:06]: EvenFatterAss [, Level 36]: rq
