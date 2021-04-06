@@ -12648,3 +12648,5 @@
 [2021-04-06 13:32:10]: ***  [, Level 0]: 'fomin' has left the game
 [2021-04-06 13:32:18]: (1)i [, Level 0]: any: trop tard
 [2021-04-06 13:32:25]: Sad Guy [, Level 40]: f
+[2021-04-06 13:32:55]: ***  [, Level 0]: '☺' has left the game
+[2021-04-06 13:32:56]: ***  [, Level 0]: '☺' entered and joined the game
