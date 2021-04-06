@@ -1203,3 +1203,7 @@
 [2021-04-06 01:00:42]: Telefantastic [TrRShClNrRs, Level 0]: Ƭevan: nvm
 [2021-04-06 01:00:43]: P4Pyr0s [, Level 0]: habe unterricht
 [2021-04-06 01:00:46]: OP|Supers [OldPlayers, Level 0]: asoo
+[2021-04-06 01:00:48]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-06 01:00:50]: Telefantastic [TrRShClNrRs, Level 0]: Ƭevan: flappy was balancing on my head
+[2021-04-06 01:00:57]: Falco642 [, Level 0]: srsly
+[2021-04-06 01:01:00]: [D] falkenauge [Ʀ.I.Ƈ., Level 35]: no:(
