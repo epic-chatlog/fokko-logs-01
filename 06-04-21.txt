@@ -1540,3 +1540,7 @@
 [2021-04-06 01:21:32]: OP|Supers [OldPlayers, Level 0]: cHurch:  monke
 [2021-04-06 01:21:40]: OP|Supers [OldPlayers, Level 0]: comic:  xD THX
 [2021-04-06 01:21:58]: OP|Supers [OldPlayers, Level 0]: flappy:  THE FAT FUCK
+[2021-04-06 01:21:59]: [D] falkenauge [Ʀ.I.Ƈ., Level 35]: ERR
+[2021-04-06 01:21:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-06 01:22:01]: [D] falkenauge [Ʀ.I.Ƈ., Level 35]: ERROR:
+[2021-04-06 01:22:10]: ***  [, Level 0]: 'f"{self.name}"' has left the game
