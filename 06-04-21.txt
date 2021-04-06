@@ -12274,3 +12274,4 @@
 [2021-04-06 12:49:44]: (1)ES [, Level 0]: Fearless: помоги
 [2021-04-06 12:49:48]: Fearless [, Level 40]: wait
 [2021-04-06 12:49:54]: (1)ES [, Level 0]: Fearless: help
+[2021-04-06 12:50:21]: ***  [, Level 0]: 'bob' has left the game
