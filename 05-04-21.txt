@@ -14972,3 +14972,4 @@
 [2021-04-05 18:10:57]: ***  [, Level 0]: 'SpaceCowboy' has left the game
 [2021-04-05 18:11:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-05 18:13:04]: ***  [, Level 0]: 'fORTNITE' has left the game
+[2021-04-05 18:16:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
