@@ -3056,3 +3056,5 @@
 [2021-04-06 02:52:34]: Discord [, Level 24]: HeavyGeneral: Dog goes woof woof
 [2021-04-06 02:52:41]: Telefantastic [TrRShClNrRs, Level 34]: Discord: no u
 [2021-04-06 02:52:45]: ***  [, Level 0]: ### 'ERROR' Woof-Woof
+[2021-04-06 02:52:47]: ***  [, Level 0]: ### 'Telefantastic' QUACK
+[2021-04-06 02:52:49]: ERROR [404, Level 56]: xD
