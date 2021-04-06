@@ -4994,3 +4994,8 @@
 [2021-04-06 06:02:45]: ᅟ [, Level 102]: dann braucht das keinen client
 [2021-04-06 06:02:45]: ***  [, Level 0]: '(2)Cosmo' has left the game
 [2021-04-06 06:02:49]: ChillerDragon [Chilli.*, Level 44]: aber client is nicer
+[2021-04-06 06:02:51]: ChillerDragon [Chilli.*, Level 44]: rip server
+[2021-04-06 06:02:54]: ***  [, Level 0]: 'SlerTz.♥' has left the game
+[2021-04-06 06:02:54]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-06 06:02:54]: ᅟ [, Level 102]: wieso?
+[2021-04-06 06:02:56]: Swarfey [FookinLads, Level 37]: der client is sowieso immer da zum farmen
