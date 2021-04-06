@@ -3919,3 +3919,5 @@
 [2021-04-06 03:59:47]: Raffaello [, Level 0]: ✯Hunter.exe: aimbogt
 [2021-04-06 03:59:51]: Isegrin [, Level 54]: [D] Boti.: xaxaaxaxa
 [2021-04-06 03:59:57]: ビール|Zero [Drunks, Level 28]: BC|kakashi: all good wait
+[2021-04-06 04:00:08]: ***  [, Level 0]: '(1)ビール|Zero' entered and joined the game
+[2021-04-06 04:00:08]: BC|kakashi [BC, Level 13]: ビール|Zero: OK
