@@ -4295,3 +4295,5 @@
 [2021-04-06 04:21:26]: ビール|Scorp [, Level 19]: OP|Supers: so so so
 [2021-04-06 04:21:31]: ***  [, Level 0]: '(2)kais' has left the game
 [2021-04-06 04:21:39]: WarHammer [, Level 26]: Cylox:  AM COMING
+[2021-04-06 04:21:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-06 04:22:00]: Raffaello [, Level 0]: s6_sven: he killed u
