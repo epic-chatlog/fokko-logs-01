@@ -4952,3 +4952,8 @@
 [2021-04-06 06:00:42]: Swarfey [FookinLads, Level 37]: hmm
 [2021-04-06 06:00:43]: fokkonaut [, Level 102]: #0404
 [2021-04-06 06:00:48]: DARWINS YT 18 [, Level 0]: hola
+[2021-04-06 06:00:57]: ChillerDragon [Chilli.*, Level 44]: mach das auf dein discord mit irc bridge pls fokkonaut
+[2021-04-06 06:00:59]: fokkonaut [, Level 102]: ChillerDragon.*: f-client op hat text selectrion
+[2021-04-06 06:00:59]: Discord [, Level 39]: ERROR: ERROR#0404
+[2021-04-06 06:01:04]: fokkonaut [, Level 102]: ChillerDragon.*: u
+[2021-04-06 06:01:06]: Discord [, Level 39]: ERROR: ERROR#0404
