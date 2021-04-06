@@ -10656,3 +10656,11 @@
 [2021-04-06 11:02:59]: ERROR [404, Level 56]: GOLD:
 [2021-04-06 11:03:00]: (1)ChillerDrago [|*KoG*|, Level 31]: oof ERROR
 [2021-04-06 11:03:03]: Kezo [FookinLads, Level 41]: ERROR: sleep well ^^
+[2021-04-06 11:03:06]: Demon [DD-persian, Level 10]: d
+[2021-04-06 11:03:07]: GOLD [404, Level 40]: ERROR: xDDDDDD
+[2021-04-06 11:03:08]: ***  [, Level 0]: 'hmmmmmm' has left the game
+[2021-04-06 11:03:09]: Hunter.exe [|Supressed|, Level 35]: xD
+[2021-04-06 11:03:14]: ***  [, Level 0]: 'ulrich' entered and joined the game
+[2021-04-06 11:03:14]: BC|kakashi [BC, Level 0]: #
+[2021-04-06 11:03:15]:   [, Level 0]: Maatiteusz: ERROR: i hate you
+[2021-04-06 11:03:18]: ERROR [404, Level 56]: Maatiteusz:  nono
