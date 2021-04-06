@@ -13212,3 +13212,5 @@
 [2021-04-06 14:49:28]: ***  [, Level 0]: 'WarHammer' changed name to 'LagHammer'
 [2021-04-06 14:49:31]: LagHammer [, Level 0]: Kezo:  ne oldu
 [2021-04-06 14:49:32]: Kezo [FookinLads, Level 0]: elim çarptı
+[2021-04-06 14:49:48]: ***  [, Level 0]: 'Kezo' changed name to 'vahema'
+[2021-04-06 14:49:53]: LagHammer [, Level 0]: <3
