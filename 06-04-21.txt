@@ -10524,3 +10524,12 @@
 [2021-04-06 10:56:44]: ERROR [404, Level 56]: any
 [2021-04-06 10:56:46]: ERROR [404, Level 56]: go left
 [2021-04-06 10:56:55]: Kezo [FookinLads, Level 41]: noobs play
+[2021-04-06 10:56:58]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-06 10:57:00]: Kezo [FookinLads, Level 41]: noobs play
+[2021-04-06 10:57:00]: Chronos [, Level 0]: ERROR: sad xD
+[2021-04-06 10:57:01]: ***  [, Level 0]: 'bielgamer' has left the game
+[2021-04-06 10:57:04]: comic [comically, Level 13]: toxicdaddy: ?
+[2021-04-06 10:57:07]: any [404, Level 37]: ERROR: stop what?
+[2021-04-06 10:57:08]: Kezo [FookinLads, Level 41]: ez flag
+[2021-04-06 10:57:09]: power [TrRShClNrRs, Level 0]: hihi iMxtteo
+[2021-04-06 10:57:10]: any [404, Level 37]: ERROR: whatt ?
