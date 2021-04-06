@@ -3497,3 +3497,8 @@
 [2021-04-06 03:26:24]: (1)ChillerDrago [Chilli.*, Level 31]: is ok wenn ich einfach wd afk gehe Swarfey ? :D
 [2021-04-06 03:26:49]:   [, Level 0]: Shiro.: dont have laser
 [2021-04-06 03:26:52]: NO ERROR. [404, Level 74]: Swarfey:  wenn wieder pause willst sag bescheid dann
+[2021-04-06 03:26:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-06 03:27:00]: (1)ChillerDrago [Chilli.*, Level 31]: a
+[2021-04-06 03:27:01]: Nudelsaft c: [FookinLads, Level 37]: bin wieder da
+[2021-04-06 03:27:01]: ***  [, Level 0]: NO ERROR. is on a killing spree with 10 blocks
+[2021-04-06 03:27:03]: ***  [, Level 0]: 'nameless tee' has left the game
