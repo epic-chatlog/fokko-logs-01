@@ -15480,3 +15480,4 @@
 [2021-04-05 23:01:15]: SAUD [, Level 22]: ilum:  help
 [2021-04-05 23:01:23]: ***  [, Level 0]: 'BulgarianTee' entered and joined the game
 [2021-04-05 23:01:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-05 23:02:29]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
