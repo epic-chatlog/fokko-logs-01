@@ -12517,3 +12517,6 @@
 [2021-04-06 13:23:48]: MieSlime [FookinLads, Level 43]: flappy:  nooooo
 [2021-04-06 13:24:02]: MieSlime [FookinLads, Level 43]: flappy:  good boi
 [2021-04-06 13:24:05]: MieSlime [FookinLads, Level 43]: Fearless:  he saved u
+[2021-04-06 13:24:09]: MieSlime [FookinLads, Level 43]: Fearless:  he's a good boi
+[2021-04-06 13:24:18]: ***  [, Level 0]: 'Sad Guy' entered and joined the game
+[2021-04-06 13:24:19]: MieSlime [FookinLads, Level 43]: Fearless:  U are a bad boi
