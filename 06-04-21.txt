@@ -8130,3 +8130,10 @@
 [2021-04-06 08:47:50]: ***  [, Level 0]: 'Catty' has left the game
 [2021-04-06 08:47:51]: ChillerDragon.* [Chilli.*, Level 41]: i thought thats spain kais xd
 [2021-04-06 08:47:52]: ビール|Zero [Drunks, Level 28]: im sorry/
+[2021-04-06 08:47:53]: ***  [, Level 0]: 'Catty' entered and joined the game
+[2021-04-06 08:47:53]: ***  [, Level 0]: '(1)i' changed name to '[D] i'
+[2021-04-06 08:47:55]: Boti. [.bad, Level 33]: nem merek most
+[2021-04-06 08:47:56]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-06 08:47:57]: Boti. [.bad, Level 33]: várj egy kicsit
+[2021-04-06 08:48:00]: kiøn1029 [.bad, Level 25]: okés
+[2021-04-06 08:48:05]: ***  [, Level 0]: '(2)Cosmo' has left the game
