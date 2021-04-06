@@ -8351,3 +8351,7 @@
 [2021-04-06 08:55:27]: ***  [, Level 0]: 'Catty' joined the game
 [2021-04-06 08:55:28]: [D] Boti. [.bad, Level 0]: igen így
 [2021-04-06 08:55:29]:   [, Level 0]: Mista bombastic: Axandos: when the server doesnt appear i start the original teeworlds, i reload there the servers and it appears on ddnet too
+[2021-04-06 08:55:32]: Axandos [, Level 0]: HardreenClutch:  auf welchem client spielst du
+[2021-04-06 08:55:39]: ***  [, Level 0]: 'Catty' joined the spectators
+[2021-04-06 08:55:40]:   [, Level 0]: (2)ChillerDragon: Axandos: bot client
+[2021-04-06 08:55:43]: ***  [, Level 0]: 'Catty' joined the game
