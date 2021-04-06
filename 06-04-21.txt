@@ -5443,3 +5443,9 @@
 [2021-04-06 06:37:38]: WarHammer [, Level 26]: (1)ss:  who are you
 [2021-04-06 06:38:10]:   [, Level 0]: ᅟ: what about green ghost with a hat?
 [2021-04-06 06:38:26]: WarHammer [, Level 26]: ChillerDragon:  i dont touch u
+[2021-04-06 06:38:38]:   [, Level 0]: ᅟ: im green
+[2021-04-06 06:38:38]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)Kirito♥' is spawnblocking. Catch him!
+[2021-04-06 06:38:40]:   [, Level 0]: ᅟ: da ba dee
+[2021-04-06 06:38:45]: ***  [, Level 0]: ### 'WarHammer' chilller stop block me
+[2021-04-06 06:38:45]: ***  [, Level 0]: (1)Kirito♥ is on a killing spree with 5 blocks
+[2021-04-06 06:38:45]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)Kirito♥' is spawnblocking. Catch him!
