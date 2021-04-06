@@ -13221,3 +13221,5 @@
 [2021-04-06 14:50:17]: ***  [, Level 0]: 'Nasledie' has left the game
 [2021-04-06 14:50:17]: KeğhtZo [FookinLads, Level 0]: :D
 [2021-04-06 14:50:18]: LagHammer [, Level 0]: KeğhtZo:  beklediğim olay gerçek oldu
+[2021-04-06 14:50:21]: KeğhtZo [FookinLads, Level 0]: ne oldu
+[2021-04-06 14:50:29]: LagHammer [, Level 0]: mausun pili bitti
