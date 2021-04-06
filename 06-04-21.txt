@@ -8547,3 +8547,8 @@
 [2021-04-06 09:04:35]: ChillerDragon.* [Chilli.*, Level 41]: bye kais?
 [2021-04-06 09:04:38]:   [, Level 0]: Ļåҕ Lobster: ChillerDragon: comment ça va aujourd'hui ?
 [2021-04-06 09:04:38]: ***  [, Level 0]: 'Catty' joined the spectators
+[2021-04-06 09:04:42]: ***  [, Level 0]: 'Catty' joined the game
+[2021-04-06 09:04:43]: ChillerDragon.* [Chilli.*, Level 41]: oui Ļåҕ Lobster
+[2021-04-06 09:04:43]: ***  [, Level 0]: 'mT Азазел' entered and joined the game
+[2021-04-06 09:04:47]: ***  [, Level 0]: 'ビール|Zero' entered and joined the game
+[2021-04-06 09:04:49]: ***  [, Level 0]: 'ビール|Scorp' entered and joined the game
