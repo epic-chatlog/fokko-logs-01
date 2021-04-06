@@ -3761,3 +3761,5 @@
 [2021-04-06 03:44:10]: Ƭevan [TrRShClNrRs, Level 48]: ビール|Scorp: тут телок нету в другое место иди ной
 [2021-04-06 03:44:15]: ***  [, Level 0]: 'NewName"' changed name to 'sabzero'
 [2021-04-06 03:44:22]: ***  [, Level 0]: 'sL|cunt' entered and joined the game
+[2021-04-06 03:44:25]: ***  [, Level 0]: WW1 is on a killing spree with 5 blocks
+[2021-04-06 03:44:31]:   [, Level 0]: sL|cunt: WW1: NO GIID
