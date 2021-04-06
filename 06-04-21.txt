@@ -13608,3 +13608,7 @@
 [2021-04-06 16:22:53]: t [, Level 42]: ♥TAKO♥: i not use it
 [2021-04-06 16:22:57]: ♥TAKO♥ [, Level 25]: no
 [2021-04-06 16:22:59]: ♥TAKO♥ [, Level 25]: u use
+[2021-04-06 16:23:04]: ♥TAKO♥ [, Level 25]: look
+[2021-04-06 16:23:06]: t [, Level 42]: see
+[2021-04-06 16:23:12]: ♥TAKO♥ [, Level 25]: no wait
+[2021-04-06 16:23:12]: ***  [, Level 0]: 'x7|KshKsh99' entered and joined the game
