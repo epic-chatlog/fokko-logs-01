@@ -12696,3 +12696,4 @@
 [2021-04-06 13:42:36]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
 [2021-04-06 13:42:38]: ***  [, Level 0]: fomjn is on a killing spree with 5 blocks
 [2021-04-06 13:42:38]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
+[2021-04-06 13:43:12]: ***  [, Level 0]: fomjn is on a killing spree with 10 blocks
