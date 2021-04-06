@@ -15170,3 +15170,4 @@
 [2021-04-05 20:37:25]: ***  [, Level 0]: 'x7|KshKsh99' has left the game
 [2021-04-05 20:37:26]: SAUD [, Level 22]: slam
 [2021-04-05 20:38:50]: ***  [, Level 0]: 'Hady' entered and joined the game
+[2021-04-05 20:41:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
