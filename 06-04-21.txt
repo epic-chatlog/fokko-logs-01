@@ -3957,3 +3957,8 @@
 [2021-04-06 04:03:10]: ***  [, Level 0]: '[D] Boti.' has left the game
 [2021-04-06 04:03:14]: ***  [, Level 0]: toxicdaddy finished in: 10 minute(s)  0.00 second(s)
 [2021-04-06 04:03:14]: ***  [, Level 0]: 'toxicdaddy' finished the special race!
+[2021-04-06 04:03:18]: ***  [, Level 0]: 'Pluton' has left the game
+[2021-04-06 04:03:21]: ***  [, Level 0]: 'Falco641' has left the game
+[2021-04-06 04:03:21]: ***  [, Level 0]: 'Falco642' has left the game
+[2021-04-06 04:03:22]: s6_sven [, Level 0]: toxicdaddy: ?
+[2021-04-06 04:03:28]: ***  [, Level 0]: 'OP|Supers' entered and joined the game
