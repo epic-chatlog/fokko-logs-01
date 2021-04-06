@@ -4950,3 +4950,5 @@
 [2021-04-06 06:00:37]: ***  [, Level 0]: 'DARWINS YT 18' joined the game
 [2021-04-06 06:00:42]: ***  [, Level 0]: 'ᅟ' changed name to 'fokkonaut'
 [2021-04-06 06:00:42]: Swarfey [FookinLads, Level 37]: hmm
+[2021-04-06 06:00:43]: fokkonaut [, Level 102]: #0404
+[2021-04-06 06:00:48]: DARWINS YT 18 [, Level 0]: hola
