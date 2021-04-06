@@ -2644,3 +2644,7 @@
 [2021-04-06 02:11:36]: ***  [, Level 0]: 'Rock' entered and joined the game
 [2021-04-06 02:11:37]: Boti. [.bad, Level 33]: Kiøn1029: bazdmeg most megyünk mekibe
 [2021-04-06 02:11:52]: kiøn1029 [.bad, Level 25]: Boti.: de most tényleg vagy csak mondja
+[2021-04-06 02:11:56]: SAUD [, Level 22]: Falco641:
+[2021-04-06 02:11:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-06 02:12:04]: Boti. [.bad, Level 33]: most talán tényleg
+[2021-04-06 02:12:05]: ***  [, Level 0]: 'Boti.' has left the game
