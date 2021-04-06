@@ -9447,3 +9447,4 @@
 [2021-04-06 09:50:52]: GOLD [404, Level 40]: Isegrin: u said sure just war
 [2021-04-06 09:50:54]: White Wolf [, Level 24]: gol
 [2021-04-06 09:50:54]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-06 09:50:56]:   [, Level 0]: Isegrin: GOLD: never
