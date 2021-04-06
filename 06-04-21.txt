@@ -1444,3 +1444,5 @@
 [2021-04-06 01:15:23]: OP|Supers [OldPlayers, Level 0]: comic:  mine is green too :D
 [2021-04-06 01:15:26]: comic [comically, Level 13]: OP|Supers: epic
 [2021-04-06 01:15:29]: OP|Supers [OldPlayers, Level 0]: yes
+[2021-04-06 01:15:33]: ***  [, Level 0]: 'komando' has left the game
+[2021-04-06 01:15:38]: Mista bombastic [TrRShClNrRs, Level 40]: Shiro.: tf
