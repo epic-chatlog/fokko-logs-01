@@ -15114,3 +15114,5 @@
 [2021-04-05 20:00:47]: ***  [, Level 0]: 'ERROR' entered and joined the game
 [2021-04-05 20:00:47]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
 [2021-04-05 20:01:32]: ***  [, Level 0]: '(1)x7|zemer' entered and joined the game
+[2021-04-05 20:01:57]: ***  [, Level 0]: '(1)x7|zemer' has left the game
+[2021-04-05 20:01:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
