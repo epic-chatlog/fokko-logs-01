@@ -10885,3 +10885,6 @@
 [2021-04-06 11:14:09]: GOLD [404, Level 40]: Kaptar: 7 5
 [2021-04-06 11:14:10]: Kaptar [, Level 24]: 6 6
 [2021-04-06 11:14:12]: GOLD [404, Level 40]: ok
+[2021-04-06 11:14:15]: GOLD [404, Level 40]: Kaptar: 6 6
+[2021-04-06 11:14:17]: ☺ [, Level 0]: je peux aussi après GOLD
+[2021-04-06 11:14:24]: GOLD [404, Level 40]: Kaptar: 7 6
