@@ -1482,3 +1482,6 @@
 [2021-04-06 01:18:09]: cHurch [HUITA, Level 47]: Vodo4ka: ты меня пиздил с кшом ещё и обзывает собакой
 [2021-04-06 01:18:17]: OP|Supers [OldPlayers, Level 0]: Boti.:  he is no ksh dog
 [2021-04-06 01:18:24]: Boti. [.bad, Level 32]: OP|Supers: he is
+[2021-04-06 01:18:28]: OP|Supers [OldPlayers, Level 0]: Boti.:  how
+[2021-04-06 01:18:34]: cHurch [HUITA, Level 47]: Vodo4ka: ты понимаешь то что для кша ты просто собака которая будет помогать челам из его клана
+[2021-04-06 01:18:35]: f"{self.name}" [, Level 0]: s6_sven: war
