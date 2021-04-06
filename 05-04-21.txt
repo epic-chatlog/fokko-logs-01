@@ -15446,3 +15446,4 @@
 [2021-04-05 22:42:21]: ***  [, Level 0]: 's6_sven' entered and joined the game
 [2021-04-05 22:43:12]: ***  [, Level 0]: 'Andromeda' entered and joined the game
 [2021-04-05 22:43:13]: ***  [, Level 0]: 'Andromeda' has left the game
+[2021-04-05 22:43:45]: ***  [, Level 0]: 'charil demali' entered and joined the game
