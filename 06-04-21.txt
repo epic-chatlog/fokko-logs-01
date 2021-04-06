@@ -4627,3 +4627,6 @@
 [2021-04-06 05:34:40]: ***  [, Level 0]: [POLICE-CHANNEL] 'Kong' is spawnblocking. Catch him!
 [2021-04-06 05:34:47]: Swarfey [FookinLads, Level 37]: b
 [2021-04-06 05:34:54]: Sutzer [Guard, Level 0]: XD
+[2021-04-06 05:35:11]: mami [Ape, Level 16]: lo
+[2021-04-06 05:35:14]: mami [Ape, Level 16]: xd
+[2021-04-06 05:35:15]: ***  [, Level 0]: 'ビール|Scorp' entered and joined the game
