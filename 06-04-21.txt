@@ -7186,3 +7186,7 @@
 [2021-04-06 08:01:03]: ERROR [404, Level 56]: ChillerDragon:  guck 5jumps xD
 [2021-04-06 08:01:14]: (2)ChillerDrago [|*KoG*|, Level 44]: OH GUCK
 [2021-04-06 08:01:15]: (2)ChillerDrago [|*KoG*|, Level 44]: i see
+[2021-04-06 08:01:24]:   [, Level 0]: Boti.: szóval ide kerültek
+[2021-04-06 08:01:24]: (2)ChillerDrago [|*KoG*|, Level 44]: Boti.: megezebegmeg
+[2021-04-06 08:01:25]:   [, Level 0]: Boti.: XDDDD
+[2021-04-06 08:01:34]:   [, Level 0]: Boti.: kiøn1029: zsa endless?
