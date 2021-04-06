@@ -8398,3 +8398,6 @@
 [2021-04-06 08:56:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-06 08:57:00]: HardreenClutch [, Level 57]: Axandos:  kann kein anderen mehr client mehr spielen
 [2021-04-06 08:57:01]: kais [, Level 65]: ChillerDragon.*: not really, but it work too
+[2021-04-06 08:57:13]: ***  [, Level 0]: 'Rem's dummy' entered and joined the game
+[2021-04-06 08:57:15]: Axandos [, Level 0]: HardreenClutch:  wie
+[2021-04-06 08:57:22]: ***  [, Level 0]: 'Catty' joined the spectators
