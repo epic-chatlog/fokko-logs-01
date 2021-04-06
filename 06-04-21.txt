@@ -13656,3 +13656,5 @@
 [2021-04-06 16:32:47]: ***  [, Level 0]: 'ez' entered and joined the game
 [2021-04-06 16:33:00]: ♥TAKO♥ [, Level 25]: hmmmmmm:  :D wait
 [2021-04-06 16:33:03]: ***  [, Level 0]: 'ez' has left the game
+[2021-04-06 16:33:06]: hmmmmmm [, Level 11]: ♥TAKO♥: thx man
+[2021-04-06 16:33:13]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
