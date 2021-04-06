@@ -10822,3 +10822,6 @@
 [2021-04-06 11:10:20]: ***  [, Level 0]: 'Demon,' entered and joined the game
 [2021-04-06 11:10:21]: FayZoR [, Level 42]: le rejoint pas si tu veut pas te creer une mauvaise réputation
 [2021-04-06 11:10:24]: GOLD [404, Level 40]: Kaptar: pk ta prep un truc XD
+[2021-04-06 11:10:31]: ☺ [, Level 0]: xd
+[2021-04-06 11:10:31]: Kaptar [, Level 24]: hein xd ?
+[2021-04-06 11:10:35]: ERROR. [404, Level 74]: AAAAAAAAAAAAAAAA
