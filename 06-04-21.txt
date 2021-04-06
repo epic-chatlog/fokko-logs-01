@@ -1485,3 +1485,11 @@
 [2021-04-06 01:18:28]: OP|Supers [OldPlayers, Level 0]: Boti.:  how
 [2021-04-06 01:18:34]: cHurch [HUITA, Level 47]: Vodo4ka: ты понимаешь то что для кша ты просто собака которая будет помогать челам из его клана
 [2021-04-06 01:18:35]: f"{self.name}" [, Level 0]: s6_sven: war
+[2021-04-06 01:18:38]: Boti. [.bad, Level 32]: OP|Supers: 3v1 me the entire time with zemer and ksh
+[2021-04-06 01:18:38]: ***  [, Level 0]: '(1)NetFlix' has left the game
+[2021-04-06 01:18:39]: ***  [, Level 0]: 'Isegrin' entered and joined the game
+[2021-04-06 01:18:40]: Vodo4ka [JB.st, Level 41]: cHurch: так это не обзывательсто чел, это факт, я тоже чья-то собака чел)
+[2021-04-06 01:18:46]: OP|Supers [OldPlayers, Level 0]: Boti.:  xD
+[2021-04-06 01:18:47]: Swarfey [FookinLads, Level 60]: aaaaaaa
+[2021-04-06 01:18:48]: Swarfey [FookinLads, Level 60]: XD
+[2021-04-06 01:18:50]: Vodo4ka [JB.st, Level 41]: cHurch: ты точно такой же для 404
