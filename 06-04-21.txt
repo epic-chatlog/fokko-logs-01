@@ -5287,3 +5287,8 @@
 [2021-04-06 06:26:21]: ChillerDragon [Chilli.*, Level 44]: hak
 [2021-04-06 06:26:23]: Swarfey [FookinLads, Level 37]: any: no
 [2021-04-06 06:26:27]: Pimka☀ [FookinLads, Level 25]: any: maybe
+[2021-04-06 06:26:30]: Swarfey [FookinLads, Level 37]: ez²
+[2021-04-06 06:26:35]: ***  [, Level 0]: 'ビール|Scorp' entered and joined the game
+[2021-04-06 06:26:36]: ***  [, Level 0]: 'Pimka☀' finished the special race!
+[2021-04-06 06:26:36]: ***  [, Level 0]: 'Pimka✿' finished the special race!
+[2021-04-06 06:26:36]: any [404, Level 37]: Swarfey: ok
