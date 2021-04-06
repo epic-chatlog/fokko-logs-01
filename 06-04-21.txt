@@ -4560,3 +4560,5 @@
 [2021-04-06 04:41:52]: ビール|Scorp [, Level 0]: ок
 [2021-04-06 04:41:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-06 04:42:06]: ChillerDragon [|*KoG*|, Level 44]: ? Tixnix
+[2021-04-06 04:42:15]: ビール|Scorp [, Level 0]: ?
+[2021-04-06 04:42:15]: (1)Friendiship  [, Level 0]: WW2:
