@@ -10716,3 +10716,11 @@
 [2021-04-06 11:05:21]: Kezo [FookinLads, Level 41]: GOLD: cuz im not a blocker
 [2021-04-06 11:05:22]: (2)ChillerDrago [Chilli.*, Level 44]: zillycrack hat auch crappy translator ERROR xd
 [2021-04-06 11:05:23]: ***  [, Level 0]: 'Demon,' entered and joined the game
+[2021-04-06 11:05:29]: comic [comically, Level 13]: NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[2021-04-06 11:05:31]: ERROR [404, Level 56]: zillycrack? ChillerDragon ?
+[2021-04-06 11:05:33]: Chronos [, Level 0]: GOLD: ta perdu 5 point contre Kaptar ?
+[2021-04-06 11:05:36]: ***  [, Level 0]: 'Demon,' has left the game
+[2021-04-06 11:05:36]:   [, Level 0]: f"{self.name}": :D:D:D:D:D:D:D::::D:D:D:D:D::D:D:D:D
+[2021-04-06 11:05:36]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 32.94 second(s)
+[2021-04-06 11:05:36]: ***  [, Level 0]: New record:  6.74 second(s) better.
+[2021-04-06 11:05:37]: GOLD [404, Level 40]: Kezo: xDDDDDDD btw error
