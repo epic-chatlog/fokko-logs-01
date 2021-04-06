@@ -10517,3 +10517,7 @@
 [2021-04-06 10:56:27]: ***  [, Level 0]: 'x7|FayZoR' changed name to 'FayZoR'
 [2021-04-06 10:56:27]: ***  [, Level 0]: 'x7|Chronos' changed name to 'Chronos'
 [2021-04-06 10:56:30]: GOLD [404, Level 40]: Kezo: come 1v1 ?
+[2021-04-06 10:56:32]: ***  [, Level 0]: 'bielgamer' joined the game
+[2021-04-06 10:56:32]: ERROR [404, Level 56]: thanks
+[2021-04-06 10:56:39]: Kezo [FookinLads, Level 41]: GOLD: i have lags now
+[2021-04-06 10:56:43]: GOLD [404, Level 40]: Kezo: hmm
