@@ -4964,3 +4964,7 @@
 [2021-04-06 06:01:19]: ***  [, Level 0]: You are not permitted to talk for the next 57 seconds.
 [2021-04-06 06:01:20]: ***  [, Level 0]: 'Kirito' entered and joined the game
 [2021-04-06 06:01:20]: ***  [, Level 0]: You are not permitted to talk for the next 56 seconds.
+[2021-04-06 06:01:22]: NO ERROR. [404, Level 74]: OHH NOOOOOOOOO
+[2021-04-06 06:01:24]: ChillerDragon [Chilli.*, Level 44]: fokkonaut: ja mach das mit Swarfey
+[2021-04-06 06:01:24]: NO ERROR. [404, Level 74]: xDDDDDDDDDDD
+[2021-04-06 06:01:30]: ***  [, Level 0]: 'Kirito♥' entered and joined the game
