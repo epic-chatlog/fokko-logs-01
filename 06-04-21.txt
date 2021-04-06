@@ -9484,3 +9484,4 @@
 [2021-04-06 09:53:38]:   [, Level 0]: x7|Chronos: kais: sisi
 [2021-04-06 09:53:39]: ***  [, Level 0]: 'ZEUS' has left the game
 [2021-04-06 09:53:39]: ***  [, Level 0]: 'Noragami' has left the game
+[2021-04-06 09:53:54]: ***  [, Level 0]: YelloWorlD's killing spree was ended by sun.slow(y) (6 blocks)
