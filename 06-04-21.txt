@@ -1670,3 +1670,4 @@
 [2021-04-06 01:30:08]: ***  [, Level 0]: 'Cylox' changed name to 'Cylox♥'
 [2021-04-06 01:30:13]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
 [2021-04-06 01:30:17]: Falco642 [, Level 0]: look
+[2021-04-06 01:30:22]: ***  [, Level 0]: 'Foxi♥' has left the game
