@@ -13458,3 +13458,5 @@
 [2021-04-06 15:44:50]: ***  [, Level 0]: x7|Flipper is on a killing spree with 5 blocks
 [2021-04-06 15:45:24]: ***  [, Level 0]: 'BRO' has left the game
 [2021-04-06 15:46:06]: t [, Level 42]: x7|Flipper: ?
+[2021-04-06 15:46:39]: x7|Flipper [xSD7, Level 14]: join the cakk
+[2021-04-06 15:46:42]: x7|Flipper [xSD7, Level 14]: call
