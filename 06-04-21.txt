@@ -10619,3 +10619,9 @@
 [2021-04-06 11:01:43]: Kezo [FookinLads, Level 41]: ERROR: anddd
 [2021-04-06 11:01:45]: ERROR. [404, Level 74]: Chronos:  he will come back and u guys talk then
 [2021-04-06 11:01:46]: Kezo [FookinLads, Level 41]: ERROR: and
+[2021-04-06 11:01:50]: Chronos [, Level 0]: ERROR: yep
+[2021-04-06 11:01:51]: ***  [, Level 0]: 'Demon,' has left the game
+[2021-04-06 11:01:52]: Kezo [FookinLads, Level 41]: ERROR: we can see who play better :D
+[2021-04-06 11:01:56]: MORPHIN [, Level 37]: XDDDDDDDDDDDDDDDDDDDDD
+[2021-04-06 11:01:58]: GOLD [404, Level 40]: ERROR: do u play fng ?
+[2021-04-06 11:01:58]: ***  [, Level 0]: [INFO] You can create an account using '/register'
