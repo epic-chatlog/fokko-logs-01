@@ -12309,3 +12309,6 @@
 [2021-04-06 12:56:09]: Fearless [, Level 40]: ES:  man stop
 [2021-04-06 12:56:18]: Fearless [, Level 40]: men
 [2021-04-06 12:56:21]: Fearless [, Level 40]: stop
+[2021-04-06 12:56:41]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
+[2021-04-06 12:56:49]: nameless [, Level 0]: Marcisten: oops
+[2021-04-06 12:56:49]: Fearless [, Level 40]: ES:  men
