@@ -7051,3 +7051,8 @@
 [2021-04-06 07:53:31]: ***  [, Level 0]: 'coala45' entered and joined the game
 [2021-04-06 07:53:31]: ***  [, Level 0]: 'VeemID' entered and joined the game
 [2021-04-06 07:53:35]: ***  [, Level 0]: kiøn1029 is on a killing spree with 5 blocks
+[2021-04-06 07:53:37]: ***  [, Level 0]: 'Enot' entered and joined the game
+[2021-04-06 07:53:39]:   [, Level 0]: Boti.: szia
+[2021-04-06 07:53:40]: ***  [, Level 0]: 'coala12' entered and joined the game
+[2021-04-06 07:53:43]: ***  [, Level 0]: '(1)coala' entered and joined the game
+[2021-04-06 07:53:45]:   [, Level 0]: Boti.: chill
