@@ -2831,3 +2831,8 @@
 [2021-04-06 02:35:44]: ***  [, Level 0]: 'Ryanctz' entered and joined the game
 [2021-04-06 02:35:52]: iMxtteo [, Level 26]: ♫Amirian♬: lol
 [2021-04-06 02:36:12]: Isegrin [, Level 54]: YelloWorlD: puta
+[2021-04-06 02:36:16]: NO ERROR. [404, Level 74]: tf4
+[2021-04-06 02:36:18]: ***  [, Level 0]: 'YelloWorlD' has left the game (Timeout)
+[2021-04-06 02:36:18]: ***  [, Level 0]: 'GOLD' has left the game (Timeout)
+[2021-04-06 02:36:22]: power2 [TrRShClNrRs, Level 0]: s7_sven: XDD
+[2021-04-06 02:36:25]: ***  [, Level 0]: 'Virus' has left the game
