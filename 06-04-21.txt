@@ -12641,3 +12641,8 @@
 [2021-04-06 13:31:19]: ***  [, Level 0]: 'Axandos²' has left the game
 [2021-04-06 13:31:19]: ***  [, Level 0]: 'Axandos' has left the game
 [2021-04-06 13:31:58]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-06 13:32:03]: any² [404, Level 25]: (1)i: hammer le
+[2021-04-06 13:32:06]: ***  [, Level 0]: '1' would have timed out, but can use timeout protection now
+[2021-04-06 13:32:06]: ***  [, Level 0]: 'nameless tee' would have timed out, but can use timeout protection now
+[2021-04-06 13:32:10]: ***  [, Level 0]: 'fomjn' has left the game
+[2021-04-06 13:32:10]: ***  [, Level 0]: 'fomin' has left the game
