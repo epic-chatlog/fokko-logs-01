@@ -7606,3 +7606,5 @@
 [2021-04-06 08:25:05]: Elmattoski :> [, Level 0]: help
 [2021-04-06 08:25:10]: (1)kais [, Level 58]: ChillerDragon.*: i'm in onlice class -_-
 [2021-04-06 08:25:20]: Boti. [.bad, Level 33]: audacityben szerintem lehet hangokat átrakni
+[2021-04-06 08:25:27]: Boti. [.bad, Level 33]: majd csinálok saját sound effectet
+[2021-04-06 08:25:29]: (2)ChillerDrago [|*KoG*|, Level 44]: merde kais
