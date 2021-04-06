@@ -10702,3 +10702,9 @@
 [2021-04-06 11:04:52]: ***  [, Level 0]: 'Demon,' entered and joined the game
 [2021-04-06 11:04:59]: (2)ChillerDrago [Chilli.*, Level 44]: hab ich ma gehört ja ERROR
 [2021-04-06 11:04:59]: ***  [, Level 0]: 'Leblebi' entered and joined the game
+[2021-04-06 11:05:00]: Axandos [, Level 25]: MORFY:  x)
+[2021-04-06 11:05:06]: Kaptar [, Level 24]: J'ai 5 sauts et toutes les armes GOLD
+[2021-04-06 11:05:06]: GOLD [404, Level 40]: Kezo vs 2 jump
+[2021-04-06 11:05:07]: (2)ChillerDrago [Chilli.*, Level 44]: hab selber nie ath geused ERROR
+[2021-04-06 11:05:11]: GOLD [404, Level 40]: Kezo: u bad af
+[2021-04-06 11:05:11]: ERROR [404, Level 56]: ok gut zu wissen muss ich mir mal runterladen (1)ChillerDrago
