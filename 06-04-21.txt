@@ -8396,3 +8396,5 @@
 [2021-04-06 08:56:51]: ***  [, Level 0]: 'Kirito♥' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-06 08:56:56]: (2)ChillerDrago [Chilli.*, Level 44]: mais moi aide tu guerra kais
 [2021-04-06 08:56:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-06 08:57:00]: HardreenClutch [, Level 57]: Axandos:  kann kein anderen mehr client mehr spielen
+[2021-04-06 08:57:01]: kais [, Level 65]: ChillerDragon.*: not really, but it work too
