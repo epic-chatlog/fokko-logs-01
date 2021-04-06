@@ -10852,3 +10852,6 @@
 [2021-04-06 11:12:06]: Kotik [, Level 19]: mami:  im ビール|Zero
 [2021-04-06 11:12:08]: GOLD [404, Level 40]: Kaptar: 5 2
 [2021-04-06 11:12:18]: mami [, Level 1]: Kotik:  oke
+[2021-04-06 11:12:22]: ***  [, Level 0]: 'Kezo' changed name to 'MADZO'
+[2021-04-06 11:12:23]: GOLD [404, Level 40]: Kaptar: 5 3
+[2021-04-06 11:12:31]: MADZO [FookinLads, Level 41]: pros play
