@@ -5235,3 +5235,5 @@
 [2021-04-06 06:21:16]: ***  [, Level 0]: 'Isegrin' entered and joined the game
 [2021-04-06 06:21:19]: ChillerDragon [|*KoG*|, Level 44]: Isegrin: niger
 [2021-04-06 06:21:24]: Isegrin [, Level 54]: @everyone
+[2021-04-06 06:21:27]: ChillerDragon [Chilli.*, Level 44]: hehe
+[2021-04-06 06:21:33]: Isegrin [, Level 54]: @everyone xaxa
