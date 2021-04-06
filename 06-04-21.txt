@@ -3702,3 +3702,8 @@
 [2021-04-06 03:39:30]: NO ERROR. [404, Level 74]: EvenFatterAss:
 [2021-04-06 03:39:37]: Amiral [, Level 0]: Donatello: I don't care weqe, u just kill me, but I already helps u
 [2021-04-06 03:39:39]: ***  [, Level 0]: 'pcheloed' changed name to 'ビール|Scorp'
+[2021-04-06 03:39:53]:   [, Level 0]: BC|kakashi: NO ERROR.:
+[2021-04-06 03:40:02]: ***  [, Level 0]: 'lol' has left the game (Timeout)
+[2021-04-06 03:40:02]: ***  [, Level 0]: '(1)lol' has left the game (Timeout)
+[2021-04-06 03:40:02]: ***  [, Level 0]: '(2)lol' has left the game (Timeout)
+[2021-04-06 03:40:02]: ***  [, Level 0]: '(3)lol' has left the game (Timeout)
