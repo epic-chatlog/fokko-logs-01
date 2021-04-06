@@ -11417,3 +11417,5 @@
 [2021-04-06 11:52:09]: power [TrRShClNrRs, Level 0]: where
 [2021-04-06 11:52:16]: ***  [, Level 0]: '|MıssOяchiĐ|' entered and joined the game
 [2021-04-06 11:52:17]:   [, Level 0]: (1)Kirito♥: power: now down and right
+[2021-04-06 11:52:22]: ***  [, Level 0]: 'Treebeard' entered and joined the game
+[2021-04-06 11:52:24]:   [, Level 0]: (1)Kirito♥: yes power
