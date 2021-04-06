@@ -9948,3 +9948,8 @@
 [2021-04-06 10:26:08]: ビール|Scorp [, Level 19]: o
 [2021-04-06 10:26:32]:   [, Level 0]: mamikral011: Black Wolf: flag!
 [2021-04-06 10:26:35]: Black Wolf [, Level 0]: no
+[2021-04-06 10:26:43]:   [, Level 0]: mamikral011: Black Wolf: help?
+[2021-04-06 10:26:44]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-06 10:26:46]: ***  [, Level 0]: 'iMxtteo' entered and joined the game
+[2021-04-06 10:26:47]: Black Wolf [, Level 0]: no
+[2021-04-06 10:26:51]: ***  [, Level 0]: 'iMxtteo' has left the game
