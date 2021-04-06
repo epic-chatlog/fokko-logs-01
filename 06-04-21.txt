@@ -10888,3 +10888,7 @@
 [2021-04-06 11:14:15]: GOLD [404, Level 40]: Kaptar: 6 6
 [2021-04-06 11:14:17]: ☺ [, Level 0]: je peux aussi après GOLD
 [2021-04-06 11:14:24]: GOLD [404, Level 40]: Kaptar: 7 6
+[2021-04-06 11:14:29]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 38.38 second(s)
+[2021-04-06 11:14:35]: ***  [, Level 0]: 'Leblebi' entered and joined the game
+[2021-04-06 11:14:37]: MADZO [FookinLads, Level 41]: mami: yarın gene sesli girerizx
+[2021-04-06 11:14:38]: GOLD [404, Level 40]: Kaptar: 8 6
