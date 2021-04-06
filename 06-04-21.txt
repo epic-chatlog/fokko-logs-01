@@ -7383,3 +7383,7 @@
 [2021-04-06 08:13:56]: Boti. [.bad, Level 33]: azaz
 [2021-04-06 08:14:11]: ChillerDragon.* [Chilli.*, Level 41]: börtön bezdmeg Kiøn1029 meg Boti.
 [2021-04-06 08:14:14]: coala3152 [coala, Level 0]: EROOOOR
+[2021-04-06 08:14:19]: ***  [, Level 0]: 'power' has left the game
+[2021-04-06 08:14:19]: coala3152 [coala, Level 0]: EROR Hİ
+[2021-04-06 08:14:22]: ERROR [404, Level 56]: hi
+[2021-04-06 08:14:25]: coala3152 [coala, Level 0]: EROR ES GEHT DU
