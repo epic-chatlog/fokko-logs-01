@@ -15898,3 +15898,7 @@
 [2021-04-05 23:40:55]: ***  [, Level 0]: 'Chilli.* tee' changed name to 'PoliceTee'
 [2021-04-05 23:40:55]: ***  [, Level 0]: 'BaguetTee' changed name to 'BulgarianTee'
 [2021-04-05 23:40:57]: s7_sven [, Level 16]: no
+[2021-04-05 23:41:00]: x7|zemer [xSD7, Level 23]: Ok
+[2021-04-05 23:41:01]: PoliceTee [xSD7, Level 25]: E
+[2021-04-05 23:41:03]: PoliceTee [xSD7, Level 25]: WTF R U DOING
+[2021-04-05 23:41:04]: WarHammer' [, Level 16]: lucky
