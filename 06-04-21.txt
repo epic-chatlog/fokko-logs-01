@@ -7240,3 +7240,4 @@
 [2021-04-06 08:06:21]: ***  [, Level 0]: 'Sergej' has left the game
 [2021-04-06 08:06:25]: ***  [, Level 0]: »ℱℬℑ« is on a killing spree with 5 blocks
 [2021-04-06 08:06:30]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-06 08:06:55]: ***  [, Level 0]: »ℱℬℑ« is on a killing spree with 10 blocks
