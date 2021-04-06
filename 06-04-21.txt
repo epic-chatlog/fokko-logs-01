@@ -12393,3 +12393,5 @@
 [2021-04-06 13:07:16]: ***  [, Level 0]: '♥TAKO♥' has left the game
 [2021-04-06 13:07:21]: ***  [, Level 0]: '☻' changed name to 'MieSlime'
 [2021-04-06 13:07:35]: Fearless [, Level 40]: MieSlime:  stupid jotaro
+[2021-04-06 13:07:55]: Fearless [, Level 40]: MieSlime:  leave clan
+[2021-04-06 13:07:56]: MieSlime [FookinLads, Level 43]: Fearless:  noob taser -_-
