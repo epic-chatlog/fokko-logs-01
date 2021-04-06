@@ -13670,3 +13670,4 @@
 [2021-04-06 16:35:36]: ☺ [, Level 4]: [D] ♥TAKO♥: XD
 [2021-04-06 16:35:50]: t [, Level 42]: [D] ♥TAKO♥: i think same
 [2021-04-06 16:36:38]: ☺ [, Level 4]: XD
+[2021-04-06 16:37:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
