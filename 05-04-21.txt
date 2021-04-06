@@ -14943,3 +14943,4 @@
 [2021-04-05 17:55:38]: ***  [, Level 0]: 'нυƨнıκε' changed name to '(1)S Y T H N'
 [2021-04-05 17:55:53]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-05 17:55:54]: ***  [, Level 0]: '(1)S Y T H N' changed name to 'σмєтнιηg'
+[2021-04-05 17:56:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
