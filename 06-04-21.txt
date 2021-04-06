@@ -4453,3 +4453,6 @@
 [2021-04-06 04:31:36]:   [, Level 0]: CKA3A4NIK: ✯Hunter.exe:  Bro stop
 [2021-04-06 04:31:42]: ✯Hunter.exe [|Supressed|, Level 35]: CKA3A4NIK: dont be anoying
 [2021-04-06 04:31:47]:   [, Level 0]: CKA3A4NIK: sry
+[2021-04-06 04:31:50]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-06 04:31:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-06 04:32:02]: mami [Ape, Level 16]: i have 1 jum jou 8
