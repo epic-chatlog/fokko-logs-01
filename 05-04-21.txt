@@ -14966,3 +14966,4 @@
 [2021-04-05 18:08:37]: ***  [, Level 0]: '(1)S Y T H N' changed name to 'fORTNITE'
 [2021-04-05 18:09:17]: S Y T H N [iPro, Level 37]: ja
 [2021-04-05 18:09:55]: ***  [, Level 0]: 'SpaceCowboy' entered and joined the game
+[2021-04-05 18:10:19]: ***  [, Level 0]: 'SpaceCowboy' joined the spectators
