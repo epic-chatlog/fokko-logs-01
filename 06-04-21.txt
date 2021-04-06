@@ -10319,3 +10319,6 @@
 [2021-04-06 10:47:02]: GOLD [404, Level 40]: ✔Pouet: mat ebal x10000
 [2021-04-06 10:47:04]: HotChickenWing [, Level 0]: ERROR:  der hat sich iwie verändert xD
 [2021-04-06 10:47:06]:   [, Level 0]: Kaptar: GOLD: oué att
+[2021-04-06 10:47:11]: HotChickenWing [, Level 0]: ERROR:  späte pubertät xd
+[2021-04-06 10:47:16]: ***  [, Level 0]: 'Telefantastic' entered and joined the game
+[2021-04-06 10:47:17]:   [, Level 0]: Kotik: Kezo: <3
