@@ -13062,3 +13062,7 @@
 [2021-04-06 14:25:11]: (2)teec tac [zigloute, Level 0]: bye
 [2021-04-06 14:25:13]: Isegrin [, Level 54]: bb
 [2021-04-06 14:25:15]: [D] toxicdaddy [, Level 22]: ~DemoizL~: give me grenade gun
+[2021-04-06 14:25:16]: ***  [, Level 0]: '(2)teec tac' has left the game
+[2021-04-06 14:25:19]: ***  [, Level 0]: 'teec tac' has left the game
+[2021-04-06 14:25:19]: ***  [, Level 0]: '(1)teec tac' has left the game
+[2021-04-06 14:25:23]: ~DemoizL~ [, Level 39]: [D] toxicdaddy: pls ?
