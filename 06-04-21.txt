@@ -13296,3 +13296,5 @@
 [2021-04-06 15:02:21]: toxicdaddy [, Level 26]: I like turtles.
 [2021-04-06 15:02:30]: (2)Kirito♥ [♥, Level 36]: I like turtles.
 [2021-04-06 15:02:39]: ***  [, Level 0]: fomjn is on a killing spree with 5 blocks
+[2021-04-06 15:02:56]: ***  [, Level 0]: fomin is on a killing spree with 5 blocks
+[2021-04-06 15:02:56]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
