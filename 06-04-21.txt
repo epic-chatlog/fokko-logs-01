@@ -12422,3 +12422,5 @@
 [2021-04-06 13:09:58]: (1)nameless tee [, Level 0]: l;e
 [2021-04-06 13:10:00]: (1)nameless tee [, Level 0]: lefo
 [2021-04-06 13:10:01]: lefo [, Level 0]: cc
+[2021-04-06 13:10:28]: ☻ [FookinLads, Level 43]: ☺:  show me where
+[2021-04-06 13:10:31]: ☺ [, Level 2]: ok
