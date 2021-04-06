@@ -5079,3 +5079,6 @@
 [2021-04-06 06:08:37]: Discord [, Level 39]: Swarfey: is ja kein bot sondern webhook
 [2021-04-06 06:08:46]: Discord [, Level 39]: fokkonaut: ahja
 [2021-04-06 06:08:55]: Discord [, Level 39]: fokkonaut: \`hi`
+[2021-04-06 06:08:58]: ChillerDragon [Chilli.*, Level 44]: webhook kommt nich auf irc an xd
+[2021-04-06 06:08:59]: ChillerDragon [Chilli.*, Level 44]: gg
+[2021-04-06 06:09:01]: Discord [, Level 39]: fokkonaut: hab jtz nur den ersten escaped
