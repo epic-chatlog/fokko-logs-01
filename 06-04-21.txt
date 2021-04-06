@@ -3730,3 +3730,8 @@
 [2021-04-06 03:41:53]: weqe [MNKY, Level 12]: FLAG
 [2021-04-06 03:41:57]: Raffaello [, Level 0]: Donatello: wtf
 [2021-04-06 03:41:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-06 03:42:14]: MieSlime [FookinLads, Level 43]: .:  pls stop
+[2021-04-06 03:42:14]: ***  [, Level 0]: 'ビール|Zero' changed name to 'NewName"'
+[2021-04-06 03:42:17]: . [TrRShClNrRs, Level 42]: MieSlime: he
+[2021-04-06 03:42:19]: . [TrRShClNrRs, Level 42]: MieSlime: started
+[2021-04-06 03:42:19]: NO ERROR. [404, Level 74]: EvenFatterAss:
