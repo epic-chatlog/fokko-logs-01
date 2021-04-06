@@ -15431,3 +15431,4 @@
 [2021-04-05 22:29:00]: Anatomy [MaL4iki kz, Level 35]: kais: сука пиздец охуевший да
 [2021-04-05 22:29:14]: ***  [, Level 0]: 'Anatomy' has left the game
 [2021-04-05 22:31:27]: ***  [, Level 0]: 'S.0.S' has left the game
+[2021-04-05 22:31:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
