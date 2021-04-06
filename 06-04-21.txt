@@ -12204,3 +12204,6 @@
 [2021-04-06 12:42:47]: any [404, Level 37]: Shiro.: okeeeeee
 [2021-04-06 12:42:50]: Shiro. [Whɪтє, Level 42]: don't let random in police
 [2021-04-06 12:42:59]: any [404, Level 37]: Shiro.: pourquoi ?
+[2021-04-06 12:43:06]: ***  [, Level 0]: '(1)ES' entered and joined the game
+[2021-04-06 12:43:07]: ***  [, Level 0]: 'fox' entered and joined the game
+[2021-04-06 12:43:15]: Shiro. [Whɪтє, Level 42]: bah pour pas la perdre tocard
