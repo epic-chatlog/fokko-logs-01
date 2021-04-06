@@ -10599,3 +10599,8 @@
 [2021-04-06 11:00:54]: ERROR. [404, Level 74]: xdddd im ictf player GOLD  AAAAAAAAAAAAAAAAAA
 [2021-04-06 11:00:54]: Chronos [, Level 0]: any: je sais qu'à un moment au tout début on c'était faché t'avais tt essayer pour redevenir potes
 [2021-04-06 11:00:54]: MORFY [, Level 29]: xd
+[2021-04-06 11:00:57]: Kezo [FookinLads, Level 41]: playing block server not blocker
+[2021-04-06 11:00:58]: Kezo [FookinLads, Level 41]: so good
+[2021-04-06 11:00:59]: ***  [, Level 0]: '(1)Hunter.exe' entered and joined the game
+[2021-04-06 11:01:07]: MORFY [, Level 29]: xd
+[2021-04-06 11:01:08]: ***  [, Level 0]: 'Maatiteusz' finished the special race!
