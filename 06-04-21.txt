@@ -12946,3 +12946,4 @@
 [2021-04-06 14:11:59]: fomin [RUA, Level 0]: nice
 [2021-04-06 14:12:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-06 14:12:11]: ***  [, Level 0]: [POLICE-CHANNEL] '[D] toxicdaddy' is spawnblocking. Catch him!
+[2021-04-06 14:12:17]: ***  [, Level 0]: 'Virus' entered and joined the game
