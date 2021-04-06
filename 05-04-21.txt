@@ -15111,3 +15111,5 @@
 [2021-04-05 19:58:06]: ***  [, Level 0]: '(1)ERROR' has left the game (Timeout)
 [2021-04-05 19:58:06]: ***  [, Level 0]: '(1)ERROR.' has left the game (Timeout)
 [2021-04-05 19:58:06]: ***  [, Level 0]: 'ERROR' has left the game (Timeout)
+[2021-04-05 20:00:47]: ***  [, Level 0]: 'ERROR' entered and joined the game
+[2021-04-05 20:00:47]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
