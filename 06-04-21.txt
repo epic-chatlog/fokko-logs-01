@@ -13464,3 +13464,5 @@
 [2021-04-06 15:47:55]: ***  [, Level 0]: 'jcanela2022' has left the game
 [2021-04-06 15:47:58]: ***  [, Level 0]: 'jcanela2022' entered and joined the game
 [2021-04-06 15:48:10]: ♥TAKO♥ [, Level 0]: lag
+[2021-04-06 15:49:49]: ***  [, Level 0]: 'jcanela2022' has left the game
+[2021-04-06 15:49:50]: ♥TAKO♥ [, Level 0]: xD
