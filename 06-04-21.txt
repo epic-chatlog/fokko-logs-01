@@ -10844,3 +10844,9 @@
 [2021-04-06 11:11:46]: FayZoR [, Level 42]: Kaptar: je spec ^^
 [2021-04-06 11:11:47]: GOLD [404, Level 40]: Kaptar: 3 1
 [2021-04-06 11:11:52]:   [, Level 0]: |HolyHo|: Sad Guy: .-.
+[2021-04-06 11:11:54]: GOLD [404, Level 40]: Kaptar: 4 1
+[2021-04-06 11:11:58]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-06 11:12:01]: Kotik [, Level 19]: im ビール|Zero
+[2021-04-06 11:12:02]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 34.48 second(s)
+[2021-04-06 11:12:03]: GOLD [404, Level 40]: Kaptar: 5 1
+[2021-04-06 11:12:06]: Kotik [, Level 19]: mami:  im ビール|Zero
