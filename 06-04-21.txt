@@ -12503,3 +12503,5 @@
 [2021-04-06 13:21:32]: Fearless [, Level 40]: im bed
 [2021-04-06 13:21:38]: MieSlime [FookinLads, Level 43]: Fearless:  without taser -__-
 [2021-04-06 13:21:43]: ***  [, Level 0]: 'TURİSH POWER' has left the game
+[2021-04-06 13:21:58]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-06 13:22:04]: Fearless [, Level 40]: Fidɍage:  im bad
