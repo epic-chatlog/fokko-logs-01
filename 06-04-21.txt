@@ -10146,3 +10146,5 @@
 [2021-04-06 10:35:42]: ***  [, Level 0]: 'GReeeN' entered and joined the game
 [2021-04-06 10:35:46]: White Wolf [, Level 24]: mamikral011: help up fast
 [2021-04-06 10:35:52]: [D] mamikral011 [, Level 21]: fuck :D
+[2021-04-06 10:36:03]:   [, Level 0]: penguin: lagg
+[2021-04-06 10:36:05]: ***  [, Level 0]: 'Tixnix' entered and joined the game
