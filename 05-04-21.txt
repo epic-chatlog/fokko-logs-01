@@ -14985,3 +14985,5 @@
 [2021-04-05 18:23:10]: ***  [, Level 0]: x7|zemer's killing spree was ended by x7|Flipper (5 blocks)
 [2021-04-05 18:24:43]: ***  [, Level 0]: 'fORTNITE' entered and joined the game
 [2021-04-05 18:25:29]: ***  [, Level 0]: 'fORTNITE' has left the game
+[2021-04-05 18:26:07]: ***  [, Level 0]: 'fORTNITE' entered and joined the game
+[2021-04-05 18:26:14]: ***  [, Level 0]: '(1)S Y T H N' entered and joined the game
