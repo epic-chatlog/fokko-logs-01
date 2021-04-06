@@ -14895,3 +14895,4 @@
 [2021-04-05 17:44:00]: Flupper [xSD7, Level 0]: hmm go right
 [2021-04-05 17:44:07]: Flupper [xSD7, Level 0]: wait
 [2021-04-05 17:44:12]: Flupper [xSD7, Level 0]: for me
+[2021-04-05 17:44:15]: ***  [, Level 0]: 's6_sven' entered and joined the game
