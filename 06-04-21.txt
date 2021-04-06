@@ -3728,3 +3728,5 @@
 [2021-04-06 03:41:49]: weqe [MNKY, Level 12]: flag (1)ERROR
 [2021-04-06 03:41:50]: . [TrRShClNrRs, Level 42]: Pimka☀: so u suffer
 [2021-04-06 03:41:53]: weqe [MNKY, Level 12]: FLAG
+[2021-04-06 03:41:57]: Raffaello [, Level 0]: Donatello: wtf
+[2021-04-06 03:41:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
