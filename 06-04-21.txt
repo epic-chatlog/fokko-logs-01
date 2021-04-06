@@ -12945,3 +12945,4 @@
 [2021-04-06 14:11:32]: ***  [, Level 0]: fomin's killing spree was ended by soleri1 (11 blocks)
 [2021-04-06 14:11:59]: fomin [RUA, Level 0]: nice
 [2021-04-06 14:12:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-06 14:12:11]: ***  [, Level 0]: [POLICE-CHANNEL] '[D] toxicdaddy' is spawnblocking. Catch him!
