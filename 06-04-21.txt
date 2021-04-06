@@ -13675,3 +13675,6 @@
 [2021-04-06 16:37:58]: ***  [, Level 0]: '(1)x7|KshKsh99' entered and joined the game
 [2021-04-06 16:38:01]: ***  [, Level 0]: '(1)Mr.KshKsh99' entered and joined the game
 [2021-04-06 16:38:03]: [D] ♥TAKO♥ [, Level 0]: ☺:  ok
+[2021-04-06 16:38:23]: [D] ♥TAKO♥ [, Level 0]: ♦
+[2021-04-06 16:38:25]: [D] ♥TAKO♥ [, Level 0]: ♣
+[2021-04-06 16:38:28]: [D] ♥TAKO♥ [, Level 0]: ♠
