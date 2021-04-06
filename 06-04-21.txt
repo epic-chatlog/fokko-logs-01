@@ -4945,3 +4945,8 @@
 [2021-04-06 06:00:21]: ***  [, Level 0]: 'SlerTz.♥' entered and joined the game
 [2021-04-06 06:00:21]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
 [2021-04-06 06:00:23]: Discord [, Level 39]: ERROR: xDDDDDDDD
+[2021-04-06 06:00:31]: ChillerDragon [Chilli.*, Level 44]: Swarfey: für conversation
+[2021-04-06 06:00:33]: ***  [, Level 0]: 'DARWINS YT 18' joined the spectators
+[2021-04-06 06:00:37]: ***  [, Level 0]: 'DARWINS YT 18' joined the game
+[2021-04-06 06:00:42]: ***  [, Level 0]: 'ᅟ' changed name to 'fokkonaut'
+[2021-04-06 06:00:42]: Swarfey [FookinLads, Level 37]: hmm
