@@ -15456,3 +15456,6 @@
 [2021-04-05 22:49:52]: ***  [, Level 0]: falkenauge finished in: 2 minute(s) 25.88 second(s)
 [2021-04-05 22:49:53]: ***  [, Level 0]: 'Boti.' entered and joined the game
 [2021-04-05 22:49:54]: falkenauge [Ʀ.I.Ƈ., Level 34]: ERROR:
+[2021-04-05 22:50:39]: ***  [, Level 0]: [D] falkenauge finished in: 7 minute(s) 19.96 second(s)
+[2021-04-05 22:50:44]: Ady son rea [, Level 0]: falkenauge: bro
+[2021-04-05 22:50:46]: Ady son rea [, Level 0]: qtf
