@@ -11030,3 +11030,5 @@
 [2021-04-06 11:23:55]: FayZoR [, Level 42]: hmmmmmm: ah ta un autre pseudo :c
 [2021-04-06 11:23:55]: toxicdaddy [, Level 25]: Hunter.exe:
 [2021-04-06 11:23:56]: ***  [, Level 0]: 'Demon,' entered and joined the game
+[2021-04-06 11:23:58]: ***  [, Level 0]: 'Demon,' has left the game
+[2021-04-06 11:24:08]:   [, Level 0]: hmmmmmm: hmmmmmm: oui
