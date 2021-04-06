@@ -12283,3 +12283,4 @@
 [2021-04-06 12:51:56]: BULLETBOT [, Level 0]: who you
 [2021-04-06 12:51:58]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-06 12:52:28]: ***  [, Level 0]: [POLICE-CHANNEL] 'any' is spawnblocking. Catch him!
+[2021-04-06 12:52:56]: ***  [, Level 0]: 'sL|KeBu28' entered and joined the game
