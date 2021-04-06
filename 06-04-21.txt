@@ -6288,3 +6288,8 @@
 [2021-04-06 07:17:28]: ***  [, Level 0]: coffee's killing spree was ended by Falco641 (10 blocks)
 [2021-04-06 07:17:32]: ***  [, Level 0]: [POLICE-CHANNEL] 'coffee' has been caught by 'Maatiteusz' (10 minutes arrest)
 [2021-04-06 07:17:33]: ***  [, Level 0]: '(1)Shiro.' entered and joined the game
+[2021-04-06 07:17:36]:   [, Level 0]: (1)Shiro.: TIMEOUT
+[2021-04-06 07:17:37]:   [, Level 0]: (1)Shiro.: HELP
+[2021-04-06 07:17:38]: Falco641 [.bad, Level 19]: coffee: happy?
+[2021-04-06 07:17:39]: ***  [, Level 0]: 'free Dummy' entered and joined the game
+[2021-04-06 07:17:43]:   [, Level 0]: (1)Shiro.: CHILLERDRAGON HELP MAKE ME USE TIMEOUT
