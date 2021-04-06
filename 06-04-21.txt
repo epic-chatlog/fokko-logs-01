@@ -10002,3 +10002,8 @@
 [2021-04-06 10:29:33]: ***  [, Level 0]: 'ERROR' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-06 10:29:41]: ***  [, Level 0]: 'HardreenClutch' entered and joined the game
 [2021-04-06 10:29:47]: Demon [DD-persian, Level 10]: :(
+[2021-04-06 10:29:50]: BC|kakashi [BC, Level 0]: (1)Axandos: ok dann viel spaß noch
+[2021-04-06 10:29:54]: ***  [, Level 0]: '|HolyHo|°' entered and joined the game
+[2021-04-06 10:29:58]: (1)Axandos [, Level 25]: dir auch BC|kakashi #
+[2021-04-06 10:30:00]: ビール|Scorp [, Level 19]: cookie: help
+[2021-04-06 10:30:03]:   [, Level 0]: [D] mamikral011: :D
