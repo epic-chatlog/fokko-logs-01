@@ -12808,3 +12808,7 @@
 [2021-04-06 13:51:57]: ***  [, Level 0]: 'fomjn' entered and joined the game
 [2021-04-06 13:52:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-06 13:52:02]: S Y T H N [iPro, Level 37]: flaschen
+[2021-04-06 13:52:04]: S Y T H N [iPro, Level 37]: okeyx?
+[2021-04-06 13:52:07]: BC|Tixnix [BC, Level 34]: GOLD: 2 chance?
+[2021-04-06 13:52:08]: ***  [, Level 0]: 'fomjn' has left the game
+[2021-04-06 13:52:10]: (1)Kirito♥ [♥, Level 24]: S Y T H N: flaschen?
