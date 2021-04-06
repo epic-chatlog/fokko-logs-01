@@ -13114,3 +13114,4 @@
 [2021-04-06 14:36:56]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-06 14:36:59]: WarHammer [, Level 0]: kezoo
 [2021-04-06 14:37:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-06 14:37:18]: ***  [, Level 0]: 'Tziys*' entered and joined the game
