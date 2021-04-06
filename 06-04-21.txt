@@ -7409,3 +7409,7 @@
 [2021-04-06 08:15:31]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-06 08:15:37]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-06 08:15:42]: ERROR [404, Level 56]: ChillerDragon:  kezo warhammer cylox xDDD
+[2021-04-06 08:15:47]: SAUD [, Level 22]: [D] Deadmouse:
+[2021-04-06 08:15:47]: Boti. [.bad, Level 33]: megnézem tudok e valami szart venni
+[2021-04-06 08:15:49]: [D] mamikral011 [, Level 0]: HardreenClutch:
+[2021-04-06 08:15:57]: kiøn1029 [.bad, Level 25]: bloody XDDD
