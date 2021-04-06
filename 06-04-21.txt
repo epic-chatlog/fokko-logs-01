@@ -12440,3 +12440,6 @@
 [2021-04-06 13:13:23]: ***  [, Level 0]: 'Gyro' entered and joined the game
 [2021-04-06 13:13:23]: Fearless [, Level 40]: Axandos:
 [2021-04-06 13:13:40]: Fearless [, Level 40]: Axandos:  AXAXAA KURAW HELP
+[2021-04-06 13:14:01]: ***  [, Level 0]: 'lefo' entered and joined the game
+[2021-04-06 13:14:05]: ***  [, Level 0]: 'lefo' has left the game
+[2021-04-06 13:14:08]: ***  [, Level 0]: 'Cylox♥' entered and joined the game
