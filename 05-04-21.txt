@@ -15527,3 +15527,5 @@
 [2021-04-05 23:13:11]: ***  [, Level 0]: 'R2D2' has left the game
 [2021-04-05 23:13:11]: ***  [, Level 0]: 'Wheels.' has left the game
 [2021-04-05 23:13:18]: PoliceTee [xSD7, Level 25]: Xddddd
+[2021-04-05 23:13:36]: Boti. [.bad, Level 32]: ez flag
+[2021-04-05 23:13:37]: Anatomy [MaL4iki kz, Level 0]: Boti.: war4life
