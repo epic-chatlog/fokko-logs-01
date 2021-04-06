@@ -10558,3 +10558,7 @@
 [2021-04-06 10:58:19]: any [404, Level 37]: Chronos: toi t'est d'ac ?
 [2021-04-06 10:58:24]: any [404, Level 37]: ERROR: gtg eat x)
 [2021-04-06 10:58:25]:   [, Level 0]: Maatiteusz: YelloWorlD: can we stop fighting?
+[2021-04-06 10:58:29]: Chronos [, Level 0]: any: toi ? tu l'est ?
+[2021-04-06 10:58:33]: BC|kakashi [BC, Level 0]: ERROR: danke <3
+[2021-04-06 10:58:40]: mami [, Level 1]: :spec
+[2021-04-06 10:58:42]: GOLD [404, Level 40]: Maatiteusz 100k
