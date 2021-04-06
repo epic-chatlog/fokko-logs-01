@@ -12952,3 +12952,6 @@
 [2021-04-06 14:12:47]: ***  [, Level 0]: 'soleri1' has left the game
 [2021-04-06 14:12:51]: Isegrin [, Level 54]: BRAND NEW
 [2021-04-06 14:12:52]: [D] toxicdaddy [, Level 22]: Isegrin: war
+[2021-04-06 14:12:55]: Isegrin [, Level 54]: [D] toxicdaddy: AAAAAAAAAAAAAAA
+[2021-04-06 14:13:03]: ***  [, Level 0]: '(2)Kirito♥' entered and joined the game
+[2021-04-06 14:13:04]: Isegrin [, Level 54]: [D] toxicdaddy: THIS APE CAN TALK WTF
