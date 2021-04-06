@@ -2889,3 +2889,6 @@
 [2021-04-06 02:39:56]: ERROR [404, Level 56]: (2)ChillerDrago:  ich sags nur einmal
 [2021-04-06 02:40:00]: (2)ChillerDrago [|*KoG*|, Level 32]: weqe: stop blox ERROR clan mates
 [2021-04-06 02:40:09]: (2)ChillerDrago [|*KoG*|, Level 32]: ok weqe ?
+[2021-04-06 02:40:15]: weqe [MNKY, Level 11]: (2)ChillerDrago: and am i supposed to keep watching when error clanmates block me ??
+[2021-04-06 02:40:21]: (2)ChillerDrago [|*KoG*|, Level 32]: no weqe
+[2021-04-06 02:40:24]: weqe [MNKY, Level 11]: what then
