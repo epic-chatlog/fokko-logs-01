@@ -9529,3 +9529,5 @@
 [2021-04-06 09:57:16]: Nudelsaft c: [FookinLads, Level 37]: sun.slow(y): danke dass dus sagst
 [2021-04-06 09:57:17]: GOLD [404, Level 40]: ChillerDragon: look u dummy
 [2021-04-06 09:57:17]: (1)ChillerDrago [|*KoG*|, Level 31]: GOLD: I am currently afk.
+[2021-04-06 09:57:32]: sun.slow(y) [FookinLads, Level 35]: Nudelsaft c:: mich hat der auch wbt
+[2021-04-06 09:57:32]: SAUD [, Level 22]: Hady:  war
