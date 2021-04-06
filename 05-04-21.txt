@@ -14834,3 +14834,4 @@
 [2021-04-05 17:30:03]: hmmmmmm [, Level 8]: yes
 [2021-04-05 17:30:07]: P4Pyr0s [, Level 22]: at spawn right
 [2021-04-05 17:30:50]: hmmmmmm [, Level 8]: ahhh no sorry man i need to go and just let's me be 9 rank
+[2021-04-05 17:31:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
