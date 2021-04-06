@@ -15890,3 +15890,5 @@
 [2021-04-05 23:39:58]: x7|zemer [xSD7, Level 23]: ß
 [2021-04-05 23:40:12]: WarHammer' [, Level 16]: hehe rq
 [2021-04-05 23:40:18]: ***  [, Level 0]: '(1)1' has left the game
+[2021-04-05 23:40:23]: Boti. [.bad, Level 32]: i need that lvl 33
+[2021-04-05 23:40:32]: ***  [, Level 0]: '(1)1' entered and joined the game
