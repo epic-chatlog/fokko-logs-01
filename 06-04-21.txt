@@ -4838,3 +4838,5 @@
 [2021-04-06 05:54:30]: Kong [[_Any %_], Level 0]: :(
 [2021-04-06 05:54:35]: ***  [, Level 0]: 'WarHammer'' has left the game
 [2021-04-06 05:54:35]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-06 05:54:36]: ChillerDragon [Chilli.*, Level 44]: k fokkonaut
+[2021-04-06 05:54:46]: ChillerDragon [Chilli.*, Level 44]: sag ihm ma er soll contact setzten fokkonaut
