@@ -8450,3 +8450,5 @@
 [2021-04-06 09:00:05]:   [, Level 0]: ビール|Scorp: noob/
 [2021-04-06 09:00:07]: (1)kais [, Level 58]: ChillerDragon.*: so i can understand with a total other meaning
 [2021-04-06 09:00:09]:   [, Level 0]: Catty: tttttttttt
+[2021-04-06 09:00:26]: ***  [, Level 0]: Rem's dummy finished in: 3 minute(s) 11.30 second(s)
+[2021-04-06 09:00:29]: (2)ChillerDrago [Chilli.*, Level 44]: aide kais
