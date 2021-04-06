@@ -1657,3 +1657,6 @@
 [2021-04-06 01:28:48]: Falco641 [, Level 19]: comic:
 [2021-04-06 01:28:51]: Falco641 [, Level 19]: go
 [2021-04-06 01:29:01]: [D] mamikral011 [, Level 0]: (1)1: fast help
+[2021-04-06 01:29:07]: ***  [, Level 0]: 'Virus' entered and joined the game
+[2021-04-06 01:29:12]: Vodo4ka [JB.st, Level 41]: Virus: corona
+[2021-04-06 01:29:13]: ***  [, Level 0]: 'Писька' entered and joined the game
