@@ -15389,3 +15389,4 @@
 [2021-04-05 21:57:33]: WarHammer [, Level 26]: SAUD:  FYADFADFAF
 [2021-04-05 21:57:34]: ***  [, Level 0]: Anatomy is on a killing spree with 25 blocks
 [2021-04-05 21:57:41]: (2)SAUD [, Level 13]: FHUESHFUES
+[2021-04-05 21:57:43]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
