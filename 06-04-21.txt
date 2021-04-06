@@ -10913,3 +10913,5 @@
 [2021-04-06 11:16:32]: Kaptar [, Level 24]: GOLD la même
 [2021-04-06 11:16:33]: ☺ [, Level 0]: je peux aussi GOLD
 [2021-04-06 11:16:38]: GOLD [404, Level 40]: y qui
+[2021-04-06 11:16:44]: ***  [, Level 0]: 'Demon,' has left the game
+[2021-04-06 11:16:52]: GOLD [404, Level 40]: Kaptar: jte 2 0
