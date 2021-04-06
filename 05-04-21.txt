@@ -15103,3 +15103,5 @@
 [2021-04-05 19:51:38]: ***  [, Level 0]: 'нυƨнıκε' entered and joined the game
 [2021-04-05 19:51:54]: ***  [, Level 0]: '(1)S Y T H N' entered and joined the game
 [2021-04-05 19:51:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-05 19:53:17]: ***  [, Level 0]: 'x7|zemer' has left the game
+[2021-04-05 19:53:17]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
