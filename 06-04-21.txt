@@ -12877,3 +12877,5 @@
 [2021-04-06 14:01:54]: Isegrin [, Level 54]: GOLD: EE
 [2021-04-06 14:02:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-06 14:02:05]: Isegrin [, Level 54]: GOLD: NOBO XAXAXA
+[2021-04-06 14:02:15]: YelloWorlD [404, Level 37]: Isegrin: spec god
+[2021-04-06 14:02:18]: YelloWorlD [404, Level 37]: Isegrin: spec dog
