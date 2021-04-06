@@ -15451,3 +15451,5 @@
 [2021-04-05 22:45:11]: ***  [, Level 0]: 's7_sven' entered and joined the game
 [2021-04-05 22:45:46]: ***  [, Level 0]: 'Marcisten' entered and joined the game
 [2021-04-05 22:45:50]: Marcisten [Helper, Level 0]: gm
+[2021-04-05 22:46:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-05 22:47:01]: ***  [, Level 0]: 'Marcisten' has left the game
