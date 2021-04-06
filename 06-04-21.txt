@@ -8391,3 +8391,8 @@
 [2021-04-06 08:56:36]:   [, Level 0]: (2)ChillerDragon: i dont help in ur wars kais
 [2021-04-06 08:56:40]: HardreenClutch [, Level 57]: Axandos:  bin mit ddnet drin mit ein trick
 [2021-04-06 08:56:46]: Axandos [, Level 0]: HardreenClutch:  und wie
+[2021-04-06 08:56:51]: ***  [, Level 0]: '(1)Kirito♥' has left the game (Timeout)
+[2021-04-06 08:56:51]: ***  [, Level 0]: 'Kirito' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-06 08:56:51]: ***  [, Level 0]: 'Kirito♥' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-06 08:56:56]: (2)ChillerDrago [Chilli.*, Level 44]: mais moi aide tu guerra kais
+[2021-04-06 08:56:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
