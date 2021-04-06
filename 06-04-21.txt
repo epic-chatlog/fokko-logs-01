@@ -8401,3 +8401,9 @@
 [2021-04-06 08:57:13]: ***  [, Level 0]: 'Rem's dummy' entered and joined the game
 [2021-04-06 08:57:15]: Axandos [, Level 0]: HardreenClutch:  wie
 [2021-04-06 08:57:22]: ***  [, Level 0]: 'Catty' joined the spectators
+[2021-04-06 08:57:24]: HardreenClutch [, Level 57]: Axandos:  kann ich nicht sagen
+[2021-04-06 08:57:25]: ***  [, Level 0]: '[D] Boti.' has left the game
+[2021-04-06 08:57:25]: ***  [, Level 0]: 'Boti.' has left the game
+[2021-04-06 08:57:26]: ***  [, Level 0]: 'Catty' joined the game
+[2021-04-06 08:57:30]: kais [, Level 65]: ChillerDragon.*: you have to translate : no, i won't help you in your wars
+[2021-04-06 08:57:31]: i [, Level 39]: Meetiteusz: 4k
