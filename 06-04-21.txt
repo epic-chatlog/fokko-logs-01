@@ -8355,3 +8355,9 @@
 [2021-04-06 08:55:39]: ***  [, Level 0]: 'Catty' joined the spectators
 [2021-04-06 08:55:40]:   [, Level 0]: (2)ChillerDragon: Axandos: bot client
 [2021-04-06 08:55:43]: ***  [, Level 0]: 'Catty' joined the game
+[2021-04-06 08:55:48]: Axandos [, Level 0]: (1)kais:  sure?
+[2021-04-06 08:55:48]: HardreenClutch [, Level 57]: Axandos:  ddnet
+[2021-04-06 08:55:52]: Axandos [, Level 0]: HardreenClutch:  wat
+[2021-04-06 08:55:52]:   [, Level 0]: (2)ChillerDragon: aide toujours oui?
+[2021-04-06 08:55:53]: Boti. [.bad, Level 33]: mit akarsz
+[2021-04-06 08:55:54]: Boti. [.bad, Level 33]: xd
