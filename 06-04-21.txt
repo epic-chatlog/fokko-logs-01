@@ -11017,3 +11017,7 @@
 [2021-04-06 11:23:05]: GOLD [404, Level 40]: hmmmmmm: t'es qui
 [2021-04-06 11:23:05]: ***  [, Level 0]: 'BulgarianTee' has left the game
 [2021-04-06 11:23:08]:   [, Level 0]: comic: what are you typing
+[2021-04-06 11:23:23]:   [, Level 0]: hmmmmmm: GOLD: je suis sL|whutasme GOLD
+[2021-04-06 11:23:24]: ***  [, Level 0]: 'Demon,' entered and joined the game
+[2021-04-06 11:23:25]:   [, Level 0]: Isegrin: Meetiteusz: XAXA
+[2021-04-06 11:23:29]: ***  [, Level 0]: 'Demon,' has left the game
