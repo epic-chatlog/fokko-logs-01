@@ -7788,3 +7788,7 @@
 [2021-04-06 08:34:45]: Boti. [.bad, Level 33]: megoldom
 [2021-04-06 08:34:46]: deSi [TR, Level 0]: ERROR: my baby
 [2021-04-06 08:34:48]: Boti. [.bad, Level 33]: vissza is
+[2021-04-06 08:34:57]: kiøn1029 [.bad, Level 25]: XD
+[2021-04-06 08:34:57]: ERROR [404, Level 56]: xD
+[2021-04-06 08:34:59]: Boti. [.bad, Level 33]: XD
+[2021-04-06 08:35:00]: Falco642 [, Level 0]: ping went from 69 to 368
