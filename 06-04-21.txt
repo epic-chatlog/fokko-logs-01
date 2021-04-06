@@ -12110,3 +12110,9 @@
 [2021-04-06 12:36:58]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-06 12:37:01]: s7_sven [, Level 0]: 5 times or more
 [2021-04-06 12:37:03]: ☺ [, Level 2]: taser noob Fearless
+[2021-04-06 12:37:07]:   [, Level 0]: Fearless: bob:  monkey team best
+[2021-04-06 12:37:08]: ***  [, Level 0]: 'Isegrin' has left the game
+[2021-04-06 12:37:08]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-06 12:37:10]: ***  [, Level 0]: 'cunt' entered and joined the game
+[2021-04-06 12:37:10]:   [, Level 0]: mamikral011: Fearless: helpp
+[2021-04-06 12:37:11]: any [404, Level 37]: ☺ t'est qui ?
