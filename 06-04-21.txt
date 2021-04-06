@@ -13157,3 +13157,5 @@
 [2021-04-06 14:42:28]: ***  [, Level 0]: 'fomin' entered and joined the game
 [2021-04-06 14:42:29]: ***  [, Level 0]: 'H0LL4D13W4LDFEE' has left the game
 [2021-04-06 14:42:35]: WarHammer [, Level 0]: oy lag
+[2021-04-06 14:42:59]: [D] toxicdaddy [, Level 22]: ~DemoizL~: help me#
+[2021-04-06 14:43:02]: ***  [, Level 0]: (2)Kirito♥ is on a killing spree with 30 blocks
