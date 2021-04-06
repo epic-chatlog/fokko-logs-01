@@ -3243,3 +3243,4 @@
 [2021-04-06 03:07:39]: ***  [, Level 0]: 'ist ein Noob' has left the game
 [2021-04-06 03:07:43]: ***  [, Level 0]: 'ES' entered and joined the game
 [2021-04-06 03:07:46]: ***  [, Level 0]: '(2)1' has left the game
+[2021-04-06 03:07:57]: ***  [, Level 0]: 'SrakaWGaciach' has left the game
