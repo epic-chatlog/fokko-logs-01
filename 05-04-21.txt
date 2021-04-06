@@ -15064,3 +15064,4 @@
 [2021-04-05 19:06:53]: ***  [, Level 0]: '(1)нυƨнıκε' changed name to 'x7|zemer'
 [2021-04-05 19:06:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-05 19:07:10]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-05 19:08:11]: ***  [, Level 0]: 'нυƨнıκε' changed name to 'σмєтнιηg'
