@@ -14749,3 +14749,5 @@
 [2021-04-05 17:07:41]: hmmmmmm [, Level 8]: ah bah bye mon pote x7|FayZoR
 [2021-04-05 17:07:42]: x7|KshKsh99 [xSD7, Level 0]: xd
 [2021-04-05 17:07:47]: x7|Chronos [xSD7, Level 35]: hmmmmmm: byeeee
+[2021-04-05 17:07:56]: ***  [, Level 0]: 'x7|Chronos' has left the game
+[2021-04-05 17:07:58]: ***  [, Level 0]: 'x7|FayZoR' has left the game
