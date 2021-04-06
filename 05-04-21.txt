@@ -15207,3 +15207,4 @@
 [2021-04-05 21:26:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-05 21:27:12]: DARWINS YT 18 [, Level 0]: HOLA
 [2021-04-05 21:27:15]: ilum [inati, Level 0]: hello
+[2021-04-05 21:27:27]: DARWINS YT 18 [, Level 0]: HELLO
