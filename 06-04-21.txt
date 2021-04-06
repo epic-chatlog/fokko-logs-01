@@ -6647,3 +6647,9 @@
 [2021-04-06 07:35:53]:   [, Level 0]: Shiro.: ez
 [2021-04-06 07:35:55]: ChillerDragon.* [Chilli.*, Level 41]: oui kais
 [2021-04-06 07:35:59]: ChillerDragon.* [Chilli.*, Level 41]: paix Shiro.
+[2021-04-06 07:36:04]:   [, Level 0]: (1)kais: ChillerDragon.*: omg, u french ? :O
+[2021-04-06 07:36:07]: ***  [, Level 0]: 'KoRaPcz' entered and joined the game
+[2021-04-06 07:36:08]: ChillerDragon.* [Chilli.*, Level 41]: oui kais
+[2021-04-06 07:36:11]: ***  [, Level 0]: 'KoRaPcz' has left the game
+[2021-04-06 07:36:12]:   [, Level 0]: (1)kais: ChillerDragon.*: wow
+[2021-04-06 07:36:12]:   [, Level 0]: Isegrin: pls no kill: leave server ;-D
