@@ -9153,3 +9153,7 @@
 [2021-04-06 09:36:58]: kais [, Level 65]: ChillerDragon: happy ?
 [2021-04-06 09:36:59]: ***  [ç, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-06 09:36:59]:   [, Level 0]: power2: dont steal my joked
+[2021-04-06 09:37:02]:   [, Level 0]: power2: jokes
+[2021-04-06 09:37:03]: ***  [, Level 0]: 'mami' entered and joined the game
+[2021-04-06 09:37:08]: Isegrin [, Level 54]: power2: what jokes
+[2021-04-06 09:37:12]: ChillerDragon [|*KoG*|, Level 32]: kais oui
