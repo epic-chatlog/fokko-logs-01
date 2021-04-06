@@ -8417,3 +8417,7 @@
 [2021-04-06 08:58:04]:   [, Level 0]: (1)Axandos: it worked
 [2021-04-06 08:58:09]:   [, Level 0]: (1)Axandos: kais:  with the reload
 [2021-04-06 08:58:14]: ***  [, Level 0]: 'Catty' joined the spectators
+[2021-04-06 08:58:16]: kais [, Level 65]: ok
+[2021-04-06 08:58:17]:   [, Level 0]: CKA3A4NIK[NR]: HardreenClutch:  ???
+[2021-04-06 08:58:18]: ***  [, Level 0]: 'Catty' joined the game
+[2021-04-06 08:58:21]:   [, Level 0]: CKA3A4NIK[NR]: HardreenClutch:  Why?
