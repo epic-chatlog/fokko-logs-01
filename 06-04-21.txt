@@ -6609,3 +6609,9 @@
 [2021-04-06 07:34:16]: Killua [FookinLads, Level 37]: any?
 [2021-04-06 07:34:20]: VeemID [, Level 26]: GoatLike: how did you do ?
 [2021-04-06 07:34:20]: Killua [FookinLads, Level 37]: where
+[2021-04-06 07:34:25]: ***  [, Level 0]: 'lolpoep' has left the game
+[2021-04-06 07:34:25]: any² [404, Level 0]: Killua: ?
+[2021-04-06 07:34:26]: GoatLike [, Level 0]: VeemID: what
+[2021-04-06 07:34:27]: ***  [, Level 0]: 'lolpoep' entered and joined the game
+[2021-04-06 07:34:30]: GoatLike [, Level 0]: im arrested lol
+[2021-04-06 07:34:32]: ***  [, Level 0]: 'lolpoep' has left the game
