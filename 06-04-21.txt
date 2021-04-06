@@ -8668,3 +8668,7 @@
 [2021-04-06 09:11:25]: ***  [, Level 0]: [POLICE-CHANNEL] 'power' is spawnblocking. Catch him!
 [2021-04-06 09:11:27]: Rem's bae [, Level 42]: ChillerDragon.*: ahh xD
 [2021-04-06 09:11:36]: ***  [, Level 0]: [POLICE-CHANNEL] 'power' is spawnblocking. Catch him!
+[2021-04-06 09:11:41]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-06 09:11:42]: ***  [, Level 0]: '(1)Hunter.exe' has left the game
+[2021-04-06 09:11:44]: (1)Axandos [, Level 25]: Telefantastic:  u suck ass
+[2021-04-06 09:11:45]: Hady [new bot, Level 0]: Rem's dummy:
