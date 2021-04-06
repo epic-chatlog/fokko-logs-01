@@ -4328,3 +4328,5 @@
 [2021-04-06 04:24:16]: ***  [, Level 0]: 'Maatiteusz' entered and joined the game
 [2021-04-06 04:24:17]: FatterAss [, Level 36]: 2v24
 [2021-04-06 04:24:18]: FatterAss [, Level 36]: ez
+[2021-04-06 04:24:29]: ✯Hunter.exe [|Supressed|, Level 35]: FatterAss: can you count?
+[2021-04-06 04:24:33]: FatterAss [, Level 36]: ✯Hunter.exe: 2v120?
