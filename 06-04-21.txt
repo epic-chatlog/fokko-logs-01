@@ -13636,3 +13636,6 @@
 [2021-04-06 16:26:36]: x7|Flipper [xSD7, Level 14]: jetpack
 [2021-04-06 16:27:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-06 16:27:22]: x7|Flipper [xSD7, Level 14]: bye
+[2021-04-06 16:27:29]: x7|KshKsh99 [xSD7, Level 37]: bye
+[2021-04-06 16:27:34]: ***  [, Level 0]: 'Flupper' has left the game
+[2021-04-06 16:27:34]: ***  [, Level 0]: 'x7|Flipper' has left the game
