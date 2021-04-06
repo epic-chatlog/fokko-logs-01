@@ -13427,3 +13427,6 @@
 [2021-04-06 15:35:35]: t [, Level 42]: x7|Flipper: gold u knowd
 [2021-04-06 15:36:20]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
 [2021-04-06 15:36:35]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-06 15:36:44]: Marcisten [Helper, Level 0]: friends hello
+[2021-04-06 15:36:45]: fomin [RUA, Level 0]: fuck
+[2021-04-06 15:36:46]: t [, Level 42]: x7|Flipper: that a joke bro
