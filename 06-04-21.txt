@@ -5304,3 +5304,6 @@
 [2021-04-06 06:28:05]: Swarfey [FookinLads, Level 37]: bbbbbbbbbbbbbbbbbbbb
 [2021-04-06 06:28:13]: ChillerDragon [Chilli.*, Level 44]: ? ERROR
 [2021-04-06 06:28:18]: ERROR [404, Level 56]: hast schon verstanden
+[2021-04-06 06:28:19]: ***  [, Level 0]: 'ビール|Scorp' has left the game
+[2021-04-06 06:28:20]: ChillerDragon [Chilli.*, Level 44]: 404
+[2021-04-06 06:28:24]: Swarfey [FookinLads, Level 37]: ChillerDragon: hilf mir
