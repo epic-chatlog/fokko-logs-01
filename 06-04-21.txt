@@ -10802,3 +10802,9 @@
 [2021-04-06 11:09:31]:   [, Level 0]: cunt: Isegrin: respawn
 [2021-04-06 11:09:32]: GOLD [404, Level 40]: Isegrin: dont talk with me
 [2021-04-06 11:09:34]:   [, Level 0]: ☺: ahh FayZoR
+[2021-04-06 11:09:40]: FayZoR [, Level 42]: je reviens
+[2021-04-06 11:09:41]: Kaptar [, Level 24]: GOLD on peut re le duel ?
+[2021-04-06 11:09:41]: ***  [, Level 0]: f"{self.name}" finished in: 3 minute(s)  4.22 second(s)
+[2021-04-06 11:09:41]: ***  [, Level 0]: New record: 8 minute(s) 32.96 second(s) better.
+[2021-04-06 11:09:42]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 31.86 second(s)
+[2021-04-06 11:09:44]:   [, Level 0]: ☺: sad FayZoR
