@@ -12321,3 +12321,5 @@
 [2021-04-06 12:58:35]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
 [2021-04-06 12:59:24]: ***  [, Level 0]: 'Marcisten' has left the game
 [2021-04-06 12:59:26]: nameless [, Level 0]: any: xD
+[2021-04-06 12:59:41]: ***  [, Level 0]: 'Jean Baptiste' entered and joined the game
+[2021-04-06 12:59:45]: nameless [, Level 0]: any: xDD
