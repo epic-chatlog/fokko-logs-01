@@ -3709,3 +3709,7 @@
 [2021-04-06 03:40:02]: ***  [, Level 0]: '(3)lol' has left the game (Timeout)
 [2021-04-06 03:40:09]:   [, Level 0]: BC|kakashi: NO ERROR.: ?
 [2021-04-06 03:40:24]: weqe [MNKY, Level 12]: ERROR.: dude i dont get ur policy here
+[2021-04-06 03:40:31]: . [TrRShClNrRs, Level 42]: weqe: u too? lol
+[2021-04-06 03:40:36]:   [, Level 0]: BC|kakashi: NO ERROR.: :)
+[2021-04-06 03:40:37]: weqe [MNKY, Level 12]: .: ?
+[2021-04-06 03:40:40]: ***  [, Level 0]: WW2 is on a killing spree with 5 blocks
