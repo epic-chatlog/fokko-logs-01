@@ -13080,3 +13080,5 @@
 [2021-04-06 14:29:15]: ***  [, Level 0]: 'Tziys*' entered and joined the game
 [2021-04-06 14:29:16]: [D] toxicdaddy [, Level 22]: Kezo: halal
 [2021-04-06 14:29:32]: Kezo [FookinLads, Level 0]: toxicdaddy: what
+[2021-04-06 14:30:26]: ***  [, Level 0]: (2)Kirito♥'s killing spree was ended by fomjn (24 blocks)
+[2021-04-06 14:30:26]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
