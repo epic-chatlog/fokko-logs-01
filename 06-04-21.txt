@@ -13502,3 +13502,4 @@
 [2021-04-06 15:57:17]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
 [2021-04-06 15:57:23]: t [, Level 42]: ♥TAKO♥: i have say u gona regret this
 [2021-04-06 15:57:43]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
+[2021-04-06 15:58:42]: ♥TAKO♥ [, Level 25]: lag
