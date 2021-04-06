@@ -4507,3 +4507,9 @@
 [2021-04-06 04:37:25]: ***  [, Level 0]: 'Meetiteusz' has left the game
 [2021-04-06 04:37:25]: WW2 [, Level 11]: TÜRKMÜSÜN
 [2021-04-06 04:37:33]: mami [Ape, Level 16]: no nederlands
+[2021-04-06 04:37:42]: ***  [, Level 0]: 'toxicdaddy' has left the game
+[2021-04-06 04:37:42]: ***  [, Level 0]: '[D] toxicdaddy' has left the game
+[2021-04-06 04:37:45]: Donatello [, Level 24]: rq
+[2021-04-06 04:37:47]: any² [404, Level 0]: rq
+[2021-04-06 04:37:48]: , [TrRShClNrRs, Level 41]: rq
+[2021-04-06 04:37:51]: , [TrRShClNrRs, Level 41]: all rq
