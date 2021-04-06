@@ -5225,3 +5225,6 @@
 [2021-04-06 06:18:53]: ChillerDragon [Chilli.*, Level 44]: send taser ammo ERROR
 [2021-04-06 06:18:59]: ERROR [404, Level 56]: no
 [2021-04-06 06:19:02]: ChillerDragon [Chilli.*, Level 44]: rude
+[2021-04-06 06:19:05]: ChillerDragon [Chilli.*, Level 44]: gönn doch
+[2021-04-06 06:19:06]: ERROR [404, Level 56]: no
+[2021-04-06 06:19:07]: ChillerDragon [Chilli.*, Level 44]: du bist reich
