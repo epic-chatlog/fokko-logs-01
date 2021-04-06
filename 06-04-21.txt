@@ -4529,3 +4529,5 @@
 [2021-04-06 04:39:17]: CKA3A4NIK [, Level 32]: ビール|Zero:  спек
 [2021-04-06 04:39:18]: ビール|Zero [Drunks, Level 28]: CKA3A4NIK: жди
 [2021-04-06 04:39:20]: ***  [, Level 0]: 'ビール|Scorp' entered and joined the game
+[2021-04-06 04:39:21]: ***  [, Level 0]: 'WarHammer' changed name to 'Not WarHammer'
+[2021-04-06 04:39:29]: ビール|Scorp [, Level 0]: CKA3A4NIK: спек ми
