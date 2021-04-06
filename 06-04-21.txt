@@ -9033,3 +9033,5 @@
 [2021-04-06 09:31:57]: ChillerDragon [Chilli.*, Level 32]: ami YelloWorlD
 [2021-04-06 09:31:58]: kais [, Level 65]: ChillerDragon: not really translable, but i'd translate it by "dure"
 [2021-04-06 09:31:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-06 09:32:13]:   [, Level 0]: YelloWorlD: ChillerDragon.*: why u use bot to talk to me
+[2021-04-06 09:32:14]: ZEUS [, Level 0]: zZzerayI who are you?
