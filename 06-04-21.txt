@@ -3001,3 +3001,5 @@
 [2021-04-06 02:47:02]: weqe [MNKY, Level 11]: EvenFatterAss: FLAG
 [2021-04-06 02:47:03]: ***  [, Level 0]: ### 'Telefantastic' QUACK
 [2021-04-06 02:47:04]: EvenFatterAss [, Level 36]: weqe: FLAG
+[2021-04-06 02:47:07]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-06 02:47:14]: ***  [, Level 0]: 'Red Fox' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
