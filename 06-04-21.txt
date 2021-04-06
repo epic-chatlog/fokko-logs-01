@@ -5636,3 +5636,7 @@
 [2021-04-06 06:48:05]: ***  [, Level 0]: 'hhnaut31' has left the game
 [2021-04-06 06:48:06]: ***  [, Level 0]: 'hhh3' has left the game
 [2021-04-06 06:48:07]: (1)soleri1 [, Level 0]: ChillerDragon:
+[2021-04-06 06:48:09]:   [, Level 0]: Red Ghost: help Isegrin
+[2021-04-06 06:48:11]: ***  [, Level 0]: 'CKA3A4NIK' has left the game
+[2021-04-06 06:48:11]: ***  [, Level 0]: 'CKA3A4NIK[NR]' has left the game
+[2021-04-06 06:48:12]: (1)ChillerDrago [Chilli.*, Level 31]: aaaaaaaaaaaa
