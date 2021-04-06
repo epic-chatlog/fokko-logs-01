@@ -5385,3 +5385,6 @@
 [2021-04-06 06:33:34]: ᅟᅟ [, Level 60]: :c
 [2021-04-06 06:33:40]: ***  [, Level 0]: ss is on a killing spree with 5 blocks
 [2021-04-06 06:33:41]: ᅟᅟ [, Level 60]: rude
+[2021-04-06 06:33:52]: ***  [, Level 0]: ss's killing spree was ended by power (6 blocks)
+[2021-04-06 06:33:57]: ***  [, Level 0]: 'Sutzer' entered and joined the game
+[2021-04-06 06:33:59]: ***  [, Level 0]: 'RoberGN' has left the game
