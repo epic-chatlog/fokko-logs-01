@@ -6281,3 +6281,10 @@
 [2021-04-06 07:17:12]: ***  [, Level 0]: [POLICE-CHANNEL] 'coffee' is spawnblocking. Catch him!
 [2021-04-06 07:17:15]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-06 07:17:17]: ChillerDragon.* [|*KoG*|, Level 41]: i tried that but i failed cuz my gfx driver broken
+[2021-04-06 07:17:21]: ***  [, Level 0]: [POLICE-CHANNEL] 'coffee' is spawnblocking. Catch him!
+[2021-04-06 07:17:21]: ***  [, Level 0]: coffee is on a killing spree with 10 blocks
+[2021-04-06 07:17:21]: ***  [, Level 0]: [POLICE-CHANNEL] 'coffee' is spawnblocking. Catch him!
+[2021-04-06 07:17:22]: Killua [FookinLads, Level 0]: ChillerDragon.*: which 1 i have 2 blmapchill bots xd 1 of em 1 for clans team/war lists with online status and lvl...
+[2021-04-06 07:17:28]: ***  [, Level 0]: coffee's killing spree was ended by Falco641 (10 blocks)
+[2021-04-06 07:17:32]: ***  [, Level 0]: [POLICE-CHANNEL] 'coffee' has been caught by 'Maatiteusz' (10 minutes arrest)
+[2021-04-06 07:17:33]: ***  [, Level 0]: '(1)Shiro.' entered and joined the game
