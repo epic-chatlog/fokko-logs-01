@@ -12249,3 +12249,6 @@
 [2021-04-06 12:46:33]: ***  [, Level 0]: 'x7|zemer' has left the game
 [2021-04-06 12:46:33]: Axandos² [, Level 20]: bob:  what u want
 [2021-04-06 12:46:46]: Axandos² [, Level 20]: bob:  leave me alone
+[2021-04-06 12:46:53]: ***  [, Level 0]: '(1)guy' has left the game
+[2021-04-06 12:46:53]: ***  [, Level 0]: 'guy' has left the game
+[2021-04-06 12:46:58]: ***  [, Level 0]: [INFO] You can create an account using '/register'
