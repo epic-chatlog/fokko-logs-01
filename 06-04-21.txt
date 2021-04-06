@@ -8504,3 +8504,10 @@
 [2021-04-06 09:03:05]: ***  [, Level 0]: 'Rem's dummy' entered and joined the game
 [2021-04-06 09:03:07]: GReeeN [, Level 0]: ビール|Scorp:
 [2021-04-06 09:03:09]: ***  [, Level 0]: 'Catty' joined the spectators
+[2021-04-06 09:03:12]:   [, Level 0]: Ļåҕ Lobster: any: hello <3
+[2021-04-06 09:03:12]: ***  [, Level 0]: 'Catty' joined the game
+[2021-04-06 09:03:15]: ChillerDragon.* [Chilli.*, Level 41]: summos ami kais?
+[2021-04-06 09:03:16]: GReeeN [, Level 0]: ビール|Scorp:  send me your tee pls i want it
+[2021-04-06 09:03:19]: ***  [, Level 0]: 'Catty' joined the spectators
+[2021-04-06 09:03:22]: ***  [, Level 0]: 'Catty' joined the game
+[2021-04-06 09:03:22]: (1)kais [, Level 58]: ChillerDragon.*: you said "our friends kais"
