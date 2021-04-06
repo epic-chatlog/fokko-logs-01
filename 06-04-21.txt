@@ -5024,3 +5024,6 @@
 [2021-04-06 06:04:21]: Cosmo [, Level 0]: ビール|Scorp: help
 [2021-04-06 06:04:33]: Swarfey [FookinLads, Level 37]: hab nen string array mit 5 webhooks um ratelimits zu entfernen nur um rauszufinden dass die ip geratelimited wird ChillerDragon xd
 [2021-04-06 06:04:33]: ChillerDragon [|*KoG*|, Level 44]: Swarfey: I am currently afk.
+[2021-04-06 06:04:47]: Swarfey [FookinLads, Level 37]: es wird eine ingame nachricht aufm dc gezeigt
+[2021-04-06 06:04:50]: ***  [, Level 0]: Cosmo finished in: 4 minute(s) 51.34 second(s)
+[2021-04-06 06:04:56]: Swarfey [FookinLads, Level 37]: oder was meinst du
