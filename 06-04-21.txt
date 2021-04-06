@@ -5029,3 +5029,8 @@
 [2021-04-06 06:04:56]: Swarfey [FookinLads, Level 37]: oder was meinst du
 [2021-04-06 06:05:08]: ᅟ [, Level 102]: ich mein, bei dir sieht die ja aus wie so ein kasten
 [2021-04-06 06:05:09]: ᅟ [, Level 102]: mit level
+[2021-04-06 06:05:11]: ᅟ [, Level 102]: und doppel name
+[2021-04-06 06:05:17]: ᅟ [, Level 102]: einmal nachrichten sender name
+[2021-04-06 06:05:20]: ᅟ [, Level 102]: und dann in dem feld
+[2021-04-06 06:05:21]: ᅟ [, Level 102]: nochmal name
+[2021-04-06 06:05:22]: ***  [, Level 0]: 'ᅟ' has been muted for 60 seconds
