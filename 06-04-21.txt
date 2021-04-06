@@ -4985,3 +4985,6 @@
 [2021-04-06 06:02:20]: Swarfey [FookinLads, Level 37]: müsste gehen
 [2021-04-06 06:02:20]: ᅟ [, Level 102]: wie hast du denn den client mit discord verbunden?
 [2021-04-06 06:02:21]: ***  [, Level 0]: [POLICE-CHANNEL] 'Kirito♥' is spawnblocking. Catch him!
+[2021-04-06 06:02:27]: ChillerDragon [Chilli.*, Level 44]: hax client
+[2021-04-06 06:02:32]: ChillerDragon [Chilli.*, Level 44]: und curl discord api
+[2021-04-06 06:02:35]: Swarfey [FookinLads, Level 37]: ja hax
