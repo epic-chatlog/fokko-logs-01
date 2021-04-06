@@ -7030,3 +7030,6 @@
 [2021-04-06 07:52:13]: ***  [, Level 0]: [POLICE-CHANNEL] 'Kiøn1029' has been caught by 'Virus' (5 minutes arrest)
 [2021-04-06 07:52:13]: Kiøn1029 [.bad, Level 31]: van 300sec amíg keres a police
 [2021-04-06 07:52:18]: Kiøn1029 [.bad, Level 31]: BAZD,EG
+[2021-04-06 07:52:21]: Kiøn1029 [.bad, Level 31]: ANYÁD
+[2021-04-06 07:52:21]:   [, Level 0]: Boti.: XDD
+[2021-04-06 07:52:27]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
