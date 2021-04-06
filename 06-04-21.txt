@@ -5204,3 +5204,6 @@
 [2021-04-06 06:17:03]: ERROR [404, Level 56]: killaaaa
 [2021-04-06 06:17:09]: Discord [, Level 39]: Swarfey: ok ChillerDragon
 [2021-04-06 06:17:10]: power [TrRShClNrRs, Level 0]: ChillerDragon: stop it
+[2021-04-06 06:17:29]: ChillerDragon [|*KoG*|, Level 44]: schon in der badewanne ERROR ? xd
+[2021-04-06 06:17:32]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-06 06:17:32]: ERROR [404, Level 56]: yes
