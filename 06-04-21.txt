@@ -12830,3 +12830,7 @@
 [2021-04-06 13:54:36]: lefo [, Level 0]: baka
 [2021-04-06 13:54:45]: ***  [, Level 0]: fomjn is on a killing spree with 5 blocks
 [2021-04-06 13:54:49]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
+[2021-04-06 13:54:52]: Virus [, Level 49]: (1)Kirito♥: I grabbed u and toxicdady blocked u :-D
+[2021-04-06 13:54:53]: ***  [, Level 0]: 'fomin' entered and joined the game
+[2021-04-06 13:55:01]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
+[2021-04-06 13:55:01]: ***  [, Level 0]: fomjn's killing spree was ended by YelloWorlD (7 blocks)
