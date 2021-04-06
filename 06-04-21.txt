@@ -3949,3 +3949,4 @@
 [2021-04-06 04:02:13]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
 [2021-04-06 04:02:16]: ***  [, Level 0]: '(1)ビール|Zero' has left the game
 [2021-04-06 04:02:24]: ***  [, Level 0]: 'WarHammer'' has left the game
+[2021-04-06 04:02:45]:   [, Level 0]: WarHammer: x7|FayZoR:  helpfull tee
