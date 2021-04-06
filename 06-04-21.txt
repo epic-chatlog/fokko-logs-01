@@ -7297,3 +7297,4 @@
 [2021-04-06 08:10:13]: »ℱℬℑ« [, Level 0]: HAHAHA
 [2021-04-06 08:10:19]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-06 08:10:27]: ***  [, Level 0]: [POLICE-CHANNEL] '»ℱℬℑ«' is spawnblocking. Catch him!
+[2021-04-06 08:10:32]: ***  [, Level 0]: »ℱℬℑ«'s killing spree was ended by power (9 blocks)
