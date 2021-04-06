@@ -13705,3 +13705,6 @@
 [2021-04-06 16:49:35]: ***  [, Level 0]: (2)Kirito♥ is on a killing spree with 5 blocks
 [2021-04-06 16:49:56]: ***  [, Level 0]: 'x7|zemer' has left the game
 [2021-04-06 16:52:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-06 16:52:34]: ***  [, Level 0]: 'leazerteam' entered and joined the game
+[2021-04-06 16:52:39]: ***  [, Level 0]: '(2)Kirito♥' has left the game
+[2021-04-06 16:52:39]: ***  [, Level 0]: '(3)Kirito♥' has left the game
