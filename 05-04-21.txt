@@ -14967,3 +14967,4 @@
 [2021-04-05 18:09:17]: S Y T H N [iPro, Level 37]: ja
 [2021-04-05 18:09:55]: ***  [, Level 0]: 'SpaceCowboy' entered and joined the game
 [2021-04-05 18:10:19]: ***  [, Level 0]: 'SpaceCowboy' joined the spectators
+[2021-04-05 18:10:23]: ***  [, Level 0]: 'SpaceCowboy' joined the game
