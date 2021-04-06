@@ -12584,3 +12584,5 @@
 [2021-04-06 13:28:17]: ***  [, Level 0]: fomjn is on a killing spree with 10 blocks
 [2021-04-06 13:28:17]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
 [2021-04-06 13:28:17]: Fearless [, Level 40]: Axandos:  you killin my frend
+[2021-04-06 13:28:24]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
+[2021-04-06 13:28:28]: Axandos [, Level 25]: Fearless:  he tries to kill me :C
