@@ -3474,3 +3474,7 @@
 [2021-04-06 03:25:06]: ***  [, Level 0]: 'ist ein Noob' entered and joined the game
 [2021-04-06 03:25:08]: ***  [, Level 0]: 'White Wolf' has left the game
 [2021-04-06 03:25:08]: ***  [, Level 0]: 'Black Wolf' has left the game
+[2021-04-06 03:25:10]: Rock [, Level 19]: (づ｡◕‿‿◕｡)づ
+[2021-04-06 03:25:14]: Nudelsaft c: [FookinLads, Level 37]: Amiral: there is a push it team map
+[2021-04-06 03:25:17]: Nudelsaft c: [FookinLads, Level 37]: Shiro.: *
+[2021-04-06 03:25:21]: Nudelsaft c: [FookinLads, Level 37]: cant ping
