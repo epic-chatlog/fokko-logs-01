@@ -7391,3 +7391,7 @@
 [2021-04-06 08:14:46]: ***  [, Level 0]: 'coala3152' has left the game
 [2021-04-06 08:14:46]: ***  [, Level 0]: 'coala5231' has left the game
 [2021-04-06 08:14:49]: Boti. [.bad, Level 33]: kéne pénz ozt amúgy ozt vennék spawn riflet
+[2021-04-06 08:14:55]: ChillerDragon.* [|*KoG*|, Level 41]: spawn riflet
+[2021-04-06 08:14:58]: ***  [, Level 0]: 'Coala32' entered and joined the game
+[2021-04-06 08:15:02]: ***  [, Level 0]: 'any' entered and joined the game
+[2021-04-06 08:15:06]: kiøn1029 [.bad, Level 25]: dik
