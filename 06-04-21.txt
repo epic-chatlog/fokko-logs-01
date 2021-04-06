@@ -7284,3 +7284,5 @@
 [2021-04-06 08:09:32]: ***  [, Level 0]: [POLICE-CHANNEL] '»ℱℬℑ«' is spawnblocking. Catch him!
 [2021-04-06 08:09:35]: ***  [, Level 0]: 'Coala64' has left the game
 [2021-04-06 08:09:35]: ***  [, Level 0]: 'Coala32' has left the game
+[2021-04-06 08:09:40]: ***  [, Level 0]: »ℱℬℑ« is on a killing spree with 5 blocks
+[2021-04-06 08:09:40]: ***  [, Level 0]: [POLICE-CHANNEL] '»ℱℬℑ«' is spawnblocking. Catch him!
