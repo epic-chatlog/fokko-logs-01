@@ -7035,3 +7035,6 @@
 [2021-04-06 07:52:27]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
 [2021-04-06 07:52:34]:   [, Level 0]: Boti.: 5 perc böri
 [2021-04-06 07:52:41]: (2)ChillerDrago [|*KoG*|, Level 44]: meg Kiøn1029
+[2021-04-06 07:52:46]: (2)ChillerDrago [Chilli.*, Level 44]: what is jail in hun Kiøn1029
+[2021-04-06 07:52:48]: ***  [, Level 0]: '(2)Cosmo' has left the game
+[2021-04-06 07:52:53]: ***  [, Level 0]: 'Virus' has left the game
