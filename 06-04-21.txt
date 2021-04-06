@@ -11645,3 +11645,4 @@
 [2021-04-06 12:08:43]: ***  [, Level 0]: 'Shiro.' entered and joined the game
 [2021-04-06 12:08:43]: GODLIKe [hax, Level 44]: why ı have fps drop :c
 [2021-04-06 12:08:46]: ***  [, Level 0]: 'ZEUS' has left the game
+[2021-04-06 12:08:54]: mami [, Level 1]: :spec
