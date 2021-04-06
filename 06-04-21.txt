@@ -1360,3 +1360,8 @@
 [2021-04-06 01:11:05]: ***  [, Level 0]: 'komando' entered and joined the game
 [2021-04-06 01:11:15]: Shiro. [404, Level 42]: NO
 [2021-04-06 01:11:16]: Shiro. [404, Level 42]: NUDEL DIE
+[2021-04-06 01:11:21]: Shiro. [404, Level 42]: Nudelsaft c:: MAN WT
+[2021-04-06 01:11:23]: NO ERROR. [404, Level 74]: Shiro.:  fuck u fr
+[2021-04-06 01:11:23]: Nudelsaft c: [FookinLads, Level 37]: ok i jump in spike
+[2021-04-06 01:11:25]: Nudelsaft c: [FookinLads, Level 37]: wait
+[2021-04-06 01:11:29]: Shiro. [404, Level 42]: no in freeze
