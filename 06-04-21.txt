@@ -13331,3 +13331,5 @@
 [2021-04-06 15:16:21]: hmmmmmm [, Level 10]: euh gold
 [2021-04-06 15:16:29]: Flupper [xSD7, Level 0]: t help my dummy
 [2021-04-06 15:16:50]: hmmmmmm [, Level 10]: fayfay ?
+[2021-04-06 15:17:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-06 15:17:02]: Flupper [xSD7, Level 0]: dont help canela
