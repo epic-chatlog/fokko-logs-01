@@ -4844,3 +4844,6 @@
 [2021-04-06 05:54:57]: ss [, Level 0]: gel
 [2021-04-06 05:55:09]: ***  [, Level 0]: 'Kong' has left the game
 [2021-04-06 05:55:29]: ChillerDragon [Chilli.*, Level 44]: lmao Swarfey
+[2021-04-06 05:55:38]: ***  [, Level 0]: 'Batata_gameplay' entered and joined the game
+[2021-04-06 05:55:48]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-06 05:55:48]: ***  [, Level 0]: 'SlerTz.♥' has left the game
