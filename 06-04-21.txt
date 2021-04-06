@@ -4297,3 +4297,5 @@
 [2021-04-06 04:21:39]: WarHammer [, Level 26]: Cylox:  AM COMING
 [2021-04-06 04:21:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-06 04:22:00]: Raffaello [, Level 0]: s6_sven: he killed u
+[2021-04-06 04:22:05]: s6_sven [, Level 23]: fun war?
+[2021-04-06 04:22:16]: Raffaello [, Level 0]: s6_sven: not now they are coming
