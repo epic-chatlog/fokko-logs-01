@@ -12688,3 +12688,4 @@
 [2021-04-06 13:41:18]: Isegrin [, Level 54]: any:
 [2021-04-06 13:41:58]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-06 13:42:08]: ***  [, Level 0]: 'WarHammer' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-06 13:42:18]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
