@@ -13091,3 +13091,5 @@
 [2021-04-06 14:32:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-06 14:32:52]: ***  [, Level 0]: (2)Kirito♥ is on a killing spree with 5 blocks
 [2021-04-06 14:32:52]: ***  [, Level 0]: [POLICE-CHANNEL] '(2)Kirito♥' is spawnblocking. Catch him!
+[2021-04-06 14:33:13]: ***  [, Level 0]: 'H0LL4D13W4LDFEE' entered and joined the game
+[2021-04-06 14:33:16]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' has been caught by '[D] toxicdaddy' (20 minutes arrest)
