@@ -16238,3 +16238,7 @@
 [2021-04-05 23:57:35]: ***  [, Level 0]: 'Tuc' has left the game
 [2021-04-05 23:57:37]: ***  [, Level 0]: 'Tuc' entered and joined the game
 [2021-04-05 23:57:43]: BulgarianTee [xSD7, Level 38]: (1)x7|KshKsh99: u took everything from me.. ;c
+[2021-04-05 23:57:50]: ***  [, Level 0]: 'Tuc' has left the game
+[2021-04-05 23:57:52]: ***  [, Level 0]: 'Tuc' entered and joined the game
+[2021-04-05 23:57:53]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
+[2021-04-05 23:57:58]: Kiøn1029 [.bad, Level 31]: de fura a flaget látni
