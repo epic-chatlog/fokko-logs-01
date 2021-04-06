@@ -7223,3 +7223,8 @@
 [2021-04-06 08:04:19]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
 [2021-04-06 08:04:22]:   [, Level 0]: [D] Boti.: what
 [2021-04-06 08:04:24]:   [, Level 0]: [D] Boti.: XDD
+[2021-04-06 08:04:30]: ***  [, Level 0]: '»ℱℬℑ«' entered and joined the game
+[2021-04-06 08:04:31]:   [, Level 0]: Boti.: kiøn1029: elfelejtettem hogy dummym jailbe van
+[2021-04-06 08:04:35]: ***  [, Level 0]: 'P4Pyr0s' would have timed out, but can use timeout protection now
+[2021-04-06 08:04:35]: ***  [, Level 0]: 's7_sven' would have timed out, but can use timeout protection now
+[2021-04-06 08:04:36]: kiøn1029 [.bad, Level 0]: XDD
