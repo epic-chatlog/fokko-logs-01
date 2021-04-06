@@ -7164,3 +7164,5 @@
 [2021-04-06 07:58:27]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
 [2021-04-06 07:58:28]:   [, Level 0]: Boti.: coala hater: cringe
 [2021-04-06 07:58:40]: ***  [, Level 0]: 'haxxless dummy' changed name to '(2)P4Pyr0s'
+[2021-04-06 07:58:48]:   [, Level 0]: Boti.: why
+[2021-04-06 07:58:48]: ***  [, Level 0]: 'victor tee' has left the game
