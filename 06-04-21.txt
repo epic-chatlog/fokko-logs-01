@@ -9712,3 +9712,6 @@
 [2021-04-06 10:05:39]: GOLD [404, Level 40]: ChillerDragon: sure ?
 [2021-04-06 10:05:51]: ChillerDragon.* [Chilli.*, Level 41]: yes GOLD ~DemoizL~ is helper too
 [2021-04-06 10:05:53]:   [, Level 0]: any: Falco642: l2p
+[2021-04-06 10:06:01]: ***  [, Level 0]: x7|Chronos is on a killing spree with 5 blocks
+[2021-04-06 10:06:04]: ChillerDragon.* [Chilli.*, Level 41]: GOLD: i can help u to block Sutzer tho
+[2021-04-06 10:06:11]: ChillerDragon [Chilli.*, Level 32]: wait GOLD
