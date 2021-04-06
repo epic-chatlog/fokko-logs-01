@@ -13382,3 +13382,5 @@
 [2021-04-06 15:25:26]: Flupper [xSD7, Level 0]: t jump down
 [2021-04-06 15:25:28]: fomjn [RUA, Level 0]: :p
 [2021-04-06 15:25:53]: hmmmmmm [, Level 10]: merci et bye mon pote
+[2021-04-06 15:25:59]: t [, Level 42]: hmmmmmm: bye
+[2021-04-06 15:26:01]: Flupper [xSD7, Level 0]: XD
