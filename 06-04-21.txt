@@ -7198,3 +7198,4 @@
 [2021-04-06 08:01:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-06 08:02:05]: ***  [, Level 0]: 'coala3251' entered and joined the game
 [2021-04-06 08:02:06]:   [, Level 0]: Boti.: what did you want to say
+[2021-04-06 08:02:20]: ERROR [404, Level 56]: (1)ChillerDrago:  guck flappy xDDDDD
