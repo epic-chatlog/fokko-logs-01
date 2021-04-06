@@ -13228,3 +13228,5 @@
 [2021-04-06 14:50:52]: KeğhtZo [FookinLads, Level 0]: LagHammer: ok
 [2021-04-06 14:51:42]: ***  [, Level 0]: 'KeğhtZo' changed name to 'VAHEMA'
 [2021-04-06 14:51:55]: LagHammer [, Level 0]: VAHEMA:  bazen gidip gelcek maus
+[2021-04-06 14:52:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-06 14:52:03]: VAHEMA [FookinLads, Level 0]: LagHammer: neden
