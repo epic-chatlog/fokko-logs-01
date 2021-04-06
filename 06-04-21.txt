@@ -9990,3 +9990,6 @@
 [2021-04-06 10:29:08]: plopkoek [, Level 0]: wt
 [2021-04-06 10:29:11]: BC|kakashi [BC, Level 0]: (1)Axandos: nichts bei dir?
 [2021-04-06 10:29:11]:   [, Level 0]: Falco641: WarHammer: wtf?
+[2021-04-06 10:29:16]: (1)Axandos [, Level 25]: auch nix BC|kakashi
+[2021-04-06 10:29:17]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-06 10:29:24]: BC|kakashi [BC, Level 0]: (1)Axandos: nice :)
