@@ -15322,3 +15322,5 @@
 [2021-04-05 21:51:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-05 21:52:11]: WarHammer [, Level 26]: anatommmmy
 [2021-04-05 21:52:17]: DARWINS YT 18 [, Level 0]: weyyyyyyy
+[2021-04-05 21:52:26]: ***  [, Level 0]: 'DARWINS YT 18' joined the spectators
+[2021-04-05 21:52:30]: ***  [, Level 0]: 'DARWINS YT 18' joined the game
