@@ -1368,3 +1368,4 @@
 [2021-04-06 01:11:32]: Nudelsaft c: [FookinLads, Level 37]: oh i see
 [2021-04-06 01:11:33]: Shiro. [404, Level 42]: nice
 [2021-04-06 01:11:38]: Shiro. [404, Level 42]: wait i take flappy
+[2021-04-06 01:11:52]: ***  [, Level 0]: '__init__(self):' entered and joined the game
