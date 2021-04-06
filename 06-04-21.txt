@@ -5044,3 +5044,4 @@
 [2021-04-06 06:05:54]: ss [, Level 3]: HELP
 [2021-04-06 06:05:57]: Swarfey [FookinLads, Level 37]: und bei dc is das auch sehr weird dass man die manchmal einfach nich escapen kann
 [2021-04-06 06:06:03]: Swarfey [FookinLads, Level 37]: egal ob ein \ davor is oder nich
+[2021-04-06 06:06:25]: fokkonaut [, Level 102]: nö geht mit \ davor
