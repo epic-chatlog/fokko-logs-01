@@ -12685,3 +12685,4 @@
 [2021-04-06 13:37:43]: ***  [, Level 0]: 'ES' has left the game (Timeout)
 [2021-04-06 13:39:26]: ***  [, Level 0]: 'Isegrin' entered and joined the game
 [2021-04-06 13:41:08]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-06 13:41:18]: Isegrin [, Level 54]: any:
