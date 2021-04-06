@@ -3347,3 +3347,6 @@
 [2021-04-06 03:16:42]:   [, Level 0]: any: x) wired NO ERROR.
 [2021-04-06 03:16:44]: ***  [, Level 0]: '♫Amirian♬.' entered and joined the game
 [2021-04-06 03:16:57]:   [, Level 0]: Black Wolf: [D] Deadmouse: plz help
+[2021-04-06 03:16:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-06 03:17:01]: ***  [, Level 0]: 'any²' entered and joined the game
+[2021-04-06 03:17:02]: Shiro. [404, Level 42]: ez
