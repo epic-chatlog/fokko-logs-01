@@ -5027,3 +5027,5 @@
 [2021-04-06 06:04:47]: Swarfey [FookinLads, Level 37]: es wird eine ingame nachricht aufm dc gezeigt
 [2021-04-06 06:04:50]: ***  [, Level 0]: Cosmo finished in: 4 minute(s) 51.34 second(s)
 [2021-04-06 06:04:56]: Swarfey [FookinLads, Level 37]: oder was meinst du
+[2021-04-06 06:05:08]: ᅟ [, Level 102]: ich mein, bei dir sieht die ja aus wie so ein kasten
+[2021-04-06 06:05:09]: ᅟ [, Level 102]: mit level
