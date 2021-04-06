@@ -12701,3 +12701,7 @@
 [2021-04-06 13:43:33]: (1)Kirito♥ [♥, Level 24]: Virus:  xD
 [2021-04-06 13:43:37]: ***  [, Level 0]: 'J3nxCAst3x' entered and joined the game
 [2021-04-06 13:43:47]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' has been caught by 'any' (10 minutes arrest)
+[2021-04-06 13:44:04]: [D] BC|kakashi [BC, Level 0]: ~DemoizL~:
+[2021-04-06 13:44:06]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
+[2021-04-06 13:44:06]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
+[2021-04-06 13:44:09]: ***  [, Level 0]: 'lefo' entered and joined the game
