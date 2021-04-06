@@ -8787,3 +8787,7 @@
 [2021-04-06 09:16:44]: (1)Axandos [, Level 25]: power2:  ur dummy
 [2021-04-06 09:16:45]: (2)ChillerDrago [Chilli.*, Level 44]: merci x7|FayZoR
 [2021-04-06 09:16:53]: x7|FayZoR [xSD7, Level 42]: kais: apprend moi l'anglais xD
+[2021-04-06 09:16:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-06 09:16:59]: x7|FayZoR [xSD7, Level 42]: ChillerDragon: pas de soucis :D
+[2021-04-06 09:17:04]: ***  [, Level 0]: ### 'Hady' Rem's dummy  can you her me
+[2021-04-06 09:17:04]: (1)kais [, Level 58]: x7|FayZoR: je croyais que tu connaissais mieux que moi
