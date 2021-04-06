@@ -12231,3 +12231,6 @@
 [2021-04-06 12:45:26]: ***  [, Level 0]: 'Demon' has left the game
 [2021-04-06 12:45:28]: WarHammer [, Level 26]: tu aksandos
 [2021-04-06 12:45:45]: WarHammer [, Level 26]: random
+[2021-04-06 12:45:52]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-06 12:45:56]: ***  [, Level 0]: '(1)x7|zemer' has left the game
+[2021-04-06 12:45:57]: ***  [, Level 0]: '(1)x7|zemer' entered and joined the game
