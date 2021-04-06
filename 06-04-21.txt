@@ -12227,3 +12227,6 @@
 [2021-04-06 12:45:09]: WarHammer [, Level 26]: aksandos tuvu
 [2021-04-06 12:45:11]: ***  [, Level 0]: 'mamikral011' would have timed out, but can use timeout protection now
 [2021-04-06 12:45:18]: Axandos² [, Level 20]: bob:  dont annoy me
+[2021-04-06 12:45:26]: ***  [, Level 0]: 'Demon,' has left the game
+[2021-04-06 12:45:26]: ***  [, Level 0]: 'Demon' has left the game
+[2021-04-06 12:45:28]: WarHammer [, Level 26]: tu aksandos
