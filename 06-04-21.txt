@@ -7377,3 +7377,7 @@
 [2021-04-06 08:13:35]: ChillerDragon.* [Chilli.*, Level 41]: ik ERROR. der is known spawnblocker mit fake name
 [2021-04-06 08:13:45]: Boti. [.bad, Level 33]: no filter goresezik ehh
 [2021-04-06 08:13:51]: ChillerDragon.* [Chilli.*, Level 41]: er machts aber nich sneaky ERROR. xd
+[2021-04-06 08:13:53]: kiøn1029 [.bad, Level 25]: "abba hagyom"
+[2021-04-06 08:13:54]: ERROR [404, Level 56]: xD
+[2021-04-06 08:13:54]: kiøn1029 [.bad, Level 25]: XDD
+[2021-04-06 08:13:56]: Boti. [.bad, Level 33]: azaz
