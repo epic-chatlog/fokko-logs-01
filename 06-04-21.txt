@@ -11656,3 +11656,4 @@
 [2021-04-06 12:09:33]: s7_sven [, Level 0]: d
 [2021-04-06 12:09:38]: Demon [DD-persian, Level 10]: d
 [2021-04-06 12:09:39]: ☺ [, Level 2]: s7_sven: yeah
+[2021-04-06 12:09:47]: mami [, Level 1]: yes drop
