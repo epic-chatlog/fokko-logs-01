@@ -13419,3 +13419,5 @@
 [2021-04-06 15:32:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-06 15:33:04]: cunt [, Level 0]: fomin: RUA
 [2021-04-06 15:33:07]: fomin [RUA, Level 0]: RUA
+[2021-04-06 15:33:14]: cunt [, Level 0]: fomin: WHATS RUA
+[2021-04-06 15:33:26]: fomin [RUA, Level 0]: I don't know
