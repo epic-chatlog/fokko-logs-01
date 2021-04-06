@@ -14788,3 +14788,4 @@
 [2021-04-05 17:16:12]: s6_sven [, Level 2]: you can do it
 [2021-04-05 17:16:17]: UselessTee [, Level 1]: I'm stuck
 [2021-04-05 17:16:28]: ***  [, Level 0]: '☺' entered and joined the game
+[2021-04-05 17:16:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
