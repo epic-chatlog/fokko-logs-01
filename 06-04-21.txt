@@ -1273,3 +1273,6 @@
 [2021-04-06 01:05:05]: OP|Supers [OldPlayers, Level 0]: Falco641:  wtf
 [2021-04-06 01:05:13]: OP|Supers [OldPlayers, Level 0]: falkenauge:  xD
 [2021-04-06 01:05:16]: [D] falkenauge [Ʀ.I.Ƈ., Level 35]: xD
+[2021-04-06 01:05:25]: P4Pyr0s [, Level 0]: ERROR: ?
+[2021-04-06 01:05:26]: OP|Supers [OldPlayers, Level 0]: falkenauge:  does ninjajetpack do anything
+[2021-04-06 01:05:28]: P4Pyr0s [, Level 0]: pls help
