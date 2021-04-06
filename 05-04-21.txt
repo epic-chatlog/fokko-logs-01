@@ -14970,3 +14970,4 @@
 [2021-04-05 18:10:23]: ***  [, Level 0]: 'SpaceCowboy' joined the game
 [2021-04-05 18:10:56]: ***  [, Level 0]: 'SpaceCowboy' joined the spectators
 [2021-04-05 18:10:57]: ***  [, Level 0]: 'SpaceCowboy' has left the game
+[2021-04-05 18:11:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
