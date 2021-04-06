@@ -13589,3 +13589,5 @@
 [2021-04-06 16:16:11]: t [, Level 42]: ♥TAKO♥: i don't use
 [2021-04-06 16:16:21]: t [, Level 42]: ♥TAKO♥: look
 [2021-04-06 16:16:50]: ♥TAKO♥ [, Level 25]: yes
+[2021-04-06 16:16:53]: ♥TAKO♥ [, Level 25]: yeee
+[2021-04-06 16:17:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
