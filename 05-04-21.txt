@@ -15014,3 +15014,5 @@
 [2021-04-05 18:37:44]: x7|Flipper [xSD7, Level 14]: noob
 [2021-04-05 18:41:02]: Flupper [xSD7, Level 5]: bro
 [2021-04-05 18:41:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-05 18:42:29]: ***  [, Level 0]: 'Flupper' has left the game (Timeout)
+[2021-04-05 18:42:29]: ***  [, Level 0]: 'x7|Flipper' has left the game (Timeout)
