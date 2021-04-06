@@ -11374,3 +11374,4 @@
 [2021-04-06 11:48:27]: ***  [, Level 0]: 'S Y T H N' has left the game (Timeout)
 [2021-04-06 11:48:33]: ***  [, Level 0]: 'weqe' entered and joined the game
 [2021-04-06 11:48:52]: ***  [, Level 0]: 'ßumßelTEE' entered and joined the game
+[2021-04-06 11:48:59]: ***  [, Level 0]: 'Demon,' has left the game
