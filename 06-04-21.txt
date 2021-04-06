@@ -12638,3 +12638,5 @@
 [2021-04-06 13:30:34]: ***  [, Level 0]: 'Fearless' has left the game
 [2021-04-06 13:30:36]: ***  [, Level 0]: 'Fidɍage' has left the game
 [2021-04-06 13:31:09]: ***  [, Level 0]: 'Idk' has left the game
+[2021-04-06 13:31:19]: ***  [, Level 0]: 'Axandos²' has left the game
+[2021-04-06 13:31:19]: ***  [, Level 0]: 'Axandos' has left the game
