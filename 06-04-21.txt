@@ -5176,3 +5176,7 @@
 [2021-04-06 06:14:31]: ♥JustRace.♥ [, Level 29]: ERROR.:  he couldn't block me all day
 [2021-04-06 06:14:32]: ERROR [404, Level 56]: who was busy
 [2021-04-06 06:14:37]: Swarfey [FookinLads, Level 37]: fokkonaut: wieso dann so sicher dass webhooks da nicht gehen? xd
+[2021-04-06 06:14:40]: ***  [, Level 0]: 'Yavuz' entered and joined the game
+[2021-04-06 06:14:48]: fokkonaut [, Level 102]: Swarfey: is doch obvious
+[2021-04-06 06:14:51]: ***  [, Level 0]: 'VIktor Robban' has left the game
+[2021-04-06 06:14:53]: fokkonaut [, Level 102]: Swarfey: die anderen gehen auch nicht xd
