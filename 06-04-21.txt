@@ -5324,3 +5324,6 @@
 [2021-04-06 06:29:29]: ***  [, Level 0]: '(1)kais' would have timed out, but can use timeout protection now
 [2021-04-06 06:29:30]: ChillerDragon [Chilli.*, Level 44]: ? Swarfey
 [2021-04-06 06:29:35]: ERROR [404, Level 56]: Swarfey:  xD
+[2021-04-06 06:29:37]: ChillerDragon [Chilli.*, Level 44]: funny Swarfey
+[2021-04-06 06:29:42]: ***  [, Level 0]: 'power' has left the game
+[2021-04-06 06:29:42]: Swarfey [FookinLads, Level 37]: xD
