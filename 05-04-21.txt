@@ -15071,3 +15071,4 @@
 [2021-04-05 19:08:28]: ***  [, Level 0]: 'x7|zemer' has left the game
 [2021-04-05 19:08:38]: ***  [, Level 0]: 'σмєтнιηg' has left the game
 [2021-04-05 19:09:11]: ***  [, Level 0]: 'σмєтнιηg' entered and joined the game
+[2021-04-05 19:09:26]: ***  [, Level 0]: 'σмєтнιηg' has left the game
