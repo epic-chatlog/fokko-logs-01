@@ -15187,3 +15187,5 @@
 [2021-04-05 21:22:55]: ***  [, Level 0]: 'DARWINS YT 18' entered and joined the game
 [2021-04-05 21:23:51]: DARWINS YT 18 [, Level 0]: HOLA
 [2021-04-05 21:23:55]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-05 21:24:24]: DARWINS YT 18 [, Level 0]: HOLA
+[2021-04-05 21:24:27]: WarHammer [, Level 0]: HOLAA
