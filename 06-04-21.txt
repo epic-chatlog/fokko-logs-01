@@ -12778,3 +12778,7 @@
 [2021-04-06 13:49:39]: BC|Tixnix [BC, Level 34]: GOLD: 5
 [2021-04-06 13:49:44]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
 [2021-04-06 13:49:46]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' has been caught by 'Isegrin' (10 minutes arrest)
+[2021-04-06 13:49:49]: GOLD [404, Level 40]: 1 1
+[2021-04-06 13:49:50]: S Y T H N [iPro, Level 37]: was loss wtf
+[2021-04-06 13:49:57]: GOLD [404, Level 40]: lag
+[2021-04-06 13:50:01]: BC|Tixnix [BC, Level 34]: ok
