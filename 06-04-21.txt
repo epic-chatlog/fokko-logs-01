@@ -12788,3 +12788,8 @@
 [2021-04-06 13:50:41]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
 [2021-04-06 13:50:45]: fomjn [RUA, Level 0]: (1)Kirito♥: :*
 [2021-04-06 13:50:49]: ***  [, Level 0]: [D] toxicdaddy is on a killing spree with 5 blocks
+[2021-04-06 13:50:49]: GOLD [404, Level 40]: 2 1
+[2021-04-06 13:50:52]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
+[2021-04-06 13:50:54]: GOLD [404, Level 40]: 2 2
+[2021-04-06 13:50:58]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
+[2021-04-06 13:50:59]: GOLD [404, Level 40]: 3 2
