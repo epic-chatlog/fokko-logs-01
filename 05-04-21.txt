@@ -15180,3 +15180,4 @@
 [2021-04-05 20:51:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-05 20:56:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-05 21:01:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-05 21:06:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
