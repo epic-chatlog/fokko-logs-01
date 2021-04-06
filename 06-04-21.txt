@@ -13614,3 +13614,5 @@
 [2021-04-06 16:23:12]: ***  [, Level 0]: 'x7|KshKsh99' entered and joined the game
 [2021-04-06 16:23:26]: ♥TAKO♥ [, Level 25]: aaaaaa wait
 [2021-04-06 16:23:32]: ♥TAKO♥ [, Level 25]: look
+[2021-04-06 16:23:37]: ♥TAKO♥ [, Level 25]: u
+[2021-04-06 16:23:48]: ♥TAKO♥ [, Level 25]: hook
