@@ -9956,3 +9956,6 @@
 [2021-04-06 10:26:55]:   [, Level 0]: [D] mamikral011: Black Wolf: war?
 [2021-04-06 10:26:58]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-06 10:26:59]: Black Wolf [, Level 0]: ya
+[2021-04-06 10:27:18]: ***  [, Level 0]: 'iMxtteo' entered and joined the game
+[2021-04-06 10:27:18]: ***  [, Level 0]: ビール|Scorp's killing spree was ended by Falco641 (7 blocks)
+[2021-04-06 10:27:18]: ***  [, Level 0]: [POLICE-CHANNEL] 'Falco641' is spawnblocking. Catch him!
