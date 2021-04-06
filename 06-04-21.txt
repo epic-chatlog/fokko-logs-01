@@ -10892,3 +10892,7 @@
 [2021-04-06 11:14:35]: ***  [, Level 0]: 'Leblebi' entered and joined the game
 [2021-04-06 11:14:37]: MADZO [FookinLads, Level 41]: mami: yarın gene sesli girerizx
 [2021-04-06 11:14:38]: GOLD [404, Level 40]: Kaptar: 8 6
+[2021-04-06 11:14:42]: GOLD [404, Level 40]: Kaptar: 8 7
+[2021-04-06 11:14:45]: ERROR. [404, Level 74]: GOLD:  vya
+[2021-04-06 11:14:47]: ERROR. [404, Level 74]: cya
+[2021-04-06 11:14:50]: GOLD [404, Level 40]: Kaptar: 29 7
