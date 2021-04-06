@@ -13504,3 +13504,4 @@
 [2021-04-06 15:57:43]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
 [2021-04-06 15:58:42]: ♥TAKO♥ [, Level 25]: lag
 [2021-04-06 15:58:58]: t [, Level 42]: ♥TAKO♥: what i have say ?
+[2021-04-06 15:59:16]: ♥TAKO♥ [, Level 25]: t:  idk
