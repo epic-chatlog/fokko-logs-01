@@ -15043,3 +15043,4 @@
 [2021-04-05 18:58:52]: ***  [, Level 0]: 's7_sven' has left the game
 [2021-04-05 18:58:55]: ***  [, Level 0]: '(1)P4PyrOs' entered and joined the game
 [2021-04-05 18:59:30]: ***  [, Level 0]: '(1)P4PyrOs' changed name to '(1)S Y T H N'
+[2021-04-05 19:00:37]: ***  [, Level 0]: 'S Y T H N' changed name to 'σмєтнιηg'
