@@ -1332,3 +1332,5 @@
 [2021-04-06 01:08:34]: ***  [, Level 0]: OP|Supers is on a killing spree with 5 blocks
 [2021-04-06 01:08:38]: ***  [, Level 0]: Vodo4ka's killing spree was ended by ist ein Noob (8 blocks)
 [2021-04-06 01:08:44]: Shiro. [404, Level 42]: JETPACK
+[2021-04-06 01:08:52]: Shiro. [404, Level 42]: wait jetpack ERROR
+[2021-04-06 01:08:54]: OP|Supers [OldPlayers, Level 0]: ERROR:  come
