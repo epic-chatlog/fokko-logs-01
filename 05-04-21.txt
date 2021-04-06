@@ -14961,3 +14961,6 @@
 [2021-04-05 18:07:55]: ***  [, Level 0]: 'σмєтнιηg' changed name to 'S Y T H N'
 [2021-04-05 18:08:16]: ***  [, Level 0]: '(1)S Y T H N' entered and joined the game
 [2021-04-05 18:08:25]: ***  [, Level 0]: '(1)S Y T H N' has left the game
+[2021-04-05 18:08:27]: ***  [, Level 0]: '(1)S Y T H N' entered and joined the game
+[2021-04-05 18:08:30]: S Y T H N [iPro, Level 37]: war4life x7|zemer
+[2021-04-05 18:08:37]: ***  [, Level 0]: '(1)S Y T H N' changed name to 'fORTNITE'
