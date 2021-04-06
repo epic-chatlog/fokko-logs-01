@@ -13460,3 +13460,4 @@
 [2021-04-06 15:46:06]: t [, Level 42]: x7|Flipper: ?
 [2021-04-06 15:46:39]: x7|Flipper [xSD7, Level 14]: join the cakk
 [2021-04-06 15:46:42]: x7|Flipper [xSD7, Level 14]: call
+[2021-04-06 15:47:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
