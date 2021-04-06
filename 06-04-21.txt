@@ -3491,3 +3491,6 @@
 [2021-04-06 03:26:03]:   [, Level 0]: Shiro.: HALP MEN
 [2021-04-06 03:26:05]: NO ERROR. [404, Level 74]: sei afk
 [2021-04-06 03:26:07]:   [, Level 0]: Shiro.: [D] BC|Tixnix: MEN
+[2021-04-06 03:26:09]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-06 03:26:09]: ***  [, Level 0]: 'SlerTz.♥' has left the game
+[2021-04-06 03:26:17]: (1)ChillerDrago [Chilli.*, Level 31]: Swarfey: du willst eh war mit ERROR und nur krawall oder?
