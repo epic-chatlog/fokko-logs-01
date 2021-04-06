@@ -3303,3 +3303,6 @@
 [2021-04-06 03:13:10]:   [, Level 0]: White Wolf: ERROR: plz
 [2021-04-06 03:13:10]: ERROR. [404, Level 47]: AAAA xD
 [2021-04-06 03:13:20]:   [, Level 0]: White Wolf: Shiro.: ok
+[2021-04-06 03:13:31]: ***  [, Level 0]: '♫Amirian♬' entered and joined the game
+[2021-04-06 03:13:34]: ***  [, Level 0]: 'Friendiship ;-)' has left the game
+[2021-04-06 03:13:35]: Nudelsaft c: [FookinLads, Level 37]: aaaaaaa
