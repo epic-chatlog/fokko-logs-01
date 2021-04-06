@@ -4747,3 +4747,5 @@
 [2021-04-06 05:46:55]: WarHammer' [, Level 16]: fps drop
 [2021-04-06 05:46:58]: fokkonaut [, Level 102]: whisper ma accname
 [2021-04-06 05:46:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-06 05:47:07]: ChillerDragon [|*KoG*|, Level 44]: uhm siehe wire
+[2021-04-06 05:47:14]: ***  [, Level 0]: 'Not WarHammer' changed name to 'WarHammer'
