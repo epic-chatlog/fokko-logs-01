@@ -9146,3 +9146,10 @@
 [2021-04-06 09:36:41]: ***  [, Level 0]: '(1)cookie' entered and joined the game
 [2021-04-06 09:36:42]:   [, Level 0]: power2: israel Isegrin
 [2021-04-06 09:36:44]:   [, Level 0]: power2: u?
+[2021-04-06 09:36:50]: Isegrin [, Level 54]: power2: Shalom
+[2021-04-06 09:36:50]: ***  [, Level 0]: '(1)cookie' has left the game
+[2021-04-06 09:36:53]: Isegrin [, Level 54]: power2: poland
+[2021-04-06 09:36:56]: ChillerDragon [Chilli.*, Level 32]: merci any
+[2021-04-06 09:36:58]: kais [, Level 65]: ChillerDragon: happy ?
+[2021-04-06 09:36:59]: ***  [ç, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-06 09:36:59]:   [, Level 0]: power2: dont steal my joked
