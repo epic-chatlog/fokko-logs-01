@@ -3097,3 +3097,7 @@
 [2021-04-06 02:56:56]: ***  [, Level 0]: 'Telefantastic' has left the game (Timeout)
 [2021-04-06 02:56:56]: ***  [, Level 0]: 'Mista bombastic' has left the game (Timeout)
 [2021-04-06 02:56:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-06 02:57:09]: ♥JustRace♥ [no-clan, Level 36]: (1)chillerdagor:  am I a ghost?
+[2021-04-06 02:57:14]: ***  [, Level 0]: 'ist ein Noob' entered and joined the game
+[2021-04-06 02:57:17]: ***  [, Level 0]: 'iMxtteo D' has left the game
+[2021-04-06 02:57:17]: ***  [, Level 0]: 'iMxtteo' has left the game
