@@ -2600,3 +2600,5 @@
 [2021-04-06 02:07:59]: power [TrRShClNrRs, Level 0]: yes, it was a mistake tho weqe
 [2021-04-06 02:08:01]: YelloWorlD [404, Level 37]: ChillerDragon: mat ebal is in russian
 [2021-04-06 02:08:03]: ***  [, Level 0]: 'Virus' entered and joined the game
+[2021-04-06 02:08:33]: ***  [, Level 0]: 'power' has left the game
+[2021-04-06 02:08:33]: ***  [, Level 0]: 'power2' has left the game
