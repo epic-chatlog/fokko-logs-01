@@ -5480,3 +5480,4 @@
 [2021-04-06 06:41:00]: (1)ChillerDrago [|*KoG*|, Level 31]: Isegrin:
 [2021-04-06 06:41:01]: ᅟ [, Level 47]: im
 [2021-04-06 06:41:05]:   [, Level 0]: power2: any: u sure about that?
+[2021-04-06 06:41:16]: ***  [, Level 0]: [POLICE-CHANNEL] 'any²' is spawnblocking. Catch him!
