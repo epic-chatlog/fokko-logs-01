@@ -5089,3 +5089,4 @@
 [2021-04-06 06:09:26]: ChillerDragon [|*KoG*|, Level 44]: die is nich feature complete
 [2021-04-06 06:09:30]: ***  [, Level 0]: 'VIktor Robban' entered and joined the game
 [2021-04-06 06:09:32]: Swarfey [FookinLads, Level 37]: es wird von der api als normale nachricht genommen soweit ich weiß
+[2021-04-06 06:09:48]: ***  [, Level 0]: 'DARWINS YT 18' joined the spectators
