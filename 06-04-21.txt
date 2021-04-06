@@ -1692,3 +1692,9 @@
 [2021-04-06 01:33:01]: Falco642 [, Level 0]: s6_sven: your dummy not mine
 [2021-04-06 01:33:13]: s6_sven [, Level 23]: help me xD
 [2021-04-06 01:33:15]: Falco642 [, Level 0]: are you forcing me to help you? lmao
+[2021-04-06 01:33:27]: ***  [, Level 0]: 'Kaptar' entered and joined the game
+[2021-04-06 01:33:32]: ***  [, Level 0]: [D] mamikral011 finished in: 4 minute(s) 47.12 second(s)
+[2021-04-06 01:33:32]: ***  [, Level 0]: '[D] mamikral011' finished the special race!
+[2021-04-06 01:33:32]: ***  [, Level 0]: mamikral011 finished in: 5 minute(s) 12.22 second(s)
+[2021-04-06 01:33:32]: ***  [, Level 0]: New record: 8 minute(s) 49.70 second(s) better.
+[2021-04-06 01:33:32]: ***  [, Level 0]: 'mamikral011' finished the special race!
