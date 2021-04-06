@@ -4760,3 +4760,7 @@
 [2021-04-06 05:48:26]: ***  [, Level 0]: 'Nudelsaft c:' joined the game
 [2021-04-06 05:48:29]: ***  [, Level 0]: (1)ss finished in: 2 minute(s) 38.20 second(s)
 [2021-04-06 05:48:31]: ChillerDragon [|*KoG*|, Level 44]: kion kann besser englisch aber den hab ich dazu noch nich gefragt fokkonaut
+[2021-04-06 05:48:34]: ***  [, Level 0]: 'ss' has left the game
+[2021-04-06 05:48:36]: ChillerDragon [|*KoG*|, Level 44]: kp
+[2021-04-06 05:48:40]: WarHammer' [, Level 16]: WARHAMER WİN
+[2021-04-06 05:48:44]: fokkonaut [, Level 102]: ChillerDragon: wär ma interessant
