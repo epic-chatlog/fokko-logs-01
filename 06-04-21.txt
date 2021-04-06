@@ -10667,3 +10667,5 @@
 [2021-04-06 11:03:20]:   [, Level 0]: ulrich: Isegrin: hurensohn
 [2021-04-06 11:03:22]: ***  [, Level 0]: 'ulrich' has left the game
 [2021-04-06 11:03:43]: Chronos [, Level 0]: ERROR: i think rename yeah, too much bad choice with fayzor
+[2021-04-06 11:03:53]: ERROR [404, Level 56]: Chronos:  too much bad choice ofc
+[2021-04-06 11:03:57]: ERROR [404, Level 56]: (2)ChillerDrago:
