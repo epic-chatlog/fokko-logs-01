@@ -13216,3 +13216,8 @@
 [2021-04-06 14:49:53]: LagHammer [, Level 0]: <3
 [2021-04-06 14:50:04]: ***  [, Level 0]: 'vahema' changed name to 'KeğhtZo'
 [2021-04-06 14:50:04]: LagHammer [, Level 0]: aha beklediğim olay gerçekleşti
+[2021-04-06 14:50:13]: ***  [, Level 0]: 'Nasledie' entered and joined the game
+[2021-04-06 14:50:16]: KeğhtZo [FookinLads, Level 0]: ne oldu
+[2021-04-06 14:50:17]: ***  [, Level 0]: 'Nasledie' has left the game
+[2021-04-06 14:50:17]: KeğhtZo [FookinLads, Level 0]: :D
+[2021-04-06 14:50:18]: LagHammer [, Level 0]: KeğhtZo:  beklediğim olay gerçek oldu
