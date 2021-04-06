@@ -12913,3 +12913,6 @@
 [2021-04-06 14:06:22]: soleri1 [, Level 0]: [D] toxicdaddy: ok
 [2021-04-06 14:06:32]: ***  [, Level 0]: 'teec tac' entered and joined the game
 [2021-04-06 14:06:37]: Isegrin [, Level 54]: polis boss B)
+[2021-04-06 14:06:56]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
+[2021-04-06 14:07:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-06 14:07:01]: ***  [, Level 0]: '(1)teec tac' entered and joined the game
