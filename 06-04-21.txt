@@ -12936,3 +12936,4 @@
 [2021-04-06 14:09:35]: soleri1 [, Level 0]: teec tac:
 [2021-04-06 14:09:40]: ***  [, Level 0]: fomin is on a killing spree with 10 blocks
 [2021-04-06 14:09:53]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
+[2021-04-06 14:10:11]: ***  [, Level 0]: fomjn is on a killing spree with 30 blocks
