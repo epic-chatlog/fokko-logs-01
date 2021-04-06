@@ -1589,3 +1589,5 @@
 [2021-04-06 01:24:48]: mamikral011 [, Level 0]: ERROR: hi !!
 [2021-04-06 01:24:49]: Vodo4ka [JB.st, Level 41]: cHurch: ok
 [2021-04-06 01:24:52]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-06 01:25:04]: Swarfey [FookinLads, Level 60]: why does this lag so hard
+[2021-04-06 01:25:06]: Swarfey [FookinLads, Level 60]: aaaaaaaa
