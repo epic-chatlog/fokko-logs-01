@@ -15425,3 +15425,4 @@
 [2021-04-05 22:21:20]: ***  [, Level 0]: 'S.0.S' entered and joined the game
 [2021-04-05 22:21:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-05 22:22:31]: ***  [, Level 0]: 'kais' entered and joined the game
+[2021-04-05 22:25:27]: ***  [, Level 0]: '(1)kais' entered and joined the game
