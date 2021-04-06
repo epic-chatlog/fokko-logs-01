@@ -1259,3 +1259,5 @@
 [2021-04-06 01:04:03]: ***  [, Level 0]: Лимонад is on a killing spree with 5 blocks
 [2021-04-06 01:04:14]: Shiro. [404, Level 42]: he killed XD
 [2021-04-06 01:04:15]: NO ERROR. [404, Level 74]: xD
+[2021-04-06 01:04:21]: ***  [, Level 0]: Лимонад is on a killing spree with 10 blocks
+[2021-04-06 01:04:29]: Shiro. [404, Level 42]: XDD
