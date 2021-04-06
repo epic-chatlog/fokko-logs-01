@@ -13601,3 +13601,5 @@
 [2021-04-06 16:20:12]: t [, Level 42]: x7|Flipper:
 [2021-04-06 16:20:12]: ♥TAKO♥ [, Level 25]: BORED
 [2021-04-06 16:20:17]: t [, Level 42]: x7|Flipper: let me fight
+[2021-04-06 16:21:53]: ♥TAKO♥ [, Level 25]: nooo
+[2021-04-06 16:22:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
