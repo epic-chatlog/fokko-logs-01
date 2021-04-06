@@ -4456,3 +4456,7 @@
 [2021-04-06 04:31:50]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-06 04:31:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-06 04:32:02]: mami [Ape, Level 16]: i have 1 jum jou 8
+[2021-04-06 04:32:08]: WarHammer [, Level 26]: mami:  i am 5
+[2021-04-06 04:32:08]: mami [Ape, Level 16]: jump
+[2021-04-06 04:32:10]: ***  [, Level 0]: 'coffee' entered and joined the game
+[2021-04-06 04:32:14]: mami [Ape, Level 16]: its 4 more
