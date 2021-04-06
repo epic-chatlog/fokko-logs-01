@@ -2923,3 +2923,6 @@
 [2021-04-06 02:42:02]: weqe [MNKY, Level 11]: wait
 [2021-04-06 02:42:02]: ERROR [404, Level 56]: idc about 15k
 [2021-04-06 02:42:05]: weqe [MNKY, Level 11]: what about ur friends ERROR
+[2021-04-06 02:42:08]: ERROR [404, Level 56]: i got 70mio
+[2021-04-06 02:42:13]: (2)ChillerDrago [Chilli.*, Level 32]: he cant control em weqe
+[2021-04-06 02:42:18]: ERROR [404, Level 56]: weqe: idc about my friends its about us
