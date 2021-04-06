@@ -6260,3 +6260,5 @@
 [2021-04-06 07:16:27]: ***  [, Level 0]: 'Sutzer' has left the game
 [2021-04-06 07:16:29]: koya [, Level 7]: Falco641: oh damn
 [2021-04-06 07:16:29]: ***  [, Level 0]: '>>>>>>>>>>K!ked' entered and joined the game
+[2021-04-06 07:16:39]: ***  [, Level 0]: 'cHurch' entered and joined the game
+[2021-04-06 07:16:40]: ***  [, Level 0]: Falco642's killing spree was ended by coffee (6 blocks)
