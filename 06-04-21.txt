@@ -10336,3 +10336,8 @@
 [2021-04-06 10:47:53]:   [, Level 0]: Axel: Mista bombastic: hi
 [2021-04-06 10:47:55]: ERROR [404, Level 56]: x7|Chronos: ?
 [2021-04-06 10:47:58]: ***  [, Level 0]: GOLD is on a killing spree with 5 blocks
+[2021-04-06 10:48:02]: ERROR [404, Level 56]: i know what u said :D
+[2021-04-06 10:48:02]:   [, Level 0]: Mista bombastic: Axel: hi
+[2021-04-06 10:48:03]: x7|Chronos [xSD7, Level 0]: ERROR: talk french with GOLD
+[2021-04-06 10:48:09]: x7|Chronos [xSD7, Level 0]: ERROR: that traslate xD
+[2021-04-06 10:48:12]: GOLD [404, Level 40]: Kaptar: 1 0
