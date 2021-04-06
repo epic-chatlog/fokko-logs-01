@@ -3708,3 +3708,4 @@
 [2021-04-06 03:40:02]: ***  [, Level 0]: '(2)lol' has left the game (Timeout)
 [2021-04-06 03:40:02]: ***  [, Level 0]: '(3)lol' has left the game (Timeout)
 [2021-04-06 03:40:09]:   [, Level 0]: BC|kakashi: NO ERROR.: ?
+[2021-04-06 03:40:24]: weqe [MNKY, Level 12]: ERROR.: dude i dont get ur policy here
