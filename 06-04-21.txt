@@ -5158,3 +5158,7 @@
 [2021-04-06 06:13:37]: ChillerDragon.* [Chilli.*, Level 41]: hf ERROR
 [2021-04-06 06:13:38]: ***  [, Level 0]: 'sL|KeBu28' has left the game
 [2021-04-06 06:13:38]: ***  [, Level 0]: 'sL|KeBu280' has left the game
+[2021-04-06 06:13:53]: toxicdaddy [, Level 25]: (1)Kirito♥: wtf
+[2021-04-06 06:13:58]: ChillerDragon [Chilli.*, Level 44]: badest du mit ♥JustRace.♥ zsm
+[2021-04-06 06:14:00]: ERROR [404, Level 56]: du halunke
+[2021-04-06 06:14:01]: Swarfey [FookinLads, Level 37]: fokkonaut: hast du die bridge selbstgemacht?
