@@ -12225,3 +12225,5 @@
 [2021-04-06 12:44:54]: WarHammer [, Level 26]: förles
 [2021-04-06 12:45:00]: WarHammer [, Level 26]: fiırlıs
 [2021-04-06 12:45:09]: WarHammer [, Level 26]: aksandos tuvu
+[2021-04-06 12:45:11]: ***  [, Level 0]: 'mamikral011' would have timed out, but can use timeout protection now
+[2021-04-06 12:45:18]: Axandos² [, Level 20]: bob:  dont annoy me
