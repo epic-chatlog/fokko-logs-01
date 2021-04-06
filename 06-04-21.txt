@@ -10947,3 +10947,6 @@
 [2021-04-06 11:18:13]: GOLD [404, Level 40]: t qui
 [2021-04-06 11:18:18]: Kaptar [, Level 24]: GOLD c à cause de multieasy mdr
 [2021-04-06 11:18:19]: ☺ [, Level 0]: GOLD: moi
+[2021-04-06 11:18:30]: ***  [, Level 0]: 'sL|cunt' entered and joined the game
+[2021-04-06 11:18:30]: GOLD [404, Level 40]: qui moi
+[2021-04-06 11:18:37]: Demon [DD-persian, Level 10]: i did it
