@@ -1166,3 +1166,5 @@
 [2021-04-06 00:57:42]: Koishi [A, Level 0]: er
 [2021-04-06 00:57:45]: Shiro. [404, Level 42]: watafcak men
 [2021-04-06 00:57:47]: Shiro. [404, Level 42]: stay her
+[2021-04-06 00:57:53]: ***  [, Level 0]: 'Telefantastic' entered and joined the game
+[2021-04-06 00:58:00]: Shiro. [404, Level 42]: looks like u can only spawn kill xaxaxaxaax
