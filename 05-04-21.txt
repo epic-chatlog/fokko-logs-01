@@ -15435,3 +15435,4 @@
 [2021-04-05 22:36:42]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
 [2021-04-05 22:36:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-05 22:38:12]: ***  [, Level 0]: 'P4Pyr0s' has left the game (Timeout)
+[2021-04-05 22:38:52]: ***  [, Level 0]: 'R2D2' entered and joined the game
