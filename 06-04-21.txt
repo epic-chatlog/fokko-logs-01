@@ -9016,3 +9016,5 @@
 [2021-04-06 09:30:45]: ChillerDragon [|*KoG*|, Level 32]: salut yel
 [2021-04-06 09:30:53]: (1)Axandos [, Level 25]: Nudelsaft c::  bin dann erstmal afk
 [2021-04-06 09:30:55]: ChillerDragon [|*KoG*|, Level 32]: salut YelloWorlD
+[2021-04-06 09:31:05]:   [, Level 0]: YelloWorlD: (2)ChillerDrago: bot talk to me ?
+[2021-04-06 09:31:12]: kais [, Level 65]: ChillerDragon: he said "salut comment ça va" so it is "hello, how are you" and you said "hi" you didn't answered his question
