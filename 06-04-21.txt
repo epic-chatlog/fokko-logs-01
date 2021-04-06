@@ -7056,3 +7056,6 @@
 [2021-04-06 07:53:40]: ***  [, Level 0]: 'coala12' entered and joined the game
 [2021-04-06 07:53:43]: ***  [, Level 0]: '(1)coala' entered and joined the game
 [2021-04-06 07:53:45]:   [, Level 0]: Boti.: chill
+[2021-04-06 07:53:50]: ***  [, Level 0]: '(2)coala' entered and joined the game
+[2021-04-06 07:53:56]: ***  [, Level 0]: kiøn1029's killing spree was ended by coala2 (6 blocks)
+[2021-04-06 07:54:01]:   [, Level 0]: Boti.: ChillerDragon: sus
