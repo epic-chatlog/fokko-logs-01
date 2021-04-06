@@ -15442,3 +15442,5 @@
 [2021-04-05 22:41:51]: ***  [, Level 0]: 'falkenauge' entered and joined the game
 [2021-04-05 22:41:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-05 22:42:12]: ***  [, Level 0]: '[D] falkenauge' entered and joined the game
+[2021-04-05 22:42:19]: ***  [, Level 0]: 'Wheels.' entered and joined the game
+[2021-04-05 22:42:21]: ***  [, Level 0]: 's6_sven' entered and joined the game
