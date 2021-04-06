@@ -13477,3 +13477,6 @@
 [2021-04-06 15:51:30]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
 [2021-04-06 15:52:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-06 15:52:05]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
+[2021-04-06 15:52:17]: ***  [, Level 0]: 'Λtlantis Ψ' has left the game
+[2021-04-06 15:52:17]: ***  [, Level 0]: 'x7|Flipper' has left the game
+[2021-04-06 15:52:17]: ***  [, Level 0]: 'Flupper' has left the game
