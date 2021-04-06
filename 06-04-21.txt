@@ -5090,3 +5090,6 @@
 [2021-04-06 06:09:30]: ***  [, Level 0]: 'VIktor Robban' entered and joined the game
 [2021-04-06 06:09:32]: Swarfey [FookinLads, Level 37]: es wird von der api als normale nachricht genommen soweit ich weiß
 [2021-04-06 06:09:48]: ***  [, Level 0]: 'DARWINS YT 18' joined the spectators
+[2021-04-06 06:09:48]: Swarfey [FookinLads, Level 37]: außer du hast extra abgefragt obs webhook is und so
+[2021-04-06 06:09:52]: ***  [, Level 0]: 'DARWINS YT 18' joined the game
+[2021-04-06 06:09:52]: ChillerDragon [Chilli.*, Level 44]: ich seh auch github stuff nich Swarfey
