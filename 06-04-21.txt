@@ -5073,3 +5073,5 @@
 [2021-04-06 06:08:05]: Discord [, Level 39]: fokkonaut: geht doch
 [2021-04-06 06:08:11]: Discord [, Level 39]: Swarfey: wenn du `@everyone` machst wird niemand gepingt
 [2021-04-06 06:08:14]: ***  [, Level 0]: '(2)lol' entered and joined the game
+[2021-04-06 06:08:20]: ***  [, Level 0]: '(3)lol' entered and joined the game
+[2021-04-06 06:08:31]: Discord [, Level 39]: fokkonaut: nimm dem bot einfach die rechte für @everyone xd
