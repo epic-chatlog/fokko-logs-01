@@ -10404,3 +10404,7 @@
 [2021-04-06 10:51:15]:   [, Level 0]: Kotik: war4life
 [2021-04-06 10:51:16]: x7|Chronos [xSD7, Level 0]: kais: pas mieux ? :D
 [2021-04-06 10:51:17]: BC|kakashi [BC, Level 0]: hey ERROR was geht
+[2021-04-06 10:51:19]: ビール|Zero [Drunks, Level 28]: Axandos²: bb
+[2021-04-06 10:51:24]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-06 10:51:29]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-06 10:51:30]: ***  [, Level 0]: '(1)Axandos' changed name to 'Axandos'
