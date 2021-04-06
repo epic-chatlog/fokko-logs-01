@@ -15018,3 +15018,4 @@
 [2021-04-05 18:42:29]: ***  [, Level 0]: 'x7|Flipper' has left the game (Timeout)
 [2021-04-05 18:43:30]: ***  [, Level 0]: 'weqe' entered and joined the game
 [2021-04-05 18:43:30]: ***  [, Level 0]: 'X7|flipper' entered and joined the game
+[2021-04-05 18:43:43]: ***  [, Level 0]: 'S Y T H N' changed name to 'Λtlantis Ψ'
