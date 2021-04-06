@@ -6526,3 +6526,6 @@
 [2021-04-06 07:29:25]: Cylox [♥, Level 0]: OK
 [2021-04-06 07:29:29]: ***  [, Level 0]: 'Krischo' has left the game
 [2021-04-06 07:29:30]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-06 07:29:31]: ***  [, Level 0]: 'rocco' entered and joined the game
+[2021-04-06 07:29:32]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
+[2021-04-06 07:29:34]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
