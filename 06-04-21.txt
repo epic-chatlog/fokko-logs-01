@@ -5190,3 +5190,6 @@
 [2021-04-06 06:15:42]: ***  [, Level 0]: 'Neoteny' entered and joined the game
 [2021-04-06 06:16:04]: Swarfey [FookinLads, Level 37]: fokkonaut: is die bridge open source?
 [2021-04-06 06:16:15]: fokkonaut [, Level 102]: weiß ich nicht ChillerDragon.*
+[2021-04-06 06:16:21]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-06 06:16:24]: ChillerDragon [|*KoG*|, Level 44]: ? fokkonaut
+[2021-04-06 06:16:25]: ***  [, Level 0]: 'nameless tee' joined the game
