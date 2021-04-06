@@ -3923,3 +3923,5 @@
 [2021-04-06 04:00:08]: BC|kakashi [BC, Level 13]: ビール|Zero: OK
 [2021-04-06 04:00:17]: ***  [, Level 0]: 'Rock' entered and joined the game
 [2021-04-06 04:00:28]: ***  [, Level 0]: '(1)sL|cunt' entered and joined the game
+[2021-04-06 04:00:35]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-06 04:00:47]:   [, Level 0]: WarHammer: powaa
