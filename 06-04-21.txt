@@ -9883,3 +9883,9 @@
 [2021-04-06 10:21:00]:   [, Level 0]: Falco641: xd
 [2021-04-06 10:21:05]:   [, Level 0]: Cylox: Falco641:
 [2021-04-06 10:21:06]: Black Wolf [, Level 0]: GOLD: help -_-
+[2021-04-06 10:21:28]: ***  [, Level 0]: [POLICE-CHANNEL] 'SoniCN' is spawnblocking. Catch him!
+[2021-04-06 10:21:29]: Demon [DD-persian, Level 10]: why
+[2021-04-06 10:21:30]: Falco642 [, Level 0]: lmao
+[2021-04-06 10:21:31]: ***  [, Level 0]: [POLICE-CHANNEL] 'rayen' is spawnblocking. Catch him!
+[2021-04-06 10:21:31]: ***  [, Level 0]: rayen is on a killing spree with 5 blocks
+[2021-04-06 10:21:31]: ***  [, Level 0]: [POLICE-CHANNEL] 'rayen' is spawnblocking. Catch him!
