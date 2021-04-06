@@ -10590,3 +10590,7 @@
 [2021-04-06 11:00:22]: Chronos [, Level 0]: any: de l'amitié
 [2021-04-06 11:00:24]: GOLD [404, Level 40]: ERROR: i beat u
 [2021-04-06 11:00:27]: any [404, Level 37]: Chronos: ah nope
+[2021-04-06 11:00:31]: ERROR. [404, Level 74]: GOLD:  with hammer cuz im not an blocker xdd
+[2021-04-06 11:00:37]: ***  [, Level 0]: 'GoatLike' has left the game
+[2021-04-06 11:00:37]: ***  [, Level 0]: 'coprophile' has left the game
+[2021-04-06 11:00:42]: ***  [, Level 0]: 'Demon,' entered and joined the game
