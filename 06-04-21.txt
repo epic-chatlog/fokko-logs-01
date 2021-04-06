@@ -10355,3 +10355,7 @@
 [2021-04-06 10:49:02]: Kaptar [, Level 24]: en cb ?
 [2021-04-06 10:49:04]: ***  [, Level 0]: 'Telefantastic' has left the game
 [2021-04-06 10:49:07]: Hunter.exe [|Supressed|, Level 35]: any: nein deutsch
+[2021-04-06 10:49:08]: GOLD [404, Level 40]: Kaptar: 5 ou 10
+[2021-04-06 10:49:10]: Kaptar [, Level 24]: 10
+[2021-04-06 10:49:11]: ***  [, Level 0]: 'Maatiteusz' entered and joined the game
+[2021-04-06 10:49:20]: comic [comically, Level 13]: what
