@@ -8811,3 +8811,7 @@
 [2021-04-06 09:18:25]: cookie [, Level 0]: Hunter.exe:  why
 [2021-04-06 09:18:25]: Isegrin [, Level 54]: (1)kais:
 [2021-04-06 09:18:27]: (1)kais [, Level 58]: any: wow, t'y crois ? xD
+[2021-04-06 09:18:35]: ***  [, Level 0]: 'HotChickenWing' entered and joined the game
+[2021-04-06 09:18:37]: any [404, Level 37]: kais: nah juste pr savoir x)
+[2021-04-06 09:18:43]: cookie [, Level 0]: why
+[2021-04-06 09:18:46]: ***  [, Level 0]: 'ビール|Scorp' entered and joined the game
