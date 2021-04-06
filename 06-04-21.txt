@@ -10649,3 +10649,10 @@
 [2021-04-06 11:02:47]: ***  [, Level 0]: 'lolo2378' has left the game
 [2021-04-06 11:02:52]: GOLD [404, Level 40]: Maatiteusz: never
 [2021-04-06 11:02:52]: (1)ChillerDrago [Chilli.*, Level 31]: bro wann stehst du auf ERROR
+[2021-04-06 11:02:53]: ERROR [404, Level 56]: Chronos:  but u should do that with the rename 100%
+[2021-04-06 11:02:55]:   [, Level 0]: Maatiteusz: GOLD: :c
+[2021-04-06 11:02:55]: GOLD [404, Level 40]: ERROR:
+[2021-04-06 11:02:57]: ERROR [404, Level 56]: (1)ChillerDrago:  3
+[2021-04-06 11:02:59]: ERROR [404, Level 56]: GOLD:
+[2021-04-06 11:03:00]: (1)ChillerDrago [|*KoG*|, Level 31]: oof ERROR
+[2021-04-06 11:03:03]: Kezo [FookinLads, Level 41]: ERROR: sleep well ^^
