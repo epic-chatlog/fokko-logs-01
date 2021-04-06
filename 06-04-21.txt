@@ -4571,3 +4571,5 @@
 [2021-04-06 04:42:56]: ChillerDragon [Chilli.*, Level 44]: arsch ERROR
 [2021-04-06 04:43:04]: ビール|Scorp [, Level 0]: лЯ СПС
 [2021-04-06 04:43:08]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
+[2021-04-06 04:43:21]: ***  [, Level 0]: 'ist ein Noob' entered and joined the game
+[2021-04-06 04:43:26]: ビール|Scorp [, Level 19]: CKA3A4NIK: я так пойду и ты за мной иди
