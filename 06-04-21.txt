@@ -10364,3 +10364,8 @@
 [2021-04-06 10:49:26]: ***  [, Level 0]: 'Mista bombastic' has left the game
 [2021-04-06 10:49:26]: ***  [, Level 0]: 'HotChickenWing' changed name to 'Axandos²'
 [2021-04-06 10:49:28]: GOLD [404, Level 40]: Kezo: its fine stopq
+[2021-04-06 10:49:35]: Kezo [FookinLads, Level 41]: GOLD: hmm ok
+[2021-04-06 10:49:37]: GOLD [404, Level 40]: Kaptar: clc ya du monde
+[2021-04-06 10:49:38]: ***  [, Level 0]: 'Demon,' has left the game
+[2021-04-06 10:49:45]: ***  [, Level 0]: '(1)ERROR.' entered and joined the game
+[2021-04-06 10:49:45]: ***  [, Level 0]: 'Meetiteusz' entered and joined the game
