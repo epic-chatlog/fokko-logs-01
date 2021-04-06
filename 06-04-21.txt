@@ -12433,3 +12433,5 @@
 [2021-04-06 13:12:04]: ***  [, Level 0]: '(1)nameless tee' has left the game
 [2021-04-06 13:12:05]: ***  [, Level 0]: 'Asta' has left the game
 [2021-04-06 13:12:33]: ☻ [FookinLads, Level 43]: ☺:  spike ?
+[2021-04-06 13:12:37]: ☺ [, Level 2]: yes
+[2021-04-06 13:12:39]: ☻ [FookinLads, Level 43]: ok
