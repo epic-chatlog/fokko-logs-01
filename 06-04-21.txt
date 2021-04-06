@@ -4957,3 +4957,10 @@
 [2021-04-06 06:00:59]: Discord [, Level 39]: ERROR: ERROR#0404
 [2021-04-06 06:01:04]: fokkonaut [, Level 102]: ChillerDragon.*: u
 [2021-04-06 06:01:06]: Discord [, Level 39]: ERROR: ERROR#0404
+[2021-04-06 06:01:13]: ***  [, Level 0]: 'OP|Supers' has left the game (Timeout)
+[2021-04-06 06:01:15]: Discord [, Level 39]: ERROR: ERROR#0404
+[2021-04-06 06:01:15]: fokkonaut [, Level 102]: ChillerDragon.*: kenne mich nich aus mit discord bots
+[2021-04-06 06:01:17]: ***  [, Level 0]: 'Discord' has been muted for 60 seconds
+[2021-04-06 06:01:19]: ***  [, Level 0]: You are not permitted to talk for the next 57 seconds.
+[2021-04-06 06:01:20]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-06 06:01:20]: ***  [, Level 0]: You are not permitted to talk for the next 56 seconds.
