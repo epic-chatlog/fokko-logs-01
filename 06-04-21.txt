@@ -3763,3 +3763,7 @@
 [2021-04-06 03:44:22]: ***  [, Level 0]: 'sL|cunt' entered and joined the game
 [2021-04-06 03:44:25]: ***  [, Level 0]: WW1 is on a killing spree with 5 blocks
 [2021-04-06 03:44:31]:   [, Level 0]: sL|cunt: WW1: NO GIID
+[2021-04-06 03:44:39]: Isegrin [, Level 54]: sL|cunt: hola como estas?
+[2021-04-06 03:44:43]: ***  [, Level 0]: WW1's killing spree was ended by Falco641 (6 blocks)
+[2021-04-06 03:44:43]: ***  [, Level 0]: 'sabzero' changed name to 'ビール|Zero'
+[2021-04-06 03:44:47]:   [, Level 0]: sL|cunt: Isegrin: hurensohn
