@@ -12816,3 +12816,5 @@
 [2021-04-06 13:52:34]: ***  [, Level 0]: 'BC|Tixnix' has left the game
 [2021-04-06 13:52:41]: Isegrin [, Level 54]: WAT DE FAK
 [2021-04-06 13:52:52]: ***  [, Level 0]: 'fomjn' entered and joined the game
+[2021-04-06 13:52:54]: Isegrin [, Level 54]: xAXAXA
+[2021-04-06 13:53:01]: ***  [, Level 0]: 'Cylox' has left the game
