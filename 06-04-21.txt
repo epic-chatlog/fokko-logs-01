@@ -1365,3 +1365,6 @@
 [2021-04-06 01:11:23]: Nudelsaft c: [FookinLads, Level 37]: ok i jump in spike
 [2021-04-06 01:11:25]: Nudelsaft c: [FookinLads, Level 37]: wait
 [2021-04-06 01:11:29]: Shiro. [404, Level 42]: no in freeze
+[2021-04-06 01:11:32]: Nudelsaft c: [FookinLads, Level 37]: oh i see
+[2021-04-06 01:11:33]: Shiro. [404, Level 42]: nice
+[2021-04-06 01:11:38]: Shiro. [404, Level 42]: wait i take flappy
