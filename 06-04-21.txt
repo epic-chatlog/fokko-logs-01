@@ -1042,3 +1042,5 @@
 [2021-04-06 00:49:03]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
 [2021-04-06 00:49:12]: Anatomyx [, Level 0]: Vodo4ka: КАКОЙ РУУУУУСКИЙ НЕ ПЬЕТ ВИИИИСКИ?
 [2021-04-06 00:49:14]: NO ERROR. [404, Level 74]: DUMMYY
+[2021-04-06 00:49:20]: Лимонад [MFG, Level 37]: Anatomy: Которой не русский
+[2021-04-06 00:49:28]: Anatomyx [, Level 0]: ладно
