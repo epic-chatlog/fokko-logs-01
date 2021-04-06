@@ -15060,3 +15060,5 @@
 [2021-04-05 19:04:46]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-05 19:04:56]: ***  [, Level 0]: 'S Y T H N' changed name to 'нυƨнıκε'
 [2021-04-05 19:05:18]: nameless tee [, Level 0]: help
+[2021-04-05 19:06:47]: ***  [, Level 0]: 'x7|zemer' changed name to '(1)нυƨнıκε'
+[2021-04-05 19:06:53]: ***  [, Level 0]: '(1)нυƨнıκε' changed name to 'x7|zemer'
