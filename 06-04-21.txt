@@ -3578,3 +3578,8 @@
 [2021-04-06 03:31:39]: ビール|Zero [Drunks, Level 28]: Shiro.: bro stfu
 [2021-04-06 03:31:46]:   [, Level 0]: Nudelsaft c:: AAAAAAAAAAA
 [2021-04-06 03:31:46]: Shiro. [404, Level 42]: pidor got mad
+[2021-04-06 03:31:47]: Shiro. [404, Level 42]: xaxaxxa
+[2021-04-06 03:31:48]:   [, Level 0]: Nudelsaft c:: I TRUSTED U
+[2021-04-06 03:31:57]: Shiro. [404, Level 42]: I TOOK JUMP
+[2021-04-06 03:31:58]: Shiro. [404, Level 42]: WY U KIL
+[2021-04-06 03:31:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
