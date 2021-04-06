@@ -3260,3 +3260,4 @@
 [2021-04-06 03:09:06]: Nudelsaft c: [FookinLads, Level 37]: i guess
 [2021-04-06 03:09:06]: weqe [MNKY, Level 12]: Nudelsaft c:: ur loves talks to u like that ?
 [2021-04-06 03:09:11]: NO ERROR. [404, Level 74]: Nudelsaft c::  ok
+[2021-04-06 03:09:25]: weqe [MNKY, Level 12]: ERROR: give money
