@@ -15320,3 +15320,5 @@
 [2021-04-05 21:51:53]: ***  [, Level 0]: bo is on a killing spree with 15 blocks
 [2021-04-05 21:51:55]: ***  [, Level 0]: 'bo' changed name to 'Anatomy'
 [2021-04-05 21:51:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-05 21:52:11]: WarHammer [, Level 26]: anatommmmy
+[2021-04-05 21:52:17]: DARWINS YT 18 [, Level 0]: weyyyyyyy
