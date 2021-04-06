@@ -12860,3 +12860,4 @@
 [2021-04-06 13:58:16]: ***  [, Level 0]: 'soleri1' entered and joined the game
 [2021-04-06 13:58:38]: ***  [, Level 0]: [POLICE-CHANNEL] 'Isegrin' is spawnblocking. Catch him!
 [2021-04-06 13:58:53]: Isegrin [, Level 54]: YelloWorlD: fak of
+[2021-04-06 13:59:10]: ***  [, Level 0]: fomin is on a killing spree with 5 blocks
