@@ -10681,3 +10681,9 @@
 [2021-04-06 11:04:06]: ***  [, Level 0]: '|HolyHo|°' entered and joined the game
 [2021-04-06 11:04:06]: ERROR [404, Level 56]: (1)ChillerDrago:  ath client
 [2021-04-06 11:04:07]: (2)ChillerDrago [Chilli.*, Level 44]: noch da
+[2021-04-06 11:04:12]: Chronos [, Level 0]: ERROR: ofc ? i speack little english xD
+[2021-04-06 11:04:14]: ERROR [404, Level 56]: (1)ChillerDrago:  ath client ist der protected hier?
+[2021-04-06 11:04:14]: ***  [, Level 0]: 'kurama' has left the game
+[2021-04-06 11:04:15]: YelloWorlD [404, Level 41]: ERROR: road to top1 ?
+[2021-04-06 11:04:20]: ERROR [404, Level 56]: YelloWorlD:  yeee
+[2021-04-06 11:04:21]: ERROR [404, Level 56]: xd
