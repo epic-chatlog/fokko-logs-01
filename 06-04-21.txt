@@ -11313,3 +11313,7 @@
 [2021-04-06 11:45:01]: Swarfey [FookinLads, Level 60]: nope
 [2021-04-06 11:45:05]: Nudelsaft c: [FookinLads, Level 0]: bin ausgeloggt
 [2021-04-06 11:45:11]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
+[2021-04-06 11:45:26]: ***  [, Level 0]: 'Foxi♥' has left the game
+[2021-04-06 11:45:26]: ***  [, Level 0]: '(1)' entered and joined the game
+[2021-04-06 11:45:28]: ***  [, Level 0]: [POLICE-CHANNEL] 'S Y T H N' is spawnblocking. Catch him!
+[2021-04-06 11:45:30]:   [, Level 0]: power: xD
