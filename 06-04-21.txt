@@ -13316,3 +13316,4 @@
 [2021-04-06 15:06:41]: ***  [, Level 0]: 'JUDAS' entered and joined the game
 [2021-04-06 15:07:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-06 15:07:43]: ***  [, Level 0]: 'LorisLaChienne' entered and joined the game
+[2021-04-06 15:07:57]: ***  [, Level 0]: 'JUDAS' has left the game
