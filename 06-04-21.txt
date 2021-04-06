@@ -13642,3 +13642,6 @@
 [2021-04-06 16:29:13]: Mr.KshKsh99 [xSD7, Level 0]: XD
 [2021-04-06 16:29:21]: ♥TAKO♥ [, Level 25]: aaaaaaaaaa
 [2021-04-06 16:29:23]: ♥TAKO♥ [, Level 25]: tasssssssssssser
+[2021-04-06 16:31:27]: ***  [, Level 0]: [POLICE-CHANNEL] '♥TAKO♥' is spawnblocking. Catch him!
+[2021-04-06 16:31:29]: ***  [, Level 0]: ♥TAKO♥ is on a killing spree with 5 blocks
+[2021-04-06 16:31:29]: ***  [, Level 0]: [POLICE-CHANNEL] '♥TAKO♥' is spawnblocking. Catch him!
