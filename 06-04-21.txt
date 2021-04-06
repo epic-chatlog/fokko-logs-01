@@ -5195,3 +5195,6 @@
 [2021-04-06 06:16:25]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-06 06:16:32]: (1)Kirito♥ [♥, Level 24]: toxicdaddy: jo
 [2021-04-06 06:16:36]: ***  [, Level 0]: 'Yavuz' has left the game
+[2021-04-06 06:16:50]: ERROR [404, Level 56]: annoying oder
+[2021-04-06 06:16:50]: ChillerDragon [Chilli.*, Level 44]: Swarfey: aso ja
+[2021-04-06 06:16:53]: ChillerDragon [Chilli.*, Level 44]: matterbrige Swarfey
