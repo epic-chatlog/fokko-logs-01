@@ -12542,3 +12542,8 @@
 [2021-04-06 13:25:36]: ***  [, Level 0]: fomjn's killing spree was ended by any (10 blocks)
 [2021-04-06 13:25:45]: ***  [, Level 0]: [POLICE-CHANNEL] 'any' is spawnblocking. Catch him!
 [2021-04-06 13:25:46]: Fearless [, Level 40]: Axandos:  ill tell shiro u raped me
+[2021-04-06 13:25:49]: ***  [, Level 0]: fomin is on a killing spree with 5 blocks
+[2021-04-06 13:25:49]: MieSlime [FookinLads, Level 43]: flappy:  are u ok ?
+[2021-04-06 13:25:52]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
+[2021-04-06 13:25:52]: Axandos [, Level 25]: got killed by a dude that didnt play since 2 months#
+[2021-04-06 13:25:53]: ***  [, Level 0]: '[D] BC|kakashi' entered and joined the game
