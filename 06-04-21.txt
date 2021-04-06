@@ -9938,3 +9938,7 @@
 [2021-04-06 10:25:18]: Demon [DD-persian, Level 10]: help
 [2021-04-06 10:25:28]: Falco642 [, Level 0]: "Cylox: Falco641: DONT WAR BRO I LOVE YOU PLS"
 [2021-04-06 10:25:35]:   [, Level 0]: Cylox: ?
+[2021-04-06 10:25:37]:   [, Level 0]: Cylox: yes
+[2021-04-06 10:25:38]: ***  [, Level 0]: 'coffee' entered and joined the game
+[2021-04-06 10:25:41]: ***  [, Level 0]: 'coffee' has left the game
+[2021-04-06 10:25:46]: Falco642 [, Level 0]: Cylox: i just said what u just dmed me
