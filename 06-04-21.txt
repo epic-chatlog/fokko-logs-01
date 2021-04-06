@@ -3077,3 +3077,7 @@
 [2021-04-06 02:55:05]: (1)ChillerDrago [Chilli.*, Level 31]: portal halt Swarfey
 [2021-04-06 02:55:09]: Swarfey [FookinLads, Level 60]: hab nich auf dem acc
 [2021-04-06 02:55:10]: ERROR. [404, Level 47]: xD
+[2021-04-06 02:55:14]: Swarfey [FookinLads, Level 60]: hab gedacht ERROR macht
+[2021-04-06 02:55:14]: (1)ChillerDrago [Chilli.*, Level 31]: bra
+[2021-04-06 02:55:15]: Swarfey [FookinLads, Level 60]: xd
+[2021-04-06 02:55:20]: (1)ChillerDrago [Chilli.*, Level 31]: ERROR: gönnt nich
