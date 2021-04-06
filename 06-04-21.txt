@@ -4714,3 +4714,5 @@
 [2021-04-06 05:43:15]: fokkonaut [, Level 102]: u
 [2021-04-06 05:43:18]: ***  [, Level 0]: 'Not WarHammer' entered and joined the game
 [2021-04-06 05:43:21]: Pimka✿ [FookinLads, Level 29]: fokkonaut: i agree
+[2021-04-06 05:43:22]: fokkonaut [, Level 102]: hi Not WarHammer
+[2021-04-06 05:43:32]: Not WarHammer [, Level 26]: hi fokkonaut
