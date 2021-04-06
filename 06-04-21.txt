@@ -7300,3 +7300,5 @@
 [2021-04-06 08:10:32]: ***  [, Level 0]: »ℱℬℑ«'s killing spree was ended by power (9 blocks)
 [2021-04-06 08:10:43]: ***  [, Level 0]: '»ℱℬℑ«' has left the game
 [2021-04-06 08:10:50]:   [, Level 0]: ERROR: GReeeN:  sie kommen xDD
+[2021-04-06 08:11:04]: Boti. [.bad, Level 33]: dummym kint van böriből
+[2021-04-06 08:11:05]: Boti. [.bad, Level 33]: nagyon jó
