@@ -5075,3 +5075,5 @@
 [2021-04-06 06:08:14]: ***  [, Level 0]: '(2)lol' entered and joined the game
 [2021-04-06 06:08:20]: ***  [, Level 0]: '(3)lol' entered and joined the game
 [2021-04-06 06:08:31]: Discord [, Level 39]: fokkonaut: nimm dem bot einfach die rechte für @everyone xd
+[2021-04-06 06:08:34]: Discord [, Level 39]: Swarfey: ich muss die ` in den beiden escapen
+[2021-04-06 06:08:37]: Discord [, Level 39]: Swarfey: is ja kein bot sondern webhook
