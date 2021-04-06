@@ -12834,3 +12834,5 @@
 [2021-04-06 13:54:53]: ***  [, Level 0]: 'fomin' entered and joined the game
 [2021-04-06 13:55:01]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
 [2021-04-06 13:55:01]: ***  [, Level 0]: fomjn's killing spree was ended by YelloWorlD (7 blocks)
+[2021-04-06 13:55:04]: Virus [, Level 49]: toxicdaddy: pidar
+[2021-04-06 13:55:12]: ***  [, Level 0]: 'Virus' has left the game
