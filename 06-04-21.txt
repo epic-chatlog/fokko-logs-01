@@ -5309,3 +5309,5 @@
 [2021-04-06 06:28:24]: Swarfey [FookinLads, Level 37]: ChillerDragon: hilf mir
 [2021-04-06 06:28:36]: ***  [, Level 0]: 'Isegrin' has left the game (Timeout)
 [2021-04-06 06:28:41]: ChillerDragon [Chilli.*, Level 44]: aber any is n arsch ERROR
+[2021-04-06 06:28:47]: ERROR [404, Level 56]: ChillerDragon:  sind alle in 404
+[2021-04-06 06:28:55]: ChillerDragon [Chilli.*, Level 44]: ja ERROR aber er is hässlich dazu xd
