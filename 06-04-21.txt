@@ -8851,3 +8851,6 @@
 [2021-04-06 09:20:23]: power [TrRShClNrRs, Level 14]: sL|KeBu28:
 [2021-04-06 09:20:25]: power [TrRShClNrRs, Level 14]: rifht
 [2021-04-06 09:20:27]: (1)Axandos [, Level 25]: Mista bombastic:  healp me
+[2021-04-06 09:20:32]: ***  [, Level 0]: 'siriotek' entered and joined the game
+[2021-04-06 09:20:33]:   [, Level 0]: sL|KeBu28: ?
+[2021-04-06 09:20:41]: power [TrRShClNrRs, Level 14]: comic, come spawn
