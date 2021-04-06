@@ -15564,3 +15564,7 @@
 [2021-04-05 23:16:49]: ***  [, Level 0]: 'Falco641' entered and joined the game
 [2021-04-05 23:16:50]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-05 23:16:53]: PoliceTee [xSD7, Level 25]: E
+[2021-04-05 23:16:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-05 23:17:00]: WarHammer [, Level 0]: Hİ
+[2021-04-05 23:17:01]: WarHammer [, Level 0]: YANİ SA
+[2021-04-05 23:17:04]: x7|zemer [xSD7, Level 0]: PoliceTee: Anatomy blocked me
