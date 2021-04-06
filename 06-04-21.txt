@@ -10625,3 +10625,7 @@
 [2021-04-06 11:01:56]: MORPHIN [, Level 37]: XDDDDDDDDDDDDDDDDDDDDD
 [2021-04-06 11:01:58]: GOLD [404, Level 40]: ERROR: do u play fng ?
 [2021-04-06 11:01:58]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-06 11:02:05]: ERROR. [404, Level 74]: Chronos:  i go now u can tell me tomorrow what u guys cleared
+[2021-04-06 11:02:09]: Chronos [, Level 0]: ERROR: u have read my text discord or no have time ? xD
+[2021-04-06 11:02:13]: Kezo [FookinLads, Level 41]: TASER TASER
+[2021-04-06 11:02:14]: ERROR [404, Level 56]: Chronos:  i did
