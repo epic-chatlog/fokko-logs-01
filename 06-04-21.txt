@@ -5316,3 +5316,11 @@
 [2021-04-06 06:29:10]: ChillerDragon [Chilli.*, Level 44]: mir nich
 [2021-04-06 06:29:14]: power [TrRShClNrRs, Level 0]: wtf
 [2021-04-06 06:29:20]: ERROR [404, Level 56]: ist mir egal lass ihn einfach nimm dir andere
+[2021-04-06 06:29:24]: power [TrRShClNrRs, Level 0]: help Kirito
+[2021-04-06 06:29:25]: Swarfey [FookinLads, Level 37]: ChillerDragon: wtf wie ist er plötzlich unfreeze
+[2021-04-06 06:29:25]: ***  [, Level 0]: 'hhh3' entered and joined the game
+[2021-04-06 06:29:28]: Swarfey [FookinLads, Level 37]: ich glaub hier spukts
+[2021-04-06 06:29:29]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
+[2021-04-06 06:29:29]: ***  [, Level 0]: '(1)kais' would have timed out, but can use timeout protection now
+[2021-04-06 06:29:30]: ChillerDragon [Chilli.*, Level 44]: ? Swarfey
+[2021-04-06 06:29:35]: ERROR [404, Level 56]: Swarfey:  xD
