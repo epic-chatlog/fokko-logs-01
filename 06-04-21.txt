@@ -1718,3 +1718,6 @@
 [2021-04-06 01:35:07]: ***  [, Level 0]: '♫Amirian♬.' entered and joined the game
 [2021-04-06 01:35:07]: mamikral011 [, Level 0]: :D
 [2021-04-06 01:35:16]: ***  [, Level 0]: 'VeemID' entered and joined the game
+[2021-04-06 01:35:18]: ***  [, Level 0]: '♫Amirian♬.' has left the game
+[2021-04-06 01:35:26]: comic [comically, Level 13]: 2 გოჭი ღორია?
+[2021-04-06 01:35:27]: ***  [, Level 0]: 'Писька' has left the game
