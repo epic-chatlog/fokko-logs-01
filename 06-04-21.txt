@@ -3306,3 +3306,7 @@
 [2021-04-06 03:13:31]: ***  [, Level 0]: '♫Amirian♬' entered and joined the game
 [2021-04-06 03:13:34]: ***  [, Level 0]: 'Friendiship ;-)' has left the game
 [2021-04-06 03:13:35]: Nudelsaft c: [FookinLads, Level 37]: aaaaaaa
+[2021-04-06 03:13:37]:   [, Level 0]: any: ERROR: hi
+[2021-04-06 03:13:37]: ***  [, Level 0]: 'xD . shy snip' has left the game
+[2021-04-06 03:13:41]: ***  [, Level 0]: 'DARINABABY' entered and joined the game
+[2021-04-06 03:13:47]: ***  [, Level 0]: 'Black Wolf' entered and joined the game
