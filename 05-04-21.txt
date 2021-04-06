@@ -15613,3 +15613,10 @@
 [2021-04-05 23:21:34]: x7|zemer [xSD7, Level 23]: s6_sven: Helf mir jetzt
 [2021-04-05 23:21:38]: ***  [, Level 0]: 'Boti.' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-05 23:21:40]: PoliceTee [xSD7, Level 25]: BOTI RQ
+[2021-04-05 23:21:47]: x7|zemer [xSD7, Level 23]: PoliceTee:
+[2021-04-05 23:21:51]: ***  [, Level 0]: 'Boti. but 0.7' entered and joined the game
+[2021-04-05 23:21:53]: WarHammer [, Level 26]: POLİS TEE
+[2021-04-05 23:21:54]: ***  [, Level 0]: 'Boti. but 0.7' has left the game
+[2021-04-05 23:21:56]: PoliceTee [xSD7, Level 25]: s7_sven: clan
+[2021-04-05 23:21:58]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[2021-04-05 23:21:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
