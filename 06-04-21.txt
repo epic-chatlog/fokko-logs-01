@@ -3310,3 +3310,5 @@
 [2021-04-06 03:13:37]: ***  [, Level 0]: 'xD . shy snip' has left the game
 [2021-04-06 03:13:41]: ***  [, Level 0]: 'DARINABABY' entered and joined the game
 [2021-04-06 03:13:47]: ***  [, Level 0]: 'Black Wolf' entered and joined the game
+[2021-04-06 03:13:51]: ERROR. [404, Level 47]: OPSI XDDDD
+[2021-04-06 03:14:00]:   [, Level 0]: ♫Amirian♬: lagi
