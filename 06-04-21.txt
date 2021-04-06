@@ -3060,3 +3060,8 @@
 [2021-04-06 02:52:49]: ERROR [404, Level 56]: xD
 [2021-04-06 02:53:39]: ERROR [404, Level 56]: omg
 [2021-04-06 02:53:53]: ***  [, Level 0]: 'Red Fox' entered and joined the game
+[2021-04-06 02:53:58]: Swarfey [FookinLads, Level 60]: aaaaaaaa
+[2021-04-06 02:54:01]: weqe [MNKY, Level 11]: iMxtteo: dafuq
+[2021-04-06 02:54:07]: . [TrRShClNrRs, Level 42]: ChillerDragon: lmao
+[2021-04-06 02:54:07]: iMxtteo [, Level 26]: weqe: ?
+[2021-04-06 02:54:08]: Swarfey [FookinLads, Level 60]: dachte 12h pause
