@@ -4622,3 +4622,4 @@
 [2021-04-06 05:34:10]: mami [Ape, Level 16]: bye
 [2021-04-06 05:34:15]: ***  [, Level 0]: 'MasterTee' has left the game
 [2021-04-06 05:34:17]: ***  [, Level 0]: 'Friendiship ;-)' has left the game
+[2021-04-06 05:34:27]: ***  [, Level 0]: '(1)Friendiship ;' has left the game
