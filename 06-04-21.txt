@@ -2802,3 +2802,4 @@
 [2021-04-06 02:31:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-06 02:32:24]: GOLD [404, Level 41]: Pimka☀: ty
 [2021-04-06 02:32:27]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-06 02:32:46]: ***  [, Level 0]: 'Bobcornichon' has left the game
