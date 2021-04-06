@@ -8544,3 +8544,6 @@
 [2021-04-06 09:04:22]: (1)kais [, Level 58]: ChillerDragon: wut, u don't know hello ?
 [2021-04-06 09:04:24]: ChillerDragon.* [Chilli.*, Level 41]: salut Ļåҕ Lobster
 [2021-04-06 09:04:27]: ChillerDragon.* [Chilli.*, Level 41]: now i do
+[2021-04-06 09:04:35]: ChillerDragon.* [Chilli.*, Level 41]: bye kais?
+[2021-04-06 09:04:38]:   [, Level 0]: Ļåҕ Lobster: ChillerDragon: comment ça va aujourd'hui ?
+[2021-04-06 09:04:38]: ***  [, Level 0]: 'Catty' joined the spectators
