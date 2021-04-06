@@ -15485,3 +15485,4 @@
 [2021-04-05 23:03:04]: PoliceTee [xSD7, Level 0]: rq
 [2021-04-05 23:03:47]: Boti. [.bad, Level 32]: PoliceTee: flag waster
 [2021-04-05 23:03:53]: BulgarianTee [CleanUpCrew, Level 38]: Boti.: no u
+[2021-04-05 23:06:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
