@@ -13682,3 +13682,6 @@
 [2021-04-06 16:39:32]: t [, Level 42]: afk
 [2021-04-06 16:39:39]: [D] ♥TAKO♥ [, Level 0]: t:  oh no
 [2021-04-06 16:39:48]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
+[2021-04-06 16:39:56]: ***  [, Level 0]: 'Λtlantis Ψ' entered and joined the game
+[2021-04-06 16:40:00]: x7|zemer [xSD7, Level 0]: (1)Mr.KshKsh99: ????
+[2021-04-06 16:40:02]: ***  [, Level 0]: 'Λtlantis Ψ' changed name to 'S Y T H N'
