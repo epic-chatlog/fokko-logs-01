@@ -15037,3 +15037,5 @@
 [2021-04-05 18:55:36]: ***  [, Level 0]: '(1)σмєтнιηg' changed name to 'x7|zemer'
 [2021-04-05 18:56:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-05 18:57:34]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-05 18:57:55]: ***  [, Level 0]: 'σмєтнιηg' has left the game (Timeout)
+[2021-04-05 18:57:55]: ***  [, Level 0]: '(1)S Y T H N' has left the game (Timeout)
