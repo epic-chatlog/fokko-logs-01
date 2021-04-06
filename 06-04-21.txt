@@ -13224,3 +13224,5 @@
 [2021-04-06 14:50:21]: KeğhtZo [FookinLads, Level 0]: ne oldu
 [2021-04-06 14:50:29]: LagHammer [, Level 0]: mausun pili bitti
 [2021-04-06 14:50:40]: KeğhtZo [FookinLads, Level 0]: aga b
+[2021-04-06 14:50:46]: LagHammer [, Level 0]: bi dk bakim pil varmı
+[2021-04-06 14:50:52]: KeğhtZo [FookinLads, Level 0]: LagHammer: ok
