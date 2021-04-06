@@ -7121,3 +7121,10 @@
 [2021-04-06 07:56:13]: (2)ChillerDrago [|*KoG*|, Level 44]: join team chiller HardreenClutch
 [2021-04-06 07:56:16]:   [, Level 0]: Boti.: az nagyon jó
 [2021-04-06 07:56:34]:   [, Level 0]: Boti.: ChillerDragon: what is team chiller:
+[2021-04-06 07:56:36]:   [, Level 0]: Boti.: ?
+[2021-04-06 07:56:36]: (1)soleri1 [, Level 21]: kais:
+[2021-04-06 07:56:37]: ***  [, Level 0]: 'lolpoep' has left the game
+[2021-04-06 07:56:38]: (1)soleri1 [, Level 21]: help
+[2021-04-06 07:56:44]: ChillerDragon.* [|*KoG*|, Level 41]: Boti.: its a peace movement
+[2021-04-06 07:56:45]: ***  [, Level 0]: 'Pimka☀' has left the game
+[2021-04-06 07:56:45]: ***  [, Level 0]: 'Pimka✿' has left the game
