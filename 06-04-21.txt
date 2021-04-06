@@ -13314,3 +13314,4 @@
 [2021-04-06 15:06:25]: ***  [, Level 0]: 'fomin' entered and joined the game
 [2021-04-06 15:06:36]: (2)Kirito♥ [♥, Level 36]: x7|Flipper: there is no space here look xD
 [2021-04-06 15:06:41]: ***  [, Level 0]: 'JUDAS' entered and joined the game
+[2021-04-06 15:07:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
