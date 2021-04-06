@@ -13433,3 +13433,5 @@
 [2021-04-06 15:37:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-06 15:37:05]: ***  [, Level 0]: 'x7|zemer' has left the game
 [2021-04-06 15:37:23]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
+[2021-04-06 15:38:54]: ***  [, Level 0]: 'cunt' has left the game
+[2021-04-06 15:38:56]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
