@@ -4383,3 +4383,4 @@
 [2021-04-06 04:26:48]: Raffaello [, Level 0]: ✯Hunter.exe: come 1v1
 [2021-04-06 04:26:49]: EvenFatterAss [, Level 36]: ✯Hunter.exe: go 1v1? v3royal?
 [2021-04-06 04:26:50]: EvenFatterAss [, Level 36]: ✯Hunter.exe: u cant win
+[2021-04-06 04:26:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
