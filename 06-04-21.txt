@@ -13142,3 +13142,4 @@
 [2021-04-06 14:39:59]: ***  [, Level 0]: 'fomjn' has left the game
 [2021-04-06 14:39:59]: ***  [, Level 0]: 'fomin' has left the game
 [2021-04-06 14:40:03]: WarHammer [, Level 0]: LAG SPİKE DİYELİM
+[2021-04-06 14:40:30]: WarHammer [, Level 0]: OY LAG
