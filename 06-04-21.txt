@@ -2888,3 +2888,4 @@
 [2021-04-06 02:39:54]: (2)ChillerDrago [|*KoG*|, Level 32]: is doch nich dein problem ERROR
 [2021-04-06 02:39:56]: ERROR [404, Level 56]: (2)ChillerDrago:  ich sags nur einmal
 [2021-04-06 02:40:00]: (2)ChillerDrago [|*KoG*|, Level 32]: weqe: stop blox ERROR clan mates
+[2021-04-06 02:40:09]: (2)ChillerDrago [|*KoG*|, Level 32]: ok weqe ?
