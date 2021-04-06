@@ -12254,3 +12254,5 @@
 [2021-04-06 12:46:58]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-06 12:47:04]: Fearless [, Level 40]: AXAXAXAX
 [2021-04-06 12:47:05]: Axandos² [, Level 20]: bob:  peace?
+[2021-04-06 12:47:27]: Axandos² [, Level 20]: also nein bob
+[2021-04-06 12:47:36]: Axandos² [, Level 20]: lass es doch bob
