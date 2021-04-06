@@ -7069,3 +7069,9 @@
 [2021-04-06 07:54:13]: ***  [, Level 0]: 'Enot' has left the game
 [2021-04-06 07:54:13]: ***  [, Level 0]: [POLICE-CHANNEL] 'coala12' is spawnblocking. Catch him!
 [2021-04-06 07:54:14]: (2)ChillerDrago [|*KoG*|, Level 44]: börtön Kiøn1029
+[2021-04-06 07:54:17]:   [, Level 0]: Boti.: XDD
+[2021-04-06 07:54:20]: ***  [, Level 0]: 'Coala64' entered and joined the game
+[2021-04-06 07:54:22]: ***  [, Level 0]: coala5231 is on a killing spree with 5 blocks
+[2021-04-06 07:54:22]: ***  [, Level 0]: [POLICE-CHANNEL] 'coala5231' is spawnblocking. Catch him!
+[2021-04-06 07:54:23]: ***  [, Level 0]: [POLICE-CHANNEL] 'coala12' has been caught by 'Falco641' (10 minutes arrest)
+[2021-04-06 07:54:24]: Kiøn1029 [.bad, Level 31]: XDD
