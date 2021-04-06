@@ -15239,3 +15239,4 @@
 [2021-04-05 21:36:33]: DARWINS YT 18 [, Level 0]: broo
 [2021-04-05 21:36:58]: DARWINS YT 18 [, Level 0]: gracias
 [2021-04-05 21:36:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-05 21:37:15]: ***  [, Level 0]: 'Sahnetee' entered and joined the game
