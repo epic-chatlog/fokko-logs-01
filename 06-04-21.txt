@@ -3138,3 +3138,7 @@
 [2021-04-06 02:59:21]: ***  [, Level 0]: 'Cr7xxx' entered and joined the game
 [2021-04-06 02:59:21]: ***  [, Level 0]: 'Cr7xxx' has left the game
 [2021-04-06 02:59:22]: Nudelsaft c: [FookinLads, Level 37]: ye i know that already
+[2021-04-06 02:59:26]: NO ERROR. [404, Level 74]: Swarfey:
+[2021-04-06 02:59:27]: ***  [, Level 0]: 'Sutzer' entered and joined the game
+[2021-04-06 02:59:31]: ***  [, Level 0]: '[D] Sutzer' entered and joined the game
+[2021-04-06 02:59:31]: VeemID [2] [, Level 0]: Red Fox: stop block
