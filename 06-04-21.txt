@@ -1702,3 +1702,5 @@
 [2021-04-06 01:33:42]: Nudelsaft c: [FookinLads, Level 37]: xd
 [2021-04-06 01:33:44]: NO ERROR. [404, Level 74]: wie langweilig beweg dich oder ich geh afk
 [2021-04-06 01:33:48]: ***  [, Level 0]: '♫Amirian♬' entered and joined the game
+[2021-04-06 01:33:53]: Nudelsaft c: [FookinLads, Level 37]: GET ISEGRIN
+[2021-04-06 01:34:01]: ***  [, Level 0]: 'Kaptar' has left the game
