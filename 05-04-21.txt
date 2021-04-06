@@ -15453,3 +15453,6 @@
 [2021-04-05 22:45:50]: Marcisten [Helper, Level 0]: gm
 [2021-04-05 22:46:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-05 22:47:01]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-05 22:49:52]: ***  [, Level 0]: falkenauge finished in: 2 minute(s) 25.88 second(s)
+[2021-04-05 22:49:53]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[2021-04-05 22:49:54]: falkenauge [Ʀ.I.Ƈ., Level 34]: ERROR:
