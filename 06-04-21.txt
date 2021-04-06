@@ -9637,3 +9637,6 @@
 [2021-04-06 10:01:56]: ***  [, Level 0]: 'Demon' has been muted for 60 seconds
 [2021-04-06 10:01:58]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-06 10:02:09]: GOLD [404, Level 40]: ChillerDragon: >>>
+[2021-04-06 10:02:17]:   [, Level 0]: Ļåҕ Lobster: ChillerDragon.*: karma
+[2021-04-06 10:02:19]:   [, Level 0]: YelloWorlD: Nudelsaft c:: >>
+[2021-04-06 10:02:21]: ChillerDragon.* [Chilli.*, Level 41]: merde
