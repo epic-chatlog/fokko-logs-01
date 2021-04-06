@@ -5379,3 +5379,7 @@
 [2021-04-06 06:33:20]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-06 06:33:20]: ***  [, Level 0]: 'Swarfey' has left the game
 [2021-04-06 06:33:22]: ChillerDragon [Chilli.*, Level 44]: dont we have war anyways
+[2021-04-06 06:33:25]: ᅟᅟ [, Level 60]: blocker
+[2021-04-06 06:33:29]: ***  [, Level 0]: 'kais' has left the game (Timeout Protection over)
+[2021-04-06 06:33:29]: ***  [, Level 0]: '(1)kais' has left the game (Timeout Protection over)
+[2021-04-06 06:33:34]: ᅟᅟ [, Level 60]: :c
