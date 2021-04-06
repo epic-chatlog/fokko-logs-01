@@ -12794,3 +12794,12 @@
 [2021-04-06 13:50:58]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
 [2021-04-06 13:50:59]: GOLD [404, Level 40]: 3 2
 [2021-04-06 13:51:09]: GOLD [404, Level 40]: 3 3
+[2021-04-06 13:51:15]: ***  [, Level 0]: fomjn's killing spree was ended by J3nxCAst3x (7 blocks)
+[2021-04-06 13:51:17]: GOLD [404, Level 40]: 4 3
+[2021-04-06 13:51:18]: ***  [, Level 0]: 'TURİSH POWER' changed name to 'Cylox'
+[2021-04-06 13:51:18]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' has been caught by 'Virus' (10 minutes arrest)
+[2021-04-06 13:51:21]: ***  [, Level 0]: 'fomjn' has left the game
+[2021-04-06 13:51:21]: ***  [, Level 0]: 'fomin' has left the game
+[2021-04-06 13:51:22]: GOLD [404, Level 40]: 5 3
+[2021-04-06 13:51:23]: GOLD [404, Level 40]: gg
+[2021-04-06 13:51:25]: BC|Tixnix [BC, Level 34]: gg
