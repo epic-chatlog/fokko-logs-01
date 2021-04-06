@@ -3788,3 +3788,4 @@
 [2021-04-06 03:47:01]: ビール|Scorp [, Level 0]: Boti.: im ビール|Zero
 [2021-04-06 03:47:26]: ビール|Scorp [, Level 0]: Boti.:
 [2021-04-06 03:47:36]: [D] Boti. [.bad, Level 27]: XDD
+[2021-04-06 03:47:42]: [D] Boti. [.bad, Level 27]: lags
