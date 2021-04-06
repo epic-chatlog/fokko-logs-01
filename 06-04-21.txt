@@ -12848,3 +12848,7 @@
 [2021-04-06 13:56:28]: Kirito♥ [♥, Level 35]: YelloWorlD: no war please
 [2021-04-06 13:56:40]: ***  [, Level 0]: fomin's killing spree was ended by Isegrin (6 blocks)
 [2021-04-06 13:56:51]: ***  [, Level 0]: fomjn's killing spree was ended by J3nxCAst3x (8 blocks)
+[2021-04-06 13:57:00]: fomin [RUA, Level 0]: lse
+[2021-04-06 13:57:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-06 13:57:03]: ***  [, Level 0]: (2)ChillerDragon finished in: 74 minute(s) 45.76 second(s)
+[2021-04-06 13:57:04]: Isegrin [, Level 54]: fomjn:
