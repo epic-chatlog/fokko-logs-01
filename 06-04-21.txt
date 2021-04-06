@@ -3123,3 +3123,8 @@
 [2021-04-06 02:58:29]: NO ERROR. [404, Level 74]: HELPER SIND SCHEIßE ODER
 [2021-04-06 02:58:29]: Swarfey [FookinLads, Level 60]: ok wait Shiro.
 [2021-04-06 02:58:30]: ***  [, Level 0]: '(1)' entered and joined the game
+[2021-04-06 02:58:34]: (1)ChillerDrago [Chilli.*, Level 31]: ne ERROR
+[2021-04-06 02:58:38]: NO ERROR. [404, Level 74]: achso ok
+[2021-04-06 02:58:38]: Swarfey [FookinLads, Level 60]: Shiro.: wait why tho xd
+[2021-04-06 02:58:40]: (1)ChillerDrago [Chilli.*, Level 31]: du bist aber keiner ERROR
+[2021-04-06 02:58:43]: NO ERROR. [404, Level 74]: true
