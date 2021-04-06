@@ -4690,3 +4690,4 @@
 [2021-04-06 05:40:52]: WarHammer' [, Level 0]: chillerdagorn:
 [2021-04-06 05:40:53]: fokkonaut [, Level 102]: ChillerDragon: is das alles auch performant genug
 [2021-04-06 05:41:10]: fokkonaut [, Level 102]: probs
+[2021-04-06 05:41:27]: ***  [, Level 0]: 'VIktor Robban' has left the game
