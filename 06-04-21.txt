@@ -6653,3 +6653,11 @@
 [2021-04-06 07:36:11]: ***  [, Level 0]: 'KoRaPcz' has left the game
 [2021-04-06 07:36:12]:   [, Level 0]: (1)kais: ChillerDragon.*: wow
 [2021-04-06 07:36:12]:   [, Level 0]: Isegrin: pls no kill: leave server ;-D
+[2021-04-06 07:36:15]: ***  [, Level 0]: 'pls no kill' has left the game
+[2021-04-06 07:36:17]: VeemID [, Level 26]: GoatLike: i want be with you :(
+[2021-04-06 07:36:17]: ***  [, Level 0]: 'pls no kill' entered and joined the game
+[2021-04-06 07:36:20]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[2021-04-06 07:36:22]:   [, Level 0]: pls no kill: no
+[2021-04-06 07:36:23]: ChillerDragon.* [|*KoG*|, Level 41]: szia Kiøn1029
+[2021-04-06 07:36:26]: ***  [, Level 0]: 'pls no kill' has left the game
+[2021-04-06 07:36:26]: Kiøn1029 [.bad, Level 31]: szia
