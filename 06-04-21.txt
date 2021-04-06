@@ -12922,3 +12922,6 @@
 [2021-04-06 14:07:32]: ***  [, Level 0]: 'GKar' entered and joined the game
 [2021-04-06 14:07:35]: fomin [RUA, Level 0]: flappy: nooo :p
 [2021-04-06 14:07:43]: ***  [, Level 0]: 'GKar' has left the game
+[2021-04-06 14:07:52]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
+[2021-04-06 14:08:03]: ***  [, Level 0]: 'lefo' has left the game
+[2021-04-06 14:08:03]: ***  [, Level 0]: 'J3nxCAst3x' has left the game
