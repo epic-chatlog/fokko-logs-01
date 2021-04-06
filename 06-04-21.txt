@@ -13394,3 +13394,6 @@
 [2021-04-06 15:26:51]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
 [2021-04-06 15:27:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-06 15:27:05]: t [, Level 42]: fomin: 2 qi
+[2021-04-06 15:27:15]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
+[2021-04-06 15:27:17]: fomin [RUA, Level 0]: flappy is bot?
+[2021-04-06 15:27:20]: Flupper [xSD7, Level 0]: yes
