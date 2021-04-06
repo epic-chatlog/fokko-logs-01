@@ -15885,3 +15885,6 @@
 [2021-04-05 23:39:45]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-05 23:39:49]: ***  [, Level 0]: 'Not WarHammer' changed name to 'WarHammer'
 [2021-04-05 23:39:52]: Boti. [.bad, Level 32]: ß
+[2021-04-05 23:39:56]: x7|zemer [xSD7, Level 23]: ?
+[2021-04-05 23:39:58]: WarHammer' [, Level 16]: Cylox:  kraaal birazdan okula gitcem
+[2021-04-05 23:39:58]: x7|zemer [xSD7, Level 23]: ß
