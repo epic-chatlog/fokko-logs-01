@@ -11401,3 +11401,5 @@
 [2021-04-06 11:51:03]: ***  [, Level 0]: 'Kaptar' has left the game
 [2021-04-06 11:51:06]:   [, Level 0]: Kiøn1029: Marcisten: bulgi flexel azzal hogy egésznap sleepyvel volt XDD
 [2021-04-06 11:51:25]: Marcisten [Helper, Level 0]: Kiøn1029: hol?
+[2021-04-06 11:51:32]:   [, Level 0]: Kiøn1029: nekem dc-n
+[2021-04-06 11:51:39]: Marcisten [Helper, Level 0]: Kiøn1029: de hol volt vele
