@@ -6516,3 +6516,5 @@
 [2021-04-06 07:28:37]: ***  [, Level 0]: '[D] toxicdaddy' has left the game
 [2021-04-06 07:28:37]: ***  [, Level 0]: 'toxicdaddy' has left the game
 [2021-04-06 07:28:40]:   [, Level 0]: (1)Foxi♥: Maatiteusz:
+[2021-04-06 07:28:43]: ***  [, Level 0]: '(1)Cosmo' has left the game
+[2021-04-06 07:28:53]: koya [, Level 7]: sus:
