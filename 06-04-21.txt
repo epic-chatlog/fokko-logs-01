@@ -9959,3 +9959,4 @@
 [2021-04-06 10:27:18]: ***  [, Level 0]: 'iMxtteo' entered and joined the game
 [2021-04-06 10:27:18]: ***  [, Level 0]: ビール|Scorp's killing spree was ended by Falco641 (7 blocks)
 [2021-04-06 10:27:18]: ***  [, Level 0]: [POLICE-CHANNEL] 'Falco641' is spawnblocking. Catch him!
+[2021-04-06 10:27:39]: any [404, Level 37]: [D] mamikral011: help or war
