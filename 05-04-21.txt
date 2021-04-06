@@ -14754,3 +14754,6 @@
 [2021-04-05 17:08:29]: x7|KshKsh99 [xSD7, Level 0]: nicd
 [2021-04-05 17:08:30]: x7|KshKsh99 [xSD7, Level 0]: e
 [2021-04-05 17:08:37]: x7|KshKsh99 [xSD7, Level 0]: give shotgun
+[2021-04-05 17:08:54]: hmmmmmm [, Level 8]: ah ok
+[2021-04-05 17:08:55]: x7|KshKsh99 [xSD7, Level 0]: 2 jump
+[2021-04-05 17:09:03]: x7|KshKsh99 [xSD7, Level 0]: almost
