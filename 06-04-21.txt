@@ -11728,3 +11728,7 @@
 [2021-04-06 12:14:21]: [D] mamikral011 [, Level 21]: WarHammer: war for life
 [2021-04-06 12:14:28]: [D] mamikral011 [, Level 21]: Shiro.: war for life
 [2021-04-06 12:14:33]:   [, Level 0]: WarHammer: Shiro.:  flag xd
+[2021-04-06 12:14:46]: ***  [, Level 0]: 'Cosmo' has left the game
+[2021-04-06 12:14:46]: ***  [, Level 0]: '(1)Cosmo' has left the game
+[2021-04-06 12:14:51]: ***  [, Level 0]: '[D] Cylox' changed name to '[D] Cylox♥'
+[2021-04-06 12:14:51]: ***  [, Level 0]: 'Cylox' changed name to 'Cylox♥'
