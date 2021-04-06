@@ -11317,3 +11317,9 @@
 [2021-04-06 11:45:26]: ***  [, Level 0]: '(1)' entered and joined the game
 [2021-04-06 11:45:28]: ***  [, Level 0]: [POLICE-CHANNEL] 'S Y T H N' is spawnblocking. Catch him!
 [2021-04-06 11:45:30]:   [, Level 0]: power: xD
+[2021-04-06 11:45:33]:   [, Level 0]: Foxie♥: Kirito♥: henlo
+[2021-04-06 11:45:39]: Kirito♥ [♥, Level 35]: Foxie♥: hey
+[2021-04-06 11:45:40]: ***  [, Level 0]: [POLICE-CHANNEL] 'S Y T H N' is spawnblocking. Catch him!
+[2021-04-06 11:45:43]: ***  [, Level 0]: '(1)' changed name to 'guy'
+[2021-04-06 11:45:45]: any² [404, Level 25]: GOLD: hey
+[2021-04-06 11:45:45]: ***  [, Level 0]: 'WarHammer' entered and joined the game
