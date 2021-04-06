@@ -15491,3 +15491,5 @@
 [2021-04-05 23:07:28]: R2D2 [, Level 31]: YRE
 [2021-04-05 23:07:32]: R2D2 [, Level 31]: YES
 [2021-04-05 23:07:39]: Boti. [.bad, Level 32]: XDDDD
+[2021-04-05 23:07:57]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-05 23:07:57]: ***  [, Level 0]: 'Mista bombastic' has left the game
