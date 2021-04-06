@@ -13088,3 +13088,4 @@
 [2021-04-06 14:31:08]: ***  [, Level 0]: 'Tziys*' has left the game
 [2021-04-06 14:31:30]: ***  [, Level 0]: 'Tziys*' entered and joined the game
 [2021-04-06 14:31:40]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-06 14:32:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
