@@ -15101,3 +15101,5 @@
 [2021-04-05 19:50:12]: ***  [, Level 0]: '(1)P4Pyr0s' changed name to 'ᅟᅟᅟ'
 [2021-04-05 19:50:44]: ***  [, Level 0]: 'ᅟᅟᅟ' changed name to '(1)'
 [2021-04-05 19:51:38]: ***  [, Level 0]: 'нυƨнıκε' entered and joined the game
+[2021-04-05 19:51:54]: ***  [, Level 0]: '(1)S Y T H N' entered and joined the game
+[2021-04-05 19:51:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
