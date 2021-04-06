@@ -7178,3 +7178,6 @@
 [2021-04-06 07:59:23]: NO ERROR. [404, Level 74]: bestimmt
 [2021-04-06 07:59:39]:   [, Level 0]: Boti.: Kiøn1029: hátul
 [2021-04-06 07:59:46]: NO ERROR. [404, Level 74]: HardreenClutch:
+[2021-04-06 08:00:13]:   [, Level 0]: Boti.: xd
+[2021-04-06 08:00:17]:   [, Level 0]: Boti.: XDD
+[2021-04-06 08:00:18]: kiøn1029 [.bad, Level 0]: XDDD
