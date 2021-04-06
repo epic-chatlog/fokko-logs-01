@@ -5425,3 +5425,5 @@
 [2021-04-06 06:36:39]: ***  [, Level 0]: [D] Sutzer finished in: 2 minute(s) 24.74 second(s)
 [2021-04-06 06:36:39]: ***  [, Level 0]: Sutzer finished in: 2 minute(s) 24.98 second(s)
 [2021-04-06 06:36:40]: ᅟᅟ [, Level 60]: so im better
+[2021-04-06 06:36:51]: ***  [, Level 0]: power's killing spree was ended by RoberGN (7 blocks)
+[2021-04-06 06:36:53]: ᅟᅟ [, Level 60]: ChillerudeDragon
