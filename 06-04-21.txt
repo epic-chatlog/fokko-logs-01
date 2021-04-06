@@ -7214,3 +7214,5 @@
 [2021-04-06 08:03:21]: ***  [, Level 0]: 'coala12' has left the game (Timeout Protection over)
 [2021-04-06 08:03:21]: ***  [, Level 0]: 'coala45' has left the game (Timeout Protection over)
 [2021-04-06 08:03:25]: kiøn1029 [.bad, Level 0]: [D] toxicdaddy:
+[2021-04-06 08:03:41]: ***  [, Level 0]: Falco642 is on a killing spree with 5 blocks
+[2021-04-06 08:03:51]: ***  [, Level 0]: '(1)coala45' changed name to 'coala45"'
