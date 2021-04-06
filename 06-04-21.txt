@@ -5188,3 +5188,4 @@
 [2021-04-06 06:15:13]: Swarfey [FookinLads, Level 37]: fokkonaut: da müssen die nix implementen für webhooks
 [2021-04-06 06:15:16]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-06 06:15:42]: ***  [, Level 0]: 'Neoteny' entered and joined the game
+[2021-04-06 06:16:04]: Swarfey [FookinLads, Level 37]: fokkonaut: is die bridge open source?
