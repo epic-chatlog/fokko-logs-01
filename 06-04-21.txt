@@ -11015,3 +11015,5 @@
 [2021-04-06 11:23:01]: ***  [, Level 0]: 'Stains' has left the game
 [2021-04-06 11:23:01]: FayZoR [, Level 42]: hmmmmmm: je crois qu'il crois que t'es moi mdr
 [2021-04-06 11:23:05]: GOLD [404, Level 40]: hmmmmmm: t'es qui
+[2021-04-06 11:23:05]: ***  [, Level 0]: 'BulgarianTee' has left the game
+[2021-04-06 11:23:08]:   [, Level 0]: comic: what are you typing
