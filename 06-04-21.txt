@@ -5047,3 +5047,7 @@
 [2021-04-06 06:06:25]: fokkonaut [, Level 102]: nö geht mit \ davor
 [2021-04-06 06:06:27]: Discord [, Level 39]: fokkonaut: \´hi\`
 [2021-04-06 06:06:28]: ss [, Level 3]: HELP PLS
+[2021-04-06 06:06:38]: ***  [, Level 0]: '(2)ss' entered and joined the game
+[2021-04-06 06:06:41]: Discord [, Level 39]: Swarfey: `\``
+[2021-04-06 06:06:41]: ***  [, Level 0]: '(2)ss' joined the spectators
+[2021-04-06 06:06:51]: Discord [, Level 39]: fokkonaut: \`hi\`
