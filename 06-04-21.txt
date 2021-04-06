@@ -12314,3 +12314,5 @@
 [2021-04-06 12:56:49]: Fearless [, Level 40]: ES:  men
 [2021-04-06 12:56:58]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-06 12:57:19]: Fearless [, Level 40]: any²:
+[2021-04-06 12:57:56]: ***  [, Level 0]: 'BC|Tixnix' has left the game (Timeout)
+[2021-04-06 12:58:00]: Kirito♥ [♥, Level 35]: any: hahahaha
