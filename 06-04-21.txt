@@ -12538,3 +12538,7 @@
 [2021-04-06 13:25:18]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
 [2021-04-06 13:25:26]: Fidɍage [SkinLover, Level 34]: smile
 [2021-04-06 13:25:33]: Fearless [, Level 40]: Axandos:  XDD
+[2021-04-06 13:25:35]: ***  [, Level 0]: '(1)i' entered and joined the game
+[2021-04-06 13:25:36]: ***  [, Level 0]: fomjn's killing spree was ended by any (10 blocks)
+[2021-04-06 13:25:45]: ***  [, Level 0]: [POLICE-CHANNEL] 'any' is spawnblocking. Catch him!
+[2021-04-06 13:25:46]: Fearless [, Level 40]: Axandos:  ill tell shiro u raped me
