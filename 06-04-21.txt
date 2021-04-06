@@ -9993,3 +9993,10 @@
 [2021-04-06 10:29:16]: (1)Axandos [, Level 25]: auch nix BC|kakashi
 [2021-04-06 10:29:17]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-06 10:29:24]: BC|kakashi [BC, Level 0]: (1)Axandos: nice :)
+[2021-04-06 10:29:28]: ***  [, Level 0]: 'Axel' entered and joined the game
+[2021-04-06 10:29:30]: (1)Axandos [, Level 25]: :D
+[2021-04-06 10:29:31]: ***  [, Level 0]: 'NO ERROR.' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-06 10:29:32]: ***  [, Level 0]: 'Axel' has left the game
+[2021-04-06 10:29:33]: ***  [, Level 0]: '(1)ERROR' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-06 10:29:33]: ***  [, Level 0]: 'ERROR.' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-06 10:29:33]: ***  [, Level 0]: 'ERROR' has left the game (Too weak connection (not acked for 60 seconds))
