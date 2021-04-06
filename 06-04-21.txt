@@ -5332,3 +5332,7 @@
 [2021-04-06 06:29:50]: Pimka✿ [FookinLads, Level 29]: Swarfey: gay
 [2021-04-06 06:29:56]: Swarfey [FookinLads, Level 37]: Pimka☀: yes u
 [2021-04-06 06:30:00]: ***  [, Level 0]: 'drakie' entered and joined the game
+[2021-04-06 06:30:04]: ***  [, Level 0]: 'Nôt_us' has left the game
+[2021-04-06 06:30:06]: ***  [, Level 0]: 'Nôt_us' entered and joined the game
+[2021-04-06 06:30:09]: [D] toxicdaddy [, Level 21]: TASER
+[2021-04-06 06:30:14]: Swarfey [FookinLads, Level 37]: taserdragon
