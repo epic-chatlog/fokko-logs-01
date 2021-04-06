@@ -11117,3 +11117,5 @@
 [2021-04-06 11:30:58]: mami [, Level 1]: :spec
 [2021-04-06 11:30:59]: Maatiteusz [TrRShClNrRs, Level 35]: any: im killing yello
 [2021-04-06 11:31:00]: mami [, Level 1]: :spec
+[2021-04-06 11:31:04]: Demon [DD-persian, Level 10]: grenade
+[2021-04-06 11:31:10]: ***  [, Level 0]: 'lolo2378' entered and joined the game
