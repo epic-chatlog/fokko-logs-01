@@ -12828,3 +12828,5 @@
 [2021-04-06 13:54:28]: lefo [, Level 0]: please
 [2021-04-06 13:54:31]: fomjn [RUA, Level 0]: lefo: no :p
 [2021-04-06 13:54:36]: lefo [, Level 0]: baka
+[2021-04-06 13:54:45]: ***  [, Level 0]: fomjn is on a killing spree with 5 blocks
+[2021-04-06 13:54:49]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
