@@ -12428,3 +12428,5 @@
 [2021-04-06 13:11:25]: ***  [, Level 0]: 'Asta' entered and joined the game
 [2021-04-06 13:11:28]: Fearless [, Level 40]: Asta:  nub
 [2021-04-06 13:11:35]: Fearless [, Level 40]: Asta:  bad smile
+[2021-04-06 13:11:53]: ***  [, Level 0]: 'lefo' has left the game
+[2021-04-06 13:11:58]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
