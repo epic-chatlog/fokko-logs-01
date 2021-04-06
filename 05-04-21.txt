@@ -15495,3 +15495,5 @@
 [2021-04-05 23:07:57]: ***  [, Level 0]: 'Mista bombastic' has left the game
 [2021-04-05 23:08:02]: PoliceTee [xSD7, Level 25]: mista rj and rq
 [2021-04-05 23:08:11]: Boti. [.bad, Level 32]: i made a boti eggp it was a bad idea
+[2021-04-05 23:09:34]: ***  [, Level 0]: 'Anatomy' entered and joined the game
+[2021-04-05 23:09:39]: PoliceTee [xSD7, Level 25]: anatomy rj
