@@ -1662,3 +1662,6 @@
 [2021-04-06 01:29:13]: ***  [, Level 0]: 'Писька' entered and joined the game
 [2021-04-06 01:29:18]: Falco641 [, Level 19]: 1: stop spawn blocking xd
 [2021-04-06 01:29:35]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-06 01:29:43]: ***  [, Level 0]: Cylox finished in: 1 minute(s) 40.30 second(s)
+[2021-04-06 01:29:43]: ***  [, Level 0]: New record: 27.06 second(s) better.
+[2021-04-06 01:29:43]: Foxie♥ [♥, Level 35]: Nudelsaft c:: wait
