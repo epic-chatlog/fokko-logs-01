@@ -12910,3 +12910,4 @@
 [2021-04-06 14:06:07]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
 [2021-04-06 14:06:13]: [D] toxicdaddy [, Level 22]: soleri1: one chance
 [2021-04-06 14:06:14]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
+[2021-04-06 14:06:22]: soleri1 [, Level 0]: [D] toxicdaddy: ok
