@@ -1975,3 +1975,5 @@
 [2021-04-06 01:46:17]: Kezo [FookinLads, Level 0]: ERROR: i cant help you xD have lags
 [2021-04-06 01:46:17]: Boti. [.bad, Level 33]: bulginak van 400kja azt mondta hogy majd ad
 [2021-04-06 01:46:20]: Amiral [, Level 0]: ChillerDragon.*: Can I help u ?
+[2021-04-06 01:46:23]: ChillerDragon [|*KoG*|, Level 44]: sure
+[2021-04-06 01:46:25]: ERROR [404, Level 56]: Kezo:  well i lagg since yesterday
