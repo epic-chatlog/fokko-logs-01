@@ -3261,3 +3261,9 @@
 [2021-04-06 03:09:06]: weqe [MNKY, Level 12]: Nudelsaft c:: ur loves talks to u like that ?
 [2021-04-06 03:09:11]: NO ERROR. [404, Level 74]: Nudelsaft c::  ok
 [2021-04-06 03:09:25]: weqe [MNKY, Level 12]: ERROR: give money
+[2021-04-06 03:09:29]: Nudelsaft c: [FookinLads, Level 37]: weqe: ye
+[2021-04-06 03:09:32]: NO ERROR. [404, Level 74]: no moni
+[2021-04-06 03:09:33]: ***  [, Level 0]: 'Red Fox' has left the game
+[2021-04-06 03:09:35]: weqe [MNKY, Level 12]: pls give moni
+[2021-04-06 03:09:38]: weqe [MNKY, Level 12]: me poor
+[2021-04-06 03:09:41]: ***  [, Level 0]: 'White Wolf' entered and joined the game
