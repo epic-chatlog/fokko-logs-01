@@ -3005,3 +3005,5 @@
 [2021-04-06 02:47:14]: ***  [, Level 0]: 'Red Fox' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
 [2021-04-06 02:47:22]: weqe [MNKY, Level 11]: EvenFatterAss: FLAG
 [2021-04-06 02:47:38]: ***  [, Level 0]: 'Isegrin' has left the game
+[2021-04-06 02:47:45]: weqe [MNKY, Level 11]: WAIT Telefantastic WTF
+[2021-04-06 02:47:54]: weqe [MNKY, Level 11]: EvenFatterAss: FLAG PLS
