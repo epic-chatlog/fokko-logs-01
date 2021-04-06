@@ -4541,3 +4541,7 @@
 [2021-04-06 04:40:18]: ***  [, Level 0]: 'power' has left the game
 [2021-04-06 04:40:39]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-06 04:40:58]: ビール|Scorp [, Level 0]: ая
+[2021-04-06 04:40:58]: Not WarHammer [, Level 26]: çillerdagoor
+[2021-04-06 04:40:59]: ビール|Scorp [, Level 0]: а я
+[2021-04-06 04:41:02]: ビール|Scorp [, Level 0]: CKA3A4NIK:
+[2021-04-06 04:41:07]: ビール|Scorp [, Level 0]: я пустой
