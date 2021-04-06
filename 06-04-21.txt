@@ -12646,3 +12646,4 @@
 [2021-04-06 13:32:06]: ***  [, Level 0]: 'nameless tee' would have timed out, but can use timeout protection now
 [2021-04-06 13:32:10]: ***  [, Level 0]: 'fomjn' has left the game
 [2021-04-06 13:32:10]: ***  [, Level 0]: 'fomin' has left the game
+[2021-04-06 13:32:18]: (1)i [, Level 0]: any: trop tard
