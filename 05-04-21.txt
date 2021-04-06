@@ -15074,3 +15074,5 @@
 [2021-04-05 19:09:26]: ***  [, Level 0]: 'σмєтнιηg' has left the game
 [2021-04-05 19:10:51]: (1)P4Pyr0s [, Level 0]: ✯Hunter.exe: ?
 [2021-04-05 19:10:54]: (1)P4Pyr0s [, Level 0]: was machst du da xD
+[2021-04-05 19:11:11]: ***  [, Level 0]: '(1)P4Pyr0s' has left the game
+[2021-04-05 19:11:19]: ✯Hunter.exe [|Supressed|, Level 35]: das
