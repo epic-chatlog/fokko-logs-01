@@ -12330,3 +12330,5 @@
 [2021-04-06 13:01:14]: Axandos [, Level 25]: nice
 [2021-04-06 13:01:41]: ***  [, Level 0]: 'Jean Baptiste' has left the game
 [2021-04-06 13:01:58]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-06 13:02:17]: ***  [, Level 0]: '[D] i' has left the game
+[2021-04-06 13:02:19]: ***  [, Level 0]: 'ez' entered and joined the game
