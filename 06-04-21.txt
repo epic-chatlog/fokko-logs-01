@@ -9773,3 +9773,6 @@
 [2021-04-06 10:10:50]: YelloWorlD [404, Level 41]: vien
 [2021-04-06 10:10:55]: ***  [, Level 0]: [POLICE-CHANNEL] 'SoniCN' is spawnblocking. Catch him!
 [2021-04-06 10:11:11]: x7|Chronos [xSD7, Level 0]: YelloWorlD: cmb de jumps ? et l'endless ? sinon c'est inutile
+[2021-04-06 10:11:19]: ***  [, Level 0]: 'Demon,' has left the game
+[2021-04-06 10:11:21]: YelloWorlD [404, Level 41]: rien
+[2021-04-06 10:11:22]: ***  [, Level 0]: 'Demon,' entered and joined the game
