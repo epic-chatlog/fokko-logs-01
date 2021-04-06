@@ -4863,3 +4863,6 @@
 [2021-04-06 05:56:36]: fokkonaut [, Level 102]: sieg
 [2021-04-06 05:56:40]: ChillerDragon [Chilli.*, Level 44]: oof
 [2021-04-06 05:56:49]: ChillerDragon [Chilli.*, Level 44]: h
+[2021-04-06 05:56:54]: ***  [, Level 0]: 'DARWINS YT 18' entered and joined the game
+[2021-04-06 05:56:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-06 05:57:02]: fokkonaut [, Level 102]: ChillerDragon: fookinlads hat chat log auf deren discord
