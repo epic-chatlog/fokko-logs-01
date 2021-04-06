@@ -8536,3 +8536,11 @@
 [2021-04-06 09:04:09]: GReeeN [, Level 0]: ビール|Scorp:  yess
 [2021-04-06 09:04:14]: ***  [, Level 0]: 'Catty' joined the spectators
 [2021-04-06 09:04:15]:   [, Level 0]: Ļåҕ Lobster: Telefantastic: hello bro
+[2021-04-06 09:04:17]: ***  [, Level 0]: 'Catty' joined the game
+[2021-04-06 09:04:18]:   [, Level 0]: Ļåҕ Lobster: ChillerDragon: salut !
+[2021-04-06 09:04:19]: x7|FayZoR [xSD7, Level 42]: Hunter.exe: proof it
+[2021-04-06 09:04:22]: ***  [, Level 0]: 'ビール|Scorp' has left the game
+[2021-04-06 09:04:22]: ***  [, Level 0]: 'ビール|Zero' has left the game
+[2021-04-06 09:04:22]: (1)kais [, Level 58]: ChillerDragon: wut, u don't know hello ?
+[2021-04-06 09:04:24]: ChillerDragon.* [Chilli.*, Level 41]: salut Ļåҕ Lobster
+[2021-04-06 09:04:27]: ChillerDragon.* [Chilli.*, Level 41]: now i do
