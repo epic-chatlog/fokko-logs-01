@@ -13710,3 +13710,6 @@
 [2021-04-06 16:52:39]: ***  [, Level 0]: '(3)Kirito♥' has left the game
 [2021-04-06 16:53:41]: ***  [, Level 0]: '(1)Kirito♥' has left the game (Timeout)
 [2021-04-06 16:53:41]: ***  [, Level 0]: 'Kirito♥' has left the game (Timeout)
+[2021-04-06 16:56:41]: ***  [, Level 0]: 'leazerteam' has left the game
+[2021-04-06 16:56:41]: ***  [, Level 0]: x7|KshKsh99 finished in: 0 minute(s) 49.20 second(s)
+[2021-04-06 16:56:41]: ***  [, Level 0]: New record: 30.22 second(s) better.
