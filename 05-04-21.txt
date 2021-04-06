@@ -15089,3 +15089,4 @@
 [2021-04-05 19:33:47]: ***  [, Level 0]: 'Hady' entered and joined the game
 [2021-04-05 19:34:08]: ***  [, Level 0]: 'Hady' has left the game
 [2021-04-05 19:36:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-05 19:41:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
