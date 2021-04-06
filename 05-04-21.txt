@@ -15160,3 +15160,5 @@
 [2021-04-05 20:36:15]: SAUD [, Level 22]: bs kl shoy yjonk nas
 [2021-04-05 20:36:34]: x7|KshKsh99 [xSD7, Level 37]: tone 4ab7 ✯Hunter.exe
 [2021-04-05 20:36:39]: SAUD [, Level 22]: ana afrm f alpolice al9b7 zy 4a alw8t mafyh a7d
+[2021-04-05 20:36:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-05 20:37:01]: x7|KshKsh99 [xSD7, Level 37]: t3al
