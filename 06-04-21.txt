@@ -4744,3 +4744,6 @@
 [2021-04-06 05:46:44]: fokkonaut [, Level 102]: wer
 [2021-04-06 05:46:46]: ChillerDragon [|*KoG*|, Level 44]: acc share oder so fokkonaut
 [2021-04-06 05:46:49]: ChillerDragon [|*KoG*|, Level 44]: blocker #5 und kion
+[2021-04-06 05:46:55]: WarHammer' [, Level 16]: fps drop
+[2021-04-06 05:46:58]: fokkonaut [, Level 102]: whisper ma accname
+[2021-04-06 05:46:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
