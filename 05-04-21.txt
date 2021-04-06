@@ -14957,3 +14957,4 @@
 [2021-04-05 18:00:54]: ***  [, Level 0]: 'Λtlantis Ψ' changed name to 'σмєтнιηg'
 [2021-04-05 18:01:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-05 18:06:40]: σмєтнιηg [zε†α, Level 37]: huso
+[2021-04-05 18:06:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
