@@ -4602,3 +4602,4 @@
 [2021-04-06 05:32:30]: NO ERROR. [404, Level 74]: I like turtles.
 [2021-04-06 05:32:31]: NO ERROR. [404, Level 74]: xDDDD
 [2021-04-06 05:32:39]: ***  [, Level 0]: 'ビール|Scorp' entered and joined the game
+[2021-04-06 05:32:48]: ***  [, Level 0]: 'VIktor Robban' has left the game
