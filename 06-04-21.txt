@@ -4651,3 +4651,4 @@
 [2021-04-06 05:37:11]: ***  [, Level 0]: [POLICE-CHANNEL] 'WarHammer' has been caught by 'fokkonaut' (19 minutes arrest)
 [2021-04-06 05:37:21]: ***  [, Level 0]: (1)ss finished in: 2 minute(s) 30.74 second(s)
 [2021-04-06 05:37:35]: ***  [, Level 0]: 'Neoteny' has left the game
+[2021-04-06 05:38:05]: WarHammer [, Level 0]: fokoooooooooooo
