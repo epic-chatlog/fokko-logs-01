@@ -7425,3 +7425,10 @@
 [2021-04-06 08:16:41]: ***  [, Level 0]: [POLICE-CHANNEL] 'power' is spawnblocking. Catch him!
 [2021-04-06 08:16:42]: kiøn1029 [.bad, Level 25]: XDDD
 [2021-04-06 08:16:47]: Boti. [.bad, Level 33]: azaz
+[2021-04-06 08:16:50]: ***  [, Level 0]: power is on a killing spree with 5 blocks
+[2021-04-06 08:16:50]: ***  [, Level 0]: [POLICE-CHANNEL] 'power' is spawnblocking. Catch him!
+[2021-04-06 08:16:55]: Boti. [.bad, Level 33]: 600k egy kurva spawn fegyver
+[2021-04-06 08:16:55]: ***  [, Level 0]: [POLICE-CHANNEL] 'power' is spawnblocking. Catch him!
+[2021-04-06 08:16:55]:   [, Level 0]: WarHammer: ERROR:  yapmassın demi kral ;D
+[2021-04-06 08:16:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-06 08:16:59]: ***  [, Level 0]: 'nameless tee' has left the game
