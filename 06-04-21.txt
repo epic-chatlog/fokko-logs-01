@@ -3212,3 +3212,6 @@
 [2021-04-06 03:04:25]: [D] Sutzer [Guard, Level 0]: Shiro.: whats your problem
 [2021-04-06 03:04:31]: ***  [, Level 0]: 'Raffaello' entered and joined the game
 [2021-04-06 03:04:32]: Nudelsaft c: [FookinLads, Level 37]: Shiro.: ez
+[2021-04-06 03:05:02]: SAUD [, Level 22]: xD
+[2021-04-06 03:05:04]: ***  [, Level 0]: 'Red Fox ,' entered and joined the game
+[2021-04-06 03:05:06]: Nudelsaft c: [FookinLads, Level 37]: lag?
