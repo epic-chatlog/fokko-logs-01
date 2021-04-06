@@ -12916,3 +12916,6 @@
 [2021-04-06 14:06:56]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
 [2021-04-06 14:07:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-06 14:07:01]: ***  [, Level 0]: '(1)teec tac' entered and joined the game
+[2021-04-06 14:07:11]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
+[2021-04-06 14:07:14]: ***  [, Level 0]: fomjn is on a killing spree with 15 blocks
+[2021-04-06 14:07:14]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
