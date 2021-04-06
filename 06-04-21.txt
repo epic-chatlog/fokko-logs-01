@@ -2623,3 +2623,5 @@
 [2021-04-06 02:09:58]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-06 02:10:00]: Boti. [.bad, Level 33]: buh
 [2021-04-06 02:10:01]:   [, Level 0]: ♫Amirian♬: Boti.: discord Amirian#3371
+[2021-04-06 02:10:07]: Boti. [.bad, Level 33]: ♫Amirian♬: got it
+[2021-04-06 02:10:16]: ChillerDragon.* [Chilli.*, Level 41]: Telefantastic: i made some adjustments to flappy latley i still wait for fokko to merge them tho
