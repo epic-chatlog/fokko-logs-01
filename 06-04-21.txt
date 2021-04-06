@@ -6623,3 +6623,7 @@
 [2021-04-06 07:34:51]: ***  [, Level 0]: 'pls no kill' entered and joined the game
 [2021-04-06 07:34:56]: Killua [FookinLads, Level 37]: lmao
 [2021-04-06 07:34:59]:   [, Level 0]: Shiro.: ta gueule le random retourne farm et farme la
+[2021-04-06 07:35:00]: ***  [, Level 0]: [POLICE-CHANNEL] 'pls no kill' has been caught by 'Isegrin' (10 minutes arrest)
+[2021-04-06 07:35:02]: ChillerDragon.* [Chilli.*, Level 41]: paix Shiro.
+[2021-04-06 07:35:06]:   [, Level 0]: Shiro.: ChillerDragon: wat
+[2021-04-06 07:35:09]: ChillerDragon.* [|*KoG*|, Level 41]: paix
