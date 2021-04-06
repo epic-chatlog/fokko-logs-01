@@ -11323,3 +11323,6 @@
 [2021-04-06 11:45:43]: ***  [, Level 0]: '(1)' changed name to 'guy'
 [2021-04-06 11:45:45]: any² [404, Level 25]: GOLD: hey
 [2021-04-06 11:45:45]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-06 11:45:47]: ***  [, Level 0]: '(1)guy' entered and joined the game
+[2021-04-06 11:45:52]:   [, Level 0]: Foxie♥: Kirito♥: whacha doin?
+[2021-04-06 11:45:59]: ***  [, Level 0]: 'Marcisten' entered and joined the game
