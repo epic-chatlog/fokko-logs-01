@@ -15414,3 +15414,4 @@
 [2021-04-05 22:04:05]: ***  [, Level 0]: WarHammer' finished in: 2 minute(s)  3.94 second(s)
 [2021-04-05 22:04:45]: ***  [, Level 0]: 'zєυѕ' entered and joined the game
 [2021-04-05 22:05:37]: ***  [, Level 0]: ERROR finished in: 80 minute(s) 15.76 second(s)
+[2021-04-05 22:06:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
