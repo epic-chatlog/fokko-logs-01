@@ -1227,3 +1227,5 @@
 [2021-04-06 01:01:40]: Koishi [A, Level 0]: A(
 [2021-04-06 01:01:45]: Koishi [A, Level 0]: Shiro.: yyyyy
 [2021-04-06 01:01:50]: OP|Supers [OldPlayers, Level 0]: P4Pyr0s:  nimm es nicht persönlich :D
+[2021-04-06 01:01:57]: P4Pyr0s [, Level 0]: tue ich
+[2021-04-06 01:01:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
