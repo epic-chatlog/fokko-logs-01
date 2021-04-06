@@ -15164,3 +15164,8 @@
 [2021-04-05 20:37:01]: x7|KshKsh99 [xSD7, Level 37]: t3al
 [2021-04-05 20:37:09]: SAUD [, Level 22]: where
 [2021-04-05 20:37:17]: x7|KshKsh99 [xSD7, Level 37]: bmshe ana
+[2021-04-05 20:37:22]: SAUD [, Level 22]: k
+[2021-04-05 20:37:24]: x7|KshKsh99 [xSD7, Level 37]: slam
+[2021-04-05 20:37:25]: ***  [, Level 0]: 'Mr.KshKsh99' has left the game
+[2021-04-05 20:37:25]: ***  [, Level 0]: 'x7|KshKsh99' has left the game
+[2021-04-05 20:37:26]: SAUD [, Level 22]: slam
