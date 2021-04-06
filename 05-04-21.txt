@@ -14726,3 +14726,8 @@
 [2021-04-05 17:05:01]: S Y T H N [iPro, Level 37]: x7|FayZoR: good night  :D
 [2021-04-05 17:05:05]: ***  [, Level 0]: 'x7|KshKsh99' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-05 17:05:13]: x7|FayZoR [xSD7, Level 42]: hmmmmmm: vas depose
+[2021-04-05 17:05:18]: ***  [, Level 0]: 'x7|KshKsh99' entered and joined the game
+[2021-04-05 17:05:21]: ***  [, Level 0]: 'x7|KshKsh99' has left the game
+[2021-04-05 17:05:21]: hmmmmmm [, Level 8]: i can try with you
+[2021-04-05 17:05:29]: ***  [, Level 0]: 'x7|KshKsh99' entered and joined the game
+[2021-04-05 17:05:30]: x7|FayZoR [xSD7, Level 42]: hmmmmmm: qui ?
