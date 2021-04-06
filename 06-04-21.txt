@@ -2633,3 +2633,6 @@
 [2021-04-06 02:10:49]: ChillerDragon.* [|*KoG*|, Level 41]: yes Telefantastic
 [2021-04-06 02:10:55]: ***  [, Level 0]: 'power2' entered and joined the game
 [2021-04-06 02:11:00]: ***  [, Level 0]: 'Gatito OwO' has left the game
+[2021-04-06 02:11:05]: ***  [, Level 0]: 'MieSlime' entered and joined the game
+[2021-04-06 02:11:09]: Boti. [.bad, Level 33]: megtoljuk
+[2021-04-06 02:11:15]: ChillerDragon.* [|*KoG*|, Level 41]: the fix is not very exciting Telefantastic just fixed stuck in bank
