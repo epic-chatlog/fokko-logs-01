@@ -15119,3 +15119,4 @@
 [2021-04-05 20:04:35]: ***  [, Level 0]: 'P4Pyr0s' would have timed out, but can use timeout protection now
 [2021-04-05 20:04:35]: ***  [, Level 0]: 'KriegInCome' would have timed out, but can use timeout protection now
 [2021-04-05 20:04:36]: ***  [, Level 0]: '(1)' has left the game (Timeout)
+[2021-04-05 20:05:58]: ***  [, Level 0]: 'x7|zemer' has left the game
