@@ -10068,3 +10068,7 @@
 [2021-04-06 10:32:35]: ***  [, Level 0]: 'tee in black' has left the game
 [2021-04-06 10:32:36]: ***  [, Level 0]: [POLICE-CHANNEL] 'ölüm bekçisi' is spawnblocking. Catch him!
 [2021-04-06 10:32:36]: ***  [, Level 0]: '[D] Deadmouse' finished the special race!
+[2021-04-06 10:32:43]: ***  [, Level 0]: 'dENy_X' joined the spectators
+[2021-04-06 10:32:45]: ***  [, Level 0]: MORFY finished in: 4 minute(s)  3.80 second(s)
+[2021-04-06 10:32:47]: ***  [, Level 0]: '✔Pouet{D}' entered and joined the game
+[2021-04-06 10:32:47]: ***  [, Level 0]: 'dENy_X' joined the game
