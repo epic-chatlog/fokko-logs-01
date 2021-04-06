@@ -6870,3 +6870,8 @@
 [2021-04-06 07:45:50]: ***  [, Level 0]: 'GReeeN' entered and joined the game
 [2021-04-06 07:45:51]:   [, Level 0]: (1)Foxi♥: Meetiteusz: noob
 [2021-04-06 07:45:53]: ***  [, Level 0]: '(1)i' entered and joined the game
+[2021-04-06 07:45:59]:   [, Level 0]: sus69: gyerünk kion
+[2021-04-06 07:46:00]: ***  [, Level 0]: '(1)Cosmo' finished the special race!
+[2021-04-06 07:46:00]: Pimka✿ [FookinLads, Level 29]: kais:
+[2021-04-06 07:46:09]:   [, Level 0]: (1)Foxi♥: Meetiteusz: use granade
+[2021-04-06 07:46:09]: Killua [FookinLads, Level 37]: ERROR: idk smthing with translation of msges in tw i dont have an idea yet
