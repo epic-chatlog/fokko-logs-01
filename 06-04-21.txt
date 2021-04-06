@@ -8347,3 +8347,7 @@
 [2021-04-06 08:55:13]:   [, Level 0]: (2)ChillerDragon: madam toujours kais? xd
 [2021-04-06 08:55:15]: kais [, Level 65]: ChillerDragon.*: guerra ? xD
 [2021-04-06 08:55:17]: (1)Meetiteusz [TrRShClNrRs, Level 14]: toxicdaddy: dont apologize me when you will want farm in police
+[2021-04-06 08:55:24]: ***  [, Level 0]: 'Catty' joined the spectators
+[2021-04-06 08:55:27]: ***  [, Level 0]: 'Catty' joined the game
+[2021-04-06 08:55:28]: [D] Boti. [.bad, Level 0]: igen így
+[2021-04-06 08:55:29]:   [, Level 0]: Mista bombastic: Axandos: when the server doesnt appear i start the original teeworlds, i reload there the servers and it appears on ddnet too
