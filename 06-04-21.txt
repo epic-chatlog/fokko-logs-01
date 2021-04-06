@@ -4659,3 +4659,6 @@
 [2021-04-06 05:38:55]: ***  [, Level 0]: 'toxicdaddy' entered and joined the game
 [2021-04-06 05:39:09]: WarHammer [, Level 26]: fokkooooooooo
 [2021-04-06 05:39:12]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-06 05:39:21]: mami [Ape, Level 16]: fokkoo
+[2021-04-06 05:39:21]: fokkonaut [, Level 102]: WarHammer:
+[2021-04-06 05:39:24]: mami [Ape, Level 16]: help me
