@@ -7267,3 +7267,4 @@
 [2021-04-06 08:08:35]: ***  [, Level 0]: 's7_sven' has left the game (Timeout Protection over)
 [2021-04-06 08:08:37]:   [, Level 0]: Boti.: fullos vok taserből
 [2021-04-06 08:08:39]: ***  [, Level 0]: [POLICE-CHANNEL] '»ℱℬℑ«' is spawnblocking. Catch him!
+[2021-04-06 08:08:56]: ***  [, Level 0]: »ℱℬℑ«'s killing spree was ended by Falco641 (8 blocks)
