@@ -12911,3 +12911,5 @@
 [2021-04-06 14:06:13]: [D] toxicdaddy [, Level 22]: soleri1: one chance
 [2021-04-06 14:06:14]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomjn' is spawnblocking. Catch him!
 [2021-04-06 14:06:22]: soleri1 [, Level 0]: [D] toxicdaddy: ok
+[2021-04-06 14:06:32]: ***  [, Level 0]: 'teec tac' entered and joined the game
+[2021-04-06 14:06:37]: Isegrin [, Level 54]: polis boss B)
