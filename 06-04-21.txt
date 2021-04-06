@@ -5364,3 +5364,5 @@
 [2021-04-06 06:32:01]: ***  [, Level 0]: 'drakie' entered and joined the game
 [2021-04-06 06:32:09]: Nudelsaft c: [FookinLads, Level 60]: ss: fr?
 [2021-04-06 06:32:22]: ChillerDragon [Chilli.*, Level 44]: bro flappy xd
+[2021-04-06 06:32:39]: Souly [acqwerty, Level 60]: ChillerDragon:
+[2021-04-06 06:32:39]: (1)ss [, Level 12]: jetpack gun
