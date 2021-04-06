@@ -7295,3 +7295,5 @@
 [2021-04-06 08:10:11]: ***  [, Level 0]: [POLICE-CHANNEL] '»ℱℬℑ«' is spawnblocking. Catch him!
 [2021-04-06 08:10:12]: Boti. [.bad, Level 33]: tyhard level 1000
 [2021-04-06 08:10:13]: »ℱℬℑ« [, Level 0]: HAHAHA
+[2021-04-06 08:10:19]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-06 08:10:27]: ***  [, Level 0]: [POLICE-CHANNEL] '»ℱℬℑ«' is spawnblocking. Catch him!
