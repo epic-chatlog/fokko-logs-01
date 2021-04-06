@@ -1661,3 +1661,4 @@
 [2021-04-06 01:29:12]: Vodo4ka [JB.st, Level 41]: Virus: corona
 [2021-04-06 01:29:13]: ***  [, Level 0]: 'Писька' entered and joined the game
 [2021-04-06 01:29:18]: Falco641 [, Level 19]: 1: stop spawn blocking xd
+[2021-04-06 01:29:35]: ***  [, Level 0]: 'Virus' has left the game
