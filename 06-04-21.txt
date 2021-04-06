@@ -12391,3 +12391,4 @@
 [2021-04-06 13:06:36]: ***  [, Level 0]: '[D] BC|kakashi' has left the game
 [2021-04-06 13:06:58]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-06 13:07:16]: ***  [, Level 0]: '♥TAKO♥' has left the game
+[2021-04-06 13:07:21]: ***  [, Level 0]: '☻' changed name to 'MieSlime'
