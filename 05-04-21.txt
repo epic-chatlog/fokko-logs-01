@@ -15079,3 +15079,4 @@
 [2021-04-05 19:11:29]: ✯Hunter.exe [|Supressed|, Level 35]: guna
 [2021-04-05 19:11:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-05 19:12:44]: ***  [, Level 0]: 'bielgamer' entered and joined the game
+[2021-04-05 19:13:00]: ***  [, Level 0]: 'bielgamer' joined the spectators
