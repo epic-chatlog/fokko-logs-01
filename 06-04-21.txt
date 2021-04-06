@@ -8027,3 +8027,9 @@
 [2021-04-06 08:44:23]: ***  [, Level 0]: 'Catty' entered and joined the game
 [2021-04-06 08:44:26]: Boti. [.bad, Level 33]: nem is válaszol :(
 [2021-04-06 08:44:30]: ***  [, Level 0]: 'Catty' has left the game
+[2021-04-06 08:44:32]: ***  [, Level 0]: 'Catty' entered and joined the game
+[2021-04-06 08:44:35]: kiøn1029 [.bad, Level 25]: nem szeretnek
+[2021-04-06 08:44:37]: Boti. [.bad, Level 33]: igen
+[2021-04-06 08:44:38]: Boti. [.bad, Level 33]: kötsögök
+[2021-04-06 08:44:41]: kiøn1029 [.bad, Level 25]: igen
+[2021-04-06 08:44:42]: Boti. [.bad, Level 33]: pedig kölcsön kell csak
