@@ -8455,3 +8455,9 @@
 [2021-04-06 09:00:35]: (2)ChillerDrago [Chilli.*, Level 44]: ami kais
 [2021-04-06 09:00:39]: (2)ChillerDrago [Chilli.*, Level 44]: paix kais
 [2021-04-06 09:00:47]: (1)kais [, Level 58]: ChillerDragon: now you said "help kais" so i can understand that you want me to help kais
+[2021-04-06 09:00:51]: ***  [, Level 0]: 'Ļåҕ Lobster' entered and joined the game
+[2021-04-06 09:00:54]: ***  [, Level 0]: 'kiøn1029' has left the game
+[2021-04-06 09:00:54]: ***  [, Level 0]: 'Kiøn1029' has left the game
+[2021-04-06 09:00:55]: ***  [, Level 0]: 'Catty' joined the spectators
+[2021-04-06 09:00:56]: (2)ChillerDrago [|*KoG*|, Level 44]: moi aide kais
+[2021-04-06 09:00:59]: ***  [, Level 0]: 'Catty' joined the game
