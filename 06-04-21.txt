@@ -5307,3 +5307,5 @@
 [2021-04-06 06:28:19]: ***  [, Level 0]: 'ビール|Scorp' has left the game
 [2021-04-06 06:28:20]: ChillerDragon [Chilli.*, Level 44]: 404
 [2021-04-06 06:28:24]: Swarfey [FookinLads, Level 37]: ChillerDragon: hilf mir
+[2021-04-06 06:28:36]: ***  [, Level 0]: 'Isegrin' has left the game (Timeout)
+[2021-04-06 06:28:41]: ChillerDragon [Chilli.*, Level 44]: aber any is n arsch ERROR
