@@ -12858,3 +12858,4 @@
 [2021-04-06 13:58:03]: ***  [, Level 0]: [POLICE-CHANNEL] 'Isegrin' is spawnblocking. Catch him!
 [2021-04-06 13:58:08]: fomjn [RUA, Level 0]: oops :p
 [2021-04-06 13:58:16]: ***  [, Level 0]: 'soleri1' entered and joined the game
+[2021-04-06 13:58:38]: ***  [, Level 0]: [POLICE-CHANNEL] 'Isegrin' is spawnblocking. Catch him!
