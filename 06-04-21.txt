@@ -1665,3 +1665,5 @@
 [2021-04-06 01:29:43]: ***  [, Level 0]: Cylox finished in: 1 minute(s) 40.30 second(s)
 [2021-04-06 01:29:43]: ***  [, Level 0]: New record: 27.06 second(s) better.
 [2021-04-06 01:29:43]: Foxie♥ [♥, Level 35]: Nudelsaft c:: wait
+[2021-04-06 01:29:54]: Foxie♥ [♥, Level 35]: Nudelsaft c:: IM DOWN
+[2021-04-06 01:29:59]: Nudelsaft c: [FookinLads, Level 37]: YEA I KNOW
