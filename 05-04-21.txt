@@ -16178,3 +16178,12 @@
 [2021-04-05 23:54:47]: ***  [, Level 0]: 'Tuc' has left the game
 [2021-04-05 23:54:48]: ***  [, Level 0]: 'Tuc' entered and joined the game
 [2021-04-05 23:54:49]: HeavyGeneral [, Level 0]: ASADDSADASADSADSADASASDFDADASASFFADSFSAFDFDASGDFASFGDASFDASDFSADFGASFGDSAGFFGDASDDFGSADFGSAGFDASFDASFDFSAFDGHSAGHFDSAFHDFHSAFDAFDSFADFASFJADSFDJGFSADFASDDFASJDJFSAJFDSADSDJFGSADJFASDASDFGSADJFSAFGDASDFASDFG
+[2021-04-05 23:54:51]: x7|KshKsh99 [XSD7, Level 0]: ASADDSADASADSADSADASASDFDADASASFFADSFSAFDFDASGDFASFGDASFDASDFSADFGASFGDSAGFFGDASDDFGSADFGSAGFDASFDASFDFSAFDGHSAGHFDSAFHDFHSAFDAFDSFADFASFJADSFDJGFSADFASDDFASJDJFSAJFDSADSDJFGSADJFASDASDFGSADJFSAFGDASDFAS
+[2021-04-05 23:54:54]: ***  [, Level 0]: 'kais' finished the special race!
+[2021-04-05 23:54:54]: ***  [, Level 0]: kais finished in: 90 minute(s) 34.26 second(s)
+[2021-04-05 23:54:55]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-05 23:54:58]: ***  [, Level 0]: (1)kais finished in: 89 minute(s) 19.60 second(s)
+[2021-04-05 23:54:58]: ***  [, Level 0]: '(1)kais' finished the special race!
+[2021-04-05 23:54:59]: ***  [, Level 0]: (1)x7|KshKsh99 is on a killing spree with 10 blocks
+[2021-04-05 23:55:01]: x7|KshKsh99 [XSD7, Level 0]: Ƭevan: анатомик
+[2021-04-05 23:55:01]: BulgarianTee [xSD7, Level 38]: (1)x7|KshKsh99: even tho im logged in im fake?
