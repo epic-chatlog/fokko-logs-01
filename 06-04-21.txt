@@ -10348,3 +10348,10 @@
 [2021-04-06 10:48:27]: ***  [, Level 0]: 'K҉E҉N҉O҉' entered and joined the game
 [2021-04-06 10:48:28]: GOLD [404, Level 40]: Kaptar: 1 1
 [2021-04-06 10:48:43]: BC|kakashi [BC, Level 0]: hey any hast du DC?
+[2021-04-06 10:48:55]: any [404, Level 37]: BC|kakashi: nine dutch
+[2021-04-06 10:48:55]: GOLD [404, Level 40]: Kaptar: 1 2
+[2021-04-06 10:48:57]: zZzerayI [QuietLegend, Level 24]: MORPHIN:
+[2021-04-06 10:49:01]: GOLD [404, Level 40]: Kaptar: 2 2
+[2021-04-06 10:49:02]: Kaptar [, Level 24]: en cb ?
+[2021-04-06 10:49:04]: ***  [, Level 0]: 'Telefantastic' has left the game
+[2021-04-06 10:49:07]: Hunter.exe [|Supressed|, Level 35]: any: nein deutsch
