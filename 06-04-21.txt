@@ -12852,3 +12852,4 @@
 [2021-04-06 13:57:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-06 13:57:03]: ***  [, Level 0]: (2)ChillerDragon finished in: 74 minute(s) 45.76 second(s)
 [2021-04-06 13:57:04]: Isegrin [, Level 54]: fomjn:
+[2021-04-06 13:57:13]: ***  [, Level 0]: [POLICE-CHANNEL] 'Isegrin' is spawnblocking. Catch him!
