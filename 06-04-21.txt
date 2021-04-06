@@ -2497,3 +2497,6 @@
 [2021-04-06 02:03:16]: ChillerDragon [Chilli.*, Level 44]: YelloWorlD: what is hello?
 [2021-04-06 02:03:17]: ***  [, Level 0]: 'iMxtteo' entered and joined the game
 [2021-04-06 02:03:23]: Foxie♥ [♥, Level 35]: Swarfey: he said war 4 life to me
+[2021-04-06 02:03:24]: YelloWorlD [404, Level 37]: chillerdagorn: salut
+[2021-04-06 02:03:28]: ChillerDragon [Chilli.*, Level 44]: salut YelloWorlD
+[2021-04-06 02:03:31]: ChillerDragon [Chilli.*, Level 44]: ez french
