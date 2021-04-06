@@ -15444,3 +15444,5 @@
 [2021-04-05 22:42:12]: ***  [, Level 0]: '[D] falkenauge' entered and joined the game
 [2021-04-05 22:42:19]: ***  [, Level 0]: 'Wheels.' entered and joined the game
 [2021-04-05 22:42:21]: ***  [, Level 0]: 's6_sven' entered and joined the game
+[2021-04-05 22:43:12]: ***  [, Level 0]: 'Andromeda' entered and joined the game
+[2021-04-05 22:43:13]: ***  [, Level 0]: 'Andromeda' has left the game
