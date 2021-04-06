@@ -5357,3 +5357,8 @@
 [2021-04-06 06:31:30]: ERROR [404, Level 56]: pfffff
 [2021-04-06 06:31:30]: GODLIKe [hax, Level 0]: i: ı dont need
 [2021-04-06 06:31:37]: ERROR [404, Level 56]: PFFFFFFFFF
+[2021-04-06 06:31:56]: ***  [, Level 0]: 'RoberGN' entered and joined the game
+[2021-04-06 06:31:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-06 06:32:00]: ***  [, Level 0]: 'drakie' has left the game (Timeout)
+[2021-04-06 06:32:00]: ChillerDragon [|*KoG*|, Level 44]: xD
+[2021-04-06 06:32:01]: ***  [, Level 0]: 'drakie' entered and joined the game
