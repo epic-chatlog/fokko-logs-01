@@ -14738,3 +14738,7 @@
 [2021-04-05 17:06:14]: x7|KshKsh99 [xSD7, Level 0]: no
 [2021-04-05 17:06:18]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-05 17:06:36]: UselessTee [, Level 0]: O
+[2021-04-05 17:06:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-05 17:07:00]: x7|KshKsh99 [xSD7, Level 0]: endless 8 jump ?
+[2021-04-05 17:07:00]: x7|Chronos [xSD7, Level 35]: so bye :D i go bed x7|KshKsh99
+[2021-04-05 17:07:09]: hmmmmmm [, Level 8]: x7|FayZoR: tu vas laisser ton jeu farm
