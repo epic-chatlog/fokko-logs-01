@@ -7237,3 +7237,6 @@
 [2021-04-06 08:06:00]:   [, Level 0]: Boti.: DE KION
 [2021-04-06 08:06:09]: kiøn1029 [.bad, Level 0]: hm?
 [2021-04-06 08:06:18]:   [, Level 0]: Boti.: semmi
+[2021-04-06 08:06:21]: ***  [, Level 0]: 'Sergej' has left the game
+[2021-04-06 08:06:25]: ***  [, Level 0]: »ℱℬℑ« is on a killing spree with 5 blocks
+[2021-04-06 08:06:30]: ***  [, Level 0]: 'nameless tee' entered and joined the game
