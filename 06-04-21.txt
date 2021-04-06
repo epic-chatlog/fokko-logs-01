@@ -10825,3 +10825,8 @@
 [2021-04-06 11:10:31]: ☺ [, Level 0]: xd
 [2021-04-06 11:10:31]: Kaptar [, Level 24]: hein xd ?
 [2021-04-06 11:10:35]: ERROR. [404, Level 74]: AAAAAAAAAAAAAAAA
+[2021-04-06 11:10:42]: FayZoR [, Level 42]: tu te rappel des gars hier ?
+[2021-04-06 11:10:47]: ***  [, Level 0]: '|HolyHo|' entered and joined the game
+[2021-04-06 11:10:49]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-06 11:10:49]: ☺ [, Level 0]: ouais
+[2021-04-06 11:10:50]: GOLD [404, Level 40]: Kaptar: 0 1
