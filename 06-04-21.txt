@@ -990,3 +990,6 @@
 [2021-04-06 00:45:57]: x7|gaytee [.bad, Level 27]: inc
 [2021-04-06 00:46:02]: x7|gaytee [.bad, Level 27]: XDD
 [2021-04-06 00:46:04]: ERROR. [404, Level 74]: FUCKING relaxo
+[2021-04-06 00:46:15]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
+[2021-04-06 00:46:18]: ***  [, Level 0]: 'OpTEEmus Crime' has left the game
+[2021-04-06 00:46:18]: ***  [, Level 0]: 'ßumßelTEE' has left the game
