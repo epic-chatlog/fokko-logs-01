@@ -3084,3 +3084,6 @@
 [2021-04-06 02:55:36]: ERROR. [404, Level 47]: OMG
 [2021-04-06 02:55:44]: Nudelsaft c: [FookinLads, Level 37]: wow jetzt ibn ich schon hier
 [2021-04-06 02:55:45]: Nudelsaft c: [FookinLads, Level 37]: xD
+[2021-04-06 02:55:59]: ***  [, Level 0]: '♥JustRace♥' entered and joined the game
+[2021-04-06 02:56:01]: NO ERROR. [404, Level 74]: leute
+[2021-04-06 02:56:02]: EvenFatterAss [, Level 36]: WTF
