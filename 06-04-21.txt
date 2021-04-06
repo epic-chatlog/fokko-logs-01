@@ -1964,3 +1964,11 @@
 [2021-04-06 01:45:55]: ERROR [404, Level 56]: Kezo:  who
 [2021-04-06 01:45:57]: Nudelsaft c: [FookinLads, Level 37]: omg
 [2021-04-06 01:45:57]: Boti. [.bad, Level 33]: igen
+[2021-04-06 01:45:58]: Kezo [FookinLads, Level 0]: mamikral011: hayır
+[2021-04-06 01:45:59]: Nudelsaft c: [FookinLads, Level 37]: im retarded
+[2021-04-06 01:46:01]: Kezo [FookinLads, Level 0]: ERROR: Swarfey
+[2021-04-06 01:46:03]: Nudelsaft c: [FookinLads, Level 37]: XD
+[2021-04-06 01:46:05]: ERROR [404, Level 56]: yeah right Kezo
+[2021-04-06 01:46:06]: Nudelsaft c: [FookinLads, Level 37]: i forgot
+[2021-04-06 01:46:07]: mamikral011 [, Level 0]: Kezo: diemen zaten de
+[2021-04-06 01:46:10]: ***  [, Level 0]: 'VeemID' finished the special race!
