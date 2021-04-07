@@ -5572,3 +5572,7 @@
 [2021-04-07 06:29:30]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-07 06:29:32]: Nudelsaft c: [FookinLads, Level 0]: f
 [2021-04-07 06:29:34]: ***  [, Level 0]: '__init__(self):' finished the special race!
+[2021-04-07 06:29:46]: cookie [, Level 17]: nooo
+[2021-04-07 06:29:51]: ***  [, Level 0]: '#3 blocker' entered and joined the game
+[2021-04-07 06:29:54]: ***  [, Level 0]: 'Lucas' entered and joined the game
+[2021-04-07 06:29:55]: cookie [, Level 17]: f"{self.name}":  help
