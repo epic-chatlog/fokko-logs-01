@@ -13999,3 +13999,5 @@
 [2021-04-06 22:17:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-06 22:17:01]: (3)SAUD [, Level 14]: xD
 [2021-04-06 22:17:22]: Boti. but 0.7 [0.7 sux, Level 0]: CANT EVEN HAMMER XDD
+[2021-04-06 22:17:28]: Boti. but 0.7 [0.7 sux, Level 0]: why is hammer and rocket hard in 0.7
+[2021-04-06 22:17:33]: (3)SAUD [, Level 14]: idk
