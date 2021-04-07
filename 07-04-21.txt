@@ -5237,3 +5237,9 @@
 [2021-04-07 05:10:57]: ***  [, Level 0]: '[D] falkenauge' has left the game
 [2021-04-07 05:10:57]: ***  [, Level 0]: 'falkenauge' has left the game
 [2021-04-07 05:11:01]: mT Азазел [mT, Level 38]: Anatomy:
+[2021-04-07 05:11:16]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-07 05:11:18]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-07 05:11:18]: ***  [, Level 0]: 'Kezo' has left the game
+[2021-04-07 05:11:20]: ***  [, Level 0]: 'jorden' would have timed out, but can use timeout protection now
+[2021-04-07 05:11:20]: ***  [, Level 0]: 'Staubsau[Ger]' entered and joined the game
+[2021-04-07 05:11:21]: ***  [, Level 0]: 'gian x' joined the game
