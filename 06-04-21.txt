@@ -14418,3 +14418,5 @@
 [2021-04-06 23:02:11]: puppy [, Level 0]: mT Азазел:  ?
 [2021-04-06 23:02:12]: mT Азазел [, Level 38]: puppy: second gun
 [2021-04-06 23:02:16]: BulgarianTee [xSD7, Level 0]: x7|KshKsh99: pika was good
+[2021-04-06 23:02:21]: mT Азазел [, Level 38]: use second gun
+[2021-04-06 23:02:23]: mT Азазел [, Level 38]: YES
