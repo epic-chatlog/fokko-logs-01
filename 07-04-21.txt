@@ -2438,3 +2438,8 @@
 [2021-04-07 02:37:28]: ***  [, Level 0]: any's killing spree was ended by weqe (5 blocks)
 [2021-04-07 02:37:30]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 28.52 second(s)
 [2021-04-07 02:37:39]: weqe [MNKY, Level 12]: 16 money wtf
+[2021-04-07 02:38:00]: [D] 4jaja4 [, Level 19]: ChillerDragon.*:
+[2021-04-07 02:38:01]: Maatiteusz [TrRShClNrRs, Level 35]: Who the fuck is this invicible idiot
+[2021-04-07 02:38:04]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-07 02:38:05]: Batman [, Level 0]: bob: ?
+[2021-04-07 02:38:10]: Maatiteusz [TrRShClNrRs, Level 35]: who are you
