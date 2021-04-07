@@ -13995,3 +13995,6 @@
 [2021-04-06 22:15:17]: (3)SAUD [, Level 14]: ?
 [2021-04-06 22:15:34]: Boti. [.bad, Level 27]: RoberGN: go in plots and you can pickup every weapon
 [2021-04-06 22:16:25]: ***  [, Level 0]: 'Boti. but 0.7' entered and joined the game
+[2021-04-06 22:16:56]: Boti. but 0.7 [0.7 sux, Level 0]: cant rocketjump on 0.7 XD
+[2021-04-06 22:17:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-06 22:17:01]: (3)SAUD [, Level 14]: xD
