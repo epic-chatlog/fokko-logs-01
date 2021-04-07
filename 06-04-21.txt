@@ -13981,3 +13981,4 @@
 [2021-04-06 22:12:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-06 22:12:07]: Boti. [.bad, Level 33]: god idea but i have to logout because no police on dummy
 [2021-04-06 22:12:14]: (3)SAUD [, Level 14]: k
+[2021-04-06 22:13:45]: (3)SAUD [, Level 14]: RoberGN: try to cros the bridge with out jumps and gernade
