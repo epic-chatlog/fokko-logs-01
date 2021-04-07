@@ -5057,3 +5057,8 @@
 [2021-04-07 05:01:47]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-07 05:01:47]: x7_sven [xSD7, Level 17]: Deadmouse: `?
 [2021-04-07 05:01:48]: ***  [, Level 0]: 'Bloople Lord' has left the game (Timeout)
+[2021-04-07 05:01:56]: GODLIKe [hax, Level 44]: (1)SS: WAR
+[2021-04-07 05:01:58]: ***  [, Level 0]: 'NetFlix' entered and joined the game
+[2021-04-07 05:02:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-07 05:02:00]: ***  [, Level 0]: GODLIKe.'s killing spree was ended by weqe (6 blocks)
+[2021-04-07 05:02:02]:   [, Level 0]: Isegrin: hhh3: JAJAJAa
