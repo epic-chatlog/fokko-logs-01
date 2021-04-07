@@ -9355,3 +9355,7 @@
 [2021-04-07 12:15:37]: ***  [, Level 0]: 'bob weqe fan' entered and joined the game
 [2021-04-07 12:15:44]: [D] MNKY | Arin [, Level 0]: any:  stop!
 [2021-04-07 12:15:46]: [D] mamikral011 [DogParty, Level 21]: bob: war
+[2021-04-07 12:15:47]: ***  [, Level 0]: 'KoalasSindCool' has left the game
+[2021-04-07 12:15:50]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
+[2021-04-07 12:15:53]: [D] mamikral011 [DogParty, Level 21]: Kezo:
+[2021-04-07 12:15:58]: |HolyHo| [, Level 0]: Woona: u rlly
