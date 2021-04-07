@@ -10011,3 +10011,7 @@
 [2021-04-07 13:08:07]: SwiatoslaW [, Level 38]: ok
 [2021-04-07 13:08:19]: ***  [, Level 0]: '|HolyHo|°' has left the game
 [2021-04-07 13:08:19]: ***  [, Level 0]: '|HolyHo|' has left the game
+[2021-04-07 13:08:22]: ***  [, Level 0]: '[D] SwiatoslaW' has left the game
+[2021-04-07 13:08:22]: ***  [, Level 0]: 'SwiatoslaW' has left the game
+[2021-04-07 13:08:28]: ***  [, Level 0]: 'Axel ²' has left the game
+[2021-04-07 13:08:28]: ***  [, Level 0]: 'Axel' has left the game
