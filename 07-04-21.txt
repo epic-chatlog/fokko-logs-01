@@ -7296,3 +7296,8 @@
 [2021-04-07 10:44:16]: OP|Supers [DogParty, Level 39]: YelloWorlD:  is arin your enemy?
 [2021-04-07 10:44:17]: ***  [, Level 0]: '[D] Cylox' entered and joined the game
 [2021-04-07 10:44:20]: Cosmo [, Level 20]: Lucas: helpz
+[2021-04-07 10:44:25]: Cosmo [, Level 20]: Lucas: help
+[2021-04-07 10:44:27]: OP|Supers [DogParty, Level 39]: YelloWorlD:  is arin your enemy?
+[2021-04-07 10:44:31]: Cosmo [, Level 20]: Lucas: help
+[2021-04-07 10:44:34]: YelloWorlD [DogParty, Level 41]: OP|Supers: yes
+[2021-04-07 10:44:36]: Cosmo [, Level 20]: Lucas: help
