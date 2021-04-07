@@ -5623,3 +5623,6 @@
 [2021-04-07 06:33:31]: ***  [, Level 0]: toxicdaddy's killing spree was ended by ERROR (5 blocks)
 [2021-04-07 06:33:39]: ***  [, Level 0]: 'power' has left the game
 [2021-04-07 06:33:39]: ***  [, Level 0]: 'power2' has left the game
+[2021-04-07 06:33:47]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
+[2021-04-07 06:33:47]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-07 06:33:50]:   [, Level 0]: Swarfey: test
