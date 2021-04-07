@@ -5592,3 +5592,4 @@
 [2021-04-07 06:31:41]: ***  [, Level 0]: (3)УБИВАТЬ! is on a killing spree with 55 blocks
 [2021-04-07 06:31:42]:   [, Level 0]: power2: 600 seconds arrest Cylox♥
 [2021-04-07 06:31:46]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-07 06:32:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
