@@ -6312,3 +6312,8 @@
 [2021-04-07 07:13:49]: ***  [, Level 0]: '(1)' entered and joined the game
 [2021-04-07 07:13:52]: toxicdaddy [, Level 26]: kais: ;/
 [2021-04-07 07:13:55]: ***  [, Level 0]: 'Discord' changed name to 'o'
+[2021-04-07 07:13:57]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[2021-04-07 07:14:02]: Boti. [.bad, Level 0]: lul
+[2021-04-07 07:14:04]: ←   [, Level 0]: Discord
+[2021-04-07 07:14:04]: → Nudelsaft c: [FookinLads, Level 0]: changed name to Discord!
+[2021-04-07 07:14:04]: ***  [, Level 0]: '(1)Discord' changed name to 'Discord'
