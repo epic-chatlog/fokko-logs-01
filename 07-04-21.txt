@@ -5380,3 +5380,7 @@
 [2021-04-07 05:26:22]: Isegrin [, Level 54]: PRANk
 [2021-04-07 05:26:38]: ***  [, Level 0]: 'Foxie♥' entered and joined the game
 [2021-04-07 05:26:48]: ***  [, Level 0]: '(2)Cosmo' has left the game
+[2021-04-07 05:26:57]: Zéphir™ [, Level 39]: Cylox♥: nope
+[2021-04-07 05:26:57]: weqe [MNKY, Level 12]: NO [D] Cylox♥
+[2021-04-07 05:27:00]: [D] Cylox♥ [♥, Level 24]: ok
+[2021-04-07 05:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
