@@ -5100,3 +5100,5 @@
 [2021-04-07 05:04:00]: ***  [, Level 0]: 'oyun kırallı' entered and joined the game
 [2021-04-07 05:04:04]: ***  [, Level 0]: 'SS' has left the game
 [2021-04-07 05:04:04]: (1)Kotik [, Level 12]: Anatomy: +
+[2021-04-07 05:04:11]: Anatomy [MaL4iki kz, Level 35]: Kotik: хули +, долбоеб
+[2021-04-07 05:04:12]: Anatomy [MaL4iki kz, Level 35]: на +w
