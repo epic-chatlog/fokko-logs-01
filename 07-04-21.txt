@@ -9756,3 +9756,6 @@
 [2021-04-07 12:42:27]: Kenshi™ [, Level 0]: any: uiui
 [2021-04-07 12:42:41]: Kenshi™ [, Level 0]: any: oauis je connais xD
 [2021-04-07 12:42:43]: ***  [, Level 0]: woona is on a killing spree with 5 blocks
+[2021-04-07 12:42:51]: ***  [, Level 0]: 'Woona' has left the game
+[2021-04-07 12:42:51]: ***  [, Level 0]: 'woona' has left the game
+[2021-04-07 12:42:54]: Axel ² [TrRShClNrRs, Level 20]: rq
