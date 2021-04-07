@@ -5542,3 +5542,5 @@
 [2021-04-07 06:27:42]: ***  [, Level 0]: 'x7|Flappy' changed name to 'x7|flappy'
 [2021-04-07 06:27:48]:   [, Level 0]: Swarfey: abc
 [2021-04-07 06:27:53]: ***  [, Level 0]: 'Flo' entered and joined the game
+[2021-04-07 06:27:59]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game
+[2021-04-07 06:27:59]: ***  [, Level 0]: 'Swarfey' has left the game
