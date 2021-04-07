@@ -1326,3 +1326,5 @@
 [2021-04-07 01:31:44]: ***  [, Level 0]: 'Clément' entered and joined the game
 [2021-04-07 01:31:50]: ***  [, Level 0]: '(1)1' finished the special race!
 [2021-04-07 01:31:50]: ***  [, Level 0]: '1' finished the special race!
+[2021-04-07 01:32:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-07 01:32:02]: Maatiteusz [TrRShClNrRs, Level 35]: power: drop him here
