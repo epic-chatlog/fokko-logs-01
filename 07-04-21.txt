@@ -5598,3 +5598,5 @@
 [2021-04-07 06:32:26]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
 [2021-04-07 06:32:30]: ***  [, Level 0]: 'K!ked' entered and joined the game
 [2021-04-07 06:32:36]: x7|sven [xSD7, Level 17]: kurama:
+[2021-04-07 06:32:44]:   [, Level 0]: ERROR: Xddd
+[2021-04-07 06:32:46]: ***  [, Level 0]: '(1)Kaptar' has left the game
