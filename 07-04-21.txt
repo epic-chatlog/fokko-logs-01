@@ -1319,3 +1319,7 @@
 [2021-04-07 01:31:19]: ***  [, Level 0]: sL|cunt's killing spree was ended by VeemID (6 blocks)
 [2021-04-07 01:31:22]: ***  [, Level 0]: s7_sven finished in: 1 minute(s) 38.04 second(s)
 [2021-04-07 01:31:22]: ***  [, Level 0]: Marcisten Dummy finished in: 3 minute(s) 35.96 second(s)
+[2021-04-07 01:31:38]: ***  [, Level 0]: toxicdaddy finished in: 3 minute(s) 36.82 second(s)
+[2021-04-07 01:31:38]: ***  [, Level 0]: 'toxicdaddy' finished the special race!
+[2021-04-07 01:31:41]: ***  [, Level 0]: [D] toxicdaddy finished in: 7 minute(s) 44.64 second(s)
+[2021-04-07 01:31:41]: ***  [, Level 0]: '[D] toxicdaddy' finished the special race!
