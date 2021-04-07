@@ -13835,3 +13835,4 @@
 [2021-04-06 18:07:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-06 18:12:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-06 18:17:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-06 18:22:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
