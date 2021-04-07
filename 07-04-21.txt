@@ -11105,3 +11105,4 @@
 [2021-04-07 16:40:11]: rafel [otakos, Level 0]: PRO
 [2021-04-07 16:40:15]: Hunter.exe [|Supressed|, Level 36]: schnauze
 [2021-04-07 16:40:15]: ***  [, Level 0]: 'a' changed name to '[D] \\Syth'
+[2021-04-07 16:40:36]: Hunter.exe [|Supressed|, Level 36]: rafel: was bist du eigentlich für ein Bastard
