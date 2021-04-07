@@ -5732,3 +5732,8 @@
 [2021-04-07 06:39:24]: ***  [, Level 0]: '(1)kais' has left the game (Timeout Protection over)
 [2021-04-07 06:39:28]:   [, Level 0]: ERROR.: (2)УБИВАТ:  rly
 [2021-04-07 06:39:29]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-07 06:39:30]: weqe [MNKY, Level 12]: power2: well i didnt ask for money xd
+[2021-04-07 06:39:31]: ***  [, Level 0]: Kotik is on a killing spree with 20 blocks
+[2021-04-07 06:39:32]: (2)УБИВАТ [, Level 0]: ERROR.: sorry
+[2021-04-07 06:39:33]: ***  [, Level 0]: (3)УБИВАТЬ! is on a killing spree with 60 blocks
+[2021-04-07 06:39:33]: Nudelsaft c: [FookinLads, Level 0]: ^-^
