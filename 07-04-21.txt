@@ -7892,3 +7892,6 @@
 [2021-04-07 11:09:57]:   [, Level 0]: ERROR: Nudelsaft c::  nö
 [2021-04-07 11:10:05]:   [, Level 0]: ERROR: Swarfey:  bist auch helper
 [2021-04-07 11:10:18]:   [, Level 0]: .S L E E P Y': any: >
+[2021-04-07 11:10:35]: ***  [, Level 0]: '♥JustRace♥' entered and joined the game
+[2021-04-07 11:10:38]:   [, Level 0]: RoberGN: I dont worck with him
+[2021-04-07 11:10:41]: ***  [, Level 0]: 'Axandos' entered and joined the game
