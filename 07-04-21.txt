@@ -2613,3 +2613,6 @@
 [2021-04-07 02:48:00]: ***  [, Level 0]: 'Axandos²' has left the game
 [2021-04-07 02:48:04]: Isegrin [, Level 54]: ChillerDragon.*: virus is in clan idk him :-D
 [2021-04-07 02:48:05]: f"{self.name}" [, Level 18]: Axandos: how you know my age ??
+[2021-04-07 02:48:08]: ChillerDragon.* [|*KoG*|, Level 41]: xD
+[2021-04-07 02:48:10]: Virus [, Level 49]: (1)chillerdagor: YEE
+[2021-04-07 02:48:14]: bob [Legacy™, Level 36]: weqe: boring
