@@ -6984,3 +6984,9 @@
 [2021-04-07 08:39:42]: ERROR [404, Level 74]: rq
 [2021-04-07 08:39:42]: Warrior [, Level 24]: rq
 [2021-04-07 08:39:44]:   [, Level 0]: Kezo: rq
+[2021-04-07 08:39:46]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
+[2021-04-07 08:39:46]: ERROR [404, Level 74]: snacks
+[2021-04-07 08:39:46]: mamikral011 [, Level 26]: Friendiship ;-): help
+[2021-04-07 08:39:46]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-07 08:39:48]:   [, Level 0]: Swarfey: \(
+[2021-04-07 08:39:51]: ***  [, Level 0]: 'Falco641' has left the game
