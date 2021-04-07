@@ -10048,3 +10048,5 @@
 [2021-04-07 13:12:12]: ***  [, Level 0]: 'kropkowaty' has left the game
 [2021-04-07 13:12:14]: ***  [, Level 0]: 'kropkowaty' entered and joined the game
 [2021-04-07 13:12:16]: ***  [, Level 0]: 'Λtlantis Ψ' changed name to '(2)σмєтнιηg'
+[2021-04-07 13:12:44]: ♥TAKO♥ [, Level 25]: wait
+[2021-04-07 13:12:46]: ***  [, Level 0]: '(1)σмєтнιηg' changed name to 'x7|Flipper'
