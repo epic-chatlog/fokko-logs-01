@@ -14786,3 +14786,6 @@
 [2021-04-06 23:29:51]: ***  [, Level 0]: New record: 28.46 second(s) better.
 [2021-04-06 23:29:53]: (1)kais [, Level 58]: no
 [2021-04-06 23:29:57]: PoliceTee [xSD7, Level 38]: shit rip fps
+[2021-04-06 23:30:12]: ***  [, Level 0]: 'Cosmo' has left the game (Timeout)
+[2021-04-06 23:30:12]: ***  [, Level 0]: '(1)Cosmo' has left the game (Timeout)
+[2021-04-06 23:30:13]: BulgarianTee [xSD7, Level 0]: E
