@@ -1366,3 +1366,5 @@
 [2021-04-07 01:35:25]: Meetiteusz [TrRShClNrRs, Level 0]: Isegrin: zajeb te kurwy
 [2021-04-07 01:35:28]: ***  [, Level 0]: '[2] VeemID' entered and joined the game
 [2021-04-07 01:35:37]: Isegrin [, Level 54]: Meetiteusz: bez tasera ni ma jak
+[2021-04-07 01:36:11]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)1' is spawnblocking. Catch him!
+[2021-04-07 01:36:11]: Hady [new bot, Level 33]: Maatiteusz: lol
