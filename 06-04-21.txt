@@ -13865,3 +13865,5 @@
 [2021-04-06 19:02:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-06 19:07:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-06 19:12:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-06 19:12:04]: ***  [, Level 0]: 'toxicdaddy' has left the game (Timeout)
+[2021-04-06 19:12:04]: ***  [, Level 0]: '[D] toxicdaddy' has left the game (Timeout)
