@@ -1088,3 +1088,8 @@
 [2021-04-07 01:04:06]: ***  [, Level 0]: '°R | Kirito' has left the game
 [2021-04-07 01:04:15]: ***  [, Level 0]: 'rayen' entered and joined the game
 [2021-04-07 01:04:18]: Black Wolf [, Level 11]: ~DemoizL~: peace? :D
+[2021-04-07 01:04:22]: ***  [, Level 0]: Isegrin is on a killing spree with 10 blocks
+[2021-04-07 01:04:24]: Isegrin [, Level 54]: FAA
+[2021-04-07 01:04:25]: Hady [new bot, Level 33]: Isegrin:  i kill you
+[2021-04-07 01:04:28]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-07 01:04:30]: Isegrin [, Level 54]: XDD
