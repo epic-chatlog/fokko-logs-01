@@ -6519,3 +6519,6 @@
 [2021-04-07 08:12:20]: any [404, Level 42]: YelloWorlD: pk tlm quite 404 ?
 [2021-04-07 08:12:21]: УБИВАТЬ! [, Level 0]: YelloWorlD: yes>> help)
 [2021-04-07 08:12:24]: ChillerDragon.* [Chilli.*, Level 41]: ich muss das aus amchen xd
+[2021-04-07 08:12:31]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-07 08:12:32]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-07 08:12:34]: YelloWorlD [403, Level 41]: any²: qui quitte
