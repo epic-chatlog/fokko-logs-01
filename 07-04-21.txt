@@ -5608,3 +5608,14 @@
 [2021-04-07 06:33:12]:   [, Level 0]: ERROR.: SNACKS
 [2021-04-07 06:33:13]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
 [2021-04-07 06:33:14]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-07 06:33:16]: ***  [, Level 0]: 'soleri1' entered and joined the game
+[2021-04-07 06:33:17]:   [, Level 0]: (1)Nudelsaft c:: asd
+[2021-04-07 06:33:18]: Kirito♥ [♥, Level 35]: ERROR: after 1023189423484192 trys
+[2021-04-07 06:33:20]: ***  [, Level 0]: 'bruh' entered and joined the game
+[2021-04-07 06:33:21]: Kirito♥ [♥, Level 35]: ERROR: gay
+[2021-04-07 06:33:21]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game
+[2021-04-07 06:33:21]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-07 06:33:21]:   [, Level 0]: ERROR.: well
+[2021-04-07 06:33:22]:   [, Level 0]: ERROR.: spam spam
+[2021-04-07 06:33:23]: x7|sven [xSD7, Level 17]: whgo are you
+[2021-04-07 06:33:26]: weqe [MNKY, Level 12]: BC|Tixnix:
