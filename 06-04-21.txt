@@ -15205,3 +15205,7 @@
 [2021-04-06 23:56:11]: ***  [, Level 0]: 'ᅟᅟᅟ' entered and joined the game
 [2021-04-06 23:56:29]: Cylox [♥, Level 30]: any: ı new
 [2021-04-06 23:56:38]: Batman [, Level 0]: Vodo4ka:
+[2021-04-06 23:57:00]: any [404, Level 37]: Cylox: new and lvl 30 ? lol
+[2021-04-06 23:57:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-06 23:57:02]: BulgarianTee [xSD7, Level 0]: Souly's tactic be like "if i spam enough grenade the particles will time them out"
+[2021-04-06 23:57:04]: Vodo4ka [JB.st, Level 41]: SoulyD: left danger
