@@ -14217,3 +14217,6 @@
 [2021-04-06 22:38:25]: ***  [, Level 0]: 'Leblebi' entered and joined the game
 [2021-04-06 22:39:07]: SAUD [, Level 23]: i wook up at 5
 [2021-04-06 22:39:10]: SAUD [, Level 23]: i wook up at 6
+[2021-04-06 22:39:15]: Boti. [.bad, Level 27]: van kedvem valami mc survihoz
+[2021-04-06 22:39:16]: kiøn1029 [.bad, Level 25]: stop
+[2021-04-06 22:39:22]: (3)SAUD [, Level 14]: no
