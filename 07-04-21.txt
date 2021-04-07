@@ -6060,3 +6060,4 @@
 [2021-04-07 06:56:43]:   [, Level 0]: Boti.: csak nem tom megy e
 [2021-04-07 06:56:46]:   [, Level 0]: Kiøn1029: nem baj
 [2021-04-07 06:56:50]: ***  [, Level 0]: 'kais' finished the special race!
+[2021-04-07 06:57:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
