@@ -7033,3 +7033,10 @@
 [2021-04-07 10:31:13]: OP|Supers [DogParty, Level 39]: Sash:
 [2021-04-07 10:31:16]: Fearless [DogParty, Level 40]: ERROR..:  was ap niga
 [2021-04-07 10:31:19]:   [, Level 0]: Sash: ERROR:  ich hab den namen nicht gemacht
+[2021-04-07 10:31:30]:   [, Level 0]: Sash: ERROR:  bin mir nicht sicher ob alles richtig ist xD
+[2021-04-07 10:31:31]: ERROR.. [404, Level 24]: Sash:  xDDDD
+[2021-04-07 10:31:33]: ***  [, Level 0]: '(1)Kirito' has left the game (Timeout)
+[2021-04-07 10:31:33]: ***  [, Level 0]: 'Kirito' has left the game (Timeout)
+[2021-04-07 10:31:34]: YelloWorlD [DogParty, Level 41]: (1)Friendiship : vien dans mon clan x)
+[2021-04-07 10:31:36]: Fearless [DogParty, Level 40]: Lucas: ? ?????
+[2021-04-07 10:31:37]: ERROR.. [404, Level 24]: Sash:  CLIENT xDD
