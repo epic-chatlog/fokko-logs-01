@@ -2989,3 +2989,4 @@
 [2021-04-07 03:22:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 03:22:07]: ***  [, Level 0]: 'BC|Tixnix' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-07 03:22:07]: ***  [, Level 0]: 'BC|kakashi' has left the game (Timeout)
+[2021-04-07 03:22:33]: s7_sven [xSD7, Level 17]: sry toxicdaddy
