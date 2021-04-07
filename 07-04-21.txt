@@ -11110,3 +11110,6 @@
 [2021-04-07 16:41:07]: ***  [, Level 0]: 'Beetlebrick' entered and joined the game
 [2021-04-07 16:41:24]: Hunter.exe [|Supressed|, Level 36]: rafel: ok no response
 [2021-04-07 16:41:27]: Hunter.exe [|Supressed|, Level 36]: rafel: its ok
+[2021-04-07 16:41:34]: ***  [, Level 0]: 'rafel' has left the game (Timeout)
+[2021-04-07 16:41:37]: Hunter.exe [|Supressed|, Level 36]: :D
+[2021-04-07 16:41:38]: ***  [, Level 0]: 'Beetlebrick' has left the game
