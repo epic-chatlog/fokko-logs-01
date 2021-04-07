@@ -11013,3 +11013,4 @@
 [2021-04-07 16:07:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 16:09:41]: ***  [, Level 0]: '(2)УБИВАТЬ!' has left the game
 [2021-04-07 16:12:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-07 16:14:18]: ***  [, Level 0]: 'УБИВАТЬ!' entered and joined the game
