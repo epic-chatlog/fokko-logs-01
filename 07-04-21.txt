@@ -1033,3 +1033,5 @@
 [2021-04-07 00:59:22]: (1)kais [, Level 58]: [D] 4jaja4: i'm level 58, i don't need more xp
 [2021-04-07 00:59:28]: ***  [, Level 0]: 'x7|KshKsh99' entered and joined the game
 [2021-04-07 00:59:28]: [D] 4jaja4 [, Level 18]: kk .d
+[2021-04-07 01:00:02]: ***  [, Level 0]: 'Not Bulash' entered and joined the game
+[2021-04-07 01:00:05]: ***  [, Level 0]: 'Meetiteusz' has left the game
