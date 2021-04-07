@@ -14096,3 +14096,7 @@
 [2021-04-06 22:27:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-06 22:27:15]: (3)SAUD [, Level 14]: olvastam ? Kiøn1029
 [2021-04-06 22:27:17]: (3)SAUD [, Level 14]: szerinted nincs állva u?
+[2021-04-06 22:27:27]: Boti. [.bad, Level 27]: stop
+[2021-04-06 22:27:28]: Boti. [.bad, Level 27]: pls
+[2021-04-06 22:27:30]: (3)SAUD [, Level 14]: xD
+[2021-04-06 22:27:35]: Boti. [.bad, Level 27]: its weird and doesnt mean anything
