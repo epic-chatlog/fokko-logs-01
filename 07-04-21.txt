@@ -7226,3 +7226,6 @@
 [2021-04-07 10:39:22]: ***  [, Level 0]: '(1)SpawnBlocker™' has left the game
 [2021-04-07 10:39:35]: ***  [, Level 0]: '(1)Kirito' has left the game
 [2021-04-07 10:39:35]: ***  [, Level 0]: '(2)Kirito' has left the game
+[2021-04-07 10:39:39]: ***  [, Level 0]: 'A Badass' has left the game
+[2021-04-07 10:39:40]:   [, Level 0]: Sash: YelloWorlD:  its me HardreenClutch
+[2021-04-07 10:39:48]: YelloWorlD [DogParty, Level 41]: Sash: join my clan
