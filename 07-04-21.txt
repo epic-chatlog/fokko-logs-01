@@ -10621,3 +10621,4 @@
 [2021-04-07 14:36:41]: x7|zemer [xSD7, Level 37]: bob: Hatten wir das gleiche ziel?
 [2021-04-07 14:36:50]: x7|zemer [xSD7, Level 37]: bob: Wt
 [2021-04-07 14:36:57]: x7|zemer [xSD7, Level 37]: bob: Warum blockst du
+[2021-04-07 14:37:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
