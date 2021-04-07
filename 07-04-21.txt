@@ -6160,3 +6160,6 @@
 [2021-04-07 07:01:37]: ***  [, Level 0]: '(2)Cosmo' has left the game
 [2021-04-07 07:01:42]:   [, Level 0]: WarHammer: mamikral011:  MEKAN
 [2021-04-07 07:01:47]: ᅟᅟᅟ [, Level 48]: Жучяра
+[2021-04-07 07:01:52]:   [, Level 0]: WarHammer: FOKKOOOO
+[2021-04-07 07:01:58]: weqe [MNKY, Level 12]: [D] Cylox♥:
+[2021-04-07 07:02:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
