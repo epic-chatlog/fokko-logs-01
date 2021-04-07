@@ -2961,3 +2961,4 @@
 [2021-04-07 03:17:03]: ***  [, Level 0]: '(1)TeigHuhn' entered and joined the game
 [2021-04-07 03:17:06]: kais [, Level 65]: Maatiteusz: noo, u belive ? xD
 [2021-04-07 03:17:11]: Maatiteusz [TrRShClNrRs, Level 35]: kais: XD
+[2021-04-07 03:17:23]: ***  [, Level 0]: 'TeigHuhn' has left the game
