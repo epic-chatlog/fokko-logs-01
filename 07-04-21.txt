@@ -10942,3 +10942,6 @@
 [2021-04-07 15:24:22]: Hunter.exe [|Supressed|, Level 36]: was juckt es
 [2021-04-07 15:24:31]: P4Pyr0s [, Level 23]: money police farmneß
 [2021-04-07 15:24:31]: ***  [, Level 0]: 'woona' entered and joined the game
+[2021-04-07 15:24:37]: Hunter.exe [|Supressed|, Level 36]: wenn du gelogen hast mit 100 money dann wird es immer so weiter gehen
+[2021-04-07 15:24:41]: ***  [, Level 0]: 'woona' has left the game
+[2021-04-07 15:24:44]: P4Pyr0s [, Level 23]: sind gerade 700
