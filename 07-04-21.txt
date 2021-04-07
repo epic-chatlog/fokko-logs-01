@@ -10695,3 +10695,11 @@
 [2021-04-07 14:46:25]: Kirito♥ [♥, Level 40]: bob: wallet
 [2021-04-07 14:46:28]: bob [Legacy™, Level 36]: ok moment
 [2021-04-07 14:46:35]: bob [Legacy™, Level 36]: ok go
+[2021-04-07 14:46:39]: ***  [, Level 0]: 'santi_uzum4k1' joined the spectators
+[2021-04-07 14:46:40]: ***  [, Level 0]: 'Kirito♥' started an auction on plot 16 for 15000 money (plot expires on 14.04.2021 (18:00))
+[2021-04-07 14:46:40]: ***  [, Level 0]: Use '/plot buy 15000 Kirito♥' to buy the plot
+[2021-04-07 14:46:43]: bob [Legacy™, Level 36]: 10k
+[2021-04-07 14:46:43]: ***  [, Level 0]: 'santi_uzum4k1' joined the game
+[2021-04-07 14:46:45]: ♥TAKO♥ [, Level 25]: WarHammer:  u want
+[2021-04-07 14:46:47]: ♥TAKO♥ [, Level 25]: Kirito♥:  plot 16?
+[2021-04-07 14:46:48]: ***  [, Level 0]: The plot auction by 'Kirito♥' is cancelled
