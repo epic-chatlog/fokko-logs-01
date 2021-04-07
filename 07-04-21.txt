@@ -1687,3 +1687,6 @@
 [2021-04-07 01:55:41]: ***  [, Level 0]: New record: 8 minute(s) 49.42 second(s) better.
 [2021-04-07 01:55:41]: ***  [, Level 0]: 'mamikral011' finished the special race!
 [2021-04-07 01:55:48]: WarHammer [, Level 26]: mamiğral
+[2021-04-07 01:55:53]: GOLD [404, Level 41]: 4jaja4: u help my enemy
+[2021-04-07 01:55:55]: [D] 4jaja4 [, Level 18]: sorry
+[2021-04-07 01:55:59]: ***  [, Level 0]: 'CKA3A4NIK[NR]' has left the game
