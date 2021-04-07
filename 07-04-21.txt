@@ -2147,3 +2147,7 @@
 [2021-04-07 02:20:52]: CKA3A4NIK[NR] [Night Raid, Level 35]: YelloWorlD:  Who have I helped?
 [2021-04-07 02:20:52]: Discord [, Level 39]: ERROR: GAYS
 [2021-04-07 02:20:53]: weqe [MNKY, Level 12]: ChillerDragon: talk to YelloWorlD pls
+[2021-04-07 02:20:58]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-07 02:21:01]: ChillerDragon [Chilli.*, Level 44]: YelloWorlD: weqe is brother
+[2021-04-07 02:21:02]: weqe [MNKY, Level 12]: bob: brother
+[2021-04-07 02:21:05]: Discord [, Level 39]: ERROR: ChillerDragon yeahtalk to yellow
