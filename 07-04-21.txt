@@ -2258,3 +2258,5 @@
 [2021-04-07 02:26:48]: Cylox [♥, Level 0]: sg
 [2021-04-07 02:26:54]: Discord [, Level 39]: ERROR: Bob gay
 [2021-04-07 02:27:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-07 02:27:04]: [D] Cylox [♥, Level 0]: lan bıraksan a
+[2021-04-07 02:27:08]: Cylox [♥, Level 0]: yaram sal
