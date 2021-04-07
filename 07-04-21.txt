@@ -4517,3 +4517,8 @@
 [2021-04-07 04:30:18]: ***  [, Level 0]: 'Mr.KshKsh99' has left the game
 [2021-04-07 04:30:19]:   [, Level 0]: bob: Mr.KshKsh99: pro
 [2021-04-07 04:30:22]: el champeon [, Level 0]: [D] BC|Tixnix: piece of shit
+[2021-04-07 04:30:23]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-07 04:30:26]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-07 04:30:30]: ***  [, Level 0]: [POLICE-CHANNEL] '[D] Deadmouse' is spawnblocking. Catch him!
+[2021-04-07 04:30:32]: ***  [, Level 0]: 'Anatomyx' has left the game
+[2021-04-07 04:30:32]: ***  [, Level 0]: 'Anatomy' has left the game
