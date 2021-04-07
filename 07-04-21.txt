@@ -2443,3 +2443,5 @@
 [2021-04-07 02:38:04]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-07 02:38:05]: Batman [, Level 0]: bob: ?
 [2021-04-07 02:38:10]: Maatiteusz [TrRShClNrRs, Level 35]: who are you
+[2021-04-07 02:38:16]: [D] 4jaja4 [, Level 19]: ChillerDragon:
+[2021-04-07 02:38:20]: [D] 4jaja4 [, Level 19]: (1)ChillerDrago:
