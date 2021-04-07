@@ -13917,3 +13917,4 @@
 [2021-04-06 20:42:16]: (2)SAUD [, Level 10]: FUCK U <3
 [2021-04-06 20:47:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-06 20:52:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-06 20:57:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
