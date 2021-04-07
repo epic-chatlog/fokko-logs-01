@@ -10903,3 +10903,4 @@
 [2021-04-07 15:10:12]: ***  [, Level 0]: 'iMxtteo' entered and joined the game
 [2021-04-07 15:10:15]: ***  [, Level 0]: '♥TAKO♥' has left the game
 [2021-04-07 15:10:28]: ***  [, Level 0]: 'zemer' entered and joined the game
+[2021-04-07 15:11:01]: ***  [, Level 0]: 'zemer' has left the game
