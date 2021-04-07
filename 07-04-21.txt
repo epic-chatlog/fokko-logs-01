@@ -2482,3 +2482,8 @@
 [2021-04-07 02:40:48]: ***  [, Level 0]: '(1)Sashyboo' has left the game (Timeout)
 [2021-04-07 02:41:07]: Maatiteusz [TrRShClNrRs, Level 35]: . told me ur old clan member who didnt play and i just joined clan when u was emmm you know
 [2021-04-07 02:41:11]: Maatiteusz [TrRShClNrRs, Level 35]: didnt play on serv
+[2021-04-07 02:41:20]: (2)ChillerDrago [|*KoG*|, Level 32]: bob he sorri
+[2021-04-07 02:41:20]: 4jaja4 [, Level 23]: im say sorry
+[2021-04-07 02:41:22]: (2)ChillerDrago [|*KoG*|, Level 32]: why u blox bob
+[2021-04-07 02:41:24]: Axandos [, Level 25]: f"{self.name}":  ur fault u atatcked me
+[2021-04-07 02:41:28]: 4jaja4 [, Level 23]: im not block
