@@ -7889,3 +7889,5 @@
 [2021-04-07 11:09:52]: Boti. [.bad, Level 33]: fixxelve
 [2021-04-07 11:09:52]: Nudelsaft c: [FookinLads, Level 59]: ERROR: stop
 [2021-04-07 11:09:53]: Boti. [.bad, Level 33]: asszem
+[2021-04-07 11:09:57]:   [, Level 0]: ERROR: Nudelsaft c::  nö
+[2021-04-07 11:10:05]:   [, Level 0]: ERROR: Swarfey:  bist auch helper
