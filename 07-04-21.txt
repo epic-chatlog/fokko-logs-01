@@ -6788,3 +6788,6 @@
 [2021-04-07 08:27:35]: ERRORᅟᅟᅟ [404, Level 47]: geh wieder afk
 [2021-04-07 08:27:40]: bob [Legacy™, Level 36]: weqe chillerdragon is #1 enemy
 [2021-04-07 08:27:58]:   [, Level 0]: weqe: ok bob
+[2021-04-07 08:28:11]: ***  [, Level 0]: 'RoberGN' entered and joined the game
+[2021-04-07 08:28:20]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
+[2021-04-07 08:28:20]: ***  [, Level 0]: 'Swarfey' entered and joined the game
