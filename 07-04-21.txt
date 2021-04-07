@@ -9951,3 +9951,9 @@
 [2021-04-07 13:01:39]: Axel ² [TrRShClNrRs, Level 20]: ꜱʟᴏᴡʏ: are you there?
 [2021-04-07 13:01:39]: [D] SwiatoslaW [, Level 28]: x7|cya: left
 [2021-04-07 13:01:54]: [D] SwiatoslaW [, Level 28]: x7|cya: right help
+[2021-04-07 13:01:59]: x7|cya [xSD7, Level 39]: idiot
+[2021-04-07 13:01:59]: ***  [, Level 0]: 'kropkowaty' has left the game
+[2021-04-07 13:02:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-07 13:02:00]: ***  [, Level 0]: 'haxxless tee' entered and joined the game
+[2021-04-07 13:02:01]: ***  [, Level 0]: '3keeksi' entered and joined the game
+[2021-04-07 13:02:02]: ***  [, Level 0]: 'kropkowaty' entered and joined the game
