@@ -10130,3 +10130,5 @@
 [2021-04-07 13:37:32]: ***  [, Level 0]: 'ĦỮǤØ' changed name to '(1)flappy'
 [2021-04-07 13:37:47]: ***  [, Level 0]: '(1)flappy' changed name to 'x7|Flipper'
 [2021-04-07 13:37:56]: [D] ♥TAKO♥ [, Level 0]: Isegrin:  who ur enemy
+[2021-04-07 13:38:01]: Isegrin [, Level 54]: I dont have any
+[2021-04-07 13:38:08]: Swarfey [FookinLads, Level 42]: hi
