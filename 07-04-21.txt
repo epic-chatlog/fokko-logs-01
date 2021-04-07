@@ -9637,3 +9637,5 @@
 [2021-04-07 12:31:00]: ***  [, Level 0]: 'VeemID' would have timed out, but can use timeout protection now
 [2021-04-07 12:31:00]: ***  [, Level 0]: '[2] VeemID' would have timed out, but can use timeout protection now
 [2021-04-07 12:31:02]: MieSlime [FookinLads, Level 43]: [D] BC|kakashi:  x_spec
+[2021-04-07 12:31:12]: MieSlime [FookinLads, Level 43]: S Y T H N:  wait stop
+[2021-04-07 12:31:13]: bob weqe fan [Ape, Level 0]: axel
