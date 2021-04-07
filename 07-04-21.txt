@@ -2517,3 +2517,9 @@
 [2021-04-07 02:43:17]: f"{self.name}" [, Level 0]: Axandos: it was fun
 [2021-04-07 02:43:18]: 4jaja4 [, Level 23]: f"{self.name}":
 [2021-04-07 02:43:19]: 4jaja4 [, Level 23]: f
+[2021-04-07 02:43:20]: 4jaja4 [, Level 23]: f"{self.name}":
+[2021-04-07 02:43:20]: ChillerDragon.* [Chilli.*, Level 41]: his pure existance is bad enough Meetiteusz
+[2021-04-07 02:43:22]: Axandos [, Level 25]: f"{self.name}":  of course
+[2021-04-07 02:43:23]: weqe [MNKY, Level 12]: ~DemoizL~:
+[2021-04-07 02:43:25]: 4jaja4 [, Level 23]: Axandos:
+[2021-04-07 02:43:26]: Maatiteusz [TrRShClNrRs, Level 35]: ChillerDragon: He is good gay
