@@ -5581,3 +5581,5 @@
 [2021-04-07 06:30:22]: ***  [, Level 0]: toxicdaddy is on a killing spree with 5 blocks
 [2021-04-07 06:30:32]: ***  [, Level 0]: Zéphir™ is on a killing spree with 5 blocks
 [2021-04-07 06:30:48]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-07 06:31:14]:   [, Level 0]: power: u dead Cylox♥
+[2021-04-07 06:31:20]: ***  [, Level 0]: 'power2' entered and joined the game
