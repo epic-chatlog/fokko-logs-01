@@ -3525,3 +3525,6 @@
 [2021-04-07 03:55:10]: ***  [, Level 0]: toxicdaddy finished in: 3 minute(s)  0.54 second(s)
 [2021-04-07 03:55:10]: ***  [, Level 0]: 'toxicdaddy' finished the special race!
 [2021-04-07 03:55:22]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
+[2021-04-07 03:55:30]: ***  [, Level 0]: [POLICE-CHANNEL] 'SAUD' is spawnblocking. Catch him!
+[2021-04-07 03:55:33]: 1 [, Level 4]: stop war
+[2021-04-07 03:55:39]: Cleaner 1.0 [, Level 36]: x7|zemer: i watched the demo back
