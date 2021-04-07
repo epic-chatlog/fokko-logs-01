@@ -10424,3 +10424,5 @@
 [2021-04-07 14:07:47]: ERROR [404, Level 74]: terston xDDD
 [2021-04-07 14:07:54]: toxicdaddy [, Level 26]: ERROR:
 [2021-04-07 14:07:57]: WarHammer [, Level 26]: :C
+[2021-04-07 14:08:00]: ERROR [404, Level 74]: ye
+[2021-04-07 14:08:07]: toxicdaddy [, Level 26]: ERROR: ich gehe raus
