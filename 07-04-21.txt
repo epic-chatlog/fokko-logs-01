@@ -11049,3 +11049,7 @@
 [2021-04-07 16:22:14]: УБИВАТЬ! [, Level 0]: P)
 [2021-04-07 16:22:15]: Swipez [[!FAKE!], Level 0]: ERROR: yo
 [2021-04-07 16:22:59]: ***  [, Level 0]: 'Swipez' has left the game
+[2021-04-07 16:23:02]: ***  [, Level 0]: 'Swipez' entered and joined the game
+[2021-04-07 16:23:03]: УБИВАТЬ! [, Level 0]: xD
+[2021-04-07 16:23:05]: УБИВАТЬ! [, Level 0]: noob)
+[2021-04-07 16:23:07]: Hunter.exe [|Supressed|, Level 36]: :D
