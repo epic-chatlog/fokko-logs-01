@@ -13871,3 +13871,5 @@
 [2021-04-06 19:17:04]: ***  [, Level 0]: 'teee' has left the game
 [2021-04-06 19:21:02]: ***  [, Level 0]: 'teee' entered and joined the game
 [2021-04-06 19:22:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-06 19:22:49]: ***  [, Level 0]: 'hmmmmmm' has left the game
+[2021-04-06 19:22:49]: ***  [, Level 0]: '☺' has left the game
