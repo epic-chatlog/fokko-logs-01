@@ -5839,3 +5839,8 @@
 [2021-04-07 06:45:15]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-07 06:45:29]: ERROR [404, Level 74]: how u do that name
 [2021-04-07 06:45:35]: Lucas [THECEPS, Level 34]: ERROR: when chiller isn't police we have peace right?
+[2021-04-07 06:45:39]: ERROR [404, Level 74]: Lucas:  no
+[2021-04-07 06:45:40]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 06:45:40]: ERROR [404, Level 74]: I like turtles.
+[2021-04-07 06:45:42]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-07 06:45:45]: ***  [, Level 0]: 'cHurch' has left the game
