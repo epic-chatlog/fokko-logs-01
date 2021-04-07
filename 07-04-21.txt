@@ -4706,3 +4706,5 @@
 [2021-04-07 04:38:40]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 15 blocks
 [2021-04-07 04:38:40]: ***  [, Level 0]: [POLICE-CHANNEL] '(2)УБИВАТЬ!' is spawnblocking. Catch him!
 [2021-04-07 04:38:40]: ***  [, Level 0]: '(1)SS' entered and joined the game
+[2021-04-07 04:38:44]: ***  [, Level 0]: 'OpTEEmus Crime' entered and joined the game
+[2021-04-07 04:38:55]: ***  [, Level 0]: (2)УБИВАТЬ!'s killing spree was ended by Virus (15 blocks)
