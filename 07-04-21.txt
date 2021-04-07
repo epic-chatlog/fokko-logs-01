@@ -3695,3 +3695,4 @@
 [2021-04-07 04:02:13]: ***  [, Level 0]: '(2)1' entered and joined the game
 [2021-04-07 04:02:21]: Anatomy [MaL4iki Kz, Level 35]: ChillerDragon: bitch
 [2021-04-07 04:02:29]: ***  [, Level 0]: [POLICE-CHANNEL] 'BC|Tixnix' is spawnblocking. Catch him!
+[2021-04-07 04:02:43]: ***  [, Level 0]: 'samtboi' has left the game
