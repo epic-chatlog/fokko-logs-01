@@ -6694,3 +6694,8 @@
 [2021-04-07 08:22:07]: ERRORᅟᅟᅟ [404, Level 47]: fokko
 [2021-04-07 08:22:09]: ERRORᅟᅟᅟ [404, Level 47]: ChillerDragon:
 [2021-04-07 08:22:13]: (1)ChillerDrago [Chilli.*, Level 32]: ye
+[2021-04-07 08:22:14]: ERRORᅟᅟᅟ [404, Level 47]: ChillerDragon:  du hast doch rcon oder
+[2021-04-07 08:22:15]: comic [comically, Level 13]: [D] toxicdaddy: why dont you wanna go back?
+[2021-04-07 08:22:19]: (2)ChillerDrago [|*KoG*|, Level 32]: ich frag ja ビール|Zero
+[2021-04-07 08:22:23]: (2)ChillerDrago [|*KoG*|, Level 32]: soll ich dich killn ERROR
+[2021-04-07 08:22:23]: ERRORᅟᅟᅟ [404, Level 47]: ChillerDragon:  du hast doch rcon oder
