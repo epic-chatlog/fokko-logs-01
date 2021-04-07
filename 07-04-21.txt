@@ -5737,3 +5737,6 @@
 [2021-04-07 06:39:32]: (2)УБИВАТ [, Level 0]: ERROR.: sorry
 [2021-04-07 06:39:33]: ***  [, Level 0]: (3)УБИВАТЬ! is on a killing spree with 60 blocks
 [2021-04-07 06:39:33]: Nudelsaft c: [FookinLads, Level 0]: ^-^
+[2021-04-07 06:39:42]: Nudelsaft c: [FookinLads, Level 0]:   /
+[2021-04-07 06:39:44]: x7|Flipper [xSD7, Level 14]: weqe i cant help you if you fight my clanmates
+[2021-04-07 06:39:45]: ***  [, Level 0]: Lucas finished in: 9 minute(s) 23.06 second(s)
