@@ -14067,3 +14067,5 @@
 [2021-04-06 22:22:42]: (3)SAUD [, Level 14]: stoop
 [2021-04-06 22:22:48]: Boti. [.bad, Level 27]: SAUD: what language is that?
 [2021-04-06 22:22:55]: (3)SAUD [, Level 14]: Boti.: hmm'
+[2021-04-06 22:23:05]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
+[2021-04-06 22:23:07]: (3)SAUD [, Level 14]: Boti.: yokoslaien'
