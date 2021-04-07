@@ -13880,3 +13880,4 @@
 [2021-04-06 19:31:45]: ***  [, Level 0]: 'x7|KshKsh99' has left the game
 [2021-04-06 19:32:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-06 19:37:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-06 19:42:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
