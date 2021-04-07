@@ -1249,3 +1249,4 @@
 [2021-04-07 01:22:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-07 01:22:02]: Meetiteusz [TrRShClNrRs, Level 0]: Virus: blyat
 [2021-04-07 01:22:17]: ***  [, Level 0]: Meetiteusz is on a killing spree with 5 blocks
+[2021-04-07 01:22:27]: Meetiteusz [TrRShClNrRs, Level 0]: power: hi
