@@ -8001,3 +8001,4 @@
 [2021-04-07 11:16:02]:   [, Level 0]: (1)ビール|Zero: thx
 [2021-04-07 11:16:03]: Kiøn1029 [.bad, Level 31]: aaa
 [2021-04-07 11:16:05]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
+[2021-04-07 11:16:15]:   [, Level 0]: (1)ビール|Zero: oops
