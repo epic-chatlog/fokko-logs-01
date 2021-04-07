@@ -5626,3 +5626,6 @@
 [2021-04-07 06:33:47]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
 [2021-04-07 06:33:47]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-07 06:33:50]:   [, Level 0]: Swarfey: test
+[2021-04-07 06:33:52]: ***  [, Level 0]: '[D] toxicdaddy' has left the game
+[2021-04-07 06:33:54]: ***  [, Level 0]: '[D] toxicdaddy' entered and joined the game
+[2021-04-07 06:34:03]: x7|flappy [xSD7, Level 14]: 6k
