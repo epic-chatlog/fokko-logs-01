@@ -10015,3 +10015,4 @@
 [2021-04-07 13:08:22]: ***  [, Level 0]: 'SwiatoslaW' has left the game
 [2021-04-07 13:08:28]: ***  [, Level 0]: 'Axel ²' has left the game
 [2021-04-07 13:08:28]: ***  [, Level 0]: 'Axel' has left the game
+[2021-04-07 13:08:45]: ***  [, Level 0]: 'ICEhoRDD' entered and joined the game
