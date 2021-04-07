@@ -3585,3 +3585,6 @@
 [2021-04-07 03:57:52]:   [, Level 0]: (1)Anatomy: ChillerDragon: i fuck you and fokkonut
 [2021-04-07 03:57:53]: Cleaner 2.0 [, Level 36]: (1)Anatomy: go make music
 [2021-04-07 03:57:53]: ***  [, Level 0]: 'bruh' has left the game
+[2021-04-07 03:57:58]: ***  [, Level 0]: 'bruh' entered and joined the game
+[2021-04-07 03:58:03]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-07 03:58:03]: ***  [, Level 0]: 'nameless tee' has left the game
