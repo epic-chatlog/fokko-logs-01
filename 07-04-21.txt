@@ -2704,3 +2704,6 @@
 [2021-04-07 02:54:34]: ChillerDragon.* [|*KoG*|, Level 41]: say it in one line Friendiship ;-)
 [2021-04-07 02:54:36]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-07 02:54:39]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-07 02:54:41]: ***  [, Level 0]: 'ez' entered and joined the game
+[2021-04-07 02:54:44]: s7_sven [xSD7, Level 17]: Deadmouse:
+[2021-04-07 02:54:45]: ChillerDragon.* [Chilli.*, Level 41]: i promise i help always and i join team chiller Friendiship ;-)
