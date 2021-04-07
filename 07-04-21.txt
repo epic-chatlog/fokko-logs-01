@@ -4839,3 +4839,5 @@
 [2021-04-07 04:47:08]: ***  [, Level 0]: '*pridy*' has left the game
 [2021-04-07 04:47:18]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-07 04:47:18]: Foxie♥ [♥, Level 35]: Meetiteusz: i dont have rifle
+[2021-04-07 04:47:25]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-07 04:47:27]: x7_sven [xSD7, Level 17]: who you
