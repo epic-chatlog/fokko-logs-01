@@ -14016,3 +14016,10 @@
 [2021-04-06 22:19:10]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
 [2021-04-06 22:19:25]: (3)SAUD [, Level 14]: Boti.:  are u Kiøn1029
 [2021-04-06 22:19:27]: Boti. [.bad, Level 27]: no
+[2021-04-06 22:19:27]: (3)SAUD [, Level 14]: x
+[2021-04-06 22:19:31]: Kiøn1029 [.bad, Level 31]: hm?
+[2021-04-06 22:19:32]: (3)SAUD [, Level 14]: same skin
+[2021-04-06 22:19:34]: Boti. [.bad, Level 27]: why would i be kion
+[2021-04-06 22:19:36]: (3)SAUD [, Level 14]: xD
+[2021-04-06 22:19:37]: Boti. [.bad, Level 27]: and its not the same skin
+[2021-04-06 22:19:39]: Boti. [.bad, Level 27]: just coala
