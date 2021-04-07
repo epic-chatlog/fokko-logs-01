@@ -7388,3 +7388,5 @@
 [2021-04-07 10:50:03]: ***  [, Level 0]: GReeeN is on a killing spree with 5 blocks
 [2021-04-07 10:50:05]: [D] mamikral011 [, Level 0]: YelloWorlD: pls
 [2021-04-07 10:50:15]: YelloWorlD [DogParty, Level 41]: mamikral011 write DogParty
+[2021-04-07 10:50:41]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-07 10:50:48]: [D] mamikral011 [, Level 0]: YelloWorlD: clan 404?
