@@ -5846,3 +5846,7 @@
 [2021-04-07 06:45:45]: ***  [, Level 0]: 'cHurch' has left the game
 [2021-04-07 06:46:04]: Lucas [THECEPS, Level 34]: ERROR: cmon
 [2021-04-07 06:46:07]: ERROR [404, Level 74]: pay for peace
+[2021-04-07 06:46:20]: ERROR [404, Level 74]: but how
+[2021-04-07 06:46:20]: Lucas [THECEPS, Level 34]: ERROR: why
+[2021-04-07 06:46:25]: ERROR [404, Level 74]: cuz i say
+[2021-04-07 06:46:25]: ***  [, Level 0]: 'power' entered and joined the game
