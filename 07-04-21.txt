@@ -1056,3 +1056,6 @@
 [2021-04-07 01:01:43]: ***  [, Level 0]: 'Hady#fake' has left the game
 [2021-04-07 01:01:47]: Isegrin [, Level 54]: XD
 [2021-04-07 01:01:49]: #3 blocker [TW|Blockers, Level 0]: someone come pls inf jump
+[2021-04-07 01:01:51]: Black Wolf [, Level 11]: Maatiteusz: :)
+[2021-04-07 01:01:54]: ***  [, Level 0]: 'Hady' entered and joined the game
+[2021-04-07 01:02:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
