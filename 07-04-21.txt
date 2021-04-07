@@ -4550,3 +4550,4 @@
 [2021-04-07 04:31:32]:   [, Level 0]: Axandos: prank master bob
 [2021-04-07 04:31:36]: ***  [, Level 0]: [D] Deadmouse's killing spree was ended by (1)УБИВАТЬ! (5 blocks)
 [2021-04-07 04:31:36]: x7_sven [xSD7, Level 17]: no
+[2021-04-07 04:31:39]: (1)Friendiship  [, Level 0]: x7_sven: why block m
