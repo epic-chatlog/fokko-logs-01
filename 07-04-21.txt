@@ -10981,3 +10981,7 @@
 [2021-04-07 15:37:34]: BULLETBOT [, Level 0]: iMxtteo: xd
 [2021-04-07 15:38:19]: BULLETBOT [, Level 0]: iMxtteo:
 [2021-04-07 15:38:37]: BULLETBOT [, Level 0]: xd
+[2021-04-07 15:38:39]: BULLETBOT [, Level 0]: .
+[2021-04-07 15:38:47]: BULLETBOT [, Level 0]: ok
+[2021-04-07 15:38:47]: ***  [, Level 0]: Hunter.exe is on a killing spree with 5 blocks
+[2021-04-07 15:38:48]: Hunter.exe [|Supressed|, Level 36]: spawn blocker kid
