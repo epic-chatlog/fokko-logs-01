@@ -8124,3 +8124,5 @@
 [2021-04-07 11:20:20]: ***  [, Level 0]: 'KoalasSindCool' has left the game
 [2021-04-07 11:20:22]:   [, Level 0]: |HolyHo|°: weqe:
 [2021-04-07 11:20:24]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
+[2021-04-07 11:20:28]: weqe [MNKY, Level 12]: |HolyHo|°: ?
+[2021-04-07 11:20:36]:   [, Level 0]: |HolyHo|°: weqe: nvm :D
