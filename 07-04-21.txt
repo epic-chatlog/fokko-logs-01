@@ -5571,3 +5571,4 @@
 [2021-04-07 06:29:29]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
 [2021-04-07 06:29:30]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-07 06:29:32]: Nudelsaft c: [FookinLads, Level 0]: f
+[2021-04-07 06:29:34]: ***  [, Level 0]: '__init__(self):' finished the special race!
