@@ -6691,3 +6691,6 @@
 [2021-04-07 08:21:58]: [D] toxicdaddy [, Level 0]: comic: STOP
 [2021-04-07 08:21:59]: mamikral011 [, Level 0]: any:
 [2021-04-07 08:22:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-07 08:22:07]: ERRORᅟᅟᅟ [404, Level 47]: fokko
+[2021-04-07 08:22:09]: ERRORᅟᅟᅟ [404, Level 47]: ChillerDragon:
+[2021-04-07 08:22:13]: (1)ChillerDrago [Chilli.*, Level 32]: ye
