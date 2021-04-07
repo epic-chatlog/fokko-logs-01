@@ -5645,3 +5645,8 @@
 [2021-04-07 06:35:00]: ***  [, Level 0]: 'JxK|JoK'Air' entered and joined the game
 [2021-04-07 06:35:05]: weqe [MNKY, Level 12]: BC|Tixnix: ?
 [2021-04-07 06:35:12]:   [, Level 0]: #3 blocker: JxK|JoK'Air: HELLOOOO
+[2021-04-07 06:35:24]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
+[2021-04-07 06:35:24]: ***  [, Level 0]: '(1)kais' would have timed out, but can use timeout protection now
+[2021-04-07 06:35:31]: ***  [, Level 0]: '(1)JxK|JoK'Air' entered and joined the game
+[2021-04-07 06:35:31]: Kaptar [, Level 24]: BC|Tixnix: why did u help me ?
+[2021-04-07 06:35:32]:   [, Level 0]: Cylox♥: ERROR: !!!!
