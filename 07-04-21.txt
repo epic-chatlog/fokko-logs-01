@@ -1144,3 +1144,5 @@
 [2021-04-07 01:10:21]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-07 01:10:21]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-07 01:10:43]: ***  [, Level 0]: '✯ | Bulash' entered and joined the game
+[2021-04-07 01:11:02]: Meetiteusz [TrRShClNrRs, Level 0]: 4jaja4: XD
+[2021-04-07 01:11:04]: power [TrRShClNrRs, Level 0]: fk u ✯ | Bulash
