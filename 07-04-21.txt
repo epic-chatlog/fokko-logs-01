@@ -1177,3 +1177,8 @@
 [2021-04-07 01:14:27]: ***  [, Level 0]: 'sL|cunt' has left the game
 [2021-04-07 01:14:49]: [D] 4jaja4 [, Level 18]: NetFlix: help?
 [2021-04-07 01:14:53]: NetFlix [, Level 0]: no.
+[2021-04-07 01:14:56]: [D] 4jaja4 [, Level 18]: war
+[2021-04-07 01:14:57]: [D] 4jaja4 [, Level 18]: ?
+[2021-04-07 01:15:00]: NetFlix [, Level 0]: you block
+[2021-04-07 01:15:03]: [D] 4jaja4 [, Level 18]: im help u
+[2021-04-07 01:15:04]: [D] 4jaja4 [, Level 18]: xd
