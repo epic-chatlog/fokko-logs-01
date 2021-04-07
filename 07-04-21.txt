@@ -1316,3 +1316,6 @@
 [2021-04-07 01:30:47]: Marcisten [Helper, Level 0]: DFUK
 [2021-04-07 01:30:50]: s7_sven [xSD7, Level 17]: I like turtles.
 [2021-04-07 01:31:10]: Meetiteusz [TrRShClNrRs, Level 0]: Isegrin: XD
+[2021-04-07 01:31:19]: ***  [, Level 0]: sL|cunt's killing spree was ended by VeemID (6 blocks)
+[2021-04-07 01:31:22]: ***  [, Level 0]: s7_sven finished in: 1 minute(s) 38.04 second(s)
+[2021-04-07 01:31:22]: ***  [, Level 0]: Marcisten Dummy finished in: 3 minute(s) 35.96 second(s)
