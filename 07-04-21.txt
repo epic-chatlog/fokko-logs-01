@@ -4908,3 +4908,7 @@
 [2021-04-07 04:51:31]: ***  [, Level 0]: [POLICE-CHANNEL] 'УБИВАТЬ!' has been caught by 'Isegrin' (10 minutes arrest)
 [2021-04-07 04:51:45]: BC|kakashi [BC, Level 26]: hhh3: do [D] BC|serwan out of fluffy 5
 [2021-04-07 04:51:53]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-07 04:51:55]: ***  [, Level 0]: 'Mista bombastic' has left the game
+[2021-04-07 04:51:59]: BC|kakashi [BC, Level 26]: hhh3: do [D] BC|serwan out of fluffy 6
+[2021-04-07 04:52:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-07 04:52:02]: ***  [, Level 0]: 'kurama' entered and joined the game
