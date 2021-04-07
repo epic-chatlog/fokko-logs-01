@@ -10535,3 +10535,4 @@
 [2021-04-07 14:25:33]: ***  [, Level 0]: 'zemer' entered and joined the game
 [2021-04-07 14:25:33]: nameless tee [, Level 0]: big party
 [2021-04-07 14:25:36]: ERROR. [404, Level 56]: ye xd
+[2021-04-07 14:26:13]: ***  [, Level 0]: 'zemer' has left the game
