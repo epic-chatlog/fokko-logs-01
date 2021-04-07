@@ -3188,3 +3188,6 @@
 [2021-04-07 03:36:46]: x7|zemer [xSD7, Level 0]: s7_sven: NIx du
 [2021-04-07 03:36:51]: SAUD [, Level 24]: ChillerDragon.*:  i asked who put u here cause its not my war
 [2021-04-07 03:36:57]: t [, Level 42]: ChillerDragon: ?
+[2021-04-07 03:36:58]: SAUD [, Level 24]: even that i helped u ChillerDragon.*
+[2021-04-07 03:37:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-07 03:37:10]: s7_sven [xSD7, Level 17]: x7|zemer:  komm mein dc-server der heißt : WAsMachen Sachen
