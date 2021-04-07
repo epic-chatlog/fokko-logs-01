@@ -10990,3 +10990,7 @@
 [2021-04-07 15:39:02]: BULLETBOT [, Level 0]: gts
 [2021-04-07 15:39:27]: ***  [, Level 0]: 'BULLETBOT' has left the game
 [2021-04-07 15:42:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-07 15:42:08]: ***  [, Level 0]: x7 sven finished in: 7 minute(s) 20.48 second(s)
+[2021-04-07 15:42:08]: ***  [, Level 0]: 'x7 sven' finished the special race!
+[2021-04-07 15:42:13]: ***  [, Level 0]: P4Pyr0s finished in: 4 minute(s) 37.72 second(s)
+[2021-04-07 15:42:13]: ***  [, Level 0]: 'P4Pyr0s' finished the special race!
