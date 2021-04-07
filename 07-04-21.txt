@@ -7124,3 +7124,7 @@
 [2021-04-07 10:34:53]: ***  [, Level 0]: '(1)Kirito' has left the game
 [2021-04-07 10:34:53]: ***  [, Level 0]: 'Kirito' has left the game
 [2021-04-07 10:34:56]: ***  [, Level 0]: 'Sash' entered and joined the game
+[2021-04-07 10:35:03]: YelloWorlD [DogParty, Level 41]: Noragami: want join my clan ?
+[2021-04-07 10:35:04]: (3)kais [, Level 34]: rq
+[2021-04-07 10:35:04]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-07 10:35:12]: ***  [, Level 0]: 'Sash' has left the game
