@@ -8754,3 +8754,4 @@
 [2021-04-07 11:46:38]: GODLIKe [hax, Level 44]: bob: need nerf endless
 [2021-04-07 11:46:43]: |HolyHo|° [, Level 28]: weqe: gay
 [2021-04-07 11:46:44]: ***  [, Level 0]: weqe is on a killing spree with 15 blocks
+[2021-04-07 11:47:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
