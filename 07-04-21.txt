@@ -1640,3 +1640,6 @@
 [2021-04-07 01:51:50]: Maatiteusz [TrRShClNrRs, Level 35]: Isegrin: mozliwosci
 [2021-04-07 01:51:50]: ChillerDragon [Chilli.*, Level 44]: cool GOLD
 [2021-04-07 01:51:51]: ***  [, Level 0]: 'sL|cunt' entered and joined the game
+[2021-04-07 01:52:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-07 01:52:07]: any [404, Level 0]: GOLD: reste sur le compte
+[2021-04-07 01:52:08]: GOLD [404, Level 41]: ChillerDragon: but no fun infinite
