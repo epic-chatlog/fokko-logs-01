@@ -7365,3 +7365,9 @@
 [2021-04-07 10:48:43]: ***  [, Level 0]: 'Sash' has left the game
 [2021-04-07 10:48:44]: YelloWorlD [DogParty, Level 41]: (2)ERROR.: leave for me
 [2021-04-07 10:48:46]: Cosmo [, Level 20]: Lucas:
+[2021-04-07 10:48:48]: (2)ERROR. [404, Level 24]: YelloWorlD:  no
+[2021-04-07 10:48:49]: [D] mamikral011 [, Level 0]: RoberGN: !!!!!!!!!!!
+[2021-04-07 10:48:52]: ビール|Zero [Drunks, Level 28]: ERROR: can i take flag?pls <3
+[2021-04-07 10:48:52]: ***  [, Level 0]: 'Sash' entered and joined the game
+[2021-04-07 10:48:53]: Cylox [♥, Level 30]: OP|Supers:Ja, ich habe den Idioten betrogen. Ich habe mein Konto angegeben und die Taseri aktualisiert. Dann habe ich das Passwort xd geändert
+[2021-04-07 10:48:57]: ***  [, Level 0]: '(1)Sash' entered and joined the game
