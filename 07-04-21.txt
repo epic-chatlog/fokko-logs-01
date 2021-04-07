@@ -10883,3 +10883,4 @@
 [2021-04-07 15:06:48]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-07 15:06:48]: ***  [, Level 0]: 'brainless tee' has left the game
 [2021-04-07 15:06:50]: x7|zemer [xSD7, Level 37]: .S L E E P Y':
+[2021-04-07 15:07:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
