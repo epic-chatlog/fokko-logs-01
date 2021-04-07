@@ -8699,3 +8699,10 @@
 [2021-04-07 11:44:39]: ***  [, Level 0]: bob is on a killing spree with 5 blocks
 [2021-04-07 11:44:42]: OP|Supers [DogParty, Level 39]: Swarfey:  flappy lifes metter
 [2021-04-07 11:44:43]: ***  [, Level 0]: 'KoalasSindCool' has left the game
+[2021-04-07 11:44:43]: OP|Supers [DogParty, Level 39]: Swarfey:  flappy lifes matter
+[2021-04-07 11:44:46]: УБИВАТЬ! [, Level 0]: weqe: /
+[2021-04-07 11:44:46]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
+[2021-04-07 11:44:49]: GODLIKe [hax, Level 44]: weqe: WTF
+[2021-04-07 11:44:49]: MNKY | Arin [MNKY, Level 15]: tWTF
+[2021-04-07 11:44:53]: weqe [MNKY, Level 12]: bob: GODLIKe is big traitor bro
+[2021-04-07 11:44:53]: bob [Legacy™, Level 36]: weqe: why u attack GODLIKe
