@@ -10662,3 +10662,7 @@
 [2021-04-07 14:43:36]: WarHammer [, Level 26]: pf lag
 [2021-04-07 14:44:00]: ***  [, Level 0]: 'santi_uzum4k1' entered and joined the game
 [2021-04-07 14:44:07]: (2)УБИВАТ [, Level 0]: ...
+[2021-04-07 14:44:27]: ***  [, Level 0]: 'Kirito♥' started an auction on plot 16 for 15000 money (plot expires on 14.04.2021 (18:00))
+[2021-04-07 14:44:27]: ***  [, Level 0]: Use '/plot buy 15000 Kirito♥' to buy the plot
+[2021-04-07 14:44:28]: ***  [, Level 0]: 'santi_uzum4k1' joined the spectators
+[2021-04-07 14:44:33]: ***  [, Level 0]: 'santi_uzum4k1' joined the game
