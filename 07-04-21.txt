@@ -9706,3 +9706,5 @@
 [2021-04-07 12:37:38]: ***  [, Level 0]: 'KoalasSindCool' has left the game
 [2021-04-07 12:37:40]: [D] BC|Tixnix [BC, Level 26]: any: ?
 [2021-04-07 12:37:41]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
+[2021-04-07 12:37:52]: BC|kakashi [BC, Level 0]: S Y T H N: was habe ich getan?
+[2021-04-07 12:37:54]: [D] BC|Tixnix [BC, Level 26]: S Y T H N: lalalalalala
