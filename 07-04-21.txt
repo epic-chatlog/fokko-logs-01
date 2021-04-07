@@ -5661,3 +5661,5 @@
 [2021-04-07 06:36:00]: ***  [, Level 0]: 'JxK|JoK'Air' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-07 06:36:01]: ***  [, Level 0]: '(2)Cosmo' has left the game
 [2021-04-07 06:36:03]: x7|flappy [xSD7, Level 14]: 5k
+[2021-04-07 06:36:14]: ***  [, Level 0]: '(1)JxK|JoK'Air' has left the game
+[2021-04-07 06:36:16]: ***  [, Level 0]: 'JxK|JoK'Air' entered and joined the game
