@@ -9972,3 +9972,6 @@
 [2021-04-07 13:03:37]: ***  [, Level 0]: '(1)x7|Flipper' changed name to 'x7|Flipper'
 [2021-04-07 13:03:40]: ***  [, Level 0]: 'ꜱʟᴏᴡʏ' changed name to 'sun.slow(y)'
 [2021-04-07 13:04:21]: ***  [, Level 0]: '3keeksi' has left the game
+[2021-04-07 13:04:24]: ***  [, Level 0]: 'd' has left the game
+[2021-04-07 13:04:24]: ***  [, Level 0]: 'sun.slow(y)' has left the game
+[2021-04-07 13:04:30]: ♥TAKO♥ [, Level 25]: power:  ye
