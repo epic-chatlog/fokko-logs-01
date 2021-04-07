@@ -14535,3 +14535,5 @@
 [2021-04-06 23:12:09]: ***  [, Level 0]: '#5 blocker' has left the game
 [2021-04-06 23:12:19]: BulgarianTee [xSD7, Level 0]: E
 [2021-04-06 23:12:29]: BulgarianTee [xSD7, Level 0]: x7|KshKsh99: bribed corrupt gae
+[2021-04-06 23:12:33]: x7|KshKsh99 [xSD7, Level 37]: XD
+[2021-04-06 23:12:39]: x7|KshKsh99 [xSD7, Level 37]: BulgarianTee: this is life
