@@ -10080,3 +10080,4 @@
 [2021-04-07 13:17:34]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-07 13:17:35]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
 [2021-04-07 13:17:36]: ***  [, Level 0]: '(1)Swarfey' entered and joined the game
+[2021-04-07 13:18:59]: ←   [, Level 0]: Swarfey: chatlog
