@@ -14163,3 +14163,6 @@
 [2021-04-06 22:32:29]: ***  [, Level 0]: 'boo35h' has left the game
 [2021-04-06 22:32:41]: ***  [, Level 0]: ### '(1)Sashyboo' I'm back
 [2021-04-06 22:32:47]: ***  [, Level 0]: 'Sashyboo' has left the game
+[2021-04-06 22:32:54]: Boti. [.bad, Level 27]: aham
+[2021-04-06 22:32:57]: (1)Sashyboo [, Level 0]: I like turtles.
+[2021-04-06 22:33:06]: (3)SAUD [, Level 14]: utálom a melegeket
