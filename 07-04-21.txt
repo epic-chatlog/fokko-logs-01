@@ -10256,3 +10256,4 @@
 [2021-04-07 13:48:59]: Isegrin [, Level 54]: blien
 [2021-04-07 13:49:35]: toxicdadd [, Level 22]: [D] ♥TAKO♥:
 [2021-04-07 13:49:38]: toxicdadd [, Level 22]: ♥TAKO♥: help
+[2021-04-07 13:49:50]: ***  [, Level 0]: 'kropkowaty' has left the game (Too weak connection (not acked for 60 seconds))
