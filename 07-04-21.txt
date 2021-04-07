@@ -5976,3 +5976,9 @@
 [2021-04-07 06:53:12]: ***  [, Level 0]: 'ai9u7wgreauiwgh' has been muted for 60 seconds
 [2021-04-07 06:53:15]: #3 blocker [TW|Blockers, Level 0]: várok
 [2021-04-07 06:53:16]: ***  [, Level 0]: You are not permitted to talk for the next 55 seconds.
+[2021-04-07 06:53:21]: ***  [, Level 0]: You are not permitted to talk for the next 50 seconds.
+[2021-04-07 06:53:25]: ***  [, Level 0]: You are not permitted to talk for the next 46 seconds.
+[2021-04-07 06:53:27]: ERROR [404, Level 74]: weqe:  now ure problem
+[2021-04-07 06:53:27]: ***  [, Level 0]: You are not permitted to talk for the next 44 seconds.
+[2021-04-07 06:53:28]:   [, Level 0]: Kiøn1029: fontos várno
+[2021-04-07 06:53:29]: ***  [, Level 0]: You are not permitted to talk for the next 42 seconds.
