@@ -4601,3 +4601,10 @@
 [2021-04-07 04:34:18]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-07 04:34:19]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)УБИВАТЬ!' is spawnblocking. Catch him!
 [2021-04-07 04:34:21]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-07 04:34:24]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)УБИВАТЬ!' is spawnblocking. Catch him!
+[2021-04-07 04:34:26]: ***  [, Level 0]: GODLIKe. is on a killing spree with 5 blocks
+[2021-04-07 04:34:28]: Meetiteusz [TrRShClNrRs, Level 25]: foxie shiro left
+[2021-04-07 04:34:29]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)УБИВАТЬ!' is spawnblocking. Catch him!
+[2021-04-07 04:34:32]: ***  [, Level 0]: (1)УБИВАТЬ! is on a killing spree with 10 blocks
+[2021-04-07 04:34:32]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)УБИВАТЬ!' is spawnblocking. Catch him!
+[2021-04-07 04:34:33]: Kezo [FookinLads, Level 41]: bob: =?
