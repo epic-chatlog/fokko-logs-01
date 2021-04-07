@@ -11029,3 +11029,4 @@
 [2021-04-07 16:16:09]: УБИВАТЬ! [, Level 0]: noob)
 [2021-04-07 16:16:43]: УБИВАТЬ! [, Level 0]: Hunter.exe: noob>>
 [2021-04-07 16:16:56]: УБИВАТЬ! [, Level 0]: gg wp :D
+[2021-04-07 16:17:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
