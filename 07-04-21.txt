@@ -4768,3 +4768,6 @@
 [2021-04-07 04:42:08]: (1)cookie [, Level 0]: no
 [2021-04-07 04:42:10]: ***  [, Level 0]: 'Tziys*' entered and joined the game
 [2021-04-07 04:42:21]: ***  [, Level 0]: (3)УБИВАТЬ!'s killing spree was ended by [D] Deadmouse (5 blocks)
+[2021-04-07 04:42:30]: x7_sven [xSD7, Level 17]: who you
+[2021-04-07 04:42:37]: ᅟᅟᅟ [, Level 48]: i'm x7_sven
+[2021-04-07 04:42:38]: cookie [, Level 17]: war
