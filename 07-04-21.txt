@@ -7453,3 +7453,9 @@
 [2021-04-07 10:53:32]:   [, Level 0]: Kiøn1029: nem tom
 [2021-04-07 10:53:32]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
 [2021-04-07 10:53:32]: ERROR [404, Level 74]: 404 für fehler? = error? 404 sieht man am meistens ist 418 nicht sone art verarsche?
+[2021-04-07 10:53:37]:   [, Level 0]: Kiøn1029: valami jót
+[2021-04-07 10:53:37]: ***  [, Level 0]: 'Noragami' joined the spectators
+[2021-04-07 10:53:41]: ***  [, Level 0]: 'Noragami' joined the game
+[2021-04-07 10:53:41]: x7 sven [xSD7, Level 18]: mamikral011:
+[2021-04-07 10:53:46]:   [, Level 0]: Kiøn1029: magyarul valami szart ami miatt feljön
+[2021-04-07 10:53:47]: mamikral011 [DogParty, Level 0]: x7 sven: ?
