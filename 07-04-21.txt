@@ -10498,3 +10498,4 @@
 [2021-04-07 14:16:31]: ***  [, Level 0]: '(1)flappy' changed name to 'ĦỮǤØ'
 [2021-04-07 14:16:43]: ***  [, Level 0]: '(3)lol' entered and joined the game
 [2021-04-07 14:16:43]: WarHammer [, Level 26]: oof lag
+[2021-04-07 14:17:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
