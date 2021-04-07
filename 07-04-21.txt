@@ -7312,3 +7312,6 @@
 [2021-04-07 10:45:59]: ***  [, Level 0]: [D] MNKY | Arin is on a killing spree with 5 blocks
 [2021-04-07 10:46:08]: [D] MNKY | Arin [, Level 0]: okay?
 [2021-04-07 10:46:13]: Cylox [♥, Level 30]: ?
+[2021-04-07 10:46:19]: ***  [, Level 0]: '[D] MNKY | Arin' joined the spectators
+[2021-04-07 10:46:23]: ***  [, Level 0]: '[D] MNKY | Arin' joined the game
+[2021-04-07 10:46:26]: YelloWorlD [DogParty, Level 41]: Marcisten: want join my clan ?
