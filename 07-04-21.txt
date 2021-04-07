@@ -5864,3 +5864,6 @@
 [2021-04-07 06:47:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-07 06:47:04]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 5 blocks
 [2021-04-07 06:47:04]: [D] Cylox♥ [♥, Level 24]: adam kesek
+[2021-04-07 06:47:12]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 06:47:15]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-07 06:47:15]: weqe [MNKY, Level 12]: Swarfey: u love me ?
