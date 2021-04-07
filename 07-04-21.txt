@@ -8002,3 +8002,8 @@
 [2021-04-07 11:16:03]: Kiøn1029 [.bad, Level 31]: aaa
 [2021-04-07 11:16:05]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
 [2021-04-07 11:16:15]:   [, Level 0]: (1)ビール|Zero: oops
+[2021-04-07 11:16:25]: Kenshi™ [, Level 0]: ERROR: plz
+[2021-04-07 11:16:25]: ***  [, Level 0]: 'siodor' entered and joined the game
+[2021-04-07 11:16:30]: ***  [, Level 0]: 'Kotik' has left the game
+[2021-04-07 11:16:33]: OP|Supers [DogParty, Level 39]: ERROR:  why u block S Y T H N
+[2021-04-07 11:16:34]: ***  [, Level 0]: 'kiøn1029' has left the game
