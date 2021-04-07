@@ -10355,3 +10355,4 @@
 [2021-04-07 14:01:52]: ERROR [404, Level 74]: [D] ♥TAKO♥:
 [2021-04-07 14:01:52]: WarHammer [, Level 26]: [D] ♥TAKO♥:  EZ
 [2021-04-07 14:01:59]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-07 14:02:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
