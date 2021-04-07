@@ -13977,3 +13977,5 @@
 [2021-04-06 22:10:36]: SAUD [, Level 23]: wtf
 [2021-04-06 22:10:38]: SAUD [, Level 23]: xD
 [2021-04-06 22:11:42]: (3)SAUD [, Level 14]: Boti.:  BRING A dummy and farm
+[2021-04-06 22:11:49]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
+[2021-04-06 22:12:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
