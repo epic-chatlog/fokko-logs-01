@@ -4767,3 +4767,4 @@
 [2021-04-07 04:42:08]: ***  [, Level 0]: 'Friendiship ;-)' has left the game
 [2021-04-07 04:42:08]: (1)cookie [, Level 0]: no
 [2021-04-07 04:42:10]: ***  [, Level 0]: 'Tziys*' entered and joined the game
+[2021-04-07 04:42:21]: ***  [, Level 0]: (3)УБИВАТЬ!'s killing spree was ended by [D] Deadmouse (5 blocks)
