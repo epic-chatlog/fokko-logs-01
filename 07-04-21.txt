@@ -1527,3 +1527,6 @@
 [2021-04-07 01:45:13]: Meetiteusz [TrRShClNrRs, Level 0]: VeemID: he is good
 [2021-04-07 01:45:13]: ***  [, Level 0]: 'Hady' has left the game
 [2021-04-07 01:45:15]: GOLD [404, Level 41]: kais: par ChillerDragon ohh :/
+[2021-04-07 01:45:19]: Meetiteusz [TrRShClNrRs, Level 0]: VeemID: NetFlix good guy
+[2021-04-07 01:45:20]: [2] VeemID [, Level 0]: Meetiteusz: NO
+[2021-04-07 01:45:23]: ***  [, Level 0]: 'f"{self.name}"' has left the game
