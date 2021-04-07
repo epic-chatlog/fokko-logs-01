@@ -2571,3 +2571,5 @@
 [2021-04-07 02:45:54]: weqe [MNKY, Level 12]: ask who
 [2021-04-07 02:45:56]: ***  [, Level 0]: '[D] 4jaja4' changed name to '4jaja4.*'
 [2021-04-07 02:45:56]: ChillerDragon.* [|*KoG*|, Level 41]: if u stop helping now Isegrin ur marked as traitor
+[2021-04-07 02:46:01]: 4jaja4 [Chilli.*, Level 23]: ChillerDragon: im chilli!
+[2021-04-07 02:46:09]: Virus [, Level 49]: ChillerDragon.*: what?
