@@ -7024,3 +7024,7 @@
 [2021-04-07 08:42:43]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-07 08:42:45]: Nudelsaft c: [FookinLads, Level 37]: test
 [2021-04-07 08:42:51]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 10:30:52]: ←   [, Level 0]: Nudelsaft c:: chatlog
+[2021-04-07 10:30:52]:   [, Level 0]: Sash: ERROR.:  digga jetzt hab ich bu g
+[2021-04-07 10:30:53]: YelloWorlD [DogParty, Level 41]: ERROR: sad
+[2021-04-07 10:30:58]: ERROR.. [404, Level 24]: xDDD Sash  xDDD
