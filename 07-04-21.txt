@@ -3003,3 +3003,5 @@
 [2021-04-07 03:25:34]: Foxie♥ [♥, Level 35]: Meetiteusz: hi
 [2021-04-07 03:25:40]: (2)teec tac [zigloute, Level 0]: kais: ca va ???
 [2021-04-07 03:25:40]: Maatiteusz [TrRShClNrRs, Level 35]: Foxie♥: Hi
+[2021-04-07 03:26:20]: ***  [, Level 0]: '(1)1' has left the game
+[2021-04-07 03:26:21]: (1)kais [, Level 58]: no
