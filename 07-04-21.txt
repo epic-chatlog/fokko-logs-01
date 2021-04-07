@@ -8664,3 +8664,5 @@
 [2021-04-07 11:42:10]: OP|Supers [DogParty, Level 39]: weqe:  he good boy
 [2021-04-07 11:42:12]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
 [2021-04-07 11:42:19]: No Team :D [TrRShClNrRs, Level 0]: bob:  i dont help enemy dude
+[2021-04-07 11:42:25]: ***  [, Level 0]: 'Lucas' has left the game (Timeout)
+[2021-04-07 11:42:25]:   [, Level 0]: [D] MNKY | Arin: Nudelsaft c::
