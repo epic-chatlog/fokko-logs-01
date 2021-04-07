@@ -10038,3 +10038,6 @@
 [2021-04-07 13:11:36]: ***  [, Level 0]: 'MLG_PRO.' changed name to 'нυƨнıκε'
 [2021-04-07 13:11:38]: ***  [, Level 0]: '(1)σмєтнιηg' changed name to 'x7|Flipper'
 [2021-04-07 13:11:42]: ***  [, Level 0]: 'ToMsKaTv' has left the game
+[2021-04-07 13:11:50]: ***  [, Level 0]: 'x7|Flipper' changed name to '(1)σмєтнιηg'
+[2021-04-07 13:11:55]: ***  [, Level 0]: '(1)σмєтнιηg' changed name to 'x7|Flipper'
+[2021-04-07 13:11:56]: ***  [, Level 0]: 'нυƨнıκε' changed name to '(1)σмєтнιηg'
