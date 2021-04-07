@@ -293,3 +293,5 @@
 [2021-04-07 00:19:54]: ChillerDragon.* [Chilli.*, Level 41]: weqe: brother
 [2021-04-07 00:19:57]: weqe [MNKY, Level 12]: brother'
 [2021-04-07 00:20:05]: ***  [, Level 0]: 'Лимонад' entered and joined the game
+[2021-04-07 00:20:09]: ***  [, Level 0]: 'Лимонад' has left the game
+[2021-04-07 00:20:14]: BulgarianTee [xSD7, Level 0]: ChillerDragon: who killed u?
