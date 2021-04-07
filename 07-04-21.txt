@@ -2504,3 +2504,8 @@
 [2021-04-07 02:42:34]: 4jaja4 [, Level 23]: ChillerDragon:
 [2021-04-07 02:42:37]: bob [Legacy™, Level 36]: nice brother weqe
 [2021-04-07 02:42:37]: ***  [, Level 0]: [D] 4jaja4's killing spree was ended by weqe (23 blocks)
+[2021-04-07 02:42:43]: weqe [MNKY, Level 12]: money money
+[2021-04-07 02:42:45]: weqe [MNKY, Level 12]: numnum
+[2021-04-07 02:42:45]: 4jaja4 [, Level 23]: fuck you bob and weqe
+[2021-04-07 02:42:49]: f"{self.name}" [, Level 0]: Axandos: you have 8 jumps
+[2021-04-07 02:42:54]: Axandos [, Level 25]: f"{self.name}":  cey
