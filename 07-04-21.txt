@@ -9978,3 +9978,5 @@
 [2021-04-07 13:04:38]: ***  [, Level 0]: 'kropkowaty' has left the game
 [2021-04-07 13:04:41]: ***  [, Level 0]: 'kropkowaty' entered and joined the game
 [2021-04-07 13:04:54]: SwiatoslaW [, Level 38]: x7|cya: 1times left
+[2021-04-07 13:05:32]: ***  [, Level 0]: Axel ² finished in: 3 minute(s) 41.08 second(s)
+[2021-04-07 13:05:32]: ***  [, Level 0]: 'Axel ²' finished the special race!
