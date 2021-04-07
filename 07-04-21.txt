@@ -2494,3 +2494,4 @@
 [2021-04-07 02:41:54]: 4jaja4 [, Level 23]: weqe: im helper ChillerDragon
 [2021-04-07 02:42:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-07 02:42:03]: Maatiteusz [TrRShClNrRs, Level 35]: How the fuck you are invincible skin and nickname xD
+[2021-04-07 02:42:16]: Axandos [, Level 25]: noob f"{self.name}"
