@@ -1113,3 +1113,5 @@
 [2021-04-07 01:07:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-07 01:07:10]: ***  [, Level 0]: 'Meetiteusz' entered and joined the game
 [2021-04-07 01:07:11]: Black Wolf [, Level 11]: ✯|Not Bulash: plz
+[2021-04-07 01:07:20]: ***  [, Level 0]: '(1)1' has left the game
+[2021-04-07 01:07:24]: ***  [, Level 0]: '1' has left the game
