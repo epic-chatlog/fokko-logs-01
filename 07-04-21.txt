@@ -9077,3 +9077,5 @@
 [2021-04-07 12:02:11]: OP|Supers [DogParty, Level 39]: x7 sven:  x7 dog
 [2021-04-07 12:02:15]: Nudelsaft c: [FookinLads, Level 59]: ChillerDragon: laggt der server eig? oder bin das ich die ganze zeit
 [2021-04-07 12:02:16]: ***  [, Level 0]: 'Cosmo' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-07 12:02:16]: ***  [, Level 0]: '(1)Cosmo' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-07 12:02:27]: (1)Friendiship  [, Level 0]: woona: pro, sorry xD
