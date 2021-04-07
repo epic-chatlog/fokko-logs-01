@@ -2923,3 +2923,5 @@
 [2021-04-07 03:13:35]: Maatiteusz [TrRShClNrRs, Level 35]: kais: fafarafa
 [2021-04-07 03:13:37]: Maatiteusz [TrRShClNrRs, Level 35]: kais: stata
 [2021-04-07 03:13:41]: Maatiteusz [TrRShClNrRs, Level 35]: kais: szubidubi
+[2021-04-07 03:13:52]: Maatiteusz [TrRShClNrRs, Level 35]: kais: dont be afk
+[2021-04-07 03:13:54]: Maatiteusz [TrRShClNrRs, Level 35]: be
