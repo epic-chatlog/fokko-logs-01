@@ -10426,3 +10426,10 @@
 [2021-04-07 14:07:57]: WarHammer [, Level 26]: :C
 [2021-04-07 14:08:00]: ERROR [404, Level 74]: ye
 [2021-04-07 14:08:07]: toxicdaddy [, Level 26]: ERROR: ich gehe raus
+[2021-04-07 14:08:12]: ERROR [404, Level 74]: ok
+[2021-04-07 14:08:13]: Isegrin [, Level 55]: oi vittu
+[2021-04-07 14:08:14]: toxicdaddy [, Level 26]: ERROR: bitte
+[2021-04-07 14:08:15]: WarHammer [, Level 26]: :C
+[2021-04-07 14:08:17]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
+[2021-04-07 14:08:19]: toxicdaddy [, Level 26]: ERROR:  aus police
+[2021-04-07 14:08:19]: [D] ♥TAKO♥ [, Level 0]: :c?
