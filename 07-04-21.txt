@@ -1323,3 +1323,6 @@
 [2021-04-07 01:31:38]: ***  [, Level 0]: 'toxicdaddy' finished the special race!
 [2021-04-07 01:31:41]: ***  [, Level 0]: [D] toxicdaddy finished in: 7 minute(s) 44.64 second(s)
 [2021-04-07 01:31:41]: ***  [, Level 0]: '[D] toxicdaddy' finished the special race!
+[2021-04-07 01:31:44]: ***  [, Level 0]: 'Clément' entered and joined the game
+[2021-04-07 01:31:50]: ***  [, Level 0]: '(1)1' finished the special race!
+[2021-04-07 01:31:50]: ***  [, Level 0]: '1' finished the special race!
