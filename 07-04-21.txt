@@ -1370,3 +1370,9 @@
 [2021-04-07 01:36:11]: Hady [new bot, Level 33]: Maatiteusz: lol
 [2021-04-07 01:36:21]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)1' is spawnblocking. Catch him!
 [2021-04-07 01:36:22]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)1' has been caught by 'Isegrin' (5 minutes arrest)
+[2021-04-07 01:36:27]: ***  [, Level 0]: '[D] toxicdaddy' has left the game
+[2021-04-07 01:36:28]: ***  [, Level 0]: 'toxicdaddy' has left the game
+[2021-04-07 01:36:28]: Isegrin [, Level 54]: 1: NIGA NIGA
+[2021-04-07 01:36:29]: Maatiteusz [TrRShClNrRs, Level 35]: Hady: hi
+[2021-04-07 01:36:34]: (1)kais [, Level 58]: RQ
+[2021-04-07 01:36:36]: Hady [new bot, Level 33]: Maatiteusz: hello
