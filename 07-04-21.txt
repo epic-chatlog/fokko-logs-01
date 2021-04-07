@@ -11091,3 +11091,5 @@
 [2021-04-07 16:37:10]: ***  [, Level 0]: 'rafel' entered and joined the game
 [2021-04-07 16:37:14]: S Y T H N [iPro, Level 0]: ich geh pennen und iMxtteo  das merke ich mir
 [2021-04-07 16:37:23]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-07 16:38:04]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-07 16:38:08]: ***  [, Level 0]: 'rafel' joined the game
