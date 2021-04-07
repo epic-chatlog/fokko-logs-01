@@ -5469,3 +5469,11 @@
 [2021-04-07 05:31:40]: ***  [, Level 0]: 'ez' has left the game
 [2021-04-07 05:31:48]:   [, Level 0]: Foxie♥: Maatiteusz: come
 [2021-04-07 05:31:52]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-07 05:31:55]: weqe [MNKY, Level 12]: Isegrin: you said " or your mother dies" , this is a reason
+[2021-04-07 05:31:56]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-07 05:31:58]: x7_sven [xSD7, Level 17]: Zéphir™:  un war?
+[2021-04-07 05:32:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-07 05:32:03]: ***  [, Level 0]: 'serwan' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-07 05:32:03]: ***  [, Level 0]: '[D] BC|serwan' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-07 05:32:03]: ***  [, Level 0]: 'BC|serwan' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-07 05:32:05]: Isegrin [, Level 54]: weqe: U said that i will die D:
