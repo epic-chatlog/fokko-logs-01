@@ -10712,3 +10712,8 @@
 [2021-04-07 14:47:02]: Kirito♥ [♥, Level 40]: bob: warte ein paar sek ich mach für 10k
 [2021-04-07 14:47:04]: ***  [, Level 0]: 'santi_uzum4k1' has left the game
 [2021-04-07 14:47:14]: Kirito♥ [♥, Level 40]: nameless tee: nice u fucking noname idk xD
+[2021-04-07 14:47:40]: ***  [, Level 0]: 'Kirito♥' started an auction on plot 16 for 10000 money (plot expires on 14.04.2021 (18:00))
+[2021-04-07 14:47:40]: ***  [, Level 0]: Use '/plot buy 10000 Kirito♥' to buy the plot
+[2021-04-07 14:47:41]: ***  [, Level 0]: Plot 16 has been bought by 'bob'
+[2021-04-07 14:47:44]: bob [Legacy™, Level 36]: ou baby
+[2021-04-07 14:47:48]: Kirito♥ [♥, Level 40]: bob:  xD
