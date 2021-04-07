@@ -3308,3 +3308,5 @@
 [2021-04-07 03:43:34]: ***  [, Level 0]: '[D] Sad Guy' has left the game (Timeout)
 [2021-04-07 03:43:34]: ***  [, Level 0]: 'Sad Guy' has left the game (Timeout)
 [2021-04-07 03:43:36]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-07 03:43:46]: Kiøn1029 [.bad, Level 31]: Boti.: szüreti fesztet hoztam fel neki hogy azért menjünk
+[2021-04-07 03:43:46]: SAUD [, Level 24]: a helper who block every single one in police cause they dont help him
