@@ -15089,3 +15089,5 @@
 [2021-04-06 23:47:55]: Souly [, Level 60]: broken server
 [2021-04-06 23:47:56]: any [404, Level 37]: l2p Cylox
 [2021-04-06 23:48:03]: ***  [, Level 0]: 'Лимонад' has left the game
+[2021-04-06 23:48:22]: ***  [, Level 0]: BulgarianTee is on a killing spree with 10 blocks
+[2021-04-06 23:48:29]: ***  [, Level 0]: 'demon,' has left the game
