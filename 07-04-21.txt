@@ -5561,3 +5561,6 @@
 [2021-04-07 06:28:40]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game
 [2021-04-07 06:28:42]: Zéphir™ [, Level 39]: x7|flappy: vs flappy
 [2021-04-07 06:28:44]: ***  [, Level 0]: Kotik is on a killing spree with 10 blocks
+[2021-04-07 06:28:47]: Zéphir™ [, Level 39]: flappy: won XDD
+[2021-04-07 06:28:49]: ***  [, Level 0]: 'oyun kırallı' has left the game
+[2021-04-07 06:28:50]: ***  [, Level 0]: 'oyun krallı' has left the game
