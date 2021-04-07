@@ -10906,3 +10906,4 @@
 [2021-04-07 15:11:01]: ***  [, Level 0]: 'zemer' has left the game
 [2021-04-07 15:12:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-07 15:13:18]: iMxtteo [, Level 26]: wieso
+[2021-04-07 15:13:42]: ***  [, Level 0]: 'Noxl' entered and joined the game
