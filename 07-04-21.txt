@@ -3078,3 +3078,9 @@
 [2021-04-07 03:30:54]: Foxie♥ [♥, Level 35]: t: help me
 [2021-04-07 03:30:56]: teec tac [zigloute, Level 0]: kais: cava
 [2021-04-07 03:30:56]: toxicdaddy [, Level 0]: Maatiteusz:  pls
+[2021-04-07 03:31:01]: Foxie♥ [♥, Level 35]: t: i helped u
+[2021-04-07 03:31:01]: kais [, Level 65]: teec tac: tranquil
+[2021-04-07 03:31:02]: ***  [, Level 0]: '[D] toxicdaddy' entered and joined the game
+[2021-04-07 03:31:06]: Foxie♥ [♥, Level 35]: t: remember?
+[2021-04-07 03:31:09]: ***  [, Level 0]: '1' has left the game
+[2021-04-07 03:31:10]: t [, Level 42]: Foxie♥: wait
