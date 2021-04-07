@@ -13859,3 +13859,5 @@
 [2021-04-06 18:54:50]: ☺ [, Level 5]: x7|Flipper:
 [2021-04-06 18:55:29]: ☺ [, Level 5]: ok thx
 [2021-04-06 18:55:38]: x7|Flipper [xSD7, Level 14]: here jetpack i gtg
+[2021-04-06 18:55:57]: ***  [, Level 0]: 'x7|Flipper' has left the game
+[2021-04-06 18:55:57]: ***  [, Level 0]: 'Flupper' has left the game
