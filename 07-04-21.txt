@@ -2430,3 +2430,6 @@
 [2021-04-07 02:37:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-07 02:37:04]: any² [404, Level 37]: who ?
 [2021-04-07 02:37:07]: Axandos [, Level 25]: any²:  wtf
+[2021-04-07 02:37:10]: t [, Level 42]: Isegrin: prank ?
+[2021-04-07 02:37:11]: ᅟᅟᅟ [, Level 48]: idiot
+[2021-04-07 02:37:14]: ***  [, Level 0]: 'Chef Urbino' has left the game
