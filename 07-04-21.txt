@@ -3435,3 +3435,6 @@
 [2021-04-07 03:50:28]: ***  [, Level 0]: [POLICE-CHANNEL] 'el champeon' has been caught by 'WarHammer' (10 minutes arrest)
 [2021-04-07 03:50:40]: ***  [, Level 0]: 'Anatomy' entered and joined the game
 [2021-04-07 03:50:40]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-07 03:50:40]:   [, Level 0]: nameless tee: pussay
+[2021-04-07 03:50:44]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
+[2021-04-07 03:50:46]: cookie [, Level 0]: chiller
