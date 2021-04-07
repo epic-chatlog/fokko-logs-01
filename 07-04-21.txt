@@ -7082,3 +7082,11 @@
 [2021-04-07 10:32:50]: OP|Supers [DogParty, Level 39]: x7 sven:  hdf jz
 [2021-04-07 10:32:54]: ***  [, Level 0]: '(2)Cosmo' has left the game
 [2021-04-07 10:32:54]: ***  [, Level 0]: 'sL|KeBu28' entered and joined the game
+[2021-04-07 10:32:57]: ***  [, Level 0]: 'Sash' has left the game
+[2021-04-07 10:32:59]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
+[2021-04-07 10:33:02]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-07 10:33:03]: YelloWorlD [DogParty, Level 41]: (1)Friendiship : met le clan tag
+[2021-04-07 10:33:03]: (1)Cosmo [, Level 0]: Lucas: help
+[2021-04-07 10:33:06]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-07 10:33:06]: YelloWorlD [DogParty, Level 41]: (1)Friendiship : ta pas mi
+[2021-04-07 10:33:07]: OP|Supers [DogParty, Level 39]: ERROR: ez
