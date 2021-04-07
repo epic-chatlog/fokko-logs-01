@@ -13727,3 +13727,5 @@
 [2021-04-06 17:06:52]: ***  [, Level 0]: 'x7|KshKsh99' entered and joined the game
 [2021-04-06 17:07:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-06 17:07:12]: ***  [, Level 0]: 'x7|KshKsh99' has left the game
+[2021-04-06 17:07:29]: ***  [, Level 0]: 'x7|KshKsh99' entered and joined the game
+[2021-04-06 17:07:32]: hmmmmmm [, Level 11]: thx mab
