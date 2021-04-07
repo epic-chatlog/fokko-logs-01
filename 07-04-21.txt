@@ -5982,3 +5982,9 @@
 [2021-04-07 06:53:27]: ***  [, Level 0]: You are not permitted to talk for the next 44 seconds.
 [2021-04-07 06:53:28]:   [, Level 0]: Kiøn1029: fontos várno
 [2021-04-07 06:53:29]: ***  [, Level 0]: You are not permitted to talk for the next 42 seconds.
+[2021-04-07 06:53:39]: ***  [, Level 0]: You are not permitted to talk for the next 32 seconds.
+[2021-04-07 06:53:39]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
+[2021-04-07 06:53:39]: ***  [, Level 0]: Zéphir™'s killing spree was ended by K!ked (5 blocks)
+[2021-04-07 06:53:41]: weqe [MNKY, Level 12]: ERROR: would it have been his problem if i killed him
+[2021-04-07 06:53:41]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 06:53:42]: ***  [, Level 0]: You are not permitted to talk for the next 29 seconds.
