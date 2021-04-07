@@ -6522,3 +6522,9 @@
 [2021-04-07 08:12:31]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-07 08:12:32]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-07 08:12:34]: YelloWorlD [403, Level 41]: any²: qui quitte
+[2021-04-07 08:12:40]: ChillerDragon.* [Chilli.*, Level 41]: salut YelloWorlD
+[2021-04-07 08:12:41]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-07 08:12:43]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 08:12:43]: ChillerDragon.* [Chilli.*, Level 41]: brother bob
+[2021-04-07 08:12:49]: bob [Legacy™, Level 36]: brother
+[2021-04-07 08:12:50]: УБИВАТЬ! [, Level 0]: YelloWorlD: >> bro,help)
