@@ -13814,3 +13814,4 @@
 [2021-04-06 18:00:43]: hmmmmmm [, Level 11]: you waiting at night for kill
 [2021-04-06 18:00:50]: ✯Hunter.exe [|Supressed|, Level 37]: ok :d
 [2021-04-06 18:01:02]: hmmmmmm [, Level 11]: ?
+[2021-04-06 18:02:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
