@@ -5265,3 +5265,8 @@
 [2021-04-07 05:15:03]: ***  [, Level 0]: '[D] BC|kakashi' has left the game
 [2021-04-07 05:15:20]: ***  [, Level 0]: 'jorden' has left the game (Timeout Protection over)
 [2021-04-07 05:15:22]: ***  [, Level 0]: 'Anatomy' has left the game (Timeout Protection over)
+[2021-04-07 05:15:26]: ***  [, Level 0]: hhh3 is on a killing spree with 5 blocks
+[2021-04-07 05:15:26]: ***  [, Level 0]: [POLICE-CHANNEL] 'hhh3' is spawnblocking. Catch him!
+[2021-04-07 05:15:28]: ***  [, Level 0]: 'hhnaut31' has left the game
+[2021-04-07 05:15:28]: ***  [, Level 0]: 'hhh3' has left the game
+[2021-04-07 05:15:34]: ***  [, Level 0]: 'NABIL DZ' has left the game
