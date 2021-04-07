@@ -13830,3 +13830,5 @@
 [2021-04-06 18:05:09]: S Y T H N [iPro, Level 37]: wait
 [2021-04-06 18:05:16]: S Y T H N [iPro, Level 37]: come bank
 [2021-04-06 18:06:13]: ☺ [, Level 4]: euh thx
+[2021-04-06 18:06:20]: S Y T H N [iPro, Level 37]: ok bye ^^
+[2021-04-06 18:06:24]: ***  [, Level 0]: 'S Y T H N' has left the game
