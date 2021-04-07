@@ -5277,3 +5277,4 @@
 [2021-04-07 05:16:18]: weqe [MNKY, Level 12]: gimme money
 [2021-04-07 05:16:47]: ***  [, Level 0]: '(1)meme' has left the game
 [2021-04-07 05:17:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-07 05:17:09]: ***  [, Level 0]: 'BC|kakashi' has left the game
