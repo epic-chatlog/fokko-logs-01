@@ -13767,3 +13767,4 @@
 [2021-04-06 17:17:19]: ☺ [, Level 4]: i swear i just ask you for your rocket
 [2021-04-06 17:17:31]: ***  [, Level 0]: 'x7|KshKsh99' has left the game
 [2021-04-06 17:17:31]: ***  [, Level 0]: 'Mr.KshKsh99' has left the game
+[2021-04-06 17:22:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
