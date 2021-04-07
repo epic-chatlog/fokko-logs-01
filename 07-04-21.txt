@@ -423,3 +423,10 @@
 [2021-04-07 00:27:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 00:27:01]: GODLIKe [hax, Level 44]: oyun krallı: yan karakterinle kurtar beni
 [2021-04-07 00:27:11]: oyun krallı [, Level 12]: nerde
+[2021-04-07 00:27:14]: (1)ChillerDrago [Chilli.*, Level 31]: wtf demon
+[2021-04-07 00:27:15]: oyun krallı [, Level 12]: nerde
+[2021-04-07 00:27:16]: (1)ChillerDrago [Chilli.*, Level 31]: i helped u  demon
+[2021-04-07 00:27:18]: GODLIKe [hax, Level 44]: oyun krallı: önündeyim
+[2021-04-07 00:27:20]: GODLIKe [hax, Level 44]: oyun krallı: seri
+[2021-04-07 00:27:23]: (1)ChillerDrago [Chilli.*, Level 31]: why didnt u help me demon
+[2021-04-07 00:27:25]: BulgarianTee [xSD7, Level 0]: E
