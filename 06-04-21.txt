@@ -14180,3 +14180,5 @@
 [2021-04-06 22:33:48]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-06 22:33:49]: (3)SAUD [, Level 14]: dude
 [2021-04-06 22:33:56]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-06 22:34:02]: (3)SAUD [, Level 14]: speak eng 4 fuck sake
+[2021-04-06 22:34:02]: Boti. [.bad, Level 27]: what
