@@ -4639,3 +4639,8 @@
 [2021-04-07 04:36:17]: ***  [, Level 0]: 'Tziys*' entered and joined the game
 [2021-04-07 04:36:20]: (1)cookie [, Level 0]: wait
 [2021-04-07 04:36:22]: ***  [, Level 0]: [POLICE-CHANNEL] '(2)УБИВАТЬ!' is spawnblocking. Catch him!
+[2021-04-07 04:36:28]: (1)cookie [, Level 0]: wait
+[2021-04-07 04:36:31]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 10 blocks
+[2021-04-07 04:36:31]: Meetiteusz [TrRShClNrRs, Level 25]: Tziys*: k
+[2021-04-07 04:36:35]: send nudes [, Level 26]: kais: ?
+[2021-04-07 04:36:38]: ***  [, Level 0]: (2)УБИВАТЬ!'s killing spree was ended by Isegrin (11 blocks)
