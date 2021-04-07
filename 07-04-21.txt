@@ -5829,3 +5829,5 @@
 [2021-04-07 06:44:40]: oyun krallı [, Level 5]: ADAM KESEK
 [2021-04-07 06:44:43]: [D] Cylox♥ [♥, Level 24]: tm
 [2021-04-07 06:44:46]: ERROR [404, Level 74]: but who
+[2021-04-07 06:44:53]: weqe [MNKY, Level 12]: idk but he is nice
+[2021-04-07 06:44:58]: ERROR [404, Level 74]: right
