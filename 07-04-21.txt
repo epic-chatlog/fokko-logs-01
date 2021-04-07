@@ -4619,3 +4619,7 @@
 [2021-04-07 04:34:46]: Kezo [FookinLads, Level 41]: bob: who .
 [2021-04-07 04:34:51]: x7_sven [xSD7, Level 17]: bob: ?
 [2021-04-07 04:34:53]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)УБИВАТЬ!' is spawnblocking. Catch him!
+[2021-04-07 04:35:00]: ***  [, Level 0]: (1)УБИВАТЬ! is on a killing spree with 15 blocks
+[2021-04-07 04:35:00]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)УБИВАТЬ!' is spawnblocking. Catch him!
+[2021-04-07 04:35:05]: ***  [, Level 0]: 'Foxi♥' has left the game
+[2021-04-07 04:35:07]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)УБИВАТЬ!' has been caught by 'Virus' (12 minutes arrest)
