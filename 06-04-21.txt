@@ -14229,3 +14229,4 @@
 [2021-04-06 22:39:56]: ***  [, Level 0]: '[D] Boti.' has left the game
 [2021-04-06 22:40:00]: ***  [, Level 0]: 'kiøn1029' has left the game
 [2021-04-06 22:40:00]: ***  [, Level 0]: 'Kiøn1029' has left the game
+[2021-04-06 22:40:11]: (3)SAUD [, Level 14]: flag
