@@ -2514,3 +2514,6 @@
 [2021-04-07 02:42:59]: s7_sven [xSD7, Level 17]: -->
 [2021-04-07 02:43:00]: Maatiteusz [TrRShClNrRs, Level 35]: ChillerDragon: its my clanmate XD he will not do anything
 [2021-04-07 02:43:06]: Axandos [, Level 25]: f"{self.name}":  u attacked me idiot i thaught we had peace
+[2021-04-07 02:43:17]: f"{self.name}" [, Level 0]: Axandos: it was fun
+[2021-04-07 02:43:18]: 4jaja4 [, Level 23]: f"{self.name}":
+[2021-04-07 02:43:19]: 4jaja4 [, Level 23]: f
