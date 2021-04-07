@@ -10006,3 +10006,6 @@
 [2021-04-07 13:07:46]: (1)kais [, Level 58]: toxicdadd: good boy
 [2021-04-07 13:07:51]: toxicdadd [, Level 22]: M/
 [2021-04-07 13:07:52]: SwiatoslaW [, Level 38]: x7|cya: want weapon?
+[2021-04-07 13:08:03]: ***  [, Level 0]: 'ToMsKaTv' entered and joined the game
+[2021-04-07 13:08:03]: [D] x7|cya [xSD7, Level 0]: SwiatoslaW: no thanks xD
+[2021-04-07 13:08:07]: SwiatoslaW [, Level 38]: ok
