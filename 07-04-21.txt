@@ -6879,3 +6879,7 @@
 [2021-04-07 08:32:46]: bob [Legacy™, Level 36]: FK
 [2021-04-07 08:32:48]: ERROR. [404, Level 56]: xDDDDDDDDDDDD
 [2021-04-07 08:32:57]:   [, Level 0]: weqe: bob: dont give laughs to him
+[2021-04-07 08:33:00]: bob [Legacy™, Level 36]: ok sry
+[2021-04-07 08:33:01]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-07 08:33:07]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-07 08:33:09]: ERROR [404, Level 74]: bob how dare u
