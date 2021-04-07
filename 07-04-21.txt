@@ -9965,3 +9965,6 @@
 [2021-04-07 13:02:45]: ***  [, Level 0]: 'haxxless dummy' entered and joined the game
 [2021-04-07 13:02:48]: ***  [, Level 0]: 'haxxless dummy' has left the game
 [2021-04-07 13:02:50]: [D] SwiatoslaW [, Level 28]: not bot
+[2021-04-07 13:03:14]: ***  [, Level 0]: 'haxxless tee' changed name to '(1)x7|Flipper'
+[2021-04-07 13:03:18]: power [TrRShClNrRs, Level 0]: hihi everyomnes against slowly
+[2021-04-07 13:03:23]: power [TrRShClNrRs, Level 0]: gj ♥TAKO♥ :D
