@@ -1061,3 +1061,7 @@
 [2021-04-07 01:02:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 01:02:24]: Black Wolf [, Level 11]: Isegrin: ok
 [2021-04-07 01:02:24]: Hady [new bot, Level 0]: White Wolf:  you block my fake
+[2021-04-07 01:02:27]: ***  [, Level 0]: [POLICE-CHANNEL] 'Hady' is spawnblocking. Catch him!
+[2021-04-07 01:02:31]: (1)ChillerDrago [Chilli.*, Level 31]: i said war OpTEEmus Crime
+[2021-04-07 01:02:37]: ***  [, Level 0]: [POLICE-CHANNEL] 'Hady' has been caught by 'Isegrin' (10 minutes arrest)
+[2021-04-07 01:02:38]: ßumßelTEE [, Level 0]: why
