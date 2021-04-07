@@ -10541,3 +10541,6 @@
 [2021-04-07 14:26:41]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-07 14:26:47]: nameless tee [, Level 0]: ERROR: would you kill me if i shoot against the wall? xD
 [2021-04-07 14:26:47]: x7|zemer [xSD7, Level 37]: x7 sven:
+[2021-04-07 14:26:52]: ERROR [404, Level 74]: pls dont xd
+[2021-04-07 14:27:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-07 14:27:00]: ♥TAKO♥ [, Level 25]: Isegrin:  come
