@@ -7320,3 +7320,8 @@
 [2021-04-07 10:46:34]: Sash [Sash Client, Level 0]: ERROR:  digga helf ma
 [2021-04-07 10:46:38]: ERROR.. [404, Level 24]: wobei
 [2021-04-07 10:46:38]: OP|Supers [DogParty, Level 39]: Cylox:  ich liebe dich
+[2021-04-07 10:46:47]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-07 10:46:47]: Sash [Sash Client, Level 0]: ERROR:  wen ich springe oder sowas bewegt sich das bild xD
+[2021-04-07 10:46:50]: ***  [, Level 0]: '[D] MNKY | Arin' joined the spectators
+[2021-04-07 10:46:52]:   [, Level 0]: mamikral011: HardreenClutch: hi
+[2021-04-07 10:46:53]: ***  [, Level 0]: '[D] MNKY | Arin' joined the game
