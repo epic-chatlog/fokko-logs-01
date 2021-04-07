@@ -4632,3 +4632,4 @@
 [2021-04-07 04:35:51]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
 [2021-04-07 04:35:51]: ***  [, Level 0]: 'BC|Tixnix' has left the game
 [2021-04-07 04:35:53]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
+[2021-04-07 04:36:10]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 5 blocks
