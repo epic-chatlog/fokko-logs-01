@@ -1643,3 +1643,10 @@
 [2021-04-07 01:52:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 01:52:07]: any [404, Level 0]: GOLD: reste sur le compte
 [2021-04-07 01:52:08]: GOLD [404, Level 41]: ChillerDragon: but no fun infinite
+[2021-04-07 01:52:12]: GOLD [404, Level 41]: ChillerDragon: nobody win
+[2021-04-07 01:52:15]: mamikral011 [, Level 26]: WarHammer: çok iyisin
+[2021-04-07 01:52:15]: GOLD [404, Level 41]: any: ok
+[2021-04-07 01:52:20]: ***  [, Level 0]: 'send nudes' finished the special race!
+[2021-04-07 01:52:20]: ***  [, Level 0]: send nudes finished in: 8 minute(s) 39.82 second(s)
+[2021-04-07 01:52:21]: ***  [, Level 0]: '[D] send nudes' finished the special race!
+[2021-04-07 01:52:21]: ***  [, Level 0]: [D] send nudes finished in: 8 minute(s) 32.12 second(s)
