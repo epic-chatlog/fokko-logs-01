@@ -8240,3 +8240,9 @@
 [2021-04-07 11:25:18]: (1)ChillerDrago [|*KoG*|, Level 44]: gut nacht ERROR.
 [2021-04-07 11:25:29]: [D] MNKY | Arin [, Level 0]: ERROR.
 [2021-04-07 11:25:31]: [D] MNKY | Arin [, Level 0]: ERROR:
+[2021-04-07 11:25:40]: [D] MNKY | Arin [, Level 0]: x7 sven:
+[2021-04-07 11:25:41]:   [, Level 0]: ERRORᅟᅟᅟ: MNKY | Arin:
+[2021-04-07 11:25:42]: Kiøn1029 [.bad, Level 31]: miért kérdezi ezt tőled mindenki
+[2021-04-07 11:25:44]: Boti. [.bad, Level 33]: OP|Supers: dont you see what whe wrote on x7 discord enemy suggestion?
+[2021-04-07 11:25:44]: [D] MNKY | Arin [, Level 0]: hm?
+[2021-04-07 11:25:48]: ***  [, Level 0]: 'KoalasSindCool' has left the game
