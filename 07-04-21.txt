@@ -10913,3 +10913,4 @@
 [2021-04-07 15:14:40]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-07 15:14:44]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-07 15:14:45]: x7 sven [xSD7, Level 18]: xD#
+[2021-04-07 15:15:11]: ***  [, Level 0]: 'Hunter.exe' entered and joined the game
