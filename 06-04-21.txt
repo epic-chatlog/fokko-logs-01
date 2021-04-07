@@ -14176,3 +14176,7 @@
 [2021-04-06 22:33:30]: Boti. [.bad, Level 27]: bruh
 [2021-04-06 22:33:40]: Boti. [.bad, Level 27]: lehet az a baj hogy nem vagy twinbop
 [2021-04-06 22:33:41]: Boti. [.bad, Level 27]: XDD
+[2021-04-06 22:33:47]: (3)SAUD [, Level 14]: duder
+[2021-04-06 22:33:48]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-06 22:33:49]: (3)SAUD [, Level 14]: dude
+[2021-04-06 22:33:56]: ***  [, Level 0]: 'nameless tee' has left the game
