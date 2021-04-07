@@ -15172,3 +15172,4 @@
 [2021-04-06 23:53:20]: (1)kais [, Level 58]: Batman: ok xD
 [2021-04-06 23:53:23]: ***  [, Level 0]: '(1)oyun krallı' joined the game
 [2021-04-06 23:53:29]: ***  [, Level 0]: 'demon,' entered and joined the game
+[2021-04-06 23:53:40]: ***  [, Level 0]: 'demon,' has left the game
