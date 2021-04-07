@@ -5911,3 +5911,7 @@
 [2021-04-07 06:49:30]: ***  [, Level 0]: 'Friendiship ;-)' has left the game
 [2021-04-07 06:49:30]: ***  [, Level 0]: 'toxicdaddy' has left the game
 [2021-04-07 06:49:30]: ***  [, Level 0]: '[D] toxicdaddy' has left the game
+[2021-04-07 06:49:43]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-07 06:49:44]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 06:49:44]: ***  [, Level 0]: 'KnightYT' entered and joined the game
+[2021-04-07 06:49:46]: ***  [, Level 0]: 'jeder' entered and joined the game
