@@ -7178,3 +7178,11 @@
 [2021-04-07 10:36:54]: ***  [, Level 0]: 'toxicdaddy♥' has left the game (Timeout)
 [2021-04-07 10:36:54]: ***  [, Level 0]: '[D] toxicdaddy' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-07 10:36:54]: ***  [, Level 0]: 'Sash' has left the game
+[2021-04-07 10:36:57]: kais [, Level 65]: ChillerDragon: yes
+[2021-04-07 10:36:58]: ***  [, Level 0]: 'toxicdaddy' entered and joined the game
+[2021-04-07 10:37:00]: ***  [, Level 0]: '[D] toxicdaddy' entered and joined the game
+[2021-04-07 10:37:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-07 10:37:01]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-07 10:37:02]: (1)ChillerDrago [Chilli.*, Level 44]: its new testy kais idk what problems will occur
+[2021-04-07 10:37:03]: ***  [, Level 0]: 'Sash' entered and joined the game
+[2021-04-07 10:37:04]: ***  [, Level 0]: 'gian x' joined the game
