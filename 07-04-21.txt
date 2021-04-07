@@ -7013,3 +7013,9 @@
 [2021-04-07 08:42:19]: ***  [, Level 0]: Successfully logged in
 [2021-04-07 08:42:19]: meme [Ape, Level 0]: isegrin help me
 [2021-04-07 08:42:21]: ***  [, Level 0]: 'ビール|Zero' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-07 08:42:24]: ***  [, Level 0]: 'ビール|Zero' left the minigame 'Survival'
+[2021-04-07 08:42:26]: ビール|Zero [Chilli.*, Level 28]: q
+[2021-04-07 08:42:28]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 08:42:30]: ビール|Zero [Chilli.*, Level 28]: я родился
+[2021-04-07 08:42:32]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-07 08:42:32]: ***  [, Level 0]: 'Niemand' entered and joined the game
