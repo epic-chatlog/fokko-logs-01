@@ -5503,3 +5503,6 @@
 [2021-04-07 06:24:10]: → Nudelsaft c: [FookinLads, Level 0]: executed following command: player_name Discord
 [2021-04-07 06:24:10]: ***  [, Level 0]: 'chillerdagorn' changed name to 'Discord'
 [2021-04-07 06:24:11]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-07 06:24:32]: Kirito [♥, Level 25]: oyun kırallı: war4life
+[2021-04-07 06:24:33]: ***  [, Level 0]: BULLETBOT is on a killing spree with 5 blocks
+[2021-04-07 06:24:34]: Kirito [♥, Level 25]: ERROR.: noob
