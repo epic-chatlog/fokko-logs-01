@@ -10087,3 +10087,6 @@
 [2021-04-07 13:26:05]: Nudelsaft c: [FookinLads, Level 0]: yay
 [2021-04-07 13:26:15]: Isegrin [, Level 54]: x7 sven: are u from sweden? :-D
 [2021-04-07 13:26:26]: ***  [, Level 0]: 'x7|Flipper' changed name to '(1)flappy'
+[2021-04-07 13:26:31]: Isegrin [, Level 54]: yeeee
+[2021-04-07 13:26:39]: ***  [, Level 0]: '[D] x7|cya' has left the game
+[2021-04-07 13:26:39]: ***  [, Level 0]: 'x7|cya' has left the game
