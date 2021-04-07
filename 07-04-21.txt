@@ -5820,3 +5820,8 @@
 [2021-04-07 06:44:08]: ***  [, Level 0]: '__init__(self):' has left the game
 [2021-04-07 06:44:09]: x7|sven [xSD7, Level 17]: SPAWNBLOCKING HELp ^^
 [2021-04-07 06:44:15]: weqe [MNKY, Level 12]: ERROR.: give money
+[2021-04-07 06:44:24]:   [, Level 0]: ERROR: who u
+[2021-04-07 06:44:25]: ***  [, Level 0]: 'power' has left the game
+[2021-04-07 06:44:25]: ***  [, Level 0]: 'power2' has left the game
+[2021-04-07 06:44:30]: x7|sven [xSD7, Level 17]: fokkonaut:  look spawn is this legal
+[2021-04-07 06:44:32]: ERROR [404, Level 74]: but who
