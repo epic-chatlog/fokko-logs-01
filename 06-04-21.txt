@@ -14214,3 +14214,4 @@
 [2021-04-06 22:38:10]: kiøn1029 [.bad, Level 25]: és 11kor aludtam vagy nem tom
 [2021-04-06 22:38:23]: kiøn1029 [.bad, Level 25]: 6 óra alvás után felkelek instant
 [2021-04-06 22:38:23]: Boti. [.bad, Level 27]: óra átállítás miatt kelek később de amúgy 5kor meg 6kor kelnék
+[2021-04-06 22:38:25]: ***  [, Level 0]: 'Leblebi' entered and joined the game
