@@ -5927,3 +5927,7 @@
 [2021-04-07 06:50:13]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-07 06:50:15]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-07 06:50:17]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
+[2021-04-07 06:50:31]:   [, Level 0]: (1)oyun krallı: 1900 ÇIK TI VALAHA
+[2021-04-07 06:50:33]:   [, Level 0]: kais: yes i did
+[2021-04-07 06:50:36]: [D] Cylox♥ [♥, Level 24]: he tm gerı at
+[2021-04-07 06:50:40]:   [, Level 0]: (1)oyun krallı: 1900 ÇIK TI VALAHA
