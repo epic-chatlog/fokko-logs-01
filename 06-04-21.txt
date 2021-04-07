@@ -14660,3 +14660,6 @@
 [2021-04-06 23:20:41]: ***  [, Level 0]: '[D] Cylox' entered and joined the game
 [2021-04-06 23:20:42]: power2 [TrRShClNrRs, Level 0]: we are a couple remember? couples fight sometimes
 [2021-04-06 23:20:45]: BulgarianTee [xSD7, Level 0]: kais: STOP EQUIP PISTOL
+[2021-04-06 23:20:54]: kais [, Level 65]: it's my jepack nobo
+[2021-04-06 23:20:56]: ***  [, Level 0]: 'power' has left the game
+[2021-04-06 23:20:56]: ***  [, Level 0]: 'power2' has left the game
