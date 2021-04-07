@@ -9163,3 +9163,4 @@
 [2021-04-07 12:07:01]: [D] MNKY | Arin [, Level 0]: NochmaL!
 [2021-04-07 12:07:02]: [D] MNKY | Arin [, Level 0]: DOCH
 [2021-04-07 12:07:05]: [D] MNKY | Arin [, Level 0]: schisser!
+[2021-04-07 12:07:08]: ***  [, Level 0]: 'Axel ²' entered and joined the game
