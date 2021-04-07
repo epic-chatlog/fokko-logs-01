@@ -14242,3 +14242,5 @@
 [2021-04-06 22:41:03]: (3)SAUD [, Level 14]: WTFF U ARE 6 PING
 [2021-04-06 22:41:06]: (3)SAUD [, Level 14]: holy
 [2021-04-06 22:41:07]: Sashy [, Level 27]: yes
+[2021-04-06 22:41:58]: Sashy [, Level 27]: are you new on the server ?
+[2021-04-06 22:42:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
