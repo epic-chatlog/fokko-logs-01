@@ -1137,3 +1137,5 @@
 [2021-04-07 01:09:29]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-07 01:09:39]: ***  [, Level 0]: 'Black Wolf' has left the game
 [2021-04-07 01:09:39]: ***  [, Level 0]: 'White Wolf' has left the game
+[2021-04-07 01:09:41]: power [TrRShClNrRs, Level 0]: fk u Isegrin
+[2021-04-07 01:09:44]: power [TrRShClNrRs, Level 0]: i hate u so much
