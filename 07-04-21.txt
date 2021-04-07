@@ -10513,3 +10513,4 @@
 [2021-04-07 14:20:44]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
 [2021-04-07 14:21:13]: Isegrin [, Level 55]: x7 sven: deutsh?
 [2021-04-07 14:21:32]: Kirito♥ [♥, Level 40]: x7|Flipper:
+[2021-04-07 14:22:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
