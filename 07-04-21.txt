@@ -7186,3 +7186,10 @@
 [2021-04-07 10:37:02]: (1)ChillerDrago [Chilli.*, Level 44]: its new testy kais idk what problems will occur
 [2021-04-07 10:37:03]: ***  [, Level 0]: 'Sash' entered and joined the game
 [2021-04-07 10:37:04]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-07 10:37:11]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-07 10:37:12]: YelloWorlD [DogParty, Level 41]: any: aller join
+[2021-04-07 10:37:14]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-07 10:37:15]: ***  [, Level 0]: '[D] Cylox' entered and joined the game
+[2021-04-07 10:37:16]: kais [, Level 65]: ChillerDragon: i mean, which dummy is spectating .?
+[2021-04-07 10:37:20]: (1)ChillerDrago [Chilli.*, Level 44]: ah kais
+[2021-04-07 10:37:20]: ***  [, Level 0]: 'gian x' joined the spectators
