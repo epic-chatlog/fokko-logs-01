@@ -7790,3 +7790,8 @@
 [2021-04-07 11:06:28]:   [, Level 0]: (2)SAUD: Boti.:  go buy plot 12 then sell it to me and put the price 50k
 [2021-04-07 11:06:29]: (1)ChillerDrago [Chilli.*, Level 44]: ERROR:
 [2021-04-07 11:06:30]:   [, Level 0]: ERROR: 147k in wallet xDDD
+[2021-04-07 11:06:34]: Boti. [.bad, Level 33]: ok
+[2021-04-07 11:06:35]: [D] MNKY | Arin [, Level 0]: (1)ChillerDrago:  ahso stimmt ja es tut mir leid das ich dich gebackstabbt habe aber das war net extra Team chiller for life
+[2021-04-07 11:06:36]: (1)ChillerDrago [Chilli.*, Level 44]: rich
+[2021-04-07 11:06:39]: (1)ChillerDrago [Chilli.*, Level 44]: send ERROR brauich taser
+[2021-04-07 11:06:43]:   [, Level 0]: ERROR: NONO
