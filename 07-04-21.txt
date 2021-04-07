@@ -6939,3 +6939,10 @@
 [2021-04-07 08:37:33]: ***  [, Level 0]: 'dsad' has left the game
 [2021-04-07 08:37:33]: ***  [, Level 0]: 'Kezo' has left the game
 [2021-04-07 08:37:34]: SAUD [, Level 24]: bob:
+[2021-04-07 08:37:44]: ***  [, Level 0]: 'Kezo' entered and joined the game
+[2021-04-07 08:37:46]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
+[2021-04-07 08:37:46]: #3 blocker [TW|Blockers, Level 24]: mamikral011: idiot
+[2021-04-07 08:37:46]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-07 08:37:48]: mamikral011 [, Level 26]: Cosmo: hellppp
+[2021-04-07 08:37:49]:   [, Level 0]: Swarfey: \(
+[2021-04-07 08:37:52]: mamikral011 [, Level 26]: #3 blocker: fuck ,
