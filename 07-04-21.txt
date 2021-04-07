@@ -8020,3 +8020,7 @@
 [2021-04-07 11:16:55]: ***  [, Level 0]: '(1)ビール|Zero' has left the game
 [2021-04-07 11:16:59]: [D] MNKY | Arin [, Level 0]: weqe:
 [2021-04-07 11:17:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-07 11:17:03]: [D] MNKY | Arin [, Level 0]: traitor deserves to die
+[2021-04-07 11:17:03]: (1)ChillerDrago [Chilli.*, Level 44]: ♥JustRace♥: i dont asked u to kill
+[2021-04-07 11:17:08]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
+[2021-04-07 11:17:10]: (1)ChillerDrago [Chilli.*, Level 44]: i asked u to help ♥JustRace♥ just unfreeze me
