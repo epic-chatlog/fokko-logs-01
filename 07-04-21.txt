@@ -6295,3 +6295,8 @@
 [2021-04-07 07:13:17]: (1)DiscordBridg [, Level 24]: fokkonaut: t
 [2021-04-07 07:13:18]: ***  [, Level 0]: 'Flupper' has left the game
 [2021-04-07 07:13:18]: ***  [, Level 0]: 'x7|flappy' has left the game
+[2021-04-07 07:13:20]:   [, Level 0]: ERROR: rq
+[2021-04-07 07:13:23]: (1)DiscordBridg [, Level 24]: Swarfey: test
+[2021-04-07 07:13:27]: 4jaja4.* [Chilli.*, Level 19]: toxicdaddy: why u kill
+[2021-04-07 07:13:28]: ᅟᅟᅟ [, Level 48]: K!ked: dont be pisyun
+[2021-04-07 07:13:30]: ***  [, Level 0]: '(1)' has left the game
