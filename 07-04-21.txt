@@ -2291,3 +2291,5 @@
 [2021-04-07 02:28:55]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 32.24 second(s)
 [2021-04-07 02:29:00]: weqe [MNKY, Level 12]: bob: who this ?
 [2021-04-07 02:29:02]: bob [Legacy™, Level 36]: uidk
+[2021-04-07 02:29:13]: Discord [, Level 39]: ERROR: weqe gay
+[2021-04-07 02:29:17]: weqe [MNKY, Level 12]: ERROR: wtf
