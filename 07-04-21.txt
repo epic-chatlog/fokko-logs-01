@@ -6393,3 +6393,6 @@
 [2021-04-07 07:50:06]: kurama [, Level 10]: [2] VeemID:
 [2021-04-07 07:50:10]: kurama [, Level 10]: [2] VeemID:
 [2021-04-07 07:50:30]: fokkonaut [, Level 102]: test
+[2021-04-07 08:00:13]: ←   [, Level 0]: Nudelsaft c:: chatlog
+[2021-04-07 08:00:13]: #3 blocker [TW|Blockers, Level 24]: Kiøn1029: írjak egy aimbot scriptet python ba?
+[2021-04-07 08:00:19]: (1)УБИВАТ [, Level 0]: .S L E E P Y': <<<<
