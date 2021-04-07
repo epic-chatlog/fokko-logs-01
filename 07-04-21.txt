@@ -3522,3 +3522,5 @@
 [2021-04-07 03:54:45]: (1)Friendiship  [, Level 0]: kais: dsl je suis dans la team chiller
 [2021-04-07 03:54:47]: ***  [, Level 0]: 'samtboi' entered and joined the game
 [2021-04-07 03:54:55]:   [, Level 0]: kais: (1)Friendiship ;: ouai mais tu m'déranges
+[2021-04-07 03:55:10]: ***  [, Level 0]: toxicdaddy finished in: 3 minute(s)  0.54 second(s)
+[2021-04-07 03:55:10]: ***  [, Level 0]: 'toxicdaddy' finished the special race!
