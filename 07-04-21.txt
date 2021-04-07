@@ -9975,3 +9975,5 @@
 [2021-04-07 13:04:24]: ***  [, Level 0]: 'd' has left the game
 [2021-04-07 13:04:24]: ***  [, Level 0]: 'sun.slow(y)' has left the game
 [2021-04-07 13:04:30]: ♥TAKO♥ [, Level 25]: power:  ye
+[2021-04-07 13:04:38]: ***  [, Level 0]: 'kropkowaty' has left the game
+[2021-04-07 13:04:41]: ***  [, Level 0]: 'kropkowaty' entered and joined the game
