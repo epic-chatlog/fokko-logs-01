@@ -6683,3 +6683,4 @@
 [2021-04-07 08:20:54]: (1)ChillerDrago [|*KoG*|, Level 32]: 10 0 any
 [2021-04-07 08:20:56]: [2] VeemID [, Level 0]: bob:
 [2021-04-07 08:20:59]: (2)ChillerDrago [|*KoG*|, Level 32]: xD
+[2021-04-07 08:21:11]: (2)ChillerDrago [|*KoG*|, Level 32]: ERROR: soll ich dich killn?
