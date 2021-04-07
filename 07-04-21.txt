@@ -5368,3 +5368,5 @@
 [2021-04-07 05:24:45]: ***  [, Level 0]: 'Kotik' entered and joined the game
 [2021-04-07 05:24:45]: cookie [, Level 17]: no
 [2021-04-07 05:25:00]: MieSlime [FookinLads, Level 43]: ik
+[2021-04-07 05:25:25]: x7_sven [xSD7, Level 17]: close ^^
+[2021-04-07 05:25:26]: cookie [, Level 17]: sorry
