@@ -5062,3 +5062,6 @@
 [2021-04-07 05:02:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-07 05:02:00]: ***  [, Level 0]: GODLIKe.'s killing spree was ended by weqe (6 blocks)
 [2021-04-07 05:02:02]:   [, Level 0]: Isegrin: hhh3: JAJAJAa
+[2021-04-07 05:02:08]: ***  [, Level 0]: 'WarHammer'' has left the game
+[2021-04-07 05:02:08]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-07 05:02:13]: hhh3 [, Level 48]: Isegrin: uybfdasbgfuydsagbfsado
