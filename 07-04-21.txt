@@ -7170,3 +7170,11 @@
 [2021-04-07 10:36:38]: ***  [, Level 0]: 'Fearless' has left the game
 [2021-04-07 10:36:38]: ***  [, Level 0]: '[D] Fearless' has left the game
 [2021-04-07 10:36:40]: ***  [, Level 0]: 'MieSlime' has left the game
+[2021-04-07 10:36:43]: (1)ChillerDrago [Chilli.*, Level 44]: Fearless: just search for ChillerDragon or BlmapChill
+[2021-04-07 10:36:44]: (1)ChillerDrago [Chilli.*, Level 44]: bra
+[2021-04-07 10:36:45]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-07 10:36:49]: (1)ChillerDrago [Chilli.*, Level 44]: kais its the plan
+[2021-04-07 10:36:53]: (1)ChillerDrago [Chilli.*, Level 44]: u saw the stream kais ?
+[2021-04-07 10:36:54]: ***  [, Level 0]: 'toxicdaddy♥' has left the game (Timeout)
+[2021-04-07 10:36:54]: ***  [, Level 0]: '[D] toxicdaddy' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-07 10:36:54]: ***  [, Level 0]: 'Sash' has left the game
