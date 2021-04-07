@@ -9109,3 +9109,7 @@
 [2021-04-07 12:04:08]: any [404, Level 42]: bob: huh
 [2021-04-07 12:04:09]: bob [Legacy™, Level 36]: (2)ChillerDrago:
 [2021-04-07 12:04:13]: any [404, Level 42]: bob: ok for tonight
+[2021-04-07 12:04:27]: bob [Legacy™, Level 36]: any: no
+[2021-04-07 12:04:28]: OP|Supers [DogParty, Level 39]: bob:
+[2021-04-07 12:04:30]: bob [Legacy™, Level 36]: everytime or never
+[2021-04-07 12:04:34]: OP|Supers [DogParty, Level 39]: bob: do oyu want to spike somone?
