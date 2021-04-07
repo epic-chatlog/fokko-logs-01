@@ -1115,3 +1115,5 @@
 [2021-04-07 01:07:11]: Black Wolf [, Level 11]: ✯|Not Bulash: plz
 [2021-04-07 01:07:20]: ***  [, Level 0]: '(1)1' has left the game
 [2021-04-07 01:07:24]: ***  [, Level 0]: '1' has left the game
+[2021-04-07 01:07:30]: ***  [, Level 0]: '1' entered and joined the game
+[2021-04-07 01:07:34]: ᅟᅟᅟᅟᅟ [, Level 46]: xD
