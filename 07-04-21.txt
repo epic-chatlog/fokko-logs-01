@@ -7077,3 +7077,8 @@
 [2021-04-07 10:32:38]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
 [2021-04-07 10:32:41]: ***  [, Level 0]: '(2)Cosmo' joined the spectators
 [2021-04-07 10:32:41]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-07 10:32:43]: x7 sven [xSD7, Level 18]: OP|Supers:  hahaha
+[2021-04-07 10:32:49]: (1)Friendiship  [, Level 0]: YelloWorlD: c bon
+[2021-04-07 10:32:50]: OP|Supers [DogParty, Level 39]: x7 sven:  hdf jz
+[2021-04-07 10:32:54]: ***  [, Level 0]: '(2)Cosmo' has left the game
+[2021-04-07 10:32:54]: ***  [, Level 0]: 'sL|KeBu28' entered and joined the game
