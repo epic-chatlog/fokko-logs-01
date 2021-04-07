@@ -11007,3 +11007,4 @@
 [2021-04-07 15:55:07]: ***  [, Level 0]: 'GAMER' entered and joined the game
 [2021-04-07 15:55:13]: ***  [, Level 0]: 'GAMER' has left the game
 [2021-04-07 15:56:00]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-07 15:56:29]: ***  [, Level 0]: 'nameless tee' has left the game
