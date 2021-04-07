@@ -7315,3 +7315,8 @@
 [2021-04-07 10:46:19]: ***  [, Level 0]: '[D] MNKY | Arin' joined the spectators
 [2021-04-07 10:46:23]: ***  [, Level 0]: '[D] MNKY | Arin' joined the game
 [2021-04-07 10:46:26]: YelloWorlD [DogParty, Level 41]: Marcisten: want join my clan ?
+[2021-04-07 10:46:29]: Sash [Sash Client, Level 0]: ERROR:
+[2021-04-07 10:46:33]: ERROR.. [404, Level 24]: ?
+[2021-04-07 10:46:34]: Sash [Sash Client, Level 0]: ERROR:  digga helf ma
+[2021-04-07 10:46:38]: ERROR.. [404, Level 24]: wobei
+[2021-04-07 10:46:38]: OP|Supers [DogParty, Level 39]: Cylox:  ich liebe dich
