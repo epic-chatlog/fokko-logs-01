@@ -10147,3 +10147,5 @@
 [2021-04-07 13:39:21]: Swarfey [FookinLads, Level 42]: einfach
 [2021-04-07 13:39:28]: ***  [, Level 0]: 'УБИВАТЬ!' has left the game
 [2021-04-07 13:39:32]: Isegrin [, Level 54]: was
+[2021-04-07 13:39:44]: Swarfey [FookinLads, Level 42]: einfach = easy
+[2021-04-07 13:39:47]: Isegrin [, Level 54]: aha
