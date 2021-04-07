@@ -6229,3 +6229,9 @@
 [2021-04-07 07:04:54]: 4jaja4 [Chilli.*, Level 23]: Nudelsaft c::
 [2021-04-07 07:04:57]: CKA3A4NIK[NR] [Night Raid, Level 35]: kurama:  Окей ты мой раб
 [2021-04-07 07:04:58]: ***  [, Level 0]: 'Kirito♥' has left the game (Timeout)
+[2021-04-07 07:05:02]: kurama [, Level 10]: CKA3A4NIK[NR]: :-:
+[2021-04-07 07:05:03]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[2021-04-07 07:05:08]: cookie [, Level 17]: :spec
+[2021-04-07 07:05:10]:   [, Level 0]: Boti.: @everyone
+[2021-04-07 07:05:12]:   [, Level 0]: Boti.: sad
+[2021-04-07 07:05:13]:   [, Level 0]: Boti.: :(
