@@ -2941,3 +2941,5 @@
 [2021-04-07 03:15:22]: ***  [, Level 0]: 'TeigHuhn' joined the game
 [2021-04-07 03:15:38]: kais [, Level 65]: (1)ChillerDragon:
 [2021-04-07 03:15:41]: ***  [, Level 0]: 'toxicdaddy' entered and joined the game
+[2021-04-07 03:15:50]: Maatiteusz [TrRShClNrRs, Level 35]: toxicdaddy: toxic daddy
+[2021-04-07 03:15:52]: Maatiteusz [TrRShClNrRs, Level 35]: toxicdaddy: hi there
