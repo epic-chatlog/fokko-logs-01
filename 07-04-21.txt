@@ -6317,3 +6317,9 @@
 [2021-04-07 07:14:04]: ←   [, Level 0]: Discord
 [2021-04-07 07:14:04]: → Nudelsaft c: [FookinLads, Level 0]: changed name to Discord!
 [2021-04-07 07:14:04]: ***  [, Level 0]: '(1)Discord' changed name to 'Discord'
+[2021-04-07 07:14:09]: (1)DiscordBridg [, Level 24]: fokkonaut: test 123
+[2021-04-07 07:14:11]: fokkonaut [, Level 102]: test 321
+[2021-04-07 07:14:15]: Boti. [.bad, Level 0]: wait what
+[2021-04-07 07:14:19]: ←   [, Level 0]: Nudelsaft c:: 0say a
+[2021-04-07 07:14:19]: Discord [, Level 39]: a
+[2021-04-07 07:14:20]: Boti. [.bad, Level 0]: thats illegal
