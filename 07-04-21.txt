@@ -6235,3 +6235,6 @@
 [2021-04-07 07:05:10]:   [, Level 0]: Boti.: @everyone
 [2021-04-07 07:05:12]:   [, Level 0]: Boti.: sad
 [2021-04-07 07:05:13]:   [, Level 0]: Boti.: :(
+[2021-04-07 07:05:15]: ***  [, Level 0]: 'Boti.' has left the game
+[2021-04-07 07:05:18]:   [, Level 0]: Kiøn1029: ezért feljössz XDD
+[2021-04-07 07:05:20]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
