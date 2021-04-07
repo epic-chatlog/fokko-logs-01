@@ -7090,3 +7090,11 @@
 [2021-04-07 10:33:06]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-07 10:33:06]: YelloWorlD [DogParty, Level 41]: (1)Friendiship : ta pas mi
 [2021-04-07 10:33:07]: OP|Supers [DogParty, Level 39]: ERROR: ez
+[2021-04-07 10:33:08]: (1)Cosmo [, Level 0]: Lucas
+[2021-04-07 10:33:12]: ***  [, Level 0]: '(1)Friendiship ;' has left the game
+[2021-04-07 10:33:14]: (1)Cosmo [, Level 0]: Lucas: help
+[2021-04-07 10:33:15]: YelloWorlD [DogParty, Level 41]: ERROR: bonus
+[2021-04-07 10:33:15]: ***  [, Level 0]: '(1)Friendiship ;' entered and joined the game
+[2021-04-07 10:33:16]: x7 sven [xSD7, Level 18]: sagt der der nur bei leuten lutsch wei l er selber zu kacke ist hust hust
+[2021-04-07 10:33:17]: Lucas [THECEPS, Level 34]: (1)Cosmo: wait
+[2021-04-07 10:33:19]: OP|Supers [DogParty, Level 39]: YelloWorlD:  we got this
