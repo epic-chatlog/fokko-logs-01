@@ -10491,3 +10491,6 @@
 [2021-04-07 14:15:33]: [D] ♥TAKO♥ [, Level 0]: u say "immi go bath now, maybe you wanna join me?"
 [2021-04-07 14:15:38]: [D] ♥TAKO♥ [, Level 0]: say turkey
 [2021-04-07 14:16:02]: Isegrin [, Level 55]: [D] ♥TAKO♥: I dont know turkish
+[2021-04-07 14:16:15]: [D] ♥TAKO♥ [, Level 0]: wait
+[2021-04-07 14:16:15]: WarHammer [, Level 26]: stop spam
+[2021-04-07 14:16:18]: ***  [, Level 0]: '(2)lol' entered and joined the game
