@@ -14476,3 +14476,5 @@
 [2021-04-06 23:06:45]: ***  [, Level 0]: New record: 58.60 second(s) better.
 [2021-04-06 23:06:48]: BulgarianTee [xSD7, Level 0]: x7|KshKsh99: their dogs and dog clan FookinLads is still here
 [2021-04-06 23:07:00]: ***  [, Level 0]: 'Sad Guy' entered and joined the game
+[2021-04-06 23:07:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-06 23:07:08]: BulgarianTee [xSD7, Level 0]: x7|KshKsh99: and they 24/7 flex how they own police all day and how we are sad gays that cant play
