@@ -9675,3 +9675,5 @@
 [2021-04-07 12:34:39]: MieSlime [FookinLads, Level 43]: [D] BC|Tixnix:  fuck u -_-
 [2021-04-07 12:34:48]: ***  [, Level 0]: 'KoalasSindCool' has left the game
 [2021-04-07 12:34:51]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
+[2021-04-07 12:35:00]: ***  [, Level 0]: 'VeemID' has left the game (Timeout Protection over)
+[2021-04-07 12:35:00]: ***  [, Level 0]: '[2] VeemID' has left the game (Timeout Protection over)
