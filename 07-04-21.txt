@@ -10855,3 +10855,5 @@
 [2021-04-07 15:00:14]: nameless tee [, Level 0]: genug noch nicht xD
 [2021-04-07 15:00:31]: nameless tee [, Level 0]: abdecken tut es bis jetzt noch nicht viel
 [2021-04-07 15:00:34]: bob [Legacy™, Level 36]: >10000?
+[2021-04-07 15:01:56]: x7|zemer [xSD7, Level 37]: bob: OK
+[2021-04-07 15:02:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
