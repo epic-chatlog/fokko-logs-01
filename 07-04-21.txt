@@ -6347,3 +6347,8 @@
 [2021-04-07 07:21:02]: ***  [, Level 0]: Successfully logged in
 [2021-04-07 07:21:02]: (1)DiscordBridg [, Level 0]: fokkonaut: xd
 [2021-04-07 07:21:04]: ERRORᅟᅟᅟ [404, Level 47]: fokkonaut:  omg hab den johncena skin nichtmehr xD
+[2021-04-07 07:21:12]: ←   [, Level 0]: Nudelsaft c:: changepublic
+[2021-04-07 07:21:13]: ***  [, Level 0]: '|Smily' has left the game
+[2021-04-07 07:21:13]: ***  [, Level 0]: '|Smily' has left the game
+[2021-04-07 07:21:15]: Nudelsaft c: [FookinLads, Level 37]: test
+[2021-04-07 07:21:15]: Nudelsaft c: [FookinLads, Level 37]: test
