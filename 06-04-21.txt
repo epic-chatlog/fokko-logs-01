@@ -14647,3 +14647,5 @@
 [2021-04-06 23:19:58]: (3)SAUD [, Level 14]: power:  u blocked me yesterday
 [2021-04-06 23:20:07]: BulgarianTee [xSD7, Level 0]: E
 [2021-04-06 23:20:07]: power2 [TrRShClNrRs, Level 0]: dafuq SAUD
+[2021-04-06 23:20:12]: BulgarianTee [xSD7, Level 0]: Xdddd
+[2021-04-06 23:20:19]: (3)SAUD [, Level 14]: power:  wdym u always block me
