@@ -14521,3 +14521,6 @@
 [2021-04-06 23:11:00]: ***  [, Level 0]: 'demon,' has left the game
 [2021-04-06 23:11:02]: mT Азазел [, Level 38]: просто упади
 [2021-04-06 23:11:04]: mT Азазел [, Level 38]: ко мне
+[2021-04-06 23:11:19]: ***  [, Level 0]: '#5 blocker' entered and joined the game
+[2021-04-06 23:11:23]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-06 23:11:23]: ***  [, Level 0]: 'ss' entered and joined the game
