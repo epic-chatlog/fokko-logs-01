@@ -6733,3 +6733,6 @@
 [2021-04-07 08:24:11]: ***  [, Level 0]: 'P4Pyr0s' has left the game
 [2021-04-07 08:24:15]: bob [Legacy™, Level 36]: weqe: ChillerDragon betraying us with error
 [2021-04-07 08:24:21]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
+[2021-04-07 08:24:25]: weqe [MNKY, Level 12]: omg (2)ChillerDrago ???
+[2021-04-07 08:24:26]: bob [Legacy™, Level 36]: he got new brother
+[2021-04-07 08:24:33]: ChillerDragon.* [|*KoG*|, Level 41]: bra bob weqe i am helper
