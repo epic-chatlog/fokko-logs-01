@@ -1683,3 +1683,7 @@
 [2021-04-07 01:55:09]: Isegrin [, Level 54]: Meetiteusz: Wisze se nie
 [2021-04-07 01:55:13]: ***  [, Level 0]: 'CKA3A4NIK[NR]' entered and joined the game
 [2021-04-07 01:55:16]: Meetiteusz [TrRShClNrRs, Level 25]: Isegrin: niet
+[2021-04-07 01:55:41]: ***  [, Level 0]: mamikral011 finished in: 5 minute(s) 12.50 second(s)
+[2021-04-07 01:55:41]: ***  [, Level 0]: New record: 8 minute(s) 49.42 second(s) better.
+[2021-04-07 01:55:41]: ***  [, Level 0]: 'mamikral011' finished the special race!
+[2021-04-07 01:55:48]: WarHammer [, Level 26]: mamiğral
