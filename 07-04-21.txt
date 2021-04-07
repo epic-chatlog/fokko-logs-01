@@ -2531,3 +2531,7 @@
 [2021-04-07 02:43:51]: Maatiteusz [TrRShClNrRs, Level 35]: idk
 [2021-04-07 02:43:53]: ChillerDragon.* [Chilli.*, Level 41]: then why cant he use a name
 [2021-04-07 02:43:54]: Maatiteusz [TrRShClNrRs, Level 35]: his dumy name
+[2021-04-07 02:43:59]: Maatiteusz [TrRShClNrRs, Level 35]: or what the fuck
+[2021-04-07 02:44:03]: Maatiteusz [TrRShClNrRs, Level 35]: i dont know who is he
+[2021-04-07 02:44:04]: Axandos [, Level 25]: nice
+[2021-04-07 02:44:05]: 4jaja4 [, Level 23]: f"{self.name}":
