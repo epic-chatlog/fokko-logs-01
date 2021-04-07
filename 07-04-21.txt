@@ -10307,3 +10307,5 @@
 [2021-04-07 13:56:36]: Kenshi™ [, Level 0]: any: dacc ^^ bientôt bonne nuit alors ^^
 [2021-04-07 13:56:41]: ***  [, Level 0]: 'Swarfey' has left the game
 [2021-04-07 13:56:41]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-07 13:56:55]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-07 13:56:59]: any [404, Level 42]: shhht
