@@ -6463,3 +6463,5 @@
 [2021-04-07 08:07:46]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
 [2021-04-07 08:07:46]: ***  [, Level 0]: '~DemoizL~' has left the game
 [2021-04-07 08:07:48]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
+[2021-04-07 08:07:57]: ***  [, Level 0]: '.S L E E P Y'' has left the game
+[2021-04-07 08:08:06]: Zéphir™ [, Level 39]: stop !
