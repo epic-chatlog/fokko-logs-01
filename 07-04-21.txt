@@ -6044,3 +6044,4 @@
 [2021-04-07 06:55:56]: ***  [, Level 0]: '4jaja4' entered and joined the game
 [2021-04-07 06:55:59]: #3 blocker [TW|Blockers, Level 24]: yeeeee
 [2021-04-07 06:56:05]: ***  [, Level 0]: 'Zet' has left the game
+[2021-04-07 06:56:18]: (2)УБИВАТ [, Level 0]: 4jaja4: )
