@@ -693,3 +693,5 @@
 [2021-04-07 00:41:54]: Discord [, Level 39]: ERROR: BulgarianTee u can’t tbh not implemented right now maybe Nudel add this
 [2021-04-07 00:42:01]: ***  [o, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-07 00:42:03]: (1)ChillerDrago [Chilli.*, Level 31]: i dont war for help Vodo4ka i only war for not helping
+[2021-04-07 00:42:13]: ***  [, Level 0]: 'ss' has left the game
+[2021-04-07 00:42:15]: ***  [, Level 0]: 'Лимонад' entered and joined the game
