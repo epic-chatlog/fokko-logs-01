@@ -1448,3 +1448,7 @@
 [2021-04-07 01:40:38]: mamikral011 [, Level 0]: GOLD: bro help
 [2021-04-07 01:40:38]: ChillerDragon.* [|*KoG*|, Level 41]: vin avec fromage kais
 [2021-04-07 01:40:43]: ***  [, Level 0]: 'Friendiship ;-)' has left the game
+[2021-04-07 01:40:45]: (1)kais [, Level 58]: ChillerDragon.*: nice
+[2021-04-07 01:40:49]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
+[2021-04-07 01:40:49]: mamikral011 [, Level 0]: YelloWorlD: brooo
+[2021-04-07 01:40:55]: YelloWorlD [404, Level 37]: mamikral011: hi
