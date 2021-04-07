@@ -7233,3 +7233,6 @@
 [2021-04-07 10:40:00]: ***  [, Level 0]: 'Kirito♥' entered and joined the game
 [2021-04-07 10:40:01]: any² [404, Level 37]: Sash stop hacking
 [2021-04-07 10:40:02]: ***  [, Level 0]: 'Kiøn1029' has left the game
+[2021-04-07 10:40:05]: ***  [, Level 0]: 'toxicdaddy' changed name to 'toxicdaddy♥'
+[2021-04-07 10:40:09]: Sash [Sash Client, Level 0]: ERROR:
+[2021-04-07 10:40:10]: ***  [, Level 0]: 'GOLD' entered and joined the game
