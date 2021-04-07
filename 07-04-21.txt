@@ -5201,3 +5201,9 @@
 [2021-04-07 05:09:15]: jorden [, Level 0]: \
 [2021-04-07 05:09:16]: ***  [, Level 0]: oyun kırallı finished in: 4 minute(s)  9.08 second(s)
 [2021-04-07 05:09:18]: Anatomy [MaL4iki kz, Level 35]: а я анатоми
+[2021-04-07 05:09:19]:   [, Level 0]: ᅟᅟᅟ: Ты Анатоми)
+[2021-04-07 05:09:24]: ***  [, Level 0]: oyun krallı finished in: 1 minute(s) 55.62 second(s)
+[2021-04-07 05:09:26]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-07 05:09:27]: jorden [, Level 0]: я джорден
+[2021-04-07 05:09:30]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-07 05:09:30]: jorden [, Level 0]: а он анатоми
