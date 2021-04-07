@@ -5825,3 +5825,7 @@
 [2021-04-07 06:44:25]: ***  [, Level 0]: 'power2' has left the game
 [2021-04-07 06:44:30]: x7|sven [xSD7, Level 17]: fokkonaut:  look spawn is this legal
 [2021-04-07 06:44:32]: ERROR [404, Level 74]: but who
+[2021-04-07 06:44:40]: weqe [MNKY, Level 12]: ERROR.: he good guy
+[2021-04-07 06:44:40]: oyun krallı [, Level 5]: ADAM KESEK
+[2021-04-07 06:44:43]: [D] Cylox♥ [♥, Level 24]: tm
+[2021-04-07 06:44:46]: ERROR [404, Level 74]: but who
