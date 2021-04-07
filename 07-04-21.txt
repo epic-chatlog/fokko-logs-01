@@ -2208,3 +2208,5 @@
 [2021-04-07 02:23:38]: ***  [, Level 0]: 'mamikral011' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-07 02:23:43]: Discord [, Level 39]: ERROR: ChillerDragon so mache ich das jetzt auch wie Gold damit ich schneller top1 komme xDD
 [2021-04-07 02:23:43]: ChillerDragon [Chilli.*, Level 44]: Discord: I am currently afk.
+[2021-04-07 02:23:49]: weqe [MNKY, Level 12]: bob: now save me
+[2021-04-07 02:23:59]: bob [Legacy™, Level 36]: weqe: where
