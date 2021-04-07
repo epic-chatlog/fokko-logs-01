@@ -14090,3 +14090,4 @@
 [2021-04-06 22:25:56]: (3)SAUD [, Level 14]: olvastam ? Kiøn1029
 [2021-04-06 22:26:07]: kiøn1029 [.bad, Level 24]: EZEN VAN POLICE RANK
 [2021-04-06 22:26:20]: Boti. [.bad, Level 27]: flappy stuck
+[2021-04-06 22:26:29]: Boti. [.bad, Level 27]: Kiøn1029: az jóú
