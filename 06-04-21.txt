@@ -14261,3 +14261,7 @@
 [2021-04-06 22:46:22]: SAUD [, Level 23]: BulgarianTee:  come policce
 [2021-04-06 22:46:25]: BulgarianTee [xSD7, Level 0]: xD ok
 [2021-04-06 22:46:28]: SAUD [, Level 23]: im so bored
+[2021-04-06 22:46:32]: SAUD [, Level 23]: xD
+[2021-04-06 22:46:38]: Sashy [, Level 27]: leave
+[2021-04-06 22:46:41]: SAUD [, Level 23]: NAH
+[2021-04-06 22:46:42]: Sashy [, Level 27]: I like turtles.
