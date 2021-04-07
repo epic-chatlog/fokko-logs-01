@@ -9677,3 +9677,6 @@
 [2021-04-07 12:34:51]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
 [2021-04-07 12:35:00]: ***  [, Level 0]: 'VeemID' has left the game (Timeout Protection over)
 [2021-04-07 12:35:00]: ***  [, Level 0]: '[2] VeemID' has left the game (Timeout Protection over)
+[2021-04-07 12:35:17]: MieSlime [FookinLads, Level 43]: Tziys*:  say sorry pls
+[2021-04-07 12:35:20]: ***  [, Level 0]: 'bob weqe fan' has left the game
+[2021-04-07 12:35:22]: MieSlime [FookinLads, Level 43]: Tziys*:  say it again
