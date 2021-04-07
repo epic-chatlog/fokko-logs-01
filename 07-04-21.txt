@@ -5831,3 +5831,9 @@
 [2021-04-07 06:44:46]: ERROR [404, Level 74]: but who
 [2021-04-07 06:44:53]: weqe [MNKY, Level 12]: idk but he is nice
 [2021-04-07 06:44:58]: ERROR [404, Level 74]: right
+[2021-04-07 06:45:01]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 06:45:03]: ***  [, Level 0]: 'Zet' entered and joined the game
+[2021-04-07 06:45:03]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-07 06:45:04]: ERROR [404, Level 74]: so?
+[2021-04-07 06:45:13]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 06:45:15]: ***  [, Level 0]: 'jeder' entered and joined the game
