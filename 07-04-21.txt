@@ -5324,3 +5324,7 @@
 [2021-04-07 05:20:53]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-07 05:20:53]: ***  [, Level 0]: 'Swarfey' has left the game
 [2021-04-07 05:20:54]: MieSlime [FookinLads, Level 43]: kurama:  tu te rappelle avec kais
+[2021-04-07 05:20:58]: kurama [, Level 8]: MieSlime: sorrry
+[2021-04-07 05:21:01]: kurama [, Level 8]: MieSlime: sorry
+[2021-04-07 05:21:02]: weqe [MNKY, Level 12]: he said sorry MieSlime
+[2021-04-07 05:21:05]: kurama [, Level 8]: MieSlime: sorry
