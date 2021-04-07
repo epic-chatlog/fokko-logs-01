@@ -13938,3 +13938,4 @@
 [2021-04-06 21:57:16]: ***  [, Level 0]: 'ELJHON' has left the game
 [2021-04-06 22:02:00]: ***  [, Level 0]: 'RoberGN' entered and joined the game
 [2021-04-06 22:02:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-06 22:02:45]: ***  [, Level 0]: 'RoberGN' joined the spectators
