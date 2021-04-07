@@ -1139,3 +1139,5 @@
 [2021-04-07 01:09:39]: ***  [, Level 0]: 'White Wolf' has left the game
 [2021-04-07 01:09:41]: power [TrRShClNrRs, Level 0]: fk u Isegrin
 [2021-04-07 01:09:44]: power [TrRShClNrRs, Level 0]: i hate u so much
+[2021-04-07 01:10:01]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
+[2021-04-07 01:10:02]: ***  [, Level 0]: YelloWorlD is on a killing spree with 5 blocks
