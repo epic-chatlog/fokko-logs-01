@@ -3721,3 +3721,5 @@
 [2021-04-07 04:03:52]: kais [, Level 65]: [D] toxicdaddy: oops, your main have some troubles
 [2021-04-07 04:03:53]: ***  [, Level 0]: [POLICE-CHANNEL] '[D] TeigHuhn' is spawnblocking. Catch him!
 [2021-04-07 04:03:59]: toxicdaddy [, Level 0]: kais: OW
+[2021-04-07 04:04:04]: ***  [, Level 0]: '(2)1' has left the game
+[2021-04-07 04:04:08]: cookie [, Level 0]: i dont have the hook
