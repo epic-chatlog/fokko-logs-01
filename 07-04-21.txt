@@ -5233,3 +5233,6 @@
 [2021-04-07 05:10:36]: ***  [, Level 0]: '(1)[D] falkenaug' has left the game
 [2021-04-07 05:10:37]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-07 05:10:40]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-07 05:10:54]: ᅟᅟᅟᅟᅟ [, Level 46]: xD
+[2021-04-07 05:10:57]: ***  [, Level 0]: '[D] falkenauge' has left the game
+[2021-04-07 05:10:57]: ***  [, Level 0]: 'falkenauge' has left the game
