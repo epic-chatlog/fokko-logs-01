@@ -11094,3 +11094,4 @@
 [2021-04-07 16:38:04]: ***  [, Level 0]: 'rafel' joined the spectators
 [2021-04-07 16:38:08]: ***  [, Level 0]: 'rafel' joined the game
 [2021-04-07 16:38:25]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-07 16:39:00]: ***  [, Level 0]: 'rafel' joined the game
