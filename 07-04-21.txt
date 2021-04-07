@@ -5577,3 +5577,5 @@
 [2021-04-07 06:29:54]: ***  [, Level 0]: 'Lucas' entered and joined the game
 [2021-04-07 06:29:55]: cookie [, Level 17]: f"{self.name}":  help
 [2021-04-07 06:30:07]:   [, Level 0]: ERROR: xD
+[2021-04-07 06:30:15]: Kirito♥ [♥, Level 35]: Cylox♥: oops
+[2021-04-07 06:30:22]: ***  [, Level 0]: toxicdaddy is on a killing spree with 5 blocks
