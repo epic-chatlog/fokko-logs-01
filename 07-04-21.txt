@@ -5246,3 +5246,5 @@
 [2021-04-07 05:11:22]: ***  [, Level 0]: 'Anatomy' would have timed out, but can use timeout protection now
 [2021-04-07 05:11:30]: ***  [, Level 0]: 'hhnaut31' entered and joined the game
 [2021-04-07 05:11:34]: x7_sven [xSD7, Level 17]: weqe: ?
+[2021-04-07 05:11:40]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-07 05:11:43]: ***  [, Level 0]: 'gian x' joined the game
