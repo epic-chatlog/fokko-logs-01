@@ -6168,3 +6168,6 @@
 [2021-04-07 07:02:08]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
 [2021-04-07 07:02:13]: WarHammer [, Level 26]: fokkonaut:  Discord  is bot ?
 [2021-04-07 07:02:14]: ERROR [404, Level 74]: ez
+[2021-04-07 07:02:16]: x7|flappy [xSD7, Level 14]: WTF
+[2021-04-07 07:02:20]: ERROR [404, Level 74]: hunted
+[2021-04-07 07:02:22]: x7|flappy [xSD7, Level 14]: how
