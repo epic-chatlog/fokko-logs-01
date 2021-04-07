@@ -10507,3 +10507,7 @@
 [2021-04-07 14:19:08]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-07 14:19:18]: WarHammer [, Level 26]: DOON TTOUCJ
 [2021-04-07 14:20:15]: Kirito♥ [♥, Level 40]: no war!
+[2021-04-07 14:20:34]: [D] ♥TAKO♥ [, Level 0]: :C
+[2021-04-07 14:20:37]: WarHammer [, Level 26]: [D] ♥TAKO♥:  GO OUT
+[2021-04-07 14:20:43]: WarHammer [, Level 26]: DOON TTOUCJ
+[2021-04-07 14:20:44]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
