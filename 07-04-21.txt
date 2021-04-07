@@ -10998,3 +10998,4 @@
 [2021-04-07 15:46:53]: ***  [, Level 0]: Hunter.exe's killing spree was ended by iMxtteo (5 blocks)
 [2021-04-07 15:47:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-07 15:48:35]: ***  [, Level 0]: 'iMxtteo D' entered and joined the game
+[2021-04-07 15:48:41]: ***  [, Level 0]: '(1)Hunter.exe' entered and joined the game
