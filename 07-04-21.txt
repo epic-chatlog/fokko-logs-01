@@ -5533,3 +5533,5 @@
 [2021-04-07 06:26:14]:   [, Level 0]: BULLETBOT: WTF
 [2021-04-07 06:26:40]: ai9u7wgreauiwgh [, Level 24]: %s%s: %s
 [2021-04-07 06:26:45]: cookie [, Level 17]: dont go dead
+[2021-04-07 06:26:56]: ***  [, Level 0]: '(1)Cosmo' entered and joined the game
+[2021-04-07 06:27:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
