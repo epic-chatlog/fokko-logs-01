@@ -10994,3 +10994,4 @@
 [2021-04-07 15:42:08]: ***  [, Level 0]: 'x7 sven' finished the special race!
 [2021-04-07 15:42:13]: ***  [, Level 0]: P4Pyr0s finished in: 4 minute(s) 37.72 second(s)
 [2021-04-07 15:42:13]: ***  [, Level 0]: 'P4Pyr0s' finished the special race!
+[2021-04-07 15:42:20]: ***  [, Level 0]: '.S L E E P Y'' has left the game
