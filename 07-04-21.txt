@@ -6400,3 +6400,5 @@
 [2021-04-07 08:00:20]: Kiøn1029 [.bad, Level 31]: #3 blocker: mivan
 [2021-04-07 08:00:20]: ***  [, Level 0]: 'Zet' has left the game
 [2021-04-07 08:00:22]: Nudelsaft c: [FookinLads, Level 37]: wtf
+[2021-04-07 08:01:09]: ←   [, Level 0]: Nudelsaft c:: chatlog
+[2021-04-07 08:01:10]: ERRORᅟᅟᅟ [404, Level 47]: Nudelsaft c::  der bot in fookin stoppt?
