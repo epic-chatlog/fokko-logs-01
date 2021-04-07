@@ -1879,3 +1879,9 @@
 [2021-04-07 02:06:15]: CKA3A4NIK[NR] [Night Raid, Level 35]: GOLD:  fake?
 [2021-04-07 02:06:15]: WarHammer [, Level 26]: demo
 [2021-04-07 02:06:16]: mamikral011 [, Level 26]: ~DemoizL~: *
+[2021-04-07 02:06:27]: [D] mamikral011 [, Level 21]: ~DemoizL~: ????
+[2021-04-07 02:06:29]: ***  [, Level 0]: Meetiteusz is on a killing spree with 5 blocks
+[2021-04-07 02:06:30]: WarHammer [, Level 26]: ~DemoizL~:  help
+[2021-04-07 02:06:32]: [D] mamikral011 [, Level 21]: ~DemoizL~: no help bank
+[2021-04-07 02:06:32]: WarHammer [, Level 26]: ~DemoizL~:  or
+[2021-04-07 02:06:34]: WarHammer [, Level 26]: ~DemoizL~:  war
