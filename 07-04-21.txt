@@ -5290,3 +5290,6 @@
 [2021-04-07 05:18:17]: ***  [, Level 0]: 'Asta' entered and joined the game
 [2021-04-07 05:18:20]: Isegrin [, Level 54]: weqe: im pro helper mnub
 [2021-04-07 05:18:24]: weqe [MNKY, Level 12]: me nub ?
+[2021-04-07 05:18:32]: weqe [MNKY, Level 12]: take it back
+[2021-04-07 05:18:33]: weqe [MNKY, Level 12]: now
+[2021-04-07 05:18:36]: Isegrin [, Level 54]: NOoooo
