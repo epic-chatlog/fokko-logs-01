@@ -5783,3 +5783,4 @@
 [2021-04-07 06:41:40]: power [TrRShClNrRs, Level 0]: dafuq im not x7|sven
 [2021-04-07 06:41:48]: JxK|JoK'Air [, Level 60]: Kaptar: flemme ils sont surement tous avec des bonus
 [2021-04-07 06:41:52]: ***  [, Level 0]: (3)УБИВАТЬ! is on a killing spree with 65 blocks
+[2021-04-07 06:42:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
