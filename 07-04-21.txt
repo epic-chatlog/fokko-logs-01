@@ -5466,3 +5466,6 @@
 [2021-04-07 05:31:34]: ***  [, Level 0]: 'Swarfey' has left the game
 [2021-04-07 05:31:34]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-07 05:31:36]:   [, Level 0]: Swarfey: a
+[2021-04-07 05:31:40]: ***  [, Level 0]: 'ez' has left the game
+[2021-04-07 05:31:48]:   [, Level 0]: Foxie♥: Maatiteusz: come
+[2021-04-07 05:31:52]: ***  [, Level 0]: 'gian x' joined the spectators
