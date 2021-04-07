@@ -14735,3 +14735,6 @@
 [2021-04-06 23:26:53]: ***  [, Level 0]: 'Cosmo' has left the game (Timeout)
 [2021-04-06 23:26:54]: BulgarianTee [xSD7, Level 0]: E
 [2021-04-06 23:26:57]: x7|KshKsh99 [xSD7, Level 37]: wanna go
+[2021-04-06 23:27:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-06 23:27:10]: BulgarianTee [xSD7, Level 0]: E
+[2021-04-06 23:27:12]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
