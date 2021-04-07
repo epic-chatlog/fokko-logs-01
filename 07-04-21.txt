@@ -1206,3 +1206,6 @@
 [2021-04-07 01:17:38]: s7_sven [, Level 17]: ᅟᅟᅟᅟᅟ:  stpo
 [2021-04-07 01:17:40]: s7_sven [, Level 17]: stop
 [2021-04-07 01:17:52]: Maatiteusz [TrRShClNrRs, Level 35]: power: XD
+[2021-04-07 01:18:05]: ***  [, Level 0]: [POLICE-CHANNEL] 'power' has been caught by 'Virus' (10 minutes arrest)
+[2021-04-07 01:18:09]: ***  [, Level 0]: 'power' has left the game
+[2021-04-07 01:18:11]: ChillerDragon [Chilli.*, Level 44]: nice Isegrin
