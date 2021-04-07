@@ -11115,3 +11115,4 @@
 [2021-04-07 16:41:38]: ***  [, Level 0]: 'Beetlebrick' has left the game
 [2021-04-07 16:42:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-07 16:44:39]: \\Syth [Chilli.*, Level 29]: wtf why i have 300 ping
+[2021-04-07 16:44:44]: \\Syth [Chilli.*, Level 29]: bruh
