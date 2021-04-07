@@ -13878,3 +13878,4 @@
 [2021-04-06 19:28:26]: ***  [, Level 0]: '☺' entered and joined the game
 [2021-04-06 19:31:21]: ***  [, Level 0]: 'x7|KshKsh99' entered and joined the game
 [2021-04-06 19:31:45]: ***  [, Level 0]: 'x7|KshKsh99' has left the game
+[2021-04-06 19:32:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
