@@ -6465,3 +6465,6 @@
 [2021-04-07 08:07:48]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
 [2021-04-07 08:07:57]: ***  [, Level 0]: '.S L E E P Y'' has left the game
 [2021-04-07 08:08:06]: Zéphir™ [, Level 39]: stop !
+[2021-04-07 08:08:10]: (1)УБИВАТ [, Level 0]: .S L E E P Y': GG
+[2021-04-07 08:08:15]: ***  [, Level 0]: 'Falco641' entered and joined the game
+[2021-04-07 08:08:19]: (1)УБИВАТ [, Level 0]: №!)
