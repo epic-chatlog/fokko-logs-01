@@ -1861,3 +1861,6 @@
 [2021-04-07 02:05:04]: WarHammer [, Level 26]: mamikral011:  BANA Bİ HELP Mİ
 [2021-04-07 02:05:08]: Maatiteusz [TrRShClNrRs, Level 35]: any: gaay
 [2021-04-07 02:05:20]: WarHammer [, Level 26]: mamikral011:  EYW
+[2021-04-07 02:05:22]: CKA3A4NIK[NR] [Night Raid, Level 35]: Sad Guy:  <<
+[2021-04-07 02:05:33]: ***  [, Level 0]: '(1)1' has left the game (Timeout)
+[2021-04-07 02:05:33]: ***  [, Level 0]: '1' has left the game (Timeout)
