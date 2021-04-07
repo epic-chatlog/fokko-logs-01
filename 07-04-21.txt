@@ -3690,3 +3690,6 @@
 [2021-04-07 04:02:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-07 04:02:03]: Anatomy [MaL4iki Kz, Level 35]: ChillerDragon: you curently get fucked
 [2021-04-07 04:02:03]: ChillerDragon [Chilli.*, Level 44]: Anatomy: I am currently afk.
+[2021-04-07 04:02:09]: Anatomy [MaL4iki Kz, Level 35]: ChillerDragon: bitch
+[2021-04-07 04:02:09]: ChillerDragon [Chilli.*, Level 44]: Anatomy: I am currently afk.
+[2021-04-07 04:02:13]: ***  [, Level 0]: '(2)1' entered and joined the game
