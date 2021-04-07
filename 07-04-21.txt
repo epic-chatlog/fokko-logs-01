@@ -1121,3 +1121,4 @@
 [2021-04-07 01:08:01]: ***  [, Level 0]: '(1)1' entered and joined the game
 [2021-04-07 01:08:04]: Black Wolf [, Level 11]: Isegrin: STOP
 [2021-04-07 01:08:06]: Isegrin [, Level 54]: JAA
+[2021-04-07 01:08:26]: White Wolf [, Level 24]: Isegrin: war4life bitch
