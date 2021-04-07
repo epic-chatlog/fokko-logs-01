@@ -7128,3 +7128,7 @@
 [2021-04-07 10:35:04]: (3)kais [, Level 34]: rq
 [2021-04-07 10:35:04]: ***  [, Level 0]: 'Kirito' entered and joined the game
 [2021-04-07 10:35:12]: ***  [, Level 0]: 'Sash' has left the game
+[2021-04-07 10:35:20]: ***  [, Level 0]: 'zZz' has left the game
+[2021-04-07 10:35:20]: ***  [, Level 0]: 'zZzerayI' has left the game
+[2021-04-07 10:35:23]: ***  [, Level 0]: 'Sash' entered and joined the game
+[2021-04-07 10:35:24]: (1)ChillerDrago [Chilli.*, Level 44]: salut kais
