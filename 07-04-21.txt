@@ -10411,3 +10411,5 @@
 [2021-04-07 14:07:03]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: WOOF
 [2021-04-07 14:07:03]: ERROR [404, Level 74]: [D] ♥TAKO♥:
 [2021-04-07 14:07:05]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: WOOF WOOF
+[2021-04-07 14:07:08]: Isegrin [, Level 55]: Kirito♥: u have one
+[2021-04-07 14:07:16]: ***  [, Level 0]: ### 'ERROR' Woof-Woof
