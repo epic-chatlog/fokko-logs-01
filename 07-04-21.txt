@@ -9085,3 +9085,7 @@
 [2021-04-07 12:02:36]: BC|kakashi [BC, Level 0]: bob: nein
 [2021-04-07 12:02:37]: bob [Legacy™, Level 36]: HAHA
 [2021-04-07 12:02:40]: bob [Legacy™, Level 36]: schüttel doch nich so kopf
+[2021-04-07 12:02:42]: bob [Legacy™, Level 36]: ist gutes geschenk
+[2021-04-07 12:02:48]: bob [Legacy™, Level 36]: HAHAH
+[2021-04-07 12:02:49]: ***  [, Level 0]: 'bob' has been muted for 60 seconds
+[2021-04-07 12:02:53]: ***  [, Level 0]: weqe's killing spree was ended by any (18 blocks)
