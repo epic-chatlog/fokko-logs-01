@@ -3432,3 +3432,6 @@
 [2021-04-07 03:50:22]: Maatiteusz [TrRShClNrRs, Level 35]: 5 mins
 [2021-04-07 03:50:24]: ***  [, Level 0]: '(1)1' finished the special race!
 [2021-04-07 03:50:26]: Foxie♥ [♥, Level 35]: Maatiteusz: land on me wait
+[2021-04-07 03:50:28]: ***  [, Level 0]: [POLICE-CHANNEL] 'el champeon' has been caught by 'WarHammer' (10 minutes arrest)
+[2021-04-07 03:50:40]: ***  [, Level 0]: 'Anatomy' entered and joined the game
+[2021-04-07 03:50:40]: ***  [, Level 0]: 'WarHammer' has left the game
