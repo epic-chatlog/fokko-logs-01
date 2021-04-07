@@ -6487,3 +6487,8 @@
 [2021-04-07 08:10:16]: #3 blocker [TW|Blockers, Level 24]: Warrior:
 [2021-04-07 08:10:44]: weqe [MNKY, Level 12]: Zéphir™:
 [2021-04-07 08:10:52]: УБИВАТЬ! [, Level 0]: Xdd
+[2021-04-07 08:11:03]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-07 08:11:05]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-07 08:11:09]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 08:11:11]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-07 08:11:12]: fokkonaut [, Level 102]: \(^-^)/
