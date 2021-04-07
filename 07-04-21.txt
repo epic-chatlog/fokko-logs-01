@@ -10582,3 +10582,4 @@
 [2021-04-07 14:31:21]: (2)УБИВАТ [, Level 0]: xD
 [2021-04-07 14:31:30]: (2)УБИВАТ [, Level 0]: <<<
 [2021-04-07 14:31:35]: WarHammer [, Level 26]: TAKO
+[2021-04-07 14:32:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
