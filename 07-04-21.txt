@@ -6800,3 +6800,5 @@
 [2021-04-07 08:29:10]:   [, Level 0]: weqe: bob: where u brother
 [2021-04-07 08:29:13]: Falco642 [, Level 0]: wtf stupid lag
 [2021-04-07 08:29:13]: bob [Legacy™, Level 36]: i come brother
+[2021-04-07 08:29:20]:   [, Level 0]: weqe: wait me brother bob
+[2021-04-07 08:29:25]: bob [Legacy™, Level 36]: ok
