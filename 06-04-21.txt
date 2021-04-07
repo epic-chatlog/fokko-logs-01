@@ -14023,3 +14023,6 @@
 [2021-04-06 22:19:36]: (3)SAUD [, Level 14]: xD
 [2021-04-06 22:19:37]: Boti. [.bad, Level 27]: and its not the same skin
 [2021-04-06 22:19:39]: Boti. [.bad, Level 27]: just coala
+[2021-04-06 22:19:45]: (3)SAUD [, Level 14]: yellow
+[2021-04-06 22:19:48]: Boti. [.bad, Level 27]: yep
+[2021-04-06 22:19:52]: Boti. [.bad, Level 27]: whats the problem with it?
