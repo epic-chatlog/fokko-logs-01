@@ -9070,3 +9070,7 @@
 [2021-04-07 12:01:50]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
 [2021-04-07 12:01:50]: ***  [, Level 0]: '♥TAKO♥' has left the game
 [2021-04-07 12:01:51]: [D] MNKY | Arin [, Level 0]: BC|Tixnix:  kk
+[2021-04-07 12:01:52]: Nudelsaft c: [FookinLads, Level 59]: OP|Supers: woß
+[2021-04-07 12:01:52]: BC|kakashi [BC, Level 0]: bob: i can deutsch
+[2021-04-07 12:02:00]: (1)Friendiship  [, Level 0]: woona: pro, sorry
+[2021-04-07 12:02:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
