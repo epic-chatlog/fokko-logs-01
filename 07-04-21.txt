@@ -6288,3 +6288,10 @@
 [2021-04-07 07:07:42]: ***  [, Level 0]: 'x7|zemer' has left the game
 [2021-04-07 07:07:42]: CKA3A4NIK[NR] [Night Raid, Level 35]: Kiøn1029:  Clown
 [2021-04-07 07:07:44]: CKA3A4NIK[NR] [Night Raid, Level 35]: Kiøn1029:  << FAST
+[2021-04-07 07:13:16]: ***  [, Level 0]: Successfully logged in
+[2021-04-07 07:13:16]: ***  [, Level 0]: [WARNING] You did not set security pin yet. Check '/pin' for more information.
+[2021-04-07 07:13:16]: 4jaja4.* [Chilli.*, Level 19]: wtf
+[2021-04-07 07:13:17]: cookie [, Level 17]: :spec
+[2021-04-07 07:13:17]: (1)DiscordBridg [, Level 24]: fokkonaut: t
+[2021-04-07 07:13:18]: ***  [, Level 0]: 'Flupper' has left the game
+[2021-04-07 07:13:18]: ***  [, Level 0]: 'x7|flappy' has left the game
