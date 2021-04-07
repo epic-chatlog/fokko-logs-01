@@ -880,3 +880,7 @@
 [2021-04-07 00:49:33]: BulgarianTee [xSD7, Level 0]: E
 [2021-04-07 00:49:33]: [D] 4jaja4 [, Level 18]: I like turtles.
 [2021-04-07 00:49:34]: Vodo4ka [JB.st, Level 41]: BREH
+[2021-04-07 00:49:37]: BulgarianTee [xSD7, Level 0]: ....................
+[2021-04-07 00:49:42]: 4jaja4 [, Level 23]: wtf
+[2021-04-07 00:49:44]: BulgarianTee [xSD7, Level 0]: 4jaja4: why
+[2021-04-07 00:49:45]: 4jaja4 [, Level 23]: BulgarianTee: sorry lag
