@@ -10989,3 +10989,4 @@
 [2021-04-07 15:38:55]: BULLETBOT [, Level 0]: XDDDDDDDDDDDDD
 [2021-04-07 15:39:02]: BULLETBOT [, Level 0]: gts
 [2021-04-07 15:39:27]: ***  [, Level 0]: 'BULLETBOT' has left the game
+[2021-04-07 15:42:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
