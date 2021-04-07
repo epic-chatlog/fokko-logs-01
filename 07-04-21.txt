@@ -8120,3 +8120,7 @@
 [2021-04-07 11:19:54]: ***  [, Level 0]: '(2)Kirito♥' entered and joined the game
 [2021-04-07 11:20:00]: ***  [, Level 0]: ERROR. is on a killing spree with 5 blocks
 [2021-04-07 11:20:08]: (1)ChillerDrago [|*KoG*|, Level 44]: idc chilli
+[2021-04-07 11:20:14]: (1)ChillerDrago [|*KoG*|, Level 44]: team chiller is clan independent peace movement
+[2021-04-07 11:20:20]: ***  [, Level 0]: 'KoalasSindCool' has left the game
+[2021-04-07 11:20:22]:   [, Level 0]: |HolyHo|°: weqe:
+[2021-04-07 11:20:24]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
