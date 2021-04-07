@@ -6877,3 +6877,5 @@
 [2021-04-07 08:32:46]: ***  [, Level 0]: 'Swarfey' has left the game
 [2021-04-07 08:32:46]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game
 [2021-04-07 08:32:46]: bob [Legacy™, Level 36]: FK
+[2021-04-07 08:32:48]: ERROR. [404, Level 56]: xDDDDDDDDDDDD
+[2021-04-07 08:32:57]:   [, Level 0]: weqe: bob: dont give laughs to him
