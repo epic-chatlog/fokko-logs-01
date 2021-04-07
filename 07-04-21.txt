@@ -10096,3 +10096,6 @@
 [2021-04-07 13:27:40]: ***  [, Level 0]: 'x7|Flipper' changed name to 'ĦỮǤØ'
 [2021-04-07 13:28:00]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-07 13:28:14]: Isegrin [, Level 54]: Swarfey: was test succesful?
+[2021-04-07 13:28:19]: Swarfey [FookinLads, Level 0]: Isegrin: yes, look discord
+[2021-04-07 13:28:23]: Swarfey [FookinLads, Level 0]: Swarfey: #server-bridge
+[2021-04-07 13:28:28]: Swarfey [FookinLads, Level 0]: fixxed some things
