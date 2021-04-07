@@ -11075,3 +11075,6 @@
 [2021-04-07 16:32:34]: Hunter.exe [|Supressed|, Level 36]: noooooooooooooooooooooob
 [2021-04-07 16:32:37]: Hunter.exe [|Supressed|, Level 36]: rq
 [2021-04-07 16:32:41]: ***  [, Level 0]: 'Night Team :D' entered and joined the game
+[2021-04-07 16:32:54]: ***  [, Level 0]: '(2)Hunter.exe' entered and joined the game
+[2021-04-07 16:32:57]: ***  [, Level 0]: '(1)Hunter.exe' changed name to '[D] Hunter.exe'
+[2021-04-07 16:33:03]: ***  [, Level 0]: '(2)Hunter.exe' changed name to '(1)ERROR'
