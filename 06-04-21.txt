@@ -13832,3 +13832,4 @@
 [2021-04-06 18:06:13]: ☺ [, Level 4]: euh thx
 [2021-04-06 18:06:20]: S Y T H N [iPro, Level 37]: ok bye ^^
 [2021-04-06 18:06:24]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-06 18:07:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
