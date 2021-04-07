@@ -5254,3 +5254,4 @@
 [2021-04-07 05:13:11]: ***  [, Level 0]: 'I AM NOT JURKE' joined the spectators
 [2021-04-07 05:13:17]: ***  [, Level 0]: 'I AM NOT JURKE' has left the game
 [2021-04-07 05:13:26]: ***  [, Level 0]: 'NABIL DZ' entered and joined the game
+[2021-04-07 05:13:55]: (1)cookie [, Level 0]: wtf
