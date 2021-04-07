@@ -3524,3 +3524,4 @@
 [2021-04-07 03:54:55]:   [, Level 0]: kais: (1)Friendiship ;: ouai mais tu m'déranges
 [2021-04-07 03:55:10]: ***  [, Level 0]: toxicdaddy finished in: 3 minute(s)  0.54 second(s)
 [2021-04-07 03:55:10]: ***  [, Level 0]: 'toxicdaddy' finished the special race!
+[2021-04-07 03:55:22]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
