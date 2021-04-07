@@ -5801,3 +5801,7 @@
 [2021-04-07 06:42:49]: cHurch [HUITA, Level 0]: [D] toxicdaddy: war
 [2021-04-07 06:43:15]: #3 blocker [TW|Blockers, Level 0]: fokkonaut: nice friend
 [2021-04-07 06:43:22]: fokkonaut [, Level 102]: xd
+[2021-04-07 06:43:43]: ***  [, Level 0]: (1)УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-07 06:43:44]: x7|flappy [xSD7, Level 14]: weqe kill him
+[2021-04-07 06:43:45]: ***  [, Level 0]: x7|zemer's killing spree was ended by ERROR. (5 blocks)
+[2021-04-07 06:43:45]: ***  [, Level 0]: (1)УБИВАТЬ!'s killing spree was ended by (2)УБИВАТЬ! (5 blocks)
