@@ -6376,3 +6376,6 @@
 [2021-04-07 07:49:16]: УБИВАТЬ! [, Level 0]: d
 [2021-04-07 07:49:17]: ***  [, Level 0]: sL|KeBu28 is on a killing spree with 5 blocks
 [2021-04-07 07:49:21]: УБИВАТЬ! [, Level 0]: gg
+[2021-04-07 07:49:22]: ***  [, Level 0]: '.S L E E P Y'' entered and joined the game
+[2021-04-07 07:49:30]: ***  [, Level 0]: 'toxicdaddy' has left the game
+[2021-04-07 07:49:30]: ***  [, Level 0]: '[D] toxicdaddy' has left the game
