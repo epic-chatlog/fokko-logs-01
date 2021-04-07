@@ -3342,3 +3342,5 @@
 [2021-04-07 03:46:15]: ***  [, Level 0]: ChillerDragon is on a killing spree with 20 blocks
 [2021-04-07 03:46:16]: ***  [, Level 0]: el champeon is on a killing spree with 20 blocks
 [2021-04-07 03:46:17]: ***  [, Level 0]: '4jaja4.*' entered and joined the game
+[2021-04-07 03:46:25]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-07 03:46:28]: ***  [, Level 0]: 1 finished in: 1 minute(s) 37.70 second(s)
