@@ -10946,3 +10946,6 @@
 [2021-04-07 15:24:41]: ***  [, Level 0]: 'woona' has left the game
 [2021-04-07 15:24:44]: P4Pyr0s [, Level 23]: sind gerade 700
 [2021-04-07 15:25:23]: (2)УБИВАТ [, Level 0]: Hunter.exe: go-go)
+[2021-04-07 15:25:27]: (2)УБИВАТ [, Level 0]: Hunter.exe: <<
+[2021-04-07 15:25:32]: (2)УБИВАТ [, Level 0]: Hunter.exe: xaxaxa\
+[2021-04-07 15:25:35]: (2)УБИВАТ [, Level 0]: Hunter.exe: noob)
