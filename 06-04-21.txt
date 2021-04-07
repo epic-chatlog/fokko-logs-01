@@ -14470,3 +14470,7 @@
 [2021-04-06 23:06:29]: (3)SAUD [, Level 14]: playing
 [2021-04-06 23:06:31]: ***  [, Level 0]: mT Азазел finished in: 3 minute(s) 35.76 second(s)
 [2021-04-06 23:06:31]: power2 [TrRShClNrRs, Level 0]: x7|KshKsh99: yo wtf
+[2021-04-06 23:06:36]: ***  [, Level 0]: power2 finished in: 3 minute(s) 14.94 second(s)
+[2021-04-06 23:06:40]: BulgarianTee [xSD7, Level 0]: x7|KshKsh99: ERROR Nudelsaft c: and YelloWorld are still playing actively
+[2021-04-06 23:06:45]: ***  [, Level 0]: power finished in: 2 minute(s) 36.10 second(s)
+[2021-04-06 23:06:45]: ***  [, Level 0]: New record: 58.60 second(s) better.
