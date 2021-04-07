@@ -10266,3 +10266,6 @@
 [2021-04-07 13:52:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-07 13:52:01]: ♥TAKO♥ [, Level 25]: woona:  sen kimsin la
 [2021-04-07 13:52:12]: woona [, Level 48]: [D] ♥TAKO♥: al flapy
+[2021-04-07 13:52:15]: Isegrin [, Level 54]: [D] ♥TAKO♥:
+[2021-04-07 13:52:16]: Isegrin [, Level 54]: [D] ♥TAKO♥: AAAAA
+[2021-04-07 13:52:17]: woona [, Level 48]: sall
