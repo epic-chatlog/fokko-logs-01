@@ -6492,3 +6492,7 @@
 [2021-04-07 08:11:09]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-07 08:11:11]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-07 08:11:12]: fokkonaut [, Level 102]: \(^-^)/
+[2021-04-07 08:11:25]: ***  [, Level 0]: 'fokkonaut' has left the game
+[2021-04-07 08:11:29]: ChillerDragon.* [|*KoG*|, Level 41]: rq
+[2021-04-07 08:11:32]: YelloWorlD [403, Level 41]: any: tu veux join mon clan ?
+[2021-04-07 08:11:34]: ChillerDragon.* [Chilli.*, Level 41]: xD
