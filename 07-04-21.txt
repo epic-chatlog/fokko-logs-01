@@ -10985,3 +10985,6 @@
 [2021-04-07 15:38:47]: BULLETBOT [, Level 0]: ok
 [2021-04-07 15:38:47]: ***  [, Level 0]: Hunter.exe is on a killing spree with 5 blocks
 [2021-04-07 15:38:48]: Hunter.exe [|Supressed|, Level 36]: spawn blocker kid
+[2021-04-07 15:38:53]: BULLETBOT [, Level 0]: Hunter.exe: ok
+[2021-04-07 15:38:55]: BULLETBOT [, Level 0]: XDDDDDDDDDDDDD
+[2021-04-07 15:39:02]: BULLETBOT [, Level 0]: gts
