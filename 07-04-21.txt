@@ -11126,3 +11126,5 @@
 [2021-04-07 16:58:47]: Hunter.exe [|Supressed|, Level 36]: hey
 [2021-04-07 16:58:51]: Hunter.exe [|Supressed|, Level 36]: leute
 [2021-04-07 16:59:00]: Hunter.exe [|Supressed|, Level 36]: was Fase
+[2021-04-07 16:59:50]: ***  [, Level 0]: '[D] Hunter.exe' has left the game
+[2021-04-07 16:59:50]: ***  [, Level 0]: 'Hunter.exe' has left the game
