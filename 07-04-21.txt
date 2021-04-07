@@ -9718,3 +9718,6 @@
 [2021-04-07 12:38:34]: power [TrRShClNrRs, Level 0]: leave me alone
 [2021-04-07 12:38:38]: S Y T H N [DogParty, Level 0]: Swarfey: lass mich maa aufem aacc kurz
 [2021-04-07 12:38:41]: [D] BC|Tixnix [BC, Level 26]: S Y T H N: bro wieso?
+[2021-04-07 12:38:45]: Swarfey [FookinLads, Level 0]: hier
+[2021-04-07 12:38:50]: ***  [, Level 0]: 'KoalasSindCool' has left the game (Timeout)
+[2021-04-07 12:38:52]: Woona [, Level 43]: Swarfey: fuck you
