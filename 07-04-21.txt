@@ -5926,3 +5926,4 @@
 [2021-04-07 06:50:09]:   [, Level 0]: (1)oyun krallı: VER
 [2021-04-07 06:50:13]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-07 06:50:15]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-07 06:50:17]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
