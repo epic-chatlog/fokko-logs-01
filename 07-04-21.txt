@@ -4975,3 +4975,5 @@
 [2021-04-07 04:55:46]: Anatomy [MaL4iki kz, Level 35]: может
 [2021-04-07 04:55:49]: ***  [, Level 0]: 'Shiro.' entered and joined the game
 [2021-04-07 04:55:49]: Anatomy [MaL4iki kz, Level 35]: кратос
+[2021-04-07 04:55:51]: ***  [, Level 0]: 'Anatomy' has been muted for 60 seconds
+[2021-04-07 04:55:57]: ᅟᅟᅟ [, Level 48]: Кто? Кратос?
