@@ -278,3 +278,5 @@
 [2021-04-07 00:18:49]: BulgarianTee [xSD7, Level 0]: ChillerDragon.*: Mad-o-dragon
 [2021-04-07 00:18:50]: ***  [, Level 0]: oyun krallı finished in: 11 minute(s) 55.74 second(s)
 [2021-04-07 00:18:52]: 4jaja4 [, Level 23]: ChillerDragon: help me pls
+[2021-04-07 00:18:57]: ***  [, Level 0]: (1)oyun krallı finished in: 4 minute(s) 12.96 second(s)
+[2021-04-07 00:19:06]: BulgarianTee [xSD7, Level 0]: E
