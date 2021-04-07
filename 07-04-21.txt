@@ -6022,3 +6022,8 @@
 [2021-04-07 06:54:34]: (1)cookie [, Level 0]: weqe:  yeah
 [2021-04-07 06:54:42]: (2)УБИВАТ [, Level 0]: ERROR.: sorry
 [2021-04-07 06:54:43]:   [, Level 0]: Boti.: @everyone
+[2021-04-07 06:54:46]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-07 06:54:51]: ERROR [404, Level 74]: (2)УБИВАТ: ?
+[2021-04-07 06:54:51]: (1)cookie [, Level 0]: weqe:  look i go kill me but i go try
+[2021-04-07 06:54:51]:   [, Level 0]: Boti.: fuck
+[2021-04-07 06:54:56]: #3 blocker [TW|Blockers, Level 0]: kiøn1029: mond már
