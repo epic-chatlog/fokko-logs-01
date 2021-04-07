@@ -13715,3 +13715,4 @@
 [2021-04-06 16:56:41]: ***  [, Level 0]: New record: 30.22 second(s) better.
 [2021-04-06 16:57:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-06 16:57:53]: ***  [, Level 0]: 'x7|KshKsh99' finished the special race!
+[2021-04-06 17:01:34]: ***  [, Level 0]: 't' has left the game
