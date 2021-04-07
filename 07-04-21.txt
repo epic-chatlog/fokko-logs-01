@@ -10919,3 +10919,6 @@
 [2021-04-07 15:15:44]: iMxtteo [, Level 26]: =
 [2021-04-07 15:15:45]: iMxtteo [, Level 26]: ?
 [2021-04-07 15:15:57]: iMxtteo [, Level 26]: ohh
+[2021-04-07 15:16:52]: iMxtteo [, Level 26]: I like turtles.
+[2021-04-07 15:17:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-07 15:17:01]: P4Pyr0s [, Level 23]: hahaha#
