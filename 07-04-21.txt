@@ -5717,3 +5717,9 @@
 [2021-04-07 06:38:50]: ***  [, Level 0]: 'Kirito' has left the game
 [2021-04-07 06:38:51]: fokkonaut [, Level 0]: Nudelsaft c::
 [2021-04-07 06:38:51]:   [, Level 0]: ERROR: rq
+[2021-04-07 06:38:52]: fokkonaut [, Level 0]: \(^-^)/
+[2021-04-07 06:38:54]: fokkonaut [, Level 0]: Nudelsaft c:: der
+[2021-04-07 06:38:56]: weqe [MNKY, Level 12]: how much u can afford power2
+[2021-04-07 06:38:59]: power2 [TrRShClNrRs, Level 0]: check my stats
+[2021-04-07 06:39:00]: ***  [, Level 0]: 'hatH' has left the game
+[2021-04-07 06:39:00]: ***  [, Level 0]: 'Kirito♥' entered and joined the game
