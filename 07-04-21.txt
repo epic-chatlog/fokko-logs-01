@@ -8800,3 +8800,7 @@
 [2021-04-07 11:49:59]: (1)ChillerDrago [Chilli.*, Level 44]: pro Swarfey
 [2021-04-07 11:50:06]: |HolyHo|° [, Level 28]: bob: war
 [2021-04-07 11:50:08]: Swarfey [FookinLads, Level 37]: (1)ChillerDrago: wieso kann dein webhook pingen und meiner nich aaaaaaaaaaaaa
+[2021-04-07 11:50:16]: OP|Supers [DogParty, Level 39]: bob: flappylivesmatter
+[2021-04-07 11:50:19]: ***  [, Level 0]: 'RoberGN' entered and joined the game
+[2021-04-07 11:50:19]: OP|Supers [DogParty, Level 39]: bob:  :c
+[2021-04-07 11:50:23]: (1)ChillerDrago [Chilli.*, Level 44]: well die webhook is n großes projekt Swarfey
