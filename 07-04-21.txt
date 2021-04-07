@@ -6829,3 +6829,8 @@
 [2021-04-07 08:30:57]: ChillerDragon.* [|*KoG*|, Level 41]: i go rage afk
 [2021-04-07 08:31:03]: ChillerDragon.* [|*KoG*|, Level 41]: rude brothers
 [2021-04-07 08:31:06]: ERROR [404, Level 74]: go
+[2021-04-07 08:31:07]: comic [comically, Level 13]: ah yes im rich
+[2021-04-07 08:31:09]: ***  [, Level 0]: 'c:' entered and joined the game
+[2021-04-07 08:31:16]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
+[2021-04-07 08:31:17]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-07 08:31:19]: bob [Legacy™, Level 36]: weqe: brother we need to find out way to kill error
