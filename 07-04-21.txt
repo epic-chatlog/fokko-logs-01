@@ -2984,3 +2984,5 @@
 [2021-04-07 03:20:47]: (1)1 [, Level 12]: lag 1dk bekle
 [2021-04-07 03:20:54]: s7_sven [xSD7, Level 17]: that illegaal
 [2021-04-07 03:20:56]: ***  [, Level 0]: 'Wonge' finished the special race!
+[2021-04-07 03:21:03]: Noragami [, Level 19]: s7_sven ?
+[2021-04-07 03:21:03]: ***  [, Level 0]: '[D] Wonge' finished the special race!
