@@ -2050,3 +2050,5 @@
 [2021-04-07 02:15:51]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-07 02:15:53]: GOLD [404, Level 41]: 4 2
 [2021-04-07 02:15:54]: WarHammer [, Level 26]: mamikral011:  HELP
+[2021-04-07 02:16:03]: WarHammer [, Level 26]: mamikral011:  HIZLI LAN
+[2021-04-07 02:16:05]: (1)ChillerDrago [|*KoG*|, Level 32]: u didnt help WarHammer
