@@ -11079,3 +11079,5 @@
 [2021-04-07 16:32:57]: ***  [, Level 0]: '(1)Hunter.exe' changed name to '[D] Hunter.exe'
 [2021-04-07 16:33:03]: ***  [, Level 0]: '(2)Hunter.exe' changed name to '(1)ERROR'
 [2021-04-07 16:33:05]: ***  [, Level 0]: 'Night Team :D' has left the game
+[2021-04-07 16:33:29]: Hunter.exe [|Supressed|, Level 36]: (1)ERROR: S Y T H N du knecht
+[2021-04-07 16:33:30]: ***  [, Level 0]: 'benxe4' entered and joined the game
