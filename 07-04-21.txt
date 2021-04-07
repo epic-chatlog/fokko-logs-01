@@ -1672,3 +1672,5 @@
 [2021-04-07 01:53:35]: WarHammer [, Level 26]: SAUD RİFLE
 [2021-04-07 01:53:37]: [D] 4jaja4 [, Level 18]: t: noob
 [2021-04-07 01:53:45]: [D] 4jaja4 [, Level 18]: I like turtles.
+[2021-04-07 01:53:49]: Discord [, Level 39]: ENTWANE: ChillerDragon.* test
+[2021-04-07 01:53:49]: ChillerDragon [Chilli.*, Level 44]: Discord: I am currently afk.
