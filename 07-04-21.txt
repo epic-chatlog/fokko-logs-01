@@ -1473,3 +1473,7 @@
 [2021-04-07 01:41:36]: ***  [, Level 0]: ### 'WarHammer' xd
 [2021-04-07 01:41:41]: ***  [, Level 0]: 'f"{self.n545151' entered and joined the game
 [2021-04-07 01:41:43]: ***  [, Level 0]: 'f"{self.n545151' has left the game
+[2021-04-07 01:41:52]: cunt [, Level 41]: Isegrin: hahhahaha
+[2021-04-07 01:41:56]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-07 01:41:58]: [2] VeemID [, Level 0]: Hady: SPAMMM
+[2021-04-07 01:41:59]: [D] 4jaja4 [, Level 18]: ChillerDragon:
