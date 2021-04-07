@@ -5595,3 +5595,6 @@
 [2021-04-07 06:32:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-07 06:32:02]: BC|Tixnix [BC, Level 34]: x7|flappy: wher are you?
 [2021-04-07 06:32:13]: x7|flappy [xSD7, Level 14]: spike
+[2021-04-07 06:32:26]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
+[2021-04-07 06:32:30]: ***  [, Level 0]: 'K!ked' entered and joined the game
+[2021-04-07 06:32:36]: x7|sven [xSD7, Level 17]: kurama:
