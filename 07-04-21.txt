@@ -6901,3 +6901,6 @@
 [2021-04-07 08:35:28]: ***  [, Level 0]: 'power2' has left the game
 [2021-04-07 08:35:28]: ***  [, Level 0]: 'power' has left the game
 [2021-04-07 08:35:33]: bob [Legacy™, Level 36]: come help me brother iam stuck
+[2021-04-07 08:35:54]: bob [Legacy™, Level 36]: do portal same time
+[2021-04-07 08:35:57]: ERROR [404, Level 74]: xDDDDDDDDD
+[2021-04-07 08:35:59]: SAUD [, Level 24]: HELLO
