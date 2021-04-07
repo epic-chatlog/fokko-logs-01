@@ -8804,3 +8804,6 @@
 [2021-04-07 11:50:19]: ***  [, Level 0]: 'RoberGN' entered and joined the game
 [2021-04-07 11:50:19]: OP|Supers [DogParty, Level 39]: bob:  :c
 [2021-04-07 11:50:23]: (1)ChillerDrago [Chilli.*, Level 44]: well die webhook is n großes projekt Swarfey
+[2021-04-07 11:50:26]: GODLIKe [hax, Level 44]: bob: say weqe stop
+[2021-04-07 11:50:30]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-07 11:50:33]: (1)ChillerDrago [Chilli.*, Level 44]: das is nich n curl in nem tw client Swarfey xd
