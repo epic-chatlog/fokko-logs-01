@@ -6825,3 +6825,7 @@
 [2021-04-07 08:30:28]:   [, Level 0]: weqe: we brothers dont do this
 [2021-04-07 08:30:39]: ChillerDragon.* [|*KoG*|, Level 41]: i never stopped to help u bob
 [2021-04-07 08:30:43]: ***  [, Level 0]: 'Falco641' entered and joined the game
+[2021-04-07 08:30:54]: ChillerDragon.* [|*KoG*|, Level 41]: this is madness
+[2021-04-07 08:30:57]: ChillerDragon.* [|*KoG*|, Level 41]: i go rage afk
+[2021-04-07 08:31:03]: ChillerDragon.* [|*KoG*|, Level 41]: rude brothers
+[2021-04-07 08:31:06]: ERROR [404, Level 74]: go
