@@ -2669,3 +2669,9 @@
 [2021-04-07 02:51:39]: kais [, Level 65]: Maatiteusz: i'm not sure 100%
 [2021-04-07 02:51:48]: Maatiteusz [TrRShClNrRs, Level 35]: kais: ok i will not
 [2021-04-07 02:51:55]: Maatiteusz [TrRShClNrRs, Level 35]: kais: gores is not open
+[2021-04-07 02:52:00]: kais [, Level 65]: Maatiteusz: yes and ?
+[2021-04-07 02:52:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-07 02:52:05]: Maatiteusz [TrRShClNrRs, Level 35]: kais: i cant go there
+[2021-04-07 02:52:08]: Maatiteusz [TrRShClNrRs, Level 35]: kais: I can
+[2021-04-07 02:52:10]: kais [, Level 65]: Maatiteusz: take bonus -_-
+[2021-04-07 02:52:11]: Maatiteusz [TrRShClNrRs, Level 35]: kais: but im lazy
