@@ -14154,3 +14154,6 @@
 [2021-04-06 22:31:47]: (3)SAUD [, Level 14]: Boti.:  melegek vagytok
 [2021-04-06 22:31:50]: Boti. [.bad, Level 27]: NO
 [2021-04-06 22:31:51]: Boti. [.bad, Level 27]: DUD
+[2021-04-06 22:31:59]: (3)SAUD [, Level 14]: yes u are
+[2021-04-06 22:32:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-06 22:32:02]: kiøn1029 [.bad, Level 25]: nop
