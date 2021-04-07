@@ -7061,3 +7061,11 @@
 [2021-04-07 10:32:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 10:32:02]: ERROR.. [404, Level 24]: nein
 [2021-04-07 10:32:02]: YelloWorlD [DogParty, Level 41]: (1)Friendiship : met le clan tag
+[2021-04-07 10:32:05]: ERROR.. [404, Level 24]: er used ath Nudelsaft c:
+[2021-04-07 10:32:05]: ***  [, Level 0]: 'RoberGN' entered and joined the game
+[2021-04-07 10:32:08]: Night Team :D [TrRShClNrRs, Level 20]: what happednd ?
+[2021-04-07 10:32:09]: Sash [Sash Client, Level 0]: ERROR:  hab auch üble bugs
+[2021-04-07 10:32:09]: Lucas [THECEPS, Level 34]: Fearless: i though you hooked me and so i just walked in but no
+[2021-04-07 10:32:11]: Fearless [DogParty, Level 40]: Night Team :D:  he walked of
+[2021-04-07 10:32:15]: Night Team :D [TrRShClNrRs, Level 20]: xDDDDDDDDDDDD
+[2021-04-07 10:32:15]: ERROR.. [404, Level 24]: Sash:  omisch
