@@ -1380,3 +1380,5 @@
 [2021-04-07 01:36:43]: s7_sven [xSD7, Level 17]: SRY
 [2021-04-07 01:36:45]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-07 01:36:45]: (1)kais [, Level 58]: Hady: no u too easy
+[2021-04-07 01:36:53]: Hady [new bot, Level 33]: (1)kais:  you are scary
+[2021-04-07 01:37:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
