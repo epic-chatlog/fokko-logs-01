@@ -3115,3 +3115,7 @@
 [2021-04-07 03:32:41]: (1)teec tac [zigloute, Level 15]: t attention kais est la
 [2021-04-07 03:32:43]: s7_sven [xSD7, Level 17]: SAUD:  can i flag
 [2021-04-07 03:32:48]: SAUD [, Level 24]: PFC
+[2021-04-07 03:32:51]: SAUD [, Level 24]: OFC
+[2021-04-07 03:32:51]: s7_sven [xSD7, Level 17]: tjx
+[2021-04-07 03:32:53]: SAUD [, Level 24]: np
+[2021-04-07 03:32:58]: [D] toxicdaddy [, Level 0]: kais:  better nub
