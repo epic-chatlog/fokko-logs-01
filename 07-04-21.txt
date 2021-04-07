@@ -5399,3 +5399,7 @@
 [2021-04-07 05:27:45]: weqe [MNKY, Level 12]: pls dont help him MieSlime
 [2021-04-07 05:27:48]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-07 05:27:48]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-07 05:27:56]: (1)Cosmo [, Level 0]: oyun kırallı: help
+[2021-04-07 05:27:59]: ***  [, Level 0]: '[D] Cylox♥' changed name to '(1)'
+[2021-04-07 05:28:01]: (1)Cosmo [, Level 0]: oyun krallı: help
+[2021-04-07 05:28:05]: ***  [, Level 0]: '(1)' changed name to '[D] Cylox♥'
