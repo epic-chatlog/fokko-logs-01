@@ -2824,3 +2824,5 @@
 [2021-04-07 03:05:10]: Kiøn1029 [.bad, Level 0]: ChillerDragon.*: szia
 [2021-04-07 03:05:12]: ChillerDragon [Chilli.*, Level 44]: a smart brain that debunks all fake names kais
 [2021-04-07 03:05:12]: ***  [, Level 0]: (1)1 finished in: 5 minute(s)  1.04 second(s)
+[2021-04-07 03:05:17]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
+[2021-04-07 03:05:26]: kais [, Level 65]: ChillerDragon: who do you need to know ?
