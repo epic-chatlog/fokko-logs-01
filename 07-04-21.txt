@@ -3009,3 +3009,7 @@
 [2021-04-07 03:26:36]: kais [, Level 65]: mytho
 [2021-04-07 03:26:48]: (2)teec tac [zigloute, Level 0]: kais: non jai que 2 compte stuf
 [2021-04-07 03:26:58]: Friendiship ;-) [, Level 0]: stop war !
+[2021-04-07 03:27:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-07 03:27:02]: kais [, Level 65]: (1)teec tac: bientot 0
+[2021-04-07 03:27:02]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 29.36 second(s)
+[2021-04-07 03:27:10]: (1)teec tac [zigloute, Level 15]: kais:  spec moi
