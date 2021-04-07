@@ -5882,3 +5882,6 @@
 [2021-04-07 06:47:49]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-07 06:47:51]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-07 06:47:54]: ***  [, Level 0]: 'power' has left the game
+[2021-04-07 06:47:59]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 06:48:01]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-07 06:48:06]: Swarfey [FookinLads, Level 24]: weqe: i love u as a family member, ye
