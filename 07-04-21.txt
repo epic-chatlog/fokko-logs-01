@@ -6270,3 +6270,7 @@
 [2021-04-07 07:06:41]: ***  [, Level 0]: 'sL|KeBu28' entered and joined the game
 [2021-04-07 07:06:41]: ***  [, Level 0]: (2)УБИВАТЬ!'s killing spree was ended by (3)УБИВАТЬ! (9 blocks)
 [2021-04-07 07:06:43]: CKA3A4NIK[NR] [Night Raid, Level 35]: Kiøn1029:  ok.
+[2021-04-07 07:07:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-07 07:07:02]: ***  [, Level 0]: '[D] mamikral011' has left the game
+[2021-04-07 07:07:02]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-07 07:07:04]: 4jaja4 [Chilli.*, Level 23]: toxicdaddy: wait pls
