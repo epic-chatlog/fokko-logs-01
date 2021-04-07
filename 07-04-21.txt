@@ -1670,3 +1670,5 @@
 [2021-04-07 01:53:33]: ***  [, Level 0]: [D] 4jaja4 is on a killing spree with 20 blocks
 [2021-04-07 01:53:34]: Discord [, Level 39]: ERROR: GOLD u can now
 [2021-04-07 01:53:35]: WarHammer [, Level 26]: SAUD RİFLE
+[2021-04-07 01:53:37]: [D] 4jaja4 [, Level 18]: t: noob
+[2021-04-07 01:53:45]: [D] 4jaja4 [, Level 18]: I like turtles.
