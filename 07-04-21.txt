@@ -6802,3 +6802,5 @@
 [2021-04-07 08:29:13]: bob [Legacy™, Level 36]: i come brother
 [2021-04-07 08:29:20]:   [, Level 0]: weqe: wait me brother bob
 [2021-04-07 08:29:25]: bob [Legacy™, Level 36]: ok
+[2021-04-07 08:29:41]: ***  [, Level 0]: 'topruben 90' entered and joined the game
+[2021-04-07 08:29:43]: ***  [, Level 0]: [D] toxicdaddy is on a killing spree with 5 blocks
