@@ -11067,3 +11067,4 @@
 [2021-04-07 16:27:51]: ***  [, Level 0]: 'LeCastleVania' has left the game
 [2021-04-07 16:29:43]: ***  [, Level 0]: 'tee' entered and joined the game
 [2021-04-07 16:31:03]: ***  [, Level 0]: 'tee' changed name to '(2)Hunter.exe'
+[2021-04-07 16:31:17]: Hunter.exe [|Supressed|, Level 36]: (2)Hunter.exe: ok
