@@ -2035,3 +2035,6 @@
 [2021-04-07 02:15:17]: (1)4jaja4 [, Level 0]: 2-1
 [2021-04-07 02:15:17]: WarHammer [, Level 26]: ChillerDragon:  NEE
 [2021-04-07 02:15:18]: GOLD [404, Level 41]: 2 1
+[2021-04-07 02:15:22]: WarHammer [, Level 26]: ChillerDragon:  WHAT
+[2021-04-07 02:15:26]: (1)4jaja4 [, Level 0]: wtf
+[2021-04-07 02:15:26]: GOLD [404, Level 41]: 3 1
