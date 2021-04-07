@@ -5263,3 +5263,5 @@
 [2021-04-07 05:14:57]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-07 05:15:00]: Discord [, Level 39]: fokkonaut: Staubsau[Ger]: nobo
 [2021-04-07 05:15:03]: ***  [, Level 0]: '[D] BC|kakashi' has left the game
+[2021-04-07 05:15:20]: ***  [, Level 0]: 'jorden' has left the game (Timeout Protection over)
+[2021-04-07 05:15:22]: ***  [, Level 0]: 'Anatomy' has left the game (Timeout Protection over)
