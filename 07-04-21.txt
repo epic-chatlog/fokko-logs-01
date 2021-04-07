@@ -5436,3 +5436,5 @@
 [2021-04-07 05:30:21]: ***  [, Level 0]: (1)Cosmo finished in: 6 minute(s) 45.42 second(s)
 [2021-04-07 05:30:21]: weqe [MNKY, Level 12]: Isegrin: do u want to apologize or not
 [2021-04-07 05:30:24]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-07 05:30:28]: MieSlime [FookinLads, Level 43]: Isegrin:  say "sorry"
+[2021-04-07 05:30:35]: MieSlime [FookinLads, Level 43]: Isegrin:  say "sorry" pls
