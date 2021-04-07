@@ -3013,3 +3013,6 @@
 [2021-04-07 03:27:02]: kais [, Level 65]: (1)teec tac: bientot 0
 [2021-04-07 03:27:02]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 29.36 second(s)
 [2021-04-07 03:27:10]: (1)teec tac [zigloute, Level 15]: kais:  spec moi
+[2021-04-07 03:27:17]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-07 03:27:21]: ***  [, Level 0]: '(1)1' entered and joined the game
+[2021-04-07 03:27:24]: (1)teec tac [zigloute, Level 15]: kais: je suis le plus fort
