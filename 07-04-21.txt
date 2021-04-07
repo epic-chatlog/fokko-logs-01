@@ -10489,3 +10489,4 @@
 [2021-04-07 14:15:24]: ***  [, Level 0]: 'lol' entered and joined the game
 [2021-04-07 14:15:32]: ***  [, Level 0]: '(1)lol' entered and joined the game
 [2021-04-07 14:15:33]: [D] ♥TAKO♥ [, Level 0]: u say "immi go bath now, maybe you wanna join me?"
+[2021-04-07 14:15:38]: [D] ♥TAKO♥ [, Level 0]: say turkey
