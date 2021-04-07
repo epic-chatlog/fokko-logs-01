@@ -128,3 +128,5 @@
 [2021-04-07 00:11:58]: ***  [, Level 0]: 'Sad Guy' entered and joined the game
 [2021-04-07 00:11:58]: ChillerDragon.* [Chilli.*, Level 41]: teach me hello BulgarianTee
 [2021-04-07 00:12:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-07 00:12:03]: BulgarianTee [xSD7, Level 0]: hello ChillerDragon.*
+[2021-04-07 00:12:10]: ChillerDragon.* [Chilli.*, Level 41]: Souly: russian french and hungarian learned it all yesterday in tw chat
