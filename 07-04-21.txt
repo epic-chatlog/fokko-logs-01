@@ -10136,3 +10136,6 @@
 [2021-04-07 13:38:18]: Swarfey [FookinLads, Level 42]: hol?
 [2021-04-07 13:38:20]: Isegrin [, Level 54]: HOLA
 [2021-04-07 13:38:23]: Isegrin [, Level 54]: wie geight
+[2021-04-07 13:38:26]: Isegrin [, Level 54]: geihts
+[2021-04-07 13:38:28]: Isegrin [, Level 54]: gehts
+[2021-04-07 13:38:31]: Swarfey [FookinLads, Level 42]: mir gehts gut
