@@ -5970,3 +5970,9 @@
 [2021-04-07 06:53:04]: ***  [, Level 0]: 'toxicdaddy' entered and joined the game
 [2021-04-07 06:53:05]:   [, Level 0]: Kiøn1029: ai9u7wgreauiwgh: stfu
 [2021-04-07 06:53:05]: ai9u7wgreauiwgh [, Level 24]: [?]: Kiøn1029: ai9u7wgreauiwgh: stfu
+[2021-04-07 06:53:08]: ᅟᅟᅟᅟᅟ [, Level 46]: xD
+[2021-04-07 06:53:08]: ai9u7wgreauiwgh [, Level 24]: [46]: xD
+[2021-04-07 06:53:09]: ai9u7wgreauiwgh [, Level 24]: ai9u7wgreauiwgh [24]: [46]: xD
+[2021-04-07 06:53:12]: ***  [, Level 0]: 'ai9u7wgreauiwgh' has been muted for 60 seconds
+[2021-04-07 06:53:15]: #3 blocker [TW|Blockers, Level 0]: várok
+[2021-04-07 06:53:16]: ***  [, Level 0]: You are not permitted to talk for the next 55 seconds.
