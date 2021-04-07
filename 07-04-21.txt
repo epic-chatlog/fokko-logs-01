@@ -10341,3 +10341,9 @@
 [2021-04-07 14:00:14]: ♥TAKO♥ [, Level 25]: inik
 [2021-04-07 14:00:31]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
 [2021-04-07 14:00:35]: Kirito♥ [♥, Level 40]: xD
+[2021-04-07 14:00:36]: ERROR [404, Level 74]: xD
+[2021-04-07 14:00:39]: toxicdadd [, Level 22]: ERROR:
+[2021-04-07 14:00:40]: ***  [, Level 0]: 'c:' entered and joined the game
+[2021-04-07 14:00:41]: Kirito♥ [♥, Level 40]: ERROR: HAHAHHA he didnt get jetpack OMG
+[2021-04-07 14:00:43]: toxicdadd [, Level 22]: ERROR: wieso
+[2021-04-07 14:00:45]: ERROR [404, Level 74]: xD
