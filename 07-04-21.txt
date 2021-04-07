@@ -6791,3 +6791,5 @@
 [2021-04-07 08:28:11]: ***  [, Level 0]: 'RoberGN' entered and joined the game
 [2021-04-07 08:28:20]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
 [2021-04-07 08:28:20]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-07 08:28:22]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-07 08:28:29]:   [, Level 0]: Swarfey: \(^-^)/
