@@ -5768,3 +5768,6 @@
 [2021-04-07 06:41:04]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-07 06:41:06]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-07 06:41:06]: x7|zemer [xSD7, Level 23]: weqe: youfckng son of a bitch
+[2021-04-07 06:41:17]: CKA3A4NIK[NR] [Night Raid, Level 35]: fast
+[2021-04-07 06:41:19]: CKA3A4NIK[NR] [Night Raid, Level 35]: ?
+[2021-04-07 06:41:21]: power2 [TrRShClNrRs, Level 0]: x7|sven: ?
