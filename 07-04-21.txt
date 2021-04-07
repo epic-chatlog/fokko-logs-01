@@ -5852,3 +5852,8 @@
 [2021-04-07 06:46:25]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-07 06:46:32]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
 [2021-04-07 06:46:37]: Lucas [THECEPS, Level 34]: ERROR: we never sayd we had war you've war with chiller not me
+[2021-04-07 06:46:41]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
+[2021-04-07 06:46:43]: ERROR [404, Level 74]: i dont war with chiller
+[2021-04-07 06:46:43]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-07 06:46:48]: ***  [, Level 0]: '(1)soleri1' has left the game
+[2021-04-07 06:46:50]: ***  [, Level 0]: 'kais' entered and joined the game
