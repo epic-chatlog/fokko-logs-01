@@ -1962,3 +1962,7 @@
 [2021-04-07 02:10:54]: ***  [, Level 0]: 'guy' entered and joined the game
 [2021-04-07 02:10:55]: YelloWorlD [404, Level 37]: 4jaja4: come 2jump no bonus
 [2021-04-07 02:10:55]: t [, Level 42]: power: ask any
+[2021-04-07 02:10:58]: ***  [, Level 0]: '(1)guy' entered and joined the game
+[2021-04-07 02:11:01]: power2 [TrRShClNrRs, Level 0]: any²:
+[2021-04-07 02:11:01]: 4jaja4 [, Level 23]: YelloWorlD: go
+[2021-04-07 02:11:03]: ChillerDragon [Chilli.*, Level 44]: well any whatever i removed u from my war list
