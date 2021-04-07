@@ -3265,3 +3265,5 @@
 [2021-04-07 03:41:29]: ***  [, Level 0]: 'Cleaner 1.0' entered and joined the game
 [2021-04-07 03:41:31]: Foxie♥ [♥, Level 35]: get in
 [2021-04-07 03:41:32]: ***  [, Level 0]: 'Cleaner 2.0' entered and joined the game
+[2021-04-07 03:41:41]: ***  [, Level 0]: 'Cleaner 3.0' entered and joined the game
+[2021-04-07 03:41:43]: Maatiteusz [TrRShClNrRs, Level 35]: Foxie♥: What is there
