@@ -1513,3 +1513,6 @@
 [2021-04-07 01:43:56]: 4jaja4 [, Level 23]: pls no ChillerDragon
 [2021-04-07 01:43:58]: Meetiteusz [TrRShClNrRs, Level 0]: f"{self.name}": HI
 [2021-04-07 01:44:03]: f"{self.name}" [, Level 0]: hi)
+[2021-04-07 01:44:11]: 4jaja4 [, Level 23]: kais: im sorry but i cant help
+[2021-04-07 01:44:11]: ***  [, Level 0]: '[D] Sad Guy' entered and joined the game
+[2021-04-07 01:44:11]: SAUD [, Level 0]: GOLD:  hey i just wanna say fuck u i wish u have a rly bad day
