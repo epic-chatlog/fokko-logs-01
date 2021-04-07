@@ -9384,3 +9384,11 @@
 [2021-04-07 12:17:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-07 12:17:01]: weqe [MNKY, Level 12]: MNKY | Arin: help urgent
 [2021-04-07 12:17:02]: bob [Legacy™, Level 36]: [D] MNKY | Arin: hoch sofort zu SPIKE
+[2021-04-07 12:17:05]: ***  [, Level 0]: 'KoalasSindCool' has left the game
+[2021-04-07 12:17:06]: bob [Legacy™, Level 36]: [D] MNKY | Arin: LOOS
+[2021-04-07 12:17:06]: [D] mamikral011 [DogParty, Level 21]: Tziys*: yardım gel
+[2021-04-07 12:17:07]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
+[2021-04-07 12:17:08]: bob [Legacy™, Level 36]: [D] MNKY | Arin: looos
+[2021-04-07 12:17:10]: bob [Legacy™, Level 36]: LOOOS [D] MNKY | Arin
+[2021-04-07 12:17:11]: [D] MNKY | Arin [, Level 0]: WAS?
+[2021-04-07 12:17:14]: bob [Legacy™, Level 36]: HELFFF
