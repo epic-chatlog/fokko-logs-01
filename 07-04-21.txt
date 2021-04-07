@@ -7019,3 +7019,7 @@
 [2021-04-07 08:42:30]: ビール|Zero [Chilli.*, Level 28]: я родился
 [2021-04-07 08:42:32]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-07 08:42:32]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-07 08:42:36]: ビール|Zero [Chilli.*, Level 28]: кста так сныкаться мона
+[2021-04-07 08:42:41]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-07 08:42:43]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-07 08:42:45]: Nudelsaft c: [FookinLads, Level 37]: test
