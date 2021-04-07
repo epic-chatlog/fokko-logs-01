@@ -3092,3 +3092,6 @@
 [2021-04-07 03:31:22]: teec tac [zigloute, Level 0]: kais:  ta ""dead sa""
 [2021-04-07 03:31:22]: ***  [, Level 0]: '1' entered and joined the game
 [2021-04-07 03:31:24]: Friendiship ;-) [, Level 0]: ChillerDragon:
+[2021-04-07 03:31:24]: ChillerDragon [Chilli.*, Level 44]: Friendiship ;-): I am currently afk.
+[2021-04-07 03:31:29]: ***  [, Level 0]: 'THE RIDLE' has left the game
+[2021-04-07 03:31:33]: Foxie♥ [♥, Level 35]: t: plis help
