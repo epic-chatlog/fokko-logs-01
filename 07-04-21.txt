@@ -6627,3 +6627,5 @@
 [2021-04-07 08:17:36]: comic [comically, Level 13]: #3 blocker: yeah
 [2021-04-07 08:17:37]: УБИВАТЬ! [, Level 0]: 1 min)
 [2021-04-07 08:17:44]: Nudelsaft c: [FookinLads, Level 37]: xD
+[2021-04-07 08:17:57]: ***  [, Level 0]: 'power2' has left the game
+[2021-04-07 08:17:57]: ***  [, Level 0]: 'power' has left the game
