@@ -11001,3 +11001,6 @@
 [2021-04-07 15:48:41]: ***  [, Level 0]: '(1)Hunter.exe' entered and joined the game
 [2021-04-07 15:52:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-07 15:54:28]: ***  [, Level 0]: 'GAMER' entered and joined the game
+[2021-04-07 15:54:55]: ***  [, Level 0]: 'GAMER' has left the game
+[2021-04-07 15:54:57]: ***  [, Level 0]: 'GAMER' entered and joined the game
+[2021-04-07 15:55:04]: ***  [, Level 0]: 'GAMER' has left the game
