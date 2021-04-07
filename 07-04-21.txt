@@ -6547,3 +6547,5 @@
 [2021-04-07 08:13:35]: ***  [, Level 0]: 'Swarfey' has left the game
 [2021-04-07 08:13:35]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game
 [2021-04-07 08:13:36]: УБИВАТЬ! [, Level 0]: any: help> bro
+[2021-04-07 08:14:03]: УБИВАТЬ! [, Level 0]: weqe:
+[2021-04-07 08:14:04]: soleri1 [, Level 21]: bob:
