@@ -1209,3 +1209,6 @@
 [2021-04-07 01:18:05]: ***  [, Level 0]: [POLICE-CHANNEL] 'power' has been caught by 'Virus' (10 minutes arrest)
 [2021-04-07 01:18:09]: ***  [, Level 0]: 'power' has left the game
 [2021-04-07 01:18:11]: ChillerDragon [Chilli.*, Level 44]: nice Isegrin
+[2021-04-07 01:18:12]: s7_sven [, Level 17]: NetFlix:
+[2021-04-07 01:18:19]: ***  [, Level 0]: 'sL|cunt' entered and joined the game
+[2021-04-07 01:18:21]: s7_sven [, Level 17]: NetFlix:
