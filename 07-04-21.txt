@@ -2609,3 +2609,7 @@
 [2021-04-07 02:47:38]: Virus [, Level 49]: bob:
 [2021-04-07 02:47:44]: 4jaja4.* [Chilli.*, Level 19]: wtf
 [2021-04-07 02:47:47]: Isegrin [, Level 54]: BOBI
+[2021-04-07 02:48:00]: ***  [, Level 0]: 'Axandos' has left the game
+[2021-04-07 02:48:00]: ***  [, Level 0]: 'Axandos²' has left the game
+[2021-04-07 02:48:04]: Isegrin [, Level 54]: ChillerDragon.*: virus is in clan idk him :-D
+[2021-04-07 02:48:05]: f"{self.name}" [, Level 18]: Axandos: how you know my age ??
