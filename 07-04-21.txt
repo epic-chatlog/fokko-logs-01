@@ -5372,3 +5372,6 @@
 [2021-04-07 05:25:26]: cookie [, Level 17]: sorry
 [2021-04-07 05:25:38]: weqe [MNKY, Level 12]: Isegrin: stop or die
 [2021-04-07 05:25:47]: Isegrin [, Level 54]: weqe: sTOP OD DIEE
+[2021-04-07 05:25:50]: weqe [MNKY, Level 12]: die
+[2021-04-07 05:25:52]: ***  [, Level 0]: 'HeavyGeneral' entered and joined the game
+[2021-04-07 05:25:59]: Isegrin [, Level 54]: weqe: stop or ur mom die :XD_
