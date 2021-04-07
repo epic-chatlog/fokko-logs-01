@@ -9151,3 +9151,7 @@
 [2021-04-07 12:06:08]: OP|Supers [DogParty, Level 39]: bob: i cant spike
 [2021-04-07 12:06:11]: OP|Supers [DogParty, Level 39]: weqe come bank
 [2021-04-07 12:06:35]:   [, Level 0]: weqe: where u OP|Supers
+[2021-04-07 12:06:43]: ***  [, Level 0]: 'SkkRtz' has left the game
+[2021-04-07 12:06:43]: ***  [, Level 0]: 'OP|Supers' has left the game
+[2021-04-07 12:06:50]: Axel [TrRShClNrRs, Level 0]: Thanks
+[2021-04-07 12:06:53]: Axel [TrRShClNrRs, Level 0]: |HolyHo|: hi btw
