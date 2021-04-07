@@ -5867,3 +5867,7 @@
 [2021-04-07 06:47:12]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-07 06:47:15]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-07 06:47:15]: weqe [MNKY, Level 12]: Swarfey: u love me ?
+[2021-04-07 06:47:18]:   [, Level 0]: kais: (3)УБИВАТЬ!: this is gay
+[2021-04-07 06:47:27]: ***  [, Level 0]: (3)УБИВАТЬ! is on a killing spree with 75 blocks
+[2021-04-07 06:47:29]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 06:47:31]: ***  [, Level 0]: 'jeder' entered and joined the game
