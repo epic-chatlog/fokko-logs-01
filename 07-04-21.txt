@@ -5509,3 +5509,6 @@
 [2021-04-07 06:24:49]:   [, Level 0]: cookie: __init__(self)::  help
 [2021-04-07 06:24:53]: ***  [, Level 0]: 'Cosmo' entered and joined the game
 [2021-04-07 06:24:56]: Kirito [♥, Level 25]: oyun krallı: fucking son of a bitch noname
+[2021-04-07 06:25:05]:   [, Level 0]: f"{self.name}": cookie: wait a moment
+[2021-04-07 06:25:11]: Kirito [♥, Level 25]: oyun krallı: i will hunt your forever. you will never farm again
+[2021-04-07 06:25:13]:   [, Level 0]: cookie: f"{self.name}":  oke
