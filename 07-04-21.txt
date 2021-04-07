@@ -2509,3 +2509,8 @@
 [2021-04-07 02:42:45]: 4jaja4 [, Level 23]: fuck you bob and weqe
 [2021-04-07 02:42:49]: f"{self.name}" [, Level 0]: Axandos: you have 8 jumps
 [2021-04-07 02:42:54]: Axandos [, Level 25]: f"{self.name}":  cey
+[2021-04-07 02:42:57]: s7_sven [xSD7, Level 17]: kais:
+[2021-04-07 02:42:58]: f"{self.name}" [, Level 0]: Axandos: and i dont
+[2021-04-07 02:42:59]: s7_sven [xSD7, Level 17]: -->
+[2021-04-07 02:43:00]: Maatiteusz [TrRShClNrRs, Level 35]: ChillerDragon: its my clanmate XD he will not do anything
+[2021-04-07 02:43:06]: Axandos [, Level 25]: f"{self.name}":  u attacked me idiot i thaught we had peace
