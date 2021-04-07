@@ -7005,3 +7005,5 @@
 [2021-04-07 08:40:49]: ***  [, Level 0]: 'sadasdad' entered and joined the game
 [2021-04-07 08:40:55]: [D] toxicdaddy [, Level 22]: IchChillHierNur: k
 [2021-04-07 08:40:56]: Swarfey [FookinLads, Level 0]: "
+[2021-04-07 08:41:15]: ***  [, Level 0]: c: is on a killing spree with 10 blocks
+[2021-04-07 08:41:17]: ~DemoizL~ [, Level 39]: xD
