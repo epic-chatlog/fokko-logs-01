@@ -7381,3 +7381,7 @@
 [2021-04-07 10:49:19]: [D] mamikral011 [, Level 0]: YelloWorlD: hiiii
 [2021-04-07 10:49:21]: x7 sven [xSD7, Level 18]: st op it
 [2021-04-07 10:49:25]: ビール|Zero [Drunks, Level 28]: (2)ERROR.: pls fflag
+[2021-04-07 10:49:42]: ***  [, Level 0]: '(1)Sash' has left the game
+[2021-04-07 10:49:42]: ***  [, Level 0]: 'Sash' has left the game
+[2021-04-07 10:49:42]: YelloWorlD [DogParty, Level 41]: mamikral011 join my clan
+[2021-04-07 10:49:48]: [D] mamikral011 [, Level 0]: YelloWorlD: yeaa pls
