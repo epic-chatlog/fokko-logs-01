@@ -2633,3 +2633,6 @@
 [2021-04-07 02:48:51]: ***  [, Level 0]: 'f"{self.name}"' has left the game
 [2021-04-07 02:48:54]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
 [2021-04-07 02:48:55]: Maatiteusz [TrRShClNrRs, Level 35]: bob: Ur not leaving
+[2021-04-07 02:48:59]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-07 02:49:03]: ChillerDragon.* [|*KoG*|, Level 41]: rq
+[2021-04-07 02:49:04]: Maatiteusz [TrRShClNrRs, Level 35]: bob: im ur mom and im telling no
