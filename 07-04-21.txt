@@ -9992,3 +9992,4 @@
 [2021-04-07 13:06:32]: ♥TAKO♥ [, Level 25]: power:  <3 gn bb
 [2021-04-07 13:06:44]: ***  [, Level 0]: 'MLG_PRO.' changed name to '(1)|HolyHo|'
 [2021-04-07 13:06:49]: ***  [, Level 0]: '(1)|HolyHo|' changed name to 'S Y T H N'
+[2021-04-07 13:07:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
