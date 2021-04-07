@@ -5619,3 +5619,7 @@
 [2021-04-07 06:33:22]:   [, Level 0]: ERROR.: spam spam
 [2021-04-07 06:33:23]: x7|sven [xSD7, Level 17]: whgo are you
 [2021-04-07 06:33:26]: weqe [MNKY, Level 12]: BC|Tixnix:
+[2021-04-07 06:33:29]: ***  [, Level 0]: Kirito♥'s killing spree was ended by ERROR (10 blocks)
+[2021-04-07 06:33:31]: ***  [, Level 0]: toxicdaddy's killing spree was ended by ERROR (5 blocks)
+[2021-04-07 06:33:39]: ***  [, Level 0]: 'power' has left the game
+[2021-04-07 06:33:39]: ***  [, Level 0]: 'power2' has left the game
