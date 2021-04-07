@@ -1530,3 +1530,6 @@
 [2021-04-07 01:45:19]: Meetiteusz [TrRShClNrRs, Level 0]: VeemID: NetFlix good guy
 [2021-04-07 01:45:20]: [2] VeemID [, Level 0]: Meetiteusz: NO
 [2021-04-07 01:45:23]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-07 01:45:29]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
+[2021-04-07 01:45:29]: NetFlix [, Level 15]: [2] VeemID: OOF
+[2021-04-07 01:45:39]: (1)kais [, Level 58]: :D
