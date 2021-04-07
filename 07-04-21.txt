@@ -923,3 +923,6 @@
 [2021-04-07 00:51:40]: ***  [, Level 0]: 'Hady' has left the game
 [2021-04-07 00:51:41]: BulgarianTee [xSD7, Level 0]: E
 [2021-04-07 00:51:45]: BulgarianTee [xSD7, Level 0]: SoulyD: stop maining me
+[2021-04-07 00:52:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-07 00:52:02]: ***  [, Level 0]: 'GOLD' entered and joined the game
+[2021-04-07 00:52:04]: ***  [, Level 0]: 'Boti. but 0.7' entered and joined the game
