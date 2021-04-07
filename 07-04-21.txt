@@ -6994,3 +6994,5 @@
 [2021-04-07 08:40:06]:   [, Level 0]: Swarfey: \(^-^)/
 [2021-04-07 08:40:07]: toxicdaddy [, Level 0]: IchChillHierNur: danke
 [2021-04-07 08:40:08]: ***  [, Level 0]: 'coala hater' entered and joined the game
+[2021-04-07 08:40:14]: ***  [, Level 0]: 'coala hater' has left the game
+[2021-04-07 08:40:18]: IchChillHierNur [, Level 1]: kein ding toxicdaddy
