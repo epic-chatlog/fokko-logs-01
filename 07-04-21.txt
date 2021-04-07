@@ -7332,3 +7332,8 @@
 [2021-04-07 10:47:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-07 10:47:01]: YelloWorlD [DogParty, Level 41]: Marcisten: no
 [2021-04-07 10:47:03]: ERROR.. [404, Level 24]: YelloWorlD:  never
+[2021-04-07 10:47:07]: YelloWorlD [DogParty, Level 41]: Marcisten: no u can
+[2021-04-07 10:47:14]: ***  [, Level 0]: 'toxicdaddy' entered and joined the game
+[2021-04-07 10:47:16]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-07 10:47:17]: Cylox [♥, Level 30]: OP|Supers: ?
+[2021-04-07 10:47:18]: ***  [, Level 0]: 'ERROR..' changed name to '(2)ERROR.'
