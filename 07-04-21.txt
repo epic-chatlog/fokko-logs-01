@@ -5943,3 +5943,7 @@
 [2021-04-07 06:51:43]:   [, Level 0]: Kiøn1029: látom mit írok dc-n
 [2021-04-07 06:51:46]:   [, Level 0]: Kiøn1029: naon jó
 [2021-04-07 06:51:47]: ***  [, Level 0]: 'KnightYT' has left the game
+[2021-04-07 06:52:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-07 06:52:02]: ***  [, Level 0]: '(1)kais' has left the game
+[2021-04-07 06:52:02]: ERROR [404, Level 74]: K!ked:
+[2021-04-07 06:52:05]: weqe [MNKY, Level 12]: poka !!
