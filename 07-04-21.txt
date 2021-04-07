@@ -5507,3 +5507,5 @@
 [2021-04-07 06:24:33]: ***  [, Level 0]: BULLETBOT is on a killing spree with 5 blocks
 [2021-04-07 06:24:34]: Kirito [♥, Level 25]: ERROR.: noob
 [2021-04-07 06:24:49]:   [, Level 0]: cookie: __init__(self)::  help
+[2021-04-07 06:24:53]: ***  [, Level 0]: 'Cosmo' entered and joined the game
+[2021-04-07 06:24:56]: Kirito [♥, Level 25]: oyun krallı: fucking son of a bitch noname
