@@ -7795,3 +7795,8 @@
 [2021-04-07 11:06:36]: (1)ChillerDrago [Chilli.*, Level 44]: rich
 [2021-04-07 11:06:39]: (1)ChillerDrago [Chilli.*, Level 44]: send ERROR brauich taser
 [2021-04-07 11:06:43]:   [, Level 0]: ERROR: NONO
+[2021-04-07 11:06:46]:   [, Level 0]: ERROR: road to top1
+[2021-04-07 11:06:49]: (1)ChillerDrago [Chilli.*, Level 44]: woher so viel ERROR
+[2021-04-07 11:06:49]: Boti. [.bad, Level 33]: hagyj
+[2021-04-07 11:06:51]:   [, Level 0]: ERROR: farmen
+[2021-04-07 11:06:52]: ZEUS [, Level 25]: any jumps
