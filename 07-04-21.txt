@@ -4692,3 +4692,10 @@
 [2021-04-07 04:38:14]: ***  [, Level 0]: [POLICE-CHANNEL] '(2)УБИВАТЬ!' is spawnblocking. Catch him!
 [2021-04-07 04:38:16]: ***  [, Level 0]: 'SS' entered and joined the game
 [2021-04-07 04:38:17]: Kezo [FookinLads, Level 41]: Meetiteusz: taser ?
+[2021-04-07 04:38:19]: ***  [, Level 0]: 'Zephir™' entered and joined the game
+[2021-04-07 04:38:19]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 10 blocks
+[2021-04-07 04:38:19]: ***  [, Level 0]: [POLICE-CHANNEL] '(2)УБИВАТЬ!' is spawnblocking. Catch him!
+[2021-04-07 04:38:21]: ***  [, Level 0]: '(1)1' has left the game
+[2021-04-07 04:38:25]: ***  [, Level 0]: [POLICE-CHANNEL] '(2)УБИВАТЬ!' is spawnblocking. Catch him!
+[2021-04-07 04:38:26]: ***  [, Level 0]: Axandos is on a killing spree with 5 blocks
+[2021-04-07 04:38:26]: ᅟᅟᅟ [, Level 48]: xD
