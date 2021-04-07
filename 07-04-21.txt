@@ -11043,3 +11043,8 @@
 [2021-04-07 16:20:22]: ***  [, Level 0]: '\\Syth' entered and joined the game
 [2021-04-07 16:20:44]: УБИВАТЬ! [, Level 0]: WP
 [2021-04-07 16:22:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-07 16:22:06]: УБИВАТЬ! [, Level 0]: Xd
+[2021-04-07 16:22:08]: ***  [, Level 0]: '\\Syth' changed name to 'Swipez'
+[2021-04-07 16:22:13]: УБИВАТЬ! [, Level 0]: gg wp
+[2021-04-07 16:22:14]: УБИВАТЬ! [, Level 0]: P)
+[2021-04-07 16:22:15]: Swipez [[!FAKE!], Level 0]: ERROR: yo
