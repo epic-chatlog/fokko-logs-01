@@ -6307,3 +6307,8 @@
 [2021-04-07 07:13:37]: ***  [, Level 0]: 'bruh' has left the game (Timeout)
 [2021-04-07 07:13:42]: (1)DiscordBridg [, Level 24]: fokkonaut: a
 [2021-04-07 07:13:43]: kais [, Level 65]: toxicdaddy: oops, did i ?
+[2021-04-07 07:13:46]: cookie [, Level 17]: K!ked:  noooo let me farm please i need it
+[2021-04-07 07:13:47]: ***  [, Level 0]: '(1)' has left the game
+[2021-04-07 07:13:49]: ***  [, Level 0]: '(1)' entered and joined the game
+[2021-04-07 07:13:52]: toxicdaddy [, Level 26]: kais: ;/
+[2021-04-07 07:13:55]: ***  [, Level 0]: 'Discord' changed name to 'o'
