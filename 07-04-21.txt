@@ -5634,3 +5634,7 @@
 [2021-04-07 06:34:09]: x7|flappy [xSD7, Level 14]: 6k
 [2021-04-07 06:34:10]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-07 06:34:13]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-07 06:34:18]: HeavyGeneral [FookinLads, Level 44]: fokkonaut: no
+[2021-04-07 06:34:21]: weqe [MNKY, Level 12]: Friendiship ;-): help
+[2021-04-07 06:34:28]: x7|flappy [xSD7, Level 14]: 6k
+[2021-04-07 06:34:28]: x7|zemer [xSD7, Level 0]: fokkonaut: ?
