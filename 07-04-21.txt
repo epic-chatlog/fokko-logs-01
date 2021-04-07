@@ -10481,3 +10481,7 @@
 [2021-04-07 14:14:21]: [D] ♥TAKO♥ [, Level 0]: Isegrin:  u say turkey
 [2021-04-07 14:14:27]: [D] ♥TAKO♥ [, Level 0]: turkey
 [2021-04-07 14:14:33]: Isegrin [, Level 55]: [D] ♥TAKO♥: salam aleykum?
+[2021-04-07 14:14:41]: ***  [, Level 0]: 'Zephir™' has left the game (Timeout)
+[2021-04-07 14:14:41]: ***  [, Level 0]: 'Kenshi™' has left the game (Timeout)
+[2021-04-07 14:14:43]: ***  [, Level 0]: 'WarHammer'' has left the game
+[2021-04-07 14:14:48]: [D] ♥TAKO♥ [, Level 0]: u say ur problem turkeys
