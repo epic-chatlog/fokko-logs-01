@@ -6474,3 +6474,4 @@
 [2021-04-07 08:08:37]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-07 08:08:45]: Falco641 [.bad, Level 19]: wow nice
 [2021-04-07 08:08:54]: ***  [, Level 0]: 'Falco642' entered and joined the game
+[2021-04-07 08:08:59]: ***  [, Level 0]: 'comic' has left the game
