@@ -5251,3 +5251,5 @@
 [2021-04-07 05:12:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 05:12:15]: Isegrin [, Level 54]: hhnaut31: WTF
 [2021-04-07 05:12:46]: ***  [, Level 0]: 'Dagonaut' entered and joined the game
+[2021-04-07 05:13:11]: ***  [, Level 0]: 'I AM NOT JURKE' joined the spectators
+[2021-04-07 05:13:17]: ***  [, Level 0]: 'I AM NOT JURKE' has left the game
