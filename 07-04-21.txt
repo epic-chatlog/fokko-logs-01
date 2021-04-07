@@ -5915,3 +5915,8 @@
 [2021-04-07 06:49:44]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-07 06:49:44]: ***  [, Level 0]: 'KnightYT' entered and joined the game
 [2021-04-07 06:49:46]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-07 06:49:56]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 06:49:56]: [D] Cylox♥ [♥, Level 24]: olum 8000 çıkmadımı
+[2021-04-07 06:49:57]: ***  [, Level 0]: 'cHurch' entered and joined the game
+[2021-04-07 06:49:58]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-07 06:50:03]:   [, Level 0]: (1)oyun krallı: EE
