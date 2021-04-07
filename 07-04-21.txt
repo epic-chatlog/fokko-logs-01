@@ -11011,3 +11011,4 @@
 [2021-04-07 15:57:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-07 16:02:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-07 16:07:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-07 16:09:41]: ***  [, Level 0]: '(2)УБИВАТЬ!' has left the game
