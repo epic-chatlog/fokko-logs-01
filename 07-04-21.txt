@@ -7643,3 +7643,5 @@
 [2021-04-07 11:00:56]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-07 11:01:00]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-07 11:01:00]: OP|Supers [DogParty, Level 39]: HardreenClutch:  on my way
+[2021-04-07 11:01:06]: mamikral011 [DogParty, Level 26]: okey stop
+[2021-04-07 11:01:12]: [D] mamikral011 [DogParty, Level 0]: (1)ChillerDrago:
