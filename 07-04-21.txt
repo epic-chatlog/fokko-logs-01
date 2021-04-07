@@ -1143,3 +1143,4 @@
 [2021-04-07 01:10:02]: ***  [, Level 0]: YelloWorlD is on a killing spree with 5 blocks
 [2021-04-07 01:10:21]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-07 01:10:21]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-07 01:10:43]: ***  [, Level 0]: '✯ | Bulash' entered and joined the game
