@@ -13802,3 +13802,4 @@
 [2021-04-06 17:56:56]: S Y T H N [iPro, Level 37]: why?
 [2021-04-06 17:56:59]: ***  [, Level 0]: 'S Y T H N' changed name to 'Λtlantis Ψ'
 [2021-04-06 17:57:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-06 17:57:14]: ☺ [, Level 4]: i don't think that's of you
