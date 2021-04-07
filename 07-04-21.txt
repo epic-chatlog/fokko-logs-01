@@ -7224,3 +7224,5 @@
 [2021-04-07 10:39:12]: OP|Supers [DogParty, Level 39]: ChillerDragon:  auf deinen channel?
 [2021-04-07 10:39:15]: (1)ChillerDrago [Chilli.*, Level 44]: ye OP|Supers
 [2021-04-07 10:39:22]: ***  [, Level 0]: '(1)SpawnBlocker™' has left the game
+[2021-04-07 10:39:35]: ***  [, Level 0]: '(1)Kirito' has left the game
+[2021-04-07 10:39:35]: ***  [, Level 0]: '(2)Kirito' has left the game
