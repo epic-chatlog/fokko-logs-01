@@ -5995,3 +5995,8 @@
 [2021-04-07 06:53:50]: ERROR [404, Level 74]: weqe:  well helped u both one time
 [2021-04-07 06:53:51]: ***  [, Level 0]: You are not permitted to talk for the next 20 seconds.
 [2021-04-07 06:53:55]: ***  [, Level 0]: You are not permitted to talk for the next 16 seconds.
+[2021-04-07 06:53:57]: K!ked [De}|{aBю, Level 62]: take that
+[2021-04-07 06:54:00]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[2021-04-07 06:54:05]:   [, Level 0]: Boti.: eh
+[2021-04-07 06:54:06]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 06:54:08]: ***  [, Level 0]: 'jeder' entered and joined the game
