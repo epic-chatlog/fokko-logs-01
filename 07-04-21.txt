@@ -9672,3 +9672,4 @@
 [2021-04-07 12:33:25]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
 [2021-04-07 12:34:15]: ***  [, Level 0]: 'KoalasSindCool' has left the game
 [2021-04-07 12:34:18]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
+[2021-04-07 12:34:39]: MieSlime [FookinLads, Level 43]: [D] BC|Tixnix:  fuck u -_-
