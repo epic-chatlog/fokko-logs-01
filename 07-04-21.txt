@@ -11015,3 +11015,4 @@
 [2021-04-07 16:12:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-07 16:14:18]: ***  [, Level 0]: 'УБИВАТЬ!' entered and joined the game
 [2021-04-07 16:14:42]: УБИВАТЬ! [, Level 0]: Hunter.exe: noob>>
+[2021-04-07 16:15:25]: УБИВАТЬ! [, Level 0]: Hunter.exe: go-go
