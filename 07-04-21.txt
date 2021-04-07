@@ -2045,3 +2045,8 @@
 [2021-04-07 02:15:39]: GOLD [404, Level 41]: 4 1
 [2021-04-07 02:15:42]: WarHammer [, Level 26]: ChillerDragon:  ?
 [2021-04-07 02:15:42]: GOLD [404, Level 41]: 5 or 10
+[2021-04-07 02:15:44]: (1)4jaja4 [, Level 0]: 5
+[2021-04-07 02:15:46]: WarHammer [, Level 26]: ChillerDragon:  İ DONT UNDERSTAND
+[2021-04-07 02:15:51]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-07 02:15:53]: GOLD [404, Level 41]: 4 2
+[2021-04-07 02:15:54]: WarHammer [, Level 26]: mamikral011:  HELP
