@@ -1151,3 +1151,7 @@
 [2021-04-07 01:11:31]: ***  [, Level 0]: 'ulrich' has left the game
 [2021-04-07 01:11:49]: Maatiteusz [TrRShClNrRs, Level 35]: Isegrin: nie lubi cie
 [2021-04-07 01:11:51]: Maatiteusz [TrRShClNrRs, Level 35]: Isegrin: :c
+[2021-04-07 01:11:54]: Isegrin [, Level 54]: chyab ciebie
+[2021-04-07 01:12:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-07 01:12:01]: ***  [, Level 0]: 'bruh' entered and joined the game
+[2021-04-07 01:12:02]: [D] 4jaja4 [, Level 18]: hello Sashy
