@@ -10433,3 +10433,5 @@
 [2021-04-07 14:08:17]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
 [2021-04-07 14:08:19]: toxicdaddy [, Level 26]: ERROR:  aus police
 [2021-04-07 14:08:19]: [D] ♥TAKO♥ [, Level 0]: :c?
+[2021-04-07 14:08:27]: Kirito♥ [♥, Level 40]: ERROR: er meinst er will raus aus police
+[2021-04-07 14:08:27]: toxicdaddy [, Level 26]: ERROR:  du hast oke gesagt
