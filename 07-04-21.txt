@@ -1283,3 +1283,5 @@
 [2021-04-07 01:26:33]: ***  [, Level 0]: Meetiteusz is on a killing spree with 10 blocks
 [2021-04-07 01:26:35]: sL|cunt [, Level 0]: Isegrin: Meetiteusz and Maatiteusz and power2 and me are pranking u
 [2021-04-07 01:26:36]: Meetiteusz [TrRShClNrRs, Level 0]: Isegrin: prank
+[2021-04-07 01:27:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-07 01:27:05]: power2 [TrRShClNrRs, Level 0]: i hate u so much Isegrin
