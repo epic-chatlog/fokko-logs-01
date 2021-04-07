@@ -7261,3 +7261,7 @@
 [2021-04-07 10:41:12]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-07 10:41:13]: Noragami [, Level 0]: долго играешь?
 [2021-04-07 10:41:14]:   [, Level 0]: Котяра: +
+[2021-04-07 10:41:21]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-07 10:41:22]: Noragami [, Level 0]: год?
+[2021-04-07 10:41:24]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-07 10:41:30]:   [, Level 0]: Котяра: ды
