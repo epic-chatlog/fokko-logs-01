@@ -5499,3 +5499,7 @@
 [2021-04-07 06:23:32]: ***  [, Level 0]: [WARNING] You did not set security pin yet. Check '/pin' for more information.
 [2021-04-07 06:23:46]:   [, Level 0]: BULLETBOT: XD
 [2021-04-07 06:23:54]: weqe [MNKY, Level 12]: let me stack x7|Flipper
+[2021-04-07 06:24:09]: ←   [, Level 0]: player_name Discord
+[2021-04-07 06:24:10]: → Nudelsaft c: [FookinLads, Level 0]: executed following command: player_name Discord
+[2021-04-07 06:24:10]: ***  [, Level 0]: 'chillerdagorn' changed name to 'Discord'
+[2021-04-07 06:24:11]: ***  [, Level 0]: 'nameless tee' has left the game
