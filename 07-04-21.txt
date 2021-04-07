@@ -6381,3 +6381,10 @@
 [2021-04-07 07:49:30]: ***  [, Level 0]: '[D] toxicdaddy' has left the game
 [2021-04-07 07:49:36]: any² [404, Level 37]: rq
 [2021-04-07 07:49:46]: 4jaja4.* [Chilli.*, Level 19]: .
+[2021-04-07 07:49:51]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
+[2021-04-07 07:49:51]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-07 07:49:53]: Kotik [, Level 19]: [2] VeemID:
+[2021-04-07 07:49:54]: cookie [, Level 17]: ChillerDragon:
+[2021-04-07 07:49:54]: ChillerDragon [|*KoG*|, Level 44]: cookie: I am currently afk.
+[2021-04-07 07:49:55]: any² [404, Level 37]: (1)DiscordBridg: hi Nudelshaft x)
+[2021-04-07 07:49:57]: Swarfey [FookinLads, Level 0]: test
