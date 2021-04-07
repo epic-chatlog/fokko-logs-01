@@ -11122,3 +11122,4 @@
 [2021-04-07 16:47:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-07 16:47:34]: ***  [, Level 0]: 'coco' has left the game
 [2021-04-07 16:52:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-07 16:57:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
