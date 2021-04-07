@@ -14789,3 +14789,6 @@
 [2021-04-06 23:30:12]: ***  [, Level 0]: 'Cosmo' has left the game (Timeout)
 [2021-04-06 23:30:12]: ***  [, Level 0]: '(1)Cosmo' has left the game (Timeout)
 [2021-04-06 23:30:13]: BulgarianTee [xSD7, Level 0]: E
+[2021-04-06 23:30:22]: BulgarianTee [xSD7, Level 0]: (1)kais: can u hookfly?
+[2021-04-06 23:30:29]: ***  [, Level 0]: oyun krallı's killing spree was ended by comic (6 blocks)
+[2021-04-06 23:30:31]: (1)kais [, Level 58]: BulgarianTee: i think
