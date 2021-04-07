@@ -1035,3 +1035,4 @@
 [2021-04-07 00:59:28]: [D] 4jaja4 [, Level 18]: kk .d
 [2021-04-07 01:00:02]: ***  [, Level 0]: 'Not Bulash' entered and joined the game
 [2021-04-07 01:00:05]: ***  [, Level 0]: 'Meetiteusz' has left the game
+[2021-04-07 01:00:06]: ***  [, Level 0]: 'Not Bulash' has left the game
