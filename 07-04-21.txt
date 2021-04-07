@@ -131,3 +131,5 @@
 [2021-04-07 00:12:03]: BulgarianTee [xSD7, Level 0]: hello ChillerDragon.*
 [2021-04-07 00:12:10]: ChillerDragon.* [Chilli.*, Level 41]: Souly: russian french and hungarian learned it all yesterday in tw chat
 [2021-04-07 00:12:14]: ChillerDragon.* [|*KoG*|, Level 41]: rly BulgarianTee
+[2021-04-07 00:12:29]: BulgarianTee [xSD7, Level 0]: wdym ChillerDragon.*
+[2021-04-07 00:12:35]: ChillerDragon [|*KoG*|, Level 44]: in bulgarian BulgarianTee
