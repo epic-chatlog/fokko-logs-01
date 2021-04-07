@@ -5477,3 +5477,7 @@
 [2021-04-07 05:32:03]: ***  [, Level 0]: '[D] BC|serwan' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-07 05:32:03]: ***  [, Level 0]: 'BC|serwan' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-07 05:32:05]: Isegrin [, Level 54]: weqe: U said that i will die D:
+[2021-04-07 05:32:09]: weqe [MNKY, Level 12]: so ?
+[2021-04-07 05:32:14]: ***  [, Level 0]: 'NetFlix' finished the special race!
+[2021-04-07 05:32:15]: Foxie♥ [♥, Level 35]: Maatiteusz: N
+[2021-04-07 05:32:16]: ***  [, Level 0]: 'gian x' joined the spectators
