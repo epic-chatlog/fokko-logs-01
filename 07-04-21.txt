@@ -11108,3 +11108,5 @@
 [2021-04-07 16:40:36]: Hunter.exe [|Supressed|, Level 36]: rafel: was bist du eigentlich für ein Bastard
 [2021-04-07 16:40:55]: Hunter.exe [|Supressed|, Level 36]: rafel: Angst tja kann ich auch nichts machen
 [2021-04-07 16:41:07]: ***  [, Level 0]: 'Beetlebrick' entered and joined the game
+[2021-04-07 16:41:24]: Hunter.exe [|Supressed|, Level 36]: rafel: ok no response
+[2021-04-07 16:41:27]: Hunter.exe [|Supressed|, Level 36]: rafel: its ok
