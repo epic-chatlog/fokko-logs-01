@@ -1197,3 +1197,5 @@
 [2021-04-07 01:16:46]: Isegrin [, Level 54]: Meetiteusz: POMUSZ
 [2021-04-07 01:16:48]: ***  [, Level 0]: [POLICE-CHANNEL] 'power' is spawnblocking. Catch him!
 [2021-04-07 01:16:51]: ChillerDragon [Chilli.*, Level 44]: u said that already Friendiship ;-) and then u did not
+[2021-04-07 01:17:00]: ***  [, Level 0]: [POLICE-CHANNEL] 'power' is spawnblocking. Catch him!
+[2021-04-07 01:17:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
