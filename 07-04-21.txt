@@ -11100,3 +11100,8 @@
 [2021-04-07 16:39:53]: ***  [, Level 0]: 'benxe4' has left the game
 [2021-04-07 16:39:54]: ***  [, Level 0]: 'Swipez' changed name to '\\Syth'
 [2021-04-07 16:39:55]: Hunter.exe [|Supressed|, Level 36]: S L E E P Y
+[2021-04-07 16:40:06]: Hunter.exe [|Supressed|, Level 36]: iPro
+[2021-04-07 16:40:10]: ***  [, Level 0]: '[D] Swipez' changed name to 'a'
+[2021-04-07 16:40:11]: rafel [otakos, Level 0]: PRO
+[2021-04-07 16:40:15]: Hunter.exe [|Supressed|, Level 36]: schnauze
+[2021-04-07 16:40:15]: ***  [, Level 0]: 'a' changed name to '[D] \\Syth'
