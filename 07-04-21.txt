@@ -8798,3 +8798,5 @@
 [2021-04-07 11:49:37]: (1)ChillerDrago [Chilli.*, Level 44]: komm rede mit mir bob
 [2021-04-07 11:49:46]: MNKY | Arin [MNKY, Level 15]: (1)ChillerDrago:  er hat seine tage
 [2021-04-07 11:49:59]: (1)ChillerDrago [Chilli.*, Level 44]: pro Swarfey
+[2021-04-07 11:50:06]: |HolyHo|° [, Level 28]: bob: war
+[2021-04-07 11:50:08]: Swarfey [FookinLads, Level 37]: (1)ChillerDrago: wieso kann dein webhook pingen und meiner nich aaaaaaaaaaaaa
