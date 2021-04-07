@@ -7120,3 +7120,7 @@
 [2021-04-07 10:34:35]: any² [404, Level 37]: YelloWorlD: ERROR ??
 [2021-04-07 10:34:39]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-07 10:34:44]: YelloWorlD [DogParty, Level 41]: any: vien dans mon clan x)
+[2021-04-07 10:34:52]: any² [404, Level 37]: YelloWorlD: mééé euuu x)
+[2021-04-07 10:34:53]: ***  [, Level 0]: '(1)Kirito' has left the game
+[2021-04-07 10:34:53]: ***  [, Level 0]: 'Kirito' has left the game
+[2021-04-07 10:34:56]: ***  [, Level 0]: 'Sash' entered and joined the game
