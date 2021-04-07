@@ -5528,3 +5528,6 @@
 [2021-04-07 06:25:55]: x7|Flipper [xSD7, Level 14]: zephir
 [2021-04-07 06:25:56]: ***  [, Level 0]: 'zemer' entered and joined the game
 [2021-04-07 06:26:04]: weqe [MNKY, Level 12]: x7|Flipper:  pls no
+[2021-04-07 06:26:07]:   [, Level 0]: cookie: Friendiship ;-):  oow oke
+[2021-04-07 06:26:11]: ***  [, Level 0]: 'zemer' has left the game
+[2021-04-07 06:26:14]:   [, Level 0]: BULLETBOT: WTF
