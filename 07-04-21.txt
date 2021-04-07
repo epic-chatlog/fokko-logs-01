@@ -5947,3 +5947,7 @@
 [2021-04-07 06:52:02]: ***  [, Level 0]: '(1)kais' has left the game
 [2021-04-07 06:52:02]: ERROR [404, Level 74]: K!ked:
 [2021-04-07 06:52:05]: weqe [MNKY, Level 12]: poka !!
+[2021-04-07 06:52:24]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 06:52:25]: Lucas [THECEPS, Level 34]: JxK|JoK'Air: i'm lagging
+[2021-04-07 06:52:26]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-07 06:52:26]: ai9u7wgreauiwgh [, Level 24]: Lucas [34]: JxK|JoK'Air: i'm lagging
