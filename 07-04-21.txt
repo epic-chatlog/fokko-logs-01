@@ -6479,3 +6479,6 @@
 [2021-04-07 08:09:41]: УБИВАТЬ! [, Level 0]: weqe: ??
 [2021-04-07 08:09:44]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
 [2021-04-07 08:09:44]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-07 08:09:47]: ***  [, Level 0]: 'comic' entered and joined the game
+[2021-04-07 08:09:51]: comic [comically, Level 0]: stupid pc
+[2021-04-07 08:09:54]: Swarfey [FookinLads, Level 0]: "
