@@ -14712,3 +14712,5 @@
 [2021-04-06 23:24:39]: BulgarianTee [xSD7, Level 0]: HAMMAR
 [2021-04-06 23:24:47]: ***  [, Level 0]: 'demon,' has left the game
 [2021-04-06 23:24:58]: BulgarianTee [xSD7, Level 0]: HAMMAR
+[2021-04-06 23:25:14]: ***  [, Level 0]: 'Sad Guy' has left the game
+[2021-04-06 23:25:14]: ***  [, Level 0]: '[D] Sad Guy' has left the game
