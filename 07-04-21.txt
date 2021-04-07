@@ -5497,3 +5497,4 @@
 [2021-04-07 06:23:32]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
 [2021-04-07 06:23:32]: ***  [, Level 0]: Successfully logged in
 [2021-04-07 06:23:32]: ***  [, Level 0]: [WARNING] You did not set security pin yet. Check '/pin' for more information.
+[2021-04-07 06:23:46]:   [, Level 0]: BULLETBOT: XD
