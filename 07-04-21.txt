@@ -5258,3 +5258,6 @@
 [2021-04-07 05:14:09]: Discord [, Level 39]: fokkonaut: Stausau[Ger]: hi
 [2021-04-07 05:14:21]: ***  [, Level 0]: 'Dagonaut' has left the game
 [2021-04-07 05:14:26]: Discord [, Level 39]: fokkonaut: Staubsau[Ger]: hi
+[2021-04-07 05:14:48]: ***  [, Level 0]: '[D] BC|kakashi' entered and joined the game
+[2021-04-07 05:14:54]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-07 05:14:57]: ***  [, Level 0]: 'gian x' joined the game
