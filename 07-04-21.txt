@@ -5486,3 +5486,10 @@
 [2021-04-07 05:32:25]: x7_sven [xSD7, Level 17]: HeavyGeneral: ?
 [2021-04-07 05:32:28]:   [, Level 0]: Swarfey: @everyone
 [2021-04-07 05:32:28]: HeavyGeneral [FookinLads, Level 44]: x7_sven: ur clan
+[2021-04-07 05:32:31]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-07 05:32:32]: x7_sven [xSD7, Level 17]: wow
+[2021-04-07 05:32:33]: ***  [, Level 0]: '(1)chillerdagorn' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-07 05:32:33]: ***  [, Level 0]: 'ai9u7wgreauiwgh' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-07 05:32:33]: ***  [, Level 0]: '(1)ai9u7wgreauiw' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-07 05:32:33]: ***  [, Level 0]: Collected 44664 money
+[2021-04-07 05:32:33]: ***  [, Level 0]: Collected 42732 money
