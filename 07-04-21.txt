@@ -7275,3 +7275,6 @@
 [2021-04-07 10:41:57]: ***  [, Level 0]: '(2)Kirito♥' joined the game
 [2021-04-07 10:42:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 10:42:04]: YelloWorlD [DogParty, Level 41]: Sash: hardreen cheater
+[2021-04-07 10:42:13]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-07 10:42:15]: ***  [, Level 0]: kais is on a killing spree with 5 blocks
+[2021-04-07 10:42:17]: ***  [, Level 0]: 'gian x' joined the game
