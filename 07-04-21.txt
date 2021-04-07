@@ -2987,3 +2987,5 @@
 [2021-04-07 03:21:03]: Noragami [, Level 19]: s7_sven ?
 [2021-04-07 03:21:03]: ***  [, Level 0]: '[D] Wonge' finished the special race!
 [2021-04-07 03:22:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-07 03:22:07]: ***  [, Level 0]: 'BC|Tixnix' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-07 03:22:07]: ***  [, Level 0]: 'BC|kakashi' has left the game (Timeout)
