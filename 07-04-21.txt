@@ -5307,3 +5307,4 @@
 [2021-04-07 05:19:34]: ***  [, Level 0]: '(1)Kotik' entered and joined the game
 [2021-04-07 05:19:38]: (1)cookie [, Level 0]: kurama:  no thx
 [2021-04-07 05:19:39]: Isegrin [, Level 54]: not funny
+[2021-04-07 05:19:47]: Zéphir™ [, Level 39]: Isegrin: most funny
