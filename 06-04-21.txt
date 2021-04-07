@@ -13925,3 +13925,4 @@
 [2021-04-06 21:22:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-06 21:27:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-06 21:32:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-06 21:36:33]: ***  [, Level 0]: 'Antibio' entered and joined the game
