@@ -4592,3 +4592,12 @@
 [2021-04-07 04:33:55]: ***  [, Level 0]: hhh3 is on a killing spree with 5 blocks
 [2021-04-07 04:34:06]: ***  [, Level 0]: '(1)ビール|Zero' entered and joined the game
 [2021-04-07 04:34:06]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-07 04:34:09]: ***  [, Level 0]: (1)УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-07 04:34:10]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-07 04:34:14]: ***  [, Level 0]: 'Rojden' entered and joined the game
+[2021-04-07 04:34:14]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)УБИВАТЬ!' is spawnblocking. Catch him!
+[2021-04-07 04:34:14]: ***  [, Level 0]: '(1)Kotik' entered and joined the game
+[2021-04-07 04:34:17]: (1)Friendiship  [, Level 0]: Shiro.: why blocked me everyday ? shiro.
+[2021-04-07 04:34:18]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-07 04:34:19]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)УБИВАТЬ!' is spawnblocking. Catch him!
+[2021-04-07 04:34:21]: ***  [, Level 0]: 'Shiro,' has left the game
