@@ -1477,3 +1477,6 @@
 [2021-04-07 01:41:56]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-07 01:41:58]: [2] VeemID [, Level 0]: Hady: SPAMMM
 [2021-04-07 01:41:59]: [D] 4jaja4 [, Level 18]: ChillerDragon:
+[2021-04-07 01:42:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-07 01:42:07]: ***  [, Level 0]: GOLD is on a killing spree with 10 blocks
+[2021-04-07 01:42:08]: WarHammer [, Level 26]: SUS EĞSH DR ULİUZ
