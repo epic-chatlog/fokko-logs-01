@@ -6470,3 +6470,5 @@
 [2021-04-07 08:08:19]: (1)УБИВАТ [, Level 0]: №!)
 [2021-04-07 08:08:24]: weqe [MNKY, Level 12]: poka !!
 [2021-04-07 08:08:32]: (1)УБИВАТ [, Level 0]: xD
+[2021-04-07 08:08:34]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-07 08:08:37]: ***  [, Level 0]: 'Niemand' entered and joined the game
