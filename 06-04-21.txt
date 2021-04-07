@@ -14715,3 +14715,4 @@
 [2021-04-06 23:25:14]: ***  [, Level 0]: 'Sad Guy' has left the game
 [2021-04-06 23:25:14]: ***  [, Level 0]: '[D] Sad Guy' has left the game
 [2021-04-06 23:25:25]: (3)SAUD [, Level 14]: 5
+[2021-04-06 23:25:37]: ***  [, Level 0]: 'Cosmo' entered and joined the game
