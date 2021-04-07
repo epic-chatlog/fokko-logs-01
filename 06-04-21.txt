@@ -13775,3 +13775,4 @@
 [2021-04-06 17:42:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-06 17:45:35]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-06 17:47:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-06 17:51:06]: ☺ [, Level 4]: S Y T H N:stop
