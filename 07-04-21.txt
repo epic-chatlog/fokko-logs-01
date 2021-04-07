@@ -5664,3 +5664,7 @@
 [2021-04-07 06:36:14]: ***  [, Level 0]: '(1)JxK|JoK'Air' has left the game
 [2021-04-07 06:36:16]: ***  [, Level 0]: 'JxK|JoK'Air' entered and joined the game
 [2021-04-07 06:36:33]: x7|flappy [xSD7, Level 14]: :c
+[2021-04-07 06:36:36]: ***  [, Level 0]: '(3)NetFlix' entered and joined the game
+[2021-04-07 06:36:43]: Zéphir™ [, Level 39]: x7|sven: u attacked me
+[2021-04-07 06:36:46]: Kirito♥ [♥, Level 35]: Cylox♥: HELP US IDIDOT
+[2021-04-07 06:36:48]: x7|sven [xSD7, Level 17]: I DIDNT
