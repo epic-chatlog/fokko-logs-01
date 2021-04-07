@@ -13994,3 +13994,4 @@
 [2021-04-06 22:15:11]: Boti. [.bad, Level 27]: you can go in plots and pickup laser
 [2021-04-06 22:15:17]: (3)SAUD [, Level 14]: ?
 [2021-04-06 22:15:34]: Boti. [.bad, Level 27]: RoberGN: go in plots and you can pickup every weapon
+[2021-04-06 22:16:25]: ***  [, Level 0]: 'Boti. but 0.7' entered and joined the game
