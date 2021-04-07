@@ -2986,3 +2986,4 @@
 [2021-04-07 03:20:56]: ***  [, Level 0]: 'Wonge' finished the special race!
 [2021-04-07 03:21:03]: Noragami [, Level 19]: s7_sven ?
 [2021-04-07 03:21:03]: ***  [, Level 0]: '[D] Wonge' finished the special race!
+[2021-04-07 03:22:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
