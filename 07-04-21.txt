@@ -9963,3 +9963,5 @@
 [2021-04-07 13:02:39]: |HolyHo| [, Level 0]: sL|KeBu28: OMFG
 [2021-04-07 13:02:42]: [D] SwiatoslaW [, Level 28]: тще ище
 [2021-04-07 13:02:45]: ***  [, Level 0]: 'haxxless dummy' entered and joined the game
+[2021-04-07 13:02:48]: ***  [, Level 0]: 'haxxless dummy' has left the game
+[2021-04-07 13:02:50]: [D] SwiatoslaW [, Level 28]: not bot
