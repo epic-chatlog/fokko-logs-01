@@ -11074,3 +11074,4 @@
 [2021-04-07 16:32:34]: ***  [, Level 0]: '(2)Hunter.exe' has left the game
 [2021-04-07 16:32:34]: Hunter.exe [|Supressed|, Level 36]: noooooooooooooooooooooob
 [2021-04-07 16:32:37]: Hunter.exe [|Supressed|, Level 36]: rq
+[2021-04-07 16:32:41]: ***  [, Level 0]: 'Night Team :D' entered and joined the game
