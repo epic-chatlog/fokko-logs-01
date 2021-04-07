@@ -3001,3 +3001,5 @@
 [2021-04-07 03:24:45]: ***  [, Level 0]: 'Foxie♥' entered and joined the game
 [2021-04-07 03:24:58]: (2)teec tac [zigloute, Level 0]: kais: ca va
 [2021-04-07 03:25:34]: Foxie♥ [♥, Level 35]: Meetiteusz: hi
+[2021-04-07 03:25:40]: (2)teec tac [zigloute, Level 0]: kais: ca va ???
+[2021-04-07 03:25:40]: Maatiteusz [TrRShClNrRs, Level 35]: Foxie♥: Hi
