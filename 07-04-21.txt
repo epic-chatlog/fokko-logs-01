@@ -7236,3 +7236,7 @@
 [2021-04-07 10:40:05]: ***  [, Level 0]: 'toxicdaddy' changed name to 'toxicdaddy♥'
 [2021-04-07 10:40:09]: Sash [Sash Client, Level 0]: ERROR:
 [2021-04-07 10:40:10]: ***  [, Level 0]: 'GOLD' entered and joined the game
+[2021-04-07 10:40:20]: OP|Supers [DogParty, Level 39]: Sash:  hast du sash gekauft
+[2021-04-07 10:40:21]: ***  [, Level 0]: '[D] toxicdaddy' changed name to '[D] toxicdaddy�'
+[2021-04-07 10:40:25]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-07 10:40:29]: ***  [, Level 0]: 'gian x' joined the game
