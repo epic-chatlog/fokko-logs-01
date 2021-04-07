@@ -5431,3 +5431,8 @@
 [2021-04-07 05:30:01]:   [, Level 0]: Foxi♥: Maatiteusz: i got both flags
 [2021-04-07 05:30:03]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-07 05:30:09]: weqe [MNKY, Level 12]: MieSlime: its not an apology , sorry is an apology
+[2021-04-07 05:30:19]: ***  [, Level 0]: 'Foxi♥' has left the game
+[2021-04-07 05:30:20]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-07 05:30:21]: ***  [, Level 0]: (1)Cosmo finished in: 6 minute(s) 45.42 second(s)
+[2021-04-07 05:30:21]: weqe [MNKY, Level 12]: Isegrin: do u want to apologize or not
+[2021-04-07 05:30:24]: ***  [, Level 0]: 'gian x' joined the game
