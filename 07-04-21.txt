@@ -5878,3 +5878,7 @@
 [2021-04-07 06:47:41]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-07 06:47:42]: weqe [MNKY, Level 12]: ERROR.:
 [2021-04-07 06:47:43]: Swarfey [FookinLads, Level 24]: weqe: u already asked me yesterday 0:
+[2021-04-07 06:47:49]: weqe [MNKY, Level 12]: yes Swarfey i want u to confirm it
+[2021-04-07 06:47:49]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 06:47:51]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-07 06:47:54]: ***  [, Level 0]: 'power' has left the game
