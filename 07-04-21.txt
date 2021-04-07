@@ -5844,3 +5844,5 @@
 [2021-04-07 06:45:40]: ERROR [404, Level 74]: I like turtles.
 [2021-04-07 06:45:42]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-07 06:45:45]: ***  [, Level 0]: 'cHurch' has left the game
+[2021-04-07 06:46:04]: Lucas [THECEPS, Level 34]: ERROR: cmon
+[2021-04-07 06:46:07]: ERROR [404, Level 74]: pay for peace
