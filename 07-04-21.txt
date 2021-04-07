@@ -5053,3 +5053,7 @@
 [2021-04-07 05:01:21]: ***  [, Level 0]: 'ölüm bekçisi' entered and joined the game
 [2021-04-07 05:01:29]: toxicdaddy [, Level 26]: BC|kakashi: dich anfqssen
 [2021-04-07 05:01:31]: ***  [, Level 0]: 'hhnaut31' has left the game
+[2021-04-07 05:01:43]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-07 05:01:47]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-07 05:01:47]: x7_sven [xSD7, Level 17]: Deadmouse: `?
+[2021-04-07 05:01:48]: ***  [, Level 0]: 'Bloople Lord' has left the game (Timeout)
