@@ -14246,3 +14246,4 @@
 [2021-04-06 22:42:01]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-06 22:42:38]: ***  [, Level 0]: 'puppy' entered and joined the game
 [2021-04-06 22:42:47]: Sashy [, Level 27]: SAUD: just trying a thing sry
+[2021-04-06 22:42:52]: SAUD [, Level 23]: np
