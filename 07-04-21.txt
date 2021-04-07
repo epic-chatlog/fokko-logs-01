@@ -10622,3 +10622,6 @@
 [2021-04-07 14:36:50]: x7|zemer [xSD7, Level 37]: bob: Wt
 [2021-04-07 14:36:57]: x7|zemer [xSD7, Level 37]: bob: Warum blockst du
 [2021-04-07 14:37:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-07 14:37:18]: WarHammer [, Level 26]: [D] ♥TAKO♥:  WERE
+[2021-04-07 14:37:24]: [D] ♥TAKO♥ [, Level 12]: bob:  relax bro XD
+[2021-04-07 14:37:25]: bob [Legacy™, Level 36]: x7|zemer: mach ich nicht
