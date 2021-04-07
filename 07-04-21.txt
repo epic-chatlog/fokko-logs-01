@@ -10139,3 +10139,5 @@
 [2021-04-07 13:38:26]: Isegrin [, Level 54]: geihts
 [2021-04-07 13:38:28]: Isegrin [, Level 54]: gehts
 [2021-04-07 13:38:31]: Swarfey [FookinLads, Level 42]: mir gehts gut
+[2021-04-07 13:38:54]: Swarfey [FookinLads, Level 42]: einfach
+[2021-04-07 13:38:58]: Isegrin [, Level 54]: SEHR GUT
