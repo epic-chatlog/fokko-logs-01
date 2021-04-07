@@ -6155,3 +6155,6 @@
 [2021-04-07 07:01:14]: #3 blocker [TW|Blockers, Level 24]: fokkonaut: thanks the password
 [2021-04-07 07:01:15]: (1)cookie [, Level 0]: :spec
 [2021-04-07 07:01:17]: x7|zemer [xSD7, Level 23]: fokkonaut: :(
+[2021-04-07 07:01:27]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
+[2021-04-07 07:01:33]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-07 07:01:37]: ***  [, Level 0]: '(2)Cosmo' has left the game
