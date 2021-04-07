@@ -2767,3 +2767,4 @@
 [2021-04-07 03:00:19]: ***  [, Level 0]: '(1)guy' has left the game (Timeout)
 [2021-04-07 03:00:19]: ***  [, Level 0]: 'penelope' has left the game (Timeout)
 [2021-04-07 03:00:19]: ***  [, Level 0]: 'pinnocia' has left the game (Timeout)
+[2021-04-07 03:00:29]: Maatiteusz [TrRShClNrRs, Level 35]: kais: scamming
