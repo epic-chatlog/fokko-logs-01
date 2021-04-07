@@ -10389,3 +10389,5 @@
 [2021-04-07 14:05:06]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: oxoxoxxo
 [2021-04-07 14:05:10]: ERROR [404, Level 74]: my client does
 [2021-04-07 14:05:12]: ***  [, Level 0]: ### 'WarHammer' xd
+[2021-04-07 14:05:17]: ERROR [404, Level 74]: say something in rus and i know what u sayin
+[2021-04-07 14:05:26]: Isegrin [, Level 55]: ERROR: jobany wrot
