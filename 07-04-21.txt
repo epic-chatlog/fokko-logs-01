@@ -6889,3 +6889,7 @@
 [2021-04-07 08:34:40]: #3 blocker [TW|Blockers, Level 24]: i help
 [2021-04-07 08:34:42]: ***  [, Level 0]: '(1)Warrior' entered and joined the game
 [2021-04-07 08:34:42]:   [, Level 0]: power2: haha ez bob
+[2021-04-07 08:34:47]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-07 08:34:48]: ***  [, Level 0]: ### 'ERROR' Woof-Woof
+[2021-04-07 08:34:51]: bob [Legacy™, Level 36]: why ez i didnt die XD
+[2021-04-07 08:34:57]: any [404, Level 0]: y
