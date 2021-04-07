@@ -14212,3 +14212,5 @@
 [2021-04-06 22:38:00]: kiøn1029 [.bad, Level 25]: én hajnali 5kor keltem
 [2021-04-06 22:38:07]: Boti. [.bad, Level 27]: az nem rosz
 [2021-04-06 22:38:10]: kiøn1029 [.bad, Level 25]: és 11kor aludtam vagy nem tom
+[2021-04-06 22:38:23]: kiøn1029 [.bad, Level 25]: 6 óra alvás után felkelek instant
+[2021-04-06 22:38:23]: Boti. [.bad, Level 27]: óra átállítás miatt kelek később de amúgy 5kor meg 6kor kelnék
