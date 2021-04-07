@@ -5531,3 +5531,4 @@
 [2021-04-07 06:26:07]:   [, Level 0]: cookie: Friendiship ;-):  oow oke
 [2021-04-07 06:26:11]: ***  [, Level 0]: 'zemer' has left the game
 [2021-04-07 06:26:14]:   [, Level 0]: BULLETBOT: WTF
+[2021-04-07 06:26:40]: ai9u7wgreauiwgh [, Level 24]: %s%s: %s
