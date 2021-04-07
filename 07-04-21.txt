@@ -7961,3 +7961,6 @@
 [2021-04-07 11:14:12]: Boti. [.bad, Level 33]: de ez se megy teljesen
 [2021-04-07 11:14:13]:   [, Level 0]: (1)ビール|Zero: weqe:
 [2021-04-07 11:14:15]: Boti. [.bad, Level 33]: hát a faszomat
+[2021-04-07 11:14:17]: weqe [MNKY, Level 12]: ビール|Zero: ?
+[2021-04-07 11:14:17]:   [, Level 0]: ERROR.: Swarfey:  aber so is nochmal beschissener
+[2021-04-07 11:14:25]:   [, Level 0]: (1)ビール|Zero: weqe: pls portal if you can<3
