@@ -10934,3 +10934,4 @@
 [2021-04-07 15:20:15]: ***  [, Level 0]: 'kiddo doggo' has left the game
 [2021-04-07 15:22:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-07 15:23:49]: x7 sven [xSD7, Level 18]: hunter pls
+[2021-04-07 15:24:10]: Hunter.exe [|Supressed|, Level 36]: warum dann kein reset
