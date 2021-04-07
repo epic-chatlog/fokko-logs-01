@@ -13842,3 +13842,4 @@
 [2021-04-06 18:32:35]: ***  [, Level 0]: 'wie' has left the game
 [2021-04-06 18:37:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-06 18:37:23]: ***  [, Level 0]: 'x7|Flipper' entered and joined the game
+[2021-04-06 18:40:07]: ***  [, Level 0]: 'Flupper' entered and joined the game
