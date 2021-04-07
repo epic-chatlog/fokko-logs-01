@@ -6871,3 +6871,9 @@
 [2021-04-07 08:32:31]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-07 08:32:33]: ERROR. [404, Level 56]: quick
 [2021-04-07 08:32:33]:   [, Level 0]: Swarfey: \(
+[2021-04-07 08:32:36]: ERROR. [404, Level 56]: tell me if u do
+[2021-04-07 08:32:41]: bob [Legacy™, Level 36]: i do
+[2021-04-07 08:32:45]: bob [Legacy™, Level 36]: XDDDDDDDDDD
+[2021-04-07 08:32:46]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-07 08:32:46]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game
+[2021-04-07 08:32:46]: bob [Legacy™, Level 36]: FK
