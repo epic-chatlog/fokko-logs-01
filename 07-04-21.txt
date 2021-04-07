@@ -1328,3 +1328,8 @@
 [2021-04-07 01:31:50]: ***  [, Level 0]: '1' finished the special race!
 [2021-04-07 01:32:01]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-07 01:32:02]: Maatiteusz [TrRShClNrRs, Level 35]: power: drop him here
+[2021-04-07 01:32:07]: Hady [new bot, Level 33]: Isegrin:  see the discord
+[2021-04-07 01:32:08]: ***  [, Level 0]: 'Clément' has left the game
+[2021-04-07 01:32:11]: Isegrin [, Level 54]: Hady: no
+[2021-04-07 01:32:17]: ***  [, Level 0]: 'power2' has left the game
+[2021-04-07 01:32:17]: ***  [, Level 0]: 'power' has left the game
