@@ -2587,3 +2587,9 @@
 [2021-04-07 02:46:41]: Virus [, Level 49]: ChillerDragon.*: hes nice
 [2021-04-07 02:46:46]: ChillerDragon.* [Chilli.*, Level 41]: ur his dummy Virus
 [2021-04-07 02:46:49]: s7_sven [xSD7, Level 17]: no little monkey
+[2021-04-07 02:46:51]: Virus [, Level 49]: ChillerDragon.*: no
+[2021-04-07 02:46:52]: ChillerDragon.* [|*KoG*|, Level 41]: i dont talk to ppl without name
+[2021-04-07 02:46:54]: 4jaja4.* [Chilli.*, Level 19]: cgi
+[2021-04-07 02:47:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-07 02:47:01]: ***  [, Level 0]: [POLICE-CHANNEL] 'Axandos²' has been caught by 'f"{self.name}"' (5 minutes arrest)
+[2021-04-07 02:47:02]: Maatiteusz [TrRShClNrRs, Level 35]: i asked dot about this
