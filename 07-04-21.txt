@@ -3917,3 +3917,6 @@
 [2021-04-07 04:10:22]: kiøn1029 [.bad, Level 25]: szed
 [2021-04-07 04:10:29]: ***  [, Level 0]: 'cookie' has left the game (Timeout)
 [2021-04-07 04:10:31]: ***  [, Level 0]: 'falkenauge' entered and joined the game
+[2021-04-07 04:10:43]: Boti. [.bad, Level 27]: van minden szarom csak infjumpom nincs mert no endless
+[2021-04-07 04:10:46]: ***  [, Level 0]: 'Foxi♥' has left the game
+[2021-04-07 04:10:49]:   [, Level 0]: falkenauge: Rem's bae: hiiiii
