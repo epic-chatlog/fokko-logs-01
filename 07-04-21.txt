@@ -5857,3 +5857,10 @@
 [2021-04-07 06:46:43]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-07 06:46:48]: ***  [, Level 0]: '(1)soleri1' has left the game
 [2021-04-07 06:46:50]: ***  [, Level 0]: 'kais' entered and joined the game
+[2021-04-07 06:46:57]: ***  [, Level 0]: (1)УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-07 06:46:57]: Lucas [THECEPS, Level 34]: ERROR: why do you guys fight than
+[2021-04-07 06:46:58]: ***  [, Level 0]: 'Kirito♥' has left the game
+[2021-04-07 06:46:58]: ERROR [404, Level 74]: ad its normal that i war u too if u attack me in my wars
+[2021-04-07 06:47:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-07 06:47:04]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-07 06:47:04]: [D] Cylox♥ [♥, Level 24]: adam kesek
