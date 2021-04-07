@@ -1483,3 +1483,5 @@
 [2021-04-07 01:42:14]: ***  [, Level 0]: 'SAUD' entered and joined the game
 [2021-04-07 01:42:22]: WarHammer [, Level 26]: mamikral011:  LAN F KLAVYE OLDU XD
 [2021-04-07 01:42:22]: mamikral011 [, Level 26]: GOLD: oooooooooooooooooooooo prooooooooooooo
+[2021-04-07 01:42:25]: f"{self.name}" [, Level 0]: Virus:
+[2021-04-07 01:42:27]: WarHammer [, Level 26]: mamikral011:  AGHSFASF
