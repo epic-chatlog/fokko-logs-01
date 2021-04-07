@@ -7023,3 +7023,4 @@
 [2021-04-07 08:42:41]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-07 08:42:43]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-07 08:42:45]: Nudelsaft c: [FookinLads, Level 37]: test
+[2021-04-07 08:42:51]: ***  [, Level 0]: 'jeder' has left the game
