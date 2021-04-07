@@ -1368,3 +1368,5 @@
 [2021-04-07 01:35:37]: Isegrin [, Level 54]: Meetiteusz: bez tasera ni ma jak
 [2021-04-07 01:36:11]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)1' is spawnblocking. Catch him!
 [2021-04-07 01:36:11]: Hady [new bot, Level 33]: Maatiteusz: lol
+[2021-04-07 01:36:21]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)1' is spawnblocking. Catch him!
+[2021-04-07 01:36:22]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)1' has been caught by 'Isegrin' (5 minutes arrest)
