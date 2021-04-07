@@ -5629,3 +5629,8 @@
 [2021-04-07 06:33:52]: ***  [, Level 0]: '[D] toxicdaddy' has left the game
 [2021-04-07 06:33:54]: ***  [, Level 0]: '[D] toxicdaddy' entered and joined the game
 [2021-04-07 06:34:03]: x7|flappy [xSD7, Level 14]: 6k
+[2021-04-07 06:34:07]: fokkonaut [, Level 0]: ai9u7wgreauiwgh: @everyone I see many players with older F-Client versions (2.8 for example). Go to fokkonaut.github.io/F-Client to get latest version!!
+[2021-04-07 06:34:08]: ChillerDragon [|*KoG*|, Level 44]: fokkonaut: I am currently afk.
+[2021-04-07 06:34:09]: x7|flappy [xSD7, Level 14]: 6k
+[2021-04-07 06:34:10]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-07 06:34:13]: ***  [, Level 0]: 'power2' entered and joined the game
