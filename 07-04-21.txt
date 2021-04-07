@@ -9704,3 +9704,5 @@
 [2021-04-07 12:37:30]: ***  [, Level 0]: x7|cya finished in: 3 minute(s)  2.32 second(s)
 [2021-04-07 12:37:30]: ***  [, Level 0]: [D] x7|cya finished in: 3 minute(s)  1.66 second(s)
 [2021-04-07 12:37:38]: ***  [, Level 0]: 'KoalasSindCool' has left the game
+[2021-04-07 12:37:40]: [D] BC|Tixnix [BC, Level 26]: any: ?
+[2021-04-07 12:37:41]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
