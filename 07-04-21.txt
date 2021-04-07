@@ -10090,3 +10090,4 @@
 [2021-04-07 13:26:31]: Isegrin [, Level 54]: yeeee
 [2021-04-07 13:26:39]: ***  [, Level 0]: '[D] x7|cya' has left the game
 [2021-04-07 13:26:39]: ***  [, Level 0]: 'x7|cya' has left the game
+[2021-04-07 13:26:42]: ***  [, Level 0]: '(1)flappy' changed name to 'x7|Flipper'
