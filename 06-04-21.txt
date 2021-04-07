@@ -13894,3 +13894,4 @@
 [2021-04-06 20:01:04]: ***  [, Level 0]: '(1)ERROR' has left the game (Timeout Protection over)
 [2021-04-06 20:01:04]: ***  [, Level 0]: '(1)ERROR.' has left the game (Timeout Protection over)
 [2021-04-06 20:02:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-06 20:03:48]: ☺ [, Level 0]: SAUD: why he save you but not me
