@@ -2595,3 +2595,6 @@
 [2021-04-07 02:47:02]: Maatiteusz [TrRShClNrRs, Level 35]: i asked dot about this
 [2021-04-07 02:47:13]: ***  [, Level 0]: 'guy' entered and joined the game
 [2021-04-07 02:47:15]: Maatiteusz [TrRShClNrRs, Level 35]: but he is not in dc
+[2021-04-07 02:47:16]: ***  [, Level 0]: '(2)guy' entered and joined the game
+[2021-04-07 02:47:21]: f"{self.name}" [, Level 18]: Axandos²: nub
+[2021-04-07 02:47:25]: Axandos [, Level 25]: f"{self.name}":  cringe
