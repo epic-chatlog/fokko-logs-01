@@ -10962,3 +10962,6 @@
 [2021-04-07 15:29:00]: (2)УБИВАТ [, Level 0]: NOOBS
 [2021-04-07 15:29:03]: (2)УБИВАТ [, Level 0]: Xd
 [2021-04-07 15:29:08]: ***  [, Level 0]: 'Noxl' would have timed out, but can use timeout protection now
+[2021-04-07 15:29:38]: ***  [, Level 0]: 'brainless tee' has left the game
+[2021-04-07 15:29:38]: ***  [, Level 0]: 'BULLETBOT' has left the game
+[2021-04-07 15:29:42]: ***  [, Level 0]: 'cunt' entered and joined the game
