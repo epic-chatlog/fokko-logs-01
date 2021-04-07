@@ -1958,3 +1958,7 @@
 [2021-04-07 02:10:33]: WarHammer [, Level 26]: taser
 [2021-04-07 02:10:35]: t [, Level 42]: power: u attack any
 [2021-04-07 02:10:44]: t [, Level 42]: power: ask any
+[2021-04-07 02:10:47]: power2 [TrRShClNrRs, Level 0]: i was cuddlig him t
+[2021-04-07 02:10:54]: ***  [, Level 0]: 'guy' entered and joined the game
+[2021-04-07 02:10:55]: YelloWorlD [404, Level 37]: 4jaja4: come 2jump no bonus
+[2021-04-07 02:10:55]: t [, Level 42]: power: ask any
