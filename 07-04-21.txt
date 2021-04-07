@@ -8988,3 +8988,7 @@
 [2021-04-07 11:57:38]: ***  [, Level 0]: 'bob weqe fan' has left the game
 [2021-04-07 11:57:38]: bob [Legacy™, Level 36]: weqe: come help me FAST
 [2021-04-07 11:57:43]: No Team :D [TrRShClNrRs, Level 16]: haaaaaaaaaaaaaa
+[2021-04-07 11:57:51]:   [, Level 0]: BC|Tixnix: [D] MNKY | Arin: you are so bad
+[2021-04-07 11:57:54]: bob [Legacy™, Level 36]: gg
+[2021-04-07 11:57:55]:   [, Level 0]: [D] MNKY | Arin: BC|Tixnix:  you are so bad
+[2021-04-07 11:58:00]: ***  [, Level 0]: 'GODLIKe.' has left the game (Too weak connection (not acked for 60 seconds))
