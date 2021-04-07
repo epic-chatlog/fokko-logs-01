@@ -15007,3 +15007,6 @@
 [2021-04-06 23:41:30]: GODLIKe. [GANG, Level 0]: gg
 [2021-04-06 23:41:31]: (3)SAUD [, Level 14]: ggs
 [2021-04-06 23:41:38]: BulgarianTee [xSD7, Level 0]: E
+[2021-04-06 23:41:58]: PoliceTee [xSD7, Level 38]: E
+[2021-04-06 23:42:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-06 23:42:05]: Souly [, Level 60]: EZ
