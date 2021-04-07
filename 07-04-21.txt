@@ -5313,3 +5313,7 @@
 [2021-04-07 05:20:14]: ***  [, Level 0]: '(1)Kotik' has left the game
 [2021-04-07 05:20:15]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [2021-04-07 05:20:16]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-07 05:20:20]: (1)cookie [, Level 0]: kurama:  no i dont can help
+[2021-04-07 05:20:21]: MieSlime [FookinLads, Level 43]: kurama:  jtai pas oublié toi
+[2021-04-07 05:20:24]:   [, Level 0]: Swarfey: a
+[2021-04-07 05:20:26]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
