@@ -6240,3 +6240,7 @@
 [2021-04-07 07:05:20]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
 [2021-04-07 07:05:27]: WarHammer' [, Level 0]: mamikral S
 [2021-04-07 07:05:31]: ai9u7wgreauiwgh [, Level 24]: fokkonaut: hi
+[2021-04-07 07:05:40]:   [, Level 0]: Kiøn1029: boti
+[2021-04-07 07:05:45]: ***  [, Level 0]: (1)kais finished in: 1 minute(s) 41.44 second(s)
+[2021-04-07 07:05:45]: ***  [, Level 0]: New record: 13 minute(s) 57.34 second(s) better.
+[2021-04-07 07:05:49]: CKA3A4NIK[NR] [Night Raid, Level 35]: K!ked:  <<
