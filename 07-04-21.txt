@@ -386,3 +386,7 @@
 [2021-04-07 00:25:03]: BulgarianTee [xSD7, Level 0]: ChillerDragon.*: hello = здравей, goodbye = довиждане, gay = гей
 [2021-04-07 00:25:15]: Isegrin [, Level 54]: WTF
 [2021-04-07 00:25:19]: weqe [MNKY, Level 12]: where BulgarianTee
+[2021-04-07 00:25:22]: demon [DD-persian, Level 10]: may dummy is left
+[2021-04-07 00:25:27]: BulgarianTee [xSD7, Level 0]: ChillerDragon.*: they are pronounced "zdravey" "dovizdane" and "gei"
+[2021-04-07 00:25:28]: x7|KshKsh99 [xSD7, Level 37]: BulgarianTee: need help ?
+[2021-04-07 00:25:28]: ChillerDragon [|*KoG*|, Level 44]: u use cyrillic letters BulgarianTee i didnt know
