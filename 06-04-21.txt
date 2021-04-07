@@ -13884,3 +13884,4 @@
 [2021-04-06 19:42:08]: ***  [, Level 0]: 'weqe' entered and joined the game
 [2021-04-06 19:42:34]: ***  [, Level 0]: 'weqe' has left the game
 [2021-04-06 19:44:21]: ***  [, Level 0]: 'teee' has left the game
+[2021-04-06 19:47:01]: ***  [, Level 0]: [INFO] You can create an account using '/register'
