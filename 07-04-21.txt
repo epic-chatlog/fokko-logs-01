@@ -6037,3 +6037,4 @@
 [2021-04-07 06:55:31]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-07 06:55:31]: weqe [MNKY, Level 12]: poka !!
 [2021-04-07 06:55:32]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-07 06:55:47]: ***  [, Level 0]: 'jeder' has left the game
