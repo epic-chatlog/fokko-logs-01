@@ -10679,3 +10679,8 @@
 [2021-04-07 14:45:09]: ***  [, Level 0]: '(1)ĦỮǤØ' changed name to 'x7|Flipper'
 [2021-04-07 14:45:14]: bob [Legacy™, Level 36]: Kirito♥: sell meee
 [2021-04-07 14:45:16]: Kirito♥ [♥, Level 40]: bob: /plot buy Kirito♥ 15000
+[2021-04-07 14:45:28]: bob [Legacy™, Level 36]: geht nicht
+[2021-04-07 14:45:30]: bob [Legacy™, Level 36]: mach raus
+[2021-04-07 14:45:32]: ♥TAKO♥ [, Level 25]: WarHammer:  u want
+[2021-04-07 14:45:38]: Kirito♥ [♥, Level 40]: bob: /plot buy 15000 Kirito♥
+[2021-04-07 14:45:41]: Kirito♥ [♥, Level 40]: bob: das geht
