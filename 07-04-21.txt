@@ -5493,3 +5493,7 @@
 [2021-04-07 05:32:33]: ***  [, Level 0]: '(1)ai9u7wgreauiw' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-07 05:32:33]: ***  [, Level 0]: Collected 44664 money
 [2021-04-07 05:32:33]: ***  [, Level 0]: Collected 42732 money
+[2021-04-07 06:23:32]: ***  [, Level 0]: 'ai9u7wgreauiwgh' entered and joined the game
+[2021-04-07 06:23:32]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.0, by fokkonaut
+[2021-04-07 06:23:32]: ***  [, Level 0]: Successfully logged in
+[2021-04-07 06:23:32]: ***  [, Level 0]: [WARNING] You did not set security pin yet. Check '/pin' for more information.
