@@ -10107,3 +10107,7 @@
 [2021-04-07 13:31:27]: ***  [, Level 0]: '~DemoizL~' has left the game
 [2021-04-07 13:32:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-07 13:32:00]: Isegrin [, Level 54]: [D] ♥TAKO♥: WE ARE LIVE
+[2021-04-07 13:32:03]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-07 13:32:07]: Isegrin [, Level 54]: [D] ♥TAKO♥: on ut
+[2021-04-07 13:32:08]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-07 13:32:10]: Isegrin [, Level 54]: [D] ♥TAKO♥: yt
