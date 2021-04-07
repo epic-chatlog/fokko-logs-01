@@ -5512,3 +5512,6 @@
 [2021-04-07 06:25:05]:   [, Level 0]: f"{self.name}": cookie: wait a moment
 [2021-04-07 06:25:11]: Kirito [♥, Level 25]: oyun krallı: i will hunt your forever. you will never farm again
 [2021-04-07 06:25:13]:   [, Level 0]: cookie: f"{self.name}":  oke
+[2021-04-07 06:25:14]: weqe [MNKY, Level 12]: x7|Flipper: >>
+[2021-04-07 06:25:17]: ***  [, Level 0]: BULLETBOT's killing spree was ended by Kotik (7 blocks)
+[2021-04-07 06:25:22]:   [, Level 0]: cookie: Friendiship ;-): hy
