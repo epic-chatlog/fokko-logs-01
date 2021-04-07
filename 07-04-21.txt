@@ -10326,3 +10326,6 @@
 [2021-04-07 13:58:33]: ***  [, Level 0]: 'any' has left the game
 [2021-04-07 13:58:35]: ♥TAKO♥ [, Level 25]: Isegrin:  oh my god
 [2021-04-07 13:58:51]: WarHammer [, Level 26]: [D] ♥TAKO♥:  WAİT FLAPY
+[2021-04-07 13:58:53]: ♥TAKO♥ [, Level 25]: Isegrin:  pls help
+[2021-04-07 13:58:58]: Isegrin [, Level 55]: im ded
+[2021-04-07 13:59:00]: ♥TAKO♥ [, Level 25]: Isegrin:  ok np
