@@ -10951,3 +10951,4 @@
 [2021-04-07 15:25:35]: (2)УБИВАТ [, Level 0]: Hunter.exe: noob)
 [2021-04-07 15:26:51]: Hunter.exe [|Supressed|, Level 36]: 977
 [2021-04-07 15:26:52]: Hunter.exe [|Supressed|, Level 36]: ok
+[2021-04-07 15:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
