@@ -10684,3 +10684,7 @@
 [2021-04-07 14:45:32]: ♥TAKO♥ [, Level 25]: WarHammer:  u want
 [2021-04-07 14:45:38]: Kirito♥ [♥, Level 40]: bob: /plot buy 15000 Kirito♥
 [2021-04-07 14:45:41]: Kirito♥ [♥, Level 40]: bob: das geht
+[2021-04-07 14:45:46]: bob [Legacy™, Level 36]: mach kurz raus
+[2021-04-07 14:45:47]: bob [Legacy™, Level 36]: ich muss bank
+[2021-04-07 14:45:50]: ***  [, Level 0]: The plot auction by 'Kirito♥' is cancelled
+[2021-04-07 14:45:52]: Kirito♥ [♥, Level 40]: bob: ok
