@@ -9905,3 +9905,6 @@
 [2021-04-07 12:56:09]: x7|Flipper [xSD7, Level 14]: dummy
 [2021-04-07 12:56:10]: Axel ² [TrRShClNrRs, Level 20]: nooooo
 [2021-04-07 12:56:12]: power2 [TrRShClNrRs, Level 0]: i hooked him once, but i didnt freeze whatsoever Axel
+[2021-04-07 12:56:15]: ***  [, Level 0]: 'kropkowaty' has left the game
+[2021-04-07 12:56:17]: ***  [, Level 0]: 'kropkowaty' entered and joined the game
+[2021-04-07 12:56:21]: (1)S Y T H N [iPro, Level 0]: x7|Flipper: dc
