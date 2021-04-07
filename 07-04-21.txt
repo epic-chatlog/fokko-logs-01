@@ -5901,3 +5901,6 @@
 [2021-04-07 06:48:32]: (1)ERROR [404, Level 47]: Friendiship ;-):  dont fucker
 [2021-04-07 06:48:40]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
 [2021-04-07 06:48:42]: УБИВАТЬ! [, Level 0]: am noob:D
+[2021-04-07 06:48:56]: ***  [, Level 0]: '(1)kais' entered and joined the game
+[2021-04-07 06:48:57]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-07 06:49:00]: ***  [, Level 0]: 'jeder' entered and joined the game
