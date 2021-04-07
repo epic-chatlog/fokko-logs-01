@@ -14104,3 +14104,4 @@
 [2021-04-06 22:27:43]: (3)SAUD [, Level 14]: gogle translate
 [2021-04-06 22:27:46]: (3)SAUD [, Level 14]: wfym
 [2021-04-06 22:27:48]: (3)SAUD [, Level 14]: d
+[2021-04-06 22:28:09]: ***  [, Level 0]: 'boo35h' entered and joined the game
