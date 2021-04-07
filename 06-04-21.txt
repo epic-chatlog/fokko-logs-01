@@ -13736,3 +13736,5 @@
 [2021-04-06 17:08:24]: ☺ [, Level 4]: il devrait avoir personne ici
 [2021-04-06 17:09:49]: hmmmmmm [, Level 11]: x7|KshKsh99: why
 [2021-04-06 17:10:46]: hmmmmmm [, Level 11]: man x7|KshKsh99  why i played with you yesterday
+[2021-04-06 17:12:00]: ***  [, Level 0]: [POLICE-CHANNEL] 't' is spawnblocking. Catch him!
+[2021-04-06 17:12:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
