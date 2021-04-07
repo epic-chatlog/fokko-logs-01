@@ -7118,3 +7118,5 @@
 [2021-04-07 10:34:08]: YelloWorlD [DogParty, Level 41]: ERROR: +1
 [2021-04-07 10:34:21]: YelloWorlD [DogParty, Level 41]: ERROR: u think any will accept ?
 [2021-04-07 10:34:35]: any² [404, Level 37]: YelloWorlD: ERROR ??
+[2021-04-07 10:34:39]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-07 10:34:44]: YelloWorlD [DogParty, Level 41]: any: vien dans mon clan x)
