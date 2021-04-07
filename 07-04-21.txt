@@ -2701,3 +2701,6 @@
 [2021-04-07 02:54:22]: ChillerDragon.* [|*KoG*|, Level 41]: always Friendiship ;-) ?
 [2021-04-07 02:54:23]: SAUD [, Level 24]: Batman:  GIVE it to ChillerDragon
 [2021-04-07 02:54:27]: Friendiship ;-) [, Level 0]: ChillerDragon.*: yes
+[2021-04-07 02:54:34]: ChillerDragon.* [|*KoG*|, Level 41]: say it in one line Friendiship ;-)
+[2021-04-07 02:54:36]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-07 02:54:39]: ***  [, Level 0]: 'bob' has left the game
