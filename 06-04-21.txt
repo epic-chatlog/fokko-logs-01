@@ -13891,3 +13891,5 @@
 [2021-04-06 19:57:04]: ***  [, Level 0]: 'ERROR' has left the game (Timeout)
 [2021-04-06 19:57:04]: ***  [, Level 0]: 'ERROR.' has left the game (Timeout)
 [2021-04-06 19:57:04]: ***  [, Level 0]: '(1)ERROR.' would have timed out, but can use timeout protection now
+[2021-04-06 20:01:04]: ***  [, Level 0]: '(1)ERROR' has left the game (Timeout Protection over)
+[2021-04-06 20:01:04]: ***  [, Level 0]: '(1)ERROR.' has left the game (Timeout Protection over)
