@@ -10953,3 +10953,5 @@
 [2021-04-07 15:26:52]: Hunter.exe [|Supressed|, Level 36]: ok
 [2021-04-07 15:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 15:27:24]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
+[2021-04-07 15:27:33]: (2)УБИВАТ [, Level 0]: xD
+[2021-04-07 15:27:35]: ***  [, Level 0]: 'brainless tee' entered and joined the game
