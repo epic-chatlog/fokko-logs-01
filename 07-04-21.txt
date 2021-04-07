@@ -11116,3 +11116,5 @@
 [2021-04-07 16:42:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-07 16:44:39]: \\Syth [Chilli.*, Level 29]: wtf why i have 300 ping
 [2021-04-07 16:44:44]: \\Syth [Chilli.*, Level 29]: bruh
+[2021-04-07 16:44:58]: ***  [, Level 0]: 'iMxtteo' has left the game (Timeout)
+[2021-04-07 16:44:58]: ***  [, Level 0]: 'iMxtteo D' has left the game (Timeout)
