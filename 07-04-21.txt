@@ -929,3 +929,5 @@
 [2021-04-07 00:52:07]: ***  [, Level 0]: 'Boti. but 0.7' has left the game
 [2021-04-07 00:52:08]: ***  [, Level 0]: 'HadyFAKE' entered and joined the game
 [2021-04-07 00:52:11]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[2021-04-07 00:52:31]: (1)ChillerDrago [|*KoG*|, Level 31]: szia Boti.
+[2021-04-07 00:52:31]: #3 blocker [TW|Blockers, Level 0]: (1)oyun krallı:
