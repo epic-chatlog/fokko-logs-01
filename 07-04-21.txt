@@ -4522,3 +4522,7 @@
 [2021-04-07 04:30:30]: ***  [, Level 0]: [POLICE-CHANNEL] '[D] Deadmouse' is spawnblocking. Catch him!
 [2021-04-07 04:30:32]: ***  [, Level 0]: 'Anatomyx' has left the game
 [2021-04-07 04:30:32]: ***  [, Level 0]: 'Anatomy' has left the game
+[2021-04-07 04:30:36]: ***  [, Level 0]: [POLICE-CHANNEL] '[D] Deadmouse' is spawnblocking. Catch him!
+[2021-04-07 04:30:38]: x7_sven [xSD7, Level 17]: Friendiship ;-):
+[2021-04-07 04:30:42]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-07 04:30:45]: ***  [, Level 0]: 'Niemand' entered and joined the game
