@@ -6000,3 +6000,13 @@
 [2021-04-07 06:54:05]:   [, Level 0]: Boti.: eh
 [2021-04-07 06:54:06]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-07 06:54:08]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-07 06:54:10]: ***  [, Level 0]: You are not permitted to talk for the next 1 seconds.
+[2021-04-07 06:54:10]: ***  [, Level 0]: 'water' has left the game
+[2021-04-07 06:54:14]: K!ked [De}|{aBю, Level 62]: ERROR: tysm
+[2021-04-07 06:54:14]:   [, Level 0]: kiøn1029: Boti.: műkszik ez a szar bot
+[2021-04-07 06:54:15]: ai9u7wgreauiwgh [, Level 24]: K!ked [62]: ERROR: tysm
+[2021-04-07 06:54:15]: weqe [MNKY, Level 12]: (1)cookie:
+[2021-04-07 06:54:16]: ai9u7wgreauiwgh [, Level 24]: weqe [12]: (1)cookie:
+[2021-04-07 06:54:18]: ERROR [404, Level 74]: xD
+[2021-04-07 06:54:19]: ai9u7wgreauiwgh [, Level 24]: ERROR [74]: xD
+[2021-04-07 06:54:20]: ***  [, Level 0]: 'JxK|JoK'Air' has left the game
