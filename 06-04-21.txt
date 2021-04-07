@@ -13914,3 +13914,4 @@
 [2021-04-06 20:37:01]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-06 20:42:01]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-06 20:42:10]: (2)SAUD [, Level 10]: ERROR:
+[2021-04-06 20:42:16]: (2)SAUD [, Level 10]: FUCK U <3
