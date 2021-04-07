@@ -14232,3 +14232,6 @@
 [2021-04-06 22:40:11]: (3)SAUD [, Level 14]: flag
 [2021-04-06 22:40:14]: Sashy [, Level 27]: nuh
 [2021-04-06 22:40:20]: (3)SAUD [, Level 14]: wdym
+[2021-04-06 22:40:27]: (3)SAUD [, Level 14]: i gave it to him
+[2021-04-06 22:40:31]: Sashy [, Level 27]: i dont want to give u flag
+[2021-04-06 22:40:37]: (3)SAUD [, Level 14]: xD
