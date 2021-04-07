@@ -13724,3 +13724,4 @@
 [2021-04-06 17:06:17]: ***  [, Level 0]: '(1)Mr.KshKsh99' has left the game (Timeout)
 [2021-04-06 17:06:17]: ***  [, Level 0]: 'x7|KshKsh99' has left the game (Timeout)
 [2021-04-06 17:06:17]: ***  [, Level 0]: '(1)x7|KshKsh99' has left the game (Timeout)
+[2021-04-06 17:06:52]: ***  [, Level 0]: 'x7|KshKsh99' entered and joined the game
