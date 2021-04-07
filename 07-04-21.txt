@@ -6422,3 +6422,6 @@
 [2021-04-07 08:01:47]: ERRORᅟᅟᅟ [404, Level 47]: xD
 [2021-04-07 08:01:51]: ビール|Zero [Chilli.*, Level 28]: kurama: привет муру передавай
 [2021-04-07 08:01:54]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-07 08:01:57]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-07 08:02:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-07 08:02:07]: ᅟ [404, Level 74]: any:  hi
