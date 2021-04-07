@@ -1155,3 +1155,4 @@
 [2021-04-07 01:12:01]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-07 01:12:01]: ***  [, Level 0]: 'bruh' entered and joined the game
 [2021-04-07 01:12:02]: [D] 4jaja4 [, Level 18]: hello Sashy
+[2021-04-07 01:12:10]: ***  [, Level 0]: 'cunt' entered and joined the game
