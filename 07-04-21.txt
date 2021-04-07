@@ -1510,3 +1510,6 @@
 [2021-04-07 01:43:44]: ***  [, Level 0]: 'Deadmouse' entered and joined the game
 [2021-04-07 01:43:45]: ***  [, Level 0]: '[D] send nudes' entered and joined the game
 [2021-04-07 01:43:46]: SAUD [, Level 0]: xD WarHammer
+[2021-04-07 01:43:56]: 4jaja4 [, Level 23]: pls no ChillerDragon
+[2021-04-07 01:43:58]: Meetiteusz [TrRShClNrRs, Level 0]: f"{self.name}": HI
+[2021-04-07 01:44:03]: f"{self.name}" [, Level 0]: hi)
