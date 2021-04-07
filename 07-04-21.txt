@@ -9315,3 +9315,5 @@
 [2021-04-07 12:13:00]: ***  [, Level 0]: 'KoalasSindCool' has left the game
 [2021-04-07 12:13:01]: ***  [, Level 0]: 'BC|Tixnix' finished the special race!
 [2021-04-07 12:13:03]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
+[2021-04-07 12:13:18]: ***  [, Level 0]: 'sL|KeBu28' entered and joined the game
+[2021-04-07 12:13:25]: MieSlime [FookinLads, Level 43]: weqe: ² why ?
