@@ -5892,3 +5892,9 @@
 [2021-04-08 08:24:08]: ***  [, Level 0]: 'Sergej' entered and joined the game
 [2021-04-08 08:24:15]: (3)ChillerDrago [Chilli.*, Level 33]: bob bully
 [2021-04-08 08:24:21]: MieSlime [FookinLads, Level 43]: bob:  NOOB ENDLESS
+[2021-04-08 08:24:34]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 08:24:35]: ***  [, Level 0]: 'BOZ KURT' has left the game
+[2021-04-08 08:24:35]: ***  [, Level 0]: 'PARDUS' has left the game
+[2021-04-08 08:24:36]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-08 08:24:37]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 08:24:41]: ***  [, Level 0]: 'f"{self.name}"' has left the game
