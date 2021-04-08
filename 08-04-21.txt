@@ -1881,3 +1881,5 @@
 [2021-04-08 03:13:16]: ***  [, Level 0]: 'zemer' has left the game
 [2021-04-08 03:13:38]: [D] BC|kakashi [BC, Level 0]: any²:
 [2021-04-08 03:13:39]: (1) [⠀⠀⠀, Level 35]: ?
+[2021-04-08 03:13:51]: ***  [, Level 0]: '(1)' has left the game
+[2021-04-08 03:13:56]: ***  [, Level 0]: (1)SAUD is on a killing spree with 5 blocks
