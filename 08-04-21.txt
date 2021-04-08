@@ -556,3 +556,7 @@
 [2021-04-08 01:09:56]: Meetiteusz [TrRShClNrRs, Level 0]: Vodo4ka: flappy
 [2021-04-08 01:09:58]: YelloWorlD [DogParty, Level 37]: (1)Friendiship : t'es sur quel client ?
 [2021-04-08 01:10:24]: (1)Friendiship  [, Level 0]: YelloWorlD: c a dire
+[2021-04-08 01:10:29]: mamikral011 [DogParty, Level 26]: YelloWorlD: hii bro
+[2021-04-08 01:10:31]: (1)ERROR [404, Level 47]: Meetiteusz:  rly?
+[2021-04-08 01:10:34]: YelloWorlD [DogParty, Level 37]: (1)Friendiship : tu joue sur quoi teeworld ?
+[2021-04-08 01:10:34]: Meetiteusz [TrRShClNrRs, Level 0]: ERROR: what
