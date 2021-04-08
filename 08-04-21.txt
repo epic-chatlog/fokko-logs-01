@@ -1873,3 +1873,9 @@
 [2021-04-08 03:13:02]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
 [2021-04-08 03:13:04]: ***  [, Level 0]: 'zemer' entered and joined the game
 [2021-04-08 03:13:05]: Lucas [THECEPS, Level 34]: x7|zemer: sorry
+[2021-04-08 03:13:08]: Friendiship ;-) [, Level 0]: YelloWorlD: pro
+[2021-04-08 03:13:10]: ***  [, Level 0]: 'MieSlime' has left the game
+[2021-04-08 03:13:11]: ***  [, Level 0]: [D] BC|Tixnix's killing spree was ended by Lucas (5 blocks)
+[2021-04-08 03:13:14]:   [, Level 0]: zemer: Lucas its ok
+[2021-04-08 03:13:14]: ***  [, Level 0]: 'toxicdadd' entered and joined the game
+[2021-04-08 03:13:16]: ***  [, Level 0]: 'zemer' has left the game
