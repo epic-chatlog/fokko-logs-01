@@ -1891,3 +1891,5 @@
 [2021-04-08 03:15:21]: ***  [, Level 0]: '(2)kais' has left the game
 [2021-04-08 03:15:28]: any² [404, Level 0]: [D] BC|kakashi: do this
 [2021-04-08 03:16:06]: OP|Supers [DogParty, Level 0]: hkloppo
+[2021-04-08 03:16:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-08 03:17:10]: [D] BC|kakashi [BC, Level 0]: any²: where are u
