@@ -11471,3 +11471,4 @@
 [2021-04-07 23:01:41]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' entered and joined the game
 [2021-04-07 23:02:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 23:02:25]: WarHammer [, Level 26]: (1)Mr.KshKsh99:  xd
+[2021-04-07 23:02:46]: WarHammer [, Level 26]: UP
