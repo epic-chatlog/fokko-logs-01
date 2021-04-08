@@ -5615,3 +5615,8 @@
 [2021-04-08 08:06:10]: ***  [, Level 0]: ### 'Mʎɹ シ' i3slkiller = NOOOOOOOOOOOOOOOOOOOB
 [2021-04-08 08:06:13]: Kong [[_Any %_], Level 0]: hello thare
 [2021-04-08 08:06:15]: ***  [, Level 0]: 'ArlenB' entered and joined the game
+[2021-04-08 08:06:20]:   [, Level 0]: Mʎɹ シ: Kong: Hello
+[2021-04-08 08:06:23]: Kong [[_Any %_], Level 0]: :)
+[2021-04-08 08:06:28]:   [, Level 0]: Mʎɹ シ: Kong: :)
+[2021-04-08 08:06:29]: GOLD [404, Level 40]: Tziys*: wDDDD
+[2021-04-08 08:06:32]: Kong [[_Any %_], Level 0]: :D
