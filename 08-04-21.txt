@@ -3704,3 +3704,5 @@
 [2021-04-08 05:36:07]: ***  [, Level 0]: '(1)el champeon' entered and joined the game
 [2021-04-08 05:36:13]: ***  [, Level 0]: '[D] Cylox' has left the game
 [2021-04-08 05:36:13]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-08 05:36:37]: ***  [, Level 0]: '(1)УБИВАТЬ!' has left the game
+[2021-04-08 05:36:38]: ***  [, Level 0]: 'Niemand' has left the game
