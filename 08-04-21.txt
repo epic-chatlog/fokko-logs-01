@@ -4573,3 +4573,6 @@
 [2021-04-08 06:53:41]:   [, Level 0]: bob: WarHammer: gotveren
 [2021-04-08 06:53:41]: ***  [, Level 0]: '(1)NetFlix' has left the game
 [2021-04-08 06:53:42]:   [, Level 0]: toxicdadd: power: help me
+[2021-04-08 06:53:53]: WarHammer [, Level 0]: bob:  xd
+[2021-04-08 06:54:00]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 06:54:02]: ***  [, Level 0]: 'jeder' entered and joined the game
