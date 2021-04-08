@@ -12232,3 +12232,5 @@
 [2021-04-08 14:51:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-08 14:52:00]: ***  [, Level 0]: fomin is on a killing spree with 5 blocks
 [2021-04-08 14:52:07]: ***  [, Level 0]: fomjn is on a killing spree with 10 blocks
+[2021-04-08 14:52:42]: ***  [, Level 0]: fomin is on a killing spree with 10 blocks
+[2021-04-08 14:52:48]: ***  [, Level 0]: fomjn is on a killing spree with 15 blocks
