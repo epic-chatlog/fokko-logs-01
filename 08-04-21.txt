@@ -11011,3 +11011,9 @@
 [2021-04-08 12:47:28]: ***  [, Level 0]: 'Kezo' has been muted for 60 seconds
 [2021-04-08 12:47:30]: Falco641 [.bad, Level 19]: GOLD: why u even block me
 [2021-04-08 12:47:45]: mamikral011 [DogParty, Level 26]: taser GOLD
+[2021-04-08 12:47:47]: ***  [, Level 0]: 'toxicdadd' has left the game
+[2021-04-08 12:47:47]: ***  [, Level 0]: 'toxicdaddy' has left the game
+[2021-04-08 12:47:51]: ERROR. [404, Level 56]: GOLD:  omg
+[2021-04-08 12:47:51]: ***  [, Level 0]: [D] tschu is on a killing spree with 5 blocks
+[2021-04-08 12:47:57]: ERROR. [404, Level 56]: stupid dog
+[2021-04-08 12:47:57]: GOLD [404, Level 40]: ERROR: what omg u lose 1v1
