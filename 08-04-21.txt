@@ -5151,3 +5151,8 @@
 [2021-04-08 07:30:05]: ***  [, Level 0]: 'Shy-ra.' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-08 07:30:08]: ♥JustRace♥ [no-clan, Level 36]: Sad Guy:  sad tee?
 [2021-04-08 07:30:09]: (1)Foxi♥ [♥, Level 1]: Kirito♥: why are u chewing so hardly
+[2021-04-08 07:30:19]: Kirito♥ [♥, Level 40]: (1)Foxi♥: chewing? do i?
+[2021-04-08 07:30:20]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 07:30:23]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 07:30:23]:   [, Level 0]: Sad Guy: i crying
+[2021-04-08 07:30:27]: GOLD [404, Level 40]: ChillerDragon: u sream is off
