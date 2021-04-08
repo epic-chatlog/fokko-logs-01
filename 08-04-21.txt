@@ -483,3 +483,5 @@
 [2021-04-08 01:02:19]: ***  [, Level 0]: 'x7|zemer' has left the game
 [2021-04-08 01:02:34]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
 [2021-04-08 01:02:45]: BC|Tixnix [BC, Level 34]: ERROR.: willst du die wieder?a
+[2021-04-08 01:03:50]: ***  [, Level 0]: SAUD finished in: 1 minute(s)  2.64 second(s)
+[2021-04-08 01:03:52]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 40.12 second(s)
