@@ -11193,3 +11193,4 @@
 [2021-04-07 18:45:15]: ***  [, Level 0]: 'H0LL4D13W4LDFEE' has left the game
 [2021-04-07 18:47:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-07 18:52:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-07 18:57:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
