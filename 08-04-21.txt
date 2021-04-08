@@ -560,3 +560,5 @@
 [2021-04-08 01:10:31]: (1)ERROR [404, Level 47]: Meetiteusz:  rly?
 [2021-04-08 01:10:34]: YelloWorlD [DogParty, Level 37]: (1)Friendiship : tu joue sur quoi teeworld ?
 [2021-04-08 01:10:34]: Meetiteusz [TrRShClNrRs, Level 0]: ERROR: what
+[2021-04-08 01:10:45]: (1)ERROR [404, Level 47]: Vodo4ka:  ohhh we continue
+[2021-04-08 01:10:50]: Vodo4ka [JB.st, Level 41]: (1)ERROR:  WE over?
