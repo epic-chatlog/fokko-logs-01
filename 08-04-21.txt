@@ -10821,3 +10821,8 @@
 [2021-04-08 12:36:01]:   [, Level 0]: MUTE: gay war
 [2021-04-08 12:36:04]: (1)cookie [, Level 0]: team
 [2021-04-08 12:36:07]: GReeeN [, Level 0]: OMG
+[2021-04-08 12:36:24]: ***  [, Level 0]: 'Yodef' entered and joined the game
+[2021-04-08 12:36:24]: any [404, Level 37]: (1)cookie:
+[2021-04-08 12:36:27]: ***  [, Level 0]: 'jozio' joined the spectators
+[2021-04-08 12:36:32]: GOLD [404, Level 40]: MUTE: lets be chill with Fearless
+[2021-04-08 12:36:34]: Falco642 [, Level 0]: YelloWorlD: stop?
