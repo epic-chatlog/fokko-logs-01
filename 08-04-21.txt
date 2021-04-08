@@ -6285,3 +6285,6 @@
 [2021-04-08 08:41:21]:   [, Level 0]: weqe: yes ChillerDragon
 [2021-04-08 08:41:24]: WarHammer [, Level 26]: ChillerDragon:  help police >>>
 [2021-04-08 08:41:25]: ChillerDragon [Chilli.*, Level 44]: i hang there sometimes weqe
+[2021-04-08 08:41:32]: ChillerDragon [Chilli.*, Level 44]: thats why i wonder we dont know each other weqe
+[2021-04-08 08:41:34]:   [, Level 0]: weqe: ChillerDragon: its weird u dont know me if u know aeon
+[2021-04-08 08:41:35]: WarHammer [, Level 26]: weqe:  help police >>>
