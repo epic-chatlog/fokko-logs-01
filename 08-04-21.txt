@@ -3253,3 +3253,8 @@
 [2021-04-08 05:01:59]: ***  [h���, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-08 05:02:03]: (1)Котяра [, Level 13]: right and left
 [2021-04-08 05:02:03]: ĦỮǤØ [ŞƤΔŴŇ, Level 14]: huh
+[2021-04-08 05:02:08]: (1)Котяра [, Level 13]: where i and you
+[2021-04-08 05:02:09]: (1)OP|Supers [DogParty, Level 0]: Asta:  why luckY?
+[2021-04-08 05:02:09]: ***  [h���, Level 0]: '(1)oyun krallı' has left the game
+[2021-04-08 05:02:13]: ***  [h���, Level 0]: '(1)oyun krallı' entered and joined the game
+[2021-04-08 05:02:14]: Asta [FookinLads, Level 0]: OP|Supers:  bcs lucky
