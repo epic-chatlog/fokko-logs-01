@@ -4958,3 +4958,5 @@
 [2021-04-08 07:17:33]: (1)ChillerDrago [|*KoG*|, Level 32]: on youtube YelloWorlD ?
 [2021-04-08 07:17:37]: YelloWorlD [DogParty, Level 37]: ChillerDragon: y
 [2021-04-08 07:17:39]: (1)ChillerDrago [Chilli.*, Level 32]: whats that YelloWorlD
+[2021-04-08 07:17:44]: ***  [, Level 0]: '(1)' changed name to '✰✰✰'
+[2021-04-08 07:17:44]: ***  [, Level 0]: '(2)' changed name to '✰'
