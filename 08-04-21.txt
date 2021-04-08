@@ -10556,3 +10556,5 @@
 [2021-04-08 12:18:59]:   [, Level 0]: [D] MNKY | Arin: f"{self.name}":  WAr4life
 [2021-04-08 12:19:00]:   [, Level 0]: MieSlime: any:  nul
 [2021-04-08 12:19:00]: [D] mamikral011 [DogParty, Level 21]: f"{self.name}": thank
+[2021-04-08 12:19:05]: [D] BC|Tixnix [BC, Level 0]: any²:
+[2021-04-08 12:19:09]: mamikral011 [DogParty, Level 26]: [D] Hunter.exe: why atack
