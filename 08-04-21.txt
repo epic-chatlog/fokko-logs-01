@@ -5685,3 +5685,5 @@
 [2021-04-08 08:10:31]: ***  [, Level 0]: '(1)' changed name to '(1) Hunter.exe'
 [2021-04-08 08:10:55]:   [, Level 0]: Kaptar: Nightmare: can u ?
 [2021-04-08 08:11:02]: Nightmare [, Level 27]: Kaptar: ?
+[2021-04-08 08:11:20]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 08:11:21]: ***  [, Level 0]: 'Tziys*' changed name to '(1)ᅟᅟᅟ'
