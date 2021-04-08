@@ -2179,3 +2179,4 @@
 [2021-04-08 03:54:18]: [D] Swipez [, Level 25]: XD
 [2021-04-08 03:54:22]: ***  [hýÿÿ, Level 0]: 'Jerry' finished the special race!
 [2021-04-08 03:54:22]: ***  [hýÿÿ, Level 0]: Jerry finished in: 9 minute(s) 13.72 second(s)
+[2021-04-08 03:54:34]: Kong [[_Any %_], Level 0]: sorry
