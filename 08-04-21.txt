@@ -12808,3 +12808,5 @@
 [2021-04-08 16:08:14]: Flipper [, Level 40]: okay
 [2021-04-08 16:08:18]: Fearless [DogParty, Level 15]: portal source is portal sourc
 [2021-04-08 16:10:59]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
+[2021-04-08 16:11:11]: Fearless [DogParty, Level 15]: (1) Hunter.exe:  me
+[2021-04-08 16:11:19]: ***  [, Level 0]: '(1) Hunter.exe' changed name to 'Hunter.exe'
