@@ -1245,3 +1245,5 @@
 [2021-04-08 02:01:26]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-08 02:01:38]: ***  [, Level 0]: 'Isegrin' entered and joined the game
 [2021-04-08 02:01:44]: ***  [, Level 0]: 'Mr.KshKsh99' entered and joined the game
+[2021-04-08 02:01:53]: Isegrin [, Level 55]: praNjkda
+[2021-04-08 02:01:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
