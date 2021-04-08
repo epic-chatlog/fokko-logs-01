@@ -10305,3 +10305,4 @@
 [2021-04-08 12:05:27]: ***  [, Level 0]: 'SmileyBanton' has left the game
 [2021-04-08 12:05:32]:   [, Level 0]: MNKY | Arin: Meetiteusz:  XDD
 [2021-04-08 12:05:33]: ***  [, Level 0]: 'SmileyBanton' entered and joined the game
+[2021-04-08 12:05:40]: (1)cookie [, Level 0]: thx
