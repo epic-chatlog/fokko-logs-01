@@ -11692,3 +11692,11 @@
 [2021-04-08 13:42:17]: Ambah [, Level 0]: FUCK FLAPPY
 [2021-04-08 13:42:20]: Ambah [, Level 0]: A FUCKING BOT
 [2021-04-08 13:42:24]: ERROR. [404, Level 56]: such an stupid
+[2021-04-08 13:42:35]: Ambah [, Level 0]: ERROR: you just cant play without bonus
+[2021-04-08 13:42:36]: Cassie [, Level 0]: me
+[2021-04-08 13:42:40]: ***  [, Level 0]: '2' has left the game
+[2021-04-08 13:42:40]: ***  [, Level 0]: '(1)[D] 2' has left the game
+[2021-04-08 13:42:42]: ***  [, Level 0]: '(1)2' changed name to '2'
+[2021-04-08 13:42:42]: ERROR [404, Level 74]: [D] Ambah:  well u know why  why u try
+[2021-04-08 13:42:44]: ***  [, Level 0]: '2' has left the game
+[2021-04-08 13:42:44]: ***  [, Level 0]: '[D] 2' has left the game
