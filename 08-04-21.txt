@@ -4313,3 +4313,5 @@
 [2021-04-08 06:31:38]: ***  [, Level 0]: '(1)nameless tee' has left the game
 [2021-04-08 06:31:48]: YelloWorlD [DogParty, Level 37]: Cylox:
 [2021-04-08 06:31:49]: woona [, Level 48]: Cylox: tamam sen bılırsın
+[2021-04-08 06:31:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-08 06:32:04]: S Y T H N [DogParty, Level 37]: noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooob
