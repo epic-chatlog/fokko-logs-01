@@ -6252,3 +6252,7 @@
 [2021-04-08 08:40:01]: Mʎɹ シ [not today, Level 12]: Котяра: А двинацатый 240к хД
 [2021-04-08 08:40:07]: ***  [, Level 0]: 'serwan' entered and joined the game
 [2021-04-08 08:40:08]:   [, Level 0]: weqe: ChillerDragon: vanilla since 10 years lol
+[2021-04-08 08:40:14]: ChillerDragon [Chilli.*, Level 44]: what name weqe ?
+[2021-04-08 08:40:17]:   [, Level 0]: weqe: sevix ChillerDragon
+[2021-04-08 08:40:17]: ***  [, Level 0]: 'BC|serwan' entered and joined the game
+[2021-04-08 08:40:20]: ChillerDragon [Chilli.*, Level 44]: hmm
