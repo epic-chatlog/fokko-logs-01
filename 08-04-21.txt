@@ -12363,3 +12363,5 @@
 [2021-04-08 15:20:41]: Fearless [DogParty, Level 40]: fomjn:  you needed to spawnblock right? :D
 [2021-04-08 15:20:42]: fomin [RUA, Level 0]: how
 [2021-04-08 15:21:09]: fomjn [RUA, Level 0]: I go sleep, bye
+[2021-04-08 15:21:18]: ***  [, Level 0]: 'fomin' has left the game
+[2021-04-08 15:21:18]: ***  [, Level 0]: 'fomjn' has left the game
