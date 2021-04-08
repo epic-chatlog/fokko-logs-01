@@ -11250,3 +11250,4 @@
 [2021-04-07 21:16:51]: ***  [, Level 0]: 'Stechus Kaktus' has left the game
 [2021-04-07 21:17:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-07 21:17:25]: ***  [, Level 0]: 'Stechus Kaktus' entered and joined the game
+[2021-04-07 21:18:40]: ***  [, Level 0]: 'Stechus Kaktus' has left the game
