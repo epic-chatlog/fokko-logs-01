@@ -1301,3 +1301,5 @@
 [2021-04-08 02:06:32]: ~DemoizL~ [, Level 39]: dog
 [2021-04-08 02:06:39]: any [404, Level 42]: ~DemoizL~: l2p
 [2021-04-08 02:06:42]: ChillerDragon.* [Chilli.*, Level 41]: ass MieSlime
+[2021-04-08 02:06:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-08 02:07:04]: Virus [, Level 49]: VOVA
