@@ -4001,3 +4001,4 @@
 [2021-04-08 06:02:46]: ***  [, Level 0]: '[D] Cylox' entered and joined the game
 [2021-04-08 06:02:46]:   [, Level 0]: Soros: f"{self.name}": fuck urself
 [2021-04-08 06:02:48]: ***  [, Level 0]: '[D] Cylox' has left the game
+[2021-04-08 06:03:05]: bob [Legacy™, Level 36]: XDD
