@@ -11460,3 +11460,6 @@
 [2021-04-07 22:59:17]: (3)SAUD [, Level 0]: Xd
 [2021-04-07 22:59:19]: (3)SAUD [, Level 0]: xD
 [2021-04-07 22:59:37]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-07 22:59:42]: WarHammer [, Level 0]: hi guys
+[2021-04-07 22:59:48]: (3)SAUD [, Level 0]: FUCK U
+[2021-04-07 22:59:50]: ***  [, Level 0]: (3)SAUD finished in: 0 minute(s) 42.70 second(s)
