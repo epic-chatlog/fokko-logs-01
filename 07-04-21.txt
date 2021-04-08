@@ -11376,3 +11376,6 @@
 [2021-04-07 22:32:21]: ***  [, Level 0]: 'gian x' has left the game (Timeout)
 [2021-04-07 22:33:38]: ***  [, Level 0]: x7|KshKsh99 finished in: 0 minute(s) 45.10 second(s)
 [2021-04-07 22:33:38]: ***  [, Level 0]: New record: 34.32 second(s) better.
+[2021-04-07 22:33:47]: ***  [, Level 0]: Mr.KshKsh99 finished in: 5 minute(s) 41.36 second(s)
+[2021-04-07 22:33:49]: ***  [, Level 0]: 'Dynablade' entered and joined the game
+[2021-04-07 22:33:53]: ***  [, Level 0]: 'Dynablade' has left the game
