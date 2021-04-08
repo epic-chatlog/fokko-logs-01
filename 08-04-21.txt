@@ -6551,3 +6551,5 @@
 [2021-04-08 08:51:55]: JustRace [DogParty, Level 36]: cl_aimbot 1
 [2021-04-08 08:51:57]: ***  [, Level 0]: '(2)nameless tee' entered and joined the game
 [2021-04-08 08:51:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-08 08:52:02]: ***  [, Level 0]: '\\Syth' entered and joined the game
+[2021-04-08 08:52:11]: ***  [, Level 0]: '(2)nameless tee' has left the game
