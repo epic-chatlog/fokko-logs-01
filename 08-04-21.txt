@@ -1844,3 +1844,5 @@
 [2021-04-08 03:08:08]: ***  [, Level 0]: 'OP|Supers' entered and joined the game
 [2021-04-08 03:08:09]: MieSlime [FookinLads, Level 43]: ERROR:  FUCK U
 [2021-04-08 03:08:12]: toxicdaddy [, Level 26]: BC|Tixnix: DUB SHIT
+[2021-04-08 03:08:19]: ***  [, Level 0]: 'iMxtteo' entered and joined the game
+[2021-04-08 03:08:27]: ***  [, Level 0]: 'Arabcer' entered and joined the game
