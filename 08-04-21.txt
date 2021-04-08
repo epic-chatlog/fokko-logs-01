@@ -4399,3 +4399,6 @@
 [2021-04-08 06:40:41]: GODLIKe [u, Level 44]: YelloWorlD:
 [2021-04-08 06:40:46]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
 [2021-04-08 06:40:46]: el champeon [, Level 0]: Cylox: sry I made a deal with GODLIKe
+[2021-04-08 06:41:11]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 06:41:14]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 06:41:17]: ***  [, Level 0]: '[D] Boti.' has left the game
