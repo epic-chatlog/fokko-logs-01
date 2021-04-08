@@ -12852,3 +12852,7 @@
 [2021-04-08 16:21:34]: s6_sven [, Level 21]: peace?
 [2021-04-08 16:21:38]: Hunter.exe [DogParty, Level 36]: s6_sven: 3 sec or war
 [2021-04-08 16:21:48]: s6_sven [, Level 21]: war um tötest dum ich
+[2021-04-08 16:21:58]: Fearless [DogParty, Level 15]: Flipper:
+[2021-04-08 16:21:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-08 16:22:00]: Fearless [DogParty, Level 15]: can u help
+[2021-04-08 16:22:03]: Hunter.exe [DogParty, Level 36]: s6_sven: welchen server
