@@ -6765,3 +6765,5 @@
 [2021-04-08 09:04:45]: ***  [, Level 0]: 'x7 sven' changed name to 's6_sven'
 [2021-04-08 09:04:45]:   [, Level 0]: CKA3A4NIK[NR]: Kiøn1029:  see XD
 [2021-04-08 09:04:45]: Flipper [, Level 14]: help me pls
+[2021-04-08 09:04:50]: Kiøn1029 [.bad, Level 31]: what
+[2021-04-08 09:04:56]: Kiøn1029 [.bad, Level 31]: dafuq
