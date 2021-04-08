@@ -11152,3 +11152,4 @@
 [2021-04-07 17:39:33]: ***  [, Level 0]: 'DiscordBridge' has been muted for 60 seconds
 [2021-04-07 17:39:34]: ***  [, Level 0]: You are not permitted to talk for the next 58 seconds.
 [2021-04-07 17:39:42]: ***  [, Level 0]: You are not permitted to talk for the next 50 seconds.
+[2021-04-07 17:40:17]: ***  [, Level 0]: You are not permitted to talk for the next 15 seconds.
