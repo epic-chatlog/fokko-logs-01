@@ -3628,3 +3628,8 @@
 [2021-04-08 05:31:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-08 05:32:05]: Boti. [.bad, Level 33]: arresteld
 [2021-04-08 05:32:09]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 05:32:12]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 05:32:14]: Kiøn1029 [.bad, Level 31]: freezben kell hogy legyen
+[2021-04-08 05:32:17]:   [, Level 0]: \(^-^)/: Boti.: i kill him with portal
+[2021-04-08 05:32:20]: Kiøn1029 [.bad, Level 31]: adjál lasert
+[2021-04-08 05:32:20]: Boti. [.bad, Level 33]: okay
