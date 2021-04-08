@@ -3449,3 +3449,6 @@
 [2021-04-08 05:18:19]: ***  [, Level 0]: 'Kezo' would have timed out, but can use timeout protection now
 [2021-04-08 05:18:19]: ***  [, Level 0]: 'Tziys*' would have timed out, but can use timeout protection now
 [2021-04-08 05:18:19]: ***  [, Level 0]: 'oyun krallı' finished the special race!
+[2021-04-08 05:18:20]: Boti. [.bad, Level 33]: i dont have one
+[2021-04-08 05:18:29]: Boti. [.bad, Level 33]: és elmegy
+[2021-04-08 05:18:32]: Kiøn1029 [.bad, Level 31]: XDD
