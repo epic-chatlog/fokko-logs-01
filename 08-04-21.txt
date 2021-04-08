@@ -6890,3 +6890,4 @@
 [2021-04-08 09:21:23]:   [, Level 0]: [D] BC|kakashi: ChillerDragon:
 [2021-04-08 09:21:24]: ChillerDragon.* [Chilli.*, Level 41]: [D] BC|kakashi: I am currently afk.
 [2021-04-08 09:21:39]: ***  [, Level 0]: [D] BC|Tixnix is on a killing spree with 5 blocks
+[2021-04-08 09:21:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
