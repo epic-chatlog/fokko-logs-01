@@ -5442,3 +5442,5 @@
 [2021-04-08 07:51:13]: ***  [, Level 0]: GOLD is on a killing spree with 15 blocks
 [2021-04-08 07:51:21]: ***  [, Level 0]: '(1)ᅟᅟᅟᅟᅟ' changed name to 'ᅟᅟᅟᅟ'
 [2021-04-08 07:51:29]: GOLD [404, Level 40]: Kaptar: touche pas a mon clan
+[2021-04-08 07:51:43]: Kaptar [, Level 0]: GOLD bah stv
+[2021-04-08 07:51:50]: ***  [, Level 0]: '♥JustRace♥' changed name to '(1)ᅟᅟᅟᅟᅟ'
