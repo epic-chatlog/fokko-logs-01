@@ -2064,3 +2064,5 @@
 [2021-04-08 03:38:47]: OP|Supers [DogParty, Level 39]: Nudelsaft c::  komm bank unter spawn
 [2021-04-08 03:38:47]: Swarfey [FookinLads, Level 60]: Supers: /pay Swarfey 20000
 [2021-04-08 03:38:56]: Swarfey [FookinLads, Level 60]: oder /pay 20000 Swarfey eher xd
+[2021-04-08 03:39:03]: OP|Supers [DogParty, Level 39]: yo warte
+[2021-04-08 03:39:10]: GOLD [404, Level 41]: Nudelsaft c:: join DogParty jz gerade
