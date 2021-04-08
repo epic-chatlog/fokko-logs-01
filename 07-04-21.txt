@@ -11589,3 +11589,4 @@
 [2021-04-07 23:37:23]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-07 23:37:34]: ***  [, Level 0]: '(1)Friendiship ;' entered and joined the game
 [2021-04-07 23:37:42]: ***  [, Level 0]: 'KnightYT' entered and joined the game
+[2021-04-07 23:37:51]: ***  [, Level 0]: 'KnightYT' has left the game
