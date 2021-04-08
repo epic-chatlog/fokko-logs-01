@@ -1306,3 +1306,4 @@
 [2021-04-08 02:07:09]: ***  [, Level 0]: 'x7|zemer' changed name to 'zemer'
 [2021-04-08 02:07:12]: ***  [, Level 0]: 'Virus' has left the game
 [2021-04-08 02:07:45]: ***  [, Level 0]: 'Isegrin' has left the game
+[2021-04-08 02:07:54]: MieSlime [FookinLads, Level 43]: ChillerDragon:  do u know who created ddnet ?
