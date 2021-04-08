@@ -11354,3 +11354,4 @@
 [2021-04-07 22:17:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-07 22:21:38]: ***  [, Level 0]: 'x7|KshKsh99' entered and joined the game
 [2021-04-07 22:22:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-07 22:23:21]: ***  [, Level 0]: 'PyMbIH' entered and joined the game
