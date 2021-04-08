@@ -5180,3 +5180,9 @@
 [2021-04-08 07:31:18]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 07:31:18]: ♥JustRace♥ [no-clan, Level 36]: endless
 [2021-04-08 07:31:20]: ***  [, Level 0]: 'Shy-ra.' entered and joined the game
+[2021-04-08 07:31:22]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 07:31:22]: ***  [, Level 0]: 'Shy-ra.' has left the game
+[2021-04-08 07:31:23]: ***  [, Level 0]: 'Tziys*' entered and joined the game
+[2021-04-08 07:31:24]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 07:31:31]: Kirito♥ [♥, Level 40]: Foxie♥: oh yeah im eating chocolate
+[2021-04-08 07:31:33]: prankstar [, Level 0]: [D] Deadmouse: ez
