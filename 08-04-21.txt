@@ -11768,3 +11768,6 @@
 [2021-04-08 13:52:26]: ERROR. [404, Level 56]: toxicdaddy:  wenn du ihn killst ja
 [2021-04-08 13:52:31]: toxicdaddy [, Level 27]: wem
 [2021-04-08 13:52:34]: ERROR. [404, Level 56]: ambah
+[2021-04-08 13:52:52]: Zephir™ [, Level 39]: Kaptar: c'est sur ce server que tu vas me combattre, onc habitue toi a ce server
+[2021-04-08 13:52:54]: Ambah [, Level 0]: Kirito♥: no rush?
+[2021-04-08 13:52:55]: toxicdaddy [, Level 27]: muss das sein
