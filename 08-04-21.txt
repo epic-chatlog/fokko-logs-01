@@ -1614,3 +1614,7 @@
 [2021-04-08 02:33:36]: [D] x7|cya [xSD7, Level 39]: AAAAAA
 [2021-04-08 02:33:42]: ERROR. [404, Level 56]: ich blocke sie weil sie mich geblockt haben du vogel
 [2021-04-08 02:33:56]: (1)ChillerDrago [Chilli.*, Level 32]: der blockt doch nicjh
+[2021-04-08 02:33:58]: GOLD [404, Level 41]: ERROR: jz gerade
+[2021-04-08 02:34:01]: ERROR. [404, Level 56]: jz gerade
+[2021-04-08 02:34:03]: (1)ChillerDrago [Chilli.*, Level 32]: xD
+[2021-04-08 02:34:11]: (1)ChillerDrago [Chilli.*, Level 32]: ~DemoizL~: stop block ERROR ok?
