@@ -11838,3 +11838,6 @@
 [2021-04-08 13:59:38]: toxicdadd [, Level 0]: [D] ♥TAKO♥: i have only hammer
 [2021-04-08 13:59:59]: Kaptar [, Level 0]: Zephir™: Totalement, c'est un perdant qu'on apprend
 [2021-04-08 14:00:19]: Zephir™ [, Level 39]: Kirito♥: ok
+[2021-04-08 14:00:48]: ***  [, Level 0]: 'lol' entered and joined the game
+[2021-04-08 14:00:54]: ***  [, Level 0]: '(1)lol' entered and joined the game
+[2021-04-08 14:00:54]: ***  [, Level 0]: 'aaaaaaaaa' entered and joined the game
