@@ -1501,3 +1501,6 @@
 [2021-04-08 02:23:51]: ERROR. [404, Level 56]: weil ern dog ist
 [2021-04-08 02:24:01]: x7|KshKsh99 [xSD7, Level 37]: Anatomy: stop
 [2021-04-08 02:24:01]: ERROR. [404, Level 56]: nein deiner
+[2021-04-08 02:24:20]: BC|kakashi [BC, Level 0]: power: inf jump?
+[2021-04-08 02:24:23]: ERROR. [404, Level 56]: ich passe
+[2021-04-08 02:24:24]: power2 [TrRShClNrRs, Level 0]: ye
