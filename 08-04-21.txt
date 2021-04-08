@@ -6821,3 +6821,6 @@
 [2021-04-08 09:12:52]: ***  [, Level 0]: 'FCRedux_YT' has left the game
 [2021-04-08 09:13:01]: any [404, Level 37]: BC|Tixnix: vvv
 [2021-04-08 09:13:27]: ***  [, Level 0]: \\Syth is on a killing spree with 5 blocks
+[2021-04-08 09:13:40]: comic [comically, Level 13]: WarHammer: ok give me ur dummy then
+[2021-04-08 09:13:45]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-08 09:13:48]:   [, Level 0]: falkenauge: someone can help me in endless?
