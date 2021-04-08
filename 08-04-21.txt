@@ -814,3 +814,5 @@
 [2021-04-08 01:28:35]: OP|Supers [DogParty, Level 39]: YelloWorlD:  thx
 [2021-04-08 01:28:39]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-08 01:28:41]: ERROR. [404, Level 56]: vodo rq?
+[2021-04-08 01:28:42]: OP|Supers [DogParty, Level 39]: mamikral011:  thx :D
+[2021-04-08 01:28:51]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
