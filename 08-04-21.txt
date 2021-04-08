@@ -4584,3 +4584,5 @@
 [2021-04-08 06:54:23]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-08 06:54:23]: Foxie♥ [♥, Level 0]: YelloWorlD: come
 [2021-04-08 06:54:26]: ***  [, Level 0]: 'jcanela2022' entered and joined the game
+[2021-04-08 06:54:29]: ***  [, Level 0]: 'Hunter.exe' entered and joined the game
+[2021-04-08 06:54:39]: WarHammer [, Level 0]: hi toxic dadi
