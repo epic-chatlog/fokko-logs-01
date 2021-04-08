@@ -8579,3 +8579,8 @@
 [2021-04-08 10:42:07]:   [, Level 0]: bob: greeeeen
 [2021-04-08 10:42:10]: any [404, Level 37]: Zephir™: viens police x)
 [2021-04-08 10:42:12]:   [, Level 0]: bob: dreh mir lunte
+[2021-04-08 10:42:19]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-08 10:42:23]:   [, Level 0]: cookie: why i need follow you
+[2021-04-08 10:42:23]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-08 10:42:26]: ***  [, Level 0]: 'sun.slow(y)' has left the game
+[2021-04-08 10:42:29]: woona [, Level 48]: iMxtteo: ?
