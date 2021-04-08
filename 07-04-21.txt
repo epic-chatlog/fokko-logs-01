@@ -11164,3 +11164,4 @@
 [2021-04-07 17:52:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-07 17:52:10]: ***  [, Level 0]: 'Blacktoastx' joined the game
 [2021-04-07 17:52:39]: Blacktoastx [, Level 0]: what the fuck
+[2021-04-07 17:52:45]: ***  [, Level 0]: 'Blacktoastx' has left the game
