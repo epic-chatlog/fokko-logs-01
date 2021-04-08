@@ -10325,3 +10325,7 @@
 [2021-04-08 12:06:51]: Syth [, Level 30]: get
 [2021-04-08 12:06:51]: Nonoh [citrom, Level 40]: [D] tschu:
 [2021-04-08 12:06:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-08 12:07:11]: Falco642 [, Level 0]: xd
+[2021-04-08 12:07:12]: ***  [, Level 0]: Falco642 is on a killing spree with 5 blocks
+[2021-04-08 12:07:16]: mamikral011 [DogParty, Level 26]: şfgkg
+[2021-04-08 12:07:17]:   [, Level 0]: f"{self.name}": lets race
