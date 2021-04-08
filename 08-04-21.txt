@@ -3871,3 +3871,6 @@
 [2021-04-08 05:52:42]: x7|Flipper [xSD7, Level 14]: jetpack
 [2021-04-08 05:52:53]: ***  [, Level 0]: 'x7|Flipper' changed name to 'ĦỮǤØ'
 [2021-04-08 05:52:54]: S Y T H N [DogParty, Level 37]: x7|sven: come
+[2021-04-08 05:53:08]: ***  [, Level 0]: 'moonman' has left the game
+[2021-04-08 05:53:09]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-08 05:53:11]: ***  [, Level 0]: 'moonman' entered and joined the game
