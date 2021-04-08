@@ -737,3 +737,5 @@
 [2021-04-08 01:22:03]: ***  [, Level 0]: 'zemer' entered and joined the game
 [2021-04-08 01:22:04]: ***  [, Level 0]: 'zemer' has left the game
 [2021-04-08 01:22:07]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-08 01:22:25]: x7|KshKsh99 [xSD7, Level 37]: so much lag !
+[2021-04-08 01:22:30]: Vodo4ka [JB.st, Level 41]: [D] x7|cya:  Maatiteusz  ist gut
