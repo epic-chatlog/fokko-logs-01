@@ -11140,3 +11140,5 @@
 [2021-04-08 13:01:19]: ***  [, Level 0]: 'jozio' has left the game (Timeout)
 [2021-04-08 13:01:25]: ***  [, Level 0]: '(1)[D] catwhis' changed name to '[D] 123'
 [2021-04-08 13:01:25]: ***  [, Level 0]: '(1)catwhis' changed name to '123'
+[2021-04-08 13:01:56]: you [, Level 0]: Kenshi™: joke
+[2021-04-08 13:01:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
