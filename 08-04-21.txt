@@ -3941,3 +3941,9 @@
 [2021-04-08 05:59:27]: S Y T H N [DogParty, Level 37]: how are you lvl 30 aand i dont know you
 [2021-04-08 05:59:30]: kiøn1029 [.bad, Level 0]: WHY
 [2021-04-08 05:59:31]: ***  [, Level 0]: 'moonman' entered and joined the game
+[2021-04-08 05:59:33]: f"{self.name}" [, Level 18]: COMPLETELY
+[2021-04-08 05:59:34]: ***  [, Level 0]: 'ĦỮǤØ' changed name to 'x7|Flipper'
+[2021-04-08 05:59:34]: kiøn1029 [.bad, Level 0]: YOU NEEDED TO DO THIS
+[2021-04-08 05:59:35]: f"{self.name}" [, Level 18]: :
+[2021-04-08 05:59:36]: f"{self.name}" [, Level 18]: d
+[2021-04-08 05:59:44]: ***  [, Level 0]: 'moonman' has left the game
