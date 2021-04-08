@@ -2182,3 +2182,4 @@
 [2021-04-08 03:54:34]: Kong [[_Any %_], Level 0]: sorry
 [2021-04-08 03:55:06]: Axandos [, Level 0]: bob:  links
 [2021-04-08 03:55:32]: ***  [, Level 0]: 'gian x' has left the game (Timeout)
+[2021-04-08 03:55:35]: ***  [, Level 0]: 'gian x' entered and joined the game
