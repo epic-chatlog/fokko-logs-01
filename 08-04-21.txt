@@ -11222,3 +11222,7 @@
 [2021-04-08 13:09:22]: ***  [, Level 0]: 'Kaptar' entered and joined the game
 [2021-04-08 13:09:34]: ***  [, Level 0]: 'weqe' has left the game
 [2021-04-08 13:09:44]: ***  [, Level 0]: 'toxicdadd' entered and joined the game
+[2021-04-08 13:09:53]: mamikral011 [DogParty, Level 26]: Kezo: bida gelirse kovala sopayla
+[2021-04-08 13:09:55]: ***  [, Level 0]: '(2)cookie' has left the game
+[2021-04-08 13:10:03]: Tziys* [DogPartya, Level 39]: cookie: help
+[2021-04-08 13:10:03]: mamikral011 [DogParty, Level 26]: Tziys*: hı amına
