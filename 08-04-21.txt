@@ -3972,3 +3972,7 @@
 [2021-04-08 06:00:41]: ***  [, Level 0]: 'el champeon' entered and joined the game
 [2021-04-08 06:00:44]: ᅟᅟᅟ [, Level 48]: omg nubs
 [2021-04-08 06:00:46]: ***  [, Level 0]: 'Soros' entered and joined the game
+[2021-04-08 06:00:52]: Supers [ᅟᅟᅟ, Level 8]: [D] \\Syth:  me and S Y T H N  are  frineds
+[2021-04-08 06:00:53]: \\Syth [[!FAKE!], Level 30]: bob:
+[2021-04-08 06:00:55]: Supers [ᅟᅟᅟ, Level 8]: [D] \\Syth:  war4life
+[2021-04-08 06:01:00]:   [, Level 0]: kiøn1029: f"{self.name}": MEGVERLEK
