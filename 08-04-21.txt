@@ -10578,3 +10578,7 @@
 [2021-04-08 12:20:13]: Nonoh [citrom, Level 40]: Axel: wtf?
 [2021-04-08 12:20:16]: ***  [, Level 0]: 'Kezo' entered and joined the game
 [2021-04-08 12:20:18]: ***  [, Level 0]: '!' entered and joined the game
+[2021-04-08 12:20:23]: ***  [, Level 0]: '!' has left the game
+[2021-04-08 12:20:24]: ***  [, Level 0]: 'Tziys*' entered and joined the game
+[2021-04-08 12:20:27]: Syth [, Level 30]: iMxtteo: i want go farm up?
+[2021-04-08 12:20:33]: [D] BC|Tixnix [BC, Level 0]: any²: ?
