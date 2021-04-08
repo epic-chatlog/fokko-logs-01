@@ -2081,3 +2081,5 @@
 [2021-04-08 03:41:08]: ***  [, Level 0]: 'Swarfey' joined the spectators
 [2021-04-08 03:41:11]: ***  [, Level 0]: 'Swarfey' joined the game
 [2021-04-08 03:41:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-08 03:42:03]: (1)restart [, Level 6]: (1)ERROR:  HELP
+[2021-04-08 03:42:09]: ***  [, Level 0]: 'x7|cya' entered and joined the game
