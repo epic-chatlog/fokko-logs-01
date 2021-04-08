@@ -9610,3 +9610,8 @@
 [2021-04-08 11:33:33]: Maatiteusz [TrRShClNrRs, Level 35]: Syth: Nie
 [2021-04-08 11:33:34]: Maatiteusz [TrRShClNrRs, Level 35]: Syth: nie
 [2021-04-08 11:33:36]: Maatiteusz [TrRShClNrRs, Level 35]: Syth: to nie bylem ja
+[2021-04-08 11:33:41]: ***  [, Level 0]: '♥TAKO♥' has left the game
+[2021-04-08 11:33:44]: Maatiteusz [TrRShClNrRs, Level 35]: Syth: ja mialem dobre intencje na poczatku
+[2021-04-08 11:33:45]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-08 11:33:48]: Maatiteusz [TrRShClNrRs, Level 35]: Syth: ale pozniej
+[2021-04-08 11:33:51]: Maatiteusz [TrRShClNrRs, Level 35]: Syth: troche sie zmienily
