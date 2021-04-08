@@ -3720,3 +3720,5 @@
 [2021-04-08 05:37:59]: Boti. [.bad, Level 33]: csak jelezzen be valakire
 [2021-04-08 05:38:04]: ***  [, Level 0]: 'kiøn1029' has left the game
 [2021-04-08 05:38:08]: Kiøn1029 [.bad, Level 31]: hoztam tasert
+[2021-04-08 05:38:21]: Boti. [.bad, Level 33]: csak várok
+[2021-04-08 05:38:24]: Boti. [.bad, Level 33]: dummym titokban hátul
