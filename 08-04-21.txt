@@ -10027,3 +10027,6 @@
 [2021-04-08 11:50:58]: ***  [, Level 0]: 'RoberGN' has left the game
 [2021-04-08 11:51:01]: Hunter.exe [DogParty, Level 36]: Syth: joke ;D
 [2021-04-08 11:51:05]:   [, Level 0]: YelloWorlD: [D] mamikral011: make me
+[2021-04-08 11:51:10]: [D] \\Syth [, Level 25]: Hunter.exe: haha
+[2021-04-08 11:51:15]: ***  [, Level 0]: '4jaja4.*' has left the game
+[2021-04-08 11:51:18]: ***  [, Level 0]: '4jaja4.*' entered and joined the game
