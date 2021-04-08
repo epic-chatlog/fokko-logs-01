@@ -11162,3 +11162,4 @@
 [2021-04-07 17:51:28]: ***  [, Level 0]: 'Blacktoastx' entered and joined the game
 [2021-04-07 17:51:59]: ***  [, Level 0]: 'Blacktoastx' joined the spectators
 [2021-04-07 17:52:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-07 17:52:10]: ***  [, Level 0]: 'Blacktoastx' joined the game
