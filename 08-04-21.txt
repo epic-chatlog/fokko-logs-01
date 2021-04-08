@@ -9364,3 +9364,7 @@
 [2021-04-08 11:23:57]: ***  [, Level 0]: 'ŞØŇƗΔŇ' entered and joined the game
 [2021-04-08 11:23:57]: \\Syth [, Level 30]: jesteś pierdolnięty
 [2021-04-08 11:24:04]:   [, Level 0]: Maatiteusz: \\Syth: prawdomowny ty jestes za to
+[2021-04-08 11:24:09]: ***  [, Level 0]: 'toxicdadd' has left the game
+[2021-04-08 11:24:10]:   [, Level 0]: Maatiteusz: \\Syth: szczery chlopak
+[2021-04-08 11:24:11]: Nonoh [citrom, Level 40]: tschu: come
+[2021-04-08 11:24:11]:   [, Level 0]: Maatiteusz: XD
