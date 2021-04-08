@@ -927,3 +927,5 @@
 [2021-04-08 01:36:26]: ***  [, Level 0]: 'mamikral011' entered and joined the game
 [2021-04-08 01:36:35]: mamikral011 [DogParty, Level 0]: YelloWorlD: sorry my pc nice
 [2021-04-08 01:36:39]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-08 01:36:55]: mamikral011 [DogParty, Level 0]: Supers: portal ?
+[2021-04-08 01:36:59]: [2] VeemID [DogParty, Level 0]: YelloWorlD: mon pc est claqué ca bug trop
