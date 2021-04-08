@@ -2173,3 +2173,5 @@
 [2021-04-08 03:53:02]: ***  [hýÿÿ, Level 0]: 'CKA3A4NIK[NR]' has been muted for 60 seconds
 [2021-04-08 03:53:07]: (1)ãƒ“ãƒ¼ãƒ«|Ze [Drunks, Level 12]: jm dead
 [2021-04-08 03:53:08]: [D] Swipez [, Level 25]: mute
+[2021-04-08 03:53:36]: ***  [hýÿÿ, Level 0]: Supers finished in: 5 minute(s)  6.26 second(s)
+[2021-04-08 03:53:36]: ***  [hýÿÿ, Level 0]: 'Supers' finished the special race!
