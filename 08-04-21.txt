@@ -9615,3 +9615,8 @@
 [2021-04-08 11:33:45]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-08 11:33:48]: Maatiteusz [TrRShClNrRs, Level 35]: Syth: ale pozniej
 [2021-04-08 11:33:51]: Maatiteusz [TrRShClNrRs, Level 35]: Syth: troche sie zmienily
+[2021-04-08 11:33:54]:   [, Level 0]: Falco641: Flipper: bruh
+[2021-04-08 11:33:56]: Maatiteusz [TrRShClNrRs, Level 35]: Syth: po zamachu na moje zycie
+[2021-04-08 11:33:57]: 4jaja4 [Chilli.*, Level 23]: Hunter.exe: its your dummy?
+[2021-04-08 11:33:59]: ***  [, Level 0]: 'Kribzik' entered and joined the game
+[2021-04-08 11:34:04]: Maatiteusz [TrRShClNrRs, Level 35]: Syth: ale mysle ze moge ci wybaczyc
