@@ -1866,3 +1866,6 @@
 [2021-04-08 03:11:53]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
 [2021-04-08 03:11:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-08 03:12:04]:   [, Level 0]: Rem's dummy: what is ur problem
+[2021-04-08 03:12:22]: ***  [, Level 0]: 'Rem's dummy' has left the game
+[2021-04-08 03:12:22]: ***  [, Level 0]: 'Rem's bae' has left the game
+[2021-04-08 03:12:23]: ***  [, Level 0]: 'tee' has left the game
