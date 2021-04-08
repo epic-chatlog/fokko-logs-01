@@ -1624,3 +1624,6 @@
 [2021-04-08 02:34:27]: ***  [, Level 0]: 'Kong' has left the game
 [2021-04-08 02:34:28]: ERROR. [404, Level 56]: (1)ChillerDrago:  ist mir egal, er hats getan also bekommt er was er verdient xDDDD
 [2021-04-08 02:34:35]: (1)ChillerDrago [Chilli.*, Level 32]: ~DemoizL~: ERROR still mad :/
+[2021-04-08 02:34:41]: ***  [, Level 0]: 'x7|cya' finished the special race!
+[2021-04-08 02:35:01]: (1)ChillerDrago [Chilli.*, Level 32]: im slave
+[2021-04-08 02:35:02]: (1)ChillerDrago [Chilli.*, Level 32]: omg
