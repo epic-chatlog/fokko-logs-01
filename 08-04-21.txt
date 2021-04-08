@@ -1773,3 +1773,10 @@
 [2021-04-08 02:56:59]: rayen [, Level 0]: BC|Tixnix:  help pls
 [2021-04-08 02:56:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-08 02:57:38]: ERROR. [404, Level 56]: xD
+[2021-04-08 02:57:47]: GOLD [404, Level 41]: ERROR: why u broke the stack
+[2021-04-08 02:57:48]: ERROR. [404, Level 56]: ops xDDDD
+[2021-04-08 02:57:49]: ***  [, Level 0]: Shroom finished in: 2 minute(s)  2.36 second(s)
+[2021-04-08 02:57:54]: ***  [, Level 0]: Котяра finished in: 2 minute(s) 31.98 second(s)
+[2021-04-08 02:57:55]: ***  [, Level 0]: ビール|Zero finished in: 1 minute(s) 26.58 second(s)
+[2021-04-08 02:57:55]: ***  [, Level 0]: New record: 44.78 second(s) better.
+[2021-04-08 02:57:59]: ***  [, Level 0]: 'Deadmouse' entered and joined the game
