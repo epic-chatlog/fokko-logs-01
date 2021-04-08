@@ -11709,3 +11709,7 @@
 [2021-04-08 13:43:20]: ***  [, Level 0]: 'Zyver' entered and joined the game
 [2021-04-08 13:43:25]: ***  [, Level 0]: Kaptar is on a killing spree with 5 blocks
 [2021-04-08 13:43:30]: ERROR [404, Level 74]: doesnt work
+[2021-04-08 13:43:39]: Cassie [, Level 0]: what do u want me to do
+[2021-04-08 13:43:42]: Cassie [, Level 0]: xddd
+[2021-04-08 13:43:44]: ERROR [404, Level 74]: nothing wtf xDDD
+[2021-04-08 13:43:51]: ***  [, Level 0]: 'Zyver' has left the game
