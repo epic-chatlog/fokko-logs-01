@@ -11413,3 +11413,6 @@
 [2021-04-08 13:22:09]: Cassie [, Level 0]: weirdo
 [2021-04-08 13:22:13]: ERROR [404, Level 74]: ChillerDragon: ?
 [2021-04-08 13:22:13]: ChillerDragon [Chilli.*, Level 45]: ERROR: I am currently afk.
+[2021-04-08 13:22:19]: Kezo [DogParty, Level 41]: HardreenClutch: love youu
+[2021-04-08 13:22:25]: ***  [, Level 0]: 'Pix0n' entered and joined the game
+[2021-04-08 13:22:25]: mamikral011 [DogParty, Level 26]: GReeeN:
