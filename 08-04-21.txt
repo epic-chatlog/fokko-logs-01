@@ -8572,3 +8572,7 @@
 [2021-04-08 10:41:42]: ***  [, Level 0]: 'Marcisten' has left the game (Timeout)
 [2021-04-08 10:41:49]:   [, Level 0]: GReeeN: iMxtteo: ?
 [2021-04-08 10:41:52]:   [, Level 0]: Meetiteusz: Nonoh: gay
+[2021-04-08 10:41:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-08 10:41:59]: Nonoh [citrom, Level 40]: Meetiteusz: xd
+[2021-04-08 10:42:02]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-08 10:42:05]: iMxtteo [, Level 26]: GReeeN: das du wegen mir stress mit kezo hattest oder hast
