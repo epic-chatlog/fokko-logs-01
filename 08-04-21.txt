@@ -885,3 +885,6 @@
 [2021-04-08 01:32:50]: [D] mamikral011 [DogParty, Level 0]: YelloWorlD: proooo
 [2021-04-08 01:32:54]: YelloWorlD [DogParty, Level 37]: ERROR: xDDD
 [2021-04-08 01:32:58]: ERROR. [404, Level 56]: xD
+[2021-04-08 01:33:04]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 27.38 second(s)
+[2021-04-08 01:33:09]: OP|Supers [DogParty, Level 39]: YelloWorlD:  VeemID  killed me and joined
+[2021-04-08 01:33:10]: ***  [, Level 0]: 'zemer' entered and joined the game
