@@ -6566,3 +6566,8 @@
 [2021-04-08 08:53:08]: ***  [, Level 0]: '[D] BC|kakashi' has left the game
 [2021-04-08 08:53:09]: ***  [, Level 0]: 'nameless tee' has left the game (Timeout Protection over)
 [2021-04-08 08:53:10]: УБИВАТЬ! [, Level 0]: x7 sven: _
+[2021-04-08 08:53:18]: iMxtteo [, Level 26]: weqe: peace?
+[2021-04-08 08:53:24]: ***  [, Level 0]: 'Deadmouse' would have timed out, but can use timeout protection now
+[2021-04-08 08:53:24]: ***  [, Level 0]: '[D] Deadmouse' would have timed out, but can use timeout protection now
+[2021-04-08 08:53:28]: УБИВАТЬ! [, Level 0]: Flipper: why?
+[2021-04-08 08:53:30]: BC|Tixnix [BC, Level 34]: any: NO GO TO SUPER ROMM AND I KILING
