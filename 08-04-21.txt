@@ -10420,3 +10420,4 @@
 [2021-04-08 12:12:03]: Nonoh [citrom, Level 40]: Marcisten: ment a help xd
 [2021-04-08 12:12:04]: mamikral011 [DogParty, Level 26]: ♥TAKO♥: he yta
 [2021-04-08 12:12:05]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
+[2021-04-08 12:12:16]: mamikral011 [DogParty, Level 26]: ♥TAKO♥: oyun çöktü amk
