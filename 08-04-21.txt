@@ -382,3 +382,6 @@
 [2021-04-08 00:50:30]: ***  [, Level 0]: 'ßumßelTEE' entered and joined the game
 [2021-04-08 00:50:33]: OP|Supers [DogParty, Level 39]: :O
 [2021-04-08 00:50:44]: ***  [, Level 0]: 'Swarfey' joined the spectators
+[2021-04-08 00:50:47]: ***  [, Level 0]: 'Swarfey' joined the game
+[2021-04-08 00:50:56]: ***  [, Level 0]: Supers finished in: 8 minute(s) 18.36 second(s)
+[2021-04-08 00:50:56]: ***  [, Level 0]: 'Supers' finished the special race!
