@@ -11870,3 +11870,7 @@
 [2021-04-08 14:05:20]: nameless tee [, Level 0]: gg
 [2021-04-08 14:05:31]: ERROR. [404, Level 56]: full plot Zephir™
 [2021-04-08 14:05:38]: Zephir™ [, Level 39]: ERROR: ?
+[2021-04-08 14:05:44]: ***  [, Level 0]: 'aaaaaaaaa' has left the game (Timeout)
+[2021-04-08 14:05:44]: ***  [, Level 0]: 'Syth' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 14:05:44]: ***  [, Level 0]: '4' has left the game (Timeout)
+[2021-04-08 14:05:49]: Zephir™ [, Level 39]: ERROR: gg xD
