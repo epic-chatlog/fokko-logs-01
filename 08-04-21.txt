@@ -6596,3 +6596,7 @@
 [2021-04-08 08:54:44]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
 [2021-04-08 08:54:47]: ChillerDragon.* [|*KoG*|, Level 41]: Hunter.exe: weqe helps me not like u traitor
 [2021-04-08 08:54:56]: Hunter.exe [DogParty, Level 36]: ChillerDragon: wow
+[2021-04-08 08:55:05]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 08:55:07]: ChillerDragon.* [Chilli.*, Level 41]: remeber u not helping me Hunter.exe ?
+[2021-04-08 08:55:08]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 08:55:11]: ChillerDragon.* [Chilli.*, Level 41]: like always Hunter.exe
