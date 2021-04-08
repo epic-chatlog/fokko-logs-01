@@ -12548,3 +12548,5 @@
 [2021-04-08 15:45:17]: ***  [, Level 0]: 'Kubson' has left the game
 [2021-04-08 15:45:18]: ***  [, Level 0]: 'Kubson' entered and joined the game
 [2021-04-08 15:45:25]: Fearless [DogParty, Level 40]: buying portal for 600k
+[2021-04-08 15:45:31]: ***  [, Level 0]: 'Kubson' has left the game
+[2021-04-08 15:45:31]: ***  [, Level 0]: 'Kubson' entered and joined the game
