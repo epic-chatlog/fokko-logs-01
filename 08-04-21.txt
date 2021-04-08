@@ -4190,3 +4190,9 @@
 [2021-04-08 06:21:49]:   [, Level 0]: Foxie♥: YelloWorlD: what is that clan?
 [2021-04-08 06:21:51]:   [, Level 0]: YelloWorlD: el champeon: u block me
 [2021-04-08 06:21:54]: [2] VeemID [DogParty, Level 26]: (1)Warrior: help
+[2021-04-08 06:21:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-08 06:22:02]: ***  [, Level 0]: 'Cosmo' has left the game
+[2021-04-08 06:22:02]: ***  [, Level 0]: '(1)Cosmo' has left the game
+[2021-04-08 06:22:04]: (1)Warrior [, Level 0]: VeemID: u said u help bo
+[2021-04-08 06:22:05]: (1)Warrior [, Level 0]: bob
+[2021-04-08 06:22:10]: [2] VeemID [DogParty, Level 26]: (1)Warrior: bob kill me
