@@ -2227,3 +2227,6 @@
 [2021-04-08 03:59:32]: CKA3A4NIK[NR] [Night Raid, Level 35]: Clown with full
 [2021-04-08 03:59:32]: ***  [, Level 0]: 'ビール|Zero' entered and joined the game
 [2021-04-08 03:59:33]: ERROR [404, Level 74]: nice
+[2021-04-08 03:59:34]: ERROR [404, Level 74]: bb
+[2021-04-08 03:59:39]: CKA3A4NIK[NR] [Night Raid, Level 35]: Clown with full
+[2021-04-08 03:59:42]: HeavyGeneral [FookinLads, Level 44]: ye
