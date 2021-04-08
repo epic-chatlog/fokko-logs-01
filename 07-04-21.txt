@@ -11280,3 +11280,4 @@
 [2021-04-07 21:47:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 21:47:10]: [D] Boti. [.bad, Level 33]: never gonna give you up. never gonna let you down **https://youtu.be/dQw4w9WgXcQ**
 [2021-04-07 21:47:11]: Boti. [.bad, Level 27]: never gonna give you up. never gonna let you down **https://youtu.be/dQw4w9WgXcQ**
+[2021-04-07 21:47:29]: ***  [, Level 0]: 'Rem's bae' entered and joined the game
