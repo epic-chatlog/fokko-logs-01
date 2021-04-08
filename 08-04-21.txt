@@ -2791,3 +2791,7 @@
 [2021-04-08 04:31:42]: HeavyGeneral [FookinLads, Level 44]: Warrior: i cant play now im on 300 ping
 [2021-04-08 04:31:47]: HeavyGeneral [FookinLads, Level 44]: Warrior: n they still loose being full 3 endless
 [2021-04-08 04:31:48]: Warrior [, Level 0]: HeavyGeneral: okay
+[2021-04-08 04:31:59]: ***  [hýÿÿ, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-08 04:32:01]: (1)x7|cya [xSD7, Level 0]: i dont need to farm
+[2021-04-08 04:32:07]: any [404, Level 42]: (1)ChillerDrago:
+[2021-04-08 04:32:08]: (1)ChillerDrago [Chilli.*, Level 32]: any: I am currently afk.
