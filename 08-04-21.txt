@@ -1861,3 +1861,6 @@
 [2021-04-08 03:11:21]: ***  [, Level 0]: '[D] Deadmouse' has left the game
 [2021-04-08 03:11:21]: ***  [, Level 0]: 'Deadmouse' has left the game
 [2021-04-08 03:11:29]: Lucas [THECEPS, Level 34]: BC|Tixnix: rly
+[2021-04-08 03:11:48]: Lucas [THECEPS, Level 34]: BC|Tixnix: why 1v1 war -_-
+[2021-04-08 03:11:48]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 5 blocks
+[2021-04-08 03:11:53]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
