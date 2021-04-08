@@ -1807,3 +1807,4 @@
 [2021-04-08 03:02:05]: Shroom [, Level 0]: 7SPEC
 [2021-04-08 03:02:13]: ***  [, Level 0]: 'S Y T H N' changed name to '(1)tee'
 [2021-04-08 03:02:14]: restart [, Level 12]: NO
+[2021-04-08 03:02:36]: \\Syth [[!FAKE!], Level 30]: toxicdadd: u transport me to secret room?
