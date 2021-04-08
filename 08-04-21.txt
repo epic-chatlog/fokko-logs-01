@@ -2058,3 +2058,5 @@
 [2021-04-08 03:38:07]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-08 03:38:10]: GOLD [404, Level 41]: ERROR: jz gArade
 [2021-04-08 03:38:21]: Swipez [[!FAKE!], Level 30]: rayen: my money
+[2021-04-08 03:38:27]: Swarfey [FookinLads, Level 60]: Supers: ok xd
+[2021-04-08 03:38:30]: OP|Supers [DogParty, Level 39]: Swarfey:  ok komm
