@@ -3875,3 +3875,5 @@
 [2021-04-08 05:53:09]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-08 05:53:11]: ***  [, Level 0]: 'moonman' entered and joined the game
 [2021-04-08 05:53:48]: (1) [Ape, Level 0]: oyon
+[2021-04-08 05:53:59]: kiøn1029 [.bad, Level 0]: f"{self.name}": don't try it
+[2021-04-08 05:54:00]: f"{self.name}" [, Level 18]: kiøn1029: :D
