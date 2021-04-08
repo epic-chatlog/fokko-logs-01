@@ -610,3 +610,5 @@
 [2021-04-08 01:13:28]: mamikral011 [DogParty, Level 26]: (1)ERROR: hi
 [2021-04-08 01:13:30]: YelloWorlD [DogParty, Level 37]: (1)ERROR: what team me
 [2021-04-08 01:13:37]: (1)Friendiship  [, Level 0]: YelloWorlD: help stp
+[2021-04-08 01:13:38]: YelloWorlD [DogParty, Level 37]: (1)ERROR: u not already xD
+[2021-04-08 01:13:50]: (1)ERROR [404, Level 47]: xD
