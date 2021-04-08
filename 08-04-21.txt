@@ -1643,3 +1643,6 @@
 [2021-04-08 02:36:52]: ***  [, Level 0]: 'Getpon' entered and joined the game
 [2021-04-08 02:36:58]: ***  [, Level 0]: ERROR. is on a killing spree with 5 blocks
 [2021-04-08 02:36:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-08 02:37:58]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
+[2021-04-08 02:38:01]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-08 02:38:03]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
