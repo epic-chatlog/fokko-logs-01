@@ -296,3 +296,4 @@
 [2021-04-08 00:32:45]: BC|Tixnix [BC, Level 34]: ok
 [2021-04-08 00:33:16]: ***  [, Level 0]: 'resart' finished the special race!
 [2021-04-08 00:33:23]: ***  [, Level 0]: 'restart' finished the special race!
+[2021-04-08 00:33:40]: BC|Tixnix [BC, Level 34]: er ist afk
