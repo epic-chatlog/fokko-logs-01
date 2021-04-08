@@ -397,3 +397,4 @@
 [2021-04-08 00:52:18]: ***  [, Level 0]: 'lol' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-08 00:52:18]: ***  [, Level 0]: '(1)lol' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-08 00:52:36]: Shiro. [Whɪтє, Level 42]: comic: war
+[2021-04-08 00:52:41]: comic [comically, Level 13]: Shiro.: bruh what
