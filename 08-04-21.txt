@@ -10926,3 +10926,5 @@
 [2021-04-08 12:42:29]: Tziys* [DogPartya, Level 39]: YelloWorlD: ok say him stop helped GReeeN
 [2021-04-08 12:42:32]:   [, Level 0]: mamikral011: YelloWorlD: wait
 [2021-04-08 12:42:33]: ERROR [404, Level 74]: any:  hi
+[2021-04-08 12:42:43]: YelloWorlD [DogParty, Level 41]: any: arrete d'aider green
+[2021-04-08 12:42:46]:   [, Level 0]: any²: ERROR: :oo farmrr
