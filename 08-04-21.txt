@@ -806,3 +806,6 @@
 [2021-04-08 01:27:47]: ***  [, Level 0]: x7|cya's killing spree was ended by ERROR. (12 blocks)
 [2021-04-08 01:27:58]: Supers [ᅟᅟᅟ, Level 0]: GODLIKe:  i let you and you kill me
 [2021-04-08 01:28:08]: Supers [ᅟᅟᅟ, Level 0]: YelloWorlD:  <<<<
+[2021-04-08 01:28:21]: Supers [ᅟᅟᅟ, Level 0]: GODLIKe:  i tought we have peace
+[2021-04-08 01:28:25]: GODLIKe. [u, Level 39]: Supers: no
+[2021-04-08 01:28:26]: Supers [ᅟᅟᅟ, Level 0]: GODLIKe:  i let you and you let me
