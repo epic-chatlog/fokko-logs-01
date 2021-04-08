@@ -3869,3 +3869,5 @@
 [2021-04-08 05:52:32]: [2] VeemID [DogParty, Level 26]: (1)kais: aide moi stp
 [2021-04-08 05:52:39]: VeemID [DogParty, Level 0]: (1)kais: ah
 [2021-04-08 05:52:42]: x7|Flipper [xSD7, Level 14]: jetpack
+[2021-04-08 05:52:53]: ***  [, Level 0]: 'x7|Flipper' changed name to 'ĦỮǤØ'
+[2021-04-08 05:52:54]: S Y T H N [DogParty, Level 37]: x7|sven: come
