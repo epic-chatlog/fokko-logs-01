@@ -11649,3 +11649,7 @@
 [2021-04-07 23:51:14]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
 [2021-04-07 23:51:21]: Cylox [♥, Level 30]: WarHammer: AS SANADA
 [2021-04-07 23:51:22]: WarHammer [, Level 0]: ERROR:  bi el atsan diyorum
+[2021-04-07 23:51:29]: Cylox [♥, Level 30]: ERROR: YARAMI YE
+[2021-04-07 23:51:33]: power [TrRShClNrRs, Level 14]: ERROR: dont, dont do it
+[2021-04-07 23:51:34]: power [TrRShClNrRs, Level 14]: xD
+[2021-04-07 23:51:35]: Foxie♥ [♥, Level 36]: WHY LAG
