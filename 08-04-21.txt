@@ -4412,3 +4412,4 @@
 [2021-04-08 06:41:59]: ***  [, Level 0]: GOLD is on a killing spree with 5 blocks
 [2021-04-08 06:41:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-08 06:42:00]: weqe [MNKY, Level 12]: Warrior: i would commit suicide if i was as bad as u
+[2021-04-08 06:42:04]: GOLD [404, Level 40]: (1)DiscordBridg: u mad
