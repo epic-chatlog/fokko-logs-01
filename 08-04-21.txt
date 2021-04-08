@@ -5657,3 +5657,5 @@
 [2021-04-08 08:08:31]: ***  [, Level 0]: 'Asta' has left the game
 [2021-04-08 08:08:38]: Tziys* [DogParty, Level 39]: Flipper: i deposit it :d
 [2021-04-08 08:08:38]: ***  [, Level 0]: 'Flipper' changed name to 'ᅟᅟᅟ'
+[2021-04-08 08:08:48]: ᅟᅟᅟ [, Level 14]: my name isnt invis for me
+[2021-04-08 08:08:49]: ᅟᅟᅟ [, Level 14]: XD
