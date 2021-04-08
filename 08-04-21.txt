@@ -11053,3 +11053,9 @@
 [2021-04-08 12:50:33]: ***  [, Level 0]: 'iMxtteo D' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-08 12:50:38]: mamikral011 [DogParty, Level 26]: YelloWorlD:
 [2021-04-08 12:50:45]: ***  [, Level 0]: '(1)iMxtteo' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-08 12:50:47]: mamikral011 [DogParty, Level 26]: GOLD:
+[2021-04-08 12:50:50]: ***  [, Level 0]: 'jozio' has left the game
+[2021-04-08 12:50:52]: ***  [, Level 0]: 'hunter.exe' entered and joined the game
+[2021-04-08 12:50:58]: fameless tea [Buy Bitcoin, Level 0]: GReeeN: since when this exists
+[2021-04-08 12:50:58]: mamikral011 [DogParty, Level 26]: YelloWorlD:
+[2021-04-08 12:50:58]: (1) Hunter.exe [DogParty, Level 36]: hunter.exe: nice fake
