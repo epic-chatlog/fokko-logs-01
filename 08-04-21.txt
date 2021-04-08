@@ -215,3 +215,4 @@
 [2021-04-08 00:18:22]: ERROR. [404, Level 56]: xDDDD
 [2021-04-08 00:18:23]: Nudelsaft c: [FookinLads, Level 37]: XD
 [2021-04-08 00:18:30]: Nudelsaft c: [FookinLads, Level 37]: hi
+[2021-04-08 00:18:34]: ***  [, Level 0]: 'resart' entered and joined the game
