@@ -2754,3 +2754,5 @@
 [2021-04-08 04:29:21]: LareneGyvaeh [FookinLads, Level 0]: xDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 [2021-04-08 04:29:23]: LareneGyvaeh [FookinLads, Level 0]: friend sun.slow(y)
 [2021-04-08 04:29:35]: Nidardo. [TOP, Level 0]: laser
+[2021-04-08 04:29:50]: ***  [hýÿÿ, Level 0]: '[D] \\Syth' has left the game
+[2021-04-08 04:29:51]: HeavyGeneral [FookinLads, Level 44]: sun.slow(y):
