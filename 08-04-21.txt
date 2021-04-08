@@ -12900,3 +12900,5 @@
 [2021-04-08 16:28:15]: [D] Fearless [, Level 0]: fuck this men
 [2021-04-08 16:28:24]: ***  [, Level 0]: '[D] Fearless' has left the game
 [2021-04-08 16:28:30]: Flipper [, Level 40]: hunter stop
+[2021-04-08 16:28:38]: Hunter.exe [DogParty, Level 36]: flag
+[2021-04-08 16:28:40]: Flipper [, Level 40]: oh hjere
