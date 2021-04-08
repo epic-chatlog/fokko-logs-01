@@ -6402,3 +6402,8 @@
 [2021-04-08 08:45:15]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-08 08:45:17]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 08:45:17]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 08:45:19]:   [, Level 0]: JustRace.: cl_aimbot 1
+[2021-04-08 08:45:19]: ***  [, Level 0]: 'cunt' has left the game
+[2021-04-08 08:45:19]:   [, Level 0]: weqe: sometimes over 1 year ChillerDragon
+[2021-04-08 08:45:22]: ChillerDragon [Chilli.*, Level 44]: oof
+[2021-04-08 08:45:26]:   [, Level 0]: JustRace.: cl_aimbot 1
