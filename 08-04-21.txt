@@ -3986,3 +3986,4 @@
 [2021-04-08 06:01:12]: Supers [ᅟᅟᅟ, Level 8]: [D] \\Syth:  give me back there
 [2021-04-08 06:01:39]: Warrior [, Level 24]: ĦỮǤØ: idc
 [2021-04-08 06:01:47]: Kiøn1029 [.bad, Level 31]: f"{self.name}": where are you
+[2021-04-08 06:01:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
