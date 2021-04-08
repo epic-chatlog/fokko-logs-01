@@ -10606,3 +10606,5 @@
 [2021-04-08 12:22:42]: ***  [, Level 0]: 'Fearless' entered and joined the game
 [2021-04-08 12:22:44]: Hunter.exe [DogParty, Level 36]: Axel: let me sklave them
 [2021-04-08 12:22:48]: Nonoh [citrom, Level 40]: Maatiteusz:
+[2021-04-08 12:22:55]: Axel [TrRShClNrRs, Level 30]: Hunter.exe: alright, but lemme just help my clanmate
+[2021-04-08 12:23:01]: ***  [, Level 0]: 'RoberGN' entered and joined the game
