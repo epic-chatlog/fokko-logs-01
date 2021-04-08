@@ -11766,3 +11766,5 @@
 [2021-04-08 13:51:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-08 13:52:24]: Kaptar [, Level 0]: Zephir™: nah, ici je me bat pas, je me bat en police ou ailleur, c'est pas une map sa
 [2021-04-08 13:52:26]: ERROR. [404, Level 56]: toxicdaddy:  wenn du ihn killst ja
+[2021-04-08 13:52:31]: toxicdaddy [, Level 27]: wem
+[2021-04-08 13:52:34]: ERROR. [404, Level 56]: ambah
