@@ -12925,3 +12925,5 @@
 [2021-04-08 16:32:30]: Fearless [DogParty, Level 15]: Hunter.exe:  server so chill rn
 [2021-04-08 16:32:42]: Hunter.exe [DogParty, Level 36]: Fearless:
 [2021-04-08 16:32:48]: Fearless [DogParty, Level 15]: Hunter.exe: ?
+[2021-04-08 16:32:56]: Flipper [, Level 40]: fuijn
+[2021-04-08 16:32:58]: Flipper [, Level 40]: fun
