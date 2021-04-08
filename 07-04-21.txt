@@ -11237,3 +11237,4 @@
 [2021-04-07 20:24:04]: ***  [, Level 0]: '\\Syth' has left the game (Timeout Protection over)
 [2021-04-07 20:24:04]: ***  [, Level 0]: '[D] \\Syth' has left the game (Timeout Protection over)
 [2021-04-07 20:27:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-07 20:32:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
