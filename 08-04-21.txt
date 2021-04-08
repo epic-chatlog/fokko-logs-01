@@ -10967,3 +10967,7 @@
 [2021-04-08 12:45:12]: ***  [, Level 0]: '(1)УБИВАТЬ!' has left the game (Timeout)
 [2021-04-08 12:45:12]: ***  [, Level 0]: 'peepeepoopoo' entered and joined the game
 [2021-04-08 12:45:24]: Kezo [DogParty, Level 41]: HardreenClutch: MAD CUZ BAD
+[2021-04-08 12:45:24]: YelloWorlD [DogParty, Level 41]: Kezo: who u enemy
+[2021-04-08 12:45:30]: Kezo [DogParty, Level 41]: YelloWorlD: ChillerDragon
+[2021-04-08 12:45:30]: ChillerDragon [Chilli.*, Level 45]: Kezo: I am currently afk.
+[2021-04-08 12:45:32]: HardreenClutch [, Level 57]: Kezo:  you say bad xDDD
