@@ -338,3 +338,4 @@
 [2021-04-08 00:42:41]: ***  [, Level 0]: 'Kiøn1029' has left the game
 [2021-04-08 00:42:55]: Supers [ᅟᅟᅟ, Level 0]: Red Flag:  wait
 [2021-04-08 00:42:57]: Supers [ᅟᅟᅟ, Level 0]: resart:  wait
+[2021-04-08 00:43:11]: ***  [, Level 0]: 'Swarfey' entered and joined the game
