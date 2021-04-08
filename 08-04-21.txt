@@ -10920,3 +10920,9 @@
 [2021-04-08 12:42:18]: Tziys* [DogPartya, Level 39]: GReeeN: stfu
 [2021-04-08 12:42:21]: Hunter.exe [DogParty, Level 36]: B
 [2021-04-08 12:42:22]: YelloWorlD [DogParty, Level 41]: mamikral011: gimme ur discord
+[2021-04-08 12:42:23]: ERROR [404, Level 74]: ez
+[2021-04-08 12:42:25]: (1)cookie [, Level 0]: __init__(self)::  who are you
+[2021-04-08 12:42:27]:   [, Level 0]: any²: ERROR: hii :D
+[2021-04-08 12:42:29]: Tziys* [DogPartya, Level 39]: YelloWorlD: ok say him stop helped GReeeN
+[2021-04-08 12:42:32]:   [, Level 0]: mamikral011: YelloWorlD: wait
+[2021-04-08 12:42:33]: ERROR [404, Level 74]: any:  hi
