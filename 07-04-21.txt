@@ -11614,3 +11614,7 @@
 [2021-04-07 23:45:52]: power2 [TrRShClNrRs, Level 0]: where r they going ERROR
 [2021-04-07 23:46:12]: power2 [TrRShClNrRs, Level 0]: ghost again
 [2021-04-07 23:46:16]: ᅟᅟᅟ [, Level 48]: +
+[2021-04-07 23:46:20]: power2 [TrRShClNrRs, Level 0]: scary
+[2021-04-07 23:46:25]: Foxi♥ [♥, Level 0]: PerfeCtion: are u kirito?
+[2021-04-07 23:46:27]: ***  [, Level 0]: 'Foxi♥' has left the game
+[2021-04-07 23:46:28]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
