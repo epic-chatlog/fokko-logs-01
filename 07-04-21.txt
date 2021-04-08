@@ -11677,3 +11677,8 @@
 [2021-04-07 23:52:37]: oyun krallı [, Level 0]: vs atak
 [2021-04-07 23:52:43]: BC|Tixnix [BC, Level 34]: who
 [2021-04-07 23:52:48]: Cylox [♥, Level 30]: babanene
+[2021-04-07 23:52:54]: ***  [, Level 0]: Foxie♥ finished in: 1 minute(s) 27.08 second(s)
+[2021-04-07 23:52:54]: ***  [, Level 0]: New record: 8 minute(s) 10.02 second(s) better.
+[2021-04-07 23:52:55]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 5 blocks
+[2021-04-07 23:52:56]: Friendiship ;-) [, Level 0]: ERROR.: pro
+[2021-04-07 23:53:01]: ***  [, Level 0]: Foxi♥ finished in: 3 minute(s) 26.20 second(s)
