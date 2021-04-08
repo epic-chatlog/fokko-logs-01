@@ -994,3 +994,5 @@
 [2021-04-08 01:41:41]: ***  [, Level 0]: 'any' entered and joined the game
 [2021-04-08 01:41:43]: ***  [, Level 0]: 'triniti' has left the game
 [2021-04-08 01:41:50]: MieSlime [FookinLads, Level 43]: GOLD:  apprend a jouer sans endless et la tu sera fort sale sous merde
+[2021-04-08 01:41:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-08 01:42:00]: OP|Supers [DogParty, Level 39]: [D] x7|cya:  no
