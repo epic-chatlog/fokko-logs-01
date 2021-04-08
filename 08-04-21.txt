@@ -5859,3 +5859,5 @@
 [2021-04-08 08:22:00]: (3)ChillerDrago [|*KoG*|, Level 33]: xD
 [2021-04-08 08:22:02]: Kaptar [, Level 24]: (3)ChillerDrago:
 [2021-04-08 08:22:07]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-08 08:22:11]: ***  [, Level 0]: 'Kong' has left the game
+[2021-04-08 08:22:13]: ***  [, Level 0]: 'bob' entered and joined the game
