@@ -6396,3 +6396,9 @@
 [2021-04-08 08:44:58]: ***  [, Level 0]: comic finished in: 1 minute(s) 53.08 second(s)
 [2021-04-08 08:44:58]: ***  [, Level 0]: New record: 1 minute(s) 16.04 second(s) better.
 [2021-04-08 08:45:02]: ***  [, Level 0]: (1)УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-08 08:45:09]: σмєтнιηg [zε†α, Level 0]: chiller flappy
+[2021-04-08 08:45:13]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 08:45:13]:   [, Level 0]: weqe: ChillerDragon: i had multiple long breaks
+[2021-04-08 08:45:15]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 08:45:17]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 08:45:17]: ***  [, Level 0]: 'Niemand' entered and joined the game
