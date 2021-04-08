@@ -11090,3 +11090,5 @@
 [2021-04-08 12:53:00]: ***  [, Level 0]: 'iMxtteo D' has left the game
 [2021-04-08 12:53:03]: ***  [, Level 0]: '(1)iMxtteo' has left the game
 [2021-04-08 12:53:06]: ***  [, Level 0]: 'hunter.exe' has left the game
+[2021-04-08 12:53:17]: ERROR [404, Level 74]: I like turtles.
+[2021-04-08 12:53:18]: ERROR [404, Level 74]: ?
