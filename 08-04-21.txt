@@ -8645,3 +8645,5 @@
 [2021-04-08 10:46:19]: ***  [, Level 0]: 'Marcisten' entered and joined the game
 [2021-04-08 10:46:21]: ***  [, Level 0]: 'JxK|JoK'Air' has left the game
 [2021-04-08 10:46:21]: ***  [, Level 0]: 'LichT' has left the game
+[2021-04-08 10:46:35]: ***  [, Level 0]: 'Marcisten Dummy' entered and joined the game
+[2021-04-08 10:46:43]: Kezo [DogParty , Level 41]: any: war
