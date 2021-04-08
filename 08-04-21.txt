@@ -6543,3 +6543,4 @@
 [2021-04-08 08:51:03]: ***  [, Level 0]: '[D] tee' entered and joined the game
 [2021-04-08 08:51:03]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-08 08:51:07]:   [, Level 0]: JustRace.: cl_aimbot 1
+[2021-04-08 08:51:17]: JustRace [DogParty, Level 36]: cl_aimbot 1
