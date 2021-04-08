@@ -400,3 +400,5 @@
 [2021-04-08 00:52:41]: comic [comically, Level 13]: Shiro.: bruh what
 [2021-04-08 00:52:53]: ***  [, Level 0]: 'restart' finished the special race!
 [2021-04-08 00:52:57]: ***  [, Level 0]: 'resart' finished the special race!
+[2021-04-08 00:53:04]: ***  [, Level 0]: 'Swarfey' joined the spectators
+[2021-04-08 00:53:07]: ***  [, Level 0]: 'Swarfey' joined the game
