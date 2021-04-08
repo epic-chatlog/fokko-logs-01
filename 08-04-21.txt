@@ -1970,3 +1970,6 @@
 [2021-04-08 03:26:10]: OP|Supers [DogParty, Level 39]: Lucas:  back
 [2021-04-08 03:26:24]: Lucas [THECEPS, Level 34]: OP|Supers: ?
 [2021-04-08 03:26:26]: OP|Supers [DogParty, Level 39]: Swipez:  you are litterly spamming grenades
+[2021-04-08 03:26:38]: BC|kakashi [BC, Level 0]: ERROR: kannst du uns helfen nitte
+[2021-04-08 03:26:43]: OP|Supers [DogParty, Level 39]: hide kid
+[2021-04-08 03:26:45]: BC|kakashi [BC, Level 0]: ERROR: kannst du uns helfen bitte
