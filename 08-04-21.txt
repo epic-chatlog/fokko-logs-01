@@ -11903,3 +11903,5 @@
 [2021-04-08 14:11:40]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
 [2021-04-08 14:11:43]: Zephir™ [, Level 39]: Kirito♥: XDD
 [2021-04-08 14:11:46]: Kirito♥ [♥, Level 40]: Zephir™: je sui super xD
+[2021-04-08 14:11:57]: Zephir™ [, Level 39]: Kirito♥: nice start
+[2021-04-08 14:11:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
