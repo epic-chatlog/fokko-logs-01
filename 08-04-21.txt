@@ -6624,3 +6624,9 @@
 [2021-04-08 08:56:42]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-08 08:56:44]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 08:56:45]:   [, Level 0]: CKA3A4NIK[NR]: weqe:  im help you
+[2021-04-08 08:56:53]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 08:56:55]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 08:56:56]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 08:56:57]: ***  [, Level 0]: falkenauge's killing spree was ended by [D] \\Syth (11 blocks)
+[2021-04-08 08:56:58]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 08:56:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
