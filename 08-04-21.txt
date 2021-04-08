@@ -10809,3 +10809,6 @@
 [2021-04-08 12:35:22]: ***  [, Level 0]: 'MieSlime' has left the game
 [2021-04-08 12:35:24]:   [, Level 0]: any²: YelloWorlD: <<
 [2021-04-08 12:35:27]: Fearless [DogParty, Level 40]: rq
+[2021-04-08 12:35:33]: ***  [, Level 0]: 'Fearless' has left the game
+[2021-04-08 12:35:37]: toxicdaddy [, Level 26]: cookie:
+[2021-04-08 12:35:42]: toxicdaddy [, Level 26]: MUR
