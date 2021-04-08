@@ -4497,3 +4497,8 @@
 [2021-04-08 06:49:46]: YelloWorlD [DogParty, Level 37]: rq
 [2021-04-08 06:49:46]: iMxtteo [, Level 26]: :)
 [2021-04-08 06:49:49]: ***  [, Level 0]: '(1)nameless tee' has left the game
+[2021-04-08 06:49:55]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 06:49:55]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 06:49:57]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 06:49:57]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 06:50:04]: GODLIKe [u, Level 44]: Sad Guy: sad gay
