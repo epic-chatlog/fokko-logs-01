@@ -3724,3 +3724,7 @@
 [2021-04-08 05:38:24]: Boti. [.bad, Level 33]: dummym titokban hátul
 [2021-04-08 05:38:39]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
 [2021-04-08 05:38:41]: Kiøn1029 [.bad, Level 31]: nyugodt rendőröket láthatnak
+[2021-04-08 05:38:48]: ***  [, Level 0]: '(1)el champeon' has left the game
+[2021-04-08 05:38:49]: Boti. [.bad, Level 33]: még nem adtak fánkot
+[2021-04-08 05:38:51]: Boti. [.bad, Level 33]: nem fizettek ki
+[2021-04-08 05:38:54]: Boti. [.bad, Level 33]: kötsögök amúgy
