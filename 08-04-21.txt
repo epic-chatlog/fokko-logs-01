@@ -1171,3 +1171,5 @@
 [2021-04-08 01:56:54]: OP|Supers [DogParty, Level 39]: mamikral011:  WTF HELP ME
 [2021-04-08 01:56:54]: zemer [xSD7, Level 37]: YelloWorlD:
 [2021-04-08 01:56:54]: weqe [MNKY, Level 12]: zemer: GOLD is enemy
+[2021-04-08 01:56:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-08 01:57:01]: zemer [xSD7, Level 37]: weqe: 9oK
