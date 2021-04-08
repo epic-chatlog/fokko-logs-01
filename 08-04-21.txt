@@ -5145,3 +5145,9 @@
 [2021-04-08 07:29:52]:   [, Level 0]: ChillerDragon: ? GOLD
 [2021-04-08 07:29:59]: Jerry [, Level 29]: Niemand JJ?
 [2021-04-08 07:30:02]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-08 07:30:04]: ***  [, Level 0]: '(2)Shy-ra.' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 07:30:04]: ***  [, Level 0]: '(1)Shy-ra.' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 07:30:05]: ***  [, Level 0]: 'Kezo' entered and joined the game
+[2021-04-08 07:30:05]: ***  [, Level 0]: 'Shy-ra.' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 07:30:08]: ♥JustRace♥ [no-clan, Level 36]: Sad Guy:  sad tee?
+[2021-04-08 07:30:09]: (1)Foxi♥ [♥, Level 1]: Kirito♥: why are u chewing so hardly
