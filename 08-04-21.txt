@@ -8647,3 +8647,7 @@
 [2021-04-08 10:46:21]: ***  [, Level 0]: 'LichT' has left the game
 [2021-04-08 10:46:35]: ***  [, Level 0]: 'Marcisten Dummy' entered and joined the game
 [2021-04-08 10:46:43]: Kezo [DogParty , Level 41]: any: war
+[2021-04-08 10:46:46]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-08 10:46:47]: iMxtteo [, Level 26]: Hunter.exe: und?
+[2021-04-08 10:46:50]: ***  [, Level 0]: Meetiteusz finished in: 3 minute(s) 12.40 second(s)
+[2021-04-08 10:46:54]: [D] Hunter.exe [DogParty, Level 25]: iMxtteo: rein mit denen?
