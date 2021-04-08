@@ -5822,3 +5822,7 @@
 [2021-04-08 08:19:53]:   [, Level 0]: ビール|Zero: так правильно
 [2021-04-08 08:20:00]:   [, Level 0]: ビール|Zero: во
 [2021-04-08 08:20:03]:   [, Level 0]: ビール|Zero: кросовок
+[2021-04-08 08:20:09]: Hunter.exe [DogParty, Level 36]: MieSlime:
+[2021-04-08 08:20:11]: Hunter.exe [DogParty, Level 36]: MieSlime: <<
+[2021-04-08 08:20:13]: ᅟ [DogParty, Level 36]: Hunter.exe:  dont
+[2021-04-08 08:20:15]: ᅟ [DogParty, Level 36]: Hunter.exe:  MieSlime  helped them,
