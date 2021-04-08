@@ -5907,3 +5907,4 @@
 [2021-04-08 08:25:27]: KS| Ty4ka [KyStiKi, Level 0]: ビール|Zero: Не
 [2021-04-08 08:25:34]:   [, Level 0]: ビール|Zero: KS| Ty4ka: ок
 [2021-04-08 08:25:35]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-08 08:25:54]: ***  [, Level 0]: 'Fearless' entered and joined the game
