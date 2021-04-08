@@ -2598,3 +2598,6 @@
 [2021-04-08 04:20:59]: [D] \\Syth [, Level 25]: bob: he block me
 [2021-04-08 04:21:05]: ***  [hýÿÿ, Level 0]: 'Virus' entered and joined the game
 [2021-04-08 04:21:09]: CKA3A4NIK[NR] [Night Raid, Level 35]: bob:  Why you kill me?
+[2021-04-08 04:21:12]: ***  [hýÿÿ, Level 0]: 'Shroom' has left the game
+[2021-04-08 04:21:15]: CKA3A4NIK[NR] [Night Raid, Level 35]: Thx
+[2021-04-08 04:21:22]: CKA3A4NIK[NR] [Night Raid, Level 35]: bob:  Thx weqe  Thx
