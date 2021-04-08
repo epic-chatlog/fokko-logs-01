@@ -8947,3 +8947,6 @@
 [2021-04-08 11:01:55]: ***  [, Level 0]: 'mike' entered and joined the game
 [2021-04-08 11:01:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-08 11:02:00]: (1)cookie [, Level 0]: wait
+[2021-04-08 11:02:06]: GODLIKe [u, Level 44]: any: dont touch Kaptar
+[2021-04-08 11:02:12]: comic [comically, Level 13]: whAAAAAT
+[2021-04-08 11:02:18]: GODLIKe [u, Level 44]: Kaptar: any² stop
