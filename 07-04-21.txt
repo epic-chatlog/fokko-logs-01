@@ -11582,3 +11582,5 @@
 [2021-04-07 23:32:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-07 23:34:42]: power2 [TrRShClNrRs, Level 0]: (3)SAUD: xD
 [2021-04-07 23:34:50]: ***  [, Level 0]: SAUD is on a killing spree with 5 blocks
+[2021-04-07 23:36:01]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
+[2021-04-07 23:36:04]: ***  [, Level 0]: 'ERROR' entered and joined the game
