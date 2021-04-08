@@ -2171,3 +2171,5 @@
 [2021-04-08 03:53:01]: CKA3A4NIK[NR] [Night Raid, Level 35]: 1
 [2021-04-08 03:53:02]: (1)ビール|Ze [Drunks, Level 12]: XD
 [2021-04-08 03:53:02]: ***  [h���, Level 0]: 'CKA3A4NIK[NR]' has been muted for 60 seconds
+[2021-04-08 03:53:07]: (1)ビール|Ze [Drunks, Level 12]: jm dead
+[2021-04-08 03:53:08]: [D] Swipez [, Level 25]: mute
