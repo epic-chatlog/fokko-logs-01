@@ -3840,3 +3840,8 @@
 [2021-04-08 05:49:13]: ***  [, Level 0]: '(1)flappy' changed name to 'x7|Flipper'
 [2021-04-08 05:49:23]: ***  [, Level 0]: 'moonman' entered and joined the game
 [2021-04-08 05:49:24]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
+[2021-04-08 05:49:38]: ***  [, Level 0]: '(2)Cosmo' has left the game
+[2021-04-08 05:49:39]: x7|Flipper [xSD7, Level 14]: jetpack pls
+[2021-04-08 05:49:39]: ***  [, Level 0]: 'moonman' has left the game
+[2021-04-08 05:49:41]: ***  [, Level 0]: '(1)TeigHuhn' entered and joined the game
+[2021-04-08 05:49:43]: ***  [, Level 0]: 'TeigHuhn' has left the game
