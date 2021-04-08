@@ -10273,3 +10273,5 @@
 [2021-04-08 12:03:18]: ***  [, Level 0]: 'Marcisten' entered and joined the game
 [2021-04-08 12:03:25]: Shroom [, Level 0]: Zephir™: why
 [2021-04-08 12:03:32]: ***  [, Level 0]: 'SmileyBanton' has left the game
+[2021-04-08 12:03:35]: ***  [, Level 0]: 'SmileyBanton' entered and joined the game
+[2021-04-08 12:03:49]:   [, Level 0]: Marcisten: nono
