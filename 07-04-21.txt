@@ -11596,3 +11596,4 @@
 [2021-04-07 23:41:29]: ***  [, Level 0]: (1)ERROR finished in: 1 minute(s) 50.12 second(s)
 [2021-04-07 23:41:33]: ***  [, Level 0]: (1)ERROR. finished in: 0 minute(s) 56.00 second(s)
 [2021-04-07 23:41:33]: ***  [, Level 0]: New record: 50.98 second(s) better.
+[2021-04-07 23:42:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
