@@ -11841,3 +11841,4 @@
 [2021-04-08 14:00:48]: ***  [, Level 0]: 'lol' entered and joined the game
 [2021-04-08 14:00:54]: ***  [, Level 0]: '(1)lol' entered and joined the game
 [2021-04-08 14:00:54]: ***  [, Level 0]: 'aaaaaaaaa' entered and joined the game
+[2021-04-08 14:01:01]: [D] ♥TAKO♥ [, Level 0]: nam nam moni
