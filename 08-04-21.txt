@@ -4463,3 +4463,7 @@
 [2021-04-08 06:46:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-08 06:46:59]: GODLIKe. [u, Level 39]: Foxie♥: he stupid
 [2021-04-08 06:47:03]:   [, Level 0]: Kirito♥: Foxie♥: logout fast ples
+[2021-04-08 06:47:07]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 06:47:10]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 06:47:14]:   [, Level 0]: Kirito♥: Foxie♥: ty
+[2021-04-08 06:47:16]: Foxie♥ [♥, Level 0]: (1)Kirito♥: HOW THE FUCK U GOT TO 40 LEVEL YESTERDAY U HAD LIKE WHAT 35?
