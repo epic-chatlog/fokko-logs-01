@@ -10834,3 +10834,8 @@
 [2021-04-08 12:36:49]: ***  [, Level 0]: 'mamikral011' entered and joined the game
 [2021-04-08 12:36:53]: GReeeN [, Level 0]: MUTE:  you soo gooodd in afk block holy
 [2021-04-08 12:36:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-08 12:37:00]: ***  [, Level 0]: 'Yodef' has left the game
+[2021-04-08 12:37:03]: ***  [, Level 0]: 'Yodef' entered and joined the game
+[2021-04-08 12:37:04]: YelloWorlD [DogParty, Level 41]: any: MUTE wtf
+[2021-04-08 12:37:10]: ***  [, Level 0]: 'Yodef' has left the game
+[2021-04-08 12:37:11]: ***  [, Level 0]: 'Axel ²' entered and joined the game
