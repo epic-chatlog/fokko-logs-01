@@ -11684,3 +11684,9 @@
 [2021-04-07 23:53:01]: ***  [, Level 0]: Foxi♥ finished in: 3 minute(s) 26.20 second(s)
 [2021-04-07 23:53:12]: ***  [, Level 0]: 'Robinson' has left the game
 [2021-04-07 23:53:15]: power2 [TrRShClNrRs, Level 0]: ERROR: here are 2.7k gold
+[2021-04-07 23:53:21]: ***  [, Level 0]: '[D] Cylox' entered and joined the game
+[2021-04-07 23:53:23]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-07 23:53:24]: oyun krallı [, Level 0]: duyr
+[2021-04-07 23:53:24]: power2 [TrRShClNrRs, Level 0]: ill leavew it here
+[2021-04-07 23:53:24]: ***  [, Level 0]: '[D] Cylox' has left the game
+[2021-04-07 23:53:24]: ***  [, Level 0]: 'Cylox' has left the game
