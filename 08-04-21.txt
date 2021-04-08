@@ -11834,3 +11834,5 @@
 [2021-04-08 13:59:01]: ***  [, Level 0]: 'Cassie' has left the game
 [2021-04-08 13:59:06]: ***  [, Level 0]: 'Korlan' entered and joined the game
 [2021-04-08 13:59:29]: ***  [, Level 0]: 'el champeon' has left the game
+[2021-04-08 13:59:36]: Zephir™ [, Level 39]: Kaptar: ta pas l'impression de perdre alors que ta 5 jumps et moi 2 ?
+[2021-04-08 13:59:38]: toxicdadd [, Level 0]: [D] ♥TAKO♥: i have only hammer
