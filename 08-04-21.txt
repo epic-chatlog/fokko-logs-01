@@ -3664,3 +3664,9 @@
 [2021-04-08 05:33:46]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-08 05:33:47]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 05:33:49]: Cylox [♥, Level 30]: ı love u
+[2021-04-08 05:33:54]: ***  [, Level 0]: '[D] Cylox' entered and joined the game
+[2021-04-08 05:33:59]:   [, Level 0]: Soros: Cylox: I love u too
+[2021-04-08 05:34:03]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 05:34:04]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 05:34:05]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 05:34:06]: Kiøn1029 [.bad, Level 31]: mivel
