@@ -1781,3 +1781,4 @@
 [2021-04-08 02:57:55]: ***  [, Level 0]: New record: 44.78 second(s) better.
 [2021-04-08 02:57:59]: ***  [, Level 0]: 'Deadmouse' entered and joined the game
 [2021-04-08 02:58:32]: ***  [, Level 0]: 'Lucas' entered and joined the game
+[2021-04-08 02:58:42]: ***  [, Level 0]: '»ℱℬℑ«' entered and joined the game
