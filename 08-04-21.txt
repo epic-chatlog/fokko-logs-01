@@ -5219,3 +5219,9 @@
 [2021-04-08 07:33:07]: Foxi♥ [♥, Level 36]: (1)Kirito♥: ok bye
 [2021-04-08 07:33:08]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-08 07:33:13]: (1)Kirito♥ [♥, Level 25]: Foxie♥: i always have 100 bullets dude
+[2021-04-08 07:33:17]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 07:33:20]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 07:33:22]: Foxi♥ [♥, Level 36]: (1)Kirito♥: oh
+[2021-04-08 07:33:25]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 07:33:27]: GOLD [404, Level 40]: (1)DiscordBridg: no  u
+[2021-04-08 07:33:28]: ***  [, Level 0]: 'jeder' entered and joined the game
