@@ -5394,3 +5394,7 @@
 [2021-04-08 07:46:28]: ♥JustRace♥ [DogParty, Level 36]: lmfao
 [2021-04-08 07:46:38]: Kirito♥ [♥, Level 40]: Hunter.exe: you are the dog of yellow?
 [2021-04-08 07:46:48]: ♥JustRace♥ [DogParty, Level 36]: (1)Kirito♥:  if you say you play more gores what do you play?
+[2021-04-08 07:46:55]: ♥JustRace♥ [DogParty, Level 36]: (1)Kirito♥:  easy/main/hard/insane?
+[2021-04-08 07:46:57]: Kirito♥ [♥, Level 40]: ♥JustRace♥: main gores
+[2021-04-08 07:46:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-08 07:47:01]: ♥JustRace♥ [DogParty, Level 36]: (1)Kirito♥:  sad
