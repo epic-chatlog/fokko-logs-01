@@ -5053,3 +5053,7 @@
 [2021-04-08 07:24:47]: ***  [, Level 0]: YelloWorlD is on a killing spree with 15 blocks
 [2021-04-08 07:24:51]: Loga [DogParty, Level 14]: oh
 [2021-04-08 07:24:52]: Loga [DogParty, Level 14]: s
+[2021-04-08 07:24:58]: Loga [DogParty, Level 14]: i mean your dummy
+[2021-04-08 07:25:02]: ***  [, Level 0]: '[D] Hunter.exe' entered and joined the game
+[2021-04-08 07:25:02]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 07:25:05]: ***  [, Level 0]: 'Niemand' entered and joined the game
