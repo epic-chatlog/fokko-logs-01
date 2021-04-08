@@ -6981,3 +6981,7 @@
 [2021-04-08 09:29:55]: ***  [, Level 0]: 'Fearless' entered and joined the game
 [2021-04-08 09:29:58]: ***  [, Level 0]: 'i3's tee' finished the special race!
 [2021-04-08 09:30:09]:   [, Level 0]: cookie: w
+[2021-04-08 09:30:23]: ***  [, Level 0]: Hunter.exe is on a killing spree with 5 blocks
+[2021-04-08 09:30:24]: CKA3A4NIK[NR] [Night Raid, Level 35]: TL|ŦƹƦ$ŦǾN:  Привет
+[2021-04-08 09:30:24]: Flipper [, Level 14]: can someone help me spike
+[2021-04-08 09:30:25]: ***  [, Level 0]: 'Shiro.' entered and joined the game
