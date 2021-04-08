@@ -3071,3 +3071,5 @@
 [2021-04-08 04:48:02]: MieSlime [FookinLads, Level 43]: CKA3A4NIK[NR]:  u want me to stop ?
 [2021-04-08 04:48:33]: OP|Supers [DogParty, Level 39]: [D] x7|cya:  i think you are stuck
 [2021-04-08 04:48:44]: CKA3A4NIK[NR] [Night Raid, Level 35]: CLOWN
+[2021-04-08 04:48:53]: OP|Supers [DogParty, Level 39]: [D] x7|cya:  can i help you?
+[2021-04-08 04:48:59]: x7|cya [xSD7, Level 42]: no
