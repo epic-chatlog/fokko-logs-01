@@ -5529,3 +5529,8 @@
 [2021-04-08 07:59:22]:   [, Level 0]: any: YelloWorlD: oki
 [2021-04-08 07:59:24]:   [, Level 0]: any: YelloWorlD: nop
 [2021-04-08 07:59:33]:   [, Level 0]: any: YelloWorlD: jme co sur un autre
+[2021-04-08 07:59:45]: ***  [, Level 0]: 'crystalwolf' entered and joined the game
+[2021-04-08 07:59:48]: Kaptar [, Level 0]: Taser xDDD
+[2021-04-08 07:59:52]: ***  [, Level 0]: 'KS| Ty4ka' entered and joined the game
+[2021-04-08 07:59:52]: ᅟᅟᅟᅟ [DogParty, Level 41]: yes xDDDDD
+[2021-04-08 07:59:55]: ᅟᅟᅟᅟ [DogParty, Level 41]: taser for bads
