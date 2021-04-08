@@ -3316,3 +3316,5 @@
 [2021-04-08 05:07:12]: (1)OP|Supers [DogParty, Level 39]: 10 sek
 [2021-04-08 05:07:19]: (1)OP|Supers [DogParty, Level 39]: 1
 [2021-04-08 05:07:41]: (1)Котяра [, Level 13]: haha
+[2021-04-08 05:07:54]: ***  [, Level 0]: 'NetFlix' entered and joined the game
+[2021-04-08 05:07:55]: (1)Котяра [, Level 13]: look hugo
