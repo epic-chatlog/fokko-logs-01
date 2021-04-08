@@ -216,3 +216,7 @@
 [2021-04-08 00:18:23]: Nudelsaft c: [FookinLads, Level 37]: XD
 [2021-04-08 00:18:30]: Nudelsaft c: [FookinLads, Level 37]: hi
 [2021-04-08 00:18:34]: ***  [, Level 0]: 'resart' entered and joined the game
+[2021-04-08 00:18:46]: ***  [, Level 0]: '(1)oyun krallı' has left the game
+[2021-04-08 00:18:51]: WarHammer [, Level 0]: ¯\_(ツ)_/¯
+[2021-04-08 00:18:51]: (1)Friendiship  [, Level 0]: ChillerDragon:
+[2021-04-08 00:18:56]: ERROR. [404, Level 56]: .o
