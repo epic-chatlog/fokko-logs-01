@@ -10871,3 +10871,4 @@
 [2021-04-08 12:39:21]: ***  [, Level 0]: 'MUTE' changed name to 'Kezo'
 [2021-04-08 12:39:28]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
 [2021-04-08 12:39:33]: YelloWorlD [DogParty, Level 41]: GReeeN: i have error acc, any acc
+[2021-04-08 12:39:45]: ***  [, Level 0]: '(1)nameless tee' has left the game
