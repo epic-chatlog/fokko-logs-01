@@ -1263,3 +1263,6 @@
 [2021-04-08 02:03:47]: Virus [, Level 49]: XD
 [2021-04-08 02:03:50]: ***  [, Level 0]: 'Anatomy' changed name to 'rojden'
 [2021-04-08 02:04:01]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
+[2021-04-08 02:04:09]: MieSlime [FookinLads, Level 43]: ChillerDragon:  i know xD
+[2021-04-08 02:04:09]: ChillerDragon [Chilli.*, Level 44]: MieSlime: I am currently afk.
+[2021-04-08 02:04:13]: YelloWorlD [DogParty, Level 37]: [D] BC|Tixnix: not 404 but DogParty
