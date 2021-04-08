@@ -1821,3 +1821,4 @@
 [2021-04-08 03:04:06]:   [, Level 0]: Warrior: wot
 [2021-04-08 03:04:07]: SAUD [, Level 24]: kais:
 [2021-04-08 03:04:13]: ***  [, Level 0]: 'toxicdadd' has left the game
+[2021-04-08 03:04:36]: Shroom [, Level 0]: bye
