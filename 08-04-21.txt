@@ -1784,3 +1784,4 @@
 [2021-04-08 02:58:42]: ***  [, Level 0]: '»ℱℬℑ«' entered and joined the game
 [2021-04-08 02:58:49]: rayen [, Level 0]: BC|Tixnix:  HELP PLS
 [2021-04-08 02:59:11]: ***  [, Level 0]: '»ℱℬℑ«' has left the game
+[2021-04-08 02:59:20]: Lucas [THECEPS, Level 34]: BC|Tixnix: bruh
