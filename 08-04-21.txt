@@ -10386,3 +10386,6 @@
 [2021-04-08 12:09:17]: any [404, Level 37]: ERROR no
 [2021-04-08 12:09:22]: ***  [, Level 0]: 'jozio' joined the game
 [2021-04-08 12:09:24]: Kenshi™ [, Level 0]: Nonoh: u are dead
+[2021-04-08 12:09:30]: ***  [, Level 0]: 'NetFlix' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 12:09:32]: Nonoh [citrom, Level 40]: Maatiteusz: ne pls
+[2021-04-08 12:09:40]: Meetiteusz [TrRShClNrRs, Level 25]: nonoh wtf do you mean
