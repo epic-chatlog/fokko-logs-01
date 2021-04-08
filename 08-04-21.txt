@@ -11636,3 +11636,6 @@
 [2021-04-08 13:37:24]: (1)ERROR [404, Level 47]: sagen wir es
 [2021-04-08 13:37:26]: ***  [, Level 0]: 'Aurax' has left the game
 [2021-04-08 13:37:27]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
+[2021-04-08 13:37:32]: Syth [, Level 30]: im going to eat
+[2021-04-08 13:37:32]: (1)ERROR [404, Level 47]: jeder wie er mag
+[2021-04-08 13:37:38]: (1)ERROR [404, Level 47]: hab nur andere ansichten bei sowas
