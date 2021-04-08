@@ -10283,3 +10283,10 @@
 [2021-04-08 12:04:10]: Falco642 [, Level 0]: xd
 [2021-04-08 12:04:16]: ***  [, Level 0]: 'f"{self.na84151' entered and joined the game
 [2021-04-08 12:04:17]: mamikral011 [DogParty, Level 26]: Λtlantis Ψ: off f:D
+[2021-04-08 12:04:19]: ***  [, Level 0]: 'f"{self.na84151' has left the game
+[2021-04-08 12:04:19]: Nonoh [citrom, Level 40]: cookie: pls give 1 min
+[2021-04-08 12:04:24]: ***  [, Level 0]: 'Λtlantis Ψ' changed name to 'S Y T H N'
+[2021-04-08 12:04:24]: Nonoh [citrom, Level 40]: cookie: jet xd
+[2021-04-08 12:04:26]: mamikral011 [DogParty, Level 26]: Kirito♥:
+[2021-04-08 12:04:29]: Nonoh [citrom, Level 40]: cookie: pls give 1 min
+[2021-04-08 12:04:29]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
