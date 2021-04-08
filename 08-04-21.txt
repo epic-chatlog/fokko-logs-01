@@ -10895,3 +10895,5 @@
 [2021-04-08 12:41:09]:   [, Level 0]: Kezo: NOBOOO
 [2021-04-08 12:41:11]: YelloWorlD [DogParty, Level 41]: GReeeN: why u dont want
 [2021-04-08 12:41:13]:   [, Level 0]: any²: YelloWorlD: dit lui d'aretter
+[2021-04-08 12:41:27]: YelloWorlD [DogParty, Level 41]: Kezo: stop block any
+[2021-04-08 12:41:29]:   [, Level 0]: Kezo: GReeeN: stop or die ?
