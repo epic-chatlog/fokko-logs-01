@@ -2071,3 +2071,5 @@
 [2021-04-08 03:39:25]: GOLD [404, Level 41]: Nudelsaft c:: join DogParty jz gerade
 [2021-04-08 03:39:26]: OP|Supers [DogParty, Level 39]: rayen:  war4life
 [2021-04-08 03:39:29]: ***  [, Level 0]: 'oyun krallı' has left the game
+[2021-04-08 03:39:47]: ***  [, Level 0]: 'OpTEEmus Crime' has left the game
+[2021-04-08 03:39:47]: ***  [, Level 0]: 'ßumßelTEE' has left the game
