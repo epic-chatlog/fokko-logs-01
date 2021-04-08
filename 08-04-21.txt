@@ -867,3 +867,7 @@
 [2021-04-08 01:31:28]: VeemID [DogParty, Level 26]: OP|Supers: look my clan...
 [2021-04-08 01:31:29]: [D] mamikral011 [DogParty, Level 0]: ERROR.: come
 [2021-04-08 01:31:29]: ***  [, Level 0]: 'zemer' has left the game
+[2021-04-08 01:31:38]: x7|zemer [xSD7, Level 37]: (1)ChillerDrago: :8
+[2021-04-08 01:31:39]: [D] mamikral011 [DogParty, Level 0]: :D
+[2021-04-08 01:31:41]: Supers [ᅟᅟᅟ, Level 0]: VeemID:  you killed me and joined the clan
+[2021-04-08 01:31:41]: ***  [, Level 0]: ERROR. is on a killing spree with 5 blocks
