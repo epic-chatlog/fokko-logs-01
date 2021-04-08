@@ -11241,3 +11241,5 @@
 [2021-04-08 13:11:25]: mamikral011 [DogParty, Level 26]: Kezo: sen bizim klandanmısın
 [2021-04-08 13:11:26]: GOLD [404, Level 40]: ERROR: naaa
 [2021-04-08 13:11:30]: ERROR [404, Level 74]: GOLD:  xDD
+[2021-04-08 13:11:33]: Kezo [DogParty, Level 41]: mamikral011: evet
+[2021-04-08 13:11:36]: mamikral011 [DogParty, Level 26]: Kezo: iyi
