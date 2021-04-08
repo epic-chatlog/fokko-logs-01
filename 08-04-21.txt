@@ -62,3 +62,6 @@
 [2021-04-08 00:05:09]: Rem's dummy [, Level 38]: Nudelsaft c:: hey
 [2021-04-08 00:05:11]: Nudelsaft c: [FookinLads, Level 37]: yo
 [2021-04-08 00:05:16]: Foxie♥ [♥, Level 36]: Nudelsaft c:: ERROR still war me :c
+[2021-04-08 00:05:19]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
+[2021-04-08 00:05:22]: Nudelsaft c: [FookinLads, Level 37]: aaaaaaaaa
+[2021-04-08 00:05:24]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
