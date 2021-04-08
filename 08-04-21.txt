@@ -946,3 +946,5 @@
 [2021-04-08 01:38:03]: ***  [, Level 0]: '(1)zemer' entered and joined the game
 [2021-04-08 01:38:08]: ***  [, Level 0]: '(3)lol' entered and joined the game
 [2021-04-08 01:38:09]: [2] VeemID [DogParty, Level 0]: YelloWorlD: de quoi ?
+[2021-04-08 01:38:19]: YelloWorlD [DogParty, Level 37]: VeemID: a non
+[2021-04-08 01:38:19]: OP|Supers [DogParty, Level 39]: YelloWorlD:  he gud?
