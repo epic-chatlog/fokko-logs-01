@@ -5173,3 +5173,10 @@
 [2021-04-08 07:31:05]: prankstar [, Level 0]: [D] Deadmouse: ez
 [2021-04-08 07:31:06]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 07:31:07]:   [, Level 0]: ChillerDragon: oh fuck it is GOLD thanks for telling me ill check
+[2021-04-08 07:31:11]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 07:31:14]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 07:31:16]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 07:31:16]: ♥JustRace♥ [no-clan, Level 36]: eww
+[2021-04-08 07:31:18]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 07:31:18]: ♥JustRace♥ [no-clan, Level 36]: endless
+[2021-04-08 07:31:20]: ***  [, Level 0]: 'Shy-ra.' entered and joined the game
