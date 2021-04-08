@@ -923,3 +923,5 @@
 [2021-04-08 01:35:59]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 34.32 second(s)
 [2021-04-08 01:36:04]: YelloWorlD [DogParty, Level 37]: VeemID: tu utilise quoi pour jouer a teeworld
 [2021-04-08 01:36:17]: [2] VeemID [DogParty, Level 0]: YelloWorlD: f-client
+[2021-04-08 01:36:26]: YelloWorlD [DogParty, Level 37]: VeemID: utilise ddnet
+[2021-04-08 01:36:26]: ***  [, Level 0]: 'mamikral011' entered and joined the game
