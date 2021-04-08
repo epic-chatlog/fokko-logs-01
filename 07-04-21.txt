@@ -11156,3 +11156,4 @@
 [2021-04-07 17:42:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-07 17:43:47]: ***  [, Level 0]: 'Flipper' entered and joined the game
 [2021-04-07 17:47:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-07 17:50:39]: ***  [, Level 0]: 'jcanela2022' entered and joined the game
