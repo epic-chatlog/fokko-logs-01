@@ -12993,3 +12993,5 @@
 [2021-04-08 16:41:35]: S Y T H N [DogParty, Level 37]: fokkonaut: hab gehört bekomme building tools
 [2021-04-08 16:41:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-08 16:42:01]: Flipper [, Level 40]: flappy: noob
+[2021-04-08 16:42:11]: Flipper [, Level 40]: flappy: why you so bad man
+[2021-04-08 16:42:16]: iMxtteo [, Level 26]: taser
