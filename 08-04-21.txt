@@ -3263,3 +3263,6 @@
 [2021-04-08 05:02:23]: Asta [FookinLads, Level 0]: OP|Supers:  bcs lucky
 [2021-04-08 05:02:28]: (1)OP|Supers [DogParty, Level 0]: ok thx :D
 [2021-04-08 05:02:30]: ***  [hýÿÿ, Level 0]: 'Shroom' entered and joined the game
+[2021-04-08 05:02:36]: ***  [hýÿÿ, Level 0]: 'Asta' has left the game
+[2021-04-08 05:02:39]: \\Syth [[!FAKE!], Level 30]: Ä¦á»®Ç¤Ã˜: im old sythn save or war 4life
+[2021-04-08 05:02:42]: ***  [hýÿÿ, Level 0]: '(1)flappy' changed name to 'x7|Flipper'
