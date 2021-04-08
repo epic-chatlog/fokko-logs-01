@@ -5287,3 +5287,5 @@
 [2021-04-08 07:36:57]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 07:36:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-08 07:37:03]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-08 07:37:13]: Falco641 [.bad, Level 19]: bruh
+[2021-04-08 07:37:19]: YelloWorlD [DogParty, Level 37]: ChillerDragon: pro in code xD
