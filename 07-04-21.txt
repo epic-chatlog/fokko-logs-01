@@ -11713,3 +11713,7 @@
 [2021-04-07 23:56:21]: GODLIKe [hax, Level 44]: kais: gae
 [2021-04-07 23:56:27]: kais [, Level 65]: u
 [2021-04-07 23:56:33]: GODLIKe [hax, Level 44]: XD
+[2021-04-07 23:56:37]: GODLIKe [hax, Level 44]: u
+[2021-04-07 23:56:46]: WarHammer [, Level 0]: afhjak
+[2021-04-07 23:56:47]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' has left the game (Timeout)
+[2021-04-07 23:56:47]: ***  [, Level 0]: 'ᅟᅟᅟ' has left the game (Timeout)
