@@ -2233,3 +2233,7 @@
 [2021-04-08 03:59:50]: CKA3A4NIK[NR] [Night Raid, Level 35]: HeavyGeneral:  Привет
 [2021-04-08 03:59:50]: ***  [, Level 0]: 'Котяра' entered and joined the game
 [2021-04-08 03:59:55]: HeavyGeneral [FookinLads, Level 44]: privet
+[2021-04-08 04:00:00]: Axandos [, Level 0]: privjet
+[2021-04-08 04:00:06]: Axandos [, Level 0]: kak tibe dila
+[2021-04-08 04:00:06]: ビール|Zero [Drunks, Level 28]: CKA3A4NIK[NR]: дай рифл
+[2021-04-08 04:00:11]: Kong [[_Any %_], Level 0]: XD
