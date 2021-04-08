@@ -12126,3 +12126,5 @@
 [2021-04-08 14:43:15]: Flipper [, Level 15]: CMON
 [2021-04-08 14:43:17]: Flipper [, Level 15]: THERE
 [2021-04-08 14:43:18]: Flipper [, Level 15]: IM S UPPOSE
+[2021-04-08 14:43:35]: Flipper [, Level 15]: kiriro
+[2021-04-08 14:43:40]: Flipper [, Level 15]: kirito
