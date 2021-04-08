@@ -3323,3 +3323,5 @@
 [2021-04-08 05:08:35]: ***  [, Level 0]: 'Nudelsaft c:' changed name to '\(^-^)/'
 [2021-04-08 05:08:37]: \(^-^)/ [FookinLads, Level 37]: test
 [2021-04-08 05:08:53]: ***  [, Level 0]: '[D] \\Syth' entered and joined the game
+[2021-04-08 05:09:04]: ***  [, Level 0]: 'DiscordBridge' has left the game
+[2021-04-08 05:09:04]: ***  [, Level 0]: 'o' has left the game
