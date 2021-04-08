@@ -4077,3 +4077,5 @@
 [2021-04-08 06:12:45]: ***  [, Level 0]: '|MıssOяchiĐ|' entered and joined the game
 [2021-04-08 06:12:48]: ***  [, Level 0]: 'Emre' entered and joined the game
 [2021-04-08 06:12:48]: ***  [, Level 0]: '(1)ĦỮǤØ' entered and joined the game
+[2021-04-08 06:12:55]: ***  [, Level 0]: '(1)ĦỮǤØ' changed name to 'x7|Flipper'
+[2021-04-08 06:12:59]: ***  [, Level 0]: 'f"{self.name}"' has left the game
