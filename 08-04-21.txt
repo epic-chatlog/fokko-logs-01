@@ -1387,3 +1387,6 @@
 [2021-04-08 02:15:49]: ChillerDragon.* [|*KoG*|, Level 41]: what is "giving change" jorden ?
 [2021-04-08 02:15:51]: jorden [, Level 0]: ChillerDragon: delete bonus
 [2021-04-08 02:16:12]: ChillerDragon [Chilli.*, Level 44]: we are working on bonus refactor jorden
+[2021-04-08 02:16:25]: MieSlime [FookinLads, Level 43]: ERROR:  fuck u
+[2021-04-08 02:16:26]: jorden [, Level 0]: ChillerDragon: max +2 jumps
+[2021-04-08 02:16:28]: ERROR. [404, Level 56]: no
