@@ -11724,3 +11724,5 @@
 [2021-04-08 13:45:42]: Kaptar [, Level 0]: ui, effectivement, mais au moins c'est verifié
 [2021-04-08 13:45:45]: ERROR [404, Level 74]: uff laggs
 [2021-04-08 13:46:35]: Zephir™ [, Level 39]: Kaptar: verifier quoi ?
+[2021-04-08 13:46:53]: Kaptar [, Level 0]: Que t'était innofensif
+[2021-04-08 13:46:54]: [D] Ambah [, Level 0]: Kirito♥: do you want to rush police? xD
