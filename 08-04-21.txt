@@ -1667,3 +1667,7 @@
 [2021-04-08 02:42:22]: BC|Tixnix [BC, Level 34]: xD
 [2021-04-08 02:42:27]: ERROR. [404, Level 56]: again bad
 [2021-04-08 02:42:47]: YelloWorlD [DogParty, Level 37]: ERROR: u so badddd
+[2021-04-08 02:42:58]: ERROR. [404, Level 56]: xD
+[2021-04-08 02:42:59]: ***  [, Level 0]: 'Nidardo.' entered and joined the game
+[2021-04-08 02:43:00]: ERROR. [404, Level 56]: U
+[2021-04-08 02:43:01]: YelloWorlD [DogParty, Level 37]: ERROR: taser
