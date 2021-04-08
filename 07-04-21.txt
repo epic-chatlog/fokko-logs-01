@@ -11137,3 +11137,4 @@
 [2021-04-07 17:13:16]: ***  [, Level 0]: 'BULLETBOT' has left the game
 [2021-04-07 17:17:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-07 17:17:37]: ***  [, Level 0]: 'УБИВАТЬ!' has left the game
+[2021-04-07 17:19:27]: ***  [, Level 0]: 'Allah Cat' entered and joined the game
