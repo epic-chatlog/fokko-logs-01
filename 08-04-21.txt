@@ -4081,3 +4081,6 @@
 [2021-04-08 06:12:59]: ***  [, Level 0]: 'f"{self.name}"' has left the game
 [2021-04-08 06:13:07]: ***  [, Level 0]: 'Emre' has left the game
 [2021-04-08 06:13:12]: VeemID [DogParty, Level 0]: |MıssOяchiĐ|: tu date wsh
+[2021-04-08 06:13:17]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-08 06:13:18]: ***  [, Level 0]: 'LIhamylyrektaa' entered and joined the game
+[2021-04-08 06:13:23]: |MıssOяchiĐ| [, Level 0]: VeemID: att att tu me dis un truc
