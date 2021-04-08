@@ -2056,3 +2056,5 @@
 [2021-04-08 03:38:05]: Nudelsaft c: [FookinLads, Level 37]: ja
 [2021-04-08 03:38:06]: OP|Supers [DogParty, Level 39]: Nudelsaft c::  ich gib dir 20k
 [2021-04-08 03:38:07]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-08 03:38:10]: GOLD [404, Level 41]: ERROR: jz gArade
+[2021-04-08 03:38:21]: Swipez [[!FAKE!], Level 30]: rayen: my money
