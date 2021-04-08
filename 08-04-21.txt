@@ -2220,3 +2220,10 @@
 [2021-04-08 03:58:58]: CKA3A4NIK[NR] [Night Raid, Level 35]: help pls
 [2021-04-08 03:58:59]: ***  [, Level 0]: 'ビール|Zero' entered and joined the game
 [2021-04-08 03:59:20]: ***  [h���, Level 0]: 'HeavyGeneral' entered and joined the game
+[2021-04-08 03:59:27]: bob [Legacy™, Level 36]: hello sir
+[2021-04-08 03:59:28]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-08 03:59:29]: ***  [, Level 0]: 'gian x' has left the game
+[2021-04-08 03:59:31]: ***  [, Level 0]: 'ビール|Zero' has left the game
+[2021-04-08 03:59:32]: CKA3A4NIK[NR] [Night Raid, Level 35]: Clown with full
+[2021-04-08 03:59:32]: ***  [, Level 0]: 'ビール|Zero' entered and joined the game
+[2021-04-08 03:59:33]: ERROR [404, Level 74]: nice
