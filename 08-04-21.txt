@@ -2201,3 +2201,8 @@
 [2021-04-08 03:57:19]: ***  [, Level 0]: '(1)Котяра' has left the game (Timeout)
 [2021-04-08 03:57:22]: JxK|JoK'Air [, Level 0]: bob: who ?
 [2021-04-08 03:57:26]: bob [Legacy™, Level 36]: yellow and swipe
+[2021-04-08 03:57:31]: Kong [[_Any %_], Level 0]: help
+[2021-04-08 03:57:31]: JxK|JoK'Air [, Level 0]: bob: idk lol
+[2021-04-08 03:57:32]: Swipez [[!FAKE!], Level 30]: bob: bc idk who are u D:
+[2021-04-08 03:57:39]: ***  [, Level 0]: ERROR is on a killing spree with 5 blocks
+[2021-04-08 03:57:40]: Kong [[_Any %_], Level 0]: ?
