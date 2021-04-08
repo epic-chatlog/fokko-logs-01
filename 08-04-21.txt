@@ -638,3 +638,7 @@
 [2021-04-08 01:14:54]: (1)Friendiship  [, Level 0]: YelloWorlD: je dois y aller
 [2021-04-08 01:14:56]: GODLIKe [u, Level 44]: Vodo4ka: look my ping nub
 [2021-04-08 01:15:06]: mamikral011 [DogParty, Level 26]: fuckkk ping :D
+[2021-04-08 01:15:13]: ***  [, Level 0]: 'GOLD' entered and joined the game
+[2021-04-08 01:15:15]: ***  [, Level 0]: 'Лимонад' entered and joined the game
+[2021-04-08 01:15:15]: mamikral011 [DogParty, Level 26]: fuckkkk ping
+[2021-04-08 01:15:19]: ***  [, Level 0]: 'Лимонад' has left the game
