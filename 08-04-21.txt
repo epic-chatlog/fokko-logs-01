@@ -331,3 +331,7 @@
 [2021-04-08 00:42:14]: Nudelsaft c: [FookinLads, Level 37]: BC|Tixnix: yes
 [2021-04-08 00:42:16]: ***  [, Level 0]: 'Shiro,' entered and joined the game
 [2021-04-08 00:42:21]: [D] BC|Tixnix [BC, Level 26]: Nudelsaft c:: er ist ein kek
+[2021-04-08 00:42:26]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-08 00:42:26]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-08 00:42:27]: Nudelsaft c: [FookinLads, Level 37]: yes u
+[2021-04-08 00:42:28]: ***  [, Level 0]: 'SkkRtz' changed name to 'Supers'
