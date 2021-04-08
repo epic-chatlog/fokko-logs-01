@@ -9340,3 +9340,6 @@
 [2021-04-08 11:22:54]:   [, Level 0]: Maatiteusz: \\Syth: zaraz cos spierdole
 [2021-04-08 11:22:56]:   [, Level 0]: Maatiteusz: \\Syth: lepiej przestac
 [2021-04-08 11:22:58]: ***  [, Level 0]: (1)kais is on a killing spree with 10 blocks
+[2021-04-08 11:23:07]: ***  [, Level 0]: 'Cosmo' has left the game
+[2021-04-08 11:23:08]: Hunter.exe [DogParty, Level 36]: NetFlix: go away or war
+[2021-04-08 11:23:11]: ***  [, Level 0]: '(1)Cosmo' has left the game
