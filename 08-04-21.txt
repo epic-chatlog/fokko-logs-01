@@ -271,3 +271,5 @@
 [2021-04-08 00:24:17]: Nudelsaft c: [FookinLads, Level 37]: gay
 [2021-04-08 00:24:27]: [D] BC|Tixnix [BC, Level 26]: ChillerDragon: scheiss huan
 [2021-04-08 00:24:39]: WarHammer [, Level 26]: ¯\_(ツ)_/¯
+[2021-04-08 00:24:53]: ***  [, Level 0]: 'Maatiteusz' finished the special race!
+[2021-04-08 00:24:57]: ERROR. [404, Level 56]: NP
