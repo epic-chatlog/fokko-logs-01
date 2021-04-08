@@ -1743,3 +1743,5 @@
 [2021-04-08 02:50:30]: ERROR. [404, Level 56]: no jump xdd
 [2021-04-08 02:50:46]: ***  [, Level 0]: 'el champeon' has left the game
 [2021-04-08 02:50:47]: (1)SAUD [, Level 19]: BC|serwan:  PEACE?
+[2021-04-08 02:51:05]: ***  [, Level 0]: 'Nidardo.' has left the game
+[2021-04-08 02:51:05]: ***  [, Level 0]: 'NidardoHD' has left the game
