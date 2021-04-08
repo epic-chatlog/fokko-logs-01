@@ -2001,3 +2001,7 @@
 [2021-04-08 03:28:42]: OP|Supers [DogParty, Level 39]: power:  u f
 [2021-04-08 03:29:01]: OP|Supers [DogParty, Level 39]: power:
 [2021-04-08 03:29:03]: OP|Supers [DogParty, Level 39]: power:  come
+[2021-04-08 03:29:06]: power [TrRShClNrRs, Level 0]: ye?
+[2021-04-08 03:29:07]: OP|Supers [DogParty, Level 39]: for a sec
+[2021-04-08 03:29:14]: OP|Supers [DogParty, Level 39]: look
+[2021-04-08 03:29:17]: OP|Supers [DogParty, Level 39]: xD
