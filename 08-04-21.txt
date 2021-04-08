@@ -1804,3 +1804,6 @@
 [2021-04-08 03:02:00]: \\Syth [[!FAKE!], Level 30]: toxicdadd: u remember me?
 [2021-04-08 03:02:02]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-08 03:02:03]: bruh [, Level 0]: [D] BC|Tixnix:  pls help
+[2021-04-08 03:02:05]: Shroom [, Level 0]: 7SPEC
+[2021-04-08 03:02:13]: ***  [, Level 0]: 'S Y T H N' changed name to '(1)tee'
+[2021-04-08 03:02:14]: restart [, Level 12]: NO
