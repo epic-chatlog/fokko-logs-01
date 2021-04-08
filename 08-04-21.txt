@@ -220,3 +220,7 @@
 [2021-04-08 00:18:51]: WarHammer [, Level 0]: ¯\_(ツ)_/¯
 [2021-04-08 00:18:51]: (1)Friendiship  [, Level 0]: ChillerDragon:
 [2021-04-08 00:18:56]: ERROR. [404, Level 56]: .o
+[2021-04-08 00:18:58]: ERROR. [404, Level 56]: o.o
+[2021-04-08 00:19:02]: (1)Friendiship  [, Level 0]: ChillerDragon.*:
+[2021-04-08 00:19:04]: ***  [, Level 0]: 'restart' entered and joined the game
+[2021-04-08 00:19:09]: ChillerDragon [Chilli.*, Level 44]: dont ping me Friendiship ;-) i see u
