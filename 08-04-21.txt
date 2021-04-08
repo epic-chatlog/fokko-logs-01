@@ -12880,3 +12880,7 @@
 [2021-04-08 16:26:30]: Hunter.exe [DogParty, Level 36]: S Y T H N: matteo is enemy
 [2021-04-08 16:26:35]: Hunter.exe [DogParty, Level 36]: S Y T H N: er ist freund
 [2021-04-08 16:26:36]: Hunter.exe [DogParty, Level 36]: S Y T H N: save
+[2021-04-08 16:26:40]: S Y T H N [DogParty, Level 37]: und du killst alle meine freunde wtf
+[2021-04-08 16:26:47]: Hunter.exe [DogParty, Level 36]: S Y T H N: jo
+[2021-04-08 16:26:48]: iMxtteo [, Level 26]: ???
+[2021-04-08 16:26:49]: iMxtteo [, Level 26]: xd
