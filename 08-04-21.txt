@@ -9285,3 +9285,8 @@
 [2021-04-08 11:20:00]: Nonoh [citrom, Level 40]: xd
 [2021-04-08 11:20:05]: sun.slow(y) [FookinLads, Level 35]: Woona: aslm
 [2021-04-08 11:20:11]: ***  [, Level 0]: 'KoalasSindCool' has left the game
+[2021-04-08 11:20:14]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
+[2021-04-08 11:20:14]: ***  [, Level 0]: 'Miguilim' entered and joined the game
+[2021-04-08 11:20:16]:   [, Level 0]: Maatiteusz: \\Syth: czemu on cie zajebal xD
+[2021-04-08 11:20:17]: GODLIKe [u, Level 44]: sun.slow(y): la sen baya türkçe biliyon
+[2021-04-08 11:20:23]: sun.slow(y) [FookinLads, Level 35]: GODLIKe: evet
