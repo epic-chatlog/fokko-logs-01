@@ -6665,3 +6665,8 @@
 [2021-04-08 08:58:49]:   [, Level 0]: CKA3A4NIK[NR]: any:
 [2021-04-08 08:58:53]:   [, Level 0]: CKA3A4NIK[NR]: weqe:  come on so I don’t help you and I don’t kill you and you me too?
 [2021-04-08 08:58:53]: Hunter.exe [DogParty, Level 36]: weqe: like we can be good
+[2021-04-08 08:58:57]: ***  [, Level 0]: 'Akira' has left the game
+[2021-04-08 08:58:57]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 08:59:02]: Hunter.exe [DogParty, Level 36]: weqe: if not you will get killed
+[2021-04-08 08:59:07]: weqe [MNKY, Level 12]: Hunter.exe: stop
+[2021-04-08 08:59:08]: weqe [MNKY, Level 12]: pls
