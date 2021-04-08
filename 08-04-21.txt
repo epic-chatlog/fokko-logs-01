@@ -4509,3 +4509,10 @@
 [2021-04-08 06:50:28]: YelloWorlD [DogParty, Level 37]: Foxie♥: nei
 [2021-04-08 06:50:30]: ***  [, Level 0]: 'toxicdadd' entered and joined the game
 [2021-04-08 06:50:32]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 06:50:34]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 06:50:36]:   [, Level 0]: bob: weqe: brother nice quit
+[2021-04-08 06:50:36]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 06:50:39]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 06:50:39]: Foxie♥ [♥, Level 0]: plis YelloWorlD
+[2021-04-08 06:50:43]: weqe [MNKY, Level 12]: bob: come help
+[2021-04-08 06:50:45]: ***  [, Level 0]: 'DraKlY_Cloud' entered and joined the game
