@@ -316,3 +316,4 @@
 [2021-04-08 00:40:28]: ***  [, Level 0]: 'SkkRtz' entered and joined the game
 [2021-04-08 00:40:33]: ERROR. [404, Level 56]: ok das neu
 [2021-04-08 00:40:36]: ERROR. [404, Level 56]: nö
+[2021-04-08 00:40:56]: resart [, Level 5]: Maatiteusz:  HELP
