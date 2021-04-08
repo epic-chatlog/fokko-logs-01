@@ -4611,3 +4611,5 @@
 [2021-04-08 06:56:37]: ***  [, Level 0]: '[D] Deadmouse' has left the game (Timeout)
 [2021-04-08 06:56:37]: ***  [, Level 0]: 'WarHammer' would have timed out, but can use timeout protection now
 [2021-04-08 06:56:41]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
+[2021-04-08 06:56:50]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-08 06:56:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
