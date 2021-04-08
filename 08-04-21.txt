@@ -1903,3 +1903,6 @@
 [2021-04-08 03:18:29]: (1)SAUD [, Level 19]: OP|Supers:  m
 [2021-04-08 03:18:33]: OP|Supers [DogParty, Level 0]: SAUD:  joke
 [2021-04-08 03:18:36]: OP|Supers [DogParty, Level 0]: SAUD:  x7 is in pause
+[2021-04-08 03:18:40]: (1)SAUD [, Level 19]: why
+[2021-04-08 03:18:41]: OP|Supers [DogParty, Level 0]: x7 doesnt exist anymore
+[2021-04-08 03:18:49]: ***  [, Level 0]: [D] BC|serwan is on a killing spree with 5 blocks
