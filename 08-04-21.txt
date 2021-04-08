@@ -3560,3 +3560,8 @@
 [2021-04-08 05:25:14]: ***  [, Level 0]: '(1)УБИВАТЬ!' entered and joined the game
 [2021-04-08 05:25:20]: (1)OP|Supers [DogParty, Level 39]: Boti.:  EZ
 [2021-04-08 05:25:27]: Boti. [.bad, Level 33]: what do you think of your dad quit tw?
+[2021-04-08 05:25:31]: ***  [, Level 0]: '\(^-^)/' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 05:25:32]: ***  [, Level 0]: '(2)УБИВАТЬ!' entered and joined the game
+[2021-04-08 05:25:32]: \\Syth [[!FAKE!], Level 30]: wtf
+[2021-04-08 05:25:33]: (1)OP|Supers [DogParty, Level 39]: WHO MY DED
+[2021-04-08 05:25:41]: Boti. [.bad, Level 33]: u
