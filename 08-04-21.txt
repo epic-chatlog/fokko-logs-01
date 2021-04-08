@@ -10839,3 +10839,6 @@
 [2021-04-08 12:37:04]: YelloWorlD [DogParty, Level 41]: any: MUTE wtf
 [2021-04-08 12:37:10]: ***  [, Level 0]: 'Yodef' has left the game
 [2021-04-08 12:37:11]: ***  [, Level 0]: 'Axel ²' entered and joined the game
+[2021-04-08 12:37:15]: ***  [, Level 0]: 'Yodef' entered and joined the game
+[2021-04-08 12:37:20]:   [, Level 0]: MUTE: YelloWorlD: hes GReeeN's dog helper
+[2021-04-08 12:37:20]:   [, Level 0]: any²: YelloWorlD: il me war jsp pk x))
