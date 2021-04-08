@@ -1656,3 +1656,4 @@
 [2021-04-08 02:40:56]: ***  [, Level 0]: 'weqe' has left the game
 [2021-04-08 02:41:09]: ***  [, Level 0]: 'NidardoHD' entered and joined the game
 [2021-04-08 02:41:40]: ERROR. [404, Level 56]: xD
+[2021-04-08 02:41:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
