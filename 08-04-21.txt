@@ -11661,3 +11661,5 @@
 [2021-04-08 13:38:48]: ERROR. [404, Level 56]: will ath weiter probieren bitte
 [2021-04-08 13:39:11]: ERROR. [404, Level 56]: vpn wie soll das denn funken du schlauer fuchs
 [2021-04-08 13:39:14]: ***  [, Level 0]: 'el champeon' entered and joined the game
+[2021-04-08 13:39:20]: Kaptar [, Level 0]: Zephir™: Entièrement le cas, sauf que tu galère/t'a pas réussi à m'éclate aussi rapidement que le bot
+[2021-04-08 13:39:23]: ERROR. [404, Level 56]: dann sind die 4 weg sobald ich anschalte.
