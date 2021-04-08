@@ -951,3 +951,4 @@
 [2021-04-08 01:38:30]: ***  [, Level 0]: Maatiteusz finished in: 1 minute(s)  3.24 second(s)
 [2021-04-08 01:38:31]: YelloWorlD [DogParty, Level 37]: VeemID: c pour que le clan soit affiché en haut de ton pseudo
 [2021-04-08 01:38:40]: [2] VeemID [DogParty, Level 0]: YelloWorlD: aaaah
+[2021-04-08 01:38:42]: OP|Supers [DogParty, Level 39]: xd
