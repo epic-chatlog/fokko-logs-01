@@ -5116,3 +5116,6 @@
 [2021-04-08 07:27:44]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-08 07:27:50]:   [, Level 0]: ✰: rq
 [2021-04-08 07:27:52]: GOLD [404, Level 40]: ChillerDragon: when u are u can delete msg etc
+[2021-04-08 07:27:53]:   [, Level 0]: Warrior: rq
+[2021-04-08 07:28:01]: ***  [, Level 0]: 'pierre503' entered and joined the game
+[2021-04-08 07:28:06]: (3)ChillerDrago [|*KoG*|, Level 33]: u want to censor GOLD xd?
