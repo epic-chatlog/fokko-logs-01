@@ -12954,3 +12954,5 @@
 [2021-04-08 16:37:01]: Fearless [DogParty, Level 15]: Flipper:  i have ghost
 [2021-04-08 16:37:06]: Flipper [, Level 40]: how activate
 [2021-04-08 16:37:16]: Fearless [DogParty, Level 15]: press tab long and 2 shot
+[2021-04-08 16:37:18]: Fearless [DogParty, Level 15]: with pistol
+[2021-04-08 16:37:29]: ***  [, Level 0]: 'cunt' entered and joined the game
