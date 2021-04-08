@@ -6917,3 +6917,7 @@
 [2021-04-08 09:24:00]:   [, Level 0]: cookie: hmmmmmm
 [2021-04-08 09:24:01]: weqe [MNKY, Level 12]: cookie: help
 [2021-04-08 09:24:02]: iMxtteo [, Level 26]: ChillerDragon:
+[2021-04-08 09:24:07]: BC|kakashi [BC, Level 0]: cookie: dont help them
+[2021-04-08 09:24:07]: Lucas [THECEPS, Level 34]: cookie: down
+[2021-04-08 09:24:16]: ***  [, Level 0]: 'Idk' has left the game
+[2021-04-08 09:24:16]: Hunter.exe [DogParty, Level 36]: Shy-ra.: up
