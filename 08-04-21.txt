@@ -13016,3 +13016,5 @@
 [2021-04-08 16:46:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-08 16:47:20]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-08 16:47:29]: Fearless [DogParty, Level 15]: bad mne
+[2021-04-08 16:47:39]: Fearless [DogParty, Level 15]: Hunter.exe:  kuraw
+[2021-04-08 16:47:52]: Hunter.exe [DogParty, Level 36]: kuvra
