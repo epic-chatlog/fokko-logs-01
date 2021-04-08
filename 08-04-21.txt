@@ -11874,3 +11874,5 @@
 [2021-04-08 14:05:44]: ***  [, Level 0]: 'Syth' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-08 14:05:44]: ***  [, Level 0]: '4' has left the game (Timeout)
 [2021-04-08 14:05:49]: Zephir™ [, Level 39]: ERROR: gg xD
+[2021-04-08 14:06:12]: Korlan [, Level 0]: i m down
+[2021-04-08 14:06:18]: ***  [, Level 0]: 'Kirito♥' joined the spectators
