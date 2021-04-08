@@ -1900,3 +1900,6 @@
 [2021-04-08 03:18:11]: ***  [, Level 0]: 'okwendri' changed name to 'INFFII%100'
 [2021-04-08 03:18:19]: (1)SAUD [, Level 19]: OP|Supers:  ARE U x7?
 [2021-04-08 03:18:26]: OP|Supers [DogParty, Level 0]: SAUD:  yes
+[2021-04-08 03:18:29]: (1)SAUD [, Level 19]: OP|Supers:  m
+[2021-04-08 03:18:33]: OP|Supers [DogParty, Level 0]: SAUD:  joke
+[2021-04-08 03:18:36]: OP|Supers [DogParty, Level 0]: SAUD:  x7 is in pause
