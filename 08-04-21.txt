@@ -11157,3 +11157,6 @@
 [2021-04-08 13:03:37]: mamikral011 [DogParty, Level 26]: YelloWorlD: ?
 [2021-04-08 13:03:38]: any [404, Level 37]: YelloWorlD: aide Zephir™
 [2021-04-08 13:03:39]: Zephir™ [, Level 39]: YelloWorlD: wtf why ??
+[2021-04-08 13:03:45]: ***  [, Level 0]: 'fomjn' has left the game
+[2021-04-08 13:03:49]: ***  [, Level 0]: '(1)nameless tee' has left the game
+[2021-04-08 13:03:49]: ***  [, Level 0]: 'el champeon' has left the game
