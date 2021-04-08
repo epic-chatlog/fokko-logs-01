@@ -11912,3 +11912,4 @@
 [2021-04-08 14:15:48]: ***  [, Level 0]: 'Shroom' has left the game
 [2021-04-08 14:16:00]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' entered and joined the game
 [2021-04-08 14:16:05]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-08 14:16:56]: ***  [, Level 0]: 'Kirito♥' joined the spectators
