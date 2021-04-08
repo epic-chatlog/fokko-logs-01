@@ -9323,3 +9323,4 @@
 [2021-04-08 11:21:58]: \\Syth [, Level 30]: GODLIKe: noo
 [2021-04-08 11:21:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-08 11:22:03]: \\Syth [, Level 30]: GODLIKe: dont kill him
+[2021-04-08 11:22:09]: GODLIKe [u, Level 44]: \\Syth: my enemy
