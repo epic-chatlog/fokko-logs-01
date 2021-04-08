@@ -3850,3 +3850,6 @@
 [2021-04-08 05:50:21]: ***  [, Level 0]: 'Warrior' entered and joined the game
 [2021-04-08 05:50:25]: ***  [, Level 0]: 'any²' has left the game
 [2021-04-08 05:50:25]: ***  [, Level 0]: 'any' has left the game
+[2021-04-08 05:50:34]: ***  [, Level 0]: 'moonman' entered and joined the game
+[2021-04-08 05:50:38]: ***  [, Level 0]: 'kiøn1029' has left the game
+[2021-04-08 05:50:39]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
