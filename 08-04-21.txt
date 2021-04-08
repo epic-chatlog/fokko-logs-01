@@ -1751,3 +1751,4 @@
 [2021-04-08 02:51:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-08 02:52:03]: ***  [, Level 0]: '[D] NinjaGouwe' changed name to 'Koplokon'
 [2021-04-08 02:52:06]: ***  [, Level 0]: 'Shroom' entered and joined the game
+[2021-04-08 02:52:18]: any² [404, Level 0]: GOLD: >
