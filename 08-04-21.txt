@@ -385,3 +385,6 @@
 [2021-04-08 00:50:47]: ***  [, Level 0]: 'Swarfey' joined the game
 [2021-04-08 00:50:56]: ***  [, Level 0]: Supers finished in: 8 minute(s) 18.36 second(s)
 [2021-04-08 00:50:56]: ***  [, Level 0]: 'Supers' finished the special race!
+[2021-04-08 00:51:02]: ERROR. [404, Level 56]: Swarfey:  echt x7 geholt xDDD
+[2021-04-08 00:51:06]: Swarfey [FookinLads, Level 60]: xD
+[2021-04-08 00:51:11]: ***  [, Level 0]: 'SAUD' entered and joined the game
