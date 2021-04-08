@@ -10717,3 +10717,6 @@
 [2021-04-08 12:28:36]:   [, Level 0]: ♥TAKO♥: f"{self.name}":  byeeeeeeeeeeeeee <333
 [2021-04-08 12:28:38]:   [, Level 0]: Falco641: any²: i helped you?
 [2021-04-08 12:28:38]: ***  [, Level 0]: Hunter.exe is on a killing spree with 10 blocks
+[2021-04-08 12:28:43]: ***  [, Level 0]: '♥TAKO♥' has left the game
+[2021-04-08 12:28:45]:   [, Level 0]: Falco641: bruh
+[2021-04-08 12:28:46]: Kirito♥ [♥, Level 40]: Hunter.exe:  ty
