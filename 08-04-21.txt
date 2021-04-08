@@ -10585,3 +10585,7 @@
 [2021-04-08 12:20:47]: Nonoh [citrom, Level 40]: iMxtteo: dude
 [2021-04-08 12:20:50]: ***  [, Level 0]: 'Geisel' entered and joined the game
 [2021-04-08 12:20:50]: ***  [, Level 0]: 'Geisel' has left the game
+[2021-04-08 12:21:14]: ***  [, Level 0]: 'Kezo' joined the spectators
+[2021-04-08 12:21:17]: ***  [, Level 0]: 'Kezo' joined the game
+[2021-04-08 12:21:20]: [D] BC|Tixnix [BC, Level 0]: any²: ? :(
+[2021-04-08 12:21:21]: Syth [, Level 30]: (1)cookie: im going to up
