@@ -11092,3 +11092,5 @@
 [2021-04-08 12:53:06]: ***  [, Level 0]: 'hunter.exe' has left the game
 [2021-04-08 12:53:17]: ERROR [404, Level 74]: I like turtles.
 [2021-04-08 12:53:18]: ERROR [404, Level 74]: ?
+[2021-04-08 12:53:21]: Zephir™ [, Level 39]: XD
+[2021-04-08 12:53:22]: ERROR [404, Level 74]: xD
