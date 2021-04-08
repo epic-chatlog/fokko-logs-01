@@ -11429,3 +11429,5 @@
 [2021-04-07 22:51:30]: x7|KshKsh99 [xSD7, Level 37]: XD
 [2021-04-07 22:51:59]: (2)SAUD [, Level 14]: HardreenClutch:
 [2021-04-07 22:52:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-07 22:52:16]: (2)SAUD [, Level 14]: HardreenClutch:  do u have extra money?
+[2021-04-07 22:52:18]: ***  [, Level 0]: 'Shiro.' entered and joined the game
