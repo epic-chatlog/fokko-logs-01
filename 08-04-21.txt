@@ -3122,3 +3122,6 @@
 [2021-04-08 04:52:45]: ***  [h���, Level 0]: 'sun.slow(y)' has left the game
 [2021-04-08 04:52:49]: (1)Котяра [, Level 13]: rrк
 [2021-04-08 04:53:02]: Supers [ᅟᅟᅟ, Level 8]: [D] x7|cya:  ok
+[2021-04-08 04:53:05]: ***  [h���, Level 0]: 'YelloWorlD' has left the game
+[2021-04-08 04:53:09]: Supers [ᅟᅟᅟ, Level 8]: [D] x7|cya:  for a sek i need to trust you
+[2021-04-08 04:53:18]: OP|Supers [DogParty, Level 39]: [D] x7|cya:  go in
