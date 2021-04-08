@@ -10902,3 +10902,4 @@
 [2021-04-08 12:41:34]: ***  [, Level 0]: YelloWorlD is on a killing spree with 5 blocks
 [2021-04-08 12:41:40]: Zephir™ [, Level 39]: tschu:
 [2021-04-08 12:41:40]: GReeeN [, Level 0]: YelloWorlD:  dude he block me afk
+[2021-04-08 12:41:45]: Hunter.exe [DogParty, Level 36]: ERROR: DIGGA
