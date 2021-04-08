@@ -10549,3 +10549,10 @@
 [2021-04-08 12:18:43]: ***  [, Level 0]: 'BedPool' has left the game
 [2021-04-08 12:18:44]:   [, Level 0]: Fearless: Hunter.exe:  bruh i cant buy cause paypal is gay
 [2021-04-08 12:18:47]: [D] BC|Tixnix [BC, Level 0]: any:
+[2021-04-08 12:18:52]: s6_sven [, Level 21]: toxicdaddy: ?
+[2021-04-08 12:18:53]: Falco642 [, Level 0]: stfu
+[2021-04-08 12:18:56]:   [, Level 0]: [D] MNKY | Arin: f"{self.name}":  war
+[2021-04-08 12:18:57]: Syth [, Level 30]: Hunter.exe: im good no
+[2021-04-08 12:18:59]:   [, Level 0]: [D] MNKY | Arin: f"{self.name}":  WAr4life
+[2021-04-08 12:19:00]:   [, Level 0]: MieSlime: any:  nul
+[2021-04-08 12:19:00]: [D] mamikral011 [DogParty, Level 21]: f"{self.name}": thank
