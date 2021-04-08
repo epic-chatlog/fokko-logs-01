@@ -1798,3 +1798,5 @@
 [2021-04-08 03:00:33]: ***  [, Level 0]: 'Shroom' finished the special race!
 [2021-04-08 03:00:49]: Lucas [THECEPS, Level 34]: bruh: bruh
 [2021-04-08 03:00:55]: ***  [, Level 0]: GOLD is on a killing spree with 10 blocks
+[2021-04-08 03:01:11]: ***  [, Level 0]: 'ddddd' entered and joined the game
+[2021-04-08 03:01:16]: rayen [, Level 0]: [D] BC|Tixnix:  HELP PLS
