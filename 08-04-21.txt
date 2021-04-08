@@ -3268,3 +3268,8 @@
 [2021-04-08 05:02:42]: ***  [hýÿÿ, Level 0]: '(1)flappy' changed name to 'x7|Flipper'
 [2021-04-08 05:02:52]: (1)OP|Supers [DogParty, Level 0]: x7|Flipper:  come disc
 [2021-04-08 05:02:59]: x7|Flipper [xSD7, Level 14]: wait
+[2021-04-08 05:03:09]: ***  [hýÿÿ, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-08 05:03:13]: x7|Flipper [xSD7, Level 14]: everyone is sleeping its 8am
+[2021-04-08 05:03:14]: ***  [hýÿÿ, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-08 05:03:15]: MieSlime [FookinLads, Level 43]: OP|Supers:  oh so u are [D] x7|cya  okkk war4life lol
+[2021-04-08 05:03:20]: (1)OP|Supers [DogParty, Level 0]: no
