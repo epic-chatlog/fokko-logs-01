@@ -1477,3 +1477,8 @@
 [2021-04-08 02:21:48]: ***  [, Level 0]: 'weqe' has left the game
 [2021-04-08 02:21:49]: x7|zemer [xSD7, Level 37]: Vodo4ka: Stop idiot
 [2021-04-08 02:21:51]: [D] x7|cya [xSD7, Level 39]: xD
+[2021-04-08 02:21:55]: Vodo4ka [JB.st, Level 41]: x7|zemer: u not in x7
+[2021-04-08 02:21:56]: [D] x7|cya [xSD7, Level 39]: ty
+[2021-04-08 02:21:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-08 02:22:00]: x7|zemer [xSD7, Level 37]: Vodo4ka: I am
+[2021-04-08 02:22:03]: Vodo4ka [JB.st, Level 41]: x7|zemer: em not
