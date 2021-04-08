@@ -3647,3 +3647,5 @@
 [2021-04-08 05:32:49]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
 [2021-04-08 05:32:56]: GReeeN [, Level 0]: x7|sven:  need to kill you
 [2021-04-08 05:33:01]: [2] VeemID [DogParty, Level 26]: GReeeN:
+[2021-04-08 05:33:09]: ***  [, Level 0]: 'nameless tee' has left the game (Timeout)
+[2021-04-08 05:33:13]: Kiøn1029 [.bad, Level 31]: de
