@@ -1077,3 +1077,7 @@
 [2021-04-08 01:50:38]: ***  [, Level 0]: '(1)zemer' has left the game
 [2021-04-08 01:50:46]: zemer [xSD7, Level 37]: x7|cya:
 [2021-04-08 01:50:49]: zemer [xSD7, Level 37]: [D] x7|cya:
+[2021-04-08 01:50:55]: zemer [xSD7, Level 37]: bruh:
+[2021-04-08 01:51:04]: ***  [, Level 0]: OP|Supers's killing spree was ended by MieSlime (5 blocks)
+[2021-04-08 01:51:05]: zemer [xSD7, Level 37]: (1)ChillerDrago:
+[2021-04-08 01:51:05]: (1)ChillerDrago [|*KoG*|, Level 32]: zemer: I am currently afk.
