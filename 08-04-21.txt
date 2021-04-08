@@ -4781,3 +4781,6 @@
 [2021-04-08 07:07:17]: power [TrRShClNrRs, Level 0]: bvye Shroom :c
 [2021-04-08 07:07:17]: ***  [, Level 0]: '(1)P4Pyr0s' entered and joined the game
 [2021-04-08 07:07:20]: ŞΜƗŦĦ [DogParty, Level 14]: ...
+[2021-04-08 07:07:36]: ***  [, Level 0]: 'Kirito♥' joined the spectators
+[2021-04-08 07:07:40]: ***  [, Level 0]: 'Kirito♥' joined the game
+[2021-04-08 07:07:42]:   [, Level 0]: Kirito♥: kais: ok
