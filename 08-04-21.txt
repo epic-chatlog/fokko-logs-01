@@ -11231,3 +11231,7 @@
 [2021-04-08 13:10:15]: mamikral011 [DogParty, Level 26]: (1)cookie: help
 [2021-04-08 13:10:27]: (1)cookie [, Level 2]: mamikral011:  come hear
 [2021-04-08 13:10:29]: Zephir™ [, Level 39]: GOLD: why u always attack me ?
+[2021-04-08 13:10:46]: GOLD [404, Level 40]: Zephir™: random
+[2021-04-08 13:10:49]: ***  [, Level 0]: 'fameless tea' has left the game
+[2021-04-08 13:10:49]: mamikral011 [DogParty, Level 26]: (1)cookie: thank
+[2021-04-08 13:10:52]: (1)cookie [, Level 2]: now jetpack you have
