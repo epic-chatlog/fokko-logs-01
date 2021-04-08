@@ -5489,3 +5489,5 @@
 [2021-04-08 07:56:02]:   [, Level 0]: Flipper: kezo
 [2021-04-08 07:56:02]: ᅟ [DogParty, Level 36]: YelloWorlD:  dummy
 [2021-04-08 07:56:03]:   [, Level 0]: Flipper: ?
+[2021-04-08 07:56:15]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-08 07:56:18]: Niemand [Muhaha!, Level 0]: hellllllllllllllllp
