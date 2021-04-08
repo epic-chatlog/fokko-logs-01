@@ -12353,3 +12353,5 @@
 [2021-04-08 15:16:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-08 15:17:06]: ***  [, Level 0]: 'bombele' has left the game
 [2021-04-08 15:17:08]: ***  [, Level 0]: 'bombele' entered and joined the game
+[2021-04-08 15:17:30]: ***  [, Level 0]: 'bombele' has left the game
+[2021-04-08 15:17:32]: ***  [, Level 0]: 'bombele' entered and joined the game
