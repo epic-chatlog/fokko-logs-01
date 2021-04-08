@@ -1723,3 +1723,4 @@
 [2021-04-08 02:46:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-08 02:47:09]: any [404, Level 42]: ERROR: YelloWorlD >
 [2021-04-08 02:47:11]: ERROR. [404, Level 56]: interrupt
+[2021-04-08 02:47:22]: ***  [, Level 0]: 'el champeon' entered and joined the game
