@@ -4969,3 +4969,6 @@
 [2021-04-08 07:18:11]: ***  [, Level 0]: 'partee' has left the game
 [2021-04-08 07:18:19]: ***  [, Level 0]: 'prankstar' entered and joined the game
 [2021-04-08 07:18:20]: Falco642 [, Level 0]: CeoOfAdmin: i wasnt even targetting you at 1st, you were getting in the way and you started blocking me
+[2021-04-08 07:18:45]: ***  [, Level 0]: YelloWorlD is on a killing spree with 10 blocks
+[2021-04-08 07:18:47]: ***  [, Level 0]: 'power' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 07:18:53]: YelloWorlD [DogParty, Level 37]: Loga: ok
