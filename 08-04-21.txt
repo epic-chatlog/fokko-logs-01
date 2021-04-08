@@ -10278,3 +10278,8 @@
 [2021-04-08 12:03:50]: ***  [, Level 0]: 'Shroom' has left the game
 [2021-04-08 12:04:00]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-08 12:04:03]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-08 12:04:08]: ***  [, Level 0]: 'S Y T H N' changed name to 'Λtlantis Ψ'
+[2021-04-08 12:04:08]: nameless tee [, Level 0]: That one there was a violation personally I wouldn't have it
+[2021-04-08 12:04:10]: Falco642 [, Level 0]: xd
+[2021-04-08 12:04:16]: ***  [, Level 0]: 'f"{self.na84151' entered and joined the game
+[2021-04-08 12:04:17]: mamikral011 [DogParty, Level 26]: Λtlantis Ψ: off f:D
