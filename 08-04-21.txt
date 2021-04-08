@@ -243,3 +243,5 @@
 [2021-04-08 00:21:01]: ERROR. [404, Level 56]: xDDDDDDDDDDDDDDDDDD
 [2021-04-08 00:21:10]: ***  [, Level 0]: 'Damon' has left the game
 [2021-04-08 00:21:26]: ChillerDragon [|*KoG*|, Level 44]: wie peinlich alles auf yt
+[2021-04-08 00:21:31]: ERROR. [404, Level 56]: ChillerDragon:  xdddddddddddddddd
+[2021-04-08 00:21:32]: Nudelsaft c: [FookinLads, Level 37]: xd
