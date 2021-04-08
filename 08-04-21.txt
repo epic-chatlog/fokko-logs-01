@@ -772,3 +772,6 @@
 [2021-04-08 01:24:42]: [D] mamikral011 [DogParty, Level 0]: YelloWorlD:
 [2021-04-08 01:24:44]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-08 01:24:47]: ***  [, Level 0]: '(1)SAUD' entered and joined the game
+[2021-04-08 01:24:56]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 51.80 second(s)
+[2021-04-08 01:24:57]: ***  [, Level 0]: Vodo4ka finished in: 0 minute(s) 53.00 second(s)
+[2021-04-08 01:25:00]: VeemID [DogParty, Level 0]: YelloWorlD: c'est bon
