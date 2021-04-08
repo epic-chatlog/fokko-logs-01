@@ -11862,3 +11862,6 @@
 [2021-04-08 14:04:14]: ***  [, Level 0]: toxicdaddy is on a killing spree with 10 blocks
 [2021-04-08 14:04:16]: Zephir™ [, Level 39]: 4: u war error ?
 [2021-04-08 14:04:22]: 4 [, Level 0]: no
+[2021-04-08 14:04:34]: ***  [, Level 0]: 'Allah Cat' has left the game
+[2021-04-08 14:04:36]: ERROR. [404, Level 56]: das sieht doch gut aus
+[2021-04-08 14:04:40]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
