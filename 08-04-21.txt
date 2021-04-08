@@ -5886,3 +5886,6 @@
 [2021-04-08 08:23:41]: ***  [, Level 0]: 'Shiro.' entered and joined the game
 [2021-04-08 08:23:42]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-08 08:23:44]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 08:24:01]: ***  [, Level 0]: 'Foxi♥' has left the game
+[2021-04-08 08:24:01]: ***  [, Level 0]: 'Foxie♥' has left the game
+[2021-04-08 08:24:05]: MieSlime [FookinLads, Level 43]: Kaptar:  save moi
