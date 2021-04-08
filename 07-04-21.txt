@@ -11433,3 +11433,5 @@
 [2021-04-07 22:52:18]: ***  [, Level 0]: 'Shiro.' entered and joined the game
 [2021-04-07 22:52:54]: ***  [, Level 0]: 'Shiro,' entered and joined the game
 [2021-04-07 22:52:58]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-07 22:53:27]: x7|KshKsh99 [xSD7, Level 37]: (2)SAUD: tra begon 2 portal
+[2021-04-07 22:53:32]: x7|KshKsh99 [xSD7, Level 37]: (2)SAUD: e4a m3k floos r7
