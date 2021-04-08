@@ -910,3 +910,7 @@
 [2021-04-08 01:34:57]: ***  [, Level 0]: '[D] mamikral011' has left the game (Timeout)
 [2021-04-08 01:34:57]: ***  [, Level 0]: 'mamikral011' has left the game (Timeout)
 [2021-04-08 01:35:03]: SAUD [, Level 24]: NOOOOO
+[2021-04-08 01:35:17]: SAUD [, Level 24]: resart:  hp;dd
+[2021-04-08 01:35:21]: SAUD [, Level 24]: resart:  hold D
+[2021-04-08 01:35:23]: Maatiteusz [TrRShClNrRs, Level 35]: ERROR: Lmao
+[2021-04-08 01:35:26]: VeemID [DogParty, Level 26]: YelloWorlD: on a pas un truc a mettre dans nos pseudo pour dire qu'on est dans le meme clan ?
