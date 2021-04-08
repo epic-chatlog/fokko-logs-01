@@ -11336,3 +11336,6 @@
 [2021-04-08 13:16:56]: Kezo [DogParty, Level 41]: GReeeN: stfu
 [2021-04-08 13:16:58]: GReeeN [, Level 0]: YelloWorlD:  Kezo  blockt clanmate
 [2021-04-08 13:16:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-08 13:17:06]: GOLD [404, Level 40]: ERROR: whjoazea
+[2021-04-08 13:17:07]: GReeeN [, Level 0]: mamikral011:  now you can help me
+[2021-04-08 13:17:17]: ERROR. [404, Level 56]: talk normal to me GOLD
