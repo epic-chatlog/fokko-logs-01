@@ -10897,3 +10897,8 @@
 [2021-04-08 12:41:13]:   [, Level 0]: any²: YelloWorlD: dit lui d'aretter
 [2021-04-08 12:41:27]: YelloWorlD [DogParty, Level 41]: Kezo: stop block any
 [2021-04-08 12:41:29]:   [, Level 0]: Kezo: GReeeN: stop or die ?
+[2021-04-08 12:41:32]: ***  [, Level 0]: ERROR's killing spree was ended by __init__(self): (5 blocks)
+[2021-04-08 12:41:32]: __init__(self): [, Level 0]: Falco641:
+[2021-04-08 12:41:34]: ***  [, Level 0]: YelloWorlD is on a killing spree with 5 blocks
+[2021-04-08 12:41:40]: Zephir™ [, Level 39]: tschu:
+[2021-04-08 12:41:40]: GReeeN [, Level 0]: YelloWorlD:  dude he block me afk
