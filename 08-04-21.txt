@@ -6571,3 +6571,5 @@
 [2021-04-08 08:53:24]: ***  [, Level 0]: '[D] Deadmouse' would have timed out, but can use timeout protection now
 [2021-04-08 08:53:28]: УБИВАТЬ! [, Level 0]: Flipper: why?
 [2021-04-08 08:53:30]: BC|Tixnix [BC, Level 34]: any: NO GO TO SUPER ROMM AND I KILING
+[2021-04-08 08:53:41]: ***  [, Level 0]: '[D] \\Syth' entered and joined the game
+[2021-04-08 08:53:43]: Cyloxᅟ [♥, Level 30]: xd
