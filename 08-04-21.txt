@@ -12374,3 +12374,4 @@
 [2021-04-08 15:23:00]: Fearless [DogParty, Level 40]: no
 [2021-04-08 15:23:01]: ***  [, Level 0]: 'Killua' entered and joined the game
 [2021-04-08 15:23:08]: Fearless [DogParty, Level 40]: ok man
+[2021-04-08 15:23:20]: Fearless [DogParty, Level 40]: DiscordBridge:  nigger error
