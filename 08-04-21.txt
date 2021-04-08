@@ -11846,3 +11846,4 @@
 [2021-04-08 14:01:24]: ***  [, Level 0]: '[D] Syth' has left the game
 [2021-04-08 14:01:34]: [D] ♥TAKO♥ [, Level 0]: stop and wait
 [2021-04-08 14:01:40]: ***  [, Level 0]: '(3)lol' entered and joined the game
+[2021-04-08 14:01:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
