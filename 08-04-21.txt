@@ -1829,3 +1829,9 @@
 [2021-04-08 03:06:35]: MieSlime [FookinLads, Level 43]: ERROR:  stop
 [2021-04-08 03:06:40]: MieSlime [FookinLads, Level 43]: ERROR:  not ur war
 [2021-04-08 03:06:45]: ERROR [404, Level 74]: GOLD:
+[2021-04-08 03:06:53]: ***  [, Level 0]: 'Rem's dummy' entered and joined the game
+[2021-04-08 03:06:55]: MieSlime [FookinLads, Level 43]: tee:  bah
+[2021-04-08 03:06:59]: Warrior [, Level 24]: laaaaaaaaaa
+[2021-04-08 03:06:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-08 03:07:00]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-08 03:07:00]: Warrior [, Level 24]: g
