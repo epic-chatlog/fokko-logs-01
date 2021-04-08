@@ -11777,3 +11777,7 @@
 [2021-04-08 13:53:15]: ***  [, Level 0]: 'Kaptar' left the minigame 'Block'
 [2021-04-08 13:53:17]: Kirito♥ [♥, Level 40]: ERROR: dürfen wir jz?
 [2021-04-08 13:53:20]: ERROR. [404, Level 56]: jop
+[2021-04-08 13:53:23]: Kaptar [, Level 0]: Zephir™: je te retrouve sur le champ bataille
+[2021-04-08 13:53:25]: toxicdaddy [, Level 27]: ow
+[2021-04-08 13:53:27]: ***  [, Level 0]: 'Zephir™' left the minigame 'Block'
+[2021-04-08 13:53:30]: [D] ♥TAKO♥ [, Level 0]: Marcisten:  nooo
