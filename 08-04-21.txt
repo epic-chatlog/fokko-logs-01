@@ -822,3 +822,8 @@
 [2021-04-08 01:29:05]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-08 01:29:05]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-08 01:29:06]: VeemID [DogParty, Level 0]: GOLD: vous etes avc chillerdragon ou pas ?
+[2021-04-08 01:29:08]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 27.60 second(s)
+[2021-04-08 01:29:08]: ***  [, Level 0]: New record:  1.56 second(s) better.
+[2021-04-08 01:29:09]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-08 01:29:15]: YelloWorlD [DogParty, Level 37]: VeemID: il pas dans mon clan
+[2021-04-08 01:29:16]: ***  [, Level 0]: 'toxicdaddy' entered and joined the game
