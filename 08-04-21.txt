@@ -6905,3 +6905,6 @@
 [2021-04-08 09:23:04]: WarHammer [, Level 0]: SYTHN
 [2021-04-08 09:23:05]: Hunter.exe [DogParty, Level 36]: weqe: seriously?
 [2021-04-08 09:23:12]:   [, Level 0]: falkenauge: [D] BC|kakashi: komm
+[2021-04-08 09:23:20]: weqe [MNKY, Level 12]: Hunter.exe: what
+[2021-04-08 09:23:21]: ***  [, Level 0]: 'WarHammer'' has left the game
+[2021-04-08 09:23:23]: Hunter.exe [DogParty, Level 36]: weqe: you block me?
