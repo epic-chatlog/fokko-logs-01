@@ -11714,3 +11714,7 @@
 [2021-04-08 13:43:44]: ERROR [404, Level 74]: nothing wtf xDDD
 [2021-04-08 13:43:51]: ***  [, Level 0]: 'Zyver' has left the game
 [2021-04-08 13:44:00]: ***  [, Level 0]: Kaptar's killing spree was ended by Zephir™ (5 blocks)
+[2021-04-08 13:44:05]: ***  [, Level 0]: 'WhiteKitty' entered and joined the game
+[2021-04-08 13:44:08]: [D] Ambah [, Level 0]: ok wow flappy is a bitch
+[2021-04-08 13:44:10]: ERROR. [404, Level 56]: FLAPPY is bae
+[2021-04-08 13:44:12]: Cassie [, Level 0]: [D] Ambah: bitch
