@@ -8651,3 +8651,9 @@
 [2021-04-08 10:46:47]: iMxtteo [, Level 26]: Hunter.exe: und?
 [2021-04-08 10:46:50]: ***  [, Level 0]: Meetiteusz finished in: 3 minute(s) 12.40 second(s)
 [2021-04-08 10:46:54]: [D] Hunter.exe [DogParty, Level 25]: iMxtteo: rein mit denen?
+[2021-04-08 10:46:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-08 10:46:59]: Nonoh [citrom, Level 40]: any:
+[2021-04-08 10:47:01]: iMxtteo [, Level 26]: Hunter.exe: ich denke nicht
+[2021-04-08 10:47:02]: [D] mamikral011 [DogParty, Level 21]: hack
+[2021-04-08 10:47:02]: GReeeN [, Level 0]: Kezo:  now you have any enemys
+[2021-04-08 10:47:03]: ***  [, Level 0]: 'RoberGN' entered and joined the game
