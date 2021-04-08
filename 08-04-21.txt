@@ -3371,3 +3371,6 @@
 [2021-04-08 05:14:19]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-08 05:14:32]: Kiøn1029 [.bad, Level 31]: XD
 [2021-04-08 05:14:33]: Boti. [.bad, Level 0]: endless
+[2021-04-08 05:14:34]: Boti. [.bad, Level 0]: nob
+[2021-04-08 05:14:40]: ***  [, Level 0]: 'Shroom' has left the game
+[2021-04-08 05:14:45]: ***  [, Level 0]: 'bob weqe fan' entered and joined the game
