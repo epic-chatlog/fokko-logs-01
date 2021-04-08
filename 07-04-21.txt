@@ -11441,3 +11441,5 @@
 [2021-04-07 22:55:40]: SAUD [, Level 18]: walah y ant tl3b masahllah
 [2021-04-07 22:55:40]: HardreenClutch [, Level 57]: Shiro.:  idiot
 [2021-04-07 22:55:52]: ***  [, Level 0]: 'Shiro,' entered and joined the game
+[2021-04-07 22:56:04]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-07 22:56:05]: ***  [, Level 0]: '(1)Mr.KshKsh99' entered and joined the game
