@@ -12356,3 +12356,4 @@
 [2021-04-08 15:17:30]: ***  [, Level 0]: 'bombele' has left the game
 [2021-04-08 15:17:32]: ***  [, Level 0]: 'bombele' entered and joined the game
 [2021-04-08 15:17:43]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
+[2021-04-08 15:17:47]: ***  [, Level 0]: 'bombele' has left the game
