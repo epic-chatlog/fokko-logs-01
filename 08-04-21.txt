@@ -11061,3 +11061,8 @@
 [2021-04-08 12:50:58]: (1) Hunter.exe [DogParty, Level 36]: hunter.exe: nice fake
 [2021-04-08 12:51:01]: ERROR. [404, Level 56]: fucking dogs
 [2021-04-08 12:51:03]: mamikral011 [DogParty, Level 26]: YelloWorlD: 100k?
+[2021-04-08 12:51:12]: ***  [, Level 0]: '(1) Hunter.exe' changed name to 'Hunter.exe'
+[2021-04-08 12:51:14]: ***  [, Level 0]: 'iMxtteo' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-08 12:51:15]: (1)cookie [, Level 0]: dmmmm
+[2021-04-08 12:51:22]: mamikral011 [DogParty, Level 26]: YelloWorlD: 100K???????????????
+[2021-04-08 12:51:24]: ***  [, Level 0]: 'weqe' entered and joined the game
