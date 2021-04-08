@@ -5007,3 +5007,7 @@
 [2021-04-08 07:20:58]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-08 07:21:06]: Hunter.exe [DogParty, Level 36]: YelloWorlD: <<<<
 [2021-04-08 07:21:13]: ***  [, Level 0]: 'jcanela2022' has left the game
+[2021-04-08 07:21:31]: ♥JustRace♥ [no-clan, Level 36]: YelloWorlD:  wtf
+[2021-04-08 07:21:34]: ***  [, Level 0]: 'jcanela2022' entered and joined the game
+[2021-04-08 07:21:34]:   [, Level 0]: Sad Guy: ChillerDragon.*: dont move
+[2021-04-08 07:21:39]: YelloWorlD [DogParty, Level 37]: ♥JustRace♥: ur anser ?
