@@ -11549,3 +11549,5 @@
 [2021-04-07 23:23:40]: SAUD [, Level 19]: power:  stfu bitch
 [2021-04-07 23:23:45]: power [TrRShClNrRs, Level 0]: kiddo
 [2021-04-07 23:24:14]: (3)SAUD [, Level 0]: idiot he thought i would help him
+[2021-04-07 23:25:11]: ***  [, Level 0]: 'GReeeN' has left the game
+[2021-04-07 23:25:11]: ***  [, Level 0]: 'HardreenClutch' has left the game
