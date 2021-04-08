@@ -4618,3 +4618,7 @@
 [2021-04-08 06:57:09]: weqe [MNKY, Level 12]: bob waiting
 [2021-04-08 06:57:11]: ***  [, Level 0]: '(1)Cosmo' has left the game
 [2021-04-08 06:57:13]: weqe [MNKY, Level 12]: bob: noob ??
+[2021-04-08 06:57:15]: YelloWorlD [DogParty, Level 37]: bob: nice jetpack
+[2021-04-08 06:57:16]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 06:57:19]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 06:57:19]: bob [Legacy™, Level 36]: weqe: first thing you do is go down portal them all in freeze
