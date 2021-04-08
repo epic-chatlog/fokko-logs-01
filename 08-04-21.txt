@@ -12812,3 +12812,5 @@
 [2021-04-08 16:11:19]: ***  [, Level 0]: '(1) Hunter.exe' changed name to 'Hunter.exe'
 [2021-04-08 16:11:32]: S Y T H N [DogParty, Level 37]: Hunter.exe: yo
 [2021-04-08 16:11:35]: Fearless [DogParty, Level 15]: Hunter.exe:  portal hack
+[2021-04-08 16:11:58]: S Y T H N [DogParty, Level 37]: Fearless: which client you using :D?
+[2021-04-08 16:11:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
