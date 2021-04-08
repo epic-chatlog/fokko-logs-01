@@ -2131,3 +2131,4 @@
 [2021-04-08 03:49:32]: ***  [, Level 0]: 'Hikari' joined the game
 [2021-04-08 03:49:34]: ***  [, Level 0]: 'gian x' entered and joined the game
 [2021-04-08 03:49:42]: ***  [, Level 0]: 'Axandos²' entered and joined the game
+[2021-04-08 03:49:52]: ***  [, Level 0]: 'Axandos²' has left the game
