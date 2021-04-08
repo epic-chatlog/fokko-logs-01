@@ -1820,3 +1820,4 @@
 [2021-04-08 03:04:03]: (1)kais [, Level 58]: toxicdaddy: AHAHAHHAH
 [2021-04-08 03:04:06]:   [, Level 0]: Warrior: wot
 [2021-04-08 03:04:07]: SAUD [, Level 24]: kais:
+[2021-04-08 03:04:13]: ***  [, Level 0]: 'toxicdadd' has left the game
