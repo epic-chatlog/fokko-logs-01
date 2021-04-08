@@ -3104,3 +3104,5 @@
 [2021-04-08 04:51:43]: ***  [hýÿÿ, Level 0]: MieSlime finished in: 1 minute(s) 34.06 second(s)
 [2021-04-08 04:51:43]: ***  [hýÿÿ, Level 0]: New record: 8 minute(s) 11.62 second(s) better.
 [2021-04-08 04:51:45]: ***  [hýÿÿ, Level 0]: 'Asta' has left the game
+[2021-04-08 04:51:56]: CKA3A4NIK[NR] [Night Raid, Level 35]: Hello YelloWorlD
+[2021-04-08 04:51:59]: ***  [hýÿÿ, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
