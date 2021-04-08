@@ -5934,3 +5934,6 @@
 [2021-04-08 08:26:41]: Hunter.exe [DogParty, Level 36]: MieSlime: then tell me that lol
 [2021-04-08 08:26:45]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-08 08:26:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-08 08:27:05]: ***  [, Level 0]: 'Sergej' has left the game
+[2021-04-08 08:27:12]:   [, Level 0]: ビール|Zero: Mʎɹ シ: мне осталось 1 левел до лазера(уже говорил) и 11 левелов до большой двушки
+[2021-04-08 08:27:14]: Hunter.exe [DogParty, Level 36]: MieSlime: ok and you want it?
