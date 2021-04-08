@@ -12365,3 +12365,4 @@
 [2021-04-08 15:21:09]: fomjn [RUA, Level 0]: I go sleep, bye
 [2021-04-08 15:21:18]: ***  [, Level 0]: 'fomin' has left the game
 [2021-04-08 15:21:18]: ***  [, Level 0]: 'fomjn' has left the game
+[2021-04-08 15:21:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
