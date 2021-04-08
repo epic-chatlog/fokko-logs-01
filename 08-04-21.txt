@@ -3369,3 +3369,5 @@
 [2021-04-08 05:14:10]: ***  [, Level 0]: (1)oyun krallı finished in: 3 minute(s) 34.28 second(s)
 [2021-04-08 05:14:13]: (1)Котяра [, Level 13]: i understand
 [2021-04-08 05:14:19]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-08 05:14:32]: Kiøn1029 [.bad, Level 31]: XD
+[2021-04-08 05:14:33]: Boti. [.bad, Level 0]: endless
