@@ -917,3 +917,4 @@
 [2021-04-08 01:35:30]: SAUD [, Level 24]: resart:  GO HOLD d
 [2021-04-08 01:35:38]: SAUD [, Level 24]: yeah its okay resart
 [2021-04-08 01:35:40]: ***  [, Level 0]: '(1)zemer' entered and joined the game
+[2021-04-08 01:35:49]: YelloWorlD [DogParty, Level 37]: VeemID: non
