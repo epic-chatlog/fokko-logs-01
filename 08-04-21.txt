@@ -5593,3 +5593,5 @@
 [2021-04-08 08:04:09]: ***  [, Level 0]: '(1)Foxie♥' has left the game
 [2021-04-08 08:04:17]:   [, Level 0]: Mʎɹ シ: Тщщи
 [2021-04-08 08:04:20]:   [, Level 0]: Mʎɹ シ: Noob
+[2021-04-08 08:04:25]: Kaptar [, Level 24]: YelloWorlD: comment on donne de l'argent ?
+[2021-04-08 08:04:36]: GOLD [404, Level 40]: Kaptar: /pay 100000000
