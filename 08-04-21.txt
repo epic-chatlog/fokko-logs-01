@@ -232,3 +232,5 @@
 [2021-04-08 00:19:55]: GODLIKe. [u, Level 39]: LAGG
 [2021-04-08 00:20:20]: ERROR. [404, Level 56]: xD
 [2021-04-08 00:20:29]: Friendiship ;-) [, Level 0]: ERROR.: ok, no help your ennemi
+[2021-04-08 00:20:45]: ERROR. [404, Level 56]: tryhard
+[2021-04-08 00:20:49]: ERROR. [404, Level 56]: xD
