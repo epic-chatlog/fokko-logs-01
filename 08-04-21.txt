@@ -4474,3 +4474,5 @@
 [2021-04-08 06:47:47]: ***  [, Level 0]: '(1)kais' has left the game (Timeout)
 [2021-04-08 06:47:47]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
 [2021-04-08 06:47:49]:   [, Level 0]: Niemand: HI
+[2021-04-08 06:48:05]: ***  [, Level 0]: 'Sad Guy' entered and joined the game
+[2021-04-08 06:48:05]: Foxi♥ [♥, Level 36]: (1)Kirito♥: HOW U GOT TO 40 LEVEL
