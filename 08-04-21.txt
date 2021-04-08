@@ -1307,3 +1307,6 @@
 [2021-04-08 02:07:12]: ***  [, Level 0]: 'Virus' has left the game
 [2021-04-08 02:07:45]: ***  [, Level 0]: 'Isegrin' has left the game
 [2021-04-08 02:07:54]: MieSlime [FookinLads, Level 43]: ChillerDragon:  do u know who created ddnet ?
+[2021-04-08 02:07:59]: zemer [, Level 37]: YelloWorlD: ???
+[2021-04-08 02:08:02]: ChillerDragon.* [Chilli.*, Level 41]: what about ddnet MieSlime
+[2021-04-08 02:08:10]: ***  [, Level 0]: 'Лимонад' has left the game
