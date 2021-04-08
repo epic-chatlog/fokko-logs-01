@@ -1928,3 +1928,4 @@
 [2021-04-08 03:21:11]: OP|Supers [DogParty, Level 39]: Swipez:  :o
 [2021-04-08 03:21:18]: OP|Supers [DogParty, Level 39]: Swipez:  look dummy
 [2021-04-08 03:21:23]: Swipez [[!FAKE!], Level 30]: t/plot spawn
+[2021-04-08 03:21:40]: ***  [, Level 0]: 'toxicdadd' entered and joined the game
