@@ -2112,3 +2112,5 @@
 [2021-04-08 03:46:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-08 03:46:59]: ERROR. [404, Level 56]: xD
 [2021-04-08 03:47:01]: Axandos [, Level 0]: xD
+[2021-04-08 03:47:09]: ERROR. [404, Level 56]: er macht nurn dog clan
+[2021-04-08 03:47:14]: Axandos [, Level 0]: oo
