@@ -10595,3 +10595,7 @@
 [2021-04-08 12:21:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-08 12:21:59]: [D] mamikral011 [DogParty, Level 21]: f"{self.name}": jkgfjg
 [2021-04-08 12:22:08]: ***  [, Level 0]: 'acetousk' entered and joined the game
+[2021-04-08 12:22:16]:   [, Level 0]: MieSlime: ok lol
+[2021-04-08 12:22:17]: Axel [TrRShClNrRs, Level 30]: Why you block me Hunter.exe
+[2021-04-08 12:22:20]: Kirito♥ [♥, Level 40]: Axel: i dont help its ok
+[2021-04-08 12:22:22]: Flipper [, Level 15]: soleri
