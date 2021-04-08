@@ -4827,3 +4827,6 @@
 [2021-04-08 07:10:00]: ***  [, Level 0]: 'x7 sven' entered and joined the game
 [2021-04-08 07:10:10]: (1)Foxie♥ [♥, Level 1]: Kirito♥: FAST PLOt
 [2021-04-08 07:10:16]:   [, Level 0]: Kirito♥: Foxie♥: w8
+[2021-04-08 07:10:22]: (1)Foxi♥ [♥, Level 1]: kais: nigga
+[2021-04-08 07:10:27]: ***  [, Level 0]: 'Shroom' has left the game
+[2021-04-08 07:10:29]:   [, Level 0]: Kirito♥: Foxie♥: HAHAHHA
