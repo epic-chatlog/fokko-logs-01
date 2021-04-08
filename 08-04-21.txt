@@ -6924,3 +6924,5 @@
 [2021-04-08 09:24:18]: falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: kais:
 [2021-04-08 09:24:23]: Hunter.exe [DogParty, Level 36]: Lucas: up
 [2021-04-08 09:24:24]: Hunter.exe [DogParty, Level 36]: cookie: up
+[2021-04-08 09:24:30]: Lucas [THECEPS, Level 34]: Hunter.exe: i know
+[2021-04-08 09:24:31]:   [, Level 0]: cookie: i dont have the jump and the jetpack
