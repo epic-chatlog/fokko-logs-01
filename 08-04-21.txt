@@ -3739,3 +3739,9 @@
 [2021-04-08 05:39:41]: ĦỮǤØ [ŞƤΔŴŇ, Level 14]: sven
 [2021-04-08 05:39:42]: ĦỮǤØ [ŞƤΔŴŇ, Level 14]: help m,e
 [2021-04-08 05:39:47]: Boti. [.bad, Level 33]: a végén én fogok spawnblockolni és letartóztatom magam
+[2021-04-08 05:40:26]: ***  [, Level 0]: 'GReeeN' has left the game
+[2021-04-08 05:40:26]: ***  [, Level 0]: 'HardreenClutch' has left the game
+[2021-04-08 05:40:28]: ***  [, Level 0]: [D] x7|cya finished in: 1 minute(s) 29.08 second(s)
+[2021-04-08 05:40:28]: ***  [, Level 0]: New record: 41.42 second(s) better.
+[2021-04-08 05:40:28]: ***  [, Level 0]: x7|cya finished in: 1 minute(s) 30.38 second(s)
+[2021-04-08 05:40:28]: ***  [, Level 0]: New record: 51.80 second(s) better.
