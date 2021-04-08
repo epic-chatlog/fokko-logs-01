@@ -1510,3 +1510,6 @@
 [2021-04-08 02:24:48]: ***  [, Level 0]: ### 'ERROR.' Woof-Woof
 [2021-04-08 02:24:49]: Anatomy [MaL4iki kz, Level 35]: arrest
 [2021-04-08 02:24:50]: Anatomy [MaL4iki kz, Level 35]: him
+[2021-04-08 02:24:52]: ERROR. [404, Level 56]: aber trz kein team xD
+[2021-04-08 02:24:57]: ***  [, Level 0]: 'Лимонад' has left the game
+[2021-04-08 02:25:00]: x7|KshKsh99 [xSD7, Level 37]: wtf is this lag
