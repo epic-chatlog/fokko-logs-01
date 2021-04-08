@@ -1855,3 +1855,5 @@
 [2021-04-08 03:10:47]: ***  [, Level 0]: '(1)' entered and joined the game
 [2021-04-08 03:10:48]: BC|kakashi [BC, Level 0]: YelloWorlD:
 [2021-04-08 03:11:01]: iMxtteo [, Level 26]: YelloWorlD: why do you hate me
+[2021-04-08 03:11:12]: ***  [, Level 0]: '(1)tee' has left the game (Timeout)
+[2021-04-08 03:11:13]: ***  [, Level 0]: 'Clément le BG' has left the game
