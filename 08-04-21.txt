@@ -482,3 +482,4 @@
 [2021-04-08 01:02:05]: x7|zemer [xSD7, Level 0]: Nudelsaft c:: Oh
 [2021-04-08 01:02:19]: ***  [, Level 0]: 'x7|zemer' has left the game
 [2021-04-08 01:02:34]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
+[2021-04-08 01:02:45]: BC|Tixnix [BC, Level 34]: ERROR.: willst du die wieder?a
