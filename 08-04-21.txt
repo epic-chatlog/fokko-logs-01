@@ -11305,3 +11305,7 @@
 [2021-04-08 13:15:12]: ERROR [404, Level 74]: GOLD:  no
 [2021-04-08 13:15:20]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-08 13:15:21]: GReeeN [, Level 0]: mamikral011: <-
+[2021-04-08 13:15:30]: ***  [, Level 0]: 'you' has left the game
+[2021-04-08 13:15:31]: ***  [, Level 0]: 'aaaaaaaaa' entered and joined the game
+[2021-04-08 13:15:33]: cookie [, Level 18]: thx
+[2021-04-08 13:15:34]: Kirito♥ [♥, Level 40]: np
