@@ -2611,3 +2611,7 @@
 [2021-04-08 04:21:59]: ***  [hýÿÿ, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-08 04:22:01]: OP|Supers [DogParty, Level 39]: any:  what?
 [2021-04-08 04:22:03]: ***  [hýÿÿ, Level 0]: 'restart' has left the game
+[2021-04-08 04:22:18]: ***  [hýÿÿ, Level 0]: '(1)1' entered and joined the game
+[2021-04-08 04:22:18]: anyÂ² [404, Level 37]: rayen:
+[2021-04-08 04:22:25]: weqe [MNKY, Level 12]: bob: HE HELP MY ENEMIES
+[2021-04-08 04:22:26]: anyÂ² [404, Level 37]: Tom: help down
