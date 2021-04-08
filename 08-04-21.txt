@@ -10591,3 +10591,6 @@
 [2021-04-08 12:21:21]: Syth [, Level 30]: (1)cookie: im going to up
 [2021-04-08 12:21:39]: (1)cookie [, Level 0]: Syth:  you go dead im so sorry
 [2021-04-08 12:21:40]: ***  [, Level 0]: MieSlime is on a killing spree with 5 blocks
+[2021-04-08 12:21:56]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-08 12:21:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-08 12:21:59]: [D] mamikral011 [DogParty, Level 21]: f"{self.name}": jkgfjg
