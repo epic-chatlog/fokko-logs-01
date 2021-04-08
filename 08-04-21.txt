@@ -1531,3 +1531,10 @@
 [2021-04-08 02:26:15]: power [TrRShClNrRs, Level 14]: come
 [2021-04-08 02:26:16]: power [TrRShClNrRs, Level 14]: [D] BC|kakashi:
 [2021-04-08 02:26:18]: ***  [, Level 0]: 'NETFLIX' has left the game
+[2021-04-08 02:26:19]: ***  [, Level 0]: Vodo4ka's killing spree was ended by (1)УБИВАТЬ! (7 blocks)
+[2021-04-08 02:26:24]: any [404, Level 42]: rq
+[2021-04-08 02:26:27]: power [TrRShClNrRs, Level 14]: ill go
+[2021-04-08 02:26:28]: power [TrRShClNrRs, Level 14]: [D] BC|kakashi:
+[2021-04-08 02:26:30]: power [TrRShClNrRs, Level 14]: bye
+[2021-04-08 02:26:30]: ***  [, Level 0]: 'power' has left the game
+[2021-04-08 02:26:30]: ***  [, Level 0]: 'power2' has left the game
