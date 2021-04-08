@@ -3211,3 +3211,6 @@
 [2021-04-08 04:59:03]: ***  [h���, Level 0]: (1)oyun krallı finished in: 11 minute(s) 26.62 second(s)
 [2021-04-08 04:59:03]: (1)Котяра [, Level 13]: FASTER
 [2021-04-08 04:59:05]: Supers [ᅟᅟᅟ, Level 8]: hugo
+[2021-04-08 04:59:06]: [D] x7|cya [xSD7, Level 39]: OP|Supers: oh MIrage
+[2021-04-08 04:59:08]: [D] x7|cya [xSD7, Level 39]: OP|Supers: afk
+[2021-04-08 04:59:10]: Supers [ᅟᅟᅟ, Level 8]: ok
