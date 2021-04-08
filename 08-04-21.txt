@@ -9809,3 +9809,6 @@
 [2021-04-08 11:41:56]: ***  [, Level 0]: 'KoalasSindCool' has left the game
 [2021-04-08 11:41:56]: [D] tschu [, Level 0]: dead
 [2021-04-08 11:41:57]: [D] tschu [, Level 0]: xD
+[2021-04-08 11:41:58]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
+[2021-04-08 11:41:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-08 11:42:10]:   [, Level 0]: Meetiteusz: Syth: no i teraz
