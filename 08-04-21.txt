@@ -9302,3 +9302,6 @@
 [2021-04-08 11:21:08]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-08 11:21:14]:   [, Level 0]: Maatiteusz: sun.slow(y): gay
 [2021-04-08 11:21:15]: ***  [, Level 0]: 'Miguilim' has left the game
+[2021-04-08 11:21:19]: toxicdaddy [, Level 26]: Hunter.exe:  wirr kais geklapt
+[2021-04-08 11:21:26]: \\Syth [, Level 30]: Maatiteusz: kto pisze ez przez s tego w dupe jebie pies
+[2021-04-08 11:21:29]:   [, Level 0]: Maatiteusz: \\Syth: wiem
