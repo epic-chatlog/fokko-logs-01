@@ -1538,3 +1538,4 @@
 [2021-04-08 02:26:30]: power [TrRShClNrRs, Level 14]: bye
 [2021-04-08 02:26:30]: ***  [, Level 0]: 'power' has left the game
 [2021-04-08 02:26:30]: ***  [, Level 0]: 'power2' has left the game
+[2021-04-08 02:26:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
