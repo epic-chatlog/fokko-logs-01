@@ -11378,3 +11378,6 @@
 [2021-04-08 13:19:39]: Zephir™ [, Level 39]: Kaptar: tu vois bien que j'ai les meilleurs joueurs en amis ? pourquoi continuer
 [2021-04-08 13:19:49]: Kaptar [, Level 0]: Zephir™: Crois pas que Error est le meilleur mdr
 [2021-04-08 13:19:51]: Kezo [DogParty, Level 41]: ERROR: İ TRUST YOU STUPDİ
+[2021-04-08 13:19:54]: Kezo [DogParty, Level 41]: STUPİDD
+[2021-04-08 13:19:55]: ERROR [404, Level 74]: stfu
+[2021-04-08 13:20:00]: ERROR. [404, Level 56]: random
