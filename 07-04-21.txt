@@ -11129,3 +11129,4 @@
 [2021-04-07 16:59:50]: ***  [, Level 0]: '[D] Hunter.exe' has left the game
 [2021-04-07 16:59:50]: ***  [, Level 0]: 'Hunter.exe' has left the game
 [2021-04-07 17:02:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-07 17:06:13]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
