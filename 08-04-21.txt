@@ -3327,3 +3327,8 @@
 [2021-04-08 05:09:04]: ***  [, Level 0]: 'o' has left the game
 [2021-04-08 05:11:39]: ***  [, Level 0]: Successfully logged in
 [2021-04-08 05:11:46]: MieSlime [FookinLads, Level 43]: (1)OP|Supers:  noob endless
+[2021-04-08 05:11:47]: (1)Котяра [, Level 13]: rayen: help
+[2021-04-08 05:11:53]: MieSlime [FookinLads, Level 43]: (1)OP|Supers:  noob endless
+[2021-04-08 05:11:56]: (1)OP|Supers [DogParty, Level 39]: :c
+[2021-04-08 05:11:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-08 05:11:59]: \\Syth [[!FAKE!], Level 30]: oh no
