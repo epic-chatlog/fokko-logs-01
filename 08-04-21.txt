@@ -488,3 +488,7 @@
 [2021-04-08 01:04:03]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-08 01:04:03]: ***  [, Level 0]: 'Shiro,' has left the game
 [2021-04-08 01:04:04]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
+[2021-04-08 01:04:11]: Supers [ᅟᅟᅟ, Level 0]: YelloWorlD:  owner of the dog
+[2021-04-08 01:04:14]: Supers [ᅟᅟᅟ, Level 0]: YelloWorlD:  party
+[2021-04-08 01:04:15]: Supers [ᅟᅟᅟ, Level 0]: clan
+[2021-04-08 01:04:17]: Supers [ᅟᅟᅟ, Level 0]: xD
