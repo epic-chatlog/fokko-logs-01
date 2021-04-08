@@ -1653,3 +1653,4 @@
 [2021-04-08 02:39:13]: weqe [MNKY, Level 12]: ERROR: noob bob
 [2021-04-08 02:39:20]: ***  [, Level 0]: YelloWorlD is on a killing spree with 10 blocks
 [2021-04-08 02:39:52]: any [404, Level 42]: ERROR: u gonna spike him ?
+[2021-04-08 02:40:56]: ***  [, Level 0]: 'weqe' has left the game
