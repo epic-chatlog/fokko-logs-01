@@ -1212,3 +1212,5 @@
 [2021-04-08 01:59:01]: ***  [, Level 0]: 'Türk biri' has left the game
 [2021-04-08 01:59:03]: Anatomy [MaL4iki kz, Level 0]: x7|cya: <<< GOLD
 [2021-04-08 01:59:03]: x7|cya [xSD7, Level 42]: MieSlime: you are helping him and he is killing me
+[2021-04-08 01:59:06]: ~DemoizL~ [, Level 39]: MieSlime: mais il fait chier
+[2021-04-08 01:59:10]: zemer [xSD7, Level 37]: [D] x7|cya:
