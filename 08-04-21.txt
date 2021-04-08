@@ -3784,3 +3784,7 @@
 [2021-04-08 05:44:06]: WarHammer [, Level 26]: BURDA Bİ SEYETEHENE VARMIŞ
 [2021-04-08 05:44:08]: S Y T H N [DogParty, Level 37]: buy ice
 [2021-04-08 05:44:10]: \(^-^)/ [FookinLads, Level 42]: fake
+[2021-04-08 05:44:12]: [2] VeemID [DogParty, Level 26]: WarHammer:
+[2021-04-08 05:44:16]: WarHammer [, Level 26]: VeemID:
+[2021-04-08 05:44:19]: [2] VeemID [DogParty, Level 26]: WarHammer: help
+[2021-04-08 05:44:23]: \\Syth [[!FAKE!], Level 30]: \(^-^)/: what? why
