@@ -9319,3 +9319,7 @@
 [2021-04-08 11:21:51]: Hunter.exe [DogParty, Level 36]: kais: bc i like u
 [2021-04-08 11:21:52]:   [, Level 0]: Maatiteusz: \\Syth: krotko mowiac
 [2021-04-08 11:21:52]: ***  [0, Level 0]: 'KoalasSindCool' entered and joined the game
+[2021-04-08 11:21:57]: kais [, Level 65]: Hunter.exe: i don't like you
+[2021-04-08 11:21:58]: \\Syth [, Level 30]: GODLIKe: noo
+[2021-04-08 11:21:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-08 11:22:03]: \\Syth [, Level 30]: GODLIKe: dont kill him
