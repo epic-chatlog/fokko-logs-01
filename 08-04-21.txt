@@ -1677,3 +1677,7 @@
 [2021-04-08 02:43:11]: ERROR. [404, Level 56]: xD
 [2021-04-08 02:43:24]: ERROR. [404, Level 56]: teamwork
 [2021-04-08 02:43:26]: ERROR. [404, Level 56]: xD
+[2021-04-08 02:43:34]: ***  [, Level 0]: 'Schnick' entered and joined the game
+[2021-04-08 02:43:40]: ERROR. [404, Level 56]: ahahaha
+[2021-04-08 02:43:41]: YelloWorlD [DogParty, Level 37]: ERROR: strong hook
+[2021-04-08 02:43:43]: ***  [, Level 0]: 'Schnick' has left the game
