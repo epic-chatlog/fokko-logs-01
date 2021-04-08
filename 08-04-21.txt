@@ -3881,3 +3881,7 @@
 [2021-04-08 05:54:03]: ***  [, Level 0]: 'ĦỮǤØ' changed name to 'x7|Flipper'
 [2021-04-08 05:54:07]: f"{self.name}" [, Level 18]: kiøn1029: i wont i promise :D
 [2021-04-08 05:54:08]: ***  [, Level 0]: 'x7|Flipper' changed name to 'ĦỮǤØ'
+[2021-04-08 05:54:15]: Soros [, Level 0]: Jerry: I just wanted to run with u
+[2021-04-08 05:54:23]: ***  [, Level 0]: '(1)SAUD' entered and joined the game
+[2021-04-08 05:54:24]: VeemID [DogParty, Level 0]: Supers: help
+[2021-04-08 05:54:26]: Jerry [, Level 29]: SURE?
