@@ -11189,3 +11189,4 @@
 [2021-04-07 18:32:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-07 18:37:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 18:42:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-07 18:44:42]: ***  [, Level 0]: 'H0LL4D13W4LDFEE' entered and joined the game
