@@ -7922,3 +7922,8 @@
 [2021-04-08 10:16:07]: ***  [, Level 0]: 'Dan' joined the spectators
 [2021-04-08 10:16:09]: Whis [Whis, Level 0]: LichT:  JxK|JoK'Air  est plus en prison
 [2021-04-08 10:16:12]: ***  [, Level 0]: 'Dan' joined the game
+[2021-04-08 10:16:15]:   [, Level 0]: LichT: Whis:  je sais
+[2021-04-08 10:16:16]:   [, Level 0]: CKA3A4NIK[NR]: Клоун помог или хана тебе
+[2021-04-08 10:16:18]: Whis [Whis, Level 0]: LichT:  ok
+[2021-04-08 10:16:18]: Hunter.exe [DogParty, Level 36]: iMxtteo D: warum leave?
+[2021-04-08 10:16:23]: CKA3A4NIK [, Level 32]: Клоун помог или хана тебе
