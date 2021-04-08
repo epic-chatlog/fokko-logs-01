@@ -5523,3 +5523,8 @@
 [2021-04-08 07:59:08]:   [, Level 0]: any: YelloWorlD: t'est co sur mon compte ?
 [2021-04-08 07:59:13]: YelloWorlD [DogParty, Level 37]: why he want join
 [2021-04-08 07:59:14]: ***  [, Level 0]: 'Mʎɹ シ' entered and joined the game
+[2021-04-08 07:59:18]: ***  [, Level 0]: 'Isegrin' entered and joined the game
+[2021-04-08 07:59:18]: YelloWorlD [DogParty, Level 37]: any oui
+[2021-04-08 07:59:21]: YelloWorlD [DogParty, Level 37]: any tu veux ?
+[2021-04-08 07:59:22]:   [, Level 0]: any: YelloWorlD: oki
+[2021-04-08 07:59:24]:   [, Level 0]: any: YelloWorlD: nop
