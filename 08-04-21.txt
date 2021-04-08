@@ -1933,3 +1933,8 @@
 [2021-04-08 03:21:57]: Swipez [[!FAKE!], Level 30]: OP|Supers: oh no poor kid
 [2021-04-08 03:21:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-08 03:22:01]: OP|Supers [DogParty, Level 39]: why poor?
+[2021-04-08 03:22:03]: ***  [, Level 0]: BC|Tixnix finished in: 16 minute(s)  9.14 second(s)
+[2021-04-08 03:22:03]: ***  [, Level 0]: 'BC|Tixnix' finished the special race!
+[2021-04-08 03:22:06]: ***  [, Level 0]: 'Warrior' has left the game
+[2021-04-08 03:22:10]: Swipez [[!FAKE!], Level 30]: OP|Supers: bc ur noob
+[2021-04-08 03:22:12]: Swipez [[!FAKE!], Level 30]: go v3
