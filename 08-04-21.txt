@@ -1796,3 +1796,4 @@
 [2021-04-08 03:00:32]: ***  [, Level 0]: 'toxicdadd' finished the special race!
 [2021-04-08 03:00:32]: ***  [, Level 0]: toxicdadd finished in: 3 minute(s) 29.54 second(s)
 [2021-04-08 03:00:33]: ***  [, Level 0]: 'Shroom' finished the special race!
+[2021-04-08 03:00:49]: Lucas [THECEPS, Level 34]: bruh: bruh
