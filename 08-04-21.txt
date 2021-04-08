@@ -2085,3 +2085,4 @@
 [2021-04-08 03:42:09]: ***  [, Level 0]: 'x7|cya' entered and joined the game
 [2021-04-08 03:42:22]: ***  [, Level 0]: 'Axandos' entered and joined the game
 [2021-04-08 03:42:22]: ***  [, Level 0]: '[D] x7|cya' entered and joined the game
+[2021-04-08 03:43:10]: GOLD [404, Level 41]: Nudelsaft c:: join DogParty jz gerade
