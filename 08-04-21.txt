@@ -2021,3 +2021,5 @@
 [2021-04-08 03:31:48]: OP|Supers [DogParty, Level 39]: xD
 [2021-04-08 03:31:55]: [D] Swipez [, Level 25]: YelloWorlD: u must remember me
 [2021-04-08 03:31:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-08 03:32:01]: ***  [, Level 0]: 'restart' finished the special race!
+[2021-04-08 03:32:07]: ***  [, Level 0]: '(1)restart' finished the special race!
