@@ -3088,3 +3088,6 @@
 [2021-04-08 04:50:20]: CKA3A4NIK[NR] [Night Raid, Level 35]: Inf hook
 [2021-04-08 04:50:23]: sun.slow(y) [FookinLads, Level 35]: nop
 [2021-04-08 04:50:26]: oyun krallÄ± [, Level 0]: WHO
+[2021-04-08 04:50:32]: ***  [hýÿÿ, Level 0]: 'Asta' entered and joined the game
+[2021-04-08 04:50:37]: CKA3A4NIK[NR] [Night Raid, Level 35]: XD
+[2021-04-08 04:50:40]: ***  [hýÿÿ, Level 0]: 'Warrior' has left the game
