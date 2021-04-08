@@ -3706,3 +3706,7 @@
 [2021-04-08 05:36:13]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-08 05:36:37]: ***  [, Level 0]: '(1)УБИВАТЬ!' has left the game
 [2021-04-08 05:36:38]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 05:36:40]: ***  [, Level 0]: '(2)УБИВАТЬ!' has left the game
+[2021-04-08 05:36:41]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 05:36:43]: ***  [, Level 0]: 'УБИВАТЬ!' has left the game
+[2021-04-08 05:36:43]: S Y T H N [DogParty, Level 37]: \(^-^)/: seit wann portal wtf
