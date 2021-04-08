@@ -769,3 +769,6 @@
 [2021-04-08 01:24:35]: ***  [, Level 0]: 'VeemID' has left the game
 [2021-04-08 01:24:38]: [D] mamikral011 [DogParty, Level 0]: GODLIKe.: ab
 [2021-04-08 01:24:38]: ***  [, Level 0]: 'VeemID' entered and joined the game
+[2021-04-08 01:24:42]: [D] mamikral011 [DogParty, Level 0]: YelloWorlD:
+[2021-04-08 01:24:44]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-08 01:24:47]: ***  [, Level 0]: '(1)SAUD' entered and joined the game
