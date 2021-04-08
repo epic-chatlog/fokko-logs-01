@@ -4413,3 +4413,8 @@
 [2021-04-08 06:41:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-08 06:42:00]: weqe [MNKY, Level 12]: Warrior: i would commit suicide if i was as bad as u
 [2021-04-08 06:42:04]: GOLD [404, Level 40]: (1)DiscordBridg: u mad
+[2021-04-08 06:42:19]: ***  [, Level 0]: 'lol' has left the game (Timeout)
+[2021-04-08 06:42:19]: ***  [, Level 0]: '(3)lol' has left the game (Timeout)
+[2021-04-08 06:42:19]: ***  [, Level 0]: '(1)lol' has left the game (Timeout)
+[2021-04-08 06:42:19]: ***  [, Level 0]: '(2)lol' has left the game (Timeout)
+[2021-04-08 06:42:20]: Fighter [, Level 36]: weqe: u take this game this seriously?XD
