@@ -10787,3 +10787,4 @@
 [2021-04-08 12:34:01]:   [, Level 0]: MUTE: Nonoh: kezo
 [2021-04-08 12:34:11]:   [, Level 0]: GOLD: Fearless: open
 [2021-04-08 12:34:22]: Fearless [DogParty, Level 40]: YelloWorlD:
+[2021-04-08 12:34:31]: Fearless [DogParty, Level 40]: lagging shit
