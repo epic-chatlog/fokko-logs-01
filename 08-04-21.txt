@@ -300,3 +300,4 @@
 [2021-04-08 00:34:31]: ***  [, Level 0]: 'bruh' entered and joined the game
 [2021-04-08 00:36:18]: [D] BC|Tixnix [BC, Level 26]: hab nicht gesehen
 [2021-04-08 00:36:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-08 00:37:49]: ChillerDragon.* [|*KoG*|, Level 41]: grr [D] BC|Tixnix
