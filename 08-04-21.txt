@@ -1884,3 +1884,4 @@
 [2021-04-08 03:13:51]: ***  [, Level 0]: '(1)' has left the game
 [2021-04-08 03:13:56]: ***  [, Level 0]: (1)SAUD is on a killing spree with 5 blocks
 [2021-04-08 03:14:21]: [D] BC|Tixnix [BC, Level 26]: x7|zemer:
+[2021-04-08 03:14:39]: ***  [, Level 0]: 'gian x' has left the game (Too weak connection (not acked for 60 seconds))
