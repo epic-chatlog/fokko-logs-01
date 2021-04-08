@@ -1745,3 +1745,4 @@
 [2021-04-08 02:50:47]: (1)SAUD [, Level 19]: BC|serwan:  PEACE?
 [2021-04-08 02:51:05]: ***  [, Level 0]: 'Nidardo.' has left the game
 [2021-04-08 02:51:05]: ***  [, Level 0]: 'NidardoHD' has left the game
+[2021-04-08 02:51:32]: ***  [, Level 0]: 'Getpon' changed name to '[D] NinjaGouwe'
