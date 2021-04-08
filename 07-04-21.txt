@@ -11334,3 +11334,6 @@
 [2021-04-07 21:57:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-07 21:57:26]: Rem's dummy [, Level 38]: (1)kais: ?
 [2021-04-07 21:57:58]: Rem's bae [, Level 42]: SAUD: ur dummy is in
+[2021-04-07 21:58:02]: Rem's bae [, Level 42]: police
+[2021-04-07 21:58:08]: (1)SAUD [, Level 0]: Rem's bae:  ok
+[2021-04-07 21:58:10]: (1)SAUD [, Level 0]: ty
