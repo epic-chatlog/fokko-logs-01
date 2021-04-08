@@ -776,3 +776,6 @@
 [2021-04-08 01:24:57]: ***  [, Level 0]: Vodo4ka finished in: 0 minute(s) 53.00 second(s)
 [2021-04-08 01:25:00]: VeemID [DogParty, Level 0]: YelloWorlD: c'est bon
 [2021-04-08 01:25:08]: [D] mamikral011 [DogParty, Level 0]: GODLIKe.: ooo iyisin iyi
+[2021-04-08 01:25:18]: ***  [, Level 0]: '[D] Cylox' entered and joined the game
+[2021-04-08 01:25:21]: ***  [, Level 0]: '[D] Cylox' has left the game
+[2021-04-08 01:25:30]: ***  [, Level 0]: x7|cya is on a killing spree with 10 blocks
