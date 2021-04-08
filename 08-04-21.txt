@@ -6830,3 +6830,6 @@
 [2021-04-08 09:14:24]: ***  [, Level 0]: 'TomatoMaster' entered and joined the game
 [2021-04-08 09:14:34]:   [, Level 0]: falkenauge: (1)kais:
 [2021-04-08 09:14:38]: ***  [, Level 0]: 'Deadmouse' entered and joined the game
+[2021-04-08 09:14:39]: kais [, Level 65]: yes ?
+[2021-04-08 09:14:46]:   [, Level 0]: falkenauge: kais: pls help me in endless
+[2021-04-08 09:14:50]: (1)kais [, Level 58]: -_-
