@@ -1630,3 +1630,8 @@
 [2021-04-08 02:35:10]: Anatomy [MaL4iki kz, Level 35]: ChillerDragon: slave fokkonaut
 [2021-04-08 02:35:11]: Anatomy [MaL4iki kz, Level 35]: you
 [2021-04-08 02:35:49]: (1)ChillerDrago [Chilli.*, Level 32]: aaaaaaaaaaaaaaaa
+[2021-04-08 02:35:54]: ***  [, Level 0]: 'Anatomy' has left the game
+[2021-04-08 02:35:54]: ***  [, Level 0]: 'Anatomyx' has left the game
+[2021-04-08 02:36:00]: ***  [, Level 0]: 'x7|cya' has left the game
+[2021-04-08 02:36:00]: ***  [, Level 0]: '[D] x7|cya' has left the game
+[2021-04-08 02:36:04]: ERROR. [404, Level 56]: so da kannst gesellschaft leisten
