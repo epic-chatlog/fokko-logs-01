@@ -11222,3 +11222,4 @@
 [2021-04-07 19:55:55]: ***  [, Level 0]: 'ERRORᅟᅟᅟ' would have timed out, but can use timeout protection now
 [2021-04-07 19:55:55]: ***  [, Level 0]: '(1)ERROR.' would have timed out, but can use timeout protection now
 [2021-04-07 19:55:55]: ***  [, Level 0]: 'ERROR.' would have timed out, but can use timeout protection now
+[2021-04-07 19:57:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
