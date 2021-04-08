@@ -11134,3 +11134,5 @@
 [2021-04-08 13:00:14]: (1)ERROR. [404, Level 41]: ´/stats
 [2021-04-08 13:00:36]: ***  [, Level 0]: '(1)any²' entered and joined the game
 [2021-04-08 13:00:51]: ***  [, Level 0]: \\Syth is on a killing spree with 10 blocks
+[2021-04-08 13:00:58]: ***  [, Level 0]: '\\Syth' changed name to 'you'
+[2021-04-08 13:00:58]: ***  [, Level 0]: 'y2x' has left the game
