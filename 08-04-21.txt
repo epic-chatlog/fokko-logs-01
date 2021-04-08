@@ -8526,3 +8526,5 @@
 [2021-04-08 10:39:03]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-08 10:39:16]: ***  [, Level 0]: 'f a\jibf z' changed name to 'Etrekom'
 [2021-04-08 10:39:19]: ***  [, Level 0]: 'y2x' entered and joined the game
+[2021-04-08 10:39:23]: Maatiteusz [TrRShClNrRs, Level 35]: bob: hi
+[2021-04-08 10:39:27]: HardreenClutch [, Level 57]: Kezo:  okey dude now you have life time war for real
