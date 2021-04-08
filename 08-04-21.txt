@@ -5840,3 +5840,6 @@
 [2021-04-08 08:20:41]: Kong [[_Any %_], Level 0]: to this holl psl
 [2021-04-08 08:20:41]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 08:20:42]: Hunter.exe [DogParty, Level 36]: ChillerDragon: <<<
+[2021-04-08 08:20:46]: MieSlime [FookinLads, Level 43]: Hunter.exe:  oh sorry x(
+[2021-04-08 08:20:47]: ***  [, Level 0]: '(1)NetFlix' has left the game
+[2021-04-08 08:20:48]: Kong [[_Any %_], Level 0]: in right part
