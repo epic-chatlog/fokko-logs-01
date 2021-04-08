@@ -1488,3 +1488,4 @@
 [2021-04-08 02:22:41]: ***  [, Level 0]: 'Kong' entered and joined the game
 [2021-04-08 02:22:50]: power [TrRShClNrRs, Level 0]: [D] BC|kakashi:
 [2021-04-08 02:22:51]: Vodo4ka [JB.st, Level 41]: (1)ERROR: ok i can take taser man too, it rly gay possible
+[2021-04-08 02:22:58]: any [404, Level 42]: ERROR: u have some ammo ? i'm at 12
