@@ -1566,3 +1566,9 @@
 [2021-04-08 02:28:57]: (2)УБИВАТ [, Level 0]: я такая
 [2021-04-08 02:28:59]: ChillerDragon [Chilli.*, Level 44]: xD
 [2021-04-08 02:29:01]: ERROR [404, Level 74]: xD
+[2021-04-08 02:29:03]: ***  [, Level 0]: [D] x7|cya finished in: 7 minute(s) 18.22 second(s)
+[2021-04-08 02:29:03]: ***  [, Level 0]: x7|cya finished in: 5 minute(s) 36.46 second(s)
+[2021-04-08 02:29:03]: ***  [, Level 0]: 'Лимонад' has left the game
+[2021-04-08 02:29:03]: ChillerDragon [Chilli.*, Level 44]: paix YelloWorlD
+[2021-04-08 02:29:05]: BC|kakashi [BC, Level 0]: any:  and why?
+[2021-04-08 02:29:07]: YelloWorlD [DogParty, Level 37]: ChillerDragon: jz gerade
