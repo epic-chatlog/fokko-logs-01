@@ -11142,3 +11142,7 @@
 [2021-04-08 13:01:25]: ***  [, Level 0]: '(1)catwhis' changed name to '123'
 [2021-04-08 13:01:56]: you [, Level 0]: Kenshi™: joke
 [2021-04-08 13:01:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-08 13:02:09]: ***  [, Level 0]: '123' changed name to '2'
+[2021-04-08 13:02:09]: ***  [, Level 0]: '[D] 123' changed name to '[D] 1'
+[2021-04-08 13:02:10]: any² [404, Level 42]: Zephir™:
+[2021-04-08 13:02:12]: weqe [MNKY, Level 12]: power2: help
