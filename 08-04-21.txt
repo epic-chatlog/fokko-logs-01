@@ -6750,3 +6750,7 @@
 [2021-04-08 09:03:53]: Kiøn1029 [.bad, Level 31]: why
 [2021-04-08 09:04:01]: x7 sven [xSD7, Level 20]: Hunter.exe:
 [2021-04-08 09:04:04]:   [, Level 0]: CKA3A4NIK[NR]: Kiøn1029:  >>>
+[2021-04-08 09:04:08]: Hunter.exe [DogParty, Level 36]: x7 sven: nein
+[2021-04-08 09:04:08]:   [, Level 0]: CKA3A4NIK[NR]: Kiøn1029:  >>>
+[2021-04-08 09:04:10]: Flipper [, Level 14]: kion?
+[2021-04-08 09:04:19]: Kiøn1029 [.bad, Level 31]: Flipper: what
