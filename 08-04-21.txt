@@ -3824,3 +3824,5 @@
 [2021-04-08 05:47:09]: \(^-^)/ [FookinLads, Level 42]: S Y T H N: ahh
 [2021-04-08 05:47:18]:   [, Level 0]: power: sure about that el champeon ?
 [2021-04-08 05:47:32]:   [, Level 0]: power: ok leggo el champeon
+[2021-04-08 05:47:41]: el champeon [, Level 0]: power: you should name urself powerless tee
+[2021-04-08 05:47:49]: ***  [, Level 0]: 'power' has left the game
