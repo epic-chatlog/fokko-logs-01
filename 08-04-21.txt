@@ -3649,3 +3649,6 @@
 [2021-04-08 05:33:01]: [2] VeemID [DogParty, Level 26]: GReeeN:
 [2021-04-08 05:33:09]: ***  [, Level 0]: 'nameless tee' has left the game (Timeout)
 [2021-04-08 05:33:13]: Kiøn1029 [.bad, Level 31]: de
+[2021-04-08 05:33:15]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-08 05:33:18]: Kiøn1029 [.bad, Level 31]: egyelek meg
+[2021-04-08 05:33:23]: Boti. [.bad, Level 33]: fu geci
