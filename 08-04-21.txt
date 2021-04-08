@@ -11106,3 +11106,6 @@
 [2021-04-08 12:54:57]: Tziys* [DogPartya, Level 39]: YelloWorlD: 5 jump
 [2021-04-08 12:56:10]: ***  [, Level 0]: '[D] catwhis' entered and joined the game
 [2021-04-08 12:56:37]: ***  [, Level 0]: 'jozio' entered and joined the game
+[2021-04-08 12:56:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-08 12:57:01]: Tziys* [DogPartya, Level 39]: (1)any:
+[2021-04-08 12:57:03]: ***  [, Level 0]: 'catwhis' entered and joined the game
