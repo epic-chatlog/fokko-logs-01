@@ -4480,3 +4480,5 @@
 [2021-04-08 06:48:30]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-08 06:48:32]: Foxi♥ [♥, Level 36]: Kirito♥: HOWWWWWWWWWWWWWWW
 [2021-04-08 06:48:35]: Kirito♥ [♥, Level 40]: Foxi♥: i just farmed WTF is your problem
+[2021-04-08 06:48:50]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 06:48:52]: ***  [, Level 0]: 'Niemand' entered and joined the game
