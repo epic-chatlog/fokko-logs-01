@@ -3185,3 +3185,5 @@
 [2021-04-08 04:56:42]: Supers [á…Ÿá…Ÿá…Ÿ, Level 8]: Hilf mir pls xD
 [2021-04-08 04:56:47]: [2] VeemID [DogParty, Level 0]: MieSlime: ah
 [2021-04-08 04:56:53]: [2] VeemID [DogParty, Level 0]: MieSlime: go test
+[2021-04-08 04:56:59]: ***  [hýÿÿ, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-08 04:57:03]: CKA3A4NIK[NR] [Night Raid, Level 35]: Nudelsaft c::  xD
