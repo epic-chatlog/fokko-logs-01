@@ -3877,3 +3877,7 @@
 [2021-04-08 05:53:48]: (1) [Ape, Level 0]: oyon
 [2021-04-08 05:53:59]: kiøn1029 [.bad, Level 0]: f"{self.name}": don't try it
 [2021-04-08 05:54:00]: f"{self.name}" [, Level 18]: kiøn1029: :D
+[2021-04-08 05:54:03]: VeemID [DogParty, Level 0]: i give you jetpack let me be free
+[2021-04-08 05:54:03]: ***  [, Level 0]: 'ĦỮǤØ' changed name to 'x7|Flipper'
+[2021-04-08 05:54:07]: f"{self.name}" [, Level 18]: kiøn1029: i wont i promise :D
+[2021-04-08 05:54:08]: ***  [, Level 0]: 'x7|Flipper' changed name to 'ĦỮǤØ'
