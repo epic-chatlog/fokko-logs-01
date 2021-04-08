@@ -11908,3 +11908,4 @@
 [2021-04-08 14:12:22]: ***  [, Level 0]: 'Shroom' entered and joined the game
 [2021-04-08 14:12:42]: ***  [, Level 0]: 'Chrysalis' entered and joined the game
 [2021-04-08 14:12:50]: ***  [, Level 0]: 'brainless tee' entered and joined the game
+[2021-04-08 14:14:37]: ***  [, Level 0]: 'Chrysalis' has left the game
