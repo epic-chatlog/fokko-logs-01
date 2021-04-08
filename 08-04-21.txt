@@ -5310,3 +5310,7 @@
 [2021-04-08 07:38:40]:   [, Level 0]: Hunter.exe: Kirito♥: full bonus 2vs1 and want win
 [2021-04-08 07:38:40]: Kezo [FookinLads, Level 41]: YelloWorlD: hmm ok join
 [2021-04-08 07:38:48]: Kezo [FookinLads, Level 41]: YelloWorlD: i go left fookinlads now
+[2021-04-08 07:38:49]: Kirito♥ [♥, Level 40]: Hunter.exe: still taser
+[2021-04-08 07:38:54]: ***  [, Level 0]: 'Deadmouse' entered and joined the game
+[2021-04-08 07:38:56]: YelloWorlD [DogParty, Level 37]: Kezo: write DogParty
+[2021-04-08 07:38:57]:   [, Level 0]: Hunter.exe: Kirito♥: still noobs
