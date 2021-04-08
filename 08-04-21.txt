@@ -4309,3 +4309,5 @@
 [2021-04-08 06:31:00]: ***  [, Level 0]: 'x7|cya' entered and joined the game
 [2021-04-08 06:31:15]:   [, Level 0]: power2: wtf woona
 [2021-04-08 06:31:29]: ***  [, Level 0]: 'x7|Flipper' has left the game
+[2021-04-08 06:31:35]: ***  [, Level 0]: woona is on a killing spree with 5 blocks
+[2021-04-08 06:31:38]: ***  [, Level 0]: '(1)nameless tee' has left the game
