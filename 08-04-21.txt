@@ -8620,3 +8620,6 @@
 [2021-04-08 10:44:11]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-08 10:44:12]:   [, Level 0]: cookie: nooooo
 [2021-04-08 10:44:14]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-08 10:44:15]: iMxtteo [, Level 26]: ♥TAKO♥: ?
+[2021-04-08 10:44:19]: ***  [, Level 0]: '[D] Hunter.exe' entered and joined the game
+[2021-04-08 10:44:24]: ♥TAKO♥ [, Level 25]: iMxtteo: why u not save me
