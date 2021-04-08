@@ -1386,3 +1386,4 @@
 [2021-04-08 02:15:46]: jorden [, Level 0]: ChillerDragon:
 [2021-04-08 02:15:49]: ChillerDragon.* [|*KoG*|, Level 41]: what is "giving change" jorden ?
 [2021-04-08 02:15:51]: jorden [, Level 0]: ChillerDragon: delete bonus
+[2021-04-08 02:16:12]: ChillerDragon [Chilli.*, Level 44]: we are working on bonus refactor jorden
