@@ -1527,3 +1527,7 @@
 [2021-04-08 02:26:04]: Kong [[_Any %_], Level 0]: help
 [2021-04-08 02:26:04]: ERROR. [404, Level 56]: nur leute die nervig sind, also ihn
 [2021-04-08 02:26:06]: Anatomy [MaL4iki kz, Level 35]: x7|cya: ok.
+[2021-04-08 02:26:10]: ***  [, Level 0]: 'Friendiship ²' entered and joined the game
+[2021-04-08 02:26:15]: power [TrRShClNrRs, Level 14]: come
+[2021-04-08 02:26:16]: power [TrRShClNrRs, Level 14]: [D] BC|kakashi:
+[2021-04-08 02:26:18]: ***  [, Level 0]: 'NETFLIX' has left the game
