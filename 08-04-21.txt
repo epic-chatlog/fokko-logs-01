@@ -2044,3 +2044,6 @@
 [2021-04-08 03:37:24]: Nudelsaft c: [FookinLads, Level 37]: ok
 [2021-04-08 03:37:27]: OP|Supers [DogParty, Level 39]: Nudelsaft c::  komm auf dein plot
 [2021-04-08 03:37:31]: YelloWorlD [DogParty, Level 37]: Nudelsaft c:: join Dog Party
+[2021-04-08 03:37:36]: ***  [, Level 0]: 'ßumßelTEE' entered and joined the game
+[2021-04-08 03:37:39]: ***  [, Level 0]: 'ßumßelTEE' has left the game
+[2021-04-08 03:37:44]: ***  [, Level 0]: 'ßumßelTEE' entered and joined the game
