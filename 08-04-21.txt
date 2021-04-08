@@ -11160,3 +11160,5 @@
 [2021-04-08 13:03:45]: ***  [, Level 0]: 'fomjn' has left the game
 [2021-04-08 13:03:49]: ***  [, Level 0]: '(1)nameless tee' has left the game
 [2021-04-08 13:03:49]: ***  [, Level 0]: 'el champeon' has left the game
+[2021-04-08 13:03:55]: GOLD [404, Level 40]: mamikral011: watf
+[2021-04-08 13:04:07]: Zephir™ [, Level 39]: GOLD: YelloWorlD ????
