@@ -5679,3 +5679,7 @@
 [2021-04-08 08:10:03]: ***  [, Level 0]: KS| Ty4ka finished in: 7 minute(s)  7.32 second(s)
 [2021-04-08 08:10:08]: ***  [, Level 0]: Mʎɹ シ finished in: 2 minute(s) 29.62 second(s)
 [2021-04-08 08:10:08]: ***  [, Level 0]: New record: 38.30 second(s) better.
+[2021-04-08 08:10:22]: Kong [[_Any %_], Level 0]: XD
+[2021-04-08 08:10:23]: ***  [, Level 0]: 'Hunter.exe' changed name to '(1)'
+[2021-04-08 08:10:27]: ***  [, Level 0]: '(1)Hunter.exe' changed name to 'Hunter.exe'
+[2021-04-08 08:10:31]: ***  [, Level 0]: '(1)' changed name to '(1) Hunter.exe'
