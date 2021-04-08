@@ -520,3 +520,4 @@
 [2021-04-08 01:06:07]: ***  [, Level 0]: 'Swarfey' has left the game
 [2021-04-08 01:06:07]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-08 01:06:07]: ***  [, Level 0]: 'BC|Tixnix' has left the game (Timeout)
+[2021-04-08 01:06:25]: x7|zemer [xSD7, Level 37]: falkenauge: Ich werde dir helfen
