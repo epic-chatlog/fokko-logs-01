@@ -11146,3 +11146,4 @@
 [2021-04-07 17:32:11]: ***  [, Level 0]: 'floras10024' entered and joined the game
 [2021-04-07 17:32:25]: ***  [, Level 0]: 'floras10024' has left the game
 [2021-04-07 17:32:46]: ***  [, Level 0]: 'popseph' entered and joined the game
+[2021-04-07 17:32:56]: ***  [, Level 0]: 'popseph' has left the game
