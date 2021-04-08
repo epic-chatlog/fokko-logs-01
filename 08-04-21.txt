@@ -3548,3 +3548,5 @@
 [2021-04-08 05:24:07]:   [, Level 0]: S Y T H N: [D] \\Syth: who are youß
 [2021-04-08 05:24:10]: Kiøn1029 [.bad, Level 31]: ChillerDragon.*: bazdmeg hogy elmodtad
 [2021-04-08 05:24:11]: ChillerDragon [|*KoG*|, Level 44]: Kiøn1029: I am currently afk.
+[2021-04-08 05:24:16]: Kiøn1029 [.bad, Level 31]: ChillerDragon.*: nem is tudtam
+[2021-04-08 05:24:16]: ChillerDragon [|*KoG*|, Level 44]: Kiøn1029: I am currently afk.
