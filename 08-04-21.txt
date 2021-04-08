@@ -4300,3 +4300,5 @@
 [2021-04-08 06:30:07]: ***  [, Level 0]: 'power2' entered and joined the game
 [2021-04-08 06:30:12]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
 [2021-04-08 06:30:21]: ***  [, Level 0]: '(1)Warrior' entered and joined the game
+[2021-04-08 06:30:36]: ***  [, Level 0]: '(1)Warrior' has left the game
+[2021-04-08 06:30:40]: Foxie♥ [♥, Level 40]: x7|sven: sry forgot
