@@ -5419,3 +5419,5 @@
 [2021-04-08 07:48:42]: ***  [, Level 0]: 'EEEEEEEEEEEEEEE' changed name to 'cunt'
 [2021-04-08 07:48:46]: x7|sven [xSD7, Level 20]: ????
 [2021-04-08 07:48:48]: ***  [, Level 0]: '[D] x7|cya' entered and joined the game
+[2021-04-08 07:49:06]:   [, Level 0]: Flipper: english?
+[2021-04-08 07:49:09]: ~DemoizL~ [, Level 39]: yes
