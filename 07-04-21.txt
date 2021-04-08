@@ -11338,3 +11338,4 @@
 [2021-04-07 21:58:08]: (1)SAUD [, Level 0]: Rem's bae:  ok
 [2021-04-07 21:58:10]: (1)SAUD [, Level 0]: ty
 [2021-04-07 21:58:47]: ***  [, Level 0]: '(1)Boti.' entered and joined the game
+[2021-04-07 21:59:46]: ***  [, Level 0]: '(1)Boti.' has left the game
