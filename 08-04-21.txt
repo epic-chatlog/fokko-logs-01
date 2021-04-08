@@ -3860,3 +3860,5 @@
 [2021-04-08 05:51:18]: ***  [, Level 0]: '(1)flappy' changed name to 'x7|Flipper'
 [2021-04-08 05:51:19]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-08 05:51:21]: S Y T H N [DogParty, Level 37]: SAUD: zemer saaid you was 50 years old
+[2021-04-08 05:51:35]: ***  [, Level 0]: el champeon is on a killing spree with 10 blocks
+[2021-04-08 05:51:43]: VeemID [DogParty, Level 0]: S Y N T H : help me why you block me ?
