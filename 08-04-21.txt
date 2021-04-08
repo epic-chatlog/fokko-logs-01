@@ -11019,3 +11019,6 @@
 [2021-04-08 12:47:57]: GOLD [404, Level 40]: ERROR: what omg u lose 1v1
 [2021-04-08 12:48:11]: ***  [, Level 0]: 'toxicdaddy' entered and joined the game
 [2021-04-08 12:48:17]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-08 12:48:32]: mamikral011 [DogParty, Level 26]: YelloWorlD: ?
+[2021-04-08 12:48:36]: ***  [, Level 0]: 'f"{self.name}"' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 12:48:36]: ***  [, Level 0]: '__init__(self):' has left the game (Too weak connection (not acked for 60 seconds))
