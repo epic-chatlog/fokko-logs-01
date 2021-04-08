@@ -1591,3 +1591,6 @@
 [2021-04-08 02:31:47]: YelloWorlD [DogParty, Level 37]: ERROR: jz gera
 [2021-04-08 02:31:48]: YelloWorlD [DogParty, Level 37]: ERROR: jz gerade
 [2021-04-08 02:31:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-08 02:32:13]: YelloWorlD [DogParty, Level 37]: ERROR: jz gerade
+[2021-04-08 02:32:16]: ERROR [404, Level 74]: jz gerade
+[2021-04-08 02:32:17]: ***  [, Level 0]: 'Vodo4ka' has left the game
