@@ -10730,3 +10730,8 @@
 [2021-04-08 12:30:08]: toxicdaddy [, Level 26]: Nonoh:
 [2021-04-08 12:30:17]:   [, Level 0]: HardreenClutch: Kezo: rly dude afk block ?
 [2021-04-08 12:30:24]:   [, Level 0]: Falco641: cookie:
+[2021-04-08 12:30:38]: ***  [, Level 0]: 'mamikral011' has left the game (Timeout)
+[2021-04-08 12:30:38]: ***  [, Level 0]: '[D] mamikral011' has left the game (Timeout)
+[2021-04-08 12:30:41]: Lucas [THECEPS, Level 34]: __init__(self):: i was coming back
+[2021-04-08 12:30:41]:   [, Level 0]: GOLD: Fearless: ur ?
+[2021-04-08 12:30:44]: Fearless [DogParty, Level 40]: GOLD:  ye
