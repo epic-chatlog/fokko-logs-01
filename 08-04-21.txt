@@ -3838,3 +3838,5 @@
 [2021-04-08 05:48:49]: ***  [, Level 0]: '(1)flappy' changed name to 'ĦỮǤØ'
 [2021-04-08 05:48:58]: ***  [, Level 0]: 'ĦỮǤØ' changed name to '(1)flappy'
 [2021-04-08 05:49:13]: ***  [, Level 0]: '(1)flappy' changed name to 'x7|Flipper'
+[2021-04-08 05:49:23]: ***  [, Level 0]: 'moonman' entered and joined the game
+[2021-04-08 05:49:24]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
