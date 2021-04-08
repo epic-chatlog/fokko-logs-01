@@ -10937,3 +10937,10 @@
 [2021-04-08 12:43:01]: YelloWorlD [DogParty, Level 41]: GReeeN: why u dont want jz gerade
 [2021-04-08 12:43:05]: (1)cookie [, Level 0]: __init__(self)::  who are you
 [2021-04-08 12:43:07]: GReeeN [, Level 0]: any:  you dont want help me okey
+[2021-04-08 12:43:19]: __init__(self): [, Level 0]: (1)cookie: im f"{self.name}"
+[2021-04-08 12:43:22]: ***  [, Level 0]: 'Nonoh' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 12:43:22]: ***  [, Level 0]: 'Noémi[Đ]' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 12:43:24]: ***  [, Level 0]: '(1)[D] Hunter.ex' has left the game
+[2021-04-08 12:43:24]: ***  [, Level 0]: '(1) Hunter.exe' has left the game
+[2021-04-08 12:43:25]: (1)cookie [, Level 0]: __init__(self)::  oow sorry
+[2021-04-08 12:43:25]: ***  [, Level 0]: 'RoberGN' has left the game
