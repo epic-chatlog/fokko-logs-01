@@ -2291,3 +2291,9 @@
 [2021-04-08 04:04:37]: ***  [hýÿÿ, Level 0]: 'x7 sven' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-08 04:04:37]: [D] Swipez [, Level 25]: bob: sorry
 [2021-04-08 04:04:37]: ***  [hýÿÿ, Level 0]: 'bob weqe fan' entered and joined the game
+[2021-04-08 04:04:41]: [D] Swipez [, Level 25]: bob: sorry
+[2021-04-08 04:04:41]: Tom [, Level 32]: ?
+[2021-04-08 04:04:42]: Axandos [, Level 0]: er hat gold geholfen bobq
+[2021-04-08 04:04:43]: Axandos [, Level 0]: er hat gold geholfen bob
+[2021-04-08 04:04:47]: Tom [, Level 32]: T???????????//
+[2021-04-08 04:04:47]: bob [Legacyâ„¢, Level 36]: ok
