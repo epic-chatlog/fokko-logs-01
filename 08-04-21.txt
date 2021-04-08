@@ -649,3 +649,8 @@
 [2021-04-08 01:16:01]: GODLIKe [u, Level 44]: restart: ı need help
 [2021-04-08 01:16:13]: ***  [, Level 0]: resart finished in: 1 minute(s)  3.02 second(s)
 [2021-04-08 01:16:13]: ***  [, Level 0]: New record: 4 minute(s) 56.62 second(s) better.
+[2021-04-08 01:16:18]: ***  [, Level 0]: 'Rem's bae' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 01:16:20]: GODLIKe [u, Level 44]: restart: ->
+[2021-04-08 01:16:20]: ***  [, Level 0]: restart finished in: 2 minute(s) 48.02 second(s)
+[2021-04-08 01:16:23]: (1)Friendiship  [, Level 0]: YelloWorlD: dsl, je suis pas un noob mais pas un pro non plus, salut je dois y aller
+[2021-04-08 01:16:26]: ***  [, Level 0]: '(1)Friendiship ;' has left the game
