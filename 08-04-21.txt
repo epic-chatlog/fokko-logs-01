@@ -1941,3 +1941,5 @@
 [2021-04-08 03:22:18]: OP|Supers [DogParty, Level 39]: Swipez:  ahhahahhahh hahahno skil
 [2021-04-08 03:22:20]: ***  [, Level 0]: Lucas finished in: 3 minute(s) 30.42 second(s)
 [2021-04-08 03:22:20]: ***  [, Level 0]: New record:  7.96 second(s) better.
+[2021-04-08 03:22:45]: OP|Supers [DogParty, Level 39]: Swipez:  noob
+[2021-04-08 03:22:50]: OP|Supers [DogParty, Level 39]: ahahhah
