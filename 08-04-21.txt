@@ -5965,3 +5965,7 @@
 [2021-04-08 08:28:58]: Hunter.exe [DogParty, Level 36]: flappy:
 [2021-04-08 08:28:59]: Hunter.exe [DogParty, Level 36]: Flipper:
 [2021-04-08 08:29:00]:   [, Level 0]: Fearless: omg
+[2021-04-08 08:29:02]: Котяра [, Level 20]: Mʎɹ シ: для тайзера надо 30 левел и 50 к
+[2021-04-08 08:29:06]: ***  [, Level 0]: 'Saga' entered and joined the game
+[2021-04-08 08:29:07]: Котяра [, Level 20]: Mʎɹ シ: или ты не про ето?
+[2021-04-08 08:29:13]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
