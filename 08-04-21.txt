@@ -5307,3 +5307,6 @@
 [2021-04-08 07:38:32]: ***  [, Level 0]: '[D] Deadmouse' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-08 07:38:33]: YelloWorlD [DogParty, Level 37]: Kezo: join or no ?
 [2021-04-08 07:38:35]: ♥JustRace♥ [no-clan, Level 36]: \
+[2021-04-08 07:38:40]:   [, Level 0]: Hunter.exe: Kirito♥: full bonus 2vs1 and want win
+[2021-04-08 07:38:40]: Kezo [FookinLads, Level 41]: YelloWorlD: hmm ok join
+[2021-04-08 07:38:48]: Kezo [FookinLads, Level 41]: YelloWorlD: i go left fookinlads now
