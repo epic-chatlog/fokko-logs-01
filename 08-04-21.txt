@@ -5933,3 +5933,4 @@
 [2021-04-08 08:26:41]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 08:26:41]: Hunter.exe [DogParty, Level 36]: MieSlime: then tell me that lol
 [2021-04-08 08:26:45]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-08 08:26:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
