@@ -591,3 +591,5 @@
 [2021-04-08 01:11:57]: Vodo4ka [JB.st, Level 41]: (1)ERROR: i dont know dat we peaced
 [2021-04-08 01:11:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-08 01:12:03]: Vodo4ka [JB.st, Level 41]: (1)ERROR: it was just 1 day break u know
+[2021-04-08 01:12:08]: (1)Friendiship  [, Level 0]: ddnet
+[2021-04-08 01:12:15]: Meetiteusz [TrRShClNrRs, Level 0]: ERROR: So?
