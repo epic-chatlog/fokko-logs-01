@@ -11235,3 +11235,4 @@
 [2021-04-08 13:10:49]: ***  [, Level 0]: 'fameless tea' has left the game
 [2021-04-08 13:10:49]: mamikral011 [DogParty, Level 26]: (1)cookie: thank
 [2021-04-08 13:10:52]: (1)cookie [, Level 2]: now jetpack you have
+[2021-04-08 13:10:59]: Zephir™ [, Level 39]: GOLD: look my level, im not new
