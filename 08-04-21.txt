@@ -11713,3 +11713,4 @@
 [2021-04-08 13:43:42]: Cassie [, Level 0]: xddd
 [2021-04-08 13:43:44]: ERROR [404, Level 74]: nothing wtf xDDD
 [2021-04-08 13:43:51]: ***  [, Level 0]: 'Zyver' has left the game
+[2021-04-08 13:44:00]: ***  [, Level 0]: Kaptar's killing spree was ended by Zephir™ (5 blocks)
