@@ -12890,3 +12890,6 @@
 [2021-04-08 16:27:10]: ***  [, Level 0]: 'S Y T H N' changed name to 'нυƨнıκε'
 [2021-04-08 16:27:16]: ***  [, Level 0]: 'Meow' entered and joined the game
 [2021-04-08 16:27:28]: нυƨнıκε [zε†α, Level 37]: komm dc wieder wtf
+[2021-04-08 16:27:42]: ***  [, Level 0]: 'Meow' has left the game
+[2021-04-08 16:27:46]: ***  [, Level 0]: 'Meow' entered and joined the game
+[2021-04-08 16:27:50]: Hunter.exe [DogParty, Level 36]: https://discord.gg/DcfTn6Js
