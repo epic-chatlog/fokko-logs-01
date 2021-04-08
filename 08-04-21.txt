@@ -1746,3 +1746,4 @@
 [2021-04-08 02:51:05]: ***  [, Level 0]: 'Nidardo.' has left the game
 [2021-04-08 02:51:05]: ***  [, Level 0]: 'NidardoHD' has left the game
 [2021-04-08 02:51:32]: ***  [, Level 0]: 'Getpon' changed name to '[D] NinjaGouwe'
+[2021-04-08 02:51:45]: ***  [, Level 0]: '»ℱℬℑ«' entered and joined the game
