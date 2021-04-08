@@ -11865,3 +11865,4 @@
 [2021-04-08 14:04:34]: ***  [, Level 0]: 'Allah Cat' has left the game
 [2021-04-08 14:04:36]: ERROR. [404, Level 56]: das sieht doch gut aus
 [2021-04-08 14:04:40]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
+[2021-04-08 14:05:01]: ***  [, Level 0]: '(1)soleri1' has left the game
