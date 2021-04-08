@@ -3901,3 +3901,6 @@
 [2021-04-08 05:55:13]: Supers [ᅟᅟᅟ, Level 0]: ?
 [2021-04-08 05:55:14]: Supers [ᅟᅟᅟ, Level 0]: xD
 [2021-04-08 05:55:16]:   [, Level 0]: kiøn1029: you have tried
+[2021-04-08 05:55:21]: bob [Legacy™, Level 36]: Warrior: nice
+[2021-04-08 05:55:26]: f"{self.name}" [, Level 18]: kiøn1029: lag
+[2021-04-08 05:55:30]:   [, Level 0]: kiøn1029: ye ye
