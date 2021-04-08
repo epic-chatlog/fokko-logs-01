@@ -2264,3 +2264,4 @@
 [2021-04-08 04:01:44]: CKA3A4NIK[NR] [Night Raid, Level 35]: restart:  Stop or you have big problem
 [2021-04-08 04:01:53]: CKA3A4NIK[NR] [Night Raid, Level 35]: HeavyGeneral:  убей клоунов в полисе плиз
 [2021-04-08 04:01:55]: ***  [, Level 0]: 'JxK|JoK'Air' has left the game
+[2021-04-08 04:01:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
