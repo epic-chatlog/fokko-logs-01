@@ -6538,3 +6538,8 @@
 [2021-04-08 08:50:56]: ***  [, Level 0]: 'power' has left the game
 [2021-04-08 08:50:57]: ***  [, Level 0]: 'ninjainnit' has left the game
 [2021-04-08 08:50:57]:   [, Level 0]: falkenauge: [D] BC|Tixnix:
+[2021-04-08 08:51:00]:   [, Level 0]: comic: [D] BC|serwan:
+[2021-04-08 08:51:02]:   [, Level 0]: JustRace.: cl_aimbot 1
+[2021-04-08 08:51:03]: ***  [, Level 0]: '[D] tee' entered and joined the game
+[2021-04-08 08:51:03]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-08 08:51:07]:   [, Level 0]: JustRace.: cl_aimbot 1
