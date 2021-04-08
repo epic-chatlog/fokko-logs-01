@@ -3890,3 +3890,7 @@
 [2021-04-08 05:54:34]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-08 05:54:35]: bob [Legacy™, Level 36]: (1)OP|Supers: war
 [2021-04-08 05:54:38]: WarHammer [, Level 26]: NetFlix:  BOMB
+[2021-04-08 05:54:40]: Supers [ᅟᅟᅟ, Level 0]: bob: ??????
+[2021-04-08 05:54:44]: bob [Legacy™, Level 36]: help dude
+[2021-04-08 05:54:46]: Supers [ᅟᅟᅟ, Level 0]: bob: what did i do
+[2021-04-08 05:54:49]: bob [Legacy™, Level 36]: HEL PME
