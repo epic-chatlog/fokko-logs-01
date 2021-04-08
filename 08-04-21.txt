@@ -7499,3 +7499,5 @@
 [2021-04-08 09:59:46]: ***  [, Level 0]: 'INFFII%100' entered and joined the game
 [2021-04-08 09:59:47]: ***  [, Level 0]: 'Koplokon' entered and joined the game
 [2021-04-08 09:59:48]: ***  [, Level 0]: 'zZz' entered and joined the game
+[2021-04-08 10:00:00]: ***  [, Level 0]: fomjn is on a killing spree with 15 blocks
+[2021-04-08 10:00:00]: (2)Trololo [, Level 0]: ¯\_(ツ)_/¯
