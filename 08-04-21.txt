@@ -11268,3 +11268,6 @@
 [2021-04-08 13:13:04]: ChillerDragon [Chilli.*, Level 45]: Cassie: I am currently afk.
 [2021-04-08 13:13:12]: Maatiteusz [TrRShClNrRs, Level 35]: GOLD: dude
 [2021-04-08 13:13:13]: Falco642 [, Level 0]: Kirito♥: <<<
+[2021-04-08 13:13:22]: ***  [, Level 0]: 'Hunter.exe' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 13:13:23]: Tziys* [DogPartya, Level 39]: YelloWorlD:
+[2021-04-08 13:13:24]: mamikral011 [DogParty, Level 26]: fuck
