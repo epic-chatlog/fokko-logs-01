@@ -1852,3 +1852,5 @@
 [2021-04-08 03:10:04]: ***  [, Level 0]: 'Kacper' has left the game
 [2021-04-08 03:10:28]: ***  [, Level 0]: 'Mr.EastcoastMF' has left the game
 [2021-04-08 03:10:37]: ***  [, Level 0]: 'Clément le BG' entered and joined the game
+[2021-04-08 03:10:47]: ***  [, Level 0]: '(1)' entered and joined the game
+[2021-04-08 03:10:48]: BC|kakashi [BC, Level 0]: YelloWorlD:
