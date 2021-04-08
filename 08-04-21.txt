@@ -12253,3 +12253,4 @@
 [2021-04-08 14:56:36]: brainless tee [, Level 0]: bruh
 [2021-04-08 14:56:40]: Zephir™ [, Level 39]: fomin: bad
 [2021-04-08 14:56:50]: fomin [RUA, Level 0]: lags :C
+[2021-04-08 14:56:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
