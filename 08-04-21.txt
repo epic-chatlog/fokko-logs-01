@@ -5826,3 +5826,7 @@
 [2021-04-08 08:20:11]: Hunter.exe [DogParty, Level 36]: MieSlime: <<
 [2021-04-08 08:20:13]: ᅟ [DogParty, Level 36]: Hunter.exe:  dont
 [2021-04-08 08:20:15]: ᅟ [DogParty, Level 36]: Hunter.exe:  MieSlime  helped them,
+[2021-04-08 08:20:19]:   [, Level 0]: ビール|Zero: лучший
+[2021-04-08 08:20:23]: ᅟ [DogParty, Level 36]: Hunter.exe:  and he kills us
+[2021-04-08 08:20:25]: ***  [, Level 0]: '(1)NetFlix' entered and joined the game
+[2021-04-08 08:20:25]: ᅟ [DogParty, Level 36]: Hunter.exe:  noice
