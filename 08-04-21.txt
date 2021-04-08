@@ -11890,3 +11890,5 @@
 [2021-04-08 14:08:45]: ***  [, Level 0]: Zephir™ is on a killing spree with 5 blocks
 [2021-04-08 14:09:04]: ***  [, Level 0]: Zephir™ is on a killing spree with 10 blocks
 [2021-04-08 14:09:27]: ***  [, Level 0]: Zephir™ is on a killing spree with 15 blocks
+[2021-04-08 14:09:57]: ***  [, Level 0]: Zephir™'s killing spree was ended by Korlan (18 blocks)
+[2021-04-08 14:09:57]: Korlan [, Level 0]: j'ai pas compris les regles mdr
