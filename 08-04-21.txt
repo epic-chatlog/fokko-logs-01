@@ -2183,3 +2183,5 @@
 [2021-04-08 03:55:06]: Axandos [, Level 0]: bob:  links
 [2021-04-08 03:55:32]: ***  [, Level 0]: 'gian x' has left the game (Timeout)
 [2021-04-08 03:55:35]: ***  [, Level 0]: 'gian x' entered and joined the game
+[2021-04-08 03:55:46]: bob [Legacy™, Level 36]: bonjour
+[2021-04-08 03:55:51]: Axandos [, Level 0]: salut
