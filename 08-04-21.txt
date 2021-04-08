@@ -3992,3 +3992,9 @@
 [2021-04-08 06:02:19]: ***  [, Level 0]: 'moonman' has left the game
 [2021-04-08 06:02:21]:   [, Level 0]: Kiøn1029: I GET 20 MIN TO AFK IN THE JAIL
 [2021-04-08 06:02:26]: GODLIKe [u, Level 44]: beb weqe fan:
+[2021-04-08 06:02:27]: Jerry [, Level 29]: LAAGGGG
+[2021-04-08 06:02:28]: ***  [, Level 0]: 'moonman' entered and joined the game
+[2021-04-08 06:02:28]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
+[2021-04-08 06:02:33]:   [, Level 0]: Kiøn1029: BECAUSE YOU NEEDED TO HAMMER ME
+[2021-04-08 06:02:36]: ***  [, Level 0]: Soros's killing spree was ended by f"{self.name}" (5 blocks)
+[2021-04-08 06:02:38]: ĦỮǤØ [ŞƤΔŴŇ, Level 14]: syth
