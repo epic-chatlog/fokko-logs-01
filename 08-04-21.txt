@@ -12857,3 +12857,5 @@
 [2021-04-08 16:22:00]: Fearless [DogParty, Level 15]: can u help
 [2021-04-08 16:22:03]: Hunter.exe [DogParty, Level 36]: s6_sven: welchen server
 [2021-04-08 16:22:19]: s6_sven [, Level 21]: Hunter.exe:  Bist du dumm?
+[2021-04-08 16:22:25]: ***  [, Level 0]: 'iMxtteo' entered and joined the game
+[2021-04-08 16:22:29]: s6_sven [, Level 21]: ich rette dich du tötest mich logik?
