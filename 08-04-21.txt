@@ -2137,3 +2137,6 @@
 [2021-04-08 03:50:40]: ***  [, Level 0]: 'Cr7xxx' entered and joined the game
 [2021-04-08 03:50:49]: Axandos [, Level 0]: oof
 [2021-04-08 03:50:53]: Axandos [, Level 0]: macht so portal :C
+[2021-04-08 03:51:00]: ***  [, Level 0]: 'JxK|JoK'Air' entered and joined the game
+[2021-04-08 03:51:08]: ***  [, Level 0]: 'CKA3A4NIK[NR]' entered and joined the game
+[2021-04-08 03:51:09]: ERROR. [404, Level 56]: so muss arbeiten bb
