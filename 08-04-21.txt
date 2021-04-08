@@ -8584,3 +8584,7 @@
 [2021-04-08 10:42:23]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-08 10:42:26]: ***  [, Level 0]: 'sun.slow(y)' has left the game
 [2021-04-08 10:42:29]: woona [, Level 48]: iMxtteo: ?
+[2021-04-08 10:42:34]:   [, Level 0]: Hunter.exe: bob: huh?
+[2021-04-08 10:42:38]:   [, Level 0]: bob: b aby
+[2021-04-08 10:42:39]:   [, Level 0]: bob: hol die bong
+[2021-04-08 10:42:43]: Kaptar [, Level 0]: sry bob xs
