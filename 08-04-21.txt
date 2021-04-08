@@ -11122,3 +11122,7 @@
 [2021-04-08 12:59:02]: ***  [, Level 0]: '(1)Kirito♥' would have timed out, but can use timeout protection now
 [2021-04-08 12:59:09]: ***  [, Level 0]: '(2)Kirito♥' has left the game (Timeout Protection used)
 [2021-04-08 12:59:21]: Zephir™ [, Level 39]: cookie: let him go
+[2021-04-08 12:59:29]: Zephir™ [, Level 39]: cookie: stop
+[2021-04-08 12:59:29]: YelloWorlD [DogParty, Level 41]: HardreenClutch: STOP BORING
+[2021-04-08 12:59:32]: ***  [, Level 0]: '(2)Kirito♥' entered and joined the game
+[2021-04-08 12:59:35]: ***  [, Level 0]: '(2)Kirito♥' has left the game (Timeout Protection used)
