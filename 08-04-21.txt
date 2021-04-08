@@ -5845,3 +5845,8 @@
 [2021-04-08 08:20:48]: Kong [[_Any %_], Level 0]: in right part
 [2021-04-08 08:21:15]: ***  [, Level 0]: '(1)NetFlix' entered and joined the game
 [2021-04-08 08:21:31]: MieSlime [FookinLads, Level 43]: ChillerDragon:  look ur live stream
+[2021-04-08 08:21:34]: MieSlime [FookinLads, Level 43]: ChillerDragon:  look chat
+[2021-04-08 08:21:37]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 08:21:38]:   [, Level 0]: ビール|Zero: 214777XDDDD
+[2021-04-08 08:21:39]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 08:21:43]:   [, Level 0]: ビール|Zero: 214 777 k
