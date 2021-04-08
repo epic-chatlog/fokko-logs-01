@@ -861,3 +861,9 @@
 [2021-04-08 01:31:02]: ***  [, Level 0]: '(1)ChillerDragon' changed name to '(3)ChillerDragon'
 [2021-04-08 01:31:11]: SAUD [, Level 24]: xD
 [2021-04-08 01:31:11]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 30.28 second(s)
+[2021-04-08 01:31:17]: (1)ChillerDrago [|*KoG*|, Level 32]: ez x7|zemer
+[2021-04-08 01:31:18]: ***  [, Level 0]: 'zemer' entered and joined the game
+[2021-04-08 01:31:23]: [D] mamikral011 [DogParty, Level 0]: ERROR.:
+[2021-04-08 01:31:28]: VeemID [DogParty, Level 26]: OP|Supers: look my clan...
+[2021-04-08 01:31:29]: [D] mamikral011 [DogParty, Level 0]: ERROR.: come
+[2021-04-08 01:31:29]: ***  [, Level 0]: 'zemer' has left the game
