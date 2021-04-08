@@ -12633,3 +12633,4 @@
 [2021-04-08 15:51:18]: S Y T H N [DogParty, Level 37]: Fearless:
 [2021-04-08 15:51:31]: Fearless [DogParty, Level 40]: men i get portal u dead
 [2021-04-08 15:51:53]: Fearless [DogParty, Level 40]: Flipper:  check dc
+[2021-04-08 15:51:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
