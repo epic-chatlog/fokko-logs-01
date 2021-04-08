@@ -4948,3 +4948,7 @@
 [2021-04-08 07:16:54]: jcanela2022 [, Level 0]: dddd         d   a a
 [2021-04-08 07:16:58]: YelloWorlD [DogParty, Level 37]: ChillerDragon: put me admin on ur youtube channel
 [2021-04-08 07:16:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-08 07:17:03]: ChillerDragon [Chilli.*, Level 44]: ? YelloWorlD
+[2021-04-08 07:17:11]: ***  [, Level 0]: 'Fighter' changed name to '(2)'
+[2021-04-08 07:17:11]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 07:17:13]: ***  [, Level 0]: 'jeder' entered and joined the game
