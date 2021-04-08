@@ -3325,3 +3325,5 @@
 [2021-04-08 05:08:53]: ***  [, Level 0]: '[D] \\Syth' entered and joined the game
 [2021-04-08 05:09:04]: ***  [, Level 0]: 'DiscordBridge' has left the game
 [2021-04-08 05:09:04]: ***  [, Level 0]: 'o' has left the game
+[2021-04-08 05:11:39]: ***  [, Level 0]: Successfully logged in
+[2021-04-08 05:11:46]: MieSlime [FookinLads, Level 43]: (1)OP|Supers:  noob endless
