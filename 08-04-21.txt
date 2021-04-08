@@ -279,3 +279,4 @@
 [2021-04-08 00:26:40]: BC|Tixnix [BC, Level 34]: GODLIKe: xD
 [2021-04-08 00:26:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-08 00:28:15]: WarHammer [, Level 26]: ?
+[2021-04-08 00:28:32]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
