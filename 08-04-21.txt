@@ -2259,3 +2259,5 @@
 [2021-04-08 04:01:20]: ***  [, Level 0]: 'Kezo' has left the game
 [2021-04-08 04:01:23]: [D] Swipez [, Level 25]: bob: im say ss
 [2021-04-08 04:01:27]: bob [Legacy™, Level 36]: whats ss
+[2021-04-08 04:01:37]: [D] Swipez [, Level 25]: say sorry
+[2021-04-08 04:01:42]: [D] Swipez [, Level 25]: its ss
