@@ -369,3 +369,7 @@
 [2021-04-08 00:49:29]: ***  [, Level 0]: 'OpTEEmus Crime' entered and joined the game
 [2021-04-08 00:49:37]: Supers [ᅟᅟᅟ, Level 0]: OpTEEmus Crime:  YOU REMEMBER ME
 [2021-04-08 00:49:40]: ***  [, Level 0]: 'comic' entered and joined the game
+[2021-04-08 00:49:47]: Supers [ᅟᅟᅟ, Level 0]: OpTEEmus Crime:  YOUR DUMMY WAS BUMBLETEE
+[2021-04-08 00:49:48]: OpTEEmus Crime [, Level 0]: hi
+[2021-04-08 00:49:52]: OpTEEmus Crime [, Level 0]: yes
+[2021-04-08 00:49:53]: OP|Supers [DogParty, Level 39]: you played pepe
