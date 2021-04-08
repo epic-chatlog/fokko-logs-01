@@ -11234,3 +11234,5 @@
 [2021-04-07 20:20:04]: ***  [, Level 0]: '\\Syth' would have timed out, but can use timeout protection now
 [2021-04-07 20:20:04]: ***  [, Level 0]: '[D] \\Syth' would have timed out, but can use timeout protection now
 [2021-04-07 20:22:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-07 20:24:04]: ***  [, Level 0]: '\\Syth' has left the game (Timeout Protection over)
+[2021-04-07 20:24:04]: ***  [, Level 0]: '[D] \\Syth' has left the game (Timeout Protection over)
