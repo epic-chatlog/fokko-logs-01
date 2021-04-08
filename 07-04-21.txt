@@ -11645,3 +11645,7 @@
 [2021-04-07 23:51:02]: WarHammer [, Level 0]: ERROR:  SA
 [2021-04-07 23:51:10]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
 [2021-04-07 23:51:11]: Cylox [♥, Level 30]: WarHammer: sa
+[2021-04-07 23:51:14]: WarHammer [, Level 0]: Cylox:  AS
+[2021-04-07 23:51:14]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
+[2021-04-07 23:51:21]: Cylox [♥, Level 30]: WarHammer: AS SANADA
+[2021-04-07 23:51:22]: WarHammer [, Level 0]: ERROR:  bi el atsan diyorum
