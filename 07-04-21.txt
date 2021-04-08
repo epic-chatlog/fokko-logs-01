@@ -11556,3 +11556,6 @@
 [2021-04-07 23:25:40]: power [TrRShClNrRs, Level 0]: shes my mother aswell
 [2021-04-07 23:26:07]: ***  [, Level 0]: '(1)Mr.KshKsh99' has left the game
 [2021-04-07 23:26:07]: ***  [, Level 0]: '(1)x7|KshKsh99' has left the game
+[2021-04-07 23:26:28]: Mr.KshKsh99 [xSD7, Level 0]: x7 sven:
+[2021-04-07 23:26:30]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-07 23:26:35]: SAUD [, Level 19]: 3ndy 79h wla walah la al3n amh
