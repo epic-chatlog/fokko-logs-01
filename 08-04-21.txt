@@ -11572,3 +11572,5 @@
 [2021-04-08 13:32:09]: Syth [, Level 30]: ERROR: from fookinlads
 [2021-04-08 13:32:12]: Kaptar [, Level 0]: Zephir™: je te promet que tu tiens pas longtemps en block mdr
 [2021-04-08 13:32:13]: ERROR [404, Level 74]: HardreenClutch:  fuck u
+[2021-04-08 13:32:19]: GReeeN [, Level 0]: ERROR:  ach du hast geblockt
+[2021-04-08 13:32:20]: Zephir™ [, Level 39]: Kaptar: j'ai prouver ce que j'avais a prouver ici, soit je t'es battus
