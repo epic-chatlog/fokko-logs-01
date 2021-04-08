@@ -9227,3 +9227,8 @@
 [2021-04-08 11:16:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-08 11:17:00]: comic [comically, Level 13]: tf
 [2021-04-08 11:17:01]: Foxie♥ [♥, Level 36]: VeemID: war 4 life
+[2021-04-08 11:17:16]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
+[2021-04-08 11:17:20]: VeemID [DogParty, Level 24]: Foxie♥: i dont want war
+[2021-04-08 11:17:21]: comic [comically, Level 13]: wow thats evil on another level
+[2021-04-08 11:17:23]: ***  [, Level 0]: 'comic' has left the game
+[2021-04-08 11:17:23]: \\Syth [, Level 30]: Maatiteusz: chuj cie to obchodzi topowy gracz block w teeworlds to mój kuzyn się tak składa
