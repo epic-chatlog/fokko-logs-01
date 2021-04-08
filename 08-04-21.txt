@@ -11906,3 +11906,5 @@
 [2021-04-08 14:11:57]: Zephir™ [, Level 39]: Kirito♥: nice start
 [2021-04-08 14:11:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-08 14:12:22]: ***  [, Level 0]: 'Shroom' entered and joined the game
+[2021-04-08 14:12:42]: ***  [, Level 0]: 'Chrysalis' entered and joined the game
+[2021-04-08 14:12:50]: ***  [, Level 0]: 'brainless tee' entered and joined the game
