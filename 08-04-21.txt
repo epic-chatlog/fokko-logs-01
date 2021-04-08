@@ -328,3 +328,6 @@
 [2021-04-08 00:41:42]: [D] BC|Tixnix [BC, Level 26]: Nudelsaft c:: no
 [2021-04-08 00:41:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-08 00:42:09]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-08 00:42:14]: Nudelsaft c: [FookinLads, Level 37]: BC|Tixnix: yes
+[2021-04-08 00:42:16]: ***  [, Level 0]: 'Shiro,' entered and joined the game
+[2021-04-08 00:42:21]: [D] BC|Tixnix [BC, Level 26]: Nudelsaft c:: er ist ein kek
