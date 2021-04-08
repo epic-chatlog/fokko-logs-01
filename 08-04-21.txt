@@ -12952,3 +12952,5 @@
 [2021-04-08 16:36:48]: Fearless [DogParty, Level 15]: ik but idc about ur ghost
 [2021-04-08 16:36:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-08 16:37:01]: Fearless [DogParty, Level 15]: Flipper:  i have ghost
+[2021-04-08 16:37:06]: Flipper [, Level 40]: how activate
+[2021-04-08 16:37:16]: Fearless [DogParty, Level 15]: press tab long and 2 shot
