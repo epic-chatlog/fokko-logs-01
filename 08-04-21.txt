@@ -6382,3 +6382,10 @@
 [2021-04-08 08:44:18]:   [, Level 0]: weqe: even in gctf
 [2021-04-08 08:44:21]: ChillerDragon [|*KoG*|, Level 44]: nice
 [2021-04-08 08:44:25]: ChillerDragon [|*KoG*|, Level 44]: weqe: brother
+[2021-04-08 08:44:28]:   [, Level 0]: weqe: brother
+[2021-04-08 08:44:28]: ChillerDragon [|*KoG*|, Level 44]: dont quit
+[2021-04-08 08:44:33]: cya [, Level 42]: not fair
+[2021-04-08 08:44:34]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 08:44:35]:   [, Level 0]: weqe: im afraid i might have to
+[2021-04-08 08:44:36]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 08:44:36]: (1)kais [, Level 58]: xD
