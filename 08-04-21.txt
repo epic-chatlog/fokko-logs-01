@@ -4825,3 +4825,5 @@
 [2021-04-08 07:09:53]: S Y T H N [DogParty, Level 37]: ok ...
 [2021-04-08 07:09:54]: Warrior [, Level 24]: rq
 [2021-04-08 07:10:00]: ***  [, Level 0]: 'x7 sven' entered and joined the game
+[2021-04-08 07:10:10]: (1)Foxie♥ [♥, Level 1]: Kirito♥: FAST PLOt
+[2021-04-08 07:10:16]:   [, Level 0]: Kirito♥: Foxie♥: w8
