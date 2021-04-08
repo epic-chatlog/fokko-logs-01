@@ -2114,3 +2114,5 @@
 [2021-04-08 03:47:01]: Axandos [, Level 0]: xD
 [2021-04-08 03:47:09]: ERROR. [404, Level 56]: er macht nurn dog clan
 [2021-04-08 03:47:14]: Axandos [, Level 0]: oo
+[2021-04-08 03:47:54]: [D] Swipez [, Level 25]: faking teams
+[2021-04-08 03:47:56]: [D] Swipez [, Level 25]: laggy
