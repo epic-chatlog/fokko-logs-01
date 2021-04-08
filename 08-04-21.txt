@@ -339,3 +339,4 @@
 [2021-04-08 00:42:55]: Supers [ᅟᅟᅟ, Level 0]: Red Flag:  wait
 [2021-04-08 00:42:57]: Supers [ᅟᅟᅟ, Level 0]: resart:  wait
 [2021-04-08 00:43:11]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-08 00:43:38]: OP|Supers [DogParty, Level 0]: restart:  you will die if you are like this
