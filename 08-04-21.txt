@@ -2189,3 +2189,4 @@
 [2021-04-08 03:56:07]: Axandos [, Level 0]: ich lösch mich bob
 [2021-04-08 03:56:13]: ***  [, Level 0]: '(1)Котяра' entered and joined the game
 [2021-04-08 03:56:32]: bob [Legacy™, Level 36]: restart: we good?
+[2021-04-08 03:56:44]: ***  [, Level 0]: 'gian x' has left the game (Too weak connection (not acked for 60 seconds))
