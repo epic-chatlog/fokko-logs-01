@@ -11774,3 +11774,6 @@
 [2021-04-08 13:52:59]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-08 13:53:00]: ERROR. [404, Level 56]: yes
 [2021-04-08 13:53:04]: Kaptar [, Level 0]: Zephir™: Le serv c'est bon tkt
+[2021-04-08 13:53:15]: ***  [, Level 0]: 'Kaptar' left the minigame 'Block'
+[2021-04-08 13:53:17]: Kirito♥ [♥, Level 40]: ERROR: dürfen wir jz?
+[2021-04-08 13:53:20]: ERROR. [404, Level 56]: jop
