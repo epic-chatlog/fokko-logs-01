@@ -10594,3 +10594,4 @@
 [2021-04-08 12:21:56]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-08 12:21:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-08 12:21:59]: [D] mamikral011 [DogParty, Level 21]: f"{self.name}": jkgfjg
+[2021-04-08 12:22:08]: ***  [, Level 0]: 'acetousk' entered and joined the game
