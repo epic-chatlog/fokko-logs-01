@@ -4456,3 +4456,5 @@
 [2021-04-08 06:46:33]: ***  [, Level 0]: 'zeabos.13' has left the game
 [2021-04-08 06:46:34]: ***  [, Level 0]: 'Kirito♥' entered and joined the game
 [2021-04-08 06:46:34]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 06:46:38]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 06:46:49]: ***  [, Level 0]: 'jcanela2022' entered and joined the game
