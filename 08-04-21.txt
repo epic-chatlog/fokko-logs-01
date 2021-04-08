@@ -12570,3 +12570,6 @@
 [2021-04-08 15:46:20]: Fearless [DogParty, Level 40]: Flipper:  so i wont scam
 [2021-04-08 15:46:22]: Flipper [, Level 15]: spawnn
 [2021-04-08 15:46:23]: Killua [FookinLads, Level 37]: SLAVE
+[2021-04-08 15:46:45]: ***  [, Level 0]: 'Kubson' has left the game
+[2021-04-08 15:46:46]: ***  [, Level 0]: 'Kubson' entered and joined the game
+[2021-04-08 15:46:49]: Fearless [DogParty, Level 40]: Flipper:  want moni?
