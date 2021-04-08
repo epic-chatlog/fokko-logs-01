@@ -4233,3 +4233,6 @@
 [2021-04-08 06:25:16]: Warrior [, Level 24]: rq
 [2021-04-08 06:25:20]: ***  [, Level 0]: 'beb weqe fan' has left the game
 [2021-04-08 06:25:22]: Warrior [, Level 24]: rq
+[2021-04-08 06:25:24]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
+[2021-04-08 06:25:30]: Foxie♥ [♥, Level 40]: kys (1)kais
+[2021-04-08 06:25:34]: (1)kais [, Level 58]: Foxie♥: ded
