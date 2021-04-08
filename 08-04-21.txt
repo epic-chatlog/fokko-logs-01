@@ -1717,3 +1717,6 @@
 [2021-04-08 02:46:35]: YelloWorlD [DogParty, Level 37]: ezezezeazeaz
 [2021-04-08 02:46:37]: ERROR. [404, Level 56]: ez
 [2021-04-08 02:46:38]: any² [404, Level 0]: bruh: what are your others usernames ?
+[2021-04-08 02:46:40]: ***  [, Level 0]: 'BC|serwan' entered and joined the game
+[2021-04-08 02:46:45]: rayen [, Level 0]: any²:  sry
+[2021-04-08 02:46:52]: ***  [, Level 0]: Getpon finished in: 5 minute(s) 54.64 second(s)
