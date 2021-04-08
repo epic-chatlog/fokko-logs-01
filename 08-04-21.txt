@@ -6427,3 +6427,7 @@
 [2021-04-08 08:46:22]: ***  [, Level 0]: (1)УБИВАТЬ!'s killing spree was ended by any (11 blocks)
 [2021-04-08 08:46:23]: Kirito♥ [♥, Level 40]: kais: he killed you today lmao
 [2021-04-08 08:46:30]:   [, Level 0]: weqe: what do u mean rusty ChillerDragon
+[2021-04-08 08:46:34]: kais [, Level 65]: Kirito♥: no
+[2021-04-08 08:46:34]: ChillerDragon [Chilli.*, Level 44]: weqe: not rusty in vanilla but rusty in tw aim in general im afraight to leave blmapchill
+[2021-04-08 08:46:38]:   [, Level 0]: JustRace.: cl_aimbot 0
+[2021-04-08 08:46:46]: ChillerDragon [|*KoG*|, Level 44]: weqe: i changed my setup and it hasnt been the same since weqe
