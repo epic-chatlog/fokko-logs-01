@@ -4021,3 +4021,7 @@
 [2021-04-08 06:03:58]: (1)OP|Supers [DogParty, Level 39]: f"{self.name}":  stop it
 [2021-04-08 06:04:07]: power2 [TrRShClNrRs, Level 0]: mateu blocked me so many times now, i dont trust u Soros
 [2021-04-08 06:04:22]: (1)Warrior [, Level 0]: ahh its gone
+[2021-04-08 06:04:27]: ***  [, Level 0]: 'moonman' has left the game
+[2021-04-08 06:04:29]: ***  [, Level 0]: 'ĦỮǤØ' changed name to '(1)\(^-^)/'
+[2021-04-08 06:04:30]: ***  [, Level 0]: 'moonman' entered and joined the game
+[2021-04-08 06:04:34]: ***  [, Level 0]: '(1)\(^-^)/' changed name to 'ĦỮǤØ'
