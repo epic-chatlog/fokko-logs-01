@@ -1366,3 +1366,5 @@
 [2021-04-08 02:13:14]: (3)ChillerDrago [Chilli.*, Level 33]: weqe: I am currently afk.
 [2021-04-08 02:13:22]: YelloWorlD [DogParty, Level 37]: frie
 [2021-04-08 02:13:36]: weqe [MNKY, Level 12]: MieSlime:
+[2021-04-08 02:13:43]: ***  [, Level 0]: x7|cya's killing spree was ended by ChillerDragon (5 blocks)
+[2021-04-08 02:13:45]: ***  [, Level 0]: '[D] BC|kakashi' has left the game
