@@ -12814,3 +12814,6 @@
 [2021-04-08 16:11:35]: Fearless [DogParty, Level 15]: Hunter.exe:  portal hack
 [2021-04-08 16:11:58]: S Y T H N [DogParty, Level 37]: Fearless: which client you using :D?
 [2021-04-08 16:11:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-08 16:12:02]: Fearless [DogParty, Level 15]: S Y T H N:  sash
+[2021-04-08 16:12:09]: S Y T H N [DogParty, Level 37]: sash is bot client
+[2021-04-08 16:12:10]: Fearless [DogParty, Level 15]: S Y T H N:  it has free portal feature
