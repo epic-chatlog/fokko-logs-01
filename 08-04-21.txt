@@ -11022,3 +11022,4 @@
 [2021-04-08 12:48:32]: mamikral011 [DogParty, Level 26]: YelloWorlD: ?
 [2021-04-08 12:48:36]: ***  [, Level 0]: 'f"{self.name}"' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-08 12:48:36]: ***  [, Level 0]: '__init__(self):' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 12:48:46]: ***  [, Level 0]: '(1) Hunter.exe' entered and joined the game
