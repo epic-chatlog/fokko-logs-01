@@ -4907,3 +4907,7 @@
 [2021-04-08 07:15:03]: (1)Foxie♥ [♥, Level 1]: (1)Kirito♥: FAST
 [2021-04-08 07:15:04]:   [, Level 0]: Kirito♥: (1)Foxi♥: what?
 [2021-04-08 07:15:08]: (1)Foxi♥ [♥, Level 1]: PLOT
+[2021-04-08 07:15:21]: (1)Foxi♥ [♥, Level 1]: Kirito♥: one sec 2 more
+[2021-04-08 07:15:27]: Falco642 [, Level 0]: CeoOfAdmin: ?
+[2021-04-08 07:15:28]: ***  [, Level 0]: 'Foxtastic' entered and joined the game
+[2021-04-08 07:15:28]:   [, Level 0]: el champeon: power: powerless
