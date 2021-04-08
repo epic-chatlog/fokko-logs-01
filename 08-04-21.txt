@@ -4533,3 +4533,6 @@
 [2021-04-08 06:51:16]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-08 06:51:16]: Foxie♥ [♥, Level 0]: YelloWorlD: cmo
 [2021-04-08 06:51:17]: ***  [, Level 0]: 'ŞΜƗŦĦ' entered and joined the game
+[2021-04-08 06:51:25]: ***  [, Level 0]: 'CloudThis' entered and joined the game
+[2021-04-08 06:51:27]: Foxie♥ [♥, Level 0]: YelloWorlD: i get flag for u
+[2021-04-08 06:51:29]: ***  [, Level 0]: 'CloudThis' has left the game
