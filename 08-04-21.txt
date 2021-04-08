@@ -33,3 +33,5 @@
 [2021-04-08 00:02:10]: ***  [, Level 0]: New record: 43.68 second(s) better.
 [2021-04-08 00:02:20]: Foxie♥ [♥, Level 36]: GODLIKe: wait goat
 [2021-04-08 00:02:23]: GODLIKe [hax, Level 44]: Foxie♥: no u
+[2021-04-08 00:02:36]: ***  [, Level 0]: Rem's dummy finished in: 0 minute(s) 34.04 second(s)
+[2021-04-08 00:02:36]: ***  [, Level 0]: New record: 2 minute(s) 34.16 second(s) better.
