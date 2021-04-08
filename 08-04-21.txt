@@ -10816,3 +10816,8 @@
 [2021-04-08 12:35:43]:   [, Level 0]: any²: YelloWorlD: tu peut dire a kezo d'aretter de me kill ?
 [2021-04-08 12:35:45]:   [, Level 0]: MUTE: toxicdaddy: dont help him
 [2021-04-08 12:35:50]: __init__(self): [, Level 0]: Hunter.exe: im f"{self.name}"
+[2021-04-08 12:35:55]: Nonoh [citrom, Level 40]: YelloWorlD: gg
+[2021-04-08 12:35:59]: (1)cookie [, Level 0]: thea
+[2021-04-08 12:36:01]:   [, Level 0]: MUTE: gay war
+[2021-04-08 12:36:04]: (1)cookie [, Level 0]: team
+[2021-04-08 12:36:07]: GReeeN [, Level 0]: OMG
