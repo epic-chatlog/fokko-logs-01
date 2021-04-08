@@ -281,3 +281,4 @@
 [2021-04-08 00:28:15]: WarHammer [, Level 26]: ?
 [2021-04-08 00:28:32]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
 [2021-04-08 00:28:41]: WarHammer [, Level 26]: a ok
+[2021-04-08 00:28:50]: (1)Friendiship  [, Level 0]: it's so boring
