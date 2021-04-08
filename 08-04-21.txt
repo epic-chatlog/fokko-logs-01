@@ -1410,3 +1410,6 @@
 [2021-04-08 02:17:33]: jorden [, Level 0]: Vodo4ka: я могу подрубить спам мачинку0) через чат типо
 [2021-04-08 02:17:35]: jorden [, Level 0]: спамить
 [2021-04-08 02:17:36]: jorden [, Level 0]: но зачем
+[2021-04-08 02:17:52]: [D] BC|Tixnix [BC, Level 26]: ERROR:
+[2021-04-08 02:17:55]: ***  [, Level 0]: 'УБИВАТЬ!' entered and joined the game
+[2021-04-08 02:18:01]: YelloWorlD [DogParty, Level 37]: ERROR: not very good
