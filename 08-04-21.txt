@@ -2859,3 +2859,6 @@
 [2021-04-08 04:35:30]: HeavyGeneral [FookinLads, Level 44]: bob: come try to play 2 jumps vs 4 endless taser
 [2021-04-08 04:35:37]: bob [Legacy™, Level 36]: HeavyGeneral: u ebtter than me
 [2021-04-08 04:35:37]: HeavyGeneral [FookinLads, Level 44]: bob: while being on 200 ping
+[2021-04-08 04:35:44]: HeavyGeneral [FookinLads, Level 44]: bob: i know
+[2021-04-08 04:35:46]: bob [Legacy™, Level 36]: u even better than me with 100 ping
+[2021-04-08 04:35:51]: bob [Legacy™, Level 36]: but u still nobo
