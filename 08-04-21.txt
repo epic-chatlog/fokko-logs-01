@@ -10935,3 +10935,5 @@
 [2021-04-08 12:42:55]: ***  [, Level 0]: '[D] Hunter.exe' has left the game
 [2021-04-08 12:42:55]: ***  [, Level 0]: 'Hunter.exe' has left the game
 [2021-04-08 12:43:01]: YelloWorlD [DogParty, Level 41]: GReeeN: why u dont want jz gerade
+[2021-04-08 12:43:05]: (1)cookie [, Level 0]: __init__(self)::  who are you
+[2021-04-08 12:43:07]: GReeeN [, Level 0]: any:  you dont want help me okey
