@@ -5748,3 +5748,7 @@
 [2021-04-08 08:14:51]: Kong [[_Any %_], Level 0]: I like turtles.
 [2021-04-08 08:14:57]: Mʎɹ シ [not today, Level 11]: ビール|Zero: Возможно
 [2021-04-08 08:14:58]: ***  [, Level 0]: 'jeder' joined the game
+[2021-04-08 08:15:04]: Foxie♥ [♥, Level 22]: Kirito♥:
+[2021-04-08 08:15:04]: ***  [, Level 0]: 'Hi1464' has left the game
+[2021-04-08 08:15:05]: ビール|Zero [Drunks, Level 29]: Mʎɹ シ: я тут сижу
+[2021-04-08 08:15:09]: ビール|Zero [Drunks, Level 29]: Mʎɹ シ:  5 hours
