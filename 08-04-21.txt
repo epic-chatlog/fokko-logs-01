@@ -4435,3 +4435,5 @@
 [2021-04-08 06:43:52]: GODLIKe. [u, Level 0]: GOLD: what
 [2021-04-08 06:44:02]: Flipper [, Level 14]: cylox war with x7 and me
 [2021-04-08 06:44:07]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 06:44:08]: ***  [, Level 0]: [2] VeemID is on a killing spree with 5 blocks
+[2021-04-08 06:44:09]: ***  [, Level 0]: 'jeder' entered and joined the game
