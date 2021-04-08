@@ -4030,3 +4030,5 @@
 [2021-04-08 06:04:43]: ***  [, Level 0]: 'moonman' entered and joined the game
 [2021-04-08 06:05:08]: ***  [, Level 0]: 'moonman' has left the game
 [2021-04-08 06:05:11]: ***  [, Level 0]: 'moonman' entered and joined the game
+[2021-04-08 06:05:27]: GODLIKe [u, Level 44]: bob: he wanna war
+[2021-04-08 06:05:29]: bob [Legacy™, Level 36]: GODLIKe: help him
