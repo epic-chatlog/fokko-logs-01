@@ -12306,3 +12306,6 @@
 [2021-04-08 15:05:26]: Killua [FookinLads, Level 37]: rqrqrqrqrqr
 [2021-04-08 15:05:27]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' has left the game
 [2021-04-08 15:05:27]: ***  [, Level 0]: 'Killua' has left the game
+[2021-04-08 15:05:51]: ***  [, Level 0]: BULLETBOT's killing spree was ended by fomin (9 blocks)
+[2021-04-08 15:05:52]: fomin [RUA, Level 0]: xddd
+[2021-04-08 15:05:53]: fomin [RUA, Level 0]: baddd
