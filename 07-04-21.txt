@@ -11332,3 +11332,4 @@
 [2021-04-07 21:52:46]: ***  [, Level 0]: 'Rem's dummy' finished the special race!
 [2021-04-07 21:52:53]: ***  [, Level 0]: 'Rem's bae' finished the special race!
 [2021-04-07 21:57:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-07 21:57:26]: Rem's dummy [, Level 38]: (1)kais: ?
