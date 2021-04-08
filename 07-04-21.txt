@@ -11197,3 +11197,4 @@
 [2021-04-07 18:59:11]: ***  [, Level 0]: 'x7|KshKsh99' entered and joined the game
 [2021-04-07 19:00:00]: ***  [, Level 0]: 'x7|KshKsh99' has left the game
 [2021-04-07 19:02:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-07 19:07:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
