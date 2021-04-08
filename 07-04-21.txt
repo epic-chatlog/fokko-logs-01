@@ -11682,3 +11682,5 @@
 [2021-04-07 23:52:55]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 5 blocks
 [2021-04-07 23:52:56]: Friendiship ;-) [, Level 0]: ERROR.: pro
 [2021-04-07 23:53:01]: ***  [, Level 0]: Foxi♥ finished in: 3 minute(s) 26.20 second(s)
+[2021-04-07 23:53:12]: ***  [, Level 0]: 'Robinson' has left the game
+[2021-04-07 23:53:15]: power2 [TrRShClNrRs, Level 0]: ERROR: here are 2.7k gold
