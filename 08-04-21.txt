@@ -10756,3 +10756,8 @@
 [2021-04-08 12:32:07]: ***  [, Level 0]: Hunter.exe is on a killing spree with 15 blocks
 [2021-04-08 12:32:07]: Lucas [THECEPS, Level 34]: Nonoh: >>
 [2021-04-08 12:32:13]: __init__(self): [, Level 0]: iMxtteo D: why
+[2021-04-08 12:32:17]:   [, Level 0]: MUTE: any: PEACE ?
+[2021-04-08 12:32:20]:   [, Level 0]: any²: say sorry MUTE
+[2021-04-08 12:32:22]: Lucas [THECEPS, Level 34]: Falco642: >>
+[2021-04-08 12:32:22]: (1)cookie [, Level 0]: wait
+[2021-04-08 12:32:22]:   [, Level 0]: HardreenClutch: cookie:  WTF
