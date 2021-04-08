@@ -4784,3 +4784,6 @@
 [2021-04-08 07:07:36]: ***  [, Level 0]: 'Kirito♥' joined the spectators
 [2021-04-08 07:07:40]: ***  [, Level 0]: 'Kirito♥' joined the game
 [2021-04-08 07:07:42]:   [, Level 0]: Kirito♥: kais: ok
+[2021-04-08 07:07:51]: ***  [, Level 0]: 'Falco642' entered and joined the game
+[2021-04-08 07:07:56]: ***  [, Level 0]: '(1)Foxie♥' entered and joined the game
+[2021-04-08 07:07:57]: bob [Legacy™, Level 36]: XDD
