@@ -367,3 +367,5 @@
 [2021-04-08 00:49:00]: ***  [, Level 0]: resart finished in: 8 minute(s) 41.86 second(s)
 [2021-04-08 00:49:05]: ***  [, Level 0]: restart finished in: 2 minute(s)  0.70 second(s)
 [2021-04-08 00:49:29]: ***  [, Level 0]: 'OpTEEmus Crime' entered and joined the game
+[2021-04-08 00:49:37]: Supers [ᅟᅟᅟ, Level 0]: OpTEEmus Crime:  YOU REMEMBER ME
+[2021-04-08 00:49:40]: ***  [, Level 0]: 'comic' entered and joined the game
