@@ -11700,3 +11700,6 @@
 [2021-04-08 13:42:42]: ERROR [404, Level 74]: [D] Ambah:  well u know why  why u try
 [2021-04-08 13:42:44]: ***  [, Level 0]: '2' has left the game
 [2021-04-08 13:42:44]: ***  [, Level 0]: '[D] 2' has left the game
+[2021-04-08 13:42:50]: Cassie [, Level 0]: meee
+[2021-04-08 13:42:52]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-08 13:42:57]: Marcisten [Helper, Level 0]: server bridge test
