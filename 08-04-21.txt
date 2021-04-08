@@ -7640,3 +7640,7 @@
 [2021-04-08 10:05:18]: Hunter.exe [DogParty, Level 36]: Fearless: <<
 [2021-04-08 10:05:21]: ***  [, Level 0]: 'Marcisten Dummy' entered and joined the game
 [2021-04-08 10:05:22]: s6_sven [, Level 20]: zZzerayI:
+[2021-04-08 10:05:25]: ***  [, Level 0]: 'Zephir™' entered and joined the game
+[2021-04-08 10:05:28]: Hunter.exe [DogParty, Level 36]: Fearless: DUMB KID
+[2021-04-08 10:05:32]: Котяра [, Level 21]: Сук
+[2021-04-08 10:05:32]: Lucas [THECEPS, Level 34]: Hunter.exe: you've killed me for nothing
