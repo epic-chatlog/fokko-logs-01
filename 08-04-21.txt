@@ -5764,3 +5764,8 @@
 [2021-04-08 08:15:31]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-08 08:15:32]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 08:15:33]: Nightmare [, Level 27]: ChillerDragon: wdym what i did
+[2021-04-08 08:15:38]: ChillerDragon.* [Chilli.*, Level 41]: u didnt help Nightmare
+[2021-04-08 08:15:41]: Nightmare [, Level 27]: ChillerDragon: i was standing still
+[2021-04-08 08:15:41]: ChillerDragon.* [Chilli.*, Level 41]: and still arent
+[2021-04-08 08:15:46]: Nightmare [, Level 27]: ChillerDragon: i am neutral
+[2021-04-08 08:15:48]: ***  [, Level 0]: 'JxK|JoK'Air' has left the game
