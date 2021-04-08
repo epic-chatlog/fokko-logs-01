@@ -914,3 +914,6 @@
 [2021-04-08 01:35:21]: SAUD [, Level 24]: resart:  hold D
 [2021-04-08 01:35:23]: Maatiteusz [TrRShClNrRs, Level 35]: ERROR: Lmao
 [2021-04-08 01:35:26]: VeemID [DogParty, Level 26]: YelloWorlD: on a pas un truc a mettre dans nos pseudo pour dire qu'on est dans le meme clan ?
+[2021-04-08 01:35:30]: SAUD [, Level 24]: resart:  GO HOLD d
+[2021-04-08 01:35:38]: SAUD [, Level 24]: yeah its okay resart
+[2021-04-08 01:35:40]: ***  [, Level 0]: '(1)zemer' entered and joined the game
