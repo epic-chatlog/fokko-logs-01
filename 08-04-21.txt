@@ -3722,3 +3722,5 @@
 [2021-04-08 05:38:08]: Kiøn1029 [.bad, Level 31]: hoztam tasert
 [2021-04-08 05:38:21]: Boti. [.bad, Level 33]: csak várok
 [2021-04-08 05:38:24]: Boti. [.bad, Level 33]: dummym titokban hátul
+[2021-04-08 05:38:39]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
+[2021-04-08 05:38:41]: Kiøn1029 [.bad, Level 31]: nyugodt rendőröket láthatnak
