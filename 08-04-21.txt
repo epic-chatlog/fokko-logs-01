@@ -3091,3 +3091,4 @@
 [2021-04-08 04:50:32]: ***  [hýÿÿ, Level 0]: 'Asta' entered and joined the game
 [2021-04-08 04:50:37]: CKA3A4NIK[NR] [Night Raid, Level 35]: XD
 [2021-04-08 04:50:40]: ***  [hýÿÿ, Level 0]: 'Warrior' has left the game
+[2021-04-08 04:50:42]: ***  [hýÿÿ, Level 0]: power2 is on a killing spree with 5 blocks
