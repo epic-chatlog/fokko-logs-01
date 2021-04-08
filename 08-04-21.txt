@@ -3910,3 +3910,5 @@
 [2021-04-08 05:55:45]: S Y T H N [DogParty, Level 37]: bob: yo
 [2021-04-08 05:55:47]: bob [Legacy™, Level 36]: hi
 [2021-04-08 05:55:49]: ***  [, Level 0]: '(1)Warrior' entered and joined the game
+[2021-04-08 05:56:04]: ***  [, Level 0]: 'beb weqe fan' entered and joined the game
+[2021-04-08 05:56:08]:   [, Level 0]: (1)SAUD: brb bob
