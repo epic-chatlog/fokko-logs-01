@@ -10030,3 +10030,5 @@
 [2021-04-08 11:51:10]: [D] \\Syth [, Level 25]: Hunter.exe: haha
 [2021-04-08 11:51:15]: ***  [, Level 0]: '4jaja4.*' has left the game
 [2021-04-08 11:51:18]: ***  [, Level 0]: '4jaja4.*' entered and joined the game
+[2021-04-08 11:51:32]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-08 11:51:33]: [D] \\Syth [, Level 25]: S Y T H N: yo
