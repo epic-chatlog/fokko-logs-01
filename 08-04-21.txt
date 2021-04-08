@@ -13102,3 +13102,6 @@
 [2021-04-08 16:54:11]: bob [Legacy™, Level 36]: yes
 [2021-04-08 16:54:13]: Fearless [DogParty, Level 15]: give
 [2021-04-08 16:54:13]: bob [Legacy™, Level 36]: i have binded on r
+[2021-04-08 16:54:22]: bob [Legacy™, Level 36]: u using default client?
+[2021-04-08 16:54:26]: Fearless [DogParty, Level 15]: ddracenetwork
+[2021-04-08 16:54:27]: Fearless [DogParty, Level 15]: steam
