@@ -13046,3 +13046,8 @@
 [2021-04-08 16:50:48]: Fearless [DogParty, Level 15]: xd
 [2021-04-08 16:50:51]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-08 16:50:53]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-08 16:51:08]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-08 16:51:10]: Fearless [DogParty, Level 15]: bob men hes good
+[2021-04-08 16:51:11]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-08 16:51:17]: bob [Legacy™, Level 36]: help = war
+[2021-04-08 16:51:17]: ***  [, Level 0]: 'Flipper' changed name to 'ᅟᅟᅟᅟᅟ'
