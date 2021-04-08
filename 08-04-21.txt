@@ -10984,3 +10984,4 @@
 [2021-04-08 12:45:59]: ***  [, Level 0]: 'peepeepoopoo' joined the game
 [2021-04-08 12:46:00]: ***  [, Level 0]: 'eiffel tee' entered and joined the game
 [2021-04-08 12:46:00]: YelloWorlD [DogParty, Level 41]: Kezo: any give me his acc
+[2021-04-08 12:46:14]: ***  [, Level 0]: '[D] \\Syth' changed name to '[D] Syth'
