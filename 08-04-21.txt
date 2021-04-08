@@ -441,3 +441,5 @@
 [2021-04-08 00:58:13]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
 [2021-04-08 00:58:30]: OP|Supers [DogParty, Level 39]: x7|zemer:  spec mal
 [2021-04-08 00:58:31]: OP|Supers [DogParty, Level 39]: hilfe xD
+[2021-04-08 00:58:48]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
+[2021-04-08 00:58:50]: ***  [, Level 0]: 'ChillerDragon' has left the game (Timeout Protection used)
