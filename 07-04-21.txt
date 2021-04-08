@@ -11392,3 +11392,6 @@
 [2021-04-07 22:41:33]: x7|zemer [xSD7, Level 37]: HardreenClutch: Why?
 [2021-04-07 22:41:38]: ***  [, Level 0]: '(1)x7|KshKsh99' has left the game
 [2021-04-07 22:41:41]: HardreenClutch [, Level 57]: x7|zemer:  because clan
+[2021-04-07 22:41:52]: x7|zemer [xSD7, Level 37]: HardreenClutch: What clan?
+[2021-04-07 22:41:55]: ***  [, Level 0]: 'GReeeN' entered and joined the game
+[2021-04-07 22:42:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
