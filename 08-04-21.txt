@@ -2116,3 +2116,4 @@
 [2021-04-08 03:47:14]: Axandos [, Level 0]: oo
 [2021-04-08 03:47:54]: [D] Swipez [, Level 25]: faking teams
 [2021-04-08 03:47:56]: [D] Swipez [, Level 25]: laggy
+[2021-04-08 03:48:07]: ***  [, Level 0]: 'Kong' entered and joined the game
