@@ -4041,3 +4041,4 @@
 [2021-04-08 06:06:44]: Cylox [♥, Level 30]: ıow
 [2021-04-08 06:06:48]: GODLIKe [u, Level 44]: ChillerDragon: yo xd
 [2021-04-08 06:06:48]: ChillerDragon [|*KoG*|, Level 44]: GODLIKe: I am currently afk.
+[2021-04-08 06:06:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
