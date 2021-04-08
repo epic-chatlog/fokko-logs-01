@@ -12340,3 +12340,4 @@
 [2021-04-08 15:10:15]: BULLETBOT [, Level 0]: bye
 [2021-04-08 15:10:18]: ***  [, Level 0]: 'BULLETBOT' has left the game
 [2021-04-08 15:10:20]: fomin [RUA, Level 0]: BYE
+[2021-04-08 15:11:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
