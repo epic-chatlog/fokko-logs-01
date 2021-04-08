@@ -5908,3 +5908,7 @@
 [2021-04-08 08:25:34]:   [, Level 0]: ビール|Zero: KS| Ty4ka: ок
 [2021-04-08 08:25:35]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-08 08:25:54]: ***  [, Level 0]: 'Fearless' entered and joined the game
+[2021-04-08 08:26:01]: Nightmare. [, Level 0]: (1)Shy-ra.: can u get me to the police?
+[2021-04-08 08:26:10]: Nightmare. [, Level 0]: ty
+[2021-04-08 08:26:11]: Hunter.exe [DogParty, Level 36]: MieSlime: bro
+[2021-04-08 08:26:12]: MieSlime [FookinLads, Level 43]: iMxtteo:  ok ok war
