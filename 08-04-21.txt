@@ -6630,3 +6630,6 @@
 [2021-04-08 08:56:57]: ***  [, Level 0]: falkenauge's killing spree was ended by [D] \\Syth (11 blocks)
 [2021-04-08 08:56:58]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-08 08:56:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-08 08:57:13]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 08:57:15]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 08:57:16]: Hunter.exe [DogParty, Level 36]: CKA3A4NIK[NR]:
