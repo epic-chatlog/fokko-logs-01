@@ -12848,3 +12848,6 @@
 [2021-04-08 16:21:11]: Hunter.exe [DogParty, Level 36]: S Y T H N: weißt du wer sven ist?
 [2021-04-08 16:21:23]: S Y T H N [DogParty, Level 37]: Hunter.exe: jaa bin mit den in talk
 [2021-04-08 16:21:26]: Fearless [DogParty, Level 15]: Hunter.exe:  men
+[2021-04-08 16:21:32]: Hunter.exe [DogParty, Level 36]: ok war
+[2021-04-08 16:21:34]: s6_sven [, Level 21]: peace?
+[2021-04-08 16:21:38]: Hunter.exe [DogParty, Level 36]: s6_sven: 3 sec or war
