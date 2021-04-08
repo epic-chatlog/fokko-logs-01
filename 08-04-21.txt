@@ -11126,3 +11126,6 @@
 [2021-04-08 12:59:29]: YelloWorlD [DogParty, Level 41]: HardreenClutch: STOP BORING
 [2021-04-08 12:59:32]: ***  [, Level 0]: '(2)Kirito♥' entered and joined the game
 [2021-04-08 12:59:35]: ***  [, Level 0]: '(2)Kirito♥' has left the game (Timeout Protection used)
+[2021-04-08 12:59:42]: ***  [, Level 0]: \\Syth is on a killing spree with 5 blocks
+[2021-04-08 12:59:43]:   [, Level 0]: (1)any: Kenshi™:
+[2021-04-08 12:59:50]: GOLD [404, Level 40]: HardreenClutch: STOP BORING
