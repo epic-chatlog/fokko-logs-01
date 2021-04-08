@@ -3854,3 +3854,5 @@
 [2021-04-08 05:50:38]: ***  [, Level 0]: 'kiøn1029' has left the game
 [2021-04-08 05:50:39]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
 [2021-04-08 05:50:45]: (1) [Ape, Level 0]: 10k
+[2021-04-08 05:50:57]: S Y T H N [DogParty, Level 37]: SAUD: do you have kids?
+[2021-04-08 05:51:04]: SAUD [, Level 19]: S Y T H N:  nah
