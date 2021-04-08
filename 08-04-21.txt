@@ -524,3 +524,5 @@
 [2021-04-08 01:06:27]: x7|zemer [xSD7, Level 37]: d
 [2021-04-08 01:06:31]: Meetiteusz [TrRShClNrRs, Level 0]: falkenauge: szure about that?
 [2021-04-08 01:06:43]: Vodo4ka [JB.st, Level 41]: Meetiteusz: XDD
+[2021-04-08 01:06:55]: ERROR [404, Level 74]: SNACK
+[2021-04-08 01:06:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
