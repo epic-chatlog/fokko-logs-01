@@ -388,3 +388,4 @@
 [2021-04-08 00:51:02]: ERROR. [404, Level 56]: Swarfey:  echt x7 geholt xDDD
 [2021-04-08 00:51:06]: Swarfey [FookinLads, Level 60]: xD
 [2021-04-08 00:51:11]: ***  [, Level 0]: 'SAUD' entered and joined the game
+[2021-04-08 00:51:22]: ***  [, Level 0]: 'weqe' has left the game
