@@ -4079,3 +4079,5 @@
 [2021-04-08 06:12:48]: ***  [, Level 0]: '(1)ĦỮǤØ' entered and joined the game
 [2021-04-08 06:12:55]: ***  [, Level 0]: '(1)ĦỮǤØ' changed name to 'x7|Flipper'
 [2021-04-08 06:12:59]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-08 06:13:07]: ***  [, Level 0]: 'Emre' has left the game
+[2021-04-08 06:13:12]: VeemID [DogParty, Level 0]: |MıssOяchiĐ|: tu date wsh
