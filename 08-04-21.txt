@@ -10952,3 +10952,6 @@
 [2021-04-08 12:43:38]: (1)cookie [, Level 0]: YelloWorlD:  wait i have peach
 [2021-04-08 12:44:02]: (1)cookie [, Level 0]: __init__(self):: i dont know it say it dan
 [2021-04-08 12:44:04]: YelloWorlD [DogParty, Level 41]: GReeeN: why u dont want jz gerade
+[2021-04-08 12:44:07]: ***  [, Level 0]: 'sooooootee' has left the game
+[2021-04-08 12:44:09]: GReeeN [, Level 0]: YelloWorlD:  waht
+[2021-04-08 12:44:18]: iMxtteo [, Level 26]: ERROR: wieso man
