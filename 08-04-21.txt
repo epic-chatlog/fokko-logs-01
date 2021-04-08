@@ -445,3 +445,5 @@
 [2021-04-08 00:58:50]: ***  [, Level 0]: 'ChillerDragon' has left the game (Timeout Protection used)
 [2021-04-08 00:58:59]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-08 00:58:59]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-08 00:59:07]: x7|cya [xSD7, Level 42]: rq
+[2021-04-08 00:59:12]: ***  [, Level 0]: 'Shiro.' entered and joined the game
