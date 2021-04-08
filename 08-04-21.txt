@@ -11629,3 +11629,4 @@
 [2021-04-08 13:36:37]: toxicdaddy [, Level 26]: soleri1: do /spec
 [2021-04-08 13:36:43]: (1)ERROR [404, Level 47]: chiller furtsu isn kerl btw xDDD
 [2021-04-08 13:36:48]: (1)ERROR [404, Level 47]: Genauso wie foxie
+[2021-04-08 13:36:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
