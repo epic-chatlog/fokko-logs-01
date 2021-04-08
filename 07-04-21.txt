@@ -11194,3 +11194,4 @@
 [2021-04-07 18:47:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-07 18:52:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 18:57:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-07 18:59:11]: ***  [, Level 0]: 'x7|KshKsh99' entered and joined the game
