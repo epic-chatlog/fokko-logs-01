@@ -6534,3 +6534,7 @@
 [2021-04-08 08:50:36]: ***  [, Level 0]: JustRace's killing spree was ended by ChillerDragon (5 blocks)
 [2021-04-08 08:50:38]: ***  [, Level 0]: 'falkenauge' entered and joined the game
 [2021-04-08 08:50:45]:   [, Level 0]: JustRace.: cl_aimbot 1
+[2021-04-08 08:50:55]: JustRace [DogParty, Level 36]: cl_aimbot 0
+[2021-04-08 08:50:56]: ***  [, Level 0]: 'power' has left the game
+[2021-04-08 08:50:57]: ***  [, Level 0]: 'ninjainnit' has left the game
+[2021-04-08 08:50:57]:   [, Level 0]: falkenauge: [D] BC|Tixnix:
