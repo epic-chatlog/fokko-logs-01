@@ -3678,3 +3678,6 @@
 [2021-04-08 05:34:28]: ***  [, Level 0]: (1)УБИВАТЬ! is on a killing spree with 5 blocks
 [2021-04-08 05:34:30]: HardreenClutch [, Level 57]: x7|sven:  waht
 [2021-04-08 05:34:44]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-08 05:34:48]: HardreenClutch [, Level 57]: x7|sven:  i hate your clan
+[2021-04-08 05:34:51]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
+[2021-04-08 05:34:56]: HardreenClutch [, Level 57]: [2] VeemID:  <-----------
