@@ -1965,3 +1965,5 @@
 [2021-04-08 03:25:19]: ***  [, Level 0]: 'weqe' entered and joined the game
 [2021-04-08 03:25:20]: OP|Supers [DogParty, Level 39]: wtf are you doin
 [2021-04-08 03:25:54]: OP|Supers [DogParty, Level 39]: Swipez:  can you just play
+[2021-04-08 03:26:01]: BC|kakashi [BC, Level 0]: ERROR:
+[2021-04-08 03:26:07]: BC|kakashi [BC, Level 0]: ERROR: ->
