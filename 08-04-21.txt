@@ -2177,3 +2177,5 @@
 [2021-04-08 03:53:36]: ***  [hýÿÿ, Level 0]: 'Supers' finished the special race!
 [2021-04-08 03:53:55]: (1)ãƒ“ãƒ¼ãƒ«|Ze [Drunks, Level 12]: [D] Swipez:
 [2021-04-08 03:54:18]: [D] Swipez [, Level 25]: XD
+[2021-04-08 03:54:22]: ***  [hýÿÿ, Level 0]: 'Jerry' finished the special race!
+[2021-04-08 03:54:22]: ***  [hýÿÿ, Level 0]: Jerry finished in: 9 minute(s) 13.72 second(s)
