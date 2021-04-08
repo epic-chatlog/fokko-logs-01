@@ -13162,3 +13162,5 @@
 [2021-04-08 16:58:58]: Fearless [DogParty, Level 15]: give commanmd
 [2021-04-08 16:59:00]: Fearless [DogParty, Level 15]: men
 [2021-04-08 16:59:01]: bob [Legacy™, Level 36]: how to bind dyn
+[2021-04-08 16:59:07]: Fearless [DogParty, Level 15]: bob:  i didnt find :c
+[2021-04-08 16:59:13]: bob [Legacy™, Level 36]: i found it too
