@@ -545,3 +545,5 @@
 [2021-04-08 01:08:18]: (1)Friendiship  [, Level 0]: YelloWorlD: quoi
 [2021-04-08 01:08:48]: (1)Friendiship  [, Level 0]: YelloWorlD: g remit le nom te ton clan
 [2021-04-08 01:09:03]: YelloWorlD [DogParty, Level 37]: (1)Friendiship : non
+[2021-04-08 01:09:17]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-08 01:09:19]: falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: lags
