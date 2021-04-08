@@ -9256,3 +9256,8 @@
 [2021-04-08 11:18:49]: Hunter.exe [DogParty, Level 36]: kais: WTF WHY
 [2021-04-08 11:18:55]: ***  [, Level 0]: 'toxicdadd' entered and joined the game
 [2021-04-08 11:18:55]: (1)kais [, Level 58]: Hunter.exe: because i don't like you
+[2021-04-08 11:19:00]: Hunter.exe [DogParty, Level 36]: kais: and why
+[2021-04-08 11:19:01]: Kenshi™ [, Level 0]: [RUS]: i don't know you
+[2021-04-08 11:19:05]: [RUS] [, Level 0]: Kenshi™: i want race
+[2021-04-08 11:19:06]: (1)kais [, Level 58]: Hunter.exe: because you spiked me
+[2021-04-08 11:19:08]: ***  [, Level 0]: 'RoberGN' entered and joined the game
