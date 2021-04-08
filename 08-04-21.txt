@@ -11913,3 +11913,5 @@
 [2021-04-08 14:16:00]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' entered and joined the game
 [2021-04-08 14:16:05]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-08 14:16:56]: ***  [, Level 0]: 'Kirito♥' joined the spectators
+[2021-04-08 14:16:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-08 14:17:00]: ***  [, Level 0]: 'Kirito♥' joined the game
