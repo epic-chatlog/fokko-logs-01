@@ -10826,3 +10826,8 @@
 [2021-04-08 12:36:27]: ***  [, Level 0]: 'jozio' joined the spectators
 [2021-04-08 12:36:32]: GOLD [404, Level 40]: MUTE: lets be chill with Fearless
 [2021-04-08 12:36:34]: Falco642 [, Level 0]: YelloWorlD: stop?
+[2021-04-08 12:36:35]: ***  [, Level 0]: 'jozio' joined the game
+[2021-04-08 12:36:36]: (1)cookie [, Level 0]: wait
+[2021-04-08 12:36:36]: GOLD [404, Level 40]: Fearless: open
+[2021-04-08 12:36:40]: ***  [, Level 0]: 'Yodef' has left the game
+[2021-04-08 12:36:43]: ***  [, Level 0]: 'Yodef' entered and joined the game
