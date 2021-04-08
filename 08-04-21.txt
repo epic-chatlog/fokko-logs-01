@@ -753,3 +753,6 @@
 [2021-04-08 01:23:19]: VeemID [, Level 26]: YelloWorlD: jsp il me bloque
 [2021-04-08 01:23:19]: YelloWorlD [DogParty, Level 37]: VeemID: c moi le chef
 [2021-04-08 01:23:24]: YelloWorlD [DogParty, Level 37]: VeemID: c moi qui decide
+[2021-04-08 01:23:36]: VeemID [, Level 26]: YelloWorlD: bah ok alors
+[2021-04-08 01:23:41]: Vodo4ka [JB.st, Level 41]: ERROR: bruh
+[2021-04-08 01:23:43]: GOLD [404, Level 41]: VeemID: met DogParty
