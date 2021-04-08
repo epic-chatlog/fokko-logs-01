@@ -303,3 +303,4 @@
 [2021-04-08 00:37:49]: ChillerDragon.* [|*KoG*|, Level 41]: grr [D] BC|Tixnix
 [2021-04-08 00:37:58]: ERROR. [404, Level 56]: np
 [2021-04-08 00:37:59]: BC|Tixnix [BC, Level 34]: ChillerDragon.*: hahaha
+[2021-04-08 00:39:05]: ***  [, Level 0]: 'OP|Supers' entered and joined the game
