@@ -1688,3 +1688,6 @@
 [2021-04-08 02:44:02]: [D] BC|kakashi [BC, Level 0]: any: need help
 [2021-04-08 02:44:05]: ERROR. [404, Level 56]: DOG
 [2021-04-08 02:44:06]: ***  [, Level 0]: ### 'ERROR.' Woof-Woof
+[2021-04-08 02:44:09]: YelloWorlD [DogParty, Level 37]: arz
+[2021-04-08 02:44:10]: ERROR. [404, Level 56]: xD
+[2021-04-08 02:44:19]: ERROR. [404, Level 56]: Xddddd
