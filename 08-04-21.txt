@@ -11681,3 +11681,7 @@
 [2021-04-08 13:41:28]: Cassie [, Level 0]: ChillerDragon: i would never
 [2021-04-08 13:41:28]: ChillerDragon [Chilli.*, Level 45]: Cassie: I am currently afk.
 [2021-04-08 13:41:40]: Cassie [, Level 0]: ERROR: peace?
+[2021-04-08 13:41:42]: ERROR. [404, Level 56]: no
+[2021-04-08 13:41:44]: ERROR. [404, Level 56]: xD
+[2021-04-08 13:41:49]: Cassie [, Level 0]: why not
+[2021-04-08 13:41:53]: ERROR. [404, Level 56]: why we should?
