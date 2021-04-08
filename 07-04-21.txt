@@ -11208,3 +11208,4 @@
 [2021-04-07 19:22:07]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-07 19:23:09]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-07 19:23:29]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-07 19:27:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
