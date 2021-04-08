@@ -11541,3 +11541,4 @@
 [2021-04-07 23:21:56]: ***  [, Level 0]: 'Isegrin' entered and joined the game
 [2021-04-07 23:22:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 23:22:02]: ***  [, Level 0]: 'zemer' has left the game
+[2021-04-07 23:23:03]: power [TrRShClNrRs, Level 0]: SAUD:
