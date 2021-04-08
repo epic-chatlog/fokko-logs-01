@@ -10812,3 +10812,7 @@
 [2021-04-08 12:35:33]: ***  [, Level 0]: 'Fearless' has left the game
 [2021-04-08 12:35:37]: toxicdaddy [, Level 26]: cookie:
 [2021-04-08 12:35:42]: toxicdaddy [, Level 26]: MUR
+[2021-04-08 12:35:43]: toxicdaddy [, Level 26]: MUTE:
+[2021-04-08 12:35:43]:   [, Level 0]: any²: YelloWorlD: tu peut dire a kezo d'aretter de me kill ?
+[2021-04-08 12:35:45]:   [, Level 0]: MUTE: toxicdaddy: dont help him
+[2021-04-08 12:35:50]: __init__(self): [, Level 0]: Hunter.exe: im f"{self.name}"
