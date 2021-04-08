@@ -1551,3 +1551,8 @@
 [2021-04-08 02:28:16]: (1)УБИВАТ [, Level 0]: xD
 [2021-04-08 02:28:17]: YelloWorlD [DogParty, Level 37]: ChillerDragon: stop
 [2021-04-08 02:28:22]: ChillerDragon [|*KoG*|, Level 44]: lass ihn oben farmen ERROR
+[2021-04-08 02:28:25]: ERROR [404, Level 74]: nein
+[2021-04-08 02:28:28]: ChillerDragon [Chilli.*, Level 44]: why so mad ERROR
+[2021-04-08 02:28:32]: ChillerDragon [Chilli.*, Level 44]: der is mega entspannt
+[2021-04-08 02:28:32]: ERROR [404, Level 74]: bin nicht mad lol
+[2021-04-08 02:28:32]: ***  [, Level 0]: '(2)УБИВАТЬ!' entered and joined the game
