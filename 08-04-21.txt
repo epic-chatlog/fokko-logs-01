@@ -11814,3 +11814,5 @@
 [2021-04-08 13:55:57]: Foxie [, Level 0]: Kirito♥: go play with error :I
 [2021-04-08 13:56:04]: Kirito♥ [♥, Level 40]: Foxie: what?
 [2021-04-08 13:56:06]: Tziys* [DogParty, Level 39]: [D] ♥TAKO♥: VAHEMA
+[2021-04-08 13:56:14]: Kirito♥ [♥, Level 40]: Foxie: wait u are foxie? xD
+[2021-04-08 13:56:18]: ERROR. [404, Level 56]: xD
