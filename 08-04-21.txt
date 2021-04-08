@@ -1887,3 +1887,5 @@
 [2021-04-08 03:14:39]: ***  [, Level 0]: 'gian x' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-08 03:14:48]: [D] BC|Tixnix [BC, Level 26]: x7|zemer: hifl mir bitte :D
 [2021-04-08 03:15:03]: ***  [, Level 0]: '(2)kais' entered and joined the game
+[2021-04-08 03:15:16]: Friendiship ;-) [, Level 0]: YelloWorlD: pro
+[2021-04-08 03:15:21]: ***  [, Level 0]: '(2)kais' has left the game
