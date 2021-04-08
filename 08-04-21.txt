@@ -6594,3 +6594,5 @@
 [2021-04-08 08:54:39]: ***  [, Level 0]: \\Syth's killing spree was ended by [D] BC|serwan (6 blocks)
 [2021-04-08 08:54:42]: ***  [, Level 0]: '(1)nameless tee' has left the game
 [2021-04-08 08:54:44]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
+[2021-04-08 08:54:47]: ChillerDragon.* [|*KoG*|, Level 41]: Hunter.exe: weqe helps me not like u traitor
+[2021-04-08 08:54:56]: Hunter.exe [DogParty, Level 36]: ChillerDragon: wow
