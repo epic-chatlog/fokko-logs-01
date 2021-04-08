@@ -1635,3 +1635,5 @@
 [2021-04-08 02:36:00]: ***  [, Level 0]: 'x7|cya' has left the game
 [2021-04-08 02:36:00]: ***  [, Level 0]: '[D] x7|cya' has left the game
 [2021-04-08 02:36:04]: ERROR. [404, Level 56]: so da kannst gesellschaft leisten
+[2021-04-08 02:36:08]: (1)ChillerDrago [Chilli.*, Level 32]: :/
+[2021-04-08 02:36:16]: (1)ChillerDrago [Chilli.*, Level 32]: können meine dummys auch rein ERROR ?
