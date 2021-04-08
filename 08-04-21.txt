@@ -5505,3 +5505,6 @@
 [2021-04-08 07:57:38]: ***  [, Level 0]: 'Kong' entered and joined the game
 [2021-04-08 07:57:41]: ***  [, Level 0]: 'any' entered and joined the game
 [2021-04-08 07:57:45]: Kaptar [, Level 0]: YelloWorlD: eh att c pas moi la xd
+[2021-04-08 07:57:52]: ***  [, Level 0]: ᅟᅟᅟᅟ is on a killing spree with 5 blocks
+[2021-04-08 07:57:53]: YelloWorlD [DogParty, Level 37]: Kaptar: ?
+[2021-04-08 07:57:54]:   [, Level 0]: Kong: ?
