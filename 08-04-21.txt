@@ -955,3 +955,7 @@
 [2021-04-08 01:39:07]: ***  [, Level 0]: '(1)zemer' has left the game
 [2021-04-08 01:39:07]: OP|Supers [DogParty, Level 39]: Maatiteusz:  wtf
 [2021-04-08 01:39:15]: OP|Supers [DogParty, Level 39]: Maatiteusz:  war4life
+[2021-04-08 01:39:20]: Maatiteusz [TrRShClNrRs, Level 35]: YelloWorlD: kamikaze kid
+[2021-04-08 01:39:21]: ***  [, Level 0]: 'triniti' entered and joined the game
+[2021-04-08 01:39:25]: zemer [xSD7, Level 37]: Maatiteusz: war5life
+[2021-04-08 01:39:29]: [2] VeemID [DogParty, Level 0]: YelloWorlD: j'afk 2sec
