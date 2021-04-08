@@ -2144,3 +2144,5 @@
 [2021-04-08 03:51:15]: ***  [, Level 0]: 'Hikari' joined the spectators
 [2021-04-08 03:51:17]: Axandos [, Level 0]: eZ police
 [2021-04-08 03:51:18]: ***  [, Level 0]: 'Hikari' joined the game
+[2021-04-08 03:51:33]: ***  [, Level 0]: '(1)ビール|Zero' entered and joined the game
+[2021-04-08 03:51:35]: ***  [, Level 0]: 'Hikari' joined the spectators
