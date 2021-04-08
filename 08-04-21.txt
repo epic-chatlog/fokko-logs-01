@@ -1924,3 +1924,5 @@
 [2021-04-08 03:20:20]: ***  [, Level 0]: 'el champeon' has left the game
 [2021-04-08 03:20:25]: OP|Supers [DogParty, Level 0]: Swipez:  that was a cool move
 [2021-04-08 03:20:42]: BC|kakashi [BC, Level 0]: Lucas:
+[2021-04-08 03:21:04]: ***  [, Level 0]: '(1)restart' joined the spectators
+[2021-04-08 03:21:11]: OP|Supers [DogParty, Level 39]: Swipez:  :o
