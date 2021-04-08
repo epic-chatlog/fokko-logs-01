@@ -1812,3 +1812,6 @@
 [2021-04-08 03:02:59]: tee [, Level 0]: (1)tee: lmao
 [2021-04-08 03:03:09]: toxicdaddy [, Level 26]: (1)kais:
 [2021-04-08 03:03:26]: ビール|Zero [Drunks, Level 28]: dont move
+[2021-04-08 03:03:37]: ***  [, Level 0]: 'Warrior' entered and joined the game
+[2021-04-08 03:03:38]: ***  [, Level 0]: 'ddddd' changed name to '[D] Swipez'
+[2021-04-08 03:03:38]: ***  [, Level 0]: '\\Syth' changed name to 'Swipez'
