@@ -4967,3 +4967,5 @@
 [2021-04-08 07:18:05]: ***  [, Level 0]: (1)Cosmo finished in: 2 minute(s) 15.62 second(s)
 [2021-04-08 07:18:11]: YelloWorlD [DogParty, Level 37]: ChillerDragon: u dont know`£?
 [2021-04-08 07:18:11]: ***  [, Level 0]: 'partee' has left the game
+[2021-04-08 07:18:19]: ***  [, Level 0]: 'prankstar' entered and joined the game
+[2021-04-08 07:18:20]: Falco642 [, Level 0]: CeoOfAdmin: i wasnt even targetting you at 1st, you were getting in the way and you started blocking me
