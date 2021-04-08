@@ -9298,3 +9298,7 @@
 [2021-04-08 11:20:51]: ***  [, Level 0]: 'KoalasSindCool' has left the game
 [2021-04-08 11:20:53]: \\Syth [, Level 30]: a jeszcze
 [2021-04-08 11:20:53]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
+[2021-04-08 11:21:08]:   [, Level 0]: Maatiteusz: \\Syth: twuj stary zjada komary es
+[2021-04-08 11:21:08]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-08 11:21:14]:   [, Level 0]: Maatiteusz: sun.slow(y): gay
+[2021-04-08 11:21:15]: ***  [, Level 0]: 'Miguilim' has left the game
