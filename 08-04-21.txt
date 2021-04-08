@@ -5804,3 +5804,8 @@
 [2021-04-08 08:18:34]:   [, Level 0]: ビール|Zero: KS| Ty4ka: pls
 [2021-04-08 08:18:42]:   [, Level 0]: ビール|Zero: чек
 [2021-04-08 08:18:44]: Mʎɹ シ [not today, Level 12]: (1)ビール|Ze: Ну
+[2021-04-08 08:18:49]: Mʎɹ シ [not today, Level 12]: (1)ビール|Ze: Щас
+[2021-04-08 08:18:49]: Котяра [, Level 20]: сука
+[2021-04-08 08:18:52]: Hunter.exe [DogParty, Level 36]: MieSlime: jotaro
+[2021-04-08 08:18:56]: MieSlime [FookinLads, Level 43]: Hunter.exe:  yes
+[2021-04-08 08:18:59]: Hunter.exe [DogParty, Level 36]: MieSlime: :D
