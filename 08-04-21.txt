@@ -5702,3 +5702,7 @@
 [2021-04-08 08:11:53]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-08 08:11:55]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 08:11:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-08 08:12:19]: Kong [[_Any %_], Level 0]: sor
+[2021-04-08 08:12:20]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 08:12:21]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 08:12:22]:   [, Level 0]: Kaptar: np
