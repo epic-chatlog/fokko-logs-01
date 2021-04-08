@@ -11554,3 +11554,5 @@
 [2021-04-07 23:25:19]: ***  [, Level 0]: 'Isegrin' has left the game
 [2021-04-07 23:25:33]: (1)Mr.KshKsh99 [xSD7, Level 0]: power: dont talk about mothers
 [2021-04-07 23:25:40]: power [TrRShClNrRs, Level 0]: shes my mother aswell
+[2021-04-07 23:26:07]: ***  [, Level 0]: '(1)Mr.KshKsh99' has left the game
+[2021-04-07 23:26:07]: ***  [, Level 0]: '(1)x7|KshKsh99' has left the game
