@@ -2120,3 +2120,5 @@
 [2021-04-08 03:48:27]: Kong [[_Any %_], Level 0]: wtf
 [2021-04-08 03:48:29]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-08 03:48:35]: Kong [[_Any %_], Level 0]: thx
+[2021-04-08 03:48:47]: ***  [, Level 0]: 'Hikari' entered and joined the game
+[2021-04-08 03:48:53]: [D] Swipez [, Level 25]: ERROR: block him?
