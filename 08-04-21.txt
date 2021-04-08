@@ -8524,3 +8524,5 @@
 [2021-04-08 10:38:52]: Maatiteusz [TrRShClNrRs, Level 35]: any:
 [2021-04-08 10:38:58]: ***  [, Level 0]: 'Moteemer' changed name to 'f a\jibf z'
 [2021-04-08 10:39:03]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-08 10:39:16]: ***  [, Level 0]: 'f a\jibf z' changed name to 'Etrekom'
+[2021-04-08 10:39:19]: ***  [, Level 0]: 'y2x' entered and joined the game
