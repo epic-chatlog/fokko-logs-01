@@ -5282,3 +5282,8 @@
 [2021-04-08 07:36:40]: YelloWorlD [DogParty, Level 37]: ChillerDragon: what issue
 [2021-04-08 07:36:43]: YelloWorlD [DogParty, Level 37]: Kezo: i stole his acc
 [2021-04-08 07:36:55]: Kezo [FookinLads, Level 41]: YelloWorlD: so you fight with him ?
+[2021-04-08 07:36:55]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 07:36:57]:   [, Level 0]: ChillerDragon: obs crashed YelloWorlD i have now autorestart and auto start streaming script
+[2021-04-08 07:36:57]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 07:36:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-08 07:37:03]: ***  [, Level 0]: 'nameless tee' has left the game
