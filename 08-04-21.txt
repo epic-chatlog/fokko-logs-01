@@ -3376,3 +3376,7 @@
 [2021-04-08 05:14:45]: ***  [, Level 0]: 'bob weqe fan' entered and joined the game
 [2021-04-08 05:15:15]: \\Syth [[!FAKE!], Level 30]: GReeeN: its my flag
 [2021-04-08 05:15:21]: GReeeN [, Level 0]: no
+[2021-04-08 05:15:22]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-08 05:15:23]: \\Syth [[!FAKE!], Level 30]: yes
+[2021-04-08 05:15:31]: \\Syth [[!FAKE!], Level 30]: i give to him for sec
+[2021-04-08 05:15:34]: GReeeN [, Level 0]: he was first here
