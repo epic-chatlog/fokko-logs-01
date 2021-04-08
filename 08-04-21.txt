@@ -854,3 +854,5 @@
 [2021-04-08 01:30:30]: ***  [, Level 0]: 'ChillerDragon' has left the game
 [2021-04-08 01:30:30]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
 [2021-04-08 01:30:37]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
+[2021-04-08 01:30:42]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
+[2021-04-08 01:30:47]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
