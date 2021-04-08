@@ -829,3 +829,9 @@
 [2021-04-08 01:29:16]: ***  [, Level 0]: 'toxicdaddy' entered and joined the game
 [2021-04-08 01:29:24]: (1)ChillerDrago [Chilli.*, Level 33]: what is "pas" YelloWorlD ?
 [2021-04-08 01:29:29]: GODLIKe. [u, Level 39]: YelloWorlD: we practic
+[2021-04-08 01:29:35]: YelloWorlD [DogParty, Level 37]: GODLIKe: dont touch my clan
+[2021-04-08 01:29:38]: ***  [, Level 0]: 'SAUD' finished the special race!
+[2021-04-08 01:29:38]: ***  [, Level 0]: 'restart' finished the special race!
+[2021-04-08 01:29:41]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-08 01:29:41]: GODLIKe. [u, Level 39]: YelloWorlD: VeemID my friend
+[2021-04-08 01:29:42]: ***  [, Level 0]: '(1)ChillerDragon' changed name to '(3)ChillerDragon'
