@@ -10831,3 +10831,6 @@
 [2021-04-08 12:36:36]: GOLD [404, Level 40]: Fearless: open
 [2021-04-08 12:36:40]: ***  [, Level 0]: 'Yodef' has left the game
 [2021-04-08 12:36:43]: ***  [, Level 0]: 'Yodef' entered and joined the game
+[2021-04-08 12:36:49]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-08 12:36:53]: GReeeN [, Level 0]: MUTE:  you soo gooodd in afk block holy
+[2021-04-08 12:36:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
