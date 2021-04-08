@@ -4011,3 +4011,10 @@
 [2021-04-08 06:03:40]: \\Syth [[!FAKE!], Level 30]: bbbbbbb
 [2021-04-08 06:03:42]: ***  [, Level 0]: '[D] \\Syth' has left the game
 [2021-04-08 06:03:42]: ***  [, Level 0]: '\\Syth' has left the game
+[2021-04-08 06:03:44]: (1)Warrior [, Level 0]: i cant move
+[2021-04-08 06:03:47]: ***  [, Level 0]: 'σмєтнιηg' entered and joined the game
+[2021-04-08 06:03:48]: (1)TeigHuhn [, Level 0]: why
+[2021-04-08 06:03:50]: (1)Warrior [, Level 0]: i have 300 ping
+[2021-04-08 06:03:50]: bob [Legacy™, Level 36]: nice brother
+[2021-04-08 06:03:51]: (1)OP|Supers [DogParty, Level 39]: f"{self.name}":  ?
+[2021-04-08 06:03:56]:   [, Level 0]: Soros: power: l want peace now :D
