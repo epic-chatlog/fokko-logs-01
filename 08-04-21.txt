@@ -11833,3 +11833,4 @@
 [2021-04-08 13:57:52]: toxicdadd [, Level 0]: [D] ♥TAKO♥: fub war
 [2021-04-08 13:59:01]: ***  [, Level 0]: 'Cassie' has left the game
 [2021-04-08 13:59:06]: ***  [, Level 0]: 'Korlan' entered and joined the game
+[2021-04-08 13:59:29]: ***  [, Level 0]: 'el champeon' has left the game
