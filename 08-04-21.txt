@@ -10993,3 +10993,5 @@
 [2021-04-08 12:46:30]: ***  [, Level 0]: 'peepeepoopoo' has left the game
 [2021-04-08 12:46:40]: [D] Syth [, Level 25]: GReeeN:  YelloWorlD  yoo
 [2021-04-08 12:46:41]: GReeeN [, Level 0]: YelloWorlD:  baby sitter
+[2021-04-08 12:46:47]: YelloWorlD [DogParty, Level 41]: Syth: yooo
+[2021-04-08 12:46:52]: Kezo [DogParty, Level 41]: GReeeN: okay i dont talk you gay ^^
