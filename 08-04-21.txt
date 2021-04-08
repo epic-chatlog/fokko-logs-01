@@ -11381,3 +11381,6 @@
 [2021-04-08 13:19:54]: Kezo [DogParty, Level 41]: STUPİDD
 [2021-04-08 13:19:55]: ERROR [404, Level 74]: stfu
 [2021-04-08 13:20:00]: ERROR. [404, Level 56]: random
+[2021-04-08 13:20:07]: Zephir™ [, Level 39]: Kaptar: yellow vas certainement me pardonner
+[2021-04-08 13:20:10]: mamikral011 [DogParty, Level 26]: Kezo: ooo onlada war olcan zorlama amk
+[2021-04-08 13:20:17]: Kezo [DogParty, Level 41]: mamikral011: sonuna kadar :D
