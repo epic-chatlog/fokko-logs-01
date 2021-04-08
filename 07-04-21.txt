@@ -11382,3 +11382,5 @@
 [2021-04-07 22:34:07]: ***  [, Level 0]: 'gian x' entered and joined the game
 [2021-04-07 22:35:02]: ***  [, Level 0]: 'x7|KshKsh99' finished the special race!
 [2021-04-07 22:36:21]: x7|KshKsh99 [xSD7, Level 37]: kais:
+[2021-04-07 22:37:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-07 22:37:10]: ***  [, Level 0]: '(1)x7|KshKsh99' entered and joined the game
