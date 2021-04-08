@@ -2605,3 +2605,7 @@
 [2021-04-08 04:21:29]: ***  [hýÿÿ, Level 0]: 'Warrior' entered and joined the game
 [2021-04-08 04:21:32]: Supers [á…Ÿá…Ÿá…Ÿ, Level 8]: (1)x7|cya:  stop it
 [2021-04-08 04:21:43]: bob [Legacyâ„¢, Level 36]: weqe: whyu block sun.slow(y) xd
+[2021-04-08 04:21:51]: weqe [MNKY, Level 12]: bob: he help HeavyGeneral
+[2021-04-08 04:21:54]: sun.slow(y) [FookinLads, Level 35]: bob: er blockt HeavyGeneral
+[2021-04-08 04:21:55]: HeavyGeneral [FookinLads, Level 44]: sun.slow(y): sec i lag
+[2021-04-08 04:21:59]: ***  [hýÿÿ, Level 0]: [INFO] You can create an account using '/register'
