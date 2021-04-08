@@ -11602,3 +11602,5 @@
 [2021-04-07 23:42:43]: ***  [, Level 0]: '(3)SAUD' has left the game
 [2021-04-07 23:42:43]: ***  [, Level 0]: 'SAUD' has left the game
 [2021-04-07 23:42:49]: Cylox [♥, Level 30]: rq
+[2021-04-07 23:43:57]: Cylox [♥, Level 30]: ERROR: hi
+[2021-04-07 23:44:04]: Friendiship ;-) [, Level 0]: Cylox: why can you change your eyes ?
