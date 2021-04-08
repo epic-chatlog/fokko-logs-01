@@ -5792,3 +5792,5 @@
 [2021-04-08 08:17:07]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-08 08:17:10]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 08:17:12]:   [, Level 0]: ビール|Zero: KS| Ty4ka: скажешь когда спекнуть меня сможешь
+[2021-04-08 08:17:23]:   [, Level 0]: ビール|Zero: KS| Ty4ka: мне надо что бы за моей игрой посмотрел кто то
+[2021-04-08 08:17:24]: ***  [, Level 0]: ᅟᅟᅟᅟ is on a killing spree with 10 blocks
