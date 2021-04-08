@@ -11879,3 +11879,4 @@
 [2021-04-08 14:06:22]: ***  [, Level 0]: 'Kirito♥' joined the game
 [2021-04-08 14:06:42]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
 [2021-04-08 14:06:42]: ***  [, Level 0]: '♥TAKO♥' has left the game
+[2021-04-08 14:06:54]: ***  [, Level 0]: 'Kaptar' has left the game
