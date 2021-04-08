@@ -5789,3 +5789,6 @@
 [2021-04-08 08:16:57]: Mʎɹ シ [not today, Level 11]: ビール|Zero: {[g[f
 [2021-04-08 08:16:59]: Mʎɹ シ [not today, Level 11]: ビール|Zero: Ххпах
 [2021-04-08 08:16:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-08 08:17:07]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 08:17:10]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 08:17:12]:   [, Level 0]: ビール|Zero: KS| Ty4ka: скажешь когда спекнуть меня сможешь
