@@ -3644,3 +3644,6 @@
 [2021-04-08 05:32:37]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-08 05:32:41]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-08 05:32:45]: ***  [, Level 0]: Cylox is on a killing spree with 5 blocks
+[2021-04-08 05:32:49]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
+[2021-04-08 05:32:56]: GReeeN [, Level 0]: x7|sven:  need to kill you
+[2021-04-08 05:33:01]: [2] VeemID [DogParty, Level 26]: GReeeN:
