@@ -58,3 +58,7 @@
 [2021-04-08 00:04:35]: ***  [, Level 0]: BC|Tixnix finished in: 1 minute(s) 50.00 second(s)
 [2021-04-08 00:04:49]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [2021-04-08 00:04:56]: Rem's dummy [, Level 38]: GODLIKe: who u wating for ?
+[2021-04-08 00:05:04]: ***  [, Level 0]: '(1)Warrior' entered and joined the game
+[2021-04-08 00:05:09]: Rem's dummy [, Level 38]: Nudelsaft c:: hey
+[2021-04-08 00:05:11]: Nudelsaft c: [FookinLads, Level 37]: yo
+[2021-04-08 00:05:16]: Foxie♥ [♥, Level 36]: Nudelsaft c:: ERROR still war me :c
