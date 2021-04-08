@@ -2254,3 +2254,5 @@
 [2021-04-08 04:00:56]: bob [Legacy™, Level 36]: now
 [2021-04-08 04:01:00]: ビール|Zero [Drunks, Level 28]: ладно
 [2021-04-08 04:01:04]: [D] Swipez [, Level 25]: bob: what
+[2021-04-08 04:01:07]: bob [Legacy™, Level 36]: say sorry
+[2021-04-08 04:01:11]: [D] Swipez [, Level 25]: ss
