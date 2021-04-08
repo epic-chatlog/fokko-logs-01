@@ -1815,3 +1815,5 @@
 [2021-04-08 03:03:37]: ***  [, Level 0]: 'Warrior' entered and joined the game
 [2021-04-08 03:03:38]: ***  [, Level 0]: 'ddddd' changed name to '[D] Swipez'
 [2021-04-08 03:03:38]: ***  [, Level 0]: '\\Syth' changed name to 'Swipez'
+[2021-04-08 03:03:51]: ***  [, Level 0]: [D] BC|Tixnix is on a killing spree with 5 blocks
+[2021-04-08 03:03:57]: toxicdaddy [, Level 26]: HAHA
