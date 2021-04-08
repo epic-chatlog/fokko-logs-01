@@ -10741,3 +10741,9 @@
 [2021-04-08 12:30:58]:   [, Level 0]: Kezo: xDDDDDD
 [2021-04-08 12:31:00]:   [, Level 0]: Kezo: OMG
 [2021-04-08 12:31:01]:   [, Level 0]: Kezo: FAİL
+[2021-04-08 12:31:02]:   [, Level 0]: Kezo: HELP ME
+[2021-04-08 12:31:04]:   [, Level 0]: HardreenClutch:  WWWWWW TTTTTTT FFFFFFFFFF
+[2021-04-08 12:31:04]: ***  [, Level 0]: 'Kezo' has been muted for 60 seconds
+[2021-04-08 12:31:08]: Lucas [THECEPS, Level 34]: dero10: lol
+[2021-04-08 12:31:12]: ***  [, Level 0]: 'Kezo' changed name to 'MUTE'
+[2021-04-08 12:31:12]:   [, Level 0]: HardreenClutch: any:  help
