@@ -13014,3 +13014,4 @@
 [2021-04-08 16:46:34]: Fearless [DogParty, Level 15]: Flipper:  xd
 [2021-04-08 16:46:36]: Fearless [DogParty, Level 15]: iMxtteo:  MEN WR
 [2021-04-08 16:46:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-08 16:47:20]: ***  [, Level 0]: 'bob' entered and joined the game
