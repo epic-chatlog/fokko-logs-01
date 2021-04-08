@@ -2140,3 +2140,7 @@
 [2021-04-08 03:51:00]: ***  [, Level 0]: 'JxK|JoK'Air' entered and joined the game
 [2021-04-08 03:51:08]: ***  [, Level 0]: 'CKA3A4NIK[NR]' entered and joined the game
 [2021-04-08 03:51:09]: ERROR. [404, Level 56]: so muss arbeiten bb
+[2021-04-08 03:51:13]: Axandos [, Level 0]: bb
+[2021-04-08 03:51:15]: ***  [, Level 0]: 'Hikari' joined the spectators
+[2021-04-08 03:51:17]: Axandos [, Level 0]: eZ police
+[2021-04-08 03:51:18]: ***  [, Level 0]: 'Hikari' joined the game
