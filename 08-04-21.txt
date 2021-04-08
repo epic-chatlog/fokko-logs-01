@@ -6576,3 +6576,9 @@
 [2021-04-08 08:53:57]: Hunter.exe [DogParty, Level 36]: ChillerDragon:
 [2021-04-08 08:54:03]: УБИВАТЬ! [, Level 0]: clone)
 [2021-04-08 08:54:06]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-08 08:54:09]: ChillerDragon.* [Chilli.*, Level 41]: like u ever help Hunter.exe
+[2021-04-08 08:54:10]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 08:54:11]: УБИВАТЬ! [, Level 0]: yes!xD
+[2021-04-08 08:54:13]: ***  [, Level 0]: '(1)nameless tee' has left the game
+[2021-04-08 08:54:13]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 08:54:16]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
