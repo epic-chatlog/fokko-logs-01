@@ -6605,3 +6605,8 @@
 [2021-04-08 08:55:22]: ***  [, Level 0]: falkenauge is on a killing spree with 5 blocks
 [2021-04-08 08:55:36]: σмєтнιηg [zε†α, Level 0]: chiller
 [2021-04-08 08:55:37]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 08:55:39]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 08:55:46]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 08:55:49]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 08:55:49]: ***  [, Level 0]: falkenauge is on a killing spree with 10 blocks
+[2021-04-08 08:55:50]: ***  [, Level 0]: 'nameless tee' has left the game
