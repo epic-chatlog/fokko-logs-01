@@ -11017,3 +11017,4 @@
 [2021-04-08 12:47:51]: ***  [, Level 0]: [D] tschu is on a killing spree with 5 blocks
 [2021-04-08 12:47:57]: ERROR. [404, Level 56]: stupid dog
 [2021-04-08 12:47:57]: GOLD [404, Level 40]: ERROR: what omg u lose 1v1
+[2021-04-08 12:48:11]: ***  [, Level 0]: 'toxicdaddy' entered and joined the game
