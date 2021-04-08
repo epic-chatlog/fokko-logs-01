@@ -3304,3 +3304,5 @@
 [2021-04-08 05:05:38]: ***  [, Level 0]: '(1)DiscordBridge' has left the game
 [2021-04-08 05:05:38]: ***  [, Level 0]: Collected 28569 money
 [2021-04-08 05:05:38]: ***  [, Level 0]: Collected 27966 money
+[2021-04-08 05:06:15]: ***  [, Level 0]: Successfully logged in
+[2021-04-08 05:06:16]: ĦỮǤØ [ŞƤΔŴŇ, Level 14]: XDD
