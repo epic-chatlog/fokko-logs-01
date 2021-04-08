@@ -6938,3 +6938,6 @@
 [2021-04-08 09:25:51]: ***  [, Level 0]: New record: 2 minute(s) 28.98 second(s) better.
 [2021-04-08 09:26:02]: falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: [D] BC|kakashi: hahahha
 [2021-04-08 09:26:10]:   [, Level 0]: cookie: I like turtles.
+[2021-04-08 09:26:19]: ***  [, Level 0]: 'BC|kakashi' has left the game
+[2021-04-08 09:26:19]: ***  [, Level 0]: '[D] BC|kakashi' has left the game
+[2021-04-08 09:26:22]: Nonoh [citrom, Level 40]: I like turtles.
