@@ -11881,3 +11881,5 @@
 [2021-04-08 14:06:42]: ***  [, Level 0]: '♥TAKO♥' has left the game
 [2021-04-08 14:06:54]: ***  [, Level 0]: 'Kaptar' has left the game
 [2021-04-08 14:06:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-08 14:07:10]: Korlan [, Level 0]: Tu vas y arriver
+[2021-04-08 14:07:18]: Zephir™ [, Level 39]: Korlan: ouaip
