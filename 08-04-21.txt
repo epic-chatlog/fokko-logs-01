@@ -11243,3 +11243,9 @@
 [2021-04-08 13:11:30]: ERROR [404, Level 74]: GOLD:  xDD
 [2021-04-08 13:11:33]: Kezo [DogParty, Level 41]: mamikral011: evet
 [2021-04-08 13:11:36]: mamikral011 [DogParty, Level 26]: Kezo: iyi
+[2021-04-08 13:11:46]: GOLD [404, Level 40]: ERROR: say me blocknote
+[2021-04-08 13:11:47]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-08 13:11:49]: ***  [, Level 0]: 'Cassie' entered and joined the game
+[2021-04-08 13:11:50]: ***  [, Level 0]: 'ScreepyTY' joined the spectators
+[2021-04-08 13:11:54]: ***  [, Level 0]: 'ScreepyTY' joined the game
+[2021-04-08 13:11:54]: (1)cookie [, Level 2]: mamikral011:  i need to go bye
