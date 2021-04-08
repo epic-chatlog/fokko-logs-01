@@ -5850,3 +5850,6 @@
 [2021-04-08 08:21:38]:   [, Level 0]: ビール|Zero: 214777XDDDD
 [2021-04-08 08:21:39]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 08:21:43]:   [, Level 0]: ビール|Zero: 214 777 k
+[2021-04-08 08:21:45]: (3)ChillerDrago [Chilli.*, Level 33]: are u adam MieSlime ?
+[2021-04-08 08:21:48]: MieSlime [FookinLads, Level 43]: ChillerDragon:  ye
+[2021-04-08 08:21:50]: (3)ChillerDrago [|*KoG*|, Level 33]: fan
