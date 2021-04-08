@@ -9028,3 +9028,7 @@
 [2021-04-08 11:06:34]: Foxie [, Level 0]: \\Syth: dokoladnie
 [2021-04-08 11:06:43]: ChillerDragon [Chilli.*, Level 44]: hm
 [2021-04-08 11:06:45]:   [, Level 0]: (1)nameless tee: (3)cookie: ?
+[2021-04-08 11:06:51]: Foxie [, Level 0]: Foxie: not that shoes wait
+[2021-04-08 11:06:52]:   [, Level 0]: (3)cookie: (1)nameless tee:  yes
+[2021-04-08 11:06:53]: Foxie♥ [♥, Level 36]: Foxie♥: go
+[2021-04-08 11:06:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
