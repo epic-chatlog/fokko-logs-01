@@ -6180,3 +6180,6 @@
 [2021-04-08 08:36:53]: ***  [, Level 0]: '[D] ᅟᅟᅟ�' would have timed out, but can use timeout protection now
 [2021-04-08 08:36:55]:   [, Level 0]: Fearless: Nudelsaft c::  are u pedo like shiro ?
 [2021-04-08 08:36:56]: Mʎɹ シ [not today, Level 12]: Котяра: В 5?
+[2021-04-08 08:36:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-08 08:37:00]: Котяра [, Level 20]: да
+[2021-04-08 08:37:01]: Nudelsaft c: [FookinLads, Level 37]: no u
