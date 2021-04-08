@@ -5604,3 +5604,5 @@
 [2021-04-08 08:05:06]: Tziys* [DogParty, Level 39]: Nightmare: YOU blocked me
 [2021-04-08 08:05:10]:   [, Level 0]: Nightmare: Tziys*: ???
 [2021-04-08 08:05:15]: Tziys* [DogParty, Level 39]: Nightmare: and i said you war
+[2021-04-08 08:05:20]:   [, Level 0]: Nightmare: Tziys*: when?
+[2021-04-08 08:05:22]: ***  [, Level 0]: '~DemoizL~' has left the game
