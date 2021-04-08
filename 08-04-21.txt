@@ -10957,3 +10957,7 @@
 [2021-04-08 12:44:18]: iMxtteo [, Level 26]: ERROR: wieso man
 [2021-04-08 12:44:24]: ERROR. [404, Level 56]: wieso touched du mich
 [2021-04-08 12:44:34]: YelloWorlD [DogParty, Level 41]: Kezo: stop be mad
+[2021-04-08 12:44:45]: ***  [, Level 0]: 'Bozzkurt' entered and joined the game
+[2021-04-08 12:44:48]: Zephir™ [, Level 39]: ERROR: Kenshi™ are my dummi xD
+[2021-04-08 12:44:50]: YelloWorlD [DogParty, Level 41]: Kezo: stop be mad
+[2021-04-08 12:44:54]: Kezo [DogParty, Level 41]: ye
