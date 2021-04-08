@@ -1988,3 +1988,5 @@
 [2021-04-08 03:27:35]: ***  [, Level 0]: '(1)ビール|Zero' entered and joined the game
 [2021-04-08 03:27:38]: OP|Supers [DogParty, Level 39]: HAHAHAHA
 [2021-04-08 03:27:39]: BC|kakashi [BC, Level 0]: any²:
+[2021-04-08 03:27:40]: OP|Supers [DogParty, Level 39]: l2p kiddo
+[2021-04-08 03:27:43]: ***  [, Level 0]: '(1)ビール|Zero' has left the game
