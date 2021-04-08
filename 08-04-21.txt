@@ -9343,3 +9343,6 @@
 [2021-04-08 11:23:07]: ***  [, Level 0]: 'Cosmo' has left the game
 [2021-04-08 11:23:08]: Hunter.exe [DogParty, Level 36]: NetFlix: go away or war
 [2021-04-08 11:23:11]: ***  [, Level 0]: '(1)Cosmo' has left the game
+[2021-04-08 11:23:17]: ***  [0, Level 0]: 'chillerdragon.' entered and joined the game
+[2021-04-08 11:23:17]: ***  [0, Level 0]: 'Cosmo' entered and joined the game
+[2021-04-08 11:23:22]: \\Syth [, Level 30]: Maatiteusz: radzę cofnąć się w czasie i założyć kondom ojcu
