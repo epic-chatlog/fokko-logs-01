@@ -10944,3 +10944,9 @@
 [2021-04-08 12:43:24]: ***  [, Level 0]: '(1) Hunter.exe' has left the game
 [2021-04-08 12:43:25]: (1)cookie [, Level 0]: __init__(self)::  oow sorry
 [2021-04-08 12:43:25]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-08 12:43:29]: ***  [, Level 0]: 'sooooootee' entered and joined the game
+[2021-04-08 12:43:29]: (1)cookie [, Level 0]: YelloWorlD:   no
+[2021-04-08 12:43:29]: mamikral011 [DogParty, Level 26]: YelloWorlD: TCmami#9982
+[2021-04-08 12:43:30]: Tziys* [DogPartya, Level 39]: GReeeN: you scared 1v1
+[2021-04-08 12:43:34]: Tziys* [DogPartya, Level 39]: GReeeN: BADDD
+[2021-04-08 12:43:38]: (1)cookie [, Level 0]: YelloWorlD:  wait i have peach
