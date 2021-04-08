@@ -11333,3 +11333,6 @@
 [2021-04-08 13:16:47]: mamikral011 [DogParty, Level 26]: YelloWorlD: help
 [2021-04-08 13:16:48]: GOLD [404, Level 40]: ERROR: whjoazea
 [2021-04-08 13:16:50]: GReeeN [, Level 0]: YelloWorlD:  Kezo  blockt clanmate
+[2021-04-08 13:16:56]: Kezo [DogParty, Level 41]: GReeeN: stfu
+[2021-04-08 13:16:58]: GReeeN [, Level 0]: YelloWorlD:  Kezo  blockt clanmate
+[2021-04-08 13:16:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
