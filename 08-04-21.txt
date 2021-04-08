@@ -2026,3 +2026,5 @@
 [2021-04-08 03:32:39]: OP|Supers [DogParty, Level 39]: Koplokon:  u hacker?
 [2021-04-08 03:32:47]: [D] Swipez [, Level 25]: poor flappy
 [2021-04-08 03:33:32]: OP|Supers [DogParty, Level 39]: Koplokon:  gimme cash
+[2021-04-08 03:33:34]: ***  [, Level 0]: 'Lucas' has left the game
+[2021-04-08 03:33:42]: OP|Supers [DogParty, Level 39]: INFFII%100:
