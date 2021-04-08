@@ -2080,3 +2080,4 @@
 [2021-04-08 03:40:27]: [D] Swipez [, Level 25]: GOLD: from fookinlads
 [2021-04-08 03:41:08]: ***  [, Level 0]: 'Swarfey' joined the spectators
 [2021-04-08 03:41:11]: ***  [, Level 0]: 'Swarfey' joined the game
+[2021-04-08 03:41:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
