@@ -5969,3 +5969,6 @@
 [2021-04-08 08:29:06]: ***  [, Level 0]: 'Saga' entered and joined the game
 [2021-04-08 08:29:07]: Котяра [, Level 20]: Mʎɹ シ: или ты не про ето?
 [2021-04-08 08:29:13]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-08 08:29:16]: ***  [, Level 0]: 'Asta' entered and joined the game
+[2021-04-08 08:29:23]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 08:29:26]: ***  [, Level 0]: 'Niemand' has left the game
