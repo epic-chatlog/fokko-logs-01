@@ -11173,3 +11173,5 @@
 [2021-04-07 18:00:17]: jcanela2022 [, Level 0]: k??
 [2021-04-07 18:00:21]: Flipper [, Level 14]: k
 [2021-04-07 18:02:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-07 18:03:16]: ***  [, Level 0]: 'Flupper' has left the game
+[2021-04-07 18:03:16]: ***  [, Level 0]: 'Flipper' has left the game
