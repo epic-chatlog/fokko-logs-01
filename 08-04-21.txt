@@ -9582,3 +9582,6 @@
 [2021-04-08 11:32:14]: Falco642 [, Level 0]: Flipper: i rifle u ok
 [2021-04-08 11:32:16]: Flipper [DogParty, Level 15]: k
 [2021-04-08 11:32:21]: Falco642 [, Level 0]: a
+[2021-04-08 11:32:25]: (2)cookie [, Level 0]: mami you can train white him
+[2021-04-08 11:32:29]: Falco642 [, Level 0]: Flipper: a
+[2021-04-08 11:32:29]: Flipper [DogParty, Level 15]: OKOK
