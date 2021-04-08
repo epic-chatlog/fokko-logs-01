@@ -3374,3 +3374,5 @@
 [2021-04-08 05:14:34]: Boti. [.bad, Level 0]: nob
 [2021-04-08 05:14:40]: ***  [, Level 0]: 'Shroom' has left the game
 [2021-04-08 05:14:45]: ***  [, Level 0]: 'bob weqe fan' entered and joined the game
+[2021-04-08 05:15:15]: \\Syth [[!FAKE!], Level 30]: GReeeN: its my flag
+[2021-04-08 05:15:21]: GReeeN [, Level 0]: no
