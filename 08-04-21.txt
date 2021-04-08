@@ -3565,3 +3565,9 @@
 [2021-04-08 05:25:32]: \\Syth [[!FAKE!], Level 30]: wtf
 [2021-04-08 05:25:33]: (1)OP|Supers [DogParty, Level 39]: WHO MY DED
 [2021-04-08 05:25:41]: Boti. [.bad, Level 33]: u
+[2021-04-08 05:25:44]: (1)OP|Supers [DogParty, Level 39]: U
+[2021-04-08 05:25:47]: ***  [, Level 0]: 'Supers' entered and joined the game
+[2021-04-08 05:25:48]: Boti. [.bad, Level 33]: no u
+[2021-04-08 05:25:49]: Kiøn1029 [.bad, Level 31]: ChillerDragon: why
+[2021-04-08 05:25:50]: ChillerDragon [|*KoG*|, Level 44]: Kiøn1029: I am currently afk.
+[2021-04-08 05:25:52]: Kiøn1029 [.bad, Level 31]: come here
