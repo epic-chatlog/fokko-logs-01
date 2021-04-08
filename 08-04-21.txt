@@ -903,3 +903,4 @@
 [2021-04-08 01:33:47]: x7|zemer [xSD7, Level 37]: GODLIKe: ok
 [2021-04-08 01:34:15]: ***  [, Level 0]: 'zemer' entered and joined the game
 [2021-04-08 01:34:20]: x7|zemer [xSD7, Level 37]: Maatiteusz:
+[2021-04-08 01:34:29]: ***  [, Level 0]: 'zemer' has left the game
