@@ -925,3 +925,5 @@
 [2021-04-08 01:36:17]: [2] VeemID [DogParty, Level 0]: YelloWorlD: f-client
 [2021-04-08 01:36:26]: YelloWorlD [DogParty, Level 37]: VeemID: utilise ddnet
 [2021-04-08 01:36:26]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-08 01:36:35]: mamikral011 [DogParty, Level 0]: YelloWorlD: sorry my pc nice
+[2021-04-08 01:36:39]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
