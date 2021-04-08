@@ -5696,3 +5696,9 @@
 [2021-04-08 08:11:40]: (1)ᅟᅟ [, Level 27]: yo
 [2021-04-08 08:11:41]: ***  [, Level 0]: '(1)ᅟᅟᅟᅟ' changed name to '(1)ᅟᅟᅟ'
 [2021-04-08 08:11:45]: ***  [, Level 0]: 'Asta' entered and joined the game
+[2021-04-08 08:11:47]: ***  [, Level 0]: '(1)ᅟᅟᅟ' changed name to '(1)ᅟ'
+[2021-04-08 08:11:49]: ***  [, Level 0]: '(1)ᅟᅟ' changed name to 'Nightmare'
+[2021-04-08 08:11:52]: ***  [, Level 0]: '(1)ᅟ' changed name to '[D] ᅟᅟᅟ�'
+[2021-04-08 08:11:53]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 08:11:55]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 08:11:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
