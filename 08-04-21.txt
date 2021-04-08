@@ -12229,3 +12229,6 @@
 [2021-04-08 14:51:33]: Kirito♥ [♥, Level 40]: soleri1: good night bro
 [2021-04-08 14:51:52]: soleri1 [, Level 22]: Kirito♥: thank u
 [2021-04-08 14:51:58]: soleri1 [, Level 22]: Kirito♥: :)
+[2021-04-08 14:51:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-08 14:52:00]: ***  [, Level 0]: fomin is on a killing spree with 5 blocks
+[2021-04-08 14:52:07]: ***  [, Level 0]: fomjn is on a killing spree with 10 blocks
