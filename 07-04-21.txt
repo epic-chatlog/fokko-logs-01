@@ -11227,3 +11227,4 @@
 [2021-04-07 19:59:55]: ***  [, Level 0]: 'ERRORᅟᅟᅟ' has left the game (Timeout Protection over)
 [2021-04-07 19:59:55]: ***  [, Level 0]: '(1)ERROR.' has left the game (Timeout Protection over)
 [2021-04-07 19:59:55]: ***  [, Level 0]: 'ERROR.' has left the game (Timeout Protection over)
+[2021-04-07 20:02:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
