@@ -5005,3 +5005,5 @@
 [2021-04-08 07:20:56]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-08 07:20:56]:   [, Level 0]: (1)soleri1: toxicdadd:
 [2021-04-08 07:20:58]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 07:21:06]: Hunter.exe [DogParty, Level 36]: YelloWorlD: <<<<
+[2021-04-08 07:21:13]: ***  [, Level 0]: 'jcanela2022' has left the game
