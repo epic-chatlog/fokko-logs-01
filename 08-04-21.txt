@@ -527,3 +527,7 @@
 [2021-04-08 01:06:55]: ERROR [404, Level 74]: SNACK
 [2021-04-08 01:06:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-08 01:07:10]: falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: YelloWorlD:
+[2021-04-08 01:07:16]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 0]: Meetiteusz: war4life
+[2021-04-08 01:07:18]: Meetiteusz [TrRShClNrRs, Level 0]: falkenauge: u killed me lmao
+[2021-04-08 01:07:24]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 0]: Meetiteusz: i did not idiot
+[2021-04-08 01:07:27]: Meetiteusz [TrRShClNrRs, Level 0]: falkenauge: U did
