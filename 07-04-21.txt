@@ -11389,3 +11389,4 @@
 [2021-04-07 22:38:44]: ***  [, Level 0]: 'gian x' has left the game (Timeout)
 [2021-04-07 22:40:39]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
 [2021-04-07 22:40:49]: ***  [, Level 0]: 'HardreenClutch' entered and joined the game
+[2021-04-07 22:41:33]: x7|zemer [xSD7, Level 37]: HardreenClutch: Why?
