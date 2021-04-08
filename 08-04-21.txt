@@ -1548,3 +1548,6 @@
 [2021-04-08 02:27:47]: ***  [, Level 0]: 'el champeon' has left the game
 [2021-04-08 02:27:57]: ChillerDragon.* [|*KoG*|, Level 41]: ERROR: der macht niemandem was
 [2021-04-08 02:28:10]: YelloWorlD [DogParty, Level 37]: ChillerDragon: stop
+[2021-04-08 02:28:16]: (1)УБИВАТ [, Level 0]: xD
+[2021-04-08 02:28:17]: YelloWorlD [DogParty, Level 37]: ChillerDragon: stop
+[2021-04-08 02:28:22]: ChillerDragon [|*KoG*|, Level 44]: lass ihn oben farmen ERROR
