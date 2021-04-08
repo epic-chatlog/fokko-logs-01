@@ -12846,3 +12846,5 @@
 [2021-04-08 16:21:07]: s6_sven [, Level 21]: ?
 [2021-04-08 16:21:10]: Fearless [DogParty, Level 15]: S Y T H N:  Hey shawty
 [2021-04-08 16:21:11]: Hunter.exe [DogParty, Level 36]: S Y T H N: weißt du wer sven ist?
+[2021-04-08 16:21:23]: S Y T H N [DogParty, Level 37]: Hunter.exe: jaa bin mit den in talk
+[2021-04-08 16:21:26]: Fearless [DogParty, Level 15]: Hunter.exe:  men
