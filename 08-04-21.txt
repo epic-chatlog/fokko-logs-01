@@ -5712,3 +5712,7 @@
 [2021-04-08 08:12:41]: ᅟ [DogParty, Level 36]: ez
 [2021-04-08 08:12:41]: ***  [, Level 0]: 'Asta' has left the game
 [2021-04-08 08:12:46]: Kong [[_Any %_], Level 0]: sorry
+[2021-04-08 08:12:54]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 08:12:55]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 08:13:03]: ***  [, Level 0]: KS| Ty4ka finished in: 2 minute(s) 20.80 second(s)
+[2021-04-08 08:13:03]: ***  [, Level 0]: New record: 4 minute(s) 46.52 second(s) better.
