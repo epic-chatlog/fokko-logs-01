@@ -3885,3 +3885,8 @@
 [2021-04-08 05:54:23]: ***  [, Level 0]: '(1)SAUD' entered and joined the game
 [2021-04-08 05:54:24]: VeemID [DogParty, Level 0]: Supers: help
 [2021-04-08 05:54:26]: Jerry [, Level 29]: SURE?
+[2021-04-08 05:54:28]: Soros [, Level 0]: Jerry: I just want jetpack
+[2021-04-08 05:54:31]: bob [Legacy™, Level 36]: [D] \\Syth: war
+[2021-04-08 05:54:34]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-08 05:54:35]: bob [Legacy™, Level 36]: (1)OP|Supers: war
+[2021-04-08 05:54:38]: WarHammer [, Level 26]: NetFlix:  BOMB
