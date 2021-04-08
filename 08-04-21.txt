@@ -307,3 +307,5 @@
 [2021-04-08 00:39:38]: ERROR. [404, Level 56]: swarfey vorhin nicht
 [2021-04-08 00:39:38]: resart [, Level 5]: EROR WHO
 [2021-04-08 00:39:39]: ERROR. [404, Level 56]: xD
+[2021-04-08 00:39:51]: resart [, Level 5]: ERROR:  WHO
+[2021-04-08 00:39:53]: (1)Friendiship  [, Level 0]: help
