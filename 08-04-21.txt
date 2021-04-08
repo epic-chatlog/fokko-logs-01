@@ -5898,3 +5898,8 @@
 [2021-04-08 08:24:36]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-08 08:24:37]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 08:24:41]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-08 08:24:48]: Hunter.exe [DogParty, Level 36]: Shiro.:
+[2021-04-08 08:24:49]: MieSlime [FookinLads, Level 43]: Shiro.:  oeeeee
+[2021-04-08 08:24:52]: ***  [, Level 0]: 'P4Pyr0s' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 08:24:52]: ***  [, Level 0]: 'x7|sven' has left the game (Timeout)
+[2021-04-08 08:24:52]: ***  [, Level 0]: '(1)P4Pyr0s' would have timed out, but can use timeout protection now
