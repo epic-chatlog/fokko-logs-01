@@ -3527,3 +3527,5 @@
 [2021-04-08 05:22:51]: (1)OP|Supers [DogParty, Level 39]: hugo <<<<
 [2021-04-08 05:22:54]: Boti. [.bad, Level 33]: azaz
 [2021-04-08 05:22:57]: HardreenClutch [, Level 57]: I COME
+[2021-04-08 05:23:10]: ***  [, Level 0]: 'el champeon' entered and joined the game
+[2021-04-08 05:23:20]: Kiøn1029 [.bad, Level 31]: XD
