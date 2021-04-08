@@ -191,3 +191,6 @@
 [2021-04-08 00:15:23]: ERROR [404, Level 74]: Chillingo:  kann man
 [2021-04-08 00:15:25]: kais [, Level 65]: RQ
 [2021-04-08 00:15:26]: GODLIKe. [u, Level 39]: rq
+[2021-04-08 00:15:31]: ERROR [404, Level 74]: kannst ihn pingen ChillerDragon.*
+[2021-04-08 00:15:35]: ChillerDragon [|*KoG*|, Level 44]: ja aber ugly ERROR
+[2021-04-08 00:15:39]: ERROR [404, Level 74]: aber geht
