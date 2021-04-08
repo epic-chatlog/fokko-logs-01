@@ -10781,3 +10781,6 @@
 [2021-04-08 12:33:35]: Hunter.exe [DogParty, Level 36]: Zephir™: and idc
 [2021-04-08 12:33:39]: ***  [, Level 0]: 'XeL1an' entered and joined the game
 [2021-04-08 12:33:44]: Zephir™ [, Level 39]: Hunter.exe: annoying
+[2021-04-08 12:33:55]: ***  [, Level 0]: 'XeL1an' has left the game
+[2021-04-08 12:33:57]: Nonoh [citrom, Level 40]: MUTE: who  are u
+[2021-04-08 12:33:58]: ***  [, Level 0]: Lucas finished in: 2 minute(s) 43.10 second(s)
