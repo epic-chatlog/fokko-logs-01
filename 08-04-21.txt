@@ -5813,3 +5813,9 @@
 [2021-04-08 08:19:12]: Котяра [, Level 20]: KS| Ty4ka: спасай
 [2021-04-08 08:19:37]:   [, Level 0]: ビール|Zero: KS| Ty4ka: stop
 [2021-04-08 08:19:38]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 08:19:40]:   [, Level 0]: ビール|Zero: KS| Ty4ka: СТОЙ
+[2021-04-08 08:19:40]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 08:19:41]:   [, Level 0]: ビール|Zero: СТОЙ
+[2021-04-08 08:19:42]: ***  [, Level 0]: 'BOZ KURT' entered and joined the game
+[2021-04-08 08:19:43]:   [, Level 0]: ビール|Zero: НЕ ИДИ
+[2021-04-08 08:19:49]:   [, Level 0]: ビール|Zero: зажми за мура в право до конца
