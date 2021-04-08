@@ -9360,3 +9360,7 @@
 [2021-04-08 11:23:47]: GODLIKe [u, Level 44]: sun.slow(y): a
 [2021-04-08 11:23:47]:   [, Level 0]: Maatiteusz: \\Syth: mialem juz takie mysli samobojcze
 [2021-04-08 11:23:50]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
+[2021-04-08 11:23:53]: ***  [, Level 0]: '[D] Leblebi' entered and joined the game
+[2021-04-08 11:23:57]: ***  [, Level 0]: 'ŞØŇƗΔŇ' entered and joined the game
+[2021-04-08 11:23:57]: \\Syth [, Level 30]: jesteś pierdolnięty
+[2021-04-08 11:24:04]:   [, Level 0]: Maatiteusz: \\Syth: prawdomowny ty jestes za to
