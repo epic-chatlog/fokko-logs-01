@@ -1482,3 +1482,4 @@
 [2021-04-08 02:21:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-08 02:22:00]: x7|zemer [xSD7, Level 37]: Vodo4ka: I am
 [2021-04-08 02:22:03]: Vodo4ka [JB.st, Level 41]: x7|zemer: em not
+[2021-04-08 02:22:19]: ERROR [404, Level 74]: YelloWorlD:
