@@ -8332,3 +8332,5 @@
 [2021-04-08 10:29:37]: ***  [, Level 0]: '(2)Trololo' changed name to 'Trololo'
 [2021-04-08 10:29:38]: ***  [, Level 0]: '(1)NetFlix' entered and joined the game
 [2021-04-08 10:29:38]: ***  [, Level 0]: 'woona' entered and joined the game
+[2021-04-08 10:29:41]: ***  [, Level 0]: '(1)Kezo' changed name to 'Kezo'
+[2021-04-08 10:29:42]: MieSlime [FookinLads, Level 0]: (1)ChillerDrago:  i don't like zoom xD
