@@ -5057,3 +5057,5 @@
 [2021-04-08 07:25:02]: ***  [, Level 0]: '[D] Hunter.exe' entered and joined the game
 [2021-04-08 07:25:02]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-08 07:25:05]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 07:25:11]: (1)Kirito♥ [♥, Level 25]: Jerry:  war
+[2021-04-08 07:25:13]: ChillerDragon.* [|*KoG*|, Level 41]: omg NidardoHD afk kill
