@@ -285,3 +285,5 @@
 [2021-04-08 00:29:06]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-08 00:29:41]: ***  [, Level 0]: restart finished in: 1 minute(s) 10.72 second(s)
 [2021-04-08 00:29:48]: ***  [, Level 0]: resart finished in: 5 minute(s) 59.64 second(s)
+[2021-04-08 00:29:50]: ***  [, Level 0]: '(1)Warrior' has left the game
+[2021-04-08 00:29:50]: ***  [, Level 0]: 'Warrior' has left the game
