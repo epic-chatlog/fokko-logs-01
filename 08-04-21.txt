@@ -10778,3 +10778,6 @@
 [2021-04-08 12:33:25]: (2)cookie [, Level 1]: Mieslime help
 [2021-04-08 12:33:30]: Axel [TrRShClNrRs, Level 30]: pog
 [2021-04-08 12:33:31]: Hunter.exe [DogParty, Level 36]: Zephir™: ok
+[2021-04-08 12:33:35]: Hunter.exe [DogParty, Level 36]: Zephir™: and idc
+[2021-04-08 12:33:39]: ***  [, Level 0]: 'XeL1an' entered and joined the game
+[2021-04-08 12:33:44]: Zephir™ [, Level 39]: Hunter.exe: annoying
