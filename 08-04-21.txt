@@ -10735,3 +10735,9 @@
 [2021-04-08 12:30:41]: Lucas [THECEPS, Level 34]: __init__(self):: i was coming back
 [2021-04-08 12:30:41]:   [, Level 0]: GOLD: Fearless: ur ?
 [2021-04-08 12:30:44]: Fearless [DogParty, Level 40]: GOLD:  ye
+[2021-04-08 12:30:48]: __init__(self): [, Level 0]: Lucas: its ok :D
+[2021-04-08 12:30:56]:   [, Level 0]: Kezo: LAG
+[2021-04-08 12:30:58]:   [, Level 0]: HardreenClutch: O M G
+[2021-04-08 12:30:58]:   [, Level 0]: Kezo: xDDDDDD
+[2021-04-08 12:31:00]:   [, Level 0]: Kezo: OMG
+[2021-04-08 12:31:01]:   [, Level 0]: Kezo: FAİL
