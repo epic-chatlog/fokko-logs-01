@@ -10329,3 +10329,10 @@
 [2021-04-08 12:07:12]: ***  [, Level 0]: Falco642 is on a killing spree with 5 blocks
 [2021-04-08 12:07:16]: mamikral011 [DogParty, Level 26]: şfgkg
 [2021-04-08 12:07:17]:   [, Level 0]: f"{self.name}": lets race
+[2021-04-08 12:07:18]: any² [404, Level 42]: Zephir™: >>
+[2021-04-08 12:07:18]: Falco642 [, Level 0]: f"{self.name}": fun war?
+[2021-04-08 12:07:19]: any² [404, Level 42]: Zephir™: >>
+[2021-04-08 12:07:21]: Flipper [, Level 15]: lucas
+[2021-04-08 12:07:22]: Kirito♥ [♥, Level 40]: Nonoh: >>>
+[2021-04-08 12:07:23]: any² [404, Level 42]: Zephir™: >>
+[2021-04-08 12:07:27]: ***  [, Level 0]: 'BabaS4lenom' entered and joined the game
