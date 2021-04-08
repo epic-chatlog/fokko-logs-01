@@ -8597,3 +8597,12 @@
 [2021-04-08 10:43:01]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-08 10:43:08]:   [, Level 0]: bob: nein
 [2021-04-08 10:43:10]:   [, Level 0]: bob: wir machen beides
+[2021-04-08 10:43:11]: iMxtteo [, Level 26]: any: idk
+[2021-04-08 10:43:11]: ChillerDragon [Chilli.*, Level 44]: s
+[2021-04-08 10:43:12]: any [404, Level 37]: JxK|JoK'Air: t'est pas francais twa ?!
+[2021-04-08 10:43:12]: Tziys* [DogParty, Level 39]: GReeeN: war
+[2021-04-08 10:43:12]: (3)ChillerDrago [Chilli.*, Level 33]: a
+[2021-04-08 10:43:15]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-08 10:43:18]: Zephir™ [, Level 39]: bob: ?
+[2021-04-08 10:43:19]:   [, Level 0]: Hunter.exe: bob: ? help
+[2021-04-08 10:43:20]: JxK|JoK'Air [, Level 60]: any: c'est pas vrai
