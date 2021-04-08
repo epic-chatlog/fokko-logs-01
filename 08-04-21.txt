@@ -12893,3 +12893,6 @@
 [2021-04-08 16:27:42]: ***  [, Level 0]: 'Meow' has left the game
 [2021-04-08 16:27:46]: ***  [, Level 0]: 'Meow' entered and joined the game
 [2021-04-08 16:27:50]: Hunter.exe [DogParty, Level 36]: https://discord.gg/DcfTn6Js
+[2021-04-08 16:27:53]: Hunter.exe [DogParty, Level 36]: komm
+[2021-04-08 16:27:56]: ***  [, Level 0]: 'Meow' has left the game
+[2021-04-08 16:28:03]: нυƨнıκε [zε†α, Level 37]: P4Pyr0s:
