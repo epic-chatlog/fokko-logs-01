@@ -12309,3 +12309,6 @@
 [2021-04-08 15:05:51]: ***  [, Level 0]: BULLETBOT's killing spree was ended by fomin (9 blocks)
 [2021-04-08 15:05:52]: fomin [RUA, Level 0]: xddd
 [2021-04-08 15:05:53]: fomin [RUA, Level 0]: baddd
+[2021-04-08 15:05:59]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-08 15:05:59]: ***  [, Level 0]: 'brainless tee' has left the game
+[2021-04-08 15:06:11]: fomin [RUA, Level 0]: soo bad
