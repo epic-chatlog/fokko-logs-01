@@ -3926,3 +3926,5 @@
 [2021-04-08 05:57:37]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 05:57:53]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-08 05:57:55]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 05:58:07]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-08 05:58:14]: ***  [, Level 0]: 'nameless tee' has left the game
