@@ -10536,3 +10536,5 @@
 [2021-04-08 12:17:25]: ***  [, Level 0]: 'BedPool' entered and joined the game
 [2021-04-08 12:17:27]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-08 12:17:29]: mamikral011 [DogParty, Level 26]: Hunter.exe: ?
+[2021-04-08 12:17:37]: Noémi[Đ] [citrom, Level 32]: [D] BC|Tixnix: wtf
+[2021-04-08 12:17:41]:   [, Level 0]: Fearless: Hunter.exe:  men
