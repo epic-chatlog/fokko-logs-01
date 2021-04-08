@@ -3988,3 +3988,7 @@
 [2021-04-08 06:01:47]: Kiøn1029 [.bad, Level 31]: f"{self.name}": where are you
 [2021-04-08 06:01:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-08 06:02:06]: f"{self.name}" [, Level 18]: why do you care ?? :D
+[2021-04-08 06:02:14]: beb weqe fan [Ape, Level 0]: HELP
+[2021-04-08 06:02:19]: ***  [, Level 0]: 'moonman' has left the game
+[2021-04-08 06:02:21]:   [, Level 0]: Kiøn1029: I GET 20 MIN TO AFK IN THE JAIL
+[2021-04-08 06:02:26]: GODLIKe [u, Level 44]: beb weqe fan:
