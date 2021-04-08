@@ -9812,3 +9812,6 @@
 [2021-04-08 11:41:58]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
 [2021-04-08 11:41:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-08 11:42:10]:   [, Level 0]: Meetiteusz: Syth: no i teraz
+[2021-04-08 11:42:12]:   [, Level 0]: Meetiteusz: Syth: to kurwa
+[2021-04-08 11:42:14]:   [, Level 0]: Meetiteusz: Syth: dzialac bedzie
+[2021-04-08 11:42:18]:   [, Level 0]: Meetiteusz: Syth: tylko sie zamknij
