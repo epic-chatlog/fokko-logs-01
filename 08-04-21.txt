@@ -12511,3 +12511,4 @@
 [2021-04-08 15:41:38]: Kirito♥ [♥, Level 40]: xd
 [2021-04-08 15:41:42]: Kirito♥ [♥, Level 40]: Flipper: ok
 [2021-04-08 15:41:46]: Flipper [, Level 15]: im with sythn
+[2021-04-08 15:41:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
