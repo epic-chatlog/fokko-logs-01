@@ -12921,3 +12921,4 @@
 [2021-04-08 16:31:33]: Fearless [DogParty, Level 15]: S Y T H N:  no pls my hero
 [2021-04-08 16:31:40]: Hunter.exe [DogParty, Level 36]: https://discord.gg/DcfTn6Js
 [2021-04-08 16:31:46]: Fearless [DogParty, Level 15]: Flipper:  thanks
+[2021-04-08 16:31:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
