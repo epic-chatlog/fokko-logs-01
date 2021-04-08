@@ -10313,3 +10313,5 @@
 [2021-04-08 12:06:00]: ***  [, Level 0]: '♥TAKO♥' entered and joined the game
 [2021-04-08 12:06:00]: Flipper [, Level 15]: <23
 [2021-04-08 12:06:04]: ***  [, Level 0]: '(1)Axel' entered and joined the game
+[2021-04-08 12:06:10]: ***  [, Level 0]: '(1)Axel' has left the game
+[2021-04-08 12:06:16]: mamikral011 [DogParty, Level 26]: tako kralll
