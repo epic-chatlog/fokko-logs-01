@@ -5903,3 +5903,4 @@
 [2021-04-08 08:24:52]: ***  [, Level 0]: 'P4Pyr0s' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-08 08:24:52]: ***  [, Level 0]: 'x7|sven' has left the game (Timeout)
 [2021-04-08 08:24:52]: ***  [, Level 0]: '(1)P4Pyr0s' would have timed out, but can use timeout protection now
+[2021-04-08 08:25:08]:   [, Level 0]: ビール|Zero: KS| Ty4ka: так чё? идёшь?
