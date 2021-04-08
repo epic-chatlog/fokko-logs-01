@@ -4952,3 +4952,6 @@
 [2021-04-08 07:17:11]: ***  [, Level 0]: 'Fighter' changed name to '(2)'
 [2021-04-08 07:17:11]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-08 07:17:13]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 07:17:24]: YelloWorlD [DogParty, Level 37]: ChillerDragon: i want to be admin
+[2021-04-08 07:17:25]: ***  [, Level 0]: '♥JustRace♥' entered and joined the game
+[2021-04-08 07:17:25]:   [, Level 0]: Sad Guy: tttttttttttttttttttttttttttttt
