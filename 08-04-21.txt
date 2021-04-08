@@ -1641,3 +1641,5 @@
 [2021-04-08 02:36:25]: (1)ChillerDrago [Chilli.*, Level 32]: chillig ok gehe afk
 [2021-04-08 02:36:49]: ***  [, Level 0]: 'NinjaGouwe' entered and joined the game
 [2021-04-08 02:36:52]: ***  [, Level 0]: 'Getpon' entered and joined the game
+[2021-04-08 02:36:58]: ***  [, Level 0]: ERROR. is on a killing spree with 5 blocks
+[2021-04-08 02:36:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
