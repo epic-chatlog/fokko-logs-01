@@ -11277,3 +11277,4 @@
 [2021-04-07 21:45:46]: Boti. [.bad, Level 0]: never gonna give you up. never gonna let you down **https://youtu.be/dQw4w9WgXcQ**
 [2021-04-07 21:45:51]: [D] Boti. [.bad, Level 0]: never gonna give you up. never gonna let you down **https://youtu.be/dQw4w9WgXcQ**
 [2021-04-07 21:45:53]: Boti. [.bad, Level 0]: never gonna give you up. never gonna let you down **https://youtu.be/dQw4w9WgXcQ**
+[2021-04-07 21:47:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
