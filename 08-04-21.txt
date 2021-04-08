@@ -2190,3 +2190,7 @@
 [2021-04-08 03:56:13]: ***  [, Level 0]: '(1)Котяра' entered and joined the game
 [2021-04-08 03:56:32]: bob [Legacy™, Level 36]: restart: we good?
 [2021-04-08 03:56:44]: ***  [, Level 0]: 'gian x' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 03:56:56]: bob [Legacy™, Level 36]: JxK|JoK'Air: u french ?
+[2021-04-08 03:56:59]: Swipez [[!FAKE!], Level 30]: bob: ok win save as
+[2021-04-08 03:56:59]: JxK|JoK'Air [, Level 0]: bob: ye
+[2021-04-08 03:56:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
