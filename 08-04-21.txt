@@ -1956,3 +1956,5 @@
 [2021-04-08 03:23:56]: ***  [, Level 0]: '[D] BC|serwan' has left the game (Timeout)
 [2021-04-08 03:23:56]: ***  [, Level 0]: 'BC|serwan' has left the game (Timeout)
 [2021-04-08 03:24:03]: ***  [, Level 0]: '(1)restart' joined the game
+[2021-04-08 03:24:13]: Friendiship ² [, Level 0]: any²: desoler, c pas toi que je voulait viser
+[2021-04-08 03:24:14]: Lucas [THECEPS, Level 34]: INFFII%100: rly
