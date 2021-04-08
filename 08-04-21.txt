@@ -2118,3 +2118,5 @@
 [2021-04-08 03:47:56]: [D] Swipez [, Level 25]: laggy
 [2021-04-08 03:48:07]: ***  [, Level 0]: 'Kong' entered and joined the game
 [2021-04-08 03:48:27]: Kong [[_Any %_], Level 0]: wtf
+[2021-04-08 03:48:29]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-08 03:48:35]: Kong [[_Any %_], Level 0]: thx
