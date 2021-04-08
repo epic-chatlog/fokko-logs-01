@@ -847,3 +847,10 @@
 [2021-04-08 01:30:14]: resart [, Level 5]: yes
 [2021-04-08 01:30:18]: ***  [, Level 0]: x7|cya finished in: 2 minute(s) 28.68 second(s)
 [2021-04-08 01:30:21]: ***  [, Level 0]: [D] x7|cya finished in: 2 minute(s) 31.26 second(s)
+[2021-04-08 01:30:28]: ***  [, Level 0]: '(3)ChillerDragon' has left the game
+[2021-04-08 01:30:28]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
+[2021-04-08 01:30:29]: x7|zemer [xSD7, Level 37]: rayen:
+[2021-04-08 01:30:29]: OP|Supers [DogParty, Level 39]: mamikral011:  xD
+[2021-04-08 01:30:30]: ***  [, Level 0]: 'ChillerDragon' has left the game
+[2021-04-08 01:30:30]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
+[2021-04-08 01:30:37]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
