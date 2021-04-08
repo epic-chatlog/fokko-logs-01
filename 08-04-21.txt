@@ -11086,3 +11086,7 @@
 [2021-04-08 12:52:28]: ***  [, Level 0]: toxicdaddy is on a killing spree with 5 blocks
 [2021-04-08 12:52:29]: ERROR [404, Level 74]: oh
 [2021-04-08 12:52:50]: ***  [, Level 0]: 'iMxtteo' left the minigame 'Survival'
+[2021-04-08 12:53:00]: ***  [, Level 0]: 'iMxtteo' has left the game
+[2021-04-08 12:53:00]: ***  [, Level 0]: 'iMxtteo D' has left the game
+[2021-04-08 12:53:03]: ***  [, Level 0]: '(1)iMxtteo' has left the game
+[2021-04-08 12:53:06]: ***  [, Level 0]: 'hunter.exe' has left the game
