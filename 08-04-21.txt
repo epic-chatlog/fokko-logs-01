@@ -8256,3 +8256,4 @@
 [2021-04-08 10:26:30]:   [, Level 0]: Lucas: weqe: don't help him he's bad
 [2021-04-08 10:26:38]: Hunter.exe [DogParty, Level 36]: any:
 [2021-04-08 10:26:39]: iMxtteo [, Level 26]: Hunter.exe:
+[2021-04-08 10:26:43]: iMxtteo [, Level 26]: Hunter.exe: links oben
