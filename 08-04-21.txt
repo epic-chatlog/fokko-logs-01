@@ -3907,3 +3907,6 @@
 [2021-04-08 05:55:31]:   [, Level 0]: kiøn1029: probaly
 [2021-04-08 05:55:38]: bob [Legacy™, Level 36]: (1)SAUD: brother
 [2021-04-08 05:55:43]: ***  [, Level 0]: '(1)' has left the game
+[2021-04-08 05:55:45]: S Y T H N [DogParty, Level 37]: bob: yo
+[2021-04-08 05:55:47]: bob [Legacy™, Level 36]: hi
+[2021-04-08 05:55:49]: ***  [, Level 0]: '(1)Warrior' entered and joined the game
