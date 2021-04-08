@@ -1840,3 +1840,4 @@
 [2021-04-08 03:07:32]: ***  [, Level 0]: Koplokon is on a killing spree with 5 blocks
 [2021-04-08 03:07:33]: ***  [, Level 0]: okwendri is on a killing spree with 5 blocks
 [2021-04-08 03:07:40]: ***  [, Level 0]: 'Mr.EastcoastMF' entered and joined the game
+[2021-04-08 03:08:02]: ***  [, Level 0]: ERROR. is on a killing spree with 10 blocks
