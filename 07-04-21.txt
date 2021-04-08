@@ -11390,3 +11390,5 @@
 [2021-04-07 22:40:39]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
 [2021-04-07 22:40:49]: ***  [, Level 0]: 'HardreenClutch' entered and joined the game
 [2021-04-07 22:41:33]: x7|zemer [xSD7, Level 37]: HardreenClutch: Why?
+[2021-04-07 22:41:38]: ***  [, Level 0]: '(1)x7|KshKsh99' has left the game
+[2021-04-07 22:41:41]: HardreenClutch [, Level 57]: x7|zemer:  because clan
