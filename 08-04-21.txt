@@ -344,3 +344,6 @@
 [2021-04-08 00:46:27]: ***  [, Level 0]: 'OP|Supers' finished the special race!
 [2021-04-08 00:46:32]: ***  [, Level 0]: 'x7|cya' entered and joined the game
 [2021-04-08 00:46:41]: ***  [, Level 0]: '[D] x7|cya' entered and joined the game
+[2021-04-08 00:46:46]: OP|Supers [DogParty, Level 39]: hey ChillerDragon
+[2021-04-08 00:46:48]: ChillerDragon.* [|*KoG*|, Level 41]: hi OP|Supers
+[2021-04-08 00:46:53]: OP|Supers [DogParty, Level 39]: ChillerDragon:  streamst du immer?
