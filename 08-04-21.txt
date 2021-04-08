@@ -1067,3 +1067,7 @@
 [2021-04-08 01:49:39]: ***  [, Level 0]: 'comic' has left the game
 [2021-04-08 01:49:43]: any [404, Level 42]: weqe: <<
 [2021-04-08 01:49:51]: MieSlime [FookinLads, Level 43]: ~DemoizL~:  il a help GOLD
+[2021-04-08 01:49:53]: ***  [, Level 0]: 'oyun krallı' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 01:49:57]: Maatiteusz [TrRShClNrRs, Level 35]: MieSlime:
+[2021-04-08 01:49:58]: ***  [, Level 0]: '[2] VeemID' entered and joined the game
+[2021-04-08 01:50:03]: zemer [xSD7, Level 37]: YelloWorlD:
