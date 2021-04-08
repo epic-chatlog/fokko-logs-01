@@ -4004,3 +4004,10 @@
 [2021-04-08 06:03:05]: bob [Legacy™, Level 36]: XDD
 [2021-04-08 06:03:25]:   [, Level 0]: Soros: Cylox: help
 [2021-04-08 06:03:30]:   [, Level 0]: Soros: Tom: help
+[2021-04-08 06:03:33]:   [, Level 0]: Soros: Jerry: help
+[2021-04-08 06:03:34]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
+[2021-04-08 06:03:38]: \\Syth [[!FAKE!], Level 30]: im going
+[2021-04-08 06:03:38]: (1)TeigHuhn [, Level 0]: train
+[2021-04-08 06:03:40]: \\Syth [[!FAKE!], Level 30]: bbbbbbb
+[2021-04-08 06:03:42]: ***  [, Level 0]: '[D] \\Syth' has left the game
+[2021-04-08 06:03:42]: ***  [, Level 0]: '\\Syth' has left the game
