@@ -97,3 +97,7 @@
 [2021-04-08 00:08:00]: Nudelsaft c: [FookinLads, Level 37]: xD
 [2021-04-08 00:08:01]: (1)Foxie♥ [♥, Level 0]: kais: nope
 [2021-04-08 00:08:03]: (1)kais [, Level 58]: (1)Foxie♥: yes
+[2021-04-08 00:08:13]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-08 00:08:16]: ***  [, Level 0]: '(1)ChillerDragon' changed name to '(3)ChillerDragon'
+[2021-04-08 00:08:21]: ChillerDragon.* [Chilli.*, Level 41]: abuse ez
+[2021-04-08 00:08:22]: ChillerDragon.* [Chilli.*, Level 41]: xd
