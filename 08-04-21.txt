@@ -11703,3 +11703,6 @@
 [2021-04-08 13:42:50]: Cassie [, Level 0]: meee
 [2021-04-08 13:42:52]: ***  [, Level 0]: 'Marcisten' entered and joined the game
 [2021-04-08 13:42:57]: Marcisten [Helper, Level 0]: server bridge test
+[2021-04-08 13:43:05]: Marcisten [Helper, Level 0]: OOOOOOOOO it works wow
+[2021-04-08 13:43:08]: Cassie [, Level 0]: cuz im nice
+[2021-04-08 13:43:10]: Cassie [, Level 0]: and friendly
