@@ -797,3 +797,5 @@
 [2021-04-08 01:26:56]: Cylox [♥, Level 30]: ow no
 [2021-04-08 01:26:59]: [D] mamikral011 [DogParty, Level 0]: GOLD: fuck you baby
 [2021-04-08 01:26:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-08 01:27:05]: ***  [, Level 0]: '(1)VeemID' entered and joined the game
+[2021-04-08 01:27:07]: ***  [, Level 0]: '(1)VeemID' has left the game (Timeout Protection used)
