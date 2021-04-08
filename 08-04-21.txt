@@ -1155,3 +1155,6 @@
 [2021-04-08 01:55:55]: ***  [, Level 0]: 'Anatomy' entered and joined the game
 [2021-04-08 01:56:00]: MieSlime [FookinLads, Level 43]: Anatomy:  je sais que tu va help GOLD
 [2021-04-08 01:56:01]: any [404, Level 42]: MieSlime: bah bonne chance pour rester dans fookin
+[2021-04-08 01:56:05]: Anatomy [MaL4iki kz, Level 0]: MieSlime: ?
+[2021-04-08 01:56:10]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
+[2021-04-08 01:56:11]: MieSlime [FookinLads, Level 43]: Anatomy:  tu help GOLD
