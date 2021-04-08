@@ -11666,3 +11666,7 @@
 [2021-04-07 23:52:03]: power [TrRShClNrRs, Level 14]: still like to live tho ERROR c:
 [2021-04-07 23:52:12]: WarHammer [, Level 0]: Cylox:  bende 1 saate okula gitce
 [2021-04-07 23:52:14]: WarHammer [, Level 0]: ö
+[2021-04-07 23:52:15]: WarHammer [, Level 0]: öm
+[2021-04-07 23:52:16]: WarHammer [, Level 0]: m
+[2021-04-07 23:52:20]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
+[2021-04-07 23:52:24]: ***  [, Level 0]: 'Robinson' entered and joined the game
