@@ -166,3 +166,4 @@
 [2021-04-08 00:13:01]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-08 00:13:01]: ***  [, Level 0]: '[D] Cylox' has left the game
 [2021-04-08 00:13:05]: Nudelsaft c: [FookinLads, Level 37]: hax
+[2021-04-08 00:13:16]: ***  [, Level 0]: 'nameless tee' has left the game
