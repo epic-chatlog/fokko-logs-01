@@ -11685,3 +11685,6 @@
 [2021-04-08 13:41:44]: ERROR. [404, Level 56]: xD
 [2021-04-08 13:41:49]: Cassie [, Level 0]: why not
 [2021-04-08 13:41:53]: ERROR. [404, Level 56]: why we should?
+[2021-04-08 13:41:58]: Cassie [, Level 0]: cuz im nice
+[2021-04-08 13:41:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-08 13:42:04]: Cassie [, Level 0]: and friendly
