@@ -2153,3 +2153,5 @@
 [2021-04-08 03:51:57]: ***  [hýÿÿ, Level 0]: 'Hikari' joined the game
 [2021-04-08 03:51:59]: ***  [hýÿÿ, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-08 03:52:01]: CKA3A4NIK[NR] [Night Raid, Level 35]: Im fun war
+[2021-04-08 03:52:02]: ***  [hýÿÿ, Level 0]: 'bob weqe fan' entered and joined the game
+[2021-04-08 03:52:13]: ***  [hýÿÿ, Level 0]: 'Hikari' has left the game
