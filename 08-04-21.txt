@@ -116,3 +116,6 @@
 [2021-04-08 00:09:47]: ERROR. [404, Level 56]: Nudelsaft c::  neuen pc gekauft xD
 [2021-04-08 00:09:54]: ***  [, Level 0]: '[D] Cylox' entered and joined the game
 [2021-04-08 00:09:56]: power [TrRShClNrRs, Level 0]: ur so cool ChillerDragon
+[2021-04-08 00:10:06]: Nudelsaft c: [FookinLads, Level 37]: ERROR: was wieso xd
+[2021-04-08 00:10:06]: ERROR. [404, Level 56]: ChillerDragon:  dein live läuft immernoch
+[2021-04-08 00:10:17]: (1)ChillerDrago [|*KoG*|, Level 32]: ye soweit so gut ERROR war übnerrascht
