@@ -799,3 +799,5 @@
 [2021-04-08 01:26:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-08 01:27:05]: ***  [, Level 0]: '(1)VeemID' entered and joined the game
 [2021-04-08 01:27:07]: ***  [, Level 0]: '(1)VeemID' has left the game (Timeout Protection used)
+[2021-04-08 01:27:14]: [D] mamikral011 [DogParty, Level 0]: Cylox: kimseyi alma
+[2021-04-08 01:27:22]: OP|Supers [DogParty, Level 39]: ERROR:  ??? Xd
