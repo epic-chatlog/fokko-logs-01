@@ -12573,3 +12573,6 @@
 [2021-04-08 15:46:45]: ***  [, Level 0]: 'Kubson' has left the game
 [2021-04-08 15:46:46]: ***  [, Level 0]: 'Kubson' entered and joined the game
 [2021-04-08 15:46:49]: Fearless [DogParty, Level 40]: Flipper:  want moni?
+[2021-04-08 15:46:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-08 15:47:02]: Flipper [, Level 15]: ya
+[2021-04-08 15:47:05]: ***  [, Level 0]: 'Kubson' has left the game
