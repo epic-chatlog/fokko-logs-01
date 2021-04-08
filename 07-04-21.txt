@@ -11605,3 +11605,7 @@
 [2021-04-07 23:43:57]: Cylox [♥, Level 30]: ERROR: hi
 [2021-04-07 23:44:04]: Friendiship ;-) [, Level 0]: Cylox: why can you change your eyes ?
 [2021-04-07 23:44:49]: ***  [, Level 0]: 'Foxie♥' entered and joined the game
+[2021-04-07 23:45:16]: Cylox [♥, Level 30]: ERROR: dont spike
+[2021-04-07 23:45:19]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-07 23:45:22]: Cylox [♥, Level 30]: ERROR: spiek
+[2021-04-07 23:45:27]: Cylox [♥, Level 30]: spike
