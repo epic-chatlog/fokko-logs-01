@@ -4334,3 +4334,6 @@
 [2021-04-08 06:32:47]: ***  [, Level 0]: 'Supers' has left the game
 [2021-04-08 06:32:47]: ***  [, Level 0]: 'OP|Supers' has left the game
 [2021-04-08 06:32:48]: ***  [, Level 0]: '(2)NetFlix' entered and joined the game
+[2021-04-08 06:32:53]: ***  [, Level 0]: 'power' has left the game
+[2021-04-08 06:32:53]: ***  [, Level 0]: 'power2' has left the game
+[2021-04-08 06:32:54]: ***  [, Level 0]: GODLIKe is on a killing spree with 5 blocks
