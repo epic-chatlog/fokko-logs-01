@@ -3763,3 +3763,4 @@
 [2021-04-08 05:42:03]: ***  [, Level 0]: oyun krallı finished in: 1 minute(s) 56.46 second(s)
 [2021-04-08 05:42:17]: (1) [Ape, Level 0]: dude
 [2021-04-08 05:42:22]: (1) [Ape, Level 0]: nooo
+[2021-04-08 05:42:30]: (1) [Ape, Level 0]: 5 k
