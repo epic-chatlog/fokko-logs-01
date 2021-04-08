@@ -6870,3 +6870,4 @@
 [2021-04-08 09:18:38]:   [, Level 0]: CKA3A4NIK[NR]: Nonoh:  hi
 [2021-04-08 09:18:47]:   [, Level 0]: Nonoh: CKA3A4NIK[NR]: helo brother
 [2021-04-08 09:18:56]: ***  [, Level 0]: 'Noémi[Đ]' entered and joined the game
+[2021-04-08 09:19:03]: cookie [, Level 17]: gg
