@@ -287,3 +287,6 @@
 [2021-04-08 00:29:48]: ***  [, Level 0]: resart finished in: 5 minute(s) 59.64 second(s)
 [2021-04-08 00:29:50]: ***  [, Level 0]: '(1)Warrior' has left the game
 [2021-04-08 00:29:50]: ***  [, Level 0]: 'Warrior' has left the game
+[2021-04-08 00:30:29]: GODLIKe [u, Level 44]: boring game
+[2021-04-08 00:30:31]: ***  [, Level 0]: 'GODLIKe.' has left the game
+[2021-04-08 00:30:31]: ***  [, Level 0]: 'GODLIKe' has left the game
