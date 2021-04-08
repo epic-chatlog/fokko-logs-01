@@ -11171,3 +11171,5 @@
 [2021-04-08 13:04:50]: (2)cookie [, Level 2]: thx
 [2021-04-08 13:05:01]: (2)cookie [, Level 2]: t
 [2021-04-08 13:05:07]: (2)cookie [, Level 2]: Bozzkurt:  wat
+[2021-04-08 13:05:22]: mamikral011 [DogParty, Level 26]: you: stop
+[2021-04-08 13:05:24]: power [TrRShClNrRs, Level 14]: use gun (2)cookie
