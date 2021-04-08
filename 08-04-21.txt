@@ -7655,3 +7655,7 @@
 [2021-04-08 10:06:07]: ***  [, Level 0]: 'Marcisten Dummy' has left the game
 [2021-04-08 10:06:09]: Nudelsaft c: [FookinLads, Level 37]: Foxie♥: 2 million?
 [2021-04-08 10:06:12]:   [, Level 0]: Fearless: sun.slow(y):  men
+[2021-04-08 10:06:14]: Hunter.exe [DogParty, Level 36]: Lucas: next time help or war
+[2021-04-08 10:06:15]: Foxie♥ [♥, Level 36]: Nudelsaft c:: yeah
+[2021-04-08 10:06:16]: (2)Trololo [, Level 0]: lag
+[2021-04-08 10:06:19]: Lucas [THECEPS, Level 34]: Hunter.exe: say sorry first
