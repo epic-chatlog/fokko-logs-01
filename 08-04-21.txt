@@ -10084,3 +10084,12 @@
 [2021-04-08 11:53:37]: ***  [, Level 0]: 'Dan' entered and joined the game
 [2021-04-08 11:53:37]: MNKY | Arin [MNKY, Level 0]: Spikey? ;/
 [2021-04-08 11:53:41]:   [, Level 0]: (1)cookie: I like turtles.
+[2021-04-08 11:53:45]: ***  [, Level 0]: [D] tschu finished in: 1 minute(s) 33.58 second(s)
+[2021-04-08 11:53:45]: ***  [, Level 0]: New record: 15.30 second(s) better.
+[2021-04-08 11:53:45]: ***  [, Level 0]: tschu finished in: 2 minute(s) 24.24 second(s)
+[2021-04-08 11:53:45]: ***  [, Level 0]: New record: 3 minute(s) 41.48 second(s) better.
+[2021-04-08 11:53:45]: MNKY | Arin [MNKY, Level 0]: iMxtteo:  ehrenlos :/
+[2021-04-08 11:53:48]: S Y T H N [DogParty, Level 37]: wtf
+[2021-04-08 11:53:50]: [D] mamikral011 [DogParty, Level 21]: :D
+[2021-04-08 11:53:54]: Nonoh [citrom, Level 40]: S Y T H N: SRYYYY
+[2021-04-08 11:53:54]: ***  [, Level 0]: 'prankstar' has left the game
