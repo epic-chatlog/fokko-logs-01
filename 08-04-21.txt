@@ -11764,3 +11764,5 @@
 [2021-04-08 13:51:57]: Kirito♥ [♥, Level 40]: ERROR: toxic macht mich wahnsinnig der spricht deinen namen "Arrow" aus
 [2021-04-08 13:51:57]: Zephir™ [, Level 39]: Kaptar: tu peut être meilleur ailleur comme je le suis aussi, mais c'est ici que tu me combattra, donc habitue toi a cette map
 [2021-04-08 13:51:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-08 13:52:24]: Kaptar [, Level 0]: Zephir™: nah, ici je me bat pas, je me bat en police ou ailleur, c'est pas une map sa
+[2021-04-08 13:52:26]: ERROR. [404, Level 56]: toxicdaddy:  wenn du ihn killst ja
