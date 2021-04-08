@@ -5012,3 +5012,5 @@
 [2021-04-08 07:21:34]:   [, Level 0]: Sad Guy: ChillerDragon.*: dont move
 [2021-04-08 07:21:39]: YelloWorlD [DogParty, Level 37]: ♥JustRace♥: ur anser ?
 [2021-04-08 07:21:53]: ***  [, Level 0]: 'partee' has left the game
+[2021-04-08 07:21:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-08 07:22:01]: Falco642 [, Level 0]: wait
