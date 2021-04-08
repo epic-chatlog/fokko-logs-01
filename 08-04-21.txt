@@ -11167,3 +11167,5 @@
 [2021-04-08 13:04:26]: (1)any [404, Level 0]: Kenshi™:
 [2021-04-08 13:04:36]: ***  [, Level 0]: 'y2x' entered and joined the game
 [2021-04-08 13:04:41]: (1)any [404, Level 0]: Kenshi™: 1v1 ? x)
+[2021-04-08 13:04:46]: ***  [, Level 0]: 'y2x' has left the game
+[2021-04-08 13:04:50]: (2)cookie [, Level 2]: thx
