@@ -5342,3 +5342,5 @@
 [2021-04-08 07:41:32]: ***  [, Level 0]: 'Pastel' entered and joined the game
 [2021-04-08 07:41:33]: Falco642 [, Level 0]: Kaptar: wtf
 [2021-04-08 07:41:35]: (1)P4Pyr0s [, Level 3]: xD
+[2021-04-08 07:41:59]: Falco642 [, Level 0]: Kaptar: dont
+[2021-04-08 07:41:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
