@@ -4567,3 +4567,9 @@
 [2021-04-08 06:53:33]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-08 06:53:34]: WarHammer [, Level 0]: bob:  oğlum bob, oruspunun çocuğu
 [2021-04-08 06:53:35]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 06:53:39]: YelloWorlD [DogParty, Level 37]: write clan tag
+[2021-04-08 06:53:39]:   [, Level 0]: toxicdadd: WarHammer: help me
+[2021-04-08 06:53:40]: ***  [, Level 0]: 'NetFlix' has left the game
+[2021-04-08 06:53:41]:   [, Level 0]: bob: WarHammer: gotveren
+[2021-04-08 06:53:41]: ***  [, Level 0]: '(1)NetFlix' has left the game
+[2021-04-08 06:53:42]:   [, Level 0]: toxicdadd: power: help me
