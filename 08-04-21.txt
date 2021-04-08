@@ -12662,3 +12662,6 @@
 [2021-04-08 15:56:39]: Fearless [DogParty, Level 15]: i can use xd
 [2021-04-08 15:56:41]: Flipper [, Level 40]: k
 [2021-04-08 15:56:43]: Fearless [DogParty, Level 15]: im pro
+[2021-04-08 15:56:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-08 15:56:59]: Fearless [DogParty, Level 15]: xd
+[2021-04-08 15:57:01]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: omg u're boring slave Fearless
