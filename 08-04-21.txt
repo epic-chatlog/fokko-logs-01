@@ -10188,3 +10188,6 @@
 [2021-04-08 11:58:31]: ***  [, Level 0]: 'namelesstee111' has left the game
 [2021-04-08 11:58:32]: soleri1 [, Level 22]: help
 [2021-04-08 11:58:35]: egg [DogParty, Level 0]: egg
+[2021-04-08 11:58:40]:   [, Level 0]: (1)cookie: I like turtles.
+[2021-04-08 11:58:43]: ***  [, Level 0]: 'Shroom' entered and joined the game
+[2021-04-08 11:58:48]:   [, Level 0]: Falco641: iMxtteo: u still mad or what?
