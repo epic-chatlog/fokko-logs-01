@@ -10054,3 +10054,7 @@
 [2021-04-08 11:52:16]: MNKY | Arin [MNKY, Level 0]: ist sonst blse
 [2021-04-08 11:52:20]: [D] mamikral011 [DogParty, Level 21]: ahaha
 [2021-04-08 11:52:22]: Hunter.exe [DogParty, Level 36]: MNKY | Arin: hoffnung
+[2021-04-08 11:52:26]: [D] \\Syth [, Level 25]: Maatiteusz: twój stary europaleta
+[2021-04-08 11:52:32]: Meetiteusz [TrRShClNrRs, Level 25]: Syth: mozliwe
+[2021-04-08 11:52:32]: ***  [, Level 0]: 'prankstar' entered and joined the game
+[2021-04-08 11:52:33]: ***  [, Level 0]: 'KoalasSindCool' has left the game
