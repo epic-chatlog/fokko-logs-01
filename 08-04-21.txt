@@ -3932,3 +3932,5 @@
 [2021-04-08 05:58:30]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
 [2021-04-08 05:58:37]: ***  [, Level 0]: 'moonman' has left the game
 [2021-04-08 05:58:44]: ***  [, Level 0]: 'moonman' entered and joined the game
+[2021-04-08 05:58:58]: ***  [, Level 0]: Soros's killing spree was ended by (1)TeigHuhn (7 blocks)
+[2021-04-08 05:59:01]: ***  [, Level 0]: 'woona' has left the game
