@@ -4437,3 +4437,4 @@
 [2021-04-08 06:44:07]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-08 06:44:08]: ***  [, Level 0]: [2] VeemID is on a killing spree with 5 blocks
 [2021-04-08 06:44:09]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 06:44:32]: GODLIKe [u, Level 44]: Fighter: <-
