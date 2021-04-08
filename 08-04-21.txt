@@ -13019,3 +13019,5 @@
 [2021-04-08 16:47:39]: Fearless [DogParty, Level 15]: Hunter.exe:  kuraw
 [2021-04-08 16:47:52]: Hunter.exe [DogParty, Level 36]: kuvra
 [2021-04-08 16:49:00]: S Y T H N [DogParty, Level 37]: bob: was w  illste
+[2021-04-08 16:49:23]: bob [Legacy™, Level 36]: 3
+[2021-04-08 16:49:24]: bob [Legacy™, Level 36]: 2
