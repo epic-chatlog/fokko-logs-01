@@ -453,3 +453,4 @@
 [2021-04-08 00:59:29]: ***  [, Level 0]: New record: 10.52 second(s) better.
 [2021-04-08 01:00:03]: Shiro. [Whɪтє, Level 42]: how many fan i have
 [2021-04-08 01:00:03]: ***  [, Level 0]: 'x7|zemer' has left the game
+[2021-04-08 01:00:11]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
