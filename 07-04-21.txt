@@ -11259,3 +11259,4 @@
 [2021-04-07 21:30:47]: ***  [, Level 0]: '(1)SAUD' has left the game (Timeout)
 [2021-04-07 21:32:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-07 21:37:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-07 21:37:35]: ***  [, Level 0]: 'Boti.' entered and joined the game
