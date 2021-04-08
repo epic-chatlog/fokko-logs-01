@@ -4471,3 +4471,6 @@
 [2021-04-08 06:47:27]: Foxie♥ [♥, Level 0]: (1)Kirito♥: WTF
 [2021-04-08 06:47:30]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-08 06:47:31]: ***  [, Level 0]: 'soleri1' has left the game
+[2021-04-08 06:47:47]: ***  [, Level 0]: '(1)kais' has left the game (Timeout)
+[2021-04-08 06:47:47]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
+[2021-04-08 06:47:49]:   [, Level 0]: Niemand: HI
