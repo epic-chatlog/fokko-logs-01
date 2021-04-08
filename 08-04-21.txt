@@ -23,3 +23,6 @@
 [2021-04-08 00:01:25]: power2 [TrRShClNrRs, Level 0]: GODLIKe: whats ur dummys name?
 [2021-04-08 00:01:32]: GODLIKe [hax, Level 44]: [D] BC|Tixnix: he 2 min later peace u
 [2021-04-08 00:01:42]: GODLIKe [hax, Level 44]: power: GODLIKe.
+[2021-04-08 00:01:45]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
+[2021-04-08 00:01:47]: ***  [, Level 0]: 'GODLIKe.' has left the game
+[2021-04-08 00:01:47]: [D] BC|Tixnix [BC, Level 26]: GODLIKe: ok
