@@ -10077,3 +10077,10 @@
 [2021-04-08 11:53:29]: ***  [, Level 0]: '4jaja4.*' has left the game
 [2021-04-08 11:53:29]: ***  [, Level 0]: '4jaja4' has left the game
 [2021-04-08 11:53:29]: Meetiteusz [TrRShClNrRs, Level 25]: Syth: umie tak?
+[2021-04-08 11:53:30]: ***  [, Level 0]: 'KoalasSindCool' has left the game
+[2021-04-08 11:53:31]: ***  [, Level 0]: '(1)4jaja4' has left the game
+[2021-04-08 11:53:31]: Meetiteusz [TrRShClNrRs, Level 25]: Syth: no kurwa nie sadze
+[2021-04-08 11:53:32]: ***  [, Level 0]: Lucas finished in: 4 minute(s) 16.84 second(s)
+[2021-04-08 11:53:37]: ***  [, Level 0]: 'Dan' entered and joined the game
+[2021-04-08 11:53:37]: MNKY | Arin [MNKY, Level 0]: Spikey? ;/
+[2021-04-08 11:53:41]:   [, Level 0]: (1)cookie: I like turtles.
