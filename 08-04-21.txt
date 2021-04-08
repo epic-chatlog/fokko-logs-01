@@ -1619,3 +1619,8 @@
 [2021-04-08 02:34:03]: (1)ChillerDrago [Chilli.*, Level 32]: xD
 [2021-04-08 02:34:11]: (1)ChillerDrago [Chilli.*, Level 32]: ~DemoizL~: stop block ERROR ok?
 [2021-04-08 02:34:20]: ~DemoizL~ [, Level 39]: (1)ChillerDrago: ok
+[2021-04-08 02:34:25]: (1)ChillerDrago [Chilli.*, Level 32]: yay ~DemoizL~
+[2021-04-08 02:34:27]: (1)ChillerDrago [Chilli.*, Level 32]: ez solved ERROR
+[2021-04-08 02:34:27]: ***  [, Level 0]: 'Kong' has left the game
+[2021-04-08 02:34:28]: ERROR. [404, Level 56]: (1)ChillerDrago:  ist mir egal, er hats getan also bekommt er was er verdient xDDDD
+[2021-04-08 02:34:35]: (1)ChillerDrago [Chilli.*, Level 32]: ~DemoizL~: ERROR still mad :/
