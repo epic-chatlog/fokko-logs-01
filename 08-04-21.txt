@@ -2641,3 +2641,4 @@
 [2021-04-08 04:23:32]: ***  [hýÿÿ, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-08 04:23:36]: CKA3A4NIK[NR] [Night Raid, Level 35]: Thx
 [2021-04-08 04:23:38]: sun.slow(y) [FookinLads, Level 35]: bob: hab ihn jetpack, inf jump, race diese zahlen erklÃ¤rt
+[2021-04-08 04:23:51]: sun.slow(y) [FookinLads, Level 35]: bob: alles
