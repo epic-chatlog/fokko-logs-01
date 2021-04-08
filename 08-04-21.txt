@@ -880,3 +880,4 @@
 [2021-04-08 01:32:10]: ERROR. [404, Level 56]: YelloWorlD:  what ally
 [2021-04-08 01:32:12]: ***  [, Level 0]: 'zemer' has left the game
 [2021-04-08 01:32:18]: YelloWorlD [DogParty, Level 37]: ERROR: ally w/ my clan ?
+[2021-04-08 01:32:33]: x7|zemer [xSD7, Level 37]: GODLIKe: Bist du albaner?
