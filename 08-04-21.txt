@@ -290,3 +290,5 @@
 [2021-04-08 00:30:29]: GODLIKe [u, Level 44]: boring game
 [2021-04-08 00:30:31]: ***  [, Level 0]: 'GODLIKe.' has left the game
 [2021-04-08 00:30:31]: ***  [, Level 0]: 'GODLIKe' has left the game
+[2021-04-08 00:31:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-08 00:32:02]: ***  [, Level 0]: 'rayen' entered and joined the game
