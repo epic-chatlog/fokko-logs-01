@@ -938,3 +938,8 @@
 [2021-04-08 01:37:34]: OP|Supers [DogParty, Level 39]: ;O
 [2021-04-08 01:37:41]: ***  [, Level 0]: 'toxicdadd♥' changed name to 'toxicdadd'
 [2021-04-08 01:37:45]: ***  [, Level 0]: 'lol' entered and joined the game
+[2021-04-08 01:37:50]: ***  [, Level 0]: '(1)lol' entered and joined the game
+[2021-04-08 01:37:52]: [2] VeemID [DogParty, Level 0]: YelloWorlD: sinon pk?
+[2021-04-08 01:37:55]: ***  [, Level 0]: '(2)lol' entered and joined the game
+[2021-04-08 01:38:00]: zemer [xSD7, Level 37]: rayen:
+[2021-04-08 01:38:01]: YelloWorlD [DogParty, Level 37]: VeemID: t'en veux un ?
