@@ -11849,3 +11849,7 @@
 [2021-04-08 14:01:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-08 14:02:05]: Kaptar [, Level 0]: (1)Kirito♥: ehhh
 [2021-04-08 14:02:06]: Kaptar [, Level 0]: xd
+[2021-04-08 14:03:15]: lol [, Level 17]: Kirito♥:  das willst du nicht
+[2021-04-08 14:03:19]: ***  [, Level 0]: '4' entered and joined the game
+[2021-04-08 14:03:20]: Kirito♥ [♥, Level 40]: lol: wer bist du echt?
+[2021-04-08 14:03:22]: lol [, Level 17]: error#
