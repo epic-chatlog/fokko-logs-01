@@ -3045,3 +3045,9 @@
 [2021-04-08 04:46:05]: ***  [hýÿÿ, Level 0]: 'oyun krallÄ±' entered and joined the game
 [2021-04-08 04:46:07]:   [, Level 0]: [D] x7|cya: local
 [2021-04-08 04:46:09]:   [, Level 0]: [D] x7|cya: wtf
+[2021-04-08 04:46:20]:   [, Level 0]: [D] x7|cya: since when does this local chat existÃŸ
+[2021-04-08 04:46:21]: [D] x7|cya [xSD7, Level 39]: ?
+[2021-04-08 04:46:22]: ***  [hýÿÿ, Level 0]: 'YelloWorlD' entered and joined the game
+[2021-04-08 04:46:23]: [D] \\Syth [, Level 0]: Friendiship ;-): ur dummt
+[2021-04-08 04:46:24]: ***  [hýÿÿ, Level 0]: '(1)oyun krallÄ±' entered and joined the game
+[2021-04-08 04:46:25]: OP|Supers [DogParty, Level 39]: idk
