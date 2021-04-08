@@ -7436,3 +7436,7 @@
 [2021-04-08 09:56:18]: ***  [, Level 0]: kropkowaty is on a killing spree with 5 blocks
 [2021-04-08 09:56:22]: ***  [, Level 0]: 'JxK|JoK'Air' entered and joined the game
 [2021-04-08 09:56:23]: sun.slow(y) [FookinLads, Level 35]: mamikral011: sikerim stop
+[2021-04-08 09:56:26]: sun.slow(y) [FookinLads, Level 35]: mamikral011: armut
+[2021-04-08 09:56:27]: ***  [, Level 0]: kropkowaty's killing spree was ended by Trololo1 (5 blocks)
+[2021-04-08 09:56:27]: cookie [, Level 17]: Fearless:  sorry
+[2021-04-08 09:56:28]: ***  [, Level 0]: fomjn is on a killing spree with 30 blocks
