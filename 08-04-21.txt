@@ -1929,3 +1929,7 @@
 [2021-04-08 03:21:18]: OP|Supers [DogParty, Level 39]: Swipez:  look dummy
 [2021-04-08 03:21:23]: Swipez [[!FAKE!], Level 30]: t/plot spawn
 [2021-04-08 03:21:40]: ***  [, Level 0]: 'toxicdadd' entered and joined the game
+[2021-04-08 03:21:49]: OP|Supers [DogParty, Level 39]: Swipez:  come out pussy
+[2021-04-08 03:21:57]: Swipez [[!FAKE!], Level 30]: OP|Supers: oh no poor kid
+[2021-04-08 03:21:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-08 03:22:01]: OP|Supers [DogParty, Level 39]: why poor?
