@@ -791,3 +791,9 @@
 [2021-04-08 01:26:30]: [D] mamikral011 [DogParty, Level 0]: GOLD: :D
 [2021-04-08 01:26:34]: [D] mamikral011 [DogParty, Level 0]: GOLD: pls
 [2021-04-08 01:26:46]: Cylox [♥, Level 30]: ERROR:
+[2021-04-08 01:26:48]: [D] mamikral011 [DogParty, Level 0]: GOLD: please drop
+[2021-04-08 01:26:50]: ***  [, Level 0]: 'VeemID' would have timed out, but can use timeout protection now
+[2021-04-08 01:26:52]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 43.34 second(s)
+[2021-04-08 01:26:56]: Cylox [♥, Level 30]: ow no
+[2021-04-08 01:26:59]: [D] mamikral011 [DogParty, Level 0]: GOLD: fuck you baby
+[2021-04-08 01:26:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
