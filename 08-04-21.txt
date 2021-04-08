@@ -10315,3 +10315,7 @@
 [2021-04-08 12:06:04]: ***  [, Level 0]: '(1)Axel' entered and joined the game
 [2021-04-08 12:06:10]: ***  [, Level 0]: '(1)Axel' has left the game
 [2021-04-08 12:06:16]: mamikral011 [DogParty, Level 26]: tako kralll
+[2021-04-08 12:06:29]: ***  [, Level 0]: '[2] VeemID' has left the game
+[2021-04-08 12:06:29]: ***  [, Level 0]: 'VeemID' has left the game
+[2021-04-08 12:06:32]: Nonoh [citrom, Level 40]: xd
+[2021-04-08 12:06:37]: Nonoh [citrom, Level 40]: tschu:
