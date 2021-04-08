@@ -8920,3 +8920,8 @@
 [2021-04-08 11:00:45]: Foxie♥ [♥, Level 36]: Meetiteusz:
 [2021-04-08 11:00:45]: Meetiteusz [TrRShClNrRs, Level 0]: [D] \\Syth: to ja mu pomoge
 [2021-04-08 11:00:46]: Foxie♥ [♥, Level 36]: Meetiteusz:
+[2021-04-08 11:00:50]: Foxie♥ [♥, Level 36]: [D] \\Syth: MONEY
+[2021-04-08 11:00:56]: \\Syth [, Level 30]: Foxie♥: what
+[2021-04-08 11:00:57]: ***  [, Level 0]: 'Falco641' entered and joined the game
+[2021-04-08 11:00:57]: ***  [, Level 0]: 'toxicdaddy' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 11:00:57]: ***  [, Level 0]: 'toxicdadd' has left the game (Too weak connection (not acked for 60 seconds))
