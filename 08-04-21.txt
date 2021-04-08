@@ -5784,3 +5784,8 @@
 [2021-04-08 08:16:21]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-08 08:16:22]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 08:16:45]: ビール|Zero [Drunks, Level 29]: KS| Ty4ka: у меня щас на основе будет баланс 210 - 220 к если я эти деньги донесу)
+[2021-04-08 08:16:54]: Kong [[_Any %_], Level 0]: ?
+[2021-04-08 08:16:56]: ***  [, Level 0]: 'jeder' joined the spectators
+[2021-04-08 08:16:57]: Mʎɹ シ [not today, Level 11]: ビール|Zero: {[g[f
+[2021-04-08 08:16:59]: Mʎɹ シ [not today, Level 11]: ビール|Zero: Ххпах
+[2021-04-08 08:16:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
