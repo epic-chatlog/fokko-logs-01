@@ -5113,3 +5113,6 @@
 [2021-04-08 07:27:32]: ***  [, Level 0]: 'CeoOfAdmin' has left the game (Timeout)
 [2021-04-08 07:27:32]: ♥JustRace♥ [no-clan, Level 36]: YelloWorlD:  hmm
 [2021-04-08 07:27:37]:   [, Level 0]: cunt: [D] Deadmouse: ez
+[2021-04-08 07:27:44]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-08 07:27:50]:   [, Level 0]: ✰: rq
+[2021-04-08 07:27:52]: GOLD [404, Level 40]: ChillerDragon: when u are u can delete msg etc
