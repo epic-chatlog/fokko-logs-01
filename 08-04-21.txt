@@ -11070,3 +11070,7 @@
 [2021-04-08 12:51:33]: mamikral011 [DogParty, Level 26]: GOLD: okey bro
 [2021-04-08 12:51:36]: Kirito♥ [♥, Level 40]: GOLD:
 [2021-04-08 12:51:36]: ***  [, Level 0]: 'el champeon' entered and joined the game
+[2021-04-08 12:51:40]: ***  [, Level 0]: '(1)fameless tea' entered and joined the game
+[2021-04-08 12:51:44]: ***  [, Level 0]: 'tschu' has left the game
+[2021-04-08 12:51:44]: ***  [, Level 0]: '[D] tschu' has left the game
+[2021-04-08 12:51:48]: Zephir™ [, Level 39]: ERROR.:
