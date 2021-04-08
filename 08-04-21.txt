@@ -3998,3 +3998,6 @@
 [2021-04-08 06:02:33]:   [, Level 0]: Kiøn1029: BECAUSE YOU NEEDED TO HAMMER ME
 [2021-04-08 06:02:36]: ***  [, Level 0]: Soros's killing spree was ended by f"{self.name}" (5 blocks)
 [2021-04-08 06:02:38]: ĦỮǤØ [ŞƤΔŴŇ, Level 14]: syth
+[2021-04-08 06:02:46]: ***  [, Level 0]: '[D] Cylox' entered and joined the game
+[2021-04-08 06:02:46]:   [, Level 0]: Soros: f"{self.name}": fuck urself
+[2021-04-08 06:02:48]: ***  [, Level 0]: '[D] Cylox' has left the game
