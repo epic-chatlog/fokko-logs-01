@@ -5921,3 +5921,11 @@
 [2021-04-08 08:26:22]: ***  [, Level 0]: 'PARDUS' entered and joined the game
 [2021-04-08 08:26:22]: ***  [, Level 0]: GODLIKe's killing spree was ended by Nightmare. (5 blocks)
 [2021-04-08 08:26:23]: MieSlime [FookinLads, Level 43]: Hunter.exe:  u saved enemy
+[2021-04-08 08:26:26]: Hunter.exe [DogParty, Level 36]: MieSlime: who
+[2021-04-08 08:26:30]: ᅟᅟᅟ [, Level 14]: its flipper XD
+[2021-04-08 08:26:31]: Nightmare [, Level 27]: bob: heelp
+[2021-04-08 08:26:34]: ***  [, Level 0]: 'ᅟᅟᅟ' changed name to 'Flipper'
+[2021-04-08 08:26:34]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 08:26:35]: MieSlime [FookinLads, Level 43]: Hunter.exe:  idk invisible name
+[2021-04-08 08:26:35]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-08 08:26:38]: ***  [, Level 0]: 'Niemand' entered and joined the game
