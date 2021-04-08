@@ -1864,3 +1864,5 @@
 [2021-04-08 03:11:48]: Lucas [THECEPS, Level 34]: BC|Tixnix: why 1v1 war -_-
 [2021-04-08 03:11:48]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 5 blocks
 [2021-04-08 03:11:53]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
+[2021-04-08 03:11:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-08 03:12:04]:   [, Level 0]: Rem's dummy: what is ur problem
