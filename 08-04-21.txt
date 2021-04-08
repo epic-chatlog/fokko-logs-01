@@ -5690,3 +5690,9 @@
 [2021-04-08 08:11:23]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 08:11:27]: ***  [, Level 0]: '(1)ᅟᅟᅟ' changed name to '(1)ᅟᅟ'
 [2021-04-08 08:11:33]: Kong [[_Any %_], Level 0]: SOR
+[2021-04-08 08:11:36]: ***  [, Level 0]: '(1)ᅟᅟ' changed name to '(1)ᅟᅟᅟᅟ'
+[2021-04-08 08:11:38]: ***  [, Level 0]: 'Nightmare' changed name to '(1)ᅟᅟ'
+[2021-04-08 08:11:39]: (1)ᅟᅟᅟᅟ [DogParty, Level 39]: AAAAAAAAAAAA
+[2021-04-08 08:11:40]: (1)ᅟᅟ [, Level 27]: yo
+[2021-04-08 08:11:41]: ***  [, Level 0]: '(1)ᅟᅟᅟᅟ' changed name to '(1)ᅟᅟᅟ'
+[2021-04-08 08:11:45]: ***  [, Level 0]: 'Asta' entered and joined the game
