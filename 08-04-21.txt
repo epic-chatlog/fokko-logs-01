@@ -419,3 +419,5 @@
 [2021-04-08 00:54:42]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
 [2021-04-08 00:54:42]: ***  [, Level 0]: '(3)ChillerDragon' has left the game
 [2021-04-08 00:54:49]: ***  [, Level 0]: 'Kozaczek' has left the game
+[2021-04-08 00:55:15]: Swarfey [FookinLads, Level 60]: Shiro,: spec me xdd
+[2021-04-08 00:55:19]: ***  [, Level 0]: 'Szatika' has left the game
