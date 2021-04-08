@@ -11794,3 +11794,5 @@
 [2021-04-08 13:54:08]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-08 13:54:14]: Ambah [, Level 0]: i wrote you
 [2021-04-08 13:54:19]: Kirito♥ [♥, Level 40]: Ambah: when?
+[2021-04-08 13:54:32]: Ambah [, Level 0]: before telling you to rush police
+[2021-04-08 13:54:37]: Ambah [, Level 0]: oh wait
