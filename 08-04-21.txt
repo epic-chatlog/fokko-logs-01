@@ -1545,3 +1545,5 @@
 [2021-04-08 02:27:18]: ***  [, Level 0]: (1)УБИВАТЬ! is on a killing spree with 5 blocks
 [2021-04-08 02:27:28]: ***  [, Level 0]: 'Лимонад' entered and joined the game
 [2021-04-08 02:27:42]: ***  [, Level 0]: (1)УБИВАТЬ! is on a killing spree with 10 blocks
+[2021-04-08 02:27:47]: ***  [, Level 0]: 'el champeon' has left the game
+[2021-04-08 02:27:57]: ChillerDragon.* [|*KoG*|, Level 41]: ERROR: der macht niemandem was
