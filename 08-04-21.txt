@@ -1926,3 +1926,5 @@
 [2021-04-08 03:20:42]: BC|kakashi [BC, Level 0]: Lucas:
 [2021-04-08 03:21:04]: ***  [, Level 0]: '(1)restart' joined the spectators
 [2021-04-08 03:21:11]: OP|Supers [DogParty, Level 39]: Swipez:  :o
+[2021-04-08 03:21:18]: OP|Supers [DogParty, Level 39]: Swipez:  look dummy
+[2021-04-08 03:21:23]: Swipez [[!FAKE!], Level 30]: t/plot spawn
