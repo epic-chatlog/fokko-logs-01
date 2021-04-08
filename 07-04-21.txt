@@ -11364,3 +11364,5 @@
 [2021-04-07 22:25:53]: (1)SAUD [, Level 24]: 6yb la t9y7
 [2021-04-07 22:26:21]: x7|KshKsh99 [xSD7, Level 37]: XD
 [2021-04-07 22:26:26]: x7|KshKsh99 [xSD7, Level 37]: fo8
+[2021-04-07 22:26:54]: ***  [, Level 0]: 'gian x' entered and joined the game
+[2021-04-07 22:27:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
