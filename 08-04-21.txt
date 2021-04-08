@@ -5290,3 +5290,9 @@
 [2021-04-08 07:37:13]: Falco641 [.bad, Level 19]: bruh
 [2021-04-08 07:37:19]: YelloWorlD [DogParty, Level 37]: ChillerDragon: pro in code xD
 [2021-04-08 07:37:23]: Kezo [FookinLads, Level 41]: YelloWorlD: so you fight with him ?
+[2021-04-08 07:37:36]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 07:37:38]: YelloWorlD [DogParty, Level 37]: Kezo: no
+[2021-04-08 07:37:39]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 07:37:43]:   [, Level 0]: ChillerDragon: rly Sad Guy
+[2021-04-08 07:37:45]: Falco642 [, Level 0]: jcanela2022: rifle me
+[2021-04-08 07:37:46]: YelloWorlD [DogParty, Level 37]: Kezo: yes or no
