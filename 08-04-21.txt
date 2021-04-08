@@ -5414,3 +5414,4 @@
 [2021-04-08 07:47:40]:   [, Level 0]: nameless tee: C VC NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 [2021-04-08 07:48:02]: ***  [, Level 0]: 'x7|cya' entered and joined the game
 [2021-04-08 07:48:08]: ***  [, Level 0]: '(1)Hunter.exe' entered and joined the game
+[2021-04-08 07:48:27]: ***  [, Level 0]: '(1)[D] Hunter.ex' entered and joined the game
