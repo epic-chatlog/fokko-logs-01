@@ -3258,3 +3258,8 @@
 [2021-04-08 05:02:09]: ***  [hýÿÿ, Level 0]: '(1)oyun krallÄ±' has left the game
 [2021-04-08 05:02:13]: ***  [hýÿÿ, Level 0]: '(1)oyun krallÄ±' entered and joined the game
 [2021-04-08 05:02:14]: Asta [FookinLads, Level 0]: OP|Supers:  bcs lucky
+[2021-04-08 05:02:18]: (1)OP|Supers [DogParty, Level 0]: why?
+[2021-04-08 05:02:22]: ***  [hýÿÿ, Level 0]: 'Ä¦á»®Ç¤Ã˜' changed name to '(1)flappy'
+[2021-04-08 05:02:23]: Asta [FookinLads, Level 0]: OP|Supers:  bcs lucky
+[2021-04-08 05:02:28]: (1)OP|Supers [DogParty, Level 0]: ok thx :D
+[2021-04-08 05:02:30]: ***  [hýÿÿ, Level 0]: 'Shroom' entered and joined the game
