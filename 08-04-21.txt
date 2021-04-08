@@ -6789,3 +6789,5 @@
 [2021-04-08 09:07:28]: ***  [, Level 0]: 'falkenauge' has left the game
 [2021-04-08 09:07:33]: any [404, Level 37]: rq
 [2021-04-08 09:08:08]: ***  [, Level 0]: [D] \\Syth is on a killing spree with 5 blocks
+[2021-04-08 09:08:26]: comic [comically, Level 13]: god fricking dammit
+[2021-04-08 09:08:29]: ***  [, Level 0]: [D] \\Syth is on a killing spree with 10 blocks
