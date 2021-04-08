@@ -8731,3 +8731,6 @@
 [2021-04-08 10:51:57]: Kaptar [, Level 0]: xDDDD
 [2021-04-08 10:51:58]: ♥TAKO♥ [, Level 25]: kaç lira
 [2021-04-08 10:51:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-08 10:52:03]: ***  [, Level 0]: 'Kezo' has left the game
+[2021-04-08 10:52:04]: Kaptar [, Level 0]: (3)ChillerDrago: look flappy
+[2021-04-08 10:52:06]: mamikral011 [DogParty, Level 26]: ♥TAKO♥: senin bankada ne kadar var
