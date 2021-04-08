@@ -11183,3 +11183,4 @@
 [2021-04-07 18:22:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 18:23:03]: ***  [, Level 0]: 'Akantor6' entered and joined the game
 [2021-04-07 18:23:36]: ***  [, Level 0]: 'Akantor6' has left the game
+[2021-04-07 18:26:06]: ***  [, Level 0]: 'Blacktoastx' entered and joined the game
