@@ -7554,3 +7554,4 @@
 [2021-04-08 10:02:10]: cookie [, Level 17]: sun.slow(y):  yeah
 [2021-04-08 10:02:12]: ***  [, Level 0]: Котяра is on a killing spree with 10 blocks
 [2021-04-08 10:02:14]: iMxtteo [, Level 26]: Fearless: oka?
+[2021-04-08 10:02:27]: ***  [, Level 0]: 'ElGatitoReal767' entered and joined the game
