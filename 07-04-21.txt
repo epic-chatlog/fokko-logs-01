@@ -11231,3 +11231,5 @@
 [2021-04-07 20:07:00]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-07 20:12:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-07 20:17:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-07 20:20:04]: ***  [, Level 0]: '\\Syth' would have timed out, but can use timeout protection now
+[2021-04-07 20:20:04]: ***  [, Level 0]: '[D] \\Syth' would have timed out, but can use timeout protection now
