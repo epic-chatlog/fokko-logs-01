@@ -5225,3 +5225,7 @@
 [2021-04-08 07:33:25]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-08 07:33:27]: GOLD [404, Level 40]: (1)DiscordBridg: no  u
 [2021-04-08 07:33:28]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 07:33:32]: ♥JustRace♥ [no-clan, Level 36]: how bad af
+[2021-04-08 07:33:33]: ***  [, Level 0]: 'Woona' has left the game
+[2021-04-08 07:33:33]: ***  [, Level 0]: 'woona' has left the game
+[2021-04-08 07:33:40]: ***  [, Level 0]: 'sun' entered and joined the game
