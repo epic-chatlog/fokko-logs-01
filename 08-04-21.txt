@@ -5501,3 +5501,7 @@
 [2021-04-08 07:56:50]: YelloWorlD [DogParty, Level 37]: a member
 [2021-04-08 07:56:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-08 07:57:09]: YelloWorlD [DogParty, Level 37]: my english is bad too so i understand
+[2021-04-08 07:57:37]: ***  [, Level 0]: '(1)iMxtteo' entered and joined the game
+[2021-04-08 07:57:38]: ***  [, Level 0]: 'Kong' entered and joined the game
+[2021-04-08 07:57:41]: ***  [, Level 0]: 'any' entered and joined the game
+[2021-04-08 07:57:45]: Kaptar [, Level 0]: YelloWorlD: eh att c pas moi la xd
