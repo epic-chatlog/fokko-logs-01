@@ -5882,3 +5882,7 @@
 [2021-04-08 08:23:31]: Hunter.exe [DogParty, Level 36]: MieSlime: dumb kid
 [2021-04-08 08:23:32]: MieSlime [FookinLads, Level 43]: ChillerDragon:
 [2021-04-08 08:23:36]: KS| Ty4ka [KyStiKi, Level 0]: ビール|Zero: Ок
+[2021-04-08 08:23:40]: MieSlime [FookinLads, Level 43]: ChillerDragon: i right
+[2021-04-08 08:23:41]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-08 08:23:42]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 08:23:44]: ***  [, Level 0]: 'jeder' entered and joined the game
