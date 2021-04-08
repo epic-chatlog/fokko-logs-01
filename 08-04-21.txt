@@ -3670,3 +3670,7 @@
 [2021-04-08 05:34:04]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-08 05:34:05]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-08 05:34:06]: Kiøn1029 [.bad, Level 31]: mivel
+[2021-04-08 05:34:07]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 05:34:11]: HardreenClutch [, Level 57]: 3vs1 gg
+[2021-04-08 05:34:15]: Kiøn1029 [.bad, Level 31]: freezben kell hogy legyen
+[2021-04-08 05:34:16]: HardreenClutch [, Level 57]: VeemID:
