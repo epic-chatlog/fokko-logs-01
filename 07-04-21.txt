@@ -11155,3 +11155,4 @@
 [2021-04-07 17:40:17]: ***  [, Level 0]: You are not permitted to talk for the next 15 seconds.
 [2021-04-07 17:42:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-07 17:43:47]: ***  [, Level 0]: 'Flipper' entered and joined the game
+[2021-04-07 17:47:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
