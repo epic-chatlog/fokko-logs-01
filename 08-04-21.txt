@@ -1999,3 +1999,5 @@
 [2021-04-08 03:28:21]: ***  [, Level 0]: 'BC|kakashi' has left the game
 [2021-04-08 03:28:21]: ***  [, Level 0]: '[D] BC|kakashi' has left the game
 [2021-04-08 03:28:42]: OP|Supers [DogParty, Level 39]: power:  u f
+[2021-04-08 03:29:01]: OP|Supers [DogParty, Level 39]: power:
+[2021-04-08 03:29:03]: OP|Supers [DogParty, Level 39]: power:  come
