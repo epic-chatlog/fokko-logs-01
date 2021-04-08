@@ -1413,3 +1413,7 @@
 [2021-04-08 02:17:52]: [D] BC|Tixnix [BC, Level 26]: ERROR:
 [2021-04-08 02:17:55]: ***  [, Level 0]: 'УБИВАТЬ!' entered and joined the game
 [2021-04-08 02:18:01]: YelloWorlD [DogParty, Level 37]: ERROR: not very good
+[2021-04-08 02:18:08]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-08 02:18:10]: ***  [, Level 0]: rojden's killing spree was ended by any (5 blocks)
+[2021-04-08 02:18:10]: x7|KshKsh99 [xSD7, Level 37]: [D] x7|cya: ..
+[2021-04-08 02:18:14]: GOLD [404, Level 41]: [D] BC|Tixnix: stop block him
