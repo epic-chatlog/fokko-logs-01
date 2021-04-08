@@ -2609,3 +2609,5 @@
 [2021-04-08 04:21:54]: sun.slow(y) [FookinLads, Level 35]: bob: er blockt HeavyGeneral
 [2021-04-08 04:21:55]: HeavyGeneral [FookinLads, Level 44]: sun.slow(y): sec i lag
 [2021-04-08 04:21:59]: ***  [hýÿÿ, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-08 04:22:01]: OP|Supers [DogParty, Level 39]: any:  what?
+[2021-04-08 04:22:03]: ***  [hýÿÿ, Level 0]: 'restart' has left the game
