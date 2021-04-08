@@ -2092,3 +2092,6 @@
 [2021-04-08 03:43:30]: Nudelsaft c: [FookinLads, Level 37]: no u
 [2021-04-08 03:43:52]: YelloWorlD [DogParty, Level 37]: Nudelsaft c:: join DogParty jz gerade
 [2021-04-08 03:43:57]: ERROR. [404, Level 56]: YelloWorlD:  xDDD
+[2021-04-08 03:44:35]: ***  [, Level 0]: x7|cya finished in: 2 minute(s) 22.18 second(s)
+[2021-04-08 03:44:35]: ***  [, Level 0]: New record:  1.04 second(s) better.
+[2021-04-08 03:44:35]: ***  [, Level 0]: [D] x7|cya finished in: 2 minute(s) 10.50 second(s)
