@@ -11177,3 +11177,4 @@
 [2021-04-07 18:03:16]: ***  [, Level 0]: 'Flipper' has left the game
 [2021-04-07 18:03:20]: ***  [, Level 0]: 'jcanela2022' has left the game
 [2021-04-07 18:03:25]: ***  [, Level 0]: 'Lokomit' has left the game
+[2021-04-07 18:07:00]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
