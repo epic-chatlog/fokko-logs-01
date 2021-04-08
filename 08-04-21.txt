@@ -1720,3 +1720,4 @@
 [2021-04-08 02:46:40]: ***  [, Level 0]: 'BC|serwan' entered and joined the game
 [2021-04-08 02:46:45]: rayen [, Level 0]: any²:  sry
 [2021-04-08 02:46:52]: ***  [, Level 0]: Getpon finished in: 5 minute(s) 54.64 second(s)
+[2021-04-08 02:46:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
