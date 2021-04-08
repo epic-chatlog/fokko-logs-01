@@ -364,3 +364,5 @@
 [2021-04-08 00:48:25]: Supers [ᅟᅟᅟ, Level 0]: weqe:  im dead :c
 [2021-04-08 00:48:37]: weqe [MNKY, Level 12]: idk what u talkin about Supers
 [2021-04-08 00:48:49]: Supers [ᅟᅟᅟ, Level 0]: weqe:  you have portal
+[2021-04-08 00:49:00]: ***  [, Level 0]: resart finished in: 8 minute(s) 41.86 second(s)
+[2021-04-08 00:49:05]: ***  [, Level 0]: restart finished in: 2 minute(s)  0.70 second(s)
