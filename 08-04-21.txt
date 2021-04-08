@@ -8639,3 +8639,5 @@
 [2021-04-08 10:45:31]: ***  [, Level 0]: 'Kezo' changed name to 'S'
 [2021-04-08 10:45:35]: \\Syth [, Level 30]: ChillerDragon: sorry
 [2021-04-08 10:45:50]: ***  [, Level 0]: 'S' changed name to 'Kezo'
+[2021-04-08 10:46:04]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-08 10:46:08]: [D] Hunter.exe [DogParty, Level 25]: iMxtteo: habe neue afk leute
