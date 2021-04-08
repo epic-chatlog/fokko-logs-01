@@ -1747,3 +1747,7 @@
 [2021-04-08 02:51:05]: ***  [, Level 0]: 'NidardoHD' has left the game
 [2021-04-08 02:51:32]: ***  [, Level 0]: 'Getpon' changed name to '[D] NinjaGouwe'
 [2021-04-08 02:51:45]: ***  [, Level 0]: '»ℱℬℑ«' entered and joined the game
+[2021-04-08 02:51:56]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-08 02:51:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-08 02:52:03]: ***  [, Level 0]: '[D] NinjaGouwe' changed name to 'Koplokon'
+[2021-04-08 02:52:06]: ***  [, Level 0]: 'Shroom' entered and joined the game
