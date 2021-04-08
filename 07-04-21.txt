@@ -11359,3 +11359,4 @@
 [2021-04-07 22:24:29]: x7|KshKsh99 [xSD7, Level 37]: SAUD:
 [2021-04-07 22:24:39]: x7|KshKsh99 [xSD7, Level 37]: SAUD: wr3
 [2021-04-07 22:24:41]: (1)SAUD [, Level 24]: wait
+[2021-04-07 22:24:46]: ***  [, Level 0]: 'Mr.KshKsh99' entered and joined the game
