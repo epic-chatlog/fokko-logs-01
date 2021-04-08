@@ -4543,3 +4543,5 @@
 [2021-04-08 06:51:39]: ***  [, Level 0]: 'CloudThis' has left the game
 [2021-04-08 06:51:41]: Fighter [, Level 36]: rq
 [2021-04-08 06:51:41]: ***  [, Level 0]: '(1)kais' entered and joined the game
+[2021-04-08 06:51:44]: ***  [, Level 0]: '(1)kais' has left the game (Timeout Protection used)
+[2021-04-08 06:51:50]: ***  [, Level 0]: '(1)kais' entered and joined the game
