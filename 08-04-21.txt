@@ -12389,3 +12389,5 @@
 [2021-04-08 15:24:10]: ***  [, Level 0]: '(1)TL|ŦƹƦ$ŦǾN' has left the game
 [2021-04-08 15:24:13]: Fearless [DogParty, Level 40]: TL|ŦƹƦ$ŦǾN:  come :)
 [2021-04-08 15:24:32]: Fearless [DogParty, Level 40]: TL|ŦƹƦ$ŦǾN:  my plot not open sorry men
+[2021-04-08 15:24:41]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-08 15:24:44]: Fearless [DogParty, Level 40]: Killua:  ok men
