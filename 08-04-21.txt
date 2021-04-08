@@ -8380,3 +8380,7 @@
 [2021-04-08 10:31:52]: Kaptar [, Level 0]: nub
 [2021-04-08 10:31:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-08 10:32:00]: woona [, Level 48]: LichT: İM HHH3
+[2021-04-08 10:32:02]:   [, Level 0]: HardreenClutch: WTF
+[2021-04-08 10:32:04]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
+[2021-04-08 10:32:09]: ***  [, Level 0]: Zephir™'s killing spree was ended by Kenshi™ (6 blocks)
+[2021-04-08 10:32:10]: mamikral011 [DogParty, Level 26]: fuck
