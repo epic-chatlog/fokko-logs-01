@@ -11707,3 +11707,5 @@
 [2021-04-08 13:43:08]: Cassie [, Level 0]: cuz im nice
 [2021-04-08 13:43:10]: Cassie [, Level 0]: and friendly
 [2021-04-08 13:43:20]: ***  [, Level 0]: 'Zyver' entered and joined the game
+[2021-04-08 13:43:25]: ***  [, Level 0]: Kaptar is on a killing spree with 5 blocks
+[2021-04-08 13:43:30]: ERROR [404, Level 74]: doesnt work
