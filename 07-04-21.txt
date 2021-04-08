@@ -11255,3 +11255,5 @@
 [2021-04-07 21:27:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-07 21:27:19]: ***  [, Level 0]: 'SAUD' entered and joined the game
 [2021-04-07 21:28:19]: ***  [, Level 0]: '(1)SAUD' entered and joined the game
+[2021-04-07 21:30:47]: ***  [, Level 0]: 'SAUD' has left the game (Timeout)
+[2021-04-07 21:30:47]: ***  [, Level 0]: '(1)SAUD' has left the game (Timeout)
