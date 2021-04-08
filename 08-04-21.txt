@@ -12906,3 +12906,6 @@
 [2021-04-08 16:28:58]: ***  [, Level 0]: 'нυƨнıκε' changed name to 'S Y T H N'
 [2021-04-08 16:29:04]: Hunter.exe [DogParty, Level 36]: Flipper: war4life
 [2021-04-08 16:29:04]: Flipper [, Level 40]: ?
+[2021-04-08 16:29:17]: s6_sven [, Level 21]: Flipper:  no
+[2021-04-08 16:29:19]: ***  [, Level 0]: 'P4Pyr0s' has left the game
+[2021-04-08 16:29:19]: ***  [, Level 0]: 's6_sven' has left the game
