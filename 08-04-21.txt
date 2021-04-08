@@ -6782,3 +6782,5 @@
 [2021-04-08 09:06:45]:   [, Level 0]: CKA3A4NIK[NR]: Kiøn1029:  help
 [2021-04-08 09:06:58]:   [, Level 0]: CKA3A4NIK[NR]: Hunter.exe:  Clown
 [2021-04-08 09:06:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-08 09:07:07]: Hunter.exe [DogParty, Level 36]: CKA3A4NIK[NR]: pig
+[2021-04-08 09:07:15]:   [, Level 0]: CKA3A4NIK[NR]: stfu
