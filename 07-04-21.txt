@@ -11344,3 +11344,4 @@
 [2021-04-07 22:02:00]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-07 22:05:50]: ***  [, Level 0]: 'Boti.' has left the game
 [2021-04-07 22:05:50]: ***  [, Level 0]: '[D] Boti.' has left the game
+[2021-04-07 22:07:00]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
