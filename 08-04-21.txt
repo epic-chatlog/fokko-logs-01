@@ -1504,3 +1504,4 @@
 [2021-04-08 02:24:20]: BC|kakashi [BC, Level 0]: power: inf jump?
 [2021-04-08 02:24:23]: ERROR. [404, Level 56]: ich passe
 [2021-04-08 02:24:24]: power2 [TrRShClNrRs, Level 0]: ye
+[2021-04-08 02:24:27]: ***  [, Level 0]: 'Лимонад' entered and joined the game
