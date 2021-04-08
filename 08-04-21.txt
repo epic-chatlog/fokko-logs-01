@@ -11085,3 +11085,4 @@
 [2021-04-08 12:52:25]: YelloWorlD [DogParty, Level 41]: xazreeyrjyseqezA
 [2021-04-08 12:52:28]: ***  [, Level 0]: toxicdaddy is on a killing spree with 5 blocks
 [2021-04-08 12:52:29]: ERROR [404, Level 74]: oh
+[2021-04-08 12:52:50]: ***  [, Level 0]: 'iMxtteo' left the minigame 'Survival'
