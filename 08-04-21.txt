@@ -5861,3 +5861,7 @@
 [2021-04-08 08:22:07]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
 [2021-04-08 08:22:11]: ***  [, Level 0]: 'Kong' has left the game
 [2021-04-08 08:22:13]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-08 08:22:28]: ᅟ [DogParty, Level 36]: Hunter.exe:  dude
+[2021-04-08 08:22:29]: (3)ChillerDrago [|*KoG*|, Level 33]: yo brother bob
+[2021-04-08 08:22:30]: MieSlime [FookinLads, Level 43]: Hunter.exe:  did u ?
+[2021-04-08 08:22:30]: Nightmare [, Level 27]: Hunter.exe: HELP UR CLANMATES FUCKIN DIGGA
