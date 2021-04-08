@@ -11847,3 +11847,5 @@
 [2021-04-08 14:01:34]: [D] ♥TAKO♥ [, Level 0]: stop and wait
 [2021-04-08 14:01:40]: ***  [, Level 0]: '(3)lol' entered and joined the game
 [2021-04-08 14:01:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-08 14:02:05]: Kaptar [, Level 0]: (1)Kirito♥: ehhh
+[2021-04-08 14:02:06]: Kaptar [, Level 0]: xd
