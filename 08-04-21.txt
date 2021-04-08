@@ -3904,3 +3904,6 @@
 [2021-04-08 05:55:21]: bob [Legacy™, Level 36]: Warrior: nice
 [2021-04-08 05:55:26]: f"{self.name}" [, Level 18]: kiøn1029: lag
 [2021-04-08 05:55:30]:   [, Level 0]: kiøn1029: ye ye
+[2021-04-08 05:55:31]:   [, Level 0]: kiøn1029: probaly
+[2021-04-08 05:55:38]: bob [Legacy™, Level 36]: (1)SAUD: brother
+[2021-04-08 05:55:43]: ***  [, Level 0]: '(1)' has left the game
