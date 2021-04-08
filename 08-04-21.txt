@@ -4607,3 +4607,7 @@
 [2021-04-08 06:56:28]: bob [Legacy™, Level 36]: weqe: where u
 [2021-04-08 06:56:29]: Foxie♥ [♥, Level 0]: Sad Guy: sad m&ms
 [2021-04-08 06:56:31]: weqe [MNKY, Level 12]: bob waiting
+[2021-04-08 06:56:37]: ***  [, Level 0]: 'Deadmouse' has left the game (Timeout)
+[2021-04-08 06:56:37]: ***  [, Level 0]: '[D] Deadmouse' has left the game (Timeout)
+[2021-04-08 06:56:37]: ***  [, Level 0]: 'WarHammer' would have timed out, but can use timeout protection now
+[2021-04-08 06:56:41]: ***  [, Level 0]: '[D] Deadmouse' entered and joined the game
