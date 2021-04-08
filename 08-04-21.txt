@@ -1262,3 +1262,4 @@
 [2021-04-08 02:03:43]: ***  [, Level 0]: MieSlime is on a killing spree with 5 blocks
 [2021-04-08 02:03:47]: Virus [, Level 49]: XD
 [2021-04-08 02:03:50]: ***  [, Level 0]: 'Anatomy' changed name to 'rojden'
+[2021-04-08 02:04:01]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
