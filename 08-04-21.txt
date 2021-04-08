@@ -3658,3 +3658,9 @@
 [2021-04-08 05:33:32]: Kiøn1029 [.bad, Level 31]: hozok lasert
 [2021-04-08 05:33:36]: Cylox [♥, Level 30]: no
 [2021-04-08 05:33:38]: Cylox [♥, Level 30]: pls
+[2021-04-08 05:33:43]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-08 05:33:44]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-08 05:33:44]: Cylox [♥, Level 30]: dont
+[2021-04-08 05:33:46]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-08 05:33:47]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-08 05:33:49]: Cylox [♥, Level 30]: ı love u
