@@ -1650,3 +1650,4 @@
 [2021-04-08 02:38:37]: ***  [, Level 0]: 'restart' entered and joined the game
 [2021-04-08 02:38:39]: ***  [, Level 0]: 'oyun krallı' has left the game
 [2021-04-08 02:38:55]: ***  [, Level 0]: '(1)restart' entered and joined the game
+[2021-04-08 02:39:13]: weqe [MNKY, Level 12]: ERROR: noob bob
