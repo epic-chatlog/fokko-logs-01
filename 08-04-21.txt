@@ -6260,3 +6260,7 @@
 [2021-04-08 08:40:27]:   [, Level 0]: weqe: yes ChillerDragon
 [2021-04-08 08:40:31]:   [, Level 0]: weqe: u own the nices ctf5 server
 [2021-04-08 08:40:32]: ChillerDragon [Chilli.*, Level 44]: should i know u weqe ?
+[2021-04-08 08:40:36]: ***  [, Level 0]: 'any' entered and joined the game
+[2021-04-08 08:40:37]:   [, Level 0]: weqe: did u play vanilla chile
+[2021-04-08 08:40:43]: ***  [, Level 0]: 'Kaptar' has left the game
+[2021-04-08 08:40:43]: ***  [, Level 0]: 'soleri1' entered and joined the game
