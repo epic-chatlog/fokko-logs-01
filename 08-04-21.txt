@@ -9355,3 +9355,8 @@
 [2021-04-08 11:23:34]:   [, Level 0]: sun.slow(y): xd#
 [2021-04-08 11:23:37]:   [, Level 0]: Maatiteusz: \\Syth: nie umiem
 [2021-04-08 11:23:39]: Nonoh [citrom, Level 40]: Foxie: i hate u
+[2021-04-08 11:23:39]:   [, Level 0]: Maatiteusz: \\Syth: ale chcialbym
+[2021-04-08 11:23:46]: ***  [, Level 0]: 'KoalasSindCool' has left the game
+[2021-04-08 11:23:47]: GODLIKe [u, Level 44]: sun.slow(y): a
+[2021-04-08 11:23:47]:   [, Level 0]: Maatiteusz: \\Syth: mialem juz takie mysli samobojcze
+[2021-04-08 11:23:50]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
