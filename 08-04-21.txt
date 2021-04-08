@@ -6633,3 +6633,9 @@
 [2021-04-08 08:57:13]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-08 08:57:15]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-08 08:57:16]: Hunter.exe [DogParty, Level 36]: CKA3A4NIK[NR]:
+[2021-04-08 08:57:24]: ***  [, Level 0]: '[D] BC|kakashi' entered and joined the game
+[2021-04-08 08:57:24]: ***  [, Level 0]: '[D] Deadmouse' has left the game (Timeout Protection over)
+[2021-04-08 08:57:24]: ***  [, Level 0]: 'Deadmouse' has left the game (Timeout Protection over)
+[2021-04-08 08:57:24]: Hunter.exe [DogParty, Level 36]: CKA3A4NIK[NR]:
+[2021-04-08 08:57:25]: x7 sven [xSD7, Level 20]: weqe:
+[2021-04-08 08:57:28]: weqe [MNKY, Level 12]: u let u in retard CKA3A4NIK[NR]
