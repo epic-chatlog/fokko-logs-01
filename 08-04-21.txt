@@ -3714,3 +3714,5 @@
 [2021-04-08 05:36:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-08 05:37:00]: S Y T H N [DogParty, Level 37]: \(^-^)/: fayzor
 [2021-04-08 05:37:12]: \(^-^)/ [FookinLads, Level 42]: S Y T H N: nope von shiro
+[2021-04-08 05:37:19]: S Y T H N [DogParty, Level 37]: #7
+[2021-04-08 05:37:20]: S Y T H N [DogParty, Level 37]: ok
