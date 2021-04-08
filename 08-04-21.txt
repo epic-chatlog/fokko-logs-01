@@ -11771,3 +11771,6 @@
 [2021-04-08 13:52:52]: Zephir™ [, Level 39]: Kaptar: c'est sur ce server que tu vas me combattre, onc habitue toi a ce server
 [2021-04-08 13:52:54]: Ambah [, Level 0]: Kirito♥: no rush?
 [2021-04-08 13:52:55]: toxicdaddy [, Level 27]: muss das sein
+[2021-04-08 13:52:59]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-08 13:53:00]: ERROR. [404, Level 56]: yes
+[2021-04-08 13:53:04]: Kaptar [, Level 0]: Zephir™: Le serv c'est bon tkt
