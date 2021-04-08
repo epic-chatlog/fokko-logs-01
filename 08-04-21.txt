@@ -3287,3 +3287,7 @@
 [2021-04-08 05:04:37]: ***  [, Level 0]: 'x7|Flipper' changed name to 'ĦỮǤØ'
 [2021-04-08 05:04:43]: MieSlime [FookinLads, Level 43]: x7|Flipper:  x7 clan
 [2021-04-08 05:04:46]: ĦỮǤØ [ŞƤΔŴŇ, Level 14]: k
+[2021-04-08 05:04:53]: ***  [, Level 0]: 'OP|Supers' has left the game (Timeout)
+[2021-04-08 05:04:53]: ***  [, Level 0]: 'Supers' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-08 05:04:55]: ĦỮǤØ [ŞƤΔŴŇ, Level 14]: im coming back rn
+[2021-04-08 05:05:00]: MieSlime [FookinLads, Level 43]: ok
