@@ -11116,3 +11116,5 @@
 [2021-04-08 12:58:23]: ***  [, Level 0]: '(2)Kirito♥' entered and joined the game
 [2021-04-08 12:58:36]: (1)any [404, Level 0]: wtf x))
 [2021-04-08 12:58:37]: Kenshi™ [, Level 0]: any: shhhh
+[2021-04-08 12:58:51]: ***  [, Level 0]: '(1)[D] catwhis' entered and joined the game
+[2021-04-08 12:58:54]: ***  [, Level 0]: '(1)catwhis' entered and joined the game
