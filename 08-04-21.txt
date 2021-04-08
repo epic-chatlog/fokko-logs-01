@@ -1349,3 +1349,6 @@
 [2021-04-08 02:11:38]: ***  [, Level 0]: x7|cya is on a killing spree with 5 blocks
 [2021-04-08 02:11:40]: ***  [, Level 0]: 'Asta' entered and joined the game
 [2021-04-08 02:11:50]: jorden [, Level 0]: ChillerDragon: noob spining
+[2021-04-08 02:11:58]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-08 02:11:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-08 02:12:02]: any [404, Level 42]: YelloWorlD: w<<<
