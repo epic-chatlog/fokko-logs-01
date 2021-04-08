@@ -5664,3 +5664,6 @@
 [2021-04-08 08:09:05]:   [, Level 0]: ᅟᅟᅟᅟ: why xDDDDDDDDD
 [2021-04-08 08:09:06]: ***  [, Level 0]: '(1)Hunter.exe' changed name to 'Hunter.exe'
 [2021-04-08 08:09:10]: ᅟᅟᅟ [, Level 14]: is it for you?
+[2021-04-08 08:09:18]:   [, Level 0]: ᅟᅟᅟᅟ: FİGHT FİGHT
+[2021-04-08 08:09:20]: ***  [, Level 0]: '(1)' changed name to '(1)Hunter.exe'
+[2021-04-08 08:09:27]:   [, Level 0]: ᅟᅟᅟᅟ: FİGHT FİGHT
