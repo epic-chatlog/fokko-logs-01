@@ -4338,3 +4338,4 @@
 [2021-04-08 06:32:53]: ***  [, Level 0]: 'power2' has left the game
 [2021-04-08 06:32:54]: ***  [, Level 0]: GODLIKe is on a killing spree with 5 blocks
 [2021-04-08 06:33:46]: ***  [, Level 0]: 'Hateful Kizuna' has left the game
+[2021-04-08 06:33:51]: [2] VeemID [DogParty, Level 26]: GOLD: flappy m'a sauvé 2fois xD
