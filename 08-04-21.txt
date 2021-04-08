@@ -2099,3 +2099,7 @@
 [2021-04-08 03:44:40]: ERROR. [404, Level 56]: GOLD:
 [2021-04-08 03:44:41]: Axandos [, Level 0]: da war ja was
 [2021-04-08 03:44:49]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-08 03:44:55]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-08 03:44:55]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-08 03:44:58]: ***  [, Level 0]: 'Jerry' entered and joined the game
+[2021-04-08 03:44:59]: ERROR. [404, Level 56]: sad
