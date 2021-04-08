@@ -6744,3 +6744,7 @@
 [2021-04-08 09:03:34]:   [, Level 0]: [D] \\Syth: SSIJ MI CHUJA
 [2021-04-08 09:03:35]: BC|Tixnix [BC, Level 34]: (1)kais: ß
 [2021-04-08 09:03:41]: BC|Tixnix [BC, Level 34]: (1)kais: ?
+[2021-04-08 09:03:43]: ***  [, Level 0]: \\Syth is on a killing spree with 10 blocks
+[2021-04-08 09:03:52]: Kiøn1029 [.bad, Level 31]: ChillerDragon.*: ah
+[2021-04-08 09:03:52]: ChillerDragon.* [Chilli.*, Level 41]: Kiøn1029: I am currently afk.
+[2021-04-08 09:03:53]: Kiøn1029 [.bad, Level 31]: why
