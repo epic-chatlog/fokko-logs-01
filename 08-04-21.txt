@@ -6818,3 +6818,5 @@
 [2021-04-08 09:12:44]: ***  [, Level 0]: 'Tom' has left the game
 [2021-04-08 09:12:44]: ***  [, Level 0]: 'Jerry' has left the game
 [2021-04-08 09:12:45]: comic [comically, Level 13]: WarHammer: i caNT
+[2021-04-08 09:12:52]: ***  [, Level 0]: 'FCRedux_YT' has left the game
+[2021-04-08 09:13:01]: any [404, Level 37]: BC|Tixnix: vvv
