@@ -3238,3 +3238,11 @@
 [2021-04-08 05:01:23]: [D] \\Syth [, Level 0]: no
 [2021-04-08 05:01:27]: ĦỮǤØ [ŞƤΔŴŇ, Level 14]: then idc bum
 [2021-04-08 05:01:28]: [D] \\Syth [, Level 0]: im syth
+[2021-04-08 05:01:40]: (1)oyun krallı [, Level 6]: HELP
+[2021-04-08 05:01:44]: (1)oyun krallı [, Level 6]: JERY HELP
+[2021-04-08 05:01:48]: ***  [h���, Level 0]: Tom finished in: 11 minute(s) 22.64 second(s)
+[2021-04-08 05:01:48]: ***  [h���, Level 0]: 'Tom' finished the special race!
+[2021-04-08 05:01:48]: ***  [h���, Level 0]: 'Asta' entered and joined the game
+[2021-04-08 05:01:49]: (1)oyun krallı [, Level 6]: TOM HELP
+[2021-04-08 05:01:49]: (1)Котяра [, Level 13]: place teleport here
+[2021-04-08 05:01:50]: (1)OP|Supers [DogParty, Level 0]: MieSlime:  :o pro
