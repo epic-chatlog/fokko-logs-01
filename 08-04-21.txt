@@ -6530,3 +6530,7 @@
 [2021-04-08 08:50:27]: power [TrRShClNrRs, Level 0]: i see i see, maybe u should apply some fast drying cream
 [2021-04-08 08:50:27]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
 [2021-04-08 08:50:29]: ***  [, Level 0]: '[D] BC|kakashi' entered and joined the game
+[2021-04-08 08:50:35]:   [, Level 0]: ninjainnit: register
+[2021-04-08 08:50:36]: ***  [, Level 0]: JustRace's killing spree was ended by ChillerDragon (5 blocks)
+[2021-04-08 08:50:38]: ***  [, Level 0]: 'falkenauge' entered and joined the game
+[2021-04-08 08:50:45]:   [, Level 0]: JustRace.: cl_aimbot 1
