@@ -11214,3 +11214,4 @@
 [2021-04-07 19:42:00]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-07 19:42:29]: ***  [, Level 0]: 'curcu' entered and joined the game
 [2021-04-07 19:43:38]: ***  [, Level 0]: 'curcu' has left the game
+[2021-04-07 19:47:00]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
