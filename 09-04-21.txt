@@ -8473,3 +8473,10 @@
 [2021-04-09 12:19:03]:   [, Level 0]: Isegrin: sL|KeBu28: jail xaxa
 [2021-04-09 12:19:03]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-09 12:19:05]: Bubba :3 [helper, Level 40]: |HolyHo|: 1
+[2021-04-09 12:19:07]: ***  [, Level 0]: '(1)RM | Arin' has left the game
+[2021-04-09 12:19:08]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
+[2021-04-09 12:19:08]: ***  [, Level 0]: '[D] peS' entered and joined the game
+[2021-04-09 12:19:09]:   [, Level 0]: Hamster uwu: x
+[2021-04-09 12:19:10]: Bubba :3 [helper, Level 40]: |HolyHo|: 2
+[2021-04-09 12:19:10]:   [, Level 0]: Hamster uwu: d
+[2021-04-09 12:19:13]: |HolyHo|° [, Level 18]: Bubba :3[Đ]: last chance
