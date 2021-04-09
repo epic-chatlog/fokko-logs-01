@@ -12545,3 +12545,12 @@
 [2021-04-09 16:47:37]: ***  [, Level 0]: 'RM| bob' has left the game
 [2021-04-09 16:47:42]: ☺ [, Level 6]: [D] ♥TAKO♥: reset
 [2021-04-09 16:48:11]: klaus [DogParty, Level 40]: kirito we good?
+[2021-04-09 16:48:15]: ☺ [, Level 6]: lag
+[2021-04-09 16:48:15]: ***  [, Level 0]: 'RM|Dead Cat' entered and joined the game
+[2021-04-09 16:48:16]: klaus [DogParty, Level 40]: or you gonna stay up there
+[2021-04-09 16:48:17]: ***  [, Level 0]: '(1)RM | Arin' would have timed out, but can use timeout protection now
+[2021-04-09 16:48:17]: ***  [, Level 0]: 'RM | Arin' would have timed out, but can use timeout protection now
+[2021-04-09 16:48:20]: ***  [, Level 0]: '(2)RM | Arin' entered and joined the game
+[2021-04-09 16:48:22]: ***  [, Level 0]: '(2)RM | Arin' has left the game (Timeout Protection used)
+[2021-04-09 16:48:23]: Kirito [, Level 40]: klaus: amething is blocking me so i guess not
+[2021-04-09 16:48:27]: klaus [DogParty, Level 40]: come down
