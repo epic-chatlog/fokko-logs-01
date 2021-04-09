@@ -8262,3 +8262,5 @@
 [2021-04-09 12:09:13]: ***  [, Level 0]: 'power2' has left the game
 [2021-04-09 12:09:19]: Isegrin [, Level 55]: Chillingo: NUB
 [2021-04-09 12:09:20]: |HolyHo|° [, Level 18]: JustRace: u pro
+[2021-04-09 12:09:33]: ***  [, Level 0]: '(2)Zʷʰʸˀ' entered and joined the game
+[2021-04-09 12:09:35]:   [, Level 0]: [D] falkenauge: any: ?
