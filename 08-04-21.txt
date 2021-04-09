@@ -13438,3 +13438,4 @@
 [2021-04-08 17:44:37]: ***  [, Level 0]: 'σмєтнιηg' has left the game (Timeout)
 [2021-04-08 17:44:37]: ***  [, Level 0]: 'ᅟᅟᅟᅟᅟ' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-08 17:44:37]: ***  [, Level 0]: 'Flipper' has left the game (Timeout)
+[2021-04-08 17:46:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
