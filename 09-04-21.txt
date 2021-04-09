@@ -8047,3 +8047,23 @@
 [2021-04-09 12:01:45]: ***  [, Level 0]: Lucas finished in: 3 minute(s) 18.20 second(s)
 [2021-04-09 12:01:45]: ***  [, Level 0]: New record: 10.42 second(s) better.
 [2021-04-09 12:01:46]: RM | Arin [Retard MNKY, Level 0]: (1)Nudelsaft c::  niemand will deine hässlichen dummys xD
+[2021-04-09 12:01:47]: RM|Fearless [Retard MNKY, Level 15]: (1)Nudelsaft c::  i promise i wont
+[2021-04-09 12:01:47]: (1)Nudelsaft c: [FookinLads, Level 37]: but they mine >.8
+[2021-04-09 12:01:47]:   [, Level 0]: Isegrin: |HolyHo|: pRANLK
+[2021-04-09 12:01:50]: RM|Fearless [Retard MNKY, Level 15]: (1)Nudelsaft c::  we promise
+[2021-04-09 12:01:52]: i suck -_- [, Level 0]: someone plz tell me how to use laser
+[2021-04-09 12:01:54]: RM|Fearless [Retard MNKY, Level 15]: (1)Nudelsaft c::  we get out
+[2021-04-09 12:02:00]: ←   [, Level 0]: (1)Nudelsaft c:: 1moneydrop
+[2021-04-09 12:02:00]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-09 12:02:00]: ***  [, Level 0]: Bank: 61497
+[2021-04-09 12:02:00]: ***  [, Level 0]: Wallet: 1340
+[2021-04-09 12:02:00]: ***  [, Level 0]: Euros: 0
+[2021-04-09 12:02:00]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-09 12:02:00]: ***  [, Level 0]: [WALLET] -2750 dropped
+[2021-04-09 12:02:00]: ***  [, Level 0]: [WALLET] -15298 dropped
+[2021-04-09 12:02:00]: ***  [, Level 0]: [WALLET] +3 collected
+[2021-04-09 12:02:00]: ***  [, Level 0]: [BANK] +23394 automatic wallet to bank due to shutdown
+[2021-04-09 12:02:00]: ***  [, Level 0]: [WALLET] -28569 dropped
+[2021-04-09 12:02:00]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-09 12:02:00]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-09 12:02:00]: ***  [, Level 0]: Invalid whisper
