@@ -7953,3 +7953,6 @@
 [2021-04-09 11:57:27]: (3)ChillerDrago [|*KoG*|, Level 45]: do u think ur funny rayen ?
 [2021-04-09 11:57:41]: any [404, Level 37]: BC|Tixnix: spike ?
 [2021-04-09 11:57:48]: BC|Tixnix [BC, Level 0]: any: noi
+[2021-04-09 11:57:58]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-09 11:57:59]: JustRace [DogParty, Level 36]: cl_aimbot 0
+[2021-04-09 11:58:01]: JustRace [DogParty, Level 36]: cl_aimbot 1
