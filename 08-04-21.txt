@@ -13170,3 +13170,6 @@
 [2021-04-08 17:00:01]: Fearless [DogParty, Level 15]: men
 [2021-04-08 17:00:03]: Fearless [DogParty, Level 15]: cant find
 [2021-04-08 17:00:06]: bob [Legacy™, Level 36]: cant find = no bind
+[2021-04-08 17:00:12]: Fearless [DogParty, Level 15]: men
+[2021-04-08 17:00:13]: Fearless [DogParty, Level 15]: give
+[2021-04-08 17:00:16]: bob [Legacy™, Level 36]: idk
