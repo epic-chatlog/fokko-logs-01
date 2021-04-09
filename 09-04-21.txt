@@ -10462,3 +10462,7 @@
 [2021-04-09 14:02:09]: ***  [, Level 0]: 'GODLIKe' has left the game
 [2021-04-09 14:02:12]: ***  [, Level 0]: 'rafel' joined the game
 [2021-04-09 14:02:14]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-09 14:02:27]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-09 14:02:30]: ***  [, Level 0]: 'rafel' joined the game
+[2021-04-09 14:02:31]: any [404, Level 37]: Isegrin: :ooo u got me owo
+[2021-04-09 14:02:32]: ***  [, Level 0]: Hamster uwu is on a killing spree with 5 blocks
