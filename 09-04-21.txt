@@ -8250,3 +8250,10 @@
 [2021-04-09 12:08:53]:   [, Level 0]: Falco642: Bubba :3:
 [2021-04-09 12:08:55]: ***  [, Level 0]: '(2)Zʷʰʸˀ' has left the game
 [2021-04-09 12:08:55]: ***  [, Level 0]: '(3)Zʷʰʸˀ' has left the game
+[2021-04-09 12:08:56]:   [, Level 0]: Falco642: can u help xd
+[2021-04-09 12:08:58]:   [, Level 0]: [D] falkenauge: omg
+[2021-04-09 12:09:00]: ***  [, Level 0]: '(1)RM|Fearless' entered and joined the game
+[2021-04-09 12:09:02]: ***  [, Level 0]: 'bruh' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-09 12:09:02]: ***  [, Level 0]: 'rayen' has left the game (Timeout)
+[2021-04-09 12:09:03]:   [, Level 0]: [D] falkenauge: im sry
+[2021-04-09 12:09:08]: (1)Nudelsaft c: [FookinLads, Level 37]: [D] RM|Fearless: u are unfreeze btw
