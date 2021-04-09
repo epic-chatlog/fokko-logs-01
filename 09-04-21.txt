@@ -7197,3 +7197,4 @@
 [2021-04-09 08:20:29]: ***  [, Level 0]: 's6_sven' entered and joined the game
 [2021-04-09 08:20:30]: CKA3A4NIK[NR] [Night Raid, Level 35]: Rkjey
 [2021-04-09 08:20:36]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-09 08:20:38]: ***  [, Level 0]: 'jeder' entered and joined the game
