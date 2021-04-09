@@ -9422,3 +9422,7 @@
 [2021-04-09 13:00:27]: ***  [, Level 0]: 'Swarfey' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-09 13:00:30]:   [, Level 0]: RM| bob: you good
 [2021-04-09 13:00:34]: Falco641 [.bad, Level 19]: dammmo
+[2021-04-09 13:00:38]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: Falco641: omg ur dead
+[2021-04-09 13:00:41]: Kirito [, Level 40]: RM| bob: but i dont wanna change my skin :D
+[2021-04-09 13:00:50]:   [, Level 0]: RM| bob: Kirito: its ok you don t need to
+[2021-04-09 13:00:50]:   [, Level 0]: Hamster uwu: Falco641: no, he didn't
