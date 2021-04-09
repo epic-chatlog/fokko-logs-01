@@ -12195,3 +12195,4 @@
 [2021-04-09 16:13:09]: klaus [DogParty, Level 40]: dummy
 [2021-04-09 16:13:11]: klaus [DogParty, Level 40]: xd
 [2021-04-09 16:13:37]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-09 16:13:53]: BULLETBOT [, Level 0]: BNJÚ
