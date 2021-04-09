@@ -12304,3 +12304,5 @@
 [2021-04-09 16:27:43]: RM| bob [MNKY, Level 36]: u back now ?
 [2021-04-09 16:27:46]: Zephir™ [, Level 39]: RM| bob: yep
 [2021-04-09 16:27:52]: RM| bob [MNKY, Level 36]: why u did break
+[2021-04-09 16:28:05]: Zephir™ [, Level 39]: RM| bob: need work my exam
+[2021-04-09 16:28:09]: RM| bob [MNKY, Level 36]: oii
