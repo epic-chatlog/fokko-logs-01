@@ -12388,3 +12388,5 @@
 [2021-04-09 16:35:59]: Hunter.exe [DogParty, Level 36]: quick
 [2021-04-09 16:36:25]: ☺ [, Level 6]: ♥TAKO♥: reset
 [2021-04-09 16:36:25]: ***  [, Level 0]: (1)RM | Arin is on a killing spree with 5 blocks
+[2021-04-09 16:36:36]: klaus [DogParty, Level 40]: stop bob
+[2021-04-09 16:36:40]: Flipper [, Level 15]: its flipper
