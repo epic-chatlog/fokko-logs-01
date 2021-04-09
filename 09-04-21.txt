@@ -10623,3 +10623,7 @@
 [2021-04-09 14:09:47]: Falco641 [.bad, Level 19]: (1)rayen:
 [2021-04-09 14:09:50]: Falco641 [.bad, Level 19]: rifle
 [2021-04-09 14:09:51]: (1)rayen [, Level 0]: YES
+[2021-04-09 14:09:52]: [D] mamikral011 [DogParty, Level 26]: [D] Hunter.exe: help
+[2021-04-09 14:09:54]: Falco641 [.bad, Level 19]: hold rifle down
+[2021-04-09 14:10:01]: Falco641 [.bad, Level 19]: (1)rayen: what the fuck?
+[2021-04-09 14:10:05]: Falco641 [.bad, Level 19]: blind>
