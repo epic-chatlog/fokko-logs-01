@@ -10603,3 +10603,6 @@
 [2021-04-09 14:08:21]: Flipper [, Level 15]: afk
 [2021-04-09 14:08:29]: ***  [, Level 0]: 'fitz' entered and joined the game
 [2021-04-09 14:08:31]: RM|Dead Cat [, Level 0]: what even happened
+[2021-04-09 14:08:36]: RM|Dead Cat [, Level 0]: let's start again?
+[2021-04-09 14:08:37]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-09 14:08:40]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
