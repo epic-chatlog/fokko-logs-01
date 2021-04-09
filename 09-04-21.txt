@@ -12561,3 +12561,4 @@
 [2021-04-09 16:48:33]: klaus [DogParty, Level 40]: come down
 [2021-04-09 16:48:34]: ***  [, Level 0]: '(2)RM | Arin' has left the game (Timeout Protection used)
 [2021-04-09 16:48:37]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-09 16:48:49]: Kirito [, Level 40]: klaus: nah amething (aka sythn) will block me
