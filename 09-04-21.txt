@@ -8578,3 +8578,6 @@
 [2021-04-09 12:24:06]: ***  [, Level 0]: 'Jerry' has left the game
 [2021-04-09 12:24:06]: ***  [, Level 0]: 'Tom' has left the game
 [2021-04-09 12:24:19]: ***  [, Level 0]: 'Flipper' entered and joined the game
+[2021-04-09 12:24:35]: RM | Arin [Retard MNKY, Level 0]: English? xD
+[2021-04-09 12:24:41]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-09 12:24:44]: RM toxicdaddy [Retard MNKY, Level 27]: nicht gut
