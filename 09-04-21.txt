@@ -6571,3 +6571,14 @@
 [2021-04-09 07:54:56]:   [, Level 0]: MNKY | Arin: braucht man dafür jetpack?
 [2021-04-09 07:54:58]: ***  [, Level 0]: '(1)WarHammer' entered and joined the game
 [2021-04-09 07:55:00]: ***  [, Level 0]: 'Shroom' has left the game
+[2021-04-09 07:55:04]: bob [Legacy™, Level 36]: ja
+[2021-04-09 07:55:06]: bob [Legacy™, Level 36]: warte
+[2021-04-09 07:55:06]: ***  [, Level 0]: '(1)mamikral011' entered and joined the game
+[2021-04-09 07:55:08]: bob [Legacy™, Level 36]: wir holen dich
+[2021-04-09 07:55:09]: ***  [, Level 0]: '[D] mamikral011' would have timed out, but can use timeout protection now
+[2021-04-09 07:55:09]: ***  [, Level 0]: 'mamikral011' would have timed out, but can use timeout protection now
+[2021-04-09 07:55:09]: ***  [, Level 0]: '♥TAKO♥' has left the game (Timeout)
+[2021-04-09 07:55:09]: ***  [, Level 0]: 'WarHammer' has left the game (Timeout)
+[2021-04-09 07:55:09]: ***  [, Level 0]: 'WarHammer'' has left the game (Timeout)
+[2021-04-09 07:55:09]: MNKY | Arin [MNKY, Level 0]: dann nimm mich mit
+[2021-04-09 07:55:12]: ***  [, Level 0]: '(1)[D] mamikral0' entered and joined the game
