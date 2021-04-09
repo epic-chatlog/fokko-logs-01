@@ -7908,3 +7908,7 @@
 [2021-04-09 11:55:10]: Nightmare. [, Level 0]: Hunter.exe: i saw u wtf
 [2021-04-09 11:55:15]: ***  [, Level 0]: 'sL|KeBu280' has left the game
 [2021-04-09 11:55:19]:   [, Level 0]: Hunter.exe: Nightmare: if someone have a problem just message me up
+[2021-04-09 11:55:25]:   [, Level 0]: Hunter.exe: Nightmare: but the person should do it
+[2021-04-09 11:55:26]:   [, Level 0]: power2: Nightmare.: ... see?
+[2021-04-09 11:55:28]: Nightmare. [, Level 0]: power2: sorry if is a mistake but idk
+[2021-04-09 11:55:29]: JustRace [DogParty, Level 36]: cl_aimbot 1
