@@ -8087,3 +8087,5 @@
 [2021-04-09 12:02:23]: ***  [, Level 0]: Drop money: '/money drop <amount>'
 [2021-04-09 12:02:23]: ***  [, Level 0]: Invalid whisper
 [2021-04-09 12:02:28]:   [, Level 0]: Isegrin: |HolyHo|: aa meto
+[2021-04-09 12:02:35]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-09 12:02:44]: rayen [, Level 0]: JustRace: pls pls pls help
