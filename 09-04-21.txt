@@ -9529,3 +9529,7 @@
 [2021-04-09 13:04:34]: Flipper [, Level 40]: go down
 [2021-04-09 13:04:37]: ***  [, Level 0]: '(1)Sayme' entered and joined the game
 [2021-04-09 13:04:39]: ***  [, Level 0]: 'RoberGN' entered and joined the game
+[2021-04-09 13:04:43]: Flipper [, Level 40]: S Y T H N: go down please
+[2021-04-09 13:04:45]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-09 13:04:49]:   [, Level 0]: RM| bob: ♥TAKO♥:
+[2021-04-09 13:04:50]: Falco641 [.bad, Level 19]: Kirito:
