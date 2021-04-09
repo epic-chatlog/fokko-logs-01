@@ -13461,3 +13461,6 @@
 [2021-04-08 18:06:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-08 18:11:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-08 18:16:59]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-08 18:17:20]: ***  [, Level 0]: 'iMxtteo D' has left the game (Timeout)
+[2021-04-08 18:17:20]: ***  [, Level 0]: 'iMxtteo' has left the game (Timeout)
+[2021-04-08 18:17:20]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
