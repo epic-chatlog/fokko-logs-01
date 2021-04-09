@@ -12093,3 +12093,6 @@
 [2021-04-09 16:03:56]: Flipper [, Level 15]: YES
 [2021-04-09 16:03:59]: Flipper [, Level 15]: ily bulklet
 [2021-04-09 16:04:06]: (2)Zʷʰʸˀ [NULL, Level 25]: Zephir™: i had war with him somehow i think
+[2021-04-09 16:04:12]: ***  [, Level 0]: 'yamil' entered and joined the game
+[2021-04-09 16:04:21]: (2)Zʷʰʸˀ [NULL, Level 25]: Zephir™: but he stopped
+[2021-04-09 16:04:22]: ***  [, Level 0]: 'nameless tee' entered and joined the game
