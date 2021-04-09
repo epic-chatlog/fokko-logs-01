@@ -9095,3 +9095,7 @@
 [2021-04-09 12:45:45]:   [, Level 0]: Bubba :3: S Y T H N: xd gg
 [2021-04-09 12:45:49]: ***  [, Level 0]: 'Knny14' entered and joined the game
 [2021-04-09 12:45:56]:   [, Level 0]: |HolyHo|: S Y T H N HELP?
+[2021-04-09 12:46:05]: ***  [, Level 0]: '*pridy*' entered and joined the game
+[2021-04-09 12:46:09]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-09 12:46:10]: ***  [, Level 0]: 'BrokenSkull' entered and joined the game
+[2021-04-09 12:46:12]: ***  [, Level 0]: 'mamikral011' entered and joined the game
