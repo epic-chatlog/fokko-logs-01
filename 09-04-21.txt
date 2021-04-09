@@ -8001,3 +8001,8 @@
 [2021-04-09 12:00:12]: JustRace [DogParty, Level 36]: cl_aimbot 1
 [2021-04-09 12:00:14]: Nightmare. [, Level 0]: JustRace: check me out check me out
 [2021-04-09 12:00:14]:   [, Level 0]: sL|KeBu28: S Y T H N: ne
+[2021-04-09 12:00:15]:   [, Level 0]: any²: BC|Tixnix:
+[2021-04-09 12:00:17]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
+[2021-04-09 12:00:19]: ***  [, Level 0]: 'carrot0101' has left the game
+[2021-04-09 12:00:19]: ***  [, Level 0]: 'BC|kakashi' joined the spectators
+[2021-04-09 12:00:20]: (2)ChillerDrago [|*KoG*|, Level 33]: dann bleib gleich still wenn du nix zu sagen hast Kirito
