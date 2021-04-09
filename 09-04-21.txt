@@ -7888,3 +7888,8 @@
 [2021-04-09 11:53:17]: (3)ChillerDrago [Chilli.*, Level 45]: why power
 [2021-04-09 11:53:27]:   [, Level 0]: RM| bob: wtf
 [2021-04-09 11:53:33]: ***  [, Level 0]: '[D] RM toxicdad' entered and joined the game
+[2021-04-09 11:53:37]: ***  [, Level 0]: 'RM| bob' has left the game
+[2021-04-09 11:53:37]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-09 11:53:39]: ***  [, Level 0]: '[D] RM toxicdad' has left the game
+[2021-04-09 11:53:41]: ***  [, Level 0]: 'RM toxicdaddy' has left the game
+[2021-04-09 11:53:44]:   [, Level 0]: power2: cuz the last think i remember that we are cool now ChillerDragon
