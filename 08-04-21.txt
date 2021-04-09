@@ -13447,3 +13447,4 @@
 [2021-04-08 17:50:01]: Hunter.exe [DogParty, Level 36]: Retard_W_Portal: who are u
 [2021-04-08 17:50:08]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
 [2021-04-08 17:50:12]: Retard_W_Portal [DogParty, Level 15]: firles
+[2021-04-08 17:50:19]: Hunter.exe [DogParty, Level 36]: ok
