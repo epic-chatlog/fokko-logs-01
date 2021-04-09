@@ -12607,3 +12607,5 @@
 [2021-04-09 16:53:07]: Kirito [, Level 40]: Flipper: me or sythn
 [2021-04-09 16:53:11]: Flipper [, Level 15]: uh
 [2021-04-09 16:53:14]: Flipper [, Level 15]: or
+[2021-04-09 16:53:19]: Flipper [, Level 15]: or is a nice choice
+[2021-04-09 16:53:27]: ***  [, Level 0]: 'HΛVΛ' entered and joined the game
