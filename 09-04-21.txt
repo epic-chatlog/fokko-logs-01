@@ -8067,3 +8067,5 @@
 [2021-04-09 12:02:00]: ***  [, Level 0]: ~~~~~~~~~~
 [2021-04-09 12:02:00]: ***  [, Level 0]: Drop money: '/money drop <amount>'
 [2021-04-09 12:02:00]: ***  [, Level 0]: Invalid whisper
+[2021-04-09 12:02:04]: |HolyHo|° [, Level 18]: Isegrin: ily *3
+[2021-04-09 12:02:09]:   [, Level 0]: Isegrin: |HolyHo|: wat
