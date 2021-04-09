@@ -11670,3 +11670,5 @@
 [2021-04-09 15:18:37]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-09 15:18:39]: any [404, Level 37]: Zephir™: tu prend le mec
 [2021-04-09 15:18:50]: any [404, Level 37]: Zephir™: 2 option
+[2021-04-09 15:18:54]: Zephir™ [, Level 39]: any: bah moi sa marche pas mdr
+[2021-04-09 15:18:59]: any [404, Level 37]: Zephir™: 1 il jump bcp
