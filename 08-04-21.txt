@@ -13455,3 +13455,4 @@
 [2021-04-08 17:56:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-08 17:58:10]: ***  [, Level 0]: 'Retard_W_Portal' has left the game
 [2021-04-08 18:00:03]: ***  [, Level 0]: 'Allah Cat' entered and joined the game
+[2021-04-08 18:01:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
