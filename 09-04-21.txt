@@ -6382,3 +6382,15 @@
 [2021-04-09 07:47:23]: Shroom [, Level 0]: ja
 [2021-04-09 07:47:26]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-09 07:47:28]: ***  [, Level 0]: 'Foxi♥' has left the game
+[2021-04-09 07:47:29]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-09 07:47:31]: bob [Legacy™, Level 36]: Shroom: can i eat u
+[2021-04-09 07:47:32]:   [, Level 0]: Shiro.: https://tornadus.net/orange
+[2021-04-09 07:47:32]: Shiro, [Whɪтє, Level 51]: https://tornadus.net/orange
+[2021-04-09 07:47:33]:   [, Level 0]: Shiro.: https://tornadus.net/orange
+[2021-04-09 07:47:34]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-09 07:47:34]: Shiro, [Whɪтє, Level 51]: https://tornadus.net/orange
+[2021-04-09 07:47:35]:   [, Level 0]: Shiro.: https://tornadus.net/orange
+[2021-04-09 07:47:36]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-09 07:47:38]: ***  [, Level 0]: Kezo is on a killing spree with 5 blocks
+[2021-04-09 07:47:38]: Shroom [, Level 0]: Shiro,:
+[2021-04-09 07:47:41]: Shroom [, Level 0]: Shiro,: fu
