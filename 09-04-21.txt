@@ -11873,3 +11873,4 @@
 [2021-04-09 15:38:12]: RM | Arin [Retard MNKY, Level 0]: sL|coffee [D]:
 [2021-04-09 15:38:14]: RM | Arin [Retard MNKY, Level 0]: german?
 [2021-04-09 15:38:22]: ☺ [, Level 5]: you saw it's a traitor
+[2021-04-09 15:38:37]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
