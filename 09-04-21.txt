@@ -7774,3 +7774,6 @@
 [2021-04-09 11:44:29]: RM|Flipper [Retard MNKY, Level 40]: are you gonna fucking help him
 [2021-04-09 11:44:35]:   [, Level 0]: iMxtteo: RM|Fearless: look
 [2021-04-09 11:44:41]:   [, Level 0]: JustRace: Hunter.exe:  yo
+[2021-04-09 11:44:45]:   [, Level 0]: JustRace: Hunter.exe:  Nightmare is helping us
+[2021-04-09 11:44:52]: ***  [, Level 0]: '(1)SAUD' has left the game
+[2021-04-09 11:44:52]: ***  [, Level 0]: 'SAUD' has left the game
