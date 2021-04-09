@@ -9573,3 +9573,7 @@
 [2021-04-09 13:06:54]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-09 13:06:56]:   [, Level 0]: ♥TAKO♥: Falco641:  not hard
 [2021-04-09 13:07:06]: BC|Tixnix [BC, Level 0]: rexi: lacer mal
+[2021-04-09 13:07:08]: Kirito [, Level 40]: Falco642: grenade upside
+[2021-04-09 13:07:10]:   [, Level 0]: ♥TAKO♥: Hunter.exe:  pls help
+[2021-04-09 13:07:18]: GODLIKe [Solo, Level 44]: Falco641: delete teeworlds
+[2021-04-09 13:07:18]: |HolyHo|° [, Level 18]: [D] Hunter.exe: smooth lmao
