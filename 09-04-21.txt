@@ -7809,3 +7809,9 @@
 [2021-04-09 11:46:38]: ES [, Level 0]: helo
 [2021-04-09 11:46:45]: ***  [, Level 0]: RM | Arin is on a killing spree with 5 blocks
 [2021-04-09 11:46:51]: BC|Tixnix [BC, Level 0]: JustRace:
+[2021-04-09 11:46:58]:   [, Level 0]: Falco642: iMxtteo: smartass
+[2021-04-09 11:47:02]:   [, Level 0]: Hunter.exe: Lucas: war4life
+[2021-04-09 11:47:02]: Lucas [THECEPS, Level 34]: Hunter.exe: ok ChillerDragon
+[2021-04-09 11:47:06]:   [, Level 0]: RM|Fearless: so bad members omg
+[2021-04-09 11:47:07]: ***  [, Level 0]: RM | Arin's killing spree was ended by Nightmare. (6 blocks)
+[2021-04-09 11:47:08]:   [, Level 0]: Falco642: iMxtteo: now you blame me?
