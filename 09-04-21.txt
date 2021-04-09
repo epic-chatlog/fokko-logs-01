@@ -7992,3 +7992,12 @@
 [2021-04-09 11:59:53]:   [, Level 0]: RM|Saud: any:
 [2021-04-09 11:59:54]: Nightmare. [, Level 0]: JustRace: me duc pe maincarft
 [2021-04-09 12:00:01]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-09 12:00:05]: JustRace [DogParty, Level 36]: cl_aimbot 0
+[2021-04-09 12:00:06]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-09 12:00:07]: (2)ChillerDrago [|*KoG*|, Level 33]: omg Kirito mach doch keine anschuldigungen und sag dann nix mehr
+[2021-04-09 12:00:08]:   [, Level 0]: S Y T H N: sL|KeBu28: biss du gores player?
+[2021-04-09 12:00:10]: JustRace [DogParty, Level 36]: cl_aimbot 0
+[2021-04-09 12:00:11]:   [, Level 0]: RM|Saud: Kirito:
+[2021-04-09 12:00:12]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-09 12:00:14]: Nightmare. [, Level 0]: JustRace: check me out check me out
+[2021-04-09 12:00:14]:   [, Level 0]: sL|KeBu28: S Y T H N: ne
