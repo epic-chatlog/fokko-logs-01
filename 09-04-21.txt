@@ -9861,3 +9861,7 @@
 [2021-04-09 13:26:23]: GODLIKe [Solo, Level 39]: hax
 [2021-04-09 13:26:26]: GODLIKe [Solo, Level 39]: (1)iMxtteo D:
 [2021-04-09 13:26:37]: GODLIKe. [Solo, Level 44]: stop
+[2021-04-09 13:26:51]: BC|Tixnix [BC, Level 0]: Hunter.exe: is fun
+[2021-04-09 13:26:53]: ***  [, Level 0]: 'PinkSupriz' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-09 13:26:54]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: iMxtteo: kek
+[2021-04-09 13:26:56]: ***  [, Level 0]: '[D] falkenauge' has left the game
