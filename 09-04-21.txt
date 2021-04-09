@@ -8577,3 +8577,4 @@
 [2021-04-09 12:23:58]: |HolyHo| [, Level 28]: Hunter.exe: i helped u to
 [2021-04-09 12:24:06]: ***  [, Level 0]: 'Jerry' has left the game
 [2021-04-09 12:24:06]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-09 12:24:19]: ***  [, Level 0]: 'Flipper' entered and joined the game
