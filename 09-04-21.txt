@@ -6230,3 +6230,6 @@
 [2021-04-09 07:40:37]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-09 07:40:38]: weqe [MNKY, Level 12]: doesnt work
 [2021-04-09 07:40:43]: ***  [, Level 0]: 'Foxie♥' entered and joined the game
+[2021-04-09 07:40:54]: ***  [, Level 0]: 'mami' entered and joined the game
+[2021-04-09 07:40:56]: ***  [, Level 0]: 'STBFreedom' has left the game
+[2021-04-09 07:40:57]: ***  [, Level 0]: 'mami' has left the game
