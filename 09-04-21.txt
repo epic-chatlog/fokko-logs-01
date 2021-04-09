@@ -8622,3 +8622,4 @@
 [2021-04-09 12:26:19]: Falco641 [.bad, Level 19]: Cylox: nothing lost
 [2021-04-09 12:26:21]:   [, Level 0]: RM|Saud: Kirito:  help these kid RM | Arin
 [2021-04-09 12:26:29]: Kirito [, Level 40]: RM|Saud: ok
+[2021-04-09 12:26:40]: Kirito [, Level 40]: (1)RM | Arin: mach clantag raus
