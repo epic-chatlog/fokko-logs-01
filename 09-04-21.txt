@@ -10540,3 +10540,6 @@
 [2021-04-09 14:05:34]: Kirito [, Level 40]: DISABLE 9
 [2021-04-09 14:05:34]: ***  [, Level 0]: 'rafel' joined the spectators
 [2021-04-09 14:05:37]: ***  [, Level 0]: 'rafel' joined the game
+[2021-04-09 14:05:52]: any [404, Level 37]: ReXi: i only accept bitches x)
+[2021-04-09 14:05:53]: ***  [, Level 0]: '(1)RM | Arin' has left the game
+[2021-04-09 14:05:54]: ***  [, Level 0]: RM | Arin's killing spree was ended by mamikral011 (5 blocks)
