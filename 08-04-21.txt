@@ -13433,3 +13433,4 @@
 [2021-04-08 17:39:48]: woona [, Level 48]: by
 [2021-04-08 17:39:50]: ***  [, Level 0]: 'JxK|JoK'Air' has left the game
 [2021-04-08 17:39:50]: ***  [, Level 0]: 'woona' has left the game
+[2021-04-08 17:41:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
