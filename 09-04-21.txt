@@ -12182,3 +12182,5 @@
 [2021-04-09 16:10:29]: klaus [DogParty, Level 40]: arin war
 [2021-04-09 16:11:35]: ***  [, Level 0]: 'yamil' joined the spectators
 [2021-04-09 16:11:37]: BULLETBOT [, Level 0]: MAN
+[2021-04-09 16:11:39]: ***  [, Level 0]: 'yamil' joined the game
+[2021-04-09 16:11:51]: ***  [, Level 0]: 'yamil' joined the spectators
