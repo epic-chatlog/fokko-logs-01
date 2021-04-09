@@ -8069,3 +8069,21 @@
 [2021-04-09 12:02:00]: ***  [, Level 0]: Invalid whisper
 [2021-04-09 12:02:04]: |HolyHo|° [, Level 18]: Isegrin: ily *3
 [2021-04-09 12:02:09]:   [, Level 0]: Isegrin: |HolyHo|: wat
+[2021-04-09 12:02:17]:   [, Level 0]: Lucas: any²: even if i didn't buy anything i wouldn't have it -_-
+[2021-04-09 12:02:17]: |HolyHo| [, Level 28]: Isegrin:  i love you <3
+[2021-04-09 12:02:20]: RM|Fearless [Retard MNKY, Level 15]: (1)Nudelsaft c::  let me out or war
+[2021-04-09 12:02:23]: ←   [, Level 0]: Swarfey: 0moneydrop
+[2021-04-09 12:02:23]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-09 12:02:23]: ***  [, Level 0]: Bank: 61439
+[2021-04-09 12:02:23]: ***  [, Level 0]: Wallet: 1361
+[2021-04-09 12:02:23]: ***  [, Level 0]: Euros: 0
+[2021-04-09 12:02:23]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-09 12:02:23]: ***  [, Level 0]: [WALLET] -2750 dropped
+[2021-04-09 12:02:23]: ***  [, Level 0]: [WALLET] -16560 dropped
+[2021-04-09 12:02:23]: ***  [, Level 0]: [WALLET] +1248 collected
+[2021-04-09 12:02:23]: ***  [, Level 0]: [BANK] +23393 automatic wallet to bank due to shutdown
+[2021-04-09 12:02:23]: ***  [, Level 0]: [WALLET] -27966 dropped
+[2021-04-09 12:02:23]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-09 12:02:23]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-09 12:02:23]: ***  [, Level 0]: Invalid whisper
+[2021-04-09 12:02:28]:   [, Level 0]: Isegrin: |HolyHo|: aa meto
