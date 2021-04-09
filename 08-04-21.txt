@@ -13359,3 +13359,10 @@
 [2021-04-08 17:16:16]: bob [Legacy™, Level 36]: dirty talk
 [2021-04-08 17:16:24]: (1)Flipper [, Level 0]: dont pls..
 [2021-04-08 17:16:24]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-08 17:16:27]: bob [Legacy™, Level 36]: do
+[2021-04-08 17:16:29]: bob [Legacy™, Level 36]: dirty talk
+[2021-04-08 17:16:30]: bob [Legacy™, Level 36]: NOW !
+[2021-04-08 17:16:34]: (1)Flipper [, Level 0]: no i..
+[2021-04-08 17:16:36]: (1)Flipper [, Level 0]: i dont..
+[2021-04-08 17:16:38]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-08 17:16:39]: (1)Flipper [, Level 0]: want to..
