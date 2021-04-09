@@ -10500,3 +10500,9 @@
 [2021-04-09 14:03:37]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-09 14:03:39]: MieSlime [FookinLads, Level 43]: Hunter.exe:  war ??????
 [2021-04-09 14:03:39]: [D] mamikral011 [DogParty, Level 26]: Hunter.exe: no help
+[2021-04-09 14:03:42]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-09 14:03:43]:   [, Level 0]: Hamster uwu: Isegrin: сам ты пизда
+[2021-04-09 14:03:48]: ***  [, Level 0]: '(1)rexi' has left the game
+[2021-04-09 14:03:48]: ***  [, Level 0]: 'rafel' joined the game
+[2021-04-09 14:03:51]: WarHammer [DogParty, Level 16]: ariiin
+[2021-04-09 14:03:52]: ***  [, Level 0]: '(1)ReXi' has left the game
