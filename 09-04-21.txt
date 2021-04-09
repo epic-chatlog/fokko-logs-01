@@ -8574,3 +8574,6 @@
 [2021-04-09 12:23:44]: |HolyHo| [, Level 28]: Hunter.exe: hellp?
 [2021-04-09 12:23:51]:   [, Level 0]: S Y T H N: got you
 [2021-04-09 12:23:51]: ***  [, Level 0]: 'ReXi' entered and joined the game
+[2021-04-09 12:23:58]: |HolyHo| [, Level 28]: Hunter.exe: i helped u to
+[2021-04-09 12:24:06]: ***  [, Level 0]: 'Jerry' has left the game
+[2021-04-09 12:24:06]: ***  [, Level 0]: 'Tom' has left the game
