@@ -7766,3 +7766,9 @@
 [2021-04-09 11:44:05]: Falco641 [.bad, Level 19]: sL|KeBu28: alright then
 [2021-04-09 11:44:11]:   [, Level 0]: iMxtteo: ChillerDragon.*:
 [2021-04-09 11:44:12]: power [TrRShClNrRs, Level 14]: yea sL|KeBu28
+[2021-04-09 11:44:23]: ***  [, Level 0]: '(8)Kirito' has left the game (Timeout Protection over)
+[2021-04-09 11:44:23]: ***  [, Level 0]: '(7)Kirito' has left the game (Timeout Protection over)
+[2021-04-09 11:44:23]: ***  [, Level 0]: '(6)Kirito' has left the game (Timeout Protection over)
+[2021-04-09 11:44:27]:   [, Level 0]: RM|Fearless: RM|Flipper:  let me spike
+[2021-04-09 11:44:28]:   [, Level 0]: iMxtteo: RM|Fearless: lol
+[2021-04-09 11:44:29]: RM|Flipper [Retard MNKY, Level 40]: are you gonna fucking help him
