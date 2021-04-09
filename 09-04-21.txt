@@ -7870,3 +7870,7 @@
 [2021-04-09 11:51:36]: ***  [, Level 0]: power2's killing spree was ended by Hunter.exe (7 blocks)
 [2021-04-09 11:51:59]: ***  [, Level 0]: 'coekie' has left the game
 [2021-04-09 11:52:14]: ***  [, Level 0]: 'RM| bob' entered and joined the game
+[2021-04-09 11:52:19]: ***  [, Level 0]: 856. Nightmare. Time: 04:57.16, requested by Nightmare.
+[2021-04-09 11:52:21]:   [, Level 0]: any²: Lucas: l2p
+[2021-04-09 11:52:21]:   [, Level 0]: power2: come
+[2021-04-09 11:52:23]: ***  [, Level 0]: '[D] RM toxicdad' has left the game
