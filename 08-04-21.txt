@@ -13397,3 +13397,5 @@
 [2021-04-08 17:20:39]: ***  [, Level 0]: 'JxK|JoK'Air' entered and joined the game
 [2021-04-08 17:20:52]: egg [DogParty, Level 0]: JoK'Air'
 [2021-04-08 17:20:55]: JxK|JoK'Air [, Level 0]: ?
+[2021-04-08 17:21:03]: egg [DogParty, Level 0]: your name is kinda gay man..
+[2021-04-08 17:21:08]: JxK|JoK'Air [, Level 0]: cool
