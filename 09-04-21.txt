@@ -10944,3 +10944,8 @@
 [2021-04-09 14:29:47]: ***  [, Level 0]: '(7)Kirito' entered and joined the game
 [2021-04-09 14:29:49]: ***  [, Level 0]: '(7)Kirito' has left the game (Timeout Protection used)
 [2021-04-09 14:29:50]: ***  [, Level 0]: 'L1P3KC' joined the spectators
+[2021-04-09 14:29:54]: ***  [, Level 0]: 'L1P3KC' joined the game
+[2021-04-09 14:29:56]: RM | Arin [Retard MNKY, Level 0]: omething who are you?
+[2021-04-09 14:29:59]: GReeeN [, Level 0]: coffee:  willst war
+[2021-04-09 14:30:01]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-09 14:30:03]: ***  [, Level 0]: 'Shiro,' entered and joined the game
