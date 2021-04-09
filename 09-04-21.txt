@@ -7201,3 +7201,6 @@
 [2021-04-09 08:20:55]: ***  [, Level 0]: '(1) el champen' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-09 08:20:59]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-09 08:21:01]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-09 08:21:17]: YelloWorlD [DogParty, Level 56]: Tziys*:
+[2021-04-09 08:21:19]: YelloWorlD [DogParty, Level 56]: iMxtteo:
+[2021-04-09 08:21:27]: CKA3A4NIK[NR] [Night Raid, Level 35]: ビール|Zero:  мать у тебя сдохла клоун
