@@ -8197,3 +8197,5 @@
 [2021-04-09 12:06:01]: RM|Flupper [, Level 6]: stop pls
 [2021-04-09 12:06:03]: ***  [, Level 0]: 'Hunter.exe' has been muted for 60 seconds
 [2021-04-09 12:06:11]: ***  [, Level 0]: 'RM toxicdaddy' entered and joined the game
+[2021-04-09 12:06:23]: (1)Nudelsaft c: [FookinLads, Level 37]: [D] RM|Fearless: now go away gay
+[2021-04-09 12:06:30]: Kirito [, Level 40]: [D] RM|Fearless: hi
