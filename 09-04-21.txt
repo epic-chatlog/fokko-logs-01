@@ -10457,3 +10457,5 @@
 [2021-04-09 14:01:42]: ***  [, Level 0]: 'rafel' joined the game
 [2021-04-09 14:01:50]: ***  [, Level 0]: 'rafel' joined the spectators
 [2021-04-09 14:01:53]: ***  [, Level 0]: 'rafel' joined the game
+[2021-04-09 14:02:03]: Isegrin [, Level 55]: any: prank
+[2021-04-09 14:02:07]: ***  [, Level 0]: 'rafel' joined the spectators
