@@ -8848,3 +8848,35 @@
 [2021-04-09 12:34:51]: (1)rayen [, Level 0]: NONONONOONON
 [2021-04-09 12:35:00]:   [, Level 0]: |HolyHo|: falkenauge: twtf
 [2021-04-09 12:35:00]: ***  [, Level 0]: 'rexi' entered and joined the game
+[2021-04-09 12:35:05]: |MıssOяchiĐ| [, Level 48]: GODLIKe: why u kill me everytime
+[2021-04-09 12:35:05]: Kirito [, Level 40]: (1)Nudelsaft c:: ich lass die hier 24/7 ja?
+[2021-04-09 12:35:08]:   [, Level 0]: mamikral011: ♥TAKO♥: aga be
+[2021-04-09 12:35:09]: ←   [, Level 0]: (1)Nudelsaft c:: 1moneydrop
+[2021-04-09 12:35:09]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-09 12:35:09]: ***  [, Level 0]: Bank: 61497
+[2021-04-09 12:35:09]: ***  [, Level 0]: Wallet: 1123
+[2021-04-09 12:35:09]: ***  [, Level 0]: Euros: 0
+[2021-04-09 12:35:09]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-09 12:35:09]: ***  [, Level 0]: [WALLET] -69 dropped
+[2021-04-09 12:35:10]: ***  [, Level 0]: [WALLET] -1340 dropped
+[2021-04-09 12:35:10]: ***  [, Level 0]: [WALLET] -2750 dropped
+[2021-04-09 12:35:10]: ***  [, Level 0]: [WALLET] -15298 dropped
+[2021-04-09 12:35:10]: ***  [, Level 0]: [WALLET] +3 collected
+[2021-04-09 12:35:10]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-09 12:35:10]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-09 12:35:10]: ***  [, Level 0]: Invalid whisper
+[2021-04-09 12:35:13]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-09 12:35:13]: ←   [, Level 0]: (1)Nudelsaft c:: 0moneydrop
+[2021-04-09 12:35:13]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-09 12:35:13]: ***  [, Level 0]: Bank: 61439
+[2021-04-09 12:35:13]: ***  [, Level 0]: Wallet: 904
+[2021-04-09 12:35:13]: ***  [, Level 0]: Euros: 0
+[2021-04-09 12:35:13]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-09 12:35:13]: ***  [, Level 0]: [WALLET] +3 collected
+[2021-04-09 12:35:13]: ***  [, Level 0]: [WALLET] +15 collected
+[2021-04-09 12:35:14]: ***  [, Level 0]: [WALLET] -1361 dropped
+[2021-04-09 12:35:14]: ***  [, Level 0]: [WALLET] -2750 dropped
+[2021-04-09 12:35:14]: ***  [, Level 0]: [WALLET] -16560 dropped
+[2021-04-09 12:35:14]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-09 12:35:14]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-09 12:35:14]: ***  [, Level 0]: Invalid whisper
