@@ -10256,3 +10256,5 @@
 [2021-04-09 13:50:48]: ***  [, Level 0]: '[D] NoobEmir' has left the game
 [2021-04-09 13:50:48]: ***  [, Level 0]: 'NoobEmir' has left the game
 [2021-04-09 13:50:54]: Isegrin [, Level 55]: Hamster uwu: debil?
+[2021-04-09 13:51:00]: ***  [, Level 0]: 'RoberGN' entered and joined the game
+[2021-04-09 13:51:01]: Hamster uwu [, Level 6]: Isegrin: sam debil yobaniy
