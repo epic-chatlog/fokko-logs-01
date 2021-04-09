@@ -7956,3 +7956,5 @@
 [2021-04-09 11:57:58]: JustRace [DogParty, Level 36]: cl_aimbot 1
 [2021-04-09 11:57:59]: JustRace [DogParty, Level 36]: cl_aimbot 0
 [2021-04-09 11:58:01]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-09 11:58:04]:   [, Level 0]: power2: Kenshi™: ??
+[2021-04-09 11:58:09]: Nightmare [, Level 27]: |HolyHo|: but.. whyyy
