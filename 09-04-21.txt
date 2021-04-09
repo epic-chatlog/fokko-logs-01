@@ -12373,3 +12373,4 @@
 [2021-04-09 16:33:54]: Hunter.exe [DogParty, Level 36]: like so
 [2021-04-09 16:34:02]: SeeYA [yeet, Level 37]: Hunter.exe: how
 [2021-04-09 16:34:14]: SeeYA [yeet, Level 37]: (1)RM | Arin: what?
+[2021-04-09 16:34:19]: Hunter.exe [DogParty, Level 36]: wait
