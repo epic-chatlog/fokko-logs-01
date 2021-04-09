@@ -6319,3 +6319,5 @@
 [2021-04-09 07:44:12]: MNKY | Arin [MNKY, Level 0]: who
 [2021-04-09 07:44:20]:   [, Level 0]: Kezo: WarHammer: vahema sesli gel
 [2021-04-09 07:44:24]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
+[2021-04-09 07:44:31]: ***  [, Level 0]: Cosmo finished in: 3 minute(s) 38.50 second(s)
+[2021-04-09 07:44:31]: ***  [, Level 0]: New record: 38.54 second(s) better.
