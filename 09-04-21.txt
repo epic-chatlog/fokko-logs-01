@@ -8242,3 +8242,11 @@
 [2021-04-09 12:08:41]: ***  [, Level 0]: '(1)RM|Saud' entered and joined the game
 [2021-04-09 12:08:42]: ***  [, Level 0]: 'Fearless' entered and joined the game
 [2021-04-09 12:08:42]: JustRace [DogParty, Level 36]: cl_aimbot 0
+[2021-04-09 12:08:43]: ***  [, Level 0]: 'Fearless' has left the game
+[2021-04-09 12:08:44]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-09 12:08:46]: ***  [, Level 0]: 'JustRace' has been muted for 60 seconds
+[2021-04-09 12:08:50]: ***  [, Level 0]: 'RM|Fearless' would have timed out, but can use timeout protection now
+[2021-04-09 12:08:50]: ***  [, Level 0]: '[D] RM|Fearless' would have timed out, but can use timeout protection now
+[2021-04-09 12:08:53]:   [, Level 0]: Falco642: Bubba :3:
+[2021-04-09 12:08:55]: ***  [, Level 0]: '(2)Zʷʰʸˀ' has left the game
+[2021-04-09 12:08:55]: ***  [, Level 0]: '(3)Zʷʰʸˀ' has left the game
