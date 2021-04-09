@@ -11249,3 +11249,7 @@
 [2021-04-09 14:47:58]: HardreenClutch [, Level 57]: coffee:  du hast mich geblockt
 [2021-04-09 14:47:58]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-09 14:48:16]: HardreenClutch [, Level 57]: coffee:  kannst nicht war sagen mich blocken und dann sagen du lässt mich
+[2021-04-09 14:48:17]: ***  [, Level 0]: 'RM|Dead Cat' has left the game
+[2021-04-09 14:48:19]: HardreenClutch [, Level 57]: coffee:  was das denn
+[2021-04-09 14:48:23]: Hunter.exe [DogParty, Level 36]: iMxtteo: er lügt
+[2021-04-09 14:48:26]: S Y T H N [DogParty, Level 37]: coffee: ahoi
