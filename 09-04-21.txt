@@ -8196,3 +8196,4 @@
 [2021-04-09 12:06:01]: ***  [, Level 0]: ### 'Hunter.exe' iMxtteo FAKER!.
 [2021-04-09 12:06:01]: RM|Flupper [, Level 6]: stop pls
 [2021-04-09 12:06:03]: ***  [, Level 0]: 'Hunter.exe' has been muted for 60 seconds
+[2021-04-09 12:06:11]: ***  [, Level 0]: 'RM toxicdaddy' entered and joined the game
