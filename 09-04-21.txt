@@ -7680,3 +7680,9 @@
 [2021-04-09 11:40:09]:   [, Level 0]: |HolyHo|: (1)kais: u war chiller?
 [2021-04-09 11:40:10]: any [404, Level 37]: Swarfey: ye
 [2021-04-09 11:40:11]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: lol:
+[2021-04-09 11:40:14]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: lolpoep:
+[2021-04-09 11:40:23]: ***  [, Level 0]: '(8)Kirito' would have timed out, but can use timeout protection now
+[2021-04-09 11:40:23]: ***  [, Level 0]: '(7)Kirito' would have timed out, but can use timeout protection now
+[2021-04-09 11:40:23]: ***  [, Level 0]: 'Kirito' has left the game (Timeout)
+[2021-04-09 11:40:23]: ***  [, Level 0]: '(6)Kirito' would have timed out, but can use timeout protection now
+[2021-04-09 11:40:25]: ***  [, Level 0]: Falco641 is on a killing spree with 5 blocks
