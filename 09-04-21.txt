@@ -12631,3 +12631,5 @@
 [2021-04-09 16:54:31]: late night [, Level 45]: nab
 [2021-04-09 16:54:39]: Flipper [, Level 15]: Kirito?
 [2021-04-09 16:54:40]: late night [, Level 45]: xDD
+[2021-04-09 16:54:43]: ***  [, Level 0]: 'EloMeno' entered and joined the game
+[2021-04-09 16:54:53]: Flipper [, Level 15]: thats my dummy
