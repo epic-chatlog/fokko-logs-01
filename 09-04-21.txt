@@ -8099,3 +8099,21 @@
 [2021-04-09 12:03:07]: JustRace [DogParty, Level 36]: cl_aimbot 1
 [2021-04-09 12:03:09]: (1)Nudelsaft c: [FookinLads, Level 37]: RM|Flipper: go away
 [2021-04-09 12:03:10]: RM|Flipper [Retard MNKY, Level 40]: pls stop
+[2021-04-09 12:03:15]: RM|Flipper [Retard MNKY, Level 40]: GIVE ME THEM AND I LEAVE WITH THEM
+[2021-04-09 12:03:17]: ←   [, Level 0]: Swarfey: 1moneydrop
+[2021-04-09 12:03:17]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-09 12:03:17]: ***  [, Level 0]: Bank: 61497
+[2021-04-09 12:03:17]: ***  [, Level 0]: Wallet: 69
+[2021-04-09 12:03:17]: ***  [, Level 0]: Euros: 0
+[2021-04-09 12:03:17]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-09 12:03:17]: ***  [, Level 0]: [WALLET] -1340 dropped
+[2021-04-09 12:03:17]: ***  [, Level 0]: [WALLET] -2750 dropped
+[2021-04-09 12:03:17]: ***  [, Level 0]: [WALLET] -15298 dropped
+[2021-04-09 12:03:17]: ***  [, Level 0]: [WALLET] +3 collected
+[2021-04-09 12:03:17]: ***  [, Level 0]: [BANK] +23394 automatic wallet to bank due to shutdown
+[2021-04-09 12:03:17]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-09 12:03:17]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-09 12:03:17]: ***  [, Level 0]: Invalid whisper
+[2021-04-09 12:03:17]: RM | Arin [Retard MNKY, Level 0]: (1)Nudelsaft c::  FUck doch net ab du ekelhafter
+[2021-04-09 12:03:19]: Nightmare. [, Level 0]: JustRace: ME DUC PE MAINCREFT
+[2021-04-09 12:03:19]: RM|Flipper [Retard MNKY, Level 40]: I DONT HAVE PORTAL HE DOES
