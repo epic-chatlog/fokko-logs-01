@@ -12152,3 +12152,6 @@
 [2021-04-09 16:08:16]: BULLETBOT [, Level 0]: oh fuck you
 [2021-04-09 16:08:17]: BULLETBOT [, Level 0]: cunt
 [2021-04-09 16:08:23]: yamil [, Level 0]: t
+[2021-04-09 16:08:37]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-09 16:08:37]: klaus [DogParty, Level 40]: help flappy z why
+[2021-04-09 16:08:39]: iMxtteo [DogParty, Level 27]: OKAY WAR AHAHAHHA
