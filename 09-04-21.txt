@@ -7913,3 +7913,6 @@
 [2021-04-09 11:55:28]: Nightmare. [, Level 0]: power2: sorry if is a mistake but idk
 [2021-04-09 11:55:29]: JustRace [DogParty, Level 36]: cl_aimbot 1
 [2021-04-09 11:55:48]: ***  [, Level 0]: 'LEPANCH' entered and joined the game
+[2021-04-09 11:55:56]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-09 11:55:57]: Nightmare. [, Level 0]: JustRace: i-ai spus lui aur?
+[2021-04-09 11:56:01]:   [, Level 0]: power2: |HolyHo|: im so disappointed in u wtf
