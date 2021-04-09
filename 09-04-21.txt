@@ -12603,3 +12603,7 @@
 [2021-04-09 16:52:59]: Kirito [, Level 40]: Flipper: chose
 [2021-04-09 16:53:01]: Kirito [, Level 40]: Flipper: choose
 [2021-04-09 16:53:02]: ☺ [, Level 6]: yessssssss
+[2021-04-09 16:53:03]: Flipper [, Level 15]: strop
+[2021-04-09 16:53:07]: Kirito [, Level 40]: Flipper: me or sythn
+[2021-04-09 16:53:11]: Flipper [, Level 15]: uh
+[2021-04-09 16:53:14]: Flipper [, Level 15]: or
