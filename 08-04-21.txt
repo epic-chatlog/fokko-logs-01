@@ -13369,3 +13369,5 @@
 [2021-04-08 17:16:40]: (1)Flipper [, Level 0]: PLS
 [2021-04-08 17:16:43]: (1)Flipper [, Level 0]: no
 [2021-04-08 17:16:44]: bob [Legacy™, Level 36]: haha
+[2021-04-08 17:16:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-08 17:17:04]: bob [Legacy™, Level 36]: HAHAH
