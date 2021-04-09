@@ -10459,3 +10459,6 @@
 [2021-04-09 14:01:53]: ***  [, Level 0]: 'rafel' joined the game
 [2021-04-09 14:02:03]: Isegrin [, Level 55]: any: prank
 [2021-04-09 14:02:07]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-09 14:02:09]: ***  [, Level 0]: 'GODLIKe' has left the game
+[2021-04-09 14:02:12]: ***  [, Level 0]: 'rafel' joined the game
+[2021-04-09 14:02:14]: ***  [, Level 0]: 'Virus' has left the game
