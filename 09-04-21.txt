@@ -12465,3 +12465,4 @@
 [2021-04-09 16:40:18]: Flipper [, Level 15]: that was the old clan
 [2021-04-09 16:40:20]: Flipper [, Level 15]: its a new one
 [2021-04-09 16:40:33]: RM| bob [MNKY, Level 36]: Flipper: ?
+[2021-04-09 16:40:36]: Flipper [, Level 15]: nvm
