@@ -10506,3 +10506,8 @@
 [2021-04-09 14:03:48]: ***  [, Level 0]: 'rafel' joined the game
 [2021-04-09 14:03:51]: WarHammer [DogParty, Level 16]: ariiin
 [2021-04-09 14:03:52]: ***  [, Level 0]: '(1)ReXi' has left the game
+[2021-04-09 14:03:57]: WarHammer [DogParty, Level 16]: ariin amınakoyim abıcım
+[2021-04-09 14:03:57]: RM | Arin [Retard MNKY, Level 0]: evet?
+[2021-04-09 14:03:59]:   [, Level 0]: mamikral011: :D
+[2021-04-09 14:04:00]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-09 14:04:03]: ***  [, Level 0]: 'GODLIKe.' has left the game (Too weak connection (not acked for 60 seconds))
