@@ -9524,3 +9524,8 @@
 [2021-04-09 13:04:19]: ***  [, Level 0]: RM| bob is on a killing spree with 5 blocks
 [2021-04-09 13:04:21]: ReXi [, Level 0]: auch nicht
 [2021-04-09 13:04:24]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: ok
+[2021-04-09 13:04:29]: ReXi [, Level 0]: warte ma
+[2021-04-09 13:04:33]: Flipper [, Level 40]: sythn
+[2021-04-09 13:04:34]: Flipper [, Level 40]: go down
+[2021-04-09 13:04:37]: ***  [, Level 0]: '(1)Sayme' entered and joined the game
+[2021-04-09 13:04:39]: ***  [, Level 0]: 'RoberGN' entered and joined the game
