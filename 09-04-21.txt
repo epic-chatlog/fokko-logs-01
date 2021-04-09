@@ -7610,3 +7610,7 @@
 [2021-04-09 11:36:16]: ***  [, Level 0]: 'mami' has left the game
 [2021-04-09 11:36:20]:   [, Level 0]: Falco642: falkenauge: you got to be kidding me
 [2021-04-09 11:36:21]: ***  [, Level 0]: 'mami' entered and joined the game
+[2021-04-09 11:36:26]: ***  [, Level 0]: '(3)soleri1' has left the game
+[2021-04-09 11:36:27]: (1)ChillerDrago [Chilli.*, Level 33]: ye Tixnix
+[2021-04-09 11:36:27]:   [, Level 0]: power: iMxtteo: mate i was always nice to you, ull lose my respect
+[2021-04-09 11:36:32]: ***  [, Level 0]: ChillerDragon.*'s killing spree was ended by iMxtteo (7 blocks)
