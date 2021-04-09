@@ -13415,3 +13415,4 @@
 [2021-04-08 17:26:47]: σмєтнιηg [zε†α, Level 0]: jokr
 [2021-04-08 17:26:50]: σмєтнιηg [zε†α, Level 0]: go left
 [2021-04-08 17:26:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-08 17:31:59]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
