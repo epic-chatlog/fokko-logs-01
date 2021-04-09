@@ -12684,3 +12684,5 @@
 [2021-04-09 16:57:53]: ***  [, Level 0]: 'sharkz' changed name to 'poop smoke'
 [2021-04-09 16:58:12]: (1)Zʷʰʸˀ [NULL, Level 35]: Kirito: 9 a superroom was not supposed to hit u.. i even stopped the moment u asked me
 [2021-04-09 16:58:25]: Kirito [, Level 40]: Zʷʰʸˀ: oh yeah didnt know that
+[2021-04-09 16:58:37]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-09 16:58:37]: Kirito [, Level 40]: Zʷʰʸˀ: but u fucked me in my plot that was so annoying
