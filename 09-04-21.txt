@@ -6233,3 +6233,6 @@
 [2021-04-09 07:40:54]: ***  [, Level 0]: 'mami' entered and joined the game
 [2021-04-09 07:40:56]: ***  [, Level 0]: 'STBFreedom' has left the game
 [2021-04-09 07:40:57]: ***  [, Level 0]: 'mami' has left the game
+[2021-04-09 07:41:01]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-09 07:41:02]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-09 07:41:06]:   [, Level 0]: Foxie♥: Kirito: HOW
