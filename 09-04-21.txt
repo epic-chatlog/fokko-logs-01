@@ -6566,3 +6566,8 @@
 [2021-04-09 07:54:38]:   [, Level 0]: MNKY | Arin: du meinst bei den spikes?
 [2021-04-09 07:54:42]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
 [2021-04-09 07:54:49]: ***  [, Level 0]: 'GOLD' entered and joined the game
+[2021-04-09 07:54:51]: bob [Legacy™, Level 36]: ja
+[2021-04-09 07:54:52]: ***  [, Level 0]: 'hhnaut31' entered and joined the game
+[2021-04-09 07:54:56]:   [, Level 0]: MNKY | Arin: braucht man dafür jetpack?
+[2021-04-09 07:54:58]: ***  [, Level 0]: '(1)WarHammer' entered and joined the game
+[2021-04-09 07:55:00]: ***  [, Level 0]: 'Shroom' has left the game
