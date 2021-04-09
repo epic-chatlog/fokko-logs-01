@@ -9964,3 +9964,4 @@
 [2021-04-09 13:34:50]: GODLIKe [Solo, Level 39]: (1) Hunter.exe: (1)|HolyHo|° helper
 [2021-04-09 13:34:52]:   [, Level 0]: (1)|HolyHo|°: GODLIKe: no i hellup
 [2021-04-09 13:34:57]: GODLIKe [Solo, Level 39]: ~DemoizL~: war
+[2021-04-09 13:35:04]:   [, Level 0]: (1)|HolyHo|°: ~DemoizL~: war
