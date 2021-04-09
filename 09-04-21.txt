@@ -10199,3 +10199,8 @@
 [2021-04-09 13:48:24]: Hunter.exe [DogParty, Level 36]: S Y T H N: diskutiert er mit dir?
 [2021-04-09 13:48:25]: iMxtteo [DogParty, Level 27]: S Y T H N: sry ich lagge
 [2021-04-09 13:48:26]: Falco641 [.bad, Level 19]: RoberGN: stop hammering everyone
+[2021-04-09 13:48:32]: ***  [, Level 0]: 'Isegrin' entered and joined the game
+[2021-04-09 13:48:32]: ***  [, Level 0]: 'Zephir™' entered and joined the game
+[2021-04-09 13:48:34]: S Y T H N [DogParty, Level 37]: Hunter.exe: na aber versucht mich zukillen hahaha
+[2021-04-09 13:48:37]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-09 13:48:43]: ***  [, Level 0]: Hunter.exe is on a killing spree with 5 blocks
