@@ -10444,3 +10444,9 @@
 [2021-04-09 14:01:08]: ***  [, Level 0]: 'rafel' joined the spectators
 [2021-04-09 14:01:11]: WarHammer [DogParty, Level 16]: mamikral011:  klan ismini gir ozmn
 [2021-04-09 14:01:14]: ***  [, Level 0]: 'rafel' joined the game
+[2021-04-09 14:01:18]: ***  [, Level 0]: 'Virus' entered and joined the game
+[2021-04-09 14:01:19]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
+[2021-04-09 14:01:20]:   [, Level 0]: fotze: Isegrin: hahahhahaha
+[2021-04-09 14:01:22]: ***  [, Level 0]: '(1)|HolyHo|°' would have timed out, but can use timeout protection now
+[2021-04-09 14:01:22]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-09 14:01:26]: ***  [, Level 0]: 'rafel' joined the game
