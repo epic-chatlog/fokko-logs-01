@@ -8231,3 +8231,7 @@
 [2021-04-09 12:08:09]: ***  [, Level 0]: 'Axel' entered and joined the game
 [2021-04-09 12:08:12]: ***  [, Level 0]: '(1)rayen' entered and joined the game
 [2021-04-09 12:08:16]: (1)Nudelsaft c: [FookinLads, Level 37]: look
+[2021-04-09 12:08:18]: (1)Nudelsaft c: [FookinLads, Level 37]: its that easy
+[2021-04-09 12:08:20]: (1)Nudelsaft c: [FookinLads, Level 37]: just go right
+[2021-04-09 12:08:23]: power [TrRShClNrRs, Level 15]: JustRace: whats ur prob mate
+[2021-04-09 12:08:27]: RM|Flipper [Retard MNKY, Level 40]: XDD
