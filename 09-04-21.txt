@@ -10244,3 +10244,7 @@
 [2021-04-09 13:50:22]:   [, Level 0]: YelloWorlD: RM | Arin: what ez
 [2021-04-09 13:50:22]: Hamster uwu [, Level 6]: Isegrin: change nick
 [2021-04-09 13:50:26]:   [, Level 0]: Isegrin: Hamster uwu: who are u
+[2021-04-09 13:50:29]: Hamster uwu [, Level 6]: Isegrin: yes
+[2021-04-09 13:50:29]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-09 13:50:37]: Isegrin [, Level 55]: Hamster uwu: what was ur last nickname
+[2021-04-09 13:50:42]:   [, Level 0]: |MıssOяchiĐ|: need dummy to rest alive
