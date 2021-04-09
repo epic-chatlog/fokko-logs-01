@@ -7592,3 +7592,6 @@
 [2021-04-09 11:35:30]: |MıssOяchiĐ| [, Level 48]: kais
 [2021-04-09 11:35:31]: ***  [, Level 0]: ### 'Hunter.exe' eZzzzzzzzzz.
 [2021-04-09 11:35:32]: ***  [, Level 0]: ### 'Hunter.exe' eZzzzzzzzzz
+[2021-04-09 11:35:32]: |MıssOяchiĐ| [, Level 48]: KAIS
+[2021-04-09 11:35:33]: ***  [, Level 0]: ### 'Hunter.exe' eZzzzzzzzzz.
+[2021-04-09 11:35:35]: ***  [, Level 0]: ### 'Hunter.exe' eZzzzzzzzzz
