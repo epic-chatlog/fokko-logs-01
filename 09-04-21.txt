@@ -12375,3 +12375,4 @@
 [2021-04-09 16:34:14]: SeeYA [yeet, Level 37]: (1)RM | Arin: what?
 [2021-04-09 16:34:19]: Hunter.exe [DogParty, Level 36]: wait
 [2021-04-09 16:34:39]: SeeYA [yeet, Level 37]: Hunter.exe: ye or no
+[2021-04-09 16:34:44]: Hunter.exe [DogParty, Level 36]: 1min wait
