@@ -10607,3 +10607,7 @@
 [2021-04-09 14:08:37]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-09 14:08:40]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
 [2021-04-09 14:08:56]: ***  [, Level 0]: 'fitz' has left the game
+[2021-04-09 14:09:06]: RM | Arin [Retard MNKY, Level 0]: smile
+[2021-04-09 14:09:07]: RM | Arin [Retard MNKY, Level 0]: war4life
+[2021-04-09 14:09:08]: ***  [, Level 0]: '(1)RM | Arin' has left the game
+[2021-04-09 14:09:09]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
