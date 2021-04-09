@@ -10450,3 +10450,7 @@
 [2021-04-09 14:01:22]: ***  [, Level 0]: '(1)|HolyHo|°' would have timed out, but can use timeout protection now
 [2021-04-09 14:01:22]: ***  [, Level 0]: 'rafel' joined the spectators
 [2021-04-09 14:01:26]: ***  [, Level 0]: 'rafel' joined the game
+[2021-04-09 14:01:29]:   [, Level 0]: [D] mamikral011: çıkmadık
+[2021-04-09 14:01:35]: ***  [, Level 0]: 'GOLD' has left the game
+[2021-04-09 14:01:35]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-09 14:01:39]: ***  [, Level 0]: 'rafel' joined the spectators
