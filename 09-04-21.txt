@@ -10454,3 +10454,6 @@
 [2021-04-09 14:01:35]: ***  [, Level 0]: 'GOLD' has left the game
 [2021-04-09 14:01:35]: ***  [, Level 0]: 'YelloWorlD' has left the game
 [2021-04-09 14:01:39]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-09 14:01:42]: ***  [, Level 0]: 'rafel' joined the game
+[2021-04-09 14:01:50]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-09 14:01:53]: ***  [, Level 0]: 'rafel' joined the game
