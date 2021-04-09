@@ -13250,3 +13250,6 @@
 [2021-04-08 17:06:59]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-08 17:07:16]: ᅟᅟᅟ [, Level 40]: ok fine
 [2021-04-08 17:07:18]: ᅟᅟᅟ [, Level 40]: search up
+[2021-04-08 17:07:24]: ᅟᅟᅟ [, Level 40]: dirtydoglinks.com
+[2021-04-08 17:07:31]: bob [Legacy™, Level 36]: no
+[2021-04-08 17:07:33]: bob [Legacy™, Level 36]: sounds bad
