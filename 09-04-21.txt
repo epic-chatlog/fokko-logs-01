@@ -8235,3 +8235,10 @@
 [2021-04-09 12:08:20]: (1)Nudelsaft c: [FookinLads, Level 37]: just go right
 [2021-04-09 12:08:23]: power [TrRShClNrRs, Level 15]: JustRace: whats ur prob mate
 [2021-04-09 12:08:27]: RM|Flipper [Retard MNKY, Level 40]: XDD
+[2021-04-09 12:08:34]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-09 12:08:36]: JustRace [DogParty, Level 36]: cl_aimbot 0
+[2021-04-09 12:08:37]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-09 12:08:38]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-09 12:08:41]: ***  [, Level 0]: '(1)RM|Saud' entered and joined the game
+[2021-04-09 12:08:42]: ***  [, Level 0]: 'Fearless' entered and joined the game
+[2021-04-09 12:08:42]: JustRace [DogParty, Level 36]: cl_aimbot 0
