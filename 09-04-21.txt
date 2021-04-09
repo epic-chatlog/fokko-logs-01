@@ -9676,3 +9676,11 @@
 [2021-04-09 13:12:18]: ***  [, Level 0]: '(1)|HolyHo|' entered and joined the game
 [2021-04-09 13:12:19]: (1)rayen [, Level 0]: S Y T H N: pls
 [2021-04-09 13:12:33]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: Shiro.: this is a noobie ♥TAKO♥
+[2021-04-09 13:12:35]: rexi [, Level 0]: wieso
+[2021-04-09 13:12:41]: Shiro. [Whɪтє, Level 42]: WAT
+[2021-04-09 13:12:42]: ***  [, Level 0]: '(3)soleri1' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-09 13:12:42]: ***  [, Level 0]: '(1)soleri1' has left the game (Timeout)
+[2021-04-09 13:12:42]: ***  [, Level 0]: '(2)soleri1' has left the game (Timeout)
+[2021-04-09 13:12:42]: ***  [, Level 0]: 'soleri1' has left the game (Timeout)
+[2021-04-09 13:12:43]: Shiro. [Whɪтє, Level 42]: no kimp :(
+[2021-04-09 13:12:45]: Shiro. [Whɪтє, Level 42]: jump*
