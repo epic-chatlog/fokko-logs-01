@@ -11798,3 +11798,7 @@
 [2021-04-09 15:30:10]: ***  [, Level 0]: 'jcanela2022' entered and joined the game
 [2021-04-09 15:30:13]: cunt [, Level 0]: coffee: jaaa
 [2021-04-09 15:30:42]: coffee [SkinLover, Level 25]: cunt: sie hatte immer mit fidrage streit
+[2021-04-09 15:30:59]: ***  [, Level 0]: 'any²' has left the game (Timeout)
+[2021-04-09 15:30:59]: ***  [, Level 0]: 'any' has left the game (Timeout)
+[2021-04-09 15:31:00]: Flipper [, Level 15]: sythn
+[2021-04-09 15:31:01]: Flipper [, Level 15]: dc
