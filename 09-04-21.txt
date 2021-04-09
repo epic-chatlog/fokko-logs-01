@@ -11996,3 +11996,4 @@
 [2021-04-09 15:51:10]: ☺ [, Level 5]: BULLETBOT: ?
 [2021-04-09 15:52:08]: BULLETBOT [, Level 0]: xd
 [2021-04-09 15:52:53]: jcanela2022 [, Level 0]: kys
+[2021-04-09 15:53:37]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
