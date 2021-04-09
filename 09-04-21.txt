@@ -10265,3 +10265,7 @@
 [2021-04-09 13:51:28]:   [, Level 0]: prankstar: Isegrin: oh no
 [2021-04-09 13:51:32]:   [, Level 0]: prankstar: Isegrin: its polackenmän
 [2021-04-09 13:51:34]: ***  [, Level 0]: '[D] RM toxicdad' entered and joined the game
+[2021-04-09 13:51:38]: Isegrin [, Level 55]: prankstar: jawohl
+[2021-04-09 13:51:42]: GODLIKe. [Solo, Level 44]: FPS 0
+[2021-04-09 13:51:44]: GODLIKe. [Solo, Level 44]: WAİT
+[2021-04-09 13:51:45]: ***  [, Level 0]: 'fitz' has left the game
