@@ -8880,3 +8880,13 @@
 [2021-04-09 12:35:14]: ***  [, Level 0]: ~~~~~~~~~~
 [2021-04-09 12:35:14]: ***  [, Level 0]: Drop money: '/money drop <amount>'
 [2021-04-09 12:35:14]: ***  [, Level 0]: Invalid whisper
+[2021-04-09 12:35:15]: (1)Nudelsaft c: [FookinLads, Level 37]: Kirito: jo
+[2021-04-09 12:35:15]: Falco641 [.bad, Level 19]: (1)rayen: where
+[2021-04-09 12:35:15]:   [, Level 0]: |HolyHo|: S Y T H N  HELP <
+[2021-04-09 12:35:17]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-09 12:35:17]:   [, Level 0]: Bubba :3: stop
+[2021-04-09 12:35:18]: S Y T H N [DogParty, Level 0]: falkenauge: was du nicht die pussy  die mich aus fng rauskicken wollte
+[2021-04-09 12:35:22]: S Y T H N [DogParty, Level 0]: wtf
+[2021-04-09 12:35:23]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
+[2021-04-09 12:35:25]: ***  [, Level 0]: 'BC|kakashi' joined the spectators
+[2021-04-09 12:35:25]: ***  [, Level 0]: 'Axel' changed name to 'Hamster uwu'
