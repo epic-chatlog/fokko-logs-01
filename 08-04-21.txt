@@ -13459,3 +13459,4 @@
 [2021-04-08 18:05:44]: ***  [, Level 0]: 'mo7mad iraqi' entered and joined the game
 [2021-04-08 18:06:10]: ***  [, Level 0]: 'mo7mad iraqi' has left the game
 [2021-04-08 18:06:59]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-08 18:11:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
