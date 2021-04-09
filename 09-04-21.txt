@@ -12172,3 +12172,8 @@
 [2021-04-09 16:09:33]: klaus [DogParty, Level 40]: wtf
 [2021-04-09 16:09:51]: klaus [DogParty, Level 40]: ZEPHIR
 [2021-04-09 16:09:54]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-09 16:09:59]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-09 16:10:08]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-09 16:10:09]: klaus [DogParty, Level 40]: eocket pls
+[2021-04-09 16:10:11]: klaus [DogParty, Level 40]: rocket
+[2021-04-09 16:10:12]: ***  [, Level 0]: 'nameless tee' joined the game
