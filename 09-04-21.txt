@@ -8010,3 +8010,5 @@
 [2021-04-09 12:00:32]: Kirito [, Level 40]: ChillerDragon.*: ja alles gut dachte du willst mir ned helfen
 [2021-04-09 12:00:36]: Nightmare. [, Level 0]: JustRace: fii antena
 [2021-04-09 12:00:36]: ***  [, Level 0]: 'hatHCHecks' has left the game
+[2021-04-09 12:00:43]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-09 12:00:46]: JustRace [DogParty, Level 36]: ez
