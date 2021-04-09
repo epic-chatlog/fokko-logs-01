@@ -12184,3 +12184,7 @@
 [2021-04-09 16:11:37]: BULLETBOT [, Level 0]: MAN
 [2021-04-09 16:11:39]: ***  [, Level 0]: 'yamil' joined the game
 [2021-04-09 16:11:51]: ***  [, Level 0]: 'yamil' joined the spectators
+[2021-04-09 16:11:52]: Flipper [, Level 15]: AHAHAH
+[2021-04-09 16:11:55]: ***  [, Level 0]: 'yamil' joined the game
+[2021-04-09 16:11:57]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-09 16:12:04]: ***  [, Level 0]: 'yamil' has left the game
