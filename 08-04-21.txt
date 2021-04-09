@@ -13457,3 +13457,4 @@
 [2021-04-08 18:00:03]: ***  [, Level 0]: 'Allah Cat' entered and joined the game
 [2021-04-08 18:01:59]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-08 18:05:44]: ***  [, Level 0]: 'mo7mad iraqi' entered and joined the game
+[2021-04-08 18:06:10]: ***  [, Level 0]: 'mo7mad iraqi' has left the game
