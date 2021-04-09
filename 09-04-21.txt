@@ -7807,3 +7807,5 @@
 [2021-04-09 11:46:30]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
 [2021-04-09 11:46:37]: Falco641 [.bad, Level 19]: Ffffffff
 [2021-04-09 11:46:38]: ES [, Level 0]: helo
+[2021-04-09 11:46:45]: ***  [, Level 0]: RM | Arin is on a killing spree with 5 blocks
+[2021-04-09 11:46:51]: BC|Tixnix [BC, Level 0]: JustRace:
