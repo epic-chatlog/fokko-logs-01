@@ -10416,3 +10416,7 @@
 [2021-04-09 14:00:01]: ***  [, Level 0]: 'rafel' joined the game
 [2021-04-09 14:00:03]: Isegrin [, Level 55]: YelloWorlD: PRANK MEIN BRUDER
 [2021-04-09 14:00:07]: GOLD [404, Level 40]: Isegrin: stfu
+[2021-04-09 14:00:13]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-09 14:00:13]: Isegrin [, Level 55]: GOLD: nein
+[2021-04-09 14:00:14]: WarHammer [DogParty, Level 16]: xd
+[2021-04-09 14:00:16]: ***  [, Level 0]: 'rafel' joined the game
