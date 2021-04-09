@@ -12106,3 +12106,7 @@
 [2021-04-09 16:05:31]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-09 16:05:33]: (2)Zʷʰʸˀ [NULL, Level 25]: Zephir™: why do u want to attack me if i attack others?
 [2021-04-09 16:05:35]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-09 16:05:43]: Flipper [, Level 15]: demoiz
+[2021-04-09 16:05:43]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-09 16:05:47]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-09 16:05:51]: Zephir™ [, Level 39]: Zʷʰʸˀ: that my best friend here, idc the rest
