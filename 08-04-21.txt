@@ -13187,3 +13187,7 @@
 [2021-04-08 17:01:37]: bob [Legacy™, Level 36]: ok
 [2021-04-08 17:01:41]: Fearless [DogParty, Level 15]: bob:  only monke ass
 [2021-04-08 17:01:41]: (1)Flipper [, Level 0]: 911
+[2021-04-08 17:01:51]: bob [Legacy™, Level 36]: ur ass virgin?
+[2021-04-08 17:01:55]: Fearless [DogParty, Level 15]: no
+[2021-04-08 17:01:59]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-08 17:01:59]: (1)Flipper [, Level 0]: 511
