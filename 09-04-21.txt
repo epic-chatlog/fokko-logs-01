@@ -11952,3 +11952,5 @@
 [2021-04-09 15:45:38]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
 [2021-04-09 15:45:39]: iMxtteo [DogParty, Level 27]: wtf
 [2021-04-09 15:45:39]: ***  [, Level 0]: '(1)RM | Arin' has left the game
+[2021-04-09 15:45:48]: ***  [, Level 0]: '[D] NoobEmir' changed name to 'NoobEmir.*'
+[2021-04-09 15:45:57]: нυƨнıκε [zε†α, Level 37]: iMxtteo: help
