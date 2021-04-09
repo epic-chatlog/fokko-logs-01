@@ -12609,3 +12609,6 @@
 [2021-04-09 16:53:14]: Flipper [, Level 15]: or
 [2021-04-09 16:53:19]: Flipper [, Level 15]: or is a nice choice
 [2021-04-09 16:53:27]: ***  [, Level 0]: 'HΛVΛ' entered and joined the game
+[2021-04-09 16:53:29]: Flipper [, Level 15]: "me OR sythn
+[2021-04-09 16:53:37]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-09 16:53:38]: ♥TAKO♥ [DogParty, Level 25]: klaus:  hehehe
