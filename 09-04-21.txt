@@ -12070,3 +12070,8 @@
 [2021-04-09 16:02:22]: iMxtteo [DogParty, Level 27]: BULLETBOT: i did nothing to you and you are shooting me
 [2021-04-09 16:02:26]: (2)Zʷʰʸˀ [NULL, Level 25]: Zephir™: who?
 [2021-04-09 16:02:28]: BULLETBOT [, Level 0]: iMxtteo: yeah, its fun?
+[2021-04-09 16:02:43]: ***  [, Level 0]: 'Hunter.exe' would have timed out, but can use timeout protection now
+[2021-04-09 16:02:43]: ***  [, Level 0]: '[D] Hunter.exe' would have timed out, but can use timeout protection now
+[2021-04-09 16:02:43]: ***  [, Level 0]: '(1) Hunter.exe' has left the game (Timeout)
+[2021-04-09 16:02:43]: ***  [, Level 0]: '(1)[D] Hunter.ex' has left the game (Timeout)
+[2021-04-09 16:02:50]: Zephir™ [, Level 39]: Zʷʰʸˀ: any, what ever if u continue attack him u gona have war with error
