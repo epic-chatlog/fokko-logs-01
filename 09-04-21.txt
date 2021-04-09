@@ -6224,3 +6224,9 @@
 [2021-04-09 07:40:25]: bob [Legacy™, Level 36]: i think
 [2021-04-09 07:40:25]: ***  [, Level 0]: '(1)Cosmo' entered and joined the game
 [2021-04-09 07:40:26]: MNKY | Arin [MNKY, Level 0]: xD
+[2021-04-09 07:40:33]: weqe [MNKY, Level 12]: ok bob come close
+[2021-04-09 07:40:35]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-09 07:40:35]: ***  [, Level 0]: 'STBFreedom' entered and joined the game
+[2021-04-09 07:40:37]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-09 07:40:38]: weqe [MNKY, Level 12]: doesnt work
+[2021-04-09 07:40:43]: ***  [, Level 0]: 'Foxie♥' entered and joined the game
