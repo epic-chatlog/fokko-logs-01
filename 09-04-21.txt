@@ -12544,3 +12544,4 @@
 [2021-04-09 16:47:34]: ***  [, Level 0]: 'sharkz' entered and joined the game
 [2021-04-09 16:47:37]: ***  [, Level 0]: 'RM| bob' has left the game
 [2021-04-09 16:47:42]: ☺ [, Level 6]: [D] ♥TAKO♥: reset
+[2021-04-09 16:48:11]: klaus [DogParty, Level 40]: kirito we good?
