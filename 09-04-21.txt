@@ -11200,3 +11200,5 @@
 [2021-04-09 14:44:12]: RM| bob [MNKY, Level 36]: hjHAHAHAH
 [2021-04-09 14:44:20]: any [404, Level 37]: ok Zephir™
 [2021-04-09 14:44:24]: ♥TAKO♥ [DogParty, Level 25]: aaaaaaaaaaaaaa
+[2021-04-09 14:44:41]: ***  [, Level 0]: 'hhh3 [f-client]' entered and joined the game
+[2021-04-09 14:44:46]: ***  [, Level 0]: 'hhh3 [f-client]' has left the game
