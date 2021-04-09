@@ -8487,3 +8487,5 @@
 [2021-04-09 12:19:35]: ***  [, Level 0]: 'Cylox' left the minigame 'Survival'
 [2021-04-09 12:19:38]:   [, Level 0]: Isegrin: Shiro.: u niga
 [2021-04-09 12:19:45]: ***  [, Level 0]: 'RM|Flipper' entered and joined the game
+[2021-04-09 12:19:49]:   [, Level 0]: Shiro.: https://tornadus.net/orange
+[2021-04-09 12:19:52]:   [, Level 0]: RM|Flipper: FUCKING TIMEOUT
