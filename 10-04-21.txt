@@ -11886,3 +11886,5 @@
 [2021-04-10 15:35:29]: Zephir™ [, Level 39]: Hunter.exe: u give up ?
 [2021-04-10 15:36:16]: ReXi [, Level 0]: iMxtteo: wie lange spielst du schon
 [2021-04-10 15:36:31]: iMxtteo [DogParty, Level 27]: ReXi: glaube so ungefähr ein jahr
+[2021-04-10 15:36:44]: ReXi [, Level 0]: iMxtteo: krass
+[2021-04-10 15:36:47]: iMxtteo [DogParty, Level 27]: wieso
