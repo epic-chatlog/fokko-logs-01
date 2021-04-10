@@ -9091,3 +9091,6 @@
 [2021-04-10 11:12:16]: [D] El patron [, Level 0]: Kirito:  do you have war with monkey clan
 [2021-04-10 11:12:18]: ***  [, Level 0]: Rem's dummy finished in: 3 minute(s)  2.00 second(s)
 [2021-04-10 11:12:21]: Kirito [, Level 40]: El patron: nah
+[2021-04-10 11:12:24]: Kirito [, Level 40]: El patron: only some gays
+[2021-04-10 11:12:27]: ***  [, Level 0]: 'sleimi' joined the spectators
+[2021-04-10 11:12:27]: [D] El patron [, Level 0]: Kirito: ok
