@@ -10971,3 +10971,7 @@
 [2021-04-10 14:01:47]: ***  [, Level 0]: '(1)iMxtteo' entered and joined the game
 [2021-04-10 14:01:48]: Flipper [, Level 15]: yes
 [2021-04-10 14:01:57]: ***  [, Level 0]: '(1)iMxtteo D' entered and joined the game
+[2021-04-10 14:02:08]: \\Syth [, Level 30]: power: 3
+[2021-04-10 14:02:09]: \\Syth [, Level 30]: power: 2
+[2021-04-10 14:02:11]: \\Syth [, Level 30]: power: 1
+[2021-04-10 14:02:15]: \\Syth [, Level 30]: power: war
