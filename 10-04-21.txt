@@ -2858,3 +2858,5 @@
 [2021-04-10 04:32:37]: No game [Just me, Level 40]: FUCK
 [2021-04-10 04:32:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-10 04:32:52]: ***  [, Level 0]: '(2)nameless tee' entered and joined the game
+[2021-04-10 04:33:00]: ***  [, Level 0]: '(1)nameless tee' has left the game
+[2021-04-10 04:33:04]: ***  [, Level 0]: 'Mass' entered and joined the game
