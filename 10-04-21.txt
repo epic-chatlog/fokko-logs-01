@@ -11812,3 +11812,5 @@
 [2021-04-10 15:26:21]: ***  [, Level 0]: 'FlipLow' has left the game
 [2021-04-10 15:26:23]: Hunter.exe [DogParty, Level 36]: ich sage das meine lehrerin
 [2021-04-10 15:26:25]: nameless tee [, Level 0]: what do I need to do here?
+[2021-04-10 15:26:31]: nameless tee [, Level 0]: first time on this server
+[2021-04-10 15:26:33]: ReXi [, Level 0]: Hunter.exe: alle sind lukasse
