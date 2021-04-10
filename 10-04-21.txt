@@ -10438,3 +10438,5 @@
 [2021-04-10 12:54:45]: WarHammer [DogParty, Level 26]: OOF LAG
 [2021-04-10 12:54:46]: ***  [, Level 0]: 'HardreenClutch' has left the game
 [2021-04-10 12:54:46]: ***  [, Level 0]: 'GReeeN' has left the game
+[2021-04-10 12:55:08]: ***  [, Level 0]: '(3)cookie' has left the game
+[2021-04-10 12:55:10]:   [, Level 0]: Shiro.: rqq
