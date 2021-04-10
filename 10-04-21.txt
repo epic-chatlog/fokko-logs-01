@@ -7687,3 +7687,5 @@
 [2021-04-10 09:36:56]: HardreenClutch [, Level 57]: ERROR:
 [2021-04-10 09:36:59]: ***  [, Level 0]: 'MieSlime' has left the game
 [2021-04-10 09:37:01]: HardreenClutch [, Level 57]: send help xD
+[2021-04-10 09:37:11]: Night Team :D [TrRShClNrRs, Level 20]: Axel:  inf jumps
+[2021-04-10 09:37:20]: Axel [TrRShClNrRs, Level 30]: Night Team :D: less go
