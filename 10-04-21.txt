@@ -552,3 +552,6 @@
 [2021-04-10 01:28:48]: ***  [, Level 0]: (2)ChillerDragon is on a killing spree with 20 blocks
 [2021-04-10 01:29:12]: ***  [, Level 0]: 'comic' has left the game (Timeout)
 [2021-04-10 01:29:15]: kais [, Level 65]: RM|Saud: ahahaha u can't even beat flappy
+[2021-04-10 01:29:24]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-10 01:29:30]: (2)ChillerDrago [Chilli.*, Level 34]: a zoom
+[2021-04-10 01:29:33]: RM|Saud [Retard MNKY, Level 19]: i beat u kais
