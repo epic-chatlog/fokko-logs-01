@@ -10180,3 +10180,7 @@
 [2021-04-10 12:34:13]: ***  [, Level 0]: 'Shiro.' entered and joined the game
 [2021-04-10 12:34:16]:   [, Level 0]: Shiro.: MEN
 [2021-04-10 12:34:20]:   [, Level 0]: Shiro.: WHOS ON MY ACC BITCH
+[2021-04-10 12:34:36]: ERROR. [404, Level 56]: good night
+[2021-04-10 12:34:39]: YelloWorlD [DogParty, Level 37]: gn
+[2021-04-10 12:34:39]: Hunter.exe [DogParty, Level 36]: gn
+[2021-04-10 12:34:40]:   [, Level 0]: Shiro.: bad night
