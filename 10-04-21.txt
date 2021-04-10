@@ -281,3 +281,5 @@
 [2021-04-10 00:52:46]: ChillerDragon.* [Chilli.*, Level 42]: von hammer
 [2021-04-10 00:52:52]: Swarfey [FookinLads, Level 0]: drücke 2
 [2021-04-10 00:52:54]: ChillerDragon.* [Chilli.*, Level 42]: brain
+[2021-04-10 00:53:02]: ChillerDragon.* [Chilli.*, Level 42]: aber 2 is dummy copy moves
+[2021-04-10 00:53:11]: Swarfey [FookinLads, Level 0]: bei mir ists n
