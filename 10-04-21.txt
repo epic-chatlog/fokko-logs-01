@@ -10981,3 +10981,5 @@
 [2021-04-10 14:02:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-10 14:02:45]: power [TrRShClNrRs, Level 0]: ? \\Syth will u not try to kill me anymore?
 [2021-04-10 14:03:08]: ***  [, Level 0]: 'Nidardo.' entered and joined the game
+[2021-04-10 14:03:18]: Flipper [, Level 15]: power: so bad man
+[2021-04-10 14:03:22]: power [TrRShClNrRs, Level 0]: Flipper: ?xD
