@@ -8098,3 +8098,4 @@
 [2021-04-10 10:10:19]: ***  [, Level 0]: '.S L E E P Y'' has left the game
 [2021-04-10 10:10:23]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
 [2021-04-10 10:10:35]: ***  [, Level 0]: 'Lebly' entered and joined the game
+[2021-04-10 10:10:45]: ERROR. [404, Level 56]: yo lebly
