@@ -3216,3 +3216,10 @@
 [2021-04-10 04:56:38]: HeavyGeneral [FookinLads, Level 44]: fat
 [2021-04-10 04:56:42]: bob weqe fan [Ape, Level 0]: WY JOU KILL %E
 [2021-04-10 04:56:45]: Kezo [DogParty, Level 41]: WarHammer: zaten ölmemişsin ?
+[2021-04-10 04:56:50]: ***  [, Level 0]: 'Nudelsaft c:' changed name to 'Nudelsaft c:"'
+[2021-04-10 04:56:51]:   [, Level 0]: Swarfey: a
+[2021-04-10 04:56:53]: ***  [, Level 0]: 'Django' entered and joined the game
+[2021-04-10 04:56:53]: WarHammer [DogParty, Level 0]: Kezo:  YOK YARDIM EDİMMİ DEDİM SANA
+[2021-04-10 04:56:59]: ***  [, Level 0]: 'Nudelsaft c:"' changed name to 'Nudelsaft c:\"'
+[2021-04-10 04:57:01]: ***  [, Level 0]: brainless tee's killing spree was ended by ZEUS (8 blocks)
+[2021-04-10 04:57:01]: Kezo [DogParty, Level 41]: WarHammer: he gerek yokk
