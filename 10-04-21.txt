@@ -2203,3 +2203,6 @@
 [2021-04-10 03:48:40]: ***  [, Level 0]: New record: 1 minute(s) 14.98 second(s) better.
 [2021-04-10 03:48:48]: [D] RM toxicdad [Retard MNKY, Level 23]: RM | Arin:  das ist godlike
 [2021-04-10 03:48:53]: RM | Arin [Retard MNKY, Level 15]: ich weiß
+[2021-04-10 03:49:04]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 03:49:09]: iMxtteo [DogParty, Level 27]: jo ich bins godlike
+[2021-04-10 03:49:14]: RM | Arin [Retard MNKY, Level 15]: xD
