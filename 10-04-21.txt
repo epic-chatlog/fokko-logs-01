@@ -10578,3 +10578,10 @@
 [2021-04-10 13:07:38]: ***  [, Level 0]: 'Tziys*' has left the game
 [2021-04-10 13:07:40]: WarHammer [DogParty, Level 26]: Falco641:  ok
 [2021-04-10 13:07:40]: Axel [TrRShClNrRs, Level 30]: laggg
+[2021-04-10 13:07:41]: Zephir™ [, Level 39]: sun.slow(y): i made a 5v1 and i win
+[2021-04-10 13:07:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-10 13:07:44]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-10 13:07:44]: ***  [, Level 0]: 'WarHammer'' has left the game
+[2021-04-10 13:07:47]: ***  [, Level 0]: '|MıssOяchiĐ|' entered and joined the game
+[2021-04-10 13:07:48]: sun.slow(y) [FookinLads, Level 35]: Zephir™: go rq
+[2021-04-10 13:07:53]: [D] El patron [, Level 0]: Falco641: war k
