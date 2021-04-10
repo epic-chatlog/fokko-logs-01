@@ -10357,3 +10357,4 @@
 [2021-04-10 12:48:43]: Kezo [DogParty, Level 41]: |HolyHo|: OMG
 [2021-04-10 12:48:45]: ***  [, Level 0]: 'Gotie' entered and joined the game
 [2021-04-10 12:48:51]: ***  [, Level 0]: '(1)fitz' entered and joined the game
+[2021-04-10 12:49:12]: Zephir™ [, Level 39]: Hunter.exe: just scared
