@@ -2862,3 +2862,5 @@
 [2021-04-10 04:33:04]: ***  [, Level 0]: 'Mass' entered and joined the game
 [2021-04-10 04:33:16]: ***  [, Level 0]: nameless tee is on a killing spree with 25 blocks
 [2021-04-10 04:33:20]: ***  [, Level 0]: 'uptoram' entered and joined the game
+[2021-04-10 04:33:25]: No game [Just me, Level 40]: Shy-ra.: c'est bon
+[2021-04-10 04:33:27]: Shy-ra. [, Level 0]: mais je ss
