@@ -9646,3 +9646,8 @@
 [2021-04-10 12:02:05]: (1)cookie [, Level 0]: :spec
 [2021-04-10 12:02:09]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
 [2021-04-10 12:02:16]: (1)cookie [, Level 0]: Marcisten Dummy:  hy
+[2021-04-10 12:02:35]: ***  [, Level 0]: |HolyHo| finished in: 2 minute(s) 34.92 second(s)
+[2021-04-10 12:02:37]: ~DemoizL~ [, Level 39]: Zephir™: t'es Fayzor ou any c'est ça ?
+[2021-04-10 12:02:38]: ***  [, Level 0]: SoulyD finished in: 2 minute(s) 52.40 second(s)
+[2021-04-10 12:02:38]: ***  [, Level 0]: New record: 26 minute(s)  8.76 second(s) better.
+[2021-04-10 12:02:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
