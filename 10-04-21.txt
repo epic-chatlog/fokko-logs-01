@@ -10976,3 +10976,6 @@
 [2021-04-10 14:02:11]: \\Syth [, Level 30]: power: 1
 [2021-04-10 14:02:15]: \\Syth [, Level 30]: power: war
 [2021-04-10 14:02:23]: power [TrRShClNrRs, Level 0]: mate u tried to kill me haha \\Syth
+[2021-04-10 14:02:35]: \\Syth [, Level 30]: power: u are with dummy stfu
+[2021-04-10 14:02:36]: ***  [, Level 0]: 'Axandos' entered and joined the game
+[2021-04-10 14:02:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
