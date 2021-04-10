@@ -9372,3 +9372,7 @@
 [2021-04-10 11:30:53]: |HolyHo|° [, Level 28]: Axel: hi <3
 [2021-04-10 11:30:54]: cookie [, Level 18]: :spec
 [2021-04-10 11:30:57]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: I dont destroy stack
+[2021-04-10 11:31:03]: ***  [, Level 0]: 'Axel' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 11:31:07]: ***  [, Level 0]: '[D] taco bell' has left the game
+[2021-04-10 11:31:07]: Nudelsaft c: [FookinLads, Level 42]: SanoreX: i literally saw it
+[2021-04-10 11:31:10]: ES [, Level 0]: Cylox
