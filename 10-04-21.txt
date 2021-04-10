@@ -4050,3 +4050,6 @@
 [2021-04-10 05:57:13]: ***  [, Level 0]: kiøn1029 finished in: 2 minute(s) 21.00 second(s)
 [2021-04-10 05:57:13]: ***  [, Level 0]: New record: 2 minute(s) 41.06 second(s) better.
 [2021-04-10 05:57:14]: SoulyD [, Level 47]: ez
+[2021-04-10 05:57:27]: mamikral011 [DogParty, Level 21]: Kezo: gel
+[2021-04-10 05:57:27]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 31.72 second(s)
+[2021-04-10 05:57:31]: ***  [, Level 0]: '{~}Shasha{~}' entered and joined the game
