@@ -11105,3 +11105,5 @@
 [2021-04-10 14:14:43]: ReXi [, Level 0]: iMxtteo: u dirty egg
 [2021-04-10 14:14:48]: iMxtteo [DogParty, Level 27]: me dirty egg
 [2021-04-10 14:14:52]: ***  [, Level 0]: 'sleimi' has left the game
+[2021-04-10 14:14:56]: ***  [, Level 0]: 'sleimi' entered and joined the game
+[2021-04-10 14:14:59]: Zephir™ [, Level 39]: El patron:
