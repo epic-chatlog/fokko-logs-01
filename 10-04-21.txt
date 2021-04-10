@@ -9612,3 +9612,8 @@
 [2021-04-10 11:57:17]: SoulyD [, Level 47]: Fearless: why did you help them
 [2021-04-10 11:57:28]: ***  [, Level 0]: '[D] taco bell' has left the game
 [2021-04-10 11:57:37]: ***  [, Level 0]: '(2)flappy.*' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 11:57:43]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-10 11:57:44]: ***  [, Level 0]: 'flappy.*' has left the game (Timeout)
+[2021-04-10 11:57:45]: ***  [, Level 0]: 'taco bell' has left the game
+[2021-04-10 11:57:45]: (1)cookie [, Level 0]: yeah
+[2021-04-10 11:57:48]: (1)cookie [, Level 0]: noooo
