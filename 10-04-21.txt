@@ -9798,3 +9798,10 @@
 [2021-04-10 12:13:35]: WarHammer [DogParty, Level 26]: sL|KeBu28:  why
 [2021-04-10 12:13:37]: (1)SanoreX [Chilli.*, Level 22]: yön gösterme var
 [2021-04-10 12:13:37]: HeavyGeneral [FookinLads, Level 44]: i guess time to rq for us
+[2021-04-10 12:13:40]: HeavyGeneral [FookinLads, Level 44]: it was fsat
+[2021-04-10 12:13:42]: HeavyGeneral [FookinLads, Level 44]: fast :/
+[2021-04-10 12:13:42]: ERROR. [404, Level 56]: xDDD
+[2021-04-10 12:13:42]: (1)SanoreX [Chilli.*, Level 22]: jumpa basılı tutuyo
+[2021-04-10 12:13:42]: ***  [, Level 0]: 'Kirito' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 12:13:42]: sL|KeBu28 [SkinLover, Level 0]: WarHammer: its the rule
+[2021-04-10 12:13:44]: ERROR. [404, Level 56]: time to sleep
