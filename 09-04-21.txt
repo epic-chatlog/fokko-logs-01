@@ -13563,3 +13563,5 @@
 [2021-04-09 21:13:44]: ***  [, Level 0]: '(2)Nudelsaft c:' entered and joined the game
 [2021-04-09 21:13:44]: Nudelsaft c: [FookinLads, Level 37]: error stfu xd
 [2021-04-09 21:13:48]: taco bell [, Level 4]: epic
+[2021-04-09 21:14:09]: Nudelsaft c: [FookinLads, Level 37]: error: ich zieh wenigstens nicht meine stromrechnungen zum mond hoch um zu leveln xD
+[2021-04-09 21:14:15]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game (Timeout)
