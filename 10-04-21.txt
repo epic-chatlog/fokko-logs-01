@@ -11735,3 +11735,5 @@
 [2021-04-10 15:20:20]: [D] El patron [, Level 0]: xd
 [2021-04-10 15:20:20]: Hunter.exe [DogParty, Level 36]: ReXi: :(
 [2021-04-10 15:20:21]: iMxtteo [DogParty, Level 27]: El patron: okay
+[2021-04-10 15:20:33]: ReXi [, Level 0]: Hunter.exe: wieso ist der böse
+[2021-04-10 15:20:39]: Hunter.exe [DogParty, Level 36]: ReXi: ich weiß es nicht
