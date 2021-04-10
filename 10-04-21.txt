@@ -3269,3 +3269,5 @@
 [2021-04-10 05:02:08]: ***  [, Level 0]: 'G' entered and joined the game
 [2021-04-10 05:02:14]: Kezo [DogParty, Level 41]: sun.slow(y): noob
 [2021-04-10 05:02:16]: bob weqe fan [Ape, Level 0]: dude if jou try to come wear i wass jou have to say it i dident now
+[2021-04-10 05:02:21]: ***  [, Level 0]: 'G' has left the game
+[2021-04-10 05:02:24]: ***  [, Level 0]: 'Jr no game' entered and joined the game
