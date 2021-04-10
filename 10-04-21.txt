@@ -11719,3 +11719,5 @@
 [2021-04-10 15:17:33]: iMxtteo [DogParty, Level 27]: ReXi: oh
 [2021-04-10 15:17:34]: [D] BULLETBOT [, Level 0]: Eden: but i'm better so
 [2021-04-10 15:17:39]: ReXi [, Level 0]: RM | Arin: BITTE
+[2021-04-10 15:17:43]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-10 15:17:50]: iMxtteo [DogParty, Level 27]: ReXi: warte
