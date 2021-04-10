@@ -12183,3 +12183,4 @@
 [2021-04-10 16:52:38]: S Y T H N [, Level 37]: bruh Kirito hatt timeout
 [2021-04-10 16:52:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-10 16:53:31]: ***  [, Level 0]: 'Shutaz' has left the game
+[2021-04-10 16:55:07]: ***  [, Level 0]: 'S Y T H N' changed name to 'Mike Wazowski'
