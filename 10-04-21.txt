@@ -4651,3 +4651,6 @@
 [2021-04-10 06:35:33]: ***  [, Level 0]: '(1)nameless tee' has left the game
 [2021-04-10 06:35:35]: ビール|Zero [Drunks, Level 30]: flag/
 [2021-04-10 06:35:35]: Kiøn1029 [.bad, Level 32]: i saw
+[2021-04-10 06:35:43]: ***  [, Level 0]: 'Vasiis' has left the game
+[2021-04-10 06:35:46]: ***  [, Level 0]: 'Hugoxv5' has left the game
+[2021-04-10 06:35:46]: (1)kais [, Level 58]: Shiro,: c'est pas gentil t'activer ce trap
