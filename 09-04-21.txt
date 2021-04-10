@@ -13455,3 +13455,4 @@
 [2021-04-09 18:25:37]: ***  [, Level 0]: 'Oh Nonames!' has left the game
 [2021-04-09 18:25:39]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
 [2021-04-09 18:25:42]: ***  [, Level 0]: '(1)Kirito' has left the game
+[2021-04-09 18:25:56]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
