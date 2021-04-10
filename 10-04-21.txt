@@ -9030,3 +9030,5 @@
 [2021-04-10 11:08:27]:   [, Level 0]: Fearless: S Y T H N:  :/
 [2021-04-10 11:08:29]: Zephir™ [, Level 39]: El patron: oh i understand now, u have inf jumps
 [2021-04-10 11:08:31]: ***  [, Level 0]: [D] El patron is on a killing spree with 10 blocks
+[2021-04-10 11:08:49]: [D] El patron [, Level 0]: Zephir™:  and u have taser
+[2021-04-10 11:08:52]: ***  [, Level 0]: 'Rem's bae' entered and joined the game
