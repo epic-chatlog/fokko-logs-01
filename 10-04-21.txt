@@ -8290,3 +8290,6 @@
 [2021-04-10 10:22:52]: Lebly [, Level 0]: wow
 [2021-04-10 10:22:56]: ERROR. [404, Level 56]: ye xd
 [2021-04-10 10:23:12]: ***  [, Level 0]: 'uptoram' entered and joined the game
+[2021-04-10 10:23:22]: ***  [, Level 0]: 'BC|serwan' has left the game (Timeout Protection over)
+[2021-04-10 10:23:22]: ***  [, Level 0]: '[D] BC|serwan' has left the game (Timeout Protection over)
+[2021-04-10 10:23:26]: cookie [, Level 18]: im back
