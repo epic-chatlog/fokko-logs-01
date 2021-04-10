@@ -7254,3 +7254,7 @@
 [2021-04-10 09:11:05]: (2)ChillerDrago [|*KoG*|, Level 34]: hmm
 [2021-04-10 09:11:06]: ***  [, Level 0]: 'Shiro,' entered and joined the game
 [2021-04-10 09:11:20]: Souly [, Level 60]: Shiro,: huge gayo
+[2021-04-10 09:11:28]:   [, Level 0]: Shiro,: wait i have to buy everything again men
+[2021-04-10 09:11:34]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-10 09:11:36]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-10 09:11:39]: ***  [, Level 0]: 'Shiro,' has left the game
