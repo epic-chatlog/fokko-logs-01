@@ -5928,3 +5928,8 @@
 [2021-04-10 07:56:19]:   [, Level 0]: El patron: power: help me
 [2021-04-10 07:56:19]: ERROR. [404, Level 41]: xD
 [2021-04-10 07:56:25]: ERROR. [404, Level 41]: terston no u
+[2021-04-10 07:56:38]: Amirian [, Level 29]: El patron:
+[2021-04-10 07:56:39]: power [TrRShClNrRs, Level 15]: Amirian: xDD
+[2021-04-10 07:56:40]: ***  [, Level 0]: '(1)Cylox' entered and joined the game
+[2021-04-10 07:56:40]:   [, Level 0]: mamikral011: El patron:
+[2021-04-10 07:56:42]: Amirian [, Level 29]: me
