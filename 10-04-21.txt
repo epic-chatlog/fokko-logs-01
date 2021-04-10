@@ -9653,3 +9653,5 @@
 [2021-04-10 12:02:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-10 12:02:59]: ***  [, Level 0]: 'BC|kakashi' has left the game
 [2021-04-10 12:03:05]: ***  [, Level 0]: Chillingo is on a killing spree with 5 blocks
+[2021-04-10 12:03:46]: weqe [669, Level 12]: Fearless: how old ar eu
+[2021-04-10 12:03:48]: ***  [, Level 0]: '(2)flappy.*' entered and joined the game
