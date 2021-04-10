@@ -3319,3 +3319,6 @@
 [2021-04-10 05:04:35]: Jr no game [Just me, Level 0]: nameless tee: gg xD
 [2021-04-10 05:04:41]:   [, Level 0]: Falco642: power: wtf?
 [2021-04-10 05:05:00]: bob weqe fan [Ape, Level 0]: we are dowing 1v1
+[2021-04-10 05:05:02]: MieSlime [FookinLads, Level 43]: nameless tee:  ahah
+[2021-04-10 05:05:03]: ***  [, Level 0]: 'Swarfey' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 05:05:04]: ***  [, Level 0]: 'Nudelsaft c:\"' has left the game (Timeout)
