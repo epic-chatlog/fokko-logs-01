@@ -13816,3 +13816,4 @@
 [2021-04-09 21:55:21]: ***  [, Level 0]: 'Stechus Kaktus' has left the game
 [2021-04-09 21:57:42]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-09 21:58:14]: taco bell [, Level 5]: ayyyy lvl 5
+[2021-04-09 22:13:42]: ***  [, Level 0]: Successfully logged in
