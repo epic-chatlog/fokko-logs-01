@@ -9516,3 +9516,5 @@
 [2021-04-10 11:45:59]: ***  [, Level 0]: HardreenClutch is on a killing spree with 10 blocks
 [2021-04-10 11:46:13]: ***  [, Level 0]: Tziys* is on a killing spree with 5 blocks
 [2021-04-10 11:46:16]: SanoreX [Chilli.*, Level 27]: ES: dont block Lucas
+[2021-04-10 11:46:30]: Lucas [THECEPS, Level 34]: SanoreX: don't worry i've nothing
+[2021-04-10 11:46:30]: SanoreX [Chilli.*, Level 27]: ES: war
