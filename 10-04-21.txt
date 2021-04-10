@@ -9762,3 +9762,7 @@
 [2021-04-10 12:12:17]: Nudelsaft c: [FookinLads, Level 42]: HeavyGeneral: help me daddy
 [2021-04-10 12:12:19]: (1)SanoreX [Chilli.*, Level 22]:  bota bak
 [2021-04-10 12:12:20]: ***  [, Level 0]: 'lolpoep' entered and joined the game
+[2021-04-10 12:12:24]: Nudelsaft c: [FookinLads, Level 42]: HeavyGeneral: left
+[2021-04-10 12:12:29]: (1)SanoreX [Chilli.*, Level 22]: nası
+[2021-04-10 12:12:30]: ***  [, Level 0]: 'Sky`iPro' entered and joined the game
+[2021-04-10 12:12:35]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
