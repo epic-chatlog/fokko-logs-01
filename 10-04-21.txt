@@ -10481,3 +10481,5 @@
 [2021-04-10 12:59:22]: sun.slow(y) [FookinLads, Level 35]: Kezo: u wanna real war ?
 [2021-04-10 12:59:27]: sun.slow(y) [FookinLads, Level 35]: Kezo: ok np
 [2021-04-10 12:59:27]: ***  [, Level 0]: sun.slow(y)'s killing spree was ended by rexi (6 blocks)
+[2021-04-10 12:59:36]: ***  [, Level 0]: 'Axel' entered and joined the game
+[2021-04-10 12:59:36]: Kezo [DogParty, Level 41]: sun.slow(y): can you stfu gay
