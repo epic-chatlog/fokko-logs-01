@@ -10001,3 +10001,7 @@
 [2021-04-10 12:22:27]: kais [, Level 65]: ERROR: what's new wait time ?
 [2021-04-10 12:22:27]: weqe [669, Level 12]: bob: brother
 [2021-04-10 12:22:31]: weqe [669, Level 12]: bob: why u upset
+[2021-04-10 12:22:39]: (1)lol [, Level 0]: kais half
+[2021-04-10 12:22:41]: ***  [, Level 0]: '(2)lol' entered and joined the game
+[2021-04-10 12:22:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-10 12:22:49]: rayen [, Level 0]: Kirito: noob ptdr
