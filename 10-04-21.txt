@@ -5682,3 +5682,5 @@
 [2021-04-10 07:33:00]: [D] mamikral011 [DogParty, Level 26]: yoo
 [2021-04-10 07:33:00]: El patron [, Level 0]: ERROR: can you help
 [2021-04-10 07:33:01]: ***  [, Level 0]: 'BC|serwan' entered and joined the game
+[2021-04-10 07:33:02]: Cylox [, Level 31]: tm laserle
+[2021-04-10 07:33:08]: ***  [, Level 0]: 'brainless tee' entered and joined the game
