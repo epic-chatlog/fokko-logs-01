@@ -1234,3 +1234,5 @@
 [2021-04-10 02:29:34]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
 [2021-04-10 02:29:37]: [D] mamikral011 [DogParty, Level 26]: ~DemoizL~: come
 [2021-04-10 02:29:45]: [D] mamikral011 [DogParty, Level 26]: thank
+[2021-04-10 02:30:42]: ***  [, Level 0]: [D] mamikral011 finished in: 1 minute(s) 42.30 second(s)
+[2021-04-10 02:30:42]: ***  [, Level 0]: New record: 3 minute(s) 44.00 second(s) better.
