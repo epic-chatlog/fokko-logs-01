@@ -8414,3 +8414,6 @@
 [2021-04-10 10:31:35]: Lebly [, Level 0]: I see
 [2021-04-10 10:31:36]: ERROR. [404, Level 56]: like this
 [2021-04-10 10:31:37]: Zephir™ [, Level 39]: ERROR.: ok, what is the commande ? xD
+[2021-04-10 10:31:44]: ERROR. [404, Level 56]: ./plot sell 1000000
+[2021-04-10 10:31:47]: HardreenClutch [, Level 57]: ~DemoizL~:  you wanna war again ?
+[2021-04-10 10:31:50]: Lebly [, Level 0]: omg
