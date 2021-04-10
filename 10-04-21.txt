@@ -3646,3 +3646,6 @@
 [2021-04-10 05:26:54]: brainless tee [, Level 0]: Kirito: my dummy is in jail for 20 mins
 [2021-04-10 05:27:02]: brainless tee [, Level 0]: Kirito: not my problem
 [2021-04-10 05:27:03]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
+[2021-04-10 05:27:07]: ***  [, Level 0]: 'Souly' entered and joined the game
+[2021-04-10 05:27:16]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-10 05:27:18]: Meetiteusz [, Level 25]: ZEUS: k
