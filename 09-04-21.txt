@@ -13295,3 +13295,6 @@
 [2021-04-09 17:52:06]: ***  [, Level 0]: ### '♥TAKO♥' BYE
 [2021-04-09 17:52:07]: Kirito [, Level 40]: bye
 [2021-04-09 17:52:11]: ♥TAKO♥ [DogParty, Level 25]: dıd
+[2021-04-09 17:52:15]: ♥TAKO♥ [DogParty, Level 25]: u not
+[2021-04-09 17:52:17]: ***  [, Level 0]: '♥TAKO♥' has left the game
+[2021-04-09 17:52:17]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
