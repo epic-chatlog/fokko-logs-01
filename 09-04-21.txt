@@ -13628,3 +13628,7 @@
 [2021-04-09 21:19:46]: ***  [, Level 0]: Collected 428 money
 [2021-04-09 21:21:26]: ***  [, Level 0]: Successfully logged in
 [2021-04-09 21:21:27]: taco bell [, Level 4]: wowowowowoowow
+[2021-04-09 21:21:29]: Nudelsaft c: [FookinLads, Level 37]: https://google.com
+[2021-04-09 21:21:33]: [D] taco bell [, Level 1]: yes
+[2021-04-09 21:21:40]: Nudelsaft c: [FookinLads, Level 37]: a
+[2021-04-09 21:21:41]: Nudelsaft c: [FookinLads, Level 37]: b
