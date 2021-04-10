@@ -2849,3 +2849,7 @@
 [2021-04-10 04:32:16]: ***  [, Level 0]: '~DemoizL~' has left the game
 [2021-04-10 04:32:17]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-10 04:32:17]: Sad Guy [, Level 40]: No game: bb
+[2021-04-10 04:32:23]: No game [Just me, Level 40]: Sad Guy: SO WHO ARE YOUUUUU
+[2021-04-10 04:32:28]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-10 04:32:29]: No game [Just me, Level 40]: Sad Guy: nooooo
+[2021-04-10 04:32:30]: Sad Guy [, Level 40]: bb
