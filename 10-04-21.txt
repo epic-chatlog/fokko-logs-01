@@ -8070,3 +8070,6 @@
 [2021-04-10 10:07:18]: ***  [, Level 0]: ChillerDragon.* finished in: 24 minute(s) 35.76 second(s)
 [2021-04-10 10:07:27]: ***  [, Level 0]: 'luandocinho10' entered and joined the game
 [2021-04-10 10:07:29]:   [, Level 0]: NidardoHD: ChillerDragon: gg
+[2021-04-10 10:07:30]: ***  [, Level 0]: 'ERROR' entered and joined the game
+[2021-04-10 10:07:41]: ***  [, Level 0]: '.S L E E P Y'' changed name to 'Mike Wazowski'
+[2021-04-10 10:07:41]:   [, Level 0]: ERROR: Lebly
