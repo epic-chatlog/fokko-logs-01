@@ -4632,3 +4632,8 @@
 [2021-04-10 06:34:39]:   [, Level 0]: [D] mamikral011: Kezo: ok
 [2021-04-10 06:34:39]: JustRace [DogParty, Level 0]: cl_aimbot 1
 [2021-04-10 06:34:40]: ***  [, Level 0]: '(1)nameless tee' has left the game
+[2021-04-10 06:34:42]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
+[2021-04-10 06:34:43]: JustRace [DogParty, Level 0]: cl_aimbot 0
+[2021-04-10 06:34:45]: JustRace [DogParty, Level 0]: cl_aimbot 1
+[2021-04-10 06:34:50]: Falco642 [, Level 0]: taco bell: look
+[2021-04-10 06:34:54]: Falco642 [, Level 0]: come here
