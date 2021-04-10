@@ -1537,3 +1537,4 @@
 [2021-04-10 03:01:48]: Nudelsaft c: [FookinLads, Level 37]: GOLD: ?
 [2021-04-10 03:01:55]: ***  [, Level 0]: [D] mamikral011's killing spree was ended by Nudelsaft c: (5 blocks)
 [2021-04-10 03:02:01]: Nudelsaft c: [FookinLads, Level 37]: GOLD: what do you even want wtf
+[2021-04-10 03:02:20]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
