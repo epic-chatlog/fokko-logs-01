@@ -11785,3 +11785,6 @@
 [2021-04-10 15:24:32]: Hunter.exe [DogParty, Level 36]: warum
 [2021-04-10 15:24:32]: Eden [qwq, Level 0]: why ?
 [2021-04-10 15:24:35]: ReXi [, Level 0]: iMxtteo: lol
+[2021-04-10 15:24:40]: Hunter.exe [DogParty, Level 36]: ich habe nicht mal was gemacht
+[2021-04-10 15:24:44]: ***  [, Level 0]: 'any' entered and joined the game
+[2021-04-10 15:24:45]: iMxtteo [DogParty, Level 27]: ReXi: hab heute 200k gemacht
