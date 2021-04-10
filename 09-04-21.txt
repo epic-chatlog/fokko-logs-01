@@ -13862,3 +13862,5 @@
 [2021-04-09 22:47:01]: (3)RM|Saud [Retard MNKY, Level 0]: ظسحثؤ
 [2021-04-09 22:47:26]: ***  [, Level 0]: '(1)kais' entered and joined the game
 [2021-04-09 22:47:32]: (3)RM|Saud [Retard MNKY, Level 0]: 2v1
+[2021-04-09 22:47:42]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-09 22:47:50]: (3)RM|Saud [Retard MNKY, Level 0]: dude
