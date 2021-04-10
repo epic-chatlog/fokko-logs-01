@@ -11511,3 +11511,7 @@
 [2021-04-10 15:01:10]: Hunter.exe [DogParty, Level 36]: ReXi: wie alt bist du
 [2021-04-10 15:01:19]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
 [2021-04-10 15:01:27]: ReXi [, Level 16]: Hunter.exe: entweder jünger oder älter als du
+[2021-04-10 15:01:37]: Hunter.exe [DogParty, Level 36]: bin 10
+[2021-04-10 15:01:42]: RM | Arin [Retard MNKY, Level 0]: ReXi:  willste wissen wie alt er ist?
+[2021-04-10 15:01:46]: RM | Arin [Retard MNKY, Level 0]: falls ja gib mir 500K
+[2021-04-10 15:01:48]: Hunter.exe [DogParty, Level 36]: du bist 17 weißt du warum?
