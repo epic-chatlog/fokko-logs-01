@@ -10206,3 +10206,8 @@
 [2021-04-10 12:36:00]:   [, Level 0]: S Y T H N: Shiro.: wow a new crash?
 [2021-04-10 12:36:04]: |HolyHo|° [, Level 28]: GReeeN: <3
 [2021-04-10 12:36:05]:   [, Level 0]: Shiro,: S Y T H N: look on server bridge
+[2021-04-10 12:36:09]:   [, Level 0]: Shiro,: S Y T H N: it put troll emote
+[2021-04-10 12:36:10]:   [, Level 0]: Shiro,: XD
+[2021-04-10 12:36:18]:   [, Level 0]: S Y T H N: Shiro,: ok xD
+[2021-04-10 12:36:20]:   [, Level 0]: Shiro,: <:trollonaut:784800188484681788> <:trollonaut:784800188484681788> <:trollonaut:784800188484681788> <:trollonaut:784800188484681788> <:trollonaut:784800188484681788> <:trollonaut:784800188484681788>
+[2021-04-10 12:36:20]:   [, Level 0]: Shiro.: <:trollonaut:784800188484681788> <:trollonaut:784800188484681788> <:trollonaut:784800188484681788> <:trollonaut:784800188484681788> <:trollonaut:784800188484681788> <:trollonaut:784800188484681788>
