@@ -8949,3 +8949,8 @@
 [2021-04-10 11:00:11]: ***  [, Level 0]: '[D] ANGEL_PRO' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-10 11:00:12]: ***  [, Level 0]: 'ANGEL_PRO' has left the game (Timeout)
 [2021-04-10 11:01:00]: ***  [, Level 0]: 'Bartłomiejósz' entered and joined the game
+[2021-04-10 11:01:02]: ***  [, Level 0]: 'cookie' entered and joined the game
+[2021-04-10 11:01:02]: ***  [, Level 0]: 'Bartłomiejósz' has left the game
+[2021-04-10 11:01:10]: |HolyHo| [, Level 28]: Nidardo.: u new?
+[2021-04-10 11:01:11]: ***  [, Level 0]: GReeeN is on a killing spree with 5 blocks
+[2021-04-10 11:01:12]: (1)soleri1 [, Level 22]: Cosmo: help
