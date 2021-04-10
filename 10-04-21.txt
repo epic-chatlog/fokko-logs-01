@@ -11563,3 +11563,6 @@
 [2021-04-10 15:06:04]: Eden [qwq, Level 0]: you suck
 [2021-04-10 15:06:05]: BULLETBOT [, Level 0]: come 1v1
 [2021-04-10 15:06:07]: ***  [, Level 0]: 'BULLETBOT' has been muted for 60 seconds
+[2021-04-10 15:06:11]: Eden [qwq, Level 0]: easy
+[2021-04-10 15:06:11]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-10 15:06:15]: ***  [, Level 0]: 'nameless tee' joined the game
