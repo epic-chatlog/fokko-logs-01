@@ -3713,3 +3713,7 @@
 [2021-04-10 05:32:45]: Falco641 [.bad, Level 19]: 6 6
 [2021-04-10 05:32:46]: bob weqe fan [Ape, Level 0]: 6 6
 [2021-04-10 05:32:49]: ***  [, Level 0]: Mʎɹシ - Cat finished in: 1 minute(s) 17.98 second(s)
+[2021-04-10 05:32:54]: Falco641 [.bad, Level 19]: 7 6
+[2021-04-10 05:32:54]: ***  [, Level 0]: ビール|Zero finished in: 6 minute(s) 15.84 second(s)
+[2021-04-10 05:32:56]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[2021-04-10 05:33:00]: Falco641 [.bad, Level 19]: 8 6
