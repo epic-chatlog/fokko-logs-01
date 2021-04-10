@@ -6554,3 +6554,8 @@
 [2021-04-10 08:36:49]: (1)Mʎɹシ - C [, Level 15]: (1)ERROR:
 [2021-04-10 08:36:51]: ***  [, Level 0]: 'rafel' joined the game
 [2021-04-10 08:37:00]: [D] El patron [, Level 0]: ERROR:  can i join your clan
+[2021-04-10 08:37:01]: (2)ChillerDrago [Chilli.*, Level 34]: ERROR: ERROR. is mate
+[2021-04-10 08:37:06]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-10 08:37:11]: ***  [, Level 0]: 'rafel' joined the game
+[2021-04-10 08:37:13]: ERROR. [404, Level 41]: [D] El patron:  no sry
+[2021-04-10 08:37:13]: (1)ChillerDrago [|*KoG*|, Level 33]: lol NidardoHD du bimst hier
