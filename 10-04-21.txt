@@ -6718,3 +6718,5 @@
 [2021-04-10 08:44:42]: (1)ERROR [404, Level 47]: k
 [2021-04-10 08:44:48]: hmmmmmm [, Level 12]: (1)ChillerDrago: go pls just this
 [2021-04-10 08:44:49]: (1)ERROR [404, Level 47]: fokko changed cd
+[2021-04-10 08:45:01]: ***  [, Level 0]: 'Shy-ra.' entered and joined the game
+[2021-04-10 08:45:02]: NidardoHD [FlexTape, Level 0]: ah dort
