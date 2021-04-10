@@ -2344,3 +2344,7 @@
 [2021-04-10 03:58:30]: NoobEmir.* [, Level 6]: pls
 [2021-04-10 03:58:40]: RM | Arin [Retard MNKY, Level 15]: UOYKCUFI:  no portal for you
 [2021-04-10 03:59:11]: mamikral011 [DogParty, Level 21]: :D
+[2021-04-10 03:59:19]: mamikral011 [DogParty, Level 21]: fuck my ping lfdkg
+[2021-04-10 03:59:25]: ***  [, Level 0]: 'toine' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
+[2021-04-10 03:59:29]: ***  [, Level 0]: 'Swarfey' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 03:59:29]: ***  [, Level 0]: 'Nudelsaft c:' has left the game (Timeout)
