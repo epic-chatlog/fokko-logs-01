@@ -10533,3 +10533,6 @@
 [2021-04-10 13:02:54]: WarHammer [DogParty, Level 26]: Kezo:  lag
 [2021-04-10 13:03:04]: WarHammer [DogParty, Level 26]: sun.slow(y):  stfu kezo my master
 [2021-04-10 13:03:08]: Flupper [, Level 0]: kais help
+[2021-04-10 13:03:13]: ***  [, Level 0]: 'Firefox' entered and joined the game
+[2021-04-10 13:03:15]: |HolyHo| [, Level 18]: sun.slow(y): |>
+[2021-04-10 13:03:15]: Flupper [, Level 0]: my dummy
