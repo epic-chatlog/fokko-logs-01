@@ -9433,3 +9433,5 @@
 [2021-04-10 11:37:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-10 11:37:47]: ***  [, Level 0]: '|HolyHo|' entered and joined the game
 [2021-04-10 11:38:05]: SanoreX [Chilli.*, Level 27]: o wo
+[2021-04-10 11:38:06]: SanoreX [Chilli.*, Level 27]: o wow
+[2021-04-10 11:38:17]: SanoreX [Chilli.*, Level 27]: |HolyHo|: flappy.* is my bot I coded him
