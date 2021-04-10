@@ -10557,3 +10557,5 @@
 [2021-04-10 13:06:16]: sun.slow(y) [FookinLads, Level 35]: Zephir™: u dog of Kezo
 [2021-04-10 13:06:22]: Flupper [, Level 0]: Kezo:
 [2021-04-10 13:06:23]: Flupper [, Level 0]: go up
+[2021-04-10 13:06:28]: Zephir™ [, Level 39]: sun.slow(y): wtf XDD i not like him
+[2021-04-10 13:06:31]: ***  [, Level 0]: '~DemoizL~' has left the game
