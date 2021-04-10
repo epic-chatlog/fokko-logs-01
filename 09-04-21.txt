@@ -14093,3 +14093,5 @@
 [2021-04-09 23:27:47]: Mʎɹシ - Cat [, Level 21]: kais:
 [2021-04-09 23:28:01]: Mʎɹシ - Cat [, Level 21]: kais: help pls)
 [2021-04-09 23:29:23]: Mʎɹシ - Cat [, Level 21]: afk
+[2021-04-09 23:29:55]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-09 23:30:02]: ***  [, Level 0]: 'Jerry' entered and joined the game
