@@ -4067,3 +4067,9 @@
 [2021-04-10 05:59:03]:   [, Level 0]: {~}Shasha{~}: kurama: wtf is that server :/
 [2021-04-10 05:59:06]: WarHammer [DogParty, Level 0]: lag
 [2021-04-10 05:59:15]:   [, Level 0]: kurama: {~}Shasha{~}: that a free server
+[2021-04-10 05:59:30]: ***  [, Level 0]: Tziys* finished in: 4 minute(s)  4.06 second(s)
+[2021-04-10 05:59:32]: ***  [, Level 0]: WarHammer finished in: 3 minute(s)  6.30 second(s)
+[2021-04-10 05:59:33]: ***  [, Level 0]: Kezo finished in: 2 minute(s)  0.76 second(s)
+[2021-04-10 05:59:33]: ***  [, Level 0]: New record:  2.30 second(s) better.
+[2021-04-10 05:59:36]: ***  [, Level 0]: mamikral011 finished in: 2 minute(s) 20.34 second(s)
+[2021-04-10 05:59:36]: ***  [, Level 0]: New record: 40.88 second(s) better.
