@@ -3289,3 +3289,6 @@
 [2021-04-10 05:03:04]: MieSlime [FookinLads, Level 43]: Jr no game:  oe mdr
 [2021-04-10 05:03:07]:   [, Level 0]: Jr no game: MieSlime: xD
 [2021-04-10 05:03:12]:   [, Level 0]: Falco642: 0 1
+[2021-04-10 05:03:18]:   [, Level 0]: Jr no game: Shy-ra.: nan cest pas moi xD
+[2021-04-10 05:03:19]:   [, Level 0]: Shy-ra. ²: No game: ok
+[2021-04-10 05:03:25]:   [, Level 0]: Falco642: 0 2
