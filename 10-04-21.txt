@@ -8184,3 +8184,5 @@
 [2021-04-10 10:15:35]: ***  [, Level 0]: Nidardo. finished in: 4 minute(s) 35.58 second(s)
 [2021-04-10 10:15:35]: ***  [, Level 0]: NidardoHD finished in: 8 minute(s) 34.88 second(s)
 [2021-04-10 10:15:40]: ANGEL_PRO [uli:v, Level 0]: stop?
+[2021-04-10 10:15:45]: minecraft [, Level 12]: stop ANGEL_PRO
+[2021-04-10 10:15:48]: ERROR. [404, Level 56]: dont restart imma show u the race
