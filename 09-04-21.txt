@@ -13834,3 +13834,6 @@
 [2021-04-09 22:24:11]: ***  [, Level 0]: 'CKA3A4NIK[NR]' has been muted for 60 seconds
 [2021-04-09 22:24:29]: [D] taco bell [, Level 3]: what a ghost
 [2021-04-09 22:25:22]: CKA3A4NIK[NR] [Night Raid, Level 35]: nobo
+[2021-04-09 22:25:26]: [D] taco bell [, Level 3]: nobo
+[2021-04-09 22:25:29]: CKA3A4NIK[NR] [Night Raid, Level 35]: U
+[2021-04-09 22:25:31]: CKA3A4NIK[NR] [Night Raid, Level 35]: Lol war4life
