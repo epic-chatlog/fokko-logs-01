@@ -5702,3 +5702,4 @@
 [2021-04-10 07:35:28]: ***  [, Level 0]: 'Mr Seven' entered and joined the game
 [2021-04-10 07:35:40]: ***  [, Level 0]: '(1)Kirito' has left the game
 [2021-04-10 07:35:40]: ***  [, Level 0]: 'Kirito' has left the game
+[2021-04-10 07:35:52]: [D] Cylox [, Level 0]: dur la
