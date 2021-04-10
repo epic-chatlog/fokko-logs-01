@@ -3237,3 +3237,4 @@
 [2021-04-10 04:58:59]: iMxtteo [DogParty, Level 27]:  : /rainbow
 [2021-04-10 04:59:02]: iMxtteo [DogParty, Level 27]: FUK
 [2021-04-10 04:59:21]: bob weqe fan [Ape, Level 0]: wy jou kill me i dident doe eniting
+[2021-04-10 04:59:58]: ***  [, Level 0]: 'any' has left the game (Too weak connection (not acked for 60 seconds))
