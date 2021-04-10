@@ -4054,3 +4054,4 @@
 [2021-04-10 05:57:27]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 31.72 second(s)
 [2021-04-10 05:57:31]: ***  [, Level 0]: '{~}Shasha{~}' entered and joined the game
 [2021-04-10 05:57:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-10 05:57:56]: [D] mamikral011 [DogParty, Level 26]: Kezo: WarHammer jet
