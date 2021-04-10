@@ -6615,3 +6615,6 @@
 [2021-04-10 08:39:48]: ***  [, Level 0]: 'rafel' joined the game
 [2021-04-10 08:39:57]: NidardoHD [FlexTape, Level 0]: (1)ChillerDrago:jo hab ich grad gemacht
 [2021-04-10 08:40:03]: (1)ChillerDrago [|*KoG*|, Level 33]: arsch
+[2021-04-10 08:40:04]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-10 08:40:09]: ***  [, Level 0]: 'rafel' joined the game
+[2021-04-10 08:40:11]: [D] El patron [, Level 0]: ERROR: and if i manage to kill you i can join then please
