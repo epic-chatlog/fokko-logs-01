@@ -2269,3 +2269,7 @@
 [2021-04-10 03:52:58]: ***  [, Level 0]: 'Fearless' has left the game
 [2021-04-10 03:52:58]: ***  [, Level 0]: '[D] Fearless' has left the game
 [2021-04-10 03:53:00]: (1)kais [, Level 58]: Fearless: think it is fair
+[2021-04-10 03:53:04]:   [, Level 0]: Swarfey: a
+[2021-04-10 03:53:05]: ***  [, Level 0]: 'jeder' joined the game
+[2021-04-10 03:53:06]: iMxtteo [DogParty, Level 27]: Isegrin: war
+[2021-04-10 03:53:10]: Isegrin [, Level 55]: iMxtteo: misslick
