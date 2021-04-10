@@ -10336,3 +10336,6 @@
 [2021-04-10 12:47:15]: Shiro. [Whɪтє, Level 42]: xaaxaxaxaxaax
 [2021-04-10 12:47:17]:   [, Level 0]: [D] Hunter.exe: HardreenClutch: hab nicht
 [2021-04-10 12:47:27]: Kezo [DogParty, Level 41]: ReXi: war
+[2021-04-10 12:47:32]: Kezo [DogParty, Level 41]: sun.slow(y): AMINA KODUGUM
+[2021-04-10 12:47:34]: HardreenClutch [, Level 57]: (1)[D] Hunter.e:  schlecht
+[2021-04-10 12:47:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
