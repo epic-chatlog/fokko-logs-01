@@ -3394,3 +3394,5 @@
 [2021-04-10 05:09:33]: Kezo [DogParty, Level 41]: sun.slow(y): who block me
 [2021-04-10 05:09:43]: ***  [, Level 0]: bob weqe fan is on a killing spree with 5 blocks
 [2021-04-10 05:09:51]: ***  [, Level 0]: 'sun.slow(y)' changed name to 'no limit'
+[2021-04-10 05:09:53]: ***  [, Level 0]: 'cunt' entered and joined the game
+[2021-04-10 05:10:01]: Kezo [DogParty, Level 41]: sun.slow(y): who block me
