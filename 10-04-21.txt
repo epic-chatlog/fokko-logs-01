@@ -10965,3 +10965,5 @@
 [2021-04-10 14:01:07]: \\Syth [, Level 30]: power: its joke
 [2021-04-10 14:01:23]: Flipper [, Level 15]: give me your rifle power
 [2021-04-10 14:01:27]: \\Syth [, Level 30]: power: save or war
+[2021-04-10 14:01:33]: ***  [, Level 0]: '[D] taco bell' has left the game
+[2021-04-10 14:01:35]: Flipper [, Level 15]: rifle
