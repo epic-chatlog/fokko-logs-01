@@ -3955,3 +3955,7 @@
 [2021-04-10 05:48:19]: bob weqe fan [Ape, Level 0]: wtf
 [2021-04-10 05:48:20]: Falco642 [, Level 0]: shet
 [2021-04-10 05:48:24]: Falco642 [, Level 0]: Meetiteusz: wtf?
+[2021-04-10 05:49:16]: ***  [, Level 0]: 'bob weqe fan' has left the game
+[2021-04-10 05:49:17]: ***  [, Level 0]: (1)nameless tee is on a killing spree with 5 blocks
+[2021-04-10 05:49:18]: ***  [, Level 0]: 'x7|zemer' has left the game
+[2021-04-10 05:49:19]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)nameless tee' is spawnblocking. Catch him!
