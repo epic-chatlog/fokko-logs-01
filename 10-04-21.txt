@@ -4618,3 +4618,4 @@
 [2021-04-10 06:32:32]: ***  [, Level 0]: 'o' has left the game
 [2021-04-10 06:32:32]: ***  [, Level 0]: Collected 290 money
 [2021-04-10 06:32:32]: ***  [, Level 0]: Collected 291 money
+[2021-04-10 06:33:59]: ***  [, Level 0]: Successfully logged in
