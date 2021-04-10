@@ -13483,3 +13483,5 @@
 [2021-04-09 21:02:30]: taco bell [, Level 3]: no
 [2021-04-09 21:02:31]: Nudelsaft c: [FookinLads, Level 37]: RM|weqe: monke together strong
 [2021-04-09 21:02:35]: RM|weqe [MNKY, Level 12]: Nudelsaft c::
+[2021-04-09 21:02:41]: RM|weqe [MNKY, Level 12]: Nudelsaft c:: what are u doing
+[2021-04-09 21:02:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
