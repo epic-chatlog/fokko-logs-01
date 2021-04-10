@@ -5106,3 +5106,5 @@
 [2021-04-10 07:01:01]: ERROR [404, Level 56]: omggg now its gone
 [2021-04-10 07:01:03]: mamikral011 [DogParty, Level 21]: WarHammer': beni al
 [2021-04-10 07:01:03]: (1)kais [, Level 58]: ERROR: dafuk, xD
+[2021-04-10 07:01:24]: ***  [, Level 0]: '(1)ERROR.' has left the game
+[2021-04-10 07:01:24]: ***  [, Level 0]: 'ERROR.' has left the game
