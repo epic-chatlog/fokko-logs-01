@@ -10970,3 +10970,4 @@
 [2021-04-10 14:01:45]: power [TrRShClNrRs, Level 0]: did u just rob me Flipper ??
 [2021-04-10 14:01:47]: ***  [, Level 0]: '(1)iMxtteo' entered and joined the game
 [2021-04-10 14:01:48]: Flipper [, Level 15]: yes
+[2021-04-10 14:01:57]: ***  [, Level 0]: '(1)iMxtteo D' entered and joined the game
