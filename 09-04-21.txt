@@ -14138,3 +14138,4 @@
 [2021-04-09 23:40:48]: ***  [, Level 0]: '[D] Amirian' entered and joined the game
 [2021-04-09 23:41:10]: ***  [, Level 0]: 'RM|weqe' has left the game
 [2021-04-09 23:41:31]: Amirian [, Level 29]: pls
+[2021-04-09 23:41:48]: Amirian [, Level 29]: thx
