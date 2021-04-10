@@ -13903,3 +13903,5 @@
 [2021-04-09 22:56:30]: kais [, Level 65]: somewhere in the earth
 [2021-04-09 22:56:49]: (3)RM|Saud [Retard MNKY, Level 0]: ok i ll send the pc im somewhere in the earth
 [2021-04-09 22:57:08]: kais [, Level 65]: my pc good, but i only have 8go ram
+[2021-04-09 22:57:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-09 22:57:50]: (3)RM|Saud [Retard MNKY, Level 0]: its ok i can upgrade it
