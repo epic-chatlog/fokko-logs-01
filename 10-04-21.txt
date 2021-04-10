@@ -2821,3 +2821,5 @@
 [2021-04-10 04:29:16]: comic [comically, Level 14]: wut
 [2021-04-10 04:29:20]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-10 04:29:22]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-10 04:29:26]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-10 04:29:31]: No game [Just me, Level 40]: Sad Guy: idk xDDDDD
