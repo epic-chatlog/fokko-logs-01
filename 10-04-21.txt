@@ -9239,3 +9239,6 @@
 [2021-04-10 11:22:28]: ***  [, Level 0]: 'tuptusi' has left the game (Timeout)
 [2021-04-10 11:22:35]: Nidardo. [TOP, Level 0]: (1)Saud: let me free and I will go
 [2021-04-10 11:22:37]: Rem's dummy [, Level 38]: rayen:
+[2021-04-10 11:22:43]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-10 11:22:44]: SoulyD [, Level 47]: rip
+[2021-04-10 11:22:45]: (1)Saud [MNKY, Level 19]: Fearless:  wait
