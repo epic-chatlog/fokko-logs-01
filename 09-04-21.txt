@@ -13406,3 +13406,5 @@
 [2021-04-09 18:18:13]: Kirito [, Level 40]: S Y T H N: yo
 [2021-04-09 18:18:26]: Kirito [, Level 40]: S Y T H N: fokko dc?
 [2021-04-09 18:18:30]: S Y T H N [DogParty, Level 37]: mir egal
+[2021-04-09 18:18:34]: Kirito [, Level 40]: ok ich geh talk
+[2021-04-09 18:18:37]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
