@@ -9671,3 +9671,6 @@
 [2021-04-10 12:05:33]: Kezo [DogParty, Level 41]: hhh3: EZ
 [2021-04-10 12:05:39]: NidardoHD [FlexTape, Level 1]: Chillingo: pro
 [2021-04-10 12:05:39]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-10 12:05:45]: |HolyHo| [, Level 18]: Kezo: u have plot?
+[2021-04-10 12:05:52]: |HolyHo| [, Level 18]: Kezo: ?
+[2021-04-10 12:05:53]: Kezo [DogParty, Level 41]: |HolyHo|: nope
