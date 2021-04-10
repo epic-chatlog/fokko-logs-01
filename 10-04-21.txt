@@ -6638,3 +6638,5 @@
 [2021-04-10 08:41:13]: (2)ChillerDrago [Chilli.*, Level 34]: sad NidardoHD
 [2021-04-10 08:41:20]: NidardoHD [FlexTape, Level 0]: ChillerDragon: der einzige weg der für mich geht ist links entlang mit dummy
 [2021-04-10 08:41:22]: (2)ChillerDrago [Chilli.*, Level 34]: brauchst strats NidardoHD
+[2021-04-10 08:41:27]: ***  [, Level 0]: (2)ChillerDragon is on a killing spree with 5 blocks
+[2021-04-10 08:41:35]: ***  [, Level 0]: 'rafel' joined the spectators
