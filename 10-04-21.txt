@@ -10798,3 +10798,4 @@
 [2021-04-10 13:43:40]: sun.slow(y) [FookinLads, Level 35]: Falco642: u understand
 [2021-04-10 13:43:43]: Falco642 [, Level 3]: sun.slow(y): bruh
 [2021-04-10 13:43:47]: Falco642 [, Level 3]: ok
+[2021-04-10 13:44:00]: ***  [, Level 0]: 'NidardoHD' joined the minigame 'Block', use '/block' to join aswell
