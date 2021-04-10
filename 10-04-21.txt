@@ -6124,3 +6124,9 @@
 [2021-04-10 08:09:50]: [D] Amirian [bad., Level 23]: taco bell: yes
 [2021-04-10 08:09:59]: ***  [, Level 0]: oyun krallı's killing spree was ended by bruh (5 blocks)
 [2021-04-10 08:10:10]: [D] Amirian [bad., Level 23]: ass
+[2021-04-10 08:10:13]: ***  [, Level 0]: '(1)kais' would have timed out, but can use timeout protection now
+[2021-04-10 08:10:13]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
+[2021-04-10 08:10:16]:   [, Level 0]: devilbundy: xddd
+[2021-04-10 08:10:21]: [D] Amirian [bad., Level 23]: devilbundy:
+[2021-04-10 08:10:21]: ERROR. [404, Level 41]: xD
+[2021-04-10 08:10:25]: ***  [, Level 0]: 'jeder' has left the game
