@@ -5920,3 +5920,6 @@
 [2021-04-10 07:55:43]: Amirian [, Level 29]: Marcisten:
 [2021-04-10 07:55:47]:   [, Level 0]: mamikral011: Amirian: ?
 [2021-04-10 07:55:50]: Amirian [, Level 29]: Marcisten:
+[2021-04-10 07:55:58]: ***  [, Level 0]: sL|KeBu28's killing spree was ended by mamikral011 (5 blocks)
+[2021-04-10 07:55:59]: ERROR. [404, Level 41]: but im bad
+[2021-04-10 07:56:01]: Amirian [, Level 29]: ERROR.:
