@@ -10742,3 +10742,4 @@
 [2021-04-10 13:31:50]: Flipper [, Level 15]: 1v1 cmon
 [2021-04-10 13:31:55]: ***  [, Level 0]: 'Kyoxis' has left the game
 [2021-04-10 13:31:56]: |HolyHo| [, Level 18]: Red Flag:
+[2021-04-10 13:32:11]: ***  [, Level 0]: 'power' entered and joined the game
