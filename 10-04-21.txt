@@ -11829,3 +11829,5 @@
 [2021-04-10 15:27:43]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-10 15:27:46]: any [404, Level 37]: Hunter.exe: he my friend
 [2021-04-10 15:27:51]: Hunter.exe [DogParty, Level 36]: any: war?
+[2021-04-10 15:28:15]: ***  [, Level 0]: Hunter.exe is on a killing spree with 5 blocks
+[2021-04-10 15:28:20]: Hunter.exe [DogParty, Level 36]: any: if you want war say it
