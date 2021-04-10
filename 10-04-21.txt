@@ -5961,3 +5961,5 @@
 [2021-04-10 07:58:18]: mamikral011 [DogParty, Level 21]: fuck D:
 [2021-04-10 07:58:20]:   [, Level 0]: hhnaut31: lagh
 [2021-04-10 07:58:23]: mamikral011 [DogParty, Level 21]: El patron: war?
+[2021-04-10 07:58:26]:   [, Level 0]: El patron: mamikral011: why
+[2021-04-10 07:58:29]: ERROR. [404, Level 41]: ez hh3
