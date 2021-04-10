@@ -12047,3 +12047,5 @@
 [2021-04-10 16:16:00]: fokkonaut [, Level 102]: moin NidardoHD
 [2021-04-10 16:16:04]: ***  [, Level 0]: fokkonaut is on a killing spree with 5 blocks
 [2021-04-10 16:16:09]: ***  [, Level 0]: 'DIMA' entered and joined the game
+[2021-04-10 16:16:18]: ***  [, Level 0]: fokkonaut's killing spree was ended by Zephir™ (7 blocks)
+[2021-04-10 16:16:24]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
