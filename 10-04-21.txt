@@ -4787,3 +4787,5 @@
 [2021-04-10 06:43:17]: ***  [, Level 0]: 'WarHammer' finished the special race!
 [2021-04-10 06:43:22]: ***  [, Level 0]: 'WarHammer'' finished the special race!
 [2021-04-10 06:43:23]:   [, Level 0]: [D] mamikral011: WarHammer': polise arkadan bi gel benim ki düştü
+[2021-04-10 06:43:39]: WarHammer' [DogParty, Level 16]: mamikral011:  ok
+[2021-04-10 06:43:43]: ***  [, Level 0]: Collected 1810 money
