@@ -11962,3 +11962,6 @@
 [2021-04-10 15:50:43]: Isegrin [, Level 55]: WarHammer: xaxa
 [2021-04-10 15:51:06]: Shutaz [, Level 0]: Isegrin: sag hallo ich fick dich
 [2021-04-10 15:51:34]: Isegrin [, Level 55]: sigh heil?
+[2021-04-10 15:51:37]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-10 15:51:40]: Shutaz [, Level 0]: perfection
+[2021-04-10 15:51:45]: S Y T H N [, Level 37]: Shutaz: huh
