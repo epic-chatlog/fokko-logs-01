@@ -10818,3 +10818,5 @@
 [2021-04-10 13:45:51]: Flipper [, Level 15]: DONT SPIKE HIM
 [2021-04-10 13:46:17]: ***  [, Level 0]: '\\Syth' entered and joined the game
 [2021-04-10 13:46:23]: ***  [, Level 0]: 'sleimi' entered and joined the game
+[2021-04-10 13:46:34]: Flupper [, Level 0]: bro
+[2021-04-10 13:46:41]: [D] El patron [, Level 0]: Flupper: you wanna help Falco641
