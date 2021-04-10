@@ -11521,3 +11521,10 @@
 [2021-04-10 15:02:43]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-10 15:02:49]: ***  [, Level 0]: '(1)RM | Arin' has left the game
 [2021-04-10 15:02:50]: iMxtteo [DogParty, Level 27]: ReXi: rauchst du ?
+[2021-04-10 15:02:51]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
+[2021-04-10 15:02:51]: ***  [, Level 0]: '(1)RM | Arin' has left the game
+[2021-04-10 15:02:54]: Zephir™ [, Level 39]: Hunter.exe: than baaaad
+[2021-04-10 15:02:58]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-10 15:03:00]: ReXi [, Level 16]: iMxtteo: nee
+[2021-04-10 15:03:01]: ***  [, Level 0]: Hunter.exe is on a killing spree with 10 blocks
+[2021-04-10 15:03:02]: ***  [, Level 0]: 'WarHammer' entered and joined the game
