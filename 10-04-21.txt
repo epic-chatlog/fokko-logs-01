@@ -8022,3 +8022,6 @@
 [2021-04-10 10:03:04]: ***  [, Level 0]: 'Axel' has left the game
 [2021-04-10 10:03:05]: Night Team :D [TrRShClNrRs, Level 20]: Axel:  why u dont afk ?
 [2021-04-10 10:03:07]:   [, Level 0]: fomjn: fuck u
+[2021-04-10 10:03:12]: ***  [, Level 0]: 'fomin' entered and joined the game
+[2021-04-10 10:03:16]: minecraft [, Level 12]: hhh3: it's hard
+[2021-04-10 10:03:19]: S Y T H N [, Level 37]: aaaaa
