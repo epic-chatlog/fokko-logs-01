@@ -8145,3 +8145,6 @@
 [2021-04-10 10:13:32]: (3)ChillerDrago [|*KoG*|, Level 45]: seit wann führst du nubs ein ERROR
 [2021-04-10 10:13:35]: Lebly [, Level 0]: which way for race?
 [2021-04-10 10:13:36]: MieSlime [FookinLads, Level 43]: ~DemoizL~:  il ma ramener au spawn alors que je voulais le jetpack
+[2021-04-10 10:13:42]: ~DemoizL~ [, Level 39]: MieSlime: ah
+[2021-04-10 10:13:46]: ERROR. [404, Level 56]: (2)ChillerDrago:  ers cool
+[2021-04-10 10:13:50]: MieSlime [FookinLads, Level 43]: ~DemoizL~:  genre j'etait au jet et il ma ramener au sapwn
