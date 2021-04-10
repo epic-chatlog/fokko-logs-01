@@ -10287,3 +10287,9 @@
 [2021-04-10 12:43:23]:   [, Level 0]: [D] Hunter.exe: Nudelsaft c:: hast du portal
 [2021-04-10 12:43:27]: (1)cookie [, Level 3]: Shiro.:  why
 [2021-04-10 12:43:31]: Swarfey [FookinLads, Level 37]: ja aber ich hol dich da sicher nich raus xd
+[2021-04-10 12:43:35]: Swarfey [FookinLads, Level 37]: musst du selber schaffen
+[2021-04-10 12:43:36]: (1)cookie [, Level 3]: Shiro.:  no im frend
+[2021-04-10 12:43:40]:   [, Level 0]: [D] Hunter.exe: Swarfey: cmon
+[2021-04-10 12:43:43]:   [, Level 0]: [D] Hunter.exe: Swarfey: bro
+[2021-04-10 12:43:44]: Flipper [, Level 15]: shiro!
+[2021-04-10 12:43:45]: (1)cookie [, Level 3]: Shiro.:  no im a frend why
