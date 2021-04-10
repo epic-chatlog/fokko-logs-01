@@ -10401,3 +10401,7 @@
 [2021-04-10 12:52:41]: Falco641 [.bad, Level 20]: Kezo: chill
 [2021-04-10 12:52:43]:   [, Level 0]: Kezo: rq
 [2021-04-10 12:52:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-10 12:52:51]:   [, Level 0]: Shiro.: what rq
+[2021-04-10 12:52:52]:   [, Level 0]: Shiro.: it's dummy
+[2021-04-10 12:52:55]:   [, Level 0]: Shiro.: u dumb or what no name
+[2021-04-10 12:52:58]:   [, Level 0]: Kezo: rq
