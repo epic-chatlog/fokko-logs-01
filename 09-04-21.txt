@@ -13651,3 +13651,5 @@
 [2021-04-09 21:24:12]: taco bell [, Level 4]: doesn't
 [2021-04-09 21:24:15]: Nudelsaft c: [FookinLads, Level 37]: its not sending anything
 [2021-04-09 21:24:22]: taco bell [, Level 4]: tru
+[2021-04-09 21:24:29]: Nudelsaft c: [FookinLads, Level 37]: on test server its working tho
+[2021-04-09 21:24:38]: Nudelsaft c: [FookinLads, Level 37]: no more dc crash abusing
