@@ -7144,3 +7144,8 @@
 [2021-04-10 09:04:20]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-10 09:04:32]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-10 09:04:37]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-10 09:04:39]: ***  [, Level 0]: GReeeN is on a killing spree with 30 blocks
+[2021-04-10 09:04:45]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-10 09:04:48]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-10 09:04:48]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-10 09:04:50]: ***  [, Level 0]: 'jeder' entered and joined the game
