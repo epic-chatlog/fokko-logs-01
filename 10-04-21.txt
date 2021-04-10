@@ -12045,3 +12045,5 @@
 [2021-04-10 16:15:34]: NidardoHD [FlexTape, Level 3]: ty <3
 [2021-04-10 16:15:55]: NidardoHD [FlexTape, Level 3]: fokkonaut: moin
 [2021-04-10 16:16:00]: fokkonaut [, Level 102]: moin NidardoHD
+[2021-04-10 16:16:04]: ***  [, Level 0]: fokkonaut is on a killing spree with 5 blocks
+[2021-04-10 16:16:09]: ***  [, Level 0]: 'DIMA' entered and joined the game
