@@ -9032,3 +9032,5 @@
 [2021-04-10 11:08:31]: ***  [, Level 0]: [D] El patron is on a killing spree with 10 blocks
 [2021-04-10 11:08:49]: [D] El patron [, Level 0]: Zephir™:  and u have taser
 [2021-04-10 11:08:52]: ***  [, Level 0]: 'Rem's bae' entered and joined the game
+[2021-04-10 11:09:02]: Zephir™ [, Level 39]: El patron: i don't use that shit
+[2021-04-10 11:09:08]: [D] El patron [, Level 0]: Zephir™: portal
