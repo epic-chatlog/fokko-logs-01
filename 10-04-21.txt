@@ -10133,3 +10133,6 @@
 [2021-04-10 12:29:40]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-10 12:29:43]: ***  [, Level 0]: 'weqe' has left the game
 [2021-04-10 12:29:50]: (3)cookie [, Level 0]: HardreenClutch:  i dont have kill you
+[2021-04-10 12:29:53]: ***  [, Level 0]: 'S0LUC4N1' entered and joined the game
+[2021-04-10 12:29:55]: ~DemoizL~ [, Level 39]: Zephir™: ducoup t'es qui ?
+[2021-04-10 12:30:03]: ***  [, Level 0]: 'Shiro.' entered and joined the game
