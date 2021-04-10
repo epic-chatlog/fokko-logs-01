@@ -5997,3 +5997,6 @@
 [2021-04-10 08:01:34]: Fuck you [, Level 40]: lag again
 [2021-04-10 08:01:38]: ERROR. [404, Level 41]: DDD
 [2021-04-10 08:01:41]: [D] Amirian [, Level 23]: yes thx
+[2021-04-10 08:01:44]: ***  [, Level 0]: 'Fuck you' has left the game
+[2021-04-10 08:01:51]: hmmmmmm [, Level 12]: thx Amirian
+[2021-04-10 08:01:56]:   [, Level 0]: ERROR.: xD
