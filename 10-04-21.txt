@@ -3109,3 +3109,8 @@
 [2021-04-10 04:50:00]:   [, Level 0]: MieSlime: |ΛnץOиe|:  oe ?
 [2021-04-10 04:50:01]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [2021-04-10 04:50:02]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-10 04:50:10]: |ΛnץOиe| [, Level 0]: MieSlime bonswere boté
+[2021-04-10 04:50:15]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-10 04:50:15]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-10 04:50:16]:   [, Level 0]: any: swarfey hayyyy
+[2021-04-10 04:50:16]: Fearless [Retard MNKY, Level 40]: power:  omg
