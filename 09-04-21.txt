@@ -13540,3 +13540,5 @@
 [2021-04-09 21:11:58]: Nudelsaft c: [FookinLads, Level 37]: wat
 [2021-04-09 21:11:58]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-09 21:11:59]: ***  [, Level 0]: '(1)Swarfey' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-09 21:12:32]: taco bell [, Level 4]: is it 15k xp per level?
+[2021-04-09 21:12:37]: taco bell [, Level 4]: does it ever increase
