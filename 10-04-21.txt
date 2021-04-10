@@ -11788,3 +11788,7 @@
 [2021-04-10 15:24:40]: Hunter.exe [DogParty, Level 36]: ich habe nicht mal was gemacht
 [2021-04-10 15:24:44]: ***  [, Level 0]: 'any' entered and joined the game
 [2021-04-10 15:24:45]: iMxtteo [DogParty, Level 27]: ReXi: hab heute 200k gemacht
+[2021-04-10 15:24:51]: any [404, Level 0]: heyyy Zephir™
+[2021-04-10 15:24:53]: ReXi [, Level 0]: Hunter.exe: du hast nix gemacht?
+[2021-04-10 15:24:54]: iMxtteo [DogParty, Level 27]: El patron: thought you are flappy lol
+[2021-04-10 15:24:58]: Hunter.exe [DogParty, Level 36]: nix?
