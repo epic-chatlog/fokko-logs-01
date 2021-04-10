@@ -2312,3 +2312,7 @@
 [2021-04-10 03:56:16]: ***  [, Level 0]: 'Swarfey' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-10 03:56:16]: ***  [, Level 0]: 'Nudelsaft c:' has left the game (Timeout)
 [2021-04-10 03:56:18]: RM | Arin [Retard MNKY, Level 15]: xD
+[2021-04-10 03:56:31]: RM | Arin [Retard MNKY, Level 15]: (1)ChillerDrago:  nab+
+[2021-04-10 03:56:31]: kais [, Level 65]: ChillerDragon: war is love, war is peace ? xD
+[2021-04-10 03:56:32]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 03:56:32]: ***  [, Level 0]: '(1)Swarfey' has left the game (Too weak connection (not acked for 60 seconds))
