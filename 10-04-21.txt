@@ -9736,3 +9736,5 @@
 [2021-04-10 12:10:02]: ***  [, Level 0]: 'minecraft' entered and joined the game
 [2021-04-10 12:10:12]: rayen [, Level 0]: sL|KeBu28: pls help
 [2021-04-10 12:10:16]: |HolyHo| [, Level 18]: Souly: <3
+[2021-04-10 12:10:19]: ERROR [404, Level 74]: HeavyGeneral:  but just 5min i go to sleep
+[2021-04-10 12:10:24]: HeavyGeneral [FookinLads, Level 44]: OOF
