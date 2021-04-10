@@ -7890,3 +7890,5 @@
 [2021-04-10 09:52:15]: rayen [, Level 0]: cookie:  ok
 [2021-04-10 09:52:19]: cookie [, Level 18]: rayen:  thx
 [2021-04-10 09:52:43]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-10 09:52:58]: Axel [TrRShClNrRs, Level 30]: laggggg
+[2021-04-10 09:53:05]: Axel [TrRShClNrRs, Level 30]: flappy moment
