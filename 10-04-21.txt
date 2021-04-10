@@ -12148,3 +12148,5 @@
 [2021-04-10 16:39:25]: Shutaz [, Level 0]: bruh
 [2021-04-10 16:42:43]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-10 16:44:53]: Shutaz [, Level 0]: Zephir™: arrest me xD
+[2021-04-10 16:45:02]: Zephir™ [, Level 39]: Shutaz: why ?
+[2021-04-10 16:45:03]: Shutaz [, Level 0]: right
