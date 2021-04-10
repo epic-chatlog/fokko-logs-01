@@ -1012,3 +1012,6 @@
 [2021-04-10 02:05:53]: (1)ビール|Ze [Drunks, Level 15]: bruh: dont be here
 [2021-04-10 02:06:01]: ***  [, Level 0]: '[D] RM toxicdad' entered and joined the game
 [2021-04-10 02:06:02]: comic [comically, Level 14]: inf jump anyone?
+[2021-04-10 02:06:05]: (1)ビール|Ze [Drunks, Level 15]: bruh: i cant help
+[2021-04-10 02:06:05]: ***  [, Level 0]: 'iMxtteo D' entered and joined the game
+[2021-04-10 02:06:06]: ***  [, Level 0]: (1)ビール|Zero's killing spree was ended by RM|Saud (9 blocks)
