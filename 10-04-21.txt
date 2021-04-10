@@ -10989,3 +10989,5 @@
 [2021-04-10 14:04:12]: ***  [, Level 0]: '[D] taco bell' entered and joined the game
 [2021-04-10 14:04:14]: Axandos [, Level 0]: taco bell:  no balls and write in global chat
 [2021-04-10 14:04:33]: ***  [, Level 0]: 'Axandos²' entered and joined the game
+[2021-04-10 14:05:02]: [D] El patron [, Level 0]: me aim
+[2021-04-10 14:05:04]: \\Syth [, Level 30]: Nidardo.:
