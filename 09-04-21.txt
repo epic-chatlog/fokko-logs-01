@@ -13597,3 +13597,7 @@
 [2021-04-09 21:16:36]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-09 21:16:51]: Swarfey [FookinLads, Level 59]: abc
 [2021-04-09 21:17:01]: Swarfey [FookinLads, Level 59]: https://google.com
+[2021-04-09 21:17:17]: taco bell [, Level 4]: https://tornadus.net/orange
+[2021-04-09 21:17:19]: Swarfey [FookinLads, Level 59]: a
+[2021-04-09 21:17:22]: taco bell [, Level 4]: I like turtles.
+[2021-04-09 21:17:25]: Swarfey [FookinLads, Level 59]: taco bell: fuck u xdf
