@@ -9344,3 +9344,8 @@
 [2021-04-10 11:28:57]: El patron [, Level 28]: bob: wtf
 [2021-04-10 11:29:06]: (1)Saud [MNKY, Level 19]: Fearless:  u are so bad men
 [2021-04-10 11:29:11]: (1)Saud [MNKY, Level 19]: Fearless:  come vc
+[2021-04-10 11:29:18]: ***  [, Level 0]: '|HolyHo|°' has left the game (Timeout)
+[2021-04-10 11:29:18]: ***  [, Level 0]: '|HolyHo|' has left the game (Timeout)
+[2021-04-10 11:29:20]: El patron [, Level 28]: HardreenClutch: help will go
+[2021-04-10 11:29:21]: ***  [, Level 0]: 'Rem's dummy' has left the game
+[2021-04-10 11:29:21]: ***  [, Level 0]: 'Rem's bae' has left the game
