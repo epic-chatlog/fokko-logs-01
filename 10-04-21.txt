@@ -5552,3 +5552,6 @@
 [2021-04-10 07:25:04]: ***  [, Level 0]: 'Souly' would have timed out, but can use timeout protection now
 [2021-04-10 07:25:04]: ***  [, Level 0]: 'SoulyD' would have timed out, but can use timeout protection now
 [2021-04-10 07:25:15]: power [TrRShClNrRs, Level 15]: PANZELKOWY:
+[2021-04-10 07:25:16]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
+[2021-04-10 07:25:21]: S Y T H N [DogParty, Level 37]: iMxtteo: helf nicht Zʷʰʸˀ
+[2021-04-10 07:25:24]:   [, Level 0]: iMxtteo: k
