@@ -10076,3 +10076,4 @@
 [2021-04-10 12:26:34]: weqe [669, Level 12]: bob: |HolyHo| helped me
 [2021-04-10 12:26:38]: Zephir™ [, Level 39]: ERROR: no thx ^^
 [2021-04-10 12:26:45]: bob [669, Level 36]: weqe: he traitor
+[2021-04-10 12:26:53]: |HolyHo| [, Level 18]: bob he killed me
