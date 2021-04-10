@@ -13232,3 +13232,6 @@
 [2021-04-09 17:43:13]: Kirito [, Level 40]: iMxtteo: ahja
 [2021-04-09 17:43:19]: iMxtteo [DogParty, Level 27]: mannn
 [2021-04-09 17:43:37]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-09 17:43:52]: Kirito [, Level 40]: klaus: my jet
+[2021-04-09 17:43:56]: klaus [DogParty, Level 40]: HELP MY DUMMY
+[2021-04-09 17:43:59]: ***  [, Level 0]: (1)Zʷʰʸˀ is on a killing spree with 5 blocks
