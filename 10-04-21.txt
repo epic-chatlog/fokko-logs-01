@@ -3147,3 +3147,4 @@
 [2021-04-10 04:52:17]: ***  [, Level 0]: 'King|No Game' entered and joined the game
 [2021-04-10 04:52:19]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [2021-04-10 04:52:19]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-10 04:52:30]: comic [comically, Level 14]: hah
