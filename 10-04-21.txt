@@ -6084,3 +6084,6 @@
 [2021-04-10 08:06:32]: ***  [, Level 0]: 'Fuck you' entered and joined the game
 [2021-04-10 08:06:33]: ***  [, Level 0]: 'nennybaba' entered and joined the game
 [2021-04-10 08:06:35]: [D] Amirian [, Level 23]: El patron: pls dont kill taco bell
+[2021-04-10 08:06:40]: ***  [, Level 0]: '[D] Fuck you' entered and joined the game
+[2021-04-10 08:06:50]: [D] Amirian [, Level 23]: Fuck you: PLS HELP ME
+[2021-04-10 08:06:52]: taco bell [, Level 6]: imposter is sus
