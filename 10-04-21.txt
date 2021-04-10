@@ -5755,3 +5755,7 @@
 [2021-04-10 07:40:10]: El patron [, Level 0]: flappy: can we be friends
 [2021-04-10 07:40:30]: ***  [, Level 0]: 'toine' has left the game
 [2021-04-10 07:40:36]:   [, Level 0]: Sad Guy: rife
+[2021-04-10 07:40:37]: El patron [, Level 0]: flappy:
+[2021-04-10 07:40:39]:   [, Level 0]: Sad Guy: rife
+[2021-04-10 07:40:39]: ***  [, Level 0]: 'cunt' entered and joined the game
+[2021-04-10 07:40:40]: El patron [, Level 0]: flappy: can we be friends
