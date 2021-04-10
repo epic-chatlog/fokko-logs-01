@@ -10446,3 +10446,7 @@
 [2021-04-10 12:55:39]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-10 12:55:40]: ***  [, Level 0]: 'NidardoHD' would have timed out, but can use timeout protection now
 [2021-04-10 12:55:40]: ***  [, Level 0]: 'Nidardo.' would have timed out, but can use timeout protection now
+[2021-04-10 12:55:58]: Kezo [DogParty, Level 41]: sun.slow(y): orospu cocugu
+[2021-04-10 12:56:03]: ***  [, Level 0]: '[D] El patron' entered and joined the game
+[2021-04-10 12:56:03]: Nudelsaft c: [FookinLads, Level 37]: I like turtles.
+[2021-04-10 12:56:06]: sun.slow(y) [FookinLads, Level 35]: Kezo: kanka
