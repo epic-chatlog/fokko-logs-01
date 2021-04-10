@@ -6260,3 +6260,7 @@
 [2021-04-10 08:17:12]: ***  [, Level 0]: 'power' has left the game
 [2021-04-10 08:17:13]: hhnaut31 [, Level 43]: ERROR:
 [2021-04-10 08:17:22]: oyun krallı [, Level 0]: EL P<ATRON VHELPLS
+[2021-04-10 08:17:33]: ***  [, Level 0]: 'Nidardo.' has left the game
+[2021-04-10 08:17:41]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-10 08:17:42]: FAKE [, Level 24]: FUCK
+[2021-04-10 08:17:43]: oyun krallı [, Level 0]: EL PATRON VHELPLS
