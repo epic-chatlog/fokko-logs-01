@@ -7781,3 +7781,5 @@
 [2021-04-10 09:43:36]: ***  [, Level 0]: 'Lucas' has left the game (Timeout)
 [2021-04-10 09:43:41]: ***  [, Level 0]: 'Lucas' entered and joined the game
 [2021-04-10 09:43:59]: El patron [, Level 27]: Lucas: help
+[2021-04-10 09:44:29]: ***  [, Level 0]: 'RM| bob' has left the game
+[2021-04-10 09:44:30]: Axel [TrRShClNrRs, Level 30]: Almost
