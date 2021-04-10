@@ -3033,3 +3033,4 @@
 [2021-04-10 04:44:24]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-10 04:44:24]: ***  [, Level 0]: 'fernan' entered and joined the game
 [2021-04-10 04:44:26]: (1)kais [, Level 58]: No game: c'est tjr ça de pris
+[2021-04-10 04:44:42]:   [, Level 0]: King|No Game: (1)kais: ouais xD
