@@ -4811,3 +4811,6 @@
 [2021-04-10 06:45:18]:   [, Level 0]: Sad Guy: Maatiteusz: gościu
 [2021-04-10 06:45:19]: ***  [, Level 0]: 'haxxless dummy' entered and joined the game
 [2021-04-10 06:45:25]:   [, Level 0]: Sad Guy: Maatiteusz: to nie ich winna
+[2021-04-10 06:45:38]: ***  [, Level 0]: 'haxxless dummy' changed name to 'ERROR'
+[2021-04-10 06:45:40]: ***  [, Level 0]: 'haxxless tee' changed name to '(1)ERROR'
+[2021-04-10 06:45:46]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
