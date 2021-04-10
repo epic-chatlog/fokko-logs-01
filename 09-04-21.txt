@@ -13559,3 +13559,7 @@
 [2021-04-09 21:13:30]: ***  [, Level 0]: 'RM|weqe' has left the game
 [2021-04-09 21:13:32]: Nudelsaft c: [FookinLads, Level 37]: 60
 [2021-04-09 21:13:37]: taco bell [, Level 4]: wow.
+[2021-04-09 21:13:44]: Hҽρԋαҽʂƚ [, Level 0]: taco bell:
+[2021-04-09 21:13:44]: ***  [, Level 0]: '(2)Nudelsaft c:' entered and joined the game
+[2021-04-09 21:13:44]: Nudelsaft c: [FookinLads, Level 37]: error stfu xd
+[2021-04-09 21:13:48]: taco bell [, Level 4]: epic
