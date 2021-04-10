@@ -10967,3 +10967,6 @@
 [2021-04-10 14:01:27]: \\Syth [, Level 30]: power: save or war
 [2021-04-10 14:01:33]: ***  [, Level 0]: '[D] taco bell' has left the game
 [2021-04-10 14:01:35]: Flipper [, Level 15]: rifle
+[2021-04-10 14:01:45]: power [TrRShClNrRs, Level 0]: did u just rob me Flipper ??
+[2021-04-10 14:01:47]: ***  [, Level 0]: '(1)iMxtteo' entered and joined the game
+[2021-04-10 14:01:48]: Flipper [, Level 15]: yes
