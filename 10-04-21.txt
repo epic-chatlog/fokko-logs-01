@@ -10716,3 +10716,6 @@
 [2021-04-10 13:26:47]: ***  [, Level 0]: 'samzeraYT' entered and joined the game
 [2021-04-10 13:27:18]: ***  [, Level 0]: 'samzeraYT' has left the game
 [2021-04-10 13:27:20]: Falco642 [, Level 3]: lagg
+[2021-04-10 13:27:41]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
+[2021-04-10 13:27:42]: ***  [, Level 0]: 'EZ FOR ME' has left the game
+[2021-04-10 13:27:43]: ***  [, Level 0]: [INFO] You can create an account using '/register'
