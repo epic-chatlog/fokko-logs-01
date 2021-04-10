@@ -10073,3 +10073,6 @@
 [2021-04-10 12:26:17]: ***  [, Level 0]: '[D] BULLETBOT' has been muted for 60 seconds
 [2021-04-10 12:26:24]: |HolyHo| [, Level 18]: weqe: ?
 [2021-04-10 12:26:24]: Zephir™ [, Level 39]: |HolyHo|: wait i kill u everytime, now never peace
+[2021-04-10 12:26:34]: weqe [669, Level 12]: bob: |HolyHo| helped me
+[2021-04-10 12:26:38]: Zephir™ [, Level 39]: ERROR: no thx ^^
+[2021-04-10 12:26:45]: bob [669, Level 36]: weqe: he traitor
