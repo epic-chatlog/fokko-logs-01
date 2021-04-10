@@ -11806,3 +11806,9 @@
 [2021-04-10 15:25:59]: ***  [, Level 0]: 'FlipLow' entered and joined the game
 [2021-04-10 15:26:06]: ReXi [, Level 0]: Hunter.exe: ich bin nicht gemein
 [2021-04-10 15:26:12]: Hunter.exe [DogParty, Level 36]: ich werde doch schon von dem Lukas gemobbt
+[2021-04-10 15:26:18]: ReXi [, Level 0]: Hunter.exe: wie nett sind denn die leute bei dir alter
+[2021-04-10 15:26:19]: Hunter.exe [DogParty, Level 36]: warum mobbt ihr mich
+[2021-04-10 15:26:19]: Zephir™ [, Level 39]: any: je me bat contre Hunter.exe et El patron
+[2021-04-10 15:26:21]: ***  [, Level 0]: 'FlipLow' has left the game
+[2021-04-10 15:26:23]: Hunter.exe [DogParty, Level 36]: ich sage das meine lehrerin
+[2021-04-10 15:26:25]: nameless tee [, Level 0]: what do I need to do here?
