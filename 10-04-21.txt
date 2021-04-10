@@ -9619,3 +9619,4 @@
 [2021-04-10 11:57:48]: (1)cookie [, Level 0]: noooo
 [2021-04-10 11:57:57]: Zephir™ [, Level 39]: weqe: ezzz
 [2021-04-10 11:58:01]: (1)cookie [, Level 0]: Marcisten Dummy:  closde
+[2021-04-10 11:58:06]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Block', use '/block' to join aswell
