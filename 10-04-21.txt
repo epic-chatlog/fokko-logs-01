@@ -9406,3 +9406,5 @@
 [2021-04-10 11:33:16]: ***  [, Level 0]: '[D] BC|serwan' has left the game
 [2021-04-10 11:33:16]: ***  [, Level 0]: 'BC|serwan' has left the game
 [2021-04-10 11:33:17]: SanoreX [Chilli.*, Level 27]: Cylox: help
+[2021-04-10 11:33:29]: SanoreX [Chilli.*, Level 27]: Cylox: lan alcaz kezoyu helkp
+[2021-04-10 11:33:36]: SanoreX [Chilli.*, Level 27]: tee.: help spec me
