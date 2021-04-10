@@ -7259,3 +7259,9 @@
 [2021-04-10 09:11:36]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-10 09:11:39]: ***  [, Level 0]: 'Shiro,' has left the game
 [2021-04-10 09:11:45]: Mʎɹシ - Cat [, Level 21]: hhh3: fun
+[2021-04-10 09:12:00]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-10 09:12:00]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-10 09:12:01]: Souly [, Level 60]: (2)ChillerDrago: btw, what about that kill tiles balancing issue
+[2021-04-10 09:12:02]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-10 09:12:02]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-10 09:12:08]: Shiro. [Whɪтє, Level 51]: ok taser is level max now
