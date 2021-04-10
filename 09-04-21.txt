@@ -13387,3 +13387,4 @@
 [2021-04-09 18:10:01]: S Y T H N [DogParty, Level 37]: Kirito: tue ich gerrade
 [2021-04-09 18:12:19]: S Y T H N [DogParty, Level 37]: Kirito: auf  dc antwortet er fast nie xD!
 [2021-04-09 18:12:24]: Kirito [, Level 40]: S Y T H N: ik :D
+[2021-04-09 18:13:37]: ***  [, Level 0]: [INFO] You can create an account using '/register'
