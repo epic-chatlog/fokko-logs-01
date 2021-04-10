@@ -8193,3 +8193,4 @@
 [2021-04-10 10:16:14]: MieSlime [FookinLads, Level 43]: Saud:  ok stay here so
 [2021-04-10 10:16:16]: ***  [, Level 0]: 'RM|Saud' entered and joined the game
 [2021-04-10 10:16:22]: ***  [, Level 0]: 'uptoram' entered and joined the game
+[2021-04-10 10:16:39]: ***  [, Level 0]: HardreenClutch's killing spree was ended by ChillerDragon.* (5 blocks)
