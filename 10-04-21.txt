@@ -2608,3 +2608,8 @@
 [2021-04-10 04:16:12]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-10 04:16:14]: (1)ChillerDrago [Chilli.*, Level 33]: rq
 [2021-04-10 04:16:18]: nameless tee [, Level 0]: ca va bien
+[2021-04-10 04:16:20]: (1)ChillerDrago [Chilli.*, Level 33]: Swarfey rq
+[2021-04-10 04:16:21]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-10 04:16:24]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-10 04:16:27]: ***  [, Level 0]: 'RM| bob' entered and joined the game
+[2021-04-10 04:16:28]: ***  [, Level 0]: 'Kaptar' has left the game
