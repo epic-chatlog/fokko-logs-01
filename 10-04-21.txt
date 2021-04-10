@@ -9429,3 +9429,6 @@
 [2021-04-10 11:37:10]: ***  [, Level 0]: 'Fearless' changed name to 'asd'
 [2021-04-10 11:37:18]: mrwodka936 [, Level 0]: ES:
 [2021-04-10 11:37:31]: ***  [, Level 0]: 'asd' changed name to 'Fearless'
+[2021-04-10 11:37:42]: ***  [, Level 0]: '(2)cookie' entered and joined the game
+[2021-04-10 11:37:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-10 11:37:47]: ***  [, Level 0]: '|HolyHo|' entered and joined the game
