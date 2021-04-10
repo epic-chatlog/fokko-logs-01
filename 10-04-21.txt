@@ -9709,3 +9709,5 @@
 [2021-04-10 12:08:28]: weqe [669, Level 12]: HeavyGeneral: what happend to taser ?
 [2021-04-10 12:08:33]: HeavyGeneral [FookinLads, Level 44]: weqe: nerfed
 [2021-04-10 12:08:37]: weqe [669, Level 12]: HeavyGeneral: how
+[2021-04-10 12:08:41]: ***  [, Level 0]: 'hhh3' has left the game
+[2021-04-10 12:08:44]: ERROR [404, Level 74]: raid what
