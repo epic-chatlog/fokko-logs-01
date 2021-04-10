@@ -10136,3 +10136,6 @@
 [2021-04-10 12:29:53]: ***  [, Level 0]: 'S0LUC4N1' entered and joined the game
 [2021-04-10 12:29:55]: ~DemoizL~ [, Level 39]: Zephir™: ducoup t'es qui ?
 [2021-04-10 12:30:03]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-10 12:30:07]: ***  [, Level 0]: 'minecraft' would have timed out, but can use timeout protection now
+[2021-04-10 12:30:13]: ***  [, Level 0]: 'Falco641' entered and joined the game
+[2021-04-10 12:30:14]:   [, Level 0]: Shiro.: koro
