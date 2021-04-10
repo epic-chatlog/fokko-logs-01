@@ -9705,3 +9705,7 @@
 [2021-04-10 12:08:16]: HeavyGeneral [FookinLads, Level 44]: ERROR: what do u feel,taser still gut?
 [2021-04-10 12:08:17]: (1)cookie [, Level 3]: heavy
 [2021-04-10 12:08:19]: ***  [, Level 0]: weqe is on a killing spree with 5 blocks
+[2021-04-10 12:08:27]: ERROR [404, Level 74]: didnt used today
+[2021-04-10 12:08:28]: weqe [669, Level 12]: HeavyGeneral: what happend to taser ?
+[2021-04-10 12:08:33]: HeavyGeneral [FookinLads, Level 44]: weqe: nerfed
+[2021-04-10 12:08:37]: weqe [669, Level 12]: HeavyGeneral: how
