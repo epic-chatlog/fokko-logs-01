@@ -8684,3 +8684,6 @@
 [2021-04-10 10:44:28]: Kezo [DogParty, Level 41]: FİGHT FİGHT
 [2021-04-10 10:44:33]: (1)ChillerDrago [Chilli.*, Level 42]: du spielst multi ERROR ?
 [2021-04-10 10:44:34]: Kezo [DogParty, Level 41]: FİGHT FİGHT
+[2021-04-10 10:44:43]: ERROR. [404, Level 56]: (1)ChillerDrago:  eben nur einmal block dort mit bulgi
+[2021-04-10 10:44:47]: ERROR. [404, Level 56]: Lebly:  well igtg now
+[2021-04-10 10:44:51]: Kezo [DogParty, Level 41]: FİGHT FİGHT
