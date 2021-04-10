@@ -6051,3 +6051,7 @@
 [2021-04-10 08:04:51]: El patron [, Level 0]: taco bell:
 [2021-04-10 08:04:54]: [D] Amirian [, Level 23]: <><><><><>><><><><>><<>><><><>><>>>< down
 [2021-04-10 08:04:54]: El patron [, Level 0]: [D] taco bell:
+[2021-04-10 08:04:59]: [D] taco bell [, Level 4]: what
+[2021-04-10 08:05:04]: El patron [, Level 0]: help
+[2021-04-10 08:05:05]: [D] Amirian [, Level 23]: <><><><><>><><><><>><<>><><><>><>>>< down hmmmmmm
+[2021-04-10 08:05:08]: [D] taco bell [, Level 4]: you blocked me
