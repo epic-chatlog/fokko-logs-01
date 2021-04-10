@@ -11508,3 +11508,4 @@
 [2021-04-10 15:00:58]: ***  [, Level 0]: 'Nidardo.' has left the game
 [2021-04-10 15:00:58]: ***  [, Level 0]: 'NidardoHD' has left the game
 [2021-04-10 15:00:58]: iMxtteo [DogParty, Level 27]: ReXi: du gesicht
+[2021-04-10 15:01:10]: Hunter.exe [DogParty, Level 36]: ReXi: wie alt bist du
