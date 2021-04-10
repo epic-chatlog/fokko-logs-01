@@ -1486,3 +1486,6 @@
 [2021-04-10 02:57:05]:   [, Level 0]: Isegrin: NoobEmir: NIGA TO JAIL
 [2021-04-10 02:57:23]: BC|Tixnix [BC, Level 34]: hahahaa
 [2021-04-10 02:57:37]: ***  [, Level 0]: Tom is on a killing spree with 5 blocks
+[2021-04-10 02:57:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-10 02:57:47]: [D] mamikral011 [DogParty, Level 26]: Souly: pls help
+[2021-04-10 02:57:52]: [D] mamikral011 [DogParty, Level 26]: Souly: spec
