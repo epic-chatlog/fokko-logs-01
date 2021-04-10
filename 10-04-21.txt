@@ -1284,3 +1284,7 @@
 [2021-04-10 02:37:11]: kais [, Level 65]: RM | Arin: waiting here is useless
 [2021-04-10 02:37:12]: (1)RM | Arin [Retard MNKY, Level 0]: haha kais  good try
 [2021-04-10 02:37:20]: (1)RM | Arin [Retard MNKY, Level 0]: kais:  ik
+[2021-04-10 02:37:39]: (1)RM|Saud [Retard MNKY, Level 24]: kais:  open ur plot
+[2021-04-10 02:37:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-10 02:37:42]: kais [, Level 65]: no
+[2021-04-10 02:37:46]: (1)RM|Saud [Retard MNKY, Level 24]: xD
