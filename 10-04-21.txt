@@ -9529,3 +9529,7 @@
 [2021-04-10 11:47:24]: |HolyHo|° [, Level 28]: weqe: ghost is gay awnser
 [2021-04-10 11:47:28]: ***  [, Level 0]: '[D] Cylox' has left the game
 [2021-04-10 11:47:28]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-10 11:47:32]: ***  [, Level 0]: 'PANZELKOWY' entered and joined the game
+[2021-04-10 11:47:36]: |HolyHo|° [, Level 28]: weqe: why u kill i am friendd
+[2021-04-10 11:47:36]: ***  [, Level 0]: 'PANZELKOWY' has left the game
+[2021-04-10 11:47:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
