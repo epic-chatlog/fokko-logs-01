@@ -16,3 +16,4 @@
 [2021-04-10 00:07:39]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
 [2021-04-10 00:07:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-10 00:07:48]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
+[2021-04-10 00:08:03]: kurama [, Level 10]: Jerry: can i copy ur skin?
