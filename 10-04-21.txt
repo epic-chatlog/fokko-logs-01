@@ -5617,3 +5617,7 @@
 [2021-04-10 07:29:03]: (1)ERROR [404, Level 47]: S Y T H N:  ist schon lange wieder ddnet
 [2021-04-10 07:29:04]: ***  [, Level 0]: 'Souly' has left the game (Timeout Protection over)
 [2021-04-10 07:29:04]: ***  [, Level 0]: 'SoulyD' has left the game (Timeout Protection over)
+[2021-04-10 07:29:08]:   [, Level 0]: Sad Guy: XD
+[2021-04-10 07:29:08]: [D] mamikral011 [DogParty, Level 26]: [D] Cylox: gel
+[2021-04-10 07:29:08]: Cylox [, Level 31]: efm
+[2021-04-10 07:29:18]: [D] mamikral011 [DogParty, Level 26]: [D] Cylox: benim dummy alsana
