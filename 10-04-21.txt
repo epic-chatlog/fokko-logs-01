@@ -6236,3 +6236,6 @@
 [2021-04-10 08:15:32]: nennybaba [, Level 0]: ye
 [2021-04-10 08:15:33]: nennybaba [, Level 0]: ok
 [2021-04-10 08:15:34]: ***  [, Level 0]: 'rafel' joined the game
+[2021-04-10 08:15:37]: ERROR. [404, Level 41]: omg
+[2021-04-10 08:15:38]: ERROR. [404, Level 41]: fr
+[2021-04-10 08:15:39]: FAKE [, Level 24]: hhh3: sad
