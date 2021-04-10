@@ -8277,3 +8277,5 @@
 [2021-04-10 10:21:32]: ***  [, Level 0]: 'BC|Tixnix' has left the game
 [2021-04-10 10:21:32]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
 [2021-04-10 10:21:51]: ERROR. [404, Level 56]: come inf jumps
+[2021-04-10 10:22:03]: ***  [, Level 0]: 'Lucas' started an auction on plot 8 for 5000 money (plot expires on 10.04.2021 (21:00))
+[2021-04-10 10:22:03]: ***  [, Level 0]: Use '/plot buy 5000 Lucas' to buy the plot
