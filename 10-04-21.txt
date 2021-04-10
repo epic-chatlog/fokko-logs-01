@@ -5691,3 +5691,5 @@
 [2021-04-10 07:34:06]: Falco641 [.bad, Level 19]: Axel:
 [2021-04-10 07:34:06]:   [, Level 0]: Sad Guy: rife
 [2021-04-10 07:34:35]: S Y T H N [DogParty, Level 37]: brauche laser
+[2021-04-10 07:34:46]: Hunter.exe [DogParty, Level 36]: SHCNELL
+[2021-04-10 07:34:52]: Hunter.exe [DogParty, Level 36]: DIGGa
