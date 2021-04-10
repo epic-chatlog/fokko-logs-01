@@ -2853,3 +2853,7 @@
 [2021-04-10 04:32:28]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-10 04:32:29]: No game [Just me, Level 40]: Sad Guy: nooooo
 [2021-04-10 04:32:30]: Sad Guy [, Level 40]: bb
+[2021-04-10 04:32:33]: ***  [, Level 0]: 'Sad Guy' has left the game
+[2021-04-10 04:32:33]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-10 04:32:37]: No game [Just me, Level 40]: FUCK
+[2021-04-10 04:32:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
