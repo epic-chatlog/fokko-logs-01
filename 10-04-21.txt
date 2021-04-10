@@ -1178,3 +1178,5 @@
 [2021-04-10 02:22:31]: (1)kais [, Level 58]: serais-tu devin ?
 [2021-04-10 02:22:32]: ~DemoizL~ [, Level 39]: je suis voyante
 [2021-04-10 02:22:32]: ***  [, Level 0]: 'Nevermind' has left the game
+[2021-04-10 02:22:40]: ~DemoizL~ [, Level 39]: ui
+[2021-04-10 02:22:42]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
