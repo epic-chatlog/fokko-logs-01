@@ -13378,3 +13378,6 @@
 [2021-04-09 18:07:53]: S Y T H N [DogParty, Level 37]: hahaahah
 [2021-04-09 18:08:37]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-09 18:08:41]: Kirito [, Level 40]: S Y T H N: ich müsste irgendwie hoch
+[2021-04-09 18:08:48]: S Y T H N [DogParty, Level 37]: Kirito: why
+[2021-04-09 18:08:51]: ***  [, Level 0]: 'fokkonaut' has left the game
+[2021-04-09 18:08:54]: Kirito [, Level 40]: S Y T H N: in meinem plot die leute stacken
