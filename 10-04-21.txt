@@ -3096,3 +3096,5 @@
 [2021-04-10 04:48:28]: |ΛnץOиe| [, Level 0]: idiot
 [2021-04-10 04:48:38]: any [404, Level 37]: (1)ChillerDrago:
 [2021-04-10 04:48:39]: (1)ChillerDrago [|*KoG*|, Level 33]: any: I am currently afk.
+[2021-04-10 04:48:56]: ***  [, Level 0]: 'Swarfey' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 04:48:56]: ***  [, Level 0]: 'Nudelsaft c:' has left the game (Timeout)
