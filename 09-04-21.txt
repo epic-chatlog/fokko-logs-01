@@ -13626,3 +13626,5 @@
 [2021-04-09 21:19:46]: ***  [, Level 0]: 'o' has left the game
 [2021-04-09 21:19:46]: ***  [, Level 0]: 'DiscordBridge' has left the game
 [2021-04-09 21:19:46]: ***  [, Level 0]: Collected 428 money
+[2021-04-09 21:21:26]: ***  [, Level 0]: Successfully logged in
+[2021-04-09 21:21:27]: taco bell [, Level 4]: wowowowowoowow
