@@ -10129,3 +10129,7 @@
 [2021-04-10 12:29:35]: (1)Kirito [, Level 40]: Flipper: im eating :D
 [2021-04-10 12:29:36]: bob [669, Level 36]: me too brother
 [2021-04-10 12:29:37]: bob [669, Level 36]: fk this
+[2021-04-10 12:29:40]: ***  [, Level 0]: 'fitz' entered and joined the game
+[2021-04-10 12:29:40]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-10 12:29:43]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-10 12:29:50]: (3)cookie [, Level 0]: HardreenClutch:  i dont have kill you
