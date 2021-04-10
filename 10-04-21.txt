@@ -10955,3 +10955,6 @@
 [2021-04-10 13:59:13]: NidardoHD [FlexTape, Level 2]: sleimi: double rocket
 [2021-04-10 13:59:28]: sleimi [team_sleimi, Level 0]: was
 [2021-04-10 13:59:42]: \\Syth [, Level 30]: power: wtf
+[2021-04-10 13:59:45]: ***  [, Level 0]: 'taco bell' entered and joined the game
+[2021-04-10 13:59:49]: Flipper [, Level 15]: SHIT MAN
+[2021-04-10 13:59:55]: ***  [, Level 0]: '[D] taco bell' entered and joined the game
