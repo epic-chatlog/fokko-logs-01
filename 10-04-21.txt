@@ -2261,3 +2261,11 @@
 [2021-04-10 03:52:36]: Fearless [Retard MNKY, Level 15]: kais:  pro
 [2021-04-10 03:52:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-10 03:52:45]: Fearless [Retard MNKY, Level 15]: kais:  only once?
+[2021-04-10 03:52:51]: Isegrin [, Level 55]: xD
+[2021-04-10 03:52:51]: (1)kais [, Level 58]: Fearless: no, always
+[2021-04-10 03:52:55]: Fearless [Retard MNKY, Level 15]: kais:  meh
+[2021-04-10 03:52:57]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-10 03:52:58]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-10 03:52:58]: ***  [, Level 0]: 'Fearless' has left the game
+[2021-04-10 03:52:58]: ***  [, Level 0]: '[D] Fearless' has left the game
+[2021-04-10 03:53:00]: (1)kais [, Level 58]: Fearless: think it is fair
