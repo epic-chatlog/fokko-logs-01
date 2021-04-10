@@ -6371,3 +6371,5 @@
 [2021-04-10 08:25:32]: rafel [otakos, Level 0]: hello
 [2021-04-10 08:25:38]: ***  [, Level 0]: 'mog' entered and joined the game
 [2021-04-10 08:25:38]: power [TrRShClNrRs, Level 0]: its so hard ERROR uff
+[2021-04-10 08:25:48]: ***  [, Level 0]: 'mog' has left the game
+[2021-04-10 08:25:57]: NidardoHD [FlexTape, Level 0]: xd
