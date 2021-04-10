@@ -13393,3 +13393,4 @@
 [2021-04-09 18:15:34]: ***  [, Level 0]: '(1)RM|Saud' has left the game (Timeout)
 [2021-04-09 18:16:06]: S Y T H N [DogParty, Level 37]: yagami Kirito heisst rückwerts
 [2021-04-09 18:16:22]: Kirito [, Level 40]: S Y T H N: was?
+[2021-04-09 18:16:31]: S Y T H N [DogParty, Level 37]: Kirito: was heisst yagami rückwerts
