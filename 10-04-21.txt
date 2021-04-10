@@ -4084,3 +4084,7 @@
 [2021-04-10 06:00:19]: ***  [, Level 0]: 'kiøn1029' finished the special race!
 [2021-04-10 06:00:23]:   [, Level 0]: kurama: {~}Shasha{~}: wait
 [2021-04-10 06:00:23]: ***  [, Level 0]: Meetiteusz finished in: 5 minute(s) 16.96 second(s)
+[2021-04-10 06:00:34]:   [, Level 0]: Kezo: WarHammer: ŞAKAM
+[2021-04-10 06:00:35]: WarHammer [DogParty, Level 26]: nub
+[2021-04-10 06:00:42]: Kiøn1029 [.bad, Level 32]: huh
+[2021-04-10 06:00:42]:   [, Level 0]: kurama: {~}Shasha{~}: wait a kais
