@@ -10192,3 +10192,4 @@
 [2021-04-10 12:34:58]: (1)Kirito [, Level 40]: Zephir™: ah ok
 [2021-04-10 12:35:01]: ERROR. [404, Level 56]: Shiro. take ure pills
 [2021-04-10 12:35:04]: ERROR. [404, Level 56]: and stfu
+[2021-04-10 12:35:08]:   [, Level 0]: Shiro.: ERROR: hi baby
