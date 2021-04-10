@@ -5831,3 +5831,5 @@
 [2021-04-10 07:45:59]: El patron [, Level 0]: rayen: i need to register
 [2021-04-10 07:45:59]: (2)ChillerDrago [Chilli.*, Level 34]: weqe: at least he doesnt spwanblock
 [2021-04-10 07:46:06]:   [, Level 0]: weqe: brainless tee: say sorry
+[2021-04-10 07:46:14]: brainless tee [, Level 0]: ChillerDragon: sorry
+[2021-04-10 07:46:20]: (2)ChillerDrago [Chilli.*, Level 34]: grr
