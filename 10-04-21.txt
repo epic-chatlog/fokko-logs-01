@@ -6736,3 +6736,5 @@
 [2021-04-10 08:45:53]: ***  [, Level 0]: 'Nico_YT' entered and joined the game
 [2021-04-10 08:45:58]: Souly [, Level 60]: troller
 [2021-04-10 08:45:58]: ☺ [, Level 6]: hhnaut31:
+[2021-04-10 08:46:06]: El patron [, Level 27]: sry
+[2021-04-10 08:46:12]: El patron [, Level 27]: ERROR:
