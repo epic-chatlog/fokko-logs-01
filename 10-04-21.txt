@@ -5896,3 +5896,4 @@
 [2021-04-10 07:53:51]:   [, Level 0]: El patron: wtf
 [2021-04-10 07:53:55]: ***  [, Level 0]: 'Sad Guy' has left the game (Timeout Protection over)
 [2021-04-10 07:53:56]: ***  [, Level 0]: '[D] Sad Guy' has left the game (Timeout Protection over)
+[2021-04-10 07:54:11]: ***  [, Level 0]: 'Fuck you' entered and joined the game
