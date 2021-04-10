@@ -8201,3 +8201,7 @@
 [2021-04-10 10:16:59]: RM|Saud [Retard MNKY, Level 0]: minecraft:  u spawn blocked me
 [2021-04-10 10:17:04]: RM|Saud [Retard MNKY, Level 0]: first
 [2021-04-10 10:17:04]: ERROR. [404, Level 56]: if u do the normal race without portal u get the finish points et
+[2021-04-10 10:17:10]: minecraft [, Level 12]: RM|Saud: i wanted just train sorry
+[2021-04-10 10:17:13]: Lebly [, Level 0]: I see
+[2021-04-10 10:17:15]: Lebly [, Level 0]: thanks
+[2021-04-10 10:17:18]: minecraft [, Level 12]: thx
