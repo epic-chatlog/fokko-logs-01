@@ -10730,3 +10730,4 @@
 [2021-04-10 13:30:11]: Flipper [, Level 15]: falco
 [2021-04-10 13:30:14]: ***  [, Level 0]: 'Kyoxis' has left the game
 [2021-04-10 13:30:17]: Zephir™ [, Level 39]: drunk: look my ms xD i can't hook u
+[2021-04-10 13:30:35]: ***  [, Level 0]: 'WarHammer' entered and joined the game
