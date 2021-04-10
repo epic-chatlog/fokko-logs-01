@@ -3516,3 +3516,36 @@
 [2021-04-10 05:17:55]: |ΛnץOиe| [, Level 43]: cunt: WHO IS SHE
 [2021-04-10 05:17:58]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
 [2021-04-10 05:18:04]: cunt [, Level 0]: |MıssOяchiĐ|: THE 96er
+[2021-04-10 05:18:06]: Kirito [, Level 40]: Nudelsaft c:\":
+[2021-04-10 05:18:07]: cunt [, Level 0]: |MıssOяchiĐ|: 90s
+[2021-04-10 05:18:09]: ←   [, Level 0]: Nudelsaft c:\": 1moneydrop
+[2021-04-10 05:18:09]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-10 05:18:09]: ***  [, Level 0]: Bank: 92127
+[2021-04-10 05:18:09]: ***  [, Level 0]: Wallet: 20201
+[2021-04-10 05:18:09]: ***  [, Level 0]: Euros: 0
+[2021-04-10 05:18:09]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-10 05:18:09]: ***  [, Level 0]: [WALLET] +7669 collected
+[2021-04-10 05:18:09]: ***  [, Level 0]: [WALLET] -691 dropped
+[2021-04-10 05:18:09]: ***  [, Level 0]: [WALLET] -857 dropped
+[2021-04-10 05:18:09]: ***  [, Level 0]: [WALLET] +428 collected
+[2021-04-10 05:18:09]: ***  [, Level 0]: [BANK] +67 automatic wallet to bank due to shutdown
+[2021-04-10 05:18:09]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-10 05:18:09]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-10 05:18:09]: ***  [, Level 0]: Invalid whisper
+[2021-04-10 05:18:11]: Nudelsaft c:\" [FookinLads, Level 37]: Kirito: ja
+[2021-04-10 05:18:11]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-10 05:18:14]: ←   [, Level 0]: Nudelsaft c:\": 0moneydrop
+[2021-04-10 05:18:15]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-10 05:18:15]: ***  [, Level 0]: Bank: 117508
+[2021-04-10 05:18:15]: ***  [, Level 0]: Wallet: 12539
+[2021-04-10 05:18:15]: ***  [, Level 0]: Euros: 0
+[2021-04-10 05:18:15]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-10 05:18:15]: ***  [, Level 0]: [WALLET] +3 collected
+[2021-04-10 05:18:15]: ***  [, Level 0]: [WALLET] -692 dropped
+[2021-04-10 05:18:15]: ***  [, Level 0]: [WALLET] -857 dropped
+[2021-04-10 05:18:15]: ***  [, Level 0]: [WALLET] +428 collected
+[2021-04-10 05:18:15]: ***  [, Level 0]: [BANK] +67 automatic wallet to bank due to shutdown
+[2021-04-10 05:18:15]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-10 05:18:15]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-10 05:18:15]: ***  [, Level 0]: Invalid whisper
+[2021-04-10 05:18:15]: Kirito [, Level 40]: Nudelsaft c:\": geht das mit dem stacken und editen im plot nocht?
