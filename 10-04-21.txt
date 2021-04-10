@@ -8425,3 +8425,6 @@
 [2021-04-10 10:32:04]: Zephir™ [, Level 39]: ERROR.: waitr 5s
 [2021-04-10 10:32:05]: Lebly [, Level 0]: ye
 [2021-04-10 10:32:07]: ***  [, Level 0]: 'Kenshi™' has left the game
+[2021-04-10 10:32:08]: ***  [, Level 0]: 'Kenshi™' entered and joined the game
+[2021-04-10 10:32:11]: ERROR. [404, Level 56]: Lebly:  do /stats ERROR
+[2021-04-10 10:32:16]: S Y T H N [, Level 37]: Kirito:
