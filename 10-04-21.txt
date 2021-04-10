@@ -12113,3 +12113,5 @@
 [2021-04-10 16:27:43]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-10 16:28:18]: Zephir™ [, Level 39]: S Y T H N: so ok
 [2021-04-10 16:28:20]: S Y T H N [, Level 37]: ok
+[2021-04-10 16:28:21]: S Y T H N [, Level 37]: hahaha
+[2021-04-10 16:28:32]: ***  [, Level 0]: 'fokkonaut' has left the game
