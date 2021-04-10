@@ -4239,3 +4239,6 @@
 [2021-04-10 06:12:06]: ***  [œ, Level 0]: --------------- is on a killing spree with 5 blocks
 [2021-04-10 06:12:06]: ***  [œ, Level 0]: 'RoberGN' entered and joined the game
 [2021-04-10 06:12:06]: Kezo [DogParty, Level 41]: APTAL WARHAMMER YA
+[2021-04-10 06:12:27]: ***  [œ, Level 0]: 'NoobEmir.*' has left the game
+[2021-04-10 06:12:27]: ***  [œ, Level 0]: 'NoobEmir' has left the game
+[2021-04-10 06:12:28]: GODLIKe. [Solo, Level 44]: Maatiteusz: stop help
