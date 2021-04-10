@@ -4962,3 +4962,7 @@
 [2021-04-10 06:52:54]:   [, Level 0]: hmmmmmm: wtf
 [2021-04-10 06:52:54]: SoulyD [, Level 47]: yo
 [2021-04-10 06:52:57]: S Y T H N [DogParty, Level 37]: ERROR: ...
+[2021-04-10 06:53:00]: ***  [, Level 0]: 'TomatoMaster' entered and joined the game
+[2021-04-10 06:53:00]: mamikral011 [DogParty, Level 21]: WarHammer': dur işte
+[2021-04-10 06:53:04]: ***  [, Level 0]: 'TomatoMaster' has left the game
+[2021-04-10 06:53:05]:   [, Level 0]: Kirito: kais: love that taser bro
