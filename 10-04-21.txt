@@ -10919,3 +10919,7 @@
 [2021-04-10 13:55:33]: [D] El patron [, Level 0]: iMxtteo: luck
 [2021-04-10 13:55:39]: Flipper [, Level 15]: ROCKETY
 [2021-04-10 13:55:56]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-10 13:56:01]: Flipper [, Level 15]: shut up
+[2021-04-10 13:56:05]: Flipper [, Level 15]: xd im joking
+[2021-04-10 13:56:06]: sleimi [team_sleimi, Level 0]: Fuck
+[2021-04-10 13:56:09]: ***  [, Level 0]: 'Marcisten' has left the game
