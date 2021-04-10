@@ -10963,3 +10963,5 @@
 [2021-04-10 14:00:04]: Flipper [, Level 15]: I like turtles.
 [2021-04-10 14:00:05]: power [TrRShClNrRs, Level 0]: iMxtteo:
 [2021-04-10 14:01:07]: \\Syth [, Level 30]: power: its joke
+[2021-04-10 14:01:23]: Flipper [, Level 15]: give me your rifle power
+[2021-04-10 14:01:27]: \\Syth [, Level 30]: power: save or war
