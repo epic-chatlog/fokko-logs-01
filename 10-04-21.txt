@@ -2800,3 +2800,9 @@
 [2021-04-10 04:28:23]: ***  [, Level 0]: 'Swarfey' has left the game
 [2021-04-10 04:28:23]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-10 04:28:27]: Sad Guy [, Level 40]: No game: m
+[2021-04-10 04:28:31]: No game [Just me, Level 40]: Sad Guy: mieslime
+[2021-04-10 04:28:39]: Sad Guy [, Level 40]: xd no
+[2021-04-10 04:28:39]: ***  [, Level 0]: '(1)fitz' has left the game (Timeout)
+[2021-04-10 04:28:39]: ***  [, Level 0]: 'fitz' has left the game (Timeout)
+[2021-04-10 04:28:42]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-10 04:28:43]: ***  [, Level 0]: 'Swarfey' entered and joined the game
