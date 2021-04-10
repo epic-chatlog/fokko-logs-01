@@ -14146,3 +14146,4 @@
 [2021-04-09 23:47:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-09 23:48:25]: Amirian [, Level 29]: pls
 [2021-04-09 23:48:36]: [D] Amirian [, Level 23]: im dont use
+[2021-04-09 23:49:03]: [D] Amirian [, Level 23]: kais:
