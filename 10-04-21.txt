@@ -10925,3 +10925,6 @@
 [2021-04-10 13:56:09]: ***  [, Level 0]: 'Marcisten' has left the game
 [2021-04-10 13:56:13]: Zephir™ [, Level 39]: drunk: finaly, i have a good ping / ms
 [2021-04-10 13:56:57]: NidardoHD [FlexTape, Level 2]: wtf xd
+[2021-04-10 13:57:06]: \\Syth [, Level 30]: NidardoHD:
+[2021-04-10 13:57:06]: NidardoHD [FlexTape, Level 2]: Flipper: how much does it cost?
+[2021-04-10 13:57:11]: Flipper [, Level 15]: 10 euro
