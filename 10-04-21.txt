@@ -10986,3 +10986,5 @@
 [2021-04-10 14:03:23]: Flipper [, Level 15]: XDD
 [2021-04-10 14:03:26]: \\Syth [, Level 30]: power: idk when u dont
 [2021-04-10 14:03:36]: power [TrRShClNrRs, Level 0]: what \\Syth ?
+[2021-04-10 14:04:12]: ***  [, Level 0]: '[D] taco bell' entered and joined the game
+[2021-04-10 14:04:14]: Axandos [, Level 0]: taco bell:  no balls and write in global chat
