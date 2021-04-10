@@ -3608,3 +3608,7 @@
 [2021-04-10 05:22:59]: ***  [, Level 0]: nameless tee is on a killing spree with 10 blocks
 [2021-04-10 05:22:59]: ***  [, Level 0]: [POLICE-CHANNEL] 'nameless tee' is spawnblocking. Catch him!
 [2021-04-10 05:23:09]: GReeeN [, Level 41]: |MıssOяchiĐ|:  freee
+[2021-04-10 05:23:15]: ***  [, Level 0]: 'JOKER|No Game' entered and joined the game
+[2021-04-10 05:23:22]: |MıssOяchiĐ| [, Level 48]: GReeeN: thanks
+[2021-04-10 05:23:23]: ***  [, Level 0]: [POLICE-CHANNEL] 'nameless tee' is spawnblocking. Catch him!
+[2021-04-10 05:23:25]: ***  [, Level 0]: 'JOKER|No Game' has left the game
