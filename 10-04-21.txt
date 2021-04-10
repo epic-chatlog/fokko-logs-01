@@ -11005,3 +11005,5 @@
 [2021-04-10 14:07:41]: \\Syth [, Level 30]: Axandos: haha funny now save me noname
 [2021-04-10 14:07:43]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-10 14:07:57]: Axandos [, Level 0]: \\Syth: u change ur identity every day
+[2021-04-10 14:08:07]: [D] El patron [, Level 0]: wait
+[2021-04-10 14:08:07]: \\Syth [, Level 30]: Axandos: yes
