@@ -5892,3 +5892,7 @@
 [2021-04-10 07:52:41]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-10 07:52:56]: ビール|Zero [Drunks, Level 30]: Fearless: ?
 [2021-04-10 07:53:46]: ERROR. [404, Level 41]: xD
+[2021-04-10 07:53:48]:   [, Level 0]: El patron: gian x:
+[2021-04-10 07:53:51]:   [, Level 0]: El patron: wtf
+[2021-04-10 07:53:55]: ***  [, Level 0]: 'Sad Guy' has left the game (Timeout Protection over)
+[2021-04-10 07:53:56]: ***  [, Level 0]: '[D] Sad Guy' has left the game (Timeout Protection over)
