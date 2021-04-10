@@ -7896,3 +7896,5 @@
 [2021-04-10 09:53:29]: minecraft [, Level 0]: lag
 [2021-04-10 09:53:39]: cookie [, Level 18]: rayen: kk
 [2021-04-10 09:53:46]: Axel [TrRShClNrRs, Level 30]: again
+[2021-04-10 09:53:55]: (1)soleri1 [, Level 22]: (2)ChillerDrago:
+[2021-04-10 09:53:55]: (2)ChillerDrago [Chilli.*, Level 34]: (1)soleri1: I am currently afk.
