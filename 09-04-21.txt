@@ -12750,3 +12750,9 @@
 [2021-04-09 17:02:38]: ***  [, Level 0]: 'NoobEmir' has left the game
 [2021-04-09 17:02:38]: ***  [, Level 0]: 'NoobEmir.*' has left the game
 [2021-04-09 17:02:41]: Kirito [, Level 40]: Everyone reset
+[2021-04-09 17:02:43]: ***  [, Level 0]: '(1)[D] Hunter.ex' entered and joined the game
+[2021-04-09 17:02:44]: S Y T H N [DogParty, Level 37]: sharkz: pls
+[2021-04-09 17:02:45]: S Y T H N [DogParty, Level 37]: come
+[2021-04-09 17:02:47]: Flipper [, Level 15]: pleased
+[2021-04-09 17:02:48]: Flipper [, Level 15]: SHARKLS
+[2021-04-09 17:02:49]: S Y T H N [DogParty, Level 37]: aaaa
