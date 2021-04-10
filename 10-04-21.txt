@@ -9925,3 +9925,7 @@
 [2021-04-10 12:18:56]: HeavyGeneral [FookinLads, Level 44]: speak english
 [2021-04-10 12:18:58]: HeavyGeneral [FookinLads, Level 44]: y monkey
 [2021-04-10 12:18:58]: SanoreX [Chilli.*, Level 27]: oto bu
+[2021-04-10 12:19:06]: kais [, Level 65]: HeavyGeneral: i mean you can freeze 1sec now, before max was 0.7
+[2021-04-10 12:19:07]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-10 12:19:07]: SanoreX [Chilli.*, Level 27]: gitmeye çalışıyo havaya
+[2021-04-10 12:19:13]: weqe [669, Level 12]: bob: come help me brother]
