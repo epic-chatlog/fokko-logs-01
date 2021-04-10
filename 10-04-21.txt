@@ -8922,3 +8922,10 @@
 [2021-04-10 10:57:38]: ***  [, Level 0]: '(1)cookie' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-10 10:57:43]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-10 10:57:44]: |HolyHo|° [, Level 0]: Nudelsaft c:: i wont do it again sorry
+[2021-04-10 10:57:48]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-10 10:57:48]: ***  [, Level 0]: 'Kezo' has left the game
+[2021-04-10 10:57:53]: Kirito [, Level 40]: Zephir™: even if you beg for peace you will never have it with me
+[2021-04-10 10:57:55]: Nudelsaft c: [FookinLads, Level 42]: |HolyHo|: and another factor is that u have war with chiller
+[2021-04-10 10:57:57]: (3)ChillerDrago [Chilli.*, Level 45]: idc who else ur friend with Zephir™ i help my friends and block those that dont unfreeze me
+[2021-04-10 10:57:58]: ***  [, Level 0]: 'GODLIKe' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 10:57:59]: ***  [, Level 0]: 'GODLIKe.' has left the game (Too weak connection (not acked for 60 seconds))
