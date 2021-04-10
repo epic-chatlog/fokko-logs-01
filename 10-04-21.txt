@@ -1421,3 +1421,4 @@
 [2021-04-10 02:49:35]: ***  [, Level 0]: '(1)RM | Arin' has left the game
 [2021-04-10 02:49:42]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
 [2021-04-10 02:49:42]: ***  [, Level 0]: '(1)RM | Arin' has left the game
+[2021-04-10 02:49:44]: ***  [, Level 0]: nameless tee is on a killing spree with 5 blocks
