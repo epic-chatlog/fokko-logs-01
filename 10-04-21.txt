@@ -10112,3 +10112,6 @@
 [2021-04-10 12:28:32]: Nidardo. [TOP, Level 0]: Nudelsaft c::
 [2021-04-10 12:28:37]: Hunter.exe [DogParty, Level 36]: ERROR: das wurde gefixt
 [2021-04-10 12:28:42]: ERROR. [404, Level 56]: i know
+[2021-04-10 12:28:52]: [D] BULLETBOT [, Level 0]: sorry
+[2021-04-10 12:28:53]: Nidardo. [TOP, Level 0]: flappy: help
+[2021-04-10 12:28:54]: [D] BULLETBOT [, Level 0]: sorry
