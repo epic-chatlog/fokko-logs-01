@@ -9181,3 +9181,5 @@
 [2021-04-10 11:18:55]: [D] El patron [, Level 0]: Kirito:  waht language you speak
 [2021-04-10 11:19:01]:   [, Level 0]: Kezo: |HolyHo|: no
 [2021-04-10 11:19:02]:   [, Level 0]: Rem's dummy: comon
+[2021-04-10 11:19:13]: Lebly [, Level 0]: I see
+[2021-04-10 11:19:14]: Lebly [, Level 0]: xD
