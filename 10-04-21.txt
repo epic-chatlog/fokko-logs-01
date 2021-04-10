@@ -10497,3 +10497,6 @@
 [2021-04-10 13:00:30]: Falco642 [, Level 3]: Tziys*: chill
 [2021-04-10 13:00:32]: Falco642 [, Level 3]: why block
 [2021-04-10 13:00:38]: ***  [, Level 0]: 'sjohnny' has left the game
+[2021-04-10 13:00:44]: Tziys* [DogParty, Level 39]: Falco641: they never do this
+[2021-04-10 13:00:45]: Falco641 [.bad, Level 20]: WarHammer: wtf?
+[2021-04-10 13:00:47]: sun.slow(y) [FookinLads, Level 35]: Kezo: war4life
