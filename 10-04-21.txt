@@ -11266,3 +11266,9 @@
 [2021-04-10 14:30:19]: [D] El patron [, Level 0]: i dont help
 [2021-04-10 14:30:25]: ***  [, Level 0]: 'Tauter' has left the game
 [2021-04-10 14:30:29]: Hunter.exe [DogParty, Level 36]: iMxtteo: warum?
+[2021-04-10 14:30:32]: ***  [, Level 0]: 'PinkSupriz' entered and joined the game
+[2021-04-10 14:30:34]: Hunter.exe [DogParty, Level 36]: iMxtteo: save ihn doch nicht
+[2021-04-10 14:30:34]: Zephir™ [, Level 39]: Hunter.exe: stop cry and ask help
+[2021-04-10 14:30:36]: taco bell [, Level 9]: is anyone going to do the jetpack course thingy
+[2021-04-10 14:30:40]: Hunter.exe [DogParty, Level 36]: Zephir™: mimi cry
+[2021-04-10 14:30:40]: taco bell [, Level 9]: I'm stuck here
