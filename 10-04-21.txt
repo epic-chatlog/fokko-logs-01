@@ -2330,3 +2330,5 @@
 [2021-04-10 03:57:11]: (3)ChillerDrago [|*KoG*|, Level 45]: anti afk
 [2021-04-10 03:57:12]:   [, Level 0]: (1)RM | Arin: (1)ChillerDrago:  l2p
 [2021-04-10 03:57:24]: (1)ChillerDrago [Chilli.*, Level 33]: play2learn
+[2021-04-10 03:57:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-10 03:57:48]: (1)ChillerDrago [Chilli.*, Level 33]: kais: did u know that l2p is an insult and p2l is an advice?
