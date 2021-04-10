@@ -10626,3 +10626,4 @@
 [2021-04-10 13:12:40]: Axel [TrRShClNrRs, Level 30]: everything just disappeard for a second
 [2021-04-10 13:12:42]: Axel [TrRShClNrRs, Level 30]: 0_0
 [2021-04-10 13:12:43]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-10 13:12:56]: rexi [, Level 0]: Fuck you: what are u doing
