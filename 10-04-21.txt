@@ -8040,3 +8040,8 @@
 [2021-04-10 10:04:51]: ***  [, Level 0]: fomin is on a killing spree with 10 blocks
 [2021-04-10 10:04:53]: ***  [, Level 0]: rayen is on a killing spree with 5 blocks
 [2021-04-10 10:05:02]:   [, Level 0]: [D] Cylox: no
+[2021-04-10 10:05:07]: ***  [, Level 0]: 'Tixnix' entered and joined the game
+[2021-04-10 10:05:09]:   [, Level 0]: [D] Cylox: dont grnade
+[2021-04-10 10:05:12]: ***  [, Level 0]: rayen's killing spree was ended by sL|coffee [D] (5 blocks)
+[2021-04-10 10:05:14]: [D] El patron [, Level 0]: hhh3:
+[2021-04-10 10:05:18]: [D] El patron [, Level 0]: hhh3: help
