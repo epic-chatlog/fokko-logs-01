@@ -8124,3 +8124,5 @@
 [2021-04-10 10:11:56]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-10 10:12:00]: ERROR. [404, Level 56]: rq
 [2021-04-10 10:12:02]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
+[2021-04-10 10:12:20]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-10 10:12:21]: ***  [, Level 0]: 'fitz' entered and joined the game
