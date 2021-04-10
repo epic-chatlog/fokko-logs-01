@@ -1376,3 +1376,5 @@
 [2021-04-10 02:45:43]:   [, Level 0]: NoobEmir: power2: takım
 [2021-04-10 02:45:43]: ***  [, Level 0]: 'lol tee' has left the game
 [2021-04-10 02:45:48]: ***  [, Level 0]: 'lol tee' entered and joined the game
+[2021-04-10 02:45:58]: ***  [, Level 0]: [D] mamikral011 is on a killing spree with 5 blocks
+[2021-04-10 02:46:07]: mamikral011 [DogParty, Level 21]: GOLD: jkdfsjf
