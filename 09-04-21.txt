@@ -13786,3 +13786,5 @@
 [2021-04-09 21:43:00]: Swarfey [FookinLads, Level 60]: its exploiting some weird stuff
 [2021-04-09 21:43:01]: Nudelsaft c: [FookinLads, Level 37]: yea
 [2021-04-09 21:43:30]: taco bell [, Level 4]: Is there any way I can change the skin of my dummy?
+[2021-04-09 21:43:42]: taco bell [, Level 4]: I was playing on teeworlds and just downloaded DDnet
+[2021-04-09 21:43:53]: Swarfey [FookinLads, Level 60]: settings -> tee and then press the "dummy" checkbox
