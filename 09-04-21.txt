@@ -13805,3 +13805,6 @@
 [2021-04-09 21:47:32]: taco bell [, Level 4]: I got 1 per sex now
 [2021-04-09 21:47:36]: taco bell [, Level 4]: sec
 [2021-04-09 21:47:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-09 21:47:50]: taco bell [, Level 4]: and 6 xp per sec
+[2021-04-09 21:47:54]: taco bell [, Level 4]: epic
+[2021-04-09 21:47:54]: Swarfey [FookinLads, Level 60]: ye, when u are police level 1 it gets 2 per sex
