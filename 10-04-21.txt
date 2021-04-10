@@ -6461,3 +6461,7 @@
 [2021-04-10 08:31:03]: NidardoHD [FlexTape, Level 0]: (3)ChillerDrago: dachte ich hätte alles gedropt
 [2021-04-10 08:31:07]: (3)ChillerDrago [|*KoG*|, Level 45]: troll
 [2021-04-10 08:31:07]: ***  [, Level 0]: 'Guthaben' joined the spectators
+[2021-04-10 08:31:11]: ***  [, Level 0]: 'Guthaben' joined the game
+[2021-04-10 08:31:18]: ***  [, Level 0]: 'Guthaben' joined the spectators
+[2021-04-10 08:31:22]: ***  [, Level 0]: 'Guthaben' joined the game
+[2021-04-10 08:31:22]: ***  [, Level 0]: 'rafel' joined the spectators
