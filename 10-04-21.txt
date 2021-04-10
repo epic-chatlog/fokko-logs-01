@@ -9474,3 +9474,6 @@
 [2021-04-10 11:40:21]: SanoreX [Chilli.*, Level 27]: avoid freeze
 [2021-04-10 11:40:24]: SanoreX [Chilli.*, Level 27]: and come here
 [2021-04-10 11:40:28]: (1)cookie [, Level 0]: Marcisten Dummy:  good luck
+[2021-04-10 11:40:30]: ***  [, Level 0]: 'flappy.*' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 11:40:31]: SanoreX [Chilli.*, Level 27]: I coding I afk |HolyHo|
+[2021-04-10 11:40:38]: SanoreX [Chilli.*, Level 27]: too weak connection
