@@ -8197,3 +8197,7 @@
 [2021-04-10 10:16:41]: ***  [, Level 0]: 'uptoram' has left the game
 [2021-04-10 10:16:50]: minecraft [, Level 12]: RM|Saud: :(
 [2021-04-10 10:16:51]: ***  [, Level 0]: 'ChillderPlagon*' entered and joined the game
+[2021-04-10 10:16:55]: minecraft [, Level 12]: RM|Saud: why
+[2021-04-10 10:16:59]: RM|Saud [Retard MNKY, Level 0]: minecraft:  u spawn blocked me
+[2021-04-10 10:17:04]: RM|Saud [Retard MNKY, Level 0]: first
+[2021-04-10 10:17:04]: ERROR. [404, Level 56]: if u do the normal race without portal u get the finish points et
