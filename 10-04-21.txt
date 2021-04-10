@@ -8948,3 +8948,4 @@
 [2021-04-10 11:00:05]: Kirito [, Level 40]: El patron: <
 [2021-04-10 11:00:11]: ***  [, Level 0]: '[D] ANGEL_PRO' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-10 11:00:12]: ***  [, Level 0]: 'ANGEL_PRO' has left the game (Timeout)
+[2021-04-10 11:01:00]: ***  [, Level 0]: 'Bartłomiejósz' entered and joined the game
