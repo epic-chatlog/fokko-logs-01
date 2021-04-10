@@ -10379,3 +10379,6 @@
 [2021-04-10 12:50:48]: ***  [, Level 0]: 'Swarfey' has left the game
 [2021-04-10 12:50:48]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-10 12:50:50]: Kezo [DogParty, Level 41]: rq
+[2021-04-10 12:50:55]: WarHammer [DogParty, Level 26]: Kezo:  COME
+[2021-04-10 12:51:03]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-10 12:51:04]:   [, Level 0]: Shiro,: llllllllllll
