@@ -6426,3 +6426,6 @@
 [2021-04-10 08:28:42]: Kirito [, Level 40]: El patron: buy it
 [2021-04-10 08:28:45]: [D] El patron [, Level 0]: ow
 [2021-04-10 08:28:49]: (3)ChillerDrago [|*KoG*|, Level 45]: mit /money drop <amount>
+[2021-04-10 08:28:52]: NidardoHD [FlexTape, Level 0]: ich vergesse immer wieder meine logins xd ChillerDragon
+[2021-04-10 08:29:01]: (3)ChillerDrago [Chilli.*, Level 45]: chillerbot-ux autologin ez NidardoHD
+[2021-04-10 08:29:04]: ***  [, Level 0]: 'hhh3' entered and joined the game
