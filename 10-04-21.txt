@@ -9676,3 +9676,7 @@
 [2021-04-10 12:05:53]: Kezo [DogParty, Level 41]: |HolyHo|: nope
 [2021-04-10 12:05:57]: |HolyHo| [, Level 18]: Kezo: come
 [2021-04-10 12:06:06]: ***  [, Level 0]: Chillingo is on a killing spree with 20 blocks
+[2021-04-10 12:06:08]: |HolyHo| [, Level 18]: Kezo: come
+[2021-04-10 12:06:11]: ***  [, Level 0]: Chillingo's killing spree was ended by SanoreX (20 blocks)
+[2021-04-10 12:06:17]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
+[2021-04-10 12:06:19]: ***  [, Level 0]: 'SanoreX' left the minigame 'Block'
