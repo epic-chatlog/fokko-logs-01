@@ -11530,3 +11530,7 @@
 [2021-04-10 15:03:02]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-10 15:03:05]: iMxtteo [DogParty, Level 27]: ReXi: ok :O
 [2021-04-10 15:03:11]: ReXi [, Level 16]: iMxtteo: du?
+[2021-04-10 15:03:16]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-10 15:03:16]: iMxtteo [DogParty, Level 27]: ReXi: nene niemals
+[2021-04-10 15:03:19]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-10 15:03:23]: ReXi [, Level 16]: hhh3: du bist 10
