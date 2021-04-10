@@ -13515,3 +13515,4 @@
 [2021-04-09 21:07:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-09 21:07:46]: Nudelsaft c: [FookinLads, Level 37]: es ist noch nicht gefixxt
 [2021-04-09 21:07:47]: Nudelsaft c: [FookinLads, Level 37]: aaaaaaaaaaaaaaaa
+[2021-04-09 21:08:29]: RM|weqe [MNKY, Level 12]: taco bell: help
