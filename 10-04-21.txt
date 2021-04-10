@@ -3814,3 +3814,7 @@
 [2021-04-10 05:37:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-10 05:37:46]: Kirito [, Level 40]: Maatiteusz: war4life?
 [2021-04-10 05:37:46]: cunt [, Level 0]: taco bell: im new too
+[2021-04-10 05:37:51]:   [, Level 0]: Maatiteusz: Kirito: U attacked me
+[2021-04-10 05:37:52]: Falco641 [.bad, Level 19]: 8 5
+[2021-04-10 05:37:56]: Falco641 [.bad, Level 19]: 9 5
+[2021-04-10 05:38:00]:   [, Level 0]: Maatiteusz: Kirito: traitor
