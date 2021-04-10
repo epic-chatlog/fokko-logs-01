@@ -12014,3 +12014,8 @@
 [2021-04-10 16:03:09]: ***  [, Level 0]: 'sleimi' entered and joined the game
 [2021-04-10 16:04:52]: ***  [, Level 0]: 'supergamer300' entered and joined the game
 [2021-04-10 16:05:56]: ***  [, Level 0]: 'supergamer300' has left the game
+[2021-04-10 16:06:06]: ***  [, Level 0]: 'Hunter.exe' has left the game (Timeout)
+[2021-04-10 16:06:06]: ***  [, Level 0]: '[D] Hunter.exe' has left the game (Timeout)
+[2021-04-10 16:06:06]: ***  [, Level 0]: '(1)[D] Hunter.ex' would have timed out, but can use timeout protection now
+[2021-04-10 16:06:06]: ***  [, Level 0]: '(1)Hunter.exe' would have timed out, but can use timeout protection now
+[2021-04-10 16:06:10]: ***  [, Level 0]: 'sleimi' has left the game
