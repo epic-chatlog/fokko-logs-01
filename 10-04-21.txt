@@ -10904,3 +10904,6 @@
 [2021-04-10 13:54:03]: ***  [, Level 0]: 'Marcisten Dummy' has left the game (Timeout)
 [2021-04-10 13:54:03]: ***  [, Level 0]: 'Marcisten' has left the game (Timeout)
 [2021-04-10 13:54:15]: ***  [, Level 0]: 'sun.slow(y)' has left the game
+[2021-04-10 13:54:26]: NidardoHD [FlexTape, Level 2]: what is this?
+[2021-04-10 13:54:27]: Zephir™ [, Level 39]: iMxtteo: war fun ?
+[2021-04-10 13:54:27]: fitz [, Level 16]: power:
