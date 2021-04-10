@@ -6712,3 +6712,9 @@
 [2021-04-10 08:44:25]: ***  [, Level 0]: 'Nidardo.' entered and joined the game
 [2021-04-10 08:44:29]: (1)ERROR [404, Level 47]: test
 [2021-04-10 08:44:33]: (1)ChillerDrago [|*KoG*|, Level 33]: was
+[2021-04-10 08:44:38]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-10 08:44:39]: hhnaut31 [, Level 43]: gg portal
+[2021-04-10 08:44:39]: ***  [, Level 0]: 'prankstar' entered and joined the game
+[2021-04-10 08:44:42]: (1)ERROR [404, Level 47]: k
+[2021-04-10 08:44:48]: hmmmmmm [, Level 12]: (1)ChillerDrago: go pls just this
+[2021-04-10 08:44:49]: (1)ERROR [404, Level 47]: fokko changed cd
