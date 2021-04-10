@@ -10262,3 +10262,6 @@
 [2021-04-10 12:40:57]: Flipper [, Level 15]: shiro go up
 [2021-04-10 12:40:58]: Flipper [, Level 15]: help me
 [2021-04-10 12:41:09]: |HolyHo| [, Level 18]: Flipper: hi xD
+[2021-04-10 12:41:22]: |HolyHo| [, Level 18]: cookie: laser me
+[2021-04-10 12:41:22]: ***  [, Level 0]: 'rexi' entered and joined the game
+[2021-04-10 12:41:25]: cookie [, Level 19]: |HolyHo|:  wait
