@@ -4527,3 +4527,11 @@
 [2021-04-10 06:28:59]:   [, Level 0]: |ΛnץOиe|: Sayme: war?
 [2021-04-10 06:29:01]: Souly [, Level 60]: then no password
 [2021-04-10 06:29:04]: Shiro. [Whɪтє, Level 42]: XDDD
+[2021-04-10 06:29:13]: ***  [, Level 0]: Kezo finished in: 1 minute(s)  5.44 second(s)
+[2021-04-10 06:29:13]: ***  [, Level 0]: New record: 55.32 second(s) better.
+[2021-04-10 06:29:14]:   [, Level 0]: |ΛnץOиe|: Sayme: so?
+[2021-04-10 06:29:15]: ***  [, Level 0]: Tziys* finished in: 4 minute(s) 36.08 second(s)
+[2021-04-10 06:29:15]:   [, Level 0]: JustRace: cl_aimbot 1
+[2021-04-10 06:29:16]:   [, Level 0]: JustRace: cl_aimbot 0
+[2021-04-10 06:29:16]: Souly [, Level 60]: at least its secure
+[2021-04-10 06:29:18]:   [, Level 0]: JustRace: cl_aimbot 1
