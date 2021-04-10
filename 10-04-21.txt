@@ -3793,3 +3793,7 @@
 [2021-04-10 05:36:26]: ***  [, Level 0]: 'ビール|Zero' finished the special race!
 [2021-04-10 05:36:26]: Falco641 [.bad, Level 19]: 4 2
 [2021-04-10 05:36:28]: ビール|Zero [Drunks, Level 29]: so so
+[2021-04-10 05:36:32]: ***  [, Level 0]: '(1)Nudelsaft c:\' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 05:36:32]: ***  [, Level 0]: '(1)Swarfey' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 05:36:33]: ***  [, Level 0]: 'Boti.' has left the game
+[2021-04-10 05:36:40]: Falco641 [.bad, Level 19]: 5 2
