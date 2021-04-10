@@ -5033,3 +5033,5 @@
 [2021-04-10 06:57:01]: (1)kais [, Level 58]: (1)ERROR: there's a taser ammo near of kais
 [2021-04-10 06:57:02]: mamikral011 [DogParty, Level 21]: WarHammer: sende polis 1 var mı
 [2021-04-10 06:57:04]: [D] Amirian [, Level 23]: what
+[2021-04-10 06:57:09]: ***  [, Level 0]: 'iMxtteo' entered and joined the game
+[2021-04-10 06:57:17]: WarHammer' [DogParty, Level 16]: mamikral011:  he
