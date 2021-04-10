@@ -9302,3 +9302,5 @@
 [2021-04-10 11:26:38]: [D] El patron [, Level 0]: GReeeN: help
 [2021-04-10 11:26:41]: El patron [, Level 28]: Kirito:  helpś
 [2021-04-10 11:26:41]: Rem's dummy [, Level 38]: taser got nerfed
+[2021-04-10 11:26:59]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
+[2021-04-10 11:27:08]: (1)Saud [MNKY, Level 19]: taco bell:  sry i didnt want to
