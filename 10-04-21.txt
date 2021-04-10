@@ -4056,3 +4056,5 @@
 [2021-04-10 05:57:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-10 05:57:56]: [D] mamikral011 [DogParty, Level 26]: Kezo: WarHammer jet
 [2021-04-10 05:58:07]: Maatiteusz [TrRShClNrRs, Level 35]: Falco641:
+[2021-04-10 05:58:22]: ***  [, Level 0]: 'Maatiteusz' finished the special race!
+[2021-04-10 05:58:28]: Falco641 [.bad, Level 19]: ty
