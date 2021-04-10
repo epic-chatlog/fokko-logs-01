@@ -8303,3 +8303,8 @@
 [2021-04-10 10:23:57]: ERROR. [404, Level 56]: rrace is done thats inf jump
 [2021-04-10 10:24:25]: (1)cookie [, Level 0]: lucas lol
 [2021-04-10 10:24:26]: ERROR. [404, Level 56]: shot grenade
+[2021-04-10 10:24:39]: Lucas [THECEPS, Level 34]: (1)cookie: what
+[2021-04-10 10:24:40]: ***  [, Level 0]: 'MieSlime' has left the game
+[2021-04-10 10:24:40]: ***  [, Level 0]: 'minecraft' has left the game
+[2021-04-10 10:24:43]: ***  [, Level 0]: 'Lucas' finished the special race!
+[2021-04-10 10:24:44]: (1)cookie [, Level 0]: Lucas:  you saved me
