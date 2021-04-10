@@ -10280,3 +10280,6 @@
 [2021-04-10 12:43:03]: (1)cookie [, Level 3]: Flipper
 [2021-04-10 12:43:04]:   [, Level 0]: [D] Hunter.exe: Nudelsaft c::
 [2021-04-10 12:43:07]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
+[2021-04-10 12:43:15]: Swarfey [FookinLads, Level 37]: Hunter.exe ?
+[2021-04-10 12:43:19]:   [, Level 0]: [D] Hunter.exe: Swarfey: nvm
+[2021-04-10 12:43:20]: NidardoHD [FlexTape, Level 2]: just got 3 k wtf
