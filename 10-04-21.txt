@@ -7397,3 +7397,6 @@
 [2021-04-10 09:18:55]: ***  [, Level 0]: 'Shiro,' entered and joined the game
 [2021-04-10 09:18:58]: ***  [, Level 0]: 'Shiro,' has left the game
 [2021-04-10 09:19:07]: El patron [, Level 27]: ERROR: help
+[2021-04-10 09:19:17]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-10 09:19:21]: hhh3 [, Level 48]: ChillerDragon: and kais  5 min jail
+[2021-04-10 09:19:23]: (1)kais [, Level 58]: Shiro.: le pire c'est que c'est vrai, les nonames ont 4 dummies 24/7 xD
