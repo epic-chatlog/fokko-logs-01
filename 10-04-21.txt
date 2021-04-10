@@ -10617,3 +10617,5 @@
 [2021-04-10 13:11:45]: ***  [, Level 0]: 'also drunk' entered and joined the game
 [2021-04-10 13:11:55]: sun.slow(y) [FookinLads, Level 35]: |HolyHo|: bro i think i go sleep my head
 [2021-04-10 13:12:00]: |ΛnץOиe| [, Level 0]: Zephir™:
+[2021-04-10 13:12:04]: |HolyHo| [, Level 18]: sun.slow(y): aight
+[2021-04-10 13:12:05]: |ΛnץOиe| [, Level 0]: thanks
