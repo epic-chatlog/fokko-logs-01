@@ -550,3 +550,5 @@
 [2021-04-10 01:28:18]: (2)ChillerDrago [Chilli.*, Level 34]: weird moe
 [2021-04-10 01:28:20]: (2)ChillerDrago [Chilli.*, Level 34]: move
 [2021-04-10 01:28:48]: ***  [, Level 0]: (2)ChillerDragon is on a killing spree with 20 blocks
+[2021-04-10 01:29:12]: ***  [, Level 0]: 'comic' has left the game (Timeout)
+[2021-04-10 01:29:15]: kais [, Level 65]: RM|Saud: ahahaha u can't even beat flappy
