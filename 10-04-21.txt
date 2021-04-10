@@ -10988,3 +10988,4 @@
 [2021-04-10 14:03:36]: power [TrRShClNrRs, Level 0]: what \\Syth ?
 [2021-04-10 14:04:12]: ***  [, Level 0]: '[D] taco bell' entered and joined the game
 [2021-04-10 14:04:14]: Axandos [, Level 0]: taco bell:  no balls and write in global chat
+[2021-04-10 14:04:33]: ***  [, Level 0]: 'Axandos²' entered and joined the game
