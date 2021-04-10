@@ -4613,3 +4613,8 @@
 [2021-04-10 06:32:29]: JustRace [DogParty, Level 0]: [D] taco bell:  no
 [2021-04-10 06:32:29]: GODLIKe [Solo, Level 39]: RM|Saud: ı won
 [2021-04-10 06:32:30]:   [, Level 0]: Shiro,: Falco641: lo?
+[2021-04-10 06:32:31]: ***  [, Level 0]: BLOCKTEE is on a killing spree with 5 blocks
+[2021-04-10 06:32:32]: ***  [, Level 0]: 'DiscordBridge' has left the game
+[2021-04-10 06:32:32]: ***  [, Level 0]: 'o' has left the game
+[2021-04-10 06:32:32]: ***  [, Level 0]: Collected 290 money
+[2021-04-10 06:32:32]: ***  [, Level 0]: Collected 291 money
