@@ -3590,3 +3590,6 @@
 [2021-04-10 05:20:51]: ***  [, Level 0]: 'Treebeard' has left the game
 [2021-04-10 05:21:03]: Falco641 [.bad, Level 19]: oops lol
 [2021-04-10 05:21:26]: iMxtteo [DogParty, Level 27]: ZEUS: ???
+[2021-04-10 05:21:33]: ***  [, Level 0]: [POLICE-CHANNEL] 'nameless tee' is spawnblocking. Catch him!
+[2021-04-10 05:21:37]: Jr no game [Just me, Level 27]: (3)ChillerDrago: hiii
+[2021-04-10 05:21:41]: ***  [, Level 0]: [POLICE-CHANNEL] 'nameless tee' is spawnblocking. Catch him!
