@@ -9114,3 +9114,7 @@
 [2021-04-10 11:13:19]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
 [2021-04-10 11:13:24]: Saud [MNKY, Level 0]: come police Fearless  nobo
 [2021-04-10 11:13:33]: ***  [, Level 0]: '[D] Fearless' has left the game
+[2021-04-10 11:13:42]: Fearless [Retard MNKY, Level 15]: kurwa
+[2021-04-10 11:13:42]: Saud [MNKY, Level 0]: come police Fearless  nobo
+[2021-04-10 11:13:42]: ***  [, Level 0]: 'SanoreX' entered and joined the game
+[2021-04-10 11:13:46]:   [, Level 0]: |HolyHo|: Hunter.exe: what
