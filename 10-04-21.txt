@@ -683,3 +683,6 @@
 [2021-04-10 01:38:40]: ***  [, Level 0]: 'mamikral011' would have timed out, but can use timeout protection now
 [2021-04-10 01:38:45]: (1)ビール|Ze [Drunks, Level 15]: bruh: now
 [2021-04-10 01:38:45]: WarHammer' [DogParty, Level 16]: Kezo:  chilleri geriye mi alsak  damisiyle hızlıca çeker ordan
+[2021-04-10 01:39:01]: WarHammer' [DogParty, Level 16]: demo demo demo dmeoizl come down
+[2021-04-10 01:39:05]: ***  [, Level 0]: '(1)mamikral011' entered and joined the game
+[2021-04-10 01:39:12]: (1)ビール|Ze [Drunks, Level 15]: bruh:
