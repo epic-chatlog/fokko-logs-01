@@ -4983,3 +4983,7 @@
 [2021-04-10 06:54:47]: mamikral011 [DogParty, Level 21]: DraKlY_Cloud:kpfdhg
 [2021-04-10 06:54:51]: mamikral011 [DogParty, Level 21]: :D
 [2021-04-10 06:54:52]: (1)ERROR [404, Level 74]: HOW MUCH u need
+[2021-04-10 06:54:56]: ***  [, Level 0]: 'iMxtteo' has left the game (Timeout)
+[2021-04-10 06:54:56]: ***  [, Level 0]: 'iMxtteo D' has left the game (Timeout)
+[2021-04-10 06:54:56]: ***  [, Level 0]: '(1)iMxtteo' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 06:54:56]: ***  [, Level 0]: '(1)iMxtteo D' has left the game (Too weak connection (not acked for 60 seconds))
