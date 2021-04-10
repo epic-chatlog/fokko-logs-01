@@ -8930,3 +8930,5 @@
 [2021-04-10 10:57:58]: ***  [, Level 0]: 'GODLIKe' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-10 10:57:59]: ***  [, Level 0]: 'GODLIKe.' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-10 10:58:07]: CKA3A4NIK[NR] [Night Raid, Level 35]: Kirito:  Rly?
+[2021-04-10 10:58:13]: CKA3A4NIK[NR] [Night Raid, Level 35]: Kirito:  clown war?
+[2021-04-10 10:58:13]: Zephir™ [, Level 39]: Kirito: i never want peace with u ahah xD
