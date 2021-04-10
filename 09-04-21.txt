@@ -13450,3 +13450,8 @@
 [2021-04-09 18:24:54]: ***  [, Level 0]: '(3)Zʷʰʸˀ' entered and joined the game
 [2021-04-09 18:25:26]: ***  [, Level 0]: 'NoobEmir' entered and joined the game
 [2021-04-09 18:25:30]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
+[2021-04-09 18:25:34]: ***  [, Level 0]: 'Oh Nonames!' entered and joined the game
+[2021-04-09 18:25:35]: ***  [, Level 0]: '(1)Kirito' has left the game
+[2021-04-09 18:25:37]: ***  [, Level 0]: 'Oh Nonames!' has left the game
+[2021-04-09 18:25:39]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
+[2021-04-09 18:25:42]: ***  [, Level 0]: '(1)Kirito' has left the game
