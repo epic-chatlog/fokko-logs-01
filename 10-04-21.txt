@@ -6110,3 +6110,5 @@
 [2021-04-10 08:07:47]: ***  [, Level 0]: 'PANZELKOWY' entered and joined the game
 [2021-04-10 08:08:01]: ***  [, Level 0]: 'blazingd420' entered and joined the game
 [2021-04-10 08:08:06]: ***  [, Level 0]: 'devilbundy' entered and joined the game
+[2021-04-10 08:08:20]: ***  [, Level 0]: 'Fuck you' has left the game
+[2021-04-10 08:08:20]: ***  [, Level 0]: '[D] Fuck you' has left the game
