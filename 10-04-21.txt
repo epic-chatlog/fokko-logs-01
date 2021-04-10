@@ -8963,3 +8963,5 @@
 [2021-04-10 11:01:42]: [D] El patron [, Level 0]: |HolyHo|:
 [2021-04-10 11:01:50]: ***  [, Level 0]: '(1)Cosmo' entered and joined the game
 [2021-04-10 11:01:53]: (1)soleri1 [, Level 22]: Cosmo: morto¿?
+[2021-04-10 11:02:08]: bruh [, Level 0]: (1)ChillerDrago: PLS
+[2021-04-10 11:02:08]: (1)ChillerDrago [|*KoG*|, Level 42]: bruh: I am currently afk.
