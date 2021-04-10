@@ -11820,3 +11820,5 @@
 [2021-04-10 15:26:51]: RM | Arin [Retard MNKY, Level 0]: XD
 [2021-04-10 15:26:51]: Hunter.exe [DogParty, Level 36]: ReXi: hast du discord?
 [2021-04-10 15:26:56]: ReXi [, Level 0]: Hunter.exe: nee
+[2021-04-10 15:27:07]: Hunter.exe [DogParty, Level 36]: ReXi: Teamspeak?
+[2021-04-10 15:27:16]: ReXi [, Level 0]: Hunter.exe: nee
