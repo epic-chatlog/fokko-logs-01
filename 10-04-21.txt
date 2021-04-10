@@ -7511,3 +7511,5 @@
 [2021-04-10 09:25:27]: ***  [, Level 0]: 'Axel ²' has left the game
 [2021-04-10 09:25:35]: cunt [, Level 0]: Nidardo.: ja der
 [2021-04-10 09:25:43]: weqe [669, Level 12]: (1)ERROR: do u wanna fight
+[2021-04-10 09:25:46]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-10 09:25:48]: (1)ERROR. [404, Level 56]: not now
