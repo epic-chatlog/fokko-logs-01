@@ -10958,3 +10958,7 @@
 [2021-04-10 13:59:45]: ***  [, Level 0]: 'taco bell' entered and joined the game
 [2021-04-10 13:59:49]: Flipper [, Level 15]: SHIT MAN
 [2021-04-10 13:59:55]: ***  [, Level 0]: '[D] taco bell' entered and joined the game
+[2021-04-10 13:59:55]: Flipper [, Level 15]: im not this bad xd
+[2021-04-10 14:00:02]: iMxtteo [DogParty, Level 27]: sure
+[2021-04-10 14:00:04]: Flipper [, Level 15]: I like turtles.
+[2021-04-10 14:00:05]: power [TrRShClNrRs, Level 0]: iMxtteo:
