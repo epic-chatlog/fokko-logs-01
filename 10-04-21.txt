@@ -2811,3 +2811,6 @@
 [2021-04-10 04:28:46]: Sad Guy [, Level 40]: XD
 [2021-04-10 04:28:54]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-10 04:28:55]: No game [Just me, Level 40]: Sad Guy: mhhhh
+[2021-04-10 04:28:57]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-10 04:28:58]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
+[2021-04-10 04:28:59]: Sad Guy [, Level 40]: xd
