@@ -10939,3 +10939,5 @@
 [2021-04-10 13:57:48]: drunk [, Level 0]: no drunk anymore
 [2021-04-10 13:57:53]: ***  [, Level 0]: 'drunk' has left the game
 [2021-04-10 13:57:53]: ***  [, Level 0]: 'also drunk' has left the game
+[2021-04-10 13:58:07]: Zephir™ [, Level 39]: El patron: can war fun u or iMxtteo
+[2021-04-10 13:58:12]: ***  [, Level 0]: 'Farst' entered and joined the game
