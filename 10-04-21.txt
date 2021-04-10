@@ -11769,3 +11769,5 @@
 [2021-04-10 15:22:58]: Hunter.exe [DogParty, Level 36]: ReXi: wie bitte?
 [2021-04-10 15:23:08]: Hunter.exe [DogParty, Level 36]: ReXi: was ist pennen
 [2021-04-10 15:23:15]: ReXi [, Level 0]: Hunter.exe: wie bitte?
+[2021-04-10 15:23:23]: Hunter.exe [DogParty, Level 36]: ? hilfe
+[2021-04-10 15:23:32]: RM | Arin [Retard MNKY, Level 0]: lets come from hre
