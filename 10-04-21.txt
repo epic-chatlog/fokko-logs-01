@@ -9443,3 +9443,6 @@
 [2021-04-10 11:38:37]: cookie [, Level 18]: Marcisten Dummy:  yes
 [2021-04-10 11:38:37]: SanoreX [Chilli.*, Level 27]: |HolyHo|: my best friend is flappy.*
 [2021-04-10 11:38:42]: Marcisten Dummy [Dummies, Level 26]: cookie: who killed me
+[2021-04-10 11:38:46]: |HolyHo| [, Level 0]: SanoreX: w
+[2021-04-10 11:38:46]: ***  [, Level 0]: 'Lucas' entered and joined the game
+[2021-04-10 11:38:50]: cookie [, Level 18]: Marcisten Dummy:  Fearles
