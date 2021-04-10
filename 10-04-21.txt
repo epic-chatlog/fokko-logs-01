@@ -10651,3 +10651,5 @@
 [2021-04-10 13:15:16]: ***  [, Level 0]: 'Axel' has left the game
 [2021-04-10 13:15:19]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-10 13:15:26]: Fuck you [, Level 40]: hammer fly
+[2021-04-10 13:15:56]: |HolyHo| [, Level 18]: kais: imagine freezekill
+[2021-04-10 13:15:57]: |HolyHo| [, Level 18]: a
