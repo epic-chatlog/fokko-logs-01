@@ -49,3 +49,4 @@
 [2021-04-10 00:21:35]: ***  [, Level 0]: 'ChillerDragon.*' finished the special race!
 [2021-04-10 00:21:44]: ***  [, Level 0]: '(3)ChillerDragon' finished the special race!
 [2021-04-10 00:22:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-10 00:25:00]: Nudelsaft c: [FookinLads, Level 37]: ChillerDragon: aaaa xd
