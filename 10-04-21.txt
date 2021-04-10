@@ -9711,3 +9711,7 @@
 [2021-04-10 12:08:37]: weqe [669, Level 12]: HeavyGeneral: how
 [2021-04-10 12:08:41]: ***  [, Level 0]: 'hhh3' has left the game
 [2021-04-10 12:08:44]: ERROR [404, Level 74]: raid what
+[2021-04-10 12:08:55]: HeavyGeneral [FookinLads, Level 44]: Taser got nerfed, once you made a shot you need to wait a few seconds until you can shoot with full power again. This should prevent spamming a bit.
+[2021-04-10 12:08:59]: ***  [, Level 0]: '(1)WarHammer' entered and joined the game
+[2021-04-10 12:09:00]: ERROR [404, Level 74]: i know
+[2021-04-10 12:09:02]: |HolyHo| [, Level 18]: SoulyD: come
