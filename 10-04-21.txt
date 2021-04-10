@@ -3760,3 +3760,7 @@
 [2021-04-10 05:35:23]: ビール|Zero [Drunks, Level 29]: mamikral011: fast
 [2021-04-10 05:35:25]: Kiøn1029 [.bad, Level 32]: okés
 [2021-04-10 05:35:26]: Falco641 [.bad, Level 19]: lagg
+[2021-04-10 05:35:31]: ***  [, Level 0]: 'Nudelsaft c:\"' entered and joined the game
+[2021-04-10 05:35:31]: ***  [, Level 0]: '(1)Nudelsaft c:\' entered and joined the game
+[2021-04-10 05:35:31]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-10 05:35:32]: ***  [, Level 0]: '(1)Swarfey' entered and joined the game
