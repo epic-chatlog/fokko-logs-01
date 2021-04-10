@@ -2842,3 +2842,10 @@
 [2021-04-10 04:31:49]: Sad Guy [, Level 40]: wtf
 [2021-04-10 04:31:51]: ***  [, Level 0]: '(1)nameless tee' has left the game
 [2021-04-10 04:31:55]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
+[2021-04-10 04:32:11]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-10 04:32:13]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-10 04:32:13]: No game [Just me, Level 40]: Shy-ra.: oe tu modifies avc ta couleur puis tu fas l'emote surpris celle que j'ai ta le fclient
+[2021-04-10 04:32:13]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-10 04:32:16]: ***  [, Level 0]: '~DemoizL~' has left the game
+[2021-04-10 04:32:17]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-10 04:32:17]: Sad Guy [, Level 40]: No game: bb
