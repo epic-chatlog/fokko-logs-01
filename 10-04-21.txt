@@ -11774,3 +11774,7 @@
 [2021-04-10 15:23:40]: ReXi [, Level 0]: Hunter.exe: ja
 [2021-04-10 15:23:44]: ReXi [, Level 0]: Hunter.exe: du bist 10
 [2021-04-10 15:23:58]: iMxtteo [DogParty, Level 27]: gelllld
+[2021-04-10 15:24:11]: ***  [, Level 0]: 'hhh3' entered and joined the game
+[2021-04-10 15:24:12]: Hunter.exe [DogParty, Level 36]: ReXi: ja ich bin 10
+[2021-04-10 15:24:14]: ReXi [, Level 0]: iMxtteo: wie viel
+[2021-04-10 15:24:15]: Hunter.exe [DogParty, Level 36]: ReXi: warum
