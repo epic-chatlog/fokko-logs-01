@@ -6030,3 +6030,8 @@
 [2021-04-10 08:03:34]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
 [2021-04-10 08:03:48]: mamikral011 [DogParty, Level 21]: El patron:
 [2021-04-10 08:03:49]: ***  [, Level 0]: '(1)RM|Saud' has left the game
+[2021-04-10 08:03:52]: [D] Amirian [, Level 23]: yes
+[2021-04-10 08:03:56]: mamikral011 [DogParty, Level 21]: El patron: help or war
+[2021-04-10 08:03:56]: ***  [, Level 0]: [D] Amirian finished in: 2 minute(s) 49.06 second(s)
+[2021-04-10 08:03:59]: ***  [, Level 0]: '[D] Cylox' changed name to 'FAKE'
+[2021-04-10 08:04:03]: NoobEmir [AoeSBrother, Level 14]: xD
