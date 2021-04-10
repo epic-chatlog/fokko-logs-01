@@ -279,3 +279,5 @@
 [2021-04-10 00:52:44]: ***  [, Level 0]: 'ClemEntine' entered and joined the game
 [2021-04-10 00:52:45]: ChillerDragon.* [Chilli.*, Level 42]: wie switcvht du zu gun
 [2021-04-10 00:52:46]: ChillerDragon.* [Chilli.*, Level 42]: von hammer
+[2021-04-10 00:52:52]: Swarfey [FookinLads, Level 0]: drücke 2
+[2021-04-10 00:52:54]: ChillerDragon.* [Chilli.*, Level 42]: brain
