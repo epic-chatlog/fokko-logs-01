@@ -4102,3 +4102,7 @@
 [2021-04-10 06:01:33]: WarHammer [DogParty, Level 26]: Kezo:  NUB
 [2021-04-10 06:01:35]: ビール|Zero [Drunks, Level 29]: t,fffffff
 [2021-04-10 06:01:52]: Bozzkurt [SkinLover, Level 0]: bot
+[2021-04-10 06:01:56]: WarHammer [DogParty, Level 26]: götlük yapma
+[2021-04-10 06:01:57]: Maatiteusz [TrRShClNrRs, Level 35]: Bozzkurt: u died
+[2021-04-10 06:02:00]: Maatiteusz [TrRShClNrRs, Level 35]: Bozzkurt: kids cannot talk
+[2021-04-10 06:02:05]: Bozzkurt [SkinLover, Level 0]: Maatiteusz: np
