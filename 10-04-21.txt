@@ -10217,3 +10217,7 @@
 [2021-04-10 12:36:52]: ***  [, Level 0]: 'Shiro,' has left the game
 [2021-04-10 12:36:53]: ***  [, Level 0]: 'GOLD' entered and joined the game
 [2021-04-10 12:36:55]: Souly [, Level 60]: ur
+[2021-04-10 12:36:57]:   [, Level 0]: Shiro.: u
+[2021-04-10 12:37:03]: ***  [, Level 0]: '[D] Hunter.exe' has left the game
+[2021-04-10 12:37:03]:   [, Level 0]: Shiro.: fng sucks btw
+[2021-04-10 12:37:07]: ***  [, Level 0]: '[D] Hunter.exe' entered and joined the game
