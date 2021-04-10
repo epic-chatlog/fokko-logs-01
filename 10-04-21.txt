@@ -11822,3 +11822,5 @@
 [2021-04-10 15:26:56]: ReXi [, Level 0]: Hunter.exe: nee
 [2021-04-10 15:27:07]: Hunter.exe [DogParty, Level 36]: ReXi: Teamspeak?
 [2021-04-10 15:27:16]: ReXi [, Level 0]: Hunter.exe: nee
+[2021-04-10 15:27:23]: Hunter.exe [DogParty, Level 36]: kannst du dir Discord holen?
+[2021-04-10 15:27:25]: Zephir™ [, Level 39]: Hunter.exe: u want war 404 ?
