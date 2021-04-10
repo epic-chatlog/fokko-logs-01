@@ -4789,3 +4789,7 @@
 [2021-04-10 06:43:23]:   [, Level 0]: [D] mamikral011: WarHammer': polise arkadan bi gel benim ki düştü
 [2021-04-10 06:43:39]: WarHammer' [DogParty, Level 16]: mamikral011:  ok
 [2021-04-10 06:43:43]: ***  [, Level 0]: Collected 1810 money
+[2021-04-10 06:43:50]: mamikral011 [DogParty, Level 21]: Kezo: yardım ne zaman etcen
+[2021-04-10 06:43:53]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-10 06:43:53]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-10 06:43:55]: Ðeathscyth [, Level 2]: hmmmmmm: race pls
