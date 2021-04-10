@@ -1960,3 +1960,7 @@
 [2021-04-10 03:30:57]: YelloWorlD [DogParty, Level 56]: HardreenClutch: my clan mante
 [2021-04-10 03:30:58]: iMxtteo [DogParty, Level 27]: traitor?
 [2021-04-10 03:31:04]: HardreenClutch [, Level 57]: YelloWorlD:  he betryt me
+[2021-04-10 03:31:11]: iMxtteo [DogParty, Level 27]: HardreenClutch: tell me when
+[2021-04-10 03:31:12]: YelloWorlD [DogParty, Level 56]: HardreenClutch: u not me
+[2021-04-10 03:31:14]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-10 03:31:21]:   [, Level 0]: Fearless: omg
