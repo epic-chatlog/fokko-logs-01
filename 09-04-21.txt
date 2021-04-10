@@ -13373,3 +13373,6 @@
 [2021-04-09 18:07:32]: ***  [, Level 0]: 'Flipper' has left the game
 [2021-04-09 18:07:33]: Kirito [, Level 40]: Flipper: karma
 [2021-04-09 18:07:41]: S Y T H N [DogParty, Level 37]: Kirito: um
+[2021-04-09 18:07:52]: Kirito [, Level 40]: nrij
+[2021-04-09 18:07:52]: S Y T H N [DogParty, Level 37]: tjaahahaha
+[2021-04-09 18:07:53]: S Y T H N [DogParty, Level 37]: hahaahah
