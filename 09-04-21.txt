@@ -13352,3 +13352,5 @@
 [2021-04-09 18:02:20]: ***  [, Level 0]: 'NoobEmir' entered and joined the game
 [2021-04-09 18:03:02]: NoobEmir [, Level 0]: Kirito: sory
 [2021-04-09 18:03:05]: NoobEmir [, Level 0]: pls
+[2021-04-09 18:03:08]: Kirito [, Level 40]: NoobEmir: remember when u blocked me today?
+[2021-04-09 18:03:11]: Kirito [, Level 40]: NoobEmir: and i said war?
