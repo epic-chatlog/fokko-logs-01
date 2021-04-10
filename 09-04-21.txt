@@ -13850,3 +13850,5 @@
 [2021-04-09 22:34:01]: ***  [, Level 0]: 'giana' entered and joined the game
 [2021-04-09 22:35:08]: CKA3A4NIK[NR] [Night Raid, Level 35]: taco bell:  Want live?
 [2021-04-09 22:36:21]: ***  [, Level 0]: 'CKA3A4NIK[NR]' has left the game
+[2021-04-09 22:36:33]: ***  [, Level 0]: 'taco bell' has left the game (Timeout Protection over)
+[2021-04-09 22:36:33]: ***  [, Level 0]: '[D] taco bell' has left the game (Timeout Protection over)
