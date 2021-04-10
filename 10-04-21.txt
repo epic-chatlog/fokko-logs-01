@@ -10272,3 +10272,6 @@
 [2021-04-10 12:42:22]: Flipper [, Level 15]: shiro..
 [2021-04-10 12:42:22]: (1)cookie [, Level 3]: Shiro.:  i whant to save him
 [2021-04-10 12:42:31]:   [, Level 0]: [D] Hunter.exe: Kezo: you got portal?
+[2021-04-10 12:42:32]: |HolyHo|° [, Level 28]: Shiro.: u saved me or i run?>
+[2021-04-10 12:42:43]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-10 12:42:44]: ***  [, Level 0]: '(1)Kirito' has left the game
