@@ -5507,3 +5507,9 @@
 [2021-04-10 07:23:00]:   [, Level 0]: Shiro.: <:trollonaut:784800188484681788>
 [2021-04-10 07:23:01]:   [, Level 0]: Shiro,: <:trollonaut:784800188484681788>
 [2021-04-10 07:23:02]:   [, Level 0]: Shiro.: <:trollonaut:784800188484681788>
+[2021-04-10 07:23:13]: ***  [, Level 0]: (1)Zʷʰʸˀ finished in: 1 minute(s)  5.34 second(s)
+[2021-04-10 07:23:13]: ***  [, Level 0]: New record: 49.68 second(s) better.
+[2021-04-10 07:23:15]:   [, Level 0]: Fearless: Shiro.: where are u ga
+[2021-04-10 07:23:15]: ***  [, Level 0]: 'WarHammer'' has left the game
+[2021-04-10 07:23:15]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-10 07:23:17]: [D] mamikral011 [DogParty, Level 26]: [D] Cylox:
