@@ -6028,3 +6028,5 @@
 [2021-04-10 08:03:26]: ***  [, Level 0]: New record:  5.70 second(s) better.
 [2021-04-10 08:03:26]: [D] Amirian [, Level 23]: Zʷʰʸˀ:
 [2021-04-10 08:03:34]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
+[2021-04-10 08:03:48]: mamikral011 [DogParty, Level 21]: El patron:
+[2021-04-10 08:03:49]: ***  [, Level 0]: '(1)RM|Saud' has left the game
