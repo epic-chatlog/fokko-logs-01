@@ -5043,3 +5043,8 @@
 [2021-04-10 06:57:39]: (1)kais [, Level 58]: (1)ERROR: wdym it is hanging ?
 [2021-04-10 06:57:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-10 06:57:43]: ***  [, Level 0]: 'iMxtteo D' entered and joined the game
+[2021-04-10 06:57:46]: (1)kais [, Level 58]: (1)ERROR: long ?
+[2021-04-10 06:57:47]: (1)ERROR [404, Level 74]: shit ath client
+[2021-04-10 06:57:49]: WarHammer' [DogParty, Level 16]: Kezo:  DUMMY COPY AÇIK
+[2021-04-10 06:57:50]: ***  [, Level 0]: Kezo is on a killing spree with 5 blocks
+[2021-04-10 06:57:51]: ***  [, Level 0]: 'jeder' entered and joined the game
