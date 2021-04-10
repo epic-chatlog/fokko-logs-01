@@ -9597,3 +9597,5 @@
 [2021-04-10 11:55:48]: ***  [, Level 0]: '(1)flappy.*' has left the game (Timeout)
 [2021-04-10 11:55:50]: (1)cookie [, Level 0]: Marcisten:  can you can get up
 [2021-04-10 11:56:11]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
+[2021-04-10 11:56:19]: (1)cookie [, Level 0]: Marcisten Dummy:  yeah try
+[2021-04-10 11:56:21]: Zephir™ [, Level 39]: ~DemoizL~: ok si tu veut
