@@ -5593,3 +5593,5 @@
 [2021-04-10 07:27:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-10 07:27:44]:   [, Level 0]: (1)ERROR: (1)Zʷʰʸˀ:
 [2021-04-10 07:27:47]: Fearless [Retard MNKY, Level 15]: hhh3:  drop 0 jump
+[2021-04-10 07:27:58]: ***  [, Level 0]: 'Axel' entered and joined the game
+[2021-04-10 07:28:01]: mamikral011 [DogParty, Level 21]: S Y T H N: ahha
