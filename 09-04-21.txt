@@ -13441,3 +13441,7 @@
 [2021-04-09 18:24:02]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.2, by fokkonaut
 [2021-04-09 18:24:02]: ***  [, Level 0]: Successfully logged in
 [2021-04-09 18:24:02]: ***  [, Level 0]: You are already logged in
+[2021-04-09 18:24:04]: ***  [, Level 0]: 'Zʷʰʸˀ' entered and joined the game
+[2021-04-09 18:24:09]: ***  [, Level 0]: '(1)Zʷʰʸˀ' entered and joined the game
+[2021-04-09 18:24:11]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
+[2021-04-09 18:24:13]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
