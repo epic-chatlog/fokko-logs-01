@@ -9870,3 +9870,6 @@
 [2021-04-10 12:16:33]: SanoreX [Chilli.*, Level 27]: biti
 [2021-04-10 12:16:42]: ERROR. [404, Level 56]: weqe:  want 1v1 on ictf ? xDDD
 [2021-04-10 12:16:42]: SanoreX [Chilli.*, Level 27]: izle
+[2021-04-10 12:16:48]: |HolyHo|° [, Level 28]: HeavyGeneral: can start?
+[2021-04-10 12:16:50]: Flipper [, Level 15]: xd
+[2021-04-10 12:16:50]: ERROR. [404, Level 56]: we can tomorrow
