@@ -6214,3 +6214,4 @@
 [2021-04-10 08:14:09]: ERROR. [404, Level 41]: OMG HH
 [2021-04-10 08:14:13]: ***  [, Level 0]: '(1)kais' has left the game (Timeout Protection over)
 [2021-04-10 08:14:13]: ***  [, Level 0]: 'kais' has left the game (Timeout Protection over)
+[2021-04-10 08:14:15]: ERROR. [404, Level 41]: fuck u xddd
