@@ -8267,3 +8267,4 @@
 [2021-04-10 10:20:48]: ChillderPlagon* [, Level 0]: MieSlime: what?
 [2021-04-10 10:20:56]: ERROR. [404, Level 56]: special race
 [2021-04-10 10:20:57]: Lebly [, Level 0]: man thats incredible xD
+[2021-04-10 10:21:07]: ***  [, Level 0]: ANGEL_PRO is on a killing spree with 10 blocks
