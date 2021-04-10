@@ -8272,3 +8272,7 @@
 [2021-04-10 10:21:19]: Lebly [, Level 0]: where
 [2021-04-10 10:21:23]: (1)cookie [, Level 0]: dead
 [2021-04-10 10:21:27]: minecraft [, Level 12]: MieSlime:
+[2021-04-10 10:21:28]: [D] BC|Tixnix [BC, Level 34]: hahahaa
+[2021-04-10 10:21:32]: ANGEL_PRO [uli:v, Level 0]: f4
+[2021-04-10 10:21:32]: ***  [, Level 0]: 'BC|Tixnix' has left the game
+[2021-04-10 10:21:32]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
