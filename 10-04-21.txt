@@ -6354,3 +6354,5 @@
 [2021-04-10 08:23:25]: power [TrRShClNrRs, Level 0]: ill be quiet ERROR
 [2021-04-10 08:23:27]: taco bell [, Level 7]: level 7
 [2021-04-10 08:23:31]: taco bell [, Level 7]: cool
+[2021-04-10 08:24:40]: ***  [, Level 0]: 'soleri1' entered and joined the game
+[2021-04-10 08:24:43]: nennybaba [, Level 0]: oyun krallı:  annen varmı
