@@ -2387,3 +2387,5 @@
 [2021-04-10 04:02:44]: ***  [4, Level 0]: '(1)RM | Arin' has left the game
 [2021-04-10 04:02:45]: ***  [ø, Level 0]: '(1)RM | Arin' entered and joined the game
 [2021-04-10 04:02:59]: ChillerDragon.* [|*KoG*|, Level 42]: nice time Souly
+[2021-04-10 04:03:03]: SoulyD [, Level 47]: no u
+[2021-04-10 04:03:04]: ***  [	, Level 0]: 'nameless tee' has left the game
