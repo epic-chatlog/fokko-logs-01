@@ -11543,3 +11543,5 @@
 [2021-04-10 15:03:50]: Hunter.exe [DogParty, Level 36]: hast du was dagegen
 [2021-04-10 15:03:59]: ReXi [, Level 16]: Hunter.exe: nee wieso sollt ich
 [2021-04-10 15:04:18]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-10 15:04:22]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-10 15:04:25]: WarHammer [, Level 0]: hunter
