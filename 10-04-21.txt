@@ -2142,3 +2142,6 @@
 [2021-04-10 03:42:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-10 03:42:48]: ***  [, Level 0]: 'power2' has left the game
 [2021-04-10 03:42:48]: ***  [, Level 0]: 'power' has left the game
+[2021-04-10 03:43:22]: RM | Arin [Retard MNKY, Level 15]: lass (2)ChillerDrago
+[2021-04-10 03:43:22]: (2)ChillerDrago [|*KoG*|, Level 34]: RM | Arin: I am currently afk.
+[2021-04-10 03:43:24]: RM | Arin [Retard MNKY, Level 15]: mein gott
