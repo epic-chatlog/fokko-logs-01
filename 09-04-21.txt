@@ -13687,3 +13687,11 @@
 [2021-04-09 21:27:40]: Nudelsaft c: [FookinLads, Level 37]: oh
 [2021-04-09 21:27:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-09 21:27:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-09 21:27:46]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
+[2021-04-09 21:27:46]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
+[2021-04-09 21:27:47]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-09 21:27:47]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-09 21:27:48]: taco bell [, Level 4]: ñññ
+[2021-04-09 21:27:48]: taco bell [, Level 4]: ñññ
+[2021-04-09 21:27:55]: Swarfey [FookinLads, Level 59]: a
+[2021-04-09 21:27:55]: Swarfey [FookinLads, Level 59]: a
