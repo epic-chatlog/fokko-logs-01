@@ -13632,3 +13632,5 @@
 [2021-04-09 21:21:33]: [D] taco bell [, Level 1]: yes
 [2021-04-09 21:21:40]: Nudelsaft c: [FookinLads, Level 37]: a
 [2021-04-09 21:21:41]: Nudelsaft c: [FookinLads, Level 37]: b
+[2021-04-09 21:21:45]: [D] taco bell [, Level 1]: k
+[2021-04-09 21:21:47]: [D] taco bell [, Level 1]: o
