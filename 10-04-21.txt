@@ -10468,3 +10468,9 @@
 [2021-04-10 12:57:58]: ***  [, Level 0]: ES is on a killing spree with 5 blocks
 [2021-04-10 12:58:23]: ***  [, Level 0]: 'Max' entered and joined the game
 [2021-04-10 12:58:35]: ***  [, Level 0]: 'Max' has left the game
+[2021-04-10 12:58:39]: Falco641 [.bad, Level 20]: rexi: you get same xp and money without flag
+[2021-04-10 12:58:41]: Falco641 [.bad, Level 20]: on farm tiles
+[2021-04-10 12:58:44]: Flupper [, Level 0]: kezo
+[2021-04-10 12:58:46]: |HolyHo|° [, Level 28]: Zephir™: inf hook
+[2021-04-10 12:58:48]: Flupper [, Level 0]: how much jumps u have
+[2021-04-10 12:58:48]: Falco641 [.bad, Level 20]: so its kinda useless atm
