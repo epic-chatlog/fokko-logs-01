@@ -13590,3 +13590,6 @@
 [2021-04-09 21:15:52]: Nudelsaft c: [FookinLads, Level 37]: lag
 [2021-04-09 21:15:54]: Nudelsaft c: [FookinLads, Level 37]: xd
 [2021-04-09 21:15:57]: ***  [, Level 0]: '(2)Nudelsaft c:' entered and joined the game
+[2021-04-09 21:16:08]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game
+[2021-04-09 21:16:08]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-09 21:16:08]: ***  [, Level 0]: '(2)Nudelsaft c:' has left the game
