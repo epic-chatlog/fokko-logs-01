@@ -9659,3 +9659,5 @@
 [2021-04-10 12:04:00]: Fearless [Retard MNKY, Level 15]: im 9
 [2021-04-10 12:04:03]: ***  [, Level 0]: 'Grasmously' entered and joined the game
 [2021-04-10 12:04:04]: ***  [, Level 0]: 'NidardoHD' entered and joined the game
+[2021-04-10 12:04:10]: ***  [, Level 0]: 'Grasmously' has left the game
+[2021-04-10 12:04:11]: ***  [, Level 0]: 'Kirito' entered and joined the game
