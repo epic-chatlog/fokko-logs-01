@@ -13409,3 +13409,25 @@
 [2021-04-09 18:18:34]: Kirito [, Level 40]: ok ich geh talk
 [2021-04-09 18:18:37]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-09 18:22:39]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
+[2021-04-09 18:22:44]: ***  [, Level 0]: Successfully logged out
+[2021-04-09 18:22:44]: ***  [, Level 0]: 'flappy' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: 'Chillingo' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: 'ZillyDreck' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: 'Fluffy' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: 'MLG_PRO' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: 'Hunter.exe' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: '(1)iMxtteo' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: 'fokkonaut' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: 'S Y T H N' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: 'iMxtteo' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: 'NoobEmir' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: 'NoobEmir.*' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: 'iMxtteo D' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: 'ChillerDragon' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: '(1)[D] Hunter.ex' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: 'σмєтнιηg' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: '[D] Hunter.exe' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: 'Kirito' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: '(6)Kirito' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: '(1)Kirito' has left the game (Restart - update)
+[2021-04-09 18:22:44]: ***  [, Level 0]: '(1)iMxtteo D' has left the game (Restart - update)
