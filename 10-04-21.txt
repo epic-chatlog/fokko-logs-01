@@ -8059,3 +8059,6 @@
 [2021-04-10 10:06:12]: ***  [, Level 0]: 'Virus' entered and joined the game
 [2021-04-10 10:06:26]: S Y T H N [, Level 37]: ~DemoizL~:
 [2021-04-10 10:06:36]: S Y T H N [, Level 37]: :C
+[2021-04-10 10:06:39]: ~DemoizL~ [, Level 39]: ups
+[2021-04-10 10:06:42]: ~DemoizL~ [, Level 39]: sorry
+[2021-04-10 10:06:43]: Isegrin [, Level 55]: S Y T H N: xaxa
