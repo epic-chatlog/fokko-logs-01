@@ -14116,3 +14116,6 @@
 [2021-04-09 23:35:00]: RM|weqe [MNKY, Level 12]: where
 [2021-04-09 23:35:07]: Amirian [, Level 29]: POLISE
 [2021-04-09 23:35:18]: Amirian [, Level 29]: <------
+[2021-04-09 23:35:35]: Amirian [, Level 29]: pls RM|weqe
+[2021-04-09 23:35:40]: RM|weqe [MNKY, Level 12]: wait Amirian
+[2021-04-09 23:35:44]: Amirian [, Level 29]: ):
