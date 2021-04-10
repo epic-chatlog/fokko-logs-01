@@ -13852,3 +13852,4 @@
 [2021-04-09 22:36:21]: ***  [, Level 0]: 'CKA3A4NIK[NR]' has left the game
 [2021-04-09 22:36:33]: ***  [, Level 0]: 'taco bell' has left the game (Timeout Protection over)
 [2021-04-09 22:36:33]: ***  [, Level 0]: '[D] taco bell' has left the game (Timeout Protection over)
+[2021-04-09 22:37:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
