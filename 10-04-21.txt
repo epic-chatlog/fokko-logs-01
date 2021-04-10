@@ -8979,3 +8979,5 @@
 [2021-04-10 11:03:08]: ***  [, Level 0]: 'Cosmo' has left the game (Timeout)
 [2021-04-10 11:03:08]: ***  [, Level 0]: '(1)Cosmo' has left the game (Timeout)
 [2021-04-10 11:03:12]: ***  [, Level 0]: 'Kezo' entered and joined the game
+[2021-04-10 11:03:30]: ***  [, Level 0]: 'Tziys*' entered and joined the game
+[2021-04-10 11:03:38]: CKA3A4NIK[NR] [Night Raid, Level 35]: XD
