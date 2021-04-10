@@ -11172,3 +11172,5 @@
 [2021-04-10 14:22:09]: ***  [, Level 0]: 'Axandos' has left the game
 [2021-04-10 14:22:09]: ***  [, Level 0]: 'Axandos²' has left the game
 [2021-04-10 14:22:14]: [D] El patron [, Level 0]: ;/
+[2021-04-10 14:22:40]: iMxtteo [DogParty, Level 27]: also auch eine deutsche kartoffel
+[2021-04-10 14:22:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
