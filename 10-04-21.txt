@@ -9499,3 +9499,6 @@
 [2021-04-10 11:43:43]: Saud [MNKY, Level 24]: cookie:
 [2021-04-10 11:43:49]: [D] El patron [, Level 0]: Kezo: help pls
 [2021-04-10 11:43:53]: SanoreX [Chilli.*, Level 27]: Guthaben: u see taco bell ?
+[2021-04-10 11:43:57]: [D] mrwodka936 [, Level 0]: ES: you want war
+[2021-04-10 11:44:04]: SanoreX [Chilli.*, Level 27]: Guthaben: u see taco bell ? I cant see
+[2021-04-10 11:44:06]: ***  [, Level 0]: 'flappy.*' has left the game (Too weak connection (not acked for 60 seconds))
