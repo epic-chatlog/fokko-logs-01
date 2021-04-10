@@ -11831,3 +11831,5 @@
 [2021-04-10 15:27:51]: Hunter.exe [DogParty, Level 36]: any: war?
 [2021-04-10 15:28:15]: ***  [, Level 0]: Hunter.exe is on a killing spree with 5 blocks
 [2021-04-10 15:28:20]: Hunter.exe [DogParty, Level 36]: any: if you want war say it
+[2021-04-10 15:28:29]: Hunter.exe [DogParty, Level 36]: any: noob dont help my enemys or you die
+[2021-04-10 15:28:31]: Hunter.exe [DogParty, Level 36]: any: little shit
