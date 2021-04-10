@@ -12115,3 +12115,5 @@
 [2021-04-10 16:28:20]: S Y T H N [, Level 37]: ok
 [2021-04-10 16:28:21]: S Y T H N [, Level 37]: hahaha
 [2021-04-10 16:28:32]: ***  [, Level 0]: 'fokkonaut' has left the game
+[2021-04-10 16:29:10]: ***  [, Level 0]: 'sleimi' has left the game
+[2021-04-10 16:29:10]: ***  [, Level 0]: 'supergamer300' has left the game
