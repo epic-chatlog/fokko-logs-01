@@ -14144,3 +14144,4 @@
 [2021-04-09 23:45:30]: Tom [, Level 0]: thanks kais
 [2021-04-09 23:45:40]: kais [, Level 65]: np
 [2021-04-09 23:47:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-09 23:48:25]: Amirian [, Level 29]: pls
