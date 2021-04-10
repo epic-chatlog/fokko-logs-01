@@ -13341,3 +13341,5 @@
 [2021-04-09 17:58:16]: ***  [, Level 0]: 'Zʷʰʸˀ' finished the special race!
 [2021-04-09 17:58:32]: ***  [, Level 0]: '(1)Zʷʰʸˀ' finished the special race!
 [2021-04-09 17:58:37]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-09 17:58:42]: Kirito [, Level 40]: Zʷʰʸˀ: war4life btw
+[2021-04-09 17:58:47]: Flipper [, Level 15]: yeah
