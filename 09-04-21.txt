@@ -13448,3 +13448,5 @@
 [2021-04-09 18:24:18]: ***  [, Level 0]: '(3)Kirito' entered and joined the game
 [2021-04-09 18:24:51]: ***  [, Level 0]: '(2)Zʷʰʸˀ' entered and joined the game
 [2021-04-09 18:24:54]: ***  [, Level 0]: '(3)Zʷʰʸˀ' entered and joined the game
+[2021-04-09 18:25:26]: ***  [, Level 0]: 'NoobEmir' entered and joined the game
+[2021-04-09 18:25:30]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
