@@ -9462,3 +9462,7 @@
 [2021-04-10 11:39:26]: SanoreX [Chilli.*, Level 27]: |HolyHo|: I cant disconnect only he can timeout
 [2021-04-10 11:39:29]: SanoreX [Chilli.*, Level 27]: look him's ping
 [2021-04-10 11:39:36]: |HolyHo| [, Level 0]: SanoreX:
+[2021-04-10 11:39:42]: SanoreX [Chilli.*, Level 27]: dont worked |HolyHo|
+[2021-04-10 11:39:47]: SanoreX [Chilli.*, Level 27]: dont worked |HolyHo|  bcs timedout
+[2021-04-10 11:39:49]: ***  [, Level 0]: 'tee.' joined the spectators
+[2021-04-10 11:39:49]: Saud [MNKY, Level 24]: ~DemoizL~:
