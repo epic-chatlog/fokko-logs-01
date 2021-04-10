@@ -3669,3 +3669,7 @@
 [2021-04-10 05:28:59]: Falco641 [.bad, Level 19]: hammer only?
 [2021-04-10 05:29:02]: darkstar [Legacy™, Level 19]: Kirito: get me out of here?
 [2021-04-10 05:29:03]: bob weqe fan [Ape, Level 0]: mmm oke
+[2021-04-10 05:29:23]: ***  [, Level 0]: 'taco bell' entered and joined the game
+[2021-04-10 05:29:27]: bob weqe fan [Ape, Level 0]: 1 0
+[2021-04-10 05:29:29]: ***  [, Level 0]: 'taco bell' has left the game
+[2021-04-10 05:29:33]: GReeeN [, Level 41]: Axandos:  diggaaa
