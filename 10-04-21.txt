@@ -5028,3 +5028,8 @@
 [2021-04-10 06:56:47]: ***  [, Level 0]: '(1)ERROR.' entered and joined the game
 [2021-04-10 06:56:47]: Kirito [, Level 40]: kais: ah okay
 [2021-04-10 06:56:48]: Amirian [, Level 29]: wtf ???
+[2021-04-10 06:56:54]: ***  [, Level 0]: 'iMxtteo' has left the game
+[2021-04-10 06:56:57]: [D] Amirian [, Level 23]: wtf ???
+[2021-04-10 06:57:01]: (1)kais [, Level 58]: (1)ERROR: there's a taser ammo near of kais
+[2021-04-10 06:57:02]: mamikral011 [DogParty, Level 21]: WarHammer: sende polis 1 var mı
+[2021-04-10 06:57:04]: [D] Amirian [, Level 23]: what
