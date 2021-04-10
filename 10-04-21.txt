@@ -10303,3 +10303,7 @@
 [2021-04-10 12:44:25]: (1)cookie [, Level 3]: Shiro.:  ask him
 [2021-04-10 12:44:38]: (1)cookie [, Level 3]: Shiro.:  come one
 [2021-04-10 12:44:41]: Flipper [, Level 15]: cookie i cant sorry
+[2021-04-10 12:44:52]: (1)cookie [, Level 3]: Flipper:  ask him why
+[2021-04-10 12:44:56]: GReeeN [, Level 0]: ReXi:  na du
+[2021-04-10 12:44:59]: Flipper [, Level 15]: why spike cookie shiro?
+[2021-04-10 12:45:01]: ***  [, Level 0]: 'Kyomu2212' has left the game
