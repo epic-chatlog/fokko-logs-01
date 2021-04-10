@@ -13621,3 +13621,8 @@
 [2021-04-09 21:19:30]: Nudelsaft c: [FookinLads, Level 37]: what the actual fuck
 [2021-04-09 21:19:35]: Nudelsaft c: [FookinLads, Level 37]: the running version is the old version
 [2021-04-09 21:19:37]: Nudelsaft c: [FookinLads, Level 37]: aaaaaaaaaaa
+[2021-04-09 21:19:39]: [D] taco bell [, Level 1]: ¿
+[2021-04-09 21:19:39]: Nudelsaft c: [FookinLads, Level 37]: 1 sec
+[2021-04-09 21:19:46]: ***  [, Level 0]: 'o' has left the game
+[2021-04-09 21:19:46]: ***  [, Level 0]: 'DiscordBridge' has left the game
+[2021-04-09 21:19:46]: ***  [, Level 0]: Collected 428 money
