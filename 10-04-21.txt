@@ -1507,3 +1507,5 @@
 [2021-04-10 02:59:16]: ***  [, Level 0]: 'NoobEmir.*' entered and joined the game
 [2021-04-10 02:59:18]:   [, Level 0]: CKA3A4NIK[NR]: Sad Guy:
 [2021-04-10 02:59:19]:   [, Level 0]: CKA3A4NIK[NR]: Sad Guy:  1
+[2021-04-10 02:59:26]: Isegrin [, Level 55]: 2
+[2021-04-10 02:59:35]: ***  [, Level 0]: 'Virus' entered and joined the game
