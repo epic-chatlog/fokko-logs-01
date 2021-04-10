@@ -2301,3 +2301,6 @@
 [2021-04-10 03:55:25]: (2)ChillerDrago [|*KoG*|, Level 34]: man 2 clients afk has tons of false positives
 [2021-04-10 03:55:27]: RM | Arin [Retard MNKY, Level 15]: egal
 [2021-04-10 03:55:28]: RM toxicdaddy [Retard MNKY, Level 27]: lost
+[2021-04-10 03:55:31]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
+[2021-04-10 03:55:31]: ***  [, Level 0]: '(1)Swarfey' entered and joined the game
+[2021-04-10 03:55:37]: RM toxicdaddy [Retard MNKY, Level 27]: das war mein dummy brache ihn nicht
