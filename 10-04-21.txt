@@ -4555,3 +4555,8 @@
 [2021-04-10 06:29:59]: ***  [, Level 0]: '(1)ビール|Zero' entered and joined the game
 [2021-04-10 06:29:59]: kais [, Level 65]: Souly: well, this is even more fake then xD
 [2021-04-10 06:30:02]: ***  [, Level 0]: 'Shiro,' entered and joined the game
+[2021-04-10 06:30:04]: JustRace [DogParty, Level 0]: Maatiteusz:  nah
+[2021-04-10 06:30:06]: Souly [, Level 60]: why
+[2021-04-10 06:30:07]: JustRace [DogParty, Level 0]: Maatiteusz:  I just saw you in v3
+[2021-04-10 06:30:11]: JustRace [DogParty, Level 0]: Maatiteusz:  you were afk
+[2021-04-10 06:30:13]: Maatiteusz [TrRShClNrRs, Level 35]: JustRace: I didnt xD
