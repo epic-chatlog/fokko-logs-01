@@ -9844,3 +9844,5 @@
 [2021-04-10 12:15:18]: (1)SanoreX [Chilli.*, Level 22]: oldu
 [2021-04-10 12:15:25]: WarHammer [DogParty, Level 26]: (1)SanoreX:  ulan bot kodlamayı bilsem neler neler yaparız
 [2021-04-10 12:15:28]: |HolyHo|° [, Level 28]: HeavyGeneral: i trained for the clan applyment
+[2021-04-10 12:15:33]: ERROR. [404, Level 56]: xD
+[2021-04-10 12:15:38]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
