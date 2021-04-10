@@ -7279,3 +7279,4 @@
 [2021-04-10 09:12:41]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-10 09:12:46]: (1)ChillerDrago [Chilli.*, Level 33]: only police for now
 [2021-04-10 09:12:47]: ***  [, Level 0]: 'Shiro,' entered and joined the game
+[2021-04-10 09:12:54]: Souly [, Level 60]: still will be abused then
