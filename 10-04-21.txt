@@ -10937,3 +10937,5 @@
 [2021-04-10 13:57:34]: iMxtteo [DogParty, Level 27]: good man
 [2021-04-10 13:57:43]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-10 13:57:48]: drunk [, Level 0]: no drunk anymore
+[2021-04-10 13:57:53]: ***  [, Level 0]: 'drunk' has left the game
+[2021-04-10 13:57:53]: ***  [, Level 0]: 'also drunk' has left the game
