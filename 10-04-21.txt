@@ -11252,3 +11252,9 @@
 [2021-04-10 14:29:32]: Hunter.exe [DogParty, Level 36]: iMxtteo:
 [2021-04-10 14:29:35]: Zephir™ [, Level 39]: El patron:
 [2021-04-10 14:29:40]: iMxtteo [DogParty, Level 27]: ReXi: hier sind alle alt
+[2021-04-10 14:29:54]: ReXi [, Level 0]: iMxtteo: ich bin aber nicht so alt wie alle
+[2021-04-10 14:29:55]: ***  [, Level 0]: 'Tauter' entered and joined the game
+[2021-04-10 14:29:56]: Hunter.exe [DogParty, Level 36]: El patron: why you save him idiot
+[2021-04-10 14:29:59]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-10 14:30:03]: iMxtteo [DogParty, Level 27]: ReXi: na dann ahah
+[2021-04-10 14:30:03]: El patron [, Level 28]: i am neutral
