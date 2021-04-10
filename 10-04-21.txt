@@ -7607,3 +7607,5 @@
 [2021-04-10 09:32:16]: cookie [, Level 18]: hhh3:  why you help him
 [2021-04-10 09:32:29]: ***  [, Level 0]: nameless is on a killing spree with 5 blocks
 [2021-04-10 09:32:39]: cookie [, Level 18]: NidardoHD:  help
+[2021-04-10 09:32:41]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-10 09:32:51]: ***  [, Level 0]: nameless is on a killing spree with 10 blocks
