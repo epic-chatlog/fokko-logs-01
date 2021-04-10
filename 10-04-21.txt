@@ -10615,3 +10615,5 @@
 [2021-04-10 13:11:44]: ***  [, Level 0]: 'drunk' entered and joined the game
 [2021-04-10 13:11:45]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 10 blocks
 [2021-04-10 13:11:45]: ***  [, Level 0]: 'also drunk' entered and joined the game
+[2021-04-10 13:11:55]: sun.slow(y) [FookinLads, Level 35]: |HolyHo|: bro i think i go sleep my head
+[2021-04-10 13:12:00]: |ΛnץOиe| [, Level 0]: Zephir™:
