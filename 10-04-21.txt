@@ -11231,3 +11231,7 @@
 [2021-04-10 14:26:22]: keepertrain._. [, Level 30]: money
 [2021-04-10 14:26:24]: keepertrain._. [, Level 30]: bith
 [2021-04-10 14:26:26]: iMxtteo [DogParty, Level 27]: ReXi: ja richtig bin erstaunnt
+[2021-04-10 14:26:41]: ReXi [, Level 0]: iMxtteo: komm ma
+[2021-04-10 14:26:45]: Zephir™ [, Level 39]: Red Flag:
+[2021-04-10 14:26:46]: ***  [, Level 0]: 'power' has left the game
+[2021-04-10 14:26:46]: ***  [, Level 0]: 'power2' has left the game
