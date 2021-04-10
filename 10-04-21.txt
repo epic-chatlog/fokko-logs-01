@@ -4801,3 +4801,6 @@
 [2021-04-10 06:44:24]: mamikral011 [DogParty, Level 21]: Çspkg
 [2021-04-10 06:44:27]: Kezo [DogParty, Level 41]: beynine ..
 [2021-04-10 06:44:28]: WarHammer [DogParty, Level 26]: Kezo:  geldinmi
+[2021-04-10 06:44:40]: mamikral011 [DogParty, Level 21]: WarHammer: işte geliyor özel kral
+[2021-04-10 06:44:40]: WarHammer [DogParty, Level 26]: Kezo:  jump yok :D
+[2021-04-10 06:44:43]: mamikral011 [DogParty, Level 21]: WarHammer: al al
