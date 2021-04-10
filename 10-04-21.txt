@@ -4314,3 +4314,9 @@
 [2021-04-10 06:20:19]: Souly [, Level 60]: sadly
 [2021-04-10 06:20:20]: Shiro, [Whɪтє, Level 51]: Souly: they are gay af
 [2021-04-10 06:20:24]: JustRace [DogParty, Level 0]: cl_aimbot 1
+[2021-04-10 06:20:27]: Shiro, [Whɪтє, Level 51]: Souly: find another thing
+[2021-04-10 06:20:28]: JustRace [DogParty, Level 0]: cl_aimbot 0
+[2021-04-10 06:20:30]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-10 06:20:31]: GODLIKe. [Solo, Level 44]: lagg
+[2021-04-10 06:20:36]: JustRace [DogParty, Level 0]: cl_aimbot 0
+[2021-04-10 06:20:38]: JustRace [DogParty, Level 0]: cl_aimbot 1
