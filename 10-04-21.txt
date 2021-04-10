@@ -8428,3 +8428,9 @@
 [2021-04-10 10:32:08]: ***  [, Level 0]: 'Kenshi™' entered and joined the game
 [2021-04-10 10:32:11]: ERROR. [404, Level 56]: Lebly:  do /stats ERROR
 [2021-04-10 10:32:16]: S Y T H N [, Level 37]: Kirito:
+[2021-04-10 10:32:22]: Lebly [, Level 0]: I like turtles.
+[2021-04-10 10:32:23]: ***  [, Level 0]: 'Kenshi™' started an auction on plot 4 for 1000000 money (plot expires on 14.04.2021 (17:00))
+[2021-04-10 10:32:23]: ***  [, Level 0]: Use '/plot buy 1000000 Kenshi™' to buy the plot
+[2021-04-10 10:32:24]: ERROR. [404, Level 56]: xD
+[2021-04-10 10:32:30]: ERROR. [404, Level 56]: Kenshi™:  cancel
+[2021-04-10 10:32:30]: Lebly [, Level 0]: wth I like turtles? xD
