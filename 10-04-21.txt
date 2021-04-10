@@ -7316,3 +7316,7 @@
 [2021-04-10 09:14:08]: Kaptar [, Level 0]: hhh3: mad
 [2021-04-10 09:14:11]: ***  [, Level 0]: '(1)kais' has been muted for 60 seconds
 [2021-04-10 09:14:11]: Kaptar [, Level 0]: hhh3: mad
+[2021-04-10 09:14:26]: cookie [, Level 18]: hhh3:  why me
+[2021-04-10 09:14:28]: (2)ChillerDrago [Chilli.*, Level 34]: rage kill
+[2021-04-10 09:14:35]: (2)ChillerDrago [Chilli.*, Level 34]: wrong time wrong place cookie
+[2021-04-10 09:14:37]: ***  [, Level 0]: 'Shiro,' has left the game
