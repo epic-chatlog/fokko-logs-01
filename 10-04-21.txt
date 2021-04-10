@@ -320,3 +320,4 @@
 [2021-04-10 00:59:46]: WarHammer [DogParty, Level 0]: NEW MAP HA
 [2021-04-10 00:59:47]: (1)ビール|Ze [Drunks, Level 15]: +
 [2021-04-10 00:59:48]: ***  [, Level 0]: 'bruh' entered and joined the game
+[2021-04-10 01:00:17]: RM|Saud [Retard MNKY, Level 19]: 0
