@@ -3676,3 +3676,8 @@
 [2021-04-10 05:29:46]: Falco641 [.bad, Level 19]: 1 1
 [2021-04-10 05:30:06]: Falco641 [.bad, Level 19]: 2 1
 [2021-04-10 05:30:14]: Falco641 [.bad, Level 19]: forget it
+[2021-04-10 05:30:15]: ***  [, Level 0]: 'tee*' has left the game
+[2021-04-10 05:30:16]: Falco641 [.bad, Level 19]: leave it
+[2021-04-10 05:30:22]: Falco641 [.bad, Level 19]: 3 1
+[2021-04-10 05:30:26]: bob weqe fan [Ape, Level 0]: i am so bad whit hamer
+[2021-04-10 05:30:28]: ***  [, Level 0]: 'Janisz' has left the game
