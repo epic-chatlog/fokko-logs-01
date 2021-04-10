@@ -5609,3 +5609,11 @@
 [2021-04-10 07:28:48]: S Y T H N [DogParty, Level 37]: ERROR: nicer ath client
 [2021-04-10 07:28:48]:   [, Level 0]: [D] BC|Tixnix: hhh3: ez
 [2021-04-10 07:28:49]: ***  [, Level 0]: 'BARTOLL' entered and joined the game
+[2021-04-10 07:28:54]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-10 07:28:54]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-10 07:28:55]: ***  [, Level 0]: 'BARTOLL' has left the game
+[2021-04-10 07:28:56]: mamikral011 [DogParty, Level 21]: [D] Cylox:
+[2021-04-10 07:29:00]: [D] mamikral011 [DogParty, Level 26]: [D] Cylox:
+[2021-04-10 07:29:03]: (1)ERROR [404, Level 47]: S Y T H N:  ist schon lange wieder ddnet
+[2021-04-10 07:29:04]: ***  [, Level 0]: 'Souly' has left the game (Timeout Protection over)
+[2021-04-10 07:29:04]: ***  [, Level 0]: 'SoulyD' has left the game (Timeout Protection over)
