@@ -12124,3 +12124,6 @@
 [2021-04-10 16:30:25]: Flupper [, Level 40]: nein
 [2021-04-10 16:30:35]: S Y T H N [, Level 37]: Flipper: war4life dude
 [2021-04-10 16:30:39]: ***  [, Level 0]: 'NidardoHD' entered and joined the game
+[2021-04-10 16:31:38]: ***  [, Level 0]: 'NidardoHD' has left the game
+[2021-04-10 16:31:41]: ***  [, Level 0]: 'Flupper' has left the game
+[2021-04-10 16:31:41]: ***  [, Level 0]: 'Flipper' has left the game
