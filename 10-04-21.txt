@@ -1180,3 +1180,4 @@
 [2021-04-10 02:22:32]: ***  [, Level 0]: 'Nevermind' has left the game
 [2021-04-10 02:22:40]: ~DemoizL~ [, Level 39]: ui
 [2021-04-10 02:22:42]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-10 02:22:53]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
