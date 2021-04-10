@@ -8079,3 +8079,4 @@
 [2021-04-10 10:08:16]: Isegrin [, Level 55]: El patron: who are u
 [2021-04-10 10:08:19]: ***  [, Level 0]: 'ERROR.' entered and joined the game
 [2021-04-10 10:08:24]: rayen [, Level 0]: ERROR.:  PLS HELP
+[2021-04-10 10:08:53]: ***  [, Level 0]: 'Isegrin' has left the game
