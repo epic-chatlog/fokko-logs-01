@@ -9384,3 +9384,6 @@
 [2021-04-10 11:31:47]: cookie [, Level 18]: bob: no i whant save you
 [2021-04-10 11:31:49]: NidardoHD [FlexTape, Level 1]: ChillerDragon:
 [2021-04-10 11:31:50]: ***  [, Level 0]: 'flappy.*' entered and joined the game
+[2021-04-10 11:31:58]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-10 11:31:58]: ***  [, Level 0]: 'SanoreX' has left the game
+[2021-04-10 11:32:05]: ***  [, Level 0]: '[D] Cylox' entered and joined the game
