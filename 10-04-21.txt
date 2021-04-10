@@ -5897,3 +5897,6 @@
 [2021-04-10 07:53:55]: ***  [, Level 0]: 'Sad Guy' has left the game (Timeout Protection over)
 [2021-04-10 07:53:56]: ***  [, Level 0]: '[D] Sad Guy' has left the game (Timeout Protection over)
 [2021-04-10 07:54:11]: ***  [, Level 0]: 'Fuck you' entered and joined the game
+[2021-04-10 07:54:15]: ***  [, Level 0]: '(1)Cylox' entered and joined the game
+[2021-04-10 07:54:20]:   [, Level 0]: El patron: gian x: pls no
+[2021-04-10 07:54:22]: ***  [, Level 0]: '(2)Kirito' has left the game
