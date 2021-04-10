@@ -9966,3 +9966,9 @@
 [2021-04-10 12:21:06]: Nudelsaft c: [FookinLads, Level 42]: bob: hab ich was verpasst?
 [2021-04-10 12:21:07]: bob [669, Level 36]: weqe: xd
 [2021-04-10 12:21:10]: SanoreX [Chilli.*, Level 27]: sL|KeBu28: öbür client bu benimki kullandığım ddnet üstüne kodladım botları azönce gösterdiklerimi °
+[2021-04-10 12:21:12]: kais [, Level 65]: (1)ERROR: you're sure ? i don't see it in the developpement
+[2021-04-10 12:21:13]: weqe [669, Level 12]: bob: u seem upset today brother
+[2021-04-10 12:21:16]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-10 12:21:17]: ***  [, Level 0]: 'SexyGirl' entered and joined the game
+[2021-04-10 12:21:20]: kais [, Level 65]: (1)ERROR: you're sure ? i don't see it in the developer
+[2021-04-10 12:21:23]: sL|KeBu28 [SkinLover, Level 0]: SanoreX: ben ddnetle oyniorum
