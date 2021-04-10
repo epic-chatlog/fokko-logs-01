@@ -10671,3 +10671,4 @@
 [2021-04-10 13:20:37]: ***  [, Level 0]: 'xXmatiasXx' entered and joined the game
 [2021-04-10 13:20:38]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-10 13:20:53]: ***  [, Level 0]: 'VAMPBOB' entered and joined the game
+[2021-04-10 13:21:09]: ***  [, Level 0]: 'WarHammer' has left the game
