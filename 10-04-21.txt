@@ -8276,3 +8276,4 @@
 [2021-04-10 10:21:32]: ANGEL_PRO [uli:v, Level 0]: f4
 [2021-04-10 10:21:32]: ***  [, Level 0]: 'BC|Tixnix' has left the game
 [2021-04-10 10:21:32]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
+[2021-04-10 10:21:51]: ERROR. [404, Level 56]: come inf jumps
