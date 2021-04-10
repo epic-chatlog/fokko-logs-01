@@ -13458,3 +13458,4 @@
 [2021-04-09 18:25:56]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
 [2021-04-09 18:26:00]: ***  [, Level 0]: 'NoobEmir.*' entered and joined the game
 [2021-04-09 20:54:59]: ***  [, Level 0]: Successfully logged in
+[2021-04-09 20:56:00]: RM|weqe [MNKY, Level 12]: taco bell: u love me ?
