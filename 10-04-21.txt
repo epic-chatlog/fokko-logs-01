@@ -11299,3 +11299,6 @@
 [2021-04-10 14:33:22]: keepertrain._. [, Level 30]: Hunter.exe: i say hi xd
 [2021-04-10 14:33:25]: Hunter.exe [DogParty, Level 36]: keepertrain._.: hi
 [2021-04-10 14:33:39]: ReXi [, Level 16]: kk
+[2021-04-10 14:33:53]: ReXi [, Level 16]: sonst gehts dir gut
+[2021-04-10 14:33:56]: ReXi [, Level 16]: oder
+[2021-04-10 14:34:00]: iMxtteo [DogParty, Level 27]: na klar
