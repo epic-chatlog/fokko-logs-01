@@ -7771,3 +7771,4 @@
 [2021-04-10 09:42:24]: ***  [, Level 0]: 'RM| bob' entered and joined the game
 [2021-04-10 09:42:24]: Axel [TrRShClNrRs, Level 30]: wait, why I have not russian flag
 [2021-04-10 09:42:28]: Axel [TrRShClNrRs, Level 30]: No Team :D: no problem
+[2021-04-10 09:42:41]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
