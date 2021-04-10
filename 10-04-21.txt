@@ -806,3 +806,6 @@
 [2021-04-10 01:47:30]: (1)ビール|Ze [Drunks, Level 15]: WarHammer: help rayen
 [2021-04-10 01:47:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-10 01:47:42]: (1)ビール|Ze [Drunks, Level 15]: WarHammer: fast
+[2021-04-10 01:47:42]: Kezo [DogParty, Level 41]: Nudelsaft c:: portal bad
+[2021-04-10 01:47:45]: Shy-ra. [, Level 0]: ~DemoizL~: i am in your team because Kezo blocked me, ok
+[2021-04-10 01:47:47]: (1)kais [, Level 58]: Nudelsaft c:: stop being chiller's doggo
