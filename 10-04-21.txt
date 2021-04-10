@@ -10763,3 +10763,4 @@
 [2021-04-10 13:38:07]: Zephir™ [, Level 39]: sun.slow(y): look omg
 [2021-04-10 13:38:19]: Zephir™ [, Level 39]: sun.slow(y): i have endless
 [2021-04-10 13:38:22]: ***  [, Level 0]: 'iMxtteo D' entered and joined the game
+[2021-04-10 13:38:52]: ***  [, Level 0]: 'Cassie' has left the game
