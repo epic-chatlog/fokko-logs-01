@@ -10193,3 +10193,4 @@
 [2021-04-10 12:35:01]: ERROR. [404, Level 56]: Shiro. take ure pills
 [2021-04-10 12:35:04]: ERROR. [404, Level 56]: and stfu
 [2021-04-10 12:35:08]:   [, Level 0]: Shiro.: ERROR: hi baby
+[2021-04-10 12:35:29]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
