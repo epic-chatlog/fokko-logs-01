@@ -10770,3 +10770,5 @@
 [2021-04-10 13:39:32]: sun.slow(y) [FookinLads, Level 35]: noon
 [2021-04-10 13:39:36]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-10 13:39:41]: Zephir™ [, Level 39]: sun.slow(y): french ?
+[2021-04-10 13:39:50]: sun.slow(y) [FookinLads, Level 35]: FUCK
+[2021-04-10 13:39:54]: sun.slow(y) [FookinLads, Level 35]: XDDD
