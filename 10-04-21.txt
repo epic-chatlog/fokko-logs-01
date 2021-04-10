@@ -5987,3 +5987,8 @@
 [2021-04-10 08:00:46]:   [, Level 0]: El patron: mamikral011:  who is that i started on the server today
 [2021-04-10 08:00:51]: ERROR. [404, Level 41]: ezzzz
 [2021-04-10 08:00:58]: ***  [, Level 0]: 'Maestro' entered and joined the game
+[2021-04-10 08:01:06]: (1)ビール|Ze [Drunks, Level 15]: gian x: pls
+[2021-04-10 08:01:08]: ERROR. [404, Level 41]: AAAAAAAAAAAAAAAAAAA
+[2021-04-10 08:01:12]: hhnaut31 [, Level 43]: ERROR: aaaa
+[2021-04-10 08:01:13]: mamikral011 [DogParty, Level 21]: Fuck you: help
+[2021-04-10 08:01:15]: hhnaut31 [, Level 43]: wait me gat
