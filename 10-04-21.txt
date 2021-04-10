@@ -3,3 +3,4 @@
 [2021-04-10 00:02:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-10 00:03:58]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-10 00:04:14]: ***  [, Level 0]: 'kurama' entered and joined the game
+[2021-04-10 00:04:23]: ***  [, Level 0]: 'nameless tee' has left the game
