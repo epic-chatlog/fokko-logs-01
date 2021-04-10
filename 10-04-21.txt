@@ -6738,3 +6738,5 @@
 [2021-04-10 08:45:58]: ☺ [, Level 6]: hhnaut31:
 [2021-04-10 08:46:06]: El patron [, Level 27]: sry
 [2021-04-10 08:46:12]: El patron [, Level 27]: ERROR:
+[2021-04-10 08:46:16]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-10 08:46:20]: Souly [, Level 60]: omg nobo
