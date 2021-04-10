@@ -2839,3 +2839,5 @@
 [2021-04-10 04:30:53]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
 [2021-04-10 04:30:57]: ***  [, Level 0]: 'Инк' has left the game
 [2021-04-10 04:31:34]: No game [Just me, Level 40]: Shy-ra.: en gros tu vas dans les parametres du skin donc tu cree tn ptit skin puis a la fin ya marquer eye un truc du genre at
+[2021-04-10 04:31:49]: Sad Guy [, Level 40]: wtf
+[2021-04-10 04:31:51]: ***  [, Level 0]: '(1)nameless tee' has left the game
