@@ -7518,3 +7518,4 @@
 [2021-04-10 09:26:19]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-10 09:26:19]: (1)cookie [, Level 0]: yeah i is gonne
 [2021-04-10 09:26:24]: ***  [, Level 0]: nameless is on a killing spree with 5 blocks
+[2021-04-10 09:26:43]: ***  [, Level 0]: nameless's killing spree was ended by minecraft (5 blocks)
