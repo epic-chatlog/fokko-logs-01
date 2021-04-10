@@ -11354,3 +11354,5 @@
 [2021-04-10 14:41:36]: Hunter.exe [DogParty, Level 36]: maybe
 [2021-04-10 14:41:41]: ***  [, Level 0]: '[D] keepertrain' entered and joined the game
 [2021-04-10 14:41:50]: Hunter.exe [DogParty, Level 36]: then you have no problem with war so
+[2021-04-10 14:41:56]: Hunter.exe [DogParty, Level 36]: but pls dont cry for peace now
+[2021-04-10 14:41:57]: ***  [, Level 0]: 'Isegrin' entered and joined the game
