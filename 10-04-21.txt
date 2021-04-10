@@ -9559,3 +9559,4 @@
 [2021-04-10 11:50:57]: (3)cookie [, Level 0]: taco
 [2021-04-10 11:51:11]: ***  [, Level 0]: '(1)flappy.*' entered and joined the game
 [2021-04-10 11:51:14]: Fearless [Retard MNKY, Level 15]: weqe:  WHAT U WANT
+[2021-04-10 11:51:23]: ***  [, Level 0]: weqe is on a killing spree with 5 blocks
