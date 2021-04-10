@@ -10611,3 +10611,7 @@
 [2021-04-10 13:11:29]: Zephir™ [, Level 39]: sun.slow(y): u like dick |HolyHo| ?
 [2021-04-10 13:11:33]: sun.slow(y) [FookinLads, Level 35]: yes daddy
 [2021-04-10 13:11:33]: ***  [, Level 0]: 'WhiteLion' has left the game
+[2021-04-10 13:11:40]: |HolyHo| [, Level 18]: sun.slow(y): yes indeed
+[2021-04-10 13:11:44]: ***  [, Level 0]: 'drunk' entered and joined the game
+[2021-04-10 13:11:45]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 10 blocks
+[2021-04-10 13:11:45]: ***  [, Level 0]: 'also drunk' entered and joined the game
