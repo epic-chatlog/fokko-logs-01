@@ -11016,3 +11016,6 @@
 [2021-04-10 14:08:56]: ***  [, Level 0]: 'supergamer300' entered and joined the game
 [2021-04-10 14:08:59]: \\Syth [, Level 30]: Axandos: u are 10 0
 [2021-04-10 14:09:03]: Axandos [, Level 0]: u killed me tho \\Syth
+[2021-04-10 14:09:09]: power2 [TrRShClNrRs, Level 0]: wanna do moire 1vs1? Flipper
+[2021-04-10 14:09:13]: \\Syth [, Level 30]: Axandos: what?
+[2021-04-10 14:09:14]: Axandos [, Level 0]: yesterday u are a sucker \\Syth
