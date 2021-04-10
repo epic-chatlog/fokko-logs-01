@@ -2361,3 +2361,9 @@
 [2021-04-10 04:00:12]: iMxtteo [DogParty, Level 27]: qpdnowhd
 [2021-04-10 04:00:26]: mamikral011 [DogParty, Level 21]: fucl
 [2021-04-10 04:00:46]: [D] mamikral011 [DogParty, Level 26]: tee*:
+[2021-04-10 04:01:00]: ***  [, Level 0]: 'Cr7xxx' entered and joined the game
+[2021-04-10 04:01:01]: ***  [, Level 0]: 'Nudelsaft c:' has left the game (Timeout)
+[2021-04-10 04:01:01]: iMxtteo [DogParty, Level 27]: gg
+[2021-04-10 04:01:02]: ***  [, Level 0]: 'Swarfey' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 04:01:03]: ***  [, Level 0]: 'Cr7xxx' has left the game
+[2021-04-10 04:01:04]: RM | Arin [Retard MNKY, Level 15]: gg
