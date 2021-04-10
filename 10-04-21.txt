@@ -9724,3 +9724,6 @@
 [2021-04-10 12:09:35]: ***  [, Level 0]: 'Fearless' has left the game (Timeout)
 [2021-04-10 12:09:37]: HeavyGeneral [FookinLads, Level 44]: i mean there is
 [2021-04-10 12:09:38]: HeavyGeneral [FookinLads, Level 44]: kinda
+[2021-04-10 12:09:44]: ERROR [404, Level 74]: who
+[2021-04-10 12:09:45]: |HolyHo| [, Level 18]: Souly: buy 8
+[2021-04-10 12:09:51]: |HolyHo| [, Level 18]: Souly: wait wtf
