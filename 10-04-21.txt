@@ -10339,3 +10339,7 @@
 [2021-04-10 12:47:32]: Kezo [DogParty, Level 41]: sun.slow(y): AMINA KODUGUM
 [2021-04-10 12:47:34]: HardreenClutch [, Level 57]: (1)[D] Hunter.e:  schlecht
 [2021-04-10 12:47:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-10 12:47:51]: (1)cookie [, Level 3]: Shiro.:  why
+[2021-04-10 12:47:52]: Hunter.exe [DogParty, Level 36]: HardreenClutch: nvm hab
+[2021-04-10 12:47:54]: (1)cookie [, Level 3]: Shiro.:  why
+[2021-04-10 12:47:56]: Shiro. [Whɪтє, Level 42]: HardreenClutch: tu puta de madre
