@@ -13697,3 +13697,5 @@
 [2021-04-09 21:27:55]: Swarfey [FookinLads, Level 59]: a
 [2021-04-09 21:27:59]: Swarfey [FookinLads, Level 59]: b
 [2021-04-09 21:27:59]: Swarfey [FookinLads, Level 59]: b
+[2021-04-09 21:30:00]: ***  [, Level 0]: 'ClemEntine' has left the game
+[2021-04-09 21:30:00]: ***  [, Level 0]: 'ClemEntine' has left the game
