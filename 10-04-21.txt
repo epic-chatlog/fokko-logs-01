@@ -5278,3 +5278,6 @@
 [2021-04-10 07:10:56]: ***  [, Level 0]: GODLIKe. finished in: 1 minute(s) 13.92 second(s)
 [2021-04-10 07:10:56]: ***  [, Level 0]: New record: 2 minute(s) 51.28 second(s) better.
 [2021-04-10 07:11:05]: mamikral011 [DogParty, Level 21]: ahahaha
+[2021-04-10 07:11:16]: ***  [, Level 0]: hhh3 finished in: 1 minute(s) 47.20 second(s)
+[2021-04-10 07:11:16]: ***  [, Level 0]: New record: 6 minute(s) 49.04 second(s) better.
+[2021-04-10 07:11:18]: ***  [, Level 0]: Falco641 is on a killing spree with 10 blocks
