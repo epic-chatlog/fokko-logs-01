@@ -6196,3 +6196,6 @@
 [2021-04-10 08:13:21]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-10 08:13:22]:   [, Level 0]: (1)Cylox: WTF
 [2021-04-10 08:13:31]: [D] taco bell [, Level 4]: Epic
+[2021-04-10 08:13:37]: hhh3 [, Level 48]: ChillerDragon: say ./spec hhnaut31
+[2021-04-10 08:13:38]: ***  [, Level 0]: (2)ChillerDragon is on a killing spree with 5 blocks
+[2021-04-10 08:13:45]: (2)ChillerDrago [Chilli.*, Level 34]: i see
