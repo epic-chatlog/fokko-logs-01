@@ -13339,3 +13339,5 @@
 [2021-04-09 17:57:45]: S Y T H N [DogParty, Level 37]: fokkonaut: daas ist das was mich geärgert haat :D
 [2021-04-09 17:57:51]: fokkonaut [, Level 102]: :D
 [2021-04-09 17:58:16]: ***  [, Level 0]: 'Zʷʰʸˀ' finished the special race!
+[2021-04-09 17:58:32]: ***  [, Level 0]: '(1)Zʷʰʸˀ' finished the special race!
+[2021-04-09 17:58:37]: ***  [, Level 0]: [INFO] You can create an account using '/register'
