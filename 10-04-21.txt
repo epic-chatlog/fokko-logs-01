@@ -9593,3 +9593,4 @@
 [2021-04-10 11:55:19]: ~DemoizL~ [, Level 39]: Zephir™: je veux pas d'argent
 [2021-04-10 11:55:23]: ***  [, Level 0]: weqe's killing spree was ended by flappy (5 blocks)
 [2021-04-10 11:55:26]: ***  [, Level 0]: 'Lebly' has left the game
+[2021-04-10 11:55:42]: ***  [, Level 0]: '(2)flappy.*' entered and joined the game
