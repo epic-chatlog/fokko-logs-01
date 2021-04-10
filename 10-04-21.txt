@@ -5900,3 +5900,6 @@
 [2021-04-10 07:54:15]: ***  [, Level 0]: '(1)Cylox' entered and joined the game
 [2021-04-10 07:54:20]:   [, Level 0]: El patron: gian x: pls no
 [2021-04-10 07:54:22]: ***  [, Level 0]: '(2)Kirito' has left the game
+[2021-04-10 07:54:29]: (1)Cylox [♥, Level 0]: my life my ruLes
+[2021-04-10 07:54:33]: ***  [, Level 0]: 'iMxtteo D' has left the game
+[2021-04-10 07:54:34]: ***  [, Level 0]: 'iMxtteo' has left the game
