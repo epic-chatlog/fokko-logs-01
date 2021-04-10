@@ -11874,3 +11874,5 @@
 [2021-04-10 15:34:10]: iMxtteo [DogParty, Level 27]: ReXi: glaube ich dir nicht :=
 [2021-04-10 15:34:16]: ReXi [, Level 0]: ok
 [2021-04-10 15:34:24]: ReXi [, Level 0]: RM | Arin: wie alt bist du
+[2021-04-10 15:34:42]: ***  [, Level 0]: '[D] ANGEL_PRO' entered and joined the game
+[2021-04-10 15:34:46]: Eden [qwq, Level 0]: aaa
