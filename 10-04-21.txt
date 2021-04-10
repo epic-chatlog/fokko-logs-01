@@ -9681,3 +9681,5 @@
 [2021-04-10 12:06:17]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
 [2021-04-10 12:06:19]: ***  [, Level 0]: 'SanoreX' left the minigame 'Block'
 [2021-04-10 12:06:28]: |HolyHo| [, Level 18]: Tziys*: buy one
+[2021-04-10 12:06:33]: Tziys* [DogParty, Level 39]: |HolyHo|: NO
+[2021-04-10 12:06:38]: Tziys* [DogParty, Level 39]: |HolyHo|: i dont like plot farm
