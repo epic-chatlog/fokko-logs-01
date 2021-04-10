@@ -10398,3 +10398,6 @@
 [2021-04-10 12:52:09]: Zephir™ [, Level 39]: Kezo: stop try me
 [2021-04-10 12:52:28]: Shiro, [Whɪтє, Level 51]: afk killer noob
 [2021-04-10 12:52:30]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-10 12:52:41]: Falco641 [.bad, Level 20]: Kezo: chill
+[2021-04-10 12:52:43]:   [, Level 0]: Kezo: rq
+[2021-04-10 12:52:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
