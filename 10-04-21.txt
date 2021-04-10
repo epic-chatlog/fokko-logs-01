@@ -4047,3 +4047,6 @@
 [2021-04-10 05:57:02]: ***  [, Level 0]: 'kurama' entered and joined the game
 [2021-04-10 05:57:06]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
 [2021-04-10 05:57:09]: mamikral011 [DogParty, Level 21]: SoulyD: war for life
+[2021-04-10 05:57:13]: ***  [, Level 0]: kiøn1029 finished in: 2 minute(s) 21.00 second(s)
+[2021-04-10 05:57:13]: ***  [, Level 0]: New record: 2 minute(s) 41.06 second(s) better.
+[2021-04-10 05:57:14]: SoulyD [, Level 47]: ez
