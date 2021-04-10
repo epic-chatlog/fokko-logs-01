@@ -9809,3 +9809,8 @@
 [2021-04-10 12:13:56]: ***  [, Level 0]: 'gian x' has left the game
 [2021-04-10 12:13:59]: ***  [, Level 0]: 'kais' has left the game (Timeout Protection over)
 [2021-04-10 12:14:03]: (1)SanoreX [Chilli.*, Level 22]: bak
+[2021-04-10 12:14:06]: WarHammer [DogParty, Level 26]: SanoreX:  sadece orda mı farm yapıyo
+[2021-04-10 12:14:07]: ~DemoizL~ [, Level 39]: |HolyHo|°: dog
+[2021-04-10 12:14:14]: SanoreX [Chilli.*, Level 27]: WarHammer: yok belirlion izle
+[2021-04-10 12:14:14]: ERROR. [404, Level 56]: his dummy
+[2021-04-10 12:14:15]: HardreenClutch [, Level 57]: dummy
