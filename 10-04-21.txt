@@ -5735,3 +5735,7 @@
 [2021-04-10 07:38:33]: El patron [, Level 0]: flappy: help
 [2021-04-10 07:38:36]: mamikral011 [DogParty, Level 21]: kdkg
 [2021-04-10 07:38:37]:   [, Level 0]: bruh: flappy:  pls help
+[2021-04-10 07:38:39]: ***  [, Level 0]: 'hhnaut31' entered and joined the game
+[2021-04-10 07:38:41]: mamikral011 [DogParty, Level 21]: Cylox: beni götü
+[2021-04-10 07:38:44]: [D] Cylox [, Level 0]: nereye
+[2021-04-10 07:38:50]: ***  [, Level 0]: 'NoobEmir' entered and joined the game
