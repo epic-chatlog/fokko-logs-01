@@ -1237,3 +1237,4 @@
 [2021-04-10 02:30:42]: ***  [, Level 0]: [D] mamikral011 finished in: 1 minute(s) 42.30 second(s)
 [2021-04-10 02:30:42]: ***  [, Level 0]: New record: 3 minute(s) 44.00 second(s) better.
 [2021-04-10 02:31:03]: [D] mamikral011 [DogParty, Level 26]: blazingd420:
+[2021-04-10 02:31:14]: ***  [, Level 0]: 'nikuś' entered and joined the game
