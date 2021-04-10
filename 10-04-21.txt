@@ -3348,3 +3348,5 @@
 [2021-04-10 05:06:31]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-10 05:06:32]: bob weqe fan [Ape, Level 0]: 2 9
 [2021-04-10 05:06:34]: Falco642 [, Level 0]: oops
+[2021-04-10 05:06:40]: bob weqe fan [Ape, Level 0]: 1 more
+[2021-04-10 05:06:45]: ***  [{ýÿÿ, Level 0]: 'NoobEmir' entered and joined the game
