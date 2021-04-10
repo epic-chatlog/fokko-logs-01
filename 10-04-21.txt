@@ -2864,3 +2864,6 @@
 [2021-04-10 04:33:20]: ***  [, Level 0]: 'uptoram' entered and joined the game
 [2021-04-10 04:33:25]: No game [Just me, Level 40]: Shy-ra.: c'est bon
 [2021-04-10 04:33:27]: Shy-ra. [, Level 0]: mais je ss
+[2021-04-10 04:33:46]: ***  [, Level 0]: '(2)nameless tee' has left the game
+[2021-04-10 04:33:48]: ***  [, Level 0]: 'Mass' has left the game
+[2021-04-10 04:33:48]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
