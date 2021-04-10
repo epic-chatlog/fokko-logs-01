@@ -5966,3 +5966,7 @@
 [2021-04-10 07:58:38]:   [, Level 0]: El patron: mamikral011: i start today on this server
 [2021-04-10 07:58:42]: [D] Cylox [, Level 0]: (1)RM|Saud: why man
 [2021-04-10 07:58:44]: (1)RM|Saud [Retard MNKY, Level 24]: Falco641:  wtff i helped u !
+[2021-04-10 07:58:49]: ERROR. [404, Level 41]: AAAAAAAAAAAAA
+[2021-04-10 07:58:52]: (1)RM|Saud [Retard MNKY, Level 24]: [D] Cylox:  what
+[2021-04-10 07:58:58]: ***  [, Level 0]: '[D] UOYKCUFI' has left the game
+[2021-04-10 07:58:58]: ***  [, Level 0]: 'UOYKCUFI' has left the game
