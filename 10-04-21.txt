@@ -9321,3 +9321,8 @@
 [2021-04-10 11:27:47]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-10 11:27:51]: cookie [, Level 18]: :spec
 [2021-04-10 11:27:53]: Night Team :D [TrRShClNrRs, Level 21]: Night Mod is Enabled Be CareFul With Me !!! DIE !!!
+[2021-04-10 11:27:56]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-10 11:27:56]: SanoreX [Chilli.*, Level 27]: ES:
+[2021-04-10 11:27:57]: SanoreX [Chilli.*, Level 27]: help
+[2021-04-10 11:27:59]: SanoreX [Chilli.*, Level 27]: hlp
+[2021-04-10 11:28:05]: Tziys* [DogParty, Level 39]: power:
