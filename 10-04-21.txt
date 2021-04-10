@@ -3727,3 +3727,5 @@
 [2021-04-10 05:33:33]: Falco641 [.bad, Level 19]: lag
 [2021-04-10 05:33:38]: Falco641 [.bad, Level 19]: 9 7
 [2021-04-10 05:33:38]: Souly [, Level 60]: Boti.: thank god im noby
+[2021-04-10 05:33:50]: Boti. [.bad, Level 33]: Souly: yeah
+[2021-04-10 05:33:53]: Jr no game [Just me, Level 27]: No game:
