@@ -9415,3 +9415,4 @@
 [2021-04-10 11:35:09]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-10 11:35:18]: mrwodka936 [, Level 0]: Cylox:
 [2021-04-10 11:35:30]: Zephir™ [, Level 39]: Fearless: omg dog El patron too
+[2021-04-10 11:36:13]: ***  [, Level 0]: '(1)cookie' entered and joined the game
