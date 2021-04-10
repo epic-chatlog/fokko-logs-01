@@ -10450,3 +10450,7 @@
 [2021-04-10 12:56:03]: ***  [, Level 0]: '[D] El patron' entered and joined the game
 [2021-04-10 12:56:03]: Nudelsaft c: [FookinLads, Level 37]: I like turtles.
 [2021-04-10 12:56:06]: sun.slow(y) [FookinLads, Level 35]: Kezo: kanka
+[2021-04-10 12:56:12]: Nudelsaft c: [FookinLads, Level 37]: wtf
+[2021-04-10 12:56:15]: Nudelsaft c: [FookinLads, Level 37]: du sprichst türkisch
+[2021-04-10 12:56:18]: ***  [, Level 0]: 'cookie' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 12:56:18]: Nudelsaft c: [FookinLads, Level 37]: zuviel für mich
