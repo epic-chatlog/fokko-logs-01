@@ -1240,3 +1240,5 @@
 [2021-04-10 02:31:14]: ***  [, Level 0]: 'nikuś' entered and joined the game
 [2021-04-10 02:31:29]: ***  [, Level 0]: 'nikuś' has left the game
 [2021-04-10 02:31:40]: RM|Saud [Retard MNKY, Level 19]: kais:  fuck u open
+[2021-04-10 02:31:53]: ***  [, Level 0]: power finished in: 2 minute(s) 35.84 second(s)
+[2021-04-10 02:31:53]: ***  [, Level 0]: New record: 58.86 second(s) better.
