@@ -2940,3 +2940,5 @@
 [2021-04-10 04:39:01]: Kezo [DogParty, Level 0]: AAAAAAAAA
 [2021-04-10 04:39:04]: |MıssOяchiĐ| [, Level 0]: BAHAH
 [2021-04-10 04:39:04]: Shy-ra. [, Level 0]: No game: c pas grave t'en fait pas sinon
+[2021-04-10 04:39:15]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-10 04:39:15]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
