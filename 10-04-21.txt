@@ -980,3 +980,6 @@
 [2021-04-10 02:02:28]: kais [, Level 65]: Nudelsaft c:: so it is fair i think
 [2021-04-10 02:02:30]: Nudelsaft c: [FookinLads, Level 37]: kais: but still, they all have endless and will just hook me all at once
 [2021-04-10 02:02:37]: kais [, Level 65]: Nudelsaft c:: and RM|Saud is useless
+[2021-04-10 02:02:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-10 02:02:42]: ***  [, Level 0]: 734. mamikral011 Time: 03:01.22, requested by mamikral011
+[2021-04-10 02:02:44]: RM|Saud [Retard MNKY, Level 19]: xD kais
