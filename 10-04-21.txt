@@ -9727,3 +9727,10 @@
 [2021-04-10 12:09:44]: ERROR [404, Level 74]: who
 [2021-04-10 12:09:45]: |HolyHo| [, Level 18]: Souly: buy 8
 [2021-04-10 12:09:51]: |HolyHo| [, Level 18]: Souly: wait wtf
+[2021-04-10 12:09:53]: weqe [669, Level 12]: HeavyGeneral: do u want to have peace with me ?
+[2021-04-10 12:09:53]: HeavyGeneral [FookinLads, Level 44]: all who in?
+[2021-04-10 12:09:55]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-10 12:09:59]: ***  [, Level 0]: '(1)kais' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 12:09:59]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
+[2021-04-10 12:10:00]: ERROR [404, Level 74]: HeavyGeneral:  k wait
+[2021-04-10 12:10:02]: ***  [, Level 0]: 'minecraft' entered and joined the game
