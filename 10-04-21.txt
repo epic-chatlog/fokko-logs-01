@@ -8027,3 +8027,4 @@
 [2021-04-10 10:03:19]: S Y T H N [, Level 37]: aaaaa
 [2021-04-10 10:03:27]: minecraft [, Level 12]: hhh3: all killing me when i am afk
 [2021-04-10 10:03:29]: ***  [, Level 0]: 'sL|coffee [D]' entered and joined the game
+[2021-04-10 10:03:43]: ***  [, Level 0]: 'nennydoq' has left the game
