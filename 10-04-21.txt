@@ -8093,3 +8093,6 @@
 [2021-04-10 10:09:52]: taco bell [, Level 8]: are there any ways to boost your x'
 [2021-04-10 10:09:54]: taco bell [, Level 8]: xp
 [2021-04-10 10:09:54]: MieSlime [FookinLads, Level 43]: Tixnix:  attacked*
+[2021-04-10 10:10:13]: ***  [, Level 0]: ERROR is on a killing spree with 5 blocks
+[2021-04-10 10:10:14]: ***  [, Level 0]: ERROR's killing spree was ended by Tugderic (6 blocks)
+[2021-04-10 10:10:19]: ***  [, Level 0]: '.S L E E P Y'' has left the game
