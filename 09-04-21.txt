@@ -13431,3 +13431,13 @@
 [2021-04-09 18:22:44]: ***  [, Level 0]: '(6)Kirito' has left the game (Restart - update)
 [2021-04-09 18:22:44]: ***  [, Level 0]: '(1)Kirito' has left the game (Restart - update)
 [2021-04-09 18:22:44]: ***  [, Level 0]: '(1)iMxtteo D' has left the game (Restart - update)
+[2021-04-09 18:24:01]: ***  [, Level 0]: 'o' entered and joined the game
+[2021-04-09 18:24:01]: ***  [, Level 0]: 'DiscordBridge' entered and joined the game
+[2021-04-09 18:24:01]: ***  [, Level 0]: '(1)o' entered and joined the game
+[2021-04-09 18:24:01]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.2, by fokkonaut
+[2021-04-09 18:24:01]: ***  [, Level 0]: Successfully logged in
+[2021-04-09 18:24:01]: ***  [, Level 0]: [WARNING] You did not set security pin yet. Check '/pin' for more information.
+[2021-04-09 18:24:02]: ***  [, Level 0]: '(1)DiscordBridge' entered and joined the game
+[2021-04-09 18:24:02]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.2, by fokkonaut
+[2021-04-09 18:24:02]: ***  [, Level 0]: Successfully logged in
+[2021-04-09 18:24:02]: ***  [, Level 0]: You are already logged in
