@@ -11968,3 +11968,4 @@
 [2021-04-10 15:51:52]: Shutaz [, Level 0]: Isegrin: but its sieg not sigh
 [2021-04-10 15:51:56]: ***  [, Level 0]: 'Shutaz' has left the game
 [2021-04-10 15:52:04]: Isegrin [, Level 55]: jawohl
+[2021-04-10 15:52:43]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
