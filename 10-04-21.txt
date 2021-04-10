@@ -8226,3 +8226,6 @@
 [2021-04-10 10:18:19]: ***  [, Level 0]: 'detzu.' entered and joined the game
 [2021-04-10 10:18:20]: weqe [669, Level 12]: (3)ChillerDrago: STOP
 [2021-04-10 10:18:35]: ChillerDragon.* [|*KoG*|, Level 42]: stop spike Souly weqe
+[2021-04-10 10:18:42]: MieSlime [FookinLads, Level 43]: bruh:  touch me i fuck u
+[2021-04-10 10:18:49]: ***  [, Level 0]: '[D] BC|serwan' would have timed out, but can use timeout protection now
+[2021-04-10 10:18:49]: ***  [, Level 0]: 'BC|serwan' would have timed out, but can use timeout protection now
