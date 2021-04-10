@@ -13817,3 +13817,7 @@
 [2021-04-09 21:57:42]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-09 21:58:14]: taco bell [, Level 5]: ayyyy lvl 5
 [2021-04-09 22:13:42]: ***  [, Level 0]: Successfully logged in
+[2021-04-09 22:13:53]: taco bell [, Level 5]: I don't want to turn off my pc
+[2021-04-09 22:13:55]: Nudelsaft c: [FookinLads, Level 37]: error is wieder an
+[2021-04-09 22:13:59]: taco bell [, Level 5]: 6xp per second
+[2021-04-09 22:13:59]: Nudelsaft c: [FookinLads, Level 37]: taco bell: xd
