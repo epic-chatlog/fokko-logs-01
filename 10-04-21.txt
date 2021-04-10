@@ -8403,3 +8403,5 @@
 [2021-04-10 10:30:38]: Lebly [, Level 0]: done
 [2021-04-10 10:30:40]: Lebly [, Level 0]: 33 money
 [2021-04-10 10:30:40]: ERROR. [404, Level 56]: k come
+[2021-04-10 10:31:06]: ERROR. [404, Level 56]: Zephir™:  wanna sell plot?
+[2021-04-10 10:31:13]: Zephir™ [, Level 39]: ERROR.: yep
