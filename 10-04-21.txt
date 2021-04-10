@@ -5993,3 +5993,7 @@
 [2021-04-10 08:01:13]: mamikral011 [DogParty, Level 21]: Fuck you: help
 [2021-04-10 08:01:15]: hhnaut31 [, Level 43]: wait me gat
 [2021-04-10 08:01:18]: ERROR. [404, Level 41]: kk
+[2021-04-10 08:01:31]: Fuck you [, Level 40]: lag f
+[2021-04-10 08:01:34]: Fuck you [, Level 40]: lag again
+[2021-04-10 08:01:38]: ERROR. [404, Level 41]: DDD
+[2021-04-10 08:01:41]: [D] Amirian [, Level 23]: yes thx
