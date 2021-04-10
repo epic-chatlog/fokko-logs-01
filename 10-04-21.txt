@@ -9400,3 +9400,4 @@
 [2021-04-10 11:32:46]: ***  [, Level 0]: 'Kiøn1029' has left the game
 [2021-04-10 11:32:54]: ***  [, Level 0]: 'NidardoHD' has left the game
 [2021-04-10 11:32:54]: ***  [, Level 0]: 'Nidardo.' has left the game
+[2021-04-10 11:33:03]: cookie [, Level 18]: help me
