@@ -11721,3 +11721,5 @@
 [2021-04-10 15:17:39]: ReXi [, Level 0]: RM | Arin: BITTE
 [2021-04-10 15:17:43]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-10 15:17:50]: iMxtteo [DogParty, Level 27]: ReXi: warte
+[2021-04-10 15:19:10]: ***  [, Level 0]: '[D] BULLETBOT' has left the game
+[2021-04-10 15:19:10]: ***  [, Level 0]: 'BULLETBOT' has left the game
