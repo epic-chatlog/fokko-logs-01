@@ -10537,3 +10537,5 @@
 [2021-04-10 13:03:15]: |HolyHo| [, Level 18]: sun.slow(y): |>
 [2021-04-10 13:03:15]: Flupper [, Level 0]: my dummy
 [2021-04-10 13:03:34]: |HolyHo| [, Level 18]: sun.slow(y): will u accept me as your dog?
+[2021-04-10 13:03:39]: sun.slow(y) [FookinLads, Level 35]: |HolyHo|: wtf no
+[2021-04-10 13:03:46]: El patron [, Level 28]: sun.slow(y):
