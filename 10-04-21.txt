@@ -11278,3 +11278,5 @@
 [2021-04-10 14:31:03]: Hunter.exe [DogParty, Level 36]: El patron: ask yellow
 [2021-04-10 14:31:05]: iMxtteo [DogParty, Level 27]: ja moin!
 [2021-04-10 14:31:08]: iMxtteo [DogParty, Level 27]: First try
+[2021-04-10 14:31:23]: ReXi [, Level 16]: huch
+[2021-04-10 14:31:24]: Zephir™ [, Level 39]: El patron: ok
