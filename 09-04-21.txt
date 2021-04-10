@@ -13846,3 +13846,5 @@
 [2021-04-09 22:32:33]: ***  [, Level 0]: '[D] taco bell' would have timed out, but can use timeout protection now
 [2021-04-09 22:32:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-09 22:32:57]: CKA3A4NIK[NR] [Night Raid, Level 35]: taco bell:  Want live?
+[2021-04-09 22:34:01]: ***  [, Level 0]: 'dat boi' entered and joined the game
+[2021-04-09 22:34:01]: ***  [, Level 0]: 'giana' entered and joined the game
