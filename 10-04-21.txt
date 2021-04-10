@@ -9929,3 +9929,8 @@
 [2021-04-10 12:19:07]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-10 12:19:07]: SanoreX [Chilli.*, Level 27]: gitmeye çalışıyo havaya
 [2021-04-10 12:19:13]: weqe [669, Level 12]: bob: come help me brother]
+[2021-04-10 12:19:18]: |HolyHo|° [, Level 28]: HeavyGeneral: u talk to me or kais
+[2021-04-10 12:19:19]: HeavyGeneral [FookinLads, Level 44]: so howws that nerf
+[2021-04-10 12:19:26]: HeavyGeneral [FookinLads, Level 44]: |HolyHo|: kais
+[2021-04-10 12:19:27]: ***  [, Level 0]: GReeeN is on a killing spree with 15 blocks
+[2021-04-10 12:19:29]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
