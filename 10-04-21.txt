@@ -7789,3 +7789,5 @@
 [2021-04-10 09:44:50]: cookie [, Level 18]: :spec
 [2021-04-10 09:44:54]: minecraft [, Level 0]: omg i lag
 [2021-04-10 09:45:00]: ***  [, Level 0]: 'Shy-ra.' has left the game (Timeout)
+[2021-04-10 09:45:12]: ***  [, Level 0]: 'Czeburson' entered and joined the game
+[2021-04-10 09:45:19]: ***  [, Level 0]: 'SoulyD' entered and joined the game
