@@ -8579,3 +8579,5 @@
 [2021-04-10 10:38:24]: ***  [, Level 0]: 'Tziys*' entered and joined the game
 [2021-04-10 10:38:32]: (1)ChillerDrago [|*KoG*|, Level 42]: lmao have fun up there ERROR
 [2021-04-10 10:38:32]:   [, Level 0]: |HolyHo|: ERROR: sup
+[2021-04-10 10:38:39]: [D] El patron [, Level 0]: Good man:  which lvl do you have to be to buy police 3
+[2021-04-10 10:38:39]: ERROR. [404, Level 56]: ChillderPlagon*:  ahhahaahahahha
