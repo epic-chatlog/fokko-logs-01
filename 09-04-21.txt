@@ -14164,3 +14164,5 @@
 [2021-04-09 23:56:58]: (1)kais [, Level 58]: ...
 [2021-04-09 23:57:08]: Amirian [, Level 29]: kais: yuo have game friday night?
 [2021-04-09 23:57:20]: (1)kais [, Level 58]: Amirian: yes why ?
+[2021-04-09 23:57:25]: [D] Amirian [, Level 23]: kais: you have game friday night?
+[2021-04-09 23:57:32]: [D] Amirian [, Level 23]: im nub ):
