@@ -7586,3 +7586,5 @@
 [2021-04-10 09:30:34]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-10 09:30:41]: [D] Cylox [, Level 0]: rq
 [2021-04-10 09:30:47]: ***  [, Level 0]: 'Axel ²' entered and joined the game
+[2021-04-10 09:31:01]: hhh3 [, Level 48]: HardreenClutch: clutchdreen
+[2021-04-10 09:31:02]: NidardoHD [FlexTape, Level 0]: cookie: help me
