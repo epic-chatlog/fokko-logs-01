@@ -14086,3 +14086,5 @@
 [2021-04-09 23:24:30]: ***  [, Level 0]: '(2)kais' has left the game
 [2021-04-09 23:24:30]: ***  [, Level 0]: '(3)kais' has left the game
 [2021-04-09 23:25:57]: ***  [, Level 0]: 'Nudelsaft c:' joined the spectators
+[2021-04-09 23:26:56]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-09 23:26:56]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
