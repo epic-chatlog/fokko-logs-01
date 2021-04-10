@@ -13781,3 +13781,7 @@
 [2021-04-09 21:42:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-09 21:42:48]: taco bell [, Level 4]: then why does it play automatically
 [2021-04-09 21:42:50]: taco bell [, Level 4]: tf
+[2021-04-09 21:42:52]: Swarfey [FookinLads, Level 60]: idk
+[2021-04-09 21:42:59]: taco bell [, Level 4]: weird shit
+[2021-04-09 21:43:00]: Swarfey [FookinLads, Level 60]: its exploiting some weird stuff
+[2021-04-09 21:43:01]: Nudelsaft c: [FookinLads, Level 37]: yea
