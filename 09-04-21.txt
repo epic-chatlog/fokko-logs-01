@@ -14105,3 +14105,4 @@
 [2021-04-09 23:33:14]: ***  [, Level 0]: 'Amirian' entered and joined the game
 [2021-04-09 23:33:29]: Amirian [, Level 0]: ringh
 [2021-04-09 23:33:34]: Amirian [, Level 0]: RM|weqe:
+[2021-04-09 23:33:58]: Amirian [, Level 0]: thx RM|weqe
