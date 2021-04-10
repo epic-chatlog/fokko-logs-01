@@ -6493,3 +6493,6 @@
 [2021-04-10 08:32:42]: El patron [, Level 27]: Kirito: portal
 [2021-04-10 08:32:42]: ***  [, Level 0]: 'Guthaben' joined the spectators
 [2021-04-10 08:32:45]: ***  [, Level 0]: 'hhnaut31' entered and joined the game
+[2021-04-10 08:32:49]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-10 08:32:58]: hmmmmmm [, Level 12]: Kirito: thx man
+[2021-04-10 08:32:59]: [D] Amirian [bad., Level 23]: soleri1: reset
