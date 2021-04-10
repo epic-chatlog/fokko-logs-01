@@ -11778,3 +11778,10 @@
 [2021-04-10 15:24:12]: Hunter.exe [DogParty, Level 36]: ReXi: ja ich bin 10
 [2021-04-10 15:24:14]: ReXi [, Level 0]: iMxtteo: wie viel
 [2021-04-10 15:24:15]: Hunter.exe [DogParty, Level 36]: ReXi: warum
+[2021-04-10 15:24:23]: iMxtteo [DogParty, Level 27]: ReXi: 6.3k
+[2021-04-10 15:24:24]: Hunter.exe [DogParty, Level 36]: ReXi: ihr seid alle älter :(
+[2021-04-10 15:24:28]: ReXi [, Level 0]: Hunter.exe: ja
+[2021-04-10 15:24:30]: Hunter.exe [DogParty, Level 36]: ReXi: jeder ist blöd zu mir
+[2021-04-10 15:24:32]: Hunter.exe [DogParty, Level 36]: warum
+[2021-04-10 15:24:32]: Eden [qwq, Level 0]: why ?
+[2021-04-10 15:24:35]: ReXi [, Level 0]: iMxtteo: lol
