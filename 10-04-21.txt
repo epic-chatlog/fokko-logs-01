@@ -11093,3 +11093,5 @@
 [2021-04-10 14:13:12]: ***  [, Level 0]: 'Flipper' has left the game
 [2021-04-10 14:13:13]: ***  [, Level 0]: 'BÉÉLA' joined the game
 [2021-04-10 14:13:26]: \\Syth [, Level 30]: Axandos: DUDE!
+[2021-04-10 14:13:35]: \\Syth [, Level 30]: Zephir™: let me free
+[2021-04-10 14:13:37]: ***  [, Level 0]: 'LEGYOZLEKBARNA' has left the game
