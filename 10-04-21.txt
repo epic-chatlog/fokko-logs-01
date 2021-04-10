@@ -154,3 +154,6 @@
 [2021-04-10 00:35:12]: Nudelsaft c: [FookinLads, Level 37]: statt discord wbehook
 [2021-04-10 00:35:16]: (3)ChillerDrago [|*KoG*|, Level 45]: ?
 [2021-04-10 00:35:17]: (3)ChillerDrago [|*KoG*|, Level 45]: was
+[2021-04-10 00:35:32]: (3)ChillerDrago [|*KoG*|, Level 45]: aso pings?
+[2021-04-10 00:35:34]: Nudelsaft c: [FookinLads, Level 37]: ich mach die ingame nachrichten über irc und nich über discord webhooks
+[2021-04-10 00:35:36]: Nudelsaft c: [FookinLads, Level 37]: dann ez pings
