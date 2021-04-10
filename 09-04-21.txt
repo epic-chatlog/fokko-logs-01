@@ -13823,3 +13823,4 @@
 [2021-04-09 22:13:59]: Nudelsaft c: [FookinLads, Level 37]: taco bell: xd
 [2021-04-09 22:14:04]: taco bell [, Level 5]: too much
 [2021-04-09 22:17:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-09 22:21:33]: ***  [, Level 0]: 'CKA3A4NIK[NR]' entered and joined the game
