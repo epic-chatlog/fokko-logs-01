@@ -14098,3 +14098,5 @@
 [2021-04-09 23:30:14]: RM|weqe [MNKY, Level 12]: where did u go brother Mʎɹシ - Cat
 [2021-04-09 23:32:36]: ***  [, Level 0]: Mʎɹシ - Cat finished in: 0 minute(s) 57.46 second(s)
 [2021-04-09 23:32:36]: ***  [, Level 0]: New record: 2 minute(s) 12.16 second(s) better.
+[2021-04-09 23:32:39]: ***  [, Level 0]: ビール|Zero finished in: 2 minute(s) 33.44 second(s)
+[2021-04-09 23:32:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
