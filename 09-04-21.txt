@@ -13649,3 +13649,5 @@
 [2021-04-09 21:24:08]: Nudelsaft c: [FookinLads, Level 37]: b
 [2021-04-09 21:24:10]: Nudelsaft c: [FookinLads, Level 37]: wait
 [2021-04-09 21:24:12]: taco bell [, Level 4]: doesn't
+[2021-04-09 21:24:15]: Nudelsaft c: [FookinLads, Level 37]: its not sending anything
+[2021-04-09 21:24:22]: taco bell [, Level 4]: tru
