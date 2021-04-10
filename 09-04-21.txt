@@ -13536,3 +13536,7 @@
 [2021-04-09 21:11:28]: RM|weqe [MNKY, Level 12]: TACO BELL GIVE UNCLE NUDLE A KISS NOW
 [2021-04-09 21:11:44]: taco bell [, Level 4]: threesome
 [2021-04-09 21:11:47]: Nudelsaft c: [FookinLads, Level 37]: ye
+[2021-04-09 21:11:53]: Pσʂιԃσɳ [, Level 0]: Nudelsaft c:: wtf
+[2021-04-09 21:11:58]: Nudelsaft c: [FookinLads, Level 37]: wat
+[2021-04-09 21:11:58]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-09 21:11:59]: ***  [, Level 0]: '(1)Swarfey' has left the game (Too weak connection (not acked for 60 seconds))
