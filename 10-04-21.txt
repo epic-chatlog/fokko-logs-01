@@ -8301,3 +8301,5 @@
 [2021-04-10 10:23:39]: Lebly [, Level 0]: XDDD
 [2021-04-10 10:23:48]: Lebly [, Level 0]: is that still the race?
 [2021-04-10 10:23:57]: ERROR. [404, Level 56]: rrace is done thats inf jump
+[2021-04-10 10:24:25]: (1)cookie [, Level 0]: lucas lol
+[2021-04-10 10:24:26]: ERROR. [404, Level 56]: shot grenade
