@@ -8434,3 +8434,15 @@
 [2021-04-10 10:32:24]: ERROR. [404, Level 56]: xD
 [2021-04-10 10:32:30]: ERROR. [404, Level 56]: Kenshi™:  cancel
 [2021-04-10 10:32:30]: Lebly [, Level 0]: wth I like turtles? xD
+[2021-04-10 10:32:36]: ERROR. [404, Level 56]: ./plot cancel
+[2021-04-10 10:32:37]: ***  [, Level 0]: 'lol' entered and joined the game
+[2021-04-10 10:32:38]: RM|Saud [Retard MNKY, Level 0]: ChillderPlagon*:  just write /money drop 3700 id u want peacr
+[2021-04-10 10:32:39]: ***  [, Level 0]: Lucas finished in: 2 minute(s) 21.66 second(s)
+[2021-04-10 10:32:39]: ***  [, Level 0]: New record:  0.16 second(s) better.
+[2021-04-10 10:32:40]: ***  [, Level 0]: The plot auction by 'Kenshi™' is cancelled
+[2021-04-10 10:32:40]: ***  [, Level 0]: 'lol' has left the game
+[2021-04-10 10:32:42]: RM|Saud [Retard MNKY, Level 0]: ChillderPlagon*:  just write /money drop 3700 id u want peace
+[2021-04-10 10:32:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-10 10:32:45]: [A] Dotsy [, Level 1]: NidardoHD: i put both ur acc on block :)
+[2021-04-10 10:32:45]: Kenshi™ [, Level 42]: ERROR.: ? xD
+[2021-04-10 10:32:50]: RM|Saud [Retard MNKY, Level 0]: ChillderPlagon*: not 1 3000
