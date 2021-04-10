@@ -11918,3 +11918,6 @@
 [2021-04-10 15:42:23]: ***  [, Level 0]: New record: 7 minute(s)  7.48 second(s) better.
 [2021-04-10 15:42:43]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-10 15:42:56]: Isegrin [, Level 55]: rayen: nigaaa
+[2021-04-10 15:43:03]: ***  [, Level 0]: 'bruh' has left the game
+[2021-04-10 15:43:03]: ***  [, Level 0]: 'rayen' has left the game
+[2021-04-10 15:43:07]: ***  [, Level 0]: 'Eden' has left the game
