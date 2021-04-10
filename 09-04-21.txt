@@ -13301,3 +13301,8 @@
 [2021-04-09 17:52:39]: ***  [, Level 0]: 'Fritz' entered and joined the game
 [2021-04-09 17:52:50]: Kirito [, Level 40]: S Y T H N: der arme xD
 [2021-04-09 17:53:22]: Kirito [, Level 40]: S Y T H N: flappy is schon wild
+[2021-04-09 17:53:27]: S Y T H N [DogParty, Level 37]: ya
+[2021-04-09 17:53:32]: S Y T H N [DogParty, Level 37]: Flipper: come
+[2021-04-09 17:53:33]: ***  [, Level 0]: 'Fritz' has left the game
+[2021-04-09 17:53:37]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-09 17:53:39]: S Y T H N [DogParty, Level 37]: love you Flipper why :C
