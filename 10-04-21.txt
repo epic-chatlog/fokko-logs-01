@@ -8299,3 +8299,5 @@
 [2021-04-10 10:23:36]: ***  [, Level 0]: 'Zephir™' entered and joined the game
 [2021-04-10 10:23:37]: ERROR. [404, Level 56]: ufffff
 [2021-04-10 10:23:39]: Lebly [, Level 0]: XDDD
+[2021-04-10 10:23:48]: Lebly [, Level 0]: is that still the race?
+[2021-04-10 10:23:57]: ERROR. [404, Level 56]: rrace is done thats inf jump
