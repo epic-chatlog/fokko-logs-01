@@ -3724,3 +3724,6 @@
 [2021-04-10 05:33:29]: Falco641 [.bad, Level 19]: ;ag
 [2021-04-10 05:33:29]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 27.84 second(s)
 [2021-04-10 05:33:29]: ***  [, Level 0]: New record:  5.04 second(s) better.
+[2021-04-10 05:33:33]: Falco641 [.bad, Level 19]: lag
+[2021-04-10 05:33:38]: Falco641 [.bad, Level 19]: 9 7
+[2021-04-10 05:33:38]: Souly [, Level 60]: Boti.: thank god im noby
