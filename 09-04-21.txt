@@ -13593,3 +13593,5 @@
 [2021-04-09 21:16:08]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game
 [2021-04-09 21:16:08]: ***  [, Level 0]: 'Swarfey' has left the game
 [2021-04-09 21:16:08]: ***  [, Level 0]: '(2)Nudelsaft c:' has left the game
+[2021-04-09 21:16:35]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
+[2021-04-09 21:16:36]: ***  [, Level 0]: 'Swarfey' entered and joined the game
