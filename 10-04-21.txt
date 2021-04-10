@@ -10178,3 +10178,5 @@
 [2021-04-10 12:34:07]: ***  [, Level 0]: 'minecraft' has left the game (Timeout Protection over)
 [2021-04-10 12:34:12]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-10 12:34:13]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-10 12:34:16]:   [, Level 0]: Shiro.: MEN
+[2021-04-10 12:34:20]:   [, Level 0]: Shiro.: WHOS ON MY ACC BITCH
