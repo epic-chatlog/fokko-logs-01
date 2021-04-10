@@ -10640,3 +10640,5 @@
 [2021-04-10 13:14:01]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-10 13:14:04]: Axel [TrRShClNrRs, Level 30]: i dunno
 [2021-04-10 13:14:09]: fitz [, Level 16]: Flipper:
+[2021-04-10 13:14:25]: Flipper [, Level 15]: holy come
+[2021-04-10 13:14:26]: Axel [TrRShClNrRs, Level 30]: It's boring just sitting on one place
