@@ -11824,3 +11824,6 @@
 [2021-04-10 15:27:16]: ReXi [, Level 0]: Hunter.exe: nee
 [2021-04-10 15:27:23]: Hunter.exe [DogParty, Level 36]: kannst du dir Discord holen?
 [2021-04-10 15:27:25]: Zephir™ [, Level 39]: Hunter.exe: u want war 404 ?
+[2021-04-10 15:27:37]: ReXi [, Level 0]: hab ich doch schon
+[2021-04-10 15:27:38]: Hunter.exe [DogParty, Level 36]: any: why
+[2021-04-10 15:27:43]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
