@@ -11534,3 +11534,8 @@
 [2021-04-10 15:03:16]: iMxtteo [DogParty, Level 27]: ReXi: nene niemals
 [2021-04-10 15:03:19]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-10 15:03:23]: ReXi [, Level 16]: hhh3: du bist 10
+[2021-04-10 15:03:31]: Hunter.exe [DogParty, Level 36]: ich bin 10
+[2021-04-10 15:03:33]: ***  [, Level 0]: 'Eden' entered and joined the game
+[2021-04-10 15:03:33]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-10 15:03:37]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-10 15:03:39]: ReXi [, Level 16]: Hunter.exe: lol
