@@ -41,3 +41,5 @@
 [2021-04-10 00:17:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-10 00:19:47]: ***  [, Level 0]: (3)ChillerDragon finished in: 0 minute(s) 51.38 second(s)
 [2021-04-10 00:19:47]: ***  [, Level 0]: New record: 25.50 second(s) better.
+[2021-04-10 00:19:53]: ***  [, Level 0]: ChillerDragon.* finished in: 1 minute(s) 10.64 second(s)
+[2021-04-10 00:19:53]: ***  [, Level 0]: New record:  9.62 second(s) better.
