@@ -7715,3 +7715,5 @@
 [2021-04-10 09:38:35]: (1)УБИВАТ [, Level 0]: )
 [2021-04-10 09:38:43]: ***  [, Level 0]: '(1)ERROR' has left the game
 [2021-04-10 09:38:43]: ***  [, Level 0]: 'ERROR.' has left the game
+[2021-04-10 09:38:48]: Good man [Drunks, Level 30]: GOOOOD
+[2021-04-10 09:38:56]: Axel [TrRShClNrRs, Level 30]: Night Team :D: I lag xD
