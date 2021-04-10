@@ -1409,3 +1409,5 @@
 [2021-04-10 02:47:52]: ***  [, Level 0]: 'CKA3A4NIK[NR]' has left the game
 [2021-04-10 02:47:54]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game
 [2021-04-10 02:47:55]: power [TrRShClNrRs, Level 15]: Souly: disappointed
+[2021-04-10 02:47:58]: ***  [, Level 0]: 'lancelot' entered and joined the game
+[2021-04-10 02:48:07]: Souly [, Level 60]: thats what i feel towards you
