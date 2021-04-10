@@ -6413,3 +6413,8 @@
 [2021-04-10 08:27:48]: [D] El patron [, Level 0]: Kirito: stop
 [2021-04-10 08:28:00]: ***  [, Level 0]: 'Guthaben' entered and joined the game
 [2021-04-10 08:28:09]: hmmmmmm [, Level 12]: sL|KeBu28: fun war ?
+[2021-04-10 08:28:13]: ***  [, Level 0]: 'hhnaut31' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 08:28:13]: ***  [, Level 0]: 'hhh3' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 08:28:14]: sL|KeBu28 [SkinLover, Level 30]: hmmmmmm: no
+[2021-04-10 08:28:17]: (3)ChillerDrago [|*KoG*|, Level 45]: pro NidardoHD
+[2021-04-10 08:28:19]: hmmmmmm [, Level 12]: sL|KeBu28: ok
