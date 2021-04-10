@@ -8976,3 +8976,6 @@
 [2021-04-10 11:02:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-10 11:02:50]: ***  [, Level 0]: 'cunt' entered and joined the game
 [2021-04-10 11:02:50]: taco bell [, Level 9]: just reached lvl 9
+[2021-04-10 11:03:08]: ***  [, Level 0]: 'Cosmo' has left the game (Timeout)
+[2021-04-10 11:03:08]: ***  [, Level 0]: '(1)Cosmo' has left the game (Timeout)
+[2021-04-10 11:03:12]: ***  [, Level 0]: 'Kezo' entered and joined the game
