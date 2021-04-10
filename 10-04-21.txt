@@ -4077,3 +4077,6 @@
 [2021-04-10 05:59:40]: mamikral011 [DogParty, Level 21]: WarHammer:
 [2021-04-10 05:59:41]: Falco641 [.bad, Level 19]: shortcuts
 [2021-04-10 05:59:47]: mamikral011 [DogParty, Level 21]: Tziys*: 1 jump var dur bi
+[2021-04-10 05:59:55]: SoulyD [, Level 47]: aaj
+[2021-04-10 05:59:59]: Falco641 [.bad, Level 19]: another shortcut
+[2021-04-10 06:00:03]: WarHammer [DogParty, Level 26]: lag
