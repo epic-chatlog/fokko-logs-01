@@ -2130,3 +2130,5 @@
 [2021-04-10 03:41:28]: ***  [, Level 0]: 'GOLD' has left the game
 [2021-04-10 03:41:28]: ***  [, Level 0]: 'YelloWorlD' has left the game
 [2021-04-10 03:41:30]: Isegrin [, Level 55]: power2: monke
+[2021-04-10 03:41:37]:   [, Level 0]: power2: papi (1)DiscordBridg
+[2021-04-10 03:41:37]: ***  [, Level 0]: 'GODLIKe' has left the game
