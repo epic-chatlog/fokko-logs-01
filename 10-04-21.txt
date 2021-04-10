@@ -7777,3 +7777,6 @@
 [2021-04-10 09:42:58]: Axel [TrRShClNrRs, Level 30]: k
 [2021-04-10 09:43:01]: NidardoHD [FlexTape, Level 0]: Cylox: hi
 [2021-04-10 09:43:20]: [A] Dotsy [, Level 0]: GReeeN: dude wtf
+[2021-04-10 09:43:32]: [A] Dotsy [, Level 0]: GReeeN: why u do this
+[2021-04-10 09:43:36]: ***  [, Level 0]: 'Lucas' has left the game (Timeout)
+[2021-04-10 09:43:41]: ***  [, Level 0]: 'Lucas' entered and joined the game
