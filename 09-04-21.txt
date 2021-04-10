@@ -13802,3 +13802,6 @@
 [2021-04-09 21:47:04]: taco bell [, Level 4]: c00l
 [2021-04-09 21:47:09]: Swarfey [FookinLads, Level 60]: for every police level (maxes up to 5) u get +1 money per second
 [2021-04-09 21:47:29]: Swarfey [FookinLads, Level 60]: and everyone gets +1 xp here
+[2021-04-09 21:47:32]: taco bell [, Level 4]: I got 1 per sex now
+[2021-04-09 21:47:36]: taco bell [, Level 4]: sec
+[2021-04-09 21:47:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
