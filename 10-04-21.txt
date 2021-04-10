@@ -2348,3 +2348,9 @@
 [2021-04-10 03:59:25]: ***  [, Level 0]: 'toine' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
 [2021-04-10 03:59:29]: ***  [, Level 0]: 'Swarfey' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-10 03:59:29]: ***  [, Level 0]: 'Nudelsaft c:' has left the game (Timeout)
+[2021-04-10 03:59:45]: RM | Arin [Retard MNKY, Level 15]: hater würden sagen ich wäre schlecht
+[2021-04-10 03:59:46]: mamikral011 [DogParty, Level 21]: iMxtteo:
+[2021-04-10 03:59:48]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-10 03:59:49]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-10 03:59:51]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-10 03:59:52]: ***  [, Level 0]: 'Swarfey' entered and joined the game
