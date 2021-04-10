@@ -5910,3 +5910,5 @@
 [2021-04-10 07:55:05]:   [, Level 0]: hhnaut31: ERROR: inf juymp parkour
 [2021-04-10 07:55:08]: ERROR. [404, Level 41]: k
 [2021-04-10 07:55:12]: [D] Amirian [, Level 23]: idiot
+[2021-04-10 07:55:16]: [D] Amirian [, Level 23]: stp
+[2021-04-10 07:55:18]: [D] Amirian [, Level 23]: or war
