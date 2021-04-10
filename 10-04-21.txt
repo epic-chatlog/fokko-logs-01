@@ -2192,3 +2192,5 @@
 [2021-04-10 03:47:41]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-10 03:47:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-10 03:47:45]: ***  [, Level 0]: 'gian x' joined the game
+[2021-04-10 03:47:55]: RM | Arin [Retard MNKY, Level 15]: MONKEY BOSS
+[2021-04-10 03:47:57]: RM | Arin [Retard MNKY, Level 15]: XD
