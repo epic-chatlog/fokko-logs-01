@@ -4042,3 +4042,8 @@
 [2021-04-10 05:56:55]: mamikral011 [DogParty, Level 21]: Souly: !!
 [2021-04-10 05:56:55]: ***  [, Level 0]: Kiøn1029 finished in: 1 minute(s) 27.60 second(s)
 [2021-04-10 05:56:55]: ***  [, Level 0]: New record: 5 minute(s) 35.62 second(s) better.
+[2021-04-10 05:56:59]: ***  [, Level 0]: '(1)nameless tee' has left the game
+[2021-04-10 05:57:01]: mamikral011 [DogParty, Level 21]: SoulyD: 100k
+[2021-04-10 05:57:02]: ***  [, Level 0]: 'kurama' entered and joined the game
+[2021-04-10 05:57:06]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
+[2021-04-10 05:57:09]: mamikral011 [DogParty, Level 21]: SoulyD: war for life
