@@ -6344,3 +6344,4 @@
 [2021-04-10 08:22:24]: hhnaut31 [, Level 43]: NidardoHD: why help him omg
 [2021-04-10 08:22:29]: ***  [, Level 0]: '[D] Fearless' has left the game
 [2021-04-10 08:22:29]: ***  [, Level 0]: 'Fearless' has left the game
+[2021-04-10 08:22:41]: ***  [, Level 0]: [INFO] You can create an account using '/register'
