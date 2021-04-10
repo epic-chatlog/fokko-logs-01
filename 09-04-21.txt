@@ -13388,3 +13388,6 @@
 [2021-04-09 18:12:19]: S Y T H N [DogParty, Level 37]: Kirito: auf  dc antwortet er fast nie xD!
 [2021-04-09 18:12:24]: Kirito [, Level 40]: S Y T H N: ik :D
 [2021-04-09 18:13:37]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-09 18:15:34]: ***  [, Level 0]: '(2)RM|Saud' has left the game (Timeout)
+[2021-04-09 18:15:34]: ***  [, Level 0]: 'RM|Saud' has left the game (Timeout)
+[2021-04-09 18:15:34]: ***  [, Level 0]: '(1)RM|Saud' has left the game (Timeout)
