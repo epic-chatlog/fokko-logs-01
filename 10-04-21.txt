@@ -9651,3 +9651,5 @@
 [2021-04-10 12:02:38]: ***  [, Level 0]: SoulyD finished in: 2 minute(s) 52.40 second(s)
 [2021-04-10 12:02:38]: ***  [, Level 0]: New record: 26 minute(s)  8.76 second(s) better.
 [2021-04-10 12:02:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-10 12:02:59]: ***  [, Level 0]: 'BC|kakashi' has left the game
+[2021-04-10 12:03:05]: ***  [, Level 0]: Chillingo is on a killing spree with 5 blocks
