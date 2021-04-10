@@ -51,3 +51,7 @@
 [2021-04-10 00:22:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-10 00:25:00]: Nudelsaft c: [FookinLads, Level 37]: ChillerDragon: aaaa xd
 [2021-04-10 00:25:17]: (2)ChillerDrago [Chilli.*, Level 33]: ?xd
+[2021-04-10 00:25:22]: Nudelsaft c: [FookinLads, Level 37]: ChillerDragon.*: geh links
+[2021-04-10 00:25:24]: (2)ChillerDrago [|*KoG*|, Level 33]: ahahha
+[2021-04-10 00:25:25]: Nudelsaft c: [FookinLads, Level 37]: ChillerDragon.*: hab mich selbst gefreezed
+[2021-04-10 00:25:27]: Nudelsaft c: [FookinLads, Level 37]: xD
