@@ -6065,3 +6065,5 @@
 [2021-04-10 08:05:22]: [D] Amirian [, Level 23]: HELP ME HMMMMMMMMM
 [2021-04-10 08:05:33]: hmmmmmm [, Level 12]: twait
 [2021-04-10 08:05:33]: [D] Amirian [, Level 23]: ERROR:
+[2021-04-10 08:05:44]: ERROR. [404, Level 41]: OMG
+[2021-04-10 08:05:47]: hhnaut31 [, Level 43]: ERROR:
