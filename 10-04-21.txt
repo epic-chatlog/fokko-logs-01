@@ -12024,3 +12024,5 @@
 [2021-04-10 16:09:18]: ***  [, Level 0]: 'NidardoHD' entered and joined the game
 [2021-04-10 16:09:51]: ***  [, Level 0]: 'Kirito' entered and joined the game
 [2021-04-10 16:10:01]: ***  [, Level 0]: 'Flupper' entered and joined the game
+[2021-04-10 16:10:06]: ***  [, Level 0]: '(1)[D] Hunter.ex' has left the game (Timeout Protection over)
+[2021-04-10 16:10:06]: ***  [, Level 0]: '(1)Hunter.exe' has left the game (Timeout Protection over)
