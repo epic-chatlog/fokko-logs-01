@@ -492,3 +492,5 @@
 [2021-04-10 01:22:29]: kais [, Level 65]: failled my shot
 [2021-04-10 01:22:32]: WarHammer' [DogParty, Level 16]: kais:  yapma beeh
 [2021-04-10 01:22:33]: kais [, Level 65]: missed it
+[2021-04-10 01:22:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-10 01:22:47]: ***  [, Level 0]: 'A player' has left the game
