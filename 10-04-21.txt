@@ -5890,3 +5890,4 @@
 [2021-04-10 07:52:32]: power [TrRShClNrRs, Level 15]: who needs jetpack?
 [2021-04-10 07:52:33]:   [, Level 0]: NoobEmir: fitz: sry
 [2021-04-10 07:52:41]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-10 07:52:56]: ビール|Zero [Drunks, Level 30]: Fearless: ?
