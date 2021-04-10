@@ -6408,3 +6408,6 @@
 [2021-04-10 08:27:37]: [D] El patron [, Level 0]: Kirito:  flappy is me friend
 [2021-04-10 08:27:39]: Falco642 [, Level 0]: AAA
 [2021-04-10 08:27:39]: .S L E E P Y' [iPro ♡, Level 0]: cuz i dont play with weapons
+[2021-04-10 08:27:41]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-10 08:27:42]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-10 08:27:48]: [D] El patron [, Level 0]: Kirito: stop
