@@ -3549,3 +3549,7 @@
 [2021-04-10 05:18:15]: ***  [, Level 0]: Drop money: '/money drop <amount>'
 [2021-04-10 05:18:15]: ***  [, Level 0]: Invalid whisper
 [2021-04-10 05:18:15]: Kirito [, Level 40]: Nudelsaft c:\": geht das mit dem stacken und editen im plot nocht?
+[2021-04-10 05:18:21]: Swarfey [FookinLads, Level 60]: nop
+[2021-04-10 05:18:24]: ***  [, Level 0]: 'Treebeard' entered and joined the game
+[2021-04-10 05:18:25]: Kirito [, Level 40]: Swarfey: mann wie scheiße
+[2021-04-10 05:18:34]: |ΛnץOиe| [, Level 43]: cunt: ?
