@@ -6259,3 +6259,4 @@
 [2021-04-10 08:16:58]: power [TrRShClNrRs, Level 0]: xD El patron
 [2021-04-10 08:17:12]: ***  [, Level 0]: 'power' has left the game
 [2021-04-10 08:17:13]: hhnaut31 [, Level 43]: ERROR:
+[2021-04-10 08:17:22]: oyun krallı [, Level 0]: EL P<ATRON VHELPLS
