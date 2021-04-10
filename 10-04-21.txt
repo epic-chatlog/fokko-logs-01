@@ -3435,3 +3435,6 @@
 [2021-04-10 05:12:14]: MieSlime [FookinLads, Level 43]: No game:  oui
 [2021-04-10 05:12:17]: |ΛnץOиe| [, Level 43]: no limit: what is ur name?
 [2021-04-10 05:12:18]: ***  [, Level 0]: 'no limit' changed name to 'sun.slow(y)'
+[2021-04-10 05:12:25]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-10 05:12:25]: ***  [, Level 0]: 'Nudelsaft c:\"' has left the game
+[2021-04-10 05:12:31]: |ΛnץOиe| [, Level 43]: sun.slow(y): oh
