@@ -3997,3 +3997,6 @@
 [2021-04-10 05:53:53]:   [, Level 0]: power: (1)RM|Saud:
 [2021-04-10 05:53:59]: nameless tee [, Level 0]: Kirito: come fight
 [2021-04-10 05:54:09]: ***  [, Level 0]: 'Cr1v Bad >:)' has left the game
+[2021-04-10 05:54:09]: ***  [, Level 0]: 'Meetiteusz' has left the game
+[2021-04-10 05:54:18]:   [, Level 0]: Kezo: mamikral011: as kral
+[2021-04-10 05:54:20]: ***  [, Level 0]: 'kurama' has left the game
