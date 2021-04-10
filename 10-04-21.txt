@@ -4192,3 +4192,7 @@
 [2021-04-10 06:07:37]: ***  [, Level 0]: '|ΛnץOиe|' has left the game
 [2021-04-10 06:07:37]: ***  [, Level 0]: 'Nudelsaft c:\"' entered and joined the game
 [2021-04-10 06:07:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-10 06:07:45]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
+[2021-04-10 06:07:46]: ***  [, Level 0]: 'Nudelsaft c:\"' changed name to 'Nudelsaft c:'
+[2021-04-10 06:07:48]:   [, Level 0]: Meetiteusz: power: yeeah
+[2021-04-10 06:07:53]:   [, Level 0]: power: xD
