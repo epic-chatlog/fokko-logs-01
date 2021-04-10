@@ -13546,3 +13546,5 @@
 [2021-04-09 21:12:45]: Nudelsaft c: [FookinLads, Level 37]: ye it increased
 [2021-04-09 21:12:49]: Nudelsaft c: [FookinLads, Level 37]: increases*
 [2021-04-09 21:12:51]: taco bell [, Level 4]: dam
+[2021-04-09 21:12:54]: taco bell [, Level 4]: I'm at lvl 4
+[2021-04-09 21:13:05]: Swarfey [FookinLads, Level 60]: i need 1 million xp for another level xd
