@@ -8172,3 +8172,6 @@
 [2021-04-10 10:15:05]: minecraft [, Level 12]: weqe: but whyù
 [2021-04-10 10:15:09]: weqe [669, Level 12]: u spawnblocked me minecraft
 [2021-04-10 10:15:10]: ERROR. [404, Level 56]: 8
+[2021-04-10 10:15:21]: minecraft [, Level 12]: i wanted just train sorry man weqe
+[2021-04-10 10:15:25]: weqe [669, Level 12]: nop minecraft
+[2021-04-10 10:15:26]: minecraft [, Level 12]: ANGEL_PRO: stop
