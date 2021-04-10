@@ -6024,3 +6024,7 @@
 [2021-04-10 08:03:19]: ***  [, Level 0]: 'PANZELKOWY' has left the game
 [2021-04-10 08:03:20]: El patron [, Level 0]: mamikral011:  dumb shit
 [2021-04-10 08:03:21]: [D] Amirian [, Level 23]: Zʷʰʸˀ:
+[2021-04-10 08:03:26]: ***  [, Level 0]: Zʷʰʸˀ finished in: 0 minute(s) 36.02 second(s)
+[2021-04-10 08:03:26]: ***  [, Level 0]: New record:  5.70 second(s) better.
+[2021-04-10 08:03:26]: [D] Amirian [, Level 23]: Zʷʰʸˀ:
+[2021-04-10 08:03:34]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
