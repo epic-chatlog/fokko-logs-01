@@ -11504,3 +11504,7 @@
 [2021-04-10 15:00:13]: ***  [, Level 0]: 'Chillerdragon' changed name to 'sleimi'
 [2021-04-10 15:00:36]: ***  [, Level 0]: '(1)RM | Arin' has left the game
 [2021-04-10 15:00:39]: ReXi [, Level 16]: iMxtteo: du sack
+[2021-04-10 15:00:52]: Zephir™ [, Level 39]: Hunter.exe: bad
+[2021-04-10 15:00:58]: ***  [, Level 0]: 'Nidardo.' has left the game
+[2021-04-10 15:00:58]: ***  [, Level 0]: 'NidardoHD' has left the game
+[2021-04-10 15:00:58]: iMxtteo [DogParty, Level 27]: ReXi: du gesicht
