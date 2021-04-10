@@ -7609,3 +7609,9 @@
 [2021-04-10 09:32:39]: cookie [, Level 18]: NidardoHD:  help
 [2021-04-10 09:32:41]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-10 09:32:51]: ***  [, Level 0]: nameless is on a killing spree with 10 blocks
+[2021-04-10 09:32:55]: ***  [, Level 0]: 'MieSlime' entered and joined the game
+[2021-04-10 09:32:59]: ***  [, Level 0]: cunt is on a killing spree with 10 blocks
+[2021-04-10 09:33:03]: ***  [, Level 0]: Axel finished in: 1 minute(s) 38.74 second(s)
+[2021-04-10 09:33:03]: ***  [, Level 0]: New record: 11.48 second(s) better.
+[2021-04-10 09:33:07]: ***  [, Level 0]: Night Team :D finished in: 5 minute(s) 15.22 second(s)
+[2021-04-10 09:33:08]: ***  [, Level 0]: No Team :D finished in: 5 minute(s) 18.34 second(s)
