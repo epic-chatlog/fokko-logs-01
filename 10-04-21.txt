@@ -10166,3 +10166,5 @@
 [2021-04-10 12:33:25]: Shiro. [Whɪтє, Level 0]: ok but who's login on my acc gay
 [2021-04-10 12:33:29]: ERROR. [404, Level 56]: YelloWorlD:  did u see taser lvl 10
 [2021-04-10 12:33:38]: YelloWorlD [DogParty, Level 37]: ERROR.: no what diff?
+[2021-04-10 12:33:38]: Shiro. [Whɪтє, Level 0]: freeze time 0.100 seconds
+[2021-04-10 12:33:47]: ERROR. [404, Level 56]: YelloWorlD:  freeze time i think
