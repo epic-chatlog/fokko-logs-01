@@ -1007,3 +1007,5 @@
 [2021-04-10 02:04:49]: (1)ビール|Ze [Drunks, Level 15]: bruh: bye bye
 [2021-04-10 02:04:56]: bruh [, Level 0]: (1)ビール|Ze:  bye
 [2021-04-10 02:04:56]: (1)kais [, Level 58]: any: non
+[2021-04-10 02:05:29]: ***  [, Level 0]: 'iMxtteo' entered and joined the game
+[2021-04-10 02:05:31]: Nudelsaft c: [FookinLads, Level 37]: nice
