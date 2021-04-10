@@ -9622,3 +9622,5 @@
 [2021-04-10 11:58:06]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-10 11:58:44]: Marcisten Dummy [Dummies, Level 26]: cookie: ?
 [2021-04-10 11:58:44]: (3)cookie [, Level 0]: yeah
+[2021-04-10 11:58:55]: |HolyHo| [, Level 18]: weqe: who enemy?
+[2021-04-10 11:58:59]: weqe [669, Level 12]: |HolyHo|: Zephir™
