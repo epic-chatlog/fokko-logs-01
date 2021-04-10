@@ -10297,3 +10297,6 @@
 [2021-04-10 12:43:56]: (1)cookie [, Level 3]: Shiro.:  no
 [2021-04-10 12:44:02]: Nudelsaft c: [FookinLads, Level 0]: (1)Hunter.exe: ich hab nichtmal jetpack oder so
 [2021-04-10 12:44:08]: (1)cookie [, Level 3]: Shiro.:  why no dont doe it
+[2021-04-10 12:44:18]: (1)cookie [, Level 3]: Shiro.:  whe are frends im a frend ore flipper
+[2021-04-10 12:44:18]: ***  [, Level 0]: 'nennydoq' has left the game
+[2021-04-10 12:44:21]: ***  [, Level 0]: 'RoberGN' has left the game
