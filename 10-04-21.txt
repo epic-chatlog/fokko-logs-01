@@ -9490,3 +9490,7 @@
 [2021-04-10 11:42:14]: |HolyHo|° [, Level 28]: GReeeN: <
 [2021-04-10 11:42:23]: El patron [, Level 28]: Souly: hej
 [2021-04-10 11:42:43]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-10 11:43:21]: [D] El patron [, Level 0]: Soulyi dont kill u
+[2021-04-10 11:43:22]: ***  [, Level 0]: Guthaben is on a killing spree with 5 blocks
+[2021-04-10 11:43:24]: ***  [, Level 0]: '[D] taco bell' entered and joined the game
+[2021-04-10 11:43:28]: Souly [, Level 60]: El patron: but you helped HardreenClutch
