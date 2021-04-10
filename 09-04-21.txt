@@ -13461,3 +13461,4 @@
 [2021-04-09 20:56:00]: RM|weqe [MNKY, Level 12]: taco bell: u love me ?
 [2021-04-09 20:56:11]: RM|weqe [MNKY, Level 12]: ok taco bell
 [2021-04-09 20:56:25]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-09 20:56:41]: taco bell [, Level 3]: dude
