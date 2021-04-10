@@ -10441,3 +10441,8 @@
 [2021-04-10 12:55:08]: ***  [, Level 0]: '(3)cookie' has left the game
 [2021-04-10 12:55:10]:   [, Level 0]: Shiro.: rqq
 [2021-04-10 12:55:29]: ***  [, Level 0]: 'WhiteLion' has left the game
+[2021-04-10 12:55:37]:   [, Level 0]: Shiro.: gay
+[2021-04-10 12:55:39]:   [, Level 0]: Shiro.: i rq
+[2021-04-10 12:55:39]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-10 12:55:40]: ***  [, Level 0]: 'NidardoHD' would have timed out, but can use timeout protection now
+[2021-04-10 12:55:40]: ***  [, Level 0]: 'Nidardo.' would have timed out, but can use timeout protection now
