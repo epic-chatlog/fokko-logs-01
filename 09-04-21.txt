@@ -13638,3 +13638,5 @@
 [2021-04-09 21:22:06]: Nudelsaft c: [FookinLads, Level 37]: I FORGOT TO REMOVE THE TEST URL
 [2021-04-09 21:22:12]: taco bell [, Level 4]: I've been playing all night
 [2021-04-09 21:22:17]: taco bell [, Level 4]: it's 6AM :sokd
+[2021-04-09 21:22:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-09 21:22:43]: Nudelsaft c: [FookinLads, Level 37]: ye and i just waked up to restart the client after the server restarted xd
