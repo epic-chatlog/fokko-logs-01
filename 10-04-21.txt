@@ -11921,3 +11921,5 @@
 [2021-04-10 15:43:03]: ***  [, Level 0]: 'bruh' has left the game
 [2021-04-10 15:43:03]: ***  [, Level 0]: 'rayen' has left the game
 [2021-04-10 15:43:07]: ***  [, Level 0]: 'Eden' has left the game
+[2021-04-10 15:44:44]: ***  [, Level 0]: 'hhnaut31' has left the game
+[2021-04-10 15:44:44]: ***  [, Level 0]: 'hhh3' has left the game
