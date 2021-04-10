@@ -7265,3 +7265,9 @@
 [2021-04-10 09:12:02]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-10 09:12:02]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-10 09:12:08]: Shiro. [Whɪтє, Level 51]: ok taser is level max now
+[2021-04-10 09:12:13]: Shiro. [Whɪтє, Level 51]: xaxaxxaax
+[2021-04-10 09:12:15]: (2)ChillerDrago [Chilli.*, Level 34]: my plan is to remove spikes at police Souly
+[2021-04-10 09:12:15]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-10 09:12:16]: Shiro. [Whɪтє, Level 51]: freezetime 0.100
+[2021-04-10 09:12:17]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-10 09:12:20]: ***  [, Level 0]: 'jeder' has left the game
