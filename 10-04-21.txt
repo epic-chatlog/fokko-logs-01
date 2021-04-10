@@ -5740,3 +5740,7 @@
 [2021-04-10 07:38:44]: [D] Cylox [, Level 0]: nereye
 [2021-04-10 07:38:50]: ***  [, Level 0]: 'NoobEmir' entered and joined the game
 [2021-04-10 07:39:02]: [D] Cylox [, Level 0]: nereye
+[2021-04-10 07:39:07]: mamikral011 [DogParty, Level 21]: Cylox: düzelt meye
+[2021-04-10 07:39:11]: [D] Cylox [, Level 0]: nerde varkı
+[2021-04-10 07:39:17]: hhh3 [, Level 48]: ERROR:
+[2021-04-10 07:39:17]:   [, Level 0]: Sad Guy: f lags
