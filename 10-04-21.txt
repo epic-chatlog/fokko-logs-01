@@ -4543,3 +4543,8 @@
 [2021-04-10 06:29:31]: JustRace [DogParty, Level 0]: cl_aimbot 1
 [2021-04-10 06:29:32]: kais [, Level 65]: Souly: this is obviously fake, every pro bind their accounts :3
 [2021-04-10 06:29:32]: Shiro. [Whɪтє, Level 42]: xaxaxa
+[2021-04-10 06:29:41]: Souly [, Level 60]: kais: i use autologin client
+[2021-04-10 06:29:41]: Maatiteusz [TrRShClNrRs, Level 35]: JustRace: sv_cheats 1
+[2021-04-10 06:29:43]: ***  [, Level 0]: 'Nudelsaft c:\"' entered and joined the game
+[2021-04-10 06:29:44]: ***  [, Level 0]: '(1)Swarfey' entered and joined the game
+[2021-04-10 06:29:47]: JustRace [DogParty, Level 0]: Maatiteusz:  teikoku clan
