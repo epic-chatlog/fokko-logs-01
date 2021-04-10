@@ -7494,3 +7494,6 @@
 [2021-04-10 09:24:22]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-10 09:24:28]: (2)ChillerDrago [|*KoG*|, Level 34]: brother weqe
 [2021-04-10 09:24:30]: weqe [669, Level 12]: brother
+[2021-04-10 09:24:40]: coca [, Level 21]: weqe: do you monkey?
+[2021-04-10 09:24:45]: ***  [, Level 0]: 'Axel ²' entered and joined the game
+[2021-04-10 09:24:47]: weqe [669, Level 12]: yes
