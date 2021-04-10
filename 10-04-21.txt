@@ -3601,3 +3601,7 @@
 [2021-04-10 05:22:12]: Meetiteusz [, Level 25]: Isegrin: niet
 [2021-04-10 05:22:27]: GReeeN [, Level 41]: ChillerDragon:  ehrenloser wishser
 [2021-04-10 05:22:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-10 05:22:42]: ***  [, Level 0]: '(2)RM|Saud' entered and joined the game
+[2021-04-10 05:22:44]: ***  [, Level 0]: [POLICE-CHANNEL] 'nameless tee' is spawnblocking. Catch him!
+[2021-04-10 05:22:50]: ***  [, Level 0]: nameless tee is on a killing spree with 5 blocks
+[2021-04-10 05:22:50]: ***  [, Level 0]: [POLICE-CHANNEL] 'nameless tee' is spawnblocking. Catch him!
