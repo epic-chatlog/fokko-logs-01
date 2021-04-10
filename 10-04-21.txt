@@ -1414,3 +1414,6 @@
 [2021-04-10 02:48:25]: power2 [TrRShClNrRs, Level 0]: kk NoobEmir
 [2021-04-10 02:48:26]: ***  [, Level 0]: '(1)Tom' entered and joined the game
 [2021-04-10 02:48:30]: ***  [, Level 0]: 'lancelot' has left the game
+[2021-04-10 02:49:03]: mamikral011 [DogParty, Level 21]: YelloWorlD: :D
+[2021-04-10 02:49:08]: mamikral011 [DogParty, Level 21]: YelloWorlD:
+[2021-04-10 02:49:10]: mamikral011 [DogParty, Level 21]: YelloWorlD: help
