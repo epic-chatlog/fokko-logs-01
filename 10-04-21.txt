@@ -5986,3 +5986,4 @@
 [2021-04-10 08:00:38]: hmmmmmm [, Level 12]: ok ok
 [2021-04-10 08:00:46]:   [, Level 0]: El patron: mamikral011:  who is that i started on the server today
 [2021-04-10 08:00:51]: ERROR. [404, Level 41]: ezzzz
+[2021-04-10 08:00:58]: ***  [, Level 0]: 'Maestro' entered and joined the game
