@@ -12022,3 +12022,5 @@
 [2021-04-10 16:07:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-10 16:09:18]: ***  [, Level 0]: 'Flipper' entered and joined the game
 [2021-04-10 16:09:18]: ***  [, Level 0]: 'NidardoHD' entered and joined the game
+[2021-04-10 16:09:51]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-10 16:10:01]: ***  [, Level 0]: 'Flupper' entered and joined the game
