@@ -10463,3 +10463,6 @@
 [2021-04-10 12:57:21]: WarHammer' [DogParty, Level 17]: Kezo:  biri savaşırken dokunamıyom ben
 [2021-04-10 12:57:38]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 5 blocks
 [2021-04-10 12:57:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-10 12:57:47]: ***  [, Level 0]: '[D] El patron' has left the game
+[2021-04-10 12:57:49]: sun.slow(y) [FookinLads, Level 35]: Kezo: i dont wayblock come fight
+[2021-04-10 12:57:58]: ***  [, Level 0]: ES is on a killing spree with 5 blocks
