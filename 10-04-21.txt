@@ -10277,3 +10277,6 @@
 [2021-04-10 12:42:44]: ***  [, Level 0]: '(1)Kirito' has left the game
 [2021-04-10 12:42:48]: NidardoHD [FlexTape, Level 2]: wtf
 [2021-04-10 12:42:51]: ~DemoizL~ [, Level 39]: Flupper:
+[2021-04-10 12:43:03]: (1)cookie [, Level 3]: Flipper
+[2021-04-10 12:43:04]:   [, Level 0]: [D] Hunter.exe: Nudelsaft c::
+[2021-04-10 12:43:07]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
