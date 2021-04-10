@@ -3764,3 +3764,8 @@
 [2021-04-10 05:35:31]: ***  [, Level 0]: '(1)Nudelsaft c:\' entered and joined the game
 [2021-04-10 05:35:31]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-10 05:35:32]: ***  [, Level 0]: '(1)Swarfey' entered and joined the game
+[2021-04-10 05:35:43]: ビール|Zero [Drunks, Level 29]: HELP WTF
+[2021-04-10 05:35:45]: Falco641 [.bad, Level 19]: 0 1
+[2021-04-10 05:35:51]: Falco641 [.bad, Level 19]: 1 1
+[2021-04-10 05:35:52]: ***  [, Level 0]: mamikral011 finished in: 8 minute(s) 42.44 second(s)
+[2021-04-10 05:35:52]: ***  [, Level 0]: 'mamikral011' finished the special race!
