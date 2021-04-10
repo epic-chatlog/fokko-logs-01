@@ -255,3 +255,4 @@
 [2021-04-10 00:47:51]: ***  [, Level 0]: (1)Shy-ra. is on a killing spree with 5 blocks
 [2021-04-10 00:48:21]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-10 00:48:22]: ***  [, Level 0]: (1)Shy-ra. is on a killing spree with 10 blocks
+[2021-04-10 00:49:02]: ***  [, Level 0]: (1)Shy-ra.'s killing spree was ended by rayen (12 blocks)
