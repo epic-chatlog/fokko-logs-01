@@ -10629,3 +10629,7 @@
 [2021-04-10 13:12:56]: rexi [, Level 0]: Fuck you: what are u doing
 [2021-04-10 13:13:06]: sun.slow(y) [FookinLads, Level 35]: xD
 [2021-04-10 13:13:08]: ***  [, Level 0]: |ΛnץOиe| finished in: 1 minute(s) 24.18 second(s)
+[2021-04-10 13:13:30]: ***  [, Level 0]: sun.slow(y)'s killing spree was ended by Axel (10 blocks)
+[2021-04-10 13:13:32]: ***  [, Level 0]: 'sun.slow(y)' has left the game
+[2021-04-10 13:13:32]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 13:13:33]: Flupper [, Level 0]: holyho wtf
