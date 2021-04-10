@@ -6035,3 +6035,5 @@
 [2021-04-10 08:03:56]: ***  [, Level 0]: [D] Amirian finished in: 2 minute(s) 49.06 second(s)
 [2021-04-10 08:03:59]: ***  [, Level 0]: '[D] Cylox' changed name to 'FAKE'
 [2021-04-10 08:04:03]: NoobEmir [AoeSBrother, Level 14]: xD
+[2021-04-10 08:04:06]: ERROR. [404, Level 41]: xD
+[2021-04-10 08:04:13]: El patron [, Level 0]: mamikral011:  I started playing on the server today and I'm already better than you
