@@ -9665,3 +9665,5 @@
 [2021-04-10 12:04:31]: ***  [, Level 0]: 'hhh3' entered and joined the game
 [2021-04-10 12:04:41]: weqe [669, Level 12]: Fearless: im pedo , i wantt ot fuck u
 [2021-04-10 12:04:42]: ***  [, Level 0]: '(1)flappy.*' has left the game (Timeout)
+[2021-04-10 12:04:50]: ***  [, Level 0]: '(2)flappy.*' has left the game (Timeout)
+[2021-04-10 12:04:52]: weqe [669, Level 12]: im 40
