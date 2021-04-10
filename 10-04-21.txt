@@ -11528,3 +11528,5 @@
 [2021-04-10 15:03:00]: ReXi [, Level 16]: iMxtteo: nee
 [2021-04-10 15:03:01]: ***  [, Level 0]: Hunter.exe is on a killing spree with 10 blocks
 [2021-04-10 15:03:02]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-10 15:03:05]: iMxtteo [DogParty, Level 27]: ReXi: ok :O
+[2021-04-10 15:03:11]: ReXi [, Level 16]: iMxtteo: du?
