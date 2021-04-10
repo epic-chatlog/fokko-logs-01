@@ -3238,3 +3238,8 @@
 [2021-04-10 04:59:02]: iMxtteo [DogParty, Level 27]: FUK
 [2021-04-10 04:59:21]: bob weqe fan [Ape, Level 0]: wy jou kill me i dident doe eniting
 [2021-04-10 04:59:58]: ***  [, Level 0]: 'any' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 04:59:58]: ***  [, Level 0]: 'HeavyGeneral' has left the game (Timeout)
+[2021-04-10 04:59:58]: ***  [, Level 0]: 'WarHammer' has left the game (Timeout)
+[2021-04-10 05:00:05]: King|No Game [Just me, Level 0]: oops
+[2021-04-10 05:00:06]: King|No Game [Just me, Level 0]: xD
+[2021-04-10 05:00:09]: King|No Game [Just me, Level 0]: Kezo: xD
