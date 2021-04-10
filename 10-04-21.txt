@@ -10991,3 +10991,5 @@
 [2021-04-10 14:04:33]: ***  [, Level 0]: 'Axandos²' entered and joined the game
 [2021-04-10 14:05:02]: [D] El patron [, Level 0]: me aim
 [2021-04-10 14:05:04]: \\Syth [, Level 30]: Nidardo.:
+[2021-04-10 14:05:14]: ***  [, Level 0]: 'ReXi' entered and joined the game
+[2021-04-10 14:05:16]: Nidardo. [TOP, Level 0]: xd
