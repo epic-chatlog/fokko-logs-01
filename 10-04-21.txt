@@ -5870,3 +5870,5 @@
 [2021-04-10 07:48:50]:   [, Level 0]: [D] Amirian: ...
 [2021-04-10 07:49:10]: S Y T H N [DogParty, Level 37]: Рег. №
 [2021-04-10 07:49:17]: El patron [, Level 0]: ERROR: can we fight
+[2021-04-10 07:49:26]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
+[2021-04-10 07:49:27]: weqe [669, Level 12]: (1)kais:
