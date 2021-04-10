@@ -9715,3 +9715,8 @@
 [2021-04-10 12:08:59]: ***  [, Level 0]: '(1)WarHammer' entered and joined the game
 [2021-04-10 12:09:00]: ERROR [404, Level 74]: i know
 [2021-04-10 12:09:02]: |HolyHo| [, Level 18]: SoulyD: come
+[2021-04-10 12:09:03]: HeavyGeneral [FookinLads, Level 44]: ERROR: not to u
+[2021-04-10 12:09:09]: |HolyHo| [, Level 18]: Souly: u have plot
+[2021-04-10 12:09:12]: SoulyD [, Level 47]: i dont
+[2021-04-10 12:09:13]: ERROR [404, Level 74]: HeavyGeneral:  theres nothing to raid or is it?
+[2021-04-10 12:09:15]: |HolyHo| [, Level 18]: Souly: come
