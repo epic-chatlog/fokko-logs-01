@@ -6011,3 +6011,6 @@
 [2021-04-10 08:02:27]: El patron [, Level 0]: Fearless:
 [2021-04-10 08:02:33]: Amirian [, Level 29]: NO YOU PRO THX hmmmmmm
 [2021-04-10 08:02:35]: Cylox [, Level 31]: yanlışıkla çıkartım
+[2021-04-10 08:02:41]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-10 08:02:43]: hmmmmmm [, Level 12]: Amirian: ok ok np
+[2021-04-10 08:02:45]: El patron [, Level 0]: Fearless: come pls
