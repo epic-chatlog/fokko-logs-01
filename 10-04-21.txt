@@ -10543,3 +10543,5 @@
 [2021-04-10 13:04:43]: Zephir™ [, Level 39]: sun.slow(y): wtf ????????
 [2021-04-10 13:04:50]: Falco642 [, Level 3]: El patron: ???
 [2021-04-10 13:04:54]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 5 blocks
+[2021-04-10 13:05:34]: ***  [, Level 0]: kais finished in: 4 minute(s) 55.06 second(s)
+[2021-04-10 13:05:34]: ***  [, Level 0]: New record: 2 minute(s) 23.70 second(s) better.
