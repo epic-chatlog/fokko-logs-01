@@ -6791,3 +6791,7 @@
 [2021-04-10 08:48:52]: El patron [, Level 27]: Fuck you: stop
 [2021-04-10 08:48:56]: hhh3 [, Level 48]: Souly: 10 level taser = 1 hours jail
 [2021-04-10 08:48:59]: (2)ChillerDrago [Chilli.*, Level 34]: was ERROR
+[2021-04-10 08:49:07]: (1)ERROR. [404, Level 56]: nichts
+[2021-04-10 08:49:12]: (2)ChillerDrago [Chilli.*, Level 34]: wieso hilfst du nich
+[2021-04-10 08:49:12]: El patron [, Level 27]: Jerry:
+[2021-04-10 08:49:16]: El patron [, Level 27]: ERROR: help
