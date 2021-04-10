@@ -14136,3 +14136,4 @@
 [2021-04-09 23:39:55]: RM|weqe [MNKY, Level 12]: WTF LET ME GO
 [2021-04-09 23:40:46]: Amirian [, Level 29]: oh
 [2021-04-09 23:40:48]: ***  [, Level 0]: '[D] Amirian' entered and joined the game
+[2021-04-09 23:41:10]: ***  [, Level 0]: 'RM|weqe' has left the game
