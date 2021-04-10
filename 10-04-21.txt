@@ -12180,3 +12180,5 @@
 [2021-04-10 16:50:10]: Shutaz [, Level 0]: direkt herz gebrochen
 [2021-04-10 16:50:20]: S Y T H N [, Level 37]: wasn?
 [2021-04-10 16:51:30]: S Y T H N [, Level 37]: ich check nicht jeder aufem server so wenn man den nicht helft dereckt blockierung
+[2021-04-10 16:52:38]: S Y T H N [, Level 37]: bruh Kirito hatt timeout
+[2021-04-10 16:52:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
