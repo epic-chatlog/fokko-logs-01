@@ -5799,3 +5799,8 @@
 [2021-04-10 07:43:53]: ***  [, Level 0]: '[D] Sad Guy' entered and joined the game
 [2021-04-10 07:43:55]: El patron [, Level 0]: rayen: how you can fly
 [2021-04-10 07:43:58]: Amirian [, Level 29]: Zʷʰʸˀ:pls help me
+[2021-04-10 07:44:11]:   [, Level 0]: [D] Sad Guy: LET HIM NOW
+[2021-04-10 07:44:13]: Amirian [, Level 29]: AAAAAAAAAAAAAAAAAAAAAAAAAA
+[2021-04-10 07:44:18]: ***  [, Level 0]: '[D] Amirian' has left the game
+[2021-04-10 07:44:19]: ***  [, Level 0]: 'naip' entered and joined the game
+[2021-04-10 07:44:20]: El patron [, Level 0]: help
