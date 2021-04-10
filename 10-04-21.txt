@@ -2806,3 +2806,8 @@
 [2021-04-10 04:28:39]: ***  [, Level 0]: 'fitz' has left the game (Timeout)
 [2021-04-10 04:28:42]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [2021-04-10 04:28:43]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-10 04:28:43]: No game [Just me, Level 40]: Sad Guy: fuck xD
+[2021-04-10 04:28:44]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-10 04:28:46]: Sad Guy [, Level 40]: XD
+[2021-04-10 04:28:54]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-10 04:28:55]: No game [Just me, Level 40]: Sad Guy: mhhhh
