@@ -9362,3 +9362,7 @@
 [2021-04-10 11:29:57]: SanoreX [Chilli.*, Level 27]: [D] BC|serwan: help up dummy
 [2021-04-10 11:29:58]: ***  [, Level 0]: Nudelsaft c:'s killing spree was ended by bob (6 blocks)
 [2021-04-10 11:30:07]: ***  [, Level 0]: '|HolyHo|' entered and joined the game
+[2021-04-10 11:30:14]: ***  [, Level 0]: '|HolyHo|' has left the game
+[2021-04-10 11:30:16]: ***  [, Level 0]: 'mrwodka936' entered and joined the game
+[2021-04-10 11:30:17]: ***  [, Level 0]: '|HolyHo|°' entered and joined the game
+[2021-04-10 11:30:18]: cookie [, Level 18]: spiky time
