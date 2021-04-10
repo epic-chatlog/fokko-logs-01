@@ -6345,3 +6345,6 @@
 [2021-04-10 08:22:29]: ***  [, Level 0]: '[D] Fearless' has left the game
 [2021-04-10 08:22:29]: ***  [, Level 0]: 'Fearless' has left the game
 [2021-04-10 08:22:41]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-10 08:22:50]: taco bell [, Level 6]: sus
+[2021-04-10 08:22:58]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-10 08:22:58]: ERROR. [404, Level 41]: fuck off fr
