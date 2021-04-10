@@ -10788,3 +10788,10 @@
 [2021-04-10 13:42:35]: Falco642 [, Level 3]: sun.slow(y): wtf?
 [2021-04-10 13:42:43]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-10 13:43:18]: Falco641 [.bad, Level 20]: sun.slow(y): dude wtf
+[2021-04-10 13:43:29]: sun.slow(y) [FookinLads, Level 35]: Falco642: rule nr 1
+[2021-04-10 13:43:29]: El patron [, Level 28]: Falco641: gay
+[2021-04-10 13:43:31]: ***  [, Level 0]: 'BlankEra' entered and joined the game
+[2021-04-10 13:43:31]: Falco642 [, Level 3]: sun.slow(y): what did i do
+[2021-04-10 13:43:36]: sun.slow(y) [FookinLads, Level 35]: Falco642: its not ur problem when i block someone
+[2021-04-10 13:43:37]: fitz [, Level 16]: sun.slow(y):
+[2021-04-10 13:43:37]: iMxtteo [DogParty, Level 27]: dedc
