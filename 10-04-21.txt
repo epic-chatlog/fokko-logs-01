@@ -3804,3 +3804,7 @@
 [2021-04-10 05:37:05]: (2)RM|Saud [Retard MNKY, Level 0]: Maatiteusz:  what
 [2021-04-10 05:37:08]: Falco641 [.bad, Level 19]: 6 3
 [2021-04-10 05:37:20]: Falco641 [.bad, Level 19]: 6 4
+[2021-04-10 05:37:23]: Kirito [, Level 40]: (1)RM|Saud: !
+[2021-04-10 05:37:24]: Falco641 [.bad, Level 19]: 6 5
+[2021-04-10 05:37:30]: Kirito [, Level 40]: (1)RM|Saud: STUPID!?!??!
+[2021-04-10 05:37:31]:   [, Level 0]: Maatiteusz: Kirito: attacked me
