@@ -5796,3 +5796,6 @@
 [2021-04-10 07:43:45]: Cylox [, Level 31]: dur
 [2021-04-10 07:43:47]: ***  [, Level 0]: '[D] Sad Guy' entered and joined the game
 [2021-04-10 07:43:47]: ***  [, Level 0]: '[D] Sad Guy' has left the game
+[2021-04-10 07:43:53]: ***  [, Level 0]: '[D] Sad Guy' entered and joined the game
+[2021-04-10 07:43:55]: El patron [, Level 0]: rayen: how you can fly
+[2021-04-10 07:43:58]: Amirian [, Level 29]: Zʷʰʸˀ:pls help me
