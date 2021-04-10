@@ -4814,3 +4814,9 @@
 [2021-04-10 06:45:38]: ***  [, Level 0]: 'haxxless dummy' changed name to 'ERROR'
 [2021-04-10 06:45:40]: ***  [, Level 0]: 'haxxless tee' changed name to '(1)ERROR'
 [2021-04-10 06:45:46]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-10 06:45:50]:   [, Level 0]: Sad Guy: xd
+[2021-04-10 06:45:51]:   [, Level 0]: S Y T H N: Kirito: geh dran
+[2021-04-10 06:45:53]: ***  [, Level 0]: Sad Guy's killing spree was ended by Maatiteusz (5 blocks)
+[2021-04-10 06:45:55]: |MıssOяchiĐ| [, Level 48]: GODLIKe.: why u kill me <3
+[2021-04-10 06:45:56]: ***  [, Level 0]: 'Sad Guy' has left the game
+[2021-04-10 06:46:00]: Maatiteusz [TrRShClNrRs, Level 35]: rq
