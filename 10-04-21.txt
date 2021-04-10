@@ -2499,3 +2499,7 @@
 [2021-04-10 04:08:53]: |ΛnץOиe| [, Level 43]: NOT COOL
 [2021-04-10 04:08:54]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-10 04:08:54]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-10 04:08:56]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-10 04:08:56]: (1)ChillerDrago [Chilli.*, Level 33]: agianst
+[2021-04-10 04:08:59]: Kaptar [, Level 0]: cool
+[2021-04-10 04:09:01]: Souly [, Level 60]: afk
