@@ -464,3 +464,8 @@
 [2021-04-10 01:19:10]: (2)ChillerDrago [|*KoG*|, Level 34]: xD
 [2021-04-10 01:19:15]: ***  [, Level 0]: 'comic' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-10 01:19:32]: ***  [, Level 0]: 'nikuś' entered and joined the game
+[2021-04-10 01:19:37]: WarHammer' [DogParty, Level 16]: ChillerDragon:  eyw flag
+[2021-04-10 01:19:38]: kais [, Level 65]: dafuk
+[2021-04-10 01:19:44]: ***  [, Level 0]: 'comic' left the minigame 'Survival'
+[2021-04-10 01:19:45]: kais [, Level 65]: my taser freeze for 0.1sec
+[2021-04-10 01:19:46]: ***  [, Level 0]: (1)ChillerDragon is on a killing spree with 10 blocks
