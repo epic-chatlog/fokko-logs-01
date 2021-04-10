@@ -545,3 +545,4 @@
 [2021-04-10 01:27:09]: (2)ChillerDrago [|*KoG*|, Level 34]: be a helper and spread love kais
 [2021-04-10 01:27:10]: kais [, Level 65]: (3)ChillerDragon: no, i'm the one who bully
 [2021-04-10 01:27:13]: (2)ChillerDrago [|*KoG*|, Level 34]: stop looking away kais
+[2021-04-10 01:27:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
