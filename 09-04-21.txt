@@ -13778,3 +13778,6 @@
 [2021-04-09 21:42:00]: taco bell [, Level 4]: and on pc it's a gif
 [2021-04-09 21:42:24]: Nudelsaft c: [FookinLads, Level 37]: ye
 [2021-04-09 21:42:32]: Nudelsaft c: [FookinLads, Level 37]: ah no its an mp4
+[2021-04-09 21:42:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-09 21:42:48]: taco bell [, Level 4]: then why does it play automatically
+[2021-04-09 21:42:50]: taco bell [, Level 4]: tf
