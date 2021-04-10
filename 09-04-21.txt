@@ -13653,3 +13653,4 @@
 [2021-04-09 21:24:22]: taco bell [, Level 4]: tru
 [2021-04-09 21:24:29]: Nudelsaft c: [FookinLads, Level 37]: on test server its working tho
 [2021-04-09 21:24:38]: Nudelsaft c: [FookinLads, Level 37]: no more dc crash abusing
+[2021-04-09 21:24:45]: Nudelsaft c: [FookinLads, Level 37]: now i have to check why it doesnt work anymore xd
