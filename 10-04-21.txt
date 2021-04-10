@@ -4010,3 +4010,7 @@
 [2021-04-10 05:54:50]:   [, Level 0]: Kezo: mamikral011: güzel
 [2021-04-10 05:54:57]:   [, Level 0]: Kezo: VAHEMA,
 [2021-04-10 05:54:59]: ***  [, Level 0]: 'rednix' entered and joined the game
+[2021-04-10 05:55:04]: ***  [, Level 0]: 'Meetiteusz' entered and joined the game
+[2021-04-10 05:55:06]: ***  [, Level 0]: 'rednix' has left the game
+[2021-04-10 05:55:07]:   [, Level 0]: WarHammer: keğhtzo
+[2021-04-10 05:55:08]: [D] mamikral011 [DogParty, Level 26]: kezo şimdide soygun yaptım chiller killedim 16k mis
