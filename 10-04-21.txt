@@ -10656,3 +10656,5 @@
 [2021-04-10 13:16:52]: El patron [, Level 28]: rayen:
 [2021-04-10 13:16:54]: Falco642 [, Level 3]: drunk: wat
 [2021-04-10 13:17:09]: Fuck you [, Level 40]: hook right
+[2021-04-10 13:17:31]: Fuck you [, Level 40]: come
+[2021-04-10 13:17:33]: Falco641 [.bad, Level 20]: drunk: wat
