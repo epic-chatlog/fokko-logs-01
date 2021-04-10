@@ -111,3 +111,7 @@
 [2021-04-10 00:31:04]: ***  [, Level 0]: 'kais' has left the game
 [2021-04-10 00:31:13]: Nudelsaft c: [FookinLads, Level 37]: run
 [2021-04-10 00:31:36]: (3)ChillerDrago [|*KoG*|, Level 45]: boi run
+[2021-04-10 00:32:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-10 00:32:45]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-10 00:32:49]: Nudelsaft c: [FookinLads, Level 37]: AAAAAAA
+[2021-04-10 00:32:51]: Nudelsaft c: [FookinLads, Level 37]: AHAHHAH
