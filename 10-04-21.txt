@@ -6220,3 +6220,4 @@
 [2021-04-10 08:14:37]: ***  [, Level 0]: 'Zʷʰʸˀ' has left the game (Timeout)
 [2021-04-10 08:14:37]: ***  [, Level 0]: '(1)Zʷʰʸˀ' has left the game (Timeout)
 [2021-04-10 08:14:37]: ***  [, Level 0]: power is on a killing spree with 5 blocks
+[2021-04-10 08:14:47]:   [, Level 0]: (1)Cylox: Bütün bunları yaparken bursa spora destek olabılırsın
