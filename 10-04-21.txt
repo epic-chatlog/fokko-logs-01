@@ -11102,3 +11102,6 @@
 [2021-04-10 14:14:12]: [D] taco bell [, Level 0]: he egg
 [2021-04-10 14:14:26]: iMxtteo [DogParty, Level 27]: taco bell: xd
 [2021-04-10 14:14:28]: ReXi [, Level 0]: xd
+[2021-04-10 14:14:43]: ReXi [, Level 0]: iMxtteo: u dirty egg
+[2021-04-10 14:14:48]: iMxtteo [DogParty, Level 27]: me dirty egg
+[2021-04-10 14:14:52]: ***  [, Level 0]: 'sleimi' has left the game
