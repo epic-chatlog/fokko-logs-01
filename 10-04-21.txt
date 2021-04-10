@@ -2986,3 +2986,8 @@
 [2021-04-10 04:41:42]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [2021-04-10 04:41:43]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-10 04:41:43]: Fearless [Retard MNKY, Level 15]: i bring taser u dead
+[2021-04-10 04:41:46]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
+[2021-04-10 04:41:47]: ***  [, Level 0]: '|ΛnץOиe|' has left the game
+[2021-04-10 04:41:47]: ***  [, Level 0]: '|MıssOяchiĐ|' has left the game
+[2021-04-10 04:41:54]: ***  [, Level 0]: '|MıssOяchiĐ|' entered and joined the game
+[2021-04-10 04:41:57]: ***  [, Level 0]: 'RoberGN' entered and joined the game
