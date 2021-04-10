@@ -10975,3 +10975,4 @@
 [2021-04-10 14:02:09]: \\Syth [, Level 30]: power: 2
 [2021-04-10 14:02:11]: \\Syth [, Level 30]: power: 1
 [2021-04-10 14:02:15]: \\Syth [, Level 30]: power: war
+[2021-04-10 14:02:23]: power [TrRShClNrRs, Level 0]: mate u tried to kill me haha \\Syth
