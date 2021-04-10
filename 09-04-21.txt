@@ -13298,3 +13298,4 @@
 [2021-04-09 17:52:15]: ♥TAKO♥ [DogParty, Level 25]: u not
 [2021-04-09 17:52:17]: ***  [, Level 0]: '♥TAKO♥' has left the game
 [2021-04-09 17:52:17]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
+[2021-04-09 17:52:39]: ***  [, Level 0]: 'Fritz' entered and joined the game
