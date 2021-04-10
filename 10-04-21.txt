@@ -4037,3 +4037,8 @@
 [2021-04-10 05:56:36]: ***  [, Level 0]: 'HardreenClutch' has left the game
 [2021-04-10 05:56:36]: ***  [, Level 0]: 'GReeeN' has left the game
 [2021-04-10 05:56:41]: [D] mamikral011 [DogParty, Level 26]: Souly: war
+[2021-04-10 05:56:45]: [D] mamikral011 [DogParty, Level 26]: Souly: 50k
+[2021-04-10 05:56:50]: mamikral011 [DogParty, Level 21]: Souly: 100k
+[2021-04-10 05:56:55]: mamikral011 [DogParty, Level 21]: Souly: !!
+[2021-04-10 05:56:55]: ***  [, Level 0]: Kiøn1029 finished in: 1 minute(s) 27.60 second(s)
+[2021-04-10 05:56:55]: ***  [, Level 0]: New record: 5 minute(s) 35.62 second(s) better.
