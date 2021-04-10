@@ -4019,3 +4019,6 @@
 [2021-04-10 05:55:24]: ***  [, Level 0]: 'Tziys*' entered and joined the game
 [2021-04-10 05:55:25]: ***  [, Level 0]: '(1)Mʎɹシ - Cat' has left the game
 [2021-04-10 05:55:25]: ***  [, Level 0]: '(1)ビール|Zero' has left the game
+[2021-04-10 05:55:28]: ***  [, Level 0]: '(1)nameless tee' has left the game
+[2021-04-10 05:55:35]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
+[2021-04-10 05:55:36]: ***  [, Level 0]: 'fitz' entered and joined the game
