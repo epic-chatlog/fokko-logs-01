@@ -10454,3 +10454,5 @@
 [2021-04-10 12:56:15]: Nudelsaft c: [FookinLads, Level 37]: du sprichst türkisch
 [2021-04-10 12:56:18]: ***  [, Level 0]: 'cookie' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-10 12:56:18]: Nudelsaft c: [FookinLads, Level 37]: zuviel für mich
+[2021-04-10 12:56:20]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-10 12:56:24]: Kezo [DogParty, Level 41]: rq
