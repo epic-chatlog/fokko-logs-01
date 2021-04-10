@@ -9738,3 +9738,5 @@
 [2021-04-10 12:10:16]: |HolyHo| [, Level 18]: Souly: <3
 [2021-04-10 12:10:19]: ERROR [404, Level 74]: HeavyGeneral:  but just 5min i go to sleep
 [2021-04-10 12:10:24]: HeavyGeneral [FookinLads, Level 44]: OOF
+[2021-04-10 12:10:33]: |HolyHo| [, Level 18]: Souly: do / plot spawn
+[2021-04-10 12:10:38]: ***  [, Level 0]: '(1)SanoreX' entered and joined the game
