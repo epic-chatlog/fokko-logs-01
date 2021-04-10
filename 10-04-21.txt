@@ -6103,3 +6103,8 @@
 [2021-04-10 08:07:33]: ***  [, Level 0]: (1)Mʎɹシ - Cat finished in: 6 minute(s) 42.02 second(s)
 [2021-04-10 08:07:33]: ***  [, Level 0]: New record: 5 minute(s) 27.22 second(s) better.
 [2021-04-10 08:07:35]: [D] Amirian [, Level 23]: El patron:
+[2021-04-10 08:07:41]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-10 08:07:43]: ***  [, Level 0]: 'NidardoHD' entered and joined the game
+[2021-04-10 08:07:45]: ***  [, Level 0]: 'NoobEmir.*' has left the game
+[2021-04-10 08:07:45]: ***  [, Level 0]: 'NoobEmir' has left the game
+[2021-04-10 08:07:47]: ***  [, Level 0]: 'PANZELKOWY' entered and joined the game
