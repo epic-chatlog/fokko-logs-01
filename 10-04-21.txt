@@ -4106,3 +4106,5 @@
 [2021-04-10 06:01:57]: Maatiteusz [TrRShClNrRs, Level 35]: Bozzkurt: u died
 [2021-04-10 06:02:00]: Maatiteusz [TrRShClNrRs, Level 35]: Bozzkurt: kids cannot talk
 [2021-04-10 06:02:05]: Bozzkurt [SkinLover, Level 0]: Maatiteusz: np
+[2021-04-10 06:02:09]: ***  [, Level 0]: 'Ļåҕ Lobster' entered and joined the game
+[2021-04-10 06:02:12]: Bozzkurt [SkinLover, Level 0]: Maatiteusz: ye
