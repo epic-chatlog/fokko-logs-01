@@ -13229,3 +13229,5 @@
 [2021-04-09 17:43:01]: ***  [, Level 0]: 'Altes Bier' entered and joined the game
 [2021-04-09 17:43:09]: iMxtteo [DogParty, Level 27]: ah sry habs vergessen
 [2021-04-09 17:43:10]: ***  [, Level 0]: 'Altes Bier' has left the game
+[2021-04-09 17:43:13]: Kirito [, Level 40]: iMxtteo: ahja
+[2021-04-09 17:43:19]: iMxtteo [DogParty, Level 27]: mannn
