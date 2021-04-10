@@ -7943,3 +7943,6 @@
 [2021-04-10 09:58:04]: (1)/ [, Level 0]: rayen: ?
 [2021-04-10 09:58:06]: [D] ANGEL_PRO [, Level 0]: rayen: ?? war?
 [2021-04-10 09:58:06]: ***  [, Level 0]: 'fomjn' entered and joined the game
+[2021-04-10 09:58:11]: (1)/ [, Level 0]: rayen help me
+[2021-04-10 09:58:18]: (1)/ [, Level 0]: rayen:
+[2021-04-10 09:58:19]: ***  [, Level 0]: HardreenClutch is on a killing spree with 5 blocks
