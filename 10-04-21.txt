@@ -9566,3 +9566,5 @@
 [2021-04-10 11:52:29]: (3)cookie [, Level 0]: idk who hook me hear
 [2021-04-10 11:52:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-10 11:52:43]: ***  [, Level 0]: 'nennydoq' has left the game
+[2021-04-10 11:53:04]: Zephir™ [, Level 39]: ~DemoizL~: non
+[2021-04-10 11:53:10]: ~DemoizL~ [, Level 39]: Zephir™: quoi ?
