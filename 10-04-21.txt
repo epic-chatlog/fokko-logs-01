@@ -11100,3 +11100,5 @@
 [2021-04-10 14:14:04]: ReXi [, Level 0]: iMxtteo: u egg
 [2021-04-10 14:14:08]: iMxtteo [DogParty, Level 27]: me egg
 [2021-04-10 14:14:12]: [D] taco bell [, Level 0]: he egg
+[2021-04-10 14:14:26]: iMxtteo [DogParty, Level 27]: taco bell: xd
+[2021-04-10 14:14:28]: ReXi [, Level 0]: xd
