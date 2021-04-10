@@ -9477,3 +9477,7 @@
 [2021-04-10 11:40:30]: ***  [, Level 0]: 'flappy.*' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-10 11:40:31]: SanoreX [Chilli.*, Level 27]: I coding I afk |HolyHo|
 [2021-04-10 11:40:38]: SanoreX [Chilli.*, Level 27]: too weak connection
+[2021-04-10 11:40:44]: SanoreX [Chilli.*, Level 27]: look
+[2021-04-10 11:40:45]: |HolyHo| [, Level 0]: SanoreX: u can edit to?
+[2021-04-10 11:40:47]: ***  [, Level 0]: 'flappy.*' entered and joined the game
+[2021-04-10 11:40:53]: ***  [, Level 0]: GReeeN is on a killing spree with 10 blocks
