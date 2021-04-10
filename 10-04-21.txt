@@ -1381,3 +1381,5 @@
 [2021-04-10 02:46:11]: YelloWorlD [DogParty, Level 56]: lag
 [2021-04-10 02:46:11]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
 [2021-04-10 02:46:29]: Amirian [, Level 29]: yea
+[2021-04-10 02:46:47]: ***  [, Level 0]: nameless tee is on a killing spree with 10 blocks
+[2021-04-10 02:46:52]:   [, Level 0]: CKA3A4NIK[NR]: GReeeN:  No kill me pls
