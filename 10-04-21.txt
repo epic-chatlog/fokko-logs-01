@@ -8581,3 +8581,9 @@
 [2021-04-10 10:38:32]:   [, Level 0]: |HolyHo|: ERROR: sup
 [2021-04-10 10:38:39]: [D] El patron [, Level 0]: Good man:  which lvl do you have to be to buy police 3
 [2021-04-10 10:38:39]: ERROR. [404, Level 56]: ChillderPlagon*:  ahhahaahahahha
+[2021-04-10 10:38:49]: ERROR. [404, Level 56]: heres another bank Lebly
+[2021-04-10 10:38:54]: ***  [, Level 0]: 'detzu.' has left the game
+[2021-04-10 10:38:55]: ***  [, Level 0]: '(1)' has left the game
+[2021-04-10 10:38:57]: ***  [, Level 0]: 'Tugderic' has left the game
+[2021-04-10 10:38:57]: ***  [, Level 0]: 'Ikolonor' entered and joined the game
+[2021-04-10 10:39:00]: Good man [Drunks, Level 30]: El patron: 30/ maybe/ now my level 30
