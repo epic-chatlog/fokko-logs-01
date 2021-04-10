@@ -9599,3 +9599,5 @@
 [2021-04-10 11:56:11]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
 [2021-04-10 11:56:19]: (1)cookie [, Level 0]: Marcisten Dummy:  yeah try
 [2021-04-10 11:56:21]: Zephir™ [, Level 39]: ~DemoizL~: ok si tu veut
+[2021-04-10 11:56:28]: ~DemoizL~ [, Level 39]: Zephir™: t qui ??
+[2021-04-10 11:56:33]: Zephir™ [, Level 39]: ~DemoizL~: ptn je suis Zephir™
