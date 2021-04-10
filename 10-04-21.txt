@@ -10663,3 +10663,5 @@
 [2021-04-10 13:17:45]: Fuck you [, Level 40]: THIS
 [2021-04-10 13:17:47]: Fuck you [, Level 40]: SHIT
 [2021-04-10 13:17:53]: Fuck you [, Level 40]: F
+[2021-04-10 13:17:55]: rexi [, Level 0]: Fuck you: wait
+[2021-04-10 13:18:00]: rexi [, Level 0]: ok nvm
