@@ -4619,3 +4619,7 @@
 [2021-04-10 06:32:32]: ***  [, Level 0]: Collected 290 money
 [2021-04-10 06:32:32]: ***  [, Level 0]: Collected 291 money
 [2021-04-10 06:33:59]: ***  [, Level 0]: Successfully logged in
+[2021-04-10 06:34:04]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
+[2021-04-10 06:34:06]: Maatiteusz [TrRShClNrRs, Level 35]: JustRace: tf flappy is doing xd
+[2021-04-10 06:34:06]: ***  [, Level 0]: 'Picege Poric' has left the game
+[2021-04-10 06:34:12]: ***  [, Level 0]: 'JustRace.' entered and joined the game
