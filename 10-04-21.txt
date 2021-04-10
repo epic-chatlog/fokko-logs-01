@@ -2823,3 +2823,5 @@
 [2021-04-10 04:29:22]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-10 04:29:26]: ***  [, Level 0]: 'power2' entered and joined the game
 [2021-04-10 04:29:31]: No game [Just me, Level 40]: Sad Guy: idk xDDDDD
+[2021-04-10 04:29:41]: ***  [, Level 0]: nameless tee is on a killing spree with 20 blocks
+[2021-04-10 04:29:45]: Sad Guy [, Level 40]: so you dont remeber me ;-;
