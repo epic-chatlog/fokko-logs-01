@@ -1975,3 +1975,5 @@
 [2021-04-10 03:32:42]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-10 03:32:44]: ***  [, Level 0]: 'ES' entered and joined the game
 [2021-04-10 03:32:48]: Niemand [Muhaha!, Level 0]: getpakgun
+[2021-04-10 03:32:57]: GODLIKe. [Solo, Level 44]: power: take me
+[2021-04-10 03:33:06]: GODLIKe. [Solo, Level 44]: power:
