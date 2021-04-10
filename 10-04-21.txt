@@ -9512,3 +9512,4 @@
 [2021-04-10 11:44:41]: Zephir™ [, Level 39]: ahahah rq
 [2021-04-10 11:44:57]: Fearless [Retard MNKY, Level 15]: GReeeN:
 [2021-04-10 11:45:28]: |HolyHo|° [, Level 28]: SoulyD: u have plot
+[2021-04-10 11:45:29]: ***  [, Level 0]: 'soleri1' has left the game (Too weak connection (not acked for 60 seconds))
