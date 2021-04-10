@@ -615,3 +615,7 @@
 [2021-04-10 01:32:42]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-10 01:32:44]: Tziys* [DogParty, Level 0]: WarHammer: sa kral
 [2021-04-10 01:32:47]: WarHammer' [DogParty, Level 16]: as kral
+[2021-04-10 01:32:58]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-10 01:32:59]: WarHammer' [DogParty, Level 16]: HAY LAGINA
+[2021-04-10 01:33:08]: ***  [, Level 0]: (2)ChillerDragon is on a killing spree with 25 blocks
+[2021-04-10 01:33:11]: (1)ビール|Ze [Drunks, Level 15]: bruh: lets to inf jumps
