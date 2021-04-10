@@ -10164,3 +10164,5 @@
 [2021-04-10 12:32:24]: [D] BULLETBOT [, Level 0]: HardreenClutch: fuck you cun't
 [2021-04-10 12:32:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-10 12:33:25]: Shiro. [Whɪтє, Level 0]: ok but who's login on my acc gay
+[2021-04-10 12:33:29]: ERROR. [404, Level 56]: YelloWorlD:  did u see taser lvl 10
+[2021-04-10 12:33:38]: YelloWorlD [DogParty, Level 37]: ERROR.: no what diff?
