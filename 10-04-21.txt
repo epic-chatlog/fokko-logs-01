@@ -10901,3 +10901,5 @@
 [2021-04-10 13:53:43]: ***  [, Level 0]: 'Falco641' has left the game
 [2021-04-10 13:53:48]: iMxtteo [DogParty, Level 27]: i knew it xd
 [2021-04-10 13:53:50]: Zephir™ [, Level 39]: drunk: I HAVE A GOOD MS NOW /d
+[2021-04-10 13:54:03]: ***  [, Level 0]: 'Marcisten Dummy' has left the game (Timeout)
+[2021-04-10 13:54:03]: ***  [, Level 0]: 'Marcisten' has left the game (Timeout)
