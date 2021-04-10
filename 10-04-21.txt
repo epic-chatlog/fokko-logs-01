@@ -11275,3 +11275,6 @@
 [2021-04-10 14:30:45]: iMxtteo [DogParty, Level 27]: ReXi: 17?
 [2021-04-10 14:30:51]: [D] El patron [, Level 0]: Hunter.exe:  can i join dogparty
 [2021-04-10 14:30:53]: ReXi [, Level 16]: iMxtteo: nicht schlecht
+[2021-04-10 14:31:03]: Hunter.exe [DogParty, Level 36]: El patron: ask yellow
+[2021-04-10 14:31:05]: iMxtteo [DogParty, Level 27]: ja moin!
+[2021-04-10 14:31:08]: iMxtteo [DogParty, Level 27]: First try
