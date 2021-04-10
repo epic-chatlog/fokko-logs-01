@@ -3959,3 +3959,7 @@
 [2021-04-10 05:49:17]: ***  [, Level 0]: (1)nameless tee is on a killing spree with 5 blocks
 [2021-04-10 05:49:18]: ***  [, Level 0]: 'x7|zemer' has left the game
 [2021-04-10 05:49:19]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)nameless tee' is spawnblocking. Catch him!
+[2021-04-10 05:49:28]: ***  [, Level 0]: ビール|Zero finished in: 1 minute(s)  0.74 second(s)
+[2021-04-10 05:49:28]: ***  [, Level 0]: New record: 1 minute(s) 32.70 second(s) better.
+[2021-04-10 05:49:30]: ***  [, Level 0]: 'prankstar' has left the game
+[2021-04-10 05:49:30]: ***  [, Level 0]: 'cunt' has left the game
