@@ -8707,3 +8707,7 @@
 [2021-04-10 10:45:39]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
 [2021-04-10 10:45:40]:   [, Level 0]: Nudelsaft c:: Kezo: because u were too bad to do it alone XD
 [2021-04-10 10:45:40]: ERROR. [404, Level 56]: GReeeN:  lass ihn bitte.
+[2021-04-10 10:45:48]: GReeeN [, Level 0]: wer ist lebly
+[2021-04-10 10:45:55]: ERROR. [404, Level 56]: GReeeN:  ein freund.
+[2021-04-10 10:45:55]: (1)ChillerDrago [|*KoG*|, Level 42]: edate von ERROR GReeeN
+[2021-04-10 10:46:00]: |HolyHo| [, Level 28]: Kezo: HIII <33
