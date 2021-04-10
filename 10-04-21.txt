@@ -8025,3 +8025,5 @@
 [2021-04-10 10:03:12]: ***  [, Level 0]: 'fomin' entered and joined the game
 [2021-04-10 10:03:16]: minecraft [, Level 12]: hhh3: it's hard
 [2021-04-10 10:03:19]: S Y T H N [, Level 37]: aaaaa
+[2021-04-10 10:03:27]: minecraft [, Level 12]: hhh3: all killing me when i am afk
+[2021-04-10 10:03:29]: ***  [, Level 0]: 'sL|coffee [D]' entered and joined the game
