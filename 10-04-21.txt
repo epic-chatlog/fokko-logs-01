@@ -5748,3 +5748,4 @@
 [2021-04-10 07:39:22]: hhh3 [, Level 48]: 10 level taser look
 [2021-04-10 07:39:26]: ERROR. [404, Level 41]: i got too
 [2021-04-10 07:39:31]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-10 07:39:56]: ***  [, Level 0]: 'weqe' entered and joined the game
