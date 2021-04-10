@@ -512,3 +512,6 @@
 [2021-04-10 01:24:02]: (2)ChillerDrago [|*KoG*|, Level 34]: xD
 [2021-04-10 01:24:02]: ***  [, Level 0]: 'Sema1011' entered and joined the game
 [2021-04-10 01:24:04]: WarHammer' [DogParty, Level 16]: XD
+[2021-04-10 01:24:14]: ***  [, Level 0]: 'PANZELKOWY' has left the game
+[2021-04-10 01:24:15]: ***  [, Level 0]: 'Sema1011' has left the game
+[2021-04-10 01:24:19]: ***  [, Level 0]: '(1)RM|Saud' entered and joined the game
