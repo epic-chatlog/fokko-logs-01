@@ -1001,3 +1001,6 @@
 [2021-04-10 02:04:23]: ***  [, Level 0]: '[D] RM toxicdad' has left the game
 [2021-04-10 02:04:28]: any [404, Level 37]: (1)kais: >
 [2021-04-10 02:04:31]: kais [, Level 65]: Nudelsaft c:: uhm, ok
+[2021-04-10 02:04:36]: Nudelsaft c: [FookinLads, Level 37]: kais: not sure tho
+[2021-04-10 02:04:36]: WarHammer [DogParty, Level 26]: (1)ビール|Ze:  WAR bruh  WAR rayen  WAR
+[2021-04-10 02:04:41]: WarHammer [DogParty, Level 26]: WAR
