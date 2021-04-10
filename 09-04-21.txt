@@ -13310,3 +13310,6 @@
 [2021-04-09 17:53:59]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
 [2021-04-09 17:54:14]: Kirito [, Level 40]: fokkonaut: sup
 [2021-04-09 17:54:15]: S Y T H N [DogParty, Level 37]: fokkonaut: yo
+[2021-04-09 17:54:17]: fokkonaut [, Level 0]: hey
+[2021-04-09 17:54:24]: iMxtteo [DogParty, Level 27]: Kirito: erzähl mal was, oder du S Y T H N hab langeweile
+[2021-04-09 17:54:24]: Flipper [, Level 15]: hi
