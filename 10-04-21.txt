@@ -12111,3 +12111,5 @@
 [2021-04-10 16:26:18]: ***  [, Level 0]: 'нυƨнıκε' changed name to '(1)σмєтнιηg'
 [2021-04-10 16:26:23]: ***  [, Level 0]: '(1)σмєтнιηg' changed name to 'S Y T H N'
 [2021-04-10 16:27:43]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-10 16:28:18]: Zephir™ [, Level 39]: S Y T H N: so ok
+[2021-04-10 16:28:20]: S Y T H N [, Level 37]: ok
