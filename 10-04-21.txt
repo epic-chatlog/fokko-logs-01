@@ -5872,3 +5872,5 @@
 [2021-04-10 07:49:17]: El patron [, Level 0]: ERROR: can we fight
 [2021-04-10 07:49:26]: ***  [, Level 0]: '[D] Fearless' entered and joined the game
 [2021-04-10 07:49:27]: weqe [669, Level 12]: (1)kais:
+[2021-04-10 07:49:55]: ***  [, Level 0]: 'Sad Guy' would have timed out, but can use timeout protection now
+[2021-04-10 07:49:56]: ***  [, Level 0]: '[D] Sad Guy' would have timed out, but can use timeout protection now
