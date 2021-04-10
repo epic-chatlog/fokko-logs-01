@@ -8961,3 +8961,5 @@
 [2021-04-10 11:01:36]: [D] El patron [, Level 0]: GReeeN:
 [2021-04-10 11:01:38]: Kirito [, Level 40]: Nidardo.: retardo help >>>
 [2021-04-10 11:01:42]: [D] El patron [, Level 0]: |HolyHo|:
+[2021-04-10 11:01:50]: ***  [, Level 0]: '(1)Cosmo' entered and joined the game
+[2021-04-10 11:01:53]: (1)soleri1 [, Level 22]: Cosmo: morto¿?
