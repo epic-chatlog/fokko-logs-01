@@ -6130,3 +6130,7 @@
 [2021-04-10 08:10:21]: [D] Amirian [bad., Level 23]: devilbundy:
 [2021-04-10 08:10:21]: ERROR. [404, Level 41]: xD
 [2021-04-10 08:10:25]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-10 08:10:28]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-10 08:10:29]:   [, Level 0]: devilbundy: xddddddddddddddd
+[2021-04-10 08:10:29]: (2)ChillerDrago [Chilli.*, Level 34]: rwas is denn hier los
+[2021-04-10 08:10:31]: [D] Amirian [bad., Level 23]: devilbundy:
