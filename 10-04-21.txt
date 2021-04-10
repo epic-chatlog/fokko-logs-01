@@ -10293,3 +10293,5 @@
 [2021-04-10 12:43:43]:   [, Level 0]: [D] Hunter.exe: Swarfey: bro
 [2021-04-10 12:43:44]: Flipper [, Level 15]: shiro!
 [2021-04-10 12:43:45]: (1)cookie [, Level 3]: Shiro.:  no im a frend why
+[2021-04-10 12:43:56]: Nudelsaft c: [FookinLads, Level 0]: (1)[D] Hunter.e: denkst du ich geh durch die halbe map durch um dir zu helfen
+[2021-04-10 12:43:56]: (1)cookie [, Level 3]: Shiro.:  no
