@@ -7885,3 +7885,4 @@
 [2021-04-10 09:51:47]: ***  [, Level 0]: 'nameless tee' finished the special race!
 [2021-04-10 09:51:51]: ***  [, Level 0]: 'weqe helper' finished the special race!
 [2021-04-10 09:51:53]: ***  [, Level 0]: 'hhh3' entered and joined the game
+[2021-04-10 09:51:55]: NidardoHD [FlexTape, Level 0]: [A] Dotsy: ys
