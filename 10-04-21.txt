@@ -9459,3 +9459,6 @@
 [2021-04-10 11:39:14]: |HolyHo| [, Level 0]: SanoreX: disconnect him
 [2021-04-10 11:39:16]: [D] El patron [, Level 0]: Zephir™: so gay
 [2021-04-10 11:39:18]: cookie [, Level 18]: Marcisten Dummy:  np
+[2021-04-10 11:39:26]: SanoreX [Chilli.*, Level 27]: |HolyHo|: I cant disconnect only he can timeout
+[2021-04-10 11:39:29]: SanoreX [Chilli.*, Level 27]: look him's ping
+[2021-04-10 11:39:36]: |HolyHo| [, Level 0]: SanoreX:
