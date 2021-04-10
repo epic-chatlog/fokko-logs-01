@@ -12187,3 +12187,4 @@
 [2021-04-10 16:55:22]: ***  [, Level 0]: 'σмєтнιηg' changed name to 'S Y T H N'
 [2021-04-10 16:55:25]: ***  [, Level 0]: 'Mike Wazowski' changed name to 'нυƨнıκε'
 [2021-04-10 16:55:40]: ***  [, Level 0]: 'cunt' has left the game
+[2021-04-10 16:57:43]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
