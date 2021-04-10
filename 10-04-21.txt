@@ -4080,3 +4080,5 @@
 [2021-04-10 05:59:55]: SoulyD [, Level 47]: aaj
 [2021-04-10 05:59:59]: Falco641 [.bad, Level 19]: another shortcut
 [2021-04-10 06:00:03]: WarHammer [DogParty, Level 26]: lag
+[2021-04-10 06:00:19]: ***  [, Level 0]: 'Kiøn1029' finished the special race!
+[2021-04-10 06:00:19]: ***  [, Level 0]: 'kiøn1029' finished the special race!
