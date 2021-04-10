@@ -11239,3 +11239,4 @@
 [2021-04-10 14:26:50]: iMxtteo [DogParty, Level 27]: e
 [2021-04-10 14:27:42]: iMxtteo [DogParty, Level 27]: ReXi: wieso sollte ich kommen
 [2021-04-10 14:27:43]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-10 14:27:50]: ***  [, Level 0]: 'bruh' entered and joined the game
