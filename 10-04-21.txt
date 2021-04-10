@@ -11026,3 +11026,5 @@
 [2021-04-10 14:09:32]: [D] El patron [, Level 0]: ghost stop
 [2021-04-10 14:09:35]: ***  [, Level 0]: 'supergamer300' has left the game
 [2021-04-10 14:09:37]: ***  [, Level 0]: 'fitz' has left the game
+[2021-04-10 14:09:56]: [D] El patron [, Level 0]: mateo stop
+[2021-04-10 14:09:59]: iMxtteo [DogParty, Level 27]: I like turtles.
