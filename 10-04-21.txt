@@ -4073,3 +4073,7 @@
 [2021-04-10 05:59:33]: ***  [, Level 0]: New record:  2.30 second(s) better.
 [2021-04-10 05:59:36]: ***  [, Level 0]: mamikral011 finished in: 2 minute(s) 20.34 second(s)
 [2021-04-10 05:59:36]: ***  [, Level 0]: New record: 40.88 second(s) better.
+[2021-04-10 05:59:40]: Falco641 [.bad, Level 19]: look
+[2021-04-10 05:59:40]: mamikral011 [DogParty, Level 21]: WarHammer:
+[2021-04-10 05:59:41]: Falco641 [.bad, Level 19]: shortcuts
+[2021-04-10 05:59:47]: mamikral011 [DogParty, Level 21]: Tziys*: 1 jump var dur bi
