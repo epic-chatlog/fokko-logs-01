@@ -6694,3 +6694,11 @@
 [2021-04-10 08:43:30]: ***  [, Level 0]: 'rafel' joined the game
 [2021-04-10 08:43:38]: ***  [, Level 0]: 'rafel' joined the spectators
 [2021-04-10 08:43:40]: hhh3 [, Level 48]: kais: taser = 1 hours jail xdDD
+[2021-04-10 08:43:41]: ***  [, Level 0]: 'rafel' joined the game
+[2021-04-10 08:43:42]: (1)ChillerDrago [Chilli.*, Level 33]: du verlierst es eh nur
+[2021-04-10 08:43:44]: ***  [, Level 0]: 'MORFY' has left the game
+[2021-04-10 08:43:46]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-10 08:43:49]: hhh3 [, Level 48]: kais: 10 level taser = 1 hours jail xdDD
+[2021-04-10 08:43:50]: ***  [, Level 0]: 'rafel' joined the game
+[2021-04-10 08:43:50]: Souly [, Level 60]: (1)ChillerDrago: im making a generic_unhookables edit rn, its like a mix of the 0.6 and 0.7 ones
+[2021-04-10 08:43:51]: hmmmmmm [, Level 12]: (2)ChillerDrago: yes but i want just deposit my moeny
