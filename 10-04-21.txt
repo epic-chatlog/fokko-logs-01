@@ -7792,3 +7792,7 @@
 [2021-04-10 09:45:12]: ***  [, Level 0]: 'Czeburson' entered and joined the game
 [2021-04-10 09:45:19]: ***  [, Level 0]: 'SoulyD' entered and joined the game
 [2021-04-10 09:45:29]: HardreenClutch [, Level 57]: taco bell:
+[2021-04-10 09:45:49]: (1)soleri1 [, Level 22]: help please
+[2021-04-10 09:45:52]: Good man [Drunks, Level 30]: HardreenClutch: wtf
+[2021-04-10 09:45:53]: HardreenClutch [, Level 57]: taco bell:  thx
+[2021-04-10 09:45:55]: [D] taco bell [, Level 6]: np
