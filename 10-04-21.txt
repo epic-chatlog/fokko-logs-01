@@ -494,3 +494,5 @@
 [2021-04-10 01:22:33]: kais [, Level 65]: missed it
 [2021-04-10 01:22:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-10 01:22:47]: ***  [, Level 0]: 'A player' has left the game
+[2021-04-10 01:23:08]: kais [, Level 65]: GAYYY
+[2021-04-10 01:23:13]: ***  [, Level 0]: Jerry is on a killing spree with 5 blocks
