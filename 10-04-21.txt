@@ -11358,3 +11358,5 @@
 [2021-04-10 14:41:57]: ***  [, Level 0]: 'Isegrin' entered and joined the game
 [2021-04-10 14:42:14]: ReXi [, Level 16]: iMxtteo: wieso schlägst du dich nicht mit anderen
 [2021-04-10 14:42:22]: iMxtteo [DogParty, Level 27]: ReXi: wozu
+[2021-04-10 14:42:37]: ReXi [, Level 16]: ist sinnlos oder
+[2021-04-10 14:42:40]: iMxtteo [DogParty, Level 27]: habe mit niemandem aus meinem umkreis stress oder so
