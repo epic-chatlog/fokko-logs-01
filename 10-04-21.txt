@@ -6708,3 +6708,4 @@
 [2021-04-10 08:44:02]: ***  [, Level 0]: 'rafel' joined the spectators
 [2021-04-10 08:44:04]: (1)ChillerDrago [|*KoG*|, Level 33]: geh zur bank NidardoHD
 [2021-04-10 08:44:06]: ***  [, Level 0]: 'rafel' has left the game
+[2021-04-10 08:44:13]: ***  [, Level 0]: (1)ERROR finished in: 8 minute(s)  8.42 second(s)
