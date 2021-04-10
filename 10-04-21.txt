@@ -10301,3 +10301,5 @@
 [2021-04-10 12:44:18]: ***  [, Level 0]: 'nennydoq' has left the game
 [2021-04-10 12:44:21]: ***  [, Level 0]: 'RoberGN' has left the game
 [2021-04-10 12:44:25]: (1)cookie [, Level 3]: Shiro.:  ask him
+[2021-04-10 12:44:38]: (1)cookie [, Level 3]: Shiro.:  come one
+[2021-04-10 12:44:41]: Flipper [, Level 15]: cookie i cant sorry
