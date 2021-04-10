@@ -7605,3 +7605,5 @@
 [2021-04-10 09:32:00]: ***  [, Level 0]: 'Saarsolum' entered and joined the game
 [2021-04-10 09:32:06]: УБИВАТЬ! [, Level 0]: noobs)
 [2021-04-10 09:32:16]: cookie [, Level 18]: hhh3:  why you help him
+[2021-04-10 09:32:29]: ***  [, Level 0]: nameless is on a killing spree with 5 blocks
+[2021-04-10 09:32:39]: cookie [, Level 18]: NidardoHD:  help
