@@ -6014,3 +6014,6 @@
 [2021-04-10 08:02:41]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-10 08:02:43]: hmmmmmm [, Level 12]: Amirian: ok ok np
 [2021-04-10 08:02:45]: El patron [, Level 0]: Fearless: come pls
+[2021-04-10 08:02:51]: [D] Amirian [, Level 23]: yes
+[2021-04-10 08:02:52]: mamikral011 [DogParty, Level 21]: El patron: help or war
+[2021-04-10 08:02:53]: mamikral011 [DogParty, Level 21]: war
