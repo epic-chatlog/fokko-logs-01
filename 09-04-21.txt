@@ -13854,3 +13854,5 @@
 [2021-04-09 22:36:33]: ***  [, Level 0]: '[D] taco bell' has left the game (Timeout Protection over)
 [2021-04-09 22:37:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-09 22:39:21]: dat boi [, Level 0]: daddy
+[2021-04-09 22:42:06]: ***  [, Level 0]: 'giana' has left the game
+[2021-04-09 22:42:08]: ***  [, Level 0]: 'dat boi' has left the game
