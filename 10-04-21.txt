@@ -9564,3 +9564,5 @@
 [2021-04-10 11:52:06]: ***  [, Level 0]: 'flappy.*' has left the game (Timeout)
 [2021-04-10 11:52:23]: (3)cookie [, Level 0]: Fearless:  can you help me
 [2021-04-10 11:52:29]: (3)cookie [, Level 0]: idk who hook me hear
+[2021-04-10 11:52:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-10 11:52:43]: ***  [, Level 0]: 'nennydoq' has left the game
