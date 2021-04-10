@@ -10680,3 +10680,4 @@
 [2021-04-10 13:22:14]: ***  [, Level 0]: 'El patron' finished the special race!
 [2021-04-10 13:22:24]: Flipper [, Level 15]: stop
 [2021-04-10 13:22:26]: Flipper [, Level 15]: pls
+[2021-04-10 13:22:39]: Falco642 [, Level 3]: |HolyHo|: y u block dummy xd
