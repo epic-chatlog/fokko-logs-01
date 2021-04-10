@@ -469,3 +469,6 @@
 [2021-04-10 01:19:44]: ***  [, Level 0]: 'comic' left the minigame 'Survival'
 [2021-04-10 01:19:45]: kais [, Level 65]: my taser freeze for 0.1sec
 [2021-04-10 01:19:46]: ***  [, Level 0]: (1)ChillerDragon is on a killing spree with 10 blocks
+[2021-04-10 01:19:57]: ***  [, Level 0]: 'A player' entered and joined the game
+[2021-04-10 01:19:57]: (1)ビール|Ze [Drunks, Level 15]: bruh: dont worry go
+[2021-04-10 01:19:59]: (2)ChillerDrago [Chilli.*, Level 34]: ik
