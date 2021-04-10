@@ -6359,3 +6359,5 @@
 [2021-04-10 08:24:47]: ***  [, Level 0]: 'koro' has left the game (Timeout Protection over)
 [2021-04-10 08:24:47]: ***  [, Level 0]: 'Keø' has left the game (Timeout Protection over)
 [2021-04-10 08:24:50]: nennybaba [, Level 0]: yat aşşa
+[2021-04-10 08:25:01]: Amirian [bad., Level 29]: taco bell:
+[2021-04-10 08:25:02]: [D] El patron [, Level 0]: (2)ChillerDrago:
