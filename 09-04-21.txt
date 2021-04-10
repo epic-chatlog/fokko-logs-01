@@ -13643,3 +13643,9 @@
 [2021-04-09 21:22:52]: taco bell [, Level 4]: I like turtles.
 [2021-04-09 21:23:00]: taco bell [, Level 4]: I DO NOT LIKE TURTLES
 [2021-04-09 21:23:59]: ***  [, Level 0]: Successfully logged in
+[2021-04-09 21:24:03]: Nudelsaft c: [FookinLads, Level 37]: https://google.com
+[2021-04-09 21:24:04]: taco bell [, Level 4]: does it work now
+[2021-04-09 21:24:06]: Nudelsaft c: [FookinLads, Level 37]: a
+[2021-04-09 21:24:08]: Nudelsaft c: [FookinLads, Level 37]: b
+[2021-04-09 21:24:10]: Nudelsaft c: [FookinLads, Level 37]: wait
+[2021-04-09 21:24:12]: taco bell [, Level 4]: doesn't
