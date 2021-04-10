@@ -10857,3 +10857,6 @@
 [2021-04-10 13:48:52]: ***  [, Level 0]: '|HolyHo|°' has left the game
 [2021-04-10 13:49:10]: power [TrRShClNrRs, Level 0]: im a nice guy drunk   c:
 [2021-04-10 13:49:19]: drunk [, Level 0]: and i am drunk
+[2021-04-10 13:49:30]: power [TrRShClNrRs, Level 0]: and i am.. iron man..
+[2021-04-10 13:49:32]: ***  [, Level 0]: 'bruh' has left the game
+[2021-04-10 13:49:32]: ***  [, Level 0]: 'rayen' has left the game
