@@ -11599,3 +11599,8 @@
 [2021-04-10 15:08:28]: ReXi [, Level 16]: Hunter.exe: bist du ein junge?
 [2021-04-10 15:08:32]: iMxtteo [DogParty, Level 27]: nene
 [2021-04-10 15:08:38]: ReXi [, Level 16]: iMxtteo: was nene
+[2021-04-10 15:08:42]: ***  [, Level 0]: BULLETBOT is on a killing spree with 5 blocks
+[2021-04-10 15:08:42]: Hunter.exe [DogParty, Level 36]: ReXi: wer weiß
+[2021-04-10 15:08:47]: ***  [, Level 0]: '(1)nameless tee' has left the game
+[2021-04-10 15:08:48]: ***  [, Level 0]: 'sleimi' has left the game
+[2021-04-10 15:08:48]: iMxtteo [DogParty, Level 27]: ReXi: ist ein affe
