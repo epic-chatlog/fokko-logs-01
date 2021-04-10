@@ -2893,3 +2893,7 @@
 [2021-04-10 04:36:47]: ***  [, Level 0]: 'Fearless' entered and joined the game
 [2021-04-10 04:36:51]: ***  [, Level 0]: 'uptoram' has left the game
 [2021-04-10 04:36:53]: ***  [, Level 0]: 'uptoram' entered and joined the game
+[2021-04-10 04:36:55]: Shy-ra. [, Level 0]: No game: ok merci
+[2021-04-10 04:36:56]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-10 04:36:56]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-10 04:37:00]: kais [, Level 65]: No game: wtf, y'a le taser tier 8
