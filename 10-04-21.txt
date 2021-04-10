@@ -8454,3 +8454,14 @@
 [2021-04-10 10:33:23]: ERROR. [404, Level 56]: ?
 [2021-04-10 10:33:26]: ***  [, Level 0]: '|HolyHo|°' entered and joined the game
 [2021-04-10 10:33:26]: RM|Saud [Retard MNKY, Level 0]: [D] El patron:  u son of a bitch xD
+[2021-04-10 10:33:29]: ***  [, Level 0]: 'Kenshi™' started an auction on plot 4 for 1 money (plot expires on 14.04.2021 (17:00))
+[2021-04-10 10:33:29]: ***  [, Level 0]: Use '/plot buy 1 Kenshi™' to buy the plot
+[2021-04-10 10:33:30]: ERROR. [404, Level 56]: Lebly:  yeah
+[2021-04-10 10:33:30]: RM|Saud [Retard MNKY, Level 0]: [D] El patron:  NVM <3
+[2021-04-10 10:33:32]: ***  [, Level 0]: Plot 4 has been bought by 'ERROR.'
+[2021-04-10 10:33:34]: ERROR. [404, Level 56]: thanks
+[2021-04-10 10:33:38]: Kenshi™ [, Level 42]: ERROR.: np :D
+[2021-04-10 10:33:39]: ERROR. [404, Level 56]: Lebly:  yeah i farmed alot
+[2021-04-10 10:33:39]: ***  [, Level 0]: '|HolyHo|' entered and joined the game
+[2021-04-10 10:33:41]: coca [, Level 21]: bruh: dont help
+[2021-04-10 10:33:41]: ChillerDragon.* [|*KoG*|, Level 42]: lolololol
