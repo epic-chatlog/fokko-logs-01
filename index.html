@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <title>Nudel Datascience Labs</title>
+</head>
+<body>
+  <div class="container">
+    <canvas id="myChart"></canvas>
+    <p style="text-align: center;"></p>
+  </div>
+  
+  <script>
+    var lines;
+    fetch("https://raw.githubusercontent.com/epic-chatlog/fokko-logs/main/lines.l")
+        .then(a => a.text())
+        .then(b => {
+            lines = b;
+            loadChart();
+        })
+
+    // fetch("https://raw.githubusercontent.com/epic-chatlog/fokko-logs/main/lines.l", (res) => {
+    //   return res.text();
+    // }).then(a => {
+        // console.log(a)
+    //   lines = a;
+    //   loadChart();
+    // })
+    function parseLines(lines) {
+      var lines = lines.split("\n");
+      var _lineJson = {};
+      lines.forEach(a => {
+          b = a.split(" ")
+          _lineJson[`${b[b.length-1]}`] = b[b.length-2]
+      })
+      return _lineJson;
+    } 
+
+    function loadChart() {
+        let myChart = document.getElementById('myChart').getContext('2d');
+        _lines = parseLines(lines);
+        // console.log(Object.keys(_lines))
+        // Global Options
+        __lines = [];
+        linesKeys = [];
+        for (let i = 0; i < Object.keys(_lines).length; i++) {
+            if (Object.keys(_lines)[i] != "lines.l" && Object.keys(_lines)[i] != "total" && Object.keys(_lines)[i] != "getlines.sh" && Object.keys(_lines)[i] != "autocommit.sh" && Object.keys(_lines)[i] != "README.md") {
+                __lines.push(parseInt(_lines[Object.keys(_lines)[i]]))
+                // console.log(Object.keys(_lines[i]))
+                linesKeys.push(Object.keys(_lines)[i])
+            }
+                // console.log(Object.keys(_lines)[i] != "lines.l" && Object.keys(_lines)[i] != "total" && Object.keys(_lines)[i] != "getlines.sh" && Object.keys(_lines)[i] != "autocommit.sh" && Object.keys(_lines)[i] != "README.md")
+            
+        }
+        // console.log(__lines)
+        Chart.defaults.global.defaultFontFamily = 'Lato';
+        Chart.defaults.global.defaultFontSize = 18;
+        Chart.defaults.global.defaultFontColor = '#777';
+
+        let massPopChart = new Chart(myChart, {
+            type:'line', // bar, horizontalBar, pie, line, doughnut, radar, polarArea
+            data: {
+                labels: linesKeys,
+                datasets:[{
+                label: 'Messages',
+                data: __lines,
+                backgroundColor: 'darkgrey',
+                }]
+            },
+            options:{
+                title:{
+                display:true,
+                text: 'Message amount per day',
+                fontSize:25
+                },
+            }
+        });
+        document.querySelector("p").innerText = `Total amount of messages (since recording): ${_lines["total"]}`
+    }
+    </script>
+</body>
+</html>
