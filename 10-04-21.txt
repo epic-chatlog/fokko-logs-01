@@ -9689,3 +9689,9 @@
 [2021-04-10 12:07:03]: Tziys* [DogParty, Level 39]: |HolyHo|: noo
 [2021-04-10 12:07:22]: ***  [, Level 0]: 'ERROR' entered and joined the game
 [2021-04-10 12:07:22]: Tziys* [DogParty, Level 39]: |HolyHo|: you buy
+[2021-04-10 12:07:26]: ***  [, Level 0]: 'ERROR.' entered and joined the game
+[2021-04-10 12:07:26]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-10 12:07:26]: ***  [, Level 0]: 'Kezo' has left the game
+[2021-04-10 12:07:28]: |HolyHo| [, Level 18]: Tziys*: i alr have one
+[2021-04-10 12:07:29]: WarHammer [DogParty, Level 0]: RoberGN:
+[2021-04-10 12:07:33]: NidardoHD [FlexTape, Level 1]: hhh3: can I pass the police for farming
