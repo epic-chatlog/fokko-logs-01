@@ -7584,3 +7584,5 @@
 [2021-04-10 09:30:28]: HardreenClutch [, Level 57]: ERROR:  er hat gehofen weil alle anderen block war
 [2021-04-10 09:30:29]: ***  [, Level 0]: cunt's killing spree was ended by jeder (5 blocks)
 [2021-04-10 09:30:34]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-10 09:30:41]: [D] Cylox [, Level 0]: rq
+[2021-04-10 09:30:47]: ***  [, Level 0]: 'Axel ²' entered and joined the game
