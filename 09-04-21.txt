@@ -13707,3 +13707,5 @@
 [2021-04-09 21:30:50]: taco bell [, Level 4]: :(
 [2021-04-09 21:30:53]: ***  [, Level 0]: 'DiscordBridge' has left the game
 [2021-04-09 21:30:53]: ***  [, Level 0]: 'o' has left the game
+[2021-04-09 21:33:22]: ***  [, Level 0]: Successfully logged in
+[2021-04-09 21:33:26]: taco bell [, Level 4]: oh really
