@@ -1251,3 +1251,4 @@
 [2021-04-10 02:32:42]: ***  [š, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-10 02:32:49]: RM | Arin [Retard MNKY, Level 0]: kais:  funny right?
 [2021-04-10 02:32:53]: RM | Arin [Retard MNKY, Level 0]: with bonus vs non bonus
+[2021-04-10 02:33:28]: ***  [, Level 0]: 'GOLD' entered and joined the game
