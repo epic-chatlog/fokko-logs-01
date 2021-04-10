@@ -9720,3 +9720,7 @@
 [2021-04-10 12:09:12]: SoulyD [, Level 47]: i dont
 [2021-04-10 12:09:13]: ERROR [404, Level 74]: HeavyGeneral:  theres nothing to raid or is it?
 [2021-04-10 12:09:15]: |HolyHo| [, Level 18]: Souly: come
+[2021-04-10 12:09:35]: ***  [, Level 0]: '[D] Fearless' has left the game (Timeout)
+[2021-04-10 12:09:35]: ***  [, Level 0]: 'Fearless' has left the game (Timeout)
+[2021-04-10 12:09:37]: HeavyGeneral [FookinLads, Level 44]: i mean there is
+[2021-04-10 12:09:38]: HeavyGeneral [FookinLads, Level 44]: kinda
