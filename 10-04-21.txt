@@ -10893,3 +10893,7 @@
 [2021-04-10 13:52:59]: \\Syth [, Level 30]: drunk: dude
 [2021-04-10 13:53:11]: Flipper [, Level 15]: rocket
 [2021-04-10 13:53:12]: \\Syth [, Level 30]: drunk: im go farm
+[2021-04-10 13:53:23]: sleimi [team_sleimi, Level 0]: hello
+[2021-04-10 13:53:23]: Flipper [, Level 15]: move him
+[2021-04-10 13:53:26]: Flipper [, Level 15]: nono
+[2021-04-10 13:53:26]: NidardoHD [FlexTape, Level 2]: sleimi: jump
