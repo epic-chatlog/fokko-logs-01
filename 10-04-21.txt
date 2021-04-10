@@ -8073,3 +8073,6 @@
 [2021-04-10 10:07:30]: ***  [, Level 0]: 'ERROR' entered and joined the game
 [2021-04-10 10:07:41]: ***  [, Level 0]: '.S L E E P Y'' changed name to 'Mike Wazowski'
 [2021-04-10 10:07:41]:   [, Level 0]: ERROR: Lebly
+[2021-04-10 10:07:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-10 10:07:43]: ***  [, Level 0]: 'Lucas' entered and joined the game
+[2021-04-10 10:07:51]: ***  [, Level 0]: 'Kaptar' has left the game (Timeout)
