@@ -11741,3 +11741,6 @@
 [2021-04-10 15:20:52]: ***  [, Level 0]: 'Virus' has left the game
 [2021-04-10 15:20:58]: Hunter.exe [DogParty, Level 36]: ich gehe gleich zu meiner mutter :(
 [2021-04-10 15:21:05]: Hunter.exe [DogParty, Level 36]: sag ihm er soll aufhören
+[2021-04-10 15:21:08]: ReXi [, Level 0]: Hunter.exe: ja geh heulen
+[2021-04-10 15:21:10]: Hunter.exe [DogParty, Level 36]: sonst muss ich gleich off
+[2021-04-10 15:21:17]: Hunter.exe [DogParty, Level 36]: das ist nicht lustig :(
