@@ -5788,3 +5788,11 @@
 [2021-04-10 07:43:32]:   [, Level 0]: i am noob: jou are so noob
 [2021-04-10 07:43:34]: Amirian [, Level 29]: Zʷʰʸˀ:
 [2021-04-10 07:43:38]: [D] mamikral011 [DogParty, Level 26]: Cylox: ?
+[2021-04-10 07:43:41]: ***  [, Level 0]: 'i am noob' has left the game
+[2021-04-10 07:43:43]: ***  [, Level 0]: 'i am noob' entered and joined the game
+[2021-04-10 07:43:43]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-10 07:43:43]: Amirian [, Level 29]: Zʷʰʸˀ:pls help me
+[2021-04-10 07:43:44]: Cylox [, Level 31]: gel
+[2021-04-10 07:43:45]: Cylox [, Level 31]: dur
+[2021-04-10 07:43:47]: ***  [, Level 0]: '[D] Sad Guy' entered and joined the game
+[2021-04-10 07:43:47]: ***  [, Level 0]: '[D] Sad Guy' has left the game
