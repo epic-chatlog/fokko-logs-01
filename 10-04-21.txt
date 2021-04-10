@@ -2915,3 +2915,7 @@
 [2021-04-10 04:37:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-10 04:37:43]: kais [, Level 65]: No game: le tier 8 coute 300k
 [2021-04-10 04:37:45]: No game [Just me, Level 40]: kais: sa fais longtemps je me suis pas co
+[2021-04-10 04:37:53]: No game [Just me, Level 40]: kais: ah bon et je l'ai xD
+[2021-04-10 04:37:54]: ***  [, Level 0]: 'RM toxicdaddy' has left the game
+[2021-04-10 04:37:55]: Shy-ra. [, Level 0]: No game: c bon mais tu peux m'aider
+[2021-04-10 04:38:01]: kais [, Level 65]: No game: t'as le tier 8 ?
