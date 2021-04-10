@@ -1124,3 +1124,5 @@
 [2021-04-10 02:18:09]: ***  [, Level 0]: 'any²' has left the game
 [2021-04-10 02:18:09]: ***  [, Level 0]: 'any' has left the game
 [2021-04-10 02:18:13]: RM|Saud [Retard MNKY, Level 19]: kais:  see ?
+[2021-04-10 02:18:27]: (1)kais [, Level 58]: RM|Saud: yeah, he respawned and ? he choosed to do it
+[2021-04-10 02:18:28]: Cylox [♥, Level 0]: lag
