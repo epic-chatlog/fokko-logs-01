@@ -509,3 +509,6 @@
 [2021-04-10 01:23:55]: ***  [, Level 0]: 'Black Wolf' entered and joined the game
 [2021-04-10 01:23:56]: WarHammer' [DogParty, Level 16]: ChillerDragon:  WHO
 [2021-04-10 01:23:59]: (2)ChillerDrago [|*KoG*|, Level 34]: flappy:
+[2021-04-10 01:24:02]: (2)ChillerDrago [|*KoG*|, Level 34]: xD
+[2021-04-10 01:24:02]: ***  [, Level 0]: 'Sema1011' entered and joined the game
+[2021-04-10 01:24:04]: WarHammer' [DogParty, Level 16]: XD
