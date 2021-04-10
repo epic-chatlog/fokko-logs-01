@@ -5753,3 +5753,5 @@
 [2021-04-10 07:40:08]: ERROR. [404, Level 41]: xD
 [2021-04-10 07:40:09]: ***  [, Level 0]: ### 'ERROR.' Woof-Woof
 [2021-04-10 07:40:10]: El patron [, Level 0]: flappy: can we be friends
+[2021-04-10 07:40:30]: ***  [, Level 0]: 'toine' has left the game
+[2021-04-10 07:40:36]:   [, Level 0]: Sad Guy: rife
