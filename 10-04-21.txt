@@ -5084,3 +5084,6 @@
 [2021-04-10 06:59:53]: ***  [, Level 0]: 'CloudThis' has left the game
 [2021-04-10 06:59:56]: kais [, Level 65]: hmmmmmm: tu gagne +1 money par seconde de plus dans les tiles de la police
 [2021-04-10 06:59:57]: (1)ERROR [404, Level 74]: i far with 8 dummys xdddd
+[2021-04-10 06:59:59]: (1)ERROR [404, Level 74]: its fast
+[2021-04-10 07:00:02]: mamikral011 [DogParty, Level 21]: Amirian: come buy
+[2021-04-10 07:00:09]: mamikral011 [DogParty, Level 21]: [D] Amirian: i:D
