@@ -10141,3 +10141,7 @@
 [2021-04-10 12:30:14]:   [, Level 0]: Shiro.: koro
 [2021-04-10 12:30:29]: ***  [, Level 0]: 'Falco642' entered and joined the game
 [2021-04-10 12:30:38]: ***  [, Level 0]: HardreenClutch is on a killing spree with 15 blocks
+[2021-04-10 12:30:40]: ERROR. [404, Level 56]: will doch nur schlafen :(
+[2021-04-10 12:30:42]: Zephir™ [, Level 39]: HardreenClutch: ok
+[2021-04-10 12:30:44]: Hunter.exe [DogParty, Level 36]: ERROR: XD
+[2021-04-10 12:30:50]: HardreenClutch [, Level 57]: Zephir™:  fun
