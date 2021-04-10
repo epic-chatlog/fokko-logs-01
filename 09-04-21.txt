@@ -13376,3 +13376,5 @@
 [2021-04-09 18:07:52]: Kirito [, Level 40]: nrij
 [2021-04-09 18:07:52]: S Y T H N [DogParty, Level 37]: tjaahahaha
 [2021-04-09 18:07:53]: S Y T H N [DogParty, Level 37]: hahaahah
+[2021-04-09 18:08:37]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-09 18:08:41]: Kirito [, Level 40]: S Y T H N: ich müsste irgendwie hoch
