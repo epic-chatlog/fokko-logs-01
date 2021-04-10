@@ -3663,3 +3663,6 @@
 [2021-04-10 05:27:50]: ***  [, Level 0]: 'ZEUS' has left the game
 [2021-04-10 05:28:17]: Souly [, Level 60]: ez
 [2021-04-10 05:28:40]: ***  [, Level 0]: 'toine' has left the game
+[2021-04-10 05:28:50]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
+[2021-04-10 05:28:52]: bob weqe fan [Ape, Level 0]: 1v1 ???
+[2021-04-10 05:28:55]: Falco641 [.bad, Level 19]: ok
