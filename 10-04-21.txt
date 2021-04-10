@@ -9635,3 +9635,5 @@
 [2021-04-10 12:00:05]: ***  [, Level 0]: Chillingo is on a killing spree with 5 blocks
 [2021-04-10 12:00:21]: Fearless [Retard MNKY, Level 15]: gr
 [2021-04-10 12:00:22]: Fearless [Retard MNKY, Level 15]: GReeeN:
+[2021-04-10 12:00:32]: ***  [, Level 0]: Chillingo's killing spree was ended by SanoreX (6 blocks)
+[2021-04-10 12:00:35]: ***  [, Level 0]: '(2)cookie' has left the game
