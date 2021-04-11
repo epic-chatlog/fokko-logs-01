@@ -244,3 +244,5 @@
 [2021-04-11 03:31:07]: ***  [, Level 0]: 'comic' has left the game
 [2021-04-11 03:31:09]: ***  [, Level 0]: lenny is on a killing spree with 10 blocks
 [2021-04-11 03:31:10]: WarHammer [DogParty, Level 26]: (1)DiscordBridg:   hi discord
+[2021-04-11 03:31:22]: ***  [, Level 0]: ### 'Shiro.' xa-xa-xa-xa0))
+[2021-04-11 03:31:26]: ***  [, Level 0]: 'comic' entered and joined the game
