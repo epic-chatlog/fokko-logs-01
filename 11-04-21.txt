@@ -7771,3 +7771,4 @@
 [2021-04-11 11:42:43]: SanoreX [Chilli.*, Level 27]: Mista bombastic: wanna magic?
 [2021-04-11 11:42:43]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-11 11:42:49]: Mista bombastic [TrRShClNrRs, Level 40]: SanoreX: what magic?
+[2021-04-11 11:43:10]: SanoreX [Chilli.*, Level 27]: Mista bombastic: give shotgun
