@@ -7072,3 +7072,5 @@
 [2021-04-11 11:05:57]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: jobany urod
 [2021-04-11 11:06:02]: Hunter.exe [DogParty, Level 36]: ChillerDragon: wieso chillst du eigentlich jede nacht in meinem Haus
 [2021-04-11 11:06:09]: Hunter.exe [DogParty, Level 36]: ChillerDragon: farmst du mir gratis geld?
+[2021-04-11 11:06:18]: ***  [, Level 0]: 'Cosmo' has left the game
+[2021-04-11 11:06:18]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
