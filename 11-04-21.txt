@@ -1813,3 +1813,5 @@
 [2021-04-11 05:22:12]: ***  [, Level 0]: 'rayen' entered and joined the game
 [2021-04-11 05:22:15]: Foxie♥ [♥, Level 36]: Kirito: Fk
 [2021-04-11 05:22:15]: Kirito [, Level 40]: Foxie♥: so i see u not gonna help
+[2021-04-11 05:22:23]: Foxie♥ [♥, Level 36]: Kirito: i fkin had connection probs
+[2021-04-11 05:22:26]: Kirito [, Level 40]: oh
