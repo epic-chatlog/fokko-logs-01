@@ -1284,3 +1284,12 @@
 [2021-04-11 04:54:29]: SanoreX [Chilli.*, Level 27]: {(.)}  |  Raaaw: u nub
 [2021-04-11 04:54:31]: ***  [, Level 0]: {(.)}  |  Raaaw is on a killing spree with 5 blocks
 [2021-04-11 04:54:54]: weqe [669, Level 12]: 1: if u wont help me i dont want you here
+[2021-04-11 04:54:58]: ***  [, Level 0]: {(.)}  |  Raaaw's killing spree was ended by Anton (8 blocks)
+[2021-04-11 04:54:58]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-11 04:55:01]: weqe [669, Level 12]: do you understand 1
+[2021-04-11 04:55:04]: ***  [, Level 0]: '{(.)}  |  Raaaw' has left the game
+[2021-04-11 04:55:04]: ***  [, Level 0]: 'Ļåҕ | Tare' has left the game
+[2021-04-11 04:55:09]:   [, Level 0]: SanoreX: rq raaaw
+[2021-04-11 04:55:11]:   [, Level 0]: SanoreX: bitch
+[2021-04-11 04:55:12]: Axandos [, Level 0]: weqe:  meeeen
+[2021-04-11 04:55:15]: weqe [669, Level 12]: do you understand 1
