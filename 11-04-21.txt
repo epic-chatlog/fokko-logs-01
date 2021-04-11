@@ -521,3 +521,5 @@
 [2021-04-11 03:55:34]: ***  [, Level 0]: 'uptoram' has left the game
 [2021-04-11 03:55:45]: (1)SanoreX [Chilli.*, Level 22]: Nudelsaft c:: spawnblocker bitch
 [2021-04-11 03:55:47]: ***  [, Level 0]: Meetiteusz finished in: 3 minute(s) 33.52 second(s)
+[2021-04-11 03:56:01]: (1)SanoreX [Chilli.*, Level 22]: SanoreX:
+[2021-04-11 03:56:03]: keepertrain._. [, Level 30]: Maatiteusz: kurwaaaaaaa
