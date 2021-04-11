@@ -338,3 +338,9 @@
 [2021-04-11 03:38:59]: ***  [, Level 0]: 'keepertrain._.' entered and joined the game
 [2021-04-11 03:39:01]: Kaptar [, Level 0]: because
 [2021-04-11 03:39:05]: SanoreX [Chilli.*, Level 27]: get out
+[2021-04-11 03:39:16]: ***  [, Level 0]: 'Shutaz' has left the game
+[2021-04-11 03:39:23]: ***  [, Level 0]: 'coca' has left the game
+[2021-04-11 03:39:23]: ***  [, Level 0]: 'Good man' has left the game
+[2021-04-11 03:39:25]: ***  [, Level 0]: '(1)Good man' has left the game
+[2021-04-11 03:39:26]: any [404, Level 37]: rq
+[2021-04-11 03:39:29]: ZillyDreck [3, Level 0]: Bye! Come back if you need something.
