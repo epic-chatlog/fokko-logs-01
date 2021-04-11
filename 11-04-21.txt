@@ -2617,3 +2617,5 @@
 [2021-04-11 06:31:12]: ***  [, Level 0]: 'lolpoep' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-11 06:31:20]: soleri1 [, Level 22]: ç
 [2021-04-11 06:31:26]: |ΛnץOиe| [, Level 0]: Nooooooooooooooooooo
+[2021-04-11 06:31:28]: ***  [, Level 0]: lolpoep is on a killing spree with 5 blocks
+[2021-04-11 06:31:30]: ***  [, Level 0]: 'soleri1' joined the minigame 'Block', use '/block' to join aswell
