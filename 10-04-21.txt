@@ -13160,3 +13160,4 @@
 [2021-04-10 19:12:04]: Chips [R!FムE, Level 49]: get rekt
 [2021-04-10 19:12:08]: Zephir™ [, Level 39]: Xd GG
 [2021-04-10 19:12:17]: Noxl [.bad, Level 35]: S Y T H N: portl
+[2021-04-10 19:12:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
