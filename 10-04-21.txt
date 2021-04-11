@@ -13176,3 +13176,4 @@
 [2021-04-10 19:16:50]: ***  [, Level 0]: 'Chips' has been muted for 60 seconds
 [2021-04-10 19:16:52]: Zephir™ [, Level 39]: ow
 [2021-04-10 19:17:06]: ***  [, Level 0]: 'Noxl.' has left the game
+[2021-04-10 19:17:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
