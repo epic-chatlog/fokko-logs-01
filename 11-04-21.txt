@@ -6717,3 +6717,6 @@
 [2021-04-11 10:40:37]: (2)ChillerDrago [|*KoG*|, Level 45]: Error: invalid token
 [2021-04-11 10:40:40]: i am noob [Ape, Level 19]: coca
 [2021-04-11 10:40:42]: (2)ChillerDrago [|*KoG*|, Level 45]: Error: invalid token
+[2021-04-11 10:40:46]: (2)ChillerDrago [|*KoG*|, Level 45]: test
+[2021-04-11 10:40:53]: (2)ChillerDrago [|*KoG*|, Level 45]: test failed
+[2021-04-11 10:40:57]: ***  [, Level 0]: 'Kiøn1029' has left the game
