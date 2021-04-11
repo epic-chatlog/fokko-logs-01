@@ -2706,3 +2706,6 @@
 [2021-04-11 06:37:21]: ***  [, Level 0]: soleri1 is on a killing spree with 15 blocks
 [2021-04-11 06:37:22]: [D] keepertrain [FookinLads, Level 25]: XD
 [2021-04-11 06:37:26]: Zephir™ [, Level 39]: bruh xD
+[2021-04-11 06:37:31]: [D] keepertrain [FookinLads, Level 25]: yikes
+[2021-04-11 06:37:37]: ***  [, Level 0]: 'Kenshi™' entered and joined the game
+[2021-04-11 06:37:39]: ***  [, Level 0]: soleri1 is on a killing spree with 20 blocks
