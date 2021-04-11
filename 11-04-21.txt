@@ -269,3 +269,5 @@
 [2021-04-11 03:33:24]: ***  [, Level 0]: 'lenny' has left the game
 [2021-04-11 03:33:24]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
 [2021-04-11 03:33:26]: |ΛnץOиe| [, Level 43]: Shiro.: keske
+[2021-04-11 03:33:34]: ***  [, Level 0]: 'Kaptar' entered and joined the game
+[2021-04-11 03:33:35]: SanoreX.* [Chilli.*, Level 22]: AA
