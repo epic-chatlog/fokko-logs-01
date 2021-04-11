@@ -4706,3 +4706,5 @@
 [2021-04-11 08:43:43]: ***  [, Level 0]: 'Kaptar' has left the game
 [2021-04-11 08:43:45]: Tziys* [DogParty, Level 39]: [D] Cylox: evet
 [2021-04-11 08:44:17]: ***  [, Level 0]: 'Kloklo' has left the game
+[2021-04-11 08:44:59]: Fearless [Retard MNKY, Level 15]: run kid
+[2021-04-11 08:45:00]: ***  [, Level 0]: 'Roger' entered and joined the game
