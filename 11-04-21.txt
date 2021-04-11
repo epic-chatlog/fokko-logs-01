@@ -5503,3 +5503,9 @@
 [2021-04-11 09:30:10]: ***  [, Level 0]: New record:  0.44 second(s) better.
 [2021-04-11 09:30:19]: ***  [, Level 0]: peS finished in: 1 minute(s) 38.94 second(s)
 [2021-04-11 09:30:19]: ***  [, Level 0]: New record: 3 minute(s) 13.18 second(s) better.
+[2021-04-11 09:30:31]: K!ked [De}|{aBю, Level 62]: Zephir™: je t'emme wie sale pute
+[2021-04-11 09:30:32]: ***  [, Level 0]: 'darkstar2' has left the game
+[2021-04-11 09:30:32]: ***  [, Level 0]: 'darkstar' has left the game
+[2021-04-11 09:30:35]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
+[2021-04-11 09:30:35]: ***  [, Level 0]: 'i am noob' has left the game
+[2021-04-11 09:30:36]: ***  [, Level 0]: '62sj' changed name to '[D] Cylox'
