@@ -940,3 +940,5 @@
 [2021-04-11 04:32:25]: [D] keepertrain [, Level 25]: GReeeN: >>>
 [2021-04-11 04:32:30]: comic [comically, Level 14]: Hollow night: ay i love hollow knight
 [2021-04-11 04:32:32]: comic [comically, Level 14]: Hollow night: gud game
+[2021-04-11 04:32:41]: [D] keepertrain [, Level 25]: weqe:
+[2021-04-11 04:32:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
