@@ -2728,3 +2728,8 @@
 [2021-04-11 06:39:28]: ***  [, Level 0]: Chillingo is on a killing spree with 5 blocks
 [2021-04-11 06:39:34]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
 [2021-04-11 06:39:36]: ***  [, Level 0]: '(1)Warrior' entered and joined the game
+[2021-04-11 06:39:43]: ***  [, Level 0]: '[D] El patron' entered and joined the game
+[2021-04-11 06:39:44]: ***  [, Level 0]: '[₯]cLoud' has left the game
+[2021-04-11 06:39:48]: ***  [, Level 0]: 'hhh3' changed name to 'GODLIKe'
+[2021-04-11 06:39:48]: ***  [, Level 0]: 'hhnaut31' changed name to 'GODLIKe.'
+[2021-04-11 06:39:53]: ***  [, Level 0]: soleri1 is on a killing spree with 5 blocks
