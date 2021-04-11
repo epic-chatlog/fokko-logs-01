@@ -9872,3 +9872,5 @@
 [2021-04-11 13:20:31]: (1)ERROR. [404, Level 41]: so bad
 [2021-04-11 13:20:38]: |ΛnץOиe| [, Level 0]: xd
 [2021-04-11 13:20:43]: ***  [, Level 0]: 'fameless tee' has left the game
+[2021-04-11 13:20:46]: Hunter.exe [DogParty, Level 36]: |ΛnץOиe|: help if iam dead
+[2021-04-11 13:20:54]: |ΛnץOиe| [, Level 0]: WHY U KILL ME
