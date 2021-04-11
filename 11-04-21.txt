@@ -4143,3 +4143,6 @@
 [2021-04-11 08:12:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-11 08:12:44]: kais [, Level 65]: Kaptar: c'est pas un danger
 [2021-04-11 08:12:45]: Kezo [DogParty, Level 41]: (1)kais: down
+[2021-04-11 08:12:52]: Kaptar [, Level 24]: kais: je sais mais on sait jamais
+[2021-04-11 08:12:55]: [D] El patron [, Level 23]: Kirito:  come pls
+[2021-04-11 08:12:58]: Nudelsaft c: [FookinLads, Level 37]: kais: dont
