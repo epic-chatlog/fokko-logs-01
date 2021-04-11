@@ -444,3 +444,6 @@
 [2021-04-11 03:46:13]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [2021-04-11 03:46:23]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-11 03:47:26]: Swarfey [FookinLads, Level 0]: SanoreX: dont
+[2021-04-11 03:47:31]: Nudelsaft c: [FookinLads, Level 37]: SanoreX: war?
+[2021-04-11 03:47:34]: ***  [, Level 0]: 'Kaptar' has left the game
+[2021-04-11 03:47:36]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: u block me all time
