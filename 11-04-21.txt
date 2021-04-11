@@ -478,3 +478,7 @@
 [2021-04-11 03:52:01]: SanoreX [Chilli.*, Level 27]: )(
 [2021-04-11 03:52:21]: [D] keepertrain [, Level 25]: Meetiteusz: czekaj
 [2021-04-11 03:52:27]: [D] keepertrain [, Level 25]: idziesz po endlessa?
+[2021-04-11 03:52:32]: Maatiteusz [TrRShClNrRs, Level 35]: keepertrain._.: ta
+[2021-04-11 03:52:35]: ***  [, Level 0]: 'peS' entered and joined the game
+[2021-04-11 03:52:37]: ***  [, Level 0]: 'uptoram' entered and joined the game
+[2021-04-11 03:52:39]: [D] keepertrain [, Level 25]: Maatiteusz: czekaj na mnie
