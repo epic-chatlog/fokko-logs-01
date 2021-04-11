@@ -6672,3 +6672,4 @@
 [2021-04-11 10:37:24]: (1)ChillerDrago [|*KoG*|, Level 34]: heiße chillerdragons in deiner nähe Hunter.exe
 [2021-04-11 10:37:24]: coca [, Level 22]: JustRace: oh fuck .
 [2021-04-11 10:37:27]: (1)ChillerDrago [|*KoG*|, Level 34]: münchen Hunter.exe
+[2021-04-11 10:37:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
