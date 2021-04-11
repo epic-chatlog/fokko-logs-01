@@ -5928,3 +5928,4 @@
 [2021-04-11 09:46:51]: SanoreX [Chilli.*, Level 27]: ok
 [2021-04-11 09:46:52]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 50.78 second(s)
 [2021-04-11 09:46:53]: ***  [, Level 0]: 'SanoreX' has left the game
+[2021-04-11 09:47:02]: ***  [, Level 0]: 'WarHammer' has left the game
