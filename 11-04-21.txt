@@ -174,3 +174,5 @@
 [2021-04-11 03:26:21]: WarHammer' [DogParty, Level 25]: shiro
 [2021-04-11 03:26:30]: WarHammer' [DogParty, Level 25]: lag
 [2021-04-11 03:26:35]: WarHammer' [DogParty, Level 25]: laag
+[2021-04-11 03:26:47]: ***  [, Level 0]: 'uptoram' has left the game
+[2021-04-11 03:26:54]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
