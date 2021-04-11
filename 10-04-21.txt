@@ -13312,3 +13312,4 @@
 [2021-04-10 20:24:05]: ***  [, Level 0]: 'ERROR.' entered and joined the game
 [2021-04-10 20:24:23]: ***  [, Level 0]: '(1)ERROR.' entered and joined the game
 [2021-04-10 20:24:29]: ***  [, Level 0]: 'Msinik' entered and joined the game
+[2021-04-10 20:25:10]: ***  [, Level 0]: '(1)Msinik' has left the game (Timeout)
