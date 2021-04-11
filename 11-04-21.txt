@@ -265,3 +265,7 @@
 [2021-04-11 03:33:04]: ZillyDreck [3, Level 0]: Bye! Come back if you need something.
 [2021-04-11 03:33:05]: Shiro. [LeaveMe., Level 42]: viens |ΛnץOиe| baby
 [2021-04-11 03:33:12]: SanoreX.* [Chilli.*, Level 22]: kaldı
+[2021-04-11 03:33:21]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-11 03:33:24]: ***  [, Level 0]: 'lenny' has left the game
+[2021-04-11 03:33:24]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
+[2021-04-11 03:33:26]: |ΛnץOиe| [, Level 43]: Shiro.: keske
