@@ -8196,3 +8196,7 @@
 [2021-04-11 12:01:00]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
 [2021-04-11 12:01:06]: ***  [, Level 0]: 'GODLIKe' changed name to 'JAVELIN'
 [2021-04-11 12:01:07]: Hunter.exe [DogParty, Level 36]: Kezo: buy at Fokkonaut
+[2021-04-11 12:01:12]: ***  [, Level 0]: 'JAVELIN' changed name to 'Javelin'
+[2021-04-11 12:01:13]: Kezo [DogParty, Level 41]: Hunter.exe: how
+[2021-04-11 12:01:14]: |ΛnץOиe| [, Level 0]: Kenshi™: t'as quel age deja?
+[2021-04-11 12:01:18]: Hunter.exe [DogParty, Level 36]: Kezo: dm him
