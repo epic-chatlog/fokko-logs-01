@@ -1834,3 +1834,5 @@
 [2021-04-11 05:24:00]: ***  [, Level 0]: '(1)coca' has left the game
 [2021-04-11 05:24:07]: SanoreX [Chilli.*, Level 27]: Kirito: portal to endless plz
 [2021-04-11 05:24:15]: Foxie♥ [♥, Level 36]: Kirito: no granade xd
+[2021-04-11 05:24:33]: ***  [, Level 0]: 'SanoreX' has left the game
+[2021-04-11 05:24:33]: ***  [, Level 0]: 'SanoreX.*' has left the game
