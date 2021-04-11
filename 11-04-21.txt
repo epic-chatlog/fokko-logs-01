@@ -777,3 +777,5 @@
 [2021-04-11 04:21:46]: ***  [, Level 0]: GReeeN is on a killing spree with 10 blocks
 [2021-04-11 04:21:56]: keepertrain._. [, Level 30]: soleri1: wait for my dummy
 [2021-04-11 04:22:00]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
+[2021-04-11 04:22:04]: ***  [, Level 0]: 'BC|kakashi' joined the spectators
+[2021-04-11 04:22:06]: ***  [, Level 0]: 'Got Drip' has left the game
