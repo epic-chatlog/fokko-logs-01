@@ -11401,3 +11401,7 @@
 [2021-04-11 15:11:44]: ***  [, Level 0]: 'Who B)' has left the game
 [2021-04-11 15:11:45]: Kirito [, Level 40]: fokkonaut: lass das xD
 [2021-04-11 15:11:52]: |MıssOяchiĐ| [, Level 48]: Kezo: i go byee
+[2021-04-11 15:11:55]: fokkonaut [, Level 102]: Kirito:
+[2021-04-11 15:11:57]: Kirito [, Level 40]: fokkonaut: wie meinst  du ? wo kann man bauen?
+[2021-04-11 15:12:01]: fokkonaut [, Level 102]: direkt vor der tür
+[2021-04-11 15:12:03]: fokkonaut [, Level 102]: laser
