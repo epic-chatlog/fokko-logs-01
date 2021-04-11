@@ -2249,3 +2249,5 @@
 [2021-04-11 05:57:11]: (1)kais [, Level 58]: ERROR: stirb ?
 [2021-04-11 05:57:11]: ***  [, Level 0]: 'LOL:| [BG]' entered and joined the game
 [2021-04-11 05:57:14]: ***  [, Level 0]: 'LOL:| [BG]' has left the game
+[2021-04-11 05:57:16]: ERROR [404, Level 56]: die is stirb kais
+[2021-04-11 05:57:18]: Swarfey [FookinLads, Level 60]: |MıssOяchiĐ|:
