@@ -13377,3 +13377,4 @@
 [2021-04-10 23:08:13]: ***  [, Level 0]: '(1)Good man' has left the game
 [2021-04-10 23:08:16]: (3)Saud [MNKY, Level 12]: ok
 [2021-04-10 23:08:23]: (3)Saud [MNKY, Level 12]: get a dummy
+[2021-04-10 23:08:32]: coca [, Level 21]: (3)Saud: wait
