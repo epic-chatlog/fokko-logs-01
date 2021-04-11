@@ -6879,3 +6879,7 @@
 [2021-04-11 10:51:13]: ***  [, Level 0]: 'Lucas' has left the game
 [2021-04-11 10:51:20]: Zephir™ [, Level 39]: coca: im sorry but if u war all my friend i can't help u
 [2021-04-11 10:51:24]: any [404, Level 38]: coca: u helped my eneies
+[2021-04-11 10:51:26]: minecraft [, Level 13]: you stole my place Hunter.exe
+[2021-04-11 10:51:28]: ***  [, Level 0]: 'Razor`iPro' entered and joined the game
+[2021-04-11 10:51:36]: ***  [, Level 0]: 'soleri1' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-11 10:51:36]: minecraft [, Level 13]: pls stop Hunter.exe
