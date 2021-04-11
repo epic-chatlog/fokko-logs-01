@@ -9863,3 +9863,4 @@
 [2021-04-11 13:19:24]: ***  [, Level 0]: 'tee.' has left the game
 [2021-04-11 13:19:24]: ***  [, Level 0]: 'tee' has left the game
 [2021-04-11 13:19:32]: GoatLike [, Level 10]: I like turtles.
+[2021-04-11 13:19:40]: GoatLike [, Level 10]: bye bye guys
