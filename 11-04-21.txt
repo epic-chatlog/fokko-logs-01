@@ -436,3 +436,6 @@
 [2021-04-11 03:44:53]: ***  [, Level 0]: 'flappy.*' entered and joined the game
 [2021-04-11 03:44:56]: ***  [, Level 0]: '(1)flappy.*' has left the game (Timeout)
 [2021-04-11 03:45:43]: [D] keepertrain [, Level 25]: xd
+[2021-04-11 03:45:47]: Anton [, Level 62]: Nidardo.:
+[2021-04-11 03:45:51]: Nidardo. [TOP, Level 3]: Anton:
+[2021-04-11 03:45:56]: Anton [, Level 62]: Nidardo.: dummy
