@@ -108,3 +108,6 @@
 [2021-04-11 03:20:24]: ***  [, Level 0]: 'uptoram' has left the game
 [2021-04-11 03:20:26]: ***  [, Level 0]: 'uptoram' entered and joined the game
 [2021-04-11 03:20:28]: coca [Good guy, Level 22]: soleri1: help
+[2021-04-11 03:20:36]: ***  [, Level 0]: 'uptoram' has left the game
+[2021-04-11 03:20:38]: ***  [, Level 0]: 'uptoram' entered and joined the game
+[2021-04-11 03:20:38]: coca [Good guy, Level 22]: soleri1: help
