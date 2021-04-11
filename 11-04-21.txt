@@ -2246,3 +2246,6 @@
 [2021-04-11 05:56:48]:   [, Level 0]: (2)cookie: hahaha
 [2021-04-11 05:56:49]: (1)kais [, Level 58]: (1)ERROR: die ? you mean the german for the ? ;3
 [2021-04-11 05:56:55]: ERROR [404, Level 56]: stirb (1)kais
+[2021-04-11 05:57:11]: (1)kais [, Level 58]: ERROR: stirb ?
+[2021-04-11 05:57:11]: ***  [, Level 0]: 'LOL:| [BG]' entered and joined the game
+[2021-04-11 05:57:14]: ***  [, Level 0]: 'LOL:| [BG]' has left the game
