@@ -6721,3 +6721,4 @@
 [2021-04-11 10:40:53]: (2)ChillerDrago [|*KoG*|, Level 45]: test failed
 [2021-04-11 10:40:57]: ***  [, Level 0]: 'Kiøn1029' has left the game
 [2021-04-11 10:41:09]: (2)ChillerDrago [|*KoG*|, Level 45]: Error: invalid token
+[2021-04-11 10:41:18]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
