@@ -3295,3 +3295,6 @@
 [2021-04-11 07:17:17]: ***  [, Level 0]: 'NidardoHD' has left the game (Timeout)
 [2021-04-11 07:17:17]: ***  [, Level 0]: 'Teestar' has left the game (Timeout)
 [2021-04-11 07:17:18]: Kaptar [, Level 0]: coca cf
+[2021-04-11 07:17:26]: coca [, Level 22]: nice
+[2021-04-11 07:17:29]: Zephir™ [, Level 39]: Saud:
+[2021-04-11 07:17:36]: Lucas [THECEPS, Level 34]: soleri1: come
