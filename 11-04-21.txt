@@ -6040,3 +6040,6 @@
 [2021-04-11 09:53:38]: ***  [, Level 0]: '(1)coca' entered and joined the game
 [2021-04-11 09:53:40]: just tae [, Level 0]: oh
 [2021-04-11 09:53:42]: NoobEmir [AoeSBrother, Level 14]: go
+[2021-04-11 09:53:57]: WarHammer [DogParty, Level 0]: 3-1
+[2021-04-11 09:53:59]: WarHammer [DogParty, Level 0]: 3-2
+[2021-04-11 09:54:00]: NoobEmir [AoeSBrother, Level 14]: 3 2
