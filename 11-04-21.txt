@@ -1798,3 +1798,4 @@
 [2021-04-11 05:21:10]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-11 05:21:12]: Andrew [, Level 47]: Kirito: omg
 [2021-04-11 05:21:14]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-11 05:21:27]: ***  [, Level 0]: 'nameless tee' has left the game
