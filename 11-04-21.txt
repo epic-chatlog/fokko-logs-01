@@ -6586,3 +6586,8 @@
 [2021-04-11 10:32:10]: cunt [, Level 0]: ReXi: hatte den eben geändert
 [2021-04-11 10:32:12]: Hunter.exe [DogParty, Level 36]: ReXi: warum lügst du mich an?
 [2021-04-11 10:32:15]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
+[2021-04-11 10:32:18]: (2)ChillerDrago [|*KoG*|, Level 45]: Error: missing command (usage: '/whisper name token command')
+[2021-04-11 10:32:21]: ReXi [, Level 0]: Hunter.exe: was willst du
+[2021-04-11 10:32:21]: ☺ [, Level 6]: je lag un peu
+[2021-04-11 10:32:23]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
+[2021-04-11 10:32:26]: Zephir™ [, Level 39]: Hunter.exe: wtf u want again war
