@@ -238,3 +238,5 @@
 [2021-04-11 03:30:30]: comic [comically, Level 14]: SanoreX: soz
 [2021-04-11 03:30:32]: ***  [xýÿÿÿÿÿÿ, Level 0]: 'Shiro,' has left the game
 [2021-04-11 03:30:37]: any [404, Level 37]: ok fleme de continuer
+[2021-04-11 03:30:50]: ***  [™ýÿÿ, Level 0]: '(1)fitz' entered and joined the game
+[2021-04-11 03:31:00]: ***  [, Level 0]: 'fitz' has left the game (Timeout)
