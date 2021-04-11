@@ -683,3 +683,7 @@
 [2021-04-11 04:11:46]: [D] peS [, Level 0]: fitz: up
 [2021-04-11 04:11:46]: ***  [, Level 0]: soleri1 finished in: 14 minute(s) 54.02 second(s)
 [2021-04-11 04:11:59]: SanoreX [Chilli.*, Level 27]: Nudelsaft c:: dont block me and dont help me
+[2021-04-11 04:12:08]: keepertrain._. [, Level 30]: soleri1: wait
+[2021-04-11 04:12:14]: Nudelsaft c: [FookinLads, Level 37]: SanoreX: u just tried to afk block my dummy
+[2021-04-11 04:12:16]: ***  [, Level 0]: '✯ Aslak ✯' has left the game
+[2021-04-11 04:12:16]: Nudelsaft c: [FookinLads, Level 37]: SanoreX: so no
