@@ -1477,3 +1477,5 @@
 [2021-04-11 05:04:46]: ***  [, Level 0]: 'XxxBgLucas' entered and joined the game
 [2021-04-11 05:04:48]: ***  [, Level 0]: 'XxxBgLucas' has left the game
 [2021-04-11 05:04:49]: El patron [, Level 28]: soleri1: help or war
+[2021-04-11 05:04:55]: ***  [, Level 0]: Nudelsaft c: is on a killing spree with 30 blocks
+[2021-04-11 05:04:59]:   [, Level 0]: SanoreX.*: (wanted
