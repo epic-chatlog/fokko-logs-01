@@ -447,3 +447,6 @@
 [2021-04-11 03:47:31]: Nudelsaft c: [FookinLads, Level 37]: SanoreX: war?
 [2021-04-11 03:47:34]: ***  [, Level 0]: 'Kaptar' has left the game
 [2021-04-11 03:47:36]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: u block me all time
+[2021-04-11 03:47:42]: Nudelsaft c: [FookinLads, Level 37]: ok war
+[2021-04-11 03:47:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-11 03:47:43]: ***  [, Level 0]: 'Got Drip' entered and joined the game
