@@ -5798,3 +5798,7 @@
 [2021-04-11 09:41:14]:   [, Level 0]: WarHammer: SanoreX:  autoexec.cfg ye sv_register 1 yazdınmı
 [2021-04-11 09:41:14]: |ΛnץOиe| [, Level 0]: fitz: ANSWER
 [2021-04-11 09:41:17]: CKA3A4NIK[NR] [Night Raid, Level 35]: Saud:  You touch my friend
+[2021-04-11 09:41:20]: |ΛnץOиe| [, Level 0]: K!ked: say him to stop pls
+[2021-04-11 09:41:21]: fitz [, Level 0]: K!ked:
+[2021-04-11 09:41:25]: |ΛnץOиe| [, Level 0]: K!ked: say him to stop pls
+[2021-04-11 09:41:25]: Saud [MNKY, Level 24]: CKA3A4NIK[NR]:  yeah war
