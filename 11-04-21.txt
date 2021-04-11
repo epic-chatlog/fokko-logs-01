@@ -9866,3 +9866,5 @@
 [2021-04-11 13:19:40]: GoatLike [, Level 10]: bye bye guys
 [2021-04-11 13:19:47]: GoatLike [, Level 10]: cya next time
 [2021-04-11 13:19:51]: fameless tee [Buy Bitcoin, Level 0]: bb
+[2021-04-11 13:20:11]: ***  [, Level 0]: 'GoatLike' has left the game
+[2021-04-11 13:20:11]: ***  [, Level 0]: '{}[]' has left the game
