@@ -23,19 +23,12 @@
             loadChart();
         })
 
-    // fetch("https://raw.githubusercontent.com/epic-chatlog/fokko-logs/main/lines.l", (res) => {
-    //   return res.text();
-    // }).then(a => {
-        // console.log(a)
-    //   lines = a;
-    //   loadChart();
-    // })
     function parseLines(lines) {
       var lines = lines.split("\n");
       var _lineJson = {};
       lines.forEach(a => {
           b = a.split(" ")
-          _lineJson[`${b[b.length-1]}`] = b[b.length-2]
+          _lineJson[b[b.length-1]] = b[b.length-2]
       })
       return _lineJson;
     } 
@@ -43,23 +36,18 @@
     function loadChart() {
         let myChart = document.getElementById('myChart').getContext('2d');
         _lines = parseLines(lines);
-        // console.log(Object.keys(_lines))
         // Global Options
         __lines = [];
         linesKeys = [];
         for (let i = 0; i < Object.keys(_lines).length; i++) {
-            if (Object.keys(_lines)[i] != "lines.l" && Object.keys(_lines)[i] != "total" && Object.keys(_lines)[i] != "getlines.sh" && Object.keys(_lines)[i] != "autocommit.sh" && Object.keys(_lines)[i] != "README.md") {
+            if (Object.keys(_lines)[i].endsWith(".txt")) {
                 __lines.push(parseInt(_lines[Object.keys(_lines)[i]]))
-                // console.log(Object.keys(_lines[i]))
-                linesKeys.push(Object.keys(_lines)[i])
+                linesKeys.push(Object.keys(_lines)[i].split(".txt")[0].replace(/-/g, "/"))
             }
-                // console.log(Object.keys(_lines)[i] != "lines.l" && Object.keys(_lines)[i] != "total" && Object.keys(_lines)[i] != "getlines.sh" && Object.keys(_lines)[i] != "autocommit.sh" && Object.keys(_lines)[i] != "README.md")
             
         }
-        // console.log(__lines)
         Chart.defaults.global.defaultFontFamily = 'Lato';
         Chart.defaults.global.defaultFontSize = 18;
-        Chart.defaults.global.defaultFontColor = '#777';
 
         let massPopChart = new Chart(myChart, {
             type:'line', // bar, horizontalBar, pie, line, doughnut, radar, polarArea
