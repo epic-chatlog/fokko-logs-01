@@ -6541,3 +6541,5 @@
 [2021-04-11 10:26:13]: ReXi [, Level 0]: NoobEmir: xd
 [2021-04-11 10:26:14]: ***  [, Level 0]: 'Cassie' has left the game
 [2021-04-11 10:26:15]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
+[2021-04-11 10:26:19]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
+[2021-04-11 10:26:21]: coca [, Level 22]: gates )
