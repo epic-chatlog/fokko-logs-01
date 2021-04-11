@@ -4137,3 +4137,9 @@
 [2021-04-11 08:12:29]: (1)kais [, Level 58]: Kaptar: de quoi gaffe ?
 [2021-04-11 08:12:30]: ***  [, Level 0]: '(1)vekong&' entered and joined the game
 [2021-04-11 08:12:32]: ☺ [, Level 0]: thx
+[2021-04-11 08:12:36]: Kaptar [, Level 24]: (1)kais: kirito arrive
+[2021-04-11 08:12:39]: ***  [, Level 0]: '(1)vekong&' has left the game
+[2021-04-11 08:12:41]: Kezo [DogParty, Level 41]: (1)kais:
+[2021-04-11 08:12:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-11 08:12:44]: kais [, Level 65]: Kaptar: c'est pas un danger
+[2021-04-11 08:12:45]: Kezo [DogParty, Level 41]: (1)kais: down
