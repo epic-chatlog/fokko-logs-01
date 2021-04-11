@@ -5066,3 +5066,6 @@
 [2021-04-11 09:05:50]: ***  [, Level 0]: 'Matiteusz' has left the game
 [2021-04-11 09:05:50]: ***  [, Level 0]: 'Meetiteusz' has left the game
 [2021-04-11 09:05:53]:   [, Level 0]: .S L E E P Y': K!ked: oiiii <3
+[2021-04-11 09:05:59]: ***  [, Level 0]: Tetako HAHI finished in: 6 minute(s)  1.02 second(s)
+[2021-04-11 09:06:07]: rexi [, Level 0]: I like turtles.
+[2021-04-11 09:06:07]: ***  [, Level 0]: vekong& finished in: 3 minute(s) 52.74 second(s)
