@@ -3943,3 +3943,5 @@
 [2021-04-11 08:00:09]: ***  [, Level 0]: '65dawid65' has left the game
 [2021-04-11 08:00:10]: ***  [, Level 0]: 'igorejro17' entered and joined the game
 [2021-04-11 08:00:15]: |ΛnץOиe| [, Level 0]: darkstar4: war
+[2021-04-11 08:00:20]: ***  [, Level 0]: 'igorejro17' has left the game
+[2021-04-11 08:00:21]: ***  [, Level 0]: 'Mikox' has left the game
