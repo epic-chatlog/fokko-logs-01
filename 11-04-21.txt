@@ -6714,3 +6714,6 @@
 [2021-04-11 10:40:24]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
 [2021-04-11 10:40:26]: JustRace [DogParty, Level 36]: cl_aimbot 1
 [2021-04-11 10:40:32]: Hunter.exe [DogParty, Level 36]: ChillerDragon: komm nach meppen
+[2021-04-11 10:40:37]: (2)ChillerDrago [|*KoG*|, Level 45]: Error: invalid token
+[2021-04-11 10:40:40]: i am noob [Ape, Level 19]: coca
+[2021-04-11 10:40:42]: (2)ChillerDrago [|*KoG*|, Level 45]: Error: invalid token
