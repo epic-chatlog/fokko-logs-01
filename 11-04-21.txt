@@ -2490,3 +2490,4 @@
 [2021-04-11 06:19:30]: ***  [, Level 0]: '1' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-11 06:19:55]: ***  [, Level 0]: 'lolpoep' entered and joined the game
 [2021-04-11 06:20:00]: K!ked [De}|{aBю, Level 62]: thats work
+[2021-04-11 06:20:12]: ***  [, Level 0]: K!ked is on a killing spree with 10 blocks
