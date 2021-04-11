@@ -467,3 +467,5 @@
 [2021-04-11 03:50:02]: Meetiteusz [, Level 0]: keepertrain._.: powiem ci
 [2021-04-11 03:50:05]: SanoreX.* [Chilli.*, Level 22]: DiscordBridge: yes yes
 [2021-04-11 03:50:07]: Meetiteusz [, Level 0]: keepertrain._.: mam bardziej pojebane sprawy
+[2021-04-11 03:50:17]: ***  [, Level 0]: Meetiteusz finished in: 3 minute(s) 22.42 second(s)
+[2021-04-11 03:50:19]: [D] keepertrain [, Level 25]: Meetiteusz: xd
