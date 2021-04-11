@@ -2254,3 +2254,7 @@
 [2021-04-11 05:57:40]: ERROR [404, Level 56]: Swarfey:  was machst du xDDD
 [2021-04-11 05:57:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-11 05:57:48]: Nudelsaft c: [FookinLads, Level 37]: ERROR: hab gedacht er kommt vlt wieder aber nö xd
+[2021-04-11 05:57:53]: ERROR [404, Level 56]: Nudelsaft c::  wer
+[2021-04-11 05:57:58]: Nudelsaft c: [FookinLads, Level 37]: ERROR: wer wohl xd
+[2021-04-11 05:58:01]: ERROR [404, Level 56]: Nudelsaft c:: ? xD
+[2021-04-11 05:58:02]: [D] El patron [, Level 0]: er
