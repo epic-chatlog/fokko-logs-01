@@ -721,3 +721,5 @@
 [2021-04-11 04:17:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-11 04:18:04]: comic [comically, Level 14]: my fingers hurt
 [2021-04-11 04:18:04]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-11 04:18:13]: soleri1 [, Level 22]: ES:
+[2021-04-11 04:18:15]: ***  [, Level 0]: '(1)SanoreX' has left the game
