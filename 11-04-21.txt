@@ -4075,3 +4075,4 @@
 [2021-04-11 08:07:42]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-11 08:07:43]: ***  [, Level 0]: 'sucik' joined the game
 [2021-04-11 08:07:52]: Zephir™ [, Level 39]: El patron: 350k and i forget everyting
+[2021-04-11 08:08:05]: ***  [, Level 0]: 'Pancio' entered and joined the game
