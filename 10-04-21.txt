@@ -13361,3 +13361,4 @@
 [2021-04-10 22:51:29]: ***  [, Level 0]: Good man finished in: 12 minute(s) 39.82 second(s)
 [2021-04-10 22:52:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-10 22:54:04]: ***  [, Level 0]: '(1)Good man' entered and joined the game
+[2021-04-10 22:54:13]: ***  [, Level 0]: '(1)coca' entered and joined the game
