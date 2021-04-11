@@ -4492,3 +4492,9 @@
 [2021-04-11 08:32:29]: ***  [, Level 0]: 'RoberGN' has left the game
 [2021-04-11 08:32:30]: El patron [, Level 28]: Foxie♥: gay clan
 [2021-04-11 08:32:38]: Foxie♥ [♥, Level 36]: Kirito: dw
+[2021-04-11 08:32:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-11 08:32:42]: Kirito [♥, Level 40]: Foxie♥: i dont want to kill dude!!!
+[2021-04-11 08:32:45]: Foxie♥ [♥, Level 36]: Kirito: i wont get in time
+[2021-04-11 08:32:46]: ***  [, Level 0]: 'Kloklo' entered and joined the game
+[2021-04-11 08:32:48]: Foxie♥ [♥, Level 36]: Kirito: wait no
+[2021-04-11 08:32:49]: Kirito [♥, Level 40]: Foxie♥: ...
