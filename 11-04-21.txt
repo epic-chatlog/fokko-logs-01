@@ -4524,3 +4524,6 @@
 [2021-04-11 08:33:36]: ***  [, Level 0]: sL|coffee [D] is on a killing spree with 5 blocks
 [2021-04-11 08:33:36]: Zephir™ [, Level 39]: darkstar: that my friend
 [2021-04-11 08:33:36]: ***  [, Level 0]: sL|coffee [D]'s killing spree was ended by Fearless (5 blocks)
+[2021-04-11 08:33:45]: darkstar4 [, Level 10]: Zephir™: "friend"
+[2021-04-11 08:33:47]: (2)ChillerDrago [Chilli.*, Level 34]: omg ReXi !
+[2021-04-11 08:33:52]: (2)ChillerDrago [Chilli.*, Level 34]: thief ReXi
