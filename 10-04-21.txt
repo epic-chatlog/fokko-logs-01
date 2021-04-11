@@ -13301,3 +13301,4 @@
 [2021-04-10 20:14:16]: LeonXuwu [, Level 0]: que estupido xD
 [2021-04-10 20:15:18]: iocp [, Level 0]: why
 [2021-04-10 20:16:26]: ***  [, Level 0]: '(1)Msinik' entered and joined the game
+[2021-04-10 20:17:12]: ***  [, Level 0]: 'Msinik' has left the game (Timeout)
