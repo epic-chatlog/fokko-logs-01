@@ -4295,3 +4295,5 @@
 [2021-04-11 08:21:45]: NoobEmir [AoeSBrother, Level 0]: Kezo nun Türk olduğunu bilen biri
 [2021-04-11 08:21:48]: El patron [, Level 28]: k
 [2021-04-11 08:21:48]: ***  [, Level 0]: 'Keø' has left the game
+[2021-04-11 08:21:52]: ***  [, Level 0]: 'Keø' entered and joined the game
+[2021-04-11 08:21:57]: Kezo [DogParty, Level 41]: NoobEmir: boş yapma kimsin
