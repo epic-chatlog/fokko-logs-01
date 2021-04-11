@@ -7037,3 +7037,5 @@
 [2021-04-11 11:03:29]: ☺ [, Level 6]: noo
 [2021-04-11 11:03:39]: ☺ [, Level 6]: soleri1:
 [2021-04-11 11:03:51]: ReXi [, Level 0]: cunt:
+[2021-04-11 11:03:53]: (2)ChillerDrago [|*KoG*|, Level 45]: Error: (1)ChillerDragon failed to remote control (invalid token)
+[2021-04-11 11:03:54]: ReXi [, Level 0]: jungeeeeeeeeeeeee
