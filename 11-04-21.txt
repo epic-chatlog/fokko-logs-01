@@ -10911,3 +10911,6 @@
 [2021-04-11 14:41:54]: ***  [, Level 0]: 'ZillyKek' entered and joined the game
 [2021-04-11 14:41:54]: |ΛnץOиe| [, Level 0]: Kezo: 21 cm u?
 [2021-04-11 14:41:55]: [D] Hunter.exe [DogParty, Level 0]: bb
+[2021-04-11 14:42:03]: Kezo [DogParty, Level 0]: |MıssOяchiĐ|: OMG TRANS
+[2021-04-11 14:42:05]: ***  [, Level 0]: 'Kezo' has left the game
+[2021-04-11 14:42:06]: ***  [, Level 0]: 'HeavyGeneral' has left the game
