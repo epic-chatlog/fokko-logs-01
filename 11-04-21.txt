@@ -8123,3 +8123,5 @@
 [2021-04-11 11:58:18]: Kezo [DogParty, Level 41]: söyle
 [2021-04-11 11:58:18]: WarHammer [DogParty, Level 26]: KEZO AMD DE
 [2021-04-11 11:58:20]: Kezo [DogParty, Level 41]: HE
+[2021-04-11 11:58:23]: SanoreX [Chilli.*, Level 27]: Kezo: eğer plotlarda draweditor bugu bulursan fokkonaut vercekmiş
+[2021-04-11 11:58:24]: SanoreX [Chilli.*, Level 27]: bana dedi
