@@ -3747,3 +3747,5 @@
 [2021-04-11 07:44:25]: ***  [, Level 0]: darkstar3 finished in: 2 minute(s)  4.70 second(s)
 [2021-04-11 07:44:30]: ***  [, Level 0]: darkstar4 finished in: 1 minute(s) 52.94 second(s)
 [2021-04-11 07:44:38]: Foxie♥ [♥, Level 0]: Kirito: ill get u new colors ok?
+[2021-04-11 07:44:48]: Kirito [♥, Level 40]: Foxie♥: for my skin?
+[2021-04-11 07:44:53]: Foxie♥ [♥, Level 0]: Kirito: yeah :D
