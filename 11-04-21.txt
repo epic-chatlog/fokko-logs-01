@@ -3354,3 +3354,6 @@
 [2021-04-11 07:21:15]: ***  [, Level 0]: 'DeadRex' has left the game
 [2021-04-11 07:21:26]: YelloWorlD [DogParty, Level 41]: coca: what good u use jetpack + jump
 [2021-04-11 07:21:27]: ***  [, Level 0]: 'gian x' entered and joined the game
+[2021-04-11 07:21:32]: ***  [, Level 0]: 'gian x' has left the game
+[2021-04-11 07:21:36]: YelloWorlD [DogParty, Level 41]: coca: what a noob
+[2021-04-11 07:21:40]: soleri1 [, Level 22]: bye
