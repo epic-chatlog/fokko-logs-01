@@ -6610,3 +6610,8 @@
 [2021-04-11 10:33:44]: ♥TAKO♥ [DogParty, Level 25]: ShiroKinght:  help meeeeeeeeeeeeeeeee
 [2021-04-11 10:33:45]: ***  [, Level 0]: 'JustRace' entered and joined the game
 [2021-04-11 10:33:52]: Zephir™ [, Level 39]: ☺: c'est un pote maintenant
+[2021-04-11 10:34:06]: ☺ [, Level 6]: Zephir™: ok dit lui de me pas me tuer stp
+[2021-04-11 10:34:07]: Hunter.exe [DogParty, Level 36]: rexi: ich mag es nicht wenn jemand mich anlügt
+[2021-04-11 10:34:11]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
+[2021-04-11 10:34:15]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-11 10:34:16]: JustRace [DogParty, Level 36]: cl_aimbot 0
