@@ -2549,3 +2549,4 @@
 [2021-04-11 06:25:35]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
 [2021-04-11 06:25:49]: ***  [, Level 0]: 'Axandos' has left the game
 [2021-04-11 06:25:50]: ***  [, Level 0]: 'Nidardo.' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-11 06:25:53]: ***  [, Level 0]: '1' has left the game (Timeout)
