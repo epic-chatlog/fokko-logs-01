@@ -10574,3 +10574,8 @@
 [2021-04-11 14:17:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-11 14:17:56]: ***  [, Level 0]: '(1)RM | Arin' has left the game
 [2021-04-11 14:18:04]: ***  [, Level 0]: ### 'HeavyGeneral' Woof-Woof
+[2021-04-11 14:18:10]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
+[2021-04-11 14:18:11]: ***  [, Level 0]: '(1)RM | Arin' has left the game
+[2021-04-11 14:18:12]: dontworyberuski [DogParty, Level 41]: DONT WORRY BE RUSKİ
+[2021-04-11 14:18:15]: |ΛnץOиe| [, Level 0]: dontworyberuski: why he dont kill u ?
+[2021-04-11 14:18:16]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
