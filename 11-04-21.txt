@@ -497,3 +497,6 @@
 [2021-04-11 03:54:06]: ***  [, Level 0]: 'uptoram' has left the game
 [2021-04-11 03:54:08]: ***  [, Level 0]: 'uptoram' entered and joined the game
 [2021-04-11 03:54:22]: ***  [, Level 0]: 'flappy.*' has left the game (Timeout)
+[2021-04-11 03:54:24]: keepertrain._. [, Level 30]: Maatiteusz: ja tam nie wskocze kurwa
+[2021-04-11 03:54:29]: Nudelsaft c: [FookinLads, Level 37]: SanoreX: dont steal my dummies, its that easy
+[2021-04-11 03:54:29]: Maatiteusz [TrRShClNrRs, Level 35]: any: wake upooroo
