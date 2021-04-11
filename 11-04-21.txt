@@ -2403,3 +2403,4 @@
 [2021-04-11 06:11:00]: ***  [, Level 0]: 'RoberGN' entered and joined the game
 [2021-04-11 06:11:05]: ***  [, Level 0]: 'Nidardo.' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-11 06:11:06]: K!ked [De}|{aBю, Level 62]: Kaptar: war
+[2021-04-11 06:11:12]: Kaptar [, Level 0]: K!ked: k
