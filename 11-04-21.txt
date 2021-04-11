@@ -7026,3 +7026,8 @@
 [2021-04-11 11:02:58]: ☺ [, Level 6]: falWHY
 [2021-04-11 11:02:58]: ReXi [, Level 0]: geil
 [2021-04-11 11:03:03]: ***  [, Level 0]: 'blahdishma' has left the game
+[2021-04-11 11:03:05]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
+[2021-04-11 11:03:09]: (2)ChillerDrago [|*KoG*|, Level 45]: Error: (1)ChillerDragon failed to remote control (invalid token)
+[2021-04-11 11:03:10]: ☺ [, Level 6]: falkenauge: i save you
+[2021-04-11 11:03:11]: ♥TAKO♥ [DogParty, Level 25]: falkenauge:  no
+[2021-04-11 11:03:14]: (2)ChillerDrago [|*KoG*|, Level 45]: Error: (1)ChillerDragon missing command (usage: '/whisper name token command')
