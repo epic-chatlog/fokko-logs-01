@@ -3595,3 +3595,7 @@
 [2021-04-11 07:32:54]: ***  [, Level 0]: 'Swarfey' has left the game (Timeout)
 [2021-04-11 07:32:57]: kais [, Level 65]: YelloWorlD: gauche
 [2021-04-11 07:33:10]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-11 07:33:14]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-11 07:33:14]: kais [, Level 65]: YelloWorlD: pas facile de le mettre tt a gauche avec un seul saut :(
+[2021-04-11 07:33:19]: hhnaut31 [, Level 43]: darkstar:
+[2021-04-11 07:33:20]: coca [, Level 22]: Shiro.: hi
