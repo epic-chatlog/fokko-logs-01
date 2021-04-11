@@ -6546,3 +6546,4 @@
 [2021-04-11 10:26:40]: WarHammer [DogParty, Level 26]: wall
 [2021-04-11 10:26:54]: ***  [, Level 0]: '(2)Cosmo' has left the game
 [2021-04-11 10:27:16]: i am noob [Ape, Level 19]: coca ????
+[2021-04-11 10:27:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
