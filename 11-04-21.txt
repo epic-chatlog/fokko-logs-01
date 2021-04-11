@@ -378,3 +378,6 @@
 [2021-04-11 03:41:11]: El patron [, Level 28]: sdfg lmökgbnfjlioxkngfklgfbn svokäjpöfgvbxncp ghfncvb #
 [2021-04-11 03:41:11]: ***  [, Level 0]: 'RoberGN' entered and joined the game
 [2021-04-11 03:41:16]: NidardoHD [FlexTape, Level 5]: any: who flexes?
+[2021-04-11 03:41:23]: any [404, Level 37]: NidardoHD: you
+[2021-04-11 03:41:25]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-11 03:41:28]: ***  [, Level 0]: 'WarHammer' entered and joined the game
