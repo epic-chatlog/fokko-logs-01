@@ -11465,3 +11465,5 @@
 [2021-04-11 15:16:42]: fokkonaut [, Level 102]: Kirito: wie meinst rausgefallen
 [2021-04-11 15:17:11]: ***  [, Level 0]: 'c64blitzed' entered and joined the game
 [2021-04-11 15:17:43]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-11 15:18:07]: sharkz [, Level 45]: AAA
+[2021-04-11 15:18:08]: sharkz [, Level 45]: ALARM
