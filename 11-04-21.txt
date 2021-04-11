@@ -2738,3 +2738,5 @@
 [2021-04-11 06:40:06]: ***  [, Level 0]: 'hhh31' changed name to 'hhh3'
 [2021-04-11 06:40:08]: Zephir™ [, Level 39]: YelloWorlD: stp...
 [2021-04-11 06:40:09]: ***  [, Level 0]: soleri1 is on a killing spree with 10 blocks
+[2021-04-11 06:40:24]: ***  [, Level 0]: soleri1's killing spree was ended by Chillingo (14 blocks)
+[2021-04-11 06:40:30]: ***  [, Level 0]: '(1)Warrior' has left the game
