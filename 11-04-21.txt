@@ -2363,3 +2363,6 @@
 [2021-04-11 06:06:01]: ***  [, Level 0]: '(1)Saud' has left the game
 [2021-04-11 06:06:05]: K!ked [De}|{aBю, Level 62]: kekw
 [2021-04-11 06:06:18]: [D] El patron [, Level 0]: RoberGN: war
+[2021-04-11 06:06:26]: ***  [, Level 0]: 'Andrew' entered and joined the game
+[2021-04-11 06:06:30]: soleri1 [, Level 22]: rayen:
+[2021-04-11 06:06:34]: (1)cookie [, Level 0]: yes
