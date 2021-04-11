@@ -2307,3 +2307,8 @@
 [2021-04-11 06:01:11]: Zephir™ [, Level 39]: Matiteusz: go spike
 [2021-04-11 06:01:13]: ***  [, Level 0]: '{(.)}  |  Raaaw' has left the game
 [2021-04-11 06:01:15]: Meetiteusz [, Level 25]: Zephir™: oke
+[2021-04-11 06:01:23]: Hunter.exe [DogParty, Level 36]: Soros: stop it stupid
+[2021-04-11 06:01:23]:   [, Level 0]: (1)coca: ERROR: PLS HELP
+[2021-04-11 06:01:27]:   [, Level 0]: (1)coca: ERROR: place teleport here
+[2021-04-11 06:01:28]: ***  [, Level 0]: 'Katz' entered and joined the game
+[2021-04-11 06:01:31]:   [, Level 0]: (1)coca: ERROR: my dummy dead
