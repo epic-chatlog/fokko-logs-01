@@ -547,3 +547,4 @@
 [2021-04-11 03:57:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-11 03:57:52]: comic [comically, Level 14]: this is garbage
 [2021-04-11 03:58:06]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-11 03:58:22]: keepertrain._. [, Level 30]: Marcisten: u go endless?
