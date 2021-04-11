@@ -988,3 +988,7 @@
 [2021-04-11 04:36:59]: ***  [, Level 0]: '(Q)_(L)' entered and joined the game
 [2021-04-11 04:37:02]: ***  [, Level 0]: 'blazingd420' entered and joined the game
 [2021-04-11 04:37:06]: ***  [, Level 0]: 'Axel' entered and joined the game
+[2021-04-11 04:37:20]: Ƭevan [TrRShClNrRs, Level 49]: xD
+[2021-04-11 04:37:28]: ***  [, Level 0]: 'cookie' has left the game (Timeout)
+[2021-04-11 04:37:30]: Axandos [, Level 0]: weqe:  sure
+[2021-04-11 04:37:31]: ***  [, Level 0]: Soros is on a killing spree with 30 blocks
