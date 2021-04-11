@@ -876,3 +876,8 @@
 [2021-04-11 04:28:15]: weqe [669, Level 12]: Saud: u are from sa ye ?
 [2021-04-11 04:28:21]: rayen [, Level 0]: Soros: no block eden pls
 [2021-04-11 04:28:24]:   [, Level 0]: Saud: weqe:  ana saud
+[2021-04-11 04:28:27]: ***  [, Level 0]: 'Grasmously' has left the game
+[2021-04-11 04:28:30]: ***  [, Level 0]: 'SanoreX' changed name to '(1)'
+[2021-04-11 04:28:32]: Soros [, Level 0]: rayen: ok
+[2021-04-11 04:28:33]: ***  [, Level 0]: 'Grasmously' entered and joined the game
+[2021-04-11 04:28:36]: cookie [, Level 19]: SanoreX:  yeah but flappy help player when its dead
