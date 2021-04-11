@@ -10398,3 +10398,5 @@
 [2021-04-11 14:02:43]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
 [2021-04-11 14:02:48]: RM | Arin [Retard MNKY, Level 0]: ReXi:  HAHAH spec mal mein Dummy dieser Cya wollte mich einspeeren das ich netmehr farmen kann xD
 [2021-04-11 14:02:51]: ***  [, Level 0]: '(1)soleri1' has left the game
+[2021-04-11 14:03:00]: ***  [, Level 0]: 'any' entered and joined the game
+[2021-04-11 14:03:05]: ReXi [, Level 0]: I like turtles.
