@@ -6745,3 +6745,5 @@
 [2021-04-11 10:42:18]: JustRace [DogParty, Level 36]: cl_aimbot 0
 [2021-04-11 10:42:19]: JustRace [DogParty, Level 36]: cl_aimbot 1
 [2021-04-11 10:42:33]: coca [, Level 22]: pls give me jet smile
+[2021-04-11 10:42:36]: NoobEmir.* [AoeSBrother, Level 0]: team?
+[2021-04-11 10:42:43]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
