@@ -6701,3 +6701,6 @@
 [2021-04-11 10:39:29]: JustRace [DogParty, Level 36]: cl_aimbot 1
 [2021-04-11 10:39:32]: Zephir™ [, Level 39]: JustRace: l2p uwu
 [2021-04-11 10:39:34]: ☺ [, Level 6]: don't move coca
+[2021-04-11 10:39:48]: ***  [, Level 0]: 'rayen' entered and joined the game
+[2021-04-11 10:39:49]: ☺ [, Level 6]: move
+[2021-04-11 10:39:53]: JustRace [DogParty, Level 36]: bonus player
