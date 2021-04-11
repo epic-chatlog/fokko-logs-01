@@ -708,3 +708,5 @@
 [2021-04-11 04:14:16]: ***  [, Level 0]: '(2)Shy-ra.' entered and joined the game
 [2021-04-11 04:14:53]: el champeon [, Level 0]: GReeeN: why the fuck
 [2021-04-11 04:15:31]: ***  [, Level 0]: 'cookie' entered and joined the game
+[2021-04-11 04:15:33]: (1)Shy-ra. [, Level 0]: HELP
+[2021-04-11 04:15:37]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
