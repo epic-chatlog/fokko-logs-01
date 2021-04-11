@@ -6634,3 +6634,5 @@
 [2021-04-11 10:34:53]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
 [2021-04-11 10:34:57]: ☺ [, Level 6]: ya trop de monde
 [2021-04-11 10:34:59]: Hunter.exe [DogParty, Level 36]: rexi: und wieso gibst du dich als Mädchen aus?
+[2021-04-11 10:35:06]: JustRace [DogParty, Level 36]: Hunter.exe:  e
+[2021-04-11 10:35:07]: ReXi [, Level 0]: Hunter.exe: äh
