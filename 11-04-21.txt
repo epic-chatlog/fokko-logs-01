@@ -6482,3 +6482,5 @@
 [2021-04-11 10:22:29]: ***  [, Level 0]: '(1)Cosmo' entered and joined the game
 [2021-04-11 10:22:37]: coca [, Level 22]: ~DemoizL~: (
 [2021-04-11 10:22:39]: ☺ [, Level 6]: XD
+[2021-04-11 10:22:42]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-11 10:22:43]: ***  [, Level 0]: [INFO] You can create an account using '/register'
