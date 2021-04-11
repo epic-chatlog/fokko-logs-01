@@ -2649,3 +2649,4 @@
 [2021-04-11 06:33:13]: ***  [, Level 0]: 'Teestar' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-11 06:33:14]: K!ked [De}|{aBю, Level 62]: Kaptar: go i know u can
 [2021-04-11 06:33:15]: ***  [, Level 0]: soleri1 is on a killing spree with 30 blocks
+[2021-04-11 06:33:24]: ***  [, Level 0]: soleri1 is on a killing spree with 35 blocks
