@@ -771,3 +771,7 @@
 [2021-04-11 04:21:27]: ***  [, Level 0]: GReeeN is on a killing spree with 5 blocks
 [2021-04-11 04:21:30]: Eden [qwq, Level 0]: GReeeN: you are my brother's dog ?
 [2021-04-11 04:21:34]: ***  [, Level 0]: '1' entered and joined the game
+[2021-04-11 04:21:38]: ***  [, Level 0]: 'Kakso' joined the spectators
+[2021-04-11 04:21:39]: ***  [, Level 0]: 'toine' entered and joined the game
+[2021-04-11 04:21:43]: ***  [, Level 0]: 'Kakso' joined the game
+[2021-04-11 04:21:46]: ***  [, Level 0]: GReeeN is on a killing spree with 10 blocks
