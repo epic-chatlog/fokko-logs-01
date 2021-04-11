@@ -5084,3 +5084,6 @@
 [2021-04-11 09:06:50]: ***  [, Level 0]: 'Kezo' has left the game
 [2021-04-11 09:06:50]: hhh3 [, Level 48]: ChillerDragon:
 [2021-04-11 09:06:53]: ***  [, Level 0]: 'falkenauge' entered and joined the game
+[2021-04-11 09:07:04]: ***  [, Level 0]: 'falkenauge' has left the game
+[2021-04-11 09:07:08]: ***  [, Level 0]: darkstar's killing spree was ended by |ΛnץOиe| (5 blocks)
+[2021-04-11 09:07:10]: ϻɪɔʜɑʟ [Banana fish, Level 24]: new map
