@@ -13261,3 +13261,4 @@
 [2021-04-10 19:34:13]: Zephir™ [, Level 39]: qrqrqrqrqr
 [2021-04-10 19:34:22]: ***  [, Level 0]: 'Flipper' has left the game
 [2021-04-10 19:34:22]: ***  [, Level 0]: 'Flupper' has left the game
+[2021-04-10 19:34:43]: ***  [, Level 0]: 'H0LL4D13W4LDFEE' entered and joined the game
