@@ -6709,3 +6709,8 @@
 [2021-04-11 10:40:14]: Zephir™ [, Level 39]: JustRace: 130ms xD
 [2021-04-11 10:40:20]: JustRace [DogParty, Level 36]: stop crying for ping
 [2021-04-11 10:40:20]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: El patron:
+[2021-04-11 10:40:21]: El patron [, Level 28]: wtf
+[2021-04-11 10:40:22]: (1)ChillerDrago [|*KoG*|, Level 34]: leak Hunter.exe
+[2021-04-11 10:40:24]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
+[2021-04-11 10:40:26]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-11 10:40:32]: Hunter.exe [DogParty, Level 36]: ChillerDragon: komm nach meppen
