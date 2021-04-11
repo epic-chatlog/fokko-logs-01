@@ -3817,3 +3817,6 @@
 [2021-04-11 07:50:39]: ***  [, Level 0]: 'Shiro,' entered and joined the game
 [2021-04-11 07:50:40]: Foxie♥ [♥, Level 0]: Kirito: xd
 [2021-04-11 07:50:59]: Shiro. [404, Level 42]: hammer
+[2021-04-11 07:51:08]: Kirito [♥, Level 40]: Foxie♥: like that?
+[2021-04-11 07:51:12]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-11 07:51:13]: Foxie♥ [♥, Level 0]: Kirito: yeah
