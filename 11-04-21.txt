@@ -5057,3 +5057,4 @@
 [2021-04-11 09:04:59]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
 [2021-04-11 09:05:02]: (1)ChillerDrago [|*KoG*|, Level 34]: a
 [2021-04-11 09:05:05]: WarHammer [DogParty, Level 26]: ChillderPlagon*:  chilla
+[2021-04-11 09:05:10]: ***  [, Level 0]: 'galega' has left the game
