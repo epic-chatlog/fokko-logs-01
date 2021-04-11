@@ -5079,3 +5079,8 @@
 [2021-04-11 09:06:33]: ***  [, Level 0]: 'falkenauge' entered and joined the game
 [2021-04-11 09:06:42]: Cylox [, Level 31]: bekş
 [2021-04-11 09:06:45]: hhh3 [, Level 48]: ChillderPlagon*:
+[2021-04-11 09:06:47]: ***  [, Level 0]: 'falkenauge' has left the game
+[2021-04-11 09:06:50]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-11 09:06:50]: ***  [, Level 0]: 'Kezo' has left the game
+[2021-04-11 09:06:50]: hhh3 [, Level 48]: ChillerDragon:
+[2021-04-11 09:06:53]: ***  [, Level 0]: 'falkenauge' entered and joined the game
