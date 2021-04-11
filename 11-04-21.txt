@@ -2187,3 +2187,6 @@
 [2021-04-11 05:50:41]: ***  [, Level 0]: '(1)Good man' entered and joined the game
 [2021-04-11 05:50:45]: Kirito [, Level 40]: i am playing v3 now bye
 [2021-04-11 05:50:46]: ***  [, Level 0]: 'Kirito' has left the game
+[2021-04-11 05:50:59]: ***  [, Level 0]: '(1)coca' entered and joined the game
+[2021-04-11 05:51:02]: ***  [, Level 0]: 'Shy-ra.' has left the game
+[2021-04-11 05:51:05]: (2)cookie [, Level 0]: :SPEC
