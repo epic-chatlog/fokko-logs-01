@@ -6675,3 +6675,8 @@
 [2021-04-11 10:37:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-11 10:37:45]: cunt [, Level 0]: d
 [2021-04-11 10:37:51]: ReXi [, Level 0]: du sack
+[2021-04-11 10:37:57]: ***  [, Level 0]: UOYKCUFI finished in: 8 minute(s) 33.52 second(s)
+[2021-04-11 10:37:57]: ***  [, Level 0]: 'UOYKCUFI' finished the special race!
+[2021-04-11 10:38:02]: ***  [, Level 0]: Michel finished in: 6 minute(s) 45.24 second(s)
+[2021-04-11 10:38:02]: ***  [, Level 0]: New record: 2 minute(s) 26.54 second(s) better.
+[2021-04-11 10:38:02]: ***  [, Level 0]: 'Michel' finished the special race!
