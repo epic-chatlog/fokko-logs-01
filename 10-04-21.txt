@@ -13336,3 +13336,4 @@
 [2021-04-10 21:27:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-10 21:32:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-10 21:37:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-10 21:42:42]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
