@@ -10693,3 +10693,6 @@
 [2021-04-11 14:23:54]: HeavyGeneral [FookinLads, Level 44]: u bad
 [2021-04-11 14:23:57]: Kezo [DogParty, Level 41]: yes
 [2021-04-11 14:24:01]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
+[2021-04-11 14:24:11]: ***  [, Level 0]: ### 'Hunter.exe' woof woof
+[2021-04-11 14:24:13]: Kezo [DogParty, Level 41]: HeavyGeneral: wow im bad
+[2021-04-11 14:24:14]: ***  [, Level 0]: ### 'fokkonaut' woof
