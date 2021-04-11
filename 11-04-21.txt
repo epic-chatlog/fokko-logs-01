@@ -6211,3 +6211,6 @@
 [2021-04-11 10:05:46]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
 [2021-04-11 10:05:47]: cunt [, Level 0]: MAN
 [2021-04-11 10:05:48]:   [, Level 0]: (2)ChillerDragon: Error: missing token (usage: '/whisper name token command')
+[2021-04-11 10:05:58]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-11 10:06:00]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
+[2021-04-11 10:06:02]: |MıssOяchiĐ| [, Level 48]: sharkz: xddddddddddddddddd
