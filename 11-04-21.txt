@@ -4562,3 +4562,9 @@
 [2021-04-11 08:35:20]: ***  [, Level 0]: '(3)ChillerDragon' has left the game
 [2021-04-11 08:35:21]: ☺ [, Level 0]: and i am not dead Fearless
 [2021-04-11 08:35:30]:   [, Level 0]: [D] El patron: Kezo: help
+[2021-04-11 08:35:33]: ***  [, Level 0]: darkstar3 finished in: 1 minute(s) 31.02 second(s)
+[2021-04-11 08:35:33]: ***  [, Level 0]: 'Tziys*' entered and joined the game
+[2021-04-11 08:35:35]: Got Drip [, Level 0]: wth
+[2021-04-11 08:35:37]: ***  [, Level 0]: 'falkenauge' entered and joined the game
+[2021-04-11 08:35:37]: Got Drip [, Level 0]: wtf
+[2021-04-11 08:35:38]: ***  [, Level 0]: darkstar4 finished in: 1 minute(s) 31.50 second(s)
