@@ -2190,3 +2190,5 @@
 [2021-04-11 05:50:59]: ***  [, Level 0]: '(1)coca' entered and joined the game
 [2021-04-11 05:51:02]: ***  [, Level 0]: 'Shy-ra.' has left the game
 [2021-04-11 05:51:05]: (2)cookie [, Level 0]: :SPEC
+[2021-04-11 05:51:21]: xXmatiasXx [, Level 0]: Soros:  wtf
+[2021-04-11 05:51:30]: xXmatiasXx [, Level 0]: Soros:  im trying to finish the map
