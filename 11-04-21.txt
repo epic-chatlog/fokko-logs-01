@@ -2555,3 +2555,5 @@
 [2021-04-11 06:26:11]: ***  [, Level 0]: 'Axandos' entered and joined the game
 [2021-04-11 06:26:12]: Zephir™ [, Level 39]: XD
 [2021-04-11 06:26:13]: ***  [, Level 0]: 'lolpoep' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-11 06:26:16]: Zephir™ [, Level 39]: rq K!ked
+[2021-04-11 06:26:17]: K!ked [De}|{aBю, Level 62]: Axandos: hi
