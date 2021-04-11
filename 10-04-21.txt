@@ -13265,3 +13265,4 @@
 [2021-04-10 19:34:44]: Zephir™ [, Level 39]: Chips: want play again ?
 [2021-04-10 19:34:56]: ***  [, Level 0]: 'H0LL4D13W4LDFEE' has left the game
 [2021-04-10 19:35:01]: ***  [, Level 0]: Rєĸσ✘ finished in: 1 minute(s) 13.14 second(s)
+[2021-04-10 19:37:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
