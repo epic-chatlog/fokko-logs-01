@@ -8759,3 +8759,7 @@
 [2021-04-11 12:23:36]: ***  [, Level 0]: 'Cosmo' has left the game (Timeout)
 [2021-04-11 12:23:36]: ***  [, Level 0]: '(1)Cosmo' has left the game (Timeout)
 [2021-04-11 12:23:49]: ***  [, Level 0]: '(2)Cosmo' has left the game
+[2021-04-11 12:23:54]: ***  [, Level 0]: 'Cosmo' entered and joined the game
+[2021-04-11 12:23:55]: ***  [, Level 0]: 'coffee' entered and joined the game
+[2021-04-11 12:23:56]: SanoreX [Chilli.*, Level 27]: WarHammer': yukarı getir onu
+[2021-04-11 12:23:57]: GODLIKe. [, Level 0]: Foxie♥: AAAAAA
