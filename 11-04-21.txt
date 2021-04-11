@@ -984,3 +984,7 @@
 [2021-04-11 04:36:48]: RM | Arin [Retard MNKY, Level 0]: der fuckt miese a
 [2021-04-11 04:36:50]: RM | Arin [Retard MNKY, Level 0]: ab
 [2021-04-11 04:36:53]: ***  [, Level 0]: 'Axel' entered and joined the game
+[2021-04-11 04:36:59]: ***  [, Level 0]: 'Axel' has left the game
+[2021-04-11 04:36:59]: ***  [, Level 0]: '(Q)_(L)' entered and joined the game
+[2021-04-11 04:37:02]: ***  [, Level 0]: 'blazingd420' entered and joined the game
+[2021-04-11 04:37:06]: ***  [, Level 0]: 'Axel' entered and joined the game
