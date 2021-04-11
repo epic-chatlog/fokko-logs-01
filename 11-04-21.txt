@@ -6598,3 +6598,10 @@
 [2021-04-11 10:32:44]: Zephir™ [, Level 39]: Hunter.exe: i think u gona attack me xD
 [2021-04-11 10:32:49]: ***  [, Level 0]: 'ShiroKInght:' entered and joined the game
 [2021-04-11 10:32:50]: Hunter.exe [DogParty, Level 36]: Zephir™: nope
+[2021-04-11 10:33:07]: ♥TAKO♥ [DogParty, Level 25]: ShiroKinght:
+[2021-04-11 10:33:08]: Zephir™ [, Level 39]: Hunter.exe: u want stop ? i need to be afk xd
+[2021-04-11 10:33:10]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
+[2021-04-11 10:33:11]: (2)ChillerDrago [|*KoG*|, Level 0]: Error: missing command (usage: '/whisper name token command')
+[2021-04-11 10:33:14]: Hunter.exe [DogParty, Level 36]: Zephir™: ok
+[2021-04-11 10:33:14]: ***  [, Level 0]: 'Cosmo' entered and joined the game
+[2021-04-11 10:33:14]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
