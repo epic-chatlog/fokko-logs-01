@@ -3289,3 +3289,5 @@
 [2021-04-11 07:16:29]: kais [, Level 65]: Zephir™: np
 [2021-04-11 07:16:33]: ***  [, Level 0]: Chillingo is on a killing spree with 15 blocks
 [2021-04-11 07:16:53]: ***  [, Level 0]: Chillingo's killing spree was ended by Lucas (16 blocks)
+[2021-04-11 07:17:05]: ***  [, Level 0]: 'GODLIKe' has left the game
+[2021-04-11 07:17:05]: ***  [, Level 0]: 'GODLIKe.' has left the game
