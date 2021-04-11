@@ -9709,3 +9709,5 @@
 [2021-04-11 13:10:44]: SanoreX [Chilli.*, Level 27]: u teleportad here
 [2021-04-11 13:10:46]: ***  [, Level 0]: '(2)lol' entered and joined the game
 [2021-04-11 13:10:52]: ***  [, Level 0]: '(3)lol' entered and joined the game
+[2021-04-11 13:10:57]: GoatLike [, Level 10]: lmao
+[2021-04-11 13:11:04]: GoatLike [, Level 10]: SanoreX: i was in alanya or something like that in turkish
