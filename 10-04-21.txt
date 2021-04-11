@@ -13267,3 +13267,6 @@
 [2021-04-10 19:35:01]: ***  [, Level 0]: Rєĸσ✘ finished in: 1 minute(s) 13.14 second(s)
 [2021-04-10 19:37:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-10 19:38:09]: Zephir™ [, Level 39]: XDDDD
+[2021-04-10 19:38:11]: ***  [, Level 0]: 'Rєĸσ✘' finished the special race!
+[2021-04-10 19:38:12]: Zephir™ [, Level 39]: full fails
+[2021-04-10 19:38:21]: Zephir™ [, Level 39]: XDDDD
