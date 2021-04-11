@@ -1420,3 +1420,7 @@
 [2021-04-11 05:01:39]: ***  [, Level 0]: 'King Aedan' has left the game
 [2021-04-11 05:01:41]: RM | Arin [Retard MNKY, Level 16]: ~DemoizL~:  i said i dont wanna block ya
 [2021-04-11 05:01:45]: RM | Arin [Retard MNKY, Level 16]: nvm
+[2021-04-11 05:01:47]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
+[2021-04-11 05:01:55]: ***  [, Level 0]: '(1)RM | Arin' has left the game
+[2021-04-11 05:01:55]: Good man [Drunks, Level 30]: weqe: lets peace?
+[2021-04-11 05:01:56]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
