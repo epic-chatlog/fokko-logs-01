@@ -118,3 +118,5 @@
 [2021-04-11 03:20:51]: ***  [, Level 0]: 'comic' entered and joined the game
 [2021-04-11 03:20:53]: ***  [, Level 0]: YelloWorlD is on a killing spree with 10 blocks
 [2021-04-11 03:20:56]: coca [Good guy, Level 22]: soleri1: help
+[2021-04-11 03:21:03]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-11 03:21:13]: soleri1 [, Level 22]: coca: wait
