@@ -13294,3 +13294,4 @@
 [2021-04-10 20:02:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-10 20:03:37]: ***  [, Level 0]: 'iocp' entered and joined the game
 [2021-04-10 20:04:25]: LeonXuwu [, Level 0]: denada
+[2021-04-10 20:05:18]: iocp [, Level 0]: hi
