@@ -6205,3 +6205,9 @@
 [2021-04-11 10:05:21]: |MıssOяchiĐ| [, Level 48]: weqe: wtf i dont have problem with you xd
 [2021-04-11 10:05:33]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 31.80 second(s)
 [2021-04-11 10:05:36]: |MıssOяchiĐ| [, Level 48]: weqe: wtf u can answer and give me a reason?
+[2021-04-11 10:05:40]:   [, Level 0]: weqe: ok |MıssOяchiĐ| go to bank
+[2021-04-11 10:05:44]: ***  [, Level 0]: 'Tetako HAHI' changed name to '[D] Moswer Yon'
+[2021-04-11 10:05:45]: |MıssOяchiĐ| [, Level 48]: weqe: YE I WILL GO
+[2021-04-11 10:05:46]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
+[2021-04-11 10:05:47]: cunt [, Level 0]: MAN
+[2021-04-11 10:05:48]:   [, Level 0]: (2)ChillerDragon: Error: missing token (usage: '/whisper name token command')
