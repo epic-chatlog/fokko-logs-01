@@ -177,3 +177,10 @@
 [2021-04-11 03:26:47]: ***  [, Level 0]: 'uptoram' has left the game
 [2021-04-11 03:26:54]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
 [2021-04-11 03:27:08]: Good man [Drunks, Level 30]: flag)
+[2021-04-11 03:27:10]: ***  [, Level 0]: Shiro. is on a killing spree with 5 blocks
+[2021-04-11 03:27:11]: ***  [, Level 0]: 'soleri1' entered and joined the game
+[2021-04-11 03:27:11]: ***  [, Level 0]: 'soleri1' has left the game
+[2021-04-11 03:27:14]: |ΛnץOиe| [, Level 43]: no
+[2021-04-11 03:27:14]: ***  [, Level 0]: 'soleri1' entered and joined the game
+[2021-04-11 03:27:19]: ***  [, Level 0]: 'JxK|JoK'Air' has left the game
+[2021-04-11 03:27:24]: ***  [, Level 0]: el champeon is on a killing spree with 10 blocks
