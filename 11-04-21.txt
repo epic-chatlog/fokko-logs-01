@@ -6160,3 +6160,5 @@
 [2021-04-11 10:01:52]:   [, Level 0]: (2)ChillerDragon: Error: missing token (usage: '/whisper name token command')
 [2021-04-11 10:01:57]: ***  [, Level 0]: 'prankstar' entered and joined the game
 [2021-04-11 10:02:03]: ***  [, Level 0]: 'prankstar' has left the game
+[2021-04-11 10:02:05]: ***  [, Level 0]: 'wpalrpükpüwak' entered and joined the game
+[2021-04-11 10:02:10]: cunt [, Level 0]: Michel: :)
