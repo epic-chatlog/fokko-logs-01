@@ -6845,3 +6845,5 @@
 [2021-04-11 10:48:16]: ☺ [, Level 6]: it's my dummy
 [2021-04-11 10:48:18]: coca [, Level 22]: Zephir™:
 [2021-04-11 10:48:31]: any [404, Level 38]: Zephir™: x)))
+[2021-04-11 10:48:56]: coca [, Level 22]: Zephir™:
+[2021-04-11 10:48:59]: any [404, Level 38]: Zephir™: jme suis pris une balle perdu de taser x)))
