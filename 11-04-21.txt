@@ -9643,3 +9643,7 @@
 [2021-04-11 13:07:33]: GoatLike [, Level 10]: SanoreX: i want
 [2021-04-11 13:07:36]: SanoreX [Chilli.*, Level 27]: ok
 [2021-04-11 13:07:37]: SanoreX [Chilli.*, Level 27]: k
+[2021-04-11 13:07:43]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-11 13:07:49]: GoatLike [, Level 10]: lahmacun is like turkish pizza
+[2021-04-11 13:07:50]: cunt [, Level 41]: ReXi: was
+[2021-04-11 13:07:51]: NoobEmir.* [AoeSBrother, Level 0]: [D] El patron: rifle me
