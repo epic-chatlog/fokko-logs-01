@@ -13356,3 +13356,4 @@
 [2021-04-10 22:37:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-10 22:40:51]: coca [, Level 21]: ERROR ERROR.  (1)ERROR  (1)ERROR.  do u need flag?
 [2021-04-10 22:42:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-10 22:47:42]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
