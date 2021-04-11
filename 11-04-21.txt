@@ -7075,3 +7075,6 @@
 [2021-04-11 11:06:18]: ***  [, Level 0]: 'Cosmo' has left the game
 [2021-04-11 11:06:18]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
 [2021-04-11 11:06:35]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: sun.slow(y): hi
+[2021-04-11 11:06:42]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: sun.slow(y): hast du noch portal?
+[2021-04-11 11:06:42]: ♥TAKO♥ [DogParty, Level 25]: aaaaaaaaaaaa
+[2021-04-11 11:06:53]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: ♥TAKO♥: karma kurwa
