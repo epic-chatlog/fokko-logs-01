@@ -10568,3 +10568,6 @@
 [2021-04-11 14:17:02]: HeavyGeneral [FookinLads, Level 44]: Dog xa-xa0))
 [2021-04-11 14:17:04]: Hunter.exe [DogParty, Level 37]: xD
 [2021-04-11 14:17:07]: ***  [, Level 0]: '[D] El patron' left the minigame 'Block'
+[2021-04-11 14:17:19]: dontworyberuski [DogParty, Level 41]: HeavyGeneral: he is macro ?
+[2021-04-11 14:17:21]: ***  [, Level 0]: 'BitchPlease Jr.' has left the game
+[2021-04-11 14:17:26]: HeavyGeneral [FookinLads, Level 44]: wdym macro
