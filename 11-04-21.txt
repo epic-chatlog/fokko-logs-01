@@ -335,3 +335,6 @@
 [2021-04-11 03:38:51]: ***  [, Level 0]: 'Anton' entered and joined the game
 [2021-04-11 03:38:55]: coca [Good guy, Level 22]: Kaptar: why block him
 [2021-04-11 03:38:59]: SanoreX [Chilli.*, Level 27]: RoberGN: war
+[2021-04-11 03:38:59]: ***  [, Level 0]: 'keepertrain._.' entered and joined the game
+[2021-04-11 03:39:01]: Kaptar [, Level 0]: because
+[2021-04-11 03:39:05]: SanoreX [Chilli.*, Level 27]: get out
