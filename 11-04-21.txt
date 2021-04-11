@@ -7020,3 +7020,5 @@
 [2021-04-11 11:02:16]: ☺ [, Level 6]: falkenauge: it's you fault
 [2021-04-11 11:02:17]: ♥TAKO♥ [DogParty, Level 25]: falkenauge:
 [2021-04-11 11:02:28]: ♥TAKO♥ [DogParty, Level 25]: falkenauge: why :c
+[2021-04-11 11:02:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-11 11:02:43]: ***  [, Level 0]: ☺ finished in: 5 minute(s)  9.52 second(s)
