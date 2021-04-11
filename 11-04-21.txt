@@ -4832,3 +4832,5 @@
 [2021-04-11 08:51:36]: ***  [, Level 0]: 'miś kolorowy' has left the game
 [2021-04-11 08:51:38]: Zephir™ [, Level 39]: Fearless: xD
 [2021-04-11 08:51:43]: [D]ϻɪɔʜɑʟ [Banana fish, Level 20]: hi falkenauge
+[2021-04-11 08:51:47]: ***  [, Level 0]: 'YOAN' entered and joined the game
+[2021-04-11 08:51:48]:   [, Level 0]: [D] falkenauge: hi
