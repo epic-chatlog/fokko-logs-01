@@ -712,3 +712,6 @@
 [2021-04-11 04:15:37]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
 [2021-04-11 04:16:01]: ***  [, Level 0]: el champeon's killing spree was ended by [D] UOYKCUFI (8 blocks)
 [2021-04-11 04:16:23]: keepertrain._. [, Level 30]: soleri1:
+[2021-04-11 04:16:31]: ***  [, Level 0]: [D] UOYKCUFI is on a killing spree with 5 blocks
+[2021-04-11 04:16:34]: keepertrain._. [, Level 30]: peS:
+[2021-04-11 04:16:35]: ***  [, Level 0]: GReeeN is on a killing spree with 5 blocks
