@@ -2399,3 +2399,7 @@
 [2021-04-11 06:10:31]: Zephir™ [, Level 39]: El patron: bulash
 [2021-04-11 06:10:41]: Zephir™ [, Level 39]: El patron: hunter tel me who u are
 [2021-04-11 06:10:53]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-11 06:10:56]: ***  [, Level 0]: 'Nidardo.' left the minigame 'Block'
+[2021-04-11 06:11:00]: ***  [, Level 0]: 'RoberGN' entered and joined the game
+[2021-04-11 06:11:05]: ***  [, Level 0]: 'Nidardo.' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-11 06:11:06]: K!ked [De}|{aBю, Level 62]: Kaptar: war
