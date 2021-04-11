@@ -6328,3 +6328,10 @@
 [2021-04-11 10:12:50]: Akatsuki [, Level 0]: how to play this
 [2021-04-11 10:12:50]: ☺ [, Level 6]: Zephir™: oui
 [2021-04-11 10:12:53]:   [, Level 0]: (1)|MıssOяchiĐ|: Keø:
+[2021-04-11 10:12:56]:   [, Level 0]: (1)|MıssOяchiĐ|: Keø: vite
+[2021-04-11 10:12:59]: ☺ [, Level 6]: Zephir™: c'est quoi immunity
+[2021-04-11 10:13:02]: ***  [, Level 0]: '|MıssOяchiĐ|' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-11 10:13:02]: ***  [, Level 0]: '|ΛnץOиe|' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-11 10:13:05]:   [, Level 0]: (1)|MıssOяchiĐ|: Ptn
+[2021-04-11 10:13:08]: Zephir™ [, Level 39]: ☺aimunité je crois
+[2021-04-11 10:13:08]:   [, Level 0]: (1)|MıssOяchiĐ|: Keø: vite
