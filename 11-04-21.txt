@@ -5960,3 +5960,5 @@
 [2021-04-11 09:48:35]:   [, Level 0]: WarHammer: sano yoksa gözükmez
 [2021-04-11 09:48:39]: Saud [MNKY, Level 24]: Zephir™:  cause half of them was out
 [2021-04-11 09:48:40]:   [, Level 0]: WarHammer: yellow kral
+[2021-04-11 09:48:55]: coca [, Level 22]: El patron:
+[2021-04-11 09:48:56]: coca [, Level 22]: El patron: help
