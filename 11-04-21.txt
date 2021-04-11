@@ -5053,3 +5053,7 @@
 [2021-04-11 09:04:50]: ***  [, Level 0]: ϻɪɔʜɑʟ finished in: 1 minute(s) 49.00 second(s)
 [2021-04-11 09:04:50]: ***  [, Level 0]: New record: 1 minute(s) 36.62 second(s) better.
 [2021-04-11 09:04:54]: ***  [, Level 0]: Chillingo is on a killing spree with 10 blocks
+[2021-04-11 09:04:56]: ***  [, Level 0]: darkstar2's killing spree was ended by any (9 blocks)
+[2021-04-11 09:04:59]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
+[2021-04-11 09:05:02]: (1)ChillerDrago [|*KoG*|, Level 34]: a
+[2021-04-11 09:05:05]: WarHammer [DogParty, Level 26]: ChillderPlagon*:  chilla
