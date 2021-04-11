@@ -12403,3 +12403,5 @@
 [2021-04-10 17:46:40]: .S L E E P Y' [iPro ♡, Level 38]: 3 2 1
 [2021-04-10 17:46:44]: ***  [, Level 0]: 'kerim' entered and joined the game
 [2021-04-10 17:47:00]: AbdoZX17 [, Level 37]: .S L E E P Y': how you already climb here before he hits you
+[2021-04-10 17:47:20]: .S L E E P Y' [iPro ♡, Level 38]: i spawned from the prison cell
+[2021-04-10 17:47:21]: .S L E E P Y' [iPro ♡, Level 38]: ;d
