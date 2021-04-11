@@ -6408,3 +6408,6 @@
 [2021-04-11 10:16:35]: WarHammer [DogParty, Level 0]: ♥TAKO♥:  ha
 [2021-04-11 10:16:39]: ♥TAKO♥ [DogParty, Level 25]: WarHammer:  ha
 [2021-04-11 10:17:01]: ***  [, Level 0]: 'teeworld drip' entered and joined the game
+[2021-04-11 10:17:04]: WarHammer [DogParty, Level 0]: lag
+[2021-04-11 10:17:07]: ***  [, Level 0]: 'teeworld drip' has left the game
+[2021-04-11 10:17:14]: ***  [, Level 0]: 'Cassie' entered and joined the game
