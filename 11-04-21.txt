@@ -5744,3 +5744,7 @@
 [2021-04-11 09:39:49]: ***  [, Level 0]: 'Foxie♥' entered and joined the game
 [2021-04-11 09:39:49]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-11 09:39:50]:   [, Level 0]: weqe: ~DemoizL~: ?
+[2021-04-11 09:39:54]: NoobEmir.* [, Level 0]: gel bi
+[2021-04-11 09:39:56]:   [, Level 0]: SanoreX: warhammer olmadımı
+[2021-04-11 09:39:59]:   [, Level 0]: WarHammer: SanoreX:  eminmisin öyle bi sv olduguna
+[2021-04-11 09:40:01]:   [, Level 0]: WarHammer: SanoreX:  girmedi
