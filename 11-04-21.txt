@@ -4556,3 +4556,5 @@
 [2021-04-11 08:35:01]: ***  [, Level 0]: 'Foxie♥' has left the game
 [2021-04-11 08:35:01]: ☺ [, Level 0]: portal noob
 [2021-04-11 08:35:03]: ***  [, Level 0]: 'deSi' entered and joined the game
+[2021-04-11 08:35:09]:   [, Level 0]: Kezo: thxx
+[2021-04-11 08:35:15]: ***  [, Level 0]: 'Michel' entered and joined the game
