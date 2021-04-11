@@ -6615,3 +6615,12 @@
 [2021-04-11 10:34:11]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
 [2021-04-11 10:34:15]: JustRace [DogParty, Level 36]: cl_aimbot 1
 [2021-04-11 10:34:16]: JustRace [DogParty, Level 36]: cl_aimbot 0
+[2021-04-11 10:34:19]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
+[2021-04-11 10:34:20]: ***  [, Level 0]: 'Moswer Yon' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-11 10:34:20]: ***  [, Level 0]: 'Tomeko204' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-11 10:34:21]: ***  [, Level 0]: 'ShiroKinght' has left the game (Timeout)
+[2021-04-11 10:34:21]: ***  [, Level 0]: 'ShiroKInght:' has left the game (Timeout)
+[2021-04-11 10:34:22]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-11 10:34:22]: Zephir™ [, Level 39]: ☺:  1 car je vais être afk, et 2 car il est chiant xD
+[2021-04-11 10:34:24]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
+[2021-04-11 10:34:25]: ReXi [, Level 0]: Hunter.exe: wo denn
