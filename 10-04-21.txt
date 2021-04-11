@@ -13259,3 +13259,5 @@
 [2021-04-10 19:34:06]: S Y T H N [, Level 37]: just boring and play another map with Flipper bye
 [2021-04-10 19:34:11]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-10 19:34:13]: Zephir™ [, Level 39]: qrqrqrqrqr
+[2021-04-10 19:34:22]: ***  [, Level 0]: 'Flipper' has left the game
+[2021-04-10 19:34:22]: ***  [, Level 0]: 'Flupper' has left the game
