@@ -4698,3 +4698,5 @@
 [2021-04-11 08:42:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-11 08:42:43]: ERROR. [404, Level 74]: ?
 [2021-04-11 08:42:49]: Nudelsaft c: [FookinLads, Level 37]: thanks papa
+[2021-04-11 08:42:55]: Zephir™ [, Level 39]: ERROR: a guys want killed u
+[2021-04-11 08:42:59]: NoobEmir [AoeSBrother, Level 14]: do kill
