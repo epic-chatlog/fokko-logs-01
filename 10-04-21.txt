@@ -12961,3 +12961,5 @@
 [2021-04-10 18:37:00]: wb [, Level 0]: Chips: i had 5k and i get it all to the server
 [2021-04-10 18:37:14]: ***  [, Level 0]: 'Mr.Ben' entered and joined the game
 [2021-04-10 18:37:32]: AbdoZX17 [, Level 37]: ahah
+[2021-04-10 18:37:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-10 18:37:45]: Zephir™ [, Level 39]: 4 or 5v1 xD just for me
