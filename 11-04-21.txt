@@ -3587,3 +3587,7 @@
 [2021-04-11 07:32:30]: keepertrain._. [, Level 30]: YelloWorlD: hello help meee
 [2021-04-11 07:32:31]: Shiro. [404, Level 42]: gay
 [2021-04-11 07:32:35]: fokkonaut [, Level 102]: ok we all said happy birthday
+[2021-04-11 07:32:37]: fokkonaut [, Level 102]: now lets move on
+[2021-04-11 07:32:39]: Zephir™ [, Level 39]: wtfffff
+[2021-04-11 07:32:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-11 07:32:45]: kais [, Level 65]: YelloWorlD: merde
