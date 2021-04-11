@@ -66,3 +66,6 @@
 [2021-04-11 03:18:05]: ***  [–, Level 0]: 'Dummy QL' has left the game
 [2021-04-11 03:18:05]: ***  [–, Level 0]: '(Q)_(L)' has left the game
 [2021-04-11 03:18:06]: ***  [, Level 0]: 'uptoram' entered and joined the game
+[2021-04-11 03:18:26]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-11 03:18:27]: ***  [, Level 0]: 'uptoram' has left the game
+[2021-04-11 03:18:29]: ***  [, Level 0]: 'uptoram' entered and joined the game
