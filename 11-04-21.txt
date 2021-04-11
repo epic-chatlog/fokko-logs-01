@@ -11339,3 +11339,6 @@
 [2021-04-11 15:08:34]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
 [2021-04-11 15:08:35]: Kezo [DogParty, Level 0]: sharkz: la dur
 [2021-04-11 15:08:37]: Hunter.exe [DogParty, Level 37]: any: you cry about 4k?
+[2021-04-11 15:08:42]: any [404, Level 38]: Hunter.exe: giv 4k
+[2021-04-11 15:08:42]: ♥TAKO♥ [DogParty, Level 25]: Kezo:  bay bay :D
+[2021-04-11 15:08:48]: Hunter.exe [DogParty, Level 37]: any: you wanna die?
