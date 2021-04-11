@@ -9028,3 +9028,6 @@
 [2021-04-11 12:42:09]: |ΛnץOиe| [, Level 0]: Zephir™:
 [2021-04-11 12:42:11]: |ΛnץOиe| [, Level 0]: Zephir™: il est la
 [2021-04-11 12:42:13]: |ΛnץOиe| [, Level 0]: Zephir™: le gonz
+[2021-04-11 12:42:16]: any² [404, Level 0]: Zephir™: ez x)
+[2021-04-11 12:42:25]: ***  [, Level 0]: '(2)flappy.*' entered and joined the game
+[2021-04-11 12:42:26]: ***  [, Level 0]: 'flappy.*' has left the game (Timeout)
