@@ -5338,3 +5338,8 @@
 [2021-04-11 09:22:05]: ***  [, Level 0]: 'darkstar3' has left the game
 [2021-04-11 09:22:06]:   [, Level 0]: (2)ChillerDragon: WarHammer: what bot
 [2021-04-11 09:22:08]: WarHammer [DogParty, Level 26]: hhh3:  yazdım
+[2021-04-11 09:22:14]: hhh3 [, Level 48]: ne botu diyo
+[2021-04-11 09:22:15]: WarHammer [DogParty, Level 26]: (1)ChillerDrago:  ananın amı
+[2021-04-11 09:22:15]: ***  [, Level 0]: 'marcin czacha' has left the game
+[2021-04-11 09:22:18]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
+[2021-04-11 09:22:19]: WarHammer [DogParty, Level 26]: tövbee
