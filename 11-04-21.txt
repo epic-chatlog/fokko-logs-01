@@ -3708,3 +3708,7 @@
 [2021-04-11 07:42:21]: Shiro fan [, Level 0]: noooo
 [2021-04-11 07:42:23]: ***  [, Level 0]: 'sQubany' entered and joined the game
 [2021-04-11 07:42:24]: |ΛnץOиe| [, Level 0]: Shiro.: who?
+[2021-04-11 07:42:25]: ***  [, Level 0]: 'Guthaben' has left the game
+[2021-04-11 07:42:26]: |ΛnץOиe| [, Level 0]: Shiro.: OOPS
+[2021-04-11 07:42:28]: ***  [, Level 0]: 'sQubany' has left the game
+[2021-04-11 07:42:29]: |ΛnץOиe| [, Level 0]: Shiro fan: who?
