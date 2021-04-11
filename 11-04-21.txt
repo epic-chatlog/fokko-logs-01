@@ -7355,3 +7355,5 @@
 [2021-04-11 11:22:43]: Hunter.exe [DogParty, Level 36]: rexi: ich bin 10 Jahre alt
 [2021-04-11 11:22:43]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-11 11:22:46]: OP|Supers [, Level 0]: Tziys*:  what do you mean?
+[2021-04-11 11:22:55]: Hunter.exe [DogParty, Level 36]: rexi: woher willlst du dass wissen?
+[2021-04-11 11:23:00]: Hunter.exe [DogParty, Level 36]: rexi: dass ich keine 10 bin
