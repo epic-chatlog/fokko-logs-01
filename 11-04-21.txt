@@ -1430,3 +1430,7 @@
 [2021-04-11 05:02:16]: ***  [, Level 0]: '1' has left the game
 [2021-04-11 05:02:25]: ***  [, Level 0]: 'why' has left the game
 [2021-04-11 05:02:28]: weqe [669, Level 12]: RM | Arin: stop
+[2021-04-11 05:02:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-11 05:02:44]: УБИВАТЬ! [, Level 0]: поняла)
+[2021-04-11 05:02:46]: УБИВАТЬ! [, Level 0]: привет
+[2021-04-11 05:02:47]: ***  [, Level 0]: 'weqe and bobfan' entered and joined the game
