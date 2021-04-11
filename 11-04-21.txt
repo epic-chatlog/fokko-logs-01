@@ -4983,3 +4983,8 @@
 [2021-04-11 08:59:59]: ***  [, Level 0]: darkstar2 is on a killing spree with 5 blocks
 [2021-04-11 09:00:02]: ***  [, Level 0]: 'NoobEmir.*' has left the game
 [2021-04-11 09:00:12]: Zephir™ [, Level 39]: hhh3: make peace with flappy
+[2021-04-11 09:00:16]: Zephir™ [, Level 39]: hhh3: he sad
+[2021-04-11 09:00:20]: ***  [, Level 0]: '[D] falkenauge' has left the game
+[2021-04-11 09:00:20]: ***  [, Level 0]: 'falkenauge' has left the game
+[2021-04-11 09:00:21]: ***  [, Level 0]: 'Axel ²' entered and joined the game
+[2021-04-11 09:00:24]: ***  [, Level 0]: 'i am noob' entered and joined the game
