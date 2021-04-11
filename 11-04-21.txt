@@ -2547,3 +2547,5 @@
 [2021-04-11 06:25:24]: [D] keepertrain [FookinLads, Level 25]: Zephir™: yo
 [2021-04-11 06:25:32]: Zephir™ [, Level 39]: keepertrain._.: who are u ?
 [2021-04-11 06:25:35]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-11 06:25:49]: ***  [, Level 0]: 'Axandos' has left the game
+[2021-04-11 06:25:50]: ***  [, Level 0]: 'Nidardo.' joined the minigame 'Block', use '/block' to join aswell
