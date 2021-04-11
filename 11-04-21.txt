@@ -529,3 +529,4 @@
 [2021-04-11 03:56:25]: (1)SanoreX [Chilli.*, Level 22]: SanoreX:
 [2021-04-11 03:56:27]: SanoreX [Chilli.*, Level 27]: (1)SanoreX: I am currently afk.
 [2021-04-11 03:56:30]: (1)SanoreX [Chilli.*, Level 22]: SanoreX:
+[2021-04-11 03:56:39]: ***  [, Level 0]: 'RoberGN' has left the game
