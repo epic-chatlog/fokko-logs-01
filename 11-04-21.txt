@@ -11351,3 +11351,6 @@
 [2021-04-11 15:09:10]: any [404, Level 38]: Hunter.exe: giv 4k
 [2021-04-11 15:09:10]: Kezo [DogParty, Level 0]: AGA B
 [2021-04-11 15:09:13]: Kezo [DogParty, Level 0]: ♥TAKO♥: bb
+[2021-04-11 15:09:18]: any [404, Level 38]: Hunter.exe: giv 4k
+[2021-04-11 15:09:18]: ♥TAKO♥ [DogParty, Level 25]: Kezo:  bb
+[2021-04-11 15:09:27]: sharkz [, Level 45]: fokkonaut: musste eine rauchen wegen dem arin
