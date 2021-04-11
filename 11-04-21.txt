@@ -7713,3 +7713,5 @@
 [2021-04-11 11:38:58]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: go
 [2021-04-11 11:38:59]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-11 11:38:59]: SanoreX [Chilli.*, Level 27]: yada yukarı taşı
+[2021-04-11 11:39:06]: ***  [, Level 0]: 'Four' has left the game
+[2021-04-11 11:39:11]: Kezo [DogParty, Level 41]: Mista bombastic: yellow clan
