@@ -4132,3 +4132,8 @@
 [2021-04-11 08:11:56]: Lucas [THECEPS, Level 34]: Kirito: no
 [2021-04-11 08:11:58]: ***  [, Level 0]: 'fitz' has left the game
 [2021-04-11 08:12:10]: Kaptar [, Level 24]: kais: gaffe
+[2021-04-11 08:12:23]: ***  [, Level 0]: '(2)fitz' has left the game
+[2021-04-11 08:12:28]: Kirito [♥, Level 40]: Lucas: dont help any or war
+[2021-04-11 08:12:29]: (1)kais [, Level 58]: Kaptar: de quoi gaffe ?
+[2021-04-11 08:12:30]: ***  [, Level 0]: '(1)vekong&' entered and joined the game
+[2021-04-11 08:12:32]: ☺ [, Level 0]: thx
