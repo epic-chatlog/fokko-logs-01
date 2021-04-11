@@ -6632,3 +6632,5 @@
 [2021-04-11 10:34:46]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
 [2021-04-11 10:34:46]: ☺ [, Level 6]: Zephir™: att regarde
 [2021-04-11 10:34:53]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
+[2021-04-11 10:34:57]: ☺ [, Level 6]: ya trop de monde
+[2021-04-11 10:34:59]: Hunter.exe [DogParty, Level 36]: rexi: und wieso gibst du dich als Mädchen aus?
