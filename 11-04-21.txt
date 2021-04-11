@@ -10542,3 +10542,6 @@
 [2021-04-11 14:15:00]: ***  [, Level 0]: 'any²' entered and joined the game
 [2021-04-11 14:15:01]: ***  [, Level 0]: Chillingo is on a killing spree with 15 blocks
 [2021-04-11 14:15:03]: |ΛnץOиe| [, Level 0]: beruski? dontworyberuski
+[2021-04-11 14:15:09]: |ΛnץOиe| [, Level 0]: dontworyberuski: what is it
+[2021-04-11 14:15:11]: dontworyberuski [DogParty, Level 41]: dont worry be ruski
+[2021-04-11 14:15:16]: |ΛnץOиe| [, Level 0]: dontworyberuski: ohhhh
