@@ -4383,3 +4383,4 @@
 [2021-04-11 08:27:40]: ***  [, Level 0]: 'sL|coffee [D]' entered and joined the game
 [2021-04-11 08:27:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-11 08:27:44]: Lucas [THECEPS, Level 34]: Zephir™: bruh
+[2021-04-11 08:27:57]: ☺ [, Level 0]: go
