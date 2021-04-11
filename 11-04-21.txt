@@ -3986,3 +3986,4 @@
 [2021-04-11 08:02:39]: GOLD [404, Level 40]: Foxie♥: regrette bien
 [2021-04-11 08:02:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-11 08:02:44]: ***  [, Level 0]: 'Nollolp' has left the game
+[2021-04-11 08:02:54]: ***  [, Level 0]: 'minecraft' entered and joined the game
