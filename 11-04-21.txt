@@ -11197,3 +11197,5 @@
 [2021-04-11 15:00:05]: fokkonaut [, Level 102]: ja klar
 [2021-04-11 15:00:08]: ***  [, Level 0]: 'S Y T H N' has left the game (Timeout Protection over)
 [2021-04-11 15:00:13]: fokkonaut [, Level 102]: dummer wichser eben
+[2021-04-11 15:00:18]: ***  [, Level 0]: [D] BULLETBOT is on a killing spree with 10 blocks
+[2021-04-11 15:00:19]: any² [404, Level 0]: fokkonaut: dont hack hamer me x)
