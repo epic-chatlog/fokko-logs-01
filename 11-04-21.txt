@@ -1056,3 +1056,7 @@
 [2021-04-11 04:40:40]: ***  [, Level 0]: 'Lucas' entered and joined the game
 [2021-04-11 04:40:45]: ***  [, Level 0]: 'Greenwolf88' entered and joined the game
 [2021-04-11 04:40:49]: cookie [, Level 19]: GReeeN:  why me dude
+[2021-04-11 04:40:55]: ***  [, Level 0]: [D] UOYKCUFI is on a killing spree with 5 blocks
+[2021-04-11 04:40:57]: ***  [, Level 0]: [D] UOYKCUFI's killing spree was ended by Soros (5 blocks)
+[2021-04-11 04:40:58]: keepertrain._. [FookinLads, Level 30]: GReeeN: nah dude
+[2021-04-11 04:40:58]: weqe [669, Level 12]: wait GReeeN
