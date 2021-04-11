@@ -11447,3 +11447,5 @@
 [2021-04-11 15:14:35]: fokkonaut [, Level 102]: yes
 [2021-04-11 15:14:43]: Kirito [, Level 40]: fokkonaut: nein any is mein gegner
 [2021-04-11 15:14:48]: Kirito [, Level 40]: any: der nervt
+[2021-04-11 15:15:12]: Kirito [, Level 40]: any: kill
+[2021-04-11 15:15:13]: fokkonaut [, Level 102]: wait any
