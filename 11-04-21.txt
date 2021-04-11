@@ -10219,3 +10219,5 @@
 [2021-04-11 13:48:26]: [D] El patron [, Level 23]: anyone say danke schon
 [2021-04-11 13:48:27]: |ΛnץOиe| [, Level 0]: Hunter.exe: why
 [2021-04-11 13:48:30]: ERROR [404, Level 56]: Zephir™:  yeees xDDD
+[2021-04-11 13:48:45]: Zephir™ [, Level 39]: ERROR: i see xD
+[2021-04-11 13:48:52]: |ΛnץOиe| [, Level 0]: Hunter.exe: just bcs im frecnch strange
