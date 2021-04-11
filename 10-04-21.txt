@@ -13307,3 +13307,5 @@
 [2021-04-10 20:19:21]: LeonXuwu [, Level 0]: come on
 [2021-04-10 20:22:26]: ***  [, Level 0]: 'LeonXuwu' has left the game
 [2021-04-10 20:22:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-10 20:23:51]: ***  [, Level 0]: 'ERROR' entered and joined the game
+[2021-04-10 20:23:51]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
