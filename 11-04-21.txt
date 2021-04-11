@@ -3161,3 +3161,6 @@
 [2021-04-11 07:08:04]: ***  [, Level 0]: 'Lucas' joined the minigame 'Instagib Boom FNG', use '/boomfng' to join aswell
 [2021-04-11 07:08:08]: Kaptar [, Level 0]: YelloWorlD: frère laisse le
 [2021-04-11 07:08:20]: GODLIKe. [, Level 39]: FUCKKKK
+[2021-04-11 07:08:34]: ***  [, Level 0]: 'soleri1' joined the minigame 'Instagib Boom FNG', use '/boomfng' to join aswell
+[2021-04-11 07:08:38]: fokkonaut [, Level 102]: is it laggy
+[2021-04-11 07:08:40]: fokkonaut [, Level 102]: or is it me
