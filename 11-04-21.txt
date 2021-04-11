@@ -5480,3 +5480,4 @@
 [2021-04-11 09:28:17]: 62sj [, Level 0]: rifle
 [2021-04-11 09:28:22]: ***  [, Level 0]: Axel finished in: 11 minute(s) 21.86 second(s)
 [2021-04-11 09:28:25]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: wie alt bist du
+[2021-04-11 09:28:28]: ***  [, Level 0]: Axel ² finished in: 3 minute(s) 14.20 second(s)
