@@ -2353,3 +2353,4 @@
 [2021-04-11 06:05:02]: ***  [, Level 0]: '(2)cookie' has left the game
 [2021-04-11 06:05:04]: ***  [, Level 0]: '(2)cookie' entered and joined the game
 [2021-04-11 06:05:06]: ***  [, Level 0]: '(1)Saud' entered and joined the game
+[2021-04-11 06:05:16]: Saud [MNKY, Level 0]: xD
