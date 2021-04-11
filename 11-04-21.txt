@@ -739,3 +739,6 @@
 [2021-04-11 04:19:27]: ***  [, Level 0]: fitz finished in: 9 minute(s) 16.98 second(s)
 [2021-04-11 04:19:27]: ***  [, Level 0]: 'fitz' finished the special race!
 [2021-04-11 04:19:32]: ***  [, Level 0]: el champeon's killing spree was ended by [D] UOYKCUFI (14 blocks)
+[2021-04-11 04:19:35]: ***  [, Level 0]: 'Kakso' joined the spectators
+[2021-04-11 04:19:39]: ***  [, Level 0]: 'Kakso' joined the game
+[2021-04-11 04:19:45]: ***  [, Level 0]: 'soleri1' finished the special race!
