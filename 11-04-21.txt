@@ -7093,3 +7093,5 @@
 [2021-04-11 11:07:43]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-11 11:07:44]: ReXi [, Level 0]: f
 [2021-04-11 11:07:45]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: soleri1:
+[2021-04-11 11:07:56]: ***  [, Level 0]: 'Tziys*' entered and joined the game
+[2021-04-11 11:08:01]: ***  [, Level 0]: 'Lisa' entered and joined the game
