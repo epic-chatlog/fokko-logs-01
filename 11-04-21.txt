@@ -8305,3 +8305,5 @@
 [2021-04-11 12:05:52]: Axel [TrRShClNrRs, Level 30]: argh
 [2021-04-11 12:05:54]: ☺ [, Level 6]: |HolyHo|°: then stop
 [2021-04-11 12:05:59]: ***  [, Level 0]: '(1)WarHammer' entered and joined the game
+[2021-04-11 12:06:09]: |HolyHo|° [, Level 28]: ☺: nope <3
+[2021-04-11 12:06:10]: ***  [, Level 0]: 'WarHammer' would have timed out, but can use timeout protection now
