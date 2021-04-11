@@ -2350,3 +2350,6 @@
 [2021-04-11 06:04:53]: ***  [, Level 0]: 'MieSlime' has left the game
 [2021-04-11 06:04:55]: ERROR [404, Level 56]: rq nub
 [2021-04-11 06:04:56]: ***  [, Level 0]: 'pleiter' entered and joined the game
+[2021-04-11 06:05:02]: ***  [, Level 0]: '(2)cookie' has left the game
+[2021-04-11 06:05:04]: ***  [, Level 0]: '(2)cookie' entered and joined the game
+[2021-04-11 06:05:06]: ***  [, Level 0]: '(1)Saud' entered and joined the game
