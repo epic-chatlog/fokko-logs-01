@@ -6825,3 +6825,5 @@
 [2021-04-11 10:46:31]: ReXi [, Level 0]: falkenauge: geil
 [2021-04-11 10:46:33]: Hunter.exe [DogParty, Level 36]: coca: war
 [2021-04-11 10:46:33]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: xD
+[2021-04-11 10:46:37]: coca [, Level 22]: Hunter.exe: NO
+[2021-04-11 10:46:41]: JustRace [DogParty, Level 36]: cl_aimbot 1
