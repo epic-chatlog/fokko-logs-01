@@ -3071,3 +3071,5 @@
 [2021-04-11 07:02:09]: soleri1 [, Level 22]: Lucas: ur dummy?
 [2021-04-11 07:02:15]: Lucas [THECEPS, Level 34]: soleri1: i can't make one
 [2021-04-11 07:02:16]: Ƭevan [TrRShClNrRs, Level 49]: щя
+[2021-04-11 07:02:21]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
+[2021-04-11 07:02:31]: ***  [, Level 0]: '(1)soleri1' joined the minigame 'Survival', use '/survival' to join aswell
