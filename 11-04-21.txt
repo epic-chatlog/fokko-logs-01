@@ -3637,3 +3637,7 @@
 [2021-04-11 07:35:52]: ***  [, Level 0]: 'Kirit' entered and joined the game
 [2021-04-11 07:35:57]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-11 07:36:03]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-11 07:36:06]: Shiro. [404, Level 0]: just wanted sound
+[2021-04-11 07:36:09]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
+[2021-04-11 07:36:11]: Shiro. [404, Level 42]: shat ap
+[2021-04-11 07:36:16]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
