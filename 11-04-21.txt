@@ -1818,3 +1818,4 @@
 [2021-04-11 05:22:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-11 05:22:44]: lolpoep [, Level 19]: cHurch:  WOOW your good
 [2021-04-11 05:22:44]: cHurch [HUITA, Level 47]: Kirito: fakin noname xD
+[2021-04-11 05:22:56]: Kirito [, Level 40]: xDDD
