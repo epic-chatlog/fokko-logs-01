@@ -6156,3 +6156,7 @@
 [2021-04-11 10:01:33]: |ΛnץOиe| [, Level 0]: hhh3: xd
 [2021-04-11 10:01:41]: ***  [, Level 0]: 'Katakomb' has left the game
 [2021-04-11 10:01:45]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
+[2021-04-11 10:01:52]: coca [, Level 22]: Zephir™: thx
+[2021-04-11 10:01:52]:   [, Level 0]: (2)ChillerDragon: Error: missing token (usage: '/whisper name token command')
+[2021-04-11 10:01:57]: ***  [, Level 0]: 'prankstar' entered and joined the game
+[2021-04-11 10:02:03]: ***  [, Level 0]: 'prankstar' has left the game
