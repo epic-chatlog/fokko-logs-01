@@ -316,3 +316,4 @@
 [2021-04-11 03:36:49]: SanoreX.* [Chilli.*, Level 22]: (1)DiscordBridg:
 [2021-04-11 03:36:52]: SanoreX.* [Chilli.*, Level 22]: omg
 [2021-04-11 03:36:57]: ***  [•, Level 0]: 'Shiro,' has left the game
+[2021-04-11 03:37:01]: any [404, Level 37]: -online
