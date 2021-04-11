@@ -10914,3 +10914,6 @@
 [2021-04-11 14:42:03]: Kezo [DogParty, Level 0]: |MıssOяchiĐ|: OMG TRANS
 [2021-04-11 14:42:05]: ***  [, Level 0]: 'Kezo' has left the game
 [2021-04-11 14:42:06]: ***  [, Level 0]: 'HeavyGeneral' has left the game
+[2021-04-11 14:42:11]: ***  [, Level 0]: 'Kezo' entered and joined the game
+[2021-04-11 14:42:14]: [D] Hunter.exe [DogParty, Level 0]: fokkonaut: feier ich
+[2021-04-11 14:42:20]: Kezo [DogParty, Level 0]: scared quit
