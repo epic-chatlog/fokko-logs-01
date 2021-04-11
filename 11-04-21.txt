@@ -942,3 +942,4 @@
 [2021-04-11 04:32:32]: comic [comically, Level 14]: Hollow night: gud game
 [2021-04-11 04:32:41]: [D] keepertrain [, Level 25]: weqe:
 [2021-04-11 04:32:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-11 04:32:56]: ***  [, Level 0]: 1 is on a killing spree with 5 blocks
