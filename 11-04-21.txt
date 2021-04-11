@@ -6133,3 +6133,5 @@
 [2021-04-11 09:58:36]: ***  [, Level 0]: 'peS' has left the game
 [2021-04-11 09:58:46]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-11 09:58:59]: |ΛnץOиe| [, Level 0]: fitz: dont take (1)ERROR's place aha
+[2021-04-11 09:59:11]: ***  [, Level 0]: '[D] Cylox' has left the game
+[2021-04-11 09:59:11]: ***  [, Level 0]: 'Cylox' has left the game
