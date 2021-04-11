@@ -13291,3 +13291,4 @@
 [2021-04-10 19:58:20]: ***  [, Level 0]: 'BLOCKTEE' has left the game
 [2021-04-10 20:01:15]: ***  [, Level 0]: 'LeonXuwu' has left the game
 [2021-04-10 20:01:57]: ***  [, Level 0]: 'LeonXuwu' entered and joined the game
+[2021-04-10 20:02:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
