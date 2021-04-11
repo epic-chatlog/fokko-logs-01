@@ -12803,3 +12803,5 @@
 [2021-04-10 18:22:36]: SLEEPY`iBow ._. [R!FムE, Level 57]: AbdoZX17: nothing
 [2021-04-10 18:22:40]: SLEEPY`iBow ._. [R!FムE, Level 57]: S Y T H N: top 1 in taser is error
 [2021-04-10 18:22:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-10 18:22:50]: ***  [, Level 0]: 'BLOCKTEE' has left the game
+[2021-04-10 18:22:57]: S Y T H N [, Level 37]: SLEEPY`iBow ._.: na KshKsh
