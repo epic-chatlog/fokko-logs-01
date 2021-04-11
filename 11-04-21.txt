@@ -3430,3 +3430,5 @@
 [2021-04-11 07:25:55]: ***  [, Level 0]: Saud's killing spree was ended by (1)kais (12 blocks)
 [2021-04-11 07:25:57]: ***  [, Level 0]: 'Draconic' joined the game
 [2021-04-11 07:25:57]: hhnaut31 [, Level 43]: i go here
+[2021-04-11 07:26:05]: ***  [, Level 0]: 'Draconic' joined the spectators
+[2021-04-11 07:26:12]: ***  [, Level 0]: 'Shiro,' entered and joined the game
