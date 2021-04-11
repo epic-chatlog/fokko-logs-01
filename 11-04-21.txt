@@ -3271,3 +3271,5 @@
 [2021-04-11 07:14:38]: soleri1 [, Level 22]: Lucas: 2=1
 [2021-04-11 07:14:39]: [D] keepertrain [, Level 25]: weqe:
 [2021-04-11 07:14:49]: Lucas [THECEPS, Level 34]: 3 1
+[2021-04-11 07:15:11]: Lucas [THECEPS, Level 34]: 4 1
+[2021-04-11 07:15:14]: GODLIKe [, Level 44]: broken
