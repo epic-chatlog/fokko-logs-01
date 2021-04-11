@@ -9018,3 +9018,5 @@
 [2021-04-11 12:40:21]: ***  [, Level 0]: 'coffee' has left the game (Timeout Protection over)
 [2021-04-11 12:40:23]: ***  [, Level 0]: '(2)flappy.*' has left the game (Timeout)
 [2021-04-11 12:40:39]: Saud [MNKY, Level 24]: Axel ²:
+[2021-04-11 12:40:48]: ***  [, Level 0]: '(1)' has left the game
+[2021-04-11 12:40:52]: |ΛnץOиe| [, Level 0]: xdddddddddddd
