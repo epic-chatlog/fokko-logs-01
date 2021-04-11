@@ -8606,3 +8606,4 @@
 [2021-04-11 12:17:22]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-11 12:17:23]: rexi [, Level 16]: ja
 [2021-04-11 12:17:23]: Vazelin [DogParty, Level 41]: Cylox: adamların 100euro ya aldıkları şeyi biz neden 10000 tl ye alıyoruz
+[2021-04-11 12:17:31]: ***  [, Level 0]: |HolyHo| finished in: 0 minute(s) 31.48 second(s)
