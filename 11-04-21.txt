@@ -1027,3 +1027,8 @@
 [2021-04-11 04:39:04]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-11 04:39:10]: Axandos [, Level 0]: who's axel
 [2021-04-11 04:39:10]: GReeeN [, Level 41]: weqe:  nope
+[2021-04-11 04:39:12]: cookie [, Level 19]: GReeeN:  why
+[2021-04-11 04:39:12]: weqe [669, Level 12]: why not GReeeN
+[2021-04-11 04:39:14]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-11 04:39:20]: ***  [, Level 0]: Soros is on a killing spree with 50 blocks
+[2021-04-11 04:39:21]: GReeeN [, Level 41]: weqe:  because i dont want it
