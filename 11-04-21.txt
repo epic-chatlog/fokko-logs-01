@@ -10386,3 +10386,6 @@
 [2021-04-11 14:00:43]: ReXi [, Level 0]: cunt: komm hammerfly
 [2021-04-11 14:00:48]: |MıssOяchiĐ| [, Level 48]: Hunter.exe: i go bank
 [2021-04-11 14:00:54]: ***  [, Level 0]: '☺' has left the game
+[2021-04-11 14:00:56]: ***  [, Level 0]: '(1)cunt' has left the game
+[2021-04-11 14:00:59]: ***  [, Level 0]: 'any' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-11 14:00:59]: ***  [, Level 0]: 'any²' has left the game (Too weak connection (not acked for 60 seconds))
