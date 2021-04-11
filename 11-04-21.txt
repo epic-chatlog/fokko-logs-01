@@ -7728,3 +7728,4 @@
 [2021-04-11 11:39:57]: Tziys* [DogParty, Level 39]: hı
 [2021-04-11 11:39:57]: ***  [, Level 0]: 'bully' entered and joined the game
 [2021-04-11 11:39:58]: Tziys* [DogParty, Level 39]: Hunter.exe:
+[2021-04-11 11:40:03]: Telefantastic [TrRShClNrRs, Level 0]: flappy: help
