@@ -9015,3 +9015,5 @@
 [2021-04-11 12:40:00]: SanoreX [Chilli.*, Level 27]: np
 [2021-04-11 12:40:02]: SanoreX [Chilli.*, Level 27]: bye!
 [2021-04-11 12:40:03]: ***  [, Level 0]: 'Lucas' has left the game
+[2021-04-11 12:40:21]: ***  [, Level 0]: 'coffee' has left the game (Timeout Protection over)
+[2021-04-11 12:40:23]: ***  [, Level 0]: '(2)flappy.*' has left the game (Timeout)
