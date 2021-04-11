@@ -11181,3 +11181,6 @@
 [2021-04-11 14:57:24]: ***  [, Level 0]: 'soleri1' has left the game
 [2021-04-11 14:57:29]: ***  [, Level 0]: 'Breakg' has left the game
 [2021-04-11 14:57:34]: any² [404, Level 0]: fokkonaut: hahahahha i hate myself
+[2021-04-11 14:57:43]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-11 14:57:50]: BULLETBOT [, Level 0]: 3
+[2021-04-11 14:57:52]: BULLETBOT [, Level 0]: 2
