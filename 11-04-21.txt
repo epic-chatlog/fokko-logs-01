@@ -1270,3 +1270,5 @@
 [2021-04-11 04:52:43]: ***  [, Level 0]: 'why' entered and joined the game
 [2021-04-11 04:52:49]: ***  [, Level 0]: 'Axandos²' has left the game (Timeout)
 [2021-04-11 04:52:49]: ***  [, Level 0]: 'Axandos' has left the game (Timeout)
+[2021-04-11 04:52:53]: ***  [, Level 0]: 'Axandos' entered and joined the game
+[2021-04-11 04:52:59]: SanoreX [Chilli.*, Level 27]: axados
