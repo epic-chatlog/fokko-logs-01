@@ -11175,3 +11175,5 @@
 [2021-04-11 14:56:08]: ***  [, Level 0]: 'S Y T H N' would have timed out, but can use timeout protection now
 [2021-04-11 14:56:15]: (1)fitz [, Level 16]: fokkonaut: what id the purpose of this place?
 [2021-04-11 14:56:20]: fokkonaut [, Level 102]: nothing xd
+[2021-04-11 14:56:33]: ***  [, Level 0]: 'soleri1' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-11 14:56:37]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
