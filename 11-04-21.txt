@@ -2312,3 +2312,4 @@
 [2021-04-11 06:01:27]:   [, Level 0]: (1)coca: ERROR: place teleport here
 [2021-04-11 06:01:28]: ***  [, Level 0]: 'Katz' entered and joined the game
 [2021-04-11 06:01:31]:   [, Level 0]: (1)coca: ERROR: my dummy dead
+[2021-04-11 06:02:24]: Matiteusz [TrRShClNrRs, Level 35]: Zephir™: come
