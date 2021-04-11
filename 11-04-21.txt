@@ -2375,3 +2375,5 @@
 [2021-04-11 06:07:24]: ***  [, Level 0]: [D] El patron is on a killing spree with 5 blocks
 [2021-04-11 06:07:27]: ***  [, Level 0]: 'Axandos' entered and joined the game
 [2021-04-11 06:07:28]: ***  [, Level 0]: [D] El patron's killing spree was ended by weqe (5 blocks)
+[2021-04-11 06:07:30]: (2)cookie [, Level 0]: come
+[2021-04-11 06:07:30]: Ƭevan [TrRShClNrRs, Level 49]: weqe: yea) this tactic is workxD
