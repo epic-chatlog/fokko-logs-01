@@ -9952,3 +9952,6 @@
 [2021-04-11 13:26:09]: Hunter.exe [DogParty, Level 36]: |ΛnץOиe|: there is your dummy
 [2021-04-11 13:26:13]: |ΛnץOиe| [, Level 0]: Hunter.exe: who
 [2021-04-11 13:26:23]: fitz [, Level 17]: El patron:
+[2021-04-11 13:26:25]: |ΛnץOиe| [, Level 0]: Hunter.exe: what tf
+[2021-04-11 13:26:25]: minecraft [, Level 14]: what i did El patron
+[2021-04-11 13:26:33]: |ΛnץOиe| [, Level 0]: Hunter.exe: why u take me here
