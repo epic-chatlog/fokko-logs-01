@@ -12894,3 +12894,6 @@
 [2021-04-10 18:30:46]: S Y T H N [, Level 37]: oh
 [2021-04-10 18:30:48]: Chips [R!FムE, Level 0]: .S L E E P Y': doggo
 [2021-04-10 18:30:56]: .S L E E P Y' [iPro ♡, Level 38]: Chips:  woof woof
+[2021-04-10 18:30:59]: Chips [R!FムE, Level 0]: .S L E E P Y': he took 20 sec to kill afk
+[2021-04-10 18:31:03]: .S L E E P Y' [iPro ♡, Level 38]: yikes
+[2021-04-10 18:31:04]: .S L E E P Y' [iPro ♡, Level 38]: man
