@@ -731,3 +731,6 @@
 [2021-04-11 04:18:46]: ***  [, Level 0]: 'Kakso' joined the spectators
 [2021-04-11 04:18:48]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
 [2021-04-11 04:18:50]: ***  [, Level 0]: 'Kakso' joined the game
+[2021-04-11 04:19:00]: [D] keepertrain [, Level 25]: ES: oh bro
+[2021-04-11 04:19:02]: [D] keepertrain [, Level 25]: XD
+[2021-04-11 04:19:06]: [D] keepertrain [, Level 25]: go kill
