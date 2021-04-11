@@ -8236,3 +8236,6 @@
 [2021-04-11 12:02:38]: |ΛnץOиe| [, Level 0]: Javelin: sad
 [2021-04-11 12:02:43]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-11 12:02:45]: cunt [, Level 0]: rexi: mach du auch mit dummy
+[2021-04-11 12:02:52]: |ΛnץOиe| [, Level 0]: Kenshi™: diiiis
+[2021-04-11 12:02:56]: ReXi [, Level 0]: hab kein lase
+[2021-04-11 12:02:56]: SanoreX [Chilli.*, Level 27]:  vec2 N = vec2(m_pClient->m_Snap.m_aCharacters[nearest_id].m_Cur.m_X/32, m_pClient->m_Snap.m_aCharacters[nearest_id].m_Cur.m_Y/32);
