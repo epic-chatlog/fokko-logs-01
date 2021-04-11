@@ -2251,3 +2251,6 @@
 [2021-04-11 05:57:14]: ***  [, Level 0]: 'LOL:| [BG]' has left the game
 [2021-04-11 05:57:16]: ERROR [404, Level 56]: die is stirb kais
 [2021-04-11 05:57:18]: Swarfey [FookinLads, Level 60]: |MıssOяchiĐ|:
+[2021-04-11 05:57:40]: ERROR [404, Level 56]: Swarfey:  was machst du xDDD
+[2021-04-11 05:57:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-11 05:57:48]: Nudelsaft c: [FookinLads, Level 37]: ERROR: hab gedacht er kommt vlt wieder aber nö xd
