@@ -492,3 +492,7 @@
 [2021-04-11 03:53:39]: Dog Walter [, Level 0]: :D:D
 [2021-04-11 03:53:50]: [D] peS [, Level 0]: Anton: dude
 [2021-04-11 03:53:52]: ***  [, Level 0]: '(1)SanoreX' entered and joined the game
+[2021-04-11 03:54:02]: [D] peS [, Level 0]: Anton: DONT HELP ME
+[2021-04-11 03:54:05]: (1)SanoreX [Chilli.*, Level 22]: Nudelsaft c:: gay
+[2021-04-11 03:54:06]: ***  [, Level 0]: 'uptoram' has left the game
+[2021-04-11 03:54:08]: ***  [, Level 0]: 'uptoram' entered and joined the game
