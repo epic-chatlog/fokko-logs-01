@@ -11192,3 +11192,4 @@
 [2021-04-11 14:59:04]: any² [404, Level 0]: fokkonaut: this is finish line
 [2021-04-11 14:59:18]: any² [404, Level 0]: was here fokkonaut
 [2021-04-11 14:59:39]: ***  [, Level 0]: [D] BULLETBOT is on a killing spree with 5 blocks
+[2021-04-11 14:59:47]: [D] BULLETBOT [, Level 0]: noobs
