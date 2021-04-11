@@ -6465,3 +6465,6 @@
 [2021-04-11 10:20:47]: WarHammer [DogParty, Level 0]: ♥TAKO♥:  OYNA
 [2021-04-11 10:20:54]: ♥TAKO♥ [DogParty, Level 25]: texture değişiyom
 [2021-04-11 10:20:55]: ♥TAKO♥ [DogParty, Level 25]: aaa
+[2021-04-11 10:21:19]: ***  [, Level 0]: 'Cosmo' entered and joined the game
+[2021-04-11 10:21:23]: Cassie [, Level 0]: ERROR: hi
+[2021-04-11 10:21:25]: ☺ [, Level 6]: en fait c'est 20 ou 30 lvl pour le laser Zephir™
