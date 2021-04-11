@@ -4702,3 +4702,4 @@
 [2021-04-11 08:42:59]: NoobEmir [AoeSBrother, Level 14]: do kill
 [2021-04-11 08:43:09]: Zephir™ [, Level 39]: ERROR: i blocked them and they never comeback here$
 [2021-04-11 08:43:14]: ***  [, Level 0]: 'El patron' has left the game
+[2021-04-11 08:43:35]: ***  [, Level 0]: 'Kinder' has left the game (Timeout)
