@@ -11220,3 +11220,6 @@
 [2021-04-11 15:02:02]: sharkz [, Level 45]: fokkonaut:
 [2021-04-11 15:02:06]: fokkonaut [, Level 102]: sgeht
 [2021-04-11 15:02:13]: sharkz [, Level 45]: wgeht?
+[2021-04-11 15:02:17]: any² [404, Level 0]: fokkonaut: come plot
+[2021-04-11 15:02:19]: ***  [, Level 0]: 'king' has left the game
+[2021-04-11 15:02:21]: ***  [, Level 0]: [D] BULLETBOT is on a killing spree with 30 blocks
