@@ -2372,3 +2372,6 @@
 [2021-04-11 06:07:08]: Zephir™ [, Level 39]: 1: fun war ?
 [2021-04-11 06:07:10]: ***  [, Level 0]: 'Kaptar' entered and joined the game
 [2021-04-11 06:07:14]: weqe [669, Level 12]: it is Ƭevan actually , u are just doing a 5v1 lol
+[2021-04-11 06:07:24]: ***  [, Level 0]: [D] El patron is on a killing spree with 5 blocks
+[2021-04-11 06:07:27]: ***  [, Level 0]: 'Axandos' entered and joined the game
+[2021-04-11 06:07:28]: ***  [, Level 0]: [D] El patron's killing spree was ended by weqe (5 blocks)
