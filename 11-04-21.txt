@@ -3073,3 +3073,6 @@
 [2021-04-11 07:02:16]: Ƭevan [TrRShClNrRs, Level 49]: щя
 [2021-04-11 07:02:21]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
 [2021-04-11 07:02:31]: ***  [, Level 0]: '(1)soleri1' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-11 07:02:34]: |MıssOяchiĐ| [, Level 48]: GODLIKe.: you
+[2021-04-11 07:02:39]: GODLIKe [, Level 44]: |MıssOяchiĐ|: what
+[2021-04-11 07:02:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
