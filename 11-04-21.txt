@@ -2720,3 +2720,4 @@
 [2021-04-11 06:38:15]: [D] keepertrain [FookinLads, Level 25]: K!ked: go xD
 [2021-04-11 06:38:15]: ***  [, Level 0]: soleri1 is on a killing spree with 30 blocks
 [2021-04-11 06:38:21]: [D] keepertrain [FookinLads, Level 25]: K!ked: spec me
+[2021-04-11 06:38:31]: ***  [, Level 0]: soleri1's killing spree was ended by Chillingo (31 blocks)
