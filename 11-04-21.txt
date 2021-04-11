@@ -8959,3 +8959,11 @@
 [2021-04-11 12:35:52]: Axel [TrRShClNrRs, Level 30]: |HolyHo|: ?
 [2021-04-11 12:35:59]: Axel [TrRShClNrRs, Level 30]: |HolyHo|: what is that means?
 [2021-04-11 12:36:09]: |HolyHo|° [, Level 28]: Axel: i love you so much
+[2021-04-11 12:36:14]: |ΛnץOиe| [, Level 0]: i fail
+[2021-04-11 12:36:15]: Axel [TrRShClNrRs, Level 30]: |HolyHo|: :D
+[2021-04-11 12:36:15]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-11 12:36:20]: ***  [, Level 0]: '(2)flappy.*' entered and joined the game
+[2021-04-11 12:36:20]: ***  [, Level 0]: 'rexi' has left the game (Timeout)
+[2021-04-11 12:36:20]: ***  [, Level 0]: 'ReXi' has left the game (Timeout)
+[2021-04-11 12:36:21]: ***  [, Level 0]: 'coffee' would have timed out, but can use timeout protection now
+[2021-04-11 12:36:22]: Axel [TrRShClNrRs, Level 30]: |HolyHo|: no problem
