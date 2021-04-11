@@ -2574,3 +2574,5 @@
 [2021-04-11 06:27:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-11 06:27:43]: K!ked [De}|{aBю, Level 62]: Ƭevan: я в москве кстати
 [2021-04-11 06:27:43]: ***  [, Level 0]: 'Teestar' left the minigame 'Block'
+[2021-04-11 06:28:04]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-11 06:28:06]: ***  [, Level 0]: 'Teestar' joined the minigame 'Block', use '/block' to join aswell
