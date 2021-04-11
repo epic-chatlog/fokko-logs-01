@@ -6912,3 +6912,7 @@
 [2021-04-11 10:52:46]: minecraft [, Level 13]: coca: ?
 [2021-04-11 10:52:46]: Hunter.exe [DogParty, Level 36]: i am noob: i just clear police
 [2021-04-11 10:52:48]: ReXi [, Level 0]: NoobEmir: nah
+[2021-04-11 10:52:50]: NoobEmir [AoeSBrother, Level 14]: why
+[2021-04-11 10:52:54]: any [404, Level 38]: Isegrin: pranked
+[2021-04-11 10:52:55]: Hunter.exe [DogParty, Level 36]: i am noob: you dont even have police so you dont need to stay here
+[2021-04-11 10:52:55]: Isegrin [, Level 55]: any: nub
