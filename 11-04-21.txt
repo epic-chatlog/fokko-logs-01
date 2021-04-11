@@ -7470,3 +7470,7 @@
 [2021-04-11 11:27:44]: ReXi [, Level 0]: [D] falkenauge: du standest in diesen teil da
 [2021-04-11 11:27:47]: Kezo [DogParty, Level 41]: Hunter.exe:
 [2021-04-11 11:27:49]: SanoreX [Chilli.*, Level 27]: (1)ChillerDragon: help
+[2021-04-11 11:27:52]: Kezo [DogParty, Level 41]: Hunter.exe: DUDE
+[2021-04-11 11:27:53]: SanoreX [Chilli.*, Level 27]: (1)ChillerDrago: help
+[2021-04-11 11:27:53]: Zephir™ [, Level 39]: OP|Supers: and Kezo really ez
+[2021-04-11 11:27:59]: OP|Supers [, Level 39]: Zephir™:  true
