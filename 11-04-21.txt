@@ -150,3 +150,4 @@
 [2021-04-11 03:23:37]: ***  [, Level 0]: 'comic' entered and joined the game
 [2021-04-11 03:23:39]: comic [comically, Level 0]: bruh
 [2021-04-11 03:23:39]: Shiro, [Whɪтє, Level 51]: jsuis aller trop loin
+[2021-04-11 03:23:48]: ***  [, Level 0]: 'Shiro,' has left the game
