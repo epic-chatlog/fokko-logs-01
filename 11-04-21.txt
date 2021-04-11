@@ -2185,3 +2185,5 @@
 [2021-04-11 05:50:31]: ***  [, Level 0]: (1)cookie is on a killing spree with 5 blocks
 [2021-04-11 05:50:32]: Night Team :D [TrRShClNrRs, Level 21]: thxxx
 [2021-04-11 05:50:41]: ***  [, Level 0]: '(1)Good man' entered and joined the game
+[2021-04-11 05:50:45]: Kirito [, Level 40]: i am playing v3 now bye
+[2021-04-11 05:50:46]: ***  [, Level 0]: 'Kirito' has left the game
