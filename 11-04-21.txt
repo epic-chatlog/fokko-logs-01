@@ -7039,3 +7039,6 @@
 [2021-04-11 11:03:51]: ReXi [, Level 0]: cunt:
 [2021-04-11 11:03:53]: (2)ChillerDrago [|*KoG*|, Level 45]: Error: (1)ChillerDragon failed to remote control (invalid token)
 [2021-04-11 11:03:54]: ReXi [, Level 0]: jungeeeeeeeeeeeee
+[2021-04-11 11:04:04]: (2)ChillerDrago [|*KoG*|, Level 45]: test failed
+[2021-04-11 11:04:08]: ***  [, Level 0]: ♥TAKO♥ finished in: 9 minute(s) 20.56 second(s)
+[2021-04-11 11:04:15]: ☺ [, Level 6]: i just one jumps ♥TAKO♥
