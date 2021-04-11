@@ -949,3 +949,7 @@
 [2021-04-11 04:33:18]: HardreenClutch [, Level 57]: Axandos:  du willst es also oke
 [2021-04-11 04:33:21]: [D] peS [, Level 0]: keepertrain._.:
 [2021-04-11 04:33:24]: GReeeN [, Level 41]: weqe:
+[2021-04-11 04:33:28]: ***  [, Level 0]: '[D] peS' has left the game
+[2021-04-11 04:33:28]: ***  [, Level 0]: 'peS' has left the game
+[2021-04-11 04:33:32]: weqe [669, Level 12]: GReeeN: ill help u if u dont fight Axandos
+[2021-04-11 04:33:33]: Axandos [, Level 0]: du hast mich nicht gerettet als er mich gekillt hat GReeeN
