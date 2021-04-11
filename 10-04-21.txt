@@ -13151,3 +13151,6 @@
 [2021-04-10 19:09:44]: ***  [, Level 0]: 'Mr.Ben' has left the game
 [2021-04-10 19:09:52]: Zephir™ [, Level 39]: S Y T H N: it's funny to kill u bro, not my fault xD
 [2021-04-10 19:09:57]: Noxl [.bad, Level 35]: S Y T H N:
+[2021-04-10 19:10:19]: S Y T H N [, Level 37]: Zephir™: 1. you killed me afk 2. you cant play without taser 3. Your rly toxic when you win when i go afk.
+[2021-04-10 19:10:21]: ***  [, Level 0]: 'Kirito' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-10 19:10:21]: ***  [, Level 0]: '(1)Kirito' has left the game (Too weak connection (not acked for 60 seconds))
