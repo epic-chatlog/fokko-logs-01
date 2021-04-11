@@ -826,3 +826,6 @@
 [2021-04-11 04:24:47]: ***  [, Level 0]: 'Soros' entered and joined the game
 [2021-04-11 04:24:56]: SanoreX [Chilli.*, Level 27]: moneybag
 [2021-04-11 04:24:56]: cookie [, Level 19]: weqe:  i have to mutch lags
+[2021-04-11 04:25:09]: ***  [, Level 0]: GReeeN is on a killing spree with 15 blocks
+[2021-04-11 04:25:14]: SanoreX [Chilli.*, Level 27]: moneybag
+[2021-04-11 04:25:19]: ***  [, Level 0]: 'GODLIKe.' finished the special race!
