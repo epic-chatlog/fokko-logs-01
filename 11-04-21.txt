@@ -7074,3 +7074,4 @@
 [2021-04-11 11:06:09]: Hunter.exe [DogParty, Level 36]: ChillerDragon: farmst du mir gratis geld?
 [2021-04-11 11:06:18]: ***  [, Level 0]: 'Cosmo' has left the game
 [2021-04-11 11:06:18]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
+[2021-04-11 11:06:35]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: sun.slow(y): hi
