@@ -723,3 +723,5 @@
 [2021-04-11 04:18:04]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
 [2021-04-11 04:18:13]: soleri1 [, Level 22]: ES:
 [2021-04-11 04:18:15]: ***  [, Level 0]: '(1)SanoreX' has left the game
+[2021-04-11 04:18:24]: ***  [, Level 0]: 'Kakso' entered and joined the game
+[2021-04-11 04:18:32]: ***  [, Level 0]: 'Kakso' joined the spectators
