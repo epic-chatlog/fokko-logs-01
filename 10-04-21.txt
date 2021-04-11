@@ -13284,3 +13284,4 @@
 [2021-04-10 19:53:06]: ***  [, Level 0]: '(1)ERROR' has left the game (Timeout)
 [2021-04-10 19:53:06]: ***  [, Level 0]: '(1)ERROR.' has left the game (Timeout)
 [2021-04-10 19:53:06]: ***  [, Level 0]: 'ERROR.' has left the game (Timeout)
+[2021-04-10 19:56:36]: ***  [, Level 0]: 'BLOCKTEE' entered and joined the game
