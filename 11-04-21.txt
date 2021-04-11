@@ -8754,3 +8754,4 @@
 [2021-04-11 12:23:03]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
 [2021-04-11 12:23:13]: SanoreX [Chilli.*, Level 27]: delirdi
 [2021-04-11 12:23:15]: (1)WarHammer [DogParty, Level 0]: flapy delirdi
+[2021-04-11 12:23:26]: SanoreX [Chilli.*, Level 27]: WarHammer': grenade aldır ona
