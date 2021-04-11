@@ -962,3 +962,5 @@
 [2021-04-11 04:33:48]: ***  [, Level 0]: 'Grasmously' has left the game
 [2021-04-11 04:33:58]: [D] keepertrain [, Level 25]: GReeeN: sorry he is too strong for me
 [2021-04-11 04:34:03]: ***  [, Level 0]: 'satou' entered and joined the game
+[2021-04-11 04:34:15]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
+[2021-04-11 04:34:19]: Axandos [, Level 0]: GReeeN:  hilf mir einfach dann töte ich dich nicht
