@@ -167,3 +167,6 @@
 [2021-04-11 03:24:56]: ZillyDreck [3, Level 0]: Welcome to the shop, (1)DiscordBridge! Press F4 to start shopping.
 [2021-04-11 03:25:22]: Good man [Drunks, Level 30]: any: pls unwar
 [2021-04-11 03:25:41]: ***  [, Level 0]: 'uptoram' entered and joined the game
+[2021-04-11 03:26:03]: ZillyDreck [3, Level 0]: Bye! Come back if you need something.
+[2021-04-11 03:26:04]: ***  [, Level 0]: Maatiteusz finished in: 0 minute(s) 37.80 second(s)
+[2021-04-11 03:26:04]: ***  [, Level 0]: New record:  1.88 second(s) better.
