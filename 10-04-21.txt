@@ -13319,3 +13319,4 @@
 [2021-04-10 20:32:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-10 20:35:15]: ***  [, Level 0]: 'Msinik' entered and joined the game
 [2021-04-10 20:37:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-10 20:38:29]: ***  [, Level 0]: 'Msinik' has left the game (Timeout)
