@@ -3814,3 +3814,5 @@
 [2021-04-11 07:50:31]: ***  [, Level 0]: 'sL|coffee [D]' has left the game
 [2021-04-11 07:50:31]: ***  [, Level 0]: 'coffee' has left the game
 [2021-04-11 07:50:34]: lol [, Level 0]: Kirito:  hi
+[2021-04-11 07:50:39]: ***  [, Level 0]: 'Shiro,' entered and joined the game
+[2021-04-11 07:50:40]: Foxie♥ [♥, Level 0]: Kirito: xd
