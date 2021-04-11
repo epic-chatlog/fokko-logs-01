@@ -710,3 +710,4 @@
 [2021-04-11 04:15:31]: ***  [, Level 0]: 'cookie' entered and joined the game
 [2021-04-11 04:15:33]: (1)Shy-ra. [, Level 0]: HELP
 [2021-04-11 04:15:37]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-11 04:16:01]: ***  [, Level 0]: el champeon's killing spree was ended by [D] UOYKCUFI (8 blocks)
