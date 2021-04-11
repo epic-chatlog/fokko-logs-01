@@ -4853,3 +4853,7 @@
 [2021-04-11 08:52:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-11 08:52:55]: ***  [, Level 0]: 'miś kolorowy' entered and joined the game
 [2021-04-11 08:52:56]: NoobEmir [AoeSBrother, Level 14]: Tziys*: spike nerde
+[2021-04-11 08:52:59]: ***  [, Level 0]: '[D] Cylox' has left the game
+[2021-04-11 08:53:00]: ***  [, Level 0]: 'Ϝʀıɢʊʂ' has left the game
+[2021-04-11 08:53:05]:   [, Level 0]: Tziys*: NoobEmir: konya yolunda
+[2021-04-11 08:53:09]: ***  [, Level 0]: 'miś kolorowy' has left the game
