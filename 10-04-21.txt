@@ -13350,3 +13350,5 @@
 [2021-04-10 22:27:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-10 22:32:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-10 22:34:33]: ***  [, Level 0]: 'Good man' entered and joined the game
+[2021-04-10 22:34:43]: Good man [Drunks, Level 0]: ERROR: hi
+[2021-04-10 22:34:45]: ***  [, Level 0]: 'coca' entered and joined the game
