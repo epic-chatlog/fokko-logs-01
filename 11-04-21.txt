@@ -1708,3 +1708,8 @@
 [2021-04-11 05:17:20]:   [, Level 0]: lolpoep: wait
 [2021-04-11 05:17:25]: coca [, Level 22]: Soros: fluffy 1
 [2021-04-11 05:17:29]:   [, Level 0]: Kirito: Andrew: IM STACKING
+[2021-04-11 05:17:35]:   [, Level 0]: Kirito: Andrew: ARE U DUMB IM STACKING WITH PORTAL
+[2021-04-11 05:17:38]: Andrew [, Level 47]: noo
+[2021-04-11 05:17:40]:   [, Level 0]: lolpoep: Andrew:  you need to wait
+[2021-04-11 05:17:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-11 05:17:45]: ***  [, Level 0]: 'Shroom' has left the game
