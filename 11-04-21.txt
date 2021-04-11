@@ -361,3 +361,7 @@
 [2021-04-11 03:40:18]: ***  [, Level 0]: 'RoberGN' has left the game
 [2021-04-11 03:40:21]: SanoreX [Chilli.*, Level 27]: 0hh
 [2021-04-11 03:40:23]: SanoreX [Chilli.*, Level 27]: rq
+[2021-04-11 03:40:28]: Kaptar [, Level 0]: xd
+[2021-04-11 03:40:30]: ***  [, Level 0]: 'dont kil ifarm' has left the game
+[2021-04-11 03:40:31]: NidardoHD [FlexTape, Level 5]: xd
+[2021-04-11 03:40:34]: ***  [, Level 0]: 'dont kil ifarm' entered and joined the game
