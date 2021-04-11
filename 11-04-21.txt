@@ -3872,3 +3872,4 @@
 [2021-04-11 07:54:53]: ***  [, Level 0]: 'chuj' has left the game
 [2021-04-11 07:54:55]: Zephir™ [, Level 39]: El patron: nope
 [2021-04-11 07:55:00]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-11 07:55:19]: ***  [, Level 0]: 'wizziak' entered and joined the game
