@@ -8878,3 +8878,5 @@
 [2021-04-11 12:30:34]: ***  [, Level 0]: '(1)Cosmo' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-11 12:30:47]: Axel [TrRShClNrRs, Level 30]: |MıssOяchiĐ|:
 [2021-04-11 12:30:56]: |ΛnץOиe| [, Level 0]: |HolyHo|°: what is ur problem
+[2021-04-11 12:30:57]: ***  [, Level 0]: 'Kaptar' entered and joined the game
+[2021-04-11 12:31:02]: |ΛnץOиe| [, Level 0]: |HolyHo|°: faking random
