@@ -7521,3 +7521,7 @@
 [2021-04-11 11:30:06]: Hunter.exe [DogParty, Level 36]: rexi: dass du ein mädchen bist
 [2021-04-11 11:30:14]: ***  [, Level 0]: kais finished in: 9 minute(s) 23.58 second(s)
 [2021-04-11 11:30:14]: ***  [, Level 0]: 'kais' finished the special race!
+[2021-04-11 11:30:21]: Hunter.exe [DogParty, Level 36]: rexi: er macht sich halt hoffnungen, dass da etwas läuft
+[2021-04-11 11:30:21]: Kezo [DogParty, Level 41]: SanoreX: hayır tek farkı seni policede istemiyorum seni
+[2021-04-11 11:30:26]: SanoreX [Chilli.*, Level 27]: Kezo: neden
+[2021-04-11 11:30:29]: Hunter.exe [DogParty, Level 36]: rexi: ist mir jetzt egal mach was du willst
