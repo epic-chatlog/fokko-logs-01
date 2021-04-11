@@ -8829,3 +8829,6 @@
 [2021-04-11 12:28:19]: ***  [, Level 0]: 'qKokzq' entered and joined the game
 [2021-04-11 12:28:20]: rexi [, Level 16]: das
 [2021-04-11 12:28:27]: ***  [, Level 0]: 'flappy.*' has left the game (Timeout)
+[2021-04-11 12:28:38]: rexi [, Level 16]: hallo
+[2021-04-11 12:28:41]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
+[2021-04-11 12:28:43]: |HolyHo|° [, Level 28]: GODLIKe: can i pls be your dog
