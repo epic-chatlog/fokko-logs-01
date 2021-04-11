@@ -2301,3 +2301,6 @@
 [2021-04-11 06:00:37]: ***  [, Level 0]: 'weqe' entered and joined the game
 [2021-04-11 06:00:41]: Hunter.exe [DogParty, Level 36]: Nidardo.: ok war
 [2021-04-11 06:00:50]: ***  [, Level 0]: 'Saud' entered and joined the game
+[2021-04-11 06:00:58]: K!ked [De}|{aBю, Level 62]: ERROR: u has war with weqe? :O
+[2021-04-11 06:01:01]: ERROR [404, Level 56]: idk
+[2021-04-11 06:01:08]: ***  [, Level 0]: '{(.)}  |  Raaaw' entered and joined the game
