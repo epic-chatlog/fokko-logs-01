@@ -2235,3 +2235,5 @@
 [2021-04-11 05:55:09]: Nudelsaft c: [FookinLads, Level 37]: Good man:
 [2021-04-11 05:55:31]: (1)Good man [Drunks, Level 0]: Zephir™: ты из росии?
 [2021-04-11 05:55:43]: ERROR [404, Level 56]: dont
+[2021-04-11 05:55:49]: Zephir™ [, Level 39]: ERROR.: hello
+[2021-04-11 05:55:58]: El patron [, Level 28]: ERROR:
