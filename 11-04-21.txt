@@ -9023,3 +9023,4 @@
 [2021-04-11 12:41:22]: any [404, Level 38]: Zephir™: fait /taserinfo
 [2021-04-11 12:41:29]: ***  [, Level 0]: '(1)flappy.*' entered and joined the game
 [2021-04-11 12:41:39]: Saud [MNKY, Level 24]: Cylox:  come lets get jet
+[2021-04-11 12:41:47]: [D] El patron [, Level 23]: any:
