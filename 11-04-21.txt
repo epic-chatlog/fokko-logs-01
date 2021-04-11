@@ -2572,3 +2572,5 @@
 [2021-04-11 06:27:35]: [D] keepertrain [FookinLads, Level 25]: Zephir™: yea
 [2021-04-11 06:27:36]: [D] keepertrain [FookinLads, Level 25]: wait
 [2021-04-11 06:27:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-11 06:27:43]: K!ked [De}|{aBю, Level 62]: Ƭevan: я в москве кстати
+[2021-04-11 06:27:43]: ***  [, Level 0]: 'Teestar' left the minigame 'Block'
