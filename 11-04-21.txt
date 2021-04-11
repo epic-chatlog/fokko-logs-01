@@ -2329,3 +2329,5 @@
 [2021-04-11 06:03:14]: ***  [, Level 0]: MieSlime is on a killing spree with 5 blocks
 [2021-04-11 06:03:20]: ***  [, Level 0]: 'Matiteusz' has left the game
 [2021-04-11 06:03:20]: ***  [, Level 0]: 'Meetiteusz' has left the game
+[2021-04-11 06:03:30]: ***  [, Level 0]: '[D] El patron' has left the game
+[2021-04-11 06:03:33]: ***  [, Level 0]: '[D] El patron' entered and joined the game
