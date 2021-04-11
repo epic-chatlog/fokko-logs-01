@@ -2202,3 +2202,6 @@
 [2021-04-11 05:52:36]: ***  [, Level 0]: 'RoberGN' entered and joined the game
 [2021-04-11 05:52:38]: K!ked [De}|{aBю, Level 62]: Zephir™:
 [2021-04-11 05:52:42]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-11 05:52:46]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 29.16 second(s)
+[2021-04-11 05:52:47]: K!ked [De}|{aBю, Level 62]: Matiteusz: down
+[2021-04-11 05:52:47]:   [, Level 0]: Zephir™: K!ked: ?
