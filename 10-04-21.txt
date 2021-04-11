@@ -13328,3 +13328,4 @@
 [2021-04-10 21:07:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-10 21:10:55]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-10 21:11:17]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-10 21:12:17]: ***  [, Level 0]: 'muluk' entered and joined the game
