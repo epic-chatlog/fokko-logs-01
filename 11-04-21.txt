@@ -2241,3 +2241,7 @@
 [2021-04-11 05:56:16]: MieSlime [FookinLads, Level 43]: ERROR:  do u want die ?
 [2021-04-11 05:56:19]: ERROR [404, Level 56]: no u?
 [2021-04-11 05:56:33]: ERROR [404, Level 56]: die
+[2021-04-11 05:56:38]: MieSlime [FookinLads, Level 43]: ERROR:  ok
+[2021-04-11 05:56:38]: ERROR [404, Level 56]: idiot
+[2021-04-11 05:56:48]:   [, Level 0]: (2)cookie: hahaha
+[2021-04-11 05:56:49]: (1)kais [, Level 58]: (1)ERROR: die ? you mean the german for the ? ;3
