@@ -8107,3 +8107,5 @@
 [2021-04-11 11:57:28]: ***  [, Level 0]: 'Mista bombastic' has left the game
 [2021-04-11 11:57:28]: ***  [, Level 0]: 'Telefantastic' has left the game
 [2021-04-11 11:57:31]: Kezo [DogParty, Level 41]: WarHammer: portal alcam yarın
+[2021-04-11 11:57:34]: Kezo [DogParty, Level 41]: alırım bi h.o
+[2021-04-11 11:57:43]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
