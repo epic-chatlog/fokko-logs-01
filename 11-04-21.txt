@@ -10517,3 +10517,6 @@
 [2021-04-11 14:12:20]: ***  [, Level 0]: 'cunt' has left the game
 [2021-04-11 14:12:28]: ***  [, Level 0]: 'ReXi' has left the game
 [2021-04-11 14:12:39]: myshootsgay [DogParty, Level 41]: ez
+[2021-04-11 14:12:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-11 14:12:45]: any [404, Level 38]: RM | Arin: at the end hammer me
+[2021-04-11 14:12:54]: any [404, Level 38]: RM | Arin: ...
