@@ -1867,3 +1867,5 @@
 [2021-04-11 05:27:52]: ***  [, Level 0]: 'Hollow night' has left the game
 [2021-04-11 05:28:01]: Kirito [, Level 40]: Foxie♥: i also
 [2021-04-11 05:28:07]: Kirito [, Level 40]: Foxie♥: how much u have
+[2021-04-11 05:28:18]: Foxie♥ [♥, Level 36]: Kirito: about 10
+[2021-04-11 05:28:21]: cHurch [HUITA, Level 47]: agent
