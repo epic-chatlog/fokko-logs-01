@@ -6020,3 +6020,6 @@
 [2021-04-11 09:52:43]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-11 09:52:45]: NoobEmir [AoeSBrother, Level 14]: 1 1
 [2021-04-11 09:52:47]: |ΛnץOиe| [, Level 0]: just tae: cooler?
+[2021-04-11 09:52:49]: |ΛnץOиe| [, Level 0]: just tae: what is it
+[2021-04-11 09:52:50]: NoobEmir [AoeSBrother, Level 14]: go
+[2021-04-11 09:52:52]: just tae [, Level 0]: idk english
