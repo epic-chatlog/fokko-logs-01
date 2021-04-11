@@ -12333,3 +12333,5 @@
 [2021-04-10 17:37:26]: ***  [, Level 0]: 'AbdoZX17' entered and joined the game
 [2021-04-10 17:37:29]: Zephir™ [, Level 39]: S Y T H N: XDD u need 3 guys for me bro
 [2021-04-10 17:37:36]: AbdoZX17 [, Level 0]: .S L E E P Y': 5x5 = ?
+[2021-04-10 17:37:39]: .S L E E P Y' [iPro ♡, Level 0]: 24
+[2021-04-10 17:37:43]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
