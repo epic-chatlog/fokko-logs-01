@@ -543,3 +543,5 @@
 [2021-04-11 03:57:30]: (1)SanoreX [Chilli.*, Level 22]: Nudelsaft c:: bi tch
 [2021-04-11 03:57:30]: ***  [, Level 0]: 'Meetiteusz' has left the game
 [2021-04-11 03:57:30]: ***  [, Level 0]: 'Maatiteusz' has left the game
+[2021-04-11 03:57:36]: ***  [, Level 0]: Nudelsaft c: is on a killing spree with 5 blocks
+[2021-04-11 03:57:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
