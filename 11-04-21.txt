@@ -8874,3 +8874,5 @@
 [2021-04-11 12:30:26]: ***  [, Level 0]: [D] El patron's killing spree was ended by |HolyHo|° (9 blocks)
 [2021-04-11 12:30:31]: |ΛnץOиe| [, Level 0]: |HolyHo|°: reallyN
 [2021-04-11 12:30:32]: |ΛnץOиe| [, Level 0]: |HolyHo|°: ?
+[2021-04-11 12:30:34]: ***  [, Level 0]: 'Cosmo' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-11 12:30:34]: ***  [, Level 0]: '(1)Cosmo' has left the game (Too weak connection (not acked for 60 seconds))
