@@ -616,3 +616,4 @@
 [2021-04-11 04:04:49]: |Smily [, Level 0]: Nudelsaft c::  help
 [2021-04-11 04:04:53]: [D] peS [, Level 0]: comic: no
 [2021-04-11 04:04:56]: comic [comically, Level 14]: [D] peS: yes
+[2021-04-11 04:04:59]: [D] peS [, Level 0]: comic: no stop
