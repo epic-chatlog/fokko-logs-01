@@ -3155,3 +3155,7 @@
 [2021-04-11 07:07:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-11 07:07:42]: [D] keepertrain [, Level 25]: me
 [2021-04-11 07:07:52]:   [, Level 0]: Lucas: soleri1: let's try the other one
+[2021-04-11 07:07:55]: ***  [, Level 0]: 'Lucas' left the minigame 'Instagib FNG'
+[2021-04-11 07:07:56]: ***  [, Level 0]: 'El patron' finished the special race!
+[2021-04-11 07:08:01]: ***  [, Level 0]: 'soleri1' left the minigame 'Instagib FNG'
+[2021-04-11 07:08:04]: ***  [, Level 0]: 'Lucas' joined the minigame 'Instagib Boom FNG', use '/boomfng' to join aswell
