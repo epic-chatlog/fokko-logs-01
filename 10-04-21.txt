@@ -12936,3 +12936,7 @@
 [2021-04-10 18:34:42]: wb [, Level 0]: e
 [2021-04-10 18:35:25]: Zephir™ [, Level 39]: Chips: u want ur 1v1 ?
 [2021-04-10 18:35:27]: Chips [R!FムE, Level 0]: yes
+[2021-04-10 18:35:30]: Chips [R!FムE, Level 0]: how much bp?
+[2021-04-10 18:35:35]: Chips [R!FムE, Level 0]: 3k?
+[2021-04-10 18:35:36]: Chips [R!FムE, Level 0]: go
+[2021-04-10 18:35:38]: Chips [R!FムE, Level 0]: goooo
