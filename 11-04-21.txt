@@ -9779,3 +9779,7 @@
 [2021-04-11 13:14:20]: GoatLike [, Level 10]: SanoreX: you can make a sentance
 [2021-04-11 13:14:25]: SanoreX [Chilli.*, Level 27]: kâk
 [2021-04-11 13:14:26]: GoatLike [, Level 10]: like kak dela = how are you
+[2021-04-11 13:14:34]: SanoreX [Chilli.*, Level 27]: like kak dela
+[2021-04-11 13:14:39]: GoatLike [, Level 10]: no without like
+[2021-04-11 13:14:43]: SanoreX [Chilli.*, Level 27]: GoatLike: I go sleep bb
+[2021-04-11 13:14:43]: GoatLike [, Level 10]: kak dela
