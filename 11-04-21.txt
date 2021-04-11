@@ -5073,3 +5073,7 @@
 [2021-04-11 09:06:13]: ***  [, Level 0]: 'WarHammer' has left the game (Timeout)
 [2021-04-11 09:06:17]:   [, Level 0]: .S L E E P Y': K!ked: sure ;D
 [2021-04-11 09:06:19]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
+[2021-04-11 09:06:22]:   [, Level 0]: K!ked: send
+[2021-04-11 09:06:30]: ☺ [, Level 0]: omg this lag
+[2021-04-11 09:06:33]: ***  [, Level 0]: 'kajoj' has left the game
+[2021-04-11 09:06:33]: ***  [, Level 0]: 'falkenauge' entered and joined the game
