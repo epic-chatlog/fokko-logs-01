@@ -2406,3 +2406,5 @@
 [2021-04-11 06:11:12]: Kaptar [, Level 0]: K!ked: k
 [2021-04-11 06:11:28]: Zephir™ [, Level 39]: El patron: press k nob
 [2021-04-11 06:11:35]: K!ked [De}|{aBю, Level 62]: Kaptar: kiss
+[2021-04-11 06:11:49]: ***  [, Level 0]: K!ked is on a killing spree with 5 blocks
+[2021-04-11 06:11:56]: ***  [, Level 0]: 'Boti.' entered and joined the game
