@@ -11194,3 +11194,6 @@
 [2021-04-11 14:59:39]: ***  [, Level 0]: [D] BULLETBOT is on a killing spree with 5 blocks
 [2021-04-11 14:59:47]: [D] BULLETBOT [, Level 0]: noobs
 [2021-04-11 15:00:02]: sharkz [, Level 45]: fokkonaut: der heult safe gerade
+[2021-04-11 15:00:05]: fokkonaut [, Level 102]: ja klar
+[2021-04-11 15:00:08]: ***  [, Level 0]: 'S Y T H N' has left the game (Timeout Protection over)
+[2021-04-11 15:00:13]: fokkonaut [, Level 102]: dummer wichser eben
