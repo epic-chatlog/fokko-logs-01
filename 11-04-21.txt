@@ -11178,3 +11178,5 @@
 [2021-04-11 14:56:33]: ***  [, Level 0]: 'soleri1' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-11 14:56:37]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
 [2021-04-11 14:56:50]: (1)fitz [, Level 16]: fokkonaut: and what are the little circles with numbers?
+[2021-04-11 14:57:24]: ***  [, Level 0]: 'soleri1' has left the game
+[2021-04-11 14:57:29]: ***  [, Level 0]: 'Breakg' has left the game
