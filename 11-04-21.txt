@@ -3030,3 +3030,6 @@
 [2021-04-11 06:59:23]: El patron [, Level 28]: soleri1: take u dummy
 [2021-04-11 06:59:24]: cHurch [HUITA, Level 47]: GODLIKe:
 [2021-04-11 06:59:26]: cHurch [HUITA, Level 47]: Good man:
+[2021-04-11 06:59:28]: ***  [, Level 0]: 'Lucas' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-11 06:59:36]: ***  [, Level 0]: 'iLikePizzaRolls' has left the game
+[2021-04-11 06:59:37]: GODLIKe [, Level 44]: cHurch: yes
