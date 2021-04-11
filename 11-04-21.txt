@@ -10826,3 +10826,5 @@
 [2021-04-11 14:35:56]: |ΛnץOиe| [, Level 0]: Kezo: xd
 [2021-04-11 14:35:56]: ***  [, Level 0]: 'BigTadija' entered and joined the game
 [2021-04-11 14:35:58]: ***  [, Level 0]: '|ΛnץOиe|' has been muted for 60 seconds
+[2021-04-11 14:36:11]: Kezo [DogParty, Level 0]: xd
+[2021-04-11 14:36:15]: Kezo [DogParty, Level 0]: mute guy
