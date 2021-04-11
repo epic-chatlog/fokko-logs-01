@@ -4851,3 +4851,5 @@
 [2021-04-11 08:52:41]: ***  [, Level 0]: 'YOAN' has left the game
 [2021-04-11 08:52:41]: [D]ϻɪɔʜɑʟ [Banana fish, Level 20]: sL|coffee [D]: sr
 [2021-04-11 08:52:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-11 08:52:55]: ***  [, Level 0]: 'miś kolorowy' entered and joined the game
+[2021-04-11 08:52:56]: NoobEmir [AoeSBrother, Level 14]: Tziys*: spike nerde
