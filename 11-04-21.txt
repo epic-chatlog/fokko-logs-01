@@ -6268,3 +6268,5 @@
 [2021-04-11 10:08:58]: ***  [, Level 0]: 'Matiteusz' has left the game
 [2021-04-11 10:08:58]: ***  [, Level 0]: 'Meetiteusz' has left the game
 [2021-04-11 10:09:02]: Zephir™ [, Level 39]: RQ
+[2021-04-11 10:09:09]: ***  [, Level 0]: 'Axel ²' has left the game
+[2021-04-11 10:09:09]: ***  [, Level 0]: 'Axel' has left the game
