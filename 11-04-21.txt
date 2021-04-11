@@ -742,3 +742,8 @@
 [2021-04-11 04:19:35]: ***  [, Level 0]: 'Kakso' joined the spectators
 [2021-04-11 04:19:39]: ***  [, Level 0]: 'Kakso' joined the game
 [2021-04-11 04:19:45]: ***  [, Level 0]: 'soleri1' finished the special race!
+[2021-04-11 04:19:50]: ***  [, Level 0]: 'keepertrain._.' finished the special race!
+[2021-04-11 04:19:50]: ***  [, Level 0]: keepertrain._. finished in: 26 minute(s) 37.66 second(s)
+[2021-04-11 04:19:51]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-11 04:19:51]: ***  [, Level 0]: 'Jerry' has left the game
+[2021-04-11 04:19:52]: ***  [, Level 0]: 'weqe' entered and joined the game
