@@ -147,3 +147,6 @@
 [2021-04-11 03:22:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-11 03:23:05]: ***  [, Level 0]: 'comic' has left the game
 [2021-04-11 03:23:08]: |ΛnץOиe| [, Level 43]: baha
+[2021-04-11 03:23:37]: ***  [, Level 0]: 'comic' entered and joined the game
+[2021-04-11 03:23:39]: comic [comically, Level 0]: bruh
+[2021-04-11 03:23:39]: Shiro, [Whɪтє, Level 51]: jsuis aller trop loin
