@@ -8967,3 +8967,4 @@
 [2021-04-11 12:36:20]: ***  [, Level 0]: 'ReXi' has left the game (Timeout)
 [2021-04-11 12:36:21]: ***  [, Level 0]: 'coffee' would have timed out, but can use timeout protection now
 [2021-04-11 12:36:22]: Axel [TrRShClNrRs, Level 30]: |HolyHo|: no problem
+[2021-04-11 12:36:32]: ***  [, Level 0]: '(1)flappy.*' has left the game (Timeout)
