@@ -8130,3 +8130,5 @@
 [2021-04-11 11:58:37]: SanoreX [Chilli.*, Level 27]: hesaba
 [2021-04-11 11:58:41]: SanoreX [Chilli.*, Level 27]: 1hafta
 [2021-04-11 11:58:41]: WarHammer [DogParty, Level 26]: Kezo:  HELP
+[2021-04-11 11:58:52]: WarHammer [DogParty, Level 26]: A
+[2021-04-11 11:58:55]: WarHammer [DogParty, Level 26]: Kezo:  HELP
