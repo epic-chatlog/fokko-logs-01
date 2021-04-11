@@ -8031,3 +8031,8 @@
 [2021-04-11 11:52:58]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
 [2021-04-11 11:53:00]: cunt [, Level 0]: Mista bombastic: ik him
 [2021-04-11 11:53:01]: SanoreX [Chilli.*, Level 27]: ne
+[2021-04-11 11:53:06]: SanoreX [Chilli.*, Level 27]: sanorex yazma
+[2021-04-11 11:53:06]: ***  [, Level 0]: 'WarHammer.*' has left the game (Timeout)
+[2021-04-11 11:53:07]: SanoreX [Chilli.*, Level 27]: pls
+[2021-04-11 11:53:09]: ***  [, Level 0]: '(1)WarHammer.*' has left the game (Timeout)
+[2021-04-11 11:53:09]: WarHammer [DogParty, Level 26]: sano sen cmd den oyuna katılmasını öğretebilinmi
