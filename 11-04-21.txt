@@ -9836,3 +9836,9 @@
 [2021-04-11 13:17:07]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-11 13:17:07]: SanoreX [Chilli.*, Level 27]: Vazelin kezo İchMichel
 [2021-04-11 13:17:10]: |ΛnץOиe| [, Level 0]: Hunter.exe: you too
+[2021-04-11 13:17:12]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-11 13:17:12]: SanoreX [Chilli.*, Level 27]: GoatLike: bye
+[2021-04-11 13:17:18]: ***  [, Level 0]: 'fameless tee' entered and joined the game
+[2021-04-11 13:17:19]: GoatLike [, Level 10]: poka
+[2021-04-11 13:17:20]: SanoreX [Chilli.*, Level 27]: cya @everyone
+[2021-04-11 13:17:21]: ***  [, Level 0]: 'nameless tee' joined the spectators
