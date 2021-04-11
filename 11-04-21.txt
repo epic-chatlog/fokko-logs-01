@@ -689,3 +689,5 @@
 [2021-04-11 04:12:16]: Nudelsaft c: [FookinLads, Level 37]: SanoreX: so no
 [2021-04-11 04:12:20]: SanoreX [Chilli.*, Level 27]: Nudelsaft c:: ok
 [2021-04-11 04:12:30]: ***  [, Level 0]: '(1)Shy-ra.' entered and joined the game
+[2021-04-11 04:12:32]: SanoreX [Chilli.*, Level 27]: Nudelsaft c:: dont block me when I farm??? ?? ?
+[2021-04-11 04:12:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
