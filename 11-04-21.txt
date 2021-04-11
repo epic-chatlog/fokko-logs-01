@@ -5521,3 +5521,5 @@
 [2021-04-11 09:31:14]: WarHammer [DogParty, Level 26]: XXXD
 [2021-04-11 09:31:15]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 30.90 second(s)
 [2021-04-11 09:31:16]: K!ked [De}|{aBю, Level 62]: Zephir™: <3
+[2021-04-11 09:31:26]: ***  [, Level 0]: 'El patron' has left the game
+[2021-04-11 09:31:28]: ***  [, Level 0]: 'cHurch' entered and joined the game
