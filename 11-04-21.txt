@@ -2504,3 +2504,6 @@
 [2021-04-11 06:22:16]: cHurch [HUITA, Level 47]: :DDD
 [2021-04-11 06:22:30]: [D] keepertrain [FookinLads, Level 25]: a
 [2021-04-11 06:22:30]: cHurch [HUITA, Level 47]: Zephir™: thats a flappy power
+[2021-04-11 06:22:35]: 1 [, Level 0]: xd
+[2021-04-11 06:22:40]: ***  [, Level 0]: '[D] Boti.' has left the game
+[2021-04-11 06:22:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
