@@ -452,3 +452,7 @@
 [2021-04-11 03:47:43]: ***  [, Level 0]: 'Got Drip' entered and joined the game
 [2021-04-11 03:48:45]: SanoreX [Chilli.*, Level 27]: gay
 [2021-04-11 03:48:49]: ***  [, Level 0]: 'RoberGN' entered and joined the game
+[2021-04-11 03:48:55]: ***  [, Level 0]: 'Tetako HAHI' has left the game
+[2021-04-11 03:48:55]: ***  [, Level 0]: 'vekong&' has left the game
+[2021-04-11 03:48:55]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-11 03:49:00]: SanoreX.* [Chilli.*, Level 22]: war Nudelsaft c:
