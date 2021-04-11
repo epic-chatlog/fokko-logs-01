@@ -13305,3 +13305,4 @@
 [2021-04-10 20:17:42]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-10 20:17:52]: ***  [, Level 0]: 'bielgamer' has left the game
 [2021-04-10 20:19:21]: LeonXuwu [, Level 0]: come on
+[2021-04-10 20:22:26]: ***  [, Level 0]: 'LeonXuwu' has left the game
