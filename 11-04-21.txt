@@ -3977,3 +3977,8 @@
 [2021-04-11 08:02:16]: (3)Kirito [♥, Level 25]: Foxie♥: he killed me
 [2021-04-11 08:02:18]: GOLD [404, Level 40]: Foxie♥: a t'es comme ca
 [2021-04-11 08:02:24]: ***  [, Level 0]: 'Sankt Erasmus' has left the game
+[2021-04-11 08:02:28]: ***  [, Level 0]: 'valdi' entered and joined the game
+[2021-04-11 08:02:31]: ***  [, Level 0]: 'sucik' joined the spectators
+[2021-04-11 08:02:36]: ***  [, Level 0]: 'sucik' joined the game
+[2021-04-11 08:02:36]: ***  [, Level 0]: 'darkstar4' has left the game
+[2021-04-11 08:02:36]: ***  [, Level 0]: 'Nollolp' entered and joined the game
