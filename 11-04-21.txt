@@ -5452,3 +5452,8 @@
 [2021-04-11 09:27:13]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-11 09:27:14]: darkstar [Legacy™, Level 19]: I like turtles.
 [2021-04-11 09:27:14]: ***  [, Level 0]: 'Camorra' entered and joined the game
+[2021-04-11 09:27:18]: darkstar [Legacy™, Level 19]: damn
+[2021-04-11 09:27:21]: ***  [, Level 0]: 'peS' entered and joined the game
+[2021-04-11 09:27:24]: ***  [, Level 0]: |ΛnץOиe| finished in: 11 minute(s)  7.02 second(s)
+[2021-04-11 09:27:25]: ***  [, Level 0]: |MıssOяchiĐ| finished in: 2 minute(s) 43.84 second(s)
+[2021-04-11 09:27:25]: ***  [, Level 0]: New record: 2 minute(s) 21.94 second(s) better.
