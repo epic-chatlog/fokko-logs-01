@@ -2576,3 +2576,4 @@
 [2021-04-11 06:27:43]: ***  [, Level 0]: 'Teestar' left the minigame 'Block'
 [2021-04-11 06:28:04]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-11 06:28:06]: ***  [, Level 0]: 'Teestar' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-11 06:28:09]: K!ked [De}|{aBю, Level 62]: Ƭevan: типо я живу в сибире (в пизде мира) а в москву на конкурс
