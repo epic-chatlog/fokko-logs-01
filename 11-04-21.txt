@@ -3667,3 +3667,6 @@
 [2021-04-11 07:37:39]: Shiro. [404, Level 42]: need translate wait
 [2021-04-11 07:37:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-11 07:37:42]: |ΛnץOиe| [, Level 0]: fitz: i stop and u stop its ok?
+[2021-04-11 07:37:50]: Shiro. [404, Level 42]: oooh
+[2021-04-11 07:37:51]: Shiro. [404, Level 42]: good luck :(
+[2021-04-11 07:37:52]: Good man [Drunks, Level 30]: Zephir™:
