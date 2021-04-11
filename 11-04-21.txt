@@ -426,3 +426,6 @@
 [2021-04-11 03:43:31]: dont kil ifarm [i farm 40lv, Level 25]: xd
 [2021-04-11 03:43:34]: SanoreX [Chilli.*, Level 27]: just joke
 [2021-04-11 03:43:39]: ***  [, Level 0]: 'dont kil ifarm' changed name to '[D] keepertrain'
+[2021-04-11 03:43:43]: ***  [, Level 0]: 'flappy.*' has left the game (Timeout)
+[2021-04-11 03:43:47]: ***  [, Level 0]: 'flappy.*' entered and joined the game
+[2021-04-11 03:43:49]: ***  [, Level 0]: '(1)flappy.*' has left the game (Too weak connection (not acked for 60 seconds))
