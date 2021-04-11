@@ -441,3 +441,5 @@
 [2021-04-11 03:45:56]: Anton [, Level 62]: Nidardo.: dummy
 [2021-04-11 03:46:06]: Anton [, Level 62]: xD
 [2021-04-11 03:46:12]: ***  [, Level 0]: 'RoberGN' has left the game
+[2021-04-11 03:46:13]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-11 03:46:23]: ***  [, Level 0]: 'Swarfey' entered and joined the game
