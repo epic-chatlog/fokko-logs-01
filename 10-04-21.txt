@@ -13359,3 +13359,4 @@
 [2021-04-10 22:47:42]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-10 22:51:04]: ***  [, Level 0]: coca finished in: 12 minute(s) 16.36 second(s)
 [2021-04-10 22:51:29]: ***  [, Level 0]: Good man finished in: 12 minute(s) 39.82 second(s)
+[2021-04-10 22:52:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
