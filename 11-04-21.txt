@@ -2721,3 +2721,5 @@
 [2021-04-11 06:38:15]: ***  [, Level 0]: soleri1 is on a killing spree with 30 blocks
 [2021-04-11 06:38:21]: [D] keepertrain [FookinLads, Level 25]: K!ked: spec me
 [2021-04-11 06:38:31]: ***  [, Level 0]: soleri1's killing spree was ended by Chillingo (31 blocks)
+[2021-04-11 06:39:12]: ***  [, Level 0]: '[₯]cLoud' entered and joined the game
+[2021-04-11 06:39:15]: ***  [, Level 0]: '(1)hhh3' entered and joined the game
