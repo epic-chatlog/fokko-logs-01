@@ -9445,3 +9445,8 @@
 [2021-04-11 12:59:46]: ***  [, Level 0]: 'Saud' has left the game
 [2021-04-11 12:59:46]: ***  [, Level 0]: '(2)Saud' has left the game
 [2021-04-11 12:59:46]: ***  [, Level 0]: '(1)Saud' has left the game
+[2021-04-11 12:59:50]: (1)kais [, Level 58]: RQ
+[2021-04-11 12:59:53]: ***  [, Level 0]: '(1)kais' has left the game
+[2021-04-11 12:59:55]: NoobEmir.* [AoeSBrother, Level 0]: El patron: pls sorrryyyy
+[2021-04-11 12:59:57]: GODLIKe [, Level 44]: kais: u
+[2021-04-11 13:00:00]: kais [, Level 65]: GODLIKe: u
