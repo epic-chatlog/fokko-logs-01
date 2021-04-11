@@ -4130,3 +4130,5 @@
 [2021-04-11 08:11:42]: ☺ [, Level 0]: |MıssOяchiĐ|: ok np
 [2021-04-11 08:11:42]: Kirito [♥, Level 40]: Lucas: war?
 [2021-04-11 08:11:56]: Lucas [THECEPS, Level 34]: Kirito: no
+[2021-04-11 08:11:58]: ***  [, Level 0]: 'fitz' has left the game
+[2021-04-11 08:12:10]: Kaptar [, Level 24]: kais: gaffe
