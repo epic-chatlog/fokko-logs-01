@@ -2377,3 +2377,4 @@
 [2021-04-11 06:07:28]: ***  [, Level 0]: [D] El patron's killing spree was ended by weqe (5 blocks)
 [2021-04-11 06:07:30]: (2)cookie [, Level 0]: come
 [2021-04-11 06:07:30]: Ƭevan [TrRShClNrRs, Level 49]: weqe: yea) this tactic is workxD
+[2021-04-11 06:07:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
