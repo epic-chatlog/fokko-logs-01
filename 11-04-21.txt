@@ -779,3 +779,4 @@
 [2021-04-11 04:22:00]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
 [2021-04-11 04:22:04]: ***  [, Level 0]: 'BC|kakashi' joined the spectators
 [2021-04-11 04:22:06]: ***  [, Level 0]: 'Got Drip' has left the game
+[2021-04-11 04:22:25]: ***  [, Level 0]: 'Kakso' joined the spectators
