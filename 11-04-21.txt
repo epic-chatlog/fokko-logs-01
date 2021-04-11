@@ -617,3 +617,12 @@
 [2021-04-11 04:04:53]: [D] peS [, Level 0]: comic: no
 [2021-04-11 04:04:56]: comic [comically, Level 14]: [D] peS: yes
 [2021-04-11 04:04:59]: [D] peS [, Level 0]: comic: no stop
+[2021-04-11 04:05:10]: ***  [, Level 0]: 'el champeon' has left the game
+[2021-04-11 04:05:10]: ***  [, Level 0]: 'Soros' has left the game
+[2021-04-11 04:05:11]: ***  [, Level 0]: 'el champeon4546' entered and joined the game
+[2021-04-11 04:05:11]: comic [comically, Level 14]: [D] peS: that wont work
+[2021-04-11 04:05:13]: ***  [, Level 0]: 'ClemEntine' entered and joined the game
+[2021-04-11 04:05:15]: comic [comically, Level 14]: [D] peS: trust me i tried
+[2021-04-11 04:05:17]: ***  [, Level 0]: 'Soros0014545410' entered and joined the game
+[2021-04-11 04:05:21]: ***  [, Level 0]: 'el champeon4546' has left the game
+[2021-04-11 04:05:21]: ***  [, Level 0]: 'Soros0014545410' has left the game
