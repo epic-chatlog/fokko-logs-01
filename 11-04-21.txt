@@ -9950,3 +9950,5 @@
 [2021-04-11 13:26:07]: minecraft [, Level 14]: El patron: buut i do what
 [2021-04-11 13:26:08]: Zephir™ [, Level 39]: ERROR: i come
 [2021-04-11 13:26:09]: Hunter.exe [DogParty, Level 36]: |ΛnץOиe|: there is your dummy
+[2021-04-11 13:26:13]: |ΛnץOиe| [, Level 0]: Hunter.exe: who
+[2021-04-11 13:26:23]: fitz [, Level 17]: El patron:
