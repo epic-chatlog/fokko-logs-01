@@ -3380,3 +3380,4 @@
 [2021-04-11 07:23:07]: ***  [, Level 0]: 'soleri1' has left the game (Timeout)
 [2021-04-11 07:23:07]: fitz [, Level 17]: I like turtles.
 [2021-04-11 07:23:16]: coca [, Level 22]: keepertrain._.: ?
+[2021-04-11 07:23:28]: ***  [, Level 0]: 'Shiro.' entered and joined the game
