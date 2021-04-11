@@ -569,3 +569,5 @@
 [2021-04-11 04:00:31]: soleri1 [, Level 22]: comic: Granade
 [2021-04-11 04:00:37]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
 [2021-04-11 04:00:40]: ***  [, Level 0]: 'ES' entered and joined the game
+[2021-04-11 04:01:01]: ***  [, Level 0]: Soros's killing spree was ended by UOYKCUFI (6 blocks)
+[2021-04-11 04:01:03]: rayen [, Level 0]: Soros: block eden pls
