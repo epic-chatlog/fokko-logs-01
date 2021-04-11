@@ -8239,3 +8239,11 @@
 [2021-04-11 12:02:52]: |ΛnץOиe| [, Level 0]: Kenshi™: diiiis
 [2021-04-11 12:02:56]: ReXi [, Level 0]: hab kein lase
 [2021-04-11 12:02:56]: SanoreX [Chilli.*, Level 27]:  vec2 N = vec2(m_pClient->m_Snap.m_aCharacters[nearest_id].m_Cur.m_X/32, m_pClient->m_Snap.m_aCharacters[nearest_id].m_Cur.m_Y/32);
+[2021-04-11 12:03:00]: ReXi [, Level 0]: r
+[2021-04-11 12:03:00]: WarHammer [DogParty, Level 26]: jcanela2022:  help axel
+[2021-04-11 12:03:01]: Axel [TrRShClNrRs, Level 30]: this gonna take a while
+[2021-04-11 12:03:03]: SanoreX [Chilli.*, Level 27]: XD
+[2021-04-11 12:03:04]: Kenshi™ [, Level 0]: et si j'ai pas envie :p
+[2021-04-11 12:03:05]: Flipper [, Level 15]: hit me
+[2021-04-11 12:03:05]: ***  [, Level 0]: 'Kezo' changed name to 'Vazelin'
+[2021-04-11 12:03:10]: |ΛnץOиe| [, Level 0]: Kenshi™: c'est dommage
