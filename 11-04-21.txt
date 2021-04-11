@@ -6463,3 +6463,5 @@
 [2021-04-11 10:20:39]: ***  [, Level 0]: 'falkenauge' finished the special race!
 [2021-04-11 10:20:40]: ☺ [, Level 6]: Zephir™: mdr
 [2021-04-11 10:20:47]: WarHammer [DogParty, Level 0]: ♥TAKO♥:  OYNA
+[2021-04-11 10:20:54]: ♥TAKO♥ [DogParty, Level 25]: texture değişiyom
+[2021-04-11 10:20:55]: ♥TAKO♥ [DogParty, Level 25]: aaa
