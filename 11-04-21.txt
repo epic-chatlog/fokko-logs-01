@@ -10200,3 +10200,7 @@
 [2021-04-11 13:47:34]: [D] El patron [, Level 23]: what language do you speak
 [2021-04-11 13:47:38]: |ΛnץOиe| [, Level 0]: El patron: france
 [2021-04-11 13:47:39]: [D] El patron [, Level 23]: a
+[2021-04-11 13:47:40]: |ΛnץOиe| [, Level 0]: El patron: and u
+[2021-04-11 13:47:43]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-11 13:47:46]: [D] El patron [, Level 23]: german
+[2021-04-11 13:47:48]: |ΛnץOиe| [, Level 0]: El patron: okokkkk
