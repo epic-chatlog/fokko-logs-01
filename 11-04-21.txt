@@ -11307,3 +11307,6 @@
 [2021-04-11 15:07:01]: Kezo [DogParty, Level 0]: WHY
 [2021-04-11 15:07:02]: ***  [, Level 0]: 'El patron' has left the game
 [2021-04-11 15:07:02]: ***  [, Level 0]: '[D] El patron' has left the game
+[2021-04-11 15:07:04]: sharkz [, Level 45]: rq
+[2021-04-11 15:07:04]: Kezo [DogParty, Level 0]: Hunter.exe: help
+[2021-04-11 15:07:04]: |MıssOяchiĐ| [, Level 48]: Kezo: we're dead together
