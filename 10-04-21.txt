@@ -13087,3 +13087,7 @@
 [2021-04-10 18:59:04]: ***  [, Level 0]: 'Kenshi™' has left the game
 [2021-04-10 18:59:05]: ***  [, Level 0]: 'Kenshi™' entered and joined the game
 [2021-04-10 19:00:02]: Zephir™ [, Level 39]: it's ur girldfriend ?
+[2021-04-10 19:00:39]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-10 19:00:40]: Zephir™ [, Level 39]: OW /C
+[2021-04-10 19:00:45]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-10 19:00:47]: Zephir™ [, Level 39]: oww :c
