@@ -5709,3 +5709,7 @@
 [2021-04-11 09:38:03]: Lucas [THECEPS, Level 34]: sure
 [2021-04-11 09:38:05]:   [, Level 0]: SanoreX: girr
 [2021-04-11 09:38:13]: ***  [, Level 0]: 'SanoreX' has left the game
+[2021-04-11 09:38:17]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-11 09:38:21]: ***  [, Level 0]: 'SanoreX' entered and joined the game
+[2021-04-11 09:38:24]: |ΛnץOиe| [, Level 0]: fitz: hi
+[2021-04-11 09:38:25]:   [, Level 0]: SanoreX: WarHammer: GİRR
