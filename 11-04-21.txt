@@ -10167,3 +10167,5 @@
 [2021-04-11 13:44:35]: S Y T H N [iPro, Level 37]: t
 [2021-04-11 13:44:45]: ***  [, Level 0]: Zephir™ is on a killing spree with 5 blocks
 [2021-04-11 13:44:49]: BitchPlease Jr. [BBM, Level 0]: was fürn ding
+[2021-04-11 13:45:01]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-11 13:45:03]: Taip [VergleriSay, Level 15]: ?
