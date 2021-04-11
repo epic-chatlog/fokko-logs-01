@@ -3280,3 +3280,6 @@
 [2021-04-11 07:15:35]: cookie [, Level 19]: why coffee
 [2021-04-11 07:15:45]: Lucas [THECEPS, Level 34]: 5 3
 [2021-04-11 07:15:48]: cookie [, Level 19]: stop
+[2021-04-11 07:16:00]: ***  [, Level 0]: 'DeadRex' entered and joined the game
+[2021-04-11 07:16:03]: Zephir™ [, Level 39]: YelloWorlD: arrete toi
+[2021-04-11 07:16:08]: YelloWorlD [DogParty, Level 41]: Zephir™: ftg
