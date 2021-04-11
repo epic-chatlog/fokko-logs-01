@@ -13179,3 +13179,5 @@
 [2021-04-10 19:17:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-10 19:18:05]: ***  [, Level 0]: Chips is on a killing spree with 5 blocks
 [2021-04-10 19:18:09]: Chips [R!FムE, Level 49]: ooww 3 money thx
+[2021-04-10 19:18:11]: ***  [, Level 0]: 'Noxl' has left the game
+[2021-04-10 19:18:13]: Zephir™ [, Level 39]: XDD
