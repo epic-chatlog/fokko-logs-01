@@ -736,3 +736,6 @@
 [2021-04-11 04:19:06]: [D] keepertrain [, Level 25]: go kill
 [2021-04-11 04:19:12]: ES [, Level 0]: [D] keepertrain: noo
 [2021-04-11 04:19:16]: soleri1 [, Level 22]: [D] keepertrain: DON'T HELP ES
+[2021-04-11 04:19:27]: ***  [, Level 0]: fitz finished in: 9 minute(s) 16.98 second(s)
+[2021-04-11 04:19:27]: ***  [, Level 0]: 'fitz' finished the special race!
+[2021-04-11 04:19:32]: ***  [, Level 0]: el champeon's killing spree was ended by [D] UOYKCUFI (14 blocks)
