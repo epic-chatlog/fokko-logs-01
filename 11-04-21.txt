@@ -2550,3 +2550,8 @@
 [2021-04-11 06:25:49]: ***  [, Level 0]: 'Axandos' has left the game
 [2021-04-11 06:25:50]: ***  [, Level 0]: 'Nidardo.' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-11 06:25:53]: ***  [, Level 0]: '1' has left the game (Timeout)
+[2021-04-11 06:26:08]: K!ked [De}|{aBю, Level 62]: weqe left
+[2021-04-11 06:26:09]: K!ked [De}|{aBю, Level 62]: kekw
+[2021-04-11 06:26:11]: ***  [, Level 0]: 'Axandos' entered and joined the game
+[2021-04-11 06:26:12]: Zephir™ [, Level 39]: XD
+[2021-04-11 06:26:13]: ***  [, Level 0]: 'lolpoep' joined the minigame 'Block', use '/block' to join aswell
