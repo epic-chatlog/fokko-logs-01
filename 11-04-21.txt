@@ -3412,3 +3412,9 @@
 [2021-04-11 07:24:41]: Shiro. [LeaveMe., Level 42]: u
 [2021-04-11 07:24:42]: ***  [, Level 0]: 'Draconic' joined the game
 [2021-04-11 07:24:45]: kais [, Level 65]: SO BADD
+[2021-04-11 07:24:48]: fokkonaut [, Level 102]: Shiro.: my hero
+[2021-04-11 07:24:51]: Shiro. [LeaveMe., Level 42]: fokkonaut: wat
+[2021-04-11 07:24:52]: ***  [, Level 0]: 'Draconic' joined the spectators
+[2021-04-11 07:24:53]: fokkonaut [, Level 102]: wat
+[2021-04-11 07:24:55]: ***  [, Level 0]: 'Draconic' joined the game
+[2021-04-11 07:24:58]: Shiro. [LeaveMe., Level 42]: wat
