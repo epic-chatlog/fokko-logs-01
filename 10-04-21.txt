@@ -13343,3 +13343,4 @@
 [2021-04-10 21:58:06]: ***  [, Level 0]: 'weqe' entered and joined the game
 [2021-04-10 21:58:28]: ***  [, Level 0]: 'weqe' has left the game
 [2021-04-10 22:02:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-10 22:07:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
