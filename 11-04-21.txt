@@ -2514,3 +2514,6 @@
 [2021-04-11 06:22:51]: ***  [, Level 0]: 'lolpoep' entered and joined the game
 [2021-04-11 06:22:52]: [D] keepertrain [FookinLads, Level 25]: Axandos:
 [2021-04-11 06:22:52]: cHurch [HUITA, Level 47]: us*
+[2021-04-11 06:22:57]: [D] keepertrain [FookinLads, Level 25]: lolpoep: >>>>
+[2021-04-11 06:22:59]: ***  [, Level 0]: 'Boti.' has left the game
+[2021-04-11 06:23:07]: [D] keepertrain [FookinLads, Level 25]: lolpoep: help me >>>
