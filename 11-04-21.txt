@@ -747,3 +747,8 @@
 [2021-04-11 04:19:51]: ***  [, Level 0]: 'Tom' has left the game
 [2021-04-11 04:19:51]: ***  [, Level 0]: 'Jerry' has left the game
 [2021-04-11 04:19:52]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-11 04:20:35]: RM | Arin [Retard MNKY, Level 0]: weqe:
+[2021-04-11 04:20:38]: ***  [, Level 0]: 'Kakso' joined the spectators
+[2021-04-11 04:20:40]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-11 04:20:42]: ***  [, Level 0]: 'Kakso' joined the game
+[2021-04-11 04:20:43]: RM | Arin [Retard MNKY, Level 0]: why did ya left RM?
