@@ -6810,3 +6810,5 @@
 [2021-04-11 10:45:29]: NoobEmir.* [AoeSBrother, Level 0]: neden
 [2021-04-11 10:45:33]: i am noob [Ape, Level 19]: coca
 [2021-04-11 10:45:34]: coca [, Level 22]: ok any
+[2021-04-11 10:45:39]: ***  [, Level 0]: 'ArlenB' entered and joined the game
+[2021-04-11 10:45:44]: ReXi [, Level 0]: falkenauge: mach den ma nochma dahin
