@@ -4942,3 +4942,7 @@
 [2021-04-11 08:57:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-11 08:57:47]: deSi [TR, Level 15]: GODLIKe: nbr lan
 [2021-04-11 08:57:49]: any [404, Level 38]: Zephir™: x) j'avais 10k
+[2021-04-11 08:57:55]: ***  [, Level 0]: 'Axel' entered and joined the game
+[2021-04-11 08:57:56]: NoobEmir [AoeSBrother, Level 14]: Fearless
+[2021-04-11 08:57:57]: K!ked [De}|{aBю, Level 62]: fokkonaut: dont kick xDDD
+[2021-04-11 08:57:59]: Fearless [Retard MNKY, Level 15]: fokkonaut:  help me show him whats hook fly men
