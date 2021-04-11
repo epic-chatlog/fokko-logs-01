@@ -8785,3 +8785,5 @@
 [2021-04-11 12:25:20]: ***  [, Level 0]: '[D] Cylox' entered and joined the game
 [2021-04-11 12:25:23]: SanoreX [Chilli.*, Level 27]: WarHammer': yukarı
 [2021-04-11 12:25:29]: SanoreX [Chilli.*, Level 27]: WarHammer': birazdaha yukarı taşı onu
+[2021-04-11 12:25:38]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-11 12:25:41]: ***  [, Level 0]: 'nameless tee' joined the game
