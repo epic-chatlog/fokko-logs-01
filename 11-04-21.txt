@@ -6411,3 +6411,4 @@
 [2021-04-11 10:17:04]: WarHammer [DogParty, Level 0]: lag
 [2021-04-11 10:17:07]: ***  [, Level 0]: 'teeworld drip' has left the game
 [2021-04-11 10:17:14]: ***  [, Level 0]: 'Cassie' entered and joined the game
+[2021-04-11 10:17:26]: ☺ [, Level 6]: tu l'as vraiment le mots de passe Zephir™
