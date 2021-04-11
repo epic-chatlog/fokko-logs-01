@@ -8019,3 +8019,10 @@
 [2021-04-11 11:52:19]: [D] El patron [, Level 23]: Kezo: nag
 [2021-04-11 11:52:21]: Hunter.exe [DogParty, Level 36]: Kezo: ???
 [2021-04-11 11:52:36]: SanoreX [Chilli.*, Level 27]: WarHammer: sano yaz chate oyunum buglu biraz
+[2021-04-11 11:52:42]: SanoreX [Chilli.*, Level 27]: çöküyo sanorex yazınca
+[2021-04-11 11:52:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-11 11:52:43]: SanoreX [Chilli.*, Level 27]: ok?
+[2021-04-11 11:52:44]: WarHammer [DogParty, Level 26]: çöküyomu
+[2021-04-11 11:52:46]: SanoreX [Chilli.*, Level 27]: sano yaz
+[2021-04-11 11:52:50]: SanoreX [Chilli.*, Level 27]: yani arkada kalıto
+[2021-04-11 11:52:51]: Mista bombastic [TrRShClNrRs, Level 40]: cunt: here's johnny
