@@ -4820,3 +4820,5 @@
 [2021-04-11 08:50:04]: ***  [, Level 0]: 'xGoryl' has left the game
 [2021-04-11 08:50:11]: ***  [, Level 0]: fokkonaut is on a killing spree with 10 blocks
 [2021-04-11 08:50:37]: ***  [�, Level 0]: fokkonaut is on a killing spree with 15 blocks
+[2021-04-11 08:50:57]: ***  [, Level 0]: '[D]ϻɪɔʜɑʟ' entered and joined the game
+[2021-04-11 08:51:03]: Kenshi™ [, Level 0]: Fearless: endelss ?
