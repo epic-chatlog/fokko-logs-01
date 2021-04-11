@@ -4558,3 +4558,7 @@
 [2021-04-11 08:35:03]: ***  [, Level 0]: 'deSi' entered and joined the game
 [2021-04-11 08:35:09]:   [, Level 0]: Kezo: thxx
 [2021-04-11 08:35:15]: ***  [, Level 0]: 'Michel' entered and joined the game
+[2021-04-11 08:35:19]: ***  [, Level 0]: 'deSi' has left the game
+[2021-04-11 08:35:20]: ***  [, Level 0]: '(3)ChillerDragon' has left the game
+[2021-04-11 08:35:21]: ☺ [, Level 0]: and i am not dead Fearless
+[2021-04-11 08:35:30]:   [, Level 0]: [D] El patron: Kezo: help
