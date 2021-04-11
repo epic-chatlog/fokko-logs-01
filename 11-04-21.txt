@@ -5947,3 +5947,9 @@
 [2021-04-11 09:47:50]:   [, Level 0]: SanoreX: denerim sonra
 [2021-04-11 09:47:54]:   [, Level 0]: SanoreX: hadi afkyım ben
 [2021-04-11 09:47:57]:   [, Level 0]: SanoreX: yemek yicem
+[2021-04-11 09:47:58]: Matiteusz [TrRShClNrRs, Level 35]: Foxie♥: he is not enemy
+[2021-04-11 09:47:59]:   [, Level 0]: SanoreX: sv kapalı
+[2021-04-11 09:48:00]:   [, Level 0]: WarHammer: ok
+[2021-04-11 09:48:01]:   [, Level 0]: SanoreX: deneme
+[2021-04-11 09:48:02]: ***  [, Level 0]: 'SanoreX' has been muted for 60 seconds
+[2021-04-11 09:48:08]: minecraft [, Level 13]: Zephir™: more pls
