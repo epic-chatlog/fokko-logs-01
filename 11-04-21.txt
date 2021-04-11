@@ -1750,3 +1750,8 @@
 [2021-04-11 05:19:08]: ***  [, Level 0]: '(2)Shy-ra.' joined the game
 [2021-04-11 05:19:11]:   [, Level 0]: lolpoep: Soros:  haha
 [2021-04-11 05:19:11]: ***  [, Level 0]: Andrew is on a killing spree with 5 blocks
+[2021-04-11 05:19:19]: ***  [, Level 0]: 'Saud' has left the game
+[2021-04-11 05:19:19]: ***  [, Level 0]: '(2)Saud' has left the game
+[2021-04-11 05:19:19]: ***  [, Level 0]: '(1)Saud' has left the game
+[2021-04-11 05:19:22]: ***  [, Level 0]: '(1)RM | Arin' has left the game
+[2021-04-11 05:19:24]: ***  [, Level 0]: 'weqe' has left the game
