@@ -3149,3 +3149,8 @@
 [2021-04-11 07:07:00]: [D] keepertrain [, Level 25]: Kaptar: save GODLIKe <<
 [2021-04-11 07:07:04]: ***  [, Level 0]: 'soleri1' joined the minigame 'Instagib FNG', use '/fng' to join aswell
 [2021-04-11 07:07:22]: weqe [669, Level 12]: wtf Kaptar u serious
+[2021-04-11 07:07:35]:   [, Level 0]: Lucas: soleri1: wtf
+[2021-04-11 07:07:39]: [D] keepertrain [, Level 25]: GODLIKe: eee
+[2021-04-11 07:07:41]: [D] keepertrain [, Level 25]: le
+[2021-04-11 07:07:42]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-11 07:07:42]: [D] keepertrain [, Level 25]: me
