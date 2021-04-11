@@ -8608,3 +8608,8 @@
 [2021-04-11 12:17:23]: Vazelin [DogParty, Level 41]: Cylox: adamların 100euro ya aldıkları şeyi biz neden 10000 tl ye alıyoruz
 [2021-04-11 12:17:31]: ***  [, Level 0]: |HolyHo| finished in: 0 minute(s) 31.48 second(s)
 [2021-04-11 12:17:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-11 12:17:50]: ***  [, Level 0]: 'coffee' entered and joined the game
+[2021-04-11 12:17:55]: ***  [, Level 0]: 'Cosmo' entered and joined the game
+[2021-04-11 12:17:55]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-11 12:17:55]: ♥TAKO♥ [DogParty, Level 25]: ☺:  not work :c
+[2021-04-11 12:17:57]: ***  [, Level 0]: 'nameless tee' joined the game
