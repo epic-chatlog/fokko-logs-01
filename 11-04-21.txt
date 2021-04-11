@@ -10841,3 +10841,7 @@
 [2021-04-11 14:37:01]: ***  [, Level 0]: 'rayen' has left the game
 [2021-04-11 14:37:01]: fokkonaut [, Level 102]: any: brutal
 [2021-04-11 14:37:03]: ***  [, Level 0]: '[D] Hunter.exe' entered and joined the game
+[2021-04-11 14:37:05]: any² [404, Level 0]: fokkonaut: uhhhhh
+[2021-04-11 14:37:10]: fokkonaut [, Level 102]: any: baby aim?
+[2021-04-11 14:37:11]: fokkonaut [, Level 102]: ismod
+[2021-04-11 14:37:13]: any² [404, Level 0]: fokkonaut: well im not rly gud x)
