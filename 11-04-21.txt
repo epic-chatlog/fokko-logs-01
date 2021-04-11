@@ -6883,3 +6883,8 @@
 [2021-04-11 10:51:28]: ***  [, Level 0]: 'Razor`iPro' entered and joined the game
 [2021-04-11 10:51:36]: ***  [, Level 0]: 'soleri1' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-11 10:51:36]: minecraft [, Level 13]: pls stop Hunter.exe
+[2021-04-11 10:51:37]: ***  [, Level 0]: 'Lucas' entered and joined the game
+[2021-04-11 10:51:39]: minecraft [, Level 13]: Zephir™:
+[2021-04-11 10:51:40]: coca [, Level 22]: Zephir™: np:3
+[2021-04-11 10:51:43]: ***  [, Level 0]: '11111' entered and joined the game
+[2021-04-11 10:51:49]: ***  [, Level 0]: 'soleri1' left the minigame 'Survival'
