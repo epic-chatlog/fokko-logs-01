@@ -5060,3 +5060,4 @@
 [2021-04-11 09:05:10]: ***  [, Level 0]: 'galega' has left the game
 [2021-04-11 09:05:26]: ***  [, Level 0]: '.S L E E P Y'' entered and joined the game
 [2021-04-11 09:05:29]: ***  [, Level 0]: 'falkenauge' has left the game
+[2021-04-11 09:05:42]: ***  [, Level 0]: 'soleri1' has left the game
