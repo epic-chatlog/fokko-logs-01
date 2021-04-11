@@ -496,3 +496,4 @@
 [2021-04-11 03:54:05]: (1)SanoreX [Chilli.*, Level 22]: Nudelsaft c:: gay
 [2021-04-11 03:54:06]: ***  [, Level 0]: 'uptoram' has left the game
 [2021-04-11 03:54:08]: ***  [, Level 0]: 'uptoram' entered and joined the game
+[2021-04-11 03:54:22]: ***  [, Level 0]: 'flappy.*' has left the game (Timeout)
