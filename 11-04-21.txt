@@ -1941,3 +1941,5 @@
 [2021-04-11 05:36:43]: Good man [Drunks, Level 30]: command send
 [2021-04-11 05:36:49]: ***  [, Level 0]: Ƭevan's killing spree was ended by Hunter.exe (9 blocks)
 [2021-04-11 05:37:05]: Kirito [, Level 40]: Foxie♥: hunter is mate
+[2021-04-11 05:37:19]: ***  [, Level 0]: 'cookie' entered and joined the game
+[2021-04-11 05:37:20]: Foxie♥ [♥, Level 36]: Kirito: "hunter is mate"
