@@ -10204,3 +10204,7 @@
 [2021-04-11 13:47:43]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-11 13:47:46]: [D] El patron [, Level 23]: german
 [2021-04-11 13:47:48]: |ΛnץOиe| [, Level 0]: El patron: okokkkk
+[2021-04-11 13:47:53]: |ΛnץOиe| [, Level 0]: El patron: u wont flag?
+[2021-04-11 13:47:57]: [D] El patron [, Level 23]: yo
+[2021-04-11 13:47:57]: Hunter.exe [DogParty, Level 36]: |ΛnץOиe|: where u from
+[2021-04-11 13:47:58]: ERROR [404, Level 56]: (1)ChillerDrago:
