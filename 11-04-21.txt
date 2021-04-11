@@ -9706,3 +9706,6 @@
 [2021-04-11 13:10:34]: ***  [, Level 0]: '(1)lol' entered and joined the game
 [2021-04-11 13:10:38]: SanoreX [Chilli.*, Level 27]: aa
 [2021-04-11 13:10:40]: |ΛnץOиe| [, Level 0]: c'est previsible
+[2021-04-11 13:10:44]: SanoreX [Chilli.*, Level 27]: u teleportad here
+[2021-04-11 13:10:46]: ***  [, Level 0]: '(2)lol' entered and joined the game
+[2021-04-11 13:10:52]: ***  [, Level 0]: '(3)lol' entered and joined the game
