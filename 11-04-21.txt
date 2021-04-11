@@ -1313,3 +1313,5 @@
 [2021-04-11 04:56:07]: RM | Arin [Retard MNKY, Level 16]: toxic
 [2021-04-11 04:56:08]: ***  [, Level 0]: coca finished in: 5 minute(s) 56.26 second(s)
 [2021-04-11 04:56:20]: ***  [, Level 0]: 'Marcisten Dummy' entered and joined the game
+[2021-04-11 04:56:23]: ***  [, Level 0]: weqe is on a killing spree with 10 blocks
+[2021-04-11 04:56:28]:   [, Level 0]: SanoreX.*: X
