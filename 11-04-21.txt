@@ -8977,3 +8977,7 @@
 [2021-04-11 12:37:12]: ***  [, Level 0]: 'flappy.*' entered and joined the game
 [2021-04-11 12:37:21]: ***  [, Level 0]: 'Foxi♥' has left the game
 [2021-04-11 12:37:31]: ***  [, Level 0]: '(1)' entered and joined the game
+[2021-04-11 12:37:43]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-11 12:37:45]: ***  [, Level 0]: '|HolyHo|°' changed name to 'VD|HolyHo|°'
+[2021-04-11 12:37:45]: ***  [, Level 0]: '|HolyHo|' changed name to 'VD|HolyHo|'
+[2021-04-11 12:37:48]: ***  [, Level 0]: '(2)flappy.*' has left the game (Timeout)
