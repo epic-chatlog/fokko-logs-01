@@ -6149,3 +6149,6 @@
 [2021-04-11 10:00:58]: ***  [, Level 0]: 'YelloWorlD' has left the game
 [2021-04-11 10:00:58]: Axel ² [TrRShClNrRs, Level 20]: Matiteusz: no problem, it's actually funny
 [2021-04-11 10:00:59]: ***  [, Level 0]: 'SanoreX' would have timed out, but can use timeout protection now
+[2021-04-11 10:01:05]: Katakomb [, Level 0]: weqe: tell me what to do
+[2021-04-11 10:01:11]:   [, Level 0]: weqe: Katakomb: just walk around
+[2021-04-11 10:01:12]: Axel ² [TrRShClNrRs, Level 20]: Matiteusz: when they're trying to block me with amount 2+
