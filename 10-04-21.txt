@@ -13364,3 +13364,4 @@
 [2021-04-10 22:54:13]: ***  [, Level 0]: '(1)coca' entered and joined the game
 [2021-04-10 22:57:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-10 23:00:50]: ***  [, Level 0]: 'Saud' entered and joined the game
+[2021-04-10 23:02:09]: ***  [, Level 0]: '(1)Saud' entered and joined the game
