@@ -13297,3 +13297,4 @@
 [2021-04-10 20:05:18]: iocp [, Level 0]: hi
 [2021-04-10 20:07:42]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-10 20:12:19]: ***  [, Level 0]: 'bielgamer' entered and joined the game
+[2021-04-10 20:12:42]: ***  [, Level 0]: [INFO] You can create an account using '/register'
