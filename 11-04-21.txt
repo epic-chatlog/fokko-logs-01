@@ -9754,3 +9754,7 @@
 [2021-04-11 13:13:13]: Hunter.exe [DogParty, Level 36]: rexi: letzte worte?
 [2021-04-11 13:13:15]: GoatLike [, Level 10]: okok
 [2021-04-11 13:13:19]: GoatLike [, Level 10]: SanoreX: privet = hello
+[2021-04-11 13:13:22]: ***  [, Level 0]: '(1)cunt' has left the game
+[2021-04-11 13:13:29]: GoatLike [, Level 10]: like
+[2021-04-11 13:13:31]: SanoreX [Chilli.*, Level 27]: GoatLike: I just know turkish, germany, english
+[2021-04-11 13:13:31]: ReXi [, Level 0]: Hunter.exe: ich check nicht wieso du das machst
