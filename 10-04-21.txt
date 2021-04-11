@@ -13276,3 +13276,5 @@
 [2021-04-10 19:39:08]: ***  [, Level 0]: 'Chips' has left the game
 [2021-04-10 19:39:13]: Zephir™ [, Level 39]: :cccc
 [2021-04-10 19:42:42]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-10 19:44:15]: ***  [, Level 0]: 'Kenshi™' has left the game
+[2021-04-10 19:44:15]: ***  [, Level 0]: 'Zephir™' has left the game
