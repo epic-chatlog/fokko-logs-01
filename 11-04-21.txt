@@ -4459,3 +4459,8 @@
 [2021-04-11 08:31:02]: El patron [, Level 28]: k
 [2021-04-11 08:31:11]: ***  [, Level 0]: 'azerko' entered and joined the game
 [2021-04-11 08:31:21]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
+[2021-04-11 08:31:28]: Kirito [♥, Level 40]: Foxie♥: noo
+[2021-04-11 08:31:31]: Foxie♥ [♥, Level 36]: ChillerDragon.*: forgot xd
+[2021-04-11 08:31:32]: ***  [, Level 0]: '[D] El patron' entered and joined the game
+[2021-04-11 08:31:33]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-11 08:31:35]: Fearless [Retard MNKY, Level 15]: btw smilekid
