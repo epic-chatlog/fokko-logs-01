@@ -6639,3 +6639,6 @@
 [2021-04-11 10:35:18]: ReXi [, Level 0]: Hunter.exe: weil ich eins bin??!?!?!?!?!?
 [2021-04-11 10:35:26]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
 [2021-04-11 10:35:28]: (2)ChillerDrago [|*KoG*|, Level 45]: test
+[2021-04-11 10:35:32]: Hunter.exe [DogParty, Level 36]: rexi: aso und ein mädchen beleidigt direkt
+[2021-04-11 10:35:33]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
+[2021-04-11 10:35:37]: Hunter.exe [DogParty, Level 36]: rexi: dann lass mal discord call?
