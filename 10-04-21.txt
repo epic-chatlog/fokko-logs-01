@@ -12849,3 +12849,6 @@
 [2021-04-10 18:27:12]: Zephir™ [, Level 39]: .S L E E P Y': XDDD
 [2021-04-10 18:27:13]: S Y T H N [, Level 37]: got timeout
 [2021-04-10 18:27:24]: S Y T H N [, Level 37]: Axandos: yo
+[2021-04-10 18:27:27]: ***  [, Level 0]: 'Mr.Ben' entered and joined the game
+[2021-04-10 18:27:28]: Axandos [, Level 0]: yo S Y T H N
+[2021-04-10 18:27:37]: Noxl [.bad, Level 35]: AbdoZX17: rly
