@@ -717,3 +717,5 @@
 [2021-04-11 04:16:35]: ***  [, Level 0]: GReeeN is on a killing spree with 5 blocks
 [2021-04-11 04:16:44]: ***  [, Level 0]: [D] UOYKCUFI's killing spree was ended by el champeon (7 blocks)
 [2021-04-11 04:17:10]: ***  [, Level 0]: GReeeN's killing spree was ended by Jerry (5 blocks)
+[2021-04-11 04:17:34]: keepertrain._. [, Level 30]: peS:
+[2021-04-11 04:17:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
