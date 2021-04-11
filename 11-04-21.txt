@@ -5270,3 +5270,7 @@
 [2021-04-11 09:17:42]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-11 09:17:50]: ***  [, Level 0]: '[D] El patron' entered and joined the game
 [2021-04-11 09:17:58]: WarHammer [DogParty, Level 26]: hhh3:  sanorex bi ara yapmıştı
+[2021-04-11 09:18:10]: i am noob [Ape, Level 19]: rexi hel
+[2021-04-11 09:18:12]: i am noob [Ape, Level 19]: help
+[2021-04-11 09:18:14]: hhh3 [, Level 48]: ChillderPlagon*:
+[2021-04-11 09:18:16]: hhh3 [, Level 48]: ChillerDragon.*:
