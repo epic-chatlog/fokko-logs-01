@@ -7879,3 +7879,7 @@
 [2021-04-11 11:47:04]: SanoreX [Chilli.*, Level 27]: I like turtles.
 [2021-04-11 11:47:12]: SanoreX [Chilli.*, Level 27]: izle WarHammer
 [2021-04-11 11:47:13]: Kezo [DogParty, Level 41]: I like turtles.
+[2021-04-11 11:47:15]: Cylox [, Level 31]: ı go ınf hook
+[2021-04-11 11:47:18]: SanoreX [Chilli.*, Level 27]: adını botun SanoreX yapcam
+[2021-04-11 11:47:19]: ***  [, Level 0]: 'to_niko' entered and joined the game
+[2021-04-11 11:47:23]: ***  [, Level 0]: 'to_niko' has left the game
