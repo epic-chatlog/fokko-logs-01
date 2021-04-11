@@ -6548,3 +6548,5 @@
 [2021-04-11 10:27:16]: i am noob [Ape, Level 19]: coca ????
 [2021-04-11 10:27:43]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-11 10:28:00]: ***  [, Level 0]: 'cunt' has left the game (Timeout)
+[2021-04-11 10:28:26]: ***  [, Level 0]: 'Cosmo' has left the game
+[2021-04-11 10:28:26]: ***  [, Level 0]: '(1)Cosmo' has left the game
