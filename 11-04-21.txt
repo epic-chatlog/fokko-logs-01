@@ -439,3 +439,5 @@
 [2021-04-11 03:45:47]: Anton [, Level 62]: Nidardo.:
 [2021-04-11 03:45:51]: Nidardo. [TOP, Level 3]: Anton:
 [2021-04-11 03:45:56]: Anton [, Level 62]: Nidardo.: dummy
+[2021-04-11 03:46:06]: Anton [, Level 62]: xD
+[2021-04-11 03:46:12]: ***  [, Level 0]: 'RoberGN' has left the game
