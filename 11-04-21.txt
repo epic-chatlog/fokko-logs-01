@@ -6850,3 +6850,6 @@
 [2021-04-11 10:49:06]: Zephir™ [, Level 39]: Hunter.exe: wft why ?
 [2021-04-11 10:49:11]: Hunter.exe [DogParty, Level 36]: Zephir™: he blocked so i war him
 [2021-04-11 10:49:25]: coca [, Level 22]: Zephir™: maybe you help me?
+[2021-04-11 10:49:37]: Zephir™ [, Level 39]: coca: make peace with Hunter.exe
+[2021-04-11 10:49:43]: coca [, Level 22]: Zephir™: he dont want
+[2021-04-11 10:49:45]: Hunter.exe [DogParty, Level 36]: Zephir™: nope iam done with him
