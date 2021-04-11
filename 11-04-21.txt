@@ -6221,3 +6221,8 @@
 [2021-04-11 10:06:16]: cunt [, Level 0]: Axel: yes
 [2021-04-11 10:06:17]: Axel ² [TrRShClNrRs, Level 20]: so freaking lag
 [2021-04-11 10:06:29]: |MıssOяchiĐ| [, Level 48]: sharkz: what did u do?
+[2021-04-11 10:06:31]: weqe [669, Level 12]: |MıssOяchiĐ|: if u help sharkz its war
+[2021-04-11 10:06:32]: ***  [, Level 0]: '(2)ChillerDragon' entered and joined the game
+[2021-04-11 10:06:34]:   [, Level 0]: (2)ChillerDragon: Error: missing token (usage: '/whisper name token command')
+[2021-04-11 10:06:36]: |MıssOяchiĐ| [, Level 48]: sharkz: why u attack him??
+[2021-04-11 10:06:36]: ***  [, Level 0]: '(2)ChillerDragon' has left the game
