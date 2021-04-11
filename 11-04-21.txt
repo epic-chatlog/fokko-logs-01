@@ -8982,3 +8982,7 @@
 [2021-04-11 12:37:45]: ***  [, Level 0]: '|HolyHo|' changed name to 'VD|HolyHo|'
 [2021-04-11 12:37:48]: ***  [, Level 0]: '(2)flappy.*' has left the game (Timeout)
 [2021-04-11 12:37:52]: Foxie♥ [♥, Level 36]: (1)Kirito: fokko pached
+[2021-04-11 12:38:07]: ***  [, Level 0]: '(2)flappy.*' entered and joined the game
+[2021-04-11 12:38:07]: ***  [, Level 0]: '(1)flappy.*' has left the game (Timeout)
+[2021-04-11 12:38:08]: |ΛnץOиe| [, Level 0]: xddddddddd
+[2021-04-11 12:38:11]: |ΛnץOиe| [, Level 0]: AHHA
