@@ -8996,3 +8996,6 @@
 [2021-04-11 12:38:42]: ***  [, Level 0]: 'Foxie♥' has left the game
 [2021-04-11 12:38:47]: El patron [, Level 28]: rq
 [2021-04-11 12:38:49]: Hunter.exe [DogParty, Level 36]: rq
+[2021-04-11 12:38:52]: ***  [, Level 0]: ### 'Hunter.exe' ez
+[2021-04-11 12:38:55]: Zephir™ [, Level 39]: rq xD
+[2021-04-11 12:39:02]: ***  [, Level 0]: 'flappy.*' has left the game (Too weak connection (not acked for 60 seconds))
