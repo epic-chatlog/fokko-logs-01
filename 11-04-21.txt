@@ -798,3 +798,5 @@
 [2021-04-11 04:23:12]: rayen [, Level 0]: ERROR.: PLS BLOCK EDEN PLS
 [2021-04-11 04:23:12]: weqe [669, Level 12]: did i block you myslef ? i think not
 [2021-04-11 04:23:15]: Kakso [, Level 0]: ще ви еба майката проста
+[2021-04-11 04:23:19]: ***  [, Level 0]: 'Kakso' joined the spectators
+[2021-04-11 04:23:22]: ***  [, Level 0]: 'Kakso' joined the game
