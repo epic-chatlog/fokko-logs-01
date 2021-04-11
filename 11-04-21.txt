@@ -8970,3 +8970,8 @@
 [2021-04-11 12:36:32]: ***  [, Level 0]: '(1)flappy.*' has left the game (Timeout)
 [2021-04-11 12:36:49]: |ΛnץOиe| [, Level 0]: vieux
 [2021-04-11 12:36:55]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
+[2021-04-11 12:37:03]: ***  [, Level 0]: Axel finished in: 1 minute(s)  8.94 second(s)
+[2021-04-11 12:37:03]: ***  [, Level 0]: New record: 41.28 second(s) better.
+[2021-04-11 12:37:06]: ***  [, Level 0]: '(1)flappy.*' entered and joined the game
+[2021-04-11 12:37:09]: ***  [, Level 0]: 'flappy.*' has left the game (Timeout)
+[2021-04-11 12:37:12]: ***  [, Level 0]: 'flappy.*' entered and joined the game
