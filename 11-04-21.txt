@@ -2545,3 +2545,5 @@
 [2021-04-11 06:25:02]: ***  [, Level 0]: 'nameless te' has left the game
 [2021-04-11 06:25:14]: [D] keepertrain [FookinLads, Level 25]: K!ked: >>>
 [2021-04-11 06:25:24]: [D] keepertrain [FookinLads, Level 25]: Zephir™: yo
+[2021-04-11 06:25:32]: Zephir™ [, Level 39]: keepertrain._.: who are u ?
+[2021-04-11 06:25:35]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
