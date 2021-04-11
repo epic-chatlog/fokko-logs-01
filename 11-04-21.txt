@@ -3273,3 +3273,7 @@
 [2021-04-11 07:14:49]: Lucas [THECEPS, Level 34]: 3 1
 [2021-04-11 07:15:11]: Lucas [THECEPS, Level 34]: 4 1
 [2021-04-11 07:15:14]: GODLIKe [, Level 44]: broken
+[2021-04-11 07:15:21]: ***  [, Level 0]: 'ChillderPlagon*' has left the game
+[2021-04-11 07:15:24]: Lucas [THECEPS, Level 34]: 4 2
+[2021-04-11 07:15:25]: Zephir™ [, Level 39]: GODLIKe: wft why reset
+[2021-04-11 07:15:33]: GODLIKe. [, Level 39]: Zephir™: idk
