@@ -2789,3 +2789,7 @@
 [2021-04-11 06:43:49]: ***  [, Level 0]: 'soleri1' left the minigame 'Block'
 [2021-04-11 06:43:59]: ***  [, Level 0]: 'cunt' has left the game
 [2021-04-11 06:44:08]: hhnaut31 [, Level 43]: Kaptar: fuck you
+[2021-04-11 06:44:16]: (1)fitz [, Level 0]: |MıssOяchiĐ|: my flag
+[2021-04-11 06:44:19]: ***  [, Level 0]: 'GOLD' entered and joined the game
+[2021-04-11 06:44:24]: |MıssOяchiĐ| [, Level 48]: (1)fitz: Now its mine
+[2021-04-11 06:44:25]: ***  [, Level 0]: 'soleri1' joined the minigame 'Survival', use '/survival' to join aswell
