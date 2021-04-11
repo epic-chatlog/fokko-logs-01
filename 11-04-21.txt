@@ -687,3 +687,5 @@
 [2021-04-11 04:12:14]: Nudelsaft c: [FookinLads, Level 37]: SanoreX: u just tried to afk block my dummy
 [2021-04-11 04:12:16]: ***  [, Level 0]: '✯ Aslak ✯' has left the game
 [2021-04-11 04:12:16]: Nudelsaft c: [FookinLads, Level 37]: SanoreX: so no
+[2021-04-11 04:12:20]: SanoreX [Chilli.*, Level 27]: Nudelsaft c:: ok
+[2021-04-11 04:12:30]: ***  [, Level 0]: '(1)Shy-ra.' entered and joined the game
