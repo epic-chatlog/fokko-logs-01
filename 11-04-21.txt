@@ -1395,3 +1395,10 @@
 [2021-04-11 05:00:34]:   [, Level 0]: why: SanoreX.*:  sorry
 [2021-04-11 05:00:37]:   [, Level 0]: SanoreX: np
 [2021-04-11 05:00:44]: ***  [, Level 0]: 'King Aedan' entered and joined the game
+[2021-04-11 05:00:57]: ***  [, Level 0]: bruh finished in: 17 minute(s) 38.26 second(s)
+[2021-04-11 05:00:57]: ***  [, Level 0]: New record: 8 minute(s) 39.76 second(s) better.
+[2021-04-11 05:00:57]: ***  [, Level 0]: 'bruh' finished the special race!
+[2021-04-11 05:00:57]: ***  [, Level 0]: Eden finished in: 9 minute(s) 20.46 second(s)
+[2021-04-11 05:00:57]: ***  [, Level 0]: 'Eden' finished the special race!
+[2021-04-11 05:00:59]: ***  [, Level 0]: [D] UOYKCUFI finished in: 8 minute(s) 33.32 second(s)
+[2021-04-11 05:00:59]: ***  [, Level 0]: '[D] UOYKCUFI' finished the special race!
