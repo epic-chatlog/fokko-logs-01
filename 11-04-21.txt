@@ -11610,3 +11610,4 @@
 [2021-04-11 22:52:29]: (1)ChillerDrago [Chilli.*, Level 45]: Nudelsaft c:: ja das is mein neues ddnet feature
 [2021-04-11 22:52:34]: Nudelsaft c: [FookinLads, Level 59]: oh
 [2021-04-11 22:52:41]: (1)ChillerDrago [Chilli.*, Level 45]: vergessen wie es heisst
+[2021-04-11 22:52:46]: (1)ChillerDrago [Chilli.*, Level 45]: set_view
