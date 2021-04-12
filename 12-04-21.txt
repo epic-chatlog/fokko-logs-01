@@ -10491,3 +10491,4 @@
 [2021-04-12 09:47:37]: ***  [, Level 0]: 'CrimsonLord' entered and joined the game
 [2021-04-12 09:47:37]: ***  [, Level 0]: (2)УБИВАТЬ!'s killing spree was ended by Lucas (9 blocks)
 [2021-04-12 09:47:40]: mamikral011 [DogParty, Level 26]: BlackOfTheWhite: bekle
+[2021-04-12 09:47:53]: ***  [, Level 0]: 'BlackOfTheWhite' joined the spectators
