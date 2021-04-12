@@ -10318,3 +10318,6 @@
 [2021-04-12 09:37:07]: ***  [, Level 0]: 'BlackOfTheWhite' joined the spectators
 [2021-04-12 09:37:09]:   [, Level 0]: YelloWorlD: Supers: so peace or no ?
 [2021-04-12 09:37:11]: ***  [, Level 0]: 'BlackOfTheWhite' joined the game
+[2021-04-12 09:37:31]: rayen [, Level 0]: ES:  AMIO HELP
+[2021-04-12 09:37:36]: ***  [, Level 0]: »ℱℬℑ« is on a killing spree with 5 blocks
+[2021-04-12 09:37:40]: rayen [, Level 0]: ES:  ami help
