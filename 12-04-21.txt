@@ -7393,3 +7393,7 @@
 [2021-04-12 07:01:06]: Taip [VergleriSay, Level 15]: in race
 [2021-04-12 07:01:10]: ***  [, Level 0]: 'tetano' joined the game
 [2021-04-12 07:01:19]: Taip [VergleriSay, Level 15]: whyy
+[2021-04-12 07:01:27]: ***  [, Level 0]: 'tetano' joined the spectators
+[2021-04-12 07:01:28]: Taip [VergleriSay, Level 15]: we are team bro
+[2021-04-12 07:01:31]: ***  [, Level 0]: 'tetano' joined the game
+[2021-04-12 07:01:32]: rexi [, Level 0]: zeig
