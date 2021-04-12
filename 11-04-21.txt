@@ -11550,3 +11550,6 @@
 [2021-04-11 22:28:27]: S Y T H N [, Level 37]: wer hat eigendlich den bott programmiert DiscordBridge
 [2021-04-11 22:28:30]: Nudelsaft c: [FookinLads, Level 59]: ich
 [2021-04-11 22:28:35]: S Y T H N [, Level 37]: Nudelsaft c:: wtf
+[2021-04-11 22:28:42]: S Y T H N [, Level 37]: du kannst sowas
+[2021-04-11 22:28:45]: ***  [, Level 0]: '(1)S Y T H N' entered and joined the game
+[2021-04-11 22:28:49]: Swarfey [FookinLads, Level 60]: xD
