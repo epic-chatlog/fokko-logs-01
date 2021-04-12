@@ -14903,3 +14903,5 @@
 [2021-04-12 14:49:17]: YelloWorlD [DogParty, Level 38]: Kenshi™: restart
 [2021-04-12 14:49:20]: Kenshi™ [, Level 39]: YelloWorlD: d'habord je dépose att
 [2021-04-12 14:49:38]: ***  [, Level 0]: '(1)NidardoHD' has left the game
+[2021-04-12 14:49:48]: ***  [, Level 0]: 'Dagonaut' entered and joined the game
+[2021-04-12 14:49:55]: mamikral011 [DogParty, Level 22]: GODLIKe: ?
