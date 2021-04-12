@@ -947,3 +947,8 @@
 [2021-04-12 01:14:52]: [D] keepertrain [, Level 25]: This message means i pressed F3
 [2021-04-12 01:15:02]: [D] keepertrain [, Level 25]: SanoreX: its live
 [2021-04-12 01:15:07]: SanoreX [Chilli.*, Level 27]: ez
+[2021-04-12 01:15:13]: Foxie♥ [♥, Level 40]: ERROR: dog
+[2021-04-12 01:15:14]: Zephir™ [, Level 39]: Rem's bae: fun war ?
+[2021-04-12 01:15:18]: [D] keepertrain [, Level 25]: X
+[2021-04-12 01:15:19]: [D] keepertrain [, Level 25]: D
+[2021-04-12 01:15:21]: ERROR [404, Level 56]: cry
