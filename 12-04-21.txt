@@ -4636,3 +4636,10 @@
 [2021-04-12 03:54:51]:   [, Level 0]: Andresss Dumdum: Kiøn1029: rls
 [2021-04-12 03:54:58]: Kiøn1029 [.bad, Level 32]: Andresss Dumdum: he,
 [2021-04-12 03:54:59]: Kiøn1029 [.bad, Level 32]: ?
+[2021-04-12 03:55:06]: ***  [, Level 0]: 'Good man' has left the game
+[2021-04-12 03:55:06]: ***  [, Level 0]: 'coca' has left the game
+[2021-04-12 03:55:08]:   [, Level 0]: Andresss Dumdum: respawn
+[2021-04-12 03:55:09]:   [, Level 0]: kais: rq
+[2021-04-12 03:55:09]: Kiøn1029 [.bad, Level 32]: nem fogok resetelni
+[2021-04-12 03:55:13]:   [, Level 0]: WarHammer': SanoreX:  bugün öğretinmi ?
+[2021-04-12 03:55:15]: ***  [, Level 0]: '(2)flappy.*' entered and joined the game
