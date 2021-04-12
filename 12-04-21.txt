@@ -3967,3 +3967,7 @@
 [2021-04-12 03:25:39]:   [, Level 0]: ReXi: ohaaaaaaaaaaaa
 [2021-04-12 03:25:40]:   [, Level 0]: ReXi: geil
 [2021-04-12 03:25:43]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
+[2021-04-12 03:25:47]:   [, Level 0]: WarHammer': XD
+[2021-04-12 03:25:48]: ***  [, Level 0]: flappy.* was killed by fokkonaut
+[2021-04-12 03:25:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-12 03:25:51]: ***  [, Level 0]: Soros's killing spree was ended by Michel (5 blocks)
