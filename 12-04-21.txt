@@ -1664,3 +1664,6 @@
 [2021-04-12 01:51:46]: SanoreX [Chilli.*, Level 27]: aa
 [2021-04-12 01:52:01]: S Y T H N [DogParty, Level 37]: El patron: kannste nicht selbständig?
 [2021-04-12 01:52:12]: ϻɪɔʜɑʟ [Banana fish, Level 24]: GODLIKe: why i am ϻɪɔʜɑʟ  don t random guy
+[2021-04-12 01:52:41]: ***  [, Level 0]: 'SanoreX.*' left the minigame 'Survival'
+[2021-04-12 01:52:44]: ***  [, Level 0]: '(1)SanoreX.*' left the minigame 'Survival'
+[2021-04-12 01:52:45]: ***  [, Level 0]: '(1)SanoreX' left the minigame 'Survival'
