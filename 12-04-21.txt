@@ -2098,3 +2098,8 @@
 [2021-04-12 02:10:58]: ***  [, Level 0]: '[D] Hunter.exe' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-12 02:10:58]: ***  [, Level 0]: '(1)[D] Hunter.ex' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-12 02:10:58]: NidardoHD [FlexTape, Level 10]: SanoreX: nope
+[2021-04-12 02:11:03]: (1)SanoreX.* [Chilli.*, Level 0]: ok
+[2021-04-12 02:11:04]: ***  [, Level 0]: 'ϻɪɔʜɑʟ' has left the game (Timeout)
+[2021-04-12 02:11:04]: ***  [, Level 0]: '[D]ϻɪɔʜɑʟ' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-12 02:11:05]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin: a co podam
+[2021-04-12 02:11:06]: ***  [, Level 0]: 'xXmatiasXx' entered and joined the game
