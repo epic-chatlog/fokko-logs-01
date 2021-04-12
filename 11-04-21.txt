@@ -11594,3 +11594,4 @@
 [2021-04-11 22:50:36]: (1)ChillerDrago [Chilli.*, Level 45]: owow
 [2021-04-11 22:50:40]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
 [2021-04-11 22:50:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-11 22:50:59]: (1)ChillerDrago [Chilli.*, Level 45]: hmwhatever ich restart ma fix und schau ob das noch geht
