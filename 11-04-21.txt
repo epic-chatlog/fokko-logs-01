@@ -11565,3 +11565,4 @@
 [2021-04-11 22:39:04]: ***  [, Level 0]: '(1)1' has left the game
 [2021-04-11 22:40:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-11 22:41:34]: ***  [, Level 0]: 'Sayme' entered and joined the game
+[2021-04-11 22:42:34]: (1)S Y T H N [, Level 0]: xD
