@@ -11822,3 +11822,5 @@
 [2021-04-11 23:26:10]: SanoreX.* [Chilli.*, Level 22]: this is so Ez
 [2021-04-11 23:26:17]: SanoreX.* [Chilli.*, Level 22]: this is so EZ
 [2021-04-11 23:26:25]: ***  [, Level 0]: 'ERROR' entered and joined the game
+[2021-04-11 23:26:38]: ***  [, Level 0]: 'ERROR.' entered and joined the game
+[2021-04-11 23:26:40]: SanoreX [Chilli.*, Level 27]: wait
