@@ -782,3 +782,5 @@
 [2021-04-12 01:03:48]: ***  [, Level 0]: 'Say0unara' entered and joined the game
 [2021-04-12 01:04:05]: ***  [, Level 0]: 'cika' has left the game
 [2021-04-12 01:04:13]: Nidardo. [TOP, Level 5]: Axandos: let me free and I will go to the left
+[2021-04-12 01:04:25]: Axandos² [, Level 20]: Cylox.:  pro
+[2021-04-12 01:04:26]: Nidardo. [TOP, Level 5]: I just want to farm
