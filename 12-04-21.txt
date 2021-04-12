@@ -2181,3 +2181,8 @@
 [2021-04-12 02:14:31]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin: wymyslil se zabawe
 [2021-04-12 02:14:39]: ***  [, Level 0]: 'rayen' entered and joined the game
 [2021-04-12 02:14:41]: ***  [, Level 0]: 'Eden' entered and joined the game
+[2021-04-12 02:14:44]: Isegrin [, Level 55]: Matiteusz: zabawa - granie w teewrolds
+[2021-04-12 02:14:44]: ***  [, Level 0]: ### 'SanoreX' everyone spec me
+[2021-04-12 02:14:46]: GODLIKe [, Level 44]: q
+[2021-04-12 02:14:52]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin: teewrolds?
+[2021-04-12 02:14:55]: ***  [, Level 0]: 'GODLIKe' has left the game
