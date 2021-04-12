@@ -5998,3 +5998,8 @@
 [2021-04-12 05:27:19]: ***  [H, Level 0]: 'Random Guy' has left the game
 [2021-04-12 05:27:26]: andrea [, Level 0]: were are you
 [2021-04-12 05:27:27]:   [, Level 0]: Isegrin: cunt: Sakkijarven  polkka
+[2021-04-12 05:27:37]: ***  [H, Level 0]: 'Hunter.exe' entered and joined the game
+[2021-04-12 05:27:38]: Eden [qwq, Level 0]: at spawn
+[2021-04-12 05:27:41]:   [, Level 0]: K!ked: Eden:
+[2021-04-12 05:27:44]:   [, Level 0]: K!ked: ~DemoizL~:
+[2021-04-12 05:27:44]: ***  [H, Level 0]: 'zZzerayI' entered and joined the game
