@@ -952,3 +952,11 @@
 [2021-04-12 01:15:18]: [D] keepertrain [, Level 25]: X
 [2021-04-12 01:15:19]: [D] keepertrain [, Level 25]: D
 [2021-04-12 01:15:21]: ERROR [404, Level 56]: cry
+[2021-04-12 01:15:23]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
+[2021-04-12 01:15:24]: ***  [, Level 0]: ### 'ERROR' Woof-Woof
+[2021-04-12 01:15:25]: Rem's dummy [, Level 38]: Zephir™: im not the type to do war
+[2021-04-12 01:15:25]: Saud [, Level 0]: xD
+[2021-04-12 01:15:28]: ***  [, Level 0]: 'Foxi♥' has left the game
+[2021-04-12 01:15:30]: Cylox. [♥, Level 0]: wtffff
+[2021-04-12 01:15:31]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
+[2021-04-12 01:15:32]: ***  [, Level 0]: 'madza B)' entered and joined the game
