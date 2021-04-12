@@ -9553,3 +9553,5 @@
 [2021-04-12 09:04:01]:   [, Level 0]: [D] taco bell: GODDAmhn
 [2021-04-12 09:04:01]: ***  [, Level 0]: 'QON QON' joined the game
 [2021-04-12 09:04:01]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
+[2021-04-12 09:04:03]: [D] mamikral011 [DogParty, Level 21]: WarHammer': yanıma gelq
+[2021-04-12 09:04:12]: ***  [, Level 0]: 'BlackOfTheWhite' joined the spectators
