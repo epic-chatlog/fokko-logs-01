@@ -11657,3 +11657,7 @@
 [2021-04-11 23:00:02]: Swarfey [FookinLads, Level 60]: haben solo raider chance
 [2021-04-11 23:00:07]: S Y T H N [, Level 37]: er nervt
 [2021-04-11 23:00:12]: S Y T H N [, Level 37]: er helft die anderen
+[2021-04-11 23:00:29]: (1)ChillerDrago [|*KoG*|, Level 45]: gönn doch hilfe
+[2021-04-11 23:00:31]: (1)ChillerDrago [|*KoG*|, Level 45]: du bully
+[2021-04-11 23:00:32]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
+[2021-04-11 23:00:32]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
