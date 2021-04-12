@@ -11857,3 +11857,4 @@
 [2021-04-12 11:34:49]: lolpoep [, Level 0]: VD|HolyHo|:  why man
 [2021-04-12 11:34:54]: ***  [, Level 0]: 'Falco642' left the minigame 'Survival'
 [2021-04-12 11:34:54]: lolpoep [, Level 0]: VD|HolyHo|:  wtf
+[2021-04-12 11:35:03]: ***  [, Level 0]: 'Falco642' joined the minigame 'Instagib FNG', use '/fng' to join aswell
