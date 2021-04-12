@@ -11631,3 +11631,5 @@
 [2021-04-11 22:55:26]: (1)ChillerDrago [|*KoG*|, Level 45]: omg ab in den "server raum"#
 [2021-04-11 22:55:28]: Swarfey [FookinLads, Level 60]: wait
 [2021-04-11 22:55:44]: Swarfey [FookinLads, Level 60]: is nich brokey
+[2021-04-11 22:55:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-11 22:55:53]: Swarfey [FookinLads, Level 60]: läuft noch ChillerDragon
