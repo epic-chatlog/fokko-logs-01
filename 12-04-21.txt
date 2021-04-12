@@ -1093,3 +1093,7 @@
 [2021-04-12 01:25:48]: fokkonaut [, Level 102]: ?
 [2021-04-12 01:25:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-12 01:25:51]: Rem's dummy [, Level 38]: fokkonaut: kannst du mir spread gun geben xD
+[2021-04-12 01:25:55]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-12 01:25:56]: fokkonaut [, Level 102]: Rem's bae: he
+[2021-04-12 01:25:58]: fokkonaut [, Level 102]: Rem's bae: hey
+[2021-04-12 01:26:01]: Rem's dummy [, Level 38]: fokkonaut: hey
