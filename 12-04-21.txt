@@ -12301,3 +12301,6 @@
 [2021-04-12 11:56:36]: [D] mamikral011 [DogParty, Level 21]: VD|HolyHo|°: agaaaga
 [2021-04-12 11:56:37]: [D] mamikral011 [DogParty, Level 21]: x
 [2021-04-12 11:56:37]:   [, Level 0]: weqe: bob: U WANT ME TO SPIKEY ALONE ?
+[2021-04-12 11:56:42]: bob [669, Level 36]: wait
+[2021-04-12 11:56:44]: bob [669, Level 36]: i get 1 too
+[2021-04-12 11:56:53]: [D] mamikral011 [DogParty, Level 21]: :D
