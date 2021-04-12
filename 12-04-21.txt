@@ -2556,3 +2556,5 @@
 [2021-04-12 02:30:30]:   [, Level 0]: keepertrain._.: This message means i pressed F4
 [2021-04-12 02:30:31]: Isegrin [, Level 55]: random guy: say or gay
 [2021-04-12 02:30:33]: Axandos² [, Level 20]: S Y T H N:  er hat mich einfach eingesperrt und dann habe ich ihn gekillt
+[2021-04-12 02:30:40]:   [, Level 0]: keepertrain._.: This message means i pressed F3
+[2021-04-12 02:30:45]:   [, Level 0]: Saud: bruh:
