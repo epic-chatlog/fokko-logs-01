@@ -6776,3 +6776,7 @@
 [2021-04-12 06:10:34]: ***  [, Level 0]: 'Foxi♥' has left the game
 [2021-04-12 06:10:41]: (1)Good man [Drunks, Level 0]: i want spike ME
 [2021-04-12 06:10:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-12 06:10:57]: Foxie♥ [♥, Level 40]: Kenshi™: DOWN
+[2021-04-12 06:10:58]:   [, Level 0]: Matiteusz: Foxie♥:
+[2021-04-12 06:11:02]: Foxie♥ [♥, Level 40]: k
+[2021-04-12 06:11:05]: ***  [, Level 0]: '(1)Good man' has left the game
