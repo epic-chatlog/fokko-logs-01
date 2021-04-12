@@ -8924,3 +8924,7 @@
 [2021-04-12 08:43:06]: ***  [, Level 0]: '(1)cunt' entered and joined the game
 [2021-04-12 08:43:08]:   [, Level 0]: Supers: bruh:  laser
 [2021-04-12 08:43:14]:   [, Level 0]: Supers: bruh:  make laser
+[2021-04-12 08:43:21]: ***  [, Level 0]: 'QON QON' joined the spectators
+[2021-04-12 08:43:21]: YelloWorlD [DogParty, Level 41]: darkstar: no life
+[2021-04-12 08:43:23]:   [, Level 0]: Flipper: ILY DARKSTAR
+[2021-04-12 08:43:24]: ***  [, Level 0]: 'QON QON' joined the game
