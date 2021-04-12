@@ -15696,3 +15696,5 @@
 [2021-04-12 16:02:46]: ***  [, Level 0]: 'ReXi' entered and joined the game
 [2021-04-12 16:03:47]: GReeeN [, Level 41]: I´M ANGRY
 [2021-04-12 16:05:14]: ***  [, Level 0]: 'XBlackScorpionX' entered and joined the game
+[2021-04-12 16:05:33]: ***  [, Level 0]: NidardoHD finished in: 126 minute(s)  8.30 second(s)
+[2021-04-12 16:05:35]: ***  [, Level 0]: Nidardo. finished in: 126 minute(s) 37.54 second(s)
