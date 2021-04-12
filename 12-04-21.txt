@@ -10539,3 +10539,6 @@
 [2021-04-12 09:52:09]: cookie [, Level 0]: BC|Tixnix:  im a frend
 [2021-04-12 09:52:17]: BC|Tixnix [BC, Level 34]: cookie: NO
 [2021-04-12 09:52:18]:   [, Level 0]: Kenshi™: Tixnix: ?
+[2021-04-12 09:52:30]: [D] mamikral011 [DogParty, Level 21]: İchMichel.:
+[2021-04-12 09:52:32]: BC|Tixnix [BC, Level 34]: Chillingo: FREND KILING NO
+[2021-04-12 09:52:34]: cookie [, Level 0]: BC|Tixnix:  And I didn't do anything.
