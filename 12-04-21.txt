@@ -5530,3 +5530,8 @@
 [2021-04-12 04:54:34]: NidardoHD [FlexTape, Level 11]: ok make /money drop 5000
 [2021-04-12 04:54:35]: Andresss [citrom, Level 1]: i dont need money
 [2021-04-12 04:54:43]: rexi [, Level 0]: Axandos: was war los dahinten
+[2021-04-12 04:54:46]: Andresss [citrom, Level 1]: money drop 5000
+[2021-04-12 04:54:47]: NidardoHD [FlexTape, Level 11]: Andresss: type /money drop 5000
+[2021-04-12 04:54:47]:   [, Level 0]: Axandos: ReXi:  ka
+[2021-04-12 04:54:52]: ***  [H, Level 0]: random guy's killing spree was ended by i am noob (8 blocks)
+[2021-04-12 04:54:56]: NidardoHD [FlexTape, Level 11]: again
