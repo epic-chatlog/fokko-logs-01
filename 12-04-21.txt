@@ -4449,3 +4449,7 @@
 [2021-04-12 03:45:14]:   [, Level 0]: SanoreX:     m_InputData[g_Config.m_ClDummy].m_Direction = ((int)t/2)&1;
 [2021-04-12 03:45:16]: CKA3A4NIK[NR] [Night Raid, Level 35]: Good man:  ты кто?
 [2021-04-12 03:45:24]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-12 03:45:29]:   [, Level 0]: #5 blocker: Fearless: i have police
+[2021-04-12 03:45:31]: |ΛnץOиe| [, Level 0]: El patron: he is back
+[2021-04-12 03:45:32]: CKA3A4NIK[NR] [Night Raid, Level 35]: Fearless:  WHY YOU TOUCH ME
+[2021-04-12 03:45:33]: |ΛnץOиe| [, Level 0]: El patron: Good man
