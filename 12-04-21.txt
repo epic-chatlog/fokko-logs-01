@@ -5282,3 +5282,7 @@
 [2021-04-12 04:41:18]: ***  [H, Level 0]: '#5 blocker' has left the game
 [2021-04-12 04:41:20]: [D] El patron [, Level 0]: BULLETBOT:
 [2021-04-12 04:41:25]: Andresss [citrom, Level 1]: XD
+[2021-04-12 04:41:29]: ***  [H, Level 0]: '#5 blocker' entered and joined the game
+[2021-04-12 04:41:36]: Andresss [citrom, Level 1]: XDDDD
+[2021-04-12 04:41:37]: ***  [H, Level 0]: 'QON QON' entered and joined the game
+[2021-04-12 04:41:38]: ***  [H, Level 0]: '#5 blocker' has left the game
