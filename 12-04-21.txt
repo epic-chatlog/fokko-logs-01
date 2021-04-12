@@ -11032,3 +11032,5 @@
 [2021-04-12 10:34:15]: [D] mamikral011 [DogParty, Level 21]: agaaaa
 [2021-04-12 10:34:16]: WarHammer [DogParty, Level 26]: lolpoep:  4 mamikral011  2
 [2021-04-12 10:34:23]: WarHammer [DogParty, Level 26]: start
+[2021-04-12 10:34:30]: WarHammer [DogParty, Level 26]: mamikral011:  3 lolpoep  4
+[2021-04-12 10:34:35]: ***  [, Level 0]: zZzerayI is on a killing spree with 5 blocks
