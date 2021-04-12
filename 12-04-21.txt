@@ -8720,3 +8720,4 @@
 [2021-04-12 08:31:23]: ***  [, Level 0]: '(1)Matiteusz' has left the game (Timeout)
 [2021-04-12 08:31:23]: ***  [, Level 0]: '(1)Meetiteusz' has left the game (Timeout)
 [2021-04-12 08:31:23]: ***  [, Level 0]: 'Meetiteusz' has left the game (Timeout)
+[2021-04-12 08:31:35]: ***  [, Level 0]: GOLD is on a killing spree with 5 blocks
