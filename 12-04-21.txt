@@ -10516,3 +10516,4 @@
 [2021-04-12 09:50:50]: ***  [, Level 0]: 'BlackOfTheWhite' joined the game
 [2021-04-12 09:50:50]: cookie [, Level 0]: BC|kakashi:  you kill me
 [2021-04-12 09:50:50]:   [, Level 0]: Lucas: BC|serwan:
+[2021-04-12 09:51:01]: cookie [, Level 0]: BC|kakashi:  why you kill me
