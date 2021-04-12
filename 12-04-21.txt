@@ -5829,3 +5829,6 @@
 [2021-04-12 05:11:45]: i am noob [Ape, Level 19]: no war oke we are good
 [2021-04-12 05:11:51]: ~DemoizL~ [, Level 39]: ok
 [2021-04-12 05:11:51]: [D] El patron [, Level 0]: (1)kais:  write pls
+[2021-04-12 05:12:03]: ***  [H, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-12 05:12:03]: ***  [H, Level 0]: '[D] random guy' entered and joined the game
+[2021-04-12 05:12:07]: ***  [H, Level 0]: 'nameless tee' has left the game
