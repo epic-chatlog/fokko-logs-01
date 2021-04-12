@@ -10390,3 +10390,6 @@
 [2021-04-12 09:42:12]: (2)УБИВАТ [, Level 0]: Xd
 [2021-04-12 09:42:14]: OP|Supers [, Level 0]: Tixnix:  here
 [2021-04-12 09:42:26]:   [, Level 0]: YelloWorlD: Kenshi™: tu m'aide ou non
+[2021-04-12 09:42:29]: ***  [, Level 0]: 'ilum' has left the game
+[2021-04-12 09:42:35]:   [, Level 0]: YelloWorlD: Kenshi™: ta le droit de dire non jre force pas
+[2021-04-12 09:42:36]:   [, Level 0]: Kenshi™: YelloWorlD: t'es ou ?
