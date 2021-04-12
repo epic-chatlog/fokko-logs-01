@@ -11829,3 +11829,8 @@
 [2021-04-11 23:26:59]: ***  [, Level 0]: New record: 1 minute(s) 53.82 second(s) better.
 [2021-04-11 23:28:02]: [D]ϻɪɔʜɑʟ [Banana fish, Level 20]: going to wwalk
 [2021-04-11 23:28:07]: MORPHIN [, Level 37]: xd
+[2021-04-11 23:28:09]: ***  [, Level 0]: 'VD|HolyHo|°' entered and joined the game
+[2021-04-11 23:28:09]: MORPHIN [, Level 37]: thx
+[2021-04-11 23:28:10]: Swarfey [FookinLads, Level 60]: xd
+[2021-04-11 23:28:15]: VD|HolyHo|° [VsDoggo´s, Level 0]: hi Swarfey
+[2021-04-11 23:28:19]: Swarfey [FookinLads, Level 60]: hi
