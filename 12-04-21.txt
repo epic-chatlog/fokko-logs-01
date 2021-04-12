@@ -7425,3 +7425,7 @@
 [2021-04-12 07:04:26]: (1)cunt [, Level 41]: ReXi: kp
 [2021-04-12 07:04:34]: rexi [, Level 0]: warte ma dont change color
 [2021-04-12 07:05:06]: Saud [MNKY, Level 24]: (1)Cosmo:
+[2021-04-12 07:05:42]: ***  [, Level 0]: 'bean' entered and joined the game
+[2021-04-12 07:05:47]: rexi [, Level 0]: afk
+[2021-04-12 07:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-12 07:05:52]: Saud [MNKY, Level 24]: (1)soleri1:
