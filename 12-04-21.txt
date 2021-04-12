@@ -3004,3 +3004,12 @@
 [2021-04-12 02:50:52]: (2)ERROR [FAKE ERROR, Level 40]: ok
 [2021-04-12 02:50:53]: ERROR [404, Level 56]: but now i gtg
 [2021-04-12 02:50:53]: (2)ERROR [FAKE ERROR, Level 40]: men
+[2021-04-12 02:50:55]: (2)ERROR [FAKE ERROR, Level 40]: wait me ok?
+[2021-04-12 02:50:56]: ***  [, Level 0]: Saud is on a killing spree with 5 blocks
+[2021-04-12 02:50:56]: ERROR [404, Level 56]: imma smoke one
+[2021-04-12 02:50:57]: any [404, Level 38]: ERROR: no with my dummy i farm
+[2021-04-12 02:50:58]: random guy [, Level 0]: Isegrin: i wanted to say that i was drunk with gerhard XD
+[2021-04-12 02:50:59]: Saud [MNKY, Level 0]: BC|Tixnix:  I WON WTHO
+[2021-04-12 02:51:00]: ***  [, Level 0]: Saud's killing spree was ended by [D] BC|Tixnix (5 blocks)
+[2021-04-12 02:51:00]: (2)ERROR [FAKE ERROR, Level 40]: ERROR:  ok but wait me men
+[2021-04-12 02:51:05]: ERROR [404, Level 56]: yeah im afk 5min
