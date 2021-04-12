@@ -14928,3 +14928,6 @@
 [2021-04-12 14:51:45]: ***  [, Level 0]: 'fokkonaut' has left the game
 [2021-04-12 14:51:55]: YelloWorlD [DogParty, Level 38]: mamikral011: go out
 [2021-04-12 14:52:00]: [D] mamikral011 [DogParty, Level 27]: YelloWorlD: okey sorry
+[2021-04-12 14:52:10]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 0 minute(s) 31.92 second(s)
+[2021-04-12 14:52:10]: ***  [, Level 0]: New record: 23.98 second(s) better.
+[2021-04-12 14:52:18]: YelloWorlD [DogParty, Level 38]: 1 1
