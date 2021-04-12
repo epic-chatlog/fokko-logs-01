@@ -3620,3 +3620,12 @@
 [2021-04-12 03:12:53]: ***  [, Level 0]: 'Noémi' entered and joined the game
 [2021-04-12 03:12:53]:   [, Level 0]: ERROR: jet
 [2021-04-12 03:12:53]: coca [, Level 0]: BC|Tixnix: help in endless pls
+[2021-04-12 03:12:58]: ***  [, Level 0]: 'Noémi' has left the game
+[2021-04-12 03:12:59]: fokkonaut [, Level 102]: ERROR: geht nicht mehr is gefixt
+[2021-04-12 03:13:00]:   [, Level 0]: ERROR: jet + portal
+[2021-04-12 03:13:00]: Axandos [, Level 25]: |MıssOяchiĐ|:  je professeur de francais
+[2021-04-12 03:13:00]: Nidardo. [TOP, Level 6]: ⣼⣯⠄⣸⣠⣶⣶⣦⣾⠄⡅⡅⠄⠄⠄⠄⡉⠹⠄⡅⠄⠄⠄
+[2021-04-12 03:13:01]: |ΛnץOиe| [, Level 0]: MieSlime: vasi
+[2021-04-12 03:13:02]: Nidardo. [TOP, Level 6]: ⣴⣶⣶⡀⠄⠄⠙⢿⣿⣿⣿⣿⣿⣴⣿⣿⣿⢃⣤⣄⣀⣥⣿
+[2021-04-12 03:13:04]:   [, Level 0]: ERROR: achso
+[2021-04-12 03:13:05]:   [, Level 0]: ReXi: mir geht gut Axandos
