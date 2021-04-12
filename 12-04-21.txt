@@ -6178,3 +6178,6 @@
 [2021-04-12 05:40:50]: ***  [, Level 0]: (1)Cosmo finished in: 6 minute(s) 28.10 second(s)
 [2021-04-12 05:40:50]: ***  [, Level 0]: '(1)Cosmo' finished the special race!
 [2021-04-12 05:40:52]: K!ked [De}|{aBю, Level 62]: :C
+[2021-04-12 05:41:02]: K!ked [De}|{aBю, Level 62]: NUBY SUXI
+[2021-04-12 05:41:02]: Flipper [, Level 16]: :C
+[2021-04-12 05:41:05]: ***  [, Level 0]: '(1)1' has left the game
