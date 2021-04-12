@@ -5042,3 +5042,9 @@
 [2021-04-12 04:20:35]: ***  [, Level 0]: 'ulrich' entered and joined the game
 [2021-04-12 04:20:39]:   [, Level 0]: Taip: senin yüzünden aranlar listesine girdim
 [2021-04-12 04:20:40]: ***  [, Level 0]: 'ulrich' has left the game
+[2021-04-12 04:20:45]:   [, Level 0]: WarHammer': Taip:  napim
+[2021-04-12 04:20:46]: |ΛnץOиe| [, Level 0]: go with her
+[2021-04-12 04:20:49]:   [, Level 0]: Yin: ADAMA DALDIĞIN IÇIN ARANANLAR LISTESINE GIRMIŞ
+[2021-04-12 04:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-12 04:20:50]: |ΛnץOиe| [, Level 0]: why
+[2021-04-12 04:20:55]: ***  [, Level 0]: 'cunt' entered and joined the game
