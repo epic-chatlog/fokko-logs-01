@@ -11667,3 +11667,5 @@
 [2021-04-11 23:01:41]: ***  [, Level 0]: 'MORFY' entered and joined the game
 [2021-04-11 23:01:45]: ϻɪɔʜɑʟ [Banana fish, Level 24]: S Y T H N: hi
 [2021-04-11 23:01:47]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-11 23:01:50]: (1)ChillerDrago [|*KoG*|, Level 45]: aaa broadcast
+[2021-04-11 23:01:56]: (1)ChillerDrago [|*KoG*|, Level 45]: cl_show_broadcasts
