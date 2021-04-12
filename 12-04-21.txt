@@ -13558,3 +13558,6 @@
 [2021-04-12 13:20:46]: Kenshi™ [, Level 39]: ERROR: it's only any fault, he told me to do that
 [2021-04-12 13:20:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-12 13:20:53]: ***  [, Level 0]: sun.slow(y)'s killing spree was ended by |ΛnץOиe| (7 blocks)
+[2021-04-12 13:21:15]: ☺ [, Level 16]: Kenshi™: aide moi stp
+[2021-04-12 13:21:18]: any [404, Level 38]: ERROR: Kenshi™ started by coming to me and saying "error is bich and he kill me"
+[2021-04-12 13:21:18]: |ΛnץOиe| [, Level 43]: MDRR
