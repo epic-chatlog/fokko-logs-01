@@ -11866,3 +11866,4 @@
 [2021-04-11 23:32:28]: MORFY [, Level 29]: xd
 [2021-04-11 23:32:36]: Swarfey [FookinLads, Level 60]: aaaaaa
 [2021-04-11 23:32:37]: MORFY [, Level 29]: nice bug xD
+[2021-04-11 23:32:53]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
