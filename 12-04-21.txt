@@ -8721,3 +8721,8 @@
 [2021-04-12 08:31:23]: ***  [, Level 0]: '(1)Meetiteusz' has left the game (Timeout)
 [2021-04-12 08:31:23]: ***  [, Level 0]: 'Meetiteusz' has left the game (Timeout)
 [2021-04-12 08:31:35]: ***  [, Level 0]: GOLD is on a killing spree with 5 blocks
+[2021-04-12 08:31:41]: ***  [, Level 0]: 'BlackOfTheWhite' joined the spectators
+[2021-04-12 08:31:45]: ***  [, Level 0]: 'BlackOfTheWhite' joined the game
+[2021-04-12 08:31:45]: ***  [, Level 0]: 'QON QON' joined the spectators
+[2021-04-12 08:31:48]: ***  [, Level 0]: 'QON QON' joined the game
+[2021-04-12 08:31:51]: ***  [, Level 0]: 'BlackOfTheWhite' joined the spectators
