@@ -13353,3 +13353,5 @@
 [2021-04-12 13:03:23]: ERROR [404, Level 56]: ye
 [2021-04-12 13:03:24]: any [404, Level 38]: Nightmare: bcs Kenshi™ dont like u
 [2021-04-12 13:03:25]: ***  [, Level 0]: 'PANZELKOWY' has left the game
+[2021-04-12 13:03:29]: JustRace. [DogParty, Level 0]: ERROR: why is he blocking good people?
+[2021-04-12 13:03:37]: ERROR [404, Level 56]: JustRace:  ask him idk?
