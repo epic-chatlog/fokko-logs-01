@@ -10584,3 +10584,6 @@
 [2021-04-12 09:55:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-12 09:55:50]:   [, Level 0]: |MıssOяchiĐ|: mamikral011: oh u kill me again?
 [2021-04-12 09:55:52]:   [, Level 0]: |MıssOяchiĐ|: mamikral011: really?
+[2021-04-12 09:55:56]: ***  [, Level 0]: 'BlackOfTheWhite' has left the game
+[2021-04-12 09:56:00]: [D] mamikral011 [DogParty, Level 21]: |MıssOяchiĐ|: kill?
+[2021-04-12 09:56:02]:   [, Level 0]: |MıssOяchiĐ|: mamikral011: i think u want a war no?
