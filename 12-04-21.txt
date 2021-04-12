@@ -5258,3 +5258,6 @@
 [2021-04-12 04:39:21]: Axandos² [, Level 20]: ofc
 [2021-04-12 04:39:29]: ***  [H, Level 0]: 'BULLETBOT' entered and joined the game
 [2021-04-12 04:39:32]: ***  [H, Level 0]: 'NidardoHD' entered and joined the game
+[2021-04-12 04:39:54]: Axandos² [, Level 20]: "better"
+[2021-04-12 04:39:55]: ***  [H, Level 0]: 'SmutnyKonradek' entered and joined the game
+[2021-04-12 04:40:00]: Andresss [citrom, Level 1]: yes
