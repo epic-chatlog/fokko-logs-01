@@ -12015,3 +12015,8 @@
 [2021-04-11 23:45:38]: Axandos [, Level 25]: wie
 [2021-04-11 23:45:39]: Nudelsaft c: [FookinLads, Level 37]: aahahhahahah
 [2021-04-11 23:45:40]: Axandos [, Level 25]: zum fick
+[2021-04-11 23:45:44]: Axandos [, Level 25]: fucking fuck
+[2021-04-11 23:45:49]: (1)SanoreX [Chilli.*, Level 0]: ERROR: look
+[2021-04-11 23:45:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-11 23:45:51]: MORPHIN [, Level 37]: SanoreX: I kill flappy
+[2021-04-11 23:45:53]: MORPHIN [, Level 37]: SanoreX: look
