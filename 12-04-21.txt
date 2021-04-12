@@ -15378,3 +15378,5 @@
 [2021-04-12 15:25:34]: Kenshi™ [, Level 39]: ☺: parfois la mienne marche bien
 [2021-04-12 15:25:38]: Kenshi™ [, Level 39]: YelloWorlD: ouaip
 [2021-04-12 15:25:44]: YelloWorlD [DogParty, Level 38]: Kenshi™: vien spawn
+[2021-04-12 15:25:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-12 15:25:58]: Kenshi™ [, Level 39]: YelloWorlD: je croyais t'avais celui de any ?
