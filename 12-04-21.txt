@@ -7402,3 +7402,4 @@
 [2021-04-12 07:01:40]: ***  [, Level 0]: 'tetano' joined the game
 [2021-04-12 07:01:50]: rexi [, Level 0]: wo ist der trick
 [2021-04-12 07:01:54]: ***  [, Level 0]: 'tetano' joined the spectators
+[2021-04-12 07:01:57]: ***  [, Level 0]: 'tetano' joined the game
