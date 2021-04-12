@@ -7380,3 +7380,9 @@
 [2021-04-12 07:00:14]: Recep [VergleriSay, Level 0]: şaka ln
 [2021-04-12 07:00:21]: rexi [, Level 0]: cunt: hast du endless
 [2021-04-12 07:00:41]:   [, Level 0]: mamikral011: soleri1:
+[2021-04-12 07:00:47]:   [, Level 0]: mamikral011: soleri1: rifle
+[2021-04-12 07:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-12 07:00:50]: rexi [, Level 0]: k
+[2021-04-12 07:00:52]:   [, Level 0]: mamikral011: soleri1:
+[2021-04-12 07:00:53]: rexi [, Level 0]: l
+[2021-04-12 07:00:55]: Taip [VergleriSay, Level 15]: why bro
