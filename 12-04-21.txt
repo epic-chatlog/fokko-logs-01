@@ -2911,3 +2911,5 @@
 [2021-04-12 02:45:12]: Isegrin [, Level 55]: random guy: hurensohn
 [2021-04-12 02:45:14]:   [, Level 0]: WarHammer: SanoreX:  olm çok sıkılıyom
 [2021-04-12 02:45:15]: (2)ERROR. [FAKE ERROR, Level 16]: ERROR:  nob
+[2021-04-12 02:45:23]: random guy [, Level 0]: Isegrin: :(
+[2021-04-12 02:45:26]: Isegrin [, Level 55]: random guy: dummkopf XD
