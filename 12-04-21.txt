@@ -13493,3 +13493,7 @@
 [2021-04-12 13:13:10]: any [404, Level 38]: ERROR: ?
 [2021-04-12 13:13:33]: ERROR [404, Level 56]: any wait
 [2021-04-12 13:13:35]: Kenshi™ [, Level 39]: ERROR: xD
+[2021-04-12 13:13:45]: fitz [, Level 0]: (1)ERROR:
+[2021-04-12 13:13:47]: El patron [, Level 28]: ERROR: wtf
+[2021-04-12 13:13:48]: Nightmare [, Level 27]: ERROR: ?????????
+[2021-04-12 13:13:49]: any [404, Level 38]: ERROR: da flag
