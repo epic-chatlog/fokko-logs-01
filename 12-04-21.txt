@@ -14642,3 +14642,9 @@
 [2021-04-12 14:23:27]: ***  [, Level 0]: 'Virus' has left the game
 [2021-04-12 14:23:27]: Intensiv_ [CrazzyNobbs, Level 2]: tako sal
 [2021-04-12 14:23:30]: Cylox [, Level 0]: ReXi: ohaa
+[2021-04-12 14:23:36]: fitz [, Level 0]: GReeeN:
+[2021-04-12 14:23:38]: Intensiv_ [CrazzyNobbs, Level 2]: tako
+[2021-04-12 14:23:40]: Intensiv_ [CrazzyNobbs, Level 2]: (1)♥TAKO♥:
+[2021-04-12 14:23:43]: Intensiv_ [CrazzyNobbs, Level 2]: (1)♥TAKO♥:  sal
+[2021-04-12 14:23:43]: [D] ♥TAKO♥ [DogParty, Level 0]: Intensiv_:  ne
+[2021-04-12 14:23:44]: ***  [, Level 0]: 'Intensiv_' has been muted for 60 seconds
