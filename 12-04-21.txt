@@ -7523,3 +7523,7 @@
 [2021-04-12 07:11:04]:   [, Level 0]: WarHammer: mamikral011:  gel gores girek
 [2021-04-12 07:11:08]: (1)Saud [MNKY, Level 0]: Cosmo:  dont
 [2021-04-12 07:11:22]: (1)Saud [MNKY, Level 0]: (1)Cosmo:  use ur dummy
+[2021-04-12 07:11:23]: ***  [, Level 0]: 'Lunar' has left the game
+[2021-04-12 07:11:24]:   [, Level 0]: mamikral011: Warhammer  bilmem
+[2021-04-12 07:11:29]: WarHammer [DogParty, Level 26]: mamikral011:  hadi hadi gel
+[2021-04-12 07:11:31]: ***  [, Level 0]: 'JOSHUA' joined the spectators
