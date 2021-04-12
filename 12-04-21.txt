@@ -635,3 +635,5 @@
 [2021-04-12 00:47:43]: ***  [, Level 0]: 'GODLIKe.' has left the game
 [2021-04-12 00:47:43]: ***  [, Level 0]: 'GODLIKe' has left the game
 [2021-04-12 00:47:45]: SanoreX [Chilli.*, Level 0]: Nudelsaft c:: I dont destroy
+[2021-04-12 00:47:58]: SanoreX [Chilli.*, Level 0]: Nudelsaft c:: I will never near stacks
+[2021-04-12 00:48:01]: SanoreX [Chilli.*, Level 0]: and u see me
