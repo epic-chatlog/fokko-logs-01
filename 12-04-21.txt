@@ -12685,3 +12685,5 @@
 [2021-04-12 12:15:56]: ***  [, Level 0]: '1' entered and joined the game
 [2021-04-12 12:16:03]: cookie [, Level 5]: nooo
 [2021-04-12 12:16:06]: ***  [, Level 0]: 'Flipper' entered and joined the game
+[2021-04-12 12:16:09]: Zʷʰʸˀ [NULL, Level 36]: DeD: stop!
+[2021-04-12 12:16:11]: ***  [, Level 0]: 'rere' entered and joined the game
