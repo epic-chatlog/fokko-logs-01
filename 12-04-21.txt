@@ -11743,3 +11743,7 @@
 [2021-04-12 11:27:28]:   [, Level 0]: VD|HolyHo|°: mamikral011: stfu
 [2021-04-12 11:27:29]: ***  [, Level 0]: 'Jerry' has left the game
 [2021-04-12 11:27:29]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-12 11:27:41]:   [, Level 0]: Falco642: im kinda laggy though
+[2021-04-12 11:27:43]: ***  [, Level 0]: '[D] mamikral011' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-12 11:27:44]: [D] ♥TAKO♥ [DogParty, Level 0]: Zʷʰʸˀ:  come survival
+[2021-04-12 11:27:47]:   [, Level 0]: Falco642: horrible wifi
