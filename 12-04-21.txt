@@ -5297,3 +5297,11 @@
 [2021-04-12 04:41:59]: Axandos [, Level 25]: Marcisten:
 [2021-04-12 04:42:03]: ***  [H, Level 0]: '#5 blocker' has left the game
 [2021-04-12 04:42:04]:   [, Level 0]: BULLETBOT: you are sooo bad
+[2021-04-12 04:42:05]: Marcisten [Helper, Level 26]: Axandos: ?
+[2021-04-12 04:42:06]:   [, Level 0]: BULLETBOT: fucking bad
+[2021-04-12 04:42:07]: ***  [H, Level 0]: 'QON QON' has left the game
+[2021-04-12 04:42:09]: Axandos [, Level 25]: help Marcisten
+[2021-04-12 04:42:10]: ***  [H, Level 0]: 'QON QON' entered and joined the game
+[2021-04-12 04:42:11]: Andresss [citrom, Level 1]: neee
+[2021-04-12 04:42:13]: Andresss [citrom, Level 1]: ne help
+[2021-04-12 04:42:16]: |ΛnץOиe| [, Level 0]: ROSE
