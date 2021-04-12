@@ -13398,3 +13398,6 @@
 [2021-04-12 13:06:20]: ***  [, Level 0]: 'fokkonaut' has left the game
 [2021-04-12 13:06:22]: El patron [, Level 0]: Kenshi™: help
 [2021-04-12 13:06:30]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-12 13:06:33]: (1)☺ [, Level 10]: comment ta fais
+[2021-04-12 13:06:39]: JustRace. [DogParty, Level 0]: El patron:  who are you firstly
+[2021-04-12 13:06:41]: Kenshi™ [, Level 39]: ☺: ?
