@@ -4913,3 +4913,9 @@
 [2021-04-12 04:11:15]: MieSlime [FookinLads, Level 43]: sun.slow(y):  noooooobbb jumps
 [2021-04-12 04:11:18]: Soros [, Level 0]: Kenshi™: hes ur lord or what
 [2021-04-12 04:11:18]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-12 04:11:21]: ***  [, Level 0]: 'el champeon' has left the game
+[2021-04-12 04:11:21]: ***  [, Level 0]: 'Soros' has left the game
+[2021-04-12 04:11:23]: MieSlime [FookinLads, Level 43]: sun.slow(y):  noooooobbb jumps
+[2021-04-12 04:11:24]:   [, Level 0]: WarHammer': BULLETBOT:  sorry
+[2021-04-12 04:11:26]: sun.slow(y) [FookinLads, Level 35]: MieSlime: i dont have jumps
+[2021-04-12 04:11:29]: sun.slow(y) [FookinLads, Level 35]: MieSlime: just 1
