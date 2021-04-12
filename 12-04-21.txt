@@ -1251,3 +1251,7 @@
 [2021-04-12 01:33:39]: SanoreX [Chilli.*, Level 27]: fokkonaut: I dont have plot
 [2021-04-12 01:33:47]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
 [2021-04-12 01:33:52]: (1)SanoreX.* [Chilli.*, Level 0]: my plot expired
+[2021-04-12 01:34:03]: ***  [, Level 0]: 'Foxi♥' has left the game
+[2021-04-12 01:34:07]:   [, Level 0]: 1: dream
+[2021-04-12 01:34:08]: (1)SanoreX.* [Chilli.*, Level 0]: fokkonaut: DiscordBridge is server bot?
+[2021-04-12 01:34:10]: Matiteusz [TrRShClNrRs, Level 35]:  /w Foxie♥ Im really interested about emm that how ur reading my nickname cuz its emm polish name xD
