@@ -405,3 +405,7 @@
 [2021-04-12 00:29:08]: SanoreX.* [Chilli.*, Level 22]: California: my
 [2021-04-12 00:29:12]: SanoreX.* [Chilli.*, Level 22]: California:
 [2021-04-12 00:29:14]: SanoreX.* [Chilli.*, Level 22]: California: give back
+[2021-04-12 00:29:19]: SanoreX.* [Chilli.*, Level 22]: f4
+[2021-04-12 00:29:24]: SanoreX.* [Chilli.*, Level 22]: dont stole
+[2021-04-12 00:29:28]: SanoreX.* [Chilli.*, Level 22]: go race and get it
+[2021-04-12 00:29:29]: ***  [, Level 0]: 'Saud' has left the game
