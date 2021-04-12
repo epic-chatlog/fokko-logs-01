@@ -5932,3 +5932,7 @@
 [2021-04-12 05:18:36]: ***  [H, Level 0]: 'XxxBgLucas' entered and joined the game
 [2021-04-12 05:19:17]:   [, Level 0]: |ΛnץOиe|: OMG
 [2021-04-12 05:19:33]: ***  [H, Level 0]: 'JAMARO' entered and joined the game
+[2021-04-12 05:19:43]:   [, Level 0]: |ΛnץOиe|: K!ked: hi u
+[2021-04-12 05:19:47]:   [, Level 0]: K!ked: omg
+[2021-04-12 05:19:50]: ***  [H, Level 0]: Lucas finished in: 4 minute(s)  1.70 second(s)
+[2021-04-12 05:19:52]: ReXi [, Level 0]: (1)VD|HolyHo|°: why
