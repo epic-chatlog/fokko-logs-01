@@ -1014,3 +1014,6 @@
 [2021-04-12 01:19:19]: Foxie♥ [♥, Level 40]: Matiteusz: 1 sec
 [2021-04-12 01:19:20]: ***  [, Level 0]: '(1)Matiteusz' entered and joined the game
 [2021-04-12 01:19:28]: S Y T H N [DogParty, Level 37]: xD
+[2021-04-12 01:19:36]: ***  [, Level 0]: '(2)Saud' entered and joined the game
+[2021-04-12 01:19:37]: ***  [, Level 0]: '(1)Meetiteusz' entered and joined the game
+[2021-04-12 01:19:41]: (1)SanoreX [Chilli.*, Level 0]: ERROR: stack my dummys to here pls
