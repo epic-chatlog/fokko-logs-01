@@ -1505,3 +1505,6 @@
 [2021-04-12 01:44:13]: [D]ϻɪɔʜɑʟ [Banana fish, Level 20]: ok but pls help me i dont block u
 [2021-04-12 01:44:17]: [D]ϻɪɔʜɑʟ [Banana fish, Level 20]: i dont helper
 [2021-04-12 01:44:18]: ***  [, Level 0]: 'tymeeq' has left the game
+[2021-04-12 01:44:32]: ERROR [404, Level 56]: who
+[2021-04-12 01:44:34]: [D] keepertrain [, Level 25]: This message means i pressed F4
+[2021-04-12 01:44:34]: Boti. [.bad, Level 33]: ghost
