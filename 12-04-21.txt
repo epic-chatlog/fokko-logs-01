@@ -11483,3 +11483,6 @@
 [2021-04-12 11:04:30]: ***  [, Level 0]: 'WarHammer'' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-12 11:04:30]: ***  [, Level 0]: 'WarHammer' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-12 11:04:34]: SanoreX [Chilli.*, Level 27]: Kenshi™:
+[2021-04-12 11:04:40]: ***  [, Level 0]: 'Isegrin' entered and joined the game
+[2021-04-12 11:04:41]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-12 11:04:46]: Falco641 [.bad, Level 20]: DeD: wtf?
