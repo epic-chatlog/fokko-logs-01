@@ -5105,3 +5105,4 @@
 [2021-04-12 04:24:37]: [D] El patron [, Level 0]: BULLETBOT: wait
 [2021-04-12 04:24:50]: Shy-ra. [, Level 0]: sun.slow(y): ok
 [2021-04-12 04:24:53]: BULLETBOT [, Level 0]: xd
+[2021-04-12 04:25:14]: Killua [FookinLads, Level 37]: fokkonaut: wtf
