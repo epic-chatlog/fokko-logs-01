@@ -11930,3 +11930,6 @@
 [2021-04-11 23:39:34]: ***  [, Level 0]: 'Ƭevan' finished the special race!
 [2021-04-11 23:39:34]: Marcisten [Helper, Level 26]: Ðream: this place changed:O
 [2021-04-11 23:39:35]: Axandos [, Level 25]: ist flag despawned?
+[2021-04-11 23:39:43]: Nudelsaft c: [FookinLads, Level 37]: scheinbar
+[2021-04-11 23:39:43]: SanoreX [Chilli.*, Level 27]: badfly
+[2021-04-11 23:39:45]: Nudelsaft c: [FookinLads, Level 37]: error hat die xd
