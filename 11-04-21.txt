@@ -11562,3 +11562,4 @@
 [2021-04-11 22:31:23]: Nudelsaft c: [FookinLads, Level 59]: ja
 [2021-04-11 22:32:34]: ***  [, Level 0]: (1)1 finished in: 1 minute(s) 48.88 second(s)
 [2021-04-11 22:35:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-11 22:39:04]: ***  [, Level 0]: '(1)1' has left the game
