@@ -5887,3 +5887,7 @@
 [2021-04-12 05:15:28]:   [, Level 0]: Random Guy: (1)VD|HolyHo|:  when  i press P
 [2021-04-12 05:15:35]: (1)kais [, Level 58]: |ΛnץOиe|: et, pour quelle raison ? xD
 [2021-04-12 05:15:35]:   [, Level 0]: |ΛnץOиe|: (1)kais: hier les deux étaient co en meme temps
+[2021-04-12 05:15:46]:   [, Level 0]: |ΛnץOиe|: (1)kais: mdrr pk ça serait lui meme? xddd
+[2021-04-12 05:15:48]: ***  [H, Level 0]: 'kajzer' entered and joined the game
+[2021-04-12 05:15:48]: (1)kais [, Level 58]: |ΛnץOиe|: et ils jouaient ?
+[2021-04-12 05:15:50]: ***  [H, Level 0]: [INFO] You can create an account using '/register'
