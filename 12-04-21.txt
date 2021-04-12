@@ -5787,3 +5787,7 @@
 [2021-04-12 05:09:19]: (1)kais [, Level 58]: El patron: no, i'm logic
 [2021-04-12 05:09:19]:   [, Level 0]: Axandos: was
 [2021-04-12 05:09:20]:   [, Level 0]: rexi: du sack
+[2021-04-12 05:09:21]:   [, Level 0]: rexi: afk
+[2021-04-12 05:09:25]:   [, Level 0]: rexi: guck
+[2021-04-12 05:09:27]:   [, Level 0]: rexi: wtf
+[2021-04-12 05:09:29]: ***  [H, Level 0]: 'rexi' has been muted for 60 seconds
