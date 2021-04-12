@@ -3656,3 +3656,12 @@
 [2021-04-12 03:14:09]: Axandos [, Level 25]: |MıssOяchiĐ|:  oui
 [2021-04-12 03:14:12]:   [, Level 0]: |MıssOяchiĐ|: MieSlime non mdrrr
 [2021-04-12 03:14:13]: Axandos [, Level 25]: MieSlime:  oui
+[2021-04-12 03:14:22]:   [, Level 0]: ERROR: fokkonaut:  seitwann kann man nur geschlossene walls portal setzen?
+[2021-04-12 03:14:24]: ***  [, Level 0]: '11111' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-12 03:14:24]: ***  [, Level 0]: '(2)Shy-ra.' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-12 03:14:24]: ***  [, Level 0]: 'Shy-ra.' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-12 03:14:26]:   [, Level 0]: |MıssOяchiĐ|: Axandos: oui oui baguette
+[2021-04-12 03:14:26]: SanoreX [Chilli.*, Level 27]: why Fearless
+[2021-04-12 03:14:28]:   [, Level 0]: ERROR: durch*
+[2021-04-12 03:14:31]: MieSlime [FookinLads, Level 43]: Axandos:  mais tes fr ??
+[2021-04-12 03:14:32]: Fearless [, Level 40]: SanoreX:  im gay
