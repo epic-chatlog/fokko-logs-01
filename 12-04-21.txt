@@ -11892,3 +11892,8 @@
 [2021-04-12 11:36:30]: lolpoep [, Level 0]: mamikral011:
 [2021-04-12 11:36:38]: ***  [, Level 0]: 'soleri1' left the minigame 'Survival'
 [2021-04-12 11:36:38]: ***  [, Level 0]: '(4)lol' has left the game
+[2021-04-12 11:36:40]:   [, Level 0]: [D] mamikral011: lolpoep: ?
+[2021-04-12 11:36:42]:   [, Level 0]: Falco642: lol broken
+[2021-04-12 11:36:47]: ***  [, Level 0]: 'soleri1' joined the minigame 'Instagib FNG', use '/fng' to join aswell
+[2021-04-12 11:36:49]: lolpoep [, Level 0]: yeag
+[2021-04-12 11:36:51]: ***  [, Level 0]: 'Warthunder' has left the game
