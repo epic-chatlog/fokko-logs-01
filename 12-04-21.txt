@@ -6044,3 +6044,11 @@
 [2021-04-12 05:30:27]:   [, Level 0]: Matiteusz: Isegrin: sak
 [2021-04-12 05:30:50]: ***  [ìÿÿÿ, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-12 05:30:54]:   [, Level 0]: cunt: lets go kill isegri
+[2021-04-12 05:30:59]: Eden [qwq, Level 0]: qhhwaha
+[2021-04-12 05:31:00]: ***  [Ž, Level 0]: '[D] Hunter.exe' would have timed out, but can use timeout protection now
+[2021-04-12 05:31:00]: ***  [Ž, Level 0]: '(1)[D] Hunter.ex' has left the game (Timeout)
+[2021-04-12 05:31:00]: ***  [Ž, Level 0]: '(1)Hunter.exe' has left the game (Timeout)
+[2021-04-12 05:31:00]: ***  [Ž, Level 0]: 'Hunter.exe' would have timed out, but can use timeout protection now
+[2021-04-12 05:31:02]: Eden [qwq, Level 0]: blazingd420:
+[2021-04-12 05:31:04]: Eden [qwq, Level 0]: I died
+[2021-04-12 05:31:07]: ***  [¿, Level 0]: 'CKA3A4NIK[NR]' entered and joined the game
