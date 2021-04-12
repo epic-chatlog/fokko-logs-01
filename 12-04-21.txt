@@ -12509,3 +12509,7 @@
 [2021-04-12 12:07:10]: ***  [, Level 0]: 'Shy-ra.' has left the game
 [2021-04-12 12:07:15]: weqe [669, Level 12]: ramadan kareem bro
 [2021-04-12 12:07:20]: ***  [, Level 0]: '♥TAKO♥' has left the game
+[2021-04-12 12:07:25]: ***  [, Level 0]: '(1)Saud' has left the game
+[2021-04-12 12:07:25]: ***  [, Level 0]: '(2)Saud' has left the game
+[2021-04-12 12:07:25]: ***  [, Level 0]: 'Saud' has left the game
+[2021-04-12 12:07:30]: bob [669, Level 36]: what this mean?
