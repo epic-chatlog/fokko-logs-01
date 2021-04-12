@@ -2711,3 +2711,7 @@
 [2021-04-12 02:35:52]: Matiteusz [TrRShClNrRs, Level 35]: keepertrain._.: GŁUPWNO
 [2021-04-12 02:35:53]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-12 02:35:54]: Isegrin [, Level 55]: random guy: ANGlea merkel
+[2021-04-12 02:35:58]: ***  [, Level 0]: '[D] keepertrain' has left the game
+[2021-04-12 02:35:58]: ***  [, Level 0]: 'keepertrain._.' has left the game
+[2021-04-12 02:35:59]: SanoreX [Chilli.*, Level 27]: Nidardo.: help my dummy pls
+[2021-04-12 02:36:07]: random guy [, Level 0]: Isegrin: sausage, beer, nazi, angela merkel
