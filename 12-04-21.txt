@@ -4143,3 +4143,5 @@
 [2021-04-12 03:31:48]: CKA3A4NIK[NR] [Night Raid, Level 35]: El patron:  You have jetpack?
 [2021-04-12 03:31:49]:   [, Level 0]: ReXi: du bist nicht hot Axandos
 [2021-04-12 03:31:51]:   [, Level 0]: Taip: who have jetpack
+[2021-04-12 03:31:53]: CKA3A4NIK[NR] [Night Raid, Level 35]: El patron:  You have jetpack?
+[2021-04-12 03:32:00]: Axandos² [, Level 20]: ReXi:  habe ich auch nicht gesagt, ich habe gefurzt :D
