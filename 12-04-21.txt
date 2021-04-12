@@ -15700,3 +15700,8 @@
 [2021-04-12 16:05:35]: ***  [, Level 0]: Nidardo. finished in: 126 minute(s) 37.54 second(s)
 [2021-04-12 16:05:38]: Kenshi™ [, Level 39]: HardreenClutch: save or i come and kill u
 [2021-04-12 16:05:48]: ***  [, Level 0]: 'XBlackScorpionX' joined the spectators
+[2021-04-12 16:05:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-12 16:05:49]: ReXi [, Level 0]: bin weg GReeeN
+[2021-04-12 16:05:52]: GReeeN [, Level 41]: bb
+[2021-04-12 16:05:54]: ***  [, Level 0]: 'ReXi' has left the game
+[2021-04-12 16:06:00]: (1)☺ [, Level 11]: it's my flag bitch
