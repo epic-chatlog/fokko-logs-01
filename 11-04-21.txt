@@ -11613,3 +11613,4 @@
 [2021-04-11 22:52:46]: (1)ChillerDrago [Chilli.*, Level 45]: set_view
 [2021-04-11 22:53:04]: (1)ChillerDrago [|*KoG*|, Level 45]: ich hab einfach set_view cmd in mein password manager rein
 [2021-04-11 22:53:05]: (1)ChillerDrago [Chilli.*, Level 45]: xd
+[2021-04-11 22:53:08]: Swarfey [FookinLads, Level 60]: xd
