@@ -5305,3 +5305,7 @@
 [2021-04-12 04:42:11]: Andresss [citrom, Level 1]: neee
 [2021-04-12 04:42:13]: Andresss [citrom, Level 1]: ne help
 [2021-04-12 04:42:16]: |ΛnץOиe| [, Level 0]: ROSE
+[2021-04-12 04:42:18]: |ΛnץOиe| [, Level 0]: JACK
+[2021-04-12 04:42:20]: Andresss [citrom, Level 1]: genyó
+[2021-04-12 04:42:24]: ***  [H, Level 0]: 'i am noob' entered and joined the game
+[2021-04-12 04:42:24]: ***  [H, Level 0]: 'QON QON' has left the game
