@@ -11585,3 +11585,5 @@
 [2021-04-11 22:49:49]: (1)ChillerDrago [Chilli.*, Level 45]: nice tee control
 [2021-04-11 22:49:56]: Swarfey [FookinLads, Level 60]: nice
 [2021-04-11 22:50:02]: ←   [, Level 0]: Swarfey: 0say penis
+[2021-04-11 22:50:06]: ←   [, Level 0]: Swarfey: 1say yee
+[2021-04-11 22:50:10]: Swarfey [FookinLads, Level 60]: xd
