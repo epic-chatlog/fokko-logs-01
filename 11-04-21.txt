@@ -11611,3 +11611,5 @@
 [2021-04-11 22:52:34]: Nudelsaft c: [FookinLads, Level 59]: oh
 [2021-04-11 22:52:41]: (1)ChillerDrago [Chilli.*, Level 45]: vergessen wie es heisst
 [2021-04-11 22:52:46]: (1)ChillerDrago [Chilli.*, Level 45]: set_view
+[2021-04-11 22:53:04]: (1)ChillerDrago [|*KoG*|, Level 45]: ich hab einfach set_view cmd in mein password manager rein
+[2021-04-11 22:53:05]: (1)ChillerDrago [Chilli.*, Level 45]: xd
