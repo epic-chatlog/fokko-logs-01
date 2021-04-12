@@ -5988,3 +5988,6 @@
 [2021-04-12 05:25:32]: Random Guy [, Level 40]: xd
 [2021-04-12 05:25:43]: ***  [H, Level 0]: 'i am noob' has left the game
 [2021-04-12 05:25:50]: ***  [H, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-12 05:26:20]:   [, Level 0]: K!ked: omg
+[2021-04-12 05:26:25]:   [, Level 0]: K!ked: still using 5 jumps
+[2021-04-12 05:26:27]:   [, Level 0]: K!ked: trash
