@@ -7130,3 +7130,5 @@
 [2021-04-12 06:38:14]:   [, Level 0]: butt eater: rexi: ?
 [2021-04-12 06:38:26]:   [, Level 0]: ReXi: butt eater: butt eater
 [2021-04-12 06:38:27]: Good man [Drunks, Level 30]: any: no no no)
+[2021-04-12 06:38:37]: ***  [, Level 0]: 'Flupper' has left the game
+[2021-04-12 06:38:37]: ***  [, Level 0]: 'Flipper' has left the game
