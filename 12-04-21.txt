@@ -7436,3 +7436,11 @@
 [2021-04-12 07:06:34]: ***  [, Level 0]: 'tetano' joined the game
 [2021-04-12 07:06:38]: ***  [, Level 0]: 'JOSHUA' joined the spectators
 [2021-04-12 07:06:41]: ***  [, Level 0]: 'JOSHUA' joined the game
+[2021-04-12 07:06:54]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-12 07:06:58]: ***  [, Level 0]: 'Juzudek' entered and joined the game
+[2021-04-12 07:06:58]:   [, Level 0]: mamikral011: (1)soleri1:
+[2021-04-12 07:06:59]: ***  [, Level 0]: 'JOSHUA' joined the spectators
+[2021-04-12 07:07:00]: Saud [MNKY, Level 24]: mamikral011:  ok
+[2021-04-12 07:07:03]: ***  [, Level 0]: 'JOSHUA' joined the game
+[2021-04-12 07:07:04]:   [, Level 0]: mamikral011: (1)soleri1: come
+[2021-04-12 07:07:05]: ***  [, Level 0]: 'bean' has left the game
