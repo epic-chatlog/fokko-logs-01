@@ -13497,3 +13497,7 @@
 [2021-04-12 13:13:47]: El patron [, Level 28]: ERROR: wtf
 [2021-04-12 13:13:48]: Nightmare [, Level 27]: ERROR: ?????????
 [2021-04-12 13:13:49]: any [404, Level 38]: ERROR: da flag
+[2021-04-12 13:14:09]: ***  [, Level 0]: (1)☺ is on a killing spree with 5 blocks
+[2021-04-12 13:14:14]: Nightmare [, Level 27]: JustRace:
+[2021-04-12 13:14:14]: |ΛnץOиe| [, Level 43]: eh ouai ma pute
+[2021-04-12 13:14:15]: JustRace [DogParty, Level 36]: ERROR.:  are you leaving?>
