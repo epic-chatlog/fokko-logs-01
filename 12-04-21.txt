@@ -8281,3 +8281,5 @@
 [2021-04-12 08:10:33]: ***  [, Level 0]: 'Axandos²' has left the game
 [2021-04-12 08:10:35]:   [, Level 0]: Taip: helppp
 [2021-04-12 08:10:36]:   [, Level 0]: BlackOfTheWhite: yardım
+[2021-04-12 08:10:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-12 08:10:53]:   [, Level 0]: Taip: GODLIKEe.: alsana
