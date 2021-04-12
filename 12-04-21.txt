@@ -567,3 +567,7 @@
 [2021-04-12 00:44:32]: SanoreX [Chilli.*, Level 27]: Kezo: bak
 [2021-04-12 00:44:33]: ERROR. [404, Level 75]: (1)kais:  wa
 [2021-04-12 00:44:35]: ERROR. [404, Level 75]: (1)kais:  war
+[2021-04-12 00:44:36]: ERROR. [404, Level 75]: xD
+[2021-04-12 00:44:38]: (1)kais [, Level 58]: ERROR.: ok
+[2021-04-12 00:44:40]: ERROR. [404, Level 75]: xDDD
+[2021-04-12 00:44:42]: (1)kais [, Level 58]: ERROR.: if you want :shrug:
