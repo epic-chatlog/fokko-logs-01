@@ -12613,3 +12613,7 @@
 [2021-04-12 12:11:21]: weqe [669, Level 12]: ok cookie
 [2021-04-12 12:11:24]: cookie [, Level 5]: weqe:  oke
 [2021-04-12 12:11:26]: HardreenClutch [, Level 57]: Axandos:  digga es kann genau so ein wichser sein wie hunter
+[2021-04-12 12:11:30]: ***  [, Level 0]: '1' entered and joined the game
+[2021-04-12 12:11:34]: weqe [669, Level 12]: bob: we leave now ?
+[2021-04-12 12:11:37]: HardreenClutch [, Level 57]: Axandos:  ich hab sie nie gesehen oder gehört
+[2021-04-12 12:11:37]: Axandos [, Level 0]: HardreenClutch:  ja
