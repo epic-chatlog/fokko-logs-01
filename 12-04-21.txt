@@ -13571,3 +13571,4 @@
 [2021-04-12 13:21:43]: any [404, Level 38]: Kenshi™: noooooooo
 [2021-04-12 13:21:53]: Toniloni [, Level 0]: Hunter.exe: Hs
 [2021-04-12 13:21:55]: ***  [, Level 0]: 'Toniloni' has left the game
+[2021-04-12 13:22:00]: Kenshi™ [, Level 39]: ERROR: :c
