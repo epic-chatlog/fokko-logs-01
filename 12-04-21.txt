@@ -2987,3 +2987,7 @@
 [2021-04-12 02:49:44]: (1)SanoreX.* [Chilli.*, Level 0]: Matiteusz: help
 [2021-04-12 02:49:50]: (1)SanoreX.* [Chilli.*, Level 0]: Matiteusz: help and I give u jet
 [2021-04-12 02:49:50]: (2)ERROR [FAKE ERROR, Level 40]: ERROR:  we need more errors
+[2021-04-12 02:49:55]: Matiteusz [TrRShClNrRs, Level 35]: SanoreX: i odnt need
+[2021-04-12 02:49:55]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 5 blocks
+[2021-04-12 02:49:58]: Matiteusz [TrRShClNrRs, Level 35]: SanoreX: im farming
+[2021-04-12 02:50:04]: (1)SanoreX.* [Chilli.*, Level 0]: I leaving in 2. window
