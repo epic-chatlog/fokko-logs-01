@@ -11490,3 +11490,7 @@
 [2021-04-12 11:05:03]: SanoreX [Chilli.*, Level 27]: aa
 [2021-04-12 11:05:08]: ***  [, Level 0]: 'Nidardo.' has left the game (Timeout Protection over)
 [2021-04-12 11:05:08]: ***  [, Level 0]: 'NidardoHD' has left the game (Timeout Protection over)
+[2021-04-12 11:05:38]: |ΛnץOиe| [, Level 0]: tee: u take the flag here?
+[2021-04-12 11:05:38]: [D] mamikral011 [DogParty, Level 21]: hahahah
+[2021-04-12 11:05:40]: ***  [, Level 0]: DeD is on a killing spree with 5 blocks
+[2021-04-12 11:05:40]: tee [, Level 2]: yes
