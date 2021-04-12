@@ -2196,3 +2196,7 @@
 [2021-04-12 02:15:30]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin: jepal cie piesio
 [2021-04-12 02:15:36]:   [, Level 0]: rayen: BC|serwan: pls help block eden
 [2021-04-12 02:15:40]: ***  [, Level 0]: 'andrea' has left the game
+[2021-04-12 02:15:46]: ***  [, Level 0]: '~DemoizL~' has left the game
+[2021-04-12 02:15:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-12 02:15:54]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin: se kurfa wloczyl tryb duha
+[2021-04-12 02:15:55]: SanoreX [Chilli.*, Level 27]: record demo Nidardo.
