@@ -11617,3 +11617,5 @@
 [2021-04-12 11:15:20]: ***  [, Level 0]: '[D] tee' has left the game
 [2021-04-12 11:15:20]: ***  [, Level 0]: 'tee' has left the game
 [2021-04-12 11:15:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-12 11:15:52]:   [, Level 0]: Dagonaut: :D
+[2021-04-12 11:15:56]: ***  [, Level 0]: (2)Zʷʰʸˀ is on a killing spree with 5 blocks
