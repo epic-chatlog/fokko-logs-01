@@ -11839,3 +11839,6 @@
 [2021-04-11 23:28:32]: Swarfey [FookinLads, Level 60]: u
 [2021-04-11 23:28:40]: ***  [, Level 0]: 'Marcisten' entered and joined the game
 [2021-04-11 23:28:43]: Axandos [, Level 25]: Swarfey:  was hast du fürn fach gerade?
+[2021-04-11 23:28:47]: Swarfey [FookinLads, Level 60]: grad nix
+[2021-04-11 23:28:53]: Axandos [, Level 25]: hab chemie
+[2021-04-11 23:28:56]: Swarfey [FookinLads, Level 60]: xd
