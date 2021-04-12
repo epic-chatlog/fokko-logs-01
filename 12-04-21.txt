@@ -5500,3 +5500,9 @@
 [2021-04-12 04:53:20]: Saud [MNKY, Level 0]: BULLETBOT:  ez
 [2021-04-12 04:53:22]: sun.slow(y) [FookinLads, Level 35]: TL|ŦƹƦ$ŦǾN: DONT HOST HENTAI
 [2021-04-12 04:53:26]: Saud [MNKY, Level 0]: BULLETBOT:  ez
+[2021-04-12 04:53:33]: ***  [H, Level 0]: ~DemoizL~'s killing spree was ended by random guy (8 blocks)
+[2021-04-12 04:53:35]: ***  [H, Level 0]: 'Axandos' has left the game (Timeout)
+[2021-04-12 04:53:35]: ***  [H, Level 0]: 'Axandos²' has left the game (Timeout)
+[2021-04-12 04:53:36]: Saud [MNKY, Level 0]: BULLETBOT:  ez
+[2021-04-12 04:53:38]: ***  [H, Level 0]: random guy is on a killing spree with 5 blocks
+[2021-04-12 04:53:43]: ***  [H, Level 0]: 'BULLETBOT' has left the game
