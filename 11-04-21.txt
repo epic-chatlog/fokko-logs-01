@@ -11601,3 +11601,5 @@
 [2021-04-11 22:51:27]: (1)ChillerDrago [Chilli.*, Level 45]: omg grad aufgestanden
 [2021-04-11 22:51:39]: Swarfey [FookinLads, Level 60]: du kannst direkt spectaten und auf farm verzichten aber naja
 [2021-04-11 22:51:52]: (1)ChillerDrago [Chilli.*, Level 45]: ja ne das low
+[2021-04-11 22:51:57]: Nudelsaft c: [FookinLads, Level 59]: spect wahrscheinlich nich zur selben position bei restart
+[2021-04-11 22:51:58]: (1)ChillerDrago [Chilli.*, Level 45]: brauche /pause on
