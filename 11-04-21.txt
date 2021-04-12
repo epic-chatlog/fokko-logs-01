@@ -12111,3 +12111,6 @@
 [2021-04-11 23:53:26]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-11 23:53:27]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
 [2021-04-11 23:53:33]: SanoreX.* [Chilli.*, Level 22]: yes
+[2021-04-11 23:53:43]: MORFY [, Level 29]: Nudelsaft c:: Give me back my grenade
+[2021-04-11 23:53:43]: Axandos [, Level 25]: qaNDinei
+[2021-04-11 23:53:46]: (1)SanoreX [Chilli.*, Level 0]: ez stack
