@@ -5138,3 +5138,6 @@
 [2021-04-12 04:26:49]: |ΛnץOиe| [, Level 0]: flappy: oops
 [2021-04-12 04:26:51]: ***  [, Level 0]: 'SanoreX' has left the game
 [2021-04-12 04:26:51]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-12 04:26:54]: |ΛnץOиe| [, Level 0]: sun.slow(y): follow him?
+[2021-04-12 04:26:57]: sun.slow(y) [FookinLads, Level 35]: yes
+[2021-04-12 04:26:59]: sun.slow(y) [FookinLads, Level 35]: but
