@@ -5971,3 +5971,8 @@
 [2021-04-12 05:23:15]:   [, Level 0]: Isegrin: Axandos: niga niga
 [2021-04-12 05:23:21]:   [, Level 0]: Axandos: Isegrin:  jawohl
 [2021-04-12 05:23:37]:   [, Level 0]: Random Guy: xd
+[2021-04-12 05:24:08]: ***  [H, Level 0]: 'andrea' finished the special race!
+[2021-04-12 05:24:09]: ***  [H, Level 0]: '(1)Cosmo' entered and joined the game
+[2021-04-12 05:24:10]: ***  [H, Level 0]: 'Eden' finished the special race!
+[2021-04-12 05:24:10]: ***  [H, Level 0]: Eden finished in: 18 minute(s)  9.64 second(s)
+[2021-04-12 05:24:13]: Eden [qwq, Level 0]: yeaa
