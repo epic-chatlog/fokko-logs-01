@@ -9803,3 +9803,10 @@
 [2021-04-12 09:15:04]: ***  [, Level 0]: 'AkiHiKo_718' joined the game
 [2021-04-12 09:15:05]:   [, Level 0]: BC|Tixnix: hi
 [2021-04-12 09:15:10]: Flipper [, Level 16]: allthehaxx fag
+[2021-04-12 09:15:21]: ***  [, Level 0]: 'AkiHiKo_718' joined the spectators
+[2021-04-12 09:15:21]: Hunter.exe [DogParty, Level 37]: Tziys*:
+[2021-04-12 09:15:24]: Hunter.exe [DogParty, Level 37]: OMG
+[2021-04-12 09:15:26]: Hunter.exe [DogParty, Level 37]: NO
+[2021-04-12 09:15:27]: Hunter.exe [DogParty, Level 37]: WAY
+[2021-04-12 09:15:28]: ***  [, Level 0]: 'Hunter.exe' has been muted for 60 seconds
+[2021-04-12 09:15:31]: [D] mamikral011 [DogParty, Level 21]: ahahhaha
