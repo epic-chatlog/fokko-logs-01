@@ -3385,3 +3385,7 @@
 [2021-04-12 03:05:37]: ***  [, Level 0]: 'NidardoHD' left the minigame 'Block'
 [2021-04-12 03:05:41]: SanoreX [Chilli.*, Level 27]: YAW
 [2021-04-12 03:05:46]:   [, Level 0]: Isegrin: random guy: why u are not cya
+[2021-04-12 03:05:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-12 03:05:52]: |ΛnץOиe| [, Level 0]: Terston⚔: hello vodkaaaaaa
+[2021-04-12 03:05:55]:   [, Level 0]: ReXi: axa du hast auch endless undso
+[2021-04-12 03:05:58]: Axandos² [, Level 20]: ReXi:  morgen wird ein gayer tag rexiana
