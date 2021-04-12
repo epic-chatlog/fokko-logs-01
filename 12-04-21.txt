@@ -15093,3 +15093,6 @@
 [2021-04-12 15:03:56]: YelloWorlD [DogParty, Level 38]:  5 4
 [2021-04-12 15:03:56]: GODLIKe [, Level 44]: [D] mamikral011: admin panel f2
 [2021-04-12 15:04:06]: [D] mamikral011 [DogParty, Level 27]: GODLIKe: para alabilion mu
+[2021-04-12 15:04:14]: GODLIKe [, Level 44]: [D] mamikral011: kendimeportal falan verebiliyom
+[2021-04-12 15:04:17]: YelloWorlD [DogParty, Level 38]:  6 4
+[2021-04-12 15:04:32]: YelloWorlD [DogParty, Level 38]:  7 4
