@@ -14805,3 +14805,6 @@
 [2021-04-12 14:39:02]: fitz [, Level 18]: YelloWorlD:
 [2021-04-12 14:39:19]: ***  [, Level 0]: 'Medkit' has left the game
 [2021-04-12 14:39:32]: [D] mamikral011 [DogParty, Level 27]: [D] ♥TAKO♥: YelloWorlD takip
+[2021-04-12 14:39:46]: ***  [, Level 0]: Saud is on a killing spree with 5 blocks
+[2021-04-12 14:39:47]: ***  [, Level 0]: Saud's killing spree was ended by Isegrin (5 blocks)
+[2021-04-12 14:39:49]: Saud [MNKY, Level 24]: Isegrin:  wtf
