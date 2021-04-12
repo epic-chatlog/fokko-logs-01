@@ -13527,3 +13527,7 @@
 [2021-04-12 13:16:15]: ERROR [404, Level 56]: ugh laggs
 [2021-04-12 13:16:18]: El patron [, Level 28]: lag
 [2021-04-12 13:16:41]: [D] El patron [, Level 0]: ERROR: wtf
+[2021-04-12 13:16:45]: [D] El patron [, Level 0]: ERROR: why
+[2021-04-12 13:16:47]: any [404, Level 38]: ERROR: escaped
+[2021-04-12 13:16:50]: ERROR [404, Level 56]: gays
+[2021-04-12 13:16:53]: Kenshi™ [, Level 39]: ERROR: :D
