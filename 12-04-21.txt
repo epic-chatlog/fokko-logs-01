@@ -8731,3 +8731,6 @@
 [2021-04-12 08:32:00]: ***  [, Level 0]: 'QON QON' joined the game
 [2021-04-12 08:32:00]: Hunter.exe [DogParty, Level 37]: Kezo: who is your rl friend
 [2021-04-12 08:32:01]: ~DemoizL~ [, Level 39]: (1)Sayme: stop
+[2021-04-12 08:32:09]: Kezo [DogParty, Level 41]: Hunter.exe: İntesiv_
+[2021-04-12 08:32:10]: ***  [, Level 0]: 'QON QON' joined the spectators
+[2021-04-12 08:32:13]: ***  [, Level 0]: 'QON QON' joined the game
