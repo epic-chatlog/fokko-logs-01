@@ -11737,3 +11737,5 @@
 [2021-04-12 11:26:45]: ***  [, Level 0]: (2)Saud's killing spree was ended by [D] mamikral011 (10 blocks)
 [2021-04-12 11:27:02]: ***  [, Level 0]: '(2)Zʷʰʸˀ' left the minigame 'Survival'
 [2021-04-12 11:27:04]:   [, Level 0]: soleri1: Falco641: come survival!!
+[2021-04-12 11:27:14]: ***  [, Level 0]: 'Falco642' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-12 11:27:19]: [D] mamikral011 [DogParty, Level 21]: VD|HolyHo|: hiii :DD
