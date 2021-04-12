@@ -15890,3 +15890,5 @@
 [2021-04-12 16:49:31]: ***  [, Level 0]: 'Smici' entered and joined the game
 [2021-04-12 16:49:36]: ***  [, Level 0]: 'Smici' has left the game
 [2021-04-12 16:50:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-12 16:53:15]: ***  [, Level 0]: 'NidardoHD' would have timed out, but can use timeout protection now
+[2021-04-12 16:53:15]: ***  [, Level 0]: 'Nidardo.' would have timed out, but can use timeout protection now
