@@ -6419,3 +6419,4 @@
 [2021-04-12 05:54:14]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 36.90 second(s)
 [2021-04-12 05:54:18]: Axandos² [, Level 20]: obwohl du losed
 [2021-04-12 05:54:22]: ***  [, Level 0]: Lucas finished in: 3 minute(s) 25.32 second(s)
+[2021-04-12 05:54:36]: ***  [, Level 0]: 'Cosmo' has left the game
