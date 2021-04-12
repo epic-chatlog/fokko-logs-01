@@ -3301,3 +3301,8 @@
 [2021-04-12 03:02:40]:   [, Level 0]: Isegrin: MieSlime: baise le
 [2021-04-12 03:02:41]: any² [404, Level 25]: ERROR: wellcome to the jungle
 [2021-04-12 03:02:42]: ***  [, Level 0]: 'Til999' joined the spectators
+[2021-04-12 03:02:44]: any² [404, Level 25]: ERROR: x)
+[2021-04-12 03:02:46]: ***  [, Level 0]: 'Til999' joined the game
+[2021-04-12 03:02:48]: MieSlime [FookinLads, Level 43]: Isegrin:  qui dois-je baise ?
+[2021-04-12 03:02:48]: ***  [, Level 0]: 'Noémi' entered and joined the game
+[2021-04-12 03:02:49]: (4)ERROR [, Level 0]: we are 24-25 inside xd
