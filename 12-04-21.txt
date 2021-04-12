@@ -4618,3 +4618,8 @@
 [2021-04-12 03:53:24]:   [, Level 0]: #5 blocker: el champeon: noob
 [2021-04-12 03:53:31]:   [, Level 0]: ReXi: Axandos: lebst du noch
 [2021-04-12 03:53:37]: (1)kais [, Level 58]: yes
+[2021-04-12 03:53:40]: Axandos [, Level 25]: ReXi:  negativ
+[2021-04-12 03:53:43]:   [, Level 0]: SanoreX: El patron: why
+[2021-04-12 03:53:46]:   [, Level 0]: SanoreX: war El patron
+[2021-04-12 03:53:47]: ***  [, Level 0]: '(1)flappy.*' has left the game (Timeout)
+[2021-04-12 03:53:48]:   [, Level 0]: ReXi: oh
