@@ -3472,3 +3472,15 @@
 [2021-04-12 03:08:24]: ERROR [404, Level 56]: gleich
 [2021-04-12 03:08:25]: ***  [, Level 0]: 'CKA3A4NIK[NR]' entered and joined the game
 [2021-04-12 03:08:26]: (2)ERROR [, Level 0]: XAXAXAX
+[2021-04-12 03:08:27]: ERROR [404, Level 56]: geil
+[2021-04-12 03:08:28]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-12 03:08:29]: ***  [, Level 0]: 'Til999' joined the spectators
+[2021-04-12 03:08:29]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: MieSlime: ofc
+[2021-04-12 03:08:31]: ERROR [404, Level 56]: und schilder
+[2021-04-12 03:08:32]:   [, Level 0]: MieSlime: TL|ŦƹƦ$ŦǾN:  ah,rip sry
+[2021-04-12 03:08:32]: ***  [, Level 0]: 'Til999' joined the game
+[2021-04-12 03:08:33]: ***  [, Level 0]: '(3)ERROR' has left the game
+[2021-04-12 03:08:33]: ***  [, Level 0]: '(2)ERROR' has left the game
+[2021-04-12 03:08:33]: ***  [, Level 0]: '(4)ERROR' has left the game
+[2021-04-12 03:08:33]: ***  [, Level 0]: '(5)ERROR' has left the game
+[2021-04-12 03:08:36]: ERROR [404, Level 56]: mach wall und schilder
