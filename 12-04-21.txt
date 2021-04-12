@@ -375,3 +375,6 @@
 [2021-04-12 00:25:50]: GODLIKe [, Level 44]: ok
 [2021-04-12 00:25:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-12 00:25:53]: (1)kais [, Level 58]: VD|HolyHo|°: no
+[2021-04-12 00:26:03]: (1)kais [, Level 58]: VD|HolyHo|°:took foxi's jet :3
+[2021-04-12 00:26:06]: ***  [, Level 0]: 1 finished in: 0 minute(s) 58.60 second(s)
+[2021-04-12 00:26:07]: Axandos² [, Level 20]: i need to poop
