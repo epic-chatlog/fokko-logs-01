@@ -13178,3 +13178,7 @@
 [2021-04-12 12:51:07]: ***  [, Level 0]: 'milanesa' has left the game
 [2021-04-12 12:51:13]: ☺ [, Level 16]: |ΛnץOиe|: tu mas dis jai 13 piges ta 13 piges je sais
 [2021-04-12 12:51:14]: ***  [, Level 0]: 'Intensiv' has left the game
+[2021-04-12 12:51:18]: |ΛnץOиe| [, Level 43]: ☺: Ouai et donc?
+[2021-04-12 12:51:21]: |ΛnץOиe| [, Level 43]: ☺: mdrrr
+[2021-04-12 12:51:24]: |ΛnץOиe| [, Level 43]: ☺: Titouan
+[2021-04-12 12:51:27]: JustRace [DogParty, Level 36]: cl_aimbot 1
