@@ -1748,3 +1748,9 @@
 [2021-04-12 01:55:46]: S Y T H N [DogParty, Level 37]: hä
 [2021-04-12 01:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-12 01:55:51]: Hunter.exe [DogParty, Level 37]: Kenshi™:
+[2021-04-12 01:55:57]: ReXi [, Level 0]: S Y T H N: mache fachabi
+[2021-04-12 01:55:58]: ***  [, Level 0]: 'erick satie' has left the game
+[2021-04-12 01:56:00]: S Y T H N [DogParty, Level 37]: aso
+[2021-04-12 01:56:01]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
+[2021-04-12 01:56:01]: ***  [, Level 0]: 'fokkonaut' has left the game
+[2021-04-12 01:56:02]:   [, Level 0]: Isegrin: Meetiteusz: zajep sie w leb
