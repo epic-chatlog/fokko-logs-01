@@ -1726,3 +1726,5 @@
 [2021-04-12 01:54:43]: S Y T H N [DogParty, Level 37]: ReXi: ich hatte
 [2021-04-12 01:54:44]: Meetiteusz [, Level 25]: Isegrin: pizdziec
 [2021-04-12 01:54:48]: Meetiteusz [, Level 25]: Isegrin: pidaras
+[2021-04-12 01:54:53]: ***  [, Level 0]: 'awee' has left the game
+[2021-04-12 01:54:59]: ReXi [, Level 0]: S Y T H N: welche klasse bist du
