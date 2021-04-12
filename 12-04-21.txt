@@ -15443,3 +15443,7 @@
 [2021-04-12 15:32:36]: Cylox [, Level 0]: hi
 [2021-04-12 15:32:39]: mamikral011 [DogParty, Level 22]: hi
 [2021-04-12 15:32:50]: (1)☺ [, Level 11]: Kenshi™: tu joue avec lacamera dynamique ?
+[2021-04-12 15:32:55]: Kenshi™ [, Level 39]: ERROR: je l'ai jamais vraiment fight
+[2021-04-12 15:32:55]: GOLD [404, Level 40]: Kenshi™: mais bon
+[2021-04-12 15:33:01]: GOLD [404, Level 40]: Kenshi™: mots de la fin train toi hammer
+[2021-04-12 15:33:03]: Kenshi™ [, Level 39]: merde je l'ai mentio
