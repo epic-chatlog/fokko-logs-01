@@ -6972,3 +6972,8 @@
 [2021-04-12 06:24:17]: ***  [, Level 0]: 'teeworld drip' has left the game
 [2021-04-12 06:24:19]: ***  [, Level 0]: 'teeworld drip' entered and joined the game
 [2021-04-12 06:24:20]: Kezo [DogParty, Level 41]: Matiteusz: they stop now
+[2021-04-12 06:24:32]: ***  [, Level 0]: 'teeworld drip' has left the game
+[2021-04-12 06:24:33]:   [, Level 0]: 1: ilk 5 jumpum
+[2021-04-12 06:24:35]: ***  [, Level 0]: 'teeworld drip' entered and joined the game
+[2021-04-12 06:24:35]: Kezo [DogParty, Level 41]: tam bir barış makinesiyim aq :D
+[2021-04-12 06:24:37]:   [, Level 0]: mamikral011: Kezo: içime doğdu piçlik yapcak oo
