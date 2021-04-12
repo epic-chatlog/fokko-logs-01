@@ -2962,3 +2962,8 @@
 [2021-04-12 02:48:08]: Zephir™ [, Level 39]: ERROR: why ? xD
 [2021-04-12 02:48:11]: random guy [, Level 0]: Isegrin: polish stupid xD
 [2021-04-12 02:48:13]: ERROR [404, Level 56]: Zephir™: ?
+[2021-04-12 02:48:16]: Isegrin [, Level 55]: random guy: nein du
+[2021-04-12 02:48:17]: (2)ERROR [FAKE ERROR, Level 40]: Zephir™:  why not
+[2021-04-12 02:48:19]: (1)SanoreX.* [Chilli.*, Level 0]: Tixnix: look
+[2021-04-12 02:48:26]: random guy [, Level 0]: Isegrin: oh i see
+[2021-04-12 02:48:26]: ***  [, Level 0]: 'Zephir™' changed name to '(3)ERROR'
