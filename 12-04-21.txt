@@ -2901,3 +2901,4 @@
 [2021-04-12 02:44:08]: ***  [, Level 0]: '[D] Fearless' changed name to '(2)ERROR.'
 [2021-04-12 02:44:24]: ChillerDragon [Chilli.*, Level 10]: Error: BC|kakashi failed to remote control (invalid token)
 [2021-04-12 02:44:24]: (1)SanoreX [Chilli.*, Level 0]: lan
+[2021-04-12 02:44:40]: (2)ERROR [FAKE ERROR, Level 40]: ERROR:  we are ERRORS
