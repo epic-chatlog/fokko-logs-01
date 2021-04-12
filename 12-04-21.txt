@@ -3013,3 +3013,9 @@
 [2021-04-12 02:51:00]: ***  [, Level 0]: Saud's killing spree was ended by [D] BC|Tixnix (5 blocks)
 [2021-04-12 02:51:00]: (2)ERROR [FAKE ERROR, Level 40]: ERROR:  ok but wait me men
 [2021-04-12 02:51:05]: ERROR [404, Level 56]: yeah im afk 5min
+[2021-04-12 02:51:08]: ***  [, Level 0]: '(2)ERROR' has left the game
+[2021-04-12 02:51:08]: ***  [, Level 0]: '(3)ERROR' has left the game
+[2021-04-12 02:51:13]: SanoreX.* [Chilli.*, Level 22]: omg
+[2021-04-12 02:51:14]: random guy [, Level 0]: Isegrin: and that i drunk like a guy with 8 arms
+[2021-04-12 02:51:14]: SanoreX.* [Chilli.*, Level 22]: NOOO
+[2021-04-12 02:51:15]: Isegrin [, Level 55]: random guy: who is gerhard
