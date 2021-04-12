@@ -14770,3 +14770,7 @@
 [2021-04-12 14:34:33]: YelloWorlD [DogParty, Level 38]: Eden:
 [2021-04-12 14:34:40]: Eden [qwq, Level 0]: yes ?
 [2021-04-12 14:34:48]: YelloWorlD [DogParty, Level 38]: Eden: chiax ?
+[2021-04-12 14:34:50]: Eden [qwq, Level 0]: yes
+[2021-04-12 14:34:55]: ***  [, Level 0]: DeD is on a killing spree with 10 blocks
+[2021-04-12 14:34:56]: Eden [qwq, Level 0]: I'm chiax's friend
+[2021-04-12 14:34:56]: YelloWorlD [DogParty, Level 38]: Eden: wsh
