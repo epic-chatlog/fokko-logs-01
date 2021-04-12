@@ -8405,3 +8405,5 @@
 [2021-04-12 08:16:58]: ***  [, Level 0]: 'Kezo' entered and joined the game
 [2021-04-12 08:17:01]: ***  [, Level 0]: Kenshi™'s killing spree was ended by darkstar3 (6 blocks)
 [2021-04-12 08:17:02]: ***  [, Level 0]: rayen's killing spree was ended by jeder (6 blocks)
+[2021-04-12 08:17:05]: ***  [, Level 0]: 'Tziys*' entered and joined the game
+[2021-04-12 08:17:06]: ***  [, Level 0]: '(1)Tziys*' changed name to 'İntesiv_'
