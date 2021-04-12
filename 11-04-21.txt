@@ -11663,3 +11663,4 @@
 [2021-04-11 23:00:32]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
 [2021-04-11 23:00:42]: S Y T H N [, Level 37]: so gesagt hatte gestern 7vs1 hatte alle was macht flappy und helft alle -_-
 [2021-04-11 23:00:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-11 23:01:16]: ***  [, Level 0]: 'MORPHIN' entered and joined the game
