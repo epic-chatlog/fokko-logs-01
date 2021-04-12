@@ -6059,3 +6059,5 @@
 [2021-04-12 05:32:02]: ***  [ , Level 0]: 'deepslate ember' has left the game
 [2021-04-12 05:32:02]: ***  [ , Level 0]: 'blazingd420' has left the game
 [2021-04-12 05:32:05]: ***  [ , Level 0]: '(1)Hunter.exe' entered and joined the game
+[2021-04-12 05:32:22]: ***  [ , Level 0]: (1)УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-12 05:32:27]:   [, Level 0]: CKA3A4NIK[NR]: K!ked:  ку
