@@ -7444,3 +7444,9 @@
 [2021-04-12 07:07:03]: ***  [, Level 0]: 'JOSHUA' joined the game
 [2021-04-12 07:07:04]:   [, Level 0]: mamikral011: (1)soleri1: come
 [2021-04-12 07:07:05]: ***  [, Level 0]: 'bean' has left the game
+[2021-04-12 07:07:16]:   [, Level 0]: mamikral011: (1)soleri1:
+[2021-04-12 07:07:20]: ***  [, Level 0]: 'Lunar' entered and joined the game
+[2021-04-12 07:07:21]: ***  [, Level 0]: 'JOSHUA' joined the spectators
+[2021-04-12 07:07:22]: ***  [, Level 0]: 'El patron' entered and joined the game
+[2021-04-12 07:07:24]: ***  [, Level 0]: 'El patron' has left the game
+[2021-04-12 07:07:25]: ***  [, Level 0]: 'JOSHUA' joined the game
