@@ -5871,3 +5871,8 @@
 [2021-04-12 05:14:06]: [D] El patron [, Level 0]: (1)kais:
 [2021-04-12 05:14:13]: (1)kais [, Level 58]: El patron: yes, i'll belive you and i'll stop
 [2021-04-12 05:14:25]: ***  [H, Level 0]: 'BULLETBOT' has left the game
+[2021-04-12 05:14:30]:   [, Level 0]: |ΛnץOиe|: mais
+[2021-04-12 05:14:37]:   [, Level 0]: |ΛnץOиe|: pourquoi il se tue le boug
+[2021-04-12 05:14:37]: (1)kais [, Level 58]: y'a pas de "mais"
+[2021-04-12 05:14:45]:   [, Level 0]: |ΛnץOиe|: pourquoi il se tue le boug kais
+[2021-04-12 05:14:49]: rexi [, Level 0]: hab bock zu blocken
