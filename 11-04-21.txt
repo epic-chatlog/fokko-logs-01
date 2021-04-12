@@ -12070,3 +12070,4 @@
 [2021-04-11 23:49:33]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-11 23:50:12]: MORPHIN [, Level 37]: Sayme: war
 [2021-04-11 23:50:24]: SanoreX.* [Chilli.*, Level 22]: ERROR: stack tees pls
+[2021-04-11 23:50:35]: Nudelsaft c: [FookinLads, Level 37]: Axandos: xDDD
