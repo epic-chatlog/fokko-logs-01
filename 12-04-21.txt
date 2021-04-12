@@ -6699,3 +6699,7 @@
 [2021-04-12 06:05:48]: ***  [, Level 0]: '(1)1' entered and joined the game
 [2021-04-12 06:05:48]:   [, Level 0]: fitz: any:
 [2021-04-12 06:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-12 06:05:55]: #5 blocker [|*MorE*|, Level 0]: sun.slow(y): idiot
+[2021-04-12 06:05:55]: Axandos² [, Level 20]: [D] mamikral011:  war
+[2021-04-12 06:05:56]: Foxie♥ [♥, Level 40]: Matiteusz: well u see he said sure war 7yo
+[2021-04-12 06:06:01]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
