@@ -4985,3 +4985,5 @@
 [2021-04-12 04:14:41]: [D] El patron [, Level 0]: rq
 [2021-04-12 04:14:43]:   [, Level 0]: i am noob: 1v1 ????
 [2021-04-12 04:14:49]: rexi [, Level 0]: Axandos: bin jz doch zur 7 gegangen
+[2021-04-12 04:14:56]: Axandos [, Level 25]: ReXi:  was
+[2021-04-12 04:14:58]: SanoreX [Chilli.*, Level 27]: working when I set hammer (1)VD|HolyHo|
