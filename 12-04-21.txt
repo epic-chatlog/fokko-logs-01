@@ -15893,3 +15893,5 @@
 [2021-04-12 16:53:15]: ***  [, Level 0]: 'NidardoHD' would have timed out, but can use timeout protection now
 [2021-04-12 16:53:15]: ***  [, Level 0]: 'Nidardo.' would have timed out, but can use timeout protection now
 [2021-04-12 16:55:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-12 16:57:15]: ***  [, Level 0]: 'Nidardo.' has left the game (Timeout Protection over)
+[2021-04-12 16:57:15]: ***  [, Level 0]: 'NidardoHD' has left the game (Timeout Protection over)
