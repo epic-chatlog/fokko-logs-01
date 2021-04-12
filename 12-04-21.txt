@@ -11721,3 +11721,5 @@
 [2021-04-12 11:24:59]: ***  [, Level 0]: 'soleri1' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-12 11:25:01]: cookie [, Level 4]: afk 2min
 [2021-04-12 11:25:05]: |ΛnץOиe| [, Level 0]: S Y T H N: you see ?
+[2021-04-12 11:25:14]: ***  [, Level 0]: '(1)cunt' has left the game
+[2021-04-12 11:25:14]: ***  [, Level 0]: 'cunt' has left the game
