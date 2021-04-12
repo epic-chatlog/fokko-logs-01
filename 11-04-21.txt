@@ -11927,3 +11927,6 @@
 [2021-04-11 23:39:02]: Axandos [, Level 25]: x)
 [2021-04-11 23:39:04]: ***  [, Level 0]: 'Axandos²' entered and joined the game
 [2021-04-11 23:39:07]: ***  [, Level 0]: 'Marcisten' finished the special race!
+[2021-04-11 23:39:34]: ***  [, Level 0]: 'Ƭevan' finished the special race!
+[2021-04-11 23:39:34]: Marcisten [Helper, Level 26]: Ðream: this place changed:O
+[2021-04-11 23:39:35]: Axandos [, Level 25]: ist flag despawned?
