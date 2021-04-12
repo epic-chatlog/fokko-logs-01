@@ -11226,3 +11226,5 @@
 [2021-04-12 10:49:19]: ***  [, Level 0]: 'Foxie♥' entered and joined the game
 [2021-04-12 10:49:21]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 15 blocks
 [2021-04-12 10:49:33]:   [, Level 0]: УБИВАТЬ!: xDD
+[2021-04-12 10:49:42]:   [, Level 0]: Foxie♥: Kirito:
+[2021-04-12 10:49:47]: ***  [, Level 0]: OP|Supers is on a killing spree with 5 blocks
