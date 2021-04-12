@@ -3689,3 +3689,7 @@
 [2021-04-12 03:15:28]: SanoreX [Chilli.*, Level 27]: bind c "say /plot edit; +fire"
 [2021-04-12 03:15:29]:   [, Level 0]: ERROR: und man kann mit portal nicht rausholen
 [2021-04-12 03:15:29]: Fearless [, Level 40]: fokkonaut:  i dont have paypal gift card men
+[2021-04-12 03:15:35]: SanoreX [Chilli.*, Level 27]: when u havep ortal
+[2021-04-12 03:15:38]: MieSlime [FookinLads, Level 43]: Recep:  stop
+[2021-04-12 03:15:40]: ***  [, Level 0]: '[D] BC|serwan' has left the game
+[2021-04-12 03:15:45]: ***  [, Level 0]: '[D] El patron' entered and joined the game
