@@ -9691,3 +9691,6 @@
 [2021-04-12 09:10:01]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-12 09:10:16]: ***  [, Level 0]: 'BlackOfTheWhite' joined the spectators
 [2021-04-12 09:10:23]: ***  [, Level 0]: 'BlackOfTheWhite' joined the game
+[2021-04-12 09:10:25]: Lucas [THECEPS, Level 34]: cunt: is there something wrong with him?
+[2021-04-12 09:10:32]: ***  [, Level 0]: '(2)УБИВАТЬ!' entered and joined the game
+[2021-04-12 09:10:35]: cookie [, Level 19]: random guy:  hi
