@@ -2958,3 +2958,7 @@
 [2021-04-12 02:47:51]: any [404, Level 38]: *
 [2021-04-12 02:48:00]: (2)ERROR [FAKE ERROR, Level 40]: Zephir™:  come with name ERROR  xd
 [2021-04-12 02:48:00]: Isegrin [, Level 55]: random guy: this sentence is meaningless
+[2021-04-12 02:48:04]: Axandos² [, Level 20]: ReXi:  bin kurz weg :D
+[2021-04-12 02:48:08]: Zephir™ [, Level 39]: ERROR: why ? xD
+[2021-04-12 02:48:11]: random guy [, Level 0]: Isegrin: polish stupid xD
+[2021-04-12 02:48:13]: ERROR [404, Level 56]: Zephir™: ?
