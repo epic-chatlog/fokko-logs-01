@@ -11855,3 +11855,5 @@
 [2021-04-12 11:34:42]:   [, Level 0]: Falco642: go fng after this match
 [2021-04-12 11:34:45]:   [, Level 0]: [D] mamikral011: whatt
 [2021-04-12 11:34:49]: lolpoep [, Level 0]: VD|HolyHo|:  why man
+[2021-04-12 11:34:54]: ***  [, Level 0]: 'Falco642' left the minigame 'Survival'
+[2021-04-12 11:34:54]: lolpoep [, Level 0]: VD|HolyHo|:  wtf
