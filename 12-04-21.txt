@@ -6288,3 +6288,5 @@
 [2021-04-12 05:47:25]:   [, Level 0]: mamikral011: Axandos²: okey
 [2021-04-12 05:47:31]: Lucas [THECEPS, Level 34]: Matiteusz: hi
 [2021-04-12 05:47:40]: ***  [, Level 0]: 'VD|HolyHo|°' entered and joined the game
+[2021-04-12 05:47:47]:   [, Level 0]: VD|HolyHo|°: ERROR: yo?
+[2021-04-12 05:47:52]:   [, Level 0]: mamikral011: rayen: stop
