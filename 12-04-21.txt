@@ -8537,3 +8537,8 @@
 [2021-04-12 08:22:15]: [D] mamikral011 [DogParty, Level 21]: (1)GODLIKe.:
 [2021-04-12 08:22:18]: ***  [, Level 0]: 'BlackOfTheWhite' joined the game
 [2021-04-12 08:22:25]: ***  [, Level 0]: 'QON QON' has left the game
+[2021-04-12 08:22:26]: ***  [, Level 0]: 'BlackOfTheWhite' joined the spectators
+[2021-04-12 08:22:28]: ***  [, Level 0]: 'QON QON' entered and joined the game
+[2021-04-12 08:22:28]: Lucas [THECEPS, Level 34]: [D] mamikral011:
+[2021-04-12 08:22:29]: ***  [, Level 0]: 'BlackOfTheWhite' joined the game
+[2021-04-12 08:22:36]: ***  [, Level 0]: (1)GODLIKe is on a killing spree with 5 blocks
