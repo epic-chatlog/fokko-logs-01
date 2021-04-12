@@ -8304,3 +8304,8 @@
 [2021-04-12 08:11:34]:   [, Level 0]: Recep: olm
 [2021-04-12 08:11:39]:   [, Level 0]: BlackOfTheWhite: he
 [2021-04-12 08:11:40]: rexi [, Level 0]: GOLD:
+[2021-04-12 08:11:44]: ***  [, Level 0]: 'rayen' has left the game
+[2021-04-12 08:11:44]:   [, Level 0]: Recep: blocklama
+[2021-04-12 08:11:45]: [D] mamikral011 [DogParty, Level 21]: Kezo:
+[2021-04-12 08:11:49]: [D] mamikral011 [DogParty, Level 21]: Kezo: ananan
+[2021-04-12 08:11:52]: [D] mamikral011 [DogParty, Level 21]: Kezo: yardım et anan
