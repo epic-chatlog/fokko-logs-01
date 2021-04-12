@@ -6637,3 +6637,8 @@
 [2021-04-12 06:03:34]: ***  [, Level 0]: 'Adleg' joined the spectators
 [2021-04-12 06:03:35]: ***  [, Level 0]: '[D] cya' has left the game
 [2021-04-12 06:03:35]: ***  [, Level 0]: 'cya' has left the game
+[2021-04-12 06:03:37]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-12 06:03:38]: ***  [, Level 0]: 'Adleg' joined the game
+[2021-04-12 06:03:42]: ***  [, Level 0]: 'Adleg' joined the spectators
+[2021-04-12 06:03:45]: ***  [, Level 0]: 'Adleg' joined the game
+[2021-04-12 06:03:47]:   [, Level 0]: ReXi: Axandos:
