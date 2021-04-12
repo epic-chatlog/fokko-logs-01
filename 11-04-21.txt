@@ -11675,3 +11675,6 @@
 [2021-04-11 23:02:36]: (1)ChillerDrago [|*KoG*|, Level 45]: ja fotz
 [2021-04-11 23:02:51]: (1)ChillerDrago [|*KoG*|, Level 45]: gehen configs nich oder was
 [2021-04-11 23:03:04]: ***  [, Level 0]: [D]ϻɪɔʜɑʟ finished in: 2 minute(s)  1.42 second(s)
+[2021-04-11 23:03:29]: ***  [, Level 0]: MORFY finished in: 1 minute(s) 43.94 second(s)
+[2021-04-11 23:03:29]: ***  [, Level 0]: New record: 1 minute(s) 34.86 second(s) better.
+[2021-04-11 23:03:30]: (1)ChillerDrago [|*KoG*|, Level 45]: omg
