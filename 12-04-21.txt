@@ -111,3 +111,4 @@
 [2021-04-12 00:09:03]: fokkonaut [, Level 102]: ERROR: u
 [2021-04-12 00:09:09]: (1)ERROR [404, Level 47]: fokkonaut:  /pay 2000000 ERROR
 [2021-04-12 00:09:11]: (1)ERROR [404, Level 47]: xD
+[2021-04-12 00:09:22]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
