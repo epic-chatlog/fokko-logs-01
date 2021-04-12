@@ -1039,3 +1039,5 @@
 [2021-04-12 01:21:24]: SanoreX [Chilli.*, Level 27]: ERROR: I found taser battery comee
 [2021-04-12 01:21:27]: Zephir™ [, Level 39]: ReXi: nope
 [2021-04-12 01:21:27]: SanoreX [Chilli.*, Level 27]: ERROR: I found taser battery comee
+[2021-04-12 01:21:44]: SanoreX [Chilli.*, Level 27]: error need battery
+[2021-04-12 01:21:49]: ReXi [, Level 0]: Zephir™: i dont have war with him
