@@ -10401,3 +10401,5 @@
 [2021-04-12 09:42:53]: ***  [, Level 0]: 'TOJA' has left the game
 [2021-04-12 09:42:53]: ***  [, Level 0]: 'BlackOfTheWhite' joined the game
 [2021-04-12 09:43:01]:   [, Level 0]: (2)УБИВАТЬ!: noob)\
+[2021-04-12 09:43:17]: ***  [, Level 0]: 'TOJA' entered and joined the game
+[2021-04-12 09:43:24]:   [, Level 0]: Supers: Tixnix:  wow
