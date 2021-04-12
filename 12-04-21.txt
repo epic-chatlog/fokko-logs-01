@@ -15723,3 +15723,5 @@
 [2021-04-12 16:09:39]: ***  [, Level 0]: 'XBlackScorpionX' joined the spectators
 [2021-04-12 16:09:42]: ***  [, Level 0]: 'XBlackScorpionX' joined the game
 [2021-04-12 16:09:51]: ***  [, Level 0]: 'XBlackScorpionX' joined the spectators
+[2021-04-12 16:09:55]: ***  [, Level 0]: 'XBlackScorpionX' joined the game
+[2021-04-12 16:10:03]: ***  [, Level 0]: 'XBlackScorpionX' has left the game
