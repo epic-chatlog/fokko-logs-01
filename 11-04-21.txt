@@ -11846,3 +11846,4 @@
 [2021-04-11 23:29:06]: Swarfey [FookinLads, Level 60]: verständlich
 [2021-04-11 23:29:12]: Axandos [, Level 25]: dann 2 stunden frei erdkunde wieder 2 stunden frei :)
 [2021-04-11 23:29:30]: ERROR [404, Level 56]: jaaa der reload ist much besser
+[2021-04-11 23:29:44]: ***  [, Level 0]: 'VD|HolyHo|' entered and joined the game
