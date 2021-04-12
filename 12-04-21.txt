@@ -7951,3 +7951,6 @@
 [2021-04-12 07:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-12 07:50:51]: ***  [, Level 0]: 'Kiøn1029' has left the game
 [2021-04-12 07:50:59]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
+[2021-04-12 07:51:02]: rexi [, Level 0]: Lucas:
+[2021-04-12 07:51:09]: Lucas [THECEPS, Level 34]: rexi: ?
+[2021-04-12 07:51:12]: rexi [, Level 0]: wassup
