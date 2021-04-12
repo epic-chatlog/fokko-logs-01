@@ -2048,3 +2048,5 @@
 [2021-04-12 02:08:54]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-12 02:09:02]: hhh3 [, Level 44]: A
 [2021-04-12 02:09:04]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin: W sumie i tak zawsze sie spozniam kurwa co najmniej 5 minut
+[2021-04-12 02:09:18]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin: zagramy w ''zgadnij muj plan lekcji''
+[2021-04-12 02:09:18]: hhh3 [, Level 44]: any: stop now
