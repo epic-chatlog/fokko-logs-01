@@ -7592,3 +7592,7 @@
 [2021-04-12 07:18:50]:   [, Level 0]: CKA3A4NIK[NR]: q
 [2021-04-12 07:18:52]:   [, Level 0]: CKA3A4NIK[NR]: 1
 [2021-04-12 07:18:53]:   [, Level 0]: CKA3A4NIK[NR]: 2
+[2021-04-12 07:18:54]:   [, Level 0]: CKA3A4NIK[NR]: 3
+[2021-04-12 07:18:56]: ***  [, Level 0]: 'CKA3A4NIK[NR]' has been muted for 60 seconds
+[2021-04-12 07:19:01]:   [, Level 0]: (1)Good man: Recep:
+[2021-04-12 07:19:02]: (1)УБИВАТ [, Level 0]: [D] El patron: help,bro
