@@ -11670,3 +11670,4 @@
 [2021-04-11 23:01:50]: (1)ChillerDrago [|*KoG*|, Level 45]: aaa broadcast
 [2021-04-11 23:01:56]: (1)ChillerDrago [|*KoG*|, Level 45]: cl_show_broadcasts
 [2021-04-11 23:02:11]: ***  [, Level 0]: '(1)1' entered and joined the game
+[2021-04-11 23:02:19]: (1)ChillerDrago [|*KoG*|, Level 45]: aaah geh aus
