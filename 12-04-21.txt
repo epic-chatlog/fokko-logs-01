@@ -8507,3 +8507,7 @@
 [2021-04-12 08:20:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-12 08:20:50]: ***  [, Level 0]: 'QON QON' has left the game
 [2021-04-12 08:20:51]: ***  [, Level 0]: 'QON QON' entered and joined the game
+[2021-04-12 08:20:59]: ***  [, Level 0]: 'QON QON' joined the spectators
+[2021-04-12 08:21:01]: (1)kais [, Level 58]: Saud: Saud ramadan don't forbid me to kill you xD
+[2021-04-12 08:21:02]: ***  [, Level 0]: 'QON QON' joined the game
+[2021-04-12 08:21:05]: Saud [MNKY, Level 24]: (1)kais: ill pray for u
