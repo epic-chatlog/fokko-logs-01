@@ -13144,3 +13144,7 @@
 [2021-04-12 12:49:29]: ***  [, Level 0]: '(1)soleri1' has left the game
 [2021-04-12 12:49:29]: ***  [, Level 0]: 'Axel ²' entered and joined the game
 [2021-04-12 12:49:30]: JustRace [DogParty, Level 36]: cl_aimbot 0
+[2021-04-12 12:49:40]: |ΛnץOиe| [, Level 43]: SOMEONE CAN HAMMER FLY WITH ME PLEAAAAAAAAAAAAAAAAAAAASE
+[2021-04-12 12:49:43]: ***  [, Level 0]: 'Axel ²' has left the game
+[2021-04-12 12:49:45]: ***  [, Level 0]: 739. mamikral011 Time: 03:01.22, requested by mamikral011
+[2021-04-12 12:49:48]: |ΛnץOиe| [, Level 43]: SOMEONE CAN HAMMER FLY WITH ME PLEAAAAAAAAAAAAAAAAAAAASE
