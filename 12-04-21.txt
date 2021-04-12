@@ -15851,3 +15851,4 @@
 [2021-04-12 16:36:31]: ***  [, Level 0]: '(1)ERROR,' changed name to 'ERROR,'
 [2021-04-12 16:40:01]: ***  [, Level 0]: 'rafel' entered and joined the game
 [2021-04-12 16:40:12]: ***  [, Level 0]: 'rafel' joined the spectators
+[2021-04-12 16:40:16]: ***  [, Level 0]: 'rafel' joined the game
