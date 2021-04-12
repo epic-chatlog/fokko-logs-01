@@ -11515,3 +11515,4 @@
 [2021-04-11 21:28:20]: Nudelsaft c: [FookinLads, Level 37]: yay
 [2021-04-11 21:30:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-11 21:35:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-11 21:40:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
