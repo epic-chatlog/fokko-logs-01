@@ -3685,3 +3685,7 @@
 [2021-04-12 03:15:13]: Fearless [, Level 40]: fokkonaut:  its bad u know
 [2021-04-12 03:15:20]:   [, Level 0]: ERROR: fokkonaut:  dooch?, ich sagte wir sind ja in den walls komplett eingeschlossen, d.h wenn ich timeoute bleibt das money in den walls
 [2021-04-12 03:15:20]: SanoreX [Chilli.*, Level 27]: fokkonaut: I know editor bug
+[2021-04-12 03:15:26]: Axandos² [, Level 20]: MieSlime:  quoi? xd
+[2021-04-12 03:15:28]: SanoreX [Chilli.*, Level 27]: bind c "say /plot edit; +fire"
+[2021-04-12 03:15:29]:   [, Level 0]: ERROR: und man kann mit portal nicht rausholen
+[2021-04-12 03:15:29]: Fearless [, Level 40]: fokkonaut:  i dont have paypal gift card men
