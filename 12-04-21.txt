@@ -7086,3 +7086,7 @@
 [2021-04-12 06:35:03]: ***  [, Level 0]: 'NidardoHD' entered and joined the game
 [2021-04-12 06:35:25]: ***  [, Level 0]: 'Keiino' would have timed out, but can use timeout protection now
 [2021-04-12 06:35:25]: ***  [, Level 0]: 'Boe o' wo ah' would have timed out, but can use timeout protection now
+[2021-04-12 06:35:46]: ***  [, Level 0]: '(1)Keiino' entered and joined the game
+[2021-04-12 06:35:48]:   [, Level 0]: mamikral011: Kezo: anab
+[2021-04-12 06:35:49]: ***  [, Level 0]: '(1)Boe o' wo ah' entered and joined the game
+[2021-04-12 06:35:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
