@@ -3211,3 +3211,11 @@
 [2021-04-12 02:59:41]: (4)ERROR [, Level 0]: fokkonaut: we error
 [2021-04-12 02:59:47]:   [, Level 0]: fokkonaut: hi TL|ŦƹƦ$ŦǾN
 [2021-04-12 02:59:49]: ERROR [404, Level 56]: fokkonaut gib ma kurz draw xDDDD
+[2021-04-12 02:59:52]: (3)ERROR [, Level 0]: we are ERROR
+[2021-04-12 02:59:52]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-12 02:59:55]: (2)ERROR [, Level 0]: we are ERROR
+[2021-04-12 02:59:55]: SanoreX [Chilli.*, Level 27]: fokkonaut: can u do this?: sv_max_client_per_ip 6
+[2021-04-12 02:59:58]: (5)ERROR [, Level 0]: we are ERROR
+[2021-04-12 02:59:59]: (4)ERROR [, Level 0]: we are ERROR
+[2021-04-12 03:00:00]: ***  [, Level 0]: '(1)Shy-ra.' has left the game
+[2021-04-12 03:00:01]: Kenshi™ [, Level 39]: ERROR: 20 accounts = 10 money per /s xDDDD
