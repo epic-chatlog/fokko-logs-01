@@ -6444,3 +6444,6 @@
 [2021-04-12 05:55:23]: Flupper [, Level 0]: rocket
 [2021-04-12 05:55:24]: ***  [, Level 0]: 'Adleg' entered and joined the game
 [2021-04-12 05:55:26]: Flupper [, Level 0]: grenade
+[2021-04-12 05:55:28]:   [, Level 0]: VD|HolyHo|°: Hunter.exe: hey dude
+[2021-04-12 05:55:31]: Hunter.exe [DogParty, Level 37]: Axandos: ich drohe nicht ich warne nur davor
+[2021-04-12 05:55:32]: ***  [, Level 0]: 'Good man' entered and joined the game
