@@ -2877,3 +2877,5 @@
 [2021-04-12 02:42:22]: (1)SanoreX [Chilli.*, Level 0]: WarHammer: ÇABÜK AL
 [2021-04-12 02:42:26]: ***  [, Level 0]: 'PetrusZi' has left the game
 [2021-04-12 02:42:33]: (1)SanoreX [Chilli.*, Level 0]: Cylox: help
+[2021-04-12 02:42:43]: Cylox. [♥, Level 0]: SanoreX: yo
+[2021-04-12 02:42:50]: (1)SanoreX [Chilli.*, Level 0]: cya: bilerekmi attık
