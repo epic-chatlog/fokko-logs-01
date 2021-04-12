@@ -807,3 +807,8 @@
 [2021-04-12 01:07:18]: ***  [, Level 0]: 'Rem's bae' finished the special race!
 [2021-04-12 01:07:21]: ***  [, Level 0]: 1 finished in: 1 minute(s) 14.08 second(s)
 [2021-04-12 01:07:31]: keepertrain._. [, Level 30]: ~DemoizL~: <<<
+[2021-04-12 01:07:35]: ***  [, Level 0]: Taip finished in: 3 minute(s) 12.20 second(s)
+[2021-04-12 01:07:35]: ***  [, Level 0]: New record: 53.98 second(s) better.
+[2021-04-12 01:07:35]: ***  [, Level 0]: '(1)SanoreX.*' finished the special race!
+[2021-04-12 01:07:39]: ***  [, Level 0]: 'SanoreX' finished the special race!
+[2021-04-12 01:07:45]: 1 [, Level 14]: ben türküm
