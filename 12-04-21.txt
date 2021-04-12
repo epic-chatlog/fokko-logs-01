@@ -14795,3 +14795,4 @@
 [2021-04-12 14:37:33]: ***  [, Level 0]: 'Medkit' joined the spectators
 [2021-04-12 14:37:36]: ***  [, Level 0]: 'Medkit' joined the game
 [2021-04-12 14:37:38]: ***  [, Level 0]: 'Virus' entered and joined the game
+[2021-04-12 14:38:04]: [D] ♥TAKO♥ [DogParty, Level 0]: aaaaaaaaaa
