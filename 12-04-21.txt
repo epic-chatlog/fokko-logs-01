@@ -2979,3 +2979,8 @@
 [2021-04-12 02:49:22]: ***  [, Level 0]: New record: 1 minute(s) 21.46 second(s) better.
 [2021-04-12 02:49:22]: Saud [MNKY, Level 0]: @me
 [2021-04-12 02:49:27]: random guy [, Level 0]: Isegrin: google translate shit
+[2021-04-12 02:49:29]: Saud [MNKY, Level 0]: yes @saud
+[2021-04-12 02:49:31]: Isegrin [, Level 55]: random guy: yes
+[2021-04-12 02:49:35]: ***  [, Level 0]: 'Zet' entered and joined the game
+[2021-04-12 02:49:37]: random guy [, Level 0]: Isegrin: does this have a meaning? Wczoraj znów stałem się zależny od Gerharda jak osiem ramion
+[2021-04-12 02:49:39]: any² [404, Level 0]: ERROR: can i farm in ur plot ?
