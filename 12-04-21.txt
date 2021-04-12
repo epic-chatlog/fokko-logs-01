@@ -8823,3 +8823,4 @@
 [2021-04-12 08:37:13]: GOLD [404, Level 40]: mamikral011: pro
 [2021-04-12 08:37:17]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-12 08:37:18]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-12 08:37:29]: OP|Supers [, Level 0]: Lucas:  kid
