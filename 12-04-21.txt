@@ -10762,3 +10762,11 @@
 [2021-04-12 10:10:36]: ***  [, Level 0]: 'coffee' entered and joined the game
 [2021-04-12 10:10:39]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-12 10:10:40]: (1)Saud [MNKY, Level 19]: kais:  wdym u  idiot
+[2021-04-12 10:10:49]: ***  [, Level 0]: 'Falco641' has left the game (Timeout Protection over)
+[2021-04-12 10:10:49]: ***  [, Level 0]: 'Falco642' has left the game (Timeout Protection over)
+[2021-04-12 10:10:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-12 10:10:52]: kais [, Level 66]: Saud: try to shotgun him
+[2021-04-12 10:10:56]:   [, Level 0]: RM | Arin: BRO
+[2021-04-12 10:10:56]: kais [, Level 66]: you can't
+[2021-04-12 10:10:57]: ***  [, Level 0]: '(1)Lucas' entered and joined the game
+[2021-04-12 10:10:59]:   [, Level 0]: (1)УБИВАТЬ!: xD
