@@ -15619,3 +15619,6 @@
 [2021-04-12 15:50:59]: Kenshi™ [, Level 39]: ~DemoizL~: rq
 [2021-04-12 15:51:09]: Kenshi™ [, Level 39]: ~DemoizL~: tu sais que tu peut pas gagner
 [2021-04-12 15:51:15]: ~DemoizL~ [, Level 39]: Kenshi™: mdr
+[2021-04-12 15:51:25]: ~DemoizL~ [, Level 39]: Kenshi™: ouai je le sais
+[2021-04-12 15:51:27]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
+[2021-04-12 15:51:27]: ***  [, Level 0]: '(1)♥TAKO♥' has left the game
