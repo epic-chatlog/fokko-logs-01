@@ -8074,3 +8074,5 @@
 [2021-04-12 07:59:09]: ***  [, Level 0]: 'Pouet[NR]' entered and joined the game
 [2021-04-12 07:59:13]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
 [2021-04-12 07:59:13]: mamikral011 [DogParty, Level 26]: YelloWorlD:
+[2021-04-12 07:59:19]: mamikral011 [DogParty, Level 26]: ♥TAKO♥: sa kral
+[2021-04-12 07:59:23]:   [, Level 0]: [D] ♥TAKO♥: mamikral011:  as kral
