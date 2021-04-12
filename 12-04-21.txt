@@ -8021,3 +8021,6 @@
 [2021-04-12 07:54:33]:   [, Level 0]: (1)GODLIKe.: mamikral011: JPWOQKE
 [2021-04-12 07:54:37]:   [, Level 0]: [D] mamikral011: (1)GODLIKe: ne oldu
 [2021-04-12 07:54:37]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
+[2021-04-12 07:54:44]:   [, Level 0]: (1)GODLIKe.: mamikral011: spec
+[2021-04-12 07:54:46]: ***  [, Level 0]: Cylox finished in: 4 minute(s)  5.14 second(s)
+[2021-04-12 07:54:46]: ***  [, Level 0]: 'Cylox' finished the special race!
