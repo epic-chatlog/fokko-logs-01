@@ -11174,3 +11174,4 @@
 [2021-04-12 10:44:44]: [D] mamikral011 [DogParty, Level 21]: any: :D
 [2021-04-12 10:44:52]: WarHammer' [DogParty, Level 17]: any:  BAD
 [2021-04-12 10:45:06]: WarHammer' [DogParty, Level 17]: any:  OH OK
+[2021-04-12 10:45:10]: any [404, Level 38]: WarHammer: why u help enemies
