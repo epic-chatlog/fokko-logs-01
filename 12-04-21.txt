@@ -917,3 +917,5 @@
 [2021-04-12 01:12:47]: ***  [, Level 0]: 'Maciek' entered and joined the game
 [2021-04-12 01:12:51]: Axandos [, Level 25]: first of all xD Zephir™
 [2021-04-12 01:13:08]: ***  [, Level 0]: 'Skryba' has left the game
+[2021-04-12 01:13:16]: Zephir™ [, Level 39]: Axandos: maybe because u attack me
+[2021-04-12 01:13:20]: [D]ϻɪɔʜɑʟ [Banana fish, Level 20]: ERROR:
