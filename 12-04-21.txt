@@ -10979,3 +10979,7 @@
 [2021-04-12 10:30:37]: ***  [, Level 0]: '(2)Saud' entered and joined the game
 [2021-04-12 10:30:40]: [D] mamikral011 [DogParty, Level 21]: WarHammer: attı benş
 [2021-04-12 10:30:44]: [D] mamikral011 [DogParty, Level 21]: ♥TAKO♥: bb
+[2021-04-12 10:30:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-12 10:30:51]: ***  [, Level 0]: (3)УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-12 10:30:55]: ***  [, Level 0]: nameless tee is on a killing spree with 10 blocks
+[2021-04-12 10:30:57]: ***  [, Level 0]: (3)УБИВАТЬ!'s killing spree was ended by zZzerayI (5 blocks)
