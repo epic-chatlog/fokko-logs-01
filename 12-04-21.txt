@@ -239,3 +239,5 @@
 [2021-04-12 00:17:40]: (1)ERROR [404, Level 47]: fokkonaut:  zeit für 1v1 system
 [2021-04-12 00:17:42]: ***  [, Level 0]: 'rexi' entered and joined the game
 [2021-04-12 00:17:45]: VD|HolyHo|° [VsDoggo´s, Level 18]: SanoreX:
+[2021-04-12 00:17:56]: Kezo [DogParty, Level 0]: Axandos: you want die ,
+[2021-04-12 00:17:56]: Axandos² [, Level 20]: Kezo:  x)
