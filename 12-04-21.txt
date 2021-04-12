@@ -4987,3 +4987,4 @@
 [2021-04-12 04:14:49]: rexi [, Level 0]: Axandos: bin jz doch zur 7 gegangen
 [2021-04-12 04:14:56]: Axandos [, Level 25]: ReXi:  was
 [2021-04-12 04:14:58]: SanoreX [Chilli.*, Level 27]: working when I set hammer (1)VD|HolyHo|
+[2021-04-12 04:15:12]: Axandos [, Level 25]: was für 7 ReXi
