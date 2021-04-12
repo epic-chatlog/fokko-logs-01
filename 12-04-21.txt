@@ -11629,3 +11629,5 @@
 [2021-04-12 11:16:38]: |ΛnץOиe| [, Level 0]: war?
 [2021-04-12 11:16:41]: |ΛnץOиe| [, Level 0]: ok
 [2021-04-12 11:17:02]: [D] mamikral011 [DogParty, Level 21]: Hunter.exe:
+[2021-04-12 11:17:15]: ***  [, Level 0]: 'BC|serwan' has left the game
+[2021-04-12 11:17:15]: ***  [, Level 0]: '[D] BC|serwan' has left the game
