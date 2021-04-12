@@ -4691,3 +4691,6 @@
 [2021-04-12 03:57:57]: Axandos² [, Level 20]: ReXi:  lw
 [2021-04-12 03:58:01]:   [, Level 0]: ReXi: du sack
 [2021-04-12 03:58:03]:   [, Level 0]: WarHammer': 1:  ddnet kullan
+[2021-04-12 03:58:08]:   [, Level 0]: WarHammer': 1:  teeworlds de yok
+[2021-04-12 03:58:12]:   [, Level 0]: 1: KASIYO
+[2021-04-12 03:58:18]:   [, Level 0]: WarHammer': 1:  ayarları düşür
