@@ -8209,3 +8209,7 @@
 [2021-04-12 08:07:23]: rexi [, Level 0]: ich will die flagge zurück
 [2021-04-12 08:07:31]: YelloWorlD [DogParty, Level 41]: [D] mamikral011:
 [2021-04-12 08:07:47]: darkstar3 [Legacy™, Level 11]: flappy: fucking dog
+[2021-04-12 08:07:53]: ***  [, Level 0]: 'sun.slow(y)' has left the game
+[2021-04-12 08:07:54]: ***  [, Level 0]: 'BlackOfTheWhite' joined the spectators
+[2021-04-12 08:07:57]: ♥TAKO♥ [DogParty, Level 25]: Kenshi™:  hi :D
+[2021-04-12 08:07:58]: ***  [, Level 0]: 'BlackOfTheWhite' joined the game
