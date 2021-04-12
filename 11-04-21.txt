@@ -11596,3 +11596,6 @@
 [2021-04-11 22:50:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-11 22:50:59]: (1)ChillerDrago [Chilli.*, Level 45]: hmwhatever ich restart ma fix und schau ob das noch geht
 [2021-04-11 22:51:06]: ←   [, Level 0]: Swarfey: say chillerdragon[m]: abc
+[2021-04-11 22:51:16]: Swarfey [FookinLads, Level 60]: fix was? xd
+[2021-04-11 22:51:20]: (1)ChillerDrago [Chilli.*, Level 45]: es gibt kein /pause cmd der nich toggelt oder was?
+[2021-04-11 22:51:27]: (1)ChillerDrago [Chilli.*, Level 45]: omg grad aufgestanden
