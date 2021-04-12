@@ -3219,3 +3219,13 @@
 [2021-04-12 02:59:59]: (4)ERROR [, Level 0]: we are ERROR
 [2021-04-12 03:00:00]: ***  [, Level 0]: '(1)Shy-ra.' has left the game
 [2021-04-12 03:00:01]: Kenshi™ [, Level 39]: ERROR: 20 accounts = 10 money per /s xDDDD
+[2021-04-12 03:00:04]: Axandos² [, Level 20]: ich nenn diech rex
+[2021-04-12 03:00:06]: ♥TAKO♥ [DogParty, Level 25]: WTF
+[2021-04-12 03:00:08]: fokkonaut [, Level 102]: SanoreX: but i can do this: ban sanorex
+[2021-04-12 03:00:10]: ♥TAKO♥ [DogParty, Level 25]: party
+[2021-04-12 03:00:11]: Axandos² [, Level 20]: rex
+[2021-04-12 03:00:12]: SanoreX [Chilli.*, Level 27]: no
+[2021-04-12 03:00:13]: SanoreX [Chilli.*, Level 27]: no fokkonaut
+[2021-04-12 03:00:14]: (4)ERROR [, Level 0]: fokkonaut:  PARTY
+[2021-04-12 03:00:14]: SanoreX [Chilli.*, Level 27]: XD
+[2021-04-12 03:00:15]:   [, Level 0]: ReXi: rip
