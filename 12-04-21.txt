@@ -13491,3 +13491,5 @@
 [2021-04-12 13:13:00]: |MıssOяchiĐ| [, Level 48]: toi non plus
 [2021-04-12 13:13:02]: |MıssOяchiĐ| [, Level 48]: BHAHAH
 [2021-04-12 13:13:10]: any [404, Level 38]: ERROR: ?
+[2021-04-12 13:13:33]: ERROR [404, Level 56]: any wait
+[2021-04-12 13:13:35]: Kenshi™ [, Level 39]: ERROR: xD
