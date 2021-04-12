@@ -7025,3 +7025,6 @@
 [2021-04-12 06:27:48]: ***  [, Level 0]: 'El patron' has left the game
 [2021-04-12 06:27:50]: ***  [, Level 0]: 'Keiino' entered and joined the game
 [2021-04-12 06:28:00]: Ƭevan [TrRShClNrRs, Level 49]: mamikral011: see?
+[2021-04-12 06:28:08]: Hunter.exe [DogParty, Level 37]: El patron rage quit
+[2021-04-12 06:28:11]: ***  [, Level 0]: cunt is on a killing spree with 5 blocks
+[2021-04-12 06:28:14]: ***  [, Level 0]: Flupper is on a killing spree with 5 blocks
