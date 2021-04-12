@@ -13396,3 +13396,5 @@
 [2021-04-12 13:06:19]: El patron [, Level 0]: JustRace: ?
 [2021-04-12 13:06:20]: |ΛnץOиe| [, Level 43]: comment quoi tg
 [2021-04-12 13:06:20]: ***  [, Level 0]: 'fokkonaut' has left the game
+[2021-04-12 13:06:22]: El patron [, Level 0]: Kenshi™: help
+[2021-04-12 13:06:30]: ***  [, Level 0]: 'Shiro.' has left the game
