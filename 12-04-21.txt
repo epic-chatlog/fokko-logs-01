@@ -6447,3 +6447,9 @@
 [2021-04-12 05:55:28]:   [, Level 0]: VD|HolyHo|°: Hunter.exe: hey dude
 [2021-04-12 05:55:31]: Hunter.exe [DogParty, Level 37]: Axandos: ich drohe nicht ich warne nur davor
 [2021-04-12 05:55:32]: ***  [, Level 0]: 'Good man' entered and joined the game
+[2021-04-12 05:55:39]: ***  [, Level 0]: 'coca' entered and joined the game
+[2021-04-12 05:55:40]: ***  [, Level 0]: 'Adleg' joined the spectators
+[2021-04-12 05:55:44]: ***  [, Level 0]: 'Adleg' joined the game
+[2021-04-12 05:55:47]: ***  [, Level 0]: 'Marcisten Dummy' has left the game
+[2021-04-12 05:55:47]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-12 05:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
