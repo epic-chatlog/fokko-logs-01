@@ -11690,3 +11690,7 @@
 [2021-04-11 23:06:20]: ***  [, Level 0]: 'Ðream' entered and joined the game
 [2021-04-11 23:06:28]: ***  [, Level 0]: 'MORPHIN' finished the special race!
 [2021-04-11 23:06:28]: [D]ϻɪɔʜɑʟ [Banana fish, Level 20]: fk
+[2021-04-11 23:06:31]: ***  [, Level 0]: '(1)S Y T H N' has left the game
+[2021-04-11 23:06:31]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-11 23:06:31]: ***  [, Level 0]: 'MORFY' finished the special race!
+[2021-04-11 23:06:34]: [D]ϻɪɔʜɑʟ [Banana fish, Level 20]: MORFY: sr help?
