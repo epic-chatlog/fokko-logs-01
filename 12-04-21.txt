@@ -3029,3 +3029,5 @@
 [2021-04-12 02:51:40]: ERROR [404, Level 56]: any nvm
 [2021-04-12 02:51:42]: ***  [, Level 0]: 'VD|HolyHo|' has left the game
 [2021-04-12 02:51:42]: ***  [, Level 0]: 'VD|HolyHo|°' has left the game
+[2021-04-12 02:51:49]: Isegrin [, Level 55]: random guy: at least there is 8 arms
+[2021-04-12 02:51:50]: Saud [MNKY, Level 0]: so ex Tixnix
