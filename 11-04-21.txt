@@ -11880,3 +11880,4 @@
 [2021-04-11 23:34:13]: ***  [, Level 0]: 1 finished in: 1 minute(s) 23.54 second(s)
 [2021-04-11 23:34:15]: SanoreX [Chilli.*, Level 27]: wait 2sec
 [2021-04-11 23:34:18]: [D]ϻɪɔʜɑʟ [Banana fish, Level 20]: SanoreX: stop
+[2021-04-11 23:34:39]: MORFY [, Level 29]: flappy want kill me xd
