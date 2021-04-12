@@ -7084,3 +7084,5 @@
 [2021-04-12 06:34:58]: ***  [, Level 0]: 'UOYKCUFI' has left the game
 [2021-04-12 06:34:59]:   [, Level 0]: VD|HolyHo|: Sayme: war
 [2021-04-12 06:35:03]: ***  [, Level 0]: 'NidardoHD' entered and joined the game
+[2021-04-12 06:35:25]: ***  [, Level 0]: 'Keiino' would have timed out, but can use timeout protection now
+[2021-04-12 06:35:25]: ***  [, Level 0]: 'Boe o' wo ah' would have timed out, but can use timeout protection now
