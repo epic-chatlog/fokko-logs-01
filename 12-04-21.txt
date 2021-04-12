@@ -2804,3 +2804,14 @@
 [2021-04-12 02:40:28]: ***  [, Level 0]: 'WarHammer'' has left the game
 [2021-04-12 02:40:29]: Isegrin [, Level 55]: random guy: nein
 [2021-04-12 02:40:32]: Axandos² [, Level 20]: 17 oder so ReXi
+[2021-04-12 02:40:39]: random guy [, Level 0]: Isegrin: its Frank-Walter Steinmeier
+[2021-04-12 02:40:41]: random guy [, Level 0]: Isegrin: xD
+[2021-04-12 02:40:42]: ReXi [, Level 0]: Axandos: yessir
+[2021-04-12 02:40:45]: Axandos² [, Level 20]: wat
+[2021-04-12 02:40:46]: (1)SanoreX [Chilli.*, Level 0]: jajaaj
+[2021-04-12 02:40:46]: Saud [MNKY, Level 0]: Cylox.:  move
+[2021-04-12 02:40:47]: ***  [, Level 0]: 'UOYKCUFI' finished the special race!
+[2021-04-12 02:40:49]: (1)SanoreX [Chilli.*, Level 0]: jajaja
+[2021-04-12 02:40:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-12 02:40:50]: ***  [, Level 0]: 'Michel' finished the special race!
+[2021-04-12 02:40:50]: ***  [, Level 0]: Michel finished in: 8 minute(s) 39.62 second(s)
