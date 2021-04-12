@@ -3165,3 +3165,7 @@
 [2021-04-12 02:58:08]: any [404, Level 38]: fokkonaut: :o
 [2021-04-12 02:58:08]: ***  [, Level 0]: 'ERROR;' entered and joined the game
 [2021-04-12 02:58:10]: (4)ERROR [, Level 0]: fokkonaut: spec ERROR.
+[2021-04-12 02:58:15]: ***  [, Level 0]: 'el champeon' entered and joined the game
+[2021-04-12 02:58:16]: any [404, Level 38]: fokkonaut: ddnet's pro is here
+[2021-04-12 02:58:16]: ***  [, Level 0]: '1' has left the game
+[2021-04-12 02:58:18]: ***  [, Level 0]: '|ΛnץOиe|' entered and joined the game
