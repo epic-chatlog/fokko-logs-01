@@ -15450,3 +15450,5 @@
 [2021-04-12 15:33:04]: GOLD [404, Level 40]: Kenshi™: bonne nuit
 [2021-04-12 15:33:11]: Kenshi™ [, Level 39]: GOLD: bonne nuit
 [2021-04-12 15:33:15]: Kenshi™ [, Level 39]: ☺: nope
+[2021-04-12 15:33:22]: (1)☺ [, Level 11]: Kenshi™:
+[2021-04-12 15:33:23]: (1)☺ [, Level 11]: ok
