@@ -15422,3 +15422,4 @@
 [2021-04-12 15:30:28]: ***  [, Level 0]: 'KepkamikuN :D' entered and joined the game
 [2021-04-12 15:30:31]: Kenshi™ [, Level 39]: GOLD: sur le hammer
 [2021-04-12 15:30:40]: GOLD [404, Level 40]: Kenshi™: entrainement
+[2021-04-12 15:30:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
