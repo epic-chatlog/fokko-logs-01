@@ -7745,3 +7745,5 @@
 [2021-04-12 07:36:21]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-12 07:36:22]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-12 07:36:24]:   [, Level 0]: mamikral011: ERROR: hi
+[2021-04-12 07:36:56]: Good man [Drunks, Level 30]: kais: hi
+[2021-04-12 07:37:00]: Good man [Drunks, Level 30]: Kirito: Fast to down
