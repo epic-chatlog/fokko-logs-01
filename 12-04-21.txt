@@ -4418,3 +4418,6 @@
 [2021-04-12 03:43:32]: coca [, Level 22]: Nudelsaft c:: help me im dead
 [2021-04-12 03:43:36]: ***  [, Level 0]: '(1)flappy.*' entered and joined the game
 [2021-04-12 03:43:36]: Nudelsaft c: [FookinLads, Level 60]: idk u
+[2021-04-12 03:43:50]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-12 03:43:55]:   [, Level 0]: ReXi: Axandos: was denn
+[2021-04-12 03:43:56]: ***  [, Level 0]: 'Swarfey' has left the game
