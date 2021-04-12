@@ -5946,3 +5946,4 @@
 [2021-04-12 05:20:24]: ***  [H, Level 0]: random guy's killing spree was ended by i am noob (7 blocks)
 [2021-04-12 05:20:27]:   [, Level 0]: K!ked: drop shotgun
 [2021-04-12 05:20:28]:   [, Level 0]: K!ked: ;c
+[2021-04-12 05:20:31]:   [, Level 0]: blazingd420: stop moving
