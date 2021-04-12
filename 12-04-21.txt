@@ -12594,3 +12594,8 @@
 [2021-04-12 12:10:47]: bob [669, Level 36]: YES
 [2021-04-12 12:10:48]: bob [669, Level 36]: AHHAHA
 [2021-04-12 12:10:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-12 12:10:56]: Axandos [, Level 0]: HardreenClutch:  weißt doch die eine die du angebaggert hast xD rexi
+[2021-04-12 12:10:58]: 'Keeper. [, Level 30]: This message means i pressed F4
+[2021-04-12 12:10:59]: 'Keeper. [, Level 30]: This message means i pressed F3
+[2021-04-12 12:11:02]: ***  [, Level 0]: 'El patron' has left the game
+[2021-04-12 12:11:02]: ***  [, Level 0]: '[D] El patron' has left the game
