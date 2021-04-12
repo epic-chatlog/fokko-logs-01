@@ -11143,3 +11143,5 @@
 [2021-04-12 10:42:29]: [D] mamikral011 [DogParty, Level 21]: WarHammer':nub
 [2021-04-12 10:42:32]: WarHammer [DogParty, Level 26]: M [D] mamikral011  SADECE HAMMER
 [2021-04-12 10:42:34]: lolpoep [, Level 0]: no
+[2021-04-12 10:42:47]: WarHammer [DogParty, Level 26]: mamikral011:  HAMMER
+[2021-04-12 10:42:48]: [D] mamikral011 [DogParty, Level 21]: WarHammer': hahah
