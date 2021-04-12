@@ -1228,3 +1228,7 @@
 [2021-04-12 01:32:13]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-12 01:32:13]: ***  [, Level 0]: 'сытчн#ALL' has left the game
 [2021-04-12 01:32:18]: Foxie♥ [♥, Level 40]: Matiteusz: DID U SEE THAT
+[2021-04-12 01:32:23]: ***  [, Level 0]: '[D] cya' entered and joined the game
+[2021-04-12 01:32:24]: Kong [[_Any %_], Level 0]: ok bye
+[2021-04-12 01:32:26]: ***  [, Level 0]: 'Kong' has left the game
+[2021-04-12 01:32:34]: fokkonaut [, Level 102]: cya: niemals!
