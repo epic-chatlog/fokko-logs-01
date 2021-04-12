@@ -15018,3 +15018,6 @@
 [2021-04-12 14:58:50]: Eden [qwq, Level 0]: mrc YelloWorlD
 [2021-04-12 14:58:54]: ☺ [, Level 16]: taser Kenshi™
 [2021-04-12 14:59:00]: YelloWorlD [DogParty, Level 38]: Kenshi™: tu veux refaire ?
+[2021-04-12 14:59:09]: ***  [, Level 0]: '(2)Zʷʰʸˀ' has left the game
+[2021-04-12 14:59:09]: ***  [, Level 0]: '(3)Zʷʰʸˀ' has left the game
+[2021-04-12 14:59:11]: Kenshi™ [, Level 39]: YelloWorlD: stv mdr
