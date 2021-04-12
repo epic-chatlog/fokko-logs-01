@@ -3342,3 +3342,6 @@
 [2021-04-12 03:03:52]: ***  [, Level 0]: el champeon is on a killing spree with 10 blocks
 [2021-04-12 03:03:53]:   [, Level 0]: ReXi: aaaaaah axa
 [2021-04-12 03:03:56]: any [404, Level 38]: cya: open or war
+[2021-04-12 03:04:01]: (2)ERROR [, Level 0]: ERROR:  AHHHHHHHH BULLY
+[2021-04-12 03:04:02]: SanoreX [Chilli.*, Level 27]: fokkonaut: u gived draweditor to ERROR ?
+[2021-04-12 03:04:08]: SanoreX [Chilli.*, Level 27]: omg
