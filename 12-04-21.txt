@@ -10637,3 +10637,9 @@
 [2021-04-12 09:59:32]: ***  [, Level 0]: 'Tixnix' has left the game (Timeout)
 [2021-04-12 09:59:33]: (1)Saud [MNKY, Level 19]: USE UR jet in dummy
 [2021-04-12 09:59:36]: (1)Saud [MNKY, Level 19]: USE UR jet in dummy kais
+[2021-04-12 09:59:44]: ***  [, Level 0]: 'fitz' has left the game
+[2021-04-12 09:59:45]: ***  [, Level 0]: zZzerayI is on a killing spree with 5 blocks
+[2021-04-12 09:59:45]: (1)kais [, Level 58]: i already do idiot
+[2021-04-12 09:59:45]: (1)Saud [MNKY, Level 19]: WHEN U go to ur plot kais
+[2021-04-12 09:59:52]: cookie [, Level 3]: wait
+[2021-04-12 09:59:53]: (1)Saud [MNKY, Level 19]: (1)kais:  no idiot u use main
