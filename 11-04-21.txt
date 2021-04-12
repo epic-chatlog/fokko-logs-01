@@ -11614,3 +11614,5 @@
 [2021-04-11 22:53:04]: (1)ChillerDrago [|*KoG*|, Level 45]: ich hab einfach set_view cmd in mein password manager rein
 [2021-04-11 22:53:05]: (1)ChillerDrago [Chilli.*, Level 45]: xd
 [2021-04-11 22:53:08]: Swarfey [FookinLads, Level 60]: xd
+[2021-04-11 22:53:23]: (1)ChillerDrago [Chilli.*, Level 45]: ich restart ma client jz könnte es robuster sein
+[2021-04-11 22:53:26]: Swarfey [FookinLads, Level 60]: "neu" das is sogar in meinem client drin xd
