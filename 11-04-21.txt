@@ -11577,3 +11577,4 @@
 [2021-04-11 22:44:34]: S Y T H N [, Level 37]: DiscordBridge: aso
 [2021-04-11 22:45:41]: ***  [, Level 0]: '[₯]cLoud' entered and joined the game
 [2021-04-11 22:45:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-11 22:46:21]: ***  [, Level 0]: '[₯]cLoud' has left the game
