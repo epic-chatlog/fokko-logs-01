@@ -12363,3 +12363,7 @@
 [2021-04-12 12:00:35]:   [, Level 0]: GReeeN: bob:  ich block den selber
 [2021-04-12 12:00:40]: Kenshi™ [, Level 39]: c'est pas lui qui a commencer a me kill
 [2021-04-12 12:00:45]: ***  [, Level 0]: 'Diana' has left the game
+[2021-04-12 12:00:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-12 12:00:55]:   [, Level 0]: GReeeN: bob:  wer ist Kenshi™
+[2021-04-12 12:00:55]: |MıssOяchiĐ| [, Level 48]: Kenshi™: MDRR c'est vrai, c'est toi qui a commencé à me kill ;)
+[2021-04-12 12:00:57]: ***  [, Level 0]: [D] mamikral011 is on a killing spree with 5 blocks
