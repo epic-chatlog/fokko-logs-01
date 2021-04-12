@@ -11708,3 +11708,9 @@
 [2021-04-11 23:09:04]: ***  [, Level 0]: 'ϻɪɔʜɑʟ' finished the special race!
 [2021-04-11 23:09:07]: ***  [, Level 0]: '[D]ϻɪɔʜɑʟ' finished the special race!
 [2021-04-11 23:10:09]: ϻɪɔʜɑʟ [Banana fish, Level 24]: MORFY: dont help ok?
+[2021-04-11 23:10:24]: MORPHIN [, Level 37]: why? xd
+[2021-04-11 23:10:25]: ***  [, Level 0]: Ƭevan finished in: 2 minute(s) 43.84 second(s)
+[2021-04-11 23:10:25]: ***  [, Level 0]: New record: 12 minute(s) 51.92 second(s) better.
+[2021-04-11 23:10:26]: ***  [, Level 0]: 1 finished in: 2 minute(s) 41.46 second(s)
+[2021-04-11 23:10:29]: ***  [, Level 0]: Ðream finished in: 2 minute(s) 39.24 second(s)
+[2021-04-11 23:10:29]: ***  [, Level 0]: New record: 34.70 second(s) better.
