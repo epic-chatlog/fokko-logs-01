@@ -6561,3 +6561,8 @@
 [2021-04-12 06:00:55]: Axandos² [, Level 20]: ReXi:  :C
 [2021-04-12 06:00:55]: ***  [, Level 0]: 'Saud' finished the special race!
 [2021-04-12 06:00:55]: ***  [, Level 0]: 'Good man' finished the special race!
+[2021-04-12 06:00:57]: Flupper [, Level 0]: :C
+[2021-04-12 06:00:57]: Hunter.exe [DogParty, Level 37]: (1)Matiteusz: then kill him
+[2021-04-12 06:00:58]:   [, Level 0]: Matiteusz: Hunter.exe: i dont need war with you i think you too
+[2021-04-12 06:00:58]: Flipper [, Level 16]: :C
+[2021-04-12 06:01:03]: ***  [, Level 0]: 'Adleg' joined the spectators
