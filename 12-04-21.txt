@@ -4687,3 +4687,7 @@
 [2021-04-12 03:57:48]: ***  [, Level 0]: '[D] BC|Tixnix' would have timed out, but can use timeout protection now
 [2021-04-12 03:57:48]: ***  [, Level 0]: 'BC|Tixnix' would have timed out, but can use timeout protection now
 [2021-04-12 03:57:54]:   [, Level 0]: ReXi: Axandos: was ja
+[2021-04-12 03:57:57]:   [, Level 0]: 1: TEWORD KULANIYOM
+[2021-04-12 03:57:57]: Axandos² [, Level 20]: ReXi:  lw
+[2021-04-12 03:58:01]:   [, Level 0]: ReXi: du sack
+[2021-04-12 03:58:03]:   [, Level 0]: WarHammer': 1:  ddnet kullan
