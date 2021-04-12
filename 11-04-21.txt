@@ -11942,3 +11942,5 @@
 [2021-04-11 23:40:06]: SanoreX [Chilli.*, Level 27]: yes
 [2021-04-11 23:40:08]: SanoreX [Chilli.*, Level 27]: one jump
 [2021-04-11 23:40:17]: Ðream [TrRShClNrRs, Level 46]: there?
+[2021-04-11 23:40:28]: ERROR [404, Level 56]: WENN ihr was möchtet fragt liebevoll
+[2021-04-11 23:40:35]: ERROR [404, Level 56]: xD
