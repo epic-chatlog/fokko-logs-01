@@ -11581,3 +11581,5 @@
 [2021-04-11 22:48:44]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
 [2021-04-11 22:49:25]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-11 22:49:31]: (1)ChillerDrago [Chilli.*, Level 45]: omg rip stream buggo
+[2021-04-11 22:49:45]: ChillerDragon [Chilli.*, Level 8]: yee
+[2021-04-11 22:49:49]: (1)ChillerDrago [Chilli.*, Level 45]: nice tee control
