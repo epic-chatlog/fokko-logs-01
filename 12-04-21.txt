@@ -13608,3 +13608,5 @@
 [2021-04-12 13:25:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-12 13:25:52]: ERROR [404, Level 56]: any²:  war
 [2021-04-12 13:25:57]: ☺ [, Level 16]: Kenshi™: moi mais sa sert a quoi
+[2021-04-12 13:26:05]: ☺ [, Level 16]: ta plus ton flag
+[2021-04-12 13:26:05]: any² [404, Level 25]: ERROR i missed click sryyy ://// :c
