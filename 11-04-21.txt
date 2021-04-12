@@ -12174,3 +12174,4 @@
 [2021-04-11 23:58:46]: ***  [, Level 0]: '1' finished the special race!
 [2021-04-11 23:58:48]: SanoreX [Chilli.*, Level 27]: California: stop
 [2021-04-11 23:58:53]: ***  [, Level 0]: '(1)1' finished the special race!
+[2021-04-11 23:59:12]: (1)SanoreX.* [Chilli.*, Level 0]: California: look
