@@ -548,3 +548,4 @@
 [2021-04-12 00:42:03]: ***  [, Level 0]: 'Nidardo.' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-12 00:42:04]: ***  [, Level 0]: 'GODLIKe' finished the special race!
 [2021-04-12 00:42:12]: fokkonaut [, Level 102]: ¯\_(ツ)_/¯
+[2021-04-12 00:42:37]: GODLIKe. [, Level 39]: (1)ERROR.: where xp and money :c
