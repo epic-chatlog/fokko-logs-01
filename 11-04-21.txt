@@ -11986,3 +11986,6 @@
 [2021-04-11 23:43:50]: Axandos [, Level 25]: mich#
 [2021-04-11 23:43:53]: Axandos [, Level 25]: in mein atrsch
 [2021-04-11 23:43:58]: (1)SanoreX.* [Chilli.*, Level 0]: ERROR: wanna my lua scripts? I use ath
+[2021-04-11 23:44:04]: (1)SanoreX.* [Chilli.*, Level 0]: ERROR: wanna my lua scripts? u use ath
+[2021-04-11 23:44:06]: (1)SanoreX.* [Chilli.*, Level 0]: I dont use
+[2021-04-11 23:44:10]: ERROR [404, Level 56]: SanoreX:  which
