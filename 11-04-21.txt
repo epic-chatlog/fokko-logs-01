@@ -11685,3 +11685,4 @@
 [2021-04-11 23:04:08]: [D]ϻɪɔʜɑʟ [Banana fish, Level 20]: I like turtles.
 [2021-04-11 23:04:37]: ***  [, Level 0]: 'Axandos' entered and joined the game
 [2021-04-11 23:04:42]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
+[2021-04-11 23:05:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
