@@ -14459,3 +14459,6 @@
 [2021-04-12 14:10:37]: HardreenClutch [, Level 57]: Isegrin:  oke now war
 [2021-04-12 14:10:45]: Isegrin [, Level 55]: HardreenClutch: NEIN DAS IST PRANK MEIN FUHRER
 [2021-04-12 14:10:46]: ReXi [, Level 0]: Isegrin: we are practising pls save me
+[2021-04-12 14:10:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-12 14:10:51]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
+[2021-04-12 14:10:58]: ***  [, Level 0]: 'Nidardo.' joined the minigame 'Block', use '/block' to join aswell
