@@ -7403,3 +7403,8 @@
 [2021-04-12 07:01:50]: rexi [, Level 0]: wo ist der trick
 [2021-04-12 07:01:54]: ***  [, Level 0]: 'tetano' joined the spectators
 [2021-04-12 07:01:57]: ***  [, Level 0]: 'tetano' joined the game
+[2021-04-12 07:02:12]: rexi [, Level 0]: ja?
+[2021-04-12 07:02:13]:   [, Level 0]: mamikral011: Taip: kezo yu tanıon mu
+[2021-04-12 07:02:14]: ***  [, Level 0]: 'tetano' joined the spectators
+[2021-04-12 07:02:18]: ***  [, Level 0]: 'tetano' joined the game
+[2021-04-12 07:02:19]: Taip [VergleriSay, Level 15]: ye
