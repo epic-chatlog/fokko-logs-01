@@ -12071,3 +12071,9 @@
 [2021-04-11 23:50:12]: MORPHIN [, Level 37]: Sayme: war
 [2021-04-11 23:50:24]: SanoreX.* [Chilli.*, Level 22]: ERROR: stack tees pls
 [2021-04-11 23:50:35]: Nudelsaft c: [FookinLads, Level 37]: Axandos: xDDD
+[2021-04-11 23:50:42]: ***  [, Level 0]: 'SanoreX.*' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-11 23:50:42]: Axandos [, Level 25]: dieser bait
+[2021-04-11 23:50:47]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-11 23:50:48]: Sayme [, Level 3]: MORFY: or u suck my balls
+[2021-04-11 23:50:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-11 23:50:53]: ***  [, Level 0]: '(1)SanoreX.*' joined the minigame 'Survival', use '/survival' to join aswell
