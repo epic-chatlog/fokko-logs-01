@@ -6538,3 +6538,6 @@
 [2021-04-12 05:59:50]: ***  [, Level 0]: 'Adleg' joined the game
 [2021-04-12 05:59:50]: Axandos [, Level 0]: ReXi:  wtf ich helfe dir bei hunter
 [2021-04-12 05:59:52]: ***  [, Level 0]: 'Cosmo' entered and joined the game
+[2021-04-12 06:00:01]: Hunter.exe [DogParty, Level 37]: (1)Matiteusz: idk you attack if you dont help them in police we are fine
+[2021-04-12 06:00:02]: Axandos [, Level 0]: Flipper:  help me
+[2021-04-12 06:00:05]: Saud [MNKY, Level 24]: DUDER
