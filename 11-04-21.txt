@@ -12095,3 +12095,7 @@
 [2021-04-11 23:52:04]: ***  [, Level 0]: '(1)Sayme' has left the game
 [2021-04-11 23:52:07]: Nudelsaft c: [FookinLads, Level 37]: hahahaha
 [2021-04-11 23:52:11]: ***  [, Level 0]: 'SanoreX.*' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-11 23:52:19]: ***  [, Level 0]: '(1)SanoreX.*' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-11 23:52:22]: Nudelsaft c: [FookinLads, Level 37]: omg
+[2021-04-11 23:52:23]: Axandos [, Level 25]: :d
+[2021-04-11 23:52:25]: Nudelsaft c: [FookinLads, Level 37]: xd
