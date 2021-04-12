@@ -10626,3 +10626,5 @@
 [2021-04-12 09:58:32]: ***  [, Level 0]: 'Taip' entered and joined the game
 [2021-04-12 09:58:33]: ***  [, Level 0]: (2)Zʷʰʸˀ is on a killing spree with 5 blocks
 [2021-04-12 09:58:35]: (1)Saud [MNKY, Level 19]: kais: xD
+[2021-04-12 09:58:44]: ***  [, Level 0]: 'SkyForge' entered and joined the game
+[2021-04-12 09:58:53]: ***  [, Level 0]: 'BC|kakashi' has left the game
