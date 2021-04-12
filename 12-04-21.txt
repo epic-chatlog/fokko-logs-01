@@ -790,3 +790,4 @@
 [2021-04-12 01:04:59]: ***  [, Level 0]: 'mlewuś' has left the game
 [2021-04-12 01:05:18]: Nidardo. [TOP, Level 5]: ty
 [2021-04-12 01:05:29]: ***  [, Level 0]: 'VD|HolyHo|°' entered and joined the game
+[2021-04-12 01:05:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
