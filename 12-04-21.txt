@@ -6369,3 +6369,6 @@
 [2021-04-12 05:51:51]: Flipper [, Level 16]: the sky
 [2021-04-12 05:51:51]:   [, Level 0]: Foxie♥: (1)Matiteusz: bruh only 8k
 [2021-04-12 05:52:02]: ***  [, Level 0]: '(2)Cosmo' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-12 05:52:12]: Matiteusz [TrRShClNrRs, Level 36]: Lucas: hold a and hook
+[2021-04-12 05:52:18]: ***  [, Level 0]: '(3)Cosmo' entered and joined the game
+[2021-04-12 05:52:19]: Matiteusz [TrRShClNrRs, Level 36]: Lucas: hook in to wall
