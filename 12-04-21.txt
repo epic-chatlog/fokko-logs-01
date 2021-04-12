@@ -9721,3 +9721,5 @@
 [2021-04-12 09:11:38]: Hunter.exe [DogParty, Level 37]: Cylox: up
 [2021-04-12 09:11:40]: cookie [, Level 19]: random guy:  wtf dude
 [2021-04-12 09:11:48]: Hunter.exe [DogParty, Level 37]: mamikral011: oh no
+[2021-04-12 09:11:56]: Hunter.exe [DogParty, Level 37]: mamikral011: oh ;D
+[2021-04-12 09:11:56]: cookie [, Level 19]: random guy:  why
