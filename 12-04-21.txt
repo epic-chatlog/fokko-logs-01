@@ -4166,3 +4166,6 @@
 [2021-04-12 03:33:20]: ***  [, Level 0]: 'falkenauge' has left the game
 [2021-04-12 03:33:26]: ***  [, Level 0]: 'BC|serwan' has left the game
 [2021-04-12 03:33:30]:   [, Level 0]: SanoreX: patron
+[2021-04-12 03:33:31]:   [, Level 0]: SanoreX: sotp
+[2021-04-12 03:33:34]: ***  [, Level 0]: el champeon's killing spree was ended by Fearless (9 blocks)
+[2021-04-12 03:33:40]: coca [, Level 22]: Saud: stop gus
