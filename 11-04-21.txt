@@ -12108,3 +12108,5 @@
 [2021-04-11 23:53:10]: ***  [, Level 0]: 'California' entered and joined the game
 [2021-04-11 23:53:13]: ***  [, Level 0]: '(1)SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-11 23:53:15]: ***  [, Level 0]: '(1)SanoreX' left the minigame 'Survival'
+[2021-04-11 23:53:26]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-11 23:53:27]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
