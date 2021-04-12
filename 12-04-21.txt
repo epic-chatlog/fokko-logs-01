@@ -7458,3 +7458,8 @@
 [2021-04-12 07:07:57]: ***  [, Level 0]: 'JOSHUA' joined the game
 [2021-04-12 07:08:02]:   [, Level 0]: mamikral011: (1)soleri1: hey bro
 [2021-04-12 07:08:05]:   [, Level 0]: JOSHUA: fuck
+[2021-04-12 07:08:07]: ***  [, Level 0]: 'tetano' joined the spectators
+[2021-04-12 07:08:11]: ***  [, Level 0]: 'tetano' joined the game
+[2021-04-12 07:08:12]: ***  [, Level 0]: 'JOSHUA' joined the spectators
+[2021-04-12 07:08:15]: ***  [, Level 0]: 'JOSHUA' joined the game
+[2021-04-12 07:08:17]: Good man [Drunks, Level 30]: Taip:
