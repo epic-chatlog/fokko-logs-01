@@ -882,3 +882,6 @@
 [2021-04-12 01:11:11]: ERROR [404, Level 56]: ops
 [2021-04-12 01:11:12]: ***  [, Level 0]: 'White Wolf' entered and joined the game
 [2021-04-12 01:11:14]: ϻɪɔʜɑʟ [Banana fish, Level 24]: SanoreX: where u
+[2021-04-12 01:11:16]: Axandos² [, Level 20]: habe nur noch eine stunde xD hatte 4 stundne frei xd ReXi
+[2021-04-12 01:11:19]: ***  [, Level 0]: 'Serhat_28ck' has left the game
+[2021-04-12 01:11:23]: ReXi [, Level 0]: oha Axandos
