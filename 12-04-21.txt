@@ -2974,3 +2974,8 @@
 [2021-04-12 02:49:03]: ***  [, Level 0]: ### '(1)SanoreX.*' @everyone I am at police who want jetpack
 [2021-04-12 02:49:07]: ***  [, Level 0]: ### '(1)SanoreX' @everyone I am at police who want jetpack
 [2021-04-12 02:49:11]: ***  [, Level 0]: '(3)ERROR' changed name to 'ERROR,'
+[2021-04-12 02:49:19]: ***  [, Level 0]: '(2)ERROR.' changed name to '(3)ERROR'
+[2021-04-12 02:49:22]: ***  [, Level 0]: Marcisten finished in: 1 minute(s) 43.62 second(s)
+[2021-04-12 02:49:22]: ***  [, Level 0]: New record: 1 minute(s) 21.46 second(s) better.
+[2021-04-12 02:49:22]: Saud [MNKY, Level 0]: @me
+[2021-04-12 02:49:27]: random guy [, Level 0]: Isegrin: google translate shit
