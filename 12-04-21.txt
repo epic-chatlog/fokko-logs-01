@@ -5270,3 +5270,9 @@
 [2021-04-12 04:40:29]: Andresss [citrom, Level 1]: ninja
 [2021-04-12 04:40:50]: Axandos² [, Level 20]: pro move
 [2021-04-12 04:40:50]: ***  [H, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-12 04:40:52]: Axandos² [, Level 20]: did u see
+[2021-04-12 04:40:55]: Andresss [citrom, Level 1]: ?
+[2021-04-12 04:40:58]: Andresss [citrom, Level 1]: no :(
+[2021-04-12 04:41:00]: ***  [H, Level 0]: '#5 blocker' entered and joined the game
+[2021-04-12 04:41:01]: ReXi [, Level 0]: omg
+[2021-04-12 04:41:01]: Axandos² [, Level 20]: i unfreezed me wuth no jumps
