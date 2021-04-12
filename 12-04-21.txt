@@ -8774,3 +8774,6 @@
 [2021-04-12 08:34:22]: ***  [, Level 0]: 'BlackOfTheWhite' joined the spectators
 [2021-04-12 08:34:25]: ***  [, Level 0]: 'BlackOfTheWhite' joined the game
 [2021-04-12 08:34:27]: [D] mamikral011 [DogParty, Level 21]: warhammer kralll
+[2021-04-12 08:34:36]:   [, Level 0]: WarHammer: KRA LKRAL
+[2021-04-12 08:34:38]: ReXi [, Level 0]: mamikral011:
+[2021-04-12 08:34:40]: Kezo [DogParty, Level 41]: YelloWorlD: AAAAAAAAAAA
