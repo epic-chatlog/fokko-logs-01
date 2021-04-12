@@ -5535,3 +5535,5 @@
 [2021-04-12 04:54:47]:   [, Level 0]: Axandos: ReXi:  ka
 [2021-04-12 04:54:52]: ***  [H, Level 0]: random guy's killing spree was ended by i am noob (8 blocks)
 [2021-04-12 04:54:56]: NidardoHD [FlexTape, Level 11]: again
+[2021-04-12 04:55:02]: NidardoHD [FlexTape, Level 11]: type money drop 1000
+[2021-04-12 04:55:06]: (1)kais [, Level 58]: fitz: ?
