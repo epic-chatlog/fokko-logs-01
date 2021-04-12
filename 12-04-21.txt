@@ -1522,3 +1522,10 @@
 [2021-04-12 01:45:07]: (1)SanoreX [Chilli.*, Level 0]: aa
 [2021-04-12 01:45:09]: (1)SanoreX [Chilli.*, Level 0]: dont work
 [2021-04-12 01:45:10]: Boti. [.bad, Level 33]: nob
+[2021-04-12 01:45:16]: (1)SanoreX [Chilli.*, Level 0]: fokkonaut: \n work in my server
+[2021-04-12 01:45:17]: White Wolf [, Level 24]: ERROR: plz help El patron kill me idk why
+[2021-04-12 01:45:18]: keepertrain._. [, Level 30]: fokkonaut: /money not working
+[2021-04-12 01:45:22]: (1)SanoreX [Chilli.*, Level 0]: fokkonaut: \n work in my server dont work in this server
+[2021-04-12 01:45:25]: [D] keepertrain [, Level 25]: This message means i pressed F4
+[2021-04-12 01:45:26]: [D] keepertrain [, Level 25]: This message means i pressed F3
+[2021-04-12 01:45:27]: ReXi [, Level 0]: [D] keepertrain: up pls
