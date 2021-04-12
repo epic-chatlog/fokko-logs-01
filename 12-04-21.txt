@@ -3484,3 +3484,7 @@
 [2021-04-12 03:08:33]: ***  [, Level 0]: '(4)ERROR' has left the game
 [2021-04-12 03:08:33]: ***  [, Level 0]: '(5)ERROR' has left the game
 [2021-04-12 03:08:36]: ERROR [404, Level 56]: mach wall und schilder
+[2021-04-12 03:08:39]:   [, Level 0]: Marcisten Dummy: |MıssOяchiĐ|: merci <3
+[2021-04-12 03:08:44]: ***  [, Level 0]: '(2)ERROR' entered and joined the game
+[2021-04-12 03:08:45]: |ΛnץOиe| [, Level 0]: Marcisten Dummy: <33
+[2021-04-12 03:08:46]: ***  [, Level 0]: any is on a killing spree with 5 blocks
