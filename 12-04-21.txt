@@ -14927,3 +14927,4 @@
 [2021-04-12 14:51:41]: YelloWorlD [DogParty, Level 38]: 1 0
 [2021-04-12 14:51:45]: ***  [, Level 0]: 'fokkonaut' has left the game
 [2021-04-12 14:51:55]: YelloWorlD [DogParty, Level 38]: mamikral011: go out
+[2021-04-12 14:52:00]: [D] mamikral011 [DogParty, Level 27]: YelloWorlD: okey sorry
