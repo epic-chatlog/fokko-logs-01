@@ -8460,3 +8460,4 @@
 [2021-04-12 08:19:14]: ***  [, Level 0]: 'BlackOfTheWhite' joined the game
 [2021-04-12 08:19:17]: ***  [, Level 0]: 'Taip' has left the game (Timeout)
 [2021-04-12 08:19:17]: ***  [, Level 0]: 'Recep' has left the game (Timeout)
+[2021-04-12 08:19:32]: MieSlime [FookinLads, Level 43]: [D] ♥TAKO♥:  war4life
