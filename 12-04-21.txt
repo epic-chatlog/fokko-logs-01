@@ -5870,3 +5870,4 @@
 [2021-04-12 05:14:05]: rexi [, Level 0]: rip
 [2021-04-12 05:14:06]: [D] El patron [, Level 0]: (1)kais:
 [2021-04-12 05:14:13]: (1)kais [, Level 58]: El patron: yes, i'll belive you and i'll stop
+[2021-04-12 05:14:25]: ***  [H, Level 0]: 'BULLETBOT' has left the game
