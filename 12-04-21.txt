@@ -13111,3 +13111,5 @@
 [2021-04-12 12:47:05]: JustRace [DogParty, Level 36]: GReeeN:  yo
 [2021-04-12 12:47:09]: JustRace [DogParty, Level 36]: GReeeN:  he helping my clan
 [2021-04-12 12:47:14]: JustRace [DogParty, Level 36]: GReeeN:  no
+[2021-04-12 12:47:25]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-12 12:47:33]: ***  [, Level 0]: 'dsad' entered and joined the game
