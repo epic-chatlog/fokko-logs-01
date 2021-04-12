@@ -13173,3 +13173,4 @@
 [2021-04-12 12:50:43]: [D] mamikral011 [DogParty, Level 21]: soleri1: wait psl
 [2021-04-12 12:50:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-12 12:50:50]: ***  [, Level 0]: 'dsad' has left the game
+[2021-04-12 12:50:54]: ***  [, Level 0]: 'Intensiv' entered and joined the game
