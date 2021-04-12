@@ -11116,3 +11116,5 @@
 [2021-04-12 10:39:51]: lolpoep [, Level 0]: oke mamikral011
 [2021-04-12 10:39:58]: ***  [, Level 0]: 'RM | Arin' has left the game
 [2021-04-12 10:40:00]: lolpoep [, Level 0]: white the hammer
+[2021-04-12 10:40:08]: ***  [, Level 0]: 'fameless tee' entered and joined the game
+[2021-04-12 10:40:12]: WarHammer [DogParty, Level 26]: lolpoep:  with hammer
