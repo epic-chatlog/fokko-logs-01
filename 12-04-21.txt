@@ -14750,3 +14750,6 @@
 [2021-04-12 14:31:17]: ***  [, Level 0]: 'arther' joined the game
 [2021-04-12 14:31:59]: ***  [, Level 0]: 'arther' joined the spectators
 [2021-04-12 14:32:20]: GODLIKe [, Level 44]: mamikral011: noldu gitti hepsi
+[2021-04-12 14:32:30]: YelloWorlD [DogParty, Level 38]: GODLIKe: want join .?
+[2021-04-12 14:32:35]: GODLIKe [, Level 44]: no
+[2021-04-12 14:32:37]: ***  [, Level 0]: 'arther' has left the game
