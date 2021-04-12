@@ -2902,3 +2902,4 @@
 [2021-04-12 02:44:24]: ChillerDragon [Chilli.*, Level 10]: Error: BC|kakashi failed to remote control (invalid token)
 [2021-04-12 02:44:24]: (1)SanoreX [Chilli.*, Level 0]: lan
 [2021-04-12 02:44:40]: (2)ERROR [FAKE ERROR, Level 40]: ERROR:  we are ERRORS
+[2021-04-12 02:44:48]: ReXi [, Level 0]: wie einfach niemand in police ist
