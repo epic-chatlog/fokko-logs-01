@@ -10482,3 +10482,7 @@
 [2021-04-12 09:46:47]: domkolny [, Level 0]: xaxaxa
 [2021-04-12 09:46:53]:   [, Level 0]: (2)УБИВАТЬ!: xDD
 [2021-04-12 09:46:53]: mamikral011 [DogParty, Level 26]: BlackOfTheWhite: ben atlıcam şuraya
+[2021-04-12 09:46:57]: ***  [, Level 0]: 'domkolny' has left the game
+[2021-04-12 09:46:58]:   [, Level 0]: BlackOfTheWhite: evet
+[2021-04-12 09:47:04]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-12 09:47:04]: ***  [, Level 0]: 'GOLD' has left the game
