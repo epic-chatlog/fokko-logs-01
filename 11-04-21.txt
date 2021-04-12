@@ -11633,3 +11633,5 @@
 [2021-04-11 22:55:44]: Swarfey [FookinLads, Level 60]: is nich brokey
 [2021-04-11 22:55:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-11 22:55:53]: Swarfey [FookinLads, Level 60]: läuft noch ChillerDragon
+[2021-04-11 22:56:00]: (1)ChillerDrago [|*KoG*|, Level 45]: ah true
+[2021-04-11 22:56:04]: (1)ChillerDrago [|*KoG*|, Level 45]: bei mir hing er grad
