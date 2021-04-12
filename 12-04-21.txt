@@ -7334,3 +7334,4 @@
 [2021-04-12 06:55:40]: rexi [, Level 0]: omggggggggg
 [2021-04-12 06:55:42]: ***  [, Level 0]: 'tetano' joined the game
 [2021-04-12 06:55:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-12 06:55:54]: ***  [, Level 0]: 'nameless tee' entered and joined the game
