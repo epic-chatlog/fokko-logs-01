@@ -2942,3 +2942,6 @@
 [2021-04-12 02:47:02]: Cylox [, Level 0]: (1)SanoreX: bekl
 [2021-04-12 02:47:03]: Axandos² [, Level 20]: wt
 [2021-04-12 02:47:04]: Axandos² [, Level 20]: f
+[2021-04-12 02:47:22]: ChillerDragon [Chilli.*, Level 10]: Error: BC|kakashi failed to remote control (invalid token)
+[2021-04-12 02:47:22]:   [, Level 0]: Marcisten: (2)Shy-ra.: you blocked me from endelss, what do you expect? to smile on you?
+[2021-04-12 02:47:26]: ***  [, Level 0]: 'El patron' entered and joined the game
