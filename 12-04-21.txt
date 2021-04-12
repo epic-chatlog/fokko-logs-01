@@ -3159,3 +3159,9 @@
 [2021-04-12 02:57:55]: ERROR [404, Level 56]: fokkonaut
 [2021-04-12 02:57:57]:   [, Level 0]: Noémi: fokkonaut: HEY
 [2021-04-12 02:58:00]:   [, Level 0]: fokkonaut: hi guys
+[2021-04-12 02:58:05]:   [, Level 0]: MieSlime: Fokkonaut hey :D
+[2021-04-12 02:58:06]: SanoreX.* [Chilli.*, Level 22]: hi fokkonaüt
+[2021-04-12 02:58:08]: ERROR [404, Level 56]: fokkonaut hast mal bock mir gaaaanz kurz draw editor zu geben bitte xDDDDD
+[2021-04-12 02:58:08]: any [404, Level 38]: fokkonaut: :o
+[2021-04-12 02:58:08]: ***  [, Level 0]: 'ERROR;' entered and joined the game
+[2021-04-12 02:58:10]: (4)ERROR [, Level 0]: fokkonaut: spec ERROR.
