@@ -3287,3 +3287,6 @@
 [2021-04-12 03:02:05]: ERROR [404, Level 56]: is weg
 [2021-04-12 03:02:16]: ERROR. [404, Level 75]: fokkonaut:  mach error. weil plot gehört ERROR
 [2021-04-12 03:02:17]:   [, Level 0]: Isegrin: MieSlime: MERDE
+[2021-04-12 03:02:19]: MieSlime [FookinLads, Level 43]: Isegrin:  -__-
+[2021-04-12 03:02:20]: fokkonaut [, Level 102]: ok
+[2021-04-12 03:02:27]: fokkonaut [, Level 102]: is
