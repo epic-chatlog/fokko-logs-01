@@ -2954,3 +2954,7 @@
 [2021-04-12 02:47:41]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-12 02:47:41]: ReXi [, Level 0]: Axandos: hab auch kein plan was das ist
 [2021-04-12 02:47:46]: (1)SanoreX [Chilli.*, Level 0]: Cylox: alcaz bekle
+[2021-04-12 02:47:50]: Axandos² [, Level 20]: nice ReXi
+[2021-04-12 02:47:51]: any [404, Level 38]: *
+[2021-04-12 02:48:00]: (2)ERROR [FAKE ERROR, Level 40]: Zephir™:  come with name ERROR  xd
+[2021-04-12 02:48:00]: Isegrin [, Level 55]: random guy: this sentence is meaningless
