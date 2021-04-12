@@ -966,3 +966,7 @@
 [2021-04-12 01:15:41]: Foxie♥ [♥, Level 40]: Matiteusz: 24/4
 [2021-04-12 01:15:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-12 01:16:00]: (1)SanoreX.* [Chilli.*, Level 0]: ReXi: say sano u say sanorex and my game bugging I cant enter game
+[2021-04-12 01:16:04]: Saud [, Level 0]: ERROR:
+[2021-04-12 01:16:04]: (1)SanoreX.* [Chilli.*, Level 0]: balloon
+[2021-04-12 01:16:06]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
+[2021-04-12 01:16:12]: Axandos² [, Level 20]: Zephir™:  <<<
