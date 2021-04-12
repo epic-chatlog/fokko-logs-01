@@ -1416,3 +1416,8 @@
 [2021-04-12 01:42:17]: SanoreX [Chilli.*, Level 27]: ERROR: spec dummy
 [2021-04-12 01:42:18]: ***  [, Level 0]: Niklas is on a killing spree with 5 blocks
 [2021-04-12 01:42:20]:   [, Level 0]: [D]ϻɪɔʜɑʟ: give u jetpack?
+[2021-04-12 01:42:24]: SanoreX [Chilli.*, Level 27]: ERROR: spec SanoreX.* and help him please
+[2021-04-12 01:42:25]: Kenshi™ [, Level 0]: Black Wolf: sorry not my war
+[2021-04-12 01:42:29]: White Wolf [, Level 24]: El patron: kid
+[2021-04-12 01:42:29]: ***  [, Level 0]: 'tymeeq' has left the game
+[2021-04-12 01:42:31]: ERROR [404, Level 56]: SanoreX:  help urself
