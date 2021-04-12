@@ -1689,3 +1689,10 @@
 [2021-04-12 01:53:38]: ***  [, Level 0]: 'random guy' entered and joined the game
 [2021-04-12 01:53:38]: S Y T H N [DogParty, Level 37]: ReXi: hab lw
 [2021-04-12 01:53:48]: ϻɪɔʜɑʟ [Banana fish, Level 24]: GODLIKe:
+[2021-04-12 01:53:53]: ϻɪɔʜɑʟ [Banana fish, Level 24]: GODLIKe: hey
+[2021-04-12 01:53:53]: WarHammer [DogParty, Level 26]: SANO
+[2021-04-12 01:53:55]: GODLIKe [, Level 44]: El patron: hm ?
+[2021-04-12 01:53:56]: ϻɪɔʜɑʟ [Banana fish, Level 24]: GODLIKe:
+[2021-04-12 01:53:59]:   [, Level 0]: (1)SanoreX: of
+[2021-04-12 01:54:00]: ϻɪɔʜɑʟ [Banana fish, Level 24]: GODLIKe: hey
+[2021-04-12 01:54:01]:   [, Level 0]: (1)SanoreX: why
