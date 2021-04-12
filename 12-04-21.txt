@@ -2186,3 +2186,5 @@
 [2021-04-12 02:14:46]: GODLIKe [, Level 44]: q
 [2021-04-12 02:14:52]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin: teewrolds?
 [2021-04-12 02:14:55]: ***  [, Level 0]: 'GODLIKe' has left the game
+[2021-04-12 02:14:57]: Isegrin [, Level 55]: Matiteusz: no
+[2021-04-12 02:15:01]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin: klamiesz
