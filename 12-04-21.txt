@@ -1576,3 +1576,5 @@
 [2021-04-12 01:47:04]: ***  [, Level 0]: '(1)SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-12 01:47:05]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-12 01:47:05]: Kiøn1029 [.bad, Level 32]: S Y T H N: my brother is not playing with that game
+[2021-04-12 01:47:16]:   [, Level 0]: WarHammer: SA
+[2021-04-12 01:47:17]: ERROR [404, Level 56]: foko spread ? xd
