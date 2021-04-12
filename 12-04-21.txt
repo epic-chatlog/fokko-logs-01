@@ -15494,3 +15494,5 @@
 [2021-04-12 15:43:17]: ***  [, Level 0]: Cylox finished in: 4 minute(s) 10.10 second(s)
 [2021-04-12 15:43:17]: ***  [, Level 0]: 'Cylox' finished the special race!
 [2021-04-12 15:43:18]: Kenshi™ [, Level 39]: ~DemoizL~: touche pas a GOLD
+[2021-04-12 15:43:25]: mamikral011 [DogParty, Level 22]: Kenshi™: ok
+[2021-04-12 15:43:27]: ~DemoizL~ [, Level 39]: Kenshi™: t'es son chien ?
