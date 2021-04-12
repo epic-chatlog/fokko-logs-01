@@ -7527,3 +7527,12 @@
 [2021-04-12 07:11:24]:   [, Level 0]: mamikral011: Warhammer  bilmem
 [2021-04-12 07:11:29]: WarHammer [DogParty, Level 26]: mamikral011:  hadi hadi gel
 [2021-04-12 07:11:31]: ***  [, Level 0]: 'JOSHUA' joined the spectators
+[2021-04-12 07:11:35]: ***  [, Level 0]: 'JOSHUA' joined the game
+[2021-04-12 07:11:35]:   [, Level 0]: mamikral011: (1)Cosmo:
+[2021-04-12 07:11:39]:   [, Level 0]: mamikral011: (1)Cosmo: war
+[2021-04-12 07:11:40]: ***  [, Level 0]: 'JOSHUA' joined the spectators
+[2021-04-12 07:11:43]: ***  [, Level 0]: 'JOSHUA' joined the game
+[2021-04-12 07:11:45]: ***  [, Level 0]: Good man finished in: 3 minute(s) 45.36 second(s)
+[2021-04-12 07:11:46]: ***  [, Level 0]: coca finished in: 3 minute(s) 44.68 second(s)
+[2021-04-12 07:11:46]: ***  [, Level 0]: 'cunt' has left the game (Timeout)
+[2021-04-12 07:11:46]: ***  [, Level 0]: '(1)cunt' has left the game (Timeout)
