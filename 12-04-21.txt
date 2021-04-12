@@ -10218,3 +10218,5 @@
 [2021-04-12 09:32:31]: Tziys* [DogParty, Level 39]: YelloWorlD: he left
 [2021-04-12 09:32:38]:   [, Level 0]: YelloWorlD: Tziys*: no
 [2021-04-12 09:32:39]: Tziys* [DogParty, Level 39]: YelloWorlD: chill
+[2021-04-12 09:32:43]:   [, Level 0]: YelloWorlD: Supers: yes
+[2021-04-12 09:32:52]:   [, Level 0]: Supers: YelloWorlD: what ye?
