@@ -10697,3 +10697,7 @@
 [2021-04-12 10:04:45]:   [, Level 0]: RM | Arin: zZz:  ...
 [2021-04-12 10:04:58]: Cylox [, Level 31]: pro
 [2021-04-12 10:05:01]:   [, Level 0]: (3)УБИВАТЬ!: xDD
+[2021-04-12 10:05:09]: ***  [, Level 0]: 'Recep' has left the game
+[2021-04-12 10:05:09]: ***  [, Level 0]: 'Taip' has left the game
+[2021-04-12 10:05:10]: [D] mamikral011 [DogParty, Level 21]: Jhonny Sins: ?
+[2021-04-12 10:05:17]:   [, Level 0]: Jhonny Sins: mamikral011:  im MieSlime
