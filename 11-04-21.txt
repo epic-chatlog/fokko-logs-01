@@ -11947,3 +11947,4 @@
 [2021-04-11 23:40:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-11 23:40:54]: Axandos [, Level 25]: fick mich
 [2021-04-11 23:41:03]: ***  [, Level 0]: '(1)SanoreX' entered and joined the game
+[2021-04-11 23:41:10]: ***  [, Level 0]: '(1)SanoreX.*' entered and joined the game
