@@ -11548,3 +11548,5 @@
 [2021-04-11 22:28:05]: S Y T H N [, Level 37]: Swarfey: ey
 [2021-04-11 22:28:10]: Nudelsaft c: [FookinLads, Level 59]: yo
 [2021-04-11 22:28:27]: S Y T H N [, Level 37]: wer hat eigendlich den bott programmiert DiscordBridge
+[2021-04-11 22:28:30]: Nudelsaft c: [FookinLads, Level 59]: ich
+[2021-04-11 22:28:35]: S Y T H N [, Level 37]: Nudelsaft c:: wtf
