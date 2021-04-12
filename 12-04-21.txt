@@ -9830,3 +9830,7 @@
 [2021-04-12 09:16:13]: [D] mamikral011 [DogParty, Level 21]: Hunter.exe: offfff
 [2021-04-12 09:16:15]: ***  [, Level 0]: 'AkiHiKo_718' joined the spectators
 [2021-04-12 09:16:20]:   [, Level 0]: any: Lucas: i dont like joking btw
+[2021-04-12 09:16:27]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-12 09:16:30]: [D] mamikral011 [DogParty, Level 21]: :D
+[2021-04-12 09:16:32]: ***  [, Level 0]: (2)УБИВАТЬ!'s killing spree was ended by coffee (5 blocks)
+[2021-04-12 09:16:32]: ***  [, Level 0]: 'Elisey4375' entered and joined the game
