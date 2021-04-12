@@ -3046,3 +3046,8 @@
 [2021-04-12 02:52:26]: Isegrin [, Level 55]: random guy: yes
 [2021-04-12 02:52:34]: random guy [, Level 0]: Isegrin: tell me a joke then
 [2021-04-12 02:52:40]:   [, Level 0]: [D] El patron: SanoreX: jump down
+[2021-04-12 02:52:48]: Isegrin [, Level 55]: random guy: about what
+[2021-04-12 02:52:49]: SanoreX.* [Chilli.*, Level 22]: come
+[2021-04-12 02:52:51]: ***  [, Level 0]: 'Fearless' changed name to '(2)ERROR'
+[2021-04-12 02:52:52]: random guy [, Level 0]: Isegrin: auschwitz
+[2021-04-12 02:52:55]: Isegrin [, Level 55]: random guy: xD
