@@ -538,3 +538,5 @@
 [2021-04-12 00:40:34]: ***  [, Level 0]: Ϝʀıɢʊʂ finished in: 5 minute(s)  4.06 second(s)
 [2021-04-12 00:40:36]: ϻɪɔʜɑʟ [Banana fish, Level 24]: what
 [2021-04-12 00:40:40]: ϻɪɔʜɑʟ [Banana fish, Level 24]: i don t helper
+[2021-04-12 00:40:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-12 00:40:57]: ϻɪɔʜɑʟ [Banana fish, Level 24]: fk
