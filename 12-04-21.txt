@@ -12861,3 +12861,6 @@
 [2021-04-12 12:30:57]: [D] mamikral011 [DogParty, Level 21]: Cosmo: wait
 [2021-04-12 12:31:01]: [D] mamikral011 [DogParty, Level 21]: Cosmo:
 [2021-04-12 12:31:13]: [D] mamikral011 [DogParty, Level 21]: (1)Cosmo:
+[2021-04-12 12:31:20]: [D] mamikral011 [DogParty, Level 21]: Cosmo:
+[2021-04-12 12:31:21]: ***  [, Level 0]: '[D] mamikral011' has been muted for 60 seconds
+[2021-04-12 12:31:22]: JxK|JoK'Air [, Level 0]: BulgarianGay
