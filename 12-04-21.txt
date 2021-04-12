@@ -1088,3 +1088,8 @@
 [2021-04-12 01:25:36]: ***  [, Level 0]: '11111' entered and joined the game
 [2021-04-12 01:25:36]: ***  [, Level 0]: 'cya' entered and joined the game
 [2021-04-12 01:25:38]: (1)SanoreX.* [Chilli.*, Level 0]: fokkonaut: shoot telelaser out and edit
+[2021-04-12 01:25:40]: ***  [, Level 0]: 'cYpa' entered and joined the game
+[2021-04-12 01:25:47]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-12 01:25:48]: fokkonaut [, Level 102]: ?
+[2021-04-12 01:25:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-12 01:25:51]: Rem's dummy [, Level 38]: fokkonaut: kannst du mir spread gun geben xD
