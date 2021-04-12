@@ -10006,3 +10006,7 @@
 [2021-04-12 09:22:39]: (2)УБИВАТ [, Level 0]: xDD
 [2021-04-12 09:22:41]: random guy [, Level 0]: cookie: where are you from
 [2021-04-12 09:22:41]: WarHammer [DogParty, Level 26]: Cylox:  ONDAN ÖZÜR DİLE ALAYIM
+[2021-04-12 09:22:45]: ***  [, Level 0]: 'vorgestern' entered and joined the game
+[2021-04-12 09:22:47]: ***  [, Level 0]: 'Kahve' entered and joined the game
+[2021-04-12 09:22:50]: WarHammer [DogParty, Level 26]: Cylox:  YOKSA BEN,DE BLOKLAR
+[2021-04-12 09:22:52]:   [, Level 0]: Kahve: sa
