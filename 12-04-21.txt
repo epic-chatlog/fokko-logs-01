@@ -6530,3 +6530,5 @@
 [2021-04-12 05:59:21]: ***  [, Level 0]: 'NidardoHD' would have timed out, but can use timeout protection now
 [2021-04-12 05:59:23]: ***  [, Level 0]: Matiteusz is on a killing spree with 5 blocks
 [2021-04-12 05:59:29]:   [, Level 0]: ReXi: Axandos: was
+[2021-04-12 05:59:35]: Axandos [, Level 0]: ReXi:  hilfe?
+[2021-04-12 05:59:42]:   [, Level 0]: ReXi: Axandos: sorry?
