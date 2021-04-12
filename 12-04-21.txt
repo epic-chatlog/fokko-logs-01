@@ -3065,3 +3065,7 @@
 [2021-04-12 02:53:28]: Isegrin [, Level 55]: random guy: jawohl
 [2021-04-12 02:53:28]: random guy [, Level 0]: XD
 [2021-04-12 02:53:30]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin: TAAAAK
+[2021-04-12 02:53:36]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin:  lato w auschwitaz
+[2021-04-12 02:53:36]: SanoreX.* [Chilli.*, Level 22]: help
+[2021-04-12 02:53:40]: SanoreX.* [Chilli.*, Level 22]: El patron:
+[2021-04-12 02:53:43]:   [, Level 0]: (2)ERROR: Zet:  want w4l?
