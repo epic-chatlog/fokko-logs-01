@@ -10398,3 +10398,6 @@
 [2021-04-12 09:42:44]: ~DemoizL~ [, Level 39]: stop
 [2021-04-12 09:42:45]:   [, Level 0]: Supers: Tixnix:  help my dummy
 [2021-04-12 09:42:47]: ***  [, Level 0]: 'BlackOfTheWhite' joined the spectators
+[2021-04-12 09:42:53]: ***  [, Level 0]: 'TOJA' has left the game
+[2021-04-12 09:42:53]: ***  [, Level 0]: 'BlackOfTheWhite' joined the game
+[2021-04-12 09:43:01]:   [, Level 0]: (2)УБИВАТЬ!: noob)\
