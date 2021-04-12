@@ -11508,3 +11508,4 @@
 [2021-04-11 15:20:37]: ***  [, Level 0]: '(3)lol' has left the game (restart)
 [2021-04-11 21:15:07]: ***  [, Level 0]: Successfully logged in
 [2021-04-11 21:15:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-11 21:17:29]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
