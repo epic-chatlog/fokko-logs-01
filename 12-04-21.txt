@@ -7584,3 +7584,4 @@
 [2021-04-12 07:17:57]: (1)coca [, Level 0]: Kirito: pls
 [2021-04-12 07:18:01]: (1)coca [, Level 0]: thx Kirito
 [2021-04-12 07:18:04]:   [, Level 0]: Kirito: np
+[2021-04-12 07:18:12]: ***  [, Level 0]: 'CKA3A4NIK[NR]' entered and joined the game
