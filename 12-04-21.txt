@@ -4494,3 +4494,8 @@
 [2021-04-12 03:46:41]: ***  [, Level 0]: '(1)flappy.*' has left the game (Timeout)
 [2021-04-12 03:46:42]: CKA3A4NIK[NR] [Night Raid, Level 35]: Fearless:  WHY YOU TOUCH ME
 [2021-04-12 03:46:47]: coca [, Level 22]: CKA3A4NIK: я с сабзиро вар...
+[2021-04-12 03:46:52]: ***  [, Level 0]: '(1)flappy.*' entered and joined the game
+[2021-04-12 03:46:54]:   [, Level 0]: ReXi: Axandos: ka lol
+[2021-04-12 03:46:56]: |ΛnץOиe| [, Level 0]: Fearless: wtf too much random in police
+[2021-04-12 03:46:59]: ***  [, Level 0]: 'flappy.*' has left the game (Timeout)
+[2021-04-12 03:47:00]: |ΛnץOиe| [, Level 0]: zu
