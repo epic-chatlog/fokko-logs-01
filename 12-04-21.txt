@@ -8716,3 +8716,7 @@
 [2021-04-12 08:30:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-12 08:30:53]: [D] ♥TAKO♥ [DogParty, Level 0]: Kezo:  ben puroyum :D
 [2021-04-12 08:31:00]: Lucas [THECEPS, Level 34]: bruh: i hate you
+[2021-04-12 08:31:23]: ***  [, Level 0]: 'Matiteusz' has left the game (Timeout)
+[2021-04-12 08:31:23]: ***  [, Level 0]: '(1)Matiteusz' has left the game (Timeout)
+[2021-04-12 08:31:23]: ***  [, Level 0]: '(1)Meetiteusz' has left the game (Timeout)
+[2021-04-12 08:31:23]: ***  [, Level 0]: 'Meetiteusz' has left the game (Timeout)
