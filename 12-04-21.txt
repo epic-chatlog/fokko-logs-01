@@ -4634,3 +4634,5 @@
 [2021-04-12 03:54:28]: ***  [, Level 0]: 'PerfeCtion' has left the game
 [2021-04-12 03:54:32]: ***  [, Level 0]: '(1)VD|HolyHo|°' entered and joined the game
 [2021-04-12 03:54:51]:   [, Level 0]: Andresss Dumdum: Kiøn1029: rls
+[2021-04-12 03:54:58]: Kiøn1029 [.bad, Level 32]: Andresss Dumdum: he,
+[2021-04-12 03:54:59]: Kiøn1029 [.bad, Level 32]: ?
