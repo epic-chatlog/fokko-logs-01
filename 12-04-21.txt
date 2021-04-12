@@ -14789,3 +14789,6 @@
 [2021-04-12 14:36:55]: Saud [MNKY, Level 24]: (1)♥TAKO♥:  OK
 [2021-04-12 14:36:59]: [D] ♥TAKO♥ [DogParty, Level 0]: Saud:  nope
 [2021-04-12 14:37:05]: ***  [, Level 0]: 'Medkit' joined the spectators
+[2021-04-12 14:37:09]: ***  [, Level 0]: 'Medkit' joined the game
+[2021-04-12 14:37:14]: ***  [, Level 0]: 'Medkit' joined the spectators
+[2021-04-12 14:37:18]: ***  [, Level 0]: 'Medkit' joined the game
