@@ -1667,3 +1667,8 @@
 [2021-04-12 01:52:41]: ***  [, Level 0]: 'SanoreX.*' left the minigame 'Survival'
 [2021-04-12 01:52:44]: ***  [, Level 0]: '(1)SanoreX.*' left the minigame 'Survival'
 [2021-04-12 01:52:45]: ***  [, Level 0]: '(1)SanoreX' left the minigame 'Survival'
+[2021-04-12 01:52:52]:   [, Level 0]: WarHammer: NK SRY
+[2021-04-12 01:52:52]: ***  [, Level 0]: 'Matiteusz' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-12 01:52:53]: GODLIKe [, Level 44]: El patron: Axandos stop
+[2021-04-12 01:52:53]: ***  [, Level 0]: 'BC|serwan' entered and joined the game
+[2021-04-12 01:52:54]: ***  [, Level 0]: 'fokkonaut' has left the game
