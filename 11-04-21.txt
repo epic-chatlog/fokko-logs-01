@@ -11958,3 +11958,7 @@
 [2021-04-11 23:42:04]: [D]ϻɪɔʜɑʟ [Banana fish, Level 20]: no i am michal old
 [2021-04-11 23:42:38]: (1)SanoreX.* [Chilli.*, Level 0]: ERROR: u are in k-client?
 [2021-04-11 23:42:38]: ϻɪɔʜɑʟ [Banana fish, Level 24]: hey
+[2021-04-11 23:42:43]: ϻɪɔʜɑʟ [Banana fish, Level 24]: i am new skin
+[2021-04-11 23:42:47]: ERROR [404, Level 56]: k client?
+[2021-04-11 23:42:49]: SanoreX [Chilli.*, Level 27]: good
+[2021-04-11 23:42:50]: SanoreX [Chilli.*, Level 27]: yes
