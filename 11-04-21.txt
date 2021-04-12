@@ -11842,3 +11842,5 @@
 [2021-04-11 23:28:47]: Swarfey [FookinLads, Level 60]: grad nix
 [2021-04-11 23:28:53]: Axandos [, Level 25]: hab chemie
 [2021-04-11 23:28:56]: Swarfey [FookinLads, Level 60]: xd
+[2021-04-11 23:28:59]: Axandos [, Level 25]: kein bock
+[2021-04-11 23:29:06]: Swarfey [FookinLads, Level 60]: verständlich
