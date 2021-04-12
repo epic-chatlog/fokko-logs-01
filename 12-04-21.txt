@@ -13139,3 +13139,8 @@
 [2021-04-12 12:49:22]: mamikral011 [DogParty, Level 26]: soleri1:
 [2021-04-12 12:49:23]: JustRace [DogParty, Level 36]: cl_aimbot 1
 [2021-04-12 12:49:25]: Nightmare. [, Level 20]: VD|HolyHo|: ??
+[2021-04-12 12:49:28]: ***  [, Level 0]: 'Jaskuł' has left the game
+[2021-04-12 12:49:28]: VD|HolyHo|° [VsDoggo´s, Level 19]: Nightmare.: i saw u hook
+[2021-04-12 12:49:29]: ***  [, Level 0]: '(1)soleri1' has left the game
+[2021-04-12 12:49:29]: ***  [, Level 0]: 'Axel ²' entered and joined the game
+[2021-04-12 12:49:30]: JustRace [DogParty, Level 36]: cl_aimbot 0
