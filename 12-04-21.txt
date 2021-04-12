@@ -13627,3 +13627,6 @@
 [2021-04-12 13:27:16]: ☺ [, Level 16]: fitz: ?
 [2021-04-12 13:27:30]: fitz [, Level 0]: ☺: have a flag for you
 [2021-04-12 13:27:42]: ☺ [, Level 16]: fitz: ok but where
+[2021-04-12 13:27:54]: ***  [, Level 0]: 'kais' entered and joined the game
+[2021-04-12 13:27:54]: ***  [, Level 0]: 'kais' has left the game
+[2021-04-12 13:27:56]: ***  [, Level 0]: 'kais' entered and joined the game
