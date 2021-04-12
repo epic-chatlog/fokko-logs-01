@@ -6368,3 +6368,4 @@
 [2021-04-12 05:51:50]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
 [2021-04-12 05:51:51]: Flipper [, Level 16]: the sky
 [2021-04-12 05:51:51]:   [, Level 0]: Foxie♥: (1)Matiteusz: bruh only 8k
+[2021-04-12 05:52:02]: ***  [, Level 0]: '(2)Cosmo' joined the minigame 'Survival', use '/survival' to join aswell
