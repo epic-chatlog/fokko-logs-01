@@ -7297,3 +7297,6 @@
 [2021-04-12 06:52:43]: ***  [, Level 0]: 'Sleimi' entered and joined the game
 [2021-04-12 06:52:55]: Kezo [DogParty, Level 41]: any: stupid dog
 [2021-04-12 06:53:04]:   [, Level 0]: (1)Saud: ahahahh mamikral011
+[2021-04-12 06:53:16]: ***  [, Level 0]: 'tetano' joined the spectators
+[2021-04-12 06:53:20]: ***  [, Level 0]: 'tetano' joined the game
+[2021-04-12 06:53:21]:   [, Level 0]: mamikral011: (1)Saud: gahaha
