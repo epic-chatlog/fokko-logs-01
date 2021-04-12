@@ -10062,3 +10062,7 @@
 [2021-04-12 09:25:33]:   [, Level 0]: YelloWorlD: OP|Supers: bcs u old x7
 [2021-04-12 09:25:38]:   [, Level 0]: Supers: YelloWorlD: ?
 [2021-04-12 09:25:43]: WarHammer' [DogParty, Level 17]: (1)kais:  hooow
+[2021-04-12 09:25:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-12 09:25:54]: cookie [, Level 19]: random guy:  do we have war
+[2021-04-12 09:25:55]:   [, Level 0]: YelloWorlD: OP|Supers: bcs u old x7
+[2021-04-12 09:25:59]:   [, Level 0]: Kahve: WarHammer: kankam böyle türkler birbirine yardım ediyo dimi
