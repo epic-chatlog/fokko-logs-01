@@ -11638,3 +11638,5 @@
 [2021-04-11 22:56:09]: Swarfey [FookinLads, Level 60]: ye weil niemand sich bewegt hat
 [2021-04-11 22:56:10]: (1)ChillerDrago [|*KoG*|, Level 45]: aaa aber maus
 [2021-04-11 22:56:17]: Swarfey [FookinLads, Level 60]: ye xd
+[2021-04-11 22:56:38]: (1)ChillerDrago [|*KoG*|, Level 45]: muss maus pos iwi über ssh setzten
+[2021-04-11 22:56:40]: (1)ChillerDrago [|*KoG*|, Level 45]: das wäre bae
