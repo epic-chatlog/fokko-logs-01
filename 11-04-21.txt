@@ -12077,3 +12077,8 @@
 [2021-04-11 23:50:48]: Sayme [, Level 3]: MORFY: or u suck my balls
 [2021-04-11 23:50:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-11 23:50:53]: ***  [, Level 0]: '(1)SanoreX.*' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-11 23:50:59]: ***  [, Level 0]: '(1)SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-11 23:51:00]: ***  [, Level 0]: '(1)SanoreX' left the minigame 'Survival'
+[2021-04-11 23:51:01]: ***  [, Level 0]: '(1)SanoreX.*' left the minigame 'Survival'
+[2021-04-11 23:51:03]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
+[2021-04-11 23:51:04]: ***  [, Level 0]: 'SanoreX.*' left the minigame 'Survival'
