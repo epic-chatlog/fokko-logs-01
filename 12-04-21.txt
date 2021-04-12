@@ -9718,3 +9718,6 @@
 [2021-04-12 09:11:19]:   [, Level 0]: ReXi: mamikral011: down pls
 [2021-04-12 09:11:35]: Hunter.exe [DogParty, Level 37]: cya:
 [2021-04-12 09:11:36]: Hunter.exe [DogParty, Level 37]: Cylox:
+[2021-04-12 09:11:38]: Hunter.exe [DogParty, Level 37]: Cylox: up
+[2021-04-12 09:11:40]: cookie [, Level 19]: random guy:  wtf dude
+[2021-04-12 09:11:48]: Hunter.exe [DogParty, Level 37]: mamikral011: oh no
