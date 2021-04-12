@@ -2984,3 +2984,6 @@
 [2021-04-12 02:49:35]: ***  [, Level 0]: 'Zet' entered and joined the game
 [2021-04-12 02:49:37]: random guy [, Level 0]: Isegrin: does this have a meaning? Wczoraj znów stałem się zależny od Gerharda jak osiem ramion
 [2021-04-12 02:49:39]: any² [404, Level 0]: ERROR: can i farm in ur plot ?
+[2021-04-12 02:49:44]: (1)SanoreX.* [Chilli.*, Level 0]: Matiteusz: help
+[2021-04-12 02:49:50]: (1)SanoreX.* [Chilli.*, Level 0]: Matiteusz: help and I give u jet
+[2021-04-12 02:49:50]: (2)ERROR [FAKE ERROR, Level 40]: ERROR:  we need more errors
