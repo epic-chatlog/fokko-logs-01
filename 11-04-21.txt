@@ -11525,3 +11525,4 @@
 [2021-04-11 21:55:06]: Nudelsaft c: [FookinLads, Level 59]: gm
 [2021-04-11 21:55:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-11 21:56:53]: ***  [, Level 0]: 'Boti.' has left the game
+[2021-04-11 22:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
