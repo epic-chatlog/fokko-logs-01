@@ -8098,3 +8098,6 @@
 [2021-04-12 08:00:17]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-12 08:00:18]: |ΛnץOиe| [, Level 0]: darkstar: who are u
 [2021-04-12 08:00:18]: Lucas [THECEPS, Level 34]: darkstar3: i'm going up and do nothing else i swear
+[2021-04-12 08:00:25]: |ΛnץOиe| [, Level 0]: darkstar: why u attack me
+[2021-04-12 08:00:25]: ***  [, Level 0]: 'Ƭevan' would have timed out, but can use timeout protection now
+[2021-04-12 08:00:25]: ***  [, Level 0]: 'Ðream' would have timed out, but can use timeout protection now
