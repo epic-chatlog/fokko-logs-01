@@ -1508,3 +1508,6 @@
 [2021-04-12 01:44:32]: ERROR [404, Level 56]: who
 [2021-04-12 01:44:34]: [D] keepertrain [, Level 25]: This message means i pressed F4
 [2021-04-12 01:44:34]: Boti. [.bad, Level 33]: ghost
+[2021-04-12 01:44:40]: [D] keepertrain [, Level 25]: This message means i pressed F3
+[2021-04-12 01:44:48]: ERROR [404, Level 56]: who
+[2021-04-12 01:44:49]: [D]ϻɪɔʜɑʟ [Banana fish, Level 20]: GODLIKe: friends?
