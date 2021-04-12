@@ -11244,3 +11244,5 @@
 [2021-04-12 10:51:06]: zZz [{D}, Level 0]: Falco641: ?
 [2021-04-12 10:51:14]:   [, Level 0]: [D] mamikral011: WarHammer': almışlar seni
 [2021-04-12 10:51:14]:   [, Level 0]: ☺: cv
+[2021-04-12 10:51:22]: WarHammer [DogParty, Level 26]: mamikral011:  NE
+[2021-04-12 10:51:24]: WarHammer [DogParty, Level 26]: mamikral011:  neye
