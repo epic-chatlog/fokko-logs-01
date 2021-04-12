@@ -8836,3 +8836,4 @@
 [2021-04-12 08:38:08]: ***  [, Level 0]: 'WarHammer'' has left the game
 [2021-04-12 08:38:08]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-12 08:38:10]: [D] mamikral011 [DogParty, Level 21]: :D
+[2021-04-12 08:38:19]: ***  [, Level 0]: 'ChildOfGalaxy' has left the game
