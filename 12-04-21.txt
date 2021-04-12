@@ -6056,3 +6056,6 @@
 [2021-04-12 05:31:27]: ***  [, Level 0]: 'XxxBgLucas' entered and joined the game
 [2021-04-12 05:31:38]: ***  [š, Level 0]: '(1)cunt' entered and joined the game
 [2021-04-12 05:31:44]: ***  [ , Level 0]: 'cHurch' has left the game
+[2021-04-12 05:32:02]: ***  [ , Level 0]: 'deepslate ember' has left the game
+[2021-04-12 05:32:02]: ***  [ , Level 0]: 'blazingd420' has left the game
+[2021-04-12 05:32:05]: ***  [ , Level 0]: '(1)Hunter.exe' entered and joined the game
