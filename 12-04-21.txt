@@ -10486,3 +10486,4 @@
 [2021-04-12 09:46:58]:   [, Level 0]: BlackOfTheWhite: evet
 [2021-04-12 09:47:04]: ***  [, Level 0]: 'YelloWorlD' has left the game
 [2021-04-12 09:47:04]: ***  [, Level 0]: 'GOLD' has left the game
+[2021-04-12 09:47:08]: mamikral011 [DogParty, Level 26]: BlackOfTheWhite: orda sende hook atıp çekilcen
