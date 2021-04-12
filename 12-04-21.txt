@@ -7929,3 +7929,7 @@
 [2021-04-12 07:48:25]:   [, Level 0]: (1)GODLIKe: Cylox: crash yedi
 [2021-04-12 07:48:28]:   [, Level 0]: (1)☺: Kenshi™: tu peux maider
 [2021-04-12 07:48:31]: ***  [, Level 0]: '(1)GODLIKe.' entered and joined the game
+[2021-04-12 07:48:34]: |ΛnץOиe| [, Level 0]: Cylox: help
+[2021-04-12 07:48:37]: ***  [, Level 0]: 'GODLIKe.' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-12 07:48:37]: ***  [, Level 0]: 'GODLIKe' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-12 07:48:43]: Kenshi™ [, Level 39]: ☺: dit moi
