@@ -7176,3 +7176,5 @@
 [2021-04-12 06:42:14]: rexi [, Level 0]: rio
 [2021-04-12 06:42:16]: rexi [, Level 0]: o
 [2021-04-12 06:42:17]: rexi [, Level 0]: p
+[2021-04-12 06:42:27]: ***  [, Level 0]: WarHammer is on a killing spree with 10 blocks
+[2021-04-12 06:42:33]: WarHammer [DogParty, Level 26]: Kenshi™:  STOP BLOCK ME
