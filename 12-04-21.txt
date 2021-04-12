@@ -1214,3 +1214,9 @@
 [2021-04-12 01:31:39]: Matiteusz [TrRShClNrRs, Level 35]: Hunter.exe: wanna war?
 [2021-04-12 01:31:39]:   [, Level 0]: Kong: i can write :(
 [2021-04-12 01:31:43]:   [, Level 0]: Kong: can't
+[2021-04-12 01:31:47]:   [, Level 0]: Kong: I like turtles.
+[2021-04-12 01:31:51]:   [, Level 0]: [D] Fearless: xd
+[2021-04-12 01:31:51]:   [, Level 0]: Kong: I like turtles.
+[2021-04-12 01:31:51]: Hunter.exe [DogParty, Level 37]: Matiteusz: idc you want?
+[2021-04-12 01:31:52]:   [, Level 0]: [D] Fearless: I like turtles.
+[2021-04-12 01:31:56]: SanoreX [Chilli.*, Level 27]: help
