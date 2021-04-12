@@ -15843,3 +15843,5 @@
 [2021-04-12 16:34:09]: GReeeN [, Level 41]: thx
 [2021-04-12 16:34:39]: HardreenClutch [, Level 57]: bb
 [2021-04-12 16:34:42]: Kenshi™ [, Level 39]: bye
+[2021-04-12 16:34:43]: ***  [, Level 0]: 'GReeeN' has left the game
+[2021-04-12 16:34:43]: ***  [, Level 0]: 'HardreenClutch' has left the game
