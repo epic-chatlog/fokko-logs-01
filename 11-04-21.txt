@@ -11989,3 +11989,5 @@
 [2021-04-11 23:44:04]: (1)SanoreX.* [Chilli.*, Level 0]: ERROR: wanna my lua scripts? u use ath
 [2021-04-11 23:44:06]: (1)SanoreX.* [Chilli.*, Level 0]: I dont use
 [2021-04-11 23:44:10]: ERROR [404, Level 56]: SanoreX:  which
+[2021-04-11 23:44:17]: [D]ϻɪɔʜɑʟ [Banana fish, Level 20]: u random guy
+[2021-04-11 23:44:24]: Nudelsaft c: [FookinLads, Level 37]: f
