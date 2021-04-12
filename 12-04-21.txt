@@ -11009,3 +11009,8 @@
 [2021-04-12 10:32:52]: ***  [, Level 0]: 'Hońi' entered and joined the game
 [2021-04-12 10:32:57]: WarHammer [DogParty, Level 26]: lolpoep:  2 mamikral011  1
 [2021-04-12 10:32:58]: [D] mamikral011 [DogParty, Level 21]: lolpoep: nooo
+[2021-04-12 10:33:01]: lolpoep [, Level 0]: [D] mamikral011  lags
+[2021-04-12 10:33:03]:   [, Level 0]: (3)УБИВАТЬ!: xaax
+[2021-04-12 10:33:03]: ***  [, Level 0]: 'Hońi' has left the game
+[2021-04-12 10:33:07]:   [, Level 0]: (3)УБИВАТЬ!: xD
+[2021-04-12 10:33:11]: [D] mamikral011 [DogParty, Level 21]: lolpoep: come vs
