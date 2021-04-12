@@ -15297,3 +15297,6 @@
 [2021-04-12 15:18:18]: ***  [, Level 0]: 'Axandos' has left the game
 [2021-04-12 15:18:27]: YelloWorlD [DogParty, Level 38]: 3 6
 [2021-04-12 15:18:40]: YelloWorlD [DogParty, Level 38]: 3 7
+[2021-04-12 15:18:50]: (1)☺ [, Level 11]: tipn °h ,izù*
+[2021-04-12 15:18:53]: YelloWorlD [DogParty, Level 38]: 3 8
+[2021-04-12 15:18:58]: YelloWorlD [DogParty, Level 38]: 4 8
