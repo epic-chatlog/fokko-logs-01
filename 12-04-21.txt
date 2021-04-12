@@ -10784,3 +10784,7 @@
 [2021-04-12 10:11:35]: ***  [, Level 0]: 'Lucas' has left the game (Timeout)
 [2021-04-12 10:11:41]: (1)Saud [MNKY, Level 19]: kais:  do it
 [2021-04-12 10:11:45]: kais [, Level 66]: do what ?
+[2021-04-12 10:11:52]: (1)Saud [MNKY, Level 19]: grab him and go up
+[2021-04-12 10:11:56]: kais [, Level 66]: why ?
+[2021-04-12 10:11:58]: kais [, Level 66]: he's good here
+[2021-04-12 10:12:00]: (1)Saud [MNKY, Level 19]: wdy m
