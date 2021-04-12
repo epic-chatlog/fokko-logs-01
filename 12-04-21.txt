@@ -4624,3 +4624,6 @@
 [2021-04-12 03:53:47]: ***  [, Level 0]: '(1)flappy.*' has left the game (Timeout)
 [2021-04-12 03:53:48]:   [, Level 0]: ReXi: oh
 [2021-04-12 03:53:50]: [D] El patron [, Level 0]: SanoreX: k
+[2021-04-12 03:54:04]: ***  [, Level 0]: '(1)flappy.*' entered and joined the game
+[2021-04-12 03:54:08]:   [, Level 0]: ReXi: no hearts for u boi
+[2021-04-12 03:54:14]: ***  [, Level 0]: '#5 blocker' has left the game
