@@ -7736,3 +7736,7 @@
 [2021-04-12 07:35:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-12 07:35:51]: ***  [, Level 0]: '(1)Cosmo' finished the special race!
 [2021-04-12 07:35:54]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
+[2021-04-12 07:36:10]: Good man [Drunks, Level 30]: Kirito: he killed my dummy(
+[2021-04-12 07:36:10]: kais [, Level 66]: Good man: oops, i accidently killed coca
+[2021-04-12 07:36:14]: Kirito [, Level 40]: Good man:  :(
+[2021-04-12 07:36:14]: Kenshi™ [, Level 39]: El patron:
