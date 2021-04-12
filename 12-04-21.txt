@@ -5748,3 +5748,6 @@
 [2021-04-12 05:06:39]: Andresss [citrom, Level 1]: bind f3 vote /yes
 [2021-04-12 05:06:42]: (1)kais [, Level 58]: [D] El patron: about the fact that you're him ?
 [2021-04-12 05:06:42]: Andresss [citrom, Level 1]: fuck
+[2021-04-12 05:06:49]: (1)kais [, Level 58]: El patron: i don't need to think, i already know you are
+[2021-04-12 05:06:51]: ***  [H, Level 0]: 'Isegrin' entered and joined the game
+[2021-04-12 05:06:52]: [D] El patron [, Level 0]: (1)kais: :%
