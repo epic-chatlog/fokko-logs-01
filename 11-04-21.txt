@@ -11674,3 +11674,4 @@
 [2021-04-11 23:02:31]: ChillerDragon [Chilli.*, Level 8]: cl_show_broadcast 0
 [2021-04-11 23:02:36]: (1)ChillerDrago [|*KoG*|, Level 45]: ja fotz
 [2021-04-11 23:02:51]: (1)ChillerDrago [|*KoG*|, Level 45]: gehen configs nich oder was
+[2021-04-11 23:03:04]: ***  [, Level 0]: [D]ϻɪɔʜɑʟ finished in: 2 minute(s)  1.42 second(s)
