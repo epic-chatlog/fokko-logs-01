@@ -7021,3 +7021,6 @@
 [2021-04-12 06:27:08]: Saud [MNKY, Level 24]: El patron:  i mean do u get there
 [2021-04-12 06:27:16]: ***  [, Level 0]: 'bitch eater' entered and joined the game
 [2021-04-12 06:27:26]: El patron [, Level 28]: ow
+[2021-04-12 06:27:45]: ***  [, Level 0]: 'megasteck=' entered and joined the game
+[2021-04-12 06:27:48]: ***  [, Level 0]: 'El patron' has left the game
+[2021-04-12 06:27:50]: ***  [, Level 0]: 'Keiino' entered and joined the game
