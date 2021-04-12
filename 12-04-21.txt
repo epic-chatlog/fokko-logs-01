@@ -6453,3 +6453,5 @@
 [2021-04-12 05:55:47]: ***  [, Level 0]: 'Marcisten Dummy' has left the game
 [2021-04-12 05:55:47]: ***  [, Level 0]: 'Marcisten' has left the game
 [2021-04-12 05:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-12 05:55:52]: ***  [, Level 0]: 'Yrubully64' has left the game
+[2021-04-12 05:56:01]: WarHammer [DogParty, Level 26]: mamiğraal
