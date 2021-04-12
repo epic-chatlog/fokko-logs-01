@@ -2939,3 +2939,6 @@
 [2021-04-12 02:46:57]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-12 02:46:58]: ReXi [, Level 0]: Axandos: volkswirtschaftslehre
 [2021-04-12 02:47:01]: (2)ERROR [FAKE ERROR, Level 40]: ERROR:  heartgun was good for us salves
+[2021-04-12 02:47:02]: Cylox [, Level 0]: (1)SanoreX: bekl
+[2021-04-12 02:47:03]: Axandos² [, Level 20]: wt
+[2021-04-12 02:47:04]: Axandos² [, Level 20]: f
