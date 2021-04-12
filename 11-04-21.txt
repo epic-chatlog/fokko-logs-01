@@ -11720,3 +11720,4 @@
 [2021-04-11 23:11:47]: ***  [, Level 0]: '(1)Ƭevan' entered and joined the game
 [2021-04-11 23:11:51]: ***  [, Level 0]: 'ZillyKek' entered and joined the game
 [2021-04-11 23:12:32]: ***  [, Level 0]: '(1)Ƭevan' has left the game
+[2021-04-11 23:13:39]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
