@@ -10657,3 +10657,7 @@
 [2021-04-12 10:00:50]: ***  [, Level 0]: '(1)fitz' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-12 10:00:50]:   [, Level 0]: [D] SkyForge: Kenshi™:  its fine xD
 [2021-04-12 10:00:57]: Kenshi™ [, Level 39]: ~DemoizL~: je t'envie mdr
+[2021-04-12 10:01:06]: ***  [, Level 0]: 'BC|serwan' finished the special race!
+[2021-04-12 10:01:06]: ***  [, Level 0]: BC|serwan finished in: 32 minute(s) 15.66 second(s)
+[2021-04-12 10:01:07]: [D] mamikral011 [DogParty, Level 21]: cookie: i m noob you dummy?
+[2021-04-12 10:01:08]: (1)Saud [MNKY, Level 19]: ~DemoizL~:  help him
