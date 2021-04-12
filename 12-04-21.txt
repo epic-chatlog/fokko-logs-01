@@ -3122,3 +3122,6 @@
 [2021-04-12 02:56:28]: ***  [, Level 0]: 'Noémi' entered and joined the game
 [2021-04-12 02:56:29]: ***  [, Level 0]: 'PlotFarmer' changed name to 'SanoreX.*'
 [2021-04-12 02:56:29]: (4)ERROR [, Level 0]: error's farm²:  man so bad name
+[2021-04-12 02:56:34]: Papaya [, Level 0]: Matiteusz: tak nawet pisalismy raz po polsk
+[2021-04-12 02:56:38]: Isegrin [, Level 55]: random guy: give discord name aa
+[2021-04-12 02:56:46]: ***  [, Level 0]: '|MıssOяchiĐ|' entered and joined the game
