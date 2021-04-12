@@ -2142,3 +2142,6 @@
 [2021-04-12 02:12:46]: ***  [, Level 0]: 'hhh3' changed name to 'GODLIKe'
 [2021-04-12 02:12:49]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin: ze ja mowie
 [2021-04-12 02:12:51]: WarHammer' [DogParty, Level 25]: sano bot eklemeyi öğretcektin
+[2021-04-12 02:12:55]: Marcisten Dummy [Dummies, Level 26]: Isegrin:
+[2021-04-12 02:12:57]: ERROR. [404, Level 75]: (1)Ðream: ye
+[2021-04-12 02:12:57]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin: chuj ci w dupe a ty musisz dokonczyc zdanie
