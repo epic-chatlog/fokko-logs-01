@@ -6591,3 +6591,6 @@
 [2021-04-12 06:01:39]:   [, Level 0]: Matiteusz: WarHammer: war
 [2021-04-12 06:01:40]: Foxie♥ [♥, Level 40]: Matiteusz: <<<<<<< IDIOT
 [2021-04-12 06:01:44]: mamikral011 [DogParty, Level 26]: sHunter.exe:
+[2021-04-12 06:01:52]: ***  [, Level 0]: Matiteusz's killing spree was ended by Hunter.exe (7 blocks)
+[2021-04-12 06:01:54]: Foxie♥ [♥, Level 40]: WarHammer: <<<
+[2021-04-12 06:01:56]: Flupper [, Level 0]: HUNTER
