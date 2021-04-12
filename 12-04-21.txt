@@ -11183,3 +11183,8 @@
 [2021-04-12 10:45:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-12 10:46:01]: WarHammer' [DogParty, Level 17]: any:  and why u dont stopping
 [2021-04-12 10:46:21]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-12 10:46:21]: ***  [, Level 0]: УБИВАТЬ!'s killing spree was ended by Falco641 (5 blocks)
+[2021-04-12 10:46:22]: ***  [, Level 0]: 'Falco641' has left the game
+[2021-04-12 10:46:23]: [D] mamikral011 [DogParty, Level 21]: :D
+[2021-04-12 10:46:29]: zZzerayI [QuietLegend, Level 24]: nameless tee: afk killer
+[2021-04-12 10:46:32]: WarHammer' [DogParty, Level 17]: any:  go yelloworld
