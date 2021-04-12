@@ -7420,3 +7420,5 @@
 [2021-04-12 07:03:34]: rexi [, Level 0]: aaaaaah
 [2021-04-12 07:03:39]: ***  [, Level 0]: 'tetano' joined the game
 [2021-04-12 07:03:40]: coca [, Level 22]: any: pls can i go to another place?
+[2021-04-12 07:03:47]: ***  [, Level 0]: 'tetano' joined the spectators
+[2021-04-12 07:03:51]: ***  [, Level 0]: 'tetano' joined the game
