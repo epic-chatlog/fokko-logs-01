@@ -5916,3 +5916,6 @@
 [2021-04-12 05:17:14]: ***  [H, Level 0]: random guy is on a killing spree with 5 blocks
 [2021-04-12 05:17:15]: ***  [H, Level 0]: andrea finished in: 1 minute(s) 57.12 second(s)
 [2021-04-12 05:17:22]: ***  [H, Level 0]: 'K!ked' entered and joined the game
+[2021-04-12 05:17:35]: ***  [H, Level 0]: 'MinniMemmel' entered and joined the game
+[2021-04-12 05:17:39]:   [, Level 0]: Random Guy: dude
+[2021-04-12 05:17:40]:   [, Level 0]: |ΛnץOиe|: he stay  here
