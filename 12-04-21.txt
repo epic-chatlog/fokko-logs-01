@@ -4439,3 +4439,10 @@
 [2021-04-12 03:44:57]: WarHammer' [DogParty, Level 17]: Fearless:  yes
 [2021-04-12 03:44:58]: |ΛnץOиe| [, Level 0]: Taip: go up
 [2021-04-12 03:44:59]:   [, Level 0]: SanoreX: float t = Client()->LocalTime();
+[2021-04-12 03:45:01]: |ΛnץOиe| [, Level 0]: sun.slow(y): he go up
+[2021-04-12 03:45:02]:   [, Level 0]: SanoreX:    m_InputData[g_Config.m_ClDummy].m_Jump = ((int)t);
+[2021-04-12 03:45:02]: WarHammer' [DogParty, Level 17]: Fearless:  but so bad
+[2021-04-12 03:45:04]: Good man [Drunks, Level 30]: CKA3A4NIK: ?
+[2021-04-12 03:45:04]: ***  [, Level 0]: '(1)NidardoHD' entered and joined the game
+[2021-04-12 03:45:11]: |ΛnץOиe| [, Level 0]: Taip: go up
+[2021-04-12 03:45:12]:   [, Level 0]: SanoreX: float t = Client()->LocalTime();
