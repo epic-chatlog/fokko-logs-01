@@ -7572,3 +7572,5 @@
 [2021-04-12 07:15:24]: УБИВАТЬ! [, Level 0]: BB
 [2021-04-12 07:15:28]: ***  [, Level 0]: 'УБИВАТЬ!' has left the game
 [2021-04-12 07:15:43]:   [, Level 0]: cunt: ReXi: Ja..
+[2021-04-12 07:15:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-12 07:15:51]: rexi [, Level 0]: was ja cunt
