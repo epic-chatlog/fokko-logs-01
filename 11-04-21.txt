@@ -11640,3 +11640,5 @@
 [2021-04-11 22:56:17]: Swarfey [FookinLads, Level 60]: ye xd
 [2021-04-11 22:56:38]: (1)ChillerDrago [|*KoG*|, Level 45]: muss maus pos iwi über ssh setzten
 [2021-04-11 22:56:40]: (1)ChillerDrago [|*KoG*|, Level 45]: das wäre bae
+[2021-04-11 22:56:59]: Swarfey [FookinLads, Level 60]: kannst du die in obs nich direkt ausmachen?
+[2021-04-11 22:57:03]: Swarfey [FookinLads, Level 60]: das ging iwie
