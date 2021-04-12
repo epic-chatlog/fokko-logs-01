@@ -14931,3 +14931,6 @@
 [2021-04-12 14:52:10]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 0 minute(s) 31.92 second(s)
 [2021-04-12 14:52:10]: ***  [, Level 0]: New record: 23.98 second(s) better.
 [2021-04-12 14:52:18]: YelloWorlD [DogParty, Level 38]: 1 1
+[2021-04-12 14:52:24]: YelloWorlD [DogParty, Level 38]: 1 2
+[2021-04-12 14:52:32]: YelloWorlD [DogParty, Level 38]: 1
+[2021-04-12 14:52:33]: YelloWorlD [DogParty, Level 38]: 1 3
