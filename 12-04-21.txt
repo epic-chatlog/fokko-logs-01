@@ -7090,3 +7090,8 @@
 [2021-04-12 06:35:48]:   [, Level 0]: mamikral011: Kezo: anab
 [2021-04-12 06:35:49]: ***  [, Level 0]: '(1)Boe o' wo ah' entered and joined the game
 [2021-04-12 06:35:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-12 06:35:57]: ***  [, Level 0]: '(1)Boe o' wo ah' has left the game
+[2021-04-12 06:35:57]: ***  [, Level 0]: '(1)Keiino' has left the game
+[2021-04-12 06:35:59]: ReXi [, Level 0]: fick die welt alter
+[2021-04-12 06:35:59]: ***  [, Level 0]: '(1)Keiino' entered and joined the game
+[2021-04-12 06:36:01]: ***  [, Level 0]: '(1)Keiino' has left the game (Timeout Protection used)
