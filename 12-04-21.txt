@@ -15655,3 +15655,4 @@
 [2021-04-12 15:55:29]: hhh3 [, Level 48]: ~DemoizL~: do you know Turkey_?
 [2021-04-12 15:55:34]: Kenshi™ [, Level 39]: ~DemoizL~: et a quel moment si je te demande tu vas tt arreter
 [2021-04-12 15:55:43]: ~DemoizL~ [, Level 39]: hhh3: yes
+[2021-04-12 15:55:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
