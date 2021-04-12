@@ -772,3 +772,6 @@
 [2021-04-12 01:02:32]: (1)SanoreX [Chilli.*, Level 0]: ϻɪɔʜɑʟ: I killing
 [2021-04-12 01:02:34]: (1)SanoreX [Chilli.*, Level 0]: no
 [2021-04-12 01:02:37]: ϻɪɔʜɑʟ [Banana fish, Level 24]: i go
+[2021-04-12 01:02:38]: (1)SanoreX [Chilli.*, Level 0]: I dont habe time
+[2021-04-12 01:02:41]: (1)SanoreX [Chilli.*, Level 0]: I dont have time
+[2021-04-12 01:02:48]: ***  [, Level 0]: 'Nidardo.' left the minigame 'Block'
