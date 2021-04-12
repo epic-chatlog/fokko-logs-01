@@ -14746,3 +14746,5 @@
 [2021-04-12 14:30:57]: ***  [, Level 0]: 'XxxBgLucas' entered and joined the game
 [2021-04-12 14:31:06]: GODLIKe [, Level 44]: YelloWorlD: heyy
 [2021-04-12 14:31:13]: ***  [, Level 0]: 'arther' joined the spectators
+[2021-04-12 14:31:14]: GODLIKe [, Level 44]: YelloWorlD: we die
+[2021-04-12 14:31:17]: ***  [, Level 0]: 'arther' joined the game
