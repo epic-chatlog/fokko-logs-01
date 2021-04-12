@@ -9780,3 +9780,7 @@
 [2021-04-12 09:14:17]: ***  [, Level 0]: 'BlackOfTheWhite' joined the game
 [2021-04-12 09:14:27]: Hunter.exe [DogParty, Level 37]: [D] mamikral011: :,(
 [2021-04-12 09:14:29]: ***  [, Level 0]: 'BlackOfTheWhite' joined the spectators
+[2021-04-12 09:14:31]: ***  [, Level 0]: '(1)random guy' entered and joined the game
+[2021-04-12 09:14:35]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-12 09:14:38]: [D] mamikral011 [DogParty, Level 21]: sHunter.exe: hahaha
+[2021-04-12 09:14:42]: Hunter.exe [DogParty, Level 37]: xDDD
