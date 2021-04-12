@@ -11521,3 +11521,5 @@
 [2021-04-11 21:52:58]: ***  [, Level 0]: 'Boti.' entered and joined the game
 [2021-04-11 21:54:59]: Boti. [.bad, Level 33]: ez jp
 [2021-04-11 21:55:00]: Swarfey [FookinLads, Level 60]: yo
+[2021-04-11 21:55:03]: Boti. [.bad, Level 33]: gm
+[2021-04-11 21:55:06]: Nudelsaft c: [FookinLads, Level 59]: gm
