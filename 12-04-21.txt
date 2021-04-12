@@ -698,3 +698,6 @@
 [2021-04-12 00:54:48]: ***  [, Level 0]: (1)SanoreX finished in: 6 minute(s) 38.36 second(s)
 [2021-04-12 00:54:49]: ***  [, Level 0]: (1)SanoreX.* finished in: 5 minute(s) 10.32 second(s)
 [2021-04-12 00:55:01]: ***  [, Level 0]: SanoreX finished in: 6 minute(s) 24.48 second(s)
+[2021-04-12 00:55:07]: ***  [, Level 0]: ϻɪɔʜɑʟ finished in: 4 minute(s)  7.04 second(s)
+[2021-04-12 00:55:07]: ***  [, Level 0]: New record: 36.40 second(s) better.
+[2021-04-12 00:55:10]: ***  [, Level 0]: 'Juzudek' has left the game
