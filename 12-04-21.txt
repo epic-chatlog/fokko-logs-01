@@ -141,3 +141,5 @@
 [2021-04-12 00:11:35]: ***  [, Level 0]: 'Kezo' entered and joined the game
 [2021-04-12 00:11:39]: Kezo [DogParty, Level 0]: otusbir
 [2021-04-12 00:11:51]: (1)ERROR [404, Level 47]: ???
+[2021-04-12 00:11:54]: ReXi [, Level 0]: Axandos:
+[2021-04-12 00:11:55]: Kezo [DogParty, Level 0]: makineniz uzun yaşar kalgonla
