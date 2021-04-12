@@ -2994,3 +2994,5 @@
 [2021-04-12 02:50:10]: ***  [, Level 0]: '(1)SanoreX.*' has left the game
 [2021-04-12 02:50:10]: ***  [, Level 0]: '(1)SanoreX' has left the game
 [2021-04-12 02:50:27]: Isegrin [, Level 55]: random guy: yesterday I was dependent again from Gerhand like eight arms
+[2021-04-12 02:50:33]: ERROR, [, Level 0]: error squad
+[2021-04-12 02:50:40]: SanoreX.* [Chilli.*, Level 22]: help ISEGRIN
