@@ -5941,3 +5941,8 @@
 [2021-04-12 05:20:05]: (1)Toniloni [, Level 19]: ?
 [2021-04-12 05:20:10]: Andresss [citrom, Level 1]: WHAT IS TASTER?
 [2021-04-12 05:20:12]: (1)Toniloni [, Level 19]: Cylox:
+[2021-04-12 05:20:18]: ***  [H, Level 0]: 'Axandos²' entered and joined the game
+[2021-04-12 05:20:19]:   [, Level 0]: Random Guy: XD|
+[2021-04-12 05:20:24]: ***  [H, Level 0]: random guy's killing spree was ended by i am noob (7 blocks)
+[2021-04-12 05:20:27]:   [, Level 0]: K!ked: drop shotgun
+[2021-04-12 05:20:28]:   [, Level 0]: K!ked: ;c
