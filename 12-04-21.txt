@@ -5461,3 +5461,9 @@
 [2021-04-12 04:51:26]: sun.slow(y) [FookinLads, Level 35]: Shy-ra.: you Killua girlfriend
 [2021-04-12 04:51:35]: Shy-ra. [, Level 0]: sun.slow(y): no
 [2021-04-12 04:51:51]: (1)kais [, Level 58]: El patron: so, he can't connect ?
+[2021-04-12 04:51:55]:   [, Level 0]: BULLETBOT: EZ
+[2021-04-12 04:51:58]: ***  [H, Level 0]: '(1)random guy' entered and joined the game
+[2021-04-12 04:51:59]: ***  [H, Level 0]: 'random guy' has left the game
+[2021-04-12 04:52:03]: ***  [H, Level 0]: '(1)random guy' changed name to 'random guy'
+[2021-04-12 04:52:03]: ***  [H, Level 0]: '1' entered and joined the game
+[2021-04-12 04:52:05]: Killua [FookinLads, Level 37]: FUCKING OCD
