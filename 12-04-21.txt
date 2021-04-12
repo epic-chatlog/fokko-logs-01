@@ -13193,3 +13193,4 @@
 [2021-04-12 12:51:55]: ☺ [, Level 16]: non tes bizarre
 [2021-04-12 12:51:58]: JustRace [DogParty, Level 36]: cl_aimbot 1
 [2021-04-12 12:52:18]: ☺ [, Level 16]: je te surveille
+[2021-04-12 12:52:33]: ***  [, Level 0]: 'Osilyz' changed name to 'Kezo'
