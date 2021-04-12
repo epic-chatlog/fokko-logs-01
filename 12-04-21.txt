@@ -7651,3 +7651,4 @@
 [2021-04-12 07:26:15]: (1)kais [, Level 58]: no
 [2021-04-12 07:26:20]: coca [, Level 22]: yes
 [2021-04-12 07:26:24]: (1)kais [, Level 58]: no
+[2021-04-12 07:26:41]: ***  [, Level 0]: 'darkstar3' entered and joined the game
