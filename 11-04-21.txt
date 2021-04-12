@@ -11714,3 +11714,4 @@
 [2021-04-11 23:10:26]: ***  [, Level 0]: 1 finished in: 2 minute(s) 41.46 second(s)
 [2021-04-11 23:10:29]: ***  [, Level 0]: Ðream finished in: 2 minute(s) 39.24 second(s)
 [2021-04-11 23:10:29]: ***  [, Level 0]: New record: 34.70 second(s) better.
+[2021-04-11 23:10:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
