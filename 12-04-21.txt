@@ -15808,3 +15808,5 @@
 [2021-04-12 16:24:47]: ***  [, Level 0]: 'Smici' entered and joined the game
 [2021-04-12 16:24:51]: ***  [, Level 0]: 'Smici' has left the game
 [2021-04-12 16:25:04]: Kenshi™ [, Level 39]: GReeeN: pas block
+[2021-04-12 16:25:09]: GReeeN [, Level 41]: neh
+[2021-04-12 16:25:10]: GReeeN [, Level 41]: xD
