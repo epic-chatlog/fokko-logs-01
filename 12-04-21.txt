@@ -11047,3 +11047,6 @@
 [2021-04-12 10:35:14]: [D] mamikral011 [DogParty, Level 21]: ok
 [2021-04-12 10:35:14]: WarHammer [DogParty, Level 26]: lolpoep:  5 mamikral011  4
 [2021-04-12 10:35:17]: WarHammer [DogParty, Level 26]: start
+[2021-04-12 10:35:28]: WarHammer [DogParty, Level 26]: mamikral011:  4 lolpoep  6
+[2021-04-12 10:35:32]: [D] mamikral011 [DogParty, Level 21]: ibo bi kerede o atlasın üstüme sikecem
+[2021-04-12 10:35:37]: WarHammer [DogParty, Level 26]: lolpoep:  go
