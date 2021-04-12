@@ -2431,3 +2431,10 @@
 [2021-04-12 02:26:08]: ERROR [404, Level 56]: langeweileö
 [2021-04-12 02:26:08]: Fearless [Retard MNKY, Level 40]: California:  + 2jump
 [2021-04-12 02:26:15]: Isegrin [, Level 55]: random guy: /pw me
+[2021-04-12 02:26:19]: ***  [, Level 0]: '[D] BC|serwan' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-12 02:26:19]: ***  [, Level 0]: 'BC|serwan' has left the game (Timeout)
+[2021-04-12 02:26:21]: random guy [, Level 0]: Isegrin: not from poland
+[2021-04-12 02:26:22]: California [, Level 34]: Fearless: yea cuz inf hook with dummy is fair right
+[2021-04-12 02:26:25]: Fearless [Retard MNKY, Level 40]: Isegrin:  men why so true police officer
+[2021-04-12 02:26:27]: Isegrin [, Level 55]: random guy: nice
+[2021-04-12 02:26:28]: Saud [MNKY, Level 0]: bruh
