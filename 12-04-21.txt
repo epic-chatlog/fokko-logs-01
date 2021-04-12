@@ -8344,3 +8344,6 @@
 [2021-04-12 08:13:40]: Intensiv_ [CrazzyNobbs, Level 0]: niye soruyorsun o zaman aq
 [2021-04-12 08:13:42]: ***  [, Level 0]: 'BlackOfTheWhite' joined the game
 [2021-04-12 08:13:46]: ***  [, Level 0]: '(1)ReXi' entered and joined the game
+[2021-04-12 08:13:48]: [D] mamikral011 [DogParty, Level 21]: Intensiv_: sana mı sorduk
+[2021-04-12 08:13:50]: ***  [, Level 0]: '(1)ReXi' has left the game
+[2021-04-12 08:13:58]: ***  [, Level 0]: 'jeder' has left the game
