@@ -5832,3 +5832,4 @@
 [2021-04-12 05:12:03]: ***  [H, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-12 05:12:03]: ***  [H, Level 0]: '[D] random guy' entered and joined the game
 [2021-04-12 05:12:07]: ***  [H, Level 0]: 'nameless tee' has left the game
+[2021-04-12 05:12:13]: [D] El patron [, Level 0]: (1)kais:  you can kill me now but when he comes with 4 dumies you will believe me
