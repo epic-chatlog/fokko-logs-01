@@ -11869,3 +11869,5 @@
 [2021-04-11 23:32:53]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
 [2021-04-11 23:33:04]: ***  [, Level 0]: '(1)ERROR.' entered and joined the game
 [2021-04-11 23:33:32]: [D]ϻɪɔʜɑʟ [Banana fish, Level 20]: Axandos: is pro SanoreX yes?
+[2021-04-11 23:33:54]: ***  [, Level 0]: 'Marcisten Dummy' entered and joined the game
+[2021-04-11 23:33:57]: ***  [, Level 0]: 'Impulsik221' entered and joined the game
