@@ -712,3 +712,6 @@
 [2021-04-12 00:56:10]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-12 00:56:10]: ***  [, Level 0]: 'Swarfey' has left the game
 [2021-04-12 00:56:11]: ***  [, Level 0]: 'keepertrain._.' entered and joined the game
+[2021-04-12 00:56:38]: İchMichel [, Level 31]: pls
+[2021-04-12 00:56:40]: İchMichel [, Level 31]: ı farm
+[2021-04-12 00:56:42]: ReXi [, Level 0]: omg
