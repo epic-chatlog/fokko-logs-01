@@ -5833,3 +5833,8 @@
 [2021-04-12 05:12:03]: ***  [H, Level 0]: '[D] random guy' entered and joined the game
 [2021-04-12 05:12:07]: ***  [H, Level 0]: 'nameless tee' has left the game
 [2021-04-12 05:12:13]: [D] El patron [, Level 0]: (1)kais:  you can kill me now but when he comes with 4 dumies you will believe me
+[2021-04-12 05:12:25]: Andresss [citrom, Level 1]: tee help meeee
+[2021-04-12 05:12:26]: ***  [H, Level 0]: 'УБИВАТЬ!' entered and joined the game
+[2021-04-12 05:12:27]: ***  [H, Level 0]: 'УБИВАТЬ!' has left the game
+[2021-04-12 05:12:29]: ***  [H, Level 0]: 'УБИВАТЬ!' entered and joined the game
+[2021-04-12 05:12:35]: [D] El patron [, Level 0]: (1)kais: wake up
