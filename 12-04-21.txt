@@ -11638,3 +11638,5 @@
 [2021-04-12 11:17:34]: |MıssOяchiĐ| [, Level 48]: WHAT AGAIN
 [2021-04-12 11:17:36]:   [, Level 0]: Taip: 140 ms
 [2021-04-12 11:17:37]:   [, Level 0]: Taip: xd
+[2021-04-12 11:18:08]: ***  [, Level 0]: 'SanoreX' has left the game (Timeout Protection over)
+[2021-04-12 11:18:11]: ***  [, Level 0]: 'Taip' has left the game
