@@ -5818,3 +5818,6 @@
 [2021-04-12 05:10:58]:   [, Level 0]: rexi: f
 [2021-04-12 05:11:00]:   [, Level 0]: rexi: warte
 [2021-04-12 05:11:02]: ***  [H, Level 0]: 'sun.slow(y)' has left the game
+[2021-04-12 05:11:11]:   [, Level 0]: rexi: öaaaaaaaags
+[2021-04-12 05:11:12]:   [, Level 0]: rexi: l
+[2021-04-12 05:11:20]:   [, Level 0]: rexi: das
