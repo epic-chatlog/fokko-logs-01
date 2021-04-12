@@ -15634,3 +15634,6 @@
 [2021-04-12 15:52:27]: ~DemoizL~ [, Level 39]: Kenshi™: tu parle, tu parle mais tu fais pas
 [2021-04-12 15:52:39]: Kenshi™ [, Level 39]: ~DemoizL~: nah, je dois m'assurer que tu n'ai strictement aucune chances, une prochaine fois peut-être
 [2021-04-12 15:52:54]: ~DemoizL~ [, Level 39]: Kenshi™: mdr t'as pas de couilles
+[2021-04-12 15:52:57]: ***  [, Level 0]: 'hhh3 [f-client]' entered and joined the game
+[2021-04-12 15:53:01]: ***  [, Level 0]: 'hhh3 [f-client]' has left the game
+[2021-04-12 15:53:03]: (1)☺ [, Level 11]: on sentrain Kenshi™
