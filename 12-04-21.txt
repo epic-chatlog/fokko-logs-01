@@ -5546,3 +5546,6 @@
 [2021-04-12 04:55:45]: ***  [H, Level 0]: '(2)Shy-ra.' entered and joined the game
 [2021-04-12 04:55:45]: rexi [, Level 0]: neeee duuuuu
 [2021-04-12 04:55:50]: ***  [H, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-12 04:56:01]: El patron [, Level 28]: (1)kais: ?
+[2021-04-12 04:56:03]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: FUC Ky
+[2021-04-12 04:56:08]: (1)kais [, Level 58]: El patron: sure, he can connect even if you're on his account
