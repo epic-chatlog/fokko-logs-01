@@ -6321,3 +6321,5 @@
 [2021-04-12 05:48:55]: ***  [, Level 0]: 'Adleg' has left the game
 [2021-04-12 05:48:55]:   [, Level 0]: mamikral011: rayen: stop or war
 [2021-04-12 05:48:57]: Axandos [, Level 0]: Hunter.exe:  du meintest das du ein mädchen bist
+[2021-04-12 05:49:08]: Hunter.exe [DogParty, Level 37]: Axandos: ja aber er bleibt leider bei der sache
+[2021-04-12 05:49:10]: Matiteusz [TrRShClNrRs, Level 36]: KURWA
