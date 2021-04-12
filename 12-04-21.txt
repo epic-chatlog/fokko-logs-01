@@ -2967,3 +2967,7 @@
 [2021-04-12 02:48:19]: (1)SanoreX.* [Chilli.*, Level 0]: Tixnix: look
 [2021-04-12 02:48:26]: random guy [, Level 0]: Isegrin: oh i see
 [2021-04-12 02:48:26]: ***  [, Level 0]: 'Zephir™' changed name to '(3)ERROR'
+[2021-04-12 02:48:33]: ERROR [404, Level 56]: xD
+[2021-04-12 02:48:34]: (1)SanoreX.* [Chilli.*, Level 0]: omg
+[2021-04-12 02:48:37]: (1)SanoreX.* [Chilli.*, Level 0]: all have jet
+[2021-04-12 02:48:39]: (3)ERROR [, Level 39]: ERROR: xD
