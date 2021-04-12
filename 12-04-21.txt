@@ -6415,3 +6415,7 @@
 [2021-04-12 05:54:05]: ***  [, Level 0]: 'coprophile' entered and joined the game
 [2021-04-12 05:54:06]: Hunter.exe [DogParty, Level 37]: Axandos: aber glaub mir du wirst es nicht gut überleben
 [2021-04-12 05:54:12]:   [, Level 0]: WarHammer: (1)VD|HolyHo|°:  DONT TOUCH ME
+[2021-04-12 05:54:13]: Axandos² [, Level 20]: Hunter.exe:  drohst nur mit war
+[2021-04-12 05:54:14]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 36.90 second(s)
+[2021-04-12 05:54:18]: Axandos² [, Level 20]: obwohl du losed
+[2021-04-12 05:54:22]: ***  [, Level 0]: Lucas finished in: 3 minute(s) 25.32 second(s)
