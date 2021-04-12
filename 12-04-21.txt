@@ -7450,3 +7450,6 @@
 [2021-04-12 07:07:22]: ***  [, Level 0]: 'El patron' entered and joined the game
 [2021-04-12 07:07:24]: ***  [, Level 0]: 'El patron' has left the game
 [2021-04-12 07:07:25]: ***  [, Level 0]: 'JOSHUA' joined the game
+[2021-04-12 07:07:29]: ***  [, Level 0]: 'Juzudek' has left the game
+[2021-04-12 07:07:31]: ***  [, Level 0]: 'tetano' joined the spectators
+[2021-04-12 07:07:35]: ***  [, Level 0]: 'tetano' joined the game
