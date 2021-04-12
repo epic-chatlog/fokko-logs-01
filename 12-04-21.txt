@@ -6439,3 +6439,8 @@
 [2021-04-12 05:55:08]:   [, Level 0]: Foxie♥: lag
 [2021-04-12 05:55:12]: ***  [, Level 0]: 'Cosmo' has left the game
 [2021-04-12 05:55:14]: Hunter.exe [DogParty, Level 37]: Axandos: ein friendly pve server?
+[2021-04-12 05:55:16]: Flupper [, Level 0]: rocket
+[2021-04-12 05:55:22]: Hunter.exe [DogParty, Level 37]: Axandos: denke du spielst auf den falschen server
+[2021-04-12 05:55:23]: Flupper [, Level 0]: rocket
+[2021-04-12 05:55:24]: ***  [, Level 0]: 'Adleg' entered and joined the game
+[2021-04-12 05:55:26]: Flupper [, Level 0]: grenade
