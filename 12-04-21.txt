@@ -8399,3 +8399,4 @@
 [2021-04-12 08:16:31]: [D] mamikral011 [DogParty, Level 21]: prooo
 [2021-04-12 08:16:32]: ***  [, Level 0]: 'Tziys*' entered and joined the game
 [2021-04-12 08:16:36]: ***  [, Level 0]: 'BlackOfTheWhite' joined the spectators
+[2021-04-12 08:16:40]: ***  [, Level 0]: 'BlackOfTheWhite' joined the game
