@@ -2993,3 +2993,4 @@
 [2021-04-12 02:50:04]: (1)SanoreX.* [Chilli.*, Level 0]: I leaving in 2. window
 [2021-04-12 02:50:10]: ***  [, Level 0]: '(1)SanoreX.*' has left the game
 [2021-04-12 02:50:10]: ***  [, Level 0]: '(1)SanoreX' has left the game
+[2021-04-12 02:50:27]: Isegrin [, Level 55]: random guy: yesterday I was dependent again from Gerhand like eight arms
