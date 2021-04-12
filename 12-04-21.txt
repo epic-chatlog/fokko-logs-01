@@ -11540,3 +11540,6 @@
 [2021-04-12 11:09:04]: ***  [, Level 0]: 'El patron' entered and joined the game
 [2021-04-12 11:09:05]: ☺ [, Level 16]: non je dois gagner beaucoup dexp |MıssOяchiĐ|
 [2021-04-12 11:09:11]: ***  [, Level 0]: 'vahema' changed name to 'WarHAmmer'
+[2021-04-12 11:09:16]: ***  [, Level 0]: 'WarHAmmer' changed name to 'WarHammer'
+[2021-04-12 11:09:17]: ☺ [, Level 16]: |MıssOяchiĐ|: et je mange bye
+[2021-04-12 11:09:22]: ***  [, Level 0]: 'Keiino' entered and joined the game
