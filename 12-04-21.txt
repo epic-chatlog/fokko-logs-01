@@ -14712,3 +14712,5 @@
 [2021-04-12 14:27:25]: ***  [, Level 0]: 'arther' entered and joined the game
 [2021-04-12 14:27:26]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-12 14:27:26]: ***  [, Level 0]: 'Cylox.' has left the game
+[2021-04-12 14:27:39]: GReeeN [, Level 41]: ReXi:  bin erst 22 xD
+[2021-04-12 14:27:49]: ReXi [, Level 0]: "erst"
