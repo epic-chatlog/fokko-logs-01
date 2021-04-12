@@ -11537,3 +11537,6 @@
 [2021-04-12 11:08:33]:   [, Level 0]: Falco641: DeD: gay
 [2021-04-12 11:08:39]: ***  [, Level 0]: 'igorejro17' has left the game
 [2021-04-12 11:08:59]: ***  [, Level 0]: 'vahema' entered and joined the game
+[2021-04-12 11:09:04]: ***  [, Level 0]: 'El patron' entered and joined the game
+[2021-04-12 11:09:05]: ☺ [, Level 16]: non je dois gagner beaucoup dexp |MıssOяchiĐ|
+[2021-04-12 11:09:11]: ***  [, Level 0]: 'vahema' changed name to 'WarHAmmer'
