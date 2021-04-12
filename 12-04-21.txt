@@ -4487,3 +4487,7 @@
 [2021-04-12 03:46:21]:   [, Level 0]: Taip: yes
 [2021-04-12 03:46:23]: sun.slow(y) [FookinLads, Level 35]: Kenshi™: and come back
 [2021-04-12 03:46:27]:   [, Level 0]: ReXi: Axandos: war nur überrascht
+[2021-04-12 03:46:30]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
+[2021-04-12 03:46:31]: CKA3A4NIK[NR] [Night Raid, Level 35]: Good man:  ты кто?
+[2021-04-12 03:46:31]:   [, Level 0]: Taip: what is bad
+[2021-04-12 03:46:32]: Axandos² [, Level 20]: wieso ReXi
