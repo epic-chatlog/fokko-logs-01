@@ -1345,3 +1345,5 @@
 [2021-04-12 01:38:59]: ***  [, Level 0]: 'tymeeq' has left the game
 [2021-04-12 01:39:00]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
 [2021-04-12 01:39:00]: Black Wolf [, Level 11]: ERROR: hi :D
+[2021-04-12 01:39:11]: ***  [, Level 0]: 'Killermine178' has left the game
+[2021-04-12 01:39:16]: S Y T H N [DogParty, Level 37]: wtf
