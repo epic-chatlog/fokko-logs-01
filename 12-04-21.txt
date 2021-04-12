@@ -9585,3 +9585,6 @@
 [2021-04-12 09:04:59]: ***  [, Level 0]: 'Foawoar' has left the game
 [2021-04-12 09:05:00]: ***  [, Level 0]: УБИВАТЬ! is on a killing spree with 5 blocks
 [2021-04-12 09:05:01]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-12 09:05:06]: ***  [, Level 0]: 'Asta' entered and joined the game
+[2021-04-12 09:05:11]: ***  [, Level 0]: 'QON QON' has left the game
+[2021-04-12 09:05:12]: ***  [, Level 0]: 'QON QON' entered and joined the game
