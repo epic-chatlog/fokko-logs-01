@@ -9624,3 +9624,5 @@
 [2021-04-12 09:06:40]: ***  [, Level 0]: 'Asta' has left the game
 [2021-04-12 09:07:04]: [D] mamikral011 [DogParty, Level 21]: cya: ?
 [2021-04-12 09:07:05]: Cylox. [♥, Level 24]: sorry
+[2021-04-12 09:07:06]:   [, Level 0]: Supers: ~DemoizL~:  u need to wait
+[2021-04-12 09:07:06]: WarHammer [DogParty, Level 26]: mamikral011:  nub
