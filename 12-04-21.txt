@@ -7703,3 +7703,6 @@
 [2021-04-12 07:32:36]: ***  [, Level 0]: New record: 1 minute(s)  3.02 second(s) better.
 [2021-04-12 07:32:45]: Good man [Drunks, Level 30]: Kenshi™:  i dont blocked you
 [2021-04-12 07:32:46]: Kenshi™ [, Level 39]: Good man: ask [D] El patron
+[2021-04-12 07:32:51]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-12 07:32:55]: Good man [Drunks, Level 30]: El patron: can i be helped?
+[2021-04-12 07:32:57]: Kenshi™ [, Level 39]: any:
