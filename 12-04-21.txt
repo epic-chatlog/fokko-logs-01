@@ -1754,3 +1754,5 @@
 [2021-04-12 01:56:01]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
 [2021-04-12 01:56:01]: ***  [, Level 0]: 'fokkonaut' has left the game
 [2021-04-12 01:56:02]:   [, Level 0]: Isegrin: Meetiteusz: zajep sie w leb
+[2021-04-12 01:56:05]: Kenshi™ [, Level 0]: Hunter.exe: not my war, but i need fight
+[2021-04-12 01:56:07]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin: juz to zropilem
