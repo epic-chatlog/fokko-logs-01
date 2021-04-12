@@ -1796,3 +1796,10 @@
 [2021-04-12 01:58:22]: Kenshi™ [, Level 0]: GODLIKe: i see u block him no ?
 [2021-04-12 01:58:24]: Isegrin [, Level 55]: Matiteusz: gdzie
 [2021-04-12 01:58:26]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin: ja jem ale nie bo nie jadlem
+[2021-04-12 01:58:30]: GODLIKe [, Level 44]: Hunter.exe: pls say Kenshi™
+[2021-04-12 01:58:31]: ReXi [, Level 0]: rip
+[2021-04-12 01:58:31]:   [, Level 0]: Hunter.exe: Kenshi™:
+[2021-04-12 01:58:35]: Matiteusz [TrRShClNrRs, Level 35]: Isegrin: za siedmioma lasami
+[2021-04-12 01:58:36]: ***  [, Level 0]: '(1)1' has left the game (Timeout)
+[2021-04-12 01:58:36]: ***  [, Level 0]: '1' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-12 01:58:42]: Isegrin [, Level 55]: Matiteusz: jakie wojewudztwo
