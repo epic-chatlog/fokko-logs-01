@@ -15106,3 +15106,5 @@
 [2021-04-12 15:04:42]: ***  [, Level 0]: rayen finished in: 21 minute(s) 11.70 second(s)
 [2021-04-12 15:04:43]: ***  [, Level 0]: Eden finished in: 7 minute(s)  4.68 second(s)
 [2021-04-12 15:04:43]: ***  [, Level 0]: 'Eden' finished the special race!
+[2021-04-12 15:04:48]: [D] ♥TAKO♥ [DogParty, Level 0]: GODLIKe:  portal komudu ney
+[2021-04-12 15:04:55]: GODLIKe [, Level 44]: [D] ♥TAKO♥: +rifle portal
