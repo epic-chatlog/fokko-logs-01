@@ -9588,3 +9588,6 @@
 [2021-04-12 09:05:06]: ***  [, Level 0]: 'Asta' entered and joined the game
 [2021-04-12 09:05:11]: ***  [, Level 0]: 'QON QON' has left the game
 [2021-04-12 09:05:12]: ***  [, Level 0]: 'QON QON' entered and joined the game
+[2021-04-12 09:05:19]: ***  [, Level 0]: 'dom' entered and joined the game
+[2021-04-12 09:05:21]: ***  [, Level 0]: УБИВАТЬ!'s killing spree was ended by BC|Tixnix (8 blocks)
+[2021-04-12 09:05:22]: ***  [, Level 0]: 'Asta' has left the game
