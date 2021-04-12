@@ -11614,3 +11614,5 @@
 [2021-04-12 11:14:36]: ***  [, Level 0]: 'Dagonaut' entered and joined the game
 [2021-04-12 11:15:09]: |ΛnץOиe| [, Level 0]: Hunter.exe: u shoot me
 [2021-04-12 11:15:10]: |ΛnץOиe| [, Level 0]: Hunter.exe: xd
+[2021-04-12 11:15:20]: ***  [, Level 0]: '[D] tee' has left the game
+[2021-04-12 11:15:20]: ***  [, Level 0]: 'tee' has left the game
