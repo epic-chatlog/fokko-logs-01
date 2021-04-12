@@ -7374,3 +7374,7 @@
 [2021-04-12 06:59:59]:   [, Level 0]: mamikral011: (1)Cosmo: help offf
 [2021-04-12 07:00:00]: any [404, Level 38]: Kenshi™: oki
 [2021-04-12 07:00:03]:   [, Level 0]: mamikral011: Recep: yardım
+[2021-04-12 07:00:07]: ***  [, Level 0]: 'tetano' joined the spectators
+[2021-04-12 07:00:10]:   [, Level 0]: mamikral011: Recep: war
+[2021-04-12 07:00:11]: ***  [, Level 0]: 'tetano' joined the game
+[2021-04-12 07:00:14]: Recep [VergleriSay, Level 0]: şaka ln
