@@ -5937,3 +5937,7 @@
 [2021-04-12 05:19:50]: ***  [H, Level 0]: Lucas finished in: 4 minute(s)  1.70 second(s)
 [2021-04-12 05:19:52]: ReXi [, Level 0]: (1)VD|HolyHo|°: why
 [2021-04-12 05:19:56]: Andresss [citrom, Level 1]: what is taster?
+[2021-04-12 05:20:05]:   [, Level 0]: JAMARO: how to use shop
+[2021-04-12 05:20:05]: (1)Toniloni [, Level 19]: ?
+[2021-04-12 05:20:10]: Andresss [citrom, Level 1]: WHAT IS TASTER?
+[2021-04-12 05:20:12]: (1)Toniloni [, Level 19]: Cylox:
