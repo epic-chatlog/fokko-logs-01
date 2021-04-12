@@ -13266,3 +13266,7 @@
 [2021-04-12 12:57:21]: [D] mamikral011 [DogParty, Level 21]: DeD:
 [2021-04-12 12:57:22]: ***  [, Level 0]: 'arther' has left the game
 [2021-04-12 12:57:32]: Nightmare. [, Level 20]: weqe: FULL BONUS NOOB
+[2021-04-12 12:57:33]: ***  [, Level 0]: 'Schubbi' entered and joined the game
+[2021-04-12 12:57:34]: [D] mamikral011 [DogParty, Level 21]: DeD: *
+[2021-04-12 12:57:38]: [D] mamikral011 [DogParty, Level 21]: Lucas:
+[2021-04-12 12:57:38]: Nightmare. [, Level 20]: weqe: FULL BONUS NOOB
