@@ -1578,3 +1578,6 @@
 [2021-04-12 01:47:05]: Kiøn1029 [.bad, Level 32]: S Y T H N: my brother is not playing with that game
 [2021-04-12 01:47:16]:   [, Level 0]: WarHammer: SA
 [2021-04-12 01:47:17]: ERROR [404, Level 56]: foko spread ? xd
+[2021-04-12 01:47:20]: S Y T H N [DogParty, Level 37]: Kiøn1029: oh someone said its ur brother
+[2021-04-12 01:47:22]: ***  [, Level 0]: '(2)Shy-ra.' entered and joined the game
+[2021-04-12 01:47:26]: ERROR [404, Level 56]: fokkonaut: spread ? xd
