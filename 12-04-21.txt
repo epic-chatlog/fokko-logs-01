@@ -5467,3 +5467,4 @@
 [2021-04-12 04:52:03]: ***  [H, Level 0]: '(1)random guy' changed name to 'random guy'
 [2021-04-12 04:52:03]: ***  [H, Level 0]: '1' entered and joined the game
 [2021-04-12 04:52:05]: Killua [FookinLads, Level 37]: FUCKING OCD
+[2021-04-12 04:52:16]: sun.slow(y) [FookinLads, Level 35]: FUU
