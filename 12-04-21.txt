@@ -11642,3 +11642,4 @@
 [2021-04-12 11:18:11]: ***  [, Level 0]: 'Taip' has left the game
 [2021-04-12 11:18:23]: ***  [, Level 0]: 'PANZELKOWY' entered and joined the game
 [2021-04-12 11:18:25]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-12 11:18:43]: [D] mamikral011 [DogParty, Level 21]: Hunter.exe: come come
