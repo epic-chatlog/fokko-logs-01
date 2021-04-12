@@ -398,3 +398,7 @@
 [2021-04-12 00:28:13]: ReXi [, Level 0]: California:
 [2021-04-12 00:28:13]: ***  [, Level 0]: 1 finished in: 0 minute(s) 58.22 second(s)
 [2021-04-12 00:28:27]: ReXi [, Level 0]: California: down pls
+[2021-04-12 00:28:58]: rexi [, Level 0]: Axandos: hast du endless
+[2021-04-12 00:29:01]: Axandos² [, Level 20]: me
+[2021-04-12 00:29:03]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
+[2021-04-12 00:29:03]: Axandos² [, Level 20]: ne
