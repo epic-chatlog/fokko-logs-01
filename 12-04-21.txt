@@ -4596,3 +4596,7 @@
 [2021-04-12 03:51:50]: ***  [, Level 0]: 'Taip' has left the game
 [2021-04-12 03:51:50]: ***  [, Level 0]: 'Recep' has left the game
 [2021-04-12 03:51:55]: ***  [, Level 0]: '(1)flappy.*' entered and joined the game
+[2021-04-12 03:52:01]: ***  [, Level 0]: '(1)Good man' has left the game
+[2021-04-12 03:52:03]: ***  [, Level 0]: 'Mathew' entered and joined the game
+[2021-04-12 03:52:07]: Fearless [, Level 40]: who plays gta 5?
+[2021-04-12 03:52:08]:   [, Level 0]: SanoreX: wow hax
