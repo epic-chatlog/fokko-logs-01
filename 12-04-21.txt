@@ -7355,3 +7355,7 @@
 [2021-04-12 06:58:29]: Taip [VergleriSay, Level 15]: xD
 [2021-04-12 06:58:33]: ***  [, Level 0]: 'Recep' entered and joined the game
 [2021-04-12 06:58:38]: ***  [, Level 0]: 'Tziys*' entered and joined the game
+[2021-04-12 06:58:40]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-12 06:58:40]: ***  [, Level 0]: 'Kezo' has left the game
+[2021-04-12 06:58:42]: ***  [, Level 0]: 'Cosmo' finished the special race!
+[2021-04-12 06:58:46]: WarHammer' [DogParty, Level 17]: KEZO AMK
