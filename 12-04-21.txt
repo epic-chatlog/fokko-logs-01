@@ -109,3 +109,5 @@
 [2021-04-12 00:08:54]: (1)ERROR [404, Level 47]: schuldest du mir 2mio money
 [2021-04-12 00:08:57]: (1)ERROR [404, Level 47]: xD
 [2021-04-12 00:09:03]: fokkonaut [, Level 102]: ERROR: u
+[2021-04-12 00:09:09]: (1)ERROR [404, Level 47]: fokkonaut:  /pay 2000000 ERROR
+[2021-04-12 00:09:11]: (1)ERROR [404, Level 47]: xD
