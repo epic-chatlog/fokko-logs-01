@@ -11038,3 +11038,9 @@
 [2021-04-12 10:34:50]: [D] mamikral011 [DogParty, Level 21]: başla de ibo
 [2021-04-12 10:34:50]: WarHammer [DogParty, Level 26]: lolpoep:  5 mamikral011  3
 [2021-04-12 10:34:55]: WarHammer [DogParty, Level 26]: start
+[2021-04-12 10:35:04]: WarHammer [DogParty, Level 26]: lolpoep:  5 mamikral011  4
+[2021-04-12 10:35:06]: WarHammer [DogParty, Level 26]: start
+[2021-04-12 10:35:08]: lolpoep [, Level 0]: oke
+[2021-04-12 10:35:10]: WarHammer [DogParty, Level 26]: dur
+[2021-04-12 10:35:10]: ***  [, Level 0]: 'Lucas' has left the game
+[2021-04-12 10:35:12]: WarHammer [DogParty, Level 26]: sayılmaz
