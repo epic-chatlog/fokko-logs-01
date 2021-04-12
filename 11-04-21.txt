@@ -11892,3 +11892,8 @@
 [2021-04-11 23:35:44]: ***  [, Level 0]: '1' finished the special race!
 [2021-04-11 23:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-11 23:36:03]: Axandos [, Level 25]: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[2021-04-11 23:36:15]: ***  [, Level 0]: Marcisten finished in: 7 minute(s) 32.44 second(s)
+[2021-04-11 23:36:16]: MORFY [, Level 29]: xd
+[2021-04-11 23:36:18]: MORFY [, Level 29]: ty
+[2021-04-11 23:36:22]: ***  [, Level 0]: Marcisten Dummy finished in: 1 minute(s) 32.84 second(s)
+[2021-04-11 23:36:22]: ***  [, Level 0]: New record: 45.22 second(s) better.
