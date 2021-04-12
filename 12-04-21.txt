@@ -2972,3 +2972,5 @@
 [2021-04-12 02:48:37]: (1)SanoreX.* [Chilli.*, Level 0]: all have jet
 [2021-04-12 02:48:39]: (3)ERROR [, Level 39]: ERROR: xD
 [2021-04-12 02:49:03]: ***  [, Level 0]: ### '(1)SanoreX.*' @everyone I am at police who want jetpack
+[2021-04-12 02:49:07]: ***  [, Level 0]: ### '(1)SanoreX' @everyone I am at police who want jetpack
+[2021-04-12 02:49:11]: ***  [, Level 0]: '(3)ERROR' changed name to 'ERROR,'
