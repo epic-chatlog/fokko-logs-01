@@ -7875,3 +7875,8 @@
 [2021-04-12 07:45:19]: ***  [, Level 0]: New record: 31.70 second(s) better.
 [2021-04-12 07:45:19]:   [, Level 0]: [D] mamikral011: anana
 [2021-04-12 07:45:22]:   [, Level 0]: ☺: ReXi:
+[2021-04-12 07:45:44]: ***  [, Level 0]: 'taco bell' entered and joined the game
+[2021-04-12 07:45:47]:   [, Level 0]: GODLIKe: mamikral011: |ΛnץOиe| etme yardım
+[2021-04-12 07:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-12 07:45:50]: |MıssOяchiĐ| [, Level 48]: [D] mamikral011: ?
+[2021-04-12 07:45:51]: (1)kais [, Level 58]: RQ
