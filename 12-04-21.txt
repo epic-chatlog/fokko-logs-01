@@ -2945,3 +2945,7 @@
 [2021-04-12 02:47:22]: ChillerDragon [Chilli.*, Level 10]: Error: BC|kakashi failed to remote control (invalid token)
 [2021-04-12 02:47:22]:   [, Level 0]: Marcisten: (2)Shy-ra.: you blocked me from endelss, what do you expect? to smile on you?
 [2021-04-12 02:47:26]: ***  [, Level 0]: 'El patron' entered and joined the game
+[2021-04-12 02:47:26]: (2)ERROR [FAKE ERROR, Level 40]: Zephir™:  spec we are slaves for ERROR
+[2021-04-12 02:47:28]: Cylox [, Level 0]: (1)SanoreX: amk sıze yardım ettım benı bırakıp gıttınız
+[2021-04-12 02:47:30]: random guy [, Level 0]: Isegrin: wczoraj spotykałem się z Gerhardem jak ośmioręki
+[2021-04-12 02:47:37]: (1)SanoreX [Chilli.*, Level 0]: aldaz
