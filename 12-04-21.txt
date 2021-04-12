@@ -999,3 +999,4 @@
 [2021-04-12 01:18:03]: S Y T H N [DogParty, Level 37]: Saud: fat
 [2021-04-12 01:18:03]: Saud [, Level 0]: bruh
 [2021-04-12 01:18:07]: ***  [, Level 0]: 'madza B)' entered and joined the game
+[2021-04-12 01:18:11]: ***  [, Level 0]: 'madza B)' has left the game
