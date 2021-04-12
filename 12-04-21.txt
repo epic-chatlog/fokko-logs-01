@@ -10890,3 +10890,4 @@
 [2021-04-12 10:21:02]: ***  [, Level 0]: '(1)Lucas' has left the game
 [2021-04-12 10:21:04]: ***  [, Level 0]: 'Lucas' entered and joined the game
 [2021-04-12 10:21:08]: УБИВАТЬ! [, Level 0]: GG
+[2021-04-12 10:21:33]: ***  [, Level 0]: 'Taip' entered and joined the game
