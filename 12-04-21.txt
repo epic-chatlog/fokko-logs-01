@@ -4506,3 +4506,6 @@
 [2021-04-12 03:47:09]:   [, Level 0]: Taip: helpppp
 [2021-04-12 03:47:11]: Recep [VergleriSay, Level 0]: helppp
 [2021-04-12 03:47:16]: ***  [, Level 0]: 'flappy.*' entered and joined the game
+[2021-04-12 03:47:32]:   [, Level 0]: Taip: Nudelsaft c: help
+[2021-04-12 03:47:36]: coca [, Level 22]: Fearless: im team
+[2021-04-12 03:47:40]: ***  [, Level 0]: ### 'WarHammer'' xd
