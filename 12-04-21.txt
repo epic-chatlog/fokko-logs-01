@@ -5948,3 +5948,5 @@
 [2021-04-12 05:20:28]:   [, Level 0]: K!ked: ;c
 [2021-04-12 05:20:31]:   [, Level 0]: blazingd420: stop moving
 [2021-04-12 05:20:50]: ***  [H, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-12 05:20:57]:   [, Level 0]: Random Guy: dude
+[2021-04-12 05:20:58]:   [, Level 0]: Random Guy: lags
