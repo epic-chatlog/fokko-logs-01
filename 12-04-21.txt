@@ -6990,3 +6990,8 @@
 [2021-04-12 06:25:08]: Saud [MNKY, Level 24]: El patron:
 [2021-04-12 06:25:10]: ***  [, Level 0]: Flipper is on a killing spree with 5 blocks
 [2021-04-12 06:25:14]: Saud [MNKY, Level 24]: El patron: we have war
+[2021-04-12 06:25:19]: El patron [, Level 28]: Saud: K
+[2021-04-12 06:25:20]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-12 06:25:21]: ***  [, Level 0]: Kezo is on a killing spree with 5 blocks
+[2021-04-12 06:25:21]: Saud [MNKY, Level 24]: El patron:  poeace>?
+[2021-04-12 06:25:21]:   [, Level 0]: mamikral011: ReXi: sorry bro no atack
