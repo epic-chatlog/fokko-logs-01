@@ -7277,3 +7277,4 @@
 [2021-04-12 06:51:41]: ***  [, Level 0]: 'tetano' joined the spectators
 [2021-04-12 06:51:42]: WarHammer [DogParty, Level 26]: EHE
 [2021-04-12 06:51:43]: Hunter.exe [DogParty, Level 37]: mamikral011:
+[2021-04-12 06:51:45]: ***  [, Level 0]: 'tetano' joined the game
