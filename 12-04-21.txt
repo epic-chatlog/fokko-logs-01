@@ -15392,3 +15392,4 @@
 [2021-04-12 15:26:57]: Kenshi™ [, Level 39]: YelloWorlD: dacc
 [2021-04-12 15:26:59]: GOLD [404, Level 40]: mamikral011:
 [2021-04-12 15:27:06]: ***  [, Level 0]: '(2)Kirito' has left the game (Timeout)
+[2021-04-12 15:27:11]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
