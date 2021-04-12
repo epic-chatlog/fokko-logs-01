@@ -7155,3 +7155,7 @@
 [2021-04-12 06:40:18]: ***  [, Level 0]: 'WOModerMra' has left the game
 [2021-04-12 06:40:37]: WarHammer [DogParty, Level 26]: Kezo:  nub
 [2021-04-12 06:40:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-12 06:40:59]:   [, Level 0]: mamikral011: anaanan
+[2021-04-12 06:41:02]:   [, Level 0]: mamikral011: WarHammer': keserim
+[2021-04-12 06:41:03]: coca [, Level 22]: goooooooooood
+[2021-04-12 06:41:07]: Good man [Drunks, Level 30]: any: thx
