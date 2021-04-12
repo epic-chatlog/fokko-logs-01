@@ -3724,3 +3724,5 @@
 [2021-04-12 03:16:40]: MieSlime [FookinLads, Level 43]: Axandos:  tf is WRUST ??
 [2021-04-12 03:16:45]: Fearless [, Level 40]: your dad
 [2021-04-12 03:16:47]: Axandos² [, Level 20]: MieSlime:  sausage in GERMANY
+[2021-04-12 03:16:52]: Fearless [, Level 40]: Axandos²:  THATS WURST
+[2021-04-12 03:16:58]: Axandos² [, Level 20]: Fearless YES
