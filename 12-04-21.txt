@@ -945,3 +945,5 @@
 [2021-04-12 01:14:43]: Zephir™ [, Level 39]: Axandos: last chance, stop attacking me
 [2021-04-12 01:14:43]: [D] keepertrain [, Level 25]: Axandos: 5min
 [2021-04-12 01:14:52]: [D] keepertrain [, Level 25]: This message means i pressed F3
+[2021-04-12 01:15:02]: [D] keepertrain [, Level 25]: SanoreX: its live
+[2021-04-12 01:15:07]: SanoreX [Chilli.*, Level 27]: ez
