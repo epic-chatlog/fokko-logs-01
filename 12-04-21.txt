@@ -7656,3 +7656,5 @@
 [2021-04-12 07:27:04]: ***  [, Level 0]: 'tetano' entered and joined the game
 [2021-04-12 07:27:09]: ***  [, Level 0]: 'tetano' has left the game
 [2021-04-12 07:27:09]: coca [, Level 22]: Kirito: thx for help
+[2021-04-12 07:27:18]: coca [, Level 22]: Kirito: dummy his
+[2021-04-12 07:27:19]: coca [, Level 22]: Kirito:
