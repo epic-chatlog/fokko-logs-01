@@ -5809,3 +5809,8 @@
 [2021-04-12 05:10:33]:   [, Level 0]: rexi: ey
 [2021-04-12 05:10:36]:   [, Level 0]: rexi: guck ma
 [2021-04-12 05:10:38]:   [, Level 0]: rexi: was ich kann
+[2021-04-12 05:10:50]: ***  [H, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-12 05:10:50]:   [, Level 0]: rexi: warteeeeeeee
+[2021-04-12 05:10:50]:   [, Level 0]: Axandos: krass
+[2021-04-12 05:10:53]: ***  [H, Level 0]: '1' finished the special race!
+[2021-04-12 05:10:54]: Isegrin [, Level 55]: (1)VD|HolyHo|: gay
