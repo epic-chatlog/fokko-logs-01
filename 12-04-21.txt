@@ -13197,3 +13197,5 @@
 [2021-04-12 12:52:41]: JustRace [DogParty, Level 36]: VD|HolyHo|:  omule, esti normal?
 [2021-04-12 12:52:48]: JustRace [DogParty, Level 36]: VD|HolyHo|°:  un loc pt fiecare desteptule
 [2021-04-12 12:52:48]: VD|HolyHo|° [VsDoggo´s, Level 19]: JustRace: english
+[2021-04-12 12:53:11]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-12 12:53:11]: ***  [, Level 0]: 'Cylox.' has left the game
