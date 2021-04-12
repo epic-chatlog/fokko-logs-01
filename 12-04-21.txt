@@ -8269,3 +8269,7 @@
 [2021-04-12 08:10:02]: ***  [, Level 0]: 'Asta' entered and joined the game
 [2021-04-12 08:10:10]: ***  [, Level 0]: 'Asta' has left the game
 [2021-04-12 08:10:12]: Kezo [DogParty, Level 41]: [D] ♥TAKO♥: DOKUNMA ONA
+[2021-04-12 08:10:20]: (1)GODLIKe [, Level 44]: (1)Sayme: u wanna war ?
+[2021-04-12 08:10:24]: MieSlime [FookinLads, Level 43]: |MıssOяchiĐ|:  ta accepter ?
+[2021-04-12 08:10:27]: |MıssOяchiĐ| [, Level 48]: MieSlime: ui
+[2021-04-12 08:10:29]:   [, Level 0]: Taip: helpp
