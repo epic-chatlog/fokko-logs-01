@@ -10537,3 +10537,5 @@
 [2021-04-12 09:52:03]: BC|Tixnix [BC, Level 34]: cookie: WHY NO
 [2021-04-12 09:52:08]:   [, Level 0]: Lucas: BC|serwan: ------_______--------
 [2021-04-12 09:52:09]: cookie [, Level 0]: BC|Tixnix:  im a frend
+[2021-04-12 09:52:17]: BC|Tixnix [BC, Level 34]: cookie: NO
+[2021-04-12 09:52:18]:   [, Level 0]: Kenshi™: Tixnix: ?
