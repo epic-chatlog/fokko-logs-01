@@ -15447,3 +15447,6 @@
 [2021-04-12 15:32:55]: GOLD [404, Level 40]: Kenshi™: mais bon
 [2021-04-12 15:33:01]: GOLD [404, Level 40]: Kenshi™: mots de la fin train toi hammer
 [2021-04-12 15:33:03]: Kenshi™ [, Level 39]: merde je l'ai mentio
+[2021-04-12 15:33:04]: GOLD [404, Level 40]: Kenshi™: bonne nuit
+[2021-04-12 15:33:11]: Kenshi™ [, Level 39]: GOLD: bonne nuit
+[2021-04-12 15:33:15]: Kenshi™ [, Level 39]: ☺: nope
