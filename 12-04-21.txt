@@ -768,3 +768,7 @@
 [2021-04-12 01:02:04]: ***  [, Level 0]: 'Nidardo.' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-12 01:02:09]: ReXi [, Level 0]: (1)ERROR: >>>>>
 [2021-04-12 01:02:20]: (1)SanoreX [Chilli.*, Level 0]: I killing ϻɪɔʜɑʟ
+[2021-04-12 01:02:31]: ϻɪɔʜɑʟ [Banana fish, Level 24]: wait
+[2021-04-12 01:02:32]: (1)SanoreX [Chilli.*, Level 0]: ϻɪɔʜɑʟ: I killing
+[2021-04-12 01:02:34]: (1)SanoreX [Chilli.*, Level 0]: no
+[2021-04-12 01:02:37]: ϻɪɔʜɑʟ [Banana fish, Level 24]: i go
