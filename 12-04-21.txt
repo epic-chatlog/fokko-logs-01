@@ -10545,3 +10545,6 @@
 [2021-04-12 09:52:36]: ***  [, Level 0]: 'sL|coffee [D]' entered and joined the game
 [2021-04-12 09:52:38]: ***  [, Level 0]: '(1)Saud' entered and joined the game
 [2021-04-12 09:52:41]: cookie [, Level 0]: BC|Tixnix:  and i need farm
+[2021-04-12 09:52:52]: [D] mamikral011 [DogParty, Level 21]: Kenshi™:
+[2021-04-12 09:52:59]: [D] mamikral011 [DogParty, Level 21]: Kenshi™: ?
+[2021-04-12 09:53:00]: ***  [, Level 0]: (1)kais is on a killing spree with 25 blocks
