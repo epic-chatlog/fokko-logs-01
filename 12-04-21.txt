@@ -10782,3 +10782,5 @@
 [2021-04-12 10:11:18]: (2)УБИВАТ [, Level 0]: GO
 [2021-04-12 10:11:34]: (2)УБИВАТ [, Level 0]: DOG
 [2021-04-12 10:11:35]: ***  [, Level 0]: 'Lucas' has left the game (Timeout)
+[2021-04-12 10:11:41]: (1)Saud [MNKY, Level 19]: kais:  do it
+[2021-04-12 10:11:45]: kais [, Level 66]: do what ?
