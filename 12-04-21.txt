@@ -7740,3 +7740,8 @@
 [2021-04-12 07:36:10]: kais [, Level 66]: Good man: oops, i accidently killed coca
 [2021-04-12 07:36:14]: Kirito [, Level 40]: Good man:  :(
 [2021-04-12 07:36:14]: Kenshi™ [, Level 39]: El patron:
+[2021-04-12 07:36:17]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-12 07:36:19]: Good man [Drunks, Level 30]: Kirito: but i dont need dummy now
+[2021-04-12 07:36:21]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-12 07:36:22]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-12 07:36:24]:   [, Level 0]: mamikral011: ERROR: hi
