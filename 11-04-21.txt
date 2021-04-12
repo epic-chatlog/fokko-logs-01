@@ -11765,3 +11765,6 @@
 [2021-04-11 23:20:27]: ***  [, Level 0]: 'S Y T H N' has been muted for 60 seconds
 [2021-04-11 23:20:27]: MORFY [, Level 29]: xDDDDDDDDDDD
 [2021-04-11 23:20:31]: Axandos [, Level 0]: MORFY:  pro
+[2021-04-11 23:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-11 23:20:50]: MORFY [, Level 29]: Axandos: yeah
+[2021-04-11 23:20:51]: ***  [, Level 0]: ### 'SanoreX' @everyone server restarted?
