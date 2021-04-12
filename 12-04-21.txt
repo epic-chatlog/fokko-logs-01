@@ -12662,3 +12662,7 @@
 [2021-04-12 12:14:05]: ***  [, Level 0]: 'domkolny' entered and joined the game
 [2021-04-12 12:14:08]: ***  [, Level 0]: 'domkolny' has left the game
 [2021-04-12 12:14:15]: GReeeN [, Level 41]: Axandos:  ich hasse es genau so in real life wen jemand respektlos ist
+[2021-04-12 12:14:23]: ***  [, Level 0]: mamikral011 finished in: 0 minute(s) 51.52 second(s)
+[2021-04-12 12:14:23]: ***  [, Level 0]: New record: 2 minute(s)  9.70 second(s) better.
+[2021-04-12 12:14:26]: ***  [, Level 0]: '1' has left the game
+[2021-04-12 12:14:26]: GReeeN [, Level 41]: Axandos:  keine ahung weil die fun haben kp
