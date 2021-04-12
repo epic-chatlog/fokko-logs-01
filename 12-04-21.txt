@@ -206,3 +206,8 @@
 [2021-04-12 00:15:57]: Axandos [, Level 25]: medium pp now California
 [2021-04-12 00:15:58]: ***  [, Level 0]: kais finished in: 6 minute(s) 16.36 second(s)
 [2021-04-12 00:15:58]: ***  [, Level 0]: New record: 1 minute(s)  2.40 second(s) better.
+[2021-04-12 00:15:59]: ***  [, Level 0]: 'Saud' entered and joined the game
+[2021-04-12 00:15:59]: ***  [, Level 0]: (1)kais finished in: 5 minute(s) 12.54 second(s)
+[2021-04-12 00:15:59]: ***  [, Level 0]: New record: 6 minute(s) 16.54 second(s) better.
+[2021-04-12 00:16:04]: (1)ERROR [404, Level 47]: fokkonaut:  zeit für 1v1 system
+[2021-04-12 00:16:05]: ***  [, Level 0]: 'Saud' has left the game
