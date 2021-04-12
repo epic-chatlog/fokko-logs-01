@@ -195,3 +195,9 @@
 [2021-04-12 00:15:31]: ***  [, Level 0]: 1 finished in: 2 minute(s)  4.08 second(s)
 [2021-04-12 00:15:32]: Axandos [, Level 25]: California:  u are annoying af
 [2021-04-12 00:15:32]: ***  [, Level 0]: 'ork' joined the spectators
+[2021-04-12 00:15:34]: California [, Level 24]: Axandos: so tell m to stop
+[2021-04-12 00:15:35]: ***  [, Level 0]: 'ork' joined the game
+[2021-04-12 00:15:37]: California [, Level 24]: Axandos: dont kill me
+[2021-04-12 00:15:39]: Kezo [DogParty, Level 0]: NOW PROS PLAY
+[2021-04-12 00:15:40]: Kezo [DogParty, Level 0]: :d
+[2021-04-12 00:15:40]: Axandos [, Level 25]: stop California
