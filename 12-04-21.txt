@@ -13605,3 +13605,6 @@
 [2021-04-12 13:25:36]: ☺ [, Level 16]: ERROR: no nothing
 [2021-04-12 13:25:41]: |MıssOяchiĐ| [, Level 48]: what
 [2021-04-12 13:25:42]: Kenshi™ [, Level 39]: jsp jusqua que tu t'excuse
+[2021-04-12 13:25:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-12 13:25:52]: ERROR [404, Level 56]: any²:  war
+[2021-04-12 13:25:57]: ☺ [, Level 16]: Kenshi™: moi mais sa sert a quoi
