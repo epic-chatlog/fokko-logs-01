@@ -708,3 +708,6 @@
 [2021-04-12 00:55:42]: ***  [, Level 0]: 'Juzudek' has left the game
 [2021-04-12 00:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-12 00:55:53]: ***  [, Level 0]: 'Juzudek' entered and joined the game
+[2021-04-12 00:56:02]: ReXi [, Level 0]: willst du mich verarschen7
+[2021-04-12 00:56:10]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-12 00:56:10]: ***  [, Level 0]: 'Swarfey' has left the game
