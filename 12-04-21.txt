@@ -12762,3 +12762,7 @@
 [2021-04-12 12:21:54]: ERROR [404, Level 56]: yo
 [2021-04-12 12:21:57]: ***  [, Level 0]: 'DeD' has left the game
 [2021-04-12 12:22:02]: ***  [, Level 0]: 'Rakso' has left the game
+[2021-04-12 12:22:06]: |ΛnץOиe| [, Level 43]: BAHAHHAHA tnul
+[2021-04-12 12:22:07]: ***  [, Level 0]: 'ferry' joined the spectators
+[2021-04-12 12:22:10]: ***  [, Level 0]: 'ferry' joined the game
+[2021-04-12 12:22:14]: ***  [, Level 0]: 'ferry' has left the game
