@@ -10010,3 +10010,7 @@
 [2021-04-12 09:22:47]: ***  [, Level 0]: 'Kahve' entered and joined the game
 [2021-04-12 09:22:50]: WarHammer [DogParty, Level 26]: Cylox:  YOKSA BEN,DE BLOKLAR
 [2021-04-12 09:22:52]:   [, Level 0]: Kahve: sa
+[2021-04-12 09:22:54]: ***  [, Level 0]: (2)УБИВАТЬ! is on a killing spree with 5 blocks
+[2021-04-12 09:22:57]: WarHammer [DogParty, Level 26]: YelloWorlD:  HOW
+[2021-04-12 09:22:59]: cookie [, Level 19]: random guy:  be
+[2021-04-12 09:23:02]:   [, Level 0]: YelloWorlD: WarHammer: hax
