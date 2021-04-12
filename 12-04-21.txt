@@ -8792,3 +8792,5 @@
 [2021-04-12 08:35:50]: rexi [, Level 0]: mamikral011: i dont have money
 [2021-04-12 08:35:53]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-12 08:35:55]: ***  [, Level 0]: 'fitz' entered and joined the game
+[2021-04-12 08:35:57]: [D] mamikral011 [DogParty, Level 21]: ReXi: okey
+[2021-04-12 08:36:04]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
