@@ -7349,3 +7349,6 @@
 [2021-04-12 06:57:43]: ***  [, Level 0]: nameless tee is on a killing spree with 5 blocks
 [2021-04-12 06:57:47]: ***  [, Level 0]: nameless tee's killing spree was ended by Kenshi™ (5 blocks)
 [2021-04-12 06:58:11]: Kezo [DogParty, Level 41]: Taip: dummy mi _
+[2021-04-12 06:58:18]: Taip [VergleriSay, Level 15]: ?
+[2021-04-12 06:58:24]: Taip [VergleriSay, Level 15]: no
+[2021-04-12 06:58:27]: Taip [VergleriSay, Level 15]: Recep dummy
