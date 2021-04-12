@@ -11640,3 +11640,5 @@
 [2021-04-12 11:17:37]:   [, Level 0]: Taip: xd
 [2021-04-12 11:18:08]: ***  [, Level 0]: 'SanoreX' has left the game (Timeout Protection over)
 [2021-04-12 11:18:11]: ***  [, Level 0]: 'Taip' has left the game
+[2021-04-12 11:18:23]: ***  [, Level 0]: 'PANZELKOWY' entered and joined the game
+[2021-04-12 11:18:25]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
