@@ -9846,3 +9846,8 @@
 [2021-04-12 09:16:53]: ***  [, Level 0]: '[D] Elisey4375' entered and joined the game
 [2021-04-12 09:16:58]: Flipper [, Level 16]: HOOHO
 [2021-04-12 09:16:59]: Flipper [, Level 16]: GOOO
+[2021-04-12 09:17:10]: ***  [, Level 0]: 'AkiHiKo_718' joined the spectators
+[2021-04-12 09:17:16]: ***  [, Level 0]: '(1)random guy' entered and joined the game
+[2021-04-12 09:17:16]: [D] mamikral011 [DogParty, Level 21]: [D] Hunter.exe: fail :D
+[2021-04-12 09:17:19]: ***  [, Level 0]: 'AkiHiKo_718' joined the game
+[2021-04-12 09:17:21]: Flipper [, Level 16]: rush
