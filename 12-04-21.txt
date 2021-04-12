@@ -8590,3 +8590,5 @@
 [2021-04-12 08:24:59]: ***  [, Level 0]: 'Yğit Yeni Pccc' entered and joined the game
 [2021-04-12 08:25:01]: Lucas [THECEPS, Level 34]: Sayme:
 [2021-04-12 08:25:04]: Saud [MNKY, Level 24]: darkstar:
+[2021-04-12 08:25:37]: ***  [, Level 0]: 'BlackOfTheWhite' joined the spectators
+[2021-04-12 08:25:41]: ***  [, Level 0]: 'BlackOfTheWhite' joined the game
