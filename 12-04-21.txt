@@ -15785,3 +15785,5 @@
 [2021-04-12 16:20:39]: Kenshi™ [, Level 39]: GReeeN: omgg if u want
 [2021-04-12 16:20:41]: GReeeN [, Level 41]: in freezzzeee
 [2021-04-12 16:20:46]: GReeeN [, Level 41]: its normal in a 1v1
+[2021-04-12 16:20:48]: ***  [, Level 0]: 'MattéoLaChienn' has left the game
+[2021-04-12 16:20:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
