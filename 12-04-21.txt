@@ -9923,3 +9923,5 @@
 [2021-04-12 09:20:00]: Hunter.exe [DogParty, Level 37]: B
 [2021-04-12 09:20:11]: cunt [, Level 0]: wooohoo
 [2021-04-12 09:20:13]: ***  [, Level 0]: 'AkiHiKo_718' joined the spectators
+[2021-04-12 09:20:17]: ***  [, Level 0]: 'AkiHiKo_718' joined the game
+[2021-04-12 09:20:24]: ***  [, Level 0]: 'BlackOfTheWhite' joined the spectators
