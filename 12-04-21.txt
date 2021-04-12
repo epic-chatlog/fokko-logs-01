@@ -4491,3 +4491,6 @@
 [2021-04-12 03:46:31]: CKA3A4NIK[NR] [Night Raid, Level 35]: Good man:  ты кто?
 [2021-04-12 03:46:31]:   [, Level 0]: Taip: what is bad
 [2021-04-12 03:46:32]: Axandos² [, Level 20]: wieso ReXi
+[2021-04-12 03:46:41]: ***  [, Level 0]: '(1)flappy.*' has left the game (Timeout)
+[2021-04-12 03:46:42]: CKA3A4NIK[NR] [Night Raid, Level 35]: Fearless:  WHY YOU TOUCH ME
+[2021-04-12 03:46:47]: coca [, Level 22]: CKA3A4NIK: я с сабзиро вар...
