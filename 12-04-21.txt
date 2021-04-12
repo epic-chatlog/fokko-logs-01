@@ -8800,3 +8800,9 @@
 [2021-04-12 08:36:25]: OP|Supers [, Level 0]: ...
 [2021-04-12 08:36:28]:   [, Level 0]: S Y T H N: Supers: huh
 [2021-04-12 08:36:31]: Intensiv_ [CrazzyNobbs, Level 0]: help darkstar3
+[2021-04-12 08:36:32]: Hunter.exe [DogParty, Level 37]: mamikral011: war
+[2021-04-12 08:36:33]:   [, Level 0]: S Y T H N: OP|Supers: na
+[2021-04-12 08:36:34]: Intensiv_ [CrazzyNobbs, Level 0]: help darkstar3
+[2021-04-12 08:36:35]: [D] mamikral011 [DogParty, Level 21]: Hunter.exe: ?
+[2021-04-12 08:36:37]: OP|Supers [, Level 0]: S Y T H N:  warum
+[2021-04-12 08:36:41]:   [, Level 0]: S Y T H N: Supers: bin mit Flipper
