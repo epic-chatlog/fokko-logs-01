@@ -5839,3 +5839,4 @@
 [2021-04-12 05:12:29]: ***  [H, Level 0]: 'УБИВАТЬ!' entered and joined the game
 [2021-04-12 05:12:35]: [D] El patron [, Level 0]: (1)kais: wake up
 [2021-04-12 05:12:44]: Andresss [citrom, Level 1]: Nidardoo
+[2021-04-12 05:12:51]: ***  [H, Level 0]: 'Lucas' entered and joined the game
