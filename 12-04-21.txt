@@ -3245,3 +3245,12 @@
 [2021-04-12 03:00:39]: SanoreX [Chilli.*, Level 27]: OMG
 [2021-04-12 03:00:39]: fokkonaut [, Level 102]: ERROR: auf welchen willste editr
 [2021-04-12 03:00:39]: ERROR [404, Level 56]: ♥TAKO♥:  STOP OMG
+[2021-04-12 03:00:43]: ***  [, Level 0]: 'Til999' joined the game
+[2021-04-12 03:00:43]: Axandos² [, Level 20]: ReXi:  rexiana
+[2021-04-12 03:00:43]: ERROR [404, Level 56]: AUF DEM 56er
+[2021-04-12 03:00:44]: SanoreX [Chilli.*, Level 27]: tune hammer_strength 10
+[2021-04-12 03:00:46]: ***  [, Level 0]: 'Andresss' entered and joined the game
+[2021-04-12 03:00:48]: WarHammer [DogParty, Level 26]: tako dur
+[2021-04-12 03:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-12 03:00:51]: ***  [, Level 0]: el champeon's killing spree was ended by MieSlime (5 blocks)
+[2021-04-12 03:00:51]: ***  [, Level 0]: 'Til999' joined the spectators
