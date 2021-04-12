@@ -10822,3 +10822,6 @@
 [2021-04-12 10:15:15]: cya [, Level 42]: kais: do you need jetpack?
 [2021-04-12 10:15:18]: kais [, Level 66]: cya: i have
 [2021-04-12 10:15:18]: cya [, Level 42]: oh xD
+[2021-04-12 10:15:23]: ***  [, Level 0]: 'vahema' entered and joined the game
+[2021-04-12 10:15:25]: (1)Saud [MNKY, Level 19]: [D] cya:  ohayo
+[2021-04-12 10:15:31]: ***  [, Level 0]: 612. BC|serwan Time: 01:48.16, requested by BC|serwan
