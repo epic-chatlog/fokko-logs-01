@@ -11506,3 +11506,4 @@
 [2021-04-11 15:20:37]: ***  [, Level 0]: 'o' has left the game (restart)
 [2021-04-11 15:20:37]: ***  [, Level 0]: '(2)lol' has left the game (restart)
 [2021-04-11 15:20:37]: ***  [, Level 0]: '(3)lol' has left the game (restart)
+[2021-04-11 21:15:07]: ***  [, Level 0]: Successfully logged in
