@@ -12088,3 +12088,8 @@
 [2021-04-11 23:51:29]: Axandos [, Level 25]: AHAHAHHA
 [2021-04-11 23:51:50]: Nudelsaft c: [FookinLads, Level 37]: xD
 [2021-04-11 23:51:51]: California [, Level 0]: MORFY:
+[2021-04-11 23:51:57]: Axandos [, Level 25]: NEIN
+[2021-04-11 23:51:59]: Axandos [, Level 25]: xD
+[2021-04-11 23:52:04]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-11 23:52:04]: ***  [, Level 0]: 'Sayme' has left the game
+[2021-04-11 23:52:04]: ***  [, Level 0]: '(1)Sayme' has left the game
