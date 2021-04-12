@@ -9921,3 +9921,5 @@
 [2021-04-12 09:19:49]: ***  [, Level 0]: '(1)random guy' entered and joined the game
 [2021-04-12 09:19:52]: WarHammer' [DogParty, Level 17]: of alg
 [2021-04-12 09:20:00]: Hunter.exe [DogParty, Level 37]: B
+[2021-04-12 09:20:11]: cunt [, Level 0]: wooohoo
+[2021-04-12 09:20:13]: ***  [, Level 0]: 'AkiHiKo_718' joined the spectators
