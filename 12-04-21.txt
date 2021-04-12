@@ -15138,3 +15138,6 @@
 [2021-04-12 15:06:26]: [D] mamikral011 [DogParty, Level 27]: (1)♥TAKO♥: gel
 [2021-04-12 15:06:28]: GODLIKe [, Level 44]: [D] ♥TAKO♥: hayır
 [2021-04-12 15:06:32]: YelloWorlD [DogParty, Level 38]:  8 5
+[2021-04-12 15:06:36]: [D] mamikral011 [DogParty, Level 27]: oha kaç tane var
+[2021-04-12 15:06:37]: YelloWorlD [DogParty, Level 38]:  9 5
+[2021-04-12 15:06:45]: YelloWorlD [DogParty, Level 38]:  10 5
