@@ -14753,3 +14753,7 @@
 [2021-04-12 14:32:30]: YelloWorlD [DogParty, Level 38]: GODLIKe: want join .?
 [2021-04-12 14:32:35]: GODLIKe [, Level 44]: no
 [2021-04-12 14:32:37]: ***  [, Level 0]: 'arther' has left the game
+[2021-04-12 14:32:38]: YelloWorlD [DogParty, Level 38]: GODLIKe: why
+[2021-04-12 14:32:40]: GODLIKe [, Level 44]: idk
+[2021-04-12 14:32:45]: ***  [, Level 0]: 'Bozzkurt' has left the game (Timeout Protection over)
+[2021-04-12 14:32:49]: GODLIKe [, Level 44]: ı dont need
