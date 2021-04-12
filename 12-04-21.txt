@@ -6819,3 +6819,5 @@
 [2021-04-12 06:13:42]:   [, Level 0]: mamikral011: Hunter.exe: why
 [2021-04-12 06:13:46]: Hunter.exe [DogParty, Level 37]: mamikral011: stop
 [2021-04-12 06:13:51]:   [, Level 0]: mamikral011: El patron: war
+[2021-04-12 06:14:06]: ***  [, Level 0]: mamikral011 is on a killing spree with 5 blocks
+[2021-04-12 06:14:11]: Foxie♥ [♥, Level 40]: Matiteusz: come
