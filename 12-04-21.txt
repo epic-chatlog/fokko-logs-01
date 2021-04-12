@@ -7541,3 +7541,5 @@
 [2021-04-12 07:11:57]: ***  [, Level 0]: 'mamikral011' has left the game
 [2021-04-12 07:12:00]: УБИВАТЬ! [, Level 0]: tetano: xD
 [2021-04-12 07:12:02]: ***  [, Level 0]: 'JOSHUA' has left the game
+[2021-04-12 07:12:19]: УБИВАТЬ! [, Level 0]: Taip: FOOTBOT
+[2021-04-12 07:12:22]: УБИВАТЬ! [, Level 0]: Taip: FOOTBOL
