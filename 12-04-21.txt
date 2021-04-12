@@ -11486,3 +11486,7 @@
 [2021-04-12 11:04:40]: ***  [, Level 0]: 'Isegrin' entered and joined the game
 [2021-04-12 11:04:41]: ***  [, Level 0]: 'Tom' entered and joined the game
 [2021-04-12 11:04:46]: Falco641 [.bad, Level 20]: DeD: wtf?
+[2021-04-12 11:05:02]: SanoreX [Chilli.*, Level 27]: lolpoep: pls grenade 2min
+[2021-04-12 11:05:03]: SanoreX [Chilli.*, Level 27]: aa
+[2021-04-12 11:05:08]: ***  [, Level 0]: 'Nidardo.' has left the game (Timeout Protection over)
+[2021-04-12 11:05:08]: ***  [, Level 0]: 'NidardoHD' has left the game (Timeout Protection over)
