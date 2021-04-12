@@ -443,3 +443,5 @@
 [2021-04-12 00:31:49]: (1)SanoreX.* [Chilli.*, Level 0]: idk
 [2021-04-12 00:31:51]: (1)SanoreX.* [Chilli.*, Level 0]: say sano
 [2021-04-12 00:31:56]: (1)SanoreX.* [Chilli.*, Level 0]: say sano or sanore.x
+[2021-04-12 00:32:06]: ***  [, Level 0]: 'kais' finished the special race!
+[2021-04-12 00:32:06]: ***  [, Level 0]: 'Hońi' has left the game
