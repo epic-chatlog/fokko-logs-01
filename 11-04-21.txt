@@ -12020,3 +12020,10 @@
 [2021-04-11 23:45:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-11 23:45:51]: MORPHIN [, Level 37]: SanoreX: I kill flappy
 [2021-04-11 23:45:53]: MORPHIN [, Level 37]: SanoreX: look
+[2021-04-11 23:45:55]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-11 23:45:58]: BULLETBOT [, Level 0]: (1)o:
+[2021-04-11 23:46:01]: BULLETBOT [, Level 0]: 1:
+[2021-04-11 23:46:02]: ERROR [404, Level 56]: ye i look
+[2021-04-11 23:46:03]: ϻɪɔʜɑʟ [Banana fish, Level 24]: one michel
+[2021-04-11 23:46:03]: BULLETBOT [, Level 0]: 1:
+[2021-04-11 23:46:04]: (1)SanoreX [Chilli.*, Level 0]: MORPHIN: oo
