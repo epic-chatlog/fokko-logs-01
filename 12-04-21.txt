@@ -5963,3 +5963,8 @@
 [2021-04-12 05:22:57]: ReXi [, Level 0]: 1: pls <<<<
 [2021-04-12 05:22:59]: ***  [H, Level 0]: '(1)cunt' has left the game (Timeout)
 [2021-04-12 05:22:59]: ***  [H, Level 0]: 'cunt' has left the game (Timeout)
+[2021-04-12 05:23:04]: VD|HolyHo|° [VsDoggo´s, Level 6]: random guy: oh
+[2021-04-12 05:23:06]:   [, Level 0]: Axandos: Isegrin:  no :c xD
+[2021-04-12 05:23:11]: ***  [H, Level 0]: 'random guy' has left the game
+[2021-04-12 05:23:11]: ***  [H, Level 0]: '[D] random guy' has left the game
+[2021-04-12 05:23:12]: ***  [H, Level 0]: 'Cosmo' entered and joined the game
