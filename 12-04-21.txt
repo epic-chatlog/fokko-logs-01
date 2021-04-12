@@ -1511,3 +1511,8 @@
 [2021-04-12 01:44:40]: [D] keepertrain [, Level 25]: This message means i pressed F3
 [2021-04-12 01:44:48]: ERROR [404, Level 56]: who
 [2021-04-12 01:44:49]: [D]ϻɪɔʜɑʟ [Banana fish, Level 20]: GODLIKe: friends?
+[2021-04-12 01:44:54]: (1)SanoreX [Chilli.*, Level 0]: El patron: ?
+[2021-04-12 01:44:57]: Hunter.exe [DogParty, Level 37]: Kenshi™: flag
+[2021-04-12 01:45:00]:   [, Level 0]: S Y T H N: yo ERROR
+[2021-04-12 01:45:01]: GODLIKe [, Level 44]: no
+[2021-04-12 01:45:03]: Kenshi™ [, Level 0]: Hunter.exe: nope
