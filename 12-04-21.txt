@@ -12023,3 +12023,6 @@
 [2021-04-12 11:42:26]: bob [669, Level 36]: GAGAG+
 [2021-04-12 11:42:29]: ***  [, Level 0]: '(4)lol' left the minigame 'Instagib FNG'
 [2021-04-12 11:42:34]: mamikral011 [DogParty, Level 26]: GReeeN: help my dummy
+[2021-04-12 11:42:37]: ***  [, Level 0]: '(4)lol' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-12 11:42:44]: ***  [, Level 0]: '(1)Saud' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-12 11:42:46]: ***  [, Level 0]: 'S Y T H N' has left the game
