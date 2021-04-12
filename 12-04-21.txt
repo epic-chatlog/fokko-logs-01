@@ -3254,3 +3254,7 @@
 [2021-04-12 03:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-12 03:00:51]: ***  [, Level 0]: el champeon's killing spree was ended by MieSlime (5 blocks)
 [2021-04-12 03:00:51]: ***  [, Level 0]: 'Til999' joined the spectators
+[2021-04-12 03:00:54]: ***  [, Level 0]: 'Til999' joined the game
+[2021-04-12 03:01:02]:   [, Level 0]: ReXi: Axandos: rexiana hahah geil
+[2021-04-12 03:01:02]: ***  [, Level 0]: 'Papaya' has left the game
+[2021-04-12 03:01:05]: ***  [, Level 0]: ### 'SanoreX.*' @everyone SPEC PLOT4 OR COME PLOT4
