@@ -4991,3 +4991,5 @@
 [2021-04-12 04:15:21]:   [, Level 0]: ReXi: Axandos: stunde
 [2021-04-12 04:15:23]:   [, Level 0]: WarHammer': (1)Ðream:  dont try
 [2021-04-12 04:15:27]: Axandos [, Level 25]: ReXi:  aso
+[2021-04-12 04:15:28]:   [, Level 0]: WarHammer': i am noob:  dont try
+[2021-04-12 04:15:40]: ***  [, Level 0]: 'Yin' has left the game
