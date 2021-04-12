@@ -1029,3 +1029,6 @@
 [2021-04-12 01:20:41]: ***  [, Level 0]: 'Black Wolf' entered and joined the game
 [2021-04-12 01:20:42]: ReXi [, Level 0]: Zephir™:
 [2021-04-12 01:20:48]: ReXi [, Level 0]: Zephir™: <<<<<
+[2021-04-12 01:20:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-12 01:20:51]: S Y T H N [DogParty, Level 37]: 1: fat
+[2021-04-12 01:20:58]: Zephir™ [, Level 39]: ReXi: ask Hunter.exe that him war u
