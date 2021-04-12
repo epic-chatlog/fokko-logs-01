@@ -11837,3 +11837,5 @@
 [2021-04-11 23:28:29]: Axandos [, Level 25]: Nudelsaft c::  immernoch pro
 [2021-04-11 23:28:31]: Axandos [, Level 25]: xD
 [2021-04-11 23:28:32]: Swarfey [FookinLads, Level 60]: u
+[2021-04-11 23:28:40]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-11 23:28:43]: Axandos [, Level 25]: Swarfey:  was hast du fürn fach gerade?
