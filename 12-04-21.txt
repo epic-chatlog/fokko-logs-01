@@ -4731,3 +4731,5 @@
 [2021-04-12 04:00:37]: ***  [, Level 0]: '(1)cya' has left the game
 [2021-04-12 04:00:43]: Andresss Dumdum [citrom, Level 0]: Foxie♥: ?
 [2021-04-12 04:00:44]: Axandos² [, Level 20]: realschule ReXi
+[2021-04-12 04:00:45]:   [, Level 0]: Foxie♥: @everyone taser is buffed after the nerf nerf is a buff xd
+[2021-04-12 04:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
