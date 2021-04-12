@@ -2991,3 +2991,5 @@
 [2021-04-12 02:49:55]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 5 blocks
 [2021-04-12 02:49:58]: Matiteusz [TrRShClNrRs, Level 35]: SanoreX: im farming
 [2021-04-12 02:50:04]: (1)SanoreX.* [Chilli.*, Level 0]: I leaving in 2. window
+[2021-04-12 02:50:10]: ***  [, Level 0]: '(1)SanoreX.*' has left the game
+[2021-04-12 02:50:10]: ***  [, Level 0]: '(1)SanoreX' has left the game
