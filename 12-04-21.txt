@@ -7430,3 +7430,9 @@
 [2021-04-12 07:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-12 07:05:52]: Saud [MNKY, Level 24]: (1)soleri1:
 [2021-04-12 07:06:24]: ***  [, Level 0]: 'JOSHUA' entered and joined the game
+[2021-04-12 07:06:30]: ***  [, Level 0]: 'tetano' joined the spectators
+[2021-04-12 07:06:30]: ***  [, Level 0]: 'bean' joined the spectators
+[2021-04-12 07:06:34]: ***  [, Level 0]: 'bean' joined the game
+[2021-04-12 07:06:34]: ***  [, Level 0]: 'tetano' joined the game
+[2021-04-12 07:06:38]: ***  [, Level 0]: 'JOSHUA' joined the spectators
+[2021-04-12 07:06:41]: ***  [, Level 0]: 'JOSHUA' joined the game
