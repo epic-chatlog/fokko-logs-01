@@ -10380,3 +10380,4 @@
 [2021-04-12 09:40:56]:   [, Level 0]: Supers: YelloWorlD:  MAKE /stats you can see my bank
 [2021-04-12 09:41:14]:   [, Level 0]: Supers: YelloWorlD  you have 2.7 mil on bank
 [2021-04-12 09:41:21]: GOLD [404, Level 40]: Supers: ik
+[2021-04-12 09:41:25]:   [, Level 0]: Supers: YelloWorlD:  and gold have 1.5mil
