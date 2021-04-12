@@ -2770,3 +2770,5 @@
 [2021-04-12 02:38:43]: ReXi [, Level 0]: huch
 [2021-04-12 02:38:45]: ERROR. [404, Level 75]: Fearless:  ez 150k in wallet
 [2021-04-12 02:38:48]: Fearless [Retard MNKY, Level 40]: ERROR:  lol
+[2021-04-12 02:38:53]: Fearless [Retard MNKY, Level 40]: ERROR:  come stronghold papi
+[2021-04-12 02:39:00]: ERROR. [404, Level 75]: no going to work now
