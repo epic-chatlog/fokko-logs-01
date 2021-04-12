@@ -15081,3 +15081,7 @@
 [2021-04-12 15:03:12]: YelloWorlD [DogParty, Level 38]:  2 3
 [2021-04-12 15:03:12]: [D] mamikral011 [DogParty, Level 27]: GODLIKe: oha
 [2021-04-12 15:03:19]: GODLIKe [, Level 44]: [D] mamikral011: geçen girdim kezo gördü
+[2021-04-12 15:03:25]: YelloWorlD [DogParty, Level 38]:  2 4
+[2021-04-12 15:03:25]: ☺ [, Level 16]: i lag
+[2021-04-12 15:03:29]: YelloWorlD [DogParty, Level 38]:  3 4
+[2021-04-12 15:03:31]: [D] mamikral011 [DogParty, Level 27]: GODLIKe: nası girdin oha sana mı verdi şifresini
