@@ -9593,3 +9593,9 @@
 [2021-04-12 09:05:22]: ***  [, Level 0]: 'Asta' has left the game
 [2021-04-12 09:05:28]: Tziys* [DogParty, Level 39]: not afk
 [2021-04-12 09:05:29]: Tziys* [DogParty, Level 39]: xDDDDDDDD
+[2021-04-12 09:05:42]: ***  [, Level 0]: 'dom' joined the spectators
+[2021-04-12 09:05:45]: WarHammer [DogParty, Level 26]: XD
+[2021-04-12 09:05:45]: ***  [, Level 0]: 'dom' joined the game
+[2021-04-12 09:05:46]: coffee [SkinLover, Level 0]: Intensiv_: leave rexi
+[2021-04-12 09:05:49]: ***  [, Level 0]: 'Slut' entered and joined the game
+[2021-04-12 09:05:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
