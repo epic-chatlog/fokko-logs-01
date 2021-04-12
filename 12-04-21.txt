@@ -4446,3 +4446,6 @@
 [2021-04-12 03:45:04]: ***  [, Level 0]: '(1)NidardoHD' entered and joined the game
 [2021-04-12 03:45:11]: |ΛnץOиe| [, Level 0]: Taip: go up
 [2021-04-12 03:45:12]:   [, Level 0]: SanoreX: float t = Client()->LocalTime();
+[2021-04-12 03:45:14]:   [, Level 0]: SanoreX:     m_InputData[g_Config.m_ClDummy].m_Direction = ((int)t/2)&1;
+[2021-04-12 03:45:16]: CKA3A4NIK[NR] [Night Raid, Level 35]: Good man:  ты кто?
+[2021-04-12 03:45:24]: ***  [, Level 0]: 'nameless tee' entered and joined the game
