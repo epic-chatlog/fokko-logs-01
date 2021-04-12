@@ -7948,3 +7948,6 @@
 [2021-04-12 07:50:28]: Recep [VergleriSay, Level 7]: Cylox: kanka takımız dimi
 [2021-04-12 07:50:39]: ***  [, Level 0]: |ΛnץOиe| finished in: 4 minute(s) 32.20 second(s)
 [2021-04-12 07:50:43]:   [, Level 0]: Cylox: evet
+[2021-04-12 07:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-12 07:50:51]: ***  [, Level 0]: 'Kiøn1029' has left the game
+[2021-04-12 07:50:59]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
