@@ -8745,3 +8745,5 @@
 [2021-04-12 08:32:43]: [D] mamikral011 [DogParty, Level 21]: haa
 [2021-04-12 08:32:48]: [D] ♥TAKO♥ [DogParty, Level 0]: ama hareket etme
 [2021-04-12 08:32:48]: ***  [, Level 0]: 'Yuri' has left the game
+[2021-04-12 08:33:01]: ***  [, Level 0]: 'QON QON' joined the spectators
+[2021-04-12 08:33:05]: ***  [, Level 0]: 'QON QON' joined the game
