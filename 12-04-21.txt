@@ -1696,3 +1696,7 @@
 [2021-04-12 01:53:59]:   [, Level 0]: (1)SanoreX: of
 [2021-04-12 01:54:00]: ϻɪɔʜɑʟ [Banana fish, Level 24]: GODLIKe: hey
 [2021-04-12 01:54:01]:   [, Level 0]: (1)SanoreX: why
+[2021-04-12 01:54:03]: ***  [, Level 0]: 'Niklas' has left the game
+[2021-04-12 01:54:04]: ϻɪɔʜɑʟ [Banana fish, Level 24]: GODLIKe: tell me
+[2021-04-12 01:54:11]: ***  [, Level 0]: 'Matiteusz' left the minigame 'Block'
+[2021-04-12 01:54:12]: (1)SanoreX.* [Chilli.*, Level 0]: omg
