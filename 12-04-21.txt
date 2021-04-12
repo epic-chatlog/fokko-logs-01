@@ -10375,3 +10375,6 @@
 [2021-04-12 09:40:40]:   [, Level 0]: kais: rayen: no
 [2021-04-12 09:40:46]: (2)УБИВАТ [, Level 0]: xD
 [2021-04-12 09:40:47]:   [, Level 0]: YelloWorlD: Supers: idk not my acc
+[2021-04-12 09:40:48]: ***  [, Level 0]: '»ℱℬℑ«' has left the game
+[2021-04-12 09:40:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-12 09:40:56]:   [, Level 0]: Supers: YelloWorlD:  MAKE /stats you can see my bank
