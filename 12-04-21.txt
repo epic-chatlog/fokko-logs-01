@@ -5545,3 +5545,4 @@
 [2021-04-12 04:55:36]:   [, Level 0]: Axandos: du willst verlieren :D ?
 [2021-04-12 04:55:45]: ***  [H, Level 0]: '(2)Shy-ra.' entered and joined the game
 [2021-04-12 04:55:45]: rexi [, Level 0]: neeee duuuuu
+[2021-04-12 04:55:50]: ***  [H, Level 0]: [INFO] Check out the minigames using '/minigames'
