@@ -11396,3 +11396,9 @@
 [2021-04-12 10:59:27]: Foxie♥ [{TQuila}, Level 36]: lol: ty
 [2021-04-12 10:59:30]: Foxie♥ [{TQuila}, Level 36]: lolpoep: ty
 [2021-04-12 10:59:30]:   [, Level 0]: SanoreX: open portal
+[2021-04-12 10:59:32]: lolpoep [, Level 0]: Foxie♥:  np
+[2021-04-12 10:59:39]: ***  [, Level 0]: '(1)kais' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-12 10:59:39]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
+[2021-04-12 10:59:41]: ***  [, Level 0]: 'sL|coffee [D]' has left the game
+[2021-04-12 10:59:41]: ***  [, Level 0]: 'coffee' has left the game
+[2021-04-12 10:59:43]:   [, Level 0]: SanoreX: Kenshi™: stack
