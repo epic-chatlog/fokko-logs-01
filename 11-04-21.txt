@@ -11705,3 +11705,5 @@
 [2021-04-11 23:08:11]: ***  [, Level 0]: 836. ϻɪɔʜɑʟ Time: 04:43.44, requested by ϻɪɔʜɑʟ
 [2021-04-11 23:08:19]: ***  [, Level 0]: 'NopeX' entered and joined the game
 [2021-04-11 23:08:45]: ***  [, Level 0]: 'NopeX' has left the game
+[2021-04-11 23:09:04]: ***  [, Level 0]: 'ϻɪɔʜɑʟ' finished the special race!
+[2021-04-11 23:09:07]: ***  [, Level 0]: '[D]ϻɪɔʜɑʟ' finished the special race!
