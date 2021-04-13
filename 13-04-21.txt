@@ -5174,3 +5174,5 @@
 [2021-04-13 06:53:01]:   [, Level 0]: oyun krallı: valaha diyild,m sadece 8 jump aldım
 [2021-04-13 06:53:11]: [D] Kahve [, Level 19]: yukarda gördüm
 [2021-04-13 06:53:13]: [D] Kahve [, Level 19]: yalan söyleme
+[2021-04-13 06:53:23]: cookie [, Level 0]: Axandos²:  why
+[2021-04-13 06:53:28]:   [, Level 0]: oyun krallı: iste portaldan geçtim
