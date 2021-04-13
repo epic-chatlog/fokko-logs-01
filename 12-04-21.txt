@@ -16031,3 +16031,6 @@
 [2021-04-12 18:51:48]: bob [669, Level 36]: ive had enough
 [2021-04-12 18:51:55]: ☺ [, Level 17]: nooooo i swear
 [2021-04-12 18:52:03]: bob [669, Level 36]: swear ?
+[2021-04-12 18:52:09]: ☺ [, Level 17]: swear
+[2021-04-12 18:52:10]: bob [669, Level 36]: how old are you smiley man?
+[2021-04-12 18:52:16]: ☺ [, Level 17]: 13
