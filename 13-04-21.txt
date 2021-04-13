@@ -6784,3 +6784,4 @@
 [2021-04-13 08:40:00]: ***  [, Level 0]: 'ZEUS' entered and joined the game
 [2021-04-13 08:40:04]: Zephir™ [, Level 39]: El patron: ???
 [2021-04-13 08:40:04]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
+[2021-04-13 08:40:16]: [D] El patron [, Level 23]: Zephir™:
