@@ -560,3 +560,7 @@
 [2021-04-13 00:47:17]: ***  [, Level 0]: 'SkyForge' finished the special race!
 [2021-04-13 00:47:20]: 'KeeperTrain._. [, Level 30]: look
 [2021-04-13 00:47:32]: SanoreX [Chilli.*, Level 27]: [2021-04-13 13:49:11][client]: prediction time reset!
+[2021-04-13 00:47:34]: ***  [, Level 0]: Taip's killing spree was ended by 1 (7 blocks)
+[2021-04-13 00:47:37]: ***  [, Level 0]: 'andrea' entered and joined the game
+[2021-04-13 00:47:40]: rexi [, Level 0]: ihr lutscher xd
+[2021-04-13 00:47:40]: Noémi [helper, Level 40]: #5 blocker: amm ez nem jött be dude
