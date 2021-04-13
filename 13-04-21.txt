@@ -8036,3 +8036,5 @@
 [2021-04-13 09:40:00]: ***  [, Level 0]: 'MOM' has left the game
 [2021-04-13 09:40:10]: ***  [, Level 0]: 'Daisukee' joined the spectators
 [2021-04-13 09:40:14]: ***  [, Level 0]: 'Daisukee' joined the game
+[2021-04-13 09:40:35]: GODLIKe [, Level 44]: cringes
+[2021-04-13 09:40:36]: Axandos [, Level 25]: taser noob
