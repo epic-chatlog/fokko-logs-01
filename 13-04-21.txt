@@ -12435,3 +12435,5 @@
 [2021-04-13 13:55:58]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 6 minute(s) 58.68 second(s)
 [2021-04-13 13:56:00]: [D] El patron [, Level 24]: xd
 [2021-04-13 13:56:34]: [D] El patron [, Level 24]: Nightmare: flappy is me pet
+[2021-04-13 13:56:54]: Nightmare [, Level 27]: [D] El patron: no he is my most evil enemy
+[2021-04-13 13:56:59]: [D] El patron [, Level 24]: ow
