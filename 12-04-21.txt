@@ -16126,3 +16126,4 @@
 [2021-04-12 19:55:33]: ***  [, Level 0]: '(1)lol' has left the game (Timeout Protection over)
 [2021-04-12 19:55:33]: ***  [, Level 0]: '(3)lol' has left the game (Timeout Protection over)
 [2021-04-12 19:55:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-12 19:58:47]: ***  [, Level 0]: 'Toxic Tee' has left the game
