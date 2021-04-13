@@ -8689,3 +8689,8 @@
 [2021-04-13 10:08:55]:   [, Level 0]: SanoreX: give if u want
 [2021-04-13 10:08:58]: ***  [, Level 0]: '(1)nameless tee' has left the game (Timeout)
 [2021-04-13 10:08:59]:   [, Level 0]: SanoreX: dont give if u dont want
+[2021-04-13 10:09:02]: [D] mamikral011 [DogParty, Level 0]: G𝕖𝕝𝕒to: help
+[2021-04-13 10:09:05]: ***  [, Level 0]: 'random guy' entered and joined the game
+[2021-04-13 10:09:09]: ***  [, Level 0]: 'Kinder' entered and joined the game
+[2021-04-13 10:09:10]: ***  [, Level 0]: Zephir™ is on a killing spree with 10 blocks
+[2021-04-13 10:09:13]: ***  [, Level 0]: '(1)Good man' entered and joined the game
