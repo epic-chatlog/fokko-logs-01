@@ -10387,3 +10387,8 @@
 [2021-04-13 11:31:50]: [D] peS [, Level 0]: Zephir™: not me its noob
 [2021-04-13 11:31:55]: ***  [, Level 0]: 'Recep' entered and joined the game
 [2021-04-13 11:32:03]:   [, Level 0]: Random Guy: ?
+[2021-04-13 11:32:08]:   [, Level 0]: Random Guy: oh
+[2021-04-13 11:32:09]: ***  [, Level 0]: 'qKokzq' entered and joined the game
+[2021-04-13 11:32:09]:   [, Level 0]: Zephir™: noob!: money
+[2021-04-13 11:32:12]:   [, Level 0]: noob!: why
+[2021-04-13 11:32:17]:   [, Level 0]: Zephir™: noob!: that mine
