@@ -2845,3 +2845,8 @@
 [2021-04-13 03:54:05]: rexi [, Level 0]: wer ist das
 [2021-04-13 03:54:07]: Axandos² [, Level 20]: das hat niemand gesehen
 [2021-04-13 03:54:07]: (1)[D] SkyForge [, Level 22]: Axandos²:  links
+[2021-04-13 03:54:10]: ***  [, Level 0]: 'Mert' entered and joined the game
+[2021-04-13 03:54:11]: ***  [, Level 0]: 'Saud' has left the game
+[2021-04-13 03:54:20]:   [, Level 0]: Mert: üsoros
+[2021-04-13 03:54:20]: UnamiLaBa [GoodLights, Level 0]: peace?
+[2021-04-13 03:54:21]:   [, Level 0]: Mert: no
