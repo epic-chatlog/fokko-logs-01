@@ -3237,3 +3237,5 @@
 [2021-04-13 04:27:33]: ***  [, Level 0]: '[D] Hunter.exe' entered and joined the game
 [2021-04-13 04:27:37]: Kezo [DogParty, Level 41]: Favorito: . pls
 [2021-04-13 04:27:53]: GODLIKe [, Level 44]: Swarfey: hey
+[2021-04-13 04:27:55]: Swarfey [FookinLads, Level 37]: hi
+[2021-04-13 04:28:06]: Kezo [DogParty, Level 41]: DUDE
