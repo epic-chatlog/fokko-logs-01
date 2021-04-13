@@ -9878,3 +9878,7 @@
 [2021-04-13 11:03:22]: ***  [, Level 0]: 'peS' finished the special race!
 [2021-04-13 11:03:28]:   [, Level 0]: Foxie♥: tf
 [2021-04-13 11:03:28]: Mert [Blood Gang, Level 0]: wait
+[2021-04-13 11:03:35]: mamikral011 [DogParty, Level 27]: fomjn: stop
+[2021-04-13 11:03:37]: ***  [, Level 0]: [D] peS finished in: 5 minute(s) 49.36 second(s)
+[2021-04-13 11:03:37]: ***  [, Level 0]: '[D] peS' finished the special race!
+[2021-04-13 11:03:38]: ***  [, Level 0]: fomjn is on a killing spree with 15 blocks
