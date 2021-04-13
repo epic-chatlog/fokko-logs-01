@@ -2733,3 +2733,5 @@
 [2021-04-13 03:40:59]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-13 03:41:05]: ***  [, Level 0]: 'A player' has left the game
 [2021-04-13 03:41:09]: ***  [, Level 0]: 'el champeon' entered and joined the game
+[2021-04-13 03:41:19]: ***  [, Level 0]: 'Karma Akabane' entered and joined the game
+[2021-04-13 03:41:22]: rexi [, Level 0]: Axandos: <3
