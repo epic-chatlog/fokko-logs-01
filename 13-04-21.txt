@@ -5192,3 +5192,10 @@
 [2021-04-13 06:54:03]: |MıssOяchiĐ| [, Level 48]: Zʷʰʸˀ: war?
 [2021-04-13 06:54:06]:   [, Level 0]: oyun krallı: mantık var
 [2021-04-13 06:54:16]: El patron [, Level 29]: cookie: jet
+[2021-04-13 06:54:19]: El patron [, Level 29]: cookie: 2 min
+[2021-04-13 06:54:24]: (3)Zʷʰʸˀ [NULL, Level 25]: |MıssOяchiĐ|: i had war with them before
+[2021-04-13 06:54:24]: |MıssOяchiĐ| [, Level 48]: Zʷʰʸˀ: "not my war''
+[2021-04-13 06:54:25]: El patron [, Level 29]: x
+[2021-04-13 06:54:26]: [D] Kahve [, Level 19]: ~DemoizL~:
+[2021-04-13 06:54:27]: El patron [, Level 29]: xd
+[2021-04-13 06:54:29]: ***  [, Level 0]: 'Tixnix' has left the game (Timeout)
