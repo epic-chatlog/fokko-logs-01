@@ -16575,3 +16575,5 @@
 [2021-04-12 23:38:18]: Mr.KshKsh99 [xSD7, Level 0]: rat
 [2021-04-12 23:38:51]: 'KeeperTrain._. [, Level 30]: 1: give me him
 [2021-04-12 23:38:57]: ***  [, Level 0]: 'Maatiteusz' entered and joined the game
+[2021-04-12 23:39:00]: ***  [, Level 0]: Collected 3 money
+[2021-04-12 23:39:02]: ***  [, Level 0]: 'Maatiteusz' has left the game
