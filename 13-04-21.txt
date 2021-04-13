@@ -1234,3 +1234,8 @@
 [2021-04-13 01:42:26]: ***  [, Level 0]: 'HardreenClutch' has left the game (Timeout)
 [2021-04-13 01:42:28]: ***  [, Level 0]: 'HardreenClutch' entered and joined the game
 [2021-04-13 01:42:29]: Axandos [, Level 25]: AHAHAHAHAHHAHA
+[2021-04-13 01:42:37]: ***  [, Level 0]: 'Teet' has left the game
+[2021-04-13 01:42:39]: ***  [, Level 0]: 'Teet' entered and joined the game
+[2021-04-13 01:42:40]: ***  [, Level 0]: 'Foxi♥' has left the game
+[2021-04-13 01:42:41]: ***  [, Level 0]: ### 'WarHammer' xd
+[2021-04-13 01:42:41]: ***  [, Level 0]: 'GReeeN' entered and joined the game
