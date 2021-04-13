@@ -1381,3 +1381,5 @@
 [2021-04-13 01:53:39]: ***  [, Level 0]: 'tee' has left the game
 [2021-04-13 01:55:25]: ***  [, Level 0]: 'WarHammer' has left the game (Timeout)
 [2021-04-13 01:55:25]: ***  [, Level 0]: 'WarHammer'' has left the game (Timeout)
+[2021-04-13 01:55:50]: rexi [, Level 0]: wtf
+[2021-04-13 01:55:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
