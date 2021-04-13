@@ -13340,3 +13340,5 @@
 [2021-04-13 16:54:58]: Kirito [{TQuila}, Level 40]: HardreenClutch: hä bist du neutral xD
 [2021-04-13 16:55:10]: HardreenClutch [, Level 57]: Kirito:  ich muss gleich pennen gehen
 [2021-04-13 16:55:14]: HardreenClutch [, Level 57]: Kirito:  arbeit undso
+[2021-04-13 16:55:18]: Kirito [{TQuila}, Level 40]: HardreenClutch: achso
+[2021-04-13 16:55:20]: SnowCat [, Level 30]: HardreenClutch: sorry bro
