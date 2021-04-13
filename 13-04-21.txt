@@ -12440,3 +12440,8 @@
 [2021-04-13 13:57:06]: Nightmare [, Level 27]: [D] El patron: and the goodest blocked
 [2021-04-13 13:57:45]: El patron [, Level 29]: Nightmare: i go
 [2021-04-13 13:57:48]: Nightmare [, Level 27]: oh
+[2021-04-13 13:57:51]: ***  [, Level 0]: G𝕖l𝕒to* finished in: 4 minute(s) 44.60 second(s)
+[2021-04-13 13:57:59]: [D] El patron [, Level 24]: bb
+[2021-04-13 13:58:00]: ***  [, Level 0]: '[D] El patron' has left the game
+[2021-04-13 13:58:00]: ***  [, Level 0]: 'El patron' has left the game
+[2021-04-13 13:58:01]: Nightmare [, Level 27]: bb
