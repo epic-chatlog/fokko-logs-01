@@ -11007,3 +11007,5 @@
 [2021-04-13 12:10:48]: |ΛnץOиe| [, Level 43]: (1)Cosmo: im not here
 [2021-04-13 12:10:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-13 12:10:51]: |ΛnץOиe| [, Level 43]: (1)Cosmo: im poluce
+[2021-04-13 12:10:53]: |ΛnץOиe| [, Level 43]: police
+[2021-04-13 12:11:00]: |ΛnץOиe| [, Level 43]: (1)Cosmo: i cant sorry wait
