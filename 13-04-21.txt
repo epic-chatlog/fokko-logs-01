@@ -8338,3 +8338,8 @@
 [2021-04-13 09:53:49]: Zephir™ [, Level 39]: any: je les adores :D
 [2021-04-13 09:53:51]: any [404, Level 38]: Zephir™: voc sinon ?
 [2021-04-13 09:53:54]:   [, Level 0]: mamikral011: SkyForge: why stop
+[2021-04-13 09:53:58]: ***  [, Level 0]: 'WarHammer'' has left the game
+[2021-04-13 09:53:58]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-13 09:54:00]: Zephir™ [, Level 39]: any: nan pas maintenant
+[2021-04-13 09:54:05]: any' [404, Level 42]: oki Zephir™
+[2021-04-13 09:54:06]: ***  [, Level 0]: 'Treebeard' has left the game
