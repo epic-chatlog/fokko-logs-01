@@ -12319,3 +12319,6 @@
 [2021-04-13 13:43:04]: casserole :p [, Level 18]: El patron: what did you do?
 [2021-04-13 13:43:18]: Saud [, Level 25]: Kirito:  he have another dummy
 [2021-04-13 13:43:24]: Kirito [{TQuila}, Level 40]: Saud: yeah
+[2021-04-13 13:43:26]: Saud [, Level 25]: she *
+[2021-04-13 13:43:32]: Kirito [{TQuila}, Level 40]: Saud: ?
+[2021-04-13 13:43:35]: Saud [, Level 25]: wtff
