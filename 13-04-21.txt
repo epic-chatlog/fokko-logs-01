@@ -6936,3 +6936,7 @@
 [2021-04-13 08:48:53]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
 [2021-04-13 08:48:54]: ***  [, Level 0]: Good man finished in: 1 minute(s) 31.72 second(s)
 [2021-04-13 08:48:54]: ***  [, Level 0]: New record: 3 minute(s) 34.44 second(s) better.
+[2021-04-13 08:48:55]: ***  [, Level 0]: coca finished in: 2 minute(s) 41.24 second(s)
+[2021-04-13 08:48:55]: ***  [, Level 0]: New record: 9 minute(s) 19.44 second(s) better.
+[2021-04-13 08:49:03]: [D] Mert [[!BRUH!], Level 0]: nıoooooooo
+[2021-04-13 08:49:03]: ***  [, Level 0]: 'TexnoLuppa' has left the game
