@@ -3231,3 +3231,4 @@
 [2021-04-13 04:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-13 04:26:06]: ***  [, Level 0]: 'iwannatrysometh' entered and joined the game
 [2021-04-13 04:26:13]: ***  [, Level 0]: 'CryoFire1990' has left the game
+[2021-04-13 04:26:23]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
