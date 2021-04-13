@@ -4432,3 +4432,8 @@
 [2021-04-13 06:05:05]: ***  [, Level 0]: 'Shy-ra.' has left the game
 [2021-04-13 06:05:13]: ***  [, Level 0]: [D] El patron's killing spree was ended by El patron (9 blocks)
 [2021-04-13 06:05:18]: cookie [, Level 0]: anyone
+[2021-04-13 06:05:23]: Taip [VergleriSay, Level 17]: Anyone: why
+[2021-04-13 06:05:28]: ES [, Level 0]: rayen
+[2021-04-13 06:05:29]:   [, Level 0]: K!ked: opa
+[2021-04-13 06:05:30]: Taip [VergleriSay, Level 17]: pls
+[2021-04-13 06:05:31]:   [, Level 0]: K!ked: ti 4o
