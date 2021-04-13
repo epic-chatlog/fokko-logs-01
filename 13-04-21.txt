@@ -4681,3 +4681,6 @@
 [2021-04-13 06:20:05]: Taip [VergleriSay, Level 17]: xd
 [2021-04-13 06:20:10]: Taip [VergleriSay, Level 17]: keserler beni
 [2021-04-13 06:20:15]: Kahve [, Level 23]: kesmezler söylersin
+[2021-04-13 06:20:17]: ***  [, Level 0]: 'Bloons' entered and joined the game
+[2021-04-13 06:20:20]: ***  [, Level 0]: 'arther' joined the spectators
+[2021-04-13 06:20:27]: cHurch [HUITA, Level 47]: weqe: adleg = weqe :)
