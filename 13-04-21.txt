@@ -6628,3 +6628,7 @@
 [2021-04-13 08:25:24]: coca [, Level 22]: Cylox: hi
 [2021-04-13 08:25:26]: Mert [Blood Gang, Level 0]: noooooooo
 [2021-04-13 08:25:32]: Cylox [, Level 31]: hi
+[2021-04-13 08:25:45]: [D] Mert [[!BRUH!], Level 0]: no
+[2021-04-13 08:25:48]: [D] Mert [[!BRUH!], Level 0]: pls
+[2021-04-13 08:25:49]: ***  [, Level 0]: 'Cylox' finished the special race!
+[2021-04-13 08:25:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
