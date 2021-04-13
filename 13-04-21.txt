@@ -6433,3 +6433,5 @@
 [2021-04-13 08:07:41]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-13 08:07:43]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-13 08:07:46]: Foxie♥ [{TQuila}, Level 40]: shit*
+[2021-04-13 08:07:52]: ***  [, Level 0]: 'Bananarama' entered and joined the game
+[2021-04-13 08:07:54]: Foxie♥ [{TQuila}, Level 40]: FYUCK ME
