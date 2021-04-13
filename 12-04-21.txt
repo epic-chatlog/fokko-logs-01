@@ -16243,3 +16243,5 @@
 [2021-04-12 22:25:27]: S Y T H N [DogParty, Level 37]: bin talk 1
 [2021-04-12 22:25:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-12 22:25:52]: S Y T H N [DogParty, Level 37]: huh
+[2021-04-12 22:25:59]: [D] Boti. [.bad, Level 18]: S Y T H N: i did leave the discord srv cuz ksh was a dickhead and timepause invited me back
+[2021-04-12 22:26:00]: S Y T H N [DogParty, Level 37]: you in .bad to
