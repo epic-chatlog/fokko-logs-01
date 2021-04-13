@@ -8774,3 +8774,8 @@
 [2021-04-13 10:11:48]: kais [, Level 66]: look
 [2021-04-13 10:11:51]: SanoreX [Chilli.*, Level 27]: hook me
 [2021-04-13 10:11:52]: YelloWorlD [DogParty, Level 0]: 1 8
+[2021-04-13 10:11:54]: SanoreX [Chilli.*, Level 27]: wait
+[2021-04-13 10:11:59]: SanoreX [Chilli.*, Level 27]: hook
+[2021-04-13 10:12:03]: YelloWorlD [DogParty, Level 0]: 1 9
+[2021-04-13 10:12:04]: BitchPlease Jr. [BBM, Level 50]: close lol
+[2021-04-13 10:12:04]: NidardoHD [FlexTape, Level 14]: SanoreX: plots are good for farming right?
