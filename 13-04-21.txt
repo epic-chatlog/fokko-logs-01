@@ -2570,3 +2570,5 @@
 [2021-04-13 03:33:28]: ***  [, Level 0]: 'Staubsau[Ger]' entered and joined the game
 [2021-04-13 03:33:29]: (1)SkyForge [, Level 0]: BULLETBOT:  you mean always
 [2021-04-13 03:33:29]: ***  [, Level 0]: '(1)Shy-ra.' entered and joined the game
+[2021-04-13 03:33:38]: BULLETBOT [, Level 0]: WTF
+[2021-04-13 03:33:43]: Isegrin [, Level 55]: Axandos: BISH
