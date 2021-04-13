@@ -4606,3 +4606,5 @@
 [2021-04-13 06:16:18]: [D] Kahve [, Level 19]: laser
 [2021-04-13 06:16:33]:   [, Level 0]: Favorito: ReXi: u helped them
 [2021-04-13 06:16:41]: rexi [, Level 0]: Favorito: who
+[2021-04-13 06:16:44]: ***  [, Level 0]: 'Lucas' entered and joined the game
+[2021-04-13 06:16:52]:   [, Level 0]: Ðream: xD
