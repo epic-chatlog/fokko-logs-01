@@ -16321,3 +16321,7 @@
 [2021-04-12 22:42:11]: ***  [, Level 0]: Drop money: '/money drop <amount>'
 [2021-04-12 22:42:11]: ***  [, Level 0]: Invalid whisper
 [2021-04-12 22:42:13]: OperaYANDEX [, Level 0]: sorry
+[2021-04-12 22:42:19]: OperaYANDEX [, Level 0]: ım noob
+[2021-04-12 22:42:28]: S Y T H N [, Level 39]: hih
+[2021-04-12 22:42:29]: ←   [, Level 0]: Nudelsaft c:: 1say b
+[2021-04-12 22:42:30]: S Y T H N [, Level 39]: ok
