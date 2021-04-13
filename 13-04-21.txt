@@ -3232,3 +3232,4 @@
 [2021-04-13 04:26:06]: ***  [, Level 0]: 'iwannatrysometh' entered and joined the game
 [2021-04-13 04:26:13]: ***  [, Level 0]: 'CryoFire1990' has left the game
 [2021-04-13 04:26:23]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-13 04:26:48]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
