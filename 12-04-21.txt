@@ -16351,3 +16351,4 @@
 [2021-04-12 22:48:35]: ***  [, Level 0]: New record: 55.90 second(s) better.
 [2021-04-12 22:49:53]: ***  [, Level 0]: 'Jerry' has left the game
 [2021-04-12 22:49:53]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-12 22:50:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
