@@ -1795,3 +1795,5 @@
 [2021-04-13 02:38:09]: ***  [, Level 0]: 'Hurricane.' joined the spectators
 [2021-04-13 02:38:12]: ***  [, Level 0]: 'Hurricane.' joined the game
 [2021-04-13 02:38:19]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
+[2021-04-13 02:38:25]: Kezo [DogParty, Level 41]: Intensiv_: düşmanımı kurtarıyo
+[2021-04-13 02:38:28]: Zephir™ [, Level 39]: SkyForge: patetic
