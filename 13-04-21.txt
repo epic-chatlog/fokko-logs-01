@@ -1610,3 +1610,10 @@
 [2021-04-13 02:17:03]: x7|zemer [xSD7, Level 37]: T4L4PP1N0: ?
 [2021-04-13 02:17:05]: ***  [, Level 0]: 'Steve' entered and joined the game
 [2021-04-13 02:17:07]: ***  [, Level 0]: 'dark yo' joined the game
+[2021-04-13 02:17:18]: ***  [, Level 0]: 'T4L4PP1N0' joined the spectators
+[2021-04-13 02:17:20]: ***  [, Level 0]: '(1)[D] Hunter.ex' has left the game (Timeout)
+[2021-04-13 02:17:20]: ***  [, Level 0]: 'Hunter.exe' has left the game (Timeout)
+[2021-04-13 02:17:20]: ***  [, Level 0]: 'sHunter.exe' has left the game (Timeout)
+[2021-04-13 02:17:20]: ***  [, Level 0]: '[D] Hunter.exe' has left the game (Timeout)
+[2021-04-13 02:17:22]: ***  [, Level 0]: 'T4L4PP1N0' joined the game
+[2021-04-13 02:17:23]: Matiteusz [TrRShClNrRs, Level 36]: Cylox: come
