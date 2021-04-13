@@ -16341,3 +16341,5 @@
 [2021-04-12 22:44:39]: Intensiv_ [CrazzyNobbs, Level 2]: ım kezo friend
 [2021-04-12 22:44:51]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-12 22:44:51]: ***  [, Level 0]: '(1)S Y T H N' has left the game
+[2021-04-12 22:45:32]: ←   [, Level 0]: Nudelsaft c:: 0say /pay 138164 Swarfey
+[2021-04-12 22:45:32]: ***  [, Level 0]: You paid 138164 money from your bank account to 'Swarfey'
