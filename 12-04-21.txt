@@ -16062,3 +16062,4 @@
 [2021-04-12 18:55:22]: bob [669, Level 36]: you are nice guy smiley man
 [2021-04-12 18:55:34]: ☺ [, Level 17]: i can't accept
 [2021-04-12 18:55:39]: bob [669, Level 36]: i want to be your friend
+[2021-04-12 18:55:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
