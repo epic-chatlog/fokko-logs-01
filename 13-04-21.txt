@@ -10761,3 +10761,6 @@
 [2021-04-13 11:55:20]: VD|HolyHo|° [VsDoggo´s, Level 28]: Random Guy: come ^^
 [2021-04-13 11:55:22]: JustRace [DogParty, Level 0]: mamikral011:  help us clean the randoms
 [2021-04-13 11:55:33]: ***  [, Level 0]: 'Flipper' entered and joined the game
+[2021-04-13 11:55:47]: VD|HolyHo|° [VsDoggo´s, Level 28]: Zephir™: im waiting
+[2021-04-13 11:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-13 11:55:53]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
