@@ -10252,3 +10252,6 @@
 [2021-04-13 11:24:59]: ***  [, Level 0]: 'Cosmo' entered and joined the game
 [2021-04-13 11:25:00]:   [, Level 0]: noob!: fuck u
 [2021-04-13 11:25:00]: [D] peS [, Level 0]: Kirito: look
+[2021-04-13 11:25:08]: [D] peS [, Level 0]: Kirito: stop
+[2021-04-13 11:25:10]: [D] Mert [[!BRUH!], Level 0]: cosmo
+[2021-04-13 11:25:13]: [D] Mert [[!BRUH!], Level 0]: hello
