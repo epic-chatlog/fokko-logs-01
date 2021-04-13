@@ -16045,3 +16045,6 @@
 [2021-04-12 18:53:25]: ☺ [, Level 17]: euh ok
 [2021-04-12 18:53:40]: bob [669, Level 36]: ??
 [2021-04-12 18:53:46]: bob [669, Level 36]: give me money!!
+[2021-04-12 18:53:59]: bob [669, Level 36]: smiley man
+[2021-04-12 18:54:03]: bob [669, Level 36]: how do you drop money
+[2021-04-12 18:54:03]: ☺ [, Level 17]: yeeeeee
