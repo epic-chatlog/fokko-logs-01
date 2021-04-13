@@ -10013,3 +10013,6 @@
 [2021-04-13 11:11:42]: ***  [, Level 0]: 'leo' joined the spectators
 [2021-04-13 11:11:44]:   [, Level 0]: BULLETBOT: [D] El patron: you decided like that
 [2021-04-13 11:11:45]: ***  [, Level 0]: 'leo' joined the game
+[2021-04-13 11:11:54]: ***  [, Level 0]: 'crackedgrandpa' entered and joined the game
+[2021-04-13 11:11:55]: ***  [, Level 0]: 'leo' joined the spectators
+[2021-04-13 11:11:56]: [D] El patron [, Level 0]: xd
