@@ -5254,3 +5254,6 @@
 [2021-04-13 06:57:58]: ***  [, Level 0]: 'weqe' entered and joined the game
 [2021-04-13 06:58:00]: ***  [, Level 0]: 'Treebeard' has left the game
 [2021-04-13 06:58:03]: ***  [, Level 0]: 'arther' has left the game
+[2021-04-13 06:58:13]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-13 06:58:19]: [D] Kahve [, Level 19]: mamikral011: noldu knk
+[2021-04-13 06:58:22]: mamikral011 [DogParty, Level 22]: Kahve: düşmanım knk
