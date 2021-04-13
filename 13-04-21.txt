@@ -1767,3 +1767,6 @@
 [2021-04-13 02:35:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-13 02:35:50]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
 [2021-04-13 02:35:51]: ***  [, Level 0]: »ℱℬℑ«'s killing spree was ended by Zephir™ (12 blocks)
+[2021-04-13 02:35:55]: Hurricane. [, Level 0]: hey all
+[2021-04-13 02:35:56]: ***  [, Level 0]: '[D] #5 blocker' has left the game
+[2021-04-13 02:36:03]: SkyForge [, Level 0]: ES:  stirb bastard
