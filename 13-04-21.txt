@@ -4102,3 +4102,7 @@
 [2021-04-13 05:35:42]: MieSlime [FookinLads, Level 43]: Nudelsaft c::  hello gay$
 [2021-04-13 05:35:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-13 05:35:53]: Nudelsaft c: [FookinLads, Level 0]: MieSlime: yo
+[2021-04-13 05:35:57]: [D] El patron [, Level 23]: anyone he coome form left
+[2021-04-13 05:35:59]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-13 05:36:02]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-13 05:36:02]: [D] El patron [, Level 23]: Zephir™: he come from left
