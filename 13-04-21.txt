@@ -3205,3 +3205,7 @@
 [2021-04-13 04:23:25]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-13 04:23:41]: ***  [, Level 0]: 'Soros' has left the game
 [2021-04-13 04:23:41]: ***  [, Level 0]: 'el champeon' has left the game
+[2021-04-13 04:23:42]: ***  [, Level 0]: 'el champeon7544' entered and joined the game
+[2021-04-13 04:23:47]: ***  [, Level 0]: 'Soros0145456748' entered and joined the game
+[2021-04-13 04:23:50]: ***  [, Level 0]: 'el champeon7544' has left the game
+[2021-04-13 04:23:50]: ***  [, Level 0]: 'Soros0145456748' has left the game
