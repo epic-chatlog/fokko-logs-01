@@ -10964,3 +10964,5 @@
 [2021-04-13 12:07:20]: ***  [, Level 0]: 'Dr. Schätzchen' entered and joined the game
 [2021-04-13 12:07:28]: |ΛnץOиe| [, Level 43]: Cosmo: help dude
 [2021-04-13 12:07:31]: |ΛnץOиe| [, Level 43]: Cosmo: dont die
+[2021-04-13 12:07:39]: Mista bombastic [TrRShClNrRs, Level 40]: (1)☺: he is not even logged in
+[2021-04-13 12:07:49]: (1)☺ [, Level 12]: Mista bombastic: ok
