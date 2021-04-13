@@ -9248,3 +9248,7 @@
 [2021-04-13 10:32:28]:   [, Level 0]: Mert: sooory
 [2021-04-13 10:32:40]: El patron [, Level 29]: K!ked: afk killer nub
 [2021-04-13 10:33:14]: [D] mamikral011 [DogParty, Level 22]: Taip: düşme
+[2021-04-13 10:33:22]: Taip [VergleriSay, Level 17]: deniyorum
+[2021-04-13 10:33:25]: ***  [, Level 0]: '(1)Saud' has left the game
+[2021-04-13 10:33:25]: ***  [, Level 0]: 'Saud' has left the game
+[2021-04-13 10:33:27]: kais [, Level 66]: RQ
