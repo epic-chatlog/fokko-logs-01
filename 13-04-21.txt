@@ -4439,3 +4439,5 @@
 [2021-04-13 06:05:31]:   [, Level 0]: K!ked: ti 4o
 [2021-04-13 06:05:33]:   [, Level 0]: K!ked: 4istish
 [2021-04-13 06:05:33]: Taip [VergleriSay, Level 17]: why
+[2021-04-13 06:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-13 06:05:53]: cookie [, Level 0]: |ΛnץOиe|: why you kill me
