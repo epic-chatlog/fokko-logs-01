@@ -5144,3 +5144,9 @@
 [2021-04-13 06:50:49]: [D] mamikral011 [DogParty, Level 0]: no
 [2021-04-13 06:50:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-13 06:50:59]: (2)Saud [MNKY, Level 15]: xD
+[2021-04-13 06:51:09]: ***  [, Level 0]: mamikral011 finished in: 7 minute(s)  9.88 second(s)
+[2021-04-13 06:51:09]: ***  [, Level 0]: 'mamikral011' finished the special race!
+[2021-04-13 06:51:10]: ***  [, Level 0]: 'soleri1' finished the special race!
+[2021-04-13 06:51:13]: [D] Kahve [, Level 19]: l o l
+[2021-04-13 06:51:18]: ***  [, Level 0]: [D] mamikral011 finished in: 7 minute(s) 11.60 second(s)
+[2021-04-13 06:51:18]: ***  [, Level 0]: '[D] mamikral011' finished the special race!
