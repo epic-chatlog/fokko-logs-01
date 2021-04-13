@@ -6352,3 +6352,10 @@
 [2021-04-13 08:03:01]: ERROR [404, Level 75]: so noname ye?
 [2021-04-13 08:03:29]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
 [2021-04-13 08:03:29]: CKA3A4NIK[NR] [Night Raid, Level 35]: OMG
+[2021-04-13 08:03:32]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
+[2021-04-13 08:03:33]: CKA3A4NIK[NR] [Night Raid, Level 35]: IM AFK
+[2021-04-13 08:03:35]: CKA3A4NIK[NR] [Night Raid, Level 35]: GAY
+[2021-04-13 08:03:36]: CKA3A4NIK[NR] [Night Raid, Level 35]: OMG
+[2021-04-13 08:03:37]: ***  [, Level 0]: 'CKA3A4NIK' has left the game
+[2021-04-13 08:03:37]: ***  [, Level 0]: 'CKA3A4NIK[NR]' has left the game
+[2021-04-13 08:03:41]: [D] El patron [, Level 23]: trq
