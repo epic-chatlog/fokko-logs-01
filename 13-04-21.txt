@@ -10060,3 +10060,7 @@
 [2021-04-13 11:13:28]:   [, Level 0]: NidardoHD: peS: my dummy already got endless
 [2021-04-13 11:13:35]: ***  [, Level 0]: 'leo' joined the spectators
 [2021-04-13 11:13:35]:   [, Level 0]: Kirito: fomin: why me
+[2021-04-13 11:13:38]: ***  [, Level 0]: 'leo' joined the game
+[2021-04-13 11:13:39]: peS [, Level 32]: Nidardo.: take checpoint here
+[2021-04-13 11:13:42]: Random Guy [, Level 0]: suprise
+[2021-04-13 11:13:48]: Random Guy [, Level 0]: lag
