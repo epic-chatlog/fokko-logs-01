@@ -8129,3 +8129,10 @@
 [2021-04-13 09:45:51]: ***  [, Level 0]: 'Daisukee' joined the game
 [2021-04-13 09:45:51]: mamikral011 [DogParty, Level 27]: [D] SkyForge: stop war?
 [2021-04-13 09:45:52]:   [, Level 0]: lolpoep: help
+[2021-04-13 09:45:56]: ***  [, Level 0]: 'Daisukee' joined the spectators
+[2021-04-13 09:45:59]: SkyForge [, Level 16]: mamikral011:  no :)
+[2021-04-13 09:46:00]: ***  [, Level 0]: 'Daisukee' joined the game
+[2021-04-13 09:46:03]: mamikral011 [DogParty, Level 27]: [D] SkyForge: pls
+[2021-04-13 09:46:06]: [D] El patron [, Level 23]: Zephir™:  SkyForge  wanna come
+[2021-04-13 09:46:06]: ***  [, Level 0]: 'Daisukee' joined the spectators
+[2021-04-13 09:46:07]: ***  [, Level 0]: 889. [D] mamikral011 Time: 05:26.30, requested by [D] mamikral011
