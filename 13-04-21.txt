@@ -1603,3 +1603,5 @@
 [2021-04-13 02:16:28]: ***  [, Level 0]: 'T4L4PP1N0' joined the spectators
 [2021-04-13 02:16:30]: GReeeN [, Level 0]: Nightmare:  i´m HardreenClutch
 [2021-04-13 02:16:32]: ***  [, Level 0]: 'T4L4PP1N0' joined the game
+[2021-04-13 02:16:37]: Nightmare. [, Level 20]: GReeeN: huh
+[2021-04-13 02:16:41]: ***  [, Level 0]: 'zemer' has left the game
