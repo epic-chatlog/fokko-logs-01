@@ -343,3 +343,5 @@
 [2021-04-13 00:28:54]: Cylox. [♥, Level 0]: Intensiv_: as
 [2021-04-13 00:28:59]: ***  [, Level 0]: 'Zeko' entered and joined the game
 [2021-04-13 00:29:06]: (1)fokkonaut [, Level 0]: Marcisten: your version?
+[2021-04-13 00:29:16]: Boti. [.bad, Level 27]: 0.7 nob
+[2021-04-13 00:29:19]: ***  [, Level 0]: '(1)Ðream' joined the minigame 'Block', use '/block' to join aswell
