@@ -1133,3 +1133,6 @@
 [2021-04-13 01:36:10]: ***  [, Level 0]: 'SanoreX.*' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-13 01:36:10]: HardreenClutch [, Level 57]: Kenshi™:  idio
 [2021-04-13 01:36:18]: Kenshi™ [, Level 0]: HardreenClutch: why u brock stack
+[2021-04-13 01:36:22]: ReXi [, Level 0]: warte
+[2021-04-13 01:36:23]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-13 01:36:26]: ReXi [, Level 0]: egal
