@@ -3973,3 +3973,6 @@
 [2021-04-13 05:26:49]: ***  [°, Level 0]: 'nameless tee' joined the spectators
 [2021-04-13 05:26:52]: ***  [°, Level 0]: 'nameless tee' joined the game
 [2021-04-13 05:26:56]:   [, Level 0]: (1)i m noob: noo
+[2021-04-13 05:26:59]:   [, Level 0]: Nudelsaft c:: abcdefghijklmnopqrstuvwxyz
+[2021-04-13 05:27:03]:   [, Level 0]: (1)i m noob: i whant to turn
+[2021-04-13 05:27:03]: El patron [, Level 29]: a
