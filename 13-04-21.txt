@@ -2103,3 +2103,7 @@
 [2021-04-13 03:00:22]: Foxi♥ [{TQuila}, Level 36]: Saud: ur dummy took it
 [2021-04-13 03:00:30]: |MıssOяchiĐ| [, Level 48]: (1)Saud:
 [2021-04-13 03:00:38]: Saud [MNKY, Level 24]: Foxi♥:  we cant
+[2021-04-13 03:00:44]: ***  [, Level 0]: [D] SkyForge is on a killing spree with 10 blocks
+[2021-04-13 03:00:45]: Foxi♥ [{TQuila}, Level 36]: Saud: come
+[2021-04-13 03:00:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-13 03:00:52]: Foxi♥ [{TQuila}, Level 36]: bank
