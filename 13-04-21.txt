@@ -12268,3 +12268,4 @@
 [2021-04-13 13:35:32]: cunt [, Level 0]: BC|Tixnix: d
 [2021-04-13 13:35:43]: ***  [, Level 0]: '|MıssOяchiĐ|' has left the game
 [2021-04-13 13:35:43]: ***  [, Level 0]: '|ΛnץOиe|' has left the game
+[2021-04-13 13:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
