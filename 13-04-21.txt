@@ -10971,3 +10971,5 @@
 [2021-04-13 12:07:58]: ***  [, Level 0]: 'lol' has left the game (Timeout Protection over)
 [2021-04-13 12:08:06]: Saud [, Level 0]: BULLETBOT:  omg u are living in 2012
 [2021-04-13 12:08:07]: BULLETBOT [, Level 0]: Saud: ik? lmao
+[2021-04-13 12:08:19]: ***  [, Level 0]: 'Telefantastic' entered and joined the game
+[2021-04-13 12:08:23]: Saud [, Level 0]: BULLETBOT:  imagine using ik and u are not denemark
