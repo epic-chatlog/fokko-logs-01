@@ -12534,3 +12534,7 @@
 [2021-04-13 14:17:56]: falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: ehre
 [2021-04-13 14:18:04]: ***  [, Level 0]: 'Teet' entered and joined the game
 [2021-04-13 14:18:07]: ***  [, Level 0]: 'Teet' has left the game
+[2021-04-13 14:18:20]: ***  [, Level 0]: 'Teet' entered and joined the game
+[2021-04-13 14:18:22]: ***  [, Level 0]: 'Teet' has left the game
+[2021-04-13 14:18:22]: falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: pls give my money
+[2021-04-13 14:18:24]: Zephir™ [, Level 39]: falkenauge: t'avais cmb ?
