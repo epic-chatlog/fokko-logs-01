@@ -11210,3 +11210,6 @@
 [2021-04-13 12:21:46]: |ΛnץOиe| [, Level 43]: [D] falkenauge: ?
 [2021-04-13 12:21:47]: BULLETBOT [, Level 1]: any:
 [2021-04-13 12:21:47]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 0]: BULLETBOT: ?
+[2021-04-13 12:21:56]: BULLETBOT [, Level 1]: any':
+[2021-04-13 12:22:00]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 0]: |ΛnץOиe|: help me with ur dummy
+[2021-04-13 12:22:02]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 0]: pls
