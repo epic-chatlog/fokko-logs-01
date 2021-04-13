@@ -10868,3 +10868,4 @@
 [2021-04-13 12:01:34]: JustRace [DogParty, Level 0]: cl_aimbot 0
 [2021-04-13 12:01:35]: ***  [, Level 0]: [D] sL|Gabsty finished in: 13 minute(s) 48.52 second(s)
 [2021-04-13 12:01:35]: |MıssOяchiĐ| [, Level 48]: JustRace: nop because u dont have reason ;)
+[2021-04-13 12:01:46]: ***  [, Level 0]: sL|Gabsty finished in: 12 minute(s) 41.94 second(s)
