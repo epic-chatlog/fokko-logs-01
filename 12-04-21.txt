@@ -15990,3 +15990,7 @@
 [2021-04-12 18:46:35]: (1)☺ [, Level 11]: connect you dummy
 [2021-04-12 18:46:39]: (1)☺ [, Level 11]: yor*
 [2021-04-12 18:46:42]: (1)☺ [, Level 11]: your
+[2021-04-12 18:46:52]: Pathrex [, Level 0]: I'll leave
+[2021-04-12 18:46:57]: (1)☺ [, Level 11]: ah bye man
+[2021-04-12 18:46:57]: Pathrex [, Level 0]: maybe next time
+[2021-04-12 18:47:01]: Pathrex [, Level 0]: cya
