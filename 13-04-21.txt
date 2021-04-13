@@ -419,3 +419,5 @@
 [2021-04-13 00:35:24]: ***  [, Level 0]: 'GODLIKe' finished the special race!
 [2021-04-13 00:35:25]: ***  [, Level 0]: 'Cylox' finished the special race!
 [2021-04-13 00:35:26]: Marcisten [Helper, Level 26]: Noémi: mit csinálsz
+[2021-04-13 00:35:31]: ***  [, Level 0]: Cylox. finished in: 8 minute(s)  9.06 second(s)
+[2021-04-13 00:35:31]: ***  [, Level 0]: 'Cylox.' finished the special race!
