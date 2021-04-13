@@ -11194,3 +11194,5 @@
 [2021-04-13 12:21:09]: ***  [, Level 0]: '[D] BULLETBOT' entered and joined the game
 [2021-04-13 12:21:10]: Zephir™ [, Level 39]: ☺: ??? tu veut quoi ?
 [2021-04-13 12:21:13]: |ΛnץOиe| [, Level 43]: VD|HolyHo|: u dont, i say i m
+[2021-04-13 12:21:19]: ***  [, Level 0]: '[D] BULLETBOT' has left the game
+[2021-04-13 12:21:20]: |ΛnץOиe| [, Level 43]: VD|HolyHo|: but its not all the time
