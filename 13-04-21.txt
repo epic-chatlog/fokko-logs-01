@@ -5188,3 +5188,6 @@
 [2021-04-13 06:53:49]: [D] El patron [, Level 23]: a
 [2021-04-13 06:53:51]: |MıssOяchiĐ| [, Level 48]: Zʷʰʸˀ: now its ur war
 [2021-04-13 06:53:52]:   [, Level 0]: oyun krallı: asada olsam kesersiniz
+[2021-04-13 06:53:59]: [D] El patron [, Level 23]: Axandos:
+[2021-04-13 06:54:03]: |MıssOяchiĐ| [, Level 48]: Zʷʰʸˀ: war?
+[2021-04-13 06:54:06]:   [, Level 0]: oyun krallı: mantık var
