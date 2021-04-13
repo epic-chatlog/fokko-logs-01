@@ -7158,3 +7158,6 @@
 [2021-04-13 08:59:04]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-13 08:59:08]: Lucas [THECEPS, Level 35]: Isegrin: what should i do
 [2021-04-13 08:59:08]: Zephir™ [, Level 39]: Cylox: who fight u ?
+[2021-04-13 08:59:14]: Isegrin [, Level 55]: Lucas: sugma dik
+[2021-04-13 08:59:22]: Lucas [THECEPS, Level 35]: Isegrin: no homo
+[2021-04-13 08:59:22]: ***  [, Level 0]: '[D] SkyForge' has left the game
