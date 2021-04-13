@@ -16682,3 +16682,5 @@
 [2021-04-12 23:52:57]: ReXi [, Level 0]: GODLIKe: ah
 [2021-04-12 23:52:57]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
 [2021-04-12 23:53:01]: ***  [, Level 0]: '(1)Swarfey' entered and joined the game
+[2021-04-12 23:53:06]: ***  [, Level 0]: 'Noémi' entered and joined the game
+[2021-04-12 23:53:14]: ***  [, Level 0]: 1 finished in: 2 minute(s) 40.28 second(s)
