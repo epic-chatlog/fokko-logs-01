@@ -4358,3 +4358,6 @@
 [2021-04-13 05:59:07]:   [, Level 0]: |ΛnץOиe|: ik
 [2021-04-13 05:59:11]:   [, Level 0]: |ΛnץOиe|: ok goo
 [2021-04-13 05:59:16]:   [, Level 0]: |ΛnץOиe|: i join u
+[2021-04-13 05:59:33]: Nudelsaft c: [FookinLads, Level 37]: I like turtles.
+[2021-04-13 05:59:37]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-13 05:59:39]: Kahve [, Level 23]: i too
