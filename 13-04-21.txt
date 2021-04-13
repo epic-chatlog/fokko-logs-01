@@ -2920,3 +2920,7 @@
 [2021-04-13 03:58:03]: rexi [, Level 0]: Axandos: <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 [2021-04-13 03:58:07]: ***  [, Level 0]: 'Astraxy' entered and joined the game
 [2021-04-13 03:58:23]: rexi [, Level 0]: Axandos: rly
+[2021-04-13 03:58:30]: Axandos [, Level 25]: WAS RLY SAG DOCH WAS ReXi
+[2021-04-13 03:58:34]: Taip [VergleriSay, Level 0]: fitz: war4life bitch
+[2021-04-13 03:58:37]: ***  [, Level 0]: '(1)[D] SkyForge' has left the game
+[2021-04-13 03:58:37]: ***  [, Level 0]: '(1)SkyForge' has left the game
