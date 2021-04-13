@@ -1166,3 +1166,4 @@
 [2021-04-13 01:38:20]: ***  [, Level 0]: '(1)Shy-ra.' entered and joined the game
 [2021-04-13 01:38:20]: SkyForge [, Level 16]: ReXi:  xD
 [2021-04-13 01:38:20]: 1 [, Level 16]: 2
+[2021-04-13 01:38:24]: 1 [, Level 16]: 1
