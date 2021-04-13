@@ -2774,3 +2774,5 @@
 [2021-04-13 03:47:33]: ***  [, Level 0]: '(1)fitz' entered and joined the game
 [2021-04-13 03:47:36]:   [, Level 0]: Cylox.: war
 [2021-04-13 03:47:37]:   [, Level 0]: whore eater: Mista bombastic: he dumb
+[2021-04-13 03:47:40]: [D] El patron [, Level 0]: 1v4
+[2021-04-13 03:47:41]:   [, Level 0]: Cylox.: al artık
