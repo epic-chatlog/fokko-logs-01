@@ -3806,3 +3806,8 @@
 [2021-04-13 05:14:51]: El patron [, Level 29]: Cylox: come
 [2021-04-13 05:14:54]: Cylox [, Level 31]: no
 [2021-04-13 05:14:57]: Cylox [, Level 31]: Ä± 2 jump
+[2021-04-13 05:15:08]: ***  [°, Level 0]: 'Cylox.' entered and joined the game
+[2021-04-13 05:15:12]: Eden [qwq, Level 0]: thx Saud and (1)Matiteusz
+[2021-04-13 05:15:16]: Eden [qwq, Level 0]: (1)fitz:
+[2021-04-13 05:15:17]:   [, Level 0]: Saud: Eden:  np
+[2021-04-13 05:15:18]: Eden [qwq, Level 0]: t*
