@@ -1630,3 +1630,8 @@
 [2021-04-13 02:18:23]: ***  [, Level 0]: 'T4L4PP1N0' joined the spectators
 [2021-04-13 02:18:26]: ***  [, Level 0]: 'T4L4PP1N0' joined the game
 [2021-04-13 02:18:33]: ***  [, Level 0]: 'vollesprit' entered and joined the game
+[2021-04-13 02:18:42]: ***  [, Level 0]: 'T4L4PP1N0' has left the game
+[2021-04-13 02:18:45]: ***  [, Level 0]: 'T4L4PP1N0' entered and joined the game
+[2021-04-13 02:18:45]: rexi [, Level 0]: Nightmare: pls move
+[2021-04-13 02:18:48]: Cylox. [♥, Level 0]: sad
+[2021-04-13 02:18:48]: ***  [, Level 0]: 'T4L4PP1N0' has left the game
