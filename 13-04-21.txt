@@ -6673,3 +6673,7 @@
 [2021-04-13 08:31:48]: [D] Mert [[!BRUH!], Level 0]: no
 [2021-04-13 08:31:48]: Good man [Drunks, Level 30]: Kenshi™: hi\
 [2021-04-13 08:31:49]: [D] El patron [, Level 23]: hhh3: xd
+[2021-04-13 08:31:59]: ***  [, Level 0]: '»ℱℬℑ«' entered and joined the game
+[2021-04-13 08:32:00]: ***  [, Level 0]: 'Heisn' entered and joined the game
+[2021-04-13 08:32:03]: ***  [, Level 0]: 'Heisn' has left the game
+[2021-04-13 08:32:04]: ***  [, Level 0]: '»ℱℬℑ«' has left the game
