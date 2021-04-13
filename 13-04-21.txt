@@ -11312,3 +11312,8 @@
 [2021-04-13 12:28:09]: ***  [, Level 0]: 'fameless tee' entered and joined the game
 [2021-04-13 12:28:20]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 0]: say im sry
 [2021-04-13 12:28:22]: BULLETBOT [, Level 1]: WTF
+[2021-04-13 12:28:24]: BULLETBOT [, Level 1]: MAN
+[2021-04-13 12:28:29]: BULLETBOT [, Level 1]: ok
+[2021-04-13 12:28:30]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 0]: afk
+[2021-04-13 12:28:31]: Axandos [, Level 25]: where is he Zephir™
+[2021-04-13 12:28:32]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 0]: hahahah
