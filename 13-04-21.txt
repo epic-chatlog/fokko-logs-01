@@ -1,3 +1,5 @@
 [2021-04-13 00:00:00]: ***  [, Level 0]: '[D] #5 blocker' has left the game
 [2021-04-13 00:00:19]: Noémi [helper, Level 40]: fokkonaut: wtf xd
 [2021-04-13 00:00:22]: #5 blocker [|*MorE*|, Level 0]: Axandos: help police
+[2021-04-13 00:00:44]: #5 blocker [|*MorE*|, Level 24]: GODLIKe: help police
+[2021-04-13 00:00:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
