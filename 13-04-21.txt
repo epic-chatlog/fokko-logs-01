@@ -7262,3 +7262,8 @@
 [2021-04-13 09:03:41]: Mert [Blood Gang, Level 0]: nabıyon
 [2021-04-13 09:03:43]: Mert [Blood Gang, Level 0]: aq
 [2021-04-13 09:03:44]: ***  [, Level 0]: 'any' entered and joined the game
+[2021-04-13 09:03:47]: ***  [, Level 0]: '(1)any' entered and joined the game
+[2021-04-13 09:03:51]: ***  [, Level 0]: 'Axandos' entered and joined the game
+[2021-04-13 09:03:52]: ***  [, Level 0]: '(1)any' has left the game
+[2021-04-13 09:03:56]: cunt [, Level 0]: Hala Madrid: hä wie welcher soll ich sein
+[2021-04-13 09:03:57]: Zephir™ [, Level 39]: ERROR: why ? xD
