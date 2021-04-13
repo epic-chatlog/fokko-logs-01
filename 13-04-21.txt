@@ -2060,3 +2060,9 @@
 [2021-04-13 02:58:03]: Zeko [, Level 0]: Fearless:  godzilla .d
 [2021-04-13 02:58:07]: (1)ES [, Level 0]: FITZ
 [2021-04-13 02:58:13]: (1)ES [, Level 0]: fitz
+[2021-04-13 02:58:14]: ***  [, Level 0]: '(1)Fearless' entered and joined the game
+[2021-04-13 02:58:14]: Foxie♥ [{TQuila}, Level 40]: Saud: <3
+[2021-04-13 02:58:14]: [D] SkyForge [, Level 0]: rayen:  you chose the wrong team and youll regret it
+[2021-04-13 02:58:18]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
+[2021-04-13 02:58:20]: Saud [MNKY, Level 24]: Foxie♥: <3
+[2021-04-13 02:58:25]: rexi [, Level 0]: SkyForge: komm
