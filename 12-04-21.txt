@@ -16015,3 +16015,8 @@
 [2021-04-12 18:50:52]: ☺ [, Level 17]: yes
 [2021-04-12 18:51:02]: ☺ [, Level 17]: wait
 [2021-04-12 18:51:10]: ☺ [, Level 17]: press alt and 1
+[2021-04-12 18:51:17]: ***  [, Level 0]: 'ItzPowder' entered and joined the game
+[2021-04-12 18:51:21]: ☺ [, Level 17]: ?
+[2021-04-12 18:51:22]: bob [669, Level 36]: wtf
+[2021-04-12 18:51:25]: ☺ [, Level 17]: WTF
+[2021-04-12 18:51:26]: bob [669, Level 36]: i have kill binded on 1
