@@ -10399,3 +10399,6 @@
 [2021-04-13 11:32:36]:   [, Level 0]: BULLETBOT: ez
 [2021-04-13 11:32:47]: ***  [, Level 0]: 'qKokzq' has left the game
 [2021-04-13 11:33:03]: ***  [, Level 0]: '»ℱℬℑ«' entered and joined the game
+[2021-04-13 11:33:08]: ***  [, Level 0]: 'Recep' has left the game
+[2021-04-13 11:33:13]:   [, Level 0]: Random Guy: czekaj
+[2021-04-13 11:33:15]: [D] peS [, Level 0]: Zephir™: its not mee
