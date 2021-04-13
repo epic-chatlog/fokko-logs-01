@@ -1500,3 +1500,6 @@
 [2021-04-13 02:09:07]: SanoreX [Chilli.*, Level 27]: ok but why
 [2021-04-13 02:09:18]: rexi [, Level 0]: GReeeN: wtf nur 1 jumpß
 [2021-04-13 02:09:25]: GReeeN [, Level 0]: ReXi:  ja hab nichts
+[2021-04-13 02:09:33]: ***  [, Level 0]: WarHammer finished in: 4 minute(s)  5.68 second(s)
+[2021-04-13 02:09:35]: ***  [, Level 0]: WarHammer' finished in: 3 minute(s) 44.18 second(s)
+[2021-04-13 02:09:35]: ***  [, Level 0]: New record: 1 minute(s) 16.48 second(s) better.
