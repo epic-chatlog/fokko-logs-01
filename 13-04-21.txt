@@ -13303,3 +13303,4 @@
 [2021-04-13 16:48:26]: SnowCat [, Level 30]: s6_sven: oh hello
 [2021-04-13 16:48:31]: s6_sven [, Level 21]: hello
 [2021-04-13 16:48:35]: s6_sven [, Level 21]: why you reset SnowCat ?
+[2021-04-13 16:48:43]: s6_sven [, Level 21]: i wanted to set yu up on the corner
