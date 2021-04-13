@@ -1065,3 +1065,5 @@
 [2021-04-13 01:25:22]: hatHCHecks [Sombrero, Level 37]: hook
 [2021-04-13 01:25:34]: hatHCHecks [Sombrero, Level 37]: Kenshi™: add dummy
 [2021-04-13 01:25:42]: ***  [, Level 0]: 'Shy-ra.' entered and joined the game
+[2021-04-13 01:25:46]: Kenshi™ [, Level 0]: hatHCHecks: dummi have bonus too
+[2021-04-13 01:25:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
