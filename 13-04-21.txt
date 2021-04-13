@@ -1102,3 +1102,4 @@
 [2021-04-13 01:31:08]: SanoreX [Chilli.*, Level 27]: dont move
 [2021-04-13 01:31:13]: ***  [, Level 0]: 'tw0hour' entered and joined the game
 [2021-04-13 01:31:16]: SanoreX [Chilli.*, Level 27]: wait
+[2021-04-13 01:31:20]: ***  [, Level 0]: 'PARDUS' entered and joined the game
