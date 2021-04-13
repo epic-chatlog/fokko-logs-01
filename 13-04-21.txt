@@ -468,3 +468,4 @@
 [2021-04-13 00:39:14]: Taip [VergleriSay, Level 17]: ananı sikim
 [2021-04-13 00:39:16]: Taip [VergleriSay, Level 17]: orospu
 [2021-04-13 00:39:17]: Taip [VergleriSay, Level 17]: evladı
+[2021-04-13 00:39:30]: rexi [, Level 0]: wtffff
