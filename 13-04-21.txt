@@ -223,3 +223,6 @@
 [2021-04-13 00:20:12]: fokkonaut [, Level 102]: Noémi:
 [2021-04-13 00:20:28]: Kiøn1029 [.bad, Level 32]: monke
 [2021-04-13 00:20:30]: weqe [669, Level 12]: poka !!
+[2021-04-13 00:20:46]: coca [, Level 22]: fokkonaut: hi
+[2021-04-13 00:20:48]: fokkonaut [, Level 102]: hi
+[2021-04-13 00:20:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
