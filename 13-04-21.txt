@@ -5271,3 +5271,6 @@
 [2021-04-13 06:59:40]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
 [2021-04-13 06:59:41]: |MıssOяchiĐ| [, Level 48]: no
 [2021-04-13 06:59:46]: fitz [, Level 18]: you want money?
+[2021-04-13 06:59:53]: fitz [, Level 18]: |MıssOяchiĐ|:
+[2021-04-13 06:59:54]: (2)Saud [MNKY, Level 15]: KHA
+[2021-04-13 06:59:57]: (2)Saud [MNKY, Level 15]: Kahve:
