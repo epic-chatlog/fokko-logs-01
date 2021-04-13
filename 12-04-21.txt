@@ -16344,3 +16344,5 @@
 [2021-04-12 22:45:32]: ←   [, Level 0]: Nudelsaft c:: 0say /pay 138164 Swarfey
 [2021-04-12 22:45:32]: ***  [, Level 0]: You paid 138164 money from your bank account to 'Swarfey'
 [2021-04-12 22:45:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-12 22:46:08]: ←   [, Level 0]: Nudelsaft c:: 1say /pay 112903 Swarfey
+[2021-04-12 22:46:08]: ***  [, Level 0]: You paid 112903 money from your bank account to 'Swarfey'
