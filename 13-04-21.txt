@@ -3681,3 +3681,5 @@
 [2021-04-13 05:03:56]: ***  [∞, Level 0]: '[D] BC|serwan' finished the special race!
 [2021-04-13 05:04:00]: ***  [∞, Level 0]: BC|serwan finished in: 36 minute(s) 18.66 second(s)
 [2021-04-13 05:04:00]: ***  [∞, Level 0]: 'BC|serwan' finished the special race!
+[2021-04-13 05:04:06]: ***  [∞, Level 0]: '–ê–Ω–∞–Ω–∞—Å–™' has left the game
+[2021-04-13 05:04:10]: GODLIKe. [, Level 0]: rexi: again war
