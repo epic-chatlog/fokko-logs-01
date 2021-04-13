@@ -2139,3 +2139,9 @@
 [2021-04-13 03:03:28]: Zephir™ [, Level 39]: Tziys*: he steal my place
 [2021-04-13 03:03:31]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
 [2021-04-13 03:03:31]: ***  [, Level 0]: '(1)kais' would have timed out, but can use timeout protection now
+[2021-04-13 03:03:33]: [D] SkyForge [, Level 22]: ES:  trash
+[2021-04-13 03:03:34]: (2)kais [, Level 0]: Foxie♥: joke, but i'm crashing for 10 minutes -_
+[2021-04-13 03:03:39]: Foxie♥ [{TQuila}, Level 40]: kais: xD
+[2021-04-13 03:03:43]: (2)kais [, Level 0]: Foxie♥: sad
+[2021-04-13 03:03:44]: ***  [, Level 0]: 'rexi' has left the game (Timeout Protection over)
+[2021-04-13 03:03:44]: ***  [, Level 0]: 'ReXi' has left the game (Timeout Protection over)
