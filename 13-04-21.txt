@@ -4896,3 +4896,4 @@
 [2021-04-13 06:32:31]:   [, Level 0]: Random Guy: i am in spec mode
 [2021-04-13 06:32:42]: ***  [, Level 0]: ass player is on a killing spree with 15 blocks
 [2021-04-13 06:32:55]: ***  [, Level 0]: ass cleaner's killing spree was ended by Matiteusz (7 blocks)
+[2021-04-13 06:33:14]:   [, Level 0]: (1)[D] Kahve: I like turtles.
