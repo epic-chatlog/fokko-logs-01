@@ -1116,3 +1116,6 @@
 [2021-04-13 01:33:58]: ReXi [, Level 0]: Axandos:
 [2021-04-13 01:34:04]: SkyForge [, Level 16]: which motherfucker killed me
 [2021-04-13 01:34:08]: ReXi [, Level 0]: tee:
+[2021-04-13 01:34:47]: ***  [, Level 0]: 'мяу' entered and joined the game
+[2021-04-13 01:34:52]: ***  [, Level 0]: 'HeavyGeneral' entered and joined the game
+[2021-04-13 01:34:55]: ***  [, Level 0]: 'tw0hour' has left the game
