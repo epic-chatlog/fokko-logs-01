@@ -12465,3 +12465,5 @@
 [2021-04-13 14:01:51]: ***  [, Level 0]: 'Nightmare' has left the game
 [2021-04-13 14:01:51]: ***  [, Level 0]: 'Nightmare.' has left the game
 [2021-04-13 14:03:51]: (3)Zʷʰʸˀ [NULL, Level 25]: Kirito: hahahahhah xD
+[2021-04-13 14:04:07]: ***  [, Level 0]: '(1)[₯]cLoud' has left the game (Timeout Protection over)
+[2021-04-13 14:04:07]: ***  [, Level 0]: '[₯]cLoud' has left the game (Timeout Protection over)
