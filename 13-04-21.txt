@@ -12283,3 +12283,4 @@
 [2021-04-13 13:38:17]: Kirito [{TQuila}, Level 40]: Saud: ik it is hard
 [2021-04-13 13:38:18]: ***  [, Level 0]: Saud is on a killing spree with 5 blocks
 [2021-04-13 13:38:23]: ***  [, Level 0]: Saud's killing spree was ended by Zʷʰʸˀ (5 blocks)
+[2021-04-13 13:38:28]: ***  [, Level 0]: (3)Zʷʰʸˀ finished in: 6 minute(s) 24.98 second(s)
