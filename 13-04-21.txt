@@ -1509,3 +1509,6 @@
 [2021-04-13 02:10:04]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-13 02:10:30]: SanoreX [Chilli.*, Level 27]: Nightmare:
 [2021-04-13 02:10:36]: SanoreX [Chilli.*, Level 27]: Nightmare: I never ddos u wtf
+[2021-04-13 02:10:44]: Nightmare [, Level 27]: SanoreX: i can't trust u
+[2021-04-13 02:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-13 02:10:51]: ***  [, Level 0]: 'zemer' entered and joined the game
