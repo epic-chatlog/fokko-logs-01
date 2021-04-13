@@ -1669,3 +1669,4 @@
 [2021-04-13 02:25:12]: ***  [, Level 0]: kais finished in: 742 minute(s)  8.12 second(s)
 [2021-04-13 02:25:12]: ***  [, Level 0]: 'kais' finished the special race!
 [2021-04-13 02:25:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-13 02:26:25]: ***  [, Level 0]: 'zemer' entered and joined the game
