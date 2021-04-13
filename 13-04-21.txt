@@ -11535,3 +11535,7 @@
 [2021-04-13 12:41:11]: [D] El patron [, Level 24]: xd
 [2021-04-13 12:41:12]: ***  [, Level 0]: 'Hera' entered and joined the game
 [2021-04-13 12:41:17]: ***  [, Level 0]: 'Random Guy' entered and joined the game
+[2021-04-13 12:41:33]: |MıssOяchiĐ| [, Level 48]: [D] El patron:
+[2021-04-13 12:41:35]: |MıssOяchiĐ| [, Level 48]: [D] El patron: XDD
+[2021-04-13 12:41:37]: ***  [, Level 0]: 'Jerry' has left the game
+[2021-04-13 12:41:37]: ***  [, Level 0]: 'Tom' has left the game
