@@ -12296,3 +12296,5 @@
 [2021-04-13 13:40:42]: Kirito [{TQuila}, Level 40]: [D] BC|Tixnix: was?
 [2021-04-13 13:40:48]: [D] BC|Tixnix [BC, Level 11]: Kirito: warte
 [2021-04-13 13:40:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-13 13:41:07]: Kirito [{TQuila}, Level 40]: bruh
+[2021-04-13 13:41:09]: Saud [, Level 25]: he is so gay'
