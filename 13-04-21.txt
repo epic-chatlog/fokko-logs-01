@@ -8393,3 +8393,10 @@
 [2021-04-13 09:56:38]: Zephir™ [, Level 39]: K!ked: ?
 [2021-04-13 09:56:44]:   [, Level 0]: SkyForge: hi Gabsty
 [2021-04-13 09:56:44]: ***  [, Level 0]: 'Daisukee' joined the game
+[2021-04-13 09:56:48]: K!ked [De}|{aBю, Level 62]: Zephir™: spec to our friend
+[2021-04-13 09:56:52]:   [, Level 0]: Gabsty: SkyForge: hi
+[2021-04-13 09:56:53]: K!ked [De}|{aBю, Level 62]: Zephir™: El patron
+[2021-04-13 09:56:54]: ***  [, Level 0]: coca finished in: 1 minute(s) 42.82 second(s)
+[2021-04-13 09:56:54]: ***  [, Level 0]: 'Daisukee' joined the spectators
+[2021-04-13 09:56:55]: ***  [, Level 0]: Good man finished in: 1 minute(s) 12.52 second(s)
+[2021-04-13 09:56:58]: ***  [, Level 0]: 'Daisukee' joined the game
