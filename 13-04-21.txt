@@ -10726,3 +10726,5 @@
 [2021-04-13 11:53:08]: mamikral011 [DogParty, Level 0]: JustRace: help my clan friend
 [2021-04-13 11:53:16]: mamikral011 [DogParty, Level 0]: JustRace: ?
 [2021-04-13 11:53:21]: mamikral011 [DogParty, Level 0]: JustRace: what
+[2021-04-13 11:53:30]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-13 11:53:36]: [D] peS [, Level 0]: JustRace: wtff
