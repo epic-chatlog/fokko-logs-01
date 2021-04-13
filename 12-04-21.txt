@@ -16339,3 +16339,5 @@
 [2021-04-12 22:44:20]: ***  [, Level 0]: 'comic' has left the game (Timeout)
 [2021-04-12 22:44:23]: S Y T H N [, Level 39]: inf jumps endless
 [2021-04-12 22:44:39]: Intensiv_ [CrazzyNobbs, Level 2]: ım kezo friend
+[2021-04-12 22:44:51]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-12 22:44:51]: ***  [, Level 0]: '(1)S Y T H N' has left the game
