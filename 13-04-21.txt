@@ -9672,3 +9672,6 @@
 [2021-04-13 10:52:41]: ***  [, Level 0]: 642. Kezo Time: 02:03.06, requested by Kezo
 [2021-04-13 10:52:43]: [D] mamikral011 [DogParty, Level 22]: Kezo: klandan çık sonra geri gir at onları
 [2021-04-13 10:52:49]:   [, Level 0]: Kezo: Mert: aptalın tekisin muck
+[2021-04-13 10:52:52]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-13 10:52:54]: Mert [Blood Gang, Level 0]: :(
+[2021-04-13 10:53:02]: Mert [Blood Gang, Level 0]: niye sevmiyon beni
