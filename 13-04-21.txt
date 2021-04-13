@@ -2257,3 +2257,4 @@
 [2021-04-13 03:11:43]: ReXi [, Level 0]: SkyForge: chill war aus versehen
 [2021-04-13 03:11:47]: Taip [VergleriSay, Level 17]: portal
 [2021-04-13 03:11:48]: Taip [VergleriSay, Level 17]: plz
+[2021-04-13 03:12:02]: ***  [, Level 0]: '(1)[D] SkyForge' entered and joined the game
