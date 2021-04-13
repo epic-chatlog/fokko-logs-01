@@ -16697,3 +16697,7 @@
 [2021-04-12 23:54:56]: rexi [, Level 0]: GODLIKe: pathatic
 [2021-04-12 23:55:02]: ***  [, Level 0]: '1' finished the special race!
 [2021-04-12 23:55:16]: TimePause [xSD7, Level 35]: xd
+[2021-04-12 23:55:29]: GODLIKe [, Level 44]: Meetiteusz:
+[2021-04-12 23:55:30]: ***  [, Level 0]: 'TimePause's nub' has left the game
+[2021-04-12 23:55:30]: ***  [, Level 0]: 'TimePause' has left the game
+[2021-04-12 23:55:34]: (1)ERROR [404, Level 56]: xD
