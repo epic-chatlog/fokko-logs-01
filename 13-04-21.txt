@@ -6921,3 +6921,6 @@
 [2021-04-13 08:47:41]: [D] El patron [, Level 23]: S Y T H N: wtf
 [2021-04-13 08:47:42]: Flipper [, Level 0]: hhh3:
 [2021-04-13 08:47:49]: [D] El patron [, Level 23]: S Y T H N: sniper
+[2021-04-13 08:47:55]: Flipper [, Level 0]: hhh3:
+[2021-04-13 08:47:56]: Nidardo. [TOP, Level 12]: ahhh xd
+[2021-04-13 08:47:57]: Flipper [, Level 0]: ?
