@@ -9884,3 +9884,4 @@
 [2021-04-13 11:03:38]: ***  [, Level 0]: fomjn is on a killing spree with 15 blocks
 [2021-04-13 11:03:48]: ***  [, Level 0]: fomjn's killing spree was ended by bob (18 blocks)
 [2021-04-13 11:04:01]: ***  [, Level 0]: fomin is on a killing spree with 10 blocks
+[2021-04-13 11:04:21]: El patron [, Level 29]: xd
