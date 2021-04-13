@@ -2836,3 +2836,7 @@
 [2021-04-13 03:53:22]: ***  [, Level 0]: 'Mista bombastic' has left the game
 [2021-04-13 03:53:24]: rexi [, Level 0]: Zephir™: whore eater
 [2021-04-13 03:53:31]: ***  [, Level 0]: 'Mert' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-13 03:53:40]: ***  [, Level 0]: Rem's bae finished in: 10 minute(s) 27.06 second(s)
+[2021-04-13 03:53:40]: ***  [, Level 0]: 'Rem's bae' finished the special race!
+[2021-04-13 03:53:42]: (1)[D] SkyForge [, Level 22]: Zephir™:  fighting smn without buffs with every buff
+[2021-04-13 03:53:45]: (1)[D] SkyForge [, Level 22]: Zephir™:  your a noob
