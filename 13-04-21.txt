@@ -1379,3 +1379,5 @@
 [2021-04-13 01:53:10]: SanoreX [Chilli.*, Level 27]: (1)Ƭevan: come spawn
 [2021-04-13 01:53:39]: ***  [, Level 0]: '[D] tee' has left the game
 [2021-04-13 01:53:39]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-13 01:55:25]: ***  [, Level 0]: 'WarHammer' has left the game (Timeout)
+[2021-04-13 01:55:25]: ***  [, Level 0]: 'WarHammer'' has left the game (Timeout)
