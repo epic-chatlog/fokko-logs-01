@@ -817,3 +817,6 @@
 [2021-04-13 01:02:55]: Good man [Drunks, Level 30]: Cylox: lets kill him
 [2021-04-13 01:02:59]: (1)SanoreX.* [Chilli.*, Level 0]:                                                  G                                                            A                                                             Y
 [2021-04-13 01:03:00]: ***  [, Level 0]: S Y T H N is on a killing spree with 5 blocks
+[2021-04-13 01:03:12]: (1)SanoreX.* [Chilli.*, Level 0]: [2021-04-13 13:49:11][client]: prediction time reset!
+[2021-04-13 01:03:17]: Good man [Drunks, Level 30]: S Y T H N: help me
+[2021-04-13 01:03:17]: andrea [, Level 0]: I like turtles.
