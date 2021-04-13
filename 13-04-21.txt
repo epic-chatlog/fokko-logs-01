@@ -10941,3 +10941,6 @@
 [2021-04-13 12:05:23]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
 [2021-04-13 12:05:29]: |ΛnץOиe| [, Level 0]: GRENADE
 [2021-04-13 12:05:33]: |ΛnץOиe| [, Level 0]: ye
+[2021-04-13 12:05:44]: ***  [, Level 0]: 'Shy-ra.' has left the game
+[2021-04-13 12:05:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-13 12:05:52]:   [, Level 0]: NidardoHD: JustRace: I started playing on this server a few days ago. Im more like a ddracer but I started block
