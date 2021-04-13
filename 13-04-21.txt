@@ -12799,3 +12799,6 @@
 [2021-04-13 15:33:01]: (2)Saud [, Level 0]: he have war with me
 [2021-04-13 15:33:12]: (2)Saud [, Level 0]: Kirito:
 [2021-04-13 15:33:13]: (1)☺ [, Level 0]: Nidardo.:
+[2021-04-13 15:33:21]: Kirito [{TQuila}, Level 40]: Saud: ya?
+[2021-04-13 15:33:23]: ***  [, Level 0]: 'Pastz' has left the game
+[2021-04-13 15:33:27]: Nidardo. [TOP, Level 13]: wtf
