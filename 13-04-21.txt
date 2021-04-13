@@ -10004,3 +10004,12 @@
 [2021-04-13 11:11:29]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-13 11:11:32]: |ΛnץOиe| [, Level 0]: BC|Tixnix: u kill me?
 [2021-04-13 11:11:33]: ***  [, Level 0]: 'leo' joined the spectators
+[2021-04-13 11:11:36]: ***  [, Level 0]: 'Bartłomiejósz' entered and joined the game
+[2021-04-13 11:11:37]: ***  [, Level 0]: 'leo' joined the game
+[2021-04-13 11:11:37]: ***  [, Level 0]: 'bobek' entered and joined the game
+[2021-04-13 11:11:38]: ***  [, Level 0]: 'Bartłomiejósz' has left the game
+[2021-04-13 11:11:39]: ***  [, Level 0]: 'bobek' has left the game
+[2021-04-13 11:11:42]: |ΛnץOиe| [, Level 0]: Foxie♥: or you?
+[2021-04-13 11:11:42]: ***  [, Level 0]: 'leo' joined the spectators
+[2021-04-13 11:11:44]:   [, Level 0]: BULLETBOT: [D] El patron: you decided like that
+[2021-04-13 11:11:45]: ***  [, Level 0]: 'leo' joined the game
