@@ -16025,3 +16025,7 @@
 [2021-04-12 18:51:34]: ☺ [, Level 17]: WTF
 [2021-04-12 18:51:36]: ☺ [, Level 17]: wtf
 [2021-04-12 18:51:38]: bob [669, Level 36]: wtff
+[2021-04-12 18:51:41]: ☺ [, Level 17]: nooo noo
+[2021-04-12 18:51:41]: ***  [, Level 0]: 'ItzPowder' has left the game
+[2021-04-12 18:51:46]: bob [669, Level 36]: i come kill you now
+[2021-04-12 18:51:48]: bob [669, Level 36]: ive had enough
