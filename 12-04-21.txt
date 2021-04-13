@@ -16187,3 +16187,4 @@
 [2021-04-12 22:13:51]: ***  [, Level 0]: '(1)S Y T H N' entered and joined the game
 [2021-04-12 22:14:46]: S Y T H N [DogParty, Level 37]: Boti.: where are you
 [2021-04-12 22:14:51]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
+[2021-04-12 22:15:12]: ***  [, Level 0]: '(1)S Y T H N' has left the game (Timeout)
