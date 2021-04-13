@@ -4311,3 +4311,4 @@
 [2021-04-13 05:53:44]:   [, Level 0]: Taip: i have a question
 [2021-04-13 05:54:08]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-13 05:54:13]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-13 05:54:28]: ***  [, Level 0]: 'nameless tee' joined the spectators
