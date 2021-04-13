@@ -744,3 +744,9 @@
 [2021-04-13 00:58:01]: ***  [, Level 0]: 'GODLIKe.' has left the game
 [2021-04-13 00:58:05]: (1)SanoreX [Chilli.*, Level 0]: S Y T H N: u gay
 [2021-04-13 00:58:07]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-13 00:58:09]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-13 00:58:12]: GODLIKe [, Level 0]: WTF
+[2021-04-13 00:58:13]: GODLIKe [, Level 0]: CRASH
+[2021-04-13 00:58:13]: Zephir™ [, Level 39]: S Y T H N:
+[2021-04-13 00:58:18]: ***  [, Level 0]: '(1)Ðream' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-13 00:58:19]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
