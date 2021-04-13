@@ -16480,3 +16480,5 @@
 [2021-04-12 23:23:16]: S Y T H N [, Level 37]: Mr.KshKsh99: ok.
 [2021-04-12 23:23:24]: ***  [, Level 0]: 'ERROR,' changed name to 'Zephir'
 [2021-04-12 23:23:31]: S Y T H N [, Level 37]: ERROR: wait
+[2021-04-12 23:23:41]: S Y T H N [, Level 37]: um
+[2021-04-12 23:23:50]: S Y T H N [, Level 37]: fühle mich verarscht xD
