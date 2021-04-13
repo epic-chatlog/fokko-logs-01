@@ -13278,3 +13278,5 @@
 [2021-04-13 16:44:51]: s6_sven [, Level 21]: left
 [2021-04-13 16:44:54]: SnowCat [, Level 30]: im go to normall client
 [2021-04-13 16:44:58]: ***  [, Level 0]: 'SnowCat' has left the game
+[2021-04-13 16:45:12]: ***  [, Level 0]: 'SnowCat' entered and joined the game
+[2021-04-13 16:45:13]: s6_sven [, Level 21]: (1)☺:  come left
