@@ -1279,3 +1279,5 @@
 [2021-04-13 01:44:48]: ***  [, Level 0]: 'Teet' entered and joined the game
 [2021-04-13 01:44:54]: ThomasTurner884 [, Level 0]: DD
 [2021-04-13 01:44:58]: ***  [, Level 0]: 'ThomasTurner884' has left the game
+[2021-04-13 01:45:08]: Foxie♥ [{TQuila}, Level 40]: Nudelsaft c:: <3
+[2021-04-13 01:45:10]: Nudelsaft c: [FookinLads, Level 37]: <3
