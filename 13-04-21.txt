@@ -1408,3 +1408,7 @@
 [2021-04-13 01:59:49]: ***  [, Level 0]: 'Juzudek' has left the game
 [2021-04-13 02:00:22]: Axandos [, Level 25]: bruh
 [2021-04-13 02:00:34]: ***  [, Level 0]: ### 'SanoreX' @everyone spec me now how heart dont freezed me WTF
+[2021-04-13 02:00:47]: ***  [, Level 0]: '(3)Shy-ra.' entered and joined the game
+[2021-04-13 02:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-13 02:00:51]: ***  [, Level 0]: ### 'SanoreX' @everyone spec me now how heart dont freezed me WTF
+[2021-04-13 02:00:56]: Axandos [, Level 25]: suicide is the best way :D
