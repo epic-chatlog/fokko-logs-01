@@ -10864,3 +10864,7 @@
 [2021-04-13 12:01:16]:   [, Level 0]: BULLETBOT: check discord Saud
 [2021-04-13 12:01:18]:   [, Level 0]: BULLETBOT: XDDDDDDDDDD
 [2021-04-13 12:01:19]: JustRace [DogParty, Level 0]: |MıssOяchiĐ|:  you still save randoms
+[2021-04-13 12:01:29]: JustRace [DogParty, Level 0]: cl_aimbot 1
+[2021-04-13 12:01:34]: JustRace [DogParty, Level 0]: cl_aimbot 0
+[2021-04-13 12:01:35]: ***  [, Level 0]: [D] sL|Gabsty finished in: 13 minute(s) 48.52 second(s)
+[2021-04-13 12:01:35]: |MıssOяchiĐ| [, Level 48]: JustRace: nop because u dont have reason ;)
