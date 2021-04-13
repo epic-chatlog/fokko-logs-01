@@ -16482,3 +16482,5 @@
 [2021-04-12 23:23:31]: S Y T H N [, Level 37]: ERROR: wait
 [2021-04-12 23:23:41]: S Y T H N [, Level 37]: um
 [2021-04-12 23:23:50]: S Y T H N [, Level 37]: fühle mich verarscht xD
+[2021-04-12 23:24:05]: Zephir [, Level 0]: ERROR: sorry i have a deconnection with my computer
+[2021-04-12 23:24:05]: S Y T H N [, Level 37]: ERROR: was du die ganze zeit  Zephir ...
