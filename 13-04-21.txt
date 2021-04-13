@@ -12370,3 +12370,5 @@
 [2021-04-13 13:48:37]: (2)Zʷʰʸˀ [NULL, Level 26]: Kirito: portal nub no skill xD
 [2021-04-13 13:48:42]: Kirito [{TQuila}, Level 40]: Saud: yup
 [2021-04-13 13:49:05]: Kirito [{TQuila}, Level 40]: Zʷʰʸˀ: all the revenge for blocking me in my plot
+[2021-04-13 13:49:16]: ***  [, Level 0]: 'Nightmare.' entered and joined the game
+[2021-04-13 13:49:17]: ***  [, Level 0]: '(1)[₯]cLoud' entered and joined the game
