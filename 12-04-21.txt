@@ -16567,3 +16567,5 @@
 [2021-04-12 23:36:51]: ***  [, Level 0]: Collected 3 money
 [2021-04-12 23:37:05]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
 [2021-04-12 23:37:05]: ***  [, Level 0]: 'fokkonaut' has left the game
+[2021-04-12 23:37:19]: Intensiv_ [CrazzyNobbs, Level 3]: 1 pls not block
+[2021-04-12 23:37:22]: ***  [, Level 0]: 'Zeko' entered and joined the game
