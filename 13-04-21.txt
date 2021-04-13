@@ -4344,3 +4344,5 @@
 [2021-04-13 05:57:38]: [D] Kahve [, Level 19]: than kyou
 [2021-04-13 05:57:40]: [D] Kahve [, Level 19]: thank you
 [2021-04-13 05:57:43]: [D] Kahve [, Level 19]: wtf
+[2021-04-13 05:58:21]: ***  [, Level 0]: 'Nidardo.' entered and joined the game
+[2021-04-13 05:58:22]: ***  [, Level 0]: Kahve finished in: 4 minute(s) 47.94 second(s)
