@@ -7408,3 +7408,8 @@
 [2021-04-13 09:11:12]: MOM [, Level 0]: cześć
 [2021-04-13 09:11:17]: ***  [, Level 0]: 'cHurch' entered and joined the game
 [2021-04-13 09:11:22]: Isegrin [, Level 55]: MOM: Hola
+[2021-04-13 09:11:25]: [D] El patron [, Level 23]: haha
+[2021-04-13 09:11:27]: MOM [, Level 0]: cześć, jak się masz
+[2021-04-13 09:11:32]: MOM [, Level 0]: Isegrin: hola come estas
+[2021-04-13 09:11:34]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-13 09:11:34]: ***  [, Level 0]: '[D] mamikral011' has left the game
