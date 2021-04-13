@@ -10113,3 +10113,8 @@
 [2021-04-13 11:15:22]: ***  [, Level 0]: 'leo' joined the spectators
 [2021-04-13 11:15:24]:   [, Level 0]: noob!: GReeeN: :D
 [2021-04-13 11:15:25]: ***  [, Level 0]: 'leo' joined the game
+[2021-04-13 11:15:44]: ***  [, Level 0]: 'leo' joined the spectators
+[2021-04-13 11:15:46]: ***  [, Level 0]: »ℱℬℑ« is on a killing spree with 5 blocks
+[2021-04-13 11:15:47]: Mert [Blood Gang, Level 0]: thanks
+[2021-04-13 11:15:48]: ***  [, Level 0]: 'leo' joined the game
+[2021-04-13 11:15:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
