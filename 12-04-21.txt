@@ -16004,3 +16004,6 @@
 [2021-04-12 18:49:52]: ***  [, Level 0]: 'ItzPowder' entered and joined the game
 [2021-04-12 18:49:56]: bob [669, Level 36]: smiley man
 [2021-04-12 18:50:00]: ☺ [, Level 17]: yes
+[2021-04-12 18:50:04]: bob [669, Level 36]: i need to kill you
+[2021-04-12 18:50:11]: ***  [, Level 0]: 'ItzPowder' has left the game
+[2021-04-12 18:50:12]: ☺ [, Level 17]: but why
