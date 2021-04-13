@@ -1105,3 +1105,4 @@
 [2021-04-13 01:31:20]: ***  [, Level 0]: 'PARDUS' entered and joined the game
 [2021-04-13 01:31:45]: SanoreX [Chilli.*, Level 27]: afk wait
 [2021-04-13 01:31:49]: SanoreX [Chilli.*, Level 27]: dingdong
+[2021-04-13 01:32:43]: SkyForge [, Level 16]: SanoreX:  hi :D
