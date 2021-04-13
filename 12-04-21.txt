@@ -15966,3 +15966,4 @@
 [2021-04-12 18:35:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-12 18:40:38]: ***  [, Level 0]: 'Pathrex' entered and joined the game
 [2021-04-12 18:40:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-12 18:41:28]: (1)☺ [, Level 11]: double jumps
