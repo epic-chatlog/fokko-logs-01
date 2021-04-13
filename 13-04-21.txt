@@ -7543,3 +7543,7 @@
 [2021-04-13 09:20:03]: ERROR [404, Level 75]: ye lol
 [2021-04-13 09:20:04]: [D] El patron [, Level 23]: soleri1:  you'll never be able to farm again
 [2021-04-13 09:20:06]:   [, Level 0]: SanoreX: lag
+[2021-04-13 09:20:17]: [D] El patron [, Level 23]: soleri1:  i come and fuck u
+[2021-04-13 09:20:20]: ***  [, Level 0]: 'Kezo' entered and joined the game
+[2021-04-13 09:20:23]:   [, Level 0]: SanoreX: Daisukeee: kill
+[2021-04-13 09:20:25]: SkyForge [, Level 16]: BC|serwan:
