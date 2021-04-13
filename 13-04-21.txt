@@ -6940,3 +6940,4 @@
 [2021-04-13 08:48:55]: ***  [, Level 0]: New record: 9 minute(s) 19.44 second(s) better.
 [2021-04-13 08:49:03]: [D] Mert [[!BRUH!], Level 0]: nıoooooooo
 [2021-04-13 08:49:03]: ***  [, Level 0]: 'TexnoLuppa' has left the game
+[2021-04-13 08:49:13]: ***  [, Level 0]: 'cya' entered and joined the game
