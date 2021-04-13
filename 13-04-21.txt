@@ -1710,3 +1710,7 @@
 [2021-04-13 02:29:58]: ***  [, Level 0]: 'infiniter' joined the game
 [2021-04-13 02:30:03]: x7|zemer [xSD7, Level 37]: ReXi: Was ist mit ihm
 [2021-04-13 02:30:05]: ***  [, Level 0]: 'infiniter' has left the game
+[2021-04-13 02:30:16]: ReXi [, Level 0]: zemer jz alles wieder gut^^
+[2021-04-13 02:30:22]: x7|zemer [xSD7, Level 37]: ReXi: Ok
+[2021-04-13 02:30:22]: ***  [, Level 0]: '»ℱℬℑ«' entered and joined the game
+[2021-04-13 02:30:24]: ***  [, Level 0]: 'fitz' entered and joined the game
