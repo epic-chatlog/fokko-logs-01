@@ -16411,3 +16411,7 @@
 [2021-04-12 23:12:00]: S Y T H N [, Level 37]: ERROR: yo
 [2021-04-12 23:12:16]: ***  [, Level 0]: 'R3al mfkng Tee' entered and joined the game
 [2021-04-12 23:12:19]: S Y T H N [, Level 37]: haste gleich arbeit
+[2021-04-12 23:12:26]: Intensiv_ [CrazzyNobbs, Level 2]: no
+[2021-04-12 23:12:28]: Intensiv_ [CrazzyNobbs, Level 2]: pls
+[2021-04-12 23:12:30]: Intensiv_ [CrazzyNobbs, Level 2]: :(
+[2021-04-12 23:12:36]: R3al mfkng Tee [, Level 0]: HELP
