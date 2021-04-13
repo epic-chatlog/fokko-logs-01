@@ -5191,3 +5191,4 @@
 [2021-04-13 06:53:59]: [D] El patron [, Level 23]: Axandos:
 [2021-04-13 06:54:03]: |MıssOяchiĐ| [, Level 48]: Zʷʰʸˀ: war?
 [2021-04-13 06:54:06]:   [, Level 0]: oyun krallı: mantık var
+[2021-04-13 06:54:16]: El patron [, Level 29]: cookie: jet
