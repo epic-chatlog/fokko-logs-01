@@ -9634,3 +9634,6 @@
 [2021-04-13 10:50:49]: ***  [, Level 0]: '♥TAKO♥' entered and joined the game
 [2021-04-13 10:50:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-13 10:50:54]: Kezo [DogParty, Level 41]: ♥TAKO♥: ağla
+[2021-04-13 10:50:57]: Mert [Blood Gang, Level 0]: wtf
+[2021-04-13 10:51:00]: Axandos² [, Level 20]: missed u a bit ngl Emilcha  :D
+[2021-04-13 10:51:08]: Mert [Blood Gang, Level 0]: I like turtles.
