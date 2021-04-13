@@ -10851,3 +10851,7 @@
 [2021-04-13 12:00:42]:   [, Level 0]: OP|Supers: soleri1:  no
 [2021-04-13 12:00:46]: ***  [, Level 0]: (1)Cosmo finished in: 16 minute(s) 22.96 second(s)
 [2021-04-13 12:00:46]: ***  [, Level 0]: 'allah dovdum' has left the game
+[2021-04-13 12:00:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-13 12:00:51]: ***  [, Level 0]: 'hhh3' has left the game
+[2021-04-13 12:00:51]: NoobEmirF [NEF, Level 0]: JustRace: bro why u bully me
+[2021-04-13 12:00:58]: Saud [, Level 0]: BULLETBOT:  idiot
