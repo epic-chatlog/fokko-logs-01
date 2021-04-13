@@ -3436,3 +3436,8 @@
 [2021-04-13 04:40:14]: El patron [, Level 28]: Intensiv: war
 [2021-04-13 04:40:16]:   [, Level 0]: WarHammer: Kahve:  plot ha
 [2021-04-13 04:40:20]: İntensiv_ [CrazyNoobs, Level 0]: El patron:  napım
+[2021-04-13 04:40:23]:   [, Level 0]: WarHammer: Kahve:  plot süresi bitmişmi ve ya alcanmı
+[2021-04-13 04:40:28]: ZillyDreck. [1, Level 44]: Intensiv: war for life
+[2021-04-13 04:40:28]: Zephir™ [, Level 39]: Corso: ou Favorito le quel des deux est any ?
+[2021-04-13 04:40:29]: ***  [�, Level 0]: '1' has left the game (Timeout)
+[2021-04-13 04:40:30]: Kezo [DogParty, Level 41]: ZillyDreck: neden ?
