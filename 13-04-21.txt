@@ -700,3 +700,8 @@
 [2021-04-13 00:56:20]: ***  [, Level 0]: '(1)Ðream' left the minigame 'Block'
 [2021-04-13 00:56:25]: ***  [, Level 0]: ### 'SanoreX' [2021-04-13 13:49:11][client]: prediction time reset!
 [2021-04-13 00:56:26]: ***  [, Level 0]: ### 'SanoreX.*' [2021-04-13 13:49:11][client]: prediction time reset!
+[2021-04-13 00:56:30]: ***  [, Level 0]: Marcisten finished in: 3 minute(s) 37.38 second(s)
+[2021-04-13 00:56:30]: ***  [, Level 0]: New record: 3 minute(s) 55.06 second(s) better.
+[2021-04-13 00:56:34]: ***  [, Level 0]: '(1)Ðream' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-13 00:56:39]: Recep [VergleriSay, Level 0]: coca: we team
+[2021-04-13 00:56:42]: Recep [VergleriSay, Level 0]: bruh?
