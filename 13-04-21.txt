@@ -6514,3 +6514,5 @@
 [2021-04-13 08:13:12]: El patron [, Level 29]: Zephir™: rifel
 [2021-04-13 08:13:16]: zZz [{D}, Level 0]: (1)☺: me
 [2021-04-13 08:13:21]: (1)☺ [, Level 12]: xd
+[2021-04-13 08:13:38]: El patron [, Level 29]: a
+[2021-04-13 08:13:47]: ***  [, Level 0]: 'RM | Arin' entered and joined the game
