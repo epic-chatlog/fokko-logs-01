@@ -16379,3 +16379,4 @@
 [2021-04-12 23:00:23]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-12 23:00:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-12 23:01:32]: ***  [, Level 0]: 'Zeko' has left the game
+[2021-04-12 23:02:00]: ***  [, Level 0]: 'Zeko' entered and joined the game
