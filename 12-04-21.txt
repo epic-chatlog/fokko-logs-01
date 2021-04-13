@@ -16012,3 +16012,5 @@
 [2021-04-12 18:50:30]: ☺ [, Level 17]: 100
 [2021-04-12 18:50:49]: bob [669, Level 36]: smiley man
 [2021-04-12 18:50:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-12 18:50:52]: ☺ [, Level 17]: yes
+[2021-04-12 18:51:02]: ☺ [, Level 17]: wait
