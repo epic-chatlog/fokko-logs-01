@@ -4699,3 +4699,5 @@
 [2021-04-13 06:21:38]: ***  [, Level 0]: 'K!ked' has left the game
 [2021-04-13 06:21:38]: ***  [, Level 0]: 'cHurch' has left the game
 [2021-04-13 06:21:38]: Taip [VergleriSay, Level 17]: 69k var
+[2021-04-13 06:21:41]: [D] Kahve [, Level 19]: tamam seni polis yapiyim
+[2021-04-13 06:21:47]: [D] Kahve [, Level 19]: bende 40k var
