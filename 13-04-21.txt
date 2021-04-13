@@ -3169,3 +3169,4 @@
 [2021-04-13 04:20:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-13 04:20:53]: ***  [, Level 0]: 'arther' joined the game
 [2021-04-13 04:21:00]: ***  [, Level 0]: (1)fitz is on a killing spree with 5 blocks
+[2021-04-13 04:21:12]: rexi [, Level 0]: rip
