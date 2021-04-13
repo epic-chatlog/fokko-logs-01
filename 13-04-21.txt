@@ -3178,3 +3178,6 @@
 [2021-04-13 04:21:28]: ***  [, Level 0]: 'rexi' has been muted for 60 seconds
 [2021-04-13 04:21:29]: ***  [, Level 0]: 'arther' joined the spectators
 [2021-04-13 04:21:34]: ***  [, Level 0]: 'arther' joined the game
+[2021-04-13 04:21:41]: ***  [, Level 0]: el champeon's killing spree was ended by Michel (5 blocks)
+[2021-04-13 04:21:45]: ***  [, Level 0]: 'arther' joined the spectators
+[2021-04-13 04:21:49]: ***  [, Level 0]: 'arther' joined the game
