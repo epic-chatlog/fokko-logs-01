@@ -5289,3 +5289,7 @@
 [2021-04-13 07:00:58]: ***  [, Level 0]: 'Bananarama' entered and joined the game
 [2021-04-13 07:01:01]: |MıssOяchiĐ| [, Level 48]: [D] El patron: PFF HE IS BORING
 [2021-04-13 07:01:03]:   [, Level 0]: weqe: mamikral011: war ?
+[2021-04-13 07:01:10]: [D] mamikral011 [DogParty, Level 27]: weqe: wait
+[2021-04-13 07:01:12]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-13 07:01:15]: [D] El patron [, Level 23]: xd
+[2021-04-13 07:01:15]: [D] mamikral011 [DogParty, Level 27]: weqe: war
