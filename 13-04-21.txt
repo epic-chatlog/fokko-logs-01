@@ -1130,3 +1130,6 @@
 [2021-04-13 01:35:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-13 01:35:57]: SanoreX [Chilli.*, Level 27]: give me it
 [2021-04-13 01:36:00]: SanoreX [Chilli.*, Level 27]: jumps
+[2021-04-13 01:36:10]: ***  [, Level 0]: 'SanoreX.*' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-13 01:36:10]: HardreenClutch [, Level 57]: Kenshi™:  idio
+[2021-04-13 01:36:18]: Kenshi™ [, Level 0]: HardreenClutch: why u brock stack
