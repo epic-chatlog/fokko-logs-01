@@ -12261,3 +12261,5 @@
 [2021-04-13 13:33:44]: Saud [, Level 25]: '
 [2021-04-13 13:33:58]: ***  [, Level 0]: 'Hera' has left the game
 [2021-04-13 13:34:05]: ***  [, Level 0]: 'cunt' entered and joined the game
+[2021-04-13 13:35:03]: cunt [, Level 0]: BitchPlease Jr.:
+[2021-04-13 13:35:08]: Kirito [{TQuila}, Level 40]: Saud:
