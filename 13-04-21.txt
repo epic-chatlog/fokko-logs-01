@@ -13213,3 +13213,5 @@
 [2021-04-13 16:35:40]: ***  [, Level 0]: 'SnowCat' entered and joined the game
 [2021-04-13 16:35:48]: Zephir™ [, Level 39]: s6_sven: now u not win :D
 [2021-04-13 16:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-13 16:35:58]: s6_sven [, Level 21]: i am playing very bad atm
+[2021-04-13 16:35:59]: s6_sven [, Level 21]: xD
