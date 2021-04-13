@@ -3838,3 +3838,5 @@
 [2021-04-13 05:17:20]: ***  [°, Level 0]: 'epikguy' has left the game
 [2021-04-13 05:17:31]: ***  [°, Level 0]: '(3)Shy-ra.' entered and joined the game
 [2021-04-13 05:17:34]:   [, Level 0]: i m noob: wait
+[2021-04-13 05:17:42]: [D] El patron [, Level 23]: anyone no
+[2021-04-13 05:17:47]: [D] El patron [, Level 23]: anyone 50 50
