@@ -10163,3 +10163,4 @@
 [2021-04-13 11:19:15]: ***  [, Level 0]: 'arther' has left the game
 [2021-04-13 11:19:21]: ***  [, Level 0]: '[D] BULLETBOT' entered and joined the game
 [2021-04-13 11:19:44]: ***  [, Level 0]: fomjn's killing spree was ended by [D] BULLETBOT (8 blocks)
+[2021-04-13 11:20:02]:   [, Level 0]: [D] BULLETBOT: EZ
