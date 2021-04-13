@@ -6348,3 +6348,5 @@
 [2021-04-13 08:02:43]: ERROR [404, Level 75]: Kahve:  who u.
 [2021-04-13 08:02:45]: [D] El patron [, Level 23]: xd
 [2021-04-13 08:02:46]: rexi [, Level 0]: omg
+[2021-04-13 08:02:56]: Kahve [, Level 23]: ERROR: m Kahve
+[2021-04-13 08:03:01]: ERROR [404, Level 75]: so noname ye?
