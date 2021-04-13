@@ -6350,3 +6350,5 @@
 [2021-04-13 08:02:46]: rexi [, Level 0]: omg
 [2021-04-13 08:02:56]: Kahve [, Level 23]: ERROR: m Kahve
 [2021-04-13 08:03:01]: ERROR [404, Level 75]: so noname ye?
+[2021-04-13 08:03:29]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
+[2021-04-13 08:03:29]: CKA3A4NIK[NR] [Night Raid, Level 35]: OMG
