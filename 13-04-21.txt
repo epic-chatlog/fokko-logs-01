@@ -2337,3 +2337,6 @@
 [2021-04-13 03:17:24]: El patron [, Level 28]: ;;/
 [2021-04-13 03:17:31]: ***  [, Level 0]: 'Telefantastic' has left the game
 [2021-04-13 03:17:34]: ***  [, Level 0]: (2)Zʷʰʸˀ is on a killing spree with 15 blocks
+[2021-04-13 03:17:37]: ***  [, Level 0]: 'arther' has left the game
+[2021-04-13 03:17:38]: ***  [, Level 0]: 'Recep' entered and joined the game
+[2021-04-13 03:17:39]: El patron [, Level 28]: Mista bombastic: help
