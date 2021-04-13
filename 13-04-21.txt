@@ -2001,3 +2001,6 @@
 [2021-04-13 02:52:27]: ***  [, Level 0]: '(2)kais' entered and joined the game
 [2021-04-13 02:52:28]: SkyForge [, Level 0]: Foxie♥:  you killed me earloedd
 [2021-04-13 02:52:46]: ***  [, Level 0]: '(1)Zʷʰʸˀ' finished the special race!
+[2021-04-13 02:52:54]: ***  [, Level 0]: 'Zʷʰʸˀ' finished the special race!
+[2021-04-13 02:52:56]: [D] El patron [, Level 0]: Zephir™:  is Kenshi™  your dummy?
+[2021-04-13 02:53:01]: Kenshi™ [, Level 0]: El patron: yep
