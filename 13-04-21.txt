@@ -1406,3 +1406,4 @@
 [2021-04-13 01:59:39]: ***  [, Level 0]: 'Juzudek' entered and joined the game
 [2021-04-13 01:59:42]: ***  [, Level 0]: 'xXmatiasXx' has left the game (Timeout)
 [2021-04-13 01:59:49]: ***  [, Level 0]: 'Juzudek' has left the game
+[2021-04-13 02:00:22]: Axandos [, Level 25]: bruh
