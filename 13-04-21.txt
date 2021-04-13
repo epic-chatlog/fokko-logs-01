@@ -9520,3 +9520,8 @@
 [2021-04-13 10:44:44]: any' [404, Level 42]: BC|serwan: fr ?
 [2021-04-13 10:44:45]: SanoreX [Chilli.*, Level 27]: klag
 [2021-04-13 10:44:48]: SanoreX [Chilli.*, Level 27]: fuck lag
+[2021-04-13 10:44:58]:   [, Level 0]: BULLETBOT: SanoreX: buy better internet
+[2021-04-13 10:44:59]: ***  [, Level 0]: 'Ðeathscyth' has left the game
+[2021-04-13 10:45:02]: SanoreX [Chilli.*, Level 27]: no
+[2021-04-13 10:45:05]: SanoreX [Chilli.*, Level 27]: I have fiber
+[2021-04-13 10:45:05]:   [, Level 0]: BULLETBOT: SanoreX: why
