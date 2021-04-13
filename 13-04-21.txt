@@ -447,3 +447,5 @@
 [2021-04-13 00:37:14]: ***  [, Level 0]: 'Marcisten Dummy' has left the game
 [2021-04-13 00:37:14]: ***  [, Level 0]: 'Marcisten' has left the game
 [2021-04-13 00:37:21]: GODLIKe. [, Level 39]: Cylox: copy dummy açtım diye oldu
+[2021-04-13 00:37:35]: #5 blocker [|*MorE*|, Level 24]: Axandos: help
+[2021-04-13 00:37:40]: #5 blocker [|*MorE*|, Level 24]: Noémi: gyere help
