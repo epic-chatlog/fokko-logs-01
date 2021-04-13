@@ -9988,3 +9988,6 @@
 [2021-04-13 11:10:35]: [D] El patron [, Level 0]: BULLETBOT: NO
 [2021-04-13 11:10:38]:   [, Level 0]: BULLETBOT: yűes
 [2021-04-13 11:10:40]:   [, Level 0]: BULLETBOT: yes
+[2021-04-13 11:10:50]: ***  [, Level 0]: 'leo' entered and joined the game
+[2021-04-13 11:10:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-13 11:10:54]: [D] El patron [, Level 0]: bobxd
