@@ -12701,3 +12701,4 @@
 [2021-04-13 15:00:15]: ***  [, Level 0]: 'hhh3' entered and joined the game
 [2021-04-13 15:00:37]: ***  [, Level 0]: '(1)Hala Madrid' has left the game
 [2021-04-13 15:00:37]: ***  [, Level 0]: '(1)BitchPlease J' has left the game
+[2021-04-13 15:00:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
