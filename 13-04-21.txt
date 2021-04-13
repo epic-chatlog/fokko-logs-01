@@ -4801,3 +4801,5 @@
 [2021-04-13 06:27:06]: (1)fitz [, Level 0]: Swarfey:
 [2021-04-13 06:27:09]: ***  [, Level 0]: 'Michel' entered and joined the game
 [2021-04-13 06:27:11]: Kahve [, Level 23]: tamam sende öyle kal polis olmadan
+[2021-04-13 06:27:27]: Taip [VergleriSay, Level 17]: sanane lan
+[2021-04-13 06:27:34]: Matiteusz [TrRShClNrRs, Level 36]: Nudelsaft c:: i cant fucking believe what im doing
