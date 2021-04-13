@@ -12239,3 +12239,4 @@
 [2021-04-13 13:29:28]: Saud [, Level 25]: Kirito:  ok
 [2021-04-13 13:29:48]: WarHammer [DogParty, Level 0]: laaag
 [2021-04-13 13:29:50]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-13 13:30:33]: ***  [, Level 0]: '(1)☺' entered and joined the game
