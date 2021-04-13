@@ -350,3 +350,5 @@
 [2021-04-13 00:29:26]: (1)fokkonaut [, Level 0]: Marcisten: f1
 [2021-04-13 00:29:29]: ***  [, Level 0]: '(1)Ðream' left the minigame 'Block'
 [2021-04-13 00:29:30]: (1)fokkonaut [, Level 0]: Marcisten: F1 -> top right
+[2021-04-13 00:29:38]: Marcisten Dummy [Dummies, Level 0]: (1)fokkonaut: ah thank you :)
+[2021-04-13 00:29:40]: (1)fokkonaut [, Level 0]: \(^-^)/
