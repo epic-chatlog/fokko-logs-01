@@ -16447,3 +16447,5 @@
 [2021-04-12 23:19:42]: ***  [, Level 0]: 1 finished in: 0 minute(s) 39.92 second(s)
 [2021-04-12 23:19:53]: ***  [, Level 0]: '[D] 'KeeperTrai' entered and joined the game
 [2021-04-12 23:19:56]: S Y T H N [, Level 37]: ReXi: komm meine schaukel
+[2021-04-12 23:20:06]: ReXi [, Level 0]: S Y T H N: bin unterwegs
+[2021-04-12 23:20:13]: ***  [, Level 0]: 'x7|KshKsh99' entered and joined the game
