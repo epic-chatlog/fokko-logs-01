@@ -10780,3 +10780,7 @@
 [2021-04-13 11:56:48]: ***  [, Level 0]: 'Supers' entered and joined the game
 [2021-04-13 11:56:51]: ***  [, Level 0]: 'Flupper' entered and joined the game
 [2021-04-13 11:56:55]: JustRace [DogParty, Level 0]: ERROR.:  we cleaned the randoms
+[2021-04-13 11:57:01]: Random Guy [, Level 40]: REEEEEEEEEEEEEEEEe
+[2021-04-13 11:57:03]: Shy-ra. [, Level 0]: JustRace: why blocked me
+[2021-04-13 11:57:04]: Random Guy [, Level 40]: COMEEE
+[2021-04-13 11:57:06]: ***  [, Level 0]: '[D] BC|kakashi' entered and joined the game
