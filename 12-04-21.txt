@@ -16625,3 +16625,6 @@
 [2021-04-12 23:44:27]: ***  [, Level 0]: New record: 18.82 second(s) better.
 [2021-04-12 23:44:36]: ***  [, Level 0]: 'TimePause's nub' has left the game
 [2021-04-12 23:45:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-12 23:45:54]: 'KeeperTrain._. [FookinLads, Level 30]: Meetiteusz: idziesz po trasera?
+[2021-04-12 23:45:56]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
+[2021-04-12 23:46:02]: TimePause [xSD7, Level 35]: hi fokkonaut
