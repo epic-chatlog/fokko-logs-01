@@ -16590,3 +16590,7 @@
 [2021-04-12 23:40:46]: 'KeeperTrain._. [, Level 30]: idk
 [2021-04-12 23:40:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-12 23:40:50]: 'KeeperTrain._. [, Level 30]: Matiteusz: elo
+[2021-04-12 23:40:55]: Matiteusz [TrRShClNrRs, Level 36]: 'KeeperTrain._.: gaga
+[2021-04-12 23:40:58]: Matiteusz [TrRShClNrRs, Level 36]: 'KeeperTrain._.: hej xD
+[2021-04-12 23:41:02]: 'KeeperTrain._. [, Level 30]: xd
+[2021-04-12 23:41:05]: ***  [, Level 0]: Collected 3 money
