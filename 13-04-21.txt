@@ -1911,3 +1911,4 @@
 [2021-04-13 02:46:51]: [D] SkyForge [, Level 0]: |MıssOяchiĐ|: dont let es in
 [2021-04-13 02:46:52]: Kezo [DogParty, Level 41]: 1:  çık
 [2021-04-13 02:46:53]: Kezo [DogParty, Level 41]: git
+[2021-04-13 02:47:01]: Kezo [DogParty, Level 41]: lan git
