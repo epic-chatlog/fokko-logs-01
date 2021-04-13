@@ -6565,3 +6565,4 @@
 [2021-04-13 08:18:51]: El patron [, Level 29]: successss:
 [2021-04-13 08:18:57]: ***  [, Level 0]: 'hhh3' entered and joined the game
 [2021-04-13 08:19:12]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-13 08:19:19]: ***  [, Level 0]: '[D] Mert' entered and joined the game
