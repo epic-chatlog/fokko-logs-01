@@ -2961,3 +2961,4 @@
 [2021-04-13 04:02:00]: ***  [, Level 0]: 'Monkey' has left the game
 [2021-04-13 04:02:09]: ***  [, Level 0]: 'Corso' entered and joined the game
 [2021-04-13 04:02:18]: El patron [, Level 28]: Zephir™: fast
+[2021-04-13 04:02:31]: Axandos [, Level 25]: dumb
