@@ -1174,3 +1174,4 @@
 [2021-04-13 01:39:19]: SanoreX.* [Chilli.*, Level 22]: help
 [2021-04-13 01:39:28]: ***  [, Level 0]: '.S L E E P Y'' entered and joined the game
 [2021-04-13 01:39:31]: SanoreX.* [Chilli.*, Level 22]: help LareneGyvaeh
+[2021-04-13 01:39:33]: SanoreX.* [Chilli.*, Level 22]: help LareneGyvaeh I cant move
