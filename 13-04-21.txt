@@ -2745,3 +2745,7 @@
 [2021-04-13 03:43:05]: Axandos² [, Level 20]: pranked Isegrin
 [2021-04-13 03:43:06]: rexi [, Level 0]: sry
 [2021-04-13 03:43:15]: ***  [, Level 0]: 'arther' joined the spectators
+[2021-04-13 03:43:30]: ***  [, Level 0]: 'arther' joined the game
+[2021-04-13 03:43:34]: Axandos² [, Level 20]: bruh
+[2021-04-13 03:43:35]: ***  [, Level 0]: 'Mert' entered and joined the game
+[2021-04-13 03:43:36]: rexi [, Level 0]: Axandos: wtf
