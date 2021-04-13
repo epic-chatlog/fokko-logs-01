@@ -3116,3 +3116,7 @@
 [2021-04-13 04:16:04]: ***  [, Level 0]: 'el champeon' has left the game
 [2021-04-13 04:16:05]: ***  [, Level 0]: 'el champeon2454' entered and joined the game
 [2021-04-13 04:16:06]: Axandos² [, Level 20]: DID U lfail again= Kenshi™
+[2021-04-13 04:16:09]: ***  [, Level 0]: 'Soros0245486745' entered and joined the game
+[2021-04-13 04:16:09]: Axandos² [, Level 20]: DID U lfail again= Kezo
+[2021-04-13 04:16:12]: ***  [, Level 0]: 'Soros0245486745' has left the game
+[2021-04-13 04:16:12]: ***  [, Level 0]: 'el champeon2454' has left the game
