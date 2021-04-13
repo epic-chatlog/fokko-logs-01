@@ -962,3 +962,8 @@
 [2021-04-13 01:14:23]: ***  [, Level 0]: 'Zeko' has left the game
 [2021-04-13 01:14:25]: ***  [, Level 0]: 'Zeko' entered and joined the game
 [2021-04-13 01:14:49]: mamikral011 [DogParty, Level 0]: Taip: bıraya geç
+[2021-04-13 01:14:58]: Axandos [, Level 25]: ez double
+[2021-04-13 01:14:59]: ReXi [, Level 0]: damn
+[2021-04-13 01:15:03]: ***  [, Level 0]: [D] Boti. finished in: 3 minute(s) 21.94 second(s)
+[2021-04-13 01:15:05]: ***  [, Level 0]: hatHCHecks finished in: 1 minute(s) 29.38 second(s)
+[2021-04-13 01:15:05]: ***  [, Level 0]: New record: 17.06 second(s) better.
