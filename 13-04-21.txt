@@ -9695,3 +9695,6 @@
 [2021-04-13 10:54:10]:   [, Level 0]: [D] falkenauge: Eden: np
 [2021-04-13 10:54:12]: Mert [Blood Gang, Level 0]: kezo ndene
 [2021-04-13 10:54:17]: ***  [, Level 0]: 'BULLETBOT' has left the game
+[2021-04-13 10:54:24]: Kezo [DogParty, Level 41]: Mert: aptalın tekisin çünkü :D
+[2021-04-13 10:54:24]: ***  [, Level 0]: 'Saud' entered and joined the game
+[2021-04-13 10:54:28]: Mert [Blood Gang, Level 0]: :(
