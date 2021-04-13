@@ -8283,3 +8283,7 @@
 [2021-04-13 09:51:34]: ***  [, Level 0]: 'LayonTv' has left the game
 [2021-04-13 09:51:35]: comic [comically, Level 14]: I like turtles.
 [2021-04-13 09:51:38]: ***  [, Level 0]: 'Good man' entered and joined the game
+[2021-04-13 09:51:41]: cya [, Level 42]: El patron: i will remember
+[2021-04-13 09:51:46]: ***  [, Level 0]: 'LayonTv' entered and joined the game
+[2021-04-13 09:51:47]: ***  [, Level 0]: 'coca' entered and joined the game
+[2021-04-13 09:51:51]: Zephir™ [, Level 39]: cya: that my friend budy
