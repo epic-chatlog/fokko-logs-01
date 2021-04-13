@@ -12706,3 +12706,4 @@
 [2021-04-13 15:01:59]: ***  [, Level 0]: '(1)BitchPlease J' has left the game
 [2021-04-13 15:02:46]: ***  [, Level 0]: 'Hala Madrid' has left the game
 [2021-04-13 15:03:37]: ***  [, Level 0]: 'BitchPlease Jr.' joined the spectators
+[2021-04-13 15:04:02]: ***  [, Level 0]: 'BitchPlease Jr.' has left the game
