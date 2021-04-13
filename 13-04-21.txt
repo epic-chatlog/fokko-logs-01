@@ -1714,3 +1714,6 @@
 [2021-04-13 02:30:22]: x7|zemer [xSD7, Level 37]: ReXi: Ok
 [2021-04-13 02:30:22]: ***  [, Level 0]: '»ℱℬℑ«' entered and joined the game
 [2021-04-13 02:30:24]: ***  [, Level 0]: 'fitz' entered and joined the game
+[2021-04-13 02:30:29]: Steve [, Level 0]: bb
+[2021-04-13 02:30:34]: vollesprit [, Level 0]: ?
+[2021-04-13 02:30:36]: Steve [, Level 0]: bye bye
