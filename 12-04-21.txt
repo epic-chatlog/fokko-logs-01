@@ -15964,3 +15964,4 @@
 [2021-04-12 18:34:30]: (1)☺ [, Level 11]: i will train with my dummy
 [2021-04-12 18:35:43]: (1)☺ [, Level 11]: oh sorry i wanted say i had 17000k but shiro he killed me
 [2021-04-12 18:35:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-12 18:40:38]: ***  [, Level 0]: 'Pathrex' entered and joined the game
