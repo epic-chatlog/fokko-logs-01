@@ -6359,3 +6359,5 @@
 [2021-04-13 08:03:37]: ***  [, Level 0]: 'CKA3A4NIK' has left the game
 [2021-04-13 08:03:37]: ***  [, Level 0]: 'CKA3A4NIK[NR]' has left the game
 [2021-04-13 08:03:41]: [D] El patron [, Level 23]: trq
+[2021-04-13 08:03:44]: [D] El patron [, Level 23]: rq
+[2021-04-13 08:03:44]: Kahve [, Level 23]: LOOOOL
