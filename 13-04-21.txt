@@ -5057,3 +5057,6 @@
 [2021-04-13 06:44:04]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
 [2021-04-13 06:44:09]: ***  [, Level 0]: 'MieSlime' has left the game
 [2021-04-13 06:44:30]:   [, Level 0]: [D] mamikral011: ReXi:
+[2021-04-13 06:44:39]:   [, Level 0]: soleri1: ReXi:
+[2021-04-13 06:44:44]: ***  [, Level 0]: 'POMKYC' has left the game
+[2021-04-13 06:44:48]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
