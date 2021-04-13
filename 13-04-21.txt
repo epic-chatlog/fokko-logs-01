@@ -12851,3 +12851,6 @@
 [2021-04-13 15:41:14]: (3)Zʷʰʸˀ [NULL, Level 25]: Axandos:
 [2021-04-13 15:41:26]: (1)Saud [, Level 20]: (1)Kirito:  niceee
 [2021-04-13 15:41:44]: (1)Kirito [, Level 25]: Zephir™: taser kid
+[2021-04-13 15:41:54]: ***  [, Level 0]: '(1)Saud' has left the game
+[2021-04-13 15:41:55]: ***  [, Level 0]: '(2)Saud' has left the game
+[2021-04-13 15:42:00]: Axandos [, Level 25]: bruhw
