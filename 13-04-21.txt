@@ -4701,3 +4701,5 @@
 [2021-04-13 06:21:38]: Taip [VergleriSay, Level 17]: 69k var
 [2021-04-13 06:21:41]: [D] Kahve [, Level 19]: tamam seni polis yapiyim
 [2021-04-13 06:21:47]: [D] Kahve [, Level 19]: bende 40k var
+[2021-04-13 06:21:54]: [D] Kahve [, Level 19]: kurtar
+[2021-04-13 06:21:59]: ***  [, Level 0]: 'evpalege' entered and joined the game
