@@ -8078,3 +8078,7 @@
 [2021-04-13 09:42:32]: [D] mamikral011 [DogParty, Level 0]: Lucas: war?
 [2021-04-13 09:42:34]: ***  [, Level 0]: 'Daisukee' joined the game
 [2021-04-13 09:42:38]: ***  [, Level 0]: 'Taip' entered and joined the game
+[2021-04-13 09:42:39]: ***  [, Level 0]: 'Daisukee' joined the spectators
+[2021-04-13 09:42:39]:   [, Level 0]: lolpoep: its my pet
+[2021-04-13 09:42:46]: ***  [, Level 0]: 'Daisukee' joined the game
+[2021-04-13 09:42:48]: [D] El patron [, Level 23]: lolpoep:  he is me enemie
