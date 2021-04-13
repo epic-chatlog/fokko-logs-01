@@ -374,3 +374,6 @@
 [2021-04-13 00:31:31]: ***  [, Level 0]: 1 finished in: 2 minute(s) 20.06 second(s)
 [2021-04-13 00:31:41]: (1)fokkonaut [, Level 0]: i have to admit
 [2021-04-13 00:31:45]: (1)fokkonaut [, Level 0]: 0.7 client is pretty cool
+[2021-04-13 00:31:53]: Meetiteusz [TrRShClNrRs, Level 26]: Axandos: ez scammed
+[2021-04-13 00:31:57]: ***  [, Level 0]: GODLIKe. finished in: 1 minute(s) 11.48 second(s)
+[2021-04-13 00:31:57]: ***  [, Level 0]: New record: 2 minute(s) 53.72 second(s) better.
