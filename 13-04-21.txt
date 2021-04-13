@@ -12195,3 +12195,7 @@
 [2021-04-13 13:23:52]: ***  [, Level 0]: 'kais' has left the game (Timeout Protection over)
 [2021-04-13 13:23:56]: Hera [, Level 39]: Random Guy: stop
 [2021-04-13 13:23:58]: casserole :p [, Level 18]: fokkonaut:
+[2021-04-13 13:24:07]: casserole :p [, Level 18]: i have aquestion
+[2021-04-13 13:24:09]: Random Guy [, Level 40]: Hera: i gave you chance
+[2021-04-13 13:24:17]: Random Guy [, Level 40]: Hera: i know who are you
+[2021-04-13 13:24:17]: Hera [, Level 39]: Random Guy: ı dont need chance
