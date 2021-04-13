@@ -7889,3 +7889,8 @@
 [2021-04-13 09:34:28]: ***  [, Level 0]: '(1)anyًًًًًً' changed name to '(1)àny'
 [2021-04-13 09:34:30]: ***  [, Level 0]: 'QON QON' joined the game
 [2021-04-13 09:34:38]: WarHammer [DogParty, Level 0]: neden
+[2021-04-13 09:34:41]: ًًًًًًً� [Chilli.*, Level 27]: any: how u find ً text?
+[2021-04-13 09:34:44]: ًًًًًًً� [Chilli.*, Level 27]: any: how u find ً   text?
+[2021-04-13 09:34:46]:   [, Level 0]: cHurch: OMG
+[2021-04-13 09:34:46]: ***  [, Level 0]: '(1)àny' changed name to 'any''
+[2021-04-13 09:34:51]:   [, Level 0]: cHurch: ERROR HAS 71 MILLIONS
