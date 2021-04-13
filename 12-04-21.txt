@@ -16398,3 +16398,5 @@
 [2021-04-12 23:06:45]: ***  [, Level 0]: 'Zeko' has left the game
 [2021-04-12 23:06:48]: ***  [, Level 0]: 'Zeko' entered and joined the game
 [2021-04-12 23:07:50]: ***  [, Level 0]: 'Zeko' has left the game
+[2021-04-12 23:10:09]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
+[2021-04-12 23:10:13]: ***  [, Level 0]: '1' finished the special race!
