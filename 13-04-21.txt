@@ -12734,3 +12734,4 @@
 [2021-04-13 15:14:24]: ***  [, Level 0]: 'hhh3' has left the game
 [2021-04-13 15:14:57]: ☺ [, Level 19]: i let you farm stupid
 [2021-04-13 15:15:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-13 15:16:46]: (1)☺ [, Level 0]: i lag
