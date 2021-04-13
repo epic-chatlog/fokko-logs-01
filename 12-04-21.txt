@@ -16048,3 +16048,5 @@
 [2021-04-12 18:53:59]: bob [669, Level 36]: smiley man
 [2021-04-12 18:54:03]: bob [669, Level 36]: how do you drop money
 [2021-04-12 18:54:03]: ☺ [, Level 17]: yeeeeee
+[2021-04-12 18:54:18]: ☺ [, Level 17]: ./money drop
+[2021-04-12 18:54:19]: bob [669, Level 36]: how long do you farm for 1k?
