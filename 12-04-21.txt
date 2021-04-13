@@ -16250,3 +16250,4 @@
 [2021-04-12 22:26:44]: S Y T H N [DogParty, Level 37]: need to buy today
 [2021-04-12 22:27:11]: ***  [, Level 0]: 'Jerry' finished the special race!
 [2021-04-12 22:27:17]: ***  [, Level 0]: 'Tom' finished the special race!
+[2021-04-12 22:28:14]: ***  [, Level 0]: 'S Y T H N' has left the game (Timeout)
