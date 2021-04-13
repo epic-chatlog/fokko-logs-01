@@ -10255,3 +10255,7 @@
 [2021-04-13 11:25:08]: [D] peS [, Level 0]: Kirito: stop
 [2021-04-13 11:25:10]: [D] Mert [[!BRUH!], Level 0]: cosmo
 [2021-04-13 11:25:13]: [D] Mert [[!BRUH!], Level 0]: hello
+[2021-04-13 11:25:15]: peS [, Level 32]: Nidardo.: f3
+[2021-04-13 11:25:17]: Random Guy [, Level 40]: xd
+[2021-04-13 11:25:23]: peS [, Level 32]: Kirito: dude wtf
+[2021-04-13 11:25:26]: VD|HolyHo|° [VsDoggo´s, Level 28]: GReeeN: >
