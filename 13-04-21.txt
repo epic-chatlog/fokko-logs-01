@@ -688,3 +688,7 @@
 [2021-04-13 00:55:48]: GODLIKe [, Level 44]: SanoreX: ->
 [2021-04-13 00:55:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-13 00:55:49]: GODLIKe [, Level 44]: SanoreX: ->
+[2021-04-13 00:55:54]: GODLIKe [, Level 44]: Axandos: ->
+[2021-04-13 00:55:54]: Marcisten [Helper, Level 0]: GODLIKe: what
+[2021-04-13 00:56:00]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-13 00:56:02]: (1)SanoreX.* [Chilli.*, Level 0]: stop
