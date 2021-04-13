@@ -5401,3 +5401,5 @@
 [2021-04-13 07:07:20]: [D] Kahve [, Level 19]: help?
 [2021-04-13 07:07:20]: Axandos [, Level 25]: do nothing Kahve
 [2021-04-13 07:07:22]: [D] Kahve [, Level 19]: ok
+[2021-04-13 07:07:32]:   [, Level 0]: GODLIKe: |ΛnץOиe|: poor
+[2021-04-13 07:07:37]: BULLETBOT [, Level 0]: ok
