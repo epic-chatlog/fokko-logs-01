@@ -4323,3 +4323,6 @@
 [2021-04-13 05:55:19]: ***  [, Level 0]: '[D] ass cleaner' entered and joined the game
 [2021-04-13 05:55:19]:   [, Level 0]: |ΛnץOиe|: kais: Ouai j'ai du reset tout perdre et aller le chercher au spawn flag
 [2021-04-13 05:55:23]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-13 05:55:30]:   [, Level 0]: |ΛnץOиe|: kais: t'es chiant
+[2021-04-13 05:55:33]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-13 05:55:35]: kais [, Level 66]: |ΛnץOиe|: correction il t'as spike, t'as pas respawn
