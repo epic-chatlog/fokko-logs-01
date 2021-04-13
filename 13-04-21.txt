@@ -5688,3 +5688,4 @@
 [2021-04-13 07:23:05]: [D] Kahve [, Level 19]: mamikral011: gel gel
 [2021-04-13 07:23:12]: ***  [, Level 0]: 'KoalasSindCool' has left the game
 [2021-04-13 07:23:15]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
+[2021-04-13 07:23:26]: ***  [, Level 0]: 'KoalasSindCool' has left the game
