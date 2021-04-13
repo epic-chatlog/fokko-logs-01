@@ -10392,3 +10392,7 @@
 [2021-04-13 11:32:09]:   [, Level 0]: Zephir™: noob!: money
 [2021-04-13 11:32:12]:   [, Level 0]: noob!: why
 [2021-04-13 11:32:17]:   [, Level 0]: Zephir™: noob!: that mine
+[2021-04-13 11:32:21]: [D] Mert [[!BRUH!], Level 0]: byeeeeeeeeeeee
+[2021-04-13 11:32:22]: ***  [, Level 0]: '[D] Mert' has left the game
+[2021-04-13 11:32:22]: ***  [, Level 0]: 'Mert' has left the game
+[2021-04-13 11:32:27]:   [, Level 0]: noob!: Zephir™: what money
