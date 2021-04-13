@@ -497,3 +497,6 @@
 [2021-04-13 00:42:26]: ***  [, Level 0]: 'Im Noob' has left the game
 [2021-04-13 00:42:27]: Taip [VergleriSay, Level 17]: 1: lan
 [2021-04-13 00:42:27]: ReXi [, Level 0]: alter
+[2021-04-13 00:42:34]: ReXi [, Level 0]: warte muss saven
+[2021-04-13 00:42:37]: 1 [, Level 16]: cylox
+[2021-04-13 00:42:39]: ***  [, Level 0]: '(1)Ðream' left the minigame 'Block'
