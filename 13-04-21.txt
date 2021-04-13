@@ -150,3 +150,5 @@
 [2021-04-13 00:15:04]: ***  [, Level 0]: 'Taip' entered and joined the game
 [2021-04-13 00:15:15]: Zeko [, Level 0]: bye
 [2021-04-13 00:15:37]: ReXi [, Level 0]: bye
+[2021-04-13 00:15:40]: fokkonaut [, Level 102]: \(^-^)/
+[2021-04-13 00:15:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
