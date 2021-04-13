@@ -2731,3 +2731,5 @@
 [2021-04-13 03:40:55]: Mista bombastic [TrRShClNrRs, Level 40]: Matiteusz: xdd
 [2021-04-13 03:40:58]: ***  [, Level 0]: 'A player' entered and joined the game
 [2021-04-13 03:40:59]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-13 03:41:05]: ***  [, Level 0]: 'A player' has left the game
+[2021-04-13 03:41:09]: ***  [, Level 0]: 'el champeon' entered and joined the game
