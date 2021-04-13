@@ -16089,3 +16089,5 @@
 [2021-04-12 18:58:16]: ☺ [, Level 17]: good night
 [2021-04-12 19:00:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-12 19:05:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-12 19:07:45]: ***  [, Level 0]: 'H0LL4D13W4LDFEE' entered and joined the game
+[2021-04-12 19:07:51]: ***  [, Level 0]: 'H0LL4D13W4LDFEE' has left the game
