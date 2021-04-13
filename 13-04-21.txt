@@ -3643,3 +3643,5 @@
 [2021-04-13 05:00:32]: Ƭevan [TrRShClNrRs, Level 49]: any: dum
 [2021-04-13 05:00:40]: |MıssOяchiĐ| [, Level 48]: any: MDRRRRRRRRRR tu m'as tué hier dis aps dla merde
 [2021-04-13 05:00:45]: |MıssOяchiĐ| [, Level 48]: any: faut assumer bg
+[2021-04-13 05:00:50]: ***  [�, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-13 05:00:57]: ***  [�, Level 0]: '(1)Kezo' has left the game
