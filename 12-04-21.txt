@@ -16388,3 +16388,6 @@
 [2021-04-12 23:05:18]: [D] #5 blocker [|*MorE*|, Level 24]: Mista bombastic: megmentünk engem én vok a dummy
 [2021-04-12 23:05:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-12 23:06:08]: ***  [, Level 0]: '(1)S Y T H N' entered and joined the game
+[2021-04-12 23:06:13]: Zeko [, Level 0]: S Y T H N:  help me
+[2021-04-12 23:06:16]: Zeko [, Level 0]: pls
+[2021-04-12 23:06:21]: ***  [, Level 0]: 1 finished in: 1 minute(s)  3.38 second(s)
