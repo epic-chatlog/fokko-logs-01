@@ -12213,3 +12213,5 @@
 [2021-04-13 13:25:07]: Hera [, Level 39]: |ΛnץOиe|: we have war
 [2021-04-13 13:25:11]: |ΛnץOиe| [, Level 43]: Hera: no
 [2021-04-13 13:25:12]: WarHammer [DogParty, Level 0]: Random Guy:  prank
+[2021-04-13 13:25:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-13 13:25:51]: Hera [, Level 39]: |ΛnץOиe|: and we have war
