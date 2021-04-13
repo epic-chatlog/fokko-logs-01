@@ -2739,3 +2739,5 @@
 [2021-04-13 03:42:32]: ***  [, Level 0]: 'arther' entered and joined the game
 [2021-04-13 03:42:37]: (1)Shy-ra. [, Level 0]: wait
 [2021-04-13 03:42:40]: Black Wolf [, Level 0]: Rem's bae: plz
+[2021-04-13 03:42:50]: ***  [, Level 0]: 'Cylox.' entered and joined the game
+[2021-04-13 03:42:57]: Isegrin [, Level 55]: Axandos: prank
