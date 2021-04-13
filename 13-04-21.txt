@@ -1015,3 +1015,5 @@
 [2021-04-13 01:19:20]: Saud [MNKY, Level 24]: S Y T H N:
 [2021-04-13 01:19:32]: Saud [MNKY, Level 24]: Kenshi™:
 [2021-04-13 01:19:44]: Saud [MNKY, Level 24]: WHAT
+[2021-04-13 01:19:51]: Kenshi™ [, Level 0]: Saud: u have a ennemi there ?
+[2021-04-13 01:19:55]: Saud [MNKY, Level 24]: wait
