@@ -6762,3 +6762,7 @@
 [2021-04-13 08:38:15]: [D] El patron [, Level 23]: Zephir™: stop hook
 [2021-04-13 08:38:18]: Good man [Drunks, Level 30]: Kenshi™: np
 [2021-04-13 08:38:42]: hhh3 [, Level 48]: Isegrin:
+[2021-04-13 08:38:43]: [D] El patron [, Level 23]: Good man: i wanna 0
+[2021-04-13 08:38:52]: hhh3 [, Level 48]: Isegrin: do you know sherrif?
+[2021-04-13 08:38:53]: Good man [Drunks, Level 30]: El patron: ok take 1 money
+[2021-04-13 08:38:54]: Lucas [THECEPS, Level 35]: ok
