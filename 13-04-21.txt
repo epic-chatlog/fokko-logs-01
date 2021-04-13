@@ -12871,3 +12871,6 @@
 [2021-04-13 15:45:20]: Kirito [{TQuila}, Level 40]: ♥TAKO♥: he has dummy
 [2021-04-13 15:45:22]: Saud [, Level 25]: Zephir™: Axandos²  ☺  spec me
 [2021-04-13 15:45:36]: Saud [, Level 25]: fuck
+[2021-04-13 15:45:48]: Saud [, Level 25]: xD
+[2021-04-13 15:45:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-13 15:45:50]: s6_sven [, Level 21]: xD
