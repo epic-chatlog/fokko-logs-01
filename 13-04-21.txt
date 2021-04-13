@@ -4293,3 +4293,5 @@
 [2021-04-13 05:50:51]:   [, Level 0]: |ΛnץOиe|: kais: mdrr stuv
 [2021-04-13 05:50:59]: ***  [, Level 0]: Matiteusz is on a killing spree with 5 blocks
 [2021-04-13 05:51:02]: ***  [, Level 0]: 'Gustav' entered and joined the game
+[2021-04-13 05:51:08]: ***  [, Level 0]: 'Gustav' has left the game
+[2021-04-13 05:51:13]: [D] El patron [, Level 23]: i am gayL/
