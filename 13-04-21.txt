@@ -11497,3 +11497,6 @@
 [2021-04-13 12:39:03]: [D] El patron [, Level 24]: any: any who is the leader of 404
 [2021-04-13 12:39:10]: any [404, Level 38]: El patron: error
 [2021-04-13 12:39:14]: [D] El patron [, Level 24]: any: thx
+[2021-04-13 12:39:20]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
+[2021-04-13 12:39:29]: ***  [, Level 0]: 'cunt' has left the game (Timeout)
+[2021-04-13 12:39:29]: ***  [, Level 0]: '(1)cunt' has left the game (Timeout)
