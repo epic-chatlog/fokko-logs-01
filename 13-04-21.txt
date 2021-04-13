@@ -137,3 +137,5 @@
 [2021-04-13 00:13:50]: ***  [, Level 0]: 1 finished in: 2 minute(s)  8.98 second(s)
 [2021-04-13 00:13:56]: Zeko [, Level 0]: okey
 [2021-04-13 00:13:57]: #5 blocker [|*MorE*|, Level 24]: cs Boti.
+[2021-04-13 00:14:07]: ***  [, Level 0]: Marcisten finished in: 2 minute(s) 36.58 second(s)
+[2021-04-13 00:14:07]: ***  [, Level 0]: New record: 4 minute(s) 55.86 second(s) better.
