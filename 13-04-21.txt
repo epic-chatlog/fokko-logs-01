@@ -12771,3 +12771,4 @@
 [2021-04-13 15:24:06]: Nidardo. [TOP, Level 13]: xdd
 [2021-04-13 15:24:24]: Nidardo. [TOP, Level 13]: waaat
 [2021-04-13 15:24:38]: ***  [, Level 0]: 'souxy posysa' has left the game
+[2021-04-13 15:25:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
