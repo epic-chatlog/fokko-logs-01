@@ -15996,3 +15996,6 @@
 [2021-04-12 18:47:01]: Pathrex [, Level 0]: cya
 [2021-04-12 18:47:05]: (1)☺ [, Level 11]: bye
 [2021-04-12 18:47:08]: ***  [, Level 0]: 'Pathrex' has left the game
+[2021-04-12 18:49:16]: bob [669, Level 36]: smiley man
+[2021-04-12 18:49:19]: (1)☺ [, Level 11]: yes
+[2021-04-12 18:49:23]: bob [669, Level 36]: where are you
