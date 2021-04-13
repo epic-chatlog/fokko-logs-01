@@ -1724,3 +1724,5 @@
 [2021-04-13 02:31:02]: ***  [, Level 0]: 'vollesprit' has left the game
 [2021-04-13 02:31:03]: »ℱℬℑ« [, Level 0]: pussy
 [2021-04-13 02:31:24]: ***  [, Level 0]: '»ℱℬℑ«' has left the game
+[2021-04-13 02:31:34]: rexi [, Level 17]: Axandos: hab kein bock mehr auf fun war
+[2021-04-13 02:31:36]: ***  [, Level 0]: '.' entered and joined the game
