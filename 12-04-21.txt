@@ -16160,3 +16160,5 @@
 [2021-04-12 22:03:11]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-12 22:04:10]: ***  [, Level 0]: 'Boti.' entered and joined the game
 [2021-04-12 22:05:30]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-12 22:05:40]: S Y T H N [DogParty, Level 37]: Boti.: hey
+[2021-04-12 22:05:44]: Boti. [.bad, Level 0]: hi
