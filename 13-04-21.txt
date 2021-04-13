@@ -6400,3 +6400,8 @@
 [2021-04-13 08:05:57]: Kahve [, Level 23]: rPOEIWPQOĞEIOQPWEĞQWIPEJWQO
 [2021-04-13 08:05:57]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-13 08:05:58]: Kahve [, Level 23]: QKWOPEIWPQOEIKPQJWIEOQWKJEKQWİ
+[2021-04-13 08:06:07]: ERROR [404, Level 75]: fucking randoms
+[2021-04-13 08:06:09]: (2)Zʷʰʸˀ [NULL, Level 25]: [D] El patron: was?
+[2021-04-13 08:06:09]: ***  [, Level 0]: 'i m noob' has left the game
+[2021-04-13 08:06:10]: ***  [, Level 0]: '(1)i m noob' has left the game
+[2021-04-13 08:06:10]: ***  [, Level 0]: 'nameless tee' has left the game
