@@ -2736,3 +2736,4 @@
 [2021-04-13 03:41:19]: ***  [, Level 0]: 'Karma Akabane' entered and joined the game
 [2021-04-13 03:41:22]: rexi [, Level 0]: Axandos: <3
 [2021-04-13 03:41:35]: ***  [, Level 0]: 'Black Wolf' entered and joined the game
+[2021-04-13 03:42:32]: ***  [, Level 0]: 'arther' entered and joined the game
