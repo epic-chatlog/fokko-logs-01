@@ -10243,3 +10243,5 @@
 [2021-04-13 11:24:21]: [D] peS [, Level 0]: Kirito: wait i finish the raceee
 [2021-04-13 11:24:30]: Nidardo. [TOP, Level 12]: peS:
 [2021-04-13 11:24:33]: Kirito [{TQuila}, Level 40]: peS:  no u scam me
+[2021-04-13 11:24:41]: [D] peS [, Level 0]: Kirito: no promes
+[2021-04-13 11:24:44]: Nidardo. [TOP, Level 12]: peS: can we help them
