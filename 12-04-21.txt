@@ -16034,3 +16034,6 @@
 [2021-04-12 18:52:09]: ☺ [, Level 17]: swear
 [2021-04-12 18:52:10]: bob [669, Level 36]: how old are you smiley man?
 [2021-04-12 18:52:16]: ☺ [, Level 17]: 13
+[2021-04-12 18:52:21]: bob [669, Level 36]: where are you from ?
+[2021-04-12 18:52:26]: ☺ [, Level 17]: french
+[2021-04-12 18:52:29]: bob [669, Level 36]: bonjour
