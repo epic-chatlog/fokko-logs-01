@@ -16226,3 +16226,5 @@
 [2021-04-12 22:22:30]: ***  [, Level 0]: New record:  7.80 second(s) better.
 [2021-04-12 22:22:31]: ***  [, Level 0]: (1)Boti. finished in: 1 minute(s) 42.72 second(s)
 [2021-04-12 22:22:32]: x7|zemer [xSD7, Level 0]: S Y T H N: Du?
+[2021-04-12 22:22:44]: S Y T H N [DogParty, Level 37]: du must die haben sonnst geht sie weg
+[2021-04-12 22:22:51]: S Y T H N [DogParty, Level 37]: wenn ich so lange freeze bin
