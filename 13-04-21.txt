@@ -3811,3 +3811,5 @@
 [2021-04-13 05:15:16]: Eden [qwq, Level 0]: (1)fitz:
 [2021-04-13 05:15:17]:   [, Level 0]: Saud: Eden:  np
 [2021-04-13 05:15:18]: Eden [qwq, Level 0]: t*
+[2021-04-13 05:15:24]: ***  [°, Level 0]: '(2)Shy-ra.' entered and joined the game
+[2021-04-13 05:15:27]: ***  [°, Level 0]: 'NidardoHD' has left the game
