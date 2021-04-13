@@ -12438,3 +12438,5 @@
 [2021-04-13 13:56:54]: Nightmare [, Level 27]: [D] El patron: no he is my most evil enemy
 [2021-04-13 13:56:59]: [D] El patron [, Level 24]: ow
 [2021-04-13 13:57:06]: Nightmare [, Level 27]: [D] El patron: and the goodest blocked
+[2021-04-13 13:57:45]: El patron [, Level 29]: Nightmare: i go
+[2021-04-13 13:57:48]: Nightmare [, Level 27]: oh
