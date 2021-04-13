@@ -9174,3 +9174,7 @@
 [2021-04-13 10:28:29]: [D] mamikral011 [DogParty, Level 22]: npoooo
 [2021-04-13 10:28:43]: SanoreX [Chilli.*, Level 27]: Nidardo.: good?
 [2021-04-13 10:28:43]: ***  [, Level 0]: 'Tziys*' entered and joined the game
+[2021-04-13 10:28:46]:   [, Level 0]: [D] BC|Tixnix: Zephir™: ?
+[2021-04-13 10:28:48]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-13 10:28:49]: SanoreX [Chilli.*, Level 27]: Nidardo.: good?
+[2021-04-13 10:28:55]: Nidardo. [TOP, Level 12]: SanoreX: looks fine^^
