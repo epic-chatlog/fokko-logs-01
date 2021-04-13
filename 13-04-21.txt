@@ -3043,3 +3043,5 @@
 [2021-04-13 04:09:30]: Taip [VergleriSay, Level 17]: k
 [2021-04-13 04:09:33]: Zephir™ [, Level 39]: whore eater: i 1v3 now in ur eyes bad nobo
 [2021-04-13 04:09:40]:   [, Level 0]: whore eater: Zephir™: U USED TASER XD
+[2021-04-13 04:09:59]: ***  [, Level 0]: '(1)1' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-13 04:10:03]: ***  [, Level 0]: '(1)Ƭevan' joined the minigame 'Block', use '/block' to join aswell
