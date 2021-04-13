@@ -692,3 +692,7 @@
 [2021-04-13 00:55:54]: Marcisten [Helper, Level 0]: GODLIKe: what
 [2021-04-13 00:56:00]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-13 00:56:02]: (1)SanoreX.* [Chilli.*, Level 0]: stop
+[2021-04-13 00:56:15]: (1)SanoreX.* [Chilli.*, Level 0]: Axandos:
+[2021-04-13 00:56:17]: ***  [, Level 0]: ''KeeperTrain._.' has left the game (Timeout)
+[2021-04-13 00:56:17]: ***  [, Level 0]: '[D] 'KeeperTrai' has left the game (Timeout)
+[2021-04-13 00:56:17]: SanoreX [Chilli.*, Level 27]: üf
