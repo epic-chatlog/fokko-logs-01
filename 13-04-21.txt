@@ -182,3 +182,8 @@
 [2021-04-13 00:18:24]: fokkonaut [, Level 102]: Bubba :3[Đ]:
 [2021-04-13 00:18:25]: ***  [, Level 0]: Bubba :3[Đ] finished in: 7 minute(s)  9.58 second(s)
 [2021-04-13 00:18:27]: weqe [669, Level 12]: poka !!
+[2021-04-13 00:18:27]: fokkonaut [, Level 102]: Bubba :3[Đ]:  jump in left
+[2021-04-13 00:18:28]: weqe [669, Level 12]: poka !!
+[2021-04-13 00:18:31]: fokkonaut [, Level 102]: Bubba :3[Đ]: left <<<
+[2021-04-13 00:18:35]: weqe [669, Level 12]: poka !!
+[2021-04-13 00:18:38]: ReXi [, Level 0]: I like turtles.
