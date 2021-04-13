@@ -4782,3 +4782,6 @@
 [2021-04-13 06:25:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-13 06:25:51]:   [, Level 0]: |ΛnץOиe|: xd
 [2021-04-13 06:25:54]: Nudelsaft c: [FookinLads, Level 37]: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[2021-04-13 06:25:59]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-13 06:26:02]: Kahve [, Level 23]: Taip: seni polis yapıcaktım şimdi yapmicam yardım etmiyosun
+[2021-04-13 06:26:09]: Taip [VergleriSay, Level 17]: ayn
