@@ -11379,3 +11379,4 @@
 [2021-04-13 12:32:31]: ***  [, Level 0]: 'Cosmo' entered and joined the game
 [2021-04-13 12:32:33]: ***  [, Level 0]: 'ReXi' entered and joined the game
 [2021-04-13 12:32:41]: MattéoLaChienn [Congo, Level 0]: cest toi qui a chercher la merde
+[2021-04-13 12:32:50]: [D] El patron [, Level 24]: Matiteusz: thx
