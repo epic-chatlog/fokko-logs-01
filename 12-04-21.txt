@@ -16596,3 +16596,5 @@
 [2021-04-12 23:41:05]: ***  [, Level 0]: Collected 3 money
 [2021-04-12 23:41:15]: ***  [, Level 0]: 'Nidardo.' entered and joined the game
 [2021-04-12 23:41:19]: ***  [, Level 0]: 'TimePause' entered and joined the game
+[2021-04-12 23:41:26]: TimePause [xSD7, Level 0]: yo Mr.KshKsh99
+[2021-04-12 23:41:31]: x7|KshKsh99 [xSD7, Level 37]: TimePause: hi
