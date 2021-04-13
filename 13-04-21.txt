@@ -5982,3 +5982,6 @@
 [2021-04-13 07:41:23]: GODLIKe [, Level 44]: ♥TAKO♥: sende duvardan sektire sektire
 [2021-04-13 07:41:36]: ***  [, Level 0]: 'cyberFighter' has left the game
 [2021-04-13 07:41:39]: Foxie♥ [{TQuila}, Level 40]: cookie: war 4 life
+[2021-04-13 07:41:51]: cookie [, Level 1]: Foxie♥:  noooo
+[2021-04-13 07:41:57]: ***  [, Level 0]: '(1)ERROR' has left the game (Timeout Protection over)
+[2021-04-13 07:41:57]: ***  [, Level 0]: 'ERROR.' has left the game (Timeout Protection over)
