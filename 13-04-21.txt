@@ -1487,3 +1487,8 @@
 [2021-04-13 02:08:10]: ***  [, Level 0]: 'infiniter' entered and joined the game
 [2021-04-13 02:08:16]: WarHammer' [DogParty, Level 0]: Matiteusz:  lags
 [2021-04-13 02:08:35]: SanoreX [Chilli.*, Level 27]: Nightmare: u know hamachi program?
+[2021-04-13 02:08:39]: ***  [, Level 0]: 'infiniter' has left the game
+[2021-04-13 02:08:39]: rexi [, Level 0]: mg
+[2021-04-13 02:08:40]: Nightmare [, Level 27]: SanoreX: ye
+[2021-04-13 02:08:46]: SanoreX [Chilli.*, Level 27]: Nightmare: pls come my ddrace server
+[2021-04-13 02:08:50]: SanoreX [Chilli.*, Level 27]: f-ddrace mod Nightmare
