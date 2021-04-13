@@ -3159,3 +3159,5 @@
 [2021-04-13 04:19:26]: ***  [, Level 0]: 'arther' joined the game
 [2021-04-13 04:19:46]: ***  [, Level 0]: 'arther' joined the spectators
 [2021-04-13 04:19:46]:   [, Level 0]: GODLIKe: Staubsau[Ger]:
+[2021-04-13 04:20:03]: ***  [, Level 0]: 'Lokomit' entered and joined the game
+[2021-04-13 04:20:11]: ***  [, Level 0]: 'arther' joined the game
