@@ -5880,3 +5880,5 @@
 [2021-04-13 07:35:30]: [D] Kahve [, Level 19]: dont block him
 [2021-04-13 07:35:32]: Cylox [, Level 31]: Axandos: pls ım go bank
 [2021-04-13 07:35:33]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-13 07:35:40]: Axandos² [, Level 20]: Cylox:  never
+[2021-04-13 07:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
