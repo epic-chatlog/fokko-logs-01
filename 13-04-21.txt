@@ -3097,3 +3097,6 @@
 [2021-04-13 04:14:05]: rexi [, Level 0]: fitz:
 [2021-04-13 04:14:07]: ***  [, Level 0]: el champeon is on a killing spree with 10 blocks
 [2021-04-13 04:14:40]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
+[2021-04-13 04:14:47]: El patron [, Level 28]: Zephir™:
+[2021-04-13 04:14:51]: Karma Akabane [, Level 24]: Kenshi™: no
+[2021-04-13 04:14:54]: Karma Akabane [, Level 24]: ops
