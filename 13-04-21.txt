@@ -1663,3 +1663,5 @@
 [2021-04-13 02:22:54]: ***  [, Level 0]: Steve is on a killing spree with 5 blocks
 [2021-04-13 02:23:33]: ***  [, Level 0]: '»ℱℬℑ«' has left the game
 [2021-04-13 02:24:11]: ***  [, Level 0]: 'infiniter' entered and joined the game
+[2021-04-13 02:24:24]: ***  [, Level 0]: 'infiniter' joined the spectators
+[2021-04-13 02:24:29]: ***  [, Level 0]: '1' entered and joined the game
