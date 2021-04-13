@@ -1652,3 +1652,4 @@
 [2021-04-13 02:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-13 02:21:00]: ***  [, Level 0]: '»ℱℬℑ«' entered and joined the game
 [2021-04-13 02:21:25]: ***  [, Level 0]: 'Hunter.exe' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-13 02:21:26]: ***  [, Level 0]: 'sHunter.exe' has left the game (Too weak connection (not acked for 60 seconds))
