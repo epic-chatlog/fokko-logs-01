@@ -981,3 +981,8 @@
 [2021-04-13 01:15:50]: mamikral011 [DogParty, Level 0]: mamikral011:
 [2021-04-13 01:15:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-13 01:15:56]: mamikral011 [DogParty, Level 0]: 1:
+[2021-04-13 01:16:08]: ***  [, Level 0]: 'Recep' has left the game
+[2021-04-13 01:16:08]: ***  [, Level 0]: 'Taip' has left the game
+[2021-04-13 01:16:09]: mamikral011 [DogParty, Level 0]: 1 thank
+[2021-04-13 01:16:11]: Axandos [, Level 25]: :yikes:
+[2021-04-13 01:16:18]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
