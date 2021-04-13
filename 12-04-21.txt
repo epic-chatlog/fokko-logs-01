@@ -16292,3 +16292,32 @@
 [2021-04-12 22:41:37]: Intensiv_ [CrazzyNobbs, Level 2]: pls no block
 [2021-04-12 22:41:43]: S Y T H N [, Level 39]: Tom: !
 [2021-04-12 22:42:05]: ***  [, Level 0]: Collected 45626 money
+[2021-04-12 22:42:09]: ←   [, Level 0]: Nudelsaft c:: 1moneydrop
+[2021-04-12 22:42:09]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-12 22:42:09]: ***  [, Level 0]: Bank: 112903
+[2021-04-12 22:42:09]: ***  [, Level 0]: Wallet: 91253
+[2021-04-12 22:42:09]: ***  [, Level 0]: Euros: 0
+[2021-04-12 22:42:09]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-12 22:42:09]: ***  [, Level 0]: [WALLET] +45626 collected
+[2021-04-12 22:42:09]: ***  [, Level 0]: [BANK] +20776 automatic wallet to bank due to shutdown
+[2021-04-12 22:42:09]: ***  [, Level 0]: [WALLET] +5 collected
+[2021-04-12 22:42:09]: ***  [, Level 0]: [WALLET] -120341 dropped
+[2021-04-12 22:42:09]: ***  [, Level 0]: [WALLET] +29633 collected
+[2021-04-12 22:42:09]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-12 22:42:09]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-12 22:42:09]: ***  [, Level 0]: Invalid whisper
+[2021-04-12 22:42:11]: ←   [, Level 0]: Nudelsaft c:: 0moneydrop
+[2021-04-12 22:42:11]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-12 22:42:11]: ***  [, Level 0]: Bank: 138164
+[2021-04-12 22:42:11]: ***  [, Level 0]: Wallet: 45627
+[2021-04-12 22:42:11]: ***  [, Level 0]: Euros: 0
+[2021-04-12 22:42:11]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-12 22:42:11]: ***  [, Level 0]: [BANK] +20656 automatic wallet to bank due to shutdown
+[2021-04-12 22:42:11]: ***  [, Level 0]: [WALLET] -29632 dropped
+[2021-04-12 22:42:11]: ***  [, Level 0]: [WALLET] -319 dropped
+[2021-04-12 22:42:11]: ***  [, Level 0]: [WALLET] +160 collected
+[2021-04-12 22:42:11]: ***  [, Level 0]: [WALLET] -292 dropped
+[2021-04-12 22:42:11]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-12 22:42:11]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-12 22:42:11]: ***  [, Level 0]: Invalid whisper
+[2021-04-12 22:42:13]: OperaYANDEX [, Level 0]: sorry
