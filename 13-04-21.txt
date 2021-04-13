@@ -12461,3 +12461,6 @@
 [2021-04-13 14:00:59]: ***  [, Level 0]: 'any' would have timed out, but can use timeout protection now
 [2021-04-13 14:00:59]: ***  [, Level 0]: 'any'' would have timed out, but can use timeout protection now
 [2021-04-13 14:01:44]: Kirito [{TQuila}, Level 40]: soleri1: fast
+[2021-04-13 14:01:49]: Kirito [{TQuila}, Level 40]: soleri1:
+[2021-04-13 14:01:51]: ***  [, Level 0]: 'Nightmare' has left the game
+[2021-04-13 14:01:51]: ***  [, Level 0]: 'Nightmare.' has left the game
