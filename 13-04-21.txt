@@ -1169,3 +1169,6 @@
 [2021-04-13 01:38:24]: 1 [, Level 16]: 1
 [2021-04-13 01:38:42]: 1 [, Level 16]: 3
 [2021-04-13 01:38:44]: 1 [, Level 16]: 1
+[2021-04-13 01:39:09]: SanoreX.* [Chilli.*, Level 22]: I ncat mopve
+[2021-04-13 01:39:16]: SanoreX.* [Chilli.*, Level 22]: I cant move now
+[2021-04-13 01:39:19]: SanoreX.* [Chilli.*, Level 22]: help
