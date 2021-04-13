@@ -16594,3 +16594,5 @@
 [2021-04-12 23:40:58]: Matiteusz [TrRShClNrRs, Level 36]: 'KeeperTrain._.: hej xD
 [2021-04-12 23:41:02]: 'KeeperTrain._. [, Level 30]: xd
 [2021-04-12 23:41:05]: ***  [, Level 0]: Collected 3 money
+[2021-04-12 23:41:15]: ***  [, Level 0]: 'Nidardo.' entered and joined the game
+[2021-04-12 23:41:19]: ***  [, Level 0]: 'TimePause' entered and joined the game
