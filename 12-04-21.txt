@@ -15905,3 +15905,5 @@
 [2021-04-12 17:21:45]: (1)☺ [, Level 11]: teuh hi
 [2021-04-12 17:21:50]: ***  [, Level 0]: 'arther' joined the spectators
 [2021-04-12 17:21:53]: ***  [, Level 0]: 'arther' joined the game
+[2021-04-12 17:22:04]: ***  [, Level 0]: 'Dela-chi' entered and joined the game
+[2021-04-12 17:22:06]: ***  [, Level 0]: 'arther' has left the game
