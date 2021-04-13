@@ -12882,3 +12882,5 @@
 [2021-04-13 15:46:56]: Zephir™ [, Level 39]: s6_sven: he are my ennemi
 [2021-04-13 15:47:09]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
 [2021-04-13 15:47:11]: Zephir™ [, Level 39]: s6_sven: Kirito
+[2021-04-13 15:47:17]: (1)Kirito [, Level 25]: Saud: reset
+[2021-04-13 15:47:19]: (1)Kirito [, Level 25]: s6_sven: ok?
