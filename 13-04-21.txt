@@ -1005,3 +1005,5 @@
 [2021-04-13 01:17:54]: [D] mamikral011 [DogParty, Level 0]: gel
 [2021-04-13 01:17:57]: SanoreX [Chilli.*, Level 27]: bişe deİL
 [2021-04-13 01:18:00]: SanoreX.* [Chilli.*, Level 22]: bişe deİl
+[2021-04-13 01:18:06]: SanoreX.* [Chilli.*, Level 22]: bişe deıL
+[2021-04-13 01:18:12]: ***  [, Level 0]: '(1)Saud' entered and joined the game
