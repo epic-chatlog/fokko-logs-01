@@ -12469,3 +12469,4 @@
 [2021-04-13 14:04:07]: ***  [, Level 0]: '[₯]cLoud' has left the game (Timeout Protection over)
 [2021-04-13 14:04:59]: ***  [, Level 0]: 'any' has left the game (Timeout Protection over)
 [2021-04-13 14:04:59]: ***  [, Level 0]: 'any'' has left the game (Timeout Protection over)
+[2021-04-13 14:05:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
