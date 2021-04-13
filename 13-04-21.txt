@@ -12453,3 +12453,6 @@
 [2021-04-13 13:59:57]: Eden [qwq, Level 0]: xd
 [2021-04-13 14:00:07]: ***  [, Level 0]: '(1)[₯]cLoud' would have timed out, but can use timeout protection now
 [2021-04-13 14:00:07]: ***  [, Level 0]: '[₯]cLoud' would have timed out, but can use timeout protection now
+[2021-04-13 14:00:15]: ***  [, Level 0]: 'casserole :p' entered and joined the game
+[2021-04-13 14:00:17]: Kirito [{TQuila}, Level 40]: BitchPlease Jr.: no
+[2021-04-13 14:00:18]: ***  [, Level 0]: 'casserole :p' has left the game
