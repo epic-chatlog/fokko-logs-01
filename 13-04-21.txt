@@ -8449,3 +8449,8 @@
 [2021-04-13 09:58:47]: ***  [, Level 0]: '[D] SkyForge' has left the game (Timeout)
 [2021-04-13 09:58:48]: any [404, Level 38]: SanoreX: for ?
 [2021-04-13 09:58:52]: SanoreX [Chilli.*, Level 27]: any: plot
+[2021-04-13 09:58:55]: SanoreX [Chilli.*, Level 27]: buy plot
+[2021-04-13 09:58:56]: ***  [, Level 0]: '(1)kais' entered and joined the game
+[2021-04-13 09:59:01]: Zephir™ [, Level 39]: K!ked: u want war me ? i don't understand
+[2021-04-13 09:59:02]: BitchPlease Jr. [BBM, Level 50]: kais: gaylord
+[2021-04-13 09:59:03]: SanoreX [Chilli.*, Level 27]: any: I need plot
