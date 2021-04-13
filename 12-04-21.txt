@@ -16248,3 +16248,5 @@
 [2021-04-12 22:26:15]: (1)Boti. [.bad, Level 27]: im just a ally
 [2021-04-12 22:26:39]: S Y T H N [DogParty, Level 37]: i dont have vip
 [2021-04-12 22:26:44]: S Y T H N [DogParty, Level 37]: need to buy today
+[2021-04-12 22:27:11]: ***  [, Level 0]: 'Jerry' finished the special race!
+[2021-04-12 22:27:17]: ***  [, Level 0]: 'Tom' finished the special race!
