@@ -12726,3 +12726,4 @@
 [2021-04-13 15:08:39]: (2)Saud [, Level 0]: hello
 [2021-04-13 15:09:07]: ***  [, Level 0]: '(1)☺' entered and joined the game
 [2021-04-13 15:10:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-13 15:11:58]: ***  [, Level 0]: '(1)soleri1' has left the game
