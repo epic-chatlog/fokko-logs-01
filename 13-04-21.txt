@@ -1628,3 +1628,5 @@
 [2021-04-13 02:18:09]: rexi [, Level 0]: rip
 [2021-04-13 02:18:10]: ***  [, Level 0]: 'dark yo' joined the game
 [2021-04-13 02:18:23]: ***  [, Level 0]: 'T4L4PP1N0' joined the spectators
+[2021-04-13 02:18:26]: ***  [, Level 0]: 'T4L4PP1N0' joined the game
+[2021-04-13 02:18:33]: ***  [, Level 0]: 'vollesprit' entered and joined the game
