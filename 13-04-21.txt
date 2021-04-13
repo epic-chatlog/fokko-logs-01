@@ -4377,3 +4377,4 @@
 [2021-04-13 06:00:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-13 06:00:50]:   [, Level 0]: Recep: El patron: heyyy
 [2021-04-13 06:00:51]:   [, Level 0]: Recep: pls
+[2021-04-13 06:00:54]: ***  [, Level 0]: 'nameless tee' entered and joined the game
