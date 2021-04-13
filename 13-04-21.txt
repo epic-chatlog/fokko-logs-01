@@ -4258,3 +4258,6 @@
 [2021-04-13 05:48:22]: ***  [, Level 0]: '(1)kais' has left the game
 [2021-04-13 05:48:22]: |ΛnץOиe| [, Level 43]: kais: bouge ton cul
 [2021-04-13 05:48:26]: |ΛnץOиe| [, Level 43]: kais: tu soules
+[2021-04-13 05:48:44]: ***  [, Level 0]: '[D] BC|serwan' would have timed out, but can use timeout protection now
+[2021-04-13 05:48:44]: ***  [, Level 0]: 'BC|serwan' would have timed out, but can use timeout protection now
+[2021-04-13 05:48:45]: ***  [, Level 0]: '(1)BC|serwan' would have timed out, but can use timeout protection now
