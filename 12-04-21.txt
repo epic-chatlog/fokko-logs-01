@@ -16679,3 +16679,6 @@
 [2021-04-12 23:52:27]: 'KeeperTrain._. [FookinLads, Level 30]: GODLIKe: yo
 [2021-04-12 23:52:29]: GODLIKe [, Level 44]: hi
 [2021-04-12 23:52:47]: GODLIKe [, Level 44]: ReXi: sunslow
+[2021-04-12 23:52:57]: ReXi [, Level 0]: GODLIKe: ah
+[2021-04-12 23:52:57]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
+[2021-04-12 23:53:01]: ***  [, Level 0]: '(1)Swarfey' entered and joined the game
