@@ -3125,3 +3125,5 @@
 [2021-04-13 04:16:38]:   [, Level 0]: GODLIKe: AAAAA
 [2021-04-13 04:16:39]: ***  [, Level 0]: 'arther' joined the spectators
 [2021-04-13 04:16:42]: rexi [, Level 0]: Axandos: will in police blieben
+[2021-04-13 04:16:53]: ***  [, Level 0]: 'Zeko' entered and joined the game
+[2021-04-13 04:16:55]: Axandos² [, Level 20]: wtf Kenshi™
