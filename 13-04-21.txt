@@ -12880,3 +12880,5 @@
 [2021-04-13 15:46:20]: Saud [, Level 25]: AHAHA
 [2021-04-13 15:46:40]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
 [2021-04-13 15:46:56]: Zephir™ [, Level 39]: s6_sven: he are my ennemi
+[2021-04-13 15:47:09]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
+[2021-04-13 15:47:11]: Zephir™ [, Level 39]: s6_sven: Kirito
