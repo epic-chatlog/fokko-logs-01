@@ -12506,3 +12506,4 @@
 [2021-04-13 14:13:00]: ***  [, Level 0]: 'Teet' entered and joined the game
 [2021-04-13 14:13:00]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
 [2021-04-13 14:13:15]: Eden [qwq, Level 0]: comment on obtient des score
+[2021-04-13 14:13:32]: ***  [, Level 0]: 'Teet' has left the game
