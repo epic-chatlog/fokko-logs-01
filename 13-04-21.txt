@@ -3804,3 +3804,5 @@
 [2021-04-13 05:14:43]:   [, Level 0]: Saud: (1)fitz:
 [2021-04-13 05:14:45]: Eden [qwq, Level 0]: (1)fitz:
 [2021-04-13 05:14:51]: El patron [, Level 29]: Cylox: come
+[2021-04-13 05:14:54]: Cylox [, Level 31]: no
+[2021-04-13 05:14:57]: Cylox [, Level 31]: ı 2 jump
