@@ -4705,3 +4705,5 @@
 [2021-04-13 06:21:59]: ***  [, Level 0]: 'evpalege' entered and joined the game
 [2021-04-13 06:22:10]: İntensiv_ [CrazyNoobs, Level 0]: help
 [2021-04-13 06:22:13]: İntensiv_ [CrazyNoobs, Level 0]: yardım beyler
+[2021-04-13 06:22:20]: Taip [VergleriSay, Level 17]: nedense inanasım gelmedi
+[2021-04-13 06:22:27]: [D] Kahve [, Level 19]: Taip: sende türksün bende türküm
