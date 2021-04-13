@@ -1968,3 +1968,9 @@
 [2021-04-13 02:50:17]: ***  [, Level 0]: 'SanoreX' has left the game
 [2021-04-13 02:50:19]: SkyForge [, Level 0]: ES:  perma killed your dummy
 [2021-04-13 02:50:26]: Axandos² [, Level 20]: take him Tziys*
+[2021-04-13 02:50:36]: Axandos² [, Level 20]: egggmaaan
+[2021-04-13 02:50:37]: rexi [, Level 0]: ~DemoizL~: sry
+[2021-04-13 02:50:40]: ***  [, Level 0]: Zʷʰʸˀ finished in: 1 minute(s)  4.42 second(s)
+[2021-04-13 02:50:40]: ***  [, Level 0]: New record: 1 minute(s) 34.94 second(s) better.
+[2021-04-13 02:50:41]: ***  [, Level 0]: (1)Zʷʰʸˀ finished in: 4 minute(s)  0.00 second(s)
+[2021-04-13 02:50:41]: ***  [, Level 0]: New record: 55 minute(s) 14.66 second(s) better.
