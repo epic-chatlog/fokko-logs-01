@@ -6322,3 +6322,4 @@
 [2021-04-13 08:00:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-13 08:00:58]: CKA3A4NIK[NR] [Night Raid, Level 35]: El patron:  im dont kill you
 [2021-04-13 08:01:03]: CKA3A4NIK[NR] [Night Raid, Level 35]: El patron:  help fast
+[2021-04-13 08:01:09]: [D] El patron [, Level 23]: CKA3A4NIK: you are gay
