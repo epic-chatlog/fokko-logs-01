@@ -1022,3 +1022,4 @@
 [2021-04-13 01:20:23]: [D] mamikral011 [DogParty, Level 0]: Andresss Dumdum: stopp
 [2021-04-13 01:20:26]: SanoreX.* [Chilli.*, Level 22]: fuck u Andresss Dumdum
 [2021-04-13 01:20:45]: ***  [, Level 0]: 'мяу' entered and joined the game
+[2021-04-13 01:20:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
