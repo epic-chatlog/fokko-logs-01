@@ -16621,3 +16621,5 @@
 [2021-04-12 23:43:52]: ***  [, Level 0]: 'Nidardo.' has left the game
 [2021-04-12 23:43:52]: ***  [, Level 0]: 'NidardoHD' has left the game
 [2021-04-12 23:44:10]: rexi [, Level 0]: 1: u got 900 money
+[2021-04-12 23:44:27]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 28.58 second(s)
+[2021-04-12 23:44:27]: ***  [, Level 0]: New record: 18.82 second(s) better.
