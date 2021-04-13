@@ -16050,3 +16050,6 @@
 [2021-04-12 18:54:03]: ☺ [, Level 17]: yeeeeee
 [2021-04-12 18:54:18]: ☺ [, Level 17]: ./money drop
 [2021-04-12 18:54:19]: bob [669, Level 36]: how long do you farm for 1k?
+[2021-04-12 18:54:32]: bob [669, Level 36]: how long ?
+[2021-04-12 18:54:34]: bob [669, Level 36]: for 1k?
+[2021-04-12 18:54:38]: ☺ [, Level 17]: 1k euuh
