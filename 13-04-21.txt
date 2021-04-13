@@ -4350,3 +4350,5 @@
 [2021-04-13 05:58:34]: [D] BC|Tixnix [BC, Level 0]: ERROR.: warum kilsst du mich
 [2021-04-13 05:58:36]: ***  [, Level 0]: 'BC|serwan' entered and joined the game
 [2021-04-13 05:58:38]: ***  [, Level 0]: [D] Kahve finished in: 3 minute(s) 48.74 second(s)
+[2021-04-13 05:58:48]: ***  [, Level 0]: 'Recep' entered and joined the game
+[2021-04-13 05:58:50]:   [, Level 0]: |ΛnץOиe|: wait me
