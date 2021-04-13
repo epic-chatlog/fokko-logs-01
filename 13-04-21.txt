@@ -2606,3 +2606,4 @@
 [2021-04-13 03:35:20]: Foxie♥ [{TQuila}, Level 40]: rq time
 [2021-04-13 03:35:21]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
 [2021-04-13 03:35:21]: ***  [, Level 0]: 'Foxie♥' has left the game
+[2021-04-13 03:35:25]: [D] SkyForge [, Level 0]: ReXi:  left
