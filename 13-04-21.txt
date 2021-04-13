@@ -775,3 +775,9 @@
 [2021-04-13 00:59:57]: ***  [, Level 0]: '(1)1' finished the special race!
 [2021-04-13 01:00:04]: Cylox [, Level 31]: flappy: hey bro help me
 [2021-04-13 01:00:07]: ***  [, Level 0]: 'andrea' finished the special race!
+[2021-04-13 01:00:10]: Recep [VergleriSay, Level 0]: neden alim
+[2021-04-13 01:00:12]: ***  [, Level 0]: ### 'SanoreX' [2021-04-13 13:49:11][client]: prediction time reset!
+[2021-04-13 01:00:15]: Recep [VergleriSay, Level 0]: beni blockladın
+[2021-04-13 01:00:18]: Recep [VergleriSay, Level 0]: dummymi
+[2021-04-13 01:00:18]: Zeko [, Level 0]: alma aq
+[2021-04-13 01:00:19]: S Y T H N [, Level 37]: Cylox: a
