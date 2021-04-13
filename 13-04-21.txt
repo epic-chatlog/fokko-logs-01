@@ -2950,3 +2950,5 @@
 [2021-04-13 04:01:07]: ***  [, Level 0]: 'Monkey' entered and joined the game
 [2021-04-13 04:01:10]: (1)Zʷʰʸˀ [NULL, Level 35]: Axandos: wow 2vs1 and u call me pussy xD
 [2021-04-13 04:01:11]: ***  [, Level 0]: 'Recep' entered and joined the game
+[2021-04-13 04:01:20]: Axandos² [, Level 20]: Zʷʰʸˀ: i have 5 jumps
+[2021-04-13 04:01:24]: Axandos² [, Level 20]: u play with all buffs
