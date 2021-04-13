@@ -3212,3 +3212,7 @@
 [2021-04-13 04:24:01]: ***  [, Level 0]: 'Lokomit' has left the game
 [2021-04-13 04:24:04]: ***  [, Level 0]: 'Snow Foxy GX' entered and joined the game
 [2021-04-13 04:24:05]: ***  [, Level 0]: 'el champeon' entered and joined the game
+[2021-04-13 04:24:08]: ***  [, Level 0]: 'Snow Foxy GX' has left the game
+[2021-04-13 04:24:10]: ***  [, Level 0]: 'Soros' entered and joined the game
+[2021-04-13 04:24:16]: ***  [, Level 0]: 'El_PePeGo' entered and joined the game
+[2021-04-13 04:24:16]: ***  [, Level 0]: 'El_PePeGo' has left the game
