@@ -1112,3 +1112,5 @@
 [2021-04-13 01:33:21]: ReXi [, Level 0]: Axandos: hi
 [2021-04-13 01:33:23]: Axandos [, Level 25]: hi
 [2021-04-13 01:33:23]: ReXi [, Level 0]: I like turtles.
+[2021-04-13 01:33:51]: ***  [, Level 0]: 'HardreenClutch' entered and joined the game
+[2021-04-13 01:33:58]: ReXi [, Level 0]: Axandos:
