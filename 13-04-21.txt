@@ -6330,3 +6330,9 @@
 [2021-04-13 08:01:36]: ***  [, Level 0]: 'Taip' has left the game
 [2021-04-13 08:01:36]: i m noob [, Level 19]: Zephir™:  why you kill me
 [2021-04-13 08:01:46]: Zephir™ [, Level 39]: El patron: i need to kill my self for make him with bonus
+[2021-04-13 08:01:54]: [D] El patron [, Level 23]: Zephir™:  do
+[2021-04-13 08:01:54]: Foxi♥ [{TQuila}, Level 0]: Kahve: noob
+[2021-04-13 08:01:56]: ***  [, Level 0]: 'Foxi♥' has left the game
+[2021-04-13 08:02:01]: Foxie♥ [{TQuila}, Level 40]: [D] Kahve: l2p
+[2021-04-13 08:02:02]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
+[2021-04-13 08:02:03]: ***  [, Level 0]: 'Kenshi™' entered and joined the game
