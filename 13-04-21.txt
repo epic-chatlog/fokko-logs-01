@@ -13080,3 +13080,7 @@
 [2021-04-13 16:20:37]: Zephir™ [, Level 39]: s6_sven: ok but who is the second ? me and u vs ♥TAKO♥ and ?
 [2021-04-13 16:20:43]: ***  [, Level 0]: 'Meex' entered and joined the game
 [2021-04-13 16:20:45]: s6_sven [, Level 21]: the smiley boy
+[2021-04-13 16:20:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-13 16:20:51]: (1)☺ [, Level 12]: yes
+[2021-04-13 16:20:55]: ***  [, Level 0]: 'Hikari' entered and joined the game
+[2021-04-13 16:20:59]: s6_sven [, Level 21]: we can mix the teams
