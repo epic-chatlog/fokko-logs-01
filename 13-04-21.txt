@@ -4141,3 +4141,7 @@
 [2021-04-13 05:40:17]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-13 05:40:21]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-13 05:40:32]:   [, Level 0]: Nudelsaft c:: (1)Matiteusz: 1 sec, i go check
+[2021-04-13 05:40:44]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-13 05:40:47]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-13 05:40:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-13 05:40:51]: butt eater [, Level 41]: ass cleaner:
