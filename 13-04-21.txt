@@ -6573,3 +6573,7 @@
 [2021-04-13 08:19:51]: ***  [, Level 0]: New record: 5 minute(s) 52.26 second(s) better.
 [2021-04-13 08:19:51]: [D] Mert [[!BRUH!], Level 0]: why
 [2021-04-13 08:19:51]: ***  [, Level 0]: Cylox finished in: 5 minute(s) 54.76 second(s)
+[2021-04-13 08:20:09]: ***  [, Level 0]: 'Hitchcock' has left the game
+[2021-04-13 08:20:09]: ***  [, Level 0]: 'UnamiLaBa' has left the game
+[2021-04-13 08:20:09]: ***  [, Level 0]: Collected 7283 money
+[2021-04-13 08:20:12]: Nidardo. [TOP, Level 12]: im so bad xd
