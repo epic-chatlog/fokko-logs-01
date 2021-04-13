@@ -16007,3 +16007,5 @@
 [2021-04-12 18:50:04]: bob [669, Level 36]: i need to kill you
 [2021-04-12 18:50:11]: ***  [, Level 0]: 'ItzPowder' has left the game
 [2021-04-12 18:50:12]: ☺ [, Level 17]: but why
+[2021-04-12 18:50:18]: bob [669, Level 36]: i need your money
+[2021-04-12 18:50:26]: ☺ [, Level 17]: i just 100k
