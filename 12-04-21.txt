@@ -16108,3 +16108,4 @@
 [2021-04-12 19:40:06]: ***  [, Level 0]: 'Elmattoski :>' has left the game
 [2021-04-12 19:40:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-12 19:40:58]: ***  [, Level 0]: '(1)Elmattoski :>' has left the game
+[2021-04-12 19:45:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
