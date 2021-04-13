@@ -16392,3 +16392,7 @@
 [2021-04-12 23:06:16]: Zeko [, Level 0]: pls
 [2021-04-12 23:06:21]: ***  [, Level 0]: 1 finished in: 1 minute(s)  3.38 second(s)
 [2021-04-12 23:06:22]: S Y T H N [, Level 37]: where
+[2021-04-12 23:06:37]: ***  [, Level 0]: 'Zeko' has left the game
+[2021-04-12 23:06:38]: ***  [, Level 0]: 'Zeko' entered and joined the game
+[2021-04-12 23:06:43]: ***  [, Level 0]: [D] #5 blocker finished in: 2 minute(s)  0.68 second(s)
+[2021-04-12 23:06:45]: ***  [, Level 0]: 'Zeko' has left the game
