@@ -7923,3 +7923,6 @@
 [2021-04-13 09:35:40]: mamikral011 [DogParty, Level 0]: any': ok
 [2021-04-13 09:35:42]: SanoreX [Chilli.*, Level 27]: ًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًً ًًًًًًًًًًًًًًًًًً ًًًًًًًًًًًًًًًًً ًًًًًًًًًًًًًًًًًًًًً ًًًًًًًًًًً
 [2021-04-13 09:35:42]: ***  [, Level 0]: 'lolpoep' entered and joined the game
+[2021-04-13 09:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-13 09:35:52]: SanoreX [Chilli.*, Level 27]: '
+[2021-04-13 09:35:55]: ***  [, Level 0]: 'Moritz' has left the game
