@@ -7819,3 +7819,8 @@
 [2021-04-13 09:32:16]: ***  [, Level 0]: '(1)anyً' changed name to 'zanyً'
 [2021-04-13 09:32:21]: ***  [, Level 0]: 'zanyً' changed name to '(1)anyً'
 [2021-04-13 09:32:22]: Kezo [DogParty, Level 41]: Axandos: oki de
+[2021-04-13 09:32:30]: SanoreX [Chilli.*, Level 27]: ًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًً
+[2021-04-13 09:32:33]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-13 09:32:36]: ***  [, Level 0]: '(1)anyً' changed name to '(1)anyًًًًًً'
+[2021-04-13 09:32:36]: SanoreX [Chilli.*, Level 27]: ًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًdd
+[2021-04-13 09:32:37]: K!ked [De}|{aBю, Level 62]: ez
