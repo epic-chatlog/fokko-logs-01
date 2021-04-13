@@ -6544,3 +6544,6 @@
 [2021-04-13 08:15:24]: ***  [, Level 0]: '♥TAKO♥' has left the game
 [2021-04-13 08:15:38]: ***  [, Level 0]: 'WarHammer'' has left the game
 [2021-04-13 08:15:38]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-13 08:15:49]: (1)☺ [, Level 12]: mouais bon je afk pour me pas faire denemy Zephir™
+[2021-04-13 08:15:49]: Kenshi™ [, Level 0]: Nidardo.: fun war ?
+[2021-04-13 08:15:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
