@@ -1734,3 +1734,6 @@
 [2021-04-13 02:32:35]: ***  [, Level 0]: 'SkyForge' entered and joined the game
 [2021-04-13 02:32:43]: ***  [, Level 0]: 'Tziys*' entered and joined the game
 [2021-04-13 02:32:45]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
+[2021-04-13 02:32:51]: ***  [, Level 0]: '[D] #5 blocker' has left the game
+[2021-04-13 02:32:52]: kais [, Level 66]: respawn nobos
+[2021-04-13 02:33:01]: Kenshi™ [, Level 0]: Axandos: ok
