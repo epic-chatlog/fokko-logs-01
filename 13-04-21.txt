@@ -9675,3 +9675,4 @@
 [2021-04-13 10:52:52]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-13 10:52:54]: Mert [Blood Gang, Level 0]: :(
 [2021-04-13 10:53:02]: Mert [Blood Gang, Level 0]: niye sevmiyon beni
+[2021-04-13 10:53:13]:   [, Level 0]: BULLETBOT: bob: sory
