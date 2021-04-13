@@ -1228,3 +1228,9 @@
 [2021-04-13 01:42:13]: Axandos [, Level 25]: pro
 [2021-04-13 01:42:14]: rexi [, Level 0]: HardreenClutch: eyyyy
 [2021-04-13 01:42:16]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
+[2021-04-13 01:42:23]: ***  [, Level 0]: 'Teet' has left the game
+[2021-04-13 01:42:24]: ***  [, Level 0]: 'Teet' entered and joined the game
+[2021-04-13 01:42:26]: ***  [, Level 0]: 'GReeeN' has left the game (Timeout)
+[2021-04-13 01:42:26]: ***  [, Level 0]: 'HardreenClutch' has left the game (Timeout)
+[2021-04-13 01:42:28]: ***  [, Level 0]: 'HardreenClutch' entered and joined the game
+[2021-04-13 01:42:29]: Axandos [, Level 25]: AHAHAHAHAHHAHA
