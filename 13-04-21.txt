@@ -2611,3 +2611,5 @@
 [2021-04-13 03:35:49]: El patron [, Level 28]: ReXi: war
 [2021-04-13 03:35:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-13 03:35:51]: ***  [, Level 0]: 'leazerteam' has left the game
+[2021-04-13 03:36:03]: rexi [, Level 0]: SkyForge: wieso war mit El patron
+[2021-04-13 03:36:07]: Axandos [, Level 25]: bitch
