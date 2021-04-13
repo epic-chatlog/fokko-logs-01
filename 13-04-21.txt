@@ -433,3 +433,4 @@
 [2021-04-13 00:36:15]: ***  [, Level 0]: '(1)Ðream' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-13 00:36:17]: (1)fokkonaut [, Level 0]: coca: is not bug
 [2021-04-13 00:36:19]: Axandos [, Level 25]: ja bei dir
+[2021-04-13 00:36:25]: (1)fokkonaut [, Level 0]: coca: he will eventually kill
