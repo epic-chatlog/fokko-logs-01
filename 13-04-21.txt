@@ -1136,3 +1136,6 @@
 [2021-04-13 01:36:22]: ReXi [, Level 0]: warte
 [2021-04-13 01:36:23]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-13 01:36:26]: ReXi [, Level 0]: egal
+[2021-04-13 01:36:37]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
+[2021-04-13 01:36:42]: ***  [, Level 0]: 'PARDUS' has left the game
+[2021-04-13 01:36:44]: SkyForge [, Level 16]: Axandos:  hi bruder
