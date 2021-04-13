@@ -7469,3 +7469,8 @@
 [2021-04-13 09:15:25]: ***  [, Level 0]: 'cHurch' finished the special race!
 [2021-04-13 09:15:26]: ***  [, Level 0]: 'SkyForge' finished the special race!
 [2021-04-13 09:15:27]: cya [, Level 42]: Isegrin: tot
+[2021-04-13 09:15:31]: ***  [, Level 0]: '[D] SkyForge' finished the special race!
+[2021-04-13 09:15:33]: Isegrin [, Level 55]: cya: jaa du tot
+[2021-04-13 09:15:34]: ***  [, Level 0]: '.S L E E P Y'' entered and joined the game
+[2021-04-13 09:15:34]: Cylox. [♥, Level 0]: sad
+[2021-04-13 09:15:40]: cya [, Level 42]: Isegrin: jawohl
