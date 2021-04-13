@@ -10628,3 +10628,7 @@
 [2021-04-13 11:45:18]: noob! [, Level 0]: :DDD
 [2021-04-13 11:45:24]: Axel [TrRShClNrRs, Level 30]: Zephir™: who are you?
 [2021-04-13 11:45:28]: ***  [, Level 0]: 'NoobEmirF.*' entered and joined the game
+[2021-04-13 11:45:37]:   [, Level 0]: Zephir™: Axel: a guys killed him all time
+[2021-04-13 11:45:42]: noob! [, Level 0]: Random Guy: ?
+[2021-04-13 11:45:48]: ***  [, Level 0]: 'sain' has left the game
+[2021-04-13 11:45:48]: ***  [, Level 0]: 'nameless tee' has left the game
