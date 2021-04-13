@@ -366,3 +366,6 @@
 [2021-04-13 00:30:56]: Kiøn1029 [.bad, Level 32]: és nyomorultak clán
 [2021-04-13 00:31:01]: GODLIKe [, Level 44]: (1)1:
 [2021-04-13 00:31:04]: #5 blocker [|*MorE*|, Level 24]: anyád entites ben látni
+[2021-04-13 00:31:12]: Boti. [.bad, Level 27]: nem kell többet mondani
+[2021-04-13 00:31:17]: ***  [, Level 0]: '[D] Boti.' has left the game
+[2021-04-13 00:31:17]: ***  [, Level 0]: 'Boti.' has left the game
