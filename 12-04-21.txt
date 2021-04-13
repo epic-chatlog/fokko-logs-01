@@ -15956,3 +15956,5 @@
 [2021-04-12 18:32:12]: bob [669, Level 36]: if you tell me
 [2021-04-12 18:32:17]: bob [669, Level 36]: how old you are
 [2021-04-12 18:32:28]: ☺ [, Level 17]: i was 17000k
+[2021-04-12 18:32:43]: ☺ [, Level 17]: but shiro he killed me
+[2021-04-12 18:32:46]: bob [669, Level 36]: wtf
