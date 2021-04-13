@@ -5699,3 +5699,5 @@
 [2021-04-13 07:24:04]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
 [2021-04-13 07:24:06]: Axandos² [, Level 20]: mamikral011:  ofc
 [2021-04-13 07:24:13]: Axandos² [, Level 20]: mamikral011:  all buffs and still suck and need 3 guys
+[2021-04-13 07:24:22]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-13 07:24:26]: cookie [, Level 1]: mamikral011:  why
