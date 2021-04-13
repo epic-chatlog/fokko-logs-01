@@ -16444,3 +16444,4 @@
 [2021-04-12 23:19:27]: ***  [, Level 0]: 'x7|KshKsh99' entered and joined the game
 [2021-04-12 23:19:32]: ***  [, Level 0]: 'x7|KshKsh99' has left the game
 [2021-04-12 23:19:35]: ***  [, Level 0]: 'PARDUS' entered and joined the game
+[2021-04-12 23:19:42]: ***  [, Level 0]: 1 finished in: 0 minute(s) 39.92 second(s)
