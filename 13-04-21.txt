@@ -1264,3 +1264,7 @@
 [2021-04-13 01:44:04]: Foxie♥ [{TQuila}, Level 40]: SanoreX: war?
 [2021-04-13 01:44:05]: ***  [, Level 0]: 'Teet' has left the game
 [2021-04-13 01:44:06]: ***  [, Level 0]: 'Teet' entered and joined the game
+[2021-04-13 01:44:13]: ***  [, Level 0]: 'Teet' has left the game
+[2021-04-13 01:44:13]: SanoreX.* [Chilli.*, Level 22]: dont destroyed oo
+[2021-04-13 01:44:14]: ***  [, Level 0]: 'Teet' entered and joined the game
+[2021-04-13 01:44:22]: ***  [, Level 0]: 'Teet' has left the game
