@@ -1108,3 +1108,7 @@
 [2021-04-13 01:32:43]: SkyForge [, Level 16]: SanoreX:  hi :D
 [2021-04-13 01:32:49]: SkyForge [, Level 16]: SanoreX.*:  can i come down :)
 [2021-04-13 01:32:56]: ReXi [, Level 0]: Axandos:
+[2021-04-13 01:33:16]: Axandos [, Level 25]: ja
+[2021-04-13 01:33:21]: ReXi [, Level 0]: Axandos: hi
+[2021-04-13 01:33:23]: Axandos [, Level 25]: hi
+[2021-04-13 01:33:23]: ReXi [, Level 0]: I like turtles.
