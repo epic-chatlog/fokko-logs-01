@@ -6602,3 +6602,4 @@
 [2021-04-13 08:22:44]: ***  [, Level 0]: 'brainless tee' entered and joined the game
 [2021-04-13 08:22:45]: Mert [Blood Gang, Level 0]: clox
 [2021-04-13 08:22:53]: Mert [Blood Gang, Level 0]: cylox
+[2021-04-13 08:23:01]: ***  [, Level 0]: 'BC|Tixnix' has left the game
