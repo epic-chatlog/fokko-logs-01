@@ -16141,3 +16141,4 @@
 [2021-04-12 20:35:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-12 20:40:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-12 20:45:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-12 20:50:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
