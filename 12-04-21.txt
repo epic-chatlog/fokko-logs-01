@@ -16366,3 +16366,6 @@
 [2021-04-12 22:57:24]: ***  [, Level 0]: '1' finished the special race!
 [2021-04-12 22:57:25]: Nudelsaft c: [FookinLads, Level 0]: u mean flag?
 [2021-04-12 22:57:26]: Nudelsaft c: [FookinLads, Level 0]: its urs
+[2021-04-12 22:57:58]: #5 blocker [|*MorE*|, Level 0]: 1: INF
+[2021-04-12 22:58:04]: ***  [, Level 0]: 'PANZELKOWY' has left the game
+[2021-04-12 22:58:05]: Zeko [, Level 0]: I'm so bad
