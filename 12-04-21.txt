@@ -16349,3 +16349,5 @@
 [2021-04-12 22:46:23]: MLG_PRO [5, Level 0]: Bye! Come back if you need something.
 [2021-04-12 22:48:35]: ***  [, Level 0]: 1 finished in: 0 minute(s) 40.10 second(s)
 [2021-04-12 22:48:35]: ***  [, Level 0]: New record: 55.90 second(s) better.
+[2021-04-12 22:49:53]: ***  [, Level 0]: 'Jerry' has left the game
+[2021-04-12 22:49:53]: ***  [, Level 0]: 'Tom' has left the game
