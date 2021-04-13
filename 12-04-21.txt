@@ -16401,3 +16401,5 @@
 [2021-04-12 23:10:09]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
 [2021-04-12 23:10:13]: ***  [, Level 0]: '1' finished the special race!
 [2021-04-12 23:10:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-12 23:10:52]: ***  [, Level 0]: '[D] #5 blocker' finished the special race!
+[2021-04-12 23:10:56]: ***  [, Level 0]: '#5 blocker' finished the special race!
