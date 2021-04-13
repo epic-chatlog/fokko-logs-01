@@ -16220,3 +16220,9 @@
 [2021-04-12 22:22:21]: ***  [, Level 0]: New record: 1 minute(s) 21.80 second(s) better.
 [2021-04-12 22:22:21]: ***  [, Level 0]: 1 finished in: 2 minute(s) 23.06 second(s)
 [2021-04-12 22:22:25]: x7|zemer [xSD7, Level 0]: S Y T H N: Ja
+[2021-04-12 22:22:29]: ***  [, Level 0]: Tom finished in: 2 minute(s) 14.58 second(s)
+[2021-04-12 22:22:29]: ***  [, Level 0]: New record: 51.62 second(s) better.
+[2021-04-12 22:22:30]: ***  [, Level 0]: [D] Boti. finished in: 1 minute(s)  3.22 second(s)
+[2021-04-12 22:22:30]: ***  [, Level 0]: New record:  7.80 second(s) better.
+[2021-04-12 22:22:31]: ***  [, Level 0]: (1)Boti. finished in: 1 minute(s) 42.72 second(s)
+[2021-04-12 22:22:32]: x7|zemer [xSD7, Level 0]: S Y T H N: Du?
