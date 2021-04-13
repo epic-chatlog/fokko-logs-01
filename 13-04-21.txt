@@ -1836,3 +1836,7 @@
 [2021-04-13 02:41:35]: (1)kais [, Level 58]: what ?
 [2021-04-13 02:41:35]: ***  [, Level 0]: '(1)ES' entered and joined the game
 [2021-04-13 02:41:41]: (1)kais [, Level 58]: you didn't deposited yet ?
+[2021-04-13 02:41:47]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-13 02:41:47]: ***  [, Level 0]: '[D] #5 blocker' has left the game
+[2021-04-13 02:41:49]: Saud [MNKY, Level 24]: kais:  leave me the ,,,.. alone
+[2021-04-13 02:41:53]: Axandos [, Level 25]: Nudelsaft c::
