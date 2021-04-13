@@ -16377,3 +16377,4 @@
 [2021-04-12 22:59:34]: Zeko [, Level 0]: OK sorry
 [2021-04-12 23:00:02]: Zeko [, Level 0]: ım dummy
 [2021-04-12 23:00:23]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-12 23:00:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
