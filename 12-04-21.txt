@@ -16336,3 +16336,5 @@
 [2021-04-12 22:44:05]: MLG_PRO [5, Level 0]: Welcome to the bank, DiscordBridge! Press F4 to manage your bank account.
 [2021-04-12 22:44:10]: Intensiv_ [CrazzyNobbs, Level 2]: no pls
 [2021-04-12 22:44:18]: S Y T H N [, Level 39]: wtf
+[2021-04-12 22:44:20]: ***  [, Level 0]: 'comic' has left the game (Timeout)
+[2021-04-12 22:44:23]: S Y T H N [, Level 39]: inf jumps endless
