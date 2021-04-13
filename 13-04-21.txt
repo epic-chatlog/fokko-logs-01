@@ -6658,3 +6658,7 @@
 [2021-04-13 08:30:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-13 08:30:51]: [D] El patron [, Level 23]: ReXi: nein aber das reciht
 [2021-04-13 08:30:56]: Cylox [, Level 31]: flappy
+[2021-04-13 08:31:00]: [D] El patron [, Level 23]: ReXi: reicht*
+[2021-04-13 08:31:00]: Good man [Drunks, Level 30]: I like turtles.
+[2021-04-13 08:31:04]: ReXi [, Level 0]: El patron: kk
+[2021-04-13 08:31:05]: hhh3 [, Level 48]: Isegrin: why block me endless room
