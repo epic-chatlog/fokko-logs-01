@@ -9719,3 +9719,11 @@
 [2021-04-13 10:55:42]:   [, Level 0]: bob: smiley man
 [2021-04-13 10:55:43]: Axandos² [, Level 20]: sniff at my feet |MıssOяchiĐ|
 [2021-04-13 10:55:46]:   [, Level 0]: Intensiv: Mert:
+[2021-04-13 10:55:47]: ☺ [, Level 18]: bob:
+[2021-04-13 10:55:48]:   [, Level 0]: bob: hello
+[2021-04-13 10:55:49]: |MıssOяchiĐ| [, Level 48]: Axandos²: EH
+[2021-04-13 10:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-13 10:55:52]: ☺ [, Level 18]: hello
+[2021-04-13 10:55:52]:   [, Level 0]: bob: how much moeny now?
+[2021-04-13 10:55:58]: mamikral011 [DogParty, Level 27]: [D] falkenauge: noob
+[2021-04-13 10:55:58]:   [, Level 0]: Intensiv: Mert:  haddini bil
