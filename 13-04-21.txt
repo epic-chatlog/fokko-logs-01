@@ -645,3 +645,5 @@
 [2021-04-13 00:52:00]: ***  [, Level 0]: '(1)SanoreX.*' entered and joined the game
 [2021-04-13 00:52:11]: coca [, Level 22]: Cylox: idw
 [2021-04-13 00:52:13]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-13 00:52:25]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
+[2021-04-13 00:52:29]: SanoreX [Chilli.*, Level 27]: owo
