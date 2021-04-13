@@ -399,3 +399,6 @@
 [2021-04-13 00:33:19]: Cylox. [♥, Level 0]: ass
 [2021-04-13 00:33:24]: coca [, Level 22]: flappy: cant move
 [2021-04-13 00:33:28]: (1)fokkonaut [, Level 0]: where?
+[2021-04-13 00:33:36]: coca [, Level 22]: (1)fokkonaut: we need to kill flappy first
+[2021-04-13 00:33:37]: rexi [, Level 0]: Axandos: hast du portal?
+[2021-04-13 00:33:40]: Axandos [, Level 25]: ne
