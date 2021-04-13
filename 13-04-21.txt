@@ -3836,3 +3836,5 @@
 [2021-04-13 05:17:05]: (1)fitz [, Level 0]: Corso:
 [2021-04-13 05:17:07]: Swarfey [FookinLads, Level 37]: yikes
 [2021-04-13 05:17:20]: ***  [°, Level 0]: 'epikguy' has left the game
+[2021-04-13 05:17:31]: ***  [°, Level 0]: '(3)Shy-ra.' entered and joined the game
+[2021-04-13 05:17:34]:   [, Level 0]: i m noob: wait
