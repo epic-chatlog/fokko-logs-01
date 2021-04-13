@@ -7590,3 +7590,5 @@
 [2021-04-13 09:21:40]: ***  [, Level 0]: '(1)any' changed name to '⸻⸻'
 [2021-04-13 09:21:44]: El patron [, Level 29]: Axandos: restart du bekomst endless glech
 [2021-04-13 09:21:51]: ***  [, Level 0]: '⸻⸻' changed name to '⸻'
+[2021-04-13 09:22:01]: soleri1 [, Level 23]: Zʷʰʸˀ: How can I stop bleeding?
+[2021-04-13 09:22:05]: El patron [, Level 29]: Axandos: gleich*
