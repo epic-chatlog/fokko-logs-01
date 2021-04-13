@@ -6981,3 +6981,6 @@
 [2021-04-13 08:50:37]: ***  [, Level 0]: Zephir™ is on a killing spree with 5 blocks
 [2021-04-13 08:50:39]: BULLETBOT [, Level 0]: XDDDDDDDDDDDDDDDD
 [2021-04-13 08:50:43]: El patron [, Level 29]: Kirito: stop try you nub
+[2021-04-13 08:50:46]: hhh3 [, Level 48]: server 1000 player
+[2021-04-13 08:50:49]: Flupper [, Level 0]: Cylox: watr
+[2021-04-13 08:50:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
