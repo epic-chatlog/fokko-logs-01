@@ -4121,3 +4121,5 @@
 [2021-04-13 05:37:38]:   [, Level 0]: Matiteusz: El patron: k
 [2021-04-13 05:37:48]: [D] El patron [, Level 23]: Matiteusz: ?
 [2021-04-13 05:37:50]:   [, Level 0]: Matiteusz: Zephir™: why am i killed
+[2021-04-13 05:38:07]: Zephir™ [, Level 39]: Matiteusz: idk where are u ?
+[2021-04-13 05:38:10]:   [, Level 0]: Matiteusz: Zephir™: OH GOD
