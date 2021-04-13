@@ -16119,3 +16119,9 @@
 [2021-04-12 19:51:33]: ***  [, Level 0]: '(1)ERROR.' would have timed out, but can use timeout protection now
 [2021-04-12 19:51:33]: ***  [, Level 0]: '(1)lol' would have timed out, but can use timeout protection now
 [2021-04-12 19:51:33]: ***  [, Level 0]: '(3)lol' would have timed out, but can use timeout protection now
+[2021-04-12 19:55:33]: ***  [, Level 0]: '(1)ERROR' has left the game (Timeout Protection over)
+[2021-04-12 19:55:33]: ***  [, Level 0]: 'lol' has left the game (Timeout Protection over)
+[2021-04-12 19:55:33]: ***  [, Level 0]: '(2)lol' has left the game (Timeout Protection over)
+[2021-04-12 19:55:33]: ***  [, Level 0]: '(1)ERROR.' has left the game (Timeout Protection over)
+[2021-04-12 19:55:33]: ***  [, Level 0]: '(1)lol' has left the game (Timeout Protection over)
+[2021-04-12 19:55:33]: ***  [, Level 0]: '(3)lol' has left the game (Timeout Protection over)
