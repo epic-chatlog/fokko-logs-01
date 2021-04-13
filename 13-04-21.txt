@@ -4437,3 +4437,5 @@
 [2021-04-13 06:05:29]:   [, Level 0]: K!ked: opa
 [2021-04-13 06:05:30]: Taip [VergleriSay, Level 17]: pls
 [2021-04-13 06:05:31]:   [, Level 0]: K!ked: ti 4o
+[2021-04-13 06:05:33]:   [, Level 0]: K!ked: 4istish
+[2021-04-13 06:05:33]: Taip [VergleriSay, Level 17]: why
