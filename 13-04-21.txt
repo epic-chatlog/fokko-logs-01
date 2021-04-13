@@ -6469,3 +6469,7 @@
 [2021-04-13 08:09:51]: rexi [, Level 0]: Kenshi‚Ñ¢: pls
 [2021-04-13 08:09:56]: ***  [ç, Level 0]: 'AkiHiKo_718' joined the game
 [2021-04-13 08:09:57]: ***  [, Level 0]: 'Michel' has left the game
+[2021-04-13 08:10:07]: ***  [B, Level 0]: 'AkiHiKo_718' joined the spectators
+[2021-04-13 08:10:10]: ***  [, Level 0]: 'AkiHiKo_718' joined the game
+[2021-04-13 08:10:16]: El patron [, Level 29]: I like turtles.
+[2021-04-13 08:10:17]: ***  [, Level 0]: 'AkiHiKo_718' joined the spectators
