@@ -16207,3 +16207,4 @@
 [2021-04-12 22:18:11]: S Y T H N [DogParty, Level 37]: ja xD
 [2021-04-12 22:18:11]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
 [2021-04-12 22:19:04]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-12 22:19:20]: ***  [, Level 0]: '[D] Boti.' has left the game
