@@ -3709,3 +3709,7 @@
 [2021-04-13 05:06:21]: WarHammer [DogParty, Level 26]: XD
 [2021-04-13 05:06:32]: ***  [°, Level 0]: 'nameless tee' joined the spectators
 [2021-04-13 05:06:34]: ***  [°, Level 0]: 1 is on a killing spree with 5 blocks
+[2021-04-13 05:06:38]: ***  [°, Level 0]: [D] El patron is on a killing spree with 5 blocks
+[2021-04-13 05:06:42]: ***  [°, Level 0]: 'nameless tee' joined the game
+[2021-04-13 05:06:42]: ***  [°, Level 0]: 'iwannatrysometh' entered and joined the game
+[2021-04-13 05:06:44]: ***  [°, Level 0]: GODLIKe is on a killing spree with 5 blocks
