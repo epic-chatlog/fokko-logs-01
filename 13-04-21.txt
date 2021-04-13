@@ -3133,3 +3133,6 @@
 [2021-04-13 04:17:19]: ***  [, Level 0]: '»ℱℬℑ«' entered and joined the game
 [2021-04-13 04:17:19]: ***  [, Level 0]: 'arther' joined the spectators
 [2021-04-13 04:17:20]: Karma Akabane [, Level 24]: Kezo: baby ^^
+[2021-04-13 04:17:22]: ***  [, Level 0]: 'arther' joined the game
+[2021-04-13 04:17:29]:   [, Level 0]: »ℱℬℑ«: HURENKINDER
+[2021-04-13 04:17:31]: ***  [, Level 0]: '»ℱℬℑ«' has left the game
