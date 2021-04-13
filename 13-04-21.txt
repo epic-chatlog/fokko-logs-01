@@ -13060,3 +13060,4 @@
 [2021-04-13 16:15:49]: Zephir™ [, Level 39]: s6_sven: my bflag
 [2021-04-13 16:15:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-13 16:16:43]: Zephir™ [, Level 39]: ☺
+[2021-04-13 16:17:05]: s6_sven [, Level 21]: wtf though fun war
