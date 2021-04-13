@@ -3917,3 +3917,8 @@
 [2021-04-13 05:23:46]: |Mƒ±ssO—èchiƒê| [, Level 48]: (2)Shy-ra.: ok war
 [2021-04-13 05:23:50]: ***  [∞, Level 0]: 'nameless tee' joined the spectators
 [2021-04-13 05:23:53]: ***  [∞, Level 0]: 'nameless tee' joined the game
+[2021-04-13 05:23:55]: ***  [∞, Level 0]: '#5 blocker' has left the game
+[2021-04-13 05:23:58]: ***  [∞, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-13 05:23:58]: ***  [∞, Level 0]: 'Swarfey' has left the game
+[2021-04-13 05:23:58]:   [, Level 0]: cookie: wat
+[2021-04-13 05:23:58]: El patron [, Level 29]: missora
