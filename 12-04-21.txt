@@ -16287,3 +16287,4 @@
 [2021-04-12 22:37:35]: S Y T H N [, Level 0]: ok muss neu hollen
 [2021-04-12 22:38:27]: ***  [, Level 0]: '(1)S Y T H N' entered and joined the game
 [2021-04-12 22:38:31]: ***  [, Level 0]: 'comic' entered and joined the game
+[2021-04-12 22:39:57]: ***  [, Level 0]: 'Boti.' has left the game
