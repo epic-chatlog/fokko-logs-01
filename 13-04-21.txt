@@ -1519,3 +1519,7 @@
 [2021-04-13 02:11:09]: ***  [, Level 0]: '(3)Shy-ra.' has left the game (Timeout)
 [2021-04-13 02:11:09]: ***  [, Level 0]: 'Shy-ra.' has left the game (Timeout)
 [2021-04-13 02:11:14]: SanoreX [Chilli.*, Level 27]: Nightmare: u linux?
+[2021-04-13 02:11:18]: SanoreX [Chilli.*, Level 27]: hostname -i
+[2021-04-13 02:11:21]: SanoreX [Chilli.*, Level 27]: to get ur ip,
+[2021-04-13 02:11:23]: Nightmare [, Level 27]: SanoreX: i windows boi
+[2021-04-13 02:11:27]: SanoreX [Chilli.*, Level 27]: ok
