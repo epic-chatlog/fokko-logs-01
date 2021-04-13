@@ -3107,3 +3107,8 @@
 [2021-04-13 04:15:32]: ***  [, Level 0]: Soros is on a killing spree with 10 blocks
 [2021-04-13 04:15:33]:   [, Level 0]: Kezo: Axandos:
 [2021-04-13 04:15:34]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-13 04:15:45]:   [, Level 0]: Kezo: PİNGG
+[2021-04-13 04:15:47]:   [, Level 0]: Kezo: ping lag
+[2021-04-13 04:15:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-13 04:15:54]:   [, Level 0]: Kezo: Axandos: rly ?
+[2021-04-13 04:15:55]:   [, Level 0]: BC|Tixnix: Soros: ahah
