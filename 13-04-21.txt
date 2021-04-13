@@ -4305,3 +4305,4 @@
 [2021-04-13 05:52:45]: ***  [, Level 0]: 'BC|serwan' has left the game (Timeout Protection over)
 [2021-04-13 05:53:18]:   [, Level 0]: Taip: fk of
 [2021-04-13 05:53:21]: [D] El patron [, Level 23]: a
+[2021-04-13 05:53:30]:   [, Level 0]: ass cleaner: Taip:  sad
