@@ -1158,3 +1158,7 @@
 [2021-04-13 01:37:40]: ***  [, Level 0]: 'GReeeN' entered and joined the game
 [2021-04-13 01:37:41]: SkyForge [, Level 16]: ReXi:  weil ich dennis bin
 [2021-04-13 01:37:44]: 1 [, Level 16]: 3
+[2021-04-13 01:37:48]: 1 [, Level 16]: 2
+[2021-04-13 01:37:50]: 1 [, Level 16]: 1
+[2021-04-13 01:37:51]: SanoreX.* [Chilli.*, Level 22]: I farm now
+[2021-04-13 01:37:52]: ReXi [, Level 0]: SkyForge: ah da war ja was
