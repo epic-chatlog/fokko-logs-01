@@ -5208,3 +5208,5 @@
 [2021-04-13 06:54:50]: [D] El patron [, Level 23]: [D] Kahve:
 [2021-04-13 06:55:03]: [D] Kahve [, Level 19]: Axandos: why
 [2021-04-13 06:55:05]: [D] El patron [, Level 23]: Axandos²: help
+[2021-04-13 06:55:16]: rexi [, Level 0]: wieso
+[2021-04-13 06:55:18]: mamikral011 [DogParty, Level 22]: soleri1:
