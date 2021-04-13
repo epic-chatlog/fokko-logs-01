@@ -3045,3 +3045,6 @@
 [2021-04-13 04:09:40]:   [, Level 0]: whore eater: Zephir™: U USED TASER XD
 [2021-04-13 04:09:59]: ***  [, Level 0]: '(1)1' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-13 04:10:03]: ***  [, Level 0]: '(1)Ƭevan' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-13 04:10:10]: Zephir™ [, Level 39]: Favorito: bad shit gang whore eater
+[2021-04-13 04:10:14]: ***  [, Level 0]: '[D] Mert' has left the game
+[2021-04-13 04:10:14]: ***  [, Level 0]: 'Mert' has left the game
