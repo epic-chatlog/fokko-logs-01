@@ -9803,3 +9803,7 @@
 [2021-04-13 10:59:10]: ***  [, Level 0]: '(2)successss' entered and joined the game
 [2021-04-13 10:59:10]: Intensiv [CrazyNoobs, Level 7]: aga para zor kasılıyor bu para 20 level da biticek
 [2021-04-13 10:59:15]: ***  [, Level 0]: 'UOYKCUFI' has left the game
+[2021-04-13 10:59:33]: ***  [, Level 0]: peS finished in: 2 minute(s) 37.54 second(s)
+[2021-04-13 10:59:33]: ***  [, Level 0]: New record: 2 minute(s) 14.58 second(s) better.
+[2021-04-13 10:59:34]: ***  [, Level 0]: 'UOYKCUFI' entered and joined the game
+[2021-04-13 10:59:39]: ***  [, Level 0]: 'UOYKCUFI' has left the game
