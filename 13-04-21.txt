@@ -1792,3 +1792,6 @@
 [2021-04-13 02:37:48]: ***  [, Level 0]: 'Hurricane.' joined the spectators
 [2021-04-13 02:37:58]: Kezo [DogParty, Level 41]: WTF
 [2021-04-13 02:37:59]: ***  [, Level 0]: 'Hurricane.' joined the game
+[2021-04-13 02:38:09]: ***  [, Level 0]: 'Hurricane.' joined the spectators
+[2021-04-13 02:38:12]: ***  [, Level 0]: 'Hurricane.' joined the game
+[2021-04-13 02:38:19]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
