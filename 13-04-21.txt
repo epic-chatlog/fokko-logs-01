@@ -12417,3 +12417,5 @@
 [2021-04-13 13:53:14]: ***  [, Level 0]: 'LorisLaChienne' has left the game
 [2021-04-13 13:53:28]: Kirito [{TQuila}, Level 40]: Saud: hell yeah
 [2021-04-13 13:53:29]: [D] El patron [, Level 24]: Nightmare: you have endless?
+[2021-04-13 13:53:33]: Nightmare [, Level 27]: [D] El patron: no
+[2021-04-13 13:53:35]: [D] El patron [, Level 24]: ;/
