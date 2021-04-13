@@ -195,3 +195,5 @@
 [2021-04-13 00:18:59]: ***  [, Level 0]: '1' joined the spectators
 [2021-04-13 00:19:01]: Marcisten [Helper, Level 0]: Noémi: tudod hogy hova tűnt a +2500 xp itt a special race végén?
 [2021-04-13 00:19:02]: ***  [, Level 0]: '1' joined the game
+[2021-04-13 00:19:05]: Boti. [.bad, Level 33]: az a buzi megszökött az infjump farmtól
+[2021-04-13 00:19:11]: Boti. [.bad, Level 33]: Marcisten: chiller elfelejtette mappoláskor
