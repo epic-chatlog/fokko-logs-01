@@ -1396,3 +1396,5 @@
 [2021-04-13 01:57:33]: SanoreX [Chilli.*, Level 27]: HardreenClutch: help
 [2021-04-13 01:57:38]: SanoreX [Chilli.*, Level 27]: flappy blocked me HardreenClutch help
 [2021-04-13 01:57:48]: SanoreX [Chilli.*, Level 27]: Kenshi™: hELP LEFTp
+[2021-04-13 01:58:02]: ***  [, Level 0]: '(1)Ƭevan' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-13 01:58:10]: Axandos [, Level 25]: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
