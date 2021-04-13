@@ -16039,3 +16039,5 @@
 [2021-04-12 18:52:29]: bob [669, Level 36]: bonjour
 [2021-04-12 18:52:34]: ☺ [, Level 17]: bonjour
 [2021-04-12 18:52:36]: bob [669, Level 36]: follow me smiley man
+[2021-04-12 18:53:11]: bob [669, Level 36]: give me money!
+[2021-04-12 18:53:15]: ☺ [, Level 17]: ?
