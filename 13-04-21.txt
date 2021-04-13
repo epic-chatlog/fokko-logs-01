@@ -5076,3 +5076,4 @@
 [2021-04-13 06:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-13 06:45:53]: ***  [, Level 0]: 'Axandos²' entered and joined the game
 [2021-04-13 06:46:03]: Taip [VergleriSay, Level 17]: yey
+[2021-04-13 06:46:05]: Taip [VergleriSay, Level 17]: again we win
