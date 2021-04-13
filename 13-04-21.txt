@@ -3100,3 +3100,5 @@
 [2021-04-13 04:14:47]: El patron [, Level 28]: Zephir™:
 [2021-04-13 04:14:51]: Karma Akabane [, Level 24]: Kenshi™: no
 [2021-04-13 04:14:54]: Karma Akabane [, Level 24]: ops
+[2021-04-13 04:15:02]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
+[2021-04-13 04:15:07]: Karma Akabane [, Level 24]: Kezo: no
