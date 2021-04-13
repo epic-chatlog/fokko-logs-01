@@ -4361,3 +4361,4 @@
 [2021-04-13 05:59:33]: Nudelsaft c: [FookinLads, Level 37]: I like turtles.
 [2021-04-13 05:59:37]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-13 05:59:39]: Kahve [, Level 23]: i too
+[2021-04-13 05:59:47]: ***  [, Level 0]: El patron is on a killing spree with 10 blocks
