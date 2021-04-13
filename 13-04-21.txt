@@ -7509,3 +7509,7 @@
 [2021-04-13 09:18:27]: [D] El patron [, Level 23]: Axandos: soleri1 toten
 [2021-04-13 09:18:30]: BC|Tixnix [BC, Level 34]: Cylox.: YES
 [2021-04-13 09:18:33]: [D] El patron [, Level 23]: Zephir™: soleri1  kill
+[2021-04-13 09:18:36]: [D] SkyForge [, Level 0]: Matiteusz:  alright then :)
+[2021-04-13 09:18:37]: Kenshi™ [, Level 0]: El patron: ok
+[2021-04-13 09:18:44]: ***  [, Level 0]: '(1)BitchPlease J' entered and joined the game
+[2021-04-13 09:18:45]: ***  [, Level 0]: '(1)any' changed name to 'any﹚'
