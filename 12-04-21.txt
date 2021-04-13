@@ -16617,3 +16617,6 @@
 [2021-04-12 23:43:27]: ***  [, Level 0]: 'Mr.KshKsh99' has left the game
 [2021-04-12 23:43:27]: ***  [, Level 0]: 'x7|KshKsh99' has left the game
 [2021-04-12 23:43:29]: Swarfey [FookinLads, Level 42]: rq
+[2021-04-12 23:43:48]: ***  [, Level 0]: 'TimePause's nub' entered and joined the game
+[2021-04-12 23:43:52]: ***  [, Level 0]: 'Nidardo.' has left the game
+[2021-04-12 23:43:52]: ***  [, Level 0]: 'NidardoHD' has left the game
