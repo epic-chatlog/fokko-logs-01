@@ -5252,3 +5252,5 @@
 [2021-04-13 06:57:39]: rexi [, Level 0]: alter ka wen du meinst Axandos
 [2021-04-13 06:57:42]: fitz [, Level 18]: (3)Zʷʰʸˀ: pls
 [2021-04-13 06:57:58]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-13 06:58:00]: ***  [, Level 0]: 'Treebeard' has left the game
+[2021-04-13 06:58:03]: ***  [, Level 0]: 'arther' has left the game
