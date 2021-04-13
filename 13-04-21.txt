@@ -3240,3 +3240,5 @@
 [2021-04-13 04:27:55]: Swarfey [FookinLads, Level 37]: hi
 [2021-04-13 04:28:06]: Kezo [DogParty, Level 41]: DUDE
 [2021-04-13 04:28:17]: Nudelsaft c: [FookinLads, Level 60]: El patron:
+[2021-04-13 04:28:24]: ***  [, Level 0]: 'IchChillHierNur' entered and joined the game
+[2021-04-13 04:28:30]: GODLIKe [, Level 44]: WTF
