@@ -4329,3 +4329,5 @@
 [2021-04-13 05:55:41]: [D] Kahve [, Level 19]: Shy-ra.: help me pls ?
 [2021-04-13 05:55:50]:   [, Level 0]: |ΛnץOиe|: kais: ptdrrr meme chose au final jsuis morte
 [2021-04-13 05:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-13 05:55:54]: kais [, Level 66]: |ΛnץOиe|: oui
+[2021-04-13 05:55:55]: ***  [, Level 0]: 'BC|serwan' has left the game (Timeout)
