@@ -1271,3 +1271,8 @@
 [2021-04-13 01:44:23]: Axandos [, Level 25]: pro
 [2021-04-13 01:44:23]: ***  [, Level 0]: 'Teet' entered and joined the game
 [2021-04-13 01:44:26]: WarHammer [DogParty, Level 26]: 1:  LAG
+[2021-04-13 01:44:35]: ***  [, Level 0]: 'Teet' has left the game
+[2021-04-13 01:44:36]: ***  [, Level 0]: 'Teet' entered and joined the game
+[2021-04-13 01:44:40]: ***  [, Level 0]: 'Axandos²' entered and joined the game
+[2021-04-13 01:44:46]: WarHammer [DogParty, Level 26]: laag
+[2021-04-13 01:44:46]: ***  [, Level 0]: 'Teet' has left the game
