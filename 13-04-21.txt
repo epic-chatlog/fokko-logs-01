@@ -4261,3 +4261,7 @@
 [2021-04-13 05:48:44]: ***  [, Level 0]: '[D] BC|serwan' would have timed out, but can use timeout protection now
 [2021-04-13 05:48:44]: ***  [, Level 0]: 'BC|serwan' would have timed out, but can use timeout protection now
 [2021-04-13 05:48:45]: ***  [, Level 0]: '(1)BC|serwan' would have timed out, but can use timeout protection now
+[2021-04-13 05:48:52]: |ΛnץOиe| [, Level 43]: kais: ptn
+[2021-04-13 05:48:56]: ***  [, Level 0]: 'İntensiv_' entered and joined the game
+[2021-04-13 05:48:57]: |ΛnץOиe| [, Level 43]: kais: tu fais tout pour me kill
+[2021-04-13 05:49:00]: kais [, Level 66]: |ΛnץOиe|: non
