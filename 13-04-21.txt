@@ -4778,3 +4778,7 @@
 [2021-04-13 06:25:29]: ERROR. [404, Level 75]: dont
 [2021-04-13 06:25:30]:   [, Level 0]: |ΛnץOиe|: Ðream:
 [2021-04-13 06:25:44]: rexi [, Level 0]: ERROR.: save ma pls
+[2021-04-13 06:25:49]:   [, Level 0]: Ðream: xD
+[2021-04-13 06:25:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-13 06:25:51]:   [, Level 0]: |ΛnץOиe|: xd
+[2021-04-13 06:25:54]: Nudelsaft c: [FookinLads, Level 37]: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
