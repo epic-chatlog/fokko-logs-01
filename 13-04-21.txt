@@ -1400,3 +1400,4 @@
 [2021-04-13 01:58:10]: Axandos [, Level 25]: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 [2021-04-13 01:58:17]: ***  [, Level 0]: '(1)1' has left the game
 [2021-04-13 01:58:29]: SanoreX [Chilli.*, Level 27]: super mode activated.
+[2021-04-13 01:58:36]: SanoreX [Chilli.*, Level 27]: disabled
