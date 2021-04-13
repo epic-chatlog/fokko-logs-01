@@ -6635,3 +6635,5 @@
 [2021-04-13 08:25:58]: ***  [, Level 0]: 'coca' finished the special race!
 [2021-04-13 08:25:58]: ***  [, Level 0]: 'Good man' finished the special race!
 [2021-04-13 08:26:11]: ReXi [, Level 0]: xd
+[2021-04-13 08:26:21]: ReXi [, Level 0]: hast du endless El patron
+[2021-04-13 08:26:24]: [D] El patron [, Level 23]: yo
