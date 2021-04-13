@@ -3506,3 +3506,5 @@
 [2021-04-13 04:45:50]: ***  [°, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-13 04:45:59]: GODLIKe [1, Level 44]: Zephirâ„¢: ->
 [2021-04-13 04:46:03]: ***  [°, Level 0]: El patron is on a killing spree with 5 blocks
+[2021-04-13 04:46:18]: ***  [°, Level 0]: 612. BC|serwan Time: 01:48.16, requested by BC|serwan
+[2021-04-13 04:46:19]: ***  [°, Level 0]: 'david' entered and joined the game
