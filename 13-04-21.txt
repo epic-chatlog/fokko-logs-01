@@ -2728,3 +2728,6 @@
 [2021-04-13 03:40:46]: ***  [, Level 0]: 'Taip' has left the game
 [2021-04-13 03:40:50]: Matiteusz [TrRShClNrRs, Level 36]: Mista bombastic: No one saw that
 [2021-04-13 03:40:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-13 03:40:55]: Mista bombastic [TrRShClNrRs, Level 40]: Matiteusz: xdd
+[2021-04-13 03:40:58]: ***  [, Level 0]: 'A player' entered and joined the game
+[2021-04-13 03:40:59]: ***  [, Level 0]: 'Cylox' entered and joined the game
