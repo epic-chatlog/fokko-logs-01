@@ -16188,3 +16188,5 @@
 [2021-04-12 22:14:46]: S Y T H N [DogParty, Level 37]: Boti.: where are you
 [2021-04-12 22:14:51]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
 [2021-04-12 22:15:12]: ***  [, Level 0]: '(1)S Y T H N' has left the game (Timeout)
+[2021-04-12 22:15:19]: Boti. [.bad, Level 33]: police bank
+[2021-04-12 22:15:26]: S Y T H N [DogParty, Level 37]: come to police
