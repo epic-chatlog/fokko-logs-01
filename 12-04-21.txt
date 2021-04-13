@@ -16060,3 +16060,5 @@
 [2021-04-12 18:55:08]: bob [669, Level 36]: its all my money
 [2021-04-12 18:55:15]: ☺ [, Level 17]: BUT WHY
 [2021-04-12 18:55:22]: bob [669, Level 36]: you are nice guy smiley man
+[2021-04-12 18:55:34]: ☺ [, Level 17]: i can't accept
+[2021-04-12 18:55:39]: bob [669, Level 36]: i want to be your friend
