@@ -3242,3 +3242,6 @@
 [2021-04-13 04:28:17]: Nudelsaft c: [FookinLads, Level 60]: El patron:
 [2021-04-13 04:28:24]: ***  [, Level 0]: 'IchChillHierNur' entered and joined the game
 [2021-04-13 04:28:30]: GODLIKe [, Level 44]: WTF
+[2021-04-13 04:28:37]: ***  [, Level 0]: 'Shy-ra.' has left the game (Timeout)
+[2021-04-13 04:28:37]: ***  [, Level 0]: '(1)Shy-ra.' has left the game (Timeout)
+[2021-04-13 04:28:37]: ***  [, Level 0]: '(2)Shy-ra.' has left the game (Timeout)
