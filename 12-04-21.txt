@@ -16477,3 +16477,5 @@
 [2021-04-12 23:23:09]: ***  [, Level 0]: 'Mr.KshKsh99' entered and joined the game
 [2021-04-12 23:23:10]: S Y T H N [, Level 37]: x7|KshKsh99: oh
 [2021-04-12 23:23:10]: ***  [, Level 0]: 'ERROR,' entered and joined the game
+[2021-04-12 23:23:16]: S Y T H N [, Level 37]: Mr.KshKsh99: ok.
+[2021-04-12 23:23:24]: ***  [, Level 0]: 'ERROR,' changed name to 'Zephir'
