@@ -3967,3 +3967,5 @@
 [2021-04-13 05:26:31]: ***  [∞, Level 0]: 'Ho≈Ñi' entered and joined the game
 [2021-04-13 05:26:34]: ***  [∞, Level 0]: 'nameless tee' joined the spectators
 [2021-04-13 05:26:34]: ***  [∞, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-13 05:26:37]: ***  [∞, Level 0]: 'nameless tee' joined the game
+[2021-04-13 05:26:44]: El patron [, Level 29]: xd
