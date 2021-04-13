@@ -13312,3 +13312,4 @@
 [2021-04-13 16:50:32]: HardreenClutch [, Level 57]: SnowCat:  rly
 [2021-04-13 16:50:37]: bob [669, Level 36]: np
 [2021-04-13 16:50:40]: ***  [, Level 0]: 'GReeeN' entered and joined the game
+[2021-04-13 16:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
