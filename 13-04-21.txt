@@ -5868,3 +5868,7 @@
 [2021-04-13 07:34:48]: CKA3A4NIK[NR] [Night Raid, Level 35]: [D] Kahve:  FAST
 [2021-04-13 07:34:54]: CKA3A4NIK[NR] [Night Raid, Level 35]: [D] Kahve:  omg
 [2021-04-13 07:35:01]: CKA3A4NIK[NR] [Night Raid, Level 35]: El patron:  10K?
+[2021-04-13 07:35:11]: [D] El patron [, Level 23]: CKA3A4NIK[NR]: `?
+[2021-04-13 07:35:12]: rexi [, Level 0]: wtf
+[2021-04-13 07:35:14]: CKA3A4NIK[NR] [Night Raid, Level 35]: [D] Kahve:  war?
+[2021-04-13 07:35:14]: rexi [, Level 0]: afk
