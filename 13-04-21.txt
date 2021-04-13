@@ -4693,3 +4693,9 @@
 [2021-04-13 06:21:14]: (1)fitz [, Level 0]: ES:
 [2021-04-13 06:21:19]: ***  [, Level 0]: 'rere god' has left the game
 [2021-04-13 06:21:22]: Taip [VergleriSay, Level 17]: kusura bakma
+[2021-04-13 06:21:29]: ***  [, Level 0]: 'arther' has left the game (Timeout)
+[2021-04-13 06:21:33]: Taip [VergleriSay, Level 17]: amacım police olmak
+[2021-04-13 06:21:36]: cHurch [HUITA, Level 47]: sku4no
+[2021-04-13 06:21:38]: ***  [, Level 0]: 'K!ked' has left the game
+[2021-04-13 06:21:38]: ***  [, Level 0]: 'cHurch' has left the game
+[2021-04-13 06:21:38]: Taip [VergleriSay, Level 17]: 69k var
