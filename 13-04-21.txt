@@ -1430,3 +1430,6 @@
 [2021-04-13 02:03:27]: ***  [, Level 0]: 'Pfirsis' entered and joined the game
 [2021-04-13 02:03:29]: Kenshi™ [, Level 0]: Axandos: sure ? :D
 [2021-04-13 02:03:33]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
+[2021-04-13 02:03:35]: ***  [, Level 0]: 'x7|zemer' has left the game
+[2021-04-13 02:03:35]: Kenshi™ [, Level 0]: Axandos: look dow
+[2021-04-13 02:03:37]: SanoreX [Chilli.*, Level 27]: Nudelsaft c:: help sorry
