@@ -16487,3 +16487,5 @@
 [2021-04-12 23:24:18]: ***  [, Level 0]: 1 finished in: 1 minute(s)  7.68 second(s)
 [2021-04-12 23:24:22]: ***  [, Level 0]: x7|KshKsh99 finished in: 1 minute(s) 59.78 second(s)
 [2021-04-12 23:24:29]: ***  [, Level 0]: 'BOZ KURT' entered and joined the game
+[2021-04-12 23:24:44]: S Y T H N [, Level 37]: BOZ KURT: bozzkurt from wish ja
+[2021-04-12 23:24:45]: Zephir [, Level 0]: S Y T H N: that ERROR xD he want yesteday im rename "error" for farm in the plot of error
