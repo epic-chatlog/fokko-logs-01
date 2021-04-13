@@ -7271,3 +7271,6 @@
 [2021-04-13 09:04:05]: [D] mamikral011 [DogParty, Level 0]: BC|Tixnix: ?
 [2021-04-13 09:04:19]: ***  [, Level 0]: 'Axandos²' entered and joined the game
 [2021-04-13 09:04:23]: ***  [, Level 0]: '(1)any' entered and joined the game
+[2021-04-13 09:04:25]: ***  [, Level 0]: '(1)any' has left the game
+[2021-04-13 09:04:25]: Mert [Blood Gang, Level 0]: mami
+[2021-04-13 09:04:28]: Mert [Blood Gang, Level 0]: nabıyon
