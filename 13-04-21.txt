@@ -1029,3 +1029,5 @@
 [2021-04-13 01:21:25]: [D] tee [, Level 0]: oh
 [2021-04-13 01:21:29]: Axandos [, Level 25]: ez
 [2021-04-13 01:21:43]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
+[2021-04-13 01:21:54]: [D] mamikral011 [DogParty, Level 0]: [D] tee: yea yea
+[2021-04-13 01:21:59]: [D] mamikral011 [DogParty, Level 0]: [D] tee: offf
