@@ -16087,3 +16087,4 @@
 [2021-04-12 18:58:11]: bob [669, Level 36]: my friend
 [2021-04-12 18:58:12]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-12 18:58:16]: ☺ [, Level 17]: good night
+[2021-04-12 19:00:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
