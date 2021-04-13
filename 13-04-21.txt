@@ -477,3 +477,4 @@
 [2021-04-13 00:40:06]: ***  [, Level 0]: 'Zeko' has left the game
 [2021-04-13 00:40:07]: Bubba :3[Đ] [helper, Level 0]: Axandos: amm help
 [2021-04-13 00:40:08]: ***  [, Level 0]: 'Zeko' entered and joined the game
+[2021-04-13 00:40:18]: ***  [, Level 0]: '(1)fokkonaut' has left the game
