@@ -4684,3 +4684,8 @@
 [2021-04-13 06:20:17]: ***  [, Level 0]: 'Bloons' entered and joined the game
 [2021-04-13 06:20:20]: ***  [, Level 0]: 'arther' joined the spectators
 [2021-04-13 06:20:27]: cHurch [HUITA, Level 47]: weqe: adleg = weqe :)
+[2021-04-13 06:20:34]:   [, Level 0]: weqe: ?
+[2021-04-13 06:20:43]: Taip [VergleriSay, Level 17]: sen onların düşmanını "Dream" benimde düşmanım
+[2021-04-13 06:20:49]: Swarfey [FookinLads, Level 42]: omg
+[2021-04-13 06:20:49]: Taip [VergleriSay, Level 17]: aldın
+[2021-04-13 06:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
