@@ -5268,3 +5268,6 @@
 [2021-04-13 06:58:52]: rexi [, Level 0]: wtf
 [2021-04-13 06:58:54]: rexi [, Level 0]: afk
 [2021-04-13 06:59:33]: fitz [, Level 18]: wait
+[2021-04-13 06:59:40]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-13 06:59:41]: |MıssOяchiĐ| [, Level 48]: no
+[2021-04-13 06:59:46]: fitz [, Level 18]: you want money?
