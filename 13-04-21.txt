@@ -372,3 +372,5 @@
 [2021-04-13 00:31:24]: ***  [, Level 0]: 'Kiøn1029' has left the game
 [2021-04-13 00:31:29]: ***  [, Level 0]: Cylox finished in: 3 minute(s) 19.14 second(s)
 [2021-04-13 00:31:31]: ***  [, Level 0]: 1 finished in: 2 minute(s) 20.06 second(s)
+[2021-04-13 00:31:41]: (1)fokkonaut [, Level 0]: i have to admit
+[2021-04-13 00:31:45]: (1)fokkonaut [, Level 0]: 0.7 client is pretty cool
