@@ -12512,3 +12512,5 @@
 [2021-04-13 14:13:50]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-13 14:13:58]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-13 14:14:02]: G𝕖𝕝𝕒to [s/o razmo, Level 42]: merde
+[2021-04-13 14:14:10]: ***  [, Level 0]: 'XxxBgLucas' has left the game
+[2021-04-13 14:14:13]: ***  [, Level 0]: 'XxxBgLucas' entered and joined the game
