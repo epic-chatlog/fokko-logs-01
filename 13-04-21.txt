@@ -10683,3 +10683,8 @@
 [2021-04-13 11:48:59]: |ΛnץOиe| [, Level 0]: Zephir™: c'est pas un pote c'est un iench
 [2021-04-13 11:49:23]: ***  [, Level 0]: 'ghfdjxc' has left the game
 [2021-04-13 11:49:24]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-13 11:49:34]: ***  [, Level 0]: 'Nightmare' entered and joined the game
+[2021-04-13 11:49:40]: ***  [, Level 0]: 'Axel' would have timed out, but can use timeout protection now
+[2021-04-13 11:49:40]: Random Guy [, Level 40]: dude
+[2021-04-13 11:49:43]: VD|HolyHo|° [VsDoggo´s, Level 28]: any: war |ΛnץOиe| war (again) Zephir™ still war ^^ Random Guy u to war
+[2021-04-13 11:49:44]: JustRace [DogParty, Level 0]: cl_aimbot 1
