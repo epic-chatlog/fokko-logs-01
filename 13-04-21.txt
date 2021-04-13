@@ -1255,3 +1255,5 @@
 [2021-04-13 01:43:27]: Matiteusz [TrRShClNrRs, Level 36]: Kenshi™: XDDD
 [2021-04-13 01:43:30]: ***  [, Level 0]: ### 'SanoreX.*' @everyone stack players aim full right
 [2021-04-13 01:43:32]: ***  [, Level 0]: 'ThomasTurner884' has left the game
+[2021-04-13 01:43:34]: ***  [, Level 0]: ### 'SanoreX' @everyone stack players aim full right
+[2021-04-13 01:43:42]: ***  [, Level 0]: 'ThomasTurner884' entered and joined the game
