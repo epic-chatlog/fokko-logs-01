@@ -1914,3 +1914,5 @@
 [2021-04-13 02:47:01]: Kezo [DogParty, Level 41]: lan git
 [2021-04-13 02:47:11]: ***  [, Level 0]: 'SanoreX' entered and joined the game
 [2021-04-13 02:47:13]: Zephir™ [, Level 39]: Axandos: why u die ? u are not bad
+[2021-04-13 02:47:22]: ***  [, Level 0]: 'SanoreX' has left the game
+[2021-04-13 02:47:24]: ***  [, Level 0]: 'SanoreX' entered and joined the game
