@@ -4291,3 +4291,5 @@
 [2021-04-13 05:50:43]:   [, Level 0]: fitz: [D] El patron: so why you block me?
 [2021-04-13 05:50:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-13 05:50:51]:   [, Level 0]: |ΛnץOиe|: kais: mdrr stuv
+[2021-04-13 05:50:59]: ***  [, Level 0]: Matiteusz is on a killing spree with 5 blocks
+[2021-04-13 05:51:02]: ***  [, Level 0]: 'Gustav' entered and joined the game
