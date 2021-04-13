@@ -16628,3 +16628,6 @@
 [2021-04-12 23:45:54]: 'KeeperTrain._. [FookinLads, Level 30]: Meetiteusz: idziesz po trasera?
 [2021-04-12 23:45:56]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
 [2021-04-12 23:46:02]: TimePause [xSD7, Level 35]: hi fokkonaut
+[2021-04-12 23:46:06]: fokkonaut [, Level 0]: elo
+[2021-04-12 23:46:15]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 47.14 second(s)
+[2021-04-12 23:46:16]: fokkonaut [, Level 0]: anyone up for lbockz?
