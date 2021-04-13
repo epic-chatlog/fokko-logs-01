@@ -961,3 +961,4 @@
 [2021-04-13 01:14:20]: mamikral011 [DogParty, Level 0]: Taip: gelsene
 [2021-04-13 01:14:23]: ***  [, Level 0]: 'Zeko' has left the game
 [2021-04-13 01:14:25]: ***  [, Level 0]: 'Zeko' entered and joined the game
+[2021-04-13 01:14:49]: mamikral011 [DogParty, Level 0]: Taip: bıraya geç
