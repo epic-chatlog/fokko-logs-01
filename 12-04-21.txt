@@ -16289,3 +16289,4 @@
 [2021-04-12 22:38:31]: ***  [, Level 0]: 'comic' entered and joined the game
 [2021-04-12 22:39:57]: ***  [, Level 0]: 'Boti.' has left the game
 [2021-04-12 22:40:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-12 22:41:37]: Intensiv_ [CrazzyNobbs, Level 2]: pls no block
