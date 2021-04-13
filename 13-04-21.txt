@@ -12403,3 +12403,6 @@
 [2021-04-13 13:51:23]: Nightmare. [, Level 0]: [₯]cLoud: bad
 [2021-04-13 13:51:25]: ***  [, Level 0]: 'hhh3' has left the game
 [2021-04-13 13:51:47]: ***  [, Level 0]: 'G𝕖𝕝𝕒to' entered and joined the game
+[2021-04-13 13:51:57]: ***  [, Level 0]: [D] BC|Tixnix's killing spree was ended by (3)Zʷʰʸˀ (8 blocks)
+[2021-04-13 13:52:04]: ***  [, Level 0]: [₯]cLoud finished in: 2 minute(s) 56.20 second(s)
+[2021-04-13 13:52:04]: ***  [, Level 0]: New record: 29.60 second(s) better.
