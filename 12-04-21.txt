@@ -16356,3 +16356,5 @@
 [2021-04-12 22:51:44]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
 [2021-04-12 22:52:13]: ***  [, Level 0]: 'OperaYANDEX' changed name to 'Zeko'
 [2021-04-12 22:54:26]: #5 blocker [|*MorE*|, Level 0]: 1: 8 jump?
+[2021-04-12 22:54:51]: ***  [, Level 0]: 1 finished in: 1 minute(s) 22.28 second(s)
+[2021-04-12 22:54:52]: ***  [, Level 0]: #5 blocker finished in: 1 minute(s) 49.52 second(s)
