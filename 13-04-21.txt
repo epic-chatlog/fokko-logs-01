@@ -1654,3 +1654,4 @@
 [2021-04-13 02:21:25]: ***  [, Level 0]: 'Hunter.exe' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-13 02:21:26]: ***  [, Level 0]: 'sHunter.exe' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-13 02:21:46]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 54.82 second(s)
+[2021-04-13 02:22:00]: GReeeN [, Level 0]: ReXi:  ich geh gores spielen
