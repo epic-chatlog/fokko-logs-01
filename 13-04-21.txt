@@ -5995,3 +5995,7 @@
 [2021-04-13 07:43:03]: ***  [, Level 0]: 'ulrich' entered and joined the game
 [2021-04-13 07:43:06]: Kahve [, Level 23]: GODLIKe: boş yapma boş insan
 [2021-04-13 07:43:09]: ***  [, Level 0]: 'ulrich' has left the game
+[2021-04-13 07:43:12]: GODLIKe [, Level 44]: JWQKEP
+[2021-04-13 07:43:12]: [D] El patron [, Level 23]: Axandos²: omg
+[2021-04-13 07:43:18]: GODLIKe [, Level 44]: Cylox: Kahve kim bu
+[2021-04-13 07:43:19]: ***  [, Level 0]: Axandos is on a killing spree with 5 blocks
