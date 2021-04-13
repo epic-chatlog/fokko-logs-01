@@ -3195,3 +3195,8 @@
 [2021-04-13 04:22:35]: Kezo [DogParty, Level 41]: bitch eater: bitch
 [2021-04-13 04:22:36]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
 [2021-04-13 04:23:05]: Kezo [DogParty, Level 41]: bitch eater: pls
+[2021-04-13 04:23:07]: ***  [, Level 0]: 'El_PePeGo' entered and joined the game
+[2021-04-13 04:23:08]:   [, Level 0]: bitch eater: Kezo: he start
+[2021-04-13 04:23:10]: ***  [, Level 0]: 'El_PePeGo' has left the game
+[2021-04-13 04:23:16]: Kezo [DogParty, Level 41]: bitch eater: he dont
+[2021-04-13 04:23:16]: ***  [, Level 0]: el champeon is on a killing spree with 10 blocks
