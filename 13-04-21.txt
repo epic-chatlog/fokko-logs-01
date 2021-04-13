@@ -2819,3 +2819,5 @@
 [2021-04-13 03:51:22]: rexi [, Level 0]: El patron: like SkyForge and whore eater ?
 [2021-04-13 03:51:38]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 3 minute(s)  3.30 second(s)
 [2021-04-13 03:51:52]:   [, Level 0]: whore eater: Isegrin: polackenmann
+[2021-04-13 03:51:58]: ***  [, Level 0]: SkyForge is on a killing spree with 5 blocks
+[2021-04-13 03:52:06]: ***  [, Level 0]: SkyForge's killing spree was ended by Soros (5 blocks)
