@@ -5474,3 +5474,5 @@
 [2021-04-13 07:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-13 07:10:52]: Kahve [, Level 23]: |ΛnץOиe|: ?
 [2021-04-13 07:10:56]: ***  [, Level 0]: '[D] BULLETBOT' has left the game
+[2021-04-13 07:10:59]: |ΛnץOиe| [, Level 43]: Kahve: to GODLIKe
+[2021-04-13 07:10:59]: GODLIKe [, Level 44]: oyun krallı: aşagı in
