@@ -6566,3 +6566,10 @@
 [2021-04-13 08:18:57]: ***  [, Level 0]: 'hhh3' entered and joined the game
 [2021-04-13 08:19:12]: ***  [, Level 0]: 'Kirito' entered and joined the game
 [2021-04-13 08:19:19]: ***  [, Level 0]: '[D] Mert' entered and joined the game
+[2021-04-13 08:19:43]: ReXi [, Level 0]: rip
+[2021-04-13 08:19:48]: [D] Mert [[!BRUH!], Level 0]: hhh
+[2021-04-13 08:19:50]: [D] Mert [[!BRUH!], Level 0]: 3
+[2021-04-13 08:19:51]: ***  [, Level 0]: Marcisten finished in: 1 minute(s) 40.18 second(s)
+[2021-04-13 08:19:51]: ***  [, Level 0]: New record: 5 minute(s) 52.26 second(s) better.
+[2021-04-13 08:19:51]: [D] Mert [[!BRUH!], Level 0]: why
+[2021-04-13 08:19:51]: ***  [, Level 0]: Cylox finished in: 5 minute(s) 54.76 second(s)
