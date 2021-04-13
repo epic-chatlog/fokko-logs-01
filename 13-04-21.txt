@@ -11551,3 +11551,7 @@
 [2021-04-13 12:42:52]: ***  [, Level 0]: 'Cosmo' entered and joined the game
 [2021-04-13 12:42:58]: soleri1 [, Level 23]: falkenauge: u have the portal?
 [2021-04-13 12:43:07]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 0]: soleri1: nope
+[2021-04-13 12:43:10]: ***  [, Level 0]: '[D] falkenauge' has left the game
+[2021-04-13 12:43:10]: ***  [, Level 0]: 'cometa x' has left the game
+[2021-04-13 12:43:12]: Hera [, Level 0]: any: stop pls
+[2021-04-13 12:43:20]: falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: xD
