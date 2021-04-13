@@ -9993,3 +9993,8 @@
 [2021-04-13 11:10:54]: [D] El patron [, Level 0]: bobxd
 [2021-04-13 11:11:06]: ***  [, Level 0]: 'leo' joined the spectators
 [2021-04-13 11:11:09]: ***  [, Level 0]: 'leo' joined the game
+[2021-04-13 11:11:14]: ***  [, Level 0]: '|Smily' entered and joined the game
+[2021-04-13 11:11:15]: ***  [, Level 0]: 'leo' joined the spectators
+[2021-04-13 11:11:17]: [D] El patron [, Level 0]: BULLETBOT: gay
+[2021-04-13 11:11:18]: ***  [, Level 0]: 'leo' joined the game
+[2021-04-13 11:11:18]: ***  [, Level 0]: '|Smily' has left the game
