@@ -11487,3 +11487,7 @@
 [2021-04-13 12:38:15]: GODLIKe [, Level 44]: Tom: heyo
 [2021-04-13 12:38:37]: ReXi [, Level 0]: du sack
 [2021-04-13 12:38:39]: ReXi [, Level 0]: rip
+[2021-04-13 12:38:43]: ReXi [, Level 0]: wtf
+[2021-04-13 12:38:45]: ReXi [, Level 0]: afk
+[2021-04-13 12:38:48]: ReXi [, Level 0]: I like turtles.
+[2021-04-13 12:38:52]: ReXi [, Level 0]: xd
