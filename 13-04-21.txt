@@ -1754,3 +1754,7 @@
 [2021-04-13 02:34:15]: ***  [, Level 0]: '»ℱℬℑ«' entered and joined the game
 [2021-04-13 02:34:24]: ***  [, Level 0]: 'zemer' has left the game
 [2021-04-13 02:34:24]: ***  [, Level 0]: 'x7|zemer' has left the game
+[2021-04-13 02:34:41]: ***  [, Level 0]: »ℱℬℑ« is on a killing spree with 5 blocks
+[2021-04-13 02:34:55]: rexi [, Level 0]: ES: why
+[2021-04-13 02:34:57]: kais [, Level 66]: xD
+[2021-04-13 02:35:05]: ***  [, Level 0]: »ℱℬℑ« is on a killing spree with 10 blocks
