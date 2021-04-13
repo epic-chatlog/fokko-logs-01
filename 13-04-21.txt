@@ -4889,3 +4889,4 @@
 [2021-04-13 06:31:37]: (1)fitz [, Level 0]: Nudelsaft c::
 [2021-04-13 06:32:02]: ***  [, Level 0]: 'Bloons' has left the game
 [2021-04-13 06:32:05]: ass cleaner [, Level 38]: ooffff
+[2021-04-13 06:32:14]: ***  [, Level 0]: '(1)[D] Kahve' entered and joined the game
