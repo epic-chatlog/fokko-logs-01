@@ -16095,3 +16095,4 @@
 [2021-04-12 19:13:28]: ***  [, Level 0]: 'Taip' would have timed out, but can use timeout protection now
 [2021-04-12 19:14:50]: ***  [, Level 0]: 'Tokowashi' entered and joined the game
 [2021-04-12 19:15:10]: ***  [, Level 0]: 'Tokowashi' has left the game
+[2021-04-12 19:15:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
