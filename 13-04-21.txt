@@ -9985,3 +9985,6 @@
 [2021-04-13 11:10:30]: Mert [Blood Gang, Level 0]: ok
 [2021-04-13 11:10:31]:   [, Level 0]: BULLETBOT: El patron: war
 [2021-04-13 11:10:32]:   [, Level 0]: BULLETBOT: XD
+[2021-04-13 11:10:35]: [D] El patron [, Level 0]: BULLETBOT: NO
+[2021-04-13 11:10:38]:   [, Level 0]: BULLETBOT: yűes
+[2021-04-13 11:10:40]:   [, Level 0]: BULLETBOT: yes
