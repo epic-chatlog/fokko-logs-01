@@ -6529,3 +6529,7 @@
 [2021-04-13 08:14:23]: ***  [, Level 0]: 'RM | Arin' has left the game
 [2021-04-13 08:14:23]: ***  [, Level 0]: 'Foxi♥' has left the game
 [2021-04-13 08:14:23]: ***  [, Level 0]: 'Foxie♥' has left the game
+[2021-04-13 08:14:29]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-13 08:14:29]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
+[2021-04-13 08:14:30]: [D] El patron [, Level 23]: rq
+[2021-04-13 08:14:33]: successss [, Level 0]: zZz: can you help me?
