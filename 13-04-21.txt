@@ -3136,3 +3136,6 @@
 [2021-04-13 04:17:22]: ***  [, Level 0]: 'arther' joined the game
 [2021-04-13 04:17:29]:   [, Level 0]: »ℱℬℑ«: HURENKINDER
 [2021-04-13 04:17:31]: ***  [, Level 0]: '»ℱℬℑ«' has left the game
+[2021-04-13 04:17:48]: ***  [, Level 0]: 'Soros' entered and joined the game
+[2021-04-13 04:17:51]: ***  [, Level 0]: 'arther' has left the game
+[2021-04-13 04:17:51]: El patron [, Level 28]: wtf
