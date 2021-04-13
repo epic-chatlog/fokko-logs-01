@@ -1705,3 +1705,6 @@
 [2021-04-13 02:29:35]: rexi [, Level 17]: doch zemer
 [2021-04-13 02:29:35]: x7|zemer [xSD7, Level 37]: Axandos: Ja dann alles gut
 [2021-04-13 02:29:46]: x7|zemer [xSD7, Level 37]: ReXi: ?
+[2021-04-13 02:29:51]: ***  [, Level 0]: 'infiniter' joined the spectators
+[2021-04-13 02:29:53]: ReXi [, Level 0]: zemer Axandos
+[2021-04-13 02:29:58]: ***  [, Level 0]: 'infiniter' joined the game
