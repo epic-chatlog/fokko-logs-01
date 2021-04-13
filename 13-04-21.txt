@@ -6726,3 +6726,4 @@
 [2021-04-13 08:35:32]: Good man [Drunks, Level 30]: Kenshi™: first help/
 [2021-04-13 08:35:35]: ***  [, Level 0]: 'BULLETBOT' has left the game
 [2021-04-13 08:35:37]: Lucas [THECEPS, Level 35]: Cylox: but hhh3 doesn't like you
+[2021-04-13 08:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
