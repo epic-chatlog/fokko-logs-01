@@ -1398,3 +1398,4 @@
 [2021-04-13 01:57:48]: SanoreX [Chilli.*, Level 27]: Kenshi™: hELP LEFTp
 [2021-04-13 01:58:02]: ***  [, Level 0]: '(1)Ƭevan' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-13 01:58:10]: Axandos [, Level 25]: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[2021-04-13 01:58:17]: ***  [, Level 0]: '(1)1' has left the game
