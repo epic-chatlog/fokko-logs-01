@@ -3922,3 +3922,5 @@
 [2021-04-13 05:23:58]: ***  [°, Level 0]: 'Swarfey' has left the game
 [2021-04-13 05:23:58]:   [, Level 0]: cookie: wat
 [2021-04-13 05:23:58]: El patron [, Level 29]: missora
+[2021-04-13 05:24:15]: ***  [°, Level 0]: '(1)BC|serwan' entered and joined the game
+[2021-04-13 05:24:18]: ***  [°, Level 0]: 'nameless tee' joined the spectators
