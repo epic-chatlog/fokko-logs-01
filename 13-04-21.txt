@@ -12215,3 +12215,7 @@
 [2021-04-13 13:25:12]: WarHammer [DogParty, Level 0]: Random Guy:  prank
 [2021-04-13 13:25:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-13 13:25:51]: Hera [, Level 39]: |ΛnץOиe|: and we have war
+[2021-04-13 13:26:29]: ***  [, Level 0]: 'Bozzkurt' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-13 13:26:37]: Hera [, Level 39]: [₯]cLoud: -_-
+[2021-04-13 13:26:37]: ***  [, Level 0]: 'Random Guy' would have timed out, but can use timeout protection now
+[2021-04-13 13:26:37]: ***  [, Level 0]: '[D] Random Guy' would have timed out, but can use timeout protection now
