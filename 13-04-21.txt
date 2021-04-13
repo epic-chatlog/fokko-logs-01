@@ -7450,3 +7450,6 @@
 [2021-04-13 09:13:42]: ***  [, Level 0]: 'PANZELKOWY' entered and joined the game
 [2021-04-13 09:13:56]: MOM [, Level 0]: je suis ta mère
 [2021-04-13 09:13:59]: Isegrin [, Level 55]: [D] cya: AA FAKIN NARCOMAN
+[2021-04-13 09:14:06]: MOM [, Level 0]: |MıssOяchiĐ|: je suis ta mère
+[2021-04-13 09:14:09]: |MıssOяchiĐ| [, Level 48]: MOM: je suis ton père
+[2021-04-13 09:14:16]: ***  [, Level 0]: cHurch finished in: 2 minute(s) 56.46 second(s)
