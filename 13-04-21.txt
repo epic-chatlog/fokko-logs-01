@@ -3222,3 +3222,4 @@
 [2021-04-13 04:24:45]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-13 04:24:46]: GODLIKe [, Level 44]: Karma Akabane: u started war
 [2021-04-13 04:24:51]: Karma Akabane [, Level 24]: plz*
+[2021-04-13 04:24:57]: GODLIKe [, Level 44]: ok
