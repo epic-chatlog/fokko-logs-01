@@ -1301,3 +1301,6 @@
 [2021-04-13 01:46:27]: SanoreX.* [Chilli.*, Level 22]: Foxie♥: WHY
 [2021-04-13 01:46:31]: ***  [, Level 0]: 'мяу' has left the game
 [2021-04-13 01:46:34]: Foxie♥ [{TQuila}, Level 40]: Axandos: >
+[2021-04-13 01:46:38]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-13 01:46:40]: Foxie♥ [{TQuila}, Level 40]: Matiteusz: >>
+[2021-04-13 01:46:41]: Axandos [, Level 25]: wtf
