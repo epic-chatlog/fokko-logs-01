@@ -5778,3 +5778,10 @@
 [2021-04-13 07:28:14]: CKA3A4NIK[NR] [Night Raid, Level 35]: cookie:  fast
 [2021-04-13 07:28:14]:   [, Level 0]: zZzerayI: hi
 [2021-04-13 07:28:15]: Ðream [TrRShClNrRs, Level 46]: mamikral011: nub
+[2021-04-13 07:28:16]: ***  [, Level 0]: 'BULLETBOT' has left the game
+[2021-04-13 07:28:16]: [D] mamikral011 [DogParty, Level 27]: Kahve: nub
+[2021-04-13 07:28:19]: ***  [, Level 0]: 'zZz' entered and joined the game
+[2021-04-13 07:28:21]: ***  [, Level 0]: Kahve is on a killing spree with 5 blocks
+[2021-04-13 07:28:25]: Kahve [, Level 23]: (1)Ðream: come
+[2021-04-13 07:28:26]: ***  [, Level 0]: 'sleimi' has left the game
+[2021-04-13 07:28:26]: Axandos [, Level 25]: cookie:  can i have ur jet for a min?
