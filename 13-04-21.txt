@@ -8183,3 +8183,7 @@
 [2021-04-13 09:48:03]: comic [comically, Level 14]: Meetiteusz: person
 [2021-04-13 09:48:07]: any' [404, Level 42]: Zephir™: voc ?
 [2021-04-13 09:48:08]: ***  [, Level 0]: 'Daisukee' joined the game
+[2021-04-13 09:48:14]: comic [comically, Level 14]: Daisukee: stop
+[2021-04-13 09:48:16]: comic [comically, Level 14]: Daisukee: help
+[2021-04-13 09:48:18]: comic [comically, Level 14]: Daisukee: zzzzzzzzzzzz
+[2021-04-13 09:48:19]: ***  [, Level 0]: 'Daisukee' joined the spectators
