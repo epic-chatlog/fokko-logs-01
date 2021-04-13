@@ -10681,3 +10681,5 @@
 [2021-04-13 11:48:45]:   [, Level 0]: Zephir™: any:
 [2021-04-13 11:48:49]: |ΛnץOиe| [, Level 0]: Zephir™: mdrrrrrrr
 [2021-04-13 11:48:59]: |ΛnץOиe| [, Level 0]: Zephir™: c'est pas un pote c'est un iench
+[2021-04-13 11:49:23]: ***  [, Level 0]: 'ghfdjxc' has left the game
+[2021-04-13 11:49:24]: ***  [, Level 0]: 'Cylox' entered and joined the game
