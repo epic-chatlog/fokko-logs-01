@@ -1311,3 +1311,6 @@
 [2021-04-13 01:47:32]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
 [2021-04-13 01:47:37]: Saud [MNKY, Level 24]: Foxie♥:  tell SanoreX.*  to stay away
 [2021-04-13 01:47:47]: SanoreX [Chilli.*, Level 27]: Foxie♥: why
+[2021-04-13 01:47:54]: ReXi [, Level 0]: wtfff
+[2021-04-13 01:47:57]: Intensiv_ [CrazzyNobbs, Level 4]: help
+[2021-04-13 01:47:59]: WarHammer [DogParty, Level 26]: Nudelsaft c::  peace
