@@ -559,3 +559,4 @@
 [2021-04-13 00:47:10]: ***  [, Level 0]: '[D] SkyForge' finished the special race!
 [2021-04-13 00:47:17]: ***  [, Level 0]: 'SkyForge' finished the special race!
 [2021-04-13 00:47:20]: 'KeeperTrain._. [, Level 30]: look
+[2021-04-13 00:47:32]: SanoreX [Chilli.*, Level 27]: [2021-04-13 13:49:11][client]: prediction time reset!
