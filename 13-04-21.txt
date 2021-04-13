@@ -648,3 +648,8 @@
 [2021-04-13 00:52:25]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
 [2021-04-13 00:52:29]: SanoreX [Chilli.*, Level 27]: owo
 [2021-04-13 00:52:37]: ***  [, Level 0]: 1 finished in: 1 minute(s) 15.40 second(s)
+[2021-04-13 00:52:51]: Intensiv_ [CrazzyNobbs, Level 4]: help
+[2021-04-13 00:52:54]: (1)SanoreX [Chilli.*, Level 0]: lag
+[2021-04-13 00:52:56]: Intensiv_ [CrazzyNobbs, Level 4]: help SanoreX
+[2021-04-13 00:52:57]: (1)SanoreX [Chilli.*, Level 0]: omg
+[2021-04-13 00:52:58]: (1)SanoreX [Chilli.*, Level 0]: so lag
