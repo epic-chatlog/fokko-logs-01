@@ -7887,3 +7887,5 @@
 [2021-04-13 09:34:26]: ***  [, Level 0]: 'QON QON' joined the spectators
 [2021-04-13 09:34:26]: ًًًًًًً� [Chilli.*, Level 27]: WarHammer: adımı yazamazsın
 [2021-04-13 09:34:28]: ***  [, Level 0]: '(1)anyًًًًًً' changed name to '(1)àny'
+[2021-04-13 09:34:30]: ***  [, Level 0]: 'QON QON' joined the game
+[2021-04-13 09:34:38]: WarHammer [DogParty, Level 0]: neden
