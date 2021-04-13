@@ -3744,3 +3744,4 @@
 [2021-04-13 05:10:27]: ***  [°, Level 0]: 'Saud' has left the game
 [2021-04-13 05:10:40]: ***  [°, Level 0]: 'Saud' entered and joined the game
 [2021-04-13 05:10:50]: ***  [°, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-13 05:11:07]: ***  [°, Level 0]: Swarfey's killing spree was ended by ass eater (14 blocks)
