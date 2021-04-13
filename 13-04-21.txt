@@ -6496,3 +6496,6 @@
 [2021-04-13 08:11:21]: ***  [, Level 0]: 'coca' entered and joined the game
 [2021-04-13 08:11:27]: koya [, Level 10]: ~DemoizL~:
 [2021-04-13 08:11:34]: koya [, Level 10]: Zephir™: please
+[2021-04-13 08:11:45]: ***  [, Level 0]: 'AkiHiKo_718' joined the spectators
+[2021-04-13 08:11:47]: [D] El patron [, Level 23]: xd
+[2021-04-13 08:11:49]: ***  [, Level 0]: 'AkiHiKo_718' joined the game
