@@ -6011,3 +6011,8 @@
 [2021-04-13 07:44:05]: ***  [, Level 0]: 'Cylox' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-13 07:44:05]: ***  [, Level 0]: 'Cylox.' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-13 07:44:12]: Kahve [, Level 23]: Axandos: he coming
+[2021-04-13 07:44:26]: Kahve [, Level 23]: (1)DiscordBridg:
+[2021-04-13 07:44:28]: Kahve [, Level 23]: (1)i m noob:
+[2021-04-13 07:44:29]: Kahve [, Level 23]: i m noob:
+[2021-04-13 07:44:32]: WarHammer' [DogParty, Level 17]: LAG
+[2021-04-13 07:44:34]: Axandos² [, Level 20]: GODLIKe:  sure
