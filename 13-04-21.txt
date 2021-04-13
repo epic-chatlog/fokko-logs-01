@@ -5176,3 +5176,9 @@
 [2021-04-13 06:53:13]: [D] Kahve [, Level 19]: yalan söyleme
 [2021-04-13 06:53:23]: cookie [, Level 0]: Axandos²:  why
 [2021-04-13 06:53:28]:   [, Level 0]: oyun krallı: iste portaldan geçtim
+[2021-04-13 06:53:33]: Axandos² [, Level 20]: i dont want :C so u :d cookie
+[2021-04-13 06:53:34]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-13 06:53:34]: ***  [, Level 0]: '(1)ES' has left the game (Timeout)
+[2021-04-13 06:53:35]:   [, Level 0]: oyun krallı: iste portaldan geçtim
+[2021-04-13 06:53:40]: cookie [, Level 0]: Axandos²:  oow oke
+[2021-04-13 06:53:41]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
