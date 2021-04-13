@@ -2608,3 +2608,6 @@
 [2021-04-13 03:35:21]: ***  [, Level 0]: 'Foxie♥' has left the game
 [2021-04-13 03:35:25]: [D] SkyForge [, Level 0]: ReXi:  left
 [2021-04-13 03:35:39]: [D] SkyForge [, Level 0]: Mista bombastic:  der dude is shit
+[2021-04-13 03:35:49]: El patron [, Level 28]: ReXi: war
+[2021-04-13 03:35:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-13 03:35:51]: ***  [, Level 0]: 'leazerteam' has left the game
