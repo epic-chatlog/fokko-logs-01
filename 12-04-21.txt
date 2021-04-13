@@ -16523,3 +16523,4 @@
 [2021-04-12 23:30:18]: ***  [, Level 0]: 'BOZ KURT' has left the game
 [2021-04-12 23:30:21]: ***  [, Level 0]: 1 finished in: 0 minute(s) 40.18 second(s)
 [2021-04-12 23:30:21]: ***  [, Level 0]: 'PARDUS' entered and joined the game
+[2021-04-12 23:30:25]: ***  [, Level 0]: 'PARDUS' has left the game
