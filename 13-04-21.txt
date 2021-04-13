@@ -13270,3 +13270,5 @@
 [2021-04-13 16:43:47]: bob [669, Level 36]: we go spikey spikey
 [2021-04-13 16:43:50]: (1)☺ [, Level 12]: bob: you too
 [2021-04-13 16:43:57]: ***  [, Level 0]: Zephir™'s killing spree was ended by bob (22 blocks)
+[2021-04-13 16:44:15]: SnowCat [, Level 30]: s6_sven: okay
+[2021-04-13 16:44:18]: SnowCat [, Level 30]: intresting
