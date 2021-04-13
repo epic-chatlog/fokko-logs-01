@@ -5769,3 +5769,12 @@
 [2021-04-13 07:27:55]: CKA3A4NIK[NR] [Night Raid, Level 35]: (1)Ðream:  в низ
 [2021-04-13 07:27:57]: Axandos [, Level 25]: Kahve:  SAVE ME
 [2021-04-13 07:28:00]: Axandos [, Level 25]: (1)Ƭevan:  SACE ME
+[2021-04-13 07:28:04]: CKA3A4NIK[NR] [Night Raid, Level 35]: cookie:  Down
+[2021-04-13 07:28:06]: Axandos [, Level 25]: cookie:
+[2021-04-13 07:28:10]: ***  [, Level 0]: 'zZzerayI' entered and joined the game
+[2021-04-13 07:28:12]: CKA3A4NIK[NR] [Night Raid, Level 35]: cookie:  Down
+[2021-04-13 07:28:12]: [D] mamikral011 [DogParty, Level 27]: ananan
+[2021-04-13 07:28:13]: Kahve [, Level 23]: mal
+[2021-04-13 07:28:14]: CKA3A4NIK[NR] [Night Raid, Level 35]: cookie:  fast
+[2021-04-13 07:28:14]:   [, Level 0]: zZzerayI: hi
+[2021-04-13 07:28:15]: Ðream [TrRShClNrRs, Level 46]: mamikral011: nub
