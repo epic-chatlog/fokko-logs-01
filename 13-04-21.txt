@@ -5545,3 +5545,6 @@
 [2021-04-13 07:14:41]: ***  [, Level 0]: 'oyun krallı' has left the game
 [2021-04-13 07:14:41]: ***  [, Level 0]: BULLETBOT's killing spree was ended by ~DemoizL~ (10 blocks)
 [2021-04-13 07:14:48]: mamikral011 [DogParty, Level 22]: Ðream:
+[2021-04-13 07:14:58]: ***  [�, Level 0]: '1' entered and joined the game
+[2021-04-13 07:15:03]: cya [, Level 42]: Axandos:
+[2021-04-13 07:15:05]: Axandos² [, Level 20]: bruh
