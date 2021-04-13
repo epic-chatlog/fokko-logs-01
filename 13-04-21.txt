@@ -6634,3 +6634,4 @@
 [2021-04-13 08:25:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-13 08:25:58]: ***  [, Level 0]: 'coca' finished the special race!
 [2021-04-13 08:25:58]: ***  [, Level 0]: 'Good man' finished the special race!
+[2021-04-13 08:26:11]: ReXi [, Level 0]: xd
