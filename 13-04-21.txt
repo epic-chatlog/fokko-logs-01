@@ -6506,3 +6506,4 @@
 [2021-04-13 08:12:27]: ***  [, Level 0]: 'AkiHiKo_718' joined the spectators
 [2021-04-13 08:12:29]: ***  [, Level 0]: 'NidardoHD' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-13 08:12:30]: ***  [, Level 0]: 'AkiHiKo_718' has left the game
+[2021-04-13 08:12:45]: ***  [, Level 0]: 'Cylox.' entered and joined the game
