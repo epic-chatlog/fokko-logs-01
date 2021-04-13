@@ -12782,3 +12782,4 @@
 [2021-04-13 15:30:10]: ***  [, Level 0]: 'soleri1' has left the game
 [2021-04-13 15:30:41]: s6_sven [, Level 21]: ????
 [2021-04-13 15:30:43]: s6_sven [, Level 21]: fun war
+[2021-04-13 15:30:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
