@@ -13103,3 +13103,5 @@
 [2021-04-13 16:22:00]: ***  [, Level 0]: 'Hikari' joined the game
 [2021-04-13 16:22:03]: Zephir™ [, Level 39]: s6_sven: ok
 [2021-04-13 16:22:08]: s6_sven [, Level 21]: first team in freeze losses
+[2021-04-13 16:22:21]: Zephir™ [, Level 39]: ok
+[2021-04-13 16:22:23]: (1)☺ [, Level 12]: ok
