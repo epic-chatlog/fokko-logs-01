@@ -16409,3 +16409,5 @@
 [2021-04-12 23:11:55]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
 [2021-04-12 23:11:58]: S Y T H N [, Level 37]: th
 [2021-04-12 23:12:00]: S Y T H N [, Level 37]: ERROR: yo
+[2021-04-12 23:12:16]: ***  [, Level 0]: 'R3al mfkng Tee' entered and joined the game
+[2021-04-12 23:12:19]: S Y T H N [, Level 37]: haste gleich arbeit
