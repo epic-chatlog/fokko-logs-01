@@ -16382,3 +16382,6 @@
 [2021-04-12 23:02:00]: ***  [, Level 0]: 'Zeko' entered and joined the game
 [2021-04-12 23:03:04]: ***  [, Level 0]: 1 finished in: 0 minute(s) 56.64 second(s)
 [2021-04-12 23:03:06]: ***  [, Level 0]: #5 blocker finished in: 2 minute(s) 21.48 second(s)
+[2021-04-12 23:04:16]: #5 blocker [|*MorE*|, Level 0]: 1: idiot
+[2021-04-12 23:04:23]: Zeko [, Level 0]: who
+[2021-04-12 23:04:24]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
