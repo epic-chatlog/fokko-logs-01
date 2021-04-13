@@ -3226,3 +3226,6 @@
 [2021-04-13 04:25:21]: ***  [, Level 0]: 'CryoFire1990' entered and joined the game
 [2021-04-13 04:25:27]: Kezo [DogParty, Level 41]: xD,
 [2021-04-13 04:25:35]: ***  [, Level 0]: 'Жало' has left the game
+[2021-04-13 04:25:45]: ***  [, Level 0]: 'sHunter.exe' entered and joined the game
+[2021-04-13 04:25:47]: ***  [, Level 0]: 'Taip' entered and joined the game
+[2021-04-13 04:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
