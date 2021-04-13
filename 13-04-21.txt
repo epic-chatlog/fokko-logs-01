@@ -2724,3 +2724,7 @@
 [2021-04-13 03:40:20]: Matiteusz [TrRShClNrRs, Level 36]: Zephir™: not even stack
 [2021-04-13 03:40:22]: Zephir™ [, Level 39]: Matiteusz: xD mooh
 [2021-04-13 03:40:28]: (1)[D] SkyForge [, Level 22]: rexi:  hilf doch
+[2021-04-13 03:40:46]: ***  [, Level 0]: 'Recep' has left the game
+[2021-04-13 03:40:46]: ***  [, Level 0]: 'Taip' has left the game
+[2021-04-13 03:40:50]: Matiteusz [TrRShClNrRs, Level 36]: Mista bombastic: No one saw that
+[2021-04-13 03:40:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
