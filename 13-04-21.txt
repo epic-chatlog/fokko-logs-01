@@ -7429,3 +7429,7 @@
 [2021-04-13 09:12:40]: MOM [, Level 0]: non
 [2021-04-13 09:12:41]: [D] cya [, Level 39]: Isegrin: NAZI
 [2021-04-13 09:12:49]: Isegrin [, Level 55]: [D] cya: jawohl
+[2021-04-13 09:12:52]: Zephir™ [, Level 39]: El patron: no move ERROR
+[2021-04-13 09:12:57]: ***  [, Level 0]: '[D] BULLETBOT' has left the game
+[2021-04-13 09:13:03]: ***  [, Level 0]: [D] SkyForge finished in: 2 minute(s) 57.44 second(s)
+[2021-04-13 09:13:03]: ***  [, Level 0]: '(1)any' has left the game
