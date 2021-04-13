@@ -4898,3 +4898,5 @@
 [2021-04-13 06:32:55]: ***  [, Level 0]: ass cleaner's killing spree was ended by Matiteusz (7 blocks)
 [2021-04-13 06:33:14]:   [, Level 0]: (1)[D] Kahve: I like turtles.
 [2021-04-13 06:33:21]: ass player [, Level 42]: Swarfey: come
+[2021-04-13 06:33:41]: ***  [, Level 0]: UOYKCUFI finished in: 6 minute(s) 25.02 second(s)
+[2021-04-13 06:33:41]: ***  [, Level 0]: 'UOYKCUFI' finished the special race!
