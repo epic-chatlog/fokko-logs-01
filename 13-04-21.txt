@@ -12736,3 +12736,5 @@
 [2021-04-13 15:15:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-13 15:16:46]: (1)☺ [, Level 0]: i lag
 [2021-04-13 15:18:03]: ***  [, Level 0]: 'Axandos' entered and joined the game
+[2021-04-13 15:18:27]: Zephir™ [, Level 39]: ☺: si tu peut me save stp je suis afk
+[2021-04-13 15:18:27]: ***  [, Level 0]: 'Axandos²' entered and joined the game
