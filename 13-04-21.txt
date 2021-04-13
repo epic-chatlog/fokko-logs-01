@@ -13280,3 +13280,5 @@
 [2021-04-13 16:44:58]: ***  [, Level 0]: 'SnowCat' has left the game
 [2021-04-13 16:45:12]: ***  [, Level 0]: 'SnowCat' entered and joined the game
 [2021-04-13 16:45:13]: s6_sven [, Level 21]: (1)☺:  come left
+[2021-04-13 16:45:42]: Zephir™ [, Level 39]: s6_sven:
+[2021-04-13 16:45:47]: s6_sven [, Level 21]: what
