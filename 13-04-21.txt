@@ -8034,3 +8034,5 @@
 [2021-04-13 09:39:55]: WarHammer [DogParty, Level 0]: of lag
 [2021-04-13 09:39:56]: ***  [, Level 0]: 'JxK|JoK'Air' entered and joined the game
 [2021-04-13 09:40:00]: ***  [, Level 0]: 'MOM' has left the game
+[2021-04-13 09:40:10]: ***  [, Level 0]: 'Daisukee' joined the spectators
+[2021-04-13 09:40:14]: ***  [, Level 0]: 'Daisukee' joined the game
