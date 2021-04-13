@@ -6549,3 +6549,4 @@
 [2021-04-13 08:15:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-13 08:16:19]: [D] El patron [, Level 23]: Kenshi™: what language do you speak
 [2021-04-13 08:16:36]: Kenshi™ [, Level 0]: El patron: frendch
+[2021-04-13 08:16:57]: ***  [, Level 0]: '»ℱℬℑ«' entered and joined the game
