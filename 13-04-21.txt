@@ -6638,3 +6638,4 @@
 [2021-04-13 08:26:21]: ReXi [, Level 0]: hast du endless El patron
 [2021-04-13 08:26:24]: [D] El patron [, Level 23]: yo
 [2021-04-13 08:26:38]: ReXi [, Level 0]: das bockt
+[2021-04-13 08:26:43]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
