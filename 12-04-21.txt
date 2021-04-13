@@ -15968,3 +15968,5 @@
 [2021-04-12 18:40:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-12 18:41:28]: (1)☺ [, Level 11]: double jumps
 [2021-04-12 18:41:35]: (1)☺ [, Level 11]: reset
+[2021-04-12 18:41:55]: Pathrex [, Level 0]: how
+[2021-04-12 18:41:55]: (1)☺ [, Level 11]: reset man
