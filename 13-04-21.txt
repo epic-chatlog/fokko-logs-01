@@ -7413,3 +7413,6 @@
 [2021-04-13 09:11:32]: MOM [, Level 0]: Isegrin: hola come estas
 [2021-04-13 09:11:34]: ***  [, Level 0]: 'mamikral011' has left the game
 [2021-04-13 09:11:34]: ***  [, Level 0]: '[D] mamikral011' has left the game
+[2021-04-13 09:11:39]: ***  [, Level 0]: '[D] BULLETBOT' entered and joined the game
+[2021-04-13 09:11:44]: Isegrin [, Level 55]: MOM: Sehr gut, danke shon
+[2021-04-13 09:11:45]: cunt [, Level 0]: MOM: i dont want a second polackenmän here
