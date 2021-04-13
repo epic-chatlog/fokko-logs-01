@@ -369,3 +369,6 @@
 [2021-04-13 00:31:12]: Boti. [.bad, Level 27]: nem kell többet mondani
 [2021-04-13 00:31:17]: ***  [, Level 0]: '[D] Boti.' has left the game
 [2021-04-13 00:31:17]: ***  [, Level 0]: 'Boti.' has left the game
+[2021-04-13 00:31:24]: ***  [, Level 0]: 'Kiøn1029' has left the game
+[2021-04-13 00:31:29]: ***  [, Level 0]: Cylox finished in: 3 minute(s) 19.14 second(s)
+[2021-04-13 00:31:31]: ***  [, Level 0]: 1 finished in: 2 minute(s) 20.06 second(s)
