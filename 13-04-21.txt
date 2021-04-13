@@ -3170,3 +3170,8 @@
 [2021-04-13 04:20:53]: ***  [, Level 0]: 'arther' joined the game
 [2021-04-13 04:21:00]: ***  [, Level 0]: (1)fitz is on a killing spree with 5 blocks
 [2021-04-13 04:21:12]: rexi [, Level 0]: rip
+[2021-04-13 04:21:20]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-13 04:21:21]: rexi [, Level 0]: rip
+[2021-04-13 04:21:22]: rexi [, Level 0]: wtf
+[2021-04-13 04:21:24]: rexi [, Level 0]: afk
+[2021-04-13 04:21:25]: rexi [, Level 0]: du sack
