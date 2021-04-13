@@ -9209,3 +9209,9 @@
 [2021-04-13 10:30:40]:   [, Level 0]: Kezo: Nudelsaft c:: gae
 [2021-04-13 10:30:40]:   [, Level 0]: [D] BC|Tixnix: Nudelsaft c::
 [2021-04-13 10:30:43]: Taip [VergleriSay, Level 17]: wtf
+[2021-04-13 10:30:50]: coca [, Level 22]: kais: afk noob
+[2021-04-13 10:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-13 10:30:52]: Taip [VergleriSay, Level 17]: WTF
+[2021-04-13 10:30:54]: coca [, Level 22]: I like turtles.
+[2021-04-13 10:30:57]: ***  [, Level 0]: '(1)BC|serwan' entered and joined the game
+[2021-04-13 10:30:57]:   [, Level 0]: mamikral011: Taip: ilerle
