@@ -5839,3 +5839,8 @@
 [2021-04-13 07:32:51]: ***  [, Level 0]: 'CKA3A4NIK' has left the game
 [2021-04-13 07:32:52]: cookie [, Level 1]: GODLIKe:  sorry  i dit know it
 [2021-04-13 07:32:53]: ***  [, Level 0]: 'minecraft' entered and joined the game
+[2021-04-13 07:33:00]: ***  [, Level 0]: 'minecraft' has left the game
+[2021-04-13 07:33:05]: Axandos [, Level 25]: Kahve:  El patron
+[2021-04-13 07:33:08]: GODLIKe [, Level 44]: [D] El patron: traitor war
+[2021-04-13 07:33:08]: ***  [, Level 0]: [D] Kahve is on a killing spree with 5 blocks
+[2021-04-13 07:33:10]: ***  [, Level 0]: '(1)Adleg' has left the game
