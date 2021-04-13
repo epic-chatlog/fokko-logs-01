@@ -2982,3 +2982,5 @@
 [2021-04-13 04:05:11]:   [, Level 0]: [D] Mert: wtf
 [2021-04-13 04:05:13]:   [, Level 0]: [D] Mert: help
 [2021-04-13 04:05:21]:   [, Level 0]: rexi: [D] Mert: sry
+[2021-04-13 04:05:31]: Mert [Blood Gang, Level 0]: why
+[2021-04-13 04:05:37]: [D] El patron [, Level 0]: Rem's bae: you helped me enemies
