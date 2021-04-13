@@ -2150,3 +2150,6 @@
 [2021-04-13 03:04:02]: Zeko [, Level 0]: x
 [2021-04-13 03:04:03]: Zeko [, Level 0]: xd
 [2021-04-13 03:04:03]: Tziys* [DogParty, Level 39]: Axandos: XDDDDDDDDD
+[2021-04-13 03:04:17]: ***  [, Level 0]: 'Taip' entered and joined the game
+[2021-04-13 03:04:19]: [D] SkyForge [, Level 22]: (1)1:  dont help them
+[2021-04-13 03:04:21]: ***  [, Level 0]: [D] SkyForge is on a killing spree with 10 blocks
