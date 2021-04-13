@@ -12926,3 +12926,6 @@
 [2021-04-13 15:53:07]: Axandos² [, Level 20]: SMART FIXD IT
 [2021-04-13 15:53:19]: (3)Saud [, Level 0]: omg
 [2021-04-13 15:53:23]: (1)☺ [, Level 12]: Zephir™: ces un enemy Zʷʰʸˀ ?
+[2021-04-13 15:53:40]: Zephir™ [, Level 39]: qui ?
+[2021-04-13 15:53:41]: ***  [, Level 0]: '(1)Saud' entered and joined the game
+[2021-04-13 15:53:41]: Kirito [{TQuila}, Level 40]: Saud: where are you
