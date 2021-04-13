@@ -2959,3 +2959,4 @@
 [2021-04-13 04:01:41]: |MıssOяchiĐ| [, Level 48]: Axandos:
 [2021-04-13 04:01:41]:   [, Level 0]: rexi: Monkey: wth
 [2021-04-13 04:02:00]: ***  [, Level 0]: 'Monkey' has left the game
+[2021-04-13 04:02:09]: ***  [, Level 0]: 'Corso' entered and joined the game
