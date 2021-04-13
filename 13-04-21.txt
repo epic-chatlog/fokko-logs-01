@@ -3096,3 +3096,4 @@
 [2021-04-13 04:13:54]: [D] El patron [, Level 23]: anyone stop shoot
 [2021-04-13 04:14:05]: rexi [, Level 0]: fitz:
 [2021-04-13 04:14:07]: ***  [, Level 0]: el champeon is on a killing spree with 10 blocks
+[2021-04-13 04:14:40]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
