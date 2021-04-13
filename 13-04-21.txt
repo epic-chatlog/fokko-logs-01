@@ -6509,3 +6509,5 @@
 [2021-04-13 08:12:45]: ***  [, Level 0]: 'Cylox.' entered and joined the game
 [2021-04-13 08:12:54]: ***  [, Level 0]: 'NidardoHD' left the minigame 'Block'
 [2021-04-13 08:12:54]: ***  [, Level 0]: 'GoatLike' entered and joined the game
+[2021-04-13 08:13:02]: (1)☺ [, Level 12]: i lag
+[2021-04-13 08:13:11]: zZz [{D}, Level 0]: (1)☺: 7 fps
