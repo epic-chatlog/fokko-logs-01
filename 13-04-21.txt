@@ -5470,3 +5470,7 @@
 [2021-04-13 07:10:39]: ***  [, Level 0]: 'cya' entered and joined the game
 [2021-04-13 07:10:42]: ***  [, Level 0]: 'ClemEntine' entered and joined the game
 [2021-04-13 07:10:45]: |ΛnץOиe| [, Level 43]: Kahve: say sorry
+[2021-04-13 07:10:46]: Kahve [, Level 23]: help???
+[2021-04-13 07:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-13 07:10:52]: Kahve [, Level 23]: |ΛnץOиe|: ?
+[2021-04-13 07:10:56]: ***  [, Level 0]: '[D] BULLETBOT' has left the game
