@@ -13244,3 +13244,6 @@
 [2021-04-13 16:40:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-13 16:40:51]: bob [669, Level 36]: ye
 [2021-04-13 16:40:55]: bob [669, Level 36]: but for fun without endless
+[2021-04-13 16:40:57]: bob [669, Level 36]: i can use endless to
+[2021-04-13 16:40:58]: bob [669, Level 36]: BORING
+[2021-04-13 16:41:07]: bob [669, Level 36]: nubu
