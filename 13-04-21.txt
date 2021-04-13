@@ -1666,3 +1666,5 @@
 [2021-04-13 02:24:24]: ***  [, Level 0]: 'infiniter' joined the spectators
 [2021-04-13 02:24:29]: ***  [, Level 0]: '1' entered and joined the game
 [2021-04-13 02:25:05]: ***  [, Level 0]: Steve is on a killing spree with 10 blocks
+[2021-04-13 02:25:12]: ***  [, Level 0]: kais finished in: 742 minute(s)  8.12 second(s)
+[2021-04-13 02:25:12]: ***  [, Level 0]: 'kais' finished the special race!
