@@ -12811,3 +12811,5 @@
 [2021-04-13 15:35:28]: (1)☺ [, Level 0]: xd
 [2021-04-13 15:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-13 15:35:54]: Nidardo. [TOP, Level 13]: hello youtube o.O
+[2021-04-13 15:35:57]: ***  [, Level 0]: '(3)Saud' entered and joined the game
+[2021-04-13 15:36:05]: (1)☺ [, Level 0]: hello youtube ?
