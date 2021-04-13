@@ -1717,3 +1717,7 @@
 [2021-04-13 02:30:29]: Steve [, Level 0]: bb
 [2021-04-13 02:30:34]: vollesprit [, Level 0]: ?
 [2021-04-13 02:30:36]: Steve [, Level 0]: bye bye
+[2021-04-13 02:30:40]: vollesprit [, Level 0]: oh...
+[2021-04-13 02:30:43]: ***  [, Level 0]: 'Steve' has left the game
+[2021-04-13 02:30:45]: rexi [, Level 17]: yesssiiiiiiiiiiiiiiiirrrrrrrrrrrr
+[2021-04-13 02:30:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
