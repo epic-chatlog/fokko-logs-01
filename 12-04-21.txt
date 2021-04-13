@@ -16564,3 +16564,4 @@
 [2021-04-12 23:36:21]: 'KeeperTrain._. [, Level 30]: x7|KshKsh99: XDDDDDDDDD
 [2021-04-12 23:36:29]: rexi [, Level 0]: 1 why
 [2021-04-12 23:36:34]: 'KeeperTrain._. [, Level 30]: ReXi: >>>
+[2021-04-12 23:36:51]: ***  [, Level 0]: Collected 3 money
