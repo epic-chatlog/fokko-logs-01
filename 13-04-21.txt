@@ -12366,3 +12366,6 @@
 [2021-04-13 13:48:28]: (2)Zʷʰʸˀ [NULL, Level 26]: Kirito: portal nub no skill xD
 [2021-04-13 13:48:34]: Kirito [{TQuila}, Level 40]: Zʷʰʸˀ: i fcked u
 [2021-04-13 13:48:34]: ***  [, Level 0]: 'Nightmare' entered and joined the game
+[2021-04-13 13:48:35]: Saud [, Level 25]: Kirito:  lets hunt the rest
+[2021-04-13 13:48:37]: (2)Zʷʰʸˀ [NULL, Level 26]: Kirito: portal nub no skill xD
+[2021-04-13 13:48:42]: Kirito [{TQuila}, Level 40]: Saud: yup
