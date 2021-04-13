@@ -13342,3 +13342,5 @@
 [2021-04-13 16:55:14]: HardreenClutch [, Level 57]: Kirito:  arbeit undso
 [2021-04-13 16:55:18]: Kirito [{TQuila}, Level 40]: HardreenClutch: achso
 [2021-04-13 16:55:20]: SnowCat [, Level 30]: HardreenClutch: sorry bro
+[2021-04-13 16:55:29]: HardreenClutch [, Level 57]: SnowCat:  you lie
+[2021-04-13 16:55:35]: HardreenClutch [, Level 57]: SnowCat:  you see me and dont help me
