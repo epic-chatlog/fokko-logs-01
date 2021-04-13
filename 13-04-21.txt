@@ -1281,3 +1281,6 @@
 [2021-04-13 01:44:58]: ***  [, Level 0]: 'ThomasTurner884' has left the game
 [2021-04-13 01:45:08]: Foxie♥ [{TQuila}, Level 40]: Nudelsaft c:: <3
 [2021-04-13 01:45:10]: Nudelsaft c: [FookinLads, Level 37]: <3
+[2021-04-13 01:45:14]: ***  [, Level 0]: 'SkyForge' has left the game
+[2021-04-13 01:45:14]: ***  [, Level 0]: '[D] SkyForge' has left the game
+[2021-04-13 01:45:18]: ***  [, Level 0]: 'Teet' has left the game
