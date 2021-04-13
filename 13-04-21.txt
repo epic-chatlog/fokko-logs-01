@@ -7474,3 +7474,4 @@
 [2021-04-13 09:15:34]: ***  [, Level 0]: '.S L E E P Y'' entered and joined the game
 [2021-04-13 09:15:34]: Cylox. [♥, Level 0]: sad
 [2021-04-13 09:15:40]: cya [, Level 42]: Isegrin: jawohl
+[2021-04-13 09:15:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
