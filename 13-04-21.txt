@@ -12696,3 +12696,4 @@
 [2021-04-13 14:53:05]: ***  [, Level 0]: 'Saud' entered and joined the game
 [2021-04-13 14:54:25]: ***  [, Level 0]: 'XxxBgLucas' has left the game
 [2021-04-13 14:54:25]: ***  [, Level 0]: 'Eden' has left the game
+[2021-04-13 14:55:02]: ***  [, Level 0]: '(1)Saud' entered and joined the game
