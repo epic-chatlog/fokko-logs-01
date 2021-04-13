@@ -581,3 +581,6 @@
 [2021-04-13 00:48:31]: SanoreX [Chilli.*, Level 27]: Cylox: dummy geç
 [2021-04-13 00:48:36]: SanoreX [Chilli.*, Level 27]: Cylox: dumy
 [2021-04-13 00:48:36]: #5 blocker [|*MorE*|, Level 24]: GODLIKe: why?
+[2021-04-13 00:48:43]: GODLIKe. [, Level 39]: #5 blocker: ı kill him and my enemy
+[2021-04-13 00:48:47]: ***  [, Level 0]: ### 'SanoreX' [2021-04-13 13:49:11][client]: prediction time reset!
+[2021-04-13 00:48:49]: SanoreX [Chilli.*, Level 27]: Cylox: lan
