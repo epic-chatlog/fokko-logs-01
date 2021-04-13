@@ -16037,3 +16037,5 @@
 [2021-04-12 18:52:21]: bob [669, Level 36]: where are you from ?
 [2021-04-12 18:52:26]: ☺ [, Level 17]: french
 [2021-04-12 18:52:29]: bob [669, Level 36]: bonjour
+[2021-04-12 18:52:34]: ☺ [, Level 17]: bonjour
+[2021-04-12 18:52:36]: bob [669, Level 36]: follow me smiley man
