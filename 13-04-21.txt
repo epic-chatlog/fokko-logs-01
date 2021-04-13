@@ -1623,3 +1623,7 @@
 [2021-04-13 02:17:38]: ***  [, Level 0]: 'Ding Dong' has left the game
 [2021-04-13 02:17:56]: ***  [, Level 0]: 'T4L4PP1N0' joined the spectators
 [2021-04-13 02:18:00]: ***  [, Level 0]: 'T4L4PP1N0' joined the game
+[2021-04-13 02:18:05]: ***  [, Level 0]: 'dark yo' joined the spectators
+[2021-04-13 02:18:07]: rexi [, Level 0]: maaaaaaaan
+[2021-04-13 02:18:09]: rexi [, Level 0]: rip
+[2021-04-13 02:18:10]: ***  [, Level 0]: 'dark yo' joined the game
