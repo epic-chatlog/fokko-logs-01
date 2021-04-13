@@ -4352,3 +4352,5 @@
 [2021-04-13 05:58:38]: ***  [, Level 0]: [D] Kahve finished in: 3 minute(s) 48.74 second(s)
 [2021-04-13 05:58:48]: ***  [, Level 0]: 'Recep' entered and joined the game
 [2021-04-13 05:58:50]:   [, Level 0]: |ΛnץOиe|: wait me
+[2021-04-13 05:58:54]: El patron [, Level 29]: xd
+[2021-04-13 05:59:00]:   [, Level 0]: |ΛnץOиe|: 40 secondes
