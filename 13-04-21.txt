@@ -9743,3 +9743,7 @@
 [2021-04-13 10:56:29]: ***  [, Level 0]: 'peS' entered and joined the game
 [2021-04-13 10:56:30]: falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: ♥TAKO♥: wait
 [2021-04-13 10:56:31]: [D] El patron [, Level 23]: (1)successss:  you noname
+[2021-04-13 10:56:37]: ***  [, Level 0]: '[D] peS' entered and joined the game
+[2021-04-13 10:56:38]: [D] El patron [, Level 23]: (1)successss:  play more
+[2021-04-13 10:56:42]:   [, Level 0]: bob: GO DEPOSIT ALL
+[2021-04-13 10:56:46]: [D] El patron [, Level 23]: (1)successss:  join a clan idk
