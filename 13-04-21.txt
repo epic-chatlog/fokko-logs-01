@@ -12382,3 +12382,6 @@
 [2021-04-13 13:50:10]: ***  [, Level 0]: 'successss' has left the game
 [2021-04-13 13:50:12]: ***  [, Level 0]: 'casserole :p' has left the game
 [2021-04-13 13:50:12]: Kirito [{TQuila}, Level 40]: Saud: rigjt
+[2021-04-13 13:50:17]: ***  [, Level 0]: 'Taip' entered and joined the game
+[2021-04-13 13:50:24]: ***  [, Level 0]: 'Taip' has left the game
+[2021-04-13 13:50:26]: Nightmare. [, Level 0]: [₯]cLoud: my gf rlly like it if u know what i am saying ;)
