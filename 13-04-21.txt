@@ -1154,3 +1154,7 @@
 [2021-04-13 01:37:24]: SanoreX.* [Chilli.*, Level 22]: u cant
 [2021-04-13 01:37:28]: 1 [, Level 16]: vs
 [2021-04-13 01:37:30]: SanoreX.* [Chilli.*, Level 22]:                                                  G                                                            A                                                             Y
+[2021-04-13 01:37:34]: 1 [, Level 16]: vs
+[2021-04-13 01:37:40]: ***  [, Level 0]: 'GReeeN' entered and joined the game
+[2021-04-13 01:37:41]: SkyForge [, Level 16]: ReXi:  weil ich dennis bin
+[2021-04-13 01:37:44]: 1 [, Level 16]: 3
