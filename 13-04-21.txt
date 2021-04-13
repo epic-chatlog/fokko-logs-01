@@ -4326,3 +4326,6 @@
 [2021-04-13 05:55:30]:   [, Level 0]: |ΛnץOиe|: kais: t'es chiant
 [2021-04-13 05:55:33]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-13 05:55:35]: kais [, Level 66]: |ΛnץOиe|: correction il t'as spike, t'as pas respawn
+[2021-04-13 05:55:41]: [D] Kahve [, Level 19]: Shy-ra.: help me pls ?
+[2021-04-13 05:55:50]:   [, Level 0]: |ΛnץOиe|: kais: ptdrrr meme chose au final jsuis morte
+[2021-04-13 05:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
