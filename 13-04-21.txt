@@ -9882,3 +9882,4 @@
 [2021-04-13 11:03:37]: ***  [, Level 0]: [D] peS finished in: 5 minute(s) 49.36 second(s)
 [2021-04-13 11:03:37]: ***  [, Level 0]: '[D] peS' finished the special race!
 [2021-04-13 11:03:38]: ***  [, Level 0]: fomjn is on a killing spree with 15 blocks
+[2021-04-13 11:03:48]: ***  [, Level 0]: fomjn's killing spree was ended by bob (18 blocks)
