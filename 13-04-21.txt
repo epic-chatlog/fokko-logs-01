@@ -6407,3 +6407,4 @@
 [2021-04-13 08:06:10]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-13 08:06:13]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-13 08:06:16]: [D] El patron [, Level 23]: xd
+[2021-04-13 08:06:31]: [D] El patron [, Level 23]: Kenshi™: foxi os left
