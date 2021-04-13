@@ -3645,3 +3645,5 @@
 [2021-04-13 05:00:45]: |Mƒ±ssO—èchiƒê| [, Level 48]: any: faut assumer bg
 [2021-04-13 05:00:50]: ***  [∞, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-13 05:00:57]: ***  [∞, Level 0]: '(1)Kezo' has left the game
+[2021-04-13 05:01:08]: Intensiv [CrazyNoobs, Level 6]: help
+[2021-04-13 05:01:09]:   [, Level 0]: [D] iwannatryso: afk
