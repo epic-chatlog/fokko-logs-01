@@ -12204,3 +12204,8 @@
 [2021-04-13 13:24:31]: ***  [, Level 0]: 'Meetiteusz' entered and joined the game
 [2021-04-13 13:24:33]: ***  [, Level 0]: 'ReXi' has left the game
 [2021-04-13 13:24:40]: Hera [, Level 39]: Random Guy: I new player
+[2021-04-13 13:24:47]: ***  [, Level 0]: 'Taip' entered and joined the game
+[2021-04-13 13:24:51]: ***  [, Level 0]: 'Meetiteusz' has left the game
+[2021-04-13 13:24:51]: ***  [, Level 0]: 'Matiteusz' has left the game
+[2021-04-13 13:24:55]: WarHammer [DogParty, Level 0]: XD
+[2021-04-13 13:24:55]: ***  [, Level 0]: 'Taip' has left the game
