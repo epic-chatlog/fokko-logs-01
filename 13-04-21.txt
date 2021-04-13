@@ -1859,3 +1859,9 @@
 [2021-04-13 02:42:54]: ***  [, Level 0]: 'El patron' entered and joined the game
 [2021-04-13 02:42:55]: rexi [, Level 0]: du sack
 [2021-04-13 02:42:56]: Kezo [DogParty, Level 41]: 1: yeni başladı o türk
+[2021-04-13 02:42:59]: ***  [, Level 0]: 'El patron' has left the game
+[2021-04-13 02:43:00]: Intensiv_ [CrazzyNobbs, Level 5]: 1 türkmüdü la
+[2021-04-13 02:43:00]: rexi [, Level 0]: wtf
+[2021-04-13 02:43:03]: rexi [, Level 0]: afk
+[2021-04-13 02:43:08]: Zephir™ [, Level 39]: Axandos: Nudelsaft c: are my friend, he help me if i fight my ennemis
+[2021-04-13 02:43:09]: Intensiv_ [CrazzyNobbs, Level 5]: 1:  türkmüydü :D
