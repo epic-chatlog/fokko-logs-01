@@ -9256,3 +9256,10 @@
 [2021-04-13 10:33:33]: ***  [, Level 0]: Axandos is on a killing spree with 15 blocks
 [2021-04-13 10:33:36]: [D] El patron [, Level 23]: Zephir™:
 [2021-04-13 10:33:36]: Zephir™ [, Level 39]: El patron: i don't want attack u
+[2021-04-13 10:33:41]: ***  [, Level 0]: [D] mamikral011 finished in: 9 minute(s) 47.64 second(s)
+[2021-04-13 10:33:42]: ***  [, Level 0]: '[D] mamikral011' finished the special race!
+[2021-04-13 10:33:44]: [D] El patron [, Level 23]: Zephir™:  he dont like me idk why
+[2021-04-13 10:33:50]: ***  [, Level 0]: mamikral011 finished in: 7 minute(s) 54.28 second(s)
+[2021-04-13 10:33:50]: ***  [, Level 0]: 'mamikral011' finished the special race!
+[2021-04-13 10:33:51]: Zephir™ [, Level 39]: El patron: talk with him
+[2021-04-13 10:33:52]: Mert [Blood Gang, Level 0]: sanorex
