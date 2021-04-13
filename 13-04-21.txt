@@ -5150,3 +5150,5 @@
 [2021-04-13 06:51:13]: [D] Kahve [, Level 19]: l o l
 [2021-04-13 06:51:18]: ***  [, Level 0]: [D] mamikral011 finished in: 7 minute(s) 11.60 second(s)
 [2021-04-13 06:51:18]: ***  [, Level 0]: '[D] mamikral011' finished the special race!
+[2021-04-13 06:51:56]: Random Guy [, Level 40]: f
+[2021-04-13 06:52:00]: Random Guy [, Level 40]: tfps
