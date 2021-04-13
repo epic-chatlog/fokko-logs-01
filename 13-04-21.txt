@@ -5283,3 +5283,6 @@
 [2021-04-13 07:00:31]: Kahve [, Level 23]: Axandos: mamikral011 block (1)Ðream
 [2021-04-13 07:00:31]: mamikral011 [DogParty, Level 22]: weqe: ?
 [2021-04-13 07:00:35]:   [, Level 0]: weqe: mamikral011: u started
+[2021-04-13 07:00:42]: Kahve [, Level 23]: BULLETBOT: you finish
+[2021-04-13 07:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-13 07:00:53]: ***  [, Level 0]: '(2)Saud' has left the game
