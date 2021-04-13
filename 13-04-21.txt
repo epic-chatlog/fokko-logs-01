@@ -4346,3 +4346,7 @@
 [2021-04-13 05:57:43]: [D] Kahve [, Level 19]: wtf
 [2021-04-13 05:58:21]: ***  [, Level 0]: 'Nidardo.' entered and joined the game
 [2021-04-13 05:58:22]: ***  [, Level 0]: Kahve finished in: 4 minute(s) 47.94 second(s)
+[2021-04-13 05:58:32]:   [, Level 0]: Taip: Zephir: helppp
+[2021-04-13 05:58:34]: [D] BC|Tixnix [BC, Level 0]: ERROR.: warum kilsst du mich
+[2021-04-13 05:58:36]: ***  [, Level 0]: 'BC|serwan' entered and joined the game
+[2021-04-13 05:58:38]: ***  [, Level 0]: [D] Kahve finished in: 3 minute(s) 48.74 second(s)
