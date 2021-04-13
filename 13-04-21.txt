@@ -12746,3 +12746,4 @@
 [2021-04-13 15:20:26]: P4Pyr0s [, Level 24]: Nidardo.:  fun war?
 [2021-04-13 15:20:32]: Nidardo. [TOP, Level 13]: P4Pyr0s: okay
 [2021-04-13 15:20:40]: Nidardo. [TOP, Level 13]: xd
+[2021-04-13 15:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
