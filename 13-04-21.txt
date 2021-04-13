@@ -2463,3 +2463,5 @@
 [2021-04-13 03:25:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-13 03:25:55]: Foxie♥ [{TQuila}, Level 40]: (2)kais: sure
 [2021-04-13 03:26:23]: Foxie♥ [{TQuila}, Level 40]: k
+[2021-04-13 03:26:29]: (2)kais [, Level 66]: Foxie♥: oh, you're right, you don't use it, you're dead before using it
+[2021-04-13 03:26:31]: Foxie♥ [{TQuila}, Level 40]: sure kais
