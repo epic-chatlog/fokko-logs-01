@@ -4137,3 +4137,5 @@
 [2021-04-13 05:39:46]: ***  [, Level 0]: '(1)ReXi' entered and joined the game
 [2021-04-13 05:39:50]:   [, Level 0]: Nudelsaft c:: butt eater: yo kezo
 [2021-04-13 05:39:51]: ***  [, Level 0]: '(1)ReXi' has left the game
+[2021-04-13 05:40:14]:   [, Level 0]: Matiteusz: Nudelsaft c:: kezo rem and thats all for now?
+[2021-04-13 05:40:17]: ***  [, Level 0]: 'nameless tee' joined the spectators
