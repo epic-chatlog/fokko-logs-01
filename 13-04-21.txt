@@ -800,3 +800,6 @@
 [2021-04-13 01:01:29]: coca [, Level 22]: I like turtles.
 [2021-04-13 01:01:30]: Axandos [, Level 25]: mowl
 [2021-04-13 01:01:33]: (1)SanoreX.* [Chilli.*, Level 0]: A                                               M                                           D
+[2021-04-13 01:01:37]: (1)SanoreX.* [Chilli.*, Level 0]: A                                               M                                                         d
+[2021-04-13 01:01:43]: coca [, Level 22]: Cylox: you good)
+[2021-04-13 01:01:45]: (1)SanoreX.* [Chilli.*, Level 0]: A                                               M                                                          d
