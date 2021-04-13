@@ -16029,3 +16029,5 @@
 [2021-04-12 18:51:41]: ***  [, Level 0]: 'ItzPowder' has left the game
 [2021-04-12 18:51:46]: bob [669, Level 36]: i come kill you now
 [2021-04-12 18:51:48]: bob [669, Level 36]: ive had enough
+[2021-04-12 18:51:55]: ☺ [, Level 17]: nooooo i swear
+[2021-04-12 18:52:03]: bob [669, Level 36]: swear ?
