@@ -978,3 +978,5 @@
 [2021-04-13 01:15:29]: Taip [VergleriSay, Level 17]: GODLike sal
 [2021-04-13 01:15:40]: ***  [, Level 0]: 'GODLIKe' has left the game
 [2021-04-13 01:15:40]: ***  [, Level 0]: 'GODLIKe.' has left the game
+[2021-04-13 01:15:50]: mamikral011 [DogParty, Level 0]: mamikral011:
+[2021-04-13 01:15:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
