@@ -9684,3 +9684,8 @@
 [2021-04-13 10:53:40]: ***  [, Level 0]: 'Swarfey' has left the game (Timeout)
 [2021-04-13 10:53:45]: Kezo [DogParty, Level 41]: Mert: küfür edicem
 [2021-04-13 10:53:51]: Mert [Blood Gang, Level 0]: arkadaş olalımmı
+[2021-04-13 10:53:58]: Kezo [DogParty, Level 41]: hayır
+[2021-04-13 10:54:01]: Mert [Blood Gang, Level 0]: :8
+[2021-04-13 10:54:03]: Eden [qwq, Level 0]: thx falkenauge
+[2021-04-13 10:54:04]: Mert [Blood Gang, Level 0]: :(
+[2021-04-13 10:54:04]: ***  [, Level 0]: '[D] falkenauge' entered and joined the game
