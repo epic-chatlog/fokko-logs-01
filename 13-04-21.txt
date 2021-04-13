@@ -6421,3 +6421,4 @@
 [2021-04-13 08:06:54]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-13 08:06:55]: cookie [, Level 1]: [D] El patron:  yeah
 [2021-04-13 08:06:58]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-13 08:07:11]: ***  [, Level 0]: 'cookie' has left the game
