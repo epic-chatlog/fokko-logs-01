@@ -4385,3 +4385,5 @@
 [2021-04-13 06:01:23]: ass eater [, Level 42]: ass eater:
 [2021-04-13 06:01:27]: ***  [, Level 0]: 'Recep' has left the game
 [2021-04-13 06:01:28]: ***  [, Level 0]: 'Kahve' finished the special race!
+[2021-04-13 06:01:32]: ***  [, Level 0]: '[D] Kahve' finished the special race!
+[2021-04-13 06:01:32]: Corso [, Level 0]: [D] ass cleaner:
