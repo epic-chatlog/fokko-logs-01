@@ -1139,3 +1139,8 @@
 [2021-04-13 01:36:37]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
 [2021-04-13 01:36:42]: ***  [, Level 0]: 'PARDUS' has left the game
 [2021-04-13 01:36:44]: SkyForge [, Level 16]: Axandos:  hi bruder
+[2021-04-13 01:36:46]: ***  [, Level 0]: 'SanoreX.*' left the minigame 'Survival'
+[2021-04-13 01:36:48]: Axandos [, Level 25]: hello SkyForge
+[2021-04-13 01:36:50]: ***  [, Level 0]: 'LareneGyvaeh' entered and joined the game
+[2021-04-13 01:36:53]: Kenshi™ [, Level 0]: HardreenClutch: 1000 guys xD
+[2021-04-13 01:36:55]: HardreenClutch [, Level 57]: SanoreX:  admin
