@@ -16162,3 +16162,5 @@
 [2021-04-12 22:05:30]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-12 22:05:40]: S Y T H N [DogParty, Level 37]: Boti.: hey
 [2021-04-12 22:05:44]: Boti. [.bad, Level 0]: hi
+[2021-04-12 22:05:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-12 22:05:57]: S Y T H N [DogParty, Level 37]: Boti.: nice videos ^^
