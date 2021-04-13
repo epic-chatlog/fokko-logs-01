@@ -4900,3 +4900,6 @@
 [2021-04-13 06:33:21]: ass player [, Level 42]: Swarfey: come
 [2021-04-13 06:33:41]: ***  [, Level 0]: UOYKCUFI finished in: 6 minute(s) 25.02 second(s)
 [2021-04-13 06:33:41]: ***  [, Level 0]: 'UOYKCUFI' finished the special race!
+[2021-04-13 06:33:44]: ***  [, Level 0]: 'Michel' finished the special race!
+[2021-04-13 06:33:46]: Swarfey [FookinLads, Level 42]: Random Guy: go
+[2021-04-13 06:33:54]: ***  [, Level 0]: Matiteusz is on a killing spree with 5 blocks
