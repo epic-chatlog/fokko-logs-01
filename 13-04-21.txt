@@ -3139,3 +3139,5 @@
 [2021-04-13 04:17:48]: ***  [, Level 0]: 'Soros' entered and joined the game
 [2021-04-13 04:17:51]: ***  [, Level 0]: 'arther' has left the game
 [2021-04-13 04:17:51]: El patron [, Level 28]: wtf
+[2021-04-13 04:18:05]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 5 blocks
+[2021-04-13 04:18:08]: |MıssOяchiĐ| [, Level 48]: BAHAHHA 3v1
