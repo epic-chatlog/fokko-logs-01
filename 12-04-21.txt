@@ -16474,3 +16474,6 @@
 [2021-04-12 23:22:31]: ***  [, Level 0]: 'rexi' entered and joined the game
 [2021-04-12 23:22:33]: (1)Ðream [TrRShClNrRs, Level 0]: xD
 [2021-04-12 23:22:59]: x7|KshKsh99 [xSD7, Level 37]: (1)S Y T H N: like pause the clan for time
+[2021-04-12 23:23:09]: ***  [, Level 0]: 'Mr.KshKsh99' entered and joined the game
+[2021-04-12 23:23:10]: S Y T H N [, Level 37]: x7|KshKsh99: oh
+[2021-04-12 23:23:10]: ***  [, Level 0]: 'ERROR,' entered and joined the game
