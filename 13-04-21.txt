@@ -10056,3 +10056,7 @@
 [2021-04-13 11:13:19]: ***  [, Level 0]: 'leo' joined the spectators
 [2021-04-13 11:13:21]: Random Guy [, Level 0]: NOOOOOo
 [2021-04-13 11:13:22]: ***  [, Level 0]: 'leo' joined the game
+[2021-04-13 11:13:27]: ***  [, Level 0]: 'noob!' entered and joined the game
+[2021-04-13 11:13:28]:   [, Level 0]: NidardoHD: peS: my dummy already got endless
+[2021-04-13 11:13:35]: ***  [, Level 0]: 'leo' joined the spectators
+[2021-04-13 11:13:35]:   [, Level 0]: Kirito: fomin: why me
