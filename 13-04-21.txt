@@ -5649,3 +5649,4 @@
 [2021-04-13 07:20:37]: ***  [, Level 0]: 'ChillerDragon' has left the game (Timeout)
 [2021-04-13 07:20:38]: Ðream [TrRShClNrRs, Level 46]: Axandos: war war
 [2021-04-13 07:20:43]: Axandos² [, Level 20]: (1)Ðream: u will see
+[2021-04-13 07:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
