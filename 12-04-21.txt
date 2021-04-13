@@ -16362,3 +16362,7 @@
 [2021-04-12 22:57:12]: Zeko [, Level 0]: Nudelsaft c::
 [2021-04-12 22:57:15]: Nudelsaft c: [FookinLads, Level 0]: ?
 [2021-04-12 22:57:17]: Zeko [, Level 0]: flame ?
+[2021-04-12 22:57:22]: ***  [, Level 0]: '#5 blocker' finished the special race!
+[2021-04-12 22:57:24]: ***  [, Level 0]: '1' finished the special race!
+[2021-04-12 22:57:25]: Nudelsaft c: [FookinLads, Level 0]: u mean flag?
+[2021-04-12 22:57:26]: Nudelsaft c: [FookinLads, Level 0]: its urs
