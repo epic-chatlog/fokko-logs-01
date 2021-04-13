@@ -12679,3 +12679,5 @@
 [2021-04-13 14:45:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-13 14:46:02]: G𝕖l𝕒to* [s/o razmo, Level 0]: ah mdrr bas d'accord moi c'est pas gelato
 [2021-04-13 14:46:02]: Zephir™ [, Level 39]: G𝕖𝕝𝕒to: je vais vous téléporte directement du spawn a la fin de la race
+[2021-04-13 14:46:27]: Zephir™ [, Level 39]: G𝕖𝕝𝕒to: vas juste au spawn sur le battiment en haut
+[2021-04-13 14:46:27]: G𝕖𝕝𝕒to [s/o razmo, Level 42]: on y est
