@@ -16083,3 +16083,7 @@
 [2021-04-12 18:57:49]: bob [669, Level 36]: i go sleep smiley man
 [2021-04-12 18:57:56]: bob [669, Level 36]: i defence you tomorrow
 [2021-04-12 18:58:02]: ☺ [, Level 17]: oh bye my friend
+[2021-04-12 18:58:10]: bob [669, Level 36]: good night smiley man
+[2021-04-12 18:58:11]: bob [669, Level 36]: my friend
+[2021-04-12 18:58:12]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-12 18:58:16]: ☺ [, Level 17]: good night
