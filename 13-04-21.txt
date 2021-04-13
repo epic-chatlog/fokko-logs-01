@@ -9630,3 +9630,7 @@
 [2021-04-13 10:50:36]: Axandos² [, Level 20]: how r u Emilcha
 [2021-04-13 10:50:42]: [D] mamikral011 [DogParty, Level 22]: Emilcha:
 [2021-04-13 10:50:43]:   [, Level 0]: Emilcha: Axandos: fine & u ?
+[2021-04-13 10:50:45]: Axandos² [, Level 20]: same
+[2021-04-13 10:50:49]: ***  [, Level 0]: '♥TAKO♥' entered and joined the game
+[2021-04-13 10:50:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-13 10:50:54]: Kezo [DogParty, Level 41]: ♥TAKO♥: ağla
