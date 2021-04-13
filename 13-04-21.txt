@@ -4391,3 +4391,12 @@
 [2021-04-13 06:02:09]:   [, Level 0]: [D] ass cleaner: crap
 [2021-04-13 06:02:13]: ***  [, Level 0]: '(1)Shy-ra.' has left the game
 [2021-04-13 06:02:18]: ***  [, Level 0]: '(3)Shy-ra.' has left the game
+[2021-04-13 06:02:33]: ***  [, Level 0]: 'butt eater' has left the game (Timeout)
+[2021-04-13 06:02:33]: ***  [, Level 0]: 'ass eater' has left the game (Timeout)
+[2021-04-13 06:02:33]: ***  [, Level 0]: 'whore eater' would have timed out, but can use timeout protection now
+[2021-04-13 06:02:33]: ***  [, Level 0]: 'bitch eater' would have timed out, but can use timeout protection now
+[2021-04-13 06:02:36]: ***  [, Level 0]: 'K!ked' entered and joined the game
+[2021-04-13 06:02:36]: ***  [, Level 0]: '(1)bitch eater' entered and joined the game
+[2021-04-13 06:02:39]: ***  [, Level 0]: 'BC|Tixnix' has left the game
+[2021-04-13 06:02:39]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
+[2021-04-13 06:02:39]: ***  [, Level 0]: '(1)whore eater' entered and joined the game
