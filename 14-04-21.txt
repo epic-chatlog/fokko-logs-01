@@ -3198,3 +3198,10 @@
 [2021-04-14 03:32:37]: ←   [, Level 0]: SanoreX.*: .kill
 [2021-04-14 03:32:42]: ←   [, Level 0]: SanoreX.*: #say s
 [2021-04-14 03:32:47]: ←   [, Level 0]: SanoreX.*: #message s
+[2021-04-14 03:32:52]: ←   [, Level 0]: SanoreX.*: #sendmessage s
+[2021-04-14 03:32:52]: Nudelsaft c: [FookinLads, Level 42]: ERROR: er versucht seit 10 minuten was im namen des bots zu schreiben, ohne zu merken dass es ne whitelist gibt
+[2021-04-14 03:32:57]: ***  [, Level 0]: 'Cylox.' has left the game
+[2021-04-14 03:32:57]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-14 03:32:58]: Zephir™ [, Level 39]: tired xD
+[2021-04-14 03:33:00]: Nudelsaft c: [FookinLads, Level 42]: ERROR: obwohl ichs ihm sogar gesagt hab XD
+[2021-04-14 03:33:02]: [D] El patron [, Level 24]: s6_sven: restart?
