@@ -5832,3 +5832,5 @@
 [2021-04-14 06:52:57]: kiøn1029 [.bad, Level 25]: d+:
 [2021-04-14 06:53:04]: ***  [, Level 0]: (1)Zʷʰʸˀ finished in: 3 minute(s) 40.44 second(s)
 [2021-04-14 06:53:04]: ***  [, Level 0]: New record: 3 minute(s) 22.80 second(s) better.
+[2021-04-14 06:53:13]: ***  [, Level 0]: Zephir™'s killing spree was ended by weqe (6 blocks)
+[2021-04-14 06:53:17]: weqe [669, Level 12]: sup noob Zephir™
