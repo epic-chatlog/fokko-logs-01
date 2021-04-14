@@ -11126,3 +11126,6 @@
 [2021-04-14 13:38:12]: mamikral011 [DogParty, Level 22]: YelloWorlD: sor
 [2021-04-14 13:38:16]: YelloWorlD [DogParty, Level 41]: mamikral011: Ƭevan my enemy
 [2021-04-14 13:38:20]: mamikral011 [DogParty, Level 22]: YelloWorlD: ok sorry
+[2021-04-14 13:38:28]: Taip [VergleriSay, Level 19]: YelloWorlD: i want to get name
+[2021-04-14 13:38:35]: Flipper [, Level 16]: .1
+[2021-04-14 13:38:36]: Taip [VergleriSay, Level 19]: what need to do i
