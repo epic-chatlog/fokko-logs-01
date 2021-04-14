@@ -2383,3 +2383,10 @@
 [2021-04-14 02:54:59]: ***  [Þÿÿÿÿÿÿÿ, Level 0]: 'PANZELKOWY' entered and joined the game
 [2021-04-14 02:55:00]: ~DemoizL~ [, Level 39]: vollesprit: saute juste
 [2021-04-14 02:55:04]: Nightmare [, Level 27]: Foxieâ™¥: GRRRRRRRRRRRR
+[2021-04-14 02:55:09]: ***  [ýÿÿ, Level 0]: 'Fearless' entered and joined the game
+[2021-04-14 02:55:09]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: DiscordBridge timeout when unfreeze?
+[2021-04-14 02:55:09]: (1)RM | Arin [Retard MNKY, Level 0]: s6_sven:
+[2021-04-14 02:55:10]: ***  [nþÿÿ, Level 0]: '(1)rexi' entered and joined the game
+[2021-04-14 02:55:10]: ***  [, Level 0]: 'Fearless' has left the game
+[2021-04-14 02:55:14]: ~DemoizL~ [, Level 39]: vollesprit: saute juste
+[2021-04-14 02:55:16]: JustRace [DogParty, Level 36]: cl_aimbot 1
