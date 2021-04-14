@@ -8178,3 +8178,7 @@
 [2021-04-14 10:20:48]: ***  [, Level 0]: 'nobody' has left the game
 [2021-04-14 10:20:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-14 10:20:52]: bob [669, Level 36]: [D] mamikral011: stfu
+[2021-04-14 10:20:57]: [D] mamikral011 [DogParty, Level 0]: bob: ? DDD
+[2021-04-14 10:20:59]: bob [669, Level 36]: XD
+[2021-04-14 10:21:05]: SwiatoslaW [, Level 38]: Matiteusz: help
+[2021-04-14 10:21:06]: (3)cookie [, Level 0]: Falco641:  lol i love it now im jail
