@@ -4031,3 +4031,4 @@
 [2021-04-14 04:46:21]: ***  [, Level 0]: 'Intensiv_*_' has left the game
 [2021-04-14 04:46:25]: casserole :p [, Level 18]: i cant
 [2021-04-14 04:46:31]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-14 04:46:34]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
