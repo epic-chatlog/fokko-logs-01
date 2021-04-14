@@ -224,3 +224,4 @@
 [2021-04-14 00:35:58]: ***  [, Level 0]: __init__(self): is on a killing spree with 10 blocks
 [2021-04-14 00:36:22]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: lag
 [2021-04-14 00:36:27]: ***  [, Level 0]: 'SnowCat' changed name to 'keepertrain._.'
+[2021-04-14 00:36:39]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
