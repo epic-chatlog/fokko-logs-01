@@ -9533,3 +9533,6 @@
 [2021-04-14 11:53:20]: Kezo [DogParty, Level 41]: LAAAAAAAAAAAAAAAAAG
 [2021-04-14 11:53:22]: Falco642 [, Level 3]: also
 [2021-04-14 11:53:31]: Falco642 [, Level 3]: say "lol"
+[2021-04-14 11:53:38]: Falco642 [, Level 3]: its gonna fix it to i like turtles
+[2021-04-14 11:53:40]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-14 11:53:42]: SanoreX [Chilli.*, Level 27]: I like turtles.
