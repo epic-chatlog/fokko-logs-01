@@ -7869,3 +7869,5 @@
 [2021-04-14 09:49:23]: Shy-ra. [, Level 0]: SanoreX: NO
 [2021-04-14 09:49:43]: ***  [, Level 0]: 'paloma' entered and joined the game
 [2021-04-14 09:49:45]: ~DemoizL~ [, Level 39]: vollesprit: tu dois avoir un compte pour pouvoir avoir de l'argent
+[2021-04-14 09:49:53]: vollesprit [, Level 0]: ~DemoizL~: je l'ai créé
+[2021-04-14 09:49:54]: ***  [, Level 0]: 'paloma' has left the game
