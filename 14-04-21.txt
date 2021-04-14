@@ -8601,3 +8601,5 @@
 [2021-04-14 11:05:20]: ***  [, Level 0]: 'cunt' has left the game
 [2021-04-14 11:05:26]: Flipper [, Level 16]: your fucking trash
 [2021-04-14 11:05:27]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-14 11:05:37]: Flupper [, Level 7]: stop
+[2021-04-14 11:05:38]: Falco642 [, Level 3]: soleri1:
