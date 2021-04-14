@@ -11371,3 +11371,4 @@
 [2021-04-14 14:15:16]: ***  [, Level 0]: 'nobodyx' has left the game
 [2021-04-14 14:15:16]: ***  [, Level 0]: 'GODLIKe' has left the game
 [2021-04-14 14:15:21]: ***  [, Level 0]: 'canintospace' joined the game
+[2021-04-14 14:15:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
