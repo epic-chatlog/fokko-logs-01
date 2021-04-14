@@ -8490,3 +8490,5 @@
 [2021-04-14 10:55:28]: Emilcha [, Level 38]: upsahls_X: keknew
 [2021-04-14 10:55:45]: ***  [ë, Level 0]: 'vollesprit' has left the game
 [2021-04-14 10:55:50]: ***  [», Level 0]: [INFO] You can create an account using '/register'
+[2021-04-14 10:55:55]: ***  [­ÿÿÿ, Level 0]: '.Huh?~*' entered and joined the game
+[2021-04-14 10:55:55]: ***  [­ÿÿÿ, Level 0]: 'cute cats' entered and joined the game
