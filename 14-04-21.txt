@@ -8494,3 +8494,5 @@
 [2021-04-14 10:55:55]: ***  [­ÿÿÿ, Level 0]: 'cute cats' entered and joined the game
 [2021-04-14 10:56:15]: Flupper [, Level 0]: WTF
 [2021-04-14 10:56:24]: Flupper [, Level 0]: ~DemoizL~:
+[2021-04-14 10:56:41]: Flupper [, Level 0]: huh
+[2021-04-14 10:56:44]: ***  [, Level 0]: 'cute cats' has left the game
