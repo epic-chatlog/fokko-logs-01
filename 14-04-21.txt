@@ -251,3 +251,5 @@
 [2021-04-14 00:39:23]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: x
 [2021-04-14 00:39:25]: ***  [, Level 0]: 'Fearless' entered and joined the game
 [2021-04-14 00:39:26]: ***  [, Level 0]: 'keepertrain._.' changed name to 'SnowCat'
+[2021-04-14 00:39:42]: ***  [, Level 0]: comic is on a killing spree with 5 blocks
+[2021-04-14 00:39:43]: comic [comically, Level 14]: lolz
