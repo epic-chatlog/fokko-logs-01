@@ -3209,3 +3209,7 @@
 [2021-04-14 03:33:31]: SanoreX.* [Chilli.*, Level 22]: DiscordBridge: error say this messages?
 [2021-04-14 03:33:35]: Saud [, Level 0]: UOYKCUFI:  war 4l;ife
 [2021-04-14 03:33:50]: SanoreX.* [Chilli.*, Level 22]: hey error
+[2021-04-14 03:33:52]: SanoreX.* [Chilli.*, Level 22]: u see my message
+[2021-04-14 03:33:56]: SanoreX.* [Chilli.*, Level 22]: error
+[2021-04-14 03:34:02]: SanoreX.* [Chilli.*, Level 22]: error u see my message now?
+[2021-04-14 03:34:02]: ***  [, Level 0]: 'Intensiv_' has left the game
