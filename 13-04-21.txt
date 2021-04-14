@@ -13375,3 +13375,5 @@
 [2021-04-13 17:01:44]: ***  [, Level 0]: '[D] SnowCat' has left the game
 [2021-04-13 17:01:54]: HardreenClutch [, Level 57]: Kirito:  bin weg
 [2021-04-13 17:02:02]: Kirito [{TQuila}, Level 40]: HardreenClutch: okay gute nacht
+[2021-04-13 17:02:37]: ***  [, Level 0]: 'GReeeN' has left the game
+[2021-04-13 17:02:37]: ***  [, Level 0]: 'HardreenClutch' has left the game
