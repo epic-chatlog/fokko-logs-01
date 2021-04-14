@@ -5690,3 +5690,5 @@
 [2021-04-14 06:40:32]: Taip [VergleriSay, Level 17]: helpp
 [2021-04-14 06:40:34]:   [, Level 0]: kiøn1029: ne magyarázz
 [2021-04-14 06:40:36]: ***  [, Level 0]: Axandos² is on a killing spree with 10 blocks
+[2021-04-14 06:40:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-14 06:40:54]:   [, Level 0]: Flupper: im not freeze
