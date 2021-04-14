@@ -11302,3 +11302,6 @@
 [2021-04-14 13:59:16]: ***  [, Level 0]: (3)Zʷʰʸˀ finished in: 2 minute(s)  2.98 second(s)
 [2021-04-14 13:59:50]: Taip [VergleriSay, Level 19]: GODLIKe: kurtarsana be
 [2021-04-14 13:59:58]: Taip [VergleriSay, Level 19]: lütfen
+[2021-04-14 14:00:02]: Taip [VergleriSay, Level 19]: tek bi isteğim var
+[2021-04-14 14:00:06]: Taip [VergleriSay, Level 19]: sonra
+[2021-04-14 14:00:10]: Taip [VergleriSay, Level 19]: istediğiniz kadar blocklayın
