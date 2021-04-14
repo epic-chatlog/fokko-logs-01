@@ -8246,3 +8246,6 @@
 [2021-04-14 10:26:37]: ***  [, Level 0]: 'Guthaben' entered and joined the game
 [2021-04-14 10:26:40]: Lucas [THECEPS, Level 35]: soleri1:
 [2021-04-14 10:26:44]: Emilcha [, Level 38]: ölüm bekçisi: war
+[2021-04-14 10:26:58]: [D] mamikral011 [DogParty, Level 0]: Cylox: aşşa atla help
+[2021-04-14 10:27:01]: Lucas [THECEPS, Level 35]: Guthaben: >>
+[2021-04-14 10:27:03]: soleri1 [, Level 23]: Taip: help plss
