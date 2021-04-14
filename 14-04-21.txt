@@ -9836,3 +9836,6 @@
 [2021-04-14 12:12:13]: Taip [VergleriSay, Level 19]: nobody why hey
 [2021-04-14 12:12:21]: Taip [VergleriSay, Level 19]: why
 [2021-04-14 12:12:31]: ***  [, Level 0]: 'Tierkus' entered and joined the game
+[2021-04-14 12:12:41]: Taip [VergleriSay, Level 19]: whyyyy
+[2021-04-14 12:12:43]: ***  [, Level 0]: 'Slvry ツ [D]' entered and joined the game
+[2021-04-14 12:12:43]: ***  [, Level 0]: 'Slvry ツ [D]' has left the game
