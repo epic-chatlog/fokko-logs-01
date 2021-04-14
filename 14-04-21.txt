@@ -6742,3 +6742,7 @@
 [2021-04-14 08:01:00]: SanoreX [Chilli.*, Level 27]: (1)Matiteusz:
 [2021-04-14 08:01:01]: ***  [, Level 0]: '(1)/' joined the game
 [2021-04-14 08:01:05]: MOM [, Level 28]: thanks
+[2021-04-14 08:01:49]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-14 08:01:49]: ***  [, Level 0]: '(1)/' joined the spectators
+[2021-04-14 08:01:53]: ***  [, Level 0]: '(1)/' joined the game
+[2021-04-14 08:01:54]: MOM [, Level 28]: help pls
