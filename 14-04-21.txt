@@ -3672,3 +3672,5 @@
 [2021-04-14 04:06:09]: Tziys* [DogParty, Level 39]: El patron: dog dead
 [2021-04-14 04:06:23]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-14 04:06:36]: SanoreX.* [Chilli.*, Level 22]: sh!t stack
+[2021-04-14 04:06:46]: ***  [, Level 0]: 'bruh' has left the game
+[2021-04-14 04:06:46]: ***  [, Level 0]: 'rayen' has left the game
