@@ -882,3 +882,6 @@
 [2021-04-14 01:27:22]: Kiøn1029 [.bad, Level 32]: én sem adok pénzt
 [2021-04-14 01:27:28]: SanoreX [Chilli.*, Level 27]: plot 11kah
 [2021-04-14 01:27:31]: SanoreX [Chilli.*, Level 27]: plot 11 Kahve
+[2021-04-14 01:27:33]: ***  [, Level 0]: 'vollesprit' entered and joined the game
+[2021-04-14 01:27:36]: Kahve [, Level 23]: plot 5
+[2021-04-14 01:27:43]: SanoreX [Chilli.*, Level 27]: oo Kahve plot 5 seninmiydi
