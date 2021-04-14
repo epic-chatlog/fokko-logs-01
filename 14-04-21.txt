@@ -11366,3 +11366,7 @@
 [2021-04-14 14:14:44]: ***  [, Level 0]: '(2)BLACK' entered and joined the game
 [2021-04-14 14:14:49]: ***  [, Level 0]: 'canintospace' joined the game
 [2021-04-14 14:15:03]: ***  [, Level 0]: 'canintospace' joined the spectators
+[2021-04-14 14:15:10]: ***  [, Level 0]: 'canintospace' joined the game
+[2021-04-14 14:15:16]: ***  [, Level 0]: 'canintospace' joined the spectators
+[2021-04-14 14:15:16]: ***  [, Level 0]: 'nobodyx' has left the game
+[2021-04-14 14:15:16]: ***  [, Level 0]: 'GODLIKe' has left the game
