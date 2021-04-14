@@ -5170,3 +5170,5 @@
 [2021-04-14 06:03:35]: ***  [, Level 0]: ss is on a killing spree with 5 blocks
 [2021-04-14 06:03:37]: ***  [, Level 0]: 'kiøn1029' has left the game
 [2021-04-14 06:03:38]: No~Filter [, Level 0]: xd
+[2021-04-14 06:03:44]: ***  [, Level 0]: '(1)ERROR' has left the game
+[2021-04-14 06:03:51]: Kiøn1029 [.bad, Level 32]: na akkor most meg menjél és verjél szét mindenkit
