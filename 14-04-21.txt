@@ -9803,3 +9803,6 @@
 [2021-04-14 12:10:24]: (3)cookie [, Level 2]: HardreenClutch:  no i shoot white the wrong gun
 [2021-04-14 12:10:27]: vollesprit [, Level 0]: mmm
 [2021-04-14 12:10:28]: ***  [, Level 0]: '(1)Sayme' entered and joined the game
+[2021-04-14 12:10:35]: ***  [, Level 0]: 'Tierkus' has left the game
+[2021-04-14 12:10:37]: ***  [, Level 0]: 'Wayllan Kath' has left the game
+[2021-04-14 12:10:40]: Taip [VergleriSay, Level 19]: nobody: why
