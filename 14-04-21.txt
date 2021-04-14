@@ -8621,3 +8621,8 @@
 [2021-04-14 11:06:36]: Falco641 [.bad, Level 20]: soleri1:
 [2021-04-14 11:06:38]: ***  [, Level 0]: 'tee' entered and joined the game
 [2021-04-14 11:06:39]: JustRace [DogParty, Level 36]: e
+[2021-04-14 11:06:41]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-14 11:06:41]: Mʎɹ シ [not today, Level 12]: JustRace: cl_blockbot 1
+[2021-04-14 11:06:41]: upsahls_X [iPro ♡, Level 38]: you guys are quite the comedy
+[2021-04-14 11:06:45]: JustRace [DogParty, Level 36]: flupper ded
+[2021-04-14 11:06:52]: JustRace [DogParty, Level 36]: predicted the future lmao
