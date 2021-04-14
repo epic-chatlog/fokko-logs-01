@@ -400,3 +400,4 @@
 [2021-04-14 01:00:09]: Kahve [, Level 23]: WarHammer: düşmanıma yardım ettin
 [2021-04-14 01:00:14]: WarHammer [DogParty, Level 26]: Kahve:  ne ara
 [2021-04-14 01:00:14]: Tziys* [DogParty, Level 39]: omg dude fuck off
+[2021-04-14 01:00:18]: WarHammer [DogParty, Level 26]: Kahve:  düşmanın kim
