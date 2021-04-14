@@ -11307,3 +11307,4 @@
 [2021-04-14 14:00:10]: Taip [VergleriSay, Level 19]: istediğiniz kadar blocklayın
 [2021-04-14 14:00:27]: Taip [VergleriSay, Level 19]: GODLIKe: hadi be
 [2021-04-14 14:00:33]: Taip [VergleriSay, Level 19]: sevaptır
+[2021-04-14 14:00:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
