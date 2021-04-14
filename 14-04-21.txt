@@ -7988,3 +7988,8 @@
 [2021-04-14 10:05:52]: ***  [, Level 0]: Zephir™ is on a killing spree with 5 blocks
 [2021-04-14 10:05:54]: mamikral011 [DogParty, Level 0]: wtf
 [2021-04-14 10:05:59]: Emilcha [, Level 38]: Lucas: 40k and i stop
+[2021-04-14 10:06:03]: ***  [, Level 0]: 'arther' entered and joined the game
+[2021-04-14 10:06:10]: ***  [, Level 0]: 'nobody' entered and joined the game
+[2021-04-14 10:06:11]: soleri1 [, Level 23]: mamikral011: help
+[2021-04-14 10:06:15]: [D] mamikral011 [DogParty, Level 0]: soleri1: wait
+[2021-04-14 10:06:15]: (1)☺ [, Level 12]: ta pris des asset Zephir™
