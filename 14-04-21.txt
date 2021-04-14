@@ -4146,3 +4146,4 @@
 [2021-04-14 04:53:30]: SanoreX.* [Chilli.*, Level 22]: ne biçim dar alan yaw
 [2021-04-14 04:53:30]: MOM [, Level 0]: we need one mire
 [2021-04-14 04:53:31]: MOM [, Level 0]: more
+[2021-04-14 04:53:35]: ***  [, Level 0]: '[D] cya' finished the special race!
