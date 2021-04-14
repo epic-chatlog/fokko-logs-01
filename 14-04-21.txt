@@ -8520,3 +8520,5 @@
 [2021-04-14 10:59:04]: (3)cookie [, Level 0]: Ken
 [2021-04-14 10:59:07]:   [, Level 0]: Rainbow Tee: mamikral011: заебал, не даёшь прыгнуть
 [2021-04-14 10:59:21]: Flupper [, Level 0]: stop
+[2021-04-14 10:59:43]: [D] El patron [, Level 24]: Zephir™:  lets spike a guy
+[2021-04-14 10:59:45]: ***  [, Level 0]: 'cunt' has left the game (Too weak connection (not acked for 60 seconds))
