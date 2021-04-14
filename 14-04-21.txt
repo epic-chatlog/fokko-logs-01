@@ -5196,3 +5196,5 @@
 [2021-04-14 06:05:54]:   [, Level 0]: Random Guy: why
 [2021-04-14 06:05:57]:   [, Level 0]: Random Guy: i have nothing
 [2021-04-14 06:06:00]: ***  [, Level 0]: Axandos is on a killing spree with 10 blocks
+[2021-04-14 06:06:07]: ***  [, Level 0]: 'Zʷʰʸˀ' entered and joined the game
+[2021-04-14 06:06:12]: ***  [, Level 0]: '(1)Zʷʰʸˀ' entered and joined the game
