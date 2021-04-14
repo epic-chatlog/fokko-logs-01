@@ -2390,3 +2390,6 @@
 [2021-04-14 02:55:10]: ***  [, Level 0]: 'Fearless' has left the game
 [2021-04-14 02:55:14]: ~DemoizL~ [, Level 39]: vollesprit: saute juste
 [2021-04-14 02:55:16]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-14 02:55:21]: JustRace [DogParty, Level 36]: XD
+[2021-04-14 02:55:21]: cHurch [HUITA, Level 47]: :O
+[2021-04-14 02:55:25]: ***  [, Level 0]: 'Fearless' entered and joined the game
