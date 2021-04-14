@@ -6001,3 +6001,13 @@
 [2021-04-14 07:03:11]: Falco641 [.bad, Level 20]: nobody wanted rn
 [2021-04-14 07:03:13]:   [, Level 0]: Recep: yey
 [2021-04-14 07:03:15]:   [, Level 0]: Recep: gud
+[2021-04-14 07:03:18]: Kezo [.bad, Level 27]: bulgi
+[2021-04-14 07:03:18]: ***  [, Level 0]: 'Cosmo' has left the game
+[2021-04-14 07:03:18]:   [, Level 0]: Recep: i purchase police
+[2021-04-14 07:03:19]: Kezo [.bad, Level 27]: tudja
+[2021-04-14 07:03:21]:   [, Level 0]: Recep: 80k
+[2021-04-14 07:03:23]: ***  [, Level 0]: 'Cosmo' entered and joined the game
+[2021-04-14 07:03:23]: kiøn1029 [.bad, Level 25]: ja
+[2021-04-14 07:03:25]: Falco641 [.bad, Level 20]: its 100k
+[2021-04-14 07:03:26]: kiøn1029 [.bad, Level 25]: ő lehet
+[2021-04-14 07:03:29]: Boti. [DogParty, Level 41]: hat de most ki az aki tudja hogy timepause lengyel
