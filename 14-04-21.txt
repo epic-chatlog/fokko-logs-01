@@ -8501,3 +8501,4 @@
 [2021-04-14 10:56:54]: ERROR [404, Level 75]: omg
 [2021-04-14 10:56:55]: ERROR [404, Level 75]: xd
 [2021-04-14 10:57:02]: Emilcha [, Level 38]: ERROR: hiiii :D
+[2021-04-14 10:57:25]: El patron [, Level 30]: Kenshi™:
