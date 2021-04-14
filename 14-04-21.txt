@@ -4094,3 +4094,9 @@
 [2021-04-14 04:50:11]: ***  [, Level 0]: 'CKA3A4NIK[NR]' entered and joined the game
 [2021-04-14 04:50:22]: ***  [, Level 0]: 'Axandos' entered and joined the game
 [2021-04-14 04:50:44]: WarHammer [DogParty, Level 26]: OHA
+[2021-04-14 04:50:47]: CKA3A4NIK[NR] [Night Raid, Level 35]: XD
+[2021-04-14 04:50:48]: ***  [, Level 0]: 'Axandos²' entered and joined the game
+[2021-04-14 04:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-14 04:50:52]: coca [, Level 22]: CKA3A4NIK[NR]: привет
+[2021-04-14 04:50:53]: ***  [, Level 0]: [D] cya finished in: 1 minute(s) 13.60 second(s)
+[2021-04-14 04:50:53]: ***  [, Level 0]: New record: 1 minute(s) 27.08 second(s) better.
