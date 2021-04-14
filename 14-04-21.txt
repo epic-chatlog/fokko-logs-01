@@ -130,3 +130,6 @@
 [2021-04-14 00:22:32]: SkyForge [, Level 0]: falkenauge:  k krieg
 [2021-04-14 00:22:40]: SkyForge [, Level 0]: falkenauge:  komme dann gleich s6_sven  helfen
 [2021-04-14 00:23:11]: [D] #5 blocker [|*MorE*|, Level 0]: ChillderPlagon*: fake
+[2021-04-14 00:23:19]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-14 00:23:23]: ***  [, Level 0]: [D] falkenauge is on a killing spree with 5 blocks
+[2021-04-14 00:23:26]: Intensiv [CrazyNoobs, Level 8]: help
