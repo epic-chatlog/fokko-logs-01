@@ -9543,3 +9543,5 @@
 [2021-04-14 11:54:00]: SanoreX [Chilli.*, Level 27]:  :Lol
 [2021-04-14 11:54:02]: ***  [, Level 0]: 'Orwined' has left the game
 [2021-04-14 11:54:02]: Ƭevan [TrRShClNrRs, Level 49]: hhh3: ok
+[2021-04-14 11:54:12]: ***  [, Level 0]: 'Sayme' entered and joined the game
+[2021-04-14 11:54:18]: Falco642 [, Level 3]: now look
