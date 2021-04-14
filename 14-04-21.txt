@@ -5715,3 +5715,9 @@
 [2021-04-14 06:43:12]: kiøn1029 [.bad, Level 25]: csak gyere
 [2021-04-14 06:43:22]: ***  [, Level 0]: 'MOM' entered and joined the game
 [2021-04-14 06:43:25]: (1)ERROR [404, Level 47]: rly xDD
+[2021-04-14 06:43:34]: ***  [, Level 0]: 'soleri1' entered and joined the game
+[2021-04-14 06:43:34]: ***  [, Level 0]: 'soleri1' has left the game
+[2021-04-14 06:43:36]: ***  [, Level 0]: 'soleri1' entered and joined the game
+[2021-04-14 06:43:36]: ***  [, Level 0]: 'MieSlime' has left the game
+[2021-04-14 06:43:37]: (1)☺ [, Level 12]: XD
+[2021-04-14 06:43:40]: kiøn1029 [.bad, Level 25]: solo raid vége
