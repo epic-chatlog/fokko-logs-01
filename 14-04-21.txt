@@ -6146,3 +6146,7 @@
 [2021-04-14 07:08:14]: ***  [, Level 0]: 'Vanish Akbar²' entered and joined the game
 [2021-04-14 07:08:16]:   [, Level 0]: Vanish Akbar²: @tw_eSports - new first telegr channel on teeworlds
 [2021-04-14 07:08:16]: ***  [, Level 0]: 'HawkSama' finished the special race!
+[2021-04-14 07:08:22]: ***  [, Level 0]: 'Vanish Akbar²' has left the game
+[2021-04-14 07:08:25]: MOM [, Level 0]: Kezo: engedj szabadon
+[2021-04-14 07:08:26]: ***  [, Level 0]: 'Falco642' entered and joined the game
+[2021-04-14 07:08:31]: [D] Boti. [.bad, Level 33]: bulgi elhagyta a szervert
