@@ -8771,3 +8771,6 @@
 [2021-04-14 11:12:58]:   [, Level 0]: SanoreX.*: neyse
 [2021-04-14 11:13:00]:   [, Level 0]: SanoreX.*: gelcem bekle
 [2021-04-14 11:13:04]: comic [comically, Level 14]: what are you doing
+[2021-04-14 11:13:05]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-14 11:13:09]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-14 11:13:13]:   [, Level 0]: SanoreX.*: MaMi:
