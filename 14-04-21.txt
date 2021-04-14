@@ -313,3 +313,6 @@
 [2021-04-14 00:50:16]: ***  [, Level 0]: 'Foxie♥' has left the game
 [2021-04-14 00:50:23]: Lucas [THECEPS, Level 35]: Ðream:
 [2021-04-14 00:50:26]: ***  [, Level 0]: __init__(self): is on a killing spree with 5 blocks
+[2021-04-14 00:50:38]: #5 blocker [|*MorE*|, Level 24]: falkenauge:
+[2021-04-14 00:50:38]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-14 00:50:42]: SnowCat [FookinLads, Level 30]: SSIJ MI CHUJA
