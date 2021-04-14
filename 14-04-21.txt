@@ -8222,3 +8222,5 @@
 [2021-04-14 10:24:59]: (3)cookie [, Level 0]: mamikral011:  wtf
 [2021-04-14 10:25:12]: Taip [VergleriSay, Level 18]: Lucas: help ples
 [2021-04-14 10:25:13]: soleri1 [, Level 23]: Taip: one moment
+[2021-04-14 10:25:19]: Recep [VergleriSay, Level 7]: thx
+[2021-04-14 10:25:26]: Lucas [THECEPS, Level 35]: fck
