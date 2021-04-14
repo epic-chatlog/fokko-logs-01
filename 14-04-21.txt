@@ -6271,3 +6271,4 @@
 [2021-04-14 07:17:41]: ***  [, Level 0]: '(2)Cosmo' has left the game
 [2021-04-14 07:18:09]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-14 07:18:55]: 1 [, Level 0]: bidadha bana çeçten bisy yazma küstüm
+[2021-04-14 07:19:10]: ***  [, Level 0]: 'WarHammer' has left the game
