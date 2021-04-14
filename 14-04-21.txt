@@ -7804,3 +7804,5 @@
 [2021-04-14 09:42:10]: SanoreX [Chilli.*, Level 27]: my
 [2021-04-14 09:42:10]: ***  [, Level 0]: 'Shy-ra.' entered and joined the game
 [2021-04-14 09:42:13]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-14 09:42:16]: SanoreX [Chilli.*, Level 27]: Emilcha: u have red flag
+[2021-04-14 09:42:26]: Emilcha [, Level 38]: SanoreX: nah blue
