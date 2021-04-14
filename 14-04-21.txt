@@ -3704,3 +3704,6 @@
 [2021-04-14 04:10:35]: Intensiv_*_ [CrazyNoobs, Level 0]: 1 dk knk
 [2021-04-14 04:10:45]: 1 [, Level 17]: kezo vs
 [2021-04-14 04:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-14 04:10:52]: 1 [, Level 17]: kezo vs,
+[2021-04-14 04:10:54]: ***  [, Level 0]: [D] El patron is on a killing spree with 5 blocks
+[2021-04-14 04:10:55]: 1 [, Level 17]: kezo vs,
