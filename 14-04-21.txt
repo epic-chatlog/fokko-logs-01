@@ -7556,3 +7556,7 @@
 [2021-04-14 09:15:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-14 09:15:50]: ***  [, Level 0]: 'Cosmo' entered and joined the game
 [2021-04-14 09:15:56]: ***  [, Level 0]: 'kristalik25' joined the spectators
+[2021-04-14 09:16:11]: ***  [, Level 0]: 'kristalik25' joined the game
+[2021-04-14 09:16:16]: ***  [, Level 0]: '(1)Cosmo' entered and joined the game
+[2021-04-14 09:16:16]: coca [, Level 22]: fuck
+[2021-04-14 09:16:17]: coca [, Level 22]: El patron:
