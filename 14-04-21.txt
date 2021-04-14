@@ -8428,3 +8428,7 @@
 [2021-04-14 10:47:06]: (1)BLACK [, Level 20]: Zephir™:  stack pls
 [2021-04-14 10:47:44]: casserole :p [, Level 19]: Zephir™:
 [2021-04-14 10:47:47]: ERROR. [404, Level 56]: Nudelsaft c::  damn die tees am pc sind so groß eh
+[2021-04-14 10:48:05]: ***  [, Level 0]: 'peS' has left the game (Timeout)
+[2021-04-14 10:48:05]: ***  [, Level 0]: '[D] peS' has left the game (Timeout)
+[2021-04-14 10:48:06]: Taip [VergleriSay, Level 19]: holly shit
+[2021-04-14 10:48:14]: Taip [VergleriSay, Level 19]: i buy police 5min later
