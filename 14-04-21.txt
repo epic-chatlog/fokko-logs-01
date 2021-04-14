@@ -7336,3 +7336,4 @@
 [2021-04-14 08:48:06]: coca [, Level 22]: сиди там лох
 [2021-04-14 08:48:16]: coca [, Level 22]: ты
 [2021-04-14 08:48:19]: coca [, Level 22]: ты же умер
+[2021-04-14 08:48:33]: Nudelsaft c: [FookinLads, Level 60]: [D] El patron: do /taserinfo
