@@ -160,3 +160,7 @@
 [2021-04-14 00:27:25]: comic [comically, Level 14]: brhu
 [2021-04-14 00:27:32]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-14 00:27:56]: ***  [, Level 0]: 'comic' has left the game
+[2021-04-14 00:28:01]: ***  [, Level 0]: f"{self.name}" finished in: 3 minute(s)  8.42 second(s)
+[2021-04-14 00:28:01]: ***  [, Level 0]: New record: 8 minute(s) 28.76 second(s) better.
+[2021-04-14 00:28:05]: ***  [, Level 0]: __init__(self): finished in: 2 minute(s) 26.18 second(s)
+[2021-04-14 00:28:05]: ***  [, Level 0]: New record: 2 minute(s) 16.76 second(s) better.
