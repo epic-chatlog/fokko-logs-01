@@ -11474,3 +11474,4 @@
 [2021-04-14 14:35:06]: weqe [669, Level 12]: poka !!
 [2021-04-14 14:35:12]: Kenshi™ [, Level 25]: weqe: come
 [2021-04-14 14:35:34]: Flipper [, Level 16]: my dummy
+[2021-04-14 14:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
