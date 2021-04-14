@@ -7604,3 +7604,7 @@
 [2021-04-14 09:20:52]: El patron [, Level 30]: cool
 [2021-04-14 09:21:04]: Emilcha [, Level 38]: Good man: btw i know ur coca
 [2021-04-14 09:21:06]: cookie [, Level 19]: help
+[2021-04-14 09:21:20]: ***  [, Level 0]: '(1)coca' entered and joined the game
+[2021-04-14 09:21:22]: cookie [, Level 19]: help me please
+[2021-04-14 09:21:27]: ***  [, Level 0]: '(1)coca' has left the game
+[2021-04-14 09:21:29]: SanoreX [Chilli.*, Level 27]: ERROR: why u block me
