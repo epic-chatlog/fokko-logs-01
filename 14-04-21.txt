@@ -3715,3 +3715,4 @@
 [2021-04-14 04:12:09]: Kezo [DogParty, Level 41]: 1: yok
 [2021-04-14 04:12:15]: 1 [, Level 17]: noob
 [2021-04-14 04:12:23]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 29.50 second(s)
+[2021-04-14 04:12:39]: [D] El patron [, Level 24]: xd
