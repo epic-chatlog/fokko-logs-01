@@ -8432,3 +8432,5 @@
 [2021-04-14 10:48:05]: ***  [, Level 0]: '[D] peS' has left the game (Timeout)
 [2021-04-14 10:48:06]: Taip [VergleriSay, Level 19]: holly shit
 [2021-04-14 10:48:14]: Taip [VergleriSay, Level 19]: i buy police 5min later
+[2021-04-14 10:48:18]: Swarfey [FookinLads, Level 42]: ERROR: was? xd
+[2021-04-14 10:48:18]: ***  [, Level 0]: 'vollesprit' entered and joined the game
