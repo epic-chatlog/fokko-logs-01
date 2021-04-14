@@ -5774,3 +5774,6 @@
 [2021-04-14 06:48:03]: kiøn1029 [.bad, Level 25]: igen
 [2021-04-14 06:48:15]:   [, Level 0]: Boti.: kezo
 [2021-04-14 06:48:19]:   [, Level 0]: Tziys*: Boti.: cuz boti
+[2021-04-14 06:48:22]: kiøn1029 [.bad, Level 25]: még ő is
+[2021-04-14 06:48:29]:   [, Level 0]: Tziys*: Boti.: for who
+[2021-04-14 06:48:29]: Taip [VergleriSay, Level 17]: who have jetpack
