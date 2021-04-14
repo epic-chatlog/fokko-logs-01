@@ -7921,3 +7921,4 @@
 [2021-04-14 09:54:36]: ***  [, Level 0]: 'Tixnix' has left the game (Timeout)
 [2021-04-14 09:54:37]: ***  [, Level 0]: '[D] SwiatoslaW' entered and joined the game
 [2021-04-14 09:54:39]: Swarfey [FookinLads, Level 42]: hey :D
+[2021-04-14 09:55:01]: (1)☺ [, Level 12]: je bug*
