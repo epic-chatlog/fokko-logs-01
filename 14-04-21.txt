@@ -10039,3 +10039,8 @@
 [2021-04-14 12:22:43]: ***  [, Level 0]: 'Saud' entered and joined the game
 [2021-04-14 12:22:48]: Slvry_ [???, Level 36]: Axel: war?
 [2021-04-14 12:22:49]: ***  [, Level 0]: 'Falco641' has left the game
+[2021-04-14 12:22:56]: Slvry_ [???, Level 36]: Axel: wrong decision boi
+[2021-04-14 12:22:59]: (1)Sayme [, Level 0]: Axandos: everything all right?
+[2021-04-14 12:23:04]: Slvry_ [???, Level 36]: bob: wie kann man nur so stur sein?
+[2021-04-14 12:23:05]: Slvry_ [???, Level 36]: sad
+[2021-04-14 12:23:05]:   [, Level 0]: Axandos²: Sayme:  nop i lag
