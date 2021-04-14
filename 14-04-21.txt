@@ -9319,3 +9319,4 @@
 [2021-04-14 11:41:13]: ***  [, Level 0]: 'Flipper' entered and joined the game
 [2021-04-14 11:41:16]: ***  [, Level 0]: 'Orwined' finished the special race!
 [2021-04-14 11:41:17]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-14 11:41:22]: ***  [, Level 0]: 'S Y T H N' has left the game
