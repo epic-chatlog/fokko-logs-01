@@ -7239,3 +7239,5 @@
 [2021-04-14 08:36:20]: ***  [, Level 0]: 'flappy.*' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-14 08:36:23]: hhh3 [, Level 48]: bob: stop tocuh me and him
 [2021-04-14 08:36:25]: Matiteusz [TrRShClNrRs, Level 36]: bob: bob will not kill me
+[2021-04-14 08:36:32]: nobody [, Level 44]: bob: why reset xd
+[2021-04-14 08:36:34]: Matiteusz [TrRShClNrRs, Level 36]: bob: fake one
