@@ -7677,3 +7677,7 @@
 [2021-04-14 09:26:26]: Zephir™ [, Level 40]: (1)☺: car c'est mon pote ? xD
 [2021-04-14 09:26:30]: ***  [, Level 0]: '[D] Emilcha' entered and joined the game
 [2021-04-14 09:26:33]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-14 09:26:37]: (1)☺ [, Level 12]: alors quon a rien fai*t
+[2021-04-14 09:26:39]: ***  [, Level 0]: '(1)ERROR' has left the game (Timeout)
+[2021-04-14 09:26:40]: Zephir™ [, Level 40]: (1)☺: peut-être pour rire
+[2021-04-14 09:26:43]: SanoreX [Chilli.*, Level 27]: Zephir™:
