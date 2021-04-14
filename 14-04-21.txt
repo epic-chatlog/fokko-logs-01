@@ -7573,3 +7573,7 @@
 [2021-04-14 09:17:06]: SanoreX [Chilli.*, Level 27]: Good man: spec me help
 [2021-04-14 09:17:41]: Lucas [THECEPS, Level 35]: coca: wait
 [2021-04-14 09:17:42]: ***  [, Level 0]: Lucas's killing spree was ended by Emilcha (5 blocks)
+[2021-04-14 09:18:09]: ***  [, Level 0]: (1)Cosmo finished in: 1 minute(s) 27.28 second(s)
+[2021-04-14 09:18:09]: ***  [, Level 0]: New record: 59.62 second(s) better.
+[2021-04-14 09:18:11]: Good man [Drunks, Level 30]: Lucas: go
+[2021-04-14 09:18:16]: SanoreX [Chilli.*, Level 27]: ERROR: spec me help
