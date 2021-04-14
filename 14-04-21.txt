@@ -4706,3 +4706,5 @@
 [2021-04-14 05:27:12]: ***  [, Level 0]: 'Jr no game' entered and joined the game
 [2021-04-14 05:27:15]: SanoreX.* [Chilli.*, Level 22]: wait
 [2021-04-14 05:27:16]: ReXi [, Level 0]: Axandos: was war das?
+[2021-04-14 05:27:24]: ***  [, Level 0]: 'bafi' entered and joined the game
+[2021-04-14 05:27:27]: ***  [, Level 0]: 'Jr no game' has left the game
