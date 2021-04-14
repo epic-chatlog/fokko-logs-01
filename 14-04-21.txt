@@ -9786,3 +9786,6 @@
 [2021-04-14 12:09:11]: Flipper [, Level 16]: cassrole
 [2021-04-14 12:09:13]: Flipper [, Level 16]: cassrole <
 [2021-04-14 12:09:14]: ***  [, Level 0]: 'Tierkus' entered and joined the game
+[2021-04-14 12:09:22]: Tziys* [DogParty, Level 39]: HardreenClutch: hello
+[2021-04-14 12:09:24]: ***  [, Level 0]: 'El patron' entered and joined the game
+[2021-04-14 12:09:26]: Falco642 [, Level 3]: vollesprit: you probably have encountered the player "flappy" right?
