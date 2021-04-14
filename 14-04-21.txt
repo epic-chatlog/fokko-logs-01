@@ -433,3 +433,5 @@
 [2021-04-14 01:02:45]: 1 [, Level 16]: falkenauge:  who
 [2021-04-14 01:02:53]: Kahve [, Level 23]: WarHammer: bu sunucunun vdssine yapılıyo
 [2021-04-14 01:02:58]: WarHammer [DogParty, Level 26]: hmm
+[2021-04-14 01:03:23]: Lucas [THECEPS, Level 35]: Soros: el champeon don't push that button
+[2021-04-14 01:03:26]: ***  [, Level 0]: [D] falkenauge is on a killing spree with 15 blocks
