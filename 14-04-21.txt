@@ -8426,3 +8426,5 @@
 [2021-04-14 10:46:54]: (1)BLACK [, Level 20]: stack
 [2021-04-14 10:46:54]: ***  [, Level 0]: 'ERROR.' entered and joined the game
 [2021-04-14 10:47:06]: (1)BLACK [, Level 20]: Zephir™:  stack pls
+[2021-04-14 10:47:44]: casserole :p [, Level 19]: Zephir™:
+[2021-04-14 10:47:47]: ERROR. [404, Level 56]: Nudelsaft c::  damn die tees am pc sind so groß eh
