@@ -11622,3 +11622,5 @@
 [2021-04-14 15:03:13]: Flipper [, Level 7]: well
 [2021-04-14 15:03:14]: Flipper [, Level 7]: yea
 [2021-04-14 15:03:23]: Kirito [{TQuila}, Level 25]: Flipper: fucking talk in dc
+[2021-04-14 15:03:40]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
+[2021-04-14 15:03:44]: GODLIKe [, Level 44]: fokkonaut: hi
