@@ -14203,3 +14203,6 @@
 [2021-04-13 23:35:23]: #5 blocker [|*MorE*|, Level 24]: Intensiv: come hammerfly and help my dummy
 [2021-04-13 23:35:42]: İntensiv_ [CrazyNoobs, Level 0]: ım dummy you real İntensiv
 [2021-04-13 23:35:48]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-13 23:36:01]: ***  [, Level 0]: [D] Kahve finished in: 2 minute(s) 27.76 second(s)
+[2021-04-13 23:36:07]: ***  [, Level 0]: Kahve finished in: 2 minute(s) 21.44 second(s)
+[2021-04-13 23:36:09]: #5 blocker [|*MorE*|, Level 24]: my dummy
