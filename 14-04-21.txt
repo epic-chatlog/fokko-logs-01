@@ -6356,3 +6356,7 @@
 [2021-04-14 07:25:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-14 07:25:50]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-14 07:26:11]: ***  [, Level 0]: 'K!ked' entered and joined the game
+[2021-04-14 07:26:19]: Cylox. [{TQuila}, Level 0]: ff
+[2021-04-14 07:26:20]: Zʷʰʸˀ [NULL, Level 36]: Foxie♥: ?
+[2021-04-14 07:26:21]: Cylox. [{TQuila}, Level 0]: Foxie♥:
+[2021-04-14 07:26:25]: Cylox. [{TQuila}, Level 0]: Foxie♥: ? afk
