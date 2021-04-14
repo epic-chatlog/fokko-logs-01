@@ -324,3 +324,6 @@
 [2021-04-14 00:51:06]: comic [comically, Level 14]: penis
 [2021-04-14 00:51:18]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-14 00:51:21]: Lucas [THECEPS, Level 35]: comic: ?
+[2021-04-14 00:51:21]: ***  [, Level 0]: __init__(self):'s killing spree was ended by weqe (9 blocks)
+[2021-04-14 00:51:23]: comic [comically, Level 14]: lmfaoOoOo
+[2021-04-14 00:51:27]: ***  [, Level 0]: 1 finished in: 0 minute(s) 46.02 second(s)
