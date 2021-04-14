@@ -7637,3 +7637,4 @@
 [2021-04-14 09:24:04]: ERROR [404, Level 75]: xDD
 [2021-04-14 09:24:09]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-14 09:24:11]: coca [, Level 22]: Emilcha: you know my nicknam?lol you scared me
+[2021-04-14 09:24:23]: Swarfey [FookinLads, Level 42]: aaaaaa
