@@ -5206,3 +5206,4 @@
 [2021-04-14 06:06:55]: Kiøn1029 [.bad, Level 32]: írni meg nem tudok
 [2021-04-14 06:07:00]: ***  [, Level 0]: '[D] Random Guy' entered and joined the game
 [2021-04-14 06:07:01]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
+[2021-04-14 06:07:22]: ss [, Level 0]: 1 FPS LLOLO
