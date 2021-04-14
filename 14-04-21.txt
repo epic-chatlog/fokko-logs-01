@@ -11744,3 +11744,4 @@
 [2021-04-14 15:34:33]: ***  [, Level 0]: 'Intensiv___' left the minigame 'Instagib FNG'
 [2021-04-14 15:34:43]: ***  [, Level 0]: (3)Zʷʰʸˀ is on a killing spree with 10 blocks
 [2021-04-14 15:34:44]: ***  [, Level 0]: 'Intensiv___' joined the minigame 'Instagib Boom FNG', use '/boomfng' to join aswell
+[2021-04-14 15:34:55]: nobodyx [, Level 39]: fast nerf endless hook
