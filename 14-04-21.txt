@@ -263,3 +263,6 @@
 [2021-04-14 00:40:38]: Taip [VergleriSay, Level 0]: nah
 [2021-04-14 00:40:45]: comic [comically, Level 14]: ok well i deserve this
 [2021-04-14 00:40:48]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-14 00:41:12]: ***  [, Level 0]: '1' finished the special race!
+[2021-04-14 00:41:14]: ***  [, Level 0]: s6_sven finished in: 11 minute(s)  8.12 second(s)
+[2021-04-14 00:41:14]: ***  [, Level 0]: 's6_sven' finished the special race!
