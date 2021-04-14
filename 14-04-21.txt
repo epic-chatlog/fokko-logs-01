@@ -7705,3 +7705,4 @@
 [2021-04-14 09:29:13]: SanoreX [Chilli.*, Level 27]: Emilcha:
 [2021-04-14 09:29:24]: ***  [, Level 0]: 'Michel' entered and joined the game
 [2021-04-14 09:29:44]: [D] Emilcha [, Level 0]: Good man: run
+[2021-04-14 09:29:56]: Good man [Drunks, Level 30]: Lucas:
