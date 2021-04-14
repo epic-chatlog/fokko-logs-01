@@ -454,3 +454,9 @@
 [2021-04-14 01:05:20]: Kahve [, Level 23]: sorry but im lagger weqe
 [2021-04-14 01:05:39]: SnowCat [FookinLads, Level 30]: Matiteusz: eee
 [2021-04-14 01:05:43]: SnowCat [FookinLads, Level 30]: Matiteusz: chodz na góre
+[2021-04-14 01:05:47]: ***  [, Level 0]: 'Taip' entered and joined the game
+[2021-04-14 01:05:49]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-14 01:05:49]: ***  [, Level 0]: 'Adleg' entered and joined the game
+[2021-04-14 01:05:50]: Matiteusz [TrRShClNrRs, Level 36]: SnowCat: Kurwa kim ty jestes?
+[2021-04-14 01:05:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-14 01:05:56]: SnowCat [FookinLads, Level 30]: Matiteusz: keeper
