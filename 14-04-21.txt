@@ -3940,3 +3940,7 @@
 [2021-04-14 04:30:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-14 04:30:57]: ***  [, Level 0]: 184. Tziys* Time: 00:53.90, requested by Tziys*
 [2021-04-14 04:31:01]: Cylox [{TQuila}, Level 31]: aptal orspu elvaıd
+[2021-04-14 04:31:10]: 1 [, Level 17]: 5 BİN VERİYİM
+[2021-04-14 04:31:14]: ***  [, Level 0]: 'casserole :p' entered and joined the game
+[2021-04-14 04:31:15]: Cylox [{TQuila}, Level 31]: hayır
+[2021-04-14 04:31:20]: 1 [, Level 17]: 10
