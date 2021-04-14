@@ -6314,3 +6314,5 @@
 [2021-04-14 07:22:54]: Foxi♥ [{TQuila}, Level 0]: Cylox.: dont help them
 [2021-04-14 07:22:58]: Cylox. [{TQuila}, Level 0]: y
 [2021-04-14 07:22:59]: Cylox. [{TQuila}, Level 0]: ok
+[2021-04-14 07:23:03]: ***  [, Level 0]: 'hhh3' has left the game
+[2021-04-14 07:23:03]: Flupper [, Level 0]: cylox?
