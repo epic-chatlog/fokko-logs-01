@@ -4181,3 +4181,7 @@
 [2021-04-14 04:54:51]: ***  [, Level 0]: 'MOM' has left the game
 [2021-04-14 04:54:52]: CKA3A4NIK[NR] [Night Raid, Level 35]: coca:  <<
 [2021-04-14 04:54:57]: CKA3A4NIK[NR] [Night Raid, Level 35]: 1
+[2021-04-14 04:54:58]: CKA3A4NIK[NR] [Night Raid, Level 35]: 2
+[2021-04-14 04:55:05]: CKA3A4NIK[NR] [Night Raid, Level 35]: El patron:  sorry peace >
+[2021-04-14 04:55:06]: nobodyx [, Level 39]: sun.slow(y): ı have 70 ping :c
+[2021-04-14 04:55:07]: coca [, Level 22]: El patron:  sorry i dont known
