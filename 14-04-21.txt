@@ -2515,3 +2515,6 @@
 [2021-04-14 03:00:49]: SanoreX [Chilli.*, Level 27]: 1tile right?
 [2021-04-14 03:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-14 03:00:51]: Matiteusz [TrRShClNrRs, Level 36]: Isegrin: jumpy sie skonczyly
+[2021-04-14 03:00:58]: (1)ReXi [, Level 0]: Nightmare: <3<3<3<3<3<
+[2021-04-14 03:01:04]: Nightmare. [, Level 0]: (1)ReXi: 1 dummy is at spawn
+[2021-04-14 03:01:05]: Axandos² [, Level 20]: xD
