@@ -7161,3 +7161,8 @@
 [2021-04-14 08:32:13]: Matiteusz [TrRShClNrRs, Level 36]: bob: aaaaaaaa?
 [2021-04-14 08:32:19]: bob [669, Level 36]: ddrace
 [2021-04-14 08:32:21]: Matiteusz [TrRShClNrRs, Level 36]: bob: aaaaaaaaaaaaaaaaaa?
+[2021-04-14 08:32:23]: Matiteusz [TrRShClNrRs, Level 36]: bob: no
+[2021-04-14 08:32:27]: MOM [, Level 0]: [D] El patron: i guess you are a 15 year old kid who live at his parents house
+[2021-04-14 08:32:28]: Matiteusz [TrRShClNrRs, Level 36]: bob: fake
+[2021-04-14 08:32:33]: bob [669, Level 36]: Matiteusz: XD gores
+[2021-04-14 08:32:34]: MOM [, Level 0]: [D] El patron: and you did not achieve anything yet
