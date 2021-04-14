@@ -7687,3 +7687,5 @@
 [2021-04-14 09:27:15]: cookie [, Level 19]: Good man:  i help you lol
 [2021-04-14 09:27:19]: ***  [, Level 0]: 'Tixnix' entered and joined the game
 [2021-04-14 09:27:28]: casserole :p [, Level 19]: Swarfey:
+[2021-04-14 09:27:42]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
+[2021-04-14 09:27:44]: casserole :p [, Level 19]: Nudelsaft c::
