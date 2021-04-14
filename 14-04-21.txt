@@ -9740,3 +9740,5 @@
 [2021-04-14 12:05:41]: vollesprit [, Level 0]: Falco642: come
 [2021-04-14 12:05:49]: vollesprit [, Level 0]: Falco642: let your dummy farm alone
 [2021-04-14 12:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-14 12:05:55]: Falco642 [, Level 3]: vollesprit: sorry i cant lol my wifi just suddenly went garbage and my ping is spiking 100-800
+[2021-04-14 12:06:06]: ***  [, Level 0]: '(1)' entered and joined the game
