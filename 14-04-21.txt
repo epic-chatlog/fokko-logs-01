@@ -7728,3 +7728,5 @@
 [2021-04-14 09:32:52]: ***  [, Level 0]: '(1)coca' has left the game
 [2021-04-14 09:32:58]: (1)☺ [, Level 12]: mais quel parcours Zephir™
 [2021-04-14 09:33:08]: Zephir™ [, Level 40]: (1)☺: jetpack
+[2021-04-14 09:33:14]: ***  [, Level 0]: '(1)cookie' entered and joined the game
+[2021-04-14 09:33:17]: (1)☺ [, Level 12]: ah ok Zephir™
