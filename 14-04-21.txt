@@ -1563,3 +1563,5 @@
 [2021-04-14 01:58:38]: ***  [, Level 0]: 'Kahve' entered and joined the game
 [2021-04-14 01:58:40]:   [, Level 0]: Kahve: qopıeupoeopuwıqejwoqıeojqowoğt
 [2021-04-14 01:58:43]:   [, Level 0]: Kahve: POQIWPEIQWPOIEOQWUEOWUQ
+[2021-04-14 01:58:47]: [D] mamikral011 [DogParty, Level 22]: kahve sende o göt yok
+[2021-04-14 01:58:55]: Boti. [.bad, Level 33]: nagyba fightolnak mi meg csak így itt vagyunk
