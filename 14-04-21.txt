@@ -3924,3 +3924,7 @@
 [2021-04-14 04:28:59]: ***  [, Level 0]: 'Hala Madrid' entered and joined the game
 [2021-04-14 04:29:00]: SanoreX [Chilli.*, Level 27]: fokkonaut:
 [2021-04-14 04:29:10]: nobodyx [, Level 39]: Hala Madrid: heyo
+[2021-04-14 04:29:17]: SanoreX [Chilli.*, Level 27]: fokkonaut:
+[2021-04-14 04:29:20]: SanoreX [Chilli.*, Level 27]: fOKKONAUT
+[2021-04-14 04:29:21]:   [, Level 0]: Hala Madrid: ah
+[2021-04-14 04:29:21]: SanoreX [Chilli.*, Level 27]: fokkonaut:
