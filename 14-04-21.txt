@@ -8029,3 +8029,6 @@
 [2021-04-14 10:08:59]: SanoreX [Chilli.*, Level 27]: stop ~DemoizL~
 [2021-04-14 10:09:02]: SanoreX [Chilli.*, Level 27]: [D] Emilcha: stop
 [2021-04-14 10:09:05]: ~DemoizL~ [, Level 39]: SanoreX: stop
+[2021-04-14 10:09:17]: Emilcha [, Level 38]: Nudelsaft c:: why ? x)
+[2021-04-14 10:09:19]: ***  [, Level 0]: 'Saud' has left the game
+[2021-04-14 10:09:21]: [D] mamikral011 [DogParty, Level 0]: soleri1: no help
