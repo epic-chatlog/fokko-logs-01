@@ -8334,3 +8334,8 @@
 [2021-04-14 10:41:05]: MaMi [DogParty, Level 27]: Falco642: war?
 [2021-04-14 10:41:08]: ***  [, Level 0]: peS finished in: 5 minute(s) 48.86 second(s)
 [2021-04-14 10:41:12]: ***  [, Level 0]: 'qKokzq' has left the game
+[2021-04-14 10:41:16]: ***  [, Level 0]: 'Flipper' entered and joined the game
+[2021-04-14 10:41:17]: ***  [, Level 0]: [D] peS finished in: 1 minute(s) 43.78 second(s)
+[2021-04-14 10:41:17]: ***  [, Level 0]: New record: 3 minute(s) 12.28 second(s) better.
+[2021-04-14 10:41:20]:   [, Level 0]: Flipper: gay
+[2021-04-14 10:41:21]:   [, Level 0]: Flipper: gayu
