@@ -5640,3 +5640,6 @@
 [2021-04-14 06:32:32]: No~Filter [, Level 0]: Kiøn1029: lehet lathatatlan nevet berakni tw-be?xd
 [2021-04-14 06:32:34]: [D] El patron [, Level 24]: Zephir™:  help xd
 [2021-04-14 06:32:37]: kiøn1029 [.bad, Level 25]: No~Filter: ja
+[2021-04-14 06:32:40]: No~Filter [, Level 0]: hogy
+[2021-04-14 06:32:45]: kiøn1029 [.bad, Level 25]: No~Filter: csak nem tom hogy kell
+[2021-04-14 06:32:49]: No~Filter [, Level 0]: XD!
