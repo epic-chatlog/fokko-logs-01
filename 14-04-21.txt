@@ -7587,3 +7587,5 @@
 [2021-04-14 09:19:03]: Good man [Drunks, Level 30]: El patron: FAST
 [2021-04-14 09:19:25]: El patron [, Level 30]: xd
 [2021-04-14 09:19:29]: El patron [, Level 30]: Emilcha:
+[2021-04-14 09:19:33]: cookie [, Level 19]: I like turtles.
+[2021-04-14 09:19:40]: SanoreX [Chilli.*, Level 27]: ERROR:
