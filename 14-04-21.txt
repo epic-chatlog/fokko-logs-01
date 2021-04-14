@@ -320,3 +320,5 @@
 [2021-04-14 00:50:45]: #5 blocker [|*MorE*|, Level 24]: Lucas: help
 [2021-04-14 00:50:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-14 00:50:53]: #5 blocker [|*MorE*|, Level 24]: Lucas: left
+[2021-04-14 00:50:59]: ***  [, Level 0]: 'NidardoHD' entered and joined the game
+[2021-04-14 00:51:06]: comic [comically, Level 14]: penis
