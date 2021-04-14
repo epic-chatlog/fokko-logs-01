@@ -4113,3 +4113,7 @@
 [2021-04-14 04:51:48]: rexi [, Level 0]: sun.slow(y):
 [2021-04-14 04:51:52]: CKA3A4NIK[NR] [Night Raid, Level 35]: TL|ŦƹƦ$ŦǾN:  успокойся!
 [2021-04-14 04:51:55]: SanoreX [Chilli.*, Level 27]: ama
+[2021-04-14 04:51:58]: SanoreX [Chilli.*, Level 27]: buraya geç
+[2021-04-14 04:52:04]: coca [, Level 22]: CKA3A4NIK[NR]: так что? кто я?
+[2021-04-14 04:52:05]: WarHammer' [DogParty, Level 0]: lag
+[2021-04-14 04:52:07]: SanoreX.* [Chilli.*, Level 22]: boyle
