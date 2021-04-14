@@ -13752,3 +13752,6 @@
 [2021-04-13 17:55:23]: ***  [, Level 0]: '(1)RM | Arin' has left the game
 [2021-04-13 17:55:30]: (1)☺ [, Level 12]: gg weqe
 [2021-04-13 17:55:41]: Zephir™ [, Level 39]: Kirito: gg
+[2021-04-13 17:55:48]: Zephir™ [, Level 39]: Kirito: i don't need to fight
+[2021-04-13 17:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-13 17:55:52]: Zephir™ [, Level 39]: I like turtles.
