@@ -4825,3 +4825,4 @@
 [2021-04-14 05:37:02]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-14 05:37:12]: SanoreX.* [Chilli.*, Level 22]: Zephir™: no
 [2021-04-14 05:37:13]: Axandos [, Level 26]: trick
+[2021-04-14 05:37:16]: SanoreX.* [Chilli.*, Level 22]: Zephir™: I just stack
