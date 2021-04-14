@@ -11624,3 +11624,6 @@
 [2021-04-14 15:03:23]: Kirito [{TQuila}, Level 25]: Flipper: fucking talk in dc
 [2021-04-14 15:03:40]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
 [2021-04-14 15:03:44]: GODLIKe [, Level 44]: fokkonaut: hi
+[2021-04-14 15:03:47]: fokkonaut [, Level 102]: hi
+[2021-04-14 15:03:47]: ***  [, Level 0]: 'neim' entered and joined the game
+[2021-04-14 15:03:56]: ***  [, Level 0]: 'neim' has left the game
