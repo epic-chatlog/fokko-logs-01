@@ -5659,3 +5659,6 @@
 [2021-04-14 06:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-14 06:35:59]: ***  [, Level 0]: '(1)Fearless' has left the game (Timeout Protection over)
 [2021-04-14 06:35:59]: ***  [, Level 0]: 'Fearless' has left the game (Timeout Protection over)
+[2021-04-14 06:36:10]: ***  [, Level 0]: 'ClemEntine' entered and joined the game
+[2021-04-14 06:36:13]:   [, Level 0]: ClemEntine: ЖОПСТИК Farrel 8
+[2021-04-14 06:36:13]:   [, Level 0]: kiøn1029: XD
