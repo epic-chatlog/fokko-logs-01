@@ -10270,3 +10270,7 @@
 [2021-04-14 12:31:45]: weqe [669, Level 12]: bob: ??
 [2021-04-14 12:31:47]: mamikral011 [DogParty, Level 22]: Kezo:
 [2021-04-14 12:31:49]: Slvry_ [???, Level 36]: weqe: ur sure?
+[2021-04-14 12:31:57]: Slvry_ [???, Level 36]: bob: immer noch bad xd
+[2021-04-14 12:31:57]: weqe [669, Level 12]: sure Slvry_
+[2021-04-14 12:32:03]: bob [669, Level 36]: weqe: ???
+[2021-04-14 12:32:07]: weqe [669, Level 12]: bob: what
