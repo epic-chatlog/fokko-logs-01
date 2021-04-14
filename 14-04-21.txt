@@ -8414,3 +8414,7 @@
 [2021-04-14 10:45:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-14 10:45:57]: S Y T H N [, Level 37]: ERROR hey
 [2021-04-14 10:45:59]: El patron [, Level 30]: peS: hej
+[2021-04-14 10:46:04]: MaMi [DogParty, Level 0]: ERROR: hi
+[2021-04-14 10:46:07]: ***  [, Level 0]: peS finished in: 4 minute(s) 53.18 second(s)
+[2021-04-14 10:46:07]: ***  [, Level 0]: 'peS' finished the special race!
+[2021-04-14 10:46:15]: ***  [, Level 0]: '[D] peS' finished the special race!
