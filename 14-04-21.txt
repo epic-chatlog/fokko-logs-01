@@ -11703,3 +11703,4 @@
 [2021-04-14 15:25:21]: GODLIKe [, Level 44]: AHAH
 [2021-04-14 15:25:29]: GODLIKe [, Level 44]: (2)Zʷʰʸˀ: gj stop pres
 [2021-04-14 15:25:30]: (3)Zʷʰʸˀ [NULL, Level 26]: wow so smart xD
+[2021-04-14 15:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
