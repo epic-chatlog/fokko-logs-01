@@ -7544,3 +7544,5 @@
 [2021-04-14 09:14:23]: Emilcha [, Level 38]: :MONEY
 [2021-04-14 09:14:24]: El patron [, Level 30]: coca:
 [2021-04-14 09:14:42]: ***  [, Level 0]: 'ölüm bekçisi' entered and joined the game
+[2021-04-14 09:14:46]: ***  [, Level 0]: 'kristalik25' joined the spectators
+[2021-04-14 09:14:53]: ***  [, Level 0]: 'kristalik25' joined the game
