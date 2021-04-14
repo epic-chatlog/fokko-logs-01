@@ -1981,3 +1981,4 @@
 [2021-04-14 02:23:49]: ***  [, Level 0]: '(1)Bananarama' entered and joined the game
 [2021-04-14 02:23:49]: Fearless [, Level 40]: go ahead check my stats
 [2021-04-14 02:23:59]: ***  [, Level 0]: 'haya' has left the game
+[2021-04-14 02:24:17]: ***  [, Level 0]: '(1)[D] Bananaram' entered and joined the game
