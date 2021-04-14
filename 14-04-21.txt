@@ -2129,3 +2129,7 @@
 [2021-04-14 02:35:15]: SanoreX [Chilli.*, Level 27]: NUDELSAFT :C
 [2021-04-14 02:35:19]: SanoreX [Chilli.*, Level 27]: NUDELSAFT c:
 [2021-04-14 02:35:28]: Nudelsaft c: [FookinLads, Level 42]: ?
+[2021-04-14 02:35:33]: ***  [, Level 0]: [D] #5 blocker is on a killing spree with 5 blocks
+[2021-04-14 02:35:35]: ***  [, Level 0]: '(1)İntensiv_' entered and joined the game
+[2021-04-14 02:35:37]: SanoreX [Chilli.*, Level 27]: Nudelsaft c:: pls come my plot and stack tees
+[2021-04-14 02:35:40]: ***  [, Level 0]: '(1)İntensiv_' has left the game
