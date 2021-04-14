@@ -8243,3 +8243,5 @@
 [2021-04-14 10:26:13]: Falco642 [, Level 0]: aaaaaaaa
 [2021-04-14 10:26:25]: soleri1 [, Level 23]: Taip:
 [2021-04-14 10:26:26]: Emilcha [, Level 38]: war
+[2021-04-14 10:26:37]: ***  [, Level 0]: 'Guthaben' entered and joined the game
+[2021-04-14 10:26:40]: Lucas [THECEPS, Level 35]: soleri1:
