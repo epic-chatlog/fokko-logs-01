@@ -10447,3 +10447,7 @@
 [2021-04-14 12:45:01]: ***  [, Level 0]: 'Kirito' entered and joined the game
 [2021-04-14 12:45:03]: cookie [, Level 20]: GODLIKe:  wtf dude
 [2021-04-14 12:45:05]:   [, Level 0]: GODLIKe: cookie: why not
+[2021-04-14 12:45:19]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-14 12:45:19]: ***  [, Level 0]: 'Cylox.' has left the game
+[2021-04-14 12:45:20]: ***  [, Level 0]: 'ghfdjxc' has left the game
+[2021-04-14 12:45:27]: cookie [, Level 20]: GODLIKe:  bcs its funt to stay a life
