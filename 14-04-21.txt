@@ -11725,3 +11725,4 @@
 [2021-04-14 15:30:08]: nobodyx [, Level 39]: (2)Zʷʰʸˀ: press 5
 [2021-04-14 15:30:17]: nobodyx [, Level 39]: QWKEĞL
 [2021-04-14 15:30:18]: nobodyx [, Level 39]: KQWPELĞÜQWELWQ
+[2021-04-14 15:30:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
