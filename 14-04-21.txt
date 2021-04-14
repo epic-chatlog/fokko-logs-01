@@ -8412,3 +8412,5 @@
 [2021-04-14 10:45:41]: ***  [, Level 0]: 'ghfdjxc' entered and joined the game
 [2021-04-14 10:45:46]: ***  [, Level 0]: 'ERROR' entered and joined the game
 [2021-04-14 10:45:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-14 10:45:57]: S Y T H N [, Level 37]: ERROR hey
+[2021-04-14 10:45:59]: El patron [, Level 30]: peS: hej
