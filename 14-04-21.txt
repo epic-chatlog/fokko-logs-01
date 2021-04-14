@@ -120,3 +120,4 @@
 [2021-04-14 00:20:40]: s6_sven [, Level 21]: SkyForge:
 [2021-04-14 00:20:42]: s6_sven [, Level 21]: why
 [2021-04-14 00:20:48]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-14 00:20:58]: ***  [, Level 0]: 'Boti.' has left the game
