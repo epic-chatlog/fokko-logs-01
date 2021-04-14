@@ -6406,3 +6406,5 @@
 [2021-04-14 07:29:05]: El patron [, Level 29]: Lucas: ez
 [2021-04-14 07:29:07]: Lucas [THECEPS, Level 0]: El patron: i hate you
 [2021-04-14 07:29:09]: WarHammer [DogParty, Level 26]: 1:  İZLE ŞİMDİ
+[2021-04-14 07:29:24]: El patron [, Level 29]: Lucas:  i love you
+[2021-04-14 07:29:26]: Lucas [THECEPS, Level 0]: El patron: i'm jumping from ping 20 to 900 ofcourse it's ez
