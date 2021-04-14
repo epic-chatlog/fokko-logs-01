@@ -9834,3 +9834,5 @@
 [2021-04-14 12:12:00]:   [, Level 0]: Slvry_: PANZELKOWY: help
 [2021-04-14 12:12:00]: Sayme [, Level 3]: vollesprit: what did u mean?
 [2021-04-14 12:12:13]: Taip [VergleriSay, Level 19]: nobody why hey
+[2021-04-14 12:12:21]: Taip [VergleriSay, Level 19]: why
+[2021-04-14 12:12:31]: ***  [, Level 0]: 'Tierkus' entered and joined the game
