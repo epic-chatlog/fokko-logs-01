@@ -8393,3 +8393,11 @@
 [2021-04-14 10:44:48]: S Y T H N [, Level 37]: Swarfey: doch
 [2021-04-14 10:45:01]: ***  [, Level 0]: 'mamikral011' entered and joined the game
 [2021-04-14 10:45:01]: Swarfey [FookinLads, Level 42]: nein
+[2021-04-14 10:45:04]: bob [669, Level 36]: Zephir™: u boring
+[2021-04-14 10:45:05]: S Y T H N [, Level 37]: Swarfey: doch :D
+[2021-04-14 10:45:06]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-14 10:45:08]: ***  [, Level 0]: '(2)soleri1' has left the game
+[2021-04-14 10:45:11]: Zephir™ [, Level 40]: rq
+[2021-04-14 10:45:12]: ***  [, Level 0]: 'MaMi' entered and joined the game
+[2021-04-14 10:45:13]: Emilcha [, Level 38]: rq
+[2021-04-14 10:45:15]: ***  [, Level 0]: ### 'Emilcha' kappa
