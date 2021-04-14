@@ -12057,3 +12057,4 @@
 [2021-04-14 16:35:05]: (1)Kirito [, Level 40]: stupid
 [2021-04-14 16:35:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-14 16:35:56]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-14 16:37:07]: (1)Kirito [, Level 40]: Flipper: so bad ...
