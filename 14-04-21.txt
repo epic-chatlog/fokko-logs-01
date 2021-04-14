@@ -1810,3 +1810,6 @@
 [2021-04-14 02:12:02]: vollesprit [, Level 0]: eh mademoisellle
 [2021-04-14 02:12:05]: (1)Cylox [, Level 0]: 3
 [2021-04-14 02:12:10]: ***  [, Level 0]: 1 finished in: 1 minute(s) 21.84 second(s)
+[2021-04-14 02:12:18]: Kahve [, Level 23]: kazanırsan açıyorum .d
+[2021-04-14 02:12:23]: vollesprit [, Level 0]: yolo
+[2021-04-14 02:12:26]:   [, Level 0]: ~DemoizL~: hey
