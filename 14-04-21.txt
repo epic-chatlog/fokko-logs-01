@@ -8001,3 +8001,5 @@
 [2021-04-14 10:07:06]: BLACK [, Level 25]: SanoreX:  stop
 [2021-04-14 10:07:12]: SanoreX [Chilli.*, Level 27]: BLACK: I dont
 [2021-04-14 10:07:12]: Lucas [THECEPS, Level 35]: Emilcha: ore whatever we have
+[2021-04-14 10:07:19]: Emilcha [, Level 38]: Lucas: ??
+[2021-04-14 10:07:24]: BLACK [, Level 25]: yes u will SanoreX
