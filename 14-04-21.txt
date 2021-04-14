@@ -3555,3 +3555,6 @@
 [2021-04-14 03:55:50]: ***  [, Level 0]: '(1)1' finished the special race!
 [2021-04-14 03:55:50]:   [, Level 0]: K!ked: <3
 [2021-04-14 03:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-14 03:55:59]: Meetiteusz [TrRShClNrRs, Level 27]: K!ked: you started lmfao
+[2021-04-14 03:56:02]: SanoreX [Chilli.*, Level 27]: Zephir™: COME PLOT 11 PLS DUDE
+[2021-04-14 03:56:03]: [D] El patron [, Level 24]: xd
