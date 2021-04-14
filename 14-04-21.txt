@@ -12161,3 +12161,4 @@
 [2021-04-14 16:55:17]: (1)Kirito [, Level 40]: xDDD
 [2021-04-14 16:55:20]: (1)Kirito [, Level 40]: als ob
 [2021-04-14 16:55:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-14 16:56:06]: sun.slow(y) [FookinLads, Level 35]: Kirito: xd
