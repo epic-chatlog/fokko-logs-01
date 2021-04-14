@@ -14070,3 +14070,8 @@
 [2021-04-13 18:45:31]: Zʷʰʸˀ [NULL, Level 36]: i go too
 [2021-04-13 18:45:35]: Zʷʰʸˀ [NULL, Level 36]: bye :D
 [2021-04-13 18:45:37]: (1)☺ [, Level 12]: bye Zʷʰʸˀ
+[2021-04-13 18:45:43]: Zephir™ [, Level 39]: byeeee :D
+[2021-04-13 18:45:49]: ***  [, Level 0]: 'Zʷʰʸˀ' has left the game
+[2021-04-13 18:45:49]: ***  [, Level 0]: '(1)Zʷʰʸˀ' has left the game
+[2021-04-13 18:45:49]: (1)☺ [, Level 12]: :D
+[2021-04-13 18:45:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
