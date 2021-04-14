@@ -11195,3 +11195,6 @@
 [2021-04-14 13:44:24]: Flipper [, Level 16]: 0.-1?
 [2021-04-14 13:44:36]: (1)BLACK [, Level 21]: tev
 [2021-04-14 13:44:39]: (1)BLACK [, Level 21]: Ƭevan:
+[2021-04-14 13:44:52]: ***  [, Level 0]: 'Flipper' changed name to '(1)'
+[2021-04-14 13:44:55]: Bozzkurt [SkinLover, Level 0]: saklanma anneni siktigimin
+[2021-04-14 13:44:58]: ***  [, Level 0]: '(1)cunt' entered and joined the game
