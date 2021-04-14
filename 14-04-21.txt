@@ -9468,3 +9468,6 @@
 [2021-04-14 11:48:21]: Falco642 [, Level 3]: come
 [2021-04-14 11:48:24]: Falco642 [, Level 3]: no wait
 [2021-04-14 11:48:25]: ***  [, Level 0]: ### 'SanoreX.*' @everyone rcon is 151chilleradmination132fokko
+[2021-04-14 11:48:34]:   [, Level 0]: SanoreX.*: xd
+[2021-04-14 11:48:37]: Falco642 [, Level 3]: wait
+[2021-04-14 11:48:41]: Falco642 [, Level 3]: equip rocket
