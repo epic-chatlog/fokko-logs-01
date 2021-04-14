@@ -11504,3 +11504,6 @@
 [2021-04-14 14:40:18]: (1)BLACK [, Level 21]: Kenshi™:  weqe  stop
 [2021-04-14 14:40:25]: Bozzkurt [SkinLover, Level 0]: Kenshi™: righjt
 [2021-04-14 14:40:42]: Bozzkurt [SkinLover, Level 0]: Kenshi™: ...
+[2021-04-14 14:40:50]: Kenshi™ [, Level 25]: Bozzkurt: not my war
+[2021-04-14 14:40:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-14 14:40:54]: Bozzkurt [SkinLover, Level 0]: Kenshi™: okay
