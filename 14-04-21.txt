@@ -8423,3 +8423,5 @@
 [2021-04-14 10:46:49]: (1)BLACK [, Level 20]: Nudelsaft c::  portal?
 [2021-04-14 10:46:51]: ***  [, Level 0]: 'Michel' has left the game
 [2021-04-14 10:46:51]: ***  [, Level 0]: 'UOYKCUFI' has left the game
+[2021-04-14 10:46:54]: (1)BLACK [, Level 20]: stack
+[2021-04-14 10:46:54]: ***  [, Level 0]: 'ERROR.' entered and joined the game
