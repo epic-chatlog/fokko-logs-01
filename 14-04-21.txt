@@ -8882,3 +8882,4 @@
 [2021-04-14 11:17:01]: ***  [, Level 0]: 'vollesprit' entered and joined the game
 [2021-04-14 11:17:02]: upsahls_X [iPro ♡, Level 38]: isnane
 [2021-04-14 11:17:03]: Flipper [, Level 16]: EDGE
+[2021-04-14 11:17:13]: ***  [, Level 0]: 'Cylox' has left the game
