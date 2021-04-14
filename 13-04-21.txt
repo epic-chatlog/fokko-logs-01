@@ -14089,3 +14089,6 @@
 [2021-04-13 18:47:01]: Zephir™ [, Level 39]: ☺: tkt
 [2021-04-13 18:47:05]: (1)☺ [, Level 12]: bon bye
 [2021-04-13 18:47:09]: Zephir™ [, Level 39]: bye ! ^^
+[2021-04-13 18:47:17]: ☺ [, Level 19]: sa fais plaisir
+[2021-04-13 18:47:23]: Zephir™ [, Level 39]: ouaip xD
+[2021-04-13 18:47:29]: ☺ [, Level 19]: bye a demain
