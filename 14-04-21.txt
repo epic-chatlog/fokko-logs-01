@@ -8316,3 +8316,4 @@
 [2021-04-14 10:35:20]: ***  [, Level 0]: '[D] peS' entered and joined the game
 [2021-04-14 10:35:48]: coffee [SkinLover, Level 0]: peS: r u pe$etas?
 [2021-04-14 10:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-14 10:36:01]: Falco642 [, Level 0]: El patron:
