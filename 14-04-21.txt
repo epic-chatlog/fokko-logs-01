@@ -5139,3 +5139,5 @@
 [2021-04-14 06:01:14]: ***  [, Level 0]: '[D] ERROR' entered and joined the game
 [2021-04-14 06:01:21]: ***  [, Level 0]: '[D] ERROR' has left the game
 [2021-04-14 06:01:27]: [D] El patron [, Level 24]: dream wake up
+[2021-04-14 06:01:32]: Kiøn1029 [.bad, Level 32]: autista vagy Cosmo
+[2021-04-14 06:01:39]: Random Guy [, Level 0]: Axandos²: OH NO
