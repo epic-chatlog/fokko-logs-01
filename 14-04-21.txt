@@ -1172,3 +1172,5 @@
 [2021-04-14 01:42:53]: [D] mamikral011 [DogParty, Level 22]: El patron: ?
 [2021-04-14 01:42:58]: [D] El patron [, Level 24]: mamikral011: you are full bonus gayą
 [2021-04-14 01:43:02]: ***  [, Level 0]: Ogrodnik9103 is on a killing spree with 5 blocks
+[2021-04-14 01:43:07]: [D] #5 blocker [|*MorE*|, Level 0]: ?
+[2021-04-14 01:43:12]: ***  [, Level 0]: Ogrodnik9103's killing spree was ended by Soros (5 blocks)
