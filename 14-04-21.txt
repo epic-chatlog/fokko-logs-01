@@ -6444,3 +6444,6 @@
 [2021-04-14 07:32:24]: ***  [, Level 0]: 'LeagueOfsl' entered and joined the game
 [2021-04-14 07:32:40]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
 [2021-04-14 07:32:50]: Foxie♥ [{TQuila}, Level 36]: Matiteusz: gj
+[2021-04-14 07:32:53]: ***  [, Level 0]: 'zZzerayI' entered and joined the game
+[2021-04-14 07:32:54]: Matiteusz [TrRShClNrRs, Level 36]: Foxie♥: gaga
+[2021-04-14 07:32:58]: ***  [, Level 0]: 'zZz' entered and joined the game
