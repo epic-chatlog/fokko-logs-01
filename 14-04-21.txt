@@ -1309,3 +1309,8 @@
 [2021-04-14 01:47:37]: ***  [, Level 0]: [D] mamikral011 is on a killing spree with 5 blocks
 [2021-04-14 01:47:37]: Lucas [THECEPS, Level 35]: El patron: ?
 [2021-04-14 01:47:38]: ***  [, Level 0]: 'igorejro17' entered and joined the game
+[2021-04-14 01:47:55]: ***  [, Level 0]: 'igorejro17' has left the game
+[2021-04-14 01:47:57]: ***  [, Level 0]: 'igorejro17' entered and joined the game
+[2021-04-14 01:47:58]: SanoreX [Chilli.*, Level 27]: [D] Kahve: gel plotuma bak
+[2021-04-14 01:48:01]: Boti. [.bad, Level 33]: van e valakinek valamilyen kérdése
+[2021-04-14 01:48:03]: Boti. [.bad, Level 33]: és full csönd
