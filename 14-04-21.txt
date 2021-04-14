@@ -7418,3 +7418,8 @@
 [2021-04-14 08:57:38]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
 [2021-04-14 08:57:41]: coca [, Level 22]: ES: 100 k for peace
 [2021-04-14 08:57:46]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
+[2021-04-14 08:57:53]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
+[2021-04-14 08:57:57]: ChillerDragon.* [|*KoG*|, Level 0]: a
+[2021-04-14 08:57:57]: El patron [, Level 30]: coca: xd
+[2021-04-14 08:57:58]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
+[2021-04-14 08:58:00]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
