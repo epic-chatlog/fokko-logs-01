@@ -9471,3 +9471,5 @@
 [2021-04-14 11:48:34]:   [, Level 0]: SanoreX.*: xd
 [2021-04-14 11:48:37]: Falco642 [, Level 3]: wait
 [2021-04-14 11:48:41]: Falco642 [, Level 3]: equip rocket
+[2021-04-14 11:48:46]: Falco642 [, Level 3]: vollesprit:
+[2021-04-14 11:48:50]: Falco642 [, Level 3]: come
