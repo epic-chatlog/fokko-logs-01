@@ -7654,3 +7654,10 @@
 [2021-04-14 09:25:12]: Nudelsaft c: [FookinLads, Level 60]: xD
 [2021-04-14 09:25:15]: ERROR. [404, Level 56]: BB
 [2021-04-14 09:25:17]: Swarfey [FookinLads, Level 42]: bb
+[2021-04-14 09:25:23]: Swarfey [FookinLads, Level 42]: guck mal
+[2021-04-14 09:25:23]: ***  [, Level 0]: 'ERROR.' has left the game
+[2021-04-14 09:25:23]: ***  [, Level 0]: 'ERROR' has left the game
+[2021-04-14 09:25:25]: ***  [, Level 0]: 'Cylox.' entered and joined the game
+[2021-04-14 09:25:28]: Swarfey [FookinLads, Level 42]: dann nicht
+[2021-04-14 09:25:29]: ***  [, Level 0]: 'Cylox.' has left the game
+[2021-04-14 09:25:29]: SanoreX [Chilli.*, Level 27]: Swarfey: help rigjt
