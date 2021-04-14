@@ -7875,3 +7875,5 @@
 [2021-04-14 09:50:05]: vollesprit [, Level 0]: ~DemoizL~: et j'ai stocké 1 euro lol
 [2021-04-14 09:50:15]: vollesprit [, Level 0]: ~DemoizL~: on peut faire quoi avec cet argent ?
 [2021-04-14 09:50:32]: Emilcha [, Level 38]: Meetiteusz: why u go ghost
+[2021-04-14 09:50:39]: ~DemoizL~ [, Level 39]: vollesprit: tu pourras acheter des trucs cool
+[2021-04-14 09:50:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
