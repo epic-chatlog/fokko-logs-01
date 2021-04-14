@@ -3213,3 +3213,6 @@
 [2021-04-14 03:33:56]: SanoreX.* [Chilli.*, Level 22]: error
 [2021-04-14 03:34:02]: SanoreX.* [Chilli.*, Level 22]: error u see my message now?
 [2021-04-14 03:34:02]: ***  [, Level 0]: 'Intensiv_' has left the game
+[2021-04-14 03:34:09]: SanoreX.* [Chilli.*, Level 22]: DiscordBridge: ERROR u see my message?
+[2021-04-14 03:34:14]: Axandos [, Level 26]: Nudelsaft c::  musste in 10 minuten geschichte machen xD
+[2021-04-14 03:34:14]: ***  [, Level 0]: '(1)1' entered and joined the game
