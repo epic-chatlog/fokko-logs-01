@@ -1982,3 +1982,7 @@
 [2021-04-14 02:23:49]: Fearless [, Level 40]: go ahead check my stats
 [2021-04-14 02:23:59]: ***  [, Level 0]: 'haya' has left the game
 [2021-04-14 02:24:17]: ***  [, Level 0]: '(1)[D] Bananaram' entered and joined the game
+[2021-04-14 02:24:29]: Kiøn1029 [.bad, Level 32]: he
+[2021-04-14 02:24:30]: ***  [, Level 0]: '(1)Fearless' has left the game
+[2021-04-14 02:24:32]: ***  [, Level 0]: '(1)Fearless' entered and joined the game
+[2021-04-14 02:24:33]: SnowCat [BC, Level 30]: Fearless: xD
