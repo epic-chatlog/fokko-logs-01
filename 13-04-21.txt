@@ -14051,3 +14051,5 @@
 [2021-04-13 18:43:12]: (1)☺ [, Level 12]: dsl
 [2021-04-13 18:43:23]: Kirito [{TQuila}, Level 40]: ☺ english is shit?
 [2021-04-13 18:43:23]: (1)☺ [, Level 12]: XDDDDD
+[2021-04-13 18:43:50]: ***  [, Level 0]: '(1)Kirito' has left the game
+[2021-04-13 18:43:50]: ***  [, Level 0]: 'Kirito' has left the game
