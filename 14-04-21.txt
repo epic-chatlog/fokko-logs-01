@@ -6101,3 +6101,12 @@
 [2021-04-14 07:06:45]: El patron [, Level 29]: xd
 [2021-04-14 07:06:49]: [D] Boti. [.bad, Level 33]: kion kliens
 [2021-04-14 07:06:52]: Kiøn1029 [.bad, Level 32]: igen
+[2021-04-14 07:06:58]: Kiøn1029 [.bad, Level 32]: csináltam egyet
+[2021-04-14 07:07:00]: MOM [, Level 0]: kezo
+[2021-04-14 07:07:01]: ***  [, Level 0]: '(1)Cosmo' entered and joined the game
+[2021-04-14 07:07:04]: ***  [, Level 0]: '(2)Kirito' has left the game (Timeout)
+[2021-04-14 07:07:04]: ***  [, Level 0]: '(3)Kirito' has left the game (Timeout)
+[2021-04-14 07:07:04]: ***  [, Level 0]: 'Kirito' has left the game (Timeout)
+[2021-04-14 07:07:04]: ***  [, Level 0]: '(1)Kirito' has left the game (Timeout)
+[2021-04-14 07:07:05]: [D] Boti. [.bad, Level 33]: allthehax
+[2021-04-14 07:07:07]: Kiøn1029 [.bad, Level 32]: úgyhogy mnem tudok kódolni se semmi
