@@ -327,3 +327,5 @@
 [2021-04-14 00:51:21]: ***  [, Level 0]: __init__(self):'s killing spree was ended by weqe (9 blocks)
 [2021-04-14 00:51:23]: comic [comically, Level 14]: lmfaoOoOo
 [2021-04-14 00:51:27]: ***  [, Level 0]: 1 finished in: 0 minute(s) 46.02 second(s)
+[2021-04-14 00:52:04]: ***  [, Level 0]: Adleg is on a killing spree with 5 blocks
+[2021-04-14 00:52:06]: [D] #5 blocker [|*MorE*|, Level 0]: Lucas: help again flappy blocked me xd
