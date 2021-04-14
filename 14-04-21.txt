@@ -7806,3 +7806,6 @@
 [2021-04-14 09:42:13]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-14 09:42:16]: SanoreX [Chilli.*, Level 27]: Emilcha: u have red flag
 [2021-04-14 09:42:26]: Emilcha [, Level 38]: SanoreX: nah blue
+[2021-04-14 09:42:30]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-14 09:42:31]: Emilcha [, Level 38]: SanoreX: someone traded
+[2021-04-14 09:42:36]: SanoreX [Chilli.*, Level 27]: Emilcha: eh give flag
