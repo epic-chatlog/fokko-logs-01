@@ -7056,3 +7056,6 @@
 [2021-04-14 08:27:06]: nobody [, Level 44]: El patron: wait
 [2021-04-14 08:27:10]: Matiteusz [TrRShClNrRs, Level 36]: WHOPS
 [2021-04-14 08:27:15]: SanoreX [Chilli.*, Level 27]: (1)ChillerDrago: look flappy bug
+[2021-04-14 08:27:25]: (1)ChillerDrago [|*KoG*|, Level 45]: wat
+[2021-04-14 08:27:26]: SanoreX [Chilli.*, Level 27]: (1)ChillerDrago: look flappy bug
+[2021-04-14 08:27:27]: ***  [, Level 0]: '(2)MOM' has left the game
