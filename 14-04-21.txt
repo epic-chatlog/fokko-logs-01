@@ -4100,3 +4100,6 @@
 [2021-04-14 04:50:52]: coca [, Level 22]: CKA3A4NIK[NR]: привет
 [2021-04-14 04:50:53]: ***  [, Level 0]: [D] cya finished in: 1 minute(s) 13.60 second(s)
 [2021-04-14 04:50:53]: ***  [, Level 0]: New record: 1 minute(s) 27.08 second(s) better.
+[2021-04-14 04:50:58]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-14 04:51:03]: CKA3A4NIK[NR] [Night Raid, Level 35]: TL|ŦƹƦ$ŦǾN:  ХВАТИТ
+[2021-04-14 04:51:08]: WarHammer' [DogParty, Level 0]: XD
