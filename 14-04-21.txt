@@ -9280,3 +9280,4 @@
 [2021-04-14 11:39:00]: SanoreX.* [Chilli.*, Level 22]: Zephir™:
 [2021-04-14 11:39:02]: SanoreX.* [Chilli.*, Level 22]: Kenshi™:
 [2021-04-14 11:39:03]: ***  [, Level 0]: 'SanoreX.*' has been muted for 60 seconds
+[2021-04-14 11:39:17]: S Y T H N [, Level 37]: flappy: bad
