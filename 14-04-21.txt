@@ -7743,3 +7743,4 @@
 [2021-04-14 09:35:46]: ***  [, Level 0]: '(2)cookie' entered and joined the game
 [2021-04-14 09:35:46]: ***  [, Level 0]: (1)☺ finished in: 1 minute(s) 24.20 second(s)
 [2021-04-14 09:35:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-14 09:36:38]: Zephir™ [, Level 40]: ☺: pourquoi tu l'attaque ?
