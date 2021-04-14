@@ -306,3 +306,5 @@
 [2021-04-14 00:49:11]: comic [comically, Level 14]: gave me a heart attack
 [2021-04-14 00:49:17]: ***  [, Level 0]: 'NoobEmirF' has left the game
 [2021-04-14 00:49:18]: ***  [, Level 0]: 'rexi' entered and joined the game
+[2021-04-14 00:49:25]: ***  [, Level 0]: 'Taip' has left the game
+[2021-04-14 00:49:25]: ***  [, Level 0]: 'Recep' has left the game
