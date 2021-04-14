@@ -10022,3 +10022,7 @@
 [2021-04-14 12:21:39]: ***  [, Level 0]: 'Falco642' has left the game
 [2021-04-14 12:21:39]: ***  [, Level 0]: 'Falco641' has left the game
 [2021-04-14 12:21:39]: Kezo [DogParty, Level 41]: ez
+[2021-04-14 12:21:42]: Kezo [DogParty, Level 41]: xD
+[2021-04-14 12:21:44]: ***  [, Level 0]: 'MieSlime' has left the game
+[2021-04-14 12:21:45]: Flipper [, Level 16]: bob?
+[2021-04-14 12:21:50]: nobody [, Level 44]: BEST LAG
