@@ -4873,3 +4873,6 @@
 [2021-04-14 05:41:13]: (1)☺ [, Level 0]: Zephir™: mdr
 [2021-04-14 05:41:13]: ***  [, Level 0]: 'power2' entered and joined the game
 [2021-04-14 05:41:18]: Zephir™ [, Level 40]: weqe: see
+[2021-04-14 05:41:22]: ***  [, Level 0]: Axandos is on a killing spree with 5 blocks
+[2021-04-14 05:41:28]: (1)☺ [, Level 0]: fallait pas nous trahir Zephir™
+[2021-04-14 05:41:28]: Zephir™ [, Level 40]: weqe: without taser u still bad
