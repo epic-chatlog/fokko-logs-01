@@ -9508,3 +9508,5 @@
 [2021-04-14 11:51:19]: Tziys* [DogParty, Level 0]: çok ping var
 [2021-04-14 11:51:55]: SanoreX [Chilli.*, Level 27]: Nudelsaft c::
 [2021-04-14 11:52:07]: Orwined [, Level 0]: help
+[2021-04-14 11:52:14]: ***  [, Level 0]: 'luKas' has left the game
+[2021-04-14 11:52:18]: ***  [, Level 0]: Zephir™ is on a killing spree with 15 blocks
