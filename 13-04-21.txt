@@ -14206,3 +14206,7 @@
 [2021-04-13 23:36:01]: ***  [, Level 0]: [D] Kahve finished in: 2 minute(s) 27.76 second(s)
 [2021-04-13 23:36:07]: ***  [, Level 0]: Kahve finished in: 2 minute(s) 21.44 second(s)
 [2021-04-13 23:36:09]: #5 blocker [|*MorE*|, Level 24]: my dummy
+[2021-04-13 23:36:11]: ***  [, Level 0]: 'falkenauge' entered and joined the game
+[2021-04-13 23:36:15]: ***  [, Level 0]: Rem's bae finished in: 0 minute(s) 38.98 second(s)
+[2021-04-13 23:36:15]: ***  [, Level 0]: New record: 1 minute(s)  4.76 second(s) better.
+[2021-04-13 23:36:17]: İntensiv_ [CrazyNoobs, Level 0]: real why
