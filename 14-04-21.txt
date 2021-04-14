@@ -7328,3 +7328,4 @@
 [2021-04-14 08:47:09]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
 [2021-04-14 08:47:11]: Nudelsaft c: [FookinLads, Level 60]: wurdest gehackt
 [2021-04-14 08:47:14]: ChillerDragon.* [|*KoG*|, Level 0]: isso
+[2021-04-14 08:47:36]: El patron [, Level 30]: Nudelsaft c::  i bought a taser but i can't use it
