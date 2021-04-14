@@ -13430,3 +13430,5 @@
 [2021-04-13 17:10:39]: ***  [, Level 0]: 'mess tee' joined the game
 [2021-04-13 17:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-13 17:10:51]: Zephir™ [, Level 39]: SnowCat: just wait tomorrow
+[2021-04-13 17:10:58]: SnowCat [, Level 30]: Zephir™: ok
+[2021-04-13 17:11:05]: Kirito [{TQuila}, Level 40]: SnowCat: i will be here tomorrow too :)
