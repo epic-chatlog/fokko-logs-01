@@ -2286,3 +2286,5 @@
 [2021-04-14 02:43:18]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
 [2021-04-14 02:43:19]: Swarfey [FookinLads, Level 60]: ?здще ызфцт
 [2021-04-14 02:43:22]: Swarfey [FookinLads, Level 60]: oops
+[2021-04-14 02:43:23]: CKA3A4NIK[NR] [Night Raid, Level 35]: SanoreX:  im real?
+[2021-04-14 02:43:26]:   [, Level 0]: SanoreX.*: yes
