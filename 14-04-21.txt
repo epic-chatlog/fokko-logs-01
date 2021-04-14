@@ -846,3 +846,9 @@
 [2021-04-14 01:25:42]: ***  [, Level 0]: 'Soros' has left the game
 [2021-04-14 01:25:42]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: SnowCat: yes:)
 [2021-04-14 01:25:43]: ***  [, Level 0]: 'el champeon5754' entered and joined the game
+[2021-04-14 01:25:48]: ***  [, Level 0]: 'Soros542101567' entered and joined the game
+[2021-04-14 01:25:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-14 01:25:51]: [D] El patron [, Level 0]: Fearless: portal?
+[2021-04-14 01:25:52]: ***  [, Level 0]: 'el champeon5754' has left the game
+[2021-04-14 01:25:52]: ***  [, Level 0]: 'Soros542101567' has left the game
+[2021-04-14 01:25:55]: SanoreX [Chilli.*, Level 27]: [D] Kahve: maus buldum
