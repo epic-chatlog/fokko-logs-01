@@ -404,3 +404,5 @@
 [2021-04-14 01:00:32]: Kahve [, Level 23]: WarHammer: mami dün dreami blockladı diye kavga çıktı aramızda
 [2021-04-14 01:00:37]: ***  [, Level 0]: '1' finished the special race!
 [2021-04-14 01:00:38]: Tziys* [DogParty, Level 39]: falkenauge: dont touch Intensiv
+[2021-04-14 01:00:46]: WarHammer [DogParty, Level 26]: Kahve:  o maminin sorunu
+[2021-04-14 01:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
