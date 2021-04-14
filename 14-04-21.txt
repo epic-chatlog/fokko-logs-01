@@ -11293,3 +11293,8 @@
 [2021-04-14 13:57:58]: Flipper [, Level 16]: that makes no sence
 [2021-04-14 13:58:01]: Flipper [, Level 16]: sense*
 [2021-04-14 13:58:47]: Taip [VergleriSay, Level 19]: Bozzkurt: benle alıp veremediğin ne
+[2021-04-14 13:58:55]: Taip [VergleriSay, Level 19]: YelloWorlD beni aldı
+[2021-04-14 13:58:56]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 0 minute(s) 32.26 second(s)
+[2021-04-14 13:58:56]: ***  [, Level 0]: New record: 48.40 second(s) better.
+[2021-04-14 13:58:58]: Taip [VergleriSay, Level 19]: freeze
+[2021-04-14 13:58:59]: Taip [VergleriSay, Level 19]: den
