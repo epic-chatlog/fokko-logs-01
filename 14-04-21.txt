@@ -7911,3 +7911,5 @@
 [2021-04-14 09:53:25]: vollesprit [, Level 0]: on monte ?
 [2021-04-14 09:53:35]: ***  [, Level 0]: 'GTROB' has left the game
 [2021-04-14 09:53:54]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-14 09:54:14]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
+[2021-04-14 09:54:15]: vollesprit [, Level 0]: ah ok
