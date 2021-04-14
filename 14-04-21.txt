@@ -3020,3 +3020,8 @@
 [2021-04-14 03:23:11]: SanoreX.* [Chilli.*, Level 22]: %
 [2021-04-14 03:23:14]: SanoreX.* [Chilli.*, Level 22]: [Modules] Streaming discord_game_utils@1 to /ho
 [2021-04-14 03:23:15]: Zephir™ [, Level 39]: s6_sven: stop try to be friendly, i not have more ennemi, i need fun sometime
+[2021-04-14 03:23:17]: ***  [, Level 0]: 'casserole :p' has left the game (Timeout)
+[2021-04-14 03:23:17]: ***  [, Level 0]: '(1)casserole :p' has left the game (Timeout)
+[2021-04-14 03:23:19]: SanoreX.* [Chilli.*, Level 22]: %
+[2021-04-14 03:23:21]: ***  [, Level 0]: 'SanoreX.*' has been muted for 60 seconds
+[2021-04-14 03:23:25]: ***  [, Level 0]: 'MOM' entered and joined the game
