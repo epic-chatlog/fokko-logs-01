@@ -419,3 +419,7 @@
 [2021-04-14 01:01:49]: Kahve [, Level 23]: WarHammer: cahil cahil konuşma
 [2021-04-14 01:01:52]: 1 [, Level 16]: who
 [2021-04-14 01:01:55]: WarHammer [DogParty, Level 26]: Kahve:  yoo bilmiyodum
+[2021-04-14 01:01:57]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
+[2021-04-14 01:02:03]: 1 [, Level 16]: who
+[2021-04-14 01:02:05]: Kahve [, Level 23]: dalga geçer gibi söyleme
+[2021-04-14 01:02:06]: Ðream [TrRShClNrRs, Level 46]: sry i dont war with falkenauge
