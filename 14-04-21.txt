@@ -11390,3 +11390,4 @@
 [2021-04-14 14:19:47]: ~DemoizL~ [, Level 39]: xD
 [2021-04-14 14:20:29]: Flipper [, Level 16]: 0.1
 [2021-04-14 14:20:30]: Flipper [, Level 16]: :)]
+[2021-04-14 14:20:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
