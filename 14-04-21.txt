@@ -10923,3 +10923,6 @@
 [2021-04-14 13:17:19]: ***  [, Level 0]: '(1)Meetiteusz' has left the game
 [2021-04-14 13:17:23]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-14 13:17:29]: Taip [VergleriSay, Level 19]: no ;(
+[2021-04-14 13:17:30]: ***  [, Level 0]: 'Matiteusz' has left the game
+[2021-04-14 13:17:30]: ***  [, Level 0]: 'Meetiteusz' has left the game
+[2021-04-14 13:17:36]: Flipper [, Level 16]: wait
