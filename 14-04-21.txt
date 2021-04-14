@@ -86,3 +86,5 @@
 [2021-04-14 00:16:55]: ***  [, Level 0]: 'comic' entered and joined the game
 [2021-04-14 00:16:56]: 1 [, Level 16]: dream help
 [2021-04-14 00:16:57]: ***  [, Level 0]: '1' has been muted for 60 seconds
+[2021-04-14 00:17:15]: Boti. [.bad, Level 0]: ???
+[2021-04-14 00:17:15]: Lucas [THECEPS, Level 35]: Ðream: nub
