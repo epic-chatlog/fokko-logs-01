@@ -6831,3 +6831,6 @@
 [2021-04-14 08:07:56]: SanoreX [Chilli.*, Level 27]: HELP YEllow
 [2021-04-14 08:07:58]: ***  [, Level 0]: 'YEllow' changed name to 'Yelloworld'
 [2021-04-14 08:08:01]: SanoreX [Chilli.*, Level 27]: foxie help
+[2021-04-14 08:08:07]: coca [, Level 22]: El patron: bye bye
+[2021-04-14 08:08:08]: Cylox. [{TQuila}, Level 24]: f
+[2021-04-14 08:08:10]: El patron [, Level 29]: bb
