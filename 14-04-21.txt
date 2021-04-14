@@ -1314,3 +1314,7 @@
 [2021-04-14 01:47:58]: SanoreX [Chilli.*, Level 27]: [D] Kahve: gel plotuma bak
 [2021-04-14 01:48:01]: Boti. [.bad, Level 33]: van e valakinek valamilyen kérdése
 [2021-04-14 01:48:03]: Boti. [.bad, Level 33]: és full csönd
+[2021-04-14 01:48:06]: El patron [, Level 29]: #5 blocker: helo
+[2021-04-14 01:48:09]: ***  [, Level 0]: 'igorejro17' has left the game
+[2021-04-14 01:48:13]: ***  [, Level 0]: 'Axandos' entered and joined the game
+[2021-04-14 01:48:14]: Kiøn1029 [.bad, Level 32]: XDD
