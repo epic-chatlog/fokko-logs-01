@@ -511,3 +511,4 @@
 [2021-04-14 01:09:41]: NidardoHD [FlexTape, Level 16]: SanoreX:
 [2021-04-14 01:09:44]: SanoreX [Chilli.*, Level 27]: in police
 [2021-04-14 01:09:56]: SanoreX [Chilli.*, Level 27]: NidardoHD: yes?
+[2021-04-14 01:10:01]: ***  [, Level 0]: 'mamikral011' entered and joined the game
