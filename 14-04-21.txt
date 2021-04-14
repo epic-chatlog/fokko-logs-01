@@ -8445,3 +8445,4 @@
 [2021-04-14 10:49:21]: El patron [, Level 30]: Kenshi™:
 [2021-04-14 10:49:22]: MaMi [DogParty, Level 0]: ERROR: fuck
 [2021-04-14 10:49:22]: El patron [, Level 30]: help
+[2021-04-14 10:49:37]: ***  [, Level 0]: '(1)soleri1' has left the game
