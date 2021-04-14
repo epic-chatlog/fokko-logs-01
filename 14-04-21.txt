@@ -430,3 +430,5 @@
 [2021-04-14 01:02:34]: WarHammer [DogParty, Level 26]: Kahve:  ddosu önleyemezmiyiz
 [2021-04-14 01:02:41]: 1 [, Level 16]: falkenauge:  who
 [2021-04-14 01:02:44]: Kahve [, Level 23]: WarHammer: hayır
+[2021-04-14 01:02:45]: 1 [, Level 16]: falkenauge:  who
+[2021-04-14 01:02:53]: Kahve [, Level 23]: WarHammer: bu sunucunun vdssine yapılıyo
