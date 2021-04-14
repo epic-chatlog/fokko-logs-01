@@ -7470,3 +7470,6 @@
 [2021-04-14 09:04:15]: coca [, Level 22]: hi))
 [2021-04-14 09:04:52]: Lucas [THECEPS, Level 35]: coca: he's gut i'm just bored
 [2021-04-14 09:05:05]: [D] El patron [, Level 24]: coca:  waht lvl you taser
+[2021-04-14 09:05:39]: coca [, Level 22]: [D] El patron: 1 XD)
+[2021-04-14 09:05:43]: [D] El patron [, Level 24]: coca:  me 5
+[2021-04-14 09:05:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
