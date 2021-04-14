@@ -2090,3 +2090,6 @@
 [2021-04-14 02:32:50]: SanoreX [Chilli.*, Level 27]: sun.slow(y): portalın varmı şuanda?
 [2021-04-14 02:32:50]: K!ked [De}|{aBю, Level 62]: HAPPY BLET
 [2021-04-14 02:32:54]: [D] #5 blocker [|*MorE*|, Level 0]: xd
+[2021-04-14 02:32:57]: SanoreX [Chilli.*, Level 27]: HE sun.slow(y)
+[2021-04-14 02:33:00]: SanoreX [Chilli.*, Level 27]: sun.slow(y): portalın varmı şuanda?
+[2021-04-14 02:33:01]: ***  [, Level 0]: 1 finished in: 0 minute(s) 50.10 second(s)
