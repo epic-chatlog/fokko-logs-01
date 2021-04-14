@@ -227,3 +227,4 @@
 [2021-04-14 00:36:39]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
 [2021-04-14 00:36:50]: keepertrain._. [, Level 30]: [D] falkenauge: wana go 1v1?
 [2021-04-14 00:36:52]: ***  [, Level 0]: __init__(self): is on a killing spree with 15 blocks
+[2021-04-14 00:37:06]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: cry
