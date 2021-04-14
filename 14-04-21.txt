@@ -1813,3 +1813,5 @@
 [2021-04-14 02:12:18]: Kahve [, Level 23]: kazanırsan açıyorum .d
 [2021-04-14 02:12:23]: vollesprit [, Level 0]: yolo
 [2021-04-14 02:12:26]:   [, Level 0]: ~DemoizL~: hey
+[2021-04-14 02:12:40]: Kahve [, Level 23]: kazandın
+[2021-04-14 02:12:43]: ***  [, Level 0]: '(1)Cylox' has left the game
