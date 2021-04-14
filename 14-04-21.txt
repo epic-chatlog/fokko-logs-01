@@ -704,3 +704,7 @@
 [2021-04-14 01:18:18]: ***  [, Level 0]: 'blazingd420' has left the game
 [2021-04-14 01:18:20]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-14 01:18:21]: Nudelsaft c: [FookinLads, Level 42]: SanoreX: remove it
+[2021-04-14 01:18:22]: rexi [, Level 0]: kannst du stack machen Nudelsaft c:
+[2021-04-14 01:18:24]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
+[2021-04-14 01:18:24]: SanoreX [s, Level 27]: ok
+[2021-04-14 01:18:29]: ***  [, Level 0]: 'Taip' has left the game
