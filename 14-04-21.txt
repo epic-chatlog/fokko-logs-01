@@ -44,3 +44,5 @@
 [2021-04-14 00:10:31]: s6_sven [, Level 21]: as alwys
 [2021-04-14 00:10:41]: ***  [, Level 0]: 'Lucas' finished the special race!
 [2021-04-14 00:10:48]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-14 00:11:25]: ***  [, Level 0]: '(1)Tom' entered and joined the game
+[2021-04-14 00:11:31]: ***  [, Level 0]: '(1)Tom' has left the game
