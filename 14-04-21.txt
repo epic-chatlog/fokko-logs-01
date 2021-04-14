@@ -266,3 +266,6 @@
 [2021-04-14 00:41:12]: ***  [, Level 0]: '1' finished the special race!
 [2021-04-14 00:41:14]: ***  [, Level 0]: s6_sven finished in: 11 minute(s)  8.12 second(s)
 [2021-04-14 00:41:14]: ***  [, Level 0]: 's6_sven' finished the special race!
+[2021-04-14 00:41:35]: ***  [, Level 0]: P4Pyr0s finished in: 11 minute(s) 22.82 second(s)
+[2021-04-14 00:41:35]: ***  [, Level 0]: 'P4Pyr0s' finished the special race!
+[2021-04-14 00:41:38]: Fearless [, Level 40]: so bad axaxaaa
