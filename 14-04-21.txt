@@ -9384,3 +9384,9 @@
 [2021-04-14 11:44:37]: Falco642 [, Level 3]: go spawn
 [2021-04-14 11:44:41]:   [, Level 0]: Kezo: sa
 [2021-04-14 11:44:42]: ***  [, Level 0]: 'Kezo' has left the game
+[2021-04-14 11:44:44]: Axel [TrRShClNrRs, Level 30]: Thanks
+[2021-04-14 11:44:46]: ***  [, Level 0]: 'Axel ²' has left the game
+[2021-04-14 11:44:48]: ***  [, Level 0]: 'Kezo' entered and joined the game
+[2021-04-14 11:44:50]: Falco642 [, Level 3]: Axel: can u help my friend get in here
+[2021-04-14 11:44:52]:   [, Level 0]: Kezo: as
+[2021-04-14 11:44:55]: ***  [, Level 0]: 'Axel ²' entered and joined the game
