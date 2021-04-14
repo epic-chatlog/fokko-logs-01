@@ -6995,3 +6995,6 @@
 [2021-04-14 08:20:45]: ***  [, Level 0]: Cylox. finished in: 2 minute(s) 45.08 second(s)
 [2021-04-14 08:20:46]: ***  [, Level 0]: 'Axandos' entered and joined the game
 [2021-04-14 08:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-14 08:20:59]: (2)MOM [, Level 21]: coca: whats your problem
+[2021-04-14 08:21:04]: power [TrRShClNrRs, Level 0]: hehhe hhh3
+[2021-04-14 08:21:04]: (2)MOM [, Level 21]: coca:
