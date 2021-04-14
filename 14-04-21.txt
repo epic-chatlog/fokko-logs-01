@@ -11621,3 +11621,4 @@
 [2021-04-14 15:03:11]: Flipper [, Level 7]: no
 [2021-04-14 15:03:13]: Flipper [, Level 7]: well
 [2021-04-14 15:03:14]: Flipper [, Level 7]: yea
+[2021-04-14 15:03:23]: Kirito [{TQuila}, Level 25]: Flipper: fucking talk in dc
