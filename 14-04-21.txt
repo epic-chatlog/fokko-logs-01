@@ -9332,3 +9332,11 @@
 [2021-04-14 11:41:59]: KS| Ty4ka [KyStiKi, Level 0]: |KS| Kyrma: Куда?
 [2021-04-14 11:42:00]: Falco642 [, Level 3]: wait
 [2021-04-14 11:42:04]: vollesprit [, Level 0]: ok
+[2021-04-14 11:42:08]: Recep [VergleriSay, Level 8]: Zephir:
+[2021-04-14 11:42:09]: Recep [VergleriSay, Level 8]: ty
+[2021-04-14 11:42:11]: vollesprit [, Level 0]: i am at spawn
+[2021-04-14 11:42:12]: ***  [, Level 0]: 'KS| Ty4ka' changed name to '|KS| Ty4ka'
+[2021-04-14 11:42:15]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-14 11:42:15]: SanoreX [Chilli.*, Level 27]: Zephir™:
+[2021-04-14 11:42:17]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-14 11:42:18]: SanoreX [Chilli.*, Level 27]: Zephir™: ][ch][ch][ch][ch][ch][ch][ch
