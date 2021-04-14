@@ -10943,3 +10943,6 @@
 [2021-04-14 13:19:44]: Kenshi™ [, Level 25]: GOLD: tant que je suis pas fort tu veut dire ?
 [2021-04-14 13:19:44]: ***  [, Level 0]: 'MaMi' has left the game
 [2021-04-14 13:19:52]: mamikral011 [DogParty, Level 22]: (3)Zʷʰʸˀ: help?
+[2021-04-14 13:20:13]: ***  [, Level 0]: 'MaMi' entered and joined the game
+[2021-04-14 13:20:14]: ***  [, Level 0]: 'Kubixx' entered and joined the game
+[2021-04-14 13:20:14]: GOLD [404, Level 40]: Kenshi™: tant que tu me m'aide pas
