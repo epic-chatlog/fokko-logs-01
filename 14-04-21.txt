@@ -28,3 +28,4 @@
 [2021-04-14 00:05:50]: ***  [, Level 0]: '[D] SkyForge' finished the special race!
 [2021-04-14 00:05:54]: ***  [, Level 0]: SkyForge finished in: 4 minute(s) 52.40 second(s)
 [2021-04-14 00:05:54]: ***  [, Level 0]: 'SkyForge' finished the special race!
+[2021-04-14 00:06:43]: [D] SkyForge [, Level 0]: 1:  not gonna get inf jump?
