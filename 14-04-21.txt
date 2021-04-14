@@ -3976,3 +3976,4 @@
 [2021-04-14 04:35:24]: Cylox. [{TQuila}, Level 24]: elleme
 [2021-04-14 04:35:28]: ***  [, Level 0]: '(1)Foxie♥' has left the game
 [2021-04-14 04:35:28]: ***  [, Level 0]: '(1)Foxi♥' has left the game
+[2021-04-14 04:35:40]: ***  [, Level 0]: 'Banasiczek1' has left the game
