@@ -2952,3 +2952,21 @@
 [2021-04-14 03:20:12]: Swarfey [FookinLads, Level 60]: SanoreX: no need to spike
 [2021-04-14 03:20:13]: SanoreX.* [Chilli.*, Level 22]: plot farm weak
 [2021-04-14 03:20:14]: ***  [, Level 0]: s6_sven is on a killing spree with 5 blocks
+[2021-04-14 03:20:17]: Swarfey [FookinLads, Level 60]: SanoreX: i tell it give money and it gives money
+[2021-04-14 03:20:23]: SanoreX.* [Chilli.*, Level 22]: Swarfey: really?
+[2021-04-14 03:20:27]: ←   [, Level 0]: Swarfey: moneydrop
+[2021-04-14 03:20:27]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-14 03:20:27]: ***  [, Level 0]: Bank: 0
+[2021-04-14 03:20:27]: ***  [, Level 0]: Wallet: 1125
+[2021-04-14 03:20:27]: ***  [, Level 0]: Euros: 0
+[2021-04-14 03:20:27]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-14 03:20:27]: ***  [, Level 0]: [WALLET] +6 collected
+[2021-04-14 03:20:27]: ***  [, Level 0]: [WALLET] +505 collected
+[2021-04-14 03:20:27]: ***  [, Level 0]: [WALLET] -6789 dropped
+[2021-04-14 03:20:27]: ***  [, Level 0]: [WALLET] +8 collected
+[2021-04-14 03:20:27]: ***  [, Level 0]: [WALLET] -65131 dropped
+[2021-04-14 03:20:27]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-14 03:20:27]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-14 03:20:28]: Sayme [, Level 0]: 1: stop
+[2021-04-14 03:20:28]: ***  [, Level 0]: Invalid whisper
+[2021-04-14 03:20:28]: Swarfey [FookinLads, Level 60]: yes
