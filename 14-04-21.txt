@@ -9211,3 +9211,5 @@
 [2021-04-14 11:35:09]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-14 11:35:17]: Falco641 [.bad, Level 20]: stay here vollesprit
 [2021-04-14 11:35:24]: ***  [, Level 0]: ### 'S Y T H N' can who kill Flipper i give this person 100k
+[2021-04-14 11:35:28]: Flipper [, Level 16]: war
+[2021-04-14 11:35:34]: lessname [, Level 0]: xD
