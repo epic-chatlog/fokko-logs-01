@@ -5656,3 +5656,4 @@
 [2021-04-14 06:34:28]: Flipper [, Level 16]: did you not read what kshksh sais
 [2021-04-14 06:34:43]: x7|zemer [xSD7, Level 37]: Flipper: I am not active on ddnet
 [2021-04-14 06:34:49]: Flipper [, Level 16]: he said it on discord
+[2021-04-14 06:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
