@@ -7396,3 +7396,7 @@
 [2021-04-14 08:54:27]: coca [, Level 22]: Lucas: lets spike him?
 [2021-04-14 08:54:39]: Lucas [THECEPS, Level 35]: coca: nah he got nothing
 [2021-04-14 08:54:41]: ***  [, Level 0]: 'Falco641' entered and joined the game
+[2021-04-14 08:55:12]: ***  [, Level 0]: 'SanoreX' entered and joined the game
+[2021-04-14 08:55:12]: ***  [, Level 0]: 'SanoreX' has left the game
+[2021-04-14 08:55:19]: ***  [, Level 0]: 'SanoreX' entered and joined the game
+[2021-04-14 08:55:20]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
