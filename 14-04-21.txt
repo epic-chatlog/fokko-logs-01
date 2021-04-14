@@ -5944,3 +5944,7 @@
 [2021-04-14 06:59:40]: kiøn1029 [.bad, Level 25]: nem
 [2021-04-14 06:59:40]:   [, Level 0]: ☺: et tesou en fait Zephir™
 [2021-04-14 06:59:45]: kiøn1029 [.bad, Level 25]: segít az enemynek
+[2021-04-14 06:59:56]: Boti. [.bad, Level 27]: ő az enemy
+[2021-04-14 06:59:58]: Boti. [.bad, Level 27]: haló
+[2021-04-14 06:59:59]: Boti. [.bad, Level 27]: XDD
+[2021-04-14 07:00:03]: kiøn1029 [.bad, Level 25]: hát igen
