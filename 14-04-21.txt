@@ -11124,3 +11124,5 @@
 [2021-04-14 13:37:59]: Taip [VergleriSay, Level 19]: mamikral011: isim nasl alınıyo
 [2021-04-14 13:38:09]: mamikral011 [DogParty, Level 22]: Taip: ne bilem ya
 [2021-04-14 13:38:12]: mamikral011 [DogParty, Level 22]: YelloWorlD: sor
+[2021-04-14 13:38:16]: YelloWorlD [DogParty, Level 41]: mamikral011: Ƭevan my enemy
+[2021-04-14 13:38:20]: mamikral011 [DogParty, Level 22]: YelloWorlD: ok sorry
