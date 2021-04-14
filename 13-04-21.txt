@@ -14219,3 +14219,5 @@
 [2021-04-13 23:37:05]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: ♥
 [2021-04-13 23:37:09]: İntensiv_ [CrazyNoobs, Level 0]: #5 blocker:  okey no block
 [2021-04-13 23:37:13]: ***  [, Level 0]: '[D] falkenauge' entered and joined the game
+[2021-04-13 23:38:00]: ***  [, Level 0]: falkenauge finished in: 1 minute(s)  5.98 second(s)
+[2021-04-13 23:38:00]: ***  [, Level 0]: New record: 33.42 second(s) better.
