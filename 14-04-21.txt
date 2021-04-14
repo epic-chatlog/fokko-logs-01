@@ -4131,3 +4131,4 @@
 [2021-04-14 04:52:37]: WarHammer' [DogParty, Level 0]: sano onu atma
 [2021-04-14 04:52:43]: CKA3A4NIK[NR] [Night Raid, Level 35]: Killua: 1
 [2021-04-14 04:52:45]: CKA3A4NIK[NR] [Night Raid, Level 35]: Killua: 2
+[2021-04-14 04:52:48]: CKA3A4NIK[NR] [Night Raid, Level 35]: Killua: 3
