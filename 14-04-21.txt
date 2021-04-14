@@ -8253,3 +8253,6 @@
 [2021-04-14 10:27:23]: ***  [, Level 0]: 'Guthaben' has left the game
 [2021-04-14 10:27:26]: Lucas [THECEPS, Level 35]: Falco641:
 [2021-04-14 10:27:28]: ***  [, Level 0]: 'Snow Foxy GX' has left the game
+[2021-04-14 10:27:38]: Falco642 [, Level 0]: xd
+[2021-04-14 10:27:38]: [D] El patron [, Level 0]: Emilcha: stop
+[2021-04-14 10:27:42]: ***  [, Level 0]: coffee is on a killing spree with 5 blocks
