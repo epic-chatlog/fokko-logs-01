@@ -11328,3 +11328,7 @@
 [2021-04-14 14:06:24]: ***  [, Level 0]: 'sharkz' entered and joined the game
 [2021-04-14 14:10:01]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
 [2021-04-14 14:10:12]: ***  [, Level 0]: 'Isegrin' entered and joined the game
+[2021-04-14 14:10:19]: sharkz [, Level 45]: fokkonaut: admin when
+[2021-04-14 14:10:22]: fokkonaut [, Level 102]: u
+[2021-04-14 14:10:25]: sharkz [, Level 45]: no u
+[2021-04-14 14:10:30]: Flipper [, Level 16]: no u
