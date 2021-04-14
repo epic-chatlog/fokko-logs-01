@@ -3876,3 +3876,9 @@
 [2021-04-14 04:24:54]: Cylox [{TQuila}, Level 31]: ya bırak amk farm yapıcam
 [2021-04-14 04:24:57]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
 [2021-04-14 04:25:01]: ***  [, Level 0]: 'BitchPlease Jr.' entered and joined the game
+[2021-04-14 04:25:06]: SanoreX.* [Chilli.*, Level 0]: Marcisten: I can write invisible message
+[2021-04-14 04:25:08]: SanoreX.* [Chilli.*, Level 0]: look
+[2021-04-14 04:25:09]: SanoreX.* [Chilli.*, Level 0]: ᅟᅟᅟᅟᅟᅟᅟᅟ
+[2021-04-14 04:25:13]: SanoreX [Chilli.*, Level 27]: ᅟᅟᅟᅟ
+[2021-04-14 04:25:14]: SanoreX.* [Chilli.*, Level 0]: ᅟᅟᅟᅟ
+[2021-04-14 04:25:14]: Marcisten [Helper, Level 0]: SanoreX.*: woah nice xD
