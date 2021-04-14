@@ -14097,3 +14097,4 @@
 [2021-04-13 18:47:33]: ***  [, Level 0]: '☺' has left the game
 [2021-04-13 18:48:22]: ***  [, Level 0]: 'Kenshi™' has left the game
 [2021-04-13 18:48:22]: ***  [, Level 0]: 'Zephir™' has left the game
+[2021-04-13 18:50:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
