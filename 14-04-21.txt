@@ -8304,3 +8304,5 @@
 [2021-04-14 10:32:32]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
 [2021-04-14 10:32:36]: [D] El patron [, Level 0]: Falco641:  do 18 pls
 [2021-04-14 10:32:55]: Falco642 [, Level 0]: 18?
+[2021-04-14 10:33:06]: [D] El patron [, Level 0]: fluffy 1
+[2021-04-14 10:33:12]: [D] El patron [, Level 0]: thx
