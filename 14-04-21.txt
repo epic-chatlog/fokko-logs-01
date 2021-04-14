@@ -1936,3 +1936,5 @@
 [2021-04-14 02:20:47]: Intensiv__ [CrazyNoobs, Level 0]: nabuyon olm
 [2021-04-14 02:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-14 02:20:53]: el champeon [, Level 0]: Michel: whar
+[2021-04-14 02:20:56]: el champeon [, Level 0]: Michel: war
+[2021-04-14 02:20:59]: ***  [, Level 0]: Meetiteusz finished in: 34 minute(s) 41.86 second(s)
