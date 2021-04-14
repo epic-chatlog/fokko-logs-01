@@ -10865,3 +10865,5 @@
 [2021-04-14 13:12:29]: Shiro. [404, Level 42]: YelloWorlD: il les aides + me block
 [2021-04-14 13:12:29]: Mert [, Level 0]: login mert3446 mert3446
 [2021-04-14 13:12:33]: Shiro. [404, Level 42]: YelloWorlD: bah ceux qu'on viens de tuer fdp
+[2021-04-14 13:12:40]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-14 13:12:46]: Shiro. [404, Level 42]: Ƭevan: welp u are with my enemy
