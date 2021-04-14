@@ -6432,3 +6432,6 @@
 [2021-04-14 07:31:23]: WarHammer [DogParty, Level 26]: ERROR:  how to enter dummy with teeworls
 [2021-04-14 07:31:31]: ***  [, Level 0]: '1' has left the game (Timeout)
 [2021-04-14 07:31:36]: ***  [, Level 0]: '(1)Intensiv' changed name to 'Intensivasdsa'
+[2021-04-14 07:31:42]: ***  [, Level 0]: 'Intensivasdsa' changed name to 'Intens'
+[2021-04-14 07:31:43]: ***  [, Level 0]: ### 'WarHammer' how to enter bot with teeworlds
+[2021-04-14 07:31:47]: ***  [, Level 0]: '(1)coca' has left the game
