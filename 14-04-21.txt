@@ -8688,3 +8688,9 @@
 [2021-04-14 11:09:56]: ***  [, Level 0]: ### 'SanoreX' entered and joined the game
 [2021-04-14 11:09:57]: ***  [, Level 0]: ### 'SanoreX' has left the game
 [2021-04-14 11:09:59]: ***  [, Level 0]: ### 'SanoreX' entered and joined the game
+[2021-04-14 11:10:07]: comic [comically, Level 14]: that was so painful
+[2021-04-14 11:10:07]: JustRace [DogParty, Level 36]: Zephir™:  yo
+[2021-04-14 11:10:08]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-14 11:10:10]: ***  [, Level 0]: Zephir™ is on a killing spree with 5 blocks
+[2021-04-14 11:10:11]: JustRace [DogParty, Level 36]: Zephir™:  let ma frend alon
+[2021-04-14 11:10:13]: ***  [, Level 0]: 'Rainbow Tee' finished the special race!
