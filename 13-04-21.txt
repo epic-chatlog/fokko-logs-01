@@ -14092,3 +14092,6 @@
 [2021-04-13 18:47:17]: ☺ [, Level 19]: sa fais plaisir
 [2021-04-13 18:47:23]: Zephir™ [, Level 39]: ouaip xD
 [2021-04-13 18:47:29]: ☺ [, Level 19]: bye a demain
+[2021-04-13 18:47:33]: Zephir™ [, Level 39]: a demain
+[2021-04-13 18:47:33]: ***  [, Level 0]: '(1)☺' has left the game
+[2021-04-13 18:47:33]: ***  [, Level 0]: '☺' has left the game
