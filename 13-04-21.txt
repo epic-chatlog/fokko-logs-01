@@ -14142,3 +14142,4 @@
 [2021-04-13 23:02:03]: ***  [, Level 0]: 'xdman' entered and joined the game
 [2021-04-13 23:02:23]: ***  [, Level 0]: 'xdman' joined the spectators
 [2021-04-13 23:02:27]: ***  [, Level 0]: 'xdman' joined the game
+[2021-04-13 23:02:51]: ***  [, Level 0]: 'xdman' has left the game
