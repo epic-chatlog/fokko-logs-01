@@ -14189,3 +14189,8 @@
 [2021-04-13 23:33:58]: Kahve [, Level 23]: Rem's bae:
 [2021-04-13 23:34:04]: Rem's dummy [, Level 0]: ?
 [2021-04-13 23:34:07]: [D] Kahve [, Level 19]: spec
+[2021-04-13 23:34:19]: Rem's dummy [, Level 0]: OK and now ?
+[2021-04-13 23:34:22]: ***  [, Level 0]: 'dat boi' has left the game
+[2021-04-13 23:34:23]: ***  [, Level 0]: Rem's dummy finished in: 2 minute(s) 20.46 second(s)
+[2021-04-13 23:34:24]: ***  [, Level 0]: 'giana' has left the game
+[2021-04-13 23:34:25]: [D] Kahve [, Level 19]: can you help me?
