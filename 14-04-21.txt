@@ -11476,3 +11476,7 @@
 [2021-04-14 14:35:34]: Flipper [, Level 16]: my dummy
 [2021-04-14 14:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-14 14:36:00]: UrinStone [sƔη., Level 0]: Zephir™: help pls, how can i bind chat cmds? like 'bind e "say /cmdlist" or smth
+[2021-04-14 14:36:18]: (1)BLACK [, Level 21]: Kenshi™:  weqe  peace
+[2021-04-14 14:36:18]: UrinStone [sƔη., Level 0]: ah nvm
+[2021-04-14 14:36:21]: ***  [, Level 0]: 'UrinStone' has left the game
+[2021-04-14 14:36:24]: Kenshi™ [, Level 25]: UrinStone: ./cmd list
