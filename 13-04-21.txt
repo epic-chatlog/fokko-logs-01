@@ -13443,3 +13443,5 @@
 [2021-04-13 17:12:25]: Kirito [{TQuila}, Level 40]: Zʷʰʸˀ: hilf dem nicht alter!"
 [2021-04-13 17:12:37]: Zʷʰʸˀ [NULL, Level 36]: why not lol
 [2021-04-13 17:12:40]: ***  [, Level 0]: 'mess tee' joined the game
+[2021-04-13 17:12:48]: Kirito [{TQuila}, Level 40]: Zʷʰʸˀ: der is unser gegner!?!?
+[2021-04-13 17:12:55]: Zʷʰʸˀ [NULL, Level 36]: dein gegner
