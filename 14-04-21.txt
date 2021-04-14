@@ -9284,3 +9284,5 @@
 [2021-04-14 11:39:19]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-14 11:39:19]: Flipper [, Level 16]: sythn
 [2021-04-14 11:39:22]: S Y T H N [, Level 37]: Flipper: bad
+[2021-04-14 11:39:35]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-14 11:39:37]: ***  [, Level 0]: 'nameless tee' entered and joined the game
