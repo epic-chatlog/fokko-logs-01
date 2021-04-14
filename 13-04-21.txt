@@ -14319,3 +14319,5 @@
 [2021-04-13 23:57:02]: İntensiv_ [CrazyNoobs, Level 0]: help
 [2021-04-13 23:57:17]: ***  [, Level 0]: '1' finished the special race!
 [2021-04-13 23:58:08]: ***  [, Level 0]: Meetiteusz finished in: 7 minute(s)  9.76 second(s)
+[2021-04-13 23:58:49]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
+[2021-04-13 23:58:50]: #5 blocker [|*MorE*|, Level 24]: Meetiteusz: give me 1 minute
