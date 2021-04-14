@@ -6246,3 +6246,6 @@
 [2021-04-14 07:15:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-14 07:15:56]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-14 07:15:57]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
+[2021-04-14 07:16:00]: Tziys* [DogParty, Level 39]: bye all
+[2021-04-14 07:16:01]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-14 07:16:01]: ***  [, Level 0]: 'Kezo' has left the game
