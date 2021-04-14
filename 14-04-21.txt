@@ -11411,3 +11411,6 @@
 [2021-04-14 14:24:31]: (1)BLACK [, Level 21]: g
 [2021-04-14 14:24:53]: (1)BLACK [, Level 21]: bruh
 [2021-04-14 14:25:38]: (1)BLACK [, Level 21]: xD
+[2021-04-14 14:25:48]: (1)BLACK [, Level 21]: dude
+[2021-04-14 14:25:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-14 14:25:50]: (1)BLACK [, Level 21]: ami that bad
