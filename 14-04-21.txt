@@ -1450,3 +1450,6 @@
 [2021-04-14 01:54:08]: ***  [, Level 0]: '(1)ReXi' has left the game
 [2021-04-14 01:54:17]: SnowCat [BC, Level 30]: Nudelsaft c:: hello save me too
 [2021-04-14 01:54:19]: ***  [, Level 0]: UOYKCUFI's killing spree was ended by Soros (6 blocks)
+[2021-04-14 01:54:22]: Boti. [.bad, Level 33]: wasntme
+[2021-04-14 01:54:26]: Boti. [.bad, Level 33]: it was already destroyed
+[2021-04-14 01:54:28]: ***  [, Level 0]: 'deinemudder' entered and joined the game
