@@ -7305,3 +7305,4 @@
 [2021-04-14 08:42:18]: (1)☺ [, Level 0]: taitor
 [2021-04-14 08:42:29]: (1)☺ [, Level 0]: traitor bob
 [2021-04-14 08:42:35]: ***  [, Level 0]: 'Wayllan Kath' has left the game
+[2021-04-14 08:42:52]: ***  [, Level 0]: 'Wayllan Kath' entered and joined the game
