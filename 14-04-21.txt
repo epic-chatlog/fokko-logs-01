@@ -7982,3 +7982,5 @@
 [2021-04-14 10:05:14]: (1)casserole :p [, Level 16]: Zephir™: can you do the portal thing?
 [2021-04-14 10:05:26]: Zephir™ [, Level 40]: ☺: ouaip
 [2021-04-14 10:05:31]: (1)☺ [, Level 12]: pareil
+[2021-04-14 10:05:40]: (1)☺ [, Level 12]: SanoreX:
+[2021-04-14 10:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
