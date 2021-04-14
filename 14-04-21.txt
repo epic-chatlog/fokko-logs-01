@@ -9567,3 +9567,8 @@
 [2021-04-14 11:55:33]: ***  [, Level 0]: 'hhh3' has left the game
 [2021-04-14 11:55:48]: Falco642 [, Level 3]: come
 [2021-04-14 11:55:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-14 11:55:58]: vollesprit [, Level 0]: i die
+[2021-04-14 11:56:04]: vollesprit [, Level 0]: I like turtles.
+[2021-04-14 11:56:05]: Mʎɹ シ [not today, Level 12]: |KS| Kyrma: Знаешь как правильно?
+[2021-04-14 11:56:05]: ***  [, Level 0]: 'XxxBgLucas' entered and joined the game
+[2021-04-14 11:56:06]: ***  [, Level 0]: '(1)Ƭevan' entered and joined the game
