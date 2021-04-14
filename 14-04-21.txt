@@ -4021,3 +4021,6 @@
 [2021-04-14 04:45:19]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
 [2021-04-14 04:45:27]: bob weqe fan [Ape, Level 19]: oof somwann help nobod
 [2021-04-14 04:45:30]: ***  [, Level 0]: 'SanoreX.*' changed name to 'SanoreXᅟᅟ�'
+[2021-04-14 04:45:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-14 04:45:50]: ***  [, Level 0]: 'SanoreXᅟᅟ�' changed name to '(1)SanoreX'
+[2021-04-14 04:45:52]: [D] El patron [, Level 24]: Kezo: wowo
