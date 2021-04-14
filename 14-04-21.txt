@@ -10874,3 +10874,5 @@
 [2021-04-14 13:13:22]: ***  [, Level 0]: 'Mert' has left the game
 [2021-04-14 13:13:24]: Shiro. [404, Level 42]: Slvry_: im a test on kog now kekw
 [2021-04-14 13:13:27]: Shiro. [404, Level 42]: tester*
+[2021-04-14 13:13:31]: Slvry_ [???, Level 36]: nice ^^
+[2021-04-14 13:13:32]: mamikral011 [DogParty, Level 22]: YelloWorlD: ok
