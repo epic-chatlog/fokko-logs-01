@@ -6296,3 +6296,6 @@
 [2021-04-14 07:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-14 07:20:57]: Cylox. [{TQuila}, Level 0]: Flupper: go jet ?
 [2021-04-14 07:21:01]: Flupper [, Level 0]: yes
+[2021-04-14 07:21:02]: Intensiv_ [CrazyNoobs, Level 1]: Cylox:  help
+[2021-04-14 07:21:03]: Cylox. [{TQuila}, Level 0]: ok
+[2021-04-14 07:21:11]: Intensiv_ [CrazyNoobs, Level 1]: 1:  al beni knk
