@@ -7710,3 +7710,5 @@
 [2021-04-14 09:30:08]: ***  [, Level 0]: 'Lyshinyr Wos' entered and joined the game
 [2021-04-14 09:30:26]: weqe [669, Level 12]: Cylox: help ?
 [2021-04-14 09:30:37]: weqe [669, Level 12]: Cylox: war
+[2021-04-14 09:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-14 09:30:58]: (1)casserole :p [, Level 16]: weqe: should i help you??
