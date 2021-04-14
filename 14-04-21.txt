@@ -11481,3 +11481,5 @@
 [2021-04-14 14:36:21]: ***  [, Level 0]: 'UrinStone' has left the game
 [2021-04-14 14:36:24]: Kenshi™ [, Level 25]: UrinStone: ./cmd list
 [2021-04-14 14:36:33]: Kirito [{TQuila}, Level 0]: Flipper:
+[2021-04-14 14:36:42]: (1)BLACK [, Level 21]: weqe:  Kenshi™  stop both
+[2021-04-14 14:36:49]: Flipper [, Level 16]: i dont have infinity jump
