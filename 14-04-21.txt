@@ -8312,3 +8312,4 @@
 [2021-04-14 10:34:28]: El patron [, Level 30]: you kill me
 [2021-04-14 10:34:31]: Falco642 [, Level 0]: what
 [2021-04-14 10:34:44]: Falco642 [, Level 0]: oh i was just testing the traps sorry lol
+[2021-04-14 10:35:00]: ***  [, Level 0]: 'peS' entered and joined the game
