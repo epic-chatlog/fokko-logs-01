@@ -8194,3 +8194,5 @@
 [2021-04-14 10:22:11]: ***  [, Level 0]: 'arther' has left the game (Timeout)
 [2021-04-14 10:22:21]: bob [669, Level 36]: [D] mamikral011:
 [2021-04-14 10:22:23]: ***  [, Level 0]: 'kristalik25' entered and joined the game
+[2021-04-14 10:22:34]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-14 10:22:34]: mamikral011 [DogParty, Level 0]: bob: ?
