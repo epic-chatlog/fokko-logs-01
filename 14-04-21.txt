@@ -7401,3 +7401,4 @@
 [2021-04-14 08:55:19]: ***  [, Level 0]: 'SanoreX' entered and joined the game
 [2021-04-14 08:55:20]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-14 08:55:23]: coca [, Level 22]: ES: flag stoler
+[2021-04-14 08:55:45]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
