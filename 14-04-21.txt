@@ -1745,3 +1745,5 @@
 [2021-04-14 02:07:27]: Boti. [.bad, Level 33]: nézek
 [2021-04-14 02:07:37]: Boti. [.bad, Level 33]: ozt második monitoron dc meg van nyitva ozt annyit látok
 [2021-04-14 02:07:40]: ***  [, Level 0]: ### 'Kiøn1029' A TESTVÉREK ÖSSZEFOGNAK EZEKKEL A CIGÓKKAL MINDIG A GOND VAN A PARTI ROBBAN MINT EGY ATOMBOMBA GENGSZTER A VÉR ITT AZ UTCA POKLA
+[2021-04-14 02:07:49]: Kiøn1029 [.bad, Level 32]: jó az
+[2021-04-14 02:07:52]: Boti. [.bad, Level 33]: A Testvérek összefognak ezekkel a cigókkal mindig a gond van a party robban mint egy atombomba gengszter a vér itt az utca pokla
