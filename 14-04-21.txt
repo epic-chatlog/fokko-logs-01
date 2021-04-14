@@ -1845,3 +1845,5 @@
 [2021-04-14 02:15:30]: Matiteusz [TrRShClNrRs, Level 36]: Ðream: hmm i think he dont want xD
 [2021-04-14 02:15:34]: SnowCat [BC, Level 30]: Matiteusz: jeszcze falkenauge
 [2021-04-14 02:15:39]: SnowCat [BC, Level 30]: falkenauge: ?
+[2021-04-14 02:15:41]: Matiteusz [TrRShClNrRs, Level 36]: SnowCat: falke nam pomogl przed sekunda
+[2021-04-14 02:15:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
