@@ -4336,3 +4336,5 @@
 [2021-04-14 05:05:04]: ***  [, Level 0]: 'bob weqe fan' has left the game
 [2021-04-14 05:05:05]: El patron [, Level 29]: xd
 [2021-04-14 05:05:08]: Axandos² [, Level 20]: suicide
+[2021-04-14 05:05:15]: ***  [, Level 0]: 'lolpoep' entered and joined the game
+[2021-04-14 05:05:24]: nobody [, Level 44]: coca: endless room
