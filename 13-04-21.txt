@@ -14282,3 +14282,4 @@
 [2021-04-13 23:48:08]: ***  [, Level 0]: 'Robi_28' entered and joined the game
 [2021-04-13 23:48:17]: ***  [, Level 0]: '(1)1' entered and joined the game
 [2021-04-13 23:48:32]: İntensiv_ [CrazyNoobs, Level 0]: nooo
+[2021-04-13 23:50:38]: ***  [, Level 0]: 'Robi_28' has left the game
