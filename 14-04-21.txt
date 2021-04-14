@@ -10867,3 +10867,5 @@
 [2021-04-14 13:12:33]: Shiro. [404, Level 42]: YelloWorlD: bah ceux qu'on viens de tuer fdp
 [2021-04-14 13:12:40]: ***  [, Level 0]: 'Tom' entered and joined the game
 [2021-04-14 13:12:46]: Shiro. [404, Level 42]: Ƭevan: welp u are with my enemy
+[2021-04-14 13:12:58]: mamikral011 [DogParty, Level 22]: YelloWorlD: why dont help?
+[2021-04-14 13:12:59]: Shiro. [404, Level 42]: Ƭevan: and yellow blocked u, so cant help
