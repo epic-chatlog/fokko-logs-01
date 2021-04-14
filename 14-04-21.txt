@@ -6074,3 +6074,5 @@
 [2021-04-14 07:05:34]: Kezo [.bad, Level 27]: okés
 [2021-04-14 07:05:40]: Kezo [.bad, Level 27]: még mindig meg van
 [2021-04-14 07:05:41]: Kezo [.bad, Level 27]: dikk
+[2021-04-14 07:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-14 07:05:53]: SanoreX [Chilli.*, Level 27]: sw
