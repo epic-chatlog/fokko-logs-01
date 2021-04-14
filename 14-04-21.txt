@@ -1763,3 +1763,7 @@
 [2021-04-14 02:08:24]: Kahve [, Level 23]: :)
 [2021-04-14 02:08:25]: ***  [, Level 0]: 'Soros' entered and joined the game
 [2021-04-14 02:08:28]: [D] El patron [, Level 24]: [D] falkenauge: nah ich spiele 6 tage  auf dem server
+[2021-04-14 02:08:29]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-14 02:08:32]: [D] El patron [, Level 24]: [D] falkenauge:  dumb kid
+[2021-04-14 02:08:35]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
+[2021-04-14 02:08:40]: ***  [, Level 0]: 'dilman' has left the game
