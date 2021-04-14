@@ -7793,3 +7793,7 @@
 [2021-04-14 09:41:30]: ***  [, Level 0]: 'Wayllan Kath' has left the game
 [2021-04-14 09:41:31]: (1)☺ [, Level 12]: give me flag Emilcha
 [2021-04-14 09:41:37]: ***  [, Level 0]: 'Lyshinyr Wos' has left the game
+[2021-04-14 09:41:40]: Zephir™ [, Level 40]: Emilcha:
+[2021-04-14 09:41:43]: ***  [, Level 0]: 'Lucas' has left the game (Timeout)
+[2021-04-14 09:41:44]: ~DemoizL~ [, Level 39]: vollesprit: à rien, tu y vas que quand tu spam block au début
+[2021-04-14 09:41:50]: SanoreX [Chilli.*, Level 27]: [D] Emilcha: Red Flag is my give me it
