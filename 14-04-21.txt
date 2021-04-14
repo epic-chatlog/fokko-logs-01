@@ -5695,3 +5695,5 @@
 [2021-04-14 06:41:01]: No~Filter [, Level 0]: xxxxxxxxxxxxxxx
 [2021-04-14 06:41:04]: Taip [VergleriSay, Level 17]: helppp
 [2021-04-14 06:41:05]: No~Filter [, Level 0]: na vagyok
+[2021-04-14 06:41:16]: Kiøn1029 [.bad, Level 32]: dummyval jöhetnél
+[2021-04-14 06:41:22]: Kiøn1029 [.bad, Level 32]: és akkr nem kellene solo raidelnem
