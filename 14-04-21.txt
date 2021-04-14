@@ -385,3 +385,4 @@
 [2021-04-14 00:58:20]: ***  [, Level 0]: '(1)Kezo' entered and joined the game
 [2021-04-14 00:58:32]: ***  [, Level 0]: 'el champeon' entered and joined the game
 [2021-04-14 00:58:39]: ***  [, Level 0]: '(1)Kezo' has left the game
+[2021-04-14 00:58:58]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: Fearless: just stay there
