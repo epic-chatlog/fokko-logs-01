@@ -6971,3 +6971,5 @@
 [2021-04-14 08:18:25]: power [TrRShClNrRs, Level 0]: (1)Ƭevan:
 [2021-04-14 08:18:25]: ***  [, Level 0]: '(1)Ðream' has left the game
 [2021-04-14 08:18:25]: ***  [, Level 0]: '(1)Ƭevan' has left the game
+[2021-04-14 08:18:29]: Matiteusz [TrRShClNrRs, Level 36]: XD
+[2021-04-14 08:18:37]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
