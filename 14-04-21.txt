@@ -300,3 +300,5 @@
 [2021-04-14 00:48:24]: ***  [, Level 0]: f"{self.name}"'s killing spree was ended by NoobEmirF (6 blocks)
 [2021-04-14 00:48:36]: ReXi [, Level 0]: Taip:
 [2021-04-14 00:48:48]: Ðream [TrRShClNrRs, Level 46]: omg what a nub
+[2021-04-14 00:49:01]: Lucas [THECEPS, Level 35]: Ðream: sayd the dead guy
+[2021-04-14 00:49:06]: comic [comically, Level 14]: jhesus christ
