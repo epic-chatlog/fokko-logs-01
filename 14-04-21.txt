@@ -1966,3 +1966,4 @@
 [2021-04-14 02:22:24]: ***  [, Level 0]: '[D] Bananarama' would have timed out, but can use timeout protection now
 [2021-04-14 02:22:24]: ***  [, Level 0]: 'Bananarama' would have timed out, but can use timeout protection now
 [2021-04-14 02:22:35]: Matiteusz [TrRShClNrRs, Level 36]:  /stats
+[2021-04-14 02:22:56]: Fearless [, Level 40]: falkenauge:  u have more death than kill
