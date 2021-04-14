@@ -11340,3 +11340,6 @@
 [2021-04-14 14:10:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-14 14:12:28]: ***  [, Level 0]: 'canintospace' entered and joined the game
 [2021-04-14 14:12:35]: Flipper [, Level 16]: want stay
+[2021-04-14 14:12:52]: (1)BLACK [, Level 21]: no u
+[2021-04-14 14:12:54]: (3)Zʷʰʸˀ [NULL, Level 26]: Isegrin: help
+[2021-04-14 14:12:55]: canintospace [, Level 0]: help
