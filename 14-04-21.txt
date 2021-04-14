@@ -24,3 +24,7 @@
 [2021-04-14 00:05:45]: ***  [, Level 0]: '1' finished the special race!
 [2021-04-14 00:05:48]: Intensiv [CrazyNoobs, Level 8]: :(
 [2021-04-14 00:05:48]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-14 00:05:50]: ***  [, Level 0]: [D] SkyForge finished in: 4 minute(s) 36.26 second(s)
+[2021-04-14 00:05:50]: ***  [, Level 0]: '[D] SkyForge' finished the special race!
+[2021-04-14 00:05:54]: ***  [, Level 0]: SkyForge finished in: 4 minute(s) 52.40 second(s)
+[2021-04-14 00:05:54]: ***  [, Level 0]: 'SkyForge' finished the special race!
