@@ -13852,3 +13852,6 @@
 [2021-04-13 18:10:06]: (2)Zʷʰʸˀ [NULL, Level 26]: ez escape xD
 [2021-04-13 18:10:20]: Zephir™ [, Level 39]: Kirito: :D
 [2021-04-13 18:10:32]: Zephir™ [, Level 39]: Kirito: love u my amor ♥
+[2021-04-13 18:10:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-13 18:10:51]: Kirito [{TQuila}, Level 40]: Zʷʰʸˀ: chicken
+[2021-04-13 18:10:54]: Zephir™ [, Level 39]: s6_sven: and 1v2 ez xD weqe
