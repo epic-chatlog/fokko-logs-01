@@ -7402,3 +7402,5 @@
 [2021-04-14 08:55:20]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-14 08:55:23]: coca [, Level 22]: ES: flag stoler
 [2021-04-14 08:55:45]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
+[2021-04-14 08:55:45]: Lucas [THECEPS, Level 35]: ES: big mistake you made
+[2021-04-14 08:55:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
