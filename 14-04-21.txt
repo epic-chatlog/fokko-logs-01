@@ -3828,3 +3828,7 @@
 [2021-04-14 04:22:05]: ***  [, Level 0]: 'Good man' finished the special race!
 [2021-04-14 04:22:10]: ***  [, Level 0]: 'norplayer' joined the spectators
 [2021-04-14 04:22:13]: ***  [, Level 0]: 'norplayer' joined the game
+[2021-04-14 04:22:16]: 1 [, Level 17]: VS
+[2021-04-14 04:22:21]: Cylox [{TQuila}, Level 31]: hayır
+[2021-04-14 04:22:21]: weqe [669, Level 12]: what if u betray me El patron
+[2021-04-14 04:22:23]: ***  [, Level 0]: 'norplayer' joined the spectators
