@@ -3769,3 +3769,5 @@
 [2021-04-14 04:18:06]: 1 [, Level 17]: BASLA
 [2021-04-14 04:18:09]: Intensiv_ [CrazyNoobs, Level 1]: aga pack iniriom
 [2021-04-14 04:18:11]: Intensiv_ [CrazyNoobs, Level 1]: bitsin olr
+[2021-04-14 04:18:19]: SanoreX [Chilli.*, Level 27]: DiscordBridge:
+[2021-04-14 04:18:20]: 1 [, Level 17]: VS
