@@ -7494,3 +7494,5 @@
 [2021-04-14 09:08:45]: ***  [, Level 0]: ES finished in: 1 minute(s) 52.66 second(s)
 [2021-04-14 09:08:45]: ***  [, Level 0]: New record: 2 minute(s) 37.36 second(s) better.
 [2021-04-14 09:08:52]: coca [, Level 22]: El patron: stop
+[2021-04-14 09:08:54]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 2 minute(s) 22.46 second(s)
+[2021-04-14 09:09:00]: Lucas [THECEPS, Level 35]: El patron: it's indeed
