@@ -6734,3 +6734,8 @@
 [2021-04-14 08:00:42]: ***  [, Level 0]: '(1)/' joined the game
 [2021-04-14 08:00:46]: MOM [, Level 28]: Matiteusz:
 [2021-04-14 08:00:47]: SanoreX [Chilli.*, Level 27]: Foxie♥: look watch me
+[2021-04-14 08:00:49]: MOM [, Level 28]: Matiteusz: can you help?
+[2021-04-14 08:00:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-14 08:00:53]: ***  [, Level 0]: '(1)/' joined the spectators
+[2021-04-14 08:00:58]: SanoreX [Chilli.*, Level 27]: help
+[2021-04-14 08:00:59]: SanoreX [Chilli.*, Level 27]: HELP
