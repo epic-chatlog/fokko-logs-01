@@ -489,3 +489,6 @@
 [2021-04-14 01:07:20]: Kiøn1029 [.bad, Level 32]: #5 blocker: nem
 [2021-04-14 01:07:27]: Kiøn1029 [.bad, Level 32]: #5 blocker: már jó sok napja
 [2021-04-14 01:07:32]: [D] #5 blocker [|*MorE*|, Level 0]: xd
+[2021-04-14 01:07:43]: Kiøn1029 [.bad, Level 32]: #5 blocker: amióta van dc-n a chat log azóta
+[2021-04-14 01:07:44]: ***  [, Level 0]: 'Adleg' has left the game
+[2021-04-14 01:07:45]: [D] #5 blocker [|*MorE*|, Level 0]: Kiøn1029: de ez a live 15 órája megy
