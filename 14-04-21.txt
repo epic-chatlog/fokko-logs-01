@@ -11458,3 +11458,7 @@
 [2021-04-14 14:33:36]: ***  [, Level 0]: 'UrinStone' entered and joined the game
 [2021-04-14 14:33:41]: Zʷʰʸˀ [NULL, Level 37]: Flipper:
 [2021-04-14 14:34:00]: Zʷʰʸˀ [NULL, Level 37]: thx
+[2021-04-14 14:34:04]: weqe [669, Level 12]: (1)BLACK: meen ent
+[2021-04-14 14:34:09]: UrinStone [sƔη., Level 0]: anyone knows how to bind chat commands?
+[2021-04-14 14:34:09]: Flipper [, Level 16]: ?
+[2021-04-14 14:34:09]: (1)BLACK [, Level 21]: weqe:  idk
