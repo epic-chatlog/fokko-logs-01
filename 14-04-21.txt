@@ -352,3 +352,9 @@
 [2021-04-14 00:54:37]: comic [comically, Level 14]: LMFAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 [2021-04-14 00:54:38]: comic [comically, Level 14]: HAhahHHj]s
 [2021-04-14 00:54:39]: weqe [669, Level 12]: hm i can make him not kill u
+[2021-04-14 00:54:48]: comic [comically, Level 14]: loka09
+[2021-04-14 00:54:49]: comic [comically, Level 14]: oka9
+[2021-04-14 00:54:50]: comic [comically, Level 14]: lmaof
+[2021-04-14 00:54:52]: ***  [, Level 0]: 1 finished in: 0 minute(s) 51.40 second(s)
+[2021-04-14 00:54:52]: f"{self.name}" [, Level 18]: how
+[2021-04-14 00:54:53]: ReXi [, Level 0]: weqe: why u block him
