@@ -13611,3 +13611,4 @@
 [2021-04-13 17:33:28]: Zephir™ [, Level 39]: and usless
 [2021-04-13 17:33:38]: s6_sven [, Level 21]: Zephir™:  thats you mum said to me last night
 [2021-04-13 17:33:41]: Zephir™ [, Level 39]: 3 hours for come and first try all dead
+[2021-04-13 17:33:54]: ***  [, Level 0]: 'Random Guy' would have timed out, but can use timeout protection now
