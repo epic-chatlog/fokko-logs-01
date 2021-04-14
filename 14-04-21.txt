@@ -1747,3 +1747,9 @@
 [2021-04-14 02:07:40]: ***  [, Level 0]: ### 'Kiøn1029' A TESTVÉREK ÖSSZEFOGNAK EZEKKEL A CIGÓKKAL MINDIG A GOND VAN A PARTI ROBBAN MINT EGY ATOMBOMBA GENGSZTER A VÉR ITT AZ UTCA POKLA
 [2021-04-14 02:07:49]: Kiøn1029 [.bad, Level 32]: jó az
 [2021-04-14 02:07:52]: Boti. [.bad, Level 33]: A Testvérek összefognak ezekkel a cigókkal mindig a gond van a party robban mint egy atombomba gengszter a vér itt az utca pokla
+[2021-04-14 02:07:57]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-14 02:07:59]: [D] El patron [, Level 24]: [D] falkenauge: du hast inf jumps und taser wtf
+[2021-04-14 02:07:59]: ***  [, Level 0]: 'el champeon' has left the game
+[2021-04-14 02:07:59]: ***  [, Level 0]: 'Soros' has left the game
+[2021-04-14 02:08:00]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
+[2021-04-14 02:08:00]: ***  [, Level 0]: 'el champeon5641' entered and joined the game
