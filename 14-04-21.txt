@@ -4837,3 +4837,6 @@
 [2021-04-14 05:38:27]: SanoreX.* [Chilli.*, Level 22]: Zephir™: go plot 11
 [2021-04-14 05:38:29]: ss [, Level 0]: RİFE
 [2021-04-14 05:38:36]: Zephir™ [, Level 40]: SanoreX: he was not afk
+[2021-04-14 05:38:37]: ss [, Level 0]: RİFE
+[2021-04-14 05:38:43]: ***  [, Level 0]: '☺' entered and joined the game
+[2021-04-14 05:38:43]: ss [, Level 0]: RİFE
