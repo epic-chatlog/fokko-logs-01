@@ -47,3 +47,7 @@
 [2021-04-14 00:11:25]: ***  [, Level 0]: '(1)Tom' entered and joined the game
 [2021-04-14 00:11:31]: ***  [, Level 0]: '(1)Tom' has left the game
 [2021-04-14 00:12:03]: Ðream [TrRShClNrRs, Level 46]: Lucas: rat
+[2021-04-14 00:12:15]: ***  [, Level 0]: 1 finished in: 0 minute(s) 54.90 second(s)
+[2021-04-14 00:12:15]: ***  [, Level 0]: New record: 41.10 second(s) better.
+[2021-04-14 00:12:15]: ***  [, Level 0]: Tom finished in: 1 minute(s) 55.24 second(s)
+[2021-04-14 00:12:15]: ***  [, Level 0]: New record: 1 minute(s) 10.96 second(s) better.
