@@ -9313,3 +9313,9 @@
 [2021-04-14 11:41:04]: vollesprit [, Level 0]: stay here
 [2021-04-14 11:41:05]: ***  [, Level 0]: 'Flipper' has left the game
 [2021-04-14 11:41:05]: ***  [, Level 0]: 'Flupper' has left the game
+[2021-04-14 11:41:06]: ***  [, Level 0]: 'σмєтнιηg' changed name to 'S Y T H N'
+[2021-04-14 11:41:09]: ***  [, Level 0]: 'hhh3' finished the special race!
+[2021-04-14 11:41:12]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-14 11:41:13]: ***  [, Level 0]: 'Flipper' entered and joined the game
+[2021-04-14 11:41:16]: ***  [, Level 0]: 'Orwined' finished the special race!
+[2021-04-14 11:41:17]: ***  [, Level 0]: 'nameless tee' entered and joined the game
