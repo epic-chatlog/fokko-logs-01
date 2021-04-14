@@ -5829,3 +5829,6 @@
 [2021-04-14 06:52:04]: Kezo [DogParty, Level 41]: rage
 [2021-04-14 06:52:18]: Recep [VergleriSay, Level 0]: pls come inf jump
 [2021-04-14 06:52:21]: Taip [VergleriSay, Level 17]: 2 sec
+[2021-04-14 06:52:57]: kiøn1029 [.bad, Level 25]: d+:
+[2021-04-14 06:53:04]: ***  [, Level 0]: (1)Zʷʰʸˀ finished in: 3 minute(s) 40.44 second(s)
+[2021-04-14 06:53:04]: ***  [, Level 0]: New record: 3 minute(s) 22.80 second(s) better.
