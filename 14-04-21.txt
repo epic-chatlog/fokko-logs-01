@@ -4748,3 +4748,4 @@
 [2021-04-14 05:30:06]: Axandos [, Level 26]: raide sowieso alleine x)
 [2021-04-14 05:30:27]: ***  [, Level 0]: 'bafi' has left the game
 [2021-04-14 05:30:28]: SanoreX.* [Chilli.*, Level 22]: Isegrin: flag stoler
+[2021-04-14 05:30:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
