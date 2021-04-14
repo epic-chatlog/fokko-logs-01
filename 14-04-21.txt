@@ -1121,3 +1121,6 @@
 [2021-04-14 01:40:26]: Kahve [, Level 23]: Fincan: gir istediğin gibi açık zaten aq sorma
 [2021-04-14 01:40:32]: Taip [VergleriSay, Level 0]: kk
 [2021-04-14 01:40:35]: ***  [, Level 0]: 1 finished in: 0 minute(s) 52.44 second(s)
+[2021-04-14 01:40:42]: [D] Boti. [.bad, Level 27]: iz disz ö rablás?
+[2021-04-14 01:40:44]: SnowCat [BC, Level 30]: #5 blocker: <<<
+[2021-04-14 01:40:47]: Taip [VergleriSay, Level 0]: no war
