@@ -148,3 +148,5 @@
 [2021-04-14 00:25:36]: ***  [, Level 0]: '__init__(self):' entered and joined the game
 [2021-04-14 00:25:43]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: xD
 [2021-04-14 00:25:48]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-14 00:25:50]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: moni
+[2021-04-14 00:25:53]: ***  [, Level 0]: 'ChillderPlagon*' has left the game
