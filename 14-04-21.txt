@@ -11208,3 +11208,4 @@
 [2021-04-14 13:45:44]: ***  [, Level 0]: Ƭevan finished in: 3 minute(s) 14.28 second(s)
 [2021-04-14 13:45:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-14 13:45:50]: (1)BLACK [, Level 21]: Ƭevan:  how to i get taser
+[2021-04-14 13:45:56]: Ƭevan [TrRShClNrRs, Level 49]: u need buy
