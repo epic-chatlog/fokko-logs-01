@@ -6965,3 +6965,9 @@
 [2021-04-14 08:17:55]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-14 08:17:56]: Matiteusz [TrRShClNrRs, Level 36]: Yelloworld: why ur dick
 [2021-04-14 08:18:14]: power [TrRShClNrRs, Level 0]: (1)Ðream:
+[2021-04-14 08:18:16]: power [TrRShClNrRs, Level 0]: help
+[2021-04-14 08:18:24]: ***  [, Level 0]: 'Ðream' has left the game
+[2021-04-14 08:18:24]: ***  [, Level 0]: 'Ƭevan' has left the game
+[2021-04-14 08:18:25]: power [TrRShClNrRs, Level 0]: (1)Ƭevan:
+[2021-04-14 08:18:25]: ***  [, Level 0]: '(1)Ðream' has left the game
+[2021-04-14 08:18:25]: ***  [, Level 0]: '(1)Ƭevan' has left the game
