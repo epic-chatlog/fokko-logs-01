@@ -4061,3 +4061,7 @@
 [2021-04-14 04:48:06]: ***  [, Level 0]: 'Tziys*' has left the game
 [2021-04-14 04:48:06]: ***  [, Level 0]: 'Kezo' has left the game
 [2021-04-14 04:48:07]: coca [, Level 22]: El patron: where
+[2021-04-14 04:48:09]: SanoreX [Chilli.*, Level 27]: SJDASJDAS
+[2021-04-14 04:48:13]: coca [, Level 22]: El patron: XD
+[2021-04-14 04:48:17]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
+[2021-04-14 04:48:19]: ***  [, Level 0]: 'nameless tee' joined the spectators
