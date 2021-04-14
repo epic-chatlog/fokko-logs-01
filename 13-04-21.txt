@@ -14288,3 +14288,5 @@
 [2021-04-13 23:52:19]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 59.88 second(s)
 [2021-04-13 23:52:24]: ***  [, Level 0]: 's6_sven' entered and joined the game
 [2021-04-13 23:52:44]: İntensiv_ [CrazyNoobs, Level 0]: help
+[2021-04-13 23:52:55]: Lucas [THECEPS, Level 35]: Jerry: >>
+[2021-04-13 23:52:55]: İntensiv_ [CrazyNoobs, Level 0]: help flappy
