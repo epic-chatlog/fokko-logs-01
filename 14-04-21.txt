@@ -9806,3 +9806,7 @@
 [2021-04-14 12:10:35]: ***  [, Level 0]: 'Tierkus' has left the game
 [2021-04-14 12:10:37]: ***  [, Level 0]: 'Wayllan Kath' has left the game
 [2021-04-14 12:10:40]: Taip [VergleriSay, Level 19]: nobody: why
+[2021-04-14 12:10:46]: ***  [, Level 0]: 'Slvry_' entered and joined the game
+[2021-04-14 12:10:48]: Taip [VergleriSay, Level 19]: why
+[2021-04-14 12:10:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-14 12:10:52]: Kezo [DogParty, Level 41]: LAG
