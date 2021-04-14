@@ -6385,3 +6385,6 @@
 [2021-04-14 07:27:52]: ***  [, Level 0]: '[D] El patron' entered and joined the game
 [2021-04-14 07:27:56]: WarHammer [DogParty, Level 26]: 1:  KENDİ SAYFASINDAN
 [2021-04-14 07:28:03]: WarHammer [DogParty, Level 26]: 1:  GOOGLE A YAZ TEEWORLD ÇIKAR
+[2021-04-14 07:28:15]: Flupper [, Level 0]: weqe:
+[2021-04-14 07:28:17]: Flupper [, Level 0]: kill
+[2021-04-14 07:28:21]: Flupper [, Level 0]: trust
