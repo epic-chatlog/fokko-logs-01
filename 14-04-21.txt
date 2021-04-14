@@ -11388,3 +11388,5 @@
 [2021-04-14 14:19:11]: ***  [, Level 0]: 'ölüm bekçisi' joined the game
 [2021-04-14 14:19:33]: ***  [, Level 0]: 'Bozzkurt' has left the game
 [2021-04-14 14:19:47]: ~DemoizL~ [, Level 39]: xD
+[2021-04-14 14:20:29]: Flipper [, Level 16]: 0.1
+[2021-04-14 14:20:30]: Flipper [, Level 16]: :)]
