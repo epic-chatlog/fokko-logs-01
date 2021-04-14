@@ -12141,3 +12141,5 @@
 [2021-04-14 16:53:43]: sun.slow(y) [FookinLads, Level 35]: Zephir™: 1
 [2021-04-14 16:53:46]: sun.slow(y) [FookinLads, Level 35]: war4life
 [2021-04-14 16:53:46]: Zephir™ [, Level 40]: sun.slow(y): u help them or not ?
+[2021-04-14 16:53:51]: (1)Kirito [, Level 40]: Zephir™: now you are dead
+[2021-04-14 16:53:54]: Zephir™ [, Level 40]: sun.slow(y): mh okay
