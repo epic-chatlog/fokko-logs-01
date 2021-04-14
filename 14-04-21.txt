@@ -7306,3 +7306,5 @@
 [2021-04-14 08:42:29]: (1)☺ [, Level 0]: traitor bob
 [2021-04-14 08:42:35]: ***  [, Level 0]: 'Wayllan Kath' has left the game
 [2021-04-14 08:42:52]: ***  [, Level 0]: 'Wayllan Kath' entered and joined the game
+[2021-04-14 08:43:51]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
+[2021-04-14 08:43:51]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
