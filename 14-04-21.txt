@@ -7311,3 +7311,6 @@
 [2021-04-14 08:44:02]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-14 08:44:33]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-14 08:44:42]: ***  [, Level 0]: '(1)casserole :p' entered and joined the game
+[2021-04-14 08:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-14 08:45:51]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
+[2021-04-14 08:45:52]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
