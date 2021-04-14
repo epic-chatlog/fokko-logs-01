@@ -8436,3 +8436,6 @@
 [2021-04-14 10:48:18]: ***  [, Level 0]: 'vollesprit' entered and joined the game
 [2021-04-14 10:48:35]: ERROR. [404, Level 56]: die teed sind aufn PC so riesig im gegensatz zum lappi
 [2021-04-14 10:48:39]: Swarfey [FookinLads, Level 42]: ERROR.: bist du high oder so
+[2021-04-14 10:48:40]: Swarfey [FookinLads, Level 42]: oh
+[2021-04-14 10:48:42]: Swarfey [FookinLads, Level 42]: das meinst du
+[2021-04-14 10:48:49]: ***  [, Level 0]: 'kristalik25' has left the game
