@@ -11556,3 +11556,6 @@
 [2021-04-14 14:48:51]: Bozzkurt [SkinLover, Level 0]: Zʷʰʸˀ:  right
 [2021-04-14 14:48:57]: ***  [, Level 0]: '☺' would have timed out, but can use timeout protection now
 [2021-04-14 14:49:37]: ***  [, Level 0]: '(1)☺' entered and joined the game
+[2021-04-14 14:50:03]: ***  [, Level 0]: 'Altes Bier' entered and joined the game
+[2021-04-14 14:50:04]: (1)BLACK [, Level 21]: i didnt want war u did Zʷʰʸˀ
+[2021-04-14 14:50:05]: ***  [, Level 0]: 'Altes Bier' has left the game
