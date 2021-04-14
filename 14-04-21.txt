@@ -381,3 +381,5 @@
 [2021-04-14 00:57:27]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
 [2021-04-14 00:57:34]: ***  [, Level 0]: 'Kiøn1029' has left the game
 [2021-04-14 00:58:10]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: get out of here
+[2021-04-14 00:58:18]: ***  [, Level 0]: 1 finished in: 1 minute(s)  1.96 second(s)
+[2021-04-14 00:58:20]: ***  [, Level 0]: '(1)Kezo' entered and joined the game
