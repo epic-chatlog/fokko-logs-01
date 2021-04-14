@@ -7906,3 +7906,6 @@
 [2021-04-14 09:52:54]: ~DemoizL~ [, Level 39]: ZillyDreck: tu dois farm sur des endroits pour farm
 [2021-04-14 09:53:04]: ~DemoizL~ [, Level 39]: vollesprit: *
 [2021-04-14 09:53:06]: vollesprit [, Level 0]: ok*
+[2021-04-14 09:53:21]: ***  [, Level 0]: 'GTROB' entered and joined the game
+[2021-04-14 09:53:24]: ***  [, Level 0]: 'BC|Tixnix' has left the game
+[2021-04-14 09:53:25]: vollesprit [, Level 0]: on monte ?
