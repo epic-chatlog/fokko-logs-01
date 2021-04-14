@@ -14285,3 +14285,5 @@
 [2021-04-13 23:50:38]: ***  [, Level 0]: 'Robi_28' has left the game
 [2021-04-13 23:50:48]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-13 23:50:57]: ***  [, Level 0]: 'Meetiteusz' entered and joined the game
+[2021-04-13 23:52:19]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 59.88 second(s)
+[2021-04-13 23:52:24]: ***  [, Level 0]: 's6_sven' entered and joined the game
