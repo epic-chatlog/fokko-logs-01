@@ -11327,3 +11327,4 @@
 [2021-04-14 14:05:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-14 14:06:24]: ***  [, Level 0]: 'sharkz' entered and joined the game
 [2021-04-14 14:10:01]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
+[2021-04-14 14:10:12]: ***  [, Level 0]: 'Isegrin' entered and joined the game
