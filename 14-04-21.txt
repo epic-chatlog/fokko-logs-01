@@ -1933,3 +1933,6 @@
 [2021-04-14 02:20:32]: #5 blocker [|*MorE*|, Level 24]: xd
 [2021-04-14 02:20:38]: Intensiv__ [CrazyNoobs, Level 0]: SanoreX:
 [2021-04-14 02:20:40]: SanoreX [Chilli.*, Level 27]: ne
+[2021-04-14 02:20:47]: Intensiv__ [CrazyNoobs, Level 0]: nabuyon olm
+[2021-04-14 02:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-14 02:20:53]: el champeon [, Level 0]: Michel: whar
