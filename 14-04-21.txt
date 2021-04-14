@@ -178,3 +178,8 @@
 [2021-04-14 00:30:24]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: ur frind?
 [2021-04-14 00:30:28]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: friend?
 [2021-04-14 00:30:43]: SnowCat [, Level 30]: #5 blocker: i help u in my last nick
+[2021-04-14 00:30:48]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: Ðream:
+[2021-04-14 00:30:48]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-14 00:30:50]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: xD
+[2021-04-14 00:30:53]: ***  [, Level 0]: 'DFLKJ' has left the game
+[2021-04-14 00:30:58]: ***  [, Level 0]: [D] SkyForge finished in: 2 minute(s)  5.86 second(s)
