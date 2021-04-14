@@ -7059,3 +7059,9 @@
 [2021-04-14 08:27:25]: (1)ChillerDrago [|*KoG*|, Level 45]: wat
 [2021-04-14 08:27:26]: SanoreX [Chilli.*, Level 27]: (1)ChillerDrago: look flappy bug
 [2021-04-14 08:27:27]: ***  [, Level 0]: '(2)MOM' has left the game
+[2021-04-14 08:27:34]: soleri1 [, Level 23]: Cylox:
+[2021-04-14 08:27:34]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 2 minute(s) 33.08 second(s)
+[2021-04-14 08:27:34]: SanoreX [Chilli.*, Level 27]: Axandos: dont touch
+[2021-04-14 08:27:36]: ***  [, Level 0]: (3)Zʷʰʸˀ finished in: 3 minute(s) 50.68 second(s)
+[2021-04-14 08:27:36]: soleri1 [, Level 23]: Cylox.:
+[2021-04-14 08:27:36]: ***  [, Level 0]: (1)MOM finished in: 6 minute(s)  0.92 second(s)
