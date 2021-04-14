@@ -11353,3 +11353,5 @@
 [2021-04-14 14:13:12]: Flipper [, Level 16]: no u
 [2021-04-14 14:13:13]: (1)BLACK [, Level 21]: no u
 [2021-04-14 14:13:19]: Flipper [, Level 16]: k you win
+[2021-04-14 14:13:21]: (1)BLACK [, Level 21]: xD
+[2021-04-14 14:13:26]: ***  [, Level 0]: 'dudebastian' entered and joined the game
