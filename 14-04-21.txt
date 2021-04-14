@@ -5703,3 +5703,5 @@
 [2021-04-14 06:42:27]: ***  [, Level 0]: 'XxxBgLucas' finished the special race!
 [2021-04-14 06:42:27]: ***  [, Level 0]: Eden finished in: 5 minute(s) 33.02 second(s)
 [2021-04-14 06:42:27]: ***  [, Level 0]: 'Eden' finished the special race!
+[2021-04-14 06:42:50]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[2021-04-14 06:42:52]: Intensiv [CrazyNoobs, Level 10]: El patron:
