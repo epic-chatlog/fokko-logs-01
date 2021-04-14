@@ -10292,3 +10292,6 @@
 [2021-04-14 12:32:44]: nobody [, Level 44]: bob: tell me
 [2021-04-14 12:32:50]: bob [669, Level 36]: nobody: u never help
 [2021-04-14 12:32:52]: mamikral011 [DogParty, Level 22]: bob: joke bro?
+[2021-04-14 12:32:59]: nobody [, Level 44]: bob: u not die xd?
+[2021-04-14 12:33:01]: lolpoep [, Level 0]: bob
+[2021-04-14 12:33:05]: mamikral011 [DogParty, Level 22]: bob: ??
