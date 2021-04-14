@@ -10674,3 +10674,6 @@
 [2021-04-14 12:59:22]:   [, Level 0]: mamikral011: Slvry_:
 [2021-04-14 12:59:24]:   [, Level 0]: Kirito: Saud oh man
 [2021-04-14 12:59:31]: Saud [, Level 15]: Kirito:  wdym u killed me
+[2021-04-14 12:59:35]: ***  [, Level 0]: 'Kenshi™sucks' has left the game
+[2021-04-14 12:59:35]: ***  [, Level 0]: 'Zephir™sucks' has left the game
+[2021-04-14 12:59:38]:   [, Level 0]: Kirito: Saud: u ran into it
