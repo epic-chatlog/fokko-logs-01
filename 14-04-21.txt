@@ -7070,3 +7070,5 @@
 [2021-04-14 08:27:59]: GOLD [404, Level 0]: Matiteusz: cmoin
 [2021-04-14 08:28:04]: ***  [, Level 0]: 'hhnaut31' entered and joined the game
 [2021-04-14 08:28:06]: Matiteusz [TrRShClNrRs, Level 36]: GOLD: yelloworld is not playing like this
+[2021-04-14 08:28:11]: SanoreX [Chilli.*, Level 27]: ChillerDragon: use super XD
+[2021-04-14 08:28:16]: ***  [, Level 0]: Lucas finished in: 2 minute(s) 10.52 second(s)
