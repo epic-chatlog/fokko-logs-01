@@ -240,3 +240,7 @@
 [2021-04-14 00:37:56]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: keepertrain._.: go farm anywhere but not here
 [2021-04-14 00:37:58]: ReXi [, Level 0]: kenn ich nicht
 [2021-04-14 00:38:07]: keepertrain._. [, Level 30]: [D] falkenauge: ye ik
+[2021-04-14 00:38:11]: ***  [, Level 0]: __init__(self):'s killing spree was ended by comic (21 blocks)
+[2021-04-14 00:38:11]: ***  [, Level 0]: f"{self.name}"'s killing spree was ended by Recep (8 blocks)
+[2021-04-14 00:38:15]: ReXi [, Level 0]: ah doch ich kenn den falkenauge
+[2021-04-14 00:38:16]: ***  [, Level 0]: 1 finished in: 1 minute(s) 41.52 second(s)
