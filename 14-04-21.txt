@@ -7681,3 +7681,6 @@
 [2021-04-14 09:26:39]: ***  [, Level 0]: '(1)ERROR' has left the game (Timeout)
 [2021-04-14 09:26:40]: Zephir™ [, Level 40]: (1)☺: peut-être pour rire
 [2021-04-14 09:26:43]: SanoreX [Chilli.*, Level 27]: Zephir™:
+[2021-04-14 09:26:47]: (1)☺ [, Level 12]: surement pas
+[2021-04-14 09:26:47]: SanoreX [Chilli.*, Level 27]: Zephir™: stack
+[2021-04-14 09:26:56]: SanoreX [Chilli.*, Level 27]: Zephir™: pls stack
