@@ -3733,3 +3733,6 @@
 [2021-04-14 04:14:30]: 1 [, Level 17]: 2
 [2021-04-14 04:14:58]: El patron [, Level 29]: falkenauge:
 [2021-04-14 04:15:11]: [₯]NOTgaeGUY [Deepthroat, Level 0]: falkenauge: ???
+[2021-04-14 04:15:40]: ***  [, Level 0]: 'Good man' entered and joined the game
+[2021-04-14 04:15:42]: ***  [, Level 0]: 'Bananarama' has left the game
+[2021-04-14 04:15:42]: ***  [, Level 0]: '[D] Bananarama' has left the game
