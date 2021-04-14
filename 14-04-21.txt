@@ -6264,3 +6264,6 @@
 [2021-04-14 07:17:13]: ***  [, Level 0]: 'Foxie♥' entered and joined the game
 [2021-04-14 07:17:15]: Cylox. [{TQuila}, Level 0]: thx
 [2021-04-14 07:17:16]: Flupper [, Level 0]: shut up
+[2021-04-14 07:17:28]: ***  [, Level 0]: '(2)Cosmo' has left the game
+[2021-04-14 07:17:29]: Foxie♥ [{TQuila}, Level 0]: (1)Kirito:
+[2021-04-14 07:17:34]: 1 [, Level 0]: çıkaracam ama
