@@ -9151,3 +9151,4 @@
 [2021-04-14 11:30:13]:   [, Level 0]: Flipper: weqe:
 [2021-04-14 11:30:16]: ***  [, Level 0]: 'comic' has left the game
 [2021-04-14 11:30:19]: Zephir™ [, Level 40]: weqe: nob
+[2021-04-14 11:30:32]: ***  [, Level 0]: 'weqe' has left the game
