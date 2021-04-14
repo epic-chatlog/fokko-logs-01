@@ -3620,3 +3620,4 @@
 [2021-04-14 04:01:22]: ***  [, Level 0]: '1' finished the special race!
 [2021-04-14 04:01:48]: cHurch [HUITA, Level 47]: Meetiteusz: <3
 [2021-04-14 04:01:52]: Meetiteusz [TrRShClNrRs, Level 27]: K!ked: i think you will get some enemys with that tactic
+[2021-04-14 04:02:03]: ***  [, Level 0]: '[D] Emilcha' has left the game
