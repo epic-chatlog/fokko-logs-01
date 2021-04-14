@@ -311,3 +311,5 @@
 [2021-04-14 00:49:43]: Lucas [THECEPS, Level 35]: Ðream: i don't even have played minecraft ones and i'm not going to play it either
 [2021-04-14 00:49:49]: ***  [, Level 0]: 'Foxie♥' entered and joined the game
 [2021-04-14 00:50:16]: ***  [, Level 0]: 'Foxie♥' has left the game
+[2021-04-14 00:50:23]: Lucas [THECEPS, Level 35]: Ðream:
+[2021-04-14 00:50:26]: ***  [, Level 0]: __init__(self): is on a killing spree with 5 blocks
