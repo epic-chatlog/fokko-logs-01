@@ -11436,3 +11436,4 @@
 [2021-04-14 14:30:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-14 14:30:52]: Marcisten [Helper, Level 0]: ☺: henlo
 [2021-04-14 14:30:53]: (1)BLACK [, Level 21]: 200
+[2021-04-14 14:30:59]: ***  [, Level 0]: 'weqe' entered and joined the game
