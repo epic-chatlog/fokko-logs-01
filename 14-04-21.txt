@@ -3780,3 +3780,5 @@
 [2021-04-14 04:18:38]: ***  [, Level 0]: ### 'SanoreX' Foxie♥
 [2021-04-14 04:18:42]: ***  [, Level 0]: ### 'SanoreX' Foxie♥ :
 [2021-04-14 04:18:46]: ***  [, Level 0]: ### 'SanoreX' Foxie♥:
+[2021-04-14 04:18:54]: ***  [, Level 0]: 'nobodyx' entered and joined the game
+[2021-04-14 04:18:56]: 1 [, Level 17]: VS
