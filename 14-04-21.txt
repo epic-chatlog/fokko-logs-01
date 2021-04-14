@@ -6252,3 +6252,5 @@
 [2021-04-14 07:16:12]: El patron [, Level 29]: Adleg:
 [2021-04-14 07:16:29]: ***  [, Level 0]: '(2)Cosmo' has left the game
 [2021-04-14 07:16:34]: Matiteusz [TrRShClNrRs, Level 36]: Flupper: wtf
+[2021-04-14 07:16:41]: ***  [, Level 0]: 'hhh3' entered and joined the game
+[2021-04-14 07:16:41]: Flupper [, Level 0]: i didnt know who  wa
