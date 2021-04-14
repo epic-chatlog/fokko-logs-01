@@ -6992,3 +6992,6 @@
 [2021-04-14 08:20:30]: SanoreX [Chilli.*, Level 27]: ChillerDragon: ok
 [2021-04-14 08:20:31]: (1)ChillerDrago [Chilli.*, Level 45]: yo hhh3
 [2021-04-14 08:20:36]: Nudelsaft c: [FookinLads, Level 60]: xd
+[2021-04-14 08:20:45]: ***  [, Level 0]: Cylox. finished in: 2 minute(s) 45.08 second(s)
+[2021-04-14 08:20:46]: ***  [, Level 0]: 'Axandos' entered and joined the game
+[2021-04-14 08:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
