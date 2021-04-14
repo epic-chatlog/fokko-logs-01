@@ -8522,3 +8522,5 @@
 [2021-04-14 10:59:21]: Flupper [, Level 0]: stop
 [2021-04-14 10:59:43]: [D] El patron [, Level 24]: Zephir™:  lets spike a guy
 [2021-04-14 10:59:45]: ***  [, Level 0]: 'cunt' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-14 11:00:06]: ***  [, Level 0]: ghfdjxc is on a killing spree with 5 blocks
+[2021-04-14 11:00:10]: Emilcha [, Level 38]: upsahls_X: zzzzzzzzz
