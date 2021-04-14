@@ -11684,3 +11684,6 @@
 [2021-04-14 15:15:12]: GODLIKe [, Level 44]: Zʷʰʸˀ:
 [2021-04-14 15:15:19]: GODLIKe [, Level 44]: ZillyDreck: stop
 [2021-04-14 15:15:37]: GODLIKe [, Level 44]: ez
+[2021-04-14 15:15:50]: (1)Kirito [, Level 40]: GODLIKe: easy chlling on buttons
+[2021-04-14 15:15:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-14 15:15:56]: GODLIKe [, Level 44]: (1)Kirito: stop portal gun
