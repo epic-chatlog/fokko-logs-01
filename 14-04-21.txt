@@ -505,3 +505,5 @@
 [2021-04-14 01:09:06]: [D] #5 blocker [|*MorE*|, Level 0]: [D] falkenauge: stop 1 minute
 [2021-04-14 01:09:13]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: im afk
 [2021-04-14 01:09:14]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
+[2021-04-14 01:09:27]: ***  [, Level 0]: 'kiøn1029' has left the game
+[2021-04-14 01:09:33]: SanoreX [Chilli.*, Level 27]: helpp NidardoHD  everyone :D
