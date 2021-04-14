@@ -11271,3 +11271,6 @@
 [2021-04-14 13:52:33]: Taip [VergleriSay, Level 19]: mg
 [2021-04-14 13:52:34]: Taip [VergleriSay, Level 19]: thx
 [2021-04-14 13:53:26]: ***  [, Level 0]: (3)Zʷʰʸˀ finished in: 2 minute(s) 17.22 second(s)
+[2021-04-14 13:53:45]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 1 minute(s) 20.66 second(s)
+[2021-04-14 13:53:45]: ***  [, Level 0]: New record: 13.64 second(s) better.
+[2021-04-14 13:53:54]: YelloWorlD [DogParty, Level 41]: noob
