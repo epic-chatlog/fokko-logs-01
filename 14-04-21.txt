@@ -6430,3 +6430,5 @@
 [2021-04-14 07:31:18]: ***  [, Level 0]: Cylox. finished in: 8 minute(s) 41.42 second(s)
 [2021-04-14 07:31:18]: ***  [, Level 0]: 'Cylox.' finished the special race!
 [2021-04-14 07:31:23]: WarHammer [DogParty, Level 26]: ERROR:  how to enter dummy with teeworls
+[2021-04-14 07:31:31]: ***  [, Level 0]: '1' has left the game (Timeout)
+[2021-04-14 07:31:36]: ***  [, Level 0]: '(1)Intensiv' changed name to 'Intensivasdsa'
