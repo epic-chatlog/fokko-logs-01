@@ -3918,3 +3918,4 @@
 [2021-04-14 04:28:01]: ***  [, Level 0]: 'vollesprit' has left the game
 [2021-04-14 04:28:02]: 1 [, Level 17]: TMM ELEMİYCEM
 [2021-04-14 04:28:19]: BitchPlease Jr. [BBM, Level 0]: well
+[2021-04-14 04:28:34]: ***  [, Level 0]: 'Adleg' entered and joined the game
