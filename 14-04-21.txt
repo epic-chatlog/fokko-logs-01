@@ -291,3 +291,6 @@
 [2021-04-14 00:45:50]: ***  [, Level 0]: NoobEmirF's killing spree was ended by f"{self.name}" (5 blocks)
 [2021-04-14 00:46:29]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
 [2021-04-14 00:47:14]: ReXi [, Level 0]: comic: help7
+[2021-04-14 00:47:30]: comic [comically, Level 14]: bruuuuuuuuuuuuuuuuuuh
+[2021-04-14 00:47:37]: ***  [, Level 0]: 's6_sven' has left the game
+[2021-04-14 00:47:37]: ***  [, Level 0]: 'P4Pyr0s' has left the game
