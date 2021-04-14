@@ -13477,3 +13477,5 @@
 [2021-04-13 17:15:21]: ***  [, Level 0]: Kirito is on a killing spree with 5 blocks
 [2021-04-13 17:15:24]: Kirito [{TQuila}, Level 40]: s6_sven: den beiden
 [2021-04-13 17:15:29]: s6_sven [, Level 21]: ne net mehr
+[2021-04-13 17:15:36]: Kirito [{TQuila}, Level 40]: s6_sven: nicee :D
+[2021-04-13 17:15:37]: s6_sven [, Level 21]: haeb jetzt war mit denen i guess ^^
