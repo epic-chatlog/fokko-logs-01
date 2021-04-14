@@ -2834,3 +2834,6 @@
 [2021-04-14 03:12:11]: ***  [, Level 0]: 'RM | Arin' has left the game
 [2021-04-14 03:12:20]: SanoreX.* [Chilli.*, Level 22]: Swarfey: why DiscordBridge says penis?
 [2021-04-14 03:12:23]: Zephir™ [, Level 39]: s6_sven: i say never police here
+[2021-04-14 03:12:25]: Swarfey [FookinLads, Level 60]: SanoreX: bcs i made him say that
+[2021-04-14 03:12:29]: SanoreX.* [Chilli.*, Level 22]: Swarfey: how
+[2021-04-14 03:12:32]: ←   [, Level 0]: SanoreX.*: .say s
