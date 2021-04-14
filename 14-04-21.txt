@@ -6961,3 +6961,4 @@
 [2021-04-14 08:17:07]: ***  [, Level 0]: 'Zʷʰʸˀ' finished the special race!
 [2021-04-14 08:17:14]: ***  [, Level 0]: '(1)Zʷʰʸˀ' finished the special race!
 [2021-04-14 08:17:24]: (1)Zʷʰʸˀ [NULL, Level 36]: soleri1:
+[2021-04-14 08:17:33]: ***  [, Level 0]: 'Cylox.' entered and joined the game
