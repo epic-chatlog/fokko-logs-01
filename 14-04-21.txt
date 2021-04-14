@@ -394,3 +394,9 @@
 [2021-04-14 00:59:44]: ***  [, Level 0]: 'Jerry' has left the game
 [2021-04-14 00:59:51]: WarHammer [DogParty, Level 26]: Kahve:  peace. ben sana bişe yapmadım
 [2021-04-14 00:59:56]: ***  [, Level 0]: 'Soros' entered and joined the game
+[2021-04-14 01:00:07]: ***  [, Level 0]: [D] falkenauge is on a killing spree with 10 blocks
+[2021-04-14 01:00:07]: Tziys* [DogParty, Level 39]: WTF
+[2021-04-14 01:00:08]: WarHammer [DogParty, Level 26]: Kahve:  YAPTIYSA MAMİ YAPMIŞTIR BAŞKA KİMSE YAPMAZ BELKİ CYLOX
+[2021-04-14 01:00:09]: Kahve [, Level 23]: WarHammer: düşmanıma yardım ettin
+[2021-04-14 01:00:14]: WarHammer [DogParty, Level 26]: Kahve:  ne ara
+[2021-04-14 01:00:14]: Tziys* [DogParty, Level 39]: omg dude fuck off
