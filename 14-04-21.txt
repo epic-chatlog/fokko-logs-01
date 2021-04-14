@@ -7541,3 +7541,5 @@
 [2021-04-14 09:13:37]: cookie [, Level 0]: hi
 [2021-04-14 09:14:07]: El patron [, Level 30]: Lucas:  help
 [2021-04-14 09:14:16]: El patron [, Level 30]: xd
+[2021-04-14 09:14:23]: Emilcha [, Level 38]: :MONEY
+[2021-04-14 09:14:24]: El patron [, Level 30]: coca:
