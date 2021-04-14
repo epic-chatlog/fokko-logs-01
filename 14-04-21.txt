@@ -11872,3 +11872,7 @@
 [2021-04-14 16:06:30]: Zephir™ [, Level 40]: Kirito: toxic
 [2021-04-14 16:06:31]: ***  [, Level 0]: '(1)RM | Arin' has left the game
 [2021-04-14 16:06:39]: (1)Kirito [, Level 40]: Zephir™: ok? didnt know i am toxic lmfao
+[2021-04-14 16:06:45]: Zephir™ [, Level 40]: Kirito: raname "toxickiri"
+[2021-04-14 16:06:48]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
+[2021-04-14 16:06:49]: ***  [, Level 0]: '(1)RM | Arin' has left the game
+[2021-04-14 16:06:51]: Intensiv___ [CrazyNoobs, Level 0]: Zephir™: thanks my only friend
