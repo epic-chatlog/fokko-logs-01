@@ -9216,3 +9216,10 @@
 [2021-04-14 11:35:47]: ***  [, Level 0]: 'ToMsKaTv' has left the game
 [2021-04-14 11:35:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-14 11:35:50]: SanoreX [Chilli.*, Level 27]: S Y T H N: I never kill Flipper
+[2021-04-14 11:35:53]: ***  [, Level 0]: ### 'S Y T H N' can who kill Flipper i give this person 100k
+[2021-04-14 11:35:55]: Flipper [, Level 16]: :D
+[2021-04-14 11:35:57]: ***  [, Level 0]: hhh3 finished in: 3 minute(s) 15.38 second(s)
+[2021-04-14 11:35:57]: ***  [, Level 0]: New record: 5 minute(s) 20.86 second(s) better.
+[2021-04-14 11:35:58]: S Y T H N [, Level 37]: SanoreX: war :D
+[2021-04-14 11:36:01]: SanoreX [Chilli.*, Level 27]: S Y T H N: ok
+[2021-04-14 11:36:03]: Zephir™ [, Level 40]: S Y T H N: drop jetpack ok
