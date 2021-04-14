@@ -1704,3 +1704,8 @@
 [2021-04-14 02:05:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-14 02:05:51]: Nudelsaft c: [FookinLads, Level 42]: xD
 [2021-04-14 02:05:54]: Nudelsaft c: [FookinLads, Level 42]: aaaaaaa
+[2021-04-14 02:06:04]: Boti. [.bad, Level 33]: kurva jó hogy pontosan óránként írják hogy óra lesz e vagy nem
+[2021-04-14 02:06:05]: ***  [, Level 0]: 'Matiteusz' finished the special race!
+[2021-04-14 02:06:10]: ***  [, Level 0]: 'SanoreX.*' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-14 02:06:10]: Nudelsaft c: [FookinLads, Level 42]: xD
+[2021-04-14 02:06:15]: Kiøn1029 [.bad, Level 32]: XDD
