@@ -7571,3 +7571,5 @@
 [2021-04-14 09:17:02]: ***  [, Level 0]: 'Falco642' has left the game
 [2021-04-14 09:17:06]: ☺ [, Level 20]: SanoreX: i can't look
 [2021-04-14 09:17:06]: SanoreX [Chilli.*, Level 27]: Good man: spec me help
+[2021-04-14 09:17:41]: Lucas [THECEPS, Level 35]: coca: wait
+[2021-04-14 09:17:42]: ***  [, Level 0]: Lucas's killing spree was ended by Emilcha (5 blocks)
