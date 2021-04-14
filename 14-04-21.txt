@@ -5772,3 +5772,5 @@
 [2021-04-14 06:47:59]:   [, Level 0]: Boti.: bonuszos faszszopok
 [2021-04-14 06:48:02]: ***  [, Level 0]: 'Tziys*' entered and joined the game
 [2021-04-14 06:48:03]: kiøn1029 [.bad, Level 25]: igen
+[2021-04-14 06:48:15]:   [, Level 0]: Boti.: kezo
+[2021-04-14 06:48:19]:   [, Level 0]: Tziys*: Boti.: cuz boti
