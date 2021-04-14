@@ -11781,3 +11781,4 @@
 [2021-04-14 15:40:23]: weqe [669, Level 12]: ((
 [2021-04-14 15:40:26]: Kenshi™ [, Level 25]: GODLIKe:
 [2021-04-14 15:40:33]: Kenshi™ [, Level 25]: GODLIKe: i saved u
+[2021-04-14 15:40:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
