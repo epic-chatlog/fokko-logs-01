@@ -9810,3 +9810,5 @@
 [2021-04-14 12:10:48]: Taip [VergleriSay, Level 19]: why
 [2021-04-14 12:10:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-14 12:10:52]: Kezo [DogParty, Level 41]: LAG
+[2021-04-14 12:11:02]:   [, Level 0]: Mista bombastic: Ƭevan: they killed me without reason
+[2021-04-14 12:11:05]: nobody [, Level 44]: Emilcha: WTF
