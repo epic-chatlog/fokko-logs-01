@@ -9565,3 +9565,5 @@
 [2021-04-14 11:55:32]: Falco642 [, Level 3]: np
 [2021-04-14 11:55:33]: ***  [, Level 0]: 'hhnaut31' has left the game
 [2021-04-14 11:55:33]: ***  [, Level 0]: 'hhh3' has left the game
+[2021-04-14 11:55:48]: Falco642 [, Level 3]: come
+[2021-04-14 11:55:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
