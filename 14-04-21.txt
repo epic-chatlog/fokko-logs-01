@@ -10744,3 +10744,6 @@
 [2021-04-14 13:04:31]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-14 13:04:37]: Kirito [{TQuila}, Level 40]: Saud: this fcuking gay french bitches are wayblocking
 [2021-04-14 13:04:57]: mamikral011 [DogParty, Level 22]: :DDDD
+[2021-04-14 13:04:58]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-14 13:05:00]: mamikral011 [DogParty, Level 22]: fuck my ping
+[2021-04-14 13:05:04]: mamikral011 [DogParty, Level 22]: Zephir™: help
