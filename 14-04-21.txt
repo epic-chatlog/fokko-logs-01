@@ -2431,3 +2431,5 @@
 [2021-04-14 02:57:24]: vollesprit [, Level 0]: ah
 [2021-04-14 02:57:25]: ***  [, Level 0]: 'PANZELKOWY' has left the game
 [2021-04-14 02:57:29]: s6_sven [, Level 0]: BC|serwan:
+[2021-04-14 02:57:32]: s6_sven [, Level 0]: right
+[2021-04-14 02:57:34]: Zephir™ [, Level 39]: BC|serwan:
