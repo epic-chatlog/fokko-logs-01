@@ -5539,3 +5539,8 @@
 [2021-04-14 06:25:19]: SanoreX.* [Chilli.*, Level 22]: Zephir™: spec me
 [2021-04-14 06:25:31]: Kiøn1029 [.bad, Level 32]: Fearless: mindjárt
 [2021-04-14 06:25:31]:   [, Level 0]: Eden: flappy: broo ?
+[2021-04-14 06:25:32]: El patron [, Level 29]: Zephir™:
+[2021-04-14 06:25:36]: ***  [, Level 0]: 'MieSlime' entered and joined the game
+[2021-04-14 06:25:37]: No~Filter [, Level 0]: xD
+[2021-04-14 06:25:39]: SanoreX.* [Chilli.*, Level 22]: Zephir™: come plot 11
+[2021-04-14 06:25:41]: ***  [, Level 0]: 'nameless tee' has left the game
