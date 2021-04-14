@@ -3046,3 +3046,9 @@
 [2021-04-14 03:25:20]: SanoreX.* [Chilli.*, Level 22]: (1)DiscordBridg: give me ur account
 [2021-04-14 03:25:24]: ***  [, Level 0]: 'Roger' has left the game
 [2021-04-14 03:25:34]: SanoreX.* [Chilli.*, Level 22]: Swarfey:
+[2021-04-14 03:25:45]: Nudelsaft c: [FookinLads, Level 42]: wtf no?
+[2021-04-14 03:25:45]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-14 03:25:46]: ***  [, Level 0]: 'nobodyx' entered and joined the game
+[2021-04-14 03:25:50]: Nudelsaft c: [FookinLads, Level 42]: why should i
+[2021-04-14 03:25:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-14 03:25:54]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: I joked
