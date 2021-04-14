@@ -492,3 +492,5 @@
 [2021-04-14 01:07:43]: Kiøn1029 [.bad, Level 32]: #5 blocker: amióta van dc-n a chat log azóta
 [2021-04-14 01:07:44]: ***  [, Level 0]: 'Adleg' has left the game
 [2021-04-14 01:07:45]: [D] #5 blocker [|*MorE*|, Level 0]: Kiøn1029: de ez a live 15 órája megy
+[2021-04-14 01:07:59]: ***  [, Level 0]: 'SanoreX' entered and joined the game
+[2021-04-14 01:08:04]: 1 [, Level 16]: NEDEN
