@@ -9228,3 +9228,4 @@
 [2021-04-14 11:36:12]: ***  [, Level 0]: 'lessname' has left the game
 [2021-04-14 11:36:13]: S Y T H N [, Level 37]: Zephir™: i dont have
 [2021-04-14 11:36:16]: (1)cookie [, Level 7]: Taip: take him its yours
+[2021-04-14 11:36:20]: ***  [, Level 0]: 'Mikox' has left the game
