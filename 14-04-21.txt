@@ -9478,3 +9478,5 @@
 [2021-04-14 11:49:25]: Falco642 [, Level 3]: jump in this checkpoint
 [2021-04-14 11:49:27]: Falco642 [, Level 3]: with rocket
 [2021-04-14 11:49:35]: Eden [qwq, Level 0]: lag
+[2021-04-14 11:49:46]: Falco642 [, Level 3]: come
+[2021-04-14 11:49:50]: Falco642 [, Level 3]: go there
