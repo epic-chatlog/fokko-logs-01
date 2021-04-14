@@ -8425,3 +8425,4 @@
 [2021-04-14 10:46:51]: ***  [, Level 0]: 'UOYKCUFI' has left the game
 [2021-04-14 10:46:54]: (1)BLACK [, Level 20]: stack
 [2021-04-14 10:46:54]: ***  [, Level 0]: 'ERROR.' entered and joined the game
+[2021-04-14 10:47:06]: (1)BLACK [, Level 20]: Zephir™:  stack pls
