@@ -11422,3 +11422,5 @@
 [2021-04-14 14:26:27]: ***  [, Level 0]: '☺' has left the game (Timeout Protection over)
 [2021-04-14 14:27:03]: (1)BLACK [, Level 21]: dinally
 [2021-04-14 14:27:05]: (1)BLACK [, Level 21]: f
+[2021-04-14 14:27:19]: ***  [, Level 0]: 'Intensiv' entered and joined the game
+[2021-04-14 14:27:25]: (1)BLACK [, Level 21]: not fair xD
