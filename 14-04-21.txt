@@ -4853,3 +4853,6 @@
 [2021-04-14 05:39:53]: weqe [669, Level 12]: [D] El patron: ?
 [2021-04-14 05:39:53]: ***  [, Level 0]: 'Cosmo' entered and joined the game
 [2021-04-14 05:39:59]: (1)coca [, Level 15]: ss: pls wait
+[2021-04-14 05:40:02]: weqe [669, Level 12]: [D] El patron: u want war again ?
+[2021-04-14 05:40:02]: [D] El patron [, Level 24]: weqe: peace40k
+[2021-04-14 05:40:04]: ***  [, Level 0]: '(1)☺' entered and joined the game
