@@ -10890,3 +10890,5 @@
 [2021-04-14 13:14:09]: ***  [, Level 0]: 'Flipper' changed name to '(1)~DemoizL~'
 [2021-04-14 13:14:10]: Slvry_ [???, Level 36]: mhm its lagging much
 [2021-04-14 13:14:12]: ***  [, Level 0]: '(1)Flipper' changed name to 'Flipper'
+[2021-04-14 13:14:29]: ***  [, Level 0]: '(1)~DemoizL~' changed name to '(1)'
+[2021-04-14 13:14:31]: mamikral011 [DogParty, Level 22]: Shiro.: pls sorry stop
