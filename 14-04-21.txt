@@ -9755,3 +9755,7 @@
 [2021-04-14 12:07:06]: ***  [, Level 0]: 'PANZELKOWY' entered and joined the game
 [2021-04-14 12:07:12]: (1)cookie [, Level 7]: Emilcha:  can i farm
 [2021-04-14 12:07:14]: (1)cookie [, Level 7]: Emilcha:  up
+[2021-04-14 12:07:32]: vollesprit [, Level 0]: woooow
+[2021-04-14 12:07:34]: Flipper [, Level 16]: sos
+[2021-04-14 12:07:38]: Flipper [, Level 16]: sos!
+[2021-04-14 12:07:42]: nobody [, Level 44]: bob: who ur enemy
