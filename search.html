@@ -61,6 +61,7 @@
         parsed = {}
         filenames = a[a.length-1].split("\n").map(a => a.split(":")[0])
         a.pop(); // last element are the filenames ^ (remove so they dont show up in the search results)
+
         a.forEach((b, i) => {
             filenames.forEach(filename => {
                 if (b.startsWith(filename) && filename) {
@@ -71,8 +72,14 @@
                 }
             })
         })
-        
-        return parsed;
+        const ordered = Object.keys(parsed).sort().reverse().reduce( // https://stackoverflow.com/questions/5467129/sort-javascript-object-by-key
+            (obj, key) => { 
+                obj[key] = parsed[key]; 
+                return obj;
+            }, 
+            {}
+        );
+        return ordered;
     }
     async function searchButton() {
         let parsed = await parsedSearch(document.querySelector("input").value);
