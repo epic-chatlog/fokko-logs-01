@@ -3804,3 +3804,5 @@
 [2021-04-14 04:20:17]: 1 [, Level 17]: VS
 [2021-04-14 04:20:24]: ***  [, Level 0]: 'norplayer' joined the spectators
 [2021-04-14 04:20:28]: ***  [, Level 0]: 'norplayer' joined the game
+[2021-04-14 04:20:39]: ***  [, Level 0]: 'norplayer' joined the spectators
+[2021-04-14 04:20:43]: ***  [, Level 0]: 'norplayer' joined the game
