@@ -11251,3 +11251,5 @@
 [2021-04-14 13:50:15]: Taip [VergleriSay, Level 19]: isim nasıl alınıyo
 [2021-04-14 13:50:15]: YelloWorlD [DogParty, Level 41]: mamikral011: go out
 [2021-04-14 13:50:25]: mamikral011 [DogParty, Level 22]: YelloWorlD: stop dont touch me
+[2021-04-14 13:50:34]: Taip [VergleriSay, Level 19]: he
+[2021-04-14 13:50:37]: mamikral011 [DogParty, Level 22]: :D
