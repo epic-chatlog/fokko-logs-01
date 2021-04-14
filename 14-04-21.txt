@@ -9791,3 +9791,6 @@
 [2021-04-14 12:09:26]: Falco642 [, Level 3]: vollesprit: you probably have encountered the player "flappy" right?
 [2021-04-14 12:09:34]: Ƭevan [TrRShClNrRs, Level 49]: omg
 [2021-04-14 12:09:40]: Taip [VergleriSay, Level 19]: wtf
+[2021-04-14 12:09:43]: Taip [VergleriSay, Level 19]: rly
+[2021-04-14 12:09:47]: ***  [, Level 0]: 'Wayllan Kath' has left the game
+[2021-04-14 12:09:47]: ***  [, Level 0]: 'El patron' has left the game
