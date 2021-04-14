@@ -5368,3 +5368,6 @@
 [2021-04-14 06:16:27]: ***  [, Level 0]: 'Cylox.' has left the game
 [2021-04-14 06:16:27]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-14 06:16:29]: Kirito [{TQuila}, Level 40]: Zephir™: please stop skipping the english lessons in school. You really need it
+[2021-04-14 06:16:37]: ***  [, Level 0]: 'Flupper' entered and joined the game
+[2021-04-14 06:16:37]: ***  [, Level 0]: 'Flupper' has left the game
+[2021-04-14 06:16:41]: Zephir™ [, Level 40]: Kirito: u need to l2p bro
