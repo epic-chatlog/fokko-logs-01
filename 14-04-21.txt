@@ -12066,3 +12066,4 @@
 [2021-04-14 16:40:40]: ***  [, Level 0]: 'sinapsis25yt' entered and joined the game
 [2021-04-14 16:40:44]: Flipper [, Level 16]: wtf
 [2021-04-14 16:40:46]: Flipper [, Level 16]: whateber
+[2021-04-14 16:40:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
