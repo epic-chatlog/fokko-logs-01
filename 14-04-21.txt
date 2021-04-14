@@ -341,3 +341,9 @@
 [2021-04-14 00:53:27]: [D] #5 blocker [|*MorE*|, Level 0]: Lucas:
 [2021-04-14 00:53:29]: ***  [, Level 0]: 'Adleg' joined the game
 [2021-04-14 00:53:29]: Lucas [THECEPS, Level 35]: Ðream: hammer
+[2021-04-14 00:53:31]: ***  [, Level 0]: 'Adleg' has left the game
+[2021-04-14 00:53:33]: [D] #5 blocker [|*MorE*|, Level 0]: rexi:
+[2021-04-14 00:53:33]: ***  [, Level 0]: 'Adleg' entered and joined the game
+[2021-04-14 00:53:35]: [D] #5 blocker [|*MorE*|, Level 0]: help
+[2021-04-14 00:53:38]: ***  [, Level 0]: 'Adleg' has left the game
+[2021-04-14 00:53:40]: comic [comically, Level 14]: genius plan
