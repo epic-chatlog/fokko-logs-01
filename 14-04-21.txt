@@ -4756,3 +4756,7 @@
 [2021-04-14 05:31:26]: SanoreX.* [Chilli.*, Level 22]: oh
 [2021-04-14 05:31:29]: SanoreX.* [Chilli.*, Level 22]: Isegrin: stop prank
 [2021-04-14 05:31:32]: SanoreX.* [Chilli.*, Level 22]: so funny ok stop
+[2021-04-14 05:31:41]: Taip [VergleriSay, Level 17]: lag
+[2021-04-14 05:31:46]: rayen [, Level 0]: Cosmo:  pls help
+[2021-04-14 05:31:46]: Taip [VergleriSay, Level 17]: k
+[2021-04-14 05:31:50]: ***  [, Level 0]: 'power' entered and joined the game
