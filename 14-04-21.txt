@@ -7392,3 +7392,5 @@
 [2021-04-14 08:54:08]: [D] El patron [, Level 24]: (3)Zʷʰʸˀ: come i rifel u
 [2021-04-14 08:54:15]: coca [, Level 22]: Lucas: can i kill him&
 [2021-04-14 08:54:19]: (3)Zʷʰʸˀ [NULL, Level 26]: lern erstmal schreiben
+[2021-04-14 08:54:25]: Lucas [THECEPS, Level 35]: coca: sure
+[2021-04-14 08:54:27]: coca [, Level 22]: Lucas: lets spike him?
