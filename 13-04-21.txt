@@ -14099,3 +14099,4 @@
 [2021-04-13 18:48:22]: ***  [, Level 0]: 'Zephir™' has left the game
 [2021-04-13 18:50:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-13 18:55:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-13 19:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
