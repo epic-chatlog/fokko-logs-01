@@ -4317,3 +4317,6 @@
 [2021-04-14 05:03:25]: ***  [, Level 0]: '1' has left the game
 [2021-04-14 05:03:25]: Axandos² [, Level 20]: why not
 [2021-04-14 05:03:31]: nobodyx [, Level 39]: Axandos²: dont have reason
+[2021-04-14 05:03:38]: CKA3A4NIK[NR] [Night Raid, Level 35]: Matiteusz:  im want bug
+[2021-04-14 05:03:43]: ***  [, Level 0]: 'ss' entered and joined the game
+[2021-04-14 05:03:47]: ***  [, Level 0]: '(1)1' has left the game
