@@ -146,3 +146,5 @@
 [2021-04-14 00:24:59]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: like Furtsu
 [2021-04-14 00:24:59]: Adleg [, Level 0]: TO
 [2021-04-14 00:25:36]: ***  [, Level 0]: '__init__(self):' entered and joined the game
+[2021-04-14 00:25:43]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: xD
+[2021-04-14 00:25:48]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
