@@ -6879,3 +6879,6 @@
 [2021-04-14 08:10:47]: SanoreX [Chilli.*, Level 27]: Foxie♥: plz help
 [2021-04-14 08:10:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-14 08:10:52]: SanoreX [Chilli.*, Level 27]: Foxie♥: plz helpASO
+[2021-04-14 08:10:53]: ***  [, Level 0]: '(1)☺' entered and joined the game
+[2021-04-14 08:11:02]: Matiteusz [TrRShClNrRs, Level 36]: Foxie♥: fakfka
+[2021-04-14 08:11:03]: ***  [, Level 0]: 'Foxie♥' changed name to 'Yelloworld'
