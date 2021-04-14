@@ -2930,3 +2930,4 @@
 [2021-04-14 03:18:58]: ***  [, Level 0]: Collected 6 money
 [2021-04-14 03:19:00]: Swarfey [FookinLads, Level 60]: why do u stand there
 [2021-04-14 03:19:02]: Swarfey [FookinLads, Level 60]: i told u before
+[2021-04-14 03:19:05]: Swarfey [FookinLads, Level 60]: i dont want ur help
