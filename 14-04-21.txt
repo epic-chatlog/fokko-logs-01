@@ -4906,3 +4906,5 @@
 [2021-04-14 05:44:33]: ***  [, Level 0]: 'MOM' entered and joined the game
 [2021-04-14 05:44:34]:   [, Level 0]: weqe: lucky Zephir™
 [2021-04-14 05:44:34]: ***  [, Level 0]: '(1)rexi' entered and joined the game
+[2021-04-14 05:44:52]: [D] El patron [, Level 24]: weqe: baf
+[2021-04-14 05:44:53]: zZz [{D}, Level 0]: ss?
