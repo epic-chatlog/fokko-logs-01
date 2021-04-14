@@ -7625,3 +7625,5 @@
 [2021-04-14 09:22:50]: ***  [, Level 0]: 'kristalik25' has left the game
 [2021-04-14 09:22:50]: ERROR. [404, Level 56]: bb
 [2021-04-14 09:23:02]: El patron [, Level 30]: Emilcha: no spike pls
+[2021-04-14 09:23:26]: (1)coca [, Level 0]: El patron: he want spike
+[2021-04-14 09:23:29]: El patron [, Level 30]: yo
