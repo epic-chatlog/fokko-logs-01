@@ -11361,3 +11361,5 @@
 [2021-04-14 14:14:13]: ***  [, Level 0]: 'canintospace' joined the game
 [2021-04-14 14:14:27]: ***  [, Level 0]: 'canintospace' joined the spectators
 [2021-04-14 14:14:30]: ***  [, Level 0]: 'Isegrin' has left the game
+[2021-04-14 14:14:37]: ***  [, Level 0]: 'canintospace' joined the game
+[2021-04-14 14:14:41]: ***  [, Level 0]: 'canintospace' joined the spectators
