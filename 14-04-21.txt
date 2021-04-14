@@ -7940,3 +7940,7 @@
 [2021-04-14 09:57:18]: cookie [, Level 19]: help me inf jump im dead
 [2021-04-14 09:57:46]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-14 09:57:55]: (1)☺ [, Level 12]: XD
+[2021-04-14 09:58:24]: ***  [, Level 0]: ### 'Swarfey' Listing all players:
+[2021-04-14 09:58:26]: Swarfey [FookinLads, Level 42]: asdasd
+[2021-04-14 09:58:33]: SanoreX [Chilli.*, Level 27]: me
+[2021-04-14 09:58:33]: ***  [, Level 0]: ### 'Swarfey' 52 players online
