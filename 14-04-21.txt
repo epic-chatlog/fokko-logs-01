@@ -7270,3 +7270,7 @@
 [2021-04-14 08:38:49]: bob [669, Level 36]: stop brother
 [2021-04-14 08:38:56]: Matiteusz [TrRShClNrRs, Level 36]: bob: step brother or brother?
 [2021-04-14 08:38:59]: bob [669, Level 36]: step
+[2021-04-14 08:39:04]: Matiteusz [TrRShClNrRs, Level 36]: bob: I said step only to weqe
+[2021-04-14 08:39:05]: bob [669, Level 36]: i will tell dad
+[2021-04-14 08:39:09]: Matiteusz [TrRShClNrRs, Level 36]: bob: gaga
+[2021-04-14 08:39:14]: ***  [, Level 0]: 'casserole :p' entered and joined the game
