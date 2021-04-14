@@ -14101,3 +14101,5 @@
 [2021-04-13 18:55:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-13 19:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-13 19:05:06]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
+[2021-04-13 19:05:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-13 19:05:58]: ***  [, Level 0]: 's6_sven' entered and joined the game
