@@ -3510,3 +3510,5 @@
 [2021-04-14 03:52:28]: SanoreX.* [Chilli.*, Level 22]: go spawn NidardoHD
 [2021-04-14 03:52:36]: SanoreX.* [Chilli.*, Level 22]: NidardoHD: come my plot and farm
 [2021-04-14 03:52:39]: NidardoHD [FlexTape, Level 16]: SanoreX: why am i here again
+[2021-04-14 03:52:46]: SanoreX.* [Chilli.*, Level 22]: NidardoHD: idk
+[2021-04-14 03:52:50]: ***  [, Level 0]: 642. Kezo Time: 02:03.06, requested by Kezo
