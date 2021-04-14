@@ -8162,3 +8162,8 @@
 [2021-04-14 10:20:02]: Falco642 [, Level 0]: HIOLY
 [2021-04-14 10:20:02]: SwiatoslaW [, Level 38]: pls weapon
 [2021-04-14 10:20:03]: Falco642 [, Level 0]: SHIT
+[2021-04-14 10:20:05]: Falco642 [, Level 0]: DAMMNNN
+[2021-04-14 10:20:14]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-14 10:20:14]: [D] mamikral011 [DogParty, Level 0]: wtf
+[2021-04-14 10:20:15]: JustRace [DogParty, Level 36]: cl_aimbot 0
+[2021-04-14 10:20:16]: SwiatoslaW [, Level 38]: pls weapon
