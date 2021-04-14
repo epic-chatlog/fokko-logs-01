@@ -11424,3 +11424,4 @@
 [2021-04-14 14:27:05]: (1)BLACK [, Level 21]: f
 [2021-04-14 14:27:19]: ***  [, Level 0]: 'Intensiv' entered and joined the game
 [2021-04-14 14:27:25]: (1)BLACK [, Level 21]: not fair xD
+[2021-04-14 14:27:30]: ***  [, Level 0]: 'Intensiv_' entered and joined the game
