@@ -11394,3 +11394,6 @@
 [2021-04-14 14:21:37]: ***  [, Level 0]: 'ölüm bekçisi' has left the game
 [2021-04-14 14:22:27]: ***  [, Level 0]: '☺' would have timed out, but can use timeout protection now
 [2021-04-14 14:22:27]: ***  [, Level 0]: '(1)☺' would have timed out, but can use timeout protection now
+[2021-04-14 14:23:05]: (1)BLACK [, Level 21]: imagine playing without hool
+[2021-04-14 14:23:08]: (1)BLACK [, Level 21]: imagine playing without hook
+[2021-04-14 14:23:11]: σмєтнιηg [zε†α, Level 7]: dude
