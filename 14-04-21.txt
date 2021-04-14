@@ -8694,3 +8694,6 @@
 [2021-04-14 11:10:10]: ***  [, Level 0]: Zephir™ is on a killing spree with 5 blocks
 [2021-04-14 11:10:11]: JustRace [DogParty, Level 36]: Zephir™:  let ma frend alon
 [2021-04-14 11:10:13]: ***  [, Level 0]: 'Rainbow Tee' finished the special race!
+[2021-04-14 11:10:16]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-14 11:10:18]: Zephir™ [, Level 40]: JustRace: who is ur friend ?
+[2021-04-14 11:10:28]: JustRace [DogParty, Level 36]: Zephir™:  well
