@@ -14103,3 +14103,18 @@
 [2021-04-13 19:05:06]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
 [2021-04-13 19:05:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-13 19:05:58]: ***  [, Level 0]: 's6_sven' entered and joined the game
+[2021-04-13 22:29:20]: ***  [, Level 0]: Successfully logged in
+[2021-04-13 22:30:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-13 22:31:57]: ZillyDreck [3, Level 0]: Welcome to the shop, (1)DiscordBridge! Press F4 to start shopping.
+[2021-04-13 22:31:57]: ZillyDreck [3, Level 0]: Bye! Come back if you need something.
+[2021-04-13 22:33:21]: #5 blocker [|*MorE*|, Level 24]: ChillerDragon: i watch your youtube live i go police
+[2021-04-13 22:34:16]: ***  [, Level 0]: '(1)#5 blocker' entered and joined the game
+[2021-04-13 22:34:31]: ***  [, Level 0]: '#5 blocker' would have timed out, but can use timeout protection now
+[2021-04-13 22:35:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-13 22:36:58]: ***  [, Level 0]: '(1)#5 blocker' has left the game
+[2021-04-13 22:37:12]: ***  [, Level 0]: '(1)#5 blocker' entered and joined the game
+[2021-04-13 22:37:15]: ***  [, Level 0]: '(1)#5 blocker' has left the game (Timeout Protection used)
+[2021-04-13 22:39:05]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-13 22:39:23]: ***  [, Level 0]: '#5 blocker' entered and joined the game
+[2021-04-13 22:40:29]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
+[2021-04-13 22:40:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
