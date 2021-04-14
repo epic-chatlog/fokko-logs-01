@@ -7823,3 +7823,5 @@
 [2021-04-14 09:43:17]: ~DemoizL~ [, Level 39]: afk*
 [2021-04-14 09:43:23]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-14 09:43:25]: SanoreX [Chilli.*, Level 27]: Emilcha: IT THAT MY
+[2021-04-14 09:43:27]: ***  [, Level 0]: 'Mista bombastic' has left the game
+[2021-04-14 09:43:35]: Emilcha [, Level 38]: SanoreX: no it is mine
