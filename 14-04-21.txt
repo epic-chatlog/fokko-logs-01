@@ -10428,3 +10428,5 @@
 [2021-04-14 12:42:31]: Cylox [{TQuila}, Level 31]: ok
 [2021-04-14 12:42:41]: Flipper [, Level 16]: war
 [2021-04-14 12:42:42]: ***  [, Level 0]: 'BC|Tixnix' has left the game
+[2021-04-14 12:42:52]: Cylox [{TQuila}, Level 31]: peace?
+[2021-04-14 12:42:53]: Slvry_ [???, Level 36]: fucking full bonus nub
