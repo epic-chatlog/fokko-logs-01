@@ -7555,3 +7555,4 @@
 [2021-04-14 09:15:49]: ***  [, Level 0]: coca is on a killing spree with 5 blocks
 [2021-04-14 09:15:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-14 09:15:50]: ***  [, Level 0]: 'Cosmo' entered and joined the game
+[2021-04-14 09:15:56]: ***  [, Level 0]: 'kristalik25' joined the spectators
