@@ -3935,3 +3935,7 @@
 [2021-04-14 04:30:25]: Cylox. [{TQuila}, Level 0]: Ðream: 2v1 xd
 [2021-04-14 04:30:37]: ***  [, Level 0]: 'Marcisten' has left the game
 [2021-04-14 04:30:45]: Ðream [TrRShClNrRs, Level 46]: weqe: all server go help uxd
+[2021-04-14 04:30:47]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-14 04:30:48]: Cylox [{TQuila}, Level 31]: 1: tm elleme ben para kasıyhom
+[2021-04-14 04:30:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-14 04:30:57]: ***  [, Level 0]: 184. Tziys* Time: 00:53.90, requested by Tziys*
