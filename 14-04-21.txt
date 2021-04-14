@@ -3193,3 +3193,6 @@
 [2021-04-14 03:32:15]: ***  [, Level 0]: 'Cylox.' entered and joined the game
 [2021-04-14 03:32:18]: SanoreX.* [Chilli.*, Level 22]: .chat s
 [2021-04-14 03:32:21]: SanoreX.* [Chilli.*, Level 22]: DiscordBridge: .chat s
+[2021-04-14 03:32:29]: ←   [, Level 0]: SanoreX.*: say hey
+[2021-04-14 03:32:35]: ←   [, Level 0]: SanoreX.*: kill
+[2021-04-14 03:32:37]: ←   [, Level 0]: SanoreX.*: .kill
