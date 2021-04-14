@@ -752,3 +752,6 @@
 [2021-04-14 01:21:11]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
 [2021-04-14 01:21:12]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: SnowCat:
 [2021-04-14 01:21:17]: SanoreX [Chilli.*, Level 27]: Kahve: al falkenauge yi
+[2021-04-14 01:21:20]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: SanoreX:
+[2021-04-14 01:21:23]: SanoreX [Chilli.*, Level 27]: Kahve: al o seni blocklamaz
+[2021-04-14 01:21:27]: [D] Kahve [, Level 19]: SnowCat: war
