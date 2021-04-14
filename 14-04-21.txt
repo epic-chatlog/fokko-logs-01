@@ -5958,3 +5958,13 @@
 [2021-04-14 07:00:47]:   [, Level 0]: Recep: Falco642: bro
 [2021-04-14 07:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-14 07:00:53]: Falco642 [, Level 0]: Recep: wat
+[2021-04-14 07:00:56]: Boti. [.bad, Level 27]: nem tudok arra pont kifogást
+[2021-04-14 07:00:56]: ***  [, Level 0]: 'Kezo' changed name to '(1)Boti.'
+[2021-04-14 07:00:58]: (1)Boti. [DogParty, Level 41]: faker
+[2021-04-14 07:01:00]: ***  [, Level 0]: 'Adleg' entered and joined the game
+[2021-04-14 07:01:01]: Boti. [.bad, Level 27]: u
+[2021-04-14 07:01:02]: ***  [, Level 0]: 'MOM' finished the special race!
+[2021-04-14 07:01:04]: (1)Boti. [DogParty, Level 41]: faker
+[2021-04-14 07:01:05]: kiøn1029 [.bad, Level 25]: nem kaptam meg a házit
+[2021-04-14 07:01:05]: ***  [, Level 0]: '(1)casserole :p' has left the game
+[2021-04-14 07:01:06]: kiøn1029 [.bad, Level 25]: XDD
