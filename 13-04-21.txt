@@ -14087,3 +14087,5 @@
 [2021-04-13 18:46:54]: Zephir™ [, Level 39]: go le partage dans le server
 [2021-04-13 18:47:01]: (1)☺ [, Level 12]: mouais
 [2021-04-13 18:47:01]: Zephir™ [, Level 39]: ☺: tkt
+[2021-04-13 18:47:05]: (1)☺ [, Level 12]: bon bye
+[2021-04-13 18:47:09]: Zephir™ [, Level 39]: bye ! ^^
