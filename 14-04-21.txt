@@ -10010,3 +10010,5 @@
 [2021-04-14 12:20:32]: (3)cookie [, Level 2]: Axel ²:  help
 [2021-04-14 12:20:34]: Axel ² [TrRShClNrRs, Level 20]: nobody: why did u change name?
 [2021-04-14 12:20:35]: Slvry_ [???, Level 36]: Falco641: nub
+[2021-04-14 12:20:46]: Falco641 [.bad, Level 20]: Slvry_: no just lag
+[2021-04-14 12:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
