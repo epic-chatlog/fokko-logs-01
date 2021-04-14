@@ -1702,3 +1702,5 @@
 [2021-04-14 02:05:40]: ***  [, Level 0]: 'andrea' has left the game (Timeout)
 [2021-04-14 02:05:40]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: El patron: geh woanders farmen du kek
 [2021-04-14 02:05:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-14 02:05:51]: Nudelsaft c: [FookinLads, Level 42]: xD
+[2021-04-14 02:05:54]: Nudelsaft c: [FookinLads, Level 42]: aaaaaaa
