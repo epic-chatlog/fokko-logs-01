@@ -10706,3 +10706,5 @@
 [2021-04-14 13:00:52]: (2)casserole :p [, Level 0]: YelloWorlD:
 [2021-04-14 13:00:53]: ***  [, Level 0]: (1)Sayme's killing spree was ended by Shiro. (7 blocks)
 [2021-04-14 13:00:56]: Shiro. [404, Level 42]: Kirito: stfu no name
+[2021-04-14 13:01:04]: ***  [, Level 0]: 'Surfowiec' has left the game
+[2021-04-14 13:01:07]: ***  [, Level 0]: '[D] El patron' entered and joined the game
