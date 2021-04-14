@@ -7504,3 +7504,5 @@
 [2021-04-14 09:10:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-14 09:10:55]: Falco642 [, Level 0]: xd
 [2021-04-14 09:10:57]: El patron [, Level 30]: Lucas:  i have only one taser shot
+[2021-04-14 09:11:04]: Lucas [THECEPS, Level 35]: El patron: :O
+[2021-04-14 09:11:08]: ***  [, Level 0]: 'ES' finished the special race!
