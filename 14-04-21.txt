@@ -7253,3 +7253,7 @@
 [2021-04-14 08:36:57]: nobody [, Level 44]: jajaja
 [2021-04-14 08:36:57]: Matiteusz [TrRShClNrRs, Level 36]: bob: outsmarted
 [2021-04-14 08:37:04]: bob [669, Level 36]: u dumb
+[2021-04-14 08:37:16]: ***  [, Level 0]: 'hhnaut31' has left the game
+[2021-04-14 08:37:16]: ***  [, Level 0]: 'hhh3' has left the game
+[2021-04-14 08:37:18]: ***  [, Level 0]: 'nobodyx' has left the game
+[2021-04-14 08:37:18]: ***  [, Level 0]: 'nobody' has left the game
