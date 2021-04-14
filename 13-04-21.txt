@@ -14135,3 +14135,4 @@
 [2021-04-13 22:55:06]: #5 blocker [|*MorE*|, Level 24]: i farming to get taser
 [2021-04-13 22:55:48]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-13 22:57:15]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-13 22:57:47]: #5 blocker [|*MorE*|, Level 24]: Intensiv: look
