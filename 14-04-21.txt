@@ -6168,3 +6168,6 @@
 [2021-04-14 07:09:01]: Falco641 [.bad, Level 0]: 110 ping
 [2021-04-14 07:09:06]: [D] Boti. [.bad, Level 33]: nem az
 [2021-04-14 07:09:07]: [D] Boti. [.bad, Level 33]: google fordító
+[2021-04-14 07:09:10]: Kiøn1029 [.bad, Level 32]: ja
+[2021-04-14 07:09:16]: [D] Boti. [.bad, Level 33]: UGYE ANYA?
+[2021-04-14 07:09:20]: Kezo [DogParty, Level 41]: Flupper: why
