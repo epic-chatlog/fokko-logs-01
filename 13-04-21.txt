@@ -13756,3 +13756,4 @@
 [2021-04-13 17:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-13 17:55:52]: Zephir™ [, Level 39]: I like turtles.
 [2021-04-13 17:56:21]: (1)☺ [, Level 12]: ahahah
+[2021-04-13 17:56:32]: Zephir™ [, Level 39]: s6_sven: u can fight me ? im boring .. long time i not fight you, u die i not need fight xD
