@@ -9699,3 +9699,8 @@
 [2021-04-14 12:02:56]: Emilcha [, Level 38]: Sayme: clean
 [2021-04-14 12:02:59]: Taip [VergleriSay, Level 19]: sorry
 [2021-04-14 12:03:04]: Taip [VergleriSay, Level 19]: its my first jail
+[2021-04-14 12:03:17]: Sayme [, Level 3]: Emilcha: ok
+[2021-04-14 12:03:19]: ***  [, Level 0]: '|Smily' entered and joined the game
+[2021-04-14 12:03:21]: (1)cookie [, Level 7]: Emilcha:  reason why
+[2021-04-14 12:03:25]: ***  [, Level 0]: '|Smily' has left the game
+[2021-04-14 12:03:25]: Falco642 [, Level 3]: holy shit i cant do anything lol
