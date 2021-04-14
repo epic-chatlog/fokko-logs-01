@@ -11992,3 +11992,4 @@
 [2021-04-14 16:25:07]: Zephir™ [, Level 40]: funny
 [2021-04-14 16:25:47]: Zephir™ [, Level 40]: Kirito: u know why i beat u ?
 [2021-04-14 16:25:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-14 16:26:28]: Zephir™ [, Level 40]: Kirito: because im not toxic like u
