@@ -9289,3 +9289,10 @@
 [2021-04-14 11:39:45]: ***  [, Level 0]: 'iocp' entered and joined the game
 [2021-04-14 11:39:46]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-14 11:39:50]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-14 11:40:00]: ***  [, Level 0]: 'Taip' entered and joined the game
+[2021-04-14 11:40:02]: Flupper [, Level 7]: axel
+[2021-04-14 11:40:02]:   [, Level 0]: Taip: lag
+[2021-04-14 11:40:03]:   [, Level 0]: Taip: fk
+[2021-04-14 11:40:03]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-14 11:40:05]: Axel [TrRShClNrRs, Level 0]: what
+[2021-04-14 11:40:05]: Flupper [, Level 7]: you have portal?
