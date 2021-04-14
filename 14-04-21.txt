@@ -3956,3 +3956,6 @@
 [2021-04-14 04:32:48]: weqe [669, Level 12]: share
 [2021-04-14 04:32:51]: BitchPlease Jr. [BBM, Level 0]: fotze
 [2021-04-14 04:32:54]: SanoreX [Chilli.*, Level 27]: nobody: godlikesin dimi
+[2021-04-14 04:33:03]: ***  [, Level 0]: 'Hala Madrid' has left the game
+[2021-04-14 04:33:06]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-14 04:33:09]: ***  [, Level 0]: 'nameless tee' has left the game
