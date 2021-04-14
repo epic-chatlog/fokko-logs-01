@@ -2119,3 +2119,6 @@
 [2021-04-14 02:34:36]: ***  [, Level 0]: 'Intensiv__' entered and joined the game
 [2021-04-14 02:34:40]: Axandos [, Level 26]: fartdaddy TL|ŦƹƦ$ŦǾN  :D
 [2021-04-14 02:34:52]: Soros [, Level 0]: SanoreX: I haven't done it for days
+[2021-04-14 02:35:00]: ***  [, Level 0]: 'Pickle' entered and joined the game
+[2021-04-14 02:35:01]: SanoreX [Chilli.*, Level 27]: Soros: peace PLS
+[2021-04-14 02:35:05]: ***  [, Level 0]: 'BC|Tixnix' has left the game (Timeout)
