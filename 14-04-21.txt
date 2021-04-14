@@ -7935,3 +7935,4 @@
 [2021-04-14 09:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-14 09:56:08]: JustRace [DogParty, Level 36]: XD
 [2021-04-14 09:56:23]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-14 09:56:45]: Shy-ra. [, Level 0]: lag
