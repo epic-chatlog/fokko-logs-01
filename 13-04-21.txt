@@ -13604,3 +13604,4 @@
 [2021-04-13 17:30:00]: Zephir™ [, Level 39]: il a tout les enneis du monde ici
 [2021-04-13 17:30:05]: (1)☺ [, Level 12]: Kirito: fuck english
 [2021-04-13 17:30:28]: (1)☺ [, Level 12]: xd
+[2021-04-13 17:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
