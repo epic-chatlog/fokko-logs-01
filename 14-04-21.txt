@@ -6437,3 +6437,7 @@
 [2021-04-14 07:31:47]: ***  [, Level 0]: '(1)coca' has left the game
 [2021-04-14 07:31:56]: ***  [, Level 0]: '(1)Flipper' entered and joined the game
 [2021-04-14 07:32:00]: ***  [, Level 0]: ### 'WarHammer' how to enter dummy :D teeworlds
+[2021-04-14 07:32:04]: ***  [, Level 0]: 'Intens' has left the game
+[2021-04-14 07:32:07]: Flupper [, Level 0]: whatever fuck u foxi
+[2021-04-14 07:32:09]: ***  [, Level 0]: 'Flupper' has left the game
+[2021-04-14 07:32:09]: ***  [, Level 0]: 'Flipper' has left the game
