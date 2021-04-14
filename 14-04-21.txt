@@ -11473,3 +11473,4 @@
 [2021-04-14 14:35:04]: UrinStone [sƔη., Level 0]: weqe: how to bind chat commands?
 [2021-04-14 14:35:06]: weqe [669, Level 12]: poka !!
 [2021-04-14 14:35:12]: Kenshi™ [, Level 25]: weqe: come
+[2021-04-14 14:35:34]: Flipper [, Level 16]: my dummy
