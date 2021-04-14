@@ -11357,3 +11357,5 @@
 [2021-04-14 14:13:26]: ***  [, Level 0]: 'dudebastian' entered and joined the game
 [2021-04-14 14:13:43]: ***  [, Level 0]: 'dudebastian' has left the game
 [2021-04-14 14:13:46]: Flipper [, Level 16]: :c
+[2021-04-14 14:14:09]: ***  [, Level 0]: 'canintospace' joined the spectators
+[2021-04-14 14:14:13]: ***  [, Level 0]: 'canintospace' joined the game
