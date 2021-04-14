@@ -7533,3 +7533,5 @@
 [2021-04-14 09:12:50]: Falco642 [, Level 0]: y
 [2021-04-14 09:12:53]: ***  [, Level 0]: 'kristalik25' joined the game
 [2021-04-14 09:12:53]: El patron [, Level 30]: coca:  spec
+[2021-04-14 09:13:13]: ***  [, Level 0]: 'power' has left the game
+[2021-04-14 09:13:18]: El patron [, Level 30]: Lucas:  help
