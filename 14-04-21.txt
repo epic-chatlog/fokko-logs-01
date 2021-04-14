@@ -11983,3 +11983,4 @@
 [2021-04-14 16:22:36]: ***  [, Level 0]: 'RM | Arin' has left the game (Timeout)
 [2021-04-14 16:23:10]: Zephir™ [, Level 40]: Kirito: ez brain
 [2021-04-14 16:23:13]: ***  [, Level 0]: 'RM | Arin' entered and joined the game
+[2021-04-14 16:23:15]: (1)Kirito [, Level 40]: Zephir™: dumb french dick
