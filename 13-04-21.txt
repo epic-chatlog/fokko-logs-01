@@ -13550,3 +13550,5 @@
 [2021-04-13 17:21:31]: ***  [, Level 0]: '☺' has left the game
 [2021-04-13 17:21:33]: ***  [, Level 0]: '☺' entered and joined the game
 [2021-04-13 17:21:41]: ***  [, Level 0]: '(1)☺' entered and joined the game
+[2021-04-13 17:22:02]: ***  [, Level 0]: 'mess tee' has left the game
+[2021-04-13 17:22:04]: (1)☺ [, Level 0]: off 300 ping
