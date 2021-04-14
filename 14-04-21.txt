@@ -10420,3 +10420,7 @@
 [2021-04-14 12:41:57]: Cylox [{TQuila}, Level 31]: my jetpack
 [2021-04-14 12:42:01]: mamikral011 [DogParty, Level 22]: GODLIKe: prop
 [2021-04-14 12:42:03]: Flipper [, Level 16]: war?
+[2021-04-14 12:42:11]: Cylox [{TQuila}, Level 31]: you block me
+[2021-04-14 12:42:13]: Flipper [, Level 16]: give me jetpack
+[2021-04-14 12:42:13]: Slvry ツ [D] [???, Level 0]: no weapons xd
+[2021-04-14 12:42:16]: cookie [, Level 20]: ty
