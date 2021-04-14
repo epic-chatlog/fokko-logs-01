@@ -5593,3 +5593,5 @@
 [2021-04-14 06:28:59]: ***  [, Level 0]: 'soleri1' has left the game (Timeout)
 [2021-04-14 06:28:59]: ***  [, Level 0]: 'Cosmo' has left the game (Timeout)
 [2021-04-14 06:28:59]: ***  [, Level 0]: '(1)Cosmo' has left the game (Timeout)
+[2021-04-14 06:29:05]: ***  [, Level 0]: ### 'SanoreX' 's current time is 10:10
+[2021-04-14 06:29:10]: Zephir™ [, Level 40]: Fearless: and now mad :c
