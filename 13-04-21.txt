@@ -14136,3 +14136,5 @@
 [2021-04-13 22:55:48]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-13 22:57:15]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-13 22:57:47]: #5 blocker [|*MorE*|, Level 24]: Intensiv: look
+[2021-04-13 22:59:08]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-13 22:59:08]: ***  [, Level 0]: '[D] #5 blocker' has left the game
