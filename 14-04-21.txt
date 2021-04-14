@@ -4107,3 +4107,4 @@
 [2021-04-14 04:51:19]: ***  [, Level 0]: 'lolo2378' entered and joined the game
 [2021-04-14 04:51:22]: MOM [, Level 0]: jeder: wer bist du
 [2021-04-14 04:51:28]: MOM [, Level 0]: jeder:
+[2021-04-14 04:51:42]: WarHammer' [DogParty, Level 0]: lag
