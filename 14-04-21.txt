@@ -4143,3 +4143,6 @@
 [2021-04-14 04:53:15]: sun.slow(y) [FookinLads, Level 35]: noi
 [2021-04-14 04:53:17]: SanoreX.* [Chilli.*, Level 22]: olm
 [2021-04-14 04:53:18]: CKA3A4NIK[NR] [Night Raid, Level 35]: ez
+[2021-04-14 04:53:30]: SanoreX.* [Chilli.*, Level 22]: ne biçim dar alan yaw
+[2021-04-14 04:53:30]: MOM [, Level 0]: we need one mire
+[2021-04-14 04:53:31]: MOM [, Level 0]: more
