@@ -7413,3 +7413,6 @@
 [2021-04-14 08:56:35]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
 [2021-04-14 08:56:35]: coca [, Level 22]: Lucas: im was team with he but then when i had flag he killed me
 [2021-04-14 08:56:38]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
+[2021-04-14 08:57:33]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
+[2021-04-14 08:57:35]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-14 08:57:38]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
