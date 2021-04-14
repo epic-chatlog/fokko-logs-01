@@ -248,3 +248,6 @@
 [2021-04-14 00:38:46]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: go farm up
 [2021-04-14 00:38:49]: keepertrain._. [, Level 30]: [D] falkenauge: i have 30lvl xd i know where is this
 [2021-04-14 00:39:19]: keepertrain._. [, Level 30]: Kirito: u here?
+[2021-04-14 00:39:23]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: x
+[2021-04-14 00:39:25]: ***  [, Level 0]: 'Fearless' entered and joined the game
+[2021-04-14 00:39:26]: ***  [, Level 0]: 'keepertrain._.' changed name to 'SnowCat'
