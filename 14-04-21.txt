@@ -766,3 +766,5 @@
 [2021-04-14 01:21:48]: [D] Kahve [, Level 19]: SanoreX: blockla
 [2021-04-14 01:21:49]: mamikral011 [DogParty, Level 0]: Cylox.: bekle gelionm
 [2021-04-14 01:21:49]: SanoreX [Chilli.*, Level 27]: Kahve: alcam bekle
+[2021-04-14 01:21:55]: ***  [, Level 0]: '[D] El patron' entered and joined the game
+[2021-04-14 01:22:03]: [D] Kahve [, Level 19]: rexi: war?
