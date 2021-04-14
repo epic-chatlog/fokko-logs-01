@@ -2127,3 +2127,5 @@
 [2021-04-14 02:35:10]: SanoreX [Chilli.*, Level 27]: Nudelsaft c::
 [2021-04-14 02:35:13]: SanoreX [Chilli.*, Level 27]: NUDELSAFT
 [2021-04-14 02:35:15]: SanoreX [Chilli.*, Level 27]: NUDELSAFT :C
+[2021-04-14 02:35:19]: SanoreX [Chilli.*, Level 27]: NUDELSAFT c:
+[2021-04-14 02:35:28]: Nudelsaft c: [FookinLads, Level 42]: ?
