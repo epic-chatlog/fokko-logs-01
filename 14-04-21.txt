@@ -510,3 +510,4 @@
 [2021-04-14 01:09:36]: WarHammer' [DogParty, Level 17]: LAAG
 [2021-04-14 01:09:41]: NidardoHD [FlexTape, Level 16]: SanoreX:
 [2021-04-14 01:09:44]: SanoreX [Chilli.*, Level 27]: in police
+[2021-04-14 01:09:56]: SanoreX [Chilli.*, Level 27]: NidardoHD: yes?
