@@ -1465,3 +1465,9 @@
 [2021-04-14 01:55:37]: Intensiv [CrazyNoobs, Level 9]: efendim
 [2021-04-14 01:55:38]: Kiøn1029 [.bad, Level 32]: hm?
 [2021-04-14 01:55:41]: Boti. [.bad, Level 33]: semmi
+[2021-04-14 01:55:46]: Kiøn1029 [.bad, Level 32]: eszek
+[2021-04-14 01:55:47]: Kiøn1029 [.bad, Level 32]: megint
+[2021-04-14 01:55:47]: Boti. [.bad, Level 33]: faszom
+[2021-04-14 01:55:48]: SanoreX.* [Chilli.*, Level 22]: Intensiv: en soldakinden /survival yaz
+[2021-04-14 01:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-14 01:55:51]: Intensiv_ [CrazyNoobs, Level 0]: niye
