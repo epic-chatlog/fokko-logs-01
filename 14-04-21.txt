@@ -4739,3 +4739,7 @@
 [2021-04-14 05:29:33]: Swarfey [FookinLads, Level 60]: nohomo
 [2021-04-14 05:29:35]: Swarfey [FookinLads, Level 60]: xdd
 [2021-04-14 05:29:37]: Axandos [, Level 26]: AbaHABHAHAHAHA
+[2021-04-14 05:29:39]: ***  [, Level 0]: 'no game' has left the game
+[2021-04-14 05:29:42]: ***  [, Level 0]: 'bafi' has left the game
+[2021-04-14 05:29:43]: SanoreX.* [Chilli.*, Level 22]: Isegrin: stop
+[2021-04-14 05:29:43]: coca [, Level 22]: Cosmo: help
