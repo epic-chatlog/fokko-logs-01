@@ -11861,3 +11861,5 @@
 [2021-04-14 16:02:28]: Chris [, Level 44]: ops
 [2021-04-14 16:02:29]: Chris [, Level 44]: lag
 [2021-04-14 16:03:11]: Intensiv_ [CrazyNoobs, Level 3]: BLACK:
+[2021-04-14 16:03:56]: ***  [, Level 0]: 'nobodyx' has left the game
+[2021-04-14 16:03:56]: ***  [, Level 0]: 'Chris' has left the game
