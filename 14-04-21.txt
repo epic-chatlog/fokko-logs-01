@@ -296,3 +296,5 @@
 [2021-04-14 00:47:37]: ***  [, Level 0]: 'P4Pyr0s' has left the game
 [2021-04-14 00:48:09]: Adleg [, Level 0]: haha famm
 [2021-04-14 00:48:13]: Adleg [, Level 0]: damm
+[2021-04-14 00:48:17]: ***  [, Level 0]: 1 finished in: 2 minute(s)  6.12 second(s)
+[2021-04-14 00:48:24]: ***  [, Level 0]: f"{self.name}"'s killing spree was ended by NoobEmirF (6 blocks)
