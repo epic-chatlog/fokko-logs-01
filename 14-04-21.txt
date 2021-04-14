@@ -5612,3 +5612,6 @@
 [2021-04-14 06:30:30]: ***  [, Level 0]: 'zemer' has left the game
 [2021-04-14 06:30:34]: ***  [, Level 0]: 'faulskemper' has left the game
 [2021-04-14 06:30:37]: ERROR. [404, Level 56]: Zephir™:  wow xDDDDDDDDDDD
+[2021-04-14 06:30:42]:   [, Level 0]: Matiteusz: Ðream: i bought this useless shit
+[2021-04-14 06:30:45]: Zephir™ [, Level 40]: ERROR: im tired xD so u want i kill him woithout ?
+[2021-04-14 06:30:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
