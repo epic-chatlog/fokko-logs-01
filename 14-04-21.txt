@@ -8502,3 +8502,5 @@
 [2021-04-14 10:56:55]: ERROR [404, Level 75]: xd
 [2021-04-14 10:57:02]: Emilcha [, Level 38]: ERROR: hiiii :D
 [2021-04-14 10:57:25]: El patron [, Level 30]: Kenshi™:
+[2021-04-14 10:57:46]:   [, Level 0]: upsahls_X: Zephir™:  holy shit youre so bad
+[2021-04-14 10:57:48]: Falco642 [, Level 3]: laser
