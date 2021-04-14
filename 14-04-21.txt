@@ -7603,3 +7603,4 @@
 [2021-04-14 09:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-14 09:20:52]: El patron [, Level 30]: cool
 [2021-04-14 09:21:04]: Emilcha [, Level 38]: Good man: btw i know ur coca
+[2021-04-14 09:21:06]: cookie [, Level 19]: help
