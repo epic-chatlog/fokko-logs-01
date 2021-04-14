@@ -9648,3 +9648,8 @@
 [2021-04-14 12:00:17]: Falco641 [.bad, Level 20]: vollesprit: hold a and jump
 [2021-04-14 12:00:22]: (1)☺ [, Level 12]: Emilcha:
 [2021-04-14 12:00:27]: SanoreX [Chilli.*, Level 27]: new gun
+[2021-04-14 12:00:42]: vollesprit [, Level 0]: i am coming
+[2021-04-14 12:00:45]: Kezo [DogParty, Level 41]: Emilcha: war ?
+[2021-04-14 12:00:47]: SanoreX [Chilli.*, Level 27]: why all block all
+[2021-04-14 12:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-14 12:00:51]: cookie [, Level 20]: Emilcha:  why
