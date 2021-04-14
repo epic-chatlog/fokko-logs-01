@@ -6435,3 +6435,5 @@
 [2021-04-14 07:31:42]: ***  [, Level 0]: 'Intensivasdsa' changed name to 'Intens'
 [2021-04-14 07:31:43]: ***  [, Level 0]: ### 'WarHammer' how to enter bot with teeworlds
 [2021-04-14 07:31:47]: ***  [, Level 0]: '(1)coca' has left the game
+[2021-04-14 07:31:56]: ***  [, Level 0]: '(1)Flipper' entered and joined the game
+[2021-04-14 07:32:00]: ***  [, Level 0]: ### 'WarHammer' how to enter dummy :D teeworlds
