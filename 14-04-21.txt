@@ -8157,3 +8157,4 @@
 [2021-04-14 10:19:21]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-14 10:19:25]: (1)BLACK [, Level 20]: xD
 [2021-04-14 10:19:28]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-14 10:19:35]: SwiatoslaW [, Level 38]: pls weapon
