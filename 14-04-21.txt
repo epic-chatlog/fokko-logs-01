@@ -11453,3 +11453,6 @@
 [2021-04-14 14:33:08]: UrinStone [sƔη., Level 0]: do you know how to bind chat commands?
 [2021-04-14 14:33:10]: (1)BLACK [, Level 21]: Zephir™: weqe i dont help both of u ok ?
 [2021-04-14 14:33:23]: weqe [669, Level 12]: wtf BLACK
+[2021-04-14 14:33:27]: (1)BLACK [, Level 21]: weqe:  ?
+[2021-04-14 14:33:34]: ***  [, Level 0]: 'UrinStone' has left the game
+[2021-04-14 14:33:36]: ***  [, Level 0]: 'UrinStone' entered and joined the game
