@@ -7613,3 +7613,8 @@
 [2021-04-14 09:21:48]: SanoreX [Chilli.*, Level 27]: ERROR: why u block me
 [2021-04-14 09:21:51]: ***  [, Level 0]: 'Marcisten' entered and joined the game
 [2021-04-14 09:22:03]: ES [, Level 0]: Good man: noo
+[2021-04-14 09:22:13]: Swarfey [FookinLads, Level 42]: ERROR: W
+[2021-04-14 09:22:14]: ***  [, Level 0]: '(1)coca' entered and joined the game
+[2021-04-14 09:22:16]: ***  [, Level 0]: 'Lucas' has left the game (Timeout)
+[2021-04-14 09:22:16]: Swarfey [FookinLads, Level 42]: was
+[2021-04-14 09:22:16]: ☺ [, Level 20]: ERROR: wtf
