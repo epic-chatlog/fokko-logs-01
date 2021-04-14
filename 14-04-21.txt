@@ -7416,3 +7416,5 @@
 [2021-04-14 08:57:33]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
 [2021-04-14 08:57:35]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-14 08:57:38]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
+[2021-04-14 08:57:41]: coca [, Level 22]: ES: 100 k for peace
+[2021-04-14 08:57:46]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
