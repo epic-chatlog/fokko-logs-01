@@ -14138,3 +14138,4 @@
 [2021-04-13 22:57:47]: #5 blocker [|*MorE*|, Level 24]: Intensiv: look
 [2021-04-13 22:59:08]: ***  [, Level 0]: '#5 blocker' has left the game
 [2021-04-13 22:59:08]: ***  [, Level 0]: '[D] #5 blocker' has left the game
+[2021-04-13 23:00:48]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
