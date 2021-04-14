@@ -13969,3 +13969,7 @@
 [2021-04-13 18:30:45]: (1)☺ [, Level 12]: 55 mon gars
 [2021-04-13 18:30:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-13 18:30:55]: Zephir™ [, Level 39]: ☺: XDDD
+[2021-04-13 18:31:00]: (1)☺ [, Level 12]: XD
+[2021-04-13 18:31:01]: Zephir™ [, Level 39]: j'en est 10 la
+[2021-04-13 18:31:03]: ***  [, Level 0]: 'RM | Arin' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-13 18:31:05]: (1)☺ [, Level 12]: mdr
