@@ -4846,3 +4846,5 @@
 [2021-04-14 05:39:08]: Zephir™ [, Level 40]: ☺: oh salut
 [2021-04-14 05:39:10]: SanoreX.* [Chilli.*, Level 22]: idk Zephir™
 [2021-04-14 05:39:14]: ***  [, Level 0]: [D] El patron is on a killing spree with 10 blocks
+[2021-04-14 05:39:25]: ***  [, Level 0]: 'Recep' entered and joined the game
+[2021-04-14 05:39:33]: ***  [, Level 0]: 'Astraza' entered and joined the game
