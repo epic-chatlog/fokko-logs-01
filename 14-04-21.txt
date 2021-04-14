@@ -8482,3 +8482,5 @@
 [2021-04-14 10:54:44]: ***  [èÿÿÿ, Level 0]: '[D] ERROR' entered and joined the game
 [2021-04-14 10:54:56]: Falco641 [.bad, Level 20]: Taip: no go inf jumps?
 [2021-04-14 10:55:04]: cookie [, Level 20]: noooo
+[2021-04-14 10:55:04]: Falco641 [.bad, Level 20]: just help
+[2021-04-14 10:55:05]: Emilcha [, Level 38]: El patron: >:#
