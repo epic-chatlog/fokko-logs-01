@@ -11950,3 +11950,4 @@
 [2021-04-14 16:15:16]: Intensiv [CrazyNoobs, Level 11]: Kirito:  help
 [2021-04-14 16:15:18]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
 [2021-04-14 16:15:22]: Kirito [{TQuila}, Level 25]: Intensiv: dont help Zephir™ ok?
+[2021-04-14 16:15:31]: (1)Kirito [, Level 40]: Intensiv: ok?
