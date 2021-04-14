@@ -6076,3 +6076,9 @@
 [2021-04-14 07:05:41]: Kezo [.bad, Level 27]: dikk
 [2021-04-14 07:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-14 07:05:53]: SanoreX [Chilli.*, Level 27]: sw
+[2021-04-14 07:05:56]: ***  [, Level 0]: 'lion1029' changed name to 'Tziys*'
+[2021-04-14 07:05:56]: ***  [, Level 0]: 'Boti.' changed name to '(1)Kezo'
+[2021-04-14 07:06:03]: ***  [, Level 0]: 'Kezo' changed name to 'Boti.'
+[2021-04-14 07:06:04]: (1)Kezo [DogParty, Level 41]: Kezo: faker
+[2021-04-14 07:06:06]: ***  [, Level 0]: '(1)Kezo' changed name to 'Kezo'
+[2021-04-14 07:06:06]: Kezo [DogParty, Level 41]: good
