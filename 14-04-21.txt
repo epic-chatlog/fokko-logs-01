@@ -4424,3 +4424,4 @@
 [2021-04-14 05:10:09]: Zephir™ [, Level 39]: El patron: but now i can kill with taser right and left :D
 [2021-04-14 05:10:12]: ***  [, Level 0]: 'G𝕖𝕝𝕒to' entered and joined the game
 [2021-04-14 05:10:32]: Zephir™ [, Level 39]: El patron: i don't understand why my ennemi attack me only if im afk
+[2021-04-14 05:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
