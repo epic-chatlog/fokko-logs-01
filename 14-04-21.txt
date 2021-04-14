@@ -7797,3 +7797,5 @@
 [2021-04-14 09:41:43]: ***  [, Level 0]: 'Lucas' has left the game (Timeout)
 [2021-04-14 09:41:44]: ~DemoizL~ [, Level 39]: vollesprit: à rien, tu y vas que quand tu spam block au début
 [2021-04-14 09:41:50]: SanoreX [Chilli.*, Level 27]: [D] Emilcha: Red Flag is my give me it
+[2021-04-14 09:41:56]: SanoreX [Chilli.*, Level 27]: I dropped it Emilcha
+[2021-04-14 09:41:57]: vollesprit [, Level 0]: ok
