@@ -10749,3 +10749,5 @@
 [2021-04-14 13:05:04]: mamikral011 [DogParty, Level 22]: Zephir™: help
 [2021-04-14 13:05:14]: mamikral011 [DogParty, Level 22]: Zephir™: fast help
 [2021-04-14 13:05:20]: cookie [, Level 20]: Kenshi™:  shiro hi is hear
+[2021-04-14 13:05:23]: Emilcha [, Level 38]: Kenshi™: heyy
+[2021-04-14 13:05:32]: cookie [, Level 20]: Emilcha:  shiro its hear
