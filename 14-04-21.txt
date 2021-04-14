@@ -8320,3 +8320,6 @@
 [2021-04-14 10:36:23]: Falco642 [, Level 0]: El patron: afk?
 [2021-04-14 10:37:10]: MaMi [DogParty, Level 27]: Zephir™:
 [2021-04-14 10:37:46]: [D] El patron [, Level 0]: Zephir™:  wake up with Kenshi™
+[2021-04-14 10:37:52]: ***  [, Level 0]: 'coffee' has left the game
+[2021-04-14 10:37:54]: Swarfey [FookinLads, Level 42]: so laggy
+[2021-04-14 10:38:00]: mamikral011 [DogParty, Level 0]: :DD
