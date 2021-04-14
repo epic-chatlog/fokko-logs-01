@@ -2362,3 +2362,7 @@
 [2021-04-14 02:54:00]: ***  [, Level 0]: Successfully logged in
 [2021-04-14 02:54:02]: SanoreX [Chilli.*, Level 27]: Swarfey: why ChillerDragon is dont disconnect in game?
 [2021-04-14 02:54:03]:   [, Level 0]: (1)RM | Arin: Jakob
+[2021-04-14 02:54:04]:   [, Level 0]: (1)RM | Arin: discord?
+[2021-04-14 02:54:09]: ***  [, Level 0]: 'Fearless' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-14 02:54:12]: Killua [FookinLads, Level 0]: Foxie♥: u wnt him to get as close as possible here
+[2021-04-14 02:54:13]: Foxie♥ [{TQuila}, Level 22]: FAK
