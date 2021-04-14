@@ -7622,3 +7622,5 @@
 [2021-04-14 09:22:26]: ***  [, Level 0]: 'Wayllan Kath' has left the game
 [2021-04-14 09:22:26]: SanoreX [Chilli.*, Level 27]: ERROR: why u block police
 [2021-04-14 09:22:42]: Emilcha [, Level 38]: Zʷʰʸˀ: lets make them 1j
+[2021-04-14 09:22:50]: ***  [, Level 0]: 'kristalik25' has left the game
+[2021-04-14 09:22:50]: ERROR. [404, Level 56]: bb
