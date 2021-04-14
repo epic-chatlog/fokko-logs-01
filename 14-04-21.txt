@@ -9738,3 +9738,5 @@
 [2021-04-14 12:05:29]: vollesprit [, Level 0]: Falco642: let's have fun =)
 [2021-04-14 12:05:37]: Sayme [, Level 3]: Taip: thx
 [2021-04-14 12:05:41]: vollesprit [, Level 0]: Falco642: come
+[2021-04-14 12:05:49]: vollesprit [, Level 0]: Falco642: let your dummy farm alone
+[2021-04-14 12:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
