@@ -11475,3 +11475,4 @@
 [2021-04-14 14:35:12]: Kenshi™ [, Level 25]: weqe: come
 [2021-04-14 14:35:34]: Flipper [, Level 16]: my dummy
 [2021-04-14 14:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-14 14:36:00]: UrinStone [sƔη., Level 0]: Zephir™: help pls, how can i bind chat cmds? like 'bind e "say /cmdlist" or smth
