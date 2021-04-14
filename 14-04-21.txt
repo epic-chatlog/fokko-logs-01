@@ -11003,3 +11003,4 @@
 [2021-04-14 13:25:34]: Taip [VergleriSay, Level 19]: lel
 [2021-04-14 13:25:38]: ***  [, Level 0]: 'Tom' has left the game
 [2021-04-14 13:25:38]: ***  [, Level 0]: 'Jerry' has left the game
+[2021-04-14 13:25:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
