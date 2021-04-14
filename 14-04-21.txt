@@ -4093,3 +4093,4 @@
 [2021-04-14 04:50:09]: SanoreX.* [Chilli.*, Level 22]: unluck
 [2021-04-14 04:50:11]: ***  [, Level 0]: 'CKA3A4NIK[NR]' entered and joined the game
 [2021-04-14 04:50:22]: ***  [, Level 0]: 'Axandos' entered and joined the game
+[2021-04-14 04:50:44]: WarHammer [DogParty, Level 26]: OHA
