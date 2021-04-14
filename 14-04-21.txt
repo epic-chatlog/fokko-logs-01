@@ -11668,3 +11668,4 @@
 [2021-04-14 15:08:44]: GODLIKe [, Level 44]: ops
 [2021-04-14 15:09:39]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
 [2021-04-14 15:09:42]: ***  [, Level 0]: '(1)RM | Arin' has left the game
+[2021-04-14 15:09:55]: ***  [, Level 0]: 'sharkz' has left the game
