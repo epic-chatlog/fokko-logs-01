@@ -11286,3 +11286,5 @@
 [2021-04-14 13:57:09]: Flipper [, Level 16]: huh
 [2021-04-14 13:57:17]: ***  [, Level 0]: 'GOLD' has left the game
 [2021-04-14 13:57:17]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-14 13:57:32]: Taip [VergleriSay, Level 19]: ?
+[2021-04-14 13:57:37]: Flipper [, Level 16]: what do you mean
