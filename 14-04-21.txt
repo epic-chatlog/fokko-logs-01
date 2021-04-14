@@ -6200,3 +6200,6 @@
 [2021-04-14 07:10:27]: ***  [, Level 0]: 'Kiøn1029' has left the game
 [2021-04-14 07:10:43]: Adleg [, Level 0]: kezo?
 [2021-04-14 07:10:43]: Kezo [DogParty, Level 41]: xd
+[2021-04-14 07:10:48]: Kezo [DogParty, Level 41]: Adleg: who are you
+[2021-04-14 07:10:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-14 07:10:51]: Adleg [, Level 0]: help
