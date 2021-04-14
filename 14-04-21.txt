@@ -3816,3 +3816,5 @@
 [2021-04-14 04:21:22]: ***  [, Level 0]: '[₯]NOTgaeGUY' has left the game
 [2021-04-14 04:21:22]: ***  [, Level 0]: '[₯]cLoud' has left the game
 [2021-04-14 04:21:23]: ***  [, Level 0]: 'norplayer' joined the spectators
+[2021-04-14 04:21:26]: ***  [, Level 0]: 'norplayer' joined the game
+[2021-04-14 04:21:35]: weqe [669, Level 12]: 50\
