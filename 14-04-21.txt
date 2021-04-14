@@ -7904,3 +7904,5 @@
 [2021-04-14 09:52:45]: ***  [, Level 0]: 'BC|Tixnix' entered and joined the game
 [2021-04-14 09:52:54]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-14 09:52:54]: ~DemoizL~ [, Level 39]: ZillyDreck: tu dois farm sur des endroits pour farm
+[2021-04-14 09:53:04]: ~DemoizL~ [, Level 39]: vollesprit: *
+[2021-04-14 09:53:06]: vollesprit [, Level 0]: ok*
