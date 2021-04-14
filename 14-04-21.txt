@@ -9373,3 +9373,5 @@
 [2021-04-14 11:44:01]: Falco642 [, Level 3]: spawn tele
 [2021-04-14 11:44:03]: Falco642 [, Level 3]: yes that
 [2021-04-14 11:44:07]: Falco642 [, Level 3]: go in
+[2021-04-14 11:44:10]: ***  [, Level 0]: 'PANZELKOWY' has left the game
+[2021-04-14 11:44:16]: Falco642 [, Level 3]: vollesprit:
