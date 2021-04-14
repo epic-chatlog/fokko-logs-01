@@ -2397,3 +2397,7 @@
 [2021-04-14 02:55:33]: ~DemoizL~ [, Level 39]: vollesprit: à droite
 [2021-04-14 02:55:33]: ***  [, Level 0]: [D] BC|Tixnix is on a killing spree with 5 blocks
 [2021-04-14 02:55:37]: ~DemoizL~ [, Level 39]: vollesprit: gauche
+[2021-04-14 02:55:42]: ~DemoizL~ [, Level 39]: oui
+[2021-04-14 02:55:43]: Nightmare [, Level 27]: Foxie♥: GRRRRRRRRRRRR
+[2021-04-14 02:55:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-14 02:55:51]: vollesprit [, Level 0]: la
