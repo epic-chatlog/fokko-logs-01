@@ -8323,3 +8323,5 @@
 [2021-04-14 10:37:52]: ***  [, Level 0]: 'coffee' has left the game
 [2021-04-14 10:37:54]: Swarfey [FookinLads, Level 42]: so laggy
 [2021-04-14 10:38:00]: mamikral011 [DogParty, Level 0]: :DD
+[2021-04-14 10:38:04]: Swarfey [FookinLads, Level 42]: i have 5 fps and still kill u
+[2021-04-14 10:38:06]: Swarfey [FookinLads, Level 42]: wtf
