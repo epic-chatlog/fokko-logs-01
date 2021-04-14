@@ -6293,3 +6293,6 @@
 [2021-04-14 07:20:35]: ***  [, Level 0]: 'Foxi♥' entered and joined the game
 [2021-04-14 07:20:40]: Cylox. [{TQuila}, Level 0]: ı dont eng
 [2021-04-14 07:20:45]: Flupper [, Level 0]: what
+[2021-04-14 07:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-14 07:20:57]: Cylox. [{TQuila}, Level 0]: Flupper: go jet ?
+[2021-04-14 07:21:01]: Flupper [, Level 0]: yes
