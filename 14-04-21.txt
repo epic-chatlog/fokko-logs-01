@@ -12096,3 +12096,6 @@
 [2021-04-14 16:45:38]: sun.slow(y) [FookinLads, Level 35]: nein
 [2021-04-14 16:45:42]: (2)RM | Arin [Retard MNKY, Level 16]: uff
 [2021-04-14 16:45:44]: Flipper [, Level 16]: spike
+[2021-04-14 16:45:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-14 16:45:50]: (2)RM | Arin [Retard MNKY, Level 16]: aber gefühlt jeder weiß davon
+[2021-04-14 16:45:52]: sun.slow(y) [FookinLads, Level 35]: (2)RM | Arin: deine mutter konnte nix für dein verhalten
