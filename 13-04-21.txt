@@ -13974,3 +13974,4 @@
 [2021-04-13 18:31:03]: ***  [, Level 0]: 'RM | Arin' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-13 18:31:05]: (1)☺ [, Level 12]: mdr
 [2021-04-13 18:31:24]: Zephir™ [, Level 39]: s6_sven: i can beat u without taser but that funny to kill u with :D
+[2021-04-13 18:31:31]: s6_sven [, Level 21]: ok brother ^^
