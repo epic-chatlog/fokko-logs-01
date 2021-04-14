@@ -5713,3 +5713,5 @@
 [2021-04-14 06:43:09]: MieSlime [FookinLads, Level 43]: Flipper:  i know
 [2021-04-14 06:43:10]: kiøn1029 [.bad, Level 25]: megvárlak
 [2021-04-14 06:43:12]: kiøn1029 [.bad, Level 25]: csak gyere
+[2021-04-14 06:43:22]: ***  [, Level 0]: 'MOM' entered and joined the game
+[2021-04-14 06:43:25]: (1)ERROR [404, Level 47]: rly xDD
