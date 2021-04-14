@@ -3885,3 +3885,6 @@
 [2021-04-14 04:25:16]: lolpoep [Ape, Level 0]: stop
 [2021-04-14 04:25:22]: 1 [, Level 17]: VS
 [2021-04-14 04:25:37]: lolpoep [Ape, Level 0]: weqe help
+[2021-04-14 04:25:46]: ***  [, Level 0]: Meetiteusz finished in: 16 minute(s)  8.08 second(s)
+[2021-04-14 04:25:49]: SanoreX.* [Chilli.*, Level 0]: fokkonaut: I found editor bug in my brain
+[2021-04-14 04:25:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
