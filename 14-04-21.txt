@@ -11142,3 +11142,8 @@
 [2021-04-14 13:40:01]: BLACK [, Level 25]: Ƭevan: no
 [2021-04-14 13:40:04]: Flipper [, Level 16]: 0.0
 [2021-04-14 13:40:09]: Flipper [, Level 16]: 0.1
+[2021-04-14 13:40:14]: Flipper [, Level 16]: -1?
+[2021-04-14 13:40:17]: Ƭevan [TrRShClNrRs, Level 49]: BLACK: come with me
+[2021-04-14 13:40:23]: Taip [VergleriSay, Level 19]: YelloWorlD: heyy
+[2021-04-14 13:40:23]: Flipper [, Level 16]: -1?
+[2021-04-14 13:40:24]: cunt [, Level 0]: Flipper: YEs
