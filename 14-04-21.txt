@@ -7840,3 +7840,5 @@
 [2021-04-14 09:45:00]: Emilcha [, Level 38]: SanoreX: no
 [2021-04-14 09:45:09]: SanoreX [Chilli.*, Level 27]: Zephir™: Red Flag is my?
 [2021-04-14 09:45:13]: SanoreX [Chilli.*, Level 27]: Zephir™: Red Flag is my? Emilcha stoled
+[2021-04-14 09:45:24]: ***  [, Level 0]: 'Neoteny' has left the game
+[2021-04-14 09:45:25]: SanoreX [Chilli.*, Level 27]: Emilcha: give back
