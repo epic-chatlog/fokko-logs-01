@@ -9646,3 +9646,5 @@
 [2021-04-14 12:00:09]: Axel ² [TrRShClNrRs, Level 20]: vollesprit: move left
 [2021-04-14 12:00:12]: vollesprit [, Level 0]: yes
 [2021-04-14 12:00:17]: Falco641 [.bad, Level 20]: vollesprit: hold a and jump
+[2021-04-14 12:00:22]: (1)☺ [, Level 12]: Emilcha:
+[2021-04-14 12:00:27]: SanoreX [Chilli.*, Level 27]: new gun
