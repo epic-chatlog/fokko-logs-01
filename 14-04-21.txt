@@ -1925,3 +1925,7 @@
 [2021-04-14 02:19:48]: Kezo [DogParty, Level 0]: 1 ihtiyacım yok
 [2021-04-14 02:19:50]: ***  [, Level 0]: 'Matiteusz卐' changed name to 'Matiteusz'
 [2021-04-14 02:19:55]: (1)Fearless [, Level 0]: s bad
+[2021-04-14 02:20:24]: ***  [, Level 0]: '(1)Fearless' has left the game
+[2021-04-14 02:20:27]: #5 blocker [|*MorE*|, Level 24]: [D] falkenauge: why?
+[2021-04-14 02:20:29]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: fun
+[2021-04-14 02:20:30]: ***  [, Level 0]: '(1)İntensiv_' has left the game
