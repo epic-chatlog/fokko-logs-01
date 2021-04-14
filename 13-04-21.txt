@@ -13445,3 +13445,6 @@
 [2021-04-13 17:12:40]: ***  [, Level 0]: 'mess tee' joined the game
 [2021-04-13 17:12:48]: Kirito [{TQuila}, Level 40]: Zʷʰʸˀ: der is unser gegner!?!?
 [2021-04-13 17:12:55]: Zʷʰʸˀ [NULL, Level 36]: dein gegner
+[2021-04-13 17:12:58]: ***  [, Level 0]: 'mess tee' joined the spectators
+[2021-04-13 17:13:02]: s6_sven [, Level 21]: wem Kirito
+[2021-04-13 17:13:03]: ***  [, Level 0]: 'mess tee' joined the game
