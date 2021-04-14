@@ -4535,3 +4535,12 @@
 [2021-04-14 05:17:47]: rexi [, Level 0]: hä
 [2021-04-14 05:17:48]: ***  [, Level 0]: 'nobodyx' has left the game
 [2021-04-14 05:17:48]: ***  [, Level 0]: 'nobody' has left the game
+[2021-04-14 05:17:55]: rexi [, Level 0]: I like turtles.
+[2021-04-14 05:17:56]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: du alter sack
+[2021-04-14 05:17:57]: coca [, Level 22]: Isegrin: stop fast
+[2021-04-14 05:17:59]: Axandos² [, Level 20]: lets make a clan Zephir™  xd
+[2021-04-14 05:18:00]: coca [, Level 22]: Isegrin: 1
+[2021-04-14 05:18:02]: ***  [, Level 0]: '1' entered and joined the game
+[2021-04-14 05:18:03]: coca [, Level 22]: Isegrin: 2
+[2021-04-14 05:18:04]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: xD
+[2021-04-14 05:18:05]: rexi [, Level 0]: fühle mich geehrt falkenauge
