@@ -6269,3 +6269,4 @@
 [2021-04-14 07:17:34]: 1 [, Level 0]: çıkaracam ama
 [2021-04-14 07:17:36]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
 [2021-04-14 07:17:41]: ***  [, Level 0]: '(2)Cosmo' has left the game
+[2021-04-14 07:18:09]: ***  [, Level 0]: 'WarHammer' entered and joined the game
