@@ -11705,3 +11705,5 @@
 [2021-04-14 15:25:30]: (3)Zʷʰʸˀ [NULL, Level 26]: wow so smart xD
 [2021-04-14 15:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-14 15:26:30]: ***  [, Level 0]: (1)Kirito is on a killing spree with 5 blocks
+[2021-04-14 15:26:32]: ***  [, Level 0]: '~DemoizL~' has left the game
+[2021-04-14 15:26:44]: ***  [, Level 0]: '(1)' changed name to 'σмєтнιηg'
