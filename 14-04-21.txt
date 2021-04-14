@@ -2122,3 +2122,8 @@
 [2021-04-14 02:35:00]: ***  [, Level 0]: 'Pickle' entered and joined the game
 [2021-04-14 02:35:01]: SanoreX [Chilli.*, Level 27]: Soros: peace PLS
 [2021-04-14 02:35:05]: ***  [, Level 0]: 'BC|Tixnix' has left the game (Timeout)
+[2021-04-14 02:35:07]: SanoreX [Chilli.*, Level 27]:  Nudelsaft c:
+[2021-04-14 02:35:09]: ***  [, Level 0]: (1)Bananarama is on a killing spree with 5 blocks
+[2021-04-14 02:35:10]: SanoreX [Chilli.*, Level 27]: Nudelsaft c::
+[2021-04-14 02:35:13]: SanoreX [Chilli.*, Level 27]: NUDELSAFT
+[2021-04-14 02:35:15]: SanoreX [Chilli.*, Level 27]: NUDELSAFT :C
