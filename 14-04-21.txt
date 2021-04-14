@@ -7314,3 +7314,4 @@
 [2021-04-14 08:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-14 08:45:51]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
 [2021-04-14 08:45:52]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-14 08:46:14]: Nudelsaft c: [FookinLads, Level 60]: (1)ChillerDrago: ich kann dir nich mal zuschauen wegen dem zensieren xd
