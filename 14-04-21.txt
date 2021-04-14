@@ -5793,3 +5793,10 @@
 [2021-04-14 06:49:32]: Cylox [{TQuila}, Level 31]: 1: war
 [2021-04-14 06:49:37]: kiøn1029 [.bad, Level 25]: Boti.: már volt egy rage timeout is
 [2021-04-14 06:49:41]: Zephir™ [, Level 40]: El patron: fun war ?
+[2021-04-14 06:49:42]:   [, Level 0]: [D] Boti.: ez
+[2021-04-14 06:49:48]: ***  [, Level 0]: [D] cya finished in: 1 minute(s) 36.90 second(s)
+[2021-04-14 06:49:48]: ***  [, Level 0]: New record: 1 minute(s)  3.78 second(s) better.
+[2021-04-14 06:49:49]: Intensiv [CrazyNoobs, Level 10]: help
+[2021-04-14 06:49:50]: ***  [, Level 0]: cya finished in: 1 minute(s) 39.52 second(s)
+[2021-04-14 06:49:50]: ***  [, Level 0]: New record: 1 minute(s)  8.28 second(s) better.
+[2021-04-14 06:49:52]: Intensiv [CrazyNoobs, Level 10]: help Flupper
