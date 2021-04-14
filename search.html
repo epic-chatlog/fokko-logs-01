@@ -52,7 +52,7 @@
 </html>
 <script>
     async function search(txt) {
-        let resp = await fetch("http://test.swarfey.xyz/search?p=" + txt);
+        let resp = await fetch("https://test.swarfey.xyz/search?p=" + txt);
         
         return await resp.json();
     }
