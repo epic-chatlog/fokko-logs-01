@@ -925,3 +925,5 @@
 [2021-04-14 01:30:37]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: SnowCat: go to settings
 [2021-04-14 01:30:40]: Matiteusz [TrRShClNrRs, Level 36]: mamikral011: Good luck
 [2021-04-14 01:30:42]: Matiteusz [TrRShClNrRs, Level 36]: mamikral011: XD
+[2021-04-14 01:30:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-14 01:30:57]: ***  [, Level 0]: 'İntensiv_' changed name to 'Fincan'
