@@ -8442,3 +8442,6 @@
 [2021-04-14 10:49:05]: ERROR [404, Level 75]: so ungewohnt xd
 [2021-04-14 10:49:10]: (2)casserole :p [, Level 0]: Taip:
 [2021-04-14 10:49:14]: MaMi [DogParty, Level 0]: ERROR:
+[2021-04-14 10:49:21]: El patron [, Level 30]: Kenshi™:
+[2021-04-14 10:49:22]: MaMi [DogParty, Level 0]: ERROR: fuck
+[2021-04-14 10:49:22]: El patron [, Level 30]: help
