@@ -7560,3 +7560,7 @@
 [2021-04-14 09:16:16]: ***  [, Level 0]: '(1)Cosmo' entered and joined the game
 [2021-04-14 09:16:16]: coca [, Level 22]: fuck
 [2021-04-14 09:16:17]: coca [, Level 22]: El patron:
+[2021-04-14 09:16:20]: El patron [, Level 30]: coca: oh
+[2021-04-14 09:16:27]: ***  [, Level 0]: 'kristalik25' joined the spectators
+[2021-04-14 09:16:27]: Lucas [THECEPS, Level 35]: Emilcha: war?
+[2021-04-14 09:16:30]: ☺ [, Level 20]: El patron:
