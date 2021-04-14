@@ -5631,3 +5631,7 @@
 [2021-04-14 06:31:53]: kiøn1029 [.bad, Level 25]: Axandos: stfu you have bonus
 [2021-04-14 06:31:59]: ***  [, Level 0]: 'Fearless' would have timed out, but can use timeout protection now
 [2021-04-14 06:31:59]: ***  [, Level 0]: '(1)Fearless' would have timed out, but can use timeout protection now
+[2021-04-14 06:32:06]: ***  [, Level 0]: 'Cepinio' entered and joined the game
+[2021-04-14 06:32:09]: Zephir™ [, Level 40]: Fearless: come i not use portal
+[2021-04-14 06:32:10]: Recep [VergleriSay, Level 0]: 1: gel fun war
+[2021-04-14 06:32:11]: Intensiv [CrazyNoobs, Level 10]: El patron:  ım not block
