@@ -944,3 +944,7 @@
 [2021-04-14 01:31:57]: [D] Boti. [.bad, Level 27]: és nem látszik ha van e vagy nincs ugrásom
 [2021-04-14 01:31:58]: SanoreX.* [Chilli.*, Level 22]: inf endless+ jetpack nub
 [2021-04-14 01:32:04]: SanoreX.* [Chilli.*, Level 22]: pitch
+[2021-04-14 01:32:12]: [D] Boti. [.bad, Level 27]: kéne valami jó
+[2021-04-14 01:32:17]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-14 01:32:19]: [D] Boti. [.bad, Level 27]: ez amúgy nem rosz
+[2021-04-14 01:32:19]: [D] El patron [, Level 24]: Kahve: is not me war
