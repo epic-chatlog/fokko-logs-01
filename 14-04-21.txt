@@ -5033,3 +5033,4 @@
 [2021-04-14 05:53:12]: Intensiv [CrazyNoobs, Level 10]: ERROR:
 [2021-04-14 05:53:18]: ***  [, Level 0]: ss is on a killing spree with 5 blocks
 [2021-04-14 05:53:28]: Kiøn1029 [.bad, Level 32]: XD
+[2021-04-14 05:53:39]: ***  [, Level 0]: ss's killing spree was ended by bruh (5 blocks)
