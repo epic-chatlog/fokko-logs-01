@@ -8217,3 +8217,6 @@
 [2021-04-14 10:24:28]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-14 10:24:32]: Taip [VergleriSay, Level 18]: soleri1: bro pls come here
 [2021-04-14 10:24:48]: Lucas [THECEPS, Level 35]: [D] mamikral011: i'm jumping the whole time between 20-50 ping ye can't fight with those god dang lags
+[2021-04-14 10:24:51]: Taip [VergleriSay, Level 18]: u have jetpack
+[2021-04-14 10:24:53]: (3)cookie [, Level 0]: wtf dude
+[2021-04-14 10:24:59]: (3)cookie [, Level 0]: mamikral011:  wtf
