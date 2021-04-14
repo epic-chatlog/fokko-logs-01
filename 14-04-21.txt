@@ -2492,3 +2492,6 @@
 [2021-04-14 02:59:24]: ***  [, Level 0]: 'Mayank' has left the game
 [2021-04-14 02:59:35]: BC|Tixnix [BC, Level 0]: Zephir™: thans :D
 [2021-04-14 02:59:36]: CKA3A4NIK[NR] [Night Raid, Level 35]: cl_clown 1
+[2021-04-14 02:59:43]: Zephir™ [, Level 39]: [D] BC|Tixnix: ur ennemi too ?
+[2021-04-14 02:59:54]: JustRace [DogParty, Level 36]: ello man
+[2021-04-14 02:59:54]: BC|Tixnix [BC, Level 0]: Zephir™: yes .D
