@@ -365,3 +365,5 @@
 [2021-04-14 00:55:10]: weqe [669, Level 12]: ReXi: i helped him 1 min ago and 1 min later he blocked me lol
 [2021-04-14 00:55:16]: ***  [, Level 0]: '__init__(self):' has left the game
 [2021-04-14 00:55:16]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-14 00:55:25]: ***  [, Level 0]: 'Tziys*' entered and joined the game
+[2021-04-14 00:55:28]: #5 blocker [|*MorE*|, Level 24]: xd fun man
