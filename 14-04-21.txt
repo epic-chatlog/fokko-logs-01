@@ -10871,3 +10871,6 @@
 [2021-04-14 13:12:59]: Shiro. [404, Level 42]: Ƭevan: and yellow blocked u, so cant help
 [2021-04-14 13:13:09]: ***  [, Level 0]: 'Jerry' entered and joined the game
 [2021-04-14 13:13:14]: ***  [, Level 0]: Sayme is on a killing spree with 10 blocks
+[2021-04-14 13:13:22]: ***  [, Level 0]: 'Mert' has left the game
+[2021-04-14 13:13:24]: Shiro. [404, Level 42]: Slvry_: im a test on kog now kekw
+[2021-04-14 13:13:27]: Shiro. [404, Level 42]: tester*
