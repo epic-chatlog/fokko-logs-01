@@ -6362,3 +6362,7 @@
 [2021-04-14 07:26:25]: Cylox. [{TQuila}, Level 0]: Foxie♥: ? afk
 [2021-04-14 07:26:36]: SanoreX [Chilli.*, Level 27]: lag
 [2021-04-14 07:26:37]: 1 [, Level 0]: level 17 yim yarın 18 polixeyi alacam
+[2021-04-14 07:26:44]: ***  [, Level 0]: 'Foxie♥' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-14 07:26:44]: ***  [, Level 0]: 'Foxi♥' has left the game (Timeout)
+[2021-04-14 07:26:44]: 1 [, Level 0]: level 17 yim yarın 18 polixeyi alacam
+[2021-04-14 07:26:49]: Cylox. [{TQuila}, Level 0]: oow
