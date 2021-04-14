@@ -9298,3 +9298,5 @@
 [2021-04-14 11:40:05]: Flupper [, Level 7]: you have portal?
 [2021-04-14 11:40:06]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-14 11:40:08]: Axel [TrRShClNrRs, Level 0]: no
+[2021-04-14 11:40:21]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-14 11:40:23]: ***  [, Level 0]: 'nameless tee' entered and joined the game
