@@ -3670,3 +3670,4 @@
 [2021-04-14 04:05:57]: ***  [, Level 0]: 'Intensiv__' changed name to 'Intensiv_*_'
 [2021-04-14 04:06:03]: Tziys* [DogParty, Level 39]: El patron:  like my dog ?_
 [2021-04-14 04:06:09]: Tziys* [DogParty, Level 39]: El patron: dog dead
+[2021-04-14 04:06:23]: ***  [, Level 0]: 'nameless tee' has left the game
