@@ -10914,3 +10914,5 @@
 [2021-04-14 13:16:30]: mamikral011 [DogParty, Level 22]: YelloWorlD: whatttt bro
 [2021-04-14 13:16:30]: YelloWorlD [DogParty, Level 41]: Kenshi™: mais ta arreter
 [2021-04-14 13:16:40]: Kenshi™ [, Level 25]: YelloWorlD: j'ai déco, pas pareil
+[2021-04-14 13:16:52]: ***  [, Level 0]: 'rayen' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-14 13:16:52]: ***  [, Level 0]: 'bruh' has left the game (Too weak connection (not acked for 60 seconds))
