@@ -3636,3 +3636,7 @@
 [2021-04-14 04:02:48]: SanoreX.* [Chilli.*, Level 22]: Zephir™: pls stack us
 [2021-04-14 04:02:54]: SanoreX.* [Chilli.*, Level 22]: Zephir™: pls stack us in my plo1
 [2021-04-14 04:02:56]: SanoreX.* [Chilli.*, Level 22]: Zephir™: pls stack us in my plot
+[2021-04-14 04:03:08]: ***  [, Level 0]: 'cya' finished the special race!
+[2021-04-14 04:03:09]: SanoreX.* [Chilli.*, Level 22]: omg
+[2021-04-14 04:03:13]: [D] El patron [, Level 24]: xd
+[2021-04-14 04:03:14]: ***  [, Level 0]: '[D] cya' finished the special race!
