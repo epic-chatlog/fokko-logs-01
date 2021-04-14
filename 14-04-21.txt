@@ -4997,3 +4997,5 @@
 [2021-04-14 05:50:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-14 05:50:55]: Zephir™ [, Level 40]: weqe: tired, not same
 [2021-04-14 05:51:13]: rayen [, Level 0]: zZzerayI:  PLS HELP
+[2021-04-14 05:51:19]: (1)rexi [, Level 0]: warte kurz
+[2021-04-14 05:51:25]: ***  [, Level 0]: 'MOM' has left the game
