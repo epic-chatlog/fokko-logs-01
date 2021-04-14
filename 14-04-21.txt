@@ -7047,3 +7047,4 @@
 [2021-04-14 08:25:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-14 08:25:52]: ***  [, Level 0]: 'nobodyx' entered and joined the game
 [2021-04-14 08:25:54]: Lucas [THECEPS, Level 35]: coca: i didn't want to go there
+[2021-04-14 08:26:03]: Lucas [THECEPS, Level 35]: coca: but the fcking lag took me there
