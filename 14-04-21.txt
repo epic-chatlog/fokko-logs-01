@@ -8684,3 +8684,7 @@
 [2021-04-14 11:09:46]: ***  [, Level 0]: ### 'SanoreX' entered and joined the game
 [2021-04-14 11:09:47]: (1)cookie [, Level 7]: mamikral011:  sorry
 [2021-04-14 11:09:49]: soleri1 [, Level 23]: Falco641:
+[2021-04-14 11:09:55]: ***  [, Level 0]: ### 'SanoreX' has left the game
+[2021-04-14 11:09:56]: ***  [, Level 0]: ### 'SanoreX' entered and joined the game
+[2021-04-14 11:09:57]: ***  [, Level 0]: ### 'SanoreX' has left the game
+[2021-04-14 11:09:59]: ***  [, Level 0]: ### 'SanoreX' entered and joined the game
