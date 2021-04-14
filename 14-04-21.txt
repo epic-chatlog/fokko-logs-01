@@ -3139,3 +3139,5 @@
 [2021-04-14 03:30:10]: ←   [, Level 0]: Swarfey: SanoreX.*: yes?
 [2021-04-14 03:30:12]: Taip [VergleriSay, Level 17]: sry
 [2021-04-14 03:30:13]: ←   [, Level 0]: Swarfey: say SanoreX.*: yes?
+[2021-04-14 03:30:17]: SanoreX.* [Chilli.*, Level 22]: DiscordBridge: oo
+[2021-04-14 03:30:18]: [₯]NOTgaeGUY [Deepthroat, Level 0]: Zephir™: im booooorrrrreeeeedddddd
