@@ -14145,3 +14145,4 @@
 [2021-04-13 23:02:51]: ***  [, Level 0]: 'xdman' has left the game
 [2021-04-13 23:04:27]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
 [2021-04-13 23:04:40]: ***  [, Level 0]: 'Ðream' entered and joined the game
+[2021-04-13 23:05:48]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
