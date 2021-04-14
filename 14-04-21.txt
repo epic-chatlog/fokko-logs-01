@@ -3850,3 +3850,7 @@
 [2021-04-14 04:23:09]: Cylox [{TQuila}, Level 31]: x
 [2021-04-14 04:23:11]: weqe [669, Level 12]: El patron: ??????????
 [2021-04-14 04:23:25]: ***  [, Level 0]: 'SanoreX' changed name to '(1)'
+[2021-04-14 04:23:27]: Intensiv_*_ [CrazyNoobs, Level 0]: sal knk
+[2021-04-14 04:23:27]: ***  [, Level 0]: 'Cylox.' entered and joined the game
+[2021-04-14 04:23:31]: weqe [669, Level 12]: ok give 40 El patron
+[2021-04-14 04:23:37]: lolpoep [Ape, Level 0]: go
