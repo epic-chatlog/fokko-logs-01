@@ -3719,3 +3719,5 @@
 [2021-04-14 04:12:59]: 1 [, Level 17]: noob
 [2021-04-14 04:13:04]: Kezo [DogParty, Level 41]: 1: hayır
 [2021-04-14 04:13:07]: 1 [, Level 17]: noob
+[2021-04-14 04:13:18]: Kezo [DogParty, Level 41]: Intensiv: kin
+[2021-04-14 04:13:25]: ***  [, Level 0]: 'Matiteusz' finished the special race!
