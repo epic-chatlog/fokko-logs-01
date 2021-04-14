@@ -9839,3 +9839,8 @@
 [2021-04-14 12:12:41]: Taip [VergleriSay, Level 19]: whyyyy
 [2021-04-14 12:12:43]: ***  [, Level 0]: 'Slvry ツ [D]' entered and joined the game
 [2021-04-14 12:12:43]: ***  [, Level 0]: 'Slvry ツ [D]' has left the game
+[2021-04-14 12:12:47]: nobody [, Level 44]: bob: dont help Taip
+[2021-04-14 12:12:47]: Taip [VergleriSay, Level 19]: nobody why pls
+[2021-04-14 12:12:49]: ***  [, Level 0]: 'Slvry ツ [D]' entered and joined the game
+[2021-04-14 12:12:49]: vollesprit [, Level 0]: Falco642 you can't play with me ?
+[2021-04-14 12:12:53]: ***  [, Level 0]: 'bruh' entered and joined the game
