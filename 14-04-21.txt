@@ -8070,3 +8070,5 @@
 [2021-04-14 10:12:08]: [D] mamikral011 [DogParty, Level 0]: Cylox: dur
 [2021-04-14 10:12:09]: Emilcha [, Level 38]: ☺ tu m'a add ?
 [2021-04-14 10:12:11]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-14 10:12:25]: (1)cookie [, Level 0]: wait
+[2021-04-14 10:12:29]: nobody [, Level 44]: (1)cookie: delete game
