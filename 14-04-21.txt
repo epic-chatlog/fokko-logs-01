@@ -11845,3 +11845,4 @@
 [2021-04-14 15:59:48]: Zephir™ [, Level 40]: weqe: u  can just give up
 [2021-04-14 16:00:30]: ***  [, Level 0]: 'RM | Arin' joined the spectators
 [2021-04-14 16:00:34]: ***  [, Level 0]: 'RM | Arin' joined the game
+[2021-04-14 16:00:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
