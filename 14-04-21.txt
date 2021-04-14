@@ -7351,3 +7351,6 @@
 [2021-04-14 08:50:18]: coca [, Level 22]: Lucas: can i walk with you?
 [2021-04-14 08:50:47]: Lucas [THECEPS, Level 35]: coca: what do you mean with walk
 [2021-04-14 08:50:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-14 08:50:59]: coca [, Level 22]: Lucas: idk) i want to go near you)
+[2021-04-14 08:51:00]: ***  [, Level 0]: '(2)☺' has left the game
+[2021-04-14 08:51:00]: ***  [, Level 0]: '(1)☺' has left the game
