@@ -7268,3 +7268,5 @@
 [2021-04-14 08:38:32]: (1)☺ [, Level 0]: traitor bob
 [2021-04-14 08:38:48]: Matiteusz [TrRShClNrRs, Level 36]: bob: fake
 [2021-04-14 08:38:49]: bob [669, Level 36]: stop brother
+[2021-04-14 08:38:56]: Matiteusz [TrRShClNrRs, Level 36]: bob: step brother or brother?
+[2021-04-14 08:38:59]: bob [669, Level 36]: step
