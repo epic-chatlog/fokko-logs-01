@@ -358,3 +358,7 @@
 [2021-04-14 00:54:52]: ***  [, Level 0]: 1 finished in: 0 minute(s) 51.40 second(s)
 [2021-04-14 00:54:52]: f"{self.name}" [, Level 18]: how
 [2021-04-14 00:54:53]: ReXi [, Level 0]: weqe: why u block him
+[2021-04-14 00:54:57]: weqe [669, Level 12]: ReXi: he betrayed me
+[2021-04-14 00:55:03]: comic [comically, Level 14]: its that easy
+[2021-04-14 00:55:03]: ReXi [, Level 0]: weqe: how
+[2021-04-14 00:55:06]: #5 blocker [|*MorE*|, Level 24]: txd
