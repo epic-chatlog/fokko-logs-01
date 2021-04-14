@@ -10243,3 +10243,4 @@
 [2021-04-14 12:29:49]: nobody [, Level 44]: bob: spike?
 [2021-04-14 12:30:05]: Slvry ツ [D] [???, Level 0]: ERROR: yo
 [2021-04-14 12:30:06]: Saud [, Level 0]: lolpoep:  wait gime money i can deposit it then give it to u
+[2021-04-14 12:30:31]: ***  [, Level 0]: 'vollesprit' has left the game
