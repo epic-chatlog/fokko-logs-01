@@ -7175,3 +7175,5 @@
 [2021-04-14 08:32:51]: bob [669, Level 36]: yes dude stfu
 [2021-04-14 08:32:56]: ***  [, Level 0]: '(3)Zʷʰʸˀ' finished the special race!
 [2021-04-14 08:33:02]: ***  [, Level 0]: '(2)Zʷʰʸˀ' finished the special race!
+[2021-04-14 08:33:13]: ***  [, Level 0]: 'flappy.*' entered and joined the game
+[2021-04-14 08:33:21]: SanoreX [Chilli.*, Level 27]: *************:
