@@ -11794,3 +11794,6 @@
 [2021-04-14 15:45:21]: BLACK [, Level 25]: wtf
 [2021-04-14 15:45:40]: (1)BLACK [, Level 21]: GODLIKe:  ??
 [2021-04-14 15:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-14 15:46:16]: Intensiv___ [CrazyNoobs, Level 0]: black dummy?
+[2021-04-14 15:46:21]: (1)BLACK [, Level 21]: what
+[2021-04-14 15:46:23]: Intensiv___ [CrazyNoobs, Level 0]: dead
