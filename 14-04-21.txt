@@ -9473,3 +9473,5 @@
 [2021-04-14 11:48:41]: Falco642 [, Level 3]: equip rocket
 [2021-04-14 11:48:46]: Falco642 [, Level 3]: vollesprit:
 [2021-04-14 11:48:50]: Falco642 [, Level 3]: come
+[2021-04-14 11:49:11]: Falco642 [, Level 3]: pickup 8 jumps
+[2021-04-14 11:49:18]: Falco642 [, Level 3]: ok now checkpoint
