@@ -1697,3 +1697,5 @@
 [2021-04-14 02:05:06]: ***  [, Level 0]: 'xWasabi' has left the game
 [2021-04-14 02:05:10]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 30.46 second(s)
 [2021-04-14 02:05:10]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-14 02:05:36]: Kiøn1029 [.bad, Level 32]: miért nincs senkinél portál
+[2021-04-14 02:05:38]: ***  [, Level 0]: el champeon is on a killing spree with 10 blocks
