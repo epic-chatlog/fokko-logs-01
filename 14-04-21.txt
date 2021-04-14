@@ -11035,3 +11035,10 @@
 [2021-04-14 13:29:21]: ***  [, Level 0]: El patron finished in: 4 minute(s) 25.54 second(s)
 [2021-04-14 13:29:21]: ***  [, Level 0]: 'El patron' finished the special race!
 [2021-04-14 13:29:23]: Flipper [, Level 16]: 1
+[2021-04-14 13:29:27]: Flipper [, Level 16]: 1.5
+[2021-04-14 13:29:28]: GOLD [404, Level 40]: Slvry ツ [D]: anfanger
+[2021-04-14 13:29:30]: Flipper [, Level 16]: .5
+[2021-04-14 13:29:32]: Slvry_ [???, Level 36]: cya#
+[2021-04-14 13:29:33]: Flipper [, Level 16]: .1
+[2021-04-14 13:29:35]: Flipper [, Level 16]: .0
+[2021-04-14 13:29:36]: Slvry_ [???, Level 36]: bb
