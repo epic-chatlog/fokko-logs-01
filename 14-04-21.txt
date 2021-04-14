@@ -2837,3 +2837,6 @@
 [2021-04-14 03:12:25]: Swarfey [FookinLads, Level 60]: SanoreX: bcs i made him say that
 [2021-04-14 03:12:29]: SanoreX.* [Chilli.*, Level 22]: Swarfey: how
 [2021-04-14 03:12:32]: ←   [, Level 0]: SanoreX.*: .say s
+[2021-04-14 03:12:41]: SanoreX.* [Chilli.*, Level 22]: omg
+[2021-04-14 03:12:47]: SanoreX.* [Chilli.*, Level 22]: Swarfey: tell me how u say
+[2021-04-14 03:12:48]: Foxie♥ [{TQuila}, Level 22]: Zephir™: make stack please
