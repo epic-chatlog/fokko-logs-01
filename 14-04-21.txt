@@ -5567,3 +5567,6 @@
 [2021-04-14 06:26:40]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
 [2021-04-14 06:26:45]: ***  [, Level 0]: '(1)Zʷʰʸˀ' entered and joined the game
 [2021-04-14 06:26:55]: ***  [, Level 0]: Matiteusz's current race time is 00:52
+[2021-04-14 06:27:00]: SanoreX [Chilli.*, Level 27]: Meetiteusz: how
+[2021-04-14 06:27:04]: Matiteusz [TrRShClNrRs, Level 36]: SanoreX: what xD
+[2021-04-14 06:27:08]: SanoreX [Chilli.*, Level 27]: Matiteusz: how u send race time
