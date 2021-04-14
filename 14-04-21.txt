@@ -6949,3 +6949,7 @@
 [2021-04-14 08:16:17]: ***  [, Level 0]: 'nameless te' entered and joined the game
 [2021-04-14 08:16:20]: ***  [, Level 0]: 'nameless te' has left the game
 [2021-04-14 08:16:21]: SanoreX [Chilli.*, Level 27]: Yelloworld: no
+[2021-04-14 08:16:26]: SanoreX [Chilli.*, Level 27]: ooooffff
+[2021-04-14 08:16:29]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-14 08:16:29]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-14 08:16:33]: SanoreX [Chilli.*, Level 27]: x
