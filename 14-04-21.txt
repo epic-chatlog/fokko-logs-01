@@ -6482,3 +6482,5 @@
 [2021-04-14 07:35:58]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-14 07:36:03]: Matiteusz [TrRShClNrRs, Level 36]: Foxie♥: kuraw
 [2021-04-14 07:36:04]: Foxi♥ [{TQuila}, Level 0]: OOG
+[2021-04-14 07:36:05]: Matiteusz [TrRShClNrRs, Level 36]: Foxie♥: kurwa
+[2021-04-14 07:36:15]: ***  [, Level 0]: 'LeagueOfsl' has left the game
