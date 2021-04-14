@@ -6422,3 +6422,7 @@
 [2021-04-14 07:30:47]: Flupper [, Level 0]: idiot
 [2021-04-14 07:30:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-14 07:30:54]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-14 07:31:04]: El patron [, Level 29]: Lucas:  i give u the money back
+[2021-04-14 07:31:04]: ***  [, Level 0]: '(1)Intensiv' entered and joined the game
+[2021-04-14 07:31:14]: El patron [, Level 29]: Lucas:  wait k
+[2021-04-14 07:31:14]: ***  [, Level 0]: (1)Zʷʰʸˀ finished in: 4 minute(s)  5.96 second(s)
