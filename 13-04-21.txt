@@ -14283,3 +14283,5 @@
 [2021-04-13 23:48:17]: ***  [, Level 0]: '(1)1' entered and joined the game
 [2021-04-13 23:48:32]: İntensiv_ [CrazyNoobs, Level 0]: nooo
 [2021-04-13 23:50:38]: ***  [, Level 0]: 'Robi_28' has left the game
+[2021-04-13 23:50:48]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-13 23:50:57]: ***  [, Level 0]: 'Meetiteusz' entered and joined the game
