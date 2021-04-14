@@ -8478,3 +8478,5 @@
 [2021-04-14 10:54:11]: Kenshiâ„¢ [, Level 25]: mamikral011:
 [2021-04-14 10:54:11]: vollesprit [, Level 0]: cheh
 [2021-04-14 10:54:23]: Flupper [, Level 0]: ERROR: peace?
+[2021-04-14 10:54:43]: ***  [èÿÿÿ, Level 0]: 'vollesprit' has left the game
+[2021-04-14 10:54:44]: ***  [èÿÿÿ, Level 0]: '[D] ERROR' entered and joined the game
