@@ -7349,3 +7349,5 @@
 [2021-04-14 08:49:59]: Nudelsaft c: [FookinLads, Level 60]: *************.*: kann sein, konnte eben auch nich /pause ************* machen
 [2021-04-14 08:50:08]: Lucas [THECEPS, Level 35]: coca: np
 [2021-04-14 08:50:18]: coca [, Level 22]: Lucas: can i walk with you?
+[2021-04-14 08:50:47]: Lucas [THECEPS, Level 35]: coca: what do you mean with walk
+[2021-04-14 08:50:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
