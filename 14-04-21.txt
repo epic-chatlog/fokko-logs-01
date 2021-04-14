@@ -3196,3 +3196,5 @@
 [2021-04-14 03:32:29]: ←   [, Level 0]: SanoreX.*: say hey
 [2021-04-14 03:32:35]: ←   [, Level 0]: SanoreX.*: kill
 [2021-04-14 03:32:37]: ←   [, Level 0]: SanoreX.*: .kill
+[2021-04-14 03:32:42]: ←   [, Level 0]: SanoreX.*: #say s
+[2021-04-14 03:32:47]: ←   [, Level 0]: SanoreX.*: #message s
