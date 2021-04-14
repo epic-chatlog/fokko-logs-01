@@ -2970,3 +2970,8 @@
 [2021-04-14 03:20:28]: Sayme [, Level 0]: 1: stop
 [2021-04-14 03:20:28]: ***  [, Level 0]: Invalid whisper
 [2021-04-14 03:20:28]: Swarfey [FookinLads, Level 60]: yes
+[2021-04-14 03:20:32]: SanoreX.* [Chilli.*, Level 22]: omg
+[2021-04-14 03:20:33]: Sayme [, Level 0]: 1: please
+[2021-04-14 03:20:34]: SanoreX.* [Chilli.*, Level 22]: do again
+[2021-04-14 03:20:36]: SanoreX.* [Chilli.*, Level 22]: drop 1money
+[2021-04-14 03:20:38]: ***  [, Level 0]: 'Banasiczek1' entered and joined the game
