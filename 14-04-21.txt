@@ -3616,3 +3616,5 @@
 [2021-04-14 04:01:09]: ***  [, Level 0]: 'vollesprit' entered and joined the game
 [2021-04-14 04:01:11]: ***  [, Level 0]: cya finished in: 1 minute(s) 20.80 second(s)
 [2021-04-14 04:01:11]: ***  [, Level 0]: New record: 1 minute(s) 27.00 second(s) better.
+[2021-04-14 04:01:19]: K!ked [De}|{aBю, Level 62]: :DD
+[2021-04-14 04:01:22]: ***  [, Level 0]: '1' finished the special race!
