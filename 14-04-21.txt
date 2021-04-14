@@ -4028,3 +4028,6 @@
 [2021-04-14 04:46:01]: ***  [, Level 0]: 'SanoreXᅟᅟ�' changed name to '(1)SanoreX'
 [2021-04-14 04:46:16]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-14 04:46:16]: ***  [, Level 0]: '(1)SanoreX' changed name to 'SanoreX.*'
+[2021-04-14 04:46:21]: ***  [, Level 0]: 'Intensiv_*_' has left the game
+[2021-04-14 04:46:25]: casserole :p [, Level 18]: i cant
+[2021-04-14 04:46:31]: ***  [, Level 0]: 'SanoreX.*' has left the game
