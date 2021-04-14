@@ -11042,3 +11042,8 @@
 [2021-04-14 13:29:33]: Flipper [, Level 16]: .1
 [2021-04-14 13:29:35]: Flipper [, Level 16]: .0
 [2021-04-14 13:29:36]: Slvry_ [???, Level 36]: bb
+[2021-04-14 13:29:40]: ***  [, Level 0]: 'Bozzkurt' entered and joined the game
+[2021-04-14 13:29:40]: ***  [, Level 0]: 'Slvry ツ [D]' has left the game
+[2021-04-14 13:29:40]: ***  [, Level 0]: 'Slvry_' has left the game
+[2021-04-14 13:29:46]: Flipper [, Level 16]: .000000001
+[2021-04-14 13:29:48]: Lucas [THECEPS, Level 35]: Zephir™: you there?
