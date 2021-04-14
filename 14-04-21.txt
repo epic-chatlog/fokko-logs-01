@@ -9025,3 +9025,4 @@
 [2021-04-14 11:23:03]: SanoreX.* [Chilli.*, Level 22]: nudel
 [2021-04-14 11:23:05]: SanoreX.* [Chilli.*, Level 22]: saft
 [2021-04-14 11:23:06]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c::
+[2021-04-14 11:23:34]: ***  [, Level 0]: 'kaktus chunior' entered and joined the game
