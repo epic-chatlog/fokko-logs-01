@@ -7354,3 +7354,9 @@
 [2021-04-14 08:50:59]: coca [, Level 22]: Lucas: idk) i want to go near you)
 [2021-04-14 08:51:00]: ***  [, Level 0]: '(2)☺' has left the game
 [2021-04-14 08:51:00]: ***  [, Level 0]: '(1)☺' has left the game
+[2021-04-14 08:51:11]: ***  [, Level 0]: '☺' has left the game
+[2021-04-14 08:51:12]: ChillerDragon.* [|*KoG*|, Level 0]: ChillerDragon:
+[2021-04-14 08:51:14]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
+[2021-04-14 08:51:14]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
+[2021-04-14 08:51:14]: coca [, Level 22]: Lucas: we can go police if you want) im have another flag
+[2021-04-14 08:51:15]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
