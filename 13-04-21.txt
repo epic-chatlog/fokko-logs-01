@@ -13912,3 +13912,4 @@
 [2021-04-13 18:20:34]: s6_sven [, Level 21]: ik ^^ i trained it
 [2021-04-13 18:20:36]: (1)☺ [, Level 12]: md
 [2021-04-13 18:20:43]: (1)☺ [, Level 12]: mdr
+[2021-04-13 18:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
