@@ -3165,3 +3165,10 @@
 [2021-04-14 03:31:20]: ←   [, Level 0]: Nudelsaft c:: say /w SanoreX.*: no u gay asfuck
 [2021-04-14 03:31:20]: ***  [, Level 0]: Invalid whisper
 [2021-04-14 03:31:23]: ←   [, Level 0]: SanoreX.*: .sendmessage d
+[2021-04-14 03:31:30]: ←   [, Level 0]: Nudelsaft c:: say /w SanoreX.* why do u want to know
+[2021-04-14 03:31:30]: → SanoreX.* [Chilli.*, Level 22]: why do u want to know
+[2021-04-14 03:31:32]: ***  [, Level 0]: '[D] cya' entered and joined the game
+[2021-04-14 03:31:34]: Meetiteusz [TrRShClNrRs, Level 27]: Foxie♥: up
+[2021-04-14 03:31:35]: SanoreX.* [Chilli.*, Level 22]: DiscordBridge: pls
+[2021-04-14 03:31:36]: ***  [, Level 0]: Cylox finished in: 1 minute(s) 13.88 second(s)
+[2021-04-14 03:31:38]: SanoreX.* [Chilli.*, Level 22]: pls tell
