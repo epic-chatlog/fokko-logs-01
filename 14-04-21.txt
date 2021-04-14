@@ -11129,3 +11129,4 @@
 [2021-04-14 13:38:28]: Taip [VergleriSay, Level 19]: YelloWorlD: i want to get name
 [2021-04-14 13:38:35]: Flipper [, Level 16]: .1
 [2021-04-14 13:38:36]: Taip [VergleriSay, Level 19]: what need to do i
+[2021-04-14 13:38:44]: Flipper [, Level 16]: .0000000000000000000000000000000000000000000000000000000000000000000000000.1
