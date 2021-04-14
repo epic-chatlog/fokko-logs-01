@@ -8306,3 +8306,5 @@
 [2021-04-14 10:32:55]: Falco642 [, Level 0]: 18?
 [2021-04-14 10:33:06]: [D] El patron [, Level 0]: fluffy 1
 [2021-04-14 10:33:12]: [D] El patron [, Level 0]: thx
+[2021-04-14 10:33:30]: ***  [, Level 0]: '[D] mamikral011' changed name to 'MaMi'
+[2021-04-14 10:33:37]: ***  [, Level 0]: 'BC|kakashi' has left the game
