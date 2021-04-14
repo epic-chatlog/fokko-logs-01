@@ -7781,3 +7781,5 @@
 [2021-04-14 09:39:38]: ***  [, Level 0]: 'vollesprit' has left the game
 [2021-04-14 09:39:53]: ***  [, Level 0]: 'vollesprit' entered and joined the game
 [2021-04-14 09:40:01]: ***  [, Level 0]: 'BLACK' entered and joined the game
+[2021-04-14 09:40:34]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-14 09:40:35]: ***  [, Level 0]: 'Eden' has left the game
