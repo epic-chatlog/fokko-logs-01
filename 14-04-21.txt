@@ -4314,3 +4314,6 @@
 [2021-04-14 05:03:15]: nobodyx [, Level 39]: Axandos²: why attack me
 [2021-04-14 05:03:18]: Axandos² [, Level 20]: cya:  ql
 [2021-04-14 05:03:21]: nobodyx [, Level 39]: Axandos²: why attack me
+[2021-04-14 05:03:25]: ***  [, Level 0]: '1' has left the game
+[2021-04-14 05:03:25]: Axandos² [, Level 20]: why not
+[2021-04-14 05:03:31]: nobodyx [, Level 39]: Axandos²: dont have reason
