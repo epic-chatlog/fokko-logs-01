@@ -9308,3 +9308,8 @@
 [2021-04-14 11:40:49]: Flipper [, Level 16]: sythn
 [2021-04-14 11:40:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-14 11:40:54]: ***  [, Level 0]: 'S Y T H N' changed name to 'Λtlantis Ψ'
+[2021-04-14 11:40:56]: Λtlantis Ψ [ᅟᅟ , Level 37]:  :d
+[2021-04-14 11:41:01]: ***  [, Level 0]: 'Λtlantis Ψ' changed name to 'σмєтнιηg'
+[2021-04-14 11:41:04]: vollesprit [, Level 0]: stay here
+[2021-04-14 11:41:05]: ***  [, Level 0]: 'Flipper' has left the game
+[2021-04-14 11:41:05]: ***  [, Level 0]: 'Flupper' has left the game
