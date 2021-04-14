@@ -5665,3 +5665,7 @@
 [2021-04-14 06:36:46]: No~Filter [, Level 0]: a
 [2021-04-14 06:36:50]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-14 06:37:03]: ***  [, Level 0]: 'blazingd420' entered and joined the game
+[2021-04-14 06:37:10]: ***  [, Level 0]: Zephir™ is on a killing spree with 5 blocks
+[2021-04-14 06:37:13]: No~Filter [, Level 0]: mi?
+[2021-04-14 06:37:14]: ***  [, Level 0]: Axandos is on a killing spree with 15 blocks
+[2021-04-14 06:37:17]:   [, Level 0]: kiøn1029: ez az egész
