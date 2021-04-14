@@ -83,3 +83,6 @@
 [2021-04-14 00:16:25]: Ðream [TrRShClNrRs, Level 46]: Lucas: or only afk killer master?
 [2021-04-14 00:16:47]: 1 [, Level 16]: dream hel
 [2021-04-14 00:16:50]: 1 [, Level 16]: dream help
+[2021-04-14 00:16:55]: ***  [, Level 0]: 'comic' entered and joined the game
+[2021-04-14 00:16:56]: 1 [, Level 16]: dream help
+[2021-04-14 00:16:57]: ***  [, Level 0]: '1' has been muted for 60 seconds
