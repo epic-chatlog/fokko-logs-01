@@ -5804,3 +5804,5 @@
 [2021-04-14 06:50:04]: ***  [, Level 0]: 'ss' entered and joined the game
 [2021-04-14 06:50:13]: [D] El patron [, Level 24]: Zephir™:  30k xp
 [2021-04-14 06:50:15]: [D] El patron [, Level 24]: ;(/
+[2021-04-14 06:50:22]: Zephir™ [, Level 40]: El patron: nice :D
+[2021-04-14 06:50:27]: Boti. [.bad, Level 0]: BRUH
