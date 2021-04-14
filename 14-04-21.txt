@@ -3742,3 +3742,5 @@
 [2021-04-14 04:15:55]: ***  [, Level 0]: 'coca' entered and joined the game
 [2021-04-14 04:16:28]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c::
 [2021-04-14 04:16:33]: SanoreX [Chilli.*, Level 27]: DiscordBridge:
+[2021-04-14 04:16:50]: ***  [, Level 0]: 'lolpoep' entered and joined the game
+[2021-04-14 04:16:56]: SanoreX.* [Chilli.*, Level 22]: weqe: have portal=====????????=000000
