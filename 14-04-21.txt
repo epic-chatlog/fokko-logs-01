@@ -11359,3 +11359,5 @@
 [2021-04-14 14:13:46]: Flipper [, Level 16]: :c
 [2021-04-14 14:14:09]: ***  [, Level 0]: 'canintospace' joined the spectators
 [2021-04-14 14:14:13]: ***  [, Level 0]: 'canintospace' joined the game
+[2021-04-14 14:14:27]: ***  [, Level 0]: 'canintospace' joined the spectators
+[2021-04-14 14:14:30]: ***  [, Level 0]: 'Isegrin' has left the game
