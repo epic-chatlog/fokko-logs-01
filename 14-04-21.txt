@@ -10693,3 +10693,7 @@
 [2021-04-14 13:00:30]:   [, Level 0]: MaMi: Sayme: help
 [2021-04-14 13:00:30]: cookie [, Level 20]: nooo
 [2021-04-14 13:00:32]: ***  [, Level 0]: 'MaMi' has left the game
+[2021-04-14 13:00:33]: Kirito [{TQuila}, Level 40]: Shiro.: i helped u
+[2021-04-14 13:00:33]: mamikral011 [DogParty, Level 22]: (1)Sayme:
+[2021-04-14 13:00:34]: mamikral011 [DogParty, Level 22]: Sayme:
+[2021-04-14 13:00:38]: Kirito [{TQuila}, Level 40]: Shiro.: wtf i saved you!
