@@ -13495,3 +13495,6 @@
 [2021-04-13 17:16:43]: ***  [, Level 0]: 'mess tee' joined the spectators
 [2021-04-13 17:16:43]: Kirito [{TQuila}, Level 40]: s6_sven: yo
 [2021-04-13 17:16:46]: ***  [, Level 0]: 'mess tee' joined the game
+[2021-04-13 17:17:18]: ***  [, Level 0]: 'RM | Arin' entered and joined the game
+[2021-04-13 17:17:20]: Kirito [{TQuila}, Level 40]: s6_sven: dachte du wärst der gegner der tot is xD
+[2021-04-13 17:17:20]: ***  [, Level 0]: Kirito's killing spree was ended by Zephir™ (5 blocks)
