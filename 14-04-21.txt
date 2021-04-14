@@ -5283,3 +5283,5 @@
 [2021-04-14 06:11:52]:   [, Level 0]: Flipper: AH
 [2021-04-14 06:11:55]: ***  [, Level 0]: 'kais' entered and joined the game
 [2021-04-14 06:11:56]: ***  [, Level 0]: 'XxxBgLucas' entered and joined the game
+[2021-04-14 06:12:03]: Zephir™ [, Level 40]: kirito come bro :D
+[2021-04-14 06:12:07]:   [, Level 0]: Flipper: zwhy
