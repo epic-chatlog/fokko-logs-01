@@ -8112,3 +8112,6 @@
 [2021-04-14 10:15:20]: ***  [, Level 0]: 'SanoreX' has left the game
 [2021-04-14 10:15:21]: ~DemoizL~ [, Level 39]: ok
 [2021-04-14 10:15:25]: ~DemoizL~ [, Level 39]: bye
+[2021-04-14 10:15:32]: vollesprit [, Level 0]: a plus =)
+[2021-04-14 10:15:36]: ***  [, Level 0]: 'vollesprit' has left the game
+[2021-04-14 10:15:41]: Zephir™ [, Level 40]: SwiatoslaW: u blocked me last night
