@@ -4641,3 +4641,5 @@
 [2021-04-14 05:22:08]: rexi [, Level 0]: Zephir™: <3
 [2021-04-14 05:22:19]: Swarfey [FookinLads, Level 60]: Axandos: wer? HeavyGeneral?
 [2021-04-14 05:22:23]: Axandos² [, Level 20]: ja Swarfey
+[2021-04-14 05:22:32]: Swarfey [FookinLads, Level 60]: Axandos: nö, der is einfach nur inaktiv
+[2021-04-14 05:22:35]: SanoreX [Chilli.*, Level 27]: (1)Ƭevan: stop
