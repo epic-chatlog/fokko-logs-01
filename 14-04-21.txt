@@ -10962,3 +10962,6 @@
 [2021-04-14 13:21:39]: mamikral011 [DogParty, Level 22]: ölüm bekçisi: dir
 [2021-04-14 13:21:39]: Flipper [, Level 16]: or shotgun
 [2021-04-14 13:21:43]: mamikral011 [DogParty, Level 22]: ölüm bekçisi: dier
+[2021-04-14 13:21:54]: mamikral011 [DogParty, Level 22]: atla
+[2021-04-14 13:21:56]: mamikral011 [DogParty, Level 22]: lan
+[2021-04-14 13:21:58]: mamikral011 [DogParty, Level 22]: ora deil
