@@ -6164,3 +6164,7 @@
 [2021-04-14 07:08:54]: Kiøn1029 [.bad, Level 32]: igen
 [2021-04-14 07:08:55]: Falco641 [.bad, Level 0]: wtf this lag
 [2021-04-14 07:08:56]: Kiøn1029 [.bad, Level 32]: minden nap
+[2021-04-14 07:09:00]: Kiøn1029 [.bad, Level 32]: MOM: magyar vagy?
+[2021-04-14 07:09:01]: Falco641 [.bad, Level 0]: 110 ping
+[2021-04-14 07:09:06]: [D] Boti. [.bad, Level 33]: nem az
+[2021-04-14 07:09:07]: [D] Boti. [.bad, Level 33]: google fordító
