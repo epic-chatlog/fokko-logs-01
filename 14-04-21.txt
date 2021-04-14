@@ -10687,3 +10687,5 @@
 [2021-04-14 12:59:59]: ***  [, Level 0]: 'MaMi' entered and joined the game
 [2021-04-14 13:00:00]: Shiro, [Whɪтє, Level 51]: Zʷʰʸˀ: war
 [2021-04-14 13:00:02]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-14 13:00:10]: (2)Zʷʰʸˀ [NULL, Level 26]: Shiro.: omg chill
+[2021-04-14 13:00:11]: Saud [, Level 15]: Kirito:  wow
