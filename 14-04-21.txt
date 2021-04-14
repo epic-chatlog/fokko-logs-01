@@ -5188,3 +5188,9 @@
 [2021-04-14 06:05:31]: (1)☺ [, Level 12]: wtf
 [2021-04-14 06:05:35]: Zephir™ [, Level 40]: (1)☺: ?
 [2021-04-14 06:05:41]:   [, Level 0]: zZz: ss: oh mg
+[2021-04-14 06:05:43]: (1)☺ [, Level 12]: yavais un gros lag
+[2021-04-14 06:05:46]:   [, Level 0]: zZz: ss: wtf!!!
+[2021-04-14 06:05:49]:   [, Level 0]: zZz: ss: 1 fps
+[2021-04-14 06:05:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-14 06:05:52]: ***  [, Level 0]: 'Flipper' entered and joined the game
+[2021-04-14 06:05:54]:   [, Level 0]: Random Guy: why
