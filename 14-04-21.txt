@@ -9040,3 +9040,7 @@
 [2021-04-14 11:24:24]: Zephir™ [, Level 40]: Flipper: u block me
 [2021-04-14 11:24:26]: Flipper [, Level 16]: zephir why kill ,e
 [2021-04-14 11:24:27]: Flipper [, Level 16]: no]
+[2021-04-14 11:24:32]: Flipper [, Level 16]: i meant to kill smiley
+[2021-04-14 11:24:39]: Zephir™ [, Level 40]: Flipper: he are my friend
+[2021-04-14 11:24:42]:   [, Level 0]: vollesprit: wow
+[2021-04-14 11:24:42]: ***  [, Level 0]: 'nameless' entered and joined the game
