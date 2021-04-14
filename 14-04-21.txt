@@ -4161,3 +4161,10 @@
 [2021-04-14 04:54:03]: CKA3A4NIK[NR] [Night Raid, Level 35]: ХВАТИТ
 [2021-04-14 04:54:05]: CKA3A4NIK[NR] [Night Raid, Level 35]: КЛОУН
 [2021-04-14 04:54:07]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: 5
+[2021-04-14 04:54:09]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: 6
+[2021-04-14 04:54:10]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: 7
+[2021-04-14 04:54:10]: coca [, Level 22]: 7
+[2021-04-14 04:54:11]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: 8
+[2021-04-14 04:54:12]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' has been muted for 60 seconds
+[2021-04-14 04:54:17]: coca [, Level 22]: CKA3A4NIK[NR]: его уебать?
+[2021-04-14 04:54:18]: nobodyx [, Level 39]: uck
