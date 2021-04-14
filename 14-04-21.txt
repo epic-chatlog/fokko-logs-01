@@ -7790,3 +7790,6 @@
 [2021-04-14 09:41:06]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
 [2021-04-14 09:41:14]: ***  [, Level 0]: 'weqe' has left the game
 [2021-04-14 09:41:19]: vollesprit [, Level 0]: a quoi ca sert ici ?
+[2021-04-14 09:41:30]: ***  [, Level 0]: 'Wayllan Kath' has left the game
+[2021-04-14 09:41:31]: (1)☺ [, Level 12]: give me flag Emilcha
+[2021-04-14 09:41:37]: ***  [, Level 0]: 'Lyshinyr Wos' has left the game
