@@ -9347,3 +9347,7 @@
 [2021-04-14 11:42:34]: Falco642 [, Level 3]: wait
 [2021-04-14 11:42:35]: Flipper [, Level 0]: o
 [2021-04-14 11:42:38]: Flipper [, Level 0]: sorree
+[2021-04-14 11:42:44]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-14 11:42:49]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-14 11:42:51]: SanoreX [Chilli.*, Level 27]: Zephir™: FUCK_ASS_ME_BCS_U_DONT_LOOK_ME
+[2021-04-14 11:42:52]: Kenshi™ [, Level 25]: Flipper: ok i save only
