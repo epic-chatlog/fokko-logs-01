@@ -7360,3 +7360,5 @@
 [2021-04-14 08:51:14]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
 [2021-04-14 08:51:14]: coca [, Level 22]: Lucas: we can go police if you want) im have another flag
 [2021-04-14 08:51:15]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-14 08:51:22]: Lucas [THECEPS, Level 35]: coca: i know
+[2021-04-14 08:51:23]: ChillerDragon [Chilli.*, Level 12]: fo
