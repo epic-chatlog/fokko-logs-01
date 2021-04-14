@@ -6353,3 +6353,5 @@
 [2021-04-14 07:25:28]: Cylox. [{TQuila}, Level 0]: lag sorry
 [2021-04-14 07:25:35]: Foxi♥ [{TQuila}, Level 0]: Cylox.: wait
 [2021-04-14 07:25:42]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-14 07:25:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-14 07:25:50]: ***  [, Level 0]: 'nameless tee' has left the game
