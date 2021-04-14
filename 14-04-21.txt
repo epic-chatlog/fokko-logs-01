@@ -9524,3 +9524,5 @@
 [2021-04-14 11:52:47]: ***  [, Level 0]: 'Eden' finished the special race!
 [2021-04-14 11:52:47]: Kezo [DogParty, Level 41]: lag
 [2021-04-14 11:52:48]: vollesprit [, Level 0]: uh
+[2021-04-14 11:53:03]: ***  [, Level 0]: 'Axel ²' finished the special race!
+[2021-04-14 11:53:07]: vollesprit [, Level 0]: you are strong
