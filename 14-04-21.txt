@@ -3960,3 +3960,5 @@
 [2021-04-14 04:33:06]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-14 04:33:09]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-14 04:33:13]: ***  [, Level 0]: 'lolpoep' has left the game
+[2021-04-14 04:33:26]: ***  [, Level 0]: 'bob weqe fan' entered and joined the game
+[2021-04-14 04:33:29]: Cylox. [{TQuila}, Level 0]: NEDEN
