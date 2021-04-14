@@ -14095,3 +14095,5 @@
 [2021-04-13 18:47:33]: Zephir™ [, Level 39]: a demain
 [2021-04-13 18:47:33]: ***  [, Level 0]: '(1)☺' has left the game
 [2021-04-13 18:47:33]: ***  [, Level 0]: '☺' has left the game
+[2021-04-13 18:48:22]: ***  [, Level 0]: 'Kenshi™' has left the game
+[2021-04-13 18:48:22]: ***  [, Level 0]: 'Zephir™' has left the game
