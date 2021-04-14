@@ -8153,3 +8153,4 @@
 [2021-04-14 10:18:47]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-14 10:18:47]: nobody [, Level 44]: .
 [2021-04-14 10:18:51]: JustRace [DogParty, Level 36]: e
+[2021-04-14 10:18:57]: ***  [, Level 0]: 'Lucas' entered and joined the game
