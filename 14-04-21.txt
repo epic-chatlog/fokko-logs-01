@@ -6110,3 +6110,12 @@
 [2021-04-14 07:07:04]: ***  [, Level 0]: '(1)Kirito' has left the game (Timeout)
 [2021-04-14 07:07:05]: [D] Boti. [.bad, Level 33]: allthehax
 [2021-04-14 07:07:07]: Kiøn1029 [.bad, Level 32]: úgyhogy mnem tudok kódolni se semmi
+[2021-04-14 07:07:10]: Falco642 [, Level 0]: wait
+[2021-04-14 07:07:10]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-14 07:07:11]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
+[2021-04-14 07:07:12]: Falco642 [, Level 0]: i must rejoin
+[2021-04-14 07:07:14]: Falco642 [, Level 0]: cause laggy
+[2021-04-14 07:07:14]: [D] Boti. [.bad, Level 33]: átírtad a titlet és annyi
+[2021-04-14 07:07:15]: ***  [, Level 0]: 'Kirito' has left the game
+[2021-04-14 07:07:16]: [D] Boti. [.bad, Level 33]: XD
+[2021-04-14 07:07:16]: Kiøn1029 [.bad, Level 32]: írni sem tudok
