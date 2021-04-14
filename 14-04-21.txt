@@ -11283,3 +11283,6 @@
 [2021-04-14 13:57:00]: Taip [VergleriSay, Level 19]: how i get name
 [2021-04-14 13:57:03]: Taip [VergleriSay, Level 19]: do you know?
 [2021-04-14 13:57:04]: Flipper [, Level 16]: what
+[2021-04-14 13:57:09]: Flipper [, Level 16]: huh
+[2021-04-14 13:57:17]: ***  [, Level 0]: 'GOLD' has left the game
+[2021-04-14 13:57:17]: ***  [, Level 0]: 'YelloWorlD' has left the game
