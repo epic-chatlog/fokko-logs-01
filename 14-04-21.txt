@@ -289,3 +289,4 @@
 [2021-04-14 00:45:37]: ***  [, Level 0]: NoobEmirF is on a killing spree with 5 blocks
 [2021-04-14 00:45:48]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-14 00:45:50]: ***  [, Level 0]: NoobEmirF's killing spree was ended by f"{self.name}" (5 blocks)
+[2021-04-14 00:46:29]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
