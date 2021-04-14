@@ -7423,3 +7423,10 @@
 [2021-04-14 08:57:57]: El patron [, Level 30]: coca: xd
 [2021-04-14 08:57:58]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
 [2021-04-14 08:58:00]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
+[2021-04-14 08:58:05]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
+[2021-04-14 08:58:05]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
+[2021-04-14 08:58:05]: SanoreX [Chilli.*, Level 27]: ChillerDragon: u try to ddos?
+[2021-04-14 08:58:07]: SanoreX [Chilli.*, Level 27]: omg
+[2021-04-14 08:58:08]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-14 08:58:10]: SanoreX [Chilli.*, Level 27]: ChillerDragon: u try to ddos?
+[2021-04-14 08:58:11]: SanoreX [Chilli.*, Level 27]: omg
