@@ -6126,3 +6126,4 @@
 [2021-04-14 07:07:28]: MOM [, Level 0]: Kezo
 [2021-04-14 07:07:29]: SanoreX [Chilli.*, Level 27]: leaved
 [2021-04-14 07:07:31]: Kezo [DogParty, Level 41]: SanoreX: aptal ....... çocugu kimseyi kurtarma
+[2021-04-14 07:07:38]: SanoreX [Chilli.*, Level 27]: Kezo: ok
