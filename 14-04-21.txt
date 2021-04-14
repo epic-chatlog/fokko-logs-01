@@ -407,3 +407,7 @@
 [2021-04-14 01:00:46]: WarHammer [DogParty, Level 26]: Kahve:  o maminin sorunu
 [2021-04-14 01:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-14 01:00:59]: Kahve [, Level 23]: sen mamiye yardım ettin
+[2021-04-14 01:01:07]: WarHammer [DogParty, Level 26]: LAG
+[2021-04-14 01:01:08]: comic [comically, Level 14]: 1: inf jump?
+[2021-04-14 01:01:14]: 1 [, Level 16]: no
+[2021-04-14 01:01:17]: comic [comically, Level 14]: okie
