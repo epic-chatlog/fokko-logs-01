@@ -6412,3 +6412,6 @@
 [2021-04-14 07:29:58]: Flupper [, Level 0]: CYLOX
 [2021-04-14 07:29:59]: Flupper [, Level 0]: ..
 [2021-04-14 07:30:07]: Flupper [, Level 0]: CYLOX
+[2021-04-14 07:30:17]: Flupper [, Level 0]: cosmo
+[2021-04-14 07:30:19]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-14 07:30:20]: Flupper [, Level 0]: cismi
