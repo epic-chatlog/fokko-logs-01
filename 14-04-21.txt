@@ -1497,3 +1497,8 @@
 [2021-04-14 01:56:37]: Intensiv [CrazyNoobs, Level 9]: he
 [2021-04-14 01:56:43]: Intensiv [CrazyNoobs, Level 9]: yazdım
 [2021-04-14 01:56:44]: ***  [, Level 0]: 'Intensiv' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-14 01:56:48]: Intensiv [CrazyNoobs, Level 9]: şimdi
+[2021-04-14 01:56:50]: mamikral011 [DogParty, Level 27]: [D] Kahve: sen bizden özür dile oç
+[2021-04-14 01:56:51]: SanoreX.* [Chilli.*, Level 22]: hepsinden /leave yaz Intensiv
+[2021-04-14 01:56:54]: ***  [, Level 0]: 'Intensiv' left the minigame 'Survival'
+[2021-04-14 01:56:56]: SanoreX.* [Chilli.*, Level 22]: gene
