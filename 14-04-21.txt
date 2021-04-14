@@ -7890,3 +7890,5 @@
 [2021-04-14 09:51:55]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-14 09:51:57]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-14 09:51:58]: ~DemoizL~ [, Level 39]: vollesprit: au début
+[2021-04-14 09:52:04]: vollesprit [, Level 0]: ~DemoizL~: ok merci
+[2021-04-14 09:52:08]: SanoreX [Chilli.*, Level 27]: Shy-ra.: I touched second
