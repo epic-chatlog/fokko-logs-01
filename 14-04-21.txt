@@ -10689,3 +10689,7 @@
 [2021-04-14 13:00:02]: ***  [, Level 0]: 'Shiro,' has left the game
 [2021-04-14 13:00:10]: (2)Zʷʰʸˀ [NULL, Level 26]: Shiro.: omg chill
 [2021-04-14 13:00:11]: Saud [, Level 15]: Kirito:  wow
+[2021-04-14 13:00:26]: Shiro. [404, Level 42]: Saud: tu puta de madre
+[2021-04-14 13:00:30]:   [, Level 0]: MaMi: Sayme: help
+[2021-04-14 13:00:30]: cookie [, Level 20]: nooo
+[2021-04-14 13:00:32]: ***  [, Level 0]: 'MaMi' has left the game
