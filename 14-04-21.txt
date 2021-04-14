@@ -8603,3 +8603,5 @@
 [2021-04-14 11:05:27]: JustRace [DogParty, Level 36]: cl_aimbot 1
 [2021-04-14 11:05:37]: Flupper [, Level 7]: stop
 [2021-04-14 11:05:38]: Falco642 [, Level 3]: soleri1:
+[2021-04-14 11:05:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-14 11:05:52]: JustRace [DogParty, Level 36]: cl_aimbot 1
