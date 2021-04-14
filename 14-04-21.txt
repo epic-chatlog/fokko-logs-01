@@ -5834,3 +5834,5 @@
 [2021-04-14 06:53:04]: ***  [, Level 0]: New record: 3 minute(s) 22.80 second(s) better.
 [2021-04-14 06:53:13]: ***  [, Level 0]: Zephir™'s killing spree was ended by weqe (6 blocks)
 [2021-04-14 06:53:17]: weqe [669, Level 12]: sup noob Zephir™
+[2021-04-14 06:53:19]: Boti. [.bad, Level 0]: good job monke
+[2021-04-14 06:53:28]: ***  [, Level 0]: 'evpalege' entered and joined the game
