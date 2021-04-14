@@ -9483,3 +9483,6 @@
 [2021-04-14 11:49:59]: ***  [, Level 0]: Axel ² finished in: 2 minute(s)  8.96 second(s)
 [2021-04-14 11:50:01]: ***  [, Level 0]: Axel finished in: 5 minute(s) 32.20 second(s)
 [2021-04-14 11:50:02]: Falco642 [, Level 3]: jump there
+[2021-04-14 11:50:13]: vollesprit [, Level 0]: sorry...
+[2021-04-14 11:50:14]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-14 11:50:18]: Eden [qwq, Level 0]: whait
