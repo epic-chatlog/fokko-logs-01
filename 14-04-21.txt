@@ -5038,3 +5038,5 @@
 [2021-04-14 05:54:11]: ***  [, Level 0]: '(1)rexi' has left the game
 [2021-04-14 05:54:11]: ***  [, Level 0]: '(1)ReXi' has left the game
 [2021-04-14 05:54:15]: Random Guy [, Level 0]: WTF
+[2021-04-14 05:54:16]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-14 05:54:27]: (1)☺ [, Level 12]: xd
