@@ -7435,3 +7435,5 @@
 [2021-04-14 08:58:24]: (1)ChillerDrago [Chilli.*, Level 45]: bvug
 [2021-04-14 08:58:25]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
 [2021-04-14 08:58:27]: coca [, Level 22]: ES:
+[2021-04-14 08:58:32]: coca [, Level 22]: Lucas: it my dog
+[2021-04-14 08:58:39]: Falco641 [.bad, Level 20]: xd
