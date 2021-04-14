@@ -6442,3 +6442,4 @@
 [2021-04-14 07:32:09]: ***  [, Level 0]: 'Flupper' has left the game
 [2021-04-14 07:32:09]: ***  [, Level 0]: 'Flipper' has left the game
 [2021-04-14 07:32:24]: ***  [, Level 0]: 'LeagueOfsl' entered and joined the game
+[2021-04-14 07:32:40]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
