@@ -7339,3 +7339,4 @@
 [2021-04-14 08:48:33]: Nudelsaft c: [FookinLads, Level 60]: [D] El patron: do /taserinfo
 [2021-04-14 08:48:41]: coca [, Level 22]: Pouet[NR]: даун
 [2021-04-14 08:48:42]: ***  [, Level 0]: 'Pouet[NR]' has left the game
+[2021-04-14 08:49:05]: ***  [, Level 0]: 'Swarfey' entered and joined the game
