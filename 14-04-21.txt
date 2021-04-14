@@ -4132,3 +4132,7 @@
 [2021-04-14 04:52:43]: CKA3A4NIK[NR] [Night Raid, Level 35]: Killua: 1
 [2021-04-14 04:52:45]: CKA3A4NIK[NR] [Night Raid, Level 35]: Killua: 2
 [2021-04-14 04:52:48]: CKA3A4NIK[NR] [Night Raid, Level 35]: Killua: 3
+[2021-04-14 04:52:57]: [D] El patron [, Level 24]: sun.slow(y): better
+[2021-04-14 04:53:01]: SanoreX [Chilli.*, Level 27]: gel
+[2021-04-14 04:53:01]: CKA3A4NIK[NR] [Night Raid, Level 35]: Clown
+[2021-04-14 04:53:04]: sun.slow(y) [FookinLads, Level 35]: what better
