@@ -13367,3 +13367,6 @@
 [2021-04-13 17:00:15]: Kenshi™ [, Level 35]: WTF 0money
 [2021-04-13 17:00:41]: HardreenClutch [, Level 57]: Zephir™:  noovb
 [2021-04-13 17:00:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-13 17:01:05]: SnowCat [, Level 30]: HardreenClutch: sorry
+[2021-04-13 17:01:06]: (1)☺ [, Level 12]: SnowCat: traitor
+[2021-04-13 17:01:10]: ***  [, Level 0]: Zephir™'s killing spree was ended by Kirito (5 blocks)
