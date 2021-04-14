@@ -7259,3 +7259,4 @@
 [2021-04-14 08:37:18]: ***  [, Level 0]: 'nobody' has left the game
 [2021-04-14 08:37:28]: Matiteusz [TrRShClNrRs, Level 36]: bob: mamma mia
 [2021-04-14 08:37:36]: Matiteusz [TrRShClNrRs, Level 36]: bob: what bob should do in that situation
+[2021-04-14 08:37:50]: El patron [, Level 30]: xd
