@@ -5850,3 +5850,6 @@
 [2021-04-14 06:54:03]:   [, Level 0]: evpalege: weqe:
 [2021-04-14 06:54:04]:   [, Level 0]: evpalege: help
 [2021-04-14 06:54:06]: d+ [, Level 1]: weqe: u got tazer ?
+[2021-04-14 06:54:07]: weqe [669, Level 12]: evpalege: pokaa
+[2021-04-14 06:54:09]: weqe [669, Level 12]: no d+
+[2021-04-14 06:54:15]: ***  [, Level 0]: '☺' entered and joined the game
