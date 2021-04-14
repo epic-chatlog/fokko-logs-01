@@ -14187,3 +14187,5 @@
 [2021-04-13 23:33:33]: İntensiv_ [CrazyNoobs, Level 0]: flappy:  bot
 [2021-04-13 23:33:55]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
 [2021-04-13 23:33:58]: Kahve [, Level 23]: Rem's bae:
+[2021-04-13 23:34:04]: Rem's dummy [, Level 0]: ?
+[2021-04-13 23:34:07]: [D] Kahve [, Level 19]: spec
