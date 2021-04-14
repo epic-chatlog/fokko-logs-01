@@ -5942,3 +5942,5 @@
 [2021-04-14 06:59:30]: Boti. [.bad, Level 27]: dummy a mainem legjobb
 [2021-04-14 06:59:34]: kiøn1029 [.bad, Level 25]: igen
 [2021-04-14 06:59:40]: kiøn1029 [.bad, Level 25]: nem
+[2021-04-14 06:59:40]:   [, Level 0]: ☺: et tesou en fait Zephir™
+[2021-04-14 06:59:45]: kiøn1029 [.bad, Level 25]: segít az enemynek
