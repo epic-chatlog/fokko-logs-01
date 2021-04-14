@@ -1671,3 +1671,11 @@
 [2021-04-14 02:03:30]: [D] #5 blocker [|*MorE*|, Level 0]: [D] falkenauge:
 [2021-04-14 02:03:34]: vollesprit [, Level 0]: [D] Bananarama: hey , just , why are we doing this ? i mean , is there a reason ?
 [2021-04-14 02:03:38]: ***  [, Level 0]: 'dilman' entered and joined the game
+[2021-04-14 02:03:42]: Axandos² [, Level 20]: lass doch falkenauge
+[2021-04-14 02:03:42]: ***  [, Level 0]: '[D] Anicate' has left the game
+[2021-04-14 02:03:42]: ***  [, Level 0]: 'Anicate' has left the game
+[2021-04-14 02:03:44]: ***  [, Level 0]: '[D] mamikral011' has left the game
+[2021-04-14 02:03:44]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-14 02:03:44]: ***  [, Level 0]: Matiteusz finished in: 1 minute(s)  2.54 second(s)
+[2021-04-14 02:03:44]: Kahve [, Level 23]: sa mamikral011
+[2021-04-14 02:03:50]: Kahve [, Level 23]: eyw
