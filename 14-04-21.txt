@@ -3757,3 +3757,5 @@
 [2021-04-14 04:17:20]: ***  [, Level 0]: 'SanoreX.*' has been muted for 60 seconds
 [2021-04-14 04:17:20]: ***  [, Level 0]: 'nobody' entered and joined the game
 [2021-04-14 04:17:22]: Foxie♥ [{TQuila}, Level 22]: SanoreX: STFU
+[2021-04-14 04:17:27]: ***  [, Level 0]: '»ℱℬℑ«' has left the game
+[2021-04-14 04:17:31]: ***  [, Level 0]: 'UOYKCUFI' has left the game (Timeout Protection over)
