@@ -12121,3 +12121,5 @@
 [2021-04-14 16:50:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-14 16:51:05]: Zephir™ [, Level 40]: Zʷʰʸˀ: u say u are dead now ? :D
 [2021-04-14 16:51:58]: Zephir™ [, Level 40]: them all bad
+[2021-04-14 16:52:05]: sun.slow(y) [FookinLads, Level 35]: Zephir™: go 1vs1
+[2021-04-14 16:52:10]: Zephir™ [, Level 40]: 2v7 all lose
