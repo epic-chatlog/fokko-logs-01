@@ -11279,3 +11279,7 @@
 [2021-04-14 13:55:05]: Taip [VergleriSay, Level 19]: or i need to join clan
 [2021-04-14 13:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-14 13:56:01]: Flipper [, Level 16]: :C
+[2021-04-14 13:56:56]: Taip [VergleriSay, Level 19]: Flipper: bro
+[2021-04-14 13:57:00]: Taip [VergleriSay, Level 19]: how i get name
+[2021-04-14 13:57:03]: Taip [VergleriSay, Level 19]: do you know?
+[2021-04-14 13:57:04]: Flipper [, Level 16]: what
