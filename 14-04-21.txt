@@ -11438,3 +11438,5 @@
 [2021-04-14 14:30:53]: (1)BLACK [, Level 21]: 200
 [2021-04-14 14:30:59]: ***  [, Level 0]: 'weqe' entered and joined the game
 [2021-04-14 14:31:23]: (1)BLACK [, Level 21]: xD
+[2021-04-14 14:31:59]: Intensiv [CrazyNoobs, Level 10]: help
+[2021-04-14 14:32:00]: (1)BLACK [, Level 21]: weqe:  u started it
