@@ -6920,3 +6920,4 @@
 [2021-04-14 08:13:48]: coca [, Level 22]: so bad Yelloworld so bad
 [2021-04-14 08:13:54]: Yelloworld [Dogparty, Level 36]: Good man: do ./pay Yelloworld 100000
 [2021-04-14 08:14:05]: Good man [Drunks, Level 30]: Yelloworld: /pay Yelloworld idi naxuy
+[2021-04-14 08:14:10]: ***  [, Level 0]: '(2)MOM' entered and joined the game
