@@ -6071,3 +6071,6 @@
 [2021-04-14 07:05:24]: Kezo [.bad, Level 27]: definitely
 [2021-04-14 07:05:29]: Kezo [.bad, Level 27]: no
 [2021-04-14 07:05:30]: kiøn1029 [.bad, Level 25]: Kezo: én megyek tanulni vagy nem tom
+[2021-04-14 07:05:34]: Kezo [.bad, Level 27]: okés
+[2021-04-14 07:05:40]: Kezo [.bad, Level 27]: még mindig meg van
+[2021-04-14 07:05:41]: Kezo [.bad, Level 27]: dikk
