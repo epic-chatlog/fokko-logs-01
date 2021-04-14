@@ -6579,3 +6579,4 @@
 [2021-04-14 07:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-14 07:45:51]: SanoreX [Chilli.*, Level 27]: no u
 [2021-04-14 07:46:07]: Foxie♥ [{TQuila}, Level 36]: SanoreX: press tab and search (1)Kirito
+[2021-04-14 07:46:14]: SanoreX [Chilli.*, Level 27]: 40lvl
