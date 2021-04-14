@@ -6350,3 +6350,5 @@
 [2021-04-14 07:25:14]: ***  [, Level 0]: 'WarHammer' has left the game (Timeout)
 [2021-04-14 07:25:19]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-14 07:25:23]: Cylox. [{TQuila}, Level 0]: xd
+[2021-04-14 07:25:28]: Cylox. [{TQuila}, Level 0]: lag sorry
+[2021-04-14 07:25:35]: Foxi♥ [{TQuila}, Level 0]: Cylox.: wait
