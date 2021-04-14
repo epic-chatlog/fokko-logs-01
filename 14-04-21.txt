@@ -5744,3 +5744,8 @@
 [2021-04-14 06:45:38]: ***  [, Level 0]: 'zemer' has left the game
 [2021-04-14 06:45:38]: ***  [, Level 0]: 'x7|zemer' has left the game
 [2021-04-14 06:45:43]: Cylox [{TQuila}, Level 31]: 1: gel gerı
+[2021-04-14 06:45:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-14 06:45:53]:   [, Level 0]: Cylox: 1: gel
+[2021-04-14 06:45:55]: ***  [, Level 0]: 'cya' entered and joined the game
+[2021-04-14 06:45:58]: ***  [, Level 0]: 'Axandos²' has left the game (Timeout)
+[2021-04-14 06:45:58]: ***  [, Level 0]: 'Axandos' has left the game (Timeout)
