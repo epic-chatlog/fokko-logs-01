@@ -13913,3 +13913,5 @@
 [2021-04-13 18:20:36]: (1)☺ [, Level 12]: md
 [2021-04-13 18:20:43]: (1)☺ [, Level 12]: mdr
 [2021-04-13 18:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-13 18:20:57]: ***  [, Level 0]: (1)☺ is on a killing spree with 25 blocks
+[2021-04-13 18:21:06]: Zephir™ [, Level 39]: ☺: 25 block XDD
