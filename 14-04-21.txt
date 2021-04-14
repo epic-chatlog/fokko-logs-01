@@ -2985,3 +2985,7 @@
 [2021-04-14 03:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-14 03:20:52]: ***  [, Level 0]: s6_sven's killing spree was ended by UOYKCUFI (7 blocks)
 [2021-04-14 03:20:52]: Foxie♥ [{TQuila}, Level 22]: Matiteusz: farming
+[2021-04-14 03:20:55]: SanoreX.* [Chilli.*, Level 22]: DiscordBridge: drop 1
+[2021-04-14 03:20:57]: SanoreX.* [Chilli.*, Level 22]: Swarfey: how
+[2021-04-14 03:20:58]: Matiteusz [TrRShClNrRs, Level 36]: Foxie♥: but we dont have portla
+[2021-04-14 03:20:59]: SanoreX.* [Chilli.*, Level 22]: in discord?
