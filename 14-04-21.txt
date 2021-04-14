@@ -9526,3 +9526,6 @@
 [2021-04-14 11:52:48]: vollesprit [, Level 0]: uh
 [2021-04-14 11:53:03]: ***  [, Level 0]: 'Axel ²' finished the special race!
 [2021-04-14 11:53:07]: vollesprit [, Level 0]: you are strong
+[2021-04-14 11:53:11]: Falco642 [, Level 3]: I like turtles.
+[2021-04-14 11:53:16]: vollesprit [, Level 0]: wow
+[2021-04-14 11:53:19]: vollesprit [, Level 0]: ok lol
