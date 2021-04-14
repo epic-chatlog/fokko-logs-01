@@ -2531,3 +2531,8 @@
 [2021-04-14 03:01:29]:   [, Level 0]: Intensiv: help
 [2021-04-14 03:01:29]: ***  [, Level 0]: 'ByRushYT' entered and joined the game
 [2021-04-14 03:01:31]: CKA3A4NIK[NR] [Night Raid, Level 35]: cHurch:  да сорян
+[2021-04-14 03:01:32]: ***  [, Level 0]: 'Teeman' entered and joined the game
+[2021-04-14 03:01:32]: CKA3A4NIK[NR] [Night Raid, Level 35]: cl_clown 1
+[2021-04-14 03:01:39]: vollesprit [, Level 0]: u
+[2021-04-14 03:01:39]:   [, Level 0]: Intensiv: nabıyonuz oln
+[2021-04-14 03:01:40]: SanoreX [Chilli.*, Level 27]: Intensiv: 2sn çık şurdan
