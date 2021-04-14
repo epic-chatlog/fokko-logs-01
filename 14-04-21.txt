@@ -10036,3 +10036,6 @@
 [2021-04-14 12:22:31]: ***  [, Level 0]: 'LocK' changed name to 'nobody'
 [2021-04-14 12:22:35]: ***  [, Level 0]: 'Falco641' entered and joined the game
 [2021-04-14 12:22:36]: Axel ² [TrRShClNrRs, Level 20]: bob: I'm not in war with MieSlime dude wtf?
+[2021-04-14 12:22:43]: ***  [, Level 0]: 'Saud' entered and joined the game
+[2021-04-14 12:22:48]: Slvry_ [???, Level 36]: Axel: war?
+[2021-04-14 12:22:49]: ***  [, Level 0]: 'Falco641' has left the game
