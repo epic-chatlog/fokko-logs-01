@@ -7959,3 +7959,7 @@
 [2021-04-14 10:02:58]: soleri1 [, Level 23]: (3)cookie: help
 [2021-04-14 10:02:59]: ***  [, Level 0]: 'mamikral011' entered and joined the game
 [2021-04-14 10:03:02]: soleri1 [, Level 23]: (3)cookie:
+[2021-04-14 10:03:06]: SanoreX [Chilli.*, Level 27]: ☺: look
+[2021-04-14 10:03:08]: (3)cookie [, Level 0]: soleri1:  yes
+[2021-04-14 10:03:10]: (3)cookie [, Level 0]: soleri1:  /spe
+[2021-04-14 10:03:12]: ***  [, Level 0]: 'mamikral011' has left the game
