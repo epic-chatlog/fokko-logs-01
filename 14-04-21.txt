@@ -6834,3 +6834,8 @@
 [2021-04-14 08:08:07]: coca [, Level 22]: El patron: bye bye
 [2021-04-14 08:08:08]: Cylox. [{TQuila}, Level 24]: f
 [2021-04-14 08:08:10]: El patron [, Level 29]: bb
+[2021-04-14 08:08:24]: Matiteusz [TrRShClNrRs, Level 36]: Yelloworld: hod
+[2021-04-14 08:08:24]: Yelloworld [404, Level 36]: Matiteusz: dumbo
+[2021-04-14 08:08:25]: Matiteusz [TrRShClNrRs, Level 36]: Yelloworld: god
+[2021-04-14 08:08:25]: Ðream [TrRShClNrRs, Level 47]: idiot Lucas
+[2021-04-14 08:08:26]: SanoreX [Chilli.*, Level 27]: Yelloworld: nice joke
