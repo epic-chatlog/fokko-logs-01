@@ -8434,3 +8434,5 @@
 [2021-04-14 10:48:14]: Taip [VergleriSay, Level 19]: i buy police 5min later
 [2021-04-14 10:48:18]: Swarfey [FookinLads, Level 42]: ERROR: was? xd
 [2021-04-14 10:48:18]: ***  [, Level 0]: 'vollesprit' entered and joined the game
+[2021-04-14 10:48:35]: ERROR. [404, Level 56]: die teed sind aufn PC so riesig im gegensatz zum lappi
+[2021-04-14 10:48:39]: Swarfey [FookinLads, Level 42]: ERROR.: bist du high oder so
