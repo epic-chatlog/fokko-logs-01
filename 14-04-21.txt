@@ -976,3 +976,7 @@
 [2021-04-14 01:33:48]: ***  [, Level 0]: 'mamikral011' has been muted for 60 seconds
 [2021-04-14 01:33:56]: Kiøn1029 [.bad, Level 32]: de
 [2021-04-14 01:33:57]: Kiøn1029 [.bad, Level 32]: aa
+[2021-04-14 01:34:01]: [D] Boti. [.bad, Level 27]: igen
+[2021-04-14 01:34:01]: Kiøn1029 [.bad, Level 32]: monke hol vagy
+[2021-04-14 01:34:02]: SanoreX [Chilli.*, Level 27]: ok Kahve
+[2021-04-14 01:34:06]: Fincan [CrazyNoobs, Level 0]: Kahve:  gel birleşek
