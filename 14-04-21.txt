@@ -2018,3 +2018,4 @@
 [2021-04-14 02:26:31]: ***  [, Level 0]: 'SnowCat' has left the game
 [2021-04-14 02:26:31]: ***  [, Level 0]: '[D] SnowCat' has left the game
 [2021-04-14 02:26:44]: Axandos² [, Level 20]: look good Fearless
+[2021-04-14 02:27:30]: Taip [VergleriSay, Level 17]: sry
