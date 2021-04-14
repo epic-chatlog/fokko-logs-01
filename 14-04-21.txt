@@ -6316,3 +6316,6 @@
 [2021-04-14 07:22:59]: Cylox. [{TQuila}, Level 0]: ok
 [2021-04-14 07:23:03]: ***  [, Level 0]: 'hhh3' has left the game
 [2021-04-14 07:23:03]: Flupper [, Level 0]: cylox?
+[2021-04-14 07:23:14]: Flupper [, Level 0]: war?
+[2021-04-14 07:23:17]: WarHammer [, Level 0]: 1:  ??_?
+[2021-04-14 07:23:24]: Flupper [, Level 0]: can you not
