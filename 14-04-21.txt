@@ -7896,3 +7896,7 @@
 [2021-04-14 09:52:23]: ***  [, Level 0]: '[D] El patron' has left the game
 [2021-04-14 09:52:24]: vollesprit [, Level 0]: ~DemoizL~: et sinon , juste pour avoir l'argent c'est comment ?
 [2021-04-14 09:52:25]: El patron [, Level 30]: gay
+[2021-04-14 09:52:27]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-14 09:52:29]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-14 09:52:32]: ~DemoizL~ [, Level 39]: vollesprit: tu devras parler avec ZillyDreck pour acheter des trucs
+[2021-04-14 09:52:36]: SanoreX [Chilli.*, Level 27]: hlp m€
