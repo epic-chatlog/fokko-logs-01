@@ -5699,3 +5699,7 @@
 [2021-04-14 06:41:22]: Kiøn1029 [.bad, Level 32]: és akkr nem kellene solo raidelnem
 [2021-04-14 06:41:41]: (1)☺ [, Level 12]: xd
 [2021-04-14 06:41:56]: El patron [, Level 29]: ERROR: ?
+[2021-04-14 06:42:26]: ***  [, Level 0]: XxxBgLucas finished in: 8 minute(s) 33.52 second(s)
+[2021-04-14 06:42:27]: ***  [, Level 0]: 'XxxBgLucas' finished the special race!
+[2021-04-14 06:42:27]: ***  [, Level 0]: Eden finished in: 5 minute(s) 33.02 second(s)
+[2021-04-14 06:42:27]: ***  [, Level 0]: 'Eden' finished the special race!
