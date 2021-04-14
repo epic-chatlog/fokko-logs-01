@@ -2,3 +2,4 @@
 [2021-04-14 00:00:14]: #5 blocker [|*MorE*|, Level 24]: Intensiv: GIVE AWAY
 [2021-04-14 00:00:28]: #5 blocker [|*MorE*|, Level 24]: Intensiv: F
 [2021-04-14 00:00:37]: #5 blocker [|*MorE*|, Level 24]: Intensiv: F4
+[2021-04-14 00:00:48]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
