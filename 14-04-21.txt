@@ -5954,3 +5954,7 @@
 [2021-04-14 07:00:25]: kiøn1029 [.bad, Level 25]: nagyon jó
 [2021-04-14 07:00:27]: Boti. [.bad, Level 27]: az jó
 [2021-04-14 07:00:40]: ***  [, Level 0]: 'casserole :p' has left the game
+[2021-04-14 07:00:44]: kiøn1029 [.bad, Level 25]: mondjál már valami jó kifogást hogy miért nem küldtem be szinte semmit
+[2021-04-14 07:00:47]:   [, Level 0]: Recep: Falco642: bro
+[2021-04-14 07:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-14 07:00:53]: Falco642 [, Level 0]: Recep: wat
