@@ -8206,3 +8206,5 @@
 [2021-04-14 10:23:14]: Taip [VergleriSay, Level 18]: helpp
 [2021-04-14 10:23:19]: ***  [, Level 0]: '[D] El patron' entered and joined the game
 [2021-04-14 10:23:20]: JustRace [DogParty, Level 36]: bob:  but u use bonuses lmao
+[2021-04-14 10:23:47]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-14 10:23:47]: (3)cookie [, Level 0]: noooooo
