@@ -3818,3 +3818,9 @@
 [2021-04-14 04:21:23]: ***  [, Level 0]: 'norplayer' joined the spectators
 [2021-04-14 04:21:26]: ***  [, Level 0]: 'norplayer' joined the game
 [2021-04-14 04:21:35]: weqe [669, Level 12]: 50\
+[2021-04-14 04:21:38]: [D] El patron [, Level 24]: k
+[2021-04-14 04:21:40]: weqe [669, Level 12]: drop
+[2021-04-14 04:21:43]: ***  [, Level 0]: 'norplayer' joined the spectators
+[2021-04-14 04:21:45]: [D] El patron [, Level 24]: bank
+[2021-04-14 04:21:47]: ***  [, Level 0]: 'norplayer' joined the game
+[2021-04-14 04:21:47]: weqe [669, Level 12]: no
