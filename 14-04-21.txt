@@ -4622,3 +4622,5 @@
 [2021-04-14 05:21:15]: ***  [, Level 0]: '(1)Cosmo' entered and joined the game
 [2021-04-14 05:21:15]: SanoreX.* [Chilli.*, Level 22]: coca: help endless
 [2021-04-14 05:21:15]: Axandos² [, Level 20]: wer ist den  owner von fookinlands Swarfey
+[2021-04-14 05:21:23]: zZz [{D}, Level 0]: Axandos: bad
+[2021-04-14 05:21:27]: zZz [{D}, Level 0]: Axandos: ...
