@@ -244,3 +244,4 @@
 [2021-04-14 00:38:11]: ***  [, Level 0]: f"{self.name}"'s killing spree was ended by Recep (8 blocks)
 [2021-04-14 00:38:15]: ReXi [, Level 0]: ah doch ich kenn den falkenauge
 [2021-04-14 00:38:16]: ***  [, Level 0]: 1 finished in: 1 minute(s) 41.52 second(s)
+[2021-04-14 00:38:33]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: bruh
