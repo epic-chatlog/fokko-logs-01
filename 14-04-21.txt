@@ -3702,3 +3702,5 @@
 [2021-04-14 04:10:06]: ***  [, Level 0]: 'vollesprit' has left the game
 [2021-04-14 04:10:12]: 1 [, Level 17]: iyisin
 [2021-04-14 04:10:35]: Intensiv_*_ [CrazyNoobs, Level 0]: 1 dk knk
+[2021-04-14 04:10:45]: 1 [, Level 17]: kezo vs
+[2021-04-14 04:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
