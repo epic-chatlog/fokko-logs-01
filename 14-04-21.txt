@@ -7778,3 +7778,4 @@
 [2021-04-14 09:39:21]: vollesprit [, Level 0]: ~DemoizL~: tu es où ?
 [2021-04-14 09:39:30]: ***  [, Level 0]: 'SwiatoslaW' entered and joined the game
 [2021-04-14 09:39:30]: ~DemoizL~ [, Level 39]: vollesprit: à la police
+[2021-04-14 09:39:38]: ***  [, Level 0]: 'vollesprit' has left the game
