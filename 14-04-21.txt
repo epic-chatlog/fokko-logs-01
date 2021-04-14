@@ -5726,3 +5726,7 @@
 [2021-04-14 06:43:47]: kiøn1029 [.bad, Level 25]: police
 [2021-04-14 06:44:00]: ***  [, Level 0]: 'zemer' entered and joined the game
 [2021-04-14 06:44:00]: No~Filter [, Level 0]: csá boti
+[2021-04-14 06:44:08]: 1 [, Level 0]: çık ar
+[2021-04-14 06:44:09]: [D] El patron [, Level 24]: Zephir™:
+[2021-04-14 06:44:13]: (1)☺ [, Level 12]: jen ai aree il detruit le stack
+[2021-04-14 06:44:18]: Zʷʰʸˀ [NULL, Level 36]: ERROR: wo warst du vorher?
