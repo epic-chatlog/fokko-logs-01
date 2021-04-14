@@ -8418,3 +8418,4 @@
 [2021-04-14 10:46:07]: ***  [, Level 0]: peS finished in: 4 minute(s) 53.18 second(s)
 [2021-04-14 10:46:07]: ***  [, Level 0]: 'peS' finished the special race!
 [2021-04-14 10:46:15]: ***  [, Level 0]: '[D] peS' finished the special race!
+[2021-04-14 10:46:25]: ***  [, Level 0]: 'S Y T H N' has left the game
