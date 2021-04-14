@@ -6347,3 +6347,6 @@
 [2021-04-14 07:25:00]: Flupper [, Level 0]: gay clan
 [2021-04-14 07:25:09]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
 [2021-04-14 07:25:12]: Foxie♥ [{TQuila}, Level 36]: what Cylox.
+[2021-04-14 07:25:14]: ***  [, Level 0]: 'WarHammer' has left the game (Timeout)
+[2021-04-14 07:25:19]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-14 07:25:23]: Cylox. [{TQuila}, Level 0]: xd
