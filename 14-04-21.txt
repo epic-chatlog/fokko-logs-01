@@ -11379,3 +11379,5 @@
 [2021-04-14 14:16:23]: Flipper [, Level 16]: Translation results
 [2021-04-14 14:16:23]: ***  [, Level 0]: 'canintospace' has left the game
 [2021-04-14 14:16:36]: BLACK [, Level 25]: Bozzkurt:
+[2021-04-14 14:17:34]: ***  [, Level 0]: '~DemoizL~' has been muted for 60 seconds
+[2021-04-14 14:17:35]: ***  [, Level 0]: 'Flipper' has been muted for 60 seconds
