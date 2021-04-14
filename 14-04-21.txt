@@ -10858,3 +10858,7 @@
 [2021-04-14 13:11:59]: ***  [, Level 0]: '[D] Emilcha' has left the game
 [2021-04-14 13:11:59]: ***  [, Level 0]: 'Emilcha' has left the game
 [2021-04-14 13:12:04]: mamikral011 [DogParty, Level 22]: YelloWorlD: what
+[2021-04-14 13:12:15]: Slvry_ [???, Level 36]: emilcha rq
+[2021-04-14 13:12:15]: YelloWorlD [DogParty, Level 41]: Shiro.: HardreenClutch c un bon pk tu le block
+[2021-04-14 13:12:22]: Shiro. [404, Level 42]: YelloWorlD: il est avec les ennemis
+[2021-04-14 13:12:26]: YelloWorlD [DogParty, Level 41]: Shiro.: cad
