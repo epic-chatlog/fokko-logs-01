@@ -7008,3 +7008,6 @@
 [2021-04-14 08:22:14]: coca [, Level 22]: (2)MOM: 17*&
 [2021-04-14 08:22:17]: ***  [, Level 0]: '(2)Zʷʰʸˀ' entered and joined the game
 [2021-04-14 08:22:19]: El patron [, Level 29]: Zʷʰʸˀ: wilst du peace
+[2021-04-14 08:22:20]: ***  [, Level 0]: '(3)Zʷʰʸˀ' entered and joined the game
+[2021-04-14 08:22:23]: (2)MOM [, Level 21]: coca: 17 still small kid
+[2021-04-14 08:22:25]: ***  [, Level 0]: 'nobody' entered and joined the game
