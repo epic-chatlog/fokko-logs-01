@@ -11559,3 +11559,6 @@
 [2021-04-14 14:50:03]: ***  [, Level 0]: 'Altes Bier' entered and joined the game
 [2021-04-14 14:50:04]: (1)BLACK [, Level 21]: i didnt want war u did Zʷʰʸˀ
 [2021-04-14 14:50:05]: ***  [, Level 0]: 'Altes Bier' has left the game
+[2021-04-14 14:50:16]: (1)BLACK [, Level 21]: so before it start peace?
+[2021-04-14 14:50:17]: (2)Zʷʰʸˀ [NULL, Level 26]: whatever u help enemy
+[2021-04-14 14:50:23]: (1)BLACK [, Level 21]: i didnt
