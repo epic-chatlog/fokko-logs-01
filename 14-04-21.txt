@@ -7784,3 +7784,6 @@
 [2021-04-14 09:40:34]: ***  [, Level 0]: 'Marcisten' has left the game
 [2021-04-14 09:40:35]: ***  [, Level 0]: 'Eden' has left the game
 [2021-04-14 09:40:45]: Zephir™ [, Level 40]: (1)☺: Emilcha je lui met des fesses
+[2021-04-14 09:40:50]: SanoreX [Chilli.*, Level 27]: Emilcha: hELP UP
+[2021-04-14 09:40:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-14 09:40:52]: (1)☺ [, Level 12]: MDR
