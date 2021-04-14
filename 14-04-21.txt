@@ -6276,3 +6276,6 @@
 [2021-04-14 07:19:16]: 1 [, Level 0]: bidadha bana çeçten bisy yazma küstüm
 [2021-04-14 07:19:21]: Cylox. [{TQuila}, Level 0]: tamam
 [2021-04-14 07:19:24]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-14 07:19:37]: 1 [, Level 0]: bidadha bana çeçten bisy yazma küstüm
+[2021-04-14 07:19:41]: Cylox. [{TQuila}, Level 0]: tamam pardın
+[2021-04-14 07:19:41]: El patron [, Level 29]: WarHammer:  why you not in dogparty
