@@ -6426,3 +6426,7 @@
 [2021-04-14 07:31:04]: ***  [, Level 0]: '(1)Intensiv' entered and joined the game
 [2021-04-14 07:31:14]: El patron [, Level 29]: Lucas:  wait k
 [2021-04-14 07:31:14]: ***  [, Level 0]: (1)Zʷʰʸˀ finished in: 4 minute(s)  5.96 second(s)
+[2021-04-14 07:31:17]: ***  [, Level 0]: '(1)MOM' entered and joined the game
+[2021-04-14 07:31:18]: ***  [, Level 0]: Cylox. finished in: 8 minute(s) 41.42 second(s)
+[2021-04-14 07:31:18]: ***  [, Level 0]: 'Cylox.' finished the special race!
+[2021-04-14 07:31:23]: WarHammer [DogParty, Level 26]: ERROR:  how to enter dummy with teeworls
