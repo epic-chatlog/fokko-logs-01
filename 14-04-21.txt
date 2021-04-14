@@ -6267,3 +6267,5 @@
 [2021-04-14 07:17:28]: ***  [, Level 0]: '(2)Cosmo' has left the game
 [2021-04-14 07:17:29]: Foxie♥ [{TQuila}, Level 0]: (1)Kirito:
 [2021-04-14 07:17:34]: 1 [, Level 0]: çıkaracam ama
+[2021-04-14 07:17:36]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
+[2021-04-14 07:17:41]: ***  [, Level 0]: '(2)Cosmo' has left the game
