@@ -808,3 +808,5 @@
 [2021-04-14 01:23:52]: [D] #5 blocker [|*MorE*|, Level 0]: weqe: monkey monkey
 [2021-04-14 01:23:54]: Cylox [, Level 0]: tm
 [2021-04-14 01:23:55]: ***  [, Level 0]: '[D] El patron' has left the game
+[2021-04-14 01:24:05]: Intensiv [CrazyNoobs, Level 9]: sen bana yardım etmedin 1
+[2021-04-14 01:24:07]: 1 [, Level 16]: kexzo alsana
