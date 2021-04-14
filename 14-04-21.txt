@@ -6598,3 +6598,5 @@
 [2021-04-14 07:47:46]: ***  [, Level 0]: New record: 1 minute(s) 24.04 second(s) better.
 [2021-04-14 07:47:50]: ***  [, Level 0]: [D] El patron finished in: 3 minute(s) 47.86 second(s)
 [2021-04-14 07:47:50]: ***  [, Level 0]: '[D] El patron' finished the special race!
+[2021-04-14 07:48:04]: Cylox [{TQuila}, Level 31]: yes
+[2021-04-14 07:48:09]: Foxie♥ [{TQuila}, Level 36]: Cylox.: im jelous
