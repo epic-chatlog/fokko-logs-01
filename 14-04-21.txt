@@ -7580,3 +7580,6 @@
 [2021-04-14 09:18:28]: Good man [Drunks, Level 30]: I like turtles.
 [2021-04-14 09:18:29]: SanoreX [Chilli.*, Level 27]: ERROR: plz help
 [2021-04-14 09:18:30]: Good man [Drunks, Level 30]: El patron:
+[2021-04-14 09:18:32]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
+[2021-04-14 09:18:34]: Good man [Drunks, Level 30]: hook me
+[2021-04-14 09:18:40]: cookie [, Level 19]: SanoreX:  i help
