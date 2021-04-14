@@ -3160,3 +3160,8 @@
 [2021-04-14 03:31:01]: ←   [, Level 0]: SanoreX.*: HOW U HAVE SAYBY
 [2021-04-14 03:31:01]: [₯]NOTgaeGUY [Deepthroat, Level 0]: Zephir™: yyyyyyyyyyyeeeeeeeeeeeeeeeeeeeesssssssssssssss
 [2021-04-14 03:31:05]: ***  [, Level 0]: '(1)nameless tee' has left the game
+[2021-04-14 03:31:15]: ←   [, Level 0]: SanoreX.*: .chat aadasda
+[2021-04-14 03:31:19]: ←   [, Level 0]: SanoreX.*: .tell s
+[2021-04-14 03:31:20]: ←   [, Level 0]: Nudelsaft c:: say /w SanoreX.*: no u gay asfuck
+[2021-04-14 03:31:20]: ***  [, Level 0]: Invalid whisper
+[2021-04-14 03:31:23]: ←   [, Level 0]: SanoreX.*: .sendmessage d
