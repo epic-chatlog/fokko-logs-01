@@ -9632,3 +9632,5 @@
 [2021-04-14 11:59:12]: Falco641 [.bad, Level 20]: wtf is going ChillerDragon
 [2021-04-14 11:59:14]: Falco641 [.bad, Level 20]: on
 [2021-04-14 11:59:15]: Falco641 [.bad, Level 20]: AAAAA
+[2021-04-14 11:59:18]: SanoreX [Chilli.*, Level 27]: Emilcha: I TRY TO HOOK OTHERS GA
+[2021-04-14 11:59:27]: Falco641 [.bad, Level 20]: im getting lag spikes
