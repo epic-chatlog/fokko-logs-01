@@ -9723,3 +9723,7 @@
 [2021-04-15 11:37:04]:   [, Level 0]: HeavyGeneral: VD|HolyHo|: i will textu
 [2021-04-15 11:37:05]: bob [669, Level 36]: XD
 [2021-04-15 11:37:05]: ***  [, Level 0]: 'cunt' entered and joined the game
+[2021-04-15 11:37:09]:   [, Level 0]: HeavyGeneral: VD|HolyHo|: no worries
+[2021-04-15 11:37:09]: bob [669, Level 36]: darkstar: mission completed?
+[2021-04-15 11:37:10]: VD|HolyHo| [VsDoggo´s, Level 19]: HeavyGeneral: ok
+[2021-04-15 11:37:17]: darkstar3 [Legacy™, Level 11]: bob: professional rescue mission
