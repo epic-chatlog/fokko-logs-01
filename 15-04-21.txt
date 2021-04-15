@@ -7211,3 +7211,6 @@
 [2021-04-15 08:32:17]: ***  [, Level 0]: Axel ² finished in: 1 minute(s)  5.90 second(s)
 [2021-04-15 08:32:18]: ***  [, Level 0]: Axel finished in: 5 minute(s) 41.22 second(s)
 [2021-04-15 08:32:21]: ***  [, Level 0]: 'Jabłuszko' has left the game
+[2021-04-15 08:32:39]: ***  [, Level 0]: 'Remsua Ja Fan' joined the spectators
+[2021-04-15 08:32:41]: coca [, Level 16]: wtf darkstar
+[2021-04-15 08:32:43]: ***  [, Level 0]: 'Remsua Ja Fan' has left the game
