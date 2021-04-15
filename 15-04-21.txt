@@ -535,3 +535,7 @@
 [2021-04-15 01:57:55]: S Y T H N [, Level 39]: DiscordBridge: wie farmen
 [2021-04-15 01:57:58]: ***  [, Level 0]: 1 finished in: 1 minute(s) 30.32 second(s)
 [2021-04-15 01:57:58]: ***  [, Level 0]: New record:  5.68 second(s) better.
+[2021-04-15 01:58:08]: kais [, Level 58]: SanoreX: i don't have portal
+[2021-04-15 01:58:08]: SanoreX [Chilli.*, Level 27]: Mert: burdan portal aççaz
+[2021-04-15 01:58:09]: ***  [, Level 0]: 'MOM' entered and joined the game
+[2021-04-15 01:58:13]: SanoreX [Chilli.*, Level 27]: gircez
