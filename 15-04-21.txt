@@ -2718,3 +2718,4 @@
 [2021-04-15 04:12:34]: Taip [VergleriSay, Level 19]: adama vurdum
 [2021-04-15 04:12:36]: Taip [VergleriSay, Level 19]: 1500 geldi
 [2021-04-15 04:12:40]: Taip [VergleriSay, Level 19]: wqeqwe
+[2021-04-15 04:12:49]: Taip [VergleriSay, Level 19]: noo
