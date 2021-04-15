@@ -4370,3 +4370,10 @@
 [2021-04-15 05:36:28]: ***  [, Level 0]: Mert's killing spree was ended by (1)Cosmo (7 blocks)
 [2021-04-15 05:36:30]: SanoreX.* [Chilli.*, Level 22]: keriz client
 [2021-04-15 05:36:31]: (1)Intensiv_ [CrazyNoobs, Level 0]: woona:  hg
+[2021-04-15 05:36:35]:   [, Level 0]: Taip: söyle ama
+[2021-04-15 05:36:39]: SanoreX.* [Chilli.*, Level 22]: as client
+[2021-04-15 05:36:40]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
+[2021-04-15 05:36:40]: SanoreX.* [Chilli.*, Level 22]: client
+[2021-04-15 05:36:40]: ölüm bekçisi [, Level 0]: HELPPP
+[2021-04-15 05:36:42]: (1)cookie [, Level 7]: El patron: help
+[2021-04-15 05:36:43]: SanoreX.* [Chilli.*, Level 22]:  client
