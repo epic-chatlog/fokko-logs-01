@@ -11501,3 +11501,7 @@
 [2021-04-15 13:18:28]: ***  [, Level 0]: 'bruzzi' has left the game
 [2021-04-15 13:18:33]: (2)Zʷʰʸˀ [NULL, Level 26]: ja hilf doch nicht [D] El patron
 [2021-04-15 13:18:36]: ***  [, Level 0]: 'lorenzo96' has left the game
+[2021-04-15 13:18:53]: El patron [, Level 30]: (2)Zʷʰʸˀ: das ist mein dummy
+[2021-04-15 13:18:55]: (1)cunt [, Level 0]: xaWe
+[2021-04-15 13:18:56]: ***  [, Level 0]: 'lessname' entered and joined the game
+[2021-04-15 13:18:56]: ***  [, Level 0]: [D] BC|Tixnix finished in: 1 minute(s) 43.20 second(s)
