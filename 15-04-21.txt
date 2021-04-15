@@ -12975,3 +12975,4 @@
 [2021-04-15 16:35:07]: (1)☺ [, Level 13]: noob
 [2021-04-15 16:35:12]: (1)☺ [, Level 13]: just bad
 [2021-04-15 16:35:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-15 16:35:55]: (1)☺ [, Level 13]: Kirito: lol
