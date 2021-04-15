@@ -12231,3 +12231,6 @@
 [2021-04-15 14:45:32]: GOLD [404, Level 0]: kais: bien tenté
 [2021-04-15 14:45:33]: aleandro [konichiwa, Level 36]: 5 minutes
 [2021-04-15 14:45:37]: ChillerDragon.* [|*KoG*|, Level 42]: xD
+[2021-04-15 14:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-15 14:45:50]: (1)casserole :p [, Level 17]: ChillerDragon.*:
+[2021-04-15 14:45:58]: aleandro [konichiwa, Level 36]: YelloWorlD: bonjour
