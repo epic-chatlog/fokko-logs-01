@@ -7281,3 +7281,8 @@
 [2021-04-15 08:37:18]: ***  [, Level 0]: 'Axel' finished the special race!
 [2021-04-15 08:37:20]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-15 08:37:23]: coca [, Level 16]: Isegrin: hi)
+[2021-04-15 08:37:24]: ***  [, Level 0]: 'woona' entered and joined the game
+[2021-04-15 08:37:28]: ***  [, Level 0]: Lucas finished in: 3 minute(s)  0.92 second(s)
+[2021-04-15 08:37:28]: ***  [, Level 0]: New record: 17.28 second(s) better.
+[2021-04-15 08:37:28]: ERROR. [404, Level 57]: Isegrin:  he gave back so no need
+[2021-04-15 08:37:34]:   [, Level 0]: woona: ChillerDragon:
