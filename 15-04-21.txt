@@ -3618,3 +3618,7 @@
 [2021-04-15 04:55:58]: ***  [, Level 0]: '(1)RM | Arin' has left the game
 [2021-04-15 04:56:00]: ***  [, Level 0]: RM | Arin's killing spree was ended by 1 (6 blocks)
 [2021-04-15 04:56:02]: ***  [, Level 0]: '(1)Matiteusz' entered and joined the game
+[2021-04-15 04:56:07]: SanoreX [Chilli.*, Level 27]: kais: I give u 100k and u give me nothing ok?
+[2021-04-15 04:56:08]: (1)kais [, Level 66]: SanoreX: no
+[2021-04-15 04:56:13]: #5 blocker [|*MorE*|, Level 24]: WarHammer':
+[2021-04-15 04:56:16]: #5 blocker [|*MorE*|, Level 24]: im noob
