@@ -8372,3 +8372,5 @@
 [2021-04-15 10:05:18]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-15 10:05:20]: ***  [, Level 0]: 'zZz' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-15 10:05:24]: YelloWorlD [DogParty, Level 41]: HeavyGeneral: aimbot
+[2021-04-15 10:05:36]:   [, Level 0]: WarHammer: mamikral011:  ne
+[2021-04-15 10:05:43]:   [, Level 0]: mamikral011: bob: :D
