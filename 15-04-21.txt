@@ -1666,3 +1666,5 @@
 [2021-04-15 03:03:15]: Intensiv [CrazyNoobs, Level 11]: GODLIKe:  türkmü aq
 [2021-04-15 03:03:20]: S Y T H N [, Level 39]: ERROR: how much?
 [2021-04-15 03:03:29]: Intensiv [CrazyNoobs, Level 11]: GODLIKe:  türkmüsün
+[2021-04-15 03:03:35]: GODLIKe [, Level 44]: STOP
+[2021-04-15 03:03:43]: S Y T H N [, Level 39]: DiscordBridge: wie viel hattest du?
