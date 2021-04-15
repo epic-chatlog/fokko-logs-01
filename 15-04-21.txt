@@ -5929,3 +5929,5 @@
 [2021-04-15 07:25:19]: hhnaut31 [, Level 43]: Ch
 [2021-04-15 07:25:22]: hhnaut31 [, Level 43]: ChillerDragon:
 [2021-04-15 07:25:37]: (1) [, Level 40]: it isnt mine dont
+[2021-04-15 07:25:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-15 07:25:51]: Kahve [, Level 23]: Axandos: stop?
