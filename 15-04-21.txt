@@ -4329,3 +4329,9 @@
 [2021-04-15 05:34:06]:   [, Level 0]: Taip: helpp
 [2021-04-15 05:34:17]:   [, Level 0]: Taip: helpq
 [2021-04-15 05:34:31]: SanoreX.* [Chilli.*, Level 22]: f"{self.name}": why u dont login ur acc????
+[2021-04-15 05:34:43]: Axandos [, Level 26]: Taip:
+[2021-04-15 05:34:46]: SanoreX.* [Chilli.*, Level 22]: ooo
+[2021-04-15 05:34:47]: ***  [, Level 0]: 'I wb wayblocker' has left the game
+[2021-04-15 05:34:48]:   [, Level 0]: Taip: what
+[2021-04-15 05:34:51]: Axandos [, Level 26]: Taip:  help
+[2021-04-15 05:34:54]: ***  [, Level 0]: '(3)cookie' has left the game
