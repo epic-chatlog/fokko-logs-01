@@ -5874,3 +5874,7 @@
 [2021-04-15 07:15:37]: ERROR. [404, Level 57]: könnte mit 12 rein aber kein bock alle lappis anzuhauen xDDDD (1)ChillerDrago
 [2021-04-15 07:15:40]: ***  [, Level 0]: cunt is on a killing spree with 5 blocks
 [2021-04-15 07:15:47]: (1)ChillerDrago [|*KoG*|, Level 45]: ja dann flop ERROR
+[2021-04-15 07:15:48]: ***  [, Level 0]: '(1)BitchPlease J' entered and joined the game
+[2021-04-15 07:15:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 07:15:54]: ***  [, Level 0]: '(1)Hala Madrid' entered and joined the game
+[2021-04-15 07:15:54]: ERROR. [404, Level 57]: (1)ChillerDrago:  komm gogoogogog 9
