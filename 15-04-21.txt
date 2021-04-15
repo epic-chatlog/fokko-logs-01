@@ -2920,3 +2920,5 @@
 [2021-04-15 04:25:39]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-15 04:25:49]: Nudelsaft c: [FookinLads, Level 42]: ez
 [2021-04-15 04:25:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-15 04:25:57]: cookie [, Level 20]: µ
+[2021-04-15 04:26:00]: SanoreX [Chilli.*, Level 27]: flappy: Mert e yardım et herzaman
