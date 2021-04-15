@@ -2592,3 +2592,7 @@
 [2021-04-15 04:04:35]: Taip [VergleriSay, Level 19]: 2k
 [2021-04-15 04:04:36]: Taip [VergleriSay, Level 19]: 5k
 [2021-04-15 04:04:38]: Mert [Blood Gang, Level 0]: üzaten 1 milyon olmazki
+[2021-04-15 04:04:43]: ***  [, Level 0]: 'Vir' entered and joined the game
+[2021-04-15 04:04:45]: Taip [VergleriSay, Level 19]: kaçtı
+[2021-04-15 04:04:46]: Taip [VergleriSay, Level 19]: aq
+[2021-04-15 04:04:47]: ***  [, Level 0]: 'Nodos' changed name to '[D] emginw'
