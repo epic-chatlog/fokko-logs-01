@@ -6199,3 +6199,11 @@
 [2021-04-15 07:45:40]: [D] Kahve [, Level 19]: lan Cylox ?
 [2021-04-15 07:45:42]: ***  [, Level 0]: 'fomjn' entered and joined the game
 [2021-04-15 07:45:43]: Intensiv [CrazyNoobs, Level 12]: ERROR:  help me
+[2021-04-15 07:45:48]: ERROR. [404, Level 57]: but started what Matiteusz ?
+[2021-04-15 07:45:49]: ***  [, Level 0]: 'fomin' entered and joined the game
+[2021-04-15 07:45:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-15 07:45:55]: [D] Kahve [, Level 19]: Cylox.: napıyon amk
+[2021-04-15 07:45:55]: Matiteusz [TrRShClNrRs, Level 36]: ERROR: killing me
+[2021-04-15 07:45:56]: mamikral011 [DogParty, Level 0]: darkstar4: come
+[2021-04-15 07:45:58]: Intensiv [CrazyNoobs, Level 12]: El patron:  help
+[2021-04-15 07:45:58]: Matiteusz [TrRShClNrRs, Level 36]: ERROR: cuz
