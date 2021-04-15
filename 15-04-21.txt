@@ -8479,3 +8479,6 @@
 [2021-04-15 10:13:24]:   [, Level 0]: WarHammer: lags
 [2021-04-15 10:13:26]: ***  [, Level 0]: 'woona' entered and joined the game
 [2021-04-15 10:13:29]:   [, Level 0]: Kenshi™: YelloWorlD: maintenant tu me kill ?
+[2021-04-15 10:13:38]: ***  [, Level 0]: 'peS' entered and joined the game
+[2021-04-15 10:13:41]: Zephir™ [, Level 40]: YelloWorlD: daccord très bien
+[2021-04-15 10:13:42]: YelloWorlD [DogParty, Level 41]: Zephir™: t'aide mes enemy
