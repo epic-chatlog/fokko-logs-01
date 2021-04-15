@@ -4481,3 +4481,6 @@
 [2021-04-15 05:42:21]: (1) [, Level 0]: dont kill her
 [2021-04-15 05:42:24]: ***  [, Level 0]: 'hhnaut31' entered and joined the game
 [2021-04-15 05:42:32]: ***  [, Level 0]: 'Wayllan Kath' has left the game
+[2021-04-15 05:42:37]: Tziys* [DogParty, Level 39]: Taip: sen axandosu kurtardın
+[2021-04-15 05:42:40]: ***  [, Level 0]: 'ɵʍɢ' entered and joined the game
+[2021-04-15 05:42:45]: (1) [, Level 0]: demiuz
