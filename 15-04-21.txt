@@ -8292,3 +8292,5 @@
 [2021-04-15 09:54:44]: ChillerDragon.* [Chilli.*, Level 42]: u ERROR
 [2021-04-15 09:54:49]: YelloWorlD [DogParty, Level 41]: ChillerDragon: u said war no ?
 [2021-04-15 09:54:53]: ***  [, Level 0]: '[D] _CHUCKY_' has left the game
+[2021-04-15 09:54:54]: ChillerDragon.* [Chilli.*, Level 42]: yes
+[2021-04-15 09:55:03]: zZz [{D}, Level 0]: ChillerDragon: hi brazer)
