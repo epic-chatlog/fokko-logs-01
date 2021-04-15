@@ -2700,3 +2700,6 @@
 [2021-04-15 04:11:06]: cookie [, Level 20]: Taip:  yes
 [2021-04-15 04:11:07]: ***  [, Level 0]: 'Taip' has been muted for 60 seconds
 [2021-04-15 04:11:11]: #5 blocker [|*MorE*|, Level 24]: weqe: you started?
+[2021-04-15 04:11:21]: [D] Mert [[!BRUH!], Level 0]: pls
+[2021-04-15 04:11:24]: ***  [, Level 0]: '[D] emginw' has left the game
+[2021-04-15 04:11:24]: ***  [, Level 0]: 'emginw' has left the game
