@@ -5656,3 +5656,5 @@
 [2021-04-15 06:54:15]: ***  [, Level 0]: 'KES' entered and joined the game
 [2021-04-15 06:54:16]: [D] _CHUCKY_ [, Level 0]:  :
 [2021-04-15 06:54:16]: ***  [, Level 0]: '✯|Not Bulash' entered and joined the game
+[2021-04-15 06:54:58]: ***  [, Level 0]: '✯ | Bulash' entered and joined the game
+[2021-04-15 06:55:02]: ***  [, Level 0]: 'fahh' has left the game
