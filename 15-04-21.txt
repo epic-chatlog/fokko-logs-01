@@ -8747,3 +8747,5 @@
 [2021-04-15 10:32:10]:   [, Level 0]: (1)Good man: i will hunt you
 [2021-04-15 10:32:20]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
 [2021-04-15 10:32:22]: ***  [, Level 0]: 'ZEUS' entered and joined the game
+[2021-04-15 10:32:36]: ***  [, Level 0]: 'ZEUS' has left the game
+[2021-04-15 10:32:39]:   [, Level 0]: (1)Good man: stop
