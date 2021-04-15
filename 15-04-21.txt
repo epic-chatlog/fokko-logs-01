@@ -8023,3 +8023,5 @@
 [2021-04-15 09:35:21]: ***  [, Level 0]: 'Camorra' has left the game
 [2021-04-15 09:35:31]: darkstar [Legacy™, Level 19]: Zʷʰʸˀ: go away noone likes u
 [2021-04-15 09:35:46]: (2)Zʷʰʸˀ [NULL, Level 26]: darkstar: how u trying to make an argument like that?
+[2021-04-15 09:35:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 09:35:56]: Cylox [{TQuila}, Level 31]: FUCK
