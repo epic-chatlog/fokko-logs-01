@@ -3734,3 +3734,7 @@
 [2021-04-15 05:00:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-15 05:00:50]: Axandos² [, Level 21]: k
 [2021-04-15 05:00:54]: ***  [, Level 0]: 'altee' entered and joined the game
+[2021-04-15 05:00:56]: SanoreX [Chilli.*, Level 27]: kaıs
+[2021-04-15 05:00:57]: (1)Matiteusz [TrRShClNrRs, Level 0]: Axandos: so?
+[2021-04-15 05:01:00]: SanoreX [Chilli.*, Level 27]: ka¡s
+[2021-04-15 05:01:02]: Axandos [, Level 26]: ur choice Matiteusz
