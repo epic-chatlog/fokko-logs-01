@@ -7110,3 +7110,7 @@
 [2021-04-15 08:27:50]: ERROR [404, Level 75]: PRAAAAAAAANK
 [2021-04-15 08:27:50]: Axandos [, Level 26]: ERROR:  lass mich bitte farmen
 [2021-04-15 08:27:53]: coca [, Level 16]: oops
+[2021-04-15 08:27:55]: Recep [VergleriSay, Level 10]: how i get name
+[2021-04-15 08:28:01]: Axandos [, Level 26]: omg
+[2021-04-15 08:28:03]: Recep [VergleriSay, Level 10]: and know this
+[2021-04-15 08:28:04]: coca [, Level 16]: thx
