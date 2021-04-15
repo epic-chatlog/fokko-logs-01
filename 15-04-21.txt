@@ -895,3 +895,4 @@
 [2021-04-15 02:17:41]: mamikral011 [DogParty, Level 0]: WarHammer': noobluk yapma
 [2021-04-15 02:17:53]: satou [, Level 7]: Mert: diğeri
 [2021-04-15 02:17:56]: satou [, Level 7]: burdaki değil
+[2021-04-15 02:18:02]: WarHammer' [DogParty, Level 0]: mamikral011:  lag var
