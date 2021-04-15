@@ -7981,3 +7981,10 @@
 [2021-04-15 09:31:09]: GOLD [404, Level 40]: ERROR: god
 [2021-04-15 09:31:11]: GOLD [404, Level 40]: ERROR: dog
 [2021-04-15 09:31:11]: Coca [Drunks, Level 16]: Cylox: ez\
+[2021-04-15 09:31:16]: ***  [, Level 0]: 'Pigmilk' would have timed out, but can use timeout protection now
+[2021-04-15 09:31:16]: ***  [, Level 0]: 'Horsemilk' would have timed out, but can use timeout protection now
+[2021-04-15 09:31:19]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-15 09:31:19]: ***  [, Level 0]: 'casserole :p' entered and joined the game
+[2021-04-15 09:31:20]: Cylox [{TQuila}, Level 31]: ERROR:
+[2021-04-15 09:31:21]: ***  [, Level 0]: 'All Might' entered and joined the game
+[2021-04-15 09:31:22]: ***  [, Level 0]: 'Mista bombastic' has left the game
