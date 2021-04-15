@@ -5582,3 +5582,5 @@
 [2021-04-15 06:47:22]: Intensiv [CrazyNoobs, Level 12]: 1 k
 [2021-04-15 06:47:24]: SanoreX [Chilli.*, Level 27]: ERROR:
 [2021-04-15 06:47:26]: ***  [, Level 0]: '_CHUCKY_' entered and joined the game
+[2021-04-15 06:47:34]: Cylox. [{TQuila}, Level 0]: ERROR: :(
+[2021-04-15 06:47:36]: ***  [, Level 0]: '[D] _CHUCKY_' entered and joined the game
