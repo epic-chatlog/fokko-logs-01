@@ -4631,3 +4631,4 @@
 [2021-04-15 05:48:53]: oyun krallı [, Level 18]: ADAM BENİ ÇEKTİ :D
 [2021-04-15 05:48:58]: El patron [, Level 30]: Kezo:  ok
 [2021-04-15 05:48:59]: oyun krallı [, Level 18]: ADAM BENİ ÇEKTİ :D kezo
+[2021-04-15 05:49:10]: oyun krallı [, Level 18]: ADAM BENİ ÇEKTİ :D Kezo
