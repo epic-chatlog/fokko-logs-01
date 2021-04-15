@@ -11813,3 +11813,5 @@
 [2021-04-15 13:58:57]: [D] El patron [, Level 0]: xd
 [2021-04-15 13:59:02]: ***  [, Level 0]: 'Lucas' finished the special race!
 [2021-04-15 13:59:02]: ***  [, Level 0]: Lucas finished in: 19 minute(s) 20.08 second(s)
+[2021-04-15 13:59:24]: [D] El patron [, Level 0]: nobody likes chillers
+[2021-04-15 13:59:25]: ***  [, Level 0]: 'BitchPlease Jr.' finished the special race!
