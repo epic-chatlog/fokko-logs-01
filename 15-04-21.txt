@@ -5119,3 +5119,6 @@
 [2021-04-15 06:12:23]: ***  [, Level 0]: 'Not Zerstrian' finished the special race!
 [2021-04-15 06:12:27]: Kezo [DogParty, Level 41]: aptal orospu ccocugu 9 yaşındasın daha pipinin ne işe yaradıgını bilmiyosun
 [2021-04-15 06:12:29]: SanoreX.* [Chilli.*, Level 0]: ERROR: come plot 11 please
+[2021-04-15 06:12:37]: SanoreX.* [Chilli.*, Level 0]: Kezo: lan benmi
+[2021-04-15 06:12:38]: Taip [VergleriSay, Level 19]: bro
+[2021-04-15 06:12:41]: Taip [VergleriSay, Level 19]: can i farm?
