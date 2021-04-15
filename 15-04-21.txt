@@ -5325,3 +5325,7 @@
 [2021-04-15 06:22:37]: ***  [, Level 0]: '(1)Kezo' entered and joined the game
 [2021-04-15 06:22:40]: Taip [VergleriSay, Level 19]: çek
 [2021-04-15 06:22:54]: Taip [VergleriSay, Level 19]: yavşak mısın
+[2021-04-15 06:23:12]: Kahve [, Level 0]: [D] El patron: go here xD
+[2021-04-15 06:23:13]: #5 blocker [|*MorE*|, Level 0]: Kirito: wtf unable to check krx status?
+[2021-04-15 06:23:16]: Cylox [{TQuila}, Level 0]: dalgamigeciyorsuncanim
+[2021-04-15 06:23:19]: SanoreX.* [Chilli.*, Level 22]: veya 2
