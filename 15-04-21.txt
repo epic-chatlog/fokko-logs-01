@@ -7032,3 +7032,7 @@
 [2021-04-15 08:24:49]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: bruh
 [2021-04-15 08:24:50]: ERROR. [404, Level 57]: TROLL
 [2021-04-15 08:24:55]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-15 08:24:58]: ***  [, Level 0]: Ðeathscyth finished in: 4 minute(s) 19.18 second(s)
+[2021-04-15 08:24:59]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-15 08:25:03]: ERROR. [404, Level 57]: +nub
+[2021-04-15 08:25:06]: ERROR. [404, Level 57]: #nub
