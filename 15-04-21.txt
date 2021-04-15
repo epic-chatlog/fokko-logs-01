@@ -4535,3 +4535,7 @@
 [2021-04-15 05:45:07]: SanoreX.* [Chilli.*, Level 22]: vt
 [2021-04-15 05:45:10]: El patron [, Level 30]: Kezo:
 [2021-04-15 05:45:15]: SanoreX.* [Chilli.*, Level 22]: Kirito: come plot
+[2021-04-15 05:45:28]: Kezo [DogParty, Level 41]: El patron: axandos said you his dog
+[2021-04-15 05:45:28]: casserole :p [, Level 0]: cookie:
+[2021-04-15 05:45:30]: ***  [, Level 0]: '(3)cookie' has left the game
+[2021-04-15 05:45:32]:   [, Level 0]: Taip: do you help Recep?
