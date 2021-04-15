@@ -2482,3 +2482,5 @@
 [2021-04-15 03:56:01]: cookie [, Level 0]: k
 [2021-04-15 03:56:03]: SanoreX [Chilli.*, Level 27]: 100
 [2021-04-15 03:56:04]: SanoreX [Chilli.*, Level 27]: and k
+[2021-04-15 03:56:23]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
+[2021-04-15 03:56:25]: ***  [, Level 0]: '#5 blocker' entered and joined the game
