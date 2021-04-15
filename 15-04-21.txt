@@ -4155,3 +4155,6 @@
 [2021-04-15 05:23:44]: SanoreX [Chilli.*, Level 27]: (3)Kirito:
 [2021-04-15 05:23:46]: Axandos² [, Level 21]: Flipper:  _D
 [2021-04-15 05:23:46]: Kezo [DogParty, Level 41]: f"{self.name}": war
+[2021-04-15 05:23:55]: Axandos² [, Level 21]: Kezo:  peace or not
+[2021-04-15 05:24:01]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
+[2021-04-15 05:24:03]:   [, Level 0]: Taip: WTF
