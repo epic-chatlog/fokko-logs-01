@@ -7401,3 +7401,5 @@
 [2021-04-15 08:41:49]: ***  [, Level 0]: 'Intensiv' has left the game
 [2021-04-15 08:41:51]: [D] El patron [, Level 24]: coca: fun war
 [2021-04-15 08:41:51]: ***  [, Level 0]: 'SanoreX' has left the game
+[2021-04-15 08:41:53]: ***  [, Level 0]: 'SanoreX' entered and joined the game
+[2021-04-15 08:41:59]: Meetiteusz [TrRShClNrRs, Level 0]: Ðream: XD i dropped godlike
