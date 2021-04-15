@@ -7800,3 +7800,4 @@
 [2021-04-15 09:09:05]: Swarfey [FookinLads, Level 59]: ERROR: also schon aber nutz ich halt nich xd
 [2021-04-15 09:09:10]: ERROR [404, Level 75]: welchen
 [2021-04-15 09:09:13]: Swarfey [FookinLads, Level 59]: eigenen
+[2021-04-15 09:09:20]: ***  [, Level 0]: 'nameless tee' has left the game
