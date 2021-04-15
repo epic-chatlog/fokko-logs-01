@@ -8828,3 +8828,5 @@
 [2021-04-15 10:38:11]:   [, Level 0]: Ƭevan: Coca: ку)
 [2021-04-15 10:38:14]: Zephir™ [, Level 40]: ERROR: come we have police
 [2021-04-15 10:38:26]: bob [669, Level 36]: Zephir™: why u do big team instead of 2 rival clans ? we just rq no chance vs 10 ppl
+[2021-04-15 10:38:32]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-15 10:38:42]: [D] El patron [, Level 0]: Zephir™:  good job
