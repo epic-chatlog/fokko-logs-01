@@ -6502,3 +6502,8 @@
 [2021-04-15 08:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-15 08:00:50]:   [, Level 0]: Flipper: ~DemoizL~: ??
 [2021-04-15 08:00:51]: ERROR [404, Level 75]: xD
+[2021-04-15 08:01:08]: ***  [, Level 0]: 'darkstar3' has left the game
+[2021-04-15 08:01:08]: ***  [, Level 0]: 'darkstar4' has left the game
+[2021-04-15 08:01:08]:   [, Level 0]: (1)falkenauge: HeavyGeneral: why xD
+[2021-04-15 08:01:10]: ***  [, Level 0]: 'Cosmo' has left the game
+[2021-04-15 08:01:14]: ***  [, Level 0]: Valesz is on a killing spree with 5 blocks
