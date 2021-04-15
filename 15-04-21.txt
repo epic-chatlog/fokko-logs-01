@@ -8511,3 +8511,8 @@
 [2021-04-15 10:15:56]: ***  [, Level 0]: 'GamegaborHUN' has left the game
 [2021-04-15 10:15:56]: ***  [, Level 0]: 'woona' has left the game
 [2021-04-15 10:15:57]: any² [404, Level 0]: GOLD: pk tu kill Zephir™ ?
+[2021-04-15 10:16:01]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-15 10:16:01]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-15 10:16:02]: (1)Sayme [, Level 0]: GODLIKe: hi)
+[2021-04-15 10:16:05]:   [, Level 0]: GODLIKe: hi
+[2021-04-15 10:16:06]: ERROR. [404, Level 57]: Kenshi™:  why he attacks u
