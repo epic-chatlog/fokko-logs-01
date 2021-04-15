@@ -10284,3 +10284,8 @@
 [2021-04-15 12:11:55]: Bombi.YT [, Level 38]: booooob
 [2021-04-15 12:11:58]:   [, Level 0]: test: i can
 [2021-04-15 12:12:01]: Bombi.YT [, Level 38]: bob: whuttts upppppppppppppppppp
+[2021-04-15 12:12:04]: ***  [, Level 0]: 'CG[CyanGuy]' entered and joined the game
+[2021-04-15 12:12:09]: bob [669, Level 36]: Bombi.YT: i remember ur name
+[2021-04-15 12:12:12]: bob [669, Level 36]: Bombi.YT: who are u
+[2021-04-15 12:12:13]: woona [, Level 48]: SanoreX: var bende hamachi
+[2021-04-15 12:12:14]:   [, Level 0]: SanoreX: test: what I morph now
