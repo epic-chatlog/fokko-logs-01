@@ -4151,3 +4151,7 @@
 [2021-04-15 05:23:37]: Mert [Blood Gang, Level 0]: üblocklama serbest
 [2021-04-15 05:23:39]: SanoreX [Chilli.*, Level 27]: (3)Kirito:
 [2021-04-15 05:23:40]: Axandos² [, Level 21]: peace?
+[2021-04-15 05:23:42]: SanoreX [Chilli.*, Level 27]: kİRİTOO
+[2021-04-15 05:23:44]: SanoreX [Chilli.*, Level 27]: (3)Kirito:
+[2021-04-15 05:23:46]: Axandos² [, Level 21]: Flipper:  _D
+[2021-04-15 05:23:46]: Kezo [DogParty, Level 41]: f"{self.name}": war
