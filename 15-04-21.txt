@@ -12931,3 +12931,5 @@
 [2021-04-15 16:24:52]: weqe [669, Level 13]: shet
 [2021-04-15 16:24:53]: Kirito [{TQuila}, Level 40]: xDDD
 [2021-04-15 16:25:00]: weqe [669, Level 13]: where flappy
+[2021-04-15 16:25:12]: Kirito [{TQuila}, Level 40]: flappy: coming
+[2021-04-15 16:25:16]: ***  [, Level 0]: 'weqe' has left the game
