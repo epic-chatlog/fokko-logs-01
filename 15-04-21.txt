@@ -5441,3 +5441,7 @@
 [2021-04-15 06:33:31]: ***  [, Level 0]: 'Intensiv_' has left the game
 [2021-04-15 06:33:34]: ***  [, Level 0]: 'MieSlime' entered and joined the game
 [2021-04-15 06:33:37]: [D] El patron [, Level 24]: Cylox: 100k
+[2021-04-15 06:33:47]: Intensiv [CrazyNoobs, Level 12]: my 12 level 200k money .d
+[2021-04-15 06:33:52]: Cylox. [{TQuila}, Level 0]: El patron: nah
+[2021-04-15 06:33:53]: SanoreX.* [Chilli.*, Level 22]: I BLOcken
+[2021-04-15 06:33:58]: [D] El patron [, Level 24]: SanoreX: wft
