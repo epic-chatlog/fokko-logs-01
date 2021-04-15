@@ -8834,3 +8834,4 @@
 [2021-04-15 10:38:58]: ***  [, Level 0]: 'Lucas' entered and joined the game
 [2021-04-15 10:39:04]: Coca [Drunks, Level 16]: lucas
 [2021-04-15 10:39:08]:   [, Level 0]: Lucas: Coca: ?
+[2021-04-15 10:39:09]: Coca [Drunks, Level 16]: Lucas:hi)
