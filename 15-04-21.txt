@@ -48,3 +48,5 @@
 [2021-04-15 01:33:10]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
 [2021-04-15 01:33:11]: Foxie♥ [{TQuila}, Level 36]: EZZZZZZZZ
 [2021-04-15 01:33:12]: SanoreX [Chilli.*, Level 27]:  /money drop 1900
+[2021-04-15 01:33:29]: ***  [, Level 0]: Meetiteusz finished in: 1 minute(s)  1.98 second(s)
+[2021-04-15 01:33:29]: ***  [, Level 0]: New record: 1 minute(s) 18.24 second(s) better.
