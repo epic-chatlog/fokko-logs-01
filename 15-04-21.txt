@@ -4796,3 +4796,8 @@
 [2021-04-15 05:56:09]: Mert [Blood Gang, Level 0]: ok
 [2021-04-15 05:56:15]: oyun krallı [, Level 18]: bekle
 [2021-04-15 05:56:17]: ***  [, Level 0]: Mert is on a killing spree with 5 blocks
+[2021-04-15 05:56:20]: oyun krallı [, Level 18]: tm
+[2021-04-15 05:56:25]: ***  [, Level 0]: Mert's killing spree was ended by (1) (5 blocks)
+[2021-04-15 05:56:28]: Kezo [DogParty, Level 41]: 6 4
+[2021-04-15 05:56:29]: GODLIKe [, Level 44]: QJWIPEOKĞQW
+[2021-04-15 05:56:29]: kais [, Level 58]: xD
