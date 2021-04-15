@@ -11450,3 +11450,7 @@
 [2021-04-15 13:12:54]: ***  [, Level 0]: 'darkstar4' has left the game
 [2021-04-15 13:12:58]: ***  [, Level 0]: 'test' has left the game
 [2021-04-15 13:13:10]: Lucas [THECEPS, Level 35]: soleri1: rip
+[2021-04-15 13:13:15]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-15 13:13:15]: ***  [, Level 0]: 'Asta' entered and joined the game
+[2021-04-15 13:13:16]: El patron [, Level 30]: Kenshi™:  wake up
+[2021-04-15 13:13:19]: test [, Level 0]: ;vote
