@@ -8011,3 +8011,6 @@
 [2021-04-15 09:33:27]: ***  [, Level 0]: 'All Might' joined the spectators
 [2021-04-15 09:33:30]: any [404, Level 38]: ERROR: he kills me -_-
 [2021-04-15 09:33:31]: ***  [, Level 0]: 'All Might' has left the game
+[2021-04-15 09:33:55]: ***  [, Level 0]: 'casserole :p' has left the game
+[2021-04-15 09:33:58]: Cylox. [{TQuila}, Level 24]: ERROR: offfffffffffff
+[2021-04-15 09:33:59]: ***  [, Level 0]: 'power' entered and joined the game
