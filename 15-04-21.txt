@@ -1031,3 +1031,6 @@
 [2021-04-15 02:24:51]: satou [, Level 7]: saol
 [2021-04-15 02:24:54]: WarHammer' [DogParty, Level 17]: salıyo
 [2021-04-15 02:25:01]: WarHammer' [DogParty, Level 17]: XD
+[2021-04-15 02:25:06]: Mert [Blood Gang, Level 2]: 100000000
+[2021-04-15 02:25:09]: Axandos [, Level 26]: WarHammer:
+[2021-04-15 02:25:15]: ***  [, Level 0]: 1 finished in: 1 minute(s)  3.14 second(s)
