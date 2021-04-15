@@ -11644,3 +11644,5 @@
 [2021-04-15 13:34:49]: (1)ChillerDrago [Chilli.*, Level 45]: i try to block all i have war with Zephir™
 [2021-04-15 13:34:52]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-15 13:34:53]: ***  [, Level 0]: Zephir™ is on a killing spree with 5 blocks
+[2021-04-15 13:35:04]: ***  [, Level 0]: '(1)test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-15 13:35:05]: Zephir™ [, Level 40]: ChillerDragon: try
