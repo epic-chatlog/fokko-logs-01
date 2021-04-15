@@ -1490,3 +1490,9 @@
 [2021-04-15 02:53:51]: GODLIKe. [, Level 39]: op rq
 [2021-04-15 02:53:52]: ***  [, Level 0]: 'GODLIKe' has left the game
 [2021-04-15 02:53:52]: ***  [, Level 0]: 'GODLIKe.' has left the game
+[2021-04-15 02:53:55]: power [TrRShClNrRs, Level 15]: xD cylox
+[2021-04-15 02:53:57]: ***  [, Level 0]: 'El patron' finished the special race!
+[2021-04-15 02:53:59]: ***  [, Level 0]: 'Telefantastic' finished the special race!
+[2021-04-15 02:54:00]: Matiteusz [TrRShClNrRs, Level 36]: Mista bombastic: if you will need for smth tell me
+[2021-04-15 02:54:05]: ***  [, Level 0]: [D] El patron finished in: 5 minute(s) 41.52 second(s)
+[2021-04-15 02:54:05]: ***  [, Level 0]: '[D] El patron' finished the special race!
