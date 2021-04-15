@@ -4099,3 +4099,4 @@
 [2021-04-15 05:20:02]: SanoreX [Chilli.*, Level 27]: oyun krallı: flappy e yazki help  "oyuncu ismi" yaz olur
 [2021-04-15 05:20:02]: oyun krallı [, Level 18]: ben polisim fleypy le baskasını yardım ettirmek istiyom nasıl
 [2021-04-15 05:20:17]: oyun krallı [, Level 18]: GERİ NASIL ALIRIM
+[2021-04-15 05:20:17]: ölüm bekçisi [, Level 0]: BAYADIR OYNAM IYOM OYUZDEN
