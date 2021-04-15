@@ -1205,3 +1205,7 @@
 [2021-04-15 02:38:17]: Telefantastic [TrRShClNrRs, Level 0]: Nudelsaft c:: AAAAAAAA NO SPIKEY SPIKEY
 [2021-04-15 02:38:18]: [D] Mert [[!BRUH!], Level 0]: yes
 [2021-04-15 02:38:22]: ***  [, Level 0]: 'any²' entered and joined the game
+[2021-04-15 02:38:25]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 56.78 second(s)
+[2021-04-15 02:38:25]: Nudelsaft c: [FookinLads, Level 42]: yes
+[2021-04-15 02:38:27]: Nudelsaft c: [FookinLads, Level 42]: spiky spiky
+[2021-04-15 02:38:27]: ***  [, Level 0]: [D] Mert finished in: 1 minute(s)  7.48 second(s)
