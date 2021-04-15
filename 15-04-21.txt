@@ -7924,3 +7924,8 @@
 [2021-04-15 09:26:26]: Cylox. [{TQuila}, Level 0]: ERROR:
 [2021-04-15 09:26:37]: any [404, Level 38]: Coca: what bonus ?
 [2021-04-15 09:26:39]: (1)ERROR [AllTheHaxx, Level 0]: Nudelsaft c::  console command for show level expect time?
+[2021-04-15 09:26:48]: Coca [Drunks, Level 16]: any: why you ask)
+[2021-04-15 09:26:48]: ***  [, Level 0]: GOLD finished in: 1 minute(s) 54.80 second(s)
+[2021-04-15 09:26:48]: ***  [, Level 0]: New record: 1 minute(s) 20.76 second(s) better.
+[2021-04-15 09:26:50]: ***  [, Level 0]: YelloWorlD finished in: 5 minute(s) 21.08 second(s)
+[2021-04-15 09:26:53]: Cylox. [{TQuila}, Level 0]: Taip: kanka yardım soldayım
