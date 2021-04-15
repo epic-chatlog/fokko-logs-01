@@ -5684,3 +5684,5 @@
 [2021-04-15 06:59:19]: ***  [, Level 0]: 'HeavyGeneral' entered and joined the game
 [2021-04-15 06:59:27]: ERROR. [404, Level 57]: HOW SHOULD I KNOW'
 [2021-04-15 06:59:40]: Not Zerstrian [, Level 50]: because i am level 50 and got a swiss flag. i'm the only swiss ghost
+[2021-04-15 06:59:54]: ***  [, Level 0]: 'lessname' has left the game
+[2021-04-15 06:59:57]: ERROR. [404, Level 57]: Not Zerstrian:  bruh i dont watch flags and vlvl
