@@ -6424,3 +6424,5 @@
 [2021-04-15 07:56:08]: ERROR. [404, Level 57]: is nur spaß du vogel
 [2021-04-15 07:56:09]: Axandos [, Level 26]: Swarfey:  :D
 [2021-04-15 07:56:13]: Swarfey [FookinLads, Level 59]: wieso machst du portal wenn du nicht willst dass er rein soll xD
+[2021-04-15 07:56:27]: HeavyGeneral [FookinLads, Level 44]: ERROR: right
+[2021-04-15 07:56:28]: Intensiv_ [CrazyNoobs, Level 5]: sorry bug
