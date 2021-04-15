@@ -8414,3 +8414,7 @@
 [2021-04-15 10:08:24]: ***  [, Level 0]: 'ZEUS' has left the game
 [2021-04-15 10:08:24]: ***  [, Level 0]: 'Noragami' has left the game
 [2021-04-15 10:08:25]:   [, Level 0]: Zephir™: bob: who is ur bonus ?
+[2021-04-15 10:08:36]:   [, Level 0]: Zephir™: bob: 8 jumps ?
+[2021-04-15 10:08:39]: ***  [, Level 0]: any²'s killing spree was ended by DonkeyMilk (8 blocks)
+[2021-04-15 10:08:41]: (3)BLACK [, Level 21]: Coca:
+[2021-04-15 10:08:42]: ***  [, Level 0]: any's killing spree was ended by noname (7 blocks)
