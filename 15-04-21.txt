@@ -6491,3 +6491,7 @@
 [2021-04-15 07:59:38]: ERROR. [404, Level 57]: doof gelaufen wenn du war schreibst xDDDDDDDDDDDDDDDDDDDD
 [2021-04-15 07:59:42]: Axandos [, Level 26]: ERROR.:  NNICHT Zerstrian
 [2021-04-15 07:59:44]: Not Zerstrian [, Level 50]: I like turtles.
+[2021-04-15 07:59:51]: Axandos [, Level 26]: AMK
+[2021-04-15 07:59:51]: Not Zerstrian [, Level 50]: du sagtest mir war
+[2021-04-15 07:59:52]: ERROR. [404, Level 57]: sind die selben
+[2021-04-15 07:59:57]: ***  [, Level 0]: '(1)falkenauge' entered and joined the game
