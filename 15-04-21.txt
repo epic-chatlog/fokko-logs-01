@@ -6522,3 +6522,10 @@
 [2021-04-15 08:02:23]: ERROR [404, Level 75]: stoppt jz beide
 [2021-04-15 08:02:25]: Intensiv_ [CrazyNoobs, Level 5]: ERROR:
 [2021-04-15 08:02:26]: ERROR [404, Level 75]: Axandos:  ok war
+[2021-04-15 08:02:32]: Axandos² [, Level 21]: ERROR:  wtf er will doch xD
+[2021-04-15 08:02:34]: (3)Kirito [, Level 40]: Matiteusz: NOOO
+[2021-04-15 08:02:39]: (3)Kirito [, Level 40]: Matiteusz: WAR4LIFE YOU BITCH TRAITOR
+[2021-04-15 08:02:39]: Axandos² [, Level 21]: ERROR:  hole dich xD
+[2021-04-15 08:02:40]: Intensiv_ [CrazyNoobs, Level 5]: ERROR:  help me
+[2021-04-15 08:02:40]: ***  [, Level 0]: 'falkenauge' has left the game (Timeout Protection over)
+[2021-04-15 08:02:40]: ***  [, Level 0]: '[D] falkenauge' has left the game (Timeout Protection over)
