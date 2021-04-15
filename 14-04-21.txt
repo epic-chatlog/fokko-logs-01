@@ -12374,3 +12374,5 @@
 [2021-04-14 17:30:45]: Flupper [, Level 40]: i can go police?
 [2021-04-14 17:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-14 17:30:59]: Zephir™ [, Level 40]: NO
+[2021-04-14 17:31:02]: Flupper [, Level 40]: :c
+[2021-04-14 17:31:09]: ***  [, Level 0]: 'scuf' has left the game
