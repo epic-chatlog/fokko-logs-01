@@ -1268,3 +1268,9 @@
 [2021-04-15 02:40:58]: SanoreX [Chilli.*, Level 27]: erg
 [2021-04-15 02:40:59]: SanoreX [Chilli.*, Level 27]: eterg
 [2021-04-15 02:41:01]: SanoreX [Chilli.*, Level 27]: eterge
+[2021-04-15 02:41:03]: SanoreX [Chilli.*, Level 27]: egtr
+[2021-04-15 02:41:03]: ***  [, Level 0]: 'GHOST' entered and joined the game
+[2021-04-15 02:41:04]: SanoreX [Chilli.*, Level 27]: tJASDJASJD
+[2021-04-15 02:41:07]: Matiteusz [TrRShClNrRs, Level 36]: WarHammer: wait for dream
+[2021-04-15 02:41:07]: ***  [, Level 0]: 'SanoreX' has been muted for 60 seconds
+[2021-04-15 02:41:12]: [D] Mert [[!BRUH!], Level 0]: 1
