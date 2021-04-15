@@ -5724,3 +5724,4 @@
 [2021-04-15 07:03:19]: ✯|Not Bulash [|Supressed|, Level 0]: cookie: change your name Fun boy Bulash end im stop
 [2021-04-15 07:03:21]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
 [2021-04-15 07:03:32]: cookie [, Level 20]: ✯|Not Bulash:  oke
+[2021-04-15 07:03:44]: ***  [, Level 0]: 'IwillBlockYou' has left the game
