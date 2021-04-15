@@ -3576,3 +3576,9 @@
 [2021-04-15 04:54:36]: Kezo [DogParty, Level 41]: Nudelsaft c:: hello again,
 [2021-04-15 04:54:38]: ***  [, Level 0]: 'SanoreX' entered and joined the game
 [2021-04-15 04:54:39]: ***  [, Level 0]: '(1)RM | Arin' has left the game
+[2021-04-15 04:54:41]: Taip [VergleriSay, Level 19]: buraya gel kill çek
+[2021-04-15 04:54:47]: #5 blocker [|*MorE*|, Level 24]: kais: jet?
+[2021-04-15 04:54:48]: ***  [, Level 0]: MOM finished in: 8 minute(s)  2.30 second(s)
+[2021-04-15 04:54:48]: kais [, Level 58]: #5 blocker: no jetpack :/
+[2021-04-15 04:54:49]: ***  [, Level 0]: (1)MOM finished in: 3 minute(s)  5.62 second(s)
+[2021-04-15 04:54:50]: (1)cookie [, Level 0]: El patron yes come
