@@ -11634,3 +11634,9 @@
 [2021-04-15 13:34:23]: ***  [, Level 0]: 'TEEKING' entered and joined the game
 [2021-04-15 13:34:28]: ***  [, Level 0]: lessname finished in: 9 minute(s) 54.10 second(s)
 [2021-04-15 13:34:28]: ***  [, Level 0]: 'lessname' finished the special race!
+[2021-04-15 13:34:30]: (1)ChillerDrago [|*KoG*|, Level 45]: that was after we had war Zephir™
+[2021-04-15 13:34:34]: ***  [, Level 0]: '(3)Zʷʰʸˀ' finished the special race!
+[2021-04-15 13:34:34]: Zephir™ [, Level 40]: ChillerDragon: try to block me = dead
+[2021-04-15 13:34:38]: ***  [, Level 0]: '(2)Zʷʰʸˀ' finished the special race!
+[2021-04-15 13:34:38]: Nudelsaft c: [FookinLads, Level 0]: test
+[2021-04-15 13:34:39]: ***  [, Level 0]: 'Cylox' entered and joined the game
