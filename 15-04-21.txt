@@ -11688,3 +11688,4 @@
 [2021-04-15 13:40:12]: ***  [, Level 0]: 'Treebeard' entered and joined the game
 [2021-04-15 13:40:19]: ***  [, Level 0]: 'LareneGyvaeh' entered and joined the game
 [2021-04-15 13:40:20]: ***  [, Level 0]: 'Cylox' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-15 13:40:43]: Isegrin [, Level 55]: Lucas: D-:
