@@ -8365,3 +8365,7 @@
 [2021-04-15 10:04:47]: ***  [, Level 0]: 'mamikral011' has left the game (Timeout Protection over)
 [2021-04-15 10:04:47]: ***  [, Level 0]: 'MaMi' has left the game (Timeout Protection over)
 [2021-04-15 10:04:50]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-15 10:04:59]: YelloWorlD [DogParty, Level 41]: mamikral011 ahaha
+[2021-04-15 10:05:00]: ***  [, Level 0]: '[D] Dilkohomnki' entered and joined the game
+[2021-04-15 10:05:04]:   [, Level 0]: Zephir™: HeavyGeneral: im there but first i need to train 5 min, that my first time i play today
+[2021-04-15 10:05:04]:   [, Level 0]: mamikral011: WarHammer: allah orucunu kabul etsin kanka YelloWorlD ?
