@@ -11392,3 +11392,4 @@
 [2021-04-15 13:06:30]: (2)Zʷʰʸˀ [NULL, Level 26]: [D] BC|Tixnix: so hart triggered xD
 [2021-04-15 13:06:31]: soleri1 [, Level 0]: any²:
 [2021-04-15 13:06:38]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 13:06:50]: ***  [, Level 0]: 'test' entered and joined the game
