@@ -2403,3 +2403,5 @@
 [2021-04-15 03:50:51]: SanoreX [Chilli.*, Level 27]: Telefantastic: FAST!
 [2021-04-15 03:50:54]: ***  [, Level 0]: 'Black Wolf' entered and joined the game
 [2021-04-15 03:50:54]: casserole :p [, Level 19]: Taip: how do you arrest?
+[2021-04-15 03:50:59]: Taip [VergleriSay, Level 19]: i polşce
+[2021-04-15 03:51:05]: Taip [VergleriSay, Level 19]: :)
