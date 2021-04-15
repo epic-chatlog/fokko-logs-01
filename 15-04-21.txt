@@ -5469,3 +5469,4 @@
 [2021-04-15 06:36:14]: Cylox [{TQuila}, Level 31]: El patron:you dog xd
 [2021-04-15 06:36:16]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-15 06:36:23]: ***  [, Level 0]: 'altee' entered and joined the game
+[2021-04-15 06:36:33]: ***  [, Level 0]: 'altee' has left the game
