@@ -4393,3 +4393,7 @@
 [2021-04-15 05:37:31]: ***  [, Level 0]: '(2)Cosmo' has left the game
 [2021-04-15 05:37:34]: ***  [, Level 0]: BC|kakashi is on a killing spree with 5 blocks
 [2021-04-15 05:37:44]: Wayllan Kath [, Level 0]: troll
+[2021-04-15 05:37:48]:   [, Level 0]: Taip: helplermsn
+[2021-04-15 05:37:49]: SanoreX.* [Chilli.*, Level 22]: ASDASJDPASŞ client
+[2021-04-15 05:37:51]:   [, Level 0]: Taip: Intensiv
+[2021-04-15 05:37:52]: SanoreX.* [Chilli.*, Level 22]: . client
