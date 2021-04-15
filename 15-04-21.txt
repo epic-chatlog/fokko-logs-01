@@ -5904,3 +5904,6 @@
 [2021-04-15 07:19:13]: ***  [, Level 0]: 'Treebeard' entered and joined the game
 [2021-04-15 07:19:50]: ***  [, Level 0]: 'cunt' has left the game (Timeout)
 [2021-04-15 07:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-15 07:21:03]: ***  [, Level 0]: falkenauge finished in: 9 minute(s) 30.12 second(s)
+[2021-04-15 07:21:04]: El patron [, Level 30]: Meetiteusz: wtf
+[2021-04-15 07:21:05]: ***  [, Level 0]: [D] falkenauge finished in: 7 minute(s)  7.58 second(s)
