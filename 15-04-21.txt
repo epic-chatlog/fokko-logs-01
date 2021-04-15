@@ -5621,3 +5621,8 @@
 [2021-04-15 06:49:40]: ***  [, Level 0]: '[D] Dilkohomnki' entered and joined the game
 [2021-04-15 06:49:46]: SanoreX [Chilli.*, Level 27]: El patron: pls give me this jetpack he said give to sanorex
 [2021-04-15 06:49:50]: Cylox. [{TQuila}, Level 0]: El patron: you so ez
+[2021-04-15 06:49:53]: Intensiv [CrazyNoobs, Level 12]: bb SanoreX
+[2021-04-15 06:49:58]: SanoreX [Chilli.*, Level 27]: Intensiv: bb
+[2021-04-15 06:49:59]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
+[2021-04-15 06:50:01]: ***  [, Level 0]: 'Intensiv' has left the game
+[2021-04-15 06:50:03]: SanoreX [Chilli.*, Level 27]: El patron: give me jetpack plz
