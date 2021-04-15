@@ -12989,3 +12989,4 @@
 [2021-04-15 16:39:13]: ***  [, Level 0]: 'Hazareqq' entered and joined the game
 [2021-04-15 16:39:15]: ***  [, Level 0]: 'Hazareqq' has left the game
 [2021-04-15 16:39:38]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-15 16:39:49]: (1)☺ [, Level 13]: Kirito: xd
