@@ -3750,3 +3750,8 @@
 [2021-04-15 05:01:42]: WarHammer [DogParty, Level 26]: lag
 [2021-04-15 05:01:46]: SanoreX [Chilli.*, Level 27]: (1)kais: OMG u know turkish?  ÇAYLAK is NOON
 [2021-04-15 05:01:49]: SanoreX [Chilli.*, Level 27]: (1)kais: OMG u know turkish?  ÇAYLAK is NOOB
+[2021-04-15 05:01:55]: ***  [, Level 0]: 'Kahve' has left the game
+[2021-04-15 05:01:56]: ***  [, Level 0]: 'Kahve' entered and joined the game
+[2021-04-15 05:01:59]: kais [, Level 58]: SanoreX: no i don't
+[2021-04-15 05:01:59]: SanoreX [Chilli.*, Level 27]: kais know turkiş
+[2021-04-15 05:02:02]: ***  [, Level 0]: 'MieSlime' has left the game
