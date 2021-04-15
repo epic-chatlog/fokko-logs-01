@@ -915,3 +915,7 @@
 [2021-04-15 02:18:56]: mamikral011 [DogParty, Level 0]: WarHammer': yok yok gel
 [2021-04-15 02:18:57]: Mert [Blood Gang, Level 2]: amk durun
 [2021-04-15 02:19:00]: mamikral011 [DogParty, Level 0]: WarHammer': atla
+[2021-04-15 02:19:03]: WarHammer' [DogParty, Level 0]: MaMi:  ama benim düşmanım var
+[2021-04-15 02:19:07]: ***  [, Level 0]: 'Mert' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-15 02:19:09]: mamikral011 [DogParty, Level 0]: WarHammer': bişe olmaz
+[2021-04-15 02:19:10]: Mert [Blood Gang, Level 2]: eeeeeee
