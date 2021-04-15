@@ -5658,3 +5658,4 @@
 [2021-04-15 06:54:16]: ***  [, Level 0]: '✯|Not Bulash' entered and joined the game
 [2021-04-15 06:54:58]: ***  [, Level 0]: '✯ | Bulash' entered and joined the game
 [2021-04-15 06:55:02]: ***  [, Level 0]: 'fahh' has left the game
+[2021-04-15 06:55:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
