@@ -8334,3 +8334,5 @@
 [2021-04-15 10:01:21]: ***  [, Level 0]: 'Guthaben' has left the game
 [2021-04-15 10:01:43]: Sayme [, Level 0]: Kenshi™: i didn't fihis race 1000 ago
 [2021-04-15 10:01:46]: ***  [, Level 0]: ### 'WarHammer' xd
+[2021-04-15 10:01:57]: ***  [, Level 0]: 'Noragami' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-15 10:01:58]: Sayme [, Level 0]: Zephir™: noooooooo(
