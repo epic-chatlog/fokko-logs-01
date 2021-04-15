@@ -5493,3 +5493,4 @@
 [2021-04-15 06:38:41]: Cylox [{TQuila}, Level 31]: El patron: Toxic idiot
 [2021-04-15 06:38:41]: Intensiv [CrazyNoobs, Level 12]: You are both behind the same person
 [2021-04-15 06:38:46]: Intensiv [CrazyNoobs, Level 12]: El patron:
+[2021-04-15 06:38:54]: Intensiv [CrazyNoobs, Level 12]: Kirito:  banned
