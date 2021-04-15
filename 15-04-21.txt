@@ -3258,3 +3258,8 @@
 [2021-04-15 04:41:37]: ***  [, Level 0]: 'uptotee' entered and joined the game
 [2021-04-15 04:41:38]: ***  [, Level 0]: Matiteusz finished in: 1 minute(s) 11.06 second(s)
 [2021-04-15 04:41:39]: Mert [Blood Gang, Level 0]: atma
+[2021-04-15 04:41:42]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-15 04:41:45]: ***  [, Level 0]: 'Axandos²' entered and joined the game
+[2021-04-15 04:41:49]: Taip [VergleriSay, Level 19]: rifle
+[2021-04-15 04:41:49]: Good man [Drunks, Level 31]: kais: oj
+[2021-04-15 04:41:50]: Good man [Drunks, Level 31]: oh
