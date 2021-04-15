@@ -7489,3 +7489,4 @@
 [2021-04-15 08:45:24]: ***  [, Level 0]: '☺' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-15 08:45:27]: Meetiteusz [TrRShClNrRs, Level 0]: Ðream: discord
 [2021-04-15 08:45:28]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-15 08:45:30]: ***  [, Level 0]: 'nameless tee' has left the game
