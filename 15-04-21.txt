@@ -9421,3 +9421,6 @@
 [2021-04-15 11:12:24]: ***  [, Level 0]: darkstar4 finished in: 2 minute(s) 36.92 second(s)
 [2021-04-15 11:12:24]: ***  [, Level 0]: 'Zʷʰʸˀ' finished the special race!
 [2021-04-15 11:12:31]: ***  [, Level 0]: 'Solydre' has left the game
+[2021-04-15 11:12:38]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-15 11:12:44]: JustRace. [DogParty, Level 29]: Kenshi™: let them alone :/
+[2021-04-15 11:12:45]: ***  [, Level 0]: any is on a killing spree with 10 blocks
