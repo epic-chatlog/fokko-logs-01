@@ -12279,3 +12279,4 @@
 [2021-04-14 17:12:34]: Zephir™ [, Level 40]: Flupper: tell him to come
 [2021-04-14 17:12:46]: Flupper [, Level 40]: k
 [2021-04-14 17:13:14]: ***  [, Level 0]: (1)Kirito is on a killing spree with 5 blocks
+[2021-04-14 17:13:44]: Zephir™ [, Level 40]: Flupper: he not come
