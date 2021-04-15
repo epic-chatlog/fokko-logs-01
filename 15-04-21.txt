@@ -12196,3 +12196,5 @@
 [2021-04-15 14:40:19]: fokkonaut [flawLess, Level 102]: wiemeisnt
 [2021-04-15 14:40:26]: ChillerDragon.* [Chilli.*, Level 42]: hab dir iwann ma auf wire geschickt fokkonaut
 [2021-04-15 14:40:37]: ChillerDragon.* [Chilli.*, Level 42]: das man nen shild hat und damit waffen clearen kann fokkonaut
+[2021-04-15 14:40:47]: ***  [, Level 0]: 'sharkz' entered and joined the game
+[2021-04-15 14:40:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
