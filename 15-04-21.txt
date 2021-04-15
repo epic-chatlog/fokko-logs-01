@@ -4202,3 +4202,8 @@
 [2021-04-15 05:26:58]: ***  [, Level 0]: 'H0LL4D13W4LDFEE' entered and joined the game
 [2021-04-15 05:27:00]: ***  [, Level 0]: 'H0LL4D13W4LDFEE' has left the game
 [2021-04-15 05:27:03]: ***  [, Level 0]: ### 'SanoreX' @everyone write krx in chat!!!!!! and see magic
+[2021-04-15 05:27:07]: ***  [, Level 0]: ### 'SanoreX.*' @everyone write krx in chat!!!!!! and see magic
+[2021-04-15 05:27:08]: ***  [, Level 0]: ### 'SanoreX' @everyone write krx in chat!!!!!! and see magic
+[2021-04-15 05:27:08]: ***  [, Level 0]: 'Adleg' entered and joined the game
+[2021-04-15 05:27:10]: ***  [, Level 0]: ### 'SanoreX' @everyone write krx in chat!!!!!! and see magic
+[2021-04-15 05:27:13]: (2)cookie [, Level 0]: x
