@@ -7898,3 +7898,5 @@
 [2021-04-15 09:22:26]: (1)ERROR [AllTheHaxx, Level 0]: i dont hack loool
 [2021-04-15 09:22:48]: (1)ERROR [AllTheHaxx, Level 0]: jesus Axandos
 [2021-04-15 09:22:54]: ***  [, Level 0]: 'SHIRROO' entered and joined the game
+[2021-04-15 09:23:19]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-15 09:23:25]: ***  [, Level 0]: 'ölüm bekçisi' entered and joined the game
