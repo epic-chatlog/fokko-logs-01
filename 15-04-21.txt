@@ -7301,3 +7301,6 @@
 [2021-04-15 08:38:24]: ***  [, Level 0]: New record: 1 minute(s) 45.72 second(s) better.
 [2021-04-15 08:38:26]: Axel [TrRShClNrRs, Level 30]: Meetiteusz: hi
 [2021-04-15 08:38:30]: Meetiteusz [TrRShClNrRs, Level 0]: Axel: hi
+[2021-04-15 08:38:43]: ***  [, Level 0]: 'Lucas' finished the special race!
+[2021-04-15 08:38:47]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: is there more things like this
+[2021-04-15 08:38:47]: ERROR. [404, Level 57]: xD
