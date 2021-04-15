@@ -8283,3 +8283,6 @@
 [2021-04-15 09:54:04]: ChillerDragon.* [Chilli.*, Level 42]: was ERROR
 [2021-04-15 09:54:10]: ***  [, Level 0]: '»ℱℬℑ«' has left the game
 [2021-04-15 09:54:18]: ***  [, Level 0]: '[D] _CHUCKY_' entered and joined the game
+[2021-04-15 09:54:25]:   [, Level 0]: P4Pyr0s: any?
+[2021-04-15 09:54:26]: zZzerayI [QuietLegend, Level 24]: ChillerDragon:
+[2021-04-15 09:54:29]: ChillerDragon.* [|*KoG*|, Level 42]: geh wen anders abfucken ERROR
