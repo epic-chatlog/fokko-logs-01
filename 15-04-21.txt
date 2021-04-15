@@ -2284,3 +2284,7 @@
 [2021-04-15 03:42:01]: ***  [, Level 0]: '(1)Intensiv_' has left the game
 [2021-04-15 03:42:15]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-15 03:42:27]: weqe [669, Level 12]: GODLIKe.:
+[2021-04-15 03:42:33]: ***  [, Level 0]: 'power' has left the game
+[2021-04-15 03:42:35]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-15 03:42:38]: weqe [669, Level 12]: GODLIKe.:
+[2021-04-15 03:42:42]: ***  [, Level 0]: 'Jerry' entered and joined the game
