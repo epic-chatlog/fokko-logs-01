@@ -7167,3 +7167,8 @@
 [2021-04-15 08:30:20]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-15 08:30:20]: Taip [VergleriSay, Level 19]: i noname
 [2021-04-15 08:30:23]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-15 08:30:35]: ERROR. [404, Level 57]: omg
+[2021-04-15 08:30:41]: BitchPlease Jr. [BBM, Level 50]: I like turtles.
+[2021-04-15 08:30:41]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-15 08:30:42]: Lucas [THECEPS, Level 35]: Taip: ?
+[2021-04-15 08:30:43]: ERROR. [404, Level 57]: HAX
