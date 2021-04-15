@@ -5127,3 +5127,9 @@
 [2021-04-15 06:12:50]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
 [2021-04-15 06:12:50]: ***  [, Level 0]: '(1)kais' would have timed out, but can use timeout protection now
 [2021-04-15 06:12:52]: SanoreX.* [Chilli.*, Level 22]: Kezo: ok
+[2021-04-15 06:12:55]: Antensiv_ [CrazyNoobs, Level 1]: ez
+[2021-04-15 06:12:59]: ***  [, Level 0]: 'Dilkohomnkiks' has left the game
+[2021-04-15 06:12:59]: ***  [, Level 0]: '[D] emginw' has left the game
+[2021-04-15 06:13:00]: Kezo [DogParty, Level 41]: SanoreX: sende onun discordu varmı
+[2021-04-15 06:13:01]: #5 blocker [|*MorE*|, Level 0]: kais: come police
+[2021-04-15 06:13:05]: Antensiv_ [CrazyNoobs, Level 1]: ez
