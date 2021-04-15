@@ -11478,3 +11478,7 @@
 [2021-04-15 13:16:26]: any [404, Level 38]: Lucas: l2p zzzzz
 [2021-04-15 13:16:32]: any [404, Level 38]: Lucas: sooo bad
 [2021-04-15 13:16:32]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 13:16:34]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-15 13:16:37]: test [, Level 0]: ;vote
+[2021-04-15 13:16:38]: Lucas [THECEPS, Level 35]: any: what's l2p
+[2021-04-15 13:16:40]: ***  [, Level 0]: 'test' has left the game
