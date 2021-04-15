@@ -6919,3 +6919,5 @@
 [2021-04-15 08:21:12]: ERROR. [404, Level 57]: El patron:  doch^^
 [2021-04-15 08:21:13]: ***  [, Level 0]: 'Taip' left the minigame 'Block'
 [2021-04-15 08:21:13]:   [, Level 0]: (1)Cylox.: off
+[2021-04-15 08:21:28]: ***  [, Level 0]: 'Axandos' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-15 08:21:28]: ***  [, Level 0]: 'Axandos²' has left the game (Too weak connection (not acked for 60 seconds))
