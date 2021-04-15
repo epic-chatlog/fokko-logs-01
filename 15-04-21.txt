@@ -11446,3 +11446,6 @@
 [2021-04-15 13:12:42]: ***  [, Level 0]: 'bicth' entered and joined the game
 [2021-04-15 13:12:46]: MieSlime [FookinLads, Level 43]: Zephir™:  pas ton prob
 [2021-04-15 13:12:48]: El patron [, Level 30]: Zephir™:  your dummy
+[2021-04-15 13:12:54]: ***  [, Level 0]: 'darkstar3' has left the game
+[2021-04-15 13:12:54]: ***  [, Level 0]: 'darkstar4' has left the game
+[2021-04-15 13:12:58]: ***  [, Level 0]: 'test' has left the game
