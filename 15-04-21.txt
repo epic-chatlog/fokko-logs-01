@@ -12543,3 +12543,7 @@
 [2021-04-15 15:23:00]: ***  [, Level 0]: 'IwillBlockYou' joined the game
 [2021-04-15 15:23:04]: power [TrRShClNrRs, Level 0]: scuf: bob
 [2021-04-15 15:23:08]: power [TrRShClNrRs, Level 0]: im on ur side bob
+[2021-04-15 15:23:17]: bob [Legacy™, Level 36]: smiley man
+[2021-04-15 15:23:17]: BobSlave [, Level 0]: brother bob
+[2021-04-15 15:23:18]: scuf [669, Level 6]: BobSlave:
+[2021-04-15 15:23:19]: bob [Legacy™, Level 36]: i love you deep in heart
