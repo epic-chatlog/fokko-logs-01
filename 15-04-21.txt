@@ -2264,3 +2264,6 @@
 [2021-04-15 03:40:20]: ***  [, Level 0]: '(1)ChillerDragon' has left the game (Timeout)
 [2021-04-15 03:40:27]: ***  [, Level 0]: Soros is on a killing spree with 15 blocks
 [2021-04-15 03:40:42]: ***  [, Level 0]: Soros is on a killing spree with 20 blocks
+[2021-04-15 03:40:45]: ghfdjxc [, Level 0]: Soros: Kys
+[2021-04-15 03:40:46]: Telefantastic [TrRShClNrRs, Level 34]: cunt: UGANDANMANN
+[2021-04-15 03:40:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
