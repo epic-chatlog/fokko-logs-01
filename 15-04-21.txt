@@ -12695,3 +12695,4 @@
 [2021-04-15 15:32:17]: bob [Legacy™, Level 36]: HELPP
 [2021-04-15 15:32:21]: bob [Legacy™, Level 36]: brtoher in DANGER
 [2021-04-15 15:32:24]: ***  [, Level 0]: 'bob' has been muted for 60 seconds
+[2021-04-15 15:32:29]: BobSlave [, Level 0]: ez
