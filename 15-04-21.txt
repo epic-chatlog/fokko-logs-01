@@ -5020,3 +5020,7 @@
 [2021-04-15 06:06:31]: oyun krallı [, Level 18]: simdini ye kezo
 [2021-04-15 06:06:38]: SanoreX.* [Chilli.*, Level 22]: ERROR: bad aim
 [2021-04-15 06:06:47]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-15 06:06:59]: hmmmm [, Level 0]: yhah
+[2021-04-15 06:06:59]: oyun krallı [, Level 18]: küstüm kezo
+[2021-04-15 06:07:00]: SanoreX [Chilli.*, Level 27]: ERROR: pls come plot 11 I NEED
+[2021-04-15 06:07:01]: oyun krallı [, Level 18]: küstüm kezo
