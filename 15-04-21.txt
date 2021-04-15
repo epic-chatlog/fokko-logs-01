@@ -2538,3 +2538,9 @@
 [2021-04-15 04:00:27]: SanoreX [Chilli.*, Level 27]: (1)DiscordBridg
 [2021-04-15 04:00:29]: SanoreX [Chilli.*, Level 27]: s
 [2021-04-15 04:00:31]: ***  [, Level 0]: 'BC|kakashi' finished the special race!
+[2021-04-15 04:00:34]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-15 04:00:37]: SanoreX [Chilli.*, Level 27]: g
+[2021-04-15 04:00:39]: SanoreX [Chilli.*, Level 27]: r
+[2021-04-15 04:00:40]: SanoreX [Chilli.*, Level 27]: d
+[2021-04-15 04:00:41]: SanoreX [Chilli.*, Level 27]: i
+[2021-04-15 04:00:42]: ***  [, Level 0]: 'SanoreX' has been muted for 60 seconds
