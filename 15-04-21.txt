@@ -648,3 +648,6 @@
 [2021-04-15 02:04:05]: Nudelsaft c: [FookinLads, Level 42]: Taiga: .
 [2021-04-15 02:04:11]: Axandos² [, Level 21]: dieser typ
 [2021-04-15 02:04:12]: Axandos² [, Level 21]: .
+[2021-04-15 02:04:17]: ***  [, Level 0]: 'Cylox' finished the special race!
+[2021-04-15 02:04:23]: Taiga [, Level 37]: Nudelsaft c:: wer jz
+[2021-04-15 02:04:27]: SanoreX [Chilli.*, Level 27]: Mert: bura 1v1 plotu olcak
