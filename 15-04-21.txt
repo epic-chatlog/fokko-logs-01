@@ -11603,3 +11603,6 @@
 [2021-04-15 13:31:50]: ***  [, Level 0]: 'test' has left the game
 [2021-04-15 13:32:00]: (1)ChillerDrago [|*KoG*|, Level 45]: war Kenshi™
 [2021-04-15 13:32:01]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-15 13:32:06]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-15 13:32:10]: test [abc, Level 0]: ;vote 1
+[2021-04-15 13:32:15]: Nudelsaft c: [FookinLads, Level 0]: aaaaa
