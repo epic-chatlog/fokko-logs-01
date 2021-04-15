@@ -10444,3 +10444,6 @@
 [2021-04-15 12:16:59]: weqe [669, Level 13]: its not him bob
 [2021-04-15 12:17:02]: bob [669, Level 36]: weqe: it is
 [2021-04-15 12:17:07]: weqe [669, Level 13]: darkstar2: poka ?
+[2021-04-15 12:17:09]: ***  [, Level 0]: 'woona' has left the game
+[2021-04-15 12:17:15]: bob [669, Level 36]: its him!
+[2021-04-15 12:17:17]: weqe [669, Level 13]: darkstar2: poka ?
