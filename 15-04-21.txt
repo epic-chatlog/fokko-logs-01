@@ -12667,3 +12667,4 @@
 [2021-04-15 15:30:08]: BobSlave [, Level 0]: ?
 [2021-04-15 15:30:10]: bob [Legacy™, Level 36]: HAHA
 [2021-04-15 15:30:15]: BobSlave [, Level 0]: lazer me
+[2021-04-15 15:30:26]: ***  [, Level 0]: 'jaocado' has left the game
