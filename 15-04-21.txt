@@ -3855,3 +3855,7 @@
 [2021-04-15 05:07:03]: ***  [, Level 0]: 'arther' joined the game
 [2021-04-15 05:07:03]: 1 [, Level 18]: introjump
 [2021-04-15 05:07:05]: SanoreX [Chilli.*, Level 27]: dont blocken him
+[2021-04-15 05:07:10]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
+[2021-04-15 05:07:12]: SanoreX [Chilli.*, Level 27]: kais: open door gay
+[2021-04-15 05:07:12]: ***  [, Level 0]: '(1)RM | Arin' has left the game
+[2021-04-15 05:07:13]: 1 [, Level 18]: introjump
