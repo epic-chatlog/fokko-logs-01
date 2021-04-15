@@ -3510,3 +3510,6 @@
 [2021-04-15 04:51:41]: Kezo [DogParty, Level 41]: Nudelsaft c:: :d
 [2021-04-15 04:51:43]: Nudelsaft c: [FookinLads, Level 42]: Kezo: and he insults me in turk
 [2021-04-15 04:51:52]: Kezo [DogParty, Level 41]: weqe: he dont
+[2021-04-15 04:51:54]: Taip [VergleriSay, Level 19]: nope
+[2021-04-15 04:51:55]: (1)kais [, Level 66]: jetpack
+[2021-04-15 04:51:59]: Kezo [DogParty, Level 41]: Nudelsaft c:: he didnt
