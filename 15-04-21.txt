@@ -4302,3 +4302,5 @@
 [2021-04-15 05:32:03]:   [, Level 0]: Mert: ölüyo
 [2021-04-15 05:32:06]: (3)cookie [, Level 0]: you have jet
 [2021-04-15 05:32:16]: [D] El patron [, Level 24]: Cosmo:  you want war
+[2021-04-15 05:32:21]: Axandos [, Level 26]: El patron:  kill kezo
+[2021-04-15 05:32:29]: SanoreX.* [Chilli.*, Level 22]: cookie:  write krx in chat and see free teeworlds client!!
