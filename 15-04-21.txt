@@ -5528,3 +5528,6 @@
 [2021-04-15 06:42:31]: ***  [, Level 0]: 'MieSlime' finished the special race!
 [2021-04-15 06:42:53]: Kezo [DogParty, Level 41]: El patron: help
 [2021-04-15 06:43:10]: power [TrRShClNrRs, Level 0]: come Cylox <3
+[2021-04-15 06:43:12]: ***  [, Level 0]: '{POLICE OFFIS}' entered and joined the game
+[2021-04-15 06:43:19]: Intensiv [CrazyNoobs, Level 12]: El patron:
+[2021-04-15 06:43:24]: (1) [, Level 40]: XDD
