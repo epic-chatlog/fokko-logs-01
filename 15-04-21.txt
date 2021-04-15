@@ -5725,3 +5725,5 @@
 [2021-04-15 07:03:21]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
 [2021-04-15 07:03:32]: cookie [, Level 20]: ✯|Not Bulash:  oke
 [2021-04-15 07:03:44]: ***  [, Level 0]: 'IwillBlockYou' has left the game
+[2021-04-15 07:03:48]: ***  [, Level 0]: 'soleri1' has left the game
+[2021-04-15 07:03:54]: (1)soleri1 [, Level 0]: Hala Madrid:
