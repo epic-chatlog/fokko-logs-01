@@ -10643,3 +10643,5 @@
 [2021-04-15 12:27:11]: BC|kakashi [BC, Level 13]: bob warum killst du ihn?
 [2021-04-15 12:27:24]: bob [669, Level 36]: BC|kakashi: weil erm ich auch killt?
 [2021-04-15 12:27:25]:   [, Level 0]: grrra: i didnt even get weapons
+[2021-04-15 12:27:34]: bob [669, Level 36]: Shy-ra.: help hleft
+[2021-04-15 12:27:36]: BC|kakashi [BC, Level 13]: bob achso ok
