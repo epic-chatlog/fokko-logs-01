@@ -5666,3 +5666,4 @@
 [2021-04-15 06:56:40]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-15 06:56:44]: ***  [, Level 0]: '[D] Dilkohomnki' has left the game
 [2021-04-15 06:56:44]: ***  [, Level 0]: 'Dilkohomnkiks' has left the game
+[2021-04-15 06:56:51]: ***  [, Level 0]: 'Dilkohomnkiks' entered and joined the game
