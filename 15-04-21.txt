@@ -11861,3 +11861,4 @@
 [2021-04-15 14:04:48]: ***  [, Level 0]: 'Rem's dummy' entered and joined the game
 [2021-04-15 14:04:49]: Kezo [DogParty, Level 41]: shitty lag
 [2021-04-15 14:04:51]: ✯|Not Bulash [|Supressed|, Level 0]: Kezo: are u mad
+[2021-04-15 14:05:03]: WarHammer [DogParty, Level 26]: MAD KEZO
