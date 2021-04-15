@@ -8476,3 +8476,6 @@
 [2021-04-15 10:13:09]: ERROR. [404, Level 57]: xD
 [2021-04-15 10:13:10]:   [, Level 0]: WarHammer: MaMi:  yeni savaş tarzım
 [2021-04-15 10:13:14]: Zephir™ [, Level 40]: GOLD: ?
+[2021-04-15 10:13:24]:   [, Level 0]: WarHammer: lags
+[2021-04-15 10:13:26]: ***  [, Level 0]: 'woona' entered and joined the game
+[2021-04-15 10:13:29]:   [, Level 0]: Kenshi™: YelloWorlD: maintenant tu me kill ?
