@@ -5354,3 +5354,7 @@
 [2021-04-15 06:24:50]: (2)cookie [, Level 0]: #5 blocker:  oow oke
 [2021-04-15 06:24:52]: (2)cookie [, Level 0]: krx
 [2021-04-15 06:24:53]: ***  [, Level 0]: 'komando' has left the game
+[2021-04-15 06:25:01]: SanoreX.* [Chilli.*, Level 22]: k er x client
+[2021-04-15 06:25:02]: SanoreX.* [Chilli.*, Level 22]: krx
+[2021-04-15 06:25:09]: (2)cookie [, Level 0]: KRX-Client
+[2021-04-15 06:25:10]: SanoreX.* [Chilli.*, Level 22]: baumalein client is better krx client HAH
