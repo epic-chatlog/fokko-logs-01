@@ -2360,3 +2360,7 @@
 [2021-04-15 03:48:39]: ***  [, Level 0]: 'cunt' has left the game (Timeout)
 [2021-04-15 03:48:39]: ***  [, Level 0]: '(1)cunt' has left the game (Timeout)
 [2021-04-15 03:48:41]: SanoreX [Chilli.*, Level 27]: GODLIKe.: 5k var
+[2021-04-15 03:48:42]: Telefantastic [TrRShClNrRs, Level 34]: rq
+[2021-04-15 03:48:42]: SanoreX [Chilli.*, Level 27]: al
+[2021-04-15 03:48:48]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-15 03:48:50]: ***  [, Level 0]: 'power2' entered and joined the game
