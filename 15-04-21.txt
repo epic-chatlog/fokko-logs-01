@@ -4335,3 +4335,7 @@
 [2021-04-15 05:34:48]:   [, Level 0]: Taip: what
 [2021-04-15 05:34:51]: Axandos [, Level 26]: Taip:  help
 [2021-04-15 05:34:54]: ***  [, Level 0]: '(3)cookie' has left the game
+[2021-04-15 05:34:56]: (1)Intensiv_ [CrazyNoobs, Level 0]: Taip:  kurtarma
+[2021-04-15 05:34:58]: (1)Intensiv_ [CrazyNoobs, Level 0]: Taip:  kurtarmat
+[2021-04-15 05:34:59]: (1)Intensiv_ [CrazyNoobs, Level 0]: Taip:  kurtarma
+[2021-04-15 05:35:03]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
