@@ -6702,3 +6702,7 @@
 [2021-04-15 08:10:27]: ***  [, Level 0]: 'Zerstrian' finished the special race!
 [2021-04-15 08:10:29]: ***  [, Level 0]: 'final' entered and joined the game
 [2021-04-15 08:10:30]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-15 08:10:32]: ***  [, Level 0]: 'final' has left the game
+[2021-04-15 08:10:33]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-15 08:10:35]: ***  [, Level 0]: 'Good man' entered and joined the game
+[2021-04-15 08:10:37]: ***  [, Level 0]: 'coca' entered and joined the game
