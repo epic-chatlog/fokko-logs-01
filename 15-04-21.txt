@@ -10122,3 +10122,8 @@
 [2021-04-15 12:04:31]:   [, Level 0]: Mert: ne gerisi
 [2021-04-15 12:04:33]: Taip [VergleriSay, Level 19]: puanlı yapmıoz ama
 [2021-04-15 12:04:35]: Taip [VergleriSay, Level 19]: mesela
+[2021-04-15 12:04:39]: Taip [VergleriSay, Level 19]: dur bi
+[2021-04-15 12:04:48]: ***  [, Level 0]: 'DarkGeneral' changed name to 'Shiro.'
+[2021-04-15 12:04:48]: BC|kakashi [BC, Level 13]: bob wesshalb hab ich etwas schlimmes getan?
+[2021-04-15 12:04:50]: Shiro. [404, Level 42]: stopid
+[2021-04-15 12:04:50]: bob [669, Level 36]: LQGBTM General: how u do this with 100 ping
