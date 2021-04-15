@@ -6417,3 +6417,8 @@
 [2021-04-15 07:55:49]: ***  [, Level 0]: 'Kahve' has left the game
 [2021-04-15 07:55:49]: ***  [, Level 0]: '[D] Kahve' has left the game
 [2021-04-15 07:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-15 07:56:01]: ERROR. [404, Level 57]: omg wieso
+[2021-04-15 07:56:02]: Swarfey [FookinLads, Level 59]: was
+[2021-04-15 07:56:04]: ***  [, Level 0]: 'cookie' has left the game
+[2021-04-15 07:56:05]: Axandos [, Level 26]: AJAA
+[2021-04-15 07:56:08]: ERROR. [404, Level 57]: is nur spaß du vogel
