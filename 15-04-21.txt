@@ -5463,3 +5463,5 @@
 [2021-04-15 06:35:27]: Cylox [{TQuila}, Level 31]: El patron: sa
 [2021-04-15 06:35:35]: Intensiv [CrazyNoobs, Level 12]: El patron:  türkçe konuşmassan bütün svyi sokarım sana
 [2021-04-15 06:35:43]: [D] El patron [, Level 24]: Kezo:  you turk friends help me enemies
+[2021-04-15 06:35:50]: ***  [, Level 0]: 'tchief' entered and joined the game
+[2021-04-15 06:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
