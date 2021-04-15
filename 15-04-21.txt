@@ -6321,3 +6321,7 @@
 [2021-04-15 07:52:22]: [D] Kahve [, Level 19]: noob
 [2021-04-15 07:52:28]: ***  [, Level 0]: darkstar3 finished in: 1 minute(s) 55.34 second(s)
 [2021-04-15 07:52:28]: ***  [, Level 0]: New record: 11.02 second(s) better.
+[2021-04-15 07:52:37]: ***  [, Level 0]: 'fomin' has left the game
+[2021-04-15 07:52:37]: ***  [, Level 0]: 'fomjn' has left the game
+[2021-04-15 07:52:37]: [D] Kahve [, Level 19]: lol noooooooooob
+[2021-04-15 07:52:38]: ERROR [404, Level 75]: troll
