@@ -10835,3 +10835,6 @@
 [2021-04-15 12:36:46]: ***  [, Level 0]: 'grrra' has left the game
 [2021-04-15 12:36:48]: El patron [, Level 30]: Zephir™: i need taser ammo xd
 [2021-04-15 12:36:49]: LGBT+ General [404, Level 42]: stay here
+[2021-04-15 12:36:54]: BC|kakashi [BC, Level 13]: ERROR: für nichts ?
+[2021-04-15 12:36:57]: Zephir™ [, Level 40]: El patron: go make race xD
+[2021-04-15 12:37:03]: ERROR [404, Level 75]: BC|kakashi:  weil du ihm geholfen hast.
