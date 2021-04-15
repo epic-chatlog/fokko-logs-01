@@ -10184,3 +10184,5 @@
 [2021-04-15 12:07:44]: ***  [, Level 0]: 'test' entered and joined the game
 [2021-04-15 12:07:45]: BC|kakashi [BC, Level 13]: weqe: i want to give you money but i dont know how?
 [2021-04-15 12:07:49]: ***  [, Level 0]: 'STOPID' changed name to 'Shiro.nob'
+[2021-04-15 12:07:54]:   [, Level 0]: weqe: BC|kakashi: /money drop amount
+[2021-04-15 12:07:57]:   [, Level 0]: El patron: left
