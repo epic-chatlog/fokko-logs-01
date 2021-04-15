@@ -2661,3 +2661,6 @@
 [2021-04-15 04:08:34]: 1 [, Level 18]: FREEZE NE
 [2021-04-15 04:08:43]: WarHammer [DogParty, Level 0]: bu
 [2021-04-15 04:08:50]: 1 [, Level 18]: BUG DA
+[2021-04-15 04:08:59]: WarHammer [DogParty, Level 0]: vsd
+[2021-04-15 04:09:01]: WarHammer [DogParty, Level 0]: fvs
+[2021-04-15 04:09:04]: (1)Matiteusz [TrRShClNrRs, Level 0]: El patron:
