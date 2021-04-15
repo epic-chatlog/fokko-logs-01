@@ -5963,3 +5963,6 @@
 [2021-04-15 07:29:44]: ***  [, Level 0]: Chillingo is on a killing spree with 30 blocks
 [2021-04-15 07:29:46]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: ok help ☺ get inf jumps
 [2021-04-15 07:29:49]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: thx
+[2021-04-15 07:29:56]: ☺ [, Level 0]: np
+[2021-04-15 07:29:57]: ***  [, Level 0]: 'WarHammer'' has left the game (Timeout Protection over)
+[2021-04-15 07:29:57]: ***  [, Level 0]: 'WarHammer' has left the game (Timeout Protection over)
