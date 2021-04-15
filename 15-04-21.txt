@@ -7938,3 +7938,6 @@
 [2021-04-15 09:27:16]: ***  [, Level 0]: 'f"{self.name}"' has left the game
 [2021-04-15 09:27:23]: any [404, Level 38]: Coca: funfight ?
 [2021-04-15 09:27:23]: ***  [, Level 0]: 'huilusha' entered and joined the game
+[2021-04-15 09:27:32]: (1)ERROR [AllTheHaxx, Level 0]: . stop u gay
+[2021-04-15 09:27:34]: ***  [, Level 0]: '☺' entered and joined the game
+[2021-04-15 09:27:35]: Coca [Drunks, Level 16]: im want afk_)
