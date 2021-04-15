@@ -4158,3 +4158,8 @@
 [2021-04-15 05:23:55]: Axandos² [, Level 21]: Kezo:  peace or not
 [2021-04-15 05:24:01]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
 [2021-04-15 05:24:03]:   [, Level 0]: Taip: WTF
+[2021-04-15 05:24:07]:   [, Level 0]: Taip: rifle me
+[2021-04-15 05:24:07]: oyun krallı [, Level 18]: ben 1
+[2021-04-15 05:24:09]:   [, Level 0]: Taip: lel
+[2021-04-15 05:24:09]: SanoreX [Chilli.*, Level 27]: Kirito: LOOOOOOOOOOOOKKKKKK!!!!!
+[2021-04-15 05:24:16]:   [, Level 0]: Taip: ES afk
