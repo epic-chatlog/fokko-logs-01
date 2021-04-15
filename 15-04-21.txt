@@ -8976,3 +8976,6 @@
 [2021-04-15 10:48:19]:   [, Level 0]: WarHammer: xd
 [2021-04-15 10:48:22]:   [, Level 0]: Lucas: any: inf hook and still taser nub
 [2021-04-15 10:48:23]: ***  [, Level 0]: cunt finished in: 2 minute(s) 49.82 second(s)
+[2021-04-15 10:48:29]: ***  [, Level 0]: 'Axel' has left the game
+[2021-04-15 10:48:34]: ***  [, Level 0]: nameless tee finished in: 2 minute(s) 27.56 second(s)
+[2021-04-15 10:48:34]: ***  [, Level 0]: New record: 16.64 second(s) better.
