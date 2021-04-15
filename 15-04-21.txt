@@ -10100,3 +10100,8 @@
 [2021-04-15 12:03:39]: Taip [VergleriSay, Level 19]: SAL
 [2021-04-15 12:03:42]: DarkGeneral [404, Level 42]: AHAHAH
 [2021-04-15 12:03:44]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 12:03:52]: any [404, Level 38]: Cylox: you have endless ?
+[2021-04-15 12:03:57]: bob [669, Level 36]: weqe: brother he friend too
+[2021-04-15 12:03:59]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-15 12:04:00]:   [, Level 0]: weqe: bob: he is gay
+[2021-04-15 12:04:01]: (3)Zʷʰʸˀ [NULL, Level 26]: Zephir™: help pls
