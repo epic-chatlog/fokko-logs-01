@@ -7664,3 +7664,7 @@
 [2021-04-15 08:57:50]: ***  [, Level 0]: 'coca' changed name to 'Coca'
 [2021-04-15 08:57:57]: ***  [, Level 0]: darkstar finished in: 2 minute(s) 31.38 second(s)
 [2021-04-15 08:57:59]: Isegrin [, Level 55]: Axandos²: jawoh
+[2021-04-15 08:58:00]: ***  [, Level 0]: darkstar2 finished in: 2 minute(s) 29.60 second(s)
+[2021-04-15 08:58:03]: [D] El patron [, Level 24]: Axandos²: hast du war mit chiller
+[2021-04-15 08:58:07]: Axandos² [, Level 21]: ne El patron
+[2021-04-15 08:58:08]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: i see what this one is doing xD
