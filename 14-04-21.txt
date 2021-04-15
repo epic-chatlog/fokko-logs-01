@@ -12252,3 +12252,4 @@
 [2021-04-14 17:05:41]: Flupper [, Level 40]: but whatever
 [2021-04-14 17:05:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-14 17:06:27]: Zephir™ [, Level 40]: Kirito: not two
+[2021-04-14 17:07:07]: Flupper [, Level 40]: kinda sad how your dummy is afk
