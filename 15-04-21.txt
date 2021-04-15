@@ -6517,3 +6517,4 @@
 [2021-04-15 08:01:43]: ERROR [404, Level 75]: xD
 [2021-04-15 08:01:55]: Axandos² [, Level 21]: ERROR:  pfui aus
 [2021-04-15 08:01:57]: ***  [, Level 0]: '~DemoizL~' has left the game
+[2021-04-15 08:02:08]: Intensiv_ [CrazyNoobs, Level 5]: ERROR:  help me
