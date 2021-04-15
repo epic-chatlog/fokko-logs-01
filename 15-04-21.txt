@@ -8296,3 +8296,4 @@
 [2021-04-15 09:55:03]: zZz [{D}, Level 0]: ChillerDragon: hi brazer)
 [2021-04-15 09:55:09]: ***  [, Level 0]: 'Shy-ra.' entered and joined the game
 [2021-04-15 09:55:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-15 09:56:09]: zZzerayI [QuietLegend, Level 24]: ChillerDragon: sorry bro
