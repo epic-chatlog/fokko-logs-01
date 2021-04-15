@@ -5083,3 +5083,9 @@
 [2021-04-15 06:10:45]: kais [, Level 58]: #5 blocker: yes ?
 [2021-04-15 06:10:49]: #5 blocker [|*MorE*|, Level 0]: yes
 [2021-04-15 06:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 06:10:51]: kais [, Level 58]: so ?
+[2021-04-15 06:10:53]: ***  [, Level 0]: Not Zerstrian finished in: 1 minute(s) 41.48 second(s)
+[2021-04-15 06:10:53]: ***  [, Level 0]: New record: 34.84 second(s) better.
+[2021-04-15 06:10:59]: Mert [Blood Gang, Level 0]: asdjlasjkdasdasd
+[2021-04-15 06:11:02]: ***  [, Level 0]: Zerstrian finished in: 0 minute(s) 49.92 second(s)
+[2021-04-15 06:11:02]: #5 blocker [|*MorE*|, Level 0]: kais: look
