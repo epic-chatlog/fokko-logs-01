@@ -11597,3 +11597,5 @@
 [2021-04-15 13:31:01]: ***  [, Level 0]: 'test' entered and joined the game
 [2021-04-15 13:31:06]: test [abc, Level 0]: ;vote
 [2021-04-15 13:31:15]: ***  [, Level 0]: 'Luna' entered and joined the game
+[2021-04-15 13:31:19]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 13:31:27]: any [404, Level 38]: El patron: <<<<
