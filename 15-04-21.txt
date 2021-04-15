@@ -1842,3 +1842,4 @@
 [2021-04-15 03:15:18]: ***  [, Level 0]: 1 finished in: 0 minute(s) 49.72 second(s)
 [2021-04-15 03:15:18]: ***  [, Level 0]: New record:  0.70 second(s) better.
 [2021-04-15 03:15:18]: SanoreX [Chilli.*, Level 27]: Mert: yok lag
+[2021-04-15 03:15:26]: [D] Mert [[!BRUH!], Level 0]: yaw amk sano bilerek atılıyo saşağı sikerim
