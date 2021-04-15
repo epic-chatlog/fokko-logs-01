@@ -5064,3 +5064,4 @@
 [2021-04-15 06:08:32]: Kezo [DogParty, Level 41]: GODLIKe: git
 [2021-04-15 06:08:33]: ***  [, Level 0]: 'Kahve' entered and joined the game
 [2021-04-15 06:08:38]: ***  [, Level 0]: '[D] Kahve' entered and joined the game
+[2021-04-15 06:08:49]: SanoreX [Chilli.*, Level 27]: ERROR: drop jetpack to spawn
