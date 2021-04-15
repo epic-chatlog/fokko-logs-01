@@ -2368,3 +2368,6 @@
 [2021-04-15 03:49:01]: ***  [, Level 0]: 'ghfdjxc' entered and joined the game
 [2021-04-15 03:49:02]: SanoreX [Chilli.*, Level 27]: EHHHHLP
 [2021-04-15 03:49:04]: SanoreX [Chilli.*, Level 27]: help
+[2021-04-15 03:49:06]: ***  [, Level 0]: 577. BC|kakashi Time: 01:29.96, requested by BC|kakashi
+[2021-04-15 03:49:07]: SanoreX [Chilli.*, Level 27]: HEELP
+[2021-04-15 03:49:16]: SanoreX [Chilli.*, Level 27]: Mista bombastic: help spec me
