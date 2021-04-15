@@ -5374,3 +5374,7 @@
 [2021-04-15 06:26:00]: Flipper [, Level 16]: wait
 [2021-04-15 06:26:03]: Kahve [, Level 23]: Zerstrian: xd
 [2021-04-15 06:26:34]: Kahve [, Level 23]: ERROR: ?
+[2021-04-15 06:26:37]: Kahve [, Level 23]: why
+[2021-04-15 06:26:43]: cookie [, Level 20]: #5 blocker:  can you help me
+[2021-04-15 06:26:43]: Kahve [, Level 23]: ERROR: ?
+[2021-04-15 06:26:45]: Cylox [{TQuila}, Level 31]: Kahve: senı sıkmek ısıytomus
