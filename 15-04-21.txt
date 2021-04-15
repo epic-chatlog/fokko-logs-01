@@ -2384,3 +2384,6 @@
 [2021-04-15 03:49:47]: ***  [, Level 0]: 'power' has left the game
 [2021-04-15 03:49:47]: ***  [, Level 0]: 'power2' has left the game
 [2021-04-15 03:49:50]: ***  [, Level 0]: '[D] BC|kakashi' entered and joined the game
+[2021-04-15 03:49:58]: weqe [669, Level 12]: Zephir™sucks: WHY DO U HAVE THIS NICKNAME
+[2021-04-15 03:50:01]: SanoreX [Chilli.*, Level 27]: Telefantastic: HEEŞLP SPECC
+[2021-04-15 03:50:05]: Telefantastic [TrRShClNrRs, Level 34]: SanoreX: yes
