@@ -2499,3 +2499,9 @@
 [2021-04-15 03:57:08]: capslock [, Level 0]: Nodos
 [2021-04-15 03:57:10]: (1)ChillerDrago [|*KoG*|, Level 45]: brother weqe
 [2021-04-15 03:57:13]: SanoreX [Chilli.*, Level 27]: Chillingo:
+[2021-04-15 03:57:19]: SanoreX [Chilli.*, Level 27]: (1)ChillerDrago:
+[2021-04-15 03:57:22]: ***  [, Level 0]: 'Taiga`iPro' has left the game
+[2021-04-15 03:57:22]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-15 03:57:23]: SanoreX [Chilli.*, Level 27]: ChillerDragon:
+[2021-04-15 03:57:25]: ***  [, Level 0]: 'capslock' changed name to 'Nodos'
+[2021-04-15 03:57:31]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
