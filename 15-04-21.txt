@@ -7538,3 +7538,4 @@
 [2021-04-15 08:49:57]: ***  [, Level 0]: '☺' entered and joined the game
 [2021-04-15 08:50:17]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: wait
 [2021-04-15 08:50:23]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: yeah yeah
+[2021-04-15 08:50:35]: ***  [, Level 0]: 'Wayllan Kath' has left the game
