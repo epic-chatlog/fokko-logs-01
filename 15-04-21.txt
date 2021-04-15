@@ -9675,3 +9675,5 @@
 [2021-04-15 11:32:13]:   [, Level 0]: HeavyGeneral: VD|HolyHo|: not really
 [2021-04-15 11:32:14]: bob [669, Level 36]: darkstar3: waiti  help
 [2021-04-15 11:32:21]: bob [669, Level 36]: darkstar3: spec me i need to get jetpack
+[2021-04-15 11:32:22]: Taip [VergleriSay, Level 19]: Lucas: i want do
+[2021-04-15 11:32:27]:   [, Level 0]: Lucas: Taip: ok
