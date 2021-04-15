@@ -1431,3 +1431,6 @@
 [2021-04-15 02:51:30]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-15 02:51:35]: [D] Mert [[!BRUH!], Level 0]: knk banka nerde götürsene
 [2021-04-15 02:51:37]: Taiga [, Level 37]: SanoreX: why?
+[2021-04-15 02:51:40]: SanoreX [Chilli.*, Level 27]: wait
+[2021-04-15 02:51:43]: Taiga [, Level 37]: SanoreX: i blocked you
+[2021-04-15 02:51:48]: Matiteusz [TrRShClNrRs, Level 36]: Ðream: 127k
