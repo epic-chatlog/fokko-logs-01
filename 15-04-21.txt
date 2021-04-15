@@ -5696,3 +5696,5 @@
 [2021-04-15 07:01:21]: HeavyGeneral [FookinLads, Level 44]: ERROR: wdym xDDD
 [2021-04-15 07:01:39]: ***  [, Level 0]: 'nameless tee' has left the game (Timeout Protection over)
 [2021-04-15 07:01:44]: ERROR. [404, Level 57]: if u play on laptop the tees are small and on pc they biiiig
+[2021-04-15 07:01:44]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-15 07:01:45]: ERROR. [404, Level 57]: xD
