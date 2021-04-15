@@ -11547,3 +11547,5 @@
 [2021-04-15 13:24:17]: El patron [, Level 30]: abcd
 [2021-04-15 13:24:33]: cunt [, Level 0]: xD
 [2021-04-15 13:24:34]: lessname [, Level 0]: xD
+[2021-04-15 13:24:47]: El patron [, Level 30]: (1)cunt: help or war
+[2021-04-15 13:24:49]: lessname [, Level 0]: xD
