@@ -12379,3 +12379,7 @@
 [2021-04-15 15:04:03]: YelloWorlD [DogParty, Level 38]: q
 [2021-04-15 15:04:04]: YelloWorlD [DogParty, Level 38]: rq
 [2021-04-15 15:04:05]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-15 15:04:29]: ***  [, Level 0]: 'GOLD' has left the game
+[2021-04-15 15:04:29]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-15 15:04:29]: WarHammer [DogParty, Level 26]: YelloWorlD:  how old are you
+[2021-04-15 15:04:32]: WarHammer [DogParty, Level 26]: xd
