@@ -4277,3 +4277,7 @@
 [2021-04-15 05:31:10]: Axandos [, Level 26]: Nudelsaft c::  is my dog :D
 [2021-04-15 05:31:10]: ***  [, Level 0]: 'Adleg' has left the game
 [2021-04-15 05:31:11]: ***  [, Level 0]: '(1)[D] BC|kakash' entered and joined the game
+[2021-04-15 05:31:19]: Kezo [DogParty, Level 41]: Axandos: who cares :D
+[2021-04-15 05:31:21]: Axandos [, Level 26]: dont kill me Kezo
+[2021-04-15 05:31:21]: ***  [, Level 0]: '(3)cookie' entered and joined the game
+[2021-04-15 05:31:22]: Axandos [, Level 26]: :c
