@@ -5672,3 +5672,7 @@
 [2021-04-15 06:57:12]: ***  [, Level 0]: 'SanoreX' has left the game (Timeout Protection over)
 [2021-04-15 06:57:39]: ***  [, Level 0]: 'nameless tee' would have timed out, but can use timeout protection now
 [2021-04-15 06:57:42]: [D] El patron [, Level 24]: ✯ | Bulash: ?
+[2021-04-15 06:58:16]: ***  [, Level 0]: 'lessname' entered and joined the game
+[2021-04-15 06:58:18]: ***  [, Level 0]: 'BitchPlease Jr.' entered and joined the game
+[2021-04-15 06:58:21]: ***  [, Level 0]: 'Cylox.' has left the game
+[2021-04-15 06:58:21]: ***  [, Level 0]: 'Cylox' has left the game
