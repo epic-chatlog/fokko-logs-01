@@ -7775,3 +7775,4 @@
 [2021-04-15 09:06:11]: (3)Zʷʰʸˀ [NULL, Level 26]: [D] El patron: krass deine logik
 [2021-04-15 09:06:24]: [D] El patron [, Level 24]: ERROR.: war
 [2021-04-15 09:06:27]: ***  [, Level 0]: '(1)Meetiteusz' has left the game
+[2021-04-15 09:06:32]: [D] El patron [, Level 24]: ERROR.: ich habe war mit dem
