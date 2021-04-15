@@ -6174,3 +6174,8 @@
 [2021-04-15 07:44:44]: (1)☺ [, Level 13]: El patron: pro
 [2021-04-15 07:44:45]: ***  [, Level 0]: 'Terston Max' has left the game
 [2021-04-15 07:44:45]: Flipper [, Level 16]: WTF
+[2021-04-15 07:44:46]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 30.30 second(s)
+[2021-04-15 07:44:47]: Flipper [, Level 16]: HE DID
+[2021-04-15 07:44:56]: Taip [VergleriSay, Level 19]: mami
+[2021-04-15 07:44:56]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' entered and joined the game
+[2021-04-15 07:44:57]: Taip [VergleriSay, Level 19]: team
