@@ -12717,3 +12717,4 @@
 [2021-04-15 15:35:04]: scuf [669, Level 6]: kamikaze
 [2021-04-15 15:35:15]: bob [Legacy™, Level 36]: magic
 [2021-04-15 15:35:35]: bob [Legacy™, Level 36]: brother
+[2021-04-15 15:35:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
