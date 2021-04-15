@@ -8641,3 +8641,6 @@
 [2021-04-15 10:25:21]: mamikral011 [DogParty, Level 0]: GOLD: prooo
 [2021-04-15 10:25:21]: ***  [, Level 0]: GOLD is on a killing spree with 15 blocks
 [2021-04-15 10:25:23]: ***  [, Level 0]: 'Smite' entered and joined the game
+[2021-04-15 10:25:30]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
+[2021-04-15 10:25:32]: WarHammer [DogParty, Level 17]: MaMi:  DAMİ GETİR
+[2021-04-15 10:25:37]: mamikral011 [DogParty, Level 0]: WarHammer': neden
