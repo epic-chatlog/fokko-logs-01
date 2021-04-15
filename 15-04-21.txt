@@ -12805,3 +12805,4 @@
 [2021-04-15 15:55:02]: ***  [, Level 0]: 'cunt' has left the game (Timeout)
 [2021-04-15 15:55:07]: ☺ [, Level 21]: ~DemoizL~: arrete jai rien fait cet fois
 [2021-04-15 15:55:30]: ~DemoizL~ [, Level 39]: ☺: j'allais pas te tuer, juste récupérer le drapeau pour le donner à qlq
+[2021-04-15 15:55:46]: ☺ [, Level 21]: justement qlq me la donner
