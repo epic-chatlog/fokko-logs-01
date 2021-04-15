@@ -8506,3 +8506,8 @@
 [2021-04-15 10:15:36]: WarHammer [DogParty, Level 17]: MaMi:  HLL
 [2021-04-15 10:15:41]:   [, Level 0]: mamikral011: WarHammer': ne lan
 [2021-04-15 10:15:44]: Zephir™ [, Level 40]: ERROR: ??
+[2021-04-15 10:15:49]:   [, Level 0]: mamikral011: WarHammer': ne diom
+[2021-04-15 10:15:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-15 10:15:56]: ***  [, Level 0]: 'GamegaborHUN' has left the game
+[2021-04-15 10:15:56]: ***  [, Level 0]: 'woona' has left the game
+[2021-04-15 10:15:57]: any² [404, Level 0]: GOLD: pk tu kill Zephir™ ?
