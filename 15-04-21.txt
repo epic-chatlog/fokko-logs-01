@@ -526,3 +526,7 @@
 [2021-04-15 01:57:33]: SanoreX [Chilli.*, Level 27]: (1)kais: u hÂVe PÖRTAL RÖFLE?
 [2021-04-15 01:57:35]: ***  [, Level 0]: 'NoobEmirF.*' left the minigame 'Block'
 [2021-04-15 01:57:37]: kais [, Level 58]: SanoreX: no
+[2021-04-15 01:57:38]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-15 01:57:44]: WarHammer [DogParty, Level 26]: lan
+[2021-04-15 01:57:46]: SanoreX [Chilli.*, Level 27]: (1)kais: U HÂVE RÖFLE?
+[2021-04-15 01:57:48]: kais [, Level 58]: SanoreX: no
