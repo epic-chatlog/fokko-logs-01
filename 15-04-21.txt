@@ -5878,3 +5878,5 @@
 [2021-04-15 07:15:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-15 07:15:54]: ***  [, Level 0]: '(1)Hala Madrid' entered and joined the game
 [2021-04-15 07:15:54]: ERROR. [404, Level 57]: (1)ChillerDrago:  komm gogoogogog 9
+[2021-04-15 07:16:08]: Fun boy Bulash [, Level 0]: LareneGyvaeh:  wake up
+[2021-04-15 07:16:10]: ***  [, Level 0]: 'Fun boy Bulash' has left the game
