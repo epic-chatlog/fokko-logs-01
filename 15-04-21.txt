@@ -1209,3 +1209,7 @@
 [2021-04-15 02:38:25]: Nudelsaft c: [FookinLads, Level 42]: yes
 [2021-04-15 02:38:27]: Nudelsaft c: [FookinLads, Level 42]: spiky spiky
 [2021-04-15 02:38:27]: ***  [, Level 0]: [D] Mert finished in: 1 minute(s)  7.48 second(s)
+[2021-04-15 02:38:43]: ***  [, Level 0]: 'ERROR.' would have timed out, but can use timeout protection now
+[2021-04-15 02:38:43]: ***  [, Level 0]: 'Ƭevan' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-15 02:38:43]: ***  [, Level 0]: 'Ðream' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-15 02:38:45]: 1 [, Level 17]: MERT YUKAARDAYIM GEL
