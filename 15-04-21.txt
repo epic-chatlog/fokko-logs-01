@@ -10094,3 +10094,9 @@
 [2021-04-15 12:03:36]: ***  [, Level 0]: 'GayGeneral' changed name to 'DarkGeneral'
 [2021-04-15 12:03:36]: Taip [VergleriSay, Level 19]: TAMAM DA
 [2021-04-15 12:03:38]: woona [, Level 48]: weqe: ?
+[2021-04-15 12:03:39]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-15 12:03:39]: DarkGeneral [404, Level 42]: LMAOOO
+[2021-04-15 12:03:39]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 15 blocks
+[2021-04-15 12:03:39]: Taip [VergleriSay, Level 19]: SAL
+[2021-04-15 12:03:42]: DarkGeneral [404, Level 42]: AHAHAH
+[2021-04-15 12:03:44]: ***  [, Level 0]: 'test' has left the game
