@@ -7809,3 +7809,5 @@
 [2021-04-15 09:09:50]: ERROR [404, Level 75]: ath hat keinen  bot drinne ^^
 [2021-04-15 09:10:03]: ***  [, Level 0]: 'Telefantastic' has left the game
 [2021-04-15 09:10:03]: ***  [, Level 0]: 'Mista bombastic' has left the game
+[2021-04-15 09:10:10]: ***  [, Level 0]: 'DonkeyMilk' entered and joined the game
+[2021-04-15 09:10:11]: ERROR [404, Level 75]: und bin mit rifle sogut der bot würde nur ablenken xDDD Swarfey
