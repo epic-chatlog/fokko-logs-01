@@ -6646,3 +6646,5 @@
 [2021-04-15 08:06:48]: Axandos [, Level 26]: ERROR:  habe nur einen :c
 [2021-04-15 08:06:52]: Cylox [{TQuila}, Level 31]: (1)Kirito:
 [2021-04-15 08:06:54]: (3)Kirito [, Level 40]: Chicken
+[2021-04-15 08:06:58]: Axandos [, Level 26]: HeavyGeneral:  help me and i give u a bone :D
+[2021-04-15 08:07:06]: Taip [VergleriSay, Level 19]: help please anyone
