@@ -2391,3 +2391,7 @@
 [2021-04-15 03:50:12]: SanoreX [Chilli.*, Level 27]: Telefantastic: SPEC HELP
 [2021-04-15 03:50:17]: ***  [, Level 0]: 'Cylox.' entered and joined the game
 [2021-04-15 03:50:18]: ***  [, Level 0]: 'A player' entered and joined the game
+[2021-04-15 03:50:19]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-15 03:50:22]: SanoreX [Chilli.*, Level 27]: Telefantastic: SPEC ME HELP
+[2021-04-15 03:50:24]: ***  [, Level 0]: 'A player' has left the game
+[2021-04-15 03:50:28]: Taiga`iPro [, Level 37]: xD
