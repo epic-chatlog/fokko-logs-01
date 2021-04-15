@@ -12713,3 +12713,5 @@
 [2021-04-15 15:34:40]: bob [Legacy™, Level 36]: super rainbow
 [2021-04-15 15:34:51]: BobSlave [, Level 0]: brother bob u got this
 [2021-04-15 15:34:51]: scuf [669, Level 6]: e
+[2021-04-15 15:35:01]: scuf [669, Level 6]: eZ
+[2021-04-15 15:35:04]: scuf [669, Level 6]: kamikaze
