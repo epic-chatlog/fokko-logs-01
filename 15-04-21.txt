@@ -5762,3 +5762,5 @@
 [2021-04-15 07:06:46]: ***  [, Level 0]: 'arther' joined the game
 [2021-04-15 07:06:52]: ***  [, Level 0]: 'cunt' has left the game
 [2021-04-15 07:06:56]: ***  [, Level 0]: 'Hala Madrid' finished the special race!
+[2021-04-15 07:07:39]: ***  [, Level 0]: 'Fun boy Bulash' entered and joined the game
+[2021-04-15 07:07:39]: ✯|Not Bulash [|Supressed|, Level 0]: ChillerDragon: rly u want war?
