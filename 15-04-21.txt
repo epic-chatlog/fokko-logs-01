@@ -7822,3 +7822,7 @@
 [2021-04-15 09:11:59]: ***  [, Level 0]: 'Axel ²' has left the game
 [2021-04-15 09:12:07]: Swarfey [FookinLads, Level 59]: aaaaaa
 [2021-04-15 09:12:10]: Swarfey [FookinLads, Level 59]: gay
+[2021-04-15 09:12:14]: ✯|Not Bulash [|Supressed|, Level 0]: xDDD
+[2021-04-15 09:12:22]: ***  [, Level 0]: 'Cosmo' has left the game
+[2021-04-15 09:12:22]: ***  [, Level 0]: '(1)Cosmo' has left the game
+[2021-04-15 09:12:22]: ***  [, Level 0]: '(2)Cosmo' has left the game
