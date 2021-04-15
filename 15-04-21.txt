@@ -4455,3 +4455,6 @@
 [2021-04-15 05:40:29]: (1)Kirito [, Level 40]: SanoreX: what
 [2021-04-15 05:40:30]: SanoreX.* [Chilli.*, Level 22]: Kirito: LOOOOOK
 [2021-04-15 05:40:35]: SanoreX.* [Chilli.*, Level 22]: (3)Kirito: COME PLOT 11
+[2021-04-15 05:40:49]:   [, Level 0]: Taip: GODLIKe: bende kezonun arkıyım
+[2021-04-15 05:40:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 05:40:52]: SanoreX.* [Chilli.*, Level 22]: go here
