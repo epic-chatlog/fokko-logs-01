@@ -12198,3 +12198,7 @@
 [2021-04-14 17:00:05]: ***  [, Level 0]: 'sun.slow(y)' has left the game
 [2021-04-14 17:00:07]: Flipper [, Level 16]: idc if i lose
 [2021-04-14 17:00:09]: Zephir™ [, Level 40]: they say stop using portal / taser but they come 1v5 wtf
+[2021-04-14 17:00:17]: Flipper [, Level 16]: im here now
+[2021-04-14 17:00:19]: Zephir™ [, Level 40]: rq
+[2021-04-14 17:00:21]: Flipper [, Level 16]: by yself
+[2021-04-14 17:00:23]: Flipper [, Level 16]: cmon
