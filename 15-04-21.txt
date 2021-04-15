@@ -2304,3 +2304,9 @@
 [2021-04-15 03:43:59]: coca [, Level 22]: не двигайся
 [2021-04-15 03:44:05]: ***  [, Level 0]: Soros is on a killing spree with 20 blocks
 [2021-04-15 03:44:11]: ***  [, Level 0]: Soros's killing spree was ended by (1)1 (21 blocks)
+[2021-04-15 03:44:20]: coca [, Level 22]: сюда
+[2021-04-15 03:44:23]: ***  [, Level 0]: 'Soros' has left the game
+[2021-04-15 03:44:23]: ***  [, Level 0]: 'el champeon' has left the game
+[2021-04-15 03:44:25]: Good man [Drunks, Level 31]: ДА ЕБЛАН
+[2021-04-15 03:44:26]: ***  [, Level 0]: 'RM | Arin' has left the game
+[2021-04-15 03:44:31]: Cylox [{TQuila}, Level 0]: RQ
