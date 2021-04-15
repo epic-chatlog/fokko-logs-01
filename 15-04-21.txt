@@ -7816,3 +7816,4 @@
 [2021-04-15 09:10:43]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
 [2021-04-15 09:10:49]: Swarfey [FookinLads, Level 59]: no
 [2021-04-15 09:10:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-15 09:11:12]: ***  [, Level 0]: 'Horsemilk' entered and joined the game
