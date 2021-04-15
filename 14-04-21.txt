@@ -12365,3 +12365,4 @@
 [2021-04-14 17:28:49]: ***  [, Level 0]: Flupper is on a killing spree with 10 blocks
 [2021-04-14 17:28:54]: ***  [, Level 0]: Flupper's killing spree was ended by Kirito (10 blocks)
 [2021-04-14 17:28:55]: ***  [, Level 0]: 'scuf' entered and joined the game
+[2021-04-14 17:29:06]: Flupper [, Level 40]: scuf:
