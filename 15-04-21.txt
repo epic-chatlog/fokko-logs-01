@@ -9331,3 +9331,7 @@
 [2021-04-15 11:05:34]: ***  [, Level 0]: 'MOM' has left the game
 [2021-04-15 11:05:41]: ***  [, Level 0]: 'Vir' entered and joined the game
 [2021-04-15 11:05:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-15 11:06:03]: GODLIKe [, Level 44]: cringes
+[2021-04-15 11:06:04]: GODLIKe [, Level 44]: 4 dummy
+[2021-04-15 11:06:04]: ***  [, Level 0]: El patron is on a killing spree with 5 blocks
+[2021-04-15 11:06:06]: (2)Shy-ra. [, Level 0]: i am nice
