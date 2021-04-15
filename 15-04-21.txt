@@ -6496,3 +6496,4 @@
 [2021-04-15 07:59:52]: ERROR. [404, Level 57]: sind die selben
 [2021-04-15 07:59:57]: ***  [, Level 0]: '(1)falkenauge' entered and joined the game
 [2021-04-15 08:00:13]: Axandos [, Level 26]: Zerstrian:  sicher
+[2021-04-15 08:00:21]: Axandos [, Level 26]: Zerstrian:  ja habe ich damit du nicht im fun war mich angreifst
