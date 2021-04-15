@@ -2704,3 +2704,7 @@
 [2021-04-15 04:11:24]: ***  [, Level 0]: '[D] emginw' has left the game
 [2021-04-15 04:11:24]: ***  [, Level 0]: 'emginw' has left the game
 [2021-04-15 04:11:36]: ***  [, Level 0]: (1)Meetiteusz is on a killing spree with 5 blocks
+[2021-04-15 04:11:45]: ***  [, Level 0]: 'rdr' entered and joined the game
+[2021-04-15 04:11:46]: ***  [, Level 0]: '(1)1' left the minigame 'Block'
+[2021-04-15 04:11:53]: #5 blocker [|*MorE*|, Level 24]: Mista bombastic: tom és jerry show
+[2021-04-15 04:11:56]: [D] Mert [[!BRUH!], Level 0]: noooo
