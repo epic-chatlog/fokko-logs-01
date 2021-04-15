@@ -9998,3 +9998,5 @@
 [2021-04-15 11:59:17]: Taip [VergleriSay, Level 19]: PLS
 [2021-04-15 11:59:23]: ***  [, Level 0]: '(1)casserole :p' has left the game (Timeout)
 [2021-04-15 11:59:23]: ***  [, Level 0]: 'casserole :p' has left the game (Timeout)
+[2021-04-15 11:59:25]: ***  [, Level 0]: 'kurama' has left the game
+[2021-04-15 11:59:35]: ***  [, Level 0]: 'bully' has left the game
