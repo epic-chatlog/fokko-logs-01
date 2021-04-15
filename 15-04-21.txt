@@ -8664,3 +8664,8 @@
 [2021-04-15 10:27:07]:   [, Level 0]: bob: (1)casserole :p: stop please
 [2021-04-15 10:27:09]:   [, Level 0]: Cosmo: help
 [2021-04-15 10:27:14]: Kenshi™ [, Level 0]: El patron: he attack me first
+[2021-04-15 10:27:18]:   [, Level 0]: Cosmo: help
+[2021-04-15 10:27:20]: ***  [, Level 0]: 'ZEWO's dummy' entered and joined the game
+[2021-04-15 10:27:22]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-15 10:27:23]: YelloWorlD [DogParty, Level 41]: any: sale merde
+[2021-04-15 10:27:27]: any [404, Level 38]: YelloWorlD: ???
