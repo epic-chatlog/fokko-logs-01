@@ -12851,3 +12851,4 @@
 [2021-04-15 16:04:09]: ***  [, Level 0]: '~DemoizL~' has left the game
 [2021-04-15 16:04:39]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 0 minute(s) 36.04 second(s)
 [2021-04-15 16:04:39]: ***  [, Level 0]: New record:  4.12 second(s) better.
+[2021-04-15 16:05:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
