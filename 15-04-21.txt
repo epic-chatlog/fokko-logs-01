@@ -4475,3 +4475,6 @@
 [2021-04-15 05:42:03]: SanoreX [Chilli.*, Level 27]: full in
 [2021-04-15 05:42:03]: (1)Intensiv_ [CrazyNoobs, Level 0]: kezo sana savaş açtı
 [2021-04-15 05:42:07]: SanoreX [Chilli.*, Level 27]: full in
+[2021-04-15 05:42:08]: Tziys* [DogParty, Level 39]: Taip: kim demiş yarak kafası
+[2021-04-15 05:42:14]: SanoreX [Chilli.*, Level 27]: (1)Kirito: in
+[2021-04-15 05:42:17]: SanoreX [Chilli.*, Level 27]: we need stack
