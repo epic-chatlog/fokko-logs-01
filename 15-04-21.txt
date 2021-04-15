@@ -11740,3 +11740,4 @@
 [2021-04-15 13:46:27]: [D] El patron [, Level 0]: xd
 [2021-04-15 13:46:30]: Terra [, Level 0]: oops
 [2021-04-15 13:47:03]: [D] El patron [, Level 0]: Zephir™: lucky
+[2021-04-15 13:47:18]: ***  [, Level 0]: 'Taiga`iPro' entered and joined the game
