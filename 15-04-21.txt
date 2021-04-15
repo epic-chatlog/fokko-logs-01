@@ -8321,3 +8321,8 @@
 [2021-04-15 10:00:35]: ***  [, Level 0]: 'darkstar' has left the game
 [2021-04-15 10:00:43]: ***  [, Level 0]: YelloWorlD is on a killing spree with 20 blocks
 [2021-04-15 10:00:44]: ***  [, Level 0]: 'Gonzo' has left the game
+[2021-04-15 10:00:47]: ***  [, Level 0]: 'mamikral011' would have timed out, but can use timeout protection now
+[2021-04-15 10:00:47]: ***  [, Level 0]: 'MaMi' would have timed out, but can use timeout protection now
+[2021-04-15 10:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-15 10:00:57]: Sayme [, Level 0]: P4Pyr0s:
+[2021-04-15 10:00:58]: ***  [, Level 0]: 'Lucas' has left the game (Timeout)
