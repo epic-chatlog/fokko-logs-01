@@ -11463,3 +11463,5 @@
 [2021-04-15 13:14:11]: any [404, Level 38]: rq
 [2021-04-15 13:14:32]: ES [, Level 0]: Zʷʰʸˀ: HELP
 [2021-04-15 13:14:39]: ***  [, Level 0]: 'lorenzo96' entered and joined the game
+[2021-04-15 13:14:53]: ***  [, Level 0]: '[D] El patron' entered and joined the game
+[2021-04-15 13:14:56]: Bozzkurt [SkinLover, Level 0]: xD
