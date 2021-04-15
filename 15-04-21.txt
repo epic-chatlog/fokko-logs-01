@@ -5080,3 +5080,6 @@
 [2021-04-15 06:10:07]: SanoreX.* [Chilli.*, Level 0]: krx
 [2021-04-15 06:10:08]: Antensiv_ [CrazyNoobs, Level 1]: bruh sağ tık basılı :d
 [2021-04-15 06:10:18]: Antensiv_ [CrazyNoobs, Level 1]: ez
+[2021-04-15 06:10:45]: kais [, Level 58]: #5 blocker: yes ?
+[2021-04-15 06:10:49]: #5 blocker [|*MorE*|, Level 0]: yes
+[2021-04-15 06:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
