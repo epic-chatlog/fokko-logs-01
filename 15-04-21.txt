@@ -4070,3 +4070,5 @@
 [2021-04-15 05:17:40]: oyun krallı [, Level 18]: kezo
 [2021-04-15 05:17:46]: Kezo [DogParty, Level 41]: oyun krallı: efm
 [2021-04-15 05:17:50]: Taip [VergleriSay, Level 19]: I like turtles.
+[2021-04-15 05:17:53]: SanoreX [Chilli.*, Level 27]: Kirito:
+[2021-04-15 05:17:57]: ***  [, Level 0]: 'Guthaben' entered and joined the game
