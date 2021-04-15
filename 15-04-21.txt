@@ -7864,3 +7864,4 @@
 [2021-04-15 09:18:35]: ERROR [404, Level 75]: aimbot
 [2021-04-15 09:18:51]: Cylox [{TQuila}, Level 31]: ERROR:
 [2021-04-15 09:18:54]: Cylox [{TQuila}, Level 31]: WHO U MAN
+[2021-04-15 09:19:12]: ***  [, Level 0]: 'nameless tee' entered and joined the game
