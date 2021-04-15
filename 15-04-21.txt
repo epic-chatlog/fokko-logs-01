@@ -2465,3 +2465,6 @@
 [2021-04-15 03:55:06]: ***  [, Level 0]: ### 'SanoreX' @everyone WHO WANT 100K COME PLOT 11!!!!
 [2021-04-15 03:55:11]: Taip [VergleriSay, Level 19]: nası atın
 [2021-04-15 03:55:18]: SanoreX [Chilli.*, Level 27]: Taip: /me
+[2021-04-15 03:55:22]: ***  [, Level 0]: ### 'Taip' sa
+[2021-04-15 03:55:23]: SanoreX [Chilli.*, Level 27]: yaz oraya mesaj
+[2021-04-15 03:55:26]: ***  [, Level 0]: ### 'Taip' as
