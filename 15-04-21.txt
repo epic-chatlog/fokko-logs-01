@@ -5018,3 +5018,5 @@
 [2021-04-15 06:06:29]: oyun krallı [, Level 18]: simdini ye kezo
 [2021-04-15 06:06:31]: ERROR [, Level 75]: omg
 [2021-04-15 06:06:31]: oyun krallı [, Level 18]: simdini ye kezo
+[2021-04-15 06:06:38]: SanoreX.* [Chilli.*, Level 22]: ERROR: bad aim
+[2021-04-15 06:06:47]: ***  [, Level 0]: 'SanoreX.*' has left the game
