@@ -7975,3 +7975,5 @@
 [2021-04-15 09:30:28]: Coca [Drunks, Level 16]: ERROR:
 [2021-04-15 09:30:29]: darkstar2 [, Level 18]: (3)Zʷʰʸˀ: but u were in freez
 [2021-04-15 09:30:30]: ***  [, Level 0]: '(2)Cosmo' has left the game
+[2021-04-15 09:30:35]: (3)Zʷʰʸˀ [NULL, Level 26]: and?
+[2021-04-15 09:30:42]: Cylox [{TQuila}, Level 31]: ERROR:
