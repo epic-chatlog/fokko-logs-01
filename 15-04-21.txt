@@ -2468,3 +2468,7 @@
 [2021-04-15 03:55:22]: ***  [, Level 0]: ### 'Taip' sa
 [2021-04-15 03:55:23]: SanoreX [Chilli.*, Level 27]: yaz oraya mesaj
 [2021-04-15 03:55:26]: ***  [, Level 0]: ### 'Taip' as
+[2021-04-15 03:55:32]: SanoreX [Chilli.*, Level 27]: k
+[2021-04-15 03:55:36]: Taip [VergleriSay, Level 19]: para yiyomu
+[2021-04-15 03:55:37]: SanoreX [Chilli.*, Level 27]: Meliodas: 100 and k
+[2021-04-15 03:55:38]: SanoreX [Chilli.*, Level 27]: k
