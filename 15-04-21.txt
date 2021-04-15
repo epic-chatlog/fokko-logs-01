@@ -5177,3 +5177,8 @@
 [2021-04-15 06:14:52]: Kezo [DogParty, Level 41]: SanoreX: yaşını merak ettim çok büyük konuşuyoda
 [2021-04-15 06:14:53]: Meetiteusz [TrRShClNrRs, Level 28]: ERROR: can i go by myself
 [2021-04-15 06:14:53]: [D] Kahve [, Level 0]: Antensiv_: wtf fun
+[2021-04-15 06:14:59]: ***  [, Level 0]: '1' has left the game
+[2021-04-15 06:15:01]: Antensiv_ [CrazyNoobs, Level 1]: kahve türküm aq
+[2021-04-15 06:15:02]: Antensiv_ [CrazyNoobs, Level 1]: ben ıntensiv
+[2021-04-15 06:15:04]: SanoreX.* [Chilli.*, Level 22]: Kezo: benimmi yaşımı merak ettin
+[2021-04-15 06:15:06]: ERROR. [404, Level 57]: ./pay 120000 ERROR  Meetiteusz
