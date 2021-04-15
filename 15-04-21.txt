@@ -8240,3 +8240,6 @@
 [2021-04-15 09:50:38]: ***  [, Level 0]: 'Taip' has left the game
 [2021-04-15 09:50:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-15 09:50:50]: (3)Zʷʰʸˀ [NULL, Level 26]: nice D
+[2021-04-15 09:50:54]: darkstar [Legacy™, Level 19]: ur bad
+[2021-04-15 09:50:54]: ***  [, Level 0]: 'hihi' entered and joined the game
+[2021-04-15 09:50:58]: (3)Zʷʰʸˀ [NULL, Level 26]: ik
