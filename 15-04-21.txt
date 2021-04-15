@@ -10828,3 +10828,6 @@
 [2021-04-15 12:36:24]: ERROR [404, Level 75]: hahahahaha
 [2021-04-15 12:36:26]: LGBT+ General [404, Level 42]: SHIT
 [2021-04-15 12:36:27]: ***  [, Level 0]: 'Shiro,' entered and joined the game
+[2021-04-15 12:36:30]: ERROR [404, Level 75]: BC|kakashi:  jz hast du war
+[2021-04-15 12:36:31]: ***  [, Level 0]: 'grrra' entered and joined the game
+[2021-04-15 12:36:34]: bob [669, Level 36]: ERROR: knapp
