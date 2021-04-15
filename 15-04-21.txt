@@ -4998,3 +4998,5 @@
 [2021-04-15 06:05:02]: SanoreX [Chilli.*, Level 27]: c::
 [2021-04-15 06:05:06]: [D] El patron [, Level 24]: dream you can help
 [2021-04-15 06:05:12]: [D] Kahve [, Level 0]: Mert: orospu çocuklupu yapma
+[2021-04-15 06:05:13]: [D] El patron [, Level 24]: dream not me problem
+[2021-04-15 06:05:22]: #5 blocker [|*MorE*|, Level 0]: (1)kais:
