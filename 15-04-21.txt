@@ -6167,3 +6167,5 @@
 [2021-04-15 07:44:20]: ***  [, Level 0]: Cylox finished in: 10 minute(s)  5.84 second(s)
 [2021-04-15 07:44:20]: ***  [, Level 0]: 'Cylox' finished the special race!
 [2021-04-15 07:44:22]: cookie [, Level 20]: Axandos:  why dude
+[2021-04-15 07:44:34]: ***  [, Level 0]: 'Terston Max' entered and joined the game
+[2021-04-15 07:44:34]: (1)☺ [, Level 13]: i lag
