@@ -8497,3 +8497,5 @@
 [2021-04-15 10:14:41]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
 [2021-04-15 10:14:41]:   [, Level 0]: mamikral011: WarHammer': göster
 [2021-04-15 10:14:46]: ***  [, Level 0]: GOLD is on a killing spree with 5 blocks
+[2021-04-15 10:14:59]: ***  [, Level 0]: 'GamegaborHUN' entered and joined the game
+[2021-04-15 10:15:03]:   [, Level 0]: WarHammer: MaMi:  COME HERE
