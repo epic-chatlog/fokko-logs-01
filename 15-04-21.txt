@@ -7727,3 +7727,5 @@
 [2021-04-15 09:00:58]: Coca [Drunks, Level 16]: what now
 [2021-04-15 09:01:05]: Axel [TrRShClNrRs, Level 30]: xD
 [2021-04-15 09:01:11]: [D] El patron [, Level 24]: Coca: fun
+[2021-04-15 09:01:19]: ***  [, Level 0]: Meetiteusz finished in: 33 minute(s) 41.34 second(s)
+[2021-04-15 09:01:29]: Coca [Drunks, Level 16]: El patron: kill flappy ) not me)
