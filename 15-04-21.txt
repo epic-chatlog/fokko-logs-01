@@ -8594,3 +8594,7 @@
 [2021-04-15 10:22:15]: mamikral011 [DogParty, Level 0]: bob: war?
 [2021-04-15 10:22:15]: ***  [, Level 0]: '[D]basoka' changed name to '[D] basoka'
 [2021-04-15 10:22:16]:   [, Level 0]: (1)☺: yellptit con
+[2021-04-15 10:22:25]: ***  [, Level 0]: 'FF' has left the game
+[2021-04-15 10:22:26]: ***  [, Level 0]: '[D] basoka' changed name to '(1)basoka'
+[2021-04-15 10:22:27]:   [, Level 0]: (1)☺: aller rage yellord
+[2021-04-15 10:22:31]: any [404, Level 38]: ERROR: >
