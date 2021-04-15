@@ -12777,3 +12777,6 @@
 [2021-04-15 15:44:42]: (1)RM | Arin [Retard MNKY, Level 0]: say sorry!
 [2021-04-15 15:44:46]: ***  [, Level 0]: 'GODLIKe' has left the game
 [2021-04-15 15:45:01]: (1)☺ [, Level 0]: stop power
+[2021-04-15 15:45:43]: (1)☺ [, Level 0]: sure power ?
+[2021-04-15 15:45:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-15 15:45:52]: power [TrRShClNrRs, Level 15]: sure like cheese
