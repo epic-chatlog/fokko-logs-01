@@ -4400,3 +4400,6 @@
 [2021-04-15 05:38:04]:   [, Level 0]: GODLIKe: Flipper: u traitor
 [2021-04-15 05:38:05]: (1)Intensiv_ [CrazyNoobs, Level 0]: nerdersin ta
 [2021-04-15 05:38:07]: (1)Intensiv_ [CrazyNoobs, Level 0]: nerdersin taip
+[2021-04-15 05:38:09]: ***  [, Level 0]: '(1)microu' has left the game
+[2021-04-15 05:38:10]:   [, Level 0]: Taip: spec
+[2021-04-15 05:38:19]:   [, Level 0]: Taip: biraz yukarısı
