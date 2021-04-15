@@ -8394,3 +8394,5 @@
 [2021-04-15 10:06:34]:   [, Level 0]: bob: u u u u u u u
 [2021-04-15 10:06:44]: (1)☺ [, Level 13]: je revien
 [2021-04-15 10:06:45]:   [, Level 0]: bob: smiley man fk u
+[2021-04-15 10:06:47]:   [, Level 0]: bob: traitor
+[2021-04-15 10:06:58]: ***  [, Level 0]: 'Noragami' left the minigame 'Survival'
