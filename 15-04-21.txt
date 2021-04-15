@@ -12304,3 +12304,6 @@
 [2021-04-15 14:55:13]: kais [, Level 66]: uhm
 [2021-04-15 14:55:36]: kais [, Level 66]: aleandro: not even close
 [2021-04-15 14:55:39]: aleandro [konichiwa, Level 36]: haHHA
+[2021-04-15 14:55:45]: aleandro [konichiwa, Level 36]: how things change
+[2021-04-15 14:55:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-15 14:55:52]: ***  [, Level 0]: '(1)kais' entered and joined the game
