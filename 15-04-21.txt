@@ -8489,3 +8489,7 @@
 [2021-04-15 10:13:53]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
 [2021-04-15 10:13:54]: ***  [, Level 0]: '[D] peS' entered and joined the game
 [2021-04-15 10:14:15]: ERROR [404, Level 75]: YelloWorlD: WELL he didnt knew maybe come on xD
+[2021-04-15 10:14:23]:   [, Level 0]: WarHammer: MaMi:  yeni tarzımı gösterimmi
+[2021-04-15 10:14:27]:   [, Level 0]: mamikral011: bob: ?
+[2021-04-15 10:14:27]: ERROR [404, Level 75]: STOP OPMG xD
+[2021-04-15 10:14:32]: Zephir™ [, Level 40]: ERROR: srx ?
