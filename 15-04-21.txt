@@ -5952,3 +5952,5 @@
 [2021-04-15 07:28:28]: cookie [, Level 20]: flappy:  help (2)cookie
 [2021-04-15 07:28:40]: (1) [, Level 40]: you fucking idiot
 [2021-04-15 07:28:52]: Taip [VergleriSay, Level 19]: help
+[2021-04-15 07:28:59]: (1) [, Level 40]: Dilkohomnki: war
+[2021-04-15 07:29:04]: ***  [, Level 0]: 'Cosmo' has left the game
