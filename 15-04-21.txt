@@ -8134,3 +8134,8 @@
 [2021-04-15 09:43:47]: ***  [, Level 0]: mamikral011 is on a killing spree with 5 blocks
 [2021-04-15 09:43:47]: Taip [DogParty, Level 19]: sry
 [2021-04-15 09:44:19]: Cylox [{TQuila}, Level 31]: ERROR:
+[2021-04-15 09:44:29]: ***  [, Level 0]: 'MaMi' entered and joined the game
+[2021-04-15 09:44:31]: zZz [{D}, Level 0]: weqe: noob?
+[2021-04-15 09:44:34]: weqe [669, Level 13]: zZz: yes
+[2021-04-15 09:44:35]: YelloWorlD [DogParty, Level 41]: noob
+[2021-04-15 09:44:37]: Coca [Drunks, Level 16]: YelloWorlD: wtf
