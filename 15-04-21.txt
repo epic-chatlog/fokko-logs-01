@@ -5604,3 +5604,10 @@
 [2021-04-15 06:48:51]: Cylox. [{TQuila}, Level 0]: Intensiv: he kanka
 [2021-04-15 06:48:57]: Intensiv [CrazyNoobs, Level 12]: para vamrı üstünde
 [2021-04-15 06:49:01]: SanoreX [Chilli.*, Level 27]: Kezo: versene onu
+[2021-04-15 06:49:07]: SanoreX [Chilli.*, Level 27]: jet
+[2021-04-15 06:49:08]: SanoreX [Chilli.*, Level 27]: pek
+[2021-04-15 06:49:09]: SanoreX [Chilli.*, Level 27]: i
+[2021-04-15 06:49:11]: Tziys* [DogParty, Level 39]: SanoreX: ben çıkıyom ondan iste bb
+[2021-04-15 06:49:12]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-15 06:49:12]: ***  [, Level 0]: 'Kezo' has left the game
+[2021-04-15 06:49:12]: Intensiv [CrazyNoobs, Level 12]: gel al SanoreX
