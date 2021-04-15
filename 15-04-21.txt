@@ -5490,3 +5490,6 @@
 [2021-04-15 06:38:08]: Intensiv [CrazyNoobs, Level 12]: El patron:  no fight Cylox
 [2021-04-15 06:38:21]: ***  [, Level 0]: 'ren' has left the game
 [2021-04-15 06:38:26]: (2)cookie [, Level 0]: tchief:  dont save player
+[2021-04-15 06:38:41]: Cylox [{TQuila}, Level 31]: El patron: Toxic idiot
+[2021-04-15 06:38:41]: Intensiv [CrazyNoobs, Level 12]: You are both behind the same person
+[2021-04-15 06:38:46]: Intensiv [CrazyNoobs, Level 12]: El patron:
