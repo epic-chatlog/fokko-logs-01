@@ -4304,3 +4304,5 @@
 [2021-04-15 05:32:16]: [D] El patron [, Level 24]: Cosmo:  you want war
 [2021-04-15 05:32:21]: Axandos [, Level 26]: El patron:  kill kezo
 [2021-04-15 05:32:29]: SanoreX.* [Chilli.*, Level 22]: cookie:  write krx in chat and see free teeworlds client!!
+[2021-04-15 05:32:32]: Kezo [DogParty, Level 41]: El patron: kill me = war forever you my ddog
+[2021-04-15 05:32:38]: Axandos [, Level 26]: Kezo:
