@@ -10741,3 +10741,5 @@
 [2021-04-15 12:31:57]: LGBT+ General [404, Level 42]: ez stole
 [2021-04-15 12:31:59]: bob [669, Level 36]: weqe: is my boss
 [2021-04-15 12:32:02]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 12:32:18]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-15 12:32:20]:   [, Level 0]: test: ;spec
