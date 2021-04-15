@@ -5498,3 +5498,6 @@
 [2021-04-15 06:39:25]: Cylox [{TQuila}, Level 31]: El patron: ı go bank plss
 [2021-04-15 06:39:36]: ***  [, Level 0]: MieSlime finished in: 5 minute(s) 30.02 second(s)
 [2021-04-15 06:39:37]: [D] El patron [, Level 24]: Cylox:  when u attack me i hunt u
+[2021-04-15 06:39:51]: Cylox [{TQuila}, Level 31]: heheh thx
+[2021-04-15 06:39:58]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-15 06:39:59]: [D] El patron [, Level 24]: Cylox: money
