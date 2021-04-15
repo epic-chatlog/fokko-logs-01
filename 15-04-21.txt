@@ -7866,3 +7866,8 @@
 [2021-04-15 09:18:54]: Cylox [{TQuila}, Level 31]: WHO U MAN
 [2021-04-15 09:19:12]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-15 09:19:25]: (3)Zʷʰʸˀ [NULL, Level 26]: darkstar: why u even block me?
+[2021-04-15 09:19:55]: ***  [, Level 0]: 'any' entered and joined the game
+[2021-04-15 09:19:59]: ***  [, Level 0]: '(1)Kirito' would have timed out, but can use timeout protection now
+[2021-04-15 09:19:59]: ***  [, Level 0]: '(3)Kirito' would have timed out, but can use timeout protection now
+[2021-04-15 09:20:00]: ***  [, Level 0]: '(2)Kirito' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-15 09:20:00]: ***  [, Level 0]: 'Kirito' has left the game (Timeout)
