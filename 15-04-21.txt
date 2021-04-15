@@ -12299,3 +12299,5 @@
 [2021-04-15 14:54:15]: kais [, Level 66]: bruh
 [2021-04-15 14:54:16]: aleandro [konichiwa, Level 36]: HAHAHAH
 [2021-04-15 14:54:39]: ***  [, Level 0]: ~DemoizL~'s killing spree was ended by kais (6 blocks)
+[2021-04-15 14:54:49]: ***  [, Level 0]: 'casserole :p' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-15 14:54:49]: ***  [, Level 0]: '(1)casserole :p' has left the game (Too weak connection (not acked for 60 seconds))
