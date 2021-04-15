@@ -11764,3 +11764,4 @@
 [2021-04-15 13:51:43]: (3)Zʷʰʸˀ [NULL, Level 26]: rq
 [2021-04-15 13:51:47]: HeavyGeneral [FookinLads, Level 44]: El patron: enough chiller is 24/7 spammer
 [2021-04-15 13:51:48]: HeavyGeneral [FookinLads, Level 44]: now u 2
+[2021-04-15 13:52:14]: ***  [, Level 0]: 'soleri1' has left the game
