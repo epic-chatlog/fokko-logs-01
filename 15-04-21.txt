@@ -8083,3 +8083,9 @@
 [2021-04-15 09:39:46]:   [, Level 0]: mamikral011: Not Zerstrian: pls helpp
 [2021-04-15 09:39:58]: ***  [, Level 0]: 'Marcisten' entered and joined the game
 [2021-04-15 09:39:58]:   [, Level 0]: mamikral011: ✯|Not Bulash: ?
+[2021-04-15 09:40:02]:   [, Level 0]: mamikral011: Not Zerstrian: ?
+[2021-04-15 09:40:06]:   [, Level 0]: Marcisten: who wants to fite me
+[2021-04-15 09:40:08]: zZz [{D}, Level 0]: ERROR: ?
+[2021-04-15 09:40:11]:   [, Level 0]: mamikral011: Not Zerstrian: war
+[2021-04-15 09:40:12]: ***  [, Level 0]: Not Zerstrian is on a killing spree with 5 blocks
+[2021-04-15 09:40:12]: zZz [{D}, Level 0]: ERROR.: ?
