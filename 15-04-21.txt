@@ -5333,3 +5333,5 @@
 [2021-04-15 06:23:29]: (2)cookie [, Level 0]: #5 blocker:  i go help you
 [2021-04-15 06:23:33]: ***  [, Level 0]: '(1)Kezo' has left the game
 [2021-04-15 06:23:33]: Cylox [{TQuila}, Level 0]: SanoreX: kahpe
+[2021-04-15 06:23:40]: ***  [, Level 0]: 'Cylox.' entered and joined the game
+[2021-04-15 06:23:44]: #5 blocker [|*MorE*|, Level 0]: (1)cookie: okay
