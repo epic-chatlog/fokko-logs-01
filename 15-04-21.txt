@@ -7833,3 +7833,7 @@
 [2021-04-15 09:13:04]: [D] El patron [, Level 24]: (2)Zʷʰʸˀ: jetpack nub
 [2021-04-15 09:13:09]: ***  [, Level 0]: 'El patron' has left the game
 [2021-04-15 09:13:09]: ***  [, Level 0]: '[D] El patron' has left the game
+[2021-04-15 09:13:12]: ***  [, Level 0]: darkstar2 finished in: 2 minute(s) 43.56 second(s)
+[2021-04-15 09:13:14]: (3)Zʷʰʸˀ [NULL, Level 26]: rq
+[2021-04-15 09:13:19]: (1)ChillerDrago [Chilli.*, Level 45]: indeed xd
+[2021-04-15 09:13:19]: ***  [, Level 0]: darkstar finished in: 5 minute(s) 14.86 second(s)
