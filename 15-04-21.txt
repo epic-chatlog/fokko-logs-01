@@ -12223,3 +12223,5 @@
 [2021-04-15 14:44:49]: ***  [, Level 0]: 'WarHammer'' has left the game (Timeout)
 [2021-04-15 14:44:54]: YelloWorlD [DogParty, Level 0]: (1)casserole :p: non
 [2021-04-15 14:44:59]: ***  [, Level 0]: 'GOLD' entered and joined the game
+[2021-04-15 14:45:04]: (1)casserole :p [, Level 17]: YelloWorlD: stp
+[2021-04-15 14:45:12]: Zephir™ [, Level 40]: YelloWorlD: wtf t'attaque plus ?
