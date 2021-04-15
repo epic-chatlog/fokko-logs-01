@@ -11930,3 +11930,6 @@
 [2021-04-15 14:11:43]: YelloWorlD [DogParty, Level 0]: Luna: lunie ?
 [2021-04-15 14:11:50]: ***  [, Level 0]: Rem's dummy finished in: 6 minute(s) 59.94 second(s)
 [2021-04-15 14:11:50]: ***  [, Level 0]: 'Rem's dummy' finished the special race!
+[2021-04-15 14:11:57]: Luna [, Level 0]: no?
+[2021-04-15 14:11:59]: WarHammer [DogParty, Level 26]: YelloWorlD:  KRAAAAAAL WELCOME
+[2021-04-15 14:12:03]: El patron [, Level 30]: Zephir™: come
