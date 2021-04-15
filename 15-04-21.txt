@@ -11432,3 +11432,4 @@
 [2021-04-15 13:10:51]: MieSlime [FookinLads, Level 43]: El patron:  ??
 [2021-04-15 13:10:55]: El patron [, Level 30]: MieSlime: nvm
 [2021-04-15 13:11:22]: Lucas [THECEPS, Level 35]: soleri1: b
+[2021-04-15 13:11:29]: any [404, Level 38]: El patron: <<<<
