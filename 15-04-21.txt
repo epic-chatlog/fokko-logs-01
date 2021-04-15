@@ -11540,3 +11540,5 @@
 [2021-04-15 13:23:14]: ***  [, Level 0]: 'Bob The Gamer' has left the game
 [2021-04-15 13:23:21]: cunt [, Level 0]: lessname: no problem i murdered him
 [2021-04-15 13:23:33]: lessname [, Level 0]: cunt: cruel xD
+[2021-04-15 13:23:42]: darkstar [Legacy™, Level 20]: ERROR:
+[2021-04-15 13:23:43]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 5 blocks
