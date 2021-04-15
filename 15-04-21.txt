@@ -10415,3 +10415,6 @@
 [2021-04-15 12:16:03]: LGBT+ General [404, Level 42]: XDDD
 [2021-04-15 12:16:07]:   [, Level 0]: [D] El patron: Zephir™:  to spawn
 [2021-04-15 12:16:07]: bob [669, Level 36]: HAH
+[2021-04-15 12:16:09]: bob [669, Level 36]: brother nice
+[2021-04-15 12:16:17]: ***  [, Level 0]: '(1)test' entered and joined the game
+[2021-04-15 12:16:19]:   [, Level 0]: SanoreX.*: oldumu
