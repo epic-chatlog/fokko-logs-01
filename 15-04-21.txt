@@ -6853,3 +6853,5 @@
 [2021-04-15 08:19:12]: woona [, Level 48]: bye
 [2021-04-15 08:19:13]: ***  [, Level 0]: 'hhnaut31' has left the game
 [2021-04-15 08:19:13]: ***  [, Level 0]: 'woona' has left the game
+[2021-04-15 08:19:17]: ERROR. [404, Level 57]: xD
+[2021-04-15 08:19:24]: Lucas [THECEPS, Level 35]: coca: faster maybe
