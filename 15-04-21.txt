@@ -7383,3 +7383,12 @@
 [2021-04-15 08:41:00]:   [, Level 0]: SanoreX: krx client
 [2021-04-15 08:41:02]:   [, Level 0]: SanoreX: Kirito:
 [2021-04-15 08:41:03]: ERROR [404, Level 75]: no
+[2021-04-15 08:41:05]: ***  [, Level 0]: 'Jabłuszko' has left the game
+[2021-04-15 08:41:05]: woona [, Level 48]: aimbot
+[2021-04-15 08:41:06]: ***  [, Level 0]: 'ZEUS' entered and joined the game
+[2021-04-15 08:41:07]: ***  [, Level 0]: 'Nudelsaft c:' changed name to 'aimbot aaaaaaaa'
+[2021-04-15 08:41:08]: ***  [, Level 0]: 'Jabłuszko' entered and joined the game
+[2021-04-15 08:41:08]: woona [, Level 48]: aimbot
+[2021-04-15 08:41:08]: Meetiteusz [TrRShClNrRs, Level 0]: Ðream: where is it going xD
+[2021-04-15 08:41:11]: woona [, Level 48]: aimbot
+[2021-04-15 08:41:13]: ***  [, Level 0]: 'woona' has been muted for 60 seconds
