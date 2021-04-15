@@ -11640,3 +11640,7 @@
 [2021-04-15 13:34:38]: ***  [, Level 0]: '(2)Zʷʰʸˀ' finished the special race!
 [2021-04-15 13:34:38]: Nudelsaft c: [FookinLads, Level 0]: test
 [2021-04-15 13:34:39]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-15 13:34:44]: lessname [, Level 0]: cunt?
+[2021-04-15 13:34:49]: (1)ChillerDrago [Chilli.*, Level 45]: i try to block all i have war with Zephir™
+[2021-04-15 13:34:52]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-15 13:34:53]: ***  [, Level 0]: Zephir™ is on a killing spree with 5 blocks
