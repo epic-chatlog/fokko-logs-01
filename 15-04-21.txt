@@ -9757,3 +9757,5 @@
 [2021-04-15 11:39:07]: Intensiv_ [CrazyNoobs, Level 5]: 1 de 6 k var
 [2021-04-15 11:39:14]: Intensiv_ [CrazyNoobs, Level 5]: bob
 [2021-04-15 11:39:29]: bob [669, Level 36]: Intensiv_: yes?
+[2021-04-15 11:39:31]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
+[2021-04-15 11:39:34]: Intensiv_ [CrazyNoobs, Level 5]: ım hamster
