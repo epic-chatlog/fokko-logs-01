@@ -5752,3 +5752,4 @@
 [2021-04-15 07:05:51]: ***  [, Level 0]: 'hmmmm' entered and joined the game
 [2021-04-15 07:05:53]: ***  [, Level 0]: 'arther' joined the game
 [2021-04-15 07:05:57]: ***  [, Level 0]: 'cunt' entered and joined the game
+[2021-04-15 07:06:01]: ERROR [404, Level 75]: willst du michz eigtl veräppeln El patron ?
