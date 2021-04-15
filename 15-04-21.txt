@@ -11750,3 +11750,4 @@
 [2021-04-15 13:48:37]: ***  [, Level 0]: (2)Zʷʰʸˀ is on a killing spree with 10 blocks
 [2021-04-15 13:48:55]: BC|Tixnix [BC, Level 34]: (2)Zʷʰʸˀ: was ein ahram
 [2021-04-15 13:49:05]: (2)Zʷʰʸˀ [NULL, Level 26]: BC|Tixnix: schreib deutsch
+[2021-04-15 13:49:18]: BC|Tixnix [BC, Level 34]: (2)Zʷʰʸˀ: ne chinich wiest du
