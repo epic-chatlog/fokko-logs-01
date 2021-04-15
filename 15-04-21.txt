@@ -12432,3 +12432,5 @@
 [2021-04-15 15:10:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-15 15:10:50]: ***  [, Level 0]: 'WarHammer'' has left the game
 [2021-04-15 15:10:50]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-15 15:10:56]: bob [, Level 36]: kais: u are such a nice person my frie nd i just noticed
+[2021-04-15 15:10:58]: bob [, Level 36]: kais: you are good man
