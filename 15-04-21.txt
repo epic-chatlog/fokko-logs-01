@@ -12003,3 +12003,6 @@
 [2021-04-15 14:21:36]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-15 14:21:41]: WarHammer [DogParty, Level 26]: YA-LAN SÖY-LEME YARRAĞIMI YE İBO
 [2021-04-15 14:21:42]: ~DemoizL~ [, Level 39]: Zephir™: pff
+[2021-04-15 14:22:11]: ***  [, Level 0]: 'power' has left the game
+[2021-04-15 14:22:15]: Rem's bae [, Level 42]: YelloWorlD: ?
+[2021-04-15 14:22:19]: YelloWorlD [DogParty, Level 0]: Rem's dummy: not me
