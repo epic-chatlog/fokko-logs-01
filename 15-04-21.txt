@@ -4347,3 +4347,6 @@
 [2021-04-15 05:35:28]: (1)Intensiv_ [CrazyNoobs, Level 0]: kurtarmasana aq
 [2021-04-15 05:35:29]: Axandos [, Level 26]: war El patron
 [2021-04-15 05:35:30]: ***  [, Level 0]: Mert is on a killing spree with 5 blocks
+[2021-04-15 05:35:40]:   [, Level 0]: Taip: kanka
+[2021-04-15 05:35:42]:   [, Level 0]: Taip: bunlar bela
+[2021-04-15 05:35:43]: ***  [, Level 0]: '__init__(self):' entered and joined the game
