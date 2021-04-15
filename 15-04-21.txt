@@ -2381,3 +2381,6 @@
 [2021-04-15 03:49:40]: ***  [, Level 0]: '(1)GODLIKe' has left the game
 [2021-04-15 03:49:40]: ***  [, Level 0]: 'GODLIKe.' has left the game
 [2021-04-15 03:49:41]: SanoreX [Chilli.*, Level 27]: Telefantastic: HEEŞLP SPECC
+[2021-04-15 03:49:47]: ***  [, Level 0]: 'power' has left the game
+[2021-04-15 03:49:47]: ***  [, Level 0]: 'power2' has left the game
+[2021-04-15 03:49:50]: ***  [, Level 0]: '[D] BC|kakashi' entered and joined the game
