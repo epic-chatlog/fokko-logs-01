@@ -7754,3 +7754,7 @@
 [2021-04-15 09:03:34]:   [, Level 0]: (1)Meetiteusz: Ƭevan: spectate me
 [2021-04-15 09:03:41]:   [, Level 0]: (1)Meetiteusz: Ƭevan: are you spectating?
 [2021-04-15 09:03:44]: Mista bombastic [TrRShClNrRs, Level 40]: Axel: (1)Meetiteusz (1)Ƭevan hii
+[2021-04-15 09:04:01]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: But shoot laser too
+[2021-04-15 09:04:03]: Isegrin [, Level 55]: ✯ | Bulash: shalom
+[2021-04-15 09:04:04]: Ƭevan [TrRShClNrRs, Level 49]: yes
+[2021-04-15 09:04:07]: ***  [, Level 0]: 'Kiøn1029' has left the game
