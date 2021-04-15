@@ -9779,3 +9779,6 @@
 [2021-04-15 11:42:26]: ***  [, Level 0]: 'Banasiczek1' entered and joined the game
 [2021-04-15 11:42:29]: ***  [, Level 0]: 'Banasiczek1' has left the game
 [2021-04-15 11:42:39]: Taip [VergleriSay, Level 19]: help
+[2021-04-15 11:42:44]: (1)casserole :p [, Level 0]: Zerstrian:
+[2021-04-15 11:42:48]: ***  [, Level 0]: 'Jabłuszko' entered and joined the game
+[2021-04-15 11:42:50]: ***  [, Level 0]: 'Jabłuszko' has left the game
