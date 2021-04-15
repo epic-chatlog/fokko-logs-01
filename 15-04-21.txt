@@ -1621,3 +1621,6 @@
 [2021-04-15 03:00:40]: S Y T H N [, Level 39]: na
 [2021-04-15 03:00:40]: SanoreX [Chilli.*, Level 27]: ok
 [2021-04-15 03:00:41]: ***  [, Level 0]: 'PARDUS' entered and joined the game
+[2021-04-15 03:00:43]: Meetiteusz [TrRShClNrRs, Level 28]: S Y T H N: ur coming without anything xD
+[2021-04-15 03:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-15 03:00:51]: Telefantastic [TrRShClNrRs, Level 34]: rayen: rifle
