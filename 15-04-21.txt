@@ -8418,3 +8418,6 @@
 [2021-04-15 10:08:39]: ***  [, Level 0]: any²'s killing spree was ended by DonkeyMilk (8 blocks)
 [2021-04-15 10:08:41]: (3)BLACK [, Level 21]: Coca:
 [2021-04-15 10:08:42]: ***  [, Level 0]: any's killing spree was ended by noname (7 blocks)
+[2021-04-15 10:08:58]: any² [404, Level 0]: WarHammer u have war
+[2021-04-15 10:09:01]: ***  [, Level 0]: 'Cosmo' has left the game
+[2021-04-15 10:09:03]:   [, Level 0]: WarHammer: any:  ?
