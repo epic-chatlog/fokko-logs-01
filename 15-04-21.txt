@@ -496,3 +496,5 @@
 [2021-04-15 01:55:29]: power [TrRShClNrRs, Level 15]: kais:
 [2021-04-15 01:55:29]: SanoreX [Chilli.*, Level 27]: bekle
 [2021-04-15 01:55:32]: power [TrRShClNrRs, Level 15]: left
+[2021-04-15 01:55:35]: SanoreX [Chilli.*, Level 27]: Kirito:
+[2021-04-15 01:55:36]: 1 [, Level 17]: sıçtın
