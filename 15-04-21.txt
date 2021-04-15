@@ -8599,3 +8599,5 @@
 [2021-04-15 10:22:27]:   [, Level 0]: (1)☺: aller rage yellord
 [2021-04-15 10:22:31]: any [404, Level 38]: ERROR: >
 [2021-04-15 10:22:40]:   [, Level 0]: WarHammer': any:  baka, i help ur team
+[2021-04-15 10:22:54]: ***  [, Level 0]: GOLD is on a killing spree with 10 blocks
+[2021-04-15 10:22:57]: mamikral011 [DogParty, Level 0]: yelq
