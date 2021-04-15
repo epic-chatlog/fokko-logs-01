@@ -7261,3 +7261,4 @@
 [2021-04-15 08:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-15 08:35:53]: ***  [, Level 0]: 'Jabłuszko' has left the game
 [2021-04-15 08:35:57]: ***  [, Level 0]: 'Jabłuszko' entered and joined the game
+[2021-04-15 08:36:03]: ERROR. [404, Level 57]: troll
