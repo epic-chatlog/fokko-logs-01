@@ -12445,3 +12445,6 @@
 [2021-04-15 15:12:29]: Zephir™ [, Level 40]: kais: kk
 [2021-04-15 15:12:30]: ***  [, Level 0]: '☺' entered and joined the game
 [2021-04-15 15:12:35]: bob [, Level 36]: smiley man
+[2021-04-15 15:12:51]: ☺ [, Level 0]: bob: shut up traitor
+[2021-04-15 15:12:54]: bob [, Level 36]: WTFF
+[2021-04-15 15:12:55]: bob [, Level 36]: HJAJAJHAJ
