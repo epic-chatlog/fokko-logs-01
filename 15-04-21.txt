@@ -11935,3 +11935,5 @@
 [2021-04-15 14:12:03]: El patron [, Level 30]: Zephir™: come
 [2021-04-15 14:12:11]: WarHammer [DogParty, Level 26]: YelloWorlD:  kral = king
 [2021-04-15 14:12:24]: ***  [, Level 0]: 'El patron' has left the game
+[2021-04-15 14:12:47]: Rem's dummy [, Level 38]: hello YelloWorlD : D
+[2021-04-15 14:12:51]: Zephir™ [, Level 40]: YelloWorlD: ta fini de me war ?
