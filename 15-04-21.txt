@@ -10320,3 +10320,11 @@
 [2021-04-15 12:12:57]:   [, Level 0]: weqe: 10k Taip
 [2021-04-15 12:12:59]: bob [669, Level 36]: ja namen halkt
 [2021-04-15 12:13:01]: Taip [VergleriSay, Level 19]: why
+[2021-04-15 12:13:04]:   [, Level 0]: SanoreX: woona: benim local serverime gelsene süper kurtaran bot yaptım bakarsın
+[2021-04-15 12:13:05]:   [, Level 0]: any: El patron: where
+[2021-04-15 12:13:05]: Taip [VergleriSay, Level 19]: not all is money
+[2021-04-15 12:13:09]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 12:13:10]:   [, Level 0]: [D] El patron: any:  endless
+[2021-04-15 12:13:10]: woona [, Level 48]: tamam
+[2021-04-15 12:13:13]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-15 12:13:14]: ***  [, Level 0]: 'test' has left the game (unsupported client)
