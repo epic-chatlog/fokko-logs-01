@@ -7846,3 +7846,6 @@
 [2021-04-15 09:14:29]: ***  [, Level 0]: '(1)Meetiteusz' entered and joined the game
 [2021-04-15 09:14:37]: darkstar [Legacy™, Level 19]: god
 [2021-04-15 09:14:41]: darkstar [Legacy™, Level 19]: loser
+[2021-04-15 09:14:50]: ***  [, Level 0]: '(1)Ðream' has left the game
+[2021-04-15 09:14:50]: ***  [, Level 0]: '(1)Ƭevan' has left the game
+[2021-04-15 09:14:55]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
