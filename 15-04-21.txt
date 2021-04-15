@@ -8488,3 +8488,4 @@
 [2021-04-15 10:13:53]: Zephir™ [, Level 40]: YelloWorlD: je t'aide toi + t'es ennemis mais ok
 [2021-04-15 10:13:53]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
 [2021-04-15 10:13:54]: ***  [, Level 0]: '[D] peS' entered and joined the game
+[2021-04-15 10:14:15]: ERROR [404, Level 75]: YelloWorlD: WELL he didnt knew maybe come on xD
