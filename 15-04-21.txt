@@ -4172,3 +4172,6 @@
 [2021-04-15 05:24:43]: (2)cookie [, Level 0]: brppp
 [2021-04-15 05:24:49]: ***  [, Level 0]: ### 'SanoreX' @everyone write krx in chat!!!!!! and see magic
 [2021-04-15 05:24:50]: f"{self.name}" [, Level 0]: krx
+[2021-04-15 05:24:59]: SanoreX [Chilli.*, Level 27]: f"{self.name}": u see? free client
+[2021-04-15 05:25:03]: f"{self.name}" [, Level 0]: SanoreX: XD
+[2021-04-15 05:25:03]: SanoreX [Chilli.*, Level 27]: f"{self.name}": u see? free client
