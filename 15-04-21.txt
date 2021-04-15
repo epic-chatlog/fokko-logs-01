@@ -2780,3 +2780,6 @@
 [2021-04-15 04:19:22]: ***  [, Level 0]: El patron finished in: 9 minute(s) 35.46 second(s)
 [2021-04-15 04:19:25]: ***  [, Level 0]: Zephir™sucks is on a killing spree with 5 blocks
 [2021-04-15 04:19:27]: #5 blocker [|*MorE*|, Level 24]: Zephir™sucks: stop you too
+[2021-04-15 04:19:31]: Kenshi™sucks [, Level 35]: #5 blocker: i stop
+[2021-04-15 04:19:37]: Kenshi™sucks [, Level 35]: #5 blocker: he cry
+[2021-04-15 04:19:40]: ***  [, Level 0]: 'uptotee' has left the game
