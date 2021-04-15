@@ -5122,3 +5122,8 @@
 [2021-04-15 06:12:37]: SanoreX.* [Chilli.*, Level 0]: Kezo: lan benmi
 [2021-04-15 06:12:38]: Taip [VergleriSay, Level 19]: bro
 [2021-04-15 06:12:41]: Taip [VergleriSay, Level 19]: can i farm?
+[2021-04-15 06:12:45]: SanoreX.* [Chilli.*, Level 0]: Kezo: lan benmi çünkü ben 9yaşındayım
+[2021-04-15 06:12:47]: Kezo [DogParty, Level 41]: SanoreX: aptal mert beya
+[2021-04-15 06:12:50]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
+[2021-04-15 06:12:50]: ***  [, Level 0]: '(1)kais' would have timed out, but can use timeout protection now
+[2021-04-15 06:12:52]: SanoreX.* [Chilli.*, Level 22]: Kezo: ok
