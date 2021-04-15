@@ -7304,3 +7304,5 @@
 [2021-04-15 08:38:43]: ***  [, Level 0]: 'Lucas' finished the special race!
 [2021-04-15 08:38:47]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: is there more things like this
 [2021-04-15 08:38:47]: ERROR. [404, Level 57]: xD
+[2021-04-15 08:38:57]: ***  [, Level 0]: 'darkstar2' has left the game (Timeout)
+[2021-04-15 08:38:57]: ***  [, Level 0]: 'darkstar' has left the game (Too weak connection (not acked for 60 seconds))
