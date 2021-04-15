@@ -4193,3 +4193,6 @@
 [2021-04-15 05:25:57]: Mert [Blood Gang, Level 0]: savaş istiyom he
 [2021-04-15 05:26:26]: Axandos [, Level 26]: Kezo:  ?
 [2021-04-15 05:26:26]:   [, Level 0]: oyun krallı: senin
+[2021-04-15 05:26:33]: Mert [Blood Gang, Level 0]: ne benim
+[2021-04-15 05:26:34]: Axandos² [, Level 21]: ok
+[2021-04-15 05:26:35]: Mert [Blood Gang, Level 0]: noob
