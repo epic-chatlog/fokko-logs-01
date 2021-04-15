@@ -4040,3 +4040,8 @@
 [2021-04-15 05:15:34]: SanoreX [Chilli.*, Level 27]: kr.x
 [2021-04-15 05:15:35]: SanoreX [Chilli.*, Level 27]: krx
 [2021-04-15 05:15:37]: SanoreX [Chilli.*, Level 27]: omg
+[2021-04-15 05:15:38]: SanoreX [Chilli.*, Level 27]: krx
+[2021-04-15 05:15:42]: (1)Kirito [, Level 40]: krx
+[2021-04-15 05:15:44]: ***  [, Level 0]: 'SanoreX' has been muted for 60 seconds
+[2021-04-15 05:15:45]: Mert [Blood Gang, Level 0]: noo
+[2021-04-15 05:15:46]: Mert [Blood Gang, Level 0]: pls
