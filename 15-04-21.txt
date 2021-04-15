@@ -4939,3 +4939,6 @@
 [2021-04-15 06:02:02]: oyun krallı [, Level 18]: gel vs atak
 [2021-04-15 06:02:08]: ***  [, Level 0]: Mert is on a killing spree with 10 blocks
 [2021-04-15 06:02:12]: Kezo [DogParty, Level 41]: oyun krallı: gel birkerede poliste
+[2021-04-15 06:02:41]: (1)Intensiv_ [CrazyNoobs, Level 0]: El patron:
+[2021-04-15 06:02:43]: (1)Intensiv_ [CrazyNoobs, Level 0]: El patron:  no block Taip
+[2021-04-15 06:02:45]: ***  [, Level 0]: Mert's killing spree was ended by [D] emginw (11 blocks)
