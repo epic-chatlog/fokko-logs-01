@@ -4108,3 +4108,6 @@
 [2021-04-15 05:20:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-15 05:20:55]: SanoreX [Chilli.*, Level 27]: raskrxsda
 [2021-04-15 05:21:28]: ***  [, Level 0]: '(1)Cosmo' entered and joined the game
+[2021-04-15 05:21:30]: oyun krallı [, Level 18]: flappy:help
+[2021-04-15 05:21:32]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-15 05:21:34]: Axandos [, Level 26]: Kezo:  stop this shit wtf
