@@ -2544,3 +2544,5 @@
 [2021-04-15 04:00:40]: SanoreX [Chilli.*, Level 27]: d
 [2021-04-15 04:00:41]: SanoreX [Chilli.*, Level 27]: i
 [2021-04-15 04:00:42]: ***  [, Level 0]: 'SanoreX' has been muted for 60 seconds
+[2021-04-15 04:00:50]: ***  [, Level 0]: '(1)BC|serwan' entered and joined the game
+[2021-04-15 04:00:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
