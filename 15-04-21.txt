@@ -5939,3 +5939,5 @@
 [2021-04-15 07:26:18]: (1) [, Level 40]: it isnt my taser
 [2021-04-15 07:26:18]: Kahve [, Level 23]: Axandos: why
 [2021-04-15 07:26:27]: ***  [, Level 0]: '(1)WarHammer' left the minigame 'Survival'
+[2021-04-15 07:26:36]: ***  [, Level 0]: '(1)WarHammer' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-15 07:26:40]: (1) [, Level 40]: ~DemoizL~: ce n'est pas mon taser garde tes munitions
