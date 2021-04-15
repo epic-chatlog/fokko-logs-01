@@ -3763,3 +3763,5 @@
 [2021-04-15 05:02:28]: (1)kais [, Level 66]: SanoreX: yes
 [2021-04-15 05:02:29]: ***  [, Level 0]: 'Kahve' has left the game
 [2021-04-15 05:02:29]: ***  [, Level 0]: ölüm bekçisi is on a killing spree with 20 blocks
+[2021-04-15 05:02:32]: ***  [, Level 0]: 'Intensiv__' entered and joined the game
+[2021-04-15 05:02:41]: Mert [Blood Gang, Level 0]: taip
