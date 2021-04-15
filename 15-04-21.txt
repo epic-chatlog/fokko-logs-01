@@ -7155,3 +7155,12 @@
 [2021-04-15 08:30:04]: weqe [669, Level 13]: WarHammer:
 [2021-04-15 08:30:05]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-15 08:30:06]: ***  [, Level 0]: 'Wayllan Kath' has left the game (Timeout)
+[2021-04-15 08:30:09]: Lucas [THECEPS, Level 35]: Taip: hi
+[2021-04-15 08:30:10]: BitchPlease Jr. [BBM, Level 50]: soleri1:
+[2021-04-15 08:30:12]: ***  [, Level 0]: 'Remsua Ja Fan' joined the spectators
+[2021-04-15 08:30:12]: Taip [VergleriSay, Level 19]: Lucas
+[2021-04-15 08:30:15]: ***  [, Level 0]: 'Remsua Ja Fan' joined the game
+[2021-04-15 08:30:16]: ***  [, Level 0]: 'Wayllan Kath' entered and joined the game
+[2021-04-15 08:30:16]: Taip [VergleriSay, Level 19]: bro
+[2021-04-15 08:30:16]: Lucas [THECEPS, Level 35]: Taip: ?
+[2021-04-15 08:30:18]: Taip [VergleriSay, Level 19]: how i get name
