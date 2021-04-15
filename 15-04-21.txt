@@ -1928,3 +1928,4 @@
 [2021-04-15 03:20:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-15 03:20:55]: Meetiteusz [TrRShClNrRs, Level 28]: Isegrin: niet
 [2021-04-15 03:21:03]: Isegrin [, Level 55]: Meetiteusz: ale e boie sa lepsze
+[2021-04-15 03:21:14]: Meetiteusz [TrRShClNrRs, Level 28]: Isegrin: ale kluske nie ma mieć ty
