@@ -2766,3 +2766,9 @@
 [2021-04-15 04:18:22]: Mert [Blood Gang, Level 0]: help
 [2021-04-15 04:18:27]: #5 blocker [|*MorE*|, Level 24]: weqe: and the portal?
 [2021-04-15 04:18:29]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-15 04:18:46]: ***  [, Level 0]: BC|serwan finished in: 32 minute(s)  7.68 second(s)
+[2021-04-15 04:18:46]: ***  [, Level 0]: 'BC|serwan' finished the special race!
+[2021-04-15 04:18:49]: ***  [, Level 0]: 'uptotee' has left the game
+[2021-04-15 04:18:50]: ***  [, Level 0]: [D] BC|serwan finished in: 23 minute(s)  2.44 second(s)
+[2021-04-15 04:18:50]: ***  [, Level 0]: '[D] BC|serwan' finished the special race!
+[2021-04-15 04:18:51]: ***  [, Level 0]: 'uptotee' entered and joined the game
