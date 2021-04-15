@@ -8411,3 +8411,6 @@
 [2021-04-15 10:08:10]: ***  [, Level 0]: ### 'WarHammer' xd
 [2021-04-15 10:08:12]: BLACK [, Level 25]: Coca:  help my summy
 [2021-04-15 10:08:17]: BLACK [, Level 25]: d
+[2021-04-15 10:08:24]: ***  [, Level 0]: 'ZEUS' has left the game
+[2021-04-15 10:08:24]: ***  [, Level 0]: 'Noragami' has left the game
+[2021-04-15 10:08:25]:   [, Level 0]: Zephir™: bob: who is ur bonus ?
