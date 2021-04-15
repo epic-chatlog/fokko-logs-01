@@ -1672,3 +1672,5 @@
 [2021-04-15 03:03:46]: GODLIKe [, Level 44]: fps 1
 [2021-04-15 03:03:52]: Meetiteusz [TrRShClNrRs, Level 28]: GODLIKe: thats good xD
 [2021-04-15 03:04:04]: El patron [, Level 30]: GODLIKe: why
+[2021-04-15 03:04:14]: ***  [, Level 0]: '[D] El patron' has left the game
+[2021-04-15 03:04:14]: ***  [, Level 0]: 'El patron' has left the game
