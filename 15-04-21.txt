@@ -11896,3 +11896,7 @@
 [2021-04-15 14:08:30]: ***  [, Level 0]: 'weqe' has left the game
 [2021-04-15 14:08:36]: ***  [, Level 0]: 'Tziys*' entered and joined the game
 [2021-04-15 14:08:44]: El patron [, Level 30]: Vertex: money
+[2021-04-15 14:08:59]: ***  [, Level 0]: 'Rem's bae' finished the special race!
+[2021-04-15 14:08:59]: ***  [, Level 0]: Rem's bae finished in: 2 minute(s) 54.08 second(s)
+[2021-04-15 14:09:01]: WarHammer [DogParty, Level 26]: error kral ne haber senden
+[2021-04-15 14:09:03]: ***  [, Level 0]: 'Lucas' has left the game
