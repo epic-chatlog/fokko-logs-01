@@ -5501,3 +5501,7 @@
 [2021-04-15 06:39:51]: Cylox [{TQuila}, Level 31]: heheh thx
 [2021-04-15 06:39:58]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-15 06:39:59]: [D] El patron [, Level 24]: Cylox: money
+[2021-04-15 06:40:01]: Cylox [{TQuila}, Level 31]: ?
+[2021-04-15 06:40:08]: tchief [, Level 0]: xd?
+[2021-04-15 06:40:09]: (2)cookie [, Level 0]: pay
+[2021-04-15 06:40:10]: Intensiv [CrazyNoobs, Level 12]: El patron:  help
