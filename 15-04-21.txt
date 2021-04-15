@@ -4187,3 +4187,4 @@
 [2021-04-15 05:25:18]: ***  [, Level 0]: 'SanoreX' has been muted for 60 seconds
 [2021-04-15 05:25:23]: oyun krallı [, Level 18]: ben1
 [2021-04-15 05:25:24]: Axandos [, Level 26]: Tziys*:
+[2021-04-15 05:25:34]: ***  [, Level 0]: Mert is on a killing spree with 10 blocks
