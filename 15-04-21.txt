@@ -10085,3 +10085,12 @@
 [2021-04-15 12:03:23]: ***  [, Level 0]: 'test' entered and joined the game
 [2021-04-15 12:03:25]: ***  [, Level 0]: 'test' has left the game
 [2021-04-15 12:03:25]: ***  [, Level 0]: 'Shiro.' changed name to 'GayGeneral'
+[2021-04-15 12:03:27]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-15 12:03:28]: ***  [, Level 0]: bob is on a killing spree with 5 blocks
+[2021-04-15 12:03:29]: LightGeneral [, Level 45]: xD
+[2021-04-15 12:03:31]: bob [669, Level 36]: weqe: ok u can kill him
+[2021-04-15 12:03:34]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 12:03:36]: ***  [, Level 0]: 'LightGeneral' changed name to 'LQGBTM General'
+[2021-04-15 12:03:36]: ***  [, Level 0]: 'GayGeneral' changed name to 'DarkGeneral'
+[2021-04-15 12:03:36]: Taip [VergleriSay, Level 19]: TAMAM DA
+[2021-04-15 12:03:38]: woona [, Level 48]: weqe: ?
