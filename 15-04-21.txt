@@ -8524,3 +8524,6 @@
 [2021-04-15 10:16:54]: ERROR [404, Level 75]: YelloWorlD:  uuugh come on stop being angry xD
 [2021-04-15 10:16:55]: MaMi [DogParty, Level 27]: (3)Zʷʰʸˀ: what
 [2021-04-15 10:16:57]: YelloWorlD [DogParty, Level 41]: bob: ofc he did
+[2021-04-15 10:16:59]:   [, Level 0]: bob: yes
+[2021-04-15 10:17:00]:   [, Level 0]: bob: but
+[2021-04-15 10:17:04]:   [, Level 0]: bob: he didnt know
