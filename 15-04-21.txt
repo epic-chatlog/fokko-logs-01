@@ -3726,3 +3726,11 @@
 [2021-04-15 05:00:28]: ***  [, Level 0]: 'Kahve' entered and joined the game
 [2021-04-15 05:00:29]: ***  [, Level 0]: 'Kahve' has left the game
 [2021-04-15 05:00:42]: ***  [, Level 0]: RM | Arin's killing spree was ended by #5 blocker (7 blocks)
+[2021-04-15 05:00:43]: (1)Matiteusz [TrRShClNrRs, Level 0]: Axandos: I said i didnt saw message cuz of that im playing on 2 differents ddnets
+[2021-04-15 05:00:44]: ***  [, Level 0]: 'Kahve' entered and joined the game
+[2021-04-15 05:00:47]: Mert [Blood Gang, Level 0]: ölüm bekçisi blocklama bende senş blocklamıyım
+[2021-04-15 05:00:47]: kais [, Level 58]: #5 blocker:
+[2021-04-15 05:00:48]: WarHammer [DogParty, Level 26]: intensiv kraaal
+[2021-04-15 05:00:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 05:00:50]: Axandos² [, Level 21]: k
+[2021-04-15 05:00:54]: ***  [, Level 0]: 'altee' entered and joined the game
