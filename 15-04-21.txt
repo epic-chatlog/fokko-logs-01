@@ -4441,3 +4441,8 @@
 [2021-04-15 05:39:40]: SanoreX.* [Chilli.*, Level 22]: KrX
 [2021-04-15 05:39:42]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-15 05:39:43]: SanoreX.* [Chilli.*, Level 22]: KİİRİK
+[2021-04-15 05:39:46]: SanoreX.* [Chilli.*, Level 22]: KİİRİK clİent
+[2021-04-15 05:39:47]: Flipper [, Level 16]: i dont help kirito nomore if thats why
+[2021-04-15 05:39:48]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-15 05:39:50]: Flipper [, Level 16]: but ok
+[2021-04-15 05:39:51]: SanoreX.* [Chilli.*, Level 22]: KİİRİK clIent
