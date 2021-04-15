@@ -13034,3 +13034,6 @@
 [2021-04-15 16:56:50]: (1)☺ [, Level 13]: Kirito: dummy
 [2021-04-15 16:56:56]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-15 16:57:05]: (1)Zʷʰʸˀ [NULL, Level 36]: sag ich doch.. kiddy
+[2021-04-15 16:57:10]: Kirito [{TQuila}, Level 40]: Zʷʰʸˀ: ok jungfrau
+[2021-04-15 16:57:15]: (1)Zʷʰʸˀ [NULL, Level 36]: hahahahah
+[2021-04-15 16:57:18]: Kirito [{TQuila}, Level 40]: xd
