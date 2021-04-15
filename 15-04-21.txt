@@ -5536,3 +5536,5 @@
 [2021-04-15 06:43:33]: {POLICE OFFIS} [, Level 0]: help me pls
 [2021-04-15 06:43:35]: ***  [, Level 0]: 'MieSlime' has left the game
 [2021-04-15 06:43:36]: El patron [, Level 30]: Kezo:  he wanna help Cylox
+[2021-04-15 06:43:43]: {POLICE OFFIS} [, Level 0]: flappy:
+[2021-04-15 06:43:47]: ERROR. [404, Level 57]: dont help anyone
