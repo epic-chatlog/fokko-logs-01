@@ -7855,3 +7855,4 @@
 [2021-04-15 09:15:25]: Taip [VergleriSay, Level 19]: fun war
 [2021-04-15 09:15:38]: ***  [, Level 0]: 'Isegrin' entered and joined the game
 [2021-04-15 09:15:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 09:15:58]: Cylox. [{TQuila}, Level 0]: Isegrin: nıce skın xd
