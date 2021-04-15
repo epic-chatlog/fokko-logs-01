@@ -8744,3 +8744,5 @@
 [2021-04-15 10:31:45]:   [, Level 0]: (1)Good man: (3)Zʷʰʸˀ: STOP
 [2021-04-15 10:32:00]:   [, Level 0]: (3)Zʷʰʸˀ: (1)Good man: why?
 [2021-04-15 10:32:08]: mamikral011 [DogParty, Level 0]: noo
+[2021-04-15 10:32:10]:   [, Level 0]: (1)Good man: i will hunt you
+[2021-04-15 10:32:20]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
