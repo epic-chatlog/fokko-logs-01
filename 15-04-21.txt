@@ -11429,3 +11429,5 @@
 [2021-04-15 13:10:24]: ***  [, Level 0]: 'test' entered and joined the game
 [2021-04-15 13:10:45]: test [, Level 0]: ;vote
 [2021-04-15 13:10:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-15 13:10:51]: MieSlime [FookinLads, Level 43]: El patron:  ??
+[2021-04-15 13:10:55]: El patron [, Level 30]: MieSlime: nvm
