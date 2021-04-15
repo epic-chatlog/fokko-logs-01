@@ -12428,3 +12428,7 @@
 [2021-04-15 15:10:33]: WarHammer [DogParty, Level 26]: OOOF LAG
 [2021-04-15 15:10:35]: bob [, Level 36]: i want to fill it with you
 [2021-04-15 15:10:36]: WarHammer [DogParty, Level 26]: BOOOOOB
+[2021-04-15 15:10:44]: kais [, Level 66]: bob: i'm not a hole filler, sry
+[2021-04-15 15:10:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-15 15:10:50]: ***  [, Level 0]: 'WarHammer'' has left the game
+[2021-04-15 15:10:50]: ***  [, Level 0]: 'WarHammer' has left the game
