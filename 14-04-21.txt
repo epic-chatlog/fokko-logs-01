@@ -12372,3 +12372,5 @@
 [2021-04-14 17:29:25]: ***  [, Level 0]: Flupper is on a killing spree with 5 blocks
 [2021-04-14 17:30:10]: ***  [, Level 0]: Flupper is on a killing spree with 10 blocks
 [2021-04-14 17:30:45]: Flupper [, Level 40]: i can go police?
+[2021-04-14 17:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-14 17:30:59]: Zephir™ [, Level 40]: NO
