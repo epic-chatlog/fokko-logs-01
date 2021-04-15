@@ -5525,3 +5525,4 @@
 [2021-04-15 06:42:00]: ***  [, Level 0]: 'tchief' has left the game
 [2021-04-15 06:42:07]: Flipper [, Level 16]: ~DemoizL~ i want ninja jetpack xd
 [2021-04-15 06:42:10]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-15 06:42:31]: ***  [, Level 0]: 'MieSlime' finished the special race!
