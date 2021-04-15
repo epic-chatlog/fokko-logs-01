@@ -5815,3 +5815,6 @@
 [2021-04-15 07:11:49]: ✯ | Bulash [|Supressed|, Level 0]: (1)ChillerDrago: what today/
 [2021-04-15 07:11:50]: ✯ | Bulash [|Supressed|, Level 0]: ?
 [2021-04-15 07:11:51]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-15 07:11:55]: ***  [, Level 0]: 'sheep' entered and joined the game
+[2021-04-15 07:11:58]: ***  [, Level 0]: 'sheep' has left the game
+[2021-04-15 07:11:59]: (1)ChillerDrago [Chilli.*, Level 45]: are you talking about today ✯ | Bulash ?
