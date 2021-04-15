@@ -6258,3 +6258,9 @@
 [2021-04-15 07:49:17]: Cylox [{TQuila}, Level 31]: war?
 [2021-04-15 07:49:19]: ***  [, Level 0]: 'Golden Tee' entered and joined the game
 [2021-04-15 07:49:21]: ERROR. [404, Level 57]: xD
+[2021-04-15 07:49:26]: Intensiv [CrazyNoobs, Level 12]: ERROR:  help me
+[2021-04-15 07:49:29]: Cylox [{TQuila}, Level 31]: ahhahahaha
+[2021-04-15 07:49:30]: ***  [, Level 0]: '[D] Dilkohomnki' has left the game
+[2021-04-15 07:49:30]: ***  [, Level 0]: 'Dilkohomnkiks' has left the game
+[2021-04-15 07:49:35]: Ðream [TrRShClNrRs, Level 47]: Kahve: dude can u be friend who friend for me? i cant
+[2021-04-15 07:49:36]: ERROR. [404, Level 57]: ops
