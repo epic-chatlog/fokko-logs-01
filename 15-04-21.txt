@@ -7607,3 +7607,6 @@
 [2021-04-15 08:55:30]: ***  [, Level 0]: 'Noragami' entered and joined the game
 [2021-04-15 08:55:30]: aimbot aaaaaaaa [FookinLads, Level 42]: aimbot
 [2021-04-15 08:55:36]: aimbot aaaaaaaa [FookinLads, Level 42]: aimbot
+[2021-04-15 08:55:46]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: ill try maybe xD
+[2021-04-15 08:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-15 08:55:55]: aimbot aaaaaaaa [FookinLads, Level 42]: ChillerDragon: schreib mal aimbot xd
