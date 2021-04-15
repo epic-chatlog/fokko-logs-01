@@ -8248,3 +8248,7 @@
 [2021-04-15 09:51:18]: ***  [, Level 0]: 'Sayme' entered and joined the game
 [2021-04-15 09:51:32]: ***  [, Level 0]: 'mamikral011' entered and joined the game
 [2021-04-15 09:51:38]: (1)☺ [, Level 13]: i lag
+[2021-04-15 09:51:41]: (3)BLACK [, Level 21]: what is ur ping ? (1)☺
+[2021-04-15 09:51:43]:   [, Level 0]: mamikral011: YelloWorlD: hi
+[2021-04-15 09:51:46]: ***  [, Level 0]: 'MaMi' entered and joined the game
+[2021-04-15 09:51:47]: (1)☺ [, Level 13]: 144
