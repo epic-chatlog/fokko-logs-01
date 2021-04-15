@@ -9766,3 +9766,5 @@
 [2021-04-15 11:40:30]: TZSA [, Level 0]: XD
 [2021-04-15 11:40:34]: Ƭevan [TrRShClNrRs, Level 49]: Zephir™: :D
 [2021-04-15 11:40:39]: bob [669, Level 36]: Lucas: 1 moment
+[2021-04-15 11:40:42]: Ƭevan [TrRShClNrRs, Level 49]: xD
+[2021-04-15 11:40:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
