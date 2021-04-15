@@ -12711,3 +12711,5 @@
 [2021-04-15 15:34:38]: scuf [669, Level 6]: bob: u come
 [2021-04-15 15:34:40]: ***  [, Level 0]: 'IwillBlockYou' has left the game
 [2021-04-15 15:34:40]: bob [Legacy™, Level 36]: super rainbow
+[2021-04-15 15:34:51]: BobSlave [, Level 0]: brother bob u got this
+[2021-04-15 15:34:51]: scuf [669, Level 6]: e
