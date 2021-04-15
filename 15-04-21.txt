@@ -7461,3 +7461,9 @@
 [2021-04-15 08:44:13]: ***  [, Level 0]: 'satou' has left the game
 [2021-04-15 08:44:15]: ***  [, Level 0]: '[D] tee' has left the game
 [2021-04-15 08:44:15]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-15 08:44:17]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-15 08:44:18]: ***  [, Level 0]: 'Cosmo' has left the game
+[2021-04-15 08:44:21]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-15 08:44:21]: (1)ChillerDrago [Chilli.*, Level 45]: u didnt help [D] El patron
+[2021-04-15 08:44:25]: woona [, Level 48]: (1)ChillerDrago: do you know Hamza53*
+[2021-04-15 08:44:28]: woona [, Level 48]: ?
