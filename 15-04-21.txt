@@ -12886,3 +12886,5 @@
 [2021-04-15 16:17:47]: ***  [, Level 0]: '(1)RM | Arin' has left the game
 [2021-04-15 16:17:51]: ***  [, Level 0]: '[D] Guardian' entered and joined the game
 [2021-04-15 16:18:10]: weqe [669, Level 13]: nice Kirito im so proud
+[2021-04-15 16:18:14]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
+[2021-04-15 16:18:18]: Kirito [{TQuila}, Level 40]: weqe: Thank you <3
