@@ -6855,3 +6855,9 @@
 [2021-04-15 08:19:13]: ***  [, Level 0]: 'woona' has left the game
 [2021-04-15 08:19:17]: ERROR. [404, Level 57]: xD
 [2021-04-15 08:19:24]: Lucas [THECEPS, Level 35]: coca: faster maybe
+[2021-04-15 08:19:32]:   [, Level 0]: (1)Cylox.: weqe: sad
+[2021-04-15 08:19:32]: coca [, Level 16]: Lucas: :)
+[2021-04-15 08:19:34]: Recep [VergleriSay, Level 10]: bro
+[2021-04-15 08:19:35]: ERROR. [404, Level 57]: Axandos:  u alive?
+[2021-04-15 08:19:36]: Recep [VergleriSay, Level 10]: ü
+[2021-04-15 08:19:38]: Taip [VergleriSay, Level 19]: hey
