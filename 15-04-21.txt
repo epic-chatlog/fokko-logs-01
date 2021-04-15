@@ -4190,3 +4190,4 @@
 [2021-04-15 05:25:34]: ***  [, Level 0]: Mert is on a killing spree with 10 blocks
 [2021-04-15 05:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-15 05:25:52]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 10 blocks
+[2021-04-15 05:25:57]: Mert [Blood Gang, Level 0]: savaş istiyom he
