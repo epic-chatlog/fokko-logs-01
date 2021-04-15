@@ -3907,3 +3907,8 @@
 [2021-04-15 05:08:53]: ***  [, Level 0]: 'oyun krallı' entered and joined the game
 [2021-04-15 05:08:54]: Mert [Blood Gang, Level 0]: code
 [2021-04-15 05:08:56]: Recep [VergleriSay, Level 10]: i give you 36k
+[2021-04-15 05:09:01]: Mert [Blood Gang, Level 0]: very long code
+[2021-04-15 05:09:01]: Recep [VergleriSay, Level 10]: 1-2 h ago
+[2021-04-15 05:09:04]: Matiteusz [TrRShClNrRs, Level 36]: Kirito: btw
+[2021-04-15 05:09:06]: Recep [VergleriSay, Level 10]: my main
+[2021-04-15 05:09:08]: Recep [VergleriSay, Level 10]: have 36 k
