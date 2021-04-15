@@ -11927,3 +11927,6 @@
 [2021-04-15 14:11:28]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
 [2021-04-15 14:11:30]: ***  [, Level 0]: '[D] El patron' has left the game
 [2021-04-15 14:11:34]: WarHammer [DogParty, Level 26]: El patron:  HELP
+[2021-04-15 14:11:43]: YelloWorlD [DogParty, Level 0]: Luna: lunie ?
+[2021-04-15 14:11:50]: ***  [, Level 0]: Rem's dummy finished in: 6 minute(s) 59.94 second(s)
+[2021-04-15 14:11:50]: ***  [, Level 0]: 'Rem's dummy' finished the special race!
