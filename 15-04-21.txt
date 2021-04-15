@@ -11314,3 +11314,8 @@
 [2021-04-15 13:01:28]: ***  [, Level 0]: 'Marcisten' has left the game
 [2021-04-15 13:01:35]: grrra [, Level 0]: WHAT NOW
 [2021-04-15 13:01:36]: grrra [, Level 0]: AHH
+[2021-04-15 13:01:40]: ***  [, Level 0]: '(1)Cosmo' has left the game (Timeout)
+[2021-04-15 13:01:40]: ***  [, Level 0]: 'Cosmo' has left the game (Timeout)
+[2021-04-15 13:01:46]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-15 13:01:46]: ***  [, Level 0]: 'woona' has left the game
+[2021-04-15 13:01:50]: Shiro, [Whɪтє, Level 51]: dude ur dumb or what go right
