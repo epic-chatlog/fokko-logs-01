@@ -5670,3 +5670,5 @@
 [2021-04-15 06:57:05]: ***  [, Level 0]: '[D] Dilkohomnki' entered and joined the game
 [2021-04-15 06:57:12]: ***  [, Level 0]: 'SanoreX.*' has left the game (Timeout Protection over)
 [2021-04-15 06:57:12]: ***  [, Level 0]: 'SanoreX' has left the game (Timeout Protection over)
+[2021-04-15 06:57:39]: ***  [, Level 0]: 'nameless tee' would have timed out, but can use timeout protection now
+[2021-04-15 06:57:42]: [D] El patron [, Level 24]: ✯ | Bulash: ?
