@@ -11962,3 +11962,5 @@
 [2021-04-15 14:15:27]: YelloWorlD [DogParty, Level 0]: Zephir™: merci
 [2021-04-15 14:15:37]: Zephir™ [, Level 40]: YelloWorlD: dit pas que je te save pas après
 [2021-04-15 14:15:37]: ✯|Not Bulash [|Supressed|, Level 0]: Zephir™: ok war
+[2021-04-15 14:15:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-15 14:15:56]: ~DemoizL~ [, Level 39]: xD
