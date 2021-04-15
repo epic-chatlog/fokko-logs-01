@@ -7262,3 +7262,9 @@
 [2021-04-15 08:35:53]: ***  [, Level 0]: 'Jabłuszko' has left the game
 [2021-04-15 08:35:57]: ***  [, Level 0]: 'Jabłuszko' entered and joined the game
 [2021-04-15 08:36:03]: ERROR. [404, Level 57]: troll
+[2021-04-15 08:36:15]: Killua [FookinLads, Level 37]: uk how hard it is
+[2021-04-15 08:36:16]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-15 08:36:17]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: its a lot of funny things i didnt know
+[2021-04-15 08:36:19]: Lucas [THECEPS, Level 35]: coca: thx
+[2021-04-15 08:36:20]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-15 08:36:22]: Killua [FookinLads, Level 37]: to play with these lag spikes ERROR :c
