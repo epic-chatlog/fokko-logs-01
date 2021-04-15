@@ -8711,3 +8711,6 @@
 [2021-04-15 10:30:05]: mamikral011 [DogParty, Level 0]: YelloWorlD:
 [2021-04-15 10:30:05]: ***  [, Level 0]: 'random guy' entered and joined the game
 [2021-04-15 10:30:06]: ***  [, Level 0]: 'random guy' has left the game
+[2021-04-15 10:30:08]:   [, Level 0]: MOM: [D] Dilkohomnki: no help more for you
+[2021-04-15 10:30:11]: ***  [, Level 0]: 'cya' entered and joined the game
+[2021-04-15 10:30:15]: ***  [, Level 0]: '[D] cya' entered and joined the game
