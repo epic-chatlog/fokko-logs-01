@@ -5756,3 +5756,7 @@
 [2021-04-15 07:06:16]: [D] El patron [, Level 24]: ERROR: wieso
 [2021-04-15 07:06:20]: ***  [, Level 0]: 'arther' joined the spectators
 [2021-04-15 07:06:23]: ***  [, Level 0]: 'arther' joined the game
+[2021-04-15 07:06:43]: ***  [, Level 0]: 'arther' joined the spectators
+[2021-04-15 07:06:45]: ***  [, Level 0]: 'hmmmm' has left the game
+[2021-04-15 07:06:46]: ***  [, Level 0]: 'BitchPlease Jr.' finished the special race!
+[2021-04-15 07:06:46]: ***  [, Level 0]: 'arther' joined the game
