@@ -7871,3 +7871,7 @@
 [2021-04-15 09:19:59]: ***  [, Level 0]: '(3)Kirito' would have timed out, but can use timeout protection now
 [2021-04-15 09:20:00]: ***  [, Level 0]: '(2)Kirito' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-15 09:20:00]: ***  [, Level 0]: 'Kirito' has left the game (Timeout)
+[2021-04-15 09:20:07]: Axandos [, Level 26]: BOOOOM
+[2021-04-15 09:20:11]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-15 09:20:15]: (3)Zʷʰʸˀ [NULL, Level 26]: darkstar: why u even block me?
+[2021-04-15 09:20:15]: Axandos [, Level 26]: PFUAIASSD
