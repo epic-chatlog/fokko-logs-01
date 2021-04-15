@@ -7891,3 +7891,6 @@
 [2021-04-15 09:21:42]: Axandos [, Level 26]: fick meine eier
 [2021-04-15 09:21:58]:   [, Level 0]: YelloWorlD: darkstar: c comment basoka
 [2021-04-15 09:22:00]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-15 09:22:06]: YelloWorlD [DogParty, Level 0]: Not Zerstrian: ty
+[2021-04-15 09:22:08]: Cylox [{TQuila}, Level 31]: flappy: fuck blocker
+[2021-04-15 09:22:11]: ***  [, Level 0]: 'GOLD' entered and joined the game
