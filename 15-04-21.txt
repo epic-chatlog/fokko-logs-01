@@ -8093,3 +8093,5 @@
 [2021-04-15 09:40:40]:   [, Level 0]: weqe: (3)BLACK:
 [2021-04-15 09:40:42]: Coca [Drunks, Level 16]: (づ｡◕‿‿◕｡)づ
 [2021-04-15 09:40:43]: YelloWorlD [DogParty, Level 41]: ERROR: who's enemy
+[2021-04-15 09:40:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-15 09:40:51]: ERROR. [404, Level 57]: milk gays YelloWorlD
