@@ -12250,3 +12250,4 @@
 [2021-04-14 17:05:37]: Flupper [, Level 40]: he just said he isnt gonna come down
 [2021-04-14 17:05:38]: Flupper [, Level 40]: xd
 [2021-04-14 17:05:41]: Flupper [, Level 40]: but whatever
+[2021-04-14 17:05:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
