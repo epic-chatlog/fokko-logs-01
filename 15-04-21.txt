@@ -6413,3 +6413,7 @@
 [2021-04-15 07:55:32]: (3)Kirito [, Level 40]: Cylox:
 [2021-04-15 07:55:36]: ERROR [404, Level 75]: xD
 [2021-04-15 07:55:36]: ERROR. [404, Level 57]: xD
+[2021-04-15 07:55:45]: ***  [, Level 0]: Matiteusz finished in: 1 minute(s)  5.46 second(s)
+[2021-04-15 07:55:49]: ***  [, Level 0]: 'Kahve' has left the game
+[2021-04-15 07:55:49]: ***  [, Level 0]: '[D] Kahve' has left the game
+[2021-04-15 07:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
