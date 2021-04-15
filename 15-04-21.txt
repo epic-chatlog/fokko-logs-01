@@ -8546,3 +8546,6 @@
 [2021-04-15 10:18:51]: WarHammer [DogParty, Level 17]: WarHammer:  lag
 [2021-04-15 10:18:53]: WarHammer [DogParty, Level 17]: MaMi:  lag
 [2021-04-15 10:18:55]: ***  [, Level 0]: 'El patron' entered and joined the game
+[2021-04-15 10:19:00]: YelloWorlD [DogParty, Level 41]: any: il a tres bien vu que je le block il l'aide
+[2021-04-15 10:19:01]: any [404, Level 38]: YelloWorlD : okeee okeeee calme twa
+[2021-04-15 10:19:05]: Coca [Drunks, Level 16]: ERROR.: help me
