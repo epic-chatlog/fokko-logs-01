@@ -4868,3 +4868,5 @@
 [2021-04-15 05:59:07]: [D] El patron [, Level 24]: (1)Intensiv_: funą
 [2021-04-15 05:59:07]: ***  [, Level 0]: 'namelesstee' has left the game
 [2021-04-15 05:59:20]: [D] El patron [, Level 24]: (2)cookie: look
+[2021-04-15 05:59:28]: (1)Intensiv_ [CrazyNoobs, Level 0]: El patron:  ? what
+[2021-04-15 05:59:30]: ***  [, Level 0]: Mert's killing spree was ended by (1) (8 blocks)
