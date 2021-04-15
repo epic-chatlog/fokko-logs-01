@@ -5950,3 +5950,4 @@
 [2021-04-15 07:28:03]: ***  [, Level 0]: 'Cosmo' entered and joined the game
 [2021-04-15 07:28:17]: Taip [VergleriSay, Level 19]: help please
 [2021-04-15 07:28:28]: cookie [, Level 20]: flappy:  help (2)cookie
+[2021-04-15 07:28:40]: (1) [, Level 40]: you fucking idiot
