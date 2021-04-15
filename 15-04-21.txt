@@ -4934,3 +4934,7 @@
 [2021-04-15 06:01:57]: oyun krallı [, Level 18]: gel vs atak
 [2021-04-15 06:01:59]: ERROR [, Level 75]: SanoreX:  muted
 [2021-04-15 06:01:59]: SanoreX.* [Chilli.*, Level 22]: plz
+[2021-04-15 06:02:01]: ***  [, Level 0]: 'SanoreX.*' has been muted for 60 seconds
+[2021-04-15 06:02:01]: ***  [, Level 0]: 'Kahve' entered and joined the game
+[2021-04-15 06:02:02]: oyun krallı [, Level 18]: gel vs atak
+[2021-04-15 06:02:08]: ***  [, Level 0]: Mert is on a killing spree with 10 blocks
