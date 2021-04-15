@@ -2735,3 +2735,8 @@
 [2021-04-15 04:14:56]: Mert [Blood Gang, Level 0]: pls
 [2021-04-15 04:15:05]: Mert [Blood Gang, Level 0]: no
 [2021-04-15 04:15:07]: Mert [Blood Gang, Level 0]: noooooo
+[2021-04-15 04:15:22]: Mert [Blood Gang, Level 0]: noooooooo
+[2021-04-15 04:15:25]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-15 04:15:25]: ***  [, Level 0]: 'Jerry' has left the game
+[2021-04-15 04:15:25]: Mert [Blood Gang, Level 0]: pls
+[2021-04-15 04:15:28]: Mert [Blood Gang, Level 0]: why
