@@ -2693,3 +2693,9 @@
 [2021-04-15 04:10:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-15 04:10:51]: Taip [VergleriSay, Level 19]: look wanted
 [2021-04-15 04:10:51]: cookie [, Level 20]: Taip:  oow oke
+[2021-04-15 04:10:57]: Taip [VergleriSay, Level 19]: if have wanted
+[2021-04-15 04:11:03]: Taip [VergleriSay, Level 19]: u in wanted
+[2021-04-15 04:11:04]: Meliodas [, Level 24]: FUCK U LAG
+[2021-04-15 04:11:06]: Taip [VergleriSay, Level 19]: i freeze
+[2021-04-15 04:11:06]: cookie [, Level 20]: Taip:  yes
+[2021-04-15 04:11:07]: ***  [, Level 0]: 'Taip' has been muted for 60 seconds
