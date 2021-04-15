@@ -5557,3 +5557,5 @@
 [2021-04-15 06:46:05]: ***  [, Level 0]: 'power' has left the game
 [2021-04-15 06:46:06]: SanoreX [Chilli.*, Level 27]: {POLICE OFFIS}: or war
 [2021-04-15 06:46:11]: (2)cookie [, Level 0]: im not so good
+[2021-04-15 06:46:18]: SanoreX [Chilli.*, Level 27]: {POLICE OFFIS}: war?
+[2021-04-15 06:46:22]: {POLICE OFFIS} [, Level 0]: no?
