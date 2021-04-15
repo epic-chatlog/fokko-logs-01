@@ -12842,3 +12842,4 @@
 [2021-04-15 15:59:33]: Kirito [{TQuila}, Level 40]: RM | Arin: call?
 [2021-04-15 15:59:38]: RM | Arin [Retard MNKY, Level 0]: Jetpack
 [2021-04-15 15:59:39]: RM | Arin [Retard MNKY, Level 0]: yes
+[2021-04-15 16:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
