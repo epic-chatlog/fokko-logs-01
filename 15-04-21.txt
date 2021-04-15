@@ -5682,3 +5682,4 @@
 [2021-04-15 06:59:14]: ERROR. [404, Level 57]: U WAS GHOST
 [2021-04-15 06:59:15]: IwillBlockYou [, Level 0]: flappy hi
 [2021-04-15 06:59:19]: ***  [, Level 0]: 'HeavyGeneral' entered and joined the game
+[2021-04-15 06:59:27]: ERROR. [404, Level 57]: HOW SHOULD I KNOW'
