@@ -6467,3 +6467,7 @@
 [2021-04-15 07:58:16]: (3)Kirito [, Level 40]: Cylox:
 [2021-04-15 07:58:19]: ***  [, Level 0]: Cosmo finished in: 1 minute(s) 40.66 second(s)
 [2021-04-15 07:58:19]: ***  [, Level 0]: New record: 1 minute(s) 57.84 second(s) better.
+[2021-04-15 07:58:24]: (3)Kirito [, Level 40]: Cylox: FAST
+[2021-04-15 07:58:27]: (3)Kirito [, Level 40]: Cylox: oMHG
+[2021-04-15 07:58:33]: Cylox. [{TQuila}, Level 0]: lag
+[2021-04-15 07:58:34]: Killua [FookinLads, Level 0]: HeavyGeneral: ??/
