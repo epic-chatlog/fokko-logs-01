@@ -2261,3 +2261,5 @@
 [2021-04-15 03:40:15]: ***  [, Level 0]: 'coca' finished the special race!
 [2021-04-15 03:40:16]: RM | Arin [Retard MNKY, Level 0]: dx
 [2021-04-15 03:40:18]: RM | Arin [Retard MNKY, Level 0]: xD
+[2021-04-15 03:40:20]: ***  [, Level 0]: '(1)ChillerDragon' has left the game (Timeout)
+[2021-04-15 03:40:27]: ***  [, Level 0]: Soros is on a killing spree with 15 blocks
