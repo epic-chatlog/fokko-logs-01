@@ -5935,3 +5935,4 @@
 [2021-04-15 07:25:57]: ***  [, Level 0]: 'WarHammer' would have timed out, but can use timeout protection now
 [2021-04-15 07:25:57]: ***  [, Level 0]: 'WarHammer'' would have timed out, but can use timeout protection now
 [2021-04-15 07:26:02]: ***  [, Level 0]: '☺' entered and joined the game
+[2021-04-15 07:26:07]: ***  [, Level 0]: '(1)WarHammer' joined the minigame 'Survival', use '/survival' to join aswell
