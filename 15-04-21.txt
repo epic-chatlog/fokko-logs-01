@@ -8422,3 +8422,6 @@
 [2021-04-15 10:09:01]: ***  [, Level 0]: 'Cosmo' has left the game
 [2021-04-15 10:09:03]:   [, Level 0]: WarHammer: any:  ?
 [2021-04-15 10:09:15]: any [404, Level 38]: WarHammer u have war (prob for long time)
+[2021-04-15 10:09:25]:   [, Level 0]: WarHammer: any:  WİTH U ?
+[2021-04-15 10:09:26]: (1)Sayme [, Level 0]: Axel: sorry
+[2021-04-15 10:09:31]: Axel [TrRShClNrRs, Level 30]: Sayme: no problem
