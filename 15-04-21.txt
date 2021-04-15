@@ -7993,3 +7993,4 @@
 [2021-04-15 09:31:40]: any [404, Level 38]: YelloWorlD:
 [2021-04-15 09:31:41]: ***  [, Level 0]: '(1)☺' entered and joined the game
 [2021-04-15 09:31:41]: ***  [, Level 0]: '(1)☺' has left the game
+[2021-04-15 09:31:50]: ***  [, Level 0]: '(1)☺' entered and joined the game
