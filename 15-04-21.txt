@@ -10105,3 +10105,10 @@
 [2021-04-15 12:03:59]: ***  [, Level 0]: 'test' entered and joined the game
 [2021-04-15 12:04:00]:   [, Level 0]: weqe: bob: he is gay
 [2021-04-15 12:04:01]: (3)Zʷʰʸˀ [NULL, Level 26]: Zephir™: help pls
+[2021-04-15 12:04:03]: bob [669, Level 36]: why
+[2021-04-15 12:04:04]: Bombi.YT [, Level 38]: I like turtles.
+[2021-04-15 12:04:06]:   [, Level 0]: weqe: bob: he block i
+[2021-04-15 12:04:08]: bob [669, Level 36]: ok sry
+[2021-04-15 12:04:09]: Taip [VergleriSay, Level 19]: bekle
+[2021-04-15 12:04:11]: darkstar4 [, Level 11]: noo
+[2021-04-15 12:04:14]: Taip [VergleriSay, Level 19]: bekle
