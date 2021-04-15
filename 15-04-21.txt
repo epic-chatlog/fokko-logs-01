@@ -3723,3 +3723,5 @@
 [2021-04-15 05:00:18]: Mert [Blood Gang, Level 0]: arin no
 [2021-04-15 05:00:18]: ***  [, Level 0]: RM | Arin is on a killing spree with 5 blocks
 [2021-04-15 05:00:18]: Axandos [, Level 26]: what did i just say Meetiteusz
+[2021-04-15 05:00:28]: ***  [, Level 0]: 'Kahve' entered and joined the game
+[2021-04-15 05:00:29]: ***  [, Level 0]: 'Kahve' has left the game
