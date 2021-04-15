@@ -12656,3 +12656,7 @@
 [2021-04-15 15:29:05]: power [TrRShClNrRs, Level 15]: yes
 [2021-04-15 15:29:09]: bob [Legacy™, Level 36]: ok
 [2021-04-15 15:29:14]: bob [Legacy™, Level 36]: iwant it back
+[2021-04-15 15:29:22]: power [TrRShClNrRs, Level 15]: BobSlave: got grenade now
+[2021-04-15 15:29:25]: BobSlave [, Level 0]: nop
+[2021-04-15 15:29:26]: bob [Legacy™, Level 36]: give back
+[2021-04-15 15:29:28]: bob [Legacy™, Level 36]: poww
