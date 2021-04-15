@@ -5509,3 +5509,8 @@
 [2021-04-15 06:40:33]: El patron [, Level 30]: Cylox: money
 [2021-04-15 06:40:37]: Cylox [{TQuila}, Level 31]: ????
 [2021-04-15 06:40:48]: Cylox [{TQuila}, Level 31]: vermem olm ashkjfbg
+[2021-04-15 06:40:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 06:40:56]: tchief [, Level 0]: nooooooooo
+[2021-04-15 06:40:58]: tchief [, Level 0]: run
+[2021-04-15 06:41:00]: Intensiv [CrazyNoobs, Level 12]: ?
+[2021-04-15 06:41:01]: Intensiv [CrazyNoobs, Level 12]: El patron:  ?
