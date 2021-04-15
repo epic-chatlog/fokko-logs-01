@@ -11737,3 +11737,5 @@
 [2021-04-15 13:45:13]: HeavyGeneral [FookinLads, Level 44]: Pizda Mysor xaxa0))
 [2021-04-15 13:45:18]: ***  [, Level 0]: (2)Zʷʰʸˀ is on a killing spree with 5 blocks
 [2021-04-15 13:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-15 13:46:27]: [D] El patron [, Level 0]: xd
+[2021-04-15 13:46:30]: Terra [, Level 0]: oops
