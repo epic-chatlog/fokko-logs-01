@@ -11619,3 +11619,4 @@
 [2021-04-15 13:32:53]: (1)ChillerDrago [Chilli.*, Level 45]: when Zephir™
 [2021-04-15 13:32:56]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-15 13:32:59]: Zephir™ [, Level 40]: ChillerDragon: Zephir™ im Kenshi™
+[2021-04-15 13:33:16]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
