@@ -11659,3 +11659,4 @@
 [2021-04-15 13:35:48]: El patron [, Level 30]: wtf
 [2021-04-15 13:35:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-15 13:35:52]: ***  [, Level 0]: 'lessname' has left the game
+[2021-04-15 13:35:54]: ***  [, Level 0]: 'TEEKING' has left the game
