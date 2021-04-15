@@ -9470,3 +9470,6 @@
 [2021-04-15 11:16:31]: Zephir™ [, Level 40]: JustRace: fight ?
 [2021-04-15 11:16:31]:   [, Level 0]: woona: any: stfu Kenshi™ dog
 [2021-04-15 11:16:31]: (1)☺ [, Level 13]: any²:
+[2021-04-15 11:16:43]: JustRace. [DogParty, Level 29]: cl_aimbot 1
+[2021-04-15 11:16:45]: ***  [, Level 0]: '(1)Shy-ra.' has left the game
+[2021-04-15 11:16:48]: El patron [, Level 30]: Not Zerstrian:
