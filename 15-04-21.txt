@@ -5687,3 +5687,6 @@
 [2021-04-15 06:59:54]: ***  [, Level 0]: 'lessname' has left the game
 [2021-04-15 06:59:57]: ERROR. [404, Level 57]: Not Zerstrian:  bruh i dont watch flags and vlvl
 [2021-04-15 07:00:09]: cookie [, Level 20]: ✯|Not Bulash:  wtf dude
+[2021-04-15 07:00:14]: Not Zerstrian [, Level 50]: pff.. kk, all good :)
+[2021-04-15 07:00:14]: ***  [, Level 0]: 'power' has left the game
+[2021-04-15 07:00:17]: ERROR. [404, Level 57]: xD
