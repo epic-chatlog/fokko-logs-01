@@ -8621,3 +8621,5 @@
 [2021-04-15 10:24:01]:   [, Level 0]: (1)☺: Shy-ra.:
 [2021-04-15 10:24:03]: (3)Zʷʰʸˀ [NULL, Level 26]: Coca: no?
 [2021-04-15 10:24:04]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-15 10:24:19]:   [, Level 0]: (1)☺: bob:
+[2021-04-15 10:24:19]: GOLD [404, Level 40]: (1)☺: hier t'etait tout passif quand il etait pas la sale merde
