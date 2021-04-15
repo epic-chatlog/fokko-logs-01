@@ -5601,3 +5601,6 @@
 [2021-04-15 06:48:40]: SanoreX.* [Chilli.*, Level 22]: ERROR: ok I found players
 [2021-04-15 06:48:45]: SanoreX [Chilli.*, Level 27]: or farm at here
 [2021-04-15 06:48:46]: ***  [, Level 0]: 642. Kezo Time: 02:03.06, requested by Kezo
+[2021-04-15 06:48:51]: Cylox. [{TQuila}, Level 0]: Intensiv: he kanka
+[2021-04-15 06:48:57]: Intensiv [CrazyNoobs, Level 12]: para vamrı üstünde
+[2021-04-15 06:49:01]: SanoreX [Chilli.*, Level 27]: Kezo: versene onu
