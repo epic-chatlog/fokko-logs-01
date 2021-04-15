@@ -7734,3 +7734,9 @@
 [2021-04-15 09:02:02]: ***  [, Level 0]: 'darkstar2' finished the special race!
 [2021-04-15 09:02:02]: BLACK [, Level 25]: Axandos: what now
 [2021-04-15 09:02:04]: ***  [, Level 0]: '✯|Not Bulash' entered and joined the game
+[2021-04-15 09:02:08]: ***  [, Level 0]: 'darkstar' finished the special race!
+[2021-04-15 09:02:08]: Axandos² [, Level 21]: idk BLACK
+[2021-04-15 09:02:08]: ***  [, Level 0]: 'zZzerayI' entered and joined the game
+[2021-04-15 09:02:12]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: something
+[2021-04-15 09:02:16]: Ƭevan [TrRShClNrRs, Level 49]: yea
+[2021-04-15 09:02:19]: ***  [, Level 0]: '(3)BLACK' entered and joined the game
