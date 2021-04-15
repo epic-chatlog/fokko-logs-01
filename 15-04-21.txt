@@ -8116,3 +8116,6 @@
 [2021-04-15 09:42:54]:   [, Level 0]: weqe: zZz: come help noob
 [2021-04-15 09:42:58]: YelloWorlD [DogParty, Level 41]: Taip: cant
 [2021-04-15 09:43:00]: (3)BLACK [, Level 21]: Coca:
+[2021-04-15 09:43:09]: Taip [DogParty, Level 19]: but i can write clan name DogParty
+[2021-04-15 09:43:09]: zZz [{D}, Level 0]: weqe: ?
+[2021-04-15 09:43:11]: zZz [{D}, Level 0]: weqe: noob
