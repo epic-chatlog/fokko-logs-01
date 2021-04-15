@@ -919,3 +919,8 @@
 [2021-04-15 02:19:07]: ***  [, Level 0]: 'Mert' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-15 02:19:09]: mamikral011 [DogParty, Level 0]: WarHammer': bişe olmaz
 [2021-04-15 02:19:10]: Mert [Blood Gang, Level 2]: eeeeeee
+[2021-04-15 02:19:16]: ***  [, Level 0]: '[D] satou' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-15 02:19:21]: SanoreX [Chilli.*, Level 27]: bekleyin
+[2021-04-15 02:19:22]: Nudelsaft c: [FookinLads, Level 42]: I like turtles.
+[2021-04-15 02:19:26]: satou [, Level 7]: SanoreX: gel
+[2021-04-15 02:19:27]: Mista bombastic [TrRShClNrRs, Level 40]: bruh
