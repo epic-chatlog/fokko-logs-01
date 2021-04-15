@@ -10418,3 +10418,10 @@
 [2021-04-15 12:16:09]: bob [669, Level 36]: brother nice
 [2021-04-15 12:16:17]: ***  [, Level 0]: '(1)test' entered and joined the game
 [2021-04-15 12:16:19]:   [, Level 0]: SanoreX.*: oldumu
+[2021-04-15 12:16:21]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-15 12:16:22]:   [, Level 0]: SanoreX.*: hacker omg
+[2021-04-15 12:16:23]: weqe [669, Level 13]: bob: wtf ?
+[2021-04-15 12:16:25]: bob [669, Level 36]: wtf
+[2021-04-15 12:16:27]: Bombi.YT [, Level 38]: bob: du erinnerst dich rly nicht
+[2021-04-15 12:16:28]: woona [, Level 48]: SanoreX: baglandım
+[2021-04-15 12:16:29]: Zephir™ [, Level 40]: Nudelsaft c:: come
