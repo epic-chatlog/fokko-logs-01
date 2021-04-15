@@ -7760,3 +7760,5 @@
 [2021-04-15 09:04:07]: ***  [, Level 0]: 'Kiøn1029' has left the game
 [2021-04-15 09:04:07]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: shoot laser and spectate with ur dummy
 [2021-04-15 09:04:16]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: not like that xD
+[2021-04-15 09:04:20]: ***  [, Level 0]: 'Telefantastic' entered and joined the game
+[2021-04-15 09:04:28]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: ur not shooting right
