@@ -8111,3 +8111,8 @@
 [2021-04-15 09:42:45]: (3)BLACK [, Level 21]: xD
 [2021-04-15 09:42:47]: YelloWorlD [DogParty, Level 41]: Taip: cant
 [2021-04-15 09:42:48]: Coca [Drunks, Level 16]: YelloWorlD: why(
+[2021-04-15 09:42:52]: Taip [DogParty, Level 19]: but i enter
+[2021-04-15 09:42:53]: Taip [DogParty, Level 19]: wth
+[2021-04-15 09:42:54]:   [, Level 0]: weqe: zZz: come help noob
+[2021-04-15 09:42:58]: YelloWorlD [DogParty, Level 41]: Taip: cant
+[2021-04-15 09:43:00]: (3)BLACK [, Level 21]: Coca:
