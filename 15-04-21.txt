@@ -10081,3 +10081,7 @@
 [2021-04-15 12:02:55]: bob [669, Level 36]: weqe: show himn whos boss right
 [2021-04-15 12:03:02]:   [, Level 0]: weqe: bob: prob is i dont have bonuses
 [2021-04-15 12:03:02]: Shiro. [404, Level 42]: nob taser
+[2021-04-15 12:03:19]: Shiro. [404, Level 42]: xaxaax
+[2021-04-15 12:03:23]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-15 12:03:25]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 12:03:25]: ***  [, Level 0]: 'Shiro.' changed name to 'GayGeneral'
