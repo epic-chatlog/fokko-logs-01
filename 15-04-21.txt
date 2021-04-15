@@ -12698,3 +12698,5 @@
 [2021-04-15 15:32:29]: BobSlave [, Level 0]: ez
 [2021-04-15 15:33:43]: scuf [669, Level 6]: flappy: u friend?
 [2021-04-15 15:33:53]: power [TrRShClNrRs, Level 15]: fallpy drunk+
+[2021-04-15 15:34:03]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-15 15:34:08]: bob [Legacy™, Level 36]: BobSlave: show him whos real boss
