@@ -12700,3 +12700,6 @@
 [2021-04-15 15:33:53]: power [TrRShClNrRs, Level 15]: fallpy drunk+
 [2021-04-15 15:34:03]: ***  [, Level 0]: 'power2' entered and joined the game
 [2021-04-15 15:34:08]: bob [Legacy™, Level 36]: BobSlave: show him whos real boss
+[2021-04-15 15:34:12]: scuf [669, Level 6]: :((
+[2021-04-15 15:34:13]: BobSlave [, Level 0]: eZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[2021-04-15 15:34:20]: scuf [669, Level 6]: its too hard
