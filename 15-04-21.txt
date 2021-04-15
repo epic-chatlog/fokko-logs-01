@@ -12386,3 +12386,5 @@
 [2021-04-15 15:04:48]: WarHammer [DogParty, Level 26]: nice flag
 [2021-04-15 15:04:54]: WarHammer [DogParty, Level 26]: xd
 [2021-04-15 15:05:06]: WarHammer [DogParty, Level 26]: ~DemoizL~:  come
+[2021-04-15 15:05:16]: WarHammer [DogParty, Level 26]: hi bob
+[2021-04-15 15:05:20]: bob [, Level 36]: hello
