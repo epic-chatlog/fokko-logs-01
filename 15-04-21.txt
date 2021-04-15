@@ -8857,3 +8857,5 @@
 [2021-04-15 10:40:53]: ***  [, Level 0]: New record: 2 minute(s) 37.70 second(s) better.
 [2021-04-15 10:41:05]: ***  [, Level 0]: cya finished in: 1 minute(s) 58.16 second(s)
 [2021-04-15 10:41:05]: ***  [, Level 0]: New record: 49.64 second(s) better.
+[2021-04-15 10:41:08]: cya [, Level 42]: XD
+[2021-04-15 10:41:08]: cunt [, Level 0]: Lucas: gay
