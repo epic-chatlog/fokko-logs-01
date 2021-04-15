@@ -9644,3 +9644,7 @@
 [2021-04-15 11:29:45]: BitchPlease Jr. [BBM, Level 50]: just drag hjim
 [2021-04-15 11:29:54]:   [, Level 0]: JustRace: ERROR:  bob'sin the right
 [2021-04-15 11:29:56]: Zephir™ [, Level 40]: ERROR: he betrayed me -.-
+[2021-04-15 11:30:04]: (1)Sayme [, Level 0]: flappy: crashed
+[2021-04-15 11:30:07]: ***  [, Level 0]: 'JustRace' left the minigame 'Block'
+[2021-04-15 11:30:10]: ***  [, Level 0]: 'GODLIKe.' has left the game
+[2021-04-15 11:30:10]: ***  [, Level 0]: 'GODLIKe' has left the game
