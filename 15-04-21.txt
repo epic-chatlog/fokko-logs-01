@@ -7841,3 +7841,6 @@
 [2021-04-15 09:13:26]: ***  [, Level 0]: 'Ƭevan' has left the game
 [2021-04-15 09:13:26]: ***  [, Level 0]: 'Ðream' has left the game
 [2021-04-15 09:13:53]: ***  [, Level 0]: 'Cylox' finished the special race!
+[2021-04-15 09:14:23]: ***  [, Level 0]: 'Taip' entered and joined the game
+[2021-04-15 09:14:24]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-15 09:14:29]: ***  [, Level 0]: '(1)Meetiteusz' entered and joined the game
