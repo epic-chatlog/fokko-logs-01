@@ -6042,3 +6042,6 @@
 [2021-04-15 07:37:16]: (2)cookie [, Level 2]: [D] El patron:  its a nice skin
 [2021-04-15 07:37:19]: Flipper [, Level 16]: whi
 [2021-04-15 07:37:20]: Flipper [, Level 16]: who
+[2021-04-15 07:37:33]: Flipper [, Level 16]: i ehlp u
+[2021-04-15 07:37:34]: ***  [, Level 0]: '(1)WarHammer' has left the game
+[2021-04-15 07:37:35]: Kahve [, Level 23]: nuub
