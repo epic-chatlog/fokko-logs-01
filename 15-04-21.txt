@@ -6656,3 +6656,5 @@
 [2021-04-15 08:07:39]: ***  [, Level 0]: 'SanoreX' entered and joined the game
 [2021-04-15 08:07:39]: ***  [, Level 0]: 'SanoreX' has left the game
 [2021-04-15 08:07:40]: ***  [, Level 0]: 'SanoreX' entered and joined the game
+[2021-04-15 08:07:43]: (1)Kirito [{TQuila}, Level 25]: XDDDDD
+[2021-04-15 08:07:52]: Taip [VergleriSay, Level 19]: TLTERSTON: bro help
