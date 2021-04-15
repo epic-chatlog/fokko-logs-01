@@ -7900,3 +7900,5 @@
 [2021-04-15 09:22:54]: ***  [, Level 0]: 'SHIRROO' entered and joined the game
 [2021-04-15 09:23:19]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-15 09:23:25]: ***  [, Level 0]: 'ölüm bekçisi' entered and joined the game
+[2021-04-15 09:23:30]: Axandos² [, Level 21]: kekw
+[2021-04-15 09:23:38]:   [, Level 0]: darkstar2: (3)Zʷʰʸˀ: get a life?
