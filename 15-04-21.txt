@@ -11806,3 +11806,6 @@
 [2021-04-15 13:58:26]: [D] El patron [, Level 0]: Zephir™: lucky
 [2021-04-15 13:58:27]: Kezo [DogParty, Level 41]: wtf
 [2021-04-15 13:58:28]: Kezo [DogParty, Level 41]: ez
+[2021-04-15 13:58:40]: Kezo [DogParty, Level 41]: xD
+[2021-04-15 13:58:46]: ***  [, Level 0]: (3)Zʷʰʸˀ finished in: 0 minute(s) 46.16 second(s)
+[2021-04-15 13:58:46]: ***  [, Level 0]: New record:  3.84 second(s) better.
