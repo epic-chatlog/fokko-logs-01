@@ -4165,3 +4165,6 @@
 [2021-04-15 05:24:16]:   [, Level 0]: Taip: ES afk
 [2021-04-15 05:24:16]: SanoreX.* [Chilli.*, Level 22]: KİRİTO
 [2021-04-15 05:24:17]: SanoreX.* [Chilli.*, Level 22]: krx
+[2021-04-15 05:24:34]: (2)cookie [, Level 0]: wait
+[2021-04-15 05:24:35]: ***  [, Level 0]: Mert is on a killing spree with 5 blocks
+[2021-04-15 05:24:38]: ***  [, Level 0]: ### 'SanoreX.*' @everyone write krx in chat!!!!!! and see magic
