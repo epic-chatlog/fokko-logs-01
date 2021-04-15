@@ -5729,3 +5729,6 @@
 [2021-04-15 07:03:54]: (1)soleri1 [, Level 0]: Hala Madrid:
 [2021-04-15 07:04:03]: ***  [, Level 0]: 'woona' entered and joined the game
 [2021-04-15 07:04:08]: ***  [, Level 0]: ### 'ERROR.' Woof-Woof
+[2021-04-15 07:04:11]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-15 07:04:16]: ***  [, Level 0]: 'arther' joined the spectators
+[2021-04-15 07:04:20]: ***  [, Level 0]: 'arther' joined the game
