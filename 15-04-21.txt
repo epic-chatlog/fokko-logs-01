@@ -10752,3 +10752,5 @@
 [2021-04-15 12:32:42]: LGBTC GENANAL [, Level 45]: idk
 [2021-04-15 12:32:46]: LGBTC GENANAL [, Level 45]: where could we go
 [2021-04-15 12:32:51]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 25 blocks
+[2021-04-15 12:32:54]: ***  [, Level 0]: 'Fearless' entered and joined the game
+[2021-04-15 12:32:57]: ***  [, Level 0]: 'Fearless' has left the game
