@@ -12366,3 +12366,5 @@
 [2021-04-14 17:28:54]: ***  [, Level 0]: Flupper's killing spree was ended by Kirito (10 blocks)
 [2021-04-14 17:28:55]: ***  [, Level 0]: 'scuf' entered and joined the game
 [2021-04-14 17:29:06]: Flupper [, Level 40]: scuf:
+[2021-04-14 17:29:12]: scuf [669, Level 0]: y
+[2021-04-14 17:29:18]: Zephir™ [, Level 40]: Zʷʰʸˀ: i have 40
