@@ -11626,3 +11626,5 @@
 [2021-04-15 13:33:45]: any [404, Level 38]: [D] El patron 4k :D
 [2021-04-15 13:33:52]: (1)ChillerDrago [Chilli.*, Level 45]: so when did i attack u Kenshi™ ? xd
 [2021-04-15 13:33:52]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-15 13:34:04]: ***  [, Level 0]: '(1)test' entered and joined the game
+[2021-04-15 13:34:05]: Zephir™ [, Level 40]: ChillerDragon: now and after
