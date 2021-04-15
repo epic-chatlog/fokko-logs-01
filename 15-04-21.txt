@@ -8362,3 +8362,6 @@
 [2021-04-15 10:04:19]: ***  [, Level 0]: '(1)mamikral011' has left the game
 [2021-04-15 10:04:21]: (1)☺ [, Level 13]: je revien
 [2021-04-15 10:04:42]: ***  [, Level 0]: 'Dilkohomnkiks' entered and joined the game
+[2021-04-15 10:04:47]: ***  [, Level 0]: 'mamikral011' has left the game (Timeout Protection over)
+[2021-04-15 10:04:47]: ***  [, Level 0]: 'MaMi' has left the game (Timeout Protection over)
+[2021-04-15 10:04:50]: ***  [, Level 0]: 'mamikral011' entered and joined the game
