@@ -12085,3 +12085,6 @@
 [2021-04-15 14:30:19]: ***  [, Level 0]: 'BitchPlease Jr.' joined the game
 [2021-04-15 14:30:25]: kais [, Level 66]: BitchPlease Jr.: ok
 [2021-04-15 14:30:34]: kais [, Level 66]: BitchPlease Jr.: it is the "tour eiffel"
+[2021-04-15 14:30:39]: LareneGyvaeh [FookinLads, Level 36]: noob.
+[2021-04-15 14:30:39]: WarHammer [DogParty, Level 26]: XD
+[2021-04-15 14:30:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
