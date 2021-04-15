@@ -3800,3 +3800,10 @@
 [2021-04-15 05:04:40]: Mert [Blood Gang, Level 0]: senmi bana ko
 [2021-04-15 05:04:41]: ***  [, Level 0]: 'arther' entered and joined the game
 [2021-04-15 05:04:42]: Mert [Blood Gang, Level 0]: n
+[2021-04-15 05:04:48]: Mert [Blood Gang, Level 0]: çek
+[2021-04-15 05:04:48]: ***  [, Level 0]: 'Alexander' has left the game
+[2021-04-15 05:04:49]: Mert [Blood Gang, Level 0]: aq
+[2021-04-15 05:04:49]: SanoreX [Chilli.*, Level 27]: omg
+[2021-04-15 05:04:50]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
+[2021-04-15 05:04:54]: Mert [Blood Gang, Level 0]: arin
+[2021-04-15 05:04:54]: [D] BC|kakashi [BC, Level 26]: #5 blocker: sorry
