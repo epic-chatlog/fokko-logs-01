@@ -7369,3 +7369,17 @@
 [2021-04-15 08:40:48]: Nudelsaft c: [FookinLads, Level 42]: aimbot
 [2021-04-15 08:40:49]: woona [, Level 48]: dont click link
 [2021-04-15 08:40:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-15 08:40:51]:   [, Level 0]: SanoreX: krx
+[2021-04-15 08:40:51]: Killua [FookinLads, Level 37]: aimbot
+[2021-04-15 08:40:51]: Meetiteusz [TrRShClNrRs, Level 0]: Ðream: oo
+[2021-04-15 08:40:52]: Nudelsaft c: [FookinLads, Level 42]: aimbot
+[2021-04-15 08:40:52]:   [, Level 0]: SanoreX: krx
+[2021-04-15 08:40:54]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: aimbot
+[2021-04-15 08:40:56]: ERROR [404, Level 75]: no
+[2021-04-15 08:40:56]: Nudelsaft c: [FookinLads, Level 42]: woona: spam so he gets muted
+[2021-04-15 08:40:57]:   [, Level 0]: SanoreX: krx
+[2021-04-15 08:40:57]: ***  [, Level 0]: 'Nudelsaft c:' has been muted for 60 seconds
+[2021-04-15 08:40:59]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: dont try out kirito's client. its a virus. do not try KRX-Client. Its malicious
+[2021-04-15 08:41:00]:   [, Level 0]: SanoreX: krx client
+[2021-04-15 08:41:02]:   [, Level 0]: SanoreX: Kirito:
+[2021-04-15 08:41:03]: ERROR [404, Level 75]: no
