@@ -5914,3 +5914,6 @@
 [2021-04-15 07:22:17]: ***  [, Level 0]: 'Treebeard' has left the game
 [2021-04-15 07:22:43]: hhnaut31 [, Level 43]: who kil u
 [2021-04-15 07:22:49]: hhnaut31 [, Level 43]: ChillerDragon:
+[2021-04-15 07:23:07]: ***  [, Level 0]: 'falkenauge' finished the special race!
+[2021-04-15 07:23:07]: ***  [, Level 0]: '[D] falkenauge' finished the special race!
+[2021-04-15 07:23:08]: ***  [, Level 0]: 'Kahve' entered and joined the game
