@@ -10006,3 +10006,12 @@
 [2021-04-15 12:00:09]: Shiro. [404, Level 42]: bah jte tue pas
 [2021-04-15 12:00:10]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
 [2021-04-15 12:00:11]: BC|Tixnix [BC, Level 34]: darkstar3: help me first pls psl
+[2021-04-15 12:00:14]: ***  [, Level 0]: 'BC|kakashi' has left the game
+[2021-04-15 12:00:14]: Shiro. [404, Level 42]: WTF
+[2021-04-15 12:00:17]: Shiro. [404, Level 42]: how u not in freeze haxor
+[2021-04-15 12:00:20]: BC|Tixnix [BC, Level 34]: darkstar3: help me first pls psl
+[2021-04-15 12:00:21]:   [, Level 0]: test: :q
+[2021-04-15 12:00:23]:   [, Level 0]: test: ;q
+[2021-04-15 12:00:23]: (1)Hala Madrid [BBM, Level 0]: oh cmon
+[2021-04-15 12:00:24]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
+[2021-04-15 12:00:24]:   [, Level 0]: Zephir™: Shiro,: genre je la rejoint tu me tue pas et la si ?
