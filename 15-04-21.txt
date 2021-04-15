@@ -5247,3 +5247,8 @@
 [2021-04-15 06:17:30]: Kezo [DogParty, Level 41]: Mert: ver
 [2021-04-15 06:17:30]: SanoreX [Chilli.*, Level 27]: krx
 [2021-04-15 06:17:30]: Mert [Blood Gang, Level 0]: mal
+[2021-04-15 06:17:32]: SanoreX [Chilli.*, Level 27]: krx
+[2021-04-15 06:17:33]: ***  [, Level 0]: 'Mert' has been muted for 60 seconds
+[2021-04-15 06:17:34]: Kezo [DogParty, Level 41]: Mert: gel sesliye ver
+[2021-04-15 06:17:38]: Kezo [DogParty, Level 41]: Mert: discordunu ver gel sesliye
+[2021-04-15 06:17:40]: SanoreX [Chilli.*, Level 27]: Kezo: krx yazsana chate
