@@ -12000,3 +12000,6 @@
 [2021-04-15 14:21:27]: ~DemoizL~ [, Level 39]: Zephir™: ?
 [2021-04-15 14:21:28]: ***  [, Level 0]: Zephir™ is on a killing spree with 10 blocks
 [2021-04-15 14:21:35]: Zephir™ [, Level 40]: ~DemoizL~: t'aide l'ennemi
+[2021-04-15 14:21:36]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-15 14:21:41]: WarHammer [DogParty, Level 26]: YA-LAN SÖY-LEME YARRAĞIMI YE İBO
+[2021-04-15 14:21:42]: ~DemoizL~ [, Level 39]: Zephir™: pff
