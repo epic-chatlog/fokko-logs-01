@@ -5774,3 +5774,5 @@
 [2021-04-15 07:08:35]: ***  [, Level 0]: '[D] falkenauge' entered and joined the game
 [2021-04-15 07:09:02]: ***  [, Level 0]: 'Fun boy Bulash' has left the game
 [2021-04-15 07:09:04]: ***  [, Level 0]: 'cunt' entered and joined the game
+[2021-04-15 07:09:25]: ***  [, Level 0]: 'Cylox.' has left the game
+[2021-04-15 07:09:25]: ***  [, Level 0]: 'Cylox' has left the game
