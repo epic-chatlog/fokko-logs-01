@@ -5587,3 +5587,6 @@
 [2021-04-15 06:47:38]: SanoreX [Chilli.*, Level 27]: ERROR: can you come plot 11?  pls stack me and dummy
 [2021-04-15 06:47:41]: ***  [, Level 0]: 'fahh' entered and joined the game
 [2021-04-15 06:47:46]: ERROR. [404, Level 57]: SanoreX:  no.
+[2021-04-15 06:47:51]: SanoreX [Chilli.*, Level 27]: ooooff ERROR
+[2021-04-15 06:47:53]: SanoreX [Chilli.*, Level 27]: ok
+[2021-04-15 06:47:57]: ***  [, Level 0]: '{POLICE OFFIS}' has left the game
