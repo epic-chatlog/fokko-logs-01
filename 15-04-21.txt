@@ -5008,3 +5008,6 @@
 [2021-04-15 06:05:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-15 06:05:59]: ***  [, Level 0]: 'hmmmm' entered and joined the game
 [2021-04-15 06:06:00]: power [TrRShClNrRs, Level 0]: all good ERROR no need
+[2021-04-15 06:06:08]: ERROR [, Level 75]: goi
+[2021-04-15 06:06:10]: ERROR [, Level 75]: go
+[2021-04-15 06:06:10]: (1)Intensiv_ [CrazyNoobs, Level 0]: oyun krallı:  no block 1v1 Kezo
