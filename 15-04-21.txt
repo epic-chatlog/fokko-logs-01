@@ -8519,3 +8519,5 @@
 [2021-04-15 10:16:20]: ***  [, Level 0]: ### 'WarHammer' xd
 [2021-04-15 10:16:28]: Zephir™ [, Level 40]: ERROR: i helped him and bob because them two are dead, im neutral and he attack me
 [2021-04-15 10:16:30]: YelloWorlD [DogParty, Level 41]: any: il aide mes enemy
+[2021-04-15 10:16:39]:   [, Level 0]: bob: ERROR: he didnt help me
+[2021-04-15 10:16:39]: WarHammer [DogParty, Level 17]: aah
