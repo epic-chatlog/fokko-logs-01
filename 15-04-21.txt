@@ -8936,3 +8936,9 @@
 [2021-04-15 10:45:33]: mamikral011 [DogParty, Level 0]: Zephir™:
 [2021-04-15 10:45:33]: nameless tee [, Level 0]: flappy xD
 [2021-04-15 10:45:35]:   [, Level 0]: JustRace: HeavyGeneral:  hello
+[2021-04-15 10:45:39]: HeavyGeneral [FookinLads, Level 44]: hi
+[2021-04-15 10:45:43]: Axel [TrRShClNrRs, Level 30]: Ƭevan: нифига они у тебя просят
+[2021-04-15 10:45:44]: lolpoep [Ape, Level 20]: wy
+[2021-04-15 10:45:47]: [D] El patron [, Level 0]: lolpoep: we war
+[2021-04-15 10:45:50]: lolpoep [Ape, Level 20]: no
+[2021-04-15 10:45:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
