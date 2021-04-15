@@ -4048,3 +4048,4 @@
 [2021-04-15 05:15:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-15 05:15:53]: Recep [VergleriSay, Level 10]: (1)Kirito: brooo
 [2021-04-15 05:15:54]: Recep [VergleriSay, Level 10]: pls
+[2021-04-15 05:16:09]: Mert [Blood Gang, Level 0]: noooooo
