@@ -5713,3 +5713,7 @@
 [2021-04-15 07:02:39]: cookie [, Level 20]: ✯|Not Bulash:  why
 [2021-04-15 07:02:42]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
 [2021-04-15 07:02:44]: ***  [, Level 0]: 'falkenauge' entered and joined the game
+[2021-04-15 07:02:49]: soleri1 [, Level 0]: Hala Madrid: U CAN HELP ME TO ENTER?
+[2021-04-15 07:02:53]: soleri1 [, Level 0]: Hala Madrid: PLSS
+[2021-04-15 07:02:54]: ERROR. [404, Level 57]: how#
+[2021-04-15 07:02:54]: ***  [, Level 0]: 'arther' entered and joined the game
