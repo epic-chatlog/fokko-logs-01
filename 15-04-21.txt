@@ -11782,3 +11782,7 @@
 [2021-04-15 13:54:29]: [D] El patron [, Level 0]: Zephir™:
 [2021-04-15 13:55:15]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-15 13:55:20]: Zephir™ [, Level 40]: laser
+[2021-04-15 13:55:25]: LareneGyvaeh [FookinLads, Level 36]: sad person
+[2021-04-15 13:55:27]: LareneGyvaeh [FookinLads, Level 36]: actually
+[2021-04-15 13:55:28]: LareneGyvaeh [FookinLads, Level 36]: sad
+[2021-04-15 13:55:34]: LareneGyvaeh [FookinLads, Level 36]: worse then pepe players
