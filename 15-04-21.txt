@@ -10617,3 +10617,8 @@
 [2021-04-15 12:24:52]:   [, Level 0]: Shiro,: bedday
 [2021-04-15 12:24:57]: |HolyHo| [FookinLads, Level 19]: weqe: yeah ik
 [2021-04-15 12:25:10]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-15 12:25:15]:   [, Level 0]: Shiro,: NOB
+[2021-04-15 12:25:18]: Cylox [, Level 31]: no,
+[2021-04-15 12:25:19]: [D] BC|Tixnix [BC, Level 26]: ES:
+[2021-04-15 12:25:26]: ***  [, Level 0]: '|HolyHo|' has left the game
+[2021-04-15 12:25:26]: ***  [, Level 0]: '|HolyHo|°' has left the game
