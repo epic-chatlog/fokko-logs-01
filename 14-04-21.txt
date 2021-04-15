@@ -12221,3 +12221,7 @@
 [2021-04-14 17:01:31]: Flipper [, Level 16]: me
 [2021-04-14 17:01:33]: Flipper [, Level 16]: please
 [2021-04-14 17:01:39]: Flipper [, Level 16]: no taser
+[2021-04-14 17:01:41]: Zephir™ [, Level 40]: Flipper: u know i beat u
+[2021-04-14 17:01:44]: Flipper [, Level 16]: no taser
+[2021-04-14 17:01:49]: Flipper [, Level 16]: try without endless..
+[2021-04-14 17:01:52]: Zephir™ [, Level 40]: Flipper: we have war fun one time
