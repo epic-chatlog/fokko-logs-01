@@ -2723,3 +2723,6 @@
 [2021-04-15 04:13:01]: [D] Mert [[!BRUH!], Level 0]: 1
 [2021-04-15 04:13:03]: [D] Mert [[!BRUH!], Level 0]: bei
 [2021-04-15 04:13:05]: [D] Mert [[!BRUH!], Level 0]: şuraya at
+[2021-04-15 04:13:10]: ***  [, Level 0]: 'Mert' has left the game
+[2021-04-15 04:13:10]: ***  [, Level 0]: '[D] Mert' has left the game
+[2021-04-15 04:13:15]: ***  [, Level 0]: 'Mert' entered and joined the game
