@@ -7997,3 +7997,7 @@
 [2021-04-15 09:32:11]: ***  [, Level 0]: 'All Might' joined the spectators
 [2021-04-15 09:32:14]: ***  [, Level 0]: 'All Might' joined the game
 [2021-04-15 09:32:35]: ***  [, Level 0]: 'Cowmilk' entered and joined the game
+[2021-04-15 09:32:38]: ***  [, Level 0]: 'Cowmilk' has left the game (Timeout Protection used)
+[2021-04-15 09:32:41]: Axandos [, Level 26]: wow YelloWorlD
+[2021-04-15 09:32:41]:   [, Level 0]: All Might: how can i keybind /kill and spawn ?
+[2021-04-15 09:32:48]: (3)Zʷʰʸˀ [NULL, Level 26]: thx :)
