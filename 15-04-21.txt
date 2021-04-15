@@ -7194,3 +7194,7 @@
 [2021-04-15 08:31:25]: ***  [, Level 0]: '☺' entered and joined the game
 [2021-04-15 08:31:25]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-15 08:31:27]: Intensiv [CrazyNoobs, Level 12]: darkstar:  war
+[2021-04-15 08:31:34]: ***  [, Level 0]: ### 'ERROR' Woof-Woof
+[2021-04-15 08:31:36]: ***  [, Level 0]: 'Remsua Ja Fan' joined the spectators
+[2021-04-15 08:31:39]: ***  [, Level 0]: 'Remsua Ja Fan' joined the game
+[2021-04-15 08:31:40]: Axandos [, Level 26]: weqe:  2 chance= xd
