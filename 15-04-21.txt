@@ -12864,3 +12864,6 @@
 [2021-04-15 16:10:27]: (1)☺ [, Level 13]: laser
 [2021-04-15 16:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-15 16:11:15]: (1)☺ [, Level 13]: (1)Zʷʰʸˀ:
+[2021-04-15 16:12:04]: Kirito [{TQuila}, Level 40]: Zʷʰʸˀ: swap your dummy for arin
+[2021-04-15 16:12:10]: Zʷʰʸˀ [NULL, Level 37]: no
+[2021-04-15 16:12:12]: Kirito [{TQuila}, Level 40]: gay
