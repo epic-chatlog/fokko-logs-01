@@ -4769,3 +4769,5 @@
 [2021-04-15 05:55:02]: (1)Intensiv_ [CrazyNoobs, Level 0]: eşit aq ikinizede sayı geldi
 [2021-04-15 05:55:04]: #5 blocker [|*MorE*|, Level 0]: Intensiv: help
 [2021-04-15 05:55:04]: (1)Intensiv_ [CrazyNoobs, Level 0]: izliyom ben
+[2021-04-15 05:55:08]: #5 blocker [|*MorE*|, Level 0]: (1)cookie: help
+[2021-04-15 05:55:08]: ***  [, Level 0]: 'GODLIKe.' has left the game
