@@ -12123,3 +12123,6 @@
 [2021-04-15 14:35:40]: ***  [, Level 0]: 'lessname' has left the game
 [2021-04-15 14:35:44]: (1)ChillerDrago [Chilli.*, Level 45]: u fokkonaut
 [2021-04-15 14:35:46]: fokkonaut [flawLess, Level 102]: u
+[2021-04-15 14:35:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 14:35:50]: WarHammer [DogParty, Level 26]: Zephir™:  barrier
+[2021-04-15 14:35:54]: (1)ChillerDrago [Chilli.*, Level 45]: lol flawLess fokkonaut bist jz ddracer?
