@@ -9511,3 +9511,6 @@
 [2021-04-15 11:19:15]: JustRace. [DogParty, Level 29]: cl_aimbot 1
 [2021-04-15 11:19:20]: ***  [, Level 0]: 'VD|HolyHo|°' entered and joined the game
 [2021-04-15 11:19:26]: Kirito [{TQuila}, Level 40]: JustRace: ? wtf
+[2021-04-15 11:19:43]: JustRace. [DogParty, Level 29]: Kirito:  what
+[2021-04-15 11:19:46]: Intensiv_ [CrazyNoobs, Level 5]: BEYLER FLAPPY ÖLDÜ 50 K GELDİ AQ
+[2021-04-15 11:19:50]: Kirito [{TQuila}, Level 40]: JustRace: u use aimbot?
