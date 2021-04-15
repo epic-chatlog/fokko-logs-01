@@ -10021,3 +10021,4 @@
 [2021-04-15 12:00:45]: Taip [VergleriSay, Level 19]: Shiro. bro we why no team
 [2021-04-15 12:00:46]: Shiro. [404, Level 42]: im fast as fuck boiii
 [2021-04-15 12:00:48]: ***  [, Level 0]: 'El patron' entered and joined the game
+[2021-04-15 12:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
