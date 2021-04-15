@@ -12228,3 +12228,4 @@
 [2021-04-14 17:01:57]: Flipper [, Level 16]: when
 [2021-04-14 17:02:13]: Flipper [, Level 16]: when?
 [2021-04-14 17:02:42]: Flupper [, Level 40]: only hamemer
+[2021-04-14 17:03:11]: Flupper [, Level 40]: i can use taser too but i suck with it
