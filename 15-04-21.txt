@@ -5917,3 +5917,4 @@
 [2021-04-15 07:23:07]: ***  [, Level 0]: 'falkenauge' finished the special race!
 [2021-04-15 07:23:07]: ***  [, Level 0]: '[D] falkenauge' finished the special race!
 [2021-04-15 07:23:08]: ***  [, Level 0]: 'Kahve' entered and joined the game
+[2021-04-15 07:23:38]: WarHammer' [DogParty, Level 17]: HELP XD
