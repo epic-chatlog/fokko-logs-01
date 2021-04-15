@@ -11612,3 +11612,8 @@
 [2021-04-15 13:32:35]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
 [2021-04-15 13:32:37]: (1)ChillerDrago [Chilli.*, Level 45]: what Kenshi™ when did i try u
 [2021-04-15 13:32:39]: ***  [, Level 0]: '(1)test' has left the game
+[2021-04-15 13:32:45]: ***  [, Level 0]: 'cunt' has left the game
+[2021-04-15 13:32:45]: ***  [, Level 0]: '(1)cunt' has left the game
+[2021-04-15 13:32:45]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-15 13:32:47]: Zephir™ [, Level 40]: ChillerDragon: u attack me
+[2021-04-15 13:32:53]: (1)ChillerDrago [Chilli.*, Level 45]: when Zephir™
