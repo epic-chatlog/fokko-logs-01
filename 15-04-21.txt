@@ -11482,3 +11482,6 @@
 [2021-04-15 13:16:37]: test [, Level 0]: ;vote
 [2021-04-15 13:16:38]: Lucas [THECEPS, Level 35]: any: what's l2p
 [2021-04-15 13:16:40]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 13:16:47]: Bozzkurt [SkinLover, Level 0]: hsd jf
+[2021-04-15 13:16:50]: any [404, Level 38]: Lucas: zzzzzzz l2)
+[2021-04-15 13:16:52]: any [404, Level 38]: Lucas: zzzzzzz l2p
