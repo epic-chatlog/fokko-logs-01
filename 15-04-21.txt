@@ -12315,3 +12315,5 @@
 [2021-04-15 14:57:03]: YelloWorlD [DogParty, Level 38]: Zephir™: c quoi ta touche pour spec
 [2021-04-15 14:57:19]: aleandro [konichiwa, Level 36]: wtf
 [2021-04-15 14:57:20]: aleandro [konichiwa, Level 36]: why
+[2021-04-15 14:57:22]: Zephir™ [, Level 40]: YelloWorlD: p, mais c'est une touche de la souris que j'aio associé
+[2021-04-15 14:57:24]: (1)kais [, Level 58]: why not ?
