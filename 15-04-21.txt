@@ -12460,3 +12460,4 @@
 [2021-04-15 15:13:45]: bob [, Level 36]: you were so cute farming
 [2021-04-15 15:13:48]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-15 15:13:49]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-15 15:14:01]: ***  [, Level 0]: 'scuf' entered and joined the game
