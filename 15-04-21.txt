@@ -5811,3 +5811,7 @@
 [2021-04-15 07:11:39]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-15 07:11:40]: (1)ChillerDrago [Chilli.*, Level 45]: today ✯ | Bulash ?
 [2021-04-15 07:11:41]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: thx
+[2021-04-15 07:11:49]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-15 07:11:49]: ✯ | Bulash [|Supressed|, Level 0]: (1)ChillerDrago: what today/
+[2021-04-15 07:11:50]: ✯ | Bulash [|Supressed|, Level 0]: ?
+[2021-04-15 07:11:51]: ***  [, Level 0]: 'nameless tee' entered and joined the game
