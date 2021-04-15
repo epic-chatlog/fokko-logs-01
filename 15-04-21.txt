@@ -5903,3 +5903,4 @@
 [2021-04-15 07:18:54]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: cunt: kek
 [2021-04-15 07:19:13]: ***  [, Level 0]: 'Treebeard' entered and joined the game
 [2021-04-15 07:19:50]: ***  [, Level 0]: 'cunt' has left the game (Timeout)
+[2021-04-15 07:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
