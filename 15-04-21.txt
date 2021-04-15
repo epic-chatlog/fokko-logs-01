@@ -8074,3 +8074,4 @@
 [2021-04-15 09:38:56]: ***  [, Level 0]: 'ZEWO' has left the game
 [2021-04-15 09:38:57]:   [, Level 0]: mamikral011: ZEUS: ?
 [2021-04-15 09:39:11]:   [, Level 0]: mamikral011: yel?
+[2021-04-15 09:39:20]: ***  [, Level 0]: 'SanoreX' has left the game
