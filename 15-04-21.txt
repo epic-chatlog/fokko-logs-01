@@ -5698,3 +5698,6 @@
 [2021-04-15 07:01:44]: ERROR. [404, Level 57]: if u play on laptop the tees are small and on pc they biiiig
 [2021-04-15 07:01:44]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-15 07:01:45]: ERROR. [404, Level 57]: xD
+[2021-04-15 07:02:00]: ***  [, Level 0]: 'IwillBlockYou' joined the game
+[2021-04-15 07:02:01]: HeavyGeneral [FookinLads, Level 44]: ERROR.: u can change the size of tees yk
+[2021-04-15 07:02:06]: ERROR. [404, Level 57]: where##
