@@ -12268,3 +12268,4 @@
 [2021-04-15 14:50:31]: ***  [, Level 0]: 'HΛVΛ' entered and joined the game
 [2021-04-15 14:50:46]: ChillerDragon.* [|*KoG*|, Level 42]: ye kais
 [2021-04-15 14:50:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-15 14:50:56]: ChillerDragon.* [|*KoG*|, Level 42]: ~DemoizL~: why blox casserole :p :/
