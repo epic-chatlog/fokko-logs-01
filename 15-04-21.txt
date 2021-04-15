@@ -9714,3 +9714,5 @@
 [2021-04-15 11:36:06]: JustRace [DogParty, Level 36]: HeavyGeneral:
 [2021-04-15 11:36:35]: darkstar4 [, Level 11]: bob:
 [2021-04-15 11:36:37]: ***  [, Level 0]: 'Janidlo' entered and joined the game
+[2021-04-15 11:36:46]: ***  [, Level 0]: 'Juzudek' entered and joined the game
+[2021-04-15 11:36:50]: ***  [, Level 0]: 'Janidlo' has left the game
