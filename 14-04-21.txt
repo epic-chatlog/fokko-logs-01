@@ -12215,3 +12215,5 @@
 [2021-04-14 17:01:11]: Flipper [, Level 16]: 10v2*
 [2021-04-14 17:01:13]: RM | Arin [Retard MNKY, Level 0]: 10v1?
 [2021-04-14 17:01:14]: Flipper [, Level 16]: 10v2*
+[2021-04-14 17:01:22]: Flipper [, Level 16]: +4
+[2021-04-14 17:01:24]: Zephir™ [, Level 40]: Flipper: yeah 2v10 sorry but still 10
