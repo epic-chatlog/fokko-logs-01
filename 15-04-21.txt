@@ -6792,3 +6792,7 @@
 [2021-04-15 08:16:27]: ERROR [404, Level 75]: BOOOOM
 [2021-04-15 08:16:31]: Axandos [, Level 26]: upercut
 [2021-04-15 08:16:43]: ***  [, Level 0]: 'Valesz' has left the game
+[2021-04-15 08:16:51]: ERROR [404, Level 75]: BAAAM
+[2021-04-15 08:16:54]: ***  [, Level 0]: '(1)Matiteusz' entered and joined the game
+[2021-04-15 08:16:57]: ***  [, Level 0]: 'Zʷʰʸˀ' finished the special race!
+[2021-04-15 08:16:57]: WarHammer [DogParty, Level 26]: ERROR:  xd
