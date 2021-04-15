@@ -11803,3 +11803,6 @@
 [2021-04-15 13:57:48]: [D] El patron [, Level 0]: Zephir™: fun
 [2021-04-15 13:58:05]: Kezo [DogParty, Level 41]: Zephir™: you like axandos ?
 [2021-04-15 13:58:21]: ***  [, Level 0]: ### 'HeavyGeneral' Pidor got mad OOF.
+[2021-04-15 13:58:26]: [D] El patron [, Level 0]: Zephir™: lucky
+[2021-04-15 13:58:27]: Kezo [DogParty, Level 41]: wtf
+[2021-04-15 13:58:28]: Kezo [DogParty, Level 41]: ez
