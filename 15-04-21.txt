@@ -1552,3 +1552,5 @@
 [2021-04-15 02:56:45]: satou [, Level 7]: el champeon:
 [2021-04-15 02:56:45]: ***  [, Level 0]: 'PARDUS' has left the game
 [2021-04-15 02:56:49]: SanoreX [Chilli.*, Level 27]: el champeon: help satou
+[2021-04-15 02:56:58]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[2021-04-15 02:56:58]: Intensiv [CrazyNoobs, Level 11]: weqe:  pls help
