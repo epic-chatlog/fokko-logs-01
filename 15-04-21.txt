@@ -7776,3 +7776,7 @@
 [2021-04-15 09:06:24]: [D] El patron [, Level 24]: ERROR.: war
 [2021-04-15 09:06:27]: ***  [, Level 0]: '(1)Meetiteusz' has left the game
 [2021-04-15 09:06:32]: [D] El patron [, Level 24]: ERROR.: ich habe war mit dem
+[2021-04-15 09:06:44]: ERROR. [404, Level 57]: idc do it if im offline.-
+[2021-04-15 09:06:50]: aimbot aaaaaaaa [FookinLads, Level 42]: ERROR: schreib mal bot
+[2021-04-15 09:06:53]: ERROR. [404, Level 57]: bot
+[2021-04-15 09:06:53]: aimbot aaaaaaaa [FookinLads, Level 42]: xd
