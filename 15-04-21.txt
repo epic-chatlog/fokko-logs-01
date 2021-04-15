@@ -1344,3 +1344,5 @@
 [2021-04-15 02:45:48]: ***  [, Level 0]: '1' finished the special race!
 [2021-04-15 02:45:48]: ***  [, Level 0]: '[D] Mert' finished the special race!
 [2021-04-15 02:45:49]: ***  [, Level 0]: 'rm toxicdaddy' has left the game
+[2021-04-15 02:45:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-15 02:45:51]: any [404, Level 38]: Cylox: u did spike me when your username was "Farmer"
