@@ -1925,3 +1925,5 @@
 [2021-04-15 03:20:39]: Meetiteusz [TrRShClNrRs, Level 28]: Isegrin: strać
 [2021-04-15 03:20:45]: PARDUS [CRAZY TURKS, Level 0]: help
 [2021-04-15 03:20:47]: Isegrin [, Level 55]: Meetiteusz: wole miec kuske
+[2021-04-15 03:20:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-15 03:20:55]: Meetiteusz [TrRShClNrRs, Level 28]: Isegrin: niet
