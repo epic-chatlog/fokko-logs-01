@@ -12942,3 +12942,5 @@
 [2021-04-15 16:26:17]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 8 minute(s)  5.68 second(s)
 [2021-04-15 16:26:17]: ***  [, Level 0]: '(2)Zʷʰʸˀ' finished the special race!
 [2021-04-15 16:26:25]: (1)☺ [, Level 13]: (3)Zʷʰʸˀ: gg man how
+[2021-04-15 16:27:35]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
+[2021-04-15 16:27:36]: ***  [, Level 0]: '(1)RM | Arin' has left the game
