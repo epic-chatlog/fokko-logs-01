@@ -6847,3 +6847,9 @@
 [2021-04-15 08:19:00]: ***  [, Level 0]: 'weqe' entered and joined the game
 [2021-04-15 08:19:01]: Lucas [THECEPS, Level 35]: coca: i'm back in 3 min
 [2021-04-15 08:19:03]: Recep [VergleriSay, Level 10]: brooooo
+[2021-04-15 08:19:06]: ERROR [404, Level 75]: xDDDDDDDDDDDDD
+[2021-04-15 08:19:07]: Recep [VergleriSay, Level 10]: u block me
+[2021-04-15 08:19:12]: (1)☺ [, Level 13]: ERROR:
+[2021-04-15 08:19:12]: woona [, Level 48]: bye
+[2021-04-15 08:19:13]: ***  [, Level 0]: 'hhnaut31' has left the game
+[2021-04-15 08:19:13]: ***  [, Level 0]: 'woona' has left the game
