@@ -8755,3 +8755,6 @@
 [2021-04-15 10:33:16]: Pigmilk [, Level 0]: bob: he kills us
 [2021-04-15 10:33:20]: [D] El patron [, Level 0]: Zephir™:  left
 [2021-04-15 10:33:22]:   [, Level 0]: (3)Zʷʰʸˀ: (1)Good man: why?
+[2021-04-15 10:33:27]: HorseMilksHorse [, Level 35]: Zephir™: why attack
+[2021-04-15 10:33:28]: any [404, Level 38]: ERROR: Zephir™ helps us
+[2021-04-15 10:33:29]:   [, Level 0]: (1)Good man: Zʷʰʸˀ: i dont want war
