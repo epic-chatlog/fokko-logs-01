@@ -2755,3 +2755,5 @@
 [2021-04-15 04:17:43]: Mert [Blood Gang, Level 0]: sanorex
 [2021-04-15 04:17:44]: Taip [VergleriSay, Level 19]: sorry
 [2021-04-15 04:17:48]: Taip [VergleriSay, Level 19]: i have double jump
+[2021-04-15 04:17:57]: Mert [Blood Gang, Level 0]: çektim seni
+[2021-04-15 04:18:03]: ***  [, Level 0]: 'uptotee' has left the game
