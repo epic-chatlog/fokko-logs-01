@@ -5351,3 +5351,6 @@
 [2021-04-15 06:24:41]: #5 blocker [|*MorE*|, Level 0]: (1)cookie: sry i try kirito krx client
 [2021-04-15 06:24:44]: ***  [, Level 0]: 'zemer' entered and joined the game
 [2021-04-15 06:24:44]: Kahve [, Level 0]: El patron: >>>
+[2021-04-15 06:24:50]: (2)cookie [, Level 0]: #5 blocker:  oow oke
+[2021-04-15 06:24:52]: (2)cookie [, Level 0]: krx
+[2021-04-15 06:24:53]: ***  [, Level 0]: 'komando' has left the game
