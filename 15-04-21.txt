@@ -12660,3 +12660,6 @@
 [2021-04-15 15:29:25]: BobSlave [, Level 0]: nop
 [2021-04-15 15:29:26]: bob [Legacy™, Level 36]: give back
 [2021-04-15 15:29:28]: bob [Legacy™, Level 36]: poww
+[2021-04-15 15:29:39]: BobSlave [, Level 0]: i give grenade
+[2021-04-15 15:29:40]: BobSlave [, Level 0]: u
+[2021-04-15 15:29:42]: BobSlave [, Level 0]: brother
