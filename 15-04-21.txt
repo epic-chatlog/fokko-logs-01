@@ -6245,3 +6245,6 @@
 [2021-04-15 07:48:03]: soleri1 [, Level 23]: Cylox: I accompany you?
 [2021-04-15 07:48:08]: ERROR. [404, Level 57]: HeavyGeneral:  everyone is like pls stop if i move xD whhaaay
 [2021-04-15 07:48:12]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 28.70 second(s)
+[2021-04-15 07:48:43]: [D] Kahve [, Level 19]: Axandos:
+[2021-04-15 07:48:44]: ***  [, Level 0]: 'Wayllan Kath' entered and joined the game
+[2021-04-15 07:48:46]: ***  [, Level 0]: fomjn is on a killing spree with 5 blocks
