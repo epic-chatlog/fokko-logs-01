@@ -5514,3 +5514,4 @@
 [2021-04-15 06:40:58]: tchief [, Level 0]: run
 [2021-04-15 06:41:00]: Intensiv [CrazyNoobs, Level 12]: ?
 [2021-04-15 06:41:01]: Intensiv [CrazyNoobs, Level 12]: El patron:  ?
+[2021-04-15 06:41:01]: tchief [, Level 0]: run
