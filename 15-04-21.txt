@@ -10032,3 +10032,7 @@
 [2021-04-15 12:01:20]: ***  [, Level 0]: 'zizibuczek' entered and joined the game
 [2021-04-15 12:01:23]: Taip [VergleriSay, Level 19]: nope
 [2021-04-15 12:01:25]: Taip [VergleriSay, Level 19]: fun war
+[2021-04-15 12:01:27]: bob [669, Level 36]: weqe: give [D] TZSA kiss
+[2021-04-15 12:01:27]: (1)Hala Madrid [BBM, Level 0]: ty Shiro, <3
+[2021-04-15 12:01:33]: ***  [, Level 0]: 'zizibuczek' has left the game
+[2021-04-15 12:01:34]:   [, Level 0]: Mert: ama
