@@ -6161,3 +6161,9 @@
 [2021-04-15 07:43:48]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 32.08 second(s)
 [2021-04-15 07:43:49]: (1)cookie [, Level 9]: oke Axandos
 [2021-04-15 07:43:53]: ***  [, Level 0]: 'Intensiv_' entered and joined the game
+[2021-04-15 07:44:12]: Taip [VergleriSay, Level 19]: bro
+[2021-04-15 07:44:15]: ***  [, Level 0]: HeavyGeneral is on a killing spree with 5 blocks
+[2021-04-15 07:44:18]: Taip [VergleriSay, Level 19]: i team with el patron
+[2021-04-15 07:44:20]: ***  [, Level 0]: Cylox finished in: 10 minute(s)  5.84 second(s)
+[2021-04-15 07:44:20]: ***  [, Level 0]: 'Cylox' finished the special race!
+[2021-04-15 07:44:22]: cookie [, Level 20]: Axandos:  why dude
