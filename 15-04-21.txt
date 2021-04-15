@@ -4175,3 +4175,12 @@
 [2021-04-15 05:24:59]: SanoreX [Chilli.*, Level 27]: f"{self.name}": u see? free client
 [2021-04-15 05:25:03]: f"{self.name}" [, Level 0]: SanoreX: XD
 [2021-04-15 05:25:03]: SanoreX [Chilli.*, Level 27]: f"{self.name}": u see? free client
+[2021-04-15 05:25:05]: oyun krallı [, Level 18]: savasmı istiyon
+[2021-04-15 05:25:06]: SanoreX [Chilli.*, Level 27]: client
+[2021-04-15 05:25:07]: SanoreX [Chilli.*, Level 27]: krx
+[2021-04-15 05:25:07]: f"{self.name}" [, Level 0]: SanoreX: yep
+[2021-04-15 05:25:09]: SanoreX [Chilli.*, Level 27]: krx client
+[2021-04-15 05:25:13]: Wayllan Kath [, Level 0]: wait here
+[2021-04-15 05:25:14]: SanoreX [Chilli.*, Level 27]: KRX
+[2021-04-15 05:25:16]: Mert [Blood Gang, Level 0]: he
+[2021-04-15 05:25:16]: SanoreX [Chilli.*, Level 27]: -
