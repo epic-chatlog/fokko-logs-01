@@ -11303,3 +11303,6 @@
 [2021-04-15 13:00:27]: sharkz [, Level 45]: Shiro,: I get killed right xD
 [2021-04-15 13:00:38]: sharkz [, Level 45]: Shiro,: yeh im ded
 [2021-04-15 13:00:40]: ***  [, Level 0]: '[D] El patron' has left the game
+[2021-04-15 13:00:41]: sharkz [, Level 45]: Shiro,: portal gun op
+[2021-04-15 13:00:50]: sharkz [, Level 45]: Shiro,: or not
+[2021-04-15 13:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
