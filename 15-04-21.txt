@@ -11745,3 +11745,4 @@
 [2021-04-15 13:47:38]: [D] El patron [, Level 0]: Zephir™: ?
 [2021-04-15 13:47:45]: Zephir™ [, Level 40]: El patron: fun
 [2021-04-15 13:47:49]: [D] El patron [, Level 0]: Zephir™: wait
+[2021-04-15 13:48:02]: ***  [, Level 0]: 'Taiga`iPro' has left the game
