@@ -6500,3 +6500,5 @@
 [2021-04-15 08:00:41]: ***  [, Level 0]: 'Flipper' entered and joined the game
 [2021-04-15 08:00:43]: Axandos [, Level 26]: El patron:  schnell finischen
 [2021-04-15 08:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-15 08:00:50]:   [, Level 0]: Flipper: ~DemoizL~: ??
+[2021-04-15 08:00:51]: ERROR [404, Level 75]: xD
