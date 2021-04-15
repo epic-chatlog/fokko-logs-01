@@ -6861,3 +6861,7 @@
 [2021-04-15 08:19:35]: ERROR. [404, Level 57]: Axandos:  u alive?
 [2021-04-15 08:19:36]: Recep [VergleriSay, Level 10]: ü
 [2021-04-15 08:19:38]: Taip [VergleriSay, Level 19]: hey
+[2021-04-15 08:19:41]: Taip [VergleriSay, Level 19]: x
+[2021-04-15 08:19:44]: Killua [FookinLads, Level 0]: El patron: whats ur real nick? /w
+[2021-04-15 08:19:45]: (1)ChillerDrago [Chilli.*, Level 45]: afk blox Killua
+[2021-04-15 08:19:49]: Taip [VergleriSay, Level 19]: (1)Kirito
