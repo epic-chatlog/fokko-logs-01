@@ -5667,3 +5667,6 @@
 [2021-04-15 06:56:44]: ***  [, Level 0]: '[D] Dilkohomnki' has left the game
 [2021-04-15 06:56:44]: ***  [, Level 0]: 'Dilkohomnkiks' has left the game
 [2021-04-15 06:56:51]: ***  [, Level 0]: 'Dilkohomnkiks' entered and joined the game
+[2021-04-15 06:57:05]: ***  [, Level 0]: '[D] Dilkohomnki' entered and joined the game
+[2021-04-15 06:57:12]: ***  [, Level 0]: 'SanoreX.*' has left the game (Timeout Protection over)
+[2021-04-15 06:57:12]: ***  [, Level 0]: 'SanoreX' has left the game (Timeout Protection over)
