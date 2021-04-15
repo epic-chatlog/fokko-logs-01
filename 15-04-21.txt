@@ -5626,3 +5626,7 @@
 [2021-04-15 06:49:59]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
 [2021-04-15 06:50:01]: ***  [, Level 0]: 'Intensiv' has left the game
 [2021-04-15 06:50:03]: SanoreX [Chilli.*, Level 27]: El patron: give me jetpack plz
+[2021-04-15 06:50:22]: [D] El patron [, Level 24]: SanoreX: i have only me xd
+[2021-04-15 06:50:27]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-15 06:50:27]: ***  [, Level 0]: 'Cylox.' has left the game
+[2021-04-15 06:50:28]: SanoreX [Chilli.*, Level 27]: El patron: pLZ
