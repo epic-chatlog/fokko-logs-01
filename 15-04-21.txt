@@ -6518,3 +6518,7 @@
 [2021-04-15 08:01:55]: Axandos² [, Level 21]: ERROR:  pfui aus
 [2021-04-15 08:01:57]: ***  [, Level 0]: '~DemoizL~' has left the game
 [2021-04-15 08:02:08]: Intensiv_ [CrazyNoobs, Level 5]: ERROR:  help me
+[2021-04-15 08:02:23]: Intensiv_ [CrazyNoobs, Level 5]: erp
+[2021-04-15 08:02:23]: ERROR [404, Level 75]: stoppt jz beide
+[2021-04-15 08:02:25]: Intensiv_ [CrazyNoobs, Level 5]: ERROR:
+[2021-04-15 08:02:26]: ERROR [404, Level 75]: Axandos:  ok war
