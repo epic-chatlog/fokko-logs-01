@@ -5551,3 +5551,4 @@
 [2021-04-15 06:45:32]: ERROR. [404, Level 57]: ChillerDragon:
 [2021-04-15 06:45:39]: ***  [, Level 0]: 'power2' entered and joined the game
 [2021-04-15 06:45:47]: SanoreX [Chilli.*, Level 27]: Cylox: NE,
+[2021-04-15 06:45:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
