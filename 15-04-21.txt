@@ -2880,3 +2880,5 @@
 [2021-04-15 04:23:46]: ***  [, Level 0]: 'Mista bombastic' has left the game
 [2021-04-15 04:23:46]: ***  [, Level 0]: 'Telefantastic' has left the game
 [2021-04-15 04:23:47]: SanoreX [Chilli.*, Level 27]: atla
+[2021-04-15 04:23:56]: SanoreX [Chilli.*, Level 27]: Mert: ATLA YERE
+[2021-04-15 04:24:03]: SanoreX [Chilli.*, Level 27]: flappy: Mert  e yardım etme
