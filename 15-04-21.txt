@@ -4403,3 +4403,8 @@
 [2021-04-15 05:38:09]: ***  [, Level 0]: '(1)microu' has left the game
 [2021-04-15 05:38:10]:   [, Level 0]: Taip: spec
 [2021-04-15 05:38:19]:   [, Level 0]: Taip: biraz yukarısı
+[2021-04-15 05:38:22]:   [, Level 0]: Taip: ama.
+[2021-04-15 05:38:23]:   [, Level 0]: Taip: .
+[2021-04-15 05:38:28]: (1)Intensiv_ [CrazyNoobs, Level 0]: dur geliom
+[2021-04-15 05:38:31]: ***  [, Level 0]: 'Axandos' has left the game
+[2021-04-15 05:38:31]: ***  [, Level 0]: 'Axandos²' has left the game
