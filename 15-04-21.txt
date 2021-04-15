@@ -7541,3 +7541,7 @@
 [2021-04-15 08:50:35]: ***  [, Level 0]: 'Wayllan Kath' has left the game
 [2021-04-15 08:50:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-15 08:51:16]: aimbot aaaaaaaa [FookinLads, Level 42]: ez
+[2021-04-15 08:51:24]: Killua [FookinLads, Level 37]: keyboard.exe stopped woring
+[2021-04-15 08:51:26]: Killua [FookinLads, Level 37]: broke it
+[2021-04-15 08:51:27]: Axel ² [TrRShClNrRs, Level 0]: Ƭevan: и так, что тут можно нажать
+[2021-04-15 08:51:28]: aimbot aaaaaaaa [FookinLads, Level 42]: of course
