@@ -4699,3 +4699,5 @@
 [2021-04-15 05:51:47]: ***  [, Level 0]: 'LorisLaChienne' has left the game
 [2021-04-15 05:51:49]: ***  [, Level 0]: '(1)Flipper' has left the game
 [2021-04-15 05:51:49]: ***  [, Level 0]: 184. Tziys* Time: 00:53.90, requested by Tziys*
+[2021-04-15 05:51:53]: Taip [VergleriSay, Level 19]: olm napıyon belli değil
+[2021-04-15 05:52:02]: Taip [VergleriSay, Level 19]: bro
