@@ -4974,3 +4974,7 @@
 [2021-04-15 06:03:47]: Kezo [DogParty, Level 41]: El patron: what dog
 [2021-04-15 06:03:58]: Kahve [, Level 23]: bune amk çok yavaş
 [2021-04-15 06:03:59]: (1)Intensiv_ [CrazyNoobs, Level 0]: Kahve:  çok mu veriyor
+[2021-04-15 06:04:04]: (1)Intensiv_ [CrazyNoobs, Level 0]: adjg
+[2021-04-15 06:04:05]: Kahve [, Level 23]: yok
+[2021-04-15 06:04:07]: ***  [, Level 0]: '[D] Kahve' entered and joined the game
+[2021-04-15 06:04:10]: Kezo [DogParty, Level 41]: El patron: you dont dog ?
