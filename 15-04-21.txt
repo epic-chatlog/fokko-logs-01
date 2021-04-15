@@ -4608,3 +4608,8 @@
 [2021-04-15 05:47:56]: ***  [, Level 0]: 'serwan' has left the game (Timeout)
 [2021-04-15 05:47:58]: (1)Ƭevan [TrRShClNrRs, Level 37]: Mert: nub
 [2021-04-15 05:47:59]: oyun krallı [, Level 18]: ARDA ÇEKECEKTİM
+[2021-04-15 05:48:01]: Flipper [, Level 16]: xD
+[2021-04-15 05:48:01]: oyun krallı [, Level 18]: ARDA ÇEKECEKTİM
+[2021-04-15 05:48:02]:   [, Level 0]: Mert: tevan
+[2021-04-15 05:48:04]: El patron [, Level 30]: Kezo: ?
+[2021-04-15 05:48:08]: oyun krallı [, Level 18]: ARDA ÇEKECEKTİM  KEZO
