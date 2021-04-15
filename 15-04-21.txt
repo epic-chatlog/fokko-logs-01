@@ -12442,3 +12442,6 @@
 [2021-04-15 15:11:48]: Zephir™ [, Level 40]: kais: fun war ?
 [2021-04-15 15:11:50]: bob [, Level 36]: kais: u can help me get out of jail?
 [2021-04-15 15:12:18]: kais [, Level 66]: Zephir™: wait, i send a noob in police
+[2021-04-15 15:12:29]: Zephir™ [, Level 40]: kais: kk
+[2021-04-15 15:12:30]: ***  [, Level 0]: '☺' entered and joined the game
+[2021-04-15 15:12:35]: bob [, Level 36]: smiley man
