@@ -6333,3 +6333,6 @@
 [2021-04-15 07:52:59]: ***  [, Level 0]: 'HACK' entered and joined the game
 [2021-04-15 07:53:02]: ***  [, Level 0]: 'Cosmo' entered and joined the game
 [2021-04-15 07:53:03]: ERROR. [404, Level 57]: xD
+[2021-04-15 07:53:06]: Axandos [, Level 26]: witzig
+[2021-04-15 07:53:07]: ERROR. [404, Level 57]: xDDDDDDDDDDDDDDD
+[2021-04-15 07:53:11]: (3)Kirito [, Level 40]: oops
