@@ -12849,3 +12849,5 @@
 [2021-04-15 16:03:33]: ***  [, Level 0]: 'arther' entered and joined the game
 [2021-04-15 16:04:01]: ***  [, Level 0]: 'arther' has left the game
 [2021-04-15 16:04:09]: ***  [, Level 0]: '~DemoizL~' has left the game
+[2021-04-15 16:04:39]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 0 minute(s) 36.04 second(s)
+[2021-04-15 16:04:39]: ***  [, Level 0]: New record:  4.12 second(s) better.
