@@ -6471,3 +6471,6 @@
 [2021-04-15 07:58:27]: (3)Kirito [, Level 40]: Cylox: oMHG
 [2021-04-15 07:58:33]: Cylox. [{TQuila}, Level 0]: lag
 [2021-04-15 07:58:34]: Killua [FookinLads, Level 0]: HeavyGeneral: ??/
+[2021-04-15 07:58:39]: Axandos [, Level 26]: trollmaster
+[2021-04-15 07:58:40]: ***  [, Level 0]: 'falkenauge' would have timed out, but can use timeout protection now
+[2021-04-15 07:58:40]: ***  [, Level 0]: '[D] falkenauge' would have timed out, but can use timeout protection now
