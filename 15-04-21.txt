@@ -7990,3 +7990,6 @@
 [2021-04-15 09:31:22]: ***  [, Level 0]: 'Mista bombastic' has left the game
 [2021-04-15 09:31:31]: ***  [, Level 0]: 'All Might' joined the spectators
 [2021-04-15 09:31:35]: ***  [, Level 0]: 'All Might' joined the game
+[2021-04-15 09:31:40]: any [404, Level 38]: YelloWorlD:
+[2021-04-15 09:31:41]: ***  [, Level 0]: '(1)☺' entered and joined the game
+[2021-04-15 09:31:41]: ***  [, Level 0]: '(1)☺' has left the game
