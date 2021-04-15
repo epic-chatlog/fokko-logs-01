@@ -901,3 +901,6 @@
 [2021-04-15 02:18:21]: SanoreX [Chilli.*, Level 27]: Mert: spawnın altı
 [2021-04-15 02:18:21]: ***  [, Level 0]: 'satou' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-15 02:18:23]: [D] Mert [[!BRUH!], Level 0]: ama
+[2021-04-15 02:18:29]: SanoreX [Chilli.*, Level 27]: Mert: /survival yaz
+[2021-04-15 02:18:31]: [D] Mert [[!BRUH!], Level 0]: oraya burda kasınca oraya nası gitcem
+[2021-04-15 02:18:36]: SanoreX [Chilli.*, Level 27]: Mert: /survival yaz
