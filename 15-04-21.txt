@@ -6826,3 +6826,9 @@
 [2021-04-15 08:18:04]: Ðeathscyth [, Level 2]: [RUS]: wanna race?
 [2021-04-15 08:18:08]: soleri1 [, Level 23]: DiscordBridge:
 [2021-04-15 08:18:14]: ***  [, Level 0]: '(1)Cylox.' entered and joined the game
+[2021-04-15 08:18:18]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-15 08:18:22]: Recep [VergleriSay, Level 10]: bro
+[2021-04-15 08:18:23]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-15 08:18:24]: Recep [VergleriSay, Level 10]: help
+[2021-04-15 08:18:25]: Recep [VergleriSay, Level 10]: pls
+[2021-04-15 08:18:27]: ERROR [404, Level 75]: xD
