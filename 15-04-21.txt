@@ -5488,3 +5488,4 @@
 [2021-04-15 06:38:06]: Cylox [{TQuila}, Level 31]: El patron: PLS I GO BANK 128K PLS
 [2021-04-15 06:38:07]: (1) [, Level 40]: demoiz!
 [2021-04-15 06:38:08]: Intensiv [CrazyNoobs, Level 12]: El patron:  no fight Cylox
+[2021-04-15 06:38:21]: ***  [, Level 0]: 'ren' has left the game
