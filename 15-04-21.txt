@@ -8354,3 +8354,6 @@
 [2021-04-15 10:03:53]:   [, Level 0]: UnRatonNRV: ok
 [2021-04-15 10:03:53]: (1)☺ [, Level 13]: Zephir™: oui
 [2021-04-15 10:03:55]: ***  [, Level 0]: 'Axel' entered and joined the game
+[2021-04-15 10:03:59]: ***  [, Level 0]: '(1)Sayme' entered and joined the game
+[2021-04-15 10:04:04]: (1)☺ [, Level 13]: tu voc ?
+[2021-04-15 10:04:08]: ***  [, Level 0]: '(1)mamikral011' entered and joined the game
