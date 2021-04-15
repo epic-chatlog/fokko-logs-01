@@ -7880,3 +7880,9 @@
 [2021-04-15 09:20:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-15 09:20:58]: Axandos² [, Level 21]: :D
 [2021-04-15 09:21:11]: darkstar [Legacy™, Level 19]: (3)Zʷʰʸˀ: wtf is ur problem
+[2021-04-15 09:21:16]: ***  [, Level 0]: 199. (1)ERROR Time: 00:55.58, requested by (1)ERROR
+[2021-04-15 09:21:18]: Axandos² [, Level 21]: K.O
+[2021-04-15 09:21:19]: (3)Zʷʰʸˀ [NULL, Level 26]: darkstar: u blocked me
+[2021-04-15 09:21:23]: ***  [, Level 0]: 199. (1)ERROR Time: 00:55.58, requested by (1)ERROR
+[2021-04-15 09:21:24]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
+[2021-04-15 09:21:26]: (1)ERROR [AllTheHaxx, Level 0]: xDDDD##
