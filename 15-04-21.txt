@@ -5314,3 +5314,6 @@
 [2021-04-15 06:21:38]: x7|zemer [xSD7, Level 0]: -ADVENTURE__=: War4life
 [2021-04-15 06:21:45]: -ADVENTURE__= [, Level 0]: ok ok sorry
 [2021-04-15 06:21:47]: Kahve [, Level 0]: Taip: el patron blockluyo seni
+[2021-04-15 06:22:00]: Taip [VergleriSay, Level 19]: yani
+[2021-04-15 06:22:02]: ***  [, Level 0]: 'Cosmo' has left the game
+[2021-04-15 06:22:04]: -ADVENTURE__= [, Level 0]: help
