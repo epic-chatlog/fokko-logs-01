@@ -2659,3 +2659,5 @@
 [2021-04-15 04:08:16]:   [, Level 0]: WarHammer: 1:  o adamı freeze yapıp hammer vurursan jaile atarsın
 [2021-04-15 04:08:18]: Mert [Blood Gang, Level 0]: :(
 [2021-04-15 04:08:34]: 1 [, Level 18]: FREEZE NE
+[2021-04-15 04:08:43]: WarHammer [DogParty, Level 0]: bu
+[2021-04-15 04:08:50]: 1 [, Level 18]: BUG DA
