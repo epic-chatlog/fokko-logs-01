@@ -12994,3 +12994,4 @@
 [2021-04-15 16:40:25]: (2)Zʷʰʸˀ [NULL, Level 26]: komm
 [2021-04-15 16:40:39]: (1)☺ [, Level 13]: 1000:
 [2021-04-15 16:40:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-15 16:42:03]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
