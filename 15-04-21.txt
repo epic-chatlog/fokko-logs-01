@@ -8326,3 +8326,9 @@
 [2021-04-15 10:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-15 10:00:57]: Sayme [, Level 0]: P4Pyr0s:
 [2021-04-15 10:00:58]: ***  [, Level 0]: 'Lucas' has left the game (Timeout)
+[2021-04-15 10:01:11]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-15 10:01:13]:   [, Level 0]: Kenshi™: P4Pyr0s: u are s6_ so die
+[2021-04-15 10:01:14]: P4Pyr0s [, Level 25]: Sayme: ?
+[2021-04-15 10:01:18]: P4Pyr0s [, Level 25]: wtf
+[2021-04-15 10:01:20]: Sayme [, Level 0]: Kenshi™: pls stop)
+[2021-04-15 10:01:21]: ***  [, Level 0]: 'Guthaben' has left the game
