@@ -5911,3 +5911,4 @@
 [2021-04-15 07:21:19]: ***  [, Level 0]: '✯|Not Bulash' has left the game
 [2021-04-15 07:21:25]: hhnaut31 [, Level 43]: eq
 [2021-04-15 07:21:26]: hhnaut31 [, Level 43]: rq
+[2021-04-15 07:22:17]: ***  [, Level 0]: 'Treebeard' has left the game
