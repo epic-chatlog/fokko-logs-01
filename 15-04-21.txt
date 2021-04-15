@@ -7971,3 +7971,4 @@
 [2021-04-15 09:30:06]: ERROR [404, Level 75]: xD
 [2021-04-15 09:30:06]: ✯ | Bulash [|Supressed|, Level 0]: ERROR: sorry im tr
 [2021-04-15 09:30:07]: ✯ | Bulash [|Supressed|, Level 0]: ERROR: sorry im try
+[2021-04-15 09:30:12]: ERROR. [404, Level 57]: u gay
