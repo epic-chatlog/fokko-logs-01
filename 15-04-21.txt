@@ -5076,3 +5076,6 @@
 [2021-04-15 06:09:49]: ***  [, Level 0]: 'hhnaut31' has left the game
 [2021-04-15 06:09:49]: ***  [, Level 0]: 'woona' has left the game
 [2021-04-15 06:10:01]: SanoreX [Chilli.*, Level 27]: ERROR: pls portal to spawn
+[2021-04-15 06:10:05]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
+[2021-04-15 06:10:07]: SanoreX.* [Chilli.*, Level 0]: krx
+[2021-04-15 06:10:08]: Antensiv_ [CrazyNoobs, Level 1]: bruh sağ tık basılı :d
