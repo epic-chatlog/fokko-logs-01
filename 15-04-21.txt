@@ -3757,3 +3757,9 @@
 [2021-04-15 05:02:02]: ***  [, Level 0]: 'MieSlime' has left the game
 [2021-04-15 05:02:10]: Mert [Blood Gang, Level 0]: kahve çekme
 [2021-04-15 05:02:15]: SanoreX [Chilli.*, Level 27]: kais: u profösyonel?
+[2021-04-15 05:02:20]: Mert [Blood Gang, Level 0]: kahve
+[2021-04-15 05:02:24]: SanoreX [Chilli.*, Level 27]: kais: u profösyonel?
+[2021-04-15 05:02:28]: ***  [, Level 0]: 'Intensiv__' has left the game
+[2021-04-15 05:02:28]: (1)kais [, Level 66]: SanoreX: yes
+[2021-04-15 05:02:29]: ***  [, Level 0]: 'Kahve' has left the game
+[2021-04-15 05:02:29]: ***  [, Level 0]: ölüm bekçisi is on a killing spree with 20 blocks
