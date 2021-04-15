@@ -6311,3 +6311,7 @@
 [2021-04-15 07:52:02]: ERROR [404, Level 75]: OPPPPPS
 [2021-04-15 07:52:03]: Axandos² [, Level 21]: troollll
 [2021-04-15 07:52:05]: Recep [VergleriSay, Level 10]: I HAVE 26K
+[2021-04-15 07:52:09]: Recep [VergleriSay, Level 10]: I CAN GIVE YOU 13K
+[2021-04-15 07:52:10]: Killua [FookinLads, Level 0]: Swarfey:remove from list when  exited game and all when server shutdown Swarfey
+[2021-04-15 07:52:10]: ***  [, Level 0]: 'Golden Tee' has left the game
+[2021-04-15 07:52:16]: Cylox. [{TQuila}, Level 0]: sad
