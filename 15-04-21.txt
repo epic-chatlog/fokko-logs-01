@@ -7849,3 +7849,5 @@
 [2021-04-15 09:14:50]: ***  [, Level 0]: '(1)Ðream' has left the game
 [2021-04-15 09:14:50]: ***  [, Level 0]: '(1)Ƭevan' has left the game
 [2021-04-15 09:14:55]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
+[2021-04-15 09:15:11]: darkstar [Legacy™, Level 19]: how unskilled
+[2021-04-15 09:15:19]: ***  [, Level 0]: Zerstrian is on a killing spree with 5 blocks
