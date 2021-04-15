@@ -4391,3 +4391,5 @@
 [2021-04-15 05:37:21]: Flipper [, Level 16]: nono
 [2021-04-15 05:37:26]: ***  [, Level 0]: 577. BC|kakashi Time: 01:29.96, requested by BC|kakashi
 [2021-04-15 05:37:31]: ***  [, Level 0]: '(2)Cosmo' has left the game
+[2021-04-15 05:37:34]: ***  [, Level 0]: BC|kakashi is on a killing spree with 5 blocks
+[2021-04-15 05:37:44]: Wayllan Kath [, Level 0]: troll
