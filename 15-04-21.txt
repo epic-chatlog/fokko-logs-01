@@ -4807,3 +4807,5 @@
 [2021-04-15 05:56:35]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
 [2021-04-15 05:56:39]: SanoreX.* [Chilli.*, Level 22]: krx
 [2021-04-15 05:56:41]: PARDUS [CRAZY TURKS, Level 0]: oyun krallı: en geldim
+[2021-04-15 05:56:51]: Kezo [DogParty, Level 41]: 7 5
+[2021-04-15 05:56:52]: Kezo [DogParty, Level 41]: 7 4
