@@ -6144,3 +6144,8 @@
 [2021-04-15 07:42:28]: ***  [, Level 0]: 'darkstar4' entered and joined the game
 [2021-04-15 07:42:30]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 27.60 second(s)
 [2021-04-15 07:42:37]:   [, Level 0]: Matiteusz: Ðream: then tell him
+[2021-04-15 07:42:52]: cookie [, Level 20]: Axandos:  why dude
+[2021-04-15 07:42:53]: Recep [VergleriSay, Level 10]: Kirito
+[2021-04-15 07:42:54]: Recep [VergleriSay, Level 10]: bro
+[2021-04-15 07:42:58]: Kahve [, Level 23]: Cylox:
+[2021-04-15 07:42:58]: Recep [VergleriSay, Level 10]: helppppppppp
