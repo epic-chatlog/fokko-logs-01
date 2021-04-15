@@ -7251,3 +7251,6 @@
 [2021-04-15 08:34:59]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-15 08:35:03]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-15 08:35:13]: ***  [, Level 0]: '[D] tee' entered and joined the game
+[2021-04-15 08:35:32]: ERROR. [404, Level 57]: xD
+[2021-04-15 08:35:32]: ***  [, Level 0]: 'Ðeathscyth' has left the game
+[2021-04-15 08:35:33]: ***  [, Level 0]: 'harmless tee' entered and joined the game
