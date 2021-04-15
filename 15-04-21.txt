@@ -11607,3 +11607,8 @@
 [2021-04-15 13:32:10]: test [abc, Level 0]: ;vote 1
 [2021-04-15 13:32:15]: Nudelsaft c: [FookinLads, Level 0]: aaaaa
 [2021-04-15 13:32:25]: Kenshi™ [, Level 0]: ChillerDragon: next time never try me
+[2021-04-15 13:32:30]: ***  [, Level 0]: '(1)test' entered and joined the game
+[2021-04-15 13:32:33]: (1)test [abc, Level 0]: ;vote 1
+[2021-04-15 13:32:35]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
+[2021-04-15 13:32:37]: (1)ChillerDrago [Chilli.*, Level 45]: what Kenshi™ when did i try u
+[2021-04-15 13:32:39]: ***  [, Level 0]: '(1)test' has left the game
