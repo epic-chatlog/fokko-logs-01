@@ -4705,3 +4705,6 @@
 [2021-04-15 05:52:07]: Kezo [DogParty, Level 41]: hadi birbirimize ateş edince başlar 10da biter
 [2021-04-15 05:52:11]: Taip [VergleriSay, Level 19]: do you want back jetpack?
 [2021-04-15 05:52:13]: woona [, Level 48]: xd
+[2021-04-15 05:52:20]: Flipper [, Level 16]: demoiz
+[2021-04-15 05:52:24]: ***  [, Level 0]: 'power' has left the game
+[2021-04-15 05:52:24]: ***  [, Level 0]: 'power2' has left the game
