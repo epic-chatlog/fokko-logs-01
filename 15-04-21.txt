@@ -9984,3 +9984,7 @@
 [2021-04-15 11:58:27]: bob [669, Level 36]: HeavyGeneral:
 [2021-04-15 11:58:29]:   [, Level 0]: HeavyGeneral: bob:
 [2021-04-15 11:58:35]:   [, Level 0]: Zephir™: TZSA: fucking fan
+[2021-04-15 11:58:40]: ***  [, Level 0]: 'Eden' has left the game
+[2021-04-15 11:58:40]: ***  [, Level 0]: 'XxxBgLucas' has left the game
+[2021-04-15 11:58:44]: Taip [VergleriSay, Level 19]: why bro
+[2021-04-15 11:58:44]: sharkz [, Level 45]: HeavyGeneral: cani join me beig fen
