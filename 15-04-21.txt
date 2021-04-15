@@ -4436,3 +4436,8 @@
 [2021-04-15 05:39:27]: ***  [, Level 0]: 'Adleg' has left the game
 [2021-04-15 05:39:29]: Flipper [, Level 16]: xd cuz of kirito?
 [2021-04-15 05:39:32]: SanoreX.* [Chilli.*, Level 22]: Kirito: KRX
+[2021-04-15 05:39:34]: SanoreX.* [Chilli.*, Level 22]: Kirito: KrX
+[2021-04-15 05:39:37]: SanoreX.* [Chilli.*, Level 22]: krX
+[2021-04-15 05:39:40]: SanoreX.* [Chilli.*, Level 22]: KrX
+[2021-04-15 05:39:42]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-15 05:39:43]: SanoreX.* [Chilli.*, Level 22]: KİİRİK
