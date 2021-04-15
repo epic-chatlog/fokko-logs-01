@@ -4978,3 +4978,4 @@
 [2021-04-15 06:04:05]: Kahve [, Level 23]: yok
 [2021-04-15 06:04:07]: ***  [, Level 0]: '[D] Kahve' entered and joined the game
 [2021-04-15 06:04:10]: Kezo [DogParty, Level 41]: El patron: you dont dog ?
+[2021-04-15 06:04:15]: ***  [, Level 0]: 'power' entered and joined the game
