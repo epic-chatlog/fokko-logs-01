@@ -10813,3 +10813,7 @@
 [2021-04-15 12:35:21]: BC|Tixnix [BC, Level 34]: ERROR: lestens
 [2021-04-15 12:35:29]: (1)☺ [, Level 13]: any²:
 [2021-04-15 12:35:37]: ***  [, Level 0]: ### 'WarHammer' COME SPAWN İ GİVE JET
+[2021-04-15 12:35:42]: LGBT+ General [404, Level 42]: ez
+[2021-04-15 12:35:46]: ***  [, Level 0]: 'grrra' has left the game
+[2021-04-15 12:35:48]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-15 12:35:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
