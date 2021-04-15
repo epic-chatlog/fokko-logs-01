@@ -9592,3 +9592,4 @@
 [2021-04-15 11:25:33]: GODLIKe [, Level 44]: JustRace.: my dog cry now :cc
 [2021-04-15 11:25:34]: ***  [, Level 0]: 'JustRace' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-15 11:25:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-15 11:26:01]: BitchPlease Jr. [BBM, Level 50]: heelp
