@@ -8482,3 +8482,9 @@
 [2021-04-15 10:13:38]: ***  [, Level 0]: 'peS' entered and joined the game
 [2021-04-15 10:13:41]: Zephir™ [, Level 40]: YelloWorlD: daccord très bien
 [2021-04-15 10:13:42]: YelloWorlD [DogParty, Level 41]: Zephir™: t'aide mes enemy
+[2021-04-15 10:13:46]: ***  [, Level 0]: ERROR is on a killing spree with 5 blocks
+[2021-04-15 10:13:48]: ***  [, Level 0]: ### 'WarHammer' xd
+[2021-04-15 10:13:51]: YelloWorlD [DogParty, Level 41]: ERROR: he help bob
+[2021-04-15 10:13:53]: Zephir™ [, Level 40]: YelloWorlD: je t'aide toi + t'es ennemis mais ok
+[2021-04-15 10:13:53]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-15 10:13:54]: ***  [, Level 0]: '[D] peS' entered and joined the game
