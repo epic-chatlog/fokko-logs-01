@@ -2742,3 +2742,4 @@
 [2021-04-15 04:15:28]: Mert [Blood Gang, Level 0]: why
 [2021-04-15 04:15:48]: Taip [VergleriSay, Level 19]: help pls
 [2021-04-15 04:15:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-15 04:15:59]: ***  [, Level 0]: 'Cylox' entered and joined the game
