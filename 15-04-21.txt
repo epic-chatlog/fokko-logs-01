@@ -7811,3 +7811,5 @@
 [2021-04-15 09:10:03]: ***  [, Level 0]: 'Mista bombastic' has left the game
 [2021-04-15 09:10:10]: ***  [, Level 0]: 'DonkeyMilk' entered and joined the game
 [2021-04-15 09:10:11]: ERROR [404, Level 75]: und bin mit rifle sogut der bot würde nur ablenken xDDD Swarfey
+[2021-04-15 09:10:31]: Swarfey [FookinLads, Level 59]: no
+[2021-04-15 09:10:36]: ✯|Not Bulash [|Supressed|, Level 0]: Swarfey: stop help for my enemy
