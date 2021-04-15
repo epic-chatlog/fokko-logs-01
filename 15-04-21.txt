@@ -7780,3 +7780,7 @@
 [2021-04-15 09:06:50]: aimbot aaaaaaaa [FookinLads, Level 42]: ERROR: schreib mal bot
 [2021-04-15 09:06:53]: ERROR. [404, Level 57]: bot
 [2021-04-15 09:06:53]: aimbot aaaaaaaa [FookinLads, Level 42]: xd
+[2021-04-15 09:06:55]: (3)Zʷʰʸˀ [NULL, Level 26]: ahahahah
+[2021-04-15 09:06:59]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: XD
+[2021-04-15 09:07:01]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: help
+[2021-04-15 09:07:03]: ERROR. [404, Level 57]: aimbot
