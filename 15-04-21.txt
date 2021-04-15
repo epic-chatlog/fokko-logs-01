@@ -5385,3 +5385,4 @@
 [2021-04-15 06:27:22]: ***  [, Level 0]: 'zemer' has left the game (Timeout)
 [2021-04-15 06:27:31]: Intensiv_ [CrazyNoobs, Level 5]: Cylox:  üstteki farma git
 [2021-04-15 06:27:34]: Intensiv_ [CrazyNoobs, Level 5]: Cylox:  üstteki farma git bomboş
+[2021-04-15 06:27:46]: Cylox. [{TQuila}, Level 0]: Intensiv: orası çöp ben burda +5 para alıyorum
