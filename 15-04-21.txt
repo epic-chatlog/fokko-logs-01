@@ -2375,3 +2375,9 @@
 [2021-04-15 03:49:26]: SanoreX [Chilli.*, Level 27]: Telefantastic: AHAHAHA big joke
 [2021-04-15 03:49:27]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
 [2021-04-15 03:49:30]: ***  [, Level 0]: '[D] BC|kakashi' has left the game
+[2021-04-15 03:49:30]: ***  [, Level 0]: 'BC|kakashi' has left the game
+[2021-04-15 03:49:37]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
+[2021-04-15 03:49:39]: SanoreX [Chilli.*, Level 27]: Telefantastic: HEEŞLP
+[2021-04-15 03:49:40]: ***  [, Level 0]: '(1)GODLIKe' has left the game
+[2021-04-15 03:49:40]: ***  [, Level 0]: 'GODLIKe.' has left the game
+[2021-04-15 03:49:41]: SanoreX [Chilli.*, Level 27]: Telefantastic: HEEŞLP SPECC
