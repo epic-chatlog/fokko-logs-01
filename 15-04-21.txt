@@ -3590,3 +3590,8 @@
 [2021-04-15 04:55:00]: SanoreX [Chilli.*, Level 0]: kais: give
 [2021-04-15 04:55:04]: SanoreX [Chilli.*, Level 0]: plot spawn
 [2021-04-15 04:55:04]: kais [, Level 58]: SanoreX: NO
+[2021-04-15 04:55:09]: SanoreX [Chilli.*, Level 27]: kais: give
+[2021-04-15 04:55:10]: kais [, Level 58]: #5 blocker: i come back with jetpack for u
+[2021-04-15 04:55:12]:   [, Level 0]: Mert: al plşan oldumu
+[2021-04-15 04:55:16]: ***  [, Level 0]: [D]ϻɪɔʜɑʟ finished in: 1 minute(s) 16.22 second(s)
+[2021-04-15 04:55:16]: ***  [, Level 0]: New record: 45.20 second(s) better.
