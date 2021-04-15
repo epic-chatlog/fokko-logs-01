@@ -8374,3 +8374,9 @@
 [2021-04-15 10:05:24]: YelloWorlD [DogParty, Level 41]: HeavyGeneral: aimbot
 [2021-04-15 10:05:36]:   [, Level 0]: WarHammer: mamikral011:  ne
 [2021-04-15 10:05:43]:   [, Level 0]: mamikral011: bob: :D
+[2021-04-15 10:05:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-15 10:05:53]:   [, Level 0]: mamikral011: bob: pls again portal
+[2021-04-15 10:05:54]: ***  [, Level 0]: 'UnRatonNRV' has left the game
+[2021-04-15 10:05:55]:   [, Level 0]: WarHammer: aany
+[2021-04-15 10:05:56]:   [, Level 0]: WarHammer: any
+[2021-04-15 10:05:57]: ***  [, Level 0]: 'MaMi' entered and joined the game
