@@ -4613,3 +4613,8 @@
 [2021-04-15 05:48:02]:   [, Level 0]: Mert: tevan
 [2021-04-15 05:48:04]: El patron [, Level 30]: Kezo: ?
 [2021-04-15 05:48:08]: oyun krallı [, Level 18]: ARDA ÇEKECEKTİM  KEZO
+[2021-04-15 05:48:15]: Kezo [DogParty, Level 41]: El patron:  you have war with zephir ?
+[2021-04-15 05:48:17]: SanoreX [Chilli.*, Level 27]: krx
+[2021-04-15 05:48:20]: oyun krallı [, Level 18]: ARDA ÇEKECEKTİM  KEZO
+[2021-04-15 05:48:21]: El patron [, Level 30]: Kezo:  no is good friend
+[2021-04-15 05:48:22]: Kezo [DogParty, Level 41]: oyun krallı: çekmedin ?
