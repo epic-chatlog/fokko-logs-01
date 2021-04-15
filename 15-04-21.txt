@@ -8302,3 +8302,6 @@
 [2021-04-15 09:57:03]: ***  [, Level 0]: 'SanoreX' has left the game
 [2021-04-15 09:58:09]: zZz [{D}, Level 0]: YelloWorlD: i helper ChillerDragon
 [2021-04-15 09:58:15]: YelloWorlD [DogParty, Level 41]: zZz: yes so war
+[2021-04-15 09:58:23]: zZz [{D}, Level 0]: YelloWorlD: no war
+[2021-04-15 09:58:32]: ***  [, Level 0]: 'Zephir™' entered and joined the game
+[2021-04-15 09:58:33]: ***  [, Level 0]: 'Gonzo' entered and joined the game
