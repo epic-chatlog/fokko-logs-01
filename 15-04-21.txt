@@ -5201,3 +5201,9 @@
 [2021-04-15 06:15:46]: Mert [Blood Gang, Level 0]: sg
 [2021-04-15 06:15:47]: Mert [Blood Gang, Level 0]: lan
 [2021-04-15 06:15:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-15 06:15:56]: Mert [Blood Gang, Level 0]: ağlamad
+[2021-04-15 06:15:56]: Matiteusz [TrRShClNrRs, Level 36]: ERROR: i did
+[2021-04-15 06:16:01]: ***  [, Level 0]: '(1)Intensiv_' has left the game
+[2021-04-15 06:16:01]: Mert [Blood Gang, Level 0]: ağlıyo
+[2021-04-15 06:16:01]: SanoreX [Chilli.*, Level 27]: komando: amkmısın
+[2021-04-15 06:16:02]: Mert [Blood Gang, Level 0]: amk
