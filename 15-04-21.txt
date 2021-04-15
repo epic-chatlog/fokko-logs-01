@@ -2757,3 +2757,8 @@
 [2021-04-15 04:17:48]: Taip [VergleriSay, Level 19]: i have double jump
 [2021-04-15 04:17:57]: Mert [Blood Gang, Level 0]: çektim seni
 [2021-04-15 04:18:03]: ***  [, Level 0]: 'uptotee' has left the game
+[2021-04-15 04:18:05]: ***  [, Level 0]: 'uptotee' entered and joined the game
+[2021-04-15 04:18:05]: ***  [, Level 0]: 'PaXiFiXi' has left the game
+[2021-04-15 04:18:05]: #5 blocker [|*MorE*|, Level 24]: weqe: stop
+[2021-04-15 04:18:08]: Zephir™sucks [, Level 36]: #5 blocker: u see he start
+[2021-04-15 04:18:13]: Zephir™sucks [, Level 36]: #5 blocker: i no block him
