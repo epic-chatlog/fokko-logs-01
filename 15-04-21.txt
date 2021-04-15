@@ -4723,3 +4723,5 @@
 [2021-04-15 05:52:58]: SanoreX.* [Chilli.*, Level 22]: krx
 [2021-04-15 05:53:02]: (1)Intensiv_ [CrazyNoobs, Level 0]: 1 v1
 [2021-04-15 05:53:04]: (1)Intensiv_ [CrazyNoobs, Level 0]: 1  1
+[2021-04-15 05:53:04]: Kezo [DogParty, Level 41]: 2 0
+[2021-04-15 05:53:12]: GODLIKe [, Level 44]: LAGG
