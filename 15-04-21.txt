@@ -7726,3 +7726,4 @@
 [2021-04-15 09:00:55]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
 [2021-04-15 09:00:58]: Coca [Drunks, Level 16]: what now
 [2021-04-15 09:01:05]: Axel [TrRShClNrRs, Level 30]: xD
+[2021-04-15 09:01:11]: [D] El patron [, Level 24]: Coca: fun
