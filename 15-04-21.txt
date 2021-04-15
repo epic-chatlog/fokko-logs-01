@@ -9335,3 +9335,4 @@
 [2021-04-15 11:06:04]: GODLIKe [, Level 44]: 4 dummy
 [2021-04-15 11:06:04]: ***  [, Level 0]: El patron is on a killing spree with 5 blocks
 [2021-04-15 11:06:06]: (2)Shy-ra. [, Level 0]: i am nice
+[2021-04-15 11:06:18]: El patron [, Level 30]: GODLIKe: lern to write
