@@ -9451,3 +9451,5 @@
 [2021-04-15 11:15:03]: ***  [, Level 0]: 'darkstar4' finished the special race!
 [2021-04-15 11:15:03]: JustRace. [DogParty, Level 29]: Zephir™:  do /block
 [2021-04-15 11:15:08]: Ƭevan [TrRShClNrRs, Level 49]: nub
+[2021-04-15 11:15:13]:   [, Level 0]: Kirito: Lucas:
+[2021-04-15 11:15:17]:   [, Level 0]: Kirito: Lucas: jumps?
