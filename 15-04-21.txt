@@ -8567,3 +8567,5 @@
 [2021-04-15 10:20:31]:   [, Level 0]: GODLIKe: zZz: yes ı heper
 [2021-04-15 10:20:40]: Cylox [, Level 31]: ERROR: why block me YelloWorlD
 [2021-04-15 10:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-15 10:21:06]: ***  [, Level 0]: YelloWorlD is on a killing spree with 30 blocks
+[2021-04-15 10:21:08]:   [, Level 0]: mamikral011: Cylox.: valla bizim adam atmış ohaaa baya düşmanın va
