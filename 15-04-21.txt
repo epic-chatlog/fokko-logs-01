@@ -9777,3 +9777,5 @@
 [2021-04-15 11:42:08]: Taip [VergleriSay, Level 19]: wuw
 [2021-04-15 11:42:24]: ***  [, Level 0]: 'Matiteusz' has left the game
 [2021-04-15 11:42:26]: ***  [, Level 0]: 'Banasiczek1' entered and joined the game
+[2021-04-15 11:42:29]: ***  [, Level 0]: 'Banasiczek1' has left the game
+[2021-04-15 11:42:39]: Taip [VergleriSay, Level 19]: help
