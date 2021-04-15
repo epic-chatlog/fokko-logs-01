@@ -10563,3 +10563,6 @@
 [2021-04-15 12:22:22]: ***  [, Level 0]: 'ES' entered and joined the game
 [2021-04-15 12:22:22]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-15 12:22:22]: bob [669, Level 36]: BC|kakashi: danke für deine hilfe
+[2021-04-15 12:22:42]: ***  [, Level 0]: 'grrra' has left the game
+[2021-04-15 12:22:44]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-15 12:22:45]: bob [669, Level 36]: weqe: stop attacking them they my team
