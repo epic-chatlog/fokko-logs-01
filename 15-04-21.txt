@@ -7804,3 +7804,6 @@
 [2021-04-15 09:09:28]: ***  [, Level 0]: 'CowMilk' entered and joined the game
 [2021-04-15 09:09:32]: Swarfey [FookinLads, Level 59]: ERROR: und vorallem spreade ich keine wie kirito
 [2021-04-15 09:09:35]: ERROR [404, Level 75]: ah wollte mir die luas in ath mal anschauen
+[2021-04-15 09:09:41]: Swarfey [FookinLads, Level 59]: AAAA CHEATER
+[2021-04-15 09:09:42]: ✯|Not Bulash [|Supressed|, Level 0]: Swarfey:
+[2021-04-15 09:09:50]: ERROR [404, Level 75]: ath hat keinen  bot drinne ^^
