@@ -2615,3 +2615,6 @@
 [2021-04-15 04:05:50]: Taip [VergleriSay, Level 19]: paran kaçtı
 [2021-04-15 04:05:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-15 04:05:52]: Taip [VergleriSay, Level 19]: ne kadar gitti
+[2021-04-15 04:05:58]: SanoreX [Chilli.*, Level 27]: *0?
+[2021-04-15 04:06:00]: #5 blocker [|*MorE*|, Level 24]: weqe: stop pls i think pls no war
+[2021-04-15 04:06:00]: SanoreX [Chilli.*, Level 27]: off
