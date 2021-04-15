@@ -2804,3 +2804,10 @@
 [2021-04-15 04:20:38]:   [, Level 0]: Swarfey: hi
 [2021-04-15 04:20:40]: weqe [669, Level 12]: #5 blocker: no help = war
 [2021-04-15 04:20:40]: Mert [Blood Gang, Level 0]: hi
+[2021-04-15 04:20:42]:   [, Level 0]: Swarfey: how are u
+[2021-04-15 04:20:46]: Taip [VergleriSay, Level 19]: pls come
+[2021-04-15 04:20:46]:   [, Level 0]: Swarfey: jk idc
+[2021-04-15 04:20:47]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-15 04:20:49]: Kenshi™sucks [, Level 35]: #5 blocker: no wory
+[2021-04-15 04:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 04:20:51]: Taip [VergleriSay, Level 19]: pls
