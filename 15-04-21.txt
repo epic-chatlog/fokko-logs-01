@@ -43,3 +43,8 @@
 [2021-04-15 01:33:01]: ***  [, Level 0]: New record: 33.46 second(s) better.
 [2021-04-15 01:33:03]: comic [comically, Level 15]: ye ile give
 [2021-04-15 01:33:04]: Foxie♥ [{TQuila}, Level 36]: YES
+[2021-04-15 01:33:08]: Foxie♥ [{TQuila}, Level 36]: 40 SECCCS
+[2021-04-15 01:33:08]: ***  [, Level 0]: 'WarHammer'' has left the game
+[2021-04-15 01:33:10]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-15 01:33:11]: Foxie♥ [{TQuila}, Level 36]: EZZZZZZZZ
+[2021-04-15 01:33:12]: SanoreX [Chilli.*, Level 27]:  /money drop 1900
