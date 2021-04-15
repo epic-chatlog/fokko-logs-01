@@ -4264,3 +4264,4 @@
 [2021-04-15 05:30:38]:   [, Level 0]: Taip: help pls
 [2021-04-15 05:30:39]: Kezo [DogParty, Level 41]: Axandos: do my dog and i dont block you
 [2021-04-15 05:30:39]: (2)cookie [, Level 0]: casserole :p:  help
+[2021-04-15 05:30:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
