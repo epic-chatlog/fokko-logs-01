@@ -5642,3 +5642,5 @@
 [2021-04-15 06:51:21]: SanoreX [Chilli.*, Level 27]: login xd
 [2021-04-15 06:51:24]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-15 06:52:30]: ***  [, Level 0]: 'Cylox.' entered and joined the game
+[2021-04-15 06:53:12]: ***  [, Level 0]: 'SanoreX.*' would have timed out, but can use timeout protection now
+[2021-04-15 06:53:12]: ***  [, Level 0]: 'SanoreX' would have timed out, but can use timeout protection now
