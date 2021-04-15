@@ -12204,3 +12204,7 @@
 [2021-04-14 17:00:23]: Flipper [, Level 16]: cmon
 [2021-04-14 17:00:32]: Flipper [, Level 16]: look
 [2021-04-14 17:00:34]: Flipper [, Level 16]: cmon
+[2021-04-14 17:00:42]: (1)Zʷʰʸˀ [NULL, Level 36]: Zephir™: kiritos arguments are pointless xD
+[2021-04-14 17:00:44]: Flipper [, Level 16]: you just said we come 1v5
+[2021-04-14 17:00:48]: Flipper [, Level 16]: im here by myself
+[2021-04-14 17:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
