@@ -10819,3 +10819,8 @@
 [2021-04-15 12:35:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-15 12:35:52]: ***  [, Level 0]: ### 'WarHammer' COME SPAWN İ GİVE JET
 [2021-04-15 12:36:01]: Cylox. [, Level 24]: ERROR:
+[2021-04-15 12:36:06]: Cylox. [, Level 24]: ERROR: man
+[2021-04-15 12:36:07]: bob [669, Level 36]: weqe: WTF CALL ME
+[2021-04-15 12:36:10]: ***  [, Level 0]: 'ölüm bekçisi' entered and joined the game
+[2021-04-15 12:36:11]: weqe [669, Level 13]: I COULDNT bob
+[2021-04-15 12:36:13]: BC|kakashi [BC, Level 13]: ERROR: ah ja
