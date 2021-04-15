@@ -5069,3 +5069,5 @@
 [2021-04-15 06:09:01]: SanoreX [Chilli.*, Level 27]: ERROR: drop jetpack to spawn I need
 [2021-04-15 06:09:06]: ***  [, Level 0]: 'Not Zerstrian' entered and joined the game
 [2021-04-15 06:09:17]: #5 blocker [|*MorE*|, Level 0]: kais: come secret
+[2021-04-15 06:09:31]: #5 blocker [|*MorE*|, Level 0]: turn on entites
+[2021-04-15 06:09:38]: ***  [, Level 0]: 'GODLIKe' has left the game
