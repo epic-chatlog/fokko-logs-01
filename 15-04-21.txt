@@ -11942,3 +11942,7 @@
 [2021-04-15 14:13:01]: ***  [, Level 0]: HeavyGeneral is on a killing spree with 5 blocks
 [2021-04-15 14:13:03]: ***  [, Level 0]: ### 'HeavyGeneral' Pidor got mad OOF.
 [2021-04-15 14:13:05]: HeavyGeneral [FookinLads, Level 44]: noob.
+[2021-04-15 14:13:05]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-15 14:13:06]: ***  [, Level 0]: ### 'LareneGyvaeh' Pidor got mad OOF.
+[2021-04-15 14:13:07]: ***  [, Level 0]: ### 'LareneGyvaeh' REEEEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-15 14:13:16]: Rem's dummy [, Level 38]: hey HeavyGeneral _D
