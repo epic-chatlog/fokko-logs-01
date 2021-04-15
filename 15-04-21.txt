@@ -4763,3 +4763,9 @@
 [2021-04-15 05:54:52]: Kezo [DogParty, Level 41]: oyun krallı: aptalmısın bro
 [2021-04-15 05:54:52]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
 [2021-04-15 05:54:53]: Kezo [DogParty, Level 41]: hadi
+[2021-04-15 05:54:57]: Kezo [DogParty, Level 41]: oyun krallı: olm sen almadın
+[2021-04-15 05:54:58]: Kezo [DogParty, Level 41]: ne alaka
+[2021-04-15 05:55:00]: Kezo [DogParty, Level 41]: eşit
+[2021-04-15 05:55:02]: (1)Intensiv_ [CrazyNoobs, Level 0]: eşit aq ikinizede sayı geldi
+[2021-04-15 05:55:04]: #5 blocker [|*MorE*|, Level 0]: Intensiv: help
+[2021-04-15 05:55:04]: (1)Intensiv_ [CrazyNoobs, Level 0]: izliyom ben
