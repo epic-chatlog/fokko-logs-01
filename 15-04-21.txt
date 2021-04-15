@@ -1920,3 +1920,5 @@
 [2021-04-15 03:20:14]: ***  [, Level 0]: satou finished in: 31 minute(s) 59.42 second(s)
 [2021-04-15 03:20:22]: Meetiteusz [TrRShClNrRs, Level 28]: Isegrin: alpo e boj
 [2021-04-15 03:20:23]: Isegrin [, Level 55]: Matiteusz: moge byc eboi bo mam fjutta
+[2021-04-15 03:20:29]: Meetiteusz [TrRShClNrRs, Level 28]: Isegrin: to nie mjej
+[2021-04-15 03:20:33]: ***  [, Level 0]: Collected 3 money
