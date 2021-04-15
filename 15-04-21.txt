@@ -5546,3 +5546,4 @@
 [2021-04-15 06:44:27]: Cylox [{TQuila}, Level 31]: cookie: xD
 [2021-04-15 06:44:28]: power [TrRShClNrRs, Level 15]: Cylox: whats adi translated
 [2021-04-15 06:44:45]: {POLICE OFFIS} [, Level 0]: Kezo:
+[2021-04-15 06:45:21]: ***  [, Level 0]: 'Wayllan Kath' has left the game
