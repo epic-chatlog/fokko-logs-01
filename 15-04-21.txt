@@ -3970,3 +3970,7 @@
 [2021-04-15 05:11:37]: SanoreX [Chilli.*, Level 27]: KAİs
 [2021-04-15 05:11:40]: SanoreX [Chilli.*, Level 27]: KAiS
 [2021-04-15 05:11:43]: ***  [, Level 0]: 'Kezo' changed name to 'cat'
+[2021-04-15 05:11:46]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-15 05:11:50]: cat [DogParty, Level 41]: cookie: this ?
+[2021-04-15 05:11:53]: Mert [Blood Gang, Level 0]: yapmaaa
+[2021-04-15 05:11:56]: cookie [, Level 20]: cat:  yes i know
