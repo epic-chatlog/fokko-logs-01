@@ -10897,3 +10897,5 @@
 [2021-04-15 12:40:14]: ***  [, Level 0]: 'woona' entered and joined the game
 [2021-04-15 12:40:20]:   [, Level 0]: WarHammer': woona:  AL JET
 [2021-04-15 12:40:26]: Zephir™ [, Level 40]: ERROR: look xD we are in voc discord
+[2021-04-15 12:40:32]: Zephir™ [, Level 40]: El patron: u have discord ?
+[2021-04-15 12:40:39]: El patron [, Level 30]: Zephir™: YO
