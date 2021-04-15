@@ -1866,3 +1866,5 @@
 [2021-04-15 03:17:06]: ***  [, Level 0]: 'Adleg' has left the game
 [2021-04-15 03:17:07]: ***  [, Level 0]: 'casserole :p' entered and joined the game
 [2021-04-15 03:17:21]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
+[2021-04-15 03:17:29]: SanoreX [Chilli.*, Level 27]: Mert: dur ama
+[2021-04-15 03:17:34]: SanoreX [Chilli.*, Level 27]: Mert: küsmüsünp
