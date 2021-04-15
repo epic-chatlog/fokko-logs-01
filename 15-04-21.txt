@@ -6056,3 +6056,9 @@
 [2021-04-15 07:38:37]: mamikral011 [DogParty, Level 0]: Kahve: düştün aq
 [2021-04-15 07:38:41]: [D] El patron [, Level 24]: Axandos: wieso
 [2021-04-15 07:38:43]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 30.18 second(s)
+[2021-04-15 07:38:44]: Cylox [{TQuila}, Level 31]: soleri1:
+[2021-04-15 07:38:45]: Kahve [, Level 23]: Taip: blokla
+[2021-04-15 07:38:45]: Taip [VergleriSay, Level 19]: kb
+[2021-04-15 07:38:46]: Kahve [, Level 23]: aq
+[2021-04-15 07:38:50]: ***  [, Level 0]: 'Intensiv' entered and joined the game
+[2021-04-15 07:38:55]: Taip [VergleriSay, Level 19]: sizin warınız
