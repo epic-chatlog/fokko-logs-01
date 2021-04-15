@@ -5290,3 +5290,4 @@
 [2021-04-15 06:19:19]: Kezo [DogParty, Level 41]: krz
 [2021-04-15 06:19:21]: Kezo [DogParty, Level 41]: krx
 [2021-04-15 06:19:30]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-15 06:19:37]: Taip [VergleriSay, Level 19]: cookie: help
