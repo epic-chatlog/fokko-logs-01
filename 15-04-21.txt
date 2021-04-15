@@ -4714,3 +4714,7 @@
 [2021-04-15 05:52:34]: oyun krallı [, Level 18]: 1 sıfır
 [2021-04-15 05:52:39]: Kezo [DogParty, Level 41]: kim kazandı
 [2021-04-15 05:52:39]: oyun krallı [, Level 18]: 1 sıfır
+[2021-04-15 05:52:43]: ***  [, Level 0]: Mert is on a killing spree with 10 blocks
+[2021-04-15 05:52:43]: (1)Intensiv_ [CrazyNoobs, Level 0]:  debitiyor oyun krallı  Kezo
+[2021-04-15 05:52:48]: (1)Intensiv_ [CrazyNoobs, Level 0]:  3 debitiyor oyun krallı  Kezo
+[2021-04-15 05:52:52]: Kezo [DogParty, Level 41]: 10 da
