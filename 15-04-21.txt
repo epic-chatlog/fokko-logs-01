@@ -8168,3 +8168,10 @@
 [2021-04-15 09:45:42]: ***  [, Level 0]: '(2)Cosmo' has left the game
 [2021-04-15 09:45:42]: ***  [, Level 0]: 'Cosmo' has left the game
 [2021-04-15 09:45:42]: ***  [, Level 0]: '(1)Cosmo' has left the game
+[2021-04-15 09:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-15 09:45:51]: (3)Zʷʰʸˀ [NULL, Level 26]: lel
+[2021-04-15 09:45:53]: Taip [VergleriSay, Level 19]: krx
+[2021-04-15 09:45:53]: ***  [, Level 0]: HorseMilksHorse is on a killing spree with 5 blocks
+[2021-04-15 09:45:55]:   [, Level 0]: MaMi: (3)BLACK: war?
+[2021-04-15 09:45:59]: Taip [VergleriSay, Level 19]: krx
+[2021-04-15 09:46:01]: Taip [VergleriSay, Level 19]: kxe
