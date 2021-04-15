@@ -8566,3 +8566,4 @@
 [2021-04-15 10:20:24]: _CHUCKY_ [, Level 0]: u re dumb
 [2021-04-15 10:20:31]:   [, Level 0]: GODLIKe: zZz: yes ı heper
 [2021-04-15 10:20:40]: Cylox [, Level 31]: ERROR: why block me YelloWorlD
+[2021-04-15 10:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
