@@ -8527,3 +8527,5 @@
 [2021-04-15 10:16:59]:   [, Level 0]: bob: yes
 [2021-04-15 10:17:00]:   [, Level 0]: bob: but
 [2021-04-15 10:17:04]:   [, Level 0]: bob: he didnt know
+[2021-04-15 10:17:23]: ***  [, Level 0]: 'Ikolonor' entered and joined the game
+[2021-04-15 10:17:30]: any² [404, Level 0]: YelloWorlD: de ce qu'il m'explique il vous a aidé vous 2 donc je vois pas pk tu le war ...
