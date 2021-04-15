@@ -8161,3 +8161,7 @@
 [2021-04-15 09:45:11]: ***  [, Level 0]: 'BENJI3103' has left the game (Timeout)
 [2021-04-15 09:45:12]: Taip [VergleriSay, Level 19]: normal dünyada
 [2021-04-15 09:45:23]: Taip [VergleriSay, Level 19]: Türk Türk ü hapse atıyo
+[2021-04-15 09:45:27]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-15 09:45:32]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-15 09:45:32]:   [, Level 0]: MaMi: Taip: ok
+[2021-04-15 09:45:32]: Taip [VergleriSay, Level 19]: bence bunda da olmalı
