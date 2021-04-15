@@ -5538,3 +5538,4 @@
 [2021-04-15 06:43:36]: El patron [, Level 30]: Kezo:  he wanna help Cylox
 [2021-04-15 06:43:43]: {POLICE OFFIS} [, Level 0]: flappy:
 [2021-04-15 06:43:47]: ERROR. [404, Level 57]: dont help anyone
+[2021-04-15 06:43:54]: [D] El patron [, Level 24]: xd
