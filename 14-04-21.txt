@@ -12362,3 +12362,6 @@
 [2021-04-14 17:28:00]: ***  [, Level 0]: Flupper is on a killing spree with 5 blocks
 [2021-04-14 17:28:01]: Flupper [, Level 40]: okay
 [2021-04-14 17:28:42]: Zephir™ [, Level 40]: Zʷʰʸˀ:
+[2021-04-14 17:28:49]: ***  [, Level 0]: Flupper is on a killing spree with 10 blocks
+[2021-04-14 17:28:54]: ***  [, Level 0]: Flupper's killing spree was ended by Kirito (10 blocks)
+[2021-04-14 17:28:55]: ***  [, Level 0]: 'scuf' entered and joined the game
