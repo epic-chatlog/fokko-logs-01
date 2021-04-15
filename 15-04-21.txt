@@ -2772,3 +2772,6 @@
 [2021-04-15 04:18:50]: ***  [, Level 0]: [D] BC|serwan finished in: 23 minute(s)  2.44 second(s)
 [2021-04-15 04:18:50]: ***  [, Level 0]: '[D] BC|serwan' finished the special race!
 [2021-04-15 04:18:51]: ***  [, Level 0]: 'uptotee' entered and joined the game
+[2021-04-15 04:19:06]: Mert [Blood Gang, Level 0]: no
+[2021-04-15 04:19:06]: ***  [, Level 0]: '(1)cookie' entered and joined the game
+[2021-04-15 04:19:14]: Mert [Blood Gang, Level 0]: sanorex my friends
