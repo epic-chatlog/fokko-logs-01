@@ -11456,3 +11456,5 @@
 [2021-04-15 13:13:19]: test [, Level 0]: ;vote
 [2021-04-15 13:13:25]: ***  [, Level 0]: 'Asta' has left the game
 [2021-04-15 13:13:28]: test [, Level 0]: wtfffffff
+[2021-04-15 13:13:52]: Bozzkurt [SkinLover, Level 0]: Zephir™: isnt skill its the boost...
+[2021-04-15 13:13:52]: El patron [, Level 30]: Zephir™:  help me with Kenshi™
