@@ -5392,3 +5392,5 @@
 [2021-04-15 06:28:39]: ***  [, Level 0]: '-ADVENTURE__=' has left the game
 [2021-04-15 06:28:44]: Cylox [{TQuila}, Level 31]: OMGGGG
 [2021-04-15 06:28:56]: [D] El patron [, Level 24]: Cylox: we have war
+[2021-04-15 06:28:59]: Intensiv_ [CrazyNoobs, Level 5]: El patron:  no block
+[2021-04-15 06:29:05]: ***  [, Level 0]: '{SHOP}' entered and joined the game
