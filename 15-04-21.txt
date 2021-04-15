@@ -4979,3 +4979,8 @@
 [2021-04-15 06:04:07]: ***  [, Level 0]: '[D] Kahve' entered and joined the game
 [2021-04-15 06:04:10]: Kezo [DogParty, Level 41]: El patron: you dont dog ?
 [2021-04-15 06:04:15]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-15 06:04:25]: [D] El patron [, Level 24]: Kezo:  you say i am dog off axndox
+[2021-04-15 06:04:30]: [D] El patron [, Level 24]: axandox
+[2021-04-15 06:04:31]: Kezo [DogParty, Level 41]: El patron: he said
+[2021-04-15 06:04:34]: Taip [VergleriSay, Level 19]: qw
+[2021-04-15 06:04:35]: SanoreX [Chilli.*, Level 27]: ERROR: u lost 100k in ur plot
