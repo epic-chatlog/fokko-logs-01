@@ -7002,3 +7002,10 @@
 [2021-04-15 08:23:36]: (3)Kirito [, Level 40]: ERROR: krx läuft xD
 [2021-04-15 08:23:38]: Taip [VergleriSay, Level 19]: im recep
 [2021-04-15 08:23:41]: darkstar3 [Legacy™, Level 11]: rly
+[2021-04-15 08:23:45]: ERROR. [404, Level 57]: (2)Kirito:  wenn mans nötig hat
+[2021-04-15 08:23:46]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-15 08:23:47]: darkstar3 [Legacy™, Level 11]: howl ow
+[2021-04-15 08:23:47]: ***  [, Level 0]: '(1)☺' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-15 08:23:48]: Zerstrian [, Level 52]: dude, you killed me
+[2021-04-15 08:23:49]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-15 08:23:54]: ***  [, Level 0]: '☺' has left the game (Too weak connection (not acked for 60 seconds))
