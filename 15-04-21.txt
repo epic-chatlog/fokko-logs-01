@@ -3934,3 +3934,4 @@
 [2021-04-15 05:09:54]: ***  [, Level 0]: 'casserole :p' entered and joined the game
 [2021-04-15 05:09:54]: ***  [, Level 0]: '(3)cookie' has left the game
 [2021-04-15 05:09:56]: Recep [VergleriSay, Level 10]: (1)Kirito broo
+[2021-04-15 05:09:59]: Recep [VergleriSay, Level 10]: i can give you 10k
