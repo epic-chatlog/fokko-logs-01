@@ -4793,3 +4793,6 @@
 [2021-04-15 05:55:58]: oyun krallı [, Level 18]: bekle
 [2021-04-15 05:56:02]: Kezo [DogParty, Level 41]: oyun krallı: telefon numarası ver
 [2021-04-15 05:56:03]: (1) [, Level 40]: im trying to go to inf jump stop
+[2021-04-15 05:56:09]: Mert [Blood Gang, Level 0]: ok
+[2021-04-15 05:56:15]: oyun krallı [, Level 18]: bekle
+[2021-04-15 05:56:17]: ***  [, Level 0]: Mert is on a killing spree with 5 blocks
