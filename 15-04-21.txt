@@ -2922,3 +2922,5 @@
 [2021-04-15 04:25:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-15 04:25:57]: cookie [, Level 20]: µ
 [2021-04-15 04:26:00]: SanoreX [Chilli.*, Level 27]: flappy: Mert e yardım et herzaman
+[2021-04-15 04:26:14]: [D] BC|kakashi [BC, Level 26]: Taip: bro flappy is a bot xD
+[2021-04-15 04:26:16]: ***  [, Level 0]: '(1)1' has left the game
