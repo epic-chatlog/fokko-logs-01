@@ -11628,3 +11628,6 @@
 [2021-04-15 13:33:52]: ***  [, Level 0]: 'test' entered and joined the game
 [2021-04-15 13:34:04]: ***  [, Level 0]: '(1)test' entered and joined the game
 [2021-04-15 13:34:05]: Zephir™ [, Level 40]: ChillerDragon: now and after
+[2021-04-15 13:34:10]: ***  [, Level 0]: 403. Vertex Time: 01:12.68, requested by Vertex
+[2021-04-15 13:34:13]: power [TrRShClNrRs, Level 15]: Zephir™: yoyoyo
+[2021-04-15 13:34:17]: (1)ChillerDrago [|*KoG*|, Level 45]: and why u call that "trying" Zephir™ ?
