@@ -2679,3 +2679,8 @@
 [2021-04-15 04:10:05]: El patron [, Level 0]: Meetiteusz:
 [2021-04-15 04:10:11]: Mert [Blood Gang, Level 3]: sano çek
 [2021-04-15 04:10:17]: Mert [Blood Gang, Level 3]: sanıooooooooooooooooo
+[2021-04-15 04:10:18]: El patron [, Level 0]: WTF
+[2021-04-15 04:10:24]: El patron [, Level 0]: Matiteusz:
+[2021-04-15 04:10:27]: cookie [, Level 20]: Taip
+[2021-04-15 04:10:29]: Taip [VergleriSay, Level 19]: sorry
+[2021-04-15 04:10:29]: ***  [, Level 0]: '(1)1' joined the minigame 'Block', use '/block' to join aswell
