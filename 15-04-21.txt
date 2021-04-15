@@ -12302,3 +12302,5 @@
 [2021-04-15 14:54:49]: ***  [, Level 0]: 'casserole :p' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-15 14:54:49]: ***  [, Level 0]: '(1)casserole :p' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-15 14:55:13]: kais [, Level 66]: uhm
+[2021-04-15 14:55:36]: kais [, Level 66]: aleandro: not even close
+[2021-04-15 14:55:39]: aleandro [konichiwa, Level 36]: haHHA
