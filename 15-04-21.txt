@@ -11656,3 +11656,6 @@
 [2021-04-15 13:35:35]: ***  [, Level 0]: Zephir™'s killing spree was ended by (1)ChillerDragon (5 blocks)
 [2021-04-15 13:35:37]: power [TrRShClNrRs, Level 15]: u currently see my name
 [2021-04-15 13:35:38]: (1)ChillerDrago [Chilli.*, Level 45]: weqe:
+[2021-04-15 13:35:48]: El patron [, Level 30]: wtf
+[2021-04-15 13:35:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-15 13:35:52]: ***  [, Level 0]: 'lessname' has left the game
