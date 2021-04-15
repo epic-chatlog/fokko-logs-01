@@ -8307,3 +8307,6 @@
 [2021-04-15 09:58:33]: ***  [, Level 0]: 'Gonzo' entered and joined the game
 [2021-04-15 09:58:36]: darkstar2 [, Level 18]: Zʷʰʸˀ: its so annoying, I cant even kill u only freeze, stupid ass map
 [2021-04-15 09:58:41]: zZz [{D}, Level 0]: YelloWorlD: ChillerDragon me brazer
+[2021-04-15 09:59:00]: ***  [, Level 0]: 'THE MAN' entered and joined the game
+[2021-04-15 09:59:01]: (3)Zʷʰʸˀ [NULL, Level 26]: darkstar: clever boi
+[2021-04-15 09:59:03]: ***  [, Level 0]: 'THE MAN' has left the game
