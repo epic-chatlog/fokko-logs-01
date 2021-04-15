@@ -11449,3 +11449,4 @@
 [2021-04-15 13:12:54]: ***  [, Level 0]: 'darkstar3' has left the game
 [2021-04-15 13:12:54]: ***  [, Level 0]: 'darkstar4' has left the game
 [2021-04-15 13:12:58]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 13:13:10]: Lucas [THECEPS, Level 35]: soleri1: rip
