@@ -5980,3 +5980,4 @@
 [2021-04-15 07:31:47]: ***  [, Level 0]: '(1)' changed name to '(1)Flipper'
 [2021-04-15 07:31:57]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-15 07:32:25]: Meetiteusz [TrRShClNrRs, Level 28]: HeavyGeneral: oh ok
+[2021-04-15 07:32:29]: Kahve [, Level 23]: El patron:
