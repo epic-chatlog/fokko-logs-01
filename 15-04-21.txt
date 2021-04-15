@@ -6733,3 +6733,7 @@
 [2021-04-15 08:12:13]: ERROR. [404, Level 57]: Cylox:  war if u do
 [2021-04-15 08:12:15]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-15 08:12:18]: Cylox. [{TQuila}, Level 0]: ERROR: o sory
+[2021-04-15 08:12:25]:   [, Level 0]: Good man: я обратно
+[2021-04-15 08:12:27]: ***  [, Level 0]: 'darkstar3' finished the special race!
+[2021-04-15 08:12:30]: ***  [, Level 0]: 'darkstar4' finished the special race!
+[2021-04-15 08:12:34]: ***  [, Level 0]: ### 'WarHammer' xd
