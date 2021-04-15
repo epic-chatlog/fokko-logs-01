@@ -6817,3 +6817,9 @@
 [2021-04-15 08:17:46]: ***  [, Level 0]: 'nameless te' entered and joined the game
 [2021-04-15 08:17:48]: Ðeathscyth [, Level 2]: [RUS]: where u try to come
 [2021-04-15 08:17:49]: ERROR. [404, Level 57]: JETZT BOOOOOOOOOOOM'
+[2021-04-15 08:17:51]: ERROR. [404, Level 57]: GUCK
+[2021-04-15 08:17:53]: ***  [, Level 0]: 'nameless te' has left the game
+[2021-04-15 08:17:55]: ERROR. [404, Level 57]: TOT
+[2021-04-15 08:17:55]: Axandos [, Level 26]: xDDD
+[2021-04-15 08:17:57]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-15 08:18:01]: ***  [, Level 0]: '(1)Cylox' entered and joined the game
