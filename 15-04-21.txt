@@ -7512,3 +7512,6 @@
 [2021-04-15 08:48:00]: ***  [, Level 0]: 'ZEUS' entered and joined the game
 [2021-04-15 08:48:01]: [D] El patron [, Level 24]: woona: ?
 [2021-04-15 08:48:02]: ***  [, Level 0]: 'GODLIKe' has left the game
+[2021-04-15 08:48:11]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: ok
+[2021-04-15 08:48:12]: (2)Zʷʰʸˀ [NULL, Level 26]: Ƭevan: ?
+[2021-04-15 08:48:15]: Ƭevan [TrRShClNrRs, Level 49]: (3)Zʷʰʸˀ: xD
