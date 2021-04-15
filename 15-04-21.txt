@@ -3219,3 +3219,5 @@
 [2021-04-15 04:40:11]: ***  [, Level 0]: 'geci' joined the spectators
 [2021-04-15 04:40:12]: RM | Arin [Retard MNKY, Level 0]: WTF
 [2021-04-15 04:40:15]: ***  [, Level 0]: 'geci' joined the game
+[2021-04-15 04:40:20]: ***  [, Level 0]: 'geci' joined the spectators
+[2021-04-15 04:40:24]: ***  [, Level 0]: 'geci' joined the game
