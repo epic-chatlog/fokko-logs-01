@@ -8579,3 +8579,8 @@
 [2021-04-15 10:21:36]: ***  [, Level 0]: '[D] _CHUCKY_' has left the game
 [2021-04-15 10:21:36]: ***  [, Level 0]: '_CHUCKY_' has left the game
 [2021-04-15 10:21:45]:   [, Level 0]: bob: Kenshi™: smiley man team up with me
+[2021-04-15 10:21:47]: ***  [, Level 0]: 'Cylox.' has left the game
+[2021-04-15 10:21:47]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-15 10:21:51]:   [, Level 0]: WarHammer': MaMi:  FENA LAG VAR
+[2021-04-15 10:21:56]: ***  [, Level 0]: 'GODLIKe' has left the game
+[2021-04-15 10:21:56]: ***  [, Level 0]: 'GODLIKe.' has left the game
