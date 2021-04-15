@@ -6780,3 +6780,8 @@
 [2021-04-15 08:15:25]: Axandos [, Level 26]: Mmmmmmmmmmmmmmm
 [2021-04-15 08:15:28]: Axandos [, Level 26]: Kkkkkkkkkkkkkkkkkkkkkkkkkkkk
 [2021-04-15 08:15:45]: ***  [, Level 0]: 'luciska' entered and joined the game
+[2021-04-15 08:15:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 08:15:54]: Good man [Drunks, Level 31]: wait Cylox )
+[2021-04-15 08:15:55]: Axandos [, Level 26]: ERROR:  :c
+[2021-04-15 08:15:57]: Killua [FookinLads, Level 0]: ERROR: noo
+[2021-04-15 08:15:59]: WarHammer [DogParty, Level 26]: i am not of this world
