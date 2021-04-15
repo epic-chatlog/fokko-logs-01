@@ -8493,3 +8493,6 @@
 [2021-04-15 10:14:27]:   [, Level 0]: mamikral011: bob: ?
 [2021-04-15 10:14:27]: ERROR [404, Level 75]: STOP OPMG xD
 [2021-04-15 10:14:32]: Zephir™ [, Level 40]: ERROR: srx ?
+[2021-04-15 10:14:40]: GOLD [404, Level 40]: t sur toi
+[2021-04-15 10:14:41]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-15 10:14:41]:   [, Level 0]: mamikral011: WarHammer': göster
