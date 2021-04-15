@@ -8380,3 +8380,4 @@
 [2021-04-15 10:05:55]:   [, Level 0]: WarHammer: aany
 [2021-04-15 10:05:56]:   [, Level 0]: WarHammer: any
 [2021-04-15 10:05:57]: ***  [, Level 0]: 'MaMi' entered and joined the game
+[2021-04-15 10:06:02]:   [, Level 0]: WarHammer: any:  stop spam
