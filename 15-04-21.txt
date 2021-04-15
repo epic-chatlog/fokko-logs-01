@@ -9396,3 +9396,7 @@
 [2021-04-15 11:10:24]:   [, Level 0]: SanoreX: any: u know hamachi?
 [2021-04-15 11:10:33]: any [404, Level 38]: SansoreX kinda
 [2021-04-15 11:10:42]: SanoreX [Chilli.*, Level 27]: any: yes or no
+[2021-04-15 11:10:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-15 11:10:51]:   [, Level 0]: any²: SanoreX: no
+[2021-04-15 11:10:53]: JustRace [DogParty, Level 0]: how
+[2021-04-15 11:10:53]: SanoreX [Chilli.*, Level 27]: any: ok
