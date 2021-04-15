@@ -2730,3 +2730,5 @@
 [2021-04-15 04:14:07]: ***  [, Level 0]: 'Black Wolf' has left the game
 [2021-04-15 04:14:07]: ***  [, Level 0]: 'Meliodas' has left the game
 [2021-04-15 04:14:11]: Mert [Blood Gang, Level 0]: sano aç
+[2021-04-15 04:14:40]: cookie [, Level 20]: µ
+[2021-04-15 04:14:47]: Mert [Blood Gang, Level 0]: plsü
