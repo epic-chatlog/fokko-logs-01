@@ -8673,3 +8673,11 @@
 [2021-04-15 10:27:34]: (1)casserole :p [, Level 0]: bob: sorry it does what?
 [2021-04-15 10:27:37]:   [, Level 0]: bob: yes
 [2021-04-15 10:27:39]:   [, Level 0]: bob: kills us
+[2021-04-15 10:27:44]:   [, Level 0]: bob: in room
+[2021-04-15 10:27:45]: WarHammer [DogParty, Level 17]: YelloWorlD:  İ SAY ANY, İ HELP UR TEAM. AND HE BLOCK ME
+[2021-04-15 10:27:46]: (1)casserole :p [, Level 0]: sorry
+[2021-04-15 10:27:51]: ***  [, Level 0]: 'Ikolonor' has left the game
+[2021-04-15 10:27:51]: ***  [, Level 0]: 'zZz' has left the game
+[2021-04-15 10:27:51]: ***  [, Level 0]: 'zZzerayI' has left the game
+[2021-04-15 10:27:51]:   [, Level 0]: bob: np
+[2021-04-15 10:27:52]: ***  [, Level 0]: 'sun.slow(y)' has left the game
