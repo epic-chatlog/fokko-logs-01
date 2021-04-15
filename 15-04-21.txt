@@ -9811,3 +9811,5 @@
 [2021-04-15 11:45:47]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-15 11:45:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-15 11:45:50]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-15 11:45:57]:   [, Level 0]: Shiro.: Nudelsaft c:: logout
+[2021-04-15 11:45:57]: BC|kakashi [BC, Level 0]: bob:  ich habe dir nix getan
