@@ -11843,3 +11843,9 @@
 [2021-04-15 14:03:54]: Kezo [DogParty, Level 41]: stop now
 [2021-04-15 14:03:58]: ✯|Not Bulash [|Supressed|, Level 0]: Kezo: im better in block
 [2021-04-15 14:04:03]: Kezo [DogParty, Level 41]: ✯|Not Bulash: no i have lags
+[2021-04-15 14:04:07]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-15 14:04:12]: ***  [, Level 0]: 'woona' entered and joined the game
+[2021-04-15 14:04:13]: [D] El patron [, Level 0]: weqe:
+[2021-04-15 14:04:15]: Kezo [DogParty, Level 41]: ✯|Not Bulash: stop ihave lags i cant play
+[2021-04-15 14:04:16]: weqe [669, Level 13]: El patron: ?
+[2021-04-15 14:04:17]: WarHammer [DogParty, Level 26]: LAG
