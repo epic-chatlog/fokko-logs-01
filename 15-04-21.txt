@@ -7723,3 +7723,6 @@
 [2021-04-15 09:00:34]: Isegrin [, Level 55]: Axandos²: sig heil
 [2021-04-15 09:00:46]: ***  [, Level 0]: 'woona' has left the game
 [2021-04-15 09:00:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 09:00:55]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-15 09:00:58]: Coca [Drunks, Level 16]: what now
+[2021-04-15 09:01:05]: Axel [TrRShClNrRs, Level 30]: xD
