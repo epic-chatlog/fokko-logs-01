@@ -750,3 +750,7 @@
 [2021-04-15 02:10:47]: GODLIKe [, Level 44]: ı need farm now
 [2021-04-15 02:10:50]: Meetiteusz [TrRShClNrRs, Level 27]: Taiga: hahaha
 [2021-04-15 02:10:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-15 02:10:53]: ***  [, Level 0]: 'Chris Y' entered and joined the game
+[2021-04-15 02:10:53]: Meetiteusz [TrRShClNrRs, Level 27]: Taiga: for sure in passiv
+[2021-04-15 02:10:59]: mamikral011 [DogParty, Level 0]: WarHammer: o nedemek
+[2021-04-15 02:11:02]: ***  [, Level 0]: 'Chris Y' changed name to 'GODLIKe.'
