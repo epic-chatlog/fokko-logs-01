@@ -10165,3 +10165,5 @@
 [2021-04-15 12:06:18]: DarkGeneral [404, Level 42]: weqe: w8
 [2021-04-15 12:06:20]: Taip [VergleriSay, Level 19]: gerizekalı
 [2021-04-15 12:06:21]:   [, Level 0]: weqe: woona: WTF IS THIS LANGUAGE
+[2021-04-15 12:06:33]: woona [, Level 48]: bob: sende ye yarragımı
+[2021-04-15 12:06:39]: bob [669, Level 36]: gotveren
