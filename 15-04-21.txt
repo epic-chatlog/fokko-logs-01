@@ -7896,3 +7896,4 @@
 [2021-04-15 09:22:11]: ***  [, Level 0]: 'GOLD' entered and joined the game
 [2021-04-15 09:22:19]: any [404, Level 38]: (1)ERROR: :o stop haking !
 [2021-04-15 09:22:26]: (1)ERROR [AllTheHaxx, Level 0]: i dont hack loool
+[2021-04-15 09:22:48]: (1)ERROR [AllTheHaxx, Level 0]: jesus Axandos
