@@ -7721,3 +7721,5 @@
 [2021-04-15 09:00:26]: Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: i was in there
 [2021-04-15 09:00:28]: Axel ² [TrRShClNrRs, Level 20]: what
 [2021-04-15 09:00:34]: Isegrin [, Level 55]: Axandos²: sig heil
+[2021-04-15 09:00:46]: ***  [, Level 0]: 'woona' has left the game
+[2021-04-15 09:00:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
