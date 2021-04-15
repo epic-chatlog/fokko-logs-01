@@ -11631,3 +11631,6 @@
 [2021-04-15 13:34:10]: ***  [, Level 0]: 403. Vertex Time: 01:12.68, requested by Vertex
 [2021-04-15 13:34:13]: power [TrRShClNrRs, Level 15]: Zephir™: yoyoyo
 [2021-04-15 13:34:17]: (1)ChillerDrago [|*KoG*|, Level 45]: and why u call that "trying" Zephir™ ?
+[2021-04-15 13:34:23]: ***  [, Level 0]: 'TEEKING' entered and joined the game
+[2021-04-15 13:34:28]: ***  [, Level 0]: lessname finished in: 9 minute(s) 54.10 second(s)
+[2021-04-15 13:34:28]: ***  [, Level 0]: 'lessname' finished the special race!
