@@ -2733,3 +2733,5 @@
 [2021-04-15 04:14:40]: cookie [, Level 20]: µ
 [2021-04-15 04:14:47]: Mert [Blood Gang, Level 0]: plsü
 [2021-04-15 04:14:56]: Mert [Blood Gang, Level 0]: pls
+[2021-04-15 04:15:05]: Mert [Blood Gang, Level 0]: no
+[2021-04-15 04:15:07]: Mert [Blood Gang, Level 0]: noooooo
