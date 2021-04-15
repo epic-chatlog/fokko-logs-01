@@ -2204,3 +2204,7 @@
 [2021-04-15 03:35:44]: ***  [, Level 0]: 'SanoreX' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
 [2021-04-15 03:35:44]: ***  [, Level 0]: '[D] satou' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
 [2021-04-15 03:35:44]: ***  [, Level 0]: 'satou' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
+[2021-04-15 03:35:47]: [D] Mert [[!BRUH!], Level 0]: knk para nası atılıyo
+[2021-04-15 03:35:50]: [D] Mert [[!BRUH!], Level 0]: atıtyodunuzya
+[2021-04-15 03:35:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 03:35:53]: Taiga`iPro [, Level 37]: RM | Arin: ja gut
