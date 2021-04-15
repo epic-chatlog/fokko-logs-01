@@ -5648,3 +5648,6 @@
 [2021-04-15 06:53:37]: Cylox. [{TQuila}, Level 0]: El patron: xd
 [2021-04-15 06:53:39]: (2)cookie [, Level 0]: ooooof
 [2021-04-15 06:53:48]: (2)cookie [, Level 0]: wtf
+[2021-04-15 06:53:59]: [D] El patron [, Level 24]: Cylox: bad
+[2021-04-15 06:54:01]: IwillBlockYou [, Level 0]: error is my friend
+[2021-04-15 06:54:08]: [D] El patron [, Level 24]: Cylox: l2p
