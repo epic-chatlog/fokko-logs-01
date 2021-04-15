@@ -8540,3 +8540,9 @@
 [2021-04-15 10:18:32]:   [, Level 0]: mamikral011: WarHammer': war mı istion
 [2021-04-15 10:18:36]: any [404, Level 38]: YelloWorlD : il savais pas que ct ton enemi
 [2021-04-15 10:18:44]: YelloWorlD [DogParty, Level 41]: any: mais ftg toi
+[2021-04-15 10:18:47]: ***  [, Level 0]: 'peS' finished the special race!
+[2021-04-15 10:18:47]: ***  [, Level 0]: peS finished in: 4 minute(s) 29.84 second(s)
+[2021-04-15 10:18:47]: ***  [, Level 0]: New record: 22.28 second(s) better.
+[2021-04-15 10:18:51]: WarHammer [DogParty, Level 17]: WarHammer:  lag
+[2021-04-15 10:18:53]: WarHammer [DogParty, Level 17]: MaMi:  lag
+[2021-04-15 10:18:55]: ***  [, Level 0]: 'El patron' entered and joined the game
