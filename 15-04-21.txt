@@ -5584,3 +5584,6 @@
 [2021-04-15 06:47:26]: ***  [, Level 0]: '_CHUCKY_' entered and joined the game
 [2021-04-15 06:47:34]: Cylox. [{TQuila}, Level 0]: ERROR: :(
 [2021-04-15 06:47:36]: ***  [, Level 0]: '[D] _CHUCKY_' entered and joined the game
+[2021-04-15 06:47:38]: SanoreX [Chilli.*, Level 27]: ERROR: can you come plot 11?  pls stack me and dummy
+[2021-04-15 06:47:41]: ***  [, Level 0]: 'fahh' entered and joined the game
+[2021-04-15 06:47:46]: ERROR. [404, Level 57]: SanoreX:  no.
