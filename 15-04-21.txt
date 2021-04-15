@@ -8538,3 +8538,5 @@
 [2021-04-15 10:18:25]:   [, Level 0]: bob: mamikral011: war
 [2021-04-15 10:18:31]: WarHammer [DogParty, Level 17]: MaMi:  yellow blokladı
 [2021-04-15 10:18:32]:   [, Level 0]: mamikral011: WarHammer': war mı istion
+[2021-04-15 10:18:36]: any [404, Level 38]: YelloWorlD : il savais pas que ct ton enemi
+[2021-04-15 10:18:44]: YelloWorlD [DogParty, Level 41]: any: mais ftg toi
