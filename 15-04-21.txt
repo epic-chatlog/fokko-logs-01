@@ -7988,3 +7988,5 @@
 [2021-04-15 09:31:20]: Cylox [{TQuila}, Level 31]: ERROR:
 [2021-04-15 09:31:21]: ***  [, Level 0]: 'All Might' entered and joined the game
 [2021-04-15 09:31:22]: ***  [, Level 0]: 'Mista bombastic' has left the game
+[2021-04-15 09:31:31]: ***  [, Level 0]: 'All Might' joined the spectators
+[2021-04-15 09:31:35]: ***  [, Level 0]: 'All Might' joined the game
