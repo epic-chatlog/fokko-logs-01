@@ -10042,3 +10042,12 @@
 [2021-04-15 12:01:55]: ***  [, Level 0]: '(1)test' has left the game (unsupported client)
 [2021-04-15 12:01:56]:   [, Level 0]: Mert: :(
 [2021-04-15 12:02:01]: woona [, Level 48]: bob:
+[2021-04-15 12:02:03]: ***  [, Level 0]: '(1)test' entered and joined the game
+[2021-04-15 12:02:04]: BitchPlease Jr. [BBM, Level 50]: xD
+[2021-04-15 12:02:08]:   [, Level 0]: (1)test: exit
+[2021-04-15 12:02:08]: bob [669, Level 36]: weqe: brother
+[2021-04-15 12:02:08]: woona [, Level 48]: bob: mantı yapdı annem yerdmisin
+[2021-04-15 12:02:10]:   [, Level 0]: (1)test: quit
+[2021-04-15 12:02:12]: woona [, Level 48]: yermisin?
+[2021-04-15 12:02:12]: bob [669, Level 36]: weqe: why
+[2021-04-15 12:02:12]: Taip [VergleriSay, Level 19]: sal
