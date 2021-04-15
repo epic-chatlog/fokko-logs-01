@@ -11649,3 +11649,10 @@
 [2021-04-15 13:35:15]: [D] El patron [, Level 0]: unghost
 [2021-04-15 13:35:23]: power [TrRShClNrRs, Level 15]: lul
 [2021-04-15 13:35:27]: [D] El patron [, Level 0]: i wanna see u name
+[2021-04-15 13:35:32]: power [TrRShClNrRs, Level 15]: how
+[2021-04-15 13:35:32]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-15 13:35:35]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-15 13:35:35]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-15 13:35:35]: ***  [, Level 0]: Zephir™'s killing spree was ended by (1)ChillerDragon (5 blocks)
+[2021-04-15 13:35:37]: power [TrRShClNrRs, Level 15]: u currently see my name
+[2021-04-15 13:35:38]: (1)ChillerDrago [Chilli.*, Level 45]: weqe:
