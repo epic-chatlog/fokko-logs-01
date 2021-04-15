@@ -11082,3 +11082,10 @@
 [2021-04-15 12:49:12]:   [, Level 0]: mamikral011: darkstar4: ?
 [2021-04-15 12:49:16]:   [, Level 0]: mamikral011: darkstar4: stop or war
 [2021-04-15 12:49:18]:   [, Level 0]: mamikral011: bob: !!!
+[2021-04-15 12:49:21]: weqe [669, Level 13]: bob: leave ?
+[2021-04-15 12:49:22]:   [, Level 0]: mamikral011: darkstar4: war okey
+[2021-04-15 12:49:26]: BC|kakashi [BC, Level 13]: bob gegen weqe
+[2021-04-15 12:49:28]: darkstar3 [Legacy™, Level 11]: dude
+[2021-04-15 12:49:29]: bob [669, Level 36]: weqe: no wait i call michi
+[2021-04-15 12:49:31]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-15 12:49:31]: darkstar3 [Legacy™, Level 11]: stfu noob
