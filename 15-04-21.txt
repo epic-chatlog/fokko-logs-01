@@ -5311,3 +5311,4 @@
 [2021-04-15 06:21:25]: -ADVENTURE__= [, Level 0]: oh
 [2021-04-15 06:21:27]: Taip [VergleriSay, Level 19]: Kahve: amk bak takım olalım benim sana zararım yok
 [2021-04-15 06:21:28]: ***  [, Level 0]: '(1)Kezo' entered and joined the game
+[2021-04-15 06:21:38]: x7|zemer [xSD7, Level 0]: -ADVENTURE__=: War4life
