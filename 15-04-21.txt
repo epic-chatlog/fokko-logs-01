@@ -11721,3 +11721,6 @@
 [2021-04-15 13:43:44]: ***  [, Level 0]: 'darkstar2' has left the game
 [2021-04-15 13:43:44]: ***  [, Level 0]: 'darkstar' has left the game
 [2021-04-15 13:43:50]: BC|Tixnix [BC, Level 34]: (3)Zʷʰʸˀ: lernt von meistern
+[2021-04-15 13:44:08]: BC|Tixnix [BC, Level 34]: (3)Zʷʰʸˀ: oh get nicht bei so einen
+[2021-04-15 13:44:08]: (2)Zʷʰʸˀ [NULL, Level 26]: BC|Tixnix: du hast den trick ja nicht erfunden xD
+[2021-04-15 13:44:12]: [D] El patron [, Level 0]: s
