@@ -11426,3 +11426,4 @@
 [2021-04-15 13:09:30]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-15 13:09:53]: ***  [, Level 0]: 'dumny' has left the game
 [2021-04-15 13:10:06]: Lucas [THECEPS, Level 35]: soleri1:
+[2021-04-15 13:10:24]: ***  [, Level 0]: 'test' entered and joined the game
