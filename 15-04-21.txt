@@ -5970,3 +5970,4 @@
 [2021-04-15 07:30:15]: ***  [, Level 0]: 'Cylox' left the minigame 'Block'
 [2021-04-15 07:30:22]: ☺ [, Level 0]: but i don't endless*
 [2021-04-15 07:30:23]: ***  [, Level 0]: 'soleri1' entered and joined the game
+[2021-04-15 07:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
