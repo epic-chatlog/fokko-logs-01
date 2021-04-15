@@ -5150,3 +5150,5 @@
 [2021-04-15 06:13:36]: #5 blocker [|*MorE*|, Level 0]: kais: help meeeeeee
 [2021-04-15 06:13:39]: SanoreX.* [Chilli.*, Level 22]: ERROR:
 [2021-04-15 06:13:42]: ***  [, Level 0]: '(2)kais' entered and joined the game
+[2021-04-15 06:13:44]: SanoreX.* [Chilli.*, Level 22]: ERROR: come plot 11
+[2021-04-15 06:13:53]: (2)kais [, Level 0]: #5 blocker: i crashed :(
