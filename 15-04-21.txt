@@ -1370,3 +1370,6 @@
 [2021-04-15 02:47:21]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 43.84 second(s)
 [2021-04-15 02:47:23]: Taiga [, Level 37]: SanoreX: dude what
 [2021-04-15 02:47:23]: ***  [, Level 0]: Telefantastic finished in: 1 minute(s) 25.28 second(s)
+[2021-04-15 02:47:28]: SanoreX [Chilli.*, Level 27]: Taiga: idkrandom
+[2021-04-15 02:47:30]: [D] Mert [[!BRUH!], Level 0]: amk
+[2021-04-15 02:47:35]: Taiga [, Level 37]: SanoreX: its bot client
