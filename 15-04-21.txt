@@ -7929,3 +7929,7 @@
 [2021-04-15 09:26:48]: ***  [, Level 0]: New record: 1 minute(s) 20.76 second(s) better.
 [2021-04-15 09:26:50]: ***  [, Level 0]: YelloWorlD finished in: 5 minute(s) 21.08 second(s)
 [2021-04-15 09:26:53]: Cylox. [{TQuila}, Level 0]: Taip: kanka yardım soldayım
+[2021-04-15 09:26:55]: any [404, Level 38]: Coca: what bonus ?
+[2021-04-15 09:27:03]: Coca [Drunks, Level 16]: every
+[2021-04-15 09:27:04]: Coca [Drunks, Level 16]: full
+[2021-04-15 09:27:05]: ***  [, Level 0]: 'Isegrin' has left the game
