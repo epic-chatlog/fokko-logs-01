@@ -12346,3 +12346,5 @@
 [2021-04-14 17:25:52]: Flupper [, Level 40]: 2v1
 [2021-04-14 17:25:52]: ***  [, Level 0]: (1)Kirito is on a killing spree with 5 blocks
 [2021-04-14 17:26:20]: Kirito [{TQuila}, Level 25]: Flipper: war4life now
+[2021-04-14 17:26:28]: ***  [, Level 0]: 'zizibuczek' has left the game
+[2021-04-14 17:26:32]: Flupper [, Level 40]: war4life?
