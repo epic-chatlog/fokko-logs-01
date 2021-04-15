@@ -7563,3 +7563,6 @@
 [2021-04-15 08:52:22]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
 [2021-04-15 08:52:27]: Axel [TrRShClNrRs, Level 30]: Meetiteusz: no problem xD
 [2021-04-15 08:52:34]: Axel [TrRShClNrRs, Level 30]: Meetiteusz: this was unexpected ngl
+[2021-04-15 08:52:41]: ***  [, Level 0]: '(1)nameless tee' has left the game
+[2021-04-15 08:52:42]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-15 08:52:42]: ***  [, Level 0]: 'brainless tee' has left the game
