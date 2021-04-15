@@ -8618,3 +8618,6 @@
 [2021-04-15 10:23:55]: GOLD [404, Level 40]: Shy-ra.:
 [2021-04-15 10:23:56]: Coca [Drunks, Level 16]: Zʷʰʸˀ: you dead too
 [2021-04-15 10:23:57]:   [, Level 0]: WarHammer': any:   u see ?
+[2021-04-15 10:24:01]:   [, Level 0]: (1)☺: Shy-ra.:
+[2021-04-15 10:24:03]: (3)Zʷʰʸˀ [NULL, Level 26]: Coca: no?
+[2021-04-15 10:24:04]: ***  [, Level 0]: 'nameless tee' entered and joined the game
