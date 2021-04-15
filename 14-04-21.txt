@@ -12309,3 +12309,5 @@
 [2021-04-14 17:18:22]: Zephir™ [, Level 40]: Flupper: i know him yeah
 [2021-04-14 17:18:27]: Flupper [, Level 40]: hm
 [2021-04-14 17:18:48]: Flupper [, Level 40]: want gift
+[2021-04-14 17:19:04]: Zephir™ [, Level 40]: Flupper: what ?
+[2021-04-14 17:19:09]: Flupper [, Level 40]: want a gift
