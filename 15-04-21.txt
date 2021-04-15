@@ -4669,3 +4669,5 @@
 [2021-04-15 05:50:16]: oyun krallı [, Level 18]: spawnna gel kezo
 [2021-04-15 05:50:17]: El patron [, Level 30]: (1)Intensiv_: hejd
 [2021-04-15 05:50:18]: Mert [Blood Gang, Level 0]: tevan nooob
+[2021-04-15 05:50:31]: Kezo [DogParty, Level 41]: oyun krallı: gel benle
+[2021-04-15 05:50:37]: ~DemoizL~ [, Level 39]: xD
