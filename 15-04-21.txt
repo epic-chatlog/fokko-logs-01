@@ -7750,3 +7750,6 @@
 [2021-04-15 09:03:03]: Meetiteusz [TrRShClNrRs, Level 0]: (1)Ðream: dummy
 [2021-04-15 09:03:23]: (1)Matiteusz [TrRShClNrRs, Level 22]: Ƭevan: ok ill try
 [2021-04-15 09:03:28]: ***  [, Level 0]: '(1)Meetiteusz' entered and joined the game
+[2021-04-15 09:03:31]: Axel ² [TrRShClNrRs, Level 20]: Mista bombastic: hi
+[2021-04-15 09:03:34]:   [, Level 0]: (1)Meetiteusz: Ƭevan: spectate me
+[2021-04-15 09:03:41]:   [, Level 0]: (1)Meetiteusz: Ƭevan: are you spectating?
