@@ -2531,3 +2531,4 @@
 [2021-04-15 03:59:59]: SanoreX [Chilli.*, Level 27]: cookie: WTTTTTTTTTTTTTFG
 [2021-04-15 04:00:01]: Taip [VergleriSay, Level 19]: war?
 [2021-04-15 04:00:02]: cookie [, Level 0]: SanoreX:  wait
+[2021-04-15 04:00:11]: SanoreX [Chilli.*, Level 27]: doont need DiscordBridge
