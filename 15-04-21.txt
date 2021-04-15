@@ -4068,3 +4068,5 @@
 [2021-04-15 05:17:35]: ***  [, Level 0]: '(1)SanoreX' changed name to 'SanoreX.*'
 [2021-04-15 05:17:36]: Taip [VergleriSay, Level 19]: I like turtles.
 [2021-04-15 05:17:40]: oyun krallı [, Level 18]: kezo
+[2021-04-15 05:17:46]: Kezo [DogParty, Level 41]: oyun krallı: efm
+[2021-04-15 05:17:50]: Taip [VergleriSay, Level 19]: I like turtles.
