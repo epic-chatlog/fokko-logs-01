@@ -12383,3 +12383,5 @@
 [2021-04-15 15:04:29]: ***  [, Level 0]: 'YelloWorlD' has left the game
 [2021-04-15 15:04:29]: WarHammer [DogParty, Level 26]: YelloWorlD:  how old are you
 [2021-04-15 15:04:32]: WarHammer [DogParty, Level 26]: xd
+[2021-04-15 15:04:48]: WarHammer [DogParty, Level 26]: nice flag
+[2021-04-15 15:04:54]: WarHammer [DogParty, Level 26]: xd
