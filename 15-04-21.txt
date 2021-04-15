@@ -11926,3 +11926,4 @@
 [2021-04-15 14:11:23]: Hala Madrid [BBM, Level 48]: kk
 [2021-04-15 14:11:28]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
 [2021-04-15 14:11:30]: ***  [, Level 0]: '[D] El patron' has left the game
+[2021-04-15 14:11:34]: WarHammer [DogParty, Level 26]: El patron:  HELP
