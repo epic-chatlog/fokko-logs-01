@@ -11008,3 +11008,6 @@
 [2021-04-15 12:45:16]: ***  [, Level 0]: 'test' joined the spectators
 [2021-04-15 12:45:17]: bob [669, Level 36]: gg
 [2021-04-15 12:45:18]: El patron [, Level 30]: Zephir™: pro
+[2021-04-15 12:45:19]: ***  [, Level 0]: 'test' joined the game
+[2021-04-15 12:45:25]: bob [669, Level 36]: Zephir™: u hero now
+[2021-04-15 12:45:28]: LGBTC GENANAL [, Level 45]: now I trap them? :D
