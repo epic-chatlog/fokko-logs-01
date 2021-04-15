@@ -9594,3 +9594,6 @@
 [2021-04-15 11:25:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-15 11:26:01]: BitchPlease Jr. [BBM, Level 50]: heelp
 [2021-04-15 11:26:03]: BitchPlease Jr. [BBM, Level 50]: ty xD
+[2021-04-15 11:26:26]: ***  [, Level 0]: '(2)(3)BLACK' entered and joined the game
+[2021-04-15 11:26:26]: ***  [, Level 0]: 'Marcisten Dummy' has left the game
+[2021-04-15 11:26:26]: ***  [, Level 0]: 'Marcisten' has left the game
