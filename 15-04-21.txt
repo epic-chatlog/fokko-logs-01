@@ -11934,3 +11934,4 @@
 [2021-04-15 14:11:59]: WarHammer [DogParty, Level 26]: YelloWorlD:  KRAAAAAAL WELCOME
 [2021-04-15 14:12:03]: El patron [, Level 30]: Zephir™: come
 [2021-04-15 14:12:11]: WarHammer [DogParty, Level 26]: YelloWorlD:  kral = king
+[2021-04-15 14:12:24]: ***  [, Level 0]: 'El patron' has left the game
