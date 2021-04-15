@@ -2715,3 +2715,6 @@
 [2021-04-15 04:12:17]: Taip [VergleriSay, Level 19]: 1500 money
 [2021-04-15 04:12:19]: ***  [, Level 0]: 'rdr' has left the game
 [2021-04-15 04:12:27]: Taip [VergleriSay, Level 19]: polislik güzel iş
+[2021-04-15 04:12:34]: Taip [VergleriSay, Level 19]: adama vurdum
+[2021-04-15 04:12:36]: Taip [VergleriSay, Level 19]: 1500 geldi
+[2021-04-15 04:12:40]: Taip [VergleriSay, Level 19]: wqeqwe
