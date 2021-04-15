@@ -7844,3 +7844,5 @@
 [2021-04-15 09:14:23]: ***  [, Level 0]: 'Taip' entered and joined the game
 [2021-04-15 09:14:24]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-15 09:14:29]: ***  [, Level 0]: '(1)Meetiteusz' entered and joined the game
+[2021-04-15 09:14:37]: darkstar [Legacy™, Level 19]: god
+[2021-04-15 09:14:41]: darkstar [Legacy™, Level 19]: loser
