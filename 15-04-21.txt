@@ -8235,3 +8235,6 @@
 [2021-04-15 09:50:20]: (3)BLACK [, Level 21]: NO
 [2021-04-15 09:50:23]: (1)☺ [, Level 13]: ok
 [2021-04-15 09:50:26]: any [404, Level 38]: YelloWorlD: tu war ✯ | Bulash
+[2021-04-15 09:50:34]: ***  [, Level 0]: 'Flipper' has left the game
+[2021-04-15 09:50:35]: YelloWorlD [DogParty, Level 41]: any: oui
+[2021-04-15 09:50:38]: ***  [, Level 0]: 'Taip' has left the game
