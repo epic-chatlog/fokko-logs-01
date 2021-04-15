@@ -11592,3 +11592,6 @@
 [2021-04-15 13:30:40]: ***  [, Level 0]: any is on a killing spree with 10 blocks
 [2021-04-15 13:30:41]: Zephir™ [, Level 40]: El patron: flappy are my best friend
 [2021-04-15 13:30:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 13:30:57]: lessname [, Level 0]: oops
+[2021-04-15 13:31:01]: ***  [, Level 0]: 'Vertex' entered and joined the game
+[2021-04-15 13:31:01]: ***  [, Level 0]: 'test' entered and joined the game
