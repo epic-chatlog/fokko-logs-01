@@ -8535,3 +8535,6 @@
 [2021-04-15 10:17:59]:   [, Level 0]: mamikral011: (3)BLACK: pro
 [2021-04-15 10:18:09]: (3)BLACK [, Level 21]: mamikral011:  pls stop
 [2021-04-15 10:18:10]: YelloWorlD [DogParty, Level 41]: any: donc il l'a aidé
+[2021-04-15 10:18:25]:   [, Level 0]: bob: mamikral011: war
+[2021-04-15 10:18:31]: WarHammer [DogParty, Level 17]: MaMi:  yellow blokladı
+[2021-04-15 10:18:32]:   [, Level 0]: mamikral011: WarHammer': war mı istion
