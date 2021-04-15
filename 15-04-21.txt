@@ -6775,3 +6775,5 @@
 [2021-04-15 08:14:47]: ***  [, Level 0]: '[RUS]' entered and joined the game
 [2021-04-15 08:15:07]: Good man [Drunks, Level 31]: Cylox: no xD)
 [2021-04-15 08:15:13]: Good man [Drunks, Level 31]: Cylox: im want to go endless hook
+[2021-04-15 08:15:23]: Axandos [, Level 26]: AAAAAAAAAAAAAAAAAA
+[2021-04-15 08:15:24]: ERROR [404, Level 75]: troll
