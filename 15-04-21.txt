@@ -11915,3 +11915,5 @@
 [2021-04-15 14:10:23]: WarHammer [DogParty, Level 26]: Zephir™:
 [2021-04-15 14:10:27]: LareneGyvaeh [FookinLads, Level 36]: Pizda Mysor xaxa0))
 [2021-04-15 14:10:35]: WarHammer [DogParty, Level 26]: HeavyGeneral:  CRAZY
+[2021-04-15 14:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 14:10:51]: (1)ChillerDrago [|*KoG*|, Level 45]: whisper mir nich Hala Madrid
