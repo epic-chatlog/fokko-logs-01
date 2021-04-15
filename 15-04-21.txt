@@ -3725,3 +3725,4 @@
 [2021-04-15 05:00:18]: Axandos [, Level 26]: what did i just say Meetiteusz
 [2021-04-15 05:00:28]: ***  [, Level 0]: 'Kahve' entered and joined the game
 [2021-04-15 05:00:29]: ***  [, Level 0]: 'Kahve' has left the game
+[2021-04-15 05:00:42]: ***  [, Level 0]: RM | Arin's killing spree was ended by #5 blocker (7 blocks)
