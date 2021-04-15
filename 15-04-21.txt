@@ -2445,3 +2445,6 @@
 [2021-04-15 03:53:46]: SanoreX [Chilli.*, Level 27]: 100k
 [2021-04-15 03:53:49]: Taip [VergleriSay, Level 19]: bekle
 [2021-04-15 03:53:50]: Taip [VergleriSay, Level 19]: al
+[2021-04-15 03:54:01]: (1)Meetiteusz [TrRShClNrRs, Level 0]: weqe: U destroyed me
+[2021-04-15 03:54:03]: Taip [VergleriSay, Level 19]: k
+[2021-04-15 03:54:04]: Taip [VergleriSay, Level 19]: aç
