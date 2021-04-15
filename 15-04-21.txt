@@ -8681,3 +8681,5 @@
 [2021-04-15 10:27:51]: ***  [, Level 0]: 'zZzerayI' has left the game
 [2021-04-15 10:27:51]:   [, Level 0]: bob: np
 [2021-04-15 10:27:52]: ***  [, Level 0]: 'sun.slow(y)' has left the game
+[2021-04-15 10:27:56]:   [, Level 0]: DonkeyMilk: basoka:
+[2021-04-15 10:28:05]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
