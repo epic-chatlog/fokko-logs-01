@@ -5702,3 +5702,7 @@
 [2021-04-15 07:02:01]: HeavyGeneral [FookinLads, Level 44]: ERROR.: u can change the size of tees yk
 [2021-04-15 07:02:06]: ERROR. [404, Level 57]: where##
 [2021-04-15 07:02:16]: HeavyGeneral [FookinLads, Level 44]: u on ddnet?
+[2021-04-15 07:02:25]: ERROR. [404, Level 57]: y
+[2021-04-15 07:02:27]: HeavyGeneral [FookinLads, Level 44]: ERROR: it wont change the hitbox tho xd
+[2021-04-15 07:02:27]: Hala Madrid [BBM, Level 0]: soleri1: is that ur dummy?
+[2021-04-15 07:02:29]: cookie [, Level 20]: ✯|Not Bulash:  why dude
