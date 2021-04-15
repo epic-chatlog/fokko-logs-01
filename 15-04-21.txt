@@ -9819,3 +9819,6 @@
 [2021-04-15 11:46:41]: ***  [, Level 0]: darkstar4 finished in: 2 minute(s) 40.00 second(s)
 [2021-04-15 11:46:43]:   [, Level 0]: Shiro.: thx
 [2021-04-15 11:46:45]: ***  [, Level 0]: 'kristalik25' has left the game
+[2021-04-15 11:46:54]: ***  [, Level 0]: 'Я гоги' entered and joined the game
+[2021-04-15 11:47:01]: ***  [, Level 0]: 'DonBilbo12' has left the game
+[2021-04-15 11:47:02]: bob [669, Level 36]: Kenshi™: we too good for u
