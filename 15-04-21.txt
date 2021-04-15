@@ -6266,3 +6266,6 @@
 [2021-04-15 07:49:36]: ERROR. [404, Level 57]: ops
 [2021-04-15 07:49:42]: Cylox [{TQuila}, Level 31]: ahhahaha
 [2021-04-15 07:49:43]: Intensiv [CrazyNoobs, Level 12]: El patron:  help me
+[2021-04-15 07:49:52]: ***  [, Level 0]: fomjn is on a killing spree with 10 blocks
+[2021-04-15 07:49:55]: darkstar3 [Legacy™, Level 11]: Cylox.: oke
+[2021-04-15 07:50:02]: darkstar3 [Legacy™, Level 11]: i help u
