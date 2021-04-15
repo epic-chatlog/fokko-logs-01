@@ -11396,3 +11396,4 @@
 [2021-04-15 13:06:54]: test [, Level 0]: ;vote 1
 [2021-04-15 13:06:58]: test [, Level 0]: aaaaaa
 [2021-04-15 13:06:59]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-15 13:07:13]: ***  [, Level 0]: 'test' joined the spectators
