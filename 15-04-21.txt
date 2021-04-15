@@ -5324,3 +5324,4 @@
 [2021-04-15 06:22:33]: ***  [, Level 0]: '(1)Kezo' has left the game
 [2021-04-15 06:22:37]: ***  [, Level 0]: '(1)Kezo' entered and joined the game
 [2021-04-15 06:22:40]: Taip [VergleriSay, Level 19]: çek
+[2021-04-15 06:22:54]: Taip [VergleriSay, Level 19]: yavşak mısın
