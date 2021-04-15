@@ -6085,3 +6085,8 @@
 [2021-04-15 07:39:29]: ***  [, Level 0]: [D] falkenauge is on a killing spree with 5 blocks
 [2021-04-15 07:39:30]: mamikral011 [DogParty, Level 0]: Taip: war
 [2021-04-15 07:39:31]: Taip [VergleriSay, Level 19]: AMCIK
+[2021-04-15 07:39:35]: Taip [VergleriSay, Level 19]: nah
+[2021-04-15 07:39:36]: Taip [VergleriSay, Level 19]: help
+[2021-04-15 07:39:37]: Taip [VergleriSay, Level 19]: bida
+[2021-04-15 07:39:40]: ☺ [, Level 21]: xd
+[2021-04-15 07:39:41]: ***  [, Level 0]: 'cunt' would have timed out, but can use timeout protection now
