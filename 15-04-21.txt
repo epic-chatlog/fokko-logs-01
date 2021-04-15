@@ -8165,3 +8165,6 @@
 [2021-04-15 09:45:32]: ***  [, Level 0]: 'weqe' has left the game
 [2021-04-15 09:45:32]:   [, Level 0]: MaMi: Taip: ok
 [2021-04-15 09:45:32]: Taip [VergleriSay, Level 19]: bence bunda da olmalı
+[2021-04-15 09:45:42]: ***  [, Level 0]: '(2)Cosmo' has left the game
+[2021-04-15 09:45:42]: ***  [, Level 0]: 'Cosmo' has left the game
+[2021-04-15 09:45:42]: ***  [, Level 0]: '(1)Cosmo' has left the game
