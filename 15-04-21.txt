@@ -11581,3 +11581,7 @@
 [2021-04-15 13:29:25]: any [404, Level 38]: Lucas: l2p
 [2021-04-15 13:29:35]: [D] El patron [, Level 0]: lessname:
 [2021-04-15 13:29:40]: any [404, Level 38]: El patron: <<<<
+[2021-04-15 13:30:06]: El patron [, Level 30]: xd
+[2021-04-15 13:30:08]: ***  [, Level 0]: 'Terra' entered and joined the game
+[2021-04-15 13:30:09]: Zephir™ [, Level 40]: :ccc
+[2021-04-15 13:30:09]: Lucas [THECEPS, Level 35]: any: idk ore you're stupid but i already sayd idk what you mean with l2p
