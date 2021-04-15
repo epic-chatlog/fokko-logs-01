@@ -10186,3 +10186,5 @@
 [2021-04-15 12:07:49]: ***  [, Level 0]: 'STOPID' changed name to 'Shiro.nob'
 [2021-04-15 12:07:54]:   [, Level 0]: weqe: BC|kakashi: /money drop amount
 [2021-04-15 12:07:57]:   [, Level 0]: El patron: left
+[2021-04-15 12:08:07]: ***  [, Level 0]: 'Shiro.nob' changed name to 'LGBT+ General'
+[2021-04-15 12:08:11]: Cylox. [, Level 24]: asmndfvndfjkbn g
