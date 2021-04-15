@@ -5958,3 +5958,5 @@
 [2021-04-15 07:29:16]: ***  [, Level 0]: 'cunt' entered and joined the game
 [2021-04-15 07:29:20]: ☺ [, Level 0]: Taip: :(
 [2021-04-15 07:29:27]: ***  [, Level 0]: 'Cylox' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-15 07:29:32]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: Taip: u have end hook?
+[2021-04-15 07:29:36]: Taip [VergleriSay, Level 19]: yep
