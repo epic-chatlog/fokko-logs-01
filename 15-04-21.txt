@@ -5304,3 +5304,5 @@
 [2021-04-15 06:20:49]: x7|zemer [xSD7, Level 0]: -ADVENTURE__=: Do you want war?
 [2021-04-15 06:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-15 06:20:54]: -ADVENTURE__= [, Level 0]: no??
+[2021-04-15 06:21:00]: cookie [, Level 20]: Taip:  yeah no i dont can help
+[2021-04-15 06:21:00]: Intensiv_ [CrazyNoobs, Level 5]: krx
