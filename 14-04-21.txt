@@ -12368,3 +12368,5 @@
 [2021-04-14 17:29:06]: Flupper [, Level 40]: scuf:
 [2021-04-14 17:29:12]: scuf [669, Level 0]: y
 [2021-04-14 17:29:18]: Zephir™ [, Level 40]: Zʷʰʸˀ: i have 40
+[2021-04-14 17:29:21]: Zʷʰʸˀ [NULL, Level 37]: 17
+[2021-04-14 17:29:25]: ***  [, Level 0]: Flupper is on a killing spree with 5 blocks
