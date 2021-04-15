@@ -11393,3 +11393,6 @@
 [2021-04-15 13:06:31]: soleri1 [, Level 0]: any²:
 [2021-04-15 13:06:38]: ***  [, Level 0]: 'test' has left the game
 [2021-04-15 13:06:50]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-15 13:06:54]: test [, Level 0]: ;vote 1
+[2021-04-15 13:06:58]: test [, Level 0]: aaaaaa
+[2021-04-15 13:06:59]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
