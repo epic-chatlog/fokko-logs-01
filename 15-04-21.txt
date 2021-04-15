@@ -12551,3 +12551,5 @@
 [2021-04-15 15:23:30]: (1)☺ [, Level 0]: gay
 [2021-04-15 15:23:56]: bob [Legacy™, Level 36]: scuf: BROTHER
 [2021-04-15 15:24:17]: ***  [, Level 0]: 'cunt' entered and joined the game
+[2021-04-15 15:24:25]: ***  [, Level 0]: 'Kenshi™' has left the game
+[2021-04-15 15:24:25]: ***  [, Level 0]: 'Zephir™' has left the game
