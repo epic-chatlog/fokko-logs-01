@@ -3221,3 +3221,5 @@
 [2021-04-15 04:40:15]: ***  [, Level 0]: 'geci' joined the game
 [2021-04-15 04:40:20]: ***  [, Level 0]: 'geci' joined the spectators
 [2021-04-15 04:40:24]: ***  [, Level 0]: 'geci' joined the game
+[2021-04-15 04:40:33]: Taip [VergleriSay, Level 19]: Intensiv_ help pls
+[2021-04-15 04:40:36]: WarHammer [DogParty, Level 26]: ne
