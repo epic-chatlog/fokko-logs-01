@@ -4104,3 +4104,5 @@
 [2021-04-15 05:20:35]: SanoreX [Chilli.*, Level 27]: oyun krallı: flappy: dont help "oyuncu ismi"
 [2021-04-15 05:20:37]: ***  [, Level 0]: 'Cosmo' entered and joined the game
 [2021-04-15 05:20:40]: Mert [Blood Gang, Level 0]: 1 yıl oldumu mesela
+[2021-04-15 05:20:46]: SanoreX [Chilli.*, Level 27]: krx
+[2021-04-15 05:20:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
