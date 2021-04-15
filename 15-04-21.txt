@@ -9891,3 +9891,5 @@
 [2021-04-15 11:51:30]: ***  [, Level 0]: 'Shiro,' entered and joined the game
 [2021-04-15 11:51:33]:   [, Level 0]: Zephir™: Shiro.: t'aide bob = tu est son dog ou quoi ?
 [2021-04-15 11:51:36]: bob [669, Level 36]: Zephir™: why u traitr ?
+[2021-04-15 11:51:40]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 10 blocks
+[2021-04-15 11:51:40]: bob [669, Level 36]: Shiro.: what he said now ? xd
