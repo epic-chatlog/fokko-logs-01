@@ -561,3 +561,4 @@
 [2021-04-15 01:58:56]: ***  [, Level 0]: ### 'Mista bombastic' QUACK
 [2021-04-15 01:58:57]: ***  [, Level 0]: 'power' has left the game
 [2021-04-15 01:59:00]: ***  [, Level 0]: ### 'Mista bombastic' QUACK
+[2021-04-15 01:59:11]: MOM [, Level 0]: Cylox: thank you sir
