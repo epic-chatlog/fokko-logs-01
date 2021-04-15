@@ -12896,3 +12896,4 @@
 [2021-04-15 16:19:59]: ***  [, Level 0]: '[D] Guardian' has left the game
 [2021-04-15 16:20:06]: ☺ [, Level 21]: no weapon fuck
 [2021-04-15 16:20:06]: Kirito [{TQuila}, Level 40]: xDDD im bad
+[2021-04-15 16:20:22]: ***  [, Level 0]: '1000' entered and joined the game
