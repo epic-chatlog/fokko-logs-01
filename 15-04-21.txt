@@ -12583,3 +12583,9 @@
 [2021-04-15 15:25:51]: BobSlave [, Level 0]: im ok
 [2021-04-15 15:25:53]: ☺ [, Level 21]: xd
 [2021-04-15 15:25:54]: ***  [, Level 0]: 'jaocado' entered and joined the game
+[2021-04-15 15:25:55]: power [TrRShClNrRs, Level 15]: scuf:
+[2021-04-15 15:25:55]: BobSlave [, Level 0]: but im washed at gctf
+[2021-04-15 15:25:57]: power [TrRShClNrRs, Level 15]: help
+[2021-04-15 15:25:58]: power [TrRShClNrRs, Level 15]: left
+[2021-04-15 15:25:59]: power [TrRShClNrRs, Level 15]: scuf:
+[2021-04-15 15:25:59]: bob [Legacy™, Level 36]: why brother
