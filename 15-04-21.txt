@@ -10743,3 +10743,8 @@
 [2021-04-15 12:32:02]: ***  [, Level 0]: 'test' has left the game
 [2021-04-15 12:32:18]: ***  [, Level 0]: 'test' entered and joined the game
 [2021-04-15 12:32:20]:   [, Level 0]: test: ;spec
+[2021-04-15 12:32:31]: bob [669, Level 36]: ERROR: ICH SEH DICH
+[2021-04-15 12:32:32]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 12:32:33]: bob [669, Level 36]: komm her
+[2021-04-15 12:32:36]: bob [669, Level 36]: süzze maus
+[2021-04-15 12:32:37]: LGBT+ General [404, Level 42]: where we can go
