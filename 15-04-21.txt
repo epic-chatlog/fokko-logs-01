@@ -8961,3 +8961,7 @@
 [2021-04-15 10:47:14]: Zephir™ [, Level 40]: HeavyGeneral: u have 8 jumps ?
 [2021-04-15 10:47:15]: HeavyGeneral [FookinLads, Level 44]: Zephir™: take 5 n weapons
 [2021-04-15 10:47:20]: any [404, Level 38]: HeavyGeneral: still full ?
+[2021-04-15 10:47:25]: ***  [, Level 0]: '(1)nameless tee' has left the game
+[2021-04-15 10:47:28]: HeavyGeneral [FookinLads, Level 44]: JustRace: no
+[2021-04-15 10:47:32]: HeavyGeneral [FookinLads, Level 44]: any: full what
+[2021-04-15 10:47:34]: any [404, Level 38]: HeavyGeneral: x)
