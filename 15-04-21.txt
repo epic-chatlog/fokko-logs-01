@@ -11465,3 +11465,8 @@
 [2021-04-15 13:14:39]: ***  [, Level 0]: 'lorenzo96' entered and joined the game
 [2021-04-15 13:14:53]: ***  [, Level 0]: '[D] El patron' entered and joined the game
 [2021-04-15 13:14:56]: Bozzkurt [SkinLover, Level 0]: xD
+[2021-04-15 13:15:46]: ***  [, Level 0]: 'bicth' has left the game
+[2021-04-15 13:15:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-15 13:15:51]: any [404, Level 38]: Lucas: wp
+[2021-04-15 13:15:53]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 13:15:55]: ***  [, Level 0]: 'test' entered and joined the game
