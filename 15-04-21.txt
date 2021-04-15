@@ -3668,3 +3668,12 @@
 [2021-04-15 04:57:47]: ***  [, Level 0]: '(1)RM | Arin' has left the game
 [2021-04-15 04:57:48]: SanoreX [Chilli.*, Level 27]: kais: XDDDDD
 [2021-04-15 04:57:51]: SanoreX [Chilli.*, Level 27]: kais: XDDDDD good fail
+[2021-04-15 04:57:53]: ***  [, Level 0]: Ϝʀıɢʊʂ finished in: 12 minute(s) 52.32 second(s)
+[2021-04-15 04:57:54]: (1)kais [, Level 66]: SanoreX: no coments
+[2021-04-15 04:57:55]: #5 blocker [|*MorE*|, Level 24]: MieSlime: #5 blocker
+[2021-04-15 04:57:57]: SanoreX [Chilli.*, Level 27]: kais: I say u s and u say me no?
+[2021-04-15 04:57:59]: ***  [, Level 0]: 'Reqirem' entered and joined the game
+[2021-04-15 04:58:00]: ***  [, Level 0]: 'El patron' finished the special race!
+[2021-04-15 04:58:00]: ***  [, Level 0]: ölüm bekçisi is on a killing spree with 15 blocks
+[2021-04-15 04:58:02]: ***  [, Level 0]: '(1)MOM' has left the game (Timeout)
+[2021-04-15 04:58:02]: ***  [, Level 0]: 'MOM' has left the game (Too weak connection (not acked for 60 seconds))
