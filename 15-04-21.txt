@@ -4785,3 +4785,8 @@
 [2021-04-15 05:55:35]: (1) [, Level 40]: mert srop
 [2021-04-15 05:55:38]: [D] El patron [, Level 24]: #5 blocker: xd
 [2021-04-15 05:55:40]: Kezo [DogParty, Level 41]: oyun krallı: seslide konuşma
+[2021-04-15 05:55:45]: Kezo [DogParty, Level 41]: oyun krallı: discord var mı
+[2021-04-15 05:55:46]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-15 05:55:47]: ***  [, Level 0]: 'ölüm bekçisi' has left the game
+[2021-04-15 05:55:50]: oyun krallı [, Level 18]: no
+[2021-04-15 05:55:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
