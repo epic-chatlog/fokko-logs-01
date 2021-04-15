@@ -8750,3 +8750,4 @@
 [2021-04-15 10:32:36]: ***  [, Level 0]: 'ZEUS' has left the game
 [2021-04-15 10:32:39]:   [, Level 0]: (1)Good man: stop
 [2021-04-15 10:32:49]: ***  [, Level 0]: ERROR.'s killing spree was ended by HorseMilksHorse (8 blocks)
+[2021-04-15 10:32:58]: ***  [, Level 0]: 'Jerry' entered and joined the game
