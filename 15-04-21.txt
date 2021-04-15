@@ -13006,3 +13006,4 @@
 [2021-04-15 16:44:21]: (1)☺ [, Level 13]: ChillerDragon: good live man
 [2021-04-15 16:44:34]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
 [2021-04-15 16:44:34]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
+[2021-04-15 16:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
