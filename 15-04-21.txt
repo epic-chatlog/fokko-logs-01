@@ -7693,3 +7693,7 @@
 [2021-04-15 08:58:47]: (1)Cosmo [, Level 0]: darkstar: help
 [2021-04-15 08:58:51]: aimbot aaaaaaaa [FookinLads, Level 42]: bot
 [2021-04-15 08:58:52]: Axandos² [, Level 21]: Isegrin:  he pranked us
+[2021-04-15 08:58:54]: Axandos² [, Level 21]: bot
+[2021-04-15 08:58:56]: aimbot aaaaaaaa [FookinLads, Level 42]: bot
+[2021-04-15 08:58:59]: Axandos² [, Level 21]: bot
+[2021-04-15 08:59:02]: aimbot aaaaaaaa [FookinLads, Level 42]: bot
