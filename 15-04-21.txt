@@ -2364,3 +2364,7 @@
 [2021-04-15 03:48:42]: SanoreX [Chilli.*, Level 27]: al
 [2021-04-15 03:48:48]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-15 03:48:50]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-15 03:49:00]: SanoreX [Chilli.*, Level 27]: help
+[2021-04-15 03:49:01]: ***  [, Level 0]: 'ghfdjxc' entered and joined the game
+[2021-04-15 03:49:02]: SanoreX [Chilli.*, Level 27]: EHHHHLP
+[2021-04-15 03:49:04]: SanoreX [Chilli.*, Level 27]: help
