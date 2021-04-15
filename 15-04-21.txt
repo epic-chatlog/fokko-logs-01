@@ -11410,3 +11410,11 @@
 [2021-04-15 13:08:35]: test [, Level 0]: ;exit
 [2021-04-15 13:08:37]: any [404, Level 38]: El patron: he enemie
 [2021-04-15 13:08:39]: ***  [, Level 0]: (2)Zʷʰʸˀ is on a killing spree with 5 blocks
+[2021-04-15 13:08:43]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 13:08:44]: BC|kakashi [BC, Level 13]: cunt: WTF
+[2021-04-15 13:08:44]: any [404, Level 38]: El patron: <<<<
+[2021-04-15 13:08:47]: Zephir™ [, Level 40]: El patron:
+[2021-04-15 13:08:48]: any [404, Level 38]: El patron: <<<<
+[2021-04-15 13:08:49]: darkstar3 [Legacy™, Level 11]: gg you played yourself
+[2021-04-15 13:08:49]: any [404, Level 38]: El patron: <<<<
+[2021-04-15 13:08:52]: ***  [, Level 0]: (2)Zʷʰʸˀ's killing spree was ended by [D] BC|Tixnix (6 blocks)
