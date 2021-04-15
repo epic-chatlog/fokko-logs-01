@@ -8271,3 +8271,5 @@
 [2021-04-15 09:53:11]: ERROR. [404, Level 57]: YelloWorlD:  imma smoke quick
 [2021-04-15 09:53:18]: Coca [Drunks, Level 16]: MaMi: im thought you gami
 [2021-04-15 09:53:26]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
+[2021-04-15 09:53:31]: ***  [, Level 0]: 'P4Pyr0s' has left the game
+[2021-04-15 09:53:36]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
