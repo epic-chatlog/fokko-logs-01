@@ -5284,3 +5284,7 @@
 [2021-04-15 06:19:01]: SanoreX [Chilli.*, Level 27]: krx
 [2021-04-15 06:19:02]: Antensiv_ [CrazyNoobs, Level 1]: ezme
 [2021-04-15 06:19:08]: [D] El patron [, Level 24]: cookie:
+[2021-04-15 06:19:10]: Mert [Blood Gang, Level 0]: aq noobu
+[2021-04-15 06:19:11]: cookie [, Level 20]: [D] El patron:  not
+[2021-04-15 06:19:17]: cookie [, Level 20]: [D] El patron:  no
+[2021-04-15 06:19:19]: Kezo [DogParty, Level 41]: krz
