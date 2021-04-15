@@ -8276,3 +8276,8 @@
 [2021-04-15 09:53:53]: (3)Zʷʰʸˀ [NULL, Level 26]: darkstar: now u want to waste ur time? just asking xD
 [2021-04-15 09:53:53]: ***  [, Level 0]: 'Guthaben' entered and joined the game
 [2021-04-15 09:53:53]: ***  [, Level 0]: '»ℱℬℑ«' entered and joined the game
+[2021-04-15 09:53:56]: ERROR. [404, Level 57]: xD
+[2021-04-15 09:53:57]: Sayme [, Level 0]: (1)☺: hi)
+[2021-04-15 09:54:02]: ***  [, Level 0]: Coca is on a killing spree with 5 blocks
+[2021-04-15 09:54:03]: (1)☺ [, Level 13]: Sayme: hi
+[2021-04-15 09:54:04]: ChillerDragon.* [Chilli.*, Level 42]: was ERROR
