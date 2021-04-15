@@ -7490,3 +7490,5 @@
 [2021-04-15 08:45:27]: Meetiteusz [TrRShClNrRs, Level 0]: Ðream: discord
 [2021-04-15 08:45:28]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-15 08:45:30]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-15 08:45:42]: GODLIKe [, Level 44]: Meetiteusz: dont movee
+[2021-04-15 08:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
