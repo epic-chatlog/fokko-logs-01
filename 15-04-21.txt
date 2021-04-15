@@ -7235,3 +7235,4 @@
 [2021-04-15 08:34:05]:   [, Level 0]: Taip: Lucas?
 [2021-04-15 08:34:07]: ***  [, Level 0]: 'WarHammer'' has left the game
 [2021-04-15 08:34:07]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-15 08:34:18]: Taip [VergleriSay, Level 19]: what is noname
