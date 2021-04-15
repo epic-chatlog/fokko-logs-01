@@ -7164,3 +7164,6 @@
 [2021-04-15 08:30:16]: Taip [VergleriSay, Level 19]: bro
 [2021-04-15 08:30:16]: Lucas [THECEPS, Level 35]: Taip: ?
 [2021-04-15 08:30:18]: Taip [VergleriSay, Level 19]: how i get name
+[2021-04-15 08:30:20]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-15 08:30:20]: Taip [VergleriSay, Level 19]: i noname
+[2021-04-15 08:30:23]: ***  [, Level 0]: 'nameless tee' joined the game
