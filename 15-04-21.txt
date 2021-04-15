@@ -5966,3 +5966,5 @@
 [2021-04-15 07:29:56]: ☺ [, Level 0]: np
 [2021-04-15 07:29:57]: ***  [, Level 0]: 'WarHammer'' has left the game (Timeout Protection over)
 [2021-04-15 07:29:57]: ***  [, Level 0]: 'WarHammer' has left the game (Timeout Protection over)
+[2021-04-15 07:30:09]: Taip [VergleriSay, Level 19]: wait
+[2021-04-15 07:30:15]: ***  [, Level 0]: 'Cylox' left the minigame 'Block'
