@@ -4111,3 +4111,5 @@
 [2021-04-15 05:21:30]: oyun krallı [, Level 18]: flappy:help
 [2021-04-15 05:21:32]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-15 05:21:34]: Axandos [, Level 26]: Kezo:  stop this shit wtf
+[2021-04-15 05:22:12]: Tziys* [DogParty, Level 39]: oyun krallı: war forever
+[2021-04-15 05:22:15]: Axandos [, Level 26]: Kezo:  lol flappy won
