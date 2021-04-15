@@ -8409,3 +8409,5 @@
 [2021-04-15 10:08:00]: BLACK [, Level 25]: Good man:
 [2021-04-15 10:08:07]: BLACK [, Level 25]: Coca:
 [2021-04-15 10:08:10]: ***  [, Level 0]: ### 'WarHammer' xd
+[2021-04-15 10:08:12]: BLACK [, Level 25]: Coca:  help my summy
+[2021-04-15 10:08:17]: BLACK [, Level 25]: d
