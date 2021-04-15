@@ -12691,3 +12691,7 @@
 [2021-04-15 15:32:11]: bob [Legacy™, Level 36]: HELP
 [2021-04-15 15:32:13]: bob [Legacy™, Level 36]: I NEED HELP
 [2021-04-15 15:32:14]: bob [Legacy™, Level 36]: SOS
+[2021-04-15 15:32:15]: bob [Legacy™, Level 36]: scuf:
+[2021-04-15 15:32:17]: bob [Legacy™, Level 36]: HELPP
+[2021-04-15 15:32:21]: bob [Legacy™, Level 36]: brtoher in DANGER
+[2021-04-15 15:32:24]: ***  [, Level 0]: 'bob' has been muted for 60 seconds
