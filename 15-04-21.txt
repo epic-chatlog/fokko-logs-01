@@ -11514,3 +11514,8 @@
 [2021-04-15 13:20:58]: lessname [, Level 0]: hallo xD
 [2021-04-15 13:21:00]: ***  [, Level 0]: 'Bob The Gamer' entered and joined the game
 [2021-04-15 13:21:04]: cunt [, Level 0]: lessname: ?
+[2021-04-15 13:21:05]: ***  [, Level 0]: 'casserole :p' entered and joined the game
+[2021-04-15 13:21:08]: ***  [, Level 0]: 'Bob The Gamer' joined the spectators
+[2021-04-15 13:21:11]: cunt [, Level 0]: lessname: u nameless
+[2021-04-15 13:21:12]: ***  [, Level 0]: 'Bob The Gamer' joined the game
+[2021-04-15 13:21:16]: lessname [, Level 0]: ye
