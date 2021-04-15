@@ -8281,3 +8281,5 @@
 [2021-04-15 09:54:02]: ***  [, Level 0]: Coca is on a killing spree with 5 blocks
 [2021-04-15 09:54:03]: (1)☺ [, Level 13]: Sayme: hi
 [2021-04-15 09:54:04]: ChillerDragon.* [Chilli.*, Level 42]: was ERROR
+[2021-04-15 09:54:10]: ***  [, Level 0]: '»ℱℬℑ«' has left the game
+[2021-04-15 09:54:18]: ***  [, Level 0]: '[D] _CHUCKY_' entered and joined the game
