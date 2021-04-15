@@ -12461,3 +12461,7 @@
 [2021-04-15 15:13:48]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-15 15:13:49]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-15 15:14:01]: ***  [, Level 0]: 'scuf' entered and joined the game
+[2021-04-15 15:14:05]: ☺ [, Level 0]: Zephir™: aide moi a avoir des boost stp
+[2021-04-15 15:14:07]: bob [Legacy™, Level 36]: scuf: ahha
+[2021-04-15 15:14:11]: scuf [669, Level 0]: bob: wtf
+[2021-04-15 15:14:13]: scuf [669, Level 0]: brother
