@@ -7861,3 +7861,4 @@
 [2021-04-15 09:17:15]: ***  [, Level 0]: Taip finished in: 2 minute(s) 26.82 second(s)
 [2021-04-15 09:17:16]: ***  [, Level 0]: f"{self.name}" finished in: 2 minute(s) 29.78 second(s)
 [2021-04-15 09:17:16]: ***  [, Level 0]: New record: 9 minute(s)  7.40 second(s) better.
+[2021-04-15 09:18:35]: ERROR [404, Level 75]: aimbot
