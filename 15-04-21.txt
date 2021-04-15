@@ -9520,3 +9520,7 @@
 [2021-04-15 11:20:33]: JustRace. [DogParty, Level 29]: well fuck
 [2021-04-15 11:20:38]: woona [, Level 48]: cya:
 [2021-04-15 11:20:39]: JustRace. [DogParty, Level 29]: another bonus player
+[2021-04-15 11:20:49]: ***  [, Level 0]: 'El patron' has left the game
+[2021-04-15 11:20:49]: ***  [, Level 0]: '[D] El patron' has left the game
+[2021-04-15 11:20:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-15 11:20:52]:   [, Level 0]: GODLIKe: rq
