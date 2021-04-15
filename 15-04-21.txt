@@ -4060,3 +4060,6 @@
 [2021-04-15 05:17:02]: SanoreX [Chilli.*, Level 27]: (1)Kirito: please come plot 11
 [2021-04-15 05:17:06]: ***  [, Level 0]: '(1)SanoreX' entered and joined the game
 [2021-04-15 05:17:13]: (1)SanoreX [Chilli.*, Level 0]: amk
+[2021-04-15 05:17:19]: ***  [, Level 0]: 'ϻɪɔʜɑʟ' entered and joined the game
+[2021-04-15 05:17:20]: Taip [VergleriSay, Level 19]: pls
+[2021-04-15 05:17:21]: Taip [VergleriSay, Level 19]: help
