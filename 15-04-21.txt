@@ -6706,3 +6706,7 @@
 [2021-04-15 08:10:33]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-15 08:10:35]: ***  [, Level 0]: 'Good man' entered and joined the game
 [2021-04-15 08:10:37]: ***  [, Level 0]: 'coca' entered and joined the game
+[2021-04-15 08:10:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-15 08:10:52]: ERROR [404, Level 75]: xD
+[2021-04-15 08:10:52]: Matiteusz [TrRShClNrRs, Level 36]: Ƭevan: where
+[2021-04-15 08:10:53]:   [, Level 0]: Good man: Zerstrian:
