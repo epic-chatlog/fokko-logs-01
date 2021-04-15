@@ -11647,3 +11647,5 @@
 [2021-04-15 13:35:04]: ***  [, Level 0]: '(1)test' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-15 13:35:05]: Zephir™ [, Level 40]: ChillerDragon: try
 [2021-04-15 13:35:15]: [D] El patron [, Level 0]: unghost
+[2021-04-15 13:35:23]: power [TrRShClNrRs, Level 15]: lul
+[2021-04-15 13:35:27]: [D] El patron [, Level 0]: i wanna see u name
