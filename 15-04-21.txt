@@ -5411,3 +5411,5 @@
 [2021-04-15 06:30:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-15 06:30:52]: [D] El patron [, Level 24]: SanoreX: how
 [2021-04-15 06:30:53]: Kahve [, Level 23]: Cylox: seni sikmek istiyomuş el patron
+[2021-04-15 06:30:59]: Cylox. [{TQuila}, Level 0]: Kahve: samfdnfsdb
+[2021-04-15 06:31:04]: ***  [, Level 0]: 'Kahve' has left the game
