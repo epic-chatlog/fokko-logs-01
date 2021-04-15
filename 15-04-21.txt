@@ -8205,3 +8205,7 @@
 [2021-04-15 09:47:50]: YelloWorlD [DogParty, Level 41]: zZz: random
 [2021-04-15 09:47:54]: zZz [{D}, Level 0]: YelloWorlD:(
 [2021-04-15 09:47:56]: MaMi [DogParty, Level 0]: YelloWorlD: what
+[2021-04-15 09:48:06]: ***  [, Level 0]: 'MaMi' has left the game
+[2021-04-15 09:48:06]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-15 09:48:07]: ***  [, Level 0]: HorseMilksHorse is on a killing spree with 20 blocks
+[2021-04-15 09:48:10]: darkstar [Legacy™, Level 19]: Zʷʰʸˀ: peace?
