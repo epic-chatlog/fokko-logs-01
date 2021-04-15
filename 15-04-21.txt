@@ -10001,3 +10001,8 @@
 [2021-04-15 11:59:25]: ***  [, Level 0]: 'kurama' has left the game
 [2021-04-15 11:59:35]: ***  [, Level 0]: 'bully' has left the game
 [2021-04-15 11:59:41]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-15 12:00:03]:   [, Level 0]: Zephir™: Shiro,: et si je venais a rejoindre la 404 tu ferais comment ?
+[2021-04-15 12:00:08]: ***  [, Level 0]: 'BC|kakashi' has left the game
+[2021-04-15 12:00:09]: Shiro. [404, Level 42]: bah jte tue pas
+[2021-04-15 12:00:10]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
+[2021-04-15 12:00:11]: BC|Tixnix [BC, Level 34]: darkstar3: help me first pls psl
