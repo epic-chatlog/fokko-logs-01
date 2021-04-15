@@ -2457,3 +2457,4 @@
 [2021-04-15 03:54:35]: Taip [VergleriSay, Level 19]: @everyone: hi
 [2021-04-15 03:54:37]: Taip [VergleriSay, Level 19]: wtf
 [2021-04-15 03:54:40]: Taip [VergleriSay, Level 19]: nasıl atıon
+[2021-04-15 03:54:49]: ***  [, Level 0]: 'cookie' entered and joined the game
