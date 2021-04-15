@@ -8502,3 +8502,7 @@
 [2021-04-15 10:15:13]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
 [2021-04-15 10:15:22]: Zephir™ [, Level 40]: ERROR: wtf ????
 [2021-04-15 10:15:32]: ***  [, Level 0]: ERROR. is on a killing spree with 5 blocks
+[2021-04-15 10:15:35]: GOLD [404, Level 40]: helper
+[2021-04-15 10:15:36]: WarHammer [DogParty, Level 17]: MaMi:  HLL
+[2021-04-15 10:15:41]:   [, Level 0]: mamikral011: WarHammer': ne lan
+[2021-04-15 10:15:44]: Zephir™ [, Level 40]: ERROR: ??
