@@ -6779,3 +6779,4 @@
 [2021-04-15 08:15:24]: ERROR [404, Level 75]: troll
 [2021-04-15 08:15:25]: Axandos [, Level 26]: Mmmmmmmmmmmmmmm
 [2021-04-15 08:15:28]: Axandos [, Level 26]: Kkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2021-04-15 08:15:45]: ***  [, Level 0]: 'luciska' entered and joined the game
