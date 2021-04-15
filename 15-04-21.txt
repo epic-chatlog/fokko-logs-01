@@ -7306,3 +7306,6 @@
 [2021-04-15 08:38:47]: ERROR. [404, Level 57]: xD
 [2021-04-15 08:38:57]: ***  [, Level 0]: 'darkstar2' has left the game (Timeout)
 [2021-04-15 08:38:57]: ***  [, Level 0]: 'darkstar' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-15 08:39:04]: ***  [, Level 0]: 'SanoreX' entered and joined the game
+[2021-04-15 08:39:12]: weqe [669, Level 13]: happy ramadan ERROR
+[2021-04-15 08:39:13]: ERROR. [404, Level 57]: xD
