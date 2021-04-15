@@ -6325,3 +6325,8 @@
 [2021-04-15 07:52:37]: ***  [, Level 0]: 'fomjn' has left the game
 [2021-04-15 07:52:37]: [D] Kahve [, Level 19]: lol noooooooooob
 [2021-04-15 07:52:38]: ERROR [404, Level 75]: troll
+[2021-04-15 07:52:42]: ***  [, Level 0]: darkstar4 finished in: 2 minute(s)  7.12 second(s)
+[2021-04-15 07:52:42]: ***  [, Level 0]: New record:  1.52 second(s) better.
+[2021-04-15 07:52:44]: Axandos² [, Level 21]: nicht ihre schlauste entscheidung sir ERROR
+[2021-04-15 07:52:48]: Swarfey [FookinLads, Level 59]: Killua: i was busy hacking chillerdragon
+[2021-04-15 07:52:51]: ERROR [404, Level 75]: blabla
