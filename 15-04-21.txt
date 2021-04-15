@@ -5936,3 +5936,6 @@
 [2021-04-15 07:25:57]: ***  [, Level 0]: 'WarHammer'' would have timed out, but can use timeout protection now
 [2021-04-15 07:26:02]: ***  [, Level 0]: '☺' entered and joined the game
 [2021-04-15 07:26:07]: ***  [, Level 0]: '(1)WarHammer' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-15 07:26:18]: (1) [, Level 40]: it isnt my taser
+[2021-04-15 07:26:18]: Kahve [, Level 23]: Axandos: why
+[2021-04-15 07:26:27]: ***  [, Level 0]: '(1)WarHammer' left the minigame 'Survival'
