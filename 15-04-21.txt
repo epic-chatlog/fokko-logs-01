@@ -1540,3 +1540,4 @@
 [2021-04-15 02:55:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-15 02:55:50]: SanoreX [Chilli.*, Level 27]: bişe alıp götürcek bizi
 [2021-04-15 02:55:52]: SanoreX [Chilli.*, Level 27]: bekle
+[2021-04-15 02:56:08]: [D] Mert [[!BRUH!], Level 0]: 1 i atma
