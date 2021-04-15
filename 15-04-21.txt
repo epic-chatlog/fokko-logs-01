@@ -6474,3 +6474,5 @@
 [2021-04-15 07:58:39]: Axandos [, Level 26]: trollmaster
 [2021-04-15 07:58:40]: ***  [, Level 0]: 'falkenauge' would have timed out, but can use timeout protection now
 [2021-04-15 07:58:40]: ***  [, Level 0]: '[D] falkenauge' would have timed out, but can use timeout protection now
+[2021-04-15 07:58:54]: Cylox. [{TQuila}, Level 0]: Zʷʰʸˀ: WAR
+[2021-04-15 07:59:00]: ERROR. [404, Level 57]: opmg
