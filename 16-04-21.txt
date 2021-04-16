@@ -8209,3 +8209,5 @@
 [2021-04-16 10:54:19]: ☺ [, Level 22]: Zephir™:
 [2021-04-16 10:54:21]: ***  [, Level 0]: 'woona' entered and joined the game
 [2021-04-16 10:54:23]: Bozzkurt [SkinLover, Level 0]: GO BUY SKILL
+[2021-04-16 10:55:04]: ***  [, Level 0]: El patron is on a killing spree with 5 blocks
+[2021-04-16 10:55:08]: ***  [, Level 0]: El patron's killing spree was ended by woona (5 blocks)
