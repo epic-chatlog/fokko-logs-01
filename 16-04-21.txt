@@ -936,3 +936,7 @@
 [2021-04-16 01:38:16]: HeavyGeneral [FookinLads, Level 44]: no doubt
 [2021-04-16 01:38:18]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
 [2021-04-16 01:38:25]: ***  [, Level 0]: ### 'general's dog' Woof-Woof
+[2021-04-16 01:38:27]: ***  [, Level 0]: ### 'HeavyGeneral' Woof-Woof
+[2021-04-16 01:38:33]: ***  [, Level 0]: any²'s killing spree was ended by (1)el champeon (8 blocks)
+[2021-04-16 01:38:37]: ***  [, Level 0]: 'Nudelsaft c:' has left the game (Timeout Protection over)
+[2021-04-16 01:38:37]: ***  [, Level 0]: 'Swarfey' has left the game (Timeout Protection over)
