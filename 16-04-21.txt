@@ -316,3 +316,6 @@
 [2021-04-16 00:43:05]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-16 00:43:11]: ***  [, Level 0]: 'any²' entered and joined the game
 [2021-04-16 00:43:26]: ϻɪɔʜɑʟ [, Level 24]: [D] #5 blocker: come
+[2021-04-16 00:43:34]: [D] #5 blocker [|*MorE*|, Level 0]: Kiøn1029: blockolj
+[2021-04-16 00:43:36]: Nudelsaft c: [FookinLads, Level 60]: I like turtles.
+[2021-04-16 00:43:45]: [D] #5 blocker [|*MorE*|, Level 0]: help
