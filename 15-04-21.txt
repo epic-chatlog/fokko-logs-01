@@ -14567,3 +14567,10 @@
 [2021-04-15 23:47:58]: Nudelsaft c: [FookinLads, Level 0]: a
 [2021-04-15 23:48:02]: SanoreX.* [Chilli.*, Level 22]: test:
 [2021-04-15 23:48:08]: #5 blocker [|*MorE*|, Level 0]: Kahve: MINUTE MAN I TIMEOUT OKAY?
+[2021-04-15 23:48:26]: Kahve [, Level 24]: ahhhhhhhh ok
+[2021-04-15 23:48:26]: Nudelsaft c: [FookinLads, Level 0]: a
+[2021-04-15 23:48:28]: Kahve [, Level 24]: #5 blocker:
+[2021-04-15 23:48:29]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-15 23:48:30]: SanoreX.* [Chilli.*, Level 22]: a m k flappy
+[2021-04-15 23:48:33]: Kahve [, Level 24]: #5 blocker: say ./plot spawn
+[2021-04-15 23:48:36]: Kahve [, Level 24]: and kill
