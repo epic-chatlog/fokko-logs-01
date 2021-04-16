@@ -8900,3 +8900,6 @@
 [2021-04-16 11:36:36]:   [, Level 0]: El Monkey: sure
 [2021-04-16 11:36:38]: [D] BC|Tixnix [BC, Level 0]: Falco641: dog shhhhhhhhhh
 [2021-04-16 11:36:40]: ***  [, Level 0]: 'оффниук' entered and joined the game
+[2021-04-16 11:36:50]: [D] BC|Tixnix [BC, Level 0]: [D] El patron: ?
+[2021-04-16 11:36:54]: ***  [, Level 0]: 'JAMES!?' changed name to 'Mista bombastic'
+[2021-04-16 11:36:55]: Zephir™ [, Level 40]: JAMES!?: u are Matiteusz ?
