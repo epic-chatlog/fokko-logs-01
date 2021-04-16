@@ -3405,3 +3405,6 @@
 [2021-04-16 04:47:57]: ***  [, Level 0]: '[D] El patron' has left the game
 [2021-04-16 04:48:04]: Matiteusz [TrRShClNrRs, Level 37]: Ðream: deposit moni
 [2021-04-16 04:48:04]: #5 blocker [|*MorE*|, Level 0]: kais: pls give me a taser account
+[2021-04-16 04:48:32]: ***  [, Level 0]: 'вłøøđωave' left the minigame 'Block'
+[2021-04-16 04:48:35]: Taip [VergleriSay, Level 19]: sal
+[2021-04-16 04:48:38]: Taip [VergleriSay, Level 19]: fun war gel
