@@ -8542,3 +8542,6 @@
 [2021-04-16 11:15:20]: ***  [, Level 0]: 642. Kezo Time: 02:03.06, requested by Kezo
 [2021-04-16 11:15:38]: basoka [, Level 32]: El patron:  u sur ?????
 [2021-04-16 11:15:42]: ***  [, Level 0]: 'sL|cunt' entered and joined the game
+[2021-04-16 11:15:48]: [D] El patron [, Level 24]: basoka: you started
+[2021-04-16 11:15:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-16 11:15:50]: (1)☺ [, Level 0]: fais un stack stp je vais afk et jai pas envie de mourir Zephir™
