@@ -1672,3 +1672,9 @@
 [2021-04-16 02:45:28]: allBlocker [, Level 0]: noobas
 [2021-04-16 02:45:34]: BLACK [, Level 26]: Hady: idiot
 [2021-04-16 02:45:36]: ***  [, Level 0]: 'Axandos' entered and joined the game
+[2021-04-16 02:45:42]: Intensiv [CrazyNoobs, Level 13]: help
+[2021-04-16 02:45:47]: Intensiv [CrazyNoobs, Level 13]: HeavyGeneral:  help
+[2021-04-16 02:45:47]: [D] #5 blocker [|*MorE*|, Level 0]: any²:
+[2021-04-16 02:45:47]: BLACK [, Level 26]: Hady: why u in jail
+[2021-04-16 02:45:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-16 02:45:51]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
