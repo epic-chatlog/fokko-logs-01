@@ -9671,3 +9671,7 @@
 [2021-04-16 12:10:37]: BLACK [, Level 26]: cookie: hurry
 [2021-04-16 12:10:38]: bob [Legacy™, Level 36]: hello
 [2021-04-16 12:10:40]:   [, Level 0]: [D] mamikral011: ERROR: I NEED can you send me money bro
+[2021-04-16 12:10:43]:   [, Level 0]: ERROR.: no
+[2021-04-16 12:10:44]: bob [Legacy™, Level 36]: Dan: where  from my friend
+[2021-04-16 12:10:47]:   [, Level 0]: [D] mamikral011: ERROR: ok
+[2021-04-16 12:10:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
