@@ -12568,3 +12568,6 @@
 [2021-04-16 14:34:03]: Killua [FookinLads, Level 37]: YelloWorlD: -addingame GOLD
 [2021-04-16 14:34:04]: YelloWorlD [DogParty, Level 57]: Killua: nop
 [2021-04-16 14:34:05]: Killua [FookinLads, Level 37]: in discord
+[2021-04-16 14:34:12]: Killua [FookinLads, Level 37]: IN DISCORD write -addingame GOLD
+[2021-04-16 14:34:14]: YelloWorlD [DogParty, Level 57]: -addingame GOLD
+[2021-04-16 14:34:20]: Killua [FookinLads, Level 37]: IN DISCORD
