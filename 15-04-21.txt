@@ -13893,3 +13893,4 @@
 [2021-04-15 22:52:34]: #5 blocker [|*MorE*|, Level 0]: inf jump?
 [2021-04-15 22:52:38]: Kahve [, Level 23]: ok
 [2021-04-15 22:54:56]: [D] Kahve [, Level 19]: #5 blocker: i joined my work xD
+[2021-04-15 22:55:25]: Kahve [, Level 23]: wait
