@@ -12938,3 +12938,4 @@
 [2021-04-16 15:57:47]: ***  [, Level 0]: '(1)Kirito' has left the game (Timeout)
 [2021-04-16 15:57:47]: ***  [, Level 0]: 'Kirito' has left the game (Timeout)
 [2021-04-16 15:58:12]: ~DemoizL~ [, Level 39]: Zephir™: tu war à vie vraiment avec moi ?
+[2021-04-16 15:58:42]: Zephir™ [404, Level 40]: ~DemoizL~: comme si tu vallais quoi que ce soit
