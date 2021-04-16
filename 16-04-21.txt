@@ -6845,3 +6845,7 @@
 [2021-04-16 08:51:51]: [D] mamikral011 [DogParty, Level 0]: wtf
 [2021-04-16 08:51:52]: ***  [, Level 0]: '[D] El patron' entered and joined the game
 [2021-04-16 08:51:52]: [D] mamikral011 [DogParty, Level 0]: what
+[2021-04-16 08:51:56]: [D] mamikral011 [DogParty, Level 0]: No~Filter: help
+[2021-04-16 08:51:56]: ***  [, Level 0]: 'SanoreX' would have timed out, but can use timeout protection now
+[2021-04-16 08:52:01]: No~Filter [, Level 0]: hi
+[2021-04-16 08:52:02]: any [404, Level 0]: darkstar: thx for ur money
