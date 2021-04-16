@@ -1619,3 +1619,6 @@
 [2021-04-16 02:41:10]: Kahve [, Level 24]: any:
 [2021-04-16 02:41:15]: BLACK [, Level 26]: xDDDD
 [2021-04-16 02:41:15]: Kahve [, Level 24]: any:
+[2021-04-16 02:41:19]: BLACK [, Level 26]: Shy-ra.:
+[2021-04-16 02:41:22]: [D] #5 blocker [|*MorE*|, Level 0]: any²:
+[2021-04-16 02:41:26]: Kahve [, Level 24]: any:
