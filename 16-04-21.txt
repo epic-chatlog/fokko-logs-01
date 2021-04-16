@@ -1052,3 +1052,5 @@
 [2021-04-16 01:46:48]: ***  [, Level 0]: (1)el champeon is on a killing spree with 25 blocks
 [2021-04-16 01:46:52]: Estarossa [, Level 11]: xDDD
 [2021-04-16 01:46:52]: Kiøn1029 [.bad, Level 0]: xDdD
+[2021-04-16 01:46:56]: ***  [, Level 0]: 'spkn44' has left the game
+[2021-04-16 01:47:01]: ***  [, Level 0]: 'Cylox' entered and joined the game
