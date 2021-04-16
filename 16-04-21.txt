@@ -720,3 +720,7 @@
 [2021-04-16 01:15:45]: ***  [, Level 0]: 'ANNENİN's dog' changed name to 'Kezo'
 [2021-04-16 01:15:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-16 01:16:03]: Estarossa [, Level 11]: Kezo: hayyyoooo
+[2021-04-16 01:16:17]: Kezo [DogParty, Level 41]: Meliodas: who are you
+[2021-04-16 01:16:20]: Meliodas [.bad, Level 24]: Kezo: white wolf
+[2021-04-16 01:16:20]: Intensiv__ [CrazyNoobs, Level 0]: Meliodas:  türkmüsün
+[2021-04-16 01:16:22]: [D] Boti. [.bad, Level 0]: nincs rajta police am
