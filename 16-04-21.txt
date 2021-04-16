@@ -1546,3 +1546,7 @@
 [2021-04-16 02:35:58]: Kahve [, Level 24]: any: portal
 [2021-04-16 02:36:12]: ***  [, Level 0]: 'TZSA' entered and joined the game
 [2021-04-16 02:36:20]: Ðream [TrRShClNrRs, Level 47]: xD
+[2021-04-16 02:36:23]: ***  [, Level 0]: '[D] Dilkohomnki' has left the game
+[2021-04-16 02:36:23]: ***  [, Level 0]: 'Dilkohomnkiks' has left the game
+[2021-04-16 02:36:23]: Ðream [TrRShClNrRs, Level 47]: wow
+[2021-04-16 02:36:31]: any [404, Level 38]: Kahve: dont do anything
