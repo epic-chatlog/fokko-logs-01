@@ -7729,3 +7729,9 @@
 [2021-04-16 10:09:21]: (1)☺ [, Level 0]: wgho
 [2021-04-16 10:09:24]: El patron [, Level 30]: ~DemoizL~: you help me enemies
 [2021-04-16 10:09:25]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-16 10:09:28]: ***  [, Level 0]: 'Dan' entered and joined the game
+[2021-04-16 10:09:30]: ~DemoizL~ [, Level 39]: El patron: who ?
+[2021-04-16 10:09:30]: Killua [FookinLads, Level 37]: true
+[2021-04-16 10:09:32]: ***  [, Level 0]: 'Dan' has left the game
+[2021-04-16 10:09:33]: (1)☺ [, Level 0]: who
+[2021-04-16 10:09:36]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
