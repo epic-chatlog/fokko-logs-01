@@ -1299,3 +1299,4 @@
 [2021-04-16 02:14:17]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: any: u die
 [2021-04-16 02:14:32]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: any²:
 [2021-04-16 02:14:34]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: any:
+[2021-04-16 02:14:58]: ***  [, Level 0]: 'Adleg' entered and joined the game
