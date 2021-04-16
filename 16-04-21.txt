@@ -8176,3 +8176,4 @@
 [2021-04-16 10:52:02]: ***  [, Level 0]: 'ichdubinich' entered and joined the game
 [2021-04-16 10:52:05]: ***  [, Level 0]: 'ichdubinich' has left the game
 [2021-04-16 10:52:12]: ***  [, Level 0]: 'El patron' entered and joined the game
+[2021-04-16 10:52:26]: ***  [, Level 0]: '[D] El patron' entered and joined the game
