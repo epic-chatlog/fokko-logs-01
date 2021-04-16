@@ -439,3 +439,6 @@
 [2021-04-16 00:54:43]: Marcisten [Helper, Level 0]: Kiøn1029: mivel kapcsolatban
 [2021-04-16 00:54:50]: Kiøn1029 [.bad, Level 32]: Marcisten: amit írsz a dc-re
 [2021-04-16 00:55:03]: Marcisten [Helper, Level 0]: Kiøn1029: hát ha beírom hogy ki és lenyomom a tabot akkor Kiøn1029 legyen ne pl kirito
+[2021-04-16 00:55:11]: [D] #5 blocker [|*MorE*|, Level 0]: Kahve: give
+[2021-04-16 00:55:16]: Kahve [, Level 24]: wtf
+[2021-04-16 00:55:19]: Kiøn1029 [.bad, Level 32]: Marcisten: ja
