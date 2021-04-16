@@ -7531,3 +7531,6 @@
 [2021-04-16 09:42:43]: ***  [, Level 0]: 's!n<u85' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-16 09:42:44]: ***  [, Level 0]: '[D] Vertex' has left the game
 [2021-04-16 09:43:06]: Isegrin [, Level 55]: BLEIT
+[2021-04-16 09:43:24]: mamikral011 [DogParty, Level 0]: [D] TZSA: why
+[2021-04-16 09:43:30]: Isegrin [, Level 55]: HOES MAD
+[2021-04-16 09:43:31]: mamikral011 [DogParty, Level 0]: [D] TZSA: stop or war
