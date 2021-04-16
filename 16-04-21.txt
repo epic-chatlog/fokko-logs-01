@@ -3113,3 +3113,7 @@
 [2021-04-16 04:24:16]: Cylox. [{TQuila}, Level 24]: 1: ben kustum sana
 [2021-04-16 04:24:20]: (1)kais [, Level 58]: Nudelsaft c:: yes, but not 1st try
 [2021-04-16 04:24:26]: Meetiteusz [TrRShClNrRs, Level 28]: Olegzhik: ....
+[2021-04-16 04:24:34]: (1)kais [, Level 58]: Nudelsaft c:: cheater >:(
+[2021-04-16 04:24:36]: ***  [, Level 0]: 'nameless' entered and joined the game
+[2021-04-16 04:24:40]: ***  [, Level 0]: 'Intensiv_' has left the game
+[2021-04-16 04:24:40]: ***  [, Level 0]: 'Intensiv__' has left the game
