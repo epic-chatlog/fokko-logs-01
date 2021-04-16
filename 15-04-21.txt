@@ -14058,3 +14058,7 @@
 [2021-04-15 23:09:53]: Kiøn1029 [.bad, Level 32]: az j
 [2021-04-15 23:09:55]: Kiøn1029 [.bad, Level 32]: jó
 [2021-04-15 23:09:57]: Kahve [, Level 24]: #5 blocker: spec dummy xd
+[2021-04-15 23:10:13]: SanoreX.* [Chilli.*, Level 22]: Kahve: ben alırım dummyni
+[2021-04-15 23:10:17]: SanoreX.* [Chilli.*, Level 22]: #5 blocker: I go help [D] Kahve
+[2021-04-15 23:10:19]: Kahve [, Level 24]: koş
+[2021-04-15 23:10:20]: SanoreX.* [Chilli.*, Level 22]: dont come
