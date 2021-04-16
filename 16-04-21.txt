@@ -3524,3 +3524,5 @@
 [2021-04-16 05:01:22]: ***  [, Level 0]: '[D] Kahve' has left the game (Timeout)
 [2021-04-16 05:02:19]: Intensiv__ [CrazyNoobs, Level 13]: komando:  war
 [2021-04-16 05:02:31]: Flipper [, Level 0]: demoiz
+[2021-04-16 05:02:32]: Flipper [, Level 0]: stop
+[2021-04-16 05:02:36]: komando [, Level 0]: ben
