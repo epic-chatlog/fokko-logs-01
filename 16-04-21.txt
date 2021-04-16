@@ -1838,3 +1838,4 @@
 [2021-04-16 02:56:24]: ***  [, Level 0]: 'Boti.' has left the game
 [2021-04-16 02:56:38]: ***  [, Level 0]: 'LareneGyvaeh' entered and joined the game
 [2021-04-16 02:56:50]: [D] #5 blocker [|*MorE*|, Level 0]: Boti.: majd megírom fokko nak hogy nemtudok angolul és hogy kurvára nem én akartam ddosolni
+[2021-04-16 02:57:03]: BLACK [, Level 26]: el champeon:  how many seconds left
