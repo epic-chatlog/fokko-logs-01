@@ -3398,3 +3398,5 @@
 [2021-04-16 04:46:57]: Taip [VergleriSay, Level 19]: GO BRR
 [2021-04-16 04:47:01]: ***  [, Level 0]: 'Taip' left the minigame 'Block'
 [2021-04-16 04:47:17]: darkstar4 [, Level 11]: soannoying
+[2021-04-16 04:47:33]: ***  [, Level 0]: вłøøđωave's killing spree was ended by Eden (7 blocks)
+[2021-04-16 04:47:40]: ***  [, Level 0]: '#5 blocker' entered and joined the game
