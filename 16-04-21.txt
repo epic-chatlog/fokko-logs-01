@@ -2401,3 +2401,4 @@
 [2021-04-16 03:39:01]: ***  [, Level 0]: 'Fearless' has left the game
 [2021-04-16 03:39:07]: ***  [, Level 0]: 'Taip' has left the game
 [2021-04-16 03:39:51]: ***  [, Level 0]: 'Fearless' entered and joined the game
+[2021-04-16 03:40:04]: [D] patron [, Level 24]: Nudelsaft c:: nie good
