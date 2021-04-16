@@ -13919,3 +13919,5 @@
 [2021-04-15 22:57:50]: SanoreX.* [Chilli.*, Level 22]: [D] Kahve: errora vercektim onu savaştayız ya barışsın
 [2021-04-15 22:57:54]: [D] Kahve [, Level 19]: #5 blocker: where?
 [2021-04-15 22:58:00]: SanoreX [Chilli.*, Level 27]: bunu veririm
+[2021-04-15 22:58:04]: SanoreX [Chilli.*, Level 27]: kırmızı
+[2021-04-15 22:58:05]: #5 blocker [|*MorE*|, Level 0]: [D] Kahve: no police, danger
