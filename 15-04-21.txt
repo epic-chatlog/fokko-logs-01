@@ -13815,3 +13815,5 @@
 [2021-04-15 22:00:25]: SeeYA [yeet, Level 39]: bruh
 [2021-04-15 22:00:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-15 22:01:12]: Boti. [.bad, Level 33]: Kedves PornHub felhasználó! Régóta nem jelentkezett be meglévő accountjával a PornHubra. Frissítettük a meleg oldalt amit szeretettel néz. Reméljük most se lesz másképp! Üdvözlettel PornHub.
+[2021-04-15 22:01:23]: Boti. [.bad, Level 33]: wrong bind
+[2021-04-15 22:01:25]: S Y T H N [, Level 37]: Boti.: nice job!
