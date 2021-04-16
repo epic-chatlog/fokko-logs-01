@@ -3357,3 +3357,8 @@
 [2021-04-16 04:43:44]: any [404, Level 38]: Cylox: help
 [2021-04-16 04:44:10]: ***  [, Level 0]: '(1)HeavyGeneral' entered and joined the game
 [2021-04-16 04:44:11]: Taip [VergleriSay, Level 19]: here
+[2021-04-16 04:44:19]: Taip [VergleriSay, Level 19]: or
+[2021-04-16 04:44:21]: Taip [VergleriSay, Level 19]: do
+[2021-04-16 04:44:22]: Taip [VergleriSay, Level 19]: block
+[2021-04-16 04:44:28]: Eden [qwq, Level 0]: what
+[2021-04-16 04:44:28]: ***  [, Level 0]: '(1)HeavyGeneral' has left the game
