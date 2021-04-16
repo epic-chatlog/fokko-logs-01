@@ -5625,3 +5625,17 @@
 [2021-04-16 07:37:21]: ***  [, Level 0]: Drop money: '/money drop <amount>'
 [2021-04-16 07:37:21]: ***  [, Level 0]: Invalid whisper
 [2021-04-16 07:37:21]: ~DemoizL~ [, Level 39]: vollesprit: je viens de te donner 1000
+[2021-04-16 07:37:27]: Nightmare [, Level 0]: |MıssOяchiĐ|: ye ye nice joke just save me
+[2021-04-16 07:37:28]: ←   [, Level 0]: Swarfey: 1moneydrop
+[2021-04-16 07:37:28]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-16 07:37:28]: ***  [, Level 0]: Bank: 0
+[2021-04-16 07:37:28]: ***  [, Level 0]: Wallet: 53981
+[2021-04-16 07:37:28]: ***  [, Level 0]: Euros: 0
+[2021-04-16 07:37:28]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-16 07:37:28]: ***  [, Level 0]: [WALLET] +3 collected
+[2021-04-16 07:37:28]: ***  [, Level 0]: [WALLET] +5 collected
+[2021-04-16 07:37:28]: ***  [, Level 0]: [WALLET] +3 collected
+[2021-04-16 07:37:28]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-16 07:37:28]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-16 07:37:28]: ***  [, Level 0]: Invalid whisper
+[2021-04-16 07:37:36]: |MıssOяchiĐ| [, Level 0]: GODLIKe.: i fail i want grab mamikral011 XDDDDDDDd
