@@ -5865,3 +5865,8 @@
 [2021-04-16 07:48:16]: ***  [, Level 0]: 'Vertex' joined the game
 [2021-04-16 07:48:17]: ***  [, Level 0]: 'Beetle' entered and joined the game
 [2021-04-16 07:48:17]: El Shampoo [{TQuila}, Level 40]: toxic El patron komm ma dc
+[2021-04-16 07:48:23]: ***  [, Level 0]: (1)kais is on a killing spree with 5 blocks
+[2021-04-16 07:48:26]: ***  [, Level 0]: 'Yema' has left the game
+[2021-04-16 07:48:28]: (1)RM | Arin [Retard MNKY, Level 0]: bob: !
+[2021-04-16 07:48:29]: ERROR. [404, Level 57]: xD
+[2021-04-16 07:48:30]: El patron [, Level 30]: El Shampoo: wer bist du
