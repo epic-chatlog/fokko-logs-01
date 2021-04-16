@@ -13276,3 +13276,7 @@
 [2021-04-15 17:21:49]: ***  [, Level 0]: 'pomarancz' joined the spectators
 [2021-04-15 17:21:52]: bob [Legacy™, Level 36]: u like unicorn?
 [2021-04-15 17:21:53]: ***  [, Level 0]: 'pomarancz' joined the game
+[2021-04-15 17:22:01]: ***  [, Level 0]: 'pomarancz' joined the spectators
+[2021-04-15 17:22:04]: ***  [, Level 0]: 'pomarancz' joined the game
+[2021-04-15 17:22:05]: ☺ [, Level 21]: no why
+[2021-04-15 17:22:08]: ***  [, Level 0]: 'pomarancz' has left the game
