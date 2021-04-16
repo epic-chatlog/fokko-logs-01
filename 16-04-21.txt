@@ -7865,3 +7865,6 @@
 [2021-04-16 10:21:42]: Falco642 [, Level 0]: mizie: go right
 [2021-04-16 10:21:45]: BLACK [, Level 26]: Zephir™:
 [2021-04-16 10:22:19]: (1)cookie [, Level 0]: i
+[2021-04-16 10:22:40]: ***  [
+, Level 0]: 'SpawBlockerâ' entered and joined the game
+[2021-04-16 10:22:47]: Kenshi™ [, Level 0]: ERROR: yop :D
