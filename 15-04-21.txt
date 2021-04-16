@@ -13846,3 +13846,5 @@
 [2021-04-15 22:42:32]: ***  [, Level 0]: 'flappy.*' entered and joined the game
 [2021-04-15 22:42:38]: #5 blocker [|*MorE*|, Level 0]: and hammerfly up?
 [2021-04-15 22:42:40]: [D] Kahve [, Level 19]: hammer fly
+[2021-04-15 22:42:42]: [D] Kahve [, Level 19]: yes
+[2021-04-15 22:42:50]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
