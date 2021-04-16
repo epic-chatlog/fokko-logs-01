@@ -4497,3 +4497,5 @@
 [2021-04-16 06:24:04]: (1)RM | Arin [Retard MNKY, Level 0]: er will deep freeze
 [2021-04-16 06:24:19]: [D] TZSA [, Level 0]: El patron: ye you already do
 [2021-04-16 06:24:23]: [D] TZSA [, Level 0]: El patron: like tixnix
+[2021-04-16 06:24:35]: RM | Arin [Retard MNKY, Level 16]: ERROR:  du bist doch 30 oder?
+[2021-04-16 06:24:37]: ***  [, Level 0]: 'ReccoTRTR' entered and joined the game
