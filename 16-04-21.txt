@@ -12894,3 +12894,5 @@
 [2021-04-16 15:45:04]: Zephir™ [404, Level 40]: i have 200 amo so gl
 [2021-04-16 15:45:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-16 15:48:28]: ***  [, Level 0]: Zephir™'s killing spree was ended by bob (7 blocks)
+[2021-04-16 15:48:58]: bob [Legacy™, Level 36]: hello
+[2021-04-16 15:49:04]: ~DemoizL~ [, Level 39]: hey
