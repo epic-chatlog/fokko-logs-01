@@ -14413,3 +14413,8 @@
 [2021-04-15 23:36:42]: Kahve [, Level 24]: ./plot edit
 [2021-04-15 23:36:49]: Kahve [, Level 24]: press space
 [2021-04-15 23:36:56]: Kahve [, Level 24]: dont
+[2021-04-15 23:37:15]: Kahve [, Level 24]: space and hot
+[2021-04-15 23:37:18]: Kahve [, Level 24]: space and shot
+[2021-04-15 23:37:21]: ***  [, Level 0]: '(1)Cosmo' has left the game (Timeout)
+[2021-04-15 23:37:21]: ***  [, Level 0]: 'Cosmo' has left the game (Timeout)
+[2021-04-15 23:37:24]: Kahve [, Level 24]: but press space time time time
