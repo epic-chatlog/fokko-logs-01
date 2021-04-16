@@ -1678,3 +1678,5 @@
 [2021-04-16 02:45:47]: BLACK [, Level 26]: Hady: why u in jail
 [2021-04-16 02:45:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 02:45:51]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
+[2021-04-16 02:45:53]: ***  [, Level 0]: ### 'HeavyGeneral' Woof-Woof
+[2021-04-16 02:45:55]: ***  [, Level 0]: 'Axandos²' entered and joined the game
