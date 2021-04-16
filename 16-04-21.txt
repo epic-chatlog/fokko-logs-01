@@ -12819,3 +12819,5 @@
 [2021-04-16 15:19:58]: Isegrin [, Level 55]: RQ XD
 [2021-04-16 15:20:48]: (1)☺ [, Level 14]: srx
 [2021-04-16 15:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-16 15:21:32]: (1)☺ [, Level 14]: XD
+[2021-04-16 15:21:35]: (1)☺ [, Level 14]: mdr
