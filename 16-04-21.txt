@@ -6597,3 +6597,7 @@
 [2021-04-16 08:34:37]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: leave me alone 200 pingo
 [2021-04-16 08:34:43]: ***  [, Level 0]: 'N' entered and joined the game
 [2021-04-16 08:34:50]: şlk10 [, Level 27]: bob:
+[2021-04-16 08:34:55]: ***  [, Level 0]: 'Coca' finished the special race!
+[2021-04-16 08:35:03]: Kirito [{TQuila}, Level 40]: TL|ŦƹƦ$ŦǾN:
+[2021-04-16 08:35:05]: ***  [, Level 0]: 'remocide' has left the game
+[2021-04-16 08:35:05]: ***  [, Level 0]: No~Filter is on a killing spree with 5 blocks
