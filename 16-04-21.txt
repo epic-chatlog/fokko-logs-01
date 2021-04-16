@@ -1915,3 +1915,5 @@
 [2021-04-16 03:02:52]: El patron [, Level 30]: mamikral011: ow
 [2021-04-16 03:02:57]: ~DemoizL~ [, Level 39]: vollesprit: tu pourras pas
 [2021-04-16 03:02:58]: any [404, Level 38]: YelloWorlD: pk ?
+[2021-04-16 03:03:01]: YelloWorlD [DogParty, Level 0]: any: tu ve pas ?
+[2021-04-16 03:03:08]: any [404, Level 38]: YelloWorlD: chu full
