@@ -3517,3 +3517,8 @@
 [2021-04-16 05:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-16 05:00:51]: ***  [, Level 0]: 'komando' entered and joined the game
 [2021-04-16 05:01:09]: [D] mamikral011 [DogParty, Level 0]: Flipper: noo
+[2021-04-16 05:01:15]: Flipper [, Level 0]: ~DemoizL~ dont kill him pls
+[2021-04-16 05:01:22]: ***  [, Level 0]: '(1)Kahve' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 05:01:22]: ***  [, Level 0]: '(1)[D] Kahve' has left the game (Timeout)
+[2021-04-16 05:01:22]: ***  [, Level 0]: 'Kahve' has left the game (Timeout)
+[2021-04-16 05:01:22]: ***  [, Level 0]: '[D] Kahve' has left the game (Timeout)
