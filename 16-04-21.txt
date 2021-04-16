@@ -217,3 +217,5 @@
 [2021-04-16 00:32:46]: ***  [, Level 0]: 'Adleg' entered and joined the game
 [2021-04-16 00:32:48]: Intensiv__ [CrazyNoobs, Level 0]: [D]ϻɪɔʜɑʟ:  help
 [2021-04-16 00:32:56]: ***  [, Level 0]: 'comic' entered and joined the game
+[2021-04-16 00:33:10]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 00:33:11]: ***  [, Level 0]: '(1)test' has left the game (Too weak connection (not acked for 60 seconds))
