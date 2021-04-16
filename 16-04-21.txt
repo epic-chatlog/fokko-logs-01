@@ -5085,3 +5085,7 @@
 [2021-04-16 07:10:05]: Kirito [{TQuila}, Level 40]: Michel: english?
 [2021-04-16 07:10:09]: ***  [, Level 0]: 'HeavyGeneral' entered and joined the game
 [2021-04-16 07:10:11]: Kirito [{TQuila}, Level 40]: Foxie♥: u can play
+[2021-04-16 07:10:15]: ERROR [404, Level 75]: ok hack
+[2021-04-16 07:10:18]: Michel [, Level 4]: rushen
+[2021-04-16 07:10:18]: Foxie♥ [{TQuila}, Level 36]: Kirito: rly?
+[2021-04-16 07:10:24]: weqe [669, Level 13]: ERROR: dont beg me later ok ?
