@@ -1323,3 +1323,7 @@
 [2021-04-16 02:17:10]: lessname [, Level 0]: xDD
 [2021-04-16 02:17:12]: falkenauge [Ʀ.I.Ƈ.|BC, Level 34]: u have inf?
 [2021-04-16 02:17:15]: any [404, Level 38]: falkenauge: nah
+[2021-04-16 02:17:21]: ***  [, Level 0]: 'Meliodas' has left the game
+[2021-04-16 02:17:21]: ***  [, Level 0]: 'Estarossa' has left the game
+[2021-04-16 02:17:25]: ***  [, Level 0]: 'ulrich' entered and joined the game
+[2021-04-16 02:17:28]: ***  [, Level 0]: 'ulrich' has left the game
