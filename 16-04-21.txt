@@ -2404,3 +2404,7 @@
 [2021-04-16 03:40:04]: [D] patron [, Level 24]: Nudelsaft c:: nie good
 [2021-04-16 03:40:11]: ***  [, Level 0]: 660. sun.slow(y) Time: 02:14.72, requested by sun.slow(y)
 [2021-04-16 03:40:14]: ***  [, Level 0]: 'Foxie♥' entered and joined the game
+[2021-04-16 03:40:23]: Foxie♥ [{TQuila}, Level 0]: Kirito:
+[2021-04-16 03:40:26]: Intensiv_ [CrazyNoobs, Level 0]: patron:  hep
+[2021-04-16 03:40:27]: Matiteusz [TrRShClNrRs, Level 37]: Foxie♥: hajo
+[2021-04-16 03:40:28]: Intensiv_ [CrazyNoobs, Level 0]: patron:  help
