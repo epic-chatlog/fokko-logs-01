@@ -1415,3 +1415,6 @@
 [2021-04-16 02:25:34]: any [404, Level 38]: make peace falkenauge #5 blocker
 [2021-04-16 02:25:36]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
 [2021-04-16 02:25:37]: BC|Tixnix [BC, Level 0]: falkenauge: warte kurz
+[2021-04-16 02:25:42]: #5 blocker [|*MorE*|, Level 24]: okay, falkenauge started with block me on jetpack spawn
+[2021-04-16 02:25:47]: lessname [, Level 0]: :O
+[2021-04-16 02:25:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
