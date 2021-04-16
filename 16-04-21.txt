@@ -7810,3 +7810,4 @@
 [2021-04-16 10:16:22]: (3)cookie [, Level 0]: noo
 [2021-04-16 10:16:24]: ***  [, Level 0]: 'mizie' joined the game
 [2021-04-16 10:16:25]: ***  [, Level 0]: 'ReccoTR' entered and joined the game
+[2021-04-16 10:16:35]: [D] El patron [, Level 24]: Zephir™: pro
