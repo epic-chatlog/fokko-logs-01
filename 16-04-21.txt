@@ -6832,3 +6832,8 @@
 [2021-04-16 08:51:21]: ***  [, Level 0]: 'el champeon8741' entered and joined the game
 [2021-04-16 08:51:22]: ***  [, Level 0]: 'Dan' joined the game
 [2021-04-16 08:51:26]: ***  [, Level 0]: 'Soros5412101587' entered and joined the game
+[2021-04-16 08:51:28]: ***  [, Level 0]: 'el champeon8741' has left the game
+[2021-04-16 08:51:28]: ***  [, Level 0]: 'Soros5412101587' has left the game
+[2021-04-16 08:51:28]: (1)☺ [, Level 13]: lag
+[2021-04-16 08:51:38]: El patron [, Level 30]: xd
+[2021-04-16 08:51:40]: [D] mamikral011 [DogParty, Level 0]: No~Filter: ?
