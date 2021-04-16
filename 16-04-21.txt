@@ -7617,3 +7617,5 @@
 [2021-04-16 09:53:49]: [D] El patron [, Level 24]: he gay
 [2021-04-16 09:53:53]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
 [2021-04-16 09:54:00]: Zephir™ [, Level 40]: any:
+[2021-04-16 09:54:05]: ***  [, Level 0]: 'Kenshi™' entered and joined the game
+[2021-04-16 09:54:09]: [D] El patron [, Level 24]: Zephir™: omg
