@@ -464,3 +464,5 @@
 [2021-04-16 00:57:26]: ***  [, Level 0]: 'Cylox.' entered and joined the game
 [2021-04-16 00:57:34]: Marcisten [Helper, Level 0]: Kiøn1029: nem akkor nem fogja autocompletelni
 [2021-04-16 00:57:39]: Marcisten [Helper, Level 0]: ki Kiøn1029
+[2021-04-16 00:57:44]: Kahve [, Level 24]: omg 999 ping
+[2021-04-16 00:57:45]: Kiøn1029 [.bad, Level 32]: ja
