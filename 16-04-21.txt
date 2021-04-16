@@ -1349,3 +1349,6 @@
 [2021-04-16 02:20:15]: lessname [, Level 0]: cunt: what level
 [2021-04-16 02:20:16]: ***  [, Level 0]: El patron finished in: 17 minute(s) 45.50 second(s)
 [2021-04-16 02:20:18]: any [404, Level 38]: Kahve: dont try
+[2021-04-16 02:20:23]: Kahve [, Level 24]: ?
+[2021-04-16 02:20:26]: lessname [, Level 0]: cunt: math ye
+[2021-04-16 02:20:28]: Kahve [, Level 24]: what try
