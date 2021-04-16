@@ -7921,3 +7921,6 @@
 [2021-04-16 10:29:39]: ***  [, Level 0]: 'ichdubinich' joined the spectators
 [2021-04-16 10:29:41]: ***  [, Level 0]: 'ichdubinich' has left the game
 [2021-04-16 10:29:41]: ***  [, Level 0]: 'Wayllan Kath' has left the game
+[2021-04-16 10:29:51]: ***  [, Level 0]: 'El patron' entered and joined the game
+[2021-04-16 10:29:58]: ***  [, Level 0]: '[D] El patron' entered and joined the game
+[2021-04-16 10:29:58]: ***  [, Level 0]: '[D] El patron' has left the game
