@@ -14583,3 +14583,5 @@
 [2021-04-15 23:49:46]: ***  [, Level 0]: '(1)test' has left the game
 [2021-04-15 23:49:54]: Intensiv_ [CrazyNoobs, Level 6]: helpp
 [2021-04-15 23:49:56]: [D] #5 blocker [|*MorE*|, Level 0]: Kahve: go jetpack i timeouting
+[2021-04-15 23:50:10]: SanoreX [Chilli.*, Level 27]: Kahve: bekle
+[2021-04-15 23:50:12]: [D] Kahve [, Level 19]: i need afk
