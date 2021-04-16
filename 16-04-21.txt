@@ -12888,3 +12888,5 @@
 [2021-04-16 15:40:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 15:42:12]: ***  [, Level 0]: Zephir™ is on a killing spree with 5 blocks
 [2021-04-16 15:42:24]: Zephir™ [404, Level 40]: bob: stop use taser gay
+[2021-04-16 15:43:30]: Zephir™ [404, Level 40]: bob: taser player
+[2021-04-16 15:43:36]: bob [Legacy™, Level 36]: xd
