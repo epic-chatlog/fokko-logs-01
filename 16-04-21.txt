@@ -782,3 +782,4 @@
 [2021-04-16 01:24:00]: ***  [, Level 0]: 'Chilli.*' entered and joined the game
 [2021-04-16 01:24:04]: Estarossa [, Level 11]: xwD
 [2021-04-16 01:24:26]: ***  [, Level 0]: 'Grasshopper' has left the game
+[2021-04-16 01:24:50]: ***  [, Level 0]: (1)Soros is on a killing spree with 5 blocks
