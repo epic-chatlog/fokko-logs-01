@@ -2033,3 +2033,10 @@
 [2021-04-16 03:09:30]: Hady [new bot, Level 0]: #5 blocker:  ok later
 [2021-04-16 03:09:30]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-16 03:09:31]: mamikral011 [DogParty, Level 0]: ~DemoizL~: help or war
+[2021-04-16 03:09:36]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-16 03:09:37]: mamikral011 [DogParty, Level 0]: ~DemoizL~: ok
+[2021-04-16 03:09:40]: #5 blocker [|*MorE*|, Level 24]: hmm
+[2021-04-16 03:09:40]: [D] El patron [, Level 24]: how
+[2021-04-16 03:09:40]: mamikral011 [DogParty, Level 0]: [D] El patron:
+[2021-04-16 03:09:41]: ***  [, Level 0]: '(1)test' entered and joined the game
+[2021-04-16 03:09:43]: ***  [, Level 0]: '(2)test' entered and joined the game
