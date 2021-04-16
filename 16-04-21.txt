@@ -6849,3 +6849,10 @@
 [2021-04-16 08:51:56]: ***  [, Level 0]: 'SanoreX' would have timed out, but can use timeout protection now
 [2021-04-16 08:52:01]: No~Filter [, Level 0]: hi
 [2021-04-16 08:52:02]: any [404, Level 0]: darkstar: thx for ur money
+[2021-04-16 08:52:08]: (1)☺ [, Level 13]: how many jumps
+[2021-04-16 08:52:09]: ***  [, Level 0]: 'darkstar3' has left the game (Timeout)
+[2021-04-16 08:52:09]: ***  [, Level 0]: 'darkstar4' has left the game (Timeout)
+[2021-04-16 08:52:09]: ***  [, Level 0]: 'darkstar' has left the game (Timeout)
+[2021-04-16 08:52:09]: ***  [, Level 0]: 'darkstar2' has left the game (Timeout)
+[2021-04-16 08:52:13]: ***  [, Level 0]: 'any²' entered and joined the game
+[2021-04-16 08:52:13]: ***  [, Level 0]: 'MOM' entered and joined the game
