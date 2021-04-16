@@ -13864,3 +13864,4 @@
 [2021-04-15 22:45:28]: SanoreX.* [Chilli.*, Level 0]: sa Kahve
 [2021-04-15 22:45:30]: [D] Kahve [, Level 19]: as
 [2021-04-15 22:45:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-15 22:46:13]: ***  [, Level 0]: 'Tom' entered and joined the game
