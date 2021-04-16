@@ -13817,3 +13817,5 @@
 [2021-04-15 22:01:12]: Boti. [.bad, Level 33]: Kedves PornHub felhasználó! Régóta nem jelentkezett be meglévő accountjával a PornHubra. Frissítettük a meleg oldalt amit szeretettel néz. Reméljük most se lesz másképp! Üdvözlettel PornHub.
 [2021-04-15 22:01:23]: Boti. [.bad, Level 33]: wrong bind
 [2021-04-15 22:01:25]: S Y T H N [, Level 37]: Boti.: nice job!
+[2021-04-15 22:01:44]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-15 22:01:44]: ***  [, Level 0]: 'SeeYA' has left the game
