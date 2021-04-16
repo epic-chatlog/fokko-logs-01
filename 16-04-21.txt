@@ -4722,3 +4722,6 @@
 [2021-04-16 06:43:51]: ***  [, Level 0]: 'kais' entered and joined the game
 [2021-04-16 06:43:54]: Kirito [{TQuila}, Level 40]: #5 blocker: thats not my client xD
 [2021-04-16 06:43:54]: ERROR [404, Level 75]: get ure dummy
+[2021-04-16 06:44:11]: lolpoep [Ape, Level 20]: wow
+[2021-04-16 06:44:13]: Kirito [{TQuila}, Level 40]: #5 blocker: i dont even use it
+[2021-04-16 06:44:16]: Luna [, Level 0]: gg
