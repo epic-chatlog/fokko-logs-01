@@ -7599,3 +7599,4 @@
 [2021-04-16 09:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-16 09:51:21]: (2)cookie [, Level 0]: nooo
 [2021-04-16 09:51:36]: ***  [, Level 0]: '[D] TZSA' finished the special race!
+[2021-04-16 09:51:40]: ***  [, Level 0]: 'TZSA' finished the special race!
