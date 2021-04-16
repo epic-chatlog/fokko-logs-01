@@ -4395,3 +4395,7 @@
 [2021-04-16 06:13:43]: (1)/testseteste [FookinLads, Level 60]: das ist fies
 [2021-04-16 06:13:53]: ***  [, Level 0]: 'Beetle' entered and joined the game
 [2021-04-16 06:13:53]: ChillerDragon.* [|*KoG*|, Level 42]: was (1)/testseteste ? xd
+[2021-04-16 06:13:59]: (1)/testseteste [FookinLads, Level 60]: das (1) vor /
+[2021-04-16 06:14:01]: ChillerDragon.* [|*KoG*|, Level 42]: ah
+[2021-04-16 06:14:04]: ChillerDragon.* [|*KoG*|, Level 42]: gegen hax
+[2021-04-16 06:14:05]: RM | Arin [Retard MNKY, Level 16]: JUNGE
