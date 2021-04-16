@@ -6810,3 +6810,10 @@
 [2021-04-16 08:50:26]: SanoreX [Chilli.*, Level 27]: JustRace: I think 192 start ips is turkish ip
 [2021-04-16 08:50:28]: No~Filter [, Level 0]: XD
 [2021-04-16 08:50:30]: SanoreX [Chilli.*, Level 27]: k bye
+[2021-04-16 08:50:42]: ***  [, Level 0]: 'Dan' joined the spectators
+[2021-04-16 08:50:45]: ***  [, Level 0]: 'darkstar3' entered and joined the game
+[2021-04-16 08:50:46]: Coca [Drunks, Level 22]: :(
+[2021-04-16 08:50:46]: ***  [, Level 0]: 'Dan' joined the game
+[2021-04-16 08:50:46]: El patron [, Level 30]: Coca: spiki
+[2021-04-16 08:50:49]: Kiøn1029 [.bad, Level 32]: megpróbáljak csatlakozni bombayre?
+[2021-04-16 08:50:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
