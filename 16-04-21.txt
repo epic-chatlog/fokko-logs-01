@@ -3516,3 +3516,4 @@
 [2021-04-16 05:00:49]: #5 blocker [|*MorE*|, Level 0]: Nudelsaft c:: free?
 [2021-04-16 05:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-16 05:00:51]: ***  [, Level 0]: 'komando' entered and joined the game
+[2021-04-16 05:01:09]: [D] mamikral011 [DogParty, Level 0]: Flipper: noo
