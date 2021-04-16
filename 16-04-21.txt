@@ -8307,3 +8307,8 @@
 [2021-04-16 11:00:46]: (2)cookie [, Level 0]: f"{self.name}":  why you kill weqe
 [2021-04-16 11:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-16 11:01:17]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-16 11:01:21]: ***  [, Level 0]: 'Noémi' entered and joined the game
+[2021-04-16 11:01:25]: ***  [, Level 0]: 'Bubba :3[Đ]' entered and joined the game
+[2021-04-16 11:01:26]: ***  [, Level 0]: 'Vertex' entered and joined the game
+[2021-04-16 11:01:31]: (1)☺ [, Level 0]: basoka: go away gay
+[2021-04-16 11:01:31]: ***  [, Level 0]: 'f"{self.nam44548' entered and joined the game
