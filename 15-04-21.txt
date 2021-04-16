@@ -13425,3 +13425,4 @@
 [2021-04-15 18:18:42]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-15 18:19:31]: BLACK [, Level 26]: bob: yo
 [2021-04-15 18:19:36]: BLACK [, Level 26]: good morning
+[2021-04-15 18:20:07]: BLACK [, Level 26]: u want flag?
