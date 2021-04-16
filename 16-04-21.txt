@@ -6040,3 +6040,4 @@
 [2021-04-16 07:58:34]: ☺ [, Level 22]: ohh
 [2021-04-16 07:58:35]: Flea [, Level 0]: bob: i enriqe LadyBug my friend zeynep
 [2021-04-16 07:58:40]: kais [, Level 66]: Ding Dong: register then login
+[2021-04-16 07:58:59]: kais [, Level 66]: Ding Dong: /register <account name> <password> <password>
