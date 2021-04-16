@@ -3772,3 +3772,5 @@
 [2021-04-16 05:25:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 05:25:55]: ***  [, Level 0]: '(1)' entered and joined the game
 [2021-04-16 05:25:56]: (1)ChillerDrago [Chilli.*, Level 45]: (1)RM | Arin: blox ma nich Flipper
+[2021-04-16 05:26:02]: (1)RM | Arin [Retard MNKY, Level 0]: Flipper:  STOP!
+[2021-04-16 05:26:05]: (1)RM | Arin [Retard MNKY, Level 0]: er blockt doch
