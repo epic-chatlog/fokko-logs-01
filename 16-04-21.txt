@@ -7830,3 +7830,6 @@
 [2021-04-16 10:18:20]: (3)cookie [, Level 0]: Wayllan Kath:  help
 [2021-04-16 10:18:25]: S Y T H N [, Level 37]: Killua: bad
 [2021-04-16 10:18:26]: Flupper [, Level 40]: hi yelloworld :d
+[2021-04-16 10:18:32]: Killua [FookinLads, Level 37]: S Y T H N: 600 pingo you pigo
+[2021-04-16 10:18:38]: ***  [, Level 0]: ☺ finished in: 6 minute(s) 54.38 second(s)
+[2021-04-16 10:18:38]: ***  [, Level 0]: '☺' finished the special race!
