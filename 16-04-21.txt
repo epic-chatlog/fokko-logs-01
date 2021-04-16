@@ -1683,3 +1683,5 @@
 [2021-04-16 02:46:05]: Hady [new bot, Level 0]: BLACK: my friend block me
 [2021-04-16 02:46:11]: BLACK [, Level 26]: Hady: xD
 [2021-04-16 02:46:16]: [D] #5 blocker [|*MorE*|, Level 0]: Hady: hi
+[2021-04-16 02:46:20]: ***  [, Level 0]: 'any' changed name to 'Heavy's man owo'
+[2021-04-16 02:46:22]: Hady [new bot, Level 33]: #5 blocker:  hi
