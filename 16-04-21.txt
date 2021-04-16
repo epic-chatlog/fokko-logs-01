@@ -7826,3 +7826,7 @@
 [2021-04-16 10:17:56]: (3)cookie [, Level 0]: sL|Gabsty:  oke
 [2021-04-16 10:18:12]: (3)cookie [, Level 0]: wait
 [2021-04-16 10:18:12]: sL|Gabsty [SkinLover, Level 0]: xD
+[2021-04-16 10:18:17]: ***  [, Level 0]: 'GOLD' entered and joined the game
+[2021-04-16 10:18:20]: (3)cookie [, Level 0]: Wayllan Kath:  help
+[2021-04-16 10:18:25]: S Y T H N [, Level 37]: Killua: bad
+[2021-04-16 10:18:26]: Flupper [, Level 40]: hi yelloworld :d
