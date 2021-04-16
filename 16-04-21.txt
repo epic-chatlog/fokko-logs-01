@@ -12982,3 +12982,7 @@
 [2021-04-16 16:08:33]: ~DemoizL~ [, Level 39]: Zephir™: je t'ai pas kill j'y arrive pas
 [2021-04-16 16:08:48]: Zephir™ [404, Level 40]: bob: again lose
 [2021-04-16 16:08:58]: Zephir™ [404, Level 40]: ~DemoizL~: tu ma tp dans le portal de bob et donc kill
+[2021-04-16 16:09:16]: ~DemoizL~ [, Level 39]: Zephir™: ah ouiii j'avais oublié ça
+[2021-04-16 16:09:17]: bob [Legacy™, Level 36]: now
+[2021-04-16 16:09:18]: bob [Legacy™, Level 36]: u dead
+[2021-04-16 16:09:25]: Zephir™ [404, Level 40]: bob: yeah gl
