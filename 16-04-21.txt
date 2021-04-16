@@ -12950,3 +12950,4 @@
 [2021-04-16 16:00:48]: ***  [, Level 0]: '(1)Kirito' has left the game
 [2021-04-16 16:00:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-16 16:01:34]: ~DemoizL~ [, Level 39]: Zephir™: 100% t'es Fayzor
+[2021-04-16 16:01:55]: Zephir™ [404, Level 40]: je l'ai même pas vue lui
