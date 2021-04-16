@@ -6861,3 +6861,4 @@
 [2021-04-16 08:52:22]: JustRace [DogParty, Level 0]: cl_aimbot 1
 [2021-04-16 08:52:26]: JustRace [DogParty, Level 0]: cl_aimbot 0
 [2021-04-16 08:52:27]: JustRace [DogParty, Level 0]: cl_aimbot 1
+[2021-04-16 08:52:35]: ***  [, Level 0]: 'darkstar' entered and joined the game
