@@ -12564,3 +12564,7 @@
 [2021-04-16 14:33:10]: ***  [, Level 0]: 'ölüm bekçisi' entered and joined the game
 [2021-04-16 14:33:52]: YelloWorlD [DogParty, Level 57]: 0addteam GOLD
 [2021-04-16 14:33:54]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-16 14:33:58]: Killua [FookinLads, Level 37]: ... YelloWorlD
+[2021-04-16 14:34:03]: Killua [FookinLads, Level 37]: YelloWorlD: -addingame GOLD
+[2021-04-16 14:34:04]: YelloWorlD [DogParty, Level 57]: Killua: nop
+[2021-04-16 14:34:05]: Killua [FookinLads, Level 37]: in discord
