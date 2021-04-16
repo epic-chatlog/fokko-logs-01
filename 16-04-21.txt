@@ -1296,3 +1296,4 @@
 [2021-04-16 02:13:57]: ***  [, Level 0]: New record: 18 minute(s) 46.76 second(s) better.
 [2021-04-16 02:14:00]: ***  [, Level 0]: lessname's killing spree was ended by [D] #5 blocker (8 blocks)
 [2021-04-16 02:14:04]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: any:
+[2021-04-16 02:14:17]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: any: u die
