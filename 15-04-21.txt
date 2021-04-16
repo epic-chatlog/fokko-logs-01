@@ -13426,3 +13426,5 @@
 [2021-04-15 18:19:31]: BLACK [, Level 26]: bob: yo
 [2021-04-15 18:19:36]: BLACK [, Level 26]: good morning
 [2021-04-15 18:20:07]: BLACK [, Level 26]: u want flag?
+[2021-04-15 18:20:15]: bob [Legacy™, Level 36]: xd
+[2021-04-15 18:20:21]: BLACK [, Level 26]: D:
