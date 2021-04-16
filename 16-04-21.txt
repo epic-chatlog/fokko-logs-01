@@ -8303,3 +8303,6 @@
 [2021-04-16 11:00:34]: ☺ [, Level 22]: Intensiv: sure
 [2021-04-16 11:00:39]: Ļåҕ Lobster [Ļåҕ, Level 0]: weqe: police, wb with your friends
 [2021-04-16 11:00:40]: ✯|Not Bulash [|Supressed|, Level 0]: basoka: XDDD inf jumps
+[2021-04-16 11:00:45]: Zephir™ [, Level 40]: [D] El patron:
+[2021-04-16 11:00:46]: (2)cookie [, Level 0]: f"{self.name}":  why you kill weqe
+[2021-04-16 11:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
