@@ -3657,3 +3657,6 @@
 [2021-04-16 05:18:32]: [D] mamikral011 [DogParty, Level 0]: Intensiv_: OK
 [2021-04-16 05:18:35]: Intensiv_ [CrazyNoobs, Level 0]: kurtarmış adamı
 [2021-04-16 05:18:42]: [D] mamikral011 [DogParty, Level 0]: aaahah
+[2021-04-16 05:18:47]: ***  [, Level 0]: 'KuranT' entered and joined the game
+[2021-04-16 05:18:52]: [D] mamikral011 [DogParty, Level 0]: Intensiv_: SİKTİR ET
+[2021-04-16 05:18:55]: Intensiv_ [CrazyNoobs, Level 0]: savaşmayalım ayn
