@@ -4824,3 +4824,5 @@
 [2021-04-16 06:49:02]: ERROR [404, Level 75]: TZSA: stucked
 [2021-04-16 06:49:02]: Kirito [{TQuila}, Level 40]: kais: because you maybe nice
 [2021-04-16 06:49:02]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-16 06:49:07]: Shiro. [404, Level 51]: IM STUCK
+[2021-04-16 06:49:13]: kais [, Level 66]: Kirito: i am, but not with you
