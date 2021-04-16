@@ -7820,3 +7820,7 @@
 [2021-04-16 10:17:34]: Killua [FookinLads, Level 37]: OMG
 [2021-04-16 10:17:37]: (3)cookie [, Level 0]: sL|Gabsty:  i need to go inf jump to help my dummy
 [2021-04-16 10:17:49]: sL|Gabsty [SkinLover, Level 0]: (3)cookie: oh wait
+[2021-04-16 10:17:50]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
+[2021-04-16 10:17:53]: Killua [FookinLads, Level 37]: OMG
+[2021-04-16 10:17:56]: Killua [FookinLads, Level 37]: THIS PING
+[2021-04-16 10:17:56]: (3)cookie [, Level 0]: sL|Gabsty:  oke
