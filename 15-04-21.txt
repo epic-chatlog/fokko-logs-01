@@ -14574,3 +14574,4 @@
 [2021-04-15 23:48:30]: SanoreX.* [Chilli.*, Level 22]: a m k flappy
 [2021-04-15 23:48:33]: Kahve [, Level 24]: #5 blocker: say ./plot spawn
 [2021-04-15 23:48:36]: Kahve [, Level 24]: and kill
+[2021-04-15 23:48:39]: ***  [, Level 0]: 'Swarfey' entered and joined the game
