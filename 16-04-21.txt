@@ -4218,3 +4218,5 @@
 [2021-04-16 06:00:39]: Swarfey [FookinLads, Level 42]: ez
 [2021-04-16 06:00:41]: ERROR. [404, Level 57]: ChillerDragon.*:  wenn er sorry sagt vergess ich es
 [2021-04-16 06:00:42]: ***  [, Level 0]: 'LadyBug' has left the game
+[2021-04-16 06:00:49]: ChillerDragon.* [Chilli.*, Level 42]: ich hab nichmal gekämpft xd
+[2021-04-16 06:00:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
