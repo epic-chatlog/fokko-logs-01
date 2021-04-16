@@ -2194,3 +2194,6 @@
 [2021-04-16 03:20:33]: ***  [, Level 0]: 889. [D] mamikral011 Time: 05:26.30, requested by [D] mamikral011
 [2021-04-16 03:20:35]: ***  [, Level 0]: Axandos² finished in: 2 minute(s) 37.62 second(s)
 [2021-04-16 03:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-16 03:20:56]: ***  [, Level 0]: 'Axandos²' has left the game
+[2021-04-16 03:20:56]: ***  [, Level 0]: 'Axandos' has left the game
+[2021-04-16 03:20:58]: mamikral011 [DogParty, Level 0]: patron: no war you help him
