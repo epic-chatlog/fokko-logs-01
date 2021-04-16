@@ -14438,3 +14438,7 @@
 [2021-04-15 23:39:28]: Nudelsaft c: [FookinLads, Level 0]: ;kill
 [2021-04-15 23:39:32]: SanoreX [Chilli.*, Level 27]: ;kill
 [2021-04-15 23:39:35]: SanoreX [Chilli.*, Level 27]: kill;
+[2021-04-15 23:39:41]: Nudelsaft c: [FookinLads, Level 0]: a
+[2021-04-15 23:39:42]: SanoreX [Chilli.*, Level 27]: Nudelsaft c:: what u coded now
+[2021-04-15 23:39:45]: SanoreX [Chilli.*, Level 27]: a
+[2021-04-15 23:39:47]: SanoreX [Chilli.*, Level 27]: ;kill
