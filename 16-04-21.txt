@@ -4330,3 +4330,8 @@
 [2021-04-16 06:10:01]: ChillerDragon.* [Chilli.*, Level 42]: pff like u ever make peace easily ERROR
 [2021-04-16 06:10:03]: ChillerDragon.* [Chilli.*, Level 42]: stop hax Nudelsaft c:
 [2021-04-16 06:10:04]: ChillerDragon [Chilli.*, Level 16]: Error: Nudelsaft c failed to remote control (invalid token)
+[2021-04-16 06:10:09]: ChillerDragon.* [Chilli.*, Level 42]: aaaaaaaaaa Nudelsaft c:
+[2021-04-16 06:10:14]: ChillerDragon [Chilli.*, Level 16]: Error: Nudelsaft c failed to remote control (invalid token)
+[2021-04-16 06:10:17]: Nudelsaft c: [FookinLads, Level 60]: xD
+[2021-04-16 06:10:18]: ChillerDragon.* [Chilli.*, Level 42]: xD
+[2021-04-16 06:10:19]: ERROR. [404, Level 57]: HeavyGeneral:  just 15mio more xD
