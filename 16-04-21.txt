@@ -3384,3 +3384,9 @@
 [2021-04-16 04:46:00]: 1 [, Level 0]: Meetiteusz:  HELP
 [2021-04-16 04:46:00]: Meetiteusz [TrRShClNrRs, Level 28]: 1: stfu for a moment
 [2021-04-16 04:46:05]: ***  [, Level 0]: 'вłøøđωave' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-16 04:46:10]: Taip [VergleriSay, Level 19]: BTICH
+[2021-04-16 04:46:12]: Taip [VergleriSay, Level 19]: GO STFU
+[2021-04-16 04:46:13]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-16 04:46:13]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-16 04:46:14]: ***  [, Level 0]: 'Flipper' entered and joined the game
+[2021-04-16 04:46:14]: Taip [VergleriSay, Level 19]: GO BRR
