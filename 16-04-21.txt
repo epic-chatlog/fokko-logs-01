@@ -1291,3 +1291,4 @@
 [2021-04-16 02:12:25]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: any²:
 [2021-04-16 02:12:27]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: any:
 [2021-04-16 02:12:43]: ***  [, Level 0]: 'Diana' has left the game
+[2021-04-16 02:12:57]: ***  [, Level 0]: lessname is on a killing spree with 5 blocks
