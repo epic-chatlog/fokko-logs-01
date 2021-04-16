@@ -6468,3 +6468,7 @@
 [2021-04-16 08:25:06]: TZSA [, Level 0]: LadyBug: im trying to get in police
 [2021-04-16 08:25:07]: LadyBug [, Level 35]: TZSA: u wb
 [2021-04-16 08:25:12]: LadyBug [, Level 35]: [D] TZSA: no ure not
+[2021-04-16 08:25:15]: Nudelsaft c: [FookinLads, Level 60]: oh
+[2021-04-16 08:25:18]: ***  [, Level 0]: Soros's killing spree was ended by PommesdePins (11 blocks)
+[2021-04-16 08:25:20]: Nudelsaft c: [FookinLads, Level 60]: i think it thinks that im connected
+[2021-04-16 08:25:23]: Nudelsaft c: [FookinLads, Level 60]: even tho im not connected
