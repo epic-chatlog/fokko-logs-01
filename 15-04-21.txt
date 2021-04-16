@@ -14505,3 +14505,7 @@
 [2021-04-15 23:43:36]: SanoreX [Chilli.*, Level 27]: hm
 [2021-04-15 23:43:48]: SanoreX [Chilli.*, Level 27]: BEN
 [2021-04-15 23:43:51]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 23:43:54]: [D] Kahve [, Level 19]: lann
+[2021-04-15 23:43:56]: [D] Kahve [, Level 19]: lag
+[2021-04-15 23:44:00]: ***  [, Level 0]: 'ES' entered and joined the game
+[2021-04-15 23:44:02]: Intensiv [CrazyNoobs, Level 12]: help
