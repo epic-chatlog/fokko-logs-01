@@ -14152,3 +14152,5 @@
 [2021-04-15 23:18:09]: ***  [, Level 0]: Collected 5 money
 [2021-04-15 23:18:12]: [D] Kahve [, Level 19]: #5 blocker: follow
 [2021-04-15 23:18:25]: #5 blocker [|*MorE*|, Level 0]: where?
+[2021-04-15 23:18:32]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: where ur portal? expired?
+[2021-04-15 23:18:35]: [D] Kahve [, Level 19]: go right
