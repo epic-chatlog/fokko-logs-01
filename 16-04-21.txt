@@ -6485,3 +6485,5 @@
 [2021-04-16 08:25:50]:   [, Level 0]: vihandu tee: ☺: CAN DRop me in the shop
 [2021-04-16 08:25:54]: Killua [FookinLads, Level 37]: Nudelsaft c:: guess its by chance
 [2021-04-16 08:26:02]: Killua [FookinLads, Level 37]: Nudelsaft c:: it failed to be sent cus its udp
+[2021-04-16 08:26:07]: ***  [, Level 0]: Soros is on a killing spree with 10 blocks
+[2021-04-16 08:26:09]: Good man [Drunks, Level 31]: casserole :p:
