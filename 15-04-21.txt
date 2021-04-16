@@ -14482,3 +14482,6 @@
 [2021-04-15 23:41:43]: Kahve [, Level 24]: SanoreX: afk kalcam plotumda
 [2021-04-15 23:41:44]: SanoreX.* [Chilli.*, Level 22]: Intensiv: eskiden flag benimdi bana vercek
 [2021-04-15 23:41:48]: Intensiv [CrazyNoobs, Level 0]: SanoreX:  ok
+[2021-04-15 23:41:51]: SanoreX.* [Chilli.*, Level 22]: Kahve: ver da flagı
+[2021-04-15 23:41:57]: (1)#5 blocker [|*MorE*|, Level 0]: Kahve: timeout
+[2021-04-15 23:42:00]: SanoreX.* [Chilli.*, Level 22]: Kahve: jetpack da ver da
