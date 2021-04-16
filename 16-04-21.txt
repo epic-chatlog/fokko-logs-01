@@ -2994,3 +2994,6 @@
 [2021-04-16 04:15:17]: ***  [, Level 0]: 'ZEWO' has left the game
 [2021-04-16 04:15:20]: ***  [, Level 0]: 'SanoreX' entered and joined the game
 [2021-04-16 04:15:26]: ***  [, Level 0]: 'SanoreX' has left the game
+[2021-04-16 04:15:37]: zZzerayI [QuietLegend, Level 24]: BC|Tixnix: funny)
+[2021-04-16 04:15:38]: BC|Tixnix [BC, Level 35]: und?
+[2021-04-16 04:15:43]: ***  [, Level 0]: 'MATTHEW' has left the game
