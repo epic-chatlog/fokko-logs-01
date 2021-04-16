@@ -9659,3 +9659,6 @@
 [2021-04-16 12:09:59]:   [, Level 0]: cookie: BLACK:  oof oke
 [2021-04-16 12:10:01]: Random Guy [, Level 40]: ,: i died lel
 [2021-04-16 12:10:01]:   [, Level 0]: BC|kakashi: ERROR: was soll das?
+[2021-04-16 12:10:04]: , [TrRShClNrRs, Level 41]: Random Guy: ikr
+[2021-04-16 12:10:10]:   [, Level 0]: cookie: wait
+[2021-04-16 12:10:13]:   [, Level 0]: ERROR.: idiot
