@@ -14334,3 +14334,9 @@
 [2021-04-15 23:30:59]: SanoreX.* [Chilli.*, Level 22]: ;kill
 [2021-04-15 23:31:02]: SanoreX.* [Chilli.*, Level 22]: test:
 [2021-04-15 23:31:03]: Kahve [, Level 24]: cya
+[2021-04-15 23:31:05]: SanoreX.* [Chilli.*, Level 22]: test: ;kill
+[2021-04-15 23:31:06]: ***  [, Level 0]: 'JustRace' entered and joined the game
+[2021-04-15 23:31:06]: Kahve [, Level 24]: xd
+[2021-04-15 23:31:10]: Kahve [, Level 24]: L OL
+[2021-04-15 23:31:11]: Kahve [, Level 24]: XD
+[2021-04-15 23:31:15]: Nudelsaft c: [FookinLads, Level 0]: ;kill
