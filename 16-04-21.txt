@@ -7362,3 +7362,7 @@
 [2021-04-16 09:27:50]: ***  [, Level 0]: 'Guthaben' has left the game
 [2021-04-16 09:27:57]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
 [2021-04-16 09:27:59]: Good man [Drunks, Level 31]: TZSA: help or war
+[2021-04-16 09:28:13]: ***  [, Level 0]: '☺' has left the game (Timeout)
+[2021-04-16 09:28:13]: ***  [, Level 0]: '(1)☺' has left the game (Timeout)
+[2021-04-16 09:28:21]: Good man [Drunks, Level 31]: TZSA: help fast
+[2021-04-16 09:28:23]: G𝕖𝕝𝕒to [s/o razmo, Level 42]: I like turtles.
