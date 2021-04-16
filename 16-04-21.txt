@@ -10733,3 +10733,6 @@
 [2021-04-16 12:54:37]: ***  [, Level 0]: 'cookie' has left the game
 [2021-04-16 12:54:38]: , [TrRShClNrRs, Level 41]: Axel: i did this?
 [2021-04-16 12:54:41]: , [TrRShClNrRs, Level 41]: Axel ²: look
+[2021-04-16 12:54:53]: , [TrRShClNrRs, Level 41]: Axel ²: come close
+[2021-04-16 12:54:55]: |HolyHo| [FookinLads, Level 19]: Axel: <
+[2021-04-16 12:55:01]: , [TrRShClNrRs, Level 41]: Axel ²: xd
