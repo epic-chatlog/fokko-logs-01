@@ -1059,3 +1059,7 @@
 [2021-04-16 01:47:21]: [D] #5 blocker [|*MorE*|, Level 0]: na mingy frissíti
 [2021-04-16 01:47:21]: Kiøn1029 [.bad, Level 32]: nA MiNgY FrIsSítI
 [2021-04-16 01:47:28]: Kiøn1029 [.bad, Level 32]: ja okés
+[2021-04-16 01:47:33]: ***  [, Level 0]: 'andrea' entered and joined the game
+[2021-04-16 01:47:34]: Adleg [, Level 0]: DEUTSCH
+[2021-04-16 01:47:34]: Kiøn1029 [.bad, Level 32]: dEuTsCh
+[2021-04-16 01:47:36]: Kiøn1029 [.bad, Level 32]: XDD
