@@ -7575,3 +7575,5 @@
 [2021-04-16 09:47:42]: ***  [, Level 0]: '[D] Vertex' entered and joined the game
 [2021-04-16 09:47:44]: Isegrin [, Level 55]: not du
 [2021-04-16 09:47:50]: Isegrin [, Level 55]: ghay
+[2021-04-16 09:47:59]: ***  [, Level 0]: ':l Romani4 l:' has left the game (Timeout)
+[2021-04-16 09:47:59]: ***  [, Level 0]: 'Romani4' has left the game (Timeout)
