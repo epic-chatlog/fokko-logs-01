@@ -5608,3 +5608,20 @@
 [2021-04-16 07:37:08]: Nightmare [, Level 0]: ??
 [2021-04-16 07:37:08]: ***  [, Level 0]: 'Wakalemerda' has left the game
 [2021-04-16 07:37:09]: ~DemoizL~ [, Level 39]: vollesprit: si
+[2021-04-16 07:37:13]: |MıssOяchiĐ| [, Level 0]: Nightmare: with Just race
+[2021-04-16 07:37:15]: ***  [, Level 0]: '✯|Not Bulash' entered and joined the game
+[2021-04-16 07:37:20]: mamikral011 [DogParty, Level 22]: Keø:
+[2021-04-16 07:37:20]: |MıssOяchiĐ| [, Level 0]: rolalaaaaa
+[2021-04-16 07:37:21]: ←   [, Level 0]: Swarfey: 0moneydrop
+[2021-04-16 07:37:21]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-16 07:37:21]: ***  [, Level 0]: Bank: 0
+[2021-04-16 07:37:21]: ***  [, Level 0]: Wallet: 53962
+[2021-04-16 07:37:21]: ***  [, Level 0]: Euros: 0
+[2021-04-16 07:37:21]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-16 07:37:21]: ***  [, Level 0]: [WALLET] +8 collected
+[2021-04-16 07:37:21]: ***  [, Level 0]: [WALLET] -28300 dropped
+[2021-04-16 07:37:21]: ***  [, Level 0]: [WALLET] +3 collected
+[2021-04-16 07:37:21]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-16 07:37:21]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-16 07:37:21]: ***  [, Level 0]: Invalid whisper
+[2021-04-16 07:37:21]: ~DemoizL~ [, Level 39]: vollesprit: je viens de te donner 1000
