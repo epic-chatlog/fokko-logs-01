@@ -12690,3 +12690,7 @@
 [2021-04-16 14:47:57]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-16 14:48:01]: YelloWorlD [DogParty, Level 57]: 0delteam 11
 [2021-04-16 14:48:05]: (1)☺ [, Level 14]: ?
+[2021-04-16 14:48:11]: ***  [, Level 0]: 'ölüm bekçisi' has left the game
+[2021-04-16 14:48:11]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0delteam YelloWorlD
+[2021-04-16 14:48:18]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0addteam YelloWorlD
+[2021-04-16 14:48:23]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
