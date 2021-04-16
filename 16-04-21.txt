@@ -4388,3 +4388,7 @@
 [2021-04-16 06:13:17]: Flipper [, Level 0]: idc if we have war.
 [2021-04-16 06:13:28]: ***  [, Level 0]: TZSA finished in: 1 minute(s) 13.72 second(s)
 [2021-04-16 06:13:28]: ***  [, Level 0]: New record: 20.96 second(s) better.
+[2021-04-16 06:13:30]: Ðream [TrRShClNrRs, Level 47]: ERROR: flag for flappy
+[2021-04-16 06:13:33]: ***  [, Level 0]: [D] TZSA finished in: 2 minute(s) 18.06 second(s)
+[2021-04-16 06:13:36]: ***  [, Level 0]: '(1)/' changed name to '(1)/testsetestes'
+[2021-04-16 06:13:39]: (1)/testseteste [FookinLads, Level 60]: wieso ChillerDragon
