@@ -5017,3 +5017,9 @@
 [2021-04-16 07:05:59]: ***  [, Level 0]: 'Axel' entered and joined the game
 [2021-04-16 07:06:06]: ERROR [404, Level 75]: nah they got nothing
 [2021-04-16 07:06:12]: weqe [669, Level 13]: ERROR: help or war4ever
+[2021-04-16 07:06:16]: ERROR [404, Level 75]: weqe:  war4ever
+[2021-04-16 07:06:22]: weqe [669, Level 13]: wtf ERROR i was joking
+[2021-04-16 07:06:22]: ***  [, Level 0]: 'Dark_Heracles *' entered and joined the game
+[2021-04-16 07:06:24]: lolpoep [Ape, Level 20]: i have to go  bye
+[2021-04-16 07:06:25]: ERROR [404, Level 75]: i dont
+[2021-04-16 07:06:28]: Luna [, Level 0]: ok bye
