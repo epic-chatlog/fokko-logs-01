@@ -12739,3 +12739,4 @@
 [2021-04-16 14:54:39]: (1)BLACK [, Level 22]: go peace
 [2021-04-16 14:54:49]: (1)BLACK [, Level 22]: i said peace
 [2021-04-16 14:54:54]: ***  [, Level 0]: 'L1P3KC' entered and joined the game
+[2021-04-16 14:55:18]: ***  [, Level 0]: 'L1P3KC' has left the game
