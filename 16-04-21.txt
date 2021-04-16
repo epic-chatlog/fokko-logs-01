@@ -4411,3 +4411,4 @@
 [2021-04-16 06:14:41]: ChillerDragon.* [|*KoG*|, Level 42]: ChillerDragon: a
 [2021-04-16 06:14:41]: ChillerDragon [Chilli.*, Level 16]: ChillerDragon.*: I am currently afk.
 [2021-04-16 06:14:44]: Ðream [TrRShClNrRs, Level 47]: (1)RM | Arin: say sorry ERRORxD
+[2021-04-16 06:14:46]: ChillerDragon [Chilli.*, Level 16]: Error: (1)/testsetestes failed to remote control (invalid token)
