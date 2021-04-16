@@ -3372,3 +3372,11 @@
 [2021-04-16 04:45:28]: ***  [, Level 0]: 'power' has left the game
 [2021-04-16 04:45:32]: вłøøđωave [ƨơʅơ, Level 0]: cya
 [2021-04-16 04:45:39]: ***  [, Level 0]: 'Taip' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-16 04:45:46]: Taip [VergleriSay, Level 19]: Eden: bro
+[2021-04-16 04:45:47]: Taip [VergleriSay, Level 19]: do
+[2021-04-16 04:45:49]: 1 [, Level 0]: Meetiteusz:  HELP
+[2021-04-16 04:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-16 04:45:53]: ***  [, Level 0]: 'BC|serwan' has left the game
+[2021-04-16 04:45:53]: 1 [, Level 0]: Meetiteusz:  HELP
+[2021-04-16 04:45:54]: Taip [VergleriSay, Level 19]: ./block
+[2021-04-16 04:45:55]: 1 [, Level 0]: Meetiteusz:  HELP
