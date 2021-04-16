@@ -4019,3 +4019,9 @@
 [2021-04-16 05:46:29]: RM | Arin [Retard MNKY, Level 16]: ChillerDragon:
 [2021-04-16 05:46:38]: El patron [, Level 30]: Cosmo: help
 [2021-04-16 05:46:46]: RM | Arin [Retard MNKY, Level 16]: Grasshopper:  Safe
+[2021-04-16 05:46:54]: RM | Arin [Retard MNKY, Level 16]: (1)ChillerDrago:  <<<<
+[2021-04-16 05:46:56]: ***  [, Level 0]: 'brainless tee' entered and joined the game
+[2021-04-16 05:46:57]: Cosmo [, Level 0]: El patron: wait
+[2021-04-16 05:46:58]: RM | Arin [Retard MNKY, Level 16]: ChillerDragon:  >>>>
+[2021-04-16 05:47:03]: Grasshopper [, Level 0]: woona:
+[2021-04-16 05:47:05]: ***  [, Level 0]: ~DemoizL~ is on a killing spree with 10 blocks
