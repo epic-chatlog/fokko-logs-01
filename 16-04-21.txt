@@ -6472,3 +6472,6 @@
 [2021-04-16 08:25:18]: ***  [, Level 0]: Soros's killing spree was ended by PommesdePins (11 blocks)
 [2021-04-16 08:25:20]: Nudelsaft c: [FookinLads, Level 60]: i think it thinks that im connected
 [2021-04-16 08:25:23]: Nudelsaft c: [FookinLads, Level 60]: even tho im not connected
+[2021-04-16 08:25:31]: Nudelsaft c: [FookinLads, Level 60]: and the close msg closed it
+[2021-04-16 08:25:34]: Nudelsaft c: [FookinLads, Level 60]: no
+[2021-04-16 08:25:38]: Nudelsaft c: [FookinLads, Level 60]: the close msg didnt get sent probabl
