@@ -4581,3 +4581,5 @@
 [2021-04-16 06:34:32]: RM | Arin [Retard MNKY, Level 16]: f
 [2021-04-16 06:34:43]: RM | Arin [Retard MNKY, Level 16]: ERROR:  idiot xD
 [2021-04-16 06:34:45]: ERROR [404, Level 75]: xD
+[2021-04-16 06:34:59]: Flipper [, Level 0]: dont send me out there pls
+[2021-04-16 06:35:04]: Flipper [, Level 0]: yae jo
