@@ -9168,3 +9168,5 @@
 [2021-04-16 11:51:34]: ***  [, Level 0]: 'SpawnBlocker™' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-16 11:51:34]: ***  [, Level 0]: 'any' has left the game (Timeout)
 [2021-04-16 11:51:34]: ***  [, Level 0]: 'any²' has left the game (Timeout)
+[2021-04-16 11:51:37]: ***  [, Level 0]: 'Misa bobasigtel' changed name to 'Misa obasigtele'
+[2021-04-16 11:51:41]: Misa obasigtele [TrRShClNrRs, Level 40]: perfect
