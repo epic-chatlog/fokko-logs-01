@@ -424,3 +424,7 @@
 [2021-04-16 00:53:31]: Kahve [, Level 24]: Grasshopper: FUCKING NOOBL OGIN
 [2021-04-16 00:53:37]: Kahve [, Level 24]: Grasshopper: FUCKING NOOB LOGIN
 [2021-04-16 00:53:41]: Kahve [, Level 24]: login noob
+[2021-04-16 00:53:46]: ***  [, Level 0]: 'JustRace.' has left the game
+[2021-04-16 00:53:46]: ***  [, Level 0]: 'JustRace' has left the game
+[2021-04-16 00:53:47]: [D] #5 blocker [|*MorE*|, Level 0]: wait
+[2021-04-16 00:53:49]: Grasshopper [, Level 0]: k i log in
