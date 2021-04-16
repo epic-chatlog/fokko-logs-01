@@ -14062,3 +14062,6 @@
 [2021-04-15 23:10:17]: SanoreX.* [Chilli.*, Level 22]: #5 blocker: I go help [D] Kahve
 [2021-04-15 23:10:19]: Kahve [, Level 24]: koş
 [2021-04-15 23:10:20]: SanoreX.* [Chilli.*, Level 22]: dont come
+[2021-04-15 23:10:24]: SanoreX.* [Chilli.*, Level 22]: never
+[2021-04-15 23:10:31]: [D] Kahve [, Level 19]: no go #5 blocker
+[2021-04-15 23:10:34]: [D] Kahve [, Level 19]: SanoreX: bi sal aq
