@@ -8772,3 +8772,8 @@
 [2021-04-16 11:30:18]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
 [2021-04-16 11:30:21]: Falco641 [.bad, Level 20]: Yoakao: dont need help?
 [2021-04-16 11:30:22]:   [, Level 0]: Noragami: динер новичок*
+[2021-04-16 11:30:28]:   [, Level 0]: Noragami: динер новичок?
+[2021-04-16 11:30:29]:   [, Level 0]: динер: да
+[2021-04-16 11:30:31]: Kirito [{TQuila}, Level 40]: Cylox: help ma
+[2021-04-16 11:30:33]: ***  [, Level 0]: Cylox finished in: 9 minute(s) 47.44 second(s)
+[2021-04-16 11:30:33]: ***  [, Level 0]: 'Cylox' finished the special race!
