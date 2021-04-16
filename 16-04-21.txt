@@ -7804,3 +7804,6 @@
 [2021-04-16 10:16:03]: ***  [, Level 0]: 'ReccoTR' has left the game
 [2021-04-16 10:16:06]: ***  [, Level 0]: 'ReccoTR' entered and joined the game
 [2021-04-16 10:16:09]: ***  [, Level 0]: 'ReccoTR' has left the game
+[2021-04-16 10:16:12]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-16 10:16:12]: Falco642 [, Level 0]: xd
+[2021-04-16 10:16:19]: ***  [, Level 0]: 'mizie' joined the spectators
