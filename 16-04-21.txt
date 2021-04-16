@@ -1685,3 +1685,8 @@
 [2021-04-16 02:46:16]: [D] #5 blocker [|*MorE*|, Level 0]: Hady: hi
 [2021-04-16 02:46:20]: ***  [, Level 0]: 'any' changed name to 'Heavy's man owo'
 [2021-04-16 02:46:22]: Hady [new bot, Level 33]: #5 blocker:  hi
+[2021-04-16 02:46:30]: [D] #5 blocker [|*MorE*|, Level 0]: Hady: are you Kion friend?
+[2021-04-16 02:46:31]: ***  [, Level 0]: ### 'Heavy's man owo' owo Hady
+[2021-04-16 02:46:35]: ***  [, Level 0]: ### 'Heavy's man owo' owo HeavyGeneral
+[2021-04-16 02:46:38]: ***  [, Level 0]: 'power' has left the game
+[2021-04-16 02:46:41]: Hady [new bot, Level 33]: #5 blocker:  he block me
