@@ -4041,3 +4041,7 @@
 [2021-04-16 05:48:32]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-16 05:48:44]: mamikral011 [DogParty, Level 27]: Flipper: war for life
 [2021-04-16 05:48:46]: RM | Arin [Retard MNKY, Level 16]: meh
+[2021-04-16 05:48:56]: ***  [, Level 0]: '[D] mamikral011' has left the game
+[2021-04-16 05:48:56]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-16 05:48:57]: RM | Arin [Retard MNKY, Level 16]: OP
+[2021-04-16 05:49:03]: Flipper [, Level 0]: wtf
