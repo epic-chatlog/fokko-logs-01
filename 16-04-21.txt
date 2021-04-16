@@ -3281,3 +3281,6 @@
 [2021-04-16 04:33:33]: ***  [, Level 0]: New record: 6 minute(s) 19.38 second(s) better.
 [2021-04-16 04:33:36]: ***  [, Level 0]: [D] TZSA finished in: 1 minute(s) 44.04 second(s)
 [2021-04-16 04:33:36]: ***  [, Level 0]: New record:  7.24 second(s) better.
+[2021-04-16 04:33:41]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
+[2021-04-16 04:33:43]: вłøøđωave [ƨơʅơ, Level 0]: power: so normal it's "das"
+[2021-04-16 04:33:48]: ***  [, Level 0]: 'komando' entered and joined the game
