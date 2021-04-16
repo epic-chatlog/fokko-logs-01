@@ -4856,3 +4856,7 @@
 [2021-04-16 06:51:05]: ERROR [404, Level 75]: ops
 [2021-04-16 06:51:16]: ***  [, Level 0]: 'Cosmo' entered and joined the game
 [2021-04-16 06:51:16]: #5 blocker [|*MorE*|, Level 24]: weqe: i help you?
+[2021-04-16 06:51:21]: kais [, Level 66]: (1)Kirito: why u don't want me to kill you ? you have a lot of money ? xD
+[2021-04-16 06:51:22]: weqe [669, Level 13]: yes #5 blocker
+[2021-04-16 06:51:29]: Kirito [{TQuila}, Level 40]: kais: 3 k
+[2021-04-16 06:51:29]: LareneGyvaeh [FookinLads, Level 36]: Kirito: no
