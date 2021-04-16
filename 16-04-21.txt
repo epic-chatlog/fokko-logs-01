@@ -6670,3 +6670,6 @@
 [2021-04-16 08:41:19]: (1)☺ [, Level 13]: Kirito: i dont know but i think if you peace with zephir any he's going to stop killing you
 [2021-04-16 08:41:23]: ***  [, Level 0]: '[D] TZSA' finished the special race!
 [2021-04-16 08:41:31]: Kirito [{TQuila}, Level 40]: ☺: maybe
+[2021-04-16 08:41:43]: El patron [, Level 30]: (1)☺:
+[2021-04-16 08:41:43]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-16 08:41:43]: ***  [, Level 0]: 'RM | Arin' has left the game
