@@ -14454,3 +14454,7 @@
 [2021-04-15 23:40:30]: Nudelsaft c: [FookinLads, Level 0]: a
 [2021-04-15 23:40:35]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
 [2021-04-15 23:40:37]: #5 blocker [|*MorE*|, Level 24]: uh nice
+[2021-04-15 23:40:48]: JustRace [DogParty, Level 36]: SanoreX:  I don't really farm and I'll probably get killed by having the flag
+[2021-04-15 23:40:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-15 23:40:50]: Nudelsaft c: [FookinLads, Level 0]: ;kill
+[2021-04-15 23:40:50]: ***  [, Level 0]: 'Intensiv' entered and joined the game
