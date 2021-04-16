@@ -4473,3 +4473,5 @@
 [2021-04-16 06:20:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 06:20:52]: (1)RM | Arin [Retard MNKY, Level 0]: ERROR:
 [2021-04-16 06:20:55]: (1)RM | Arin [Retard MNKY, Level 0]: guck ma
+[2021-04-16 06:20:57]: woona [, Level 48]: omg
+[2021-04-16 06:20:58]: ***  [, Level 0]: '[D] El patron' has left the game
