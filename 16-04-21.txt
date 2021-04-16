@@ -6990,3 +6990,5 @@
 [2021-04-16 09:05:48]: Boti. [.bad, Level 0]: nem adtak vacsorat
 [2021-04-16 09:05:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-16 09:05:55]: Boti. [.bad, Level 0]: ciganyok
+[2021-04-16 09:06:05]: (1)☺ [, Level 13]: jump
+[2021-04-16 09:06:06]: No~Filter [, Level 0]: xD
