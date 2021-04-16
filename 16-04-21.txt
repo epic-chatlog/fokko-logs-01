@@ -4131,3 +4131,6 @@
 [2021-04-16 05:54:54]: ChillerDragon.* [Chilli.*, Level 42]: oof
 [2021-04-16 05:55:01]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
 [2021-04-16 05:55:03]: ***  [, Level 0]: '(2)Cosmo' joined the spectators
+[2021-04-16 05:55:06]: Swarfey [FookinLads, Level 42]: aaaa
+[2021-04-16 05:55:08]: Swarfey [FookinLads, Level 42]: flappy blockt mich
+[2021-04-16 05:55:09]: woona [, Level 48]: Grasshopper: gay skin
