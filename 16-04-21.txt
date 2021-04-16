@@ -1839,3 +1839,6 @@
 [2021-04-16 02:56:38]: ***  [, Level 0]: 'LareneGyvaeh' entered and joined the game
 [2021-04-16 02:56:50]: [D] #5 blocker [|*MorE*|, Level 0]: Boti.: majd megírom fokko nak hogy nemtudok angolul és hogy kurvára nem én akartam ddosolni
 [2021-04-16 02:57:03]: BLACK [, Level 26]: el champeon:  how many seconds left
+[2021-04-16 02:57:12]: el champeon [, Level 0]: BLACK: ???
+[2021-04-16 02:57:20]: BLACK [, Level 26]: el champeon:  to leave jail
+[2021-04-16 02:57:20]: ***  [, Level 0]: 'Hady' has left the game
