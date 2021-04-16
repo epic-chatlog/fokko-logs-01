@@ -1859,3 +1859,9 @@
 [2021-04-16 02:59:10]: Axandos [, Level 26]: in mein ficksclund
 [2021-04-16 02:59:12]: HeavyGeneral [FookinLads, Level 44]: f1 kill
 [2021-04-16 02:59:12]: mamikral011 [DogParty, Level 0]: YelloWorlD: rifle?
+[2021-04-16 02:59:15]: ~DemoizL~ [, Level 39]: no
+[2021-04-16 02:59:18]: ***  [, Level 0]: 'fahh' left the minigame 'Survival'
+[2021-04-16 02:59:20]: HeavyGeneral [FookinLads, Level 44]: yes
+[2021-04-16 02:59:22]: ~DemoizL~ [, Level 39]: no
+[2021-04-16 02:59:23]: ***  [, Level 0]: '[D] Vertex' has left the game
+[2021-04-16 02:59:23]: ***  [, Level 0]: 'Vertex' has left the game
