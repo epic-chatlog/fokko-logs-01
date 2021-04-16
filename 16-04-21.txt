@@ -4667,3 +4667,6 @@
 [2021-04-16 06:40:02]: Nudelsaft c: [FookinLads, Level 60]: still
 [2021-04-16 06:40:11]: ***  [, Level 0]: 'LioLo' has left the game
 [2021-04-16 06:40:16]: ***  [, Level 0]: 'LioLo' entered and joined the game
+[2021-04-16 06:40:18]: Kirito [{TQuila}, Level 40]: xD
+[2021-04-16 06:40:26]: Nudelsaft c: [FookinLads, Level 60]: Kirito: krieg ich mein plot?
+[2021-04-16 06:40:27]: Kirito [{TQuila}, Level 40]: mp
