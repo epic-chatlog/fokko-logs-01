@@ -5962,3 +5962,4 @@
 [2021-04-16 07:53:02]: any [404, Level 38]: HOW
 [2021-04-16 07:53:02]: lolpoep [Ape, Level 0]: stop
 [2021-04-16 07:53:03]: ***  [, Level 0]: Flupper is on a killing spree with 5 blocks
+[2021-04-16 07:53:14]: Beetle [, Level 35]: GODLIKe: GIVE FLAG
