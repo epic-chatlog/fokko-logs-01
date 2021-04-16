@@ -12540,3 +12540,5 @@
 [2021-04-16 14:30:16]: YelloWorlD [DogParty, Level 57]: 0delteam 1
 [2021-04-16 14:30:19]: YelloWorlD [DogParty, Level 57]: 0delteam 11
 [2021-04-16 14:30:20]: Killua [FookinLads, Level 37]: YelloWorlD: u have epicblocker role?
+[2021-04-16 14:30:29]: Killua [FookinLads, Level 37]: YelloWorlD: do u have epic blocker role?
+[2021-04-16 14:30:31]: ***  [, Level 0]: 'Dan' joined the spectators
