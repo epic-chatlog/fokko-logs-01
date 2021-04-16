@@ -7869,3 +7869,6 @@
 , Level 0]: 'SpawBlockerâ' entered and joined the game
 [2021-04-16 10:22:47]: Kenshi™ [, Level 0]: ERROR: yop :D
 [2021-04-16 10:23:05]: ERROR. [404, Level 57]: Kenshi™:  yo
+[2021-04-16 10:23:14]: Zephir™ [, Level 40]: ERROR: come
+[2021-04-16 10:23:15]: Estarossa [, Level 0]: ERROR: heyooo
+[2021-04-16 10:23:23]: ERROR. [404, Level 57]: Zephir™:  come?
