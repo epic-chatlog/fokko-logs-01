@@ -7778,3 +7778,5 @@
 [2021-04-16 10:13:07]: ***  [, Level 0]: 'mizie' joined the game
 [2021-04-16 10:13:21]: ***  [, Level 0]: 'A player' entered and joined the game
 [2021-04-16 10:13:28]: ***  [, Level 0]: 'A player' has left the game
+[2021-04-16 10:13:46]: ***  [, Level 0]: 'Meliodas' entered and joined the game
+[2021-04-16 10:13:51]: ***  [, Level 0]: 'ReccoTR' entered and joined the game
