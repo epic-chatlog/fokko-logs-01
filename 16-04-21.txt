@@ -13137,3 +13137,6 @@
 [2021-04-16 16:34:29]: bob [Legacy™, Level 36]: yes
 [2021-04-16 16:34:38]: Zephir™ [404, Level 40]: bob: because i think u gona play taser
 [2021-04-16 16:35:44]: ***  [, Level 0]: 'Eliathan' entered and joined the game
+[2021-04-16 16:35:49]: bob [Legacy™, Level 36]: just rq ok
+[2021-04-16 16:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-16 16:35:51]: bob [Legacy™, Level 36]: so i can leave
