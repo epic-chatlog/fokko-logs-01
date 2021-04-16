@@ -14115,3 +14115,7 @@
 [2021-04-15 23:14:22]: ***  [, Level 0]: 'test' has left the game
 [2021-04-15 23:14:25]: SanoreX.* [Chilli.*, Level 22]: NO Ü
 [2021-04-15 23:14:30]: Nudelsaft c: [FookinLads, Level 0]: no u
+[2021-04-15 23:14:37]: [D] Kahve [, Level 19]: no u
+[2021-04-15 23:14:37]: SanoreX.* [Chilli.*, Level 22]: gay
+[2021-04-15 23:14:41]: [D] Kahve [, Level 19]: tf
+[2021-04-15 23:14:43]: Nudelsaft c: [FookinLads, Level 0]: yes u
