@@ -4412,3 +4412,7 @@
 [2021-04-16 06:14:41]: ChillerDragon [Chilli.*, Level 16]: ChillerDragon.*: I am currently afk.
 [2021-04-16 06:14:44]: Ðream [TrRShClNrRs, Level 47]: (1)RM | Arin: say sorry ERRORxD
 [2021-04-16 06:14:46]: ChillerDragon [Chilli.*, Level 16]: Error: (1)/testsetestes failed to remote control (invalid token)
+[2021-04-16 06:14:57]: (1)/testseteste [FookinLads, Level 60]: ach geht sowieso nicht weil du Error: davor gepackt hast
+[2021-04-16 06:15:03]: ***  [, Level 0]: '(1)/testsetestes' changed name to 'Nudelsaft c:'
+[2021-04-16 06:15:03]: RM | Arin [Retard MNKY, Level 16]: GIVE ME MY FLAG BACK ERROR
+[2021-04-16 06:15:04]: ChillerDragon.* [|*KoG*|, Level 42]: ja deswegen xd
