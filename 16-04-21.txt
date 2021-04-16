@@ -2866,3 +2866,6 @@
 [2021-04-16 04:09:38]: ***  [, Level 0]: 'firew!ay' entered and joined the game
 [2021-04-16 04:09:40]: ***  [, Level 0]: 'firew!ay' has left the game
 [2021-04-16 04:09:43]: Nudelsaft c: [FookinLads, Level 42]: Foxie♥: its okay men i forgive u
+[2021-04-16 04:09:46]: ***  [, Level 0]: '[D] #5 blocker' has left the game
+[2021-04-16 04:09:46]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-16 04:09:49]: Foxie♥ [{TQuila}, Level 36]: Nudelsaft c:: thanks men
