@@ -8608,3 +8608,5 @@
 [2021-04-16 11:19:04]: Falco642 [, Level 0]: dont get in way
 [2021-04-16 11:19:09]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
 [2021-04-16 11:19:10]: Yoakao [, Level 0]: [D] taco bell: Lol
+[2021-04-16 11:19:15]: ***  [, Level 0]: 'ZEWO' entered and joined the game
+[2021-04-16 11:19:20]: ***  [, Level 0]: 'Rishishi' has left the game
