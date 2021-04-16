@@ -947,3 +947,9 @@
 [2021-04-16 01:39:51]: ***  [, Level 0]: 'Dilkohomnkiks' has left the game
 [2021-04-16 01:39:54]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
 [2021-04-16 01:39:59]: ***  [, Level 0]: 'Dilkohomnkiks' entered and joined the game
+[2021-04-16 01:40:07]: Kiøn1029 [.bad, Level 0]: #5 blocker: mit is mondtál mit ne kapcsoljak be
+[2021-04-16 01:40:08]: ***  [, Level 0]: [D]ϻɪɔʜɑʟ finished in: 5 minute(s) 10.68 second(s)
+[2021-04-16 01:40:12]: ***  [, Level 0]: [D] El patron finished in: 11 minute(s)  7.64 second(s)
+[2021-04-16 01:40:12]: ***  [, Level 0]: '[D] El patron' finished the special race!
+[2021-04-16 01:40:12]: ***  [, Level 0]: ϻɪɔʜɑʟ finished in: 11 minute(s) 56.66 second(s)
+[2021-04-16 01:40:13]: ***  [, Level 0]: '[D] Dilkohomnki' entered and joined the game
