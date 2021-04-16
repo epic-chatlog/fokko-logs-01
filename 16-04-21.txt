@@ -462,3 +462,5 @@
 [2021-04-16 00:57:03]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-16 00:57:10]: #5 blocker [|*MorE*|, Level 24]: Marcisten:
 [2021-04-16 00:57:26]: ***  [, Level 0]: 'Cylox.' entered and joined the game
+[2021-04-16 00:57:34]: Marcisten [Helper, Level 0]: Kiøn1029: nem akkor nem fogja autocompletelni
+[2021-04-16 00:57:39]: Marcisten [Helper, Level 0]: ki Kiøn1029
