@@ -12042,3 +12042,9 @@
 [2021-04-16 14:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-16 14:05:51]: Killua [FookinLads, Level 0]: YelloWorlD: blox me
 [2021-04-16 14:05:55]: UruguayanTee [TrRShClNrRs, Level 42]: Hala Madrid: that shit what wild bees are making
+[2021-04-16 14:06:05]: Killua [FookinLads, Level 0]: YelloWorlD: kill me
+[2021-04-16 14:06:07]: YelloWorlD [DogParty, Level 57]: Killua: stop pelas
+[2021-04-16 14:06:08]: ***  [, Level 0]: 'Dan' joined the spectators
+[2021-04-16 14:06:10]: Hala Madrid [BBM, Level 48]: UruguayanTee: lmaooo
+[2021-04-16 14:06:12]: ***  [, Level 0]: 'Dan' joined the game
+[2021-04-16 14:06:16]: Killua [FookinLads, Level 0]: YelloWorlD: blox me
