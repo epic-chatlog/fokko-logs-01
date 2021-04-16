@@ -198,3 +198,6 @@
 [2021-04-16 00:30:26]: S Y T H N [, Level 0]: ezt
 [2021-04-16 00:30:28]: Swarfey [FookinLads, Level 0]: ;emote 3
 [2021-04-16 00:30:35]: Intensiv__ [CrazyNoobs, Level 0]: [D]ϻɪɔʜɑʟ:  war
+[2021-04-16 00:30:39]: [D]ϻɪɔʜɑʟ [, Level 20]: yea
+[2021-04-16 00:30:46]: Swarfey [FookinLads, Level 0]: ;kill
+[2021-04-16 00:30:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
