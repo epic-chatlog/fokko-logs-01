@@ -14547,3 +14547,5 @@
 [2021-04-15 23:46:57]: SanoreX.* [Chilli.*, Level 22]: bitch
 [2021-04-15 23:46:58]: Kahve [, Level 24]: (1)#5 blocker:
 [2021-04-15 23:47:00]: SanoreX.* [Chilli.*, Level 22]: piç olduk
+[2021-04-15 23:47:01]: Kahve [, Level 24]: [D] #5 blocker:
+[2021-04-15 23:47:05]: SanoreX.* [Chilli.*, Level 22]: (1)#5 blocker: help
