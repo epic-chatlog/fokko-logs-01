@@ -4579,3 +4579,5 @@
 [2021-04-16 06:33:59]: Flipper [, Level 0]: wait
 [2021-04-16 06:34:27]: ***  [, Level 0]: 'sleimi' has left the game
 [2021-04-16 06:34:32]: RM | Arin [Retard MNKY, Level 16]: f
+[2021-04-16 06:34:43]: RM | Arin [Retard MNKY, Level 16]: ERROR:  idiot xD
+[2021-04-16 06:34:45]: ERROR [404, Level 75]: xD
