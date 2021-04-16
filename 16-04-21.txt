@@ -6994,3 +6994,8 @@
 [2021-04-16 09:06:06]: No~Filter [, Level 0]: xD
 [2021-04-16 09:06:20]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
 [2021-04-16 09:06:20]: No~Filter [, Level 0]: szia
+[2021-04-16 09:06:29]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-16 09:06:31]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-16 09:06:33]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-16 09:06:36]: JustRace [DogParty, Level 0]: bruv
+[2021-04-16 09:06:37]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
