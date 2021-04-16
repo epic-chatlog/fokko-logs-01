@@ -13639,3 +13639,4 @@
 [2021-04-15 18:59:57]: Kirito [{TQuila}, Level 40]: flag
 [2021-04-15 19:00:16]: Kirito [{TQuila}, Level 40]: come
 [2021-04-15 19:00:16]: ☺ [, Level 21]: thx man
+[2021-04-15 19:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
