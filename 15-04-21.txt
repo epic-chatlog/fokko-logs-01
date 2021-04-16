@@ -14149,3 +14149,5 @@
 [2021-04-15 23:17:26]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: I have fast weapon switch in keyboard
 [2021-04-15 23:17:42]: Nudelsaft c: [FookinLads, Level 0]: nothing special
 [2021-04-15 23:17:57]: [D] Kahve [, Level 19]: Ðream: yes or no?
+[2021-04-15 23:18:09]: ***  [, Level 0]: Collected 5 money
+[2021-04-15 23:18:12]: [D] Kahve [, Level 19]: #5 blocker: follow
