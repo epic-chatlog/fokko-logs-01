@@ -6199,3 +6199,6 @@
 [2021-04-16 08:08:25]: El shampo [{TQuila}, Level 40]: Cylox.:
 [2021-04-16 08:08:26]: power [TrRShClNrRs, Level 0]: always vollesprit
 [2021-04-16 08:08:33]: El shampo [{TQuila}, Level 40]: GODLIKe.: why u bad
+[2021-04-16 08:08:42]: GODLIKe. [, Level 39]: El shampo: and u die ?
+[2021-04-16 08:08:42]: ***  [, Level 0]: 'el champeon' entered and joined the game
+[2021-04-16 08:08:48]: El shampo [{TQuila}, Level 40]: GODLIKe.: so bad
