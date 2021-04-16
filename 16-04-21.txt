@@ -6524,3 +6524,6 @@
 [2021-04-16 08:30:03]: Killua [FookinLads, Level 37]: Swarfey: why not
 [2021-04-16 08:30:11]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-16 08:30:17]: Swarfey [FookinLads, Level 42]: 0delwar 10
+[2021-04-16 08:30:22]: ***  [Óýÿÿ, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-16 08:30:30]: Swarfey [FookinLads, Level 42]: 0delwar 10
+[2021-04-16 08:30:32]: Killua [FookinLads, Level 37]: Swarfey: oh u made it write once?
