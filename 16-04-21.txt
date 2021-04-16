@@ -1606,3 +1606,5 @@
 [2021-04-16 02:40:01]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
 [2021-04-16 02:40:05]: ***  [, Level 0]: 'Soros' entered and joined the game
 [2021-04-16 02:40:15]: ***  [, Level 0]: 'power' has left the game (Timeout)
+[2021-04-16 02:40:23]: vollesprit [, Level 0]: thanks
+[2021-04-16 02:40:29]: BLACK [, Level 26]: np
