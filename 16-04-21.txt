@@ -12898,3 +12898,6 @@
 [2021-04-16 15:49:04]: ~DemoizL~ [, Level 39]: hey
 [2021-04-16 15:50:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-16 15:50:54]: ***  [, Level 0]: 'cunt' entered and joined the game
+[2021-04-16 15:50:59]: bob [Legacy™, Level 36]: i stop
+[2021-04-16 15:51:01]: bob [Legacy™, Level 36]: portal
+[2021-04-16 15:51:05]: bob [Legacy™, Level 36]: gay
