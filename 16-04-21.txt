@@ -4665,3 +4665,5 @@
 [2021-04-16 06:40:00]: Nudelsaft c: [FookinLads, Level 60]: #5 blocker: 5€
 [2021-04-16 06:40:01]: (1)RM | Arin [Retard MNKY, Level 0]: ops
 [2021-04-16 06:40:02]: Nudelsaft c: [FookinLads, Level 60]: still
+[2021-04-16 06:40:11]: ***  [, Level 0]: 'LioLo' has left the game
+[2021-04-16 06:40:16]: ***  [, Level 0]: 'LioLo' entered and joined the game
