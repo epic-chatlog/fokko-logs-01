@@ -788,3 +788,4 @@
 [2021-04-16 01:25:31]: Estarossa [, Level 11]: xdddd
 [2021-04-16 01:25:39]: ***  [, Level 0]: 'kiøn1029' has left the game
 [2021-04-16 01:25:41]: ***  [, Level 0]: 'Kiøn1029' has left the game
+[2021-04-16 01:25:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
