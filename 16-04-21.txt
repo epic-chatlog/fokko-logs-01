@@ -6728,3 +6728,11 @@
 [2021-04-16 08:45:55]: ***  [, Level 0]: 'SanoreX' entered and joined the game
 [2021-04-16 08:45:59]: Coca [Drunks, Level 22]: El patron: blocked you
 [2021-04-16 08:46:05]: [D] şlk10 [, Level 22]: Coca:help or war
+[2021-04-16 08:46:11]: ***  [, Level 0]: 'Dan' joined the spectators
+[2021-04-16 08:46:11]: ***  [, Level 0]: '(3)BLACK' entered and joined the game
+[2021-04-16 08:46:12]: Coca [Drunks, Level 22]: El patron: can i help him?
+[2021-04-16 08:46:12]: [D] şlk10 [, Level 22]: Coca: okey
+[2021-04-16 08:46:14]: ***  [, Level 0]: 'Dan' joined the game
+[2021-04-16 08:46:14]: ***  [, Level 0]: '(1)SanoreX' entered and joined the game
+[2021-04-16 08:46:16]: ***  [, Level 0]: '(2)SanoreX' entered and joined the game
+[2021-04-16 08:46:19]: ***  [, Level 0]: 'darkstar2' entered and joined the game
