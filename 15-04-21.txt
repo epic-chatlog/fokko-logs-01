@@ -13702,3 +13702,6 @@
 [2021-04-15 19:11:37]: ☺ [, Level 21]: qwait
 [2021-04-15 19:14:00]: Kirito [{TQuila}, Level 40]: this is not working with rifle
 [2021-04-15 19:14:05]: Kirito [{TQuila}, Level 40]: taser onky
+[2021-04-15 19:14:09]: ☺ [, Level 21]: ah ok
+[2021-04-15 19:14:17]: ☺ [, Level 21]: but i don't taser
+[2021-04-15 19:14:18]: Kirito [{TQuila}, Level 40]: look taser freeze you 1 sec
