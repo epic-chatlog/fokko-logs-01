@@ -4955,3 +4955,5 @@
 [2021-04-16 06:59:46]: lolpoep [Ape, Level 20]: OOF CLOSE
 [2021-04-16 06:59:49]: Ðeathscyth [, Level 2]: (1)kais: race
 [2021-04-16 06:59:54]: (1)kais [, Level 58]: Ðeathscyth: no ty
+[2021-04-16 07:00:00]: Ðeathscyth [, Level 2]: flappy: race
+[2021-04-16 07:00:06]: (1)kais [, Level 58]: Ðeathscyth: flappy is a bot
