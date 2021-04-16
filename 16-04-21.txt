@@ -6920,3 +6920,7 @@
 [2021-04-16 08:58:08]: ***  [, Level 0]: '*.!' has left the game
 [2021-04-16 08:58:18]: ***  [, Level 0]: '[D] mamikral011' has left the game (Timeout Protection over)
 [2021-04-16 08:58:18]: ***  [, Level 0]: 'mamikral011' has left the game (Timeout Protection over)
+[2021-04-16 08:58:28]: ***  [, Level 0]: 'H0dƌƔ1' entered and joined the game
+[2021-04-16 08:58:30]: ***  [, Level 0]: '(1)any²' has left the game
+[2021-04-16 08:58:30]: ***  [, Level 0]: '(1)any' has left the game
+[2021-04-16 08:58:35]: Killua [FookinLads, Level 37]: any heyo :D wats up
