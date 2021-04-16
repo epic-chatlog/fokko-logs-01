@@ -8026,3 +8026,6 @@
 [2021-04-16 10:39:19]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-16 10:39:24]: amogus [DogParty, Level 41]: Kenshi™: sus,
 [2021-04-16 10:39:31]: ***  [, Level 0]: 'Intensiv' entered and joined the game
+[2021-04-16 10:39:48]: amogus [DogParty, Level 41]: Kenshi™: wtf ?
+[2021-04-16 10:39:49]: (1)BLACK [, Level 22]: cookie:  GO FARM UP
+[2021-04-16 10:39:55]: ***  [, Level 0]: 'Lucas' has left the game (Too weak connection (not acked for 60 seconds))
