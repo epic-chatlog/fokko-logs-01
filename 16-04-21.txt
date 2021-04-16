@@ -7954,3 +7954,4 @@
 [2021-04-16 10:33:13]: SpawnBlocker™ [, Level 38]: Kezo: bruh
 [2021-04-16 10:33:18]: GODLIKe [, Level 44]: l2p
 [2021-04-16 10:33:20]: Kezo [DogParty, Level 41]: SpawBlockerâ: who are yo
+[2021-04-16 10:33:37]: SpawnBlocker™ [, Level 38]: ERROR: hii
