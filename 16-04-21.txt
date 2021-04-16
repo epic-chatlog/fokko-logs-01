@@ -2072,3 +2072,7 @@
 [2021-04-16 03:11:51]: ***  [, Level 0]: 'Coca' entered and joined the game
 [2021-04-16 03:11:56]: sL|Gabsty [SkinLover, Level 0]: xD
 [2021-04-16 03:11:56]: Axandos [, Level 26]: Cylox:  ? war
+[2021-04-16 03:12:03]: sL|Gabsty [SkinLover, Level 0]: xDD
+[2021-04-16 03:12:03]: ***  [, Level 0]: sL|Gabsty is on a killing spree with 5 blocks
+[2021-04-16 03:12:03]: ***  [, Level 0]: sL|Gabsty's killing spree was ended by Axandos (5 blocks)
+[2021-04-16 03:12:10]: vollesprit [, Level 0]: ~DemoizL~: je suis en train de revenir mais bon , je ne suis plus trop le bienvenu maintenant....
