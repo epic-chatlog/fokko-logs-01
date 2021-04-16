@@ -6924,3 +6924,10 @@
 [2021-04-16 08:58:30]: ***  [, Level 0]: '(1)any²' has left the game
 [2021-04-16 08:58:30]: ***  [, Level 0]: '(1)any' has left the game
 [2021-04-16 08:58:35]: Killua [FookinLads, Level 37]: any heyo :D wats up
+[2021-04-16 08:58:51]: Terra [, Level 4]: Vertex: xD
+[2021-04-16 08:58:52]: ***  [, Level 0]: '(1)casserole :p' has left the game (Timeout)
+[2021-04-16 08:58:52]: ***  [, Level 0]: 'casserole :p' has left the game (Timeout)
+[2021-04-16 08:58:54]: ***  [, Level 0]: 'Shy-ra.' entered and joined the game
+[2021-04-16 08:58:57]: (1)☺ [, Level 13]: any²: tes ou
+[2021-04-16 08:58:59]: JustRace [DogParty, Level 0]: EEEEEEEEEEE
+[2021-04-16 08:59:00]: JustRace [DogParty, Level 0]: cl_aimbot 1
