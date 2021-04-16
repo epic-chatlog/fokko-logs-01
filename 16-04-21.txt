@@ -1132,3 +1132,7 @@
 [2021-04-16 01:54:04]: any² [404, Level 42]: Nudelsaft c:: i have the high ground
 [2021-04-16 01:54:08]: Nudelsaft c: [FookinLads, Level 42]: any: nome
 [2021-04-16 01:54:08]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-16 01:54:10]: Nudelsaft c: [FookinLads, Level 42]: nbo me
+[2021-04-16 01:54:11]: Nudelsaft c: [FookinLads, Level 42]: no me
+[2021-04-16 01:54:15]: ***  [, Level 0]: 'Dilkohomnkiks' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 01:54:15]: ***  [, Level 0]: '[D] Dilkohomnki' has left the game (Too weak connection (not acked for 60 seconds))
