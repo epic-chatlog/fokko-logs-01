@@ -3419,3 +3419,5 @@
 [2021-04-16 04:49:08]: ***  [, Level 0]: 'darkstar3' has left the game
 [2021-04-16 04:49:09]: ***  [, Level 0]: Taip's killing spree was ended by вłøøđωave (5 blocks)
 [2021-04-16 04:49:17]: вłøøđωave [ƨơʅơ, Level 0]: Taip: gel now fun war
+[2021-04-16 04:49:23]: ***  [, Level 0]: Michel finished in: 2 minute(s) 44.58 second(s)
+[2021-04-16 04:49:30]: Flipper [, Level 0]: heet
