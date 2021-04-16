@@ -14533,3 +14533,6 @@
 [2021-04-15 23:45:32]: SanoreX [Chilli.*, Level 27]: [D] Kahve: al dummymi
 [2021-04-15 23:45:34]: kais [, Level 66]: no
 [2021-04-15 23:45:41]: ***  [, Level 0]: '#5 blocker' has left the game (Timeout Protection over)
+[2021-04-15 23:45:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-15 23:45:50]: SanoreX [Chilli.*, Level 27]: [D] Kahve: kaisi de al
+[2021-04-15 23:45:52]: SanoreX [Chilli.*, Level 27]: aşada
