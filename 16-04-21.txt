@@ -567,3 +567,4 @@
 [2021-04-16 01:03:09]: ***  [, Level 0]: ### 'Kahve's dog' Woof-Woof
 [2021-04-16 01:03:14]: ***  [, Level 0]: 'Kahve's cat' changed name to 'Intensiv__'
 [2021-04-16 01:03:16]: ***  [, Level 0]: 'Kahve's dog' changed name to 'ANNENİN's dog'
+[2021-04-16 01:03:40]: [D] #5 blocker [|*MorE*|, Level 0]: Boti.: xd na mesélj kaptál tőle nudeot vagy mi?
