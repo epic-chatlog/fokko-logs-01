@@ -4405,3 +4405,6 @@
 [2021-04-16 06:14:15]: ChillerDragon.* [|*KoG*|, Level 42]: xd
 [2021-04-16 06:14:16]: RM | Arin [Retard MNKY, Level 16]: du sack
 [2021-04-16 06:14:18]: Ðream [TrRShClNrRs, Level 47]: (1)RM | Arin: omg dude....
+[2021-04-16 06:14:24]: ChillerDragon [Chilli.*, Level 16]: Error: ChillerDragon.* missing command (usage: '/whisper name token command')
+[2021-04-16 06:14:30]: ***  [, Level 0]: '(1)kais' would have timed out, but can use timeout protection now
+[2021-04-16 06:14:30]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
