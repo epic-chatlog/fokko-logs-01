@@ -13598,3 +13598,4 @@
 [2021-04-15 18:44:10]: Kirito [{TQuila}, Level 40]: opopsd
 [2021-04-15 18:44:23]: Kirito [{TQuila}, Level 40]: danke
 [2021-04-15 18:44:49]: Kirito [{TQuila}, Level 40]: ez
+[2021-04-15 18:45:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
