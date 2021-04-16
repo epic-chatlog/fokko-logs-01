@@ -1138,3 +1138,6 @@
 [2021-04-16 01:54:15]: ***  [, Level 0]: '[D] Dilkohomnki' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-16 01:54:32]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
 [2021-04-16 01:54:34]: sythn's dog [DogParty, Level 41]: wtf
+[2021-04-16 01:54:40]: Kahve [, Level 24]: Intensiv: war?
+[2021-04-16 01:54:44]: ***  [, Level 0]: ### 'kiøn1029' A TESTVÉREK ÖSSZEFOGNAK EZEKKEL A CIGÓKKAL MINDIG A GOND VAN A PARTI ROBBAN MINT EGY ATOMBOMBA GENGSZTER A VÉR ITT AZ UTCA POKLA
+[2021-04-16 01:54:46]: sythn's dog [DogParty, Level 41]: lag
