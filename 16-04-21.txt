@@ -2675,3 +2675,5 @@
 [2021-04-16 03:56:20]: ***  [, Level 0]: ✯ | Bulash is on a killing spree with 5 blocks
 [2021-04-16 03:56:26]: ✯ | Bulash [|Supressed|, Level 0]: Swarfey: pro
 [2021-04-16 03:56:30]: Swarfey [FookinLads, Level 60]: u
+[2021-04-16 03:56:36]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 45.68 second(s)
+[2021-04-16 03:56:39]: Fearless [, Level 40]: so bad omg
