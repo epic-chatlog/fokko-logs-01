@@ -6787,3 +6787,8 @@
 [2021-04-16 08:48:43]: ***  [, Level 0]: 'oof' entered and joined the game
 [2021-04-16 08:49:05]: ***  [, Level 0]: 'Dan' joined the spectators
 [2021-04-16 08:49:09]: ***  [, Level 0]: 'Dan' joined the game
+[2021-04-16 08:49:16]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-16 08:49:16]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-16 08:49:20]: ***  [, Level 0]: el champeon's killing spree was ended by PommesdePins (17 blocks)
+[2021-04-16 08:49:22]: JustRace [DogParty, Level 0]: SanoreX:  my ip doesn'
+[2021-04-16 08:49:24]: ***  [, Level 0]: '(1)Nudelsaft c:' has left the game
