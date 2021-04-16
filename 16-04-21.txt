@@ -5860,3 +5860,8 @@
 [2021-04-16 07:47:43]: El patron [, Level 30]: El Shampoo: ?
 [2021-04-16 07:47:56]: El Shampoo [{TQuila}, Level 40]: El patron: ja
 [2021-04-16 07:48:02]: ***  [, Level 0]: '[D] şlk10' entered and joined the game
+[2021-04-16 07:48:09]: ***  [, Level 0]: 'Vertex' joined the spectators
+[2021-04-16 07:48:10]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-16 07:48:16]: ***  [, Level 0]: 'Vertex' joined the game
+[2021-04-16 07:48:17]: ***  [, Level 0]: 'Beetle' entered and joined the game
+[2021-04-16 07:48:17]: El Shampoo [{TQuila}, Level 40]: toxic El patron komm ma dc
