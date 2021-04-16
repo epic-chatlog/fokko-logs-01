@@ -14131,3 +14131,4 @@
 [2021-04-15 23:15:16]: SanoreX.* [Chilli.*, Level 22]: just u
 [2021-04-15 23:15:17]: Nudelsaft c: [FookinLads, Level 0]: yes u
 [2021-04-15 23:15:24]: [D] Kahve [, Level 19]: Ðream:
+[2021-04-15 23:15:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
