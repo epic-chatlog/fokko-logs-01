@@ -3055,3 +3055,8 @@
 [2021-04-16 04:21:30]: ***  [, Level 0]: 'Olegzhik' entered and joined the game
 [2021-04-16 04:21:34]: ***  [, Level 0]: 'UOYKCUFI' entered and joined the game
 [2021-04-16 04:21:35]: Nudelsaft c: [FookinLads, Level 60]: kais: ok im coming
+[2021-04-16 04:21:41]: ***  [, Level 0]: '[D] Nightmare' entered and joined the game
+[2021-04-16 04:21:41]: ***  [, Level 0]: 'Olegzhik' has left the game
+[2021-04-16 04:21:46]: (1)kais [, Level 58]: Nudelsaft c:: where ? xD
+[2021-04-16 04:21:50]: ***  [, Level 0]: kais finished in: 11 minute(s) 46.06 second(s)
+[2021-04-16 04:21:50]: ***  [, Level 0]: 'kais' finished the special race!
