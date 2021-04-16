@@ -8519,3 +8519,6 @@
 [2021-04-16 11:13:56]: Kezo [DogParty, Level 41]: [D] ♥TAKO degil
 [2021-04-16 11:13:58]: ***  [, Level 0]: 'f"{self.name}"' has left the game
 [2021-04-16 11:14:12]: ♥TAKO♥ [DogParty, Level 25]: Kezo:  knk sakin tmm için rahatlicaksa gideyim kötü yazayım
+[2021-04-16 11:14:24]: ☺ [, Level 22]: tu fais quou Zephir™
+[2021-04-16 11:14:24]: Intensiv_ [CrazyNoobs, Level 7]: ♥TAKO♥ yüzün belli oldu
+[2021-04-16 11:14:27]: BLACK [, Level 26]: Zephir™:  stack?
