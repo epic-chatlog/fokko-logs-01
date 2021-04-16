@@ -12645,3 +12645,6 @@
 [2021-04-16 14:40:26]: Killua [FookinLads, Level 37]: ok? sry i thoguth u were him
 [2021-04-16 14:40:37]: ☺ [, Level 22]: Killua: ok np
 [2021-04-16 14:40:42]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-16 14:40:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-16 14:40:52]: Bozzkurt [SkinLover, Level 0]: noob
+[2021-04-16 14:40:55]: ☺ [, Level 22]: Zephir™: pk ta pas fait la paix avec kirito
