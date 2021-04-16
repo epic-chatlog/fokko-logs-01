@@ -3390,3 +3390,5 @@
 [2021-04-16 04:46:13]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-16 04:46:14]: ***  [, Level 0]: 'Flipper' entered and joined the game
 [2021-04-16 04:46:14]: Taip [VergleriSay, Level 19]: GO BRR
+[2021-04-16 04:46:51]: Taip [VergleriSay, Level 19]: BLOODWAVE
+[2021-04-16 04:46:51]: Matiteusz [TrRShClNrRs, Level 37]: FUCK
