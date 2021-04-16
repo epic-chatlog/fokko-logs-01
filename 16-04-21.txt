@@ -4500,3 +4500,4 @@
 [2021-04-16 06:24:35]: RM | Arin [Retard MNKY, Level 16]: ERROR:  du bist doch 30 oder?
 [2021-04-16 06:24:37]: ***  [, Level 0]: 'ReccoTRTR' entered and joined the game
 [2021-04-16 06:25:07]: (1)RM | Arin [Retard MNKY, Level 0]: lass jetpack holen
+[2021-04-16 06:25:22]: ***  [, Level 0]: 'Ant' has left the game
