@@ -13970,3 +13970,5 @@
 [2021-04-15 23:01:20]: [D] Kahve [, Level 19]: wait
 [2021-04-15 23:01:24]: [D] Kahve [, Level 19]: noooo
 [2021-04-15 23:01:25]: [D] Kahve [, Level 19]: nooo
+[2021-04-15 23:01:31]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
+[2021-04-15 23:01:37]: [D] Kahve [, Level 19]: spec
