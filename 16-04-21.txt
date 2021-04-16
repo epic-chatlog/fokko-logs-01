@@ -7303,3 +7303,8 @@
 [2021-04-16 09:22:50]: ***  [, Level 0]: 'Geisel' entered and joined the game
 [2021-04-16 09:22:51]: ☺ [, Level 22]: any:
 [2021-04-16 09:22:52]: Good man [Drunks, Level 31]: any:
+[2021-04-16 09:22:53]: ***  [, Level 0]: 'Geisel' has left the game
+[2021-04-16 09:22:53]: Nudelsaft c: [FookinLads, Level 42]: its connected at this moment just somehow it isnt connected any
+[2021-04-16 09:22:58]: Kiøn1029 [.bad, Level 32]: az jó lenne ha nem menne
+[2021-04-16 09:23:01]: Nudelsaft c: [FookinLads, Level 42]: any: i can listen to messages but cant send any
+[2021-04-16 09:23:03]: Kiøn1029 [.bad, Level 32]: aludni is kéne
