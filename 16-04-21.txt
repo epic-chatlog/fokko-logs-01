@@ -2666,3 +2666,6 @@
 [2021-04-16 03:55:51]: ***  [, Level 0]: 'MATTHEW' entered and joined the game
 [2021-04-16 03:55:55]: ***  [, Level 0]: 'serwan' entered and joined the game
 [2021-04-16 03:55:56]: zZz [{D}, Level 0]: Matiteusz: ?.
+[2021-04-16 03:56:00]: Meetiteusz [TrRShClNrRs, Level 0]: zZz: i died
+[2021-04-16 03:56:02]: ***  [, Level 0]: 'BC|serwan' entered and joined the game
+[2021-04-16 03:56:05]: zZz [{D}, Level 0]: Matiteusz: i help
