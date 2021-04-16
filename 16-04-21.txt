@@ -7842,3 +7842,4 @@
 [2021-04-16 10:19:03]: (3)cookie [, Level 0]: allBlocker:
 [2021-04-16 10:19:11]: S Y T H N [, Level 37]: Killua: you started to fight me
 [2021-04-16 10:19:15]: Killua [FookinLads, Level 37]: S Y T H N: what are u dumb or smthing
+[2021-04-16 10:19:21]: Killua [FookinLads, Level 37]: S Y T H N: im asking if u want proof
