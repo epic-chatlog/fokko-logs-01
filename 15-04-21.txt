@@ -13706,3 +13706,5 @@
 [2021-04-15 19:14:17]: ☺ [, Level 21]: but i don't taser
 [2021-04-15 19:14:18]: Kirito [{TQuila}, Level 40]: look taser freeze you 1 sec
 [2021-04-15 19:14:28]: Kirito [{TQuila}, Level 40]: if you taser freezed and you fall into this
+[2021-04-15 19:14:34]: Kirito [{TQuila}, Level 40]: you will skip this
+[2021-04-15 19:14:38]: ☺ [, Level 21]: ahhhhh ok
