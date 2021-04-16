@@ -12782,3 +12782,5 @@
 [2021-04-16 15:12:13]: (1)☺ [, Level 14]: tkt je rigole
 [2021-04-16 15:12:27]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-16 15:12:44]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-16 15:13:28]: ***  [, Level 0]: TL|ŦƹƦ$ŦǾN is on a killing spree with 5 blocks
+[2021-04-16 15:13:33]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
