@@ -7654,3 +7654,4 @@
 [2021-04-16 10:01:49]: Zephir™ [, Level 40]: El patron: inf jumps ? xD$
 [2021-04-16 10:01:52]: [D] El patron [, Level 24]: no
 [2021-04-16 10:01:56]: [D] El patron [, Level 24]: Zephir™: look
+[2021-04-16 10:02:09]: (2)cookie [, Level 0]: who have jet pack
