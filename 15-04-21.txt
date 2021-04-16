@@ -14001,3 +14001,4 @@
 [2021-04-15 23:04:06]: SanoreX.* [Chilli.*, Level 22]: Kahve: eğer biz freezeysek ve botun solundaysak =  if (pChr->m_IsFrozen && pChr->m_Pos.x < m_Core.m_Pos.x){ anladın dimi kod bilgisi :D
 [2021-04-15 23:04:12]: [D] Kahve [, Level 19]: anladık aq
 [2021-04-15 23:04:14]: SanoreX.* [Chilli.*, Level 22]: HE
+[2021-04-15 23:04:28]: #5 blocker [|*MorE*|, Level 0]: [D] Kahve: help
