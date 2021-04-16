@@ -8621,3 +8621,5 @@
 [2021-04-16 11:20:18]: Zephir™ [, Level 40]: ☺: je vais chercher des jetpack
 [2021-04-16 11:20:23]: (1)☺ [, Level 13]: Zephir™: ok
 [2021-04-16 11:20:30]: Tziys* [DogParty, Level 39]: ♥TAKO♥: YETER
+[2021-04-16 11:20:47]: ***  [, Level 0]: 'Axel ²' entered and joined the game
+[2021-04-16 11:20:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
