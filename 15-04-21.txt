@@ -14513,3 +14513,5 @@
 [2021-04-15 23:44:11]: Intensiv [CrazyNoobs, Level 12]: lan
 [2021-04-15 23:44:13]: Intensiv [CrazyNoobs, Level 12]: noluyo
 [2021-04-15 23:44:27]: Kahve [, Level 24]: #5 blocker:
+[2021-04-15 23:44:32]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
+[2021-04-15 23:44:37]: Kahve [, Level 24]: #5 blocker: help?
