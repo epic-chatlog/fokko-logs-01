@@ -12917,3 +12917,6 @@
 [2021-04-16 15:53:52]: Zephir™ [404, Level 40]: ~DemoizL~: j'ai 1 semaine de vacances a compter d'aujourd'hui
 [2021-04-16 15:53:57]: ***  [, Level 0]: 'WIR' entered and joined the game
 [2021-04-16 15:53:59]: ~DemoizL~ [, Level 39]: Zephir™: moi aussi
+[2021-04-16 15:54:00]: ***  [, Level 0]: 'WIR' has left the game
+[2021-04-16 15:54:06]: ***  [, Level 0]: 'sammy' has left the game
+[2021-04-16 15:54:08]: Zephir™ [404, Level 40]: ~DemoizL~: sa veut dire 7 jours ou tu vas pas jouer
