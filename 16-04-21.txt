@@ -8317,3 +8317,6 @@
 [2021-04-16 11:01:39]: Zephir™ [, Level 40]: El patron: o
 [2021-04-16 11:01:41]: GODLIKe [, Level 44]: noob
 [2021-04-16 11:01:44]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-16 11:01:48]: ***  [, Level 0]: 'Yoakao' entered and joined the game
+[2021-04-16 11:01:50]: динер [TUPIKI, Level 0]: ПАТРОГ
+[2021-04-16 11:01:53]: динер [TUPIKI, Level 0]: ПАТРОн
