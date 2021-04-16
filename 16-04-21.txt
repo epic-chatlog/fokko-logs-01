@@ -12604,3 +12604,7 @@
 [2021-04-16 14:37:58]: Killua [FookinLads, Level 37]: say smthing
 [2021-04-16 14:37:59]: Killua [FookinLads, Level 37]: in french
 [2021-04-16 14:38:03]: ☺ [, Level 22]: yes
+[2021-04-16 14:38:05]: Killua [FookinLads, Level 37]: say
+[2021-04-16 14:38:11]: ☺ [, Level 22]: slt mon frere
+[2021-04-16 14:38:13]: ***  [, Level 0]: 'Dan' has left the game
+[2021-04-16 14:38:17]: ***  [, Level 0]: 'Dan' entered and joined the game
