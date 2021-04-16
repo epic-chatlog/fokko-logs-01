@@ -1091,3 +1091,6 @@
 [2021-04-16 01:50:21]: ***  [, Level 0]: 'Soros' entered and joined the game
 [2021-04-16 01:50:26]: comic [comically, Level 15]: ofc
 [2021-04-16 01:50:41]: [D]ϻɪɔʜɑʟ [, Level 20]: any²: stop pls
+[2021-04-16 01:50:43]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-16 01:50:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-16 01:50:55]: Estarossa [, Level 11]: Marcisten:
