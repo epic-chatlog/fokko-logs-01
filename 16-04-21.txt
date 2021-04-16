@@ -1910,3 +1910,8 @@
 [2021-04-16 03:02:33]: ***  [, Level 0]: 'BLACK' has left the game
 [2021-04-16 03:02:41]: ***  [, Level 0]: 'MOM' has left the game
 [2021-04-16 03:02:42]: El patron [, Level 30]: xd
+[2021-04-16 03:02:48]: any [404, Level 38]: pk ?
+[2021-04-16 03:02:49]: vollesprit [, Level 0]: ~DemoizL~: besoin d'aide ?
+[2021-04-16 03:02:52]: El patron [, Level 30]: mamikral011: ow
+[2021-04-16 03:02:57]: ~DemoizL~ [, Level 39]: vollesprit: tu pourras pas
+[2021-04-16 03:02:58]: any [404, Level 38]: YelloWorlD: pk ?
