@@ -12768,3 +12768,5 @@
 [2021-04-16 15:10:53]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-16 15:11:01]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-16 15:11:02]: (1)☺ [, Level 14]: je oeux letre aussi tu said
+[2021-04-16 15:11:13]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-16 15:11:14]: Kenshi™ [404, Level 35]: ☺: sauf que moi c'est pour de vrai :D
