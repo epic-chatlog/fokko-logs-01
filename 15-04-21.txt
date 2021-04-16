@@ -13461,3 +13461,6 @@
 [2021-04-15 18:24:08]: bob [Legacy™, Level 36]: U SAW IT
 [2021-04-15 18:24:11]: bob [Legacy™, Level 36]: AND LET HIM GO
 [2021-04-15 18:24:12]: bob [Legacy™, Level 36]: HAHAHAH
+[2021-04-15 18:24:13]: ***  [, Level 0]: 'bob' has been muted for 60 seconds
+[2021-04-15 18:24:16]: BLACK [, Level 26]: u thought u will just kill him
+[2021-04-15 18:24:25]: ☺ [, Level 21]: ok
