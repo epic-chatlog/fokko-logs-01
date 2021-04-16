@@ -442,3 +442,6 @@
 [2021-04-16 00:55:11]: [D] #5 blocker [|*MorE*|, Level 0]: Kahve: give
 [2021-04-16 00:55:16]: Kahve [, Level 24]: wtf
 [2021-04-16 00:55:19]: Kiøn1029 [.bad, Level 32]: Marcisten: ja
+[2021-04-16 00:55:20]: [D] #5 blocker [|*MorE*|, Level 0]: 1 minute
+[2021-04-16 00:55:21]: Kahve [, Level 24]: i have deep freeze
+[2021-04-16 00:55:25]: Kiøn1029 [.bad, Level 32]: Marcisten: ez az abc szerint van
