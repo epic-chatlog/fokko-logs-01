@@ -13371,3 +13371,6 @@
 [2021-04-15 17:34:34]: Kirito [{TQuila}, Level 40]: bob: 11 jähriger hurensohn hast dir portal mit dem nuttengeld deiner mutter gekauft
 [2021-04-15 17:34:35]: ***  [, Level 0]: 'WIR' entered and joined the game
 [2021-04-15 17:34:58]: ***  [, Level 0]: 'WIR' has left the game
+[2021-04-15 17:35:46]: (1)☺ [, Level 13]: Zʷʰʸˀ:
+[2021-04-15 17:35:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-15 17:35:52]: bob [Legacy™, Level 36]: Kirito: komm leave endlioch
