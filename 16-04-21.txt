@@ -940,3 +940,4 @@
 [2021-04-16 01:38:33]: ***  [, Level 0]: any²'s killing spree was ended by (1)el champeon (8 blocks)
 [2021-04-16 01:38:37]: ***  [, Level 0]: 'Nudelsaft c:' has left the game (Timeout Protection over)
 [2021-04-16 01:38:37]: ***  [, Level 0]: 'Swarfey' has left the game (Timeout Protection over)
+[2021-04-16 01:38:58]: ***  [, Level 0]: 'neim' has left the game
