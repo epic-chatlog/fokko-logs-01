@@ -6475,3 +6475,11 @@
 [2021-04-16 08:25:31]: Nudelsaft c: [FookinLads, Level 60]: and the close msg closed it
 [2021-04-16 08:25:34]: Nudelsaft c: [FookinLads, Level 60]: no
 [2021-04-16 08:25:38]: Nudelsaft c: [FookinLads, Level 60]: the close msg didnt get sent probabl
+[2021-04-16 08:25:39]: Nudelsaft c: [FookinLads, Level 60]: y
+[2021-04-16 08:25:39]:   [, Level 0]: Ding Dong: pause
+[2021-04-16 08:25:47]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
+[2021-04-16 08:25:47]: Killua [FookinLads, Level 37]: Nudelsaft c:: oh i get it
+[2021-04-16 08:25:48]:   [, Level 0]: Ding Dong: pause
+[2021-04-16 08:25:49]: Nudelsaft c: [FookinLads, Level 60]: this is too big for my brain
+[2021-04-16 08:25:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-16 08:25:50]:   [, Level 0]: vihandu tee: ☺: CAN DRop me in the shop
