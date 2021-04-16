@@ -3512,3 +3512,7 @@
 [2021-04-16 05:00:24]: Flipper [, Level 0]: stop
 [2021-04-16 05:00:35]: Intensiv__ [CrazyNoobs, Level 13]: mamikral011:
 [2021-04-16 05:00:42]: [D] mamikral011 [DogParty, Level 0]: Intensiv__: NE
+[2021-04-16 05:00:48]: Intensiv__ [CrazyNoobs, Level 13]: birazdan polise gelcem alırsın
+[2021-04-16 05:00:49]: #5 blocker [|*MorE*|, Level 0]: Nudelsaft c:: free?
+[2021-04-16 05:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-16 05:00:51]: ***  [, Level 0]: 'komando' entered and joined the game
