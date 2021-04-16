@@ -78,3 +78,6 @@
 [2021-04-16 00:08:47]: SanoreX [Chilli.*, Level 27]: lAN
 [2021-04-16 00:08:49]: SanoreX [Chilli.*, Level 27]: BANLANCAN
 [2021-04-16 00:08:53]: SanoreX [Chilli.*, Level 27]: greyfoxx
+[2021-04-16 00:08:54]: SanoreX [Chilli.*, Level 27]: yap
+[2021-04-16 00:08:58]: SanoreX [Chilli.*, Level 27]: öbürü deişik
+[2021-04-16 00:09:03]: ***  [, Level 0]: 'test' entered and joined the game
