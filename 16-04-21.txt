@@ -1165,3 +1165,6 @@
 [2021-04-16 01:56:17]: sythn's dog [DogParty, Level 41]: why im noob
 [2021-04-16 01:56:19]: Estarossa [, Level 11]: any: xD
 [2021-04-16 01:56:22]: [D] #5 blocker [|*MorE*|, Level 0]: hook
+[2021-04-16 01:56:24]: ***  [, Level 0]: 'sythn's dog' has left the game
+[2021-04-16 01:56:24]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-16 01:56:25]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
