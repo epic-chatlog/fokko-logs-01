@@ -3885,3 +3885,4 @@
 [2021-04-16 05:33:49]: ***  [, Level 0]: 'Cosmo' entered and joined the game
 [2021-04-16 05:33:55]: Flipper [, Level 0]: do you have endles?
 [2021-04-16 05:34:01]: ***  [, Level 0]: '(1)Cosmo' entered and joined the game
+[2021-04-16 05:34:07]: RM | Arin [Retard MNKY, Level 0]: bad
