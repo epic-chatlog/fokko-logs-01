@@ -4421,3 +4421,4 @@
 [2021-04-16 06:15:21]: ***  [, Level 0]: 'דצםלקטח' entered and joined the game
 [2021-04-16 06:15:22]: ***  [, Level 0]: ### '(1)DiscordBridge' test: asd
 [2021-04-16 06:15:29]: ***  [, Level 0]: ### '(1)DiscordBridge' test: ez bot abuse
+[2021-04-16 06:15:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
