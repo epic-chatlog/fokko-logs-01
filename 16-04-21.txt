@@ -2394,3 +2394,6 @@
 [2021-04-16 03:38:18]: Nudelsaft c: [FookinLads, Level 42]: 2
 [2021-04-16 03:38:20]: Nudelsaft c: [FookinLads, Level 42]: 1
 [2021-04-16 03:38:35]: Taip [VergleriSay, Level 19]: wanted
+[2021-04-16 03:38:50]: Coca [Drunks, Level 22]: Nudelsaft c:: stop
+[2021-04-16 03:38:54]: Nudelsaft c: [FookinLads, Level 42]: Coca: no u dog
+[2021-04-16 03:38:55]: lolpoep [Ape, Level 0]: sun ????
