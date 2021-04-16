@@ -8583,3 +8583,8 @@
 [2021-04-16 11:17:38]: динер [TUPIKI, Level 0]: go team
 [2021-04-16 11:17:42]: ***  [, Level 0]: 'Rishishi' entered and joined the game
 [2021-04-16 11:17:48]: ***  [, Level 0]: Falco642 is on a killing spree with 5 blocks
+[2021-04-16 11:17:48]: динер [TUPIKI, Level 0]: not battle
+[2021-04-16 11:17:53]: Mista bombastic [TrRShClNrRs, Level 40]: Axel: hiii
+[2021-04-16 11:17:55]:   [, Level 0]: Axel: Mista bombastic: hi
+[2021-04-16 11:17:56]: динер [TUPIKI, Level 0]: ok
+[2021-04-16 11:18:00]: динер [TUPIKI, Level 0]: ?
