@@ -1565,3 +1565,8 @@
 [2021-04-16 02:38:21]: Kahve [, Level 24]: wtf lag
 [2021-04-16 02:38:23]: ***  [, Level 0]: Soros is on a killing spree with 15 blocks
 [2021-04-16 02:38:24]: ***  [, Level 0]: Soros's killing spree was ended by BC|Tixnix (15 blocks)
+[2021-04-16 02:38:24]: BLACK [, Level 26]: lag
+[2021-04-16 02:38:27]: ***  [, Level 0]: '(1)Kahve' has left the game
+[2021-04-16 02:38:27]: ***  [, Level 0]: '(1)[D] Kahve' has left the game
+[2021-04-16 02:38:32]: Kahve [, Level 24]: any:
+[2021-04-16 02:38:33]: [D] #5 blocker [|*MorE*|, Level 0]: no
