@@ -4808,3 +4808,5 @@
 [2021-04-16 06:47:50]: ERROR [404, Level 75]: anyway got one ez pz
 [2021-04-16 06:47:58]: kais [, Level 66]: uhm, neat
 [2021-04-16 06:48:05]: weqe [669, Level 13]: Shiro.: come help
+[2021-04-16 06:48:20]: weqe [669, Level 13]: Kirito: ??
+[2021-04-16 06:48:21]: Shiro. [404, Level 51]: weqe: u helped my enemy once, and tried to help him, and error killed u so no men
