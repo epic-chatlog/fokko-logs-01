@@ -7331,3 +7331,6 @@
 [2021-04-16 09:24:03]: ***  [, Level 0]: '(1)s!n<u85' has left the game
 [2021-04-16 09:24:03]: Nudelsaft c: [FookinLads, Level 42]: any: wdym
 [2021-04-16 09:24:06]: Good man [Drunks, Level 31]: TZSA: help me
+[2021-04-16 09:24:20]: ***  [, Level 0]: 'darkstar2' has left the game
+[2021-04-16 09:24:20]: ***  [, Level 0]: 'darkstar' has left the game
+[2021-04-16 09:24:25]: Boti. [.bad, Level 33]: majd szerómon lehet tesztelni haxeket
