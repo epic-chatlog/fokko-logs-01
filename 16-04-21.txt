@@ -3291,3 +3291,5 @@
 [2021-04-16 04:34:30]: ***  [, Level 0]: 'Shiro,' entered and joined the game
 [2021-04-16 04:34:57]: [D] El patron [, Level 24]: TZSA: wtf
 [2021-04-16 04:35:09]: TZSA [, Level 0]: El patron: you helped BC|Tixnix
+[2021-04-16 04:35:15]: [D] El patron [, Level 24]: TZSA: gay
+[2021-04-16 04:35:24]: TZSA [, Level 0]: [D] El patron: ye he is
