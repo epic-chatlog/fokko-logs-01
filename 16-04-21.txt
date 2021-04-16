@@ -2716,3 +2716,7 @@
 [2021-04-16 03:59:35]: Fearless [, Level 40]: Nudelsaft c::  he needs dummy men
 [2021-04-16 03:59:35]: ***  [, Level 0]: 'El patron' has left the game (Timeout Protection over)
 [2021-04-16 03:59:35]: ***  [, Level 0]: '[D] patron' has left the game (Timeout Protection over)
+[2021-04-16 03:59:39]: ***  [, Level 0]: ✯ | Bulash is on a killing spree with 10 blocks
+[2021-04-16 03:59:43]: ✯ | Bulash [|Supressed|, Level 0]: Fearless: sosossoossos oboaodadad
+[2021-04-16 03:59:43]: Fearless [, Level 40]: ✯ | Bulash:  learn to play
+[2021-04-16 03:59:45]: Nudelsaft c: [FookinLads, Level 42]: (1)Fearless: he needs dummy and 10 dogs men
