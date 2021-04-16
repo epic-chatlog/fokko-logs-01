@@ -1884,3 +1884,4 @@
 [2021-04-16 03:00:26]: [D] mamikral011 [DogParty, Level 0]: YelloWorlD: ultra pro
 [2021-04-16 03:00:40]: ***  [, Level 0]: 'Vertex' has left the game
 [2021-04-16 03:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-16 03:00:58]: YelloWorlD [DogParty, Level 0]: any: give ton comtpe
