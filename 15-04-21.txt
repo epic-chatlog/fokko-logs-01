@@ -14112,3 +14112,6 @@
 [2021-04-15 23:14:17]: ***  [, Level 0]: 'test' has left the game
 [2021-04-15 23:14:20]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: ÜÜÜÜÜÜÜÜÜÜÜÜüÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ
 [2021-04-15 23:14:20]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-15 23:14:22]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 23:14:25]: SanoreX.* [Chilli.*, Level 22]: NO Ü
+[2021-04-15 23:14:30]: Nudelsaft c: [FookinLads, Level 0]: no u
