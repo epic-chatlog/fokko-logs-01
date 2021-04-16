@@ -6673,3 +6673,4 @@
 [2021-04-16 08:41:43]: El patron [, Level 30]: (1)☺:
 [2021-04-16 08:41:43]: ***  [, Level 0]: 'El Monkey' has left the game
 [2021-04-16 08:41:43]: ***  [, Level 0]: 'RM | Arin' has left the game
+[2021-04-16 08:42:03]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
