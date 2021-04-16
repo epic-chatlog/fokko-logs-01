@@ -4502,3 +4502,5 @@
 [2021-04-16 06:25:07]: (1)RM | Arin [Retard MNKY, Level 0]: lass jetpack holen
 [2021-04-16 06:25:22]: ***  [, Level 0]: 'Ant' has left the game
 [2021-04-16 06:25:44]: lolpoep [Ape, Level 0]: no
+[2021-04-16 06:25:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-16 06:26:01]: (1)RM | Arin [Retard MNKY, Level 0]: oha
