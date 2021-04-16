@@ -2292,3 +2292,4 @@
 [2021-04-16 03:30:30]: ***  [, Level 0]: 612. BC|serwan Time: 01:48.16, requested by BC|serwan
 [2021-04-16 03:30:34]: ***  [, Level 0]: BC|Tixnix finished in: 4 minute(s) 51.52 second(s)
 [2021-04-16 03:30:35]: ***  [, Level 0]: 'darkstar2' entered and joined the game
+[2021-04-16 03:30:40]: ***  [, Level 0]: 'Zephir™' has left the game
