@@ -13110,3 +13110,5 @@
 [2021-04-15 17:05:15]: (1)☺ [, Level 13]: (1)Zʷʰʸˀ:
 [2021-04-15 17:05:30]: ***  [, Level 0]: 'Lebly' has left the game
 [2021-04-15 17:05:35]: (1)☺ [, Level 13]: bob: its you fault
+[2021-04-15 17:05:45]: bob [Legacy™, Level 36]: FIGHT
+[2021-04-15 17:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
