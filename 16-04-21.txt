@@ -2063,3 +2063,5 @@
 [2021-04-16 03:10:51]: ***  [, Level 0]: 'Good man' entered and joined the game
 [2021-04-16 03:10:55]: [D] BC|serwan [, Level 0]: sL|Gabsty: KANN I HELLP HEM
 [2021-04-16 03:10:58]: ***  [, Level 0]: '[D] #5 blocker' has left the game
+[2021-04-16 03:11:28]: #5 blocker [|*MorE*|, Level 24]: Hady: My mom banned me from the machine so I'm playing secretly can't you give it away now? he'll be home soon
+[2021-04-16 03:11:29]: ***  [, Level 0]: 'Good man' has left the game
