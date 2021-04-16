@@ -13144,3 +13144,6 @@
 [2021-04-16 16:36:08]: Zephir™ [404, Level 40]: bob: idc you, i just want farm
 [2021-04-16 16:36:10]: ***  [, Level 0]: 'Eliathan' entered and joined the game
 [2021-04-16 16:36:32]: ***  [, Level 0]: 'Eliathan' has left the game
+[2021-04-16 16:36:35]: ***  [, Level 0]: 'Eliathan' entered and joined the game
+[2021-04-16 16:36:38]: Zephir™ [404, Level 40]: bob: and i never give up
+[2021-04-16 16:36:44]: bob [Legacy™, Level 36]: i want go sleep
