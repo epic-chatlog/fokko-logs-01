@@ -397,3 +397,4 @@
 [2021-04-16 00:50:45]: Kahve [, Level 24]: wtf
 [2021-04-16 00:50:49]: [D] #5 blocker [|*MorE*|, Level 0]: zXDDD
 [2021-04-16 00:50:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-16 00:51:00]: ***  [, Level 0]: 'dummier' entered and joined the game
