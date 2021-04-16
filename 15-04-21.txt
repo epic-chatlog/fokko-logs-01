@@ -14273,3 +14273,8 @@
 [2021-04-15 23:27:07]: Kahve [, Level 24]: tab+ a or d size
 [2021-04-15 23:27:08]: Nudelsaft c: [FookinLads, Level 0]: yes
 [2021-04-15 23:27:12]: SanoreX.* [Chilli.*, Level 22]: noaağüüü
+[2021-04-15 23:27:16]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: u cant write ğ
+[2021-04-15 23:27:18]: SanoreX.* [Chilli.*, Level 22]: ü
+[2021-04-15 23:27:19]: SanoreX.* [Chilli.*, Level 22]: İ
+[2021-04-15 23:27:20]: Nudelsaft c: [FookinLads, Level 0]: ^g
+[2021-04-15 23:27:23]: SanoreX.* [Chilli.*, Level 22]: XD
