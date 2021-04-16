@@ -1647,3 +1647,5 @@
 [2021-04-16 02:42:42]: ***  [, Level 0]: allBlocker's killing spree was ended by BC|Tixnix (6 blocks)
 [2021-04-16 02:42:46]: Kahve [, Level 24]: nooooooooo
 [2021-04-16 02:42:47]: Kahve [, Level 24]: xd
+[2021-04-16 02:43:07]: ***  [, Level 0]: 'Vertex' joined the minigame 'Instagib Boom FNG', use '/boomfng' to join aswell
+[2021-04-16 02:43:10]: BLACK [, Level 26]: see?
