@@ -1817,3 +1817,6 @@
 [2021-04-16 02:54:45]: BLACK [, Level 26]: Hady: where are u from
 [2021-04-16 02:54:51]: ***  [, Level 0]: 'power' has left the game
 [2021-04-16 02:54:55]: Hady [new bot, Level 33]: BLACK:  in egypt
+[2021-04-16 02:55:04]: ***  [, Level 0]: BC|Tixnix is on a killing spree with 5 blocks
+[2021-04-16 02:55:04]: BLACK [, Level 26]: Hady: arab?
+[2021-04-16 02:55:08]: [D] #5 blocker [|*MorE*|, Level 0]: Hady: ok
