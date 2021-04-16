@@ -13611,3 +13611,4 @@
 [2021-04-15 18:48:13]: ***  [, Level 0]: bob's killing spree was ended by Kirito (6 blocks)
 [2021-04-15 18:50:06]: ☺ [, Level 21]: bob: xd
 [2021-04-15 18:50:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-15 18:51:09]: ☺ [, Level 21]: cmon
