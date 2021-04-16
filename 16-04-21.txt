@@ -6520,3 +6520,5 @@
 [2021-04-16 08:29:26]: ***  [, Level 0]: Soros's killing spree was ended by PommesdePins (5 blocks)
 [2021-04-16 08:29:39]: Killua [FookinLads, Level 37]: ok good to know ERROR
 [2021-04-16 08:29:54]: Swarfey [FookinLads, Level 42]: 0addwar ERROR
+[2021-04-16 08:29:57]: Swarfey [FookinLads, Level 42]: wtf error on warlist
+[2021-04-16 08:30:03]: Killua [FookinLads, Level 37]: Swarfey: why not
