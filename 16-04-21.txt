@@ -6886,3 +6886,5 @@
 [2021-04-16 08:54:18]: ***  [, Level 0]: 'mamikral011' would have timed out, but can use timeout protection now
 [2021-04-16 08:54:36]: (1)☺ [, Level 13]: Good man:
 [2021-04-16 08:55:00]:   [, Level 0]: (1)Good man: Geisel: help
+[2021-04-16 08:55:09]: ***  [, Level 0]: 'BitchPlease Jr.' joined the spectators
+[2021-04-16 08:55:12]: ***  [, Level 0]: 'BitchPlease Jr.' joined the game
