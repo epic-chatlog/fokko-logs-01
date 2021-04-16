@@ -7883,3 +7883,5 @@
 [2021-04-16 10:24:28]: (3)cookie [, Level 0]: Estarossa:  i wait hear
 [2021-04-16 10:24:47]: Meliodas [.bad, Level 24]: (3)cookie: xd
 [2021-04-16 10:25:22]: [D] El patron [, Level 24]: Zephir™: luck
+[2021-04-16 10:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-16 10:25:55]: ***  [, Level 0]: '(3)cookie' has left the game
