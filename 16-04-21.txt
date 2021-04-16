@@ -11202,3 +11202,6 @@
 [2021-04-16 13:20:37]: SpawnBlocker™ [, Level 38]: GODLIKe: ez
 [2021-04-16 13:20:42]: GODLIKe [, Level 44]: u
 [2021-04-16 13:20:45]: Killua [FookinLads, Level 0]: , no
+[2021-04-16 13:20:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-16 13:20:50]: GODLIKe [, Level 44]: .: yes or no
+[2021-04-16 13:20:53]: .Peאnut~* [FookinLads, Level 38]: ,: wellow
