@@ -3068,3 +3068,5 @@
 [2021-04-16 04:22:07]: kais [, Level 66]: Nudelsaft c:: i'm waiting, come :3
 [2021-04-16 04:22:11]: Nudelsaft c: [FookinLads, Level 60]: ok wait
 [2021-04-16 04:22:12]: Nudelsaft c: [FookinLads, Level 60]: spec me
+[2021-04-16 04:22:17]: ***  [, Level 0]: 'Michel' entered and joined the game
+[2021-04-16 04:22:25]: kais [, Level 66]: Nudelsaft c:: k
