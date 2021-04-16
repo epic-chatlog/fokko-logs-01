@@ -1266,3 +1266,5 @@
 [2021-04-16 02:07:28]: ***  [, Level 0]: 'kais' entered and joined the game
 [2021-04-16 02:08:03]: Cylox [, Level 31]: ı wuit
 [2021-04-16 02:08:07]: Cylox [, Level 31]: ı quit
+[2021-04-16 02:08:19]: ***  [, Level 0]: 'Cylox.' has left the game
+[2021-04-16 02:08:19]: ***  [, Level 0]: 'Cylox' has left the game
