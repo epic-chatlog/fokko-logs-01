@@ -706,3 +706,4 @@
 [2021-04-16 01:14:25]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
 [2021-04-16 01:14:34]: kiøn1029 [.bad, Level 0]: #5 blocker: ide adnád az accot egy kicsit?
 [2021-04-16 01:14:35]: [D] #5 blocker [|*MorE*|, Level 0]: Kiøn1029: persze minek?
+[2021-04-16 01:14:37]: kiøn1029 [.bad, Level 0]: #5 blocker: ide adnád az accot egy kicsit?
