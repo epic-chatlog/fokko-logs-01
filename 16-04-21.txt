@@ -2794,3 +2794,5 @@
 [2021-04-16 04:04:35]: Fearless [, Level 40]: Nudelsaft c::  but u only coowner shiro is my owner
 [2021-04-16 04:04:36]: Nudelsaft c: [FookinLads, Level 42]: #5 blocker: which one do u want i have 10
 [2021-04-16 04:04:44]: Foxie♥ [{TQuila}, Level 36]: Nudelsaft c:: 10 what
+[2021-04-16 04:04:47]: Nudelsaft c: [FookinLads, Level 42]: 10 taser accs
+[2021-04-16 04:04:52]: JustRace [DogParty, Level 0]: cl_aimbot 1
