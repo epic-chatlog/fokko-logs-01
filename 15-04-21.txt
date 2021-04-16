@@ -13403,3 +13403,4 @@
 [2021-04-15 17:46:07]: Hady [new bot, Level 0]: laggy
 [2021-04-15 17:47:01]: ***  [, Level 0]: 'Hady' has left the game
 [2021-04-15 17:47:15]: (1)☺ [, Level 13]: where is the flag red
+[2021-04-15 17:50:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
