@@ -13843,3 +13843,6 @@
 [2021-04-15 22:42:12]: #5 blocker [|*MorE*|, Level 0]: ok
 [2021-04-15 22:42:15]: [D] Kahve [, Level 19]: kill
 [2021-04-15 22:42:28]: [D] Kahve [, Level 19]: xd
+[2021-04-15 22:42:32]: ***  [, Level 0]: 'flappy.*' entered and joined the game
+[2021-04-15 22:42:38]: #5 blocker [|*MorE*|, Level 0]: and hammerfly up?
+[2021-04-15 22:42:40]: [D] Kahve [, Level 19]: hammer fly
