@@ -7603,3 +7603,4 @@
 [2021-04-16 09:52:22]: [D] El patron [, Level 24]: wait
 [2021-04-16 09:52:24]: cookie [, Level 0]: fff
 [2021-04-16 09:52:32]: cookie [, Level 0]: Vertex
+[2021-04-16 09:52:41]: cookie [, Level 0]: Vertex:  help
