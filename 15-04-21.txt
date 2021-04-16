@@ -14221,3 +14221,7 @@
 [2021-04-15 23:23:07]: ***  [, Level 0]: 'Rem's bae' entered and joined the game
 [2021-04-15 23:23:12]: SanoreX.* [Chilli.*, Level 22]: HHAA
 [2021-04-15 23:23:13]: SanoreX.* [Chilli.*, Level 22]: no
+[2021-04-15 23:23:15]: ***  [, Level 0]: 'Rem's dummy' entered and joined the game
+[2021-04-15 23:23:17]: SanoreX.* [Chilli.*, Level 22]: just boost
+[2021-04-15 23:23:19]: SanoreX.* [Chilli.*, Level 22]: grenade boost
+[2021-04-15 23:23:24]: #5 blocker [|*MorE*|, Level 0]: nah?
