@@ -6635,3 +6635,8 @@
 [2021-04-16 08:37:16]: ***  [, Level 0]: 'Ant' has left the game
 [2021-04-16 08:37:19]: ***  [, Level 0]: Soros is on a killing spree with 25 blocks
 [2021-04-16 08:37:19]: Nudelsaft c: [FookinLads, Level 60]: and so the server keeps sending messages
+[2021-04-16 08:37:20]: ***  [, Level 0]: 'Grasshopper' has left the game
+[2021-04-16 08:37:21]: ***  [, Level 0]: 'Beetle' has left the game
+[2021-04-16 08:37:21]: ***  [, Level 0]: 'LadyBug' has left the game
+[2021-04-16 08:37:23]: Nudelsaft c: [FookinLads, Level 60]: lool
+[2021-04-16 08:37:27]: ***  [, Level 0]: 'Pa1n' has left the game
