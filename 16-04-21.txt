@@ -1750,3 +1750,7 @@
 [2021-04-16 02:50:36]: sL|Gabsty [SkinLover, Level 0]: Axandos: hahaha
 [2021-04-16 02:50:38]: ***  [, Level 0]: 'Soros' entered and joined the game
 [2021-04-16 02:50:47]: BLACK [, Level 26]: Vertex: u spiked me last week?
+[2021-04-16 02:50:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-16 02:50:52]: Hady [new bot, Level 33]: #5 blocker:  wait
+[2021-04-16 02:50:52]: Axandos² [, Level 21]: ok nvm
+[2021-04-16 02:50:54]: Axandos² [, Level 21]: gewonnen
