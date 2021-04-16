@@ -6075,3 +6075,6 @@
 [2021-04-16 08:01:27]: ***  [, Level 0]: vollesprit finished in: 3 minute(s) 50.70 second(s)
 [2021-04-16 08:01:43]: Flipper [, Level 0]: XDD
 [2021-04-16 08:01:43]: ~DemoizL~ [, Level 39]: xD
+[2021-04-16 08:01:46]: Flipper [, Level 0]: XD
+[2021-04-16 08:01:47]: vollesprit [, Level 1]: ah
+[2021-04-16 08:01:54]: Flipper [, Level 0]: wait here
