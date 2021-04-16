@@ -2113,3 +2113,6 @@
 [2021-04-16 03:14:58]: Dark_Heracles * [, Level 0]: [D] El patron: why blocked me, i am not random bro
 [2021-04-16 03:15:03]: ***  [, Level 0]: [D] El patron is on a killing spree with 5 blocks
 [2021-04-16 03:15:06]: ***  [, Level 0]: Axandos is on a killing spree with 5 blocks
+[2021-04-16 03:15:09]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
+[2021-04-16 03:15:10]: BC|serwan [BC, Level 0]: Axandos: OK
+[2021-04-16 03:15:19]: Axandos [, Level 26]: sL|Gabsty:  so alleine wieder x)
