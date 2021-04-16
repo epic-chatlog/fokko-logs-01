@@ -12667,3 +12667,4 @@
 [2021-04-16 14:43:08]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-16 14:43:27]: ☺ [, Level 22]: bob il est la Zephir™
 [2021-04-16 14:43:37]: Kenshi™ [404, Level 35]: ☺: js
+[2021-04-16 14:43:42]: ☺ [, Level 22]: il vas me casser les couille dans mon far mze
