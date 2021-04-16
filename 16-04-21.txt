@@ -3060,3 +3060,6 @@
 [2021-04-16 04:21:46]: (1)kais [, Level 58]: Nudelsaft c:: where ? xD
 [2021-04-16 04:21:50]: ***  [, Level 0]: kais finished in: 11 minute(s) 46.06 second(s)
 [2021-04-16 04:21:50]: ***  [, Level 0]: 'kais' finished the special race!
+[2021-04-16 04:21:51]: Nudelsaft c: [FookinLads, Level 60]: wtf u are not police
+[2021-04-16 04:21:53]: ***  [, Level 0]: '(1)kais' finished the special race!
+[2021-04-16 04:21:56]: (1)kais [, Level 58]: Nudelsaft c:: no
