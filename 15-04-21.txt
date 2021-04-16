@@ -14493,3 +14493,6 @@
 [2021-04-15 23:42:36]: SanoreX.* [Chilli.*, Level 22]: gitme
 [2021-04-15 23:42:42]: SanoreX.* [Chilli.*, Level 22]: yukarı
 [2021-04-15 23:42:45]: SanoreX.* [Chilli.*, Level 22]: spawna gidek da
+[2021-04-15 23:42:57]: ***  [, Level 0]: 'kais' entered and joined the game
+[2021-04-15 23:42:57]: SanoreX.* [Chilli.*, Level 22]: jetpack vers
+[2021-04-15 23:43:01]: SanoreX.* [Chilli.*, Level 22]: al bi
