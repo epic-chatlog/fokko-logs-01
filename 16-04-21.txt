@@ -4208,3 +4208,4 @@
 [2021-04-16 05:59:45]: ERROR. [404, Level 57]: gestern hat er mich geblockt heute kriegt er es zurück
 [2021-04-16 05:59:53]: (2)Cosmo [, Level 0]: [D] El patron: sorry
 [2021-04-16 05:59:56]: ***  [, Level 0]: 'LadyBug' entered and joined the game
+[2021-04-16 06:00:02]: ***  [, Level 0]: 'Telefantastic' entered and joined the game
