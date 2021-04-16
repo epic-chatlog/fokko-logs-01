@@ -1625,3 +1625,7 @@
 [2021-04-16 02:41:36]: [D] #5 blocker [|*MorE*|, Level 0]: any
 [2021-04-16 02:41:39]: [D] #5 blocker [|*MorE*|, Level 0]: any²:
 [2021-04-16 02:41:42]: [D] #5 blocker [|*MorE*|, Level 0]: yess
+[2021-04-16 02:41:47]: BLACK [, Level 26]: n
+[2021-04-16 02:41:48]: [D] #5 blocker [|*MorE*|, Level 0]: any²: i helped to open
+[2021-04-16 02:41:53]: Kahve [, Level 24]: any: np x2 XD
+[2021-04-16 02:41:55]: any [404, Level 38]: Thx !! :D
