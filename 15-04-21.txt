@@ -14575,3 +14575,4 @@
 [2021-04-15 23:48:33]: Kahve [, Level 24]: #5 blocker: say ./plot spawn
 [2021-04-15 23:48:36]: Kahve [, Level 24]: and kill
 [2021-04-15 23:48:39]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-15 23:48:59]: Kahve [, Level 24]: if you dead auto spawn plot
