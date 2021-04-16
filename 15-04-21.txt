@@ -14491,3 +14491,5 @@
 [2021-04-15 23:42:29]: SanoreX.* [Chilli.*, Level 22]: Kahve:
 [2021-04-15 23:42:34]: SanoreX.* [Chilli.*, Level 22]: Kahve: al beni yukları
 [2021-04-15 23:42:36]: SanoreX.* [Chilli.*, Level 22]: gitme
+[2021-04-15 23:42:42]: SanoreX.* [Chilli.*, Level 22]: yukarı
+[2021-04-15 23:42:45]: SanoreX.* [Chilli.*, Level 22]: spawna gidek da
