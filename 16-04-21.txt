@@ -3208,3 +3208,4 @@
 [2021-04-16 04:29:07]: El patron [, Level 30]: Nudelsaft c:: help
 [2021-04-16 04:29:09]: Scromnik [, Level 0]: КАК ВІБРАЦА
 [2021-04-16 04:29:09]: ***  [, Level 0]: 'WIR' entered and joined the game
+[2021-04-16 04:29:18]: ***  [, Level 0]: ES's killing spree was ended by BC|serwan (10 blocks)
