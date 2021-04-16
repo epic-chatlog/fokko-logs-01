@@ -4392,3 +4392,6 @@
 [2021-04-16 06:13:33]: ***  [, Level 0]: [D] TZSA finished in: 2 minute(s) 18.06 second(s)
 [2021-04-16 06:13:36]: ***  [, Level 0]: '(1)/' changed name to '(1)/testsetestes'
 [2021-04-16 06:13:39]: (1)/testseteste [FookinLads, Level 60]: wieso ChillerDragon
+[2021-04-16 06:13:43]: (1)/testseteste [FookinLads, Level 60]: das ist fies
+[2021-04-16 06:13:53]: ***  [, Level 0]: 'Beetle' entered and joined the game
+[2021-04-16 06:13:53]: ChillerDragon.* [|*KoG*|, Level 42]: was (1)/testseteste ? xd
