@@ -8255,3 +8255,9 @@
 [2021-04-16 10:57:24]: ✯|Not Bulash [|Supressed|, Level 0]: Kezo: pro
 [2021-04-16 10:57:25]: ***  [, Level 0]: 'Ļåҕ Lobster' entered and joined the game
 [2021-04-16 10:57:25]: Intensiv_ [CrazyNoobs, Level 7]: GODLIKe:  adamsın
+[2021-04-16 10:57:29]: Intensiv_ [CrazyNoobs, Level 7]: blokla o köpeği
+[2021-04-16 10:57:32]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-16 10:57:33]: Matiteusz [TrRShClNrRs, Level 37]: .: took*
+[2021-04-16 10:57:34]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-16 10:57:38]: ☺ [, Level 22]: Zephir™:
+[2021-04-16 10:57:46]: ✯|Not Bulash [|Supressed|, Level 0]: Kezo: pro
