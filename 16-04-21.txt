@@ -10472,3 +10472,11 @@
 [2021-04-16 12:37:44]: ***  [, Level 0]: '(1)[D] taco bell' entered and joined the game
 [2021-04-16 12:37:44]: deSi [TR, Level 0]: |HolyHo|: my bob team
 [2021-04-16 12:37:46]: ***  [, Level 0]: '(1)[D] taco bell' has left the game (Timeout Protection used)
+[2021-04-16 12:37:58]: Mista bombastic [TrRShClNrRs, Level 40]: bb
+[2021-04-16 12:37:58]: ***  [, Level 0]: 'Mista bombastic' has left the game
+[2021-04-16 12:38:01]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-16 12:38:02]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-16 12:38:05]: ***  [, Level 0]: '[D] mamikral011' has left the game
+[2021-04-16 12:38:09]: ***  [, Level 0]: 'IwillBlockYou' has left the game
+[2021-04-16 12:38:10]: ***  [, Level 0]: 'GOLD' has left the game
+[2021-04-16 12:38:10]: ***  [, Level 0]: 'YelloWorlD' has left the game
