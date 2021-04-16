@@ -7683,3 +7683,5 @@
 [2021-04-16 10:05:40]: ***  [, Level 0]: 'Vertex' has left the game (Timeout Protection over)
 [2021-04-16 10:05:40]: ***  [, Level 0]: '[D] Vertex' has left the game (Timeout Protection over)
 [2021-04-16 10:05:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-16 10:06:15]: [D] El patron [, Level 24]: a
+[2021-04-16 10:06:17]: [D] El patron [, Level 24]: Zephir™: nub
