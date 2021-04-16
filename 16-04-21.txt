@@ -6091,3 +6091,6 @@
 [2021-04-16 08:03:02]: ☺ [, Level 22]: El shampo: ok
 [2021-04-16 08:03:09]: ☺ [, Level 22]: flag ?
 [2021-04-16 08:03:10]: ***  [, Level 0]: 'TZSA' entered and joined the game
+[2021-04-16 08:03:22]: Flipper [, Level 16]: ~DemoizL~ bye
+[2021-04-16 08:03:23]: El shampo [{TQuila}, Level 40]: where is it
+[2021-04-16 08:03:25]: ~DemoizL~ [, Level 39]: Flipper: bye
