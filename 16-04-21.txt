@@ -3336,3 +3336,7 @@
 [2021-04-16 04:42:36]: any [404, Level 38]: Cylox:
 [2021-04-16 04:42:49]: Taip [VergleriSay, Level 19]: fun war?=
 [2021-04-16 04:42:51]: Taip [VergleriSay, Level 19]: ?
+[2021-04-16 04:43:03]: Taip [VergleriSay, Level 19]: fun war
+[2021-04-16 04:43:05]: Meetiteusz [TrRShClNrRs, Level 28]: Ðream: k
+[2021-04-16 04:43:09]: ***  [, Level 0]: 'komando' has left the game
+[2021-04-16 04:43:09]: ***  [, Level 0]: '1' has left the game
