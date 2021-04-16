@@ -4758,3 +4758,8 @@
 [2021-04-16 06:45:48]: weqe [669, Level 13]: Ðream: kiss brother RM | Arin
 [2021-04-16 06:45:49]: Ðream [TrRShClNrRs, Level 47]: xD
 [2021-04-16 06:45:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-16 06:45:59]: #5 blocker [|*MorE*|, Level 0]: weqe:
+[2021-04-16 06:46:00]: Flupper [, Level 40]: Matiteusz: when did i kill you
+[2021-04-16 06:46:02]: Matiteusz [TrRShClNrRs, Level 37]: Flupper: So you was above me and did nothing
+[2021-04-16 06:46:06]: Flupper [, Level 40]: i was afk
+[2021-04-16 06:46:08]: ***  [, Level 0]: [D] TZSA's killing spree was ended by ERROR (6 blocks)
