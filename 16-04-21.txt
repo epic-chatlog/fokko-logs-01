@@ -8140,3 +8140,9 @@
 [2021-04-16 10:49:09]: Zephir™ [, Level 40]: Kezo: why ?
 [2021-04-16 10:49:14]: Kezo [DogParty, Level 41]: Zephir™: idk
 [2021-04-16 10:49:14]: GODLIKe [, Level 44]: SpawBlockerâ:
+[2021-04-16 10:49:39]: ***  [, Level 0]: '[D] El patron' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 10:49:39]: ***  [, Level 0]: 'El patron' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 10:49:40]: GODLIKe. [, Level 0]: WTF
+[2021-04-16 10:49:42]: ***  [, Level 0]: 'динер' entered and joined the game
+[2021-04-16 10:49:48]: Kezo [DogParty, Level 41]: Zephir™: WHY
+[2021-04-16 10:49:50]: Zephir™ [, Level 40]: Kezo: stop help my ennemi
