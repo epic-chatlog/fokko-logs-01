@@ -2236,3 +2236,7 @@
 [2021-04-16 03:25:10]: ***  [, Level 0]: GOLD finished in: 0 minute(s) 56.16 second(s)
 [2021-04-16 03:25:10]: ***  [, Level 0]: New record: 2 minute(s) 19.40 second(s) better.
 [2021-04-16 03:25:16]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-16 03:25:17]: El Patron's fan [, Level 0]: i am blocked alone
+[2021-04-16 03:25:19]: Meetiteusz [TrRShClNrRs, Level 0]: mamikral011: thx
+[2021-04-16 03:25:19]: zZz [{D}, Level 0]: GOLD: ...
+[2021-04-16 03:25:22]: mamikral011 [DogParty, Level 0]: Meetiteusz: np
