@@ -8721,3 +8721,6 @@
 [2021-04-16 11:27:09]: Yoakao [, Level 0]: [D] taco bell: I need to log in?
 [2021-04-16 11:27:10]: taco bell [, Level 10]: sus
 [2021-04-16 11:27:15]: Axel [TrRShClNrRs, Level 30]: Meetiteusz: sus
+[2021-04-16 11:27:17]: ***  [, Level 0]: 'agent 007' has left the game
+[2021-04-16 11:27:24]: Meetiteusz [TrRShClNrRs, Level 28]: Axel: amogus sus
+[2021-04-16 11:27:25]: Intensiv_ [CrazyNoobs, Level 7]: ♥TAKO♥:  help
