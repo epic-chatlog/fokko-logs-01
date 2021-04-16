@@ -1582,3 +1582,7 @@
 [2021-04-16 02:38:53]: Kahve [, Level 24]: #5 blocker:
 [2021-04-16 02:38:55]: any² [404, Level 42]: Zephir™: moyen tu m'aide x)
 [2021-04-16 02:39:02]: Kahve [, Level 24]: I like turtles.
+[2021-04-16 02:39:03]: Kahve [, Level 24]: LOOOOL
+[2021-04-16 02:39:08]: ***  [, Level 0]: 'falkenauge' has left the game
+[2021-04-16 02:39:08]: ***  [, Level 0]: '[D] falkenauge' has left the game
+[2021-04-16 02:39:12]: ***  [, Level 0]: 'Ahahah' entered and joined the game
