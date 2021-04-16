@@ -6817,3 +6817,7 @@
 [2021-04-16 08:50:46]: El patron [, Level 30]: Coca: spiki
 [2021-04-16 08:50:49]: Kiøn1029 [.bad, Level 32]: megpróbáljak csatlakozni bombayre?
 [2021-04-16 08:50:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-16 08:50:52]: El patron [, Level 30]: joke
+[2021-04-16 08:50:55]: No~Filter [, Level 0]: jo ez
+[2021-04-16 08:51:00]: ***  [, Level 0]: 'darkstar4' entered and joined the game
+[2021-04-16 08:51:01]: ***  [, Level 0]: 'Dan' joined the spectators
