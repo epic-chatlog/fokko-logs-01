@@ -7563,3 +7563,5 @@
 [2021-04-16 09:45:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-16 09:45:56]: (1)cookie [, Level 0]: wtf
 [2021-04-16 09:46:03]: (1)cookie [, Level 0]: bob: due
+[2021-04-16 09:46:07]: bob [Legacy™, Level 36]: cookie: wtf
+[2021-04-16 09:46:11]: Isegrin [, Level 55]: bob: BLOCKING = SIN JESUS TOLD ME
