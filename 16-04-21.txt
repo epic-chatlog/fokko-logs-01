@@ -4854,3 +4854,5 @@
 [2021-04-16 06:50:47]: RM | Arin [Retard MNKY, Level 16]: ERROR: !!! safe ma
 [2021-04-16 06:50:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-16 06:51:05]: ERROR [404, Level 75]: ops
+[2021-04-16 06:51:16]: ***  [, Level 0]: 'Cosmo' entered and joined the game
+[2021-04-16 06:51:16]: #5 blocker [|*MorE*|, Level 24]: weqe: i help you?
