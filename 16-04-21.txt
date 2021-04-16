@@ -961,3 +961,5 @@
 [2021-04-16 01:40:42]: Kiøn1029 [.bad, Level 0]: látszik
 [2021-04-16 01:40:44]: ***  [, Level 0]: 'andrea' has left the game (Timeout)
 [2021-04-16 01:40:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-16 01:40:56]: ***  [, Level 0]: ### 'general's dog' Woof-Woof
+[2021-04-16 01:41:00]: ***  [, Level 0]: 'any' changed name to 'General's wife'
