@@ -6952,3 +6952,4 @@
 [2021-04-16 09:02:38]: ***  [, Level 0]: 'uki9' has left the game
 [2021-04-16 09:02:41]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-16 09:02:49]: ***  [, Level 0]: 'Flipper' has left the game
+[2021-04-16 09:02:55]: JustRace [DogParty, Level 0]: cl_aimbot 1
