@@ -3477,3 +3477,5 @@
 [2021-04-16 04:55:31]: #5 blocker [|*MorE*|, Level 0]: Kiøn1029: xd
 [2021-04-16 04:55:43]: vollesprit [, Level 0]: any , i am not his ennemy , i am his ennemy's firend
 [2021-04-16 04:55:44]: Kiøn1029 [.bad, Level 0]: de melyik buzi reportolt
+[2021-04-16 04:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-16 04:55:53]: vollesprit [, Level 0]: any friend
