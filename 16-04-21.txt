@@ -4255,3 +4255,8 @@
 [2021-04-16 06:03:41]: ***  [, Level 0]: New record:  7.12 second(s) better.
 [2021-04-16 06:04:03]: RM | Arin [Retard MNKY, Level 16]: JUNGE Nudelsaft c:  DU HIRNVERBRANNTER IDIOT SAFE MICH LOS
 [2021-04-16 06:04:05]: reppulF [, Level 0]: chiller
+[2021-04-16 06:04:06]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
+[2021-04-16 06:04:10]: ***  [, Level 0]: '(1)RM | Arin' has left the game
+[2021-04-16 06:04:11]: ***  [, Level 0]: '(1)RM | Arin' entered and joined the game
+[2021-04-16 06:04:12]: Nudelsaft c: [FookinLads, Level 60]: (1)RM | Arin: schrei mich nicht an
+[2021-04-16 06:04:14]: Nudelsaft c: [FookinLads, Level 60]: >:(
