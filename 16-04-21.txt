@@ -2307,3 +2307,6 @@
 [2021-04-16 03:32:38]: ***  [, Level 0]: 'Taip' entered and joined the game
 [2021-04-16 03:32:41]: Matiteusz [TrRShClNrRs, Level 37]: any: why gold is gay
 [2021-04-16 03:32:42]: [D] mamikral011 [DogParty, Level 27]: YelloWorlD: bb
+[2021-04-16 03:32:52]: ***  [, Level 0]: '[D] mamikral011' has left the game
+[2021-04-16 03:32:52]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-16 03:32:56]: ***  [, Level 0]: 'Prox' has left the game
