@@ -10480,3 +10480,6 @@
 [2021-04-16 12:38:09]: ***  [, Level 0]: 'IwillBlockYou' has left the game
 [2021-04-16 12:38:10]: ***  [, Level 0]: 'GOLD' has left the game
 [2021-04-16 12:38:10]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-16 12:38:17]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-16 12:38:17]: ☺ [, Level 22]: deSi:
+[2021-04-16 12:38:20]:   [, Level 0]: Andresss: Noémi: dc
