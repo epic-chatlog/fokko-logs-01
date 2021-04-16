@@ -13837,3 +13837,5 @@
 [2021-04-15 22:41:10]: ***  [, Level 0]: '#5 blocker' entered and joined the game
 [2021-04-15 22:41:29]: [D] Kahve [, Level 19]: #5 blocker: u have laser?
 [2021-04-15 22:41:38]: #5 blocker [|*MorE*|, Level 0]: [D] Kahve: no why?
+[2021-04-15 22:41:46]: [D] Kahve [, Level 19]: i need go to endless
+[2021-04-15 22:41:50]: [D] Kahve [, Level 19]: and laser
