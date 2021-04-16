@@ -13054,3 +13054,5 @@
 [2021-04-16 16:20:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-16 16:20:55]: bob [Legacy™, Level 36]: no
 [2021-04-16 16:21:06]: bob [Legacy™, Level 36]: ok
+[2021-04-16 16:21:10]: Zephir™ [404, Level 40]: bob: come again
+[2021-04-16 16:21:11]: bob [Legacy™, Level 36]: i take back what i said
