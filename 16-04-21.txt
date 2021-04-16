@@ -7753,3 +7753,5 @@
 [2021-04-16 10:10:47]: ***  [, Level 0]: 'mizie' joined the game
 [2021-04-16 10:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-16 10:10:52]: ***  [, Level 0]: 'mizie' joined the spectators
+[2021-04-16 10:10:56]: ***  [, Level 0]: 'mizie' joined the game
+[2021-04-16 10:11:07]: [D] El patron [, Level 24]: Zephir™: say sorry
