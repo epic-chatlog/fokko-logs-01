@@ -14107,3 +14107,8 @@
 [2021-04-15 23:14:00]: Nudelsaft c: [FookinLads, Level 0]: no u
 [2021-04-15 23:14:03]: SanoreX.* [Chilli.*, Level 22]: GY
 [2021-04-15 23:14:06]: SanoreX.* [Chilli.*, Level 22]: GAYü a
+[2021-04-15 23:14:09]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-15 23:14:16]: SanoreX.* [Chilli.*, Level 22]: ÜDELSAFT
+[2021-04-15 23:14:17]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 23:14:20]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: ÜÜÜÜÜÜÜÜÜÜÜÜüÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ
+[2021-04-15 23:14:20]: ***  [, Level 0]: 'test' entered and joined the game
