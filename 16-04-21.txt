@@ -6992,3 +6992,5 @@
 [2021-04-16 09:05:55]: Boti. [.bad, Level 0]: ciganyok
 [2021-04-16 09:06:05]: (1)☺ [, Level 13]: jump
 [2021-04-16 09:06:06]: No~Filter [, Level 0]: xD
+[2021-04-16 09:06:20]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
+[2021-04-16 09:06:20]: No~Filter [, Level 0]: szia
