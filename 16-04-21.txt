@@ -1794,3 +1794,9 @@
 [2021-04-16 02:52:54]: ***  [, Level 0]: '(1)test' entered and joined the game
 [2021-04-16 02:52:56]: sL|Gabsty [SkinLover, Level 0]: Axandos²: was hast du denn?
 [2021-04-16 02:53:04]: Axandos [, Level 26]: schicke gleich bild
+[2021-04-16 02:53:08]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-16 02:53:09]: ***  [, Level 0]: 'Intensiv__' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 02:53:09]: ***  [, Level 0]: 'Intensiv_' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 02:53:09]: ***  [, Level 0]: 'Intensiv' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 02:53:12]: BLACK [, Level 26]: any²: omg
+[2021-04-16 02:53:12]: any [404, Level 38]: BLACK: deposit
