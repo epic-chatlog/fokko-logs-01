@@ -885,3 +885,5 @@
 [2021-04-16 01:35:02]: Estarossa [, Level 11]: Kezo: sry
 [2021-04-16 01:35:08]: ***  [, Level 0]: (1)Soros is on a killing spree with 5 blocks
 [2021-04-16 01:35:10]: ***  [, Level 0]: (1)Soros's killing spree was ended by [D]ϻɪɔʜɑʟ (5 blocks)
+[2021-04-16 01:35:14]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-16 01:35:19]: Kezo [DogParty, Level 41]: pros play
