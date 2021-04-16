@@ -12892,3 +12892,4 @@
 [2021-04-16 15:43:36]: bob [Legacy™, Level 36]: xd
 [2021-04-16 15:44:13]: ***  [, Level 0]: 'cunt' has left the game
 [2021-04-16 15:45:04]: Zephir™ [404, Level 40]: i have 200 amo so gl
+[2021-04-16 15:45:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
