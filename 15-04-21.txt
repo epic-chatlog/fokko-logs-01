@@ -13851,3 +13851,5 @@
 [2021-04-15 22:43:01]: ***  [, Level 0]: 'SanoreX' entered and joined the game
 [2021-04-15 22:43:33]: ***  [, Level 0]: 'flappy.*' has left the game (Timeout)
 [2021-04-15 22:43:36]: [D] Kahve [, Level 19]: wait
+[2021-04-15 22:43:46]: Kahve [, Level 23]: wait
+[2021-04-15 22:43:46]: #5 blocker [|*MorE*|, Level 0]: [D] Kahve: laser
