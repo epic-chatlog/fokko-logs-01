@@ -2376,3 +2376,6 @@
 [2021-04-16 03:37:03]: Taip [VergleriSay, Level 19]: 5 2
 [2021-04-16 03:37:12]: Taip [VergleriSay, Level 19]: 6 2
 [2021-04-16 03:37:14]: Intensiv_ [CrazyNoobs, Level 0]: patron:  help
+[2021-04-16 03:37:19]: Taip [VergleriSay, Level 19]: 7 2
+[2021-04-16 03:37:20]: #5 blocker [|*MorE*|, Level 24]: Cylox: pls give me a taser accouuuuunt
+[2021-04-16 03:37:30]: Taip [VergleriSay, Level 19]: wtf
