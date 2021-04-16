@@ -400,3 +400,5 @@
 [2021-04-16 00:51:00]: ***  [, Level 0]: 'dummier' entered and joined the game
 [2021-04-16 00:51:13]: Intensiv__ [CrazyNoobs, Level 0]: sorry
 [2021-04-16 00:51:16]: Kahve [, Level 24]: lan bi daha 4 hesapla afk kalanın
+[2021-04-16 00:51:20]: Kahve [, Level 24]: bu lag ne ake
+[2021-04-16 00:51:27]: Intensiv__ [CrazyNoobs, Level 0]: sadads
