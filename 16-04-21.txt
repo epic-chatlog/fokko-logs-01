@@ -3817,3 +3817,6 @@
 [2021-04-16 05:29:52]: ***  [, Level 0]: (1) finished in: 3 minute(s) 52.52 second(s)
 [2021-04-16 05:29:53]: Flipper [, Level 0]: any dont help arin
 [2021-04-16 05:29:54]: ***  [, Level 0]: Nerien finished in: 4 minute(s)  2.62 second(s)
+[2021-04-16 05:29:57]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-16 05:29:58]: Intensiv_ [CrazyNoobs, Level 7]: evet
+[2021-04-16 05:30:06]: [D] mamikral011 [DogParty, Level 0]: any²: bank
