@@ -12853,3 +12853,5 @@
 [2021-04-16 15:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-16 15:31:33]: (2)BLACK [, Level 13]: xD
 [2021-04-16 15:31:48]: (1)☺ [, Level 14]: Zephir™: je dois partir je pense
+[2021-04-16 15:32:07]: Zephir™ [404, Level 40]: a +
+[2021-04-16 15:32:14]: (2)BLACK [, Level 13]: ☺: U HAVE EXTRA MONEY?
