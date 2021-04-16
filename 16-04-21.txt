@@ -121,3 +121,4 @@
 [2021-04-16 00:17:53]: ***  [, Level 0]: '(1)Soros' entered and joined the game
 [2021-04-16 00:18:14]: ***  [, Level 0]: 'el champeon' has left the game (Timeout)
 [2021-04-16 00:18:14]: ***  [, Level 0]: 'Soros' has left the game (Timeout)
+[2021-04-16 00:18:40]: ϻɪɔʜɑʟ [, Level 24]: MISIONE COMPIUTE
