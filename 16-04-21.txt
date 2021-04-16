@@ -4546,3 +4546,6 @@
 [2021-04-16 06:30:08]: S Y T H N [, Level 39]: Flupper: fleal
 [2021-04-16 06:30:11]: S Y T H N [, Level 39]: Flupper: fearles
 [2021-04-16 06:30:19]: Flupper [, Level 40]: im not gonna run mat are you spiking me tho
+[2021-04-16 06:30:23]: ***  [, Level 0]: 'vihandu tee' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 06:30:25]: Kirito [{TQuila}, Level 40]: TZSA: <
+[2021-04-16 06:30:29]: Flupper [, Level 40]: i have nothing anyway
