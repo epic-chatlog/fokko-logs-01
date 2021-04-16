@@ -6122,3 +6122,4 @@
 [2021-04-16 08:05:02]: Swarfey [FookinLads, Level 42]: ja
 [2021-04-16 08:05:02]: Beetle [, Level 35]: bugs
 [2021-04-16 08:05:03]: Beetle [, Level 35]: insects
+[2021-04-16 08:05:14]: ***  [, Level 0]: 'WIR' entered and joined the game
