@@ -13422,3 +13422,4 @@
 [2021-04-15 18:15:50]: ***  [, Level 0]: 'Maniu' has left the game
 [2021-04-15 18:17:52]: ***  [, Level 0]: '[D] 1000' entered and joined the game
 [2021-04-15 18:18:06]: ***  [, Level 0]: '[D] 1000' has left the game
+[2021-04-15 18:18:42]: ***  [, Level 0]: 'bob' entered and joined the game
