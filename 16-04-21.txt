@@ -6324,3 +6324,9 @@
 [2021-04-16 08:16:59]: Beetle [, Level 35]: TZSA: Grasshopper is not me
 [2021-04-16 08:17:00]: ***  [, Level 0]: Kirito is on a killing spree with 5 blocks
 [2021-04-16 08:17:02]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: Swarfey: go for it
+[2021-04-16 08:17:03]: Beetle [, Level 35]: TZSA: u killed me so war
+[2021-04-16 08:17:06]: vollesprit [, Level 1]: ennemi ?
+[2021-04-16 08:17:07]: Swarfey [FookinLads, Level 42]: TL|ŦƹƦ$ŦǾN: i can listen to chat messages without being on the server or looking in discord
+[2021-04-16 08:17:14]: TZSA [, Level 0]: Beetle: ye i wanted to help them
+[2021-04-16 08:17:15]: ***  [, Level 0]: 'Geisel' entered and joined the game
+[2021-04-16 08:17:15]: Swarfey [FookinLads, Level 42]: TL|ŦƹƦ$ŦǾN: aka without any active client
