@@ -3380,3 +3380,7 @@
 [2021-04-16 04:45:53]: 1 [, Level 0]: Meetiteusz:  HELP
 [2021-04-16 04:45:54]: Taip [VergleriSay, Level 19]: ./block
 [2021-04-16 04:45:55]: 1 [, Level 0]: Meetiteusz:  HELP
+[2021-04-16 04:45:55]: ***  [, Level 0]: 'Eden' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-16 04:46:00]: 1 [, Level 0]: Meetiteusz:  HELP
+[2021-04-16 04:46:00]: Meetiteusz [TrRShClNrRs, Level 28]: 1: stfu for a moment
+[2021-04-16 04:46:05]: ***  [, Level 0]: 'вłøøđωave' joined the minigame 'Block', use '/block' to join aswell
