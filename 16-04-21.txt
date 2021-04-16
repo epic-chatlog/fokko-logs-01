@@ -12995,3 +12995,4 @@
 [2021-04-16 16:10:43]: ***  [, Level 0]: Zephir™'s killing spree was ended by bob (9 blocks)
 [2021-04-16 16:10:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 16:10:53]: bob [Legacy™, Level 36]: without endless its 10 0
+[2021-04-16 16:11:19]: bob [Legacy™, Level 36]: BLACK:
