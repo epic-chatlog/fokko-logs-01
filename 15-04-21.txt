@@ -14235,3 +14235,7 @@
 [2021-04-15 23:24:33]: ***  [, Level 0]: 'Rem's dummy' has left the game
 [2021-04-15 23:24:33]: ***  [, Level 0]: 'Rem's bae' has left the game
 [2021-04-15 23:24:36]: ***  [, Level 0]: '(1)Rem's bae' has left the game
+[2021-04-15 23:24:38]: SanoreX [Chilli.*, Level 27]: ne?
+[2021-04-15 23:24:39]: SanoreX [Chilli.*, Level 27]: ask me
+[2021-04-15 23:24:41]: SanoreX [Chilli.*, Level 27]: flag?
+[2021-04-15 23:24:45]: ***  [, Level 0]: 'Rem's bae' entered and joined the game
