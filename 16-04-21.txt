@@ -4970,3 +4970,7 @@
 [2021-04-16 07:00:58]: Kirito [{TQuila}, Level 40]: xDD
 [2021-04-16 07:00:59]: mamikral011 [DogParty, Level 0]: Flupper: ?
 [2021-04-16 07:01:00]: (1)kais [, Level 58]: any: nan tkt
+[2021-04-16 07:01:02]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-16 07:01:04]: Ðeathscyth [, Level 2]: (1)kais: lemme come with u pls
+[2021-04-16 07:01:05]: any [404, Level 38]: kais: jte tp
+[2021-04-16 07:01:08]: (1)kais [, Level 58]: any: nan tkt
