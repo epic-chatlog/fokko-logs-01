@@ -3468,3 +3468,7 @@
 [2021-04-16 04:55:06]: ***  [, Level 0]: UOYKCUFI finished in: 8 minute(s)  4.36 second(s)
 [2021-04-16 04:55:06]: ***  [, Level 0]: 'UOYKCUFI' finished the special race!
 [2021-04-16 04:55:10]: Flipper [, Level 0]: stop
+[2021-04-16 04:55:16]: Kiøn1029 [.bad, Level 0]: #5 blocker: kibasztak az fng-ről
+[2021-04-16 04:55:17]: any [404, Level 38]: HeavyGeneral: vollesprit is ur enemie ?
+[2021-04-16 04:55:22]: Kiøn1029 [.bad, Level 0]: #5 blocker: 50 óra
+[2021-04-16 04:55:24]: vollesprit [, Level 0]: ah
