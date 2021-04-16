@@ -1215,3 +1215,6 @@
 [2021-04-16 02:01:07]: ***  [, Level 0]: falkenauge finished in: 3 minute(s) 50.40 second(s)
 [2021-04-16 02:01:07]: ***  [, Level 0]: 'falkenauge' finished the special race!
 [2021-04-16 02:01:08]: lessname [, Level 0]: yea
+[2021-04-16 02:01:16]: [D] #5 blocker [|*MorE*|, Level 0]: Cylox: pls comeback help me
+[2021-04-16 02:01:17]: El patron [, Level 30]: Nudelsaft c:: nein
+[2021-04-16 02:01:20]: Ðream [TrRShClNrRs, Level 47]: lessname: help in super room pls
