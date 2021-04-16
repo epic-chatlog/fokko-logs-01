@@ -4039,3 +4039,5 @@
 [2021-04-16 05:47:59]: ***  [, Level 0]: 'BULLETBOT' has left the game
 [2021-04-16 05:48:21]: woona [, Level 48]: ChillerDragon: ghostdragon
 [2021-04-16 05:48:32]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-16 05:48:44]: mamikral011 [DogParty, Level 27]: Flipper: war for life
+[2021-04-16 05:48:46]: RM | Arin [Retard MNKY, Level 16]: meh
