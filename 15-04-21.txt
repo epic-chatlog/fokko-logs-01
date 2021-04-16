@@ -14177,3 +14177,6 @@
 [2021-04-15 23:20:29]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: u coding it?
 [2021-04-15 23:20:32]: #5 blocker [|*MorE*|, Level 0]: this is your new home
 [2021-04-15 23:20:35]: Nudelsaft c: [FookinLads, Level 60]: perhaps
+[2021-04-15 23:20:42]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: WHAT IS PERHAPS
+[2021-04-15 23:20:45]: Nudelsaft c: [FookinLads, Level 60]: maybe
+[2021-04-15 23:20:47]: Nudelsaft c: [FookinLads, Level 60]: but cooler
