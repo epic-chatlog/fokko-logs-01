@@ -4941,3 +4941,8 @@
 [2021-04-16 06:58:22]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
 [2021-04-16 06:58:27]: Ðream [TrRShClNrRs, Level 47]: xD
 [2021-04-16 06:58:44]: ***  [, Level 0]: '[D] mamikral011' has left the game
+[2021-04-16 06:58:48]: weqe [669, Level 13]: ~DemoizL~: are u sorry
+[2021-04-16 06:58:48]: ***  [, Level 0]: 'LareneGyvaeh' has left the game (Timeout)
+[2021-04-16 06:58:48]: ***  [, Level 0]: 'HeavyGeneral' has left the game (Timeout)
+[2021-04-16 06:58:54]: ~DemoizL~ [, Level 39]: weqe: no
+[2021-04-16 06:58:56]: Kirito [{TQuila}, Level 40]: ChillerDragon:
