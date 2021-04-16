@@ -11819,3 +11819,5 @@
 [2021-04-16 13:50:19]: ***  [, Level 0]: '✯|Not Bulash' has left the game
 [2021-04-16 13:50:19]: ***  [, Level 0]: '✯ | Bulash' has left the game
 [2021-04-16 13:50:21]: (1)BLACK [, Level 22]: |HolyHo|:  what now
+[2021-04-16 13:50:43]: , [TrRShClNrRs, Level 41]: Lucas: yes
+[2021-04-16 13:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
