@@ -3442,3 +3442,5 @@
 [2021-04-16 04:51:53]: ***  [, Level 0]: 'Cylox.' has left the game
 [2021-04-16 04:51:53]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-16 04:51:57]: Flipper [, Level 0]: XD
+[2021-04-16 04:52:11]: ***  [, Level 0]: 'Taip' has left the game
+[2021-04-16 04:52:18]: Meetiteusz [TrRShClNrRs, Level 28]: (1)Ƭevan: come
