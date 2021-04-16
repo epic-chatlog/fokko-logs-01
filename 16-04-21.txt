@@ -13116,3 +13116,5 @@
 [2021-04-16 16:30:18]: Zephir™ [404, Level 40]: bob: because im tired
 [2021-04-16 16:30:30]: ***  [, Level 0]: Zephir™ is on a killing spree with 10 blocks
 [2021-04-16 16:30:35]: Zephir™ [404, Level 40]: bob: stop play taser dog
+[2021-04-16 16:30:39]: bob [Legacy™, Level 36]: why u say dog
+[2021-04-16 16:30:47]: Zephir™ [404, Level 40]: bob: because u are a dog
