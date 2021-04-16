@@ -6584,3 +6584,10 @@
 [2021-04-16 08:33:49]: ***  [, Level 0]: El Monkey's killing spree was ended by No~Filter (6 blocks)
 [2021-04-16 08:33:52]: şlk10 [, Level 27]: Kirito:
 [2021-04-16 08:33:56]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-16 08:34:04]: LadyBug [, Level 35]: Kirito: u dont want that
+[2021-04-16 08:34:04]: şlk10 [, Level 27]: Luna: help
+[2021-04-16 08:34:07]: Kirito [{TQuila}, Level 40]: ☺ <<
+[2021-04-16 08:34:08]: ***  [, Level 0]: 'remocide' entered and joined the game
+[2021-04-16 08:34:09]: Killua [FookinLads, Level 37]: Nudelsaft c:: 0removeingame NAME, 0removeingameall.
+[2021-04-16 08:34:10]: Nudelsaft c: [FookinLads, Level 60]: Killua: to implement that we would need every webhook msg to be sent through ur bot
+[2021-04-16 08:34:14]: Killua [FookinLads, Level 37]: Nudelsaft c:: 0removeingame NAME, 0removeingameall. 12
