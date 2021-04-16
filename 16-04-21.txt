@@ -1044,3 +1044,4 @@
 [2021-04-16 01:45:21]: comic [comically, Level 15]: SUS
 [2021-04-16 01:45:23]: comic [comically, Level 15]: AMOGUS
 [2021-04-16 01:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-16 01:45:58]: ***  [, Level 0]: 'jonas220' has left the game
