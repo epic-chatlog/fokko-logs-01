@@ -14537,3 +14537,7 @@
 [2021-04-15 23:45:50]: SanoreX [Chilli.*, Level 27]: [D] Kahve: kaisi de al
 [2021-04-15 23:45:52]: SanoreX [Chilli.*, Level 27]: aşada
 [2021-04-15 23:46:34]: Kahve [, Level 24]: (1)#5 blocker: ?????
+[2021-04-15 23:46:37]: SanoreX [Chilli.*, Level 27]: laser çabuk
+[2021-04-15 23:46:39]: SanoreX [Chilli.*, Level 27]: LASER KNK
+[2021-04-15 23:46:43]: [D] Kahve [, Level 19]: laser
+[2021-04-15 23:46:48]: SanoreX [Chilli.*, Level 27]: LASER YOK
