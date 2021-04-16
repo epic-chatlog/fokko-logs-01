@@ -14521,3 +14521,6 @@
 [2021-04-15 23:44:48]: SanoreX.* [Chilli.*, Level 22]: Kahve: jetpaclk ver da
 [2021-04-15 23:44:49]: SanoreX.* [Chilli.*, Level 22]: 2dk
 [2021-04-15 23:44:55]: SanoreX.* [Chilli.*, Level 22]: senin inf jumpun VAR
+[2021-04-15 23:45:12]: [D] Kahve [, Level 19]: laserlicem geç
+[2021-04-15 23:45:15]: SanoreX.* [Chilli.*, Level 22]: yok
+[2021-04-15 23:45:16]: SanoreX.* [Chilli.*, Level 22]: olmaz
