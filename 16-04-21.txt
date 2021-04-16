@@ -6902,3 +6902,4 @@
 [2021-04-16 08:56:00]: ***  [, Level 0]: El patron finished in: 4 minute(s) 20.18 second(s)
 [2021-04-16 08:56:00]: ***  [, Level 0]: 'El patron' finished the special race!
 [2021-04-16 08:56:05]: ***  [, Level 0]: 'el champeon' entered and joined the game
+[2021-04-16 08:56:09]: ***  [, Level 0]: 'Soros' entered and joined the game
