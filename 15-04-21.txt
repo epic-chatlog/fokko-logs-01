@@ -14509,3 +14509,6 @@
 [2021-04-15 23:43:56]: [D] Kahve [, Level 19]: lag
 [2021-04-15 23:44:00]: ***  [, Level 0]: 'ES' entered and joined the game
 [2021-04-15 23:44:02]: Intensiv [CrazyNoobs, Level 12]: help
+[2021-04-15 23:44:09]: (1)#5 blocker [|*MorE*|, Level 0]: Kahve: timeout so my original #5 blocker have jet
+[2021-04-15 23:44:11]: Intensiv [CrazyNoobs, Level 12]: lan
+[2021-04-15 23:44:13]: Intensiv [CrazyNoobs, Level 12]: noluyo
