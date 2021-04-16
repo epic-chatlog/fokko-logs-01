@@ -13778,3 +13778,4 @@
 [2021-04-15 20:10:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-15 20:15:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-15 20:20:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-15 20:25:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
