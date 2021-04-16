@@ -13399,3 +13399,4 @@
 [2021-04-15 17:42:08]: (1)☺ [, Level 13]: 1v1 Zʷʰʸˀ ?
 [2021-04-15 17:42:37]: (1)☺ [, Level 13]: omg i lag
 [2021-04-15 17:45:46]: ***  [, Level 0]: 'Hady' entered and joined the game
+[2021-04-15 17:45:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
