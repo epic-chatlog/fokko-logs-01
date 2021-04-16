@@ -2143,3 +2143,7 @@
 [2021-04-16 03:17:08]: ***  [, Level 0]: 'GUNO' joined the game
 [2021-04-16 03:17:08]: [D] El patron [, Level 24]: ✯|Not Bulash: why
 [2021-04-16 03:17:08]: [D] mamikral011 [DogParty, Level 27]: Cylox.: sg
+[2021-04-16 03:17:13]: ***  [, Level 0]: Coca finished in: 0 minute(s) 47.96 second(s)
+[2021-04-16 03:17:16]: ✯|Not Bulash [|Supressed|, Level 0]: El patron: im dont like this
+[2021-04-16 03:17:16]: vollesprit [, Level 0]: ~DemoizL~: je crois que ca va pas etre possible de t'aider maintenant
+[2021-04-16 03:17:20]: [D] El patron [, Level 24]: xd
