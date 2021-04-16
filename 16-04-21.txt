@@ -4529,3 +4529,5 @@
 [2021-04-16 06:28:09]: ERROR [404, Level 75]: TZSA:  so not my problem anymore
 [2021-04-16 06:28:13]: Flupper [, Level 40]: i didnt
 [2021-04-16 06:28:22]: Meetiteusz [TrRShClNrRs, Level 28]: Flupper: And you didnt help me
+[2021-04-16 06:28:47]: ***  [, Level 0]: 'vihandu tee' has left the game
+[2021-04-16 06:28:49]: ***  [, Level 0]: 'vihandu tee' entered and joined the game
