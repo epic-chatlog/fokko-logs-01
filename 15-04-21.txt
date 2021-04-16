@@ -13261,3 +13261,7 @@
 [2021-04-15 17:20:06]: bob [Legacy™, Level 36]: u cute
 [2021-04-15 17:20:11]: bob [Legacy™, Level 36]: smiley man
 [2021-04-15 17:20:35]: (1)☺ [, Level 13]: no (1)Zʷʰʸˀ
+[2021-04-15 17:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 17:20:51]: ***  [, Level 0]: (1)Zʷʰʸˀ finished in: 1 minute(s) 10.08 second(s)
+[2021-04-15 17:20:51]: ***  [, Level 0]: New record: 3 minute(s)  7.56 second(s) better.
+[2021-04-15 17:20:52]: ***  [, Level 0]: (1)☺ finished in: 1 minute(s) 50.80 second(s)
