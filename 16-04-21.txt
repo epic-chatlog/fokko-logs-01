@@ -12927,3 +12927,7 @@
 [2021-04-16 15:55:48]: Zephir™ [404, Level 40]: ~DemoizL~: dommage pour toi alors
 [2021-04-16 15:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-16 15:56:06]: ~DemoizL~ [, Level 39]: Zephir™: c'est chiant que tu sois pote avec yellow
+[2021-04-16 15:56:11]: bob [Legacy™, Level 36]: wtf
+[2021-04-16 15:56:11]: Zephir™ [404, Level 40]: ~DemoizL~: beaucoup prononce "war4life" dans le vent
+[2021-04-16 15:56:20]: Zephir™ [404, Level 40]: ~DemoizL~: sache que moi c'est reel
+[2021-04-16 15:56:22]: ~DemoizL~ [, Level 39]: Zephir™: j'ai jamais prononcé ça
