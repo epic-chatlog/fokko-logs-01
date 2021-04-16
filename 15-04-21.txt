@@ -13273,3 +13273,6 @@
 [2021-04-15 17:21:40]: ***  [, Level 0]: 'pomarancz' entered and joined the game
 [2021-04-15 17:21:44]: (1)☺ [, Level 13]: what!! bob
 [2021-04-15 17:21:47]: Kirito [{TQuila}, Level 40]: BLACK: help
+[2021-04-15 17:21:49]: ***  [, Level 0]: 'pomarancz' joined the spectators
+[2021-04-15 17:21:52]: bob [Legacy™, Level 36]: u like unicorn?
+[2021-04-15 17:21:53]: ***  [, Level 0]: 'pomarancz' joined the game
