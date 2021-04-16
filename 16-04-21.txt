@@ -7758,3 +7758,8 @@
 [2021-04-16 10:11:11]: Zephir™ [, Level 40]: El patron: XDDD
 [2021-04-16 10:11:14]: ***  [, Level 0]: 'Flupper' entered and joined the game
 [2021-04-16 10:11:14]: ***  [, Level 0]: 'Flupper' has left the game
+[2021-04-16 10:11:21]: ***  [, Level 0]: 'mizie' joined the spectators
+[2021-04-16 10:11:21]: (1)☺ [, Level 0]: aide moi stp Zephir™
+[2021-04-16 10:11:23]: ***  [, Level 0]: 'Flupper' entered and joined the game
+[2021-04-16 10:11:24]: Zephir™ [, Level 40]: El patron: u need to run my dummi come :D
+[2021-04-16 10:11:24]: ***  [, Level 0]: 'mizie' joined the game
