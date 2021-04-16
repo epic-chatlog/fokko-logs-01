@@ -14515,3 +14515,8 @@
 [2021-04-15 23:44:27]: Kahve [, Level 24]: #5 blocker:
 [2021-04-15 23:44:32]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
 [2021-04-15 23:44:37]: Kahve [, Level 24]: #5 blocker: help?
+[2021-04-15 23:44:40]: [D] #5 blocker [|*MorE*|, Level 0]: yes
+[2021-04-15 23:44:44]: [D] #5 blocker [|*MorE*|, Level 0]: wait
+[2021-04-15 23:44:47]: Intensiv [CrazyNoobs, Level 12]: kais:  help
+[2021-04-15 23:44:48]: SanoreX.* [Chilli.*, Level 22]: Kahve: jetpaclk ver da
+[2021-04-15 23:44:49]: SanoreX.* [Chilli.*, Level 22]: 2dk
