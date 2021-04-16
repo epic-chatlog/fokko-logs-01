@@ -2360,3 +2360,4 @@
 [2021-04-16 03:36:06]: ***  [, Level 0]: Deaths: 676
 [2021-04-16 03:36:13]: ***  [, Level 0]: 'Intensiv_' entered and joined the game
 [2021-04-16 03:36:15]: Coca [Drunks, Level 22]: YelloWorlD: can i help #5 blocker ?
+[2021-04-16 03:36:24]: YelloWorlD [DogParty, Level 0]: give grenade
