@@ -13960,3 +13960,6 @@
 [2021-04-15 23:00:41]: Kahve [, Level 23]: ?
 [2021-04-15 23:00:47]: Kahve [, Level 23]: evet
 [2021-04-15 23:00:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 23:00:59]: SanoreX.* [Chilli.*, Level 22]: Kahve: gel benim svme süper bot kodladım helper
+[2021-04-15 23:01:00]: #5 blocker [|*MorE*|, Level 0]: [D] Kahve: come trolling flappy
+[2021-04-15 23:01:01]: SanoreX.* [Chilli.*, Level 22]: gel
