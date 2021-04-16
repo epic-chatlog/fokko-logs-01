@@ -14343,3 +14343,10 @@
 [2021-04-15 23:31:17]: Nudelsaft c: [FookinLads, Level 0]: ez
 [2021-04-15 23:31:20]: SanoreX.* [Chilli.*, Level 22]: ;kill
 [2021-04-15 23:31:25]: Kahve [, Level 24]: ;kill
+[2021-04-15 23:31:30]: SanoreX.* [Chilli.*, Level 22]: ;say s
+[2021-04-15 23:31:33]: Kahve [, Level 24]: SanoreX: seninmi bot
+[2021-04-15 23:31:33]: Nudelsaft c: [FookinLads, Level 0]: ;kill
+[2021-04-15 23:31:35]: SanoreX.* [Chilli.*, Level 22]: ;emote s
+[2021-04-15 23:31:36]: SanoreX.* [Chilli.*, Level 22]: ;emote 1
+[2021-04-15 23:31:38]: SanoreX.* [Chilli.*, Level 22]: yok
+[2021-04-15 23:31:40]: ***  [, Level 0]: 'test' has left the game
