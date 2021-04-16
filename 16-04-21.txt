@@ -235,3 +235,4 @@
 [2021-04-16 00:35:07]: ***  [, Level 0]: 'comic' has left the game
 [2021-04-16 00:35:26]: ***  [, Level 0]: 'comic' entered and joined the game
 [2021-04-16 00:35:29]: comic [comically, Level 0]: stupid lag
+[2021-04-16 00:35:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
