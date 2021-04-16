@@ -13905,3 +13905,7 @@
 [2021-04-15 22:56:42]: Kahve [, Level 23]: SanoreX:
 [2021-04-15 22:56:46]: SanoreX.* [Chilli.*, Level 22]: [D] Kahve: aldı bot
 [2021-04-15 22:56:48]: #5 blocker [|*MorE*|, Level 0]: [D] Kahve: wtf
+[2021-04-15 22:56:52]: Kahve [, Level 23]: ver birini aq
+[2021-04-15 22:56:52]: SanoreX.* [Chilli.*, Level 22]: [D] Kahve: zorlama
+[2021-04-15 22:56:58]: SanoreX.* [Chilli.*, Level 22]: bişe dicem
+[2021-04-15 22:57:01]: Kahve [, Level 23]: olm 1 tane neyine yetmiyo
