@@ -2270,3 +2270,8 @@
 [2021-04-16 03:28:24]: power [TrRShClNrRs, Level 0]: cant bro, not again
 [2021-04-16 03:28:28]: [D] mamikral011 [DogParty, Level 27]: YelloWorlD: come superrom
 [2021-04-16 03:28:31]: [D] #5 blocker [|*MorE*|, Level 33]: not again?
+[2021-04-16 03:28:38]: [D] #5 blocker [|*MorE*|, Level 33]: not again
+[2021-04-16 03:28:41]: [D] #5 blocker [|*MorE*|, Level 33]: ?
+[2021-04-16 03:28:43]: [D] #5 blocker [|*MorE*|, Level 33]: wtf
+[2021-04-16 03:28:45]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-16 03:28:46]: ***  [, Level 0]: 'El Patron's fan' has left the game
