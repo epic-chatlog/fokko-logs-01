@@ -14605,3 +14605,5 @@
 [2021-04-15 23:53:43]: ES [, Level 0]: help
 [2021-04-15 23:53:50]: JustRace [DogParty, Level 36]: cl_aimbot 1
 [2021-04-15 23:55:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-15 23:56:18]: Intensiv [CrazyNoobs, Level 12]: SAGHASDA
+[2021-04-15 23:56:23]: Intensiv [CrazyNoobs, Level 12]: ES HOW
