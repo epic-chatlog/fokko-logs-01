@@ -13433,3 +13433,8 @@
 [2021-04-15 18:20:39]: BLACK [, Level 26]: 16
 [2021-04-15 18:20:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-15 18:20:51]: ***  [, Level 0]: '[D] 1000' entered and joined the game
+[2021-04-15 18:22:39]: (1)☺ [, Level 13]: seriouslt BLACK
+[2021-04-15 18:22:42]: bob [Legacy™, Level 36]: SMILEY MAN
+[2021-04-15 18:22:43]: bob [Legacy™, Level 36]: MUAHAHAH
+[2021-04-15 18:22:44]: (1)☺ [, Level 13]: ah no bob
+[2021-04-15 18:22:45]: bob [Legacy™, Level 36]: HAHAHAAHAH
