@@ -12855,3 +12855,5 @@
 [2021-04-16 15:31:48]: (1)☺ [, Level 14]: Zephir™: je dois partir je pense
 [2021-04-16 15:32:07]: Zephir™ [404, Level 40]: a +
 [2021-04-16 15:32:14]: (2)BLACK [, Level 13]: ☺: U HAVE EXTRA MONEY?
+[2021-04-16 15:32:19]: (1)☺ [, Level 14]: ouais peut etre a+
+[2021-04-16 15:32:24]: (1)☺ [, Level 14]: ? BLACK
