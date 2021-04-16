@@ -8791,3 +8791,8 @@
 [2021-04-16 11:31:04]: Kirito [{TQuila}, Level 40]: [D] BC|Tixnix:
 [2021-04-16 11:31:06]: Falco641 [.bad, Level 20]: dont restart
 [2021-04-16 11:31:13]: Falco641 [.bad, Level 20]: bru
+[2021-04-16 11:31:13]: Kirito [{TQuila}, Level 40]: [D] BC|Tixnix: inf
+[2021-04-16 11:31:15]: Kirito [{TQuila}, Level 40]: Cylox: inf
+[2021-04-16 11:31:16]: [D] El patron [, Level 24]: Intensiv: help
+[2021-04-16 11:31:19]:   [, Level 0]: Noragami: динер на этом сервере либо ты унижаешь других либо другие унижают тебя
+[2021-04-16 11:31:20]: BC|Tixnix [BC, Level 35]: Kirito: ok
