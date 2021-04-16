@@ -14095,3 +14095,10 @@
 [2021-04-15 23:13:18]: test [asd, Level 0]:    ;kill
 [2021-04-15 23:13:19]: SanoreX.* [Chilli.*, Level 22]: thx
 [2021-04-15 23:13:20]: test [asd, Level 0]:    ;kill
+[2021-04-15 23:13:33]: SanoreX.* [Chilli.*, Level 22]: test: noby
+[2021-04-15 23:13:33]: [D] Kahve [, Level 19]: Ƭevan: u need help?
+[2021-04-15 23:13:36]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 23:13:37]: ***  [, Level 0]: 'Jerry' has left the game
+[2021-04-15 23:13:37]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-15 23:13:40]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: test is u?
+[2021-04-15 23:13:42]: [D] Kahve [, Level 19]: #5 blocker: go help Ƭevan
