@@ -6553,3 +6553,7 @@
 [2021-04-16 08:32:02]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-16 08:32:04]: TZSA [, Level 0]: LadyBug: xD
 [2021-04-16 08:32:06]: LadyBug [, Level 35]: TZSA: OH XD
+[2021-04-16 08:32:15]: Killua [FookinLads, Level 37]: 200 iq
+[2021-04-16 08:32:15]: TZSA [, Level 0]: sorry Killua
+[2021-04-16 08:32:16]: TZSA [, Level 0]: XD
+[2021-04-16 08:32:22]: [D] şlk10 [, Level 22]: Ant: wtf
