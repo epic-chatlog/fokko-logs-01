@@ -6856,3 +6856,8 @@
 [2021-04-16 08:52:09]: ***  [, Level 0]: 'darkstar2' has left the game (Timeout)
 [2021-04-16 08:52:13]: ***  [, Level 0]: 'any²' entered and joined the game
 [2021-04-16 08:52:13]: ***  [, Level 0]: 'MOM' entered and joined the game
+[2021-04-16 08:52:17]: [D] mamikral011 [DogParty, Level 0]: No~Filter: war
+[2021-04-16 08:52:21]: No~Filter [, Level 0]: why
+[2021-04-16 08:52:22]: JustRace [DogParty, Level 0]: cl_aimbot 1
+[2021-04-16 08:52:26]: JustRace [DogParty, Level 0]: cl_aimbot 0
+[2021-04-16 08:52:27]: JustRace [DogParty, Level 0]: cl_aimbot 1
