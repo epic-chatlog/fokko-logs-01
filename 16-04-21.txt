@@ -12304,3 +12304,6 @@
 [2021-04-16 14:16:12]: ***  [, Level 0]: 'Marcisten Dummy' has left the game
 [2021-04-16 14:16:12]: ***  [, Level 0]: 'Marcisten' has left the game
 [2021-04-16 14:16:21]: |HolyHo| [FookinLads, Level 19]: Kirito: lmao why u mad
+[2021-04-16 14:16:25]: GOLD [404, Level 40]: Kirito: stfu i beat u
+[2021-04-16 14:16:28]: Kirito [{TQuila}, Level 40]: |HolyHo|: because you are bad
+[2021-04-16 14:16:35]: |HolyHo| [FookinLads, Level 19]: Kirito: mad cuz bad
