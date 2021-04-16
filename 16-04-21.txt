@@ -13180,3 +13180,4 @@
 [2021-04-16 16:43:48]: bob [Legacy™, Level 36]: its about positioning too
 [2021-04-16 16:45:30]: bob [Legacy™, Level 36]: wtf
 [2021-04-16 16:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-16 16:46:33]: ***  [, Level 0]: bob's killing spree was ended by Zephir™ (8 blocks)
