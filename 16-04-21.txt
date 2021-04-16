@@ -6881,3 +6881,6 @@
 [2021-04-16 08:53:56]: ***  [, Level 0]: '(1)Good man' entered and joined the game
 [2021-04-16 08:54:03]: No~Filter [, Level 0]: mad cuz bad
 [2021-04-16 08:54:06]: Hala Madrid [BBM, Level 0]: haah
+[2021-04-16 08:54:13]: Hala Madrid [BBM, Level 0]: was los
+[2021-04-16 08:54:18]: ***  [, Level 0]: '[D] mamikral011' would have timed out, but can use timeout protection now
+[2021-04-16 08:54:18]: ***  [, Level 0]: 'mamikral011' would have timed out, but can use timeout protection now
