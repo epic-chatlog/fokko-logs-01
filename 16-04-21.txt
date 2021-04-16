@@ -5858,3 +5858,5 @@
 [2021-04-16 07:47:35]: ***  [, Level 0]: Nudelsaft c: is on a killing spree with 5 blocks
 [2021-04-16 07:47:39]: ***  [, Level 0]: H0dƌƔ1 is on a killing spree with 5 blocks
 [2021-04-16 07:47:43]: El patron [, Level 30]: El Shampoo: ?
+[2021-04-16 07:47:56]: El Shampoo [{TQuila}, Level 40]: El patron: ja
+[2021-04-16 07:48:02]: ***  [, Level 0]: '[D] şlk10' entered and joined the game
