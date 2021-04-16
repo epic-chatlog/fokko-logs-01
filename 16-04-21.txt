@@ -6448,3 +6448,5 @@
 [2021-04-16 08:24:13]: Nudelsaft c: [FookinLads, Level 60]: ez
 [2021-04-16 08:24:19]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
 [2021-04-16 08:24:21]: Good man [Drunks, Level 31]:  Nudelsaft c: team?
+[2021-04-16 08:24:24]: ***  [, Level 0]: 'Ding Dong' entered and joined the game
+[2021-04-16 08:24:32]: GODLIKe [, Level 44]: Killua: take flag
