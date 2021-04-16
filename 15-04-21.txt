@@ -14433,3 +14433,5 @@
 [2021-04-15 23:39:00]: SanoreX.* [Chilli.*, Level 22]: DiscordBridge: U FUCK BİYH
 [2021-04-15 23:39:05]: SanoreX.* [Chilli.*, Level 22]: DiscordBridge: U FUCK BİTCH
 [2021-04-15 23:39:09]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-15 23:39:15]: #5 blocker [|*MorE*|, Level 24]: how to edit wall
+[2021-04-15 23:39:22]: ***  [, Level 0]: 'test' entered and joined the game
