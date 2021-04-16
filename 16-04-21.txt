@@ -1212,3 +1212,6 @@
 [2021-04-16 02:00:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 02:00:52]: Nudelsaft c: [FookinLads, Level 42]: flappy gay aber durch flappy hattest du ne chance xD
 [2021-04-16 02:00:54]: Ðream [TrRShClNrRs, Level 47]: lessname:
+[2021-04-16 02:01:07]: ***  [, Level 0]: falkenauge finished in: 3 minute(s) 50.40 second(s)
+[2021-04-16 02:01:07]: ***  [, Level 0]: 'falkenauge' finished the special race!
+[2021-04-16 02:01:08]: lessname [, Level 0]: yea
