@@ -10584,3 +10584,5 @@
 [2021-04-16 12:45:32]: Killua [FookinLads, Level 0]: , lol
 [2021-04-16 12:45:42]: ***  [, Level 0]: 'hatsu' entered and joined the game
 [2021-04-16 12:45:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-16 12:45:58]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: why
+[2021-04-16 12:46:01]: ***  [, Level 0]: 'hatsu' has left the game
