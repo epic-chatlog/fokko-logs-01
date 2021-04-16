@@ -5097,3 +5097,8 @@
 [2021-04-16 07:10:43]: ERROR [404, Level 75]: #coolstorybro
 [2021-04-16 07:10:47]: ***  [, Level 0]: 'Tand00ru' has left the game
 [2021-04-16 07:10:47]: ***  [, Level 0]: ### 'ERROR' Woof-Woof
+[2021-04-16 07:10:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-16 07:10:50]: weqe [669, Level 13]: ERROR: how old are u little gay
+[2021-04-16 07:10:53]: ERROR [404, Level 75]: 11
+[2021-04-16 07:10:56]: ERROR [404, Level 75]: and u?
+[2021-04-16 07:11:01]: weqe [669, Level 13]: ERROR: 4 times that age
