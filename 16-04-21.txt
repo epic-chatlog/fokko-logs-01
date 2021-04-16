@@ -1333,3 +1333,7 @@
 [2021-04-16 02:18:17]: ***  [, Level 0]: dummier finished in: 6 minute(s) 24.04 second(s)
 [2021-04-16 02:18:17]: ***  [, Level 0]: New record: 14 minute(s) 14.16 second(s) better.
 [2021-04-16 02:18:17]: ***  [, Level 0]: 'dummier' finished the special race!
+[2021-04-16 02:18:45]: ***  [, Level 0]: 'kais' has left the game
+[2021-04-16 02:18:48]: any [404, Level 38]: wtf falkenauge  <<<
+[2021-04-16 02:18:50]: ***  [, Level 0]: [D] El patron finished in: 0 minute(s) 55.78 second(s)
+[2021-04-16 02:18:50]: ***  [, Level 0]: New record: 10 minute(s) 11.86 second(s) better.
