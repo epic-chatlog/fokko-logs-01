@@ -1832,3 +1832,5 @@
 [2021-04-16 02:56:00]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-16 02:56:03]: Hady [new bot, Level 33]: BLACK:  yea
 [2021-04-16 02:56:07]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
+[2021-04-16 02:56:09]: BLACK [, Level 26]: Hady: what
+[2021-04-16 02:56:17]: Hady [new bot, Level 33]: BLACK: not you
