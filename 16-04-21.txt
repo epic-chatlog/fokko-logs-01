@@ -7749,3 +7749,7 @@
 [2021-04-16 10:10:32]: ***  [, Level 0]: 'mizie' joined the spectators
 [2021-04-16 10:10:36]: ***  [, Level 0]: 'mizie' joined the game
 [2021-04-16 10:10:39]: ☺ [, Level 22]: Zephir™: je suis mort par mon dummy
+[2021-04-16 10:10:43]: ***  [, Level 0]: 'mizie' joined the spectators
+[2021-04-16 10:10:47]: ***  [, Level 0]: 'mizie' joined the game
+[2021-04-16 10:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-16 10:10:52]: ***  [, Level 0]: 'mizie' joined the spectators
