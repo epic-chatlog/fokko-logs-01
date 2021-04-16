@@ -5825,3 +5825,8 @@
 [2021-04-16 07:46:24]: ***  [, Level 0]: '[D] mamikral011' has left the game
 [2021-04-16 07:46:26]: (1)kais [, Level 58]: El patron: damn, he betrayed u
 [2021-04-16 07:46:28]: Kirito [{TQuila}, Level 40]: El patron: jaja passt schon oskar
+[2021-04-16 07:46:32]: ***  [, Level 0]: 403. Vertex Time: 01:12.68, requested by Vertex
+[2021-04-16 07:46:32]: ***  [, Level 0]: 'vihandu tee' has left the game
+[2021-04-16 07:46:34]: ***  [, Level 0]: 'vihandu tee' entered and joined the game
+[2021-04-16 07:46:35]: (1)RM | Arin [Retard MNKY, Level 0]: Oskar du hurensohn
+[2021-04-16 07:46:40]: Kirito [{TQuila}, Level 40]: kais: u have team with toxicdaddy huh?
