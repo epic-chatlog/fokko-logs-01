@@ -14595,3 +14595,4 @@
 [2021-04-15 23:50:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-15 23:50:55]: SanoreX [Chilli.*, Level 27]: what u want Swarfey
 [2021-04-15 23:50:59]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-15 23:51:02]: JustRace [DogParty, Level 36]: cl_aimbot 0
