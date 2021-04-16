@@ -12872,3 +12872,4 @@
 [2021-04-16 15:33:54]: (2)BLACK [, Level 13]: why
 [2021-04-16 15:35:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-16 15:36:50]: (2)BLACK [, Level 13]: xD
+[2021-04-16 15:37:34]: (1)☺ [, Level 14]: je quitte bye
