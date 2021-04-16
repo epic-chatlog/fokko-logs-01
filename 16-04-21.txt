@@ -11558,3 +11558,5 @@
 [2021-04-16 13:37:00]: ***  [, Level 0]: 'Dan' has left the game
 [2021-04-16 13:37:11]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: Hala Madrid: сука блять
 [2021-04-16 13:37:12]: power2 [TrRShClNrRs, Level 0]: wait
+[2021-04-16 13:37:13]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: Hala Madrid: can
+[2021-04-16 13:37:15]: ***  [, Level 0]: 'Andresss Dumdum' entered and joined the game
