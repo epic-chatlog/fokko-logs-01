@@ -13787,3 +13787,4 @@
 [2021-04-15 20:50:35]: ***  [, Level 0]: '[D] hihi' entered and joined the game
 [2021-04-15 20:50:41]: ***  [, Level 0]: '[D] hihi' has left the game
 [2021-04-15 20:50:41]: ***  [, Level 0]: 'hihi' has left the game
+[2021-04-15 20:50:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
