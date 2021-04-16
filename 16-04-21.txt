@@ -2191,3 +2191,5 @@
 [2021-04-16 03:20:17]: mamikral011 [DogParty, Level 0]: sL|Gabsty: come
 [2021-04-16 03:20:18]: ***  [, Level 0]: '(1)test' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-16 03:20:23]: Cylox. [, Level 0]: ty
+[2021-04-16 03:20:33]: ***  [, Level 0]: 889. [D] mamikral011 Time: 05:26.30, requested by [D] mamikral011
+[2021-04-16 03:20:35]: ***  [, Level 0]: Axandos² finished in: 2 minute(s) 37.62 second(s)
