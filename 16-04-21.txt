@@ -7909,3 +7909,5 @@
 [2021-04-16 10:28:14]: ***  [, Level 0]: 'Lyshinyr Wos' has left the game
 [2021-04-16 10:28:15]: Meliodas [.bad, Level 24]: YelloWorlD: ptn repond
 [2021-04-16 10:28:34]: Zephir™ [, Level 40]: YelloWorlD: sa te dit on re 1v1 ?
+[2021-04-16 10:28:39]: Meliodas [.bad, Level 24]: Zephir™: il est dvenu aveugle YelloWorlD ?
+[2021-04-16 10:28:46]: ***  [, Level 0]: 'mizie' has left the game
