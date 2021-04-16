@@ -4203,3 +4203,6 @@
 [2021-04-16 05:59:29]: ERROR. [404, Level 57]: ChillerDragon.*:  schnauze
 [2021-04-16 05:59:32]: RM | Arin [Retard MNKY, Level 16]: 1
 [2021-04-16 05:59:34]: ChillerDragon.* [Chilli.*, Level 42]: rude
+[2021-04-16 05:59:34]: RM | Arin [Retard MNKY, Level 16]: okay
+[2021-04-16 05:59:37]: RM | Arin [Retard MNKY, Level 16]: gut zu wissen
+[2021-04-16 05:59:45]: ERROR. [404, Level 57]: gestern hat er mich geblockt heute kriegt er es zurück
