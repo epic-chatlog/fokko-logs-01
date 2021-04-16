@@ -4213,3 +4213,8 @@
 [2021-04-16 06:00:11]: ***  [, Level 0]: 'Telefantastic' has left the game
 [2021-04-16 06:00:20]: ChillerDragon.* [Chilli.*, Level 42]: yo BitchPlease Jr. nub
 [2021-04-16 06:00:31]: BitchPlease Jr. [BBM, Level 0]: ChillerDragon: nub <3
+[2021-04-16 06:00:37]: ***  [, Level 0]: 'Ant' entered and joined the game
+[2021-04-16 06:00:38]: BitchPlease Jr. [BBM, Level 0]: ChillerDragon: hast du gegen ERROR verloren?
+[2021-04-16 06:00:39]: Swarfey [FookinLads, Level 42]: ez
+[2021-04-16 06:00:41]: ERROR. [404, Level 57]: ChillerDragon.*:  wenn er sorry sagt vergess ich es
+[2021-04-16 06:00:42]: ***  [, Level 0]: 'LadyBug' has left the game
