@@ -839,3 +839,6 @@
 [2021-04-16 01:30:28]: ***  [, Level 0]: 'Rasza' entered and joined the game
 [2021-04-16 01:30:30]: Kiøn1029 [.bad, Level 0]: magyar gamer
 [2021-04-16 01:30:32]: ***  [, Level 0]: 'Dilkohomnkiks' entered and joined the game
+[2021-04-16 01:30:42]: ***  [, Level 0]: 'Chilli.*' has left the game
+[2021-04-16 01:30:45]: Estarossa [, Level 11]: Kezo: hehe
+[2021-04-16 01:30:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
