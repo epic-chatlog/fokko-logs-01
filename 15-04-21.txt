@@ -14473,3 +14473,8 @@
 [2021-04-15 23:41:20]: Nudelsaft c: [FookinLads, Level 0]: because hes afk
 [2021-04-15 23:41:22]: ***  [, Level 0]: '(1)#5 blocker' entered and joined the game
 [2021-04-15 23:41:23]: Kahve [, Level 24]: SanoreX: ben çıkıyom flagı sana vericem
+[2021-04-15 23:41:29]: (1)#5 blocker [|*MorE*|, Level 0]: kahve no
+[2021-04-15 23:41:31]: Intensiv [CrazyNoobs, Level 0]: bana versene
+[2021-04-15 23:41:32]: SanoreX.* [Chilli.*, Level 22]: Kahve: jetpack da ber
+[2021-04-15 23:41:34]: SanoreX.* [Chilli.*, Level 22]: Kahve: jetpack da ver
+[2021-04-15 23:41:36]: JustRace [DogParty, Level 36]: cl_aimbot 1
