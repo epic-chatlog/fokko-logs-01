@@ -6640,3 +6640,5 @@
 [2021-04-16 08:37:21]: ***  [, Level 0]: 'LadyBug' has left the game
 [2021-04-16 08:37:23]: Nudelsaft c: [FookinLads, Level 60]: lool
 [2021-04-16 08:37:27]: ***  [, Level 0]: 'Pa1n' has left the game
+[2021-04-16 08:37:36]: Killua [FookinLads, Level 37]: Nudelsaft c:: my game frezes and lags
+[2021-04-16 08:37:40]: Nudelsaft c: [FookinLads, Level 60]: rip
