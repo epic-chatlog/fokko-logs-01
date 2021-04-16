@@ -12761,3 +12761,4 @@
 [2021-04-16 15:05:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-16 15:06:52]: ☺ [, Level 22]: SORRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
 [2021-04-16 15:07:09]: (1)☺ [, Level 14]: Zephir™:
+[2021-04-16 15:09:15]: (1)☺ [, Level 14]: Zephir™: fais le stack stp
