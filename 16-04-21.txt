@@ -1637,3 +1637,7 @@
 [2021-04-16 02:42:18]: ***  [, Level 0]: 'Vertex' joined the minigame 'Instagib FNG', use '/fng' to join aswell
 [2021-04-16 02:42:19]: [D] #5 blocker [|*MorE*|, Level 0]: [D] Kahve: open?
 [2021-04-16 02:42:21]: Kahve [, Level 24]: yes
+[2021-04-16 02:42:22]: power [TrRShClNrRs, Level 0]: no
+[2021-04-16 02:42:25]: [D] #5 blocker [|*MorE*|, Level 0]: ok
+[2021-04-16 02:42:28]: power [TrRShClNrRs, Level 0]: i wanted top get him somewhere else
+[2021-04-16 02:42:28]: ***  [, Level 0]: allBlocker is on a killing spree with 5 blocks
