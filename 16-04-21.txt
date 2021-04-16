@@ -8702,3 +8702,8 @@
 [2021-04-16 11:25:28]: ***  [, Level 0]: 'agent 007' entered and joined the game
 [2021-04-16 11:25:32]: Cylox [{TQuila}, Level 31]: ,
 [2021-04-16 11:25:43]: ☺ [, Level 22]: mais des gens ici Zephir™
+[2021-04-16 11:25:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-16 11:25:52]: ***  [, Level 0]: 'Tziys*' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 11:25:52]: ***  [, Level 0]: 'Kezo' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 11:25:58]: El patron [, Level 30]: sL|cunt: war
+[2021-04-16 11:26:01]: El patron [, Level 30]: Zephir™: help
