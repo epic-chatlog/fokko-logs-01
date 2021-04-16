@@ -2261,3 +2261,6 @@
 [2021-04-16 03:27:00]: ***  [, Level 0]: any is on a killing spree with 10 blocks
 [2021-04-16 03:27:07]: Matiteusz [TrRShClNrRs, Level 37]: mamikral011: as i told
 [2021-04-16 03:27:30]: ***  [, Level 0]: '(1)any' entered and joined the game
+[2021-04-16 03:27:49]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-16 03:27:52]: ***  [, Level 0]: '(1)any' has left the game
+[2021-04-16 03:27:53]: [D] BC|serwan [, Level 0]: #5 blocker: I DONT HAVE ONE
