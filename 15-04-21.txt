@@ -13865,3 +13865,4 @@
 [2021-04-15 22:45:30]: [D] Kahve [, Level 19]: as
 [2021-04-15 22:45:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-15 22:46:13]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-15 22:46:22]: ***  [, Level 0]: 'Jerry' entered and joined the game
