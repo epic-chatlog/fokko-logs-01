@@ -337,3 +337,7 @@
 [2021-04-16 00:44:49]: ***  [, Level 0]: 'Luna' entered and joined the game
 [2021-04-16 00:45:17]: Swarfey [FookinLads, Level 42]: xd
 [2021-04-16 00:45:20]: any [404, Level 38]: Swarfey: (1)Soros is (1)el champeon
+[2021-04-16 00:45:21]: (1)Soros [, Level 0]: any: I thought we were friend
+[2021-04-16 00:45:22]: Swarfey [FookinLads, Level 42]: ah lol
+[2021-04-16 00:45:26]: Swarfey [FookinLads, Level 42]: okay
+[2021-04-16 00:45:26]: [D] #5 blocker [|*MorE*|, Level 0]: Grasshopper: Kiøn1029 blocked me, its test
