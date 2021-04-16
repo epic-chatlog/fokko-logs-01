@@ -6578,3 +6578,7 @@
 [2021-04-16 08:33:32]: (1)☺ [, Level 0]: Killua:
 [2021-04-16 08:33:33]: Killua [FookinLads, Level 37]: Swarfey: i mean error
 [2021-04-16 08:33:37]: Nudelsaft c: [FookinLads, Level 60]: Killua: sadly no
+[2021-04-16 08:33:42]: ***  [, Level 0]: El Monkey is on a killing spree with 5 blocks
+[2021-04-16 08:33:42]: Nudelsaft c: [FookinLads, Level 60]: Killua: discord webhooks are trash
+[2021-04-16 08:33:43]: Killua [FookinLads, Level 37]: oh gotit
+[2021-04-16 08:33:49]: ***  [, Level 0]: El Monkey's killing spree was ended by No~Filter (6 blocks)
