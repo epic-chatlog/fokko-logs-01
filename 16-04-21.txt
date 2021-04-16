@@ -7886,3 +7886,6 @@
 [2021-04-16 10:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-16 10:25:55]: ***  [, Level 0]: '(3)cookie' has left the game
 [2021-04-16 10:26:11]: Lyshinyr Wos [, Level 0]: stop Flupper...
+[2021-04-16 10:26:38]: Zephir™ [, Level 40]: YelloWorlD: ta quoi en bonus ?
+[2021-04-16 10:26:41]: ***  [, Level 0]: 'El patron' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 10:26:41]: ***  [, Level 0]: '[D] El patron' has left the game (Too weak connection (not acked for 60 seconds))
