@@ -6806,3 +6806,7 @@
 [2021-04-16 08:49:54]: JustRace [DogParty, Level 0]: SanoreX: 192.168.1.1?
 [2021-04-16 08:49:55]: El patron [, Level 30]: Coca: i have one jump
 [2021-04-16 08:49:58]: SanoreX [Chilli.*, Level 27]: JustRace: no
+[2021-04-16 08:50:26]: Kiøn1029 [.bad, Level 32]: XD
+[2021-04-16 08:50:26]: SanoreX [Chilli.*, Level 27]: JustRace: I think 192 start ips is turkish ip
+[2021-04-16 08:50:28]: No~Filter [, Level 0]: XD
+[2021-04-16 08:50:30]: SanoreX [Chilli.*, Level 27]: k bye
