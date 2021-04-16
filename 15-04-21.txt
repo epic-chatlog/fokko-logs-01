@@ -14167,3 +14167,5 @@
 [2021-04-15 23:19:20]: Adleg [, Level 0]: how i must move??
 [2021-04-15 23:19:22]: [D] Kahve [, Level 19]: xd
 [2021-04-15 23:19:31]: Adleg [, Level 0]: i stuck always??
+[2021-04-15 23:20:04]: Adleg [, Level 0]: when i move in the teleporter i stuck
+[2021-04-15 23:20:07]: ***  [, Level 0]: 'test' entered and joined the game
