@@ -13791,3 +13791,4 @@
 [2021-04-15 20:51:10]: ***  [, Level 0]: 'ERROR' entered and joined the game
 [2021-04-15 20:51:14]: ***  [, Level 0]: 'ERROR.' entered and joined the game
 [2021-04-15 20:53:38]: ***  [, Level 0]: 'hihi' entered and joined the game
+[2021-04-15 20:54:15]: ***  [, Level 0]: 'hihi' has left the game
