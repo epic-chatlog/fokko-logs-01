@@ -4324,3 +4324,4 @@
 [2021-04-16 06:09:17]: ChillerDragon [Chilli.*, Level 16]: Error: woona failed to remote control (invalid token)
 [2021-04-16 06:09:27]: ChillerDragon.* [|*KoG*|, Level 42]: woona: dont whisper xd
 [2021-04-16 06:09:29]: ChillerDragon.* [|*KoG*|, Level 42]: i cant read it
+[2021-04-16 06:09:33]: ERROR. [404, Level 57]: what a gay
