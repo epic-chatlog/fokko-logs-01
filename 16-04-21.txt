@@ -4327,3 +4327,6 @@
 [2021-04-16 06:09:33]: ERROR. [404, Level 57]: what a gay
 [2021-04-16 06:09:50]: ERROR. [404, Level 57]: it could be so eas< dfor him to make peace
 [2021-04-16 06:09:53]: ChillerDragon [Chilli.*, Level 16]: Error: Nudelsaft c failed to remote control (invalid token)
+[2021-04-16 06:10:01]: ChillerDragon.* [Chilli.*, Level 42]: pff like u ever make peace easily ERROR
+[2021-04-16 06:10:03]: ChillerDragon.* [Chilli.*, Level 42]: stop hax Nudelsaft c:
+[2021-04-16 06:10:04]: ChillerDragon [Chilli.*, Level 16]: Error: Nudelsaft c failed to remote control (invalid token)
