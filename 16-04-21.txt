@@ -4438,3 +4438,8 @@
 [2021-04-16 06:17:23]: ***  [, Level 0]: 'Dark_Heracles *' has left the game
 [2021-04-16 06:18:10]: (1)RM | Arin [Retard MNKY, Level 0]: Fookinlads ez clap xD
 [2021-04-16 06:18:13]: ***  [, Level 0]: '11111' entered and joined the game
+[2021-04-16 06:18:30]: ***  [, Level 0]: '(1)kais' has left the game (Timeout Protection over)
+[2021-04-16 06:18:30]: ***  [, Level 0]: 'kais' has left the game (Timeout Protection over)
+[2021-04-16 06:18:31]: LadyBug [, Level 35]: ERROR: ?
+[2021-04-16 06:18:31]: ERROR. [404, Level 57]: Beetle:  who u
+[2021-04-16 06:18:35]: ***  [, Level 0]: 'lolpoep' entered and joined the game
