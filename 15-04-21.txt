@@ -14243,3 +14243,5 @@
 [2021-04-15 23:24:53]: SanoreX [Chilli.*, Level 27]: ask and I answer Ðream
 [2021-04-15 23:24:55]: [D] Kahve [, Level 19]: SanoreX: plot alıyom
 [2021-04-15 23:24:58]: [D] Kahve [, Level 19]: sağındakini
+[2021-04-15 23:25:04]: SanoreX [Chilli.*, Level 27]: Kahve: zaten var
+[2021-04-15 23:25:11]: ***  [, Level 0]: 'Cosmo' entered and joined the game
