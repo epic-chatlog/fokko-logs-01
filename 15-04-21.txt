@@ -13411,3 +13411,5 @@
 [2021-04-15 18:02:36]: (1)☺ [, Level 13]: yeah
 [2021-04-15 18:03:12]: (1)☺ [, Level 13]: i will afk man bye
 [2021-04-15 18:05:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-15 18:10:46]: ***  [, Level 0]: '(3)Zʷʰʸˀ' has left the game
+[2021-04-15 18:10:46]: ***  [, Level 0]: '(2)Zʷʰʸˀ' has left the game
