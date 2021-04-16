@@ -8232,3 +8232,9 @@
 [2021-04-16 10:56:06]: Falco642 [, Level 0]: xd
 [2021-04-16 10:56:10]: GODLIKe [, Level 44]: basoka: no
 [2021-04-16 10:56:18]: GODLIKe [, Level 44]: AHAH
+[2021-04-16 10:56:27]: Kezo [DogParty, Level 41]: .: hi
+[2021-04-16 10:56:28]: Matiteusz [TrRShClNrRs, Level 37]: .: im in teikoku clan in v3 and emmm they want me to set nickname teikoku matiteusz but name was too long so i deleted a xD
+[2021-04-16 10:56:29]: . [TrRShClNrRs, Level 42]: Kezo: hi
+[2021-04-16 10:56:31]: (1)cookie [, Level 0]: nice
+[2021-04-16 10:56:36]: Kezo [DogParty, Level 41]: .: brawlhalla player
+[2021-04-16 10:56:37]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
