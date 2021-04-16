@@ -4549,3 +4549,5 @@
 [2021-04-16 06:30:23]: ***  [, Level 0]: 'vihandu tee' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-16 06:30:25]: Kirito [{TQuila}, Level 40]: TZSA: <
 [2021-04-16 06:30:29]: Flupper [, Level 40]: i have nothing anyway
+[2021-04-16 06:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-16 06:30:55]: Flupper [, Level 40]: xd
