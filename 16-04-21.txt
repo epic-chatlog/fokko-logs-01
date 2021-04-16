@@ -13181,3 +13181,5 @@
 [2021-04-16 16:45:30]: bob [Legacy™, Level 36]: wtf
 [2021-04-16 16:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-16 16:46:33]: ***  [, Level 0]: bob's killing spree was ended by Zephir™ (8 blocks)
+[2021-04-16 16:46:54]: Zephir™ [404, Level 40]: bob: never kill me 11 time like u
+[2021-04-16 16:47:00]: bob [Legacy™, Level 36]: xd
