@@ -1771,3 +1771,4 @@
 [2021-04-16 02:52:00]: ***  [, Level 0]: 'fahh' entered and joined the game
 [2021-04-16 02:52:00]: sL|Gabsty [SkinLover, Level 0]: Axandos: xD
 [2021-04-16 02:52:01]: [D] mamikral011 [DogParty, Level 0]: Intensiv: BEKLE
+[2021-04-16 02:52:04]: ***  [, Level 0]: 'fahh' joined the spectators
