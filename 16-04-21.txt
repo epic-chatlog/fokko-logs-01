@@ -667,3 +667,4 @@
 [2021-04-16 01:11:03]: Boti. [.bad, Level 0]: sok a buzi
 [2021-04-16 01:11:06]: [D] #5 blocker [|*MorE*|, Level 0]: XD
 [2021-04-16 01:11:09]: ***  [, Level 0]: 'kaktus chunior' has left the game
+[2021-04-16 01:11:11]: ***  [, Level 0]: 'kaktus chunior' entered and joined the game
