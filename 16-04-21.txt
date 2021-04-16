@@ -4519,3 +4519,5 @@
 [2021-04-16 06:27:28]: (1)RM | Arin [Retard MNKY, Level 0]: xD
 [2021-04-16 06:27:29]: (1)RM | Arin [Retard MNKY, Level 0]: ik
 [2021-04-16 06:27:39]: ***  [, Level 0]: 'vollesprit' entered and joined the game
+[2021-04-16 06:27:48]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-16 06:27:49]: TZSA [, Level 0]: ERROR: ?
