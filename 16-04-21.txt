@@ -469,3 +469,4 @@
 [2021-04-16 00:58:00]: Kiøn1029 [.bad, Level 32]: Marcisten: akkor ez valami amit fokko elrontott
 [2021-04-16 00:58:02]: ***  [, Level 0]: dummier finished in: 7 minute(s)  0.40 second(s)
 [2021-04-16 00:58:04]: [D] #5 blocker [|*MorE*|, Level 0]: Kiøn1029: adsz monit
+[2021-04-16 00:58:09]: Kiøn1029 [.bad, Level 32]: #5 blocker: nincs
