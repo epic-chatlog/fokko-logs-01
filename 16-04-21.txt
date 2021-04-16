@@ -6779,3 +6779,9 @@
 [2021-04-16 08:48:14]: JustRace [DogParty, Level 0]: SanoreX: yes you can I tested hamachi some time ago
 [2021-04-16 08:48:35]: ***  [, Level 0]: el champeon is on a killing spree with 15 blocks
 [2021-04-16 08:48:35]: ***  [, Level 0]: 'Dan' joined the spectators
+[2021-04-16 08:48:38]: ***  [, Level 0]: 'Dan' joined the game
+[2021-04-16 08:48:39]: ***  [, Level 0]: Kiøn1029 finished in: 1 minute(s) 44.64 second(s)
+[2021-04-16 08:48:39]: ***  [, Level 0]: New record: 5 minute(s) 18.58 second(s) better.
+[2021-04-16 08:48:41]: ***  [, Level 0]: No~Filter finished in: 1 minute(s) 41.68 second(s)
+[2021-04-16 08:48:41]: SanoreX [Chilli.*, Level 27]: JustRace: ur ip 192.168.........  hamachi ip 91 9391949 1.. random
+[2021-04-16 08:48:43]: ***  [, Level 0]: 'oof' entered and joined the game
