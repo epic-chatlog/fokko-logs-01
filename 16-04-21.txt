@@ -6642,3 +6642,6 @@
 [2021-04-16 08:37:27]: ***  [, Level 0]: 'Pa1n' has left the game
 [2021-04-16 08:37:36]: Killua [FookinLads, Level 37]: Nudelsaft c:: my game frezes and lags
 [2021-04-16 08:37:40]: Nudelsaft c: [FookinLads, Level 60]: rip
+[2021-04-16 08:37:49]: Kirito [{TQuila}, Level 40]: beetle crashed ez
+[2021-04-16 08:37:51]: (1)☺ [, Level 0]: me too
+[2021-04-16 08:37:57]: (1)☺ [, Level 0]: i crash
