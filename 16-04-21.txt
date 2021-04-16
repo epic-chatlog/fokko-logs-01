@@ -466,3 +466,6 @@
 [2021-04-16 00:57:39]: Marcisten [Helper, Level 0]: ki Kiøn1029
 [2021-04-16 00:57:44]: Kahve [, Level 24]: omg 999 ping
 [2021-04-16 00:57:45]: Kiøn1029 [.bad, Level 32]: ja
+[2021-04-16 00:58:00]: Kiøn1029 [.bad, Level 32]: Marcisten: akkor ez valami amit fokko elrontott
+[2021-04-16 00:58:02]: ***  [, Level 0]: dummier finished in: 7 minute(s)  0.40 second(s)
+[2021-04-16 00:58:04]: [D] #5 blocker [|*MorE*|, Level 0]: Kiøn1029: adsz monit
