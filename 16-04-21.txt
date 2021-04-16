@@ -6568,3 +6568,7 @@
 [2021-04-16 08:33:04]: ***  [, Level 0]: New record: 1 minute(s)  7.94 second(s) better.
 [2021-04-16 08:33:11]: şlk10 [, Level 27]: Terra:
 [2021-04-16 08:33:13]: şlk10 [, Level 27]: Kirito:
+[2021-04-16 08:33:19]: ☺ [, Level 22]: xd
+[2021-04-16 08:33:21]: ***  [, Level 0]: Killua is on a killing spree with 5 blocks
+[2021-04-16 08:33:25]: Killua [FookinLads, Level 37]: wait omg Swarfey
+[2021-04-16 08:33:26]: (1)☺ [, Level 0]: xd
