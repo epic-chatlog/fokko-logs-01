@@ -2058,3 +2058,7 @@
 [2021-04-16 03:10:37]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-16 03:10:39]: #5 blocker [|*MorE*|, Level 24]: My mom banned me from the machine so I'm playing secretly can't you give it away now? he'll be home soon
 [2021-04-16 03:10:41]: ***  [, Level 0]: '(1)test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 03:10:49]: ***  [, Level 0]: '(1)Shy-ra.' has left the game
+[2021-04-16 03:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-16 03:10:51]: ***  [, Level 0]: 'Good man' entered and joined the game
+[2021-04-16 03:10:55]: [D] BC|serwan [, Level 0]: sL|Gabsty: KANN I HELLP HEM
