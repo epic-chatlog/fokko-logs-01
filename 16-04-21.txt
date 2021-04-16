@@ -4038,3 +4038,4 @@
 [2021-04-16 05:47:58]: ***  [, Level 0]: 'brainless tee' has left the game
 [2021-04-16 05:47:59]: ***  [, Level 0]: 'BULLETBOT' has left the game
 [2021-04-16 05:48:21]: woona [, Level 48]: ChillerDragon: ghostdragon
+[2021-04-16 05:48:32]: ***  [, Level 0]: 'Swarfey' entered and joined the game
