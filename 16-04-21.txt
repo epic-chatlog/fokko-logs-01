@@ -7872,3 +7872,6 @@
 [2021-04-16 10:23:14]: Zephir™ [, Level 40]: ERROR: come
 [2021-04-16 10:23:15]: Estarossa [, Level 0]: ERROR: heyooo
 [2021-04-16 10:23:23]: ERROR. [404, Level 57]: Zephir™:  come?
+[2021-04-16 10:23:25]: Estarossa [, Level 0]: ERROR: Meliodas
+[2021-04-16 10:23:28]: Flupper [, Level 40]: XD
+[2021-04-16 10:23:32]: Zephir™ [, Level 40]: ERROR: u want red flag ?
