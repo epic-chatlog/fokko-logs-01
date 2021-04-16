@@ -2418,3 +2418,6 @@
 [2021-04-16 03:40:58]: Nudelsaft c: [FookinLads, Level 42]: Matiteusz: coca = YelloWorlD dog
 [2021-04-16 03:41:03]: lolpoep [Ape, Level 0]: help me
 [2021-04-16 03:41:29]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-16 03:41:37]: ***  [, Level 0]: darkstar3 finished in: 3 minute(s) 49.22 second(s)
+[2021-04-16 03:41:39]: ***  [, Level 0]: 'BC|Tixnix' finished the special race!
+[2021-04-16 03:41:42]: ***  [, Level 0]: darkstar4 finished in: 1 minute(s) 35.12 second(s)
