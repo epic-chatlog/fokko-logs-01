@@ -7593,3 +7593,6 @@
 [2021-04-16 09:49:26]: Isegrin [, Level 55]: AXXAXAx
 [2021-04-16 09:49:40]: ***  [, Level 0]: TZSA finished in: 3 minute(s)  3.66 second(s)
 [2021-04-16 09:49:42]: ***  [, Level 0]: [D] TZSA finished in: 3 minute(s) 12.44 second(s)
+[2021-04-16 09:50:34]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-16 09:50:37]: G𝕖𝕝𝕒to [s/o razmo, Level 42]: loul$
+[2021-04-16 09:50:38]: ***  [, Level 0]: 'Isegrin' has left the game
