@@ -6364,3 +6364,8 @@
 [2021-04-16 08:18:35]: ☺ [, Level 22]: what vihandu tee
 [2021-04-16 08:18:41]: Beetle [, Level 35]: Kirito: he attacked so he wanted that
 [2021-04-16 08:18:46]: vihandu tee [, Level 0]: ☺: i want go bank
+[2021-04-16 08:18:55]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: Swarfey i tried a udp connection with python didnt work out so well
+[2021-04-16 08:18:55]: Swarfey [FookinLads, Level 42]: TL|ŦƹƦ$ŦǾN: not very stable tho so i tried making it a bit more stable and its running since 2 hours or so without actually being connected
+[2021-04-16 08:18:57]: Kirito [{TQuila}, Level 40]: Nudelsaft c:: bist frei
+[2021-04-16 08:19:01]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: Swarfey: to listen to msgs XD
+[2021-04-16 08:19:03]: Nudelsaft c: [FookinLads, Level 60]: Kirito: ty
