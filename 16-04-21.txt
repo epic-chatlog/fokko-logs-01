@@ -6020,3 +6020,6 @@
 [2021-04-16 07:57:06]: Cylox [{TQuila}, Level 31]: GODLIKe: bune amk heryer bok böceği kaynıyor
 [2021-04-16 07:57:27]: GODLIKe [, Level 44]: Cylox.: at faramdakileri
 [2021-04-16 07:57:29]: kais [, Level 66]: Ding Dong: you can't, it is my plot
+[2021-04-16 07:57:30]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-16 07:57:35]: ***  [, Level 0]: 'Flea' entered and joined the game
+[2021-04-16 07:57:36]: Ding Dong [, Level 0]: how to get one ?
