@@ -7906,3 +7906,5 @@
 [2021-04-16 10:28:01]: ***  [, Level 0]: 'Kezo' has left the game
 [2021-04-16 10:28:02]: Zephir™ [, Level 40]: Meliodas: pas ma guerre demande a YelloWorlD
 [2021-04-16 10:28:10]: ***  [, Level 0]: 'sythn's dog' entered and joined the game
+[2021-04-16 10:28:14]: ***  [, Level 0]: 'Lyshinyr Wos' has left the game
+[2021-04-16 10:28:15]: Meliodas [.bad, Level 24]: YelloWorlD: ptn repond
