@@ -6625,3 +6625,4 @@
 [2021-04-16 08:36:36]: ***  [, Level 0]: 'El patron' entered and joined the game
 [2021-04-16 08:36:36]: ***  [, Level 0]: Soros is on a killing spree with 15 blocks
 [2021-04-16 08:36:39]: Nudelsaft c: [FookinLads, Level 60]: Killua: they probably interrupt each other somehow
+[2021-04-16 08:36:50]: Kirito [{TQuila}, Level 40]: bob rq HAHAH
