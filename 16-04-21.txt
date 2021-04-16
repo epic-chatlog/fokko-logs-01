@@ -6495,3 +6495,5 @@
 [2021-04-16 08:27:05]: ***  [, Level 0]: 'Ding Dong' has left the game
 [2021-04-16 08:27:07]:   [, Level 0]: vihandu tee: ☺:  you can buy ninja jet pack me
 [2021-04-16 08:27:13]: ***  [, Level 0]: Soros's killing spree was ended by PommesdePins (14 blocks)
+[2021-04-16 08:27:22]: ☺ [, Level 22]: i can you need be lvl 21
+[2021-04-16 08:27:26]: ☺ [, Level 22]: icant
