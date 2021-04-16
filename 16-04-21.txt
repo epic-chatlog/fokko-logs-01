@@ -4595,3 +4595,5 @@
 [2021-04-16 06:35:46]: RM | Arin [Retard MNKY, Level 16]: woona:  kommt
 [2021-04-16 06:35:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-16 06:35:55]: ***  [, Level 0]: Matiteusz is on a killing spree with 5 blocks
+[2021-04-16 06:36:09]: ERROR [404, Level 75]: xDDDDDDDDD#
+[2021-04-16 06:36:11]: RM | Arin [Retard MNKY, Level 16]: er ist down
