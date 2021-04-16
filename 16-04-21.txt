@@ -5721,3 +5721,5 @@
 [2021-04-16 07:40:27]: kais [, Level 66]: ✯|Not Bulash: i don't remember having asked
 [2021-04-16 07:40:34]: Foxie♥ [{TQuila}, Level 40]: fakers
 [2021-04-16 07:40:37]: any [404, Level 38]: ERROR: also shiro is kinda dumb sometimes tbh
+[2021-04-16 07:40:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-16 07:40:53]: vollesprit [, Level 0]: ~DemoizL~: mais t'as recu combien ?
