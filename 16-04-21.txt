@@ -8944,3 +8944,8 @@
 [2021-04-16 11:39:01]:   [, Level 0]: Cylox.: El patron: war
 [2021-04-16 11:39:04]: [D] El patron [, Level 24]: BC|Tixnix: nice
 [2021-04-16 11:39:04]: Zephir™ [, Level 40]: Falco641: mhh okay
+[2021-04-16 11:39:05]: Falco641 [.bad, Level 20]: besides we have the sane enemy
+[2021-04-16 11:39:05]: ***  [, Level 0]: 'fahh' entered and joined the game
+[2021-04-16 11:39:06]: ***  [, Level 0]: 'lil funky' entered and joined the game
+[2021-04-16 11:39:07]: Falco641 [.bad, Level 20]: tixnix
+[2021-04-16 11:39:12]: [D] El patron [, Level 24]: Cylox: we already
