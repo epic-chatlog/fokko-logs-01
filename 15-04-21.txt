@@ -14250,3 +14250,7 @@
 [2021-04-15 23:25:16]: SanoreX [Chilli.*, Level 27]: pls
 [2021-04-15 23:25:25]: ***  [, Level 0]: 'Rem's dummy' has left the game
 [2021-04-15 23:25:25]: ***  [, Level 0]: 'Rem's bae' has left the game
+[2021-04-15 23:25:27]: [D] Kahve [, Level 19]: ahhh
+[2021-04-15 23:25:27]: ***  [, Level 0]: 'GORED' entered and joined the game
+[2021-04-15 23:25:30]: [D] Kahve [, Level 19]: i need 20 lvl
+[2021-04-15 23:25:31]: [D] Kahve [, Level 19]: wait xd
