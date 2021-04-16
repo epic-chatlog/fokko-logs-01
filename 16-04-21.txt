@@ -646,3 +646,7 @@
 [2021-04-16 01:09:41]: Kiøn1029 [.bad, Level 32]: van még 510 sec
 [2021-04-16 01:09:44]: #5 blocker [|*MorE*|, Level 24]: elment az össz pénzem a plotra
 [2021-04-16 01:09:49]: Boti. [.bad, Level 0]: miből?
+[2021-04-16 01:10:03]: Kiøn1029 [.bad, Level 32]: amíg félnem kell a police hammeertől
+[2021-04-16 01:10:05]: ***  [, Level 0]: 'kaktus chunior' has left the game
+[2021-04-16 01:10:08]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-16 01:10:08]: ***  [, Level 0]: 'kaktus chunior' entered and joined the game
