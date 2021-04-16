@@ -13405,3 +13405,4 @@
 [2021-04-15 17:47:15]: (1)☺ [, Level 13]: where is the flag red
 [2021-04-15 17:50:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-15 17:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-15 18:00:46]: ***  [, Level 0]: 'IwillBlockYou' entered and joined the game
