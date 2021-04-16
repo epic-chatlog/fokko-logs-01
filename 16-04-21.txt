@@ -13140,3 +13140,6 @@
 [2021-04-16 16:35:49]: bob [Legacy™, Level 36]: just rq ok
 [2021-04-16 16:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-16 16:35:51]: bob [Legacy™, Level 36]: so i can leave
+[2021-04-16 16:36:07]: ***  [, Level 0]: 'Eliathan' has left the game
+[2021-04-16 16:36:08]: Zephir™ [404, Level 40]: bob: idc you, i just want farm
+[2021-04-16 16:36:10]: ***  [, Level 0]: 'Eliathan' entered and joined the game
