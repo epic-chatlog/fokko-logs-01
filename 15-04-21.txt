@@ -14157,3 +14157,4 @@
 [2021-04-15 23:18:40]: [D] Kahve [, Level 19]: spawn
 [2021-04-15 23:18:46]: #5 blocker [|*MorE*|, Level 0]: ok
 [2021-04-15 23:18:50]: Adleg [, Level 0]: @tevan on?
+[2021-04-15 23:18:58]: ***  [, Level 0]: '(1)Ƭevan' entered and joined the game
