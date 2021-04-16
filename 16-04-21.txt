@@ -7514,3 +7514,5 @@
 [2021-04-16 09:40:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 09:40:54]: [D] mamikral011 [DogParty, Level 0]: any²:
 [2021-04-16 09:40:57]: bob [Legacy™, Level 36]: haha ok nice
+[2021-04-16 09:41:01]: bob [Legacy™, Level 36]: what do they sell
+[2021-04-16 09:41:05]: bob [Legacy™, Level 36]: extractions
