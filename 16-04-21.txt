@@ -12515,3 +12515,9 @@
 [2021-04-16 14:28:29]: Killua [FookinLads, Level 37]: RERRQRQRQRQ
 [2021-04-16 14:28:37]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-16 14:28:40]: Isegrin [, Level 55]: |HolyHo|: WAAAY
+[2021-04-16 14:28:44]: ***  [, Level 0]: 'JUBA' has left the game
+[2021-04-16 14:28:44]: ***  [, Level 0]: 'Plaffy' has left the game
+[2021-04-16 14:28:47]: Killua [FookinLads, Level 37]: 0addteam test
+[2021-04-16 14:28:49]: BLACK [, Level 26]: Dan:
+[2021-04-16 14:28:54]: BLACK [, Level 26]: help dowm
+[2021-04-16 14:28:54]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0addteam test
