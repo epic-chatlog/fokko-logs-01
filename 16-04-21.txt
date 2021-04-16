@@ -1842,3 +1842,5 @@
 [2021-04-16 02:57:12]: el champeon [, Level 0]: BLACK: ???
 [2021-04-16 02:57:20]: BLACK [, Level 26]: el champeon:  to leave jail
 [2021-04-16 02:57:20]: ***  [, Level 0]: 'Hady' has left the game
+[2021-04-16 02:57:37]: el champeon [, Level 0]: BLACK: I don't care I leave and come in whenever I want
+[2021-04-16 02:57:46]: ***  [, Level 0]: 'MOM' entered and joined the game
