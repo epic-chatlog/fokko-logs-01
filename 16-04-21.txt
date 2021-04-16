@@ -8371,3 +8371,7 @@
 [2021-04-16 11:05:16]: ♥TAKO♥ [DogParty, Level 25]: Intensiv:  seni öldürmek
 [2021-04-16 11:05:20]: ✯ | Bulash [|Supressed|, Level 0]: Kezo: stop
 [2021-04-16 11:05:23]: GODLIKe [, Level 44]: basoka: help me or war
+[2021-04-16 11:05:41]: ***  [, Level 0]: 'Bozzkurt' has left the game
+[2021-04-16 11:05:41]: Intensiv_ [CrazyNoobs, Level 7]: ♥TAKO♥: tm
+[2021-04-16 11:05:42]: (2)cookie [, Level 0]: GODLIKe:  hy
+[2021-04-16 11:05:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
