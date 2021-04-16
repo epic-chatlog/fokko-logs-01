@@ -2209,3 +2209,5 @@
 [2021-04-16 03:22:28]: ***  [, Level 0]: 'zZzerayI' entered and joined the game
 [2021-04-16 03:22:33]: Adleg [, Level 0]: how i became here a rule=?
 [2021-04-16 03:22:34]: ***  [, Level 0]: 'zZz' entered and joined the game
+[2021-04-16 03:22:41]: zZzerayI [QuietLegend, Level 0]: hi
+[2021-04-16 03:22:46]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
