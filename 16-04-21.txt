@@ -654,3 +654,7 @@
 [2021-04-16 01:10:12]: Boti. [.bad, Level 0]: gyors login
 [2021-04-16 01:10:17]: Kiøn1029 [.bad, Level 32]: nem
 [2021-04-16 01:10:18]: ***  [, Level 0]: 'Sayme' entered and joined the game
+[2021-04-16 01:10:23]: ***  [, Level 0]: (1)Soros is on a killing spree with 5 blocks
+[2021-04-16 01:10:26]: Boti. [.bad, Level 0]: kion
+[2021-04-16 01:10:29]: Boti. [.bad, Level 0]: zsa a titkos szigetre
+[2021-04-16 01:10:32]: Kahve [, Level 24]: #5 blocker: go your plot xD
