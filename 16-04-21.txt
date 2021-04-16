@@ -6383,3 +6383,10 @@
 [2021-04-16 08:19:51]: vihandu tee [, Level 0]: ☺: thank my friend
 [2021-04-16 08:19:52]: ***  [, Level 0]: 'mamikral011' entered and joined the game
 [2021-04-16 08:19:52]: ***  [, Level 0]: '(1)Good man' entered and joined the game
+[2021-04-16 08:19:57]: ☺ [, Level 22]: np
+[2021-04-16 08:19:58]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-16 08:19:59]: ***  [, Level 0]: '(1)Good man' has left the game
+[2021-04-16 08:20:01]: ***  [, Level 0]: '[D] mamikral011' has left the game
+[2021-04-16 08:20:01]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-16 08:20:03]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
+[2021-04-16 08:20:07]: ***  [, Level 0]: 'mamikral011' entered and joined the game
