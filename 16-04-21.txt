@@ -6750,3 +6750,10 @@
 [2021-04-16 08:46:52]: ***  [, Level 0]: 'şlk10' changed name to 'mamikral01'
 [2021-04-16 08:46:55]: El patron [, Level 30]: mamikral01:
 [2021-04-16 08:46:56]: ***  [, Level 0]: 'BitchPlease Jr.' changed name to '(1)Hala Madrid'
+[2021-04-16 08:46:58]: ***  [, Level 0]: 'SanoreX' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 08:46:58]: ***  [, Level 0]: 'mamikral01' changed name to 'mamikral011'
+[2021-04-16 08:47:01]: ***  [, Level 0]: '(1)Hala Madrid' changed name to 'BitchPlease Jr.'
+[2021-04-16 08:47:03]: ***  [, Level 0]: 'Dan' joined the spectators
+[2021-04-16 08:47:05]:   [, Level 0]: (1)SanoreX: JustRace: can u come my local server with hamachi? I coded one bot with my map
+[2021-04-16 08:47:06]: El patron [, Level 30]: Swarfey: xd
+[2021-04-16 08:47:07]: ***  [, Level 0]: 'Dan' joined the game
