@@ -12681,3 +12681,6 @@
 [2021-04-16 14:46:45]: Killua [FookinLads, Level 37]: now 20 sec YelloWorlD
 [2021-04-16 14:47:15]: YelloWorlD [DogParty, Level 57]: 0addteam YelloWorlD
 [2021-04-16 14:47:17]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-16 14:47:23]: Killua [FookinLads, Level 37]: happy YelloWorlD ?
+[2021-04-16 14:47:24]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-16 14:47:28]: YelloWorlD [DogParty, Level 57]: 0delteam 11
