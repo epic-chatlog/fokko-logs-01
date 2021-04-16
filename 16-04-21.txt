@@ -2027,3 +2027,9 @@
 [2021-04-16 03:09:14]: S Y T H N [, Level 39]: xD
 [2021-04-16 03:09:16]: Ðream [TrRShClNrRs, Level 47]: S Y T H N: xD
 [2021-04-16 03:09:19]: Ðream [TrRShClNrRs, Level 47]: S Y T H N: teach me:D
+[2021-04-16 03:09:24]: [D] El patron [, Level 24]: ~DemoizL~: ?
+[2021-04-16 03:09:26]: Hady [new bot, Level 0]: #5 blocker:  ok i later
+[2021-04-16 03:09:26]: mamikral011 [DogParty, Level 0]: ~DemoizL~: ?
+[2021-04-16 03:09:30]: Hady [new bot, Level 0]: #5 blocker:  ok later
+[2021-04-16 03:09:30]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 03:09:31]: mamikral011 [DogParty, Level 0]: ~DemoizL~: help or war
