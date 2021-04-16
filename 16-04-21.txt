@@ -11524,3 +11524,6 @@
 [2021-04-16 13:35:30]: Andresss [Jewish, Level 1]: Kahve:
 [2021-04-16 13:35:31]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-16 13:35:31]: Axel [TrRShClNrRs, Level 30]: ,: Ye, but Brawlhalla is a fighting game, and teeworlds is
+[2021-04-16 13:35:38]: , [TrRShClNrRs, Level 41]: Axel: a fighting game
+[2021-04-16 13:35:40]: Andresss [Jewish, Level 1]: D Kahve
+[2021-04-16 13:35:45]: , [TrRShClNrRs, Level 41]: Axel: XDDD
