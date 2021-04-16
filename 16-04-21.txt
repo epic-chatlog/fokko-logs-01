@@ -6094,3 +6094,5 @@
 [2021-04-16 08:03:22]: Flipper [, Level 16]: ~DemoizL~ bye
 [2021-04-16 08:03:23]: El shampo [{TQuila}, Level 40]: where is it
 [2021-04-16 08:03:25]: ~DemoizL~ [, Level 39]: Flipper: bye
+[2021-04-16 08:03:28]: ***  [, Level 0]: 'Flupper' has left the game
+[2021-04-16 08:03:28]: ***  [, Level 0]: 'Flipper' has left the game
