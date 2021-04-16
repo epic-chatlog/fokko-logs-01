@@ -1395,3 +1395,4 @@
 [2021-04-16 02:23:31]: Kahve [, Level 24]: any wait i save my money
 [2021-04-16 02:23:34]: Kahve [, Level 24]: total 5k
 [2021-04-16 02:23:36]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
+[2021-04-16 02:23:49]: ***  [, Level 0]: Soros's killing spree was ended by blazingd420 (5 blocks)
