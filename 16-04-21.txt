@@ -1829,3 +1829,6 @@
 [2021-04-16 02:55:43]: (1)Shy-ra. [, Level 0]: lag
 [2021-04-16 02:55:49]: [D] #5 blocker [|*MorE*|, Level 0]: Boti.: okés tudom majdnem leestem a jetpackkal mert ddos elni akarták a szerót és belaggolt
 [2021-04-16 02:55:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-16 02:56:00]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-16 02:56:03]: Hady [new bot, Level 33]: BLACK:  yea
+[2021-04-16 02:56:07]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
