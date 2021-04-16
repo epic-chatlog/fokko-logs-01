@@ -6373,3 +6373,6 @@
 [2021-04-16 08:19:11]: ***  [, Level 0]: 'Pa1n' entered and joined the game
 [2021-04-16 08:19:13]: Nudelsaft c: [FookinLads, Level 60]: TL|ŦƹƦ$ŦǾN: ye its magic
 [2021-04-16 08:19:19]: Good man [Drunks, Level 31]: Beetlebrick: help
+[2021-04-16 08:19:24]: vollesprit [, Level 1]: bon , l'essai a ete un echec
+[2021-04-16 08:19:25]: ***  [, Level 0]: 'JValikA' has left the game
+[2021-04-16 08:19:26]: Good man [Drunks, Level 31]: Soros: help me
