@@ -7813,3 +7813,4 @@
 [2021-04-16 10:16:35]: [D] El patron [, Level 24]: Zephir™: pro
 [2021-04-16 10:16:47]: Flupper [, Level 40]: lol gg
 [2021-04-16 10:16:57]: ***  [, Level 0]: 'ReccoTR' has left the game
+[2021-04-16 10:17:03]: ***  [, Level 0]: 'ReccoTR' entered and joined the game
