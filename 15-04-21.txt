@@ -14305,3 +14305,6 @@
 [2021-04-15 23:29:48]: #5 blocker [|*MorE*|, Level 24]: wait i go bank
 [2021-04-15 23:29:48]: ***  [, Level 0]: 'test' has left the game
 [2021-04-15 23:29:50]: [D] Kahve [, Level 19]: where
+[2021-04-15 23:29:52]: SanoreX.* [Chilli.*, Level 22]: I kick it
+[2021-04-15 23:29:57]: #5 blocker [|*MorE*|, Level 24]: Kahve: plot 17
+[2021-04-15 23:30:00]: [D] Kahve [, Level 19]: #5 blocker: waitt
