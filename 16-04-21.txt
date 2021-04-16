@@ -10074,3 +10074,7 @@
 [2021-04-16 12:24:01]: Cylox. [{TQuila}, Level 24]: I HELPEDU MAN
 [2021-04-16 12:24:03]: Killua [FookinLads, Level 0]: , space lane straight light car etc
 [2021-04-16 12:24:05]: Cylox. [{TQuila}, Level 24]: I HELP U
+[2021-04-16 12:24:06]: ***  [, Level 0]: 'deSi' entered and joined the game
+[2021-04-16 12:24:08]:   [, Level 0]: [D] mamikral011: [D] falkenauge: help
+[2021-04-16 12:24:10]: ***  [, Level 0]: 'deSi' has left the game
+[2021-04-16 12:24:15]:   [, Level 0]: [D] mamikral011: bob: why dont stop
