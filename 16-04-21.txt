@@ -1777,3 +1777,12 @@
 [2021-04-16 02:52:24]: BLACK [, Level 26]: any:  i have a gift for u
 [2021-04-16 02:52:25]: [D] #5 blocker [|*MorE*|, Level 0]: Hady: yes
 [2021-04-16 02:52:26]: Axandos² [, Level 21]: safe hax
+[2021-04-16 02:52:28]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 02:52:29]: sL|Gabsty [SkinLover, Level 0]: nein
+[2021-04-16 02:52:31]: Axandos² [, Level 21]: doch xD
+[2021-04-16 02:52:31]: ***  [, Level 0]: '(1)test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 02:52:32]: sL|Gabsty [SkinLover, Level 0]: einfach nur ne maschine :D
+[2021-04-16 02:52:34]: ***  [, Level 0]: '(2)test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 02:52:34]: any [404, Level 38]: BLACK: ??
+[2021-04-16 02:52:34]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-16 02:52:38]: [D] mamikral011 [DogParty, Level 0]: sa
