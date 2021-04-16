@@ -1669,3 +1669,6 @@
 [2021-04-16 02:45:21]: BLACK [, Level 26]: ITS OKAY
 [2021-04-16 02:45:21]: vollesprit [, Level 0]: wait
 [2021-04-16 02:45:24]: allBlocker [, Level 0]: stop wb
+[2021-04-16 02:45:28]: allBlocker [, Level 0]: noobas
+[2021-04-16 02:45:34]: BLACK [, Level 26]: Hady: idiot
+[2021-04-16 02:45:36]: ***  [, Level 0]: 'Axandos' entered and joined the game
