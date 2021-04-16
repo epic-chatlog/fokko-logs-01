@@ -6738,3 +6738,6 @@
 [2021-04-16 08:46:19]: ***  [, Level 0]: 'darkstar2' entered and joined the game
 [2021-04-16 08:46:21]: ***  [, Level 0]: '(2)SanoreX' has left the game
 [2021-04-16 08:46:28]: [D] şlk10 [, Level 22]: El patron:
+[2021-04-16 08:46:37]:   [, Level 0]: (1)SanoreX: JustRace: u know hamachi?
+[2021-04-16 08:46:38]: ***  [, Level 0]: '(1)Nudelsaft c:' entered and joined the game
+[2021-04-16 08:46:42]: JustRace [DogParty, Level 0]: SanoreX:  yes
