@@ -4987,3 +4987,6 @@
 [2021-04-16 07:02:18]: ***  [, Level 0]: 'vihandu tee' has left the game
 [2021-04-16 07:02:20]: Luna [, Level 0]: xD
 [2021-04-16 07:02:22]: any [404, Level 38]: hi ERROR
+[2021-04-16 07:02:26]: (1)Meetiteusz [TrRShClNrRs, Level 0]: Ƭevan: oh ok xD
+[2021-04-16 07:02:28]: ***  [, Level 0]: 'HamO' has left the game
+[2021-04-16 07:02:35]: mamikral011 [DogParty, Level 0]: stop
