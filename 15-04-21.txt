@@ -14444,3 +14444,8 @@
 [2021-04-15 23:39:47]: SanoreX [Chilli.*, Level 27]: ;kill
 [2021-04-15 23:39:54]: SanoreX [Chilli.*, Level 27]: ;KiLl
 [2021-04-15 23:39:54]: Nudelsaft c: [FookinLads, Level 0]: a
+[2021-04-15 23:40:03]: SanoreX [Chilli.*, Level 27]: ;say Nudelsaft c: İS FUCK
+[2021-04-15 23:40:06]: SanoreX [Chilli.*, Level 27]: ;say Nudelsaft c: İS GAY
+[2021-04-15 23:40:07]: Nudelsaft c: [FookinLads, Level 0]: ;emote 3
+[2021-04-15 23:40:12]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 23:40:14]: SanoreX [Chilli.*, Level 27]: ;emote 1
