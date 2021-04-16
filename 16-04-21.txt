@@ -12946,3 +12946,6 @@
 [2021-04-16 15:59:51]: ~DemoizL~ [, Level 39]: Zephir™: zut
 [2021-04-16 16:00:16]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
 [2021-04-16 16:00:23]: bob [Legacy™, Level 36]: BATZ NO JUMP INSTANT KARMA NICE CALL
+[2021-04-16 16:00:48]: ***  [, Level 0]: 'Kirito' has left the game
+[2021-04-16 16:00:48]: ***  [, Level 0]: '(1)Kirito' has left the game
+[2021-04-16 16:00:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
