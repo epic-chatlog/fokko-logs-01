@@ -2277,3 +2277,5 @@
 [2021-04-16 03:28:46]: ***  [, Level 0]: 'El Patron's fan' has left the game
 [2021-04-16 03:29:05]: any [404, Level 38]: Meetiteusz: ???
 [2021-04-16 03:29:07]: Matiteusz [TrRShClNrRs, Level 37]: any: ?
+[2021-04-16 03:29:11]: Matiteusz [TrRShClNrRs, Level 37]: any: U attacked me
+[2021-04-16 03:29:17]: ***  [, Level 0]: 'nameless tee' has left the game
