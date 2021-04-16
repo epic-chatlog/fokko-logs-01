@@ -13911,3 +13911,5 @@
 [2021-04-15 22:57:01]: Kahve [, Level 23]: olm 1 tane neyine yetmiyo
 [2021-04-15 22:57:03]: Kahve [, Level 23]: banada lazım level
 [2021-04-15 22:57:08]: SanoreX.* [Chilli.*, Level 22]: zaten dummynin xpsine ihtiyazı yok
+[2021-04-15 22:57:20]: Kahve [, Level 23]: tamam ver o zaman
+[2021-04-15 22:57:24]: SanoreX.* [Chilli.*, Level 22]: zaten dummynin xpsine ihtiyazı yok dummy hesabı tek para kasıp normale vermek için :D
