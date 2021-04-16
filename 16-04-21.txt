@@ -1094,3 +1094,7 @@
 [2021-04-16 01:50:43]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-16 01:50:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 01:50:55]: Estarossa [, Level 11]: Marcisten:
+[2021-04-16 01:50:56]: HeavyGeneral [FookinLads, Level 44]: QQ
+[2021-04-16 01:51:00]: ***  [, Level 0]: 'power' has left the game
+[2021-04-16 01:51:01]: any² [404, Level 42]: Nudelsaft c:: x)
+[2021-04-16 01:51:05]: Estarossa [, Level 11]: Marcisten: look
