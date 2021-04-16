@@ -314,3 +314,4 @@
 [2021-04-16 00:42:53]: Kiøn1029 [.bad, Level 32]: #5 blocker: XDD
 [2021-04-16 00:43:01]: Kiøn1029 [.bad, Level 32]: [D] #5 blocker: ki próbáljuk?
 [2021-04-16 00:43:05]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 00:43:11]: ***  [, Level 0]: 'any²' entered and joined the game
