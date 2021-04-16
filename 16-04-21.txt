@@ -6519,3 +6519,4 @@
 [2021-04-16 08:29:12]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-16 08:29:26]: ***  [, Level 0]: Soros's killing spree was ended by PommesdePins (5 blocks)
 [2021-04-16 08:29:39]: Killua [FookinLads, Level 37]: ok good to know ERROR
+[2021-04-16 08:29:54]: Swarfey [FookinLads, Level 42]: 0addwar ERROR
