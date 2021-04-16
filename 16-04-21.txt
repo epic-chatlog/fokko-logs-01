@@ -12695,3 +12695,6 @@
 [2021-04-16 14:48:18]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0addteam YelloWorlD
 [2021-04-16 14:48:23]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-16 14:48:32]: (1)☺ [, Level 14]: 0delteam 11
+[2021-04-16 14:48:39]: YelloWorlD [DogParty, Level 57]: 0delteam 11
+[2021-04-16 14:48:44]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: stop YelloWorlD xD
+[2021-04-16 14:48:47]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0addteam YelloWorlD
