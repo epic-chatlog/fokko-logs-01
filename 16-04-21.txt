@@ -3219,3 +3219,8 @@
 [2021-04-16 04:29:50]: Nudelsaft c: [FookinLads, Level 60]: test
 [2021-04-16 04:29:52]: Nudelsaft c: [FookinLads, Level 60]: a
 [2021-04-16 04:29:53]: 1 [, Level 18]: gel
+[2021-04-16 04:30:08]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-16 04:30:11]: darkstar3 [Legacy™, Level 11]: rekt
+[2021-04-16 04:30:12]: any² [404, Level 42]: darkstar3: i see
+[2021-04-16 04:30:15]: any² [404, Level 42]: darkstar: gl
+[2021-04-16 04:30:16]: [D] TZSA [, Level 0]: xD
