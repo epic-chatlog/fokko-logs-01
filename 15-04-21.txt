@@ -14091,3 +14091,7 @@
 [2021-04-15 23:12:58]: ***  [, Level 0]: Ðream finished in: 8 minute(s) 11.90 second(s)
 [2021-04-15 23:13:01]: Kahve [, Level 24]: anaaa 24 lvl olmuşum lan
 [2021-04-15 23:13:07]: SanoreX.* [Chilli.*, Level 22]: ben 27
+[2021-04-15 23:13:14]: SanoreX.* [Chilli.*, Level 22]: flg pls
+[2021-04-15 23:13:18]: test [asd, Level 0]:    ;kill
+[2021-04-15 23:13:19]: SanoreX.* [Chilli.*, Level 22]: thx
+[2021-04-15 23:13:20]: test [asd, Level 0]:    ;kill
