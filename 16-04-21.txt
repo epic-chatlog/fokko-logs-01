@@ -1804,3 +1804,8 @@
 [2021-04-16 02:53:40]: [D] #5 blocker [|*MorE*|, Level 0]: Hady: account generator XDDDDDDDDDD
 [2021-04-16 02:53:40]: BLACK [, Level 26]: any:  its ok xD
 [2021-04-16 02:53:50]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 02:53:54]: ***  [, Level 0]: '(1)test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 02:53:58]: ***  [, Level 0]: 'Boti. but 0.7' entered and joined the game
+[2021-04-16 02:54:01]: ***  [, Level 0]: 'Boti. but 0.7' has left the game
+[2021-04-16 02:54:05]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[2021-04-16 02:54:06]: any [404, Level 38]: HeavyGeneral: whut ur doin ? x)
