@@ -13420,3 +13420,4 @@
 [2021-04-15 18:12:15]: ***  [, Level 0]: 'IwillBlockYou' has left the game
 [2021-04-15 18:15:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-15 18:15:50]: ***  [, Level 0]: 'Maniu' has left the game
+[2021-04-15 18:17:52]: ***  [, Level 0]: '[D] 1000' entered and joined the game
