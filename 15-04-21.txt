@@ -13691,3 +13691,6 @@
 [2021-04-15 19:10:24]: Kirito [{TQuila}, Level 40]: you know that trick?
 [2021-04-15 19:10:31]: ☺ [, Level 21]: wtf
 [2021-04-15 19:10:35]: ☺ [, Level 21]: how
+[2021-04-15 19:10:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-15 19:10:51]: Kirito [{TQuila}, Level 40]: it is the taser. Taser freezes you 1 second. If you are tasered before getting in freeze you will skip freeze
+[2021-04-15 19:10:57]: Kirito [{TQuila}, Level 40]: look
