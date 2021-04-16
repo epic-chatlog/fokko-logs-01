@@ -13431,3 +13431,5 @@
 [2021-04-15 18:20:32]: bob [Legacy™, Level 36]: how old are you BLACK
 [2021-04-15 18:20:38]: BLACK [, Level 26]: hmm why
 [2021-04-15 18:20:39]: BLACK [, Level 26]: 16
+[2021-04-15 18:20:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-15 18:20:51]: ***  [, Level 0]: '[D] 1000' entered and joined the game
