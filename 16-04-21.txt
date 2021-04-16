@@ -4120,3 +4120,5 @@
 [2021-04-16 05:53:47]: RM | Arin [Retard MNKY, Level 16]: ERROR.:  lass ma rüberwachsen
 [2021-04-16 05:54:06]: RM | Arin [Retard MNKY, Level 16]: wtf
 [2021-04-16 05:54:12]: RM | Arin [Retard MNKY, Level 16]: du sehr komisch
+[2021-04-16 05:54:23]: ERROR [404, Level 75]: 422k in wallet
+[2021-04-16 05:54:24]: El patron [, Level 30]: Cosmo: wtf
