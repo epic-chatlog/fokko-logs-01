@@ -613,3 +613,5 @@
 [2021-04-16 01:07:11]: Kahve [, Level 24]: lan
 [2021-04-16 01:07:19]: Kahve [, Level 24]: komando: adama niye oç diyon amcık
 [2021-04-16 01:07:25]: Boti. [.bad, Level 0]: KOMANDO
+[2021-04-16 01:07:34]: Boti. [.bad, Level 0]: legjobb név
+[2021-04-16 01:07:41]: komando [, Level 18]: ben bisey demedim kendisi dedi
