@@ -1538,3 +1538,6 @@
 [2021-04-16 02:35:02]: any [404, Level 38]: falkenauge: drop jet
 [2021-04-16 02:35:13]: ***  [, Level 0]: el champeon is on a killing spree with 10 blocks
 [2021-04-16 02:35:15]: Kahve [, Level 24]: any: ITS FUNNNNYy!!!!
+[2021-04-16 02:35:34]: ***  [, Level 0]: 'power' has left the game
+[2021-04-16 02:35:36]: Kahve [, Level 24]: falkenauge: drop jetpack
+[2021-04-16 02:35:38]: BLACK [, Level 26]: el champeon: xD
