@@ -774,3 +774,5 @@
 [2021-04-16 01:21:32]: ***  [, Level 0]: (1)Soros's killing spree was ended by Sayme (5 blocks)
 [2021-04-16 01:21:33]: kiøn1029 [.bad, Level 25]: Grasshopper: stop
 [2021-04-16 01:21:35]: kiøn1029 [.bad, Level 25]: rn
+[2021-04-16 01:22:59]: ***  [, Level 0]: 'Boti.' has left the game
+[2021-04-16 01:22:59]: ***  [, Level 0]: '[D] Boti.' has left the game
