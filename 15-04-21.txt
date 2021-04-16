@@ -14529,3 +14529,7 @@
 [2021-04-15 23:45:24]: SanoreX.* [Chilli.*, Level 22]: biri açar portal illaki
 [2021-04-15 23:45:26]: [D] Kahve [, Level 19]: by
 [2021-04-15 23:45:29]: SanoreX [Chilli.*, Level 27]: yok
+[2021-04-15 23:45:30]: ***  [, Level 0]: 'Intensiv_' entered and joined the game
+[2021-04-15 23:45:32]: SanoreX [Chilli.*, Level 27]: [D] Kahve: al dummymi
+[2021-04-15 23:45:34]: kais [, Level 66]: no
+[2021-04-15 23:45:41]: ***  [, Level 0]: '#5 blocker' has left the game (Timeout Protection over)
