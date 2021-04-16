@@ -12914,3 +12914,6 @@
 [2021-04-16 15:53:32]: ~DemoizL~ [, Level 39]: Zephir™: ma prochaine mort par toi
 [2021-04-16 15:53:39]: Zephir™ [404, Level 40]: ~DemoizL~: presque
 [2021-04-16 15:53:39]: bob [Legacy™, Level 36]: ~DemoizL~: what did he say
+[2021-04-16 15:53:52]: Zephir™ [404, Level 40]: ~DemoizL~: j'ai 1 semaine de vacances a compter d'aujourd'hui
+[2021-04-16 15:53:57]: ***  [, Level 0]: 'WIR' entered and joined the game
+[2021-04-16 15:53:59]: ~DemoizL~ [, Level 39]: Zephir™: moi aussi
