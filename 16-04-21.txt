@@ -6629,3 +6629,9 @@
 [2021-04-16 08:36:56]: (1)☺ [, Level 0]: XD
 [2021-04-16 08:37:01]: ***  [, Level 0]: Soros is on a killing spree with 20 blocks
 [2021-04-16 08:37:04]: Nudelsaft c: [FookinLads, Level 60]: Killua: i think i got it, the server thinks they are one client
+[2021-04-16 08:37:13]: Nudelsaft c: [FookinLads, Level 60]: Killua: and if one of them closes the other one keeps sending keepalives
+[2021-04-16 08:37:16]: ***  [, Level 0]: 'Scarab' has left the game
+[2021-04-16 08:37:16]: ***  [, Level 0]: 'Longhorn beetle' has left the game
+[2021-04-16 08:37:16]: ***  [, Level 0]: 'Ant' has left the game
+[2021-04-16 08:37:19]: ***  [, Level 0]: Soros is on a killing spree with 25 blocks
+[2021-04-16 08:37:19]: Nudelsaft c: [FookinLads, Level 60]: and so the server keeps sending messages
