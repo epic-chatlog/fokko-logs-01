@@ -3538,3 +3538,5 @@
 [2021-04-16 05:04:58]: ***  [, Level 0]: 'komando' has left the game (Timeout)
 [2021-04-16 05:05:30]: ***  [, Level 0]: 'Intensiv__' changed name to 'Intensiv'
 [2021-04-16 05:05:35]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-16 05:05:42]: S Y T H N [, Level 0]: Flipper: look dc
+[2021-04-16 05:05:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
