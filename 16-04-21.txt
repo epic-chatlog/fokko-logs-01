@@ -6821,3 +6821,7 @@
 [2021-04-16 08:50:55]: No~Filter [, Level 0]: jo ez
 [2021-04-16 08:51:00]: ***  [, Level 0]: 'darkstar4' entered and joined the game
 [2021-04-16 08:51:01]: ***  [, Level 0]: 'Dan' joined the spectators
+[2021-04-16 08:51:04]: ***  [, Level 0]: 'Dan' joined the game
+[2021-04-16 08:51:09]: JustRace [DogParty, Level 0]: cl_aimbot 1
+[2021-04-16 08:51:13]: El patron [, Level 30]: hełp
+[2021-04-16 08:51:13]: JustRace [DogParty, Level 0]: lag
