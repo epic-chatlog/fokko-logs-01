@@ -6864,3 +6864,8 @@
 [2021-04-16 08:52:35]: ***  [, Level 0]: 'darkstar' entered and joined the game
 [2021-04-16 08:52:47]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
 [2021-04-16 08:52:55]: (1)☺ [, Level 13]: 5jump ?
+[2021-04-16 08:53:10]: ***  [, Level 0]: el champeon is on a killing spree with 10 blocks
+[2021-04-16 08:53:11]: ***  [, Level 0]: 'darkstar2' entered and joined the game
+[2021-04-16 08:53:12]: Kiøn1029 [.bad, Level 32]: eh
+[2021-04-16 08:53:16]: Kiøn1029 [.bad, Level 32]: én inkább megyek
+[2021-04-16 08:53:17]: ***  [, Level 0]: el champeon's killing spree was ended by G𝕖𝕝𝕒to (11 blocks)
