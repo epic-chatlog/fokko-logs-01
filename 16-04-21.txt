@@ -7903,3 +7903,6 @@
 [2021-04-16 10:27:56]: ***  [, Level 0]: 'Kezo' entered and joined the game
 [2021-04-16 10:27:57]: Meliodas [.bad, Level 24]: YelloWorlD:
 [2021-04-16 10:27:57]: BLACK [, Level 26]: ERROR.: u are so lucky u got 20k i guess while 5m farm
+[2021-04-16 10:28:01]: ***  [, Level 0]: 'Kezo' has left the game
+[2021-04-16 10:28:02]: Zephir™ [, Level 40]: Meliodas: pas ma guerre demande a YelloWorlD
+[2021-04-16 10:28:10]: ***  [, Level 0]: 'sythn's dog' entered and joined the game
