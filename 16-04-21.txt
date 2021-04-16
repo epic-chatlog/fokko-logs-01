@@ -10417,3 +10417,5 @@
 [2021-04-16 12:34:41]: ***  [, Level 0]: '(1)taco bell' has left the game
 [2021-04-16 12:34:47]: ***  [, Level 0]: 'konute' has left the game
 [2021-04-16 12:34:51]: ***  [, Level 0]: '(1)taco bell' entered and joined the game
+[2021-04-16 12:34:53]:   [, Level 0]: Andresss: Noémi: nidardo speed flyolt elég pro
+[2021-04-16 12:34:56]: ***  [, Level 0]: 'ES' entered and joined the game
