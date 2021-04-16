@@ -7625,3 +7625,5 @@
 [2021-04-16 09:54:50]: Zephir™ [, Level 40]: salut
 [2021-04-16 09:54:55]: ☺ [, Level 22]: bob il ma casser les couille Zephir™
 [2021-04-16 09:55:13]: Zephir™ [, Level 40]: il est nul
+[2021-04-16 09:55:22]: ☺ [, Level 22]: QUI bob ?
+[2021-04-16 09:55:26]: Kenshi™ [, Level 0]: ouaip
