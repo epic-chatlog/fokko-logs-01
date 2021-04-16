@@ -1523,3 +1523,4 @@
 [2021-04-16 02:33:48]: ***  [, Level 0]: 'Soros' entered and joined the game
 [2021-04-16 02:33:49]: Ðream [TrRShClNrRs, Level 47]: any: ahaha
 [2021-04-16 02:33:51]: Kahve [, Level 24]: LOOOOL
+[2021-04-16 02:33:53]: [D] #5 blocker [|*MorE*|, Level 0]: kahve
