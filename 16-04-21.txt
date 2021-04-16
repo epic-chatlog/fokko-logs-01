@@ -7579,3 +7579,4 @@
 [2021-04-16 09:47:59]: ***  [, Level 0]: 'Romani4' has left the game (Timeout)
 [2021-04-16 09:48:35]: ***  [, Level 0]: 'Zephir™' entered and joined the game
 [2021-04-16 09:48:38]: [D] mamikral011 [DogParty, Level 27]: El patron: stoppp
+[2021-04-16 09:48:43]: [D] mamikral011 [DogParty, Level 27]: El patron: stop
