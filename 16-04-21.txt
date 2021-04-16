@@ -5723,3 +5723,11 @@
 [2021-04-16 07:40:37]: any [404, Level 38]: ERROR: also shiro is kinda dumb sometimes tbh
 [2021-04-16 07:40:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-16 07:40:53]: vollesprit [, Level 0]: ~DemoizL~: mais t'as recu combien ?
+[2021-04-16 07:40:56]: ~DemoizL~ [, Level 39]: vollesprit: 0
+[2021-04-16 07:41:03]: ~DemoizL~ [, Level 39]: vollesprit: juste ton shotgun
+[2021-04-16 07:41:03]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-16 07:41:04]: vollesprit [, Level 0]: ~DemoizL~: mais c'est pas possible
+[2021-04-16 07:41:09]: H0dƌƔ1 [ℋero, Level 0]: :D
+[2021-04-16 07:41:09]: ~DemoizL~ [, Level 39]: vollesprit: bah si xD
+[2021-04-16 07:41:11]: Flipper [, Level 0]: arin
+[2021-04-16 07:41:12]: Flipper [, Level 0]: tosp
