@@ -14503,3 +14503,5 @@
 [2021-04-15 23:43:21]: SanoreX.* [Chilli.*, Level 22]: Intensiv: flappy alır derim
 [2021-04-15 23:43:30]: Intensiv [CrazyNoobs, Level 12]: police rank yok
 [2021-04-15 23:43:36]: SanoreX [Chilli.*, Level 27]: hm
+[2021-04-15 23:43:48]: SanoreX [Chilli.*, Level 27]: BEN
+[2021-04-15 23:43:51]: ***  [, Level 0]: 'test' has left the game
