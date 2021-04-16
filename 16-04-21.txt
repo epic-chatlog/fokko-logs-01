@@ -4477,3 +4477,4 @@
 [2021-04-16 06:20:58]: ***  [, Level 0]: '[D] El patron' has left the game
 [2021-04-16 06:21:42]: ERROR. [404, Level 57]: (1)RM | Arin:  war#
 [2021-04-16 06:21:49]: (1)RM | Arin [Retard MNKY, Level 0]: ERROR:  wollte dir helfen xD
+[2021-04-16 06:22:00]: (1)RM | Arin [Retard MNKY, Level 0]: bin aber bad
