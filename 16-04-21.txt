@@ -7735,3 +7735,6 @@
 [2021-04-16 10:09:32]: ***  [, Level 0]: 'Dan' has left the game
 [2021-04-16 10:09:33]: (1)☺ [, Level 0]: who
 [2021-04-16 10:09:36]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-16 10:09:47]: Flipper [, Level 16]: :/
+[2021-04-16 10:09:49]: ***  [, Level 0]: [D] El patron is on a killing spree with 5 blocks
+[2021-04-16 10:09:52]: (1)☺ [, Level 0]: wghooooo
