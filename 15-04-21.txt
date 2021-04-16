@@ -13896,3 +13896,4 @@
 [2021-04-15 22:55:25]: Kahve [, Level 23]: wait
 [2021-04-15 22:55:43]: [D] Kahve [, Level 19]: no wait here
 [2021-04-15 22:55:44]: [D] Kahve [, Level 19]: yes
+[2021-04-15 22:55:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
