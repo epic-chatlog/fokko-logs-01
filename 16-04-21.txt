@@ -1077,3 +1077,6 @@
 [2021-04-16 01:48:58]: ***  [, Level 0]: a m o g u s is on a killing spree with 5 blocks
 [2021-04-16 01:49:07]: ***  [, Level 0]: (1)el champeon is on a killing spree with 5 blocks
 [2021-04-16 01:49:41]: ***  [, Level 0]: 'Adleg' has left the game
+[2021-04-16 01:49:51]: ***  [, Level 0]: '(1)Soros' has left the game
+[2021-04-16 01:49:51]: ***  [, Level 0]: '(1)el champeon' has left the game
+[2021-04-16 01:49:52]: ***  [, Level 0]: 'el champeon8745' entered and joined the game
