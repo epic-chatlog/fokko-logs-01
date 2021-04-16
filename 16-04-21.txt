@@ -2156,3 +2156,8 @@
 [2021-04-16 03:17:44]: ***  [, Level 0]: 'test' has left the game (Timeout)
 [2021-04-16 03:17:58]: sL|Gabsty [SkinLover, Level 0]: junge?
 [2021-04-16 03:18:06]: Cylox [, Level 31]: tyy
+[2021-04-16 03:18:11]: ***  [, Level 0]: '[D] El patron' changed name to '(1)patron'
+[2021-04-16 03:18:11]: Wayllan Kath [, Level 0]: nope
+[2021-04-16 03:18:13]: ***  [, Level 0]: 'GUNO' joined the spectators
+[2021-04-16 03:18:16]: ***  [, Level 0]: 'GUNO' joined the game
+[2021-04-16 03:18:20]: ***  [, Level 0]: 'Dark_Heracles *' has left the game
