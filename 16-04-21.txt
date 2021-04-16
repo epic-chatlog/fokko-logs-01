@@ -8084,3 +8084,8 @@
 [2021-04-16 10:43:34]: SpawnBlocker™ [, Level 38]: YelloWorlD: ??
 [2021-04-16 10:43:35]: ***  [, Level 0]: basoka finished in: 4 minute(s) 25.82 second(s)
 [2021-04-16 10:43:35]: ***  [, Level 0]: 'basoka' finished the special race!
+[2021-04-16 10:43:39]: ***  [, Level 0]: '(1)basoka' finished the special race!
+[2021-04-16 10:43:39]: ***  [, Level 0]: (1)basoka finished in: 3 minute(s) 45.58 second(s)
+[2021-04-16 10:43:47]: GODLIKe [, Level 44]: HAVE LAGG
+[2021-04-16 10:43:47]: ***  [, Level 0]: 'Ofozz' entered and joined the game
+[2021-04-16 10:43:49]: GODLIKe [, Level 44]: QWJOEKĞ
