@@ -2348,3 +2348,15 @@
 [2021-04-16 03:35:37]: Intensiv__ [CrazyNoobs, Level 13]: YelloWorlD:  help  pls
 [2021-04-16 03:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 03:35:59]: YelloWorlD [DogParty, Level 0]: give grenade
+[2021-04-16 03:36:06]: ←   [, Level 0]: Nudelsaft c:: say /stats Coca
+[2021-04-16 03:36:06]: ***  [, Level 0]: --- Coca's Stats ---
+[2021-04-16 03:36:06]: ***  [, Level 0]: Level [22]
+[2021-04-16 03:36:06]: ***  [, Level 0]: XP [806223/850000]
+[2021-04-16 03:36:06]: ***  [, Level 0]: Bank [0]
+[2021-04-16 03:36:06]: ***  [, Level 0]: Police [0]
+[2021-04-16 03:36:06]: ***  [, Level 0]: ---- BLOCK ----
+[2021-04-16 03:36:06]: ***  [, Level 0]: Points: 411
+[2021-04-16 03:36:06]: ***  [, Level 0]: Kills: 705
+[2021-04-16 03:36:06]: ***  [, Level 0]: Deaths: 676
+[2021-04-16 03:36:13]: ***  [, Level 0]: 'Intensiv_' entered and joined the game
+[2021-04-16 03:36:15]: Coca [Drunks, Level 22]: YelloWorlD: can i help #5 blocker ?
