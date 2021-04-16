@@ -8478,3 +8478,7 @@
 [2021-04-16 11:10:48]: Kezo [DogParty, Level 41]: [D] ♥TAKO♥: hayır aptal olcayın videolarına kötü yorum atmak için girmiştim
 [2021-04-16 11:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-16 11:10:52]: BULLETBOT [, Level 0]: last chance
+[2021-04-16 11:11:00]: BULLETBOT [, Level 0]: ok
+[2021-04-16 11:11:04]: Intensiv_ [CrazyNoobs, Level 7]: Kenshi™:  okey bro sorry
+[2021-04-16 11:11:05]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
+[2021-04-16 11:11:07]: ***  [, Level 0]: 'brainless tee' entered and joined the game
