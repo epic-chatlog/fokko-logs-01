@@ -7345,3 +7345,5 @@
 [2021-04-16 09:24:58]: Bombi.YT [, Level 0]: wait
 [2021-04-16 09:25:10]: Good man [Drunks, Level 31]: any:
 [2021-04-16 09:25:42]: Nudelsaft c: [FookinLads, Level 42]: any: ah, and if u search the server then it only shows the chatonly client as (connecting) xd
+[2021-04-16 09:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-16 09:25:51]: any [404, Level 38]: Nudelsaft c:: like what is the code to connect ?
