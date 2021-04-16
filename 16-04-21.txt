@@ -7890,3 +7890,4 @@
 [2021-04-16 10:26:41]: ***  [, Level 0]: 'El patron' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-16 10:26:41]: ***  [, Level 0]: '[D] El patron' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-16 10:26:46]: YelloWorlD [DogParty, Level 41]: Zephir™: 5j
+[2021-04-16 10:27:15]: ***  [, Level 0]: Zephir™ is on a killing spree with 5 blocks
