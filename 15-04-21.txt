@@ -14169,3 +14169,7 @@
 [2021-04-15 23:19:31]: Adleg [, Level 0]: i stuck always??
 [2021-04-15 23:20:04]: Adleg [, Level 0]: when i move in the teleporter i stuck
 [2021-04-15 23:20:07]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-15 23:20:15]: [D] Kahve [, Level 19]: this is new home
+[2021-04-15 23:20:19]: SanoreX.* [Chilli.*, Level 22]: send emote
+[2021-04-15 23:20:20]: SanoreX.* [Chilli.*, Level 22]: woow
+[2021-04-15 23:20:23]: Nudelsaft c: [FookinLads, Level 60]: here
