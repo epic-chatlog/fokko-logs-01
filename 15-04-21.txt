@@ -14410,3 +14410,5 @@
 [2021-04-15 23:36:29]: Kahve [, Level 24]: ?
 [2021-04-15 23:36:36]: Kahve [, Level 24]: what how
 [2021-04-15 23:36:37]: #5 blocker [|*MorE*|, Level 24]: edit
+[2021-04-15 23:36:42]: Kahve [, Level 24]: ./plot edit
+[2021-04-15 23:36:49]: Kahve [, Level 24]: press space
