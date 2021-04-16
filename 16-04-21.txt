@@ -6888,3 +6888,6 @@
 [2021-04-16 08:55:00]:   [, Level 0]: (1)Good man: Geisel: help
 [2021-04-16 08:55:09]: ***  [, Level 0]: 'BitchPlease Jr.' joined the spectators
 [2021-04-16 08:55:12]: ***  [, Level 0]: 'BitchPlease Jr.' joined the game
+[2021-04-16 08:55:41]: ***  [, Level 0]: 'Soros' has left the game
+[2021-04-16 08:55:41]: ***  [, Level 0]: 'el champeon' has left the game
+[2021-04-16 08:55:42]: ***  [, Level 0]: 'el champeon5412' entered and joined the game
