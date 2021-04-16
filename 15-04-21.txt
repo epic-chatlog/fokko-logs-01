@@ -13139,3 +13139,5 @@
 [2021-04-15 17:08:42]: bob [Legacy™, Level 36]: ☺: ur my enemy too!"
 [2021-04-15 17:08:45]: bob [Legacy™, Level 36]: u traitor!
 [2021-04-15 17:08:57]: ☺ [, Level 21]: bob: you traitor
+[2021-04-15 17:08:59]: bob [Legacy™, Level 36]: YOU
+[2021-04-15 17:09:03]: ☺ [, Level 21]: you
