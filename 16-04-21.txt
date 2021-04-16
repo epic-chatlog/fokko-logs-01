@@ -6527,3 +6527,7 @@
 [2021-04-16 08:30:22]: ***  [Óýÿÿ, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-16 08:30:30]: Swarfey [FookinLads, Level 42]: 0delwar 10
 [2021-04-16 08:30:32]: Killua [FookinLads, Level 37]: Swarfey: oh u made it write once?
+[2021-04-16 08:30:33]: Swarfey [FookinLads, Level 42]: no u
+[2021-04-16 08:30:38]: Swarfey [FookinLads, Level 42]: Killua: yes
+[2021-04-16 08:30:40]: Killua [FookinLads, Level 37]: Swarfey: CAN U MAKE IT REMOVE FROM LIST WHEN PERSON LEAVES AND SHUTDOWN
+[2021-04-16 08:30:42]: Killua [FookinLads, Level 37]: Swarfey: OMG PLZ
