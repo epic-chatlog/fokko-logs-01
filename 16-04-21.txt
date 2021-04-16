@@ -3050,3 +3050,8 @@
 [2021-04-16 04:21:11]: ***  [, Level 0]: 'ES' entered and joined the game
 [2021-04-16 04:21:18]: kais [, Level 66]: Nudelsaft c:: gay, stop helping my enemies
 [2021-04-16 04:21:20]: Shiro. [404, Level 42]: Cylox: maybe push them
+[2021-04-16 04:21:28]: ***  [, Level 0]: 'Olegzhik' has left the game
+[2021-04-16 04:21:29]: Shiro. [404, Level 42]: STOPOD
+[2021-04-16 04:21:30]: ***  [, Level 0]: 'Olegzhik' entered and joined the game
+[2021-04-16 04:21:34]: ***  [, Level 0]: 'UOYKCUFI' entered and joined the game
+[2021-04-16 04:21:35]: Nudelsaft c: [FookinLads, Level 60]: kais: ok im coming
