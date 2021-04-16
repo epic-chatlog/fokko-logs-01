@@ -14164,3 +14164,5 @@
 [2021-04-15 23:19:14]: ***  [, Level 0]: '(1)Ðream' entered and joined the game
 [2021-04-15 23:19:14]: SanoreX.* [Chilli.*, Level 22]: bad
 [2021-04-15 23:19:15]: Adleg [, Level 0]: help
+[2021-04-15 23:19:20]: Adleg [, Level 0]: how i must move??
+[2021-04-15 23:19:22]: [D] Kahve [, Level 19]: xd
