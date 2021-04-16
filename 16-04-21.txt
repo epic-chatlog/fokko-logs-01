@@ -7623,3 +7623,4 @@
 [2021-04-16 09:54:42]: [D] El patron [, Level 24]: Zephir™: pro
 [2021-04-16 09:54:44]: ☺ [, Level 22]: slt Zephir™
 [2021-04-16 09:54:50]: Zephir™ [, Level 40]: salut
+[2021-04-16 09:54:55]: ☺ [, Level 22]: bob il ma casser les couille Zephir™
