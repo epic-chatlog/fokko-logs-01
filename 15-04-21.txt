@@ -13559,3 +13559,6 @@
 [2021-04-15 18:37:30]: bob [Legacy™, Level 36]: where
 [2021-04-15 18:37:34]: (1)☺ [, Level 13]: here
 [2021-04-15 18:37:37]: ***  [, Level 0]: bob is on a killing spree with 5 blocks
+[2021-04-15 18:37:52]: ***  [, Level 0]: bob's killing spree was ended by (1)☺ (5 blocks)
+[2021-04-15 18:37:53]: (1)☺ [, Level 13]: i won
+[2021-04-15 18:38:01]: bob [Legacy™, Level 36]: ths n ot 1v1
