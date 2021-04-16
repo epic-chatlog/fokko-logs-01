@@ -13096,3 +13096,6 @@
 [2021-04-16 16:27:10]: bob [Legacy™, Level 36]: what else u play
 [2021-04-16 16:27:41]: bob [Legacy™, Level 36]: see
 [2021-04-16 16:27:43]: bob [Legacy™, Level 36]: how bad i am
+[2021-04-16 16:27:50]: ***  [, Level 0]: 'WIR' entered and joined the game
+[2021-04-16 16:27:55]: ***  [, Level 0]: 'WIR' has left the game
+[2021-04-16 16:27:56]: Zephir™ [404, Level 40]: bob: i write that ez to beat 1 account
