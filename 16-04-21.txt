@@ -4460,3 +4460,5 @@
 [2021-04-16 06:20:04]: ***  [, Level 0]: ### 'HeavyGeneral' Woof-Woof
 [2021-04-16 06:20:05]: ***  [, Level 0]: ### 'ERROR' Woof-Woof
 [2021-04-16 06:20:06]: HeavyGeneral [FookinLads, Level 44]: noob.
+[2021-04-16 06:20:15]: HeavyGeneral [FookinLads, Level 44]: Dog xa-xa0))
+[2021-04-16 06:20:16]: ***  [, Level 0]: ### 'HeavyGeneral' Pidor got mad OOF.
