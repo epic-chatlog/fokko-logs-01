@@ -4430,3 +4430,5 @@
 [2021-04-16 06:16:31]: ***  [, Level 0]: 'TZSA' finished the special race!
 [2021-04-16 06:16:32]: ***  [, Level 0]: 'ChillerDragon' finished the special race!
 [2021-04-16 06:16:33]: RM | Arin [Retard MNKY, Level 16]: ERROR:  safe mich opa
+[2021-04-16 06:16:38]: RM | Arin [Retard MNKY, Level 16]: ChillerDragon:
+[2021-04-16 06:16:46]: TZSA [, Level 0]: ChillerDragon: dragged your dummy to jetpack xD
