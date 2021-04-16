@@ -558,3 +558,4 @@
 [2021-04-16 01:02:28]: Boti. [.bad, Level 0]: epikó rp
 [2021-04-16 01:02:29]: Kahve [, Level 24]: Kahve's cat: dur
 [2021-04-16 01:02:30]: ***  [, Level 0]: 'andrea' entered and joined the game
+[2021-04-16 01:02:38]: ***  [, Level 0]: ### 'Kahve's dog' Woof-Woof
