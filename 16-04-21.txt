@@ -1873,3 +1873,5 @@
 [2021-04-16 02:59:35]: MOM [, Level 0]: mamikral011: i lagg
 [2021-04-16 02:59:37]: sL|Gabsty [SkinLover, Level 0]: ax
 [2021-04-16 02:59:38]: HeavyGeneral [FookinLads, Level 44]: mm
+[2021-04-16 02:59:41]: HeavyGeneral [FookinLads, Level 44]: yes
+[2021-04-16 02:59:45]: ~DemoizL~ [, Level 39]: no
