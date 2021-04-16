@@ -6096,3 +6096,7 @@
 [2021-04-16 08:03:25]: ~DemoizL~ [, Level 39]: Flipper: bye
 [2021-04-16 08:03:28]: ***  [, Level 0]: 'Flupper' has left the game
 [2021-04-16 08:03:28]: ***  [, Level 0]: 'Flipper' has left the game
+[2021-04-16 08:03:41]: ***  [, Level 0]: El Capo is on a killing spree with 5 blocks
+[2021-04-16 08:03:43]: ***  [, Level 0]: '[D] TZSA' entered and joined the game
+[2021-04-16 08:03:46]: ***  [, Level 0]: El Capo's killing spree was ended by (1) (5 blocks)
+[2021-04-16 08:03:50]: vollesprit [, Level 1]: ~DemoizL~:
