@@ -7527,3 +7527,6 @@
 [2021-04-16 09:42:14]: G𝕖l𝕒to* [s/o razmo, Level 40]: bob: and you just smoking or maybe making your own hash or other ?
 [2021-04-16 09:42:25]: TZSA [, Level 0]: wtf
 [2021-04-16 09:42:32]: bob [Legacy™, Level 36]: just smoking
+[2021-04-16 09:42:37]: ***  [, Level 0]: '[D] Vertex' entered and joined the game
+[2021-04-16 09:42:43]: ***  [, Level 0]: 's!n<u85' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 09:42:44]: ***  [, Level 0]: '[D] Vertex' has left the game
