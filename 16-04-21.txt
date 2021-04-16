@@ -5945,3 +5945,6 @@
 [2021-04-16 07:52:00]: ***  [, Level 0]: '✯|Not Bulash' has left the game
 [2021-04-16 07:52:00]: El Shampoo [{TQuila}, Level 40]: El patron: dein level und ping ist genau das gleiche ich hab level und ping von jedem aufgeschrieben
 [2021-04-16 07:52:03]: GODLIKe [, Level 44]: LadyBug:
+[2021-04-16 07:52:07]: ***  [, Level 0]: 'vihandu tee' has left the game
+[2021-04-16 07:52:12]: GODLIKe [, Level 44]: LadyBug: give back flag
+[2021-04-16 07:52:15]: LadyBug [, Level 35]: GODLIKe: where
