@@ -13992,3 +13992,5 @@
 [2021-04-15 23:02:57]: [D] Kahve [, Level 19]: omggggg
 [2021-04-15 23:03:05]: SanoreX.* [Chilli.*, Level 22]: eğer biz freezeysek ve botun solundaysak =  if (pChr->m_IsFrozen && pChr->m_Pos.x < m_Core.m_Pos.x){
 [2021-04-15 23:03:14]: #5 blocker [|*MorE*|, Level 0]: yes i have
+[2021-04-15 23:03:22]: SanoreX.* [Chilli.*, Level 22]:  if (pChr->m_IsFrozen && pChr->m_Pos.x < m_Core.m_Pos.x){ Kahve
+[2021-04-15 23:03:26]: [D] Kahve [, Level 19]: #5 blocker: go play half life xd?
