@@ -13036,3 +13036,4 @@
 [2021-04-16 16:17:27]: bob [Legacy™, Level 36]: ty
 [2021-04-16 16:17:35]: ***  [, Level 0]: 'WIR' entered and joined the game
 [2021-04-16 16:17:36]: Zephir™ [404, Level 40]: bob: but u still bad
+[2021-04-16 16:17:37]: ***  [, Level 0]: 'WIR' has left the game
