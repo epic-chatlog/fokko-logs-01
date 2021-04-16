@@ -12608,3 +12608,6 @@
 [2021-04-16 14:38:11]: ☺ [, Level 22]: slt mon frere
 [2021-04-16 14:38:13]: ***  [, Level 0]: 'Dan' has left the game
 [2021-04-16 14:38:17]: ***  [, Level 0]: 'Dan' entered and joined the game
+[2021-04-16 14:38:20]: Killua [FookinLads, Level 37]: i give u a simple sentence
+[2021-04-16 14:38:21]: Killua [FookinLads, Level 37]: to say
+[2021-04-16 14:38:27]: Killua [FookinLads, Level 37]: u have 3 seconds to reply ok?
