@@ -12932,3 +12932,4 @@
 [2021-04-16 15:56:20]: Zephir™ [404, Level 40]: ~DemoizL~: sache que moi c'est reel
 [2021-04-16 15:56:22]: ~DemoizL~ [, Level 39]: Zephir™: j'ai jamais prononcé ça
 [2021-04-16 15:56:37]: Zephir™ [404, Level 40]: ~DemoizL~: moi je le prononce aujourd'hui
+[2021-04-16 15:56:48]: ~DemoizL~ [, Level 39]: Zephir™: oh c'est pas cool ça :(
