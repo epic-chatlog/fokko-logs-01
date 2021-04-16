@@ -2433,3 +2433,8 @@
 [2021-04-16 03:42:03]: ***  [, Level 0]: '(1)Fearless' has left the game
 [2021-04-16 03:42:05]: ***  [, Level 0]: 'MATTHEW' entered and joined the game
 [2021-04-16 03:42:07]: Foxie♥ [{TQuila}, Level 36]: Nudelsaft c:: hi
+[2021-04-16 03:42:14]: ***  [, Level 0]: BC|serwan finished in: 12 minute(s) 33.60 second(s)
+[2021-04-16 03:42:14]: ***  [, Level 0]: 'BC|serwan' finished the special race!
+[2021-04-16 03:42:14]: ***  [, Level 0]: [D] BC|serwan finished in: 12 minute(s) 49.26 second(s)
+[2021-04-16 03:42:14]: ***  [, Level 0]: '[D] BC|serwan' finished the special race!
+[2021-04-16 03:42:17]: Nudelsaft c: [FookinLads, Level 42]: Foxie♥: yoo :D
