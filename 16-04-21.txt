@@ -5073,3 +5073,8 @@
 [2021-04-16 07:09:33]: Kirito [{TQuila}, Level 40]: Michel: he mom die?
 [2021-04-16 07:09:39]: (1)any [404, Level 0]: ERROR: i have to do elecric lessons, i have 10 day ahead of me, i do now or i wait ?
 [2021-04-16 07:09:43]: Foxie♥ [{TQuila}, Level 0]: Kirito: oh u on
+[2021-04-16 07:09:51]: ***  [, Level 0]: 'Tauter' entered and joined the game
+[2021-04-16 07:09:55]: Michel [, Level 4]: mom kirito dead
+[2021-04-16 07:09:55]: ***  [, Level 0]: 'Dark_Heracles *' entered and joined the game
+[2021-04-16 07:09:56]: ERROR [404, Level 75]: do now so u can take 9 days free any
+[2021-04-16 07:09:59]: Foxie♥ [{TQuila}, Level 0]: Kirito: i wanted to play with portal but ur on
