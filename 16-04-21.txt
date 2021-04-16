@@ -8238,3 +8238,7 @@
 [2021-04-16 10:56:31]: (1)cookie [, Level 0]: nice
 [2021-04-16 10:56:36]: Kezo [DogParty, Level 41]: .: brawlhalla player
 [2021-04-16 10:56:37]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-16 10:56:41]: . [TrRShClNrRs, Level 42]: Kezo: yeaboai
+[2021-04-16 10:56:43]: GODLIKe [, Level 44]: QWKEĞP
+[2021-04-16 10:56:44]: . [TrRShClNrRs, Level 42]: Kezo: sometimes
+[2021-04-16 10:56:46]: . [TrRShClNrRs, Level 42]: Kezo: usually
