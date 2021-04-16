@@ -13045,3 +13045,4 @@
 [2021-04-16 16:19:38]: Zephir™ [404, Level 40]: bob: ok i stop and u stop ?
 [2021-04-16 16:19:45]: Zephir™ [404, Level 40]: and no use taser
 [2021-04-16 16:19:46]: bob [Legacy™, Level 36]: ok
+[2021-04-16 16:20:03]: ***  [, Level 0]: Zephir™ is on a killing spree with 5 blocks
