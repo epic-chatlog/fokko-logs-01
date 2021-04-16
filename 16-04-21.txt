@@ -10846,3 +10846,7 @@
 [2021-04-16 13:00:45]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-16 13:00:46]: Andresss [Jewish, Level 1]: Noémi: oki
 [2021-04-16 13:00:48]:   [, Level 0]: GODLIKe: lag
+[2021-04-16 13:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-16 13:00:50]: Andresss [Jewish, Level 1]: Noémi: én megyek..
+[2021-04-16 13:00:53]: ***  [, Level 0]: Noragami's killing spree was ended by El Monkey (12 blocks)
+[2021-04-16 13:00:59]: |HolyHo|° [FookinLads, Level 28]: ,:
