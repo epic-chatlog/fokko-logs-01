@@ -6306,3 +6306,7 @@
 [2021-04-16 08:15:35]: H0dƌƔ1 [ℋero, Level 28]: can u pls help me out here
 [2021-04-16 08:15:38]: RM | Arin [Retard MNKY, Level 16]: PommesdePins:
 [2021-04-16 08:15:40]: H0dƌƔ1 [ℋero, Level 28]: f
+[2021-04-16 08:15:49]: PommesdePins [, Level 0]: ?
+[2021-04-16 08:15:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-16 08:15:52]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-16 08:15:55]: Swarfey [FookinLads, Level 42]: I like turtles.
