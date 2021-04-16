@@ -12774,3 +12774,7 @@
 [2021-04-16 15:11:32]: ***  [, Level 0]: 'WIR' entered and joined the game
 [2021-04-16 15:11:35]: ***  [, Level 0]: 'WIR' has left the game
 [2021-04-16 15:11:36]: (1)☺ [, Level 14]: pourtant tes nul mdr
+[2021-04-16 15:11:45]: Kenshi™ [404, Level 35]: ☺: t'es srx la mdr
+[2021-04-16 15:11:46]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-16 15:11:48]: (1)☺ [, Level 14]: XD
+[2021-04-16 15:11:55]: Kenshi™ [404, Level 35]: :cc
