@@ -4032,3 +4032,8 @@
 [2021-04-16 05:47:19]: mamikral011 [DogParty, Level 27]: woona: ananı
 [2021-04-16 05:47:35]: Cosmo [, Level 0]: El patron: sorry
 [2021-04-16 05:47:37]: ***  [, Level 0]: ~DemoizL~'s killing spree was ended by brainless tee (10 blocks)
+[2021-04-16 05:47:56]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
+[2021-04-16 05:47:56]: Flipper [, Level 0]: war
+[2021-04-16 05:47:58]: ***  [, Level 0]: '(2)Cosmo' joined the spectators
+[2021-04-16 05:47:58]: ***  [, Level 0]: 'brainless tee' has left the game
+[2021-04-16 05:47:59]: ***  [, Level 0]: 'BULLETBOT' has left the game
