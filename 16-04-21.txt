@@ -7505,3 +7505,5 @@
 [2021-04-16 09:39:30]: ***  [, Level 0]: 'ölüm bekçisi' has left the game
 [2021-04-16 09:39:35]: ***  [, Level 0]: '[D] Vertex' has left the game
 [2021-04-16 09:39:36]: [D] El patron [, Level 0]: tritor
+[2021-04-16 09:39:46]: [D] El patron [, Level 0]: ta
+[2021-04-16 09:39:48]: [D] El patron [, Level 0]: tą
