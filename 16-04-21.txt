@@ -3312,3 +3312,5 @@
 [2021-04-16 04:40:15]: ***  [, Level 0]: 'Shy-ra.' has left the game
 [2021-04-16 04:40:42]: ***  [, Level 0]: ES finished in: 1 minute(s) 34.64 second(s)
 [2021-04-16 04:40:42]: ***  [, Level 0]: New record: 2 minute(s) 55.38 second(s) better.
+[2021-04-16 04:40:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-16 04:40:58]: Matiteusz [TrRShClNrRs, Level 37]: vollesprit: im killing them xD
