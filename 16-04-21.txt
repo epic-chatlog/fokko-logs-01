@@ -3298,3 +3298,6 @@
 [2021-04-16 04:35:34]: ***  [, Level 0]: 'zZzerayI' has left the game
 [2021-04-16 04:35:34]: ***  [, Level 0]: 'zZz' has left the game
 [2021-04-16 04:35:39]: Shiro. [404, Level 42]: prcq t dans mon clan pd
+[2021-04-16 04:35:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-16 04:35:52]: ***  [, Level 0]: '(1)BC|Tixnix' entered and joined the game
+[2021-04-16 04:36:01]: вłøøđωave [ƨơʅơ, Level 0]: power: how long do u play tw?
