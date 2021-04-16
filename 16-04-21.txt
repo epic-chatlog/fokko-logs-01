@@ -3408,3 +3408,5 @@
 [2021-04-16 04:48:32]: ***  [, Level 0]: 'вłøøđωave' left the minigame 'Block'
 [2021-04-16 04:48:35]: Taip [VergleriSay, Level 19]: sal
 [2021-04-16 04:48:38]: Taip [VergleriSay, Level 19]: fun war gel
+[2021-04-16 04:48:47]: Taip [VergleriSay, Level 19]: fun war
+[2021-04-16 04:48:53]: ***  [, Level 0]: 'Eden' has left the game
