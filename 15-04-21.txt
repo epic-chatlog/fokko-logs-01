@@ -13882,3 +13882,5 @@
 [2021-04-15 22:50:24]: #5 blocker [|*MorE*|, Level 0]: xd
 [2021-04-15 22:50:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-15 22:50:53]: Kahve [, Level 23]: lmfao
+[2021-04-15 22:51:10]: SanoreX.* [Chilli.*, Level 22]: krx
+[2021-04-15 22:51:13]: SanoreX.* [Chilli.*, Level 22]: dont work
