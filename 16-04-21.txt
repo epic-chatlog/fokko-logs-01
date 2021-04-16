@@ -1080,3 +1080,6 @@
 [2021-04-16 01:49:51]: ***  [, Level 0]: '(1)Soros' has left the game
 [2021-04-16 01:49:51]: ***  [, Level 0]: '(1)el champeon' has left the game
 [2021-04-16 01:49:52]: ***  [, Level 0]: 'el champeon8745' entered and joined the game
+[2021-04-16 01:49:57]: ***  [, Level 0]: 'Soros5856102.23' entered and joined the game
+[2021-04-16 01:50:00]: ***  [, Level 0]: 'el champeon8745' has left the game
+[2021-04-16 01:50:00]: ***  [, Level 0]: 'Soros5856102.23' has left the game
