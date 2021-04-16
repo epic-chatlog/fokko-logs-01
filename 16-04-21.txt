@@ -6687,3 +6687,8 @@
 [2021-04-16 08:42:40]: No~Filter [, Level 0]: ujra megszerezni a dolgokat
 [2021-04-16 08:42:46]: (1)☺ [, Level 13]: train El patron
 [2021-04-16 08:42:57]: (1)☺ [, Level 13]: you train El patron
+[2021-04-16 08:43:03]: ***  [, Level 0]: Soros's killing spree was ended by BLACK (43 blocks)
+[2021-04-16 08:43:05]: ***  [, Level 0]: 'Dan' entered and joined the game
+[2021-04-16 08:43:06]: (1)☺ [, Level 13]: with taser ?
+[2021-04-16 08:43:12]: ***  [, Level 0]: 'Dan' has left the game
+[2021-04-16 08:43:16]: ***  [, Level 0]: 'Dan' entered and joined the game
