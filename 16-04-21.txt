@@ -8312,3 +8312,8 @@
 [2021-04-16 11:01:26]: ***  [, Level 0]: 'Vertex' entered and joined the game
 [2021-04-16 11:01:31]: (1)☺ [, Level 0]: basoka: go away gay
 [2021-04-16 11:01:31]: ***  [, Level 0]: 'f"{self.nam44548' entered and joined the game
+[2021-04-16 11:01:33]: ***  [, Level 0]: 'f"{self.nam44548' has left the game
+[2021-04-16 11:01:35]: basoka [, Level 32]: xDDD
+[2021-04-16 11:01:39]: Zephir™ [, Level 40]: El patron: o
+[2021-04-16 11:01:41]: GODLIKe [, Level 44]: noob
+[2021-04-16 11:01:44]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
