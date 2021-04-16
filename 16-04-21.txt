@@ -6725,3 +6725,6 @@
 [2021-04-16 08:45:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-16 08:45:51]: Coca [Drunks, Level 22]: i can help
 [2021-04-16 08:45:55]: Coca [Drunks, Level 22]: i cant help*
+[2021-04-16 08:45:55]: ***  [, Level 0]: 'SanoreX' entered and joined the game
+[2021-04-16 08:45:59]: Coca [Drunks, Level 22]: El patron: blocked you
+[2021-04-16 08:46:05]: [D] şlk10 [, Level 22]: Coca:help or war
