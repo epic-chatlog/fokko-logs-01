@@ -6612,3 +6612,7 @@
 [2021-04-16 08:35:42]: LadyBug [, Level 35]: bugs > human
 [2021-04-16 08:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 08:35:51]: LadyBug [, Level 35]: Ant: they are scared from bugs
+[2021-04-16 08:35:53]: ***  [, Level 0]: Soros is on a killing spree with 10 blocks
+[2021-04-16 08:35:56]: Killua [FookinLads, Level 37]: Nudelsaft c:: 0removeingame NAME, 0removeingameall. 123
+[2021-04-16 08:35:58]: Nudelsaft c: [FookinLads, Level 60]: u
+[2021-04-16 08:35:59]: ☺ [, Level 22]: Kirito:
