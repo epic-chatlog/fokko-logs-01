@@ -7157,3 +7157,8 @@
 [2021-04-16 09:15:28]: Boti. [.bad, Level 33]: labdázzunk
 [2021-04-16 09:15:31]: No~Filter [, Level 0]: ANYÁD
 [2021-04-16 09:15:34]: Boti. [.bad, Level 33]: XDDD
+[2021-04-16 09:15:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-16 09:15:51]: ***  [, Level 0]: Soros's killing spree was ended by JustRace (23 blocks)
+[2021-04-16 09:15:59]: bob [Legacy™, Level 36]: what u doing
+[2021-04-16 09:16:01]: Coca [Drunks, Level 22]: bob: Why block me
+[2021-04-16 09:16:01]: bob [Legacy™, Level 36]: noob
