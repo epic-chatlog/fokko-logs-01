@@ -887,3 +887,7 @@
 [2021-04-16 01:35:10]: ***  [, Level 0]: (1)Soros's killing spree was ended by [D]ϻɪɔʜɑʟ (5 blocks)
 [2021-04-16 01:35:14]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-16 01:35:19]: Kezo [DogParty, Level 41]: pros play
+[2021-04-16 01:35:40]: ***  [, Level 0]: 'Chilli.*' entered and joined the game
+[2021-04-16 01:35:41]: ***  [, Level 0]: 'Kezo' changed name to 'general's dog'
+[2021-04-16 01:35:43]: HeavyGeneral [FookinLads, Level 44]: xa-xa-xa-xa00))
+[2021-04-16 01:35:45]: ***  [, Level 0]: 'Chilli.*' has left the game
