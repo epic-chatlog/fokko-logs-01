@@ -6895,3 +6895,10 @@
 [2021-04-16 08:55:50]: ***  [, Level 0]: 'Soros8741202354' has left the game
 [2021-04-16 08:55:50]: ***  [, Level 0]: 'el champeon5412' has left the game
 [2021-04-16 08:55:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-16 08:55:58]: ***  [, Level 0]: 'SanoreX' has left the game (Timeout Protection over)
+[2021-04-16 08:55:59]: darkstar2 [, Level 19]: xDD
+[2021-04-16 08:56:00]: ***  [, Level 0]: [D] El patron finished in: 4 minute(s)  6.30 second(s)
+[2021-04-16 08:56:00]: ***  [, Level 0]: '[D] El patron' finished the special race!
+[2021-04-16 08:56:00]: ***  [, Level 0]: El patron finished in: 4 minute(s) 20.18 second(s)
+[2021-04-16 08:56:00]: ***  [, Level 0]: 'El patron' finished the special race!
+[2021-04-16 08:56:05]: ***  [, Level 0]: 'el champeon' entered and joined the game
