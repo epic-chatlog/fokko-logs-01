@@ -1046,3 +1046,6 @@
 [2021-04-16 01:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-16 01:45:58]: ***  [, Level 0]: 'jonas220' has left the game
 [2021-04-16 01:46:08]: ***  [, Level 0]: (1)el champeon is on a killing spree with 20 blocks
+[2021-04-16 01:46:37]: ***  [, Level 0]: 'spkn44' entered and joined the game
+[2021-04-16 01:46:38]: Estarossa [, Level 11]: xd
+[2021-04-16 01:46:40]: Kiøn1029 [.bad, Level 0]: küld el
