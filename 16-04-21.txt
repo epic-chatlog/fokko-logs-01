@@ -7946,3 +7946,5 @@
 [2021-04-16 10:32:05]: ***  [, Level 0]: '(1)cookie' entered and joined the game
 [2021-04-16 10:32:06]: ☺ [, Level 22]: Zephir™: tue le stp casse couille la
 [2021-04-16 10:32:10]: El patron [, Level 30]: xd
+[2021-04-16 10:32:33]: ☺ [, Level 22]: degage fdp
+[2021-04-16 10:32:34]: cookie [, Level 0]: SpawBlockerâ:  wtf dude
