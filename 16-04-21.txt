@@ -524,3 +524,6 @@
 [2021-04-16 01:00:46]: Cylox [, Level 31]: meow
 [2021-04-16 01:00:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 01:00:54]: Kiøn1029 [.bad, Level 32]: #5 blocker: eddig nem az volt hogy nem lehet neked dc ?
+[2021-04-16 01:00:57]: ***  [, Level 0]: 'HeavyGeneral' entered and joined the game
+[2021-04-16 01:00:58]: Cylox's cat [CrazyNoobs, Level 0]: hgelp
+[2021-04-16 01:01:06]: ***  [, Level 0]: 'Cylox's cat' changed name to 'Intensiv__'
