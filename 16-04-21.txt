@@ -89,3 +89,7 @@
 [2021-04-16 00:09:32]: SanoreX [Chilli.*, Level 27]: ;emote 3
 [2021-04-16 00:09:43]: SanoreX [Chilli.*, Level 27]: ;kill
 [2021-04-16 00:09:47]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-16 00:09:56]: SanoreX [Chilli.*, Level 27]: ZEWO: svme gir
+[2021-04-16 00:10:00]: ZEWO [, Level 0]: oky
+[2021-04-16 00:10:01]: ***  [, Level 0]: 'ZEWO' has left the game
+[2021-04-16 00:10:04]: ***  [, Level 0]: 'SanoreX' has left the game
