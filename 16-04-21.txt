@@ -7446,3 +7446,5 @@
 [2021-04-16 09:34:15]: Nudelsaft c: [FookinLads, Level 42]: any: check in which direction the player is going with the velocity
 [2021-04-16 09:34:21]: Isegrin [, Level 55]: any: no u
 [2021-04-16 09:34:21]: Nudelsaft c: [FookinLads, Level 42]: any: and then put a portal in that direction
+[2021-04-16 09:34:24]: mamikral011 [DogParty, Level 0]: bob:
+[2021-04-16 09:34:29]: Bombi.YT [, Level 38]: Nudelsaft
