@@ -13861,3 +13861,5 @@
 [2021-04-15 22:44:26]: SanoreX [Chilli.*, Level 27]: F-DDrace
 [2021-04-15 22:44:55]: [D] Kahve [, Level 19]: yesss
 [2021-04-15 22:45:21]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
+[2021-04-15 22:45:28]: SanoreX.* [Chilli.*, Level 0]: sa Kahve
+[2021-04-15 22:45:30]: [D] Kahve [, Level 19]: as
