@@ -10658,3 +10658,7 @@
 [2021-04-16 12:49:56]: (1)☺ [, Level 13]: really bob
 [2021-04-16 12:49:59]: ***  [, Level 0]: 'arther' entered and joined the game
 [2021-04-16 12:50:03]: Noémi [helper, Level 40]: Andresss:
+[2021-04-16 12:50:06]: (1)☺ [, Level 13]: funky: bruh
+[2021-04-16 12:50:10]: Noémi [helper, Level 40]: Andresss: marcinak járok 600k-val
+[2021-04-16 12:50:12]:   [, Level 0]: woona: lag
+[2021-04-16 12:50:15]: (1)☺ [, Level 13]: thx dude bob
