@@ -14485,3 +14485,6 @@
 [2021-04-15 23:41:51]: SanoreX.* [Chilli.*, Level 22]: Kahve: ver da flagı
 [2021-04-15 23:41:57]: (1)#5 blocker [|*MorE*|, Level 0]: Kahve: timeout
 [2021-04-15 23:42:00]: SanoreX.* [Chilli.*, Level 22]: Kahve: jetpack da ver da
+[2021-04-15 23:42:07]: [D] Kahve [, Level 19]: sağa gel san
+[2021-04-15 23:42:09]: [D] Kahve [, Level 19]: sağa gel SanoreX
+[2021-04-15 23:42:13]: SanoreX.* [Chilli.*, Level 22]: alıom
