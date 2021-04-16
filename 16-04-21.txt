@@ -6903,3 +6903,6 @@
 [2021-04-16 08:56:00]: ***  [, Level 0]: 'El patron' finished the special race!
 [2021-04-16 08:56:05]: ***  [, Level 0]: 'el champeon' entered and joined the game
 [2021-04-16 08:56:09]: ***  [, Level 0]: 'Soros' entered and joined the game
+[2021-04-16 08:56:31]: JustRace [DogParty, Level 0]: karma
+[2021-04-16 08:56:32]: ***  [, Level 0]: 'Hala Madrid' has left the game
+[2021-04-16 08:56:33]: ***  [, Level 0]: 'BitchPlease Jr.' has left the game
