@@ -6913,3 +6913,4 @@
 [2021-04-16 08:57:08]: JustRace [DogParty, Level 0]: karma
 [2021-04-16 08:57:13]: ***  [, Level 0]: 'Dan' joined the spectators
 [2021-04-16 08:57:16]: ***  [, Level 0]: 'Dan' joined the game
+[2021-04-16 08:57:28]: (1)☺ [, Level 13]: any: il dort
