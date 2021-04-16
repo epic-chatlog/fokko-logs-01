@@ -14255,3 +14255,5 @@
 [2021-04-15 23:25:30]: [D] Kahve [, Level 19]: i need 20 lvl
 [2021-04-15 23:25:31]: [D] Kahve [, Level 19]: wait xd
 [2021-04-15 23:25:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-15 23:26:15]: ***  [, Level 0]: '(1)Cosmo' entered and joined the game
+[2021-04-15 23:26:25]: #5 blocker [|*MorE*|, Level 0]: HOW?
