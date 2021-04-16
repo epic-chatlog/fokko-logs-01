@@ -6785,3 +6785,5 @@
 [2021-04-16 08:48:41]: ***  [, Level 0]: No~Filter finished in: 1 minute(s) 41.68 second(s)
 [2021-04-16 08:48:41]: SanoreX [Chilli.*, Level 27]: JustRace: ur ip 192.168.........  hamachi ip 91 9391949 1.. random
 [2021-04-16 08:48:43]: ***  [, Level 0]: 'oof' entered and joined the game
+[2021-04-16 08:49:05]: ***  [, Level 0]: 'Dan' joined the spectators
+[2021-04-16 08:49:09]: ***  [, Level 0]: 'Dan' joined the game
