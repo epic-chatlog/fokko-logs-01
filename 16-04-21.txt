@@ -2128,3 +2128,7 @@
 [2021-04-16 03:16:11]: ***  [, Level 0]: 'test' entered and joined the game
 [2021-04-16 03:16:12]: Axandos [, Level 26]: ok
 [2021-04-16 03:16:16]: Axandos [, Level 26]: ez
+[2021-04-16 03:16:35]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
+[2021-04-16 03:16:35]: ***  [, Level 0]: 'GUNO' joined the spectators
+[2021-04-16 03:16:38]: ***  [, Level 0]: 'GUNO' joined the game
+[2021-04-16 03:16:41]: Axandos [, Level 26]: watch this
