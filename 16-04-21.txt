@@ -4946,3 +4946,7 @@
 [2021-04-16 06:58:48]: ***  [, Level 0]: 'HeavyGeneral' has left the game (Timeout)
 [2021-04-16 06:58:54]: ~DemoizL~ [, Level 39]: weqe: no
 [2021-04-16 06:58:56]: Kirito [{TQuila}, Level 40]: ChillerDragon:
+[2021-04-16 06:58:58]: Kirito [{TQuila}, Level 40]: ChillerDragon.*:
+[2021-04-16 06:58:58]: ChillerDragon.* [|*KoG*|, Level 42]: Kirito: I am currently afk.
+[2021-04-16 06:59:00]: weqe [669, Level 13]: why u block me ~DemoizL~
+[2021-04-16 06:59:08]: ~DemoizL~ [, Level 39]: weqe: you block me
