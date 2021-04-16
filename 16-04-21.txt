@@ -1908,3 +1908,5 @@
 [2021-04-16 03:02:22]: mamikral011 [DogParty, Level 0]: [D] El patron: wait
 [2021-04-16 03:02:32]: YelloWorlD [DogParty, Level 0]: any: give ton comtpe
 [2021-04-16 03:02:33]: ***  [, Level 0]: 'BLACK' has left the game
+[2021-04-16 03:02:41]: ***  [, Level 0]: 'MOM' has left the game
+[2021-04-16 03:02:42]: El patron [, Level 30]: xd
