@@ -13987,3 +13987,7 @@
 [2021-04-15 23:02:41]: ***  [, Level 0]: ### 'SanoreX.*' if (pChr->m_IsFrozen && pChr->m_Pos.x < m_Core.m_Pos.x){
 [2021-04-15 23:02:43]: Taiga`iPro [, Level 37]: woops
 [2021-04-15 23:02:49]: [D] Kahve [, Level 19]: #5 blocker: u have half life or cs 1.6?
+[2021-04-15 23:02:54]: ***  [, Level 0]: 'Taiga`iPro' has left the game
+[2021-04-15 23:02:55]: [D] Kahve [, Level 19]: omg
+[2021-04-15 23:02:57]: [D] Kahve [, Level 19]: omggggg
+[2021-04-15 23:03:05]: SanoreX.* [Chilli.*, Level 22]: eğer biz freezeysek ve botun solundaysak =  if (pChr->m_IsFrozen && pChr->m_Pos.x < m_Core.m_Pos.x){
