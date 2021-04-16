@@ -10964,3 +10964,6 @@
 [2021-04-16 13:08:22]: ***  [, Level 0]: 'Treebeard' entered and joined the game
 [2021-04-16 13:08:24]: Noémi [helper, Level 40]: GODLIKe: im leave
 [2021-04-16 13:08:24]: ES [, Level 31]: Axel ²: шо за движ хд
+[2021-04-16 13:08:28]: ***  [, Level 0]: 'Treebeard' has left the game
+[2021-04-16 13:08:30]: Axel ² [TrRShClNrRs, Level 21]: ES: какой движ?
+[2021-04-16 13:08:36]: deSi [TR, Level 15]: bob: you didn't ask for help
