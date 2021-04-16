@@ -6041,3 +6041,7 @@
 [2021-04-16 07:58:35]: Flea [, Level 0]: bob: i enriqe LadyBug my friend zeynep
 [2021-04-16 07:58:40]: kais [, Level 66]: Ding Dong: register then login
 [2021-04-16 07:58:59]: kais [, Level 66]: Ding Dong: /register <account name> <password> <password>
+[2021-04-16 07:59:12]: kais [, Level 66]: Ding Dong: then /login <account name> <password>
+[2021-04-16 07:59:16]: lolpoep [Ape, Level 0]: bob
+[2021-04-16 07:59:17]: ***  [, Level 0]: vihandu tee is on a killing spree with 5 blocks
+[2021-04-16 07:59:17]: bob [Legacy™, Level 36]: XDD
