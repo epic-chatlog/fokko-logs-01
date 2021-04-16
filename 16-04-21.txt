@@ -559,3 +559,5 @@
 [2021-04-16 01:02:29]: Kahve [, Level 24]: Kahve's cat: dur
 [2021-04-16 01:02:30]: ***  [, Level 0]: 'andrea' entered and joined the game
 [2021-04-16 01:02:38]: ***  [, Level 0]: ### 'Kahve's dog' Woof-Woof
+[2021-04-16 01:02:46]: Boti. [.bad, Level 0]: #5 blocker: 10 éves gyerektől nudeokat kérni nem szép dolog de az a legroszabb mikor kapsz is XDD
+[2021-04-16 01:02:49]: [D] #5 blocker [|*MorE*|, Level 0]: Boti.: de az dzsuvás meg bozontos
