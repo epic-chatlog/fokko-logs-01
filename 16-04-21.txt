@@ -3285,3 +3285,5 @@
 [2021-04-16 04:33:43]: вłøøđωave [ƨơʅơ, Level 0]: power: so normal it's "das"
 [2021-04-16 04:33:48]: ***  [, Level 0]: 'komando' entered and joined the game
 [2021-04-16 04:33:57]: ***  [, Level 0]: '(2)kais' entered and joined the game
+[2021-04-16 04:34:14]: power [TrRShClNrRs, Level 0]: 1
+[2021-04-16 04:34:15]: ***  [, Level 0]: '(2)kais' has left the game
