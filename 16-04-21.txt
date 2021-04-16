@@ -3070,3 +3070,6 @@
 [2021-04-16 04:22:12]: Nudelsaft c: [FookinLads, Level 60]: spec me
 [2021-04-16 04:22:17]: ***  [, Level 0]: 'Michel' entered and joined the game
 [2021-04-16 04:22:25]: kais [, Level 66]: Nudelsaft c:: k
+[2021-04-16 04:22:45]: Shiro. [404, Level 42]: wat
+[2021-04-16 04:22:49]: Intensiv_ [CrazyNoobs, Level 7]: wtf
+[2021-04-16 04:22:52]: Nudelsaft c: [FookinLads, Level 60]: a
