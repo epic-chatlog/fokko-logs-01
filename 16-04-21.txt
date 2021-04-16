@@ -7351,3 +7351,5 @@
 [2021-04-16 09:26:01]: ***  [, Level 0]: 'Guthaben' entered and joined the game
 [2021-04-16 09:26:15]: Nudelsaft c: [FookinLads, Level 42]: any: github.com/nobody-mb/twchatonly/
 [2021-04-16 09:26:34]: ***  [, Level 0]: 'Andresss' entered and joined the game
+[2021-04-16 09:26:44]: ***  [, Level 0]: 'cookie' entered and joined the game
+[2021-04-16 09:26:44]: ***  [, Level 0]: 'cookie' has left the game
