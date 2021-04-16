@@ -14465,3 +14465,6 @@
 [2021-04-15 23:40:58]: Nudelsaft c: [FookinLads, Level 0]: ;emote 6
 [2021-04-15 23:40:59]: SanoreX.* [Chilli.*, Level 22]: ;kill
 [2021-04-15 23:41:02]: SanoreX.* [Chilli.*, Level 22]: ;emote 1
+[2021-04-15 23:41:05]: SanoreX.* [Chilli.*, Level 22]: ;emote 10
+[2021-04-15 23:41:11]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: why dont send eyeemote?
+[2021-04-15 23:41:11]: Nudelsaft c: [FookinLads, Level 0]: ;emote 999999
