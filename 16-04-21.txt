@@ -760,3 +760,5 @@
 [2021-04-16 01:19:01]: (1)Soros [, Level 0]: Kiøn1029: no amugy
 [2021-04-16 01:19:21]: ***  [, Level 0]: 'kiøn1029' entered and joined the game
 [2021-04-16 01:19:35]: ***  [, Level 0]: 642. Kezo Time: 02:03.06, requested by Kezo
+[2021-04-16 01:20:07]: [D] #5 blocker [|*MorE*|, Level 0]: Kiøn1029: csak policehammerrel lehet letartóztatni?
+[2021-04-16 01:20:10]: Boti. [.bad, Level 33]: dikk
