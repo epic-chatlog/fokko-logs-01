@@ -13762,3 +13762,4 @@
 [2021-04-15 19:28:43]: ***  [, Level 0]: '(1)☺' has left the game
 [2021-04-15 19:30:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-15 19:35:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-15 19:40:26]: ***  [, Level 0]: 'IwillBlockYou' entered and joined the game
