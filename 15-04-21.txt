@@ -14260,3 +14260,6 @@
 [2021-04-15 23:26:28]: ***  [, Level 0]: 'GORED' has left the game
 [2021-04-15 23:26:33]: Kahve [, Level 24]: press space and shot
 [2021-04-15 23:26:37]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: botter
+[2021-04-15 23:26:41]: SanoreX.* [Chilli.*, Level 22]: krx
+[2021-04-15 23:26:47]: Nudelsaft c: [FookinLads, Level 0]: ?
+[2021-04-15 23:26:49]: Nudelsaft c: [FookinLads, Level 0]: im muted there
