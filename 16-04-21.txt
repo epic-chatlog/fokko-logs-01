@@ -7801,3 +7801,6 @@
 [2021-04-16 10:15:19]: sL|Gabsty [SkinLover, Level 0]: too
 [2021-04-16 10:15:23]: (3)cookie [, Level 0]: oof oke
 [2021-04-16 10:15:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-16 10:16:03]: ***  [, Level 0]: 'ReccoTR' has left the game
+[2021-04-16 10:16:06]: ***  [, Level 0]: 'ReccoTR' entered and joined the game
+[2021-04-16 10:16:09]: ***  [, Level 0]: 'ReccoTR' has left the game
