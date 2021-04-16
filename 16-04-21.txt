@@ -2120,3 +2120,8 @@
 [2021-04-16 03:15:27]: ***  [, Level 0]: '[D] #5 blocker' has left the game
 [2021-04-16 03:15:30]: mamikral011 [DogParty, Level 0]: BC|Tixnix: help
 [2021-04-16 03:15:40]: sL|Gabsty [SkinLover, Level 0]: Axandos: reicht für dich :D
+[2021-04-16 03:15:47]: ***  [, Level 0]: 'GUNO' entered and joined the game
+[2021-04-16 03:15:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-16 03:15:53]: Axandos [, Level 26]: sL|Gabsty:  (':
+[2021-04-16 03:15:57]: Coca [Drunks, Level 22]: Cylox: go
+[2021-04-16 03:16:07]: sL|Gabsty [SkinLover, Level 0]: Axandos: race?
