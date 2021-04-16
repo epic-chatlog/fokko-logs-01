@@ -13201,3 +13201,6 @@
 [2021-04-16 16:50:45]: bob [Legacy™, Level 36]: gg
 [2021-04-16 16:50:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 16:50:52]: (3)BLACK [, Level 16]: ggs guys
+[2021-04-16 16:51:09]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-16 16:51:11]: Zephir™ [404, Level 40]: bob: i just fail xD but ok i come back
+[2021-04-16 16:51:14]: Zephir™ [404, Level 40]: oooww :c
