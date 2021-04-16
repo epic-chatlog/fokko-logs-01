@@ -7580,3 +7580,9 @@
 [2021-04-16 09:48:35]: ***  [, Level 0]: 'Zephir™' entered and joined the game
 [2021-04-16 09:48:38]: [D] mamikral011 [DogParty, Level 27]: El patron: stoppp
 [2021-04-16 09:48:43]: [D] mamikral011 [DogParty, Level 27]: El patron: stop
+[2021-04-16 09:48:56]: mamikral011 [DogParty, Level 0]: Isegrin: war for life
+[2021-04-16 09:48:57]: [D] El patron [, Level 0]: make peace
+[2021-04-16 09:48:58]: Isegrin [, Level 55]: AAAAAAAAAAAA
+[2021-04-16 09:49:04]: Isegrin [, Level 55]: mamikral011: PRANo
+[2021-04-16 09:49:04]: ***  [, Level 0]: '[D] mamikral011' has left the game
+[2021-04-16 09:49:04]: ***  [, Level 0]: 'mamikral011' has left the game
