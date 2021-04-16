@@ -6390,3 +6390,8 @@
 [2021-04-16 08:20:01]: ***  [, Level 0]: 'mamikral011' has left the game
 [2021-04-16 08:20:03]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
 [2021-04-16 08:20:07]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-16 08:20:07]: Nudelsaft c: [FookinLads, Level 60]: TL|ŦƹƦ$ŦǾN: 63 is the id when the player is not loaded and its : Nudelsaft c:: asd
+[2021-04-16 08:20:09]: ***  [, Level 0]: 'mamikral011' has left the game (Timeout Protection used)
+[2021-04-16 08:20:13]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-16 08:20:17]: ***  [, Level 0]: '[D] mamikral011' has left the game (Timeout Protection used)
+[2021-04-16 08:20:19]: Good man [Drunks, Level 31]: Soros: do you want to go enless?
