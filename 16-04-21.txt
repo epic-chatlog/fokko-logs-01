@@ -4853,3 +4853,4 @@
 [2021-04-16 06:50:46]: kais [, Level 66]: weqe: some of your enemies may are my friends too
 [2021-04-16 06:50:47]: RM | Arin [Retard MNKY, Level 16]: ERROR: !!! safe ma
 [2021-04-16 06:50:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-16 06:51:05]: ERROR [404, Level 75]: ops
