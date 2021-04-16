@@ -845,3 +845,4 @@
 [2021-04-16 01:30:57]: ***  [, Level 0]: 'Rasza' has left the game
 [2021-04-16 01:31:15]: [D] #5 blocker [|*MorE*|, Level 0]: Kiøn1029: alt fiók leszarom mi a neve
 [2021-04-16 01:31:19]: Kiøn1029 [.bad, Level 0]: #5 blocker: csak a clientet küld el
+[2021-04-16 01:31:37]: [D]ϻɪɔʜɑʟ [, Level 20]: (1)Soros: come
