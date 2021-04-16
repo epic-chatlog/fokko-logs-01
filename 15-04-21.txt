@@ -14587,3 +14587,5 @@
 [2021-04-15 23:50:12]: [D] Kahve [, Level 19]: i need afk
 [2021-04-15 23:50:14]: SanoreX [Chilli.*, Level 27]: Kahve: flaglar bende
 [2021-04-15 23:50:22]: [D] #5 blocker [|*MorE*|, Level 0]: Kahve: hey i help you
+[2021-04-15 23:50:27]: Intensiv_ [CrazyNoobs, Level 6]: help
+[2021-04-15 23:50:35]: [D] Kahve [, Level 19]: #5 blocker: i can quit
