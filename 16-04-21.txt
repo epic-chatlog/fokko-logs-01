@@ -7484,3 +7484,6 @@
 [2021-04-16 09:38:03]: ***  [, Level 0]: '(1)Good man' has left the game
 [2021-04-16 09:38:05]: bob [Legacy™, Level 36]: G𝕖l𝕒to*: where are you from
 [2021-04-16 09:38:07]: ***  [, Level 0]: [D] Vertex is on a killing spree with 5 blocks
+[2021-04-16 09:38:12]: Good man [Drunks, Level 31]: bob: im helped you
+[2021-04-16 09:38:13]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-16 09:38:15]: Good man [Drunks, Level 31]: bob: im want team!
