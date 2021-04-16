@@ -12751,3 +12751,4 @@
 [2021-04-16 14:59:14]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
 [2021-04-16 15:00:34]: ***  [, Level 0]: 'Treebeard' entered and joined the game
 [2021-04-16 15:00:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-16 15:01:22]: ***  [, Level 0]: 'Treebeard' has left the game
