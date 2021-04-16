@@ -943,3 +943,7 @@
 [2021-04-16 01:38:58]: ***  [, Level 0]: 'neim' has left the game
 [2021-04-16 01:39:19]: Cylox. [, Level 0]: MICHAL
 [2021-04-16 01:39:32]: ***  [, Level 0]: 'neim' entered and joined the game
+[2021-04-16 01:39:51]: ***  [, Level 0]: '[D] Dilkohomnki' has left the game
+[2021-04-16 01:39:51]: ***  [, Level 0]: 'Dilkohomnkiks' has left the game
+[2021-04-16 01:39:54]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
+[2021-04-16 01:39:59]: ***  [, Level 0]: 'Dilkohomnkiks' entered and joined the game
