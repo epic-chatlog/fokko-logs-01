@@ -4209,3 +4209,6 @@
 [2021-04-16 05:59:53]: (2)Cosmo [, Level 0]: [D] El patron: sorry
 [2021-04-16 05:59:56]: ***  [, Level 0]: 'LadyBug' entered and joined the game
 [2021-04-16 06:00:02]: ***  [, Level 0]: 'Telefantastic' entered and joined the game
+[2021-04-16 06:00:11]: woona [, Level 48]: portal nub
+[2021-04-16 06:00:11]: ***  [, Level 0]: 'Telefantastic' has left the game
+[2021-04-16 06:00:20]: ChillerDragon.* [Chilli.*, Level 42]: yo BitchPlease Jr. nub
