@@ -14050,3 +14050,5 @@
 [2021-04-15 23:09:28]: SanoreX.* [Chilli.*, Level 22]: at flappyi
 [2021-04-15 23:09:29]: Kiøn1029 [.bad, Level 32]: #5 blocker: ezt hogy érted
 [2021-04-15 23:09:31]: SanoreX.* [Chilli.*, Level 22]: alıo Tom u
+[2021-04-15 23:09:44]: Kahve [, Level 24]: dur
+[2021-04-15 23:09:45]: #5 blocker [|*MorE*|, Level 0]: Kiøn1029: van inf jump jetpack endless hook
