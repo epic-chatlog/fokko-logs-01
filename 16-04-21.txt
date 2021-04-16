@@ -6932,3 +6932,7 @@
 [2021-04-16 08:58:59]: JustRace [DogParty, Level 0]: EEEEEEEEEEE
 [2021-04-16 08:59:00]: JustRace [DogParty, Level 0]: cl_aimbot 1
 [2021-04-16 08:59:08]: darkstar [Legacy™, Level 20]: xDD
+[2021-04-16 08:59:15]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-16 08:59:18]: ***  [, Level 0]: 'LareneGyvaeh' has left the game (Timeout)
+[2021-04-16 08:59:18]: ***  [, Level 0]: 'HeavyGeneral' would have timed out, but can use timeout protection now
+[2021-04-16 08:59:20]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
