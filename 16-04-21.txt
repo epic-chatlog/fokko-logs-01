@@ -6060,3 +6060,6 @@
 [2021-04-16 08:00:38]: Swarfey [FookinLads, Level 42]: and u didnt stop
 [2021-04-16 08:00:39]: lolpoep [Ape, Level 0]: sorry
 [2021-04-16 08:00:41]: Swarfey [FookinLads, Level 42]: so now we have war
+[2021-04-16 08:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-16 08:00:51]: ***  [, Level 0]: 'Scarab' entered and joined the game
+[2021-04-16 08:00:53]: lolpoep [Ape, Level 0]: i am sorry can jou forgif me
