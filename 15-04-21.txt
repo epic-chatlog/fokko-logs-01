@@ -13973,3 +13973,9 @@
 [2021-04-15 23:01:31]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
 [2021-04-15 23:01:37]: [D] Kahve [, Level 19]: spec
 [2021-04-15 23:01:44]: ***  [, Level 0]: 'Ðream' entered and joined the game
+[2021-04-15 23:01:52]: [D] Kahve [, Level 19]: I like turtles.
+[2021-04-15 23:01:54]: #5 blocker [|*MorE*|, Level 0]: XD
+[2021-04-15 23:01:56]: ***  [, Level 0]: 'Taiga`iPro' entered and joined the game
+[2021-04-15 23:01:56]: [D] Kahve [, Level 19]: go
+[2021-04-15 23:01:58]: [D] Kahve [, Level 19]: run !!!
+[2021-04-15 23:02:01]: [D] Kahve [, Level 19]: xd
