@@ -11135,3 +11135,5 @@
 [2021-04-16 13:16:36]: (1)☺ [, Level 13]: Zephir™: xd
 [2021-04-16 13:16:37]: ***  [, Level 0]: ':(' entered and joined the game
 [2021-04-16 13:16:38]: GODLIKe [, Level 44]: woona: yo la güzel
+[2021-04-16 13:16:50]: ***  [, Level 0]: ':(' has left the game
+[2021-04-16 13:16:54]: ***  [, Level 0]: ':(' entered and joined the game
