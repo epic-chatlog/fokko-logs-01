@@ -5518,3 +5518,7 @@
 [2021-04-16 07:32:59]: |MıssOяchiĐ| [, Level 0]: yoo
 [2021-04-16 07:33:01]: [D] mamikral011 [DogParty, Level 27]: ERROR: help
 [2021-04-16 07:33:02]: ***  [, Level 0]: 'vihandu tee' has left the game
+[2021-04-16 07:33:04]: ***  [, Level 0]: 'vihandu tee' entered and joined the game
+[2021-04-16 07:33:06]: ***  [, Level 0]: 'Ðream' has left the game
+[2021-04-16 07:33:14]: ***  [, Level 0]: 'Ðream' entered and joined the game
+[2021-04-16 07:33:15]: ***  [, Level 0]: 'vihandu tee' has left the game
