@@ -1800,3 +1800,4 @@
 [2021-04-16 02:53:09]: ***  [, Level 0]: 'Intensiv' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-16 02:53:12]: BLACK [, Level 26]: any²: omg
 [2021-04-16 02:53:12]: any [404, Level 38]: BLACK: deposit
+[2021-04-16 02:53:22]: any [404, Level 38]: BLACK: i spiked u and stole that to u x)
