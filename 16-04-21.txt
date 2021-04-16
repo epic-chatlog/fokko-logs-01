@@ -7565,3 +7565,5 @@
 [2021-04-16 09:46:03]: (1)cookie [, Level 0]: bob: due
 [2021-04-16 09:46:07]: bob [Legacy™, Level 36]: cookie: wtf
 [2021-04-16 09:46:11]: Isegrin [, Level 55]: bob: BLOCKING = SIN JESUS TOLD ME
+[2021-04-16 09:46:17]: (1)cookie [, Level 0]: cookie:  why you kill me
+[2021-04-16 09:46:27]: ***  [, Level 0]: 'bob' has left the game
