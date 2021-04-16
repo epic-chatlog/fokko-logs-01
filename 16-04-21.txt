@@ -5963,3 +5963,6 @@
 [2021-04-16 07:53:02]: lolpoep [Ape, Level 0]: stop
 [2021-04-16 07:53:03]: ***  [, Level 0]: Flupper is on a killing spree with 5 blocks
 [2021-04-16 07:53:14]: Beetle [, Level 35]: GODLIKe: GIVE FLAG
+[2021-04-16 07:53:19]: GODLIKe [, Level 44]: Beetle: how
+[2021-04-16 07:53:22]: Beetle [, Level 35]: GODLIKe: f3
+[2021-04-16 07:53:22]: Grasshopper [, Level 0]: GODLIKe: what is red your head
