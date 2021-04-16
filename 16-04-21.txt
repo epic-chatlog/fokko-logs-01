@@ -5241,3 +5241,4 @@
 [2021-04-16 07:17:52]: ***  [, Level 0]: 'Matiteusz' has left the game
 [2021-04-16 07:17:52]: ***  [, Level 0]: 'Meetiteusz' has left the game
 [2021-04-16 07:17:55]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
+[2021-04-16 07:18:07]: GODLIKe. [, Level 0]: LAG
