@@ -4427,3 +4427,6 @@
 [2021-04-16 06:16:09]: El patron [, Level 30]: TZSA:
 [2021-04-16 06:16:11]: ***  [, Level 0]: 'דצםלקטח' has left the game
 [2021-04-16 06:16:13]: RM | Arin [Retard MNKY, Level 16]: NIX AFK DU HUAN
+[2021-04-16 06:16:31]: ***  [, Level 0]: 'TZSA' finished the special race!
+[2021-04-16 06:16:32]: ***  [, Level 0]: 'ChillerDragon' finished the special race!
+[2021-04-16 06:16:33]: RM | Arin [Retard MNKY, Level 16]: ERROR:  safe mich opa
