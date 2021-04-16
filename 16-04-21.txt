@@ -7937,3 +7937,6 @@
 [2021-04-16 10:30:47]: ***  [, Level 0]: 'diony' has left the game
 [2021-04-16 10:30:47]: Kezo [DogParty, Level 41]: LGA
 [2021-04-16 10:30:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-16 10:30:54]: ***  [, Level 0]: 'cookie' entered and joined the game
+[2021-04-16 10:30:54]: El patron [, Level 30]: Falco641:
+[2021-04-16 10:30:55]: ☺ [, Level 0]: Zephir™: qui ma tuer
