@@ -604,3 +604,7 @@
 [2021-04-16 01:06:43]: [D] #5 blocker [|*MorE*|, Level 0]: bbori?
 [2021-04-16 01:06:45]: Boti. [.bad, Level 0]: igen
 [2021-04-16 01:06:52]: Kahve [, Level 24]: Cylox: noldu
+[2021-04-16 01:06:56]: Cylox. [, Level 0]: bana oc dedı
+[2021-04-16 01:06:57]: ***  [, Level 0]: 'kaktus chunior' entered and joined the game
+[2021-04-16 01:06:57]: komando [, Level 18]: al beni
+[2021-04-16 01:07:01]: Kahve [, Level 24]: komando: vay oç
