@@ -10583,3 +10583,4 @@
 [2021-04-16 12:45:29]: bob [Legacy™, Level 36]: Meetiteusz: stop helping my enemys
 [2021-04-16 12:45:32]: Killua [FookinLads, Level 0]: , lol
 [2021-04-16 12:45:42]: ***  [, Level 0]: 'hatsu' entered and joined the game
+[2021-04-16 12:45:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
