@@ -1157,3 +1157,7 @@
 [2021-04-16 01:55:30]: ***  [, Level 0]: 'Kiøn1029' has left the game
 [2021-04-16 01:55:30]: ***  [, Level 0]: 'kiøn1029' has left the game
 [2021-04-16 01:55:38]: lessname [, Level 0]: xD
+[2021-04-16 01:55:48]: Nudelsaft c: [FookinLads, Level 42]: AAAAAAAAAAAAA
+[2021-04-16 01:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-16 01:55:51]: lessname [, Level 0]: xD
+[2021-04-16 01:55:51]: Nudelsaft c: [FookinLads, Level 42]: XDD
