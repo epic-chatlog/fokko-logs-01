@@ -11521,3 +11521,6 @@
 [2021-04-16 13:35:12]: Kahve [, Level 24]: power2: go here
 [2021-04-16 13:35:13]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-16 13:35:19]: Andresss [Jewish, Level 1]: Kahve: give me spawn
+[2021-04-16 13:35:30]: Andresss [Jewish, Level 1]: Kahve:
+[2021-04-16 13:35:31]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 13:35:31]: Axel [TrRShClNrRs, Level 30]: ,: Ye, but Brawlhalla is a fighting game, and teeworlds is
