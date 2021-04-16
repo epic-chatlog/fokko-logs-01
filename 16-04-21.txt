@@ -1824,3 +1824,5 @@
 [2021-04-16 02:55:10]: Hady [new bot, Level 33]: BLACK:  yea
 [2021-04-16 02:55:13]: Boti. [.bad, Level 0]: #5 blocker: majd neked is ír fokko hogy tudsz e erről meg arról
 [2021-04-16 02:55:14]: BLACK [, Level 26]: Hady: oh ok
+[2021-04-16 02:55:40]: BLACK [, Level 26]: Hady: why
+[2021-04-16 02:55:43]: ***  [, Level 0]: ### 'HeavyGeneral' Woof-Woof
