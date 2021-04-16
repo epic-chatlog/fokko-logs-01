@@ -9455,3 +9455,7 @@
 [2021-04-16 12:02:03]: Kirito [{TQuila}, Level 40]: oops
 [2021-04-16 12:02:06]: Meetiteusz [TrRShClNrRs, Level 28]: Mista bombastic: fookin lads
 [2021-04-16 12:02:10]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-16 12:02:11]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-16 12:02:14]: Meetiteusz [TrRShClNrRs, Level 28]: ,: whopsie so i think he cant xD
+[2021-04-16 12:02:16]:   [, Level 0]: [D] mamikral011: (2)cookie:
+[2021-04-16 12:02:20]: (2)cookie [, Level 3]: [D] mamikral011:  yes
