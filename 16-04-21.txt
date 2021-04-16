@@ -81,3 +81,5 @@
 [2021-04-16 00:08:54]: SanoreX [Chilli.*, Level 27]: yap
 [2021-04-16 00:08:58]: SanoreX [Chilli.*, Level 27]: öbürü deişik
 [2021-04-16 00:09:03]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-16 00:09:09]: SanoreX [Chilli.*, Level 27]: ;emote 1
+[2021-04-16 00:09:13]: SanoreX [Chilli.*, Level 27]: ;emote 3
