@@ -12766,3 +12766,5 @@
 [2021-04-16 15:10:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 15:10:51]: (1)☺ [, Level 14]: XDDD
 [2021-04-16 15:10:53]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-16 15:11:01]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-16 15:11:02]: (1)☺ [, Level 14]: je oeux letre aussi tu said
