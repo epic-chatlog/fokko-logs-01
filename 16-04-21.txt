@@ -530,3 +530,6 @@
 [2021-04-16 01:01:12]: ***  [, Level 0]: 'Anyone's dog' changed name to 'Kahve's dog'
 [2021-04-16 01:01:25]: Kahve [, Level 24]: xD
 [2021-04-16 01:01:30]: [D] #5 blocker [|*MorE*|, Level 0]: Kiøn1029: alt accountom mindig van és csak azért loginoltam be mert kellett a kliens
+[2021-04-16 01:01:35]: ***  [, Level 0]: 'Intensiv__' changed name to 'Kahve's cat'
+[2021-04-16 01:01:38]: Kahve's cat [CrazyNoobs, Level 0]: miyavv Kahve
+[2021-04-16 01:01:42]: Boti. [.bad, Level 0]: az online predátor
