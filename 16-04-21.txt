@@ -8391,3 +8391,6 @@
 [2021-04-16 11:06:30]: ✯ | Bulash [|Supressed|, Level 0]: Kezo: im stop help me dumbbbb
 [2021-04-16 11:06:32]: ***  [, Level 0]: 'WIR' entered and joined the game
 [2021-04-16 11:06:34]: ***  [, Level 0]: 'WIR' has left the game
+[2021-04-16 11:06:44]: ***  [, Level 0]: динер is on a killing spree with 5 blocks
+[2021-04-16 11:06:46]: ***  [, Level 0]: динер's killing spree was ended by Falco641 (5 blocks)
+[2021-04-16 11:06:51]: GODLIKe [, Level 44]: flappy: STUPİD
