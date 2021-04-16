@@ -12908,3 +12908,5 @@
 [2021-04-16 15:52:50]: bob [Legacy™, Level 36]: HAHAHAHAHA
 [2021-04-16 15:52:51]: bob [Legacy™, Level 36]: HAHAHAHAHAH
 [2021-04-16 15:52:53]: bob [Legacy™, Level 36]: HAHAHAHA
+[2021-04-16 15:53:01]: ***  [, Level 0]: 'sammy' entered and joined the game
+[2021-04-16 15:53:07]: bob [Legacy™, Level 36]: hhaha
