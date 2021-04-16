@@ -2923,3 +2923,8 @@
 [2021-04-16 04:11:42]: ***  [, Level 0]: 'Swarfey' has left the game
 [2021-04-16 04:11:42]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-16 04:11:44]: ChillerDragon.* [|*KoG*|, Level 42]: rq
+[2021-04-16 04:11:50]: JustRace [DogParty, Level 0]: cl_aimbot 1
+[2021-04-16 04:11:50]: ***  [, Level 0]: '✯|Not Bulash' has left the game
+[2021-04-16 04:11:50]: ***  [, Level 0]: '✯ | Bulash' has left the game
+[2021-04-16 04:11:55]: Foxie♥ [{TQuila}, Level 36]: Meetiteusz: zdarova
+[2021-04-16 04:11:59]: Meetiteusz [TrRShClNrRs, Level 28]: Foxie♥: Ya
