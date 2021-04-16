@@ -3037,3 +3037,6 @@
 [2021-04-16 04:18:47]: (1)[D] Kahve [, Level 0]: xd
 [2021-04-16 04:18:48]: Nudelsaft c: [FookinLads, Level 0]: u
 [2021-04-16 04:18:54]: Nudelsaft c: [FookinLads, Level 0]: ;emote 3
+[2021-04-16 04:19:15]: Nudelsaft c: [FookinLads, Level 0]: a
+[2021-04-16 04:19:19]: ***  [, Level 0]: (1)kais finished in: 3 minute(s) 31.62 second(s)
+[2021-04-16 04:19:19]: ***  [, Level 0]: New record: 7 minute(s) 57.46 second(s) better.
