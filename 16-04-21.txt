@@ -7,3 +7,6 @@
 [2021-04-16 00:00:45]: ***  [, Level 0]: 'el champeon' entered and joined the game
 [2021-04-16 00:00:45]: ***  [, Level 0]: '(1)Intensiv' entered and joined the game
 [2021-04-16 00:00:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-16 00:00:53]: ϻɪɔʜɑʟ [, Level 24]: wtf
+[2021-04-16 00:00:54]: ***  [, Level 0]: '(1)Intensiv' changed name to 'Intensiv__'
+[2021-04-16 00:00:56]: SanoreX [Chilli.*, Level 27]: any: go here
