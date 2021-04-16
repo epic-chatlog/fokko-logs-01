@@ -1844,3 +1844,6 @@
 [2021-04-16 02:57:20]: ***  [, Level 0]: 'Hady' has left the game
 [2021-04-16 02:57:37]: el champeon [, Level 0]: BLACK: I don't care I leave and come in whenever I want
 [2021-04-16 02:57:46]: ***  [, Level 0]: 'MOM' entered and joined the game
+[2021-04-16 02:58:00]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
+[2021-04-16 02:58:03]: BLACK [, Level 26]: el champeon:  yeah ? xD NOBO
+[2021-04-16 02:58:04]: [D] mamikral011 [DogParty, Level 0]: YelloWorlD: hii
