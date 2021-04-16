@@ -8625,3 +8625,6 @@
 [2021-04-16 11:20:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-16 11:20:59]: ***  [, Level 0]: 'Axel ²' has left the game
 [2021-04-16 11:21:10]: ***  [, Level 0]: 'Cylox.' entered and joined the game
+[2021-04-16 11:21:18]: Intensiv_ [CrazyNoobs, Level 7]: ♥TAKO♥:
+[2021-04-16 11:21:23]: Kezo [DogParty, Level 41]: ♥TAKO♥: sinirli taco
+[2021-04-16 11:21:29]:   [, Level 0]: nameless tee: help
