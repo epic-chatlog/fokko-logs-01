@@ -4220,3 +4220,6 @@
 [2021-04-16 06:00:42]: ***  [, Level 0]: 'LadyBug' has left the game
 [2021-04-16 06:00:49]: ChillerDragon.* [Chilli.*, Level 42]: ich hab nichmal gekämpft xd
 [2021-04-16 06:00:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-16 06:01:02]: BitchPlease Jr. [BBM, Level 0]: ChillerDragon: ich ehm, lass das mal zwischen euch beiden ;3
+[2021-04-16 06:01:03]: ChillerDragon.* [Chilli.*, Level 42]: was stehst du so rum BitchPlease Jr. xd
+[2021-04-16 06:01:13]: ***  [, Level 0]: 'Flupper' changed name to 'reppulF'
