@@ -1834,3 +1834,5 @@
 [2021-04-16 02:56:07]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
 [2021-04-16 02:56:09]: BLACK [, Level 26]: Hady: what
 [2021-04-16 02:56:17]: Hady [new bot, Level 33]: BLACK: not you
+[2021-04-16 02:56:22]: ***  [, Level 0]: 403. Vertex Time: 01:12.68, requested by Vertex
+[2021-04-16 02:56:24]: ***  [, Level 0]: 'Boti.' has left the game
