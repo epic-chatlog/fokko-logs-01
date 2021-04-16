@@ -14173,3 +14173,7 @@
 [2021-04-15 23:20:19]: SanoreX.* [Chilli.*, Level 22]: send emote
 [2021-04-15 23:20:20]: SanoreX.* [Chilli.*, Level 22]: woow
 [2021-04-15 23:20:23]: Nudelsaft c: [FookinLads, Level 60]: here
+[2021-04-15 23:20:29]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 23:20:29]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: u coding it?
+[2021-04-15 23:20:32]: #5 blocker [|*MorE*|, Level 0]: this is your new home
+[2021-04-15 23:20:35]: Nudelsaft c: [FookinLads, Level 60]: perhaps
