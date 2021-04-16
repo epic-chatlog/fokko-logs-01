@@ -12832,3 +12832,4 @@
 [2021-04-16 15:24:12]: Isegrin [, Level 55]: PRANK
 [2021-04-16 15:24:14]: (1)☺ [, Level 14]: XD
 [2021-04-16 15:25:02]: (1)☺ [, Level 14]: Kenshi™:
+[2021-04-16 15:25:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
