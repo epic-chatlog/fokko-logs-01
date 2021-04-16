@@ -14496,3 +14496,6 @@
 [2021-04-15 23:42:57]: ***  [, Level 0]: 'kais' entered and joined the game
 [2021-04-15 23:42:57]: SanoreX.* [Chilli.*, Level 22]: jetpack vers
 [2021-04-15 23:43:01]: SanoreX.* [Chilli.*, Level 22]: al bi
+[2021-04-15 23:43:08]: SanoreX.* [Chilli.*, Level 22]: jetpack ver
+[2021-04-15 23:43:10]: SanoreX.* [Chilli.*, Level 22]: gidek
+[2021-04-15 23:43:10]: Intensiv [CrazyNoobs, Level 12]: SanoreX:  dumimden gelcem alırsın demi
