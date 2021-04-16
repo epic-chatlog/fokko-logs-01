@@ -13967,3 +13967,6 @@
 [2021-04-15 23:01:09]: #5 blocker [|*MorE*|, Level 0]: wait
 [2021-04-15 23:01:10]: SanoreX.* [Chilli.*, Level 22]: hamachi ile Kahve ikinci pencereden
 [2021-04-15 23:01:11]: SanoreX.* [Chilli.*, Level 22]: PLS
+[2021-04-15 23:01:20]: [D] Kahve [, Level 19]: wait
+[2021-04-15 23:01:24]: [D] Kahve [, Level 19]: noooo
+[2021-04-15 23:01:25]: [D] Kahve [, Level 19]: nooo
