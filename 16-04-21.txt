@@ -1558,3 +1558,6 @@
 [2021-04-16 02:37:19]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
 [2021-04-16 02:37:20]: Kahve [, Level 24]: any: no pls :(
 [2021-04-16 02:37:44]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-16 02:37:47]: ***  [, Level 0]: Soros is on a killing spree with 10 blocks
+[2021-04-16 02:37:49]: Kahve [, Level 24]: any: drop pls
+[2021-04-16 02:37:49]: BC|Tixnix [BC, Level 26]: falkenauge:  ich hab garnix gemacht garnix
