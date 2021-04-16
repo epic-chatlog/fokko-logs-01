@@ -1809,3 +1809,4 @@
 [2021-04-16 02:54:01]: ***  [, Level 0]: 'Boti. but 0.7' has left the game
 [2021-04-16 02:54:05]: ***  [, Level 0]: 'Boti.' entered and joined the game
 [2021-04-16 02:54:06]: any [404, Level 38]: HeavyGeneral: whut ur doin ? x)
+[2021-04-16 02:54:13]: Boti. [.bad, Level 0]: FBI OPEN UP
