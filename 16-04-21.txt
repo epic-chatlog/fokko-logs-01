@@ -6023,3 +6023,7 @@
 [2021-04-16 07:57:30]: ***  [, Level 0]: 'El Monkey' has left the game
 [2021-04-16 07:57:35]: ***  [, Level 0]: 'Flea' entered and joined the game
 [2021-04-16 07:57:36]: Ding Dong [, Level 0]: how to get one ?
+[2021-04-16 07:57:59]: Vertex [{:Admin:}, Level 0]: CAn fly A Jetpack
+[2021-04-16 07:58:01]: Flipper [, Level 0]: ~DemoizL~ go bank
+[2021-04-16 07:58:02]: vollesprit [, Level 0]: enfi
+[2021-04-16 07:58:05]: bob [Legacy™, Level 36]: Birdbug: who u guys
