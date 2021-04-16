@@ -4577,3 +4577,4 @@
 [2021-04-16 06:33:21]: woona [, Level 48]: xdDDD
 [2021-04-16 06:33:22]: ERROR [404, Level 75]: xD
 [2021-04-16 06:33:59]: Flipper [, Level 0]: wait
+[2021-04-16 06:34:27]: ***  [, Level 0]: 'sleimi' has left the game
