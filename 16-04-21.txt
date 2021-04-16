@@ -1608,3 +1608,4 @@
 [2021-04-16 02:40:15]: ***  [, Level 0]: 'power' has left the game (Timeout)
 [2021-04-16 02:40:23]: vollesprit [, Level 0]: thanks
 [2021-04-16 02:40:29]: BLACK [, Level 26]: np
+[2021-04-16 02:40:37]: Kahve [, Level 24]: i say to go up ok?
