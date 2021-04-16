@@ -10730,3 +10730,6 @@
 [2021-04-16 12:54:30]: , [TrRShClNrRs, Level 41]: Axel: DID U SE
 [2021-04-16 12:54:34]: , [TrRShClNrRs, Level 41]: Axel: AAAAAAAAAA
 [2021-04-16 12:54:35]: , [TrRShClNrRs, Level 41]: Axel: ez
+[2021-04-16 12:54:37]: ***  [, Level 0]: 'cookie' has left the game
+[2021-04-16 12:54:38]: , [TrRShClNrRs, Level 41]: Axel: i did this?
+[2021-04-16 12:54:41]: , [TrRShClNrRs, Level 41]: Axel ²: look
