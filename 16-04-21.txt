@@ -8482,3 +8482,9 @@
 [2021-04-16 11:11:04]: Intensiv_ [CrazyNoobs, Level 7]: Kenshi™:  okey bro sorry
 [2021-04-16 11:11:05]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
 [2021-04-16 11:11:07]: ***  [, Level 0]: 'brainless tee' entered and joined the game
+[2021-04-16 11:11:26]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-16 11:11:29]: ***  [, Level 0]: '♥TAKO♥' has left the game (Timeout)
+[2021-04-16 11:11:29]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game (Timeout)
+[2021-04-16 11:11:30]: Kenshi™ [, Level 0]: basoka: u attack ☺ ?
+[2021-04-16 11:11:31]: ***  [, Level 0]: f"{self.name}"'s killing spree was ended by brainless tee (5 blocks)
+[2021-04-16 11:11:32]: basoka [, Level 32]: JLAI PAS KILL JE RIGOLE
