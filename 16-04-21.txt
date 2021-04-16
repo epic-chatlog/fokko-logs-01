@@ -3462,3 +3462,9 @@
 [2021-04-16 04:54:31]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
 [2021-04-16 04:54:43]: mamikral011 [DogParty, Level 0]: any: thx
 [2021-04-16 04:54:58]: ***  [, Level 0]: 'ES' finished the special race!
+[2021-04-16 04:55:00]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-16 04:55:01]: ***  [, Level 0]: 'Michel' finished the special race!
+[2021-04-16 04:55:02]: #5 blocker [|*MorE*|, Level 0]: pls game money
+[2021-04-16 04:55:06]: ***  [, Level 0]: UOYKCUFI finished in: 8 minute(s)  4.36 second(s)
+[2021-04-16 04:55:06]: ***  [, Level 0]: 'UOYKCUFI' finished the special race!
+[2021-04-16 04:55:10]: Flipper [, Level 0]: stop
