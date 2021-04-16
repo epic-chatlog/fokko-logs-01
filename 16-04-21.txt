@@ -2315,3 +2315,6 @@
 [2021-04-16 03:33:18]: ***  [, Level 0]: 'darkstar3' entered and joined the game
 [2021-04-16 03:33:29]: Intensiv__ [CrazyNoobs, Level 13]: Nudelsaft c::  help pls
 [2021-04-16 03:33:31]: ***  [, Level 0]: 'darkstar4' entered and joined the game
+[2021-04-16 03:33:40]: ***  [, Level 0]: '~DemoizL~' has left the game
+[2021-04-16 03:33:45]: ***  [, Level 0]: 'komando' has left the game
+[2021-04-16 03:33:47]: Intensiv__ [CrazyNoobs, Level 13]: any:  help
