@@ -13473,3 +13473,4 @@
 [2021-04-15 18:26:04]: bob [Legacy™, Level 36]: liar
 [2021-04-15 18:26:06]: ***  [, Level 0]: '[D] 1000' has left the game
 [2021-04-15 18:26:06]: ***  [, Level 0]: '1000' has left the game
+[2021-04-15 18:26:16]: bob [Legacy™, Level 36]: idk u
