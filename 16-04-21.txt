@@ -13213,3 +13213,7 @@
 [2021-04-16 16:55:02]: Zephir™ [404, Level 40]: BLACK: nice xD now i leav, bye ^^
 [2021-04-16 16:55:10]: (3)BLACK [, Level 16]: OH
 [2021-04-16 16:55:11]: (3)BLACK [, Level 16]: BB
+[2021-04-16 16:55:15]: (3)BLACK [, Level 16]: good night
+[2021-04-16 16:55:22]: Zephir™ [404, Level 40]: u too
+[2021-04-16 16:55:24]: ***  [, Level 0]: 'Kenshi™' has left the game
+[2021-04-16 16:55:24]: ***  [, Level 0]: 'Zephir™' has left the game
