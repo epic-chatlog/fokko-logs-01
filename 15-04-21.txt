@@ -14478,3 +14478,7 @@
 [2021-04-15 23:41:32]: SanoreX.* [Chilli.*, Level 22]: Kahve: jetpack da ber
 [2021-04-15 23:41:34]: SanoreX.* [Chilli.*, Level 22]: Kahve: jetpack da ver
 [2021-04-15 23:41:36]: JustRace [DogParty, Level 36]: cl_aimbot 1
+[2021-04-15 23:41:41]: ***  [, Level 0]: '#5 blocker' would have timed out, but can use timeout protection now
+[2021-04-15 23:41:43]: Kahve [, Level 24]: SanoreX: afk kalcam plotumda
+[2021-04-15 23:41:44]: SanoreX.* [Chilli.*, Level 22]: Intensiv: eskiden flag benimdi bana vercek
+[2021-04-15 23:41:48]: Intensiv [CrazyNoobs, Level 0]: SanoreX:  ok
