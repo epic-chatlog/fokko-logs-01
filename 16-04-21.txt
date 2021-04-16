@@ -4510,3 +4510,5 @@
 [2021-04-16 06:26:07]: (1)RM | Arin [Retard MNKY, Level 0]: ich wusste es
 [2021-04-16 06:26:10]: ***  [, Level 0]: 'vihandu tee' entered and joined the game
 [2021-04-16 06:26:13]: ***  [, Level 0]: 'El patron' has left the game
+[2021-04-16 06:26:28]: ***  [, Level 0]: 'vihandu tee' has left the game
+[2021-04-16 06:26:30]: ***  [, Level 0]: 'vihandu tee' entered and joined the game
