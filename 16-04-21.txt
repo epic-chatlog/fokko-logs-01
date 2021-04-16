@@ -3117,3 +3117,6 @@
 [2021-04-16 04:24:36]: ***  [, Level 0]: 'nameless' entered and joined the game
 [2021-04-16 04:24:40]: ***  [, Level 0]: 'Intensiv_' has left the game
 [2021-04-16 04:24:40]: ***  [, Level 0]: 'Intensiv__' has left the game
+[2021-04-16 04:24:50]: Nudelsaft c: [FookinLads, Level 60]: u
+[2021-04-16 04:24:52]: (1)kais [, Level 58]: no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u no u
+[2021-04-16 04:24:53]: [D] Nightmare [, Level 0]: Shiro.: bro tell me why do you block me?
