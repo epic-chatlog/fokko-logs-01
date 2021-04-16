@@ -2188,3 +2188,6 @@
 [2021-04-16 03:20:10]: ***  [, Level 0]: 'Good man' finished the special race!
 [2021-04-16 03:20:11]: ***  [, Level 0]: 'Cylox.' finished the special race!
 [2021-04-16 03:20:14]: ***  [, Level 0]: 'Adleg' entered and joined the game
+[2021-04-16 03:20:17]: mamikral011 [DogParty, Level 0]: sL|Gabsty: come
+[2021-04-16 03:20:18]: ***  [, Level 0]: '(1)test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-16 03:20:23]: Cylox. [, Level 0]: ty
