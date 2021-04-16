@@ -13998,3 +13998,6 @@
 [2021-04-15 23:03:44]: [D] Kahve [, Level 19]: go left
 [2021-04-15 23:03:54]: SanoreX.* [Chilli.*, Level 22]: Kahve: eğer biz freezeysek ve botun solundaysak =  if (pChr->m_IsFrozen && pChr->m_Pos.x < m_Core.m_Pos.x){ anladın dimi kod bilgisi C:
 [2021-04-15 23:03:58]: [D] Kahve [, Level 19]: go left #5 blocker
+[2021-04-15 23:04:06]: SanoreX.* [Chilli.*, Level 22]: Kahve: eğer biz freezeysek ve botun solundaysak =  if (pChr->m_IsFrozen && pChr->m_Pos.x < m_Core.m_Pos.x){ anladın dimi kod bilgisi :D
+[2021-04-15 23:04:12]: [D] Kahve [, Level 19]: anladık aq
+[2021-04-15 23:04:14]: SanoreX.* [Chilli.*, Level 22]: HE
