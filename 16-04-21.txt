@@ -448,3 +448,5 @@
 [2021-04-16 00:55:32]: Kahve [, Level 24]: prank
 [2021-04-16 00:55:39]: Kahve [, Level 24]: xd
 [2021-04-16 00:55:41]: Marcisten [Helper, Level 0]: Kiøn1029: de ezzel nem megyek semmire mert eddig jó volt mert nyomtam még egy tabot
+[2021-04-16 00:55:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-16 00:55:53]: Marcisten [Helper, Level 0]: Kiøn1029: de most ha nyomok még egy tabot akkor pl kétszer írja a te neved és csak utána kiritot
