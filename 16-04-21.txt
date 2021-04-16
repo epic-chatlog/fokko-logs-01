@@ -5238,3 +5238,6 @@
 [2021-04-16 07:17:34]: Flipper [, Level 0]: im not
 [2021-04-16 07:17:44]: S Y T H N [, Level 39]: t
 [2021-04-16 07:17:47]: Kirito [{TQuila}, Level 36]: Foxie♥: portal
+[2021-04-16 07:17:52]: ***  [, Level 0]: 'Matiteusz' has left the game
+[2021-04-16 07:17:52]: ***  [, Level 0]: 'Meetiteusz' has left the game
+[2021-04-16 07:17:55]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
