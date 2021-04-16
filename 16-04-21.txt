@@ -10579,3 +10579,5 @@
 [2021-04-16 12:45:14]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-16 12:45:14]: (2)cookie [, Level 3]: ty
 [2021-04-16 12:45:14]: bob [Legacy™, Level 36]: chol
+[2021-04-16 12:45:24]: (2)cookie [, Level 3]: wait
+[2021-04-16 12:45:29]: bob [Legacy™, Level 36]: Meetiteusz: stop helping my enemys
