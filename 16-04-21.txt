@@ -1197,3 +1197,5 @@
 [2021-04-16 01:58:59]: ***  [, Level 0]: 'SanoreX' has left the game
 [2021-04-16 01:59:01]: Nudelsaft c: [FookinLads, Level 42]: dummy
 [2021-04-16 01:59:01]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: shut up war
+[2021-04-16 01:59:26]: ***  [, Level 0]: 'blazingd420' entered and joined the game
+[2021-04-16 01:59:29]: lessname [, Level 0]: Nudelsaft c:: :33
