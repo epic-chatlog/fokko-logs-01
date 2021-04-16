@@ -2421,3 +2421,10 @@
 [2021-04-16 03:41:37]: ***  [, Level 0]: darkstar3 finished in: 3 minute(s) 49.22 second(s)
 [2021-04-16 03:41:39]: ***  [, Level 0]: 'BC|Tixnix' finished the special race!
 [2021-04-16 03:41:42]: ***  [, Level 0]: darkstar4 finished in: 1 minute(s) 35.12 second(s)
+[2021-04-16 03:41:44]: Coca [Drunks, Level 22]: Nudelsaft c:: maybe sorry^^
+[2021-04-16 03:41:45]: Nudelsaft c: [FookinLads, Level 42]: no
+[2021-04-16 03:41:48]: Coca [Drunks, Level 22]: yes
+[2021-04-16 03:41:48]: Nudelsaft c: [FookinLads, Level 42]: too late
+[2021-04-16 03:41:50]: ***  [, Level 0]: '(1)Fearless' entered and joined the game
+[2021-04-16 03:41:52]: Coca [Drunks, Level 22]: no)
+[2021-04-16 03:41:54]: ***  [, Level 0]: '[D] BC|Tixnix' finished the special race!
