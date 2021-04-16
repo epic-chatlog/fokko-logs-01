@@ -6911,3 +6911,5 @@
 [2021-04-16 08:56:45]: JustRace [DogParty, Level 0]: gay
 [2021-04-16 08:56:57]: any [404, Level 38]: Killua: heyyyyy
 [2021-04-16 08:57:08]: JustRace [DogParty, Level 0]: karma
+[2021-04-16 08:57:13]: ***  [, Level 0]: 'Dan' joined the spectators
+[2021-04-16 08:57:16]: ***  [, Level 0]: 'Dan' joined the game
