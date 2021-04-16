@@ -6591,3 +6591,6 @@
 [2021-04-16 08:34:09]: Killua [FookinLads, Level 37]: Nudelsaft c:: 0removeingame NAME, 0removeingameall.
 [2021-04-16 08:34:10]: Nudelsaft c: [FookinLads, Level 60]: Killua: to implement that we would need every webhook msg to be sent through ur bot
 [2021-04-16 08:34:14]: Killua [FookinLads, Level 37]: Nudelsaft c:: 0removeingame NAME, 0removeingameall. 12
+[2021-04-16 08:34:19]: Killua [FookinLads, Level 37]: Nudelsaft c:: 0removeingame NAME, 0removeingameall. 123
+[2021-04-16 08:34:24]: Kirito [{TQuila}, Level 40]: ☺
+[2021-04-16 08:34:27]: Kirito [{TQuila}, Level 40]: ☺ > here
