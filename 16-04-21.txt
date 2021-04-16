@@ -1,2 +1,9 @@
 [2021-04-16 00:00:24]: SanoreX.* [Chilli.*, Level 22]: any: give red pls
 [2021-04-16 00:00:35]: ***  [, Level 0]: '[D]ϻɪɔʜɑʟ' entered and joined the game
+[2021-04-16 00:00:40]: SanoreX [Chilli.*, Level 27]: no
+[2021-04-16 00:00:41]: SanoreX [Chilli.*, Level 27]: come
+[2021-04-16 00:00:43]: SanoreX [Chilli.*, Level 27]: COME
+[2021-04-16 00:00:44]: SanoreX [Chilli.*, Level 27]: any:
+[2021-04-16 00:00:45]: ***  [, Level 0]: 'el champeon' entered and joined the game
+[2021-04-16 00:00:45]: ***  [, Level 0]: '(1)Intensiv' entered and joined the game
+[2021-04-16 00:00:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
