@@ -7895,3 +7895,6 @@
 [2021-04-16 10:27:28]: ***  [, Level 0]: '☺' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-16 10:27:28]: ***  [, Level 0]: '(1)☺' has left the game (Timeout)
 [2021-04-16 10:27:31]: Meliodas [.bad, Level 24]: YelloWorlD: wtf
+[2021-04-16 10:27:34]: Zephir™ [, Level 40]: Estarossa: i don't know u
+[2021-04-16 10:27:35]: Meliodas [.bad, Level 24]: YelloWorlD: pk
+[2021-04-16 10:27:42]: Meliodas [.bad, Level 24]: Zephir™: White wolf
