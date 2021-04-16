@@ -2731,3 +2731,6 @@
 [2021-04-16 04:00:25]: Foxie♥ [{TQuila}, Level 36]: Cylox: no
 [2021-04-16 04:00:27]: ***  [, Level 0]: 'BC|serwan' entered and joined the game
 [2021-04-16 04:00:28]: ***  [, Level 0]: 'kotik' entered and joined the game
+[2021-04-16 04:00:28]: ***  [, Level 0]: '(1)BC|Tixnix' has left the game
+[2021-04-16 04:00:28]: ***  [, Level 0]: '(1)[D] BC|Tixnix' has left the game
+[2021-04-16 04:00:32]: Foxie♥ [{TQuila}, Level 36]: Cylox: spec me
