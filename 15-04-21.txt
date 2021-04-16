@@ -14350,3 +14350,8 @@
 [2021-04-15 23:31:36]: SanoreX.* [Chilli.*, Level 22]: ;emote 1
 [2021-04-15 23:31:38]: SanoreX.* [Chilli.*, Level 22]: yok
 [2021-04-15 23:31:40]: ***  [, Level 0]: 'test' has left the game
+[2021-04-15 23:31:42]: #5 blocker [|*MorE*|, Level 24]: [D] Kahve: hey can you pay me money?
+[2021-04-15 23:31:42]: JustRace [DogParty, Level 0]: SanoreX:
+[2021-04-15 23:31:42]: SanoreX.* [Chilli.*, Level 22]: Kahve: Nudelsaft c: ın  botu
+[2021-04-15 23:31:45]: SanoreX.* [Chilli.*, Level 22]: JustRace:
+[2021-04-15 23:31:49]: Kahve [, Level 24]: why
