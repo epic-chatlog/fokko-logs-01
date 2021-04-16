@@ -6609,3 +6609,6 @@
 [2021-04-16 08:35:36]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
 [2021-04-16 08:35:36]: Kirito [{TQuila}, Level 40]: Terra:
 [2021-04-16 08:35:39]: Kirito [{TQuila}, Level 40]: [D] şlk10:
+[2021-04-16 08:35:42]: LadyBug [, Level 35]: bugs > human
+[2021-04-16 08:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-16 08:35:51]: LadyBug [, Level 35]: Ant: they are scared from bugs
