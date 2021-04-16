@@ -8707,3 +8707,4 @@
 [2021-04-16 11:25:52]: ***  [, Level 0]: 'Kezo' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-16 11:25:58]: El patron [, Level 30]: sL|cunt: war
 [2021-04-16 11:26:01]: El patron [, Level 30]: Zephir™: help
+[2021-04-16 11:26:09]:   [, Level 0]: динер: what?
