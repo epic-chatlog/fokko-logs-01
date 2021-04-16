@@ -14468,3 +14468,8 @@
 [2021-04-15 23:41:05]: SanoreX.* [Chilli.*, Level 22]: ;emote 10
 [2021-04-15 23:41:11]: SanoreX.* [Chilli.*, Level 22]: Nudelsaft c:: why dont send eyeemote?
 [2021-04-15 23:41:11]: Nudelsaft c: [FookinLads, Level 0]: ;emote 999999
+[2021-04-15 23:41:17]: SanoreX.* [Chilli.*, Level 22]: ;say s
+[2021-04-15 23:41:19]: SanoreX.* [Chilli.*, Level 22]: ;say
+[2021-04-15 23:41:20]: Nudelsaft c: [FookinLads, Level 0]: because hes afk
+[2021-04-15 23:41:22]: ***  [, Level 0]: '(1)#5 blocker' entered and joined the game
+[2021-04-15 23:41:23]: Kahve [, Level 24]: SanoreX: ben çıkıyom flagı sana vericem
