@@ -2450,3 +2450,6 @@
 [2021-04-16 03:43:16]: ***  [, Level 0]: 'MATTHEW' joined the game
 [2021-04-16 03:43:17]: Matiteusz [TrRShClNrRs, Level 37]: Fearless: yes?
 [2021-04-16 03:43:17]: Fearless [, Level 40]: patron:  you are kid
+[2021-04-16 03:43:22]: ***  [, Level 0]: 'MATTHEW' joined the spectators
+[2021-04-16 03:43:23]: Fearless [, Level 40]: Nudelsaft c::  omg
+[2021-04-16 03:43:26]: ***  [, Level 0]: 'MATTHEW' joined the game
