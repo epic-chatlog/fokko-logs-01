@@ -790,3 +790,5 @@
 [2021-04-16 01:25:41]: ***  [, Level 0]: 'Kiøn1029' has left the game
 [2021-04-16 01:25:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-16 01:25:59]: ***  [, Level 0]: (1)Soros is on a killing spree with 10 blocks
+[2021-04-16 01:26:19]: comic [comically, Level 15]: zzzzzzzzzzzzzzzzzzzzz
+[2021-04-16 01:26:25]: ***  [, Level 0]: (1)Soros's killing spree was ended by Sayme (10 blocks)
