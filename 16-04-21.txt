@@ -356,3 +356,8 @@
 [2021-04-16 00:46:51]: [D] #5 blocker [|*MorE*|, Level 0]: Kiøn1029: vettem plotot
 [2021-04-16 00:46:51]: ***  [, Level 0]: 'Marcisten' entered and joined the game
 [2021-04-16 00:46:54]: Kiøn1029 [.bad, Level 32]: that's impossible
+[2021-04-16 00:46:58]: Kiøn1029 [.bad, Level 32]: don't lie
+[2021-04-16 00:46:59]: ***  [, Level 0]: 'Kezo' entered and joined the game
+[2021-04-16 00:47:01]: Kiøn1029 [.bad, Level 32]: Marcisten: szia
+[2021-04-16 00:47:03]: Kezo [DogParty, Level 0]: Intensiv: sa
+[2021-04-16 00:47:04]: Marcisten [Helper, Level 0]: szia kion
