@@ -6046,3 +6046,5 @@
 [2021-04-16 07:59:17]: ***  [, Level 0]: vihandu tee is on a killing spree with 5 blocks
 [2021-04-16 07:59:17]: bob [Legacy™, Level 36]: XDD
 [2021-04-16 07:59:23]: Swarfey [FookinLads, Level 42]: Keø: check ur dummy bro
+[2021-04-16 07:59:37]: ***  [, Level 0]: 'Keø' has left the game
+[2021-04-16 07:59:37]: ***  [, Level 0]: 'koro' has left the game
