@@ -4434,3 +4434,5 @@
 [2021-04-16 06:16:46]: TZSA [, Level 0]: ChillerDragon: dragged your dummy to jetpack xD
 [2021-04-16 06:16:51]: ***  [, Level 0]: '[D] TZSA' finished the special race!
 [2021-04-16 06:16:54]: RM | Arin [Retard MNKY, Level 16]: der Opa hält mich gefangen mit seinem niederen gefolge
+[2021-04-16 06:17:22]: ***  [, Level 0]: '(1)Shy-ra.' has left the game
+[2021-04-16 06:17:23]: ***  [, Level 0]: 'Dark_Heracles *' has left the game
