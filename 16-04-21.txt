@@ -6917,3 +6917,4 @@
 [2021-04-16 08:57:37]: any [404, Level 38]: ☺ qui ?
 [2021-04-16 08:57:40]: (1)☺ [, Level 13]: Killua:
 [2021-04-16 08:57:57]: ***  [, Level 0]: '*.!' entered and joined the game
+[2021-04-16 08:58:08]: ***  [, Level 0]: '*.!' has left the game
