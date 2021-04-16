@@ -7927,3 +7927,9 @@
 [2021-04-16 10:30:05]: ***  [, Level 0]: '[D] El patron' entered and joined the game
 [2021-04-16 10:30:05]: Estarossa [, Level 11]: Zephir™: YelloWorlD un une grosse salope
 [2021-04-16 10:30:08]: ***  [, Level 0]: 'ReccoTR' has left the game
+[2021-04-16 10:30:29]: ***  [, Level 0]: '☺' entered and joined the game
+[2021-04-16 10:30:31]: Estarossa [, Level 11]: Kezo: ;( YelloWorlD stupid
+[2021-04-16 10:30:32]: ***  [, Level 0]: '(1)cookie' has left the game (Timeout)
+[2021-04-16 10:30:32]: ***  [, Level 0]: '(2)cookie' has left the game (Timeout)
+[2021-04-16 10:30:32]: ***  [, Level 0]: 'cookie' has left the game (Timeout)
+[2021-04-16 10:30:37]: ***  [, Level 0]: 'diony' entered and joined the game
