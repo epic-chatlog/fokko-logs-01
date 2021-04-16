@@ -2910,3 +2910,6 @@
 [2021-04-16 04:11:17]: ***  [, Level 0]: 'SanoreX' entered and joined the game
 [2021-04-16 04:11:22]:   [, Level 0]: SanoreX: ZEWO:
 [2021-04-16 04:11:23]:   [, Level 0]: SanoreX: ZEWO: sa
+[2021-04-16 04:11:27]: ChillerDragon.* [Chilli.*, Level 42]: Nudelsaft c:: ich bin der der anmgreifzt xd
+[2021-04-16 04:11:30]: Nudelsaft c: [FookinLads, Level 42]: oops
+[2021-04-16 04:11:31]: Nudelsaft c: [FookinLads, Level 42]: sorry aimbot
