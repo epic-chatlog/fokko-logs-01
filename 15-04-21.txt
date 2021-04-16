@@ -13980,3 +13980,5 @@
 [2021-04-15 23:01:58]: [D] Kahve [, Level 19]: run !!!
 [2021-04-15 23:02:01]: [D] Kahve [, Level 19]: xd
 [2021-04-15 23:02:16]: [D] Kahve [, Level 19]: spec xd
+[2021-04-15 23:02:21]: SanoreX.* [Chilli.*, Level 22]:  if (pChr->m_IsFrozen && pChr->m_Pos.x < m_Core.m_Pos.x){
+[2021-04-15 23:02:28]: SanoreX.* [Chilli.*, Level 22]: [D] Kahve: bak bu kodu biliyom
