@@ -4180,3 +4180,7 @@
 [2021-04-16 05:58:37]: ERROR. [404, Level 57]: ChillerDragon.*:  wie du wiillst
 [2021-04-16 05:58:38]: RM | Arin [Retard MNKY, Level 16]: Nudelsaft c::  gib ma taschengeld anstatt das du meine moneten annimmst
 [2021-04-16 05:58:38]: ***  [, Level 0]: [D] TZSA finished in: 3 minute(s)  0.34 second(s)
+[2021-04-16 05:58:49]: ChillerDragon.* [Chilli.*, Level 42]: wie jz ERROR
+[2021-04-16 05:58:50]: RM | Arin [Retard MNKY, Level 16]: I like turtles.
+[2021-04-16 05:58:53]: El patron [, Level 30]: TZSA: pls
+[2021-04-16 05:58:55]: woona [, Level 48]: really noob
