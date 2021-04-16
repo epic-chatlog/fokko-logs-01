@@ -2065,3 +2065,7 @@
 [2021-04-16 03:10:58]: ***  [, Level 0]: '[D] #5 blocker' has left the game
 [2021-04-16 03:11:28]: #5 blocker [|*MorE*|, Level 24]: Hady: My mom banned me from the machine so I'm playing secretly can't you give it away now? he'll be home soon
 [2021-04-16 03:11:29]: ***  [, Level 0]: 'Good man' has left the game
+[2021-04-16 03:11:37]: ***  [, Level 0]: 'Shy-ra.' has left the game
+[2021-04-16 03:11:42]: ***  [, Level 0]: 'Good man' entered and joined the game
+[2021-04-16 03:11:44]: #5 blocker [|*MorE*|, Level 24]: Hady:
+[2021-04-16 03:11:45]: ~DemoizL~ [, Level 39]: vollesprit: mais si tu me vois bloqué, te sents pas obligé de m'aider
