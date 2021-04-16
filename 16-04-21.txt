@@ -5123,3 +5123,7 @@
 [2021-04-16 07:12:35]: ***  [, Level 0]: 'Lucas' has left the game
 [2021-04-16 07:12:37]: Kirito [{TQuila}, Level 36]: Foxie♥: i trust you
 [2021-04-16 07:12:38]: ERROR [404, Level 75]: weqe:  so i played shotgun
+[2021-04-16 07:12:39]: Terra [, Level 3]: what?
+[2021-04-16 07:12:42]: Foxie♥ [{TQuila}, Level 40]: nice
+[2021-04-16 07:12:49]: weqe [669, Level 13]: ERROR: yes but u would lose 99% of time
+[2021-04-16 07:12:50]: GODLIKe [, Level 44]: lag
