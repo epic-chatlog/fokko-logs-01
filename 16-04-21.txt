@@ -3480,3 +3480,4 @@
 [2021-04-16 04:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-16 04:55:53]: vollesprit [, Level 0]: any friend
 [2021-04-16 04:56:03]: Meetiteusz [TrRShClNrRs, Level 28]: Ðream: XDD
+[2021-04-16 04:56:52]: ***  [, Level 0]: Collected 3 money
