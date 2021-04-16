@@ -4005,3 +4005,5 @@
 [2021-04-16 05:44:39]: Flipper [, Level 0]: XD
 [2021-04-16 05:44:41]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
 [2021-04-16 05:45:10]: El patron [, Level 30]: ow
+[2021-04-16 05:45:39]: ***  [, Level 0]: 'Intensiv_' has left the game
+[2021-04-16 05:45:39]: ***  [, Level 0]: 'Intensiv' has left the game
