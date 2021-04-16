@@ -6512,3 +6512,5 @@
 [2021-04-16 08:28:47]: ☺ [, Level 22]: create you a account
 [2021-04-16 08:28:51]: Swarfey [FookinLads, Level 42]: ;emote 3
 [2021-04-16 08:28:52]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
+[2021-04-16 08:28:53]: Swarfey [FookinLads, Level 42]: ;kill
+[2021-04-16 08:28:54]: ***  [, Level 0]: 'vihandu tee' has left the game
