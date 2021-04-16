@@ -6891,3 +6891,7 @@
 [2021-04-16 08:55:41]: ***  [, Level 0]: 'Soros' has left the game
 [2021-04-16 08:55:41]: ***  [, Level 0]: 'el champeon' has left the game
 [2021-04-16 08:55:42]: ***  [, Level 0]: 'el champeon5412' entered and joined the game
+[2021-04-16 08:55:47]: ***  [, Level 0]: 'Soros8741202354' entered and joined the game
+[2021-04-16 08:55:50]: ***  [, Level 0]: 'Soros8741202354' has left the game
+[2021-04-16 08:55:50]: ***  [, Level 0]: 'el champeon5412' has left the game
+[2021-04-16 08:55:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
