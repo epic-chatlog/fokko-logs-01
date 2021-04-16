@@ -2340,3 +2340,5 @@
 [2021-04-16 03:35:07]: Taip [VergleriSay, Level 19]: go
 [2021-04-16 03:35:12]: Taip [VergleriSay, Level 19]: war
 [2021-04-16 03:35:13]: Taip [VergleriSay, Level 19]: 1
+[2021-04-16 03:35:22]: Nudelsaft c: [FookinLads, Level 42]: Coca: ok war
+[2021-04-16 03:35:26]: Nudelsaft c: [FookinLads, Level 42]: Coca: stats saved
