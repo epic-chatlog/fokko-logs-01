@@ -13407,3 +13407,5 @@
 [2021-04-15 17:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-15 18:00:46]: ***  [, Level 0]: 'IwillBlockYou' entered and joined the game
 [2021-04-15 18:00:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-15 18:02:28]: (3)BLACK [, Level 22]: flappy:  is going crazy
+[2021-04-15 18:02:36]: (1)☺ [, Level 13]: yeah
