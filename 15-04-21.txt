@@ -14239,3 +14239,7 @@
 [2021-04-15 23:24:39]: SanoreX [Chilli.*, Level 27]: ask me
 [2021-04-15 23:24:41]: SanoreX [Chilli.*, Level 27]: flag?
 [2021-04-15 23:24:45]: ***  [, Level 0]: 'Rem's bae' entered and joined the game
+[2021-04-15 23:24:52]: ***  [, Level 0]: 'Rem's dummy' entered and joined the game
+[2021-04-15 23:24:53]: SanoreX [Chilli.*, Level 27]: ask and I answer Ðream
+[2021-04-15 23:24:55]: [D] Kahve [, Level 19]: SanoreX: plot alıyom
+[2021-04-15 23:24:58]: [D] Kahve [, Level 19]: sağındakini
