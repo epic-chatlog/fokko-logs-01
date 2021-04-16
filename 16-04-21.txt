@@ -10651,3 +10651,10 @@
 [2021-04-16 12:49:48]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 35.84 second(s)
 [2021-04-16 12:49:49]: (1)☺ [, Level 13]: really
 [2021-04-16 12:49:49]: |HolyHo| [FookinLads, Level 19]: cookie: help
+[2021-04-16 12:49:53]: ***  [, Level 0]: Meetiteusz finished in: 1 minute(s) 32.60 second(s)
+[2021-04-16 12:49:53]: ***  [, Level 0]: New record: 47.62 second(s) better.
+[2021-04-16 12:49:53]: bob [Legacy™, Level 36]: yes
+[2021-04-16 12:49:55]: Andresss [Jewish, Level 1]: Noémi: na kell?
+[2021-04-16 12:49:56]: (1)☺ [, Level 13]: really bob
+[2021-04-16 12:49:59]: ***  [, Level 0]: 'arther' entered and joined the game
+[2021-04-16 12:50:03]: Noémi [helper, Level 40]: Andresss:
