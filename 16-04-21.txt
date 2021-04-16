@@ -6769,3 +6769,7 @@
 [2021-04-16 08:47:37]: Coca [Drunks, Level 22]: gaymikral11
 [2021-04-16 08:47:45]: JustRace [DogParty, Level 0]: SanoreX: I wont show my IP adress for some stupid shit
 [2021-04-16 08:47:45]: G𝕖𝕝𝕒to [s/o razmo, Level 42]: I like turtles.
+[2021-04-16 08:47:51]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-16 08:47:57]: ***  [, Level 0]: 'Dan' joined the spectators
+[2021-04-16 08:47:59]:   [, Level 0]: SanoreX: JustRace: I cant see ur ip
+[2021-04-16 08:47:59]: JustRace [DogParty, Level 0]: cl_aimbot 1
