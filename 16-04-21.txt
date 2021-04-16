@@ -12571,3 +12571,6 @@
 [2021-04-16 14:34:12]: Killua [FookinLads, Level 37]: IN DISCORD write -addingame GOLD
 [2021-04-16 14:34:14]: YelloWorlD [DogParty, Level 57]: -addingame GOLD
 [2021-04-16 14:34:20]: Killua [FookinLads, Level 37]: IN DISCORD
+[2021-04-16 14:34:36]: Isegrin [, Level 55]: Killua: LOOK I DO PRANK
+[2021-04-16 14:34:43]: Killua [FookinLads, Level 37]: XD
+[2021-04-16 14:34:43]: ***  [, Level 0]: 'Isegrin' has left the game
