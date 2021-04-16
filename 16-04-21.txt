@@ -1100,3 +1100,6 @@
 [2021-04-16 01:51:05]: Estarossa [, Level 11]: Marcisten: look
 [2021-04-16 01:51:13]: any² [404, Level 42]: Nudelsaft c:: still the same
 [2021-04-16 01:51:13]: S Y T H N [, Level 39]: SUCKER Kezo :D
+[2021-04-16 01:51:23]: S Y T H N [, Level 39]: sucker
+[2021-04-16 01:51:23]: ***  [, Level 0]: 'Kezo' changed name to 'sythn's dog'
+[2021-04-16 01:51:26]: ***  [, Level 0]: 'S Y T H N' has left the game
