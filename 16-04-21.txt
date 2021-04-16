@@ -3504,3 +3504,5 @@
 [2021-04-16 04:59:03]: Kiøn1029 [.bad, Level 0]: XDDDD
 [2021-04-16 04:59:13]: Flipper [, Level 0]: dam
 [2021-04-16 04:59:15]: ***  [, Level 0]: 'Kiøn1029' has left the game
+[2021-04-16 04:59:47]: [D] mamikral011 [DogParty, Level 0]: Flipper: he is block mee
+[2021-04-16 04:59:52]: ***  [, Level 0]: 'Intensiv__' entered and joined the game
