@@ -6531,3 +6531,10 @@
 [2021-04-16 08:30:38]: Swarfey [FookinLads, Level 42]: Killua: yes
 [2021-04-16 08:30:40]: Killua [FookinLads, Level 37]: Swarfey: CAN U MAKE IT REMOVE FROM LIST WHEN PERSON LEAVES AND SHUTDOWN
 [2021-04-16 08:30:42]: Killua [FookinLads, Level 37]: Swarfey: OMG PLZ
+[2021-04-16 08:30:46]: Swarfey [FookinLads, Level 42]: FUCK OFF
+[2021-04-16 08:30:47]: Swarfey [FookinLads, Level 42]: XD
+[2021-04-16 08:30:50]: Killua [FookinLads, Level 37]: Swarfey: its just sending a msg
+[2021-04-16 08:30:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-16 08:30:55]: Killua [FookinLads, Level 37]: Swarfey: i already inplemented it
+[2021-04-16 08:30:56]: Good man [Drunks, Level 31]: Pa1n: war
+[2021-04-16 08:30:56]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
