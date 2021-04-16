@@ -5464,3 +5464,11 @@
 [2021-04-16 07:30:37]: vollesprit [, Level 0]: Yema
 [2021-04-16 07:30:43]: ***  [, Level 0]: 'eeee' entered and joined the game
 [2021-04-16 07:30:47]: Kirito [{TQuila}, Level 36]: S Y T H N: du teamst mit feinden :(
+[2021-04-16 07:30:48]: Flupper [, Level 40]: portal
+[2021-04-16 07:30:48]: ***  [, Level 0]: El patron finished in: 2 minute(s)  9.68 second(s)
+[2021-04-16 07:30:49]: Flupper [, Level 40]: kirito
+[2021-04-16 07:30:50]: ***  [, Level 0]: 'toine' has left the game
+[2021-04-16 07:30:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-16 07:30:54]: Kirito [{TQuila}, Level 36]: Flupper: ty
+[2021-04-16 07:30:58]:   [, Level 0]: Nightmare: ERROR.: >
+[2021-04-16 07:30:58]: Foxie♥ [{TQuila}, Level 40]: Kirito: get jumps
