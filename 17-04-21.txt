@@ -3081,3 +3081,4 @@
 [2021-04-17 05:32:36]: sun.slow(y) [FookinLads, Level 35]: CKA3A4NIK[NR]: war
 [2021-04-17 05:32:40]: ♥TAKO♥ [DogParty, Level 25]: neden ki
 [2021-04-17 05:32:41]:   [, Level 0]: CKA3A4NIK[NR]: sun.slow(y):  Sorry pls
+[2021-04-17 05:32:57]: ***  [, Level 0]: 'power' has left the game
