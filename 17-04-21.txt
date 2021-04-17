@@ -10435,3 +10435,4 @@
 [2021-04-17 11:50:45]: ***  [, Level 0]: '(1)Fearless' has left the game
 [2021-04-17 11:50:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-17 11:50:53]: ***  [, Level 0]: 'Cylox.' left the minigame 'Survival'
+[2021-04-17 11:51:07]: (1)SanoreX [Chilli.*, Level 0]: SanoreX:
