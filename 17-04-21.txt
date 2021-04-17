@@ -6105,3 +6105,7 @@
 [2021-04-17 07:50:37]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
 [2021-04-17 07:50:39]: Kezo [DogParty, Level 39]: toxicdave.: i can jitter bridge
 [2021-04-17 07:50:45]: ***  [, Level 0]: Soros's killing spree was ended by Cylox (11 blocks)
+[2021-04-17 07:50:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-17 07:50:52]: toxicdave. [✡︎, Level 30]: Kezo: i only can shift speed bridge
+[2021-04-17 07:50:57]: toxicdave. [✡︎, Level 30]: Kezo: i only good at pvp
+[2021-04-17 07:50:59]: Kezo [DogParty, Level 39]: toxicdave.: sad :D
