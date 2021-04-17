@@ -12193,3 +12193,6 @@
 [2021-04-17 14:31:57]: bob [, Level 36]: bringt nix xd
 [2021-04-17 14:32:08]: ***  [, Level 0]: [POLICE-CHANNEL] '[D] Hunter.exe' has been caught by 'Zephir™' (5 minutes arrest)
 [2021-04-17 14:32:17]: [D] El patron [FookinLads, Level 24]: Zephir™:  xd
+[2021-04-17 14:32:28]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-17 14:32:30]: Zephir™ [404, Level 40]: Hunter.exe: i not see
+[2021-04-17 14:32:31]: ***  [, Level 0]: 'El Monkey' entered and joined the game
