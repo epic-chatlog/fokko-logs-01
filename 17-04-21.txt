@@ -2606,3 +2606,8 @@
 [2021-04-17 04:49:34]: BC|kakashi [BC, Level 14]: Zephir™: he is my friend
 [2021-04-17 04:49:36]: ***  [, Level 0]: '(3)MOM' joined the minigame 'Instagib Boom FNG', use '/boomfng' to join aswell
 [2021-04-17 04:49:45]: ***  [, Level 0]: '(3)MOM' left the minigame 'Instagib Boom FNG'
+[2021-04-17 04:49:48]: Zephir™ [404, Level 40]: [D] BC|kakashi: idc
+[2021-04-17 04:49:52]: Zephir™ [404, Level 40]: [D] BC|kakashi: he are bad
+[2021-04-17 04:49:53]: ***  [, Level 0]: 'bully' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-17 04:49:56]:   [, Level 0]: G𝕖𝕝𝕒to: little bit hight :/
+[2021-04-17 04:49:57]: ***  [, Level 0]: '(3)MOM' joined the minigame 'Instagib FNG', use '/fng' to join aswell
