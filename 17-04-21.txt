@@ -2671,3 +2671,6 @@
 [2021-04-17 04:55:47]: f"{self.name}" [, Level 18]: Taip: you block ppl with that :D
 [2021-04-17 04:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-17 04:55:56]: Zephir™ [404, Level 40]: bob: u can't stay here without all ur dogs
+[2021-04-17 04:55:59]: Taip [VergleriSay, Level 19]: how
+[2021-04-17 04:56:10]: BC|Tixnix [BC, Level 0]: bob: DAS KOMMT DAVON
+[2021-04-17 04:56:10]:   [, Level 0]: bob: ok pls stp talking now
