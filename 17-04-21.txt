@@ -12862,3 +12862,7 @@
 [2021-04-17 15:41:13]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: power: come
 [2021-04-17 15:41:31]: BC|kakashi [BC, Level 0]: TL|ŦƹƦ$ŦǾN: for what is that?
 [2021-04-17 15:41:40]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: BC|kakashi: opening a portal to other dimentions
+[2021-04-17 15:41:47]: ***  [, Level 0]: [D] -:-|ML is on a killing spree with 5 blocks
+[2021-04-17 15:41:48]: El Monkey [Retard MNKY, Level 0]: XD
+[2021-04-17 15:41:53]: ***  [, Level 0]: 'Eden' has left the game (Timeout)
+[2021-04-17 15:41:53]: ***  [, Level 0]: 'rayen' has left the game (Timeout)
