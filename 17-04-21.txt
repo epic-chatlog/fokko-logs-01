@@ -11826,3 +11826,8 @@
 [2021-04-17 13:46:32]: (1)☺ [, Level 23]: (2)BLACK:
 [2021-04-17 13:46:35]: ZEWO dummy [, Level 0]: Hunter.exe: pls helppp 10k
 [2021-04-17 13:46:49]: (1)☺ [, Level 23]: (2)BLACK: dude
+[2021-04-17 13:46:54]: [D] ♥TAKO♥ [DogParty, Level 12]: wait
+[2021-04-17 13:46:55]: ***  [, Level 0]: 'ERROR.' started an auction on plot 4 for 1000000 money (plot expires on 19.04.2021 (17:00))
+[2021-04-17 13:46:55]: ***  [, Level 0]: Use '/plot buy 1000000 ERROR.' to buy the plot
+[2021-04-17 13:46:57]: ERROR. [404, Level 57]: kk 19
+[2021-04-17 13:47:02]: ***  [, Level 0]: The plot auction by 'ERROR.' is cancelled
