@@ -9472,3 +9472,8 @@
 [2021-04-17 11:03:14]: mamikral011 [DogParty, Level 0]: El Monkey:
 [2021-04-17 11:03:16]: mamikral011 [DogParty, Level 0]: El patron:
 [2021-04-17 11:03:18]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
+[2021-04-17 11:03:32]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-17 11:03:32]: ***  [, Level 0]: 'Cylox.' has left the game
+[2021-04-17 11:03:34]: SanoreX.* [Chilli.*, Level 0]: Good man: can I farm at here?
+[2021-04-17 11:03:41]:   [, Level 0]: (1)Good man: SanoreX: wait
+[2021-04-17 11:03:43]: bob [, Level 36]: GODLIKe: see
