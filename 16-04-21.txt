@@ -13553,3 +13553,4 @@
 [2021-04-16 21:30:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-16 21:31:35]: ***  [, Level 0]: 'ClemEntine' entered and joined the game
 [2021-04-16 21:32:32]: ***  [, Level 0]: 'ClemEntine' joined the spectators
+[2021-04-16 21:33:08]: ***  [, Level 0]: 'ClemEntine' joined the game
