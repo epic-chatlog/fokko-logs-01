@@ -3397,3 +3397,7 @@
 [2021-04-17 05:50:32]: ***  [, Level 0]: [D] El patron finished in: 1 minute(s)  8.96 second(s)
 [2021-04-17 05:50:49]: Ðeathscyth [, Level 2]: sun.slow(y): where sleepy?
 [2021-04-17 05:50:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-17 05:50:58]: sun.slow(y) [FookinLads, Level 35]: Ðeathscyth: inactive xd
+[2021-04-17 05:51:00]: ***  [, Level 0]: 'diony' has left the game
+[2021-04-17 05:51:05]: Ðeathscyth [, Level 2]: sun.slow(y): ahhh fuck
+[2021-04-17 05:51:05]: mamikral011 [DogParty, Level 0]: Shiro.: why dont help?
