@@ -8433,3 +8433,7 @@
 [2021-04-17 10:13:42]: bob [, Level 36]: no
 [2021-04-17 10:13:44]: mamikral011 [DogParty, Level 0]: :Dd
 [2021-04-17 10:13:44]: bob [, Level 36]: u stay here
+[2021-04-17 10:13:46]: CKA3A4NIK[NR] [Night Raid, Level 35]: Axel:  ???
+[2021-04-17 10:13:48]: CKA3A4NIK[NR] [Night Raid, Level 35]: Axel:  >>>
+[2021-04-17 10:13:49]: mamikral011 [DogParty, Level 0]: stop
+[2021-04-17 10:13:56]: ***  [, Level 0]: 'SanoreX' has left the game
