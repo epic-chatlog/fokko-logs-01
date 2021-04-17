@@ -6940,3 +6940,6 @@
 [2021-04-17 08:59:24]: Shiro. [404, Level 43]: REZKPTOKZEPORGFD.SLCMFSDLOAZEPERLFMD
 [2021-04-17 08:59:27]: Shiro. [404, Level 43]: REKPTAERKMZLFD.?EQSKORDSLFAEZ
 [2021-04-17 08:59:29]: Shiro. [404, Level 43]: PARKTRKPETKROFKDS
+[2021-04-17 08:59:31]: ***  [, Level 0]: 'Falco642' entered and joined the game
+[2021-04-17 08:59:36]: ***  [, Level 0]: (1)☺ finished in: 2 minute(s) 30.38 second(s)
+[2021-04-17 08:59:38]: Shiro. [404, Level 43]: JLAG FRR
