@@ -809,3 +809,6 @@
 [2021-04-17 02:48:33]: ***  [, Level 0]: 'farwits' entered and joined the game
 [2021-04-17 02:48:35]: Zephir™ [404, Level 40]: bob: u don't remember last night ?
 [2021-04-17 02:48:41]: bob [Legacy™, Level 36]: do you ?
+[2021-04-17 02:48:43]: bob [Legacy™, Level 36]: iremember
+[2021-04-17 02:48:44]: weqe [669, Level 13]: omg i love you Estarossa
+[2021-04-17 02:48:51]: Estarossa [, Level 11]: weqe: ♥
