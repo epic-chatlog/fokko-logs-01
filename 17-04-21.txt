@@ -7543,3 +7543,5 @@
 [2021-04-17 09:28:21]: El patron [, Level 0]: Nudelsaft c::
 [2021-04-17 09:28:31]: LGBT General [404, Level 43]: TL|ŦƹƦ$ŦǾN:
 [2021-04-17 09:28:39]: ***  [, Level 0]: 'Treebeard' entered and joined the game
+[2021-04-17 09:28:52]: LGBT General [404, Level 43]: war
+[2021-04-17 09:28:55]: LGBT General [404, Level 43]: wat
