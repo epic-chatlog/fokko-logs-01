@@ -2096,3 +2096,6 @@
 [2021-04-17 04:05:03]: ♥TAKO♥ [DogParty, Level 25]: f"{self.name}":  wait ı download clicker xD
 [2021-04-17 04:05:05]: weqe [669, Level 13]: ES: you love me ?
 [2021-04-17 04:05:05]: ***  [, Level 0]: [POLICE-CHANNEL] 'Falco642' has been caught by 'f"{self.name}"' (10 minutes arrest)
+[2021-04-17 04:05:13]: Falco642 [, Level 0]: f"{self.name}": would you fuck off for 1 second
+[2021-04-17 04:05:15]: ES [, Level 0]: weqe: xddd
+[2021-04-17 04:05:16]: GODLIKe [, Level 44]: BEST LAG
