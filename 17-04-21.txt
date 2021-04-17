@@ -2343,3 +2343,5 @@
 [2021-04-17 04:26:26]: ***  [, Level 0]: '(1)Jerry' entered and joined the game
 [2021-04-17 04:26:32]: bob [Legacy™, Level 36]: koro: yes
 [2021-04-17 04:26:35]: cookie [, Level 21]: hahah yeah
+[2021-04-17 04:26:46]: f"{self.name}" [, Level 18]: ♥TAKO♥: and does it work ??
+[2021-04-17 04:26:48]: ***  [, Level 0]: 'Bulbasaur' changed name to 'Ivysaur'
