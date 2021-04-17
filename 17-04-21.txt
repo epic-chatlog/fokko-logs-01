@@ -2542,3 +2542,7 @@
 [2021-04-17 04:42:35]: Zephir™ [404, Level 40]: [D] BC|kakashi: really bad
 [2021-04-17 04:42:52]: ***  [, Level 0]: '(2)cookie' entered and joined the game
 [2021-04-17 04:42:54]: ***  [, Level 0]: 'Ivysaur' has left the game
+[2021-04-17 04:42:55]: Falco641 [.bad, Level 20]: dammit
+[2021-04-17 04:42:56]: BC|Tixnix [BC, Level 0]: Zephir™: KANN YOU GERMAN
+[2021-04-17 04:42:56]:   [, Level 0]: test: test
+[2021-04-17 04:43:01]:   [, Level 0]: test: a
