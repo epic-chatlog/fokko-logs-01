@@ -1457,3 +1457,5 @@
 [2021-04-17 03:25:19]: mamikral011 [DogParty, Level 22]: Zephir™: come help
 [2021-04-17 03:25:20]: Zephir™ [404, Level 40]: bob: YEAH U
 [2021-04-17 03:25:27]: ***  [, Level 0]: 'titanfran' has left the game
+[2021-04-17 03:25:30]: ***  [, Level 0]: 'titanfran' entered and joined the game
+[2021-04-17 03:25:40]: Kahve [, Level 24]: Zephir™: WTF XD
