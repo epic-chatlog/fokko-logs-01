@@ -13249,3 +13249,4 @@
 [2021-04-16 18:30:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-16 18:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-16 18:40:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-16 18:41:07]: ***  [, Level 0]: 'Kirito' entered and joined the game
