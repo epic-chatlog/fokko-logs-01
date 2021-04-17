@@ -5384,3 +5384,6 @@
 [2021-04-17 07:16:17]:   [, Level 0]: Vodo4ka: bob: help
 [2021-04-17 07:16:24]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
 [2021-04-17 07:16:29]:   [, Level 0]: Vodo4ka: bob: bruh i was want say HELO
+[2021-04-17 07:16:41]: ***  [, Level 0]: Soros is on a killing spree with 20 blocks
+[2021-04-17 07:16:41]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
+[2021-04-17 07:16:48]: |HolyHo| [FookinLads, Level 19]: koro: why pls team with .
