@@ -10793,3 +10793,8 @@
 [2021-04-17 12:22:46]: (1)Sayme [, Level 0]: u started
 [2021-04-17 12:22:49]:   [, Level 0]: RM | Arin: HAHA Falco641  l2p
 [2021-04-17 12:22:53]: ShiroKinght [, Level 0]: Chilerdragon live blocker
+[2021-04-17 12:23:10]: ***  [, Level 0]: (1)Sayme is on a killing spree with 10 blocks
+[2021-04-17 12:23:11]: ***  [, Level 0]: 'Treebeard' entered and joined the game
+[2021-04-17 12:23:11]:   [, Level 0]: RM | Arin: XD
+[2021-04-17 12:23:12]:   [, Level 0]: RM | Arin: (1)Sayme:  nice
+[2021-04-17 12:23:16]: ***  [, Level 0]: [POLICE-CHANNEL] 'RM | Arin' is spawnblocking. Catch him!
