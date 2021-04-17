@@ -9389,3 +9389,5 @@
 [2021-04-17 10:57:53]: ***  [, Level 0]: '-:-|ML' entered and joined the game
 [2021-04-17 10:57:54]: ***  [, Level 0]: 'taco bell' has left the game (Timeout)
 [2021-04-17 10:57:54]: ***  [, Level 0]: '[D] taco bell' has left the game (Timeout)
+[2021-04-17 10:58:01]: Telefantastic [TrRShClNrRs, Level 34]: Zephir™: yes?
+[2021-04-17 10:58:08]: Zephir™ [404, Level 40]: Telefantastic: nvm
