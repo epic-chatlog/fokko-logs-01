@@ -12860,3 +12860,5 @@
 [2021-04-17 15:41:04]: ***  [, Level 0]: 'Dnike' has left the game
 [2021-04-17 15:41:08]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: i need power
 [2021-04-17 15:41:13]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: power: come
+[2021-04-17 15:41:31]: BC|kakashi [BC, Level 0]: TL|ŦƹƦ$ŦǾN: for what is that?
+[2021-04-17 15:41:40]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: BC|kakashi: opening a portal to other dimentions
