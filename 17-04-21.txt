@@ -12329,3 +12329,5 @@
 [2021-04-17 14:44:01]: HeavyGeneral [FookinLads, Level 36]: Random Guy: i wil ltry to guess by price xd
 [2021-04-17 14:44:06]: ***  [, Level 0]: '(1)woona' entered and joined the game
 [2021-04-17 14:44:25]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-17 14:44:29]: Random Guy [, Level 40]: xd
+[2021-04-17 14:44:34]: Random Guy [, Level 40]: wait xd
