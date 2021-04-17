@@ -13698,3 +13698,7 @@
 [2021-04-16 23:34:11]: (1)kais [, Level 58]: i don't need help
 [2021-04-16 23:34:22]: ***  [, Level 0]: '(1)Good man' entered and joined the game
 [2021-04-16 23:34:41]: (1)Good man [Drunks, Level 0]: kais: stop it
+[2021-04-16 23:35:13]: (1)Good man [Drunks, Level 0]: kais: laser you... gayis
+[2021-04-16 23:35:16]: ***  [, Level 0]: 'Good man' has left the game
+[2021-04-16 23:35:16]: ***  [, Level 0]: 'Coca' has left the game
+[2021-04-16 23:35:17]: ***  [, Level 0]: '(1)Good man' has left the game
