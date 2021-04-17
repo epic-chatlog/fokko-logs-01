@@ -6418,3 +6418,4 @@
 [2021-04-17 08:14:23]: ***  [, Level 0]: '☺' entered and joined the spectators
 [2021-04-17 08:14:24]: ***  [, Level 0]: '(1)ChillerDragon' changed name to '(2)ChillerDragon'
 [2021-04-17 08:14:28]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-17 08:14:35]: ***  [, Level 0]: '(1)☺' entered and joined the spectators
