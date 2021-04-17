@@ -2866,3 +2866,9 @@
 [2021-04-17 05:14:48]: Falco641 [.bad, Level 0]: xd
 [2021-04-17 05:15:22]: [D] BC|Tixnix [BC, Level 26]: Jerry: 1111111111111111!!!
 [2021-04-17 05:15:43]: ***  [, Level 0]: 'H0dƌƔ1' entered and joined the game
+[2021-04-17 05:15:46]: Intensiv [CrazyNoobs, Level 14]: ez
+[2021-04-17 05:15:47]:   [, Level 0]: ♥TAKO♥: Intensiv:  ne oldu lan
+[2021-04-17 05:15:50]: Intensiv [CrazyNoobs, Level 14]: ping?
+[2021-04-17 05:15:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-17 05:15:52]:   [, Level 0]: ♥TAKO♥: Intensiv:  bi daha atarlanma
+[2021-04-17 05:15:52]: ***  [, Level 0]: 'Treebeard' has left the game
