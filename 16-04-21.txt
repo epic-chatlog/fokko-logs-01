@@ -13613,3 +13613,5 @@
 [2021-04-16 23:11:43]: ***  [, Level 0]: 'vihandu tee' has left the game
 [2021-04-16 23:11:45]: ***  [, Level 0]: 'vihandu tee' entered and joined the game
 [2021-04-16 23:13:17]: ***  [, Level 0]: 'vihandu tee' joined the spectators
+[2021-04-16 23:15:34]: vihandu tee [, Level 0]: (1) good  man can join i like go race whith you
+[2021-04-16 23:15:36]: ***  [, Level 0]: 'vihandu tee' joined the game
