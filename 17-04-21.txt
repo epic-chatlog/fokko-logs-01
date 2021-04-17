@@ -11538,3 +11538,5 @@
 [2021-04-17 13:25:57]: (1)☺ [, Level 23]: je bug
 [2021-04-17 13:26:07]: nameless [, Level 0]: oops
 [2021-04-17 13:26:10]: Falco641 [.bad, Level 20]: oh my god
+[2021-04-17 13:26:15]: ***  [, Level 0]: [D] -:-|ML is on a killing spree with 10 blocks
+[2021-04-17 13:26:24]: nameless [, Level 0]: im warming up
