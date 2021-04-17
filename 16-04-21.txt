@@ -13296,3 +13296,5 @@
 [2021-04-16 18:58:07]: Kirito [{TQuila}, Level 40]: wtf
 [2021-04-16 18:58:14]: (1)Kirito [, Level 26]: doesnt work
 [2021-04-16 18:59:43]: ☺ [, Level 23]: no
+[2021-04-16 18:59:55]: ☺ [, Level 23]: i already
+[2021-04-16 18:59:58]: (1)Kirito [, Level 26]: it is because flag
