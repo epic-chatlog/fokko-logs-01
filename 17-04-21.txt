@@ -13256,3 +13256,4 @@
 [2021-04-17 16:19:06]: WarHammer' [DogParty, Level 0]: NO
 [2021-04-17 16:19:17]: BC|kakashi [BC, Level 0]: ok
 [2021-04-17 16:20:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-17 16:21:33]: WarHammer [DogParty, Level 26]: lag
