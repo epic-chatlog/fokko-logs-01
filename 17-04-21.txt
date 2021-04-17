@@ -11911,3 +11911,5 @@
 [2021-04-17 13:52:00]: ZEWO dummy [, Level 0]: Hunter.exe: What do you want  from me?
 [2021-04-17 13:52:01]: Kenshi™ [404, Level 0]: casserole :p: j'ai demander a ce que tu soit neutre
 [2021-04-17 13:52:05]: Hunter.exe [DogParty, Level 37]: ZEWO: 10k
+[2021-04-17 13:52:12]: Kenshi™ [404, Level 0]: casserole :p: t'aide ni bob ni moi quand on se fight
+[2021-04-17 13:52:23]: ***  [, Level 0]: 'ES' has left the game (Timeout)
