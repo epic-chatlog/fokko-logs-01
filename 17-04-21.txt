@@ -11970,3 +11970,4 @@
 [2021-04-17 13:59:29]: -:-|ML [, Level 0]: __init__(self):: come
 [2021-04-17 13:59:29]: Zephir™ [404, Level 40]: casserole :p: car personne te connais ici, il block les gens qui sont pas fort ou qu'il connais pas
 [2021-04-17 13:59:37]: Marcisten [Helper, Level 0]: -:-|ML: PRO
+[2021-04-17 13:59:46]: f"{self.name}" [, Level 18]: -:-|ML: where
