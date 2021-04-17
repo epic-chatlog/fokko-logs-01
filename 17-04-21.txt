@@ -5,3 +5,4 @@
 [2021-04-17 00:05:13]: Intensiv [CrazyNoobs, Level 14]: ping
 [2021-04-17 00:05:15]: Intensiv [CrazyNoobs, Level 14]: help
 [2021-04-17 00:05:20]: Intensiv [CrazyNoobs, Level 14]: Tom:  help
+[2021-04-17 00:05:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
