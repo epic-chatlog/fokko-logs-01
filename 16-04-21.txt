@@ -13268,3 +13268,4 @@
 [2021-04-16 18:49:25]: (1)Kirito [, Level 26]: .... just let me do and dont do so stupid things..
 [2021-04-16 18:49:46]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-16 18:49:58]: (1)Kirito [, Level 26]: help
+[2021-04-16 18:50:03]: (1)Kirito [, Level 26]: down
