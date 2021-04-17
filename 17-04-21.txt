@@ -10956,3 +10956,5 @@
 [2021-04-17 12:34:25]: (1)Sayme [, Level 0]: bob
 [2021-04-17 12:34:28]: (1)Sayme [, Level 0]: down
 [2021-04-17 12:34:28]: SanoreX [Chilli.*, Level 27]: Killua: help me 1time pls
+[2021-04-17 12:34:34]: Falco641 [.bad, Level 20]: Shakerfeel: help?
+[2021-04-17 12:34:34]: SanoreX [Chilli.*, Level 27]: Killua: help me 1time pls
