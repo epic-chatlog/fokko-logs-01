@@ -11254,3 +11254,5 @@
 [2021-04-17 13:02:58]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-17 13:03:00]: ***  [, Level 0]: 'wolf' has left the game
 [2021-04-17 13:03:01]: ***  [, Level 0]: '-:-|ML' entered and joined the game
+[2021-04-17 13:03:17]: Falco641 [.bad, Level 20]: Hunter.exe: why kill me
+[2021-04-17 13:03:19]: [D] ♥TAKO♥ [DogParty, Level 0]: sun.slow(y): ?
