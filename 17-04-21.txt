@@ -12438,3 +12438,5 @@
 [2021-04-17 15:01:46]: [D] -:-|ML [, Level 0]: AAAAA
 [2021-04-17 15:01:49]: BLACK [, Level 26]: Hunter.exe: xD
 [2021-04-17 15:01:55]: BLACK [, Level 26]: idiot Hunter.exe
+[2021-04-17 15:02:04]: ***  [, Level 0]: 'FeuFORZA' joined the spectators
+[2021-04-17 15:02:08]: ***  [, Level 0]: 'FeuFORZA' joined the game
