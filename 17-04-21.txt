@@ -2727,3 +2727,6 @@
 [2021-04-17 05:01:07]: ***  [, Level 0]: 'Cylox.' entered and joined the game
 [2021-04-17 05:01:07]: Taip [VergleriSay, Level 19]: pl
 [2021-04-17 05:01:08]: Taip [VergleriSay, Level 19]: s
+[2021-04-17 05:01:10]: Taip [VergleriSay, Level 19]: i want
+[2021-04-17 05:01:13]: ***  [, Level 0]: 'Taip' has been muted for 60 seconds
+[2021-04-17 05:01:19]: Matiteusz [TrRShClNrRs, Level 37]: Tom: wtf]
