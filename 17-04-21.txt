@@ -2834,3 +2834,9 @@
 [2021-04-17 05:09:47]: Taip [VergleriSay, Level 19]: kill?
 [2021-04-17 05:09:48]: ***  [, Level 0]: Meetiteusz finished in: 2 minute(s)  5.70 second(s)
 [2021-04-17 05:09:55]: Taip [VergleriSay, Level 19]: f" {self.name}"
+[2021-04-17 05:10:10]: ***  [, Level 0]: 'Dilkohomnkiks' entered and joined the game
+[2021-04-17 05:10:14]: __init__(self): [, Level 0]: soleri1:
+[2021-04-17 05:10:16]: El patron [, Level 30]: Meetiteusz:  have paid
+[2021-04-17 05:10:18]: Meetiteusz [TrRShClNrRs, Level 28]: El patron: good
+[2021-04-17 05:10:19]: ***  [, Level 0]: 'Meetiteusz' has left the game
+[2021-04-17 05:10:19]: ***  [, Level 0]: 'Matiteusz' has left the game
