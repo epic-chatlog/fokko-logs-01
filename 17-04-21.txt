@@ -11971,3 +11971,7 @@
 [2021-04-17 13:59:29]: Zephir™ [404, Level 40]: casserole :p: car personne te connais ici, il block les gens qui sont pas fort ou qu'il connais pas
 [2021-04-17 13:59:37]: Marcisten [Helper, Level 0]: -:-|ML: PRO
 [2021-04-17 13:59:46]: f"{self.name}" [, Level 18]: -:-|ML: where
+[2021-04-17 13:59:57]: ***  [, Level 0]: bruh finished in: 13 minute(s) 11.46 second(s)
+[2021-04-17 13:59:57]: ***  [, Level 0]: New record: 13 minute(s)  6.56 second(s) better.
+[2021-04-17 13:59:57]: ***  [, Level 0]: 'bruh' finished the special race!
+[2021-04-17 14:00:01]: ***  [, Level 0]: 'f"{self.name}"' finished the special race!
