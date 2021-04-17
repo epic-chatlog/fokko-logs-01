@@ -11979,3 +11979,7 @@
 [2021-04-17 14:00:20]: ZEWO dummy [, Level 0]: Hunter.exe: I am Turkish, speak Turkish from translationtranslation
 [2021-04-17 14:00:21]: casserole :p [, Level 20]: Zephir™: ah oui et comment il apprennent a nous connaitre si on nous bloque tt le temps...
 [2021-04-17 14:00:27]: ZEWO dummy [, Level 0]: Hunter.exe: I am Turkish, speak Turkish from translationtranslation
+[2021-04-17 14:00:42]: Zephir™ [404, Level 40]: casserole :p: faut que t'es un pseudo + swag + que tu soit bcp plus fort
+[2021-04-17 14:00:46]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-17 14:00:48]: Hunter.exe [DogParty, Level 37]: ZEWO: Turk turk turk turk
+[2021-04-17 14:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
