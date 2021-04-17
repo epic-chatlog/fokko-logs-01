@@ -11988,3 +11988,4 @@
 [2021-04-17 14:01:15]: Hunter.exe [DogParty, Level 37]: ZEWO: no
 [2021-04-17 14:01:36]: ***  [, Level 0]: 'IwillBlockYou' has left the game
 [2021-04-17 14:01:39]: ZEWO [, Level 0]: Hunter.exe: why is that
+[2021-04-17 14:01:55]: Zephir™ [404, Level 40]: any: y'a smiley qui ma pris mon roket et qui est partie mdr
