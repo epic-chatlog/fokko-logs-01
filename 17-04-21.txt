@@ -13290,3 +13290,5 @@
 [2021-04-17 16:35:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-17 16:36:39]: ***  [, Level 0]: [POLICE-CHANNEL] 'BC|kakashi' is spawnblocking. Catch him!
 [2021-04-17 16:37:07]: ***  [, Level 0]: [POLICE-CHANNEL] 'BC|kakashi' has been caught by 'BC|Tixnix' (10 minutes arrest)
+[2021-04-17 16:37:44]: ***  [, Level 0]: 'BC|kakashi' has left the game
+[2021-04-17 16:37:46]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
