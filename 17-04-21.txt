@@ -11965,3 +11965,4 @@
 [2021-04-17 13:58:10]: -:-|ML [, Level 0]: __init__(self):: follow me
 [2021-04-17 13:58:23]: Zephir™ [404, Level 40]: casserole :p: dit oui
 [2021-04-17 13:58:46]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-17 13:59:00]: casserole :p [, Level 20]: Zephir™: att tu va voir huter exe il va  me bloquer sans aucune raison et ca je comprend pas
