@@ -2033,3 +2033,7 @@
 [2021-04-17 03:58:22]: [D] Kahve [, Level 19]: MOM: stop
 [2021-04-17 03:58:26]: MOM [, Level 28]: [D] Kahve: just joking bro
 [2021-04-17 03:58:28]: Falco642 [, Level 0]: ES: unhook the ground for 3 seconds
+[2021-04-17 03:58:43]: ***  [, Level 0]: 'Estarossa' has left the game
+[2021-04-17 03:58:43]: ***  [, Level 0]: 'Meliodas' has left the game
+[2021-04-17 03:58:48]: ***  [, Level 0]: 'Cylox.' has left the game
+[2021-04-17 03:58:48]: ***  [, Level 0]: 'Cylox' has left the game
