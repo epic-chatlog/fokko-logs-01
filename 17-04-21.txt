@@ -2045,3 +2045,4 @@
 [2021-04-17 03:59:25]: ***  [, Level 0]: 'Luna' has left the game (Timeout)
 [2021-04-17 03:59:25]: ***  [, Level 0]: 'Terra' has left the game (Timeout)
 [2021-04-17 03:59:28]: ***  [, Level 0]: '(1)BC|serwan' entered and joined the game
+[2021-04-17 03:59:30]: bob [Legacy™, Level 36]: Mista bombastic: u have beautifl hair
