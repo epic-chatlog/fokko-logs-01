@@ -3183,3 +3183,6 @@
 [2021-04-17 05:40:20]: ***  [, Level 0]: [POLICE-CHANNEL] '[RUS]' is spawnblocking. Catch him!
 [2021-04-17 05:40:21]: ***  [, Level 0]: 'мяу' entered and joined the game
 [2021-04-17 05:40:22]: ***  [, Level 0]: [POLICE-CHANNEL] '[RUS]' is spawnblocking. Catch him!
+[2021-04-17 05:40:33]: ***  [, Level 0]: [RUS] is on a killing spree with 5 blocks
+[2021-04-17 05:40:33]: ***  [, Level 0]: [POLICE-CHANNEL] '[RUS]' is spawnblocking. Catch him!
+[2021-04-17 05:40:33]: Falco642 [, Level 0]: wy you kill yourself
