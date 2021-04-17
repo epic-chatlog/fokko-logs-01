@@ -12118,3 +12118,4 @@
 [2021-04-17 14:18:04]: [D] -:-|ML [, Level 0]: f"{self.name}": its right next to you
 [2021-04-17 14:18:06]: f"{self.name}" [, Level 18]: -:-|ML: where
 [2021-04-17 14:18:14]: [D] -:-|ML [, Level 0]: f"{self.name}": dont spec XD
+[2021-04-17 14:18:23]: ***  [, Level 0]: '[D] Random Guy' entered and joined the game
