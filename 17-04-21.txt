@@ -12146,3 +12146,4 @@
 [2021-04-17 14:20:52]: ***  [, Level 0]: 'guigui' entered and joined the game
 [2021-04-17 14:21:04]: ***  [, Level 0]: 'guigui' has left the game
 [2021-04-17 14:21:21]: ***  [, Level 0]: 'guigui' entered and joined the game
+[2021-04-17 14:21:59]: f"{self.name}" [, Level 18]: XDXDXDDXDDXDDDD
