@@ -13642,3 +13642,5 @@
 [2021-04-16 23:22:03]: Coca [Drunks, Level 22]: kais: team
 [2021-04-16 23:22:09]: kais [, Level 66]: no
 [2021-04-16 23:22:13]: vihandu tee [, Level 0]: Good man:  help me
+[2021-04-16 23:22:39]: vihandu tee [, Level 0]: Good man:  i trap help me
+[2021-04-16 23:22:41]: Coca [Drunks, Level 22]: wait
