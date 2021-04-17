@@ -12971,3 +12971,10 @@
 [2021-04-17 15:50:01]: [D] BC|Tixnix [BC, Level 0]: BLACK: Xd
 [2021-04-17 15:50:02]: BLACK [, Level 0]: Xd
 [2021-04-17 15:50:09]: Killua [FookinLads, Level 37]: sharkz: i identify as o6h12c6
+[2021-04-17 15:50:11]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-17 15:50:12]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-17 15:50:14]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-17 15:50:14]: sharkz [, Level 45]: D:
+[2021-04-17 15:50:15]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
+[2021-04-17 15:50:20]: Zephir™ [404, Level 40]: Killua: can fun war ?
+[2021-04-17 15:50:22]: ***  [, Level 0]: 'nameless tee' has left the game
