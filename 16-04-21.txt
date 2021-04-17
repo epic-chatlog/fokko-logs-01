@@ -13582,3 +13582,4 @@
 [2021-04-16 22:20:41]: Noxl [.bad, Level 0]: guys *
 [2021-04-16 22:20:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-16 22:20:55]: Noxl [.bad, Level 0]: kais: gay
+[2021-04-16 22:22:28]: ***  [, Level 0]: 'Noxl.' entered and joined the game
