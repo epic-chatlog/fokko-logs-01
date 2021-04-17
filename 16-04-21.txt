@@ -13665,3 +13665,6 @@
 [2021-04-16 23:27:16]: Good man [Drunks, Level 31]: kais: stop friend
 [2021-04-16 23:27:26]: Good man [Drunks, Level 31]: why you block me
 [2021-04-16 23:27:30]: (1)kais [, Level 58]: i'm not your friend
+[2021-04-16 23:27:54]: ***  [, Level 0]: '(1)Good man' entered and joined the game
+[2021-04-16 23:28:02]: (1)Good man [Drunks, Level 0]: vihandu tee: wait
+[2021-04-16 23:28:04]: ***  [, Level 0]: '(1)Coca' entered and joined the game
