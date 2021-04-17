@@ -2183,3 +2183,5 @@
 [2021-04-17 04:13:47]: ***  [, Level 0]: 'Intensiv' has left the game
 [2021-04-17 04:13:50]: bob [Legacy™, Level 36]: omg
 [2021-04-17 04:13:53]: bob [Legacy™, Level 36]: jaah
+[2021-04-17 04:14:00]: ***  [, Level 0]: 'Intensiv' entered and joined the game
+[2021-04-17 04:14:01]: BC|Tixnix [BC, Level 0]: Matiteusz:
