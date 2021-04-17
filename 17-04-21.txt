@@ -22,3 +22,4 @@
 [2021-04-17 00:16:19]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-17 00:16:35]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
 [2021-04-17 00:17:26]: ***  [, Level 0]: ChillerDragon.* finished in: 3 minute(s) 48.60 second(s)
+[2021-04-17 00:17:30]: ***  [, Level 0]: ChillerDragon finished in: 1 minute(s) 28.26 second(s)
