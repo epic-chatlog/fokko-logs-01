@@ -6803,3 +6803,5 @@
 [2021-04-17 08:48:51]: ***  [, Level 0]: 'Bluebell Cat' entered and joined the game
 [2021-04-17 08:48:53]: woona [, Level 48]: np
 [2021-04-17 08:48:57]: toxicdave. [✡︎, Level 30]: ChillerDragon: i was freezed
+[2021-04-17 08:49:00]: Shiro. [404, Level 0]: koro: logout sur un des deux comptes bb
+[2021-04-17 08:49:02]: ChillerDragon.* [Chilli.*, Level 42]: u are not toxicdave.
