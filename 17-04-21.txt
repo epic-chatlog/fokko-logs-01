@@ -12690,3 +12690,6 @@
 [2021-04-17 15:25:07]: ***  [, Level 0]: '(1)BLACK' has left the game
 [2021-04-17 15:25:07]: ***  [, Level 0]: 'BLACK' has left the game
 [2021-04-17 15:25:07]: ***  [, Level 0]: '(2)BLACK' has left the game
+[2021-04-17 15:25:12]: El Monkey [Retard MNKY, Level 0]: xD
+[2021-04-17 15:25:17]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
+[2021-04-17 15:25:23]: Hunter.exe [DogParty, Level 37]: El Monkey: kannst es ruhig zugeben wir wissen alle das dich deine mitschüler nicht besonders mögen
