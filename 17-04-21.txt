@@ -843,3 +843,4 @@
 [2021-04-17 02:51:02]: Falco641 [.bad, Level 20]: Kahve: your so stupid
 [2021-04-17 02:51:14]: ***  [, Level 0]: 'WIR' entered and joined the game
 [2021-04-17 02:51:18]: ***  [, Level 0]: 'WIR' has left the game
+[2021-04-17 02:51:28]: weqe [669, Level 13]: bob: im suddenly getting 100 fps on this srv wtf
