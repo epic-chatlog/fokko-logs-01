@@ -13227,3 +13227,4 @@
 [2021-04-16 17:20:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-16 17:25:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-16 17:29:02]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-16 17:30:23]: ***  [, Level 0]: 'WarHammer' has left the game
