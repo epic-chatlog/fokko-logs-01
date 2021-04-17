@@ -935,3 +935,7 @@
 [2021-04-17 02:59:22]: (1)Good man [Drunks, Level 17]: stop Kahve
 [2021-04-17 02:59:23]: Meliodas [.bad, Level 24]: bob: :(
 [2021-04-17 02:59:24]: weqe [669, Level 13]: Meliodas: pls apologize again
+[2021-04-17 02:59:26]: [D] Kahve [, Level 19]: power: block him
+[2021-04-17 02:59:33]: bob [Legacy™, Level 36]: weqe: u betray me for him?
+[2021-04-17 02:59:34]: power [TrRShClNrRs, Level 0]: u blocked me Kahve
+[2021-04-17 02:59:34]: [D] Kahve [, Level 19]: ok power
