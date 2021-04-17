@@ -2441,3 +2441,9 @@
 [2021-04-17 04:35:46]: ***  [, Level 0]: 'Coca' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-17 04:35:48]: Falco642 [, Level 0]: and then his allies join in
 [2021-04-17 04:35:49]: Cylox [{TQuila}, Level 31]: 3v1 xd
+[2021-04-17 04:35:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-17 04:35:52]: Taip [VergleriSay, Level 19]: şerefsiz
+[2021-04-17 04:35:56]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
+[2021-04-17 04:35:57]: Cylox [{TQuila}, Level 31]: kes
+[2021-04-17 04:35:58]: Falco642 [, Level 0]: i have war with tixnix since like level 6
+[2021-04-17 04:36:00]: ***  [, Level 0]: 'Zephir™' entered and joined the game
