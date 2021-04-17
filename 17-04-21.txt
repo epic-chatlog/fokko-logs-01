@@ -2331,3 +2331,6 @@
 [2021-04-17 04:25:00]: ölüm bekçisi [, Level 0]: tmm
 [2021-04-17 04:25:23]: Bulbasaur [, Level 0]: Bulbasaur is based on a frog.[2][3] According to Ken Sugimori and Atsuko Nishida, the latter designed Bulbasaur working backward from Venusaur, meaning Bulbasaur was the last of its evolutionary family to have
 [2021-04-17 04:25:25]: f"{self.name}" [, Level 18]: ♥TAKO♥: i actually am used to jump with w sooo it might be bad binding for you :D
+[2021-04-17 04:25:39]: ♥TAKO♥ [DogParty, Level 25]: WTF
+[2021-04-17 04:25:46]: f"{self.name}" [, Level 18]: ♥TAKO♥: and with escape you exit
+[2021-04-17 04:25:47]: Falco641 [.bad, Level 20]: bob
