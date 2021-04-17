@@ -3094,3 +3094,5 @@
 [2021-04-17 05:34:07]: ***  [, Level 0]: 'Coca' entered and joined the game
 [2021-04-17 05:34:14]: ♥TAKO♥ [DogParty, Level 25]: Kezo:
 [2021-04-17 05:34:21]: WarHammer' [DogParty, Level 0]: lan
+[2021-04-17 05:34:23]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-17 05:34:26]: ***  [, Level 0]: 'nameless tee' joined the game
