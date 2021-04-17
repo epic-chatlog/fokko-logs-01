@@ -11955,3 +11955,6 @@
 [2021-04-17 13:57:28]: ZEWO dummy [, Level 0]: BUT I LOVE YOU SO MUCH
 [2021-04-17 13:57:32]: __init__(self): [, Level 0]: -:-|ML: looser
 [2021-04-17 13:57:35]: Zephir™ [404, Level 40]: casserole :p: si tu respecte pas je te re avertis pas, je te tue direct sans explications
+[2021-04-17 13:57:41]: -:-|ML [, Level 0]: __init__(self):: i dont need dummy for everything
+[2021-04-17 13:57:43]: ZEWO dummy [, Level 0]: Hunter.exe: BUT I LOVE YOU SO MUCH
+[2021-04-17 13:57:47]: any [404, Level 38]: heyyy Zephir™
