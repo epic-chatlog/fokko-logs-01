@@ -6571,3 +6571,4 @@
 [2021-04-17 08:29:06]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' has been caught by '(1)ChillerDragon' (10 minutes arrest)
 [2021-04-17 08:29:08]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)casserole :p' has been caught by 'Lucas' (10 minutes arrest)
 [2021-04-17 08:29:16]: Lucas [THECEPS, Level 35]: (1)casserole :p: ups
+[2021-04-17 08:30:12]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
