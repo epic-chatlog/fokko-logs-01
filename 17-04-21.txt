@@ -12427,3 +12427,4 @@
 [2021-04-17 15:00:46]: BLACK [, Level 26]: ahahhaaha Hunter.exe
 [2021-04-17 15:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-17 15:00:54]: BLACK [, Level 26]: like i told u Hunter.exe
+[2021-04-17 15:01:01]: [D] Random Guy [, Level 0]: F
