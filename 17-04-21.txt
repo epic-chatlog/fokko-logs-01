@@ -8063,3 +8063,4 @@
 [2021-04-17 09:55:47]: casserole :p [, Level 20]: bob: should i help HeavyGeneral ?
 [2021-04-17 09:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-17 09:55:53]: ChillerDragon.* [|*KoG*|, Level 42]: on 2021-04-03_00-41-55 you officially left team chiller Falco641
+[2021-04-17 09:56:07]: ChillerDragon.* [Chilli.*, Level 42]: HeavyGeneral: ?
