@@ -13503,3 +13503,7 @@
 [2021-04-16 20:26:54]: (1)☺ [, Level 14]: oh wow
 [2021-04-16 20:29:04]: (1)☺ [, Level 14]: what are you doing Kirito
 [2021-04-16 20:29:21]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
+[2021-04-16 20:29:24]: (2)Kirito [{TQuila}, Level 0]: im farming
+[2021-04-16 20:29:29]: ***  [, Level 0]: '(3)Kirito' entered and joined the game
+[2021-04-16 20:29:30]: (1)☺ [, Level 14]: ah x
+[2021-04-16 20:29:33]: (1)☺ [, Level 14]: xD
