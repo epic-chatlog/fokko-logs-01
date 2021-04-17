@@ -10485,3 +10485,6 @@
 [2021-04-17 11:57:18]: ***  [, Level 0]: '[D] El patron' entered and joined the game
 [2021-04-17 11:57:27]: El patron [, Level 30]: [D] taco bell: help
 [2021-04-17 11:57:38]: ***  [, Level 0]: casserole :p is on a killing spree with 5 blocks
+[2021-04-17 11:57:48]: Cylox [{TQuila}, Level 32]: no
+[2021-04-17 11:57:49]: Cylox [{TQuila}, Level 32]: don gelp
+[2021-04-17 11:57:53]: ***  [, Level 0]: Falco642 is on a killing spree with 5 blocks
