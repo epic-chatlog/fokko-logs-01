@@ -11340,3 +11340,8 @@
 [2021-04-17 13:10:39]: [D] ♥TAKO♥ [DogParty, Level 0]: Intensiv:  normal
 [2021-04-17 13:10:40]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-17 13:10:40]: Hunter.exe [DogParty, Level 37]: Zephir™: just ask for the flag and i say no so then its fine
+[2021-04-17 13:10:47]: Intensiv [CrazyNoobs, Level 15]: [D] ♥TAKO♥:
+[2021-04-17 13:10:48]: Intensiv [CrazyNoobs, Level 15]: sal
+[2021-04-17 13:10:49]: Intensiv [CrazyNoobs, Level 15]: adamı
+[2021-04-17 13:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 13:10:51]: Zephir™ [404, Level 40]: Hunter.exe: i think u wana steal
