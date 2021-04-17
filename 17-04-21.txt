@@ -6949,3 +6949,7 @@
 [2021-04-17 09:00:10]: ***  [, Level 0]: 'JustRace' entered and joined the game
 [2021-04-17 09:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-17 09:00:51]: Shiro. [404, Level 43]: woona: fuck off
+[2021-04-17 09:00:56]: woona [, Level 48]: no u
+[2021-04-17 09:01:02]:   [, Level 0]: JustRace: cl_aimbot 1
+[2021-04-17 09:01:04]: Shiro. [404, Level 43]: FDP
+[2021-04-17 09:01:05]: Shiro. [404, Level 43]: T UN PUTE
