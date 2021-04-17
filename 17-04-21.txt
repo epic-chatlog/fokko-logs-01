@@ -3236,3 +3236,13 @@
 [2021-04-17 05:43:30]: Shiro. [404, Level 0]: sun.slow(y): no need
 [2021-04-17 05:43:31]: ***  [, Level 0]: [POLICE-CHANNEL] 'H0dƌƔ1' has been caught by 'Falco641' (10 minutes arrest)
 [2021-04-17 05:43:31]:   [, Level 0]: (1)Good man: (づ｡◕‿‿◕｡)づ
+[2021-04-17 05:43:44]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-17 05:43:47]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-17 05:43:47]:   [, Level 0]: cookie: i whant to go to the jail
+[2021-04-17 05:43:47]: ***  [, Level 0]: '(2)Kirito' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-17 05:43:47]: ***  [, Level 0]: '(3)Kirito' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-17 05:43:47]: ***  [, Level 0]: 'Kirito' has left the game (Timeout)
+[2021-04-17 05:43:47]: ***  [, Level 0]: '(1)Kirito' has left the game (Timeout)
+[2021-04-17 05:43:51]:   [, Level 0]: mamikral011: WarHammer: krallllllllllllllllllllllllllllllllllllllll
+[2021-04-17 05:43:55]: WarHammer' [DogParty, Level 17]: mamikral011:  KRAAAL
+[2021-04-17 05:43:55]: Falco641 [.bad, Level 20]: idk why i cant arrest u
