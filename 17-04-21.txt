@@ -13260,3 +13260,4 @@
 [2021-04-17 16:22:06]: BC|Tixnix [BC, Level 35]: WarHammer: ./block
 [2021-04-17 16:22:20]: ***  [, Level 0]: 'BC|Tixnix' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-17 16:22:22]: ***  [, Level 0]: 'WarHammer' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-17 16:23:35]: WarHammer [DogParty, Level 26]: lag
