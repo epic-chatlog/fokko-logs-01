@@ -10691,3 +10691,6 @@
 [2021-04-17 12:15:40]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-17 12:15:40]: HeavyGeneral [FookinLads, Level 36]: |HolyHo|: sec i hewck
 [2021-04-17 12:15:43]: HeavyGeneral [FookinLads, Level 36]: check
+[2021-04-17 12:15:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 12:15:50]: Zephir™ [404, Level 40]: any:
+[2021-04-17 12:15:54]: Zephir™ [404, Level 40]: je t'es appel
