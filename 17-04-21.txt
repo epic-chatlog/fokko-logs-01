@@ -120,3 +120,4 @@
 [2021-04-17 01:15:58]: Sayme [, Level 0]: Coca:
 [2021-04-17 01:16:11]: Sayme [, Level 0]: thx)
 [2021-04-17 01:16:12]: ***  [, Level 0]: 'power' has left the game
+[2021-04-17 01:18:43]: ***  [, Level 0]: 'power' entered and joined the game
