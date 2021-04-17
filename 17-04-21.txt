@@ -12129,3 +12129,4 @@
 [2021-04-17 14:19:28]: [D] El patron [FookinLads, Level 24]: rq
 [2021-04-17 14:19:34]: f"{self.name}" [, Level 18]: where :D
 [2021-04-17 14:19:50]: [D] -:-|ML [, Level 0]: go there again
+[2021-04-17 14:19:53]: ***  [, Level 0]: 'nameless tee' entered and joined the game
