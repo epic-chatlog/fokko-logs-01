@@ -6189,3 +6189,5 @@
 [2021-04-17 07:55:25]: casserole :p [, Level 20]: Soros: aat this point let s just be friends
 [2021-04-17 07:55:33]: ***  [, Level 0]: 'Лимонад' entered and joined the game
 [2021-04-17 07:55:38]: Soros [, Level 0]: casserole :p: EHM NO
+[2021-04-17 07:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 07:55:53]: ***  [, Level 0]: '[RUS]' entered and joined the game
