@@ -2100,3 +2100,5 @@
 [2021-04-17 04:05:15]: ES [, Level 0]: weqe: xddd
 [2021-04-17 04:05:16]: GODLIKe [, Level 44]: BEST LAG
 [2021-04-17 04:05:32]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-17 04:05:49]: BC|serwan [BC, Level 0]: Falco642: karma +#
+[2021-04-17 04:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
