@@ -13417,3 +13417,5 @@
 [2021-04-16 20:01:44]: (1)☺ [, Level 14]: (2)Kirito:
 [2021-04-16 20:01:47]: (2)Kirito [{TQuila}, Level 0]: yes
 [2021-04-16 20:01:50]: ***  [, Level 0]: '(3)Kirito' entered and joined the game
+[2021-04-16 20:02:22]: ***  [, Level 0]: '(2)Kirito' has left the game
+[2021-04-16 20:02:22]: ***  [, Level 0]: '(3)Kirito' has left the game
