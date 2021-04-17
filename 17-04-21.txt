@@ -124,3 +124,4 @@
 [2021-04-17 01:19:07]: power [TrRShClNrRs, Level 0]: police
 [2021-04-17 01:19:09]: power [TrRShClNrRs, Level 0]: anyone
 [2021-04-17 01:20:06]: ***  [, Level 0]: 'power' has left the game
+[2021-04-17 01:20:23]: Sayme [, Level 3]: wtf?
