@@ -3574,3 +3574,7 @@
 [2021-04-17 06:00:34]: Shiro. [404, Level 0]: jajajajajaa
 [2021-04-17 06:00:34]: ***  [, Level 0]: '1IceyB0i' has left the game
 [2021-04-17 06:00:36]: ***  [, Level 0]: 'Shiro,' entered and joined the game
+[2021-04-17 06:00:42]: Kezo [DogParty, Level 41]: weqe: you team with Shiro.
+[2021-04-17 06:00:45]: Isegrin [, Level 55]: BASTARD
+[2021-04-17 06:00:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-17 06:00:53]: ***  [, Level 0]: '(1)lolpoep' has left the game
