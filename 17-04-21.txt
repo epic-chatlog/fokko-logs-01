@@ -12152,3 +12152,7 @@
 [2021-04-17 14:22:44]: ***  [, Level 0]: 'f"{self.name}"' has left the game
 [2021-04-17 14:22:44]: ***  [, Level 0]: '__init__(self):' has left the game
 [2021-04-17 14:25:41]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-17 14:25:46]: RM | Arin [Retard MNKY, Level 0]: bob:  WAS GEHT
+[2021-04-17 14:25:47]: Kenshi™ [404, Level 0]: El patron:
+[2021-04-17 14:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 14:25:53]: [D] El patron [FookinLads, Level 24]: Kenshi™: ?
