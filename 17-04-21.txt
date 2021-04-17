@@ -12,3 +12,4 @@
 [2021-04-17 00:06:55]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
 [2021-04-17 00:07:26]: ***  [, Level 0]: 'ChillerDragon' changed name to 'yee'
 [2021-04-17 00:07:29]: ***  [, Level 0]: '(1)ChillerDragon' changed name to 'ChillerDragon'
+[2021-04-17 00:08:21]: ***  [, Level 0]: 'yee' changed name to 'StreamerDragon'
