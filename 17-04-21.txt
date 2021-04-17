@@ -12169,3 +12169,4 @@
 [2021-04-17 14:27:54]: ***  [, Level 0]: 'Isegrin' has left the game
 [2021-04-17 14:28:31]: [D] El patron [FookinLads, Level 24]: Zephir™: bob
 [2021-04-17 14:28:56]: ***  [, Level 0]: 'Random Guy' entered and joined the game
+[2021-04-17 14:29:07]: RM | Arin [Retard MNKY, Level 0]: call it everyone vs bob  and Hunter.exe  got safed
