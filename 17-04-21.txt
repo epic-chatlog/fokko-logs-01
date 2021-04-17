@@ -2730,3 +2730,7 @@
 [2021-04-17 05:01:10]: Taip [VergleriSay, Level 19]: i want
 [2021-04-17 05:01:13]: ***  [, Level 0]: 'Taip' has been muted for 60 seconds
 [2021-04-17 05:01:19]: Matiteusz [TrRShClNrRs, Level 37]: Tom: wtf]
+[2021-04-17 05:01:26]:   [, Level 0]: [D] El patron: Tom:  wtf
+[2021-04-17 05:01:31]: f"{self.name}" [, Level 18]: Taip: now i dont know what you want :D
+[2021-04-17 05:01:33]: Matiteusz [TrRShClNrRs, Level 37]: El patron: 1700
+[2021-04-17 05:01:34]: Zephir™ [404, Level 40]: Meetiteusz: ???
