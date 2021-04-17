@@ -2664,3 +2664,6 @@
 [2021-04-17 04:55:08]: Zephir™ [404, Level 40]: Falco641: because he kill bob
 [2021-04-17 04:55:08]: ***  [, Level 0]: '(1)Ƭevan' has left the game
 [2021-04-17 04:55:15]: Zephir™ [404, Level 40]: f"{self.name}": come police
+[2021-04-17 04:55:22]:   [, Level 0]: bob: Zephir™: thats rude you cant say ez when its 2v1
+[2021-04-17 04:55:29]: ***  [, Level 0]: '[D] El patron' entered and joined the game
+[2021-04-17 04:55:32]: Taip [VergleriSay, Level 19]: what is that
