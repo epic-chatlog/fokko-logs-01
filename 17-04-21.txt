@@ -6718,3 +6718,7 @@
 [2021-04-17 08:43:34]: ***  [, Level 0]: '1IceyB0i' entered and joined the game
 [2021-04-17 08:43:43]: ***  [, Level 0]: '1IceyB0i' has left the game
 [2021-04-17 08:43:45]: ChillerDragon.* [|*KoG*|, Level 42]: ja normal sun.slow(y)
+[2021-04-17 08:43:55]: toxicdave. [✡︎, Level 30]: #5 blocker: hali
+[2021-04-17 08:43:55]: ***  [, Level 0]: 'Pa1n' entered and joined the game
+[2021-04-17 08:43:58]: ***  [, Level 0]: 'Honey Cat' entered and joined the game
+[2021-04-17 08:43:59]: ***  [, Level 0]: '1IceyB0i' entered and joined the game
