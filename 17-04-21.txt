@@ -12190,3 +12190,4 @@
 [2021-04-17 14:31:39]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-17 14:31:45]: El Monkey [Retard MNKY, Level 0]: bob:  kack ma auf die
 [2021-04-17 14:31:50]: El Monkey [Retard MNKY, Level 0]: lass jp und inf jumps holen
+[2021-04-17 14:31:57]: bob [, Level 36]: bringt nix xd
