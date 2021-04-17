@@ -6405,3 +6405,9 @@
 [2021-04-17 08:13:26]: Torento [, Level 23]: он тебе пригодиться
 [2021-04-17 08:13:27]: ***  [, Level 0]: el champeon is on a killing spree with 20 blocks
 [2021-04-17 08:13:38]: Vodo4ka [Chilli.*, Level 41]: Torento: spasibo
+[2021-04-17 08:13:44]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-17 08:13:48]: ***  [, Level 0]: '(1)|HolyHo|°' has left the game
+[2021-04-17 08:13:48]: ***  [, Level 0]: '|HolyHo|' has left the game
+[2021-04-17 08:13:51]: Torento [, Level 23]: Vodo4ka: bye bye
+[2021-04-17 08:13:53]: ***  [, Level 0]: '[D]Torento' has left the game
+[2021-04-17 08:13:53]: ***  [, Level 0]: 'Torento' has left the game
