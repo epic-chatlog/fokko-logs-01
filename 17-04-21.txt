@@ -11699,3 +11699,7 @@
 [2021-04-17 13:39:06]: mr dud [, Level 0]: ...
 [2021-04-17 13:39:08]: Falco641 [.bad, Level 20]: El patron: come laser me
 [2021-04-17 13:39:16]: ***  [, Level 0]: [POLICE-CHANNEL] 'IwillBlockYou' has been caught by 'f"{self.name}"' (10 minutes arrest)
+[2021-04-17 13:39:21]: S Y T H N [, Level 39]: ...
+[2021-04-17 13:39:22]: f"{self.name}" [, Level 18]: IwillBlockYou: ?:D:D:D:D:D
+[2021-04-17 13:39:28]: ***  [, Level 0]: -:-|ML is on a killing spree with 5 blocks
+[2021-04-17 13:39:31]: Falco641 [.bad, Level 20]: El patron: go laser me
