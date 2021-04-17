@@ -2091,3 +2091,8 @@
 [2021-04-17 04:04:40]: ***  [, Level 0]: 'Marcisten' has left the game
 [2021-04-17 04:04:42]: ***  [, Level 0]: Falco642 is on a killing spree with 5 blocks
 [2021-04-17 04:04:50]: GODLIKe [, Level 44]: gay
+[2021-04-17 04:04:58]: weqe [669, Level 13]: ES: you love me ?
+[2021-04-17 04:05:02]: ***  [, Level 0]: Falco642's killing spree was ended by f"{self.name}" (6 blocks)
+[2021-04-17 04:05:03]: ♥TAKO♥ [DogParty, Level 25]: f"{self.name}":  wait ı download clicker xD
+[2021-04-17 04:05:05]: weqe [669, Level 13]: ES: you love me ?
+[2021-04-17 04:05:05]: ***  [, Level 0]: [POLICE-CHANNEL] 'Falco642' has been caught by 'f"{self.name}"' (10 minutes arrest)
