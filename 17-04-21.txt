@@ -3623,3 +3623,6 @@
 [2021-04-17 06:03:32]: Shiro. [404, Level 0]: ez
 [2021-04-17 06:03:35]: [D] mamikral011 [DogParty, Level 22]: yes
 [2021-04-17 06:03:43]: weqe [669, Level 13]: [D] mamikral011: do u remember what u replied ?
+[2021-04-17 06:03:50]: Kezo [DogParty, Level 41]: [D] mamikral011: sorry yazmayı bırakıp savaşıcakmısın yoksa korkak rolünü oynamaya devam mı ?
+[2021-04-17 06:03:50]: [D] mamikral011 [DogParty, Level 22]: no sorry no agaib
+[2021-04-17 06:03:52]: [D] mamikral011 [DogParty, Level 22]: again
