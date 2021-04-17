@@ -2945,3 +2945,8 @@
 [2021-04-17 05:21:41]: ***  [, Level 0]: '|HolyHo|' entered and joined the game
 [2021-04-17 05:21:52]: Kahve [, Level 24]: Zephir™: i want quit here
 [2021-04-17 05:22:00]: [D] BC|Tixnix [BC, Level 26]: Falco642: EZ
+[2021-04-17 05:22:04]: ***  [, Level 0]: 'CKA3A4NIK[NR]' entered and joined the game
+[2021-04-17 05:22:05]: [D] BC|Tixnix [BC, Level 26]: Falco642: EZ
+[2021-04-17 05:22:08]:   [, Level 0]: Falco642: [D] BC|Tixnix: xd
+[2021-04-17 05:22:09]: ***  [, Level 0]: 'cookie' has left the game
+[2021-04-17 05:22:09]: ***  [, Level 0]: '[D] BC|Tixnix' has been muted for 60 seconds
