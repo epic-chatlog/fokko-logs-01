@@ -11189,3 +11189,5 @@
 [2021-04-17 12:56:38]: ***  [, Level 0]: 'Sayme' has left the game
 [2021-04-17 12:56:40]: ***  [, Level 0]: 'Ƭevan' has left the game
 [2021-04-17 12:56:40]: ***  [, Level 0]: 'Ðream' has left the game
+[2021-04-17 12:57:11]: jojo [, Level 0]: help at spawn
+[2021-04-17 12:57:13]: ***  [, Level 0]: 'fomjn' entered and joined the game
