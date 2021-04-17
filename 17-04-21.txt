@@ -8262,3 +8262,8 @@
 [2021-04-17 10:04:48]: bob [, Level 36]: BLACK: come
 [2021-04-17 10:04:48]: ***  [, Level 0]: 'Zephir™' entered and joined the game
 [2021-04-17 10:04:54]: lolpoep [Ape, Level 0]: bob downt help him
+[2021-04-17 10:05:01]: bob [, Level 36]: BLACK: come
+[2021-04-17 10:05:01]: lolpoep [Ape, Level 0]: he killd us
+[2021-04-17 10:05:02]: ***  [, Level 0]: [POLICE-CHANNEL] '[D] mamikral011' is spawnblocking. Catch him!
+[2021-04-17 10:05:02]: ChillerDragon.* [|*KoG*|, Level 42]: SanoreX: obs-studio
+[2021-04-17 10:05:08]: SanoreX [Chilli.*, Level 27]: ChillerDragon: I have but dont work
