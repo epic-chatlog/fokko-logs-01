@@ -368,3 +368,5 @@
 [2021-04-17 02:06:54]: Cylox [{TQuila}, Level 31]: yno
 [2021-04-17 02:06:58]: NinjaWhite [, Level 24]: Meliodas:  inf?
 [2021-04-17 02:07:04]: WarHammer [DogParty, Level 26]: Cylox:  İYİ YAPTIN
+[2021-04-17 02:07:15]: Estarossa [, Level 11]: NinjaWhite: ye
+[2021-04-17 02:07:19]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 39.72 second(s)
