@@ -2287,3 +2287,5 @@
 [2021-04-17 04:20:07]: bob [Legacy™, Level 36]: FIGHT
 [2021-04-17 04:20:12]: ♥TAKO♥ [DogParty, Level 25]: 2 jump + hook + shoot
 [2021-04-17 04:20:13]: bob [Legacy™, Level 36]: GAGA
+[2021-04-17 04:20:15]: ***  [, Level 0]: 'PepeHands' has left the game
+[2021-04-17 04:20:21]: cookie [, Level 21]: tackem
