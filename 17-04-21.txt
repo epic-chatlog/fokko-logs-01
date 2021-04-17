@@ -12474,3 +12474,4 @@
 [2021-04-17 15:04:56]: d [, Level 0]: F
 [2021-04-17 15:04:59]: ***  [, Level 0]: 'd' has left the game
 [2021-04-17 15:04:59]: ***  [, Level 0]: 'sun.slow(y)' has left the game
+[2021-04-17 15:05:06]: BLACK [, Level 26]: hardf
