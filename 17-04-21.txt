@@ -6850,3 +6850,7 @@
 [2021-04-17 08:52:23]: Killua [FookinLads, Level 0]: STOP FIGHTING WITHIN THE CLAN koro sun.slow(y)
 [2021-04-17 08:52:34]: sun.slow(y) [FookinLads, Level 35]: Killua: idk why koro block me
 [2021-04-17 08:52:37]: ***  [, Level 0]: '(1)el champeon' has left the game
+[2021-04-17 08:52:40]: Killua [FookinLads, Level 0]: sun.slow(y): koro chill urpp
+[2021-04-17 08:52:41]: ***  [, Level 0]: '(1)el champeon' entered and joined the game
+[2021-04-17 08:52:47]: ***  [, Level 0]: 'el champeon' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-17 08:52:47]: ***  [, Level 0]: 'Soros' has left the game (Too weak connection (not acked for 60 seconds))
