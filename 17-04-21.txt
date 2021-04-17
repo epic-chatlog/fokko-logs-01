@@ -3023,3 +3023,6 @@
 [2021-04-17 05:28:14]: |HolyHo|° [FookinLads, Level 29]: Intensiv:
 [2021-04-17 05:28:17]: Intensiv_ [CrazyNoobs, Level 10]: ?
 [2021-04-17 05:28:26]: Intensiv [CrazyNoobs, Level 14]: ?
+[2021-04-17 05:28:33]: ***  [, Level 0]: '[D] BC|kakashi' has left the game
+[2021-04-17 05:28:33]: ***  [, Level 0]: 'BC|kakashi' has left the game
+[2021-04-17 05:28:37]: ***  [, Level 0]: 'QON QON' entered and joined the game
