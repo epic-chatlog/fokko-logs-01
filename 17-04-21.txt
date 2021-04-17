@@ -3809,3 +3809,6 @@
 [2021-04-17 06:12:33]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-17 06:12:44]: |HolyHo|° [FookinLads, Level 29]: rqrqrqrqq
 [2021-04-17 06:12:45]: weqe [669, Level 13]: wtf Kezo stop dying
+[2021-04-17 06:12:51]: ***  [, Level 0]: ### '|HolyHo|°' RQRQRQRQ<
+[2021-04-17 06:12:51]: ***  [, Level 0]: mamikral011 is on a killing spree with 5 blocks
+[2021-04-17 06:12:53]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 5 blocks
