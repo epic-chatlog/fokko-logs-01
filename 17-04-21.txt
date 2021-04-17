@@ -12037,3 +12037,4 @@
 [2021-04-17 14:08:41]: ***  [, Level 0]: [POLICE-CHANNEL] 'RM | Arin' is spawnblocking. Catch him!
 [2021-04-17 14:08:42]: RM | Arin [Retard MNKY, Level 0]: OMG
 [2021-04-17 14:08:45]: [D] -:-|ML [, Level 0]: I AM BAD AT FRANCE
+[2021-04-17 14:09:02]: [D] -:-|ML [, Level 0]: __init__(self):: you dont want to come?
