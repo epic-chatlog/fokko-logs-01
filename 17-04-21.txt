@@ -403,3 +403,4 @@
 [2021-04-17 02:10:36]: bob [Legacy™, Level 36]: traitor
 [2021-04-17 02:10:44]: Cylox [{TQuila}, Level 31]: no
 [2021-04-17 02:10:45]: Ļåҕ Lobster [Ļåҕ, Level 34]: Coca: LOOK bob is blocking your friend
+[2021-04-17 02:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
