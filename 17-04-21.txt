@@ -7750,3 +7750,5 @@
 [2021-04-17 09:40:05]: ***  [, Level 0]: 'BENJI3103' entered and joined the game
 [2021-04-17 09:40:11]: bob [, Level 36]: rrqrqrqrqrq
 [2021-04-17 09:40:12]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
+[2021-04-17 09:40:28]: #5 blocker [|*MorE*|, Level 24]: fuck
+[2021-04-17 09:40:29]: ***  [, Level 0]: 'nameless tee' entered and joined the game
