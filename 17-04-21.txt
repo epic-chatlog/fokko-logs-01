@@ -2968,3 +2968,6 @@
 [2021-04-17 05:23:31]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-17 05:23:35]: Zephir™ [404, Level 40]: AHAHHAHAHHA
 [2021-04-17 05:23:39]: ***  [, Level 0]: 'WIR' entered and joined the game
+[2021-04-17 05:23:41]: ***  [, Level 0]: 'WIR' has left the game
+[2021-04-17 05:23:47]: [D] El patron [, Level 0]: [D] BC|Tixnix: er greift mich an
+[2021-04-17 05:23:50]:   [, Level 0]: CKA3A4NIK[NR]: El patron:  > Hello can help>>>>
