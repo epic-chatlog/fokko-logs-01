@@ -10253,3 +10253,9 @@
 [2021-04-17 11:38:54]: ***  [, Level 0]: '(1)SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-17 11:38:54]: (1)SanoreX [Chilli.*, Level 0]: of
 [2021-04-17 11:38:56]: Kenshi™ [404, Level 0]: El patron: ??
+[2021-04-17 11:39:00]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
+[2021-04-17 11:39:03]: (1)SanoreX [Chilli.*, Level 0]: leave
+[2021-04-17 11:39:05]: El patron [, Level 30]: you not help me
+[2021-04-17 11:39:05]: ***  [, Level 0]: '(1)SanoreX' left the minigame 'Survival'
+[2021-04-17 11:39:08]: ***  [, Level 0]: 'Axel' left the minigame 'Survival'
+[2021-04-17 11:39:10]: (1)SanoreX [Chilli.*, Level 0]: power: leave and hold d
