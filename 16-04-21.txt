@@ -13669,3 +13669,4 @@
 [2021-04-16 23:28:02]: (1)Good man [Drunks, Level 0]: vihandu tee: wait
 [2021-04-16 23:28:04]: ***  [, Level 0]: '(1)Coca' entered and joined the game
 [2021-04-16 23:28:15]: (1)Coca [Drunks, Level 0]: no
+[2021-04-16 23:29:01]: ***  [, Level 0]: 'Chocopie' entered and joined the game
