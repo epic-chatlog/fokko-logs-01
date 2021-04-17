@@ -1,3 +1,4 @@
 [2021-04-17 00:00:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-17 00:02:43]: ***  [, Level 0]: 'Intensiv' entered and joined the game
 [2021-04-17 00:04:14]: Intensiv [CrazyNoobs, Level 14]: Tom:
+[2021-04-17 00:05:00]: Intensiv [CrazyNoobs, Level 14]: Tom:  help
