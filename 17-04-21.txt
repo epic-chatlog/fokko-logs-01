@@ -2913,3 +2913,6 @@
 [2021-04-17 05:18:20]: Intensiv_ [CrazyNoobs, Level 10]: sq
 [2021-04-17 05:18:20]: Zephir™ [404, Level 40]: bob: i just need one shot and u are dead
 [2021-04-17 05:18:22]: ***  [, Level 0]: 'Coca' entered and joined the game
+[2021-04-17 05:18:23]: f"{self.name}" [, Level 18]: me
+[2021-04-17 05:18:27]: Intensiv_ [CrazyNoobs, Level 10]: Tom:
+[2021-04-17 05:18:33]: ***  [, Level 0]: 'Coca' has left the game
