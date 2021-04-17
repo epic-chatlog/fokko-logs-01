@@ -11599,3 +11599,9 @@
 [2021-04-17 13:31:01]: (1)BLACK [, Level 23]: Falco642:  laser
 [2021-04-17 13:31:06]: (1)BLACK [, Level 23]: just laser Falco642
 [2021-04-17 13:31:13]: ***  [, Level 0]: '~DemoizL~' has left the game
+[2021-04-17 13:31:20]: ***  [, Level 0]: [D] -:-|ML is on a killing spree with 5 blocks
+[2021-04-17 13:31:20]: ***  [, Level 0]: f"{self.name}"'s killing spree was ended by [D] -:-|ML (16 blocks)
+[2021-04-17 13:31:22]: [D] ♥TAKO♥ [DogParty, Level 0]: noo
+[2021-04-17 13:31:27]: mr dud [, Level 0]: connection problems
+[2021-04-17 13:31:28]: [D] ♥TAKO♥ [DogParty, Level 0]: Zerstrian:  noo
+[2021-04-17 13:31:30]: Falco642 [, Level 0]: aaaa
