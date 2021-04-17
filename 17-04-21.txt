@@ -7957,3 +7957,8 @@
 [2021-04-17 09:50:43]: ***  [, Level 0]: ':' has left the game
 [2021-04-17 09:50:44]: mamikral011 [DogParty, Level 0]: WarHammer: sg
 [2021-04-17 09:50:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-17 09:50:57]: ***  [, Level 0]: '[D] mamikral011' has left the game
+[2021-04-17 09:50:57]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-17 09:50:59]: BLACK [, Level 26]: lolpoep: ahahah
+[2021-04-17 09:51:01]: weqe [669, Level 13]: casserole :p: help retard
+[2021-04-17 09:51:02]: lolpoep [Ape, Level 0]: I like turtles.
