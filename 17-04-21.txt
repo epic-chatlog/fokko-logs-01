@@ -1800,3 +1800,7 @@
 [2021-04-17 03:43:15]: Matiteusz [TrRShClNrRs, Level 37]: El patron:
 [2021-04-17 03:43:16]:   [, Level 0]: Zephir™: El patron: omg
 [2021-04-17 03:43:17]: Matiteusz [TrRShClNrRs, Level 37]: Mista bombastic:
+[2021-04-17 03:43:20]: ES [, Level 0]: Falco641: help me pls
+[2021-04-17 03:43:23]: El patron [, Level 30]: xd
+[2021-04-17 03:43:25]: ***  [, Level 0]: '(1)[D] Kahve' has left the game
+[2021-04-17 03:43:25]: ***  [, Level 0]: '(1)Kahve' has left the game
