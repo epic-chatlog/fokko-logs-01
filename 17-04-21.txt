@@ -12381,3 +12381,5 @@
 [2021-04-17 14:55:36]: sun.slow(y) [FookinLads, Level 35]: -:-|ML: war4life
 [2021-04-17 14:55:42]: -:-|ML [, Level 0]: sun.slow(y): why
 [2021-04-17 14:55:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-17 14:56:07]: RM | Arin [Retard MNKY, Level 0]: sun.slow(y):  hab mich bissl verbessert xD
+[2021-04-17 14:56:13]: sun.slow(y) [FookinLads, Level 35]: RM | Arin: du bist ein bot
