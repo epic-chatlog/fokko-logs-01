@@ -2952,3 +2952,5 @@
 [2021-04-17 05:22:09]: ***  [, Level 0]: '[D] BC|Tixnix' has been muted for 60 seconds
 [2021-04-17 05:22:22]:   [, Level 0]: Falco642: [D] BC|Tixnix: i beat you 1v2 without powerups
 [2021-04-17 05:22:23]: ***  [, Level 0]: '(1)lolpoep' entered and joined the game
+[2021-04-17 05:22:34]:   [, Level 0]: Gonzo: stop you idiot
+[2021-04-17 05:22:34]: Intensiv_ [CrazyNoobs, Level 10]: El patron:
