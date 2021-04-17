@@ -2230,3 +2230,8 @@
 [2021-04-17 04:16:22]: Taip [VergleriSay, Level 19]: ?
 [2021-04-17 04:16:31]: f"{self.name}" [, Level 18]: ♥TAKO♥: i will have to make it executable first though
 [2021-04-17 04:16:34]: Falco642 [, Level 0]: BC|serwan: karma lmao
+[2021-04-17 04:16:36]: Taip [VergleriSay, Level 19]: bro
+[2021-04-17 04:16:37]: ***  [, Level 0]: 'Pokemon' changed name to 'Bulbasaur'
+[2021-04-17 04:16:39]: Taip [VergleriSay, Level 19]: tako
+[2021-04-17 04:16:41]: Taip [VergleriSay, Level 19]: TAKO
+[2021-04-17 04:16:47]: cookie [, Level 21]: Bulbasaur
