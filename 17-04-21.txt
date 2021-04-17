@@ -9293,3 +9293,5 @@
 [2021-04-17 10:52:01]: ***  [, Level 0]: 'Nibba' joined the game
 [2021-04-17 10:52:06]: mamikral011 [DogParty, Level 0]: Salut: help
 [2021-04-17 10:52:11]: [D] mamikral011 [DogParty, Level 0]: (1)Salut: help or war,
+[2021-04-17 10:52:12]: Zephir™ [404, Level 40]: HeavyGeneral: he help ennemi 404 and have join chillerdragon
+[2021-04-17 10:52:20]: Mista bombastic [TrRShClNrRs, Level 40]: Zephir™: what?
