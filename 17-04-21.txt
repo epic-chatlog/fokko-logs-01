@@ -10760,3 +10760,6 @@
 [2021-04-17 12:20:22]: HeavyGeneral [FookinLads, Level 36]: El patron: accept
 [2021-04-17 12:20:25]: ***  [, Level 0]: 'Falco642' entered and joined the game
 [2021-04-17 12:20:27]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)Sayme' is spawnblocking. Catch him!
+[2021-04-17 12:20:34]: SanoreX [Chilli.*, Level 27]: Cylox: ben öbür odama gitcem afk
+[2021-04-17 12:20:38]: Cylox. [{TQuila}, Level 0]: tm
+[2021-04-17 12:20:38]: SanoreX [Chilli.*, Level 27]: pc afk durcak
