@@ -2423,3 +2423,5 @@
 [2021-04-17 04:34:34]: ***  [, Level 0]: Falco642 is on a killing spree with 5 blocks
 [2021-04-17 04:34:35]: Falco642 [, Level 0]: .bad
 [2021-04-17 04:34:40]: ***  [, Level 0]: 'BC|Tixnix' finished the special race!
+[2021-04-17 04:34:51]: BC|kakashi [BC, Level 14]: bob
+[2021-04-17 04:34:59]: bob [Legacy™, Level 36]: BC|kakashi: ihr habt war
