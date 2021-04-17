@@ -2745,3 +2745,8 @@
 [2021-04-17 05:02:27]: Matiteusz [TrRShClNrRs, Level 37]: Zephir™: he tooked my money
 [2021-04-17 05:02:33]: cookie [, Level 21]: Zephir™:  i help come one
 [2021-04-17 05:02:36]: Zephir™ [404, Level 40]: Matiteusz: just say him to take back wtf
+[2021-04-17 05:02:40]: Taip [VergleriSay, Level 19]: OMG
+[2021-04-17 05:02:41]: Meetiteusz [TrRShClNrRs, Level 28]: Zephir™: i said
+[2021-04-17 05:02:42]: Taip [VergleriSay, Level 19]: YEYY
+[2021-04-17 05:02:46]: cookie [, Level 21]: Zephir™:  help me out
+[2021-04-17 05:02:48]: f"{self.name}" [, Level 18]: yaay
