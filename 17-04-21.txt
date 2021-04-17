@@ -6433,3 +6433,6 @@
 [2021-04-17 08:15:31]: Vodo4ka [Chilli.*, Level 41]: Nudelsaft c:: me too
 [2021-04-17 08:15:36]: El patron [, Level 30]: Nudelsaft c:: nein
 [2021-04-17 08:15:36]: Nudelsaft c: [FookinLads, Level 43]: I like turtles.
+[2021-04-17 08:15:47]: El patron [, Level 30]: Nudelsaft c:: du hilft immer mein wars
+[2021-04-17 08:15:47]: ***  [, Level 0]: el champeon's killing spree was ended by flappy (22 blocks)
+[2021-04-17 08:15:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
