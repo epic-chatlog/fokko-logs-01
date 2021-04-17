@@ -2425,3 +2425,5 @@
 [2021-04-17 04:34:40]: ***  [, Level 0]: 'BC|Tixnix' finished the special race!
 [2021-04-17 04:34:51]: BC|kakashi [BC, Level 14]: bob
 [2021-04-17 04:34:59]: bob [Legacy™, Level 36]: BC|kakashi: ihr habt war
+[2021-04-17 04:35:02]: ***  [, Level 0]: 'Rem's dummy' entered and joined the game
+[2021-04-17 04:35:11]: Falco642 [, Level 0]: [D] BC|kakashi: ez
