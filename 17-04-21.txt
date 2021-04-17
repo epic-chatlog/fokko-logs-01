@@ -12285,3 +12285,5 @@
 [2021-04-17 14:40:22]: HeavyGeneral [FookinLads, Level 36]: any: oof i gotta upgrade my keytboard too
 [2021-04-17 14:40:22]: Random Guy [, Level 40]: HeavyGeneral: but i have problem with fps
 [2021-04-17 14:40:27]: HeavyGeneral [FookinLads, Level 36]: any: i want to buy huntsman
+[2021-04-17 14:40:45]: HeavyGeneral [FookinLads, Level 36]: Random Guy: hows that
+[2021-04-17 14:40:45]: ***  [, Level 0]: 'bob' has left the game
