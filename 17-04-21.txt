@@ -6356,3 +6356,4 @@
 [2021-04-17 08:09:43]: [D] El patron [, Level 24]: Zephir™:  bob rage
 [2021-04-17 08:09:45]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-17 08:09:50]: Zephir™ [404, Level 40]: El patron: why ?
+[2021-04-17 08:09:57]: Zephir™ [404, Level 40]: oh okat
