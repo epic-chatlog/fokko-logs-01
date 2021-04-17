@@ -11173,3 +11173,7 @@
 [2021-04-17 12:54:43]: El patron [FookinLads, Level 30]: Zephir™: u
 [2021-04-17 12:54:43]: ***  [, Level 0]: 'Intensiv' entered and joined the game
 [2021-04-17 12:54:54]: (1)Sayme [, Level 0]: hook me
+[2021-04-17 12:55:00]: (1)Sayme [, Level 0]: without jetpack
+[2021-04-17 12:55:01]: ***  [, Level 0]: 'any²' has left the game
+[2021-04-17 12:55:01]: ***  [, Level 0]: 'any' has left the game
+[2021-04-17 12:55:02]: ***  [, Level 0]: 'power' entered and joined the game
