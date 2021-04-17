@@ -12400,3 +12400,9 @@
 [2021-04-17 14:58:39]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-17 14:58:40]: ***  [, Level 0]: 'El Monkey' has left the game
 [2021-04-17 14:58:42]: [D] -:-|ML [, Level 0]: sun.slow(y): say please and sorry for the sentence before
+[2021-04-17 14:58:44]: BLACK [, Level 26]: Hunter.exe: take it idc
+[2021-04-17 14:58:47]: Random Guy [, Level 40]: wait
+[2021-04-17 14:58:50]: Hunter.exe [DogParty, Level 37]: what
+[2021-04-17 14:58:50]: Random Guy [, Level 40]: he is your dummy?
+[2021-04-17 14:58:51]: sun.slow(y) [FookinLads, Level 35]: -:-|ML: u dont want that i come there
+[2021-04-17 14:58:54]: BLACK [, Level 26]: the jet
