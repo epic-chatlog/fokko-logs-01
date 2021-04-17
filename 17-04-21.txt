@@ -11147,3 +11147,5 @@
 [2021-04-17 12:51:53]: ✯ | Bulash [|Supressed|, Level 0]: sooo bad
 [2021-04-17 12:52:00]: Falco642 [, Level 0]: El patron: ??
 [2021-04-17 12:52:06]: El patron [FookinLads, Level 30]: Falco642: ?
+[2021-04-17 12:52:09]: [D] Hunter.exe [DogParty, Level 27]: ✯|Not Bulash: 19494 ping sry
+[2021-04-17 12:52:11]: Falco642 [, Level 0]: El patron: u just killed dummy
