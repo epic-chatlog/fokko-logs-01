@@ -6377,3 +6377,5 @@
 [2021-04-17 08:11:37]: ***  [, Level 0]: Kezo is on a killing spree with 5 blocks
 [2021-04-17 08:11:37]: ***  [, Level 0]: [POLICE-CHANNEL] 'Kezo' is spawnblocking. Catch him!
 [2021-04-17 08:11:38]: ***  [, Level 0]: [POLICE-CHANNEL] 'Kezo' has been caught by 'Nudelsaft c:' (10 minutes arrest)
+[2021-04-17 08:11:49]: Tziys* [DogParty, Level 41]: Nudelsaft c:: dog :D
+[2021-04-17 08:11:53]: Nudelsaft c: [FookinLads, Level 43]: cry
