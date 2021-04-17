@@ -12114,3 +12114,4 @@
 [2021-04-17 14:17:40]: [D] -:-|ML [, Level 0]: f"{self.name}": you see the rainbow thing above you
 [2021-04-17 14:17:40]: Isegrin [, Level 55]: Hunter.exe: prank
 [2021-04-17 14:17:45]: [D] -:-|ML [, Level 0]: f"{self.name}": go in there
+[2021-04-17 14:17:59]: El Monkey [Retard MNKY, Level 0]: was los Hunter.exe ?
