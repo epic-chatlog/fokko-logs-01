@@ -3459,3 +3459,9 @@
 [2021-04-17 05:54:28]:   [, Level 0]: BC|kakashi: Zerstrian:
 [2021-04-17 05:54:53]: GODLIKe [, Level 44]: XD
 [2021-04-17 05:54:54]: |HolyHo| [FookinLads, Level 19]: weqe: come
+[2021-04-17 05:55:01]: ***  [, Level 0]: 'Kahve' has left the game
+[2021-04-17 05:55:01]: ***  [, Level 0]: '[D] Kahve' has left the game
+[2021-04-17 05:55:03]: Shiro. [404, Level 0]: noobs
+[2021-04-17 05:55:06]: ***  [, Level 0]: '(1)[D] Kahve' changed name to '[D] Kahve'
+[2021-04-17 05:55:06]: ***  [, Level 0]: '(1)Kahve' changed name to 'Kahve'
+[2021-04-17 05:55:07]:   [, Level 0]: Tziys*: Intensiv: sesli gel
