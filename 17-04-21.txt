@@ -7061,3 +7061,9 @@
 [2021-04-17 09:05:54]: Shiro. [404, Level 43]: bob: go up
 [2021-04-17 09:05:54]: bob [, Level 36]: Shiro.: WHERE MY GRENADE EEE
 [2021-04-17 09:05:58]: ***  [, Level 0]: Falco642 is on a killing spree with 5 blocks
+[2021-04-17 09:06:02]: Shiro. [404, Level 43]: bob: go up stopid
+[2021-04-17 09:06:04]: Falco642 [, Level 0]: xdd
+[2021-04-17 09:06:09]: ***  [, Level 0]: 'Chiwoowoo' finished the special race!
+[2021-04-17 09:06:09]: bob [, Level 36]: IAM UP
+[2021-04-17 09:06:11]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-17 09:06:11]: ***  [, Level 0]: 'HuskyFloofles' finished the special race!
