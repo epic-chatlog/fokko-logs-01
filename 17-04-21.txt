@@ -6414,3 +6414,7 @@
 [2021-04-17 08:13:58]: [D] El patron [, Level 24]: toxicdave.: xd
 [2021-04-17 08:14:15]: ***  [, Level 0]: '☺' has left the game (Timeout)
 [2021-04-17 08:14:16]: ***  [, Level 0]: 'weqe' entered and joined the spectators
+[2021-04-17 08:14:22]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the spectators
+[2021-04-17 08:14:23]: ***  [, Level 0]: '☺' entered and joined the spectators
+[2021-04-17 08:14:24]: ***  [, Level 0]: '(1)ChillerDragon' changed name to '(2)ChillerDragon'
+[2021-04-17 08:14:28]: ***  [, Level 0]: 'weqe' has left the game
