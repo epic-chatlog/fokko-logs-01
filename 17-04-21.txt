@@ -6388,3 +6388,6 @@
 [2021-04-17 08:12:12]: Nudelsaft c: [FookinLads, Level 43]: ofc not
 [2021-04-17 08:12:12]: ***  [, Level 0]: 'ChillerDragon' has left the game
 [2021-04-17 08:12:12]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
+[2021-04-17 08:12:32]: El patron [, Level 30]: toxicdave.: help
+[2021-04-17 08:12:39]: ***  [, Level 0]: 'Terra' has left the game
+[2021-04-17 08:12:39]: ***  [, Level 0]: 'Luna' has left the game
