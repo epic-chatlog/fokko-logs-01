@@ -12061,3 +12061,4 @@
 [2021-04-17 14:10:00]: ***  [, Level 0]: 'ZEWO dummy' has left the game
 [2021-04-17 14:10:00]: ***  [, Level 0]: 'Astraza' has left the game
 [2021-04-17 14:10:03]: [D] -:-|ML [, Level 0]: __init__(self):: so you want to block me but not that i kill you
+[2021-04-17 14:10:15]: [D] -:-|ML [, Level 0]: __init__(self):: do you want to afk block me?
