@@ -10380,3 +10380,8 @@
 [2021-04-17 11:47:17]: (1)SanoreX [Chilli.*, Level 0]: SanoreX:
 [2021-04-17 11:47:28]: (1)SanoreX [Chilli.*, Level 0]: Cylox: oyle
 [2021-04-17 11:47:31]: (1)SanoreX [Chilli.*, Level 0]: Cylox: ok oldu o
+[2021-04-17 11:47:34]: (1)SanoreX [Chilli.*, Level 0]: Cylox: altıda
+[2021-04-17 11:47:37]: (1)SanoreX [Chilli.*, Level 0]: kapat
+[2021-04-17 11:47:40]: (1)SanoreX [Chilli.*, Level 0]: GAPA
+[2021-04-17 11:47:42]: (1)SanoreX [Chilli.*, Level 0]: GAPAT
+[2021-04-17 11:47:44]: (1)SanoreX [Chilli.*, Level 0]: GAPAK
