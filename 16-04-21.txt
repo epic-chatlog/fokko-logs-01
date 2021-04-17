@@ -13271,3 +13271,5 @@
 [2021-04-16 18:50:03]: (1)Kirito [, Level 26]: down
 [2021-04-16 18:50:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 18:51:40]: (1)Kirito [, Level 26]: please dont do anything now
+[2021-04-16 18:51:44]: (1)☺ [, Level 14]: ok
+[2021-04-16 18:51:45]: (1)Kirito [, Level 26]: wait right here
