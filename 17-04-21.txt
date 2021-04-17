@@ -3780,3 +3780,4 @@
 [2021-04-17 06:10:33]: weqe [669, Level 13]: Zephir™: ?
 [2021-04-17 06:10:37]: ***  [, Level 0]: 'ajawiem' has left the game
 [2021-04-17 06:10:40]: ♥TAKO♥ [DogParty, Level 25]: mamikral011:  KRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+[2021-04-17 06:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
