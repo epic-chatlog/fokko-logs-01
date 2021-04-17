@@ -11259,3 +11259,9 @@
 [2021-04-17 13:03:24]: Hunter.exe [DogParty, Level 37]: Falco641: dont help enemys
 [2021-04-17 13:03:28]: Falco641 [.bad, Level 20]: ok i wont
 [2021-04-17 13:03:35]: Falco641 [.bad, Level 20]: i thought u gonna save him
+[2021-04-17 13:03:47]: ***  [, Level 0]: 'sun.slow(y)' has left the game
+[2021-04-17 13:03:49]: Hunter.exe [DogParty, Level 37]: Falco641: if i stay there and dont help him then you dont help him too bc you need to think if i have war with him or not
+[2021-04-17 13:03:49]: [D] ♥TAKO♥ [DogParty, Level 0]: sun.slow(y):  good joke
+[2021-04-17 13:03:54]: Intensiv [CrazyNoobs, Level 15]: [D] ♥TAKO♥:  mal lan bu
+[2021-04-17 13:03:58]: Hunter.exe [DogParty, Level 37]: El patron: so bad warum nicht einfach uns saven
+[2021-04-17 13:03:58]: ***  [, Level 0]: [POLICE-CHANNEL] 'fomin' is spawnblocking. Catch him!
