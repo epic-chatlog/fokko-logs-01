@@ -13444,3 +13444,4 @@
 [2021-04-16 20:07:24]: (1)☺ [, Level 14]: wow
 [2021-04-16 20:07:27]: (1)☺ [, Level 14]: XD
 [2021-04-16 20:07:37]: (1)☺ [, Level 14]: its soo cool
+[2021-04-16 20:10:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
