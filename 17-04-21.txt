@@ -13305,3 +13305,4 @@
 [2021-04-17 16:40:24]: BC|kakashi [BC, Level 26]: .
 [2021-04-17 16:40:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-17 16:40:50]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
+[2021-04-17 16:41:54]: ***  [, Level 0]: 'nicht Gulash' entered and joined the game
