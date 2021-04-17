@@ -13626,3 +13626,5 @@
 [2021-04-16 23:17:44]: ***  [, Level 0]: 'Chocopie' has left the game
 [2021-04-16 23:17:49]: Coca [Drunks, Level 22]: wait
 [2021-04-16 23:19:18]: Good man [Drunks, Level 31]: vihandu tee: we can go to police if you want:)
+[2021-04-16 23:19:34]: vihandu tee [, Level 0]: Good man:  can go to race
+[2021-04-16 23:19:38]: Good man [Drunks, Level 31]: ok
