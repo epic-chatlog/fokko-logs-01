@@ -244,3 +244,5 @@
 [2021-04-17 01:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-17 01:51:00]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
 [2021-04-17 01:51:10]: Coca [Drunks, Level 22]: Ƭevan: не отдам флаг!
+[2021-04-17 01:51:20]: Coca [Drunks, Level 22]: только за 100 к
+[2021-04-17 01:51:22]: Coca [Drunks, Level 22]: )
