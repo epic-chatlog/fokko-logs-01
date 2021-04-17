@@ -13484,3 +13484,5 @@
 [2021-04-16 20:21:51]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
 [2021-04-16 20:22:23]: ***  [, Level 0]: '(2)Kirito' has left the game
 [2021-04-16 20:22:34]: (1)Kirito [, Level 26]: lets see if i can get me out
+[2021-04-16 20:22:46]: (1)Kirito [, Level 26]: yup
+[2021-04-16 20:22:50]: (1)Kirito [, Level 26]: look
