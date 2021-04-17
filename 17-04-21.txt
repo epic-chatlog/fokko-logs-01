@@ -12497,3 +12497,4 @@
 [2021-04-17 15:07:49]: ***  [, Level 0]: 'BitchPlease Jr.' has left the game (Timeout Protection over)
 [2021-04-17 15:07:49]: ***  [, Level 0]: 'Hala Madrid' has left the game (Timeout Protection over)
 [2021-04-17 15:07:58]: ***  [, Level 0]: 'cunt' has left the game
+[2021-04-17 15:08:11]: Random Guy [, Level 40]: Hunter.exe: >>>
