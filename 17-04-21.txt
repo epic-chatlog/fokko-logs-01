@@ -1787,3 +1787,7 @@
 [2021-04-17 03:42:20]: ***  [, Level 0]: 'King_Kazma' has left the game
 [2021-04-17 03:42:26]: ***  [, Level 0]: 'any²' entered and joined the game
 [2021-04-17 03:42:26]: ***  [, Level 0]: 'any²' has left the game
+[2021-04-17 03:42:28]: ***  [, Level 0]: 'any' has left the game
+[2021-04-17 03:42:31]: ES [, Level 0]: Falco641: help me pls
+[2021-04-17 03:42:33]: ***  [, Level 0]: Swarfey is on a killing spree with 5 blocks
+[2021-04-17 03:42:39]:   [, Level 0]: (1)Kahve: Falco641: i helped u
