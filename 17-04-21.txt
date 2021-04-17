@@ -2086,3 +2086,7 @@
 [2021-04-17 04:03:10]: ***  [, Level 0]: [POLICE-CHANNEL] 'ES' is spawnblocking. Catch him!
 [2021-04-17 04:03:46]: f"{self.name}" [, Level 18]: ES: lets run
 [2021-04-17 04:04:00]: Falco642 [, Level 0]: BC|serwan: go cry
+[2021-04-17 04:04:36]: ***  [, Level 0]: [POLICE-CHANNEL] 'Falco642' is spawnblocking. Catch him!
+[2021-04-17 04:04:40]: ***  [, Level 0]: 'Marcisten Dummy' has left the game
+[2021-04-17 04:04:40]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-17 04:04:42]: ***  [, Level 0]: Falco642 is on a killing spree with 5 blocks
