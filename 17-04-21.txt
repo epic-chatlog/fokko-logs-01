@@ -5641,3 +5641,7 @@
 [2021-04-17 07:29:07]: ***  [, Level 0]: 'Keø' would have timed out, but can use timeout protection now
 [2021-04-17 07:29:07]: ***  [, Level 0]: 'koro' would have timed out, but can use timeout protection now
 [2021-04-17 07:29:12]: (1)☺ [, Level 0]: es ou Zephir™
+[2021-04-17 07:29:21]: Zephir™ [404, Level 40]: ☺: je suis mort
+[2021-04-17 07:29:24]: bob [Legacy™, Level 36]: YES
+[2021-04-17 07:29:25]: bob [Legacy™, Level 36]: diee
+[2021-04-17 07:29:26]: (1)☺ [, Level 0]: ah ok
