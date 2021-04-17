@@ -6567,3 +6567,6 @@
 [2021-04-17 08:28:33]: ***  [, Level 0]: Soros's killing spree was ended by (1)ChillerDragon (5 blocks)
 [2021-04-17 08:28:45]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
 [2021-04-17 08:28:52]: sun.slow(y) [FookinLads, Level 35]: Friendiship ;-): you rich
+[2021-04-17 08:29:02]: Friendiship ;-) [, Level 0]: sun.slow(y): yes
+[2021-04-17 08:29:06]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' has been caught by '(1)ChillerDragon' (10 minutes arrest)
+[2021-04-17 08:29:08]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)casserole :p' has been caught by 'Lucas' (10 minutes arrest)
