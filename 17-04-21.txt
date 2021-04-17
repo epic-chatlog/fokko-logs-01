@@ -6878,3 +6878,9 @@
 [2021-04-17 08:54:18]: Killua [FookinLads, Level 37]: El patron: clan i cant xd
 [2021-04-17 08:54:24]: [D] El patron [, Level 24]: ow
 [2021-04-17 08:54:27]: Killua [FookinLads, Level 37]: El patron: 404 == fookinlads == dogpart same clan i must help them
+[2021-04-17 08:54:31]: ***  [, Level 0]: 'ulrich' entered and joined the game
+[2021-04-17 08:54:33]: ***  [, Level 0]: 'masos' has left the game (Timeout)
+[2021-04-17 08:54:34]: ***  [, Level 0]: (1)ChillerDragon is on a killing spree with 5 blocks
+[2021-04-17 08:54:35]: ***  [, Level 0]: 'HuskyFloofles' has left the game
+[2021-04-17 08:54:36]: ***  [, Level 0]: 'ulrich' has left the game
+[2021-04-17 08:54:37]: ***  [, Level 0]: 'power' has left the game
