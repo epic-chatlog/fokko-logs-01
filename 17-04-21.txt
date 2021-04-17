@@ -638,3 +638,6 @@
 [2021-04-17 02:31:36]: Falco642 [, Level 0]: Kahve: ok
 [2021-04-17 02:31:36]: Coca [Drunks, Level 22]: аа
 [2021-04-17 02:31:41]: Coca [Drunks, Level 22]: я так делал
+[2021-04-17 02:32:17]: ***  [, Level 0]: 'Kenshi™' entered and joined the game
+[2021-04-17 02:32:19]: Coca [Drunks, Level 22]: есть боты)
+[2021-04-17 02:32:23]: Coca [Drunks, Level 22]: ну это не легал)
