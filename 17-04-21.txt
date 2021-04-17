@@ -2572,3 +2572,6 @@
 [2021-04-17 04:45:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-17 04:45:59]: ***  [, Level 0]: 'G𝕖𝕝𝕒to' entered and joined the game
 [2021-04-17 04:46:07]: (3)MOM [, Level 23]: Zephir™: thanks
+[2021-04-17 04:46:14]:   [, Level 0]: test: a
+[2021-04-17 04:46:18]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-17 04:46:18]: ***  [, Level 0]: 'Cylox.' has left the game
