@@ -13563,3 +13563,4 @@
 [2021-04-16 21:50:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-16 21:51:26]: ***  [, Level 0]: 'Boti.' entered and joined the game
 [2021-04-16 21:51:43]: ***  [, Level 0]: 'ClemEntine' has left the game
+[2021-04-16 21:55:16]: ***  [, Level 0]: 'Boti.' has left the game
