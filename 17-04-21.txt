@@ -12552,3 +12552,5 @@
 [2021-04-17 15:14:20]: Hunter.exe [DogParty, Level 37]: S Y T H N: bei einem raid ist mir es scheiß egal
 [2021-04-17 15:14:27]: S Y T H N [, Level 37]: Hunter.exe: jajaaja
 [2021-04-17 15:14:34]: Hunter.exe [DogParty, Level 37]: S Y T H N: immer wenn El Patron jemand angreift lasse ich den zuende kämpfen
+[2021-04-17 15:14:39]: Hunter.exe [DogParty, Level 37]: S Y T H N: lol frag Random
+[2021-04-17 15:14:41]: El Monkey [Retard MNKY, Level 0]: Hunter.exe:  hahaha
