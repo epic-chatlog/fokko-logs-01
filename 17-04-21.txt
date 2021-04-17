@@ -11228,3 +11228,6 @@
 [2021-04-17 13:00:38]: power [TrRShClNrRs, Level 0]: ur so good wolf :D
 [2021-04-17 13:00:38]: ***  [, Level 0]: 'jojo' entered and joined the game
 [2021-04-17 13:00:41]: sun.slow(y) [FookinLads, Level 35]: der armeee
+[2021-04-17 13:00:48]: sun.slow(y) [FookinLads, Level 35]: bob: spiel einmal vanilla ohne dein 8x jump und endless
+[2021-04-17 13:00:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 13:00:54]: ***  [, Level 0]: 'Bartłomiejósz' entered and joined the game
