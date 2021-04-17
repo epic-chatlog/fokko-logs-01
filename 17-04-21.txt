@@ -6443,3 +6443,5 @@
 [2021-04-17 08:16:27]: ☺ [, Level 0]: who are you
 [2021-04-17 08:17:10]: ***  [, Level 0]: 'Good man' has left the game (Timeout)
 [2021-04-17 08:17:10]: ***  [, Level 0]: 'Coca' has left the game (Timeout)
+[2021-04-17 08:17:31]: ***  [, Level 0]: [D] taco bell finished in: 18 minute(s) 51.72 second(s)
+[2021-04-17 08:17:31]: ***  [, Level 0]: '[D] taco bell' finished the special race!
