@@ -10669,3 +10669,6 @@
 [2021-04-17 12:13:11]: HeavyGeneral [FookinLads, Level 36]: sad
 [2021-04-17 12:13:14]: |HolyHo|° [FookinLads, Level 29]: bob: wtf man why what i do?
 [2021-04-17 12:13:15]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' I've Fallen, and I can't get up!
+[2021-04-17 12:13:49]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-17 12:13:49]: ***  [, Level 0]: 'Terra' entered and joined the game
+[2021-04-17 12:13:53]: ***  [, Level 0]: 'ES' entered and joined the game
