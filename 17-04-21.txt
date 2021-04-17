@@ -10388,3 +10388,4 @@
 [2021-04-17 11:47:46]: ***  [, Level 0]: '(1)SanoreX' has been muted for 60 seconds
 [2021-04-17 11:47:49]: Cylox [{TQuila}, Level 32]: ne
 [2021-04-17 11:48:14]: ***  [, Level 0]: '(1)SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-17 11:48:26]: ***  [, Level 0]: 'Cylox.' joined the minigame 'Survival', use '/survival' to join aswell
