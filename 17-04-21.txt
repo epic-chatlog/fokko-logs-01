@@ -3568,3 +3568,6 @@
 [2021-04-17 06:00:01]: ***  [, Level 0]: New record: 1 minute(s) 14.80 second(s) better.
 [2021-04-17 06:00:14]: weqe [669, Level 13]: Isegrin: tell me how much u love me
 [2021-04-17 06:00:15]: Isegrin [, Level 55]: weqe: da
+[2021-04-17 06:00:20]: ***  [, Level 0]: 'Tziys*' entered and joined the game
+[2021-04-17 06:00:21]: GODLIKe [, Level 44]: gay
+[2021-04-17 06:00:23]: weqe [669, Level 13]: Isegrin: tell me how much u love me
