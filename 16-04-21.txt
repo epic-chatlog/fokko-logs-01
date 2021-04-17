@@ -13603,3 +13603,5 @@
 [2021-04-16 23:06:26]: ***  [, Level 0]: 'vihandu tee' entered and joined the game
 [2021-04-16 23:06:49]: ***  [, Level 0]: 'vihandu tee' has left the game
 [2021-04-16 23:06:51]: ***  [, Level 0]: 'vihandu tee' entered and joined the game
+[2021-04-16 23:06:59]: ***  [, Level 0]: '(1)Good man' entered and joined the game
+[2021-04-16 23:07:09]: ***  [, Level 0]: 'Tom' entered and joined the game
