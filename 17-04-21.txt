@@ -10330,3 +10330,6 @@
 [2021-04-17 11:42:51]: (1)SanoreX [Chilli.*, Level 0]: Cylox: kimse alamıyo kimse valla
 [2021-04-17 11:42:55]: ***  [, Level 0]: '[D] El patron' entered and joined the game
 [2021-04-17 11:42:57]: ***  [, Level 0]: '(1)Good man' entered and joined the game
+[2021-04-17 11:43:21]: (1)☺ [, Level 25]: jai rien sur mi
+[2021-04-17 11:43:22]: ***  [, Level 0]: 'Treebeard' entered and joined the game
+[2021-04-17 11:43:25]: ***  [, Level 0]: 'Treebeard' has left the game
