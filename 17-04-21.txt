@@ -10168,3 +10168,7 @@
 [2021-04-17 11:35:42]: Good man [Drunks, Level 31]: мы с другом застакали
 [2021-04-17 11:35:47]: Good man [Drunks, Level 31]: я тоже
 [2021-04-17 11:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-17 11:35:56]: ☺ [, Level 23]: EZ
+[2021-04-17 11:35:58]: Coca [Drunks, Level 23]: без
+[2021-04-17 11:36:05]: Coca [Drunks, Level 23]: в этом и дело
+[2021-04-17 11:36:06]: ***  [, Level 0]: [POLICE-CHANNEL] '(2)Salut' is spawnblocking. Catch him!
