@@ -7229,3 +7229,11 @@
 [2021-04-17 09:14:55]: Nudelsaft c: [FookinLads, Level 60]: aaaaaaaaaa
 [2021-04-17 09:15:03]: Ding Dong [, Level 0]: bob:  i have a question
 [2021-04-17 09:15:08]: ***  [, Level 0]: 'Nudelsaft c:' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-17 09:15:13]: JustRace [DogParty, Level 36]: ez
+[2021-04-17 09:15:14]: (2)ChillerDrago [Chilli.*, Level 34]: xD
+[2021-04-17 09:15:15]: JustRace [DogParty, Level 36]: XD
+[2021-04-17 09:15:16]:   [, Level 0]: bob: ChillerDragon: pro
+[2021-04-17 09:15:17]: ***  [, Level 0]: ChillerDragon.* is on a killing spree with 5 blocks
+[2021-04-17 09:15:20]: #5 blocker [|*MorE*|, Level 24]: toxicdave.: segíts
+[2021-04-17 09:15:22]:   [, Level 0]: bob: Ding Dong: hm
+[2021-04-17 09:15:24]: ***  [, Level 0]: 'Nudelsaft c:' left the minigame 'Survival'
