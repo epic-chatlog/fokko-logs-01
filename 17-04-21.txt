@@ -13255,3 +13255,4 @@
 [2021-04-17 16:18:55]: BC|kakashi [BC, Level 0]: WarHammer: come her
 [2021-04-17 16:19:06]: WarHammer' [DogParty, Level 0]: NO
 [2021-04-17 16:19:17]: BC|kakashi [BC, Level 0]: ok
+[2021-04-17 16:20:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
