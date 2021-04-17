@@ -2760,3 +2760,5 @@
 [2021-04-17 05:03:15]: ***  [, Level 0]: '__init__(self):' entered and joined the game
 [2021-04-17 05:03:21]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 38.62 second(s)
 [2021-04-17 05:03:21]: ***  [, Level 0]: New record:  2.70 second(s) better.
+[2021-04-17 05:03:30]: ***  [, Level 0]: '(1)Kahve' has left the game
+[2021-04-17 05:03:35]: Zephir™ [404, Level 40]: Meetiteusz: i have 17 in my wallet that not me
