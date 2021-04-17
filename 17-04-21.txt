@@ -6659,3 +6659,6 @@
 [2021-04-17 08:38:18]: Killua [FookinLads, Level 0]: np anime girl
 [2021-04-17 08:38:18]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-17 08:38:20]: H0dƌƔ1 [ℋero, Level 0]: ChillerDragon:
+[2021-04-17 08:38:22]: Killua [FookinLads, Level 0]: np Friendiship ;-)  anime girl
+[2021-04-17 08:38:24]: #5 blocker [|*MorE*|, Level 0]: (1)ChillerDragon: help me left
+[2021-04-17 08:38:24]: f"{self.name}" [, Level 18]: sun.slow(y): why do you kill me
