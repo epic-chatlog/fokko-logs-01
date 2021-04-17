@@ -12763,3 +12763,7 @@
 [2021-04-17 15:30:59]: ***  [, Level 0]: 'any²' has left the game (Timeout)
 [2021-04-17 15:30:59]: ***  [, Level 0]: 'any' has left the game (Timeout)
 [2021-04-17 15:31:20]: Hunter.exe [DogParty, Level 37]: El Monkey: ich meine nicht nur das bild was auf 1k ist und nicht zensiert ist
+[2021-04-17 15:31:27]: El Monkey [Retard MNKY, Level 0]: Hunter.exe:  junge du beleidigst hetzt den server auf mich und machst soviel scheiße und schimpfst mit mir wegen einem zensierten foto welches sogar toni gesagt hat das ich es dir zeigen sollen
+[2021-04-17 15:31:28]: El Monkey [Retard MNKY, Level 0]: soll
+[2021-04-17 15:31:31]: Hunter.exe [DogParty, Level 37]: El Monkey: achso und btw Toni hat dich verraten
+[2021-04-17 15:31:33]: ***  [, Level 0]: BULLETBOT is on a killing spree with 5 blocks
