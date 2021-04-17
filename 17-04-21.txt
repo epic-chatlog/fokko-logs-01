@@ -12363,3 +12363,6 @@
 [2021-04-17 14:52:37]: ***  [, Level 0]: 'woona' has left the game
 [2021-04-17 14:53:26]: ***  [, Level 0]: 'ROBOTEE' entered and joined the game
 [2021-04-17 14:53:33]: Random Guy [, Level 40]: Kenshi™: >>>
+[2021-04-17 14:53:37]: ***  [, Level 0]: 'ROBOTEE' has left the game
+[2021-04-17 14:53:40]: Random Guy [, Level 40]: Kenshi™: >>>
+[2021-04-17 14:53:46]: Hunter.exe [DogParty, Level 37]: RM | Arin: schlechte leistung
