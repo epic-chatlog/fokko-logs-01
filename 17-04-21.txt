@@ -6396,3 +6396,8 @@
 [2021-04-17 08:12:59]: Vodo4ka [Chilli.*, Level 41]: Torento: blyat
 [2021-04-17 08:13:03]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
 [2021-04-17 08:13:04]: Torento [, Level 23]: забирай
+[2021-04-17 08:13:06]: Vodo4ka [Chilli.*, Level 41]: NET
+[2021-04-17 08:13:08]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
+[2021-04-17 08:13:12]: Torento [, Level 23]: я выхожу
+[2021-04-17 08:13:13]: Vodo4ka [Chilli.*, Level 41]: Torento: Я иду на смерть
+[2021-04-17 08:13:18]: ***  [, Level 0]: 'Лимонад' entered and joined the game
