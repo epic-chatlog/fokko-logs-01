@@ -11840,3 +11840,6 @@
 [2021-04-17 13:47:35]: [D] ♥TAKO♥ [DogParty, Level 12]: Falco641:  RUN!
 [2021-04-17 13:47:39]: ZEWO dummy [, Level 0]: [D] El patron: no
 [2021-04-17 13:47:40]: mr dud [, Level 0]: wait
+[2021-04-17 13:47:45]: Hunter.exe [DogParty, Level 37]: ZEWO: 10k
+[2021-04-17 13:47:47]: mr dud [, Level 0]: we not have endless
+[2021-04-17 13:47:48]: Falco641 [.bad, Level 20]: Not Zerstrian: seriously
