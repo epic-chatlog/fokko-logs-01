@@ -1357,3 +1357,51 @@
 [2021-04-17 03:23:06]: bob [Legacy™, Level 36]: weqe: come we spike them traitors  ♥TAKO♥ and mamikral011
 [2021-04-17 03:23:08]: bob [Legacy™, Level 36]: bring mamikral011 over
 [2021-04-17 03:23:09]: Kahve [, Level 24]: bob: say to chat "bot"
+[2021-04-17 03:23:15]: [D] mamikral011 [DogParty, Level 0]: bob: war for life
+[2021-04-17 03:23:15]: weqe [669, Level 13]: bob: no portal
+[2021-04-17 03:23:15]: ←   [, Level 0]: Nudelsaft c:: 0moneydrop
+[2021-04-17 03:23:16]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-17 03:23:16]: ***  [, Level 0]: Bank: 0
+[2021-04-17 03:23:16]: ***  [, Level 0]: Wallet: 29346
+[2021-04-17 03:23:16]: ***  [, Level 0]: Euros: 0
+[2021-04-17 03:23:16]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-17 03:23:16]: ***  [, Level 0]: [WALLET] +3 collected
+[2021-04-17 03:23:16]: ***  [, Level 0]: [WALLET] -53962 dropped
+[2021-04-17 03:23:16]: ***  [, Level 0]: [WALLET] +8 collected
+[2021-04-17 03:23:16]: ***  [, Level 0]: [WALLET] -28300 dropped
+[2021-04-17 03:23:16]: ***  [, Level 0]: [WALLET] +3 collected
+[2021-04-17 03:23:16]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-17 03:23:16]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-17 03:23:16]: ***  [, Level 0]: Invalid whisper
+[2021-04-17 03:23:16]: ***  [, Level 0]: 'ichdubinich' entered and joined the game
+[2021-04-17 03:23:17]: ←   [, Level 0]: Nudelsaft c:: 1moneydrop
+[2021-04-17 03:23:17]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-17 03:23:17]: ***  [, Level 0]: Bank: 0
+[2021-04-17 03:23:17]: ***  [, Level 0]: Wallet: 28809
+[2021-04-17 03:23:17]: ***  [, Level 0]: Euros: 0
+[2021-04-17 03:23:17]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-17 03:23:17]: ***  [, Level 0]: [WALLET] -53981 dropped
+[2021-04-17 03:23:17]: ***  [, Level 0]: [WALLET] +3 collected
+[2021-04-17 03:23:17]: ***  [, Level 0]: [WALLET] +5 collected
+[2021-04-17 03:23:17]: ***  [, Level 0]: [WALLET] +3 collected
+[2021-04-17 03:23:17]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-17 03:23:17]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-17 03:23:17]: ***  [, Level 0]: Invalid whisper
+[2021-04-17 03:23:25]: ***  [, Level 0]: '[D] BC|kakashi' entered and joined the game
+[2021-04-17 03:23:25]: ←   [, Level 0]: Nudelsaft c:: 0moneydrop
+[2021-04-17 03:23:25]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-17 03:23:25]: ***  [, Level 0]: Bank: 0
+[2021-04-17 03:23:25]: ***  [, Level 0]: Wallet: 0
+[2021-04-17 03:23:25]: ***  [, Level 0]: Euros: 0
+[2021-04-17 03:23:25]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-17 03:23:25]: ***  [, Level 0]: [WALLET] -29346 dropped
+[2021-04-17 03:23:25]: ***  [, Level 0]: [WALLET] +3 collected
+[2021-04-17 03:23:25]: ***  [, Level 0]: [WALLET] -53962 dropped
+[2021-04-17 03:23:25]: ***  [, Level 0]: [WALLET] +8 collected
+[2021-04-17 03:23:25]: ***  [, Level 0]: [WALLET] -28300 dropped
+[2021-04-17 03:23:25]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-17 03:23:25]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-17 03:23:26]: ***  [, Level 0]: Invalid whisper
+[2021-04-17 03:23:26]: ***  [, Level 0]: You can't drop nothing
+[2021-04-17 03:23:26]: ***  [, Level 0]: 'gocommitlegoste' joined the spectators
+[2021-04-17 03:23:26]: ♥TAKO♥ [DogParty, Level 25]: mamikral011:  ne oldu la bu salaklara
