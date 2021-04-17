@@ -3781,3 +3781,6 @@
 [2021-04-17 06:10:37]: ***  [, Level 0]: 'ajawiem' has left the game
 [2021-04-17 06:10:40]: ♥TAKO♥ [DogParty, Level 25]: mamikral011:  KRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
 [2021-04-17 06:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-17 06:10:59]: Zephir™ [404, Level 40]: weqe: i make bob rq, i killed him  times
+[2021-04-17 06:11:06]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
+[2021-04-17 06:11:07]: Zephir™ [404, Level 40]: Kezo: yep
