@@ -2112,3 +2112,4 @@
 [2021-04-17 04:07:51]: ***  [, Level 0]: 'cookie' entered and joined the game
 [2021-04-17 04:07:56]: ***  [, Level 0]: 'Swarfey' has left the game
 [2021-04-17 04:07:56]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-17 04:08:02]: ***  [, Level 0]: 'Pokemon' entered and joined the game
