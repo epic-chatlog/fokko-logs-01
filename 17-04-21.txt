@@ -289,3 +289,6 @@
 [2021-04-17 01:57:06]: Coca [Drunks, Level 22]: Estarossa: you afk killing
 [2021-04-17 01:57:13]: casserole :p [, Level 20]: Coca:
 [2021-04-17 01:57:13]: Coca [Drunks, Level 22]: you gayestarossa
+[2021-04-17 01:57:24]: ***  [, Level 0]: ToMsKaTv is on a killing spree with 20 blocks
+[2021-04-17 01:57:28]: ***  [, Level 0]: 'SanoreX' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-17 01:57:34]: ***  [, Level 0]: 'WarHammer' entered and joined the game
