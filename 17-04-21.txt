@@ -2303,3 +2303,5 @@
 [2021-04-17 04:21:57]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-17 04:22:14]: f"{self.name}" [, Level 18]: Taip: fun war !
 [2021-04-17 04:22:20]: ***  [, Level 0]: 'Jerry' entered and joined the game
+[2021-04-17 04:22:33]: bob [Legacy™, Level 36]: (1)Matiteusz: boring
+[2021-04-17 04:22:39]: Falco642 [, Level 0]: BC|Tixnix: EZZZZ
