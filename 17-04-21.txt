@@ -7757,3 +7757,8 @@
 [2021-04-17 09:40:43]: ***  [, Level 0]: '|HolyHo|' entered and joined the game
 [2021-04-17 09:40:46]: ***  [, Level 0]: 'Shiro,' entered and joined the game
 [2021-04-17 09:40:47]: nubwowo [FookinLads, Level 60]: XD
+[2021-04-17 09:40:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 09:40:51]: #5 blocker [|*MorE*|, Level 24]: WTF
+[2021-04-17 09:40:53]: #5 blocker [|*MorE*|, Level 24]: XD
+[2021-04-17 09:40:57]: lolpoep [Ape, Level 0]: oops sorry
+[2021-04-17 09:40:58]: ***  [, Level 0]: 'QON QON' joined the spectators
