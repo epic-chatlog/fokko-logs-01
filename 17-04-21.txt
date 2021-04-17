@@ -12197,3 +12197,5 @@
 [2021-04-17 14:32:30]: Zephir™ [404, Level 40]: Hunter.exe: i not see
 [2021-04-17 14:32:31]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-17 14:32:51]: Random Guy [, Level 0]: wtf\
+[2021-04-17 14:32:53]: Random Guy [, Level 0]: ?
+[2021-04-17 14:32:56]: [D] El patron [FookinLads, Level 24]: enem ie
