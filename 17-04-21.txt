@@ -6004,3 +6004,5 @@
 [2021-04-17 07:45:48]: ***  [, Level 0]: 'El Monkey' has left the game
 [2021-04-17 07:45:48]: ***  [, Level 0]: 'RM | Arin' has left the game
 [2021-04-17 07:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-17 07:45:55]: El patron [, Level 30]: Zephir™:
+[2021-04-17 07:46:02]: [D]Torento [, Level 14]: toxicdave.: i afk
