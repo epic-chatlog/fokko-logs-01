@@ -12462,3 +12462,8 @@
 [2021-04-17 15:03:49]: ***  [, Level 0]: 'BitchPlease Jr.' would have timed out, but can use timeout protection now
 [2021-04-17 15:03:49]: ***  [, Level 0]: 'Hala Madrid' would have timed out, but can use timeout protection now
 [2021-04-17 15:03:50]: ***  [, Level 0]: '(1)Hala Madrid' has left the game (Timeout)
+[2021-04-17 15:04:00]: ***  [, Level 0]: sun.slow(y) finished in: 4 minute(s) 53.40 second(s)
+[2021-04-17 15:04:00]: ***  [, Level 0]: 'sun.slow(y)' finished the special race!
+[2021-04-17 15:04:03]: Random Guy [, Level 40]: Zemer: if you want we can switch our computers
+[2021-04-17 15:04:04]: ***  [, Level 0]: d finished in: 4 minute(s) 54.28 second(s)
+[2021-04-17 15:04:04]: ***  [, Level 0]: 'd' finished the special race!
