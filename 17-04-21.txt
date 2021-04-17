@@ -12993,3 +12993,6 @@
 [2021-04-17 15:50:46]: ***  [, Level 0]: '(1)nameless tee' has left the game
 [2021-04-17 15:50:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-17 15:50:55]: ***  [, Level 0]: 'x7|zemer' entered and joined the game
+[2021-04-17 15:51:08]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-17 15:51:10]: BC|kakashi [BC, Level 0]: Killua:
+[2021-04-17 15:51:11]: ***  [, Level 0]: 'nameless tee' entered and joined the game
