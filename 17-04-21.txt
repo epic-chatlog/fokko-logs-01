@@ -6615,3 +6615,8 @@
 [2021-04-17 08:34:12]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
 [2021-04-17 08:34:16]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: toxicdave.: lmAOOO
 [2021-04-17 08:34:18]: toxicdave. [✡︎, Level 30]: TL|ŦƹƦ$ŦǾN: too long, so i came to play
+[2021-04-17 08:34:20]: f"{self.name}" [, Level 18]: sun.slow(y): why
+[2021-04-17 08:34:22]: GODLIKe [, Level 44]: TL|ŦƹƦ$ŦǾN: bruh
+[2021-04-17 08:34:23]: #5 blocker [|*MorE*|, Level 0]: pls laser
+[2021-04-17 08:34:27]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: i saw tokyo ghoul first season first time
+[2021-04-17 08:34:31]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: i saw tokyo ghoul first season first time toxicdave.
