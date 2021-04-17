@@ -426,3 +426,6 @@
 [2021-04-17 02:12:42]: Ļåҕ Lobster [Ļåҕ, Level 34]: bob: again, really ? :D
 [2021-04-17 02:13:11]: Ļåҕ Lobster [Ļåҕ, Level 34]: Mista bombastic: I have no idea why bob blocks me
 [2021-04-17 02:13:11]: Coca [Drunks, Level 22]: я боюсь его)я всегда в афк встаю
+[2021-04-17 02:13:13]: ***  [, Level 0]: 'Kahve' entered and joined the game
+[2021-04-17 02:13:14]: ***  [, Level 0]: 'Kahve' has left the game
+[2021-04-17 02:13:23]: ***  [, Level 0]: 'Kahve' entered and joined the game
