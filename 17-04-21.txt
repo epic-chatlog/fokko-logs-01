@@ -3112,3 +3112,5 @@
 [2021-04-17 05:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-17 05:35:53]: cookie [, Level 0]: sun.slow(y):  stop
 [2021-04-17 05:35:58]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-17 05:36:01]:   [, Level 0]: Shiro.: Nudelsaft c::
+[2021-04-17 05:36:05]: Nudelsaft c: [FookinLads, Level 0]: yes
