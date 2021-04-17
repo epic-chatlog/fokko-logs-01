@@ -10012,3 +10012,6 @@
 [2021-04-17 11:25:31]: ***  [, Level 0]: 'GODLIKe.' has left the game (Timeout)
 [2021-04-17 11:25:39]: cunt [TrRShClNrRs, Level 0]: Mista bombastic: ISM ASFEADSRW
 [2021-04-17 11:25:40]: cunt [TrRShClNrRs, Level 0]: f<WR$
+[2021-04-17 11:25:47]: ***  [, Level 0]: 'SaMu' entered and joined the game
+[2021-04-17 11:25:49]: Telefantastic [TrRShClNrRs, Level 34]: spec cunt
+[2021-04-17 11:25:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
