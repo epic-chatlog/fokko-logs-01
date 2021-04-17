@@ -11137,3 +11137,9 @@
 [2021-04-17 12:50:49]: Cylox [, Level 32]: sanada
 [2021-04-17 12:50:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-17 12:50:53]: Luna [, Level 0]: (1)Sayme: bb :)
+[2021-04-17 12:50:58]: ***  [, Level 0]: 'praydN' has left the game
+[2021-04-17 12:51:00]: Cylox. [, Level 0]: bays
+[2021-04-17 12:51:03]: [D] ♥TAKO♥ [DogParty, Level 0]: bays
+[2021-04-17 12:51:03]: ***  [, Level 0]: 'tadija picka' entered and joined the game
+[2021-04-17 12:51:04]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-17 12:51:04]: ***  [, Level 0]: 'Cylox.' has left the game
