@@ -11773,3 +11773,9 @@
 [2021-04-17 13:44:34]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-17 13:44:35]: Hunter.exe [DogParty, Level 37]: BLACK: you did
 [2021-04-17 13:44:36]: ZEWO dummy [, Level 0]: El patron: türkmüsün
+[2021-04-17 13:44:37]: ERROR [404, Level 76]: 0delwar ERROR
+[2021-04-17 13:44:38]: BLACK [, Level 26]: Hunter.exe: ppl i know
+[2021-04-17 13:44:41]: BLACK [, Level 26]: Hunter.exe: like woh
+[2021-04-17 13:44:43]: BLACK [, Level 26]: Hunter.exe: like who
+[2021-04-17 13:44:45]: [D] El patron [FookinLads, Level 24]: ZEWO dummy: bisslen
+[2021-04-17 13:44:46]: Killua [FookinLads, Level 37]: ERROR: oh wrong user anyways xD
