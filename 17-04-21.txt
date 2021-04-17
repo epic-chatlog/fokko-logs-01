@@ -6856,3 +6856,7 @@
 [2021-04-17 08:52:47]: ***  [, Level 0]: 'Soros' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-17 08:52:53]: ***  [, Level 0]: '(1)el champeon' has left the game
 [2021-04-17 08:53:00]: ***  [, Level 0]: power's killing spree was ended by Shiro. (6 blocks)
+[2021-04-17 08:53:06]: power [TrRShClNrRs, Level 15]: haha f"{self.name}" :D got them
+[2021-04-17 08:53:07]: toxicdave. [✡︎, Level 30]: El patron: okay wait
+[2021-04-17 08:53:12]: Shiro. [404, Level 43]: ChillerDragon: fat b
+[2021-04-17 08:53:13]: Killua [FookinLads, Level 37]: RQRQRQRQRRQRQRQRQ anime girl
