@@ -2538,3 +2538,5 @@
 [2021-04-17 04:41:58]: Zephir™ [404, Level 40]: BC|kakashi: omg
 [2021-04-17 04:41:59]: Taip [VergleriSay, Level 19]: wtf
 [2021-04-17 04:42:01]: Taip [VergleriSay, Level 19]: xD
+[2021-04-17 04:42:35]: ***  [, Level 0]: '(1)Ƭevan' entered and joined the game
+[2021-04-17 04:42:35]: Zephir™ [404, Level 40]: [D] BC|kakashi: really bad
