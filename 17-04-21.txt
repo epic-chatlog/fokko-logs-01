@@ -7813,3 +7813,7 @@
 [2021-04-17 09:43:34]: ChillerDragon [|*KoG*|, Level 45]: unmuted bob
 [2021-04-17 09:43:41]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-17 09:43:50]: bob [, Level 36]: ChillerDragon: wie unmuted
+[2021-04-17 09:43:53]: bob [, Level 36]: spikey spkey
+[2021-04-17 09:43:54]: ChillerDragon [Chilli.*, Level 45]: hab dich
+[2021-04-17 09:43:57]: ChillerDragon [Chilli.*, Level 45]: du warst mute bob
+[2021-04-17 09:43:59]: lolpoep [Ape, Level 0]: its un fair jou have inf hook
