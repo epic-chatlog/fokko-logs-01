@@ -2318,3 +2318,4 @@
 [2021-04-17 04:23:42]: Meetiteusz [TrRShClNrRs, Level 28]: KURWA
 [2021-04-17 04:23:46]: bob [Legacy™, Level 36]: HAHA
 [2021-04-17 04:23:48]: BC|Tixnix [BC, Level 0]: Falco641: BUT YOU ARE BADKING
+[2021-04-17 04:24:17]: ♥TAKO♥ [DogParty, Level 25]: f"{self.name}":  how ı can use ur clicker
