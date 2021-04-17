@@ -3161,3 +3161,6 @@
 [2021-04-17 05:38:33]: ***  [, Level 0]: [POLICE-CHANNEL] 'H0dƌƔ1' is spawnblocking. Catch him!
 [2021-04-17 05:38:35]: ***  [, Level 0]: 'Tziys*' entered and joined the game
 [2021-04-17 05:38:36]: GODLIKe [, Level 44]: 2 min
+[2021-04-17 05:38:50]:   [, Level 0]: diony: how do i respawn
+[2021-04-17 05:38:53]: ***  [, Level 0]: [RUS] is on a killing spree with 5 blocks
+[2021-04-17 05:38:59]: ***  [, Level 0]: [RUS]'s killing spree was ended by H0dƌƔ1 (5 blocks)
