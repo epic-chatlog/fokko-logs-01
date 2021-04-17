@@ -2222,3 +2222,6 @@
 [2021-04-17 04:15:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-17 04:15:54]: ♥TAKO♥ [DogParty, Level 25]: f"{self.name}":  pls
 [2021-04-17 04:15:54]: bob [Legacy™, Level 36]: Pokemon: f4
+[2021-04-17 04:16:02]: f"{self.name}" [, Level 18]: ♥TAKO♥: ill try :D
+[2021-04-17 04:16:04]: Taip [VergleriSay, Level 19]: f" {self.name}" bro fun war
+[2021-04-17 04:16:06]: ***  [, Level 0]: 'Intensiv_' entered and joined the game
