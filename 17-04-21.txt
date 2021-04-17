@@ -8025,3 +8025,6 @@
 [2021-04-17 09:53:59]: Falco641 [.bad, Level 20]: ChillerDragon.*: wot
 [2021-04-17 09:54:03]: -:-|ML [, Level 0]: xD
 [2021-04-17 09:54:05]: casserole :p [, Level 20]: weqe:  you are not helping me
+[2021-04-17 09:54:08]: ChillerDragon.* [Chilli.*, Level 42]: we have war Falco641
+[2021-04-17 09:54:14]: ***  [, Level 0]: 'Psycho' entered and joined the game
+[2021-04-17 09:54:19]: ChillerDragon.* [Chilli.*, Level 42]: since 4/3 Falco641
