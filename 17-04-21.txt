@@ -12296,3 +12296,6 @@
 [2021-04-17 14:41:02]: Random Guy [, Level 40]: HeavyGeneral: but my parents gonna buy new
 [2021-04-17 14:41:04]: [D] Hunter.exe [DogParty, Level 27]: Cassie: :(
 [2021-04-17 14:41:10]: Cassie [, Level 0]: [D] Hunter.exe: u broke my heart
+[2021-04-17 14:41:14]: [D] Hunter.exe [DogParty, Level 27]: oh
+[2021-04-17 14:41:20]: ***  [, Level 0]: 'woona' entered and joined the game
+[2021-04-17 14:41:23]: ***  [, Level 0]: 'casserole :p' has left the game (Timeout)
