@@ -2257,3 +2257,6 @@
 [2021-04-17 04:18:06]: ***  [, Level 0]: 'BC|serwan' entered and joined the game
 [2021-04-17 04:18:09]: BC|Tixnix [BC, Level 0]: Falco642: NOOB
 [2021-04-17 04:18:11]: Falco642 [, Level 0]: xd
+[2021-04-17 04:18:25]: Taip [VergleriSay, Level 19]: double jump
+[2021-04-17 04:18:25]: (1)Matiteusz [TrRShClNrRs, Level 23]: koro: gaga
+[2021-04-17 04:18:26]: Taip [VergleriSay, Level 19]: or
