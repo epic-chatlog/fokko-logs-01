@@ -12415,3 +12415,5 @@
 [2021-04-17 14:59:23]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-17 14:59:25]: Kenshi™ [404, Level 0]: Random Guy: u want i kill u ?
 [2021-04-17 14:59:32]: Random Guy [, Level 40]: nope you are to weak
+[2021-04-17 14:59:35]: Random Guy [, Level 40]: trust me
+[2021-04-17 14:59:42]: Random Guy [, Level 40]: xd
