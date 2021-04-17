@@ -11249,3 +11249,4 @@
 [2021-04-17 13:02:40]: wolf [[ friends ], Level 0]: bye
 [2021-04-17 13:02:41]: ***  [, Level 0]: 'power' has left the game
 [2021-04-17 13:02:42]: [D] Hunter.exe [DogParty, Level 27]: Killua: ?
+[2021-04-17 13:02:53]: [D] Hunter.exe [DogParty, Level 27]: Zephir™: DONT HELP SOMEONE WHO I KILL MAN
