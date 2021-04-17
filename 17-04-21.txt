@@ -11167,3 +11167,6 @@
 [2021-04-17 12:54:27]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' has left the game (Timeout)
 [2021-04-17 12:54:27]: ***  [, Level 0]: 'Killua' has left the game (Timeout)
 [2021-04-17 12:54:30]: ***  [, Level 0]: 'wolf' entered and joined the game
+[2021-04-17 12:54:32]: Luna [, Level 0]: ik :D
+[2021-04-17 12:54:41]: (1)Sayme [, Level 0]: Luna: come
+[2021-04-17 12:54:42]: ***  [, Level 0]: 'nameless :(' has left the game
