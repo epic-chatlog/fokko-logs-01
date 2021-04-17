@@ -12848,3 +12848,5 @@
 [2021-04-17 15:39:50]: Zephir™ [404, Level 40]: TL|ŦƹƦ$ŦǾN: ??
 [2021-04-17 15:39:50]: ***  [, Level 0]: 'Dnike' entered and joined the game
 [2021-04-17 15:39:54]: BC|Tixnix [BC, Level 35]: Killua: OK
+[2021-04-17 15:40:14]: ***  [, Level 0]: 'Papryk' has left the game
+[2021-04-17 15:40:15]: Zephir™ [404, Level 40]: Killua: ??
