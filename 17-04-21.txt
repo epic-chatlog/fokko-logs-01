@@ -6452,3 +6452,5 @@
 [2021-04-17 08:18:09]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-17 08:18:17]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
 [2021-04-17 08:18:17]: ***  [, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-17 08:18:37]: ***  [, Level 0]: el champeon is on a killing spree with 10 blocks
+[2021-04-17 08:18:37]: ***  [, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
