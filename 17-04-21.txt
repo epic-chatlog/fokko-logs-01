@@ -3001,3 +3001,5 @@
 [2021-04-17 05:25:46]: Falco641 [.bad, Level 20]: lmfao
 [2021-04-17 05:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-17 05:25:51]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-17 05:25:53]: BC|Tixnix [BC, Level 0]: Intensiv: KANN I HAVE
+[2021-04-17 05:25:58]: ***  [, Level 0]: '♥TAKO♥' entered and joined the game
