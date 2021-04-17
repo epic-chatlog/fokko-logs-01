@@ -12260,3 +12260,7 @@
 [2021-04-17 14:38:36]: any [404, Level 38]: HeavyGeneral: hi back !
 [2021-04-17 14:38:39]: Random Guy [, Level 40]: HeavyGeneral: i felling some strange :/
 [2021-04-17 14:38:41]: HeavyGeneral [FookinLads, Level 36]: any: hello sir!
+[2021-04-17 14:38:44]: Zephir™ [404, Level 40]: HeavyGeneral: hello
+[2021-04-17 14:38:45]: HeavyGeneral [FookinLads, Level 36]: Random Guy: wdym
+[2021-04-17 14:38:48]: HeavyGeneral [FookinLads, Level 36]: Zephir™: hello sir
+[2021-04-17 14:38:51]: Random Guy [, Level 40]: HeavyGeneral: i dont sure
