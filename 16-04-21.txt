@@ -13463,3 +13463,4 @@
 [2021-04-16 20:14:35]: (1)☺ [, Level 14]: ah
 [2021-04-16 20:14:54]: (1)☺ [, Level 14]: pour spot he is very cool no
 [2021-04-16 20:14:58]: (1)☺ [, Level 14]: your
+[2021-04-16 20:15:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
