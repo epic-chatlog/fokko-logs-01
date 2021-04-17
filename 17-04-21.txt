@@ -11571,3 +11571,8 @@
 [2021-04-17 13:29:15]: ***  [, Level 0]: ### '[D] ♥TAKO♥' FREEE JET
 [2021-04-17 13:29:15]: ***  [, Level 0]: 'Terra' has left the game (Timeout Protection over)
 [2021-04-17 13:29:15]: ***  [, Level 0]: 'Luna' has left the game (Timeout Protection over)
+[2021-04-17 13:29:18]: ***  [, Level 0]: [D] -:-|ML's killing spree was ended by __init__(self): (15 blocks)
+[2021-04-17 13:29:18]: ***  [, Level 0]: ### '[D] ♥TAKO♥' FREEE JET
+[2021-04-17 13:29:23]: ***  [, Level 0]: 'Terra' entered and joined the game
+[2021-04-17 13:29:23]: S Y T H N [, Level 39]: Salut: crinch
+[2021-04-17 13:29:28]: (1)☺ [, Level 23]: XD
