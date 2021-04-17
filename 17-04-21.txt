@@ -10560,3 +10560,7 @@
 [2021-04-17 12:03:42]: El Monkey [Retard MNKY, Level 0]: wait
 [2021-04-17 12:03:49]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-17 12:03:53]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-17 12:04:09]: Killua [FookinLads, Level 37]: XD
+[2021-04-17 12:04:09]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-17 12:04:11]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-17 12:04:12]: HeavyGeneral [FookinLads, Level 36]: El patron: nobody is ignoring u and stop whispering,i can see everything
