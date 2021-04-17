@@ -11532,3 +11532,5 @@
 [2021-04-17 13:25:21]: Falco641 [.bad, Level 20]: shit
 [2021-04-17 13:25:23]: Falco641 [.bad, Level 20]: El patron:
 [2021-04-17 13:25:27]: Falco641 [.bad, Level 20]: <<<
+[2021-04-17 13:25:40]: Falco641 [.bad, Level 20]: El patron: help?
+[2021-04-17 13:25:47]: Falco641 [.bad, Level 20]: fuck this bot
