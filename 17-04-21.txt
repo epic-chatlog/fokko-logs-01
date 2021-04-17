@@ -3395,3 +3395,5 @@
 [2021-04-17 05:50:24]: Kezo [DogParty, Level 0]: mamikral011: farem bozuk dönmüyo
 [2021-04-17 05:50:29]: [D] mamikral011 [DogParty, Level 0]: Kezo: ok kanka
 [2021-04-17 05:50:32]: ***  [, Level 0]: [D] El patron finished in: 1 minute(s)  8.96 second(s)
+[2021-04-17 05:50:49]: Ðeathscyth [, Level 2]: sun.slow(y): where sleepy?
+[2021-04-17 05:50:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
