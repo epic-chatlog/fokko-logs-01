@@ -12318,3 +12318,7 @@
 [2021-04-17 14:43:15]: Kenshi™ [404, Level 0]: any: ez :D
 [2021-04-17 14:43:15]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
 [2021-04-17 14:43:21]: any² [404, Level 0]: Kenshi™: j'ai 1j -_-
+[2021-04-17 14:43:30]: ***  [, Level 0]: [D] -:-|ML finished in: 1 minute(s) 47.10 second(s)
+[2021-04-17 14:43:30]: ***  [, Level 0]: New record:  9.86 second(s) better.
+[2021-04-17 14:43:30]: BC|Tixnix [BC, Level 35]: bruh: rifel f4
+[2021-04-17 14:43:36]: ***  [, Level 0]: -:-|ML finished in: 2 minute(s) 50.12 second(s)
