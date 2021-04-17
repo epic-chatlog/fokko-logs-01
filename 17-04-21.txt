@@ -12561,3 +12561,6 @@
 [2021-04-17 15:15:08]: ***  [, Level 0]: 'bruh' has left the game
 [2021-04-17 15:15:08]: ***  [, Level 0]: 'rayen' has left the game
 [2021-04-17 15:15:11]: Hunter.exe [DogParty, Level 37]: El Monkey: hab nicht einmal munni
+[2021-04-17 15:15:17]: ***  [, Level 0]: 'rayen' entered and joined the game
+[2021-04-17 15:15:19]: ***  [, Level 0]: 'rayen' has left the game
+[2021-04-17 15:15:20]: El Monkey [Retard MNKY, Level 0]: Hunter.exe:  ja alles schon aufgebraucht nh xD
