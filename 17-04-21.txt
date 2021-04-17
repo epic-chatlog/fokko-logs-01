@@ -12372,3 +12372,6 @@
 [2021-04-17 14:54:14]: El Monkey [Retard MNKY, Level 16]: BLACK:  WTF
 [2021-04-17 14:54:32]: ***  [, Level 0]: 'El Monkey' has left the game
 [2021-04-17 14:54:43]: Random Guy [, Level 40]: Kenshi™: >>>
+[2021-04-17 14:55:02]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-17 14:55:02]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-17 14:55:05]: -:-|ML [, Level 0]: sun.slow(y): its very funny xD
