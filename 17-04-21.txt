@@ -7883,3 +7883,9 @@
 [2021-04-17 09:46:11]: ***  [, Level 0]: 'Kahve' has left the game
 [2021-04-17 09:46:14]: bob [, Level 36]: weqe: maybe 1 2 munchies a week
 [2021-04-17 09:46:15]: ***  [, Level 0]: 'QON QON' joined the game
+[2021-04-17 09:46:22]: ***  [, Level 0]: 'Kahve' entered and joined the game
+[2021-04-17 09:46:23]: #5 blocker [|*MorE*|, Level 24]: xd
+[2021-04-17 09:46:24]: ***  [, Level 0]: 'casserole :p' entered and joined the game
+[2021-04-17 09:46:25]: ChillerDragon [|*KoG*|, Level 45]: i go afk brothers
+[2021-04-17 09:46:29]: ***  [, Level 0]: 'QON QON' joined the spectators
+[2021-04-17 09:46:32]: ***  [, Level 0]: 'QON QON' joined the game
