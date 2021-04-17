@@ -13346,3 +13346,4 @@
 [2021-04-17 16:56:53]: ***  [, Level 0]: [D] taco bell finished in: 7 minute(s) 18.64 second(s)
 [2021-04-17 16:56:58]: ***  [, Level 0]: 'taco bell' finished the special race!
 [2021-04-17 16:57:03]: ***  [, Level 0]: 'BLACK' entered and joined the game
+[2021-04-17 16:58:30]: ***  [, Level 0]: 'El Monkey' entered and joined the game
