@@ -5361,3 +5361,7 @@
 [2021-04-17 07:14:56]: ***  [, Level 0]: 'Ding Dong' has left the game
 [2021-04-17 07:14:58]: ***  [, Level 0]: 'Ding Dong' entered and joined the game
 [2021-04-17 07:15:07]: Bozzkurt [SkinLover, Level 0]: ERROR: hahahaahaa
+[2021-04-17 07:15:12]: Bozzkurt [SkinLover, Level 0]: (1)o: hahaaahahaa
+[2021-04-17 07:15:18]: ***  [, Level 0]: '(2)cookie' has left the game
+[2021-04-17 07:15:20]: ***  [, Level 0]: 'Vodo4ka' entered and joined the game
+[2021-04-17 07:15:20]: bob [Legacy™, Level 36]: Zephir™: u tired yet?
