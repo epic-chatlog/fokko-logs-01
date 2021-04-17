@@ -10830,3 +10830,8 @@
 [2021-04-17 12:24:45]:   [, Level 0]: RM | Arin: xD
 [2021-04-17 12:24:53]:   [, Level 0]: RM | Arin: KMG
 [2021-04-17 12:24:54]: Zephir™ [404, Level 40]: |HolyHo|: fun war ?
+[2021-04-17 12:24:56]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-17 12:25:00]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-17 12:25:00]: ***  [, Level 0]: |HolyHo|°'s killing spree was ended by ☺ (5 blocks)
+[2021-04-17 12:25:01]: Cylox. [{TQuila}, Level 0]: Zephir™: ok
+[2021-04-17 12:25:03]: ***  [, Level 0]: 'RM | Arin' has left the game
