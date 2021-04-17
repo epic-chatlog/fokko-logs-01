@@ -10353,3 +10353,6 @@
 [2021-04-17 11:45:04]: Cylox [{TQuila}, Level 31]: he
 [2021-04-17 11:45:05]: (1)☺ [, Level 25]: any: vien
 [2021-04-17 11:45:39]: (1)SanoreX [Chilli.*, Level 0]: SanoreX:
+[2021-04-17 11:45:48]: Zephir™ [404, Level 40]: any: ta aimer que je te marche dessus ?
+[2021-04-17 11:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-17 11:45:52]: ☺ [, Level 23]: xd
