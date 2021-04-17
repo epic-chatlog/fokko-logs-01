@@ -13024,3 +13024,6 @@
 [2021-04-17 15:52:55]: x7|zemer [xSD7, Level 37]: [D] BC|Tixnix: Gut wie gehts deiner?
 [2021-04-17 15:52:59]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-17 15:53:01]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-17 15:53:07]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-17 15:53:09]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-17 15:53:09]: [D] BC|Tixnix [BC, Level 0]: x7|zemer: auch gut ahmadula
