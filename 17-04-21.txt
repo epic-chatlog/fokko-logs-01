@@ -11180,3 +11180,5 @@
 [2021-04-17 12:55:16]: (1)Sayme [, Level 0]: no jumps, see
 [2021-04-17 12:55:19]: Hunter.exe [DogParty, Level 37]: ✯|Not Bulash: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 [2021-04-17 12:55:25]: (1)Sayme [, Level 0]: yeee
+[2021-04-17 12:55:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-17 12:55:50]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' entered and joined the game
