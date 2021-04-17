@@ -10234,3 +10234,5 @@
 [2021-04-17 11:37:59]: ***  [, Level 0]: 'FullFun' joined the spectators
 [2021-04-17 11:38:04]: ***  [, Level 0]: 'FullFun' has left the game
 [2021-04-17 11:38:08]: ***  [, Level 0]: 'Axel' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-17 11:38:18]: Good man [Drunks, Level 31]: Ƭevan: я же писал через /survival
+[2021-04-17 11:38:21]: power [TrRShClNrRs, Level 0]: srrrryyyy
