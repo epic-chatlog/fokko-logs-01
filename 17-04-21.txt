@@ -6474,3 +6474,6 @@
 [2021-04-17 08:20:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-17 08:20:50]: [D] El patron [, Level 24]: idk
 [2021-04-17 08:20:57]: toxicdave. [✡︎, Level 30]: El patron: ask her
+[2021-04-17 08:21:08]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-17 08:21:08]: toxicdave. [✡︎, Level 30]: El patron: ask her
+[2021-04-17 08:21:12]: [D] El patron [, Level 24]: waht
