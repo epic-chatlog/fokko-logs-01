@@ -6446,3 +6446,5 @@
 [2021-04-17 08:17:31]: ***  [, Level 0]: [D] taco bell finished in: 18 minute(s) 51.72 second(s)
 [2021-04-17 08:17:31]: ***  [, Level 0]: '[D] taco bell' finished the special race!
 [2021-04-17 08:17:52]: ***  [, Level 0]: '(1)☺' entered and joined the game
+[2021-04-17 08:18:00]: ***  [, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-17 08:18:03]: toxicdave. [✡︎, Level 30]: El patron: lol
