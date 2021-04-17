@@ -13428,3 +13428,5 @@
 [2021-04-16 20:02:52]: (1)☺ [, Level 14]: ok
 [2021-04-16 20:03:06]: (1)☺ [, Level 14]: how have 4 dummy
 [2021-04-16 20:03:15]: Kirito [{TQuila}, Level 40]: start ddnet 2 times
+[2021-04-16 20:03:21]: (1)☺ [, Level 14]: euhh
+[2021-04-16 20:03:21]: Kirito [{TQuila}, Level 40]: i have client not from steam
