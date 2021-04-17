@@ -2084,3 +2084,4 @@
 [2021-04-17 04:03:06]: weqe [669, Level 13]: very gay playstyle [D] -:-|ML
 [2021-04-17 04:03:10]: ***  [, Level 0]: ES is on a killing spree with 5 blocks
 [2021-04-17 04:03:10]: ***  [, Level 0]: [POLICE-CHANNEL] 'ES' is spawnblocking. Catch him!
+[2021-04-17 04:03:46]: f"{self.name}" [, Level 18]: ES: lets run
