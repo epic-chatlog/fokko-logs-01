@@ -12050,3 +12050,7 @@
 [2021-04-17 14:09:24]: ZEWO [, Level 0]: Hunter.exe: I'm coming, take me, okay?
 [2021-04-17 14:09:27]: f"{self.name}" [, Level 18]: -:-|ML: well as you would kill me immediately i dont think its good idea
 [2021-04-17 14:09:27]: El Monkey [Retard MNKY, Level 0]: idc
+[2021-04-17 14:09:31]: ZEWO [, Level 0]: Hunter.exe: I'm coming, take me, okay?
+[2021-04-17 14:09:35]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-17 14:09:37]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-17 14:09:37]: Isegrin [, Level 55]: XD
