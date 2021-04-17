@@ -8210,3 +8210,8 @@
 [2021-04-17 10:02:30]: ***  [, Level 0]: 'Psycho' entered and joined the game
 [2021-04-17 10:02:33]: [D] mamikral011 [DogParty, Level 27]: bob: *
 [2021-04-17 10:02:36]: ***  [, Level 0]: 'QON QON' has left the game
+[2021-04-17 10:02:44]: [D] mamikral011 [DogParty, Level 27]: anono
+[2021-04-17 10:02:44]: |HolyHo| [FookinLads, Level 19]: ChillerDragon: ur a idiot
+[2021-04-17 10:02:50]: mamikral011 [DogParty, Level 0]: Bozzkurt: orospu çocu musun sg
+[2021-04-17 10:02:50]: bob [, Level 36]: haha
+[2021-04-17 10:02:53]: ChillerDragon.* [|*KoG*|, Level 42]: why do u insult me |HolyHo|
