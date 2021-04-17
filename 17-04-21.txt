@@ -12479,3 +12479,10 @@
 [2021-04-17 15:05:24]: RM | Arin [Retard MNKY, Level 0]: 100 iq
 [2021-04-17 15:05:29]: [D] El patron [FookinLads, Level 24]: ä-
 [2021-04-17 15:05:34]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-17 15:05:40]: ***  [, Level 0]: [POLICE-CHANNEL] 'BULLETBOT' is spawnblocking. Catch him!
+[2021-04-17 15:05:45]: ***  [, Level 0]: '(1)cunt' entered and joined the game
+[2021-04-17 15:05:45]: ***  [, Level 0]: BULLETBOT is on a killing spree with 5 blocks
+[2021-04-17 15:05:47]: BLACK [, Level 26]: efserfsfes
+[2021-04-17 15:05:49]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-17 15:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 15:05:51]: ***  [, Level 0]: 'El Monkey' entered and joined the game
