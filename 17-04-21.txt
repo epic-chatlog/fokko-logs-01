@@ -12760,3 +12760,5 @@
 [2021-04-17 15:30:47]: BC|kakashi [BC, Level 0]: TL|ŦƹƦ$ŦǾN:
 [2021-04-17 15:30:48]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-17 15:30:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-17 15:30:59]: ***  [, Level 0]: 'any²' has left the game (Timeout)
+[2021-04-17 15:30:59]: ***  [, Level 0]: 'any' has left the game (Timeout)
