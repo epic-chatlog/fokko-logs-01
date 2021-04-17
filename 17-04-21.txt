@@ -11747,3 +11747,4 @@
 [2021-04-17 13:43:26]: ***  [, Level 0]: 'Zemer' has left the game
 [2021-04-17 13:43:27]: ***  [, Level 0]: 'casserole :p' entered and joined the game
 [2021-04-17 13:43:34]: ***  [, Level 0]: 'mr dud' finished the special race!
+[2021-04-17 13:43:35]: ***  [, Level 0]: '(1)☺' finished the special race!
