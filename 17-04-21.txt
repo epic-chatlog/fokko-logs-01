@@ -12287,3 +12287,8 @@
 [2021-04-17 14:40:27]: HeavyGeneral [FookinLads, Level 36]: any: i want to buy huntsman
 [2021-04-17 14:40:45]: HeavyGeneral [FookinLads, Level 36]: Random Guy: hows that
 [2021-04-17 14:40:45]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-17 14:40:47]: HeavyGeneral [FookinLads, Level 36]: Random Guy: bad pc?
+[2021-04-17 14:40:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-17 14:40:50]: Random Guy [, Level 40]: HeavyGeneral: yes
+[2021-04-17 14:40:53]: [D] Hunter.exe [DogParty, Level 27]: Cassie: how dare u
+[2021-04-17 14:40:58]: Cassie [, Level 0]: [D] Hunter.exe: u did first
