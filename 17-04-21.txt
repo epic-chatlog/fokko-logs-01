@@ -12428,3 +12428,5 @@
 [2021-04-17 15:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-17 15:00:54]: BLACK [, Level 26]: like i told u Hunter.exe
 [2021-04-17 15:01:01]: [D] Random Guy [, Level 0]: F
+[2021-04-17 15:01:11]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-17 15:01:17]: ***  [, Level 0]: 'GODLIKe' has left the game
