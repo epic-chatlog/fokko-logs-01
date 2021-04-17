@@ -2324,3 +2324,8 @@
 [2021-04-17 04:24:42]: BC|Tixnix [BC, Level 0]: koro:
 [2021-04-17 04:24:44]: cookie [, Level 21]: oooof
 [2021-04-17 04:24:49]: ölüm bekçisi [, Level 0]: stop
+[2021-04-17 04:24:51]: cookie [, Level 21]: use shotgun
+[2021-04-17 04:24:52]: f"{self.name}" [, Level 18]: ♥TAKO♥: when you open it you must hold space and it will click when you let it it should not
+[2021-04-17 04:24:53]: Intensiv_ [CrazyNoobs, Level 9]: türküm
+[2021-04-17 04:24:56]: bob [Legacy™, Level 36]: Bulbasaur: HELP
+[2021-04-17 04:25:00]: ölüm bekçisi [, Level 0]: tmm
