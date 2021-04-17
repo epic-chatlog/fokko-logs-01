@@ -2349,3 +2349,6 @@
 [2021-04-17 04:26:59]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
 [2021-04-17 04:27:05]: Falco641 [.bad, Level 20]: BC|kakashi: good job
 [2021-04-17 04:27:14]: BC|kakashi [BC, Level 14]: Falco641: LOL
+[2021-04-17 04:27:16]: ***  [, Level 0]: 'Keø' entered and joined the game
+[2021-04-17 04:27:18]: BC|Tixnix [BC, Level 0]: Falco641: HIS ME BROHER
+[2021-04-17 04:27:28]: Ivysaur [, Level 0]: bob: wtf
