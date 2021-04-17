@@ -11920,3 +11920,7 @@
 [2021-04-17 13:52:57]: ***  [, Level 0]: __init__(self): finished in: 5 minute(s)  1.46 second(s)
 [2021-04-17 13:52:59]: Hunter.exe [DogParty, Level 37]: ZEWO: you said help me 10k so if you dont pay 10k to me we have war until you pay
 [2021-04-17 13:53:45]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-17 13:53:48]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-17 13:53:53]: casserole :p [, Level 20]: Kenshi™:
+[2021-04-17 13:53:54]: [D] El patron [FookinLads, Level 24]: Zephir™: ez
+[2021-04-17 13:53:55]: ***  [, Level 0]: 'any' entered and joined the game
