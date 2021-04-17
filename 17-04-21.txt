@@ -13331,3 +13331,4 @@
 [2021-04-17 16:50:48]: ***  [, Level 0]: BULLETBOT is on a killing spree with 5 blocks
 [2021-04-17 16:50:48]: ***  [, Level 0]: [POLICE-CHANNEL] 'BULLETBOT' is spawnblocking. Catch him!
 [2021-04-17 16:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-17 16:51:06]: BULLETBOT [, Level 0]: NXD
