@@ -1348,3 +1348,9 @@
 [2021-04-17 03:22:40]: ***  [, Level 0]: 'ES' entered and joined the game
 [2021-04-17 03:22:41]: ***  [, Level 0]: 'Swarfey' entered and joined the game
 [2021-04-17 03:22:45]: ***  [, Level 0]: 'gocommitlegoste' joined the game
+[2021-04-17 03:22:52]: mamikral011 [DogParty, Level 22]: [D] -:-|ML: war?
+[2021-04-17 03:22:52]: bob [Legacy™, Level 36]: weqe: spike mamikral011
+[2021-04-17 03:22:56]: [D] mamikral011 [DogParty, Level 0]: bob: ???
+[2021-04-17 03:22:59]: ♥TAKO♥ [DogParty, Level 25]: bob:  no
+[2021-04-17 03:22:59]: Kahve [, Level 24]: bob: say to chat "bot"
+[2021-04-17 03:23:01]: [D] mamikral011 [DogParty, Level 0]: bob: noo
