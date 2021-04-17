@@ -11882,3 +11882,5 @@
 [2021-04-17 13:50:39]: ***  [, Level 0]: 'Falco641' has left the game
 [2021-04-17 13:50:39]: mr dud [, Level 0]: I mean
 [2021-04-17 13:50:40]: mr dud [, Level 0]: how
+[2021-04-17 13:50:48]: casserole :p [, Level 20]: Kenshi™: ouais mais jsp qui sont tes enemis...
+[2021-04-17 13:50:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
