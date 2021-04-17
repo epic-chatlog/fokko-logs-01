@@ -8947,3 +8947,7 @@
 [2021-04-17 10:35:18]: ***  [, Level 0]: 'Axel ²' has left the game
 [2021-04-17 10:35:20]: ***  [, Level 0]: 'Cylox' finished the special race!
 [2021-04-17 10:35:21]: ***  [, Level 0]: 'GODLIKe.' has left the game
+[2021-04-17 10:35:25]: ZEWO [, Level 0]: SanoreX: dur
+[2021-04-17 10:35:26]: SanoreX [Chilli.*, Level 27]: ChillerDragon:
+[2021-04-17 10:35:28]: ***  [, Level 0]: 'LordStaude' has left the game
+[2021-04-17 10:35:29]: ***  [, Level 0]: 'OLALAA' entered and joined the game
