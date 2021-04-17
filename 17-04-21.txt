@@ -2235,3 +2235,5 @@
 [2021-04-17 04:16:39]: Taip [VergleriSay, Level 19]: tako
 [2021-04-17 04:16:41]: Taip [VergleriSay, Level 19]: TAKO
 [2021-04-17 04:16:47]: cookie [, Level 21]: Bulbasaur
+[2021-04-17 04:16:48]: Taip [VergleriSay, Level 19]: bro
+[2021-04-17 04:16:57]: Taip [VergleriSay, Level 19]: lul
