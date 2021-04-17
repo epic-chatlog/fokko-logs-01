@@ -6167,3 +6167,10 @@
 [2021-04-17 07:54:15]: ***  [, Level 0]: 'el champeon' has left the game
 [2021-04-17 07:54:15]: ***  [, Level 0]: 'Soros' has left the game
 [2021-04-17 07:54:15]: toxicdave. [✡︎, Level 30]: Vodo4ka: wait
+[2021-04-17 07:54:16]: ***  [, Level 0]: 'el champeon5410' entered and joined the game
+[2021-04-17 07:54:21]: ***  [, Level 0]: 'Soros5887412587' entered and joined the game
+[2021-04-17 07:54:25]: ***  [, Level 0]: 'el champeon5410' has left the game
+[2021-04-17 07:54:25]: ***  [, Level 0]: 'Soros5887412587' has left the game
+[2021-04-17 07:54:26]: ***  [, Level 0]: 'Misa Gobastig' has left the game
+[2021-04-17 07:54:26]: ***  [, Level 0]: 'Gizta Momzastib' has left the game
+[2021-04-17 07:54:27]: Zephir™ [404, Level 40]: cookie: i comeback
