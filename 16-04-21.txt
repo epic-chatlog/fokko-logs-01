@@ -13266,3 +13266,4 @@
 [2021-04-16 18:49:11]: ☺ [, Level 22]: sorry
 [2021-04-16 18:49:19]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-16 18:49:25]: (1)Kirito [, Level 26]: .... just let me do and dont do so stupid things..
+[2021-04-16 18:49:46]: ***  [, Level 0]: 'bob' has left the game
