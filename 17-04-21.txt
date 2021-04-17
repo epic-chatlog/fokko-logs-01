@@ -1344,3 +1344,7 @@
 [2021-04-17 03:22:30]: ***  [, Level 0]: '(1)Falco641' entered and joined the game
 [2021-04-17 03:22:32]: Kahve [, Level 24]: mamikral011: chate bot yazsana
 [2021-04-17 03:22:32]: ***  [, Level 0]: 'gocommitlegoste' joined the game
+[2021-04-17 03:22:39]: ***  [, Level 0]: 'gocommitlegoste' joined the spectators
+[2021-04-17 03:22:40]: ***  [, Level 0]: 'ES' entered and joined the game
+[2021-04-17 03:22:41]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-17 03:22:45]: ***  [, Level 0]: 'gocommitlegoste' joined the game
