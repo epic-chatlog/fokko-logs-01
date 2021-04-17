@@ -2628,3 +2628,10 @@
 [2021-04-17 04:50:52]:   [, Level 0]: (3)MOM: Just Mikael: farm money
 [2021-04-17 04:50:54]:   [, Level 0]: (3)MOM: Just Mikael: buy things
 [2021-04-17 04:50:54]: BC|kakashi [BC, Level 14]: Falco641: why do u speek KEK
+[2021-04-17 04:51:12]: ***  [, Level 0]: 'Hońi' entered and joined the game
+[2021-04-17 04:51:12]: ***  [, Level 0]: '(1)Good man' has left the game
+[2021-04-17 04:51:13]: f"{self.name}" [, Level 18]: Taip: lets go jetpack
+[2021-04-17 04:51:16]: Zephir™ [404, Level 40]: bob: just ez
+[2021-04-17 04:51:17]: ***  [, Level 0]: 'farwits' has left the game
+[2021-04-17 04:51:19]: ***  [, Level 0]: '(3)MOM' has left the game
+[2021-04-17 04:51:20]:   [, Level 0]: bob: Zephir™: i use endless too now
