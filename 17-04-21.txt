@@ -3120,3 +3120,6 @@
 [2021-04-17 05:36:18]: ***  [, Level 0]: 'diony' entered and joined the game
 [2021-04-17 05:36:20]: Nudelsaft c: [FookinLads, Level 0]: ok
 [2021-04-17 05:36:23]: sun.slow(y) [FookinLads, Level 35]: XDDDD
+[2021-04-17 05:36:26]: cookie [, Level 0]: sun.slow(y):  wy man
+[2021-04-17 05:36:27]: sun.slow(y) [FookinLads, Level 35]: cookie: sry little cookie :c
+[2021-04-17 05:36:34]:   [, Level 0]: diony: how do i respawn?
