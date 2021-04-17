@@ -10483,3 +10483,4 @@
 [2021-04-17 11:57:08]: (1)SanoreX [Chilli.*, Level 0]: SanoreX.*:
 [2021-04-17 11:57:12]: (1)SanoreX [Chilli.*, Level 0]: Cylox.: seni blocklasam biraz block geliştircem
 [2021-04-17 11:57:18]: ***  [, Level 0]: '[D] El patron' entered and joined the game
+[2021-04-17 11:57:27]: El patron [, Level 30]: [D] taco bell: help
