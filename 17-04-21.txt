@@ -2531,3 +2531,4 @@
 [2021-04-17 04:41:11]:   [, Level 0]: test: testtest
 [2021-04-17 04:41:16]:   [, Level 0]: test: a
 [2021-04-17 04:41:17]: bob [Legacy™, Level 36]: BC|kakashi: hgelf
+[2021-04-17 04:41:24]: ***  [, Level 0]: bob's killing spree was ended by Zephir™ (7 blocks)
