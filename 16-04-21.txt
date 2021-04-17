@@ -13375,3 +13375,4 @@
 [2021-04-16 19:20:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-16 19:20:54]: ☺ [, Level 23]: bye
 [2021-04-16 19:20:56]: Kirito [{TQuila}, Level 40]: byee
+[2021-04-16 19:22:37]: ☺ [, Level 23]: ah and dont die pls
