@@ -12396,3 +12396,7 @@
 [2021-04-17 14:58:25]: RM | Arin [Retard MNKY, Level 0]: an alle die mich kennen und mögen aka nieman
 [2021-04-17 14:58:25]: -:-|ML [, Level 0]: sun.slow(y): should i open the door right?
 [2021-04-17 14:58:28]: -:-|ML [, Level 0]: sun.slow(y): say please
+[2021-04-17 14:58:32]: sun.slow(y) [FookinLads, Level 35]: -:-|ML: go open
+[2021-04-17 14:58:39]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-17 14:58:40]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-17 14:58:42]: [D] -:-|ML [, Level 0]: sun.slow(y): say please and sorry for the sentence before
