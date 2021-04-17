@@ -6697,3 +6697,5 @@
 [2021-04-17 08:41:49]: #5 blocker [|*MorE*|, Level 0]: El patron: HELP
 [2021-04-17 08:41:50]: ***  [, Level 0]: 'DODO' entered and joined the game
 [2021-04-17 08:41:57]: anime girl [, Level 36]: El patron: help
+[2021-04-17 08:42:06]: anime girl [, Level 36]: El patron: help or ban
+[2021-04-17 08:42:06]: Killua [FookinLads, Level 0]: k woona
