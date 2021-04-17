@@ -11976,3 +11976,6 @@
 [2021-04-17 13:59:57]: ***  [, Level 0]: 'bruh' finished the special race!
 [2021-04-17 14:00:01]: ***  [, Level 0]: 'f"{self.name}"' finished the special race!
 [2021-04-17 14:00:07]: ***  [, Level 0]: '__init__(self):' finished the special race!
+[2021-04-17 14:00:20]: ZEWO dummy [, Level 0]: Hunter.exe: I am Turkish, speak Turkish from translationtranslation
+[2021-04-17 14:00:21]: casserole :p [, Level 20]: Zephir™: ah oui et comment il apprennent a nous connaitre si on nous bloque tt le temps...
+[2021-04-17 14:00:27]: ZEWO dummy [, Level 0]: Hunter.exe: I am Turkish, speak Turkish from translationtranslation
