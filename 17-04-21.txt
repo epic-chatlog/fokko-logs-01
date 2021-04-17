@@ -3049,3 +3049,5 @@
 [2021-04-17 05:30:16]: ♥TAKO♥ [DogParty, Level 25]: WarHammer:  paramı veeeeeeeeeeeeer
 [2021-04-17 05:30:21]: WarHammer' [DogParty, Level 0]: yoo ilk ben aldım
 [2021-04-17 05:30:27]: ♥TAKO♥ [DogParty, Level 25]: o beniiiiiiiiiiiiiiiiiiiiim
+[2021-04-17 05:30:33]: [D] El patron [, Level 0]: f"{self.name}": stop shoot
+[2021-04-17 05:30:36]:   [, Level 0]: WarHammer: ilk ben aldım
