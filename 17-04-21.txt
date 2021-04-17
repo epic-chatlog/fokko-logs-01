@@ -11708,3 +11708,8 @@
 [2021-04-17 13:39:50]: Falco641 [.bad, Level 20]: El patron: go laserrrr
 [2021-04-17 13:40:10]: (1)BLACK [, Level 23]: Hunter.exe: whatt
 [2021-04-17 13:40:13]: [D] ♥TAKO♥ [DogParty, Level 0]: go
+[2021-04-17 13:40:22]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-17 13:40:24]: ***  [, Level 0]: mr dud finished in: 2 minute(s) 28.34 second(s)
+[2021-04-17 13:40:25]: Falco642 [, Level 0]: [D] ♥TAKO♥: u still have the money?
+[2021-04-17 13:40:27]: ***  [, Level 0]: (1)☺ finished in: 2 minute(s) 24.00 second(s)
+[2021-04-17 13:40:29]: f"{self.name}" [, Level 18]: -:-|ML: 1v1
