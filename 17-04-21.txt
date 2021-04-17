@@ -6493,3 +6493,6 @@
 [2021-04-17 08:21:58]: ***  [, Level 0]: 'hhnaut31' entered and joined the game
 [2021-04-17 08:22:12]: ***  [, Level 0]: (1)ChillerDragon's killing spree was ended by nameless tee (6 blocks)
 [2021-04-17 08:22:13]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
+[2021-04-17 08:22:20]: GODLIKe [, Level 44]: free flag
+[2021-04-17 08:22:21]: [D] El patron [, Level 24]: toxicdave.: wait i  think he afk
+[2021-04-17 08:22:27]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' has been caught by 'Lucas' (10 minutes arrest)
