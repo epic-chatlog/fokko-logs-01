@@ -13371,3 +13371,5 @@
 [2021-04-16 19:20:29]: ☺ [, Level 23]: stop
 [2021-04-16 19:20:32]: Kirito [{TQuila}, Level 40]: xD
 [2021-04-16 19:20:35]: Kirito [{TQuila}, Level 40]: that is aim bro
+[2021-04-16 19:20:44]: ☺ [, Level 23]: ok with dummy then
+[2021-04-16 19:20:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
