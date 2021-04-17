@@ -13220,3 +13220,4 @@
 [2021-04-16 16:55:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-16 17:00:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-16 17:05:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-16 17:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
