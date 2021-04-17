@@ -6961,3 +6961,5 @@
 [2021-04-17 09:01:23]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-17 09:01:25]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-17 09:01:27]: Shiro. [404, Level 43]: ez
+[2021-04-17 09:01:35]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: niger.
+[2021-04-17 09:01:39]: ***  [, Level 0]: 'WarHammer' entered and joined the game
