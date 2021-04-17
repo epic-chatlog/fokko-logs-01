@@ -13238,3 +13238,4 @@
 [2021-04-16 17:53:57]: ***  [, Level 0]: '(1)BLACK' has left the game
 [2021-04-16 17:54:12]: ***  [, Level 0]: 'BLACK' has left the game
 [2021-04-16 17:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-16 18:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
