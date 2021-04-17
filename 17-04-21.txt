@@ -144,3 +144,6 @@
 [2021-04-17 01:24:33]: power [TrRShClNrRs, Level 0]: have to go in a min
 [2021-04-17 01:25:45]: GODLIKe [, Level 44]: WTF
 [2021-04-17 01:25:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 01:27:06]: power [TrRShClNrRs, Level 0]: gg
+[2021-04-17 01:27:07]: GODLIKe [, Level 44]: g
+[2021-04-17 01:27:08]: power [TrRShClNrRs, Level 0]: have to go
