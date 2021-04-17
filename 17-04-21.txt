@@ -11235,3 +11235,4 @@
 [2021-04-17 13:01:02]: (2)Salut [, Level 0]: Falco642:
 [2021-04-17 13:01:08]: Falco642 [, Level 0]: (2)Salut: who put you there
 [2021-04-17 13:01:12]: [D] El patron [FookinLads, Level 24]: Hunter.exe: ?
+[2021-04-17 13:01:26]: (2)Salut [, Level 0]: Falco642:  |HolyHo|
