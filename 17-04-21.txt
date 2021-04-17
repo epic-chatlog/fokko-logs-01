@@ -11742,3 +11742,8 @@
 [2021-04-17 13:42:39]: (1)ERROR. [404, Level 0]: hi hi
 [2021-04-17 13:42:47]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: S Y T H N: the chat is connected with my discord bot
 [2021-04-17 13:42:50]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-17 13:43:23]: BLACK [, Level 26]: Hunter.exe: what did i do we dont have war!?
+[2021-04-17 13:43:24]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-17 13:43:26]: ***  [, Level 0]: 'Zemer' has left the game
+[2021-04-17 13:43:27]: ***  [, Level 0]: 'casserole :p' entered and joined the game
+[2021-04-17 13:43:34]: ***  [, Level 0]: 'mr dud' finished the special race!
