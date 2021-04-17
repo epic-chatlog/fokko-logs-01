@@ -10343,3 +10343,4 @@
 [2021-04-17 11:44:02]: ***  [, Level 0]: 'Cylox' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-17 11:44:12]: ***  [, Level 0]: 'Cylox.' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-17 11:44:14]: ***  [, Level 0]: 'Cylox' left the minigame 'Survival'
+[2021-04-17 11:44:28]: ***  [, Level 0]: 'Cylox.' left the minigame 'Survival'
