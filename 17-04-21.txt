@@ -2266,3 +2266,6 @@
 [2021-04-17 04:18:37]: Marcisten [Helper, Level 0]: MOM: hi
 [2021-04-17 04:18:38]: ♥TAKO♥ [DogParty, Level 25]: space + space
 [2021-04-17 04:18:38]: ***  [, Level 0]: 'Friendiship ;-)' has left the game
+[2021-04-17 04:18:41]: (2)MOM [, Level 21]: Marcisten: hi
+[2021-04-17 04:18:45]: Marcisten [Helper, Level 0]: MOM: age?
+[2021-04-17 04:18:50]: (2)MOM [, Level 21]: Marcisten: why
