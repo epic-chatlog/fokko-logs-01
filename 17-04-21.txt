@@ -2830,3 +2830,7 @@
 [2021-04-17 05:09:25]: __init__(self): [, Level 0]: soleri1:
 [2021-04-17 05:09:32]: ***  [, Level 0]: 'Falco642' has left the game
 [2021-04-17 05:09:32]: ***  [, Level 0]: 'Falco641' has left the game
+[2021-04-17 05:09:45]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 45.74 second(s)
+[2021-04-17 05:09:47]: Taip [VergleriSay, Level 19]: kill?
+[2021-04-17 05:09:48]: ***  [, Level 0]: Meetiteusz finished in: 2 minute(s)  5.70 second(s)
+[2021-04-17 05:09:55]: Taip [VergleriSay, Level 19]: f" {self.name}"
