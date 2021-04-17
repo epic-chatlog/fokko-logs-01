@@ -5951,3 +5951,4 @@
 [2021-04-17 07:43:47]: (1)cookie [, Level 4]: bob no
 [2021-04-17 07:43:48]: ***  [, Level 0]: 'Soros' entered and joined the game
 [2021-04-17 07:43:49]: toxicdave. [✡︎, Level 30]: Kezo:  whats with kion
+[2021-04-17 07:43:57]: Kezo [DogParty, Level 39]: toxicdave.: stole moni
