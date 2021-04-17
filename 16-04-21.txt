@@ -13482,3 +13482,4 @@
 [2021-04-16 20:21:27]: (1)Kirito [, Level 26]: i need to get out with my dummy
 [2021-04-16 20:21:38]: (1)Kirito [, Level 26]: shuit
 [2021-04-16 20:21:51]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
+[2021-04-16 20:22:23]: ***  [, Level 0]: '(2)Kirito' has left the game
