@@ -13647,3 +13647,5 @@
 [2021-04-16 23:23:01]: Good man [Drunks, Level 31]: im go)
 [2021-04-16 23:24:13]: Good man [Drunks, Level 31]: wait
 [2021-04-16 23:24:20]: Good man [Drunks, Level 31]: go left
+[2021-04-16 23:24:31]: Good man [Drunks, Level 31]: laser
+[2021-04-16 23:24:35]: Good man [Drunks, Level 31]: rifle
