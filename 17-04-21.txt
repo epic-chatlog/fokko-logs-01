@@ -13263,3 +13263,5 @@
 [2021-04-17 16:23:35]: WarHammer [DogParty, Level 26]: lag
 [2021-04-17 16:24:38]: ***  [, Level 0]: 'BC|Tixnix' left the minigame 'Block'
 [2021-04-17 16:24:42]: ***  [, Level 0]: 'WarHammer' left the minigame 'Block'
+[2021-04-17 16:25:22]: ***  [, Level 0]: BC|serwan is on a killing spree with 5 blocks
+[2021-04-17 16:25:23]: ***  [, Level 0]: '|ΛnץOиe|' entered and joined the game
