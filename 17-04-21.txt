@@ -6953,3 +6953,6 @@
 [2021-04-17 09:01:02]:   [, Level 0]: JustRace: cl_aimbot 1
 [2021-04-17 09:01:04]: Shiro. [404, Level 43]: FDP
 [2021-04-17 09:01:05]: Shiro. [404, Level 43]: T UN PUTE
+[2021-04-17 09:01:11]: woona [, Level 48]: FDNIOSNFDOSIN
+[2021-04-17 09:01:12]:   [, Level 0]: JustRace: cl_aimbot 0
+[2021-04-17 09:01:16]: woona [, Level 48]: hıhı
