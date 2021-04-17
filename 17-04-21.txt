@@ -11298,3 +11298,5 @@
 [2021-04-17 13:06:14]: Falco642 [, Level 0]: |HolyHo|: peace el patron?
 [2021-04-17 13:06:20]: Falco642 [, Level 0]: oh ok
 [2021-04-17 13:06:22]: [D] El patron [FookinLads, Level 24]: Hunter.exe: nim,m an
+[2021-04-17 13:07:04]: ***  [, Level 0]: 'bruh' entered and joined the game
+[2021-04-17 13:07:07]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
