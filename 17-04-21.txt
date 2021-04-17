@@ -1712,3 +1712,6 @@
 [2021-04-17 03:38:43]: Not Zerstrian [, Level 50]: fk off
 [2021-04-17 03:38:47]: ***  [, Level 0]: 'titanfran' has left the game
 [2021-04-17 03:38:57]: [D] BC|Tixnix [BC, Level 26]: MOM: COME
+[2021-04-17 03:38:59]: ***  [, Level 0]: '(1)Kahve' entered and joined the game
+[2021-04-17 03:39:01]: power [TrRShClNrRs, Level 0]: Not Zerstrian:
+[2021-04-17 03:39:06]: Not Zerstrian [, Level 50]: power: you just killed Cylox again
