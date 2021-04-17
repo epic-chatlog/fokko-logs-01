@@ -10557,3 +10557,5 @@
 [2021-04-17 12:03:16]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-17 12:03:29]: ***  [, Level 0]: '(1)casserole :p' has left the game
 [2021-04-17 12:03:30]: ***  [, Level 0]: 'casserole :p' has left the game
+[2021-04-17 12:03:42]: El Monkey [Retard MNKY, Level 0]: wait
+[2021-04-17 12:03:49]: ***  [, Level 0]: 'nameless tee' joined the spectators
