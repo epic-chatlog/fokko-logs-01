@@ -682,3 +682,5 @@
 [2021-04-17 02:38:59]: ***  [, Level 0]: '~De1a Vu~' has left the game
 [2021-04-17 02:39:02]: Falco641 [.bad, Level 20]: braindead more like
 [2021-04-17 02:39:08]: Kahve [, Level 24]: Falco641: say to hi video
+[2021-04-17 02:39:14]: bob [Legacy™, Level 36]: brother welcome my boss
+[2021-04-17 02:39:19]: weqe [669, Level 13]: brother
