@@ -11943,3 +11943,5 @@
 [2021-04-17 13:55:54]: casserole :p [, Level 20]: Zephir™: c est plus ou moins l entierté du serveur
 [2021-04-17 13:56:13]: ***  [, Level 0]: '(1)☺' has left the game
 [2021-04-17 13:56:13]: ***  [, Level 0]: '☺' has left the game
+[2021-04-17 13:56:16]: ***  [, Level 0]: 'mr dud' has left the game
+[2021-04-17 13:56:19]: casserole :p [, Level 20]: Zephir™: qui m aidera si j aide personne
