@@ -7080,3 +7080,10 @@
 [2021-04-17 09:06:29]: ChillerDragon.* [|*KoG*|, Level 42]: wait
 [2021-04-17 09:06:31]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-17 09:06:34]: bob [, Level 36]: toxicdave.:
+[2021-04-17 09:06:38]: toxicdave. [✡︎, Level 30]: bob?
+[2021-04-17 09:06:39]: bob [, Level 36]: give me grenade or war
+[2021-04-17 09:06:39]: JustRace [DogParty, Level 36]: DOOR STUCK
+[2021-04-17 09:06:40]: ***  [, Level 0]: 'kais' entered and joined the game
+[2021-04-17 09:06:42]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-17 09:06:44]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-17 09:06:49]: ***  [, Level 0]: 'jeder' has left the game
