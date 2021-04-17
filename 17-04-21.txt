@@ -2085,3 +2085,4 @@
 [2021-04-17 04:03:10]: ***  [, Level 0]: ES is on a killing spree with 5 blocks
 [2021-04-17 04:03:10]: ***  [, Level 0]: [POLICE-CHANNEL] 'ES' is spawnblocking. Catch him!
 [2021-04-17 04:03:46]: f"{self.name}" [, Level 18]: ES: lets run
+[2021-04-17 04:04:00]: Falco642 [, Level 0]: BC|serwan: go cry
