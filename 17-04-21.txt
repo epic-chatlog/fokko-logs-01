@@ -4182,3 +4182,5 @@
 [2021-04-17 06:28:25]: Zephir™ [404, Level 40]: weqe: ok
 [2021-04-17 06:28:32]: weqe [669, Level 13]: Zephir™: sorry bud but bob is redline
 [2021-04-17 06:28:40]: ***  [, Level 0]: '᠌ ᠌ ᠌᠌' has left the game
+[2021-04-17 06:28:52]: ***  [, Level 0]: Zephir™'s killing spree was ended by weqe (18 blocks)
+[2021-04-17 06:28:53]: ***  [, Level 0]: 'Lokomit' entered and joined the game
