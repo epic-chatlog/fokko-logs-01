@@ -7691,3 +7691,11 @@
 [2021-04-17 09:36:57]: ***  [, Level 0]: 'QON QON' joined the spectators
 [2021-04-17 09:36:57]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-17 09:37:00]: ***  [, Level 0]: 'Nudelsaft c:' changed name to 'Nuwowo'
+[2021-04-17 09:37:00]: ***  [, Level 0]: 'QON QON' joined the game
+[2021-04-17 09:37:01]: ***  [, Level 0]: '[D] El patron' has left the game
+[2021-04-17 09:37:01]: ***  [, Level 0]: 'El patron' has left the game
+[2021-04-17 09:37:02]: #5 blocker [|*MorE*|, Level 24]: (1)ChillerDragon:
+[2021-04-17 09:37:08]: ChillerDragon [Chilli.*, Level 45]: dont ping #5 blocker
+[2021-04-17 09:37:10]: Falco642 [, Level 0]: ChillerDragon: update when
+[2021-04-17 09:37:10]: ChillerDragon [Chilli.*, Level 45]: i see a lot
+[2021-04-17 09:37:11]: #5 blocker [|*MorE*|, Level 24]: ok
