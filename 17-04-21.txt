@@ -355,3 +355,8 @@
 [2021-04-17 02:05:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-17 02:05:56]: ***  [, Level 0]: 'BENJI3103' entered and joined the game
 [2021-04-17 02:06:09]: Meliodas [.bad, Level 24]: NinjaWhite: ... plz
+[2021-04-17 02:06:22]: Coca [Drunks, Level 22]: Ƭevan: отдам флаг за 100 к)покупаешь?
+[2021-04-17 02:06:29]: ***  [, Level 0]: 'Meliodas' finished the special race!
+[2021-04-17 02:06:29]: ***  [, Level 0]: Meliodas finished in: 5 minute(s) 21.40 second(s)
+[2021-04-17 02:06:31]: ***  [, Level 0]: 'Estarossa' finished the special race!
+[2021-04-17 02:06:31]: ***  [, Level 0]: Estarossa finished in: 8 minute(s)  5.44 second(s)
