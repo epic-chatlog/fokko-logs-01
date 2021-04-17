@@ -7787,3 +7787,8 @@
 [2021-04-17 09:42:48]: bob [, Level 36]: my heart
 [2021-04-17 09:42:48]: BLACK [, Level 26]: lolpoep: fun war?
 [2021-04-17 09:42:50]: ***  [, Level 0]: ':' entered and joined the game
+[2021-04-17 09:42:51]: lolpoep [Ape, Level 0]: oke
+[2021-04-17 09:42:57]: bob [, Level 36]: weqe:
+[2021-04-17 09:42:59]: bob [, Level 36]: when u eat
+[2021-04-17 09:43:02]: weqe [669, Level 13]: stfu bob
+[2021-04-17 09:43:03]: bob [, Level 36]: u mad when not eaten
