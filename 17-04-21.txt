@@ -2463,3 +2463,6 @@
 [2021-04-17 04:36:56]: ***  [, Level 0]: [POLICE-CHANNEL] 'ölüm bekçisi' has been caught by 'f"{self.name}"' (10 minutes arrest)
 [2021-04-17 04:37:01]: bob [Legacy™, Level 36]: Falco641:
 [2021-04-17 04:37:03]: ***  [, Level 0]: 'Cylox.' entered and joined the game
+[2021-04-17 04:37:04]: ♥TAKO♥ [DogParty, Level 25]: nereye Not Zewo
+[2021-04-17 04:37:04]:   [, Level 0]: ZEWO: ♥TAKO♥: NEXUS SENİ ÇARIYO
+[2021-04-17 04:37:13]:   [, Level 0]: Zephir™: sun.slow(y): u are annoying
