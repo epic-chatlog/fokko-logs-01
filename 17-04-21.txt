@@ -1417,3 +1417,7 @@
 [2021-04-17 03:24:00]: ***  [, Level 0]: 'El patron' entered and joined the game
 [2021-04-17 03:24:03]: ***  [, Level 0]: 'titanfran' entered and joined the game
 [2021-04-17 03:24:03]: ***  [, Level 0]: 'gocommitlegoste' joined the game
+[2021-04-17 03:24:05]: [D] mamikral011 [DogParty, Level 0]: bob: ? okey
+[2021-04-17 03:24:07]:   [, Level 0]: El patron: Zephir™: omg
+[2021-04-17 03:24:08]: ***  [, Level 0]: '[D] El patron' entered and joined the game
+[2021-04-17 03:24:14]: mamikral011 [DogParty, Level 22]: ♥TAKO♥: aga be
