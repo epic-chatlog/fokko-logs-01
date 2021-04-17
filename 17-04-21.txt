@@ -12698,3 +12698,6 @@
 [2021-04-17 15:25:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-17 15:25:55]: Hunter.exe [DogParty, Level 37]: El Monkey: weil es denkt das man ihm nichts kann
 [2021-04-17 15:25:56]: El Monkey [Retard MNKY, Level 0]: SiEhSt Du MeInE AuGeNRinGe
+[2021-04-17 15:26:05]: ***  [, Level 0]: otaeri is on a killing spree with 5 blocks
+[2021-04-17 15:26:06]: ***  [, Level 0]: 'XxxBgLucas' has left the game
+[2021-04-17 15:26:12]: El Monkey [Retard MNKY, Level 0]: Hunter.exe:  möchtegern rambo
