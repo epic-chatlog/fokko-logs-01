@@ -2001,3 +2001,5 @@
 [2021-04-17 03:56:36]: ***  [, Level 0]: '[D] BC|serwan' has left the game (Timeout)
 [2021-04-17 03:56:36]: ***  [, Level 0]: 'BC|serwan' has left the game (Timeout)
 [2021-04-17 03:56:37]: ♥TAKO♥ [DogParty, Level 25]: GODLIKe:  weqe  ve bob  warya he onlar bok şimdi küfür etçemde oruçluyum
+[2021-04-17 03:56:47]: ***  [, Level 0]: 'Keø' has left the game
+[2021-04-17 03:56:47]: ***  [, Level 0]: 'koro' has left the game
