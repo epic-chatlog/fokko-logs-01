@@ -960,3 +960,7 @@
 [2021-04-17 03:00:37]: power [TrRShClNrRs, Level 0]: left side
 [2021-04-17 03:00:37]: bob [Legacy™, Level 36]: Meliodas: we war
 [2021-04-17 03:00:37]: mamikral011 [DogParty, Level 0]: bob:
+[2021-04-17 03:00:41]: Estarossa [, Level 11]: no
+[2021-04-17 03:00:50]: (1)Coca [Drunks, Level 0]: Ƭevan: Kahve надо убить
+[2021-04-17 03:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-17 03:00:50]: mamikral011 [DogParty, Level 0]: bob: !!!!!!!!!!!!!!!!
