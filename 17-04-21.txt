@@ -3014,3 +3014,7 @@
 [2021-04-17 05:27:46]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-17 05:27:49]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-17 05:27:50]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-17 05:27:55]: CKA3A4NIK[NR] [Night Raid, Level 35]: who u?
+[2021-04-17 05:27:56]: f"{self.name}" [, Level 18]: why
+[2021-04-17 05:27:58]: WarHammer [DogParty, Level 0]: ♥TAKO♥:  1 kere mi hep mi
+[2021-04-17 05:28:02]: CKA3A4NIK[NR] [Night Raid, Level 35]: stop it
