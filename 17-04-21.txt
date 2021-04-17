@@ -2714,3 +2714,6 @@
 [2021-04-17 05:00:29]:   [, Level 0]: bob: bb
 [2021-04-17 05:00:30]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-17 05:00:31]: BC|Tixnix [BC, Level 0]: bob: Xd
+[2021-04-17 05:00:40]: ***  [, Level 0]: '(1)Matiteusz' has left the game
+[2021-04-17 05:00:40]: ***  [, Level 0]: '(1)Meetiteusz' has left the game
+[2021-04-17 05:00:44]: ***  [, Level 0]: 'Cylox' entered and joined the game
