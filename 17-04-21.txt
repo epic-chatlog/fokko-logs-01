@@ -6491,3 +6491,5 @@
 [2021-04-17 08:21:56]: ***  [, Level 0]: '(1)MOM' has left the game (Timeout)
 [2021-04-17 08:21:56]: ***  [, Level 0]: '(2)MOM' has left the game (Timeout)
 [2021-04-17 08:21:58]: ***  [, Level 0]: 'hhnaut31' entered and joined the game
+[2021-04-17 08:22:12]: ***  [, Level 0]: (1)ChillerDragon's killing spree was ended by nameless tee (6 blocks)
+[2021-04-17 08:22:13]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
