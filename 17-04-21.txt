@@ -6461,3 +6461,4 @@
 [2021-04-17 08:19:14]: ***  [, Level 0]: 'Лимонад' has left the game
 [2021-04-17 08:19:14]: ***  [, Level 0]: 'Vodo4ka' has left the game
 [2021-04-17 08:19:24]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-17 08:19:44]: ***  [, Level 0]: 'woona' entered and joined the game
