@@ -10851,3 +10851,5 @@
 [2021-04-17 12:26:02]: ***  [, Level 0]: 'Bluebell Cat' has left the game
 [2021-04-17 12:26:05]: |HolyHo|° [FookinLads, Level 29]: bob: yeah yeah
 [2021-04-17 12:26:06]: ShiroKinght [, Level 0]: StreamerDragon:  ple me dowload link maps blmapchill
+[2021-04-17 12:26:37]: HeavyGeneral [FookinLads, Level 36]: -ingameadd HeavyGeneral
+[2021-04-17 12:26:38]: ***  [, Level 0]: 'ShiroKinght' has left the game
