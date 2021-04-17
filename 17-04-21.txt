@@ -11703,3 +11703,5 @@
 [2021-04-17 13:39:22]: f"{self.name}" [, Level 18]: IwillBlockYou: ?:D:D:D:D:D
 [2021-04-17 13:39:28]: ***  [, Level 0]: -:-|ML is on a killing spree with 5 blocks
 [2021-04-17 13:39:31]: Falco641 [.bad, Level 20]: El patron: go laser me
+[2021-04-17 13:39:37]: S Y T H N [, Level 39]: t..............
+[2021-04-17 13:39:39]: ***  [, Level 0]: [POLICE-CHANNEL] '-:-|ML' is spawnblocking. Catch him!
