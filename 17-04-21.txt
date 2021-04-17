@@ -7863,3 +7863,6 @@
 [2021-04-17 09:45:25]: bob [, Level 36]: noo wtf
 [2021-04-17 09:45:26]: bob [, Level 36]: i
 [2021-04-17 09:45:27]: ***  [, Level 0]: 'QON QON' joined the game
+[2021-04-17 09:45:37]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-17 09:45:41]: mamikral011 [DogParty, Level 0]: WarHammer: sa
+[2021-04-17 09:45:42]: ***  [, Level 0]: 'Treebeard' has left the game
