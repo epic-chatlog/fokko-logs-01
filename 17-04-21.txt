@@ -10763,3 +10763,7 @@
 [2021-04-17 12:20:34]: SanoreX [Chilli.*, Level 27]: Cylox: ben öbür odama gitcem afk
 [2021-04-17 12:20:38]: Cylox. [{TQuila}, Level 0]: tm
 [2021-04-17 12:20:38]: SanoreX [Chilli.*, Level 27]: pc afk durcak
+[2021-04-17 12:20:43]: [D] ♥TAKO♥ [DogParty, Level 0]: lag
+[2021-04-17 12:20:44]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-17 12:20:44]: Cylox. [{TQuila}, Level 0]: ne kadar durcak
+[2021-04-17 12:20:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
