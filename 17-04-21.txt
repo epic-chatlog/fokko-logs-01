@@ -2570,3 +2570,5 @@
 [2021-04-17 04:45:38]: BC|kakashi [BC, Level 14]: bob musst du schon sagen
 [2021-04-17 04:45:50]: ***  [, Level 0]: 'sun.slow(y)' has left the game
 [2021-04-17 04:45:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-17 04:45:59]: ***  [, Level 0]: 'G𝕖𝕝𝕒to' entered and joined the game
+[2021-04-17 04:46:07]: (3)MOM [, Level 23]: Zephir™: thanks
