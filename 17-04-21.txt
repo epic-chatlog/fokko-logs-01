@@ -360,3 +360,8 @@
 [2021-04-17 02:06:29]: ***  [, Level 0]: Meliodas finished in: 5 minute(s) 21.40 second(s)
 [2021-04-17 02:06:31]: ***  [, Level 0]: 'Estarossa' finished the special race!
 [2021-04-17 02:06:31]: ***  [, Level 0]: Estarossa finished in: 8 minute(s)  5.44 second(s)
+[2021-04-17 02:06:33]: ***  [, Level 0]: 'Ding Dong' has left the game
+[2021-04-17 02:06:33]: Estarossa [, Level 11]: tyyu
+[2021-04-17 02:06:36]: ***  [, Level 0]: 'vihandu tee' entered and joined the game
+[2021-04-17 02:06:37]: Coca [Drunks, Level 22]: ладно 50(
+[2021-04-17 02:06:41]: WarHammer [DogParty, Level 26]: ~DemoizL~:  hi
