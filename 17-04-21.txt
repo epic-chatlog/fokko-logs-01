@@ -11534,3 +11534,5 @@
 [2021-04-17 13:25:27]: Falco641 [.bad, Level 20]: <<<
 [2021-04-17 13:25:40]: Falco641 [.bad, Level 20]: El patron: help?
 [2021-04-17 13:25:47]: Falco641 [.bad, Level 20]: fuck this bot
+[2021-04-17 13:25:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-17 13:25:57]: (1)☺ [, Level 23]: je bug
