@@ -2858,3 +2858,4 @@
 [2021-04-17 05:13:36]: ***  [, Level 0]: 'Treebeard' entered and joined the game
 [2021-04-17 05:13:41]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
 [2021-04-17 05:13:55]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
+[2021-04-17 05:13:57]: [D] El patron [, Level 0]: Zephir™:  i think iam to bad for 404
