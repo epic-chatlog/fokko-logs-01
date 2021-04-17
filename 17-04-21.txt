@@ -6122,3 +6122,6 @@
 [2021-04-17 07:51:30]: ***  [, Level 0]: 'Isegrin' has left the game
 [2021-04-17 07:51:32]: Vodo4ka [JB.st, Level 41]: :D
 [2021-04-17 07:51:36]: (1)cookie [, Level 4]: Zephir™:
+[2021-04-17 07:51:40]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
+[2021-04-17 07:51:40]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
+[2021-04-17 07:51:46]:   [, Level 0]: Vodo4ka: :D
