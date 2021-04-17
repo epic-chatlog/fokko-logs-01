@@ -13284,3 +13284,4 @@
 [2021-04-17 16:29:17]: ***  [, Level 0]: 'taco bell' entered and joined the game
 [2021-04-17 16:29:39]: ***  [, Level 0]: '[D] taco bell' entered and joined the game
 [2021-04-17 16:30:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 16:31:10]: ***  [, Level 0]: [POLICE-CHANNEL] 'BC|Tixnix' is spawnblocking. Catch him!
