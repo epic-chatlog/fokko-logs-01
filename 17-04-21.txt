@@ -155,3 +155,5 @@
 [2021-04-17 01:27:25]: power [TrRShClNrRs, Level 0]: cheers
 [2021-04-17 01:27:27]: ***  [, Level 0]: 'power' has left the game
 [2021-04-17 01:28:10]: ***  [, Level 0]: 'Meliodas' entered and joined the game
+[2021-04-17 01:29:03]: ***  [, Level 0]: 'falkenauge' entered and joined the game
+[2021-04-17 01:29:06]: ***  [, Level 0]: '[D] falkenauge' entered and joined the game
