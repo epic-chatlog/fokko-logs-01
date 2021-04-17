@@ -13298,3 +13298,5 @@
 [2021-04-17 16:38:38]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
 [2021-04-17 16:38:47]: ***  [, Level 0]: 'BC|kakashi' has left the game
 [2021-04-17 16:39:02]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
+[2021-04-17 16:39:06]: ***  [, Level 0]: 'BC|kakashi' has left the game
+[2021-04-17 16:39:15]: ***  [, Level 0]: 'kakashi' entered and joined the game
