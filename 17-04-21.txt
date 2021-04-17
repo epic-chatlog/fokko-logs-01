@@ -12858,3 +12858,5 @@
 [2021-04-17 15:40:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-17 15:40:58]: ***  [, Level 0]: 'Dnike' entered and joined the game
 [2021-04-17 15:41:04]: ***  [, Level 0]: 'Dnike' has left the game
+[2021-04-17 15:41:08]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: i need power
+[2021-04-17 15:41:13]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: power: come
