@@ -11952,3 +11952,6 @@
 [2021-04-17 13:57:02]: ***  [, Level 0]: 'power' has left the game
 [2021-04-17 13:57:09]: ZEWO [, Level 0]: BUT I LOVE YOU SO MUCH
 [2021-04-17 13:57:14]: casserole :p [, Level 20]: Zephir™: ok.
+[2021-04-17 13:57:28]: ZEWO dummy [, Level 0]: BUT I LOVE YOU SO MUCH
+[2021-04-17 13:57:32]: __init__(self): [, Level 0]: -:-|ML: looser
+[2021-04-17 13:57:35]: Zephir™ [404, Level 40]: casserole :p: si tu respecte pas je te re avertis pas, je te tue direct sans explications
