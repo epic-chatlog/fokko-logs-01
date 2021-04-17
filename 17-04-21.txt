@@ -2289,3 +2289,8 @@
 [2021-04-17 04:20:13]: bob [Legacy™, Level 36]: GAGA
 [2021-04-17 04:20:15]: ***  [, Level 0]: 'PepeHands' has left the game
 [2021-04-17 04:20:21]: cookie [, Level 21]: tackem
+[2021-04-17 04:20:30]: bob [Legacy™, Level 36]: Bulbasaur: KILL koro !
+[2021-04-17 04:20:31]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-17 04:20:33]: cookie [, Level 21]: tackle
+[2021-04-17 04:20:37]: (1)Matiteusz [TrRShClNrRs, Level 23]: koro: im only pranking people
+[2021-04-17 04:20:38]: cookie [, Level 21]: surf
