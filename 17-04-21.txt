@@ -3068,3 +3068,7 @@
 [2021-04-17 05:31:46]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-17 05:31:49]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-17 05:31:50]: ***  [, Level 0]: '[RUS]' entered and joined the game
+[2021-04-17 05:32:01]: WarHammer [DogParty, Level 26]: ♥TAKO♥:  watafaj 16845
+[2021-04-17 05:32:03]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-17 05:32:03]: ***  [, Level 0]: '__init__(self):' has left the game
+[2021-04-17 05:32:04]: Falco642 [, Level 0]: (1)Kahve: haha yes kill yourself
