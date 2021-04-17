@@ -12883,3 +12883,6 @@
 [2021-04-17 15:43:05]: power [TrRShClNrRs, Level 0]: so stop telling me i started mate BULLETBOT
 [2021-04-17 15:43:14]: [D] BULLETBOT [, Level 0]: mate stfu already
 [2021-04-17 15:43:21]: power [TrRShClNrRs, Level 0]: kk so u wanna fight?
+[2021-04-17 15:43:37]: ***  [, Level 0]: '[D] BULLETBOT' has left the game
+[2021-04-17 15:43:37]: ***  [, Level 0]: 'BULLETBOT' has left the game
+[2021-04-17 15:43:42]: ***  [, Level 0]: 'nameless tee' has left the game (Too weak connection (not acked for 60 seconds))
