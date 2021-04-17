@@ -10417,3 +10417,7 @@
 [2021-04-17 11:49:54]: (1)SanoreX [Chilli.*, Level 0]: Cylox: HELP 5JUMP VAR
 [2021-04-17 11:49:57]: Axel ² [TrRShClNrRs, Level 0]: I tired of seeing it
 [2021-04-17 11:49:58]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-17 11:50:00]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-17 11:50:00]: ☺ [, Level 23]: Kenshi™: bye
+[2021-04-17 11:50:03]: ***  [, Level 0]: 'Cylox' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-17 11:50:10]: ***  [, Level 0]: 'Cylox' left the minigame 'Survival'
