@@ -75,3 +75,4 @@
 [2021-04-17 01:05:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-17 01:07:06]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-17 01:07:59]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-17 01:08:24]: Good man [Drunks, Level 31]: Tom: who did it
