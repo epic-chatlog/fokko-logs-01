@@ -12199,3 +12199,5 @@
 [2021-04-17 14:32:51]: Random Guy [, Level 0]: wtf\
 [2021-04-17 14:32:53]: Random Guy [, Level 0]: ?
 [2021-04-17 14:32:56]: [D] El patron [FookinLads, Level 24]: enem ie
+[2021-04-17 14:33:05]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-17 14:33:08]: Random Guy [, Level 40]: [D] El patron: now yes
