@@ -2533,3 +2533,5 @@
 [2021-04-17 04:41:17]: bob [Legacy™, Level 36]: BC|kakashi: hgelf
 [2021-04-17 04:41:24]: ***  [, Level 0]: bob's killing spree was ended by Zephir™ (7 blocks)
 [2021-04-17 04:41:38]: Falco641 [.bad, Level 20]: bob: rip
+[2021-04-17 04:41:44]: Taip [VergleriSay, Level 19]: i play good?
+[2021-04-17 04:41:55]: f"{self.name}" [, Level 18]: Taip: yeah i think youre better than me XD
