@@ -12055,3 +12055,9 @@
 [2021-04-17 14:09:37]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-17 14:09:37]: Isegrin [, Level 55]: XD
 [2021-04-17 14:09:52]: El Monkey [Retard MNKY, Level 0]: cunt:  xd
+[2021-04-17 14:09:56]: El Monkey [Retard MNKY, Level 0]: MUAHAHHA
+[2021-04-17 14:09:58]: ***  [, Level 0]: 'Astraza' entered and joined the game
+[2021-04-17 14:10:00]: ***  [, Level 0]: 'ZEWO' has left the game
+[2021-04-17 14:10:00]: ***  [, Level 0]: 'ZEWO dummy' has left the game
+[2021-04-17 14:10:00]: ***  [, Level 0]: 'Astraza' has left the game
+[2021-04-17 14:10:03]: [D] -:-|ML [, Level 0]: __init__(self):: so you want to block me but not that i kill you
