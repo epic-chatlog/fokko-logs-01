@@ -1966,3 +1966,8 @@
 [2021-04-17 03:53:45]: ***  [, Level 0]: [POLICE-CHANNEL] 'Falco642' is spawnblocking. Catch him!
 [2021-04-17 03:53:48]: ***  [, Level 0]: 'Isegrin' has left the game (Timeout)
 [2021-04-17 03:53:48]: ***  [, Level 0]: 'Virus' has left the game (Timeout)
+[2021-04-17 03:54:01]: [D] BC|serwan [, Level 0]: bob: warum killst du mich
+[2021-04-17 03:54:01]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-17 03:54:05]: Kahve [, Level 24]: weqe: !!!!!
+[2021-04-17 03:54:08]: weqe [669, Level 13]: Kahve: he brother
+[2021-04-17 03:54:11]: ***  [, Level 0]: Sayme's killing spree was ended by power2 (7 blocks)
