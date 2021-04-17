@@ -5718,3 +5718,7 @@
 [2021-04-17 07:33:17]: |HolyHo| [FookinLads, Level 0]: .: why
 [2021-04-17 07:33:20]: , [TrRShClNrRs, Level 41]: |HolyHo|: what why
 [2021-04-17 07:33:22]: ***  [, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-17 07:33:27]: , [TrRShClNrRs, Level 41]: |HolyHo|: koro is the most annoying kid from everyone
+[2021-04-17 07:33:27]: |HolyHo| [FookinLads, Level 0]: .: he my team mate
+[2021-04-17 07:33:28]: ***  [, Level 0]: 'Ding Dong' entered and joined the game
+[2021-04-17 07:33:28]: ***  [, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
