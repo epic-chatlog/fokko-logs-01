@@ -7227,3 +7227,5 @@
 [2021-04-17 09:14:46]: Falco641 [.bad, Level 20]: Ding Dong: u mad bad
 [2021-04-17 09:14:53]: any [404, Level 38]: kais: salut !
 [2021-04-17 09:14:55]: Nudelsaft c: [FookinLads, Level 60]: aaaaaaaaaa
+[2021-04-17 09:15:03]: Ding Dong [, Level 0]: bob:  i have a question
+[2021-04-17 09:15:08]: ***  [, Level 0]: 'Nudelsaft c:' joined the minigame 'Survival', use '/survival' to join aswell
