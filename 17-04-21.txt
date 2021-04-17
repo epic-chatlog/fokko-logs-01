@@ -10323,3 +10323,6 @@
 [2021-04-17 11:42:17]: (1)SanoreX [Chilli.*, Level 0]: Cylox: /survival ile iç içe sokuluyoz sonra hepsinden full d ye basılı tutarken havayı shotgunluoz hepsinden
 [2021-04-17 11:42:22]: Coca [Drunks, Level 23]: Ƭevan: у меня 31 левел
 [2021-04-17 11:42:23]: (1)SanoreX [Chilli.*, Level 0]: Cylox: /survival ile iç içe sokuluyoz sonra hepsinden full d ye basılı tutarken havayı shotgunluoz hepsinden
+[2021-04-17 11:42:29]: ***  [, Level 0]: 'Axel' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-17 11:42:33]: ***  [, Level 0]: 'Axel' left the minigame 'Survival'
+[2021-04-17 11:42:38]: Coca [Drunks, Level 23]: Ƭevan: ой бля.Ща включу дамика чекну
