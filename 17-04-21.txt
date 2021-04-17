@@ -6174,3 +6174,5 @@
 [2021-04-17 07:54:26]: ***  [, Level 0]: 'Misa Gobastig' has left the game
 [2021-04-17 07:54:26]: ***  [, Level 0]: 'Gizta Momzastib' has left the game
 [2021-04-17 07:54:27]: Zephir™ [404, Level 40]: cookie: i comeback
+[2021-04-17 07:54:38]: Zephir™ [404, Level 40]: power: move
+[2021-04-17 07:54:38]: ***  [, Level 0]: 'el champeon' entered and joined the game
