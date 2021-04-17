@@ -13450,3 +13450,5 @@
 [2021-04-16 20:12:40]: (1)☺ [, Level 14]: s
 [2021-04-16 20:12:41]: Kirito [{TQuila}, Level 40]: it freezes
 [2021-04-16 20:12:48]: Kirito [{TQuila}, Level 40]: yes i let people farm for me in my plot
+[2021-04-16 20:13:01]: Kirito [{TQuila}, Level 40]: so i freeze them there and then stack them with portal
+[2021-04-16 20:13:04]: Kirito [{TQuila}, Level 40]: so they cant flee
