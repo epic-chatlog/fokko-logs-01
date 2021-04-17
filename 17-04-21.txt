@@ -10166,3 +10166,5 @@
 [2021-04-17 11:35:36]: El patron [, Level 30]: Zephir™: ez
 [2021-04-17 11:35:36]: ***  [, Level 0]: 'ES' entered and joined the game
 [2021-04-17 11:35:42]: Good man [Drunks, Level 31]: мы с другом застакали
+[2021-04-17 11:35:47]: Good man [Drunks, Level 31]: я тоже
+[2021-04-17 11:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
