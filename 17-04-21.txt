@@ -454,3 +454,4 @@
 [2021-04-17 02:15:38]: Coca [Drunks, Level 22]: bob: thx
 [2021-04-17 02:15:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-17 02:15:52]: ***  [, Level 0]: '[D] Kahve' entered and joined the game
+[2021-04-17 02:16:03]: falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: Kahve: dude
