@@ -2698,3 +2698,7 @@
 [2021-04-17 04:58:08]:   [, Level 0]: G𝕖l𝕒to*: button
 [2021-04-17 04:58:09]: f"{self.name}" [, Level 18]: Taip: G𝕖𝕝𝕒to helped us
 [2021-04-17 04:58:11]:   [, Level 0]: G𝕖l𝕒to*: fluffy 1
+[2021-04-17 04:58:13]: Taip [VergleriSay, Level 19]: thx
+[2021-04-17 04:58:17]:   [, Level 0]: G𝕖l𝕒to*: :D
+[2021-04-17 04:58:18]: Taip [VergleriSay, Level 19]: oh
+[2021-04-17 04:58:21]: Taip [VergleriSay, Level 19]: button
