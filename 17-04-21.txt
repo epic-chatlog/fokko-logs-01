@@ -53,3 +53,4 @@
 [2021-04-17 00:50:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-17 00:52:06]: ***  [, Level 0]: Good man finished in: 0 minute(s) 56.32 second(s)
 [2021-04-17 00:52:08]: ***  [, Level 0]: Coca finished in: 2 minute(s)  2.16 second(s)
+[2021-04-17 00:52:13]: ***  [, Level 0]: 'Kiøn1029' has left the game
