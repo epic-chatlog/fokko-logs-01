@@ -13633,3 +13633,5 @@
 [2021-04-16 23:20:03]: Good man [Drunks, Level 31]: jump to my hook
 [2021-04-16 23:20:17]: vihandu tee [, Level 0]: Good man:  how to come
 [2021-04-16 23:20:25]: Good man [Drunks, Level 31]: im catch you
+[2021-04-16 23:20:42]: Good man [Drunks, Level 31]: vihandu tee: go)
+[2021-04-16 23:20:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
