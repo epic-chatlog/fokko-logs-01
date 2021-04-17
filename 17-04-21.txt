@@ -2228,3 +2228,5 @@
 [2021-04-17 04:16:14]: BC|serwan [BC, Level 0]: Falco642: shut up ass face
 [2021-04-17 04:16:21]: Taip [VergleriSay, Level 19]: TAKO: fun war
 [2021-04-17 04:16:22]: Taip [VergleriSay, Level 19]: ?
+[2021-04-17 04:16:31]: f"{self.name}" [, Level 18]: ♥TAKO♥: i will have to make it executable first though
+[2021-04-17 04:16:34]: Falco642 [, Level 0]: BC|serwan: karma lmao
