@@ -11626,3 +11626,5 @@
 [2021-04-17 13:33:35]: ***  [, Level 0]: 'ZEWO dummy' entered and joined the game
 [2021-04-17 13:33:43]: (1)☺ [, Level 23]: xD
 [2021-04-17 13:33:50]: Falco642 [, Level 0]: [D] ♥TAKO♥: wtf
+[2021-04-17 13:34:05]: ***  [, Level 0]: [POLICE-CHANNEL] 'IwillBlockYou' is spawnblocking. Catch him!
+[2021-04-17 13:34:08]: ***  [, Level 0]: '(1)Salut' has left the game
