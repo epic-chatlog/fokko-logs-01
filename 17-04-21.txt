@@ -10015,3 +10015,7 @@
 [2021-04-17 11:25:47]: ***  [, Level 0]: 'SaMu' entered and joined the game
 [2021-04-17 11:25:49]: Telefantastic [TrRShClNrRs, Level 34]: spec cunt
 [2021-04-17 11:25:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-17 11:25:54]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-17 11:25:57]: (1)☺ [, Level 25]: taurais pas du Zephir™ *
+[2021-04-17 11:25:58]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
+[2021-04-17 11:25:58]: mamikral011 [DogParty, Level 27]: Telefantastic:
