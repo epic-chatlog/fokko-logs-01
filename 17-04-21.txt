@@ -3087,3 +3087,5 @@
 [2021-04-17 05:33:33]: ♥TAKO♥ [DogParty, Level 25]: WarHammer:  / kill yaz
 [2021-04-17 05:33:38]: ***  [, Level 0]: 'Kezo' entered and joined the game
 [2021-04-17 05:33:41]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-17 05:33:46]: WarHammer [DogParty, Level 26]: ♥TAKO♥:  aldınmı
+[2021-04-17 05:33:49]: ♥TAKO♥ [DogParty, Level 25]: evt
