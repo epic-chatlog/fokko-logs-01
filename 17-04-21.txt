@@ -12457,3 +12457,8 @@
 [2021-04-17 15:03:26]: BLACK [, Level 26]: Good man:
 [2021-04-17 15:03:33]: Random Guy [, Level 40]: xd
 [2021-04-17 15:03:43]: Zephir™ [404, Level 40]: Random Guy: ahahah he say am bad but he can't make the ez race 5 jumps
+[2021-04-17 15:03:49]: ***  [, Level 0]: 'Zemer' has left the game
+[2021-04-17 15:03:49]: ***  [, Level 0]: '(1)BitchPlease J' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-17 15:03:49]: ***  [, Level 0]: 'BitchPlease Jr.' would have timed out, but can use timeout protection now
+[2021-04-17 15:03:49]: ***  [, Level 0]: 'Hala Madrid' would have timed out, but can use timeout protection now
+[2021-04-17 15:03:50]: ***  [, Level 0]: '(1)Hala Madrid' has left the game (Timeout)
