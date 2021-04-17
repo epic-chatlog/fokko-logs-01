@@ -8944,3 +8944,6 @@
 [2021-04-17 10:35:07]: JustRace [DogParty, Level 36]: bad
 [2021-04-17 10:35:07]: BLACK [, Level 26]: bob: so explane to him
 [2021-04-17 10:35:08]: mamikral011 [DogParty, Level 0]: JustRace:
+[2021-04-17 10:35:18]: ***  [, Level 0]: 'Axel ²' has left the game
+[2021-04-17 10:35:20]: ***  [, Level 0]: 'Cylox' finished the special race!
+[2021-04-17 10:35:21]: ***  [, Level 0]: 'GODLIKe.' has left the game
