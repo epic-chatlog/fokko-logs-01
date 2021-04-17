@@ -11364,3 +11364,6 @@
 [2021-04-17 13:12:14]: ***  [, Level 0]: [POLICE-CHANNEL] 'bruh' is spawnblocking. Catch him!
 [2021-04-17 13:12:15]: [D] ♥TAKO♥ [DogParty, Level 0]: Intensiv:  mami mi?!
 [2021-04-17 13:12:18]: Intensiv [CrazyNoobs, Level 15]: evet
+[2021-04-17 13:12:21]: ***  [, Level 0]: '__init__(self):' entered and joined the game
+[2021-04-17 13:12:21]: |HolyHo|° [FookinLads, Level 29]: ☺: what st fu
+[2021-04-17 13:12:29]: ☺ [, Level 26]: stfu |HolyHo| ?
