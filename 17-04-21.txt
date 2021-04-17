@@ -12069,3 +12069,5 @@
 [2021-04-17 14:10:28]: ***  [, Level 0]: 'ZEWO' entered and joined the game
 [2021-04-17 14:10:28]: ***  [, Level 0]: 'ZEWO' has left the game
 [2021-04-17 14:10:44]: Isegrin [, Level 55]: FAK OPF
+[2021-04-17 14:10:50]: [D] -:-|ML [, Level 0]: bruuh
+[2021-04-17 14:10:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
