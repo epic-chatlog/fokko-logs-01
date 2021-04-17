@@ -1559,3 +1559,9 @@
 [2021-04-17 03:30:33]: bob [Legacy™, Level 36]: weqe:  saw headshot portal?
 [2021-04-17 03:30:34]: weqe [669, Level 13]: yes
 [2021-04-17 03:30:45]: [D] mamikral011 [DogParty, Level 0]: Cylox: at bizede
+[2021-04-17 03:30:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-17 03:30:51]: Cylox [{TQuila}, Level 31]: 1 tane var aq
+[2021-04-17 03:30:52]: [D] mamikral011 [DogParty, Level 0]: Cylox: getirsene amk
+[2021-04-17 03:30:57]: Cylox [{TQuila}, Level 31]: 2
+[2021-04-17 03:30:58]:   [, Level 0]: titanfran: what do I dfo
+[2021-04-17 03:30:59]: ♥TAKO♥ [DogParty, Level 25]: Cylox:  orda sınırsınz jet yapabiliyonmu?
