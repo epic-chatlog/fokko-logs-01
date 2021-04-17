@@ -2319,3 +2319,5 @@
 [2021-04-17 04:23:46]: bob [Legacy™, Level 36]: HAHA
 [2021-04-17 04:23:48]: BC|Tixnix [BC, Level 0]: Falco641: BUT YOU ARE BADKING
 [2021-04-17 04:24:17]: ♥TAKO♥ [DogParty, Level 25]: f"{self.name}":  how ı can use ur clicker
+[2021-04-17 04:24:33]: ***  [, Level 0]: 'Rem's bae' entered and joined the game
+[2021-04-17 04:24:35]: bob [Legacy™, Level 36]: Bulbasaur: where u from my friend
