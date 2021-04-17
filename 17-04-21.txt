@@ -13349,3 +13349,4 @@
 [2021-04-17 16:58:30]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-17 16:58:46]: ***  [, Level 0]: 'Good man' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-17 16:58:46]: ***  [, Level 0]: 'Coca' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-17 16:58:55]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
