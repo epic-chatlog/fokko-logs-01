@@ -10215,3 +10215,8 @@
 [2021-04-17 11:37:18]: El patron [, Level 30]: any:  bonus player nub
 [2021-04-17 11:37:18]: ***  [, Level 0]: [POLICE-CHANNEL] '(2)Salut' has been caught by 'casserole :p' (10 minutes arrest)
 [2021-04-17 11:37:19]: (1)SanoreX [Chilli.*, Level 0]: power: pls dont say sanorex my game bugging when u say it
+[2021-04-17 11:37:27]: El patron [, Level 30]: 404 so ez
+[2021-04-17 11:37:27]: SanoreX [Chilli.*, Level 27]: power: /surviv
+[2021-04-17 11:37:28]: power [TrRShClNrRs, Level 0]: wont do it again
+[2021-04-17 11:37:28]: SanoreX [Chilli.*, Level 27]: power: /survivAL
+[2021-04-17 11:37:30]: SanoreX [Chilli.*, Level 27]: power: /survival
