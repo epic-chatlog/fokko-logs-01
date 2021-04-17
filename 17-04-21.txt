@@ -1056,3 +1056,6 @@
 [2021-04-17 03:05:46]: Mista bombastic [TrRShClNrRs, Level 40]: -:-|ML: XD i didnt want to block bob nor weqe
 [2021-04-17 03:05:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-17 03:05:57]: bob [Legacy™, Level 36]: weqe: yes u
+[2021-04-17 03:06:01]: [D] -:-|ML [, Level 0]: Mista bombastic: you blocked him
+[2021-04-17 03:06:07]: [D] -:-|ML [, Level 0]: Mista bombastic: then i killed you
+[2021-04-17 03:06:08]: Mista bombastic [TrRShClNrRs, Level 40]: -:-|ML: cuz he didnt stop
