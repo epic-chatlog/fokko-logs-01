@@ -2934,3 +2934,5 @@
 [2021-04-17 05:20:49]:   [, Level 0]: bob: xd
 [2021-04-17 05:20:49]: Intensiv_ [CrazyNoobs, Level 10]: El patron:  no problem
 [2021-04-17 05:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-17 05:21:02]: BC|Tixnix [BC, Level 0]: Zephir™: BB
+[2021-04-17 05:21:06]: Zephir™ [404, Level 40]: [D] BC|Tixnix: not need xD
