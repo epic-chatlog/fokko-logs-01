@@ -3952,3 +3952,6 @@
 [2021-04-17 06:19:38]:   [, Level 0]: FazTi: wtf
 [2021-04-17 06:19:40]: BULLETBOT [, Level 0]: XD
 [2021-04-17 06:19:41]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-17 06:19:49]: ***  [, Level 0]: 'Shiro,' entered and joined the game
+[2021-04-17 06:19:54]: mamikral011 [DogParty, Level 27]: Kezo: taser
+[2021-04-17 06:19:54]: ***  [, Level 0]: '(1)BitchPlease J' entered and joined the game
