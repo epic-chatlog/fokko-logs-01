@@ -2305,3 +2305,6 @@
 [2021-04-17 04:22:20]: ***  [, Level 0]: 'Jerry' entered and joined the game
 [2021-04-17 04:22:33]: bob [Legacy™, Level 36]: (1)Matiteusz: boring
 [2021-04-17 04:22:39]: Falco642 [, Level 0]: BC|Tixnix: EZZZZ
+[2021-04-17 04:22:44]: (1)Matiteusz [TrRShClNrRs, Level 23]: bob: Maybe for them
+[2021-04-17 04:22:51]: (1)Matiteusz [TrRShClNrRs, Level 23]: bob: im having fun
+[2021-04-17 04:22:52]: BC|Tixnix [BC, Level 0]: Falco642: WOOO I WAS FRESY
