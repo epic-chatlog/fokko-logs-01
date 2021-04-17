@@ -7386,3 +7386,10 @@
 [2021-04-17 09:21:28]: bob [, Level 36]: mala
 [2021-04-17 09:21:30]: ***  [, Level 0]: 'cunt' has left the game
 [2021-04-17 09:21:30]: ***  [, Level 0]: '(1)cunt' has left the game
+[2021-04-17 09:21:36]: #5 blocker [|*MorE*|, Level 24]: gyere mutatom
+[2021-04-17 09:21:39]: ***  [, Level 0]: 'any²' entered and joined the game
+[2021-04-17 09:21:40]: Ding Dong [, Level 0]: [D] taco bell:  how can i buy anything ?
+[2021-04-17 09:21:43]: ***  [, Level 0]: 'guigui' entered and joined the game
+[2021-04-17 09:21:43]: bob [, Level 36]: warte
+[2021-04-17 09:21:46]: bob [, Level 36]: amk
+[2021-04-17 09:21:46]: (2)ChillerDrago [Chilli.*, Level 34]: axd
