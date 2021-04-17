@@ -8372,3 +8372,5 @@
 [2021-04-17 10:09:07]: mamikral011 [DogParty, Level 0]: Axel ²:
 [2021-04-17 10:09:09]: SanoreX [Chilli.*, Level 27]: Mista bombastic: stop be shitty
 [2021-04-17 10:09:11]: bob [, Level 36]: |HolyHo|°: one more and war forever
+[2021-04-17 10:09:17]: ***  [, Level 0]: 'Axel ²' has left the game
+[2021-04-17 10:09:18]: bob [, Level 36]: ok
