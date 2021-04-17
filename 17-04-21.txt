@@ -10694,3 +10694,4 @@
 [2021-04-17 12:15:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-17 12:15:50]: Zephir™ [404, Level 40]: any:
 [2021-04-17 12:15:54]: Zephir™ [404, Level 40]: je t'es appel
+[2021-04-17 12:16:10]: Falco642 [, Level 0]: omg this fucking lag
