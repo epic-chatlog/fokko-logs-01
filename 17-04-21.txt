@@ -3089,3 +3089,6 @@
 [2021-04-17 05:33:41]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
 [2021-04-17 05:33:46]: WarHammer [DogParty, Level 26]: ♥TAKO♥:  aldınmı
 [2021-04-17 05:33:49]: ♥TAKO♥ [DogParty, Level 25]: evt
+[2021-04-17 05:34:02]: ♥TAKO♥ [DogParty, Level 25]: Kezo:  adam
+[2021-04-17 05:34:03]: ***  [, Level 0]: 'CKA3A4NIK[NR]' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-17 05:34:07]: ***  [, Level 0]: 'Coca' entered and joined the game
