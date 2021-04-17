@@ -12502,3 +12502,5 @@
 [2021-04-17 15:08:38]: Random Guy [, Level 40]: El Mo
 [2021-04-17 15:09:07]: Random Guy [, Level 40]: XD
 [2021-04-17 15:09:39]: Zemer [, Level 37]: Hunter.exe: lern mall was dazu ja xD
+[2021-04-17 15:09:47]: Hunter.exe [DogParty, Level 37]: was meinst du?
+[2021-04-17 15:09:51]: [D] El patron [FookinLads, Level 24]: Zemer: lern to write
