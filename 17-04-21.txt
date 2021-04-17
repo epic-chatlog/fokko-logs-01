@@ -10088,3 +10088,5 @@
 [2021-04-17 11:30:19]: ***  [, Level 0]: 'soleri1' entered and joined the game
 [2021-04-17 11:30:33]: SanoreX.* [Chilli.*, Level 22]: cunt: try to hook me HAHA
 [2021-04-17 11:30:41]: cunt [TrRShClNrRs, Level 0]: SanoreX: i wont HAAHAHAHAA
+[2021-04-17 11:30:49]: SanoreX [Chilli.*, Level 27]: cunt: try pl
+[2021-04-17 11:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
