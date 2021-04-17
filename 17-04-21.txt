@@ -13332,3 +13332,4 @@
 [2021-04-17 16:50:48]: ***  [, Level 0]: [POLICE-CHANNEL] 'BULLETBOT' is spawnblocking. Catch him!
 [2021-04-17 16:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-17 16:51:06]: BULLETBOT [, Level 0]: NXD
+[2021-04-17 16:51:53]: ***  [, Level 0]: taco bell finished in: 22 minute(s)  0.36 second(s)
