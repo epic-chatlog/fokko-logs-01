@@ -10155,3 +10155,7 @@
 [2021-04-17 11:34:54]: ***  [, Level 0]: 'Ding Dong' has left the game
 [2021-04-17 11:35:10]: power [TrRShClNrRs, Level 0]: stop |HolyHo| i wanna cuddle u
 [2021-04-17 11:35:18]: Telefantastic [TrRShClNrRs, Level 34]: timeout AAAAAAAAA
+[2021-04-17 11:35:19]: ***  [, Level 0]: '(1)SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-17 11:35:21]: Coca [Drunks, Level 23]: хз
+[2021-04-17 11:35:23]: ***  [, Level 0]: '(1)SanoreX' left the minigame 'Survival'
+[2021-04-17 11:35:29]: ***  [, Level 0]: 'SanoreX.*' left the minigame 'Survival'
