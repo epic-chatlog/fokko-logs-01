@@ -12136,3 +12136,6 @@
 [2021-04-17 14:20:11]: ***  [, Level 0]: 'El Monkey' has left the game
 [2021-04-17 14:20:13]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-17 14:20:14]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-17 14:20:18]: [D] El patron [FookinLads, Level 24]: rq
+[2021-04-17 14:20:22]: RM | Arin [Retard MNKY, Level 0]: not rq
+[2021-04-17 14:20:25]: RM | Arin [Retard MNKY, Level 0]: my dummy
