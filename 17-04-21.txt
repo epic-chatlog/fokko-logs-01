@@ -2040,3 +2040,8 @@
 [2021-04-17 03:58:53]: ***  [, Level 0]: 'power2' has left the game
 [2021-04-17 03:58:53]: ***  [, Level 0]: 'power' has left the game
 [2021-04-17 03:59:05]: weqe [669, Level 13]: Mista bombastic: PLS BE MY BOYFRIEND PLS PLS
+[2021-04-17 03:59:17]: ♥TAKO♥ [DogParty, Level 25]: WTF
+[2021-04-17 03:59:20]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-17 03:59:25]: ***  [, Level 0]: 'Luna' has left the game (Timeout)
+[2021-04-17 03:59:25]: ***  [, Level 0]: 'Terra' has left the game (Timeout)
+[2021-04-17 03:59:28]: ***  [, Level 0]: '(1)BC|serwan' entered and joined the game
