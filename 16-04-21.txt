@@ -13331,3 +13331,5 @@
 [2021-04-16 19:10:31]: Kirito [{TQuila}, Level 40]: i have it idc about others fuck others
 [2021-04-16 19:10:35]: Kirito [{TQuila}, Level 40]: ☺: so do i
 [2021-04-16 19:10:35]: ☺ [, Level 23]: ok ok
+[2021-04-16 19:10:45]: Kirito [{TQuila}, Level 40]: xD
+[2021-04-16 19:10:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
