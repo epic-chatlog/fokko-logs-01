@@ -2427,3 +2427,6 @@
 [2021-04-17 04:34:59]: bob [Legacy™, Level 36]: BC|kakashi: ihr habt war
 [2021-04-17 04:35:02]: ***  [, Level 0]: 'Rem's dummy' entered and joined the game
 [2021-04-17 04:35:11]: Falco642 [, Level 0]: [D] BC|kakashi: ez
+[2021-04-17 04:35:19]: ***  [, Level 0]: 'farwits' entered and joined the game
+[2021-04-17 04:35:23]: ***  [, Level 0]: 'farwits' has left the game
+[2021-04-17 04:35:23]: bob [Legacy™, Level 36]: Falco641: why u block him
