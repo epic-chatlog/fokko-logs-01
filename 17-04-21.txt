@@ -1848,3 +1848,4 @@
 [2021-04-17 03:45:10]: bob [Legacy™, Level 36]: Estarossa: sorry?
 [2021-04-17 03:45:15]: Estarossa [, Level 11]: bob: ya
 [2021-04-17 03:45:41]: ***  [, Level 0]: Swarfey is on a killing spree with 10 blocks
+[2021-04-17 03:45:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
