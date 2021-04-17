@@ -2675,3 +2675,6 @@
 [2021-04-17 04:56:10]: BC|Tixnix [BC, Level 0]: bob: DAS KOMMT DAVON
 [2021-04-17 04:56:10]:   [, Level 0]: bob: ok pls stp talking now
 [2021-04-17 04:56:19]: Zephir™ [404, Level 40]: bob: just bad god nobo
+[2021-04-17 04:56:26]:   [, Level 0]: bob: ok just psht
+[2021-04-17 04:56:27]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
+[2021-04-17 04:56:27]:   [, Level 0]: bob: xd
