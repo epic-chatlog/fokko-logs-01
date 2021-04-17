@@ -3566,3 +3566,5 @@
 [2021-04-17 06:00:01]: ***  [, Level 0]: '[D] mamikral011' finished the special race!
 [2021-04-17 06:00:01]: ***  [, Level 0]: [D] mamikral011 finished in: 4 minute(s) 11.50 second(s)
 [2021-04-17 06:00:01]: ***  [, Level 0]: New record: 1 minute(s) 14.80 second(s) better.
+[2021-04-17 06:00:14]: weqe [669, Level 13]: Isegrin: tell me how much u love me
+[2021-04-17 06:00:15]: Isegrin [, Level 55]: weqe: da
