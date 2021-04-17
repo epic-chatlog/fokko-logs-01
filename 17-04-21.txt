@@ -13288,3 +13288,4 @@
 [2021-04-17 16:32:18]: ***  [, Level 0]: '[D] BC|Tixnix' entered and joined the game
 [2021-04-17 16:33:07]: ***  [, Level 0]: [POLICE-CHANNEL] 'BC|kakashi' is spawnblocking. Catch him!
 [2021-04-17 16:35:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-17 16:36:39]: ***  [, Level 0]: [POLICE-CHANNEL] 'BC|kakashi' is spawnblocking. Catch him!
