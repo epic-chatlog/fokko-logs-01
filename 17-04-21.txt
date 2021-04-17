@@ -9810,3 +9810,7 @@
 [2021-04-17 11:15:24]: SanoreX [Chilli.*, Level 27]: Good man: come my plot I idea XD
 [2021-04-17 11:15:25]: SanoreX [Chilli.*, Level 27]: pls
 [2021-04-17 11:15:27]: cunt [TrRShClNrRs, Level 0]: Mista bombastic: dick
+[2021-04-17 11:15:30]: SanoreX [Chilli.*, Level 27]: Good man: survival
+[2021-04-17 11:15:30]: Good man [Drunks, Level 31]: no SanoreX
+[2021-04-17 11:15:33]: ***  [, Level 0]: 'sun.slow(y)' has left the game
+[2021-04-17 11:15:39]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Block', use '/block' to join aswell
