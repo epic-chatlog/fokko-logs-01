@@ -10573,3 +10573,4 @@
 [2021-04-17 12:04:50]: ***  [, Level 0]: 'ehhe' entered and joined the game
 [2021-04-17 12:05:03]: Cylox. [{TQuila}, Level 0]: HEHE
 [2021-04-17 12:05:12]: ***  [, Level 0]: 'ehhe' has left the game
+[2021-04-17 12:05:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
