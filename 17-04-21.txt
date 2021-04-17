@@ -7142,3 +7142,5 @@
 [2021-04-17 09:10:09]: (1)ChillerDrago [Chilli.*, Level 33]: aaaaaaaaaaaaaaaaaa
 [2021-04-17 09:10:12]: bob [, Level 36]: amk
 [2021-04-17 09:10:13]: (1)ChillerDrago [|*KoG*|, Level 33]: sry brother
+[2021-04-17 09:10:26]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-17 09:10:28]: ***  [, Level 0]: '[D] #5 blocker' has left the game
