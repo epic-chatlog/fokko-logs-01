@@ -6373,3 +6373,7 @@
 [2021-04-17 08:11:16]: Kezo [DogParty, Level 39]: |HolyHo|: i dont care we have war now you betryt me 3
 [2021-04-17 08:11:19]: ***  [, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
 [2021-04-17 08:11:20]: [D] El patron [, Level 24]: wt
+[2021-04-17 08:11:34]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
+[2021-04-17 08:11:37]: ***  [, Level 0]: Kezo is on a killing spree with 5 blocks
+[2021-04-17 08:11:37]: ***  [, Level 0]: [POLICE-CHANNEL] 'Kezo' is spawnblocking. Catch him!
+[2021-04-17 08:11:38]: ***  [, Level 0]: [POLICE-CHANNEL] 'Kezo' has been caught by 'Nudelsaft c:' (10 minutes arrest)
