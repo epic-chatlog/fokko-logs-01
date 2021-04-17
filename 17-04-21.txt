@@ -2611,3 +2611,6 @@
 [2021-04-17 04:49:53]: ***  [, Level 0]: 'bully' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-17 04:49:56]:   [, Level 0]: G𝕖𝕝𝕒to: little bit hight :/
 [2021-04-17 04:49:57]: ***  [, Level 0]: '(3)MOM' joined the minigame 'Instagib FNG', use '/fng' to join aswell
+[2021-04-17 04:50:03]:   [, Level 0]: bob: G𝕖𝕝𝕒to: u smoking ?
+[2021-04-17 04:50:05]: ***  [, Level 0]: Chillingo's killing spree was ended by bully (5 blocks)
+[2021-04-17 04:50:08]: ***  [, Level 0]: '(3)MOM' left the minigame 'Instagib FNG'
