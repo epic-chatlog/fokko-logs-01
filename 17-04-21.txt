@@ -6865,3 +6865,7 @@
 [2021-04-17 08:53:30]: f"{self.name}" [, Level 18]: (1)ChillerDragon: why
 [2021-04-17 08:53:30]: hhnaut31 [, Level 43]: Shiro.:
 [2021-04-17 08:53:37]: Shiro. [404, Level 43]: fuck off self name and power
+[2021-04-17 08:53:39]: ***  [, Level 0]: 'Player' entered and joined the game
+[2021-04-17 08:53:43]: (2)ChillerDrago [Chilli.*, Level 34]: i block ghosts
+[2021-04-17 08:53:50]: hhnaut31 [, Level 43]: Shiro.: come here look money xd
+[2021-04-17 08:53:51]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
