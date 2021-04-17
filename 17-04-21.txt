@@ -2603,3 +2603,6 @@
 [2021-04-17 04:49:18]: ***  [, Level 0]: '(3)MOM' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-17 04:49:20]: Zephir™ [404, Level 40]: [D] BC|kakashi: idc nob u help bob
 [2021-04-17 04:49:27]: ***  [, Level 0]: '(3)MOM' left the minigame 'Survival'
+[2021-04-17 04:49:34]: BC|kakashi [BC, Level 14]: Zephir™: he is my friend
+[2021-04-17 04:49:36]: ***  [, Level 0]: '(3)MOM' joined the minigame 'Instagib Boom FNG', use '/boomfng' to join aswell
+[2021-04-17 04:49:45]: ***  [, Level 0]: '(3)MOM' left the minigame 'Instagib Boom FNG'
