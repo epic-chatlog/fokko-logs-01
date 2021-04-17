@@ -429,3 +429,6 @@
 [2021-04-17 02:13:13]: ***  [, Level 0]: 'Kahve' entered and joined the game
 [2021-04-17 02:13:14]: ***  [, Level 0]: 'Kahve' has left the game
 [2021-04-17 02:13:23]: ***  [, Level 0]: 'Kahve' entered and joined the game
+[2021-04-17 02:13:31]: Coca [Drunks, Level 22]: Ƭevan: ну у него есть портал.Он бы спайкнул тех челов
+[2021-04-17 02:13:31]: Ƭevan [TrRShClNrRs, Level 49]: ага
+[2021-04-17 02:13:35]: Meetiteusz [TrRShClNrRs, Level 28]: Mista bombastic: bob will not be happy :C
