@@ -2646,3 +2646,5 @@
 [2021-04-17 04:52:50]: ***  [, Level 0]: 'bully' left the minigame 'Block'
 [2021-04-17 04:53:07]: BC|Tixnix [BC, Level 0]: Zephir™: BC|kakashi SPIKEß
 [2021-04-17 04:53:11]:   [, Level 0]: G𝕖l𝕒to*: BC|serwan:
+[2021-04-17 04:53:22]: Zephir™ [404, Level 40]: [D] BC|Tixnix: first i kill bob
+[2021-04-17 04:53:25]: BC|kakashi [BC, Level 14]: BC|Tixnix: Du Hurensohn
