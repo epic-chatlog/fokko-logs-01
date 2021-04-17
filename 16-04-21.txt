@@ -13264,3 +13264,5 @@
 [2021-04-16 18:49:03]: (1)Kirito [, Level 26]: OMG WHY U HOOK ME
 [2021-04-16 18:49:06]: (1)Kirito [, Level 26]: DUDE
 [2021-04-16 18:49:11]: ☺ [, Level 22]: sorry
+[2021-04-16 18:49:19]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-16 18:49:25]: (1)Kirito [, Level 26]: .... just let me do and dont do so stupid things..
