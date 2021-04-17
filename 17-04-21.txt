@@ -2797,3 +2797,4 @@
 [2021-04-17 05:06:36]: f"{self.name}" [, Level 18]: :(:(:(:(;(
 [2021-04-17 05:06:40]: Taip [VergleriSay, Level 19]: im sory
 [2021-04-17 05:06:50]: Zephir™ [404, Level 40]: El patron: u have deposite money Matiteusz in back ?
+[2021-04-17 05:06:58]: ***  [, Level 0]: 'G𝕖l𝕒to*' has left the game
