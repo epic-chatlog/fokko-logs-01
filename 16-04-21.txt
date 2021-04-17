@@ -13389,3 +13389,5 @@
 [2021-04-16 19:40:23]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
 [2021-04-16 19:40:28]: Kirito [{TQuila}, Level 40]: xDD
 [2021-04-16 19:40:31]: (2)Kirito [{TQuila}, Level 0]: what
+[2021-04-16 19:40:45]: ***  [, Level 0]: '(2)Kirito' has left the game
+[2021-04-16 19:40:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
