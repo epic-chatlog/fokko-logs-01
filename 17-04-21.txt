@@ -1998,3 +1998,6 @@
 [2021-04-17 03:55:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-17 03:55:53]: ♥TAKO♥ [DogParty, Level 25]: bob:  ok
 [2021-04-17 03:55:54]: ***  [, Level 0]: [POLICE-CHANNEL] 'power2' is spawnblocking. Catch him!
+[2021-04-17 03:56:36]: ***  [, Level 0]: '[D] BC|serwan' has left the game (Timeout)
+[2021-04-17 03:56:36]: ***  [, Level 0]: 'BC|serwan' has left the game (Timeout)
+[2021-04-17 03:56:37]: ♥TAKO♥ [DogParty, Level 25]: GODLIKe:  weqe  ve bob  warya he onlar bok şimdi küfür etçemde oruçluyum
