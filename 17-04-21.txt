@@ -10225,3 +10225,9 @@
 [2021-04-17 11:37:41]: ☺ [, Level 23]: nooooooooooooon
 [2021-04-17 11:37:43]: ***  [, Level 0]: '(1)SanoreX' left the minigame 'Survival'
 [2021-04-17 11:37:43]: Good man [Drunks, Level 31]: Ƭevan: деньги та есть у меня).а вот paypa; нут
+[2021-04-17 11:37:48]: SanoreX.* [Chilli.*, Level 22]: leave
+[2021-04-17 11:37:50]: ***  [, Level 0]: 'SanoreX.*' left the minigame 'Survival'
+[2021-04-17 11:37:55]: ***  [, Level 0]: 'mamikral011' has left the game (Timeout Protection over)
+[2021-04-17 11:37:56]: ***  [, Level 0]: 'power' left the minigame 'Survival'
+[2021-04-17 11:37:57]: SanoreX.* [Chilli.*, Level 22]: power: hold d
+[2021-04-17 11:37:58]: Good man [Drunks, Level 31]: Ƭevan: /spec SanoreX так же
