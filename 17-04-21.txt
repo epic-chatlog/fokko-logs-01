@@ -13027,3 +13027,6 @@
 [2021-04-17 15:53:07]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-17 15:53:09]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-17 15:53:09]: [D] BC|Tixnix [BC, Level 0]: x7|zemer: auch gut ahmadula
+[2021-04-17 15:53:18]: x7|zemer [xSD7, Level 37]: [D] BC|Tixnix: Fastets du?
+[2021-04-17 15:53:24]: [D] BC|Tixnix [BC, Level 0]: x7|zemer: nomal
+[2021-04-17 15:53:24]: El Monkey [Retard MNKY, Level 0]: ahmadula? xD
