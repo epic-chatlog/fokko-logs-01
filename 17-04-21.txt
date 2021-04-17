@@ -13093,3 +13093,8 @@
 [2021-04-17 15:57:54]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-17 15:57:55]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-17 15:57:57]: RM | Arin [Retard MNKY, Level 16]: das war lost
+[2021-04-17 15:57:57]: [D] BC|Tixnix [BC, Level 0]: RM | Arin: lost
+[2021-04-17 15:58:02]: RM | Arin [Retard MNKY, Level 16]: hehe
+[2021-04-17 15:58:02]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-17 15:58:04]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-17 15:58:07]: RM | Arin [Retard MNKY, Level 16]: Wtf
