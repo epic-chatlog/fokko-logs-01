@@ -455,3 +455,6 @@
 [2021-04-17 02:15:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-17 02:15:52]: ***  [, Level 0]: '[D] Kahve' entered and joined the game
 [2021-04-17 02:16:03]: falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: Kahve: dude
+[2021-04-17 02:16:10]: Kahve [, Level 24]: Ðream:
+[2021-04-17 02:16:11]: [D] Kahve [, Level 19]: ?
+[2021-04-17 02:16:12]: falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: Kahve: pls:(
