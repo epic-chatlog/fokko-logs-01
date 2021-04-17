@@ -11046,3 +11046,8 @@
 [2021-04-17 12:40:47]: Luna [, Level 0]: ok
 [2021-04-17 12:40:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-17 12:40:52]: SanoreX [Chilli.*, Level 27]: Killua: help and I give 17k
+[2021-04-17 12:41:04]: [D] El patron [FookinLads, Level 24]: Zephir™: ez
+[2021-04-17 12:41:08]: (1)Sayme [, Level 0]: stop
+[2021-04-17 12:41:09]: ***  [, Level 0]: 'SanoreX' has left the game
+[2021-04-17 12:41:11]: Luna [, Level 0]: ok
+[2021-04-17 12:41:14]: [D] El patron [FookinLads, Level 24]: any²: gay
