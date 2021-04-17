@@ -11202,3 +11202,7 @@
 [2021-04-17 12:58:19]: [D] El patron [FookinLads, Level 24]: Killua:  10k
 [2021-04-17 12:58:21]: Hunter.exe [DogParty, Level 37]: Killua: gea
 [2021-04-17 12:58:25]: Killua [FookinLads, Level 37]: no
+[2021-04-17 12:58:28]: Hunter.exe [DogParty, Level 37]: Killua: why
+[2021-04-17 12:58:33]: Killua [FookinLads, Level 37]: Hunter.exe: arnt we war?
+[2021-04-17 12:58:40]: Falco642 [, Level 0]: [D] ♥TAKO♥:
+[2021-04-17 12:58:40]: Hunter.exe [DogParty, Level 37]: Killua: no why?
