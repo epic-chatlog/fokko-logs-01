@@ -620,3 +620,7 @@
 [2021-04-17 02:30:15]: Zephir™ [404, Level 40]: Falco641:
 [2021-04-17 02:30:19]: Ƭevan [TrRShClNrRs, Level 49]: Круто)
 [2021-04-17 02:30:25]: Ƭevan [TrRShClNrRs, Level 49]: Надеюсь никто сюда не полезет)
+[2021-04-17 02:30:26]: ***  [, Level 0]: '(1)Coca' has left the game
+[2021-04-17 02:30:33]: Falco642 [, Level 0]: Zephir™: ?
+[2021-04-17 02:30:35]: Coca [Drunks, Level 22]: полезет)
+[2021-04-17 02:30:37]: Coca [Drunks, Level 22]: ещё как)
