@@ -13301,3 +13301,4 @@
 [2021-04-16 19:00:26]: ☺ [, Level 23]: Kirito:
 [2021-04-16 19:00:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 19:01:45]: ☺ [, Level 23]: no Kirito the red flag
+[2021-04-16 19:01:55]: Kirito [{TQuila}, Level 40]: ☺: go and take it
