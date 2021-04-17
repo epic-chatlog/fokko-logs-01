@@ -11975,3 +11975,4 @@
 [2021-04-17 13:59:57]: ***  [, Level 0]: New record: 13 minute(s)  6.56 second(s) better.
 [2021-04-17 13:59:57]: ***  [, Level 0]: 'bruh' finished the special race!
 [2021-04-17 14:00:01]: ***  [, Level 0]: 'f"{self.name}"' finished the special race!
+[2021-04-17 14:00:07]: ***  [, Level 0]: '__init__(self):' finished the special race!
