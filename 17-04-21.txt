@@ -6379,3 +6379,9 @@
 [2021-04-17 08:11:38]: ***  [, Level 0]: [POLICE-CHANNEL] 'Kezo' has been caught by 'Nudelsaft c:' (10 minutes arrest)
 [2021-04-17 08:11:49]: Tziys* [DogParty, Level 41]: Nudelsaft c:: dog :D
 [2021-04-17 08:11:53]: Nudelsaft c: [FookinLads, Level 43]: cry
+[2021-04-17 08:11:56]: Tziys* [DogParty, Level 41]: no
+[2021-04-17 08:11:57]: Nudelsaft c: [FookinLads, Level 43]: u failed to wb me bro
+[2021-04-17 08:12:01]: Tziys* [DogParty, Level 41]: no
+[2021-04-17 08:12:04]: ***  [, Level 0]: '☺' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-17 08:12:04]: ***  [, Level 0]: '(1)☺' has left the game (Timeout)
+[2021-04-17 08:12:06]: Tziys* [DogParty, Level 41]: Nudelsaft c:: i dont wb :D
