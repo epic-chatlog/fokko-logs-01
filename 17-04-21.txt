@@ -10447,3 +10447,5 @@
 [2021-04-17 11:52:05]: (1)SanoreX [Chilli.*, Level 0]: ball
 [2021-04-17 11:52:09]: (1)SanoreX [Chilli.*, Level 0]: my ball
 [2021-04-17 11:52:25]: (1)SanoreX [Chilli.*, Level 0]: SanoreX:
+[2021-04-17 11:52:33]: (1)SanoreX [Chilli.*, Level 0]: Fearless: spec SanoreX
+[2021-04-17 11:52:36]: (1)SanoreX [Chilli.*, Level 0]: Fearless: /spec SanoreX
