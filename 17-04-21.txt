@@ -12011,3 +12011,5 @@
 [2021-04-17 14:04:17]: ZEWO dummy [, Level 0]: Hunter.exe: I'm coming, take me, okay?
 [2021-04-17 14:04:19]: any [404, Level 38]: x)
 [2021-04-17 14:04:49]: ZEWO [, Level 0]: Hunter.exe: I'm coming, take me, okay?
+[2021-04-17 14:05:01]: [D] El patron [FookinLads, Level 24]: 2
+[2021-04-17 14:05:02]: [D] El patron [FookinLads, Level 24]: 3
