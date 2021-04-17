@@ -3860,3 +3860,4 @@
 [2021-04-17 06:15:20]: ***  [, Level 0]: 'Shiro,' entered and joined the game
 [2021-04-17 06:15:22]: BULLETBOT [, Level 0]: hi
 [2021-04-17 06:15:26]: mamikral011 [DogParty, Level 27]: Tziys*: piç misin
+[2021-04-17 06:15:28]: ***  [, Level 0]: 'hagen' has left the game
