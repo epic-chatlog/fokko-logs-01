@@ -2102,3 +2102,4 @@
 [2021-04-17 04:05:32]: ***  [, Level 0]: 'weqe' has left the game
 [2021-04-17 04:05:49]: BC|serwan [BC, Level 0]: Falco642: karma +#
 [2021-04-17 04:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 04:06:19]: ***  [, Level 0]: 'GODLIKe' has left the game
