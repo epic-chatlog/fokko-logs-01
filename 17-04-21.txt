@@ -4652,3 +4652,7 @@
 [2021-04-17 06:46:56]:   [, Level 0]: mamikral011: Zephir™:
 [2021-04-17 06:46:58]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-17 06:47:09]:   [, Level 0]: ♥TAKO♥: Nudelsaft c::  ı want peace
+[2021-04-17 06:47:14]: ***  [, Level 0]: 'Bozzkurt' entered and joined the game
+[2021-04-17 06:47:14]: mamikral011 [DogParty, Level 27]: koro:
+[2021-04-17 06:47:16]:   [, Level 0]: .Pe✡︎nut~*: tøxicd✡︎ve: thx
+[2021-04-17 06:47:17]:   [, Level 0]: ♥TAKO♥: GODLIKe:
