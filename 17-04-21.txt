@@ -11985,3 +11985,4 @@
 [2021-04-17 14:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-17 14:00:54]: ZEWO dummy [, Level 0]: Hunter.exe: I am Turkish, speak Turkish from translationtranslation
 [2021-04-17 14:01:01]: Zephir™ [404, Level 40]: casserole :p: je l'ai attaquer et battue il a voulu me tuer il a pas réussi il a arreter
+[2021-04-17 14:01:15]: Hunter.exe [DogParty, Level 37]: ZEWO: no
