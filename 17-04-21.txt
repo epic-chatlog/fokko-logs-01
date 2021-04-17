@@ -3465,3 +3465,12 @@
 [2021-04-17 05:55:06]: ***  [, Level 0]: '(1)[D] Kahve' changed name to '[D] Kahve'
 [2021-04-17 05:55:06]: ***  [, Level 0]: '(1)Kahve' changed name to 'Kahve'
 [2021-04-17 05:55:07]:   [, Level 0]: Tziys*: Intensiv: sesli gel
+[2021-04-17 05:55:12]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-17 05:55:13]: ***  [, Level 0]: '[D] BC|kakashi' entered and joined the game
+[2021-04-17 05:55:13]: ***  [, Level 0]: 'Kahve' has left the game
+[2021-04-17 05:55:13]: ***  [, Level 0]: '[D] Kahve' has left the game
+[2021-04-17 05:55:14]: [D] mamikral011 [DogParty, Level 0]: weqe: why dont stop war
+[2021-04-17 05:55:18]: Intensiv_ [CrazyNoobs, Level 10]: dur babam geldi tzi
+[2021-04-17 05:55:19]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game
+[2021-04-17 05:55:19]: ***  [, Level 0]: 'BC|Tixnix' has left the game
+[2021-04-17 05:55:21]: weqe [669, Level 13]: mamikral011: u remember yesterday ?
