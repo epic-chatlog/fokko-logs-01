@@ -10564,3 +10564,6 @@
 [2021-04-17 12:04:09]: ***  [, Level 0]: 'El Monkey' has left the game
 [2021-04-17 12:04:11]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-17 12:04:12]: HeavyGeneral [FookinLads, Level 36]: El patron: nobody is ignoring u and stop whispering,i can see everything
+[2021-04-17 12:04:19]: HeavyGeneral [FookinLads, Level 36]: El patron: xaxaxxa
+[2021-04-17 12:04:21]: [D] El patron [, Level 24]: ow
+[2021-04-17 12:04:28]: Killua [FookinLads, Level 37]: XDDD El patron  im sharing screens
