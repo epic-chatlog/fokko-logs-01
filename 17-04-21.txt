@@ -12366,3 +12366,5 @@
 [2021-04-17 14:53:37]: ***  [, Level 0]: 'ROBOTEE' has left the game
 [2021-04-17 14:53:40]: Random Guy [, Level 40]: Kenshi™: >>>
 [2021-04-17 14:53:46]: Hunter.exe [DogParty, Level 37]: RM | Arin: schlechte leistung
+[2021-04-17 14:53:51]: [D] El patron [FookinLads, Level 24]: RM | Arin: schlechte leistung
+[2021-04-17 14:53:52]: El Monkey [Retard MNKY, Level 16]: war halb afk xD
