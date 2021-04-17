@@ -2493,3 +2493,7 @@
 [2021-04-17 04:38:14]: ***  [, Level 0]: 'Tom' finished the special race!
 [2021-04-17 04:38:26]: BC|kakashi [BC, Level 14]: bob weiß ich auch nicht er ist Dumm
 [2021-04-17 04:38:27]: ***  [, Level 0]: '(1)Good man' entered and joined the game
+[2021-04-17 04:38:36]: ***  [, Level 0]: '(1)Tom' finished the special race!
+[2021-04-17 04:38:36]: Falco642 [, Level 0]: Cylox: he saved you too, i didnt kill you for  a reason
+[2021-04-17 04:38:40]: Falco642 [, Level 0]: and you kept coming at me
+[2021-04-17 04:38:40]: BC|kakashi [BC, Level 14]: bob heilfe
