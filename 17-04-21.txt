@@ -11660,3 +11660,5 @@
 [2021-04-17 13:35:36]: [D] El patron [FookinLads, Level 24]: rq
 [2021-04-17 13:35:44]: ***  [, Level 0]: [POLICE-CHANNEL] 'IwillBlockYou' is spawnblocking. Catch him!
 [2021-04-17 13:35:47]: IwillBlockYou [, Level 0]: AHhahAH
+[2021-04-17 13:35:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-17 13:35:57]: nameless [, Level 0]: (1)cunt: i see, i just read the plot, it sounds interesting!
