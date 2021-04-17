@@ -7933,3 +7933,9 @@
 [2021-04-17 09:49:32]: BLACK [, Level 26]: lolpoep:  dude
 [2021-04-17 09:49:34]: ***  [, Level 0]: '11' entered and joined the game
 [2021-04-17 09:49:35]: bob [, Level 36]: its all ogre
+[2021-04-17 09:49:38]: #5 blocker [|*MorE*|, Level 24]: bob: HEY I HELPED YOU
+[2021-04-17 09:49:43]: ***  [, Level 0]: '[D] Kahve' has left the game
+[2021-04-17 09:49:43]: ***  [, Level 0]: 'Kahve' has left the game
+[2021-04-17 09:49:43]: bob [, Level 36]: good night
+[2021-04-17 09:49:46]: bob [, Level 36]: indian friend
+[2021-04-17 09:49:49]: mamikral011 [DogParty, Level 0]: bob: hi
