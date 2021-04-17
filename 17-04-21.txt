@@ -7878,3 +7878,8 @@
 [2021-04-17 09:46:03]: ***  [, Level 0]: Falco642 finished in: 5 minute(s) 54.52 second(s)
 [2021-04-17 09:46:03]: ***  [, Level 0]: 'Falco642' finished the special race!
 [2021-04-17 09:46:04]: ***  [, Level 0]: 'QON QON' joined the game
+[2021-04-17 09:46:11]: ***  [, Level 0]: 'Kahve' entered and joined the game
+[2021-04-17 09:46:11]: ***  [, Level 0]: 'QON QON' joined the spectators
+[2021-04-17 09:46:11]: ***  [, Level 0]: 'Kahve' has left the game
+[2021-04-17 09:46:14]: bob [, Level 36]: weqe: maybe 1 2 munchies a week
+[2021-04-17 09:46:15]: ***  [, Level 0]: 'QON QON' joined the game
