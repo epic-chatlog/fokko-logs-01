@@ -6391,3 +6391,5 @@
 [2021-04-17 08:12:32]: El patron [, Level 30]: toxicdave.: help
 [2021-04-17 08:12:39]: ***  [, Level 0]: 'Terra' has left the game
 [2021-04-17 08:12:39]: ***  [, Level 0]: 'Luna' has left the game
+[2021-04-17 08:12:51]: ***  [, Level 0]: '☺' entered and joined the game
+[2021-04-17 08:12:53]: Torento [, Level 23]: Vodo4ka: я тебе джет дал
