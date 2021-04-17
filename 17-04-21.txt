@@ -10899,3 +10899,7 @@
 [2021-04-17 12:30:30]: Cylox [{TQuila}, Level 32]: pls
 [2021-04-17 12:30:32]: Cylox [{TQuila}, Level 32]: ı farm
 [2021-04-17 12:30:33]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: 0addteam Zephir™
+[2021-04-17 12:30:46]: ***  [, Level 0]: [D] El patron is on a killing spree with 5 blocks
+[2021-04-17 12:30:49]: Luna [, Level 0]: Sayme: yeah i agree
+[2021-04-17 12:30:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 12:30:50]: ***  [, Level 0]: '(2)☺' entered and joined the game
