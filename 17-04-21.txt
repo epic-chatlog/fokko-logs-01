@@ -2735,3 +2735,6 @@
 [2021-04-17 05:01:33]: Matiteusz [TrRShClNrRs, Level 37]: El patron: 1700
 [2021-04-17 05:01:34]: Zephir™ [404, Level 40]: Meetiteusz: ???
 [2021-04-17 05:01:44]: Matiteusz [TrRShClNrRs, Level 37]: Zephir™: war
+[2021-04-17 05:01:55]: Zephir™ [404, Level 40]: Matiteusz: u attack me
+[2021-04-17 05:01:59]: Matiteusz [TrRShClNrRs, Level 37]: Zephir™: u help el patron
+[2021-04-17 05:02:00]: cookie [, Level 21]: i hel Zephir™  wtf
