@@ -241,3 +241,4 @@
 [2021-04-17 01:50:29]: Coca [Drunks, Level 22]: Ding Dong: im must go
 [2021-04-17 01:50:41]: Ding Dong [, Level 0]: fck u
 [2021-04-17 01:50:45]: Coca [Drunks, Level 22]: (
+[2021-04-17 01:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
