@@ -12139,3 +12139,5 @@
 [2021-04-17 14:20:18]: [D] El patron [FookinLads, Level 24]: rq
 [2021-04-17 14:20:22]: RM | Arin [Retard MNKY, Level 0]: not rq
 [2021-04-17 14:20:25]: RM | Arin [Retard MNKY, Level 0]: my dummy
+[2021-04-17 14:20:31]: [D] El patron [FookinLads, Level 24]: RM | Arin: gay
+[2021-04-17 14:20:38]: ***  [, Level 0]: 'nameless tee' has left the game
