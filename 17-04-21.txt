@@ -9505,3 +9505,8 @@
 [2021-04-17 11:04:53]: bob [, Level 36]: weqe: LOSE
 [2021-04-17 11:04:54]: bob [, Level 36]: clsoe
 [2021-04-17 11:04:56]: Coca [Drunks, Level 23]: SanoreX: dont touck
+[2021-04-17 11:04:59]: Coca [Drunks, Level 23]: touch
+[2021-04-17 11:05:01]: BLACK [, Level 26]: weqe: he is friend bro
+[2021-04-17 11:05:02]: SanoreX.* [Chilli.*, Level 22]: Coca: why
+[2021-04-17 11:05:06]: Coca [Drunks, Level 23]: SanoreX: my friend
+[2021-04-17 11:05:08]: SanoreX.* [Chilli.*, Level 22]: El patron: can u give me blue flag?
