@@ -11293,3 +11293,4 @@
 [2021-04-17 13:05:42]: [D] El patron [FookinLads, Level 24]: Zephir™: i am no bonus
 [2021-04-17 13:05:46]: Hunter.exe [DogParty, Level 37]: Zephir™: ask but i wont give it fucking stupid kid you wont alive police now
 [2021-04-17 13:05:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-17 13:06:02]: Zephir™ [404, Level 40]: Hunter.exe: ok try
