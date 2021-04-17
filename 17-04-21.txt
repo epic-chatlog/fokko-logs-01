@@ -66,3 +66,5 @@
 [2021-04-17 00:57:05]: ***  [, Level 0]: 'vihandu tee' has left the game
 [2021-04-17 00:58:11]: ***  [, Level 0]: '(1)Sayme' entered and joined the game
 [2021-04-17 00:59:19]: Coca [Drunks, Level 22]: ERROR: go to police im will give you flag
+[2021-04-17 00:59:23]: ERROR. [404, Level 57]: no need
+[2021-04-17 00:59:27]: Coca [Drunks, Level 22]: ok
