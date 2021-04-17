@@ -2819,3 +2819,4 @@
 [2021-04-17 05:08:32]: ***  [, Level 0]: [POLICE-CHANNEL] 'bully' is spawnblocking. Catch him!
 [2021-04-17 05:08:36]: ***  [, Level 0]: 'WIR' entered and joined the game
 [2021-04-17 05:08:42]: [D] El patron [, Level 0]: ok
+[2021-04-17 05:08:48]: ***  [, Level 0]: bully's killing spree was ended by Falco641 (15 blocks)
