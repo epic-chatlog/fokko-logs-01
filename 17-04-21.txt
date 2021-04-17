@@ -2334,3 +2334,4 @@
 [2021-04-17 04:25:39]: ♥TAKO♥ [DogParty, Level 25]: WTF
 [2021-04-17 04:25:46]: f"{self.name}" [, Level 18]: ♥TAKO♥: and with escape you exit
 [2021-04-17 04:25:47]: Falco641 [.bad, Level 20]: bob
+[2021-04-17 04:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
