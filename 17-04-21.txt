@@ -540,3 +540,5 @@
 [2021-04-17 02:23:58]: Kahve [, Level 24]: good
 [2021-04-17 02:24:10]: -:-|ML [, Level 0]: bob: help
 [2021-04-17 02:24:29]: ***  [, Level 0]: 'WarHammer'' has left the game (Timeout)
+[2021-04-17 02:24:29]: ***  [, Level 0]: 'WarHammer' has left the game (Timeout)
+[2021-04-17 02:24:31]: ***  [, Level 0]: 'Falco642' entered and joined the game
