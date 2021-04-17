@@ -2459,3 +2459,7 @@
 [2021-04-17 04:36:45]:   [, Level 0]: ZEWO: ♥TAKO♥:
 [2021-04-17 04:36:47]: Falco641 [.bad, Level 20]: bob: dude you war me for helping your enemy once and help mine enemy constantly
 [2021-04-17 04:36:47]: Ivysaur [, Level 0]: thanks
+[2021-04-17 04:36:53]:   [, Level 0]: ZEWO: ♥TAKO♥: NEXUS SENİ ÇARIYO
+[2021-04-17 04:36:56]: ***  [, Level 0]: [POLICE-CHANNEL] 'ölüm bekçisi' has been caught by 'f"{self.name}"' (10 minutes arrest)
+[2021-04-17 04:37:01]: bob [Legacy™, Level 36]: Falco641:
+[2021-04-17 04:37:03]: ***  [, Level 0]: 'Cylox.' entered and joined the game
