@@ -2485,3 +2485,9 @@
 [2021-04-17 04:37:58]: ***  [, Level 0]: '♥TAKO♥' entered and joined the game
 [2021-04-17 04:37:59]: BC|kakashi [BC, Level 14]: bob mein eigener Clan mate hat mich getötet
 [2021-04-17 04:38:01]: ***  [, Level 0]: '♥TAKO♥' has left the game
+[2021-04-17 04:38:04]: ***  [, Level 0]: Jerry finished in: 14 minute(s) 41.52 second(s)
+[2021-04-17 04:38:04]: ***  [, Level 0]: 'Jerry' finished the special race!
+[2021-04-17 04:38:05]: ***  [, Level 0]: 'Rem's dummy' entered and joined the game
+[2021-04-17 04:38:07]: ***  [, Level 0]: '(1)cookie' entered and joined the game
+[2021-04-17 04:38:08]: bob [Legacy™, Level 36]: BC|kakashi: wieso denn überhaupt
+[2021-04-17 04:38:14]: ***  [, Level 0]: 'Tom' finished the special race!
