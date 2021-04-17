@@ -12943,3 +12943,6 @@
 [2021-04-17 15:48:46]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: 4
 [2021-04-17 15:48:49]: Killua [FookinLads, Level 37]: 2
 [2021-04-17 15:48:55]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: 0
+[2021-04-17 15:48:57]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: DONE
+[2021-04-17 15:49:00]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-17 15:49:06]: Killua [FookinLads, Level 37]: A PORTAL HAS BEEN OPENED
