@@ -12881,3 +12881,4 @@
 [2021-04-17 15:42:57]: power [TrRShClNrRs, Level 0]: mate u grenaded me BULLETBOT
 [2021-04-17 15:43:04]: ***  [, Level 0]: El Monkey's killing spree was ended by [D] BULLETBOT (5 blocks)
 [2021-04-17 15:43:05]: power [TrRShClNrRs, Level 0]: so stop telling me i started mate BULLETBOT
+[2021-04-17 15:43:14]: [D] BULLETBOT [, Level 0]: mate stfu already
