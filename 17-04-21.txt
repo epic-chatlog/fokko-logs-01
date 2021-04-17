@@ -2540,3 +2540,5 @@
 [2021-04-17 04:42:01]: Taip [VergleriSay, Level 19]: xD
 [2021-04-17 04:42:35]: ***  [, Level 0]: '(1)Ƭevan' entered and joined the game
 [2021-04-17 04:42:35]: Zephir™ [404, Level 40]: [D] BC|kakashi: really bad
+[2021-04-17 04:42:52]: ***  [, Level 0]: '(2)cookie' entered and joined the game
+[2021-04-17 04:42:54]: ***  [, Level 0]: 'Ivysaur' has left the game
