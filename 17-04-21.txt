@@ -2855,3 +2855,5 @@
 [2021-04-17 05:12:28]: ***  [, Level 0]: 'Recep' entered and joined the game
 [2021-04-17 05:13:16]: soleri1 [, Level 23]: __init__(self)::
 [2021-04-17 05:13:23]: [D] El patron [, Level 0]: Zephir™:  pro
+[2021-04-17 05:13:36]: ***  [, Level 0]: 'Treebeard' entered and joined the game
+[2021-04-17 05:13:41]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
