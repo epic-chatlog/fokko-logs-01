@@ -2107,3 +2107,5 @@
 [2021-04-17 04:06:26]: ***  [, Level 0]: New record: 18.92 second(s) better.
 [2021-04-17 04:06:54]: Falco641 [.bad, Level 20]: f"{self.name}": stop?
 [2021-04-17 04:07:25]: [D] BC|Tixnix [BC, Level 26]: Falco641: ez
+[2021-04-17 04:07:32]: ***  [, Level 0]: 'Mista bombastic' has left the game
+[2021-04-17 04:07:32]: ***  [, Level 0]: 'Telefantastic' has left the game
