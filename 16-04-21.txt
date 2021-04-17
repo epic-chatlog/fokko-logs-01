@@ -13426,3 +13426,5 @@
 [2021-04-16 20:02:45]: (1)☺ [, Level 14]: you are on teeworl
 [2021-04-16 20:02:49]: Kirito [{TQuila}, Level 40]: ddnet
 [2021-04-16 20:02:52]: (1)☺ [, Level 14]: ok
+[2021-04-16 20:03:06]: (1)☺ [, Level 14]: how have 4 dummy
+[2021-04-16 20:03:15]: Kirito [{TQuila}, Level 40]: start ddnet 2 times
