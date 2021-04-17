@@ -5076,3 +5076,9 @@
 [2021-04-17 07:02:22]: Nudelsaft c: [FookinLads, Level 60]: toxicdave.: huh?
 [2021-04-17 07:02:22]: (1)Kezo [DogParty, Level 0]: shit
 [2021-04-17 07:02:23]: ***  [, Level 0]: '.' entered and joined the game
+[2021-04-17 07:02:33]: ***  [, Level 0]: '(1)|HolyHo|°' entered and joined the game
+[2021-04-17 07:02:33]: Nudelsaft c: [FookinLads, Level 60]: yea
+[2021-04-17 07:02:34]: ***  [, Level 0]: '(1)Kezo' changed name to 'Kezo'
+[2021-04-17 07:02:34]: ***  [, Level 0]: '(1)Tziys*' changed name to 'Tziys*'
+[2021-04-17 07:02:40]: toxicdave. [✡︎, Level 30]: Nudelsaft c:: u said boti
+[2021-04-17 07:02:41]: FazTi [, Level 0]: well cya
