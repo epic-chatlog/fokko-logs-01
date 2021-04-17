@@ -11530,3 +11530,5 @@
 [2021-04-17 13:25:15]: ***  [, Level 0]: 'Terra' would have timed out, but can use timeout protection now
 [2021-04-17 13:25:15]: ***  [, Level 0]: 'Luna' would have timed out, but can use timeout protection now
 [2021-04-17 13:25:21]: Falco641 [.bad, Level 20]: shit
+[2021-04-17 13:25:23]: Falco641 [.bad, Level 20]: El patron:
+[2021-04-17 13:25:27]: Falco641 [.bad, Level 20]: <<<
