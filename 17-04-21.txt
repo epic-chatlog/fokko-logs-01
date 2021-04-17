@@ -13110,3 +13110,6 @@
 [2021-04-17 15:59:36]: ***  [, Level 0]: 'jojo' has left the game
 [2021-04-17 15:59:58]: x7|zemer [xSD7, Level 37]: s
 [2021-04-17 16:00:40]: ***  [, Level 0]: '.S L E E P Y'' entered and joined the game
+[2021-04-17 16:00:42]: .S L E E P Y' [iPro ♡, Level 0]: u
+[2021-04-17 16:00:50]: .S L E E P Y' [iPro ♡, Level 0]: HeavyGeneral:  go to sleep u degen
+[2021-04-17 16:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
