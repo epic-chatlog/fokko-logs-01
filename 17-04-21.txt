@@ -468,3 +468,6 @@
 [2021-04-17 02:16:32]: Cylox. [{TQuila}, Level 24]: bob:
 [2021-04-17 02:16:36]: Coca [Drunks, Level 22]: Meliodas: war = war
 [2021-04-17 02:16:37]: [D] Kahve [, Level 19]: Ƭevan: go your dummy
+[2021-04-17 02:16:49]: Meliodas [.bad, Level 24]: Coca: ...U STUPID
+[2021-04-17 02:16:49]: Coca [Drunks, Level 22]: куда?
+[2021-04-17 02:16:55]: Coca [Drunks, Level 22]: там где ты всегда?
