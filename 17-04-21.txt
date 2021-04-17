@@ -5638,3 +5638,6 @@
 [2021-04-17 07:28:49]: Tziys* [DogParty, Level 41]: Vodo4ka: xD
 [2021-04-17 07:28:50]: weqe [669, Level 13]: SMILEY SMILEY
 [2021-04-17 07:29:03]: ***  [, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-17 07:29:07]: ***  [, Level 0]: 'Keø' would have timed out, but can use timeout protection now
+[2021-04-17 07:29:07]: ***  [, Level 0]: 'koro' would have timed out, but can use timeout protection now
+[2021-04-17 07:29:12]: (1)☺ [, Level 0]: es ou Zephir™
