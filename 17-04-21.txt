@@ -81,3 +81,6 @@
 [2021-04-17 01:08:40]: ***  [, Level 0]: 'Tom' has left the game
 [2021-04-17 01:08:40]: ***  [, Level 0]: 'Jerry' has left the game
 [2021-04-17 01:08:40]: Good man [Drunks, Level 31]: why
+[2021-04-17 01:08:43]: Good man [Drunks, Level 31]: XD
+[2021-04-17 01:08:53]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-17 01:08:54]: Coca [Drunks, Level 22]: Cylox: go to police) im will give you flag
