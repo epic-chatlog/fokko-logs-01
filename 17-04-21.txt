@@ -7545,3 +7545,8 @@
 [2021-04-17 09:28:39]: ***  [, Level 0]: 'Treebeard' entered and joined the game
 [2021-04-17 09:28:52]: LGBT General [404, Level 43]: war
 [2021-04-17 09:28:55]: LGBT General [404, Level 43]: wat
+[2021-04-17 09:29:02]: ***  [, Level 0]: 'LGBT General' changed name to 'Shiro.'
+[2021-04-17 09:29:02]: any [404, Level 38]: TL|ŦƹƦ$ŦǾN:
+[2021-04-17 09:29:04]: ***  [, Level 0]: 'LGBT+General' entered and joined the game
+[2021-04-17 09:29:05]: any [404, Level 38]: TL|ŦƹƦ$ŦǾN: oof
+[2021-04-17 09:29:11]: ***  [, Level 0]: 'LGBT+General' changed name to 'Shiro,'
