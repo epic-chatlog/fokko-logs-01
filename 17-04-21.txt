@@ -11133,3 +11133,7 @@
 [2021-04-17 12:50:36]: Cylox. [, Level 0]: çıkcam kanks
 [2021-04-17 12:50:39]: ***  [, Level 0]: 'praydN' entered and joined the game
 [2021-04-17 12:50:41]: ***  [, Level 0]: 'Ding Dong' has left the game
+[2021-04-17 12:50:46]: [D] ♥TAKO♥ [DogParty, Level 0]: Cylox:  hadi ii geceler kral
+[2021-04-17 12:50:49]: Cylox [, Level 32]: sanada
+[2021-04-17 12:50:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-17 12:50:53]: Luna [, Level 0]: (1)Sayme: bb :)
