@@ -2971,3 +2971,7 @@
 [2021-04-17 05:23:41]: ***  [, Level 0]: 'WIR' has left the game
 [2021-04-17 05:23:47]: [D] El patron [, Level 0]: [D] BC|Tixnix: er greift mich an
 [2021-04-17 05:23:50]:   [, Level 0]: CKA3A4NIK[NR]: El patron:  > Hello can help>>>>
+[2021-04-17 05:23:52]: Zephir™ [404, Level 40]: El patron: i blocked him 15 times
+[2021-04-17 05:23:55]: ***  [, Level 0]: |HolyHo|° finished in: 0 minute(s) 36.22 second(s)
+[2021-04-17 05:23:58]: Falco641 [.bad, Level 20]: [D] BC|serwan: ez
+[2021-04-17 05:24:01]: [D] El patron [, Level 0]: Zephir™: how
