@@ -13457,3 +13457,4 @@
 [2021-04-16 20:13:23]: (1)☺ [, Level 14]: xDDDDDDDDDD
 [2021-04-16 20:13:29]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
 [2021-04-16 20:14:00]: ***  [, Level 0]: '(2)Kirito' has left the game
+[2021-04-16 20:14:14]: Kirito [{TQuila}, Level 40]: i am searching for a farmspot where nobody can get me
