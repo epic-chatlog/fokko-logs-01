@@ -2550,3 +2550,4 @@
 [2021-04-17 04:43:08]: ***  [, Level 0]: New record: 1 minute(s)  2.68 second(s) better.
 [2021-04-17 04:43:09]:   [, Level 0]: titanfran: HI
 [2021-04-17 04:43:11]: Falco641 [.bad, Level 20]: bob:
+[2021-04-17 04:43:24]: ***  [, Level 0]: '(2)cookie' has left the game
