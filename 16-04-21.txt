@@ -13605,3 +13605,5 @@
 [2021-04-16 23:06:51]: ***  [, Level 0]: 'vihandu tee' entered and joined the game
 [2021-04-16 23:06:59]: ***  [, Level 0]: '(1)Good man' entered and joined the game
 [2021-04-16 23:07:09]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-16 23:07:11]: ***  [, Level 0]: '(1)Coca' entered and joined the game
+[2021-04-16 23:07:19]: vihandu tee [, Level 0]: tom can help me
