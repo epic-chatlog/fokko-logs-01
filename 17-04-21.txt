@@ -2841,3 +2841,6 @@
 [2021-04-17 05:10:19]: ***  [, Level 0]: 'Meetiteusz' has left the game
 [2021-04-17 05:10:19]: ***  [, Level 0]: 'Matiteusz' has left the game
 [2021-04-17 05:10:39]: ***  [, Level 0]: 'Falco641' entered and joined the game
+[2021-04-17 05:10:46]: ***  [, Level 0]: 'Gonzo' entered and joined the game
+[2021-04-17 05:10:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-17 05:10:50]: [D] El patron [, Level 0]: Zephir™: fun war
