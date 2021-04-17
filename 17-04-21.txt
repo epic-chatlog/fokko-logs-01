@@ -3072,3 +3072,6 @@
 [2021-04-17 05:32:03]: ***  [, Level 0]: 'f"{self.name}"' has left the game
 [2021-04-17 05:32:03]: ***  [, Level 0]: '__init__(self):' has left the game
 [2021-04-17 05:32:04]: Falco642 [, Level 0]: (1)Kahve: haha yes kill yourself
+[2021-04-17 05:32:07]: WarHammer [DogParty, Level 26]: 76k vardı aq
+[2021-04-17 05:32:13]: WarHammer [DogParty, Level 26]: nasıl 16
+[2021-04-17 05:32:19]: ♥TAKO♥ [DogParty, Level 25]: dhkdfhj
