@@ -10757,3 +10757,6 @@
 [2021-04-17 12:20:03]: [D] ♥TAKO♥ [DogParty, Level 0]: soleri1:
 [2021-04-17 12:20:08]: ***  [, Level 0]: (1)Sayme is on a killing spree with 5 blocks
 [2021-04-17 12:20:13]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)Sayme' is spawnblocking. Catch him!
+[2021-04-17 12:20:22]: HeavyGeneral [FookinLads, Level 36]: El patron: accept
+[2021-04-17 12:20:25]: ***  [, Level 0]: 'Falco642' entered and joined the game
+[2021-04-17 12:20:27]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)Sayme' is spawnblocking. Catch him!
