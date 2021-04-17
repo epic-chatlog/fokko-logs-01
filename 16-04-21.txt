@@ -13246,3 +13246,4 @@
 [2021-04-16 18:25:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-16 18:29:28]: ***  [, Level 0]: '☺' entered and joined the game
 [2021-04-16 18:30:38]: ***  [, Level 0]: '(1)☺' entered and joined the game
+[2021-04-16 18:30:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
