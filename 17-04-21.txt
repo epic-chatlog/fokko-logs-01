@@ -13271,3 +13271,4 @@
 [2021-04-17 16:25:56]: BC|serwan [BC, Level 0]: aa
 [2021-04-17 16:25:59]: BC|serwan [BC, Level 0]: fs
 [2021-04-17 16:26:10]: ***  [, Level 0]: Chillingo is on a killing spree with 5 blocks
+[2021-04-17 16:28:03]: ***  [, Level 0]: 'Hady' entered and joined the game
