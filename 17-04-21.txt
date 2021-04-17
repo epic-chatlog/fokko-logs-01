@@ -6487,3 +6487,7 @@
 [2021-04-17 08:21:45]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
 [2021-04-17 08:21:47]: GODLIKe [, Level 44]: kill me
 [2021-04-17 08:21:51]: ***  [, Level 0]: (1)ChillerDragon is on a killing spree with 5 blocks
+[2021-04-17 08:21:56]: ***  [, Level 0]: 'MOM' has left the game (Timeout)
+[2021-04-17 08:21:56]: ***  [, Level 0]: '(1)MOM' has left the game (Timeout)
+[2021-04-17 08:21:56]: ***  [, Level 0]: '(2)MOM' has left the game (Timeout)
+[2021-04-17 08:21:58]: ***  [, Level 0]: 'hhnaut31' entered and joined the game
