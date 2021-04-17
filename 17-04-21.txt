@@ -1962,3 +1962,7 @@
 [2021-04-17 03:53:25]: bob [Legacy™, Level 36]: [D] -:-|ML: xd wtf
 [2021-04-17 03:53:25]: Kahve [, Level 24]: weqe: he block me
 [2021-04-17 03:53:35]: ***  [, Level 0]: [POLICE-CHANNEL] 'Falco642' is spawnblocking. Catch him!
+[2021-04-17 03:53:39]: ***  [, Level 0]: weqe is on a killing spree with 5 blocks
+[2021-04-17 03:53:45]: ***  [, Level 0]: [POLICE-CHANNEL] 'Falco642' is spawnblocking. Catch him!
+[2021-04-17 03:53:48]: ***  [, Level 0]: 'Isegrin' has left the game (Timeout)
+[2021-04-17 03:53:48]: ***  [, Level 0]: 'Virus' has left the game (Timeout)
