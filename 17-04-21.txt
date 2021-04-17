@@ -2717,3 +2717,7 @@
 [2021-04-17 05:00:40]: ***  [, Level 0]: '(1)Matiteusz' has left the game
 [2021-04-17 05:00:40]: ***  [, Level 0]: '(1)Meetiteusz' has left the game
 [2021-04-17 05:00:44]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-17 05:00:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-17 05:00:51]: El patron [, Level 30]: xd
+[2021-04-17 05:00:57]: El patron [, Level 30]: money drop 1700
+[2021-04-17 05:00:57]: Falco642 [, Level 0]: Cylox: stfu
