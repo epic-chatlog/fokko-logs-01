@@ -12016,3 +12016,4 @@
 [2021-04-17 14:05:07]: casserole :p [, Level 20]: ?
 [2021-04-17 14:05:11]: ZEWO [, Level 0]: Hunter.exe: I'm coming, take me, okay?
 [2021-04-17 14:05:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-17 14:05:59]: ***  [, Level 0]: 'Isegrin' entered and joined the game
