@@ -2191,3 +2191,5 @@
 [2021-04-17 04:14:24]: ***  [, Level 0]: 'Taip' entered and joined the game
 [2021-04-17 04:14:29]: bob [Legacy™, Level 36]: transform
 [2021-04-17 04:14:31]: bob [Legacy™, Level 36]: now!
+[2021-04-17 04:14:36]: bob [Legacy™, Level 36]: u raichu ?
+[2021-04-17 04:14:45]: Taip [VergleriSay, Level 19]: fun war?
