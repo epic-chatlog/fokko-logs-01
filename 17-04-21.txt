@@ -13316,3 +13316,4 @@
 [2021-04-17 16:43:36]: Zephir™ [404, Level 40]: BC|Tixnix:
 [2021-04-17 16:45:10]: nameless :( [, Level 0]: NO
 [2021-04-17 16:45:18]: [D] taco bell [, Level 0]: yes
+[2021-04-17 16:45:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
