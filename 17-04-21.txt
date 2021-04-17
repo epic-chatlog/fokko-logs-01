@@ -12877,3 +12877,4 @@
 [2021-04-17 15:42:35]: ***  [, Level 0]: El Monkey is on a killing spree with 5 blocks
 [2021-04-17 15:42:35]: El Monkey [Retard MNKY, Level 0]: YES IAM BAD
 [2021-04-17 15:42:41]: power [TrRShClNrRs, Level 0]: BULLETBOT: just stop shooting at me
+[2021-04-17 15:42:47]: [D] BULLETBOT [, Level 0]: power: nigga you started
