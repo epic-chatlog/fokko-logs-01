@@ -13303,3 +13303,5 @@
 [2021-04-17 16:39:29]: ***  [, Level 0]: 'kakashi' changed name to 'BC|kakashi'
 [2021-04-17 16:39:53]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
 [2021-04-17 16:40:24]: BC|kakashi [BC, Level 26]: .
+[2021-04-17 16:40:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 16:40:50]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
