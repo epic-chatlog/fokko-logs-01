@@ -2491,3 +2491,5 @@
 [2021-04-17 04:38:07]: ***  [, Level 0]: '(1)cookie' entered and joined the game
 [2021-04-17 04:38:08]: bob [Legacy™, Level 36]: BC|kakashi: wieso denn überhaupt
 [2021-04-17 04:38:14]: ***  [, Level 0]: 'Tom' finished the special race!
+[2021-04-17 04:38:26]: BC|kakashi [BC, Level 14]: bob weiß ich auch nicht er ist Dumm
+[2021-04-17 04:38:27]: ***  [, Level 0]: '(1)Good man' entered and joined the game
