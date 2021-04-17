@@ -6509,3 +6509,4 @@
 [2021-04-17 08:23:00]: ***  [, Level 0]: 'Soros2102546510' entered and joined the game
 [2021-04-17 08:23:03]: ***  [, Level 0]: 'Soros2102546510' has left the game
 [2021-04-17 08:23:03]: ***  [, Level 0]: 'el champeon5787' has left the game
+[2021-04-17 08:23:06]: [D] El patron [, Level 24]: pro
