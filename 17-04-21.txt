@@ -6653,3 +6653,4 @@
 [2021-04-17 08:37:48]: ***  [, Level 0]: 'GODLIKe' has left the game
 [2021-04-17 08:37:48]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: toxicdave.: i helped nudelsaft (swarfey) make a discord bridge- all tw messages are sent into the discord text channel- fokko-chatlogs
 [2021-04-17 08:37:50]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 5 blocks
+[2021-04-17 08:38:04]: #5 blocker [|*MorE*|, Level 0]: help
