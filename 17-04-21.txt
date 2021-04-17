@@ -4793,3 +4793,7 @@
 [2021-04-17 06:52:17]:   [, Level 0]: RM | Arin: Torento:  war
 [2021-04-17 06:52:24]: ***  [, Level 0]: '(1)Intensiv' entered and joined the game
 [2021-04-17 06:52:29]:   [, Level 0]: RM | Arin: Torento:  war4life
+[2021-04-17 06:52:31]: bob [Legacy™, Level 36]: hi
+[2021-04-17 06:52:32]: weqe [669, Level 13]: bob: <<<<<<
+[2021-04-17 06:52:33]: ***  [, Level 0]: '(1)Intensiv' has left the game
+[2021-04-17 06:52:40]: ***  [, Level 0]: 'tøxicd✡︎ve' changed name to 'toxicd✡︎ve'
