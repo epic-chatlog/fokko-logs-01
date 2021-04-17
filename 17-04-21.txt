@@ -76,3 +76,8 @@
 [2021-04-17 01:07:06]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-17 01:07:59]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-17 01:08:24]: Good man [Drunks, Level 31]: Tom: who did it
+[2021-04-17 01:08:34]: Tom [, Level 32]: I DID
+[2021-04-17 01:08:38]: Tom [, Level 32]: BB
+[2021-04-17 01:08:40]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-17 01:08:40]: ***  [, Level 0]: 'Jerry' has left the game
+[2021-04-17 01:08:40]: Good man [Drunks, Level 31]: why
