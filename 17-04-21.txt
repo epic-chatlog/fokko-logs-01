@@ -3480,3 +3480,9 @@
 [2021-04-17 05:55:36]: [D] mamikral011 [DogParty, Level 0]: weqe: no
 [2021-04-17 05:55:42]: cookie [, Level 0]: weqe:  why
 [2021-04-17 05:55:43]: weqe [669, Level 13]: [D] mamikral011: i said if u dont help me now its war
+[2021-04-17 05:55:46]: ***  [, Level 0]: '[D] BC|kakashi' has left the game
+[2021-04-17 05:55:48]: [D] mamikral011 [DogParty, Level 0]: BC|kakashi: wait
+[2021-04-17 05:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 05:55:54]: Kezo [DogParty, Level 41]: Shiro.: come
+[2021-04-17 05:55:56]: |HolyHo| [FookinLads, Level 19]: hi Kezo ^^
+[2021-04-17 05:55:58]: Shiro. [404, Level 0]: XDD
