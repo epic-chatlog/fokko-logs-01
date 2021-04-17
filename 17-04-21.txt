@@ -12266,3 +12266,6 @@
 [2021-04-17 14:38:51]: Random Guy [, Level 40]: HeavyGeneral: i dont sure
 [2021-04-17 14:38:57]: any [404, Level 38]: HeavyGeneral: how are u ?
 [2021-04-17 14:38:58]: Random Guy [, Level 40]: HeavyGeneral: but i felling strange
+[2021-04-17 14:39:14]: HeavyGeneral [FookinLads, Level 36]: any: mm pretty good tho gotta go shave but lazy
+[2021-04-17 14:39:14]: ***  [, Level 0]: 'Cassie' entered and joined the game
+[2021-04-17 14:39:16]: HeavyGeneral [FookinLads, Level 36]: any: wbu
