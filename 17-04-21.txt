@@ -10552,3 +10552,5 @@
 [2021-04-17 12:02:52]: ***  [, Level 0]: 'El Monkey' has left the game
 [2021-04-17 12:02:53]: Cylox [{TQuila}, Level 32]: flappy: thx
 [2021-04-17 12:03:01]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-17 12:03:08]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-17 12:03:12]: ***  [, Level 0]: 'nameless tee' joined the spectators
