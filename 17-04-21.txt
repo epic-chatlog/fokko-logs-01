@@ -2076,3 +2076,6 @@
 [2021-04-17 04:01:32]: ***  [, Level 0]: weqe is on a killing spree with 10 blocks
 [2021-04-17 04:01:42]: f"{self.name}" [, Level 18]: yes
 [2021-04-17 04:01:43]: Mista bombastic [TrRShClNrRs, Level 40]: weqe: bruh stop saying weird things
+[2021-04-17 04:01:45]: ***  [, Level 0]: 'Lcmcc123' has left the game
+[2021-04-17 04:01:45]: ♥TAKO♥ [DogParty, Level 25]: XDC
+[2021-04-17 04:01:49]: weqe [669, Level 13]: k sry Mista bombastic
