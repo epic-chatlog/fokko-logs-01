@@ -6057,3 +6057,5 @@
 [2021-04-17 07:48:42]: ***  [, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
 [2021-04-17 07:48:43]: (1)☺ [, Level 0]: je lag
 [2021-04-17 07:48:45]: ***  [, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-17 07:48:45]: ***  [, Level 0]: '(1)Ðream' entered and joined the game
+[2021-04-17 07:48:50]: Kezo [DogParty, Level 39]: toxicdave.: actually i don't care
