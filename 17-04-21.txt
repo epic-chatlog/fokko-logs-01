@@ -11986,3 +11986,5 @@
 [2021-04-17 14:00:54]: ZEWO dummy [, Level 0]: Hunter.exe: I am Turkish, speak Turkish from translationtranslation
 [2021-04-17 14:01:01]: Zephir™ [404, Level 40]: casserole :p: je l'ai attaquer et battue il a voulu me tuer il a pas réussi il a arreter
 [2021-04-17 14:01:15]: Hunter.exe [DogParty, Level 37]: ZEWO: no
+[2021-04-17 14:01:36]: ***  [, Level 0]: 'IwillBlockYou' has left the game
+[2021-04-17 14:01:39]: ZEWO [, Level 0]: Hunter.exe: why is that
