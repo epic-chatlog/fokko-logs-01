@@ -11113,3 +11113,4 @@
 [2021-04-17 12:47:35]: Cylox. [, Level 0]: ES:
 [2021-04-17 12:47:44]: Luna [, Level 0]: i didn't know that
 [2021-04-17 12:47:46]: Cylox. [, Level 0]: ES: soleri1
+[2021-04-17 12:48:02]: ***  [, Level 0]: '[D] Hunter.exe' entered and joined the game
