@@ -6393,3 +6393,6 @@
 [2021-04-17 08:12:39]: ***  [, Level 0]: 'Luna' has left the game
 [2021-04-17 08:12:51]: ***  [, Level 0]: '☺' entered and joined the game
 [2021-04-17 08:12:53]: Torento [, Level 23]: Vodo4ka: я тебе джет дал
+[2021-04-17 08:12:59]: Vodo4ka [Chilli.*, Level 41]: Torento: blyat
+[2021-04-17 08:13:03]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
+[2021-04-17 08:13:04]: Torento [, Level 23]: забирай
