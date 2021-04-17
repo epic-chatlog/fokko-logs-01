@@ -11605,3 +11605,6 @@
 [2021-04-17 13:31:27]: mr dud [, Level 0]: connection problems
 [2021-04-17 13:31:28]: [D] ♥TAKO♥ [DogParty, Level 0]: Zerstrian:  noo
 [2021-04-17 13:31:30]: Falco642 [, Level 0]: aaaa
+[2021-04-17 13:31:34]: [D] ♥TAKO♥ [DogParty, Level 0]: Zerstrian:  not my money
+[2021-04-17 13:31:38]: ***  [, Level 0]: [D] -:-|ML's killing spree was ended by __init__(self): (5 blocks)
+[2021-04-17 13:31:42]: [D] ♥TAKO♥ [DogParty, Level 0]: Zerstrian:  not my money
