@@ -10231,3 +10231,6 @@
 [2021-04-17 11:37:56]: ***  [, Level 0]: 'power' left the minigame 'Survival'
 [2021-04-17 11:37:57]: SanoreX.* [Chilli.*, Level 22]: power: hold d
 [2021-04-17 11:37:58]: Good man [Drunks, Level 31]: Ƭevan: /spec SanoreX так же
+[2021-04-17 11:37:59]: ***  [, Level 0]: 'FullFun' joined the spectators
+[2021-04-17 11:38:04]: ***  [, Level 0]: 'FullFun' has left the game
+[2021-04-17 11:38:08]: ***  [, Level 0]: 'Axel' joined the minigame 'Survival', use '/survival' to join aswell
