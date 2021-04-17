@@ -3152,3 +3152,6 @@
 [2021-04-17 05:38:10]: Shiro. [404, Level 0]: sun.slow(y):  u
 [2021-04-17 05:38:10]: weqe [669, Level 13]: Shiro.: i dont have portal
 [2021-04-17 05:38:10]: ***  [, Level 0]: 'ZEWO' has left the game
+[2021-04-17 05:38:15]: ***  [, Level 0]: [POLICE-CHANNEL] 'H0dƌƔ1' is spawnblocking. Catch him!
+[2021-04-17 05:38:15]: Shiro. [404, Level 0]: weqe: koro is login in
+[2021-04-17 05:38:18]: ***  [, Level 0]: [POLICE-CHANNEL] 'H0dƌƔ1' is spawnblocking. Catch him!
