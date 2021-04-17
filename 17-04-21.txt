@@ -6423,3 +6423,8 @@
 [2021-04-17 08:14:52]: ***  [, Level 0]: '|HolyHo|°' has left the game (Timeout)
 [2021-04-17 08:14:56]: Vodo4ka [Chilli.*, Level 41]: [D] El patron: dummy pro
 [2021-04-17 08:15:02]: El patron [, Level 30]: wtf
+[2021-04-17 08:15:14]: ***  [, Level 0]: '(1)ChillerDragon' joined the game
+[2021-04-17 08:15:15]: ***  [, Level 0]: '☺' has left the game
+[2021-04-17 08:15:15]: ***  [, Level 0]: '(1)☺' has left the game
+[2021-04-17 08:15:16]: ***  [, Level 0]: '☺' entered and joined the game
+[2021-04-17 08:15:17]: Vodo4ka [Chilli.*, Level 41]: El patron: PROOO
