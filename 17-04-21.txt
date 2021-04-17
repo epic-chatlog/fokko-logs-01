@@ -2302,3 +2302,4 @@
 [2021-04-17 04:21:38]: cookie [, Level 21]: i need 760000xp
 [2021-04-17 04:21:57]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-17 04:22:14]: f"{self.name}" [, Level 18]: Taip: fun war !
+[2021-04-17 04:22:20]: ***  [, Level 0]: 'Jerry' entered and joined the game
