@@ -7237,3 +7237,8 @@
 [2021-04-17 09:15:20]: #5 blocker [|*MorE*|, Level 24]: toxicdave.: segíts
 [2021-04-17 09:15:22]:   [, Level 0]: bob: Ding Dong: hm
 [2021-04-17 09:15:24]: ***  [, Level 0]: 'Nudelsaft c:' left the minigame 'Survival'
+[2021-04-17 09:15:28]: #5 blocker [|*MorE*|, Level 24]: Honey Cat: help yes
+[2021-04-17 09:15:28]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-17 09:15:29]: Ding Dong [, Level 0]: bob:  how can i use my money ?
+[2021-04-17 09:15:30]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-17 09:15:31]: bob [, Level 36]: toxicdave.: sry i forgit i wouldve saved u sry
