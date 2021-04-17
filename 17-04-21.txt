@@ -12500,3 +12500,4 @@
 [2021-04-17 15:08:11]: Random Guy [, Level 40]: Hunter.exe: >>>
 [2021-04-17 15:08:33]: ***  [, Level 0]: 'XxxBgLucas' entered and joined the game
 [2021-04-17 15:08:38]: Random Guy [, Level 40]: El Mo
+[2021-04-17 15:09:07]: Random Guy [, Level 40]: XD
