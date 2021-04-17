@@ -39,3 +39,5 @@
 [2021-04-17 00:42:21]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
 [2021-04-17 00:42:41]: ***  [, Level 0]: 'Good man' entered and joined the game
 [2021-04-17 00:43:00]: ***  [, Level 0]: 'Coca' entered and joined the game
+[2021-04-17 00:43:25]: Good man [Drunks, Level 0]: kais: you seriosly?
+[2021-04-17 00:43:28]: kais [, Level 66]: Good man: ?
