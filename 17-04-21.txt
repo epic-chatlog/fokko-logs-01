@@ -12840,3 +12840,7 @@
 [2021-04-17 15:39:18]: ***  [, Level 0]: -:-|ML is on a killing spree with 10 blocks
 [2021-04-17 15:39:19]: (1)soleri1 [, Level 10]: Killua: ok
 [2021-04-17 15:39:20]: Killua [FookinLads, Level 37]: BC|Tixnix: sorry
+[2021-04-17 15:39:28]: BC|kakashi [BC, Level 0]: that was 3sec
+[2021-04-17 15:39:28]: BC|Tixnix [BC, Level 35]: Killua: ok
+[2021-04-17 15:39:37]: ***  [, Level 0]: BULLETBOT is on a killing spree with 5 blocks
+[2021-04-17 15:39:37]: Killua [FookinLads, Level 37]: BC|Tixnix: i thought u were -:-|ML
