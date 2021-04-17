@@ -1772,3 +1772,5 @@
 [2021-04-17 03:41:18]: ES [, Level 0]: MOM: help me
 [2021-04-17 03:41:20]: Nudelsaft c: [FookinLads, Level 60]: weqe: im afk all the time and doing some bots
 [2021-04-17 03:41:21]: ***  [, Level 0]: '(1)[D] Kahve' entered and joined the game
+[2021-04-17 03:41:28]: BC|Tixnix [BC, Level 0]: MOM: have you?
+[2021-04-17 03:41:37]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
