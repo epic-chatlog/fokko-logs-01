@@ -7873,3 +7873,8 @@
 [2021-04-17 09:45:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-17 09:45:53]: mamikral011 [DogParty, Level 0]: WarHammer: geliom
 [2021-04-17 09:45:54]: bob [, Level 36]: weqe: i respect her
+[2021-04-17 09:45:58]: bob [, Level 36]: weqe: will treat good
+[2021-04-17 09:46:00]: ***  [, Level 0]: 'QON QON' joined the spectators
+[2021-04-17 09:46:03]: ***  [, Level 0]: Falco642 finished in: 5 minute(s) 54.52 second(s)
+[2021-04-17 09:46:03]: ***  [, Level 0]: 'Falco642' finished the special race!
+[2021-04-17 09:46:04]: ***  [, Level 0]: 'QON QON' joined the game
