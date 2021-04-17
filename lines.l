@@ -19,3 +19,4 @@
        7 autocommit.sh
        6 getlines.sh
       20 lines.l
+  221439 total
