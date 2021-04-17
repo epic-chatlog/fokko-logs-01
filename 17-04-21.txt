@@ -891,3 +891,6 @@
 [2021-04-17 02:55:16]: Meliodas [.bad, Level 24]: bob: white wolf
 [2021-04-17 02:55:20]: Telefantastic [TrRShClNrRs, Level 34]: weqe: dude stop
 [2021-04-17 02:55:20]: -:-|ML [, Level 0]: xD
+[2021-04-17 02:55:50]: ***  [, Level 0]: 'Falco641' entered and joined the game
+[2021-04-17 02:55:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-17 02:55:52]: Meliodas [.bad, Level 24]: weqe: ^^
