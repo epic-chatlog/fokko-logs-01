@@ -10392,3 +10392,7 @@
 [2021-04-17 11:48:37]: ***  [, Level 0]: 'Cylox' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-17 11:48:42]: ***  [, Level 0]: '(1)SanoreX' left the minigame 'Survival'
 [2021-04-17 11:48:43]: any² [404, Level 0]: Kenshi™: je go manger
+[2021-04-17 11:48:47]: ***  [, Level 0]: 'Cylox.' left the minigame 'Survival'
+[2021-04-17 11:48:53]: ***  [, Level 0]: ShiroKinght is on a killing spree with 10 blocks
+[2021-04-17 11:48:53]: ☺ [, Level 23]: comment ta pu mourir
+[2021-04-17 11:48:57]: ***  [, Level 0]: 'Cylox' left the minigame 'Survival'
