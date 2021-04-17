@@ -12430,3 +12430,5 @@
 [2021-04-17 15:01:01]: [D] Random Guy [, Level 0]: F
 [2021-04-17 15:01:11]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
 [2021-04-17 15:01:17]: ***  [, Level 0]: 'GODLIKe' has left the game
+[2021-04-17 15:01:31]: Hunter.exe [DogParty, Level 37]: BLACK: id have a sis but nice try :D
+[2021-04-17 15:01:31]: RM | Arin [Retard MNKY, Level 0]: -:-|ML:  help me!
