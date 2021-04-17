@@ -2382,3 +2382,8 @@
 [2021-04-17 04:30:10]: ***  [, Level 0]: '(1)Intensiv' entered and joined the game
 [2021-04-17 04:30:33]: Falco642 [, Level 0]: BC|serwan: ez
 [2021-04-17 04:30:48]: ***  [, Level 0]: '(1)Intensiv' has left the game
+[2021-04-17 04:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-17 04:30:50]: ***  [, Level 0]: BC|Tixnix finished in: 1 minute(s) 25.26 second(s)
+[2021-04-17 04:30:50]: ***  [, Level 0]: New record:  4.32 second(s) better.
+[2021-04-17 04:30:58]: Cylox [{TQuila}, Level 31]: asklbg
+[2021-04-17 04:31:01]: Intensiv_ [CrazyNoobs, Level 9]: help Matiteusz
