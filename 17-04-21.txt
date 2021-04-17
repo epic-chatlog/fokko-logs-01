@@ -10696,3 +10696,6 @@
 [2021-04-17 12:15:54]: Zephir™ [404, Level 40]: je t'es appel
 [2021-04-17 12:16:10]: Falco642 [, Level 0]: omg this fucking lag
 [2021-04-17 12:16:28]: ***  [, Level 0]: '(1)BLACK' entered and joined the game
+[2021-04-17 12:16:39]: [D] El patron [, Level 24]: |HolyHo|:  lets fight
+[2021-04-17 12:16:39]: HeavyGeneral [FookinLads, Level 36]: |HolyHo|: chec know
+[2021-04-17 12:16:43]: HeavyGeneral [FookinLads, Level 36]: |HolyHo|: should work
