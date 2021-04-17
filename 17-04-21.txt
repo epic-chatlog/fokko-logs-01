@@ -3195,3 +3195,6 @@
 [2021-04-17 05:41:15]: ***  [, Level 0]: [RUS] is on a killing spree with 5 blocks
 [2021-04-17 05:41:21]: ***  [, Level 0]: [POLICE-CHANNEL] '[RUS]' is spawnblocking. Catch him!
 [2021-04-17 05:41:24]: ***  [, Level 0]: [RUS]'s killing spree was ended by cookie (7 blocks)
+[2021-04-17 05:41:34]:   [, Level 0]: Ðeathscyth: Tziys*: race plij
+[2021-04-17 05:41:37]:   [, Level 0]: Ðeathscyth: Tziys*: race plsss
+[2021-04-17 05:41:40]: ***  [, Level 0]: [POLICE-CHANNEL] 'cookie' is spawnblocking. Catch him!
