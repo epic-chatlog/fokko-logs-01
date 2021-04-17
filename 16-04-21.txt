@@ -13678,3 +13678,5 @@
 [2021-04-16 23:29:36]: ***  [, Level 0]: 'Chocopie' entered and joined the game
 [2021-04-16 23:30:13]: Coca [Drunks, Level 22]: go to me
 [2021-04-16 23:30:14]: ***  [, Level 0]: 'Chocopie' has left the game
+[2021-04-16 23:30:20]: Coca [Drunks, Level 22]: oh
+[2021-04-16 23:30:21]: vihandu tee [, Level 0]: help me
