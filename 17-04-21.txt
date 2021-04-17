@@ -2345,3 +2345,5 @@
 [2021-04-17 04:26:35]: cookie [, Level 21]: hahah yeah
 [2021-04-17 04:26:46]: f"{self.name}" [, Level 18]: ♥TAKO♥: and does it work ??
 [2021-04-17 04:26:48]: ***  [, Level 0]: 'Bulbasaur' changed name to 'Ivysaur'
+[2021-04-17 04:26:53]: Taip [VergleriSay, Level 19]: sal
+[2021-04-17 04:26:59]: ***  [, Level 0]: '[D] BC|serwan' entered and joined the game
