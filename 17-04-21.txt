@@ -6191,3 +6191,5 @@
 [2021-04-17 07:55:38]: Soros [, Level 0]: casserole :p: EHM NO
 [2021-04-17 07:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-17 07:55:53]: ***  [, Level 0]: '[RUS]' entered and joined the game
+[2021-04-17 07:55:56]: ***  [, Level 0]: '(1)Zephir™' has left the game
+[2021-04-17 07:56:00]: ***  [, Level 0]: '[RUS]' has left the game
