@@ -6519,3 +6519,7 @@
 [2021-04-17 08:24:00]: .S L E E P Y' [iPro ♡, Level 0]: he had a chance too
 [2021-04-17 08:24:00]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)casserole :p' is spawnblocking. Catch him!
 [2021-04-17 08:24:02]: El patron [, Level 30]: .S L E E P Y': pls say its fun
+[2021-04-17 08:24:08]: ***  [, Level 0]: 'WIR' entered and joined the game
+[2021-04-17 08:24:10]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)casserole :p' is spawnblocking. Catch him!
+[2021-04-17 08:24:13]: ***  [, Level 0]: 'WIR' has left the game
+[2021-04-17 08:24:17]: .S L E E P Y' [iPro ♡, Level 0]: El patron: idk man i remember last time :p
