@@ -13404,3 +13404,6 @@
 [2021-04-16 19:59:45]: (1)☺ [, Level 14]: i come Kirito ?
 [2021-04-16 19:59:45]: (2)Kirito [{TQuila}, Level 0]: xDDD oops
 [2021-04-16 19:59:49]: (2)Kirito [{TQuila}, Level 0]: no i have dummy
+[2021-04-16 19:59:55]: (1)☺ [, Level 14]: oh ok
+[2021-04-16 19:59:57]: (2)Kirito [{TQuila}, Level 0]: ok hmm i need you i think
+[2021-04-16 20:00:03]: (1)☺ [, Level 14]: ok
