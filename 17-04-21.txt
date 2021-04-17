@@ -7811,3 +7811,5 @@
 [2021-04-17 09:43:26]: lolpoep [Ape, Level 0]: wait
 [2021-04-17 09:43:28]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-17 09:43:34]: ChillerDragon [|*KoG*|, Level 45]: unmuted bob
+[2021-04-17 09:43:41]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-17 09:43:50]: bob [, Level 36]: ChillerDragon: wie unmuted
