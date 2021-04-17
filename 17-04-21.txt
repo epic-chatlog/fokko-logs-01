@@ -11085,3 +11085,8 @@
 [2021-04-17 12:45:39]: ***  [, Level 0]: 'Hermann Göring' has left the game
 [2021-04-17 12:45:41]: ***  [, Level 0]: 'Hermann Göring' entered and joined the game
 [2021-04-17 12:45:43]: (1)Sayme [, Level 0]: Luna: you have all items and skills for one life
+[2021-04-17 12:45:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-17 12:45:52]: ***  [, Level 0]: 'Hermann Göring' has left the game
+[2021-04-17 12:45:53]: |HolyHo| [FookinLads, Level 19]: (1)Salut: angry face to TL|ŦƹƦ$ŦǾN ? say sorry to him
+[2021-04-17 12:45:56]: (1)Sayme [, Level 0]: Luna: u die, need start all again(
+[2021-04-17 12:46:01]: Cylox [, Level 32]: ı dont grande
