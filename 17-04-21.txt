@@ -10301,3 +10301,7 @@
 [2021-04-17 11:41:22]: (1)SanoreX [Chilli.*, Level 0]: Cylox: DEMEM SIR
 [2021-04-17 11:41:23]: Cylox [{TQuila}, Level 31]: ya
 [2021-04-17 11:41:25]: Coca [Drunks, Level 23]: Ƭevan: сука money
+[2021-04-17 11:41:27]: ***  [, Level 0]: 'power2' has left the game
+[2021-04-17 11:41:27]: ***  [, Level 0]: 'power' has left the game
+[2021-04-17 11:41:28]: Cylox [{TQuila}, Level 31]: portal kesın .d
+[2021-04-17 11:41:38]: (1)SanoreX [Chilli.*, Level 0]: Cylox: yok portal deil söz
