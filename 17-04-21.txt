@@ -10,3 +10,4 @@
 [2021-04-17 00:06:49]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-17 00:06:52]: (1)ChillerDrago [Chilli.*, Level 45]: yo arseholes
 [2021-04-17 00:06:55]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
+[2021-04-17 00:07:26]: ***  [, Level 0]: 'ChillerDragon' changed name to 'yee'
