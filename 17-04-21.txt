@@ -12072,3 +12072,4 @@
 [2021-04-17 14:10:50]: [D] -:-|ML [, Level 0]: bruuh
 [2021-04-17 14:10:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-17 14:10:58]: Isegrin [, Level 55]: no u
+[2021-04-17 14:11:19]: [D] -:-|ML [, Level 0]: __init__(self):: which teeworlds client do you use?
