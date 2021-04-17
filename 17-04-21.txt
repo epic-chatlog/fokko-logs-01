@@ -4791,3 +4791,5 @@
 [2021-04-17 06:52:11]: ***  [, Level 0]: 'Ļåҕ Lobster' entered and joined the game
 [2021-04-17 06:52:13]:   [, Level 0]: RM | Arin: OMG Torento
 [2021-04-17 06:52:17]:   [, Level 0]: RM | Arin: Torento:  war
+[2021-04-17 06:52:24]: ***  [, Level 0]: '(1)Intensiv' entered and joined the game
+[2021-04-17 06:52:29]:   [, Level 0]: RM | Arin: Torento:  war4life
