@@ -2157,3 +2157,6 @@
 [2021-04-17 04:11:28]: ♥TAKO♥ [DogParty, Level 25]: ok
 [2021-04-17 04:11:35]: bob [Legacy™, Level 36]: Meetiteusz: all gone we need to war
 [2021-04-17 04:12:12]: ***  [, Level 0]: [POLICE-CHANNEL] 'Falco641' is spawnblocking. Catch him!
+[2021-04-17 04:12:22]: ***  [, Level 0]: '[D] -:-|ML' has left the game
+[2021-04-17 04:12:22]: ***  [, Level 0]: '-:-|ML' has left the game
+[2021-04-17 04:12:24]: ***  [, Level 0]: [POLICE-CHANNEL] 'Falco641' has been caught by 'f"{self.name}"' (5 minutes arrest)
