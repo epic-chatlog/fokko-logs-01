@@ -13502,3 +13502,4 @@
 [2021-04-16 20:26:03]: (1)☺ [, Level 14]: you are dead flappy
 [2021-04-16 20:26:54]: (1)☺ [, Level 14]: oh wow
 [2021-04-16 20:29:04]: (1)☺ [, Level 14]: what are you doing Kirito
+[2021-04-16 20:29:21]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
