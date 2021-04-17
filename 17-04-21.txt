@@ -6421,3 +6421,5 @@
 [2021-04-17 08:14:35]: ***  [, Level 0]: '(1)☺' entered and joined the spectators
 [2021-04-17 08:14:50]: el champeon [, Level 0]: you ugly ghost are beggining to annoy me
 [2021-04-17 08:14:52]: ***  [, Level 0]: '|HolyHo|°' has left the game (Timeout)
+[2021-04-17 08:14:56]: Vodo4ka [Chilli.*, Level 41]: [D] El patron: dummy pro
+[2021-04-17 08:15:02]: El patron [, Level 30]: wtf
