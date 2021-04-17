@@ -1188,3 +1188,4 @@
 [2021-04-17 03:14:25]: ***  [, Level 0]: 'Meetiteusz' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-17 03:14:25]: ***  [, Level 0]: '(1)Meetiteusz' has left the game (Timeout)
 [2021-04-17 03:14:25]: ***  [, Level 0]: '(1)Matiteusz' has left the game (Timeout)
+[2021-04-17 03:14:46]: ♥TAKO♥ [DogParty, Level 25]: mamikral011:  dami internet harcar bunu bilmiyomusun kral
