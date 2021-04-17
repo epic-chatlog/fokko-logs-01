@@ -12111,3 +12111,6 @@
 [2021-04-17 14:17:10]: [D] -:-|ML [, Level 0]: f"{self.name}": go left
 [2021-04-17 14:17:17]: [D] -:-|ML [, Level 0]: nooo
 [2021-04-17 14:17:28]: [D] -:-|ML [, Level 0]: umm
+[2021-04-17 14:17:40]: [D] -:-|ML [, Level 0]: f"{self.name}": you see the rainbow thing above you
+[2021-04-17 14:17:40]: Isegrin [, Level 55]: Hunter.exe: prank
+[2021-04-17 14:17:45]: [D] -:-|ML [, Level 0]: f"{self.name}": go in there
