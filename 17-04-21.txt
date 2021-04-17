@@ -2535,3 +2535,6 @@
 [2021-04-17 04:41:38]: Falco641 [.bad, Level 20]: bob: rip
 [2021-04-17 04:41:44]: Taip [VergleriSay, Level 19]: i play good?
 [2021-04-17 04:41:55]: f"{self.name}" [, Level 18]: Taip: yeah i think youre better than me XD
+[2021-04-17 04:41:58]: Zephir™ [404, Level 40]: BC|kakashi: omg
+[2021-04-17 04:41:59]: Taip [VergleriSay, Level 19]: wtf
+[2021-04-17 04:42:01]: Taip [VergleriSay, Level 19]: xD
