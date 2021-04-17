@@ -12075,3 +12075,8 @@
 [2021-04-17 14:11:19]: [D] -:-|ML [, Level 0]: __init__(self):: which teeworlds client do you use?
 [2021-04-17 14:11:29]: __init__(self): [, Level 0]: -:-|ML: fokkonauts
 [2021-04-17 14:11:31]: ***  [, Level 0]: 'Virus' entered and joined the game
+[2021-04-17 14:11:47]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-17 14:11:49]: ***  [, Level 0]: '(1)casserole :p' entered and joined the game
+[2021-04-17 14:11:50]: ***  [, Level 0]: 'Virus' entered and joined the game
+[2021-04-17 14:11:51]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-17 14:11:54]: ***  [, Level 0]: '(1)casserole :p' has left the game
