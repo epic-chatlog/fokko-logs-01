@@ -252,3 +252,5 @@
 [2021-04-17 01:52:12]: SanoreX [Chilli.*, Level 27]: Cylox: flag versene
 [2021-04-17 01:52:16]: Cylox [{TQuila}, Level 31]: hayır
 [2021-04-17 01:52:18]: SanoreX [Chilli.*, Level 27]: nDN
+[2021-04-17 01:52:35]: ***  [, Level 0]: 'ToMsKaTv' entered and joined the game
+[2021-04-17 01:52:36]: Cylox. [{TQuila}, Level 24]: hayır
