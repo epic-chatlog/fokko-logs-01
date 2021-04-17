@@ -11143,3 +11143,4 @@
 [2021-04-17 12:51:03]: ***  [, Level 0]: 'tadija picka' entered and joined the game
 [2021-04-17 12:51:04]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-17 12:51:04]: ***  [, Level 0]: 'Cylox.' has left the game
+[2021-04-17 12:51:13]: ***  [, Level 0]: 'tadija picka' has left the game
