@@ -11367,3 +11367,9 @@
 [2021-04-17 13:12:21]: ***  [, Level 0]: '__init__(self):' entered and joined the game
 [2021-04-17 13:12:21]: |HolyHo|° [FookinLads, Level 29]: ☺: what st fu
 [2021-04-17 13:12:29]: ☺ [, Level 26]: stfu |HolyHo| ?
+[2021-04-17 13:12:33]: bob [, Level 36]: Salut: wtf ?
+[2021-04-17 13:12:37]: Zephir™ [404, Level 40]: Salut: gg !!!
+[2021-04-17 13:12:38]: Intensiv [CrazyNoobs, Level 15]: help
+[2021-04-17 13:12:38]: bob [, Level 36]: Salut: come ?
+[2021-04-17 13:12:40]: El patron [FookinLads, Level 30]: Falco641: kill bob
+[2021-04-17 13:12:40]: [D] ♥TAKO♥ [DogParty, Level 0]: Intensiv:  dur dur beni speckle sadece sen
