@@ -10055,3 +10055,7 @@
 [2021-04-17 11:27:46]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
 [2021-04-17 11:27:52]: bob [, Level 36]: LOOOOOOOOOOOOL
 [2021-04-17 11:27:53]: cunt [TrRShClNrRs, Level 0]: Telefantastic: PUT THE WEAPON DOWN
+[2021-04-17 11:28:02]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-17 11:28:07]: ***  [, Level 0]: 'Intensiv' has left the game
+[2021-04-17 11:28:07]: cunt [TrRShClNrRs, Level 0]: THE OTHER WEAPON
+[2021-04-17 11:28:07]: Zephir™ [404, Level 40]: any: j'ai crash
