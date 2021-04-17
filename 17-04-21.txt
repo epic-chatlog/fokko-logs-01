@@ -12856,3 +12856,5 @@
 [2021-04-17 15:40:45]: ***  [, Level 0]: 'soleri1' has left the game
 [2021-04-17 15:40:49]: ***  [, Level 0]: 'Dnike' has left the game
 [2021-04-17 15:40:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-17 15:40:58]: ***  [, Level 0]: 'Dnike' entered and joined the game
+[2021-04-17 15:41:04]: ***  [, Level 0]: 'Dnike' has left the game
