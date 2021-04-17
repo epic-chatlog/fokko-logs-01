@@ -12299,3 +12299,5 @@
 [2021-04-17 14:41:14]: [D] Hunter.exe [DogParty, Level 27]: oh
 [2021-04-17 14:41:20]: ***  [, Level 0]: 'woona' entered and joined the game
 [2021-04-17 14:41:23]: ***  [, Level 0]: 'casserole :p' has left the game (Timeout)
+[2021-04-17 14:41:51]: HeavyGeneral [FookinLads, Level 36]: Random Guy: waht cpu/gpu
+[2021-04-17 14:41:56]: any² [404, Level 0]: t
