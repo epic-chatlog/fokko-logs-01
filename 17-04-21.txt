@@ -12361,3 +12361,5 @@
 [2021-04-17 14:50:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-17 14:51:02]: ***  [, Level 0]: 'cunt' has left the game
 [2021-04-17 14:52:37]: ***  [, Level 0]: 'woona' has left the game
+[2021-04-17 14:53:26]: ***  [, Level 0]: 'ROBOTEE' entered and joined the game
+[2021-04-17 14:53:33]: Random Guy [, Level 40]: Kenshi™: >>>
