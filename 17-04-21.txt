@@ -12900,3 +12900,5 @@
 [2021-04-17 15:45:42]: BLACK [, Level 0]: power: YEAH COME 1V1
 [2021-04-17 15:45:43]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: OIMG
 [2021-04-17 15:45:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-17 15:45:56]: ***  [, Level 0]: 'power' has left the game
+[2021-04-17 15:45:57]: -:-|ML [, Level 0]: El Monkey: you dead xD
