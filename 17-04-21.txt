@@ -2242,3 +2242,6 @@
 [2021-04-17 04:17:04]: BC|Tixnix [BC, Level 0]: koro:
 [2021-04-17 04:17:08]: cookie [, Level 21]: normal its ful
 [2021-04-17 04:17:21]: Taip [VergleriSay, Level 19]: i cant
+[2021-04-17 04:17:31]: Taip [VergleriSay, Level 19]: TAKO
+[2021-04-17 04:17:34]: Taip [VergleriSay, Level 19]: how
+[2021-04-17 04:17:37]: Taip [VergleriSay, Level 19]: strong shotgun
