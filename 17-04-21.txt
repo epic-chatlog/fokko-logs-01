@@ -10867,3 +10867,5 @@
 [2021-04-17 12:27:50]: [D] El patron [FookinLads, Level 24]: bob:  i have 5 jumps
 [2021-04-17 12:28:13]: (1)BLACK [, Level 0]: ♥TAKO♥: come help
 [2021-04-17 12:28:17]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
+[2021-04-17 12:28:27]: SanoreX [Chilli.*, Level 27]: Cylox:
+[2021-04-17 12:28:35]: SanoreX [Chilli.*, Level 27]: Cylox: KNK
