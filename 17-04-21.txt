@@ -10527,3 +10527,5 @@
 [2021-04-17 11:59:51]: ***  [, Level 0]: ES finished in: 17 minute(s) 25.52 second(s)
 [2021-04-17 11:59:53]: ***  [, Level 0]: El patron finished in: 11 minute(s) 42.24 second(s)
 [2021-04-17 12:00:01]: |HolyHo| [FookinLads, Level 19]: RM | Arin: i am capping? sure ..
+[2021-04-17 12:00:19]: ***  [, Level 0]: 'DODO' entered and joined the game
+[2021-04-17 12:00:21]: ***  [, Level 0]: '(1)SanoreX' has left the game
