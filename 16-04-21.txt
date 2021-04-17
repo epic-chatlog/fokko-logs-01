@@ -13529,3 +13529,5 @@
 [2021-04-16 20:34:27]: ☺ [, Level 23]: logout ?
 [2021-04-16 20:34:40]: Kirito [{TQuila}, Level 40]: i mean you can go you dont need to wait for me to take it :D
 [2021-04-16 20:34:58]: ☺ [, Level 23]: ahh ah yes good night
+[2021-04-16 20:35:11]: ***  [, Level 0]: '(1)☺' has left the game
+[2021-04-16 20:35:13]: ***  [, Level 0]: '☺' has left the game
