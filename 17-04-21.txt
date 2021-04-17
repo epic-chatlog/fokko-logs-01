@@ -8130,3 +8130,4 @@
 [2021-04-17 09:58:37]: ***  [, Level 0]: 'QON QON' joined the game
 [2021-04-17 09:58:42]: ***  [, Level 0]: 'Swarfey' left the minigame 'Survival'
 [2021-04-17 09:58:44]: weqe [669, Level 13]: u would be the only regretting party if u spike me bob
+[2021-04-17 09:58:58]: ***  [, Level 0]: [POLICE-CHANNEL] 'IwillBlockYou' is spawnblocking. Catch him!
