@@ -2215,3 +2215,7 @@
 [2021-04-17 04:15:32]: ***  [, Level 0]: 'Marcisten' entered and joined the game
 [2021-04-17 04:15:32]: bob [Legacy™, Level 36]: alt f4
 [2021-04-17 04:15:34]: Taip [VergleriSay, Level 19]: fun war?
+[2021-04-17 04:15:37]: Intensiv [CrazyNoobs, Level 14]: nabun
+[2021-04-17 04:15:41]: ♥TAKO♥ [DogParty, Level 25]: f"{self.name}":  give me ur clicker xD
+[2021-04-17 04:15:41]: bob [Legacy™, Level 36]: f4
+[2021-04-17 04:15:43]: bob [Legacy™, Level 36]: only
