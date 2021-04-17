@@ -13326,3 +13326,4 @@
 [2021-04-17 16:47:58]: ***  [, Level 0]: BULLETBOT's killing spree was ended by [D] BC|Tixnix (6 blocks)
 [2021-04-17 16:48:04]: ***  [, Level 0]: 'Kirito' entered and joined the game
 [2021-04-17 16:48:10]: ***  [, Level 0]: 'xel' entered and joined the game
+[2021-04-17 16:50:08]: ***  [, Level 0]: 'RM | Arin' entered and joined the game
