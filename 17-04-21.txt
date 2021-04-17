@@ -2597,3 +2597,8 @@
 [2021-04-17 04:48:58]: ***  [, Level 0]: '(3)MOM' left the minigame 'Block'
 [2021-04-17 04:49:04]: bob [Legacy™, Level 36]: fine
 [2021-04-17 04:49:06]: bob [Legacy™, Level 36]: how about you
+[2021-04-17 04:49:11]: BC|kakashi [BC, Level 14]: Zephir™: war
+[2021-04-17 04:49:15]: ***  [, Level 0]: 'Altes Bier' entered and joined the game
+[2021-04-17 04:49:17]: ***  [, Level 0]: 'Altes Bier' has left the game
+[2021-04-17 04:49:18]: ***  [, Level 0]: '(3)MOM' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-17 04:49:20]: Zephir™ [404, Level 40]: [D] BC|kakashi: idc nob u help bob
