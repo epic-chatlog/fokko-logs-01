@@ -1501,3 +1501,5 @@
 [2021-04-17 03:27:24]: bob [Legacy™, Level 36]: weqe: u found friend brother?
 [2021-04-17 03:27:28]: weqe [669, Level 13]: bob: yes
 [2021-04-17 03:27:29]: ***  [, Level 0]: 'gocommitlegoste' joined the game
+[2021-04-17 03:27:34]: ***  [, Level 0]: '(1)Matiteusz' entered and joined the game
+[2021-04-17 03:27:44]: ***  [, Level 0]: '(1)Meetiteusz' entered and joined the game
