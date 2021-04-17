@@ -216,3 +216,5 @@
 [2021-04-17 01:45:52]: Estarossa [, Level 11]: ~DemoizL~: viens
 [2021-04-17 01:46:05]: Coca [Drunks, Level 22]: Tom: go
 [2021-04-17 01:46:06]: SanoreX [Chilli.*, Level 27]: ChillerDragon: hi
+[2021-04-17 01:46:13]: SanoreX [Chilli.*, Level 27]: Mista bombastic: help riht
+[2021-04-17 01:46:18]: SanoreX [Chilli.*, Level 27]: flappy: ty
