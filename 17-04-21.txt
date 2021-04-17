@@ -566,3 +566,4 @@
 [2021-04-17 02:25:51]: ***  [, Level 0]: '(3)casserole :p' has left the game (Timeout)
 [2021-04-17 02:26:06]: вłøøđcave [ƨơʅơ, Level 0]: bob: soll das jetzt 'n schlechter scherz sein? xD
 [2021-04-17 02:26:16]: bob [Legacy™, Level 36]: wer bist du denn
+[2021-04-17 02:26:21]: ***  [, Level 0]: 'Telefantastic' entered and joined the game
