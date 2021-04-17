@@ -6844,3 +6844,7 @@
 [2021-04-17 08:51:54]: ***  [, Level 0]: 'el champeon5787' entered and joined the game
 [2021-04-17 08:52:05]: ***  [, Level 0]: 'anime girl' has left the game
 [2021-04-17 08:52:11]: ***  [, Level 0]: '(1)☺' entered and joined the game
+[2021-04-17 08:52:16]: ***  [, Level 0]: '(2)☺' entered and joined the game
+[2021-04-17 08:52:17]: ***  [, Level 0]: 'el champeon5787' has left the game
+[2021-04-17 08:52:18]: ***  [, Level 0]: '(1)el champeon' entered and joined the game
+[2021-04-17 08:52:23]: Killua [FookinLads, Level 0]: STOP FIGHTING WITHIN THE CLAN koro sun.slow(y)
