@@ -13544,3 +13544,5 @@
 [2021-04-16 21:21:17]: ***  [, Level 0]: '_titan_macters_' entered and joined the game
 [2021-04-16 21:21:46]: ***  [, Level 0]: '_titan_macters_' has left the game
 [2021-04-16 21:21:54]: ***  [, Level 0]: '_titan_macters_' entered and joined the game
+[2021-04-16 21:22:20]: ***  [, Level 0]: '_titan_macters_' has left the game
+[2021-04-16 21:22:23]: ***  [, Level 0]: '_titan_macters_' entered and joined the game
