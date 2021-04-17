@@ -13401,3 +13401,6 @@
 [2021-04-16 19:59:27]: (1)Kirito [, Level 26]: ehh
 [2021-04-16 19:59:36]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
 [2021-04-16 19:59:36]: (1)☺ [, Level 14]: Kirito: seriously
+[2021-04-16 19:59:45]: (1)☺ [, Level 14]: i come Kirito ?
+[2021-04-16 19:59:45]: (2)Kirito [{TQuila}, Level 0]: xDDD oops
+[2021-04-16 19:59:49]: (2)Kirito [{TQuila}, Level 0]: no i have dummy
