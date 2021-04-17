@@ -10855,3 +10855,5 @@
 [2021-04-17 12:26:38]: ***  [, Level 0]: 'ShiroKinght' has left the game
 [2021-04-17 12:26:47]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-17 12:27:01]: ***  [, Level 0]: 'ShiroKinght' entered and joined the game
+[2021-04-17 12:27:10]: |HolyHo|° [FookinLads, Level 29]: bob: 1/000000 iq
+[2021-04-17 12:27:15]: |HolyHo|° [FookinLads, Level 29]: bob: xaxax
