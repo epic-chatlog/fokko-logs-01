@@ -9454,3 +9454,9 @@
 [2021-04-17 11:02:20]: HeavyGeneral [FookinLads, Level 36]: |HolyHo|: add me in discord HeavyGeneral#7563
 [2021-04-17 11:02:23]: Cylox [{TQuila}, Level 31]: weqe:
 [2021-04-17 11:02:43]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-17 11:02:43]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-17 11:02:43]: ***  [, Level 0]: (1)Salut finished in: 5 minute(s)  5.32 second(s)
+[2021-04-17 11:02:48]: ***  [, Level 0]: '[D] mamikral011' has left the game
+[2021-04-17 11:02:48]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-17 11:02:49]: ***  [, Level 0]: Salut finished in: 3 minute(s) 53.58 second(s)
+[2021-04-17 11:02:49]: ***  [, Level 0]: New record: 1 minute(s) 14.30 second(s) better.
