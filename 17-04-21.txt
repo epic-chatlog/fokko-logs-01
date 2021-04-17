@@ -2811,3 +2811,5 @@
 [2021-04-17 05:07:50]:   [, Level 0]: Matiteusz: Zephir™: then give my money bakc
 [2021-04-17 05:08:04]: Zephir™ [404, Level 40]: Matiteusz: ok but stop raid
 [2021-04-17 05:08:04]: ***  [, Level 0]: [POLICE-CHANNEL] 'bully' is spawnblocking. Catch him!
+[2021-04-17 05:08:08]: Taip [VergleriSay, Level 19]: q
+[2021-04-17 05:08:09]: ***  [, Level 0]: [POLICE-CHANNEL] 'bully' is spawnblocking. Catch him!
