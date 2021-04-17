@@ -2294,3 +2294,5 @@
 [2021-04-17 04:20:33]: cookie [, Level 21]: tackle
 [2021-04-17 04:20:37]: (1)Matiteusz [TrRShClNrRs, Level 23]: koro: im only pranking people
 [2021-04-17 04:20:38]: cookie [, Level 21]: surf
+[2021-04-17 04:20:42]: BC|Tixnix [BC, Level 0]: koro:
+[2021-04-17 04:20:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
