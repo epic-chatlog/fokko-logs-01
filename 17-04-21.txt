@@ -2356,3 +2356,9 @@
 [2021-04-17 04:27:35]: (1)Matiteusz [TrRShClNrRs, Level 23]: bob: no one is coming :c
 [2021-04-17 04:27:38]: bob [Legacy™, Level 36]: yes xd
 [2021-04-17 04:27:41]: (1)Matiteusz [TrRShClNrRs, Level 23]: bob: afk
+[2021-04-17 04:27:55]: Taip [VergleriSay, Level 19]: Cylox. nie
+[2021-04-17 04:27:59]: Taip [VergleriSay, Level 19]: Cylox: nie
+[2021-04-17 04:27:59]: Cylox [{TQuila}, Level 0]: Ez
+[2021-04-17 04:27:59]: ♥TAKO♥ [DogParty, Level 25]: f"{self.name}":  not work but thx :D
+[2021-04-17 04:28:00]: Taip [VergleriSay, Level 19]: olm
+[2021-04-17 04:28:04]: Taip [VergleriSay, Level 19]: teamiz biz
