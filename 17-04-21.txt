@@ -6401,3 +6401,6 @@
 [2021-04-17 08:13:12]: Torento [, Level 23]: я выхожу
 [2021-04-17 08:13:13]: Vodo4ka [Chilli.*, Level 41]: Torento: Я иду на смерть
 [2021-04-17 08:13:18]: ***  [, Level 0]: 'Лимонад' entered and joined the game
+[2021-04-17 08:13:22]: Torento [, Level 23]: пох
+[2021-04-17 08:13:26]: Torento [, Level 23]: он тебе пригодиться
+[2021-04-17 08:13:27]: ***  [, Level 0]: el champeon is on a killing spree with 20 blocks
