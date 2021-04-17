@@ -11250,3 +11250,7 @@
 [2021-04-17 13:02:41]: ***  [, Level 0]: 'power' has left the game
 [2021-04-17 13:02:42]: [D] Hunter.exe [DogParty, Level 27]: Killua: ?
 [2021-04-17 13:02:53]: [D] Hunter.exe [DogParty, Level 27]: Zephir™: DONT HELP SOMEONE WHO I KILL MAN
+[2021-04-17 13:02:57]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-17 13:02:58]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-17 13:03:00]: ***  [, Level 0]: 'wolf' has left the game
+[2021-04-17 13:03:01]: ***  [, Level 0]: '-:-|ML' entered and joined the game
