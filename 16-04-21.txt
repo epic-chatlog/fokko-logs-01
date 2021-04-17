@@ -13630,3 +13630,4 @@
 [2021-04-16 23:19:38]: Good man [Drunks, Level 31]: ok
 [2021-04-16 23:19:40]: Good man [Drunks, Level 31]: go to spawn
 [2021-04-16 23:19:50]: Good man [Drunks, Level 31]: go
+[2021-04-16 23:20:03]: Good man [Drunks, Level 31]: jump to my hook
