@@ -12156,3 +12156,4 @@
 [2021-04-17 14:25:47]: Kenshi™ [404, Level 0]: El patron:
 [2021-04-17 14:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-17 14:25:53]: [D] El patron [FookinLads, Level 24]: Kenshi™: ?
+[2021-04-17 14:26:21]: [D] -:-|ML [, Level 0]: bob: i killed so many people before you went off and then i failed :I
