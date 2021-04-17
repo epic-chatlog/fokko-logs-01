@@ -6668,3 +6668,5 @@
 [2021-04-17 08:39:39]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: GOPD
 [2021-04-17 08:39:40]: [D] El patron [, Level 24]: wait
 [2021-04-17 08:39:41]: power [TrRShClNrRs, Level 15]: Lucas:
+[2021-04-17 08:39:45]: Lucas [THECEPS, Level 35]: power: ?
+[2021-04-17 08:39:54]: power [TrRShClNrRs, Level 15]: want in
