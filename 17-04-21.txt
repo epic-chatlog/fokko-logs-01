@@ -8762,3 +8762,4 @@
 [2021-04-17 10:28:13]: ***  [, Level 0]: 'мяу' entered and joined the game
 [2021-04-17 10:28:15]: bob [, Level 36]: weqe: u faker!
 [2021-04-17 10:28:15]: Zephir™ [404, Level 40]: im angry now
+[2021-04-17 10:28:22]: JustRace [DogParty, Level 36]: bob: your dog left the server
