@@ -918,3 +918,8 @@
 [2021-04-17 02:58:16]: (1)Good man [Drunks, Level 17]: help me its joke
 [2021-04-17 02:58:17]: weqe [669, Level 13]: bob: ACCEPT APOLOGY NOW
 [2021-04-17 02:58:21]: (1)Good man [Drunks, Level 17]: Kahve: joke
+[2021-04-17 02:58:29]: power [TrRShClNrRs, Level 0]: watch
+[2021-04-17 02:58:31]: power [TrRShClNrRs, Level 0]: jump left
+[2021-04-17 02:58:31]: bob [Legacy™, Level 36]: weqe: he needs to apologize again
+[2021-04-17 02:58:32]: (1)Good man [Drunks, Level 17]: Kahve: stop or war
+[2021-04-17 02:58:36]: Kahve [, Level 24]: war
