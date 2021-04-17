@@ -3515,3 +3515,4 @@
 [2021-04-17 05:57:02]: Shiro. [404, Level 0]: XDDD
 [2021-04-17 05:57:03]: Shiro. [404, Level 0]: get fucked
 [2021-04-17 05:57:03]: ***  [, Level 0]: 'Isegrin' entered and joined the game
+[2021-04-17 05:57:12]: ***  [, Level 0]: '[D] Kahve' entered and joined the game
