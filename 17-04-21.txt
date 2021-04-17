@@ -13282,3 +13282,4 @@
 [2021-04-17 16:28:53]: ***  [, Level 0]: 'WarHammer'' has left the game
 [2021-04-17 16:28:53]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-17 16:29:17]: ***  [, Level 0]: 'taco bell' entered and joined the game
+[2021-04-17 16:29:39]: ***  [, Level 0]: '[D] taco bell' entered and joined the game
