@@ -2721,3 +2721,9 @@
 [2021-04-17 05:00:51]: El patron [, Level 30]: xd
 [2021-04-17 05:00:57]: El patron [, Level 30]: money drop 1700
 [2021-04-17 05:00:57]: Falco642 [, Level 0]: Cylox: stfu
+[2021-04-17 05:01:01]: El patron [, Level 30]: xd
+[2021-04-17 05:01:04]: Taip [VergleriSay, Level 19]: br0
+[2021-04-17 05:01:05]: Taip [VergleriSay, Level 19]: wait
+[2021-04-17 05:01:07]: ***  [, Level 0]: 'Cylox.' entered and joined the game
+[2021-04-17 05:01:07]: Taip [VergleriSay, Level 19]: pl
+[2021-04-17 05:01:08]: Taip [VergleriSay, Level 19]: s
