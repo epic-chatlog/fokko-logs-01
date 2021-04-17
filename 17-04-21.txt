@@ -2840,3 +2840,4 @@
 [2021-04-17 05:10:18]: Meetiteusz [TrRShClNrRs, Level 28]: El patron: good
 [2021-04-17 05:10:19]: ***  [, Level 0]: 'Meetiteusz' has left the game
 [2021-04-17 05:10:19]: ***  [, Level 0]: 'Matiteusz' has left the game
+[2021-04-17 05:10:39]: ***  [, Level 0]: 'Falco641' entered and joined the game
