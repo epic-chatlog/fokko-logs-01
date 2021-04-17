@@ -13268,3 +13268,5 @@
 [2021-04-17 16:25:31]: ***  [, Level 0]: BC|serwan's killing spree was ended by BC|kakashi (7 blocks)
 [2021-04-17 16:25:44]: ***  [, Level 0]: 'WarHammer' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-17 16:25:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-17 16:25:56]: BC|serwan [BC, Level 0]: aa
+[2021-04-17 16:25:59]: BC|serwan [BC, Level 0]: fs
