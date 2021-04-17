@@ -11382,3 +11382,10 @@
 [2021-04-17 13:12:54]: [D] ♥TAKO♥ [DogParty, Level 0]: Intensiv:  yardım
 [2021-04-17 13:12:55]: Zephir™ [404, Level 40]: TL|ŦƹƦ$ŦǾN:
 [2021-04-17 13:12:56]: Hunter.exe [DogParty, Level 37]: Salut: laser
+[2021-04-17 13:13:00]: |HolyHo| [FookinLads, Level 19]: (2)Salut: help or war
+[2021-04-17 13:13:02]: Intensiv [CrazyNoobs, Level 15]: help
+[2021-04-17 13:13:05]: Hunter.exe [DogParty, Level 37]: Salut: HERE
+[2021-04-17 13:13:06]: ***  [, Level 0]: [POLICE-CHANNEL] 'bruh' has been caught by 'f"{self.name}"' (10 minutes arrest)
+[2021-04-17 13:13:06]: Zephir™ [404, Level 40]: Killua:
+[2021-04-17 13:13:08]: [D] ♥TAKO♥ [DogParty, Level 0]: Salut:  help Intensiv
+[2021-04-17 13:13:08]: Hunter.exe [DogParty, Level 37]: Salut: ARE YOU DUMB
