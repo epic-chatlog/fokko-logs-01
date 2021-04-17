@@ -4713,3 +4713,7 @@
 [2021-04-17 06:49:09]: ***  [, Level 0]: Ðeathscyth finished in: 7 minute(s)  0.86 second(s)
 [2021-04-17 06:49:09]: ***  [, Level 0]: New record: 1 minute(s)  6.32 second(s) better.
 [2021-04-17 06:49:10]: bob [Legacy™, Level 36]: Kezo:
+[2021-04-17 06:49:15]: ***  [, Level 0]: '(2)cookie' entered and joined the game
+[2021-04-17 06:49:19]: bob [Legacy™, Level 36]: we team?
+[2021-04-17 06:49:21]: El Monkey [Retard MNKY, Level 0]: Zephir™:  l2p
+[2021-04-17 06:49:22]: El Monkey [Retard MNKY, Level 0]: wayblocker
