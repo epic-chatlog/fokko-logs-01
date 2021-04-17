@@ -10220,3 +10220,8 @@
 [2021-04-17 11:37:28]: power [TrRShClNrRs, Level 0]: wont do it again
 [2021-04-17 11:37:28]: SanoreX [Chilli.*, Level 27]: power: /survivAL
 [2021-04-17 11:37:30]: SanoreX [Chilli.*, Level 27]: power: /survival
+[2021-04-17 11:37:36]: ***  [, Level 0]: '[RUS]' entered and joined the game
+[2021-04-17 11:37:40]: ***  [, Level 0]: 'power' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-17 11:37:41]: ☺ [, Level 23]: nooooooooooooon
+[2021-04-17 11:37:43]: ***  [, Level 0]: '(1)SanoreX' left the minigame 'Survival'
+[2021-04-17 11:37:43]: Good man [Drunks, Level 31]: Ƭevan: деньги та есть у меня).а вот paypa; нут
