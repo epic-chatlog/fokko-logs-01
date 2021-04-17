@@ -378,3 +378,4 @@
 [2021-04-17 02:08:05]: [D] NinjaWhite [, Level 0]: falkenauge:
 [2021-04-17 02:08:24]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-17 02:08:29]: WarHammer [DogParty, Level 26]: Coca:  he have dummy he can help
+[2021-04-17 02:08:39]: ***  [, Level 0]: '~DemoizL~' has left the game
