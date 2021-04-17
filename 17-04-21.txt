@@ -5390,3 +5390,8 @@
 [2021-04-17 07:16:51]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
 [2021-04-17 07:16:53]: ***  [, Level 0]: '☺' has left the game (Timeout)
 [2021-04-17 07:16:54]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
+[2021-04-17 07:17:09]: |HolyHo| [FookinLads, Level 19]: . sorry he is my team mate
+[2021-04-17 07:17:10]: ***  [, Level 0]: '4i4ia' entered and joined the game
+[2021-04-17 07:17:11]: ***  [, Level 0]: 'Лимонад' entered and joined the game
+[2021-04-17 07:17:11]: ***  [, Level 0]: Soros is on a killing spree with 25 blocks
+[2021-04-17 07:17:11]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
