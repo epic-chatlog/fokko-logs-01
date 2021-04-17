@@ -10184,3 +10184,10 @@
 [2021-04-17 11:36:25]: SanoreX [Chilli.*, Level 27]: power: nobody can hook u XD
 [2021-04-17 11:36:25]: ***  [, Level 0]: 'Cylox.' entered and joined the game
 [2021-04-17 11:36:27]: ***  [, Level 0]: 'FullFun' joined the game
+[2021-04-17 11:36:32]: ***  [, Level 0]: 'FullFun' joined the spectators
+[2021-04-17 11:36:33]: ***  [, Level 0]: '(1)SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-17 11:36:34]: ***  [, Level 0]: (1)Salut is on a killing spree with 5 blocks
+[2021-04-17 11:36:34]: SanoreX [Chilli.*, Level 27]: wait
+[2021-04-17 11:36:36]: ***  [, Level 0]: 'FullFun' joined the game
+[2021-04-17 11:36:41]: El patron [, Level 30]: Zephir™:  we need vs emoeji
+[2021-04-17 11:36:43]: ***  [, Level 0]: 'SanoreX.*' joined the minigame 'Survival', use '/survival' to join aswell
