@@ -13586,3 +13586,4 @@
 [2021-04-16 22:25:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-16 22:27:44]: ***  [, Level 0]: 'Noxl' has left the game
 [2021-04-16 22:27:44]: ***  [, Level 0]: 'Noxl.' has left the game
+[2021-04-16 22:30:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
