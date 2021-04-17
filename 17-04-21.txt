@@ -1925,3 +1925,7 @@
 [2021-04-17 03:50:36]: weqe [669, Level 13]: bob: wtf where enemies
 [2021-04-17 03:50:38]: ♥TAKO♥ [DogParty, Level 25]: Swarfey:  ı not dog ı am coala
 [2021-04-17 03:50:41]: Isegrin [, Level 55]: Telefantastic: NEE
+[2021-04-17 03:50:47]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
+[2021-04-17 03:50:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 03:50:51]: ***  [, Level 0]: Swarfey is on a killing spree with 20 blocks
+[2021-04-17 03:50:53]: weqe [669, Level 13]: bob: nice
