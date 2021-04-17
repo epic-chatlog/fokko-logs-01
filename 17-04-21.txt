@@ -2430,3 +2430,5 @@
 [2021-04-17 04:35:19]: ***  [, Level 0]: 'farwits' entered and joined the game
 [2021-04-17 04:35:23]: ***  [, Level 0]: 'farwits' has left the game
 [2021-04-17 04:35:23]: bob [Legacy™, Level 36]: Falco641: why u block him
+[2021-04-17 04:35:31]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-17 04:35:32]: ***  [, Level 0]: 'nameless tee' has left the game
