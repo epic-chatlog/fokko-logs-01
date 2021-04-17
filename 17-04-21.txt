@@ -11182,3 +11182,5 @@
 [2021-04-17 12:55:25]: (1)Sayme [, Level 0]: yeee
 [2021-04-17 12:55:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-17 12:55:50]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' entered and joined the game
+[2021-04-17 12:55:55]: ***  [, Level 0]: 'Killua' entered and joined the game
+[2021-04-17 12:56:03]: ***  [, Level 0]: '(1)Ƭevan' has left the game
