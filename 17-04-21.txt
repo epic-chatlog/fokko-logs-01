@@ -142,3 +142,5 @@
 [2021-04-17 01:24:27]: GODLIKe [, Level 44]: power: 10 round
 [2021-04-17 01:24:30]: power [TrRShClNrRs, Level 0]: no
 [2021-04-17 01:24:33]: power [TrRShClNrRs, Level 0]: have to go in a min
+[2021-04-17 01:25:45]: GODLIKe [, Level 44]: WTF
+[2021-04-17 01:25:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
