@@ -2363,3 +2363,4 @@
 [2021-04-17 04:28:00]: Taip [VergleriSay, Level 19]: olm
 [2021-04-17 04:28:04]: Taip [VergleriSay, Level 19]: teamiz biz
 [2021-04-17 04:28:15]: Ivysaur [, Level 0]: bob: why u kill me
+[2021-04-17 04:28:19]: Taip [VergleriSay, Level 19]: war?
