@@ -2219,3 +2219,6 @@
 [2021-04-17 04:15:41]: ♥TAKO♥ [DogParty, Level 25]: f"{self.name}":  give me ur clicker xD
 [2021-04-17 04:15:41]: bob [Legacy™, Level 36]: f4
 [2021-04-17 04:15:43]: bob [Legacy™, Level 36]: only
+[2021-04-17 04:15:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-17 04:15:54]: ♥TAKO♥ [DogParty, Level 25]: f"{self.name}":  pls
+[2021-04-17 04:15:54]: bob [Legacy™, Level 36]: Pokemon: f4
