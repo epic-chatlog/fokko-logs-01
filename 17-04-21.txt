@@ -12149,3 +12149,5 @@
 [2021-04-17 14:21:59]: f"{self.name}" [, Level 18]: XDXDXDDXDDXDDDD
 [2021-04-17 14:22:15]: f"{self.name}" [, Level 18]: im sooo bad :D
 [2021-04-17 14:22:25]: ***  [, Level 0]: 'guigui' has left the game (Timeout)
+[2021-04-17 14:22:44]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-17 14:22:44]: ***  [, Level 0]: '__init__(self):' has left the game
