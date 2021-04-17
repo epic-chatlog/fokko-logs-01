@@ -6716,3 +6716,5 @@
 [2021-04-17 08:43:30]: sun.slow(y) [FookinLads, Level 35]: ChillerDragon: digga hab besseres zutun als ganze tag zu gucken wo und von wem du geblockt wirst
 [2021-04-17 08:43:32]: sun.slow(y) [FookinLads, Level 35]: ChillerDragon: komm klar
 [2021-04-17 08:43:34]: ***  [, Level 0]: '1IceyB0i' entered and joined the game
+[2021-04-17 08:43:43]: ***  [, Level 0]: '1IceyB0i' has left the game
+[2021-04-17 08:43:45]: ChillerDragon.* [|*KoG*|, Level 42]: ja normal sun.slow(y)
