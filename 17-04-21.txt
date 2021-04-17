@@ -12469,3 +12469,4 @@
 [2021-04-17 15:04:04]: ***  [, Level 0]: 'd' finished the special race!
 [2021-04-17 15:04:27]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
 [2021-04-17 15:04:31]: Random Guy [, Level 40]: Zephir™: seriosly guy waittting for another guy who has 30 fps
+[2021-04-17 15:04:36]: [D] El patron [FookinLads, Level 24]: 7money drop 100
