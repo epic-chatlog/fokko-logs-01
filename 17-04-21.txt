@@ -12017,3 +12017,5 @@
 [2021-04-17 14:05:11]: ZEWO [, Level 0]: Hunter.exe: I'm coming, take me, okay?
 [2021-04-17 14:05:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-17 14:05:59]: ***  [, Level 0]: 'Isegrin' entered and joined the game
+[2021-04-17 14:06:14]: any [404, Level 38]: Zephir™: alors ?
+[2021-04-17 14:06:15]: Zephir™ [404, Level 40]: :c
