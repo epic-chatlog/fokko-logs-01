@@ -2750,3 +2750,7 @@
 [2021-04-17 05:02:42]: Taip [VergleriSay, Level 19]: YEYY
 [2021-04-17 05:02:46]: cookie [, Level 21]: Zephir™:  help me out
 [2021-04-17 05:02:48]: f"{self.name}" [, Level 18]: yaay
+[2021-04-17 05:02:56]: ***  [, Level 0]: '(1)Kahve' entered and joined the game
+[2021-04-17 05:02:56]: f"{self.name}" [, Level 18]: Taip: inf jumps ??
+[2021-04-17 05:02:56]: Meetiteusz [TrRShClNrRs, Level 28]: El patron: 1700 or war4life
+[2021-04-17 05:02:56]: Zephir™ [404, Level 40]: Meetiteusz: say me to i say him to made that, no attack me
