@@ -2663,3 +2663,4 @@
 [2021-04-17 04:55:07]: ***  [, Level 0]: 'El patron' entered and joined the game
 [2021-04-17 04:55:08]: Zephir™ [404, Level 40]: Falco641: because he kill bob
 [2021-04-17 04:55:08]: ***  [, Level 0]: '(1)Ƭevan' has left the game
+[2021-04-17 04:55:15]: Zephir™ [404, Level 40]: f"{self.name}": come police
