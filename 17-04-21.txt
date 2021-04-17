@@ -12902,3 +12902,5 @@
 [2021-04-17 15:45:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-17 15:45:56]: ***  [, Level 0]: 'power' has left the game
 [2021-04-17 15:45:57]: -:-|ML [, Level 0]: El Monkey: you dead xD
+[2021-04-17 15:46:13]: El Monkey [Retard MNKY, Level 0]: yep
+[2021-04-17 15:46:14]: BLACK [, Level 0]: rq xD
