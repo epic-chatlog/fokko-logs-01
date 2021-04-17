@@ -11848,3 +11848,5 @@
 [2021-04-17 13:48:00]: Falco641 [.bad, Level 20]: Not Zerstrian: just leave me alone
 [2021-04-17 13:48:02]: Falco641 [.bad, Level 20]: my money
 [2021-04-17 13:48:03]: Falco641 [.bad, Level 20]: is my money
+[2021-04-17 13:48:16]: ZEWO dummy [, Level 0]: Hunter.exe: pls nooo
+[2021-04-17 13:48:18]: Kenshi™ [404, Level 0]: TL|ŦƹƦ$ŦǾN: GODLIKe help bob
