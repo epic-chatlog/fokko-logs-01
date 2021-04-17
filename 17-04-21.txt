@@ -10036,3 +10036,6 @@
 [2021-04-17 11:26:39]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-17 11:26:40]: El patron [, Level 30]: rifel
 [2021-04-17 11:26:40]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-17 11:26:45]: mamikral011 [DogParty, Level 27]: Telefantastic: ?
+[2021-04-17 11:26:47]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-17 11:26:51]: Telefantastic [TrRShClNrRs, Level 34]: mamikral011: ?
