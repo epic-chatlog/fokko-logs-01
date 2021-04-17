@@ -6566,3 +6566,4 @@
 [2021-04-17 08:28:18]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
 [2021-04-17 08:28:33]: ***  [, Level 0]: Soros's killing spree was ended by (1)ChillerDragon (5 blocks)
 [2021-04-17 08:28:45]: ***  [, Level 0]: 'GODLIKe.' entered and joined the game
+[2021-04-17 08:28:52]: sun.slow(y) [FookinLads, Level 35]: Friendiship ;-): you rich
