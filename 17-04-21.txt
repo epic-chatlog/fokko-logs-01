@@ -9317,3 +9317,8 @@
 [2021-04-17 10:53:44]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-17 10:53:47]: ***  [, Level 0]: 'Nibba' joined the game
 [2021-04-17 10:53:56]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-17 10:54:01]: Cylox [{TQuila}, Level 31]: weqe:
+[2021-04-17 10:54:03]: Cylox [{TQuila}, Level 31]: bob:
+[2021-04-17 10:54:03]: Killua [FookinLads, Level 37]: |HolyHo|: help
+[2021-04-17 10:54:08]: Killua [FookinLads, Level 37]: sun.slow(y):
+[2021-04-17 10:54:10]: ***  [, Level 0]: 'Jerry' entered and joined the game
