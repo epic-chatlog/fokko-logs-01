@@ -2500,3 +2500,5 @@
 [2021-04-17 04:38:42]: Falco642 [, Level 0]: ur fault
 [2021-04-17 04:38:49]: ***  [, Level 0]: (1)Jerry finished in: 10 minute(s) 51.60 second(s)
 [2021-04-17 04:38:49]: ***  [, Level 0]: '(1)Jerry' finished the special race!
+[2021-04-17 04:39:01]: Falco641 [.bad, Level 20]: Ivysaur: stop helping bc clan
+[2021-04-17 04:39:02]: bob [Legacy™, Level 36]: BC|kakashi: hab dir 5x geholfen
