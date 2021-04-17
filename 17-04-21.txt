@@ -2916,3 +2916,4 @@
 [2021-04-17 05:18:23]: f"{self.name}" [, Level 18]: me
 [2021-04-17 05:18:27]: Intensiv_ [CrazyNoobs, Level 10]: Tom:
 [2021-04-17 05:18:33]: ***  [, Level 0]: 'Coca' has left the game
+[2021-04-17 05:18:38]: Intensiv_ [CrazyNoobs, Level 10]: El patron:  help me
