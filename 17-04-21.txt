@@ -7492,3 +7492,12 @@
 [2021-04-17 09:25:30]: ***  [, Level 0]: 'El patron' entered and joined the game
 [2021-04-17 09:25:40]: ***  [, Level 0]: 'LGBT+General' entered and joined the game
 [2021-04-17 09:25:42]: ***  [, Level 0]: 'Bluebell Cat' has left the game
+[2021-04-17 09:25:45]: ***  [, Level 0]: 'Ding Dong' has left the game (Timeout)
+[2021-04-17 09:25:46]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-17 09:25:47]: (2)ChillerDrago [Chilli.*, Level 34]: hast rifle?
+[2021-04-17 09:25:49]: ***  [, Level 0]: '[D] El patron' entered and joined the game
+[2021-04-17 09:25:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-17 09:25:50]: bob [, Level 36]: ja
+[2021-04-17 09:25:53]: ***  [, Level 0]: 'QON QON' joined the spectators
+[2021-04-17 09:25:53]: (2)ChillerDrago [|*KoG*|, Level 34]: nice
+[2021-04-17 09:25:54]: ***  [, Level 0]: '(1)HuskyFloofles' entered and joined the game
