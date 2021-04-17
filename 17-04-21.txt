@@ -12383,3 +12383,6 @@
 [2021-04-17 14:55:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-17 14:56:07]: RM | Arin [Retard MNKY, Level 0]: sun.slow(y):  hab mich bissl verbessert xD
 [2021-04-17 14:56:13]: sun.slow(y) [FookinLads, Level 35]: RM | Arin: du bist ein bot
+[2021-04-17 14:56:16]: RM | Arin [Retard MNKY, Level 0]: ja das auch
+[2021-04-17 14:56:17]: [D] El patron [FookinLads, Level 24]: (1)BLACK: give jetpack
+[2021-04-17 14:56:22]: (1)BLACK [, Level 23]: [D] El patron: u help?
