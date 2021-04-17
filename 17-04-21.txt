@@ -2300,3 +2300,4 @@
 [2021-04-17 04:21:11]: Intensiv [CrazyNoobs, Level 14]: bob:  help me pls
 [2021-04-17 04:21:15]: ***  [, Level 0]: bob is on a killing spree with 5 blocks
 [2021-04-17 04:21:38]: cookie [, Level 21]: i need 760000xp
+[2021-04-17 04:21:57]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
