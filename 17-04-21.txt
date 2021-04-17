@@ -10854,3 +10854,4 @@
 [2021-04-17 12:26:37]: HeavyGeneral [FookinLads, Level 36]: -ingameadd HeavyGeneral
 [2021-04-17 12:26:38]: ***  [, Level 0]: 'ShiroKinght' has left the game
 [2021-04-17 12:26:47]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-17 12:27:01]: ***  [, Level 0]: 'ShiroKinght' entered and joined the game
