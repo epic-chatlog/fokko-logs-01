@@ -1986,3 +1986,6 @@
 [2021-04-17 03:55:06]: ***  [, Level 0]: [POLICE-CHANNEL] 'power2' is spawnblocking. Catch him!
 [2021-04-17 03:55:12]: weqe [669, Level 13]: bob:
 [2021-04-17 03:55:13]: ♥TAKO♥ [DogParty, Level 25]: [D] BC|kakashi:
+[2021-04-17 03:55:19]: ***  [, Level 0]: '(2)MOM' entered and joined the game
+[2021-04-17 03:55:27]: ***  [, Level 0]: power2 is on a killing spree with 5 blocks
+[2021-04-17 03:55:27]: ***  [, Level 0]: [POLICE-CHANNEL] 'power2' is spawnblocking. Catch him!
