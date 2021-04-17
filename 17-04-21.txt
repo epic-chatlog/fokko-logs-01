@@ -2546,3 +2546,7 @@
 [2021-04-17 04:42:56]: BC|Tixnix [BC, Level 0]: Zephir™: KANN YOU GERMAN
 [2021-04-17 04:42:56]:   [, Level 0]: test: test
 [2021-04-17 04:43:01]:   [, Level 0]: test: a
+[2021-04-17 04:43:08]: ***  [, Level 0]: Rem's bae finished in: 0 minute(s) 41.06 second(s)
+[2021-04-17 04:43:08]: ***  [, Level 0]: New record: 1 minute(s)  2.68 second(s) better.
+[2021-04-17 04:43:09]:   [, Level 0]: titanfran: HI
+[2021-04-17 04:43:11]: Falco641 [.bad, Level 20]: bob:
