@@ -12141,3 +12141,6 @@
 [2021-04-17 14:20:25]: RM | Arin [Retard MNKY, Level 0]: my dummy
 [2021-04-17 14:20:31]: [D] El patron [FookinLads, Level 24]: RM | Arin: gay
 [2021-04-17 14:20:38]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-17 14:20:45]: ***  [, Level 0]: 'sammy' entered and joined the game
+[2021-04-17 14:20:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-17 14:20:52]: ***  [, Level 0]: 'guigui' entered and joined the game
