@@ -3047,3 +3047,5 @@
 [2021-04-17 05:30:13]: ***  [, Level 0]: 'Tom' has left the game
 [2021-04-17 05:30:13]: ***  [, Level 0]: 'Jerry' has left the game
 [2021-04-17 05:30:16]: ♥TAKO♥ [DogParty, Level 25]: WarHammer:  paramı veeeeeeeeeeeeer
+[2021-04-17 05:30:21]: WarHammer' [DogParty, Level 0]: yoo ilk ben aldım
+[2021-04-17 05:30:27]: ♥TAKO♥ [DogParty, Level 25]: o beniiiiiiiiiiiiiiiiiiiiim
