@@ -2828,3 +2828,5 @@
 [2021-04-17 05:09:10]: Falco641 [.bad, Level 20]: rq
 [2021-04-17 05:09:12]: Meetiteusz [TrRShClNrRs, Level 28]: Zephir™: i was just coming in u attacked me
 [2021-04-17 05:09:25]: __init__(self): [, Level 0]: soleri1:
+[2021-04-17 05:09:32]: ***  [, Level 0]: 'Falco642' has left the game
+[2021-04-17 05:09:32]: ***  [, Level 0]: 'Falco641' has left the game
