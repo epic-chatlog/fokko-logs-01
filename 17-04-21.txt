@@ -6586,3 +6586,4 @@
 [2021-04-17 08:31:54]: ***  [, Level 0]: 'MaşƘƔ' entered and joined the game
 [2021-04-17 08:31:57]: ***  [, Level 0]: 'MaşƘƔ' has left the game
 [2021-04-17 08:31:58]: GODLIKe [, Level 44]: sun.slow(y): -_-
+[2021-04-17 08:32:06]: ***  [, Level 0]: '[D] #5 blocker' has left the game
