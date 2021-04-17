@@ -12182,3 +12182,5 @@
 [2021-04-17 14:30:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-17 14:30:58]: Random Guy [, Level 0]: lags
 [2021-04-17 14:30:59]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-17 14:31:13]: [D] El patron [FookinLads, Level 24]: rq
+[2021-04-17 14:31:13]: ***  [, Level 0]: [POLICE-CHANNEL] '[D] Hunter.exe' is spawnblocking. Catch him!
