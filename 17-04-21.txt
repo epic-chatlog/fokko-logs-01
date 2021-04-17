@@ -1334,3 +1334,7 @@
 [2021-04-17 03:21:57]: ***  [, Level 0]: '(1)soleri1' has left the game
 [2021-04-17 03:21:57]: Kahve [, Level 24]: wtf
 [2021-04-17 03:21:59]: Kahve [, Level 24]: bot
+[2021-04-17 03:22:04]: ***  [, Level 0]: Not Zerstrian finished in: 1 minute(s) 24.76 second(s)
+[2021-04-17 03:22:04]: ***  [, Level 0]: New record: 51.56 second(s) better.
+[2021-04-17 03:22:04]: Kahve [, Level 24]: bot
+[2021-04-17 03:22:12]: ***  [, Level 0]: Zerstrian finished in: 0 minute(s) 54.62 second(s)
