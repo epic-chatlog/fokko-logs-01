@@ -6854,3 +6854,5 @@
 [2021-04-17 08:52:41]: ***  [, Level 0]: '(1)el champeon' entered and joined the game
 [2021-04-17 08:52:47]: ***  [, Level 0]: 'el champeon' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-17 08:52:47]: ***  [, Level 0]: 'Soros' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-17 08:52:53]: ***  [, Level 0]: '(1)el champeon' has left the game
+[2021-04-17 08:53:00]: ***  [, Level 0]: power's killing spree was ended by Shiro. (6 blocks)
