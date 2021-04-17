@@ -2105,3 +2105,4 @@
 [2021-04-17 04:06:19]: ***  [, Level 0]: 'GODLIKe' has left the game
 [2021-04-17 04:06:26]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 41.32 second(s)
 [2021-04-17 04:06:26]: ***  [, Level 0]: New record: 18.92 second(s) better.
+[2021-04-17 04:06:54]: Falco641 [.bad, Level 20]: f"{self.name}": stop?
