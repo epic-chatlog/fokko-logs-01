@@ -6523,3 +6523,6 @@
 [2021-04-17 08:24:10]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)casserole :p' is spawnblocking. Catch him!
 [2021-04-17 08:24:13]: ***  [, Level 0]: 'WIR' has left the game
 [2021-04-17 08:24:17]: .S L E E P Y' [iPro ♡, Level 0]: El patron: idk man i remember last time :p
+[2021-04-17 08:24:19]: ***  [, Level 0]: (1)ChillerDragon is on a killing spree with 5 blocks
+[2021-04-17 08:24:20]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)casserole :p' is spawnblocking. Catch him!
+[2021-04-17 08:24:26]: El patron [, Level 30]: .S L E E P Y': hm
