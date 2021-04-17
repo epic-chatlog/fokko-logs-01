@@ -11884,3 +11884,7 @@
 [2021-04-17 13:50:40]: mr dud [, Level 0]: how
 [2021-04-17 13:50:48]: casserole :p [, Level 20]: Kenshi™: ouais mais jsp qui sont tes enemis...
 [2021-04-17 13:50:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 13:51:00]: (1)☺ [, Level 23]: mr dud: idk how
+[2021-04-17 13:51:01]: Kenshi™ [404, Level 0]: casserole :p: ceux que je combat d'après toi !!
+[2021-04-17 13:51:06]: (1)☺ [, Level 23]: i am dead just
+[2021-04-17 13:51:09]: f"{self.name}" [, Level 18]: -:-|ML: by blocking me you also block yourself ... and i went racing just to block you soooooo
