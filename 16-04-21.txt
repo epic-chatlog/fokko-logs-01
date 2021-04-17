@@ -13423,3 +13423,5 @@
 [2021-04-16 20:02:29]: (1)☺ [, Level 14]: teeworld ?
 [2021-04-16 20:02:32]: (1)☺ [, Level 14]: np
 [2021-04-16 20:02:34]: Kirito [{TQuila}, Level 40]: teeworld what?
+[2021-04-16 20:02:45]: (1)☺ [, Level 14]: you are on teeworl
+[2021-04-16 20:02:49]: Kirito [{TQuila}, Level 40]: ddnet
