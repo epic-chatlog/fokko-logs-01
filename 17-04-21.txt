@@ -11740,3 +11740,5 @@
 [2021-04-17 13:42:33]: BLACK [, Level 26]: nice
 [2021-04-17 13:42:36]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: ERROR.: hi lol
 [2021-04-17 13:42:39]: (1)ERROR. [404, Level 0]: hi hi
+[2021-04-17 13:42:47]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: S Y T H N: the chat is connected with my discord bot
+[2021-04-17 13:42:50]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
