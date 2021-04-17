@@ -2225,3 +2225,6 @@
 [2021-04-17 04:16:02]: f"{self.name}" [, Level 18]: ♥TAKO♥: ill try :D
 [2021-04-17 04:16:04]: Taip [VergleriSay, Level 19]: f" {self.name}" bro fun war
 [2021-04-17 04:16:06]: ***  [, Level 0]: 'Intensiv_' entered and joined the game
+[2021-04-17 04:16:14]: BC|serwan [BC, Level 0]: Falco642: shut up ass face
+[2021-04-17 04:16:21]: Taip [VergleriSay, Level 19]: TAKO: fun war
+[2021-04-17 04:16:22]: Taip [VergleriSay, Level 19]: ?
