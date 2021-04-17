@@ -2754,3 +2754,6 @@
 [2021-04-17 05:02:56]: f"{self.name}" [, Level 18]: Taip: inf jumps ??
 [2021-04-17 05:02:56]: Meetiteusz [TrRShClNrRs, Level 28]: El patron: 1700 or war4life
 [2021-04-17 05:02:56]: Zephir™ [404, Level 40]: Meetiteusz: say me to i say him to made that, no attack me
+[2021-04-17 05:03:05]: ***  [, Level 0]: 'Friendiship ;-)' entered and joined the game
+[2021-04-17 05:03:09]:   [, Level 0]: Matiteusz: Zephir™: and u 1200
+[2021-04-17 05:03:12]: Zephir™ [404, Level 40]: El patron: how much u have tale money of Meetiteusz ?
