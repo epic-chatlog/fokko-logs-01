@@ -6947,3 +6947,5 @@
 [2021-04-17 08:59:53]: Shiro. [404, Level 43]: xaxaxaxa
 [2021-04-17 08:59:56]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-17 09:00:10]: ***  [, Level 0]: 'JustRace' entered and joined the game
+[2021-04-17 09:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-17 09:00:51]: Shiro. [404, Level 43]: woona: fuck off
