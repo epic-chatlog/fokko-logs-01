@@ -12940,3 +12940,6 @@
 [2021-04-17 15:48:41]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: 8
 [2021-04-17 15:48:42]: ***  [, Level 0]: 'El Monkey' has left the game
 [2021-04-17 15:48:43]: Killua [FookinLads, Level 37]: 6
+[2021-04-17 15:48:46]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: 4
+[2021-04-17 15:48:49]: Killua [FookinLads, Level 37]: 2
+[2021-04-17 15:48:55]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: 0
