@@ -263,3 +263,4 @@
 [2021-04-17 01:54:04]: Meliodas [.bad, Level 24]: Coca: sure?
 [2021-04-17 01:54:06]: Meliodas [.bad, Level 24]: ok
 [2021-04-17 01:54:54]: Coca [Drunks, Level 22]: Ƭevan: как дела?
+[2021-04-17 01:55:06]: Ƭevan [TrRShClNrRs, Level 49]: Норм)
