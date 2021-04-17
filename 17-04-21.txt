@@ -10425,3 +10425,8 @@
 [2021-04-17 11:50:14]: (1)SanoreX [Chilli.*, Level 0]: SanoreX: YAW
 [2021-04-17 11:50:15]: ***  [, Level 0]: 'Axel' has left the game
 [2021-04-17 11:50:15]: ***  [, Level 0]: 'Axel ²' has left the game
+[2021-04-17 11:50:24]: (1)SanoreX [Chilli.*, Level 0]: SanoreX: /silentfarm
+[2021-04-17 11:50:24]: ***  [, Level 0]: ShiroKinght's killing spree was ended by (1)Salut (11 blocks)
+[2021-04-17 11:50:28]: El Monkey [Retard MNKY, Level 0]: ez 2v1
+[2021-04-17 11:50:30]: (1)SanoreX [Chilli.*, Level 0]: SanoreX: /credits
+[2021-04-17 11:50:32]: ***  [, Level 0]: 'Cylox.' joined the minigame 'Survival', use '/survival' to join aswell
