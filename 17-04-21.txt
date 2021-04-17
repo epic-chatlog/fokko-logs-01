@@ -11545,3 +11545,4 @@
 [2021-04-17 13:26:55]: (1)BLACK [, Level 23]: laser Falco642
 [2021-04-17 13:26:56]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-17 13:27:15]: (1)BLACK [, Level 23]: [D] ♥TAKO♥:
+[2021-04-17 13:27:19]: [D] ♥TAKO♥ [DogParty, Level 0]: lag
