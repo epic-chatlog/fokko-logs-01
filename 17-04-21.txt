@@ -12122,3 +12122,7 @@
 [2021-04-17 14:18:31]: [D] -:-|ML [, Level 0]: __init__(self):: just go right and up
 [2021-04-17 14:18:48]: Random Guy [, Level 40]: Kenshi™: >>>
 [2021-04-17 14:19:08]: [D] -:-|ML [, Level 0]: f"{self.name}": grenade right jump and go up
+[2021-04-17 14:19:17]: casserole :p [, Level 20]: Zephir™: si jamais tu veux m aider je reste là
+[2021-04-17 14:19:22]: ***  [, Level 0]: '[D] Random Guy' has left the game
+[2021-04-17 14:19:22]: ***  [, Level 0]: 'Random Guy' has left the game
+[2021-04-17 14:19:25]: Hunter.exe [DogParty, Level 37]: rq
