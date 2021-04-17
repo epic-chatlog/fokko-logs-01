@@ -6546,3 +6546,6 @@
 [2021-04-17 08:26:31]: ***  [, Level 0]: 'Bozzkurt' entered and joined the game
 [2021-04-17 08:26:38]: [D] El patron [, Level 24]: pro
 [2021-04-17 08:26:56]: ***  [, Level 0]: '#5 blocker' entered and joined the game
+[2021-04-17 08:27:03]: [D] El patron [, Level 24]: toxicdave.: still pro
+[2021-04-17 08:27:04]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
+[2021-04-17 08:27:04]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
