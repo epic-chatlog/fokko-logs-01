@@ -3855,3 +3855,8 @@
 [2021-04-17 06:14:58]: ***  [, Level 0]: 'hagen' entered and joined the game
 [2021-04-17 06:15:04]: weqe [669, Level 13]: u need to watch ur mouth Kezo
 [2021-04-17 06:15:13]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-17 06:15:18]: weqe [669, Level 13]: WarHammer:
+[2021-04-17 06:15:19]: H0dƌƔ1 [ℋero, Level 0]: BULLETBOT: hi
+[2021-04-17 06:15:20]: ***  [, Level 0]: 'Shiro,' entered and joined the game
+[2021-04-17 06:15:22]: BULLETBOT [, Level 0]: hi
+[2021-04-17 06:15:26]: mamikral011 [DogParty, Level 27]: Tziys*: piç misin
