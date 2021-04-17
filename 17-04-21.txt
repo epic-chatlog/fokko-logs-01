@@ -2766,3 +2766,5 @@
 [2021-04-17 05:03:50]: Zephir™ [404, Level 40]: Meetiteusz: idk
 [2021-04-17 05:03:56]: [D] bully [, Level 0]: Falco641: why
 [2021-04-17 05:03:59]:   [, Level 0]: [D] El patron: Meetiteusz:  I wanted to give you but you killed me
+[2021-04-17 05:04:15]: ***  [, Level 0]: Falco642 is on a killing spree with 5 blocks
+[2021-04-17 05:04:19]: ***  [, Level 0]: 'sun.slow(y)' has left the game
