@@ -13419,3 +13419,7 @@
 [2021-04-16 20:01:50]: ***  [, Level 0]: '(3)Kirito' entered and joined the game
 [2021-04-16 20:02:22]: ***  [, Level 0]: '(2)Kirito' has left the game
 [2021-04-16 20:02:22]: ***  [, Level 0]: '(3)Kirito' has left the game
+[2021-04-16 20:02:28]: (1)Kirito [, Level 26]: ty
+[2021-04-16 20:02:29]: (1)☺ [, Level 14]: teeworld ?
+[2021-04-16 20:02:32]: (1)☺ [, Level 14]: np
+[2021-04-16 20:02:34]: Kirito [{TQuila}, Level 40]: teeworld what?
