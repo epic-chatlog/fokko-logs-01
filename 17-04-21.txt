@@ -10987,3 +10987,4 @@
 [2021-04-17 12:35:59]: ***  [, Level 0]: 'Shakerfeel' has left the game
 [2021-04-17 12:36:04]: ***  [, Level 0]: 'Shakerfeel' entered and joined the game
 [2021-04-17 12:36:04]: ***  [, Level 0]: 'Shakerfeel' has left the game
+[2021-04-17 12:36:31]: ***  [, Level 0]: '[D] Hunter.exe' entered and joined the game
