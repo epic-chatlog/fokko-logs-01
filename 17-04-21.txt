@@ -2099,3 +2099,4 @@
 [2021-04-17 04:05:13]: Falco642 [, Level 0]: f"{self.name}": would you fuck off for 1 second
 [2021-04-17 04:05:15]: ES [, Level 0]: weqe: xddd
 [2021-04-17 04:05:16]: GODLIKe [, Level 44]: BEST LAG
+[2021-04-17 04:05:32]: ***  [, Level 0]: 'weqe' has left the game
