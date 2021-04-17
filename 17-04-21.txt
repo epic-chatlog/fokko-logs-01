@@ -12120,3 +12120,4 @@
 [2021-04-17 14:18:14]: [D] -:-|ML [, Level 0]: f"{self.name}": dont spec XD
 [2021-04-17 14:18:23]: ***  [, Level 0]: '[D] Random Guy' entered and joined the game
 [2021-04-17 14:18:31]: [D] -:-|ML [, Level 0]: __init__(self):: just go right and up
+[2021-04-17 14:18:48]: Random Guy [, Level 40]: Kenshi™: >>>
