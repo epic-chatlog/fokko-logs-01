@@ -11215,3 +11215,7 @@
 [2021-04-17 12:59:03]: power [TrRShClNrRs, Level 0]: yes
 [2021-04-17 12:59:15]: ***  [, Level 0]: power finished in: 4 minute(s)  5.56 second(s)
 [2021-04-17 12:59:25]: jojo [, Level 0]: help
+[2021-04-17 12:59:31]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-17 12:59:36]: ***  [, Level 0]: Zephir™ is on a killing spree with 15 blocks
+[2021-04-17 12:59:38]: [D] El patron [FookinLads, Level 24]: Hunter.exe:  fettt gay
+[2021-04-17 12:59:39]: ***  [, Level 0]: wolf finished in: 4 minute(s) 30.88 second(s)
