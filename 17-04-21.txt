@@ -6282,3 +6282,7 @@
 [2021-04-17 08:02:16]: ***  [, Level 0]: 'lolpoep' has left the game
 [2021-04-17 08:02:21]: |HolyHo| [FookinLads, Level 19]: ChillerDragon.*: THEN YES
 [2021-04-17 08:02:21]: ***  [, Level 0]: [POLICE-CHANNEL] 'power2' has been caught by 'bob' (10 minutes arrest)
+[2021-04-17 08:02:26]: power2 [TrRShClNrRs, Level 0]: bob: ..
+[2021-04-17 08:02:30]: ChillerDragon [Chilli.*, Level 45]: its just that if you dont help u get kicked out and i wont offer you peace easily again (1)|HolyHo|°
+[2021-04-17 08:02:34]: ***  [, Level 0]: 'power2' has left the game
+[2021-04-17 08:02:34]: ***  [, Level 0]: 'power' has left the game
