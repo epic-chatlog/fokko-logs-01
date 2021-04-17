@@ -10748,3 +10748,8 @@
 [2021-04-17 12:19:44]: bob [, Level 36]: hi
 [2021-04-17 12:19:46]: SanoreX [Chilli.*, Level 27]: ne iyi
 [2021-04-17 12:19:47]: Cylox. [{TQuila}, Level 0]: SanoreX: sende zeka var he
+[2021-04-17 12:19:51]: SanoreX [Chilli.*, Level 27]: evt
+[2021-04-17 12:19:53]: SanoreX [Chilli.*, Level 27]: zekalı sanorex
+[2021-04-17 12:19:54]: ***  [, Level 0]: 'Falco642' has left the game
+[2021-04-17 12:19:54]: ***  [, Level 0]: 'Falco641' has left the game
+[2021-04-17 12:19:58]: [D] El patron [, Level 24]: HeavyGeneral:  turkturk#5460
