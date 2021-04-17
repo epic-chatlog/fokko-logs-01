@@ -2852,3 +2852,4 @@
 [2021-04-17 05:11:28]: __init__(self): [, Level 0]: soleri1: pls
 [2021-04-17 05:12:03]: [D] El patron [, Level 0]: xd
 [2021-04-17 05:12:11]: Taip [VergleriSay, Level 19]: qk
+[2021-04-17 05:12:28]: ***  [, Level 0]: 'Recep' entered and joined the game
