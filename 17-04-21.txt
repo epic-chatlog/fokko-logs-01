@@ -12217,3 +12217,4 @@
 [2021-04-17 14:34:15]: ***  [, Level 0]: '[D] Random Guy' entered and joined the game
 [2021-04-17 14:34:18]: Hunter.exe [DogParty, Level 37]: casserole :p: just only save me El Patron and Zephir
 [2021-04-17 14:34:23]: Hunter.exe [DogParty, Level 37]: casserole :p: and any
+[2021-04-17 14:34:35]: any [404, Level 38]: Hunter.exe: owo
