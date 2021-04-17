@@ -12109,3 +12109,4 @@
 [2021-04-17 14:16:48]: Hunter.exe [DogParty, Level 37]: El Monkey: traurig Arin
 [2021-04-17 14:16:57]: [D] -:-|ML [, Level 0]: __init__(self):: respawn your dummy
 [2021-04-17 14:17:10]: [D] -:-|ML [, Level 0]: f"{self.name}": go left
+[2021-04-17 14:17:17]: [D] -:-|ML [, Level 0]: nooo
