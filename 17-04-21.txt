@@ -13324,3 +13324,5 @@
 [2021-04-17 16:47:10]: ***  [, Level 0]: '|MıssOяchiĐ|' has left the game
 [2021-04-17 16:47:33]: ***  [, Level 0]: BULLETBOT is on a killing spree with 5 blocks
 [2021-04-17 16:47:58]: ***  [, Level 0]: BULLETBOT's killing spree was ended by [D] BC|Tixnix (6 blocks)
+[2021-04-17 16:48:04]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-17 16:48:10]: ***  [, Level 0]: 'xel' entered and joined the game
