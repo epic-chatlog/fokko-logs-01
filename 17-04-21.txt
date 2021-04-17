@@ -12344,3 +12344,5 @@
 [2021-04-17 14:45:50]: sun.slow(y) [FookinLads, Level 35]: Hunter.exe: rechts
 [2021-04-17 14:46:09]: -:-|ML [, Level 0]: Tixnix: ?
 [2021-04-17 14:46:28]: -:-|ML [, Level 0]: BC|Tixnix: do you want to come too?
+[2021-04-17 14:46:45]: BC|Tixnix [BC, Level 35]: -:-|ML: wait wait
+[2021-04-17 14:46:49]: -:-|ML [, Level 0]: ok
