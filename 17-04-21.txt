@@ -6502,3 +6502,10 @@
 [2021-04-17 08:22:44]: ***  [, Level 0]: 'el champeon5787' entered and joined the game
 [2021-04-17 08:22:46]: Lucas [THECEPS, Level 35]: nameless tee: shoot me
 [2021-04-17 08:22:51]: ***  [, Level 0]: 'Soros2102546510' entered and joined the game
+[2021-04-17 08:22:54]: ***  [, Level 0]: 'Soros2102546510' has left the game
+[2021-04-17 08:22:54]: ***  [, Level 0]: 'el champeon5787' has left the game
+[2021-04-17 08:22:56]: ***  [, Level 0]: 'el champeon5787' entered and joined the game
+[2021-04-17 08:22:59]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-17 08:23:00]: ***  [, Level 0]: 'Soros2102546510' entered and joined the game
+[2021-04-17 08:23:03]: ***  [, Level 0]: 'Soros2102546510' has left the game
+[2021-04-17 08:23:03]: ***  [, Level 0]: 'el champeon5787' has left the game
