@@ -10030,3 +10030,9 @@
 [2021-04-17 11:26:26]: ***  [, Level 0]: '(1)Salut' left the minigame 'Survival'
 [2021-04-17 11:26:27]: (1)☺ [, Level 25]: Zephir™: aide moi stp
 [2021-04-17 11:26:27]: SanoreX [Chilli.*, Level 27]: Salut: I stack
+[2021-04-17 11:26:33]: SanoreX [Chilli.*, Level 27]: wait
+[2021-04-17 11:26:35]: ☺ [, Level 23]: taurais pa du Kenshi™
+[2021-04-17 11:26:38]: El patron [, Level 30]: SanoreX: open i need taser
+[2021-04-17 11:26:39]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-17 11:26:40]: El patron [, Level 30]: rifel
+[2021-04-17 11:26:40]: ***  [, Level 0]: 'bob' entered and joined the game
