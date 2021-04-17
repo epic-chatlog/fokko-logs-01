@@ -13333,3 +13333,4 @@
 [2021-04-17 16:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-17 16:51:06]: BULLETBOT [, Level 0]: NXD
 [2021-04-17 16:51:53]: ***  [, Level 0]: taco bell finished in: 22 minute(s)  0.36 second(s)
+[2021-04-17 16:52:26]: ***  [, Level 0]: Zephir™'s killing spree was ended by Kirito (30 blocks)
