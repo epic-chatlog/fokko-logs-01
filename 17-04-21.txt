@@ -1636,3 +1636,5 @@
 [2021-04-17 03:34:46]: weqe [669, Level 13]: Mista bombastic: wanna be my boyfriend ?
 [2021-04-17 03:35:01]: Mista bombastic [TrRShClNrRs, Level 40]: tf no
 [2021-04-17 03:35:03]: power [TrRShClNrRs, Level 0]: gtfo Cylox
+[2021-04-17 03:35:08]: ***  [, Level 0]: 'динер' has left the game (Timeout)
+[2021-04-17 03:35:10]:   [, Level 0]: any: Kenshi™: je t'att a police
