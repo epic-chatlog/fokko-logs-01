@@ -13385,3 +13385,5 @@
 [2021-04-16 19:30:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-16 19:31:49]: ***  [, Level 0]: 'IwillBlockYou' has left the game
 [2021-04-16 19:35:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-16 19:40:21]: (1)☺ [, Level 14]: Kirito:man
+[2021-04-16 19:40:23]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
