@@ -11578,3 +11578,8 @@
 [2021-04-17 13:29:28]: (1)☺ [, Level 23]: XD
 [2021-04-17 13:29:29]: Falco641 [.bad, Level 20]: [D] ♥TAKO♥: TAKOOOOO
 [2021-04-17 13:29:45]: [D] ♥TAKO♥ [DogParty, Level 0]: Falco641:  OH NO
+[2021-04-17 13:29:55]: ***  [, Level 0]: 'Terra' has left the game
+[2021-04-17 13:29:55]: Falco642 [, Level 0]: [D] ♥TAKO♥: WTFFFF
+[2021-04-17 13:29:58]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 15 blocks
+[2021-04-17 13:29:59]: Falco642 [, Level 0]: [D] ♥TAKO♥: MY MONEYY
+[2021-04-17 13:30:00]: S Y T H N [, Level 39]: El patron: na toxicdaddy
