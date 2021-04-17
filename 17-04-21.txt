@@ -106,3 +106,4 @@
 [2021-04-17 01:13:21]: Cylox. [{TQuila}, Level 24]: man
 [2021-04-17 01:13:23]: Cylox. [{TQuila}, Level 24]: ı help edu
 [2021-04-17 01:13:34]: Cylox [{TQuila}, Level 31]: flag
+[2021-04-17 01:13:45]: ***  [, Level 0]: '(1)Good man' has left the game
