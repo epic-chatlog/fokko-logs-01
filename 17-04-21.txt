@@ -7557,3 +7557,5 @@
 [2021-04-17 09:29:28]: ***  [, Level 0]: 'Shiro.' changed name to 'LGBT GENERAL'
 [2021-04-17 09:29:36]: #5 blocker [|*MorE*|, Level 24]: bob: no i training
 [2021-04-17 09:29:37]: bob [, Level 36]: LGBT GENERAL: ew
+[2021-04-17 09:29:41]: LGBT GENERAL [404, Level 43]: xaxaxaax
+[2021-04-17 09:29:47]: ***  [, Level 0]: 'Shiro,' has left the game
