@@ -13652,3 +13652,7 @@
 [2021-04-16 23:25:11]: vihandu tee [, Level 0]: Good man:  how to get ninja jet pack
 [2021-04-16 23:25:16]: Good man [Drunks, Level 31]: you need 10k
 [2021-04-16 23:25:38]: Good man [Drunks, Level 31]: wait
+[2021-04-16 23:25:45]: ***  [, Level 0]: Good man finished in: 6 minute(s) 46.98 second(s)
+[2021-04-16 23:25:45]: ***  [, Level 0]: 'Good man' finished the special race!
+[2021-04-16 23:25:45]: ***  [, Level 0]: 'vihandu tee' finished the special race!
+[2021-04-16 23:25:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
