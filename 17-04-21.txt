@@ -6550,3 +6550,8 @@
 [2021-04-17 08:27:04]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
 [2021-04-17 08:27:04]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
 [2021-04-17 08:27:16]: Friendiship ;-) [, Level 0]: lag
+[2021-04-17 08:27:21]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
+[2021-04-17 08:27:25]: ***  [, Level 0]: '(1)Ƭevan' entered and joined the game
+[2021-04-17 08:27:29]: ***  [, Level 0]: 'Tziys*' has left the game
+[2021-04-17 08:27:29]: ***  [, Level 0]: 'Kezo' has left the game
+[2021-04-17 08:27:30]: GODLIKe [, Level 44]: Bozzkurt: ne oldu len
