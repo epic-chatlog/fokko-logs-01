@@ -5387,3 +5387,6 @@
 [2021-04-17 07:16:41]: ***  [, Level 0]: Soros is on a killing spree with 20 blocks
 [2021-04-17 07:16:41]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
 [2021-04-17 07:16:48]: |HolyHo| [FookinLads, Level 19]: koro: why pls team with .
+[2021-04-17 07:16:51]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
+[2021-04-17 07:16:53]: ***  [, Level 0]: '☺' has left the game (Timeout)
+[2021-04-17 07:16:54]: ***  [, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
