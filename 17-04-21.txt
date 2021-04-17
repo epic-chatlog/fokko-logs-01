@@ -2772,3 +2772,5 @@
 [2021-04-17 05:04:46]: ***  [, Level 0]: Zephir™ is on a killing spree with 10 blocks
 [2021-04-17 05:04:47]: Zephir™ [404, Level 40]: Matiteusz: stop attack
 [2021-04-17 05:04:50]:   [, Level 0]: Matiteusz: Zephir™: stfu
+[2021-04-17 05:04:57]: Zephir™ [404, Level 40]: Matiteusz: ok if u want
+[2021-04-17 05:05:03]:   [, Level 0]: Matiteusz: Zephir™: U want
