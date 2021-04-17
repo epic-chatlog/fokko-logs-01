@@ -7655,3 +7655,4 @@
 [2021-04-17 09:35:21]: ChillerDragon [|*KoG*|, Level 45]: we have attackers bob woona
 [2021-04-17 09:35:39]: ***  [, Level 0]: 'QON QON' joined the game
 [2021-04-17 09:35:46]: ***  [, Level 0]: '-:-|ML' entered and joined the game
+[2021-04-17 09:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
