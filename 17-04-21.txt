@@ -12889,3 +12889,4 @@
 [2021-04-17 15:43:43]: ***  [, Level 0]: 'BLACK' entered and joined the game
 [2021-04-17 15:44:06]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-17 15:44:12]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-17 15:44:19]: El Monkey [Retard MNKY, Level 0]: INSTANT RQ
