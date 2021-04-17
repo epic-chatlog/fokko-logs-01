@@ -11727,3 +11727,4 @@
 [2021-04-17 13:41:03]: BLACK [, Level 26]: Hunter.exe: answer >>>>????????????????????????????????
 [2021-04-17 13:41:15]: Hunter.exe [DogParty, Level 37]: BLACK: war
 [2021-04-17 13:41:18]: ***  [, Level 0]: -:-|ML's killing spree was ended by f"{self.name}" (9 blocks)
+[2021-04-17 13:41:25]: BLACK [, Level 26]: Hunter.exe: what war i didnt do something
