@@ -6318,3 +6318,8 @@
 [2021-04-17 08:05:41]: Vodo4ka [Chilli.*, Level 41]: ChillerDragon: Yess
 [2021-04-17 08:05:42]: ChillerDragon [Chilli.*, Level 45]: yes (1)|HolyHo|° i founded team chiller :D its actually not a team
 [2021-04-17 08:05:49]: Vodo4ka [Chilli.*, Level 41]: ChillerDragon: aa faking greensward
+[2021-04-17 08:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 08:05:54]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-17 08:06:00]: ChillerDragon [Chilli.*, Level 45]: Vodo4ka: wanna unfreeze me 24/7 ? :D
+[2021-04-17 08:06:00]: ***  [, Level 0]: 'Sergej' has left the game
+[2021-04-17 08:06:02]: Vodo4ka [Chilli.*, Level 41]: ChillerDragon: i have my own skiin
