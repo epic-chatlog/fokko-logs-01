@@ -12062,3 +12062,9 @@
 [2021-04-17 14:10:00]: ***  [, Level 0]: 'Astraza' has left the game
 [2021-04-17 14:10:03]: [D] -:-|ML [, Level 0]: __init__(self):: so you want to block me but not that i kill you
 [2021-04-17 14:10:15]: [D] -:-|ML [, Level 0]: __init__(self):: do you want to afk block me?
+[2021-04-17 14:10:21]: f"{self.name}" [, Level 18]: -:-|ML: of course
+[2021-04-17 14:10:22]: [D] -:-|ML [, Level 0]: to feel good?
+[2021-04-17 14:10:24]: [D] -:-|ML [, Level 0]: oooh
+[2021-04-17 14:10:27]: [D] -:-|ML [, Level 0]: now i understand
+[2021-04-17 14:10:28]: ***  [, Level 0]: 'ZEWO' entered and joined the game
+[2021-04-17 14:10:28]: ***  [, Level 0]: 'ZEWO' has left the game
