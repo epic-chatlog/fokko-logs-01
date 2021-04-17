@@ -11199,3 +11199,6 @@
 [2021-04-17 12:58:05]: jojo [, Level 0]: help i was down of the spawn
 [2021-04-17 12:58:07]: [D] El patron [FookinLads, Level 24]: Killua:  you want you money
 [2021-04-17 12:58:10]: power [TrRShClNrRs, Level 0]: come
+[2021-04-17 12:58:19]: [D] El patron [FookinLads, Level 24]: Killua:  10k
+[2021-04-17 12:58:21]: Hunter.exe [DogParty, Level 37]: Killua: gea
+[2021-04-17 12:58:25]: Killua [FookinLads, Level 37]: no
