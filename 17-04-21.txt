@@ -8551,3 +8551,5 @@
 [2021-04-17 10:19:38]: ***  [, Level 0]: 'Guthaben' entered and joined the game
 [2021-04-17 10:19:40]: BLACK [, Level 26]: bob: wtf is wrong with weqe today
 [2021-04-17 10:19:40]: CKA3A4NIK[NR] [Night Raid, Level 35]: ChillerDragon: Please just trust one last time
+[2021-04-17 10:19:41]: ***  [, Level 0]: '[D] -:-|ML' has left the game
+[2021-04-17 10:19:41]: ***  [, Level 0]: '-:-|ML' has left the game
