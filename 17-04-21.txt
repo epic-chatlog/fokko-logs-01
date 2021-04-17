@@ -2686,3 +2686,8 @@
 [2021-04-17 04:57:02]: Zephir™ [404, Level 40]: bob: AHAHHAH
 [2021-04-17 04:57:05]:   [, Level 0]: bob: xd
 [2021-04-17 04:57:06]: Zephir™ [404, Level 40]: bob: bad.
+[2021-04-17 04:57:12]: Taip [VergleriSay, Level 19]: sroryry
+[2021-04-17 04:57:16]: Taip [VergleriSay, Level 19]: im bad
+[2021-04-17 04:57:18]: f"{self.name}" [, Level 18]: Taip: i had lag :(
+[2021-04-17 04:57:19]:   [, Level 0]: G𝕖𝕝𝕒to: Taip: wait
+[2021-04-17 04:57:24]:   [, Level 0]: G𝕖𝕝𝕒to: dont rresp
