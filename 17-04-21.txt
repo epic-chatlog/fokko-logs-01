@@ -2,3 +2,6 @@
 [2021-04-17 00:02:43]: ***  [, Level 0]: 'Intensiv' entered and joined the game
 [2021-04-17 00:04:14]: Intensiv [CrazyNoobs, Level 14]: Tom:
 [2021-04-17 00:05:00]: Intensiv [CrazyNoobs, Level 14]: Tom:  help
+[2021-04-17 00:05:13]: Intensiv [CrazyNoobs, Level 14]: ping
+[2021-04-17 00:05:15]: Intensiv [CrazyNoobs, Level 14]: help
+[2021-04-17 00:05:20]: Intensiv [CrazyNoobs, Level 14]: Tom:  help
