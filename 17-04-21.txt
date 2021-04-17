@@ -2160,3 +2160,7 @@
 [2021-04-17 04:12:22]: ***  [, Level 0]: '[D] -:-|ML' has left the game
 [2021-04-17 04:12:22]: ***  [, Level 0]: '-:-|ML' has left the game
 [2021-04-17 04:12:24]: ***  [, Level 0]: [POLICE-CHANNEL] 'Falco641' has been caught by 'f"{self.name}"' (5 minutes arrest)
+[2021-04-17 04:12:31]: bob [Legacy™, Level 36]: Pokemon:
+[2021-04-17 04:12:33]: bob [Legacy™, Level 36]: what pokemon are u
+[2021-04-17 04:12:34]: [D] BC|Tixnix [BC, Level 26]: Falco641: EZ
+[2021-04-17 04:12:37]: Pokemon [, Level 0]: pikachu
