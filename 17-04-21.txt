@@ -21,3 +21,4 @@
 [2021-04-17 00:15:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-17 00:16:19]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-17 00:16:35]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
+[2021-04-17 00:17:26]: ***  [, Level 0]: ChillerDragon.* finished in: 3 minute(s) 48.60 second(s)
