@@ -11290,3 +11290,6 @@
 [2021-04-17 13:05:22]: ***  [, Level 0]: '[D] -:-|ML' entered and joined the game
 [2021-04-17 13:05:24]: Zephir™ [404, Level 40]: Hunter.exe: WTF GIVE BACK MY FLAG OMG
 [2021-04-17 13:05:34]: Falco642 [, Level 0]: El patron:
+[2021-04-17 13:05:42]: [D] El patron [FookinLads, Level 24]: Zephir™: i am no bonus
+[2021-04-17 13:05:46]: Hunter.exe [DogParty, Level 37]: Zephir™: ask but i wont give it fucking stupid kid you wont alive police now
+[2021-04-17 13:05:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
