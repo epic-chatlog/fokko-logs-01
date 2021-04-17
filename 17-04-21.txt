@@ -212,3 +212,5 @@
 [2021-04-17 01:44:31]: Good man [Drunks, Level 31]: Xd
 [2021-04-17 01:45:10]: ***  [, Level 0]: 's!n<u85' entered and joined the game
 [2021-04-17 01:45:39]: Coca [Drunks, Level 22]: Tom: hi
+[2021-04-17 01:45:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-17 01:45:52]: Estarossa [, Level 11]: ~DemoizL~: viens
