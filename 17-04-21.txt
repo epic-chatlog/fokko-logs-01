@@ -1992,3 +1992,7 @@
 [2021-04-17 03:55:34]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-17 03:55:36]: weqe [669, Level 13]: BC|kakashi: taco is top target
 [2021-04-17 03:55:39]: ♥TAKO♥ [DogParty, Level 25]: bob:  u are weqes  dog and weqe  u are bobs dog
+[2021-04-17 03:55:40]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-17 03:55:46]: bob [Legacy™, Level 36]: yes
+[2021-04-17 03:55:48]: ♥TAKO♥ [DogParty, Level 25]: hihihihiih
+[2021-04-17 03:55:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
