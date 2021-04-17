@@ -10326,3 +10326,5 @@
 [2021-04-17 11:42:29]: ***  [, Level 0]: 'Axel' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-17 11:42:33]: ***  [, Level 0]: 'Axel' left the minigame 'Survival'
 [2021-04-17 11:42:38]: Coca [Drunks, Level 23]: Ƭevan: ой бля.Ща включу дамика чекну
+[2021-04-17 11:42:50]: (1)☺ [, Level 25]: gg
+[2021-04-17 11:42:51]: (1)SanoreX [Chilli.*, Level 0]: Cylox: kimse alamıyo kimse valla
