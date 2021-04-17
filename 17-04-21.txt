@@ -6732,3 +6732,4 @@
 [2021-04-17 08:44:27]: power [TrRShClNrRs, Level 15]: xDD f"{self.name}"
 [2021-04-17 08:44:30]: f"{self.name}" [, Level 18]: XDDD
 [2021-04-17 08:44:34]: ChillerDragon.* [|*KoG*|, Level 42]: why didnt u help me Tom_y²²² ?
+[2021-04-17 08:44:44]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
