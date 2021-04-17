@@ -7563,3 +7563,8 @@
 [2021-04-17 09:29:54]: LGBT GENERAL [404, Level 43]: no u
 [2021-04-17 09:29:55]: Nudelsaft c: [FookinLads, Level 60]: dummy rq
 [2021-04-17 09:29:57]: ChillerDragon [Chilli.*, Level 45]: (1)☺: ?
+[2021-04-17 09:30:02]: ***  [, Level 0]: '(1)☺' has left the game (Timeout)
+[2021-04-17 09:30:02]: ***  [, Level 0]: '(2)☺' has left the game (Timeout)
+[2021-04-17 09:30:04]: bob [, Level 36]: xd
+[2021-04-17 09:30:12]: Falco642 [, Level 0]: wow
+[2021-04-17 09:30:14]: ***  [, Level 0]: 'QON QON' joined the spectators
