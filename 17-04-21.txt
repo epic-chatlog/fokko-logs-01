@@ -10780,3 +10780,6 @@
 [2021-04-17 12:21:44]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)Sayme' is spawnblocking. Catch him!
 [2021-04-17 12:21:49]:   [, Level 0]: RM | Arin: Cylox
 [2021-04-17 12:21:50]:   [, Level 0]: Falco642: (1)Sayme: nah
+[2021-04-17 12:21:53]:   [, Level 0]: RM | Arin: give me account
+[2021-04-17 12:22:00]:   [, Level 0]: Falco642: you were sitting in endless for like
+[2021-04-17 12:22:01]:   [, Level 0]: Falco642: 30 minutes
