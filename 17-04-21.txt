@@ -12103,3 +12103,4 @@
 [2021-04-17 14:15:29]: ***  [, Level 0]: 'Beetlebrick' has left the game
 [2021-04-17 14:15:32]: ***  [, Level 0]: 'Random Guy' entered and joined the game
 [2021-04-17 14:15:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-17 14:15:56]: Random Guy [, Level 0]: any: >>>
