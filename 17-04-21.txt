@@ -11057,3 +11057,7 @@
 [2021-04-17 12:41:46]: (1)Sayme [, Level 0]: with grenade
 [2021-04-17 12:41:51]: Hunter.exe [DogParty, Level 37]: |HolyHo|: you want war?
 [2021-04-17 12:42:00]: Cylox. [, Level 0]: wait
+[2021-04-17 12:42:03]: ***  [, Level 0]: 'Ding Dong' entered and joined the game
+[2021-04-17 12:42:07]: Hunter.exe [DogParty, Level 37]: ✯|Not Bulash: 1;0
+[2021-04-17 12:42:07]: (1)Sayme [, Level 0]: easy jump
+[2021-04-17 12:42:12]: Luna [, Level 0]: oops
