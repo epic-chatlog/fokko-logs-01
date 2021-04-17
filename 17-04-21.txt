@@ -11426,3 +11426,6 @@
 [2021-04-17 13:15:57]: ☺ [, Level 26]: |HolyHo|: man i try to kill bob
 [2021-04-17 13:16:00]: ***  [, Level 0]: 'nameless' entered and joined the game
 [2021-04-17 13:16:00]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
+[2021-04-17 13:16:02]: [D] ♥TAKO♥ [DogParty, Level 0]: Hunter.exe:  help me pls
+[2021-04-17 13:16:07]: ☺ [, Level 26]: i am in war with bobb |HolyHo|
+[2021-04-17 13:16:12]: [D] -:-|ML [, Level 0]: bob: right
