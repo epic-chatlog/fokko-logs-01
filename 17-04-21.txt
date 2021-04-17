@@ -7225,3 +7225,5 @@
 [2021-04-17 09:14:42]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-17 09:14:44]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-17 09:14:46]: Falco641 [.bad, Level 20]: Ding Dong: u mad bad
+[2021-04-17 09:14:53]: any [404, Level 38]: kais: salut !
+[2021-04-17 09:14:55]: Nudelsaft c: [FookinLads, Level 60]: aaaaaaaaaa
