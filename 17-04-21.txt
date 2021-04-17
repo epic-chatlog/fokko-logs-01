@@ -10259,3 +10259,6 @@
 [2021-04-17 11:39:05]: ***  [, Level 0]: '(1)SanoreX' left the minigame 'Survival'
 [2021-04-17 11:39:08]: ***  [, Level 0]: 'Axel' left the minigame 'Survival'
 [2021-04-17 11:39:10]: (1)SanoreX [Chilli.*, Level 0]: power: leave and hold d
+[2021-04-17 11:39:17]: ***  [, Level 0]: '[D] El patron' entered and joined the game
+[2021-04-17 11:39:18]: Coca [Drunks, Level 23]: Ƭevan: он заходят в сурвив потом один чел сидит внутри
+[2021-04-17 11:39:18]: ***  [, Level 0]: 'power' left the minigame 'Survival'
