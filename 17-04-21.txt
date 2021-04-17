@@ -10753,3 +10753,7 @@
 [2021-04-17 12:19:54]: ***  [, Level 0]: 'Falco642' has left the game
 [2021-04-17 12:19:54]: ***  [, Level 0]: 'Falco641' has left the game
 [2021-04-17 12:19:58]: [D] El patron [, Level 24]: HeavyGeneral:  turkturk#5460
+[2021-04-17 12:20:01]: ***  [, Level 0]: 'Falco641' entered and joined the game
+[2021-04-17 12:20:03]: [D] ♥TAKO♥ [DogParty, Level 0]: soleri1:
+[2021-04-17 12:20:08]: ***  [, Level 0]: (1)Sayme is on a killing spree with 5 blocks
+[2021-04-17 12:20:13]: ***  [, Level 0]: [POLICE-CHANNEL] '(1)Sayme' is spawnblocking. Catch him!
