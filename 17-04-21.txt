@@ -6448,3 +6448,7 @@
 [2021-04-17 08:17:52]: ***  [, Level 0]: '(1)☺' entered and joined the game
 [2021-04-17 08:18:00]: ***  [, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
 [2021-04-17 08:18:03]: toxicdave. [✡︎, Level 30]: El patron: lol
+[2021-04-17 08:18:06]: ***  [, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-17 08:18:09]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-17 08:18:17]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-17 08:18:17]: ***  [, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
