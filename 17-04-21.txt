@@ -9826,3 +9826,6 @@
 [2021-04-17 11:16:02]: BLACK [, Level 26]: Intensiv:
 [2021-04-17 11:16:02]: ***  [, Level 0]: 'SanoreX.*' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-17 11:16:05]: |HolyHo|° [FookinLads, Level 29]: El patron: war
+[2021-04-17 11:16:12]: ***  [, Level 0]: 'Good man' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-17 11:16:13]: Intensiv [CrazyNoobs, Level 15]: ping
+[2021-04-17 11:16:17]: El patron [, Level 30]: |HolyHo|: wtf so bad
