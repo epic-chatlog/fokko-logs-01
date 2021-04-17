@@ -2559,3 +2559,4 @@
 [2021-04-17 04:44:29]: Falco642 [, Level 0]: bob: how lol
 [2021-04-17 04:44:46]: f"{self.name}" [, Level 18]: Taip: lets play volleyball with him
 [2021-04-17 04:44:51]:   [, Level 0]: titanfran: Xd
+[2021-04-17 04:45:06]: ***  [, Level 0]: 'titanfran' has left the game
