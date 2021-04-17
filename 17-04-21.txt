@@ -12488,3 +12488,4 @@
 [2021-04-17 15:05:51]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-17 15:05:55]: ***  [, Level 0]: '(1)cunt' has left the game
 [2021-04-17 15:06:00]: ***  [, Level 0]: BULLETBOT's killing spree was ended by Random Guy (5 blocks)
+[2021-04-17 15:06:07]: BLACK [, Level 26]: omggg
