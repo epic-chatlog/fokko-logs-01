@@ -1330,3 +1330,7 @@
 [2021-04-17 03:21:42]: Meetiteusz [TrRShClNrRs, Level 28]: KURWA MAC
 [2021-04-17 03:21:43]: Meetiteusz [TrRShClNrRs, Level 28]: Mista bombastic:
 [2021-04-17 03:21:47]: Kahve [, Level 24]: mamikral011: bugün bot kodlicam c++
+[2021-04-17 03:21:55]: Kahve [, Level 24]: c++
+[2021-04-17 03:21:57]: ***  [, Level 0]: '(1)soleri1' has left the game
+[2021-04-17 03:21:57]: Kahve [, Level 24]: wtf
+[2021-04-17 03:21:59]: Kahve [, Level 24]: bot
