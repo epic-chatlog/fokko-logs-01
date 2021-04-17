@@ -1818,3 +1818,5 @@
 [2021-04-17 03:43:57]: ***  [, Level 0]: 'El patron' has left the game
 [2021-04-17 03:43:57]: ***  [, Level 0]: '[D] El patron' has left the game
 [2021-04-17 03:43:59]: ♥TAKO♥ [DogParty, Level 25]: MOM:  mooooom ı want go my friend
+[2021-04-17 03:44:07]: MOM [, Level 28]: ♥TAKO♥: ok
+[2021-04-17 03:44:13]: [D] BC|kakashi [BC, Level 0]: bob brauche hilfe
