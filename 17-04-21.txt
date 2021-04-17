@@ -558,3 +558,9 @@
 [2021-04-17 02:25:35]: ***  [, Level 0]: 'вłøøđcave' entered and joined the game
 [2021-04-17 02:25:41]: ***  [, Level 0]: Falco642 is on a killing spree with 5 blocks
 [2021-04-17 02:25:42]: ***  [, Level 0]: '(1)Coca' entered and joined the game
+[2021-04-17 02:25:43]: Meliodas [.bad, Level 24]: Ƭevan: spec me x)
+[2021-04-17 02:25:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-17 02:25:51]: ***  [, Level 0]: 'casserole :p' has left the game (Timeout)
+[2021-04-17 02:25:51]: ***  [, Level 0]: '(1)casserole :p' has left the game (Timeout)
+[2021-04-17 02:25:51]: ***  [, Level 0]: '(2)casserole :p' has left the game (Timeout)
+[2021-04-17 02:25:51]: ***  [, Level 0]: '(3)casserole :p' has left the game (Timeout)
