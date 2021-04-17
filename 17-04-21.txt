@@ -10398,3 +10398,10 @@
 [2021-04-17 11:48:57]: ***  [, Level 0]: 'Cylox' left the minigame 'Survival'
 [2021-04-17 11:49:04]: Cylox [{TQuila}, Level 32]: oha la
 [2021-04-17 11:49:21]: ***  [, Level 0]: 'Fearless' entered and joined the game
+[2021-04-17 11:49:22]: ***  [, Level 0]: 'Fearless' has left the game
+[2021-04-17 11:49:23]: (1)SanoreX [Chilli.*, Level 0]: Cylox: aa
+[2021-04-17 11:49:23]: Axel [TrRShClNrRs, Level 30]: god damn in I lag
+[2021-04-17 11:49:25]: (1)SanoreX [Chilli.*, Level 0]: kaydı
+[2021-04-17 11:49:25]: Cylox [{TQuila}, Level 32]: dur
+[2021-04-17 11:49:28]: (1)SanoreX [Chilli.*, Level 0]: Cylox: sen yap dummyle
+[2021-04-17 11:49:31]: ☺ [, Level 23]: flappy: enculer
