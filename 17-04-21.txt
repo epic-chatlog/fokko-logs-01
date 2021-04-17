@@ -11256,3 +11256,5 @@
 [2021-04-17 13:03:01]: ***  [, Level 0]: '-:-|ML' entered and joined the game
 [2021-04-17 13:03:17]: Falco641 [.bad, Level 20]: Hunter.exe: why kill me
 [2021-04-17 13:03:19]: [D] ♥TAKO♥ [DogParty, Level 0]: sun.slow(y): ?
+[2021-04-17 13:03:24]: Hunter.exe [DogParty, Level 37]: Falco641: dont help enemys
+[2021-04-17 13:03:28]: Falco641 [.bad, Level 20]: ok i wont
