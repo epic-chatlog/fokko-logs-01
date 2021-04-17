@@ -12151,3 +12151,4 @@
 [2021-04-17 14:22:25]: ***  [, Level 0]: 'guigui' has left the game (Timeout)
 [2021-04-17 14:22:44]: ***  [, Level 0]: 'f"{self.name}"' has left the game
 [2021-04-17 14:22:44]: ***  [, Level 0]: '__init__(self):' has left the game
+[2021-04-17 14:25:41]: ***  [, Level 0]: 'bob' entered and joined the game
