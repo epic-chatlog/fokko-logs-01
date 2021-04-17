@@ -8167,3 +8167,9 @@
 [2021-04-17 10:00:13]: ***  [, Level 0]: 'Axel ²' has left the game
 [2021-04-17 10:00:14]: ***  [, Level 0]: 'Swarfey' has left the game
 [2021-04-17 10:00:14]: ***  [, Level 0]: 'nubwoowoo' has left the game
+[2021-04-17 10:00:16]: SanoreX [Chilli.*, Level 27]: but this bot is perfect ChillerDragon
+[2021-04-17 10:00:17]: ***  [, Level 0]: '(1)bob' has left the game
+[2021-04-17 10:00:19]: ***  [, Level 0]: 'NathLor' entered and joined the game
+[2021-04-17 10:00:20]: ***  [, Level 0]: 'Falco642' has left the game
+[2021-04-17 10:00:20]: ***  [, Level 0]: 'Falco641' has left the game
+[2021-04-17 10:00:23]: ChillerDragon.* [|*KoG*|, Level 42]: dont ping me ingame SanoreX send me stuff on matrix or wire pls i am busy ingame
