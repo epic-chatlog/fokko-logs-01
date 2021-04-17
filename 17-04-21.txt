@@ -1095,3 +1095,8 @@
 [2021-04-17 03:08:41]: bob [Legacy™, Level 36]: weqe: 5 seconds
 [2021-04-17 03:08:45]: bob [Legacy™, Level 36]: 4
 [2021-04-17 03:08:46]: bob [Legacy™, Level 36]: 3
+[2021-04-17 03:08:51]: ***  [, Level 0]: power finished in: 7 minute(s) 37.54 second(s)
+[2021-04-17 03:08:51]: ***  [, Level 0]: 'power' finished the special race!
+[2021-04-17 03:08:53]: ***  [, Level 0]: '♥TAKO♥' entered and joined the game
+[2021-04-17 03:08:53]: ***  [, Level 0]: 'egplay' has left the game
+[2021-04-17 03:08:56]: ***  [, Level 0]: 'мяу' finished the special race!
