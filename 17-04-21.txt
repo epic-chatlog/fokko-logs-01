@@ -12130,3 +12130,9 @@
 [2021-04-17 14:19:34]: f"{self.name}" [, Level 18]: where :D
 [2021-04-17 14:19:50]: [D] -:-|ML [, Level 0]: go there again
 [2021-04-17 14:19:53]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-17 14:20:05]: Zephir™ [404, Level 40]: RM | Arin: Little nob :D
+[2021-04-17 14:20:08]: nameless tee [, Level 0]: f"{self.name}": come
+[2021-04-17 14:20:09]: El Monkey [Retard MNKY, Level 0]: why?
+[2021-04-17 14:20:11]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-17 14:20:13]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-17 14:20:14]: ***  [, Level 0]: 'El Monkey' has left the game
