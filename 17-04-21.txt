@@ -3784,3 +3784,5 @@
 [2021-04-17 06:10:59]: Zephir™ [404, Level 40]: weqe: i make bob rq, i killed him  times
 [2021-04-17 06:11:06]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
 [2021-04-17 06:11:07]: Zephir™ [404, Level 40]: Kezo: yep
+[2021-04-17 06:11:15]: weqe [669, Level 13]: Zephir™: i think he just got bored
+[2021-04-17 06:11:20]: [D] mamikral011 [DogParty, Level 22]: weqe:
