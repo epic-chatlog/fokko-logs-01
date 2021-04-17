@@ -9322,3 +9322,5 @@
 [2021-04-17 10:54:03]: Killua [FookinLads, Level 37]: |HolyHo|: help
 [2021-04-17 10:54:08]: Killua [FookinLads, Level 37]: sun.slow(y):
 [2021-04-17 10:54:10]: ***  [, Level 0]: 'Jerry' entered and joined the game
+[2021-04-17 10:54:20]: ***  [, Level 0]: 'lolpoep' has left the game
+[2021-04-17 10:54:21]: Killua [FookinLads, Level 37]: |HolyHo|:  sun.slow(y) check clan war list...
