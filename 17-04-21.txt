@@ -292,3 +292,7 @@
 [2021-04-17 01:57:24]: ***  [, Level 0]: ToMsKaTv is on a killing spree with 20 blocks
 [2021-04-17 01:57:28]: ***  [, Level 0]: 'SanoreX' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-17 01:57:34]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-17 01:57:37]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-17 01:57:37]: ***  [, Level 0]: 'Jerry' has left the game
+[2021-04-17 01:57:43]: ***  [, Level 0]: ToMsKaTv is on a killing spree with 25 blocks
+[2021-04-17 01:57:45]: Coca [Drunks, Level 22]: его убить Ƭevan ?я спики сделать могу)
