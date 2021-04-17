@@ -11919,3 +11919,4 @@
 [2021-04-17 13:52:50]: ***  [, Level 0]: New record: 6 minute(s) 43.26 second(s) better.
 [2021-04-17 13:52:57]: ***  [, Level 0]: __init__(self): finished in: 5 minute(s)  1.46 second(s)
 [2021-04-17 13:52:59]: Hunter.exe [DogParty, Level 37]: ZEWO: you said help me 10k so if you dont pay 10k to me we have war until you pay
+[2021-04-17 13:53:45]: ***  [, Level 0]: 'weqe' entered and joined the game
