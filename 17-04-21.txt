@@ -11905,3 +11905,7 @@
 [2021-04-17 13:51:44]: ***  [, Level 0]: 'Zerstrian' has left the game
 [2021-04-17 13:51:44]: ***  [, Level 0]: 'Not Zerstrian' has left the game
 [2021-04-17 13:51:46]: (1)☺ [, Level 23]: ok mr dud
+[2021-04-17 13:51:52]: Kenshi™ [404, Level 0]: casserole :p: j'ai pas demander sa
+[2021-04-17 13:51:59]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
+[2021-04-17 13:51:59]: ***  [, Level 0]: '♥TAKO♥' has left the game
+[2021-04-17 13:52:00]: ZEWO dummy [, Level 0]: Hunter.exe: What do you want  from me?
