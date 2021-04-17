@@ -10345,3 +10345,7 @@
 [2021-04-17 11:44:14]: ***  [, Level 0]: 'Cylox' left the minigame 'Survival'
 [2021-04-17 11:44:28]: ***  [, Level 0]: 'Cylox.' left the minigame 'Survival'
 [2021-04-17 11:44:39]: Cylox. [{TQuila}, Level 0]: SanoreX: olmadıı
+[2021-04-17 11:44:43]: (1)Good man [Drunks, Level 0]: бля
+[2021-04-17 11:44:45]: (1)Good man [Drunks, Level 0]: ты чё?
+[2021-04-17 11:44:52]: (1)Good man [Drunks, Level 0]: я сам в соло просто пришёл и купил маленький
+[2021-04-17 11:44:53]: (1)Good man [Drunks, Level 0]: бля
