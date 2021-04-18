@@ -13579,3 +13579,5 @@
 [2021-04-17 17:42:09]: BLACK [, Level 23]: WHAT
 [2021-04-17 17:42:09]: (1)☺ [, Level 0]: 400 ping
 [2021-04-17 17:42:12]: Kirito [{TQuila}, Level 40]: (3)BLACK: WTF NEUTRAL DUDE
+[2021-04-17 17:42:16]: Kirito [{TQuila}, Level 40]: (3)BLACK: YOU HELPED HIM!!!
+[2021-04-17 17:42:22]: BLACK [, Level 23]: DUDE HE ISNT IN POLICE !!
