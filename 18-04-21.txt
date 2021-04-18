@@ -9148,3 +9148,8 @@
 [2021-04-18 08:25:36]: Mert [Blood Gang, Level 0]: oyun kralı çek
 [2021-04-18 08:25:40]: ***  [, Level 0]: 'dry' entered and joined the game
 [2021-04-18 08:25:41]: ZEWO [, Level 0]: Mert: de ona dc mi açsn
+[2021-04-18 08:25:46]: Mert [Blood Gang, Level 0]: amk
+[2021-04-18 08:25:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-18 08:25:54]: [D] El patron [FookinLads, Level 24]: you only can kill me when i write
+[2021-04-18 08:25:54]: Mert [Blood Gang, Level 0]: şuan diemem
+[2021-04-18 08:25:57]: CKA3A4NIK[NR] [Night Raid, Level 35]: Zam:  ну помоги пажалуйсто
