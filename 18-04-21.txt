@@ -6077,3 +6077,8 @@
 [2021-04-18 06:09:56]:   [, Level 0]: Cylox: noo
 [2021-04-18 06:10:03]:   [, Level 0]: Cylox: no mamn
 [2021-04-18 06:10:04]: sun.slow(y) [FookinLads, Level 35]: fanboy
+[2021-04-18 06:10:05]:   [, Level 0]: Cylox: man
+[2021-04-18 06:10:05]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 10 blocks
+[2021-04-18 06:10:06]:   [, Level 0]: Cylox: stop
+[2021-04-18 06:10:09]: |HolyHo|° [FookinLads, Level 19]: wtf man
+[2021-04-18 06:10:14]:   [, Level 0]: Cylox: stop*
