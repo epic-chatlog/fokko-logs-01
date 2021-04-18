@@ -13895,3 +13895,6 @@
 [2021-04-17 18:33:51]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-17 18:33:56]: sad [, Level 0]: how
 [2021-04-17 18:34:02]: woona [, Level 48]: sad: google
+[2021-04-17 18:34:05]: sad [, Level 0]: yes
+[2021-04-17 18:34:07]: woona [, Level 48]: sad: steam
+[2021-04-17 18:34:14]: sad [, Level 0]: i cant
