@@ -6440,3 +6440,5 @@
 [2021-04-18 06:28:20]: ***  [, Level 0]: Cylox. finished in: 3 minute(s)  9.50 second(s)
 [2021-04-18 06:28:20]: ***  [, Level 0]: 'Cylox.' finished the special race!
 [2021-04-18 06:28:24]: [D] El patron [FookinLads, Level 24]: Kirito: moment
+[2021-04-18 06:28:29]: ChillerDragon [Chilli.*, Level 45]: sun.slow(y): !?
+[2021-04-18 06:28:36]: ***  [, Level 0]: sL|KeBu28 is on a killing spree with 5 blocks
