@@ -20586,3 +20586,5 @@
 [2021-04-18 16:58:05]: Kirito [{TQuila}, Level 41]: bin 18 aber benehme mich selten so xD
 [2021-04-18 16:58:09]: ERROR [404, Level 47]: xD
 [2021-04-18 16:58:27]: ERROR, [404, Level 57]: bobby
+[2021-04-18 16:58:30]: bob [, Level 36]: no
+[2021-04-18 16:58:40]: ERROR, [404, Level 57]: ist zuspät gern morgen wieder deal?
