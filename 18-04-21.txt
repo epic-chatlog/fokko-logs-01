@@ -365,3 +365,6 @@
 [2021-04-18 00:52:42]: ***  [, Level 0]: 'toine' entered and joined the game
 [2021-04-18 00:52:43]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 00:52:45]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 00:52:46]: Ðeathscyth [, Level 3]: Bubba :3[Đ]:
+[2021-04-18 00:52:49]: Ðeathscyth [, Level 3]: Cylox.:
+[2021-04-18 00:52:55]: Ðeathscyth [, Level 3]: Bubba :3[Đ]: help\
