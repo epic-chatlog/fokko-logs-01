@@ -14028,3 +14028,5 @@
 [2021-04-17 18:49:07]: woona [, Level 48]: sad: where are u from
 [2021-04-17 18:49:16]: sad [, Level 0]: french
 [2021-04-17 18:49:19]: woona [, Level 48]: hmm
+[2021-04-17 18:49:26]: woona [, Level 48]: sad:
+[2021-04-17 18:49:29]: woona [, Level 48]: go up
