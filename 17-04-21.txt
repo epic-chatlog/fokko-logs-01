@@ -14504,3 +14504,4 @@
 [2021-04-17 21:15:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-17 21:16:01]: (1)Kirito [, Level 26]: Nudelsaft c::
 [2021-04-17 21:16:05]: Nudelsaft c: [FookinLads, Level 43]: ja?
+[2021-04-17 21:16:12]: Kirito [{TQuila}, Level 40]: könntest du mich bitte retten im superroom
