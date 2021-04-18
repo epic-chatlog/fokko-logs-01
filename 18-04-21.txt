@@ -5798,3 +5798,6 @@
 [2021-04-18 05:53:13]: sun.slow(y) [FookinLads, Level 35]: HeavyGeneral: is misshooked him and he try block me
 [2021-04-18 05:53:16]: JustRace [DogParty, Level 36]: HeavyGeneral:  he killed el patron too lmao
 [2021-04-18 05:53:31]:   [, Level 0]: Matiteusz: sun.slow(x): kurwa isegrin
+[2021-04-18 05:53:34]: JustRace [DogParty, Level 36]: HeavyGeneral:  I was farming
+[2021-04-18 05:53:41]: JustRace [DogParty, Level 36]: HeavyGeneral:  and my friend told me he took me out
+[2021-04-18 05:53:44]: ***  [, Level 0]: 625. satou Time: 01:52.52, requested by satou
