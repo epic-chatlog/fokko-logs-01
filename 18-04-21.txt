@@ -822,3 +822,5 @@
 [2021-04-18 01:34:27]: ***  [, Level 0]: Honey Cat finished in: 3 minute(s) 15.24 second(s)
 [2021-04-18 01:34:29]: SanoreX.* [Chilli.*, Level 23]: helop him
 [2021-04-18 01:34:30]: ***  [, Level 0]: 'Sokoleffeet' entered and joined the game
+[2021-04-18 01:34:45]: ***  [, Level 0]: 'power2' has left the game
+[2021-04-18 01:34:45]: ***  [, Level 0]: 'power' has left the game
