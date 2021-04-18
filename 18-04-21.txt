@@ -5520,3 +5520,6 @@
 [2021-04-18 05:38:14]: ***  [, Level 0]: 'brainless tee' has left the game
 [2021-04-18 05:38:18]: ***  [, Level 0]: el champeon's killing spree was ended by Taip (6 blocks)
 [2021-04-18 05:38:27]: [D] El patron [FookinLads, Level 24]: HardreenClutch: bonus player
+[2021-04-18 05:38:30]: HeavyGeneral [FookinLads, Level 44]: HardreenClutch: like
+[2021-04-18 05:38:32]: ***  [, Level 0]: '[D] AlinGaming9' entered and joined the game
+[2021-04-18 05:38:38]: HardreenClutch [, Level 57]: El patron:  dont talk to me fan boy
