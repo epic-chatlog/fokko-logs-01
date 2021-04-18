@@ -20521,3 +20521,7 @@
 [2021-04-18 16:44:02]: ERROR [404, Level 76]: hmmm
 [2021-04-18 16:44:06]: ERROR [404, Level 76]: boring
 [2021-04-18 16:44:13]: Black [, Level 0]: u
+[2021-04-18 16:44:20]: (1)ERROR [404, Level 47]: no zephir
+[2021-04-18 16:44:23]: Kenshi™ [404, Level 0]: no u Black
+[2021-04-18 16:44:27]: Black [, Level 0]: no shiro
+[2021-04-18 16:44:30]: Kenshi™ [404, Level 0]: ERROR: :c
