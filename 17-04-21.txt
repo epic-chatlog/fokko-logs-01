@@ -14295,3 +14295,4 @@
 [2021-04-17 19:19:25]: ***  [, Level 0]: '[D] im sorry...' entered and joined the game
 [2021-04-17 19:19:39]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-17 19:19:52]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-17 19:20:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
