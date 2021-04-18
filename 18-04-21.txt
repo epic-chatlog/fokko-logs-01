@@ -4710,3 +4710,9 @@
 [2021-04-18 05:03:07]: ***  [Ÿþÿÿ, Level 0]: 'JAch spaoer' has left the game
 [2021-04-18 05:03:10]: ***  [ÿÿÿÿÿÿÿ, Level 0]: '(1)Raidon' has left the game
 [2021-04-18 05:03:13]: SanoreX [Chilli.*, Level 27]: aa
+[2021-04-18 05:03:21]: ***  [, Level 0]: 'Shy-ra.' has left the game
+[2021-04-18 05:03:25]: ***  [, Level 0]: '(1)Foxieâ™¥' has left the game
+[2021-04-18 05:03:25]: Matiteusz [TrRShClNrRs, Level 37]: Foxieâ™¥: UPPP
+[2021-04-18 05:03:27]: Raidon [, Level 24]: SanoreX: 1k sÄ±nÄ± ver bari
+[2021-04-18 05:03:28]: Raidon [, Level 24]: aq
+[2021-04-18 05:03:30]: SanoreX [Chilli.*, Level 27]: 2lk
