@@ -3519,3 +3519,7 @@
 [2021-04-18 04:10:33]:   [, Level 0]: SanoreX.*: Raidon: sus yaw
 [2021-04-18 04:10:41]: [D] El patron [FookinLads, Level 24]: Fearless: come down
 [2021-04-18 04:10:42]: Raidon [, Level 24]: mal gibi oynuyon aq
+[2021-04-18 04:10:43]: (1)Intensiv_ [CrazyNoobs, Level 0]: afk
+[2021-04-18 04:10:48]:   [, Level 0]: SanoreX.*: Raidon: sende öyle
+[2021-04-18 04:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-18 04:10:53]: Fearless [, Level 40]: El patron:  no men i dont want 20v1
