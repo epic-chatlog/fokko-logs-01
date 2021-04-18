@@ -13711,3 +13711,5 @@
 [2021-04-17 18:03:22]: woona [, Level 48]: Zephir™: come here
 [2021-04-17 18:04:12]: woona [, Level 48]: Zephir™: open here portal
 [2021-04-17 18:04:20]: woona [, Level 48]: door
+[2021-04-17 18:04:20]: Zephir™ [404, Level 40]: i can't
+[2021-04-17 18:04:29]: S Y T H N [, Level 37]: xD
