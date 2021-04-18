@@ -7862,3 +7862,11 @@
 [2021-04-18 07:39:12]: sun.slow(y) [FookinLads, Level 35]: GO
 [2021-04-18 07:39:12]: ***  [, Level 0]: 'SiNaN' has left the game
 [2021-04-18 07:39:13]: WarHammer [DogParty, Level 0]: TAKO KALP AT SALAM
+[2021-04-18 07:39:14]: sun.slow(y) [FookinLads, Level 35]: OUT
+[2021-04-18 07:39:15]: sun.slow(y) [FookinLads, Level 35]: MY
+[2021-04-18 07:39:16]: sun.slow(y) [FookinLads, Level 35]: WAY
+[2021-04-18 07:39:17]: mr dud [, Level 7]: K!ked: русский русский
+[2021-04-18 07:39:20]: WarHammer [DogParty, Level 0]: TAKO KALP
+[2021-04-18 07:39:23]: ***  [, Level 0]: 'Nagisa [H]' entered and joined the game
+[2021-04-18 07:39:24]: ♥TAKO♥ [DogParty, Level 25]: WTF
+[2021-04-18 07:39:25]: Zam [.bad, Level 30]: mr dud: Чиллер типа мне друг, не блокает и помогает вроде
