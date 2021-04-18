@@ -1242,3 +1242,11 @@
 [2021-04-18 02:06:52]: ***  [, Level 0]: New record: 1 minute(s) 33.50 second(s) better.
 [2021-04-18 02:06:54]:   [, Level 0]: Cylox.: Raidon: kımsın sn yaram
 [2021-04-18 02:06:58]: ***  [, Level 0]: 'Javz' joined the spectators
+[2021-04-18 02:07:01]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 02:07:02]: mamikral011 [DogParty, Level 0]: any: :D
+[2021-04-18 02:07:03]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 02:07:05]: Raidon's Pet [, Level 20]: any: spec
+[2021-04-18 02:07:07]: ***  [, Level 0]: 'Bluebell Cat' has left the game
+[2021-04-18 02:07:09]: ***  [, Level 0]: 'Bluebell Cat' entered and joined the game
+[2021-04-18 02:07:09]: satou [, Level 7]: any: ur an pure idiot
+[2021-04-18 02:07:13]: Raidon [, Level 24]: he died
