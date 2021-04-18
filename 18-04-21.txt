@@ -5850,3 +5850,8 @@
 [2021-04-18 05:57:20]: ***  [, Level 0]: 'WarHammer'' has left the game
 [2021-04-18 05:57:20]: ***  [, Level 0]: 'WarHammer' has left the game
 [2021-04-18 05:57:33]: ***  [, Level 0]: Faceless tee is on a killing spree with 10 blocks
+[2021-04-18 05:57:40]: ChillerDragon.* [|*KoG*|, Level 42]: sun.slow(x): ?
+[2021-04-18 05:57:42]: ***  [, Level 0]: 'sleimi' entered and joined the game
+[2021-04-18 05:57:42]: ***  [, Level 0]: Faceless tee's killing spree was ended by Taip (10 blocks)
+[2021-04-18 05:57:43]: JustRace [DogParty, Level 36]: sun.slow(x):  fuck off
+[2021-04-18 05:57:46]: ChillerDragon.* [|*KoG*|, Level 42]: reden wir jetzt nich mehr oder was sun.slow(x)
