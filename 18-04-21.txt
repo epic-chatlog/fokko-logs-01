@@ -11310,3 +11310,6 @@
 [2021-04-18 09:57:14]: Good man [Drunks, Level 32]: короче
 [2021-04-18 09:57:17]: Good man [Drunks, Level 32]: хукни меня
 [2021-04-18 09:57:19]:   [, Level 0]: (1)Sayme: so many peoples
+[2021-04-18 09:57:30]: ***  [, Level 0]: '(1)Mista bombast' entered and joined the game
+[2021-04-18 09:57:30]: ***  [, Level 0]: 'random' entered and joined the game
+[2021-04-18 09:57:33]:   [, Level 0]: (1)Sayme: party time
