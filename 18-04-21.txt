@@ -2241,3 +2241,5 @@
 [2021-04-18 03:05:24]: any [404, Level 38]: Raidon: come only with 1 account i portal the other
 [2021-04-18 03:05:27]: SanoreX.* [Chilli.*, Level 23]: QON QON: war
 [2021-04-18 03:05:29]: vollesprit [, Level 1]: yes
+[2021-04-18 03:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-18 03:05:57]: satou [, Level 7]: help pls
