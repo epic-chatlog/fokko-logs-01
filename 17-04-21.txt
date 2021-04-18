@@ -13876,3 +13876,4 @@
 [2021-04-17 18:30:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-17 18:31:05]: woona [, Level 48]: sad: look
 [2021-04-17 18:31:11]: ***  [, Level 0]: '[D] taco bell' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-17 18:31:15]: sad [, Level 0]: wow
