@@ -10113,3 +10113,4 @@
 [2021-04-18 08:57:51]: Nagisa [H] [E8, Level 0]: bende
 [2021-04-18 08:58:07]: Taip [VergleriSay, Level 0]: endless
 [2021-04-18 08:58:08]: Taip [VergleriSay, Level 0]: hook var
+[2021-04-18 08:58:25]: satou [, Level 7]: BIG LAG
