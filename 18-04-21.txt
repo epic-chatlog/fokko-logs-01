@@ -2734,3 +2734,4 @@
 [2021-04-18 03:34:37]: ***  [, Level 0]: '(1)SanoreX' has left the game
 [2021-04-18 03:34:42]: Raidon [, Level 24]: El patron: dont help satou
 [2021-04-18 03:34:43]: ***  [, Level 0]: '(1)SanoreX' entered and joined the game
+[2021-04-18 03:34:52]: El patron [FookinLads, Level 31]: Raidon: k
