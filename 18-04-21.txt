@@ -816,3 +816,5 @@
 [2021-04-18 01:34:02]: Raidon's Pet [, Level 20]: fuck
 [2021-04-18 01:34:03]: Random Guy [, Level 40]: -_-
 [2021-04-18 01:34:05]: Random Guy [, Level 40]: no honor
+[2021-04-18 01:34:13]: ***  [, Level 0]: 'PANZELKOWY' entered and joined the game
+[2021-04-18 01:34:17]: satou [, Level 7]: lul
