@@ -501,3 +501,7 @@
 [2021-04-18 01:08:48]: Raidon's Pet [, Level 20]: jetpack felan var aq
 [2021-04-18 01:09:02]: SanoreX [Chilli.*, Level 0]: Raidon's Pet: 2nci pencereden
 [2021-04-18 01:09:04]: Raidon's Pet [, Level 20]: port değişirsem timeout yerim
+[2021-04-18 01:09:14]: SanoreX [Chilli.*, Level 0]: Raidon's Pet: 2. ddnet client
+[2021-04-18 01:09:17]: SanoreX [Chilli.*, Level 0]: neyse
+[2021-04-18 01:09:18]: Raidon [, Level 24]: lan tm
+[2021-04-18 01:09:19]: SanoreX [Chilli.*, Level 0]: artık
