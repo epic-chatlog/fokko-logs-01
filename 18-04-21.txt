@@ -5298,3 +5298,7 @@
 [2021-04-18 05:28:13]: [D] satou [, Level 0]: omg
 [2021-04-18 05:28:15]: ERROR. [404, Level 57]: like clan 404:  never help ChillerDragon
 [2021-04-18 05:28:27]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-18 05:28:29]: HeavyGeneral [FookinLads, Level 44]: l2p pels
+[2021-04-18 05:28:33]: like clan 404 [, Level 0]: ERROR.: ha ok, i don't know
+[2021-04-18 05:28:33]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-18 05:28:35]: ***  [, Level 0]: 'El Monkey' entered and joined the game
