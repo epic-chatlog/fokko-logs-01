@@ -1382,3 +1382,7 @@
 [2021-04-18 02:13:25]:   [, Level 0]: abdul yarak: SanoreX: raidon kım
 [2021-04-18 02:13:26]: SanoreX [Chilli.*, Level 27]: mamikral011: evt türk
 [2021-04-18 02:13:31]: mamikral011 [DogParty, Level 0]: SanoreX: ok
+[2021-04-18 02:13:34]: ***  [, Level 0]: '|ΛnץOиe|' entered and joined the game
+[2021-04-18 02:13:36]: SanoreX [Chilli.*, Level 27]: satou: gel Raidon yandı yakalayak plota
+[2021-04-18 02:13:39]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-18 02:13:40]: ***  [, Level 0]: 'Niemand' entered and joined the game
