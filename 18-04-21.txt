@@ -5832,3 +5832,9 @@
 [2021-04-18 05:55:29]: Foxi♥ [{TQuila}, Level 0]: Matiteusz: he helped darkstar and killed me
 [2021-04-18 05:55:32]: Meetiteusz [TrRShClNrRs, Level 0]: sun.slow(x): WYKURWIAJ ISEGRIN
 [2021-04-18 05:55:42]: Foxi♥ [{TQuila}, Level 0]: Matiteusz: and he kills everyone and when he dies he rage like a 9yo
+[2021-04-18 05:55:48]: [D] JustRace [DogParty, Level 29]: cl_aimbot 0
+[2021-04-18 05:55:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-18 05:55:50]: ***  [, Level 0]: 'Mns' has left the game
+[2021-04-18 05:55:50]: WarHammer [DogParty, Level 0]: lag
+[2021-04-18 05:55:54]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 37.38 second(s)
+[2021-04-18 05:55:54]: ChillerDragon.* [|*KoG*|, Level 42]: was war das jetzt sun.slow(x) :D
