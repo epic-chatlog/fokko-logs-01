@@ -14756,3 +14756,5 @@
 [2021-04-17 23:47:48]: ***  [, Level 0]: 'adsad' changed name to 'Intensiv___'
 [2021-04-17 23:48:14]: (1)Intensiv_ [CrazyNoobs, Level 0]: ım dummy
 [2021-04-17 23:49:29]: (1)Intensiv_ [CrazyNoobs, Level 0]: help
+[2021-04-17 23:49:42]: ***  [, Level 0]: 'Intensiv___' changed name to 'Intensiv__'
+[2021-04-17 23:49:44]: ***  [, Level 0]: 'system' entered and joined the game
