@@ -296,3 +296,7 @@
 [2021-04-18 00:45:14]: Raidon [, Level 24]: wtf
 [2021-04-18 00:45:22]: Raidon [, Level 24]: ah i can console
 [2021-04-18 00:45:23]: Raidon [, Level 24]: wait
+[2021-04-18 00:45:29]: ***  [, Level 0]: 'Raidon's Pet' entered and joined the game
+[2021-04-18 00:45:35]: Raidon [, Level 24]: ;police
+[2021-04-18 00:45:35]: Kiøn1029 [.bad, Level 32]: úgy is elfelejtett blockolni
+[2021-04-18 00:45:41]: Raidon [, Level 24]: ;police 1
