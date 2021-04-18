@@ -784,3 +784,6 @@
 [2021-04-18 01:30:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-18 01:30:50]: [D] Random Guy [, Level 0]: ES: this means left up
 [2021-04-18 01:30:56]: Noémi [Queen , Level 40]: Marcisten: ott szoktam vele afkolni xd
+[2021-04-18 01:31:07]: [D] Random Guy [, Level 0]: Noémi: left up
+[2021-04-18 01:31:10]: nameless tee [, Level 0]: when you get out you lose perks right?
+[2021-04-18 01:31:14]: Marcisten [Helper, Level 0]: Noémi: de mi értelme annak?
