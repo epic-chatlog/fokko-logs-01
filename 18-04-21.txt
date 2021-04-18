@@ -17595,3 +17595,8 @@
 [2021-04-18 13:37:03]: ***  [, Level 0]: kais's killing spree was ended by Rips (11 blocks)
 [2021-04-18 13:37:04]: ***  [, Level 0]: 'El Monkey' has left the game
 [2021-04-18 13:37:21]: ***  [, Level 0]: kais is on a killing spree with 5 blocks
+[2021-04-18 13:37:31]: bob [, Level 36]: xd
+[2021-04-18 13:37:34]: S Y T H N [, Level 37]: oh
+[2021-04-18 13:37:34]: ***  [, Level 0]: 'WIR' entered and joined the game
+[2021-04-18 13:37:38]: ***  [, Level 0]: 'WIR' has left the game
+[2021-04-18 13:37:38]: mamikral011 [DogParty, Level 27]: ERROR.: where
