@@ -1222,3 +1222,5 @@
 [2021-04-18 02:05:50]: Cylox. [{TQuila}, Level 0]: kımsı
 [2021-04-18 02:05:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-18 02:05:57]: [D] Random Guy [, Level 0]: DUDE DONT MOVE
+[2021-04-18 02:06:07]: Raidon [, Level 24]: any: 18. plot my plot
+[2021-04-18 02:06:07]: Jikai [, Level 0]: mira
