@@ -14464,3 +14464,4 @@
 [2021-04-17 20:20:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-17 20:20:59]: ***  [, Level 0]: 'otaeri' entered and joined the game
 [2021-04-17 20:25:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-17 20:27:02]: ***  [, Level 0]: 'otaeri' has left the game
