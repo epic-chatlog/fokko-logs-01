@@ -13356,3 +13356,5 @@
 [2021-04-17 16:59:55]: taco bell [, Level 12]: kk
 [2021-04-17 17:00:21]: [D] BC|Tixnix [BC, Level 26]: Kirito: warte
 [2021-04-17 17:00:27]: Kirito [{TQuila}, Level 40]: [D] BC|Tixnix: okay
+[2021-04-17 17:00:46]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-17 17:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
