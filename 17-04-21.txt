@@ -14515,3 +14515,5 @@
 [2021-04-17 21:22:48]: Noxl [.bad, Level 48]: Nudelsaft c:: money
 [2021-04-17 21:22:57]: Nudelsaft c: [FookinLads, Level 43]: huh
 [2021-04-17 21:23:00]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-17 21:23:11]: Swarfey [FookinLads, Level 0]: oh yes
+[2021-04-17 21:23:12]: Swarfey [FookinLads, Level 0]: moni
