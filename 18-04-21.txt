@@ -2419,3 +2419,8 @@
 [2021-04-18 03:18:49]: ***  [, Level 0]: '(1)Falco641' has left the game
 [2021-04-18 03:18:53]: ***  [, Level 0]: 'Gizta Momzastib' entered and joined the game
 [2021-04-18 03:18:55]: |ΛnץOиe| [, Level 0]: WHY URE DED
+[2021-04-18 03:18:58]: ***  [, Level 0]: '(1)Falco641' entered and joined the game
+[2021-04-18 03:18:59]: ***  [, Level 0]: '(1)Falco641' has left the game
+[2021-04-18 03:19:01]: ***  [, Level 0]: 'Bruh' entered and joined the game
+[2021-04-18 03:19:05]: Raidon's Pet [, Level 20]: fuck
+[2021-04-18 03:19:06]: ***  [, Level 0]: '(1)Falco641' entered and joined the game
