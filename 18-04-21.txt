@@ -2299,3 +2299,6 @@
 [2021-04-18 03:10:00]: ***  [, Level 0]: 'QON QON' joined the spectators
 [2021-04-18 03:10:03]: ***  [, Level 0]: 'QON QON' joined the game
 [2021-04-18 03:10:14]: ***  [, Level 0]: 'QON QON' joined the spectators
+[2021-04-18 03:10:17]: ***  [, Level 0]: 'QON QON' joined the game
+[2021-04-18 03:10:19]: ***  [, Level 0]: any's killing spree was ended by Raidon (11 blocks)
+[2021-04-18 03:10:23]: ***  [, Level 0]: 'QON QON' joined the spectators
