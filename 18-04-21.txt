@@ -381,3 +381,5 @@
 [2021-04-18 00:54:47]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 00:54:50]: ***  [, Level 0]: Raidon's Pet finished in: 1 minute(s) 21.06 second(s)
 [2021-04-18 00:54:51]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 00:55:06]: ***  [, Level 0]: [D] Boti. finished in: 0 minute(s) 41.10 second(s)
+[2021-04-18 00:55:06]: ***  [, Level 0]: New record: 29.92 second(s) better.
