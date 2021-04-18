@@ -3948,3 +3948,8 @@
 [2021-04-18 04:33:32]: [D] satou [, Level 7]: ver
 [2021-04-18 04:33:39]: SanoreX [Chilli.*, Level 27]: 2dk
 [2021-04-18 04:33:40]:   [, Level 0]: Foxie♥: go
+[2021-04-18 04:33:43]: ***  [, Level 0]: 'rino,95' has left the game
+[2021-04-18 04:33:48]: SanoreX [Chilli.*, Level 27]: ama
+[2021-04-18 04:33:52]:   [, Level 0]: Foxie♥: go
+[2021-04-18 04:33:53]:   [, Level 0]: ChillerDragon.*: blocker JustRace
+[2021-04-18 04:33:54]: ***  [, Level 0]: [D] JustRace is on a killing spree with 5 blocks
