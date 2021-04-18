@@ -7308,3 +7308,8 @@
 [2021-04-18 07:12:34]: ***  [, Level 0]: 'komando' has left the game
 [2021-04-18 07:12:38]:   [, Level 0]: ϟтiƒℓer: tree: i let u
 [2021-04-18 07:12:40]: ***  [, Level 0]: 'BitchPlease Jr.' has left the game
+[2021-04-18 07:12:43]: ***  [, Level 0]: 'BitchPlease Jr.' entered and joined the game
+[2021-04-18 07:12:44]:   [, Level 0]: weqe: WTF U WANT mr dud
+[2021-04-18 07:12:45]: ***  [, Level 0]: '1' entered and joined the game
+[2021-04-18 07:12:49]: mr dud [, Level 6]: do not
+[2021-04-18 07:12:52]:   [, Level 0]: weqe: do not what
