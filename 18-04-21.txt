@@ -58,3 +58,4 @@
 [2021-04-18 00:15:41]: ***  [, Level 0]: 'Ðream' entered and joined the game
 [2021-04-18 00:15:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-18 00:15:51]: ***  [, Level 0]: 'Aoe' changed name to 'ZEWO'
+[2021-04-18 00:16:05]: ***  [, Level 0]: 'Ðream' has left the game
