@@ -14454,3 +14454,4 @@
 [2021-04-17 19:50:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-17 19:55:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-17 20:00:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-17 20:01:58]: ***  [, Level 0]: 'souldrin' entered and joined the game
