@@ -7020,3 +7020,5 @@
 [2021-04-18 06:54:21]: ***  [, Level 0]: '(1)монстр' entered and joined the game
 [2021-04-18 06:54:23]: ***  [, Level 0]: '(1)монстр' has left the game (Timeout Protection used)
 [2021-04-18 06:54:24]: K!ked [De}|{aBю, Level 62]: yair: its russia world
+[2021-04-18 06:54:31]: Cylox [{TQuila}, Level 32]: hadı öptüm
+[2021-04-18 06:54:34]: ***  [, Level 0]: '(1)[D] монст�' entered and joined the game
