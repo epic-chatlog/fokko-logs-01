@@ -20571,3 +20571,5 @@
 [2021-04-18 16:56:06]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
 [2021-04-18 16:56:10]: (1)Kirito [, Level 0]: ERROR: 18
 [2021-04-18 16:56:12]: (1)Kirito [, Level 0]: und du?
+[2021-04-18 16:56:17]: ERROR' [404, Level 76]: alt xD
+[2021-04-18 16:56:22]: (2)Kirito [{TQuila}, Level 27]: wieso :D
