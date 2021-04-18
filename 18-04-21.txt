@@ -6046,3 +6046,4 @@
 [2021-04-18 06:08:18]: sun.slow(y) [FookinLads, Level 35]: f
 [2021-04-18 06:08:19]: ***  [, Level 0]: 'Hazel' has left the game
 [2021-04-18 06:08:21]: ***  [, Level 0]: 'sta' entered and joined the game
+[2021-04-18 06:08:29]: ***  [, Level 0]: 'sta' has left the game
