@@ -3574,3 +3574,4 @@
 [2021-04-18 04:13:29]:   [, Level 0]: SanoreX.*: Raidon: lan bi sal
 [2021-04-18 04:13:32]: mamikral011 [DogParty, Level 0]: [D] El patron:
 [2021-04-18 04:13:42]: ***  [, Level 0]: 'BENJI3103' has left the game (Timeout)
+[2021-04-18 04:13:50]: ***  [, Level 0]: 'darkstar3' entered and joined the game
