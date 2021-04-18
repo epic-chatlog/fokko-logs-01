@@ -1899,3 +1899,6 @@
 [2021-04-18 02:45:06]: vollesprit [, Level 1]: ah
 [2021-04-18 02:45:11]: SanoreX [Chilli.*, Level 27]: any: stop I wanna play block gay
 [2021-04-18 02:45:12]: Falco642 [, Level 3]: cause u cant get the flag from them here
+[2021-04-18 02:45:17]: Falco642 [, Level 3]: no freeze tiles here
+[2021-04-18 02:45:23]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-18 02:45:24]: ***  [, Level 0]: 'Niemand' entered and joined the game
