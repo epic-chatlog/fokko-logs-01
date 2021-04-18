@@ -11516,3 +11516,5 @@
 [2021-04-18 10:08:06]: ***  [, Level 0]: 'cunt' has left the game
 [2021-04-18 10:08:06]: ***  [, Level 0]: '(1)cunt' has left the game
 [2021-04-18 10:08:12]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
+[2021-04-18 10:08:15]:   [, Level 0]: Nudelsaft c:: Fearless: ye
+[2021-04-18 10:08:20]:   [, Level 0]: vollesprit: Coca ???
