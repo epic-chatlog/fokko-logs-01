@@ -7174,3 +7174,5 @@
 [2021-04-18 07:02:20]: ***  [, Level 0]: '11111' entered and joined the game
 [2021-04-18 07:02:28]: (1)☺ [, Level 0]: i lag
 [2021-04-18 07:02:55]: ***  [, Level 0]: ϟтiƒℓer is on a killing spree with 5 blocks
+[2021-04-18 07:03:04]: ***  [, Level 0]: '11111' has left the game
+[2021-04-18 07:03:07]: ***  [, Level 0]: 'bite couille' entered and joined the game
