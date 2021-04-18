@@ -1878,3 +1878,4 @@
 [2021-04-18 02:43:54]: vollesprit [, Level 1]: nothing there...
 [2021-04-18 02:43:56]: Falco642 [, Level 3]: no wait
 [2021-04-18 02:43:57]: Falco642 [, Level 3]: look
+[2021-04-18 02:44:10]: Falco642 [, Level 3]: no keep shooting rifle
