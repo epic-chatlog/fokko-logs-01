@@ -12307,3 +12307,8 @@
 [2021-04-18 10:34:43]: Nudelsaft c: [FookinLads, Level 60]: but it like also works irl
 [2021-04-18 10:34:47]:   [, Level 0]: [D] suka: lag
 [2021-04-18 10:34:54]: Boti. [.bad, Level 33]: DÉV
+[2021-04-18 10:34:58]: Boti. [.bad, Level 33]: HOLV
+[2021-04-18 10:34:59]: ***  [, Level 0]: 'Ozi' entered and joined the game
+[2021-04-18 10:34:59]: ***  [, Level 0]: 'GODLIKe' started an auction on plot 5 for 25000 money (plot expires on 21.04.2021 (18:00))
+[2021-04-18 10:34:59]: ***  [, Level 0]: Use '/plot buy 25000 GODLIKe' to buy the plot
+[2021-04-18 10:35:00]: ***  [, Level 0]: 'BLACK' has left the game
