@@ -16592,3 +16592,7 @@
 [2021-04-18 12:49:53]: ***  [, Level 0]: 'gian x' joined the spectators
 [2021-04-18 12:49:57]: ***  [, Level 0]: 'gian x' joined the game
 [2021-04-18 12:49:58]: ReXi [, Level 0]: nein
+[2021-04-18 12:50:02]: ReXi [, Level 0]: kein figth
+[2021-04-18 12:50:04]: BulgarianTee [xSD7, Level 38]: flappy: FFS
+[2021-04-18 12:50:07]: ***  [, Level 0]: 'gian x' joined the spectators
+[2021-04-18 12:50:11]: ***  [, Level 0]: 'gian x' joined the game
