@@ -11764,3 +11764,10 @@
 [2021-04-18 10:16:44]: ***  [, Level 0]: 'Hunter.exe' entered and joined the game
 [2021-04-18 10:16:45]: soleri1 [, Level 24]: toxicdave.: /spec
 [2021-04-18 10:16:49]: ***  [, Level 0]: 'ZEWO' entered and joined the game
+[2021-04-18 10:16:57]: ***  [, Level 0]: '(1)' has left the game
+[2021-04-18 10:16:57]: ***  [, Level 0]: 'Arktict' has left the game
+[2021-04-18 10:16:57]: ***  [, Level 0]: 'YaYa' entered and joined the game
+[2021-04-18 10:16:58]: GReeeN [, Level 41]: rexi:  ich warte immer noch auf dc :D
+[2021-04-18 10:16:59]:   [, Level 0]: ZEWO: SanoreX: ekleeee
+[2021-04-18 10:17:00]: Fearless [, Level 40]: dry:  omg
+[2021-04-18 10:17:03]: SanoreX.* [Chilli.*, Level 23]: ZEWO: ok
