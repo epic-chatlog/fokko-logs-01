@@ -14708,3 +14708,5 @@
 [2021-04-17 23:13:33]: Noxl [.bad, Level 48]: <3
 [2021-04-17 23:13:37]: ***  [, Level 0]: 'Noxl.' has left the game
 [2021-04-17 23:14:03]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-17 23:14:08]: Noxl [.bad, Level 48]: Nudelsaft c:: wtf
+[2021-04-17 23:14:10]: Noxl [.bad, Level 48]: hhhhaa
