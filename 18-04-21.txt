@@ -2636,3 +2636,8 @@
 [2021-04-18 03:29:55]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-18 03:29:57]: ***  [, Level 0]: 'Misa Gobastig' entered and joined the game
 [2021-04-18 03:29:59]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-18 03:30:13]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-18 03:30:16]: Raidon [, Level 24]: any: perfect
+[2021-04-18 03:30:16]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-18 03:30:18]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-18 03:30:18]: ***  [, Level 0]: 'ork' entered and joined the game
