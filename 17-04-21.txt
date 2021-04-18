@@ -14719,3 +14719,6 @@
 [2021-04-17 23:15:50]: ***  [, Level 0]: 'Noxl' has left the game
 [2021-04-17 23:18:38]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-17 23:19:11]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-17 23:20:48]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-17 23:20:48]: ***  [, Level 0]: 'Jerry' has left the game
+[2021-04-17 23:20:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
