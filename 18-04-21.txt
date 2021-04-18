@@ -17564,3 +17564,6 @@
 [2021-04-18 13:35:22]: ***  [, Level 0]: 'Kirito' has left the game
 [2021-04-18 13:35:22]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-18 13:35:32]: bob [, Level 36]: hello sir
+[2021-04-18 13:35:37]: kais [, Level 66]: hello mister
+[2021-04-18 13:35:39]: S Y T H N [, Level 37]: t
+[2021-04-18 13:35:45]: bob [, Level 36]: where u going to
