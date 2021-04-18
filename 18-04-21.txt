@@ -397,3 +397,8 @@
 [2021-04-18 00:56:13]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
 [2021-04-18 00:56:16]: ***  [, Level 0]: 'pandaSindCool' joined the spectators
 [2021-04-18 00:56:24]: ***  [, Level 0]: 'Noémi' finished the special race!
+[2021-04-18 00:56:29]: ***  [, Level 0]: Cylox. finished in: 4 minute(s) 24.64 second(s)
+[2021-04-18 00:56:29]: ***  [, Level 0]: 'Cylox.' finished the special race!
+[2021-04-18 00:56:34]: Random Guy [, Level 40]: REEEEEEEE
+[2021-04-18 00:56:34]: ***  [, Level 0]: Ðeathscyth finished in: 4 minute(s) 25.30 second(s)
+[2021-04-18 00:56:34]: ***  [, Level 0]: 'Ðeathscyth' finished the special race!
