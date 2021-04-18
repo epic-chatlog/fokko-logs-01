@@ -7802,3 +7802,9 @@
 [2021-04-18 07:36:10]: ***  [, Level 0]: 'i am a rabit' entered and joined the game
 [2021-04-18 07:36:15]: |ΛnץOиe| [, Level 43]: SiNaN:
 [2021-04-18 07:36:22]: ***  [, Level 0]: 'haxxless tee' joined the game
+[2021-04-18 07:36:24]: ***  [, Level 0]: |HolyHo| is on a killing spree with 10 blocks
+[2021-04-18 07:36:25]: WarHammer [DogParty, Level 0]: AL
+[2021-04-18 07:36:28]: ***  [, Level 0]: cHurch is on a killing spree with 5 blocks
+[2021-04-18 07:36:30]: ***  [, Level 0]: 'woona' finished the special race!
+[2021-04-18 07:36:31]: ***  [, Level 0]: 'SiNaN' finished the special race!
+[2021-04-18 07:36:34]: |ΛnץOиe| [, Level 43]: GODLIKe.: why ure so bad with me
