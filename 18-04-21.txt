@@ -5861,3 +5861,4 @@
 [2021-04-18 05:58:10]: ***  [, Level 0]: 'sleimi' has left the game
 [2021-04-18 05:58:28]: ***  [, Level 0]: 'AwA' has left the game
 [2021-04-18 05:58:35]: ***  [, Level 0]: 'abdul yarak' entered and joined the game
+[2021-04-18 05:58:48]: sun.slow(x) [, Level 0]: sun.slow(x):
