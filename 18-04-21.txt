@@ -4379,3 +4379,7 @@
 [2021-04-18 04:50:12]:   [, Level 0]: Taip: come
 [2021-04-18 04:50:14]: nenny [doq, Level 0]: ok
 [2021-04-18 04:50:16]: ***  [, Level 0]: ### 'huvegonarul' I've fallen down, and I can't get up!
+[2021-04-18 04:50:20]: ***  [, Level 0]: 'D.&D.' has left the game
+[2021-04-18 04:50:21]: PEai diea pie [, Level 12]: epqepq
+[2021-04-18 04:50:22]: JAch spaoer [, Level 24]: peqepq
+[2021-04-18 04:50:23]: JAch spaoer [, Level 24]: peqpe
