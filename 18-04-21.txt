@@ -3760,3 +3760,5 @@
 [2021-04-18 04:25:32]: ***  [, Level 0]: darkstar4 finished in: 9 minute(s) 13.54 second(s)
 [2021-04-18 04:25:32]: Raidon [, Level 24]: xd
 [2021-04-18 04:25:33]: flat ass [, Level 36]: mamikral011: or u stop war?
+[2021-04-18 04:25:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-18 04:25:52]:   [, Level 0]: Matiteusz: [D] BC|serwan:
