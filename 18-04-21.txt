@@ -222,3 +222,4 @@
 [2021-04-18 00:40:37]: ZEWO [, Level 0]: Boti.: I am Turkish, write to me from the translation in Turkish
 [2021-04-18 00:40:38]: Boti. [.bad, Level 33]: STFU
 [2021-04-18 00:40:40]: Boti. [.bad, Level 33]: PLS
+[2021-04-18 00:40:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
