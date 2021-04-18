@@ -964,3 +964,5 @@
 [2021-04-18 01:48:56]: ***  [, Level 0]: Узбек is on a killing spree with 10 blocks
 [2021-04-18 01:49:09]: satou [, Level 7]: lags
 [2021-04-18 01:49:17]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-18 01:49:21]: ***  [, Level 0]: 'test' has left the game
+[2021-04-18 01:49:23]: SanoreX [Chilli.*, Level 27]: lagg
