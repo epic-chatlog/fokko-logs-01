@@ -869,3 +869,4 @@
 [2021-04-18 01:40:05]: Raidon [, Level 24]: any: follow
 [2021-04-18 01:40:34]: nameless tee [, Level 0]: xD
 [2021-04-18 01:40:40]: satou [, Level 7]: I like turtles.
+[2021-04-18 01:40:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
