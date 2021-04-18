@@ -7291,3 +7291,5 @@
 [2021-04-18 07:11:33]: ***  [, Level 0]: 'szczur' entered and joined the game
 [2021-04-18 07:11:35]: sL|KeBu28 [SkinLover, Level 30]: Soros: ok
 [2021-04-18 07:11:38]: ***  [, Level 0]: 'Kezo' changed name to 'Intensiv_'
+[2021-04-18 07:11:44]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 5 blocks
+[2021-04-18 07:11:51]: ***  [, Level 0]: 'Dimon pokemon' entered and joined the game
