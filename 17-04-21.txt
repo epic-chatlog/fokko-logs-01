@@ -14690,3 +14690,5 @@
 [2021-04-17 22:59:04]: ***  [, Level 0]: '(1)ES' has left the game
 [2021-04-17 22:59:05]: ***  [, Level 0]: '(2)ES' has left the game
 [2021-04-17 22:59:06]: ***  [, Level 0]: '(3)ES' has left the game
+[2021-04-17 22:59:46]: Noxl [.bad, Level 48]: Nudelsaft c::
+[2021-04-17 22:59:55]: Nudelsaft c: [FookinLads, Level 43]: aaaaaaaaa
