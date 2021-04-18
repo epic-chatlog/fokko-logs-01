@@ -5588,3 +5588,7 @@
 [2021-04-18 05:42:15]: ***  [, Level 0]: satou finished in: 4 minute(s) 27.26 second(s)
 [2021-04-18 05:42:23]: JustRace [DogParty, Level 36]: cl_aimbot 1
 [2021-04-18 05:42:29]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-18 05:42:33]: ***  [, Level 0]: 'Abribri ImissU' entered and joined the game
+[2021-04-18 05:42:33]: HardreenClutch [, Level 57]: |ΛnץOиe|:
+[2021-04-18 05:42:40]: darkstar [Legacy™, Level 20]: Shiro.: thx but
+[2021-04-18 05:42:43]: JustRace [DogParty, Level 36]: HeavyGeneral:  moving faster than my ping
