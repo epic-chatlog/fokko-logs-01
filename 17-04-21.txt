@@ -13730,3 +13730,5 @@
 [2021-04-17 18:06:09]: woona [, Level 48]: 1 min
 [2021-04-17 18:06:24]: Zephir™ [404, Level 40]: woona: take me
 [2021-04-17 18:06:40]: woona [, Level 48]: open up
+[2021-04-17 18:07:00]: Zephir™ [404, Level 40]: woona: just see
+[2021-04-17 18:07:04]: Zephir™ [404, Level 40]: we can't now
