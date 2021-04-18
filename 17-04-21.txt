@@ -14457,3 +14457,4 @@
 [2021-04-17 20:01:58]: ***  [, Level 0]: 'souldrin' entered and joined the game
 [2021-04-17 20:05:07]: ***  [, Level 0]: 'taco bell' has left the game
 [2021-04-17 20:05:07]: ***  [, Level 0]: '[D] taco bell' has left the game
+[2021-04-17 20:05:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
