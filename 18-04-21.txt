@@ -497,3 +497,5 @@
 [2021-04-18 01:08:31]: Raidon's Pet [, Level 20]: knk
 [2021-04-18 01:08:37]: SanoreX [Chilli.*, Level 0]: ip ini göremem
 [2021-04-18 01:08:41]: SanoreX [Chilli.*, Level 0]: o farklı ipler
+[2021-04-18 01:08:43]: Raidon's Pet [, Level 20]: biliyom onu
+[2021-04-18 01:08:48]: Raidon's Pet [, Level 20]: jetpack felan var aq
