@@ -11858,3 +11858,7 @@
 [2021-04-18 10:19:51]: ***  [, Level 0]: 'taco bell' entered and joined the game
 [2021-04-18 10:19:51]: ***  [, Level 0]: 'Confust' entered and joined the game
 [2021-04-18 10:19:51]: SanoreX.* [Chilli.*, Level 23]: beklee
+[2021-04-18 10:20:02]: ZEWO [, Level 0]: Test:
+[2021-04-18 10:20:03]:   [, Level 0]: Zephir™: (1)☺: tu la sortie
+[2021-04-18 10:20:05]: (1)☺ [, Level 23]: en plus tu la sauver Zephir™
+[2021-04-18 10:20:07]: ♥TAKO♥ [DogParty, Level 25]: toxicdave.:  ı am crazy
