@@ -3857,3 +3857,6 @@
 [2021-04-18 04:29:52]: SanoreX [Chilli.*, Level 27]: satou: biraz spookyghost at ona laga girsin
 [2021-04-18 04:29:52]: ***  [, Level 0]: 'BC|Tixnix' finished the special race!
 [2021-04-18 04:30:02]: ChillerDragon [Chilli.*, Level 45]: u should become one too JustRace
+[2021-04-18 04:30:09]: JustRace [DogParty, Level 0]: ChillerDragon:  one what
+[2021-04-18 04:30:13]: JustRace [DogParty, Level 0]: ChillerDragon:  bonus player?
+[2021-04-18 04:30:14]: JustRace [DogParty, Level 0]: ChillerDragon:  nope
