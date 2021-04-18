@@ -19895,3 +19895,6 @@
 [2021-04-18 15:48:52]: ***  [, Level 0]: 'LGBT+ General' has left the game
 [2021-04-18 15:48:52]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-18 15:48:55]: ***  [, Level 0]: 'Orwined' entered and joined the game
+[2021-04-18 15:48:57]: ERROR [404, Level 76]: xD
+[2021-04-18 15:49:03]: Zephir™ [404, Level 40]: woona: xD plz
+[2021-04-18 15:49:06]: |ΛnץOиe| [, Level 0]: Zephir™: raboule la moni
