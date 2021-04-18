@@ -20582,3 +20582,4 @@
 [2021-04-18 16:57:18]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-18 16:57:20]: (3)Kirito [, Level 12]: mich hängts komplett aus ka wieso xD
 [2021-04-18 16:57:27]: ERROR' [404, Level 76]: xD
+[2021-04-18 16:57:55]: Kirito [{TQuila}, Level 41]: aber nur an manchen tagen bin ich so extrem toxic
