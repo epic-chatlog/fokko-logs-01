@@ -1400,3 +1400,5 @@
 [2021-04-18 02:14:16]: mamikral011 [DogParty, Level 0]: lan
 [2021-04-18 02:14:18]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 02:14:19]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 02:14:24]: ***  [, Level 0]: 'brainless tee' has left the game
+[2021-04-18 02:14:24]: ***  [, Level 0]: 'nameless tee' has left the game
