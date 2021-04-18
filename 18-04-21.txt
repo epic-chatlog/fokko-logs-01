@@ -890,3 +890,7 @@
 [2021-04-18 01:42:53]: [D] Random Guy [, Level 0]: dude4
 [2021-04-18 01:43:04]: Raidon's Pet [, Level 20]: [D] Random Guy: sorry but he friend
 [2021-04-18 01:43:08]: any [404, Level 38]: Raidon: saved ur dummy
+[2021-04-18 01:43:12]: SanoreX.* [Chilli.*, Level 23]: Random Guy: I wanna be with my dummy
+[2021-04-18 01:43:12]: any [404, Level 38]: Raidon: ty btw
+[2021-04-18 01:43:12]: Raidon's Pet [, Level 20]: k
+[2021-04-18 01:43:14]: Raidon's Pet [, Level 20]: np
