@@ -19835,3 +19835,7 @@
 [2021-04-18 15:43:25]: Shiro. [404, Level 43]: yes
 [2021-04-18 15:43:56]: Shiro. [404, Level 43]: XDDDD
 [2021-04-18 15:43:58]: Zephir™ [404, Level 40]: :cccc
+[2021-04-18 15:44:13]: ***  [, Level 0]: 'RoboBot' entered and joined the game
+[2021-04-18 15:44:14]: ***  [, Level 0]: 'Kirito' has left the game
+[2021-04-18 15:44:16]: Zephir™ [404, Level 40]: XD
+[2021-04-18 15:44:16]: Shiro. [404, Level 43]: rq
