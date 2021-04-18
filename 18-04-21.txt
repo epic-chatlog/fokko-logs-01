@@ -1754,3 +1754,6 @@
 [2021-04-18 02:36:46]: Falco641 [.bad, Level 20]: quick help?
 [2021-04-18 02:36:54]: Falco641 [.bad, Level 20]: |ΛnץOиe|:
 [2021-04-18 02:37:05]: ***  [, Level 0]: '(1)Raidon' has left the game
+[2021-04-18 02:37:08]: Falco641 [.bad, Level 20]: |ΛnץOиe|:
+[2021-04-18 02:37:12]: Raidon's Pet [, Level 20]: any: spec me
+[2021-04-18 02:37:15]: Falco641 [.bad, Level 20]: |ΛnץOиe|:
