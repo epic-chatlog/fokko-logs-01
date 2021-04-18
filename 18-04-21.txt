@@ -19639,3 +19639,5 @@
 [2021-04-18 15:25:52]: |MıssOяchiĐ| [, Level 48]: LGBT+ General: t'as pris ma moni?
 [2021-04-18 15:25:58]: weqe [669, Level 13]: LGBT General: im very upset
 [2021-04-18 15:26:11]: |MıssOяchiĐ| [, Level 48]: ERROR: its you who take my moni
+[2021-04-18 15:26:20]: ERROR. [404, Level 57]: idk
+[2021-04-18 15:26:23]: LGBT General [404, Level 43]: weqe: why
