@@ -3669,3 +3669,7 @@
 [2021-04-18 04:20:46]: ***  [, Level 0]: 'Intensiv_' has left the game
 [2021-04-18 04:20:49]: mamikral011 [DogParty, Level 0]: power2:
 [2021-04-18 04:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-18 04:20:51]: mamikral011 [DogParty, Level 0]: power2: war for life
+[2021-04-18 04:20:53]: ***  [, Level 0]: '(1)Raidon' has left the game
+[2021-04-18 04:21:00]: Raidon [, Level 24]: SanoreX: ben ddoslamıyom amk
+[2021-04-18 04:21:00]: power [TrRShClNrRs, Level 0]: mamikral011: u dont learn do u?
