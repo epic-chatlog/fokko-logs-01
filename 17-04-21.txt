@@ -13657,3 +13657,4 @@
 [2021-04-17 17:50:47]: ***  [, Level 0]: 'mystifyy' entered and joined the game
 [2021-04-17 17:50:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-17 17:50:57]: Kirito [{TQuila}, Level 40]: Zephir™: YOU CANT PLAY WITHOUT TASER YOU SHITHEAD
+[2021-04-17 17:51:07]: Zephir™ [404, Level 40]: Kirito: love ur hate <3
