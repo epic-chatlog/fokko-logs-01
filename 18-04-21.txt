@@ -17770,3 +17770,6 @@
 [2021-04-18 13:46:24]: ***  [, Level 0]: 'Lucifero' entered and joined the game
 [2021-04-18 13:47:11]: Zephir™ [404, Level 40]: kais: 1v1 ?
 [2021-04-18 13:47:12]: AbdoZX17 [, Level 0]: (1)kais: so many randoms
+[2021-04-18 13:47:16]: (1)kais [, Level 58]: Zephir™: nan
+[2021-04-18 13:47:23]: Zephir™ [404, Level 40]: kais: français ?
+[2021-04-18 13:47:23]: ***  [, Level 0]: 'Lucifero' has left the game
