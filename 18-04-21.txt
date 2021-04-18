@@ -39,3 +39,5 @@
 [2021-04-18 00:11:59]: ***  [, Level 0]: 'sylbot (0)' changed name to 'Aoe'
 [2021-04-18 00:12:18]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-18 00:12:26]: Aoe [, Level 0]: ES: ım zewo
+[2021-04-18 00:12:51]: Aoe [, Level 0]: hello
+[2021-04-18 00:12:54]: Aoe [, Level 0]: ES: ım zewo
