@@ -14049,3 +14049,5 @@
 [2021-04-17 18:51:00]: woona [, Level 48]: sad: map finish
 [2021-04-17 18:51:17]: ♥TAKO♥ [DogParty, Level 25]: sad:  u can see page up button?
 [2021-04-17 18:51:19]: woona [, Level 48]: sad: im afk u login and go farm ok
+[2021-04-17 18:51:25]: woona [, Level 48]: sad: come again
+[2021-04-17 18:51:26]: sad [, Level 0]: ok
