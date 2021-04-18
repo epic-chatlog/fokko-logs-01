@@ -20562,3 +20562,6 @@
 [2021-04-18 16:53:59]: Kirito [{TQuila}, Level 41]: ok
 [2021-04-18 16:54:09]: ERROR, [404, Level 57]: good night
 [2021-04-18 16:54:09]: Kirito [{TQuila}, Level 41]: good night
+[2021-04-18 16:54:12]: Kenshi™ [404, Level 0]: byeee
+[2021-04-18 16:54:15]: ***  [, Level 0]: 'Kenshi™' has left the game
+[2021-04-18 16:54:15]: ***  [, Level 0]: 'Zephir™' has left the game
