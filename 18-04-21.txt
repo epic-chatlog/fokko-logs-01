@@ -1908,3 +1908,8 @@
 [2021-04-18 02:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-18 02:45:51]: ***  [, Level 0]: 'mike' entered and joined the game
 [2021-04-18 02:45:57]: ***  [, Level 0]: any² is on a killing spree with 45 blocks
+[2021-04-18 02:46:07]: ♥TAKO♥ [DogParty, Level 25]: any:  not attack SanoreX
+[2021-04-18 02:46:08]: SanoreX [Chilli.*, Level 27]: any: stop spawnblock me shitass
+[2021-04-18 02:46:12]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-18 02:46:13]: ***  [, Level 0]: 'mike' has left the game
+[2021-04-18 02:46:15]: ***  [, Level 0]: 'Niemand' entered and joined the game
