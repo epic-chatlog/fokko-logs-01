@@ -1736,3 +1736,6 @@
 [2021-04-18 02:35:31]: Falco642 [, Level 3]: wait
 [2021-04-18 02:35:37]: ***  [, Level 0]: '(1)any' entered and joined the game
 [2021-04-18 02:35:39]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
+[2021-04-18 02:35:42]: ***  [, Level 0]: 'human' has left the game
+[2021-04-18 02:35:49]: Raidon's Pet [, Level 20]: pls
+[2021-04-18 02:35:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
