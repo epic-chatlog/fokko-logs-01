@@ -5783,3 +5783,6 @@
 [2021-04-18 05:52:24]: ***  [, Level 0]: 'gg ise' has left the game
 [2021-04-18 05:52:25]: Foxi♥ [{TQuila}, Level 0]: Matiteusz:
 [2021-04-18 05:52:26]: ***  [, Level 0]: 'Liamky' entered and joined the game
+[2021-04-18 05:52:35]: ***  [, Level 0]: 'вован' has left the game
+[2021-04-18 05:52:39]: ***  [, Level 0]: 'ϻɪɔʜɑʟ' has left the game
+[2021-04-18 05:52:41]: ***  [, Level 0]: ### 'WarHammer' xd
