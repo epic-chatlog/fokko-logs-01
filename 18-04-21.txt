@@ -17423,3 +17423,5 @@
 [2021-04-18 13:27:44]: ***  [, Level 0]: 'Bubba :3[Đ]' would have timed out, but can use timeout protection now
 [2021-04-18 13:27:45]: ***  [, Level 0]: 'Axandos²' entered and joined the game
 [2021-04-18 13:27:53]: RM | Arin [Retard MNKY, Level 0]: bob:
+[2021-04-18 13:28:07]: ***  [, Level 0]: 'Bartłomiejósz' has left the game
+[2021-04-18 13:28:09]: WarHammer' [DogParty, Level 26]: LAG
