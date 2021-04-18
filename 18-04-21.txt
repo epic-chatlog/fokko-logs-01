@@ -11434,3 +11434,7 @@
 [2021-04-18 10:03:49]: ***  [, Level 0]: 'Just Mikael' joined the game
 [2021-04-18 10:03:59]: ***  [, Level 0]: '(1)IMPOSTOR' entered and joined the game
 [2021-04-18 10:04:01]: Arktict [, Level 31]: zen
+[2021-04-18 10:04:10]:   [, Level 0]: sL|KeBu280: (1)sLlGamer95: told you
+[2021-04-18 10:04:11]:   [, Level 0]: Isegrin: (1)sLlGamer95: niga niga
+[2021-04-18 10:04:14]: ***  [, Level 0]: 'Fearless' entered and joined the game
+[2021-04-18 10:04:18]:   [, Level 0]: sun.slow(y): Cylox: ok now rly war
