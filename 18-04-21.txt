@@ -20533,3 +20533,7 @@
 [2021-04-18 16:45:35]: ***  [, Level 0]: 'Black' has left the game
 [2021-04-18 16:45:38]: Kenshi™ [404, Level 0]: xD
 [2021-04-18 16:45:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-18 16:46:04]: ***  [, Level 0]: 'ERROR.' has left the game
+[2021-04-18 16:46:04]: ***  [, Level 0]: 'ERROR' has left the game
+[2021-04-18 16:46:07]: ***  [, Level 0]: '(1)ERROR.' changed name to 'ERROR.'
+[2021-04-18 16:46:07]: ***  [, Level 0]: '(1)ERROR' changed name to 'ERROR'
