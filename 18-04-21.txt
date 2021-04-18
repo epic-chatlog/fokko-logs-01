@@ -20505,3 +20505,5 @@
 [2021-04-18 16:41:10]: ***  [, Level 0]: 'LGBT+ General' entered and joined the game
 [2021-04-18 16:41:13]: Kenshi™ [404, Level 0]: ERROR:
 [2021-04-18 16:41:15]: Shiro. [404, Level 43]: jprend dummy tg
+[2021-04-18 16:41:18]: Kenshi™ [404, Level 0]: meeeh
+[2021-04-18 16:41:29]: ***  [, Level 0]: 'LGBT+ General' has left the game
