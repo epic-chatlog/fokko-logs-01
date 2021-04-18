@@ -14288,3 +14288,7 @@
 [2021-04-17 19:18:54]: ***  [, Level 0]: [POLICE-CHANNEL] 'im sorry...' is spawnblocking. Catch him!
 [2021-04-17 19:19:01]: ***  [, Level 0]: im sorry... is on a killing spree with 5 blocks
 [2021-04-17 19:19:01]: ***  [, Level 0]: [POLICE-CHANNEL] 'im sorry...' is spawnblocking. Catch him!
+[2021-04-17 19:19:11]: ***  [, Level 0]: [POLICE-CHANNEL] 'im sorry...' has been caught by 'Kirito' (11 minutes arrest)
+[2021-04-17 19:19:13]: im sorry... [, Level 0]: xD
+[2021-04-17 19:19:14]: (1)☺ [, Level 0]: l ag
+[2021-04-17 19:19:16]: Kirito [{TQuila}, Level 40]: ez JAJAJAJAJA
