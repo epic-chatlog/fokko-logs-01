@@ -2632,3 +2632,4 @@
 [2021-04-18 03:29:31]: ***  [, Level 0]: 'Van DarkMiller' entered and joined the game
 [2021-04-18 03:29:32]: Intensiv_ [CrazyNoobs, Level 10]: Raidon: pilotta 1 saaatte 1 tl alıyorsunuz .D
 [2021-04-18 03:29:35]: ***  [, Level 0]: 'Gizta Momzastib' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-18 03:29:53]: ***  [, Level 0]: '(1)Gizta Momzast' changed name to 'Gizta Momzastib'
