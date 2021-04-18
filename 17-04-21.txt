@@ -14777,3 +14777,6 @@
 [2021-04-17 23:56:12]: ZEWO dummy [, Level 0]: no
 [2021-04-17 23:56:27]: ZEWO dummy [, Level 0]: (1)Intensiv___: help
 [2021-04-17 23:56:42]: ZEWO dummy [, Level 0]: (1)Intensiv___: spec ZEWO
+[2021-04-17 23:56:56]: (1)Intensiv___ [CrazyNoobs, Level 0]: IM
+[2021-04-17 23:56:57]: (1)Intensiv___ [CrazyNoobs, Level 0]: AFK
+[2021-04-17 23:57:01]: ZEWO dummy [, Level 0]: no
