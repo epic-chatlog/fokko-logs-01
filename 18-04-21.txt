@@ -10919,3 +10919,7 @@
 [2021-04-18 09:35:48]: yair [, Level 36]: inf jumps nobo
 [2021-04-18 09:35:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-18 09:35:52]: [D] Amirian [bad., Level 23]: PING
+[2021-04-18 09:35:55]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-18 09:35:59]: [D] El patron [FookinLads, Level 24]: Hunter.exe:
+[2021-04-18 09:36:02]: ***  [, Level 0]: 'Yamato' has left the game
+[2021-04-18 09:36:04]: [D] Amirian [bad., Level 23]: dry: im help you
