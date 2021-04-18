@@ -14560,3 +14560,4 @@
 [2021-04-17 22:01:55]: ***  [, Level 0]: 'Jerry' has left the game (Timeout)
 [2021-04-17 22:01:55]: ***  [, Level 0]: 'Tom' has left the game (Timeout)
 [2021-04-17 22:02:01]: Noxl [.bad, Level 48]: laaags
+[2021-04-17 22:02:56]: ***  [, Level 0]: 'Good man' finished the special race!
