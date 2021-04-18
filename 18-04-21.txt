@@ -7253,3 +7253,5 @@
 [2021-04-18 07:07:57]: Kirito [{TQuila}, Level 41]: ter
 [2021-04-18 07:07:58]: ***  [, Level 0]: 'bite couille' entered and joined the game
 [2021-04-18 07:08:03]: ***  [, Level 0]: 'Alex' has left the game
+[2021-04-18 07:08:15]: ☺ [, Level 26]: GReeeN: man why you killed me*
+[2021-04-18 07:08:26]: ***  [, Level 0]: '(1)bite couille' entered and joined the game
