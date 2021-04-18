@@ -20464,3 +20464,5 @@
 [2021-04-18 16:37:27]: Zephir™ [404, Level 40]: nan srx :c
 [2021-04-18 16:37:37]: Black [, Level 0]: u guys talk alot
 [2021-04-18 16:38:02]: Zephir™ [404, Level 40]: yeay :D
+[2021-04-18 16:38:13]: ERROR [404, Level 76]: Xddddddd
+[2021-04-18 16:38:18]: Shiro. [404, Level 43]: ERROR: stopid
