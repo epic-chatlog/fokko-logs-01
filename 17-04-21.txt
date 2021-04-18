@@ -14750,3 +14750,5 @@
 [2021-04-17 23:45:25]: ***  [, Level 0]: '(1)Intensiv_' entered and joined the game
 [2021-04-17 23:45:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-17 23:45:58]: ***  [, Level 0]: 'kristalik25' entered and joined the game
+[2021-04-17 23:47:04]: ***  [, Level 0]: 'Intensiv__' changed name to 'Intensiv___'
+[2021-04-17 23:47:05]: ***  [, Level 0]: 'kristalik25' has left the game
