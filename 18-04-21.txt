@@ -10176,3 +10176,4 @@
 [2021-04-18 09:01:57]: Taip [VergleriSay, Level 0]: ordan
 [2021-04-18 09:01:59]: Taip [VergleriSay, Level 0]: kasmadım,
 [2021-04-18 09:01:59]: ***  [, Level 0]: 'Pro Dan' entered and joined the game
+[2021-04-18 09:02:02]: Nagisa [H] [E8, Level 0]: nerden
