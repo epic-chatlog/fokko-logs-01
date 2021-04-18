@@ -19572,3 +19572,5 @@
 [2021-04-18 15:20:54]: SP | Someone [Somepeople, Level 0]: i use "atlas_by_whis"
 [2021-04-18 15:20:59]: RoboBot [Z-Team, Level 0]: and skindata base
 [2021-04-18 15:21:00]: SP | Someone [Somepeople, Level 0]: its made by WHIS
+[2021-04-18 15:21:05]: SP | Someone [Somepeople, Level 0]: ITS IN THE NAME
+[2021-04-18 15:21:15]: RoboBot [Z-Team, Level 0]: go to ddnet.tw
