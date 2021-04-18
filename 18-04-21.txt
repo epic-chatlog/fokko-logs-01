@@ -905,3 +905,5 @@
 [2021-04-18 01:44:19]: ***  [, Level 0]: 'мяу' has left the game
 [2021-04-18 01:44:22]: ***  [, Level 0]: 'мяу' entered and joined the game
 [2021-04-18 01:44:34]: ***  [, Level 0]: 'cunt' entered and joined the game
+[2021-04-18 01:44:36]: Raidon [, Level 24]: xd
+[2021-04-18 01:44:46]: Falco642 [, Level 3]: xd
