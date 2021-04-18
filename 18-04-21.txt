@@ -256,3 +256,10 @@
 [2021-04-18 00:43:08]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 00:43:10]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
 [2021-04-18 00:43:12]: ***  [, Level 0]: 'Noémi' entered and joined the game
+[2021-04-18 00:43:15]: Boti. [.bad, Level 33]: lehet testvérek?
+[2021-04-18 00:43:17]: Boti. [.bad, Level 33]: egy ip
+[2021-04-18 00:43:19]: Boti. [.bad, Level 33]: hmmmmm
+[2021-04-18 00:43:19]: ***  [, Level 0]: 'Random Guy' entered and joined the game
+[2021-04-18 00:43:20]: ***  [, Level 0]: 'Bubba :3[Đ]' entered and joined the game
+[2021-04-18 00:43:24]: Boti. [.bad, Level 33]: leaked
+[2021-04-18 00:43:26]: Noémi [helper, Level 0]: Boti.: ki?
