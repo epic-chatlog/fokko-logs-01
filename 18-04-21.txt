@@ -1561,3 +1561,6 @@
 [2021-04-18 02:23:28]: [D] satou [, Level 4]: Im Noob:
 [2021-04-18 02:23:30]: [D] satou [, Level 4]: use dummy
 [2021-04-18 02:23:32]: ***  [, Level 0]: '[D] mamikral011' has left the game
+[2021-04-18 02:23:50]: SanoreX [Chilli.*, Level 27]: any: ez
+[2021-04-18 02:23:53]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 02:23:54]: SanoreX [Chilli.*, Level 27]: any: look
