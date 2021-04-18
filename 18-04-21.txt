@@ -127,3 +127,6 @@
 [2021-04-18 00:28:53]: ***  [, Level 0]: 'Kahve' has left the game
 [2021-04-18 00:28:56]: ***  [, Level 0]: 'gusenechka24' has left the game
 [2021-04-18 00:29:06]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-18 00:29:17]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-18 00:29:23]: test [, Level 0]: test
+[2021-04-18 00:29:24]: ***  [, Level 0]: 'test' has left the game
