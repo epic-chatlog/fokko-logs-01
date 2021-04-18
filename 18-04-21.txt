@@ -178,3 +178,5 @@
 [2021-04-18 00:37:47]: ZEWO [, Level 0]: Boti.: I am Turkish, write to me from the translation in Turkish
 [2021-04-18 00:37:51]: Boti. [.bad, Level 33]: megint a törökök
 [2021-04-18 00:37:51]: ZEWO [, Level 0]: Boti.: I am Turkish, write to me from the translation in Turkish
+[2021-04-18 00:37:58]: Boti. [.bad, Level 33]: még 6x írd már le kérlek nem láttam
+[2021-04-18 00:38:05]: Kiøn1029 [.bad, Level 32]: XD
