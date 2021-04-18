@@ -142,3 +142,6 @@
 [2021-04-18 00:31:56]: ***  [, Level 0]: 'ZEWO dummy' left the minigame 'Block'
 [2021-04-18 00:31:59]: Boti. [.bad, Level 33]: miafasz
 [2021-04-18 00:32:10]: ZEWO [, Level 0]: Boti.: youtube
+[2021-04-18 00:32:25]: ZEWO [, Level 0]: Boti.: youtube Boti. teewolds
+[2021-04-18 00:32:27]: ***  [, Level 0]: '(1)BitchPlease J' finished the special race!
+[2021-04-18 00:32:28]: ZEWO [, Level 0]: Boti.: youtube Boti. teewolds?
