@@ -699,3 +699,7 @@
 [2021-04-18 01:26:24]: (1)SanoreX [Chilli.*, Level 0]: Raidon: yok bende
 [2021-04-18 01:26:26]: ***  [, Level 0]: 'brainless tee' has left the game
 [2021-04-18 01:26:29]: Coca [Drunks, Level 24]: ERROR: hey
+[2021-04-18 01:26:33]: (1)SanoreX [Chilli.*, Level 0]: Raidon: getir
+[2021-04-18 01:26:33]: ES [, Level 31]: Noémi: help
+[2021-04-18 01:26:36]: satou [, Level 7]: nice
+[2021-04-18 01:26:44]: (1)SanoreX [Chilli.*, Level 0]: LAN
