@@ -14790,3 +14790,6 @@
 [2021-04-17 23:58:40]: ***  [, Level 0]: 'кто я?' entered and joined the game
 [2021-04-17 23:59:01]: (1)Intensiv___ [CrazyNoobs, Level 0]: ZEWO:  where are you from
 [2021-04-17 23:59:15]: ZEWO dummy [, Level 0]: (1)Intensiv___: IM THURKİS
+[2021-04-17 23:59:18]: (1)Intensiv___ [CrazyNoobs, Level 0]: türkmüsün
+[2021-04-17 23:59:22]: ZEWO dummy [, Level 0]: EVET
+[2021-04-17 23:59:24]: (1)Intensiv___ [CrazyNoobs, Level 0]: :D
