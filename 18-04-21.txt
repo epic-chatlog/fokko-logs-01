@@ -7270,3 +7270,4 @@
 [2021-04-18 07:09:43]: ***  [, Level 0]: -:-|ML finished in: 2 minute(s) 32.94 second(s)
 [2021-04-18 07:09:43]: ***  [, Level 0]: [D] -:-|ML finished in: 2 minute(s) 21.38 second(s)
 [2021-04-18 07:09:47]: ***  [, Level 0]: 'Bl3fast' would have timed out, but can use timeout protection now
+[2021-04-18 07:09:53]: ***  [, Level 0]: 'weqe' entered and joined the game
