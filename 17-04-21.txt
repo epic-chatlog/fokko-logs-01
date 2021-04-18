@@ -13740,3 +13740,4 @@
 [2021-04-17 18:09:56]: ***  [, Level 0]: 'sad' entered and joined the game
 [2021-04-17 18:10:01]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-17 18:10:14]: ***  [, Level 0]: 'sad' has left the game
+[2021-04-17 18:10:27]: ***  [, Level 0]: 'sad' entered and joined the game
