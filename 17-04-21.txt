@@ -14787,3 +14787,4 @@
 [2021-04-17 23:57:53]: ZEWO [, Level 0]: oky
 [2021-04-17 23:58:22]: ZEWO dummy [, Level 0]: (1)Intensiv___:
 [2021-04-17 23:58:26]: (1)Intensiv___ [CrazyNoobs, Level 0]: ?
+[2021-04-17 23:58:40]: ***  [, Level 0]: 'кто я?' entered and joined the game
