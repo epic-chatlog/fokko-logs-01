@@ -465,3 +465,4 @@
 [2021-04-18 01:03:45]: ***  [, Level 0]: 'Ðeathscyth' has left the game
 [2021-04-18 01:03:50]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 01:03:51]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 01:04:19]: Noémi [helper, Level 40]: ES: war?
