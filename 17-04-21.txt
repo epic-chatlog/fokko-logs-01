@@ -13728,3 +13728,4 @@
 [2021-04-17 18:06:04]: woona [, Level 48]: Zephir™: again open
 [2021-04-17 18:06:07]: woona [, Level 48]: offf
 [2021-04-17 18:06:09]: woona [, Level 48]: 1 min
+[2021-04-17 18:06:24]: Zephir™ [404, Level 40]: woona: take me
