@@ -9205,3 +9205,8 @@
 [2021-04-18 08:28:09]: SanoreX [Chilli.*, Level 27]: ok
 [2021-04-18 08:28:11]: SanoreX [Chilli.*, Level 27]: please swap
 [2021-04-18 08:28:11]: [D]ϻɪɔʜɑʟ [Chilli.*, Level 20]: my
+[2021-04-18 08:28:17]: [D] El patron [FookinLads, Level 24]: woona cameraman: taser
+[2021-04-18 08:28:19]: ***  [, Level 0]: '[D]ϻɪɔʜɑʟ' has left the game
+[2021-04-18 08:28:19]: ***  [, Level 0]: 'ϻɪɔʜɑʟ' has left the game
+[2021-04-18 08:28:21]: SanoreX [Chilli.*, Level 27]: any: /plot swap SanoreX
+[2021-04-18 08:28:23]: ***  [, Level 0]: 'H0LL4D13W4LDF33' has left the game
