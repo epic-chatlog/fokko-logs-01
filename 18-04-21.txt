@@ -5679,3 +5679,7 @@
 [2021-04-18 05:45:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-18 05:45:50]: ***  [, Level 0]: 'Bartłomiejósz' has left the game
 [2021-04-18 05:45:58]: ***  [, Level 0]: 'xBaseL' has left the game
+[2021-04-18 05:46:01]: Matiteusz [TrRShClNrRs, Level 37]: Shiro,: wtf
+[2021-04-18 05:46:02]: ***  [, Level 0]: 'GReeeN' has left the game
+[2021-04-18 05:46:02]: ***  [, Level 0]: 'HardreenClutch' has left the game
+[2021-04-18 05:46:06]: Foxi♥ [{TQuila}, Level 0]: Meetiteusz:
