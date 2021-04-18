@@ -1531,3 +1531,5 @@
 [2021-04-18 02:21:11]: mamikral011 [DogParty, Level 0]: Falco642: help
 [2021-04-18 02:21:15]: SanoreX [Chilli.*, Level 27]: Honey Cat: we need block any and trap in my plot
 [2021-04-18 02:21:17]: SanoreX [Chilli.*, Level 27]: just it
+[2021-04-18 02:21:18]: ***  [, Level 0]: '-:-|ML' has left the game
+[2021-04-18 02:21:18]: ***  [, Level 0]: '[D] -:-|ML' has left the game
