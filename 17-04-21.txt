@@ -14686,3 +14686,4 @@
 [2021-04-17 22:51:29]: ***  [, Level 0]: '(1)ES' entered and joined the game
 [2021-04-17 22:53:43]: ***  [, Level 0]: '(2)ES' entered and joined the game
 [2021-04-17 22:55:22]: ***  [, Level 0]: '(3)ES' entered and joined the game
+[2021-04-17 22:55:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
