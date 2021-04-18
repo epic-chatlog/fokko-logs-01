@@ -5944,3 +5944,5 @@
 [2021-04-18 06:02:08]: ***  [, Level 0]: 'kurama' has left the game
 [2021-04-18 06:02:11]: ***  [, Level 0]: '[D] AlinGaming9' entered and joined the game
 [2021-04-18 06:02:13]: soleri1 [, Level 23]: ♥TAKO♥:
+[2021-04-18 06:02:20]: ***  [, Level 0]: '(1)casserole :p' has left the game
+[2021-04-18 06:02:27]: ***  [, Level 0]: 'Cylox.' entered and joined the game
