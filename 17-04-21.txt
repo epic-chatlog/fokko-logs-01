@@ -14669,3 +14669,4 @@
 [2021-04-17 22:37:08]: Nudelsaft c: [FookinLads, Level 43]: xd
 [2021-04-17 22:37:32]: Jerry [, Level 32]: hahahah
 [2021-04-17 22:37:48]: Nudelsaft c: [FookinLads, Level 43]: xDD
+[2021-04-17 22:40:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
