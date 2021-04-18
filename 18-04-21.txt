@@ -17618,3 +17618,6 @@
 [2021-04-18 13:38:57]: S Y T H N [, Level 37]: ERROR: wieso kannst du so oft portal setzten ...?
 [2021-04-18 13:39:01]: ***  [, Level 0]: 'Rips' has left the game
 [2021-04-18 13:39:04]: ERROR. [404, Level 57]: alle 10 sekunden
+[2021-04-18 13:39:08]: ***  [, Level 0]: kais's killing spree was ended by RM | Arin (18 blocks)
+[2021-04-18 13:39:13]: mamikral011 [DogParty, Level 27]: WarHammer': krall
+[2021-04-18 13:39:16]: LUIG1 [Meow, Level 0]: :D:  helpp
