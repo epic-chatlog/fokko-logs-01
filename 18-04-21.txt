@@ -991,3 +991,8 @@
 [2021-04-18 01:52:21]: nameless tee [, Level 0]: any²: Raidon he didn't mean to
 [2021-04-18 01:52:25]: Raidon [, Level 24]: satou: ?
 [2021-04-18 01:52:52]: nameless tee [, Level 0]: Raidon: man...
+[2021-04-18 01:52:58]: Raidon [, Level 24]: satou: STOP
+[2021-04-18 01:53:03]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-18 01:53:03]: [D] satou [, Level 4]: wtf Raidon
+[2021-04-18 01:53:04]: ***  [, Level 0]: 'test' has left the game
+[2021-04-18 01:53:05]: [D] Random Guy [, Level 0]: any²: you are anatomy?
