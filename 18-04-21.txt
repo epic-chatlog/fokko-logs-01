@@ -4912,3 +4912,9 @@
 [2021-04-18 05:11:27]: Meetiteusz [TrRShClNrRs, Level 0]: satou: war4flife
 [2021-04-18 05:11:35]: Taip [VergleriSay, Level 19]: hey
 [2021-04-18 05:11:39]:   [, Level 0]: JustRace: HeavyGeneral:
+[2021-04-18 05:11:42]: ***  [, Level 0]: 'huvegonarul' has left the game
+[2021-04-18 05:11:42]: ***  [, Level 0]: 'whowegonnaroll' has left the game
+[2021-04-18 05:11:43]: ***  [, Level 0]: 'Dino Bleu' entered and joined the game
+[2021-04-18 05:11:47]: ***  [, Level 0]: 'RM | Arin' finished the special race!
+[2021-04-18 05:11:47]: ***  [, Level 0]: RM | Arin finished in: 6 minute(s) 59.86 second(s)
+[2021-04-18 05:11:51]: Taip [VergleriSay, Level 19]: GReeeN: help
