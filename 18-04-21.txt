@@ -1098,3 +1098,6 @@
 [2021-04-18 02:00:22]: Cylox [{TQuila}, Level 32]: any: psl
 [2021-04-18 02:00:33]: Cylox [{TQuila}, Level 32]: any: pls
 [2021-04-18 02:00:37]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-18 02:00:46]: satou [, Level 7]: nameless tee: nice!
+[2021-04-18 02:00:49]: nameless tee [, Level 0]: yeah
+[2021-04-18 02:00:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
