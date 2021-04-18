@@ -14286,3 +14286,5 @@
 [2021-04-17 19:18:49]: ***  [, Level 0]: [POLICE-CHANNEL] 'im sorry...' is spawnblocking. Catch him!
 [2021-04-17 19:18:53]: (1)☺ [, Level 0]: pro im sorry...
 [2021-04-17 19:18:54]: ***  [, Level 0]: [POLICE-CHANNEL] 'im sorry...' is spawnblocking. Catch him!
+[2021-04-17 19:19:01]: ***  [, Level 0]: im sorry... is on a killing spree with 5 blocks
+[2021-04-17 19:19:01]: ***  [, Level 0]: [POLICE-CHANNEL] 'im sorry...' is spawnblocking. Catch him!
