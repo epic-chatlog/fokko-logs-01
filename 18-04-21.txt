@@ -3615,3 +3615,5 @@
 [2021-04-18 04:16:04]:   [, Level 0]: Intensiv: alsana
 [2021-04-18 04:16:09]:   [, Level 0]: Intensiv: bişi yapmadım
 [2021-04-18 04:16:10]:   [, Level 0]: SanoreX.*: Raidon: çok korktuk any ile senden varya
+[2021-04-18 04:16:12]:   [, Level 0]: SanoreX.*: Raidon: çok korktuk any ile senden varya salak
+[2021-04-18 04:16:20]:   [, Level 0]: (1)Raidon: adamın portalı var aq SanoreX
