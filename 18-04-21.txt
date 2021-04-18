@@ -959,3 +959,4 @@
 [2021-04-18 01:48:20]: ***  [, Level 0]: 'pandaSindCool' joined the spectators
 [2021-04-18 01:48:23]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 01:48:26]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 01:48:31]: satou [, Level 7]: oh
