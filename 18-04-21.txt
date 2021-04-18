@@ -17891,3 +17891,9 @@
 [2021-04-18 13:52:55]: ***  [, Level 0]: 'Shiro,' entered and joined the game
 [2021-04-18 13:52:56]: any [404, Level 38]: (1)kais: wtf
 [2021-04-18 13:52:58]: SoulyD [, Level 47]: !!! Blocker Detected !!!
+[2021-04-18 13:52:59]: any [404, Level 38]: (1)kais:
+[2021-04-18 13:53:01]: AbdoZX17 [, Level 0]: Shiro.: wow
+[2021-04-18 13:53:04]: AbdoZX17 [, Level 0]: Shiro,: insane
+[2021-04-18 13:53:10]: AbdoZX17 [, Level 0]: SoulyD: heyo
+[2021-04-18 13:53:10]: Shiro, [Whɪтє, Level 0]: Souly: is a troll
+[2021-04-18 13:53:10]: Shiro. [404, Level 43]: Souly: is a troll
