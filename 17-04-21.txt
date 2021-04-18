@@ -13531,3 +13531,4 @@
 [2021-04-17 17:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-17 17:31:12]: (1)☺ [, Level 0]: Zephir™: on reprend la police alors et comment jaurais gagner si je bug a mort
 [2021-04-17 17:31:30]: ☺ [, Level 26]: on aurais suremenrt perdu la police
+[2021-04-17 17:32:15]: Zephir™ [404, Level 40]: ☺: t'avais même pas besoin de te battre, juste d'aller sauver mon dummi de l'autre côté mais soit ta choisi ton clan
