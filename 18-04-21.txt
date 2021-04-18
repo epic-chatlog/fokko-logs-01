@@ -10062,3 +10062,6 @@
 [2021-04-18 08:55:11]: ***  [, Level 0]: 'vl4d' has left the game (Timeout)
 [2021-04-18 08:55:11]: ***  [, Level 0]: '(1)vl4d' has left the game (Timeout)
 [2021-04-18 08:55:15]: ***  [, Level 0]: '(1)ZEWO' entered and joined the game
+[2021-04-18 08:55:19]: ***  [, Level 0]: 'ƒirewave' has left the game
+[2021-04-18 08:55:20]: Nagisa [H] [E8, Level 0]: za
+[2021-04-18 08:55:24]: Taip [VergleriSay, Level 0]: agb
