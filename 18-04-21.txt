@@ -3512,3 +3512,6 @@
 [2021-04-18 04:10:08]: [D] mamikral011 [DogParty, Level 27]: dirty ass: you .........
 [2021-04-18 04:10:10]: |ΛnץOиe| [, Level 0]: [D] El patron: that dont do warmup
 [2021-04-18 04:10:12]: [D] mamikral011 [DogParty, Level 27]: [D] El patron: help
+[2021-04-18 04:10:25]: ***  [, Level 0]: '(1)ES' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-18 04:10:25]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-18 04:10:29]: Raidon [, Level 24]: SanoreX: NOOOB XDD
