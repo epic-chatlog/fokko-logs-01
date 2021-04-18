@@ -7480,3 +7480,7 @@
 [2021-04-18 07:21:12]: ***  [, Level 0]: 'komando' entered and joined the game
 [2021-04-18 07:21:14]: |HolyHo| [FookinLads, Level 29]: Kezo: fake kezo
 [2021-04-18 07:21:16]: Kezo [DogParty, Level 39]: no
+[2021-04-18 07:21:19]: ***  [, Level 0]: 'nenny' entered and joined the game
+[2021-04-18 07:21:19]: Kezo [DogParty, Level 39]: tab ?
+[2021-04-18 07:21:24]: ***  [, Level 0]: 'Akaru_Samea' entered and joined the game
+[2021-04-18 07:21:29]: Kezo [DogParty, Level 39]: tab ?
