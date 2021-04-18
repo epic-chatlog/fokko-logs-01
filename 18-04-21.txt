@@ -246,3 +246,13 @@
 [2021-04-18 00:42:54]: Boti. [.bad, Level 33]: majdnem mindenkinek alap flagje van dikk
 [2021-04-18 00:42:58]: ZEWO [, Level 0]: Boti.: why is that
 [2021-04-18 00:43:01]: Kiøn1029 [.bad, Level 32]: mars
+[2021-04-18 00:43:03]: ZEWO [, Level 0]: Boti. war
+[2021-04-18 00:43:05]: Boti. [.bad, Level 33]: igen
+[2021-04-18 00:43:05]: ***  [, Level 0]: 'satou' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
+[2021-04-18 00:43:05]: ***  [, Level 0]: 'SanoreX' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
+[2021-04-18 00:43:05]: ***  [, Level 0]: 'ZEWO's Dummy' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
+[2021-04-18 00:43:05]: ***  [, Level 0]: 'ZEWO' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
+[2021-04-18 00:43:07]: Boti. [.bad, Level 33]: XDD
+[2021-04-18 00:43:08]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 00:43:10]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 00:43:12]: ***  [, Level 0]: 'Noémi' entered and joined the game
