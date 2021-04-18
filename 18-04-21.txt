@@ -17710,3 +17710,7 @@
 [2021-04-18 13:43:24]: ***  [, Level 0]: 'siefx3005' has left the game
 [2021-04-18 13:43:26]: ERROR [404, Level 76]: yeah too honi
 [2021-04-18 13:43:28]: ***  [, Level 0]: 'nameless' has left the game
+[2021-04-18 13:43:37]: mamikral011 [DogParty, Level 27]: zep
+[2021-04-18 13:43:43]: AbdoZX17 [, Level 0]: ERROR: what are you doing
+[2021-04-18 13:43:43]: mamikral011 [DogParty, Level 27]: Zephir™:
+[2021-04-18 13:43:48]: ERROR [404, Level 76]: what are u doin
