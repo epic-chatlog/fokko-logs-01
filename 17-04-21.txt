@@ -13842,3 +13842,7 @@
 [2021-04-17 18:23:46]: ***  [, Level 0]: 'BC|Tixnix' has left the game (Timeout)
 [2021-04-17 18:23:46]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-17 18:23:46]: ***  [, Level 0]: 'sad' entered and joined the game
+[2021-04-17 18:24:03]: woona [, Level 48]: Kirito: why u only play portal gun
+[2021-04-17 18:24:05]: Kirito [{TQuila}, Level 40]: ezzz game
+[2021-04-17 18:24:07]: Zephir™ [404, Level 40]: Kirito: gl for ur girlfriend XDDD
+[2021-04-17 18:24:10]: ***  [, Level 0]: 'qKokzq' entered and joined the game
