@@ -3,3 +3,5 @@
 [2021-04-18 00:00:08]: (1)Intensiv___ [CrazyNoobs, Level 0]: he
 [2021-04-18 00:00:18]: ZEWO dummy [, Level 0]: blockladı seni
 [2021-04-18 00:00:22]: (1)Intensiv___ [CrazyNoobs, Level 0]: ısınma
+[2021-04-18 00:00:47]: ***  [, Level 0]: 'кто я?' has left the game
+[2021-04-18 00:00:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
