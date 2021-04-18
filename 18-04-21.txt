@@ -2776,3 +2776,5 @@
 [2021-04-18 03:37:40]: [D] El patron [FookinLads, Level 24]: anyone idk
 [2021-04-18 03:37:41]: Raidon [, Level 24]: pandaSindCool: drop all money
 [2021-04-18 03:38:18]: Ðeathscyth [, Level 3]: RaVi: pull satou
+[2021-04-18 03:38:31]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 03:38:37]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
