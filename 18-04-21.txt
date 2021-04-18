@@ -1764,3 +1764,5 @@
 [2021-04-18 02:37:39]: Falco641 [.bad, Level 20]: lets just wait xd
 [2021-04-18 02:37:41]: ***  [, Level 0]: 'nico' entered and joined the game
 [2021-04-18 02:37:42]: ***  [, Level 0]: 'abdul yarak' has left the game
+[2021-04-18 02:37:51]: ***  [, Level 0]: 'Raidon's Pet' has left the game
+[2021-04-18 02:37:51]: ***  [, Level 0]: 'Raidon' has left the game
