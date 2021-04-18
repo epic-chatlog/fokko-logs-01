@@ -2473,3 +2473,7 @@
 [2021-04-18 03:21:42]: (1)Falco641 [, Level 0]: vollesprit: i did it
 [2021-04-18 03:21:44]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-18 03:21:47]: (1)Falco641 [, Level 0]: i got to inf jump
+[2021-04-18 03:21:51]: Intensiv [CrazyNoobs, Level 15]: ♥TAKO♥:  sa
+[2021-04-18 03:21:54]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-18 03:21:55]: ***  [, Level 0]: 'vollesprit' has left the game (Timeout)
+[2021-04-18 03:21:59]: ***  [, Level 0]: 'nameless tee' joined the game
