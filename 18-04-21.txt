@@ -18553,3 +18553,7 @@
 [2021-04-18 14:28:30]: Shiro. [404, Level 43]: NO
 [2021-04-18 14:28:32]: Shiro. [404, Level 43]: yes
 [2021-04-18 14:28:36]: Minato / FR [Limoncello, Level 15]: cyberFighter: stop
+[2021-04-18 14:28:42]: Shiro. [404, Level 43]: cyberFighter: ok stop 2 sec
+[2021-04-18 14:28:48]: Shiro. [404, Level 43]: cyberFighter: go
+[2021-04-18 14:28:50]: RM | Arin [Retard MNKY, Level 41]: 2v1 etz
+[2021-04-18 14:28:54]: BULLETBOT [, Level 0]: 1IceyB0i: fuuuck
