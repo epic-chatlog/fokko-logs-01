@@ -1683,3 +1683,6 @@
 [2021-04-18 02:31:06]: SanoreX [Chilli.*, Level 27]: Raidon: iyikibi öğrendin 9yaşımda olldumu salak
 [2021-04-18 02:31:20]: Raidon [, Level 24]: SanoreX: olm mal mal konuşuyosun amk
 [2021-04-18 02:31:25]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-18 02:31:27]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-18 02:31:29]: SanoreX [Chilli.*, Level 27]: Raidon: SuS
+[2021-04-18 02:31:37]: Falco642 [, Level 3]: wait
