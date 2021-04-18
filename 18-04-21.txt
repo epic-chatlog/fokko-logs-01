@@ -2307,3 +2307,6 @@
 [2021-04-18 03:10:35]: any [404, Level 38]: ♥TAKO♥: l2p
 [2021-04-18 03:10:49]: satou [, Level 7]: help nico btw
 [2021-04-18 03:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-18 03:10:56]: Falco641 [.bad, Level 20]: vollesprit: go spawn
+[2021-04-18 03:10:59]: Falco641 [.bad, Level 20]: theres portal
+[2021-04-18 03:11:02]: vollesprit [, Level 1]: look
