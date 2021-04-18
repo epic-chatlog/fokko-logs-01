@@ -342,3 +342,5 @@
 [2021-04-18 00:48:59]: Noémi [helper, Level 0]: Boti.: szólj már a gecinek xd
 [2021-04-18 00:49:15]: Raidon [, Level 24]: fuck you bot
 [2021-04-18 00:49:19]: Boti. [.bad, Level 33]: yes
+[2021-04-18 00:50:01]: Raidon [, Level 24]: fuck you
+[2021-04-18 00:50:08]: Raidon [, Level 24]: ;dummy_control 1
