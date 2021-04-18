@@ -5705,3 +5705,5 @@
 [2021-04-18 05:47:35]:   [, Level 0]: Shiro.: fanboy xaxaxa
 [2021-04-18 05:47:38]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-18 05:47:38]: ***  [, Level 0]: 'toine' has left the game
+[2021-04-18 05:47:41]: ***  [, Level 0]: 'AKW' has left the game
+[2021-04-18 05:47:49]: ***  [, Level 0]: 'Satoru' has left the game
