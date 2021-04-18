@@ -422,3 +422,4 @@
 [2021-04-18 00:58:16]: ***  [, Level 0]: 'Boti.' has left the game
 [2021-04-18 00:58:17]: ***  [, Level 0]: '(1)Bluebell Cat' entered and joined the game
 [2021-04-18 00:58:21]: Cylox. [{TQuila}, Level 0]: Random Guy: xD
+[2021-04-18 00:58:57]: Random Guy [, Level 40]: xd
