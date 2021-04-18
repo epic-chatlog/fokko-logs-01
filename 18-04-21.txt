@@ -3617,3 +3617,6 @@
 [2021-04-18 04:16:10]:   [, Level 0]: SanoreX.*: Raidon: çok korktuk any ile senden varya
 [2021-04-18 04:16:12]:   [, Level 0]: SanoreX.*: Raidon: çok korktuk any ile senden varya salak
 [2021-04-18 04:16:20]:   [, Level 0]: (1)Raidon: adamın portalı var aq SanoreX
+[2021-04-18 04:16:29]: ***  [, Level 0]: '(1)Raidon' has left the game
+[2021-04-18 04:16:31]: ***  [, Level 0]: 'Van DarkMiller' entered and joined the game
+[2021-04-18 04:16:34]:   [, Level 0]: Friendiship ;-): casserole :p: help
