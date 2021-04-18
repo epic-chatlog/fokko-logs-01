@@ -14332,3 +14332,5 @@
 [2021-04-17 19:25:07]: Zephir™ [404, Level 40]: Kirito: i slef and we fight here ?
 [2021-04-17 19:25:13]: Kirito [{TQuila}, Level 40]: yes
 [2021-04-17 19:25:18]: (1)☺ [, Level 0]: im sorry...: who are you
+[2021-04-17 19:25:28]: [D] im sorry... [, Level 0]: idk
+[2021-04-17 19:25:33]: (1)☺ [, Level 0]: xd
