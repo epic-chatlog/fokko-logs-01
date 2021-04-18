@@ -1874,3 +1874,7 @@
 [2021-04-18 02:43:41]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-18 02:43:43]: vollesprit [, Level 1]: i wanna visit
 [2021-04-18 02:43:44]: SanoreX [Chilli.*, Level 27]: haha I closed predict
+[2021-04-18 02:43:48]: Falco642 [, Level 3]: ok
+[2021-04-18 02:43:54]: vollesprit [, Level 1]: nothing there...
+[2021-04-18 02:43:56]: Falco642 [, Level 3]: no wait
+[2021-04-18 02:43:57]: Falco642 [, Level 3]: look
