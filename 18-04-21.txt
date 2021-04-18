@@ -16681,3 +16681,4 @@
 [2021-04-18 12:53:11]: BulgarianTee [xSD7, Level 38]: ERROR: man
 [2021-04-18 12:53:14]: bob [, Level 36]: (1)ERROR: he didnt save me
 [2021-04-18 12:53:15]: |HolyHo|° [FookinLads, Level 29]: ERROR: help
+[2021-04-18 12:53:20]: kais [, Level 66]: |HolyHo|: don't even try to enter police when i'm connected,
