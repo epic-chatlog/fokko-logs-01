@@ -10235,3 +10235,9 @@
 [2021-04-18 09:03:57]: Taip [VergleriSay, Level 0]: gel
 [2021-04-18 09:04:01]: satou [, Level 7]: ok ZEWO
 [2021-04-18 09:04:02]: ZEWO [, Level 0]: ekle
+[2021-04-18 09:04:06]: ZEWO [, Level 0]: aç sv
+[2021-04-18 09:04:07]: satou [, Level 7]: TM
+[2021-04-18 09:04:10]: ZEWO [, Level 0]: aç sv
+[2021-04-18 09:04:14]: satou [, Level 7]: açtm
+[2021-04-18 09:04:15]: ***  [, Level 0]: 'ZEWO' has left the game
+[2021-04-18 09:04:15]: ***  [, Level 0]: '(1)ZEWO' has left the game
