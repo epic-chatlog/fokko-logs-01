@@ -695,3 +695,7 @@
 [2021-04-18 01:26:12]: Noémi [Queen , Level 40]: Marcisten: a barátnöddel xd
 [2021-04-18 01:26:18]: Marcisten [Helper, Level 0]: Noémi: nem a barátnőm
 [2021-04-18 01:26:18]: Raidon's Pet [, Level 20]: SanoreX: laser
+[2021-04-18 01:26:22]: Noémi [Queen , Level 40]: Marcisten: még
+[2021-04-18 01:26:24]: (1)SanoreX [Chilli.*, Level 0]: Raidon: yok bende
+[2021-04-18 01:26:26]: ***  [, Level 0]: 'brainless tee' has left the game
+[2021-04-18 01:26:29]: Coca [Drunks, Level 24]: ERROR: hey
