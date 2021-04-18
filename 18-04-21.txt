@@ -1386,3 +1386,7 @@
 [2021-04-18 02:13:36]: SanoreX [Chilli.*, Level 27]: satou: gel Raidon yandı yakalayak plota
 [2021-04-18 02:13:39]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-18 02:13:40]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-18 02:13:44]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 02:13:44]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-18 02:13:46]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 02:13:56]: mamikral011 [DogParty, Level 0]: abdul yarak: :DD
