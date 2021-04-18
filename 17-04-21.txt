@@ -14627,3 +14627,17 @@
 [2021-04-17 22:21:26]: ***  [, Level 0]: ~~~~~~~~~~
 [2021-04-17 22:21:26]: ***  [, Level 0]: Drop money: '/money drop <amount>'
 [2021-04-17 22:21:26]: ***  [, Level 0]: Invalid whisper
+[2021-04-17 22:21:31]: ←   [, Level 0]: Nudelsaft c:: 1moneydrop
+[2021-04-17 22:21:31]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-17 22:21:31]: ***  [, Level 0]: Bank: 0
+[2021-04-17 22:21:31]: ***  [, Level 0]: Wallet: 116696
+[2021-04-17 22:21:31]: ***  [, Level 0]: Euros: 0
+[2021-04-17 22:21:31]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-17 22:21:31]: ***  [, Level 0]: [WALLET] +82703 collected
+[2021-04-17 22:21:31]: ***  [, Level 0]: [WALLET] -28809 dropped
+[2021-04-17 22:21:31]: ***  [, Level 0]: [WALLET] -53981 dropped
+[2021-04-17 22:21:31]: ***  [, Level 0]: [WALLET] +3 collected
+[2021-04-17 22:21:31]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-17 22:21:31]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-17 22:21:31]: ***  [, Level 0]: Invalid whisper
+[2021-04-17 22:21:31]: ***  [, Level 0]: You can't drop money bags over 100.000
