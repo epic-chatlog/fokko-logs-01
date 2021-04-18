@@ -20557,3 +20557,4 @@
 [2021-04-18 16:52:21]: ERROR' [404, Level 76]: nub
 [2021-04-18 16:52:26]: ERROR, [404, Level 57]: xD
 [2021-04-18 16:52:29]: Zephir™ [404, Level 40]: 2am :c
+[2021-04-18 16:52:36]: ***  [, Level 0]: 'Kirito' entered and joined the game
