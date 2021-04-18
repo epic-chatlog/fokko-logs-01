@@ -20286,3 +20286,6 @@
 [2021-04-18 16:21:57]: Shiro. [404, Level 43]: 0
 [2021-04-18 16:22:04]: Zephir™ [404, Level 40]: Shiro.: XDD heeeey
 [2021-04-18 16:22:10]: Shiro. [404, Level 43]: Zephir™: j'ai les logs du jeu bb
+[2021-04-18 16:22:12]: Zephir™ [404, Level 40]: Shiro.: comment ça vas ? :D
+[2021-04-18 16:22:16]: Shiro. [404, Level 43]: "dit que je suis meilleur que shiro"
+[2021-04-18 16:22:17]: Black [, Level 0]: Zephir™:
