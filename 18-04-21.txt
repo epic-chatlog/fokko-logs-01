@@ -9306,3 +9306,7 @@
 [2021-04-18 08:31:20]: [D] El patron [FookinLads, Level 24]: CKA3A4NIK[NR]: nub
 [2021-04-18 08:31:23]: ***  [, Level 0]: 'CKA3A4NIK[NR]' has left the game
 [2021-04-18 08:31:24]: ***  [, Level 0]: '(1)galega' entered and joined the game
+[2021-04-18 08:31:28]: Taip [VergleriSay, Level 0]: Picasso
+[2021-04-18 08:31:30]: Taip [VergleriSay, Level 0]: stop
+[2021-04-18 08:31:40]: keepertrain._. [, Level 30]: noobo
+[2021-04-18 08:31:40]: ***  [, Level 0]: 'CKA3A4NIK[NR]' entered and joined the game
