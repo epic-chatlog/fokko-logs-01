@@ -156,3 +156,8 @@
 [2021-04-18 00:34:34]: Raidon [, Level 24]: ;farm
 [2021-04-18 00:34:38]: Kiøn1029 [.bad, Level 32]: én még ma nem is ettem
 [2021-04-18 00:34:39]: Boti. [.bad, Level 33]: WAIT WHAT
+[2021-04-18 00:34:42]: Kiøn1029 [.bad, Level 32]: majd ebédelek
+[2021-04-18 00:34:43]: ZEWO dummy [, Level 0]: ;KİLL
+[2021-04-18 00:34:44]: Boti. [.bad, Level 33]: miafasz
+[2021-04-18 00:34:49]: Boti. [.bad, Level 33]: chat parancsos dummy bot
+[2021-04-18 00:34:49]: ZEWO dummy [, Level 0]: ;kill
