@@ -18427,3 +18427,5 @@
 [2021-04-18 14:21:41]: ***  [, Level 0]: 'Bsj' has left the game
 [2021-04-18 14:21:43]: Bozzkurt [SkinLover, Level 0]:  sd ijdfi df
 [2021-04-18 14:21:44]: cyberFighter [Fighter's, Level 0]: wtf i cant even drop weapons
+[2021-04-18 14:21:52]: ***  [, Level 0]: 'ChillerDragon.*' has left the game
+[2021-04-18 14:21:52]: ***  [, Level 0]: 'ChillerDragon' has left the game
