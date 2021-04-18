@@ -16641,3 +16641,6 @@
 [2021-04-18 12:51:49]: TimePause [xSD7, Level 35]: ERROR: self explanatory
 [2021-04-18 12:51:50]: bob [, Level 36]: ruski
 [2021-04-18 12:51:51]: BulgarianTee [xSD7, Level 38]: TimePause: man faster i gtgf
+[2021-04-18 12:51:51]: ***  [, Level 0]: 'Petyr' entered and joined the game
+[2021-04-18 12:51:52]: ERROR. [404, Level 57]: TimePause:  well ok dont touch me then.
+[2021-04-18 12:51:53]: ReXi [, Level 0]: blyad
