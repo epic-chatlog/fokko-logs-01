@@ -2233,3 +2233,4 @@
 [2021-04-18 03:04:56]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
 [2021-04-18 03:04:58]: ***  [, Level 0]: 'QON QON' joined the spectators
 [2021-04-18 03:04:58]: Raidon [, Level 24]: any: first go super raace
+[2021-04-18 03:05:05]: ***  [, Level 0]: 'QON QON' joined the game
