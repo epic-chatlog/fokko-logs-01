@@ -1686,3 +1686,6 @@
 [2021-04-18 02:31:27]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-18 02:31:29]: SanoreX [Chilli.*, Level 27]: Raidon: SuS
 [2021-04-18 02:31:37]: Falco642 [, Level 3]: wait
+[2021-04-18 02:31:39]: Falco642 [, Level 3]: flappy coming again
+[2021-04-18 02:31:42]: Raidon [, Level 24]: fuck xd
+[2021-04-18 02:31:48]: SanoreX [Chilli.*, Level 27]: Raidon: noobsun böyle
