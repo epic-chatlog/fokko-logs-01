@@ -9859,3 +9859,8 @@
 [2021-04-18 08:47:07]: woona cameraman [, Level 48]: GReeeN: evet = yes
 [2021-04-18 08:47:07]: Taip [VergleriSay, Level 19]: ben polisim
 [2021-04-18 08:47:10]: Taip [VergleriSay, Level 19]: login yaptım
+[2021-04-18 08:47:16]: Nagisa [H] [E8, Level 0]: bende yaptım
+[2021-04-18 08:47:17]: woona cameraman [, Level 48]: GReeeN: hayır = no
+[2021-04-18 08:47:20]: ***  [, Level 0]: 'soleri1' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-18 08:47:21]: ***  [, Level 0]: 'SanoreX.*' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-18 08:47:23]: ***  [, Level 0]: 'SanoreX.*' left the minigame 'Survival'
