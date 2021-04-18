@@ -14283,3 +14283,6 @@
 [2021-04-17 19:18:19]: ***  [, Level 0]: '(1)S Y T H N' entered and joined the game
 [2021-04-17 19:18:22]: ***  [, Level 0]: '(1)S Y T H N' has left the game
 [2021-04-17 19:18:23]: (1)☺ [, Level 0]: omg i lag
+[2021-04-17 19:18:49]: ***  [, Level 0]: [POLICE-CHANNEL] 'im sorry...' is spawnblocking. Catch him!
+[2021-04-17 19:18:53]: (1)☺ [, Level 0]: pro im sorry...
+[2021-04-17 19:18:54]: ***  [, Level 0]: [POLICE-CHANNEL] 'im sorry...' is spawnblocking. Catch him!
