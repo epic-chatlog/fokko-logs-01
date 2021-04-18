@@ -674,3 +674,7 @@
 [2021-04-18 01:25:08]: (1)SanoreX [Chilli.*, Level 0]: SanoreX:
 [2021-04-18 01:25:09]: Raidon's Pet [, Level 20]: sal orda
 [2021-04-18 01:25:11]: (1)SanoreX [Chilli.*, Level 0]: Raidon: yok
+[2021-04-18 01:25:18]: (1)SanoreX [Chilli.*, Level 0]: Raidon: plotuma götürcem onu
+[2021-04-18 01:25:18]: satou [, Level 7]: nameless tee: dont kill
+[2021-04-18 01:25:21]: satou [, Level 7]: nameless tee: wait
+[2021-04-18 01:25:24]: nameless tee [, Level 0]: ok\
