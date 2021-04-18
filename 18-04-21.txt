@@ -1004,3 +1004,5 @@
 [2021-04-18 01:53:47]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
 [2021-04-18 01:53:51]: Raidon [, Level 24]: wtf xd
 [2021-04-18 01:53:51]: Random Guy [, Level 40]: koro: <<<
+[2021-04-18 01:54:04]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 01:54:06]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
