@@ -14722,3 +14722,4 @@
 [2021-04-17 23:20:48]: ***  [, Level 0]: 'Tom' has left the game
 [2021-04-17 23:20:48]: ***  [, Level 0]: 'Jerry' has left the game
 [2021-04-17 23:20:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-17 23:21:50]: ***  [, Level 0]: 'Intensiv' entered and joined the game
