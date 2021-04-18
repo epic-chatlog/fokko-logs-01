@@ -9210,3 +9210,8 @@
 [2021-04-18 08:28:19]: ***  [, Level 0]: 'ϻɪɔʜɑʟ' has left the game
 [2021-04-18 08:28:21]: SanoreX [Chilli.*, Level 27]: any: /plot swap SanoreX
 [2021-04-18 08:28:23]: ***  [, Level 0]: 'H0LL4D13W4LDF33' has left the game
+[2021-04-18 08:28:27]: [D] El patron [FookinLads, Level 24]: woona cameraman:  bonus player
+[2021-04-18 08:28:29]: keepertrain._. [, Level 30]: Night Team :D:
+[2021-04-18 08:28:29]: any [404, Level 38]: SanoreX: SanoreX.*  or SanoreX ??
+[2021-04-18 08:28:33]: SanoreX [Chilli.*, Level 27]: any: SanoreX
+[2021-04-18 08:28:34]: SanoreX [Chilli.*, Level 27]: me
