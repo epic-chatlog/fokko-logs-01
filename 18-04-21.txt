@@ -2459,3 +2459,8 @@
 [2021-04-18 03:20:51]: ***  [, Level 0]: 'Gizta Momzastib' has left the game (Timeout)
 [2021-04-18 03:20:57]: ***  [, Level 0]: 'Misa Gobastig' has left the game (Timeout)
 [2021-04-18 03:20:57]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 03:21:00]: ***  [, Level 0]: 'Telefantastic' has left the game
+[2021-04-18 03:21:05]: MOM [, Level 28]: Bruh: f1 kill
+[2021-04-18 03:21:08]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-18 03:21:09]: MOM [, Level 28]: or shortkey
+[2021-04-18 03:21:09]: (1)Falco641 [, Level 0]: fuck
