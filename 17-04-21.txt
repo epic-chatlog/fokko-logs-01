@@ -14641,3 +14641,4 @@
 [2021-04-17 22:21:31]: ***  [, Level 0]: Drop money: '/money drop <amount>'
 [2021-04-17 22:21:31]: ***  [, Level 0]: Invalid whisper
 [2021-04-17 22:21:31]: ***  [, Level 0]: You can't drop money bags over 100.000
+[2021-04-17 22:22:49]: (1)Noxl [.bad, Level 0]: Nudelsaft c:: help
