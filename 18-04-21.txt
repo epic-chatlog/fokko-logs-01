@@ -294,3 +294,5 @@
 [2021-04-18 00:45:08]: Boti. [.bad, Level 33]: xd
 [2021-04-18 00:45:12]: Raidon [, Level 24]: ;dummy
 [2021-04-18 00:45:14]: Raidon [, Level 24]: wtf
+[2021-04-18 00:45:22]: Raidon [, Level 24]: ah i can console
+[2021-04-18 00:45:23]: Raidon [, Level 24]: wait
