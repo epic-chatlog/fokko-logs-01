@@ -894,3 +894,5 @@
 [2021-04-18 01:43:12]: any [404, Level 38]: Raidon: ty btw
 [2021-04-18 01:43:12]: Raidon's Pet [, Level 20]: k
 [2021-04-18 01:43:14]: Raidon's Pet [, Level 20]: np
+[2021-04-18 01:43:27]: ***  [, Level 0]: 'Tom_y²²²' entered and joined the game
+[2021-04-18 01:43:32]: Raidon [, Level 24]: any²: get dummy
