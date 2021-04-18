@@ -10362,3 +10362,12 @@
 [2021-04-18 09:09:30]: Amirian [bad., Level 29]: >?
 [2021-04-18 09:09:43]: BLACK [, Level 0]: IMPOSTOR:
 [2021-04-18 09:10:03]: Arktict [, Level 31]: Kenshi™: leave me alone
+[2021-04-18 09:10:24]: ***  [, Level 0]: '(1)SanoreX' entered and joined the game
+[2021-04-18 09:10:25]: Amirian [bad., Level 29]: Zephir™:
+[2021-04-18 09:10:28]: ***  [, Level 0]: 'woona cameraman' changed name to 'woona'
+[2021-04-18 09:10:28]: ***  [, Level 0]: 'hhnaut microfon' changed name to 'hhnaut31'
+[2021-04-18 09:10:28]: Kirito [{TQuila}, Level 41]: any:
+[2021-04-18 09:10:31]: ***  [, Level 0]: '(1)SanoreX' has left the game
+[2021-04-18 09:10:32]: ***  [, Level 0]: 'woona' has left the game
+[2021-04-18 09:10:32]: ***  [, Level 0]: 'hhnaut31' has left the game
+[2021-04-18 09:10:33]: Kirito [{TQuila}, Level 41]: any²:  i would have helped you
