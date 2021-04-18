@@ -473,3 +473,5 @@
 [2021-04-18 01:04:54]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
 [2021-04-18 01:05:07]: Cylox [{TQuila}, Level 32]: Noémi: fuck
 [2021-04-18 01:05:15]: ***  [, Level 0]: ### 'Raidon' s
+[2021-04-18 01:05:32]: Raidon [, Level 24]: ??
+[2021-04-18 01:05:35]: Raidon [, Level 24]: toine: ?
