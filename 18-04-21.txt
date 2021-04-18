@@ -2539,3 +2539,5 @@
 [2021-04-18 03:24:44]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-18 03:24:48]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 03:24:48]: Intensiv_ [CrazyNoobs, Level 0]: Falco641:  war
+[2021-04-18 03:25:01]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-18 03:25:01]: Falco641 [.bad, Level 20]: xd
