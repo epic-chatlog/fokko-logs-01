@@ -59,3 +59,4 @@
 [2021-04-18 00:15:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-18 00:15:51]: ***  [, Level 0]: 'Aoe' changed name to 'ZEWO'
 [2021-04-18 00:16:05]: ***  [, Level 0]: 'Ðream' has left the game
+[2021-04-18 00:17:25]: ***  [, Level 0]: 'Tom' entered and joined the game
