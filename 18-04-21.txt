@@ -926,3 +926,7 @@
 [2021-04-18 01:46:14]: Raidon [, Level 24]: any²:
 [2021-04-18 01:46:26]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 01:46:28]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 01:46:39]: ***  [, Level 0]: 'cunt' has left the game
+[2021-04-18 01:46:40]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 01:46:41]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 01:46:48]: [D] satou [, Level 4]: Honey Cat: wait
