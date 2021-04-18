@@ -175,3 +175,6 @@
 [2021-04-18 00:37:31]: Nudelsaft c: [FookinLads, Level 0]: ;kill
 [2021-04-18 00:37:34]: Nudelsaft c: [FookinLads, Level 0]: ;flappy
 [2021-04-18 00:37:37]: ZEWO dummy [, Level 0]: Boti.: I am Turkish, write to me from the translation in Turkish
+[2021-04-18 00:37:47]: ZEWO [, Level 0]: Boti.: I am Turkish, write to me from the translation in Turkish
+[2021-04-18 00:37:51]: Boti. [.bad, Level 33]: megint a törökök
+[2021-04-18 00:37:51]: ZEWO [, Level 0]: Boti.: I am Turkish, write to me from the translation in Turkish
