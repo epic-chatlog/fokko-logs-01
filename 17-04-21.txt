@@ -14585,3 +14585,6 @@
 [2021-04-17 22:10:48]: Noxl [.bad, Level 48]: Jerry: noob
 [2021-04-17 22:10:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-17 22:12:17]: Noxl [.bad, Level 48]: Jerry: come noob
+[2021-04-17 22:13:05]: Noxl [.bad, Level 48]: Tom: noobbb
+[2021-04-17 22:13:07]: Noxl [.bad, Level 48]: go rq
+[2021-04-17 22:13:10]: Noxl [.bad, Level 48]: hahahahaha
