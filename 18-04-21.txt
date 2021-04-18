@@ -18880,3 +18880,5 @@
 [2021-04-18 14:45:33]: Black [, Level 26]: HRLP
 [2021-04-18 14:45:36]: ***  [, Level 0]: 'fokkonaut' has left the game
 [2021-04-18 14:45:37]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
+[2021-04-18 14:45:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-18 14:45:54]: power [TrRShClNrRs, Level 0]: noooo Black <3
