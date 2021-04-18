@@ -19335,3 +19335,4 @@
 [2021-04-18 15:06:34]: ***  [, Level 0]: 'SP | Someone' has been muted for 60 seconds
 [2021-04-18 15:06:46]: LGBT General [404, Level 43]: krx
 [2021-04-18 15:06:50]: ***  [, Level 0]: 'picasso' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-18 15:06:56]: Minato/fr dumy [Limoncello, Level 0]: LGBT General: fr?
