@@ -1467,3 +1467,6 @@
 [2021-04-18 02:17:06]: ***  [, Level 0]: '[D] El patron' entered and joined the game
 [2021-04-18 02:17:08]: SanoreX [Chilli.*, Level 27]: Cylox.: sen any i blockla
 [2021-04-18 02:17:11]: ***  [, Level 0]: any² is on a killing spree with 10 blocks
+[2021-04-18 02:17:14]: Ļåҕ Lobster [Ļåҕ, Level 34]: [D] Random Guy: maybe it was jesus
+[2021-04-18 02:17:18]: Ļåҕ Lobster [Ļåҕ, Level 34]: [D] Random Guy: or mahomet
+[2021-04-18 02:17:21]: ***  [, Level 0]: Im Noob finished in: 1 minute(s) 20.20 second(s)
