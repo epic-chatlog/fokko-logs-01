@@ -14692,3 +14692,5 @@
 [2021-04-17 22:59:06]: ***  [, Level 0]: '(3)ES' has left the game
 [2021-04-17 22:59:46]: Noxl [.bad, Level 48]: Nudelsaft c::
 [2021-04-17 22:59:55]: Nudelsaft c: [FookinLads, Level 43]: aaaaaaaaa
+[2021-04-17 23:00:48]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-17 23:00:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
