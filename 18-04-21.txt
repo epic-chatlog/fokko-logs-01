@@ -18066,3 +18066,4 @@
 [2021-04-18 14:00:46]: [D] Nightmare [, Level 20]: ERROR: tell Shiro. to stop saving SoulyD
 [2021-04-18 14:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-18 14:01:18]: [D] Nightmare [, Level 20]: Shiro.: FUCK U
+[2021-04-18 14:01:21]: Shiro. [404, Level 43]: noob
