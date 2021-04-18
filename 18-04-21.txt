@@ -4387,3 +4387,8 @@
 [2021-04-18 04:50:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-18 04:50:53]:   [, Level 0]: Intensiv: Shiro.:  ?
 [2021-04-18 04:50:59]: ***  [, Level 0]: '✠' has left the game (Timeout Protection over)
+[2021-04-18 04:51:09]:   [, Level 0]: Shiro.: gay
+[2021-04-18 04:51:13]:   [, Level 0]: Intensiv: RM | Arin:  help
+[2021-04-18 04:51:15]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-18 04:51:15]:   [, Level 0]: Intensiv: help
+[2021-04-18 04:51:16]: brain+ [, Level 0]: SanoreX: bro
