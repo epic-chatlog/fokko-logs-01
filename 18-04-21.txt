@@ -11238,3 +11238,5 @@
 [2021-04-18 09:52:06]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-18 09:52:10]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-18 09:52:15]: . [TrRShClNrRs, Level 43]: RQRQ
+[2021-04-18 09:52:22]: Kenshi™ [404, Level 0]: (1)☺: 100 ms
+[2021-04-18 09:52:27]: Arktict [, Level 31]: any: appele ton dummy some :D c plus marrant
