@@ -20303,3 +20303,4 @@
 [2021-04-18 16:23:37]: Shiro. [404, Level 43]: 2
 [2021-04-18 16:23:37]: Zephir™ [404, Level 40]: hop screen
 [2021-04-18 16:23:40]: Shiro. [404, Level 43]: 1
+[2021-04-18 16:23:57]: ***  [, Level 0]: 'Solar' entered and joined the game
