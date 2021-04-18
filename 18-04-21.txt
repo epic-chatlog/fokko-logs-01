@@ -8522,3 +8522,7 @@
 [2021-04-18 08:05:58]:   [, Level 0]: S Y T H N: Axandos: hammer fly ist an
 [2021-04-18 08:06:00]: Good man [Drunks, Level 32]: Cylox: oh only 1 place)
 [2021-04-18 08:06:04]: ***  [, Level 0]: '(1)Coca' has left the game
+[2021-04-18 08:06:06]: Cylox [{TQuila}, Level 32]: no
+[2021-04-18 08:06:12]: ***  [, Level 0]: 'vairan' has left the game
+[2021-04-18 08:06:12]: ***  [, Level 0]: 'nairan' has left the game
+[2021-04-18 08:06:12]: ***  [, Level 0]: '[D]ϻɪɔʜɑʟ' finished the special race!
