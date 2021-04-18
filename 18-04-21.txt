@@ -17403,3 +17403,7 @@
 [2021-04-18 13:26:54]: ***  [, Level 0]: 'El Monkey' has left the game
 [2021-04-18 13:26:55]: bob [, Level 36]: G𝕖l𝕒to*: rig+
 [2021-04-18 13:26:57]: (1)☺ [, Level 23]: Nagisa [H]: dude
+[2021-04-18 13:26:58]: ***  [, Level 0]: 'Axandos²' has left the game
+[2021-04-18 13:27:03]: G𝕖l𝕒to* [s/o razmo, Level 40]: oh
+[2021-04-18 13:27:08]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-18 13:27:08]: ***  [, Level 0]: '__init__(self):' has left the game
