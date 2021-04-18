@@ -338,3 +338,4 @@
 [2021-04-18 00:48:28]: Boti. [.bad, Level 33]: wait what
 [2021-04-18 00:48:34]: Boti. [.bad, Level 33]: I like turtles.
 [2021-04-18 00:48:36]: Noémi [helper, Level 0]: Raidon: dude
+[2021-04-18 00:48:49]: Boti. [.bad, Level 33]: XDD
