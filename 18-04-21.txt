@@ -16830,3 +16830,7 @@
 [2021-04-18 13:00:13]: ***  [, Level 0]: 'YelloWorlD' has left the game
 [2021-04-18 13:00:14]: Kirito [{TQuila}, Level 41]: Noémi: throw on spawn
 [2021-04-18 13:00:15]: BulgarianTee [xSD7, Level 38]: rq
+[2021-04-18 13:00:16]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
+[2021-04-18 13:00:23]: GODLIKe [, Level 44]: Noémi: drop granade pls
+[2021-04-18 13:00:26]: BulgarianTee [xSD7, Level 38]: YelloWorlD: rage join
+[2021-04-18 13:00:27]: ERROR [404, Level 76]: hm ye understandable like always xD
