@@ -14576,3 +14576,4 @@
 [2021-04-17 22:07:33]: Noxl [.bad, Level 48]: go rq Jerry
 [2021-04-17 22:08:31]: ***  [, Level 0]: '(1)Coca' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-17 22:08:42]: ***  [, Level 0]: '(1)Good man' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-17 22:08:54]: ***  [, Level 0]: 'Coca' joined the minigame 'Survival', use '/survival' to join aswell
