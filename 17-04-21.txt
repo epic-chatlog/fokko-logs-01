@@ -14042,3 +14042,7 @@
 [2021-04-17 18:50:38]: woona [, Level 48]: never
 [2021-04-17 18:50:41]: woona [, Level 48]: kill
 [2021-04-17 18:50:42]: sad [, Level 0]: wow
+[2021-04-17 18:50:47]: woona [, Level 48]: dont go
+[2021-04-17 18:50:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-17 18:50:51]: BULLETBOT [, Level 0]: Zephir™:
+[2021-04-17 18:50:52]: sad [, Level 0]: how you saw this
