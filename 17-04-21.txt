@@ -14754,3 +14754,4 @@
 [2021-04-17 23:47:05]: ***  [, Level 0]: 'kristalik25' has left the game
 [2021-04-17 23:47:43]: ***  [, Level 0]: 'Intensiv___' changed name to 'adsad'
 [2021-04-17 23:47:48]: ***  [, Level 0]: 'adsad' changed name to 'Intensiv___'
+[2021-04-17 23:48:14]: (1)Intensiv_ [CrazyNoobs, Level 0]: ım dummy
