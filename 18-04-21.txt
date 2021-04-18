@@ -6356,3 +6356,6 @@
 [2021-04-18 06:23:41]: ***  [, Level 0]: -:-|ML finished in: 1 minute(s) 49.06 second(s)
 [2021-04-18 06:23:42]: ***  [, Level 0]: 'Salut' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-18 06:23:44]: ***  [, Level 0]: [D] -:-|ML finished in: 1 minute(s) 35.24 second(s)
+[2021-04-18 06:23:48]: ***  [, Level 0]: 'Salut' left the minigame 'Survival'
+[2021-04-18 06:23:49]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
+[2021-04-18 06:23:50]:   [, Level 0]: Foxie♥: ChillerDragon: but i helped u in those 3 weeks
