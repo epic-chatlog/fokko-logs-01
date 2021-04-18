@@ -6917,3 +6917,8 @@
 [2021-04-18 06:50:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-18 06:50:52]: ♥TAKO♥ [DogParty, Level 25]: Kezo:  sen kezo deilsin la
 [2021-04-18 06:50:53]: ϟтiƒℓer [, Level 0]: ♥TAKO♥: özür dile
+[2021-04-18 06:50:58]: ***  [, Level 0]: 'lomination' would have timed out, but can use timeout protection now
+[2021-04-18 06:50:58]: ***  [, Level 0]: 'løminatiøn·' would have timed out, but can use timeout protection now
+[2021-04-18 06:50:59]: ***  [, Level 0]: sL|KeBu28 is on a killing spree with 10 blocks
+[2021-04-18 06:50:59]: ***  [, Level 0]: 'nenny' entered and joined the game
+[2021-04-18 06:51:07]: ♥TAKO♥ [DogParty, Level 25]: ϟтiƒℓer:  niçin
