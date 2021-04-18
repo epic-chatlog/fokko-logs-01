@@ -13709,3 +13709,5 @@
 [2021-04-17 18:03:19]: Zephir™ [404, Level 40]: Kirito: XDDD
 [2021-04-17 18:03:19]: ***  [, Level 0]: 'El Monkey' has left the game
 [2021-04-17 18:03:22]: woona [, Level 48]: Zephir™: come here
+[2021-04-17 18:04:12]: woona [, Level 48]: Zephir™: open here portal
+[2021-04-17 18:04:20]: woona [, Level 48]: door
