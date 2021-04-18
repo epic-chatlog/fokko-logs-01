@@ -5759,3 +5759,6 @@
 [2021-04-18 05:51:10]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-18 05:51:11]: ChillerDragon.* [Chilli.*, Level 42]: sure
 [2021-04-18 05:51:12]:   [, Level 0]: Sky`iPro: |HolyHo|°: im afk, im here in 10 min
+[2021-04-18 05:51:20]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-18 05:51:23]: |HolyHo|° [FookinLads, Level 29]: Sky`iPro: ok
+[2021-04-18 05:51:25]: Kirito [{TQuila}, Level 41]: ty
