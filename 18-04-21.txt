@@ -591,3 +591,8 @@
 [2021-04-18 01:18:26]: Hala Madrid [BBM, Level 48]: wtf?
 [2021-04-18 01:18:27]: Hala Madrid [BBM, Level 48]: for real
 [2021-04-18 01:18:28]: Raidon's Pet [, Level 20]: satou: SanoreX realmi
+[2021-04-18 01:18:33]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-18 01:18:34]: ***  [, Level 0]: 'test' has left the game
+[2021-04-18 01:18:38]: (1)SanoreX [Chilli.*, Level 0]: Raidon: evt gerçeğim ya
+[2021-04-18 01:18:43]: Raidon [, Level 24]: satouyu diyom xD
+[2021-04-18 01:18:44]: (1)SanoreX [Chilli.*, Level 0]: Raidon: levelime bak
