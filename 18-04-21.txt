@@ -2373,3 +2373,7 @@
 [2021-04-18 03:14:40]: Falco641 [.bad, Level 20]: vollesprit: ok i go get 3rd dummy
 [2021-04-18 03:14:46]: ***  [, Level 0]: 'QON QON' joined the spectators
 [2021-04-18 03:14:49]: ***  [, Level 0]: 'QON QON' joined the game
+[2021-04-18 03:14:59]: ***  [, Level 0]: 'QON QON' joined the spectators
+[2021-04-18 03:15:00]: ***  [, Level 0]: 'GOLD' has left the game
+[2021-04-18 03:15:00]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-18 03:15:02]: ***  [, Level 0]: 'QON QON' joined the game
