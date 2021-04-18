@@ -14446,3 +14446,4 @@
 [2021-04-17 19:41:19]: Kenshi™ [404, Level 0]: bonne nuit
 [2021-04-17 19:41:20]: ***  [, Level 0]: 'Kenshi™' has left the game
 [2021-04-17 19:41:20]: ***  [, Level 0]: 'Zephir™' has left the game
+[2021-04-17 19:45:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
