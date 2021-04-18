@@ -1619,3 +1619,7 @@
 [2021-04-18 02:27:04]: abdul yarak [{TQuila}, Level 32]: bende gelcem
 [2021-04-18 02:27:07]: SanoreX [Chilli.*, Level 27]: gel
 [2021-04-18 02:27:09]: vollesprit [, Level 1]: merci
+[2021-04-18 02:27:10]: abdul yarak [{TQuila}, Level 32]: bekle
+[2021-04-18 02:27:11]: SanoreX [Chilli.*, Level 27]: abdul yarak: gel
+[2021-04-18 02:27:15]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-18 02:27:16]: ***  [, Level 0]: 'Niemand' entered and joined the game
