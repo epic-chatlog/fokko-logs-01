@@ -10072,3 +10072,7 @@
 [2021-04-18 08:55:47]: (1) [, Level 0]: any: why
 [2021-04-18 08:55:50]: Taip [VergleriSay, Level 0]: gel
 [2021-04-18 08:55:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-18 08:55:54]: ***  [, Level 0]: 'satou' entered and joined the game
+[2021-04-18 08:55:59]: Taip [VergleriSay, Level 0]: nerdesin
+[2021-04-18 08:55:59]: ZEWO [, Level 0]: SanoreX:
+[2021-04-18 08:56:00]: Nagisa [H] [E8, Level 0]: gel yanıma
