@@ -2249,3 +2249,5 @@
 [2021-04-18 03:06:26]: [D] Random Guy [, Level 0]: idiot
 [2021-04-18 03:06:29]: SanoreX.* [Chilli.*, Level 23]: DDOS
 [2021-04-18 03:06:33]: satou [, Level 7]: nico:
+[2021-04-18 03:06:37]: satou [, Level 7]: left
+[2021-04-18 03:06:41]: satou [, Level 7]: jump
