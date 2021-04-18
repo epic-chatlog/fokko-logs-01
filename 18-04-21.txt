@@ -7296,3 +7296,7 @@
 [2021-04-18 07:11:58]: ***  [, Level 0]: 'gg ise' entered and joined the game
 [2021-04-18 07:11:59]: ***  [, Level 0]: 'Dimon pokemon' has left the game
 [2021-04-18 07:12:02]: ***  [, Level 0]: 'd' entered and joined the game
+[2021-04-18 07:12:06]: ***  [, Level 0]: '[D] -:-|ML' has left the game
+[2021-04-18 07:12:06]: ***  [, Level 0]: '-:-|ML' has left the game
+[2021-04-18 07:12:17]: ***  [, Level 0]: 'Matiteusz' has left the game
+[2021-04-18 07:12:17]: ***  [, Level 0]: 'Meetiteusz' has left the game
