@@ -800,3 +800,6 @@
 [2021-04-18 01:32:48]: [D] Random Guy [, Level 0]: Noémi: REEEEEEEE
 [2021-04-18 01:32:50]: Falco642 [, Level 0]: koro: wot
 [2021-04-18 01:32:54]: SanoreX.* [Chilli.*, Level 23]: anu
+[2021-04-18 01:32:55]: ***  [, Level 0]: 'toine' has left the game
+[2021-04-18 01:32:55]: [D] Random Guy [, Level 0]: Noémi: CLOSE
+[2021-04-18 01:32:56]: SanoreX.* [Chilli.*, Level 23]: any:
