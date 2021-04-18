@@ -1275,3 +1275,6 @@
 [2021-04-18 02:08:41]: : [, Level 34]: Random Guy: lol
 [2021-04-18 02:08:41]: ***  [, Level 0]: 'Javz' joined the game
 [2021-04-18 02:08:42]: any [404, Level 38]: satou: l2p
+[2021-04-18 02:08:59]: ***  [, Level 0]: 'SanoreX.*' has left the game (Timeout Protection over)
+[2021-04-18 02:08:59]: ***  [, Level 0]: 'SanoreX' has left the game (Timeout Protection over)
+[2021-04-18 02:09:01]: ***  [, Level 0]: 'SanoreX' entered and joined the game
