@@ -17567,3 +17567,10 @@
 [2021-04-18 13:35:37]: kais [, Level 66]: hello mister
 [2021-04-18 13:35:39]: S Y T H N [, Level 37]: t
 [2021-04-18 13:35:45]: bob [, Level 36]: where u going to
+[2021-04-18 13:35:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-18 13:35:50]: ***  [, Level 0]: 'cunt' has left the game
+[2021-04-18 13:35:50]: ***  [, Level 0]: '(1)cunt' has left the game
+[2021-04-18 13:35:53]: mamikral011 [DogParty, Level 27]: WarHammer': krall
+[2021-04-18 13:35:54]: kais [, Level 66]: bob: anyway
+[2021-04-18 13:35:59]: kais [, Level 66]: bob: anywhere*
+[2021-04-18 13:35:59]: Ļåҕ Lobster [Ļåҕ, Level 34]: Kenshi™: ahah nioce one
