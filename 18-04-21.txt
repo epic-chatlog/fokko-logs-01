@@ -56,3 +56,5 @@
 [2021-04-18 00:15:05]: (1)Intensiv___ [CrazyNoobs, Level 0]: ben çıkıyom farm kascam
 [2021-04-18 00:15:07]: ***  [, Level 0]: '(1)Intensiv___' has left the game
 [2021-04-18 00:15:41]: ***  [, Level 0]: 'Ðream' entered and joined the game
+[2021-04-18 00:15:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-18 00:15:51]: ***  [, Level 0]: 'Aoe' changed name to 'ZEWO'
