@@ -3620,3 +3620,5 @@
 [2021-04-18 04:16:29]: ***  [, Level 0]: '(1)Raidon' has left the game
 [2021-04-18 04:16:31]: ***  [, Level 0]: 'Van DarkMiller' entered and joined the game
 [2021-04-18 04:16:34]:   [, Level 0]: Friendiship ;-): casserole :p: help
+[2021-04-18 04:16:36]: ***  [, Level 0]: 'Intensiv_' entered and joined the game
+[2021-04-18 04:16:38]: ***  [, Level 0]: 'Van DarkMiller' has left the game
