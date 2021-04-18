@@ -72,3 +72,4 @@
 [2021-04-18 00:19:47]: ***  [, Level 0]: 'Ikolonor' has left the game
 [2021-04-18 00:20:10]: ***  [, Level 0]: 'Jerry' entered and joined the game
 [2021-04-18 00:20:25]: ***  [, Level 0]: 'BitchPlease Jr.' finished the special race!
+[2021-04-18 00:20:41]: ***  [, Level 0]: 'Hala Madrid' finished the special race!
