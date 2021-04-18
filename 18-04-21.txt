@@ -1913,3 +1913,4 @@
 [2021-04-18 02:46:12]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-18 02:46:13]: ***  [, Level 0]: 'mike' has left the game
 [2021-04-18 02:46:15]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-18 02:46:23]: ♥TAKO♥ [DogParty, Level 25]: aaaaaa is so hard
