@@ -14451,3 +14451,4 @@
 [2021-04-17 19:46:56]: ***  [, Level 0]: '(1)ERROR' has left the game (Timeout)
 [2021-04-17 19:46:56]: ***  [, Level 0]: '(1)ERROR.' has left the game (Timeout)
 [2021-04-17 19:46:56]: ***  [, Level 0]: 'ERROR.' has left the game (Timeout)
+[2021-04-17 19:50:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
