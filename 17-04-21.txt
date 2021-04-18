@@ -13499,3 +13499,5 @@
 [2021-04-17 17:26:37]: ***  [, Level 0]: 'BC|serwan' finished the special race!
 [2021-04-17 17:27:15]: ***  [, Level 0]: '(1)☺' entered and joined the game
 [2021-04-17 17:27:19]: ***  [, Level 0]: 'Levi' entered and joined the game
+[2021-04-17 17:27:44]: ***  [, Level 0]: 'Levi' joined the spectators
+[2021-04-17 17:27:47]: ***  [, Level 0]: 'Levi' joined the game
