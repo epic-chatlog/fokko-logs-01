@@ -864,3 +864,6 @@
 [2021-04-18 01:39:39]: [D] Random Guy [, Level 0]: wow
 [2021-04-18 01:39:44]: nameless tee [, Level 0]: i dont have endless jump
 [2021-04-18 01:39:54]: Raidon's Pet [, Level 20]: any: endless portal?
+[2021-04-18 01:40:03]: ***  [, Level 0]: 'мяу' entered and joined the game
+[2021-04-18 01:40:05]: any [404, Level 38]: Raidon: wdym ?
+[2021-04-18 01:40:05]: Raidon [, Level 24]: any: follow
