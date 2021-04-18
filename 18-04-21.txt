@@ -316,3 +316,4 @@
 [2021-04-18 00:46:35]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 00:46:36]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
 [2021-04-18 00:46:52]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 00:46:55]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
