@@ -19523,3 +19523,5 @@
 [2021-04-18 15:18:29]: ***  [, Level 0]: 'RM | Arin' has left the game
 [2021-04-18 15:18:31]: weqe [669, Level 13]: Kirito: wait
 [2021-04-18 15:18:33]: Kirito [{TQuila}, Level 41]: ERROR: ich bin auf ddnet dumbass
+[2021-04-18 15:18:41]: SP | Someone [Somepeople, Level 0]: fokkonaut: @everyone i dont have discord
+[2021-04-18 15:18:43]: ERROR. [404, Level 57]: Kirito:  du hast aber krx du gay
