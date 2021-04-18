@@ -14747,3 +14747,4 @@
 [2021-04-17 23:40:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-17 23:43:59]: ***  [, Level 0]: '(1)Intensiv' changed name to 'Intensiv__'
 [2021-04-17 23:44:09]: Intensiv__ [CrazyNoobs, Level 0]: ım afkf
+[2021-04-17 23:45:25]: ***  [, Level 0]: '(1)Intensiv_' entered and joined the game
