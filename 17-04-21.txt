@@ -14427,3 +14427,5 @@
 [2021-04-17 19:38:59]: Kenshi™ [404, Level 0]: Kirito: sorry i can't accept u here
 [2021-04-17 19:38:59]: Kirito [{TQuila}, Level 40]: Kenshi™: yes u are right
 [2021-04-17 19:39:07]: Kirito [{TQuila}, Level 40]: Kenshi™: yea im playing v3 now
+[2021-04-17 19:39:22]: ***  [, Level 0]: 'hhnaut31' has left the game
+[2021-04-17 19:39:22]: ***  [, Level 0]: 'woona' has left the game
