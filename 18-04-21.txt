@@ -20573,3 +20573,6 @@
 [2021-04-18 16:56:12]: (1)Kirito [, Level 0]: und du?
 [2021-04-18 16:56:17]: ERROR' [404, Level 76]: alt xD
 [2021-04-18 16:56:22]: (2)Kirito [{TQuila}, Level 27]: wieso :D
+[2021-04-18 16:56:33]: (1)Kirito [, Level 14]: wie alt xD
+[2021-04-18 16:56:36]: ***  [, Level 0]: '(3)Kirito' entered and joined the game
+[2021-04-18 16:56:40]: ERROR' [404, Level 76]: Wärst du 16 doppelt so alt
