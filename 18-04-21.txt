@@ -18361,3 +18361,9 @@
 [2021-04-18 14:17:11]: ***  [, Level 0]: 'Bsj' has left the game
 [2021-04-18 14:17:12]: BULLETBOT [, Level 0]: can you arrest
 [2021-04-18 14:17:13]: Shiro. [404, Level 43]: in random we say suce mon bite
+[2021-04-18 14:17:21]: Shiro. [404, Level 43]: log
+[2021-04-18 14:17:23]: Shiro. [404, Level 43]: halp
+[2021-04-18 14:17:26]: ***  [, Level 0]: ':D' has left the game
+[2021-04-18 14:17:26]: ***  [, Level 0]: 'Nagisa [H]' has left the game
+[2021-04-18 14:17:26]: 1IceyB0i [Zommer :D, Level 0]: wouldnt get freed anyways xD
+[2021-04-18 14:17:28]: BULLETBOT [, Level 0]: RM | Arin: arrset
