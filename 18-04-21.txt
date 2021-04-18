@@ -1390,3 +1390,8 @@
 [2021-04-18 02:13:44]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-18 02:13:46]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
 [2021-04-18 02:13:56]: mamikral011 [DogParty, Level 0]: abdul yarak: :DD
+[2021-04-18 02:13:59]: abdul yarak [{TQuila}, Level 32]: mamikral011: sanhbvf
+[2021-04-18 02:14:00]: SanoreX [Chilli.*, Level 27]: any: omg stop trying
+[2021-04-18 02:14:00]: : [, Level 34]: [D] Random Guy: it's not me, it's no koro, it's not Falco641
+[2021-04-18 02:14:01]: mamikral011 [DogParty, Level 0]: abdul yarak: otuttur
+[2021-04-18 02:14:06]: ***  [, Level 0]: 'Niemand' has left the game
