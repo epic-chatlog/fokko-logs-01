@@ -13777,3 +13777,5 @@
 [2021-04-17 18:14:33]: S Y T H N [, Level 39]: t...
 [2021-04-17 18:14:43]: Zephir™ [404, Level 40]: SeeYA:
 [2021-04-17 18:14:47]: ☺ [, Level 26]: xd
+[2021-04-17 18:15:17]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-17 18:15:18]: ☺ [, Level 26]: tes vraiment chiant Zephir™
