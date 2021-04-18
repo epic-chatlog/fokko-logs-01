@@ -13358,3 +13358,4 @@
 [2021-04-17 17:00:27]: Kirito [{TQuila}, Level 40]: [D] BC|Tixnix: okay
 [2021-04-17 17:00:46]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-17 17:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-17 17:01:24]: Kirito [{TQuila}, Level 40]: Tixnix: danke :)
