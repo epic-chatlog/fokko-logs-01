@@ -383,3 +383,5 @@
 [2021-04-18 00:54:51]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
 [2021-04-18 00:55:06]: ***  [, Level 0]: [D] Boti. finished in: 0 minute(s) 41.10 second(s)
 [2021-04-18 00:55:06]: ***  [, Level 0]: New record: 29.92 second(s) better.
+[2021-04-18 00:55:11]: Kiøn1029 [.bad, Level 32]: oldalas lesz az ebéd
+[2021-04-18 00:55:19]: Kiøn1029 [.bad, Level 32]: meg nem tom mi
