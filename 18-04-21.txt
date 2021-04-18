@@ -523,3 +523,8 @@
 [2021-04-18 01:11:03]: BitchPlease Jr. [BBM, Level 50]: Random Guy: uhm, i'm ger lol
 [2021-04-18 01:11:17]: Random Guy [, Level 40]: (1)BitchPlease : xd i awalys thought you are es
 [2021-04-18 01:11:18]: SanoreX [Chilli.*, Level 27]: Raidon: specle
+[2021-04-18 01:11:23]: Raidon's Pet [, Level 20]: bugmu bu
+[2021-04-18 01:11:27]: SanoreX [Chilli.*, Level 27]: Raidon: evt bak
+[2021-04-18 01:11:28]: BitchPlease Jr. [BBM, Level 50]: Raidon:
+[2021-04-18 01:11:29]: ***  [, Level 0]: 'SanoreX.*' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-18 01:11:31]: ***  [, Level 0]: 'SanoreX.*' left the minigame 'Survival'
