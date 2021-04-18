@@ -9976,3 +9976,11 @@
 [2021-04-18 08:51:36]: ***  [, Level 0]: 'soleri1' left the minigame 'Block'
 [2021-04-18 08:51:42]: ***  [, Level 0]: Chillingo's killing spree was ended by Pro Dan (32 blocks)
 [2021-04-18 08:51:45]: Taip [VergleriSay, Level 19]: dummy le oynamasana
+[2021-04-18 08:51:46]: Taip [VergleriSay, Level 19]: wqe
+[2021-04-18 08:51:49]: ***  [, Level 0]: 'Solar' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-18 08:51:50]: Nagisa [H] [E8, Level 0]: bu kassın biz eğlenek
+[2021-04-18 08:51:53]: Amirian [bad., Level 29]: ???/
+[2021-04-18 08:51:53]: ***  [, Level 0]: '|HolyHo|°' has left the game
+[2021-04-18 08:51:53]: ***  [, Level 0]: '|HolyHo|' has left the game
+[2021-04-18 08:51:55]: Nagisa [H] [E8, Level 0]: neden
+[2021-04-18 08:51:57]: [D] El patron [FookinLads, Level 24]: shy: war
