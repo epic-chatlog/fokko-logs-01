@@ -13494,3 +13494,4 @@
 [2021-04-17 17:25:25]: ***  [, Level 0]: '(2)BLACK' entered and joined the game
 [2021-04-17 17:25:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-17 17:25:52]: ☺ [, Level 26]: comment je me fais pardonner Zephir™
+[2021-04-17 17:26:23]: ***  [, Level 0]: 'Fux' entered and joined the game
