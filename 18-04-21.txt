@@ -8526,3 +8526,8 @@
 [2021-04-18 08:06:12]: ***  [, Level 0]: 'vairan' has left the game
 [2021-04-18 08:06:12]: ***  [, Level 0]: 'nairan' has left the game
 [2021-04-18 08:06:12]: ***  [, Level 0]: '[D]ϻɪɔʜɑʟ' finished the special race!
+[2021-04-18 08:06:18]: ***  [, Level 0]: '(1)flappy' entered and joined the game
+[2021-04-18 08:06:21]:   [, Level 0]: oyun kralı: yok
+[2021-04-18 08:06:22]: ***  [, Level 0]: 'BC|kakashi' has left the game
+[2021-04-18 08:06:23]: ***  [, Level 0]: 'ϻɪɔʜɑʟ' finished the special race!
+[2021-04-18 08:06:24]:   [, Level 0]: (1)flappy: dıdk
