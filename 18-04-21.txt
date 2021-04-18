@@ -5900,3 +5900,7 @@
 [2021-04-18 06:00:20]: ***  [, Level 0]: 'artur xyz br' has left the game (Timeout Protection over)
 [2021-04-18 06:00:20]: Foxie♥ [{TQuila}, Level 36]: Meetiteusz: naha
 [2021-04-18 06:00:25]: sun.slow(y) [FookinLads, Level 35]: nuttenfaker
+[2021-04-18 06:00:27]: Meetiteusz [TrRShClNrRs, Level 28]: Foxie♥: i will i think
+[2021-04-18 06:00:29]: [D] JustRace [DogParty, Level 29]: E
+[2021-04-18 06:00:29]: ***  [, Level 0]: 'artur xyz br' entered and joined the game
+[2021-04-18 06:00:33]: ChillerDragon.* [Chilli.*, Level 42]: sun.slow(y): hast dus dann mal
