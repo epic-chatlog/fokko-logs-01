@@ -12402,3 +12402,6 @@
 [2021-04-18 10:39:30]:   [, Level 0]: Bozzkurt: GReeeN: hahahaha
 [2021-04-18 10:39:35]: ***  [, Level 0]: Meetiteusz finished in: 3 minute(s) 11.44 second(s)
 [2021-04-18 10:39:36]: ***  [, Level 0]: 'Souly' entered and joined the game
+[2021-04-18 10:39:43]:   [, Level 0]: GODLIKe: Souly: u
+[2021-04-18 10:39:44]: Souly [, Level 61]: no u GODLIKe
+[2021-04-18 10:39:46]:   [, Level 0]: GODLIKe: Souly: u
