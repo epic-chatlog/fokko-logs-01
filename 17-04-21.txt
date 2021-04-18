@@ -13502,3 +13502,4 @@
 [2021-04-17 17:27:44]: ***  [, Level 0]: 'Levi' joined the spectators
 [2021-04-17 17:27:47]: ***  [, Level 0]: 'Levi' joined the game
 [2021-04-17 17:27:50]: ***  [, Level 0]: 'Tixnix' entered and joined the game
+[2021-04-17 17:28:12]: ***  [, Level 0]: 'Fux' has left the game
