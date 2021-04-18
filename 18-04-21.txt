@@ -20451,3 +20451,6 @@
 [2021-04-18 16:35:48]: Zephir™ [404, Level 40]: Shiro.: depuis tt a l'heure je viens sans vraiment me fight xD
 [2021-04-18 16:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-18 16:36:06]: ***  [, Level 0]: '|MıssOяchiĐ|' entered and joined the game
+[2021-04-18 16:36:08]: |MıssOяchiĐ| [, Level 0]: Kenshi™: fdp
+[2021-04-18 16:36:10]: ***  [, Level 0]: '|MıssOяchiĐ|' has left the game
+[2021-04-18 16:36:13]: Zephir™ [404, Level 40]: meh xD
