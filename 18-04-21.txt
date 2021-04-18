@@ -11365,3 +11365,8 @@
 [2021-04-18 09:59:58]: ***  [, Level 0]: New record: 1 minute(s) 53.98 second(s) better.
 [2021-04-18 10:00:01]: ***  [, Level 0]: binoculars finished in: 0 minute(s) 35.98 second(s)
 [2021-04-18 10:00:01]: rexi [, Level 0]: wieso blockend ie mich tf
+[2021-04-18 10:00:06]: ***  [, Level 0]: Trioculars finished in: 2 minute(s) 51.54 second(s)
+[2021-04-18 10:00:07]: ***  [, Level 0]: WarHammer finished in: 2 minute(s) 42.56 second(s)
+[2021-04-18 10:00:09]: ***  [, Level 0]: Isegrin finished in: 3 minute(s) 25.84 second(s)
+[2021-04-18 10:00:09]: ***  [, Level 0]: New record: 14.24 second(s) better.
+[2021-04-18 10:00:10]: Good man [Drunks, Level 32]: Daffy 0iq: в полис?
