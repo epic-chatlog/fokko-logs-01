@@ -2259,3 +2259,6 @@
 [2021-04-18 03:07:05]: SanoreX.* [Chilli.*, Level 23]: çıktı
 [2021-04-18 03:07:09]: ♥TAKO♥ [DogParty, Level 25]: SanoreX:  bozuluyomuş
 [2021-04-18 03:07:18]: SanoreX.* [Chilli.*, Level 23]: ama ben stack a değdim diye oldu ♥TAKO♥
+[2021-04-18 03:07:25]: SanoreX.* [Chilli.*, Level 23]: kapıyı kapatcakmışım.
+[2021-04-18 03:07:31]: SanoreX [Chilli.*, Level 27]: ♥TAKO♥: izle
+[2021-04-18 03:07:35]: SanoreX.* [Chilli.*, Level 23]: gel
