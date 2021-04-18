@@ -43,3 +43,4 @@
 [2021-04-18 00:12:54]: Aoe [, Level 0]: ES: ım zewo
 [2021-04-18 00:13:11]: ZEWO dummy [, Level 0]: ES: ım zewo
 [2021-04-18 00:13:13]: Aoe [, Level 0]: ES: ım zewo
+[2021-04-18 00:13:23]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
