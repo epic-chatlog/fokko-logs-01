@@ -10101,3 +10101,5 @@
 [2021-04-18 08:57:05]: ***  [, Level 0]: '[D] BC|Tixnix' finished the special race!
 [2021-04-18 08:57:08]: ZEWO [, Level 0]: SanoreX:
 [2021-04-18 08:57:15]: woona cameraman [, Level 48]: Hala Madrid:
+[2021-04-18 08:57:25]: Taip [VergleriSay, Level 0]: lan
+[2021-04-18 08:57:28]: Taip [VergleriSay, Level 0]: hile
