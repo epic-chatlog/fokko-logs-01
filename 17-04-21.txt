@@ -13653,3 +13653,5 @@
 [2021-04-17 17:50:01]: ***  [, Level 0]: 'mystifyy' entered and joined the game
 [2021-04-17 17:50:01]: woona [, Level 48]: El Monkey: İDİOT
 [2021-04-17 17:50:13]: RM | Arin [Retard MNKY, Level 0]: woona:  YOU ARE Zephir™  helper
+[2021-04-17 17:50:46]: ***  [, Level 0]: 'mystifyy' has left the game
+[2021-04-17 17:50:47]: ***  [, Level 0]: 'mystifyy' entered and joined the game
