@@ -5297,3 +5297,4 @@
 [2021-04-18 05:28:04]:   [, Level 0]: bababuia: Foxi
 [2021-04-18 05:28:13]: [D] satou [, Level 0]: omg
 [2021-04-18 05:28:15]: ERROR. [404, Level 57]: like clan 404:  never help ChillerDragon
+[2021-04-18 05:28:27]: ***  [, Level 0]: 'El Monkey' entered and joined the game
