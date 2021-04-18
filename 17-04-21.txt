@@ -14581,3 +14581,4 @@
 [2021-04-17 22:09:18]: ***  [, Level 0]: '(1)Coca' left the minigame 'Survival'
 [2021-04-17 22:09:20]: ***  [, Level 0]: '(1)Good man' left the minigame 'Survival'
 [2021-04-17 22:09:25]: ***  [, Level 0]: 'Coca' left the minigame 'Survival'
+[2021-04-17 22:09:29]: ***  [, Level 0]: 'Good man' left the minigame 'Instagib Boom FNG'
