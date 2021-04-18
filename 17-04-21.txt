@@ -13721,3 +13721,5 @@
 [2021-04-17 18:05:10]: woona [, Level 48]: open ehre
 [2021-04-17 18:05:14]: ***  [, Level 0]: 'Merkvr' has left the game
 [2021-04-17 18:05:24]: Zephir™ [404, Level 40]: woona: fokko have patch that, we can't
+[2021-04-17 18:05:38]: Zephir™ [404, Level 40]: take me
+[2021-04-17 18:05:40]: woona [, Level 48]: aa open
