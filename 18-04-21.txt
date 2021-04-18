@@ -1678,3 +1678,5 @@
 [2021-04-18 02:30:39]: Raidon [, Level 24]: SanoreX: 9 yaşındaki veledi takmıyorum np
 [2021-04-18 02:30:48]: SanoreX [Chilli.*, Level 27]: Raidon: bi sus be
 [2021-04-18 02:30:50]: ***  [, Level 0]: 'sL|Gabsty' entered and joined the game
+[2021-04-18 02:30:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-18 02:30:59]: vollesprit [, Level 1]: ah
