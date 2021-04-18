@@ -13942,3 +13942,5 @@
 [2021-04-17 18:38:38]: Zephir™ [404, Level 40]: ahahahhah
 [2021-04-17 18:38:39]: ♥TAKO♥ [DogParty, Level 25]: again
 [2021-04-17 18:38:41]: woona [, Level 48]: sad: flappy nbot
+[2021-04-17 18:38:43]: woona [, Level 48]: sad: flappy bot
+[2021-04-17 18:38:45]: sad [, Level 0]: ah ok
