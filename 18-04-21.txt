@@ -2193,3 +2193,6 @@
 [2021-04-18 03:02:11]: satou [, Level 7]: afk
 [2021-04-18 03:02:12]: SanoreX [Chilli.*, Level 27]: ♥TAKO♥: gellll
 [2021-04-18 03:02:19]: SanoreX [Chilli.*, Level 27]: ♥TAKO♥: içime gir
+[2021-04-18 03:02:20]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-18 03:02:30]: SanoreX [Chilli.*, Level 27]: ♥TAKO♥: gir bekle
+[2021-04-18 03:02:31]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
