@@ -467,3 +467,6 @@
 [2021-04-18 01:03:51]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
 [2021-04-18 01:04:19]: Noémi [helper, Level 40]: ES: war?
 [2021-04-18 01:04:37]: ES [, Level 31]: Noémi: nooo
+[2021-04-18 01:04:45]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-18 01:04:48]: ***  [, Level 0]: 'test' has left the game
+[2021-04-18 01:04:52]: ***  [, Level 0]: 'pandaSindCool' has left the game
