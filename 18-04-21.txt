@@ -18435,3 +18435,10 @@
 [2021-04-18 14:22:16]: Shiro. [404, Level 43]: hel
 [2021-04-18 14:22:17]: Shiro. [404, Level 43]: help
 [2021-04-18 14:22:19]: ***  [, Level 0]: 'Crystal_butterf' has left the game
+[2021-04-18 14:22:29]: ***  [, Level 0]: '[D] Banan' has left the game
+[2021-04-18 14:22:29]: ***  [, Level 0]: 'Banan' has left the game
+[2021-04-18 14:22:30]: BULLETBOT [, Level 0]: I'M
+[2021-04-18 14:22:32]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-18 14:22:32]: BULLETBOT [, Level 0]: FUCKING
+[2021-04-18 14:22:34]: Black [, Level 0]: AbdoZX17:  sa3dny
+[2021-04-18 14:22:34]: BULLETBOT [, Level 0]: VAD
