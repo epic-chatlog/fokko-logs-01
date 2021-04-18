@@ -8107,3 +8107,6 @@
 [2021-04-18 07:49:34]: d [, Level 23]: duke
 [2021-04-18 07:49:35]: d [, Level 23]: Duke Ellington:
 [2021-04-18 07:49:40]: d [, Level 23]: go there for 8x jump
+[2021-04-18 07:49:42]: :D [E8, Level 0]: ALqruen:tutsana beni reyiz
+[2021-04-18 07:49:42]: Zam [.bad, Level 30]: |HolyHo|: Why u attack me
+[2021-04-18 07:49:47]: ***  [, Level 0]: 'Zam' has been muted for 60 seconds
