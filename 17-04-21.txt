@@ -14495,3 +14495,7 @@
 [2021-04-17 21:14:28]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [2021-04-17 21:14:31]: ***  [, Level 0]: '(1)☺' has left the game
 [2021-04-17 21:14:31]: ***  [, Level 0]: '☺' has left the game
+[2021-04-17 21:14:37]: Noxl. [.bad, Level 35]: Nudelsaft c:: yooooooooooooooooooooooooo
+[2021-04-17 21:14:38]: ***  [, Level 0]: 'sad' has left the game
+[2021-04-17 21:14:39]: Nudelsaft c: [FookinLads, Level 0]: yooo
+[2021-04-17 21:14:43]: (1)Kirito [, Level 26]: yooooooooo
