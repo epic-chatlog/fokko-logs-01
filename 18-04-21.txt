@@ -3626,3 +3626,6 @@
 [2021-04-18 04:17:04]: mamikral011 [DogParty, Level 0]: power2: war?
 [2021-04-18 04:17:11]: |HolyHo| [FookinLads, Level 19]: [D] El patron: help
 [2021-04-18 04:17:18]: ***  [, Level 0]: 'koro' entered and joined the game
+[2021-04-18 04:17:32]: mamikral011 [DogParty, Level 0]: |HolyHo|: *
+[2021-04-18 04:17:33]: mamikral011 [DogParty, Level 0]: |HolyHo|°: ?
+[2021-04-18 04:17:35]: mamikral011 [DogParty, Level 0]: |HolyHo|°: war
