@@ -14443,3 +14443,6 @@
 [2021-04-17 19:41:06]: ***  [, Level 0]: 'Kirito' has left the game
 [2021-04-17 19:41:12]: (1)☺ [, Level 0]: merci qui Zephir™
 [2021-04-17 19:41:14]: Kenshi™ [404, Level 0]: mouais
+[2021-04-17 19:41:19]: Kenshi™ [404, Level 0]: bonne nuit
+[2021-04-17 19:41:20]: ***  [, Level 0]: 'Kenshi™' has left the game
+[2021-04-17 19:41:20]: ***  [, Level 0]: 'Zephir™' has left the game
