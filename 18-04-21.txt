@@ -767,3 +767,5 @@
 [2021-04-18 01:29:42]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
 [2021-04-18 01:29:45]: [D] Random Guy [, Level 0]: i stopped spining'
 [2021-04-18 01:29:46]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-18 01:29:50]: ***  [, Level 0]: '[D] satou' entered and joined the game
+[2021-04-18 01:29:54]: ***  [, Level 0]: '(1)SanoreX' has left the game
