@@ -884,3 +884,5 @@
 [2021-04-18 01:42:14]: Raidon's Pet [, Level 20]: ok
 [2021-04-18 01:42:17]: ***  [, Level 0]: 'satou' finished the special race!
 [2021-04-18 01:42:20]: ***  [, Level 0]: 'nameless tee' finished the special race!
+[2021-04-18 01:42:24]: nameless tee [, Level 0]: another finish
+[2021-04-18 01:42:26]: any² [404, Level 0]: Raidon:
