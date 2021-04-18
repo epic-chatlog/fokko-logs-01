@@ -17407,3 +17407,7 @@
 [2021-04-18 13:27:03]: G𝕖l𝕒to* [s/o razmo, Level 40]: oh
 [2021-04-18 13:27:08]: ***  [, Level 0]: 'f"{self.name}"' has left the game
 [2021-04-18 13:27:08]: ***  [, Level 0]: '__init__(self):' has left the game
+[2021-04-18 13:27:11]: bob [, Level 36]: G𝕖l𝕒to*: baby already heaten up
+[2021-04-18 13:27:19]: weqe [669, Level 13]: SoulyD: tell me how much u love me
+[2021-04-18 13:27:19]: SoulyD [, Level 47]: no u weqe
+[2021-04-18 13:27:21]: mamikral011 [DogParty, Level 27]: WarHammer': :D
