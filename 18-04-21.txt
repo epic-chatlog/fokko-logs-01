@@ -10282,3 +10282,11 @@
 [2021-04-18 09:05:44]: ***  [, Level 0]: 'ZEWO' has left the game
 [2021-04-18 09:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-18 09:05:51]: Taip [VergleriSay, Level 0]: amk
+[2021-04-18 09:05:55]: Kenshi™ [404, Level 0]: El patron: come
+[2021-04-18 09:05:55]: Taip [VergleriSay, Level 0]: dokunma şunlara
+[2021-04-18 09:05:55]: ***  [, Level 0]: 'ZEWO' entered and joined the game
+[2021-04-18 09:05:57]: Taip [VergleriSay, Level 0]: alo
+[2021-04-18 09:06:00]: satou [, Level 7]: lag
+[2021-04-18 09:06:01]: [D] El patron [FookinLads, Level 24]: keepertrain._.: wait
+[2021-04-18 09:06:05]:   [, Level 0]: ZEWO: girmiyoo
+[2021-04-18 09:06:06]: any [404, Level 38]: peace <3 Honey Cat
