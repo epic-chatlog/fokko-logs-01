@@ -11150,3 +11150,5 @@
 [2021-04-18 09:48:17]: ***  [, Level 0]: 'Taip' has left the game
 [2021-04-18 09:48:19]:   [, Level 0]: [D] ♥TAKO♥: 2 jump
 [2021-04-18 09:48:21]: (1)☺ [, Level 23]: NO
+[2021-04-18 09:48:25]: ***  [, Level 0]: '(1)' entered and joined the game
+[2021-04-18 09:48:33]: Kirito [{TQuila}, Level 41]: huh?
