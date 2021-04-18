@@ -505,3 +505,7 @@
 [2021-04-18 01:09:17]: SanoreX [Chilli.*, Level 0]: neyse
 [2021-04-18 01:09:18]: Raidon [, Level 24]: lan tm
 [2021-04-18 01:09:19]: SanoreX [Chilli.*, Level 0]: artık
+[2021-04-18 01:09:22]: Raidon [, Level 24]: sonra gelirim
+[2021-04-18 01:09:30]: SanoreX [Chilli.*, Level 0]: kuruom oda istediğin zaman gir :D
+[2021-04-18 01:09:31]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-18 01:09:31]: ***  [, Level 0]: 'Jerry' has left the game
