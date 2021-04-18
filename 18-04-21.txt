@@ -17292,3 +17292,4 @@
 [2021-04-18 13:21:11]: ***  [, Level 0]: 'Axandos²' has left the game
 [2021-04-18 13:21:32]: Axandos [, Level 26]: ok ERROR
 [2021-04-18 13:21:34]: weqe [669, Level 13]: (1)ERROR: was geht
+[2021-04-18 13:21:40]: ***  [, Level 0]: ### 'WarHammer'' xd
