@@ -1228,3 +1228,7 @@
 [2021-04-18 02:06:19]: Falco641 [.bad, Level 20]: flappy: smh
 [2021-04-18 02:06:22]: [D] Random Guy [, Level 0]: WOW
 [2021-04-18 02:06:23]: Falco641 [.bad, Level 20]: SanoreX.*:
+[2021-04-18 02:06:24]: ***  [, Level 0]: 'Im Noob' entered and joined the game
+[2021-04-18 02:06:25]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-18 02:06:28]: Falco641 [.bad, Level 20]: SanoreX.*:
+[2021-04-18 02:06:34]: Raidon's Pet [, Level 20]: Cylox: SanoreX ve Honey Cat
