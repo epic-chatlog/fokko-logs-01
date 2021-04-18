@@ -5951,3 +5951,6 @@
 [2021-04-18 06:02:41]: ***  [, Level 0]: 'WarHammer' entered and joined the game
 [2021-04-18 06:02:41]: at insan [freeporçay, Level 0]: portal pls
 [2021-04-18 06:02:47]: ***  [, Level 0]: 11111 finished in: 2 minute(s)  9.28 second(s)
+[2021-04-18 06:02:56]: sun.slow(x) [, Level 0]: koro:
+[2021-04-18 06:03:04]: ***  [, Level 0]: [D]ϻɪɔʜɑʟ finished in: 2 minute(s) 18.34 second(s)
+[2021-04-18 06:03:05]: Kezo [DogParty, Level 41]: warhammer gel mekana
