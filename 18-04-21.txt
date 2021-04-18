@@ -944,3 +944,6 @@
 [2021-04-18 01:47:29]: Raidon [, Level 24]: ye
 [2021-04-18 01:47:35]: ***  [, Level 0]: 'test' entered and joined the game
 [2021-04-18 01:47:37]: any² [404, Level 42]: Raidon: wana discord ?
+[2021-04-18 01:47:39]: Raidon [, Level 24]: ye
+[2021-04-18 01:47:42]: ***  [, Level 0]: 'test' has left the game
+[2021-04-18 01:47:50]: any² [404, Level 42]: Raidon: any#5253
