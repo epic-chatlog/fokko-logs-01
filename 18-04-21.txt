@@ -17557,3 +17557,7 @@
 [2021-04-18 13:34:46]: RM | Arin [Retard MNKY, Level 41]: xD
 [2021-04-18 13:34:46]: (1)☺ [, Level 23]: MANN MAN
 [2021-04-18 13:34:48]: RM | Arin [Retard MNKY, Level 41]: so geil
+[2021-04-18 13:35:02]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-18 13:35:02]: ***  [, Level 0]: ERROR. is on a killing spree with 10 blocks
+[2021-04-18 13:35:06]: ***  [, Level 0]: '[D] El patron' has left the game
+[2021-04-18 13:35:06]: ***  [, Level 0]: 'El patron' has left the game
