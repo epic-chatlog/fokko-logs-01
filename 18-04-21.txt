@@ -483,3 +483,4 @@
 [2021-04-18 01:06:38]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-18 01:06:52]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-18 01:07:21]: Random Guy [, Level 40]: ES: up
+[2021-04-18 01:07:34]: ***  [, Level 0]: 'SanoreX' entered and joined the game
