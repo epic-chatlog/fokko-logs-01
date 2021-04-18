@@ -1834,3 +1834,11 @@
 [2021-04-18 02:41:31]: Falco641 [.bad, Level 20]: wait
 [2021-04-18 02:41:31]: ***  [, Level 0]: '[D] satou' entered and joined the game
 [2021-04-18 02:41:31]: any [404, Level 38]: Raidon: baxk
+[2021-04-18 02:41:34]: Raidon [, Level 24]: any: u wait endless
+[2021-04-18 02:41:38]: any [404, Level 38]: Raidon: baxk
+[2021-04-18 02:41:38]: Raidon [, Level 24]: fuck
+[2021-04-18 02:41:39]: any [404, Level 38]: Raidon: baxk
+[2021-04-18 02:41:41]: Raidon [, Level 24]: fuck
+[2021-04-18 02:41:42]: any [404, Level 38]: Raidon: rip
+[2021-04-18 02:41:42]: Raidon [, Level 24]: fuck
+[2021-04-18 02:41:44]: SanoreX [Chilli.*, Level 27]: Honey Cat: wait
