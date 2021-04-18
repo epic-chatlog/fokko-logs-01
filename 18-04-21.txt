@@ -9252,3 +9252,12 @@
 [2021-04-18 08:29:47]: ***  [, Level 0]: 'any²' left the minigame 'Survival'
 [2021-04-18 08:29:48]: SanoreX [Chilli.*, Level 27]: any: spec me
 [2021-04-18 08:29:50]: ***  [, Level 0]: 'ƒirewave' entered and joined the game
+[2021-04-18 08:29:51]: Mert [Blood Gang, Level 0]: picasso
+[2021-04-18 08:29:54]: HardreenClutch [, Level 57]: woona cameraman:  lot if
+[2021-04-18 08:29:54]: Mert [Blood Gang, Level 0]: fun war
+[2021-04-18 08:29:56]: HardreenClutch [, Level 57]: woona cameraman:  lot of
+[2021-04-18 08:29:57]: ***  [, Level 0]: 'Taip' left the minigame 'Survival'
+[2021-04-18 08:29:59]:   [, Level 0]: Taip: fun war
+[2021-04-18 08:30:00]:   [, Level 0]: Taip: Mert
+[2021-04-18 08:30:02]: [D] El patron [FookinLads, Level 24]: woona cameraman:  come with hhnaut31
+[2021-04-18 08:30:02]: SanoreX [Chilli.*, Level 27]: woona cameraman: specle
