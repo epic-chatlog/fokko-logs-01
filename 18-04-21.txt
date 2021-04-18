@@ -2063,3 +2063,10 @@
 [2021-04-18 02:55:28]: Falco641 [.bad, Level 20]: vollesprit: dont
 [2021-04-18 02:55:28]: SanoreX [Chilli.*, Level 27]: Honey Cat: escape
 [2021-04-18 02:55:31]: Falco642 [, Level 3]: vollesprit: dont reset
+[2021-04-18 02:55:36]: SanoreX [Chilli.*, Level 27]: Honey Cat: escape
+[2021-04-18 02:55:36]: Falco642 [, Level 3]: never reset when you have bonus
+[2021-04-18 02:55:37]: any [404, Level 38]: Raidon: -_-
+[2021-04-18 02:55:38]: Ðeathscyth [, Level 3]: any wdym plot?
+[2021-04-18 02:55:40]: SanoreX [Chilli.*, Level 27]: Honey Cat: escape fast
+[2021-04-18 02:55:41]: vollesprit [, Level 1]: Falco641 i don't really care of infinite jump...
+[2021-04-18 02:55:41]: Falco642 [, Level 3]: always a way to save
