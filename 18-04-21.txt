@@ -3860,3 +3860,4 @@
 [2021-04-18 04:30:09]: JustRace [DogParty, Level 0]: ChillerDragon:  one what
 [2021-04-18 04:30:13]: JustRace [DogParty, Level 0]: ChillerDragon:  bonus player?
 [2021-04-18 04:30:14]: JustRace [DogParty, Level 0]: ChillerDragon:  nope
+[2021-04-18 04:30:15]: ChillerDragon [Chilli.*, Level 45]: a chiller helper JustRace
