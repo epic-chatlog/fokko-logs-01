@@ -20279,3 +20279,8 @@
 [2021-04-18 16:21:40]: (1)|MıssOяchi [, Level 48]: bye ^^
 [2021-04-18 16:21:43]: (1)|MıssOяchi [, Level 48]: 3
 [2021-04-18 16:21:45]: (1)|MıssOяchi [, Level 48]: 2
+[2021-04-18 16:21:49]: Zephir™ [404, Level 40]: mui bye
+[2021-04-18 16:21:54]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-18 16:21:54]: (1)|MıssOяchi [, Level 48]: 1
+[2021-04-18 16:21:55]: ***  [, Level 0]: '(1)|MıssOяchiĐ|' has left the game
+[2021-04-18 16:21:57]: Shiro. [404, Level 43]: 0
