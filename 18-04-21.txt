@@ -10279,3 +10279,6 @@
 [2021-04-18 09:05:41]: SanoreX [Chilli.*, Level 27]: ZEWO: n ekledim
 [2021-04-18 09:05:41]: ZEWO [, Level 0]: gel
 [2021-04-18 09:05:41]: Taip [VergleriSay, Level 0]: you
+[2021-04-18 09:05:44]: ***  [, Level 0]: 'ZEWO' has left the game
+[2021-04-18 09:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-18 09:05:51]: Taip [VergleriSay, Level 0]: amk
