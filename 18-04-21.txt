@@ -11576,3 +11576,5 @@
 [2021-04-18 10:11:11]: ***  [, Level 0]: 'SanoreX' entered and joined the game
 [2021-04-18 10:11:13]:   [, Level 0]: Nudelsaft c:: Fearless: wait what
 [2021-04-18 10:11:14]: Arktict [, Level 31]: Fearless: let me take my dummy after i go left for trainning
+[2021-04-18 10:11:24]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
+[2021-04-18 10:11:25]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
