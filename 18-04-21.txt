@@ -638,3 +638,7 @@
 [2021-04-18 01:22:38]: Raidon's Pet [, Level 20]: satou: come
 [2021-04-18 01:22:50]: (1)SanoreX [Chilli.*, Level 0]:  /spec SanoreX
 [2021-04-18 01:22:52]: (1)SanoreX [Chilli.*, Level 0]: YAW
+[2021-04-18 01:23:00]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-18 01:23:03]: Marcisten [Helper, Level 0]: Noémi: szia queen
+[2021-04-18 01:23:07]: nameless tee [, Level 0]: where do you want to go?
+[2021-04-18 01:23:10]: Raidon's Pet [, Level 20]: satou: direk atla
