@@ -14574,3 +14574,4 @@
 [2021-04-17 22:07:13]: ***  [, Level 0]: '(1)Good man' entered and joined the game
 [2021-04-17 22:07:23]: ***  [, Level 0]: '(1)Coca' entered and joined the game
 [2021-04-17 22:07:33]: Noxl [.bad, Level 48]: go rq Jerry
+[2021-04-17 22:08:31]: ***  [, Level 0]: '(1)Coca' joined the minigame 'Survival', use '/survival' to join aswell
