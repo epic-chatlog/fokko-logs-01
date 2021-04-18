@@ -9248,3 +9248,7 @@
 [2021-04-18 08:29:34]: ***  [, Level 0]: '(1)Rainbow Tee' has left the game (Timeout)
 [2021-04-18 08:29:35]: SanoreX [Chilli.*, Level 27]: aim dont work
 [2021-04-18 08:29:35]: Axandos [, Level 26]: keepertrain._.:  <<<
+[2021-04-18 08:29:39]:   [, Level 0]: Taip: Mert: /survival yaz
+[2021-04-18 08:29:47]: ***  [, Level 0]: 'any²' left the minigame 'Survival'
+[2021-04-18 08:29:48]: SanoreX [Chilli.*, Level 27]: any: spec me
+[2021-04-18 08:29:50]: ***  [, Level 0]: 'ƒirewave' entered and joined the game
