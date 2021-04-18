@@ -833,3 +833,7 @@
 [2021-04-18 01:35:18]: SanoreX [Chilli.*, Level 27]: Sokoleffeet: help fast
 [2021-04-18 01:35:20]: SanoreX [Chilli.*, Level 27]: any: help
 [2021-04-18 01:35:23]: [D] Random Guy [, Level 0]: Raidon: >>>
+[2021-04-18 01:35:31]: Raidon [, Level 24]: xd
+[2021-04-18 01:35:31]: ***  [, Level 0]: '(1)ES' has left the game
+[2021-04-18 01:35:32]: ***  [, Level 0]: 'ES' has left the game
+[2021-04-18 01:35:34]: SanoreX [Chilli.*, Level 27]: go
