@@ -13723,3 +13723,5 @@
 [2021-04-17 18:05:24]: Zephir™ [404, Level 40]: woona: fokko have patch that, we can't
 [2021-04-17 18:05:38]: Zephir™ [404, Level 40]: take me
 [2021-04-17 18:05:40]: woona [, Level 48]: aa open
+[2021-04-17 18:05:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-17 18:05:56]: Zephir™ [404, Level 40]: woona: take me for i open i not have inf jumps
