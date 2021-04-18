@@ -10155,3 +10155,7 @@
 [2021-04-18 09:00:36]: Taip [VergleriSay, Level 0]: qweq
 [2021-04-18 09:00:41]: SanoreX [Chilli.*, Level 27]: ZEWO: NE
 [2021-04-18 09:00:44]: SanoreX [Chilli.*, Level 27]: ZEWO: laserler lag yaptı
+[2021-04-18 09:00:47]: satou [, Level 7]: lag wtf
+[2021-04-18 09:00:48]: [D] El patron [FookinLads, Level 24]: shy: stop
+[2021-04-18 09:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-18 09:00:55]: satou [, Level 7]: ?
