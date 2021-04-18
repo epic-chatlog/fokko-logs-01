@@ -2081,3 +2081,6 @@
 [2021-04-18 02:56:15]: satou [, Level 7]: QON QON: no
 [2021-04-18 02:56:20]: any [404, Level 38]: go plot Raidon
 [2021-04-18 02:56:23]: SanoreX [Chilli.*, Level 27]: Honey Cat: ESCAPEEE
+[2021-04-18 02:56:38]: ***  [, Level 0]: 'QON QON' joined the spectators
+[2021-04-18 02:56:42]: ***  [, Level 0]: 'QON QON' joined the game
+[2021-04-18 02:56:42]: Ðeathscyth [, Level 3]: satou: stop nico
