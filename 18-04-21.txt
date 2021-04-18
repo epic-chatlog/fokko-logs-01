@@ -878,3 +878,9 @@
 [2021-04-18 01:42:05]: ***  [, Level 0]: 'Honey Cat' finished the special race!
 [2021-04-18 01:42:07]: ***  [, Level 0]: 'Sokoleffeet' has left the game
 [2021-04-18 01:42:07]: SanoreX.* [Chilli.*, Level 23]: koro: farm 100money too
+[2021-04-18 01:42:10]: Raidon's Pet [, Level 20]: [D] Random Guy: ?
+[2021-04-18 01:42:11]: [D] Random Guy [, Level 0]: dont touch him
+[2021-04-18 01:42:12]: ***  [, Level 0]: '[D] satou' finished the special race!
+[2021-04-18 01:42:14]: Raidon's Pet [, Level 20]: ok
+[2021-04-18 01:42:17]: ***  [, Level 0]: 'satou' finished the special race!
+[2021-04-18 01:42:20]: ***  [, Level 0]: 'nameless tee' finished the special race!
