@@ -9232,3 +9232,10 @@
 [2021-04-18 08:28:54]: Mert [Blood Gang, Level 0]: tmm
 [2021-04-18 08:28:55]: ***  [, Level 0]: '(2)Rainbow Tee' has left the game
 [2021-04-18 08:29:00]: ***  [, Level 0]: '(2)Rainbow Tee' entered and joined the game
+[2021-04-18 08:29:02]: ***  [, Level 0]: '(2)Rainbow Tee' has left the game (Timeout Protection used)
+[2021-04-18 08:29:04]: keepertrain._. [, Level 30]: hhnaut31: ?
+[2021-04-18 08:29:04]: ***  [, Level 0]: 'ZEWO's Pet' has left the game
+[2021-04-18 08:29:05]: ***  [, Level 0]: 'any²' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-18 08:29:09]: ***  [, Level 0]: '(1)soleri1' has left the game
+[2021-04-18 08:29:11]: ***  [, Level 0]: 'soleri1' entered and joined the game
+[2021-04-18 08:29:13]: ***  [, Level 0]: 'ZEWO's Pet' entered and joined the game
