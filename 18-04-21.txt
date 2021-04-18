@@ -1006,3 +1006,7 @@
 [2021-04-18 01:53:51]: Random Guy [, Level 40]: koro: <<<
 [2021-04-18 01:54:04]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 01:54:06]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 01:54:11]: Raidon's Pet [, Level 20]: Falco641: can hel me
+[2021-04-18 01:54:15]: Raidon's Pet [, Level 20]: Falco641: can phel me
+[2021-04-18 01:54:16]: Falco641 [.bad, Level 20]: Raidon: with?
+[2021-04-18 01:54:18]: Raidon's Pet [, Level 20]: Falco641: can help me
