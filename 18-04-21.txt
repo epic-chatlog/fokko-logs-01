@@ -12425,3 +12425,8 @@
 [2021-04-18 10:40:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-18 10:40:51]: . [TrRShClNrRs, Level 43]: Hala Madrid: ?
 [2021-04-18 10:40:52]: ***  [, Level 0]: 'BC|Tixnix' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-18 10:40:56]: Matiteusz [TrRShClNrRs, Level 37]: .: he killed u
+[2021-04-18 10:40:58]:   [, Level 0]: Kiøn1029: toxicdave.: miért nem mész el depositolni?
+[2021-04-18 10:41:02]: . [TrRShClNrRs, Level 43]: Meetiteusz: NO
+[2021-04-18 10:41:04]: . [TrRShClNrRs, Level 43]: Meetiteusz: BC|Tixnix KILLED ME
+[2021-04-18 10:41:06]: Matiteusz [TrRShClNrRs, Level 37]: .: so XDD
