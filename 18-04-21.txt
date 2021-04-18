@@ -7156,3 +7156,7 @@
 [2021-04-18 07:00:46]: Bernkastel [Pandora66, Level 37]: ChillerDragon: yo
 [2021-04-18 07:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-18 07:00:55]: ChillerDragon [Chilli.*, Level 45]: yo Bernkastel
+[2021-04-18 07:00:57]: ***  [, Level 0]: 'gg ise' has left the game
+[2021-04-18 07:00:57]: ***  [, Level 0]: 'cHurch' entered and joined the game
+[2021-04-18 07:01:06]: ***  [, Level 0]: 'CKA3A4NIK[NR]' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-18 07:01:07]: Bernkastel [Pandora66, Level 37]: ϟтiƒℓer: wtf i thought im in freeze
