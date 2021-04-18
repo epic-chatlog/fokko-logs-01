@@ -1739,3 +1739,4 @@
 [2021-04-18 02:35:42]: ***  [, Level 0]: 'human' has left the game
 [2021-04-18 02:35:49]: Raidon's Pet [, Level 20]: pls
 [2021-04-18 02:35:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-18 02:36:03]: Raidon's Pet [, Level 20]: (1)any:
