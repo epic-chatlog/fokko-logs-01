@@ -346,3 +346,4 @@
 [2021-04-18 00:50:08]: Raidon [, Level 24]: ;dummy_control 1
 [2021-04-18 00:50:35]: Raidon [, Level 24]: im bad coder
 [2021-04-18 00:50:37]: Raidon [, Level 24]: fuck
+[2021-04-18 00:50:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
