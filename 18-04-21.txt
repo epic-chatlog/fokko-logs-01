@@ -3575,3 +3575,6 @@
 [2021-04-18 04:13:32]: mamikral011 [DogParty, Level 0]: [D] El patron:
 [2021-04-18 04:13:42]: ***  [, Level 0]: 'BENJI3103' has left the game (Timeout)
 [2021-04-18 04:13:50]: ***  [, Level 0]: 'darkstar3' entered and joined the game
+[2021-04-18 04:13:59]:   [, Level 0]: SanoreX.*: Raidon: bak dursana
+[2021-04-18 04:14:03]: |HolyHo| [FookinLads, Level 19]: power2: ur on the war list in fookinlads:D
+[2021-04-18 04:14:03]: ***  [, Level 0]: 'darkstar4' entered and joined the game
