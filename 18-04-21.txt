@@ -290,3 +290,7 @@
 [2021-04-18 00:44:57]: ***  [, Level 0]: 'Raidon's Pet' has left the game
 [2021-04-18 00:44:58]: Boti. [.bad, Level 33]: pénzt adhatna
 [2021-04-18 00:45:03]: Raidon [, Level 24]: ;connect
+[2021-04-18 00:45:06]: Raidon [, Level 24]: ;c
+[2021-04-18 00:45:08]: Boti. [.bad, Level 33]: xd
+[2021-04-18 00:45:12]: Raidon [, Level 24]: ;dummy
+[2021-04-18 00:45:14]: Raidon [, Level 24]: wtf
