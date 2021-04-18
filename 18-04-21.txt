@@ -134,3 +134,5 @@
 [2021-04-18 00:29:35]: ***  [, Level 0]: (1)Hala Madrid finished in: 3 minute(s)  9.80 second(s)
 [2021-04-18 00:29:58]: ***  [, Level 0]: Chillingo is on a killing spree with 25 blocks
 [2021-04-18 00:30:10]: ***  [, Level 0]: 'Raidon' entered and joined the game
+[2021-04-18 00:30:18]: ***  [, Level 0]: 'Raidon's Pet' entered and joined the game
+[2021-04-18 00:30:20]: ***  [, Level 0]: 'Intensiv___' has left the game
