@@ -14243,3 +14243,7 @@
 [2021-04-17 19:13:21]: ***  [, Level 0]: '☺' entered and joined the game
 [2021-04-17 19:13:26]: ☺ [, Level 0]: pk jai quitter moi
 [2021-04-17 19:14:07]: ***  [, Level 0]: 'im sorry...' entered and joined the game
+[2021-04-17 19:14:21]: BULLETBOT [, Level 0]: Kirito: why attacK,
+[2021-04-17 19:14:25]: BULLETBOT [, Level 0]: so bad
+[2021-04-17 19:14:26]: BULLETBOT [, Level 0]: :(
+[2021-04-17 19:14:28]: Zephir™ [404, Level 40]: BULLETBOT: he are trash
