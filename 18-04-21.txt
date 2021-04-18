@@ -17561,3 +17561,5 @@
 [2021-04-18 13:35:02]: ***  [, Level 0]: ERROR. is on a killing spree with 10 blocks
 [2021-04-18 13:35:06]: ***  [, Level 0]: '[D] El patron' has left the game
 [2021-04-18 13:35:06]: ***  [, Level 0]: 'El patron' has left the game
+[2021-04-18 13:35:22]: ***  [, Level 0]: 'Kirito' has left the game
+[2021-04-18 13:35:22]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
