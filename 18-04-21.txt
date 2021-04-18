@@ -5844,3 +5844,5 @@
 [2021-04-18 05:56:20]: ***  [, Level 0]: 'artur xyz br' would have timed out, but can use timeout protection now
 [2021-04-18 05:56:40]: ***  [, Level 0]: Faceless tee is on a killing spree with 5 blocks
 [2021-04-18 05:56:45]: Foxie♥ [{TQuila}, Level 36]: Matiteusz: so u  farmin me moni for ghust?
+[2021-04-18 05:57:01]: ***  [, Level 0]: 'FlyingRuft' entered and joined the game
+[2021-04-18 05:57:05]:   [, Level 0]: Matiteusz: Foxie for dummy upgrades rn
