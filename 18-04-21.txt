@@ -18550,3 +18550,6 @@
 [2021-04-18 14:28:23]: Shiro. [404, Level 43]: OMAGAD
 [2021-04-18 14:28:24]: Shiro. [404, Level 43]: cyberFighter: stop 2 sec
 [2021-04-18 14:28:28]: Shiro. [404, Level 43]: cyberFighter: go
+[2021-04-18 14:28:30]: Shiro. [404, Level 43]: NO
+[2021-04-18 14:28:32]: Shiro. [404, Level 43]: yes
+[2021-04-18 14:28:36]: Minato / FR [Limoncello, Level 15]: cyberFighter: stop
