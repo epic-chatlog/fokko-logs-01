@@ -5862,3 +5862,7 @@
 [2021-04-18 05:58:28]: ***  [, Level 0]: 'AwA' has left the game
 [2021-04-18 05:58:35]: ***  [, Level 0]: 'abdul yarak' entered and joined the game
 [2021-04-18 05:58:48]: sun.slow(x) [, Level 0]: sun.slow(x):
+[2021-04-18 05:58:50]: ***  [, Level 0]: 'abdul yarak' changed name to 'Cylox'
+[2021-04-18 05:58:52]: Foxie♥ [{TQuila}, Level 36]: Meetiteusz: i can give 89k for upgrades
+[2021-04-18 05:58:53]: ChillerDragon.* [|*KoG*|, Level 42]: sun.slow(x): ?
+[2021-04-18 05:58:53]: sun.slow(x) [, Level 0]: sun.slow(y):
