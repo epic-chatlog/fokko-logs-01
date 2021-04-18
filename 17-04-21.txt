@@ -14343,3 +14343,6 @@
 [2021-04-17 19:26:40]: ***  [, Level 0]: '[D] im sorry...' changed name to 'Dont'
 [2021-04-17 19:26:46]: Zephir™ [404, Level 40]: 4/0
 [2021-04-17 19:26:47]: (1)☺ [, Level 0]: dont xd
+[2021-04-17 19:27:00]: ***  [, Level 0]: '[D] BULLETBOT' has left the game
+[2021-04-17 19:27:00]: ***  [, Level 0]: 'BULLETBOT' has left the game
+[2021-04-17 19:27:07]: ***  [, Level 0]: '☺' changed name to 'NOPE'
