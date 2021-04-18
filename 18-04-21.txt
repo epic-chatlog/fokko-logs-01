@@ -11877,3 +11877,6 @@
 [2021-04-18 10:20:35]:   [, Level 0]: ZEWO: ;kill
 [2021-04-18 10:20:44]:   [, Level 0]: ZEWO: SanoreX: aç svvv
 [2021-04-18 10:20:44]: ***  [, Level 0]: 'ZEWO' has left the game
+[2021-04-18 10:20:48]: BC|Tixnix [BC, Level 35]: vollesprit: hilfe xD
+[2021-04-18 10:20:48]: ***  [, Level 0]: 'suka' entered and joined the game
+[2021-04-18 10:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
