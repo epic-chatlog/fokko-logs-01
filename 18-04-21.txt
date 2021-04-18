@@ -618,3 +618,5 @@
 [2021-04-18 01:21:01]: Raidon's Pet [, Level 20]: bug olm
 [2021-04-18 01:21:12]: (1)SanoreX [Chilli.*, Level 0]: Raidon: bu teeworlds bugu düzeltilemez bile teeworldsu yapanın düzeltmesi lazım
 [2021-04-18 01:21:16]: (1)SanoreX [Chilli.*, Level 0]: heralde
+[2021-04-18 01:21:38]: (1)SanoreX [Chilli.*, Level 0]: x
+[2021-04-18 01:21:45]: (1)SanoreX [Chilli.*, Level 0]: SanoreX: >
