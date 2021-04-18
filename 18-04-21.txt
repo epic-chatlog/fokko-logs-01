@@ -1307,3 +1307,7 @@
 [2021-04-18 02:10:30]: SanoreX [Chilli.*, Level 27]: any: try to open with this hammer
 [2021-04-18 02:10:34]: Random Guy [, Level 40]: xd who did this
 [2021-04-18 02:10:39]: SanoreX [Chilli.*, Level 27]: any: try to open with this hammer
+[2021-04-18 02:10:41]: SanoreX [Chilli.*, Level 27]: Honey Cat: wait
+[2021-04-18 02:10:44]: Random Guy [, Level 40]: :: its you
+[2021-04-18 02:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-18 02:10:52]: Raidon's Pet [, Level 20]: SanoreX: hata yapıyosun
