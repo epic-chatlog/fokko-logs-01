@@ -1043,3 +1043,6 @@
 [2021-04-18 01:56:16]: Raidon's Pet [, Level 20]: any
 [2021-04-18 01:56:17]: Coca [Drunks, Level 24]: Cylox: hi Cylox
 [2021-04-18 01:56:20]: nameless tee [, Level 0]: satou: beware of approaching attack
+[2021-04-18 01:56:26]: Coca [Drunks, Level 24]: any: ok wait
+[2021-04-18 01:56:28]: SanoreX.* [Chilli.*, Level 23]: its ur
+[2021-04-18 01:56:32]: satou [, Level 7]: okay
