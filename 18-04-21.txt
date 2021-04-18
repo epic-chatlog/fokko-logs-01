@@ -37,3 +37,5 @@
 [2021-04-18 00:11:24]: sylbot (0) [, Level 0]: ES:
 [2021-04-18 00:11:33]: ***  [, Level 0]: 'Scooter5561' entered and joined the game
 [2021-04-18 00:11:59]: ***  [, Level 0]: 'sylbot (0)' changed name to 'Aoe'
+[2021-04-18 00:12:18]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-18 00:12:26]: Aoe [, Level 0]: ES: ım zewo
