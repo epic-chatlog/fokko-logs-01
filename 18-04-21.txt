@@ -3611,3 +3611,7 @@
 [2021-04-18 04:15:49]:   [, Level 0]: SanoreX.*: Raidon: ne istion bizden sen
 [2021-04-18 04:15:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-18 04:15:56]:   [, Level 0]: (1)Raidon: SanoreX: hatta any de ikna edicem
+[2021-04-18 04:16:03]:   [, Level 0]: Intensiv: aga
+[2021-04-18 04:16:04]:   [, Level 0]: Intensiv: alsana
+[2021-04-18 04:16:09]:   [, Level 0]: Intensiv: bişi yapmadım
+[2021-04-18 04:16:10]:   [, Level 0]: SanoreX.*: Raidon: çok korktuk any ile senden varya
