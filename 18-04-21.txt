@@ -10679,3 +10679,7 @@
 [2021-04-18 09:24:02]: ***  [, Level 0]: Rainbow Tee is on a killing spree with 5 blocks
 [2021-04-18 09:24:05]: GReeeN [, Level 41]: shy:  who are you
 [2021-04-18 09:24:07]: (1)☺ [, Level 23]: tas vu grace a moi cest qui qui tadie mantenant Zephir™ cest kirito
+[2021-04-18 09:24:17]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-18 09:24:18]: Kirito [{TQuila}, Level 41]: ☺: i dont understand :(
+[2021-04-18 09:24:19]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-18 09:24:25]: (1)☺ [, Level 23]: Kirito: np
