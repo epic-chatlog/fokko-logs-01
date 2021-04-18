@@ -2955,3 +2955,10 @@
 [2021-04-18 03:47:26]: |HolyHo|° [FookinLads, Level 29]: Raidon: u start
 [2021-04-18 03:47:28]: Raidon [, Level 24]: |HolyHo|: 5
 [2021-04-18 03:47:31]: Raidon [, Level 24]: |HolyHo|: 4
+[2021-04-18 03:47:34]: Raidon [, Level 24]: |HolyHo|: 3
+[2021-04-18 03:47:35]: |HolyHo|° [FookinLads, Level 29]: Raidon: 1 waer
+[2021-04-18 03:47:37]: Raidon [, Level 24]: |HolyHo|: 2
+[2021-04-18 03:47:41]: Raidon [, Level 24]: |HolyHo|: 1
+[2021-04-18 03:47:43]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
+[2021-04-18 03:47:43]: SanoreX [Chilli.*, Level 27]: tako
+[2021-04-18 03:47:43]: Raidon [, Level 24]: |HolyHo|: war
