@@ -19486,3 +19486,5 @@
 [2021-04-18 15:15:41]: ***  [, Level 0]: 'LGBT General' changed name to 'Shiro.'
 [2021-04-18 15:15:43]: Kenshi™ [404, Level 0]: LGBT General: quoi ? xD
 [2021-04-18 15:15:44]: ERROR. [404, Level 57]: xD
+[2021-04-18 15:15:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-18 15:15:53]: Shiro. [404, Level 43]: ERROR: those stoopid nob who say dat
