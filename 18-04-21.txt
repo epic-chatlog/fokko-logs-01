@@ -763,3 +763,7 @@
 [2021-04-18 01:29:26]: Raidon's Pet [, Level 20]: kill çekiyo her türlü orda durması şart
 [2021-04-18 01:29:33]: SanoreX [Chilli.*, Level 27]: SanoreX:
 [2021-04-18 01:29:35]: Raidon's Pet [, Level 20]: power:
+[2021-04-18 01:29:38]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-18 01:29:42]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
+[2021-04-18 01:29:45]: [D] Random Guy [, Level 0]: i stopped spining'
+[2021-04-18 01:29:46]: ***  [, Level 0]: 'SanoreX.*' has left the game
