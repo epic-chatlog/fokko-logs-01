@@ -1000,3 +1000,7 @@
 [2021-04-18 01:53:16]: any [404, Level 38]: Random Guy: nope
 [2021-04-18 01:53:26]: [D] Random Guy [, Level 0]: any²: wtf i was sure
 [2021-04-18 01:53:28]: nameless tee [, Level 0]: dont reach satou
+[2021-04-18 01:53:43]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 01:53:47]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 01:53:51]: Raidon [, Level 24]: wtf xd
+[2021-04-18 01:53:51]: Random Guy [, Level 40]: koro: <<<
