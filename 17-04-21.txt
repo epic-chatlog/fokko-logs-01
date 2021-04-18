@@ -14278,3 +14278,5 @@
 [2021-04-17 19:17:51]: ***  [, Level 0]: 'Kiwii' has left the game
 [2021-04-17 19:17:55]: ***  [, Level 0]: '(1)☺' entered and joined the game
 [2021-04-17 19:18:06]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
+[2021-04-17 19:18:17]: (1)☺ [, Level 0]: lag
+[2021-04-17 19:18:17]: im sorry... [, Level 0]: flappy: ...
