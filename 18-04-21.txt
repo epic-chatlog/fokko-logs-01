@@ -4585,3 +4585,10 @@
 [2021-04-18 04:59:09]: ***  [, Level 0]: '(1)casserole :p' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-18 04:59:09]: ***  [, Level 0]: 'casserole :p' has left the game (Timeout)
 [2021-04-18 04:59:09]: SanoreX [Chilli.*, Level 27]: brain+: ver [D] satou yu al Raidon's Pet u
+[2021-04-18 04:59:12]: Shiro. [404, Level 43]: scared to come vocal
+[2021-04-18 04:59:13]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-18 04:59:13]: ***  [, Level 0]: '[D] El patron' entered and joined the game
+[2021-04-18 04:59:15]: Shiro. [404, Level 43]: pathetic kid
+[2021-04-18 04:59:16]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-18 04:59:16]: brain+ [, Level 0]:  ua
+[2021-04-18 04:59:23]: satou [, Level 0]: kapı aç
