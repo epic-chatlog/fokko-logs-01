@@ -20537,3 +20537,5 @@
 [2021-04-18 16:46:04]: ***  [, Level 0]: 'ERROR' has left the game
 [2021-04-18 16:46:07]: ***  [, Level 0]: '(1)ERROR.' changed name to 'ERROR.'
 [2021-04-18 16:46:07]: ***  [, Level 0]: '(1)ERROR' changed name to 'ERROR'
+[2021-04-18 16:46:08]: ERROR [404, Level 47]: OMMMMMG
+[2021-04-18 16:46:17]: Kenshi™ [404, Level 0]: ERROR: bad luck xD
