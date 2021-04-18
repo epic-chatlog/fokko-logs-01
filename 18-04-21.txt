@@ -1861,3 +1861,7 @@
 [2021-04-18 02:42:50]: SanoreX [Chilli.*, Level 27]: any: stop and I open door
 [2021-04-18 02:42:52]: Honey Cat [Kittens!, Level 15]: ok
 [2021-04-18 02:42:57]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-18 02:42:59]: SanoreX [Chilli.*, Level 27]: wait
+[2021-04-18 02:42:59]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-18 02:43:02]: SanoreX [Chilli.*, Level 27]: I open any
+[2021-04-18 02:43:03]: ***  [, Level 0]: any² is on a killing spree with 35 blocks
