@@ -1567,3 +1567,7 @@
 [2021-04-18 02:23:58]: ***  [, Level 0]: 'Im Noob' has left the game
 [2021-04-18 02:24:02]: ***  [, Level 0]: 'mamikral011' would have timed out, but can use timeout protection now
 [2021-04-18 02:24:04]: SanoreX [Chilli.*, Level 27]: Raidon: biz atmadık boşuna deneme
+[2021-04-18 02:24:09]: SanoreX [Chilli.*, Level 27]: Raidon: ipin ne kim bilir
+[2021-04-18 02:24:12]: Raidon [, Level 24]: xD
+[2021-04-18 02:24:15]: SanoreX [Chilli.*, Level 27]: Raidon: bak kankan kaldı plotta
+[2021-04-18 02:24:18]: Raidon [, Level 24]: SanoreX: ben sorguluyorum sadece korkma
