@@ -169,3 +169,5 @@
 [2021-04-18 00:36:11]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [2021-04-18 00:36:25]: Kiøn1029 [.bad, Level 32]: de nem segít
 [2021-04-18 00:36:29]: Boti. [.bad, Level 33]: igen mert kötsög
+[2021-04-18 00:36:57]: ZEWO dummy [, Level 0]: Boti.:
+[2021-04-18 00:37:00]: Boti. [.bad, Level 33]: Raidon: can you do a bot that just does the 5jump comes in police from back and then goes farm?
