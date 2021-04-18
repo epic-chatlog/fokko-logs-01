@@ -1266,3 +1266,9 @@
 [2021-04-18 02:08:08]: [D] satou [, Level 4]: nameless tee: spec xd
 [2021-04-18 02:08:18]: mamikral011 [DogParty, Level 0]: any: wtf
 [2021-04-18 02:08:23]: nameless tee [, Level 0]: wtf
+[2021-04-18 02:08:29]: Raidon [, Level 24]: Cylox: dummysi
+[2021-04-18 02:08:29]: [D] Random Guy [, Level 0]: random
+[2021-04-18 02:08:34]: nameless tee [, Level 0]: yeah
+[2021-04-18 02:08:34]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 02:08:36]: nameless tee [, Level 0]: it was trap
+[2021-04-18 02:08:37]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
