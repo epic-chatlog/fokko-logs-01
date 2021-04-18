@@ -6043,3 +6043,6 @@
 [2021-04-18 06:08:10]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
 [2021-04-18 06:08:11]:   [, Level 0]: JustRace: Foxie♥:  wrong
 [2021-04-18 06:08:13]:   [, Level 0]: JustRace: Foxie♥:  you did 2
+[2021-04-18 06:08:18]: sun.slow(y) [FookinLads, Level 35]: f
+[2021-04-18 06:08:19]: ***  [, Level 0]: 'Hazel' has left the game
+[2021-04-18 06:08:21]: ***  [, Level 0]: 'sta' entered and joined the game
