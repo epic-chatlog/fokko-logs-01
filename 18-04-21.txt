@@ -2735,3 +2735,6 @@
 [2021-04-18 03:34:42]: Raidon [, Level 24]: El patron: dont help satou
 [2021-04-18 03:34:43]: ***  [, Level 0]: '(1)SanoreX' entered and joined the game
 [2021-04-18 03:34:52]: El patron [FookinLads, Level 31]: Raidon: k
+[2021-04-18 03:35:01]: any [404, Level 38]: Raidon: ill have to go
+[2021-04-18 03:35:05]: Raidon's Pet [, Level 20]: any: where?
+[2021-04-18 03:35:11]: ***  [, Level 0]: 'pandaSindCool' has left the game
