@@ -4554,3 +4554,7 @@
 [2021-04-18 04:58:07]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-18 04:58:07]: ***  [, Level 0]: 'OY' has left the game
 [2021-04-18 04:58:09]: brain+ [, Level 0]: you want spike sat?
+[2021-04-18 04:58:11]: brain+ [, Level 0]: you want spike [D] satou ?
+[2021-04-18 04:58:13]: SanoreX [Chilli.*, Level 27]: satou: DEDİM SANA BEN Raidon's Pet DİYE
+[2021-04-18 04:58:16]: [D] satou [, Level 7]: tmm
+[2021-04-18 04:58:18]: ***  [, Level 0]: 'D.&D.' entered and joined the game
