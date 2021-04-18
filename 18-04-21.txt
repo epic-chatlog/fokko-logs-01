@@ -1906,3 +1906,5 @@
 [2021-04-18 02:45:38]: vollesprit [, Level 1]: i am with your dummy
 [2021-04-18 02:45:50]: any² [404, Level 42]: ♥TAKO♥: wtf is wrong with u
 [2021-04-18 02:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-18 02:45:51]: ***  [, Level 0]: 'mike' entered and joined the game
+[2021-04-18 02:45:57]: ***  [, Level 0]: any² is on a killing spree with 45 blocks
