@@ -10956,3 +10956,5 @@
 [2021-04-18 09:37:52]: ***  [, Level 0]: 'Coca' finished the special race!
 [2021-04-18 09:37:52]: ***  [, Level 0]: 'Good man' finished the special race!
 [2021-04-18 09:37:54]: yair [, Level 36]: wtf
+[2021-04-18 09:38:03]: ***  [, Level 0]: '(1)lolpoep' entered and joined the game
+[2021-04-18 09:38:06]: ***  [, Level 0]: 'ZEWO' has left the game
