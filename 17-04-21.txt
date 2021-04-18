@@ -13741,3 +13741,6 @@
 [2021-04-17 18:10:01]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-17 18:10:14]: ***  [, Level 0]: 'sad' has left the game
 [2021-04-17 18:10:27]: ***  [, Level 0]: 'sad' entered and joined the game
+[2021-04-17 18:10:43]: Kirito [{TQuila}, Level 40]: ehh
+[2021-04-17 18:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-17 18:10:55]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
