@@ -918,3 +918,5 @@
 [2021-04-18 01:45:43]: Raidon [, Level 24]: any²: inf jump?
 [2021-04-18 01:45:45]: ***  [, Level 0]: 'мяу' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-18 01:45:47]: nameless tee [, Level 0]: xD\
+[2021-04-18 01:45:48]: Random Guy [, Level 40]: xd
+[2021-04-18 01:45:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
