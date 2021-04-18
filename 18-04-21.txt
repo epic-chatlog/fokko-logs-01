@@ -1546,3 +1546,7 @@
 [2021-04-18 02:22:13]:   [, Level 0]: abdul yarak: SanoreX: gel portal açıyor endles al
 [2021-04-18 02:22:14]: ***  [, Level 0]: 'Kahve' entered and joined the game
 [2021-04-18 02:22:15]: ***  [, Level 0]: 'Kahve' has left the game
+[2021-04-18 02:22:18]: [D] satou [, Level 4]: Im Noob: rifle?
+[2021-04-18 02:22:21]: ***  [, Level 0]: 'Raidon' entered and joined the game
+[2021-04-18 02:22:24]: Raidon [, Level 24]: any: i come
+[2021-04-18 02:22:26]: [D] mamikral011 [DogParty, Level 0]: any:  portall
