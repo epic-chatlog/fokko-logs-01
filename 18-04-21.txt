@@ -487,3 +487,5 @@
 [2021-04-18 01:07:42]: ***  [, Level 0]: 'SanoreX' has left the game
 [2021-04-18 01:07:49]: ***  [, Level 0]: 'SanoreX' entered and joined the game
 [2021-04-18 01:07:50]: SanoreX [Chilli.*, Level 0]: Raidon:
+[2021-04-18 01:08:00]: ***  [, Level 0]: ES is on a killing spree with 5 blocks
+[2021-04-18 01:08:01]: SanoreX [Chilli.*, Level 0]: Raidon:
