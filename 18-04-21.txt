@@ -20577,3 +20577,5 @@
 [2021-04-18 16:56:36]: ***  [, Level 0]: '(3)Kirito' entered and joined the game
 [2021-04-18 16:56:40]: ERROR' [404, Level 76]: Wärst du 16 doppelt so alt
 [2021-04-18 16:56:46]: (3)Kirito [, Level 0]: oha
+[2021-04-18 16:57:01]: ERROR' [404, Level 76]: isses normal das du ab und an so durchdrehst xDß
+[2021-04-18 16:57:06]: ERROR' [404, Level 76]: oder j4f
