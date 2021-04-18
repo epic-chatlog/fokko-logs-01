@@ -10108,3 +10108,6 @@
 [2021-04-18 08:57:38]: SanoreX [Chilli.*, Level 27]: Cylox: specle az
 [2021-04-18 08:57:39]: Taip [VergleriSay, Level 0]: evet
 [2021-04-18 08:57:40]: Taip [VergleriSay, Level 0]: sende
+[2021-04-18 08:57:43]: ***  [, Level 0]: 'sLlGamer95' entered and joined the game
+[2021-04-18 08:57:49]: SanoreX [Chilli.*, Level 27]: Cylox: specle plot 10 plot 11 i kopyaladı
+[2021-04-18 08:57:51]: Nagisa [H] [E8, Level 0]: bende
