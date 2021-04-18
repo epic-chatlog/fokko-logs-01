@@ -14725,3 +14725,5 @@
 [2021-04-17 23:21:50]: ***  [, Level 0]: 'Intensiv' entered and joined the game
 [2021-04-17 23:22:44]: ***  [, Level 0]: 'test' has left the game
 [2021-04-17 23:25:33]: ***  [, Level 0]: 'Intensiv_' entered and joined the game
+[2021-04-17 23:25:44]: ***  [, Level 0]: 'Intensiv_' has left the game
+[2021-04-17 23:25:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
