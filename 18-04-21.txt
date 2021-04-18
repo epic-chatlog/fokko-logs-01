@@ -459,3 +459,6 @@
 [2021-04-18 01:02:53]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
 [2021-04-18 01:02:55]: Ðeathscyth [, Level 3]: ES: i dont come here to block
 [2021-04-18 01:03:06]: ***  [, Level 0]: 'test' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-18 01:03:30]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 01:03:32]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 01:03:38]: Ðeathscyth [, Level 3]: Cylox.: bruh
