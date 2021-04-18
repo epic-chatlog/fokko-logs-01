@@ -20554,3 +20554,6 @@
 [2021-04-18 16:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-18 16:50:54]: ***  [, Level 0]: 'DumbCoala' has left the game
 [2021-04-18 16:50:55]: ERROR, [404, Level 57]: 3hours more
+[2021-04-18 16:52:21]: ERROR' [404, Level 76]: nub
+[2021-04-18 16:52:26]: ERROR, [404, Level 57]: xD
+[2021-04-18 16:52:29]: Zephir™ [404, Level 40]: 2am :c
