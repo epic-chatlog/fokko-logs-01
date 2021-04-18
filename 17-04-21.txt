@@ -13838,3 +13838,6 @@
 [2021-04-17 18:23:26]: ♥TAKO♥ [DogParty, Level 25]: woona:  tab a basmadın sanırım hiç
 [2021-04-17 18:23:31]: Kirito [{TQuila}, Level 40]: EZZZ
 [2021-04-17 18:23:33]: ***  [, Level 0]: 'sad' has left the game
+[2021-04-17 18:23:45]: ***  [, Level 0]: 'Tixnix' has left the game (Timeout)
+[2021-04-17 18:23:46]: ***  [, Level 0]: 'BC|Tixnix' has left the game (Timeout)
+[2021-04-17 18:23:46]: ***  [, Level 0]: '[D] BC|Tixnix' has left the game (Too weak connection (not acked for 60 seconds))
