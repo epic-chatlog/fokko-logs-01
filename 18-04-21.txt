@@ -1984,3 +1984,6 @@
 [2021-04-18 02:50:53]: ***  [, Level 0]: 'sL|Gabsty' has left the game
 [2021-04-18 02:50:53]: ***  [, Level 0]: 'allBlocker' has left the game
 [2021-04-18 02:50:56]: vollesprit [, Level 1]: so many secrets
+[2021-04-18 02:51:10]: ***  [, Level 0]: 'Honey Cat' left the minigame 'Survival'
+[2021-04-18 02:51:16]: SanoreX [Chilli.*, Level 27]: any²: lets do
+[2021-04-18 02:51:18]: SanoreX [Chilli.*, Level 27]: iy
