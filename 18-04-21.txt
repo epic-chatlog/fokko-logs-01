@@ -1524,3 +1524,7 @@
 [2021-04-18 02:20:39]: Ļåҕ Lobster [Ļåҕ, Level 34]: [D] Random Guy: got it now ? :D
 [2021-04-18 02:20:47]: SanoreX [Chilli.*, Level 27]: abdul yarak: any  düşmanmı
 [2021-04-18 02:20:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-18 02:20:56]: ***  [, Level 0]: 'abdul yarak' has left the game
+[2021-04-18 02:20:56]: ***  [, Level 0]: 'Cylox.' has left the game
+[2021-04-18 02:20:56]: SanoreX [Chilli.*, Level 27]: abdul yarak: nedne
+[2021-04-18 02:20:58]: ***  [, Level 0]: 'abdul yarak' entered and joined the game
