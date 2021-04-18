@@ -110,3 +110,5 @@
 [2021-04-18 00:27:13]: ***  [, Level 0]: 'test' has left the game
 [2021-04-18 00:27:21]: ZEWO dummy [, Level 0]: niye
 [2021-04-18 00:27:21]: Boti. [.bad, Level 33]: megkérdezte hogy volt e valami furcsa dolog és azt mondta a csaj hogy faszokat értékel XDDD
+[2021-04-18 00:27:25]: Boti. [.bad, Level 33]: borinak tökéletes muka
+[2021-04-18 00:27:26]: ZEWO dummy [, Level 0]: ;kill
