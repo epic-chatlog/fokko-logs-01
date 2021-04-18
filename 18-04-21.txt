@@ -303,3 +303,4 @@
 [2021-04-18 00:45:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-18 00:45:51]: Raidon [, Level 24]: ;dummy_police 1
 [2021-04-18 00:45:52]: Boti. [.bad, Level 33]: nincs f1ben olyan hogy connectdummy eh
+[2021-04-18 00:46:06]: Raidon [, Level 24]: wtf???
