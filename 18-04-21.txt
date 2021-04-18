@@ -2547,3 +2547,8 @@
 [2021-04-18 03:25:22]: |MıssOяchiĐ| [, Level 48]: Mista bombastic:
 [2021-04-18 03:25:23]: ***  [, Level 0]: ### 'Mista bombastic' QUACK
 [2021-04-18 03:25:23]: Falco641 [.bad, Level 20]: Intensiv: you just said war
+[2021-04-18 03:25:40]: ***  [, Level 0]: 'El patron' entered and joined the game
+[2021-04-18 03:25:42]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-18 03:25:45]: ***  [, Level 0]: 'abdul yarak' entered and joined the game
+[2021-04-18 03:25:46]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-18 03:25:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
