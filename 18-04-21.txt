@@ -2484,3 +2484,7 @@
 [2021-04-18 03:22:12]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
 [2021-04-18 03:22:29]: BC|serwan [BC, Level 0]: Raidon: WHO
 [2021-04-18 03:22:32]: Raidon [, Level 24]: any: spec
+[2021-04-18 03:22:40]: Raidon [, Level 24]: BC|serwan: him
+[2021-04-18 03:22:41]: any [404, Level 38]: Raidon: ????
+[2021-04-18 03:22:41]: BC|serwan [BC, Level 0]: Raidon: OK
+[2021-04-18 03:22:42]: Raidon [, Level 24]: BC|serwan: ♥TAKO♥
