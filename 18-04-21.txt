@@ -10713,3 +10713,8 @@
 [2021-04-18 09:25:35]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-18 09:25:36]: Kenshi™ [404, Level 0]: arkpour moi t'es r, me fatigue pas plus
 [2021-04-18 09:25:37]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-18 09:25:41]: ***  [, Level 0]: '(1)BLACK' entered and joined the game
+[2021-04-18 09:25:46]: (1)☺ [, Level 23]: pas compris
+[2021-04-18 09:25:47]: Kenshi™ [404, Level 0]: Cylox: proof
+[2021-04-18 09:25:48]:   [, Level 0]: :D: sa
+[2021-04-18 09:25:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
