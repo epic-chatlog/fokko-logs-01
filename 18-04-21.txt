@@ -2297,3 +2297,5 @@
 [2021-04-18 03:09:40]: any [404, Level 38]: Raidon: ???
 [2021-04-18 03:09:50]: SanoreX [Chilli.*, Level 27]: ♥TAKO♥: bak
 [2021-04-18 03:10:00]: ***  [, Level 0]: 'QON QON' joined the spectators
+[2021-04-18 03:10:03]: ***  [, Level 0]: 'QON QON' joined the game
+[2021-04-18 03:10:14]: ***  [, Level 0]: 'QON QON' joined the spectators
