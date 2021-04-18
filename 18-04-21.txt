@@ -5804,3 +5804,7 @@
 [2021-04-18 05:53:50]: JustRace [DogParty, Level 36]: sun.slow(x):  still asshole
 [2021-04-18 05:54:00]: ***  [, Level 0]: 'WarHammer'' entered and joined the game
 [2021-04-18 05:54:06]: yair [, Level 36]: HeavyGeneral: what client do you use?
+[2021-04-18 05:54:10]: HeavyGeneral [FookinLads, Level 44]: ddnet
+[2021-04-18 05:54:10]: ***  [, Level 0]: 'UtoPia™ Pon4i' has left the game
+[2021-04-18 05:54:13]: HeavyGeneral [FookinLads, Level 44]: old one
+[2021-04-18 05:54:13]: Foxie♥ [{TQuila}, Level 36]: Meetiteusz: weird we rq both of htem
