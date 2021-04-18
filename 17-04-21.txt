@@ -13873,3 +13873,4 @@
 [2021-04-17 18:30:24]: woona [, Level 48]: xdD
 [2021-04-17 18:30:26]: woona [, Level 48]: NİCE
 [2021-04-17 18:30:30]: Zephir™ [404, Level 40]: woona: XDDD
+[2021-04-17 18:30:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
