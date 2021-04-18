@@ -535,3 +535,5 @@
 [2021-04-18 01:11:42]: Raidon's Pet [, Level 20]: eyw
 [2021-04-18 01:11:51]: Raidon's Pet [, Level 20]: lool
 [2021-04-18 01:12:14]: ES [, Level 31]: Raidon
+[2021-04-18 01:12:21]: Raidon's Pet [, Level 20]: ?
+[2021-04-18 01:12:21]: ***  [, Level 0]: '[D] Random Guy' entered and joined the game
