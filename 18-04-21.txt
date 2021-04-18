@@ -10633,3 +10633,12 @@
 [2021-04-18 09:22:34]: ***  [, Level 0]: 'jeder' has left the game
 [2021-04-18 09:22:35]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-18 09:22:36]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-18 09:22:36]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-18 09:22:42]: Seany [, Level 0]: help me plss
+[2021-04-18 09:22:43]: Kirito [{TQuila}, Level 41]: [D] BC|Tixnix: NICHT BEWEGEN
+[2021-04-18 09:22:44]: Arktict [, Level 31]: Zephir™: la prochiane fois qu'il se connecte tu lui demande
+[2021-04-18 09:22:44]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-18 09:22:47]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-18 09:22:48]: Kirito [{TQuila}, Level 41]: Amirian: dont move
+[2021-04-18 09:22:48]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
+[2021-04-18 09:22:49]: ***  [, Level 0]: 'brainless tee' has left the game
