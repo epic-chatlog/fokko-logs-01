@@ -3783,3 +3783,6 @@
 [2021-04-18 04:26:54]:   [, Level 0]: |HolyHo|: El patron: war
 [2021-04-18 04:26:54]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 32.74 second(s)
 [2021-04-18 04:26:57]: ***  [, Level 0]: [D] BC|Tixnix finished in: 9 minute(s)  3.58 second(s)
+[2021-04-18 04:26:59]: SanoreX [Chilli.*, Level 27]: satou: birazdan killeriz şuan deil
+[2021-04-18 04:27:06]: ***  [, Level 0]: [D] BC|kakashi is on a killing spree with 5 blocks
+[2021-04-18 04:27:09]: power [TrRShClNrRs, Level 0]: fk off mamikral011
