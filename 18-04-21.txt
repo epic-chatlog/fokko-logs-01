@@ -19544,3 +19544,6 @@
 [2021-04-18 15:19:23]: evpalege [Alpha, Level 0]: weqe: help
 [2021-04-18 15:19:25]: SP | Someone [Somepeople, Level 0]: RoboBot: im using default skin
 [2021-04-18 15:19:25]: weqe [669, Level 13]: LGBT+ General: >>
+[2021-04-18 15:19:27]: ERROR. [404, Level 57]: Kirito:  ging auch nicht darum mit was du gerade spielst sondern wer den client hat.
+[2021-04-18 15:19:28]: weqe [669, Level 13]: no portal evpalege
+[2021-04-18 15:19:36]: RoboBot [Z-Team, Level 0]: So what
