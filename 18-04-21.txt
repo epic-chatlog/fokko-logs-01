@@ -70,3 +70,4 @@
 [2021-04-18 00:19:32]: ZEWO dummy [, Level 0]: (1)ES:
 [2021-04-18 00:19:42]: ***  [, Level 0]: 'Scooter5561' has left the game
 [2021-04-18 00:19:47]: ***  [, Level 0]: 'Ikolonor' has left the game
+[2021-04-18 00:20:10]: ***  [, Level 0]: 'Jerry' entered and joined the game
