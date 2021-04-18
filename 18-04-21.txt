@@ -3483,3 +3483,5 @@
 [2021-04-18 04:08:29]: sraganzedendev [TrRShClNrRs, Level 42]: that accuracy
 [2021-04-18 04:08:35]: ***  [, Level 0]: 'Tom_y²²²' entered and joined the game
 [2021-04-18 04:08:37]:   [, Level 0]: darkstar2: BENJI3103: help :D
+[2021-04-18 04:08:57]: ***  [, Level 0]: 'Van DarkMiller' has left the game
+[2021-04-18 04:09:00]: [D] mamikral011 [DogParty, Level 27]: PEai diea pie: ?
