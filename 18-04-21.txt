@@ -360,3 +360,4 @@
 [2021-04-18 00:51:38]: Kiøn1029 [.bad, Level 32]: az gond
 [2021-04-18 00:51:53]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 00:51:55]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 00:52:04]: Boti. [.bad, Level 33]: ja hogy van rá ilyen szar a spam ellen
