@@ -1272,3 +1272,6 @@
 [2021-04-18 02:08:34]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 02:08:36]: nameless tee [, Level 0]: it was trap
 [2021-04-18 02:08:37]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 02:08:41]: : [, Level 34]: Random Guy: lol
+[2021-04-18 02:08:41]: ***  [, Level 0]: 'Javz' joined the game
+[2021-04-18 02:08:42]: any [404, Level 38]: satou: l2p
