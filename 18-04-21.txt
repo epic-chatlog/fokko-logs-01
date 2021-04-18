@@ -597,3 +597,7 @@
 [2021-04-18 01:18:43]: Raidon [, Level 24]: satouyu diyom xD
 [2021-04-18 01:18:44]: (1)SanoreX [Chilli.*, Level 0]: Raidon: levelime bak
 [2021-04-18 01:18:47]: satou [, Level 0]: evt
+[2021-04-18 01:18:58]: (1)SanoreX [Chilli.*, Level 0]: SanoreX:
+[2021-04-18 01:18:59]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 01:19:01]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 01:19:09]: Good man [Drunks, Level 32]: SanoreX: hi))) friend^^
