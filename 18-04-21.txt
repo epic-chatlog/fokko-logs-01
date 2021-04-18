@@ -557,3 +557,6 @@
 [2021-04-18 01:15:25]: (1)SanoreX [Chilli.*, Level 0]: ERROR: spec me look plot bug
 [2021-04-18 01:15:26]: Raidon's Pet [, Level 20]: toine: idk your lang
 [2021-04-18 01:15:30]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 01:15:34]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 01:15:35]: (1)SanoreX [Chilli.*, Level 0]: ERROR: cant hook dummys
+[2021-04-18 01:15:36]: Falco642 [, Level 0]: ES: serious?
