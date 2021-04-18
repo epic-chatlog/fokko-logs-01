@@ -14664,3 +14664,4 @@
 [2021-04-17 22:30:57]: Noxl [.bad, Level 48]: <3 **
 [2021-04-17 22:32:49]: Noxl [.bad, Level 48]: wtff
 [2021-04-17 22:35:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-17 22:36:54]: ***  [, Level 0]: 'ES' entered and joined the game
