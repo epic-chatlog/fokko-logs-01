@@ -2292,3 +2292,5 @@
 [2021-04-18 03:08:56]: ***  [, Level 0]: 'QON QON' joined the game
 [2021-04-18 03:09:04]: Raidon's Pet [, Level 20]: any: !!!!!
 [2021-04-18 03:09:13]: satou [, Level 7]: ok last time
+[2021-04-18 03:09:27]: Ðeathscyth [, Level 3]: satou: stop
+[2021-04-18 03:09:29]: satou [, Level 7]: lol ok
