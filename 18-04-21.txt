@@ -6123,3 +6123,6 @@
 [2021-04-18 06:13:16]: Luna [, Level 0]: el champeon: ???
 [2021-04-18 06:13:20]: ***  [, Level 0]: '[D]ϻɪɔʜɑʟ' has left the game
 [2021-04-18 06:13:20]: ***  [, Level 0]: 'ϻɪɔʜɑʟ' has left the game
+[2021-04-18 06:13:22]:   [, Level 0]: szczur: how to check points
+[2021-04-18 06:13:24]: yair [, Level 36]: nah
+[2021-04-18 06:13:32]: Meetiteusz [TrRShClNrRs, Level 28]: szczur piszesz /stats
