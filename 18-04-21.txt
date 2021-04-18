@@ -17600,3 +17600,4 @@
 [2021-04-18 13:37:34]: ***  [, Level 0]: 'WIR' entered and joined the game
 [2021-04-18 13:37:38]: ***  [, Level 0]: 'WIR' has left the game
 [2021-04-18 13:37:38]: mamikral011 [DogParty, Level 27]: ERROR.: where
+[2021-04-18 13:37:39]: ***  [, Level 0]: kais is on a killing spree with 10 blocks
