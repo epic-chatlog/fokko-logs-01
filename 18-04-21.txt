@@ -20544,3 +20544,5 @@
 [2021-04-18 16:46:39]: ***  [, Level 0]: '(1)ERROR.' entered and joined the game
 [2021-04-18 16:47:24]: ***  [, Level 0]: '(1)ERROR.' changed name to 'ERROR,'
 [2021-04-18 16:47:37]: ***  [, Level 0]: '(1)ERROR' changed name to 'ERROR''
+[2021-04-18 16:48:37]: ***  [, Level 0]: 'Soft' has left the game
+[2021-04-18 16:48:37]: ***  [, Level 0]: 'Solar' has left the game
