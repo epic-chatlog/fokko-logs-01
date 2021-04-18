@@ -6443,3 +6443,7 @@
 [2021-04-18 06:28:29]: ChillerDragon [Chilli.*, Level 45]: sun.slow(y): !?
 [2021-04-18 06:28:36]: ***  [, Level 0]: sL|KeBu28 is on a killing spree with 5 blocks
 [2021-04-18 06:28:46]: Foxie♥ [{TQuila}, Level 36]: Kirito: i needhelp
+[2021-04-18 06:28:54]: ***  [, Level 0]: 'Bozzkurt [D]' entered and joined the game
+[2021-04-18 06:28:55]: ***  [, Level 0]: mr dud is on a killing spree with 5 blocks
+[2021-04-18 06:28:56]: Foxie♥ [{TQuila}, Level 36]: Kirito: spike there
+[2021-04-18 06:29:01]: Kirito [{TQuila}, Level 41]: ok
