@@ -537,3 +537,4 @@
 [2021-04-18 01:12:14]: ES [, Level 31]: Raidon
 [2021-04-18 01:12:21]: Raidon's Pet [, Level 20]: ?
 [2021-04-18 01:12:21]: ***  [, Level 0]: '[D] Random Guy' entered and joined the game
+[2021-04-18 01:13:03]: [D] Random Guy [, Level 0]: :OOOOOOOOOOOOO
