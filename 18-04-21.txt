@@ -5633,3 +5633,6 @@
 [2021-04-18 05:44:16]: ***  [, Level 0]: 'Mike Wazoski' has left the game
 [2021-04-18 05:44:21]: ***  [, Level 0]: 'gg ise' entered and joined the game
 [2021-04-18 05:44:21]:   [, Level 0]: Shiro.: darkstar: come
+[2021-04-18 05:44:28]: ***  [, Level 0]: ',' has left the game
+[2021-04-18 05:44:28]: ***  [, Level 0]: 'P#@U#@R#@P#@L#@' has left the game
+[2021-04-18 05:44:33]: darkstar [Legacy™, Level 20]: Shiro.: no I'm about to leave I farmed enough
