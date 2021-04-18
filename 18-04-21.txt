@@ -304,3 +304,9 @@
 [2021-04-18 00:45:51]: Raidon [, Level 24]: ;dummy_police 1
 [2021-04-18 00:45:52]: Boti. [.bad, Level 33]: nincs f1ben olyan hogy connectdummy eh
 [2021-04-18 00:46:06]: Raidon [, Level 24]: wtf???
+[2021-04-18 00:46:06]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
+[2021-04-18 00:46:08]: [D] Boti. [.bad, Level 0]: ja de
+[2021-04-18 00:46:10]: Raidon [, Level 24]: Boti.: spec dummy xD
+[2021-04-18 00:46:10]: ***  [, Level 0]: '[D] Boti.' has left the game
+[2021-04-18 00:46:12]: Kiøn1029 [.bad, Level 32]: az jó
+[2021-04-18 00:46:13]: Raidon [, Level 24]: bugged
