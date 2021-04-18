@@ -1597,3 +1597,8 @@
 [2021-04-18 02:26:01]: SanoreX [Chilli.*, Level 27]: Raidon: yaw sen bi susda
 [2021-04-18 02:26:03]: Raidon [, Level 24]: any: go collect dummy
 [2021-04-18 02:26:04]: SanoreX [Chilli.*, Level 27]: Raidon: yaw sen bi susda naparsan yap
+[2021-04-18 02:26:11]: Raidon [, Level 24]: any:
+[2021-04-18 02:26:13]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-18 02:26:15]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-18 02:26:19]: SanoreX [Chilli.*, Level 27]: any: FUCK STOP HOOKİNG
+[2021-04-18 02:26:20]: SanoreX [Chilli.*, Level 27]: StreamerDragon:
