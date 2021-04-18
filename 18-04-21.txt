@@ -3861,3 +3861,5 @@
 [2021-04-18 04:30:13]: JustRace [DogParty, Level 0]: ChillerDragon:  bonus player?
 [2021-04-18 04:30:14]: JustRace [DogParty, Level 0]: ChillerDragon:  nope
 [2021-04-18 04:30:15]: ChillerDragon [Chilli.*, Level 45]: a chiller helper JustRace
+[2021-04-18 04:30:38]: ***  [, Level 0]: 'Foxie♥' entered and joined the game
+[2021-04-18 04:30:39]: ChillerDragon [Chilli.*, Level 45]: so?
