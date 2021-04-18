@@ -769,3 +769,5 @@
 [2021-04-18 01:29:46]: ***  [, Level 0]: 'SanoreX.*' has left the game
 [2021-04-18 01:29:50]: ***  [, Level 0]: '[D] satou' entered and joined the game
 [2021-04-18 01:29:54]: ***  [, Level 0]: '(1)SanoreX' has left the game
+[2021-04-18 01:30:02]: brainless tee [, Level 0]: oo
+[2021-04-18 01:30:05]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
