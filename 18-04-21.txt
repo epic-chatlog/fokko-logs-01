@@ -579,3 +579,5 @@
 [2021-04-18 01:16:57]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 01:17:00]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
 [2021-04-18 01:17:09]: (1)SanoreX [Chilli.*, Level 0]: Raidon's Pet: gircenmi dummylerin içine
+[2021-04-18 01:17:12]: Raidon's Pet [, Level 20]: so impossible
+[2021-04-18 01:17:16]: Raidon's Pet [, Level 20]: nası yazılıyodu lan
