@@ -9961,3 +9961,6 @@
 [2021-04-18 08:50:56]: Taip [VergleriSay, Level 19]: he
 [2021-04-18 08:50:56]: woona cameraman [, Level 48]: ChillerDragon:
 [2021-04-18 08:50:56]: ChillerDragon [Chilli.*, Level 45]: woona cameraman: I am currently afk.
+[2021-04-18 08:50:57]: ***  [, Level 0]: 'SanoreX' entered and joined the game
+[2021-04-18 08:51:03]:   [, Level 0]: SanoreX: Cylox: attı yaw
+[2021-04-18 08:51:06]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
