@@ -14304,3 +14304,9 @@
 [2021-04-17 19:21:44]: Kirito [{TQuila}, Level 40]: excuses
 [2021-04-17 19:21:48]: (1)☺ [, Level 0]: 200ping
 [2021-04-17 19:21:54]: Kirito [{TQuila}, Level 40]: excuses after excuses
+[2021-04-17 19:22:00]: (1)☺ [, Level 0]: 200ping
+[2021-04-17 19:22:03]: Kirito [{TQuila}, Level 40]: ex
+[2021-04-17 19:22:04]: Kirito [{TQuila}, Level 40]: cu
+[2021-04-17 19:22:05]: Kirito [{TQuila}, Level 40]: ses
+[2021-04-17 19:22:08]: (1)☺ [, Level 0]: 200ping
+[2021-04-17 19:22:08]: Zephir™ [404, Level 40]: RM | Arin: see ur level
