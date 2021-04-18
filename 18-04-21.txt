@@ -5658,3 +5658,6 @@
 [2021-04-18 05:45:15]:   [, Level 0]: Shiro.: darkstar: -1 ♥
 [2021-04-18 05:45:18]: Foxi♥ [{TQuila}, Level 0]: Shiro,: l2p
 [2021-04-18 05:45:18]: Matiteusz [TrRShClNrRs, Level 37]: Foxi♥: suck my duck
+[2021-04-18 05:45:25]: ***  [, Level 0]: 'Bartłomiejósz' entered and joined the game
+[2021-04-18 05:45:26]: ***  [, Level 0]: 'sun.slow(x)' entered and joined the game
+[2021-04-18 05:45:30]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 34.62 second(s)
