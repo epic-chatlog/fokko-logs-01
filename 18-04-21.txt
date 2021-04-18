@@ -806,3 +806,7 @@
 [2021-04-18 01:33:08]: SanoreX.* [Chilli.*, Level 23]: any: I can leave stack when dont press d and a and fire
 [2021-04-18 01:33:18]: SanoreX.* [Chilli.*, Level 23]: any: I can leave stack when dont press d and a and fire look
 [2021-04-18 01:33:18]: ***  [, Level 0]: 'toine' entered and joined the game
+[2021-04-18 01:33:25]: ***  [, Level 0]: 'SanoreX.*' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-18 01:33:26]: ***  [, Level 0]: 'SanoreX.*' left the minigame 'Survival'
+[2021-04-18 01:33:30]: SanoreX.* [Chilli.*, Level 23]: I leaveed
+[2021-04-18 01:33:32]: SanoreX.* [Chilli.*, Level 23]: stack
