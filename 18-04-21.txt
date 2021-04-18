@@ -20549,3 +20549,6 @@
 [2021-04-18 16:49:16]: ERROR, [404, Level 57]: jesus
 [2021-04-18 16:49:56]: ***  [, Level 0]: 'DumbCoala' entered and joined the game
 [2021-04-18 16:50:31]: Zephir™ [404, Level 40]: I COME FOR HELP U /C
+[2021-04-18 16:50:43]: ERROR, [404, Level 57]: to tired for anything xd
+[2021-04-18 16:50:47]: Zephir™ [404, Level 40]: wtf xD
+[2021-04-18 16:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
