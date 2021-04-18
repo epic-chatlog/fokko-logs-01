@@ -10790,3 +10790,6 @@
 [2021-04-18 09:29:17]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-18 09:29:22]: Amirian [bad., Level 29]: BC|Tixnix: ?
 [2021-04-18 09:29:34]: Arktict [, Level 31]: Kenshi™: prsn ne se souvient de moi
+[2021-04-18 09:29:37]: [D] El patron [FookinLads, Level 24]: Hunter.exe: stop
+[2021-04-18 09:29:41]: ***  [, Level 0]: :D is on a killing spree with 5 blocks
+[2021-04-18 09:29:44]: Arktict [, Level 31]: Kenshi™: sauf quelques uns
