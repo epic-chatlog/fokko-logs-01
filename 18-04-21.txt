@@ -10544,3 +10544,4 @@
 [2021-04-18 09:18:32]: Cylox. [{TQuila}, Level 24]: ERROR:
 [2021-04-18 09:18:38]: ***  [, Level 0]: 'вован' entered and joined the game
 [2021-04-18 09:18:40]: Cylox. [{TQuila}, Level 24]: ERROR: NICE AFK
+[2021-04-18 09:18:45]: Zephir™ [404, Level 40]: Cylox: idc u are my ennemi now and u are the ennemi of all 404
