@@ -18529,3 +18529,7 @@
 [2021-04-18 14:27:11]: 1IceyB0i [Zommer :D, Level 0]: wtf
 [2021-04-18 14:27:11]: BULLETBOT [, Level 0]: whyű
 [2021-04-18 14:27:12]: BULLETBOT [, Level 0]: why
+[2021-04-18 14:27:19]: ***  [, Level 0]: 'WIR' entered and joined the game
+[2021-04-18 14:27:23]: ***  [, Level 0]: 'WIR' has left the game
+[2021-04-18 14:27:26]: Shiro. [404, Level 43]: cyberFighter: u killed 2 person gg
+[2021-04-18 14:27:26]: ***  [, Level 0]: 'El Monkey' entered and joined the game
