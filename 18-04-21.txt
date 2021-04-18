@@ -2305,3 +2305,5 @@
 [2021-04-18 03:10:27]: ***  [, Level 0]: 'QON QON' joined the game
 [2021-04-18 03:10:33]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
 [2021-04-18 03:10:35]: any [404, Level 38]: ♥TAKO♥: l2p
+[2021-04-18 03:10:49]: satou [, Level 7]: help nico btw
+[2021-04-18 03:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
