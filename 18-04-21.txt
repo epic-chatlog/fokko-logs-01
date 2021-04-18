@@ -3655,3 +3655,6 @@
 [2021-04-18 04:20:03]: ***  [, Level 0]: 'nameless :(' has left the game
 [2021-04-18 04:20:06]: power2 [TrRShClNrRs, Level 0]: mamikral011: xD
 [2021-04-18 04:20:07]: ***  [, Level 0]: 'IwillBlockYou' joined the spectators
+[2021-04-18 04:20:19]: ***  [, Level 0]: [D] satou is on a killing spree with 5 blocks
+[2021-04-18 04:20:22]: [D] satou [, Level 0]: laga bak
+[2021-04-18 04:20:25]:   [, Level 0]: [D] El patron: |HolyHo|:
