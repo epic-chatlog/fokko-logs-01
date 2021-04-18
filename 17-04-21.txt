@@ -14700,3 +14700,5 @@
 [2021-04-17 23:05:38]: Noxl [.bad, Level 48]: Nudelsaft c:: ^_*
 [2021-04-17 23:05:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-17 23:10:42]: ***  [, Level 0]: 'Swarfey' has left the game
+[2021-04-17 23:10:44]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-17 23:10:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
