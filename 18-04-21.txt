@@ -2629,3 +2629,6 @@
 [2021-04-18 03:29:22]: Raidon [, Level 24]: SanoreX: bende yaparım
 [2021-04-18 03:29:27]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-18 03:29:29]: SanoreX [Chilli.*, Level 27]: yap hadi
+[2021-04-18 03:29:31]: ***  [, Level 0]: 'Van DarkMiller' entered and joined the game
+[2021-04-18 03:29:32]: Intensiv_ [CrazyNoobs, Level 10]: Raidon: pilotta 1 saaatte 1 tl alıyorsunuz .D
+[2021-04-18 03:29:35]: ***  [, Level 0]: 'Gizta Momzastib' has left the game (Too weak connection (not acked for 60 seconds))
