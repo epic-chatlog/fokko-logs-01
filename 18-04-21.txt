@@ -10542,3 +10542,5 @@
 [2021-04-18 09:18:18]: keepertrain._. [, Level 30]: Cylox: sorry bro u fight with my old clan
 [2021-04-18 09:18:23]: Taip [VergleriSay, Level 0]: git
 [2021-04-18 09:18:32]: Cylox. [{TQuila}, Level 24]: ERROR:
+[2021-04-18 09:18:38]: ***  [, Level 0]: 'вован' entered and joined the game
+[2021-04-18 09:18:40]: Cylox. [{TQuila}, Level 24]: ERROR: NICE AFK
