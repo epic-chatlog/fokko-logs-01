@@ -20512,3 +20512,5 @@
 [2021-04-18 16:41:50]: Shiro. [404, Level 43]: JEOKE
 [2021-04-18 16:41:50]: ***  [, Level 0]: 'Shiro.' has left the game
 [2021-04-18 16:41:53]: ERROR. [404, Level 57]: xDDDDDDDDDD
+[2021-04-18 16:41:58]: Black [, Level 0]: social distance Soft
+[2021-04-18 16:42:02]: Zephir™ [404, Level 40]: ERROR: im a pro
