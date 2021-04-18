@@ -14280,3 +14280,6 @@
 [2021-04-17 19:18:06]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
 [2021-04-17 19:18:17]: (1)☺ [, Level 0]: lag
 [2021-04-17 19:18:17]: im sorry... [, Level 0]: flappy: ...
+[2021-04-17 19:18:19]: ***  [, Level 0]: '(1)S Y T H N' entered and joined the game
+[2021-04-17 19:18:22]: ***  [, Level 0]: '(1)S Y T H N' has left the game
+[2021-04-17 19:18:23]: (1)☺ [, Level 0]: omg i lag
