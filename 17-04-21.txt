@@ -14537,3 +14537,6 @@
 [2021-04-17 21:31:16]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-17 21:31:33]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-17 21:31:53]: Noxl [.bad, Level 48]: Swarfey: kill ♥TAKO♥
+[2021-04-17 21:32:02]: Swarfey [FookinLads, Level 0]: i cant
+[2021-04-17 21:32:05]: Noxl [.bad, Level 48]: why
+[2021-04-17 21:32:08]: Swarfey [FookinLads, Level 0]: fokko fixxed portal through lasers
