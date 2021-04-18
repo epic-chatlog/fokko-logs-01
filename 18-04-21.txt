@@ -19638,3 +19638,4 @@
 [2021-04-18 15:25:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-18 15:25:52]: |MıssOяchiĐ| [, Level 48]: LGBT+ General: t'as pris ma moni?
 [2021-04-18 15:25:58]: weqe [669, Level 13]: LGBT General: im very upset
+[2021-04-18 15:26:11]: |MıssOяchiĐ| [, Level 48]: ERROR: its you who take my moni
