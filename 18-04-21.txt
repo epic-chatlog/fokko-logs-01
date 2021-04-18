@@ -9972,3 +9972,7 @@
 [2021-04-18 08:51:25]: Arktict [, Level 31]: shy: autistic
 [2021-04-18 08:51:27]: Nagisa [H] [E8, Level 0]: bunla oldum
 [2021-04-18 08:51:31]: Taip [VergleriSay, Level 19]: bu main?
+[2021-04-18 08:51:34]: Nagisa [H] [E8, Level 0]: ayn
+[2021-04-18 08:51:36]: ***  [, Level 0]: 'soleri1' left the minigame 'Block'
+[2021-04-18 08:51:42]: ***  [, Level 0]: Chillingo's killing spree was ended by Pro Dan (32 blocks)
+[2021-04-18 08:51:45]: Taip [VergleriSay, Level 19]: dummy le oynamasana
