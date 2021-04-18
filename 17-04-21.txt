@@ -13585,3 +13585,4 @@
 [2021-04-17 17:42:48]: BLACK [, Level 23]: ok @
 [2021-04-17 17:42:50]: BLACK [, Level 23]: !
 [2021-04-17 17:43:34]: ***  [, Level 0]: 'woona' entered and joined the game
+[2021-04-17 17:43:45]: El Monkey [Retard MNKY, Level 16]: drop jp
