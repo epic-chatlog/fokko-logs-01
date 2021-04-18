@@ -402,3 +402,7 @@
 [2021-04-18 00:56:34]: Random Guy [, Level 40]: REEEEEEEE
 [2021-04-18 00:56:34]: ***  [, Level 0]: Ðeathscyth finished in: 4 minute(s) 25.30 second(s)
 [2021-04-18 00:56:34]: ***  [, Level 0]: 'Ðeathscyth' finished the special race!
+[2021-04-18 00:56:37]: Random Guy [, Level 40]: COMEEEEEEE
+[2021-04-18 00:56:37]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-18 00:56:41]: Random Guy [, Level 40]: COMEEEEEEE
+[2021-04-18 00:56:42]: ***  [, Level 0]: 'test' has left the game
