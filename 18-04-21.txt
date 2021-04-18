@@ -3854,3 +3854,6 @@
 [2021-04-18 04:29:36]:   [, Level 0]: ChillerDragon.*: [D] JustRace: i had the vague idea of 16jumps max but all not sure yet
 [2021-04-18 04:29:39]: SanoreX [Chilli.*, Level 27]: satou: biraz spookyghost at ona laga girsi
 [2021-04-18 04:29:45]: ***  [, Level 0]: '[D] BC|Tixnix' finished the special race!
+[2021-04-18 04:29:52]: SanoreX [Chilli.*, Level 27]: satou: biraz spookyghost at ona laga girsin
+[2021-04-18 04:29:52]: ***  [, Level 0]: 'BC|Tixnix' finished the special race!
+[2021-04-18 04:30:02]: ChillerDragon [Chilli.*, Level 45]: u should become one too JustRace
