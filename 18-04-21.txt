@@ -20528,3 +20528,7 @@
 [2021-04-18 16:44:48]: ***  [, Level 0]: 'cunt' has left the game
 [2021-04-18 16:44:58]: Black [, Level 0]: 1 jumps
 [2021-04-18 16:45:28]: Black [, Level 0]: xD
+[2021-04-18 16:45:31]: Black [, Level 0]: RQ2
+[2021-04-18 16:45:33]: Black [, Level 0]: RQ BYE
+[2021-04-18 16:45:35]: ***  [, Level 0]: 'Black' has left the game
+[2021-04-18 16:45:38]: Kenshi™ [404, Level 0]: xD
