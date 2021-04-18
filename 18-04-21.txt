@@ -3775,3 +3775,11 @@
 [2021-04-18 04:26:37]: SanoreX [Chilli.*, Level 27]: Raidon: bak olm orucu karıştırma oyuna oyun bu sus
 [2021-04-18 04:26:40]: ***  [, Level 0]: [D] BC|serwan finished in: 2 minute(s)  7.20 second(s)
 [2021-04-18 04:26:44]: Raidon's Pet [, Level 20]: satou: noldu ya hadi söyle
+[2021-04-18 04:26:46]: ***  [, Level 0]: 'koro' has left the game (Timeout)
+[2021-04-18 04:26:47]: Raidon's Pet [, Level 20]: satou: utanma
+[2021-04-18 04:26:48]:   [, Level 0]: [D] El patron: |HolyHo|:  fun or war
+[2021-04-18 04:26:53]: SanoreX [Chilli.*, Level 27]: satou: birazdan killeriz
+[2021-04-18 04:26:53]: Raidon's Pet [, Level 20]: satou: ben biliyorum niye söylemediğini
+[2021-04-18 04:26:54]:   [, Level 0]: |HolyHo|: El patron: war
+[2021-04-18 04:26:54]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 32.74 second(s)
+[2021-04-18 04:26:57]: ***  [, Level 0]: [D] BC|Tixnix finished in: 9 minute(s)  3.58 second(s)
