@@ -5450,3 +5450,8 @@
 [2021-04-18 05:35:06]: JustRace [DogParty, Level 0]: GReeeN:  stop block each other
 [2021-04-18 05:35:08]: ***  [, Level 0]: Soros is on a killing spree with 5 blocks
 [2021-04-18 05:35:10]: GReeeN [, Level 0]: JustRace:  dong go trator
+[2021-04-18 05:35:15]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 26.26 second(s)
+[2021-04-18 05:35:15]: ***  [, Level 0]: New record:  4.20 second(s) better.
+[2021-04-18 05:35:17]: ***  [, Level 0]: Soros is on a killing spree with 10 blocks
+[2021-04-18 05:35:17]: GReeeN [, Level 0]: JustRace:  dont do it
+[2021-04-18 05:35:23]: ***  [, Level 0]: 'Shiro.' entered and joined the game
