@@ -554,3 +554,6 @@
 [2021-04-18 01:15:13]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
 [2021-04-18 01:15:19]: Raidon's Pet [, Level 20]: wait SanoreX
 [2021-04-18 01:15:19]: (1)SanoreX [Chilli.*, Level 0]: ERROR: spec me
+[2021-04-18 01:15:25]: (1)SanoreX [Chilli.*, Level 0]: ERROR: spec me look plot bug
+[2021-04-18 01:15:26]: Raidon's Pet [, Level 20]: toine: idk your lang
+[2021-04-18 01:15:30]: ***  [, Level 0]: 'pandaSindCool' has left the game
