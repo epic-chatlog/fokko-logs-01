@@ -7219,3 +7219,4 @@
 [2021-04-18 07:05:17]:   [, Level 0]: [D] El patron: |HolyHo|: wit
 [2021-04-18 07:05:20]:   [, Level 0]: [D] El patron: wait
 [2021-04-18 07:05:22]:   [, Level 0]: woona: K!ked: joke
+[2021-04-18 07:05:33]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
