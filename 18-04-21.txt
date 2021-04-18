@@ -17219,3 +17219,6 @@
 [2021-04-18 13:17:07]: Axandos [, Level 26]: ez
 [2021-04-18 13:17:11]: Kirito [{TQuila}, Level 41]: sry  bob
 [2021-04-18 13:17:16]: bob [, Level 36]: wieso sorry
+[2021-04-18 13:17:34]: Noémi [Queen , Level 40]: xd
+[2021-04-18 13:17:37]: ERROR. [404, Level 57]: xD
+[2021-04-18 13:17:43]: ***  [, Level 0]: ERROR. is on a killing spree with 5 blocks
