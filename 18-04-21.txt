@@ -433,3 +433,5 @@
 [2021-04-18 00:59:51]: ***  [, Level 0]: 'Honey Cat' entered and joined the game
 [2021-04-18 00:59:52]: ***  [, Level 0]: 'Kiøn1029' has left the game
 [2021-04-18 00:59:52]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 01:00:20]: ***  [, Level 0]: '(1)Bluebell Cat' has left the game
+[2021-04-18 01:00:22]: ***  [, Level 0]: 'Bluebell Cat' entered and joined the game
