@@ -13906,3 +13906,5 @@
 [2021-04-17 18:35:13]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-17 18:35:23]: S Y T H N [, Level 39]: Zephir™: let him leave alone
 [2021-04-17 18:35:24]: ♥TAKO♥ [DogParty, Level 25]: sad: happy
+[2021-04-17 18:35:31]: Zephir™ [404, Level 40]: S Y T H N: nope
+[2021-04-17 18:35:31]: sad [, Level 0]: wow
