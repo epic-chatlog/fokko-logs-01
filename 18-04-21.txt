@@ -17444,3 +17444,7 @@
 [2021-04-18 13:28:43]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-18 13:28:43]: weqe [669, Level 13]: IM DEAD RM | Arin ARE U RETARDED
 [2021-04-18 13:28:48]:   [, Level 0]: El Monkey: NO
+[2021-04-18 13:28:55]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-18 13:28:56]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-18 13:29:00]: ***  [, Level 0]: '(1)Kirito' has left the game
+[2021-04-18 13:29:00]: ***  [, Level 0]: 'Kirito' has left the game
