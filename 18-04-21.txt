@@ -4853,3 +4853,6 @@
 [2021-04-18 05:08:07]: ***  [, Level 0]: [D]Torento finished in: 2 minute(s) 50.84 second(s)
 [2021-04-18 05:08:07]: Matiteusz [TrRShClNrRs, Level 37]: Foxie♥: OHHH
 [2021-04-18 05:08:10]: ***  [, Level 0]: JustRace is on a killing spree with 10 blocks
+[2021-04-18 05:08:17]:   [, Level 0]: Foxie♥: Matiteusz: and?
+[2021-04-18 05:08:25]: ***  [, Level 0]: 'Raidon's Pet' has left the game
+[2021-04-18 05:08:25]: ***  [, Level 0]: 'Raidon' has left the game
