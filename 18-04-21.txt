@@ -886,3 +886,5 @@
 [2021-04-18 01:42:20]: ***  [, Level 0]: 'nameless tee' finished the special race!
 [2021-04-18 01:42:24]: nameless tee [, Level 0]: another finish
 [2021-04-18 01:42:26]: any² [404, Level 0]: Raidon:
+[2021-04-18 01:42:51]: Honey Cat [Kittens!, Level 0]: I have -999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999 IQ
+[2021-04-18 01:42:53]: [D] Random Guy [, Level 0]: dude4
