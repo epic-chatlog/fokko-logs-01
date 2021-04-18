@@ -7172,3 +7172,4 @@
 [2021-04-18 07:02:11]: ***  [, Level 0]: '11111' has left the game
 [2021-04-18 07:02:15]:   [, Level 0]: el champeon: H0dƌƔ1: why the fuck
 [2021-04-18 07:02:20]: ***  [, Level 0]: '11111' entered and joined the game
+[2021-04-18 07:02:28]: (1)☺ [, Level 0]: i lag
