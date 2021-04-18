@@ -14240,3 +14240,5 @@
 [2021-04-17 19:12:36]: Zephir™ [404, Level 40]: franchement je suis soulé la
 [2021-04-17 19:12:37]: ☺ [, Level 26]: ah merci :(
 [2021-04-17 19:12:41]: ***  [, Level 0]: '☺' has left the game
+[2021-04-17 19:13:21]: ***  [, Level 0]: '☺' entered and joined the game
+[2021-04-17 19:13:26]: ☺ [, Level 0]: pk jai quitter moi
