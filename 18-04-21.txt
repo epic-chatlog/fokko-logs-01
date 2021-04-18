@@ -332,3 +332,5 @@
 [2021-04-18 00:48:01]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 00:48:04]: ***  [, Level 0]: 'Raidon's Pet' has left the game
 [2021-04-18 00:48:04]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 00:48:18]: Raidon [, Level 24]: ah wait xd
+[2021-04-18 00:48:19]: ***  [, Level 0]: 'Raidon's Pet' entered and joined the game
