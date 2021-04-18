@@ -6055,3 +6055,7 @@
 [2021-04-18 06:08:54]: mr dud [, Level 6]: Soros: ok.
 [2021-04-18 06:08:56]:   [, Level 0]: JustRace: sun.slow(x):  wait what?
 [2021-04-18 06:08:58]: ***  [, Level 0]: '[D]ϻɪɔʜɑʟ' finished the special race!
+[2021-04-18 06:09:06]: sun.slow(y) [FookinLads, Level 35]: JustRace: THATS FAKEEEEEE
+[2021-04-18 06:09:07]: ***  [, Level 0]: '11111' finished the special race!
+[2021-04-18 06:09:12]: ***  [, Level 0]: 'ϻɪɔʜɑʟ' finished the special race!
+[2021-04-18 06:09:14]: [D] JustRace [DogParty, Level 29]: sun.slow(z):  idk who's fake
