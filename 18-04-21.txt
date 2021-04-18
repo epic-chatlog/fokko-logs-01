@@ -11002,3 +11002,10 @@
 [2021-04-18 09:40:22]: ***  [, Level 0]: 'HEL' has left the game
 [2021-04-18 09:40:28]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
 [2021-04-18 09:40:29]: yair [, Level 36]: nice taser
+[2021-04-18 09:40:34]: ***  [, Level 0]: 'Outxe Solar' changed name to 'Test'
+[2021-04-18 09:40:34]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-18 09:40:38]: [D] El patron [FookinLads, Level 24]: Telefantastic: flag
+[2021-04-18 09:40:40]: Arktict [, Level 31]: GReeeN: why
+[2021-04-18 09:40:42]:   [, Level 0]: Telefantastic: i need it too
+[2021-04-18 09:40:43]: ***  [, Level 0]: '(1)lolpoep' has left the game
+[2021-04-18 09:40:45]: ***  [, Level 0]: 'S Y T H N' has left the game
