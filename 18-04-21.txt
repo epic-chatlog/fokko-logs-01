@@ -20567,3 +20567,4 @@
 [2021-04-18 16:54:15]: ***  [, Level 0]: 'Zephir™' has left the game
 [2021-04-18 16:54:47]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
 [2021-04-18 16:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-18 16:55:57]: ERROR' [404, Level 76]: Kirito:  ma ne frage am rande, wie alt bist du?
