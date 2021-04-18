@@ -7284,3 +7284,5 @@
 [2021-04-18 07:10:54]: ***  [, Level 0]: 'gg ise' entered and joined the game
 [2021-04-18 07:10:56]: ***  [, Level 0]: 'gg ise' has left the game
 [2021-04-18 07:10:59]:   [, Level 0]: ϟтiƒℓer: sun.slow(y): come
+[2021-04-18 07:11:05]:   [, Level 0]: (1)bite couille: TG
+[2021-04-18 07:11:06]: ***  [, Level 0]: ϟтiƒℓer is on a killing spree with 5 blocks
