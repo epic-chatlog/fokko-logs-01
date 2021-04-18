@@ -2455,3 +2455,7 @@
 [2021-04-18 03:20:37]: ♥TAKO♥ [DogParty, Level 25]: SanoreX:  öldüm nasıl alcaklar specle
 [2021-04-18 03:20:40]: Raidon [, Level 24]: ok any
 [2021-04-18 03:20:43]: Bruh [, Level 0]: how to respawn
+[2021-04-18 03:20:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-18 03:20:51]: ***  [, Level 0]: 'Gizta Momzastib' has left the game (Timeout)
+[2021-04-18 03:20:57]: ***  [, Level 0]: 'Misa Gobastig' has left the game (Timeout)
+[2021-04-18 03:20:57]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
