@@ -11096,3 +11096,7 @@
 [2021-04-18 09:45:34]: [D] Amirian [bad., Level 23]: any: ?
 [2021-04-18 09:45:38]: Sayme [, Level 0]: sL|KeBu28: wow
 [2021-04-18 09:45:40]: [D] Amirian [bad., Level 23]: any: ?
+[2021-04-18 09:45:45]: Sayme [, Level 0]: sL|KeBu28: thx!))))
+[2021-04-18 09:45:46]: ***  [, Level 0]: 'daffy 0iq' entered and joined the game
+[2021-04-18 09:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-18 09:45:50]: rexi [, Level 0]: rip
