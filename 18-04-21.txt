@@ -9824,3 +9824,10 @@
 [2021-04-18 08:45:55]: ***  [, Level 0]: '(1)any' has left the game
 [2021-04-18 08:45:58]: ***  [, Level 0]: 'any' entered and joined the game
 [2021-04-18 08:45:58]: ***  [, Level 0]: [D] El patron is on a killing spree with 10 blocks
+[2021-04-18 08:46:04]: woona cameraman [, Level 48]: GReeeN: what ne
+[2021-04-18 08:46:04]: SanoreX [Chilli.*, Level 27]: ateş etme le
+[2021-04-18 08:46:07]: SanoreX [Chilli.*, Level 27]: ateş etme len
+[2021-04-18 08:46:10]: GReeeN [, Level 41]: woona cameraman:  german nein
+[2021-04-18 08:46:10]: ***  [, Level 0]: 'onsikec' has left the game
+[2021-04-18 08:46:12]: ***  [, Level 0]: Nagisa [H] is on a killing spree with 10 blocks
+[2021-04-18 08:46:13]: Amirian [bad., Level 29]: any: sry
