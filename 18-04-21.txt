@@ -1236,3 +1236,9 @@
 [2021-04-18 02:06:39]: Cylox. [{TQuila}, Level 0]: tm
 [2021-04-18 02:06:40]: Raidon's Pet [, Level 20]: sal
 [2021-04-18 02:06:41]: Raidon's Pet [, Level 20]: !!
+[2021-04-18 02:06:49]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 02:06:51]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 02:06:52]: ***  [, Level 0]: mamikral011 finished in: 1 minute(s) 27.72 second(s)
+[2021-04-18 02:06:52]: ***  [, Level 0]: New record: 1 minute(s) 33.50 second(s) better.
+[2021-04-18 02:06:54]:   [, Level 0]: Cylox.: Raidon: kımsın sn yaram
+[2021-04-18 02:06:58]: ***  [, Level 0]: 'Javz' joined the spectators
