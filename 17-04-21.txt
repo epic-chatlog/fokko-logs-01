@@ -14744,3 +14744,4 @@
 [2021-04-17 23:39:25]: ***  [, Level 0]: '(1)Intensiv' entered and joined the game
 [2021-04-17 23:40:07]: (1)Intensiv [CrazyNoobs, Level 0]: help
 [2021-04-17 23:40:11]: (1)Intensiv [CrazyNoobs, Level 0]: help es
+[2021-04-17 23:40:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
