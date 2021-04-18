@@ -269,3 +269,6 @@
 [2021-04-18 00:43:43]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 00:43:45]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
 [2021-04-18 00:43:51]: Noémi [helper, Level 0]: Boti.: nem hiszem -_-
+[2021-04-18 00:44:06]: Boti. [.bad, Level 33]: mind ketten ki lettek baszva ugyanazzal az indokkal egyszerre
+[2021-04-18 00:44:10]: Raidon's Pet [, Level 20]: ;dummy_control 0
+[2021-04-18 00:44:14]: Boti. [.bad, Level 33]: 1 router
