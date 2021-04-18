@@ -7267,3 +7267,6 @@
 [2021-04-18 07:09:16]: artur xyz br [os brs, Level 0]: sorry
 [2021-04-18 07:09:19]: mr dud [, Level 6]: noooo
 [2021-04-18 07:09:30]: GReeeN [, Level 0]: ~DemoizL~:
+[2021-04-18 07:09:43]: ***  [, Level 0]: -:-|ML finished in: 2 minute(s) 32.94 second(s)
+[2021-04-18 07:09:43]: ***  [, Level 0]: [D] -:-|ML finished in: 2 minute(s) 21.38 second(s)
+[2021-04-18 07:09:47]: ***  [, Level 0]: 'Bl3fast' would have timed out, but can use timeout protection now
