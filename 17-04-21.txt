@@ -13530,3 +13530,4 @@
 [2021-04-17 17:30:45]: [D] taco bell [, Level 8]: return?
 [2021-04-17 17:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-17 17:31:12]: (1)☺ [, Level 0]: Zephir™: on reprend la police alors et comment jaurais gagner si je bug a mort
+[2021-04-17 17:31:30]: ☺ [, Level 26]: on aurais suremenrt perdu la police
