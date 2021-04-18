@@ -406,3 +406,5 @@
 [2021-04-18 00:56:37]: ***  [, Level 0]: 'test' entered and joined the game
 [2021-04-18 00:56:41]: Random Guy [, Level 40]: COMEEEEEEE
 [2021-04-18 00:56:42]: ***  [, Level 0]: 'test' has left the game
+[2021-04-18 00:57:05]: ***  [, Level 0]: 'Bluebell Cat' entered and joined the game
+[2021-04-18 00:57:11]: ***  [, Level 0]: 'pandaSindCool' joined the game
