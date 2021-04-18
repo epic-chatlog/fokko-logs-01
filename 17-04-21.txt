@@ -13473,3 +13473,6 @@
 [2021-04-17 17:20:43]: ☺ [, Level 26]: jallais recommencer a le block Zephir™ *
 [2021-04-17 17:20:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-17 17:21:21]: Zephir™ [404, Level 40]: tu aurais pu sauver mon second compte bloquer mais au lieu de sa t'es rester sur ta farm et ils ont pris la police, je t'aide plus
+[2021-04-17 17:21:43]: ***  [, Level 0]: 'Tixnix' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-17 17:21:45]: ***  [, Level 0]: '[D] BULLETBOT' has left the game
+[2021-04-17 17:21:45]: ***  [, Level 0]: 'BULLETBOT' has left the game
