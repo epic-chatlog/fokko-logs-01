@@ -1904,3 +1904,5 @@
 [2021-04-18 02:45:24]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-18 02:45:30]: ***  [, Level 0]: 'toine' has left the game
 [2021-04-18 02:45:38]: vollesprit [, Level 1]: i am with your dummy
+[2021-04-18 02:45:50]: any² [404, Level 42]: ♥TAKO♥: wtf is wrong with u
+[2021-04-18 02:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
