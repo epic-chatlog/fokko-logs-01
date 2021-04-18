@@ -10241,3 +10241,6 @@
 [2021-04-18 09:04:14]: satou [, Level 7]: açtm
 [2021-04-18 09:04:15]: ***  [, Level 0]: 'ZEWO' has left the game
 [2021-04-18 09:04:15]: ***  [, Level 0]: '(1)ZEWO' has left the game
+[2021-04-18 09:04:17]: [D] El patron [FookinLads, Level 24]: GReeeN:  du must ihn spiken
+[2021-04-18 09:04:21]: GReeeN [, Level 41]: El patron:  wen
+[2021-04-18 09:04:22]: Arktict [, Level 31]: GReeeN: right plz
