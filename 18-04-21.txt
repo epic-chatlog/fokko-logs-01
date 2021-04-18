@@ -19898,3 +19898,6 @@
 [2021-04-18 15:48:57]: ERROR [404, Level 76]: xD
 [2021-04-18 15:49:03]: Zephir™ [404, Level 40]: woona: xD plz
 [2021-04-18 15:49:06]: |ΛnץOиe| [, Level 0]: Zephir™: raboule la moni
+[2021-04-18 15:49:10]: Orwined [, Level 0]: sa
+[2021-04-18 15:49:15]: woona [, Level 48]: xd
+[2021-04-18 15:49:19]: ***  [, Level 0]: 'BangTheWinner' entered and joined the game
