@@ -10545,3 +10545,6 @@
 [2021-04-18 09:18:38]: ***  [, Level 0]: 'вован' entered and joined the game
 [2021-04-18 09:18:40]: Cylox. [{TQuila}, Level 24]: ERROR: NICE AFK
 [2021-04-18 09:18:45]: Zephir™ [404, Level 40]: Cylox: idc u are my ennemi now and u are the ennemi of all 404
+[2021-04-18 09:19:00]: Zephir™ [404, Level 40]: Cylox: because u help bob and weqe
+[2021-04-18 09:19:02]: ***  [, Level 0]: 'вован' has left the game
+[2021-04-18 09:19:07]: (1)☺ [, Level 23]: Zephir™: comment
