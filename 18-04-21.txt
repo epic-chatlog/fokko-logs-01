@@ -6545,3 +6545,5 @@
 [2021-04-18 06:34:39]: ***  [, Level 0]: 'wha' entered and joined the game
 [2021-04-18 06:34:41]:   [, Level 0]: mr dud: xd
 [2021-04-18 06:34:43]: Foxie♥ [{TQuila}, Level 36]: Matiteusz: <
+[2021-04-18 06:34:46]: Foxie♥ [{TQuila}, Level 36]: Kirito: <
+[2021-04-18 06:34:53]: ***  [, Level 0]: 'MaDaRa' has left the game
