@@ -8514,3 +8514,5 @@
 [2021-04-18 08:05:34]: soleri1 [, Level 23]: Axandos²: no war
 [2021-04-18 08:05:38]: woona [, Level 48]: Axandos:
 [2021-04-18 08:05:39]:   [, Level 0]: oyun kralı: evet
+[2021-04-18 08:05:43]: ***  [, Level 0]: '(1)Honey Cat' entered and joined the game
+[2021-04-18 08:05:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
