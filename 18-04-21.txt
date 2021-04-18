@@ -2655,3 +2655,8 @@
 [2021-04-18 03:30:38]: ***  [, Level 0]: 'Rrrr' entered and joined the game
 [2021-04-18 03:30:39]: SanoreX [Chilli.*, Level 27]: tak
 [2021-04-18 03:30:41]: |MıssOяchiĐ| [, Level 48]: Mista bombastic: AGAIN?
+[2021-04-18 03:30:43]: Raidon [, Level 24]: any: xddddddd
+[2021-04-18 03:30:45]: ***  [, Level 0]: Ðeathscyth is on a killing spree with 5 blocks
+[2021-04-18 03:30:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-18 03:30:52]: ***  [, Level 0]: 'ork' has left the game
+[2021-04-18 03:30:52]: ***  [, Level 0]: Ðeathscyth's killing spree was ended by any (5 blocks)
