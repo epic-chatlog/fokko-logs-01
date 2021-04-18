@@ -8650,3 +8650,8 @@
 [2021-04-18 08:11:45]: ***  [, Level 0]: 'SanoreX' has left the game
 [2021-04-18 08:11:45]: ***  [, Level 0]: 'klas 2' has left the game
 [2021-04-18 08:11:45]: ***  [, Level 0]: 'klas' has left the game
+[2021-04-18 08:11:50]: ***  [, Level 0]: 'SanoreX' entered and joined the game
+[2021-04-18 08:11:53]: [D]ϻɪɔʜɑʟ [Chilli.*, Level 20]: Axandos:
+[2021-04-18 08:11:55]: ***  [, Level 0]: '(1)Good man' has left the game
+[2021-04-18 08:11:55]: ggrevez [JB.st, Level 0]: а нахуя они мне
+[2021-04-18 08:11:56]: Zam [.bad, Level 30]: cHurch: Сложновато..
