@@ -68,3 +68,4 @@
 [2021-04-18 00:18:32]: ***  [, Level 0]: BitchPlease Jr. finished in: 3 minute(s) 32.92 second(s)
 [2021-04-18 00:18:37]: ***  [, Level 0]: 'Ikolonor' entered and joined the game
 [2021-04-18 00:19:32]: ZEWO dummy [, Level 0]: (1)ES:
+[2021-04-18 00:19:42]: ***  [, Level 0]: 'Scooter5561' has left the game
