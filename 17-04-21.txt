@@ -14563,3 +14563,4 @@
 [2021-04-17 22:02:56]: ***  [, Level 0]: 'Good man' finished the special race!
 [2021-04-17 22:03:05]: ***  [, Level 0]: 'Coca' finished the special race!
 [2021-04-17 22:03:51]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-17 22:03:58]: ***  [, Level 0]: 'Jerry' entered and joined the game
