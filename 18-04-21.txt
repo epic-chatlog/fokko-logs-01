@@ -3146,3 +3146,6 @@
 [2021-04-18 03:55:21]: [D] satou [, Level 0]: Ðeathscyth
 [2021-04-18 03:55:24]: SanoreX [Chilli.*, Level 27]: ♥TAKO♥: ama bi özelliği var
 [2021-04-18 03:55:24]: mamikral011 [DogParty, Level 0]: ♥TAKO♥: sg
+[2021-04-18 03:55:37]: ***  [, Level 0]: 'Ðeathscyth' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-18 03:55:37]: mamikral011 [DogParty, Level 0]: ♥TAKO♥: ne la
+[2021-04-18 03:55:39]: [D] satou [, Level 0]: ah
