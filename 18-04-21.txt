@@ -1138,3 +1138,6 @@
 [2021-04-18 02:02:25]: ***  [, Level 0]: 'test' entered and joined the game
 [2021-04-18 02:02:25]: ***  [, Level 0]: 'test' has left the game
 [2021-04-18 02:02:27]: satou [, Level 7]: no
+[2021-04-18 02:02:36]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-18 02:02:36]: ***  [, Level 0]: 'test' has left the game
+[2021-04-18 02:02:43]: (1)Good man [Drunks, Level 18]: dont move
