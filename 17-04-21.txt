@@ -13718,3 +13718,5 @@
 [2021-04-17 18:05:00]: ***  [, Level 0]: 'Merkvr' entered and joined the game
 [2021-04-17 18:05:02]: woona [, Level 48]: open omg
 [2021-04-17 18:05:04]: ☺ [, Level 26]: en plus sa sert a quoi davoir un clan Zephir™
+[2021-04-17 18:05:10]: woona [, Level 48]: open ehre
+[2021-04-17 18:05:14]: ***  [, Level 0]: 'Merkvr' has left the game
