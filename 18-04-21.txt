@@ -12405,3 +12405,7 @@
 [2021-04-18 10:39:43]:   [, Level 0]: GODLIKe: Souly: u
 [2021-04-18 10:39:44]: Souly [, Level 61]: no u GODLIKe
 [2021-04-18 10:39:46]:   [, Level 0]: GODLIKe: Souly: u
+[2021-04-18 10:39:59]: ***  [, Level 0]: 'Telefantastic' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-18 10:40:00]:   [, Level 0]: Meetiteusz: (1)BLACK: fafa
+[2021-04-18 10:40:00]: Souly [, Level 61]: ChillerDragon: gayo
+[2021-04-18 10:40:05]:   [, Level 0]: (1)BLACK: Meetiteusz: nana
