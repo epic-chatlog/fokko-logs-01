@@ -11791,3 +11791,4 @@
 [2021-04-18 10:17:44]: ***  [, Level 0]: 'Hunter.exe' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-18 10:17:48]: Daffy 0iq [JB.st, Level 4]: друк-ты-нуп
 [2021-04-18 10:17:52]: ***  [, Level 0]: 'picasso' entered and joined the game
+[2021-04-18 10:17:54]: ReXi [, Level 0]: GReeeN: iCh WaRtE ImMeR NoCh aUf Dc man
