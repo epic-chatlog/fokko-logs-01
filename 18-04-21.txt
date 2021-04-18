@@ -133,3 +133,4 @@
 [2021-04-18 00:29:30]: ***  [, Level 0]: (1)BitchPlease J finished in: 3 minute(s) 24.86 second(s)
 [2021-04-18 00:29:35]: ***  [, Level 0]: (1)Hala Madrid finished in: 3 minute(s)  9.80 second(s)
 [2021-04-18 00:29:58]: ***  [, Level 0]: Chillingo is on a killing spree with 25 blocks
+[2021-04-18 00:30:10]: ***  [, Level 0]: 'Raidon' entered and joined the game
