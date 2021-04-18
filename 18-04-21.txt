@@ -10583,3 +10583,7 @@
 [2021-04-18 09:20:54]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-18 09:20:57]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-18 09:20:57]: (1)☺ [, Level 23]: Zephir™: alors tu me pardonne *
+[2021-04-18 09:21:01]: Zephir™ [404, Level 40]: (1)☺: jsp
+[2021-04-18 09:21:03]: keepertrain._. [, Level 30]: Kirito: flag
+[2021-04-18 09:21:06]: ***  [, Level 0]: 'Cammodude' has left the game
+[2021-04-18 09:21:10]: ***  [, Level 0]: Hala Madrid is on a killing spree with 5 blocks
