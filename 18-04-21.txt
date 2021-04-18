@@ -17624,3 +17624,5 @@
 [2021-04-18 13:39:19]: S Y T H N [, Level 37]: ERROR: du hast aber 4 portals gerrade gesetzt
 [2021-04-18 13:39:26]: ***  [, Level 0]: '~DemoizL~' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-18 13:39:26]: (1)☺ [, Level 23]: xd
+[2021-04-18 13:39:37]: ERROR. [404, Level 57]: alle 10 sekunden S Y T H N  waren es wohl dann^^
+[2021-04-18 13:39:41]: ***  [, Level 0]: 'Intensiv' has left the game
