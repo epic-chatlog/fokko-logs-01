@@ -1010,3 +1010,7 @@
 [2021-04-18 01:54:15]: Raidon's Pet [, Level 20]: Falco641: can phel me
 [2021-04-18 01:54:16]: Falco641 [.bad, Level 20]: Raidon: with?
 [2021-04-18 01:54:18]: Raidon's Pet [, Level 20]: Falco641: can help me
+[2021-04-18 01:54:24]: satou [, Level 7]: go go
+[2021-04-18 01:54:26]: [D] Random Guy [, Level 0]: SanoreX.*: xd
+[2021-04-18 01:54:29]: SanoreX [Chilli.*, Level 27]: Random Guy: ?
+[2021-04-18 01:54:30]: Raidon [, Level 24]: satou: war4life
