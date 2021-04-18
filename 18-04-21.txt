@@ -18547,3 +18547,6 @@
 [2021-04-18 14:28:03]: BULLETBOT [, Level 0]: Minato / FR: Shiro. is fucking around
 [2021-04-18 14:28:05]: Shiro. [404, Level 43]: HAPLHAPLAHPAHL
 [2021-04-18 14:28:07]: Shiro. [404, Level 43]: cyberFighter: CONTINUE
+[2021-04-18 14:28:23]: Shiro. [404, Level 43]: OMAGAD
+[2021-04-18 14:28:24]: Shiro. [404, Level 43]: cyberFighter: stop 2 sec
+[2021-04-18 14:28:28]: Shiro. [404, Level 43]: cyberFighter: go
