@@ -18720,3 +18720,5 @@
 [2021-04-18 14:35:36]: ***  [, Level 0]: 'RoboBot' entered and joined the game
 [2021-04-18 14:35:36]: Black [, Level 26]: nah
 [2021-04-18 14:35:39]: Ļåҕ Lobster [Ļåҕ, Level 34]: AbdoZX17: the sweety
+[2021-04-18 14:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-18 14:35:52]: cyberFighter [Fighter's, Level 0]: Shiro.: Are u winning son?
