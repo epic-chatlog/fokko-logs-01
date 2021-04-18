@@ -3953,3 +3953,5 @@
 [2021-04-18 04:33:52]:   [, Level 0]: Foxie♥: go
 [2021-04-18 04:33:53]:   [, Level 0]: ChillerDragon.*: blocker JustRace
 [2021-04-18 04:33:54]: ***  [, Level 0]: [D] JustRace is on a killing spree with 5 blocks
+[2021-04-18 04:34:00]: ***  [, Level 0]: 'nenny' entered and joined the game
+[2021-04-18 04:34:03]: Raidon's Pet [, Level 20]: hi ChillerDragon
