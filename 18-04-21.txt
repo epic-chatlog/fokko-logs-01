@@ -9998,3 +9998,8 @@
 [2021-04-18 08:52:26]: Taip [VergleriSay, Level 19]: vurmim
 [2021-04-18 08:52:30]: Taip [VergleriSay, Level 19]: hapse gdersnü
 [2021-04-18 08:52:32]: ***  [, Level 0]: 'Solar' left the minigame 'Block'
+[2021-04-18 08:52:37]: Taip [VergleriSay, Level 19]: bekle
+[2021-04-18 08:52:37]: ***  [, Level 0]: 'Amirian' has left the game
+[2021-04-18 08:52:39]: Nagisa [H] [E8, Level 0]: ziyarete gelirsin
+[2021-04-18 08:52:41]: ***  [, Level 0]: 'Hala Madrid' entered and joined the game
+[2021-04-18 08:52:46]: ***  [, Level 0]: '[D] satou' has left the game
