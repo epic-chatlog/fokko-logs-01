@@ -197,3 +197,10 @@
 [2021-04-18 00:39:53]: Ðeathscyth [, Level 3]: ZEWO's Pet: help
 [2021-04-18 00:39:53]: Raidon [, Level 24]: ;dummy_control 1
 [2021-04-18 00:39:56]: ***  [, Level 0]: 'SanoreX' entered and joined the game
+[2021-04-18 00:39:58]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-18 00:39:59]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-18 00:40:02]: Raidon's Pet [, Level 20]: Tom: can u hlep me
+[2021-04-18 00:40:05]: Raidon's Pet [, Level 20]: Tom: can u help me
+[2021-04-18 00:40:06]: ZEWO's Pet [, Level 0]: Boti.: I am Turkish, write to me from the translation in Turkish
+[2021-04-18 00:40:06]: SanoreX [Chilli.*, Level 27]: Cylox: aynı anda girdik la
+[2021-04-18 00:40:09]: ZEWO's Pet [, Level 0]: Boti.: I am Turkish, write to me from the translation in Turkish
