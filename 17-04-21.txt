@@ -13569,3 +13569,4 @@
 [2021-04-17 17:38:07]: ***  [, Level 0]: 'BC|serwan' has left the game
 [2021-04-17 17:38:11]: ***  [, Level 0]: '(1)[D] BC|serwan' has left the game
 [2021-04-17 17:38:11]: ***  [, Level 0]: '(1)BC|serwan' has left the game
+[2021-04-17 17:38:42]: Kirito [{TQuila}, Level 40]: ez
