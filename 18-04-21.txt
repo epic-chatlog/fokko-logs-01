@@ -33,3 +33,5 @@
 [2021-04-18 00:10:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-18 00:10:56]: sylbot (0) [, Level 0]: ES: ım zewo
 [2021-04-18 00:11:05]: sylbot (0) [, Level 0]: ES: ım zewo  troll
+[2021-04-18 00:11:18]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-18 00:11:24]: sylbot (0) [, Level 0]: ES:
