@@ -1979,3 +1979,7 @@
 [2021-04-18 02:50:03]: SanoreX [Chilli.*, Level 27]: I can edit
 [2021-04-18 02:50:04]: SanoreX [Chilli.*, Level 27]: oohh
 [2021-04-18 02:50:26]: ***  [, Level 0]: '[D] satou' has left the game
+[2021-04-18 02:50:45]: any² [404, Level 42]: SanoreX: ok
+[2021-04-18 02:50:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-18 02:50:53]: ***  [, Level 0]: 'sL|Gabsty' has left the game
+[2021-04-18 02:50:53]: ***  [, Level 0]: 'allBlocker' has left the game
