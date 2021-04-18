@@ -14773,3 +14773,5 @@
 [2021-04-17 23:55:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-17 23:55:52]: ZEWO dummy [, Level 0]: (1)Intensiv___: help
 [2021-04-17 23:55:57]: (1)Intensiv___ [CrazyNoobs, Level 0]: ?
+[2021-04-17 23:56:07]: (1)Intensiv___ [CrazyNoobs, Level 0]: kill?
+[2021-04-17 23:56:12]: ZEWO dummy [, Level 0]: no
