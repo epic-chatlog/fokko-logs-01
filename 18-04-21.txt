@@ -8336,3 +8336,7 @@
 [2021-04-18 07:58:52]: cHurch [HUITA, Level 47]: ups blet
 [2021-04-18 07:58:55]: ***  [, Level 0]: 'Nagisa [H]' entered and joined the game
 [2021-04-18 07:58:55]: SanoreX [Chilli.*, Level 27]: |HolyHo|: bad
+[2021-04-18 07:59:06]: oyun kralı [, Level 18]: (1)o:  HELP 5 JUMP PLS
+[2021-04-18 07:59:08]: ***  [, Level 0]: klas finished in: 4 minute(s) 24.86 second(s)
+[2021-04-18 07:59:11]: ***  [, Level 0]: 'ggrevez' entered and joined the game
+[2021-04-18 07:59:13]: oyun kralı [, Level 18]: (1)o:  HELP 5 JUMP PLS
