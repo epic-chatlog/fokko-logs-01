@@ -2196,3 +2196,6 @@
 [2021-04-18 03:02:20]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-18 03:02:30]: SanoreX [Chilli.*, Level 27]: ♥TAKO♥: gir bekle
 [2021-04-18 03:02:31]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
+[2021-04-18 03:02:32]: satou [, Level 7]: wat
+[2021-04-18 03:02:39]: SanoreX [Chilli.*, Level 27]: ♥TAKO♥: d ye basılı tut havayı shotgunla
+[2021-04-18 03:02:39]: vollesprit [, Level 1]: shit
