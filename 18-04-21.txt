@@ -20540,3 +20540,5 @@
 [2021-04-18 16:46:08]: ERROR [404, Level 47]: OMMMMMG
 [2021-04-18 16:46:17]: Kenshi™ [404, Level 0]: ERROR: bad luck xD
 [2021-04-18 16:46:25]: ERROR [404, Level 47]: fucking game
+[2021-04-18 16:46:35]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
+[2021-04-18 16:46:39]: ***  [, Level 0]: '(1)ERROR.' entered and joined the game
