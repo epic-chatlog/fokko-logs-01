@@ -1076,3 +1076,7 @@
 [2021-04-18 01:58:09]: Honey Cat [Kittens!, Level 0]: ?
 [2021-04-18 01:58:13]: nameless tee [, Level 0]: I don't have time to with those folks
 [2021-04-18 01:58:30]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-18 01:58:38]: satou [, Level 7]: Honey Cat: kill
+[2021-04-18 01:58:43]: satou [, Level 7]: nameless tee: kill
+[2021-04-18 01:58:48]: Honey Cat [Kittens!, Level 0]: ?
+[2021-04-18 01:58:49]: ***  [, Level 0]: 'pandaSindCool' has left the game
