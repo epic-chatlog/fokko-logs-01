@@ -11313,3 +11313,6 @@
 [2021-04-18 09:57:30]: ***  [, Level 0]: '(1)Mista bombast' entered and joined the game
 [2021-04-18 09:57:30]: ***  [, Level 0]: 'random' entered and joined the game
 [2021-04-18 09:57:33]:   [, Level 0]: (1)Sayme: party time
+[2021-04-18 09:57:40]: (1)☺ [, Level 23]: XD
+[2021-04-18 09:57:43]: ***  [, Level 0]: '(1)Mista bombast' has left the game
+[2021-04-18 09:57:45]: ***  [, Level 0]: '(1)Mista bombast' entered and joined the game
