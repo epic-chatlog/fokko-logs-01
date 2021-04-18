@@ -10478,3 +10478,6 @@
 [2021-04-18 09:16:00]: [D] Amirian [bad., Level 23]: Zephir™: pls drop flag
 [2021-04-18 09:16:01]: ***  [, Level 0]: 'Nagisa [H]' has left the game
 [2021-04-18 09:16:04]: [D] Amirian [bad., Level 23]: Zephir™: pls drop flag
+[2021-04-18 09:16:07]: ***  [, Level 0]: 'jindra' entered and joined the game
+[2021-04-18 09:16:10]: Zephir™ [404, Level 40]: Amirian: nope
+[2021-04-18 09:16:17]: :D [E8, Level 0]: geöl
