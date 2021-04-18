@@ -17275,3 +17275,5 @@
 [2021-04-18 13:20:01]: ***  [, Level 0]: '(1)|HolyHo|°' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-18 13:20:02]: SoulyD [, Level 47]: come faster
 [2021-04-18 13:20:11]: WarHammer' [DogParty, Level 26]: [D] Nightmare:  U KRAL
+[2021-04-18 13:20:16]: Kirito [{TQuila}, Level 41]: RM | Arin: war4life
+[2021-04-18 13:20:17]: Nightmare [, Level 0]: WarHammer: wdym
