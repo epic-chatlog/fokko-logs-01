@@ -1151,3 +1151,9 @@
 [2021-04-18 02:03:05]: ***  [, Level 0]: 'Javz' entered and joined the game
 [2021-04-18 02:03:06]: mamikral011 [DogParty, Level 0]: sata
 [2021-04-18 02:03:06]: ***  [, Level 0]: 'Cylox.' entered and joined the game
+[2021-04-18 02:03:13]: Raidon's Pet [, Level 20]: spike
+[2021-04-18 02:03:14]: nameless tee [, Level 0]: wheres the endless jump
+[2021-04-18 02:03:14]: satou [, Level 7]: nameless tee: connect dummy
+[2021-04-18 02:03:18]: ***  [, Level 0]: 'PANZELKOWY' has left the game
+[2021-04-18 02:03:19]: nameless tee [, Level 0]: oh shit
+[2021-04-18 02:03:20]: any [404, Level 38]: SanoreX: war ?
