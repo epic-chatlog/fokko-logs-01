@@ -14469,3 +14469,4 @@
 [2021-04-17 20:30:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-17 20:32:23]: otaeri [otaericks, Level 0]: RTRRRTRTRTRTT
 [2021-04-17 20:35:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-17 20:40:32]: ***  [, Level 0]: 'otaeri' has left the game
