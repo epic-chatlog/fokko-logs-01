@@ -2701,3 +2701,7 @@
 [2021-04-18 03:32:56]: ***  [, Level 0]: [D] BC|serwan finished in: 20 minute(s) 21.82 second(s)
 [2021-04-18 03:32:56]: ***  [, Level 0]: '[D] BC|serwan' finished the special race!
 [2021-04-18 03:32:57]: |ΛnץOиe| [, Level 0]: Mista bombastic: u want
+[2021-04-18 03:32:58]: ***  [, Level 0]: mamikral011 finished in: 0 minute(s) 53.02 second(s)
+[2021-04-18 03:32:58]: ***  [, Level 0]: New record: 2 minute(s)  8.20 second(s) better.
+[2021-04-18 03:32:58]: Raidon [, Level 24]: any:
+[2021-04-18 03:33:03]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
