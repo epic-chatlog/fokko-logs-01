@@ -10901,3 +10901,4 @@
 [2021-04-18 09:34:34]:   [, Level 0]: .: (1): yea
 [2021-04-18 09:34:34]: Zephir™ [404, Level 40]: GReeeN: move
 [2021-04-18 09:34:40]: ***  [, Level 0]: ',' entered and joined the game
+[2021-04-18 09:34:46]: (1) [, Level 0]: Kenshi™: 1 de plus
