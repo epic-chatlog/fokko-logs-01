@@ -897,3 +897,7 @@
 [2021-04-18 01:43:27]: ***  [, Level 0]: 'Tom_y²²²' entered and joined the game
 [2021-04-18 01:43:32]: Raidon [, Level 24]: any²: get dummy
 [2021-04-18 01:43:44]: Raidon's Pet [, Level 20]: any:
+[2021-04-18 01:43:50]: ***  [, Level 0]: 'ulrich' entered and joined the game
+[2021-04-18 01:43:54]: SanoreX [Chilli.*, Level 27]: koro: wanna secret eyeemote bug?
+[2021-04-18 01:43:56]: ***  [, Level 0]: 'ulrich' has left the game
+[2021-04-18 01:43:56]: nameless tee [, Level 0]: damn
