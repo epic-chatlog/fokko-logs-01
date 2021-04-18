@@ -13526,3 +13526,6 @@
 [2021-04-17 17:30:33]: RM | Arin [Retard MNKY, Level 0]: I need
 [2021-04-17 17:30:35]: RM | Arin [Retard MNKY, Level 0]: just do
 [2021-04-17 17:30:37]: Zephir™ [404, Level 40]: ☺: je comptait sur toi et tu ma fait perdre la police, j'ai envie de te tuer mais je garde mon calme actuellement
+[2021-04-17 17:30:43]: ***  [, Level 0]: 'Levi' has left the game
+[2021-04-17 17:30:45]: [D] taco bell [, Level 8]: return?
+[2021-04-17 17:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
