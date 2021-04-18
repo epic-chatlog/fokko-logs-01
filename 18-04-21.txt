@@ -7293,3 +7293,6 @@
 [2021-04-18 07:11:38]: ***  [, Level 0]: 'Kezo' changed name to 'Intensiv_'
 [2021-04-18 07:11:44]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 5 blocks
 [2021-04-18 07:11:51]: ***  [, Level 0]: 'Dimon pokemon' entered and joined the game
+[2021-04-18 07:11:58]: ***  [, Level 0]: 'gg ise' entered and joined the game
+[2021-04-18 07:11:59]: ***  [, Level 0]: 'Dimon pokemon' has left the game
+[2021-04-18 07:12:02]: ***  [, Level 0]: 'd' entered and joined the game
