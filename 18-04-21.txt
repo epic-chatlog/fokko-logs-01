@@ -2952,3 +2952,6 @@
 [2021-04-18 03:47:18]: ***  [, Level 0]: |ΛnץOиe| finished in: 6 minute(s)  7.28 second(s)
 [2021-04-18 03:47:19]: ***  [, Level 0]: |MıssOяchiĐ| finished in: 3 minute(s)  0.14 second(s)
 [2021-04-18 03:47:19]: ***  [, Level 0]: New record: 2 minute(s)  5.64 second(s) better.
+[2021-04-18 03:47:26]: |HolyHo|° [FookinLads, Level 29]: Raidon: u start
+[2021-04-18 03:47:28]: Raidon [, Level 24]: |HolyHo|: 5
+[2021-04-18 03:47:31]: Raidon [, Level 24]: |HolyHo|: 4
