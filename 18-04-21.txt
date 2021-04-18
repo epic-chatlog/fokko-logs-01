@@ -80,3 +80,5 @@
 [2021-04-18 00:23:38]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
 [2021-04-18 00:23:48]: ***  [, Level 0]: '[D] Boti.' has left the game
 [2021-04-18 00:24:17]: ZEWO [, Level 0]: Boti.: open portal superrom
+[2021-04-18 00:24:24]: Boti. [.bad, Level 33]: i dont have
+[2021-04-18 00:24:33]: ZEWO [, Level 0]: of ok
