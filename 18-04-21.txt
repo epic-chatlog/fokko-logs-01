@@ -867,3 +867,5 @@
 [2021-04-18 01:40:03]: ***  [, Level 0]: 'мяу' entered and joined the game
 [2021-04-18 01:40:05]: any [404, Level 38]: Raidon: wdym ?
 [2021-04-18 01:40:05]: Raidon [, Level 24]: any: follow
+[2021-04-18 01:40:34]: nameless tee [, Level 0]: xD
+[2021-04-18 01:40:40]: satou [, Level 7]: I like turtles.
