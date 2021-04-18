@@ -13385,3 +13385,5 @@
 [2021-04-17 17:07:02]: Zephir™ [404, Level 40]: ☺: pas vue
 [2021-04-17 17:07:02]: ☺ [, Level 0]: BC|serwan:
 [2021-04-17 17:07:21]: ☺ [, Level 0]: non pas ca mais tu ma pas add for 404 moi xD
+[2021-04-17 17:07:37]: ☺ [, Level 0]: je bug
+[2021-04-17 17:07:40]: Zephir™ [404, Level 40]: add clan war = tt le clan te war
