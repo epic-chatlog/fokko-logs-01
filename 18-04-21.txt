@@ -5683,3 +5683,7 @@
 [2021-04-18 05:46:02]: ***  [, Level 0]: 'GReeeN' has left the game
 [2021-04-18 05:46:02]: ***  [, Level 0]: 'HardreenClutch' has left the game
 [2021-04-18 05:46:06]: Foxi♥ [{TQuila}, Level 0]: Meetiteusz:
+[2021-04-18 05:46:17]: ***  [, Level 0]: 'darkstar2' has left the game
+[2021-04-18 05:46:17]: ***  [, Level 0]: 'darkstar' has left the game
+[2021-04-18 05:46:22]: ***  [, Level 0]: 'darkstar4' has left the game
+[2021-04-18 05:46:22]: ***  [, Level 0]: 'darkstar3' has left the game
