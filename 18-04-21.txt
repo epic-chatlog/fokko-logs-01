@@ -2377,3 +2377,5 @@
 [2021-04-18 03:15:00]: ***  [, Level 0]: 'GOLD' has left the game
 [2021-04-18 03:15:00]: ***  [, Level 0]: 'YelloWorlD' has left the game
 [2021-04-18 03:15:02]: ***  [, Level 0]: 'QON QON' joined the game
+[2021-04-18 03:15:19]: |HolyHo|° [FookinLads, Level 29]: Mista bombastic: hellip
+[2021-04-18 03:15:26]: Raidon [, Level 24]: xd
