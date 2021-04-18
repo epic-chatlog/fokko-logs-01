@@ -16188,3 +16188,5 @@
 [2021-04-18 12:30:35]: ***  [, Level 0]: ':D' entered and joined the game
 [2021-04-18 12:30:35]: (1)☺ [, Level 23]: est
 [2021-04-18 12:30:42]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-18 12:30:45]: ***  [, Level 0]: 55. HardreenClutch Time: 00:30.80, requested by HardreenClutch
+[2021-04-18 12:30:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
