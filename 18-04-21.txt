@@ -1019,3 +1019,5 @@
 [2021-04-18 01:54:42]: Cylox [{TQuila}, Level 32]: Random Guy:
 [2021-04-18 01:54:46]: Raidon's Pet [, Level 20]: xd
 [2021-04-18 01:54:52]: Raidon's Pet [, Level 20]: follow Falco641
+[2021-04-18 01:54:56]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-18 01:55:03]: Falco642 [, Level 3]: Raidon: stop
