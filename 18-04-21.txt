@@ -41,3 +41,5 @@
 [2021-04-18 00:12:26]: Aoe [, Level 0]: ES: ım zewo
 [2021-04-18 00:12:51]: Aoe [, Level 0]: hello
 [2021-04-18 00:12:54]: Aoe [, Level 0]: ES: ım zewo
+[2021-04-18 00:13:11]: ZEWO dummy [, Level 0]: ES: ım zewo
+[2021-04-18 00:13:13]: Aoe [, Level 0]: ES: ım zewo
