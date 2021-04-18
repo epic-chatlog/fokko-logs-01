@@ -11298,3 +11298,8 @@
 [2021-04-18 09:56:23]: rexi [, Level 0]: und jz=
 [2021-04-18 09:56:24]: (1)Kirito [, Level 27]: Good man: up pls
 [2021-04-18 09:56:24]: rexi [, Level 0]: ?
+[2021-04-18 09:56:40]: ***  [, Level 0]: 'Telefantastic' would have timed out, but can use timeout protection now
+[2021-04-18 09:56:40]: ***  [, Level 0]: 'Mista bombastic' would have timed out, but can use timeout protection now
+[2021-04-18 09:56:41]: ***  [, Level 0]: 'Herocenkoprewek' has left the game
+[2021-04-18 09:56:42]: WarHammer' [DogParty, Level 0]: AM K
+[2021-04-18 09:56:43]: ***  [, Level 0]: 'Herocenkoprewek' entered and joined the game
