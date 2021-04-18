@@ -1082,3 +1082,4 @@
 [2021-04-18 01:58:49]: ***  [, Level 0]: 'pandaSindCool' has left the game
 [2021-04-18 01:58:51]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
 [2021-04-18 01:58:51]: satou [, Level 7]: ye
+[2021-04-18 01:59:08]: ***  [, Level 0]: '[D] mamikral011' has left the game
