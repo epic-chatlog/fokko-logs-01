@@ -216,3 +216,9 @@
 [2021-04-18 00:40:30]: Raidon's Pet [, Level 20]: police botu ya
 [2021-04-18 00:40:31]: ZEWO [, Level 0]: x
 [2021-04-18 00:40:33]: ZEWO [, Level 0]: Boti.: I am Turkish, write to me from the translation in Turkish
+[2021-04-18 00:40:35]: Kiøn1029 [.bad, Level 32]: stop
+[2021-04-18 00:40:36]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-18 00:40:37]: ***  [, Level 0]: 'test' has left the game
+[2021-04-18 00:40:37]: ZEWO [, Level 0]: Boti.: I am Turkish, write to me from the translation in Turkish
+[2021-04-18 00:40:38]: Boti. [.bad, Level 33]: STFU
+[2021-04-18 00:40:40]: Boti. [.bad, Level 33]: PLS
