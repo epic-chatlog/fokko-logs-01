@@ -10332,3 +10332,9 @@
 [2021-04-18 09:07:47]: [D] El patron [FookinLads, Level 24]: shy:  fight
 [2021-04-18 09:07:47]: Kirito [{TQuila}, Level 41]: Honey Cat:  stupid
 [2021-04-18 09:07:53]: ***  [, Level 0]: 'Amirian' entered and joined the game
+[2021-04-18 09:08:01]: keepertrain._. [, Level 30]: bruh
+[2021-04-18 09:08:02]: BC|Tixnix [BC, Level 35]: ChillerDragon.*: xD
+[2021-04-18 09:08:06]: Arktict [, Level 31]: Kenshi™: idiot i'm not strongh
+[2021-04-18 09:08:08]: Arktict [, Level 31]: Kenshi™: idiot i'm not stronght
+[2021-04-18 09:08:09]: ***  [, Level 0]: 'SanoreX' would have timed out, but can use timeout protection now
+[2021-04-18 09:08:09]: ***  [, Level 0]: 'SanoreX.*' would have timed out, but can use timeout protection now
