@@ -16854,3 +16854,7 @@
 [2021-04-18 13:01:10]: ERROR. [404, Level 57]: xD
 [2021-04-18 13:01:10]: bob [, Level 36]: XDDDDDDDDDD
 [2021-04-18 13:01:15]: ***  [, Level 0]: 'alter' entered and joined the game
+[2021-04-18 13:01:22]: ***  [, Level 0]: ToMsKaTv is on a killing spree with 5 blocks
+[2021-04-18 13:01:23]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
+[2021-04-18 13:01:28]: ***  [, Level 0]: 'WarHammer' entered and joined the game
+[2021-04-18 13:01:28]: Kirito [{TQuila}, Level 41]: Noémi: why
