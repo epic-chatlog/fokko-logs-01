@@ -1348,3 +1348,8 @@
 [2021-04-18 02:11:55]: [D] Random Guy [, Level 0]: :: who killed me
 [2021-04-18 02:11:59]: ***  [, Level 0]: '-:-|ML' entered and joined the game
 [2021-04-18 02:12:03]: : [, Level 34]: [D] Random Guy: killed
+[2021-04-18 02:12:06]: [D] Random Guy [, Level 0]: ye
+[2021-04-18 02:12:09]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 02:12:11]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 02:12:11]: ***  [, Level 0]: '[D] -:-|ML' entered and joined the game
+[2021-04-18 02:12:12]: : [, Level 34]: [D] Random Guy: who
