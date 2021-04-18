@@ -2310,3 +2310,4 @@
 [2021-04-18 03:10:56]: Falco641 [.bad, Level 20]: vollesprit: go spawn
 [2021-04-18 03:10:59]: Falco641 [.bad, Level 20]: theres portal
 [2021-04-18 03:11:02]: vollesprit [, Level 1]: look
+[2021-04-18 03:11:07]: any [404, Level 38]: ♥TAKO♥: l2p
