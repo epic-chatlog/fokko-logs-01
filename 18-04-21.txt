@@ -5849,3 +5849,4 @@
 [2021-04-18 05:57:19]: ***  [, Level 0]: 'LucasFresh33' entered and joined the game
 [2021-04-18 05:57:20]: ***  [, Level 0]: 'WarHammer'' has left the game
 [2021-04-18 05:57:20]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-18 05:57:33]: ***  [, Level 0]: Faceless tee is on a killing spree with 10 blocks
