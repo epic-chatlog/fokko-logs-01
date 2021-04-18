@@ -17299,3 +17299,9 @@
 [2021-04-18 13:21:58]: SoulyD [, Level 47]: no u BulgarianTee
 [2021-04-18 13:22:00]: Axandos [, Level 26]: i thaught u dont attack me Kenshi™
 [2021-04-18 13:22:00]: Kenshi™ [404, Level 0]: Axandos: u attack me first
+[2021-04-18 13:22:08]: BulgarianTee [xSD7, Level 38]: Souly: HOW DID U DIE
+[2021-04-18 13:22:08]: SoulyD [, Level 47]: no u BulgarianTee
+[2021-04-18 13:22:08]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-18 13:22:08]: Axandos [, Level 26]: Kenshi™:  no i wanted to rescue u
+[2021-04-18 13:22:11]: BulgarianTee [xSD7, Level 38]: Souly: OMG
+[2021-04-18 13:22:11]: SoulyD [, Level 47]: no u BulgarianTee
