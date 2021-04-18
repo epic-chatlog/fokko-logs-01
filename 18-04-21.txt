@@ -84,3 +84,6 @@
 [2021-04-18 00:24:33]: ZEWO [, Level 0]: of ok
 [2021-04-18 00:25:03]: ***  [, Level 0]: 'test' has left the game
 [2021-04-18 00:25:10]: ***  [, Level 0]: 'ZEWO dummy' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-18 00:25:39]: ***  [, Level 0]: 'Kahve' entered and joined the game
+[2021-04-18 00:25:40]: ***  [, Level 0]: Chillingo is on a killing spree with 10 blocks
+[2021-04-18 00:25:40]: ***  [, Level 0]: 'Kahve' has left the game
