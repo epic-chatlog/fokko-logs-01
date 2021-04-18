@@ -16192,3 +16192,5 @@
 [2021-04-18 12:30:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-18 12:31:01]: power [TrRShClNrRs, Level 0]: Meetiteusz: <3
 [2021-04-18 12:31:08]: |HolyHo| [FookinLads, Level 19]: [D] BC|Tixnix: noob
+[2021-04-18 12:31:22]: BC|Tixnix [BC, Level 35]: |HolyHo|: wher win?
+[2021-04-18 12:31:29]: ***  [, Level 0]: 'El Manu' entered and joined the game
