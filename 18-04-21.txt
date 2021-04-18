@@ -5457,3 +5457,7 @@
 [2021-04-18 05:35:23]: ***  [, Level 0]: 'Shiro.' entered and joined the game
 [2021-04-18 05:35:34]: ***  [, Level 0]: Soros is on a killing spree with 15 blocks
 [2021-04-18 05:35:35]: HardreenClutch [, Level 57]: JustRace:  oke dude i know this
+[2021-04-18 05:35:50]: Kezo [DogParty, Level 41]: JustRace: neutral pls
+[2021-04-18 05:35:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-18 05:35:53]: JustRace [DogParty, Level 0]: Kezo:  k
+[2021-04-18 05:35:55]: ***  [, Level 0]: 'Meskalin ô.O' has left the game
