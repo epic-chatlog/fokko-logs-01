@@ -408,3 +408,8 @@
 [2021-04-18 00:56:42]: ***  [, Level 0]: 'test' has left the game
 [2021-04-18 00:57:05]: ***  [, Level 0]: 'Bluebell Cat' entered and joined the game
 [2021-04-18 00:57:11]: ***  [, Level 0]: 'pandaSindCool' joined the game
+[2021-04-18 00:57:30]: ***  [, Level 0]: 'Raidon's Pet' finished the special race!
+[2021-04-18 00:57:30]: ***  [, Level 0]: 'Bubba :3[Đ]' finished the special race!
+[2021-04-18 00:57:31]: Boti. [.bad, Level 33]: ki se léptem de már nézem hogy mi a faszt játszak
+[2021-04-18 00:57:33]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-18 00:57:35]: ***  [, Level 0]: 'pandaSindCool' has left the game
