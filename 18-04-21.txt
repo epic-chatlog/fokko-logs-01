@@ -10003,3 +10003,7 @@
 [2021-04-18 08:52:39]: Nagisa [H] [E8, Level 0]: ziyarete gelirsin
 [2021-04-18 08:52:41]: ***  [, Level 0]: 'Hala Madrid' entered and joined the game
 [2021-04-18 08:52:46]: ***  [, Level 0]: '[D] satou' has left the game
+[2021-04-18 08:52:48]: ***  [, Level 0]: 'satou' has left the game
+[2021-04-18 08:52:49]: Taip [VergleriSay, Level 19]: bekle
+[2021-04-18 08:52:52]: ***  [, Level 0]: '_Sma_' entered and joined the game
+[2021-04-18 08:52:54]: Nagisa [H] [E8, Level 0]: vur banağğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğğ
