@@ -20458,3 +20458,5 @@
 [2021-04-18 16:36:37]: ***  [, Level 0]: 'LGBT+ General' has left the game
 [2021-04-18 16:37:00]: ERROR [404, Level 76]: xD
 [2021-04-18 16:37:01]: Zephir™ [404, Level 40]: Shiro.: on peut s'arranger XD
+[2021-04-18 16:37:06]: Shiro. [404, Level 43]: jte spike
+[2021-04-18 16:37:13]: Zephir™ [404, Level 40]: meh xD
