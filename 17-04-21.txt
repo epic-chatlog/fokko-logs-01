@@ -14395,3 +14395,5 @@
 [2021-04-17 19:32:32]: Zephir™ [404, Level 40]: 12/6
 [2021-04-17 19:32:52]: Zephir™ [404, Level 40]: 12/7
 [2021-04-17 19:33:18]: Zephir™ [404, Level 40]: 13/7
+[2021-04-17 19:33:26]: Zephir™ [404, Level 40]: Kirito: let me write
+[2021-04-17 19:33:36]: Kirito [{TQuila}, Level 40]: ahhhh
