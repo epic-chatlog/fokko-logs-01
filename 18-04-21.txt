@@ -11324,3 +11324,5 @@
 [2021-04-18 09:57:53]: ***  [, Level 0]: '(1)Telefantastic' has left the game (Timeout Protection used)
 [2021-04-18 09:57:54]: ***  [, Level 0]: 'vollesprit' entered and joined the game
 [2021-04-18 09:57:58]: WarHammer' [DogParty, Level 0]: Isegrin:  ehehehe
+[2021-04-18 09:58:06]: Good man [Drunks, Level 32]: всё
+[2021-04-18 09:58:11]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
