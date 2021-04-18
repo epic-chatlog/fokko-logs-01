@@ -10910,3 +10910,5 @@
 [2021-04-18 09:35:14]: ***  [, Level 0]: 'Yamato' entered and joined the game
 [2021-04-18 09:35:17]: [D] Amirian [bad., Level 23]: dry:
 [2021-04-18 09:35:17]: (1)☺ [, Level 23]: jai oubli de taccepter sur discord Zephir™ lol
+[2021-04-18 09:35:23]: [D] Amirian [bad., Level 23]: El patron:
+[2021-04-18 09:35:26]: ***  [, Level 0]: Coca finished in: 1 minute(s) 34.06 second(s)
