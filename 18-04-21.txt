@@ -20238,3 +20238,7 @@
 [2021-04-18 16:18:04]: ***  [, Level 0]: '(1)|MıssOяchiĐ|' entered and joined the game
 [2021-04-18 16:18:19]: (1)|MıssOяchi [, Level 0]: PTN DE TA MERE JAI ENCORE TIMEOUT JAI ENCORE PERDU MES 15K
 [2021-04-18 16:18:29]: Kenshi™ [404, Level 0]: pour moi :D
+[2021-04-18 16:18:32]: ***  [, Level 0]: 'oddlemonn' has left the game
+[2021-04-18 16:18:34]: (1)|MıssOяchi [, Level 0]: Kenshi™: >>>
+[2021-04-18 16:18:35]: H0dƌƔ1 [ℋero, Level 28]: Brezn: im going off cya :D
+[2021-04-18 16:18:38]: ***  [, Level 0]: '|MıssOяchiĐ|' has left the game (Too weak connection (not acked for 60 seconds))
