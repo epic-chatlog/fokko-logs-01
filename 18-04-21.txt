@@ -888,3 +888,5 @@
 [2021-04-18 01:42:26]: any² [404, Level 0]: Raidon:
 [2021-04-18 01:42:51]: Honey Cat [Kittens!, Level 0]: I have -999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999 IQ
 [2021-04-18 01:42:53]: [D] Random Guy [, Level 0]: dude4
+[2021-04-18 01:43:04]: Raidon's Pet [, Level 20]: [D] Random Guy: sorry but he friend
+[2021-04-18 01:43:08]: any [404, Level 38]: Raidon: saved ur dummy
