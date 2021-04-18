@@ -439,3 +439,6 @@
 [2021-04-18 01:00:50]: Noémi [helper, Level 40]: Ðeathscyth: dude stop block
 [2021-04-18 01:00:55]: Ðeathscyth [, Level 3]: ily
 [2021-04-18 01:00:56]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-18 01:00:58]: Ðeathscyth [, Level 3]: not u
+[2021-04-18 01:01:01]: Ðeathscyth [, Level 3]: es
+[2021-04-18 01:01:03]: Ðeathscyth [, Level 3]: he block me
