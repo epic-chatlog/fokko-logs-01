@@ -1594,3 +1594,6 @@
 [2021-04-18 02:25:52]: ***  [, Level 0]: '[D] El patron' has left the game
 [2021-04-18 02:25:52]: ***  [, Level 0]: 'El patron' has left the game
 [2021-04-18 02:25:55]: Raidon [, Level 24]: any: come
+[2021-04-18 02:26:01]: SanoreX [Chilli.*, Level 27]: Raidon: yaw sen bi susda
+[2021-04-18 02:26:03]: Raidon [, Level 24]: any: go collect dummy
+[2021-04-18 02:26:04]: SanoreX [Chilli.*, Level 27]: Raidon: yaw sen bi susda naparsan yap
