@@ -1039,3 +1039,7 @@
 [2021-04-18 01:55:52]: Coca [Drunks, Level 24]: any²: do you need help*?
 [2021-04-18 01:55:59]: mamikral011 [DogParty, Level 0]: a
 [2021-04-18 01:56:02]: any [404, Level 38]: Coca: why not
+[2021-04-18 01:56:13]: Cylox [{TQuila}, Level 32]: Coca: hi
+[2021-04-18 01:56:16]: Raidon's Pet [, Level 20]: any
+[2021-04-18 01:56:17]: Coca [Drunks, Level 24]: Cylox: hi Cylox
+[2021-04-18 01:56:20]: nameless tee [, Level 0]: satou: beware of approaching attack
