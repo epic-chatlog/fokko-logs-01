@@ -425,3 +425,5 @@
 [2021-04-18 00:58:57]: Random Guy [, Level 40]: xd
 [2021-04-18 00:58:59]: Random Guy [, Level 40]: XD
 [2021-04-18 00:59:10]: ***  [, Level 0]: 'pandaSindCool' joined the spectators
+[2021-04-18 00:59:25]: ***  [, Level 0]: 'pandaSindCool' joined the game
+[2021-04-18 00:59:28]: ***  [, Level 0]: 'test' entered and joined the game
