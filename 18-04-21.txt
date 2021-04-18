@@ -20264,3 +20264,5 @@
 [2021-04-18 16:20:25]: ***  [, Level 0]: 'Black' entered and joined the game
 [2021-04-18 16:20:30]: (1)|MıssOяchi [, Level 48]: Kenshi™: personne est meilleur que mon mec sale fou
 [2021-04-18 16:20:32]: ***  [, Level 0]: 'Brezn' has left the game
+[2021-04-18 16:20:34]: Black [, Level 0]: hi
+[2021-04-18 16:20:45]: (1)|MıssOяchi [, Level 48]: Kenshi™: t'es fort ok mais aps plus
