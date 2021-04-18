@@ -3650,3 +3650,4 @@
 [2021-04-18 04:19:35]: mamikral011 [DogParty, Level 0]: jet
 [2021-04-18 04:19:36]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-18 04:19:43]: mamikral011 [DogParty, Level 0]: power2: war
+[2021-04-18 04:19:50]: ***  [, Level 0]: 'SoniCN' has left the game
