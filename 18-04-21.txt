@@ -427,3 +427,4 @@
 [2021-04-18 00:59:10]: ***  [, Level 0]: 'pandaSindCool' joined the spectators
 [2021-04-18 00:59:25]: ***  [, Level 0]: 'pandaSindCool' joined the game
 [2021-04-18 00:59:28]: ***  [, Level 0]: 'test' entered and joined the game
+[2021-04-18 00:59:37]: ***  [, Level 0]: 'test' has left the game
