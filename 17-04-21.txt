@@ -14314,3 +14314,4 @@
 [2021-04-17 19:22:17]: [D] BULLETBOT [, Level 0]: he actually have 200 ping some time
 [2021-04-17 19:22:18]: [D] BULLETBOT [, Level 0]: tXD
 [2021-04-17 19:22:21]: (1)☺ [, Level 0]: XD
+[2021-04-17 19:22:35]: [D] BULLETBOT [, Level 0]: his ping drops at 200
