@@ -10839,3 +10839,8 @@
 [2021-04-18 09:31:36]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-18 09:31:37]: (1)☺ [, Level 23]: Arktict: pepe ?
 [2021-04-18 09:31:37]: [D] Amirian [bad., Level 23]: IDOT El patron
+[2021-04-18 09:31:39]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-18 09:31:40]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-18 09:31:40]: ***  [, Level 0]: 'Good man' entered and joined the game
+[2021-04-18 09:31:42]: ***  [, Level 0]: 'Coca' entered and joined the game
+[2021-04-18 09:31:49]: Arktict [, Level 31]: (1)☺: un serv de block
