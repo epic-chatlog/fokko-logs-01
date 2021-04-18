@@ -2836,3 +2836,6 @@
 [2021-04-18 03:42:13]: SanoreX [Chilli.*, Level 27]: direk
 [2021-04-18 03:42:14]: ***  [, Level 0]: '(1)Intensiv' changed name to 'Intensiv___'
 [2021-04-18 03:42:15]: ***  [, Level 0]: 'ES' entered and joined the game
+[2021-04-18 03:42:16]: Raidon's Pet [, Level 20]: SanoreX: sanane
+[2021-04-18 03:42:18]: Raidon's Pet [, Level 20]: aq
+[2021-04-18 03:42:23]: SanoreX [Chilli.*, Level 27]: yAW he he
