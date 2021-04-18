@@ -3844,3 +3844,8 @@
 [2021-04-18 04:29:07]: SanoreX [Chilli.*, Level 27]: Raidon's Pet: gerçekten 31000 mü
 [2021-04-18 04:29:09]: ***  [`, Level 0]: 'darkstar3' finished the special race!
 [2021-04-18 04:29:11]: SanoreX [Chilli.*, Level 27]: Raidon's Pet: gerçekten 31000 mü
+[2021-04-18 04:29:21]: ***  [, Level 0]: 'Rrrr' has left the game
+[2021-04-18 04:29:21]: ***  [, Level 0]: 'RaVi' has left the game
+[2021-04-18 04:29:22]: ***  [, Level 0]: 'BENJI3103' entered and joined the game
+[2021-04-18 04:29:22]: SanoreX [Chilli.*, Level 27]: satou: diyoki salak Raidon param 31k
+[2021-04-18 04:29:23]:   [, Level 0]: ChillerDragon.*: i realised it while back [D] JustRace but no real plans on fixinig it yet
