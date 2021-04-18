@@ -5883,3 +5883,7 @@
 [2021-04-18 05:59:30]: sun.slow(y) [FookinLads, Level 35]: FAKE
 [2021-04-18 05:59:30]: Bozzkurt [SkinLover, Level 0]: sun.slow(x): salaaaam
 [2021-04-18 05:59:35]: sun.slow(x) [, Level 0]: sun.slow(y): not faker. We have different nicknames
+[2021-04-18 05:59:40]: ChillerDragon.* [Chilli.*, Level 42]: hallo sun.slow(y) ?
+[2021-04-18 05:59:46]: ***  [, Level 0]: 'ϻɪɔʜɑʟ' entered and joined the game
+[2021-04-18 05:59:47]: ***  [, Level 0]: 'LucasFresh33' has left the game
+[2021-04-18 05:59:49]: Foxi♥ [{TQuila}, Level 22]: Cylox:
