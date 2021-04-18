@@ -115,3 +115,4 @@
 [2021-04-18 00:27:37]: Kiøn1029 [.bad, Level 32]: XDD
 [2021-04-18 00:27:40]: ZEWO dummy [, Level 0]: çeksin
 [2021-04-18 00:27:44]: Boti. [.bad, Level 33]: oov
+[2021-04-18 00:28:07]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
