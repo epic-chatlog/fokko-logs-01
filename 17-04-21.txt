@@ -14684,3 +14684,4 @@
 [2021-04-17 22:49:30]: Noxl [.bad, Level 48]: i cant
 [2021-04-17 22:50:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-17 22:51:29]: ***  [, Level 0]: '(1)ES' entered and joined the game
+[2021-04-17 22:53:43]: ***  [, Level 0]: '(2)ES' entered and joined the game
