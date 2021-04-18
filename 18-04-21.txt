@@ -1902,3 +1902,5 @@
 [2021-04-18 02:45:17]: Falco642 [, Level 3]: no freeze tiles here
 [2021-04-18 02:45:23]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-18 02:45:24]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-18 02:45:30]: ***  [, Level 0]: 'toine' has left the game
+[2021-04-18 02:45:38]: vollesprit [, Level 1]: i am with your dummy
