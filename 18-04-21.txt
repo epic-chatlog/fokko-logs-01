@@ -5954,3 +5954,7 @@
 [2021-04-18 06:02:56]: sun.slow(x) [, Level 0]: koro:
 [2021-04-18 06:03:04]: ***  [, Level 0]: [D]ϻɪɔʜɑʟ finished in: 2 minute(s) 18.34 second(s)
 [2021-04-18 06:03:05]: Kezo [DogParty, Level 41]: warhammer gel mekana
+[2021-04-18 06:03:08]: ***  [, Level 0]: |HolyHo|° is on a killing spree with 5 blocks
+[2021-04-18 06:03:08]:   [, Level 0]: WarHammer: kezo ok
+[2021-04-18 06:03:10]: ***  [, Level 0]: ϻɪɔʜɑʟ finished in: 1 minute(s) 52.84 second(s)
+[2021-04-18 06:03:10]: ***  [, Level 0]: New record: 2 minute(s) 50.60 second(s) better.
