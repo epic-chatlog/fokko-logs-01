@@ -966,3 +966,7 @@
 [2021-04-18 01:49:17]: ***  [, Level 0]: 'test' entered and joined the game
 [2021-04-18 01:49:21]: ***  [, Level 0]: 'test' has left the game
 [2021-04-18 01:49:23]: SanoreX [Chilli.*, Level 27]: lagg
+[2021-04-18 01:49:33]: SanoreX [Chilli.*, Level 27]: (syays
+[2021-04-18 01:49:38]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-18 01:49:38]: SanoreX [Chilli.*, Level 27]: (stats
+[2021-04-18 01:49:42]: SanoreX [Chilli.*, Level 27]: wow
