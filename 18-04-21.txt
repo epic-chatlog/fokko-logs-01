@@ -4464,3 +4464,5 @@
 [2021-04-18 04:54:36]: ***  [í, Level 0]: Meetiteusz finished in: 1 minute(s)  0.46 second(s)
 [2021-04-18 04:54:36]: ***  [í, Level 0]: New record: 1 minute(s) 19.76 second(s) better.
 [2021-04-18 04:54:43]: SanoreX [Chilli.*, Level 27]: brain+: ok no problem I hold d and I go farm again
+[2021-04-18 04:54:50]: ***  [©, Level 0]: '1414547417' entered and joined the game
+[2021-04-18 04:54:56]: ***  [, Level 0]: 'Tauter' entered and joined the game
