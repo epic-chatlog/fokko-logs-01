@@ -6768,3 +6768,7 @@
 [2021-04-18 06:45:04]: ***  [", Level 0]: 'Monster' has left the game
 [2021-04-18 06:45:09]: ChillerDragon [Chilli.*, Level 45]: du bist einer von der sorte der dann iwann frägt wieso ich dich blocke sun.slow(y)
 [2021-04-18 06:45:09]: [D] Hunter.exe [DogParty, Level 27]: Plot 3 Owner: Kirito
+[2021-04-18 06:45:22]: sun.slow(y) [FookinLads, Level 35]: ChillerDragon: macht ja auch 0 sinn
+[2021-04-18 06:45:22]: woona [, Level 48]: Cylox: salaksında ne diyim
+[2021-04-18 06:45:23]: Kirito [{TQuila}, Level 41]: Hunter.exe: hä plot 3???
+[2021-04-18 06:45:25]: sun.slow(y) [FookinLads, Level 35]: ChillerDragon: weil ich dir nicht helpe
