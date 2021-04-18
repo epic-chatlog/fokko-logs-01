@@ -14783,3 +14783,5 @@
 [2021-04-17 23:57:33]: ZEWO dummy [, Level 0]: (1)Intensiv___: spec ZEWO
 [2021-04-17 23:57:39]: (1)Intensiv___ [CrazyNoobs, Level 0]: ZEWO:
 [2021-04-17 23:57:39]: ZEWO dummy [, Level 0]: (1)Intensiv___: spec ZEWO
+[2021-04-17 23:57:49]: (1)Intensiv___ [CrazyNoobs, Level 0]: kill
+[2021-04-17 23:57:53]: ZEWO [, Level 0]: oky
