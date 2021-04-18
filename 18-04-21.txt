@@ -5855,3 +5855,4 @@
 [2021-04-18 05:57:42]: ***  [, Level 0]: Faceless tee's killing spree was ended by Taip (10 blocks)
 [2021-04-18 05:57:43]: JustRace [DogParty, Level 36]: sun.slow(x):  fuck off
 [2021-04-18 05:57:46]: ChillerDragon.* [|*KoG*|, Level 42]: reden wir jetzt nich mehr oder was sun.slow(x)
+[2021-04-18 05:57:53]: ***  [, Level 0]: Taip is on a killing spree with 15 blocks
