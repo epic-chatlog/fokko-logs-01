@@ -14764,3 +14764,4 @@
 [2021-04-17 23:50:10]: (1)Intensiv___ [CrazyNoobs, Level 0]: help
 [2021-04-17 23:50:29]: (1)Intensiv___ [CrazyNoobs, Level 0]: ES:  türkmüsün
 [2021-04-17 23:50:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-17 23:51:22]: ***  [, Level 0]: 'system' has left the game
