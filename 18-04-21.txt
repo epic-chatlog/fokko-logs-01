@@ -585,3 +585,9 @@
 [2021-04-18 01:17:43]: ***  [, Level 0]: '(1)ERROR.' entered and joined the game
 [2021-04-18 01:18:16]: (1)SanoreX [Chilli.*, Level 0]: lag
 [2021-04-18 01:18:18]: Hala Madrid [BBM, Level 48]: bruh
+[2021-04-18 01:18:21]: (1)SanoreX [Chilli.*, Level 0]: SanoreX:
+[2021-04-18 01:18:22]: ***  [, Level 0]: 'pandaSindCool' has left the game
+[2021-04-18 01:18:24]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-18 01:18:26]: Hala Madrid [BBM, Level 48]: wtf?
+[2021-04-18 01:18:27]: Hala Madrid [BBM, Level 48]: for real
+[2021-04-18 01:18:28]: Raidon's Pet [, Level 20]: satou: SanoreX realmi
