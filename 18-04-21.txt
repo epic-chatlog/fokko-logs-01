@@ -385,3 +385,5 @@
 [2021-04-18 00:55:06]: ***  [, Level 0]: New record: 29.92 second(s) better.
 [2021-04-18 00:55:11]: Kiøn1029 [.bad, Level 32]: oldalas lesz az ebéd
 [2021-04-18 00:55:19]: Kiøn1029 [.bad, Level 32]: meg nem tom mi
+[2021-04-18 00:55:37]: Boti. [.bad, Level 33]: az jó
+[2021-04-18 00:55:46]: Random Guy [, Level 40]: ez
