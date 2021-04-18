@@ -310,3 +310,5 @@
 [2021-04-18 00:46:10]: ***  [, Level 0]: '[D] Boti.' has left the game
 [2021-04-18 00:46:12]: Kiøn1029 [.bad, Level 32]: az jó
 [2021-04-18 00:46:13]: Raidon [, Level 24]: bugged
+[2021-04-18 00:46:19]: Boti. [.bad, Level 33]: I like turtles.
+[2021-04-18 00:46:25]: Kiøn1029 [.bad, Level 32]: Boti.:
