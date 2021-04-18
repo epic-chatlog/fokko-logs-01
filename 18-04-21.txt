@@ -1187,3 +1187,6 @@
 [2021-04-18 02:04:04]: mamikral011 [DogParty, Level 0]: satou: help
 [2021-04-18 02:04:05]: satou [, Level 7]: wow
 [2021-04-18 02:04:06]: Raidon's Pet [, Level 20]: SanoreX: 2
+[2021-04-18 02:04:12]: Raidon's Pet [, Level 20]: SanoreX: war any&me
+[2021-04-18 02:04:14]: satou [, Level 7]: mamikral011: where
+[2021-04-18 02:04:16]: Raidon's Pet [, Level 20]: any: get portal here
