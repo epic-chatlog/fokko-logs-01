@@ -13565,3 +13565,7 @@
 [2021-04-17 17:37:47]: (1)☺ [, Level 0]: avant
 [2021-04-17 17:37:54]: Zephir™ [404, Level 40]: car t'aurais jamais pu rentrer sans
 [2021-04-17 17:38:01]: ☺ [, Level 26]: si
+[2021-04-17 17:38:07]: ***  [, Level 0]: '[D] BC|serwan' has left the game
+[2021-04-17 17:38:07]: ***  [, Level 0]: 'BC|serwan' has left the game
+[2021-04-17 17:38:11]: ***  [, Level 0]: '(1)[D] BC|serwan' has left the game
+[2021-04-17 17:38:11]: ***  [, Level 0]: '(1)BC|serwan' has left the game
