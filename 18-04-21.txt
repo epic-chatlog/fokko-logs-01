@@ -5801,3 +5801,4 @@
 [2021-04-18 05:53:34]: JustRace [DogParty, Level 36]: HeavyGeneral:  I was farming
 [2021-04-18 05:53:41]: JustRace [DogParty, Level 36]: HeavyGeneral:  and my friend told me he took me out
 [2021-04-18 05:53:44]: ***  [, Level 0]: 625. satou Time: 01:52.52, requested by satou
+[2021-04-18 05:53:50]: JustRace [DogParty, Level 36]: sun.slow(x):  still asshole
