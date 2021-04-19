@@ -6268,3 +6268,7 @@
 [2021-04-19 04:47:46]: SanoreX [Chilli.*, Level 27]: help ,
 [2021-04-19 04:47:49]: SanoreX [Chilli.*, Level 27]: help , me
 [2021-04-19 04:47:52]: SanoreX [Chilli.*, Level 27]: help me ,w
+[2021-04-19 04:47:54]: SanoreX [Chilli.*, Level 27]: help me ,
+[2021-04-19 04:47:55]:   [, Level 0]: BulgarianTee: E
+[2021-04-19 04:48:03]: Huutochka [, Level 10]: nah, im going kill
+[2021-04-19 04:48:04]: SkyForge [, Level 0]: noobs
