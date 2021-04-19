@@ -16556,3 +16556,5 @@
 [2021-04-19 13:13:28]: HeavyGeneral [FookinLads, Level 44]: |HolyHo|°: cuz if u help chiller i will have to kill u 2
 [2021-04-19 13:13:32]: . [TrRShClNrRs, Level 10]: |HolyHo|°: a  stack anywhere up in freeze
 [2021-04-19 13:13:36]: . [TrRShClNrRs, Level 10]: |HolyHo|°: bugged in the block
+[2021-04-19 13:13:39]: . [TrRShClNrRs, Level 10]: |HolyHo|°: and u cant move
+[2021-04-19 13:13:47]: . [TrRShClNrRs, Level 10]: |HolyHo|°: the last guy was out of the freeze and bugged in the stack
