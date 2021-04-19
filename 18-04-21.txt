@@ -21267,3 +21267,6 @@
 [2021-04-18 19:16:07]: ERROR' [404, Level 76]: fucking stupid
 [2021-04-18 19:16:23]: nar [ComRoach, Level 19]: ERROR: what im do wfor you
 [2021-04-18 19:17:08]: ezy [ComRoach, Level 23]: nop
+[2021-04-18 19:17:12]: ERROR' [404, Level 76]: yes
+[2021-04-18 19:17:15]: ***  [, Level 0]: 'nar' has left the game
+[2021-04-18 19:17:15]: ***  [, Level 0]: 'ezy' has left the game
