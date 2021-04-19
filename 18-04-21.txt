@@ -21382,3 +21382,6 @@
 [2021-04-18 21:47:34]: nar [ComRoach, Level 19]: ma btmot w ana mwgod
 [2021-04-18 21:49:17]: ***  [, Level 0]: 'nar' finished the special race!
 [2021-04-18 21:49:18]: ***  [, Level 0]: 'Noxl.' finished the special race!
+[2021-04-18 21:49:43]: Noxl. [.bad, Level 35]: laaaaaaaaaa
+[2021-04-18 21:49:46]: Noxl. [.bad, Level 35]: hhhhhaaaaaa
+[2021-04-18 21:49:46]: nar [ComRoach, Level 19]: nice
