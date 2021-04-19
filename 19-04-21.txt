@@ -4932,3 +4932,4 @@
 [2021-04-19 03:55:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-19 03:55:55]: ***  [, Level 0]: HuskyFloofles is on a killing spree with 10 blocks
 [2021-04-19 03:56:03]: ϻɪɔʜɑʟ [DogParty, Level 24]: YelloWorlD: omg player like your clan
+[2021-04-19 03:56:12]: ***  [, Level 0]: 'f"{self.name}"51' entered and joined the game
