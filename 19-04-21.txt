@@ -16858,3 +16858,4 @@
 [2021-04-19 13:35:43]: GODLIKe [, Level 44]: WTFFFFFF
 [2021-04-19 13:35:46]: GODLIKe [, Level 44]: .: hax
 [2021-04-19 13:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 13:35:59]: bob [, Level 36]: HeavyGeneral: u need glasses
