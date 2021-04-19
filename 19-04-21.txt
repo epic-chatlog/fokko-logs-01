@@ -5979,3 +5979,9 @@
 [2021-04-19 04:37:15]:   [, Level 0]: BulgarianTee: NOT
 [2021-04-19 04:37:16]: at insan [freeporçay, Level 0]: knk vuramıyom geriye gidiyosun
 [2021-04-19 04:37:16]:   [, Level 0]: ϻɪɔʜɑʟ: wait pls
+[2021-04-19 04:37:24]: PoliceTee [PoliceForce, Level 38]: weqe: BAD
+[2021-04-19 04:37:25]:   [, Level 0]: ϻɪɔʜɑʟ: help-
+[2021-04-19 04:37:26]: ***  [, Level 0]: 'fokkonaut' has left the game
+[2021-04-19 04:37:29]: PoliceTee [PoliceForce, Level 38]: Mista bombastic: ME
+[2021-04-19 04:37:30]: vollesprit [, Level 1]: Falco642 wait i am going to be afk 15-20 min
+[2021-04-19 04:37:30]: PoliceTee [PoliceForce, Level 38]: Mista bombastic: GAE
