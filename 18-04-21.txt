@@ -20788,3 +20788,7 @@
 [2021-04-18 17:19:18]: bob [, Level 36]: Black: i trusted him
 [2021-04-18 17:19:18]: Black [, Level 23]: weqe: yeah
 [2021-04-18 17:19:22]: weqe [669, Level 13]: why Black brother
+[2021-04-18 17:19:34]: bob [, Level 36]: omg
+[2021-04-18 17:19:35]: weqe [669, Level 13]: see bob ?
+[2021-04-18 17:19:43]: bob [, Level 36]: omgg
+[2021-04-18 17:19:45]: weqe [669, Level 13]: i told u
