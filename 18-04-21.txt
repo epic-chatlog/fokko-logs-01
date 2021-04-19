@@ -20621,3 +20621,8 @@
 [2021-04-18 17:05:06]: ERROR [404, Level 47]: say sorry
 [2021-04-18 17:05:09]: weqe [669, Level 13]: sorry
 [2021-04-18 17:05:12]: ERROR [404, Level 47]: i never touch u again
+[2021-04-18 17:05:18]: weqe [669, Level 13]: i never touc u again
+[2021-04-18 17:05:25]: bob [, Level 36]: weqe: HAHAH
+[2021-04-18 17:05:25]: ERROR [404, Level 47]: well wrong but k
+[2021-04-18 17:05:37]: ERROR [404, Level 47]: xD
+[2021-04-18 17:05:38]: ***  [, Level 0]: 'xN0Zoro D' entered and joined the game
