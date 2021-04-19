@@ -10053,3 +10053,5 @@
 [2021-04-19 07:54:29]: comic [comically, Level 15]: ☣┆Kenshi™: how do you get those symbols?
 [2021-04-19 07:54:33]: H0dƌƔ1 [ℋero, Level 28]: (1)|HolyHo|°: i accedently res'd
 [2021-04-19 07:54:34]: Coca [Drunks, Level 24]: the last AMOGUS: повтори
+[2021-04-19 07:54:42]:   [, Level 0]: Mert: wtf
+[2021-04-19 07:54:43]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
