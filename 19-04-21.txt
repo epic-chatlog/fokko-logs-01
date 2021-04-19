@@ -10835,3 +10835,7 @@
 [2021-04-19 08:33:22]: ***  [, Level 0]: 'JustRace' has left the game
 [2021-04-19 08:33:22]: ***  [, Level 0]: '[D] JustRace' has left the game
 [2021-04-19 08:33:37]:   [, Level 0]: ☺: yes El patron and
+[2021-04-19 08:33:45]: ***  [, Level 0]: 'casserole :p' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-19 08:33:45]: H0dƌƔ1 [ℋero, Level 28]: XD
+[2021-04-19 08:33:46]: SanoreX [Chilli.*, Level 27]: comic: thz
+[2021-04-19 08:33:48]:   [, Level 0]: Lucifero: sharkz: bei gott nein
