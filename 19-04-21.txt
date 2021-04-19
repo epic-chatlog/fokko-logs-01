@@ -11337,3 +11337,4 @@
 [2021-04-19 09:06:04]: ***  [, Level 0]: 'fluffrit' entered and joined the game
 [2021-04-19 09:06:14]: ChillerDragon [|*KoG*|, Level 45]: ja ERROR ?
 [2021-04-19 09:06:31]: ERROR [404, Level 47]: schon gut
+[2021-04-19 09:06:41]: ChillerDragon [Chilli.*, Level 45]: xD
