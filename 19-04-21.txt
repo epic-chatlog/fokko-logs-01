@@ -5435,3 +5435,7 @@
 [2021-04-19 04:15:24]:   [, Level 0]: f"{self.name}": fokkonaut: and im out :D
 [2021-04-19 04:15:25]: Raidon [, Level 24]: PoliceTee: he have deep freez
 [2021-04-19 04:15:26]: Raidon [, Level 24]: PoliceTee: he have deep freeze
+[2021-04-19 04:15:39]: Falco641 [.bad, Level 20]: it makes pvp laziness based rather than skill based
+[2021-04-19 04:15:42]: Falco641 [.bad, Level 20]: 20
+[2021-04-19 04:15:48]: ***  [, Level 0]: any is on a killing spree with 20 blocks
+[2021-04-19 04:15:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
