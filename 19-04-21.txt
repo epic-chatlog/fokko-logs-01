@@ -9711,3 +9711,12 @@
 [2021-04-19 07:37:58]: any² [404, Level 42]: Kirito: where u from ?
 [2021-04-19 07:37:59]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-19 07:38:00]: ERROR [404, Level 47]: xD
+[2021-04-19 07:38:05]: ***  [, Level 0]: 'Dilkohomnkiks' has left the game
+[2021-04-19 07:38:09]: ***  [, Level 0]: 'Coviddocktor' has left the game
+[2021-04-19 07:38:09]: ***  [, Level 0]: 'Michel' has left the game
+[2021-04-19 07:38:09]: ***  [, Level 0]: 'UOYKCUFI' has left the game
+[2021-04-19 07:38:09]: ***  [, Level 0]: 'Adleg' has left the game
+[2021-04-19 07:38:09]:   [, Level 0]: (2)Kirito: any: uk but i live in germany
+[2021-04-19 07:38:13]: GODLIKe [, Level 44]: LAGG
+[2021-04-19 07:38:14]: sharkz [, Level 45]: ERROR: BISSCHEN KLEINGELD??
+[2021-04-19 07:38:16]: |HolyHo|° [FookinLads, Level 29]: ERROR: loyal dog u got there
