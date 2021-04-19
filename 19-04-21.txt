@@ -446,3 +446,14 @@
 [2021-04-19 00:34:37]: ***  [, Level 0]: '(2)' has left the game
 [2021-04-19 00:34:41]: SanoreX [Chilli.*, Level 27]: Bruh.: meselela gelmemesi için
 [2021-04-19 00:34:42]: SanoreX [Chilli.*, Level 27]: fln
+[2021-04-19 00:34:45]: SanoreX [Chilli.*, Level 27]: sahiblik
+[2021-04-19 00:34:46]: ***  [, Level 0]: '(2)' entered and joined the game
+[2021-04-19 00:34:46]: ***  [, Level 0]: 'emremarvan' joined the spectators
+[2021-04-19 00:34:48]: ***  [, Level 0]: '(2)' has left the game
+[2021-04-19 00:34:48]: ***  [, Level 0]: '(1)Arktict' has left the game
+[2021-04-19 00:34:48]: ***  [, Level 0]: 'Arktict' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-19 00:34:48]: ***  [, Level 0]: '(1)' has left the game (Timeout)
+[2021-04-19 00:34:50]: ***  [, Level 0]: 'emremarvan' joined the game
+[2021-04-19 00:34:51]: ***  [, Level 0]: 'Arktict' entered and joined the game
+[2021-04-19 00:34:51]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-19 00:34:54]: SanoreX [Chilli.*, Level 27]: Bruh.: sende girsene chilli.* a
