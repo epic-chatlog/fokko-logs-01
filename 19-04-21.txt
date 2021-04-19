@@ -5523,3 +5523,7 @@
 [2021-04-19 04:19:16]: ***  [, Level 0]: 'kristalik25' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-19 04:19:16]: Falco641 [.bad, Level 20]: wait
 [2021-04-19 04:19:18]:   [, Level 0]: SanoreX.*: Raidon: deneriz bunda yaw
+[2021-04-19 04:19:23]: ***  [, Level 0]: 'ϻɪɔʜɑʟ' has left the game
+[2021-04-19 04:19:23]: ***  [, Level 0]: '[D]ϻɪɔʜɑʟ' has left the game
+[2021-04-19 04:19:30]: vollesprit [, Level 1]: Falco641 can somoene rob me ?
+[2021-04-19 04:19:34]: ***  [, Level 0]: 'Minato/fr dumy' entered and joined the game
