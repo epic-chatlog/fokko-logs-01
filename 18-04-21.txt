@@ -20618,3 +20618,6 @@
 [2021-04-18 17:04:48]: bob [, Level 36]: AHAHHAHAHAAH
 [2021-04-18 17:04:50]: bob [, Level 36]: AHAHAHAHAHHA
 [2021-04-18 17:04:52]: bob [, Level 36]: weqe: noob
+[2021-04-18 17:05:06]: ERROR [404, Level 47]: say sorry
+[2021-04-18 17:05:09]: weqe [669, Level 13]: sorry
+[2021-04-18 17:05:12]: ERROR [404, Level 47]: i never touch u again
