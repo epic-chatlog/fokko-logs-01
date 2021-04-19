@@ -15177,3 +15177,8 @@
 [2021-04-19 12:09:07]: ***  [, Level 0]: 'thiago*_ *' joined the spectators
 [2021-04-19 12:09:10]: ***  [, Level 0]: 'thiago*_ *' joined the game
 [2021-04-19 12:09:11]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0addwar SanoreX
+[2021-04-19 12:09:17]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0delwar SanoreX
+[2021-04-19 12:09:19]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0addwar SanoreX
+[2021-04-19 12:09:21]: SanoreX [Chilli.*, Level 27]: TL|ŦƹƦ$ŦǾN: u block me always
+[2021-04-19 12:09:27]: SanoreX [Chilli.*, Level 27]: TL|ŦƹƦ$ŦǾN: just war4life and never stop
+[2021-04-19 12:09:27]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: SanoreX: what???
