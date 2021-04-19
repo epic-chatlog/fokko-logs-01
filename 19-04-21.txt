@@ -5072,3 +5072,10 @@
 [2021-04-19 04:01:11]:   [, Level 0]: vollesprit: Falco642 what can we do with the point ?
 [2021-04-19 04:01:16]:   [, Level 0]: Falco642: always do checkpoint its very useful
 [2021-04-19 04:01:20]:   [, Level 0]: sta: portal pls
+[2021-04-19 04:01:23]: ***  [, Level 0]: |HolyHo| is on a killing spree with 20 blocks
+[2021-04-19 04:01:23]:   [, Level 0]: f"{self.name}": BULLETBOT: i need to get jailed will you help me ??
+[2021-04-19 04:01:24]:   [, Level 0]: Falco642: vollesprit: dont stand in there
+[2021-04-19 04:01:26]:   [, Level 0]: Falco642: these are traps
+[2021-04-19 04:01:29]:   [, Level 0]: vollesprit: ah
+[2021-04-19 04:01:32]: [D]ϻɪɔʜɑʟ [DogParty, Level 20]: ok i am
+[2021-04-19 04:01:32]:   [, Level 0]: vollesprit: and there
