@@ -10800,3 +10800,9 @@
 [2021-04-19 08:30:18]:   [, Level 0]: weqe: sun.slow(y): wtf brother
 [2021-04-19 08:30:42]: ***  [, Level 0]: 'Nagisa [H]' entered and joined the game
 [2021-04-19 08:30:45]: ***  [, Level 0]: 'XYN' joined the spectators
+[2021-04-19 08:30:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-19 08:30:51]: |HolyHo| [FookinLads, Level 19]: noooooooooooooooo
+[2021-04-19 08:30:51]: ***  [, Level 0]: 'Salut' finished the special race!
+[2021-04-19 08:30:53]: ***  [, Level 0]: 'XYN' has left the game
+[2021-04-19 08:30:57]: ***  [, Level 0]: '(1)Salut' finished the special race!
+[2021-04-19 08:30:58]:   [, Level 0]: Lucifero: xD
