@@ -21528,3 +21528,4 @@
 [2021-04-18 23:13:16]: ***  [, Level 0]: Cup finished in: 4 minute(s) 17.36 second(s)
 [2021-04-18 23:14:01]: ***  [, Level 0]: 'Raidon's Pet' has left the game
 [2021-04-18 23:14:01]: ***  [, Level 0]: 'Raidon' has left the game
+[2021-04-18 23:15:05]: ***  [, Level 0]: 'ϻɪɔʜɑʟ' entered and joined the game
