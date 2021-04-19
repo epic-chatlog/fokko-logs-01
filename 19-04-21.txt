@@ -16800,3 +16800,5 @@
 [2021-04-19 13:30:21]: GODLIKe [, Level 44]: HardreenClutch:
 [2021-04-19 13:30:21]: ***  [, Level 0]: 'galega' has left the game
 [2021-04-19 13:30:32]: ***  [, Level 0]: '-:-|ML' entered and joined the game
+[2021-04-19 13:30:38]: bob [, Level 36]: -:-|ML: yoooo
+[2021-04-19 13:30:42]: -:-|ML [, Level 0]: bob: yooooo
