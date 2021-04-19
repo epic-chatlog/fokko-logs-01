@@ -9782,3 +9782,5 @@
 [2021-04-19 07:41:35]: H0dƌƔ1 [ℋero, Level 28]: El patron: ?
 [2021-04-19 07:41:50]: |HolyHo| [FookinLads, Level 19]: ERROR:
 [2021-04-19 07:41:56]: sharkz [, Level 45]: ERROR: bisschen mehr kleingeld?
+[2021-04-19 07:42:13]: ***  [, Level 0]: '(2)Cosmo' has left the game
+[2021-04-19 07:42:14]: Coca [Drunks, Level 24]: sorry
