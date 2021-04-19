@@ -10822,3 +10822,11 @@
 [2021-04-19 08:32:46]: JustRace [DogParty, Level 36]: weqe:  I could put you here too
 [2021-04-19 08:32:48]:   [, Level 0]: (1)☺: any﹥☫: fais un stack stp
 [2021-04-19 08:32:50]: JustRace [DogParty, Level 36]: weqe:  so continue war?
+[2021-04-19 08:32:52]:   [, Level 0]: weqe: yes JustRace
+[2021-04-19 08:32:53]: soleri1 [, Level 0]: Salut:
+[2021-04-19 08:32:54]: ***  [, Level 0]: 'Sky' entered and joined the game
+[2021-04-19 08:32:55]: JustRace [DogParty, Level 36]: weqe:  ok
+[2021-04-19 08:32:57]: JustRace [DogParty, Level 36]: weqe:  you will die
+[2021-04-19 08:32:59]:   [, Level 0]: weqe: ok jsut
+[2021-04-19 08:32:59]: ***  [, Level 0]: 'XYN' has left the game
+[2021-04-19 08:33:01]: ***  [, Level 0]: 'OwO' entered and joined the game
