@@ -9281,3 +9281,8 @@
 [2021-04-19 07:25:36]: weqe [669, Level 13]: any: COME HELP BROTHER
 [2021-04-19 07:25:38]: Flippēr [, Level 16]: your so annoying
 [2021-04-19 07:25:40]:   [, Level 0]: (1)☺: any: pk
+[2021-04-19 07:25:47]: ***  [, Level 0]: '|HolyHo|' entered and joined the game
+[2021-04-19 07:25:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-19 07:25:51]: ***  [, Level 0]: '[D] El patron' finished the special race!
+[2021-04-19 07:25:54]: ***  [, Level 0]: 'casserole :p' entered and joined the game
+[2021-04-19 07:25:56]: ***  [, Level 0]: 'SPIKE' has left the game
