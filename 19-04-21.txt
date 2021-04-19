@@ -12298,3 +12298,7 @@
 [2021-04-19 09:52:25]: ***  [, Level 0]: 'UtoPia™ ☬NA' entered and joined the game
 [2021-04-19 09:52:25]: Romani4 [, Level 28]: ERROR.: save me
 [2021-04-19 09:52:26]: ERROR. [404, Level 57]: nexus wrong clan
+[2021-04-19 09:52:40]: ERROR. [404, Level 57]: stop
+[2021-04-19 09:52:41]: SanoreX [Chilli.*, Level 27]: ERROR: I join 404?
+[2021-04-19 09:52:43]: ERROR. [404, Level 57]: no
+[2021-04-19 09:52:43]: ***  [, Level 0]: 'PANZELKOWY' has left the game
