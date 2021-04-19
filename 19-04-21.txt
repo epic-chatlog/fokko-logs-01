@@ -7984,3 +7984,8 @@
 [2021-04-19 06:24:05]: sun.slow(y) [FookinLads, Level 35]: (1)|HolyHo|°: he helps my enemys
 [2021-04-19 06:24:14]:   [, Level 0]: Kezo: enemies*
 [2021-04-19 06:24:14]: ***  [, Level 0]: ':Exec' entered and joined the game
+[2021-04-19 06:24:18]: ***  [, Level 0]: 'El patron' entered and joined the game
+[2021-04-19 06:24:21]: ***  [, Level 0]: 'Pouet[NR]' has left the game
+[2021-04-19 06:24:22]: Taip [VergleriSay, Level 19]: sal
+[2021-04-19 06:24:23]: Taip [VergleriSay, Level 19]: amcık
+[2021-04-19 06:24:25]: Intensiv_ [DogParty, Level 11]: ERROR:  help
