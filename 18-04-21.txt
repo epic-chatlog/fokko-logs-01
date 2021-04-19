@@ -20941,3 +20941,8 @@
 [2021-04-18 17:56:53]: ezy [ComRoach, Level 23]: Fera: nooop
 [2021-04-18 17:56:55]: Fera [, Level 0]: :C
 [2021-04-18 17:56:55]: ezy [ComRoach, Level 23]: ez
+[2021-04-18 17:57:13]: Fera [, Level 0]: bob: help us
+[2021-04-18 17:57:15]: bob [, Level 36]: why
+[2021-04-18 17:57:17]: bob [, Level 36]: i help others ok?
+[2021-04-18 17:57:18]: Fera [, Level 0]: why no?
+[2021-04-18 17:57:20]: ezy [ComRoach, Level 23]: he kill me
