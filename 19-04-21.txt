@@ -1577,3 +1577,5 @@
 [2021-04-19 01:23:01]: ***  [, Level 0]: |HolyHo| finished in: 2 minute(s) 48.44 second(s)
 [2021-04-19 01:23:06]: ***  [, Level 0]: 'nameless te' entered and joined the game
 [2021-04-19 01:23:10]: ***  [, Level 0]: 'nameless te' has left the game
+[2021-04-19 01:23:18]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-19 01:23:20]: ***  [, Level 0]: 'LeeK' entered and joined the game
