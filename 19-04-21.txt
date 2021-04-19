@@ -4493,3 +4493,10 @@
 [2021-04-19 03:38:06]: ***  [, Level 0]: New record: 11.58 second(s) better.
 [2021-04-19 03:38:07]: ***  [, Level 0]: 'f"{self.name}"15' has left the game
 [2021-04-19 03:38:07]: |HolyHo|° [FookinLads, Level 29]: ChillerDragon: ..
+[2021-04-19 03:38:09]: ChillerDragon.* [|*KoG*|, Level 42]: |HolyHo|°: i dont tell u to block ur clan just unfreeze me when its convienient for u
+[2021-04-19 03:38:12]: BulgarianTee [xSD7, Level 0]: HeavyGeneral: i turned it up by 10 and its still darker D:
+[2021-04-19 03:38:15]:   [, Level 0]: Matiteusz: Adil: i cant its imposiblle
+[2021-04-19 03:38:18]: Adil [, Level 0]: ok
+[2021-04-19 03:38:19]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-19 03:38:20]: ***  [, Level 0]: '[D] heyoxe' has left the game
+[2021-04-19 03:38:20]: ***  [, Level 0]: 'heyoxe' has left the game
