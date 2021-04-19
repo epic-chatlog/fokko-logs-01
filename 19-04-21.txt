@@ -3187,3 +3187,4 @@
 [2021-04-19 02:34:54]: Zerstrian [, Level 52]: only if they block me before
 [2021-04-19 02:35:00]:   [, Level 0]: »ℱℬℑ«: Sm0k3y:  ok reported spawnblock
 [2021-04-19 02:35:02]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-19 02:35:13]: power [TrRShClNrRs, Level 15]: well then we must have all blocked u
