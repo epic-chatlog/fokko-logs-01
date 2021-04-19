@@ -5255,3 +5255,7 @@
 [2021-04-19 04:07:16]: SanoreX [Chilli.*, Level 27]: ok bkle
 [2021-04-19 04:07:17]: ***  [, Level 0]: '__init__(self):' has left the game
 [2021-04-19 04:07:18]:   [, Level 0]: sta: Huutochka:  portal pls
+[2021-04-19 04:07:22]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-19 04:07:24]:   [, Level 0]: vollesprit: I like turtles.
+[2021-04-19 04:07:30]: ***  [, Level 0]: 'Type' entered and joined the game
+[2021-04-19 04:07:32]: (1)Raidon [, Level 0]: SanoreX: götür inf jumpa
