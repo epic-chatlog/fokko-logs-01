@@ -4939,3 +4939,5 @@
 [2021-04-19 03:56:30]: any [404, Level 38]: |HolyHo|: stop help .
 [2021-04-19 03:56:40]:   [, Level 0]: Falco642: hi
 [2021-04-19 03:56:42]: ***  [, Level 0]: 'T1uaker v2' entered and joined the game
+[2021-04-19 03:56:57]: RM | Arin [Retard MNKY, Level 41]: WTF komando
+[2021-04-19 03:56:57]: ***  [, Level 0]: 'T1uaker v2' joined the spectators
