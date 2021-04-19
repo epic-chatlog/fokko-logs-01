@@ -15329,3 +15329,7 @@
 [2021-04-19 12:17:53]: galega [, Level 10]: stooooop
 [2021-04-19 12:17:56]: ***  [, Level 0]: 'thiago*_ *' joined the spectators
 [2021-04-19 12:18:00]: ***  [, Level 0]: 'thiago*_ *' joined the game
+[2021-04-19 12:18:01]: SanoreX.* [Chilli.*, Level 23]: xd
+[2021-04-19 12:18:04]: ***  [, Level 0]: 'nameless' entered and joined the game
+[2021-04-19 12:18:06]: ***  [, Level 0]: 'PikapacSecurity' entered and joined the game
+[2021-04-19 12:18:08]: Nagisa [H] [E8, Level 2]: sal ya
