@@ -21150,3 +21150,4 @@
 [2021-04-18 18:40:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-18 18:41:43]: ***  [, Level 0]: 'Nagisa [H]' has left the game
 [2021-04-18 18:41:43]: ***  [, Level 0]: ':D' has left the game
+[2021-04-18 18:42:00]: ***  [, Level 0]: 'Sokuş' entered and joined the game
