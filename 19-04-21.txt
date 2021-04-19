@@ -8209,3 +8209,7 @@
 [2021-04-19 06:37:02]: ***  [, Level 0]: 'Minato/fr dumy' has left the game
 [2021-04-19 06:37:02]:   [, Level 0]: (1)Kirito: xD
 [2021-04-19 06:37:07]: ***  [, Level 0]: 642. Kezo Time: 02:03.06, requested by Kezo
+[2021-04-19 06:37:10]: ***  [, Level 0]: 660. sun.slow(y) Time: 02:14.72, requested by sun.slow(y)
+[2021-04-19 06:37:14]: :D [E8, Level 3]: plz portal
+[2021-04-19 06:37:18]:   [, Level 0]: (1)Kirito: where? xd
+[2021-04-19 06:37:19]: ***  [, Level 0]: '>>>LEKSONIX<<<' entered and joined the game
