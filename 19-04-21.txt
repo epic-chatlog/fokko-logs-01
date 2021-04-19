@@ -12285,3 +12285,9 @@
 [2021-04-19 09:51:49]: ṆḕẌṳS [Chilli.*, Level 0]: ERROR:
 [2021-04-19 09:51:50]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-19 09:51:57]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-19 09:52:00]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-19 09:52:00]: ***  [, Level 0]: ES finished in: 4 minute(s) 22.02 second(s)
+[2021-04-19 09:52:00]: ***  [, Level 0]: New record:  8.00 second(s) better.
+[2021-04-19 09:52:02]: El patron [FookinLads, Level 31]: Ļåҕ Lobster: xd
+[2021-04-19 09:52:07]: Ļåҕ Lobster [Ļåҕ, Level 34]: El patron: ahah :D
+[2021-04-19 09:52:08]: ṆḕẌṳS [Chilli.*, Level 0]: ERROR: help
