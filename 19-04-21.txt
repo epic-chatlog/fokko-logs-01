@@ -8354,3 +8354,8 @@
 [2021-04-19 06:43:47]: Nagisa [H] [E8, Level 2]: plz portal
 [2021-04-19 06:43:49]: ***  [, Level 0]: 'Duke Ellington' entered and joined the game
 [2021-04-19 06:43:51]:   [, Level 0]: RM | Arin: i dont have
+[2021-04-19 06:44:04]: ***  [, Level 0]: '(1)Huutochka' has left the game
+[2021-04-19 06:44:05]: ***  [, Level 0]: 'Kodi' entered and joined the game
+[2021-04-19 06:44:08]: ***  [, Level 0]: 'Intensiv_' has left the game
+[2021-04-19 06:44:08]: ***  [, Level 0]: 'Intensiv' has left the game
+[2021-04-19 06:44:09]: Nagisa [H] [E8, Level 2]: plz
