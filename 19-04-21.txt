@@ -5202,3 +5202,7 @@
 [2021-04-19 04:05:26]: Falco642 [, Level 0]: jump in
 [2021-04-19 04:05:28]:   [, Level 0]: SanoreX.*: Raidon: ben gidiom dummym alcak beni
 [2021-04-19 04:05:29]: ***  [, Level 0]: '(1)Raidon' entered and joined the game
+[2021-04-19 04:05:36]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
+[2021-04-19 04:05:37]:   [, Level 0]: ChillerDragon: war ϻɪɔʜɑʟ
+[2021-04-19 04:05:39]: Falco642 [, Level 0]: go in there
+[2021-04-19 04:05:42]:   [, Level 0]: (1)Raidon: SanoreX: spec
