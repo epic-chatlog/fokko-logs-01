@@ -10981,3 +10981,7 @@
 [2021-04-19 08:42:23]: ***  [, Level 0]: 'OwO' entered and joined the game
 [2021-04-19 08:42:23]: ***  [, Level 0]: 'Hello' entered and joined the game
 [2021-04-19 08:42:27]: ***  [, Level 0]: 'Hello' has left the game
+[2021-04-19 08:42:27]: ***  [, Level 0]: 'OwO' has left the game
+[2021-04-19 08:42:29]: ***  [, Level 0]: 'artur xyz br' entered and joined the game
+[2021-04-19 08:42:30]: ***  [, Level 0]: 'Zephir ツ' entered and joined the game
+[2021-04-19 08:42:36]: ***  [, Level 0]: 'Kenshi ツ' entered and joined the game
