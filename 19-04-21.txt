@@ -5439,3 +5439,6 @@
 [2021-04-19 04:15:42]: Falco641 [.bad, Level 20]: 20
 [2021-04-19 04:15:48]: ***  [, Level 0]: any is on a killing spree with 20 blocks
 [2021-04-19 04:15:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-19 04:15:53]:   [, Level 0]: BulgarianTee: HeavyGeneral: anything u got to say as notes cuz i think its very accurate XD
+[2021-04-19 04:16:00]: Falco641 [.bad, Level 20]: just hold d
+[2021-04-19 04:16:01]: Falco641 [.bad, Level 20]: nothing else
