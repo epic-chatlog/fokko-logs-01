@@ -18574,3 +18574,4 @@
 [2021-04-19 15:26:18]: HeavyGeneral [FookinLads, Level 76]: bob: niga tried to trick me
 [2021-04-19 15:26:21]: bob [, Level 36]: HeavyGeneral: HAHAHAH
 [2021-04-19 15:26:25]: HeavyGeneral [FookinLads, Level 76]: bob: xa-xa
+[2021-04-19 15:26:32]: ***  [, Level 0]: 'Bruh.' has left the game
