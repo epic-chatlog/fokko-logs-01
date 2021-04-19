@@ -20883,3 +20883,5 @@
 [2021-04-18 17:28:57]: ***  [, Level 0]: 'Kirito' entered and joined the game
 [2021-04-18 17:29:02]: Kirito [{TQuila}, Level 0]: nice ma fucking internet crashed
 [2021-04-18 17:29:22]: ***  [, Level 0]: '(1)Kirito' entered and joined the game
+[2021-04-18 17:29:43]: xN0Zoro D [, Level 18]: ez
+[2021-04-18 17:29:44]: ERROR [404, Level 47]: xD
