@@ -1075,3 +1075,10 @@
 [2021-04-19 01:00:13]: ***  [, Level 0]: power2 finished in: 3 minute(s) 17.50 second(s)
 [2021-04-19 01:00:15]: ChillerDragon.* [|*KoG*|, Level 42]: egal ob afk oder nich ReXi
 [2021-04-19 01:00:16]: Intensiv_ [DogParty, Level 11]: GODLIKe:  help
+[2021-04-19 01:00:19]: SanoreX [Chilli.*, Level 27]: mamikral011: kendimi alcam ama sakın blocklama
+[2021-04-19 01:00:20]: #5 blocker [Chilli.*, Level 0]: SanoreX.*: xd okay no problem
+[2021-04-19 01:00:20]: [D] mamikral011 [DogParty, Level 0]: SanoreX.*: söle sg olup gitsin şu sonra alıosa alsın
+[2021-04-19 01:00:21]: ***  [, Level 0]: power finished in: 6 minute(s) 29.52 second(s)
+[2021-04-19 01:00:22]: Arktict [, Level 31]: GODLIKe.: coooome
+[2021-04-19 01:00:23]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-19 01:00:26]: rexi [, Level 0]: ChillerDragon: kk
