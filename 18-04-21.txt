@@ -21397,3 +21397,6 @@
 [2021-04-18 21:51:35]: Noxl [.bad, Level 48]: wen ?
 [2021-04-18 21:51:37]: ezy [ComRoach, Level 23]: 3ndy mdrsh
 [2021-04-18 21:51:40]: Noxl [.bad, Level 48]: aha
+[2021-04-18 21:51:41]: Noxl [.bad, Level 48]: ak
+[2021-04-18 21:51:44]: Noxl [.bad, Level 48]: ok
+[2021-04-18 21:51:45]: Noxl [.bad, Level 48]: bye
