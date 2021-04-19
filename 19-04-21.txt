@@ -1,1 +1,5 @@
 [2021-04-19 00:00:03]: klas 2 [freeporçay, Level 0]: what jetpack
+[2021-04-19 00:00:13]: blektrik [, Level 1]: someone gave it to me lolll
+[2021-04-19 00:00:16]: SanoreX.* [Chilli.*, Level 23]: ok
+[2021-04-19 00:00:18]: ***  [, Level 0]: 'SanoreX.*' started an auction on plot 11 for 1 money (plot expires on 20.04.2021 (19:00))
+[2021-04-19 00:00:18]: ***  [, Level 0]: Use '/plot buy 1 SanoreX.*' to buy the plot
