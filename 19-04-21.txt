@@ -6022,3 +6022,5 @@
 [2021-04-19 04:39:06]: (1)HuskyFloofle [Furry, Level 0]: komando: STop
 [2021-04-19 04:39:08]: ***  [, Level 0]: 'Pikachu' entered and joined the game
 [2021-04-19 04:39:08]: ***  [, Level 0]: 'Cup' entered and joined the game
+[2021-04-19 04:39:12]: ***  [, Level 0]: 'any²' has left the game (Timeout)
+[2021-04-19 04:39:12]: ***  [, Level 0]: 'any' has left the game (Timeout)
