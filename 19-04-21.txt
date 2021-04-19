@@ -391,3 +391,7 @@
 [2021-04-19 00:31:01]: ***  [, Level 0]: 'ZEWO' has left the game (Timeout)
 [2021-04-19 00:31:02]: [D] #5 blocker [|*MorE*|, Level 0]: SanoreX: i reconnect = lost my jetpack
 [2021-04-19 00:31:05]: ***  [, Level 0]: mamikral011 finished in: 5 minute(s) 44.62 second(s)
+[2021-04-19 00:31:11]: SanoreX [Chilli.*, Level 27]: #5 blocker: u use 0.7?
+[2021-04-19 00:31:11]: Bruh. [Blood Day, Level 5]: so big head
+[2021-04-19 00:31:20]: Nagisa [H] [E8, Level 0]: bende oraya gidiyom sonra inf jumpa gitcem
+[2021-04-19 00:31:22]: SanoreX [Chilli.*, Level 27]: #5 blocker: f1 player_clan Chilli.*
