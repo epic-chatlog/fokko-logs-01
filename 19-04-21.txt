@@ -9162,3 +9162,5 @@
 [2021-04-19 07:20:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-19 07:20:53]: vollesprit [, Level 2]: Flipper ?
 [2021-04-19 07:20:54]: Coca [Drunks, Level 24]: gfk: dont lie ok?
+[2021-04-19 07:20:58]:   [, Level 0]: gfk: ok
+[2021-04-19 07:21:04]: any [404, Level 38]: Cylox: war
