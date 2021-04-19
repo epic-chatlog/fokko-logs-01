@@ -10668,3 +10668,6 @@
 [2021-04-19 08:22:06]: ***  [, Level 0]: '[D] im_cloud_' finished the special race!
 [2021-04-19 08:22:12]: ***  [, Level 0]: '(2)Salut' entered and joined the game
 [2021-04-19 08:22:15]:   [, Level 0]: H0dƌƔ1: (1)|HolyHo|°:
+[2021-04-19 08:22:17]: ***  [, Level 0]: 'Vertex' joined the spectators
+[2021-04-19 08:22:19]: ***  [, Level 0]: 'Eren Jäger' has left the game
+[2021-04-19 08:22:22]: ***  [, Level 0]: 'Vertex' joined the game
