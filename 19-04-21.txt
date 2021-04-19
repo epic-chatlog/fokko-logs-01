@@ -10214,3 +10214,8 @@
 [2021-04-19 08:01:37]: SanoreX.* [Chilli.*, Level 23]: aMIK
 [2021-04-19 08:01:37]: Coca [Drunks, Level 24]: Cylox:
 [2021-04-19 08:01:39]: Mert [Blood Gang, Level 0]: cylox
+[2021-04-19 08:01:45]: Coca [Drunks, Level 24]: SanoreX.*: spec. there is a bug
+[2021-04-19 08:01:47]: Mert [Blood Gang, Level 0]: jetpacki verirmisain
+[2021-04-19 08:01:53]:   [, Level 0]: SanoreX: Mert: siki set
+[2021-04-19 08:01:55]:   [, Level 0]: SanoreX: Mert: siki sert
+[2021-04-19 08:01:55]: ☣┆Kenshi™ [404, Level 35]: ☺: stop grenade
