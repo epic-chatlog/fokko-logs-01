@@ -21294,3 +21294,4 @@
 [2021-04-18 19:46:05]: ***  [, Level 0]: 'ERROR,' has left the game (Timeout)
 [2021-04-18 19:46:05]: ***  [, Level 0]: 'ERROR' would have timed out, but can use timeout protection now
 [2021-04-18 19:46:05]: ***  [, Level 0]: 'ERROR.' would have timed out, but can use timeout protection now
+[2021-04-18 19:48:31]: ***  [, Level 0]: 'Vesorp' entered and joined the game
