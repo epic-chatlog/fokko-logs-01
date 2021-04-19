@@ -5993,3 +5993,9 @@
 [2021-04-19 04:37:50]: Falco642 [, Level 0]: RM | Arin: ok lol
 [2021-04-19 04:37:51]: ***  [, Level 0]: 'Cassie' has left the game
 [2021-04-19 04:37:55]: ***  [, Level 0]: 'Mathew' entered and joined the game
+[2021-04-19 04:37:58]:   [, Level 0]: BulgarianTee: weqe: BAD
+[2021-04-19 04:38:02]: PoliceTee [PoliceForce, Level 38]: ChillerDragon: HEL
+[2021-04-19 04:38:02]:   [, Level 0]: ChillerDragon: PoliceTee: I am currently afk.
+[2021-04-19 04:38:04]: ***  [, Level 0]: 'Mathew' joined the spectators
+[2021-04-19 04:38:05]: PoliceTee [PoliceForce, Level 38]: MAN
+[2021-04-19 04:38:08]: ***  [, Level 0]: 'Mathew' joined the game
