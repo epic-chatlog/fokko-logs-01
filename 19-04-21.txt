@@ -16964,3 +16964,6 @@
 [2021-04-19 13:46:14]: bob [, Level 36]: i cant see
 [2021-04-19 13:46:17]: bob [, Level 36]: dd
 [2021-04-19 13:46:26]: . [TrRShClNrRs, Level 10]: (1)Sayme: cl_mouse_max_distance 5000000000
+[2021-04-19 13:46:42]: bob [, Level 36]: WTF HOW
+[2021-04-19 13:46:43]: (1)Sayme [, Level 0]: .: thats a bug
+[2021-04-19 13:46:44]: . [TrRShClNrRs, Level 10]: xd
