@@ -20663,3 +20663,6 @@
 [2021-04-18 17:08:28]: (1)Kirito [, Level 14]: da kommt einer von hinten police
 [2021-04-18 17:08:36]: ERROR [404, Level 47]: ah
 [2021-04-18 17:09:05]: ***  [, Level 0]: 'Black' entered and joined the game
+[2021-04-18 17:09:09]: bob [, Level 36]: hello
+[2021-04-18 17:09:10]: ERROR [404, Level 47]: say sorry
+[2021-04-18 17:09:16]: weqe [669, Level 13]: ERROR: u help him its unfair
