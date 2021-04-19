@@ -8118,3 +8118,7 @@
 [2021-04-19 06:32:10]: ***  [, Level 0]: 'the last kozlik' entered and joined the game
 [2021-04-19 06:32:15]: Lucas [THECEPS, Level 35]: Minato / FR: there are other farms btw
 [2021-04-19 06:32:30]: Raidon [, Level 24]: fuck fuck fuck fuck
+[2021-04-19 06:32:37]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-19 06:32:38]: Raidon's Pet [, Level 20]: Good man:
+[2021-04-19 06:32:38]:   [, Level 0]: Huutochka: im a garbage
+[2021-04-19 06:32:40]: Raidon's Pet [, Level 20]: Good man:
