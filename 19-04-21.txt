@@ -17220,3 +17220,6 @@
 [2021-04-19 14:01:47]: Killua [FookinLads, Level 37]: bob u like who
 [2021-04-19 14:01:50]: ***  [, Level 0]: 'ZEWO' changed name to 'IM'
 [2021-04-19 14:01:50]: ***  [, Level 0]: '(1)ZEWO' changed name to '(1)IM'
+[2021-04-19 14:01:52]: bob [, Level 36]: you
+[2021-04-19 14:01:56]: ***  [, Level 0]: 'IM' changed name to 'ZEWO'
+[2021-04-19 14:02:02]: ***  [, Level 0]: '(1)IM' changed name to '(1)ZEWO'
