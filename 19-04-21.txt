@@ -3710,3 +3710,6 @@
 [2021-04-19 02:57:37]:   [, Level 0]: [D] mamikral011: Nagisa [H]: çık hele
 [2021-04-19 02:57:37]: ***  [, Level 0]: 'Metiyonin' entered and joined the game
 [2021-04-19 02:57:37]: ***  [, Level 0]: 'Raidon's Pet' entered and joined the game
+[2021-04-19 02:57:47]: Nagisa [H] [E8, Level 0]: nereye
+[2021-04-19 02:57:49]: Intensiv_ [DogParty, Level 11]: help
+[2021-04-19 02:57:55]: ♥TAKO♥ [DogParty, Level 25]: mamikral011:  knk 26 lvl olcam :D
