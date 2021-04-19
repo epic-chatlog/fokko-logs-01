@@ -13795,3 +13795,4 @@
 [2021-04-19 11:02:05]: YelloWorlD [DogParty, Level 57]: a
 [2021-04-19 11:02:08]: ***  [, Level 0]: 'M4YT4P' has left the game
 [2021-04-19 11:02:09]: YelloWorlD [DogParty, Level 57]: (2)Kirito: bot ?
+[2021-04-19 11:02:24]: YelloWorlD [DogParty, Level 57]: (2)DiscordBridg: ERROR go on youtube xD
