@@ -1425,3 +1425,7 @@
 [2021-04-19 01:14:32]: ***  [, Level 0]: 'toine' has left the game
 [2021-04-19 01:14:33]: ***  [, Level 0]: 'toine' entered and joined the game
 [2021-04-19 01:14:35]: Noémi [Queen , Level 40]: mamikral011: nézd a dc-t xdd
+[2021-04-19 01:14:41]: ***  [, Level 0]: 'emremarvan' joined the spectators
+[2021-04-19 01:14:43]: ChillerDragon [Chilli.*, Level 45]: Kezo changed name to Intensiv lamao
+[2021-04-19 01:14:46]: ***  [, Level 0]: 'emremarvan' joined the game
+[2021-04-19 01:14:47]: SanoreX [Chilli.*, Level 27]: teetower
