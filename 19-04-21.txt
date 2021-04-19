@@ -8263,3 +8263,8 @@
 [2021-04-19 06:39:27]: sun.slow(y) [FookinLads, Level 35]: Kezo: go give me the 100k
 [2021-04-19 06:39:32]:   [, Level 0]: Kezo: sun.slow(y): no why
 [2021-04-19 06:39:35]: sun.slow(y) [FookinLads, Level 35]: Kezo: hahahaha
+[2021-04-19 06:39:37]: sun.slow(y) [FookinLads, Level 35]: Kezo: what a noob
+[2021-04-19 06:39:38]:   [, Level 0]: Kezo: xDDDDD
+[2021-04-19 06:39:40]: Raidon [, Level 24]: Ƭevan: im ready
+[2021-04-19 06:39:42]: ***  [, Level 0]: 'neocotik' entered and joined the game
+[2021-04-19 06:39:46]: ***  [, Level 0]: 'tree' entered and joined the game
