@@ -13061,3 +13061,4 @@
 [2021-04-19 10:27:20]: bob [, Level 36]: Cylox: WHERE
 [2021-04-19 10:27:20]: ***  [, Level 0]: 'KeBu28' changed name to 'sL|KeBu28'
 [2021-04-19 10:27:20]: ***  [, Level 0]: 'KeBu280' changed name to 'sL|KeBu280'
+[2021-04-19 10:27:27]: [D] Cylox [{TQuila}, Level 25]: bob: left upp
