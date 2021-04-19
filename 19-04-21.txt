@@ -37,3 +37,6 @@
 [2021-04-19 00:02:27]: ***  [, Level 0]: Use '/plot buy 2 Zerstrian' to buy the plot
 [2021-04-19 00:02:30]: ***  [, Level 0]: Plot 11 has been bought by 'SanoreX'
 [2021-04-19 00:02:33]: SanoreX [Chilli.*, Level 27]: thx Zerstrian
+[2021-04-19 00:02:36]: Zerstrian [, Level 52]: ez 1 money made
+[2021-04-19 00:02:39]: Zerstrian [, Level 52]: you're welcome
+[2021-04-19 00:02:40]: SanoreX [Chilli.*, Level 27]: now plot on my main
