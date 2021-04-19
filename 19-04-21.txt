@@ -5129,3 +5129,6 @@
 [2021-04-19 04:03:23]: [D]ϻɪɔʜɑʟ [DogParty, Level 20]: YelloWorlD: admin clan
 [2021-04-19 04:03:23]:   [, Level 0]: Falco642: vollesprit: wait dont reset
 [2021-04-19 04:03:23]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 10 blocks
+[2021-04-19 04:03:29]: Raidon's Pet [, Level 20]: Coca: spec xd
+[2021-04-19 04:03:29]: ***  [, Level 0]: 642. Kezo Time: 02:03.06, requested by Kezo
+[2021-04-19 04:03:34]:   [, Level 0]: BulgarianTee: .: i cant describe what gay u r
