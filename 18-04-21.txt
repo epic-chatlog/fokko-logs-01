@@ -20747,3 +20747,5 @@
 [2021-04-18 17:15:43]: Black [, Level 0]: xD
 [2021-04-18 17:15:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-18 17:15:52]: weqe [669, Level 13]: i will wait bob no rush honey
+[2021-04-18 17:16:18]: Black [, Level 0]: WAIT ILL SEE IF I HAVE MORE weqe  bob
+[2021-04-18 17:16:24]: weqe [669, Level 13]: bob: u can talk now
