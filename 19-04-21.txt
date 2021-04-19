@@ -419,3 +419,6 @@
 [2021-04-19 00:33:01]: #5 blocker [|*MorE*|, Level 0]: SanoreX: dont work
 [2021-04-19 00:33:03]: SanoreX [Chilli.*, Level 27]: ChillerDragon: can I change server dummy skin color in cpp codes?
 [2021-04-19 00:33:09]: ChillerDragon.* [Chilli.*, Level 42]: yes
+[2021-04-19 00:33:18]: SanoreX [Chilli.*, Level 27]: ChillerDragon: tell me cpp file
+[2021-04-19 00:33:22]: ***  [, Level 0]: 'GrayFox5656' has left the game
+[2021-04-19 00:33:28]: ChillerDragon.* [|*KoG*|, Level 42]: idk maybe server.cpp
