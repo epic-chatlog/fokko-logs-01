@@ -17050,3 +17050,4 @@
 [2021-04-19 13:52:24]: bob [, Level 36]: (1)ZEWO: iam police
 [2021-04-19 13:52:31]: (1)ZEWO [, Level 0]: bob: oky
 [2021-04-19 13:52:42]: . [TrRShClNrRs, Level 10]: bob: im trying
+[2021-04-19 13:52:47]: . [TrRShClNrRs, Level 10]: bob: different mouse max distances
