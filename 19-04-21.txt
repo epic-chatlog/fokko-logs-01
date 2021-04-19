@@ -11044,3 +11044,5 @@
 [2021-04-19 08:45:15]: ***  [, Level 0]: '(1)Good man' entered and joined the game
 [2021-04-19 08:45:20]: sun.slow(y) [FookinLads, Level 35]: sharkz: olm diese v3 hab ich von 2014-17 gespielt
 [2021-04-19 08:45:21]: |HolyHo| [FookinLads, Level 19]: El patron:
+[2021-04-19 08:45:22]:   [, Level 0]: (1)Good man: занят
+[2021-04-19 08:45:25]: løminatiøn· [, Level 37]: H0dƌƔ1: no need luck
