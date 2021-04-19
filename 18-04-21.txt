@@ -21111,3 +21111,7 @@
 [2021-04-18 18:30:55]: bob [, Level 36]: wtf
 [2021-04-18 18:30:57]: bob [, Level 36]: u mean quit
 [2021-04-18 18:30:58]: bob [, Level 36]: leave or quit
+[2021-04-18 18:31:05]: (1)☺ [, Level 23]: leave
+[2021-04-18 18:31:06]: ezy [ComRoach, Level 23]: roberk: gev flag
+[2021-04-18 18:31:10]: bob [, Level 36]: bb
+[2021-04-18 18:31:11]: (1)☺ [, Level 23]: bye
