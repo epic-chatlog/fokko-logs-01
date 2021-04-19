@@ -15333,3 +15333,7 @@
 [2021-04-19 12:18:04]: ***  [, Level 0]: 'nameless' entered and joined the game
 [2021-04-19 12:18:06]: ***  [, Level 0]: 'PikapacSecurity' entered and joined the game
 [2021-04-19 12:18:08]: Nagisa [H] [E8, Level 2]: sal ya
+[2021-04-19 12:18:16]: ***  [, Level 0]: 'serwan' has left the game
+[2021-04-19 12:18:16]: (1)casserole :p [, Level 0]: Zephir ツ:
+[2021-04-19 12:18:21]: SanoreX.* [Chilli.*, Level 23]: .: portal
+[2021-04-19 12:18:23]: [D] Cylox [{TQuila}, Level 25]: joke
