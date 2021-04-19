@@ -16820,3 +16820,6 @@
 [2021-04-19 13:32:27]: bob [, Level 36]: HardreenClutch: no warp l
 [2021-04-19 13:32:28]: Falco641 [.bad, Level 20]: MOANN
 [2021-04-19 13:32:36]: HardreenClutch [, Level 57]: bob:  ich will nicht das welche meine enemys helfen die mich blocken
+[2021-04-19 13:32:39]: bob [, Level 36]: ok
+[2021-04-19 13:32:41]: bob [, Level 36]: ich helfe nicht mehr
+[2021-04-19 13:32:46]: [D] Cylox [{TQuila}, Level 25]: My keyboard is bad because I'm poor, sorry
