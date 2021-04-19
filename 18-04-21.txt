@@ -21555,3 +21555,5 @@
 [2021-04-18 23:20:39]: #5 blocker [|*MorE*|, Level 0]: WTF
 [2021-04-18 23:20:41]: #5 blocker [|*MorE*|, Level 0]: HOW
 [2021-04-18 23:20:46]: [D]ϻɪɔʜɑʟ [Chilli.*, Level 20]: idk
+[2021-04-18 23:20:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-18 23:20:51]: [D]ϻɪɔʜɑʟ [Chilli.*, Level 20]: u have rifle?
