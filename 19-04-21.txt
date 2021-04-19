@@ -6930,3 +6930,8 @@
 [2021-04-19 05:06:31]:   [, Level 0]: any: hi ERROR
 [2021-04-19 05:06:32]: ***  [, Level 0]: 'ReXi' has left the game
 [2021-04-19 05:06:36]:   [, Level 0]: ERROR,: any hi
+[2021-04-19 05:06:46]:   [, Level 0]: any: heyy Zam
+[2021-04-19 05:06:49]:   [, Level 0]: any: heyy Zephir™
+[2021-04-19 05:06:49]: BulgarianTee [Bulgaria, Level 0]: any: french nobo D:
+[2021-04-19 05:06:49]: Arktict [, Level 31]: avioocals: mais jvais galerer a aller te chercher
+[2021-04-19 05:06:52]:   [, Level 0]: Falco642: power: i was gonna drag him out and you just had to get in the fucking way
