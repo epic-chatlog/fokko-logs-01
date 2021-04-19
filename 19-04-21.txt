@@ -8971,3 +8971,10 @@
 [2021-04-19 07:10:07]: ***  [, Level 0]: New record: 1 minute(s) 50.98 second(s) better.
 [2021-04-19 07:10:07]: ***  [, Level 0]: 'Vertex' entered and joined the game
 [2021-04-19 07:10:08]:   [, Level 0]: (1)☺: nooon
+[2021-04-19 07:10:09]: ***  [, Level 0]: '|HolyHo|°' has left the game
+[2021-04-19 07:10:09]: ***  [, Level 0]: '|HolyHo|' has left the game
+[2021-04-19 07:10:10]: (2)Kirito [{TQuila}, Level 41]: Levi: idk
+[2021-04-19 07:10:12]: [D] El patron [FookinLads, Level 24]: ~DemoizL~:  you want war
+[2021-04-19 07:10:14]:   [, Level 0]: mamikral011: weqe: war*
+[2021-04-19 07:10:18]: [D] El patron [FookinLads, Level 24]: ~DemoizL~: oaddwar
+[2021-04-19 07:10:19]: ***  [, Level 0]: 'El Monkey' entered and joined the game
