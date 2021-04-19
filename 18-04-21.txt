@@ -21141,3 +21141,4 @@
 [2021-04-18 18:38:32]: ***  [, Level 0]: 'guigui' has left the game
 [2021-04-18 18:39:09]: Nagisa [H] [E8, Level 0]: who have portal gun
 [2021-04-18 18:39:35]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-18 18:39:37]: roberk [, Level 0]: nar:  i help you
