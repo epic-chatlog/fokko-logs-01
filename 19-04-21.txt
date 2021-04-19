@@ -13202,3 +13202,5 @@
 [2021-04-19 10:35:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-19 10:35:51]: Rainbow Tee [KyStiKi, Level 10]: krallll: ...
 [2021-04-19 10:35:56]: SanoreX.* [Chilli.*, Level 0]: LAN HOOKLA ZEWO
+[2021-04-19 10:36:04]: ***  [, Level 0]: 'Rem's bae' has left the game
+[2021-04-19 10:36:06]: keepertrain._. [Chilli.*, Level 30]: why lag
