@@ -16959,3 +16959,7 @@
 [2021-04-19 13:45:58]: bob [, Level 36]: show
 [2021-04-19 13:45:59]: . [TrRShClNrRs, Level 10]: bob: its pretty far
 [2021-04-19 13:46:01]: bob [, Level 36]: again
+[2021-04-19 13:46:10]: (1)Sayme [, Level 0]: .: how?
+[2021-04-19 13:46:12]: bob [, Level 36]: again
+[2021-04-19 13:46:14]: bob [, Level 36]: i cant see
+[2021-04-19 13:46:17]: bob [, Level 36]: dd
