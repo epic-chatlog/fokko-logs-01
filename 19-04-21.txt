@@ -12212,3 +12212,4 @@
 [2021-04-19 09:49:07]: SkyForge [, Level 22]: soleri1:  stop
 [2021-04-19 09:49:10]: SkyForge [, Level 22]: soleri1:  wth man
 [2021-04-19 09:49:15]: [D] Cylox [{TQuila}, Level 25]: ERROR: huuhu
+[2021-04-19 09:49:24]: ERROR. [404, Level 57]: omg lagggyy
