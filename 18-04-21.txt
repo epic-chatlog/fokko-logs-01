@@ -20905,3 +20905,4 @@
 [2021-04-18 17:44:26]: Tommy [, Level 0]: ?
 [2021-04-18 17:44:41]: ***  [, Level 0]: 'coffee' entered and joined the game
 [2021-04-18 17:45:18]: ***  [, Level 0]: 'coffee' has left the game
+[2021-04-18 17:45:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
