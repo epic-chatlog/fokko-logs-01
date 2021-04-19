@@ -11560,3 +11560,6 @@
 [2021-04-19 09:20:20]: ***  [, Level 0]: 'Killua' has left the game
 [2021-04-19 09:20:23]: [D] Cylox [{TQuila}, Level 25]: Xd,
 [2021-04-19 09:20:30]: ***  [, Level 0]: [RUS] is on a killing spree with 10 blocks
+[2021-04-19 09:20:37]: SanoreX [Chilli.*, Level 27]: ChillerDragon: go police and I laser u
+[2021-04-19 09:20:45]: ***  [, Level 0]: [D] El patron is on a killing spree with 25 blocks
+[2021-04-19 09:20:46]: ***  [, Level 0]: 'Niemand' entered and joined the game
