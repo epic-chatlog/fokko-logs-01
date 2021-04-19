@@ -132,3 +132,4 @@
 [2021-04-19 00:09:21]: SanoreX.* [Chilli.*, Level 23]: Bruh.: bind t "chat all; emote 4"
 [2021-04-19 00:09:37]: Bruh. [Blood Day, Level 5]: enterde yapıyom ben
 [2021-04-19 00:09:40]: Bruh. [Blood Day, Level 5]: nası olcak .d
+[2021-04-19 00:09:47]: SanoreX.* [Chilli.*, Level 23]: Bruh.: bind return "chat all; emote 4"
