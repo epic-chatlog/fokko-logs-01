@@ -21746,3 +21746,5 @@
 [2021-04-18 23:49:19]: ***  [, Level 0]: 'nar' has left the game
 [2021-04-18 23:49:19]: ***  [, Level 0]: 'ezy' has left the game
 [2021-04-18 23:49:37]: (1)Zerstrian [, Level 42]: r
+[2021-04-18 23:49:50]: ***  [, Level 0]: #5 blocker finished in: 23 minute(s) 24.50 second(s)
+[2021-04-18 23:49:55]: (1)Zerstrian [, Level 42]: only hammer?
