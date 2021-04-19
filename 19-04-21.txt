@@ -5678,3 +5678,7 @@
 [2021-04-19 04:24:54]: Raidon's Pet [, Level 20]: tm atla diğeryle
 [2021-04-19 04:24:55]: SanoreX [Chilli.*, Level 27]: .* deil
 [2021-04-19 04:24:56]: Nagisa [H] [E8, Level 1]: bekle
+[2021-04-19 04:24:58]:   [, Level 0]: BulgarianTee: hello and bye
+[2021-04-19 04:25:00]: Nagisa [H] [E8, Level 1]: burda
+[2021-04-19 04:25:06]: Raidon's Pet [, Level 20]: gel
+[2021-04-19 04:25:09]: SanoreX.* [Chilli.*, Level 23]: LAn
