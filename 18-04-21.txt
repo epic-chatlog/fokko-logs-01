@@ -20597,3 +20597,5 @@
 [2021-04-18 17:01:59]: weqe [669, Level 13]: say sorry
 [2021-04-18 17:02:02]: bob [, Level 36]: sorry
 [2021-04-18 17:02:14]: bob [, Level 36]: say sorry
+[2021-04-18 17:02:16]: weqe [669, Level 13]: sorry
+[2021-04-18 17:02:22]: Kirito [{TQuila}, Level 41]: xD
