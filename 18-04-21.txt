@@ -21478,3 +21478,5 @@
 [2021-04-18 22:58:38]: ***  [, Level 0]: New record: 10.18 second(s) better.
 [2021-04-18 22:59:27]: ***  [, Level 0]: '(1)Raidon' entered and joined the game
 [2021-04-18 22:59:31]: ***  [, Level 0]: '(1)Raidon's Pet' entered and joined the game
+[2021-04-18 23:00:09]: ***  [, Level 0]: 'Not Zerstrian' finished the special race!
+[2021-04-18 23:00:09]: ***  [, Level 0]: 'Zerstrian' finished the special race!
