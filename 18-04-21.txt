@@ -20723,3 +20723,10 @@
 [2021-04-18 17:14:45]: weqe [669, Level 13]: bob: give money and say sorry
 [2021-04-18 17:14:46]: bob [, Level 36]: black
 [2021-04-18 17:14:47]: bob [, Level 36]: omgg
+[2021-04-18 17:14:53]: ***  [, Level 0]: 'Black' entered and joined the game
+[2021-04-18 17:14:54]: bob [, Level 36]: I give half ok
+[2021-04-18 17:14:56]: weqe [669, Level 13]: all
+[2021-04-18 17:15:00]: bob [, Level 36]: half
+[2021-04-18 17:15:02]: weqe [669, Level 13]: ok
+[2021-04-18 17:15:02]: bob [, Level 36]: deal or no de al
+[2021-04-18 17:15:02]: Black [, Level 0]: wait and yeah weqe ramadan mubarak
