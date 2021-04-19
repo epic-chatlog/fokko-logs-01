@@ -10707,3 +10707,6 @@
 [2021-04-19 08:25:11]: ***  [, Level 0]: 'fluffrit' joined the spectators
 [2021-04-19 08:25:13]:   [, Level 0]: Bok isa ben: asagi gelin para yagmuru
 [2021-04-19 08:25:15]: ***  [, Level 0]: 'fluffrit' joined the game
+[2021-04-19 08:25:24]: [D] any [404, Level 42]: Kenshi ツ: ☫
+[2021-04-19 08:25:25]: (2)Kirito [{TQuila}, Level 41]: ERROR: warum hilfst du der gulasch schwuchtel mann
+[2021-04-19 08:25:29]: SanoreX [Chilli.*, Level 27]: Lucas: omg best plot!
