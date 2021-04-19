@@ -9741,3 +9741,7 @@
 [2021-04-19 07:39:04]: ***  [, Level 0]: 'Kompingo' entered and joined the game
 [2021-04-19 07:39:04]: ***  [, Level 0]: 'Уточка'-'' entered and joined the game
 [2021-04-19 07:39:06]: løminatiøn· [, Level 37]: good
+[2021-04-19 07:39:10]: ***  [, Level 0]: 'Vertex' left the minigame 'Survival'
+[2021-04-19 07:39:10]: sharkz [, Level 45]: best*
+[2021-04-19 07:39:12]: ***  [, Level 0]: 'Уточка'-'' has left the game
+[2021-04-19 07:39:13]: ***  [, Level 0]: 'Keø' changed name to 'Crøzzz'
