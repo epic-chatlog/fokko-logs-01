@@ -21167,3 +21167,5 @@
 [2021-04-18 18:48:41]: nar [ComRoach, Level 19]: rsltlk
 [2021-04-18 18:48:53]: sikiş [, Level 0]: help
 [2021-04-18 18:49:12]: ***  [, Level 0]: 'Blueberry' has left the game
+[2021-04-18 18:49:40]: O.o [, Level 38]: Black:
+[2021-04-18 18:49:42]: ***  [, Level 0]: 'Nako!' has left the game
