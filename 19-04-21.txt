@@ -17350,3 +17350,8 @@
 [2021-04-19 14:05:48]: sharkz [, Level 45]: fokkonaut: wie ist mein passwort
 [2021-04-19 14:05:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-19 14:05:52]: bob [, Level 36]: i peace with half of them stop now
+[2021-04-19 14:05:57]: ZEWO [, Level 0]: ChillerDragon.*:
+[2021-04-19 14:05:57]: ChillerDragon.* [|*KoG*|, Level 42]: ZEWO: I am currently afk.
+[2021-04-19 14:06:01]: Zephir ツ [404, Level 40]: RM | Arin: nope
+[2021-04-19 14:06:03]: ZEWO [, Level 0]: ChillerDragon:
+[2021-04-19 14:06:03]: ChillerDragon.* [|*KoG*|, Level 42]: ZEWO: I am currently afk.
