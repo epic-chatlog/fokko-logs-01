@@ -10923,3 +10923,10 @@
 [2021-04-19 08:38:51]:   [, Level 0]: woona: ChillerDragon.*:
 [2021-04-19 08:38:51]: ChillerDragon.* [Chilli.*, Level 42]: woona: I am currently afk.
 [2021-04-19 08:38:53]: ***  [, Level 0]: 'abdousteve348' entered and joined the game
+[2021-04-19 08:38:58]:   [, Level 0]: Lucifero: sun.slow(y): kind ja
+[2021-04-19 08:38:59]:   [, Level 0]: OwO: sa
+[2021-04-19 08:39:00]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-19 08:39:00]: ***  [, Level 0]: 'SanoreX' has left the game (Timeout Protection over)
+[2021-04-19 08:39:01]: ***  [, Level 0]: 'sherlok holmes' entered and joined the game
+[2021-04-19 08:39:06]:   [, Level 0]: OwO: woona:  sa
+[2021-04-19 08:39:08]: sun.slow(y) [FookinLads, Level 35]: Lucifero: ein highkick und das weinglas deiner alkoholerkrankten mutter fällt
