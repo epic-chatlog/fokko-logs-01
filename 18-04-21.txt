@@ -20999,3 +20999,4 @@
 [2021-04-18 18:10:27]: ***  [, Level 0]: 'michiel' has left the game
 [2021-04-18 18:10:42]: ***  [, Level 0]: 'ehhe' entered and joined the game
 [2021-04-18 18:10:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-18 18:10:52]: ***  [, Level 0]: 'ehhe' has left the game
