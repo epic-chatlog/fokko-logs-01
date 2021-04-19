@@ -3107,3 +3107,8 @@
 [2021-04-19 02:30:50]:   [, Level 0]: Lahma cum: Nagisa [H]: okey
 [2021-04-19 02:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-19 02:30:51]: Matiteusz [TrRShClNrRs, Level 37]: Mista bombastic: kil hims dummy
+[2021-04-19 02:30:57]: Telefantastic [TrRShClNrRs, Level 34]: Zerstrian: sto
+[2021-04-19 02:30:59]: ***  [, Level 0]: '[D] Dilara' has left the game
+[2021-04-19 02:30:59]: Telefantastic [TrRShClNrRs, Level 34]: stp
+[2021-04-19 02:31:04]: ***  [, Level 0]: 'GODLIKe' has left the game
+[2021-04-19 02:31:05]: Bruh. [Blood Day, Level 5]: lagg .d
