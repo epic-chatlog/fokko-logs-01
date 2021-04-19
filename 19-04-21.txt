@@ -11912,3 +11912,8 @@
 [2021-04-19 09:38:05]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-19 09:38:07]: Flippēr [, Level 0]: jesus chrisst
 [2021-04-19 09:38:09]: Flippēr [, Level 0]: your so bad
+[2021-04-19 09:38:14]: ***  [, Level 0]: 'Axandos²' has left the game
+[2021-04-19 09:38:14]: ***  [, Level 0]: 'Axandos' has left the game
+[2021-04-19 09:38:19]: SanoreX [Chilli.*, Level 27]: haxk
+[2021-04-19 09:38:21]: SanoreX [Chilli.*, Level 27]: hack
+[2021-04-19 09:38:23]: SanoreX [Chilli.*, Level 27]: krx
