@@ -18733,3 +18733,4 @@
 [2021-04-19 15:44:53]: ***  [, Level 0]: '(2)Kirito' has left the game
 [2021-04-19 15:44:57]: ***  [, Level 0]: 'Black' entered and joined the game
 [2021-04-19 15:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-19 15:46:45]: bob [, Level 36]: thanks brother
