@@ -21122,3 +21122,5 @@
 [2021-04-18 18:31:35]: Black [, Level 0]: nar:  UR Insta
 [2021-04-18 18:31:36]: Black [, Level 0]: ?
 [2021-04-18 18:31:37]: nar [ComRoach, Level 19]: my mony man
+[2021-04-18 18:33:11]: ***  [, Level 0]: ':D' entered and joined the game
+[2021-04-18 18:33:12]: ***  [, Level 0]: 'sikiş' entered and joined the game
