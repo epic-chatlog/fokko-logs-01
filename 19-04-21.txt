@@ -279,3 +279,5 @@
 [2021-04-19 00:23:36]: SanoreX [Chilli.*, Level 27]: evt
 [2021-04-19 00:23:42]: Bruh. [Blood Day, Level 5]: ismi ne
 [2021-04-19 00:23:44]: SanoreX [Chilli.*, Level 27]: chillerdragon hammer Bruh.
+[2021-04-19 00:23:49]: ***  [, Level 0]: 'toine' entered and joined the game
+[2021-04-19 00:23:52]: ***  [, Level 0]: 'Julianno' entered and joined the game
