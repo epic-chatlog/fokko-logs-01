@@ -5426,3 +5426,11 @@
 [2021-04-19 04:15:07]: Falco641 [.bad, Level 20]: no
 [2021-04-19 04:15:09]: Falco641 [.bad, Level 20]: its for level 30
 [2021-04-19 04:15:09]: Raidon's Pet [, Level 20]: pls
+[2021-04-19 04:15:13]: Falco641 [.bad, Level 20]: i think
+[2021-04-19 04:15:14]: vollesprit [, Level 1]: ah...
+[2021-04-19 04:15:18]: ***  [, Level 0]: 'ichdubinich' entered and joined the game
+[2021-04-19 04:15:18]: Falco641 [.bad, Level 20]: also its bad
+[2021-04-19 04:15:22]: vollesprit [, Level 1]: what is your lvl ?
+[2021-04-19 04:15:24]: ***  [, Level 0]: 'ichdubinich' has left the game
+[2021-04-19 04:15:24]:   [, Level 0]: f"{self.name}": fokkonaut: and im out :D
+[2021-04-19 04:15:25]: Raidon [, Level 24]: PoliceTee: he have deep freez
