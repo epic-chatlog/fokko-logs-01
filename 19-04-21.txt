@@ -4018,3 +4018,12 @@
 [2021-04-19 03:14:27]: Raidon's Pet [, Level 20]: any: spike he block you
 [2021-04-19 03:14:28]: . [TrRShClNrRs, Level 43]: PoliceTee: do you wannabe a policeman?
 [2021-04-19 03:14:30]: ***  [, Level 0]: '???????' entered and joined the game
+[2021-04-19 03:14:32]: ***  [, Level 0]: 'Cacke' has left the game
+[2021-04-19 03:14:32]: ***  [, Level 0]: 'Cup' has left the game
+[2021-04-19 03:14:34]:   [, Level 0]: PoliceTee: .: i am a policemann
+[2021-04-19 03:14:36]:   [, Level 0]: any: Raidon: mamikral011 stop fight
+[2021-04-19 03:14:36]: . [TrRShClNrRs, Level 43]: PoliceTee: oh
+[2021-04-19 03:14:37]: Telefantastic [TrRShClNrRs, Level 34]: PoliceTee: polizistmann
+[2021-04-19 03:14:37]:   [, Level 0]: Taip: bum
+[2021-04-19 03:14:40]: . [TrRShClNrRs, Level 43]: PoliceTee: and when u grow up
+[2021-04-19 03:14:41]:   [, Level 0]: Raidon: any: ok go endless
