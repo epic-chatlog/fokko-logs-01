@@ -8127,3 +8127,7 @@
 [2021-04-19 06:32:52]: Lucas [THECEPS, Level 35]: Minato / FR: were than
 [2021-04-19 06:32:53]:   [, Level 0]: Minato / FR: i want inf jump pls
 [2021-04-19 06:32:57]: ***  [, Level 0]: '__init__(self):' entered and joined the game
+[2021-04-19 06:33:00]: ***  [, Level 0]: 'UOYKCUFI' has left the game
+[2021-04-19 06:33:00]: ***  [, Level 0]: 'Michel' has left the game
+[2021-04-19 06:33:05]: Raidon's Pet [, Level 20]: Good man:
+[2021-04-19 06:33:10]: Lucas [THECEPS, Level 35]: Minato / FR: were you want farm
