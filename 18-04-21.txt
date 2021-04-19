@@ -21090,3 +21090,6 @@
 [2021-04-18 18:26:54]: (1)☺ [, Level 23]: no
 [2021-04-18 18:26:57]: bob [, Level 36]: yes
 [2021-04-18 18:27:28]: (1)☺ [, Level 23]: sure*
+[2021-04-18 18:27:28]: ***  [, Level 0]: 'Kirito' has left the game (Timeout)
+[2021-04-18 18:27:29]: ***  [, Level 0]: '(1)Kirito' has left the game (Timeout)
+[2021-04-18 18:27:31]: roberk [, Level 0]: bob:  enemy everyone
