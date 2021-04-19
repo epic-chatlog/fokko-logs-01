@@ -10426,3 +10426,6 @@
 [2021-04-19 08:12:05]: ***  [, Level 0]: 'fluffrit' joined the game
 [2021-04-19 08:12:09]: ***  [, Level 0]: 'MattéoLaChienn' entered and joined the game
 [2021-04-19 08:12:09]: Intensiv [DogParty, Level 17]: sun.slow(y):  barış
+[2021-04-19 08:12:11]: Good man [Drunks, Level 33]: XD
+[2021-04-19 08:12:15]:   [, Level 0]: Yoshi: |HolyHo|: ?
+[2021-04-19 08:12:19]: El patron [FookinLads, Level 31]: woona:  taser player
