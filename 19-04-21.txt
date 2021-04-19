@@ -8359,3 +8359,5 @@
 [2021-04-19 06:44:08]: ***  [, Level 0]: 'Intensiv_' has left the game
 [2021-04-19 06:44:08]: ***  [, Level 0]: 'Intensiv' has left the game
 [2021-04-19 06:44:09]: Nagisa [H] [E8, Level 2]: plz
+[2021-04-19 06:44:17]: sun.slow(y) [FookinLads, Level 35]: El patron: willst du 1vs1s
+[2021-04-19 06:44:18]:   [, Level 0]: Ðeathscyth: weqe: just a sec
