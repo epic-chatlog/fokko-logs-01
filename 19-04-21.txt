@@ -9727,3 +9727,8 @@
 [2021-04-19 07:38:21]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-19 07:38:28]: sharkz [, Level 45]: :O
 [2021-04-19 07:38:29]: ☣┆Zephir™ [404, Level 40]: ☺: un signe toxic
+[2021-04-19 07:38:29]: sharkz [, Level 45]: danke
+[2021-04-19 07:38:31]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-19 07:38:37]:   [, Level 0]: (1)☺: mdr toxic ☣┆Zephir™
+[2021-04-19 07:38:38]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-19 07:38:40]: Flippēr [, Level 16]: ERROR:
