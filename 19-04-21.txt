@@ -11593,3 +11593,8 @@
 [2021-04-19 09:23:30]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-19 09:23:32]: SanoreX [Chilli.*, Level 27]: ChillerDragon:
 [2021-04-19 09:23:35]: SanoreX [Chilli.*, Level 27]: ChillerDragon: ı laser u come
+[2021-04-19 09:23:46]:   [, Level 0]: ChillerDragon: no ittosai
+[2021-04-19 09:23:47]: ***  [, Level 0]: 'H0dƌƔ1' has left the game
+[2021-04-19 09:23:47]: SanoreX [Chilli.*, Level 27]: ChillerDragon: dont come fast
+[2021-04-19 09:23:48]: [D] Cylox [{TQuila}, Level 25]: wtf
+[2021-04-19 09:23:49]: [D] Cylox [{TQuila}, Level 25]: xD
