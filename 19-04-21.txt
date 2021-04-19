@@ -16088,3 +16088,6 @@
 [2021-04-19 12:46:30]: ***  [, Level 0]: '(1)Cylox' entered and joined the game
 [2021-04-19 12:46:36]: teewar [TrRShClNrRs, Level 0]: ChillerDragon: im eating
 [2021-04-19 12:46:38]: teewar [TrRShClNrRs, Level 0]: ChillerDragon: wassup
+[2021-04-19 12:46:41]: teewar [TrRShClNrRs, Level 0]: ChillerDragon: ?
+[2021-04-19 12:46:43]: Nagisa [H] [E8, Level 2]: dummyde getirsek
+[2021-04-19 12:46:50]: ChillerDragon [Chilli.*, Level 45]: well u didnt help in almost a minute now teewar
