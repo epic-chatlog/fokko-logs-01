@@ -6038,3 +6038,6 @@
 [2021-04-19 04:39:45]:   [, Level 0]: Cylox: help m
 [2021-04-19 04:39:48]: HeavyGeneral [FookinLads, Level 44]: .: wow
 [2021-04-19 04:39:48]:   [, Level 0]: Cylox: pls
+[2021-04-19 04:39:51]:   [, Level 0]: Cylox: pls help
+[2021-04-19 04:39:57]:   [, Level 0]: Cylox: war?
+[2021-04-19 04:39:57]: . [TrRShClNrRs, Level 43]: HeavyGeneral: what xd
