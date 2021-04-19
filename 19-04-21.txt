@@ -4378,3 +4378,4 @@
 [2021-04-19 03:33:39]: Intensiv_ [, Level 11]: YelloWorlD:
 [2021-04-19 03:33:41]: |HolyHo| [FookinLads, Level 19]: . im in fookinlags and its in cooperation with 404
 [2021-04-19 03:33:45]: Intensiv_ [, Level 11]: YelloWorlD: did you believe
+[2021-04-19 03:33:54]: ***  [, Level 0]: f"{self.name}"'s killing spree was ended by ϻɪɔʜɑʟ (8 blocks)
