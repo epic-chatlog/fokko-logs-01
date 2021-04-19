@@ -8492,3 +8492,12 @@
 [2021-04-19 06:50:30]: ***  [, Level 0]: 'the last kozol' entered and joined the game
 [2021-04-19 06:50:36]: weqe [669, Level 13]: sun.slow(y): why are u not helping me
 [2021-04-19 06:50:37]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-19 06:50:43]: sun.slow(y) [FookinLads, Level 35]: weqe: u mena " why u dont reply to me " ?
+[2021-04-19 06:50:44]: ***  [, Level 0]: 'AMOGUS(fake)' entered and joined the game
+[2021-04-19 06:50:47]: weqe [669, Level 13]: yes sun.slow(y)
+[2021-04-19 06:50:48]: ***  [, Level 0]: 'Nudelsaft c:' has left the game (Timeout Protection over)
+[2021-04-19 06:50:48]: ***  [, Level 0]: '[D] Nudelsaft c' has left the game (Timeout Protection over)
+[2021-04-19 06:50:50]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
+[2021-04-19 06:50:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-19 06:50:52]: sun.slow(y) [FookinLads, Level 35]: weqe: = Warum antwortest du mir nicht
+[2021-04-19 06:50:53]: ***  [, Level 0]: 'Minato/fr dumy' entered and joined the game
