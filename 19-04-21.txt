@@ -11415,3 +11415,5 @@
 [2021-04-19 09:12:50]:   [, Level 0]: S Y T H N: El patron: du noob
 [2021-04-19 09:12:58]: [D] El patron [FookinLads, Level 24]: S Y T H N: nub
 [2021-04-19 09:12:59]: [D] SkyForge [, Level 0]: |HolyHo|:  you wont :)
+[2021-04-19 09:13:13]: marcel [FookinLads, Level 0]: shop!
+[2021-04-19 09:13:14]: SkyForge [, Level 22]: |HolyHo|:  you can go afk if you want
