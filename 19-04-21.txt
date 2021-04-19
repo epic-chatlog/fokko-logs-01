@@ -18630,3 +18630,4 @@
 [2021-04-19 15:30:57]: Shiro. [kys, Level 43]: MDR
 [2021-04-19 15:31:00]: ***  [, Level 0]: Shiro. is on a killing spree with 5 blocks
 [2021-04-19 15:31:22]: Shiro. [kys, Level 43]: ya pu persone
+[2021-04-19 15:31:39]: ***  [, Level 0]: 'ANGEL_PRO' has left the game (Timeout Protection over)
