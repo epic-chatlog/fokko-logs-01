@@ -21453,3 +21453,5 @@
 [2021-04-18 22:49:16]: Kezo [DogParty, Level 39]: xd
 [2021-04-18 22:49:16]: Raidon [, Level 24]: farketmez
 [2021-04-18 22:49:26]: Raidon [, Level 24]: f3
+[2021-04-18 22:50:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-18 22:50:52]: ***  [, Level 0]: 'Kezo' has left the game
