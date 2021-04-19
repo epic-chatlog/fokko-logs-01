@@ -8204,3 +8204,8 @@
 [2021-04-19 06:36:44]: ***  [, Level 0]: '1IceyB0i' has left the game
 [2021-04-19 06:36:51]:   [, Level 0]: Kezo: ERROR: ez
 [2021-04-19 06:36:54]: Intensiv_ [DogParty, Level 11]: ez
+[2021-04-19 06:37:00]: ***  [, Level 0]: 'RM | Arin' entered and joined the game
+[2021-04-19 06:37:01]: ***  [, Level 0]: 'Minato/fr dumy' entered and joined the game
+[2021-04-19 06:37:02]: ***  [, Level 0]: 'Minato/fr dumy' has left the game
+[2021-04-19 06:37:02]:   [, Level 0]: (1)Kirito: xD
+[2021-04-19 06:37:07]: ***  [, Level 0]: 642. Kezo Time: 02:03.06, requested by Kezo
