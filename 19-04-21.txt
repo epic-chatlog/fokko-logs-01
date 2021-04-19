@@ -18944,3 +18944,4 @@
 [2021-04-19 16:10:40]: ***  [, Level 0]: 'xN0Zoro' entered and joined the game
 [2021-04-19 16:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-19 16:10:50]: ***  [, Level 0]: 'mat' entered and joined the game
+[2021-04-19 16:10:59]: •Slowy [DogParty, Level 41]: TL|ŦƹƦ$ŦǾN: hello papa
