@@ -13261,3 +13261,5 @@
 [2021-04-19 10:39:19]:   [, Level 0]: Rainbow Tee: cant
 [2021-04-19 10:39:19]: ***  [, Level 0]: '[D] keepertrain' entered and joined the game
 [2021-04-19 10:39:22]: SanoreX.* [Chilli.*, Level 23]: Rainbow Tee: why
+[2021-04-19 10:39:56]: ***  [, Level 0]: '[D] keepertrain' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-19 10:39:56]: ṆḕẌṳS [Chilli.*, Level 0]: mamikral011: barışalım
