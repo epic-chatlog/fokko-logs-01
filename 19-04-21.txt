@@ -4550,3 +4550,7 @@
 [2021-04-19 03:40:05]:   [, Level 0]: ChillerDragon: you can stay in team chiller without unfreezing me when ur clan is online |HolyHo|° under one condition
 [2021-04-19 03:40:08]:   [, Level 0]: HeavyGeneral: who
 [2021-04-19 03:40:12]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-19 03:40:29]: ϻɪɔʜɑʟ [Chilli.*, Level 24]: ,: wait
+[2021-04-19 03:40:32]: ***  [, Level 0]: '[D]ϻɪɔʜɑʟ' entered and joined the game
+[2021-04-19 03:40:32]:   [, Level 0]: f"{self.name}": stupid fokkonaut and his timeout codes :D
+[2021-04-19 03:40:36]: ***  [, Level 0]: 'Cup' entered and joined the game
