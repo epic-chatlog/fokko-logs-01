@@ -6240,3 +6240,9 @@
 [2021-04-19 04:46:48]:   [, Level 0]: ERROR: ok
 [2021-04-19 04:46:49]:   [, Level 0]: BulgarianTee: ERROR: silence = yes
 [2021-04-19 04:46:50]: SkyForge [, Level 0]: ERROR:  thats how you treat ppl that help you?
+[2021-04-19 04:46:57]: Pikachu [Pokemon, Level 0]: Huutochka: helpme
+[2021-04-19 04:46:57]:   [, Level 0]: [D]ϻɪɔʜɑʟ: ERROR: i am in clan DogParty yellowworld from
+[2021-04-19 04:46:59]: [D] Cylox [{TQuila}, Level 0]: war
+[2021-04-19 04:47:00]:   [, Level 0]: BulgarianTee: JustRace: XD
+[2021-04-19 04:47:02]: Huutochka [, Level 10]: Cylox: sorry
+[2021-04-19 04:47:03]:   [, Level 0]: JustRace: BulgarianTee:  oof
