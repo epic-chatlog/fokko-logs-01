@@ -20767,3 +20767,8 @@
 [2021-04-18 17:17:48]: weqe [669, Level 13]: I HAVE 0MONEY I SWEAR
 [2021-04-18 17:18:02]: Black [, Level 23]: bob: dont pls
 [2021-04-18 17:18:03]: weqe [669, Level 13]: bob stupid ?
+[2021-04-18 17:18:08]: bob [, Level 36]: u DONT GIVE ME ??
+[2021-04-18 17:18:10]: bob [, Level 36]: but i give u
+[2021-04-18 17:18:13]: weqe [669, Level 13]: bob: I DONT HAVE IN WALLET
+[2021-04-18 17:18:16]: weqe [669, Level 13]: THEY ALL IN BANK
+[2021-04-18 17:18:17]: weqe [669, Level 13]: U DUMB ???
