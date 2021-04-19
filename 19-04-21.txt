@@ -18834,3 +18834,5 @@
 [2021-04-19 16:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-19 16:01:00]: ☺ [, Level 27]: its a me HeavyGeneral
 [2021-04-19 16:01:15]: ☺ [, Level 27]: HeavyGeneral: seriously man
+[2021-04-19 16:01:20]: Black [, Level 0]: bob: i hate u
+[2021-04-19 16:01:27]: ***  [, Level 0]: HeavyGeneral is on a killing spree with 5 blocks
