@@ -21427,3 +21427,5 @@
 [2021-04-18 22:39:06]: ***  [, Level 0]: 'HellHeater' entered and joined the game
 [2021-04-18 22:39:15]: ***  [, Level 0]: 'HellHeater' has left the game
 [2021-04-18 22:39:47]: ***  [, Level 0]: 'Intensiv' entered and joined the game
+[2021-04-18 22:40:12]: ***  [, Level 0]: 'Kezo' entered and joined the game
+[2021-04-18 22:40:13]: ***  [, Level 0]: 'Elmattoski:>' entered and joined the game
