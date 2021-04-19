@@ -21740,3 +21740,8 @@
 [2021-04-18 23:48:39]: #5 blocker [|*MorE*|, Level 0]: help
 [2021-04-18 23:48:40]: (1)Zerstrian [, Level 42]: gotta place dummies correctly first
 [2021-04-18 23:48:47]: ***  [, Level 0]: 'rexi' entered and joined the game
+[2021-04-18 23:49:12]: ***  [, Level 0]: [D]ϻɪɔʜɑʟ finished in: 3 minute(s) 39.24 second(s)
+[2021-04-18 23:49:16]: (1)Zerstrian [, Level 42]: r
+[2021-04-18 23:49:18]: (1)Zerstrian [, Level 42]: ready
+[2021-04-18 23:49:19]: ***  [, Level 0]: 'nar' has left the game
+[2021-04-18 23:49:19]: ***  [, Level 0]: 'ezy' has left the game
