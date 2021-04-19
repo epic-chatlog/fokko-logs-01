@@ -18599,3 +18599,6 @@
 [2021-04-19 15:27:59]: ***  [, Level 0]: 'Bruh.' entered and joined the game
 [2021-04-19 15:27:59]: (1)Kirito [{TQuila}, Level 15]: bad
 [2021-04-19 15:28:04]: (1)Kirito [{TQuila}, Level 15]: baaad
+[2021-04-19 15:28:10]: (1)Kirito [{TQuila}, Level 15]: YelloWorlD: bad ez
+[2021-04-19 15:28:12]: ***  [, Level 0]: (1)Kirito's killing spree was ended by YelloWorlD (7 blocks)
+[2021-04-19 15:28:13]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: fruit
