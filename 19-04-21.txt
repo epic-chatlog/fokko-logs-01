@@ -10704,3 +10704,6 @@
 [2021-04-19 08:24:57]: tgrenet12 [, Level 0]: SHARKZ
 [2021-04-19 08:25:01]: ERROR, [404, Level 57]: xDDDDDDDDDDDD
 [2021-04-19 08:25:05]: tgrenet12 [, Level 0]: YOU IDIOT
+[2021-04-19 08:25:11]: ***  [, Level 0]: 'fluffrit' joined the spectators
+[2021-04-19 08:25:13]:   [, Level 0]: Bok isa ben: asagi gelin para yagmuru
+[2021-04-19 08:25:15]: ***  [, Level 0]: 'fluffrit' joined the game
