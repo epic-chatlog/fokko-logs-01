@@ -7600,3 +7600,6 @@
 [2021-04-19 05:34:43]: ***  [, Level 0]: 'VladoLob' has left the game
 [2021-04-19 05:34:46]: SanoreX [Chilli.*, Level 27]: caylox
 [2021-04-19 05:34:50]: yair [, Level 36]: noob
+[2021-04-19 06:07:50]: ***  [, Level 0]: Successfully logged in
+[2021-04-19 06:07:50]: JustRace [DogParty, Level 36]: Andresss:  go then
+[2021-04-19 06:07:52]: Nudelsaft c: [FookinLads, Level 60]: test
