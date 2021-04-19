@@ -8122,3 +8122,8 @@
 [2021-04-19 06:32:38]: Raidon's Pet [, Level 20]: Good man:
 [2021-04-19 06:32:38]:   [, Level 0]: Huutochka: im a garbage
 [2021-04-19 06:32:40]: Raidon's Pet [, Level 20]: Good man:
+[2021-04-19 06:32:47]:   [, Level 0]: Minato / FR: not here
+[2021-04-19 06:32:47]: Raidon's Pet [, Level 20]: Good man: help pls
+[2021-04-19 06:32:52]: Lucas [THECEPS, Level 35]: Minato / FR: were than
+[2021-04-19 06:32:53]:   [, Level 0]: Minato / FR: i want inf jump pls
+[2021-04-19 06:32:57]: ***  [, Level 0]: '__init__(self):' entered and joined the game
