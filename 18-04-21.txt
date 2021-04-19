@@ -21448,3 +21448,7 @@
 [2021-04-18 22:48:44]: Raidon [, Level 24]: Kezo: ?
 [2021-04-18 22:48:52]: Kezo [DogParty, Level 39]: ben arkadaşıyım
 [2021-04-18 22:48:59]: Raidon [, Level 24]: tamam alsana burdan
+[2021-04-18 22:49:07]: Kezo [DogParty, Level 39]: flama istermisin
+[2021-04-18 22:49:14]: Raidon [, Level 24]: flama değil flag o xd
+[2021-04-18 22:49:16]: Kezo [DogParty, Level 39]: xd
+[2021-04-18 22:49:16]: Raidon [, Level 24]: farketmez
