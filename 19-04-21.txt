@@ -412,3 +412,6 @@
 [2021-04-19 00:32:14]: ***  [, Level 0]: 'blektrik' entered and joined the game
 [2021-04-19 00:32:25]: SanoreX [Chilli.*, Level 27]: ChillerDragon: why flappy's skin color not green
 [2021-04-19 00:32:36]: ChillerDragon [|*KoG*|, Level 45]: to mark him as bot
+[2021-04-19 00:32:42]: ***  [, Level 0]: 'Meetiteusz' finished the special race!
+[2021-04-19 00:32:43]: SanoreX [Chilli.*, Level 27]: ChillerDragon: okay
+[2021-04-19 00:32:46]: Intensiv__ [, Level 0]: SanoreX:  üzüölü kekimi bırak
