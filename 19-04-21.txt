@@ -16538,3 +16538,7 @@
 [2021-04-19 13:12:25]: ***  [, Level 0]: '.' has been muted for 60 seconds
 [2021-04-19 13:12:37]: ***  [, Level 0]: '.' changed name to 'muted .-.'
 [2021-04-19 13:12:42]: ***  [, Level 0]: 'muted .-.' changed name to 'imagine a stack'
+[2021-04-19 13:12:48]: ***  [, Level 0]: 'imagine a stack' changed name to 'there in freeze'
+[2021-04-19 13:12:51]: GReeeN [, Level 0]: |HolyHo|°:  you help ChillerDragon  and ChillerDragon  block HeavyGeneral  idiot
+[2021-04-19 13:12:51]: ChillerDragon.* [|*KoG*|, Level 42]: GReeeN: I am currently afk.
+[2021-04-19 13:12:54]: ***  [, Level 0]: 'there in freeze' changed name to 'bugged in the b'
