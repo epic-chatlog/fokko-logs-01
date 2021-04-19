@@ -14057,3 +14057,6 @@
 [2021-04-19 11:16:31]: SanoreX [Chilli.*, Level 27]: la
 [2021-04-19 11:16:33]: Killua [FookinLads, Level 37]: 0addteam yair
 [2021-04-19 11:16:33]: YelloWorlD [DogParty, Level 57]: [D] BC|serwan: /money drop 2931
+[2021-04-19 11:16:36]: SanoreX [Chilli.*, Level 27]: lag
+[2021-04-19 11:16:45]: ***  [, Level 0]: 'Gekon' has left the game
+[2021-04-19 11:16:47]:   [, Level 0]: TopHat: d
