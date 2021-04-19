@@ -13792,3 +13792,6 @@
 [2021-04-19 11:01:55]: SanoreX [Chilli.*, Level 27]: cy
 [2021-04-19 11:01:57]: YelloWorlD [DogParty, Level 57]: (2)DiscordBridg: ERROR what u want know
 [2021-04-19 11:01:59]: ***  [, Level 0]: 'yair' entered and joined the game
+[2021-04-19 11:02:05]: YelloWorlD [DogParty, Level 57]: a
+[2021-04-19 11:02:08]: ***  [, Level 0]: 'M4YT4P' has left the game
+[2021-04-19 11:02:09]: YelloWorlD [DogParty, Level 57]: (2)Kirito: bot ?
