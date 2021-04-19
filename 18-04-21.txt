@@ -21330,3 +21330,4 @@
 [2021-04-18 20:45:28]: ***  [, Level 0]: 'ezy' entered and joined the game
 [2021-04-18 20:45:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-18 20:46:49]: ***  [, Level 0]: 'nar' entered and joined the game
+[2021-04-18 20:47:37]: nar [ComRoach, Level 19]: ezy-pin
