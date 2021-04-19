@@ -4455,3 +4455,10 @@
 [2021-04-19 03:36:49]: ***  [, Level 0]: 'S Y T H N' has left the game (Timeout Protection over)
 [2021-04-19 03:36:49]: BulgarianTee [xSD7, Level 0]: ChillerDragon: gay?
 [2021-04-19 03:36:52]: |HolyHo|° [FookinLads, Level 29]: ChillerDragon: cuz after all im in fookinlads
+[2021-04-19 03:36:56]: ***  [, Level 0]: 'f"{self.name5151' entered and joined the game
+[2021-04-19 03:36:59]: heyoxe [, Level 0]: wtf
+[2021-04-19 03:36:59]:   [, Level 0]: Meetiteusz: Zephir™: BUT U DID IT?
+[2021-04-19 03:37:02]: heyoxe [, Level 0]: how
+[2021-04-19 03:37:03]: ***  [, Level 0]: 'f"{self.name5151' has left the game
+[2021-04-19 03:37:05]: ***  [, Level 0]: 'heyoxe' has left the game
+[2021-04-19 03:37:06]:   [, Level 0]: ChillerDragon: and |HolyHo|° ?
