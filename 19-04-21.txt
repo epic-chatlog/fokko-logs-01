@@ -9175,3 +9175,8 @@
 [2021-04-19 07:21:25]: (2)Kirito [{TQuila}, Level 41]: FayZoR: YOU ARE ZEPHIR!??!?
 [2021-04-19 07:21:25]: ***  [, Level 0]: 'FayZoR' changed name to '☣┆'
 [2021-04-19 07:21:26]: Flippēr [, Level 16]: ?
+[2021-04-19 07:21:35]:   [, Level 0]: mamikral011: any²: my dummy
+[2021-04-19 07:21:36]: ***  [, Level 0]: 'mr7bac' has left the game
+[2021-04-19 07:21:45]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-19 07:21:46]: ***  [, Level 0]: 'Raidon's Pet' has left the game
+[2021-04-19 07:21:46]: ***  [, Level 0]: 'Raidon' has left the game
