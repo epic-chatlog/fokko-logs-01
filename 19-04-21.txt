@@ -10064,3 +10064,11 @@
 [2021-04-19 07:55:13]: ERROR, [404, Level 57]: xD
 [2021-04-19 07:55:15]: any² [404, Level 42]: ERROR: x)))
 [2021-04-19 07:55:17]: Coca [Drunks, Level 24]: рандом
+[2021-04-19 07:55:24]:   [, Level 0]: the last kozlik: какой нахуй рандом
+[2021-04-19 07:55:27]: Coca [Drunks, Level 24]: обычный
+[2021-04-19 07:55:28]: ***  [, Level 0]: 'callioras' has left the game
+[2021-04-19 07:55:30]: Coca [Drunks, Level 24]: извинись
+[2021-04-19 07:55:32]:   [, Level 0]: Mert: wtf
+[2021-04-19 07:55:33]: ***  [, Level 0]: 'Jyx' has left the game
+[2021-04-19 07:55:34]: ***  [, Level 0]: '×' has left the game
+[2021-04-19 07:55:34]: ***  [, Level 0]: 'X' has left the game
