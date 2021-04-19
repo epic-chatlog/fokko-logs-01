@@ -10461,3 +10461,9 @@
 [2021-04-19 08:14:06]: ***  [, Level 0]: 'soleri1' entered and joined the game
 [2021-04-19 08:14:10]:   [, Level 0]: any: 〆
 [2021-04-19 08:14:15]: Kenshi ツ [404, Level 35]: ERROR: new pseudo :D
+[2021-04-19 08:14:18]: ***  [, Level 0]: 'S Y T H N.' entered and joined the game
+[2021-04-19 08:14:19]: ***  [, Level 0]: '[D] Kompingo' has left the game
+[2021-04-19 08:14:19]: ***  [, Level 0]: 'Kompingo' has left the game
+[2021-04-19 08:14:25]: ***  [, Level 0]: 'fluffrit' joined the spectators
+[2021-04-19 08:14:29]: ***  [, Level 0]: 'fluffrit' joined the game
+[2021-04-19 08:14:29]: ***  [, Level 0]: 'Ikolonor' has left the game
