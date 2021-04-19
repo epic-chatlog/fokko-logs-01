@@ -15363,3 +15363,7 @@
 [2021-04-19 12:19:51]: ***  [, Level 0]: 'barduck' has left the game
 [2021-04-19 12:19:57]: ***  [, Level 0]: 'si' entered and joined the game
 [2021-04-19 12:20:02]: |HolyHo|° [FookinLads, Level 29]: ChillerDragon: cuz i was talking
+[2021-04-19 12:20:05]: ChillerDragon.* [|*KoG*|, Level 42]: aha
+[2021-04-19 12:20:07]: ChillerDragon.* [|*KoG*|, Level 42]: ok
+[2021-04-19 12:20:09]: ***  [, Level 0]: 'thiago*_ *' joined the spectators
+[2021-04-19 12:20:15]: ***  [, Level 0]: 'thiago*_ *' joined the game
