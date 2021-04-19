@@ -13074,3 +13074,7 @@
 [2021-04-19 10:28:40]: bob [, Level 36]: XDi cant
 [2021-04-19 10:28:42]: ***  [, Level 0]: '[D] marcel' has left the game
 [2021-04-19 10:28:42]: ***  [, Level 0]: '(1)Lucas' has left the game
+[2021-04-19 10:28:51]: bob [, Level 36]: XDD
+[2021-04-19 10:28:53]: [D] Cylox [{TQuila}, Level 25]: bob: sorry
+[2021-04-19 10:28:56]: bob [, Level 36]: xd
+[2021-04-19 10:28:57]: mamikral011 [DogParty, Level 0]: Rem's bae: war?
