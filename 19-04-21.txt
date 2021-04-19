@@ -207,3 +207,5 @@
 [2021-04-19 00:15:56]: SanoreX.* [Chilli.*, Level 23]: x
 [2021-04-19 00:15:59]: Random Guy [, Level 40]: xd
 [2021-04-19 00:16:10]: [D] #5 blocker [|*MorE*|, Level 0]: SanoreX: wtf
+[2021-04-19 00:16:11]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-19 00:16:19]: [D] mamikral011 [DogParty, Level 0]: #5 blocker:
