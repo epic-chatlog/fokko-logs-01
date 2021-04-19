@@ -21311,3 +21311,4 @@
 [2021-04-18 20:05:07]: ***  [, Level 0]: 'LeeK' has left the game
 [2021-04-18 20:05:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-18 20:07:52]: ***  [, Level 0]: 'Dirk Strider' entered and joined the game
+[2021-04-18 20:10:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
