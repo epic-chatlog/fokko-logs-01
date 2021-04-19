@@ -10806,3 +10806,7 @@
 [2021-04-19 08:30:53]: ***  [, Level 0]: 'XYN' has left the game
 [2021-04-19 08:30:57]: ***  [, Level 0]: '(1)Salut' finished the special race!
 [2021-04-19 08:30:58]:   [, Level 0]: Lucifero: xD
+[2021-04-19 08:31:36]: ***  [, Level 0]: 'soleri1' finished the special race!
+[2021-04-19 08:31:37]: ***  [, Level 0]: 'Kenshi ツ' has left the game (Timeout)
+[2021-04-19 08:31:37]: ***  [, Level 0]: 'Zephir ツ' has left the game (Timeout)
+[2021-04-19 08:31:37]:   [, Level 0]: Lucifero: X
