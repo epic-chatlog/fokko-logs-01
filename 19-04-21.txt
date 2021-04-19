@@ -19188,3 +19188,6 @@
 [2021-04-19 16:30:32]: •Slowy [DogParty, Level 41]: RQ
 [2021-04-19 16:30:37]: bob [, Level 36]: just rq  Zephir ツ
 [2021-04-19 16:30:40]: •Slowy [DogParty, Level 41]: say rq
+[2021-04-19 16:30:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-19 16:30:52]: Shiro. [kys, Level 43]: •Slowy: who are u
+[2021-04-19 16:30:52]: •Slowy [DogParty, Level 41]: say rq
