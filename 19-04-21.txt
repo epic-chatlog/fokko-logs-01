@@ -17745,3 +17745,6 @@
 [2021-04-19 14:22:18]: asolegrain [, Level 0]: weqe: my too brother
 [2021-04-19 14:22:19]: power [TrRShClNrRs, Level 15]: bob:
 [2021-04-19 14:22:20]: power [TrRShClNrRs, Level 15]: help bob
+[2021-04-19 14:23:18]: ***  [, Level 0]: 'GReeeN' has left the game
+[2021-04-19 14:23:20]: . [TrRShClNrRs, Level 11]: wtf
+[2021-04-19 14:23:21]: asolegrain [, Level 0]: weqe:
