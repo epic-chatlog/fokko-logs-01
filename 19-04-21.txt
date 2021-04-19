@@ -10199,3 +10199,7 @@
 [2021-04-19 08:01:02]: ***  [, Level 0]: __init__(self):'s killing spree was ended by [D] im_cloud_ (8 blocks)
 [2021-04-19 08:01:03]: ***  [, Level 0]: 'Leea' entered and joined the game
 [2021-04-19 08:01:05]: Mert [Blood Gang, Level 0]: ne
+[2021-04-19 08:01:14]: ***  [, Level 0]: 'AMOGUS(fake)' has left the game
+[2021-04-19 08:01:14]: ***  [, Level 0]: 'the last AMOGUS' has left the game
+[2021-04-19 08:01:16]: [D] Cylox [{TQuila}, Level 0]: I AFK
+[2021-04-19 08:01:18]:   [, Level 0]: SanoreX: Cylox: dummymi al
