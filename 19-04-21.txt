@@ -8558,3 +8558,5 @@
 [2021-04-19 06:53:24]: ***  [, Level 0]: 'Keø' entered and joined the game
 [2021-04-19 06:53:26]: ***  [, Level 0]: 'Kiøn1029' has left the game
 [2021-04-19 06:53:31]: ***  [, Level 0]: 'amongus' entered and joined the game
+[2021-04-19 06:53:34]: Levi [, Level 0]: Kodi:
+[2021-04-19 06:53:38]: ***  [, Level 0]: sun.slow(y)'s killing spree was ended by Flippēr (8 blocks)
