@@ -7830,3 +7830,6 @@
 [2021-04-19 06:17:18]: Taip [VergleriSay, Level 19]: u stop
 [2021-04-19 06:17:22]: Nudelsaft c: [FookinLads, Level 60]: SanoreX: stop pinging me
 [2021-04-19 06:17:24]: Taip [VergleriSay, Level 19]: save me
+[2021-04-19 06:17:30]: ZEWO [, Level 0]: mal Recep
+[2021-04-19 06:17:34]: ZEWO [, Level 0]: SALAK rece
+[2021-04-19 06:17:35]: ZEWO [, Level 0]: SALAK Recep
