@@ -1579,3 +1579,7 @@
 [2021-04-19 01:23:10]: ***  [, Level 0]: 'nameless te' has left the game
 [2021-04-19 01:23:18]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-19 01:23:20]: ***  [, Level 0]: 'LeeK' entered and joined the game
+[2021-04-19 01:23:26]: SanoreX [Chilli.*, Level 27]: ChillerDragon:
+[2021-04-19 01:23:26]: ChillerDragon [Chilli.*, Level 45]: SanoreX: I am currently afk.
+[2021-04-19 01:23:29]: mamikral011 [DogParty, Level 27]: SanoreX.*: karışmıcam dedin
+[2021-04-19 01:23:35]: SanoreX [Chilli.*, Level 27]: mamikral011: banae
