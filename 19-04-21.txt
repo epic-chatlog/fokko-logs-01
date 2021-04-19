@@ -2461,3 +2461,5 @@
 [2021-04-19 01:56:11]: ***  [, Level 0]: ';3' entered and joined the game
 [2021-04-19 01:56:16]: SanoreX.* [Chilli.*, Level 23]: power: ok I killing
 [2021-04-19 01:56:23]: mamikral011 [DogParty, Level 27]: GODLIKe:
+[2021-04-19 01:56:28]: ***  [, Level 0]: 'klas' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-19 01:56:34]: SanoreX.* [Chilli.*, Level 23]: laser
