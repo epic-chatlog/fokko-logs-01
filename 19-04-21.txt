@@ -5277,3 +5277,8 @@
 [2021-04-19 04:08:36]: Falco642 [, Level 0]: ok go
 [2021-04-19 04:08:37]:   [, Level 0]: vollesprit: we go ?
 [2021-04-19 04:08:37]: ***  [, Level 0]: 'f"{self.n561510' has left the game
+[2021-04-19 04:08:51]: Raidon's Pet [, Level 20]: laser
+[2021-04-19 04:08:52]: ***  [, Level 0]: 'Telefantastic' has left the game (Timeout)
+[2021-04-19 04:08:52]: ***  [, Level 0]: 'Mista bombastic' has left the game (Timeout)
+[2021-04-19 04:08:53]:   [, Level 0]: vollesprit: i did it
+[2021-04-19 04:08:56]: Raidon's Pet [, Level 20]: laser
