@@ -21711,3 +21711,6 @@
 [2021-04-18 23:45:55]: ϻɪɔʜɑʟ [Chilli.*, Level 24]: Bruh.: stop
 [2021-04-18 23:46:05]: ***  [, Level 0]: '__init__(self):' has left the game
 [2021-04-18 23:46:05]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-18 23:46:05]: klas [, Level 0]: t/to do the race
+[2021-04-18 23:46:08]: ϻɪɔʜɑʟ [Chilli.*, Level 24]: no
+[2021-04-18 23:46:10]: ϻɪɔʜɑʟ [Chilli.*, Level 24]: why
