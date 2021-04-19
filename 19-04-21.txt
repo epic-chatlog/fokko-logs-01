@@ -7306,3 +7306,6 @@
 [2021-04-19 05:21:40]: SkyForge [, Level 22]: Adleg:  shoot me
 [2021-04-19 05:21:46]: |HolyHo| [FookinLads, Level 19]: Rem's bae: i like u xD
 [2021-04-19 05:21:50]: Rem's bae [, Level 42]: |HolyHo|: xD
+[2021-04-19 05:21:53]: SkyForge [, Level 22]: Adleg:  shoot me
+[2021-04-19 05:21:53]: ***  [, Level 0]: 'Itachi' has left the game
+[2021-04-19 05:21:56]: SkyForge [, Level 22]: Adleg:
