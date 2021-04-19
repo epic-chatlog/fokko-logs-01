@@ -20955,3 +20955,7 @@
 [2021-04-18 17:57:42]: bob [, Level 36]: ok
 [2021-04-18 17:57:50]: Ferozito [, Level 0]: HEEE
 [2021-04-18 17:57:59]: Fera [, Level 0]: :c
+[2021-04-18 17:58:35]: Ferozito [, Level 0]: ezy: sry
+[2021-04-18 17:58:35]: ***  [, Level 0]: 'michiel' entered and joined the game
+[2021-04-18 17:58:40]: ezy [ComRoach, Level 23]: shat up
+[2021-04-18 17:58:41]: Ferozito [, Level 0]: mercy pls
