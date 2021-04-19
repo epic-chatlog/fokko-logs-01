@@ -16830,3 +16830,6 @@
 [2021-04-19 13:33:19]: bob [, Level 36]: HardreenClutch: er ist mein freund
 [2021-04-19 13:33:24]: HardreenClutch [, Level 57]: bob:  aber ein no name
 [2021-04-19 13:33:28]: bob [, Level 36]: ne ders besser als du
+[2021-04-19 13:33:42]: ***  [, Level 0]: HardreenClutch is on a killing spree with 10 blocks
+[2021-04-19 13:33:46]: bob [, Level 36]: HardreenClutch: was soll das
+[2021-04-19 13:33:47]: ***  [, Level 0]: Falco641 is on a killing spree with 5 blocks
