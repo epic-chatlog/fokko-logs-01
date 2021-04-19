@@ -6045,3 +6045,7 @@
 [2021-04-19 04:40:06]:   [, Level 0]: ERROR,: Zephir™:
 [2021-04-19 04:40:09]: Falco642 [, Level 0]: damn
 [2021-04-19 04:40:10]: weqe [669, Level 13]: Mista bombastic:
+[2021-04-19 04:40:13]: Falco642 [, Level 0]: RM | Arin: thanks
+[2021-04-19 04:40:17]:   [, Level 0]: BulgarianTee: HeavyGeneral: its the same right?
+[2021-04-19 04:40:22]: HeavyGeneral [FookinLads, Level 44]: ye
+[2021-04-19 04:40:24]: HeavyGeneral [FookinLads, Level 44]: seems like
