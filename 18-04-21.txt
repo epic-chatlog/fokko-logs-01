@@ -20644,3 +20644,4 @@
 [2021-04-18 17:06:43]: weqe [669, Level 13]: U WOULD HAVE SAID SORRY URSELF IF U DIDNT HAVE DUMMIES
 [2021-04-18 17:06:46]: weqe [669, Level 13]: sorry
 [2021-04-18 17:06:55]: ERROR, [404, Level 57]: no i would just restart
+[2021-04-18 17:07:07]: ERROR [404, Level 47]: xD
