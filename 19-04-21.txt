@@ -4444,3 +4444,8 @@
 [2021-04-19 03:36:22]:   [, Level 0]: ChillerDragon: so u still in |HolyHo|° ?
 [2021-04-19 03:36:24]:   [, Level 0]: HeavyGeneral: BulgarianTee: come now
 [2021-04-19 03:36:25]:   [, Level 0]: Matiteusz: Zephir™: why?
+[2021-04-19 03:36:29]: BulgarianTee [xSD7, Level 0]: HeavyGeneral: kk
+[2021-04-19 03:36:33]:   [, Level 0]: ChillerDragon: why only then |HolyHo|°
+[2021-04-19 03:36:35]: |HolyHo|° [FookinLads, Level 29]: .waort
+[2021-04-19 03:36:36]: Zephir™ [404, Level 40]: Matiteusz: that not me, YelloWorlD want that
+[2021-04-19 03:36:39]:   [, Level 0]: f"{self.name}": heyoxe: you wanna see me escape ??
