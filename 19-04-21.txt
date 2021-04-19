@@ -15287,3 +15287,5 @@
 [2021-04-19 12:15:16]: ***  [, Level 0]: 'gaz gaz!!' has left the game
 [2021-04-19 12:15:19]: Ļåҕ Lobster [Ļåҕ, Level 35]: Killua: kk
 [2021-04-19 12:15:21]: Mista bombastic [TrRShClNrRs, Level 40]: Ļåҕ Lobster: hiii
+[2021-04-19 12:15:30]: Zephir ツ [404, Level 40]: Lucas: ok war
+[2021-04-19 12:15:40]: Lucas [THECEPS, Level 35]: Zephir ツ: i'm team chiller sorry
