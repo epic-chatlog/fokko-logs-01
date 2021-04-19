@@ -20666,3 +20666,7 @@
 [2021-04-18 17:09:09]: bob [, Level 36]: hello
 [2021-04-18 17:09:10]: ERROR [404, Level 47]: say sorry
 [2021-04-18 17:09:16]: weqe [669, Level 13]: ERROR: u help him its unfair
+[2021-04-18 17:09:25]: ERROR [404, Level 47]: i just shot grenade o.o
+[2021-04-18 17:09:27]: Black [, Level 0]: bob:  ive been loking for u brother
+[2021-04-18 17:09:29]: bob [, Level 36]: weqe: 100k for peace
+[2021-04-18 17:09:30]: weqe [669, Level 13]: ERROR: U TRIED TO PORTAL ME
