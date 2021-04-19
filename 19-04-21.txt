@@ -18664,3 +18664,4 @@
 [2021-04-19 15:36:04]: Intensiv [DogParty, Level 18]: HeavyGeneral:  help rocket 1 minute
 [2021-04-19 15:36:04]: ***  [, Level 0]: 'KarakanPL' entered and joined the game
 [2021-04-19 15:36:24]: GOLD [404, Level 38]: x>SDfezrgesfd
+[2021-04-19 15:36:35]: (1)☺ [, Level 26]: stop sun.slow(y)
