@@ -8482,3 +8482,7 @@
 [2021-04-19 06:49:55]:   [, Level 0]: mamikral011: Cosmo: war
 [2021-04-19 06:49:57]: weqe [669, Level 13]: sun.slow(y): warum du nein replien to ich
 [2021-04-19 06:49:59]:   [, Level 0]: mamikral011: Cosmo: fuck u
+[2021-04-19 06:50:08]: ***  [, Level 0]: '(1)Kirito' has left the game (Timeout)
+[2021-04-19 06:50:08]: ***  [, Level 0]: 'Kirito' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-19 06:50:09]:   [, Level 0]: mamikral011: (1)Cosmo: okey okey
+[2021-04-19 06:50:15]: sun.slow(y) [FookinLads, Level 35]: weqe: dont use translate XDDDDDDDDD
