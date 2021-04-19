@@ -21115,3 +21115,6 @@
 [2021-04-18 18:31:06]: ezy [ComRoach, Level 23]: roberk: gev flag
 [2021-04-18 18:31:10]: bob [, Level 36]: bb
 [2021-04-18 18:31:11]: (1)☺ [, Level 23]: bye
+[2021-04-18 18:31:14]: ***  [, Level 0]: '☺' has left the game
+[2021-04-18 18:31:14]: ***  [, Level 0]: '(1)☺' has left the game
+[2021-04-18 18:31:17]: Black [, Level 0]: BYTEEE
