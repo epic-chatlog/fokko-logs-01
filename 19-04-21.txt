@@ -18521,3 +18521,4 @@
 [2021-04-19 15:20:41]: ***  [, Level 0]: '(2)kais' entered and joined the game
 [2021-04-19 15:20:42]: Zephir ツ [404, Level 40]: TL|ŦƹƦ$ŦǾN: who :c
 [2021-04-19 15:20:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-19 15:20:56]: ***  [, Level 0]: '(2)kais' has left the game
