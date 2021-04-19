@@ -14416,3 +14416,6 @@
 [2021-04-19 11:35:43]: . [TrRShClNrRs, Level 43]: Killua: the last one is ok
 [2021-04-19 11:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-19 11:35:54]: . [TrRShClNrRs, Level 43]: Killua: delwar .
+[2021-04-19 11:36:01]: CKA3A4NIK[NR] [Night Raid, Level 35]: .b goto 580 68 -2928\
+[2021-04-19 11:36:01]: . [TrRShClNrRs, Level 43]: Killua: whay did you ad me to warlist gayo
+[2021-04-19 11:36:02]: CKA3A4NIK[NR] [Night Raid, Level 35]: .b goto 580 68 -2928
