@@ -11086,3 +11086,8 @@
 [2021-04-19 08:47:05]: ***  [, Level 0]: 'NINJA' has left the game
 [2021-04-19 08:47:11]: Lucifero [SkinLover, Level 0]: v3 ?
 [2021-04-19 08:47:13]: sun.slow(y) [FookinLads, Level 35]: [D] ṆḕẌ�: bosnier habibi
+[2021-04-19 08:47:15]: sharkz [, Level 45]: ist server up?
+[2021-04-19 08:47:19]: Lucifero [SkinLover, Level 0]: gucke moment
+[2021-04-19 08:47:21]: ***  [, Level 0]: 'ERROR,' would have timed out, but can use timeout protection now
+[2021-04-19 08:47:21]: ***  [, Level 0]: 'ERROR'' would have timed out, but can use timeout protection now
+[2021-04-19 08:47:23]: sharkz [, Level 45]: ich dnek nicht
