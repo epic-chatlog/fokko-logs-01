@@ -14597,3 +14597,5 @@
 [2021-04-19 11:45:39]: SanoreX [Chilli.*, Level 27]: marcel: biych
 [2021-04-19 11:45:43]: Kenshi ツ [404, Level 35]: YelloWorlD: jusqu'au moment ou ils en auront marre de crever a cause de lui et vont le laisser xD
 [2021-04-19 11:45:45]: marcel [FookinLads, Level 0]: dont spawn roket
+[2021-04-19 11:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-19 11:45:58]: ***  [, Level 0]: '(1)MOM' has left the game
