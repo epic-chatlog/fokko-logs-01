@@ -9606,3 +9606,7 @@
 [2021-04-19 07:34:43]: ***  [, Level 0]: 'Salut' entered and joined the game
 [2021-04-19 07:34:44]: ***  [, Level 0]: '(1)Ƭevan' has left the game
 [2021-04-19 07:34:44]: ***  [, Level 0]: '(1)Ðream' has left the game
+[2021-04-19 07:34:49]: weqe [669, Level 13]: ☣┆Zephir™: help
+[2021-04-19 07:34:54]: (2)Kirito [{TQuila}, Level 41]: Rodi: war4life
+[2021-04-19 07:34:55]: weqe [669, Level 13]: ☣┆Zephir™:
+[2021-04-19 07:34:56]: ***  [, Level 0]: 'Vertex' left the minigame 'Survival'
