@@ -13384,3 +13384,8 @@
 [2021-04-19 10:45:48]: Bozzkurt [SkinLover, Level 0]: TL|ŦƹƦ$ŦǾN: how are you bro
 [2021-04-19 10:45:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-19 10:45:51]: ***  [, Level 0]: 'Sam Play Games' entered and joined the game
+[2021-04-19 10:46:01]: Night Team :D [TrRShClNrRs, Level 21]: Salut:  INF JUMPS D
+[2021-04-19 10:46:02]: ***  [, Level 0]: 'Flipper' entered and joined the game
+[2021-04-19 10:46:02]: ***  [, Level 0]: '[D] keepertrain' left the minigame 'Survival'
+[2021-04-19 10:46:06]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: Bozzkurt: im fine wbyy
+[2021-04-19 10:46:09]: Rainbow Tee [KyStiKi, Level 10]: [D] Cylox: toggle cl_mouse_max_distance 1000 380
