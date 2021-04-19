@@ -10336,3 +10336,7 @@
 [2021-04-19 08:07:17]:   [, Level 0]: Naruton: Cylox
 [2021-04-19 08:07:19]: ***  [, Level 0]: 'SanoreX' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-19 08:07:19]: ***  [, Level 0]: 'SanoreX.*' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-19 08:07:25]: ***  [, Level 0]: 'fluffrit' joined the spectators
+[2021-04-19 08:07:27]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-19 08:07:29]: ***  [, Level 0]: 'fluffrit' joined the game
+[2021-04-19 08:07:34]: [D] El patron [FookinLads, Level 24]: a
