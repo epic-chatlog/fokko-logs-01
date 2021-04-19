@@ -11106,3 +11106,6 @@
 [2021-04-19 08:47:42]: ***  [, Level 0]: 'sharkz' has left the game
 [2021-04-19 08:47:47]: ***  [, Level 0]: 'Rarerar' entered and joined the game
 [2021-04-19 08:47:52]: ***  [, Level 0]: csibeffasirt is on a killing spree with 5 blocks
+[2021-04-19 08:48:07]: sun.slow(y) [FookinLads, Level 35]: El patron: welcher lutscher macht diese geräusche
+[2021-04-19 08:48:09]: sun.slow(y) [FookinLads, Level 35]: El patron: kriege kopfschmerzen
+[2021-04-19 08:48:15]: [D] El patron [FookinLads, Level 24]: xd
