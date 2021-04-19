@@ -20938,3 +20938,6 @@
 [2021-04-18 17:55:49]: ezy [ComRoach, Level 23]: ez
 [2021-04-18 17:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-18 17:56:13]: ezy [ComRoach, Level 23]: bob:
+[2021-04-18 17:56:53]: ezy [ComRoach, Level 23]: Fera: nooop
+[2021-04-18 17:56:55]: Fera [, Level 0]: :C
+[2021-04-18 17:56:55]: ezy [ComRoach, Level 23]: ez
