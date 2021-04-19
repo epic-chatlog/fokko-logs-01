@@ -8297,3 +8297,6 @@
 [2021-04-19 06:40:34]: ***  [, Level 0]: 'Luskão' entered and joined the game
 [2021-04-19 06:40:35]:   [, Level 0]: Kezo: stop war
 [2021-04-19 06:40:37]: Intensiv_ [DogParty, Level 11]: el [D] El patron  ws
+[2021-04-19 06:40:50]: ***  [, Level 0]: PornHub's killing spree was ended by Hala Madrid (6 blocks)
+[2021-04-19 06:40:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 06:40:51]: [D] El patron [FookinLads, Level 24]: Intensiv_:  you are nothing
