@@ -11370,3 +11370,7 @@
 [2021-04-19 09:08:59]: ERROR [404, Level 47]: ChillerDragon:  bin ja schon in police xD
 [2021-04-19 09:09:03]: ***  [, Level 0]: '(1)Coca' finished the special race!
 [2021-04-19 09:09:08]: marcel [FookinLads, Level 0]: shit
+[2021-04-19 09:09:11]: ChillerDragon [Chilli.*, Level 45]: dann stfu
+[2021-04-19 09:09:18]: ***  [, Level 0]: 'ittosai' entered and joined the game
+[2021-04-19 09:09:18]: ERROR [404, Level 47]: ChillerDragon:  OH MAD
+[2021-04-19 09:09:20]: ChillerDragon [Chilli.*, Level 45]: xD
