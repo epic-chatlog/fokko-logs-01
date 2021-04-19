@@ -6472,3 +6472,13 @@
 [2021-04-19 04:53:52]:   [, Level 0]: ϻɪɔʜɑʟ: droped
 [2021-04-19 04:53:54]:   [, Level 0]: BulgarianTee: ERROR': Adolf Weigel
 [2021-04-19 04:53:58]:   [, Level 0]: ERROR,: no
+[2021-04-19 04:54:03]:   [, Level 0]: ERROR,: got an american name
+[2021-04-19 04:54:05]:   [, Level 0]: Huutochka: portal = impossible to drop
+[2021-04-19 04:54:08]:   [, Level 0]: Taip: başına belayaratcam dedim
+[2021-04-19 04:54:09]:   [, Level 0]: ERROR,: first name
+[2021-04-19 04:54:09]: at insan [freeporçay, Level 0]: nagisa dumy nerdesin ki
+[2021-04-19 04:54:10]:   [, Level 0]: Taip: mi
+[2021-04-19 04:54:10]:   [, Level 0]: BulgarianTee: ERROR': Technoblade?
+[2021-04-19 04:54:12]:   [, Level 0]: ϻɪɔʜɑʟ: u respawn in teleport
+[2021-04-19 04:54:12]:   [, Level 0]: Taip: dedim
+[2021-04-19 04:54:13]:   [, Level 0]: ERROR,: xDD
