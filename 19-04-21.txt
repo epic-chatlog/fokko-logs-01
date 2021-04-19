@@ -7676,3 +7676,12 @@
 [2021-04-19 06:10:41]: ***  [, Level 0]: 'Zam' has left the game
 [2021-04-19 06:10:44]: SanoreX.* [Chilli.*, Level 23]: Raidon: gördüm
 [2021-04-19 06:10:47]: SanoreX.* [Chilli.*, Level 23]: Raidon: gördüm ztn
+[2021-04-19 06:10:47]: ***  [, Level 0]: 'Minato/fr dumy' would have timed out, but can use timeout protection now
+[2021-04-19 06:10:48]: sun.slow(y) [FookinLads, Level 35]: rq
+[2021-04-19 06:10:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-19 06:10:51]: ERROR, [404, Level 57]: dont move
+[2021-04-19 06:10:52]: MOM [, Level 28]: Minato / FR:
+[2021-04-19 06:10:52]: Huutochka [, Level 10]: |HolyHo|: ?
+[2021-04-19 06:10:53]: ***  [, Level 0]: 'ZEWO' entered and joined the game
+[2021-04-19 06:10:55]: [D] JustRace [DogParty, Level 30]: yes
+[2021-04-19 06:10:57]: [D] JustRace [DogParty, Level 30]: no more moving
