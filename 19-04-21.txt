@@ -13180,3 +13180,5 @@
 [2021-04-19 10:34:19]: [D] Cylox [{TQuila}, Level 25]: ZEWO: dun bana yaram orospu su dedın yaram
 [2021-04-19 10:34:21]: SanoreX.* [Chilli.*, Level 0]: help sL|KeBu28
 [2021-04-19 10:34:29]: SanoreX.* [Chilli.*, Level 0]: lan
+[2021-04-19 10:34:45]: ***  [, Level 0]: 'keepertrain._.' entered and joined the game
+[2021-04-19 10:34:47]: (1)ZEWO [, Level 0]: [D] Cylox: ben yemekdeydim sano veya fokko
