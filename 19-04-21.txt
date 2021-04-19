@@ -5770,3 +5770,5 @@
 [2021-04-19 04:29:26]:   [, Level 0]: BulgarianTee: HeavyGeneral: aaaa i should have saved my last good values, now i lost them D:
 [2021-04-19 04:29:27]: ***  [, Level 0]: 'Cylox' entered and joined the game
 [2021-04-19 04:29:41]: ***  [, Level 0]: 'muliboy' entered and joined the game
+[2021-04-19 04:29:45]: Raidon's Pet [, Level 20]: SanoreX: laser
+[2021-04-19 04:29:51]: SanoreX.* [Chilli.*, Level 23]: Raidon: bekle
