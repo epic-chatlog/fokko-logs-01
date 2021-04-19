@@ -17052,3 +17052,6 @@
 [2021-04-19 13:52:42]: . [TrRShClNrRs, Level 10]: bob: im trying
 [2021-04-19 13:52:47]: . [TrRShClNrRs, Level 10]: bob: different mouse max distances
 [2021-04-19 13:53:00]: . [TrRShClNrRs, Level 10]: TL|ŦƹƦ$ŦǾN: :_c
+[2021-04-19 13:53:11]: . [TrRShClNrRs, Level 10]: TL|ŦƹƦ$ŦǾN: 200 is too low
+[2021-04-19 13:53:12]: ***  [, Level 0]: 'Drag*' entered and joined the game
+[2021-04-19 13:53:14]: . [TrRShClNrRs, Level 10]: TL|ŦƹƦ$ŦǾN: i think 250 is cool
