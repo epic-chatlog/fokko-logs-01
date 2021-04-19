@@ -15047,3 +15047,8 @@
 [2021-04-19 12:03:09]: Mista bombastic [TrRShClNrRs, Level 40]: tlterstom
 [2021-04-19 12:03:11]: Mista bombastic [TrRShClNrRs, Level 40]: tl\
 [2021-04-19 12:03:14]: ***  [, Level 0]: 'Mista bombastic' has been muted for 60 seconds
+[2021-04-19 12:03:15]: ***  [, Level 0]: 'BC|kakashi' entered and joined the game
+[2021-04-19 12:03:16]: YelloWorlD [DogParty, Level 57]: SanoreX: no
+[2021-04-19 12:03:17]: SanoreX [Chilli.*, Level 27]: ChillerDragon: sorry
+[2021-04-19 12:03:18]: Nagisa [H] [E8, Level 2]: ok
+[2021-04-19 12:03:19]: SanoreX [Chilli.*, Level 27]: YelloWorlD: k
