@@ -21137,3 +21137,4 @@
 [2021-04-18 18:37:06]: roberk [, Level 0]: bob:  i help you
 [2021-04-18 18:37:08]: ***  [, Level 0]: 'guigui' has left the game
 [2021-04-18 18:37:12]: ***  [, Level 0]: 'guigui' entered and joined the game
+[2021-04-18 18:37:29]: :D [E8, Level 1]: euro nasıl kazanılıyo
