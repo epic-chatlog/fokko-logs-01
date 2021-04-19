@@ -9888,3 +9888,4 @@
 [2021-04-19 07:46:58]: sharkz [, Level 45]: ERROR: mayday
 [2021-04-19 07:46:59]: ***  [, Level 0]: 'bananapie' joined the spectators
 [2021-04-19 07:46:59]: ***  [, Level 0]: '[D] Naruton' entered and joined the game
+[2021-04-19 07:47:07]: ***  [, Level 0]: 'bananapie' joined the game
