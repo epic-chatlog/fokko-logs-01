@@ -11866,3 +11866,9 @@
 [2021-04-19 09:36:36]: [D] Cylox [{TQuila}, Level 25]: wtf
 [2021-04-19 09:36:40]:   [, Level 0]: Wynox: sorry
 [2021-04-19 09:36:42]:   [, Level 0]: cookie: uNOOBIE:  wtf dude
+[2021-04-19 09:36:48]: ***  [, Level 0]: 'foo' entered and joined the game
+[2021-04-19 09:36:49]: Zephir ツ [404, Level 40]: Shiro.: je me fait ddos
+[2021-04-19 09:36:49]: ***  [, Level 0]: 'komid' entered and joined the game
+[2021-04-19 09:36:50]: ***  [, Level 0]: 'Conqxest' has left the game
+[2021-04-19 09:36:51]: weqe [669, Level 13]: Cylox:
+[2021-04-19 09:36:54]:   [, Level 0]: cookie: uNOOBIE:  war
