@@ -11837,3 +11837,6 @@
 [2021-04-19 09:35:09]: cookie [, Level 21]: power2:  f noob
 [2021-04-19 09:35:11]:   [, Level 0]: weqe: Cylox:
 [2021-04-19 09:35:14]: SkyForge [, Level 22]: marcel:  ok
+[2021-04-19 09:35:26]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-19 09:35:28]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-19 09:35:29]: ***  [, Level 0]: 'nenny' has left the game
