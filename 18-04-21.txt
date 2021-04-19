@@ -21002,3 +21002,8 @@
 [2021-04-18 18:10:52]: ***  [, Level 0]: 'ehhe' has left the game
 [2021-04-18 18:11:06]: ***  [, Level 0]: '☺' entered and joined the game
 [2021-04-18 18:11:15]: ***  [, Level 0]: '♥TAKO♥' entered and joined the game
+[2021-04-18 18:11:42]: ***  [, Level 0]: 'roberk' entered and joined the game
+[2021-04-18 18:11:43]: ezy [ComRoach, Level 23]: ♥TAKO♥: helo
+[2021-04-18 18:11:45]: Kirito [{TQuila}, Level 41]: poops
+[2021-04-18 18:11:46]: bob [, Level 36]: XD
+[2021-04-18 18:11:49]: ♥TAKO♥ [DogParty, Level 0]: ezy:  helo
