@@ -11619,3 +11619,5 @@
 [2021-04-19 09:24:42]: SanoreX [Chilli.*, Level 27]: VERBİNDUNGSPROBLEME
 [2021-04-19 09:24:47]: SanoreX [Chilli.*, Level 27]: VERBİNDUNGSPROBLEME...
 [2021-04-19 09:24:53]: ***  [, Level 0]: 'Daffy 0iq' has left the game
+[2021-04-19 09:24:58]: ***  [, Level 0]: 'ṆḕẌṳS' entered and joined the game
+[2021-04-19 09:25:03]: ***  [, Level 0]: [D] El patron is on a killing spree with 30 blocks
