@@ -6315,3 +6315,26 @@
 [2021-04-19 04:49:17]: ***  [, Level 0]: 'SanoreX' changed name to 's'
 [2021-04-19 04:49:21]:   [, Level 0]: ERROR': HeavyGeneral:
 [2021-04-19 04:49:23]: Zephir™ [404, Level 40]: ERROR: i killed them in left
+[2021-04-19 04:50:14]: RM | Arin [Retard MNKY, Level 41]: weqe:  xcome spawn
+[2021-04-19 04:50:14]: ***  [, Level 0]: '__init__(self):' entered and joined the game
+[2021-04-19 04:50:14]:   [, Level 0]: ϻɪɔʜɑʟ: ,: no war in police?
+[2021-04-19 04:50:14]: 1IceyB0i [Zommer :D, Level 0]: we go again
+[2021-04-19 04:50:14]: ***  [, Level 0]: 's' changed name to 'SanoreX'
+[2021-04-19 04:50:14]: SanoreX [Chilli.*, Level 27]: xD
+[2021-04-19 04:50:14]: ***  [, Level 0]: 'Nightmare' entered and joined the game
+[2021-04-19 04:50:14]: SanoreX [Chilli.*, Level 27]: X
+[2021-04-19 04:50:14]:   [, Level 0]: [D] Cylox: HuskyFloofles: come
+[2021-04-19 04:50:14]: ***  [, Level 0]: 'Maiki' has left the game
+[2021-04-19 04:50:14]: , [TrRShClNrRs, Level 41]: ϻɪɔʜɑʟ: if u help them we will
+[2021-04-19 04:50:14]: Minato/fr dumy [Limoncello, Level 6]: HeavyGeneral: you looks yummy ^^
+[2021-04-19 04:50:14]: SanoreX [Chilli.*, Level 27]: ERROR: spooky is sanorex
+[2021-04-19 04:50:14]: ***  [, Level 0]: 'RM | Arin' has left the game
+[2021-04-19 04:50:14]: weqe [669, Level 13]: Zephir™:
+[2021-04-19 04:50:14]: SanoreX [Chilli.*, Level 27]: ERROR: spooky is sanorex its me
+[2021-04-19 04:50:14]: ***  [, Level 0]: 'Noémi' entered and joined the game
+[2021-04-19 04:50:14]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-19 04:50:14]: SanoreX [Chilli.*, Level 27]: BulgarianTee: elp
+[2021-04-19 04:50:14]: SanoreX [Chilli.*, Level 27]: BulgarianTee: help
+[2021-04-19 04:50:14]:   [, Level 0]: BulgarianTee: YOOO PAPA NUDELSAFTTT
+[2021-04-19 04:50:14]: SanoreX [Chilli.*, Level 27]: BulgarianTee: help I AM SANÖREX
+[2021-04-19 04:50:14]:   [, Level 0]: ϻɪɔʜɑʟ: BUT WHAT WE WILL? f"{self.name}"
