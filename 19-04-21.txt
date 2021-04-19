@@ -170,3 +170,6 @@
 [2021-04-19 00:12:10]: 1 [, Level 18]: taserim yo
 [2021-04-19 00:12:15]: 1 [, Level 18]: taserim yok
 [2021-04-19 00:12:15]: Random Guy [, Level 40]: (1)cat:  up
+[2021-04-19 00:12:27]: SanoreX.* [Chilli.*, Level 23]: oha
+[2021-04-19 00:12:30]: SanoreX.* [Chilli.*, Level 23]: 2 0
+[2021-04-19 00:12:30]: Random Guy [, Level 40]: 1: left up
