@@ -33,3 +33,7 @@
 [2021-04-19 00:02:07]: SanoreX.* [Chilli.*, Level 23]: Zerstrian: why
 [2021-04-19 00:02:12]: Not Zerstrian [, Level 50]: im joking chill
 [2021-04-19 00:02:15]: Not Zerstrian [, Level 50]: how do i sell it
+[2021-04-19 00:02:27]: ***  [, Level 0]: 'Zerstrian' started an auction on plot 11 for 2 money (plot expires on 20.04.2021 (19:00))
+[2021-04-19 00:02:27]: ***  [, Level 0]: Use '/plot buy 2 Zerstrian' to buy the plot
+[2021-04-19 00:02:30]: ***  [, Level 0]: Plot 11 has been bought by 'SanoreX'
+[2021-04-19 00:02:33]: SanoreX [Chilli.*, Level 27]: thx Zerstrian
