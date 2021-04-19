@@ -15192,3 +15192,7 @@
 [2021-04-19 12:09:57]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: swarfey yes  XD
 [2021-04-19 12:10:03]: ***  [, Level 0]: '(2)MOM' has left the game
 [2021-04-19 12:10:05]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: swarfey i figured it smuch easier
+[2021-04-19 12:10:11]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: swarfey you can also see logs
+[2021-04-19 12:10:15]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0logs
+[2021-04-19 12:10:18]: (1)Salut [, Level 25]: Falco642:  war
+[2021-04-19 12:10:18]: ***  [, Level 0]: 'thiago*_ *' joined the spectators
