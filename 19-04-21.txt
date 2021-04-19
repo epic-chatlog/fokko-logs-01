@@ -19130,3 +19130,10 @@
 [2021-04-19 16:25:05]: Killua [FookinLads, Level 37]: 0addwar SAUD
 [2021-04-19 16:25:10]: bob [, Level 36]: Black: brother
 [2021-04-19 16:25:12]: •Slowy [DogParty, Level 41]: Killua: YOU HELPED MY ENEMY
+[2021-04-19 16:25:14]: Black [, Level 0]: YEAH
+[2021-04-19 16:25:14]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0addwar •Slowy
+[2021-04-19 16:25:16]: ***  [, Level 0]: 'useless tee' has left the game
+[2021-04-19 16:25:17]: •Slowy [DogParty, Level 41]: ok
+[2021-04-19 16:25:19]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0delwar •Slowy
+[2021-04-19 16:25:22]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0addwar •Slowy
+[2021-04-19 16:25:22]: •Slowy [DogParty, Level 41]: dont care
