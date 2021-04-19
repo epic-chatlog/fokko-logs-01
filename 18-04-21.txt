@@ -21262,3 +21262,6 @@
 [2021-04-18 19:13:38]: ***  [, Level 0]: 'Black' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-18 19:15:33]: ***  [, Level 0]: 'Voxel' entered and joined the game
 [2021-04-18 19:15:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-18 19:16:02]: ERROR' [404, Level 76]: omg
+[2021-04-18 19:16:03]: ERROR' [404, Level 76]: nar
+[2021-04-18 19:16:07]: ERROR' [404, Level 76]: fucking stupid
