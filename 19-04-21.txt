@@ -4371,3 +4371,6 @@
 [2021-04-19 03:32:59]: ***  [, Level 0]: 'ϻɪɔʜɑʟ' entered and joined the game
 [2021-04-19 03:33:07]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
 [2021-04-19 03:33:11]: ***  [, Level 0]: |HolyHo|° is on a killing spree with 5 blocks
+[2021-04-19 03:33:14]: ***  [, Level 0]: BulgarianTee finished in: 1 minute(s) 39.86 second(s)
+[2021-04-19 03:33:14]: ***  [, Level 0]: New record: 55.10 second(s) better.
+[2021-04-19 03:33:14]: ChillerDragon.* [Chilli.*, Level 42]: when i see u and am not involved in something else |HolyHo|°
