@@ -12197,3 +12197,6 @@
 [2021-04-19 09:47:54]: ***  [, Level 0]: 'Kaptar' has left the game
 [2021-04-19 09:48:06]: weqe [669, Level 13]: mamikral011: help >
 [2021-04-19 09:48:07]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-19 09:48:15]: GODLIKe [, Level 44]: FUCK LAG
+[2021-04-19 09:48:24]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-19 09:48:26]: weqe [669, Level 13]: mamikral011: no help ???
