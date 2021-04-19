@@ -5775,3 +5775,5 @@
 [2021-04-19 04:29:55]: Raidon's Pet [, Level 20]: SanoreX: laser
 [2021-04-19 04:29:59]: SanoreX.* [Chilli.*, Level 23]: Raidon: bekle
 [2021-04-19 04:30:02]: Nagisa [H] [E8, Level 1]: laser sık
+[2021-04-19 04:30:14]: SanoreX [Chilli.*, Level 27]: Raidon: dummy gg
+[2021-04-19 04:30:17]: Raidon's Pet [, Level 20]: ama bende ikisindede var
