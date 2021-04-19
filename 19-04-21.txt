@@ -7977,3 +7977,7 @@
 [2021-04-19 06:23:17]: ***  [, Level 0]: 'Tsumiki' has left the game
 [2021-04-19 06:23:22]: ***  [, Level 0]: 'nico' entered and joined the game
 [2021-04-19 06:23:40]: ***  [, Level 0]: 'nenny' entered and joined the game
+[2021-04-19 06:23:52]: Intensiv_ [DogParty, Level 11]: (1)|HolyHo|°:  help
+[2021-04-19 06:23:56]: sun.slow(y) [FookinLads, Level 35]: (1)|HolyHo|°: if u help Intensiv = war
+[2021-04-19 06:23:56]: ***  [, Level 0]: el champeon is on a killing spree with 10 blocks
+[2021-04-19 06:24:01]: ***  [, Level 0]: 'DoktorGG' entered and joined the game
