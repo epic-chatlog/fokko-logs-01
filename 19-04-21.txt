@@ -11381,3 +11381,4 @@
 [2021-04-19 09:09:58]: ***  [, Level 0]: 'cookie' entered and joined the game
 [2021-04-19 09:10:05]: SanoreX [Chilli.*, Level 27]: (1)|HolyHo|°: open pls
 [2021-04-19 09:10:06]: ERROR [404, Level 47]: xDDDDDDDDDDDDDDDDDDDDDDD
+[2021-04-19 09:10:22]: ***  [, Level 0]: SkyForge is on a killing spree with 35 blocks
