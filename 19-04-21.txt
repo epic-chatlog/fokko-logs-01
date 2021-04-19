@@ -9832,3 +9832,11 @@
 [2021-04-19 07:44:55]: ***  [, Level 0]: Pornhub is on a killing spree with 5 blocks
 [2021-04-19 07:44:55]: ***  [, Level 0]: [D] Cylox is on a killing spree with 5 blocks
 [2021-04-19 07:44:57]: ***  [, Level 0]: 'fluffrit' joined the spectators
+[2021-04-19 07:44:59]: ERROR, [404, Level 57]: xD
+[2021-04-19 07:45:00]: [D] Cylox [{TQuila}, Level 0]: hwyy
+[2021-04-19 07:45:01]: Coca [Drunks, Level 24]: power: stop or war
+[2021-04-19 07:45:02]: [D] Cylox [{TQuila}, Level 0]: heey bro
+[2021-04-19 07:45:04]: Coca [Drunks, Level 24]: power: help him
+[2021-04-19 07:45:07]: ***  [, Level 0]: 'fluffrit' joined the game
+[2021-04-19 07:45:08]: ERROR, [404, Level 57]: AAAAAAAAAA
+[2021-04-19 07:45:10]: Coca [Drunks, Level 24]: power: ok
