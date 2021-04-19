@@ -8341,3 +8341,4 @@
 [2021-04-19 06:42:39]: weqe [669, Level 13]: Ðeathscyth:
 [2021-04-19 06:42:41]: sun.slow(y) [FookinLads, Level 35]: Intensiv_: u the next
 [2021-04-19 06:42:43]: ***  [, Level 0]: '(1)Huutochka' entered and joined the game
+[2021-04-19 06:42:46]: ***  [, Level 0]: '(2)Cosmo' has left the game
