@@ -21400,3 +21400,4 @@
 [2021-04-18 21:51:41]: Noxl [.bad, Level 48]: ak
 [2021-04-18 21:51:44]: Noxl [.bad, Level 48]: ok
 [2021-04-18 21:51:45]: Noxl [.bad, Level 48]: bye
+[2021-04-18 21:55:16]: ***  [, Level 0]: 'LastShot#DTR' entered and joined the game
