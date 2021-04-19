@@ -10918,3 +10918,8 @@
 [2021-04-19 08:38:38]: ***  [, Level 0]: 'Daffy 0iq' entered and joined the game
 [2021-04-19 08:38:41]: |HolyHo|° [FookinLads, Level 29]: ERROR: <<<
 [2021-04-19 08:38:44]: H0dƌƔ1 [ℋero, Level 28]: xd
+[2021-04-19 08:38:45]: sun.slow(y) [FookinLads, Level 35]: Lucifero: jeden tag spielt der mir hier emoji spiel
+[2021-04-19 08:38:48]: sun.slow(y) [FookinLads, Level 35]: Lucifero: denkt kante
+[2021-04-19 08:38:51]:   [, Level 0]: woona: ChillerDragon.*:
+[2021-04-19 08:38:51]: ChillerDragon.* [Chilli.*, Level 42]: woona: I am currently afk.
+[2021-04-19 08:38:53]: ***  [, Level 0]: 'abdousteve348' entered and joined the game
