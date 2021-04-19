@@ -11329,3 +11329,6 @@
 [2021-04-19 09:05:01]: ReXi [, Level 0]: nee nicht sein ernst
 [2021-04-19 09:05:03]: marcel [FookinLads, Level 0]: shit lag
 [2021-04-19 09:05:04]: ***  [, Level 0]: 'fluffrit' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-19 09:05:12]: ***  [, Level 0]: SkyForge is on a killing spree with 20 blocks
+[2021-04-19 09:05:17]: Cylox [{TQuila}, Level 32]: lag
+[2021-04-19 09:05:20]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 10 blocks
