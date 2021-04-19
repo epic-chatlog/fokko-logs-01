@@ -3917,3 +3917,10 @@
 [2021-04-19 03:09:30]: BulgarianTee [xSD7, Level 0]: Zephir™: he was a good teammate :(
 [2021-04-19 03:09:31]: ***  [, Level 0]: 'poziomekl' entered and joined the game
 [2021-04-19 03:09:33]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
+[2021-04-19 03:09:38]: Raidon's Pet [, Level 20]: Random Guy: y
+[2021-04-19 03:09:39]: ***  [, Level 0]: 'Random Guy' has left the game
+[2021-04-19 03:09:39]:   [, Level 0]: any²: Random Guy: so ?
+[2021-04-19 03:09:41]: Raidon's Pet [, Level 20]: any:
+[2021-04-19 03:09:42]: [₯]cLoud [Deepthroat, Level 37]: BulgarianTee: bye gae
+[2021-04-19 03:09:45]: ***  [, Level 0]: '[₯]cLoud' has left the game
+[2021-04-19 03:09:46]: ***  [, Level 0]: 'Random Guy' entered and joined the game
