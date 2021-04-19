@@ -6878,3 +6878,9 @@
 [2021-04-19 05:05:33]:   [, Level 0]: ERROR,: now say thanks.
 [2021-04-19 05:05:35]:   [, Level 0]: ChillerDragon: ty
 [2021-04-19 05:05:36]: BulgarianTee [Bulgaria, Level 0]: ERROR': why mad at chiller XD
+[2021-04-19 05:05:43]: SanoreX [Chilli.*, Level 27]: omg
+[2021-04-19 05:05:45]: Noémi [Queen , Level 40]: Marcisten: f1 bind w say /emote
+[2021-04-19 05:05:48]:   [, Level 0]: ERROR,: huh?
+[2021-04-19 05:05:48]: muluk [, Level 0]: (1):
+[2021-04-19 05:05:49]: Noémi [Queen , Level 40]: 7
+[2021-04-19 05:05:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
