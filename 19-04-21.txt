@@ -10727,3 +10727,9 @@
 [2021-04-19 08:26:15]: ***  [, Level 0]: '✯|Not Bulash' has left the game
 [2021-04-19 08:26:15]: ***  [, Level 0]: '✯ | Bulash' has left the game
 [2021-04-19 08:26:20]: Cylox [{TQuila}, Level 32]: Coca:
+[2021-04-19 08:26:27]: (2)Kirito [{TQuila}, Level 41]: ERROR: safe mit 32 noch jungfrau
+[2021-04-19 08:26:28]: ***  [, Level 0]: 'fluffrit' joined the game
+[2021-04-19 08:26:30]: (2)Kirito [{TQuila}, Level 41]: ERROR: versager
+[2021-04-19 08:26:31]: Coca [Drunks, Level 24]: Cylox: ?
+[2021-04-19 08:26:34]: ERROR' [404, Level 76]: xD
+[2021-04-19 08:26:34]: Coca [Drunks, Level 24]: Cylox: im afk
