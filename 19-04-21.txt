@@ -17801,3 +17801,5 @@
 [2021-04-19 14:28:23]: ***  [, Level 0]: 'picasso' entered and joined the game
 [2021-04-19 14:28:26]: . [TrRShClNrRs, Level 11]: HardreenClutch: im dying
 [2021-04-19 14:28:33]: ***  [, Level 0]: 'picasso' has left the game
+[2021-04-19 14:28:43]: asolegrain [, Level 0]: bob: why u help enemy
+[2021-04-19 14:28:54]: HeavyGeneral [FookinLads, Level 76]: bob: KK
