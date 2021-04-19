@@ -13906,3 +13906,5 @@
 [2021-04-19 11:07:57]: ***  [, Level 0]: 'ES' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-19 11:08:00]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: Mista bombastic: because u just dont move
 [2021-04-19 11:08:01]: Mista bombastic [TrRShClNrRs, Level 40]: TL|ŦƹƦ$ŦǾN: everyday like 4 times
+[2021-04-19 11:08:10]: Mista bombastic [TrRShClNrRs, Level 40]: TL|ŦƹƦ$ŦǾN: ye but thats timeout
+[2021-04-19 11:08:13]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: Mista bombastic: thats unplayable- its more annoying when its BARELY playable u know?
