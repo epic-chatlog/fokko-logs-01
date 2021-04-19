@@ -7766,3 +7766,10 @@
 [2021-04-19 06:15:26]: ***  [�, Level 0]: 'ZEWO's dummy' entered and joined the game
 [2021-04-19 06:15:29]: ***  [�, Level 0]: 'nameless tee' has left the game
 [2021-04-19 06:15:31]: ***  [�, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-19 06:15:36]: ZEWO [, Level 0]: Taip: stopp
+[2021-04-19 06:15:39]: ***  [�, Level 0]: 'fahh' has left the game
+[2021-04-19 06:15:39]: ZEWO [, Level 0]: salak
+[2021-04-19 06:15:40]: Taip [VergleriSay, Level 19]: wait
+[2021-04-19 06:15:41]: Good man [Drunks, Level 33]: Ƭevan: го за флагом?
+[2021-04-19 06:15:42]: Taip [VergleriSay, Level 19]: bekle
+[2021-04-19 06:15:46]: Nagisa [H] [E8, Level 2]: (1)Cosmo:xome
