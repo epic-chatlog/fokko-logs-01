@@ -6360,3 +6360,10 @@
 [2021-04-19 04:50:51]:   [, Level 0]: ERROR,: SanoreX:  no
 [2021-04-19 04:50:54]:   [, Level 0]: 1: ERROR':  help pls
 [2021-04-19 04:50:55]:   [, Level 0]: [D]ϻɪɔʜɑʟ: ,: but what we will?
+[2021-04-19 04:50:57]:   [, Level 0]: Nudelsaft c:: this is too much for me
+[2021-04-19 04:50:59]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-19 04:51:01]:   [, Level 0]: BulgarianTee: NOOOOO
+[2021-04-19 04:51:01]: Nagisa [H] [E8, Level 1]: sal bana
+[2021-04-19 04:51:02]: ***  [, Level 0]: '[D] SkyForge' entered and joined the game
+[2021-04-19 04:51:03]: SanoreX [Chilli.*, Level 27]: ERROR: why they are make peace old times
+[2021-04-19 04:51:06]:   [, Level 0]: BulgarianTee: PAPA NUDELL ;c
