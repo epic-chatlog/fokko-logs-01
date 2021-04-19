@@ -11851,3 +11851,10 @@
 [2021-04-19 09:36:02]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-19 09:36:04]:   [, Level 0]: Wynox: :/
 [2021-04-19 09:36:08]:   [, Level 0]: Wynox: ES
+[2021-04-19 09:36:10]:   [, Level 0]: Wynox: HELP ME
+[2021-04-19 09:36:10]: SanoreX [Chilli.*, Level 27]: GODLIKe: pç
+[2021-04-19 09:36:12]: marcel [FookinLads, Level 0]: pl password
+[2021-04-19 09:36:14]: ***  [, Level 0]: 'jeder' has left the game
+[2021-04-19 09:36:16]: marcel [FookinLads, Level 0]: plz
+[2021-04-19 09:36:17]:   [, Level 0]: Wynox: HEL P MEE
+[2021-04-19 09:36:18]: ***  [, Level 0]: 'jeder' entered and joined the game
