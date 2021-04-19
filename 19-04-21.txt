@@ -10416,3 +10416,5 @@
 [2021-04-19 08:11:23]: ***  [, Level 0]: 'f"{self.name}"' has left the game
 [2021-04-19 08:11:26]: ***  [, Level 0]: 'Maxpro2212' entered and joined the game
 [2021-04-19 08:11:29]: ***  [, Level 0]: 'fluffrit' joined the spectators
+[2021-04-19 08:11:34]: (2)Kirito [{TQuila}, Level 41]: Salut: u become 1 xp in 2 sec that is not good
+[2021-04-19 08:11:43]: ***  [, Level 0]: 'fluffrit' joined the game
