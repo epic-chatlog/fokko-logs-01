@@ -19006,3 +19006,5 @@
 [2021-04-19 16:15:29]: xN0Zoro D [, Level 0]: bob: why are you gay
 [2021-04-19 16:15:30]: bob [, Level 36]: Killua: U AFK
 [2021-04-19 16:15:34]: bob [, Level 36]: Killua: u were afk
+[2021-04-19 16:15:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 16:15:52]: Black [, Level 0]: bob: LETS GET THIM OUT OF cell
