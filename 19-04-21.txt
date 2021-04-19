@@ -10594,3 +10594,11 @@
 [2021-04-19 08:18:55]: ***  [, Level 0]: 'hhnaut31' has left the game
 [2021-04-19 08:18:55]: ***  [, Level 0]: 'woona' has left the game
 [2021-04-19 08:19:01]: |HolyHo|° [FookinLads, Level 29]: H0dƌƔ1: wtf
+[2021-04-19 08:19:07]:   [, Level 0]: H0dƌƔ1: (1)|HolyHo|°: pro xD
+[2021-04-19 08:19:10]: ***  [, Level 0]: 'fluffrit' joined the spectators
+[2021-04-19 08:19:12]: sun.slow(y) [FookinLads, Level 35]: Kirito: nerv mich nicht
+[2021-04-19 08:19:14]: (2)Kirito [{TQuila}, Level 41]: sun.slow(y): WARUM ZERSTÖRST DU DEN STACK ALTER
+[2021-04-19 08:19:14]: ***  [, Level 0]: 'fluffrit' joined the game
+[2021-04-19 08:19:15]: sun.slow(y) [FookinLads, Level 35]: Kirito: sonst setz ich dich auf blacklist
+[2021-04-19 08:19:16]: ***  [, Level 0]: '(2)Salut' has left the game
+[2021-04-19 08:19:19]: ***  [, Level 0]: 'Eren Jäger' entered and joined the game
