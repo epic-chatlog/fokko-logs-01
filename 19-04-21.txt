@@ -18626,3 +18626,4 @@
 [2021-04-19 15:30:21]: sun.slow(y) [FookinLads, Level 35]: Intensiv: suck
 [2021-04-19 15:30:25]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-19 15:30:38]: (1)☺ [, Level 26]: XD
+[2021-04-19 15:30:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
