@@ -18457,3 +18457,5 @@
 [2021-04-19 15:14:44]: ***  [, Level 0]: 656. Vesorp Time: 02:11.84, requested by Vesorp
 [2021-04-19 15:14:49]: bob [, Level 36]: wie jak to dzila
 [2021-04-19 15:15:01]: Vesorp [666, Level 26]: ale co
+[2021-04-19 15:15:09]: ***  [, Level 0]: 'Shockmedaddy' has left the game
+[2021-04-19 15:15:18]: bob [, Level 36]: kocham cie Vesorp
