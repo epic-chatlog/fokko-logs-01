@@ -10963,3 +10963,5 @@
 [2021-04-19 08:40:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-19 08:40:53]: ***  [, Level 0]: 'Salut' has left the game
 [2021-04-19 08:40:55]: Lucifero [SkinLover, Level 0]: sharkz: komm mal links
+[2021-04-19 08:41:02]: ***  [, Level 0]: 'skayt332' has left the game
+[2021-04-19 08:41:02]: Good man [Drunks, Level 33]: Cylox: oh shit
