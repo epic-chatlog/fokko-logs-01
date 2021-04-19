@@ -20951,3 +20951,5 @@
 [2021-04-18 17:57:25]: bob [, Level 36]: why u
 [2021-04-18 17:57:29]: Fera [, Level 0]: why no?
 [2021-04-18 17:57:32]: bob [, Level 36]: why not nar
+[2021-04-18 17:57:40]: Fera [, Level 0]: he attack me first
+[2021-04-18 17:57:42]: bob [, Level 36]: ok
