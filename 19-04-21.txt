@@ -17714,3 +17714,6 @@
 [2021-04-19 14:19:56]: ***  [, Level 0]: 'Kaazy->ez_frag' entered and joined the game
 [2021-04-19 14:19:59]: ***  [, Level 0]: 'Kaazy->ez_frag' has left the game
 [2021-04-19 14:19:59]: (1), [TrRShClNrRs, Level 36]: OHNO
+[2021-04-19 14:20:01]: [₯]cLoud [Deepthroat, Level 37]: sheeesh: SHEEEESHH
+[2021-04-19 14:20:05]: sheeesh [, Level 39]: [₯]cLoud: sheeesh
+[2021-04-19 14:20:05]: Kenshi ツ [404, Level 36]: weqe: can't too
