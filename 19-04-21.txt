@@ -8163,3 +8163,9 @@
 [2021-04-19 06:34:35]: :Exec [³⁷clαɴ, Level 0]: get me pls
 [2021-04-19 06:34:37]:   [, Level 0]: Kirito: who deepfreeze u any ?
 [2021-04-19 06:34:43]: any [404, Level 38]: dontknow
+[2021-04-19 06:34:52]: sun.slow(y) [FookinLads, Level 35]: kleiner lowi
+[2021-04-19 06:34:52]: Huutochka [, Level 10]: DOWN
+[2021-04-19 06:34:54]: any [404, Level 38]: (1)Kirito: lucas
+[2021-04-19 06:34:59]: ***  [, Level 0]: '__init__(self):' has left the game
+[2021-04-19 06:34:59]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-19 06:35:01]:   [, Level 0]: Kirito: any: i just spiked cosmo i didnt deepfreeze u. Why do you call me war i did nothing :/
