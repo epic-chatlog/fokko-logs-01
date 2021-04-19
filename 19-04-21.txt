@@ -18958,3 +18958,6 @@
 [2021-04-19 16:12:15]: Black [, Level 0]: bob: war 4 life
 [2021-04-19 16:12:18]: Black [, Level 0]: D:
 [2021-04-19 16:12:20]: ***  [, Level 0]: ### '•Slowy' WAR
+[2021-04-19 16:12:29]: •Slowy [DogParty, Level 41]: OMG
+[2021-04-19 16:12:32]: •Slowy [DogParty, Level 41]: xd
+[2021-04-19 16:12:33]: •Slowy [DogParty, Level 41]: :D
