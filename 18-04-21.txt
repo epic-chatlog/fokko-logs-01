@@ -20706,3 +20706,7 @@
 [2021-04-18 17:13:01]: ERROR [404, Level 47]: xD
 [2021-04-18 17:13:10]: weqe [669, Level 13]: ERROR: LET ME GO
 [2021-04-18 17:13:16]: ERROR [404, Level 47]: say pls
+[2021-04-18 17:13:25]: weqe [669, Level 13]: PLS
+[2021-04-18 17:13:28]: bob [, Level 36]: Black: ß??????????????
+[2021-04-18 17:13:33]: bob [, Level 36]: gove moneys!
+[2021-04-18 17:13:37]: bob [, Level 36]: MONEYS!
