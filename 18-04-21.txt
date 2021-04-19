@@ -20872,3 +20872,4 @@
 [2021-04-18 17:26:12]: xN0Zoro D [, Level 18]: ezzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 [2021-04-18 17:26:19]: ***  [, Level 0]: 'Black' has left the game
 [2021-04-18 17:26:19]: xN0Zoro D [, Level 18]: ezzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[2021-04-18 17:26:44]: (3)Kirito [, Level 12]: ez
