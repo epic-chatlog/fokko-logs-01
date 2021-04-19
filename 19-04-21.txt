@@ -439,3 +439,5 @@
 [2021-04-19 00:34:11]: SanoreX [Chilli.*, Level 27]: ikimiz
 [2021-04-19 00:34:13]: ***  [, Level 0]: 'emremarvan' entered and joined the game
 [2021-04-19 00:34:14]: Bruh. [Blood Day, Level 5]: ne gibi özelliğin var
+[2021-04-19 00:34:25]: ***  [, Level 0]: '(1)Arktict' entered and joined the game
+[2021-04-19 00:34:27]: SanoreX [Chilli.*, Level 27]: Bruh.: mesela biri istediğinde girmek izin falan verebilirim
