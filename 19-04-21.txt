@@ -5559,3 +5559,8 @@
 [2021-04-19 04:20:29]:   [, Level 0]: SanoreX.*: taşı bnie
 [2021-04-19 04:20:33]: vollesprit [, Level 1]: Falco641 how can i give money to someone ?
 [2021-04-19 04:20:34]:   [, Level 0]: SanoreX.*: tşıa bnie
+[2021-04-19 04:20:44]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-19 04:20:45]: Nagisa [H] [E8, Level 1]: dummymi blockladın
+[2021-04-19 04:20:45]:   [, Level 0]: SkyForge: HuskyFloofles:  you know your just getting killed if your doing that
+[2021-04-19 04:20:46]: Falco641 [.bad, Level 20]: say /money drop
+[2021-04-19 04:20:47]: Falco641 [.bad, Level 20]: and amount
