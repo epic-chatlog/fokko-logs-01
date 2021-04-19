@@ -2593,3 +2593,7 @@
 [2021-04-19 02:02:21]: GODLIKe [, Level 44]: Noémi: u sure
 [2021-04-19 02:02:22]: Andresss [Jewish, Level 1]: nemtom
 [2021-04-19 02:02:23]: ***  [, Level 0]: 'pandaSindCool' entered and joined the game
+[2021-04-19 02:02:24]: GODLIKe [, Level 44]: Noémi: okay
+[2021-04-19 02:02:25]: Andresss [Jewish, Level 1]: shop
+[2021-04-19 02:02:29]:   [, Level 0]: Isegrin: cry Raryx: prank
+[2021-04-19 02:02:34]: f"{self.name}" [, Level 0]: Cylox: come on
