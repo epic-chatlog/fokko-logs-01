@@ -6388,3 +6388,13 @@
 [2021-04-19 04:51:43]: avioocals [|*MorE*|, Level 0]: on refait
 [2021-04-19 04:51:44]:   [, Level 0]: JustRace: HeavyGeneral:  I saw the emote
 [2021-04-19 04:51:44]: 1IceyB0i [Zommer :D, Level 0]: Falco641:
+[2021-04-19 04:51:47]: ***  [, Level 0]: f"{self.name}" finished in: 3 minute(s) 19.96 second(s)
+[2021-04-19 04:51:47]: ***  [, Level 0]: New record: 8 minute(s) 17.22 second(s) better.
+[2021-04-19 04:51:47]: ***  [, Level 0]: __init__(self): finished in: 2 minute(s) 17.76 second(s)
+[2021-04-19 04:51:47]: ***  [, Level 0]: New record: 2 minute(s) 25.18 second(s) better.
+[2021-04-19 04:51:48]: ***  [, Level 0]: Kenshi™ is on a killing spree with 15 blocks
+[2021-04-19 04:51:50]:   [, Level 0]: Nightmare: HeavyGeneral: can i join fookinlads?
+[2021-04-19 04:51:52]: 1IceyB0i [Zommer :D, Level 0]: __init__(self)::
+[2021-04-19 04:51:52]:   [, Level 0]: (1): avioocals: viens ya plus rapide
+[2021-04-19 04:51:53]:   [, Level 0]: ϻɪɔʜɑʟ: HuskyFloofles: give me portal
+[2021-04-19 04:51:56]: at insan [freeporçay, Level 0]: nagisa sal bence onu
