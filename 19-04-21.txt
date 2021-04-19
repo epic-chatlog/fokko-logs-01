@@ -14414,3 +14414,5 @@
 [2021-04-19 11:35:32]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-19 11:35:41]: . [TrRShClNrRs, Level 43]: Killua: ok
 [2021-04-19 11:35:43]: . [TrRShClNrRs, Level 43]: Killua: the last one is ok
+[2021-04-19 11:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 11:35:54]: . [TrRShClNrRs, Level 43]: Killua: delwar .
