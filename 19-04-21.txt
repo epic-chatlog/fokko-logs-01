@@ -5540,3 +5540,13 @@
 [2021-04-19 04:19:53]:   [, Level 0]: SanoreX.*: Raidon: sende varmı
 [2021-04-19 04:19:53]: f"{self.name}" [, Level 0]: any²: help pls
 [2021-04-19 04:19:58]: vollesprit [, Level 1]: Falco641 i don't want your money , i just need mine...
+[2021-04-19 04:19:59]: Raidon's Pet [, Level 20]: SanoreX: ben sadece farm için xD
+[2021-04-19 04:20:01]: f"{self.name}" [, Level 0]: any²: why
+[2021-04-19 04:20:02]: Falco641 [.bad, Level 20]: its fine
+[2021-04-19 04:20:02]:   [, Level 0]: Minato/fr dumy: can i have inf jump?
+[2021-04-19 04:20:04]:   [, Level 0]: SanoreX.*: O
+[2021-04-19 04:20:07]:   [, Level 0]: SanoreX.*: Raidon: iyi
+[2021-04-19 04:20:08]: f"{self.name}" [, Level 0]: .:
+[2021-04-19 04:20:09]: vollesprit [, Level 1]: Falco641 not your charity , i farm it
+[2021-04-19 04:20:10]: Falco641 [.bad, Level 20]: i have enough money
+[2021-04-19 04:20:11]: ***  [, Level 0]: 'SkyForge' entered and joined the game
