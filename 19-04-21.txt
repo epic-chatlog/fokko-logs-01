@@ -7698,3 +7698,5 @@
 [2021-04-19 06:11:49]: ***  [, Level 0]: 'Minato / FR' entered and joined the game
 [2021-04-19 06:11:57]: Nightmare [, Level 0]: JustRace: 75.
 [2021-04-19 06:11:58]: Nightmare [, Level 0]: JustRace: 75.5
+[2021-04-19 06:12:06]: vollesprit [, Level 2]: Soros is lucas a bot ?
+[2021-04-19 06:12:11]:   [, Level 0]: Lucas: vollesprit: no
