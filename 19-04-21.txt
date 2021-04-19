@@ -10341,3 +10341,6 @@
 [2021-04-19 08:07:29]: ***  [, Level 0]: 'fluffrit' joined the game
 [2021-04-19 08:07:34]: [D] El patron [FookinLads, Level 24]: a
 [2021-04-19 08:07:44]: ***  [, Level 0]: __init__(self):'s killing spree was ended by woona (7 blocks)
+[2021-04-19 08:07:48]: løminatiøn· [, Level 37]: Cylox: WHY YOUR NAME IS BLACK IN SCORE BOARD
+[2021-04-19 08:07:56]: ***  [, Level 0]: 'fluffrit' joined the spectators
+[2021-04-19 08:07:57]: ***  [, Level 0]: Minato/fr dumy is on a killing spree with 5 blocks
