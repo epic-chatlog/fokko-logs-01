@@ -17774,3 +17774,5 @@
 [2021-04-19 14:25:34]: ***  [, Level 0]: 'NinjaWhite' entered and joined the game
 [2021-04-19 14:25:48]: asolegrain [, Level 0]: ,:
 [2021-04-19 14:25:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-19 14:26:10]: asolegrain [, Level 0]: ChillerDragon.*:
+[2021-04-19 14:26:10]: ChillerDragon.* [|*KoG*|, Level 42]: asolegrain: I am currently afk.
