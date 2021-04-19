@@ -16935,3 +16935,5 @@
 [2021-04-19 13:42:59]: . [TrRShClNrRs, Level 10]: wow
 [2021-04-19 13:43:01]: . [TrRShClNrRs, Level 10]: long portal bob
 [2021-04-19 13:43:05]: . [TrRShClNrRs, Level 10]: bob: look
+[2021-04-19 13:43:21]: [D] Cylox [{TQuila}, Level 25]: bob: OMG
+[2021-04-19 13:43:25]: bob [, Level 36]: Cylox: what
