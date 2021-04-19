@@ -6228,3 +6228,9 @@
 [2021-04-19 04:46:24]: Huutochka [, Level 10]: okay
 [2021-04-19 04:46:24]: ***  [, Level 0]: Zephir™'s killing spree was ended by . (6 blocks)
 [2021-04-19 04:46:25]: weqe [669, Level 13]: BulgarianTee: help
+[2021-04-19 04:46:27]:   [, Level 0]: JustRace: .:
+[2021-04-19 04:46:29]:   [, Level 0]: BulgarianTee: weqe: who kill u?
+[2021-04-19 04:46:30]:   [, Level 0]: 1IceyB0i: :D
+[2021-04-19 04:46:33]: weqe [669, Level 13]: BulgarianTee: SkyForge
+[2021-04-19 04:46:33]: SkyForge [, Level 0]: ERROR:  i freed you...
+[2021-04-19 04:46:38]: SkyForge [, Level 0]: ERROR:  are you fr...
