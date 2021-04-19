@@ -113,3 +113,7 @@
 [2021-04-19 00:08:27]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 29.78 second(s)
 [2021-04-19 00:08:29]: ***  [, Level 0]: 'niQ' entered and joined the game
 [2021-04-19 00:08:30]: SanoreX.* [Chilli.*, Level 23]: Bruh.: bind y "toggle inp_mousesens 2 500; toggle cl_mouse_max_distance 2 380"
+[2021-04-19 00:08:45]: SanoreX.* [Chilli.*, Level 23]: Bruh.: 500 yerine normal mouse hızını yaz
+[2021-04-19 00:08:46]: Random Guy [, Level 40]: xd
+[2021-04-19 00:08:46]: SanoreX.* [Chilli.*, Level 23]: ok?
+[2021-04-19 00:08:50]: Bruh. [Blood Day, Level 5]: direk eskiden ayarlarda vardı da
