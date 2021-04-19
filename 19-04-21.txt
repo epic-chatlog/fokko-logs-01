@@ -13444,3 +13444,7 @@
 [2021-04-19 10:48:26]:   [, Level 0]: Flipper: bro
 [2021-04-19 10:48:29]: SanoreX [Chilli.*, Level 27]: saol
 [2021-04-19 10:48:29]: shisui [, Level 0]: (1)Sayme:
+[2021-04-19 10:48:32]: ***  [, Level 0]: '(1)basoka' entered and joined the game
+[2021-04-19 10:48:33]: ***  [, Level 0]: 'cookie' has left the game
+[2021-04-19 10:48:36]: ṆḕẌṳS [Chilli.*, Level 0]: SanoreX:
+[2021-04-19 10:48:39]: SanoreX [Chilli.*, Level 27]: ṆḕẌṳS: ne
