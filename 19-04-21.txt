@@ -8004,3 +8004,9 @@
 [2021-04-19 06:25:44]: ***  [, Level 0]: '✔Pouet' entered and joined the game
 [2021-04-19 06:25:48]: ***  [, Level 0]: '✔Pouet{D}' entered and joined the game
 [2021-04-19 06:25:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-19 06:25:57]: Intensiv_ [DogParty, Level 11]: H0dƌƔ1:  help
+[2021-04-19 06:25:58]: |HolyHo|° [FookinLads, Level 29]: sun.slow(y): wtf?
+[2021-04-19 06:25:58]: Intensiv_ [DogParty, Level 11]: H0dƌƔ1:  help 10 k
+[2021-04-19 06:26:00]: sun.slow(y) [FookinLads, Level 35]: (1)|HolyHo|°: stfu i will call heavy nor
+[2021-04-19 06:26:02]:   [, Level 0]: El patron: ERROR:
+[2021-04-19 06:26:04]: sun.slow(y) [FookinLads, Level 35]: (1)|HolyHo|°: stfu i will call heavy now
