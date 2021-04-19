@@ -8030,3 +8030,6 @@
 [2021-04-19 06:26:41]: sun.slow(y) [FookinLads, Level 35]: El patron: he help my enemys
 [2021-04-19 06:26:42]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-19 06:26:52]: |HolyHo|° [FookinLads, Level 29]: sun.slow(y): OMFG U FOOKINLADS WTF
+[2021-04-19 06:26:59]: ***  [, Level 0]: '(1)Coca' has left the game
+[2021-04-19 06:27:02]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-19 06:27:04]: ***  [, Level 0]: 'nameless tee' entered and joined the game
