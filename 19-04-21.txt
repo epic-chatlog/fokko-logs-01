@@ -6010,3 +6010,6 @@
 [2021-04-19 04:38:33]: weqe [669, Level 13]: .:
 [2021-04-19 04:38:34]: ***  [, Level 0]: 'Mathew' joined the spectators
 [2021-04-19 04:38:43]:   [, Level 0]: .: weqe: yes
+[2021-04-19 04:38:52]:   [, Level 0]: ERROR,: NONO
+[2021-04-19 04:38:58]: ***  [, Level 0]: 'Mathew' joined the game
+[2021-04-19 04:38:59]: ***  [, Level 0]: '[D] монст�' entered and joined the game
