@@ -18669,3 +18669,4 @@
 [2021-04-19 15:37:36]: bob [, Level 36]: HAHA
 [2021-04-19 15:37:47]: ***  [, Level 0]: 'Intensiv_' entered and joined the game
 [2021-04-19 15:37:54]: ***  [, Level 0]: 'KarakanPL' has left the game
+[2021-04-19 15:38:07]: GOLD [404, Level 38]: HeavyGeneral: bad
