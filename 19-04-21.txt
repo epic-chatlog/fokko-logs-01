@@ -14403,3 +14403,7 @@
 [2021-04-19 11:34:48]: . [TrRShClNrRs, Level 43]: 0addwar Killua
 [2021-04-19 11:34:50]: CKA3A4NIK[NR] [Night Raid, Level 35]: Clown
 [2021-04-19 11:35:04]: Mista bombastic [TrRShClNrRs, Level 40]: 什么是Lorem Ipsum?
+[2021-04-19 11:35:08]: ***  [, Level 0]: 'kilodx' joined the spectators
+[2021-04-19 11:35:09]: ***  [, Level 0]: 'Mista bombastic' has been muted for 60 seconds
+[2021-04-19 11:35:11]: [D] BC|Tixnix [BC, Level 26]: Mista bombastic: hahahahahahhahahhaahhhaahahhahahahahahahahahaaaaaaahahahahahahahahahahahhahahahahahahahahahahahgahahahahahahahhahahahahahhahahahhahahahahhahahagahhahahahahahhahahahhahaahahahahahahahaha
+[2021-04-19 11:35:11]: ***  [, Level 0]: 'kilodx' joined the game
