@@ -5839,3 +5839,5 @@
 [2021-04-19 04:32:29]: ***  [, Level 0]: '(1)avioocals' has left the game (Timeout Protection used)
 [2021-04-19 04:32:31]: Falco641 [.bad, Level 20]: vollesprit: ok wait dont go now
 [2021-04-19 04:32:32]: at insan [freeporçay, Level 0]: peki elindeki silahı nasıl alabilirim
+[2021-04-19 04:32:42]: Nagisa [H] [E8, Level 1]: atla ama dey duvara
+[2021-04-19 04:32:48]: Nagisa [H] [E8, Level 1]: yoksa gg
