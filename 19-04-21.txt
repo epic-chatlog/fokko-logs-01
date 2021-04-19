@@ -5519,3 +5519,7 @@
 [2021-04-19 04:19:03]:   [, Level 0]: SanoreX.*: Raidon: yoo
 [2021-04-19 04:19:06]: ϻɪɔʜɑʟ [DogParty, Level 24]: help me?
 [2021-04-19 04:19:07]: ***  [, Level 0]: 'El patron' entered and joined the game
+[2021-04-19 04:19:13]: Raidon [, Level 24]: SanoreX: inf daha çok para veriyo aq
+[2021-04-19 04:19:16]: ***  [, Level 0]: 'kristalik25' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-19 04:19:16]: Falco641 [.bad, Level 20]: wait
+[2021-04-19 04:19:18]:   [, Level 0]: SanoreX.*: Raidon: deneriz bunda yaw
