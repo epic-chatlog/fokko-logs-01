@@ -21733,3 +21733,7 @@
 [2021-04-18 23:48:09]: ***  [, Level 0]: 'Tom' entered and joined the game
 [2021-04-18 23:48:13]: SanoreX.* [Chilli.*, Level 23]: okay (:
 [2021-04-18 23:48:20]: Foxie♥ [{TQuila}, Level 41]: Zerstrian: wanna 1v1?
+[2021-04-18 23:48:24]: ***  [, Level 0]: 'Jerry' entered and joined the game
+[2021-04-18 23:48:24]: (1)Zerstrian [, Level 42]: funwar?
+[2021-04-18 23:48:24]: Cacke [, Level 0]: klas: kill
+[2021-04-18 23:48:31]: (1)Zerstrian [, Level 42]: sure but gimme sec
