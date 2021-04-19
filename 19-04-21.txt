@@ -5221,3 +5221,7 @@
 [2021-04-19 04:06:14]: (1)HuskyFloofle [Furry, Level 0]: sta: no ur itallian
 [2021-04-19 04:06:18]: Falco642 [, Level 0]: go
 [2021-04-19 04:06:19]: SanoreX [Chilli.*, Level 27]: lan
+[2021-04-19 04:06:20]: Falco642 [, Level 0]: same way we went before
+[2021-04-19 04:06:22]:   [, Level 0]: BulgarianTee: HeavyGeneral: so i put some brightness, and now im back to the first stats i was left with before today
+[2021-04-19 04:06:29]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 10 blocks
+[2021-04-19 04:06:30]:   [, Level 0]: BulgarianTee: HeavyGeneral: brightness isnt the problem i dont think
