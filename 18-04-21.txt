@@ -21157,3 +21157,4 @@
 [2021-04-18 18:46:29]: nar [ComRoach, Level 19]: ha
 [2021-04-18 18:46:37]: Black [, Level 0]: a8ra al caht
 [2021-04-18 18:46:39]: Black [, Level 0]: chat
+[2021-04-18 18:46:52]: nar [ComRoach, Level 19]: Black: 3tany asmk
