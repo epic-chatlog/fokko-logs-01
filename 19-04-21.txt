@@ -19548,3 +19548,5 @@
 [2021-04-19 16:58:37]: Shiro. [kys, Level 43]: bob
 [2021-04-19 16:58:43]: Shiro. [kys, Level 43]: nan t'humilie personne ici
 [2021-04-19 16:58:47]: Shiro. [kys, Level 43]: ez
+[2021-04-19 16:58:51]: Zephir ツ [404, Level 40]: Shiro.: ta besoin de bob pour gagner ?
+[2021-04-19 16:58:52]: Shiro. [kys, Level 43]: fat
