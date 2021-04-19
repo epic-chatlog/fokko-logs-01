@@ -4107,3 +4107,5 @@
 [2021-04-19 03:18:13]:   [, Level 0]: Taip: NOOBS
 [2021-04-19 03:18:24]: ***  [, Level 0]: 'MOM' entered and joined the game
 [2021-04-19 03:18:25]: ***  [, Level 0]: 'Arktict' entered and joined the game
+[2021-04-19 03:18:31]: ***  [, Level 0]: 'jemandanderes' has left the game
+[2021-04-19 03:18:31]: ***  [, Level 0]: 'Jemandanderes' has left the game
