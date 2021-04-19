@@ -12793,3 +12793,6 @@
 [2021-04-19 10:14:09]:   [, Level 0]: Sayme: cunt: have lags?
 [2021-04-19 10:14:10]: ***  [, Level 0]: 'weqe' has left the game
 [2021-04-19 10:14:10]: ***  [, Level 0]: 'bob' has left the game (Timeout)
+[2021-04-19 10:14:16]: cunt [TrRShClNrRs, Level 0]: Sayme: yes
+[2021-04-19 10:14:19]: ***  [, Level 0]: 'UtoPia™ ☬NA' has left the game (Timeout Protection over)
+[2021-04-19 10:14:23]: (1)Lucas [FookinLads, Level 0]: plz info lvl
