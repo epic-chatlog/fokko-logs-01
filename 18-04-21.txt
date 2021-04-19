@@ -21374,3 +21374,5 @@
 [2021-04-18 21:46:25]: Noxl. [.bad, Level 35]: bs
 [2021-04-18 21:46:33]: ***  [, Level 0]: Noxl. finished in: 14 minute(s) 48.62 second(s)
 [2021-04-18 21:46:34]: ***  [, Level 0]: nar finished in: 1 minute(s) 48.86 second(s)
+[2021-04-18 21:46:54]: nar [ComRoach, Level 19]: lag
+[2021-04-18 21:47:04]: Noxl. [.bad, Level 35]: nice'
