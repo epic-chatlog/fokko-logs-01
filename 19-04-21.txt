@@ -6926,3 +6926,7 @@
 [2021-04-19 05:06:27]: Zam [.bad, Level 30]: Zephir™: ..
 [2021-04-19 05:06:27]:   [, Level 0]: [D] Nudelsaft c: SanoreX: but its annoying
 [2021-04-19 05:06:27]: Falco641 [.bad, Level 20]: power: wtf??????
+[2021-04-19 05:06:29]: Arktict [, Level 31]: non
+[2021-04-19 05:06:31]:   [, Level 0]: any: hi ERROR
+[2021-04-19 05:06:32]: ***  [, Level 0]: 'ReXi' has left the game
+[2021-04-19 05:06:36]:   [, Level 0]: ERROR,: any hi
