@@ -14456,3 +14456,7 @@
 [2021-04-19 11:38:35]:   [, Level 0]: yair: xd
 [2021-04-19 11:38:36]:   [, Level 0]: yair: I like turtles.
 [2021-04-19 11:38:45]: ***  [, Level 0]: 'LAXER' entered and joined the game
+[2021-04-19 11:38:53]: ***  [, Level 0]: 'kilodx' has left the game
+[2021-04-19 11:38:57]: ChillerDragon [|*KoG*|, Level 45]: ZillyDreck: I am currently afk.
+[2021-04-19 11:38:59]: Killua [FookinLads, Level 37]: Mista bombastic: sure
+[2021-04-19 11:39:00]: ***  [, Level 0]: SanoreX.* is on a killing spree with 10 blocks
