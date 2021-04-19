@@ -21459,3 +21459,4 @@
 [2021-04-18 22:52:37]: ***  [, Level 0]: 'Mista bombastic' has left the game
 [2021-04-18 22:52:47]: ***  [, Level 0]: '(1)Raidon' entered and joined the game
 [2021-04-18 22:53:27]: ***  [, Level 0]: '(1)Raidon' has left the game
+[2021-04-18 22:55:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
