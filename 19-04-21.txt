@@ -10456,3 +10456,5 @@
 [2021-04-19 08:13:49]:   [, Level 0]: S Y T H N: xD
 [2021-04-19 08:13:49]: løminatiøn· [, Level 37]: S Y T H N: ?
 [2021-04-19 08:13:50]: sharkz [, Level 45]: Kirito: how I use plot editpr?
+[2021-04-19 08:13:54]: (2)Kirito [{TQuila}, Level 41]: sharkz: /plot edit
+[2021-04-19 08:14:01]:   [, Level 0]: S Y T H N: xD
