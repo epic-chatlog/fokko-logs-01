@@ -10714,3 +10714,6 @@
 [2021-04-19 08:25:36]: (2)Kirito [{TQuila}, Level 41]: ERROR: ja ehrenlos
 [2021-04-19 08:25:36]: Lucas [THECEPS, Level 35]: SanoreX: thx
 [2021-04-19 08:25:43]: SanoreX [Chilli.*, Level 27]: Lucas: u Draw Master
+[2021-04-19 08:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-19 08:25:54]: comic [comically, Level 15]: nO
+[2021-04-19 08:25:56]: ***  [, Level 0]: 'nameless tee' entered and joined the game
