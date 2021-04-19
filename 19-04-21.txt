@@ -16976,3 +16976,4 @@
 [2021-04-19 13:47:05]: bob [, Level 36]: HeavyGeneral:
 [2021-04-19 13:47:07]: . [TrRShClNrRs, Level 10]: Sayme: its pretty high
 [2021-04-19 13:47:07]: bob [, Level 36]: HeavyGeneral: u mad at ~DemoizL~ sir
+[2021-04-19 13:47:15]: . [TrRShClNrRs, Level 10]: bob: just cl_mouse_max_distance 500000
