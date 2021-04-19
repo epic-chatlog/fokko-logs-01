@@ -7335,3 +7335,8 @@
 [2021-04-19 05:22:56]: Nightmare [, Level 0]: i m p o s t o r: U ARE IMPASTAAA
 [2021-04-19 05:23:00]: |HolyHo| [FookinLads, Level 19]: avøcados: team?
 [2021-04-19 05:23:06]:   [, Level 0]: i m p o s t o r: Nightmare: sus
+[2021-04-19 05:23:08]: ***  [, Level 0]: 'Andresss' entered and joined the game
+[2021-04-19 05:23:08]:   [, Level 0]: Cylox: Nudelsaft c:: KEBAB
+[2021-04-19 05:23:09]: ***  [, Level 0]: 'i m p o s t o r' has left the game
+[2021-04-19 05:23:11]:   [, Level 0]: [D] JustRace: cl_aimbot 1
+[2021-04-19 05:23:18]: ***  [, Level 0]: '[D] El patron' entered and joined the game
