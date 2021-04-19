@@ -5671,3 +5671,10 @@
 [2021-04-19 04:24:35]: SanoreX [Chilli.*, Level 27]: bANA İNF JUMP ALMADIN Raidon
 [2021-04-19 04:24:36]: Raidon [, Level 24]: bi sn
 [2021-04-19 04:24:39]: PoliceTee [PoliceForce, Level 38]: GOLD: careful
+[2021-04-19 04:24:45]: Raidon's Pet [, Level 20]: hangisine
+[2021-04-19 04:24:49]: SanoreX [Chilli.*, Level 27]: Raidon: ben
+[2021-04-19 04:24:50]: Falco642 [, Level 0]: nvm
+[2021-04-19 04:24:53]: SanoreX [Chilli.*, Level 27]: sanorex
+[2021-04-19 04:24:54]: Raidon's Pet [, Level 20]: tm atla diğeryle
+[2021-04-19 04:24:55]: SanoreX [Chilli.*, Level 27]: .* deil
+[2021-04-19 04:24:56]: Nagisa [H] [E8, Level 1]: bekle
