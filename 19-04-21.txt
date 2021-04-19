@@ -10784,3 +10784,7 @@
 [2021-04-19 08:29:17]: ***  [, Level 0]: 'any - ❅' changed name to 'any﹥❅'
 [2021-04-19 08:29:17]: ***  [, Level 0]: 'any - ☫' changed name to 'any﹥☫'
 [2021-04-19 08:29:24]: ***  [, Level 0]: '(1)☺' has left the game
+[2021-04-19 08:29:26]: ***  [, Level 0]: '(1)☺' entered and joined the game
+[2021-04-19 08:29:28]: [D] ṆḕẌ� [, Level 0]: El patron: why man
+[2021-04-19 08:29:31]: SanoreX [Chilli.*, Level 27]: ☫ ❅ ☫ ❅
+[2021-04-19 08:29:32]: ***  [, Level 0]: 'tgrenet12' has left the game (Timeout)
