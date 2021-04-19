@@ -11105,3 +11105,4 @@
 [2021-04-19 08:47:41]: ***  [, Level 0]: 'seshboy' has left the game
 [2021-04-19 08:47:42]: ***  [, Level 0]: 'sharkz' has left the game
 [2021-04-19 08:47:47]: ***  [, Level 0]: 'Rarerar' entered and joined the game
+[2021-04-19 08:47:52]: ***  [, Level 0]: csibeffasirt is on a killing spree with 5 blocks
