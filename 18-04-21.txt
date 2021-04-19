@@ -21665,3 +21665,4 @@
 [2021-04-18 23:36:30]: #5 blocker [|*MorE*|, Level 0]: come
 [2021-04-18 23:36:40]: Cacke [, Level 0]: cat: sup?
 [2021-04-18 23:36:47]: ***  [, Level 0]: 'HeroDragon' has left the game
+[2021-04-18 23:36:53]: [D] #5 blocker [|*MorE*|, Level 0]: help
