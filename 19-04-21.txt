@@ -1591,3 +1591,5 @@
 [2021-04-19 01:23:46]: ***  [, Level 0]: 'lol' entered and joined the game
 [2021-04-19 01:23:48]: ChillerDragon [Chilli.*, Level 45]: SanoreX: I am currently afk.
 [2021-04-19 01:23:58]: mamikral011 [DogParty, Level 27]: Intensiv_: bak görüom olm
+[2021-04-19 01:24:06]: mamikral011 [DogParty, Level 27]: Bruh.: Türksün demi
+[2021-04-19 01:24:08]: ***  [, Level 0]: 'lol' has left the game
