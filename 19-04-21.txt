@@ -9957,3 +9957,6 @@
 [2021-04-19 07:50:01]: Coca [Drunks, Level 24]: power2: go up
 [2021-04-19 07:50:03]: power2 [TrRShClNrRs, Level 0]: for real? o-o
 [2021-04-19 07:50:05]: [D] Cylox [{TQuila}, Level 0]: power: COME
+[2021-04-19 07:50:12]: Coca [Drunks, Level 24]: power: go!
+[2021-04-19 07:50:14]: power2 [TrRShClNrRs, Level 0]: why kill the new guy Coca
+[2021-04-19 07:50:21]: ERROR' [404, Level 76]: xD
