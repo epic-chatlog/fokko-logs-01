@@ -21681,3 +21681,4 @@
 [2021-04-18 23:40:12]: nar [ComRoach, Level 19]: cat:
 [2021-04-18 23:40:23]: ***  [, Level 0]: 'klas 2' entered and joined the game
 [2021-04-18 23:40:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-18 23:41:10]: ¡ RodCYREX 神 [Blood Day, Level 0]: I like turtles.
