@@ -292,3 +292,7 @@
 [2021-04-19 00:24:30]: ***  [, Level 0]: 'ZEWO' entered and joined the game
 [2021-04-19 00:24:32]: mamikral011 [DogParty, Level 0]: ChillerDragon: ?
 [2021-04-19 00:24:38]: mamikral011 [DogParty, Level 0]: ChillerDragon.*: okey
+[2021-04-19 00:24:50]: ZEWO [, Level 0]: s
+[2021-04-19 00:24:53]: [D] mamikral011 [DogParty, Level 0]: ZEWO: sikimin ucu naber
+[2021-04-19 00:24:53]: ***  [, Level 0]: 'ZEWO' has left the game
+[2021-04-19 00:24:54]: Julianno [FreeJuli, Level 0]: lag :C
