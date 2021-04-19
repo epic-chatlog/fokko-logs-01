@@ -18942,3 +18942,5 @@
 [2021-04-19 16:10:25]: Black [, Level 0]: bob:  IS MAD RN
 [2021-04-19 16:10:36]: Black [, Level 0]: xd
 [2021-04-19 16:10:40]: ***  [, Level 0]: 'xN0Zoro' entered and joined the game
+[2021-04-19 16:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-19 16:10:50]: ***  [, Level 0]: 'mat' entered and joined the game
