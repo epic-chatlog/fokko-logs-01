@@ -16833,3 +16833,5 @@
 [2021-04-19 13:33:42]: ***  [, Level 0]: HardreenClutch is on a killing spree with 10 blocks
 [2021-04-19 13:33:46]: bob [, Level 36]: HardreenClutch: was soll das
 [2021-04-19 13:33:47]: ***  [, Level 0]: Falco641 is on a killing spree with 5 blocks
+[2021-04-19 13:34:09]: ***  [, Level 0]: 'shisui' entered and joined the game
+[2021-04-19 13:34:12]: ***  [, Level 0]: 'teewar' changed name to 'cunt'
