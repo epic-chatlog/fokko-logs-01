@@ -18191,3 +18191,7 @@
 [2021-04-19 15:00:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-19 15:00:59]: ☺ [, Level 27]: Zephir ツ: comment je change mon mot de passe dans le compte que jai sur moi
 [2021-04-19 15:01:14]: ☺ [, Level 27]: tu sais ? Zephir ツ
+[2021-04-19 15:01:19]: Zephir ツ [404, Level 40]: ☺: att
+[2021-04-19 15:01:25]: woona [, Level 48]: LAG?
+[2021-04-19 15:01:25]: ☺ [, Level 27]: ok
+[2021-04-19 15:01:30]: Shiro. [kys, Level 43]: YelloWorlD: il est avec nous t con
