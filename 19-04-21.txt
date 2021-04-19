@@ -11522,3 +11522,5 @@
 [2021-04-19 09:18:52]: ***  [, Level 0]: '(1)Salut' entered and joined the game
 [2021-04-19 09:18:54]: ***  [, Level 0]: 'dimok' entered and joined the game
 [2021-04-19 09:18:54]: Santa Claus [, Level 0]: Flippēr: <----- please
+[2021-04-19 09:19:02]:   [, Level 0]: ChillerDragon: wow Cylox so good
+[2021-04-19 09:19:05]:   [, Level 0]: Flippēr: call me daddy
