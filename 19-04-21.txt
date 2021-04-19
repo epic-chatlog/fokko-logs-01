@@ -9864,3 +9864,9 @@
 [2021-04-19 07:45:44]: ***  [, Level 0]: 'IMPOSTOR' has left the game (Timeout)
 [2021-04-19 07:45:47]: ERROR, [404, Level 57]: xD
 [2021-04-19 07:45:47]: ***  [, Level 0]: 'fluffrit' joined the game
+[2021-04-19 07:45:50]: ***  [, Level 0]: Yoshi finished in: 2 minute(s) 32.16 second(s)
+[2021-04-19 07:45:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-19 07:45:50]:   [, Level 0]: Maiki: pls
+[2021-04-19 07:45:51]: ***  [, Level 0]: [D] im_cloud_ finished in: 2 minute(s) 32.38 second(s)
+[2021-04-19 07:45:52]: ***  [, Level 0]: 'GODLIKe' has left the game
+[2021-04-19 07:45:54]: ***  [, Level 0]: 'the last kozol' entered and joined the game
