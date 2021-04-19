@@ -4669,3 +4669,8 @@
 [2021-04-19 03:45:26]: GOLD [404, Level 40]: Raidon: help mamikral011 or war
 [2021-04-19 03:45:30]: Tziys* [DogParty, Level 39]: sa
 [2021-04-19 03:45:33]:   [, Level 0]: ChillerDragon: so BulgarianTee ?
+[2021-04-19 03:45:35]: mamikral011 [DogParty, Level 22]: Raidon's Pet: haahah
+[2021-04-19 03:45:36]: ***  [, Level 0]: 'cunt' has left the game
+[2021-04-19 03:45:43]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-19 03:45:43]: mamikral011 [DogParty, Level 22]: Raidon's Pet: allan
+[2021-04-19 03:45:46]: BULLETBOT [, Level 0]: fucking bad
