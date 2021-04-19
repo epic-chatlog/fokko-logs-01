@@ -21421,3 +21421,4 @@
 [2021-04-18 22:26:59]: ***  [, Level 0]: 'Kosanaya' entered and joined the game
 [2021-04-18 22:27:09]: ***  [, Level 0]: 'Kosanaya' has left the game
 [2021-04-18 22:28:18]: ***  [, Level 0]: 'Foxie♥' entered and joined the game
+[2021-04-18 22:28:28]: Foxie♥ [{TQuila}, Level 0]: ♥TAKO♥: HIIIIIIIIIIIII
