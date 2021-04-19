@@ -9813,3 +9813,7 @@
 [2021-04-19 07:43:48]: Intensiv [DogParty, Level 17]: ChillerDragon:  help
 [2021-04-19 07:43:48]:   [, Level 0]: ChillerDragon: Intensiv: I am currently afk.
 [2021-04-19 07:43:53]: Intensiv [DogParty, Level 17]: ok
+[2021-04-19 07:44:09]: ***  [, Level 0]: 'Maiki' entered and joined the game
+[2021-04-19 07:44:16]: ***  [, Level 0]: 'fluffrit' joined the spectators
+[2021-04-19 07:44:16]: Flippēr [, Level 16]: xd
+[2021-04-19 07:44:19]: ***  [, Level 0]: 'fluffrit' joined the game
