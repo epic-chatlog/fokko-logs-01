@@ -7967,3 +7967,5 @@
 [2021-04-19 06:22:50]: ***  [, Level 0]: 'Tsumiki' entered and joined the game
 [2021-04-19 06:22:51]: ***  [, Level 0]: 'Hala Madrid' entered and joined the game
 [2021-04-19 06:22:52]: ***  [, Level 0]: 'SpeKtrum' entered and joined the game
+[2021-04-19 06:22:55]: ***  [, Level 0]: '(1)Coca' entered and joined the game
+[2021-04-19 06:23:03]: ***  [, Level 0]: 'Levi' joined the spectators
