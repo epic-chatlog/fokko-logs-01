@@ -9802,3 +9802,7 @@
 [2021-04-19 07:43:09]: ***  [, Level 0]: 'fluffrit' entered and joined the game
 [2021-04-19 07:43:12]: [D] El patron [FookinLads, Level 24]: ☣┆Zephir™: sry
 [2021-04-19 07:43:14]: sharkz [, Level 45]: ERROR,: gimme ammo :(
+[2021-04-19 07:43:20]: ERROR, [404, Level 57]: NO Xd
+[2021-04-19 07:43:23]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
+[2021-04-19 07:43:24]: sharkz [, Level 45]: ERROR: :O
+[2021-04-19 07:43:30]: sharkz [, Level 45]: ERROR,: aus dem weg geringverdiener
