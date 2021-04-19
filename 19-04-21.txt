@@ -14472,3 +14472,8 @@
 [2021-04-19 11:39:37]: ***  [, Level 0]: [D] El patron is on a killing spree with 35 blocks
 [2021-04-19 11:39:45]: ***  [, Level 0]: 'ShooterMYTH' entered and joined the game
 [2021-04-19 11:39:54]: ***  [, Level 0]: '(1)Salut' finished the special race!
+[2021-04-19 11:39:57]:   [, Level 0]: yair: I like turtles.
+[2021-04-19 11:39:59]:   [, Level 0]: yair: so bad lol
+[2021-04-19 11:40:05]: ***  [, Level 0]: 'JustRace' entered and joined the game
+[2021-04-19 11:40:06]: GOLD [404, Level 38]: yair: ok google
+[2021-04-19 11:40:06]: [D] BC|serwan [, Level 0]: Rainbow Tee: THANKS MEN
