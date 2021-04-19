@@ -209,3 +209,7 @@
 [2021-04-19 00:16:10]: [D] #5 blocker [|*MorE*|, Level 0]: SanoreX: wtf
 [2021-04-19 00:16:11]: ***  [, Level 0]: '[D] mamikral011' entered and joined the game
 [2021-04-19 00:16:19]: [D] mamikral011 [DogParty, Level 0]: #5 blocker:
+[2021-04-19 00:16:25]: yOUSEN [, Level 0]: help
+[2021-04-19 00:16:26]: [D] mamikral011 [DogParty, Level 0]: #5 blocker:
+[2021-04-19 00:16:27]: [D] #5 blocker [|*MorE*|, Level 0]: SanoreX: moderator or admin or helper?
+[2021-04-19 00:16:30]: SanoreX.* [Chilli.*, Level 23]: admin
