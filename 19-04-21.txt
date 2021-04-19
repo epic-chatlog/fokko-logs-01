@@ -18582,3 +18582,12 @@
 [2021-04-19 15:27:26]: ***  [, Level 0]: ### 'HeavyGeneral' Woof-Woof
 [2021-04-19 15:27:27]: bob [, Level 36]: unfair
 [2021-04-19 15:27:28]: Axandos² [, Level 21]: bored? TL|ŦƹƦ$ŦǾN  xd
+[2021-04-19 15:27:31]: ***  [, Level 0]: ### 'HeavyGeneral' Woof-Woof
+[2021-04-19 15:27:32]: (1)Kirito [{TQuila}, Level 15]: YelloWorlD: bad
+[2021-04-19 15:27:33]: ***  [, Level 0]: '(1)¡ RodCYREX 神' has left the game (Timeout)
+[2021-04-19 15:27:33]: HeavyGeneral [FookinLads, Level 76]: al lfair
+[2021-04-19 15:27:33]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: Axandos: no
+[2021-04-19 15:27:34]: HeavyGeneral [FookinLads, Level 76]: all fair
+[2021-04-19 15:27:36]: Axandos² [, Level 21]: TL|ŦƹƦ$ŦǾN:  k
+[2021-04-19 15:27:38]: bob [, Level 36]: no u triggered me
+[2021-04-19 15:27:39]: ***  [, Level 0]: 'ANGEL_PRO' would have timed out, but can use timeout protection now
