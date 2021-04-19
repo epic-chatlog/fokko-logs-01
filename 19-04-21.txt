@@ -17146,3 +17146,5 @@
 [2021-04-19 13:58:16]: ***  [, Level 0]: 'BaDy' joined the spectators
 [2021-04-19 13:58:18]: ***  [, Level 0]: 'nik6_asus13' entered and joined the game
 [2021-04-19 13:58:20]: ***  [, Level 0]: 'BaDy' joined the game
+[2021-04-19 13:58:24]: ZEWO [, Level 0]: BaDy:
+[2021-04-19 13:58:30]: ZEWO [, Level 0]: sun.slow(y): ?
