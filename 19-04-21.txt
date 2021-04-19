@@ -8041,3 +8041,5 @@
 [2021-04-19 06:27:35]: ERROR, [404, Level 57]: dog xD
 [2021-04-19 06:27:40]: sun.slow(y) [FookinLads, Level 35]: ERROR: danke baby
 [2021-04-19 06:27:45]: ERROR, [404, Level 57]: kein ding
+[2021-04-19 06:27:50]: ***  [, Level 0]: |HolyHo|° is on a killing spree with 10 blocks
+[2021-04-19 06:27:50]: ***  [, Level 0]: sun.slow(y)'s killing spree was ended by |HolyHo|° (7 blocks)
