@@ -11,3 +11,5 @@
 [2021-04-19 00:00:40]: #5 blocker [|*MorE*|, Level 0]: come
 [2021-04-19 00:00:41]: Zerstrian [, Level 52]: i was typing it
 [2021-04-19 00:00:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-19 00:00:57]: #5 blocker [|*MorE*|, Level 0]: come idiot
+[2021-04-19 00:01:01]: ***  [, Level 0]: 'Noémi' would have timed out, but can use timeout protection now
