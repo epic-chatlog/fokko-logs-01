@@ -12919,3 +12919,7 @@
 [2021-04-19 10:21:39]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
 [2021-04-19 10:21:40]: cookie [, Level 21]: Teetard™:  stfu
 [2021-04-19 10:21:44]: Teetard™ [, Level 0]: Zephir ツ:
+[2021-04-19 10:21:56]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-19 10:22:00]: ***  [, Level 0]: 'xXAnja79Xx' has left the game
+[2021-04-19 10:22:05]: Teetard™ [, Level 0]: Sayme
+[2021-04-19 10:22:07]: Teetard™ [, Level 0]: Sayme:
