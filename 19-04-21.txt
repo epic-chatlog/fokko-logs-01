@@ -3756,3 +3756,7 @@
 [2021-04-19 03:00:35]: Raidon's Pet [, Level 20]: wait
 [2021-04-19 03:00:37]: Nightmare [, Level 0]: Telefantastic: FUCK  SORRY
 [2021-04-19 03:00:38]: ***  [, Level 0]: Cup finished in: 3 minute(s)  0.96 second(s)
+[2021-04-19 03:00:44]:   [, Level 0]: Telefantastic: np
+[2021-04-19 03:00:45]: ***  [, Level 0]: 'Michel' entered and joined the game
+[2021-04-19 03:00:46]: ***  [, Level 0]: 626. Noémi Time: 01:53.22, requested by Noémi
+[2021-04-19 03:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
