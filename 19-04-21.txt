@@ -13070,3 +13070,4 @@
 [2021-04-19 10:28:03]: (1)Sayme [, Level 0]: can't fight
 [2021-04-19 10:28:04]: ***  [, Level 0]: 'Axandos²' has left the game (Timeout)
 [2021-04-19 10:28:04]: ***  [, Level 0]: 'Axandos' has left the game (Timeout)
+[2021-04-19 10:28:25]: [D] Cylox [{TQuila}, Level 25]: bob: ı ultra lagg
