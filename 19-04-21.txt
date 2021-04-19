@@ -15289,3 +15289,5 @@
 [2021-04-19 12:15:21]: Mista bombastic [TrRShClNrRs, Level 40]: Ļåҕ Lobster: hiii
 [2021-04-19 12:15:30]: Zephir ツ [404, Level 40]: Lucas: ok war
 [2021-04-19 12:15:40]: Lucas [THECEPS, Level 35]: Zephir ツ: i'm team chiller sorry
+[2021-04-19 12:15:46]: ***  [, Level 0]: 'sL|Gabsty' has left the game
+[2021-04-19 12:15:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
