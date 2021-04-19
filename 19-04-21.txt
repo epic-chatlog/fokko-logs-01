@@ -8477,3 +8477,8 @@
 [2021-04-19 06:49:33]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
 [2021-04-19 06:49:41]: :D [E8, Level 3]: ami
 [2021-04-19 06:49:50]: ***  [, Level 0]: secondbaby is on a killing spree with 5 blocks
+[2021-04-19 06:49:54]: ***  [, Level 0]: 'SanoreX.*' has left the game (Timeout Protection over)
+[2021-04-19 06:49:54]: ***  [, Level 0]: 'SanoreX' has left the game (Timeout Protection over)
+[2021-04-19 06:49:55]:   [, Level 0]: mamikral011: Cosmo: war
+[2021-04-19 06:49:57]: weqe [669, Level 13]: sun.slow(y): warum du nein replien to ich
+[2021-04-19 06:49:59]:   [, Level 0]: mamikral011: Cosmo: fuck u
