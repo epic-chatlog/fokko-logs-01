@@ -21431,3 +21431,4 @@
 [2021-04-18 22:40:13]: ***  [, Level 0]: 'Elmattoski:>' entered and joined the game
 [2021-04-18 22:40:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-18 22:41:19]: ***  [, Level 0]: 'Elmattoski:>' has left the game
+[2021-04-18 22:42:41]: Kezo [DogParty, Level 39]: ♥TAKO♥:
