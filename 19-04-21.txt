@@ -8475,3 +8475,5 @@
 [2021-04-19 06:49:23]: sun.slow(y) [FookinLads, Level 35]: Kirito: du weißt wie die leute sind wenn die alleine sind
 [2021-04-19 06:49:33]: weqe [669, Level 13]: sun.slow(y): help brother
 [2021-04-19 06:49:33]: ***  [, Level 0]: '(2)Kirito' entered and joined the game
+[2021-04-19 06:49:41]: :D [E8, Level 3]: ami
+[2021-04-19 06:49:50]: ***  [, Level 0]: secondbaby is on a killing spree with 5 blocks
