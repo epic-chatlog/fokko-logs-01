@@ -11341,3 +11341,5 @@
 [2021-04-19 09:06:52]: ***  [, Level 0]: 'ReXi' would have timed out, but can use timeout protection now
 [2021-04-19 09:07:01]: SkyForge [, Level 22]: |HolyHo|:  free my dummy
 [2021-04-19 09:07:03]: ***  [, Level 0]: 'fluffrit' joined the spectators
+[2021-04-19 09:07:06]: ***  [, Level 0]: 'fluffrit' joined the game
+[2021-04-19 09:07:11]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
