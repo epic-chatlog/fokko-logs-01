@@ -21745,3 +21745,4 @@
 [2021-04-18 23:49:18]: (1)Zerstrian [, Level 42]: ready
 [2021-04-18 23:49:19]: ***  [, Level 0]: 'nar' has left the game
 [2021-04-18 23:49:19]: ***  [, Level 0]: 'ezy' has left the game
+[2021-04-18 23:49:37]: (1)Zerstrian [, Level 42]: r
