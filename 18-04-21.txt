@@ -20593,3 +20593,6 @@
 [2021-04-18 17:01:21]: weqe [669, Level 13]: bob come help retard
 [2021-04-18 17:01:28]: bob [, Level 36]: no
 [2021-04-18 17:01:34]: weqe [669, Level 13]: why not
+[2021-04-18 17:01:56]: bob [, Level 36]: wtf
+[2021-04-18 17:01:59]: weqe [669, Level 13]: say sorry
+[2021-04-18 17:02:02]: bob [, Level 36]: sorry
