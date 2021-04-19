@@ -9592,3 +9592,9 @@
 [2021-04-19 07:34:17]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-19 07:34:18]:   [, Level 0]: |HolyHo|°: Cylox: HELP ME SUPERROOM >
 [2021-04-19 07:34:19]: Noémi [Queen , Level 40]: Lucas: come 1 plot
+[2021-04-19 07:34:20]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-19 07:34:20]: ***  [, Level 0]: 'im_cloud_' entered and joined the game
+[2021-04-19 07:34:21]: ERROR [404, Level 47]: no u dont
+[2021-04-19 07:34:25]: weqe [669, Level 13]: any: HELP DUDE
+[2021-04-19 07:34:25]: (2)Kirito [{TQuila}, Level 41]: Keø: do me one favor and die painfully with Flipper
+[2021-04-19 07:34:31]: ***  [, Level 0]: 'any yarra yedin' entered and joined the game
