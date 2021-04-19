@@ -13549,3 +13549,7 @@
 [2021-04-19 10:52:19]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: El patron: do u lag
 [2021-04-19 10:52:24]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-19 10:52:26]: [D] El patron [FookinLads, Level 24]: TL|ŦƹƦ$ŦǾN: no
+[2021-04-19 10:52:27]: BC|kakashi [BC, Level 0]: TL|ŦƹƦ$ŦǾN: yes and u?
+[2021-04-19 10:52:31]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: BC|kakashi: yes
+[2021-04-19 10:52:35]: CKA3A4NIK[NR] [Night Raid, Level 35]: Killua:  Хелпани друг умоляю
+[2021-04-19 10:52:37]: ***  [, Level 0]: (1)basoka finished in: 1 minute(s) 30.90 second(s)
