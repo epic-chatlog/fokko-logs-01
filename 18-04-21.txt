@@ -20918,3 +20918,6 @@
 [2021-04-18 17:50:27]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-18 17:50:37]: ezy [ComRoach, Level 23]: lag
 [2021-04-18 17:50:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-18 17:51:26]: ezy [ComRoach, Level 23]: wtf
+[2021-04-18 17:51:28]: ezy [ComRoach, Level 23]: lag
+[2021-04-18 17:51:34]: Fera [, Level 0]: 2 moneys :D
