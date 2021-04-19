@@ -21302,3 +21302,4 @@
 [2021-04-18 19:50:58]: ***  [, Level 0]: 'LeeK' has left the game
 [2021-04-18 19:52:25]: ***  [, Level 0]: '(1)Vesorp' entered and joined the game
 [2021-04-18 19:53:17]: ***  [, Level 0]: 'LeeK' entered and joined the game
+[2021-04-18 19:55:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
