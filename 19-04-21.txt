@@ -18266,3 +18266,4 @@
 [2021-04-19 15:05:44]: ***  [, Level 0]: bob is on a killing spree with 5 blocks
 [2021-04-19 15:05:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-19 15:05:50]: weqe [669, Level 13]: bob: stop retard
+[2021-04-19 15:05:57]: ***  [, Level 0]: bob is on a killing spree with 10 blocks
