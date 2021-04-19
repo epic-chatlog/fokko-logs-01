@@ -13316,3 +13316,5 @@
 [2021-04-19 10:42:19]: ***  [, Level 0]: 'panache' has left the game
 [2021-04-19 10:42:23]:   [, Level 0]: TL|ŦƹƦ$ŦǾN: sL|KeBu28: hi
 [2021-04-19 10:42:28]: ***  [, Level 0]: 'İİ' changed name to 'Ğ'
+[2021-04-19 10:42:33]: ***  [, Level 0]: 'Ğ' changed name to 'ZEWO'
+[2021-04-19 10:42:36]: ***  [, Level 0]: 'Dutch' has left the game (Timeout)
