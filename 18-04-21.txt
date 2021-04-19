@@ -21320,3 +21320,4 @@
 [2021-04-18 20:25:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-18 20:28:39]: ***  [, Level 0]: 'jeki_cHun' entered and joined the game
 [2021-04-18 20:28:57]: ***  [, Level 0]: 'Leem' entered and joined the game
+[2021-04-18 20:30:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
