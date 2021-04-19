@@ -21316,3 +21316,4 @@
 [2021-04-18 20:12:29]: Dirk Strider [, Level 0]: so i can say the n word
 [2021-04-18 20:12:42]: ***  [, Level 0]: 'Dirk Strider' has left the game
 [2021-04-18 20:15:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-18 20:20:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
