@@ -5295,3 +5295,10 @@
 [2021-04-19 04:09:43]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-19 04:09:43]: Falco641 [.bad, Level 20]: wait
 [2021-04-19 04:09:47]: SanoreX [Chilli.*, Level 27]: Raidon: nie
+[2021-04-19 04:09:51]: Raidon's Pet [, Level 20]: specle
+[2021-04-19 04:09:52]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-19 04:09:54]: ***  [, Level 0]: 'Lucas' entered and joined the game
+[2021-04-19 04:09:55]: ***  [, Level 0]: '#5 blocker' entered and joined the game
+[2021-04-19 04:09:57]: SanoreX [Chilli.*, Level 27]: Raidon's Pet: aa
+[2021-04-19 04:09:58]: Ðream [TrRShClNrRs, Level 47]: xD
+[2021-04-19 04:10:01]: ***  [, Level 0]: '#5 blocker' has left the game
