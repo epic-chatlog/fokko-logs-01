@@ -11494,3 +11494,5 @@
 [2021-04-19 09:16:59]: [D] El patron [FookinLads, Level 24]: Dutch:
 [2021-04-19 09:17:00]:   [, Level 0]: Dutch: ooops
 [2021-04-19 09:17:02]: Santa Claus [, Level 0]: ChillerDragon: o.O
+[2021-04-19 09:17:04]: ***  [!ýÿÿ, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-19 09:17:08]:   [, Level 0]: FlippÄ“r: afk
