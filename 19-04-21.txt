@@ -5804,3 +5804,8 @@
 [2021-04-19 04:31:26]: ***  [, Level 0]: 'ERROR,' entered and joined the game
 [2021-04-19 04:31:32]: SanoreX.* [Chilli.*, Level 23]: ERROR:
 [2021-04-19 04:31:33]: Raidon's Pet [, Level 20]: wtffff
+[2021-04-19 04:31:35]: Raidon's Pet [, Level 20]: SanoreX:
+[2021-04-19 04:31:36]: GOLD [404, Level 40]: ERROR u gay
+[2021-04-19 04:31:36]:   [, Level 0]: BulgarianTee: ERROR: rage join
+[2021-04-19 04:31:38]: SanoreX.* [Chilli.*, Level 23]: ERROR: pls give me 1mill
+[2021-04-19 04:31:44]: Raidon's Pet [, Level 20]: shotgubn
