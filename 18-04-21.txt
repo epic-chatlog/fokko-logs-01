@@ -20757,3 +20757,7 @@
 [2021-04-18 17:17:11]: weqe [669, Level 13]: ok bank bob
 [2021-04-18 17:17:11]: bob [, Level 36]: or i spike and get all
 [2021-04-18 17:17:15]: bob [, Level 36]: NOW
+[2021-04-18 17:17:17]: weqe [669, Level 13]: i deposted all bob
+[2021-04-18 17:17:23]: bob [, Level 36]: ok spikey spikey
+[2021-04-18 17:17:24]: Black [, Level 23]: Kirito:
+[2021-04-18 17:17:27]: weqe [669, Level 13]: BOB I DEPOSITED ALL
