@@ -5577,3 +5577,8 @@
 [2021-04-19 04:21:10]: Raidon [, Level 24]: aman
 [2021-04-19 04:21:11]: [D] #5 blocker [Chilli.*, Level 0]: PoliceTee: help
 [2021-04-19 04:21:11]:   [, Level 0]: SanoreX.*: flag versen
+[2021-04-19 04:21:15]: HeavyGeneral [FookinLads, Level 44]: idk BulgarianTee
+[2021-04-19 04:21:17]:   [, Level 0]: SanoreX.*: bede dursun 2sn
+[2021-04-19 04:21:24]: ***  [, Level 0]: '[D] #5 blocker' has left the game
+[2021-04-19 04:21:24]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-19 04:21:25]: vollesprit [, Level 1]: Falco641 where are you
