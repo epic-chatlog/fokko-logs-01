@@ -5248,3 +5248,10 @@
 [2021-04-19 04:07:05]: SanoreX [Chilli.*, Level 27]: LAN
 [2021-04-19 04:07:06]: SanoreX [Chilli.*, Level 27]: bune
 [2021-04-19 04:07:06]: (1)Raidon [, Level 0]: al işte
+[2021-04-19 04:07:09]:   [, Level 0]: sta: Huutochka:  portal pls
+[2021-04-19 04:07:11]: (1)Raidon [, Level 0]: yanıma gel SanoreX
+[2021-04-19 04:07:12]: SanoreX [Chilli.*, Level 27]: cp bozuk
+[2021-04-19 04:07:15]:   [, Level 0]: BulgarianTee: HeavyGeneral: what do u think now?
+[2021-04-19 04:07:16]: SanoreX [Chilli.*, Level 27]: ok bkle
+[2021-04-19 04:07:17]: ***  [, Level 0]: '__init__(self):' has left the game
+[2021-04-19 04:07:18]:   [, Level 0]: sta: Huutochka:  portal pls
