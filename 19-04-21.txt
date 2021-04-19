@@ -9633,3 +9633,9 @@
 [2021-04-19 07:35:40]:   [, Level 0]: any yarra yedin: El patron: şş
 [2021-04-19 07:35:42]: Good man [Drunks, Level 33]: ок
 [2021-04-19 07:35:44]: Good man [Drunks, Level 33]: дай флаг
+[2021-04-19 07:35:49]: ***  [, Level 0]: '~DemoizL~' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-19 07:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-19 07:35:52]: ***  [, Level 0]: 'Уточка'-'' has left the game
+[2021-04-19 07:35:53]: Cylox [{TQuila}, Level 32]: OMG
+[2021-04-19 07:35:54]: ***  [, Level 0]: 'the last kozol' has left the game
+[2021-04-19 07:35:56]: ***  [, Level 0]: 'Уточка'-'' entered and joined the game
