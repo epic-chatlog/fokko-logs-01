@@ -5239,3 +5239,12 @@
 [2021-04-19 04:06:52]: ***  [, Level 0]: 'Tatooine' entered and joined the game
 [2021-04-19 04:06:52]: ***  [, Level 0]: '魈泽' entered and joined the game
 [2021-04-19 04:06:56]: ***  [, Level 0]: '__init__(self):' entered and joined the game
+[2021-04-19 04:06:56]: SanoreX [Chilli.*, Level 27]: Raidon: he
+[2021-04-19 04:06:57]: (1)Raidon [, Level 0]: SanoreX: gel beni dinle ilk
+[2021-04-19 04:06:57]: SanoreX [Chilli.*, Level 27]: bekle
+[2021-04-19 04:07:00]: Good man [Drunks, Level 32]: Ƭevan: я афк на долго
+[2021-04-19 04:07:01]: SanoreX [Chilli.*, Level 27]: Raidon: specle hep
+[2021-04-19 04:07:02]: (1)Raidon [, Level 0]: SanoreX: yanıma gel bi
+[2021-04-19 04:07:05]: SanoreX [Chilli.*, Level 27]: LAN
+[2021-04-19 04:07:06]: SanoreX [Chilli.*, Level 27]: bune
+[2021-04-19 04:07:06]: (1)Raidon [, Level 0]: al işte
