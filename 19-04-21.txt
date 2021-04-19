@@ -5060,3 +5060,10 @@
 [2021-04-19 04:00:41]:   [, Level 0]: SanoreX.*: I never touch
 [2021-04-19 04:00:41]: Raidon [, Level 24]: knk şu soldaki yere gitmem gerek
 [2021-04-19 04:00:42]:   [, Level 0]: Falco642: good
+[2021-04-19 04:00:44]:   [, Level 0]: BulgarianTee: .: ez aimbot*
+[2021-04-19 04:00:45]: ***  [, Level 0]: 'sta' entered and joined the game
+[2021-04-19 04:00:45]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-19 04:00:47]: Coca [Drunks, Level 24]: Raidon:
+[2021-04-19 04:00:50]:   [, Level 0]: vollesprit: hey
+[2021-04-19 04:00:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-19 04:00:56]: ***  [, Level 0]: GOLD is on a killing spree with 15 blocks
