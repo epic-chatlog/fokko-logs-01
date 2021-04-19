@@ -21643,3 +21643,9 @@
 [2021-04-18 23:33:44]: nar [ComRoach, Level 19]: cat: help me
 [2021-04-18 23:33:58]: ***  [, Level 0]: 'VlAD' has left the game
 [2021-04-18 23:34:04]: ***  [, Level 0]: 'cat' finished the special race!
+[2021-04-18 23:34:08]: ***  [, Level 0]: '(1)cat' finished the special race!
+[2021-04-18 23:34:10]: ***  [, Level 0]: 'S Y T H N' has left the game
+[2021-04-18 23:34:10]: ***  [, Level 0]: 'S Y T H N.' has left the game
+[2021-04-18 23:34:14]: 1 [, Level 18]: niye war dedin
+[2021-04-18 23:34:15]: nar [ComRoach, Level 19]: cat: go dawen
+[2021-04-18 23:34:16]: [D]ϻɪɔʜɑʟ [Chilli.*, Level 20]: xD
