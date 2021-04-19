@@ -8290,3 +8290,10 @@
 [2021-04-19 06:40:20]:   [, Level 0]: Kezo: yes
 [2021-04-19 06:40:21]:   [, Level 0]: Kezo: ik
 [2021-04-19 06:40:21]: sun.slow(y) [FookinLads, Level 35]: Kezo: so u cancel the fight
+[2021-04-19 06:40:29]:   [, Level 0]: Kezo: sun.slow(y): stop now
+[2021-04-19 06:40:31]: ***  [, Level 0]: 'Ðeathscyth' entered and joined the game
+[2021-04-19 06:40:31]: [D] El patron [FookinLads, Level 24]: Intensiv_:  you bad
+[2021-04-19 06:40:33]:   [, Level 0]: Kezo: sun.slow(y): stop fight
+[2021-04-19 06:40:34]: ***  [, Level 0]: 'Luskão' entered and joined the game
+[2021-04-19 06:40:35]:   [, Level 0]: Kezo: stop war
+[2021-04-19 06:40:37]: Intensiv_ [DogParty, Level 11]: el [D] El patron  ws
