@@ -11113,3 +11113,7 @@
 [2021-04-19 08:48:18]: Kenshi ツ [404, Level 35]: ERROR: for farm
 [2021-04-19 08:48:22]: |HolyHo| [FookinLads, Level 19]: lomination: i have humanity
 [2021-04-19 08:48:24]: ERROR [404, Level 47]: timeout
+[2021-04-19 08:48:30]: ***  [, Level 0]: 'power2' has left the game
+[2021-04-19 08:48:30]: ***  [, Level 0]: 'ghjjdsz' has left the game
+[2021-04-19 08:48:32]: lomination [, Level 35]: no me
+[2021-04-19 08:48:33]: H0dƌƔ1 [ℋero, Level 28]: he doesnt
