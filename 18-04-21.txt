@@ -21259,3 +21259,4 @@
 [2021-04-18 19:11:19]: ***  [, Level 0]: 'sikiş' has left the game
 [2021-04-18 19:11:45]: nar [ComRoach, Level 19]: ERROR: 8 jambs
 [2021-04-18 19:12:42]: ezy [ComRoach, Level 23]: Black:
+[2021-04-18 19:13:38]: ***  [, Level 0]: 'Black' has left the game (Too weak connection (not acked for 60 seconds))
