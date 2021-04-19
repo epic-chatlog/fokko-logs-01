@@ -18478,3 +18478,7 @@
 [2021-04-19 15:17:48]: HeavyGeneral [FookinLads, Level 76]: 700 x
 [2021-04-19 15:17:49]: HeavyGeneral [FookinLads, Level 76]: D
 [2021-04-19 15:17:50]: bob [, Level 36]: Axandos²: help
+[2021-04-19 15:18:00]: bob [, Level 36]: help!
+[2021-04-19 15:18:01]: Axandos² [, Level 21]: what
+[2021-04-19 15:18:07]: HeavyGeneral [FookinLads, Level 76]: ah right
+[2021-04-19 15:18:07]: Axandos² [, Level 21]: what
