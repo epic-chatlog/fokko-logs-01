@@ -18463,3 +18463,7 @@
 [2021-04-19 15:15:34]: Vesorp [666, Level 26]: to super
 [2021-04-19 15:15:40]: ☺ [, Level 27]: mrc Zephir ツ
 [2021-04-19 15:15:42]: bob [, Level 36]: Vesorp: war
+[2021-04-19 15:15:46]: Kenshi ツ [404, Level 36]: ☺: dr
+[2021-04-19 15:15:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-19 15:15:51]: Vesorp [666, Level 26]: why
+[2021-04-19 15:15:53]: bob [, Level 36]: cyka
