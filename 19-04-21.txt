@@ -18900,3 +18900,8 @@
 [2021-04-19 16:05:30]: ♥TAKO♥ [DogParty, Level 25]: bob:  noo
 [2021-04-19 16:05:35]: HeavyGeneral [FookinLads, Level 76]: serial*
 [2021-04-19 16:05:37]: ***  [, Level 0]: 'Teelphix' entered and joined the game
+[2021-04-19 16:05:38]: bob [, Level 36]: what u watching
+[2021-04-19 16:05:42]: HeavyGeneral [FookinLads, Level 76]: supernatural
+[2021-04-19 16:05:44]: bob [, Level 36]: xd
+[2021-04-19 16:05:47]: Black [, Level 0]: ahh boring
+[2021-04-19 16:05:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
