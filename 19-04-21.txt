@@ -2459,3 +2459,5 @@
 [2021-04-19 01:56:03]:   [, Level 0]: power: come back home SanoreX
 [2021-04-19 01:56:07]: SanoreX.* [Chilli.*, Level 23]: power: no
 [2021-04-19 01:56:11]: ***  [, Level 0]: ';3' entered and joined the game
+[2021-04-19 01:56:16]: SanoreX.* [Chilli.*, Level 23]: power: ok I killing
+[2021-04-19 01:56:23]: mamikral011 [DogParty, Level 27]: GODLIKe:
