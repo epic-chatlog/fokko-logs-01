@@ -13841,3 +13841,6 @@
 [2021-04-19 11:04:37]: (1)ES [, Level 0]: sL|KeBu28: XDddddddddddddddd
 [2021-04-19 11:04:39]:   [, Level 0]: [D] ṆḕẌ�: SanoreX: sikerim belanı
 [2021-04-19 11:04:43]: SwiatoslaW [, Level 38]: el champeon: ?
+[2021-04-19 11:04:44]: ***  [, Level 0]: 'GOLD' entered and joined the game
+[2021-04-19 11:04:48]: ***  [, Level 0]: [D] El patron is on a killing spree with 20 blocks
+[2021-04-19 11:04:56]: SanoreX [Chilli.*, Level 27]: ṆḕẌṳS: flag xp verio ve senin accountun yok daha süs için değil bu
