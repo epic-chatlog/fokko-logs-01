@@ -21054,3 +21054,4 @@
 [2021-04-18 18:20:17]: Black [, Level 0]: nar:  3RBY
 [2021-04-18 18:20:21]: nar [ComRoach, Level 19]: yb
 [2021-04-18 18:20:26]: Black [, Level 0]: ramadan mubarak
+[2021-04-18 18:20:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
