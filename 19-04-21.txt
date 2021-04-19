@@ -1082,3 +1082,8 @@
 [2021-04-19 01:00:22]: Arktict [, Level 31]: GODLIKe.: coooome
 [2021-04-19 01:00:23]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-19 01:00:26]: rexi [, Level 0]: ChillerDragon: kk
+[2021-04-19 01:00:32]: Intensiv_ [DogParty, Level 11]: GODLIKe:  help
+[2021-04-19 01:00:34]: ***  [, Level 0]: (1) is on a killing spree with 5 blocks
+[2021-04-19 01:00:37]: Intensiv_ [DogParty, Level 11]: GODLIKe:  help
+[2021-04-19 01:00:40]: ChillerDragon.* [|*KoG*|, Level 42]: also bist du dabei ReXi ?
+[2021-04-19 01:00:41]: Arktict [, Level 31]: GODLIKe.: coooome
