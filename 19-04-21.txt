@@ -11212,3 +11212,6 @@
 [2021-04-19 08:55:29]: ***  [, Level 0]: 'lomination' entered and joined the game
 [2021-04-19 08:55:33]:   [, Level 0]: marcel: plz info
 [2021-04-19 08:55:35]: H0dƌƔ1 [ℋero, Level 28]: xD
+[2021-04-19 08:55:42]:   [, Level 0]: marcel: inf hook and jetpack
+[2021-04-19 08:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 08:55:50]: ERROR. [404, Level 57]: hahahahahha
