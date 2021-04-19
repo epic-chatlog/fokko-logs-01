@@ -21435,3 +21435,6 @@
 [2021-04-18 22:45:00]: Kezo [DogParty, Level 39]: Foxie♥:
 [2021-04-18 22:45:13]: Foxie♥ [{TQuila}, Level 41]: Kezo: u Intensiv ?
 [2021-04-18 22:45:25]: Intensiv [DogParty, Level 16]: rocket pls
+[2021-04-18 22:45:45]: ***  [, Level 0]: 'Raidon' entered and joined the game
+[2021-04-18 22:45:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-18 22:45:49]: Foxie♥ [{TQuila}, Level 41]: go get fleg
