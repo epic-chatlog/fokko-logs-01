@@ -18618,3 +18618,6 @@
 [2021-04-19 15:29:15]: YelloWorlD [DogParty, Level 57]: LareneGyvaeh: no fun
 [2021-04-19 15:29:15]: HeavyGeneral [FookinLads, Level 76]: YelloWorlD: dog cage
 [2021-04-19 15:29:16]: ***  [, Level 0]: 'Intensiv' entered and joined the game
+[2021-04-19 15:29:19]: ***  [, Level 0]: (1)☺ is on a killing spree with 10 blocks
+[2021-04-19 15:29:20]: ***  [, Level 0]: 'GOLD' entered and joined the game
+[2021-04-19 15:29:22]: ***  [, Level 0]: (1)☺'s killing spree was ended by ~DemoizL~ (10 blocks)
