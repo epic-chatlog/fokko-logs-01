@@ -15361,3 +15361,5 @@
 [2021-04-19 12:19:39]: ***  [, Level 0]: 'thiago*_ *' joined the game
 [2021-04-19 12:19:51]: ChillerDragon.* [Chilli.*, Level 42]: why didnt u help |HolyHo|°
 [2021-04-19 12:19:51]: ***  [, Level 0]: 'barduck' has left the game
+[2021-04-19 12:19:57]: ***  [, Level 0]: 'si' entered and joined the game
+[2021-04-19 12:20:02]: |HolyHo|° [FookinLads, Level 29]: ChillerDragon: cuz i was talking
