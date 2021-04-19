@@ -16536,3 +16536,5 @@
 [2021-04-19 13:12:19]: . [TrRShClNrRs, Level 10]: |HolyHo|°: so the trick is
 [2021-04-19 13:12:22]: . [TrRShClNrRs, Level 10]: |HolyHo|°: they
 [2021-04-19 13:12:25]: ***  [, Level 0]: '.' has been muted for 60 seconds
+[2021-04-19 13:12:37]: ***  [, Level 0]: '.' changed name to 'muted .-.'
+[2021-04-19 13:12:42]: ***  [, Level 0]: 'muted .-.' changed name to 'imagine a stack'
