@@ -16838,3 +16838,6 @@
 [2021-04-19 13:34:20]: ***  [, Level 0]: '(1)cunt' entered and joined the game
 [2021-04-19 13:34:35]: bob [, Level 36]: GReeeN:
 [2021-04-19 13:34:37]: bob [, Level 36]: komm
+[2021-04-19 13:34:39]: bob [, Level 36]: hab bereit
+[2021-04-19 13:34:44]: GReeeN [, Level 0]: was bereit
+[2021-04-19 13:34:51]: GODLIKe [, Level 44]: WTF
