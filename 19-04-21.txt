@@ -16546,3 +16546,8 @@
 [2021-04-19 13:13:05]: Bozzkurt [SkinLover, Level 0]: GReeeN: aber du hilfst meinen enemys
 [2021-04-19 13:13:09]: ***  [, Level 0]: 'block*-' changed name to 'itwascool'
 [2021-04-19 13:13:10]: ***  [, Level 0]: 'szczur' entered and joined the game
+[2021-04-19 13:13:15]: ***  [, Level 0]: 'itwascool' changed name to 'itdoesntwork:C'
+[2021-04-19 13:13:15]: ***  [, Level 0]: 'szczur' has left the game
+[2021-04-19 13:13:16]: GReeeN [, Level 0]: Bozzkurt:  willst mich verarschen
+[2021-04-19 13:13:20]: HeavyGeneral [FookinLads, Level 44]: |HolyHo|°: just stop being ChillerDragon's dog and deside with who u are
+[2021-04-19 13:13:20]: ***  [, Level 0]: 'itdoesntwork:C' changed name to '.'
