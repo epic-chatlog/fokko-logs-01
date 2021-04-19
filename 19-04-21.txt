@@ -6800,3 +6800,13 @@
 [2021-04-19 05:02:02]:   [, Level 0]: power: WAIT Telefantastic
 [2021-04-19 05:02:06]: [D] BC|Tixnix [BC, Level 26]: Noémi:
 [2021-04-19 05:02:11]:   [, Level 0]: [D]ϻɪɔʜɑʟ: stop[
+[2021-04-19 05:03:51]:   [, Level 0]: .: BC|Tixnix: ?
+[2021-04-19 05:03:51]:   [, Level 0]: [D]ϻɪɔʜɑʟ: not war
+[2021-04-19 05:03:53]: ***  [, Level 0]: '(1)o' entered and joined the game
+[2021-04-19 05:03:53]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.2, by fokkonaut
+[2021-04-19 05:03:53]: ***  [, Level 0]: '(1)DiscordBridge' entered and joined the game
+[2021-04-19 05:03:53]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.2, by fokkonaut
+[2021-04-19 05:03:54]: ***  [, Level 0]: Successfully logged in
+[2021-04-19 05:03:56]:   [, Level 0]: [D] Nudelsaft c: SanoreX: its just annoying
+[2021-04-19 05:03:57]: SanoreX [Chilli.*, Level 27]: Nudelsaft c:: I try to helping u
+[2021-04-19 05:03:57]: ***  [, Level 0]: at insan is on a killing spree with 10 blocks
