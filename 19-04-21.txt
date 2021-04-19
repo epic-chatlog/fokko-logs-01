@@ -19009,3 +19009,4 @@
 [2021-04-19 16:15:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-19 16:15:52]: Black [, Level 0]: bob: LETS GET THIM OUT OF cell
 [2021-04-19 16:16:10]: Killua [FookinLads, Level 37]: Black: whats ur real nick?
+[2021-04-19 16:16:28]: •Slowy [DogParty, Level 41]: im
