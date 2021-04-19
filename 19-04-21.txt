@@ -5096,3 +5096,9 @@
 [2021-04-19 04:02:22]:   [, Level 0]: Falco642: that enables  a trap that drags people from spawn
 [2021-04-19 04:02:22]:   [, Level 0]: DugPas: moin :D
 [2021-04-19 04:02:22]:   [, Level 0]: BulgarianTee: any: angry french gaeeeee
+[2021-04-19 04:02:24]:   [, Level 0]: Falco642: and takes them here
+[2021-04-19 04:02:25]: Raidon's Pet [, Level 20]: Coca: follow
+[2021-04-19 04:02:26]:   [, Level 0]: SanoreX.*: spec Raidon's Pet
+[2021-04-19 04:02:27]: Raidon's Pet [, Level 20]: 1min
+[2021-04-19 04:02:28]: Coca [Drunks, Level 24]: Raidon's Pet: go
+[2021-04-19 04:02:31]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
