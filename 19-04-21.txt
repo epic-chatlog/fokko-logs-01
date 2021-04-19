@@ -10602,3 +10602,10 @@
 [2021-04-19 08:19:15]: sun.slow(y) [FookinLads, Level 35]: Kirito: sonst setz ich dich auf blacklist
 [2021-04-19 08:19:16]: ***  [, Level 0]: '(2)Salut' has left the game
 [2021-04-19 08:19:19]: ***  [, Level 0]: 'Eren Jäger' entered and joined the game
+[2021-04-19 08:19:20]: ***  [, Level 0]: 'Lucas' finished the special race!
+[2021-04-19 08:19:20]: (2)Kirito [{TQuila}, Level 41]: ✯ | Bulash: wtf
+[2021-04-19 08:19:22]: ***  [, Level 0]: 'fluffrit' joined the spectators
+[2021-04-19 08:19:24]: sun.slow(y) [FookinLads, Level 35]: Kirito: war nicht extra bin reingetabt
+[2021-04-19 08:19:25]: Cylox [{TQuila}, Level 32]: Coca: ı dead
+[2021-04-19 08:19:26]: ***  [, Level 0]: 'fluffrit' joined the game
+[2021-04-19 08:19:27]:   [, Level 0]: (1)☺: alors Kenshi ツ
