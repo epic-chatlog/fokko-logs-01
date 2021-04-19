@@ -21702,3 +21702,8 @@
 [2021-04-18 23:44:58]: klas [, Level 0]: tell me the code
 [2021-04-18 23:45:06]: ***  [, Level 0]: '[D] #5 blocker' has left the game
 [2021-04-18 23:45:25]: Cacke [, Level 0]: klas: ther is no code, you need to finish the race to get this jet pack gun
+[2021-04-18 23:45:41]: Cacke [, Level 0]: klas: you want to do the race?
+[2021-04-18 23:45:43]: ϻɪɔʜɑʟ [Chilli.*, Level 24]: stop #5 blocker !
+[2021-04-18 23:45:47]: #5 blocker [|*MorE*|, Level 0]: ok
+[2021-04-18 23:45:47]: ***  [, Level 0]: '__init__(self):' entered and joined the game
+[2021-04-18 23:45:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
