@@ -14060,3 +14060,8 @@
 [2021-04-19 11:16:36]: SanoreX [Chilli.*, Level 27]: lag
 [2021-04-19 11:16:45]: ***  [, Level 0]: 'Gekon' has left the game
 [2021-04-19 11:16:47]:   [, Level 0]: TopHat: d
+[2021-04-19 11:16:53]: YelloWorlD [DogParty, Level 57]: [D] BC|serwan: /money drop 2931
+[2021-04-19 11:16:54]: ***  [, Level 0]: '.' has left the game
+[2021-04-19 11:16:55]: ***  [, Level 0]: 'Bozzkurt' has left the game
+[2021-04-19 11:16:58]: ***  [, Level 0]: 'bu' has left the game
+[2021-04-19 11:16:59]: ***  [, Level 0]: 'bu' entered and joined the game
