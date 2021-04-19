@@ -2089,3 +2089,9 @@
 [2021-04-19 01:43:16]: ***  [, Level 0]: '(1)SanoreX' has left the game
 [2021-04-19 01:43:18]: GODLIKe [, Level 44]: LAGG
 [2021-04-19 01:43:22]: ***  [, Level 0]: 'TacsizStar' entered and joined the game
+[2021-04-19 01:43:29]: ***  [, Level 0]: 'keepertrain._.' has left the game
+[2021-04-19 01:43:29]: ***  [, Level 0]: '[D] keepertrain' has left the game
+[2021-04-19 01:43:32]: GODLIKe [, Level 44]: (1)|HolyHo|°: stop touch pow
+[2021-04-19 01:43:33]: GODLIKe [, Level 44]: (1)|HolyHo|°: stop touch power
+[2021-04-19 01:43:33]: SanoreX.* [Chilli.*, Level 23]: (1)Vesorp: help ChillerDragon.*
+[2021-04-19 01:43:33]: ChillerDragon [|*KoG*|, Level 45]: SanoreX.*: I am currently afk.
