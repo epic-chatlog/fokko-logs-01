@@ -11177,3 +11177,5 @@
 [2021-04-19 08:52:07]: Good man [Drunks, Level 33]: fuck
 [2021-04-19 08:52:07]: ***  [, Level 0]: 'ZEUS' has left the game
 [2021-04-19 08:52:08]: Cylox [{TQuila}, Level 32]: ?
+[2021-04-19 08:52:20]: ***  [, Level 0]: 'smartless tee' has left the game
+[2021-04-19 08:52:24]: Cylox [{TQuila}, Level 32]: ok
