@@ -21093,3 +21093,4 @@
 [2021-04-18 18:27:28]: ***  [, Level 0]: 'Kirito' has left the game (Timeout)
 [2021-04-18 18:27:29]: ***  [, Level 0]: '(1)Kirito' has left the game (Timeout)
 [2021-04-18 18:27:31]: roberk [, Level 0]: bob:  enemy everyone
+[2021-04-18 18:27:47]: Black [, Level 0]: roberk:  and he still fuck everyone xD
