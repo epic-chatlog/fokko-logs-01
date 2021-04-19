@@ -11338,3 +11338,6 @@
 [2021-04-19 09:06:14]: ChillerDragon [|*KoG*|, Level 45]: ja ERROR ?
 [2021-04-19 09:06:31]: ERROR [404, Level 47]: schon gut
 [2021-04-19 09:06:41]: ChillerDragon [Chilli.*, Level 45]: xD
+[2021-04-19 09:06:52]: ***  [, Level 0]: 'ReXi' would have timed out, but can use timeout protection now
+[2021-04-19 09:07:01]: SkyForge [, Level 22]: |HolyHo|:  free my dummy
+[2021-04-19 09:07:03]: ***  [, Level 0]: 'fluffrit' joined the spectators
