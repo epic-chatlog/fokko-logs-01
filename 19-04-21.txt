@@ -16980,3 +16980,6 @@
 [2021-04-19 13:47:29]: . [TrRShClNrRs, Level 10]: bob: i binded q to cl_mouse_max_distance 350(my distance)
 [2021-04-19 13:47:32]: bob [, Level 36]: .: oh yeah but u cant fight that way
 [2021-04-19 13:47:33]: (1)Sayme [, Level 0]: .: in server console?
+[2021-04-19 13:47:39]: . [TrRShClNrRs, Level 10]: Sayme: yea
+[2021-04-19 13:47:40]: bob [, Level 36]: .: but u could bind normal and this one
+[2021-04-19 13:47:44]: . [TrRShClNrRs, Level 10]: bob: and e to max distance 6000
