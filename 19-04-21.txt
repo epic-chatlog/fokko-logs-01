@@ -6338,3 +6338,8 @@
 [2021-04-19 04:50:14]:   [, Level 0]: BulgarianTee: YOOO PAPA NUDELSAFTTT
 [2021-04-19 04:50:14]: SanoreX [Chilli.*, Level 27]: BulgarianTee: help I AM SANÖREX
 [2021-04-19 04:50:14]:   [, Level 0]: ϻɪɔʜɑʟ: BUT WHAT WE WILL? f"{self.name}"
+[2021-04-19 04:50:19]: ***  [, Level 0]: 'FuriousWings' entered and joined the game
+[2021-04-19 04:50:20]: BC|Tixnix [BC, Level 35]: you kiling me !!°
+[2021-04-19 04:50:24]: f"{self.name}" [, Level 0]: ???????????????????????
+[2021-04-19 04:50:28]:   [, Level 0]: [D]ϻɪɔʜɑʟ: f"{self.name}": sr
+[2021-04-19 04:50:30]: Minato/fr dumy [Limoncello, Level 6]: xD
