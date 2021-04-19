@@ -20823,3 +20823,4 @@
 [2021-04-18 17:21:23]: Black [, Level 23]: take me idiots
 [2021-04-18 17:21:23]: bob [, Level 36]: GIVE !
 [2021-04-18 17:21:25]: weqe [669, Level 13]: bob: when u send me bitcoin brother
+[2021-04-18 17:21:49]: bob [, Level 36]: withdraw?
