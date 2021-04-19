@@ -8486,3 +8486,5 @@
 [2021-04-19 06:50:08]: ***  [, Level 0]: 'Kirito' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-19 06:50:09]:   [, Level 0]: mamikral011: (1)Cosmo: okey okey
 [2021-04-19 06:50:15]: sun.slow(y) [FookinLads, Level 35]: weqe: dont use translate XDDDDDDDDD
+[2021-04-19 06:50:17]: Ðeathscyth [, Level 3]: wtf?
+[2021-04-19 06:50:24]: weqe [669, Level 13]: sun.slow(y): i didnt use translate , i know german ))
