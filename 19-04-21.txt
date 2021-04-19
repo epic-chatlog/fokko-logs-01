@@ -5273,3 +5273,7 @@
 [2021-04-19 04:08:27]: Falco642 [, Level 0]: I like turtles.
 [2021-04-19 04:08:33]: ***  [, Level 0]: 'f"{self.n561510' entered and joined the game
 [2021-04-19 04:08:34]: (1)Raidon [, Level 0]: sağa git kurtar beni
+[2021-04-19 04:08:36]: ϻɪɔʜɑʟ [DogParty, Level 24]: (1)|HolyHo|°: help Telefantastic
+[2021-04-19 04:08:36]: Falco642 [, Level 0]: ok go
+[2021-04-19 04:08:37]:   [, Level 0]: vollesprit: we go ?
+[2021-04-19 04:08:37]: ***  [, Level 0]: 'f"{self.n561510' has left the game
