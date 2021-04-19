@@ -20697,3 +20697,7 @@
 [2021-04-18 17:11:54]: bob [, Level 36]: Black: whereu  wanna go sir
 [2021-04-18 17:12:06]: weqe [669, Level 13]: ERROR': go help
 [2021-04-18 17:12:10]: Black [, Level 0]: bob: bank ill do smth then fighjt
+[2021-04-18 17:12:12]: Black [, Level 0]: bob: bank ill do smth then fight
+[2021-04-18 17:12:17]: bob [, Level 36]: Black: ok
+[2021-04-18 17:12:20]: Black [, Level 0]: u and weqe bob
+[2021-04-18 17:12:20]: bob [, Level 36]: ERROR: help hom
