@@ -10798,3 +10798,5 @@
 [2021-04-19 08:30:09]: [D] Naruton [, Level 0]: go??
 [2021-04-19 08:30:09]: ***  [, Level 0]: 'XYN' entered and joined the game
 [2021-04-19 08:30:18]:   [, Level 0]: weqe: sun.slow(y): wtf brother
+[2021-04-19 08:30:42]: ***  [, Level 0]: 'Nagisa [H]' entered and joined the game
+[2021-04-19 08:30:45]: ***  [, Level 0]: 'XYN' joined the spectators
