@@ -21841,3 +21841,5 @@
 [2021-04-18 23:56:06]: SanoreX [Chilli.*, Level 27]: np
 [2021-04-18 23:56:15]: #5 blocker [|*MorE*|, Level 0]: come inf jump
 [2021-04-18 23:56:22]: SanoreX.* [Chilli.*, Level 23]: wait
+[2021-04-18 23:56:27]: klas [, Level 0]: race yes
+[2021-04-18 23:56:31]: SanoreX.* [Chilli.*, Level 23]: noooo
