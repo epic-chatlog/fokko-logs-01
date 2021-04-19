@@ -2382,3 +2382,6 @@
 [2021-04-19 01:53:23]: ***  [, Level 0]: Cylox finished in: 13 minute(s) 34.98 second(s)
 [2021-04-19 01:53:25]: Intensiv_ [DogParty, Level 11]: Dilara:  war
 [2021-04-19 01:53:31]: SanoreX.* [Chilli.*, Level 23]: Noémi: HEELP LEFT PLEASEEEEE
+[2021-04-19 01:53:34]: Intensiv_ [DogParty, Level 11]: Dilara:  war
+[2021-04-19 01:53:39]: SanoreX.* [Chilli.*, Level 23]: power2: u like me?
+[2021-04-19 01:53:39]: ***  [, Level 0]: 'toine' has left the game
