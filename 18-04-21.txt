@@ -21480,3 +21480,4 @@
 [2021-04-18 22:59:31]: ***  [, Level 0]: '(1)Raidon's Pet' entered and joined the game
 [2021-04-18 23:00:09]: ***  [, Level 0]: 'Not Zerstrian' finished the special race!
 [2021-04-18 23:00:09]: ***  [, Level 0]: 'Zerstrian' finished the special race!
+[2021-04-18 23:00:11]: ***  [, Level 0]: 'Ay Zeta' entered and joined the game
