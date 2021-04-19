@@ -21300,3 +21300,4 @@
 [2021-04-18 19:50:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-18 19:50:58]: ***  [, Level 0]: '(1)LeeK' has left the game
 [2021-04-18 19:50:58]: ***  [, Level 0]: 'LeeK' has left the game
+[2021-04-18 19:52:25]: ***  [, Level 0]: '(1)Vesorp' entered and joined the game
