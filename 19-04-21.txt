@@ -9639,3 +9639,5 @@
 [2021-04-19 07:35:53]: Cylox [{TQuila}, Level 32]: OMG
 [2021-04-19 07:35:54]: ***  [, Level 0]: 'the last kozol' has left the game
 [2021-04-19 07:35:56]: ***  [, Level 0]: 'Уточка'-'' entered and joined the game
+[2021-04-19 07:36:04]: ***  [, Level 0]: 'Coviddocktor' joined the spectators
+[2021-04-19 07:36:08]: ***  [, Level 0]: 'Coviddocktor' joined the game
