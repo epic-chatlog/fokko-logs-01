@@ -17740,3 +17740,5 @@
 [2021-04-19 14:21:57]: weqe [669, Level 13]: i love you asolegrain
 [2021-04-19 14:22:00]: asolegrain [, Level 0]: weqe: me too
 [2021-04-19 14:22:03]: weqe [669, Level 13]: but i never seen u before asolegrain
+[2021-04-19 14:22:08]: asolegrain [, Level 0]: weqe: yeah new
+[2021-04-19 14:22:13]: weqe [669, Level 13]: i love u my brother asolegrain
