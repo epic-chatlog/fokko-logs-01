@@ -7583,3 +7583,9 @@
 [2021-04-19 05:34:15]:   [, Level 0]: muliboy: adleger
 [2021-04-19 05:34:16]: ←   [, Level 0]: [D] Nudelsaft c: 0kill
 [2021-04-19 05:34:16]: ***  [, Level 0]: Collected 2 money
+[2021-04-19 05:34:18]: SanoreX [Chilli.*, Level 27]: Minato / FR: I opened plot door u can farm in
+[2021-04-19 05:34:19]: ←   [, Level 0]: [D] Nudelsaft c: 1kill
+[2021-04-19 05:34:22]:   [, Level 0]: muliboy: Adleger:
+[2021-04-19 05:34:23]: ←   [, Level 0]: Nudelsaft c:: 1kill
+[2021-04-19 05:34:28]: ←   [, Level 0]: Nudelsaft c:: 1kill
+[2021-04-19 05:34:28]: Adleg [, Level 0]: help
