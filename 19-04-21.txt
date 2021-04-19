@@ -10405,3 +10405,7 @@
 [2021-04-19 08:10:50]: comic [comically, Level 15]: Intensiv: lolz
 [2021-04-19 08:10:52]: (1)Salut [, Level 25]: Kirito: peace ?
 [2021-04-19 08:10:52]: ***  [, Level 0]: 'mr7bac' would have timed out, but can use timeout protection now
+[2021-04-19 08:10:56]: ***  [, Level 0]: 'hhnaut31' entered and joined the game
+[2021-04-19 08:11:02]: (2)Kirito [{TQuila}, Level 41]: Salut: hmm ok but why u are in my plot
+[2021-04-19 08:11:03]: ***  [, Level 0]: 'fluffrit' joined the spectators
+[2021-04-19 08:11:07]: ***  [, Level 0]: 'fluffrit' joined the game
