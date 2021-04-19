@@ -12465,3 +12465,5 @@
 [2021-04-19 09:59:00]: SanoreX [Chilli.*, Level 27]: Ļåҕ Lobster: u have 160 euros in ur account?
 [2021-04-19 09:59:00]: Ļåҕ Lobster [Ļåҕ, Level 34]: SanoreX: work, money
 [2021-04-19 09:59:00]: ***  [, Level 0]: 'falkenauge' has left the game
+[2021-04-19 09:59:03]: ***  [, Level 0]: 'falkenauge' entered and joined the game
+[2021-04-19 09:59:07]: cookie [, Level 21]: bob: wtf
