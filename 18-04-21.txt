@@ -21288,3 +21288,4 @@
 [2021-04-18 19:42:10]: ***  [, Level 0]: (1)LeeK finished in: 6 minute(s) 34.52 second(s)
 [2021-04-18 19:42:19]: ***  [, Level 0]: LeeK finished in: 2 minute(s)  0.92 second(s)
 [2021-04-18 19:44:10]: ***  [, Level 0]: 'Vaфля'xx:3' entered and joined the game
+[2021-04-18 19:44:28]: ***  [, Level 0]: 'Vaфля'xx:3' has left the game
