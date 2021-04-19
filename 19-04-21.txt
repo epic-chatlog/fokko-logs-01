@@ -5534,3 +5534,9 @@
 [2021-04-19 04:19:42]: ***  [, Level 0]: 'Minato/fr dumy' entered and joined the game
 [2021-04-19 04:19:42]:   [, Level 0]: SanoreX.*: inf
 [2021-04-19 04:19:44]: Falco641 [.bad, Level 20]: go deposit
+[2021-04-19 04:19:49]: Raidon's Pet [, Level 20]: niye
+[2021-04-19 04:19:50]: ***  [, Level 0]: at insan is on a killing spree with 5 blocks
+[2021-04-19 04:19:52]: Raidon's Pet [, Level 20]: bende varki
+[2021-04-19 04:19:53]:   [, Level 0]: SanoreX.*: Raidon: sende varmı
+[2021-04-19 04:19:53]: f"{self.name}" [, Level 0]: any²: help pls
+[2021-04-19 04:19:58]: vollesprit [, Level 1]: Falco641 i don't want your money , i just need mine...
