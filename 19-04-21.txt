@@ -5269,3 +5269,7 @@
 [2021-04-19 04:08:17]:   [, Level 0]: vollesprit: ?
 [2021-04-19 04:08:17]: SanoreX [Chilli.*, Level 27]: var
 [2021-04-19 04:08:22]: (1)Raidon [, Level 0]: sen git aq xd
+[2021-04-19 04:08:23]:   [, Level 0]: vollesprit: i don't play with sound
+[2021-04-19 04:08:27]: Falco642 [, Level 0]: I like turtles.
+[2021-04-19 04:08:33]: ***  [, Level 0]: 'f"{self.n561510' entered and joined the game
+[2021-04-19 04:08:34]: (1)Raidon [, Level 0]: sağa git kurtar beni
