@@ -6,3 +6,7 @@
 [2021-04-19 00:00:23]: ***  [, Level 0]: The plot auction by 'SanoreX.*' is cancelled
 [2021-04-19 00:00:27]: SanoreX.* [Chilli.*, Level 23]: omg Zerstrian
 [2021-04-19 00:00:30]: ***  [, Level 0]: 'Valesz' entered and joined the game
+[2021-04-19 00:00:35]: SanoreX.* [Chilli.*, Level 23]: why dont buy
+[2021-04-19 00:00:35]: ***  [, Level 0]: 'Random Guy' entered and joined the game
+[2021-04-19 00:00:40]: #5 blocker [|*MorE*|, Level 0]: come
+[2021-04-19 00:00:41]: Zerstrian [, Level 52]: i was typing it
