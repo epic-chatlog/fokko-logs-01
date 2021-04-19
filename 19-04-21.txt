@@ -17024,3 +17024,6 @@
 [2021-04-19 13:50:13]: . [TrRShClNrRs, Level 10]: Sayme: i use 350
 [2021-04-19 13:50:13]: ZEWO [, Level 0]: Cylox: sanorex benim kuzenim
 [2021-04-19 13:50:15]: . [TrRShClNrRs, Level 10]: Sayme: i use 350*
+[2021-04-19 13:50:43]: ***  [, Level 0]: Killua is on a killing spree with 10 blocks
+[2021-04-19 13:50:47]: (1)Sayme [, Level 0]: .: i blocked, nice)
+[2021-04-19 13:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
