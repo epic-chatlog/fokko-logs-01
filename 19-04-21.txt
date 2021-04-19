@@ -675,3 +675,7 @@
 [2021-04-19 00:45:34]: ChillerDragon.* [Chilli.*, Level 42]: ich sag nich du sollst blocken ReXi ich will das gegenteil
 [2021-04-19 00:45:37]: SanoreX.* [Chilli.*, Level 23]: dont help mamikral011 neko
 [2021-04-19 00:45:38]: [D] mamikral011 [DogParty, Level 0]: SanoreX: mal adam kaç sv bi bak
+[2021-04-19 00:45:43]: ***  [, Level 0]: 'BKriss' has left the game
+[2021-04-19 00:45:46]: ChillerDragon.* [Chilli.*, Level 42]: ReXi: in team chiller geht es um frieden und unfreezen nicht ums angreifen
+[2021-04-19 00:45:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 00:45:54]: ***  [, Level 0]: '(1)' entered and joined the game
