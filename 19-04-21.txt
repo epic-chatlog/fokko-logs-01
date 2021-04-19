@@ -8488,3 +8488,7 @@
 [2021-04-19 06:50:15]: sun.slow(y) [FookinLads, Level 35]: weqe: dont use translate XDDDDDDDDD
 [2021-04-19 06:50:17]: Ðeathscyth [, Level 3]: wtf?
 [2021-04-19 06:50:24]: weqe [669, Level 13]: sun.slow(y): i didnt use translate , i know german ))
+[2021-04-19 06:50:30]: sun.slow(y) [FookinLads, Level 35]: weqe: but thats wrong
+[2021-04-19 06:50:30]: ***  [, Level 0]: 'the last kozol' entered and joined the game
+[2021-04-19 06:50:36]: weqe [669, Level 13]: sun.slow(y): why are u not helping me
+[2021-04-19 06:50:37]: ***  [, Level 0]: 'nameless tee' entered and joined the game
