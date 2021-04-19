@@ -18830,3 +18830,5 @@
 [2021-04-19 16:00:13]: ***  [, Level 0]: 'Nemesis' entered and joined the game
 [2021-04-19 16:00:27]: bob [, Level 36]: ♥TAKO♥: hm farm u get in plot
 [2021-04-19 16:00:39]: Intensiv_ [DogParty, Level 11]: fak yu kezos
+[2021-04-19 16:00:44]: Black [, Level 0]: ♥TAKO♥: stop or i fuck u
+[2021-04-19 16:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
