@@ -11142,3 +11142,5 @@
 [2021-04-19 08:50:38]: ***  [, Level 0]: '☺' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-19 08:50:39]: Pornhub [, Level 0]: ERROR:
 [2021-04-19 08:50:43]: ERROR [404, Level 47]: hm?
+[2021-04-19 08:50:45]: ***  [, Level 0]: Sky's killing spree was ended by casserole :p (9 blocks)
+[2021-04-19 08:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
