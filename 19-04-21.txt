@@ -16670,3 +16670,5 @@
 [2021-04-19 13:21:54]: . [TrRShClNrRs, Level 10]: |HolyHo|°: shotgun
 [2021-04-19 13:22:01]: . [TrRShClNrRs, Level 10]: |HolyHo|°: ohg
 [2021-04-19 13:22:03]: . [TrRShClNrRs, Level 10]: |HolyHo|°: then my dummy
+[2021-04-19 13:22:09]: (1), [TrRShClNrRs, Level 36]: |HolyHo|°: so .
+[2021-04-19 13:22:12]: (1), [TrRShClNrRs, Level 36]: |HolyHo|°: i see
