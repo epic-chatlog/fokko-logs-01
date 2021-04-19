@@ -4368,3 +4368,6 @@
 [2021-04-19 03:32:50]: |HolyHo|° [FookinLads, Level 29]: ChillerDragon: cuz u dont do to
 [2021-04-19 03:32:56]: rexi [, Level 0]: du fickst dicha
 [2021-04-19 03:32:58]: ChillerDragon.* [Chilli.*, Level 42]: i do |HolyHo|°
+[2021-04-19 03:32:59]: ***  [, Level 0]: 'ϻɪɔʜɑʟ' entered and joined the game
+[2021-04-19 03:33:07]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
+[2021-04-19 03:33:11]: ***  [, Level 0]: |HolyHo|° is on a killing spree with 5 blocks
