@@ -12467,3 +12467,6 @@
 [2021-04-19 09:59:00]: ***  [, Level 0]: 'falkenauge' has left the game
 [2021-04-19 09:59:03]: ***  [, Level 0]: 'falkenauge' entered and joined the game
 [2021-04-19 09:59:07]: cookie [, Level 21]: bob: wtf
+[2021-04-19 09:59:15]: Ļåҕ Lobster [Ļåҕ, Level 34]: SanoreX: nah :D
+[2021-04-19 09:59:16]: ***  [, Level 0]: 'vollesprit' entered and joined the game
+[2021-04-19 09:59:17]:   [, Level 0]: bob: cookie: u think i forgot u traitor?
