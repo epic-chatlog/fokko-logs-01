@@ -14270,3 +14270,5 @@
 [2021-04-19 11:26:07]: SanoreX [Chilli.*, Level 27]: laG
 [2021-04-19 11:26:13]: YelloWorlD [DogParty, Level 57]: (2)DiscordBridg: xDDD
 [2021-04-19 11:26:21]: ***  [, Level 0]: 'kilodx' joined the spectators
+[2021-04-19 11:26:24]: ***  [, Level 0]: 'kilodx' joined the game
+[2021-04-19 11:26:32]: ***  [, Level 0]: 'DarkLord' entered and joined the game
