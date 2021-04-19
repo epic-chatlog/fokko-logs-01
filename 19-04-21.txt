@@ -17748,3 +17748,5 @@
 [2021-04-19 14:23:18]: ***  [, Level 0]: 'GReeeN' has left the game
 [2021-04-19 14:23:20]: . [TrRShClNrRs, Level 11]: wtf
 [2021-04-19 14:23:21]: asolegrain [, Level 0]: weqe:
+[2021-04-19 14:23:40]: ***  [, Level 0]: 'Axandos' entered and joined the game
+[2021-04-19 14:23:48]: sheeesh [, Level 39]: bob: hilfe ee eee
