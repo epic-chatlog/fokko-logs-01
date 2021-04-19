@@ -14272,3 +14272,7 @@
 [2021-04-19 11:26:21]: ***  [, Level 0]: 'kilodx' joined the spectators
 [2021-04-19 11:26:24]: ***  [, Level 0]: 'kilodx' joined the game
 [2021-04-19 11:26:32]: ***  [, Level 0]: 'DarkLord' entered and joined the game
+[2021-04-19 11:26:37]: ***  [, Level 0]: 'el champeon' has left the game
+[2021-04-19 11:26:37]: ***  [, Level 0]: 'Soros' has left the game
+[2021-04-19 11:26:44]: KeeperDragon [Chilli.*, Level 30]: XD
+[2021-04-19 11:26:47]: ***  [, Level 0]: 'artur xyz br' would have timed out, but can use timeout protection now
