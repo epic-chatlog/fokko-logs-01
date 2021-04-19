@@ -65,3 +65,4 @@
 [2021-04-19 00:04:42]: ReXi [, Level 0]: Bruh.: i dont want it
 [2021-04-19 00:04:44]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
 [2021-04-19 00:05:01]: ***  [, Level 0]: 'Noémi' has left the game (Timeout Protection over)
+[2021-04-19 00:05:13]: ***  [, Level 0]: '[D] #5 blocker' has left the game
