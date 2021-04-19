@@ -20935,3 +20935,5 @@
 [2021-04-18 17:54:34]: ERROR [404, Level 25]: ?
 [2021-04-18 17:54:37]: ezy [ComRoach, Level 23]: came
 [2021-04-18 17:54:39]: ERROR [404, Level 25]: ?
+[2021-04-18 17:55:49]: ezy [ComRoach, Level 23]: ez
+[2021-04-18 17:55:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
