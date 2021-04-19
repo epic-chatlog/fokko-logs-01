@@ -10776,3 +10776,7 @@
 [2021-04-19 08:28:13]: ***  [, Level 0]: '[D] Yoshi' has left the game
 [2021-04-19 08:28:16]:   [, Level 0]: (1)☺: Yoshi: thx dude
 [2021-04-19 08:28:22]:   [, Level 0]: (1)☺: wait i write
+[2021-04-19 08:28:28]: ***  [, Level 0]: '(1)Cylox' has left the game
+[2021-04-19 08:28:32]: ***  [, Level 0]: 'MattéoLaChienn' has left the game (Timeout)
+[2021-04-19 08:28:34]: ***  [, Level 0]: 'Lucifero' has left the game
+[2021-04-19 08:28:35]: ***  [, Level 0]: 'Lucifero' entered and joined the game
