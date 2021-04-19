@@ -11215,3 +11215,7 @@
 [2021-04-19 08:55:42]:   [, Level 0]: marcel: inf hook and jetpack
 [2021-04-19 08:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-19 08:55:50]: ERROR. [404, Level 57]: hahahahahha
+[2021-04-19 08:55:55]: ***  [, Level 0]: 'xian' has left the game
+[2021-04-19 08:55:59]: |HolyHo| [FookinLads, Level 19]: H0dƌƔ1: xD
+[2021-04-19 08:56:00]: H0dƌƔ1 [ℋero, Level 28]: bru xDD
+[2021-04-19 08:56:03]: ***  [, Level 0]: 'fluffrit' joined the spectators
