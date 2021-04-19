@@ -20901,3 +20901,4 @@
 [2021-04-18 17:43:48]: ***  [, Level 0]: 'Varox' has left the game
 [2021-04-18 17:43:51]: ***  [, Level 0]: xN0Zoro finished in: 2 minute(s) 11.36 second(s)
 [2021-04-18 17:43:51]: ***  [, Level 0]: New record: 15.64 second(s) better.
+[2021-04-18 17:44:10]: nar [ComRoach, Level 19]: Tommy:
