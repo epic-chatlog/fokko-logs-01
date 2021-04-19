@@ -16932,3 +16932,6 @@
 [2021-04-19 13:42:05]: bob [, Level 36]: hi
 [2021-04-19 13:42:08]: bob [, Level 36]: u zombie
 [2021-04-19 13:42:09]: . [TrRShClNrRs, Level 10]: bob: yoyoo
+[2021-04-19 13:42:59]: . [TrRShClNrRs, Level 10]: wow
+[2021-04-19 13:43:01]: . [TrRShClNrRs, Level 10]: long portal bob
+[2021-04-19 13:43:05]: . [TrRShClNrRs, Level 10]: bob: look
