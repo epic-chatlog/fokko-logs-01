@@ -21482,3 +21482,4 @@
 [2021-04-18 23:00:09]: ***  [, Level 0]: 'Zerstrian' finished the special race!
 [2021-04-18 23:00:11]: ***  [, Level 0]: 'Ay Zeta' entered and joined the game
 [2021-04-18 23:00:42]: Raidon's Pet [, Level 20]: laag off
+[2021-04-18 23:00:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
