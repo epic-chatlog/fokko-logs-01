@@ -6795,3 +6795,7 @@
 [2021-04-19 05:01:49]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-19 05:01:52]:   [, Level 0]: .: [D] BC|Tixnix: u suck.
 [2021-04-19 05:01:54]: Zephir™ [404, Level 40]: Minato/fr dumy: yep
+[2021-04-19 05:02:01]: [D] BC|Tixnix [BC, Level 26]: .: you have not
+[2021-04-19 05:02:01]: Minato/fr dumy [Limoncello, Level 6]: xD
+[2021-04-19 05:02:02]:   [, Level 0]: power: WAIT Telefantastic
+[2021-04-19 05:02:06]: [D] BC|Tixnix [BC, Level 26]: Noémi:
