@@ -6192,3 +6192,13 @@
 [2021-04-19 04:45:17]:   [, Level 0]: Arktict: avioocals: spawn
 [2021-04-19 04:45:18]: ***  [, Level 0]: '@string/name' entered and joined the game
 [2021-04-19 04:45:21]: ***  [, Level 0]: 'komando' has left the game
+[2021-04-19 04:45:26]: ***  [, Level 0]: 1 finished in: 11 minute(s) 10.62 second(s)
+[2021-04-19 04:45:27]: [D] Cylox [{TQuila}, Level 0]: [D] BC|Tixnix:
+[2021-04-19 04:45:28]:   [, Level 0]: BulgarianTee: ERROR': papa error mad at me :(((
+[2021-04-19 04:45:30]:   [, Level 0]: ERROR': . ok war
+[2021-04-19 04:45:30]: ***  [, Level 0]: [D] BC|Tixnix is on a killing spree with 5 blocks
+[2021-04-19 04:45:31]: ***  [, Level 0]: '1IceyB0i' entered and joined the game
+[2021-04-19 04:45:31]:   [, Level 0]: BulgarianTee: .: HEH
+[2021-04-19 04:45:34]:   [, Level 0]: BulgarianTee: .: GAYYY
+[2021-04-19 04:45:35]: SkyForge [, Level 0]: BulgarianTee:  hi
+[2021-04-19 04:45:35]: ***  [, Level 0]: 'edimarlop' entered and joined the game
