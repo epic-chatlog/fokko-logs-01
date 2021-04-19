@@ -11334,3 +11334,4 @@
 [2021-04-19 09:05:20]: ***  [, Level 0]: sun.slow(y) is on a killing spree with 10 blocks
 [2021-04-19 09:05:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-19 09:05:50]: ReXi [, Level 0]: ez
+[2021-04-19 09:06:04]: ***  [, Level 0]: 'fluffrit' entered and joined the game
