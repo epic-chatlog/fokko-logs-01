@@ -13101,3 +13101,7 @@
 [2021-04-19 10:30:36]: ***  [, Level 0]: 'Mʎɹ シ' entered and joined the game
 [2021-04-19 10:30:49]: mamikral011 [DogParty, Level 0]: Lucas: help or war
 [2021-04-19 10:30:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-19 10:30:58]: [D] Cylox [{TQuila}, Level 25]: Mista bombastic:
+[2021-04-19 10:30:59]: ***  [, Level 0]: 'Rem's dummy' has left the game
+[2021-04-19 10:31:01]: [D] Cylox [{TQuila}, Level 25]: help meü
+[2021-04-19 10:31:02]: ṆḕẌṳS [Chilli.*, Level 0]: help
