@@ -13137,3 +13137,10 @@
 [2021-04-19 10:32:24]: ***  [, Level 0]: 'ZEWO's Pet' entered and joined the game
 [2021-04-19 10:32:26]: ṆḕẌṳS [Chilli.*, Level 0]: Sayme: no war
 [2021-04-19 10:32:29]: ***  [, Level 0]: 'Koris' has left the game
+[2021-04-19 10:32:31]: SanoreX [Chilli.*, Level 27]: ZEWO: LAN ADIN
+[2021-04-19 10:32:31]: ***  [, Level 0]: 'Lucas' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-19 10:32:32]: ***  [, Level 0]: 'Telefantastic' has left the game
+[2021-04-19 10:32:32]: ***  [, Level 0]: 'Mista bombastic' has left the game
+[2021-04-19 10:32:35]: ZEWO's Pet [, Level 0]: SanoreX: bkl
+[2021-04-19 10:32:41]: mamikral011 [DogParty, Level 0]: (1)Sayme: war for life you idiot
+[2021-04-19 10:32:43]: Teeetard™ [, Level 0]: war5life
