@@ -9191,3 +9191,5 @@
 [2021-04-19 07:22:03]: ***  [, Level 0]: 'jeder' entered and joined the game
 [2021-04-19 07:22:06]:   [, Level 0]: gfk: any²: waR?
 [2021-04-19 07:22:11]: sharkz [, Level 45]: ez
+[2021-04-19 07:22:22]:   [, Level 0]: gfk: any: help or awr
+[2021-04-19 07:22:24]: Flippēr [, Level 16]: ~DemoizL~ XD
