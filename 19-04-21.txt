@@ -1599,3 +1599,5 @@
 [2021-04-19 01:24:32]: mamikral011 [DogParty, Level 27]: vesorp
 [2021-04-19 01:24:36]: Vesorp [666, Level 26]: mamikral011: ?
 [2021-04-19 01:24:37]: mamikral011 [DogParty, Level 27]: Vesorp: help
+[2021-04-19 01:24:41]: Vesorp [666, Level 26]: mamikral011: is not my war sry
+[2021-04-19 01:24:51]: ***  [, Level 0]: 'komando' entered and joined the game
