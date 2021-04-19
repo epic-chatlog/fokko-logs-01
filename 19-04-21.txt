@@ -11244,3 +11244,6 @@
 [2021-04-19 08:57:14]:   [, Level 0]: marcel: FookinLads
 [2021-04-19 08:57:23]:   [, Level 0]: (1)Good man: jq ,k
 [2021-04-19 08:57:37]: ***  [, Level 0]: 'HuiiHuiiHuii' entered and joined the game
+[2021-04-19 08:57:46]: [D] im_cloud_ [, Level 0]: SkyForge: xD can u help me im idiot
+[2021-04-19 08:57:50]: ***  [9, Level 0]: [D] SkyForge is on a killing spree with 10 blocks
+[2021-04-19 08:57:54]: ***  [I, Level 0]: 'voldnen' would have timed out, but can use timeout protection now
