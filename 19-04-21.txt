@@ -8312,3 +8312,7 @@
 [2021-04-19 06:41:11]: sun.slow(y) [FookinLads, Level 35]: Kezo: so
 [2021-04-19 06:41:12]: Hala Madrid [BBM, Level 0]: nah xd useless
 [2021-04-19 06:41:14]: ***  [, Level 0]: 'Luskão' has left the game
+[2021-04-19 06:41:18]: Kezo [DogParty, Level 41]: sun.slow(y): i never say im pro
+[2021-04-19 06:41:20]: ***  [, Level 0]: 'Flippēr' entered and joined the game
+[2021-04-19 06:41:20]: SanoreX [Chilli.*, Level 27]: lagg
+[2021-04-19 06:41:26]: ***  [, Level 0]: Soros's killing spree was ended by tree (8 blocks)
