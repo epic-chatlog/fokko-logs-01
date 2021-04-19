@@ -21870,3 +21870,5 @@
 [2021-04-18 23:58:50]: klas [, Level 0]: finish the race
 [2021-04-18 23:58:54]: (1)Zerstrian [, Level 42]: SanoreX: saved you
 [2021-04-18 23:58:59]: SanoreX.* [Chilli.*, Level 23]: ok
+[2021-04-18 23:59:08]: (1)Zerstrian [, Level 42]: and no, but because i don't want one
+[2021-04-18 23:59:12]: ***  [, Level 0]: 'Kezo' entered and joined the game
