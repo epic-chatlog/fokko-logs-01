@@ -14276,3 +14276,4 @@
 [2021-04-19 11:26:37]: ***  [, Level 0]: 'Soros' has left the game
 [2021-04-19 11:26:44]: KeeperDragon [Chilli.*, Level 30]: XD
 [2021-04-19 11:26:47]: ***  [, Level 0]: 'artur xyz br' would have timed out, but can use timeout protection now
+[2021-04-19 11:26:55]: ***  [, Level 0]: 'bu' has left the game (Timeout)
