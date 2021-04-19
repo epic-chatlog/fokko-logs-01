@@ -9572,3 +9572,9 @@
 [2021-04-19 07:33:51]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-19 07:33:52]:   [, Level 0]: mamikral011: any²: ?
 [2021-04-19 07:33:53]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-19 07:33:54]:   [, Level 0]: mamikral011: any²: okey
+[2021-04-19 07:33:57]:   [, Level 0]: mamikral011: any²: war for life
+[2021-04-19 07:33:58]: power [TrRShClNrRs, Level 15]: well why isnt there something between friend and enemy? power
+[2021-04-19 07:34:01]: ***  [, Level 0]: 'Outxe Solar' joined the game
+[2021-04-19 07:34:04]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-19 07:34:06]: [D] El patron [FookinLads, Level 24]: ERROR: wieso
