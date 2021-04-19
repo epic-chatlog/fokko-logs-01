@@ -18098,3 +18098,4 @@
 [2021-04-19 14:51:51]: ***  [, Level 0]: 'LGBT+ General' entered and joined the game
 [2021-04-19 14:52:03]: ***  [, Level 0]: 'LGBT+ General' has left the game
 [2021-04-19 14:52:03]: ***  [, Level 0]: 'YelloWorlD' entered and joined the game
+[2021-04-19 14:52:19]: ☺ [, Level 0]: slt YelloWorlD
