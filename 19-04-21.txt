@@ -16937,3 +16937,6 @@
 [2021-04-19 13:43:05]: . [TrRShClNrRs, Level 10]: bob: look
 [2021-04-19 13:43:21]: [D] Cylox [{TQuila}, Level 25]: bob: OMG
 [2021-04-19 13:43:25]: bob [, Level 36]: Cylox: what
+[2021-04-19 13:43:34]: . [TrRShClNrRs, Level 10]: BRO WTF
+[2021-04-19 13:43:37]: bob [, Level 36]: ~DemoizL~:
+[2021-04-19 13:43:39]: . [TrRShClNrRs, Level 10]: bob: i can make portals really far away
