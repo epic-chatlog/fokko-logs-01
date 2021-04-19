@@ -1977,3 +1977,6 @@
 [2021-04-19 01:39:10]: SanoreX.* [Chilli.*, Level 23]: help
 [2021-04-19 01:39:12]: SanoreX.* [Chilli.*, Level 23]: heelp
 [2021-04-19 01:39:19]: SanoreX.* [Chilli.*, Level 23]: help Arktict
+[2021-04-19 01:39:21]: SanoreX.* [Chilli.*, Level 23]: help Arktict  right
+[2021-04-19 01:39:25]: |HolyHo| [FookinLads, Level 19]: GODLIKe.: wtf?
+[2021-04-19 01:39:29]: Taip [VergleriSay, Level 0]: :D fun war
