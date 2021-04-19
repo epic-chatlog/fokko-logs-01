@@ -4315,3 +4315,8 @@
 [2021-04-19 03:28:54]: Kezo [DogParty, Level 41]: YelloWorlD: yes
 [2021-04-19 03:29:00]:   [, Level 0]: Cylox: zD
 [2021-04-19 03:29:07]:   [, Level 0]: Coca: im afk Cylox
+[2021-04-19 03:29:08]:   [, Level 0]: Coca: thx)
+[2021-04-19 03:29:11]:   [, Level 0]: Cylox: OKEY
+[2021-04-19 03:29:14]: ***  [, Level 0]: :D finished in: 3 minute(s) 52.10 second(s)
+[2021-04-19 03:29:14]: ***  [, Level 0]: New record: 8 minute(s)  0.62 second(s) better.
+[2021-04-19 03:29:17]: ***  [, Level 0]: 'Adleg' has left the game
