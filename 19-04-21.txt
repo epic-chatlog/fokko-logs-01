@@ -10331,3 +10331,8 @@
 [2021-04-19 08:06:50]: Good man [Drunks, Level 33]: Cylox: it joke)
 [2021-04-19 08:06:54]: ***  [, Level 0]: 'woona' entered and joined the game
 [2021-04-19 08:07:06]: Mert [Blood Gang, Level 0]: stop
+[2021-04-19 08:07:12]: ***  [, Level 0]: 449. Naruton Time: 01:16.06, requested by Naruton
+[2021-04-19 08:07:14]: løminatiøn· [, Level 37]: Vertex:
+[2021-04-19 08:07:17]:   [, Level 0]: Naruton: Cylox
+[2021-04-19 08:07:19]: ***  [, Level 0]: 'SanoreX' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-19 08:07:19]: ***  [, Level 0]: 'SanoreX.*' has left the game (Too weak connection (not acked for 60 seconds))
