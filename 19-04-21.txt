@@ -18754,3 +18754,6 @@
 [2021-04-19 15:49:55]: ***  [, Level 0]: 'weqe' entered and joined the game
 [2021-04-19 15:50:05]: HeavyGeneral [FookinLads, Level 76]: bob: skillz
 [2021-04-19 15:50:11]: bob [, Level 36]: crazy
+[2021-04-19 15:50:15]: HeavyGeneral [FookinLads, Level 76]: im on 100+ ping
+[2021-04-19 15:50:19]: weqe [669, Level 13]: HeavyGeneral: me u = brother4life
+[2021-04-19 15:50:22]: HeavyGeneral [FookinLads, Level 76]: in royal im on 70
