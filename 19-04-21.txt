@@ -135,3 +135,6 @@
 [2021-04-19 00:09:47]: SanoreX.* [Chilli.*, Level 23]: Bruh.: bind return "chat all; emote 4"
 [2021-04-19 00:09:57]: 1 [, Level 18]: vs
 [2021-04-19 00:10:04]: yOUSEN [, Level 0]: eski farem
+[2021-04-19 00:10:12]: Random Guy [, Level 40]: lag
+[2021-04-19 00:10:13]: Random Guy [, Level 40]: re
+[2021-04-19 00:10:16]: 1 [, Level 18]: türk müsün
