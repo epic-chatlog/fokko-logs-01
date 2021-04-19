@@ -20744,3 +20744,6 @@
 [2021-04-18 17:15:35]: bob [, Level 36]: wtfffffff
 [2021-04-18 17:15:36]: ***  [, Level 0]: 'bob' has been muted for 60 seconds
 [2021-04-18 17:15:38]: weqe [669, Level 13]: how is 50000 half
+[2021-04-18 17:15:43]: Black [, Level 0]: xD
+[2021-04-18 17:15:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-18 17:15:52]: weqe [669, Level 13]: i will wait bob no rush honey
