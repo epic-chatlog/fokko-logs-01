@@ -16283,3 +16283,6 @@
 [2021-04-19 12:56:12]: ***  [, Level 0]: '(1)casserole :p' entered and joined the game
 [2021-04-19 12:56:14]: [D] Cylox [{TQuila}, Level 25]: help peace xD
 [2021-04-19 12:56:15]: [D] Cylox [{TQuila}, Level 25]: NICE
+[2021-04-19 12:56:24]: . [TrRShClNrRs, Level 10]: |HolyHo|°: settings > controls > at right bottom: show entities
+[2021-04-19 12:56:28]: ***  [, Level 0]: '(1)casserole :p' has left the game
+[2021-04-19 12:56:29]: . [TrRShClNrRs, Level 10]: |HolyHo|°: its usually at f5 for everyone
