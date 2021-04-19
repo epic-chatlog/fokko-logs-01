@@ -17027,3 +17027,7 @@
 [2021-04-19 13:50:43]: ***  [, Level 0]: Killua is on a killing spree with 10 blocks
 [2021-04-19 13:50:47]: (1)Sayme [, Level 0]: .: i blocked, nice)
 [2021-04-19 13:50:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-19 13:50:54]: . [TrRShClNrRs, Level 10]: Killua: i wanna try fighting
+[2021-04-19 13:50:56]: . [TrRShClNrRs, Level 10]: Killua: with 300
+[2021-04-19 13:51:03]: . [TrRShClNrRs, Level 10]: Killua: 150,200,250,300
+[2021-04-19 13:51:05]: ***  [, Level 0]: '(1)ZEWO' entered and joined the game
