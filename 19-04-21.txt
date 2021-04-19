@@ -7999,3 +7999,8 @@
 [2021-04-19 06:25:34]: Nagisa [H] [E8, Level 2]: mal
 [2021-04-19 06:25:36]:   [, Level 0]: DoktorGG: SG
 [2021-04-19 06:25:40]: ***  [, Level 0]: 'Coviddocktor' has left the game
+[2021-04-19 06:25:43]: Nagisa [H] [E8, Level 2]: yürü bot
+[2021-04-19 06:25:43]: |HolyHo|° [FookinLads, Level 29]: sun.slow(y): stop
+[2021-04-19 06:25:44]: ***  [, Level 0]: '✔Pouet' entered and joined the game
+[2021-04-19 06:25:48]: ***  [, Level 0]: '✔Pouet{D}' entered and joined the game
+[2021-04-19 06:25:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
