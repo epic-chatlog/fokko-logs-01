@@ -4766,3 +4766,7 @@
 [2021-04-19 03:48:48]: ***  [, Level 0]: 'вłøøđωave' entered and joined the game
 [2021-04-19 03:48:52]: Telefantastic [TrRShClNrRs, Level 34]: Raidon: wtf
 [2021-04-19 03:48:52]: fokkonaut [flawLess, Level 102]: da is michal
+[2021-04-19 03:48:55]:   [, Level 0]: f"{self.name}": fokkonaut: i think so but surprisingly changing the code on didnt do anything
+[2021-04-19 03:48:58]:   [, Level 0]: ChillerDragon: fick dich xd fokkonaut
+[2021-04-19 03:48:59]: BulgarianTee [xSD7, Level 0]: GOLD: MEN I WAS JUST COPYING SKIN I WASNT DOING ANYTHINGG
+[2021-04-19 03:49:02]: |HolyHo| [FookinLads, Level 19]: HeavyGeneral: i alr gave u everythng
