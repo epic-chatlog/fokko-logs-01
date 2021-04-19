@@ -15099,3 +15099,4 @@
 [2021-04-19 12:05:58]: ***  [, Level 0]: 'Mista bombastic' has been muted for 60 seconds
 [2021-04-19 12:06:02]: ***  [, Level 0]: 'thiago*_ *' joined the spectators
 [2021-04-19 12:06:06]: ***  [, Level 0]: 'thiago*_ *' joined the game
+[2021-04-19 12:06:10]: ***  [, Level 0]: 'Mista bombastic' changed name to 'ez mute speedru'
