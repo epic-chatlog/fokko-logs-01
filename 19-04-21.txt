@@ -11179,3 +11179,6 @@
 [2021-04-19 08:52:08]: Cylox [{TQuila}, Level 32]: ?
 [2021-04-19 08:52:20]: ***  [, Level 0]: 'smartless tee' has left the game
 [2021-04-19 08:52:24]: Cylox [{TQuila}, Level 32]: ok
+[2021-04-19 08:52:26]: Cylox [{TQuila}, Level 32]: stp
+[2021-04-19 08:52:28]: Good man [Drunks, Level 33]: thx)
+[2021-04-19 08:52:37]:   [, Level 0]: ṆḕẌṳS: ERROR: help
