@@ -4554,3 +4554,6 @@
 [2021-04-19 03:40:32]: ***  [, Level 0]: '[D]ϻɪɔʜɑʟ' entered and joined the game
 [2021-04-19 03:40:32]:   [, Level 0]: f"{self.name}": stupid fokkonaut and his timeout codes :D
 [2021-04-19 03:40:36]: ***  [, Level 0]: 'Cup' entered and joined the game
+[2021-04-19 03:40:38]: ***  [, Level 0]: 'at insan' entered and joined the game
+[2021-04-19 03:40:39]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
+[2021-04-19 03:40:45]: ***  [, Level 0]: 'Cacke' entered and joined the game
