@@ -4545,3 +4545,8 @@
 [2021-04-19 03:39:52]: mamikral011 [DogParty, Level 22]: Intensiv:
 [2021-04-19 03:39:54]: ϻɪɔʜɑʟ [Chilli.*, Level 24]: help me YelloWorlD
 [2021-04-19 03:39:59]: Intensiv_ [, Level 11]: blocklama merti aga
+[2021-04-19 03:40:02]: Raidon [, Level 24]: (1)|HolyHo|°:
+[2021-04-19 03:40:04]: YelloWorlD [DogParty, Level 0]: HeavyGeneral: dont save him
+[2021-04-19 03:40:05]:   [, Level 0]: ChillerDragon: you can stay in team chiller without unfreezing me when ur clan is online |HolyHo|° under one condition
+[2021-04-19 03:40:08]:   [, Level 0]: HeavyGeneral: who
+[2021-04-19 03:40:12]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
