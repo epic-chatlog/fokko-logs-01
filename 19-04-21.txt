@@ -6314,3 +6314,4 @@
 [2021-04-19 04:49:13]:   [, Level 0]: BulgarianTee: HeavyGeneral: give me your account and im gonna fake you perfectly XD
 [2021-04-19 04:49:17]: ***  [, Level 0]: 'SanoreX' changed name to 's'
 [2021-04-19 04:49:21]:   [, Level 0]: ERROR': HeavyGeneral:
+[2021-04-19 04:49:23]: Zephir™ [404, Level 40]: ERROR: i killed them in left
