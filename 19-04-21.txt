@@ -16438,3 +16438,6 @@
 [2021-04-19 13:05:49]: bob [, Level 36]: ChillerDragon: bereust du manchmal taser implementiert zu haben
 [2021-04-19 13:05:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-19 13:05:57]: . [TrRShClNrRs, Level 10]: |HolyHo|°: i cant putportal cuz they war rn .-.
+[2021-04-19 13:06:00]: ***  [, Level 0]: 'MysterX' entered and joined the game
+[2021-04-19 13:06:05]: ChillerDragon.* [|*KoG*|, Level 42]: ne bob
+[2021-04-19 13:06:09]: bob [, Level 36]: ~DemoizL~: PRO
