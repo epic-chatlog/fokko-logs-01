@@ -11379,3 +11379,5 @@
 [2021-04-19 09:09:42]: ERROR [404, Level 47]: versuch die 50te
 [2021-04-19 09:09:55]:   [, Level 0]: ChillerDragon: ittosai: it stuff
 [2021-04-19 09:09:58]: ***  [, Level 0]: 'cookie' entered and joined the game
+[2021-04-19 09:10:05]: SanoreX [Chilli.*, Level 27]: (1)|HolyHo|°: open pls
+[2021-04-19 09:10:06]: ERROR [404, Level 47]: xDDDDDDDDDDDDDDDDDDDDDDD
