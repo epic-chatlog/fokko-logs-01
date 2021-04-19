@@ -21155,3 +21155,5 @@
 [2021-04-18 18:46:20]: ***  [, Level 0]: 'Blueberry' entered and joined the game
 [2021-04-18 18:46:22]: Black [, Level 0]: ezy: ayh
 [2021-04-18 18:46:29]: nar [ComRoach, Level 19]: ha
+[2021-04-18 18:46:37]: Black [, Level 0]: a8ra al caht
+[2021-04-18 18:46:39]: Black [, Level 0]: chat
