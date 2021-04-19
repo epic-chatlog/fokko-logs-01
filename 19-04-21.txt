@@ -8064,3 +8064,6 @@
 [2021-04-19 06:29:04]: ***  [, Level 0]: 'nico' has left the game
 [2021-04-19 06:29:06]: El patron [FookinLads, Level 31]: Kezo: ?
 [2021-04-19 06:29:26]:   [, Level 0]: Huutochka: Kirito: why you blocked me from portal
+[2021-04-19 06:29:29]: Intensiv_ [DogParty, Level 11]: help
+[2021-04-19 06:29:33]:   [, Level 0]: Minato / FR: Aristhophanes:
+[2021-04-19 06:29:35]:   [, Level 0]: Minato / FR: back
