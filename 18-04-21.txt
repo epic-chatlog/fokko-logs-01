@@ -20965,3 +20965,6 @@
 [2021-04-18 18:00:22]: ezy [ComRoach, Level 23]: bob:
 [2021-04-18 18:00:23]: xN0Zoro D [, Level 18]: why are you gay bob ?
 [2021-04-18 18:00:26]: ezy [ComRoach, Level 23]: whi pro
+[2021-04-18 18:00:47]: ***  [, Level 0]: 'Ferozito' has left the game
+[2021-04-18 18:00:47]: ***  [, Level 0]: 'Fera' has left the game
+[2021-04-18 18:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
