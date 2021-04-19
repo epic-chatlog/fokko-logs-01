@@ -16501,3 +16501,11 @@
 [2021-04-19 13:10:39]: ***  [, Level 0]: 'arthur' has left the game
 [2021-04-19 13:10:40]: . [TrRShClNrRs, Level 10]: |HolyHo|°: :c
 [2021-04-19 13:10:41]: HeavyGeneral [FookinLads, Level 44]: GReeeN: tho im not supriced
+[2021-04-19 13:10:42]: GReeeN [, Level 0]: HeavyGeneral:  np
+[2021-04-19 13:10:42]: Cylox [{TQuila}, Level 32]: ı afk
+[2021-04-19 13:10:45]: . [TrRShClNrRs, Level 10]: |HolyHo|°: we need a second try
+[2021-04-19 13:10:46]: HeavyGeneral [FookinLads, Level 44]: GReeeN: he always attacks when im afk
+[2021-04-19 13:10:47]: Cylox [{TQuila}, Level 32]: FUC KFOF
+[2021-04-19 13:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-19 13:10:51]: Cylox [{TQuila}, Level 32]: good nıght
+[2021-04-19 13:10:53]: ***  [, Level 0]: 'LareneGyvaeh' entered and joined the game
