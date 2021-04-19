@@ -4630,3 +4630,5 @@
 [2021-04-19 03:43:26]: ***  [, Level 0]: Cup finished in: 2 minute(s) 47.18 second(s)
 [2021-04-19 03:43:29]:   [, Level 0]: HeavyGeneral: y
 [2021-04-19 03:43:41]: Ðream [TrRShClNrRs, Level 47]: Tziys*: Fuck off child
+[2021-04-19 03:43:43]:   [, Level 0]: BULLETBOT: fucking bad
+[2021-04-19 03:43:53]: ***  [, Level 0]: 'f"{self.name}"' has left the game
