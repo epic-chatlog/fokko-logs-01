@@ -18185,3 +18185,6 @@
 [2021-04-19 14:59:47]: ***  [, Level 0]: 'LGBT+ General' entered and joined the game
 [2021-04-19 15:00:04]: ***  [, Level 0]: 'LGBT+ General' has left the game
 [2021-04-19 15:00:19]: Axandos² [, Level 21]: Killua:  send me love
+[2021-04-19 15:00:34]: ***  [, Level 0]: Axandos is on a killing spree with 5 blocks
+[2021-04-19 15:00:35]: Killua [FookinLads, Level 37]: Axandos: love.send()
+[2021-04-19 15:00:40]: Axandos [, Level 26]: Killua:  <3
