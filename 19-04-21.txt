@@ -249,3 +249,5 @@
 [2021-04-19 00:20:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-19 00:21:13]: SanoreX.* [Chilli.*, Level 23]: thxxx Zerstrian
 [2021-04-19 00:21:15]: Not Zerstrian [, Level 50]: yw
+[2021-04-19 00:21:21]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
+[2021-04-19 00:21:27]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
