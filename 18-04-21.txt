@@ -21446,3 +21446,5 @@
 [2021-04-18 22:48:03]: ***  [, Level 0]: '(1)Intensiv' changed name to 'Intensiv_'
 [2021-04-18 22:48:22]: Raidon [, Level 24]: how
 [2021-04-18 22:48:44]: Raidon [, Level 24]: Kezo: ?
+[2021-04-18 22:48:52]: Kezo [DogParty, Level 39]: ben arkadaşıyım
+[2021-04-18 22:48:59]: Raidon [, Level 24]: tamam alsana burdan
