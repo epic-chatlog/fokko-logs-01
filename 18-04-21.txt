@@ -21766,3 +21766,6 @@
 [2021-04-18 23:52:12]: (1)Zerstrian [, Level 42]: sec
 [2021-04-18 23:52:13]: #5 blocker [|*MorE*|, Level 0]: xd
 [2021-04-18 23:52:29]: ***  [, Level 0]: '[D] blektrik' entered and joined the game
+[2021-04-18 23:52:39]: ***  [, Level 0]: '[D] blektrik' has left the game
+[2021-04-18 23:52:44]: SanoreX.* [Chilli.*, Level 23]: help me
+[2021-04-18 23:52:48]: (1)Zerstrian [, Level 42]: smoklamdsoknaio
