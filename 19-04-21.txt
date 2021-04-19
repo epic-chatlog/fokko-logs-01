@@ -4416,3 +4416,9 @@
 [2021-04-19 03:35:46]: ChillerDragon.* [Chilli.*, Level 42]: i dont help when i cant |HolyHo|°
 [2021-04-19 03:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-19 03:35:51]: ChillerDragon.* [Chilli.*, Level 42]: i always help when i can |HolyHo|°
+[2021-04-19 03:35:55]: ***  [, Level 0]: '(1)cunt' has left the game
+[2021-04-19 03:35:56]: Raidon's Pet [, Level 20]: Zephir™: why block dream
+[2021-04-19 03:35:57]:   [, Level 0]: ϻɪɔʜɑʟ: ChillerDragon:
+[2021-04-19 03:35:59]: heyoxe [, Level 0]: what is this
+[2021-04-19 03:36:00]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 10 blocks
+[2021-04-19 03:36:03]: [D] mamikral011 [DogParty, Level 27]: Telefantastic: ?
