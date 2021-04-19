@@ -225,3 +225,5 @@
 [2021-04-19 00:17:53]: SanoreX.* [Chilli.*, Level 23]: (1)cat:
 [2021-04-19 00:18:09]: yOUSEN [, Level 0]: 1:
 [2021-04-19 00:18:10]: yOUSEN [, Level 0]: 1:  al
+[2021-04-19 00:18:13]: ***  [, Level 0]: 'pavlepavle' entered and joined the game
+[2021-04-19 00:18:22]: rexi [, Level 0]: rip
