@@ -8320,3 +8320,5 @@
 [2021-04-19 06:41:41]: Raidon's Pet [, Level 20]: Ðream: xd
 [2021-04-19 06:41:48]: ***  [, Level 0]: 'Cup' entered and joined the game
 [2021-04-19 06:41:53]: SanoreX.* [Chilli.*, Level 23]: Cosmo: help
+[2021-04-19 06:41:59]: ***  [, Level 0]: 'Arcansile' has left the game
+[2021-04-19 06:42:05]:   [, Level 0]: Kezo: sun.slow(y): gf wp
