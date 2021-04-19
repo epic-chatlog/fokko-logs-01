@@ -21584,3 +21584,7 @@
 [2021-04-18 23:24:22]: ***  [, Level 0]: '1' entered and joined the game
 [2021-04-18 23:24:27]: ezy [ComRoach, Level 23]: Ðream: heloooo
 [2021-04-18 23:24:36]: #5 blocker [|*MorE*|, Level 0]: fu
+[2021-04-18 23:24:43]: ***  [, Level 0]: '[D] ALqrean' has left the game
+[2021-04-18 23:24:43]: ***  [, Level 0]: 'ALqrean' has left the game
+[2021-04-18 23:24:44]: ***  [, Level 0]: [D]ϻɪɔʜɑʟ finished in: 8 minute(s)  9.88 second(s)
+[2021-04-18 23:24:46]: ***  [, Level 0]: #5 blocker finished in: 2 minute(s) 29.52 second(s)
