@@ -13144,3 +13144,5 @@
 [2021-04-19 10:32:35]: ZEWO's Pet [, Level 0]: SanoreX: bkl
 [2021-04-19 10:32:41]: mamikral011 [DogParty, Level 0]: (1)Sayme: war for life you idiot
 [2021-04-19 10:32:43]: Teeetard™ [, Level 0]: war5life
+[2021-04-19 10:32:49]: ***  [, Level 0]: 'ZEWO's Pet' changed name to '(1)ZEWO'
+[2021-04-19 10:32:54]: ***  [, Level 0]: '(1)ZEWO' changed name to 'ZEWO's dummy'
