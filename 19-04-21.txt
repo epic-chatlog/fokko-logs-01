@@ -4330,3 +4330,5 @@
 [2021-04-19 03:30:50]: PARDUS [CRAZY TURKS, Level 0]: [D] mamikral011:  dün polis diyodun
 [2021-04-19 03:30:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-19 03:30:52]: ***  [, Level 0]: 'heyoxe' entered and joined the game
+[2021-04-19 03:30:55]: ***  [, Level 0]: 'ölüm bekçisi' entered and joined the game
+[2021-04-19 03:30:58]: ***  [, Level 0]: 'Lahmacun' entered and joined the game
