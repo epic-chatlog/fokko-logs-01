@@ -111,3 +111,5 @@
 [2021-04-19 00:07:58]: Bruh. [Blood Day, Level 5]: sonra gitti  SanoreX
 [2021-04-19 00:08:00]: SanoreX.* [Chilli.*, Level 23]: Bruh.: diyim
 [2021-04-19 00:08:27]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 29.78 second(s)
+[2021-04-19 00:08:29]: ***  [, Level 0]: 'niQ' entered and joined the game
+[2021-04-19 00:08:30]: SanoreX.* [Chilli.*, Level 23]: Bruh.: bind y "toggle inp_mousesens 2 500; toggle cl_mouse_max_distance 2 380"
