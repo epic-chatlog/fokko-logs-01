@@ -7185,3 +7185,6 @@
 [2021-04-19 05:16:28]: ***  [, Level 0]: 'darkstar' joined the spectators
 [2021-04-19 05:16:28]: ***  [, Level 0]: 'Zam[D]' has left the game
 [2021-04-19 05:16:29]:   [, Level 0]: BulgarianTee: Nightmare: NOBO SAVE ME
+[2021-04-19 05:16:42]: ***  [, Level 0]: 'i m p o s t o r' entered and joined the game
+[2021-04-19 05:16:43]: PoliceTee [PoliceForce, Level 38]: Nightmare: A WTF?
+[2021-04-19 05:16:47]: PoliceTee [PoliceForce, Level 38]: Nightmare: idot
