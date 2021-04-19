@@ -21763,3 +21763,5 @@
 [2021-04-18 23:51:40]: klas [, Level 0]: lag
 [2021-04-18 23:51:47]: rexi [, Level 0]: rip
 [2021-04-18 23:52:01]: ***  [, Level 0]: 'blektrik' entered and joined the game
+[2021-04-18 23:52:12]: (1)Zerstrian [, Level 42]: sec
+[2021-04-18 23:52:13]: #5 blocker [|*MorE*|, Level 0]: xd
