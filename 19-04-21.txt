@@ -10350,3 +10350,4 @@
 [2021-04-19 08:08:07]: __init__(self): [, Level 0]: woona: wtf
 [2021-04-19 08:08:08]: comic [comically, Level 15]: H0dƌƔ1: BABABOEY
 [2021-04-19 08:08:10]: |HolyHo|° [FookinLads, Level 29]: H0dƌƔ1: comic fisrt
+[2021-04-19 08:08:12]: Intensiv [DogParty, Level 17]: Cylox:  kendi pilotuna götürürmüsün
