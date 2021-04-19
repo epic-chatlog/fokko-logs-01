@@ -18736,3 +18736,6 @@
 [2021-04-19 15:46:45]: bob [, Level 36]: thanks brother
 [2021-04-19 15:46:54]: HeavyGeneral [FookinLads, Level 76]: TL|ŦƹƦ$ŦǾN: left
 [2021-04-19 15:46:59]: GOLD [404, Level 38]: HeavyGeneral: ooff
+[2021-04-19 15:47:01]: Black [, Level 0]: np bro
+[2021-04-19 15:47:11]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-19 15:47:11]: ***  [, Level 0]: 'GOLD' has left the game
