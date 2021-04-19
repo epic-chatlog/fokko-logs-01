@@ -18911,3 +18911,4 @@
 [2021-04-19 16:06:16]: Black [, Level 0]: gernade sprayer
 [2021-04-19 16:06:19]: bob [, Level 36]: haha
 [2021-04-19 16:06:20]: ***  [, Level 0]: 'Kezo's Slave' entered and joined the game
+[2021-04-19 16:06:47]: ***  [, Level 0]: 'sun.slow(y)' has left the game
