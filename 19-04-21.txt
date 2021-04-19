@@ -8043,3 +8043,4 @@
 [2021-04-19 06:27:45]: ERROR, [404, Level 57]: kein ding
 [2021-04-19 06:27:50]: ***  [, Level 0]: |HolyHo|° is on a killing spree with 10 blocks
 [2021-04-19 06:27:50]: ***  [, Level 0]: sun.slow(y)'s killing spree was ended by |HolyHo|° (7 blocks)
+[2021-04-19 06:28:06]: ERROR, [404, Level 57]: sun.slow(y):  wie bist du denn jz gestorben?
