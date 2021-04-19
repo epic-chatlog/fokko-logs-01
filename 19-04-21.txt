@@ -10663,3 +10663,8 @@
 [2021-04-19 08:22:01]: ***  [, Level 0]: soleri1 finished in: 1 minute(s) 30.84 second(s)
 [2021-04-19 08:22:01]: ***  [, Level 0]: New record: 2 minute(s) 48.66 second(s) better.
 [2021-04-19 08:22:02]: ***  [, Level 0]: 'im_cloud_' finished the special race!
+[2021-04-19 08:22:05]:   [, Level 0]: Yoshi: H0dƌƔ1: pls help
+[2021-04-19 08:22:06]: ***  [, Level 0]: [D] im_cloud_ finished in: 6 minute(s) 59.18 second(s)
+[2021-04-19 08:22:06]: ***  [, Level 0]: '[D] im_cloud_' finished the special race!
+[2021-04-19 08:22:12]: ***  [, Level 0]: '(2)Salut' entered and joined the game
+[2021-04-19 08:22:15]:   [, Level 0]: H0dƌƔ1: (1)|HolyHo|°:
