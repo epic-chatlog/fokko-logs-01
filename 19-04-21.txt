@@ -10912,3 +10912,5 @@
 [2021-04-19 08:37:51]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-19 08:37:55]: ***  [, Level 0]: 'Bok isa ben' changed name to ':D'
 [2021-04-19 08:38:05]: ***  [, Level 0]: 'comic' has left the game
+[2021-04-19 08:38:22]: sun.slow(y) [FookinLads, Level 35]: Lucifero: peinlicher
+[2021-04-19 08:38:23]: ***  [, Level 0]: 'woona' entered and joined the game
