@@ -21073,3 +21073,5 @@
 [2021-04-18 18:24:24]: nar [ComRoach, Level 19]: Black: 3ndk ansta
 [2021-04-18 18:24:28]: Avenue [мαιи, Level 0]: (1)☺:  pleaz
 [2021-04-18 18:24:35]: Black [, Level 0]: nar:  saud570
+[2021-04-18 18:24:36]: ***  [, Level 0]: 'fomjn' entered and joined the game
+[2021-04-18 18:24:36]: ***  [, Level 0]: 'fomjn' has left the game
