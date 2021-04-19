@@ -558,3 +558,10 @@
 [2021-04-19 00:39:20]: ***  [, Level 0]: 'emremarvan' joined the game
 [2021-04-19 00:39:28]: ***  [, Level 0]: 'Çağan' joined the game
 [2021-04-19 00:39:29]: #5 blocker [|*MorE*|, Level 0]: Random Guy: i reconnecting save my jetpack
+[2021-04-19 00:39:33]: rexi [, Level 0]: ChillerDragon: wir haben kein war nur er hat war mit dir
+[2021-04-19 00:39:35]: ***  [, Level 0]: 'Çağan' has left the game
+[2021-04-19 00:39:38]: ***  [, Level 0]: 'emremarvan' has left the game
+[2021-04-19 00:39:40]: ***  [, Level 0]: '[D] #5 blocker' has left the game
+[2021-04-19 00:39:40]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-19 00:39:42]: ***  [, Level 0]: '#5 blocker' entered and joined the game
+[2021-04-19 00:39:43]: SanoreX [Chilli.*, Level 27]: mamikral011: alamam
