@@ -16434,3 +16434,7 @@
 [2021-04-19 13:05:38]: . [TrRShClNrRs, Level 10]: |HolyHo|°: now
 [2021-04-19 13:05:39]: . [TrRShClNrRs, Level 10]: |HolyHo|°: look
 [2021-04-19 13:05:39]: ChillerDragon.* [|*KoG*|, Level 42]: i dont neutral |HolyHo|°
+[2021-04-19 13:05:48]: . [TrRShClNrRs, Level 10]: |HolyHo|°: wait
+[2021-04-19 13:05:49]: bob [, Level 36]: ChillerDragon: bereust du manchmal taser implementiert zu haben
+[2021-04-19 13:05:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-19 13:05:57]: . [TrRShClNrRs, Level 10]: |HolyHo|°: i cant putportal cuz they war rn .-.
