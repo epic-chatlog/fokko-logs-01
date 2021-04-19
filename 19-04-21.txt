@@ -417,3 +417,5 @@
 [2021-04-19 00:32:46]: Intensiv__ [, Level 0]: SanoreX:  üzüölü kekimi bırak
 [2021-04-19 00:32:54]: blektrik [, Level 0]: can i get a jetpack? pplsss
 [2021-04-19 00:33:01]: #5 blocker [|*MorE*|, Level 0]: SanoreX: dont work
+[2021-04-19 00:33:03]: SanoreX [Chilli.*, Level 27]: ChillerDragon: can I change server dummy skin color in cpp codes?
+[2021-04-19 00:33:09]: ChillerDragon.* [Chilli.*, Level 42]: yes
