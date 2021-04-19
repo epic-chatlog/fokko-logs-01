@@ -13848,3 +13848,5 @@
 [2021-04-19 11:05:00]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
 [2021-04-19 11:05:09]: galega [, Level 9]: SanoreX:
 [2021-04-19 11:05:20]: SanoreX [Chilli.*, Level 27]: (1)galega: ?
+[2021-04-19 11:05:28]: ***  [, Level 0]: el champeon's killing spree was ended by Santa Claus (5 blocks)
+[2021-04-19 11:05:29]: SanoreX [Chilli.*, Level 27]: galega: yes?
