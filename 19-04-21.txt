@@ -4851,3 +4851,9 @@
 [2021-04-19 03:52:15]: [D]ϻɪɔʜɑʟ [404, Level 20]: give
 [2021-04-19 03:52:19]: GOLD [404, Level 40]: no
 [2021-04-19 03:52:24]: [D]ϻɪɔʜɑʟ [404, Level 20]: Kezo:
+[2021-04-19 03:52:24]: ***  [, Level 0]: BulgarianTee finished in: 1 minute(s) 37.54 second(s)
+[2021-04-19 03:52:24]: ***  [, Level 0]: New record:  2.32 second(s) better.
+[2021-04-19 03:52:26]: [D]ϻɪɔʜɑʟ [404, Level 20]: jetpack
+[2021-04-19 03:52:29]: fokkonaut [flawLess, Level 102]: wild 74 players
+[2021-04-19 03:52:30]: ***  [, Level 0]: 'sta' entered and joined the game
+[2021-04-19 03:52:30]: ***  [, Level 0]: '飛龍在天' entered and joined the game
