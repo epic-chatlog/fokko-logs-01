@@ -3,3 +3,6 @@
 [2021-04-19 00:00:16]: SanoreX.* [Chilli.*, Level 23]: ok
 [2021-04-19 00:00:18]: ***  [, Level 0]: 'SanoreX.*' started an auction on plot 11 for 1 money (plot expires on 20.04.2021 (19:00))
 [2021-04-19 00:00:18]: ***  [, Level 0]: Use '/plot buy 1 SanoreX.*' to buy the plot
+[2021-04-19 00:00:23]: ***  [, Level 0]: The plot auction by 'SanoreX.*' is cancelled
+[2021-04-19 00:00:27]: SanoreX.* [Chilli.*, Level 23]: omg Zerstrian
+[2021-04-19 00:00:30]: ***  [, Level 0]: 'Valesz' entered and joined the game
