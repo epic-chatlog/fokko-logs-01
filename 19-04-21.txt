@@ -13856,3 +13856,6 @@
 [2021-04-19 11:05:40]: Mista bombastic [TrRShClNrRs, Level 40]: np
 [2021-04-19 11:05:41]:   [, Level 0]: Santa Claus: el champeon: 500seg <3
 [2021-04-19 11:05:44]: shisui [, Level 0]: Santa Claus: <#
+[2021-04-19 11:05:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-19 11:05:54]: ***  [, Level 0]: 'CKA3A4NIK[NR]' has left the game (Timeout)
+[2021-04-19 11:05:58]: ***  [, Level 0]: el champeon is on a killing spree with 5 blocks
