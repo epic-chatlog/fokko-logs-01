@@ -21283,3 +21283,4 @@
 [2021-04-18 19:25:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-18 19:29:44]: ***  [, Level 0]: '(1)LeeK' entered and joined the game
 [2021-04-18 19:30:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-18 19:35:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
