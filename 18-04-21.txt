@@ -21215,3 +21215,5 @@
 [2021-04-18 18:57:02]: Black [, Level 26]: wt
 [2021-04-18 18:57:05]: Black [, Level 26]: ?
 [2021-04-18 18:57:09]: Black [, Level 26]: lyh
+[2021-04-18 18:57:30]: Black [, Level 26]: km 3mrk ezy
+[2021-04-18 18:57:36]: ezy [ComRoach, Level 23]: Black: 12
