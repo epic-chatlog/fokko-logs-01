@@ -6160,3 +6160,9 @@
 [2021-04-19 04:44:14]:   [, Level 0]: [D]ϻɪɔʜɑʟ: ERROR:
 [2021-04-19 04:44:18]:   [, Level 0]: El patron: xd
 [2021-04-19 04:44:19]:   [, Level 0]: ERROR,: . nop
+[2021-04-19 04:44:25]: . [TrRShClNrRs, Level 43]: ERROR: yes
+[2021-04-19 04:44:27]: at insan [freeporçay, Level 0]: Nagisa [H]:  nerdesin
+[2021-04-19 04:44:28]: . [TrRShClNrRs, Level 43]: ERROR: he attacked us
+[2021-04-19 04:44:28]:   [, Level 0]: ERROR,: nop
+[2021-04-19 04:44:28]: ***  [, Level 0]: 'awokado' entered and joined the game
+[2021-04-19 04:44:33]: Huutochka [, Level 10]: i think if i not save you or i save you, in both variants i get war
