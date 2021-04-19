@@ -18786,3 +18786,5 @@
 [2021-04-19 15:55:07]: ***  [, Level 0]: 'weqe' has left the game
 [2021-04-19 15:55:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-19 15:55:58]: ***  [, Level 0]: 'peach' has left the game
+[2021-04-19 15:56:30]: bob [, Level 36]: Black: i thought u quit
+[2021-04-19 15:56:31]: Intensiv_ [DogParty, Level 11]: 999 ms
