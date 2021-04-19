@@ -20904,3 +20904,4 @@
 [2021-04-18 17:44:10]: nar [ComRoach, Level 19]: Tommy:
 [2021-04-18 17:44:26]: Tommy [, Level 0]: ?
 [2021-04-18 17:44:41]: ***  [, Level 0]: 'coffee' entered and joined the game
+[2021-04-18 17:45:18]: ***  [, Level 0]: 'coffee' has left the game
