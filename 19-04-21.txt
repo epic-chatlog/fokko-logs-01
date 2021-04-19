@@ -8501,3 +8501,12 @@
 [2021-04-19 06:50:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-19 06:50:52]: sun.slow(y) [FookinLads, Level 35]: weqe: = Warum antwortest du mir nicht
 [2021-04-19 06:50:53]: ***  [, Level 0]: 'Minato/fr dumy' entered and joined the game
+[2021-04-19 06:50:54]: ***  [, Level 0]: 'Minato/fr dumy' has left the game
+[2021-04-19 06:50:56]: ***  [, Level 0]: ':Exec' has left the game
+[2021-04-19 06:50:56]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-19 06:50:57]: Flippēr [, Level 16]: ~DemoizL~: hii
+[2021-04-19 06:51:01]: ***  [, Level 0]: 'Minato/fr dumy' entered and joined the game
+[2021-04-19 06:51:01]: weqe [669, Level 13]: sun.slow(y): warum antwortest du mir nicht
+[2021-04-19 06:51:02]: ***  [, Level 0]: 'Minato/fr dumy' has left the game
+[2021-04-19 06:51:03]:   [, Level 0]: Kirito: (1)|HolyHo|°: why no help
+[2021-04-19 06:51:04]:   [, Level 0]: ~DemoizL~: Flippēr: hi ^^
