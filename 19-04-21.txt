@@ -16085,3 +16085,6 @@
 [2021-04-19 12:46:23]: ChillerDragon [Chilli.*, Level 45]: are u here teewar ?
 [2021-04-19 12:46:24]: Nagisa [H] [E8, Level 2]: düştüm
 [2021-04-19 12:46:25]: ChillerDragon [Chilli.*, Level 45]: i see u moving teewar
+[2021-04-19 12:46:30]: ***  [, Level 0]: '(1)Cylox' entered and joined the game
+[2021-04-19 12:46:36]: teewar [TrRShClNrRs, Level 0]: ChillerDragon: im eating
+[2021-04-19 12:46:38]: teewar [TrRShClNrRs, Level 0]: ChillerDragon: wassup
