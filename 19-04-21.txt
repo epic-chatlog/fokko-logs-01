@@ -12282,3 +12282,6 @@
 [2021-04-19 09:51:43]: SanoreX [Chilli.*, Level 27]: hep atıo beni
 [2021-04-19 09:51:43]: ***  [, Level 0]: 'Phox' has left the game
 [2021-04-19 09:51:45]: SanoreX [Chilli.*, Level 27]: uNOOBIE: gay
+[2021-04-19 09:51:49]: ṆḕẌṳS [Chilli.*, Level 0]: ERROR:
+[2021-04-19 09:51:50]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-19 09:51:57]: ***  [, Level 0]: 'jeder' has left the game
