@@ -21696,3 +21696,4 @@
 [2021-04-18 23:43:13]: Cacke [, Level 0]: klas: finish race
 [2021-04-18 23:43:28]: Cacke [, Level 0]: klas: want to do the race?
 [2021-04-18 23:43:42]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-18 23:44:11]: ϻɪɔʜɑʟ [Chilli.*, Level 24]: GO
