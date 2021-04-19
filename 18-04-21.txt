@@ -21243,3 +21243,4 @@
 [2021-04-18 19:05:11]: ezy [ComRoach, Level 23]: sikiş: fkr
 [2021-04-18 19:05:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-18 19:08:23]: ***  [, Level 0]: 'sammy' has left the game
+[2021-04-18 19:08:37]: Sokuş [, Level 0]: wait me
