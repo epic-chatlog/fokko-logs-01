@@ -21629,3 +21629,4 @@
 [2021-04-18 23:30:25]: ***  [, Level 0]: '(1)Ðream' entered and joined the game
 [2021-04-18 23:30:30]: ***  [, Level 0]: 'Luna' entered and joined the game
 [2021-04-18 23:30:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-18 23:31:09]: S Y T H N [, Level 37]: 1: learn2unfreezee
