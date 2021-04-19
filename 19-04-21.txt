@@ -6093,3 +6093,6 @@
 [2021-04-19 04:41:42]:   [, Level 0]: muliboy: SRY
 [2021-04-19 04:41:44]: [D] El patron [FookinLads, Level 24]: .: ez 45k
 [2021-04-19 04:41:46]: ***  [, Level 0]: 'Telefantastic' has left the game
+[2021-04-19 04:41:52]: . [TrRShClNrRs, Level 43]: El patron: wdym
+[2021-04-19 04:41:58]: ***  [, Level 0]: 'Mista bombastic' has left the game
+[2021-04-19 04:42:01]: ***  [, Level 0]: Cacke finished in: 2 minute(s) 14.74 second(s)
