@@ -520,3 +520,6 @@
 [2021-04-19 00:37:46]: Intensiv__ [, Level 0]: yapma
 [2021-04-19 00:37:47]: #5 blocker [|*MorE*|, Level 0]: SanoreX: look, fly
 [2021-04-19 00:37:51]: ***  [, Level 0]: 'Random Guy' entered and joined the game
+[2021-04-19 00:38:12]: SanoreX [Chilli.*, Level 27]: ChillerDragon: servertick 4 Targetx 3; Targety -10
+[2021-04-19 00:38:14]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-19 00:38:15]: Intensiv__ [, Level 0]: dgj qfgw
