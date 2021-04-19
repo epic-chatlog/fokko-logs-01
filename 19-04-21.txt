@@ -7992,3 +7992,5 @@
 [2021-04-19 06:24:31]: ***  [, Level 0]: el champeon is on a killing spree with 15 blocks
 [2021-04-19 06:24:44]: ***  [, Level 0]: 642. Kezo Time: 02:03.06, requested by Kezo
 [2021-04-19 06:24:46]: ***  [, Level 0]: 'SpeKtrum' has left the game
+[2021-04-19 06:24:55]: ***  [, Level 0]: 'SanoreX.*' would have timed out, but can use timeout protection now
+[2021-04-19 06:24:55]: ***  [, Level 0]: 'SanoreX' would have timed out, but can use timeout protection now
