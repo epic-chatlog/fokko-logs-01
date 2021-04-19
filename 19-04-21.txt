@@ -14277,3 +14277,6 @@
 [2021-04-19 11:26:44]: KeeperDragon [Chilli.*, Level 30]: XD
 [2021-04-19 11:26:47]: ***  [, Level 0]: 'artur xyz br' would have timed out, but can use timeout protection now
 [2021-04-19 11:26:55]: ***  [, Level 0]: 'bu' has left the game (Timeout)
+[2021-04-19 11:27:02]: SanoreX [Chilli.*, Level 27]: KeeperDragon: give me serwan
+[2021-04-19 11:27:06]: SanoreX [Chilli.*, Level 27]: or nvm
+[2021-04-19 11:27:11]: basoka [, Level 32]: YelloWorlD: jsuis juste la stp aide moi
