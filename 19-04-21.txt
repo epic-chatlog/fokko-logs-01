@@ -1407,3 +1407,7 @@
 [2021-04-19 01:13:54]: SanoreX [Chilli.*, Level 27]: werappon
 [2021-04-19 01:13:56]: SanoreX [Chilli.*, Level 27]: weapons
 [2021-04-19 01:13:56]: ***  [, Level 0]: 'emremarvan' joined the game
+[2021-04-19 01:14:02]: SanoreX [Chilli.*, Level 27]: .S L E E P Y': GİVE MU WEAPONS
+[2021-04-19 01:14:07]: ***  [, Level 0]: 'emremarvan' joined the spectators
+[2021-04-19 01:14:10]: SanoreX [Chilli.*, Level 27]: .S L E E P Y': GİVE MY WEAPONS
+[2021-04-19 01:14:12]: ***  [, Level 0]: 'emremarvan' joined the game
