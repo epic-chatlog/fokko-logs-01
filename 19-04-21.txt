@@ -5505,3 +5505,6 @@
 [2021-04-19 04:18:16]: ***  [, Level 0]: PoliceTee finished in: 23 minute(s) 58.02 second(s)
 [2021-04-19 04:18:19]: Raidon [, Level 24]: SanoreX: go inf jump dummy felan hespini al
 [2021-04-19 04:18:20]: vollesprit [, Level 1]: Falco642 but i had 3000 and now there is just 700 ! how is it possible
+[2021-04-19 04:18:21]:   [, Level 0]: SanoreX.*: ok
+[2021-04-19 04:18:23]: [D]ϻɪɔʜɑʟ [DogParty, Level 20]: Falco641:
+[2021-04-19 04:18:28]: Falco642 [, Level 0]: vollesprit: you didnt deposit it
