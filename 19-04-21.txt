@@ -17909,3 +17909,5 @@
 [2021-04-19 14:36:36]: ***  [, Level 0]: 'Dinosaurio' entered and joined the game
 [2021-04-19 14:36:36]: K1ryuu [ÆSir , Level 0]: .: ?
 [2021-04-19 14:36:38]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-19 14:36:43]: ***  [, Level 0]: Zephir ツ is on a killing spree with 5 blocks
+[2021-04-19 14:36:45]: ***  [, Level 0]: 'K1ryuu' has left the game
