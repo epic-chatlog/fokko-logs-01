@@ -20987,3 +20987,4 @@
 [2021-04-18 18:05:04]: nar [ComRoach, Level 19]: Kirito: im  dont do ane then bob kill me and you
 [2021-04-18 18:05:16]: Kirito [{TQuila}, Level 41]: nar: yes we are bored xD
 [2021-04-18 18:05:30]: Kirito [{TQuila}, Level 41]: I am sooooo sorry for blocking you in a blocker server :o
+[2021-04-18 18:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
