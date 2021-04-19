@@ -7043,3 +7043,7 @@
 [2021-04-19 05:10:53]: PoliceTee [PoliceForce, Level 38]: JustRace: WTF IS UR PROBLEM
 [2021-04-19 05:11:02]: Minato/fr dumy [Limoncello, Level 6]: can i test?
 [2021-04-19 05:11:02]:   [, Level 0]: avioocals: grenade
+[2021-04-19 05:11:05]: ***  [, Level 0]: [D] Nudelsaft c is on a killing spree with 5 blocks
+[2021-04-19 05:11:07]: ***  [, Level 0]: 'Jerry' entered and joined the game
+[2021-04-19 05:11:10]:   [, Level 0]: Zam: cat: U dislike him too?
+[2021-04-19 05:11:12]: power [TrRShClNrRs, Level 0]: cuddle me JustRace
