@@ -50,3 +50,6 @@
 [2021-04-19 00:03:17]: SanoreX.* [Chilli.*, Level 23]: xD
 [2021-04-19 00:03:19]: ***  [, Level 0]: '[D] blektrik' entered and joined the game
 [2021-04-19 00:03:21]: (1)Zerstrian [, Level 42]: happens quite often
+[2021-04-19 00:03:26]: ***  [, Level 0]: '[D] blektrik' has left the game
+[2021-04-19 00:03:35]: SanoreX.* [Chilli.*, Level 23]: I cant leave here
+[2021-04-19 00:03:35]: 1 [, Level 18]: he
