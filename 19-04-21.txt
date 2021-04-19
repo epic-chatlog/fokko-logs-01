@@ -2738,3 +2738,5 @@
 [2021-04-19 02:12:15]:   [, Level 0]: Taip: sal
 [2021-04-19 02:12:17]: Dilara [, Level 0]: GODLIKe:
 [2021-04-19 02:12:18]:   [, Level 0]: Taip: bizi öldürsün
+[2021-04-19 02:12:22]:   [, Level 0]: Taip: wanted girsin
+[2021-04-19 02:12:22]: [D] mamikral011 [DogParty, Level 0]: power: ?
