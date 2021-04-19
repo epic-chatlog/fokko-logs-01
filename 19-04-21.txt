@@ -237,3 +237,6 @@
 [2021-04-19 00:19:15]: SanoreX [Chilli.*, Level 27]: [D] #5 blocker: ok
 [2021-04-19 00:19:17]: SanoreX [Chilli.*, Level 27]: tell him
 [2021-04-19 00:19:19]: [D] #5 blocker [|*MorE*|, Level 0]: SanoreX: xd
+[2021-04-19 00:19:31]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-19 00:19:31]: ***  [, Level 0]: 'Jerry' has left the game
+[2021-04-19 00:19:36]: Meetiteusz [TrRShClNrRs, Level 28]: 1: If you wanna go out hold a
