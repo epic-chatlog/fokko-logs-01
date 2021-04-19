@@ -173,3 +173,7 @@
 [2021-04-19 00:12:27]: SanoreX.* [Chilli.*, Level 23]: oha
 [2021-04-19 00:12:30]: SanoreX.* [Chilli.*, Level 23]: 2 0
 [2021-04-19 00:12:30]: Random Guy [, Level 40]: 1: left up
+[2021-04-19 00:13:05]: Random Guy [, Level 40]: Zerstrian: left up
+[2021-04-19 00:13:06]: SanoreX.* [Chilli.*, Level 23]: ag
+[2021-04-19 00:13:07]: SanoreX.* [Chilli.*, Level 23]: lag
+[2021-04-19 00:13:08]: SanoreX.* [Chilli.*, Level 23]: bekle
