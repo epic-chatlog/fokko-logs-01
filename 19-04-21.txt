@@ -10977,3 +10977,7 @@
 [2021-04-19 08:42:12]: csibeffasirt [, Level 0]: ASSHOLE
 [2021-04-19 08:42:12]: ***  [, Level 0]: 'КЧАУ)))' entered and joined the game
 [2021-04-19 08:42:13]: ***  [, Level 0]: 'türk yenilmez)' has left the game
+[2021-04-19 08:42:19]: ***  [, Level 0]: 'OwO' has left the game
+[2021-04-19 08:42:23]: ***  [, Level 0]: 'OwO' entered and joined the game
+[2021-04-19 08:42:23]: ***  [, Level 0]: 'Hello' entered and joined the game
+[2021-04-19 08:42:27]: ***  [, Level 0]: 'Hello' has left the game
