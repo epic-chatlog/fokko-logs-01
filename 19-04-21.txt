@@ -17019,3 +17019,8 @@
 [2021-04-19 13:49:58]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-19 13:50:01]: ZEWO [, Level 0]: Cylox: sanorex benim kuzenim
 [2021-04-19 13:50:03]: . [TrRShClNrRs, Level 10]: Sayme: and you'll find your default
+[2021-04-19 13:50:06]: (1)Sayme [, Level 0]: .: why? I tried, 300 looks cool
+[2021-04-19 13:50:12]: . [TrRShClNrRs, Level 10]: Sayme: i use 250
+[2021-04-19 13:50:13]: . [TrRShClNrRs, Level 10]: Sayme: i use 350
+[2021-04-19 13:50:13]: ZEWO [, Level 0]: Cylox: sanorex benim kuzenim
+[2021-04-19 13:50:15]: . [TrRShClNrRs, Level 10]: Sayme: i use 350*
