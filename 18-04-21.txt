@@ -20613,3 +20613,6 @@
 [2021-04-18 17:03:54]: ERROR [404, Level 47]: dont touch me weqe zzz
 [2021-04-18 17:03:57]: ***  [, Level 0]: 'elpapuds' entered and joined the game
 [2021-04-18 17:04:02]: ***  [, Level 0]: 'xN0Zoro' entered and joined the game
+[2021-04-18 17:04:45]: ERROR' [404, Level 76]: say sorry
+[2021-04-18 17:04:48]: weqe [669, Level 13]: sorry
+[2021-04-18 17:04:48]: bob [, Level 36]: AHAHHAHAHAAH
