@@ -7032,3 +7032,9 @@
 [2021-04-19 05:10:22]: ***  [, Level 0]: 'Cylox' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-19 05:10:30]: PoliceTee [PoliceForce, Level 38]: JustRace: nobo let me farmmmm
 [2021-04-19 05:10:39]: PoliceTee [PoliceForce, Level 38]: Isegrin: POLSKI KURWA HELP
+[2021-04-19 05:10:42]: ***  [, Level 0]: 'Cylox' left the minigame 'Survival'
+[2021-04-19 05:10:45]: GODLIKe [, Level 44]: JWIPEOKQE
+[2021-04-19 05:10:46]:   [, Level 0]: Isegrin: BLIEET
+[2021-04-19 05:10:46]: PoliceTee [PoliceForce, Level 38]: JustRace: E
+[2021-04-19 05:10:48]: [D]ϻɪɔʜɑʟ [DogParty, Level 20]: good
+[2021-04-19 05:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
