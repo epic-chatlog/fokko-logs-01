@@ -21839,3 +21839,5 @@
 [2021-04-18 23:56:04]: Luna [, Level 0]: thx
 [2021-04-18 23:56:06]: ***  [, Level 0]: 'ZEWO' entered and joined the game
 [2021-04-18 23:56:06]: SanoreX [Chilli.*, Level 27]: np
+[2021-04-18 23:56:15]: #5 blocker [|*MorE*|, Level 0]: come inf jump
+[2021-04-18 23:56:22]: SanoreX.* [Chilli.*, Level 23]: wait
