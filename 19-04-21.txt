@@ -5079,3 +5079,7 @@
 [2021-04-19 04:01:29]:   [, Level 0]: vollesprit: ah
 [2021-04-19 04:01:32]: [D]ϻɪɔʜɑʟ [DogParty, Level 20]: ok i am
 [2021-04-19 04:01:32]:   [, Level 0]: vollesprit: and there
+[2021-04-19 04:01:36]: ***  [, Level 0]: 'kristalik25' entered and joined the game
+[2021-04-19 04:01:37]:   [, Level 0]: Falco642: vollesprit: you ever noticed that rainbow line above spawn?
+[2021-04-19 04:01:42]:   [, Level 0]: vollesprit: yes
+[2021-04-19 04:01:43]: ***  [, Level 0]: 'BULLETBOT' has left the game
