@@ -12745,3 +12745,6 @@
 [2021-04-19 10:11:17]:   [, Level 0]: uNOOBIE: ChillerDragon.*: hm man könnte das ruhig mal fixxen :D client und server side
 [2021-04-19 10:11:18]: ChillerDragon [|*KoG*|, Level 45]: uNOOBIE: I am currently afk.
 [2021-04-19 10:11:28]: SanoreX [Chilli.*, Level 27]: Kirito: can you come plot 11 --__-- pls
+[2021-04-19 10:11:50]: ***  [, Level 0]: '[D] El patron' has left the game
+[2021-04-19 10:11:50]: ***  [, Level 0]: 'El patron' has left the game
+[2021-04-19 10:11:53]: ***  [, Level 0]: '(1)soleri1' has left the game
