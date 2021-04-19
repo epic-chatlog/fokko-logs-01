@@ -11123,3 +11123,8 @@
 [2021-04-19 08:49:05]: ***  [, Level 0]: 'ṆḕẌṳS' has left the game
 [2021-04-19 08:49:05]: ***  [, Level 0]: '[D] ṆḕẌ�' has left the game
 [2021-04-19 08:49:05]: [D] El patron [FookinLads, Level 24]: lomination: ok
+[2021-04-19 08:49:10]: ***  [, Level 0]: 'X' has left the game
+[2021-04-19 08:49:11]: ERROR [404, Level 47]: ChillerDragon.*:
+[2021-04-19 08:49:11]: ChillerDragon.* [Chilli.*, Level 42]: ERROR: I am currently afk.
+[2021-04-19 08:49:14]: ERROR [404, Level 47]: ChillerDragon
+[2021-04-19 08:49:16]: ChillerDragon.* [Chilli.*, Level 42]: ERROR: I am currently afk.
