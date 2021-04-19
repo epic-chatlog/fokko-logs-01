@@ -20677,3 +20677,6 @@
 [2021-04-18 17:09:53]: Black [, Level 0]: bob:  weqe  wait in bank
 [2021-04-18 17:10:21]: Black [, Level 0]: bob:  ATOP come baNK
 [2021-04-18 17:10:38]: Black [, Level 0]: bob:  weqe
+[2021-04-18 17:10:46]: Black [, Level 0]: comee
+[2021-04-18 17:10:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-18 17:10:52]: ERROR [404, Level 47]: xD
