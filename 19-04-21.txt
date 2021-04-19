@@ -11296,3 +11296,6 @@
 [2021-04-19 09:01:40]: H0dƌƔ1 [ℋero, Level 28]: wtf
 [2021-04-19 09:01:42]: [D] El patron [FookinLads, Level 24]: sun.slow(y): xd
 [2021-04-19 09:01:52]: SkyForge [, Level 22]: H0dƌƔ1:  if you help him we have war
+[2021-04-19 09:01:54]: ***  [, Level 0]: 'voldnen' has left the game (Timeout Protection over)
+[2021-04-19 09:02:02]: ***  [, Level 0]: 'fluffrit' joined the spectators
+[2021-04-19 09:02:05]: ***  [, Level 0]: 'fluffrit' joined the game
