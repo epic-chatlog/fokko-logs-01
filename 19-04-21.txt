@@ -17012,3 +17012,5 @@
 [2021-04-19 13:49:37]: -:-|ML [, Level 0]: bob: i am trying
 [2021-04-19 13:49:37]: . [TrRShClNrRs, Level 10]: Sayme: the default is around 400-500 idk
 [2021-04-19 13:49:40]: [D] Cylox [{TQuila}, Level 25]: az
+[2021-04-19 13:49:42]: bob [, Level 36]: Cylox: good night
+[2021-04-19 13:49:51]: . [TrRShClNrRs, Level 10]: Sayme: try 350, 400, 450, 500
