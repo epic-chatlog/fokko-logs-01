@@ -13501,3 +13501,9 @@
 [2021-04-19 10:50:41]: [D] Cylox [{TQuila}, Level 25]: sadjhvfdsbü
 [2021-04-19 10:50:43]: ***  [, Level 0]: 'UOYKCUFI' has left the game (Timeout)
 [2021-04-19 10:50:46]: Sayme [, Level 0]: basoka: wake up
+[2021-04-19 10:50:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 10:50:51]: ***  [, Level 0]: shisui is on a killing spree with 5 blocks
+[2021-04-19 10:50:52]: SanoreX [Chilli.*, Level 27]: [D] Cylox:
+[2021-04-19 10:50:57]: SanoreX [Chilli.*, Level 27]: ṆḕẌṳS: gek
+[2021-04-19 10:50:57]: ***  [, Level 0]: 'BC|serwan' entered and joined the game
+[2021-04-19 10:50:58]:   [, Level 0]: CKA3A4NIK[NR]: El patron: Stop it pls
