@@ -21057,3 +21057,5 @@
 [2021-04-18 18:20:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-18 18:20:52]: Kirito [{TQuila}, Level 41]: bob: hurensohn
 [2021-04-18 18:20:59]: Kirito [{TQuila}, Level 41]: fick dich guck nichts so
+[2021-04-18 18:21:17]: ezy [ComRoach, Level 23]: Black: ant my father
+[2021-04-18 18:21:26]: Black [, Level 0]: what
