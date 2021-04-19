@@ -8697,3 +8697,6 @@
 [2021-04-19 06:58:53]: ***  [, Level 0]: 'sun.slow(y)' has left the game
 [2021-04-19 06:58:56]: Intensiv [DogParty, Level 17]: mami nerdesin
 [2021-04-19 06:58:56]: SkyForge [, Level 22]: #5 blocker:  back
+[2021-04-19 06:58:59]: ***  [, Level 0]: Lucas finished in: 3 minute(s) 11.78 second(s)
+[2021-04-19 06:59:03]:   [, Level 0]: mamikral011: (1)Cosmo: :DD
+[2021-04-19 06:59:04]: SkyForge [, Level 22]: Huutochka:  back
