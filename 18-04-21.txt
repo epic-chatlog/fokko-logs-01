@@ -20917,3 +20917,4 @@
 [2021-04-18 17:49:21]: ***  [, Level 0]: 'Ferozito' entered and joined the game
 [2021-04-18 17:50:27]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-18 17:50:37]: ezy [ComRoach, Level 23]: lag
+[2021-04-18 17:50:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
