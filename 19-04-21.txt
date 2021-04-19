@@ -5282,3 +5282,5 @@
 [2021-04-19 04:08:52]: ***  [, Level 0]: 'Mista bombastic' has left the game (Timeout)
 [2021-04-19 04:08:53]:   [, Level 0]: vollesprit: i did it
 [2021-04-19 04:08:56]: Raidon's Pet [, Level 20]: laser
+[2021-04-19 04:09:02]: Raidon's Pet [, Level 20]: SanoreX: follow
+[2021-04-19 04:09:09]: SanoreX [Chilli.*, Level 27]: Raidon: bana inf al
