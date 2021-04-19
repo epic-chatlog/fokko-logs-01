@@ -66,3 +66,7 @@
 [2021-04-19 00:04:44]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
 [2021-04-19 00:05:01]: ***  [, Level 0]: 'Noémi' has left the game (Timeout Protection over)
 [2021-04-19 00:05:13]: ***  [, Level 0]: '[D] #5 blocker' has left the game
+[2021-04-19 00:05:28]: ReXi [, Level 0]: (1)cat: dont
+[2021-04-19 00:05:31]: #5 blocker [|*MorE*|, Level 0]: blek
+[2021-04-19 00:05:33]: SanoreX.* [Chilli.*, Level 23]: yOUSEN: help or war
+[2021-04-19 00:05:35]: yOUSEN [, Level 0]: SanoreX:  sa
