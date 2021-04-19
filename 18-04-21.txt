@@ -21297,3 +21297,4 @@
 [2021-04-18 19:48:31]: ***  [, Level 0]: 'Vesorp' entered and joined the game
 [2021-04-18 19:50:05]: ***  [, Level 0]: 'ERROR' has left the game (Timeout Protection over)
 [2021-04-18 19:50:05]: ***  [, Level 0]: 'ERROR.' has left the game (Timeout Protection over)
+[2021-04-18 19:50:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
