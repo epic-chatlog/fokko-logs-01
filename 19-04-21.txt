@@ -12352,3 +12352,7 @@
 [2021-04-19 09:54:12]: ***  [, Level 0]: '(1)Cosmo' has left the game
 [2021-04-19 09:54:12]: ***  [, Level 0]: 'Cosmo' has left the game
 [2021-04-19 09:54:13]:   [, Level 0]: uNOOBIE: wow
+[2021-04-19 09:54:17]: ES [, Level 0]: (1)soleri1: war
+[2021-04-19 09:54:22]: mamikral011 [DogParty, Level 27]: El patron: war?
+[2021-04-19 09:54:23]: (1)soleri1 [, Level 0]: ES: war+
+[2021-04-19 09:54:27]:   [, Level 0]: uNOOBIE: ez
