@@ -5302,3 +5302,14 @@
 [2021-04-19 04:09:57]: SanoreX [Chilli.*, Level 27]: Raidon's Pet: aa
 [2021-04-19 04:09:58]: Ðream [TrRShClNrRs, Level 47]: xD
 [2021-04-19 04:10:01]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-19 04:10:02]: vollesprit [, Level 1]: same as you ?
+[2021-04-19 04:10:03]: ***  [, Level 0]: '#5 blocker' entered and joined the game
+[2021-04-19 04:10:04]: Raidon [, Level 24]: SanoreX.*: çıksana 2dk ordan
+[2021-04-19 04:10:04]: Falco641 [.bad, Level 20]: yes
+[2021-04-19 04:10:07]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-19 04:10:10]: ***  [, Level 0]: '[D] #5 blocker' entered and joined the game
+[2021-04-19 04:10:11]: Falco641 [.bad, Level 20]: wait
+[2021-04-19 04:10:12]: vollesprit [, Level 1]: yyeeeeey
+[2021-04-19 04:10:13]:   [, Level 0]: SanoreX.*: izle
+[2021-04-19 04:10:13]: Falco641 [.bad, Level 20]: i show u how easier
+[2021-04-19 04:10:14]: ***  [, Level 0]: 'Telefantastic' entered and joined the game
