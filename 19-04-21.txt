@@ -553,3 +553,8 @@
 [2021-04-19 00:39:08]: SanoreX [Chilli.*, Level 27]: ok
 [2021-04-19 00:39:10]: (1)Arktict [, Level 0]: WHYYYYYYYYYYYYYYYYYYYYYYYYYY
 [2021-04-19 00:39:15]: ***  [, Level 0]: 'emremarvan' joined the spectators
+[2021-04-19 00:39:18]: ***  [, Level 0]: 'Çağan' joined the spectators
+[2021-04-19 00:39:19]: ***  [, Level 0]: 'Arktict' has left the game (Timeout)
+[2021-04-19 00:39:20]: ***  [, Level 0]: 'emremarvan' joined the game
+[2021-04-19 00:39:28]: ***  [, Level 0]: 'Çağan' joined the game
+[2021-04-19 00:39:29]: #5 blocker [|*MorE*|, Level 0]: Random Guy: i reconnecting save my jetpack
