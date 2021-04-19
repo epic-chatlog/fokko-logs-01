@@ -7388,3 +7388,8 @@
 [2021-04-19 05:25:45]: ***  [, Level 0]: '(1)cat' has left the game
 [2021-04-19 05:25:45]: ***  [, Level 0]: 'cat' has left the game
 [2021-04-19 05:25:46]: ***  [, Level 0]: 'picasso' entered and joined the game
+[2021-04-19 05:25:48]: Andresss [Jewish, Level 1]: |HolyHo|:
+[2021-04-19 05:25:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 05:25:57]: Minato/fr dumy [Limoncello, Level 6]: xDDDD
+[2021-04-19 05:25:58]:   [, Level 0]: any²: Isegrin: fr ?
+[2021-04-19 05:25:59]: |HolyHo| [FookinLads, Level 19]: Andresss: i see u
