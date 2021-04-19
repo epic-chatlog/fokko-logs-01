@@ -8773,3 +8773,7 @@
 [2021-04-19 07:02:46]:   [, Level 0]: ☺: Kenshi™: slt
 [2021-04-19 07:02:51]: ***  [, Level 0]: '.Pe✡︎nut~*' has left the game
 [2021-04-19 07:02:53]: Kenshi™ [404, Level 35]: ☺: salut
+[2021-04-19 07:02:59]: ERROR [404, Level 47]: ☺ who were u before?
+[2021-04-19 07:02:59]: the last kozol [Anti ludi, Level 0]: how u fly
+[2021-04-19 07:03:01]: ***  [, Level 0]: 'gfk' entered and joined the game
+[2021-04-19 07:03:01]: ***  [, Level 0]: 'gfk' has left the game
