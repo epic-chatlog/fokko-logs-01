@@ -9929,3 +9929,8 @@
 [2021-04-19 07:48:48]:   [, Level 0]: any: x)
 [2021-04-19 07:48:51]: ***  [, Level 0]: 'fluffrit' joined the game
 [2021-04-19 07:48:53]: the last AMOGUS [Anti ludi, Level 0]: HELP ADMINS
+[2021-04-19 07:48:58]: ***  [, Level 0]: 'fluffrit' joined the spectators
+[2021-04-19 07:49:01]: the last AMOGUS [Anti ludi, Level 0]: I HAVE PUIZ
+[2021-04-19 07:49:02]: ***  [, Level 0]: 'fluffrit' joined the game
+[2021-04-19 07:49:04]: the last AMOGUS [Anti ludi, Level 0]: QUIZ
+[2021-04-19 07:49:08]: ***  [, Level 0]: any is on a killing spree with 5 blocks
