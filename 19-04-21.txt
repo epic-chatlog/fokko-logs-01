@@ -11128,3 +11128,4 @@
 [2021-04-19 08:49:11]: ChillerDragon.* [Chilli.*, Level 42]: ERROR: I am currently afk.
 [2021-04-19 08:49:14]: ERROR [404, Level 47]: ChillerDragon
 [2021-04-19 08:49:16]: ChillerDragon.* [Chilli.*, Level 42]: ERROR: I am currently afk.
+[2021-04-19 08:49:21]: ***  [, Level 0]: Sky is on a killing spree with 5 blocks
