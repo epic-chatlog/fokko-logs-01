@@ -215,3 +215,4 @@
 [2021-04-19 00:16:30]: SanoreX.* [Chilli.*, Level 23]: admin
 [2021-04-19 00:16:38]: [D] mamikral011 [DogParty, Level 0]: #5 blocker: come
 [2021-04-19 00:16:44]: ***  [, Level 0]: 'qKokzq' has left the game
+[2021-04-19 00:16:48]: SanoreX.* [Chilli.*, Level 23]: cat: u admin?
