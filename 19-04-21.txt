@@ -19468,3 +19468,7 @@
 [2021-04-19 16:51:42]: Tziys* [DogParty, Level 39]: ŞAYRO
 [2021-04-19 16:51:45]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-19 16:51:47]: ***  [, Level 0]: 'Zephir™' entered and joined the game
+[2021-04-19 16:51:54]: bob [, Level 36]: Shiro,: HELP
+[2021-04-19 16:51:57]: Shiro, [Whɪтє, Level 51]: BOB HELP
+[2021-04-19 16:51:59]: ***  [, Level 0]: 'Shiro,' has left the game
+[2021-04-19 16:51:59]: ***  [, Level 0]: Shiro.'s killing spree was ended by Zephir ツ (12 blocks)
