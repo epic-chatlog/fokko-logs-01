@@ -11343,3 +11343,5 @@
 [2021-04-19 09:07:03]: ***  [, Level 0]: 'fluffrit' joined the spectators
 [2021-04-19 09:07:06]: ***  [, Level 0]: 'fluffrit' joined the game
 [2021-04-19 09:07:11]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-19 09:07:21]:   [, Level 0]: |HolyHo|°: SkyForge: never
+[2021-04-19 09:07:28]: ***  [, Level 0]: 'sun.slow(y)' has left the game
