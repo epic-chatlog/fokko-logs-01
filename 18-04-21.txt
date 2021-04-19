@@ -21252,3 +21252,8 @@
 [2021-04-18 19:11:05]: sikiş [, Level 0]: yes me too
 [2021-04-18 19:11:10]: O.o [, Level 38]: bye ^^
 [2021-04-18 19:11:11]: sikiş [, Level 0]: thank you for game
+[2021-04-18 19:11:15]: O.o [, Level 38]: np
+[2021-04-18 19:11:15]: sikiş [, Level 0]: byee <3
+[2021-04-18 19:11:18]: ***  [, Level 0]: 'O.o' has left the game
+[2021-04-18 19:11:19]: ***  [, Level 0]: 'Sokuş' has left the game
+[2021-04-18 19:11:19]: ***  [, Level 0]: 'sikiş' has left the game
