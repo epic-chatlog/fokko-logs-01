@@ -5119,3 +5119,13 @@
 [2021-04-19 04:03:09]:   [, Level 0]: SanoreX.*: Raidon: gelcem yanına Coca alcak
 [2021-04-19 04:03:11]: (1)HuskyFloofle [Furry, Level 0]: sta: Wanna see a magic trick?
 [2021-04-19 04:03:13]: |HolyHo| [FookinLads, Level 19]: [D]ϻɪɔʜɑʟ: sorry then
+[2021-04-19 04:03:14]: satou [, Level 7]: Huutochka: >:D
+[2021-04-19 04:03:15]:   [, Level 0]: Huutochka: satou: omg, sorry xD
+[2021-04-19 04:03:17]:   [, Level 0]: Falco642: vollesprit: lol
+[2021-04-19 04:03:17]:   [, Level 0]: vollesprit: ah
+[2021-04-19 04:03:18]: Raidon's Pet [, Level 20]: SanoreX: bekliyom
+[2021-04-19 04:03:22]: Raidon's Pet [, Level 20]: hay an
+[2021-04-19 04:03:23]: |HolyHo| [FookinLads, Level 19]: [D]ϻɪɔʜɑʟ: ok war
+[2021-04-19 04:03:23]: [D]ϻɪɔʜɑʟ [DogParty, Level 20]: YelloWorlD: admin clan
+[2021-04-19 04:03:23]:   [, Level 0]: Falco642: vollesprit: wait dont reset
+[2021-04-19 04:03:23]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 10 blocks
