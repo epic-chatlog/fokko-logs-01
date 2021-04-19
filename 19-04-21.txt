@@ -14422,3 +14422,4 @@
 [2021-04-19 11:36:16]: YelloWorlD [DogParty, Level 57]: .: flag
 [2021-04-19 11:36:21]: ***  [, Level 0]: 'mathis' entered and joined the game
 [2021-04-19 11:36:21]: basoka [, Level 32]: El patron:
+[2021-04-19 11:36:26]: comic [comically, Level 15]: shotgun
