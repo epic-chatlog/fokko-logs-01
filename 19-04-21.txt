@@ -10791,3 +10791,7 @@
 [2021-04-19 08:29:44]: Intensiv [DogParty, Level 17]: hi
 [2021-04-19 08:29:47]: comic [comically, Level 15]: helo
 [2021-04-19 08:29:48]:   [, Level 0]: (1)☺: thx Yoshi
+[2021-04-19 08:29:50]: sharkz [, Level 45]: x
+[2021-04-19 08:29:54]: Intensiv [DogParty, Level 17]: where are you
+[2021-04-19 08:29:57]:   [, Level 0]: Lucifero: sharkz: rechts
+[2021-04-19 08:30:00]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
