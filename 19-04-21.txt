@@ -5160,3 +5160,8 @@
 [2021-04-19 04:04:12]: GOLD [404, Level 40]: BulgarianTee: hui
 [2021-04-19 04:04:12]:   [, Level 0]: BulgarianTee: GOLD: JUST LET ME COPY HIS SKIN AND I GO LISTEN TO MUSICCC
 [2021-04-19 04:04:14]: |HolyHo|° [FookinLads, Level 29]: YelloWorlD: help
+[2021-04-19 04:04:16]: ***  [, Level 0]: 'Intensiv_' has left the game
+[2021-04-19 04:04:20]: [D]ϻɪɔʜɑʟ [DogParty, Level 20]: very good
+[2021-04-19 04:04:20]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 20 blocks
+[2021-04-19 04:04:22]: Raidon [, Level 24]: SanoreX: sen endless gidebilirmisin
+[2021-04-19 04:04:24]:   [, Level 0]: Falco642: ok come
