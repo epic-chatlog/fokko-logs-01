@@ -16694,3 +16694,7 @@
 [2021-04-19 13:23:54]: (1), [TrRShClNrRs, Level 36]: |HolyHo|°: who will get out first
 [2021-04-19 13:23:57]: ***  [, Level 0]: 'weqe' entered and joined the game
 [2021-04-19 13:23:59]: (1), [TrRShClNrRs, Level 36]: |HolyHo|°: yea
+[2021-04-19 13:24:03]: (1), [TrRShClNrRs, Level 36]: |HolyHo|°: u dont respawn
+[2021-04-19 13:24:05]: Falco641 [.bad, Level 20]: sure
+[2021-04-19 13:24:06]: (1), [TrRShClNrRs, Level 36]: |HolyHo|°: u just go up
+[2021-04-19 13:24:08]: ***  [, Level 0]: 'weqe' has left the game
