@@ -10092,3 +10092,6 @@
 [2021-04-19 07:55:57]: ERROR' [404, Level 76]: AAAAAAAAAAAAAA
 [2021-04-19 07:55:58]: Coca [Drunks, Level 24]: не киляйся
 [2021-04-19 07:56:00]: ***  [, Level 0]: 'fluffrit' joined the game
+[2021-04-19 07:56:04]:   [, Level 0]: the last kozlik: НЕТ
+[2021-04-19 07:56:11]: ***  [, Level 0]: Outxe Solar is on a killing spree with 5 blocks
+[2021-04-19 07:56:11]:   [, Level 0]: the last kozlik: СУКА
