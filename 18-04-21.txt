@@ -20765,3 +20765,5 @@
 [2021-04-18 17:17:38]: Black [, Level 23]: weqe: bob  take me up
 [2021-04-18 17:17:46]: weqe [669, Level 13]: bob: are u retarded
 [2021-04-18 17:17:48]: weqe [669, Level 13]: I HAVE 0MONEY I SWEAR
+[2021-04-18 17:18:02]: Black [, Level 23]: bob: dont pls
+[2021-04-18 17:18:03]: weqe [669, Level 13]: bob stupid ?
