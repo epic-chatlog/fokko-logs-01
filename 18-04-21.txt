@@ -21524,3 +21524,4 @@
 [2021-04-18 23:09:08]: ***  [, Level 0]: 'Cacke' entered and joined the game
 [2021-04-18 23:10:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-18 23:10:52]: Krisnation2000 [OwO, Level 0]: coffee: ????
+[2021-04-18 23:13:08]: ***  [, Level 0]: Cacke finished in: 2 minute(s) 15.60 second(s)
