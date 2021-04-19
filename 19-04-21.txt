@@ -10411,3 +10411,8 @@
 [2021-04-19 08:11:07]: ***  [, Level 0]: 'fluffrit' joined the game
 [2021-04-19 08:11:10]: ***  [, Level 0]: '☣┆Kenshi™' changed name to 'Kenshi ツ'
 [2021-04-19 08:11:18]: [D] El patron [FookinLads, Level 24]: Kenshi ツ:
+[2021-04-19 08:11:22]: (1)Salut [, Level 25]: Kirito:  for farm exp
+[2021-04-19 08:11:23]: ***  [, Level 0]: '__init__(self):' has left the game
+[2021-04-19 08:11:23]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-19 08:11:26]: ***  [, Level 0]: 'Maxpro2212' entered and joined the game
+[2021-04-19 08:11:29]: ***  [, Level 0]: 'fluffrit' joined the spectators
