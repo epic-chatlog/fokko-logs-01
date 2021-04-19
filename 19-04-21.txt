@@ -5188,3 +5188,7 @@
 [2021-04-19 04:05:04]: Raidon [, Level 24]: SanoreX: plotlara 2. sekme ile gleiyom
 [2021-04-19 04:05:04]:   [, Level 0]: Falco642: vollesprit: no back
 [2021-04-19 04:05:05]: ***  [, Level 0]: f"{self.name}"'s killing spree was ended by flappy (26 blocks)
+[2021-04-19 04:05:10]: Raidon [, Level 24]: SanoreX: ordan alırsın beni
+[2021-04-19 04:05:12]:   [, Level 0]: vollesprit: sur ?
+[2021-04-19 04:05:13]:   [, Level 0]: sta: ı am turkısj
+[2021-04-19 04:05:13]:   [, Level 0]: Falco642: vollesprit: go back
