@@ -7074,3 +7074,8 @@
 [2021-04-19 05:12:09]: [D]ϻɪɔʜɑʟ [DogParty, Level 20]: fk
 [2021-04-19 05:12:13]:   [, Level 0]: BulgarianTee: Isegrin: u
 [2021-04-19 05:12:13]: [D]ϻɪɔʜɑʟ [DogParty, Level 20]: thx bro
+[2021-04-19 05:12:19]: Nightmare [, Level 0]: np np
+[2021-04-19 05:12:21]: ***  [, Level 0]: 'Henri' entered and joined the game
+[2021-04-19 05:12:29]: Minato/fr dumy [Limoncello, Level 6]: Nightmare: do u have inf jump?
+[2021-04-19 05:12:29]: ***  [, Level 0]: 'SanoreX' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-19 05:12:30]: ***  [, Level 0]: 'SanoreX' left the minigame 'Survival'
