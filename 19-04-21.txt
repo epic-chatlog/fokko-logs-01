@@ -4933,3 +4933,7 @@
 [2021-04-19 03:55:55]: ***  [, Level 0]: HuskyFloofles is on a killing spree with 10 blocks
 [2021-04-19 03:56:03]: ϻɪɔʜɑʟ [DogParty, Level 24]: YelloWorlD: omg player like your clan
 [2021-04-19 03:56:12]: ***  [, Level 0]: 'f"{self.name}"51' entered and joined the game
+[2021-04-19 03:56:21]: ***  [, Level 0]: 'f"{self.name}"51' has left the game
+[2021-04-19 03:56:26]: ***  [, Level 0]: 'Falco642' entered and joined the game
+[2021-04-19 03:56:27]:   [, Level 0]: vollesprit: Falco641 hi
+[2021-04-19 03:56:30]: any [404, Level 38]: |HolyHo|: stop help .
