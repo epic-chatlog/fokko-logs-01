@@ -18689,3 +18689,4 @@
 [2021-04-19 15:40:36]: Intensiv_ [DogParty, Level 11]: sun.slow(y): türkmüsün
 [2021-04-19 15:40:38]: ***  [, Level 0]: 'rdkay' entered and joined the game
 [2021-04-19 15:40:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-19 15:40:59]: Intensiv_ [DogParty, Level 11]: sun.slow(y): müslümanmısın
