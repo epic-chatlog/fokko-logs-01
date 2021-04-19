@@ -19140,3 +19140,6 @@
 [2021-04-19 16:25:34]: bob [, Level 36]: go
 [2021-04-19 16:25:37]: •Slowy [DogParty, Level 41]: i have now shiro papa
 [2021-04-19 16:25:38]: Zephir ツ [404, Level 40]: TL|ŦƹƦ$ŦǾN: •Slowy are kezo
+[2021-04-19 16:25:42]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0addwar Kezo
+[2021-04-19 16:25:45]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0addwar SAUD
+[2021-04-19 16:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
