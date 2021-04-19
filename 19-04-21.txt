@@ -58,3 +58,5 @@
 [2021-04-19 00:03:46]: ***  [, Level 0]: 'Terra' has left the game
 [2021-04-19 00:03:46]: ***  [, Level 0]: 'Luna' has left the game
 [2021-04-19 00:03:47]: 1 [, Level 18]: vs
+[2021-04-19 00:03:49]: SanoreX [Chilli.*, Level 27]: x
+[2021-04-19 00:03:54]: SanoreX.* [Chilli.*, Level 23]: AA
