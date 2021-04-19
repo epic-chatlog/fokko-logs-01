@@ -1610,3 +1610,5 @@
 [2021-04-19 01:25:04]: mamikral011 [DogParty, Level 27]: emi
 [2021-04-19 01:25:06]: Vesorp [666, Level 26]: power:
 [2021-04-19 01:25:13]: Vesorp [666, Level 26]: why
+[2021-04-19 01:25:20]: Vesorp [666, Level 26]: power:
+[2021-04-19 01:25:22]: Arktict [, Level 31]: endless
