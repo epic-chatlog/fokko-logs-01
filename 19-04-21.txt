@@ -11000,3 +11000,5 @@
 [2021-04-19 08:43:18]: ***  [, Level 0]: 'cunt' entered and joined the game
 [2021-04-19 08:43:19]: ***  [, Level 0]: 'КЧАУ)))' has left the game
 [2021-04-19 08:43:22]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-19 08:43:41]: ***  [, Level 0]: 'Vertex' has left the game (Timeout Protection over)
+[2021-04-19 08:43:41]: ***  [, Level 0]: 'Outxe Solar' has left the game (Timeout Protection over)
