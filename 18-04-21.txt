@@ -21079,3 +21079,5 @@
 [2021-04-18 18:25:01]: Kirito [{TQuila}, Level 41]: Black: NO
 [2021-04-18 18:25:17]: Black [, Level 0]: i must to Kirito
 [2021-04-18 18:25:25]: (1)Kirito [, Level 27]: ez
+[2021-04-18 18:25:49]: Kirito [{TQuila}, Level 41]: bob: DU VERFICKTER VERRÄTER
+[2021-04-18 18:25:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
