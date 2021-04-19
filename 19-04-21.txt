@@ -4530,3 +4530,8 @@
 [2021-04-19 03:39:19]: ϻɪɔʜɑʟ [Chilli.*, Level 24]: YelloWorlD: why
 [2021-04-19 03:39:21]: mamikral011 [DogParty, Level 22]: Mista bombastic: what no u killed me
 [2021-04-19 03:39:21]: Intensiv_ [, Level 11]: mamikral011:  help
+[2021-04-19 03:39:23]: BULLETBOT [, Level 0]: YelloWorlD:
+[2021-04-19 03:39:25]: BULLETBOT [, Level 0]: wh
+[2021-04-19 03:39:27]: |HolyHo| [FookinLads, Level 19]: ChillerDragon: im listening
+[2021-04-19 03:39:27]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-19 03:39:33]: ***  [, Level 0]: 'vollesprit' entered and joined the game
