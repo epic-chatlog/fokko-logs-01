@@ -21177,3 +21177,4 @@
 [2021-04-18 18:50:09]: Black [, Level 26]: oh so req
 [2021-04-18 18:50:16]: ezy [ComRoach, Level 23]: خاص
 [2021-04-18 18:50:35]: Black [, Level 26]: قبلتك
+[2021-04-18 18:50:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
