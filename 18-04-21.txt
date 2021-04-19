@@ -21570,3 +21570,5 @@
 [2021-04-18 23:22:44]: ***  [, Level 0]: 'coffee' has left the game
 [2021-04-18 23:22:47]: [D]ϻɪɔʜɑʟ [Chilli.*, Level 20]: go
 [2021-04-18 23:22:54]: ***  [, Level 0]: 'Terra' entered and joined the game
+[2021-04-18 23:23:08]: #5 blocker [|*MorE*|, Level 0]: come
+[2021-04-18 23:23:08]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
