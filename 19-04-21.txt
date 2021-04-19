@@ -17047,3 +17047,5 @@
 [2021-04-19 13:52:00]: bob [, Level 36]: HeavyGeneral:
 [2021-04-19 13:52:01]: ***  [, Level 0]: 'Bendy' entered and joined the game
 [2021-04-19 13:52:13]: (1)ZEWO [, Level 0]: bob: open portal superrom plz
+[2021-04-19 13:52:24]: bob [, Level 36]: (1)ZEWO: iam police
+[2021-04-19 13:52:31]: (1)ZEWO [, Level 0]: bob: oky
