@@ -20628,3 +20628,6 @@
 [2021-04-18 17:05:38]: ***  [, Level 0]: 'xN0Zoro D' entered and joined the game
 [2021-04-18 17:05:44]: bob [, Level 36]: weqe: NOW u war
 [2021-04-18 17:05:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-18 17:05:55]: weqe [669, Level 13]: SAY SORRY
+[2021-04-18 17:06:00]: bob [, Level 36]: weqe: u dead
+[2021-04-18 17:06:02]: ERROR, [404, Level 57]: u breaked
