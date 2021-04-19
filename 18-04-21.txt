@@ -21464,3 +21464,5 @@
 [2021-04-18 22:56:28]: ***  [, Level 0]: 'Not Zerstrian' entered and joined the game
 [2021-04-18 22:56:31]: Raidon's Pet [, Level 20]: hi
 [2021-04-18 22:57:13]: Raidon's Pet [, Level 20]: Zerstrian: can i help
+[2021-04-18 22:57:16]: Raidon's Pet [, Level 20]: ?
+[2021-04-18 22:57:27]: Zerstrian [, Level 52]: nahh all good
