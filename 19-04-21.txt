@@ -8797,3 +8797,8 @@
 [2021-04-19 07:03:50]: the last kozol [Anti ludi, Level 0]: what
 [2021-04-19 07:03:51]: the last kozol [Anti ludi, Level 0]: how
 [2021-04-19 07:03:53]: ERROR [404, Level 47]: login
+[2021-04-19 07:03:59]: ***  [, Level 0]: 'sharkz' entered and joined the game
+[2021-04-19 07:04:00]: the last kozol [Anti ludi, Level 0]: command?
+[2021-04-19 07:04:00]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-19 07:04:01]: Levi [, Level 0]: koro: no life?
+[2021-04-19 07:04:08]: Flippēr [, Level 16]: ?
