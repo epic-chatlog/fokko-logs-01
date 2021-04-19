@@ -7877,3 +7877,6 @@
 [2021-04-19 06:19:10]: ***  [, Level 0]: 'nenny' has left the game
 [2021-04-19 06:19:10]: Taip [VergleriSay, Level 19]: alo
 [2021-04-19 06:19:18]: SanoreX [Chilli.*, Level 27]: ZEWO: dummymi specle
+[2021-04-19 06:19:21]: SanoreX [Chilli.*, Level 27]: ZEWO: dummymi specle /spec SanoreX.*
+[2021-04-19 06:19:28]: SanoreX [Chilli.*, Level 27]: ZEWO: dummymi specle /spec SanoreX.*  bak plotta farm yapıyo
+[2021-04-19 06:19:31]: ZEWO [, Level 0]: ee
