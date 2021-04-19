@@ -3962,3 +3962,5 @@
 [2021-04-19 03:11:18]:   [, Level 0]: PoliceTee: Xddddd
 [2021-04-19 03:11:20]:   [, Level 0]: Raidon: ,: HOLLY HSIT STOP
 [2021-04-19 03:11:23]: . [TrRShClNrRs, Level 43]: Raidon's Pet: why?
+[2021-04-19 03:11:34]: Raidon's Pet [, Level 20]: any: help
+[2021-04-19 03:11:35]: . [TrRShClNrRs, Level 43]: Raidon: we just had war4life lol
