@@ -11138,3 +11138,7 @@
 [2021-04-19 08:50:10]: [D] El patron [FookinLads, Level 24]: |HolyHo|: wait
 [2021-04-19 08:50:23]: El patron [FookinLads, Level 31]: xd
 [2021-04-19 08:50:23]: Pornhub [, Level 0]: xd
+[2021-04-19 08:50:38]: ***  [, Level 0]: '(1)☺' has left the game (Timeout)
+[2021-04-19 08:50:38]: ***  [, Level 0]: '☺' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-19 08:50:39]: Pornhub [, Level 0]: ERROR:
+[2021-04-19 08:50:43]: ERROR [404, Level 47]: hm?
