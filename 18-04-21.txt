@@ -21672,3 +21672,4 @@
 [2021-04-18 23:37:36]: ***  [, Level 0]: (1)Zerstrian finished in: 2 minute(s) 20.18 second(s)
 [2021-04-18 23:37:47]: ϻɪɔʜɑʟ [Chilli.*, Level 24]: go
 [2021-04-18 23:39:02]: ϻɪɔʜɑʟ [Chilli.*, Level 24]: #5 blocker: GO
+[2021-04-18 23:39:27]: #5 blocker [|*MorE*|, Level 0]: fu
