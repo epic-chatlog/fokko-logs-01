@@ -21077,3 +21077,4 @@
 [2021-04-18 18:24:36]: ***  [, Level 0]: 'fomjn' has left the game
 [2021-04-18 18:24:56]: nar [ComRoach, Level 19]: Black: gh---prq
 [2021-04-18 18:25:01]: Kirito [{TQuila}, Level 41]: Black: NO
+[2021-04-18 18:25:17]: Black [, Level 0]: i must to Kirito
