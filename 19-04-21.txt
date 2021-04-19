@@ -5414,3 +5414,9 @@
 [2021-04-19 04:14:43]: [D] #5 blocker [Chilli.*, Level 0]: Mista bombastic: segíts
 [2021-04-19 04:14:46]: PoliceTee [xSD7, Level 38]: SanoreX: i just want to farmmm :/
 [2021-04-19 04:14:47]: Falco641 [.bad, Level 20]: taser ammo
+[2021-04-19 04:14:49]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-19 04:14:50]: RM | Arin [Retard MNKY, Level 41]: WAIT THER
+[2021-04-19 04:14:55]:   [, Level 0]: SanoreX.*: Raidon: g g
+[2021-04-19 04:14:56]: Raidon's Pet [, Level 20]: PoliceTee: can help
+[2021-04-19 04:14:57]: Falco641 [.bad, Level 20]: there used to be xp bomb here
+[2021-04-19 04:14:58]: [D] #5 blocker [Chilli.*, Level 0]: [D]ϻɪɔʜɑʟ: help
