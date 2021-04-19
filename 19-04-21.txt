@@ -11363,3 +11363,7 @@
 [2021-04-19 09:08:36]: ***  [, Level 0]: 'Intensiv' has left the game (Timeout)
 [2021-04-19 09:08:41]: [D] Cylox [{TQuila}, Level 24]: np <3
 [2021-04-19 09:08:43]: Good man [Drunks, Level 33]: <3
+[2021-04-19 09:08:48]: ChillerDragon [Chilli.*, Level 45]: mach besser ERROR
+[2021-04-19 09:08:48]: ***  [, Level 0]: [D] El patron is on a killing spree with 10 blocks
+[2021-04-19 09:08:50]: ***  [, Level 0]: SkyForge is on a killing spree with 30 blocks
+[2021-04-19 09:08:53]: ***  [, Level 0]: '(1)Good man' finished the special race!
