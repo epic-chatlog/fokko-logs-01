@@ -21106,3 +21106,8 @@
 [2021-04-18 18:29:00]: (1)☺ [, Level 23]: what*
 [2021-04-18 18:29:18]: bob [, Level 36]: smiley man
 [2021-04-18 18:30:39]: Avenue [мαιи, Level 0]: bob help
+[2021-04-18 18:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-18 18:30:51]: (1)☺ [, Level 23]: bye bob i quit
+[2021-04-18 18:30:55]: bob [, Level 36]: wtf
+[2021-04-18 18:30:57]: bob [, Level 36]: u mean quit
+[2021-04-18 18:30:58]: bob [, Level 36]: leave or quit
