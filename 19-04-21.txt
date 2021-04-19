@@ -9918,3 +9918,5 @@
 [2021-04-19 07:48:25]: ***  [, Level 0]: 'Навальн�' entered and joined the game
 [2021-04-19 07:48:26]: ERROR [404, Level 47]: xD
 [2021-04-19 07:48:29]: ***  [, Level 0]: Pornhub is on a killing spree with 5 blocks
+[2021-04-19 07:48:39]: ERROR' [404, Level 76]: xD
+[2021-04-19 07:48:42]: ERROR' [404, Level 76]: ez snacks
