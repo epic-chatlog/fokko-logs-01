@@ -128,3 +128,5 @@
 [2021-04-19 00:09:12]: Bruh. [Blood Day, Level 5]: ne
 [2021-04-19 00:09:13]: Random Guy [, Level 40]: xd
 [2021-04-19 00:09:13]: Bruh. [Blood Day, Level 5]: ivit
+[2021-04-19 00:09:20]: yOUSEN [, Level 0]: rocket pls
+[2021-04-19 00:09:21]: SanoreX.* [Chilli.*, Level 23]: Bruh.: bind t "chat all; emote 4"
