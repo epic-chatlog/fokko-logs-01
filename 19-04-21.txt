@@ -19184,3 +19184,7 @@
 [2021-04-19 16:30:04]: Black [, Level 0]: I GO SLEEP
 [2021-04-19 16:30:22]: ***  [, Level 0]: 'Black' has left the game
 [2021-04-19 16:30:27]: •Slowy [DogParty, Level 41]: Zephir ツ: papa
+[2021-04-19 16:30:29]: ***  [, Level 0]: 'Killua' has left the game
+[2021-04-19 16:30:32]: •Slowy [DogParty, Level 41]: RQ
+[2021-04-19 16:30:37]: bob [, Level 36]: just rq  Zephir ツ
+[2021-04-19 16:30:40]: •Slowy [DogParty, Level 41]: say rq
