@@ -13105,3 +13105,6 @@
 [2021-04-19 10:30:59]: ***  [, Level 0]: 'Rem's dummy' has left the game
 [2021-04-19 10:31:01]: [D] Cylox [{TQuila}, Level 25]: help meü
 [2021-04-19 10:31:02]: ṆḕẌṳS [Chilli.*, Level 0]: help
+[2021-04-19 10:31:05]: ṆḕẌṳS [Chilli.*, Level 0]: Lucas:
+[2021-04-19 10:31:10]: [D] Cylox [{TQuila}, Level 25]: Mista bombastic:
+[2021-04-19 10:31:14]: [D] Cylox [{TQuila}, Level 25]: Mista bombastic: pls sped
