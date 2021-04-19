@@ -14769,3 +14769,8 @@
 [2021-04-19 11:51:33]: Hazel [, Level 0]: :D
 [2021-04-19 11:51:33]: ***  [, Level 0]: 'dozbord' entered and joined the game
 [2021-04-19 11:51:35]: SanoreX [Chilli.*, Level 27]: marcel: ha ha ha
+[2021-04-19 11:51:38]: ***  [, Level 0]: 'Hazel' has left the game
+[2021-04-19 11:51:38]: ***  [, Level 0]: 'Abu Jaffar' has left the game
+[2021-04-19 11:51:38]: ***  [, Level 0]: ### 'Rainbow Tee' !!WARNING!! ONE MORE PORTALS
+[2021-04-19 11:51:39]:   [, Level 0]: marcel: hehe
+[2021-04-19 11:51:39]: Intensiv_ [DogParty, Level 11]: stop
