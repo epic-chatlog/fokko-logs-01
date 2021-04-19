@@ -20589,3 +20589,4 @@
 [2021-04-18 16:58:30]: bob [, Level 36]: no
 [2021-04-18 16:58:40]: ERROR, [404, Level 57]: ist zuspät gern morgen wieder deal?
 [2021-04-18 17:00:16]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-18 17:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
