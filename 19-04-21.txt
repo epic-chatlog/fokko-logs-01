@@ -12209,3 +12209,6 @@
 [2021-04-19 09:48:47]: |HolyHo| [FookinLads, Level 19]: lagg <<
 [2021-04-19 09:48:57]: weqe [669, Level 13]: cookie: help
 [2021-04-19 09:49:01]: [D] Cylox [{TQuila}, Level 25]: ERROR: hii
+[2021-04-19 09:49:07]: SkyForge [, Level 22]: soleri1:  stop
+[2021-04-19 09:49:10]: SkyForge [, Level 22]: soleri1:  wth man
+[2021-04-19 09:49:15]: [D] Cylox [{TQuila}, Level 25]: ERROR: huuhu
