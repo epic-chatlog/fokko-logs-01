@@ -4815,3 +4815,7 @@
 [2021-04-19 03:50:39]: ***  [, Level 0]: 'Boti.' entered and joined the game
 [2021-04-19 03:50:41]: ***  [, Level 0]: 'f"{self.name}"' has left the game
 [2021-04-19 03:50:42]: ***  [, Level 0]: BULLETBOT is on a killing spree with 15 blocks
+[2021-04-19 03:50:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 03:50:51]:   [, Level 0]: ChillerDragon: fokkonaut: xd
+[2021-04-19 03:50:54]:   [, Level 0]: ChillerDragon: fokkonaut: describve
+[2021-04-19 03:50:55]: ***  [, Level 0]: 'Tziys*' changed name to 'Kezo's Slave'
