@@ -16950,3 +16950,6 @@
 [2021-04-19 13:45:06]: Cylox [{TQuila}, Level 32]: I LOVE U
 [2021-04-19 13:45:08]: . [TrRShClNrRs, Level 10]: bob: literally
 [2021-04-19 13:45:12]: . [TrRShClNrRs, Level 10]: bob: 70blocks away
+[2021-04-19 13:45:34]: . [TrRShClNrRs, Level 10]: Sayme: staying here
+[2021-04-19 13:45:41]: bob [, Level 36]: .: sorry i just read
+[2021-04-19 13:45:42]: . [TrRShClNrRs, Level 10]: Sayme: i can put portal this far:
