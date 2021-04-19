@@ -5067,3 +5067,5 @@
 [2021-04-19 04:00:50]:   [, Level 0]: vollesprit: hey
 [2021-04-19 04:00:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-19 04:00:56]: ***  [, Level 0]: GOLD is on a killing spree with 15 blocks
+[2021-04-19 04:00:58]:   [, Level 0]: vollesprit: Falco642 wait
+[2021-04-19 04:01:03]: Raidon [, Level 24]: Coca: wow
