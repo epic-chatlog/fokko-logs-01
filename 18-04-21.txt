@@ -21843,3 +21843,6 @@
 [2021-04-18 23:56:22]: SanoreX.* [Chilli.*, Level 23]: wait
 [2021-04-18 23:56:27]: klas [, Level 0]: race yes
 [2021-04-18 23:56:31]: SanoreX.* [Chilli.*, Level 23]: noooo
+[2021-04-18 23:56:35]: SanoreX.* [Chilli.*, Level 23]: Luna: wait
+[2021-04-18 23:56:38]: Luna [, Level 0]: ok
+[2021-04-18 23:56:43]: SanoreX [Chilli.*, Level 27]: spec me Luna
