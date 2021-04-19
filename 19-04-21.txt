@@ -1532,3 +1532,5 @@
 [2021-04-19 01:19:43]: GODLIKe [, Level 44]: |HolyHo|: yes
 [2021-04-19 01:19:46]: ***  [, Level 0]: 'Meliodas' entered and joined the game
 [2021-04-19 01:19:48]: |HolyHo| [FookinLads, Level 19]: GODLIKe.: pls help
+[2021-04-19 01:19:57]: ***  [, Level 0]: 'Meliodas' has left the game
+[2021-04-19 01:20:01]: mamikral011 [DogParty, Level 27]: Intensiv_: YO düşmanımsın
