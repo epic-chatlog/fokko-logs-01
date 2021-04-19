@@ -21620,3 +21620,5 @@
 [2021-04-18 23:28:57]: ***  [, Level 0]: '(1)Zerstrian' entered and joined the game
 [2021-04-18 23:29:04]: ***  [, Level 0]: '(1)Not Zerstrian' entered and joined the game
 [2021-04-18 23:29:30]: #5 blocker [|*MorE*|, Level 0]: Zerstrian: help
+[2021-04-18 23:29:52]: [D]ϻɪɔʜɑʟ [Chilli.*, Level 20]: #5 blocker: dummy?
+[2021-04-18 23:29:57]: #5 blocker [|*MorE*|, Level 0]: wait
