@@ -21236,3 +21236,4 @@
 [2021-04-18 19:00:32]: nar [ComRoach, Level 19]: wtf
 [2021-04-18 19:00:36]: nar [ComRoach, Level 19]: ERROR:
 [2021-04-18 19:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-18 19:00:56]: ***  [, Level 0]: 'Niyan07' has left the game
