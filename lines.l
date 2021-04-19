@@ -19,5 +19,5 @@
        3 README.md
        7 autocommit.sh
        6 getlines.sh
-      20 lines.l
-  250838 total
+      21 lines.l
+  250839 total
