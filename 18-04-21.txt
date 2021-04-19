@@ -21101,3 +21101,6 @@
 [2021-04-18 18:28:39]: bob [, Level 36]: smly man
 [2021-04-18 18:28:44]: roberk [, Level 0]: bob whwy are you fuck me
 [2021-04-18 18:28:49]: bob [, Level 36]: smiley man
+[2021-04-18 18:28:57]: bob [, Level 36]: hello
+[2021-04-18 18:28:58]: bob [, Level 36]: smiley man
+[2021-04-18 18:29:00]: (1)☺ [, Level 23]: what*
