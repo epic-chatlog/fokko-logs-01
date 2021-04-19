@@ -15196,3 +15196,9 @@
 [2021-04-19 12:10:15]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: 0logs
 [2021-04-19 12:10:18]: (1)Salut [, Level 25]: Falco642:  war
 [2021-04-19 12:10:18]: ***  [, Level 0]: 'thiago*_ *' joined the spectators
+[2021-04-19 12:10:25]: ***  [, Level 0]: 'thiago*_ *' joined the game
+[2021-04-19 12:10:27]: ***  [, Level 0]: 'DugPas' entered and joined the game
+[2021-04-19 12:10:31]: ***  [, Level 0]: 'DugPas' has left the game
+[2021-04-19 12:10:32]: Falco641 [.bad, Level 20]: (1)Salut: you were afking in everyones way
+[2021-04-19 12:10:35]: Falco641 [.bad, Level 20]: not my problem
+[2021-04-19 12:10:36]: Homosexualitee [TrRShClNrRs, Level 43]: ChillerDragon: yo
