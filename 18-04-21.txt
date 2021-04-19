@@ -21166,3 +21166,4 @@
 [2021-04-18 18:48:25]: Black [, Level 26]: enomaky
 [2021-04-18 18:48:41]: nar [ComRoach, Level 19]: rsltlk
 [2021-04-18 18:48:53]: sikiş [, Level 0]: help
+[2021-04-18 18:49:12]: ***  [, Level 0]: 'Blueberry' has left the game
