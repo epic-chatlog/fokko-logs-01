@@ -21175,3 +21175,4 @@
 [2021-04-18 18:50:02]: nar [ComRoach, Level 19]: 5as
 [2021-04-18 18:50:03]: Black [, Level 26]: nar: wsh
 [2021-04-18 18:50:09]: Black [, Level 26]: oh so req
+[2021-04-18 18:50:16]: ezy [ComRoach, Level 23]: خاص
