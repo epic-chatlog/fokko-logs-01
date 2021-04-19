@@ -6300,3 +6300,12 @@
 [2021-04-19 04:48:54]: ***  [, Level 0]: (1) finished in: 3 minute(s) 22.56 second(s)
 [2021-04-19 04:48:56]: ***  [, Level 0]: avioocals finished in: 3 minute(s) 35.28 second(s)
 [2021-04-19 04:48:56]: BC|Tixnix [BC, Level 35]: [D] Cylox: bro im so sorry
+[2021-04-19 04:48:57]:   [, Level 0]: ERROR': Kenshi™:  dummy <
+[2021-04-19 04:48:57]: ***  [, Level 0]: '[D] Hmm..' has left the game
+[2021-04-19 04:48:57]: ***  [, Level 0]: 'Hmm..' has left the game
+[2021-04-19 04:48:57]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-19 04:48:57]: Arktict [, Level 31]: BC|Tixnix: sure
+[2021-04-19 04:48:58]:   [, Level 0]: BulgarianTee: weqe: Brute is ceaser's son no?
+[2021-04-19 04:49:00]: HeavyGeneral [FookinLads, Level 44]: BulgarianTee: watafack xd
+[2021-04-19 04:49:01]: weqe [669, Level 13]: no
+[2021-04-19 04:49:07]: Minato / FR [Limoncello, Level 15]: Nagisa [H]: dont touch me pls i want farm ^^
