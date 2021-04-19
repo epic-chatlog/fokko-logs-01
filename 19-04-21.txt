@@ -5290,3 +5290,8 @@
 [2021-04-19 04:09:27]: vollesprit [, Level 1]: i forgot it...
 [2021-04-19 04:09:28]:   [, Level 0]: kristalik25: help
 [2021-04-19 04:09:32]: ***  [, Level 0]: Zephir™ is on a killing spree with 5 blocks
+[2021-04-19 04:09:41]: ***  [, Level 0]: '37' entered and joined the game
+[2021-04-19 04:09:41]: Raidon's Pet [, Level 20]: SanoreX: sen plotta kalabilirsin 2dk
+[2021-04-19 04:09:43]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-19 04:09:43]: Falco641 [.bad, Level 20]: wait
+[2021-04-19 04:09:47]: SanoreX [Chilli.*, Level 27]: Raidon: nie
