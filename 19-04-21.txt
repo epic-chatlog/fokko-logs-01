@@ -5339,3 +5339,5 @@
 [2021-04-19 04:11:11]: ***  [, Level 0]: '(1)ReXi' has left the game
 [2021-04-19 04:11:11]: Falco641 [.bad, Level 20]: I like turtles.
 [2021-04-19 04:11:12]: Falco642 [, Level 0]: wait
+[2021-04-19 04:11:18]: ölüm bekçisi [, Level 0]: rexii
+[2021-04-19 04:11:28]: ***  [, Level 0]: 'power' entered and joined the game
