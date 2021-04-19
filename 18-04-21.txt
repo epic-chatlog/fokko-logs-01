@@ -20606,3 +20606,5 @@
 [2021-04-18 17:02:53]: Kirito [{TQuila}, Level 41]: weqe: gay
 [2021-04-18 17:02:58]: weqe [669, Level 13]: )
 [2021-04-18 17:02:59]: bob [, Level 36]: yes
+[2021-04-18 17:03:28]: weqe [669, Level 13]: ERROR': he kill u
+[2021-04-18 17:03:36]: ERROR [404, Level 47]:  i see
