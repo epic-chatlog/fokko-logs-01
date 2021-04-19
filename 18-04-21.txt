@@ -21246,3 +21246,5 @@
 [2021-04-18 19:08:37]: Sokuş [, Level 0]: wait me
 [2021-04-18 19:10:29]: ERROR' [404, Level 76]: fr
 [2021-04-18 19:10:34]: ERROR' [404, Level 76]: stupid
+[2021-04-18 19:10:41]: nar [ComRoach, Level 19]: whi
+[2021-04-18 19:10:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
