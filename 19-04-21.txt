@@ -3760,3 +3760,10 @@
 [2021-04-19 03:00:45]: ***  [, Level 0]: 'Michel' entered and joined the game
 [2021-04-19 03:00:46]: ***  [, Level 0]: 626. Noémi Time: 01:53.22, requested by Noémi
 [2021-04-19 03:00:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-19 03:00:51]: Estarossa [, Level 0]: Nagisa [H]: plz help
+[2021-04-19 03:00:53]: ***  [, Level 0]: §piDDer/\/\an finished in: 20 minute(s) 55.30 second(s)
+[2021-04-19 03:00:55]: Intensiv_ [DogParty, Level 11]: help
+[2021-04-19 03:00:56]: ***  [, Level 0]: 'Dragon' entered and joined the game
+[2021-04-19 03:00:57]: Intensiv_ [DogParty, Level 11]: :(
+[2021-04-19 03:00:58]: ♥TAKO♥ [DogParty, Level 25]: mamikral011:  kral jet di hani
+[2021-04-19 03:01:02]: BULLETBOT [, Level 0]: I like turtles.
