@@ -12510,3 +12510,10 @@
 [2021-04-19 10:00:37]: ***  [, Level 0]: 'falkenauge' has left the game
 [2021-04-19 10:00:40]: ***  [, Level 0]: ṆḕẌṳS is on a killing spree with 15 blocks
 [2021-04-19 10:00:41]: cookie [, Level 21]: bob: no im realy
+[2021-04-19 10:00:44]: ***  [, Level 0]: 'mr7bac' has left the game
+[2021-04-19 10:00:45]:   [, Level 0]: bob: ChillerDragon: lagts gerade?
+[2021-04-19 10:00:47]: Ļåҕ Lobster [Ļåҕ, Level 34]: SanoreX: exactly
+[2021-04-19 10:00:48]: mamikral011 [DogParty, Level 27]: SanoreX: ne istion lan adamdan
+[2021-04-19 10:00:49]: ChillerDragon [|*KoG*|, Level 45]: jo ddos bob
+[2021-04-19 10:00:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-19 10:00:53]: SanoreX [Chilli.*, Level 27]: mamikral011: sanane
