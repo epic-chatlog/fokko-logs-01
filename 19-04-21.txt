@@ -10397,3 +10397,5 @@
 [2021-04-19 08:10:17]: ***  [, Level 0]: '(1)~DemoizL~' has left the game
 [2021-04-19 08:10:22]: Good man [Drunks, Level 33]: im dont need
 [2021-04-19 08:10:29]: Good man [Drunks, Level 33]: im already have it)
+[2021-04-19 08:10:31]: ***  [, Level 0]: 'fluffrit' joined the spectators
+[2021-04-19 08:10:35]: ***  [, Level 0]: 'fluffrit' joined the game
