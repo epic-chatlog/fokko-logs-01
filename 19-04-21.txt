@@ -18710,3 +18710,7 @@
 [2021-04-19 15:42:27]: HeavyGeneral [FookinLads, Level 76]: TL|ŦƹƦ$ŦǾN: littearly
 [2021-04-19 15:42:27]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: who tf u think u are
 [2021-04-19 15:42:29]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 0]: HeavyGeneral: stfu
+[2021-04-19 15:42:44]: ***  [, Level 0]: 'Kezo' started an auction on plot 4 for 1 money (plot expires on 25.04.2021 (00:00))
+[2021-04-19 15:42:44]: ***  [, Level 0]: Use '/plot buy 1 Kezo' to buy the plot
+[2021-04-19 15:42:45]: ***  [, Level 0]: Plot 4 has been bought by '♥TAKO♥'
+[2021-04-19 15:42:46]: ***  [, Level 0]: 'rdkay' has left the game
