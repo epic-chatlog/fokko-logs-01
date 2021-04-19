@@ -20772,3 +20772,6 @@
 [2021-04-18 17:18:13]: weqe [669, Level 13]: bob: I DONT HAVE IN WALLET
 [2021-04-18 17:18:16]: weqe [669, Level 13]: THEY ALL IN BANK
 [2021-04-18 17:18:17]: weqe [669, Level 13]: U DUMB ???
+[2021-04-18 17:18:19]: bob [, Level 36]: ok we go back bank ok
+[2021-04-18 17:18:24]: bob [, Level 36]: ok?
+[2021-04-18 17:18:27]: weqe [669, Level 13]: OK
