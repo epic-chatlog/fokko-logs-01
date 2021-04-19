@@ -21270,3 +21270,4 @@
 [2021-04-18 19:17:12]: ERROR' [404, Level 76]: yes
 [2021-04-18 19:17:15]: ***  [, Level 0]: 'nar' has left the game
 [2021-04-18 19:17:15]: ***  [, Level 0]: 'ezy' has left the game
+[2021-04-18 19:20:06]: ***  [, Level 0]: 'neko' entered and joined the game
