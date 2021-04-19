@@ -20903,3 +20903,4 @@
 [2021-04-18 17:43:51]: ***  [, Level 0]: New record: 15.64 second(s) better.
 [2021-04-18 17:44:10]: nar [ComRoach, Level 19]: Tommy:
 [2021-04-18 17:44:26]: Tommy [, Level 0]: ?
+[2021-04-18 17:44:41]: ***  [, Level 0]: 'coffee' entered and joined the game
