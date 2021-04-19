@@ -168,3 +168,5 @@
 [2021-04-19 00:12:08]: ***  [, Level 0]: 'qKokzq' entered and joined the game
 [2021-04-19 00:12:09]: SanoreX.* [Chilli.*, Level 23]: aa
 [2021-04-19 00:12:10]: 1 [, Level 18]: taserim yo
+[2021-04-19 00:12:15]: 1 [, Level 18]: taserim yok
+[2021-04-19 00:12:15]: Random Guy [, Level 40]: (1)cat:  up
