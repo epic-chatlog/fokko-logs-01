@@ -2742,3 +2742,6 @@
 [2021-04-19 02:12:22]: [D] mamikral011 [DogParty, Level 0]: power: ?
 [2021-04-19 02:12:35]: ***  [, Level 0]: M(Secret)M is on a killing spree with 5 blocks
 [2021-04-19 02:12:38]: ϻɪɔʜɑʟ [Chilli.*, Level 24]: nice pro
+[2021-04-19 02:12:47]: Cylox [{TQuila}, Level 32]: wtff
+[2021-04-19 02:12:52]: ***  [, Level 0]: M(Secret)M's killing spree was ended by Taip (5 blocks)
+[2021-04-19 02:12:55]: SanoreX.* [Chilli.*, Level 23]: (1)|HolyHo|°: pls help
