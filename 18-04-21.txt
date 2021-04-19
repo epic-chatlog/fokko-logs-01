@@ -21532,3 +21532,5 @@
 [2021-04-18 23:15:28]: ***  [, Level 0]: '[D]ϻɪɔʜɑʟ' entered and joined the game
 [2021-04-18 23:15:47]: ***  [, Level 0]: '#5 blocker' entered and joined the game
 [2021-04-18 23:15:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-18 23:16:51]: #5 blocker [|*MorE*|, Level 0]: xd
+[2021-04-18 23:16:52]: ϻɪɔʜɑʟ [Chilli.*, Level 24]: lag
