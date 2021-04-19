@@ -20895,3 +20895,4 @@
 [2021-04-18 17:37:34]: ***  [, Level 0]: 'Varox' entered and joined the game
 [2021-04-18 17:39:25]: ***  [, Level 0]: 'ezy' entered and joined the game
 [2021-04-18 17:39:58]: ***  [, Level 0]: 'nar' entered and joined the game
+[2021-04-18 17:40:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
