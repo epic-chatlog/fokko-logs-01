@@ -21359,3 +21359,4 @@
 [2021-04-18 21:35:47]: Noxl [.bad, Level 48]: ezy: yup nfsk
 [2021-04-18 21:35:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-18 21:35:56]: ezy [ComRoach, Level 23]: Noxl: nzltha lgyth mwgod
+[2021-04-18 21:38:21]: ***  [, Level 0]: 'Gglagser037' has left the game
