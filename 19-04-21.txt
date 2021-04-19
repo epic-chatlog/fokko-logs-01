@@ -11393,3 +11393,6 @@
 [2021-04-19 09:10:40]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
 [2021-04-19 09:10:43]: SanoreX [Chilli.*, Level 27]: ittosai: flappy.*?
 [2021-04-19 09:10:44]: ittosai [, Level 0]: ChillerDragon: sorry didnt saw :D
+[2021-04-19 09:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-19 09:10:52]: ***  [, Level 0]: 'ReXi' has left the game (Timeout Protection over)
+[2021-04-19 09:10:53]: ***  [, Level 0]: 'KiLee' has left the game
