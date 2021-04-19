@@ -16985,3 +16985,5 @@
 [2021-04-19 13:47:44]: . [TrRShClNrRs, Level 10]: bob: and e to max distance 6000
 [2021-04-19 13:47:49]: (1)Sayme [, Level 0]: .: need pass)
 [2021-04-19 13:47:55]: . [TrRShClNrRs, Level 10]: Sayme: ye :C
+[2021-04-19 13:48:08]: . [TrRShClNrRs, Level 10]: Sayme: but you can put cl_mouse_max_distance 700 if u want to
+[2021-04-19 13:48:10]: . [TrRShClNrRs, Level 10]: Sayme: in f1
