@@ -5341,3 +5341,6 @@
 [2021-04-19 04:11:12]: Falco642 [, Level 0]: wait
 [2021-04-19 04:11:18]: ölüm bekçisi [, Level 0]: rexii
 [2021-04-19 04:11:28]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-19 04:11:31]: ***  [, Level 0]: 'Minato / FR' entered and joined the game
+[2021-04-19 04:11:32]: ***  [, Level 0]: 'Tatooine' has left the game
+[2021-04-19 04:11:37]: vollesprit [, Level 1]: 1 hello there
