@@ -7925,3 +7925,12 @@
 [2021-04-19 06:21:47]: Taip [VergleriSay, Level 19]: çek
 [2021-04-19 06:21:47]:   [, Level 0]: Intensiv: (1)|HolyHo|°:  help
 [2021-04-19 06:21:49]: Taip [VergleriSay, Level 19]: şununla
+[2021-04-19 06:21:52]: Taip [VergleriSay, Level 19]: war
+[2021-04-19 06:21:53]: Taip [VergleriSay, Level 19]: atcam
+[2021-04-19 06:21:56]: Taip [VergleriSay, Level 19]: karşıma
+[2021-04-19 06:21:59]: ***  [, Level 0]: 'Taip' has been muted for 60 seconds
+[2021-04-19 06:21:59]: ***  [, Level 0]: 'Kezo's Slave' has left the game
+[2021-04-19 06:22:00]: ***  [, Level 0]: 'ördek' entered and joined the game
+[2021-04-19 06:22:00]: ***  [, Level 0]: 'Intensiv' changed name to '(1)Intensiv_'
+[2021-04-19 06:22:00]: ***  [, Level 0]: 'Intensiv_' changed name to 'Intensiv'
+[2021-04-19 06:22:01]: ***  [, Level 0]: 'Levi' entered and joined the game
