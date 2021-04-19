@@ -5478,3 +5478,7 @@
 [2021-04-19 04:16:59]: Raidon's Pet [, Level 20]: SanoreX: go inf jump
 [2021-04-19 04:17:02]: ϻɪɔʜɑʟ [DogParty, Level 24]: help
 [2021-04-19 04:17:04]:   [, Level 0]: f"{self.name}": any: plas help
+[2021-04-19 04:17:07]: RM | Arin [Retard MNKY, Level 41]: sry PoliceTee 7
+[2021-04-19 04:17:09]: RM | Arin [Retard MNKY, Level 41]: its impossible
+[2021-04-19 04:17:12]: PoliceTee [xSD7, Level 38]: SanoreX.*: -> pls
+[2021-04-19 04:17:18]: ***  [, Level 0]: 'Type' has left the game
