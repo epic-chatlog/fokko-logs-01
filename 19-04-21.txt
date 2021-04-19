@@ -18108,3 +18108,5 @@
 [2021-04-19 14:53:15]: ☺ [, Level 0]: Zephir ツ: slt
 [2021-04-19 14:53:20]: YelloWorlD [DogParty, Level 57]: Shiro.: wsh
 [2021-04-19 14:53:23]: Zephir ツ [404, Level 40]: ☺: slt
+[2021-04-19 14:53:34]: ☺ [, Level 0]: Zephir ツ: eh bien on dirais quon est mort
+[2021-04-19 14:53:38]: bob [, Level 36]: Axandos: thank you
