@@ -10831,3 +10831,6 @@
 [2021-04-19 08:32:59]: ***  [, Level 0]: 'XYN' has left the game
 [2021-04-19 08:33:01]: ***  [, Level 0]: 'OwO' entered and joined the game
 [2021-04-19 08:33:18]: El patron [FookinLads, Level 31]: (1)☺: bro you farm with acc
+[2021-04-19 08:33:20]: JustRace [DogParty, Level 36]: weqe:  war4life
+[2021-04-19 08:33:22]: ***  [, Level 0]: 'JustRace' has left the game
+[2021-04-19 08:33:22]: ***  [, Level 0]: '[D] JustRace' has left the game
