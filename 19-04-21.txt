@@ -6024,3 +6024,9 @@
 [2021-04-19 04:39:08]: ***  [, Level 0]: 'Cup' entered and joined the game
 [2021-04-19 04:39:12]: ***  [, Level 0]: 'any²' has left the game (Timeout)
 [2021-04-19 04:39:12]: ***  [, Level 0]: 'any' has left the game (Timeout)
+[2021-04-19 04:39:24]:   [, Level 0]: Cylox: sorry
+[2021-04-19 04:39:25]:   [, Level 0]: ϻɪɔʜɑʟ: war?
+[2021-04-19 04:39:26]: weqe [669, Level 13]: .: help
+[2021-04-19 04:39:27]: ***  [, Level 0]: 'MCgreg Tee' joined the spectators
+[2021-04-19 04:39:28]: ***  [, Level 0]: 'MCgreg Tee' has left the game
+[2021-04-19 04:39:28]:   [, Level 0]: Cylox: no
