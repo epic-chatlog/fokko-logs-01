@@ -9889,3 +9889,7 @@
 [2021-04-19 07:46:59]: ***  [, Level 0]: 'bananapie' joined the spectators
 [2021-04-19 07:46:59]: ***  [, Level 0]: '[D] Naruton' entered and joined the game
 [2021-04-19 07:47:07]: ***  [, Level 0]: 'bananapie' joined the game
+[2021-04-19 07:47:16]:   [, Level 0]: fluffrit: zuh
+[2021-04-19 07:47:19]: ***  [, Level 0]: 'Yoshi' finished the special race!
+[2021-04-19 07:47:19]: ***  [, Level 0]: 'fluffrit' joined the spectators
+[2021-04-19 07:47:23]: ***  [, Level 0]: 'fluffrit' joined the game
