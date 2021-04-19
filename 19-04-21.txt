@@ -3184,3 +3184,6 @@
 [2021-04-19 02:34:43]:   [, Level 0]: Zerstrian: but again
 [2021-04-19 02:34:47]:   [, Level 0]: Zerstrian: i don't block people for no reason
 [2021-04-19 02:34:50]: ***  [, Level 0]: 'misstrap' entered and joined the game
+[2021-04-19 02:34:54]: Zerstrian [, Level 52]: only if they block me before
+[2021-04-19 02:35:00]:   [, Level 0]: »ℱℬℑ«: Sm0k3y:  ok reported spawnblock
+[2021-04-19 02:35:02]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
