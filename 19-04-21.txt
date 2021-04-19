@@ -4462,3 +4462,10 @@
 [2021-04-19 03:37:03]: ***  [, Level 0]: 'f"{self.name5151' has left the game
 [2021-04-19 03:37:05]: ***  [, Level 0]: 'heyoxe' has left the game
 [2021-04-19 03:37:06]:   [, Level 0]: ChillerDragon: and |HolyHo|° ?
+[2021-04-19 03:37:07]: ***  [, Level 0]: 'heyoxe' entered and joined the game
+[2021-04-19 03:37:10]: |HolyHo|° [FookinLads, Level 29]: HeavyGeneral: hey<3 help <
+[2021-04-19 03:37:10]: BulgarianTee [xSD7, Level 0]: HeavyGeneral: its almost the same
+[2021-04-19 03:37:11]:   [, Level 0]: ChillerDragon: why cant u help then |HolyHo|° ?
+[2021-04-19 03:37:12]: ***  [, Level 0]: '[D] heyoxe' entered and joined the game
+[2021-04-19 03:37:14]: rexi [, Level 0]: cunt: xd
+[2021-04-19 03:37:15]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
