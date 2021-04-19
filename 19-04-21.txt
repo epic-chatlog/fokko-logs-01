@@ -252,3 +252,5 @@
 [2021-04-19 00:21:21]: ***  [, Level 0]: 'ChillerDragon' entered and joined the game
 [2021-04-19 00:21:27]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
 [2021-04-19 00:21:29]: [D] #5 blocker [|*MorE*|, Level 0]: help SanoreX
+[2021-04-19 00:22:00]: SanoreX [Chilli.*, Level 27]: Zerstrian: why
+[2021-04-19 00:22:02]: SanoreX [Chilli.*, Level 27]: ok
