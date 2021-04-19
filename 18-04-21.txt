@@ -21233,3 +21233,5 @@
 [2021-04-18 18:59:30]: Black [, Level 26]: Y8RBLK?
 [2021-04-18 18:59:50]: O.o [, Level 38]: 2 JUMP
 [2021-04-18 19:00:13]: ***  [, Level 0]: 'sammy' entered and joined the game
+[2021-04-18 19:00:32]: nar [ComRoach, Level 19]: wtf
+[2021-04-18 19:00:36]: nar [ComRoach, Level 19]: ERROR:
