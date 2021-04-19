@@ -11615,3 +11615,7 @@
 [2021-04-19 09:24:34]: ***  [, Level 0]: 'Niemand' has left the game
 [2021-04-19 09:24:37]: ***  [, Level 0]: 'Niemand' entered and joined the game
 [2021-04-19 09:24:40]:   [, Level 0]: Flippēr: he messed up stack
+[2021-04-19 09:24:42]: [D] Cylox [{TQuila}, Level 25]: ı dont
+[2021-04-19 09:24:42]: SanoreX [Chilli.*, Level 27]: VERBİNDUNGSPROBLEME
+[2021-04-19 09:24:47]: SanoreX [Chilli.*, Level 27]: VERBİNDUNGSPROBLEME...
+[2021-04-19 09:24:53]: ***  [, Level 0]: 'Daffy 0iq' has left the game
