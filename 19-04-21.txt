@@ -5935,3 +5935,10 @@
 [2021-04-19 04:35:39]: ***  [, Level 0]: 'Themisaki' entered and joined the game
 [2021-04-19 04:35:40]: ***  [, Level 0]: 'Lega' has left the game
 [2021-04-19 04:35:41]:   [, Level 0]: 1: WHO
+[2021-04-19 04:35:41]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
+[2021-04-19 04:35:42]: , [TrRShClNrRs, Level 41]: Zephir™: time to rq
+[2021-04-19 04:35:47]: ***  [, Level 0]: 'MCgreg Tee' joined the spectators
+[2021-04-19 04:35:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-19 04:35:50]: ***  [, Level 0]: 'MCgreg Tee' joined the game
+[2021-04-19 04:35:51]:   [, Level 0]: BulgarianTee: weqe: gay?
+[2021-04-19 04:35:52]: Falco642 [, Level 0]: vollesprit: do u have discord
