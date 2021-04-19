@@ -15057,3 +15057,7 @@
 [2021-04-19 12:03:34]: ***  [, Level 0]: 'thiago*_ *' entered and joined the game
 [2021-04-19 12:03:51]: ***  [, Level 0]: 'thiago*_ *' joined the spectators
 [2021-04-19 12:03:51]:   [, Level 0]: Lucas: Nagisa [H]: thx
+[2021-04-19 12:03:55]: ***  [, Level 0]: 'thiago*_ *' joined the game
+[2021-04-19 12:03:57]:   [, Level 0]: ChillerDragon.*: war Valesz
+[2021-04-19 12:03:57]: YelloWorlD [DogParty, Level 57]: ChillerDragon: ?
+[2021-04-19 12:04:00]: ***  [, Level 0]: Homosexualitee is on a killing spree with 10 blocks
