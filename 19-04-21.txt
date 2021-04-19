@@ -53,3 +53,8 @@
 [2021-04-19 00:03:26]: ***  [, Level 0]: '[D] blektrik' has left the game
 [2021-04-19 00:03:35]: SanoreX.* [Chilli.*, Level 23]: I cant leave here
 [2021-04-19 00:03:35]: 1 [, Level 18]: he
+[2021-04-19 00:03:36]: SanoreX [Chilli.*, Level 27]: omg
+[2021-04-19 00:03:42]: 1 [, Level 18]: vs
+[2021-04-19 00:03:46]: ***  [, Level 0]: 'Terra' has left the game
+[2021-04-19 00:03:46]: ***  [, Level 0]: 'Luna' has left the game
+[2021-04-19 00:03:47]: 1 [, Level 18]: vs
