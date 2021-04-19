@@ -7762,3 +7762,7 @@
 [2021-04-19 06:15:17]: ***  [Ÿ, Level 0]: 'Kezo's Slave' entered and joined the game
 [2021-04-19 06:15:20]: Taip [VergleriSay, Level 19]: wtf
 [2021-04-19 06:15:21]: ***  [Ÿ, Level 0]: 'Kezo's Slave' has left the game
+[2021-04-19 06:15:25]: Nagisa [H] [E8, Level 2]: (1)Cosmo:plz help
+[2021-04-19 06:15:26]: ***  [Ÿ, Level 0]: 'ZEWO's dummy' entered and joined the game
+[2021-04-19 06:15:29]: ***  [Ÿ, Level 0]: 'nameless tee' has left the game
+[2021-04-19 06:15:31]: ***  [Ÿ, Level 0]: 'nameless tee' entered and joined the game
