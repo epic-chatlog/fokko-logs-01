@@ -21169,3 +21169,6 @@
 [2021-04-18 18:49:12]: ***  [, Level 0]: 'Blueberry' has left the game
 [2021-04-18 18:49:40]: O.o [, Level 38]: Black:
 [2021-04-18 18:49:42]: ***  [, Level 0]: 'Nako!' has left the game
+[2021-04-18 18:49:51]: nar [ComRoach, Level 19]: Black: ant m5leh 7ad
+[2021-04-18 18:49:52]: Black [, Level 26]: ERROR': flag
+[2021-04-18 18:49:57]: Black [, Level 26]: i want
