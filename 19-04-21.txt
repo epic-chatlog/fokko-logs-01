@@ -10631,3 +10631,8 @@
 [2021-04-19 08:20:36]: ***  [, Level 0]: 'fluffrit' joined the spectators
 [2021-04-19 08:20:40]: ***  [, Level 0]: 'fluffrit' joined the game
 [2021-04-19 08:20:40]: Bok isa ben [E8, Level 0]: ddddddddddddddddd
+[2021-04-19 08:20:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-19 08:20:51]:   [, Level 0]: (1)☺: yellow et maintenant si il est là tu le parleras
+[2021-04-19 08:20:54]: soleri1 [, Level 0]: Lucas: thank u
+[2021-04-19 08:20:57]: sun.slow(y) [FookinLads, Level 35]: ops
+[2021-04-19 08:20:59]: Lucas [THECEPS, Level 35]: soleri1: np
