@@ -9620,3 +9620,10 @@
 [2021-04-19 07:35:18]: Noémi [Queen , Level 40]: Lucas: okey
 [2021-04-19 07:35:20]: ***  [, Level 0]: LoFurry is on a killing spree with 5 blocks
 [2021-04-19 07:35:21]: Good man [Drunks, Level 33]: Ðream: бросай
+[2021-04-19 07:35:22]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-19 07:35:24]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-19 07:35:25]: weqe [669, Level 13]: sharkz: i need help brother
+[2021-04-19 07:35:25]: ***  [, Level 0]: 'Rodi' has left the game
+[2021-04-19 07:35:27]: ***  [, Level 0]: LoFurry's killing spree was ended by the last kozlik (5 blocks)
+[2021-04-19 07:35:32]: ***  [, Level 0]: '(1)~DemoizL~' entered and joined the game
+[2021-04-19 07:35:33]: ***  [, Level 0]: 'Niemand' has left the game
