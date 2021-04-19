@@ -20910,3 +20910,4 @@
 [2021-04-18 17:46:02]: ***  [, Level 0]: 'xN0Zoro D' finished the special race!
 [2021-04-18 17:46:32]: ***  [, Level 0]: 'Tommy' has left the game
 [2021-04-18 17:47:37]: ***  [, Level 0]: 'Fera' entered and joined the game
+[2021-04-18 17:48:47]: ***  [, Level 0]: 'no one likes me' entered and joined the game
