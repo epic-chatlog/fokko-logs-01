@@ -7615,3 +7615,16 @@
 [2021-04-19 06:08:12]: (1)Cosmo [, Level 0]: SanoreX: help
 [2021-04-19 06:08:13]:   [, Level 0]: ZEWO: (1)SanoreX: azına osururum dummimi atıp dummy alma aptal
 [2021-04-19 06:08:14]: ***  [, Level 0]: 'MASLORD' has left the game
+[2021-04-19 06:08:18]: Taip [VergleriSay, Level 19]: he
+[2021-04-19 06:08:18]: ***  [, Level 0]: 'Michel' finished the special race!
+[2021-04-19 06:08:18]: ***  [, Level 0]: Michel finished in: 6 minute(s) 20.66 second(s)
+[2021-04-19 06:08:19]: ***  [, Level 0]: 'MASLORD' entered and joined the game
+[2021-04-19 06:08:19]: Taip [VergleriSay, Level 19]: blocker
+[2021-04-19 06:08:22]: ***  [, Level 0]: UOYKCUFI finished in: 6 minute(s) 44.16 second(s)
+[2021-04-19 06:08:22]: ***  [, Level 0]: 'UOYKCUFI' finished the special race!
+[2021-04-19 06:08:22]: ***  [, Level 0]: 'MASLORD' has left the game
+[2021-04-19 06:08:25]: ***  [, Level 0]: '(1)SanoreX' entered and joined the game
+[2021-04-19 06:08:26]: Andresss Dumdum [Jewish, Level 0]: LET ME GO LEEEFFT
+[2021-04-19 06:08:26]: Lucas [THECEPS, Level 35]: Andresss Dumdum: sorry
+[2021-04-19 06:08:27]: vollesprit [, Level 2]: no
+[2021-04-19 06:08:29]: ***  [, Level 0]: '(1)SanoreX' has left the game (Timeout Protection used)
