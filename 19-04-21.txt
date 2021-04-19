@@ -8034,3 +8034,7 @@
 [2021-04-19 06:27:02]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-19 06:27:04]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-19 06:27:17]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-19 06:27:24]: |HolyHo| [FookinLads, Level 19]: sun.slow(y): omg im sorry i dont see ur fookinlads
+[2021-04-19 06:27:25]: ***  [, Level 0]: 'Andresss Dumdum' has left the game
+[2021-04-19 06:27:25]: ***  [, Level 0]: 'Andresss' has left the game
+[2021-04-19 06:27:32]:   [, Level 0]: Kezo: ERROR: dog
