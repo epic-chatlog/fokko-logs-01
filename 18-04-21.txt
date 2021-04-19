@@ -20881,3 +20881,4 @@
 [2021-04-18 17:28:11]: ***  [, Level 0]: '(3)Kirito' has left the game (Timeout)
 [2021-04-18 17:28:16]: ERROR [404, Level 47]: xD
 [2021-04-18 17:28:57]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-18 17:29:02]: Kirito [{TQuila}, Level 0]: nice ma fucking internet crashed
