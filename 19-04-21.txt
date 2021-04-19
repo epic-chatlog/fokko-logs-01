@@ -10717,3 +10717,8 @@
 [2021-04-19 08:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-19 08:25:54]: comic [comically, Level 15]: nO
 [2021-04-19 08:25:56]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-19 08:25:58]: comic [comically, Level 15]: nO
+[2021-04-19 08:26:00]: comic [comically, Level 15]: SDTOP
+[2021-04-19 08:26:03]: Intensiv [DogParty, Level 17]: hey
+[2021-04-19 08:26:06]: Intensiv [DogParty, Level 17]: s
+[2021-04-19 08:26:09]: (2)Kirito [{TQuila}, Level 41]: alter sack ERROR überanstreng dich nicht sonst kriegst du noch nen herzinfakt du lappen
