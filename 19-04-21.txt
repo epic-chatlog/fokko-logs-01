@@ -11002,3 +11002,5 @@
 [2021-04-19 08:43:22]: ***  [, Level 0]: 'power2' entered and joined the game
 [2021-04-19 08:43:41]: ***  [, Level 0]: 'Vertex' has left the game (Timeout Protection over)
 [2021-04-19 08:43:41]: ***  [, Level 0]: 'Outxe Solar' has left the game (Timeout Protection over)
+[2021-04-19 08:43:49]: sun.slow(y) [FookinLads, Level 35]: sharkz: irgendwann trainiere ich dich
+[2021-04-19 08:43:52]: |HolyHo| [FookinLads, Level 19]: El patron: <<<<
