@@ -5069,3 +5069,6 @@
 [2021-04-19 04:00:56]: ***  [, Level 0]: GOLD is on a killing spree with 15 blocks
 [2021-04-19 04:00:58]:   [, Level 0]: vollesprit: Falco642 wait
 [2021-04-19 04:01:03]: Raidon [, Level 24]: Coca: wow
+[2021-04-19 04:01:11]:   [, Level 0]: vollesprit: Falco642 what can we do with the point ?
+[2021-04-19 04:01:16]:   [, Level 0]: Falco642: always do checkpoint its very useful
+[2021-04-19 04:01:20]:   [, Level 0]: sta: portal pls
