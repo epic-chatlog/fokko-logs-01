@@ -7341,3 +7341,8 @@
 [2021-04-19 05:23:11]:   [, Level 0]: [D] JustRace: cl_aimbot 1
 [2021-04-19 05:23:18]: ***  [, Level 0]: '[D] El patron' entered and joined the game
 [2021-04-19 05:23:26]: Cylox [{TQuila}, Level 32]: SROP
+[2021-04-19 05:23:33]: ***  [, Level 0]: 'brainless tee' entered and joined the game
+[2021-04-19 05:23:33]: ***  [, Level 0]: [D] Nudelsaft c is on a killing spree with 35 blocks
+[2021-04-19 05:23:41]: ***  [, Level 0]: 'brainless tee' has left the game
+[2021-04-19 05:23:42]:   [, Level 0]: El patron: Rem's dummy:
+[2021-04-19 05:23:43]: GODLIKe [, Level 44]: aaa
