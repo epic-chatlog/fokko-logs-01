@@ -16652,3 +16652,5 @@
 [2021-04-19 13:20:30]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
 [2021-04-19 13:20:32]: (1), [TrRShClNrRs, Level 36]: |HolyHo|°: when u see the portal is active, jump to the wall and dont move
 [2021-04-19 13:20:34]: (1), [TrRShClNrRs, Level 36]: |HolyHo|°: i'Ll show u
+[2021-04-19 13:20:42]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-19 13:20:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
