@@ -20753,3 +20753,7 @@
 [2021-04-18 17:16:48]: bob [, Level 36]: DO /stats bob
 [2021-04-18 17:16:50]: bob [, Level 36]: i gave half
 [2021-04-18 17:16:50]: Black [, Level 26]: WAIT I HAVE MORE
+[2021-04-18 17:17:06]: bob [, Level 36]: give half
+[2021-04-18 17:17:11]: weqe [669, Level 13]: ok bank bob
+[2021-04-18 17:17:11]: bob [, Level 36]: or i spike and get all
+[2021-04-18 17:17:15]: bob [, Level 36]: NOW
