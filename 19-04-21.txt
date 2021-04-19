@@ -16972,3 +16972,7 @@
 [2021-04-19 13:46:48]: . [TrRShClNrRs, Level 10]: Sayme: you can
 [2021-04-19 13:46:50]: . [TrRShClNrRs, Level 10]: Sayme: if you
 [2021-04-19 13:46:52]: . [TrRShClNrRs, Level 10]: Sayme: if yoU're an admin
+[2021-04-19 13:47:00]: . [TrRShClNrRs, Level 10]: Sayme: you can put porta_max_range (blocks)
+[2021-04-19 13:47:05]: bob [, Level 36]: HeavyGeneral:
+[2021-04-19 13:47:07]: . [TrRShClNrRs, Level 10]: Sayme: its pretty high
+[2021-04-19 13:47:07]: bob [, Level 36]: HeavyGeneral: u mad at ~DemoizL~ sir
