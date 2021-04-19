@@ -4535,3 +4535,9 @@
 [2021-04-19 03:39:27]: |HolyHo| [FookinLads, Level 19]: ChillerDragon: im listening
 [2021-04-19 03:39:27]: ***  [, Level 0]: 'f"{self.name}"' has left the game
 [2021-04-19 03:39:33]: ***  [, Level 0]: 'vollesprit' entered and joined the game
+[2021-04-19 03:39:40]: mamikral011 [DogParty, Level 22]: Tziys*: amk seni kurtarcak
+[2021-04-19 03:39:41]: ***  [, Level 0]: 'f"{self.na100254' entered and joined the game
+[2021-04-19 03:39:44]:   [, Level 0]: ChillerDragon: you would be the only person with a exception |HolyHo|° this is big :D
+[2021-04-19 03:39:45]: ***  [, Level 0]: 'f"{self.na100254' has left the game
+[2021-04-19 03:39:46]: [D] mamikral011 [DogParty, Level 27]: . war
+[2021-04-19 03:39:47]: ϻɪɔʜɑʟ [Chilli.*, Level 24]: YelloWorlD: u see my old level?
