@@ -10082,3 +10082,13 @@
 [2021-04-19 07:55:46]: ***  [, Level 0]: 'fluffrit' joined the spectators
 [2021-04-19 07:55:46]: Coca [Drunks, Level 24]: спасибо)
 [2021-04-19 07:55:49]: ***  [, Level 0]: '__init__(self):' entered and joined the game
+[2021-04-19 07:55:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 07:55:51]: ghfdjxc [, Level 0]: Kompingo: Can we do the run ?
+[2021-04-19 07:55:51]: ☣┆Kenshi™ [404, Level 35]: |HolyHo|: he kill me
+[2021-04-19 07:55:51]:   [, Level 0]: the last kozlik: не убивайте
+[2021-04-19 07:55:52]: Coca [Drunks, Level 24]: стой
+[2021-04-19 07:55:53]: Coca [Drunks, Level 24]: идея
+[2021-04-19 07:55:54]: Coca [Drunks, Level 24]: ок
+[2021-04-19 07:55:57]: ERROR' [404, Level 76]: AAAAAAAAAAAAAA
+[2021-04-19 07:55:58]: Coca [Drunks, Level 24]: не киляйся
+[2021-04-19 07:56:00]: ***  [, Level 0]: 'fluffrit' joined the game
