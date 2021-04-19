@@ -15962,3 +15962,10 @@
 [2021-04-19 12:40:41]: ***  [, Level 0]: 'Hunter.exe' entered and joined the game
 [2021-04-19 12:40:42]: Taip [VergleriSay, Level 19]: wtf
 [2021-04-19 12:40:45]: Intensiv_ [DogParty, Level 11]: ChillerDragon:  help
+[2021-04-19 12:40:49]: Taip [VergleriSay, Level 19]: yazıyordum
+[2021-04-19 12:40:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-19 12:40:51]: Intensiv_ [DogParty, Level 11]: ChillerDragon:  help
+[2021-04-19 12:40:51]: ***  [, Level 0]: 'ElFaNaN' has left the game
+[2021-04-19 12:40:55]: Nagisa [H] [E8, Level 2]: salimmi
+[2021-04-19 12:40:57]: Intensiv_ [DogParty, Level 11]: ChillerDragon:  help
+[2021-04-19 12:40:59]: Taip [VergleriSay, Level 19]: sal
