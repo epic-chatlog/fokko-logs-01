@@ -10914,3 +10914,7 @@
 [2021-04-19 08:38:05]: ***  [, Level 0]: 'comic' has left the game
 [2021-04-19 08:38:22]: sun.slow(y) [FookinLads, Level 35]: Lucifero: peinlicher
 [2021-04-19 08:38:23]: ***  [, Level 0]: 'woona' entered and joined the game
+[2021-04-19 08:38:35]:   [, Level 0]: Lucifero: sun.slow(y): kind ja
+[2021-04-19 08:38:38]: ***  [, Level 0]: 'Daffy 0iq' entered and joined the game
+[2021-04-19 08:38:41]: |HolyHo|° [FookinLads, Level 29]: ERROR: <<<
+[2021-04-19 08:38:44]: H0dƌƔ1 [ℋero, Level 28]: xd
