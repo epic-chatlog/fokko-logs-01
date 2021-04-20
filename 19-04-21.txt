@@ -20083,3 +20083,5 @@
 [2021-04-19 17:52:04]: ***  [, Level 0]: 'Bruh.' has left the game
 [2021-04-19 17:52:06]: ***  [, Level 0]: '¡ RodCYREX 神' has left the game
 [2021-04-19 17:52:09]: (1)☺ [, Level 26]: maybe he started the game
+[2021-04-19 17:52:16]: (1)☺ [, Level 26]: start
+[2021-04-19 17:52:24]: Kirito [{TQuila}, Level 41]: ahhh
