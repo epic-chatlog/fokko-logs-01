@@ -21187,3 +21187,6 @@
 [2021-04-19 22:45:50]: SanoreX [Chilli.*, Level 27]: I spawnblock
 [2021-04-19 22:45:52]: ***  [, Level 0]: 'kurama' entered and joined the game
 [2021-04-19 22:46:11]: SanoreX [Chilli.*, Level 27]: sorry
+[2021-04-19 22:46:18]: SanoreX [Chilli.*, Level 27]: omg
+[2021-04-19 22:46:25]: kurama [New Gen., Level 0]: ty
+[2021-04-19 22:46:27]: SanoreX.* [Chilli.*, Level 23]: np
