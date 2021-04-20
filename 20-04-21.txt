@@ -22104,3 +22104,5 @@
 [2021-04-20 14:40:11]: bob [, Level 36]: show me
 [2021-04-20 14:40:14]: bob [, Level 36]: what i showed u yet
 [2021-04-20 14:40:17]: Isegrin [, Level 55]: power: SHOW DIK
+[2021-04-20 14:40:26]: bob [, Level 36]: what else
+[2021-04-20 14:40:31]: Kłosu [, Level 0]: how to drop weapon
