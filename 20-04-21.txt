@@ -6870,3 +6870,7 @@
 [2021-04-20 04:48:27]: ***  [’ÿÿÿ, Level 0]: 'Ã¶lÃ¼m bekÃ§isi' has left the game
 [2021-04-20 04:48:29]: [D] El patron [FookinLads, Level 24]: SanoreX: restart
 [2021-04-20 04:48:30]: SanoreX [Chilli.*, Level 27]: El patron: I give u 100k
+[2021-04-20 04:48:32]: :D [E8, Level 5]: jump
+[2021-04-20 04:48:32]: SanoreX [Chilli.*, Level 27]: El patron: I give u 100k and help
+[2021-04-20 04:48:33]: ***  [’ÿÿÿ, Level 0]: '(1)ERROR' has left the game
+[2021-04-20 04:48:39]: SanoreX [Chilli.*, Level 27]: El patron: I give u 100k and help 100k in dummy acc
