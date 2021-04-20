@@ -22938,3 +22938,7 @@
 [2021-04-20 15:40:24]: P4Pyr0s [, Level 25]: Zephir ツ:  wanna peace
 [2021-04-20 15:40:26]: [D] ERROR [404, Level 57]: helpon farm
 [2021-04-20 15:40:27]: P4Pyr0s [, Level 25]: i will safe you
+[2021-04-20 15:40:34]: bob [, Level 36]: [D] TeigHuhn: right
+[2021-04-20 15:40:43]: ***  [, Level 0]: 'hhnaut31' entered and joined the game
+[2021-04-20 15:40:43]: [D] ERROR [404, Level 57]: helpon farm
+[2021-04-20 15:40:43]: TeigHuhn [, Level 0]: bob: what is right
