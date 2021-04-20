@@ -13498,3 +13498,7 @@
 [2021-04-20 09:22:27]: ***  [, Level 0]: '[HELP=12$]' has left the game
 [2021-04-20 09:22:28]: ***  [, Level 0]: 'tee' entered and joined the game
 [2021-04-20 09:22:31]: ***  [, Level 0]: '[SHOP]' has left the game
+[2021-04-20 09:22:36]:   [, Level 0]: AustralianTee: lucky shet
+[2021-04-20 09:22:41]: yair [, Level 36]: (1)Falco641: fuck you xd
+[2021-04-20 09:22:44]:   [, Level 0]: (1)Falco641: ahahahahahah
+[2021-04-20 09:22:44]: ***  [, Level 0]: 'tee' has left the game
