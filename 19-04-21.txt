@@ -21050,3 +21050,4 @@
 [2021-04-19 21:18:07]: ***  [, Level 0]: 'sL|KeBu280' entered and joined the game
 [2021-04-19 21:19:10]: ***  [, Level 0]: 'Gren' entered and joined the game
 [2021-04-19 21:19:33]: ***  [, Level 0]: '|HolyHo|°' has left the game
+[2021-04-19 21:20:36]: ***  [, Level 0]: '(1)|HolyHo|°' would have timed out, but can use timeout protection now
