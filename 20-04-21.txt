@@ -20681,3 +20681,10 @@
 [2021-04-20 13:23:10]: mamikral011 [DogParty, Level 22]: Kiko: stop
 [2021-04-20 13:23:13]: El patron [FookinLads, Level 0]: Axandos²: why
 [2021-04-20 13:23:13]: Zephir ツ [404, Level 40]: avioocals: u help ChillerDragon ?
+[2021-04-20 13:23:19]: ***  [, Level 0]: 'Jodatochy' has left the game
+[2021-04-20 13:23:19]: mamikral011 [DogParty, Level 22]: Kiko:
+[2021-04-20 13:23:19]: ***  [, Level 0]: 'vairan' entered and joined the game
+[2021-04-20 13:23:22]: El patron [FookinLads, Level 0]: Zephir ツ:  no he dosent
+[2021-04-20 13:23:24]: ***  [, Level 0]: SkyForge finished in: 2 minute(s) 11.08 second(s)
+[2021-04-20 13:23:24]: ***  [, Level 0]: New record: 2 minute(s)  4.90 second(s) better.
+[2021-04-20 13:23:24]: ***  [, Level 0]: 'SkyForge' finished the special race!
