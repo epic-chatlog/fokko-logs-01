@@ -20374,3 +20374,8 @@
 [2021-04-20 13:10:34]:   [, Level 0]: Zephir ツ: (1)☺: ah
 [2021-04-20 13:10:35]: (1)☺ [, Level 26]: Zephir ツ: xD
 [2021-04-20 13:10:40]: (1)☺ [, Level 26]: mdr Zephir ツ
+[2021-04-20 13:10:45]: ***  [, Level 0]: 'sharkz' entered and joined the game
+[2021-04-20 13:10:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-20 13:10:53]: ***  [, Level 0]: 'KongoTee' changed name to 'Axandos'
+[2021-04-20 13:10:53]: ***  [, Level 0]: 'Australiandos' changed name to 'Axandos²'
+[2021-04-20 13:10:54]: ***  [, Level 0]: 'sharkz' has left the game
