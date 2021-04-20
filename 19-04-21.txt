@@ -21368,3 +21368,5 @@
 [2021-04-19 23:09:31]: SanoreX [Chilli.*, Level 27]: oha
 [2021-04-19 23:09:36]: SanoreX [Chilli.*, Level 27]: 9.50 de dersim var
 [2021-04-19 23:09:38]: SanoreX [Chilli.*, Level 27]: canlı
+[2021-04-19 23:09:54]: Noxl. [.bad, Level 35]: SanoreX: spec
+[2021-04-19 23:10:04]: SanoreX [Chilli.*, Level 27]: Noxl.: I spec
