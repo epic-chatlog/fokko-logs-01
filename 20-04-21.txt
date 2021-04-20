@@ -10334,3 +10334,6 @@
 [2021-04-20 07:35:40]: . [TrRShClNrRs, Level 43]: ERROR: everything
 [2021-04-20 07:35:40]: ***  [ýÿÿ, Level 0]: 'Tommy' entered and joined the game
 [2021-04-20 07:35:40]: ERROR [404, Level 76]: stop helping what did u say last time
+[2021-04-20 07:35:44]: . [TrRShClNrRs, Level 43]: ERROR: wha t
+[2021-04-20 07:35:49]: ERROR [404, Level 76]: exactl<y
+[2021-04-20 07:35:50]: ***  [ýÿÿ, Level 0]: [INFO] You can create an account using '/register'
