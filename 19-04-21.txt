@@ -21911,3 +21911,10 @@
 [2021-04-19 23:45:37]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-19 23:45:38]: SanoreX.* [Chilli.*, Level 23]: bklerim
 [2021-04-19 23:45:42]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:45:44]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:45:45]: ***  [, Level 0]: 'Kazek huj' entered and joined the game
+[2021-04-19 23:45:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 23:45:51]: SanoreX.* [Chilli.*, Level 23]: amk
+[2021-04-19 23:45:51]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:45:53]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:45:54]: SanoreX.* [Chilli.*, Level 23]: bari elleme
