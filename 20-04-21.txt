@@ -5351,3 +5351,6 @@
 [2021-04-20 03:38:07]: ***  [, Level 0]: 'tee' entered and joined the game
 [2021-04-20 03:38:10]: ***  [, Level 0]: 'Goldy' has left the game
 [2021-04-20 03:38:14]: Nudelsaft c: [FookinLads, Level 43]: ChillerDragon.*: faker
+[2021-04-20 03:38:17]:   [, Level 0]: ChillerDragon.*: no
+[2021-04-20 03:38:23]: Nudelsaft c: [FookinLads, Level 43]: sag nen komplizierten deutschen satz
+[2021-04-20 03:38:24]: GODLIKe [, Level 44]: any﹥☫: bruh
