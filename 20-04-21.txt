@@ -112,3 +112,5 @@
 [2021-04-20 00:04:59]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:05:00]: Raidon [, Level 24]: Jeloudagh: f1 > bind q kill > press q (you can kill)
 [2021-04-20 00:05:03]: ***  [, Level 0]: 'Nightmare' entered and joined the game
+[2021-04-20 00:05:10]: Nightmare [, Level 0]: JustRace: hacher
+[2021-04-20 00:05:15]: Noxl [.bad, Level 48]: cat: give me my moni
