@@ -12594,3 +12594,10 @@
 [2021-04-20 08:55:45]:   [, Level 0]: yair: Souly: how to do police chat?
 [2021-04-20 08:55:45]: Souly [, Level 61]: no u yair
 [2021-04-20 08:55:46]:   [, Level 0]: mamikral011: ERROR.: kingg
+[2021-04-20 08:55:47]: ERROR [404, Level 76]: JustRace:  idk too
+[2021-04-20 08:55:47]: ***  [ýÿÿ, Level 0]: 'fluffrit' joined the game
+[2021-04-20 08:55:49]: ***  [ýÿÿ, Level 0]: 'BULLETBOT' entered and joined the game
+[2021-04-20 08:55:50]: ***  [ýÿÿ, Level 0]: 'nico' entered and joined the game
+[2021-04-20 08:55:50]: ***  [ýÿÿ, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-20 08:55:53]: Souly [, Level 61]: yair: idk
+[2021-04-20 08:55:57]:   [, Level 0]: YelloWorlD: HeavyGeneral: yesterday i didnt touch you but u attack me for nothing
