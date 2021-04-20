@@ -6504,3 +6504,8 @@
 [2021-04-20 04:33:11]: ***  [’ÿÿÿ, Level 0]: 'GODLIKe.' has left the game
 [2021-04-20 04:33:11]: ***  [’ÿÿÿ, Level 0]: 'GODLIKe' has left the game
 [2021-04-20 04:33:12]: Raidon [, Level 24]: niye aq
+[2021-04-20 04:33:13]: ***  [’ÿÿÿ, Level 0]: 'Æ¬evan' left the minigame 'Block'
+[2021-04-20 04:33:15]: SanoreX [Chilli.*, Level 27]: sÄ±r
+[2021-04-20 04:33:17]: ***  [’ÿÿÿ, Level 0]: '(1)avioocals' has left the game
+[2021-04-20 04:33:18]: ***  [’ÿÿÿ, Level 0]: 'avioocals' entered and joined the game
+[2021-04-20 04:33:23]: ***  [’ÿÿÿ, Level 0]: 'Salut' has left the game
