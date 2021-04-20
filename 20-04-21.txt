@@ -1073,3 +1073,6 @@
 [2021-04-20 00:43:09]: SanoreX [Chilli.*, Level 27]: we can do with this trick
 [2021-04-20 00:43:10]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:43:13]: SanoreX [Chilli.*, Level 27]: bots in my plot
+[2021-04-20 00:43:19]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:43:21]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:43:25]: RM | Arin [Retard MNKY, Level 41]: wait a sec
