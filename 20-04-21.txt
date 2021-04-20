@@ -6236,3 +6236,6 @@
 [2021-04-20 04:20:35]: Intensiv_ [DogParty, Level 11]: [D] â™¥TAKOâ™¥:  sesli gelcenmi
 [2021-04-20 04:20:35]: GODLIKe. [, Level 39]: [D] â™¥TAKOâ™¥: lua ile kodlaman gerekiyor
 [2021-04-20 04:20:37]: ***  [’ÿÿÿ, Level 0]: 'just leave me' has left the game
+[2021-04-20 04:20:49]: [D] â™¥TAKOâ™¥ [DogParty, Level 0]: Intensiv:  neden olmasÄ±n
+[2021-04-20 04:20:50]: ***  [’ÿÿÿ, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-20 04:20:54]: Intensiv_ [DogParty, Level 11]: seslideyiz gle
