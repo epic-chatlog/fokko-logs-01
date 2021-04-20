@@ -21219,3 +21219,7 @@
 [2021-04-19 22:52:51]: ***  [, Level 0]: 'Obliviate' entered and joined the game
 [2021-04-19 22:52:53]: ***  [, Level 0]: '~Never~' has left the game
 [2021-04-19 22:52:54]: ***  [, Level 0]: '~Never~' entered and joined the game
+[2021-04-19 22:53:08]: Hurricaɴe [Akatsuki, Level 37]: flappy: idiot
+[2021-04-19 22:53:09]: ***  [, Level 0]: 'S Y T H N.' has left the game
+[2021-04-19 22:53:09]: ***  [, Level 0]: 'Hurricaɴe' has left the game
+[2021-04-19 22:53:14]: kurama [New Gen., Level 0]: #5 blocker:
