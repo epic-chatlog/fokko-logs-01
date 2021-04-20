@@ -21556,3 +21556,9 @@
 [2021-04-20 14:06:20]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 14:06:21]: (C)Ali [Blood Gang , Level 3]: m
 [2021-04-20 14:06:21]: fokkonaut [flawLess, Level 102]: hi
+[2021-04-20 14:06:24]: Axel ² [TrRShClNrRs, Level 11]: fokkonaut: hi
+[2021-04-20 14:06:25]: fokkonaut [flawLess, Level 102]: hi
+[2021-04-20 14:06:26]: (C)Ali [Blood Gang , Level 3]: mesala ne alınıyo
+[2021-04-20 14:06:29]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 14:06:31]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 14:06:34]: mamikral011 [DogParty, Level 22]: (C)Ali: hem kanka şimdi bayraklar exp verio level atlıonn
