@@ -23144,3 +23144,5 @@
 [2021-04-20 16:08:00]: ***  [, Level 0]: '(C)Ali' entered and joined the game
 [2021-04-20 16:08:04]: (2)Salut [, Level 0]: ☺:  fait gaffe a ton main je pense
 [2021-04-20 16:08:07]: (C)Ali [Blood Gang , Level 0]: ¡ RodCYREX 神:  sa
+[2021-04-20 16:08:11]: ☺ [, Level 28]: main ?
+[2021-04-20 16:08:21]: (2)Salut [, Level 0]: ☺:  ton perso qui farm
