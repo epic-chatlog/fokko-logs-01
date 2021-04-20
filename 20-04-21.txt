@@ -15308,3 +15308,8 @@
 [2021-04-20 10:28:39]: Cylox [{TQuila}, Level 32]: bob:
 [2021-04-20 10:28:41]: ***  [, Level 0]: 'natsu' entered and joined the game
 [2021-04-20 10:28:43]: ***  [, Level 0]: 'justfun' entered and joined the game
+[2021-04-20 10:28:50]:   [, Level 0]: yair: wtf dude
+[2021-04-20 10:28:50]: ***  [, Level 0]: 'justfun' has left the game
+[2021-04-20 10:28:52]: ***  [, Level 0]: 'TimePause's nub' entered and joined the game
+[2021-04-20 10:28:54]:   [, Level 0]: yair: what are you doing
+[2021-04-20 10:28:55]: bob [, Level 36]: Cylox: where
