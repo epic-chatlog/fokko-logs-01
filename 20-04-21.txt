@@ -21982,3 +21982,5 @@
 [2021-04-20 14:32:43]: bob [, Level 36]: jump hammer
 [2021-04-20 14:32:50]: ***  [, Level 0]: '(1)Black' has left the game
 [2021-04-20 14:32:51]: ***  [, Level 0]: 'IwillBlockYou' entered and joined the game
+[2021-04-20 14:33:07]: Cylox [{TQuila}, Level 32]: bob: COME
+[2021-04-20 14:33:08]: ***  [, Level 0]: (2)Zʷʰʸˀ is on a killing spree with 5 blocks
