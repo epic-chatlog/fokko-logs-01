@@ -20219,3 +20219,7 @@
 [2021-04-20 13:02:01]:   [, Level 0]: bob: Meetiteusz: ok sry
 [2021-04-20 13:02:08]: [D] El patron [FookinLads, Level 31]: bob:
 [2021-04-20 13:02:13]: ***  [, Level 0]: 'woona' entered and joined the game
+[2021-04-20 13:02:15]: ***  [, Level 0]: 'NeXus2' has left the game
+[2021-04-20 13:02:15]:   [, Level 0]: bob: [D] El patron: cant weqe
+[2021-04-20 13:02:16]: [D] El patron [FookinLads, Level 31]: Zephir ツ:  help
+[2021-04-20 13:02:21]: ***  [, Level 0]: 'ibrahim' entered and joined the game
