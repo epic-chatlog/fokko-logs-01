@@ -11549,3 +11549,7 @@
 [2021-04-20 08:23:20]: Nudelsaft c: [FookinLads, Level 43]: von irgendwem anders
 [2021-04-20 08:23:20]: ***  [ýÿÿ, Level 0]: 'fluffrit' joined the game
 [2021-04-20 08:23:25]: â–ˆ  Zeus  â–ˆ [, Level 0]: can you help me
+[2021-04-20 08:23:26]: Kartoffelsaft [, Level 26]: Nudelsaft c::  ich war das
+[2021-04-20 08:23:29]: ***  [ýÿÿ, Level 0]: 'Cylox' entered and joined the game
+[2021-04-20 08:23:30]: ***  [ýÿÿ, Level 0]: 'PANZELKOWY' entered and joined the game
+[2021-04-20 08:23:32]: ***  [ýÿÿ, Level 0]: 'Mista bombastic' changed name to 'Apfelsaft'
