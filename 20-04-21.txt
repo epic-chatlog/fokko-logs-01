@@ -21686,3 +21686,5 @@
 [2021-04-20 14:13:11]: (C)Ali [Blood Gang , Level 4]: aaa
 [2021-04-20 14:13:18]: (C)Ali [Blood Gang , Level 4]: piçler beni öldürmüş mk
 [2021-04-20 14:13:19]: Cylox [{TQuila}, Level 32]: şakaa
+[2021-04-20 14:13:32]: ***  [, Level 0]: 'soleri1' has left the game (Timeout)
+[2021-04-20 14:13:32]: noname [, Level 21]: Victor:
