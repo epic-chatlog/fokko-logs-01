@@ -7860,3 +7860,5 @@
 [2021-04-20 05:30:40]: rexi [, Level 0]: hi
 [2021-04-20 05:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-20 05:30:51]: GReeeN [, Level 41]: hi
+[2021-04-20 05:30:53]: Zephir ツ [404, Level 40]: ERROR: or leav spec mode
+[2021-04-20 05:30:56]: ***  [, Level 0]: 'Axandos' entered and joined the game
