@@ -20429,3 +20429,10 @@
 [2021-04-20 13:12:39]: weqe [669, Level 0]: [D] El patron: really ?
 [2021-04-20 13:12:41]: El patron [FookinLads, Level 0]: weqe:  i think we cant have peace
 [2021-04-20 13:12:43]:   [, Level 0]: 8hwa: no
+[2021-04-20 13:12:50]: weqe [669, Level 0]: i just helped u El patron ....
+[2021-04-20 13:12:51]: ***  [, Level 0]: 'd+' entered and joined the game
+[2021-04-20 13:12:52]: El patron [FookinLads, Level 0]: weqe:  you have war with me mates
+[2021-04-20 13:12:53]: Kenshi ツ [404, Level 40]: Axandos: ok war for life
+[2021-04-20 13:12:54]:   [, Level 0]: RM | Arin: nenny:  f"{self.name}"  only randoms
+[2021-04-20 13:12:56]:   [, Level 0]: d+: weqe:  brother
+[2021-04-20 13:12:59]:   [, Level 0]: d+: wanna ctf3
