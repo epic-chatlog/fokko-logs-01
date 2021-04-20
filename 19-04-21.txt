@@ -20461,3 +20461,6 @@
 [2021-04-19 18:37:51]: ***  [, Level 0]: 'sandu' has left the game
 [2021-04-19 18:37:52]: ***  [, Level 0]: 'sandu' entered and joined the game
 [2021-04-19 18:37:58]: (1)☺ [, Level 26]: wow
+[2021-04-19 18:38:18]: ***  [, Level 0]: 'sandu' has left the game
+[2021-04-19 18:38:19]: ***  [, Level 0]: 'sandu' entered and joined the game
+[2021-04-19 18:38:21]: (1)☺ [, Level 26]: oops
