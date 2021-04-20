@@ -10077,3 +10077,5 @@
 [2021-04-20 07:24:27]: ***  [ýÿÿ, Level 0]: 'Astratex' has left the game
 [2021-04-20 07:24:29]: ***  [ýÿÿ, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-20 07:25:05]: ***  [ýÿÿ, Level 0]: Black is on a killing spree with 10 blocks
+[2021-04-20 07:25:19]:   [, Level 0]: bob: haha
+[2021-04-20 07:25:20]:   [, Level 0]: bob: scaredd
