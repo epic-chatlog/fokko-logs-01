@@ -12524,3 +12524,6 @@
 [2021-04-20 08:53:23]: ***  [ýÿÿ, Level 0]: 'jeder' entered and joined the game
 [2021-04-20 08:53:23]:   [, Level 0]: yair: I like turtles.
 [2021-04-20 08:53:28]: ***  [ýÿÿ, Level 0]: 'jeder' has left the game
+[2021-04-20 08:53:31]: BulgarianTee [Bulgaria, Level 25]: ERROR: when r u gonna chill?
+[2021-04-20 08:53:34]: ***  [ýÿÿ, Level 0]: ERROR. is on a killing spree with 15 blocks
+[2021-04-20 08:53:38]: bob [, Level 36]: yes avioocals
