@@ -1464,3 +1464,7 @@
 [2021-04-20 00:58:24]: 1 [, Level 18]: POLİCE AL
 [2021-04-20 00:58:24]: SanoreX [Chilli.*, Level 27]: kais: block later et out
 [2021-04-20 00:58:28]: SanoreX [Chilli.*, Level 27]: kais: block later get out
+[2021-04-20 00:58:31]: Intensiv [DogParty, Level 18]: 19 da o
+[2021-04-20 00:58:36]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:58:37]: kais [, Level 66]: SanoreX: nope, he may hide in ur plot
+[2021-04-20 00:58:38]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
