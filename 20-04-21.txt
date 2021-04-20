@@ -11965,3 +11965,8 @@
 [2021-04-20 08:37:44]: ***  [ýÿÿ, Level 0]: 'Flupper' entered and joined the game
 [2021-04-20 08:37:51]: ***  [ýÿÿ, Level 0]: 'tee' has left the game
 [2021-04-20 08:37:51]: RM | Arin [Retard MNKY, Level 0]: xD
+[2021-04-20 08:37:53]: ***  [ýÿÿ, Level 0]: 'tee' entered and joined the game
+[2021-04-20 08:37:56]: ***  [ýÿÿ, Level 0]: 'LareneGyvaeh' entered and joined the game
+[2021-04-20 08:37:57]: x7|Nudelsaft c: [, Level 21]: x7|ERROR:  ich glaube die rq bevor uns xD
+[2021-04-20 08:37:59]:   [, Level 0]: â–ˆ  Zeus  â–ˆ: not worked
+[2021-04-20 08:38:03]: (1)ERROR. [404, Level 57]: x7|Nudelsaft c::  never lol
