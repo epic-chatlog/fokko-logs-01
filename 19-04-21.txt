@@ -21950,3 +21950,6 @@
 [2021-04-19 23:48:46]: SanoreX.* [Chilli.*, Level 23]: Jeloudagh: war
 [2021-04-19 23:48:55]: SanoreX.* [Chilli.*, Level 23]: Raidon: aynı anda atla
 [2021-04-19 23:49:02]: ***  [, Level 0]: 'FIGHTING GOLD' entered and joined the game
+[2021-04-19 23:49:18]: SanoreX.* [Chilli.*, Level 23]: fuck u Jeloudagh
+[2021-04-19 23:49:22]: ***  [, Level 0]: 'FIGHTING GOLD' has left the game
+[2021-04-19 23:49:24]: ***  [, Level 0]: 'Jeloudagh' has left the game
