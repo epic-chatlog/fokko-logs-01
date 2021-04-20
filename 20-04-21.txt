@@ -1477,3 +1477,5 @@
 [2021-04-20 00:59:10]: SanoreX [Chilli.*, Level 27]: RM | Arin: u have jetpack?
 [2021-04-20 00:59:12]: ***  [, Level 0]: 'fajorwerka' entered and joined the game
 [2021-04-20 00:59:19]: RM | Arin [Retard MNKY, Level 41]: SanoreX:  no
+[2021-04-20 00:59:23]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:59:25]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
