@@ -10813,3 +10813,6 @@
 [2021-04-20 07:54:08]: ***  [ýÿÿ, Level 0]: tayson is on a killing spree with 5 blocks
 [2021-04-20 07:54:12]: . [TrRShClNrRs, Level 11]: A
 [2021-04-20 07:54:17]: ***  [ýÿÿ, Level 0]: '[D] AlinGaming9' has left the game
+[2021-04-20 07:54:23]: ***  [ýÿÿ, Level 0]: 'noob help' entered and joined the game
+[2021-04-20 07:54:28]: ***  [ýÿÿ, Level 0]: 'Good man' finished the special race!
+[2021-04-20 07:54:28]: ***  [ýÿÿ, Level 0]: 'Coca' finished the special race!
