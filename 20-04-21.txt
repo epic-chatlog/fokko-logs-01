@@ -146,3 +146,7 @@
 [2021-04-20 00:06:29]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:06:29]: SanoreX [Chilli.*, Level 27]: ne
 [2021-04-20 00:06:30]: SanoreX [Chilli.*, Level 27]: bak
+[2021-04-20 00:06:31]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:06:38]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:06:40]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:06:42]: ***  [, Level 0]: 'Intensiv_' changed name to 'Noxl's cat'
