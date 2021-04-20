@@ -3468,3 +3468,5 @@
 [2021-04-20 02:17:14]:   [, Level 0]: .: boop
 [2021-04-20 02:17:14]: ϻɪɔʜɑʟ [DogParty, Level 24]: Cylox: kill Move
 [2021-04-20 02:17:16]: ***  [, Level 0]: 'krallll' has left the game
+[2021-04-20 02:17:20]: ***  [, Level 0]: 'Arktict' entered and joined the game
+[2021-04-20 02:17:25]: Lumos [, Level 0]: aaaa
