@@ -21148,3 +21148,4 @@
 [2021-04-19 22:36:52]: SanoreX [Chilli.*, Level 27]: lag
 [2021-04-19 22:36:53]: SanoreX [Chilli.*, Level 27]: I cant move
 [2021-04-19 22:36:59]: SanoreX [Chilli.*, Level 27]: xd
+[2021-04-19 22:38:19]: [D] #5 blocker [Chilli.*, Level 0]: chiller xd
