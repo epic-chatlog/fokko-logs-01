@@ -1595,3 +1595,5 @@
 [2021-04-20 01:03:44]: falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: dude
 [2021-04-20 01:03:44]: Meetiteusz [TrRShClNrRs, Level 29]: Ðream: grabo
 [2021-04-20 01:03:45]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 01:03:53]: ᴄʜɪᴋᴀ [, Level 39]: Meetiteusz:  ok who is leader
+[2021-04-20 01:03:58]: __init__(self): [, Level 0]: i have horrible lags :D
