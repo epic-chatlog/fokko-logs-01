@@ -3471,3 +3471,7 @@
 [2021-04-20 02:17:20]: ***  [, Level 0]: 'Arktict' entered and joined the game
 [2021-04-20 02:17:25]: Lumos [, Level 0]: aaaa
 [2021-04-20 02:17:44]: Taip [VergleriSay, Level 19]: help
+[2021-04-20 02:17:57]: ***  [, Level 0]: Kompingo is on a killing spree with 5 blocks
+[2021-04-20 02:18:01]:   [, Level 0]: ReccoTR: Luna:
+[2021-04-20 02:18:02]: experto patrono [, Level 11]: Virus: wtf
+[2021-04-20 02:18:05]: experto patrono [, Level 11]: Virus: i cant understand
