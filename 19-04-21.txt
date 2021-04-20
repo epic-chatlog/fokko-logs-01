@@ -19576,3 +19576,5 @@
 [2021-04-19 17:00:27]: Shiro. [kys, Level 43]: bob: fuck off war
 [2021-04-19 17:00:29]: bob [, Level 36]: war
 [2021-04-19 17:00:34]: sharkz [, Level 0]: TL|ŦƹƦ$ŦǾN: turn stream off nahui
+[2021-04-19 17:00:45]: Zephir ツ [404, Level 40]: Shiro.: t'abandonne déjà
+[2021-04-19 17:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
