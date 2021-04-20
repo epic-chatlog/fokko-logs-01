@@ -10098,3 +10098,7 @@
 [2021-04-20 07:26:18]: ***  [ýÿÿ, Level 0]: 'BC|Tixnix' finished the special race!
 [2021-04-20 07:26:20]: ***  [ýÿÿ, Level 0]: 'aboba' entered and joined the game
 [2021-04-20 07:26:22]: ***  [ýÿÿ, Level 0]: '[D] å’¸é±¼æœ«' has left the game
+[2021-04-20 07:26:25]: Falco641 [.bad, Level 21]: vollesprit: dont move
+[2021-04-20 07:26:30]: ***  [ýÿÿ, Level 0]: 'aboba' has left the game
+[2021-04-20 07:26:33]: ***  [ýÿÿ, Level 0]: '[D] å’¸é±¼æœ«' entered and joined the game
+[2021-04-20 07:26:36]: BulgarianTee [Bulgaria, Level 0]: Random Guy: jetpack stealer
