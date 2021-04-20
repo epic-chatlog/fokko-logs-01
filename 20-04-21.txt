@@ -8508,3 +8508,5 @@
 [2021-04-20 06:12:54]:   [, Level 0]: Soyler: *ExTr1Me*: ÑÑ‚Ğ¾ Ğ²Ğ¾Ğ¾Ğ±Ñ‰Ğµ Ğ¼Ğ± Ğ±Ğ¾Ñ‚
 [2021-04-20 06:12:55]: ***  [şÿÿ, Level 0]: 'Lucas' entered and joined the game
 [2021-04-20 06:12:58]: RGB [R, Level 23]: ERROR: flab have 60 k
+[2021-04-20 06:13:13]: ***  [şÿÿ, Level 0]: 'Falco642' has left the game (Timeout)
+[2021-04-20 06:13:13]: ***  [şÿÿ, Level 0]: 'Falco641' has left the game (Timeout)
