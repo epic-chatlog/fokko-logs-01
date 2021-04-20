@@ -5431,3 +5431,6 @@
 [2021-04-20 03:44:15]: ***  [, Level 0]: 'ṆḕẌṳS' has left the game
 [2021-04-20 03:44:15]: GODLIKe [, Level 44]: WTF
 [2021-04-20 03:44:18]: GODLIKe [, Level 44]: delete game
+[2021-04-20 03:44:27]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-20 03:44:29]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-20 03:44:29]: ***  [, Level 0]: 'Falco641' entered and joined the game
