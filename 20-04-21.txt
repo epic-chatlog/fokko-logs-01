@@ -10782,3 +10782,9 @@
 [2021-04-20 07:52:09]: . [TrRShClNrRs, Level 11]: ERROR: and that offends everyone
 [2021-04-20 07:52:12]: ***  [ýÿÿ, Level 0]: 'soleri1' has left the game
 [2021-04-20 07:52:13]: . [TrRShClNrRs, Level 11]: maybe thats the reason
+[2021-04-20 07:52:18]: AxandosÂ² [, Level 21]: send love
+[2021-04-20 07:52:19]: ***  [ýÿÿ, Level 0]: Good man finished in: 0 minute(s) 45.72 second(s)
+[2021-04-20 07:52:19]: ***  [ýÿÿ, Level 0]: New record:  8.14 second(s) better.
+[2021-04-20 07:52:20]: bob [, Level 36]: nop
+[2021-04-20 07:52:25]: ***  [ýÿÿ, Level 0]: Coca finished in: 1 minute(s) 28.72 second(s)
+[2021-04-20 07:52:27]: AxandosÂ² [, Level 21]: send love
