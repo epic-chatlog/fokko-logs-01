@@ -10509,3 +10509,9 @@
 [2021-04-20 07:41:48]:   [, Level 0]: Mista bombastic: BulgarianTee: are u from roma?
 [2021-04-20 07:41:54]: BulgarianTee [Bulgaria, Level 0]: Mista bombastic: no, PoliceTee is
 [2021-04-20 07:41:57]: ***  [ýÿÿ, Level 0]: 'Telefantastic' has left the game
+[2021-04-20 07:42:00]: Random Guy [, Level 40]: BulgarianTee: i have this item forever
+[2021-04-20 07:42:04]: BulgarianTee [Bulgaria, Level 0]: Random Guy: heeeh?
+[2021-04-20 07:42:05]: Taip [VergleriSay, Level 19]: wtf
+[2021-04-20 07:42:06]: ***  [ýÿÿ, Level 0]: '(1)muluk' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-20 07:42:06]: ***  [ýÿÿ, Level 0]: '(1)muliboy' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-20 07:42:07]: BulgarianTee [Bulgaria, Level 0]: Random Guy: hax client on
