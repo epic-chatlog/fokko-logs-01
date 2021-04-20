@@ -19803,3 +19803,10 @@
 [2021-04-20 12:41:42]:   [, Level 0]: Cylox: __init__(self):: hi
 [2021-04-20 12:41:42]: ChillerDragon.* [Chilli.*, Level 42]: ca?
 [2021-04-20 12:41:42]:   [, Level 0]: El patron: bob: iMxtteo stop war
+[2021-04-20 12:41:44]: (1)Kirito [{TQuila}, Level 41]: SkyForge: ok virgin
+[2021-04-20 12:41:46]: f"{self.name}" [, Level 18]: hi
+[2021-04-20 12:41:46]: ***  [, Level 0]: '(3)Zʷʰʸˀ' entered and joined the game
+[2021-04-20 12:41:50]: ChillerDragon.* [Chilli.*, Level 42]: why didnt u help cat
+[2021-04-20 12:41:50]: Axel ² [TrRShClNrRs, Level 21]: (1)|HolyHo|°: but I decided to not buy it
+[2021-04-20 12:41:52]: iMxtteo [DogParty, Level 27]: El patron: i dont want war xd
+[2021-04-20 12:41:55]: bob [, Level 36]: [D] El patron: he 404?
