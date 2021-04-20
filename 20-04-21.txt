@@ -1470,3 +1470,5 @@
 [2021-04-20 00:58:38]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:58:45]: ᴄʜɪᴋᴀ [, Level 39]: Axandos:  suicide doenst work 100%
 [2021-04-20 00:58:47]: SanoreX [Chilli.*, Level 27]: RM | Arin: wait
+[2021-04-20 00:58:57]: Axandos [, Level 26]: true
+[2021-04-20 00:59:00]: ᴄʜɪᴋᴀ [, Level 39]: Axandos:  xD
