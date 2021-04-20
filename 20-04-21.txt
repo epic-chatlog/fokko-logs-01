@@ -6731,3 +6731,8 @@
 [2021-04-20 04:43:12]: Intensiv_ [DogParty, Level 11]: El patron:
 [2021-04-20 04:43:13]: Intensiv_ [DogParty, Level 11]: ?
 [2021-04-20 04:43:15]: SanoreX [Chilli.*, Level 27]: ChillerDragon.*: real?
+[2021-04-20 04:43:20]:   [, Level 0]: ChillerDragon.*: yes
+[2021-04-20 04:43:21]: ***  [’ÿÿÿ, Level 0]: oyun kralÄ± is on a killing spree with 5 blocks
+[2021-04-20 04:43:27]: SanoreX [Chilli.*, Level 27]: ChillerDragon.*: can I try something?
+[2021-04-20 04:43:29]: totaly friendly [, Level 0]: GREEN
+[2021-04-20 04:43:32]:   [, Level 0]: ChillerDragon.*: yes
