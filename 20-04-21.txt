@@ -20317,3 +20317,6 @@
 [2021-04-20 13:07:22]: El patron [FookinLads, Level 0]: weqe: help
 [2021-04-20 13:07:23]: ***  [, Level 0]: ChillerDragon is on a killing spree with 5 blocks
 [2021-04-20 13:07:23]: weqe [669, Level 0]: yes El patron
+[2021-04-20 13:07:28]: weqe [669, Level 0]: where El patron
+[2021-04-20 13:07:33]: El patron [FookinLads, Level 0]: weqe: left
+[2021-04-20 13:07:36]: ***  [, Level 0]: [D] SkyForge is on a killing spree with 5 blocks
