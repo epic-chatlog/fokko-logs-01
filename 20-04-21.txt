@@ -23084,3 +23084,4 @@
 [2021-04-20 16:00:44]: ***  [, Level 0]: woona is on a killing spree with 10 blocks
 [2021-04-20 16:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-20 16:00:52]: GODLIKe [, Level 44]: (1)Salut:
+[2021-04-20 16:01:32]: ***  [, Level 0]: 'La_Ikishima' has left the game
