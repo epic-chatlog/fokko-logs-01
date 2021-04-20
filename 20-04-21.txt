@@ -6509,3 +6509,4 @@
 [2021-04-20 04:33:17]: ***  [’ÿÿÿ, Level 0]: '(1)avioocals' has left the game
 [2021-04-20 04:33:18]: ***  [’ÿÿÿ, Level 0]: 'avioocals' entered and joined the game
 [2021-04-20 04:33:23]: ***  [’ÿÿÿ, Level 0]: 'Salut' has left the game
+[2021-04-20 04:33:32]: ***  [’ÿÿÿ, Level 0]: 'Ãream' joined the minigame 'Block', use '/block' to join aswell
