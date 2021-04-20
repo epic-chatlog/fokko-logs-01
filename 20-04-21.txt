@@ -1202,3 +1202,7 @@
 [2021-04-20 00:48:01]: ᴄʜɪᴋᴀ [, Level 0]: cat:  xD
 [2021-04-20 00:48:03]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:48:04]: ***  [, Level 0]: 'Raidon' has left the game
+[2021-04-20 00:48:05]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:48:06]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:48:09]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:48:17]: BitchCoin [, Level 5]: vollesprit:
