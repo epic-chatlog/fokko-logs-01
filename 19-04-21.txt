@@ -19580,3 +19580,7 @@
 [2021-04-19 17:00:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-19 17:01:11]: sharkz [, Level 45]: pascholsta
 [2021-04-19 17:01:15]: sharkz [, Level 45]: priviet
+[2021-04-19 17:01:19]: Zephir ツ [404, Level 40]: bob: don't try my shoot
+[2021-04-19 17:01:19]: sharkz [, Level 45]: davei
+[2021-04-19 17:01:26]: bob [, Level 36]: Zephir ツ: u sniper xd
+[2021-04-19 17:01:30]: Zephir ツ [404, Level 40]: bob: yep
