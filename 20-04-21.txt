@@ -794,3 +794,9 @@
 [2021-04-20 00:30:36]: (1)Ƭevan [TrRShClNrRs, Level 38]: Bruh.:
 [2021-04-20 00:30:37]: Raidon's Pet [, Level 20]: SanoreX: gıcık olmuştum ona
 [2021-04-20 00:30:39]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:30:41]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:30:44]: SanoreX [Chilli.*, Level 27]: Raidon: NAPİM
+[2021-04-20 00:30:46]: Meetiteusz [TrRShClNrRs, Level 29]: JustRace: can you answer me
+[2021-04-20 00:30:47]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:30:49]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:30:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
