@@ -21133,3 +21133,4 @@
 [2021-04-19 22:34:18]: SanoreX [Chilli.*, Level 27]: #5 blocker: go block DiscordBridge
 [2021-04-19 22:34:21]: SanoreX [Chilli.*, Level 27]: spec him
 [2021-04-19 22:34:26]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
+[2021-04-19 22:34:45]: ***  [, Level 0]: 'Noxl' entered and joined the game
