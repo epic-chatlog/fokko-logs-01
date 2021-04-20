@@ -11553,3 +11553,5 @@
 [2021-04-20 08:23:29]: ***  [ýÿÿ, Level 0]: 'Cylox' entered and joined the game
 [2021-04-20 08:23:30]: ***  [ýÿÿ, Level 0]: 'PANZELKOWY' entered and joined the game
 [2021-04-20 08:23:32]: ***  [ýÿÿ, Level 0]: 'Mista bombastic' changed name to 'Apfelsaft'
+[2021-04-20 08:23:44]: â–ˆ  Zeus  â–ˆ [, Level 0]: (2)Salut:
+[2021-04-20 08:23:46]:   [, Level 0]: weqe: bob: u have 5 secs
