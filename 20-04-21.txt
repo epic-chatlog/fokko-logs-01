@@ -21580,3 +21580,6 @@
 [2021-04-20 14:07:38]: [D] mamikral011 [DogParty, Level 27]: fokkonaut: hack :DD
 [2021-04-20 14:07:46]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 14:07:48]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 14:07:54]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 14:07:56]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 14:08:00]: mamikral011 [DogParty, Level 22]: fokkonaut: fuck
