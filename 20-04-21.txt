@@ -23122,3 +23122,4 @@
 [2021-04-20 16:05:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-20 16:05:55]: (1)☺ [, Level 26]: jen ai 50 mais pres sa monte jusqua 200 Zephir ツ
 [2021-04-20 16:06:00]: (2)Salut [, Level 0]: ☺: ca bug toujours un peu dans la police
+[2021-04-20 16:06:17]: (1)☺ [, Level 26]: pas que dans la police quand je fais des fight je bug
