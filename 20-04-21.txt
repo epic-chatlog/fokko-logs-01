@@ -20405,3 +20405,7 @@
 [2021-04-20 13:11:44]:   [, Level 0]: RM | Arin: f"{self.name}":  haha bad
 [2021-04-20 13:11:46]: woona [, Level 48]: weqe:
 [2021-04-20 13:11:46]: bob [, Level 36]: El patron: say where always
+[2021-04-20 13:11:47]: ☺ [, Level 28]: Zephir ツ: et axandos
+[2021-04-20 13:11:47]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-20 13:11:53]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-20 13:11:55]:   [, Level 0]: Hustlebacher: xD
