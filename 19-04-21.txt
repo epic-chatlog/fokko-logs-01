@@ -21573,3 +21573,6 @@
 [2021-04-19 23:24:53]: ZEWO [, Level 0]: sik 1
 [2021-04-19 23:24:59]: ZEWO [, Level 0]: cl_sik 1
 [2021-04-19 23:25:07]: JustRace [404, Level 0]: cl_aimbot 0
+[2021-04-19 23:25:12]: ~Never~ [Chilli.*, Level 7]: cl_aimbot 1
+[2021-04-19 23:25:14]: JustRace [404, Level 0]: #5 blocker:  gay
+[2021-04-19 23:25:21]: Fearless [, Level 40]: morning is so gay
