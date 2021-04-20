@@ -17500,3 +17500,7 @@
 [2021-04-20 11:18:39]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 11:18:41]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 11:18:44]: ***  [, Level 0]: 'Luki' has left the game
+[2021-04-20 11:19:06]: Green.exe [, Level 0]: UOYKCUFI: noob
+[2021-04-20 11:19:08]: P4Pyr0s [, Level 25]: SkyForge:
+[2021-04-20 11:19:14]: Green.exe [, Level 0]: 1min
+[2021-04-20 11:19:15]: Taip [VergleriSay, Level 20]: Isegrin broooooo
