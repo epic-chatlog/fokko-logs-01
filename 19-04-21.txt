@@ -20453,3 +20453,6 @@
 [2021-04-19 18:36:52]: Black [, Level 26]: nvm
 [2021-04-19 18:36:53]: Kirito [{TQuila}, Level 41]: i farm
 [2021-04-19 18:36:56]: Black [, Level 26]: ok
+[2021-04-19 18:37:05]: Black [, Level 26]: Kirito:  WAR
+[2021-04-19 18:37:06]: ***  [, Level 0]: 'Black' has left the game
+[2021-04-19 18:37:10]: Kirito [{TQuila}, Level 41]: xD
