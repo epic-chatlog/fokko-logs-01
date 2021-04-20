@@ -23316,3 +23316,5 @@
 [2021-04-20 16:25:07]: Zephir ツ [404, Level 40]: bye
 [2021-04-20 16:25:08]: ***  [, Level 0]: '(1)☺' has left the game
 [2021-04-20 16:25:08]: ***  [, Level 0]: '☺' has left the game
+[2021-04-20 16:25:12]: GODLIKe [, Level 44]: rq
+[2021-04-20 16:25:18]: woona [, Level 48]: RQ
