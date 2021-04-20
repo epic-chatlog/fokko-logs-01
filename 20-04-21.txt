@@ -22607,3 +22607,6 @@
 [2021-04-20 15:10:05]: [D] TeigHuhn [, Level 0]: do you have weapons
 [2021-04-20 15:10:06]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 0 minute(s) 27.22 second(s)
 [2021-04-20 15:10:06]: ***  [, Level 0]: New record:  6.04 second(s) better.
+[2021-04-20 15:10:12]: [D] TeigHuhn [, Level 0]: bob: can you train me
+[2021-04-20 15:10:17]: ~DemoizL~ [, Level 39]: Kenshi ツ: si je t'aide, on arrete de se bloquer ?
+[2021-04-20 15:10:21]: bob [, Level 36]: no
