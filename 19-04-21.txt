@@ -21078,3 +21078,5 @@
 [2021-04-19 21:58:41]: ***  [, Level 0]: New record: 23.26 second(s) better.
 [2021-04-19 21:58:45]: ***  [, Level 0]: (1)Vesorp finished in: 1 minute(s) 48.32 second(s)
 [2021-04-19 21:58:45]: ***  [, Level 0]: New record: 1 minute(s) 22.28 second(s) better.
+[2021-04-19 21:59:23]: ***  [, Level 0]: 'klas 2' has left the game
+[2021-04-19 21:59:23]: ***  [, Level 0]: 'klas' has left the game
