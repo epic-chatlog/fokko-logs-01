@@ -7857,3 +7857,6 @@
 [2021-04-20 05:30:34]: GReeeN [, Level 41]: rexi:  ja
 [2021-04-20 05:30:34]: SanoreX.* [Chilli.*, Level 23]: :D: sana komik bişe anlatimmi XD
 [2021-04-20 05:30:36]: ***  [, Level 0]: 'Black' has left the game
+[2021-04-20 05:30:40]: rexi [, Level 0]: hi
+[2021-04-20 05:30:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-20 05:30:51]: GReeeN [, Level 41]: hi
