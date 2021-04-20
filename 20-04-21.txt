@@ -17678,3 +17678,7 @@
 [2021-04-20 11:27:30]: ***  [, Level 0]: 'Nibba' joined the spectators
 [2021-04-20 11:27:31]: Lucas [THECEPS, Level 35]: Green.exe: i've jet ye
 [2021-04-20 11:27:33]: ***  [, Level 0]: 'Nibba' joined the game
+[2021-04-20 11:27:34]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-20 11:27:37]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-20 11:27:37]:   [, Level 0]: Sayme: JustRace:
+[2021-04-20 11:27:38]: ***  [, Level 0]: '[D] BULLETBOT' entered and joined the game
