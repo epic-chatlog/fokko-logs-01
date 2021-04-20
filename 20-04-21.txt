@@ -22650,3 +22650,7 @@
 [2021-04-20 15:14:33]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-20 15:14:38]: ***  [, Level 0]: '[D] ♥TAKO♥' entered and joined the game
 [2021-04-20 15:14:51]: ***  [, Level 0]: 'broken mouse2' entered and joined the game
+[2021-04-20 15:14:53]: ~DemoizL~ [, Level 39]: xD
+[2021-04-20 15:14:54]: ***  [, Level 0]: '[D] ♥TAKO♥' has left the game
+[2021-04-20 15:14:57]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-20 15:15:00]: (1)☺ [, Level 0]: GODLIKe:
