@@ -21473,3 +21473,4 @@
 [2021-04-19 23:18:35]: SanoreX [Chilli.*, Level 27]: cl_aimbot 0
 [2021-04-19 23:18:40]: JustRace [404, Level 0]: cl_aimbot 1
 [2021-04-19 23:18:42]: SanoreX [Chilli.*, Level 27]: cl_aimbot 0
+[2021-04-19 23:18:56]: SanoreX [Chilli.*, Level 27]: JustRace: STOP COMING BİTCJ
