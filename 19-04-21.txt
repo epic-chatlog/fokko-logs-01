@@ -20301,3 +20301,4 @@
 [2021-04-19 18:20:29]: Black [, Level 26]: 3
 [2021-04-19 18:20:30]: Black [, Level 26]: 2
 [2021-04-19 18:20:31]: Black [, Level 26]: 1
+[2021-04-19 18:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
