@@ -15602,3 +15602,11 @@
 [2021-04-20 10:36:53]: ERROR [404, Level 76]: BulgarianTee:  tomorrow we continue
 [2021-04-20 10:36:53]: Kirito [{TQuila}, Level 41]: bUlGaRiAnTeE:  ToMoRrOw wE CoNtInUe
 [2021-04-20 10:36:53]:   [, Level 0]: (2)Kirito: bUlGaRiAnTeE:  ToMoRrOw wE CoNtInUe
+[2021-04-20 10:37:02]: BulgarianTee [Bulgaria, Level 25]: ERROR: alright, its kinda fun
+[2021-04-20 10:37:02]: Kirito [{TQuila}, Level 41]: eRrOr: AlRiGhT, iTs kInDa fUn
+[2021-04-20 10:37:02]:   [, Level 0]: (2)Kirito: eRrOr: AlRiGhT, iTs kInDa fUn
+[2021-04-20 10:37:02]:   [, Level 0]: Hazel: Salut:  stop it idiot
+[2021-04-20 10:37:05]: TimePause [xSD7, Level 35]: BulgarianTee: why u dont finish homeworks early?
+[2021-04-20 10:37:05]:   [, Level 0]: (2)Kirito: bUlGaRiAnTeE: wHy u dOnT FiNiSh hOmEwOrKs eArLy?
+[2021-04-20 10:37:05]: Kirito [{TQuila}, Level 41]: bUlGaRiAnTeE: wHy u dOnT FiNiSh hOmEwOrKs eArLy?
+[2021-04-20 10:37:06]: ***  [, Level 0]: 'Tato15' joined the game
