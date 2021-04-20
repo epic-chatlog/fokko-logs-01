@@ -9554,3 +9554,4 @@
 [2021-04-20 06:55:29]: Â°YoshiÂ° [, Level 30]: GReeeN: thx
 [2021-04-20 06:55:36]: ***  [þÿÿ, Level 0]: 'aviÃ¸Ã¸cals 2.0' entered and joined the game
 [2021-04-20 06:55:38]: [D] El patron [FookinLads, Level 24]: JustRace:
+[2021-04-20 06:55:50]: ***  [þÿÿ, Level 0]: [INFO] Check out the minigames using '/minigames'
