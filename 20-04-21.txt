@@ -17616,3 +17616,7 @@
 [2021-04-20 11:24:19]: ***  [, Level 0]: 'dont kill me' entered and joined the game
 [2021-04-20 11:24:30]: Nagisa [H] [E8, Level 3]: ZEUS:
 [2021-04-20 11:24:35]: ***  [, Level 0]: 'noname' entered and joined the game
+[2021-04-20 11:24:44]: police officer [, Level 1]: Kirito i restart sorry
+[2021-04-20 11:24:47]: Nagisa [H] [E8, Level 3]: ZEUS:hook
+[2021-04-20 11:24:47]: ***  [, Level 0]: 'gamerzerof' joined the spectators
+[2021-04-20 11:24:50]: ***  [, Level 0]: 'gamerzerof' joined the game
