@@ -521,3 +521,9 @@
 [2021-04-20 00:22:30]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:22:30]: ***  [, Level 0]: 'rexi' entered and joined the game
 [2021-04-20 00:22:35]: Meetiteusz [TrRShClNrRs, Level 29]: JustRace: U started
+[2021-04-20 00:22:38]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:22:39]: Meetiteusz [TrRShClNrRs, Level 29]: JustRace: im waiting
+[2021-04-20 00:22:40]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:22:41]: Fearless [, Level 40]: JustRace:  im in math too lolll
+[2021-04-20 00:22:43]: JustRace [404, Level 36]: Meetiteusz:  you're on the warlist c:
+[2021-04-20 00:22:46]: Raidon [, Level 24]: SanoreX: bekle Ƭevan geliyo
