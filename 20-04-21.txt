@@ -20875,3 +20875,6 @@
 [2021-04-20 13:31:32]: noname [, Level 21]: SkyForge:
 [2021-04-20 13:31:35]: ***  [, Level 0]: 'Kirito' joined the minigame 'Survival', use '/survival' to join aswell
 [2021-04-20 13:31:35]: █  Zeus  █ [, Level 0]: gel jetpack alalım
+[2021-04-20 13:31:36]: ***  [, Level 0]: 'artur_xyz br' has left the game
+[2021-04-20 13:31:39]: ChillerDragon [Chilli.*, Level 45]: bra
+[2021-04-20 13:31:45]: ***  [, Level 0]: 'ShiroKIngt' has left the game
