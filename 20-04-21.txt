@@ -14756,3 +14756,7 @@
 [2021-04-20 10:05:20]: comic [comically, Level 15]: Ðeathscyth: some inf jump
 [2021-04-20 10:05:26]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-20 10:05:34]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-20 10:05:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-20 10:05:55]: ***  [, Level 0]: Valesz is on a killing spree with 5 blocks
+[2021-04-20 10:05:57]:   [, Level 0]: (1)☺: if i dont lagged i destroy you ZEUS
+[2021-04-20 10:05:59]:   [, Level 0]: yair: I like turtles.
