@@ -14620,3 +14620,6 @@
 [2021-04-20 10:00:20]: ***  [, Level 0]: 'Rainbow Tee' entered and joined the game
 [2021-04-20 10:00:23]: ***  [, Level 0]: 'artur_xyz br' has left the game
 [2021-04-20 10:00:24]: Hazel [, Level 0]: comic:  wanna do again this ma?
+[2021-04-20 10:00:27]: yair [, Level 36]: laggy shit
+[2021-04-20 10:00:27]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-20 10:00:33]: comic [comically, Level 15]: Hazel: what
