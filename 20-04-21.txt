@@ -7894,3 +7894,5 @@
 [2021-04-20 05:32:55]: (1)ERROR [404, Level 25]: xDDDDDDDDDDDDDDDDD
 [2021-04-20 05:33:03]: El patron [FookinLads, Level 31]: ERROR: jetpack
 [2021-04-20 05:33:10]: SanoreX [Chilli.*, Level 27]: x
+[2021-04-20 05:33:46]: ERROR. [404, Level 47]: ops
+[2021-04-20 05:33:50]: ERROR. [404, Level 47]: xD
