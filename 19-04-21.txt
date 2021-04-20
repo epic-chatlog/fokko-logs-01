@@ -21436,3 +21436,8 @@
 [2021-04-19 23:16:11]: Raidon [, Level 24]: release kullanıyom ona atcam dimi
 [2021-04-19 23:16:11]: ***  [, Level 0]: 'Magi:' entered and joined the game
 [2021-04-19 23:16:15]: SanoreX [Chilli.*, Level 27]: evt
+[2021-04-19 23:16:19]: Raidon [, Level 24]: tm eyw
+[2021-04-19 23:16:20]: SanoreX [Chilli.*, Level 27]: releasenin içine at
+[2021-04-19 23:16:22]: SanoreX [Chilli.*, Level 27]: ok
+[2021-04-19 23:16:23]: Raidon [, Level 24]: deneyip geliyom
+[2021-04-19 23:16:23]: SanoreX [Chilli.*, Level 27]: help
