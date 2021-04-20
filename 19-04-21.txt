@@ -21817,3 +21817,5 @@
 [2021-04-19 23:40:11]: SanoreX [Chilli.*, Level 27]: en idemem
 [2021-04-19 23:40:16]: Raidon's Pet [, Level 20]: SanoreX: mal
 [2021-04-19 23:40:18]: SanoreX [Chilli.*, Level 27]: amka
+[2021-04-19 23:40:30]: Raidon's Pet [, Level 20]: JotaCerve: WAR
+[2021-04-19 23:40:31]: Fearless [, Level 40]: pffff
