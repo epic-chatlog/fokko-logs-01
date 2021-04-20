@@ -22075,3 +22075,7 @@
 [2021-04-19 23:56:04]: ***  [, Level 0]: 'Eladio' entered and joined the game
 [2021-04-19 23:56:04]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-19 23:56:06]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:56:17]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:56:18]: Intensiv_ [DogParty, Level 0]: aim bot olm
+[2021-04-19 23:56:19]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:56:21]: brainless tee [, Level 0]: SanoreX.*: fuck off noob
