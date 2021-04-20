@@ -17409,3 +17409,7 @@
 [2021-04-20 11:14:45]: RM | Arin [Retard MNKY, Level 0]: wb  halt
 [2021-04-20 11:14:46]:   [, Level 0]: Recep: i noname?
 [2021-04-20 11:14:50]: RM | Arin [Retard MNKY, Level 0]: wait
+[2021-04-20 11:15:00]: ***  [, Level 0]: 'PANZELKOWY' entered and joined the game
+[2021-04-20 11:15:02]: ***  [, Level 0]: '(3)Salut' has left the game
+[2021-04-20 11:15:04]: Green.exe [, Level 0]: HardreenClutch: ein jahr?
+[2021-04-20 11:15:08]: Kaptar [, Level 24]: Zephir ツ: Ils valent rien mdr
