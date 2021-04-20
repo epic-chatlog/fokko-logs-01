@@ -6158,3 +6158,8 @@
 [2021-04-20 04:16:27]: ***  [’ÿÿÿ, Level 0]: 'ZEWO' has left the game
 [2021-04-20 04:16:33]: Falco642 [, Level 3]: vollesprit: ohh
 [2021-04-20 04:16:34]:   [, Level 0]: Intensiv_: [D] â™¥TAKOâ™¥:  19 lvl oldum
+[2021-04-20 04:16:52]: Falco642 [, Level 3]: vollesprit:  just hold hook, switch to dummy, release hook and switch back to main
+[2021-04-20 04:16:55]:   [, Level 0]: rexi: avioocals: what
+[2021-04-20 04:16:55]: Falco642 [, Level 3]: and its stuck
+[2021-04-20 04:16:57]: Falco642 [, Level 3]: or just hit enter
+[2021-04-20 04:17:01]: Falco642 [, Level 3]: while holding hook
