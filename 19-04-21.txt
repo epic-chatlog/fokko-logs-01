@@ -21285,3 +21285,5 @@
 [2021-04-19 23:00:16]: ***  [, Level 0]: 'Noxl' entered and joined the game
 [2021-04-19 23:00:16]: SanoreX [Chilli.*, Level 27]: U BLOCK ME
 [2021-04-19 23:00:31]: kurama [New Gen., Level 0]: who
+[2021-04-19 23:00:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 23:00:55]: Noxl [.bad, Level 48]: hi
