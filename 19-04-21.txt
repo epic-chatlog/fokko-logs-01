@@ -20521,3 +20521,4 @@
 [2021-04-19 18:51:17]: (1)☺ [, Level 26]: faqst |HolyHo|
 [2021-04-19 18:51:31]: (1)☺ [, Level 26]: fawt
 [2021-04-19 18:51:33]: (1)☺ [, Level 26]: fast
+[2021-04-19 18:51:54]: Killua [FookinLads, Level 37]: bob i want to add something to my discord bot. the bot can already add/remove people to/from team/war list, i can see if they are online and their level
