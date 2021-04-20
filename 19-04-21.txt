@@ -21560,3 +21560,9 @@
 [2021-04-19 23:24:21]: ***  [, Level 0]: Zerstrian finished in: 0 minute(s) 42.72 second(s)
 [2021-04-19 23:24:21]: ***  [, Level 0]: New record:  6.24 second(s) better.
 [2021-04-19 23:24:29]: ***  [, Level 0]: 'Wynox' has left the game
+[2021-04-19 23:24:34]: JustRace [404, Level 0]: cl_aimbot 1
+[2021-04-19 23:24:35]: SanoreX [Chilli.*, Level 27]: cl_aimbot 0
+[2021-04-19 23:24:37]: JustRace [404, Level 0]: hah
+[2021-04-19 23:24:38]: SanoreX [Chilli.*, Level 27]: ez
+[2021-04-19 23:24:39]: JustRace [404, Level 0]: cl_aimbot 0
+[2021-04-19 23:24:40]: ~Never~ [Chilli.*, Level 7]: ez
