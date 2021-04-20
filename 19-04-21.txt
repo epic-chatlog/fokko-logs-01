@@ -21282,3 +21282,5 @@
 [2021-04-19 22:59:29]: iydrss [|TR| Agalar, Level 24]: specliom
 [2021-04-19 22:59:31]: (1)SanoreX [Chilli.*, Level 0]: iydrss: HEKP
 [2021-04-19 23:00:01]: (1)SanoreX [Chilli.*, Level 0]: AMK
+[2021-04-19 23:00:16]: ***  [, Level 0]: 'Noxl' entered and joined the game
+[2021-04-19 23:00:16]: SanoreX [Chilli.*, Level 27]: U BLOCK ME
