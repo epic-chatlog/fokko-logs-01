@@ -21847,3 +21847,12 @@
 [2021-04-19 23:42:07]: ***  [, Level 0]: 'Jerry' finished the special race!
 [2021-04-19 23:42:15]: Fearless [, Level 40]: JustRace:  zephir is noname he helps him 24/7
 [2021-04-19 23:42:16]: Raidon's Pet [, Level 20]: Ðream: can help?
+[2021-04-19 23:42:25]: SanoreX [Chilli.*, Level 27]: wait
+[2021-04-19 23:42:25]: Noxl [.bad, Level 48]: Gren: 5oee Fearless
+[2021-04-19 23:42:26]: Raidon's Pet [, Level 20]: SanoreX: wait
+[2021-04-19 23:42:26]: Noxl [.bad, Level 48]: !
+[2021-04-19 23:42:28]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:42:29]: SanoreX [Chilli.*, Level 27]: u too
+[2021-04-19 23:42:30]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:42:32]: Fearless [, Level 40]: Noxl: ?
+[2021-04-19 23:42:32]: Raidon's Pet [, Level 20]: no u
