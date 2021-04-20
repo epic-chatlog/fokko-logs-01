@@ -4884,3 +4884,4 @@
 [2021-04-20 03:15:00]: ***  [, Level 0]: 'thekewsik' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-20 03:15:00]: ***  [, Level 0]: 'no friendly tee' has left the game (Timeout)
 [2021-04-20 03:15:01]: ~DemoizL~ [, Level 39]: vollesprit: tu l'avais fait dans quoi toi ?
+[2021-04-20 03:15:12]: vollesprit [, Level 2]: ~DemoizL~: palais de justice
