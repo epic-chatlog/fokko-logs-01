@@ -7657,3 +7657,7 @@
 [2021-04-20 05:19:27]: HardreenClutch [, Level 57]: ERROR:  jeder
 [2021-04-20 05:19:28]: HardreenClutch [, Level 57]: xD
 [2021-04-20 05:19:29]: ERROR [404, Level 76]: HardreenClutch:  laggst du?
+[2021-04-20 05:19:32]: ERROR [404, Level 76]: ok gut
+[2021-04-20 05:19:33]: Habeebee [, Level 0]: ddos amk
+[2021-04-20 05:19:35]: ERROR [404, Level 76]: xdd
+[2021-04-20 05:19:37]: ***  [, Level 0]: 'vollesprit' has left the game (Too weak connection (not acked for 60 seconds))
