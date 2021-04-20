@@ -21405,3 +21405,6 @@
 [2021-04-19 23:13:45]: ***  [, Level 0]: Noxl. finished in: 6 minute(s) 32.34 second(s)
 [2021-04-19 23:13:49]: ***  [, Level 0]: Noxl finished in: 4 minute(s) 33.52 second(s)
 [2021-04-19 23:13:50]: #5 blocker [Chilli.*, Level 24]: and my name
+[2021-04-19 23:14:02]: SanoreX [Chilli.*, Level 27]:  /stats #5 blocker
+[2021-04-19 23:14:05]: ~Never~ [Chilli.*, Level 7]: ik
+[2021-04-19 23:14:08]: #5 blocker [Chilli.*, Level 24]: ~Never~: police 0
