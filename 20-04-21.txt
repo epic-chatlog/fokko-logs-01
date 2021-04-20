@@ -17511,3 +17511,5 @@
 [2021-04-20 11:19:20]: Nagisa [H] [E8, Level 3]: fun war?
 [2021-04-20 11:19:24]: Green.exe [, Level 0]: 1min
 [2021-04-20 11:19:27]: P4Pyr0s [, Level 25]: forget it ^^
+[2021-04-20 11:19:36]: ***  [, Level 0]: 'Mista bombastic' has left the game
+[2021-04-20 11:19:39]: ***  [, Level 0]: 'Toxic Rick' entered and joined the game
