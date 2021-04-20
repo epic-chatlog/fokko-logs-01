@@ -7975,3 +7975,6 @@
 [2021-04-20 05:46:29]: ***  [þÿÿ, Level 0]: 'totaly friendly' entered and joined the game
 [2021-04-20 05:46:32]: ***  [þÿÿ, Level 0]: 'tee' entered and joined the game
 [2021-04-20 05:46:38]: ***  [þÿÿ, Level 0]: nenny is on a killing spree with 5 blocks
+[2021-04-20 05:46:42]: ***  [þÿÿ, Level 0]: nenny's killing spree was ended by BC|serwan (6 blocks)
+[2021-04-20 05:46:54]: ***  [þÿÿ, Level 0]: '31sj' has left the game
+[2021-04-20 05:46:54]: ***  [þÿÿ, Level 0]: 'deSi' has left the game
