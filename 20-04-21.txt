@@ -7914,3 +7914,9 @@
 [2021-04-20 05:36:08]: ***  [‡ÿÿÿ, Level 0]: 'Black' entered and joined the game
 [2021-04-20 05:36:13]: [D] BitchCoin [, Level 0]: ReXi: save me
 [2021-04-20 05:36:19]: [D] BitchCoin [, Level 0]: ReXi: thx
+[2021-04-20 05:36:33]: ***  [þÿÿ, Level 0]: 'Ravinan' would have timed out, but can use timeout protection now
+[2021-04-20 05:36:34]: ***  [þÿÿ, Level 0]: 'SanoreX' would have timed out, but can use timeout protection now
+[2021-04-20 05:36:34]: ***  [þÿÿ, Level 0]: 'SanoreX.*' would have timed out, but can use timeout protection now
+[2021-04-20 05:36:34]: ***  [þÿÿ, Level 0]: 'AllTheIDDrace' would have timed out, but can use timeout protection now
+[2021-04-20 05:36:40]: ***  [þÿÿ, Level 0]: 'Black' has left the game
+[2021-04-20 05:36:40]: ***  [þÿÿ, Level 0]: 'ilav' has left the game (Timeout)
