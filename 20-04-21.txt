@@ -17445,3 +17445,14 @@
 [2021-04-20 11:16:16]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 11:16:19]: Zephir ツ [404, Level 40]: Kaptar: puis pas besoin d'être 50 pour clean la police
 [2021-04-20 11:16:20]: Isegrin [, Level 55]: Brezn: prank bro
+[2021-04-20 11:16:25]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 11:16:27]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 11:16:28]: ***  [, Level 0]: 'gamerzerof' joined the spectators
+[2021-04-20 11:16:28]: Zephir ツ [404, Level 40]: Kaptar: je l'ai déjà fait solo quelques fois
+[2021-04-20 11:16:28]: ***  [, Level 0]: '[D] JustRace' entered and joined the game
+[2021-04-20 11:16:29]: Brezn [, Level 33]: Isegrin: i hate that prank
+[2021-04-20 11:16:31]: ***  [, Level 0]: 'gamerzerof' joined the game
+[2021-04-20 11:16:31]: ***  [, Level 0]: [D] El patron is on a killing spree with 25 blocks
+[2021-04-20 11:16:32]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 11:16:34]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 11:16:35]: hardbass [, Level 0]: lag
