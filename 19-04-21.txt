@@ -21091,3 +21091,4 @@
 [2021-04-19 22:10:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-19 22:12:05]: ***  [, Level 0]: 'LUCHCBETA' entered and joined the game
 [2021-04-19 22:12:26]: ***  [, Level 0]: 'LUCHCBETA' has left the game
+[2021-04-19 22:15:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
