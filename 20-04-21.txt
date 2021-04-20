@@ -6325,3 +6325,7 @@
 [2021-04-20 04:25:24]: Falco641 [.bad, Level 20]: Minato / FR: move
 [2021-04-20 04:25:25]: ***  [’ÿÿÿ, Level 0]: 'MONOKUMA' has left the game
 [2021-04-20 04:25:28]: SanoreX [Chilli.*, Level 27]: oyun kralÄ±: bi tuÅŸ bu
+[2021-04-20 04:25:33]: ***  [’ÿÿÿ, Level 0]: 'Ä°chMichel' changed name to 'Cylox'
+[2021-04-20 04:25:33]: ***  [’ÿÿÿ, Level 0]: 'Ä°chMichel.' changed name to '[D] Cylox'
+[2021-04-20 04:25:41]: Cylox [{TQuila}, Level 32]: la yardÄ±m
+[2021-04-20 04:25:42]: Cylox [{TQuila}, Level 32]: para var
