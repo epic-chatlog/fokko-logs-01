@@ -7761,3 +7761,7 @@
 [2021-04-20 05:23:11]: [D] El patron [FookinLads, Level 24]: GReeeN:
 [2021-04-20 05:23:14]: rexi [, Level 0]: GReeeN: hilf ma
 [2021-04-20 05:23:17]: Black [, Level 0]: fokkonaut: ur server is like my face
+[2021-04-20 05:23:50]: rexi [, Level 0]: xd
+[2021-04-20 05:23:53]: ***  [, Level 0]: 'Intensiv' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-20 05:23:55]: ***  [, Level 0]: '(1)kais' has left the game (Timeout Protection over)
+[2021-04-20 05:23:55]: ***  [, Level 0]: 'kais' has left the game (Timeout Protection over)
