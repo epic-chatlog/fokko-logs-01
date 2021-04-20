@@ -15550,3 +15550,9 @@
 [2021-04-20 10:35:45]: (1)Kirito [, Level 0]: cOmE GhFdJxC
 [2021-04-20 10:35:49]: ***  [, Level 0]: '(3)Kirito' entered and joined the game
 [2021-04-20 10:35:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-20 10:35:56]: weqe [669, Level 13]: Zephir ツ: wtf i didnt touch u
+[2021-04-20 10:35:56]:   [, Level 0]: (3)Kirito: zEpHiR ツ: wTf i dIdNt tOuCh u
+[2021-04-20 10:35:56]: (1)Kirito [, Level 0]: zEpHiR ツ: wTf i dIdNt tOuCh u
+[2021-04-20 10:36:03]: Brezn [, Level 33]: I like turtles.
+[2021-04-20 10:36:03]:   [, Level 0]: (3)Kirito: i lIkE TuRtLeS.
+[2021-04-20 10:36:03]: (1)Kirito [, Level 12]: i lIkE TuRtLeS.
