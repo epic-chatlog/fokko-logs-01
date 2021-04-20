@@ -6208,3 +6208,9 @@
 [2021-04-20 04:19:34]: ***  [’ÿÿÿ, Level 0]: '(1)Jerry' has left the game
 [2021-04-20 04:19:36]: GODLIKe. [, Level 39]: [D] â™¥TAKOâ™¥: aim bot degil
 [2021-04-20 04:19:40]: GODLIKe. [, Level 39]: [D] â™¥TAKOâ™¥  bind bi tane
+[2021-04-20 04:19:44]: ***  [’ÿÿÿ, Level 0]: 'GÃ¶nczi Tyson' entered and joined the game
+[2021-04-20 04:19:45]: GODLIKe. [, Level 39]: [D] â™¥TAKOâ™¥: bak ÅŸimdi gel yanÄ±ma
+[2021-04-20 04:19:46]: [D] â™¥TAKOâ™¥ [DogParty, Level 0]: GODLIKe:  e tmm aim bot iÅŸte
+[2021-04-20 04:19:49]: ***  [’ÿÿÿ, Level 0]: 'Demogorgon' entered and joined the game
+[2021-04-20 04:19:51]: CKA3A4NIK[NR] [Night Raid, Level 35]: [D] â™¥TAKOâ™¥:  Dont move
+[2021-04-20 04:19:53]: GODLIKe. [, Level 39]: [D] â™¥TAKOâ™¥: sadece gÃ¶zl takip ediyor
