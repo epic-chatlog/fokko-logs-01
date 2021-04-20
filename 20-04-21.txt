@@ -21661,3 +21661,6 @@
 [2021-04-20 14:11:39]: mamikral011 [DogParty, Level 22]: █  Zeus  █: 5sv lik
 [2021-04-20 14:11:39]: █  Zeus  █ [, Level 0]: yukardaki bank
 [2021-04-20 14:11:44]: █  Zeus  █ [, Level 0]: söyle
+[2021-04-20 14:11:46]: Axel ² [TrRShClNrRs, Level 11]: Zephir ツ: +, so gn
+[2021-04-20 14:11:47]: ***  [, Level 0]: 'Axel ²' has left the game
+[2021-04-20 14:11:47]: ***  [, Level 0]: 'Axel' has left the game
