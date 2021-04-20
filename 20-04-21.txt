@@ -1254,3 +1254,7 @@
 [2021-04-20 00:50:08]: ***  [, Level 0]: '『Jester』' entered and joined the game
 [2021-04-20 00:50:10]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-20 00:50:24]: ᴄʜɪᴋᴀ [, Level 39]: cat:  cbt is fun
+[2021-04-20 00:50:26]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:50:28]: ᴄʜɪᴋᴀ [, Level 39]: cat:  yk
+[2021-04-20 00:50:28]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:50:30]: rexi [, Level 0]: LET ME FUCKING CHILL
