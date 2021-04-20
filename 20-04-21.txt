@@ -1395,3 +1395,8 @@
 [2021-04-20 00:55:36]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:55:39]: SanoreX [Chilli.*, Level 27]: workingggggggggg
 [2021-04-20 00:55:41]: ***  [, Level 0]: Axandos²'s killing spree was ended by Eladio (7 blocks)
+[2021-04-20 00:55:44]: ***  [, Level 0]: 'fajorwerka' has left the game
+[2021-04-20 00:55:46]: Meetiteusz [TrRShClNrRs, Level 29]: BitchCoin: nice name xD
+[2021-04-20 00:55:48]: ***  [, Level 0]: 'fajorwerka' entered and joined the game
+[2021-04-20 00:55:49]: ***  [, Level 0]: 'Cacke' entered and joined the game
+[2021-04-20 00:55:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
