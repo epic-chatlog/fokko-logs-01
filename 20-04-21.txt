@@ -3840,3 +3840,9 @@
 [2021-04-20 02:30:01]: ***  [, Level 0]: 'El Monkey' has left the game
 [2021-04-20 02:30:02]: ***  [, Level 0]: '(1)' entered and joined the game
 [2021-04-20 02:30:04]: Arktict [, Level 31]: sun.slow(y):
+[2021-04-20 02:30:12]:   [, Level 0]: any﹥❅: Zephir ツ: heyyyy
+[2021-04-20 02:30:13]: ***  [, Level 0]: 'Hawli bir insan' entered and joined the game
+[2021-04-20 02:30:15]: ***  [, Level 0]: 'Hawli bir insan' has left the game
+[2021-04-20 02:30:16]: Arktict [, Level 31]: ty
+[2021-04-20 02:30:19]: Zephir ツ [404, Level 40]: any yop :D
+[2021-04-20 02:30:20]: ***  [, Level 0]: hatHCHecks is on a killing spree with 5 blocks
