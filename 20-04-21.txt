@@ -6721,3 +6721,9 @@
 [2021-04-20 04:42:38]: ***  [’ÿÿÿ, Level 0]: 'flolan_tee' joined the game
 [2021-04-20 04:42:43]: Intensiv_ [DogParty, Level 11]: El patron:  BLOCK NO
 [2021-04-20 04:42:47]: Intensiv_ [DogParty, Level 11]: NO HELPED
+[2021-04-20 04:42:56]: ***  [’ÿÿÿ, Level 0]: 'flolan_tee' joined the spectators
+[2021-04-20 04:42:58]: weqe [669, Level 13]: idk how Chillingo
+[2021-04-20 04:43:01]: SanoreX [Chilli.*, Level 27]: om
+[2021-04-20 04:43:06]: SanoreX [Chilli.*, Level 27]: go plots
+[2021-04-20 04:43:07]:   [, Level 0]: ChillerDragon.*: ok
+[2021-04-20 04:43:08]: Cylox [{TQuila}, Level 32]: sdorry
