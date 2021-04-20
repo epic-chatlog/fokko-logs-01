@@ -18296,3 +18296,7 @@
 [2021-04-20 11:48:59]:   [, Level 0]: bubblechicken50: Falco641: im trying to show you something
 [2021-04-20 11:49:02]: Intensiv_ [DogParty, Level 19]: GReeeN:  help :(
 [2021-04-20 11:49:04]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 11:49:06]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 11:49:08]: ***  [, Level 0]: 403. Vertex Time: 01:12.68, requested by Vertex
+[2021-04-20 11:49:12]:   [, Level 0]: ϻɪɔʜɑʟ: good
+[2021-04-20 11:49:16]: ***  [, Level 0]: 'Jeloudagh' has left the game
