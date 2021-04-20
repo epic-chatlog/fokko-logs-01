@@ -244,3 +244,7 @@
 [2021-04-20 00:09:33]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:09:35]: bababuia [AUG CREW, Level 0]: ba bo boy
 [2021-04-20 00:09:36]: ***  [, Level 0]: 'Yamato' has left the game
+[2021-04-20 00:09:39]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:09:41]: SanoreX.* [Chilli.*, Level 23]: wait
+[2021-04-20 00:09:41]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:09:46]: Raidon [, Level 24]: SanoreX.*: mal aq şalsdkaşsld
