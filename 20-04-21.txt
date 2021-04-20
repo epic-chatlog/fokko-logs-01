@@ -16744,3 +16744,12 @@
 [2021-04-20 10:52:36]: (2)Kirito [{TQuila}, Level 27]: bReZn:  fOr fUn xD
 [2021-04-20 10:52:36]: (1)Kirito [{TQuila}, Level 15]: bReZn:  fOr fUn xD
 [2021-04-20 10:52:37]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-20 10:52:46]: power2 [TrRShClNrRs, Level 0]: now jump on the cornor to ur right
+[2021-04-20 10:52:46]: Kirito [{TQuila}, Level 41]: nOw jUmP On tHe cOrNoR To uR RiGhT
+[2021-04-20 10:52:46]: (2)Kirito [{TQuila}, Level 27]: nOw jUmP On tHe cOrNoR To uR RiGhT
+[2021-04-20 10:52:46]: (3)Kirito [{TQuila}, Level 12]: nOw jUmP On tHe cOrNoR To uR RiGhT
+[2021-04-20 10:52:46]: (1)Kirito [{TQuila}, Level 15]: nOw jUmP On tHe cOrNoR To uR RiGhT
+[2021-04-20 10:52:49]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-20 10:52:51]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-20 10:52:51]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-20 10:52:55]: power2 [TrRShClNrRs, Level 0]: noo
