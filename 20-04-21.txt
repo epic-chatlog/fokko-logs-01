@@ -338,3 +338,7 @@
 [2021-04-20 00:14:14]: Noxl [.bad, Level 48]: Nightmare:
 [2021-04-20 00:14:16]: Noxl [.bad, Level 48]: <<
 [2021-04-20 00:14:20]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:14:22]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:14:23]: Raidon's Pet [, Level 20]: tm spamla
+[2021-04-20 00:14:29]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:14:31]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
