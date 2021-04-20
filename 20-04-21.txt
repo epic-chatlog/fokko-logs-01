@@ -8369,3 +8369,4 @@
 [2021-04-20 06:05:28]: ***  [þÿÿ, Level 0]: 'thekewsik' entered and joined the game
 [2021-04-20 06:05:29]: ***  [þÿÿ, Level 0]: 'Bigmac' has left the game
 [2021-04-20 06:05:30]: ***  [þÿÿ, Level 0]: 'adamabel' joined the spectators
+[2021-04-20 06:05:33]: ***  [þÿÿ, Level 0]: 'adamabel' joined the game
