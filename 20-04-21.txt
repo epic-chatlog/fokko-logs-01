@@ -8376,3 +8376,11 @@
 [2021-04-20 06:05:51]: ***  [şÿÿ, Level 0]: '(1)f"{self.name}' has left the game
 [2021-04-20 06:06:03]: RGB [R, Level 23]: Black: hla
 [2021-04-20 06:06:07]: ***  [şÿÿ, Level 0]: 'adamabel' joined the spectators
+[2021-04-20 06:06:10]: the last kozlik [Anti ludi, Level 0]: Ñ…Ğ²Ğ°Ñ‚Ğ¸Ñ‚
+[2021-04-20 06:06:10]: ***  [şÿÿ, Level 0]: 'adamabel' joined the game
+[2021-04-20 06:06:14]: the last kozlik [Anti ludi, Level 0]: Ğ¾Ñ‚Ğ¿ÑƒÑÑ‚Ğ¸
+[2021-04-20 06:06:15]: ***  [şÿÿ, Level 0]: 'Daffy 0iq' entered and joined the game
+[2021-04-20 06:06:19]:   [, Level 0]: Daffy 0iq: Good man: Ñ…Ğ°Ğ¹
+[2021-04-20 06:06:19]: Coca [Drunks, Level 25]: (1)Æ¬evan:
+[2021-04-20 06:06:21]: ***  [şÿÿ, Level 0]: 'BC|serwan' would have timed out, but can use timeout protection now
+[2021-04-20 06:06:21]: Coca [Drunks, Level 25]: (1)Æ¬evan:
