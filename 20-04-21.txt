@@ -15337,3 +15337,8 @@
 [2021-04-20 10:29:53]: ***  [, Level 0]: '[d]' entered and joined the game
 [2021-04-20 10:29:57]: bob [, Level 36]: [D] Cylox: where
 [2021-04-20 10:29:58]: Cylox [{TQuila}, Level 32]: bob: lrgy
+[2021-04-20 10:30:00]: Cylox [{TQuila}, Level 32]: left
+[2021-04-20 10:30:02]: Cylox [{TQuila}, Level 32]: bob:
+[2021-04-20 10:30:03]:   [, Level 0]: Kirito: El patron: kleines helperkid. EVERYONE: El patron = TOXICDADDY
+[2021-04-20 10:30:06]:   [, Level 0]: BULLETBOT: double kill
+[2021-04-20 10:30:11]:   [, Level 0]: Kirito: Brezn: !
