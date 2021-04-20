@@ -5759,3 +5759,9 @@
 [2021-04-20 04:02:32]: ***  [, Level 0]: Ravinan is on a killing spree with 5 blocks
 [2021-04-20 04:02:40]: (1)Coca [Drunks, Level 19]: не
 [2021-04-20 04:02:42]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: drop
+[2021-04-20 04:02:42]: ***  [, Level 0]: Ravinan is on a killing spree with 10 blocks
+[2021-04-20 04:02:52]: ***  [, Level 0]: 'Minato/fr dumy' entered and joined the game
+[2021-04-20 04:02:52]: ***  [, Level 0]: Ravinan is on a killing spree with 15 blocks
+[2021-04-20 04:02:53]: ***  [, Level 0]: 'Minato/fr dumy' has left the game
+[2021-04-20 04:02:54]: ***  [, Level 0]: Ravinan's killing spree was ended by Chillingo (16 blocks)
+[2021-04-20 04:02:54]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: go away
