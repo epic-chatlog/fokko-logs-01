@@ -20286,3 +20286,7 @@
 [2021-04-20 13:05:13]: ***  [, Level 0]: 'Vanish Abar²' has left the game
 [2021-04-20 13:05:15]: ***  [, Level 0]: RM | Arin is on a killing spree with 5 blocks
 [2021-04-20 13:05:18]: ***  [, Level 0]: 'Axel' would have timed out, but can use timeout protection now
+[2021-04-20 13:05:28]:   [, Level 0]: bob: HAHAHAH
+[2021-04-20 13:05:30]:   [, Level 0]: bob: ahhaa
+[2021-04-20 13:05:31]: ***  [, Level 0]: 'NeXus' has left the game
+[2021-04-20 13:05:33]:   [, Level 0]: bob: YESSSS BABYYYYYY
