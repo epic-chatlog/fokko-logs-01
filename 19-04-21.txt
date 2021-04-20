@@ -21783,3 +21783,6 @@
 [2021-04-19 23:37:36]: Raidon [, Level 0]: Tom: hook+a
 [2021-04-19 23:37:39]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-19 23:37:42]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:37:52]: ***  [, Level 0]: 'Lexi<3' has left the game
+[2021-04-19 23:37:56]: SanoreX [Chilli.*, Level 27]: joke
+[2021-04-19 23:38:02]: ***  [, Level 0]: 'Jeloudagh' has left the game
