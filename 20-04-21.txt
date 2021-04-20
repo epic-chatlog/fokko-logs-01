@@ -301,3 +301,7 @@
 [2021-04-20 00:13:10]: ***  [, Level 0]: 'CHRICHRIS' entered and joined the game
 [2021-04-20 00:13:13]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:13:15]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:13:19]: ***  [, Level 0]: 'uki9' entered and joined the game
+[2021-04-20 00:13:27]: SanoreX.* [Chilli.*, Level 23]: Raidon: canlı dersteyim afk
+[2021-04-20 00:13:28]: SanoreX.* [Chilli.*, Level 23]: sorry
+[2021-04-20 00:13:30]: ***  [, Level 0]: 'Jeloudagh' has left the game
