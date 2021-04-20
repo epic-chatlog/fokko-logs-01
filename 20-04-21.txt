@@ -11022,3 +11022,5 @@
 [2021-04-20 08:05:00]: BulgarianTee [Bulgaria, Level 0]: MY DDNET WAS DED FOR A SEC ERROR. :C
 [2021-04-20 08:05:02]: BulgarianTee [Bulgaria, Level 0]: bad
 [2021-04-20 08:05:07]: ERROR [404, Level 76]: xD
+[2021-04-20 08:05:21]: pow232 [, Level 0]: BC|Tixnix:
+[2021-04-20 08:05:23]: ***  [ýÿÿ, Level 0]: 'ERROR CRASH' changed name to 'tee pliss help'
