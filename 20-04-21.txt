@@ -8065,3 +8065,12 @@
 [2021-04-20 05:53:50]: RGB [R, Level 23]: Pouet[NR]: WHO ARE YOU
 [2021-04-20 05:53:52]: (1)f"{self.name [, Level 0]: Lakatos Mario: just go to right as much as you can then rocket
 [2021-04-20 05:53:54]: BC|serwan [BC, Level 0]: Taip: dont kill Tixnix
+[2021-04-20 05:53:58]: ERROR [404, Level 76]: nono i would never kill him
+[2021-04-20 05:53:59]: BulgarianTee [Bulgaria, Level 0]: TL|ŦƹƦ$ŦǾN: chatkill
+[2021-04-20 05:54:00]: cunt [TrRShClNrRs, Level 0]: nenny: NANI?
+[2021-04-20 05:54:00]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 57]: BulgarianTee: ill give u 3 chances
+[2021-04-20 05:54:01]: Taip [VergleriSay, Level 0]: he
+[2021-04-20 05:54:02]: Taip [VergleriSay, Level 0]: block me
+[2021-04-20 05:54:04]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 57]: BulgarianTee: if u bring me laser
+[2021-04-20 05:54:05]: Taip [VergleriSay, Level 0]: and my
+[2021-04-20 05:54:07]: Taip [VergleriSay, Level 0]: friend
