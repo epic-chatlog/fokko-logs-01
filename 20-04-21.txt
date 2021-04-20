@@ -8364,3 +8364,8 @@
 [2021-04-20 06:05:12]: ***  [þÿÿ, Level 0]: (1)ZEWO finished in: 13 minute(s) 45.82 second(s)
 [2021-04-20 06:05:12]: Lakatos Mario [, Level 0]: no pls
 [2021-04-20 06:05:16]: ***  [þÿÿ, Level 0]: BC|serwan finished in: 15 minute(s) 34.90 second(s)
+[2021-04-20 06:05:24]: ***  [þÿÿ, Level 0]: ZEWO finished in: 10 minute(s) 49.76 second(s)
+[2021-04-20 06:05:27]: ***  [þÿÿ, Level 0]: 'the last kozol' entered and joined the game
+[2021-04-20 06:05:28]: ***  [þÿÿ, Level 0]: 'thekewsik' entered and joined the game
+[2021-04-20 06:05:29]: ***  [þÿÿ, Level 0]: 'Bigmac' has left the game
+[2021-04-20 06:05:30]: ***  [þÿÿ, Level 0]: 'adamabel' joined the spectators
