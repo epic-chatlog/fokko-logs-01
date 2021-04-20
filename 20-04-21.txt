@@ -14553,3 +14553,12 @@
 [2021-04-20 09:57:00]: ***  [, Level 0]: '(C)Ali' has left the game (Timeout Protection over)
 [2021-04-20 09:57:00]: ***  [, Level 0]: '█  Zeus  █' has left the game (Timeout Protection over)
 [2021-04-20 09:57:04]: ***  [, Level 0]: 'choc' has left the game
+[2021-04-20 09:57:09]: Mr.666 [Hell.666, Level 0]: hey
+[2021-04-20 09:57:09]: ***  [, Level 0]: 'teec tac' entered and joined the game
+[2021-04-20 09:57:09]: comic [comically, Level 15]: stop fighting
+[2021-04-20 09:57:11]: BulgarianTee [Bulgaria, Level 25]: xD
+[2021-04-20 09:57:11]: Mr.666 [Hell.666, Level 0]: i need help
+[2021-04-20 09:57:13]: ***  [, Level 0]: 'choc' entered and joined the game
+[2021-04-20 09:57:16]: [BOT-COMEND-GG! [, Level 0]: xd???
+[2021-04-20 09:57:17]: ***  [, Level 0]: BulgarianTee finished in: 2 minute(s) 28.68 second(s)
+[2021-04-20 09:57:17]: ***  [, Level 0]: New record:  6.28 second(s) better.
