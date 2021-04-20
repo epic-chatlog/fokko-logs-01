@@ -7942,3 +7942,4 @@
 [2021-04-20 05:40:50]: ***  [þÿÿ, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-20 05:40:53]: ***  [þÿÿ, Level 0]: 'rexi' would have timed out, but can use timeout protection now
 [2021-04-20 05:40:53]: ***  [þÿÿ, Level 0]: 'ReXi' would have timed out, but can use timeout protection now
+[2021-04-20 05:41:01]: ***  [þÿÿ, Level 0]: '.insta-GH___PRQ' entered and joined the game
