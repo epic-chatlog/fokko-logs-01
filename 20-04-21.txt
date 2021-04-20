@@ -21631,3 +21631,9 @@
 [2021-04-20 14:10:42]: mamikral011 [DogParty, Level 22]: █  Zeus  █: sv
 [2021-04-20 14:10:43]: ***  [, Level 0]: 'Marcisten Dummy' has left the game
 [2021-04-20 14:10:43]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-20 14:10:46]: mamikral011 [DogParty, Level 22]: █  Zeus  █: seviye
+[2021-04-20 14:10:48]: █  Zeus  █ [, Level 0]: 4 olcam 50 xp kaldı
+[2021-04-20 14:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-20 14:10:51]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 14:10:53]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 14:10:54]: █  Zeus  █ [, Level 0]: evt
