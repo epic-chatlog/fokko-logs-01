@@ -20222,3 +20222,6 @@
 [2021-04-19 18:10:05]: Black [, Level 26]: xDF
 [2021-04-19 18:10:11]: Kirito [{TQuila}, Level 41]: ok wait
 [2021-04-19 18:10:23]: ***  [, Level 0]: 'Kirito' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-19 18:10:47]: ***  [, Level 0]: 'Falkum' entered and joined the game
+[2021-04-19 18:10:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-19 18:10:55]: ***  [, Level 0]: 'Falkum' has left the game
