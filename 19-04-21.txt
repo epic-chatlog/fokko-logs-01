@@ -21126,3 +21126,5 @@
 [2021-04-19 22:33:28]: #5 blocker [Chilli.*, Level 24]: i look
 [2021-04-19 22:33:38]: ***  [, Level 0]: 'Noxl' has left the game
 [2021-04-19 22:33:48]: SanoreX [Chilli.*, Level 27]: I cant do aled sometimmes
+[2021-04-19 22:33:53]: SanoreX [Chilli.*, Level 27]: I can do on local
+[2021-04-19 22:33:54]: SanoreX [Chilli.*, Level 27]: promise
