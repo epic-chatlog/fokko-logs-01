@@ -21983,3 +21983,5 @@
 [2021-04-19 23:51:00]: SanoreX [Chilli.*, Level 27]: zıpla
 [2021-04-19 23:51:04]: ***  [, Level 0]: 'Lumos' entered and joined the game
 [2021-04-19 23:51:05]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:51:07]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:51:08]: Raidon [, Level 24]: bi sn
