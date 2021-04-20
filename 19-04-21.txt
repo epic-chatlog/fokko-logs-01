@@ -21825,3 +21825,8 @@
 [2021-04-19 23:40:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-19 23:40:52]: SanoreX [Chilli.*, Level 27]: (1)Ƭevan: hook me plz
 [2021-04-19 23:40:53]: Gren [, Level 23]: JustRace: he not your war
+[2021-04-19 23:40:57]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:40:58]: JustRace [404, Level 36]: Gren:  but my friend
+[2021-04-19 23:40:59]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:41:03]: SanoreX.* [Chilli.*, Level 23]: AMIK
+[2021-04-19 23:41:07]: JustRace [404, Level 36]: Gren:  I wont let him die
