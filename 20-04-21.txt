@@ -9280,3 +9280,6 @@
 [2021-04-20 06:44:05]: ***  [þÿÿ, Level 0]: '(1)Intensiv_' has left the game
 [2021-04-20 06:44:05]: ***  [þÿÿ, Level 0]: 'Intensiv_' has left the game
 [2021-04-20 06:44:06]: (1)ERROR [404, Level 25]: Nightmare:  its just fdun xd
+[2021-04-20 06:44:15]: Nightmare [, Level 0]: (1)ERROR: ooh
+[2021-04-20 06:44:20]: ***  [þÿÿ, Level 0]: 'kristalik25' has left the game
+[2021-04-20 06:44:23]: ***  [þÿÿ, Level 0]: [D] BC|serwan is on a killing spree with 10 blocks
