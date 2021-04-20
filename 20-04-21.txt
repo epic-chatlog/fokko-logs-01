@@ -3428,3 +3428,5 @@
 [2021-04-20 02:15:31]: ***  [, Level 0]: '(1)[D] Kompingo' entered and joined the game
 [2021-04-20 02:15:33]: krallll [DogParty, Level 27]: Taip: war
 [2021-04-20 02:15:37]:   [, Level 0]: Virus: AAAAA
+[2021-04-20 02:15:43]:   [, Level 0]: .: f
+[2021-04-20 02:15:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
