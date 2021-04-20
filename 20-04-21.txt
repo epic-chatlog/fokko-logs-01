@@ -1574,3 +1574,10 @@
 [2021-04-20 01:02:53]: Taip [VergleriSay, Level 0]: bro
 [2021-04-20 01:02:54]: Taip [VergleriSay, Level 0]: come
 [2021-04-20 01:02:56]: Meetiteusz [TrRShClNrRs, Level 29]: chika trashcleaners
+[2021-04-20 01:03:00]: ***  [, Level 0]: 'Evaly FBI agent' entered and joined the game
+[2021-04-20 01:03:03]: Taip [VergleriSay, Level 0]: come
+[2021-04-20 01:03:05]: ***  [, Level 0]: 'Evaly FBI agent' has left the game
+[2021-04-20 01:03:05]: f"{self.name}" [, Level 0]: laaaags
+[2021-04-20 01:03:08]: SanoreX [Chilli.*, Level 27]: RM | Arin: look
+[2021-04-20 01:03:09]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-20 01:03:11]: ghp [1234, Level 0]: portal piso
