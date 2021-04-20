@@ -19994,3 +19994,6 @@
 [2021-04-19 17:31:30]: (1)☺ [, Level 26]: mon flag Zephir ツ
 [2021-04-19 17:32:37]: Kirito [{TQuila}, Level 41]: ☺: let me dude i helped you!
 [2021-04-19 17:32:45]: (1)☺ [, Level 26]: yes but its my flag
+[2021-04-19 17:32:51]: ***  [, Level 0]: 'ezy' entered and joined the game
+[2021-04-19 17:33:00]: (1)☺ [, Level 26]: help me
+[2021-04-19 17:33:01]: ***  [, Level 0]: 'nar' entered and joined the game
