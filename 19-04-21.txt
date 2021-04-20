@@ -22015,3 +22015,6 @@
 [2021-04-19 23:52:32]: ***  [, Level 0]: '-LGCO-limon' entered and joined the game
 [2021-04-19 23:52:37]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-19 23:52:39]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:52:50]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:52:51]: Raidon [, Level 24]: SanoreX: köşeye geç shot gun bişeler yap
+[2021-04-19 23:52:52]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
