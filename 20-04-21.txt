@@ -22996,3 +22996,7 @@
 [2021-04-20 15:45:53]: bob [, Level 36]: Kenshi ツ: what u see?
 [2021-04-20 15:45:55]: ***  [, Level 0]: BangTheWinner finished in: 6 minute(s) 54.56 second(s)
 [2021-04-20 15:45:58]: ☺ [, Level 28]: Zephir ツ:
+[2021-04-20 15:46:02]: ***  [, Level 0]: 'BigDogHarry' has left the game
+[2021-04-20 15:46:06]: ***  [, Level 0]: 'T0RBO' has left the game
+[2021-04-20 15:46:09]: ☺ [, Level 28]: ze
+[2021-04-20 15:46:13]: ☺ [, Level 28]: Zephir ツ: oooohh
