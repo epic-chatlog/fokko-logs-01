@@ -7956,3 +7956,4 @@
 [2021-04-20 05:43:16]: ***  [þÿÿ, Level 0]: 'BC|Tixnix' has left the game (Timeout Protection over)
 [2021-04-20 05:43:17]: ***  [þÿÿ, Level 0]: 'deSi' entered and joined the game
 [2021-04-20 05:43:26]: Taip [VergleriSay, Level 0]: fun war
+[2021-04-20 05:43:31]: ***  [þÿÿ, Level 0]: 'thekewsik' entered and joined the game
