@@ -22321,3 +22321,5 @@
 [2021-04-20 14:50:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-20 14:50:54]: TeigHuhn [, Level 0]: beacause i am noob and dont knwo how this works
 [2021-04-20 14:50:56]: ***  [, Level 0]: '[D] Kłosu' entered and joined the game
+[2021-04-20 14:51:04]: ***  [, Level 0]: 'Hońi' entered and joined the game
+[2021-04-20 14:51:08]: Intensiv [DogParty, Level 19]: bob:  hi
