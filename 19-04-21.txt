@@ -20090,3 +20090,7 @@
 [2021-04-19 17:54:14]: ***  [, Level 0]: 'LAG' entered and joined the game
 [2021-04-19 17:54:24]: ☺ [, Level 27]: Kirito: my money pls
 [2021-04-19 17:54:28]: (1)Kirito [, Level 27]: i collected 76
+[2021-04-19 17:54:30]: nar [ComRoach, Level 19]: weqe: WSH D5LK
+[2021-04-19 17:54:32]: ***  [, Level 0]: 'LAG' has left the game
+[2021-04-19 17:54:36]: weqe [669, Level 0]: nar: what bro
+[2021-04-19 17:54:36]: ☺ [, Level 27]: i had 8000
