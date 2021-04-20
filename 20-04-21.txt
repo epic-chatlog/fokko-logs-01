@@ -7643,3 +7643,8 @@
 [2021-04-20 05:18:59]:   [, Level 0]: Random Guy: Cacke:
 [2021-04-20 05:19:03]: ***  [, Level 0]: 'K!ked' has left the game
 [2021-04-20 05:19:03]: ***  [, Level 0]: 'cHurch' has left the game
+[2021-04-20 05:19:06]: ***  [, Level 0]: '(1)vollesprit' entered and joined the game
+[2021-04-20 05:19:06]:   [, Level 0]: Random Guy: Cacke: jetpack
+[2021-04-20 05:19:10]: Intensiv_ [DogParty, Level 11]: ERROR:
+[2021-04-20 05:19:11]:   [, Level 0]: Random Guy: Cacke: jetpack for while
+[2021-04-20 05:19:16]:   [, Level 0]: Random Guy: grenade
