@@ -11315,3 +11315,10 @@
 [2021-04-20 08:15:50]: ***  [ýÿÿ, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-20 08:15:52]:   [, Level 0]: ,: Zephir ãƒ„: i can stack if u want to
 [2021-04-20 08:15:52]: bob [, Level 36]: kaypro
+[2021-04-20 08:15:54]: ***  [ýÿÿ, Level 0]: 'fluffrit' joined the spectators
+[2021-04-20 08:15:54]: bob [, Level 36]: u like vodka?
+[2021-04-20 08:15:58]: ***  [ýÿÿ, Level 0]: 'fluffrit' joined the game
+[2021-04-20 08:15:59]: ***  [ýÿÿ, Level 0]: 'HeavyGeneral' has left the game
+[2021-04-20 08:16:01]: PoliceTee [PoliceForce, Level 38]: ERROR: A
+[2021-04-20 08:16:02]: ***  [ýÿÿ, Level 0]: 'MCgreg Tee' joined the spectators
+[2021-04-20 08:16:05]: ERROR [404, Level 76]: B
