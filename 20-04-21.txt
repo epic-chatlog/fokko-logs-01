@@ -20397,3 +20397,11 @@
 [2021-04-20 13:11:29]: Meetiteusz [TrRShClNrRs, Level 29]: Zephir ツ: inf hook
 [2021-04-20 13:11:30]:   [, Level 0]: RM | Arin: ChillerDragon:   block f"{self.name}"
 [2021-04-20 13:11:34]: El patron [FookinLads, Level 0]: HardreenClutch:  bob  fast
+[2021-04-20 13:11:35]: ☺ [, Level 28]: Zephir ツ:
+[2021-04-20 13:11:35]: El patron [FookinLads, Level 0]: left
+[2021-04-20 13:11:36]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 15 blocks
+[2021-04-20 13:11:39]: El patron [FookinLads, Level 0]: bob:  left
+[2021-04-20 13:11:41]:   [, Level 0]: Axandos²: Zephir ツ: idk
+[2021-04-20 13:11:44]:   [, Level 0]: RM | Arin: f"{self.name}":  haha bad
+[2021-04-20 13:11:46]: woona [, Level 48]: weqe:
+[2021-04-20 13:11:46]: bob [, Level 36]: El patron: say where always
