@@ -21123,3 +21123,4 @@
 [2021-04-19 22:33:17]: SanoreX [Chilli.*, Level 27]: look #5 blocker
 [2021-04-19 22:33:19]: SanoreX [Chilli.*, Level 27]: my skill
 [2021-04-19 22:33:20]: SanoreX [Chilli.*, Level 27]: my skillz
+[2021-04-19 22:33:28]: #5 blocker [Chilli.*, Level 24]: i look
