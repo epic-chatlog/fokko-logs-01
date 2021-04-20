@@ -22323,3 +22323,7 @@
 [2021-04-20 14:50:56]: ***  [, Level 0]: '[D] Kłosu' entered and joined the game
 [2021-04-20 14:51:04]: ***  [, Level 0]: 'Hońi' entered and joined the game
 [2021-04-20 14:51:08]: Intensiv [DogParty, Level 19]: bob:  hi
+[2021-04-20 14:51:13]: TeigHuhn [, Level 0]: what is my job bob
+[2021-04-20 14:51:15]: Intensiv [DogParty, Level 19]: bob:  help me pls
+[2021-04-20 14:51:15]: power [TrRShClNrRs, Level 0]: Kenshi ツ: save me so i can protect our tribe bob
+[2021-04-20 14:51:22]: power [TrRShClNrRs, Level 0]: i think im ready
