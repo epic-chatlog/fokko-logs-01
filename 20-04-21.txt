@@ -6154,3 +6154,7 @@
 [2021-04-20 04:16:10]: ***  [ìýÿÿ, Level 0]: '(1)ZEWO' entered and joined the game
 [2021-04-20 04:16:19]: ***  [’ÿÿÿ, Level 0]: 'oskar pikuniku' has left the game
 [2021-04-20 04:16:24]: (1)vollesprit [, Level 0]: Falco641 i mean , you have the hook but you don't need to hold the mouse's click
+[2021-04-20 04:16:27]: ***  [’ÿÿÿ, Level 0]: '(1)ZEWO' has left the game
+[2021-04-20 04:16:27]: ***  [’ÿÿÿ, Level 0]: 'ZEWO' has left the game
+[2021-04-20 04:16:33]: Falco642 [, Level 3]: vollesprit: ohh
+[2021-04-20 04:16:34]:   [, Level 0]: Intensiv_: [D] â™¥TAKOâ™¥:  19 lvl oldum
