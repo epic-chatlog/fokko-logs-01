@@ -1472,3 +1472,8 @@
 [2021-04-20 00:58:47]: SanoreX [Chilli.*, Level 27]: RM | Arin: wait
 [2021-04-20 00:58:57]: Axandos [, Level 26]: true
 [2021-04-20 00:59:00]: ᴄʜɪᴋᴀ [, Level 39]: Axandos:  xD
+[2021-04-20 00:59:09]: ***  [, Level 0]: 'fajorwerka' has left the game
+[2021-04-20 00:59:10]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-20 00:59:10]: SanoreX [Chilli.*, Level 27]: RM | Arin: u have jetpack?
+[2021-04-20 00:59:12]: ***  [, Level 0]: 'fajorwerka' entered and joined the game
+[2021-04-20 00:59:19]: RM | Arin [Retard MNKY, Level 41]: SanoreX:  no
