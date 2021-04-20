@@ -4879,3 +4879,8 @@
 [2021-04-20 03:14:42]: ~DemoizL~ [, Level 39]: vollesprit: dans une entreprise d'informatique
 [2021-04-20 03:14:42]: Ðeathscyth [, Level 3]: 1 me died
 [2021-04-20 03:14:46]: Ðeathscyth [, Level 3]: rocket
+[2021-04-20 03:14:54]:   [, Level 0]: RM | Arin: Wifi
+[2021-04-20 03:14:56]:   [, Level 0]: RM | Arin: lmao
+[2021-04-20 03:15:00]: ***  [, Level 0]: 'thekewsik' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-20 03:15:00]: ***  [, Level 0]: 'no friendly tee' has left the game (Timeout)
+[2021-04-20 03:15:01]: ~DemoizL~ [, Level 39]: vollesprit: tu l'avais fait dans quoi toi ?
