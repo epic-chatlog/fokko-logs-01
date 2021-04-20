@@ -21412,3 +21412,6 @@
 [2021-04-19 23:14:26]: SanoreX [Chilli.*, Level 27]: dont move
 [2021-04-19 23:14:44]: SanoreX [Chilli.*, Level 27]: dont hAMMER
 [2021-04-19 23:14:47]: ~Never~ [Chilli.*, Level 7]: xD
+[2021-04-19 23:14:48]: ***  [, Level 0]: 'cat' entered and joined the game
+[2021-04-19 23:14:56]: ~Never~ [Chilli.*, Level 7]: ?
+[2021-04-19 23:14:59]: #5 blocker [Chilli.*, Level 24]: ok
