@@ -22523,3 +22523,6 @@
 [2021-04-20 15:04:22]: ***  [, Level 0]: '(1)8hwa' has left the game
 [2021-04-20 15:04:22]: YelloWorlD [DogParty, Level 57]: Souly: who
 [2021-04-20 15:04:23]: bob [, Level 36]: (1)Black: u save all
+[2021-04-20 15:04:31]: (1)Black [, Level 0]: bob: they are my friend
+[2021-04-20 15:04:33]: ***  [, Level 0]: (3)Zʷʰʸˀ finished in: 1 minute(s) 27.32 second(s)
+[2021-04-20 15:04:33]: ***  [, Level 0]: New record: 1 minute(s)  8.40 second(s) better.
