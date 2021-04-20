@@ -9540,3 +9540,6 @@
 [2021-04-20 06:54:38]: ***  [þÿÿ, Level 0]: 'Lord11' has left the game
 [2021-04-20 06:54:39]: ***  [þÿÿ, Level 0]: 'Hazel' entered and joined the game
 [2021-04-20 06:54:48]: ***  [þÿÿ, Level 0]: 'â„–NotDameâ„–' has left the game
+[2021-04-20 06:54:54]: Random Guy [, Level 40]: I like turtles.
+[2021-04-20 06:54:56]: ***  [þÿÿ, Level 0]: 'Kevin C:' has left the game
+[2021-04-20 06:54:58]: Random Guy [, Level 40]: I BOUGHT GRENADE
