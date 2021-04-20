@@ -22127,3 +22127,8 @@
 [2021-04-19 23:58:24]: ***  [, Level 0]: 177. brainless tee Time: 00:53.06, requested by brainless tee
 [2021-04-19 23:58:31]: Raidon [, Level 24]: SanoreX: oha bak
 [2021-04-19 23:58:32]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:58:34]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:58:35]: SanoreX [Chilli.*, Level 27]: oha
+[2021-04-19 23:58:42]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:58:42]: Raidon [, Level 24]: wtffff
+[2021-04-19 23:58:44]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
