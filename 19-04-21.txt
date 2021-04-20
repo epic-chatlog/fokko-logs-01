@@ -21978,3 +21978,8 @@
 [2021-04-19 23:50:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-19 23:50:51]: SanoreX.* [Chilli.*, Level 23]: Oha
 [2021-04-19 23:50:51]: Raidon's Pet [, Level 20]: sorry
+[2021-04-19 23:50:54]: ***  [, Level 0]: 'Kazek huj' has left the game
+[2021-04-19 23:50:56]: SanoreX [Chilli.*, Level 27]: yavaş
+[2021-04-19 23:51:00]: SanoreX [Chilli.*, Level 27]: zıpla
+[2021-04-19 23:51:04]: ***  [, Level 0]: 'Lumos' entered and joined the game
+[2021-04-19 23:51:05]: ***  [, Level 0]: 'Jeloudagh' has left the game
