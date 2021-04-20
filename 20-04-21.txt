@@ -433,3 +433,9 @@
 [2021-04-20 00:19:15]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:19:15]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:19:18]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:19:22]: SanoreX.* [Chilli.*, Level 23]: JotaCerve: come here
+[2021-04-20 00:19:24]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:19:25]: Nightmare [, Level 27]: Kezo: bro i help ur clan i am ally
+[2021-04-20 00:19:26]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:19:30]: Nightmare [, Level 27]: Kezo: u dumb?
+[2021-04-20 00:19:31]: SanoreX [Chilli.*, Level 27]: Raidon: ateş etme
