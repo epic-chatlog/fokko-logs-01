@@ -10056,3 +10056,5 @@
 [2021-04-20 07:22:03]: ***  [ýÿÿ, Level 0]: BC|Tixnix finished in: 4 minute(s) 15.48 second(s)
 [2021-04-20 07:22:05]: ***  [ýÿÿ, Level 0]: 'YumYum' has left the game
 [2021-04-20 07:22:20]: ***  [ýÿÿ, Level 0]: water is on a killing spree with 5 blocks
+[2021-04-20 07:22:29]:   [, Level 0]: bob: wtf
+[2021-04-20 07:22:37]:   [, Level 0]: JustRace: ERROR.:  I think nudelsaft spiked me
