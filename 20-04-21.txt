@@ -20890,3 +20890,10 @@
 [2021-04-20 13:32:17]: Axandos [, Level 26]: habe
 [2021-04-20 13:32:20]: nenny [doq, Level 2]: NinjaWhite:
 [2021-04-20 13:32:25]: ***  [, Level 0]: 'ShiroKIngt' entered and joined the game
+[2021-04-20 13:32:28]: ***  [, Level 0]: 'ShiroKIngt' has left the game
+[2021-04-20 13:32:29]: █  Zeus  █ [, Level 0]: mamikral011:
+[2021-04-20 13:32:29]: nenny [doq, Level 2]: gluker:
+[2021-04-20 13:32:31]: ***  [, Level 0]: 'KojmeroWendom' entered and joined the game
+[2021-04-20 13:32:33]: NinjaWhite [, Level 0]: nenny: ?
+[2021-04-20 13:32:35]: [D] mamikral011 [DogParty, Level 27]: █  Zeus  █: ?
+[2021-04-20 13:32:35]: nenny [doq, Level 2]: help
