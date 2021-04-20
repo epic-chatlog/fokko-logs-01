@@ -20541,3 +20541,6 @@
 [2021-04-20 13:17:13]: ***  [, Level 0]: 817. SkyForge Time: 04:15.98, requested by SkyForge
 [2021-04-20 13:17:16]: ***  [, Level 0]: 590. [D] SkyForge Time: 01:35.54, requested by [D] SkyForge
 [2021-04-20 13:17:21]:   [, Level 0]: RM | Arin: 3:1
+[2021-04-20 13:17:30]:   [, Level 0]: RM | Arin: 4:1
+[2021-04-20 13:17:30]: mamikral011 [DogParty, Level 22]: Zephir ツ:
+[2021-04-20 13:17:35]:   [, Level 0]: RM | Arin: 5:1
