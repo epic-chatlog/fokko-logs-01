@@ -20086,3 +20086,5 @@
 [2021-04-19 17:52:16]: (1)☺ [, Level 26]: start
 [2021-04-19 17:52:24]: Kirito [{TQuila}, Level 41]: ahhh
 [2021-04-19 17:52:41]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-19 17:54:08]: ☺ [, Level 27]: my money pls Kirito
+[2021-04-19 17:54:14]: ***  [, Level 0]: 'LAG' entered and joined the game
