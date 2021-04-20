@@ -18640,3 +18640,9 @@
 [2021-04-20 12:00:49]: ***  [, Level 0]: 'Kirito' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-20 12:00:49]: ***  [, Level 0]: '(3)Kirito' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-20 12:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-20 12:00:56]: nameless [, Level 0]: funwar?
+[2021-04-20 12:00:58]: bob [, Level 36]: weqe:
+[2021-04-20 12:00:59]:   [, Level 0]: Falco642: surea
+[2021-04-20 12:01:00]: weqe [669, Level 13]: yes
+[2021-04-20 12:01:01]: ***  [, Level 0]: 'sʜᴇᴇᴇsʜ' entered and joined the game
+[2021-04-20 12:01:03]: bob [, Level 36]: weqe: how do you feel right now
