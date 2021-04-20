@@ -757,3 +757,6 @@
 [2021-04-20 00:29:05]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:29:07]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:29:07]: Meetiteusz [TrRShClNrRs, Level 29]: Fearless: im fighting justrace and ur helping him
+[2021-04-20 00:29:14]: SanoreX.* [Chilli.*, Level 23]: JotaCerve: wait
+[2021-04-20 00:29:19]: Eladio [, Level 0]: Raidon: wtf
+[2021-04-20 00:29:20]: SanoreX.* [Chilli.*, Level 23]: Raidon's Pet: aq naptı sana
