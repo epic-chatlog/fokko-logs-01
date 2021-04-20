@@ -5327,3 +5327,5 @@
 [2021-04-20 03:36:38]: Ðeathscyth [, Level 3]: GOLD: dummy
 [2021-04-20 03:36:45]: falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: YelloWorlD: sry
 [2021-04-20 03:36:46]: ***  [, Level 0]: 'Intensiv_' entered and joined the game
+[2021-04-20 03:36:53]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-20 03:36:55]: ***  [, Level 0]: 'tee' entered and joined the game
