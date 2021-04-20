@@ -22540,3 +22540,7 @@
 [2021-04-20 15:05:10]: lusche [TrRShClNrRs, Level 0]: hässlich+
 [2021-04-20 15:05:10]: keepertrain._. [, Level 30]: GReeeN: hi
 [2021-04-20 15:05:17]: GODLIKe [, Level 44]: Rem's bae: dont touch BangTheWinner
+[2021-04-20 15:05:22]: ***  [, Level 0]: 'lomy' has left the game
+[2021-04-20 15:05:22]: ***  [, Level 0]: '[D] lomy' has left the game
+[2021-04-20 15:05:23]: ***  [, Level 0]: 'natu' entered and joined the game
+[2021-04-20 15:05:25]: SoulyD [, Level 47]: ?
