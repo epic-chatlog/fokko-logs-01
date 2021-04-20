@@ -21759,3 +21759,6 @@
 [2021-04-19 23:36:14]: JustRace [404, Level 36]: #5 blocker:  team chiller still sucks
 [2021-04-19 23:36:27]: #5 blocker [Chilli.*, Level 24]: JustRace: okay nah, its a game
 [2021-04-19 23:36:34]: #5 blocker [Chilli.*, Level 24]: not a life
+[2021-04-19 23:36:41]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-19 23:36:44]: Noxl [.bad, Level 48]: rq
+[2021-04-19 23:36:46]: JustRace [404, Level 36]: yes
