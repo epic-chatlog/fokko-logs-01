@@ -1382,3 +1382,10 @@
 [2021-04-20 00:55:10]: vollesprit [, Level 2]: zzzzzz
 [2021-04-20 00:55:10]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:55:12]: ***  [, Level 0]: falkenauge is on a killing spree with 5 blocks
+[2021-04-20 00:55:15]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:55:17]: ***  [, Level 0]: 'kais' entered and joined the game
+[2021-04-20 00:55:17]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:55:22]: f"{self.name}" [, Level 0]: laaaaaags
+[2021-04-20 00:55:24]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:55:25]: S Y T H N [Akatsuki, Level 37]: JustRace: hey^^
+[2021-04-20 00:55:26]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
