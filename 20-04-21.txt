@@ -5342,3 +5342,4 @@
 [2021-04-20 03:37:34]: Taip [VergleriSay, Level 19]: kurtar
 [2021-04-20 03:37:35]: Taip [VergleriSay, Level 19]: yada
 [2021-04-20 03:37:36]: Taip [VergleriSay, Level 19]: war4life
+[2021-04-20 03:37:48]: ***  [, Level 0]: 'Goldy' entered and joined the game
