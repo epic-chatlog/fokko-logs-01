@@ -22114,3 +22114,9 @@
 [2021-04-19 23:57:52]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-19 23:57:54]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-19 23:57:55]: Raidon [, Level 24]: gel dummynlede
+[2021-04-19 23:57:56]: MysterX [AoT Fan, Level 0]: ez gr
+[2021-04-19 23:57:58]: SanoreX.* [Chilli.*, Level 23]: yok
+[2021-04-19 23:58:02]: ***  [, Level 0]: 'MysterX' has left the game
+[2021-04-19 23:58:03]: Raidon [, Level 24]: gel riske atma
+[2021-04-19 23:58:04]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:58:06]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
