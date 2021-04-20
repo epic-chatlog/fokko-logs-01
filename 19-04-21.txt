@@ -21571,3 +21571,5 @@
 [2021-04-19 23:24:50]: ***  [, Level 0]: Not Zerstrian finished in: 2 minute(s)  1.94 second(s)
 [2021-04-19 23:24:50]: ***  [, Level 0]: New record: 14.38 second(s) better.
 [2021-04-19 23:24:53]: ZEWO [, Level 0]: sik 1
+[2021-04-19 23:24:59]: ZEWO [, Level 0]: cl_sik 1
+[2021-04-19 23:25:07]: JustRace [404, Level 0]: cl_aimbot 0
