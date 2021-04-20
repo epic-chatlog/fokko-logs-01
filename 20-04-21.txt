@@ -8505,3 +8505,6 @@
 [2021-04-20 06:12:18]: RGB [R, Level 23]: ERROR: whi
 [2021-04-20 06:12:23]: *ExTr1Me* [DDMI, Level 0]: xD
 [2021-04-20 06:12:42]: *ExTr1Me* [DDMI, Level 0]: Soyler: у него сукпер
+[2021-04-20 06:12:54]:   [, Level 0]: Soyler: *ExTr1Me*: это вообще мб бот
+[2021-04-20 06:12:55]: ***  [���, Level 0]: 'Lucas' entered and joined the game
+[2021-04-20 06:12:58]: RGB [R, Level 23]: ERROR: flab have 60 k
