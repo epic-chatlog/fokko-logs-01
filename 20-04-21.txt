@@ -21526,3 +21526,7 @@
 [2021-04-20 14:05:07]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 14:05:07]: ***  [, Level 0]: '[D] ❤Majeczka' has left the game
 [2021-04-20 14:05:07]: ***  [, Level 0]: '❤Majeczka❤' has left the game
+[2021-04-20 14:05:09]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 14:05:16]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 14:05:18]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 14:05:19]: noname [, Level 21]: RM | Arin:  no
