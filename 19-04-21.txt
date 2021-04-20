@@ -20049,3 +20049,4 @@
 [2021-04-19 17:40:37]: ***  [, Level 0]: '♥TAKO♥' has left the game
 [2021-04-19 17:40:37]: (1)☺ [, Level 26]: no
 [2021-04-19 17:40:43]: ¡ RodCYREX 神 [Blood Day, Level 0]: ok
+[2021-04-19 17:40:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
