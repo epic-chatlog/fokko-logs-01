@@ -9993,3 +9993,7 @@
 [2021-04-20 07:18:31]: Zephir ãƒ„ [404, Level 40]: Nudelsaft c:: wtf ?
 [2021-04-20 07:18:40]: Nudelsaft c: [FookinLads, Level 43]: Zephir ãƒ„: war
 [2021-04-20 07:18:41]: Nudelsaft c: [FookinLads, Level 43]: wat
+[2021-04-20 07:18:45]: ERROR's mom [, Level 11]: ERROR:  help
+[2021-04-20 07:18:47]: vollesprit [, Level 4]: Falco642 i wanna join you but i don't have any ennemy to kill
+[2021-04-20 07:18:51]: Nudelsaft c: [FookinLads, Level 43]: Zephir ãƒ„: wat?*
+[2021-04-20 07:18:53]: ***  [ýÿÿ, Level 0]: '(3)Salut' entered and joined the game
