@@ -7472,3 +7472,7 @@
 [2021-04-20 05:11:33]: Lucas [THECEPS, Level 35]: Intensiv_: -_-
 [2021-04-20 05:11:34]: SanoreX [Chilli.*, Level 27]: fokkonaut: 1 sec finish
 [2021-04-20 05:11:37]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
+[2021-04-20 05:11:39]:   [, Level 0]: ilav: ERROR: error
+[2021-04-20 05:11:42]: ERROR [404, Level 76]: fokkonaut:
+[2021-04-20 05:11:44]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-20 05:11:46]: fokkonaut [flawLess, Level 102]: ja
