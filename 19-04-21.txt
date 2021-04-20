@@ -21450,3 +21450,6 @@
 [2021-04-19 23:17:12]: JustRace [404, Level 0]: cl_aimbot 1
 [2021-04-19 23:17:14]: iydrss [|TR| Agalar, Level 24]: 9.17
 [2021-04-19 23:17:17]: SanoreX [Chilli.*, Level 27]: oo
+[2021-04-19 23:17:26]: SanoreX [Chilli.*, Level 27]: cl_aimbot 0
+[2021-04-19 23:17:26]: JustRace [404, Level 0]: SanoreX:  you are next
+[2021-04-19 23:17:29]: JustRace [404, Level 0]: cl_aimbot 1
