@@ -22114,3 +22114,6 @@
 [2021-04-20 14:41:03]: ***  [, Level 0]: bob is on a killing spree with 5 blocks
 [2021-04-20 14:41:16]: bob [, Level 36]: now
 [2021-04-20 14:41:27]: ***  [, Level 0]: 'oddlemonn' entered and joined the game
+[2021-04-20 14:41:42]: bob [, Level 36]: hook longer
+[2021-04-20 14:41:44]: ***  [, Level 0]: (2)Zʷʰʸˀ is on a killing spree with 5 blocks
+[2021-04-20 14:41:45]: bob [, Level 36]: not so long
