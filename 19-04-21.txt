@@ -21034,3 +21034,4 @@
 [2021-04-19 20:53:35]: ZillyDreck [3, Level 0]: Welcome to the shop, DiscordBridge! Press F4 to start shopping.
 [2021-04-19 20:53:46]: ZillyDreck [3, Level 0]: Bye! Come back if you need something.
 [2021-04-19 20:55:11]: ***  [, Level 0]: 'Jeloudagh' has left the game (Timeout)
+[2021-04-19 20:55:39]: ***  [, Level 0]: 'r4d' entered and joined the game
