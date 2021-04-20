@@ -21424,3 +21424,7 @@
 [2021-04-19 23:15:29]: ***  [, Level 0]: klas finished in: 3 minute(s) 17.16 second(s)
 [2021-04-19 23:15:29]: ***  [, Level 0]: New record: 1 minute(s)  4.28 second(s) better.
 [2021-04-19 23:15:33]: Raidon [, Level 24]: SanoreX: autoexemiydi nyedi neyi nerde oluşturuyoz
+[2021-04-19 23:15:40]: Raidon [, Level 24]: SanoreX: he ayn fddrace
+[2021-04-19 23:15:45]: ***  [, Level 0]: '(1)cat' entered and joined the game
+[2021-04-19 23:15:45]: SanoreX [Chilli.*, Level 27]: Raidon: build autoexec.cfg
+[2021-04-19 23:15:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
