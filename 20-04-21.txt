@@ -293,3 +293,4 @@
 [2021-04-20 00:12:10]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:12:11]: Meetiteusz [TrRShClNrRs, Level 29]: [D] JustRace: ok
 [2021-04-20 00:12:12]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:12:26]: Raidon's Pet [, Level 20]: SanoreX.*: spec noob
