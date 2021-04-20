@@ -7922,3 +7922,4 @@
 [2021-04-20 05:36:40]: ***  [þÿÿ, Level 0]: 'ilav' has left the game (Timeout)
 [2021-04-20 05:36:44]: ReXi [, Level 0]: El patron: >>>>
 [2021-04-20 05:37:02]: El patron [FookinLads, Level 31]: rexi: warte
+[2021-04-20 05:37:50]: rexi [, Level 0]: GReeeN: was wird das
