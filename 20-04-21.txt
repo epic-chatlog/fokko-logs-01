@@ -18542,3 +18542,5 @@
 [2021-04-20 11:57:28]: ***  [, Level 0]: f"{self.name}" finished in: 2 minute(s) 39.06 second(s)
 [2021-04-20 11:57:28]: ***  [, Level 0]: New record: 8 minute(s) 58.12 second(s) better.
 [2021-04-20 11:57:29]: RM | Arin [Retard MNKY, Level 0]: WAS MEINEMUTTER WAS?!?!?!
+[2021-04-20 11:57:32]: RM | Arin [Retard MNKY, Level 0]: WASSS
+[2021-04-20 11:57:36]: RM | Arin [Retard MNKY, Level 0]: LAK WER BIST DOOOHH
