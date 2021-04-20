@@ -21782,3 +21782,6 @@
 [2021-04-20 14:17:47]: mamikral011 [DogParty, Level 22]: bob: war?
 [2021-04-20 14:17:57]: Flipper [, Level 0]: wait i join back
 [2021-04-20 14:17:59]: ***  [, Level 0]: 'Flipper' has left the game
+[2021-04-20 14:18:16]: Cylox [{TQuila}, Level 32]: power: Hİ
+[2021-04-20 14:18:16]: ***  [, Level 0]: 'walter' entered and joined the game
+[2021-04-20 14:18:23]: power [TrRShClNrRs, Level 0]: hi Cylox
