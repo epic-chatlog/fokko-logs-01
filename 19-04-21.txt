@@ -21941,3 +21941,7 @@
 [2021-04-19 23:47:46]: Raidon [, Level 24]: SanoreX:
 [2021-04-19 23:47:51]: Raidon [, Level 24]: kill çek git sağa
 [2021-04-19 23:47:55]: ***  [, Level 0]: Raidon's Pet is on a killing spree with 5 blocks
+[2021-04-19 23:48:11]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:48:13]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:48:14]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:48:17]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
