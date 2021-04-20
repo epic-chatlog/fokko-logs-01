@@ -21838,3 +21838,10 @@
 [2021-04-19 23:41:51]: Raidon's Pet [, Level 20]: Ðream:
 [2021-04-19 23:41:52]: ***  [, Level 0]: Fearless is on a killing spree with 5 blocks
 [2021-04-19 23:41:53]: Raidon's Pet [, Level 20]: Ðream: spec
+[2021-04-19 23:41:59]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:41:59]: JustRace [404, Level 36]: Fearless: wdym by no name
+[2021-04-19 23:42:01]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:42:01]: ***  [, Level 0]: 'Tom' finished the special race!
+[2021-04-19 23:42:01]: ***  [, Level 0]: Tom finished in: 6 minute(s) 14.80 second(s)
+[2021-04-19 23:42:07]: ***  [, Level 0]: Jerry finished in: 6 minute(s) 20.32 second(s)
+[2021-04-19 23:42:07]: ***  [, Level 0]: 'Jerry' finished the special race!
