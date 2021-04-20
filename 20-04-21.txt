@@ -18880,3 +18880,10 @@
 [2021-04-20 12:09:18]: __init__(self): [, Level 0]: soleri1: do you have infinite hook ??
 [2021-04-20 12:09:18]: Taip [VergleriSay, Level 20]: look
 [2021-04-20 12:09:19]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 12:09:23]: ***  [, Level 0]: 'smaFFF' has left the game
+[2021-04-20 12:09:23]: ***  [, Level 0]: 'КАКТУС' has left the game
+[2021-04-20 12:09:24]: (1)☺ [, Level 26]: i know
+[2021-04-20 12:09:27]: Taip [VergleriSay, Level 20]: how
+[2021-04-20 12:09:29]: GODLIKe [, Level 44]: |HolyHo|: u wanna war now ?
+[2021-04-20 12:09:30]: GReeeN [\ЧՁθ/, Level 0]: cat:  why
+[2021-04-20 12:09:33]: __init__(self): [, Level 0]: i dont :D
