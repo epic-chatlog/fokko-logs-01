@@ -1460,3 +1460,7 @@
 [2021-04-20 00:58:10]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:58:12]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:58:15]: SanoreX [Chilli.*, Level 27]: kais: so annoying
+[2021-04-20 00:58:20]: kais [, Level 66]: SanoreX:  u
+[2021-04-20 00:58:24]: 1 [, Level 18]: POLİCE AL
+[2021-04-20 00:58:24]: SanoreX [Chilli.*, Level 27]: kais: block later et out
+[2021-04-20 00:58:28]: SanoreX [Chilli.*, Level 27]: kais: block later get out
