@@ -5308,3 +5308,7 @@
 [2021-04-20 03:35:13]: Nudelsaft c: [FookinLads, Level 43]: oh
 [2021-04-20 03:35:15]: Nudelsaft c: [FookinLads, Level 43]: koro rq
 [2021-04-20 03:35:16]: thekewsik [, Level 0]:  i want be a friends any
+[2021-04-20 03:35:25]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-20 03:35:28]: :D [E8, Level 4]: wtf
+[2021-04-20 03:35:29]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-20 03:35:30]: ***  [, Level 0]: YelloWorlD is on a killing spree with 5 blocks
