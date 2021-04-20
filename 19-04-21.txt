@@ -21557,3 +21557,6 @@
 [2021-04-19 23:24:13]: JustRace [404, Level 0]: ZEWO:  what/
 [2021-04-19 23:24:17]: red [, Level 0]: Noxl: ahlen
 [2021-04-19 23:24:19]: ZEWO [, Level 0]: u bitch me too JustRace
+[2021-04-19 23:24:21]: ***  [, Level 0]: Zerstrian finished in: 0 minute(s) 42.72 second(s)
+[2021-04-19 23:24:21]: ***  [, Level 0]: New record:  6.24 second(s) better.
+[2021-04-19 23:24:29]: ***  [, Level 0]: 'Wynox' has left the game
