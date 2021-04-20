@@ -21134,3 +21134,6 @@
 [2021-04-19 22:34:21]: SanoreX [Chilli.*, Level 27]: spec him
 [2021-04-19 22:34:26]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
 [2021-04-19 22:34:45]: ***  [, Level 0]: 'Noxl' entered and joined the game
+[2021-04-19 22:35:04]: SanoreX [Chilli.*, Level 27]: Noxl: u have portal_
+[2021-04-19 22:35:05]: SanoreX [Chilli.*, Level 27]: Noxl: u have portal?
+[2021-04-19 22:35:08]: [D] #5 blocker [Chilli.*, Level 0]: SanoreX.*: i farming wait my dummy
