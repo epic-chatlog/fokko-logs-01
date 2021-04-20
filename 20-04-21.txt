@@ -294,3 +294,7 @@
 [2021-04-20 00:12:11]: Meetiteusz [TrRShClNrRs, Level 29]: [D] JustRace: ok
 [2021-04-20 00:12:12]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:12:26]: Raidon's Pet [, Level 20]: SanoreX.*: spec noob
+[2021-04-20 00:12:38]: ***  [, Level 0]: 'Bruh.' has left the game
+[2021-04-20 00:12:41]: ***  [, Level 0]: [D] -LGCO-limon is on a killing spree with 5 blocks
+[2021-04-20 00:12:43]: ***  [, Level 0]: Meetiteusz finished in: 0 minute(s) 30.56 second(s)
+[2021-04-20 00:12:43]: ***  [, Level 0]: New record: 1 minute(s) 28.34 second(s) better.
