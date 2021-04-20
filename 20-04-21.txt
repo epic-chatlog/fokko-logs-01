@@ -21570,3 +21570,6 @@
 [2021-04-20 14:07:01]: mamikral011 [DogParty, Level 22]: fokkonaut: hii
 [2021-04-20 14:07:04]: fokkonaut [flawLess, Level 102]: mamikral011: hi
 [2021-04-20 14:07:07]: ***  [, Level 0]: 'Marcisten Dummy' entered and joined the game
+[2021-04-20 14:07:17]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 14:07:19]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 14:07:25]: ***  [, Level 0]: 'Jeloudagh' has left the game
