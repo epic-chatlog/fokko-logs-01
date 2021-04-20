@@ -15365,3 +15365,11 @@
 [2021-04-20 10:31:02]:   [, Level 0]: yair: im giving up
 [2021-04-20 10:31:02]:   [, Level 0]: Kirito: iM GiViNg uP
 [2021-04-20 10:31:03]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-20 10:31:07]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-20 10:31:09]: Ðeathscyth [, Level 3]: kurama: wait coming
+[2021-04-20 10:31:10]: bob [, Level 36]: [D] Cylox: kill him
+[2021-04-20 10:31:10]:   [, Level 0]: Kirito: [D] cYlOx: KiLl hIm
+[2021-04-20 10:31:12]:   [, Level 0]: BULLETBOT: woops
+[2021-04-20 10:31:13]: ***  [, Level 0]: 'natsu' has left the game
+[2021-04-20 10:31:14]:   [, Level 0]: Kirito: 'NaTsU' hAs lEfT ThE GaMe
+[2021-04-20 10:31:16]: ***  [, Level 0]: BULLETBOT is on a killing spree with 5 blocks
