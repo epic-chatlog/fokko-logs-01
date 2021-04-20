@@ -7846,3 +7846,5 @@
 [2021-04-20 05:29:33]: rexi [, Level 0]: warte ma
 [2021-04-20 05:29:37]: SanoreX.* [Chilli.*, Level 23]: .iğ
 [2021-04-20 05:29:41]: rexi [, Level 0]: halleluuuuja
+[2021-04-20 05:29:50]: ***  [, Level 0]: '[D] Random Guy' has left the game (Timeout Protection over)
+[2021-04-20 05:29:53]: SanoreX.* [Chilli.*, Level 23]: :D:
