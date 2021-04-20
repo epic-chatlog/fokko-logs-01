@@ -20040,3 +20040,4 @@
 [2021-04-19 17:39:25]: Kirito [{TQuila}, Level 41]: ah ok
 [2021-04-19 17:39:27]: ***  [, Level 0]: 'ezy' has left the game (Timeout)
 [2021-04-19 17:39:27]: ***  [, Level 0]: 'nar' has left the game (Timeout)
+[2021-04-19 17:39:52]: ***  [, Level 0]: 'Bruh.' entered and joined the game
