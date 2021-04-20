@@ -17740,3 +17740,5 @@
 [2021-04-20 11:29:23]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-20 11:29:25]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-20 11:29:25]: Lucas [THECEPS, Level 35]: ok
+[2021-04-20 11:29:37]:   [, Level 0]: BULLETBOT: cringe
+[2021-04-20 11:29:38]: ***  [, Level 0]: 'Dutch' entered and joined the game
