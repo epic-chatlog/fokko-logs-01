@@ -7998,3 +7998,6 @@
 [2021-04-20 05:48:54]: ***  [þÿÿ, Level 0]: 'tee' entered and joined the game
 [2021-04-20 05:48:56]: ***  [þÿÿ, Level 0]: 'cunt' entered and joined the game
 [2021-04-20 05:48:57]: ***  [þÿÿ, Level 0]: 'ZEWO' entered and joined the game
+[2021-04-20 05:49:03]: ERROR [404, Level 76]: xD
+[2021-04-20 05:49:06]: ***  [þÿÿ, Level 0]: 'tee' has left the game
+[2021-04-20 05:49:08]: ***  [þÿÿ, Level 0]: 'tee' entered and joined the game
