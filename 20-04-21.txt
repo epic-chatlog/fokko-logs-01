@@ -6878,3 +6878,8 @@
 [2021-04-20 04:48:47]:   [, Level 0]: RM | Arin: kais:  stop
 [2021-04-20 04:48:51]: ERROR [404, Level 76]: xD
 [2021-04-20 04:48:54]:   [, Level 0]: Lakatos Mario: sry
+[2021-04-20 04:48:55]: ***  [’ÿÿÿ, Level 0]: 'lÃ¸minatiÃ¸nÂ·' entered and joined the game
+[2021-04-20 04:48:56]: [D] El patron [FookinLads, Level 24]: SanoreX:  you have only 8k in bank idiot
+[2021-04-20 04:49:02]: ***  [’ÿÿÿ, Level 0]: 'Niemand' has left the game
+[2021-04-20 04:49:04]: ***  [’ÿÿÿ, Level 0]: 'Niemand' entered and joined the game
+[2021-04-20 04:49:05]: SanoreX [Chilli.*, Level 27]: El patron: 100k in dummy acc idiot
