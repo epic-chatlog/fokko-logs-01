@@ -16732,3 +16732,15 @@
 [2021-04-20 10:52:25]: (2)Kirito [{TQuila}, Level 27]: sAlUt: WhY=
 [2021-04-20 10:52:25]: (3)Kirito [{TQuila}, Level 12]: sAlUt: WhY=
 [2021-04-20 10:52:25]: Kirito [{TQuila}, Level 41]: sAlUt: WhY=
+[2021-04-20 10:52:32]: SkyForge [, Level 22]: Nudelsaft c::  hilfe :D
+[2021-04-20 10:52:32]: (1)Kirito [{TQuila}, Level 15]: nUdElSaFt c::  HiLfE :d
+[2021-04-20 10:52:32]: Kirito [{TQuila}, Level 41]: nUdElSaFt c::  HiLfE :d
+[2021-04-20 10:52:32]: (2)Kirito [{TQuila}, Level 27]: nUdElSaFt c::  HiLfE :d
+[2021-04-20 10:52:32]: (3)Kirito [{TQuila}, Level 12]: nUdElSaFt c::  HiLfE :d
+[2021-04-20 10:52:35]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-20 10:52:36]: Salut [, Level 0]: Brezn:  for fun xD
+[2021-04-20 10:52:36]: Kirito [{TQuila}, Level 41]: bReZn:  fOr fUn xD
+[2021-04-20 10:52:36]: (3)Kirito [{TQuila}, Level 12]: bReZn:  fOr fUn xD
+[2021-04-20 10:52:36]: (2)Kirito [{TQuila}, Level 27]: bReZn:  fOr fUn xD
+[2021-04-20 10:52:36]: (1)Kirito [{TQuila}, Level 15]: bReZn:  fOr fUn xD
+[2021-04-20 10:52:37]: ***  [, Level 0]: 'tee' entered and joined the game
