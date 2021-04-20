@@ -1375,3 +1375,10 @@
 [2021-04-20 00:54:51]: [D] Nightmare [, Level 0]: vollesprit: no is not
 [2021-04-20 00:54:52]: ***  [, Level 0]: 'at insan' changed name to 'spatula'
 [2021-04-20 00:55:01]: ***  [, Level 0]: 'Cup' entered and joined the game
+[2021-04-20 00:55:05]: SanoreX [Chilli.*, Level 27]: ok
+[2021-04-20 00:55:07]: RM | Arin [Retard MNKY, Level 41]: wtf?
+[2021-04-20 00:55:08]: SanoreX [Chilli.*, Level 27]: clean
+[2021-04-20 00:55:08]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:55:10]: vollesprit [, Level 2]: zzzzzz
+[2021-04-20 00:55:10]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:55:12]: ***  [, Level 0]: falkenauge is on a killing spree with 5 blocks
