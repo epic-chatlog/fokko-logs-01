@@ -8510,3 +8510,5 @@
 [2021-04-20 06:12:58]: RGB [R, Level 23]: ERROR: flab have 60 k
 [2021-04-20 06:13:13]: ***  [���, Level 0]: 'Falco642' has left the game (Timeout)
 [2021-04-20 06:13:13]: ***  [���, Level 0]: 'Falco641' has left the game (Timeout)
+[2021-04-20 06:13:28]: *ExTr1Me* [DDMI, Level 0]: благо я в блок играл дохуя
+[2021-04-20 06:13:30]: ***  [���, Level 0]: 'Falco641' entered and joined the game
