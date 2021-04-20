@@ -21512,3 +21512,4 @@
 [2021-04-19 23:21:12]: Fearless [, Level 0]: almost 500 hours poggg
 [2021-04-19 23:21:15]: SanoreX [Chilli.*, Level 27]: ~Never~: say cl_aimbot 0 when he say cl_aimbot 1
 [2021-04-19 23:21:18]: MysterX [AoT Fan, Level 0]: cl_aimbot 1
+[2021-04-19 23:21:33]: ~Never~ [Chilli.*, Level 7]: cl_aimbow 0
