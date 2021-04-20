@@ -17548,3 +17548,8 @@
 [2021-04-20 11:21:14]:   [, Level 0]: bubblechicken50: now we both get poins
 [2021-04-20 11:21:16]:   [, Level 0]: bubblechicken50: now we both get points
 [2021-04-20 11:21:16]: Lucas [THECEPS, Level 35]: what
+[2021-04-20 11:21:21]: Lucas [THECEPS, Level 35]: Green.exe: what
+[2021-04-20 11:21:23]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-20 11:21:24]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-20 11:21:26]: ***  [, Level 0]: 'nameless :(' has left the game
+[2021-04-20 11:21:32]: |HolyHo|° [FookinLads, Level 11]: hi mista
