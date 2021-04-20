@@ -17417,3 +17417,6 @@
 [2021-04-20 11:15:19]: Green.exe [, Level 0]: HardreenClutch: sollen wir unlim jump
 [2021-04-20 11:15:19]: Zephir ツ [404, Level 40]: Kaptar: pourtant tu perd
 [2021-04-20 11:15:20]: ***  [, Level 0]: 'KoalasSindCool' entered and joined the game
+[2021-04-20 11:15:24]: HardreenClutch [\ЧՁθ/, Level 57]: Green.exe:  ja
+[2021-04-20 11:15:29]: ***  [, Level 0]: 'AllTheIDDrace' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-20 11:15:29]: ***  [, Level 0]: 'Vertex' has left the game (Too weak connection (not acked for 60 seconds))
