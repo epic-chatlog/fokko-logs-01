@@ -7725,3 +7725,8 @@
 [2021-04-20 05:21:42]:   [, Level 0]: SanoreX.*: wtf
 [2021-04-20 05:21:44]: ***  [, Level 0]: 'AllTheIDDrace' joined the minigame 'Instagib FNG', use '/fng' to join aswell
 [2021-04-20 05:21:45]: SanoreX.* [Chilli.*, Level 23]: all timeout
+[2021-04-20 05:21:48]: Black [, Level 0]: wtf
+[2021-04-20 05:21:50]: ***  [, Level 0]: 'lomination' has left the game (Timeout)
+[2021-04-20 05:21:50]: ***  [, Level 0]: 'løminatiøn·' has left the game (Timeout)
+[2021-04-20 05:21:52]: Black [, Level 0]: ??
+[2021-04-20 05:21:53]: rexi [, Level 0]: ich komm nicht hoch
