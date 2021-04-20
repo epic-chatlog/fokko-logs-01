@@ -13482,3 +13482,7 @@
 [2021-04-20 09:21:33]: bob [, Level 36]: oh
 [2021-04-20 09:21:34]: (C)Ali [Blood Gang , Level 3]: Salut:
 [2021-04-20 09:21:35]: ***  [, Level 0]: 'Niemand' has left the game (Timeout)
+[2021-04-20 09:21:45]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-20 09:21:46]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-20 09:21:53]: (C)Ali [Blood Gang , Level 3]: Salut:
+[2021-04-20 09:21:53]: ***  [, Level 0]: 'fluffrit' entered and joined the game
