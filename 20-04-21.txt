@@ -20536,3 +20536,5 @@
 [2021-04-20 13:16:57]: ***  [, Level 0]: 'DWedicXYT' has left the game
 [2021-04-20 13:16:57]: ***  [, Level 0]: 'Kiko' entered and joined the game
 [2021-04-20 13:16:58]:   [, Level 0]: RM | Arin: 2:0
+[2021-04-20 13:17:03]:   [, Level 0]: RM | Arin: Go
+[2021-04-20 13:17:12]:   [, Level 0]: RM | Arin: 2:1
