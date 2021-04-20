@@ -21719,3 +21719,6 @@
 [2021-04-20 14:15:05]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 14:15:08]: bob [, Level 36]: (C)Ali: komm lunte drehen
 [2021-04-20 14:15:13]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 14:15:20]: ***  [, Level 0]: 'pollice helper' has left the game
+[2021-04-20 14:15:20]: ***  [, Level 0]: 'police officer' has left the game
+[2021-04-20 14:15:25]: JotaCerve [, Level 0]: how
