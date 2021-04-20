@@ -140,3 +140,9 @@
 [2021-04-20 00:06:05]: Intensiv_ [DogParty, Level 11]: Noxl:  help
 [2021-04-20 00:06:06]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:06:17]: Noxl [.bad, Level 48]: cat give me
+[2021-04-20 00:06:20]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:06:22]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:06:23]: Raidon's Pet [, Level 20]: SanoreX: bak bi
+[2021-04-20 00:06:29]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:06:29]: SanoreX [Chilli.*, Level 27]: ne
+[2021-04-20 00:06:30]: SanoreX [Chilli.*, Level 27]: bak
