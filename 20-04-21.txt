@@ -16107,3 +16107,16 @@
 [2021-04-20 10:43:32]:   [, Level 0]: (2)Kirito: nIcE Xd
 [2021-04-20 10:43:32]: Kirito [{TQuila}, Level 41]: nIcE Xd
 [2021-04-20 10:43:33]: Brezn [, Level 33]: |HolyHo|: whats your problem mate?
+[2021-04-20 10:43:35]: ***  [, Level 0]: 'avioocls 2.0' changed name to '(1)avioocals'
+[2021-04-20 10:43:35]: ***  [, Level 0]: 'avioocals' changed name to 'avioocals 2.0'
+[2021-04-20 10:43:40]: ***  [, Level 0]: '(1)avioocals' changed name to 'avioocals'
+[2021-04-20 10:43:40]:   [, Level 0]: (1)Kirito: '(1)aViOoCaLs' ChAnGeD NaMe tO 'aViOoCaLs'
+[2021-04-20 10:43:40]:   [, Level 0]: (2)Kirito: '(1)aViOoCaLs' ChAnGeD NaMe tO 'aViOoCaLs'
+[2021-04-20 10:43:40]: (3)Kirito [{TQuila}, Level 12]: '(1)aViOoCaLs' ChAnGeD NaMe tO 'aViOoCaLs'
+[2021-04-20 10:43:40]: Kirito [{TQuila}, Level 41]: '(1)aViOoCaLs' ChAnGeD NaMe tO 'aViOoCaLs'
+[2021-04-20 10:43:43]:   [, Level 0]: yair: WHAT
+[2021-04-20 10:43:43]:   [, Level 0]: (1)Kirito: wHaT
+[2021-04-20 10:43:43]: Kirito [{TQuila}, Level 41]: wHaT
+[2021-04-20 10:43:43]:   [, Level 0]: (2)Kirito: wHaT
+[2021-04-20 10:43:43]: (3)Kirito [{TQuila}, Level 12]: wHaT
+[2021-04-20 10:43:45]:   [, Level 0]: yair: WTF
