@@ -20409,3 +20409,10 @@
 [2021-04-20 13:11:47]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-20 13:11:53]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-20 13:11:55]:   [, Level 0]: Hustlebacher: xD
+[2021-04-20 13:11:59]: ***  [, Level 0]: f"{self.name}"'s killing spree was ended by El Monkey (15 blocks)
+[2021-04-20 13:12:03]: bob [, Level 36]: weqe: HAHAHAHHa
+[2021-04-20 13:12:04]: bob [, Level 36]: weqe: HAHAH
+[2021-04-20 13:12:06]: [D] El patron [FookinLads, Level 31]: bob:  er hat mir geholfen
+[2021-04-20 13:12:10]: Matiteusz [TrRShClNrRs, Level 37]: ChillerDragon:
+[2021-04-20 13:12:10]: weqe [669, Level 0]: [D] El patron: BRO WTF , HE SPIKE ME AND U DO NOTHING
+[2021-04-20 13:12:12]: ***  [, Level 0]: [D] El patron is on a killing spree with 5 blocks
