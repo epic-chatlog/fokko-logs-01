@@ -1487,3 +1487,7 @@
 [2021-04-20 00:59:40]: RM | Arin [Retard MNKY, Level 41]: bro
 [2021-04-20 00:59:42]: RM | Arin [Retard MNKY, Level 41]: im so lagging
 [2021-04-20 00:59:43]: spatula [freeporçay, Level 0]: portal plss
+[2021-04-20 00:59:48]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-20 00:59:52]: SanoreX [Chilli.*, Level 27]: RM | Arin: me too lag
+[2021-04-20 00:59:55]: spatula [freeporçay, Level 0]: portal plss
+[2021-04-20 00:59:56]: [D] Nightmare [, Level 0]: oh ok
