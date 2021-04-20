@@ -2525,3 +2525,7 @@
 [2021-04-20 01:38:36]: Lumos [, Level 0]: experto patrono: fuck u
 [2021-04-20 01:38:38]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-20 01:38:38]: ***  [, Level 0]: 'ReccoTR' has left the game
+[2021-04-20 01:38:45]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-20 01:38:49]: ***  [, Level 0]: 'doniucio' entered and joined the game
+[2021-04-20 01:38:50]: ***  [, Level 0]: 'PARDUS' entered and joined the game
+[2021-04-20 01:38:53]:   [, Level 0]: PARDUS: sa
