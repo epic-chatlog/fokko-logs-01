@@ -2529,3 +2529,7 @@
 [2021-04-20 01:38:49]: ***  [, Level 0]: 'doniucio' entered and joined the game
 [2021-04-20 01:38:50]: ***  [, Level 0]: 'PARDUS' entered and joined the game
 [2021-04-20 01:38:53]:   [, Level 0]: PARDUS: sa
+[2021-04-20 01:39:01]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-20 01:39:03]: experto patrono [, Level 11]: Lumos: Avada Kedavra
+[2021-04-20 01:39:03]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-20 01:39:05]: ᴄʜɪᴋᴀ [, Level 39]: Lumos:  why arent you light
