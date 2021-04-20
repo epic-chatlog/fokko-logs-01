@@ -1511,3 +1511,9 @@
 [2021-04-20 01:00:50]: Eladio [, Level 0]: how do you get there 『Jester』
 [2021-04-20 01:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-20 01:00:54]: SanoreX [Chilli.*, Level 27]: show hook coll
+[2021-04-20 01:01:01]: ***  [, Level 0]: 'Taip' entered and joined the game
+[2021-04-20 01:01:01]: Obliviate [, Level 24]: Axandos²: ?
+[2021-04-20 01:01:04]: SanoreX [Chilli.*, Level 27]: w,
+[2021-04-20 01:01:05]: Meetiteusz [TrRShClNrRs, Level 29]: KURWA
+[2021-04-20 01:01:07]: ***  [, Level 0]: 'CHIRICHIRIS' entered and joined the game
+[2021-04-20 01:01:09]: Axandos² [, Level 21]: hax
