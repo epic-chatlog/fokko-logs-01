@@ -20392,3 +20392,7 @@
 [2021-04-19 18:31:35]: Black [, Level 26]: ty<#
 [2021-04-19 18:31:36]: Black [, Level 26]: 3
 [2021-04-19 18:31:38]: Kirito [{TQuila}, Level 41]: <3
+[2021-04-19 18:31:49]: Black [, Level 26]: Gren:
+[2021-04-19 18:31:52]: Black [, Level 26]: tby shy
+[2021-04-19 18:31:52]: ***  [, Level 0]: 'Really ʙᴀᴅ' has left the game (Timeout Protection over)
+[2021-04-19 18:31:55]: Gren [, Level 23]: ez
