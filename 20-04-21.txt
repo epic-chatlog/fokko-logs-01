@@ -7430,3 +7430,9 @@
 [2021-04-20 05:10:07]: ERROR [404, Level 76]: Kezo:  well if my member sayin this i believe them
 [2021-04-20 05:10:08]: ***  [, Level 0]: 'Hazel' entered and joined the game
 [2021-04-20 05:10:08]:   [, Level 0]: Random Guy: fokkonaut: it was me first second account
+[2021-04-20 05:10:11]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-20 05:10:15]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-20 05:10:16]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-20 05:10:19]: :D [E8, Level 5]: Cup:help
+[2021-04-20 05:10:21]: Lucas [THECEPS, Level 35]: Zephir ツ: you're so lucky
+[2021-04-20 05:10:21]:   [, Level 0]: Random Guy: fokkonaut: my dummy main using this
