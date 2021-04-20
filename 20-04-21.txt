@@ -22587,3 +22587,4 @@
 [2021-04-20 15:08:16]: ♥TAKO♥ [DogParty, Level 25]: 6
 [2021-04-20 15:08:18]: ***  [, Level 0]: '♥TAKO♥' has been muted for 60 seconds
 [2021-04-20 15:08:24]: keepertrain._. [, Level 30]: bob: maeby remember me
+[2021-04-20 15:09:07]: ***  [, Level 0]: 'YelloWorlD' has left the game
