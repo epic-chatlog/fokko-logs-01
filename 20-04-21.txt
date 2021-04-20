@@ -8045,3 +8045,5 @@
 [2021-04-20 05:52:23]: ***  [þÿÿ, Level 0]: 'Salut' entered and joined the game
 [2021-04-20 05:52:24]: BulgarianTee [Bulgaria, Level 0]: Killua: gaee with 3000 jumps
 [2021-04-20 05:52:28]: Killua [FookinLads, Level 37]: try playing with 4000 ping BulgarianTee
+[2021-04-20 05:52:35]: BulgarianTee [Bulgaria, Level 0]: Killua: im already
+[2021-04-20 05:52:38]: Killua [FookinLads, Level 37]: BulgarianTee: no
