@@ -20863,3 +20863,8 @@
 [2021-04-19 19:31:32]: bob [, Level 36]: i forgot
 [2021-04-19 19:31:32]: Black [, Level 26]: Gren: ma a3rf al3b ana
 [2021-04-19 19:31:33]: bob [, Level 36]: i cant check
+[2021-04-19 19:31:46]: Gren [, Level 23]: Black: gol l bob
+[2021-04-19 19:31:47]: Killua [FookinLads, Level 37]: omg ty XD bob
+[2021-04-19 19:31:51]: ***  [, Level 0]: '|HolyHo|' has left the game
+[2021-04-19 19:31:51]: ***  [, Level 0]: '|HolyHo|°' has left the game
+[2021-04-19 19:31:53]: ***  [, Level 0]: '|HolyHo|°' entered and joined the game
