@@ -21254,3 +21254,7 @@
 [2021-04-19 22:56:20]: SanoreX.* [Chilli.*, Level 23]: DONT SAY İT
 [2021-04-19 22:57:13]: (1)SanoreX.* [Chilli.*, Level 0]: kurama: give me (1)DiscordBridg
 [2021-04-19 22:57:17]: kurama [New Gen., Level 0]: (1)SanoreX.*: ok
+[2021-04-19 22:57:23]: ***  [, Level 0]: 'Lumos' entered and joined the game
+[2021-04-19 22:57:23]: ***  [, Level 0]: 'klas 2' entered and joined the game
+[2021-04-19 22:57:25]: (1)SanoreX [Chilli.*, Level 0]: help
+[2021-04-19 22:57:28]: ***  [, Level 0]: '(1)#5 blocker' entered and joined the game
