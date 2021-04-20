@@ -7716,3 +7716,12 @@
 [2021-04-20 05:21:32]: ***  [, Level 0]: 'aboba' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-20 05:21:32]: ***  [, Level 0]: 'Cup' has left the game (Timeout)
 [2021-04-20 05:21:33]: ***  [, Level 0]: 'Cacke' has left the game (Timeout)
+[2021-04-20 05:21:34]: ***  [, Level 0]: 'oyun kralı' has left the game (Timeout)
+[2021-04-20 05:21:38]: RM | Arin [Retard MNKY, Level 41]: ich sag nur das ich damit besser bin
+[2021-04-20 05:21:38]: Kezo [DogParty, Level 41]: wtf
+[2021-04-20 05:21:40]: RM | Arin [Retard MNKY, Level 41]: BRUDER WAS DAS
+[2021-04-20 05:21:41]: ***  [, Level 0]: 'totaly friendly' has left the game (Timeout)
+[2021-04-20 05:21:42]: ***  [, Level 0]: 'thekewsik' has left the game (Timeout)
+[2021-04-20 05:21:42]:   [, Level 0]: SanoreX.*: wtf
+[2021-04-20 05:21:44]: ***  [, Level 0]: 'AllTheIDDrace' joined the minigame 'Instagib FNG', use '/fng' to join aswell
+[2021-04-20 05:21:45]: SanoreX.* [Chilli.*, Level 23]: all timeout
