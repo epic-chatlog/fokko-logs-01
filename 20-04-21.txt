@@ -23754,3 +23754,10 @@
 [2021-04-20 16:57:13]: ***  [, Level 0]: 'Sayme' has left the game (Timeout)
 [2021-04-20 16:57:16]: Cup [, Level 0]: (3)Zʷʰʸˀ:  stop
 [2021-04-20 16:57:21]: (3)Zʷʰʸˀ [NULL, Level 26]: Cup: `?
+[2021-04-20 16:57:23]: bob [, Level 36]: ERROR: was sagst du
+[2021-04-20 16:57:23]: ***  [, Level 0]: 'Vesorp' has left the game
+[2021-04-20 16:57:28]: Zephir ツ [404, Level 40]: GODLIKe: yeah with the left because u are with 10 friends
+[2021-04-20 16:57:28]: bob [, Level 36]: wie lange hält er?
+[2021-04-20 16:57:28]: Cup [, Level 0]: why you killed my frenf
+[2021-04-20 16:57:30]: Cup [, Level 0]: d
+[2021-04-20 16:57:33]: GODLIKe [, Level 44]: Zephir ツ: who xd ?
