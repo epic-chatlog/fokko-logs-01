@@ -21308,3 +21308,8 @@
 [2021-04-19 23:03:31]: ***  [, Level 0]: 'SanoreX' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-19 23:03:31]: ***  [, Level 0]: 'SanoreX.*' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-19 23:03:32]: kurama [New Gen., Level 0]: SanoreX: i to go bb
+[2021-04-19 23:03:35]: (1)SanoreX [Chilli.*, Level 0]: see
+[2021-04-19 23:03:37]: Noxl. [.bad, Level 35]: (1)SanoreX:
+[2021-04-19 23:03:38]: ***  [, Level 0]: '(1)#5 blocker' has left the game
+[2021-04-19 23:03:40]: ***  [, Level 0]: '#5 blocker' entered and joined the game
+[2021-04-19 23:03:44]: (1)SanoreX [Chilli.*, Level 0]: kurama: omg why u say sanorex always
