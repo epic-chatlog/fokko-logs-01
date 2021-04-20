@@ -1534,3 +1534,13 @@
 [2021-04-20 01:01:56]: [D] JustRace [404, Level 30]: +1 enemy down
 [2021-04-20 01:02:01]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 01:02:02]: ᴄʜɪᴋᴀ [, Level 39]: (1)Ðream:  dont attack him
+[2021-04-20 01:02:03]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 01:02:05]: ***  [, Level 0]: 'fajorwerka' has left the game
+[2021-04-20 01:02:05]: ghp [1234, Level 0]: den tokana
+[2021-04-20 01:02:10]: ***  [, Level 0]: f"{self.name}" finished in: 2 minute(s) 19.94 second(s)
+[2021-04-20 01:02:10]: ***  [, Level 0]: New record: 9 minute(s) 17.24 second(s) better.
+[2021-04-20 01:02:11]: ᴄʜɪᴋᴀ [, Level 39]: (1)Ðream:  if u attack Meetiteusz  u dedmonk
+[2021-04-20 01:02:12]: [D] JustRace [404, Level 30]: +1 enemy down
+[2021-04-20 01:02:12]: ***  [, Level 0]: __init__(self): finished in: 2 minute(s)  5.20 second(s)
+[2021-04-20 01:02:12]: ***  [, Level 0]: New record: 2 minute(s) 37.74 second(s) better.
+[2021-04-20 01:02:13]: Meetiteusz [TrRShClNrRs, Level 29]: Chika its my clanmate xD
