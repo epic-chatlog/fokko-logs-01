@@ -6145,3 +6145,7 @@
 [2021-04-20 04:15:43]: Taip [VergleriSay, Level 19]: yaparsan
 [2021-04-20 04:15:47]: ***  [:ýÿÿ, Level 0]: '(1)Jerry' entered and joined the game
 [2021-04-20 04:15:48]: Taip [VergleriSay, Level 19]: war4life
+[2021-04-20 04:15:50]: ***  [:ýÿÿ, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-20 04:15:51]: [D] â™¥TAKOâ™¥ [DogParty, Level 0]: way anasÄ±nÄ±
+[2021-04-20 04:15:58]:   [, Level 0]: RM | Arin: block Michal
+[2021-04-20 04:15:59]: ***  [:ýÿÿ, Level 0]: 'Intensiv_' entered and joined the game
