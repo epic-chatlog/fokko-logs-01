@@ -21334,3 +21334,4 @@
 [2021-04-19 23:05:23]: kurama [New Gen., Level 0]: Tom:  hey tom
 [2021-04-19 23:05:28]: #5 blocker [Chilli.*, Level 24]: SanoreX: look
 [2021-04-19 23:05:39]: ***  [, Level 0]: 'kurama' has left the game
+[2021-04-19 23:05:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
