@@ -76,3 +76,4 @@
 [2021-04-20 00:03:07]: ***  [, Level 0]: 'Jerry' has left the game
 [2021-04-20 00:03:08]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:03:09]: Rz5z [.bad, Level 35]: rqqqqqqq
+[2021-04-20 00:03:20]: [D] insta-GH___ [GH, Level 19]: Noxl: ana ez
