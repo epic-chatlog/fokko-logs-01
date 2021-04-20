@@ -14600,3 +14600,7 @@
 [2021-04-20 09:59:32]: bob [, Level 36]: Kaptar: i saw it lol
 [2021-04-20 09:59:32]: Black [, Level 26]: Kirito: CHILL YO
 [2021-04-20 09:59:33]: ***  [, Level 0]: 'Mixer-_-' has left the game
+[2021-04-20 09:59:36]: ***  [, Level 0]: '|KS| Kyrma' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-20 09:59:36]: ***  [, Level 0]: 'Rainbow Tee' has left the game (Timeout)
+[2021-04-20 09:59:46]: Mr.666 [Hell.666, Level 0]: why to
+[2021-04-20 09:59:46]: Black [, Level 26]: Kirito: ohj
