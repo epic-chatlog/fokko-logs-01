@@ -8014,3 +8014,4 @@
 [2021-04-20 05:50:10]: Nudelsaft c: [FookinLads, Level 43]: cya
 [2021-04-20 05:50:10]: ***  [þÿÿ, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-20 05:50:16]: ***  [þÿÿ, Level 0]: 'Amogus' has left the game
+[2021-04-20 05:50:36]: ***  [þÿÿ, Level 0]: '(1)f"{self.name}' entered and joined the game
