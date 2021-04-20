@@ -7476,3 +7476,7 @@
 [2021-04-20 05:11:42]: ERROR [404, Level 76]: fokkonaut:
 [2021-04-20 05:11:44]: ***  [, Level 0]: 'SanoreX.*' has left the game
 [2021-04-20 05:11:46]: fokkonaut [flawLess, Level 102]: ja
+[2021-04-20 05:11:53]: ERROR [404, Level 76]: spread? xD fokkonaut
+[2021-04-20 05:11:58]: GReeeN [, Level 41]: fokkonaut:  was geht digga
+[2021-04-20 05:11:59]:   [, Level 0]: Random Guy: fokkonaut: how can i wind draw all money?
+[2021-04-20 05:12:03]:   [, Level 0]: Taip: portal
