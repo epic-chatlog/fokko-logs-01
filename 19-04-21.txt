@@ -22027,3 +22027,7 @@
 [2021-04-19 23:53:09]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-19 23:53:09]: Intensiv [DogParty, Level 18]: help
 [2021-04-19 23:53:10]: SanoreX [Chilli.*, Level 27]: ya lag
+[2021-04-19 23:53:13]: Noxl [.bad, Level 48]: Tom: okkk...
+[2021-04-19 23:53:16]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:53:18]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:53:22]: Intensiv [DogParty, Level 18]: Tom:  help
