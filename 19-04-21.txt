@@ -21644,3 +21644,6 @@
 [2021-04-19 23:29:27]: ZEWO [Chilli.*, Level 0]: SanoreX: dur
 [2021-04-19 23:29:31]: [D] iydrss [, Level 11]: xdd
 [2021-04-19 23:29:32]: [D] iydrss [, Level 11]: I like turtles.
+[2021-04-19 23:29:35]: ZEWO [, Level 0]: Raidon: durr
+[2021-04-19 23:29:35]: Zerstrian [, Level 52]: omw Fearless
+[2021-04-19 23:29:35]: [D] JustRace [404, Level 0]: cl_aimbot 1
