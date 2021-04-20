@@ -21805,3 +21805,5 @@
 [2021-04-19 23:39:20]: ***  [, Level 0]: New record: 1 minute(s)  9.22 second(s) better.
 [2021-04-19 23:39:34]: Raidon's Pet [, Level 20]: Ðream: :(
 [2021-04-19 23:39:39]: SanoreX [Chilli.*, Level 27]: Ðream: pls get me here
+[2021-04-19 23:39:49]: Gren [, Level 23]: Noxl: FN WAR
+[2021-04-19 23:39:51]: JustRace [404, Level 36]: Fearless: ello
