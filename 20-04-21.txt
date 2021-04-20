@@ -20190,3 +20190,7 @@
 [2021-04-20 13:00:19]: ***  [, Level 0]: '(1)Black' has left the game
 [2021-04-20 13:00:21]: mamikral011 [DogParty, Level 22]: pollice helper:
 [2021-04-20 13:00:25]: ***  [, Level 0]: 'Axel ²' has left the game
+[2021-04-20 13:00:39]: mamikral011 [DogParty, Level 22]: __init__(self):: ?
+[2021-04-20 13:00:43]:   [, Level 0]: avioocals 2.0: U BLOCK
+[2021-04-20 13:00:44]: ***  [, Level 0]: 'Axel ²' entered and joined the game
+[2021-04-20 13:00:46]: ***  [, Level 0]: 'pales' has left the game
