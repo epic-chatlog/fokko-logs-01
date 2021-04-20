@@ -5315,3 +5315,6 @@
 [2021-04-20 03:35:35]: ***  [, Level 0]: 'koro' entered and joined the game
 [2021-04-20 03:35:40]: falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: Nudelsaft c::
 [2021-04-20 03:35:40]: ***  [, Level 0]: 'Crøzzz' entered and joined the game
+[2021-04-20 03:35:45]: ϻɪɔʜɑʟ [DogParty, Level 24]: Nudelsaft c:: help sory u not enymy
+[2021-04-20 03:35:48]: ReXi. [, Level 0]: geil
+[2021-04-20 03:35:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
