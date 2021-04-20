@@ -20227,3 +20227,9 @@
 [2021-04-20 13:02:30]: ***  [, Level 0]: 'ibrahim' has left the game
 [2021-04-20 13:02:32]: ***  [, Level 0]: '8hwa' entered and joined the game
 [2021-04-20 13:02:36]: [D] El patron [FookinLads, Level 31]: Zephir ツ:  fast
+[2021-04-20 13:02:39]: ***  [, Level 0]: 'Vanish Akbar²' has left the game
+[2021-04-20 13:02:41]: [D] El patron [FookinLads, Level 31]: bob:  fast
+[2021-04-20 13:02:42]: ***  [, Level 0]: 'Vanish Akbar²' entered and joined the game
+[2021-04-20 13:02:44]: ***  [, Level 0]: '(1)Black' entered and joined the game
+[2021-04-20 13:02:47]: weqe [669, Level 0]: Zephir ツ: why u help bob but dont help me
+[2021-04-20 13:02:48]:   [, Level 0]: warlucky: [D] mamikral011:  gel beni al
