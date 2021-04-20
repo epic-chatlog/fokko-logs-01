@@ -20915,3 +20915,7 @@
 [2021-04-20 13:33:04]: █  Zeus  █ [, Level 0]: taam
 [2021-04-20 13:33:18]: Axandos [, Level 26]: Zephir ツ:
 [2021-04-20 13:33:28]: Zephir ツ [404, Level 40]: Axandos: stop talk traitor
+[2021-04-20 13:33:32]: Kiko [, Level 7]: noname: fight for fun ?
+[2021-04-20 13:33:33]: ***  [, Level 0]: '(1)Kirito' left the minigame 'Survival'
+[2021-04-20 13:33:34]: ***  [, Level 0]: 'Kirito' left the minigame 'Survival'
+[2021-04-20 13:33:40]: Axandos² [, Level 21]: BAAHAHAHHAHA
