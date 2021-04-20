@@ -21378,3 +21378,7 @@
 [2021-04-20 13:55:21]: ***  [, Level 0]: 'Terra' has left the game
 [2021-04-20 13:55:48]: [D] SkyForge [, Level 0]: Isegrin:  war?
 [2021-04-20 13:55:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-20 13:56:03]: ***  [, Level 0]: 'Eladio' entered and joined the game
+[2021-04-20 13:56:05]: ***  [, Level 0]: 'freetee' has left the game
+[2021-04-20 13:56:06]: ***  [, Level 0]: SkyForge is on a killing spree with 5 blocks
+[2021-04-20 13:56:12]: ***  [, Level 0]: 'taco bell' has left the game
