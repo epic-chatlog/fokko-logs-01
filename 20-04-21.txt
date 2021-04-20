@@ -21709,3 +21709,10 @@
 [2021-04-20 14:14:38]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-20 14:14:42]: Marcisten [Helper, Level 0]: Zephir ツ: hi frend XD
 [2021-04-20 14:14:43]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-20 14:14:52]: ***  [, Level 0]: Eladio's killing spree was ended by noname (7 blocks)
+[2021-04-20 14:14:53]: ***  [, Level 0]: '[D] SkyForge' has left the game
+[2021-04-20 14:14:53]: ***  [, Level 0]: 'SkyForge' has left the game
+[2021-04-20 14:14:53]: Zephir ツ [404, Level 40]: Marcisten: i say war4life
+[2021-04-20 14:14:54]: ***  [, Level 0]: [D] mamikral011 is on a killing spree with 5 blocks
+[2021-04-20 14:15:01]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 0 minute(s) 51.78 second(s)
+[2021-04-20 14:15:03]: ***  [, Level 0]: 'Jeloudagh' has left the game
