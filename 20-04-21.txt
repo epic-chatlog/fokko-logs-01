@@ -17312,3 +17312,11 @@
 [2021-04-20 11:10:36]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-20 11:10:44]: JustRace [404, Level 36]: Zephir ツ:
 [2021-04-20 11:10:45]: HardreenClutch [\ЧՁθ/, Level 57]: Green.exe:  ich bin nicht in skinlover
+[2021-04-20 11:10:47]: JustRace [404, Level 36]: Zephir ツ: no stack needed
+[2021-04-20 11:10:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-20 11:10:51]: HardreenClutch [\ЧՁθ/, Level 57]: Green.exe:  von wem redest du eig ?
+[2021-04-20 11:10:52]: JustRace [404, Level 36]: cl_aimbot 1
+[2021-04-20 11:10:54]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-20 11:10:54]: Zephir ツ [404, Level 40]: JustRace: i want to be afk
+[2021-04-20 11:10:55]: JustRace [404, Level 36]: cl_aimbot 1
+[2021-04-20 11:10:56]: ***  [, Level 0]: RescheBrezn is on a killing spree with 20 blocks
