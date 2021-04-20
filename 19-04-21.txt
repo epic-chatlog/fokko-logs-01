@@ -20266,3 +20266,5 @@
 [2021-04-19 18:16:24]: ***  [, Level 0]: 'ezy' changed name to 'Gren'
 [2021-04-19 18:16:43]: Black [, Level 26]: 8
 [2021-04-19 18:16:58]: ***  [, Level 0]: 'guigui' entered and joined the game
+[2021-04-19 18:17:09]: Black [, Level 26]: what
+[2021-04-19 18:17:12]: ***  [, Level 0]: 'guigui' has left the game
