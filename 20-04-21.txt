@@ -18327,3 +18327,10 @@
 [2021-04-20 11:50:05]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-20 11:50:05]: ***  [, Level 0]: 'El Monkey' has left the game
 [2021-04-20 11:50:06]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 11:50:08]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 11:50:11]: Niemand [Muhaha!, Level 0]: pls
+[2021-04-20 11:50:12]:   [, Level 0]: weqe: u said peace now or never
+[2021-04-20 11:50:15]:   [, Level 0]: bubblechicken50: Falco641: come back
+[2021-04-20 11:50:16]: bob [, Level 36]: yes
+[2021-04-20 11:50:16]: ***  [, Level 0]: 'Falco642' entered and joined the game
+[2021-04-20 11:50:18]: bob [, Level 36]: was too late
