@@ -20252,3 +20252,9 @@
 [2021-04-19 18:15:26]: Kirito [{TQuila}, Level 41]: look
 [2021-04-19 18:15:26]: Black [, Level 26]: U ARE 65 PING WDYM
 [2021-04-19 18:15:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-19 18:15:54]: Black [, Level 26]: 9-3
+[2021-04-19 18:15:56]: Black [, Level 26]: -4
+[2021-04-19 18:15:57]: ***  [, Level 0]: Black's killing spree was ended by Kirito (7 blocks)
+[2021-04-19 18:15:59]: Black [, Level 26]: 4
+[2021-04-19 18:15:59]: Kirito [{TQuila}, Level 41]: from 6 to 3?
+[2021-04-19 18:16:04]: Black [, Level 26]: wtf
