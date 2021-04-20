@@ -20433,3 +20433,6 @@
 [2021-04-19 18:35:08]: Kirito [{TQuila}, Level 41]: Black: it's worth it
 [2021-04-19 18:35:10]: Black [, Level 26]: salam
 [2021-04-19 18:35:18]: Gren [, Level 23]: Black: btl3 al3b roblks
+[2021-04-19 18:35:21]: ***  [, Level 0]: 'Gren' has left the game
+[2021-04-19 18:35:21]: ***  [, Level 0]: 'red' has left the game
+[2021-04-19 18:35:27]: Black [, Level 26]: Kirito: dude u got to try it
