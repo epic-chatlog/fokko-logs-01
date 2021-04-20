@@ -12190,3 +12190,8 @@
 [2021-04-20 08:44:16]:   [, Level 0]: ChillerDragon: war aber null x7 related ? xd Nudelsaft c:
 [2021-04-20 08:44:17]: ***  [ýÿÿ, Level 0]: 'tee pliss help' left the minigame 'Block'
 [2021-04-20 08:44:19]: [D] JustRace [404, Level 36]: ERROR:  you won the police back
+[2021-04-20 08:44:22]:   [, Level 0]: ChillerDragon: imposter Nudelsaft c:
+[2021-04-20 08:44:28]: [D] JustRace [404, Level 36]: ERROR:  is nudelsaft in police?
+[2021-04-20 08:44:31]: (C)Ali [Blood Gang , Level 3]: how to i can get inf jump and endless hook
+[2021-04-20 08:44:32]: ***  [ýÿÿ, Level 0]: 'BC|Tixnix' has left the game
+[2021-04-20 08:44:32]: ***  [ýÿÿ, Level 0]: '[D] BC|Tixnix' has left the game
