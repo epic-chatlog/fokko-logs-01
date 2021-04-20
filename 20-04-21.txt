@@ -21416,3 +21416,10 @@
 [2021-04-20 13:59:07]: P4Pyr0s [, Level 25]: op it
 [2021-04-20 13:59:13]: Axel [TrRShClNrRs, Level 30]: ok
 [2021-04-20 13:59:15]: ***  [, Level 0]: mamikral011's killing spree was ended by Axandos² (10 blocks)
+[2021-04-20 13:59:19]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 13:59:21]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 13:59:26]: █  Zeus  █ [, Level 0]: P4Pyr0s:  hep
+[2021-04-20 13:59:27]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 13:59:29]: ***  [, Level 0]: tloRIAN is on a killing spree with 5 blocks
+[2021-04-20 13:59:29]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 13:59:29]: █  Zeus  █ [, Level 0]: help
