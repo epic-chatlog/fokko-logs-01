@@ -1694,3 +1694,7 @@
 [2021-04-20 01:06:41]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 01:06:42]: Axandos² [, Level 21]: HOW
 [2021-04-20 01:06:43]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 01:06:47]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 01:06:49]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 01:06:55]: kais [, Level 66]: Axandos: AHHA, u can't come with 1 jump ? :3
+[2021-04-20 01:06:55]: ***  [, Level 0]: 'sta' entered and joined the game
