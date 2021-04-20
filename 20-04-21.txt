@@ -22314,3 +22314,6 @@
 [2021-04-20 14:50:28]: bob [, Level 36]: TeigHuhn: xd
 [2021-04-20 14:50:29]: ***  [, Level 0]: 'adamabel' has left the game
 [2021-04-20 14:50:33]: TeigHuhn [, Level 0]: bob:
+[2021-04-20 14:50:36]: bob [, Level 36]: yes
+[2021-04-20 14:50:39]: TeigHuhn [, Level 0]: bob:  wanna be my friend
+[2021-04-20 14:50:45]: bob [, Level 36]: oi
