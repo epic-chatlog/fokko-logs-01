@@ -4194,3 +4194,8 @@
 [2021-04-20 02:46:58]: MOM [, Level 28]: (1)falkenauge: stop it
 [2021-04-20 02:46:58]: [D]ϻɪɔʜɑʟ [DogParty, Level 21]: Axandos:
 [2021-04-20 02:46:58]: muliboy [, Level 0]: WAIT HERE
+[2021-04-20 02:47:00]: [D]ϻɪɔʜɑʟ [DogParty, Level 21]: Axandos:
+[2021-04-20 02:47:03]: ***  [, Level 0]: 'Soros' entered and joined the game
+[2021-04-20 02:47:03]: ***  [, Level 0]: 'ZEWO' entered and joined the game
+[2021-04-20 02:47:05]:   [, Level 0]: ZEWO: sa
+[2021-04-20 02:47:06]: :D [E8, Level 4]: bankaya para yatırcam
