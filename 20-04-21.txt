@@ -8541,3 +8541,6 @@
 [2021-04-20 06:15:37]: ***  [þÿÿ, Level 0]: Â»â„±â„¬â„‘Â« is on a killing spree with 10 blocks
 [2021-04-20 06:15:37]: ***  [þÿÿ, Level 0]: 'HeavyGeneral' entered and joined the game
 [2021-04-20 06:15:40]: ERROR. [404, Level 47]: xDDD ok
+[2021-04-20 06:15:44]: Black [, Level 0]: ~DemoizL~: xD gg
+[2021-04-20 06:15:48]: ***  [þÿÿ, Level 0]: 'the last AMOGUS' entered and joined the game
+[2021-04-20 06:15:50]: ***  [þÿÿ, Level 0]: [INFO] You can create an account using '/register'
