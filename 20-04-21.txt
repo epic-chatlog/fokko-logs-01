@@ -15849,3 +15849,24 @@
 [2021-04-20 10:39:58]:   [, Level 0]: (2)Kirito: 'TaTo15' JoInEd tHe gAmE
 [2021-04-20 10:39:58]: Kirito [{TQuila}, Level 41]: 'TaTo15' JoInEd tHe gAmE
 [2021-04-20 10:39:58]:   [, Level 0]: (3)Kirito: 'TaTo15' JoInEd tHe gAmE
+[2021-04-20 10:40:01]: ghfdjxc [, Level 0]: power2: where ?
+[2021-04-20 10:40:02]:   [, Level 0]: (3)Kirito: pOwEr2: wHeRe ?
+[2021-04-20 10:40:02]:   [, Level 0]: (2)Kirito: pOwEr2: wHeRe ?
+[2021-04-20 10:40:02]:   [, Level 0]: (1)Kirito: pOwEr2: wHeRe ?
+[2021-04-20 10:40:02]: Kirito [{TQuila}, Level 41]: pOwEr2: wHeRe ?
+[2021-04-20 10:40:04]: ERROR [404, Level 76]: Zephir ツ:  bulgarian is enemy timepause enemy idc about the rest urechoice
+[2021-04-20 10:40:06]: Random Guy [, Level 40]: ;-;
+[2021-04-20 10:40:07]: power2 [TrRShClNrRs, Level 0]: thats a bit harder tho ghfdjxc follow me
+[2021-04-20 10:40:07]: Kirito [{TQuila}, Level 41]: tHaTs a bIt hArDeR ThO GhFdJxC FoLlOw mE
+[2021-04-20 10:40:07]:   [, Level 0]: (2)Kirito: tHaTs a bIt hArDeR ThO GhFdJxC FoLlOw mE
+[2021-04-20 10:40:07]:   [, Level 0]: (1)Kirito: tHaTs a bIt hArDeR ThO GhFdJxC FoLlOw mE
+[2021-04-20 10:40:08]:   [, Level 0]: (3)Kirito: tHaTs a bIt hArDeR ThO GhFdJxC FoLlOw mE
+[2021-04-20 10:40:10]:   [, Level 0]: BULLETBOT: Isegrin: baaaaddd
+[2021-04-20 10:40:10]: Lucas [THECEPS, Level 35]: :D: want flag?
+[2021-04-20 10:40:10]: Zephir ツ [404, Level 40]: ERROR: ok
+[2021-04-20 10:40:10]:   [, Level 0]: (2)Kirito: eRrOr: Ok
+[2021-04-20 10:40:10]: Kirito [{TQuila}, Level 41]: eRrOr: Ok
+[2021-04-20 10:40:11]:   [, Level 0]: (1)Kirito: eRrOr: Ok
+[2021-04-20 10:40:11]:   [, Level 0]: (3)Kirito: eRrOr: Ok
+[2021-04-20 10:40:12]: ***  [, Level 0]: 'mustafa' entered and joined the game
+[2021-04-20 10:40:14]:   [, Level 0]: BulgarianTee: ERROR: "war4life" but its never for life XD
