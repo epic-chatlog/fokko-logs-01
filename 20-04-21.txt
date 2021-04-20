@@ -10505,3 +10505,7 @@
 [2021-04-20 07:41:40]:   [, Level 0]: Mista bombastic: BulgarianTee: wait
 [2021-04-20 07:41:43]: Random Guy [, Level 40]: BulgarianTee: i bought
 [2021-04-20 07:41:45]: ***  [ýÿÿ, Level 0]: 'Ï»ÉªÉ”ÊœÉ‘ÊŸ' entered and joined the game
+[2021-04-20 07:41:48]: BulgarianTee [Bulgaria, Level 0]: Random Guy: heeh?
+[2021-04-20 07:41:48]:   [, Level 0]: Mista bombastic: BulgarianTee: are u from roma?
+[2021-04-20 07:41:54]: BulgarianTee [Bulgaria, Level 0]: Mista bombastic: no, PoliceTee is
+[2021-04-20 07:41:57]: ***  [ýÿÿ, Level 0]: 'Telefantastic' has left the game
