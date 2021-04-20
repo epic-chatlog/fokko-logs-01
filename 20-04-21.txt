@@ -23017,3 +23017,5 @@
 [2021-04-20 15:48:50]: bob [, Level 36]: weqe: ocean master
 [2021-04-20 15:48:55]: weqe [669, Level 0]: ocean my ass
 [2021-04-20 15:48:57]: bob [, Level 36]: TeigHuhn: go back!
+[2021-04-20 15:49:07]: ***  [, Level 0]: 'weqe' has left the game
+[2021-04-20 15:49:10]: noname [, Level 0]: bob peace
