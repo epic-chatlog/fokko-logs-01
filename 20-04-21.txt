@@ -9805,3 +9805,7 @@
 [2021-04-20 07:07:51]: Nudelsaft c: [FookinLads, Level 43]: ERROR: ne 2 leute nicht
 [2021-04-20 07:07:54]: ERROR's dad [, Level 11]: hi
 [2021-04-20 07:07:58]: ***  [þÿÿ, Level 0]: 'iker' has left the game (Timeout)
+[2021-04-20 07:08:05]: (3)Kirito [, Level 0]: water: dont
+[2021-04-20 07:08:11]: ***  [þÿÿ, Level 0]: BC|kakashi is on a killing spree with 5 blocks
+[2021-04-20 07:08:15]:   [, Level 0]: ~DemoizL~: ups
+[2021-04-20 07:08:17]: ***  [þÿÿ, Level 0]: 'aviÃ¸Ã¸cals 2.0' has left the game
