@@ -13478,3 +13478,7 @@
 [2021-04-20 09:21:15]: casserole :p [, Level 20]: bob: so who?
 [2021-04-20 09:21:19]: (C)Ali [Blood Gang , Level 3]: Salut: a
 [2021-04-20 09:21:22]: ***  [, Level 0]: 'cardosohaitham3' has left the game
+[2021-04-20 09:21:32]: bob [, Level 36]: ?
+[2021-04-20 09:21:33]: bob [, Level 36]: oh
+[2021-04-20 09:21:34]: (C)Ali [Blood Gang , Level 3]: Salut:
+[2021-04-20 09:21:35]: ***  [, Level 0]: 'Niemand' has left the game (Timeout)
