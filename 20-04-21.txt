@@ -5632,3 +5632,7 @@
 [2021-04-20 03:57:02]: ***  [, Level 0]: 'el champeon' has left the game
 [2021-04-20 03:57:02]: ***  [, Level 0]: 'Soros' has left the game
 [2021-04-20 03:57:15]:   [, Level 0]: artur_xyz br: c
+[2021-04-20 03:57:23]: ***  [, Level 0]: 'vollesprit' entered and joined the game
+[2021-04-20 03:57:25]: ***  [, Level 0]: 'Minato/fr dumy' entered and joined the game
+[2021-04-20 03:57:26]: ***  [, Level 0]: 'Minato/fr dumy' has left the game
+[2021-04-20 03:57:28]: ***  [, Level 0]: 'just leave me' entered and joined the game
