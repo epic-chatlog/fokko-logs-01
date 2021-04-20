@@ -1633,3 +1633,12 @@
 [2021-04-20 01:05:00]: Meetiteusz [TrRShClNrRs, Level 29]: Obliviate: and im getting flag on spawn xD
 [2021-04-20 01:05:02]: ***  [, Level 0]: 'power' has left the game
 [2021-04-20 01:05:04]: SanoreX [Chilli.*, Level 27]: RM | Arin:
+[2021-04-20 01:05:09]: Meetiteusz [TrRShClNrRs, Level 29]: Ðream: k its still here
+[2021-04-20 01:05:09]: Axandos² [, Level 21]: xD
+[2021-04-20 01:05:12]: Axandos² [, Level 21]: kais:  noioo
+[2021-04-20 01:05:13]: ghp [1234, Level 0]: portal
+[2021-04-20 01:05:13]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 01:05:14]: SanoreX [Chilli.*, Level 27]: RM | Arin: I FOUND
+[2021-04-20 01:05:15]: ***  [, Level 0]: 'f"{self.name}"' would have timed out, but can use timeout protection now
+[2021-04-20 01:05:15]: ***  [, Level 0]: '__init__(self):' would have timed out, but can use timeout protection now
+[2021-04-20 01:05:15]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
