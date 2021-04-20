@@ -3575,3 +3575,6 @@
 [2021-04-20 02:21:10]:   [, Level 0]: experto patrono: Taip: to?
 [2021-04-20 02:21:11]:   [, Level 0]: experto patrono: Taip: for?
 [2021-04-20 02:21:12]:   [, Level 0]: Virus: experto patrono: FAK U
+[2021-04-20 02:21:17]:   [, Level 0]: Move: ReXi: down
+[2021-04-20 02:21:20]: Taip [VergleriSay, Level 19]: plz
+[2021-04-20 02:21:20]:   [, Level 0]: experto patrono: Taip: oh
