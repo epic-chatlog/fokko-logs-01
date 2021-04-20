@@ -3561,3 +3561,8 @@
 [2021-04-20 02:20:33]: ***  [, Level 0]: 'Sectumsempra' entered and joined the game
 [2021-04-20 02:20:36]:   [, Level 0]: .: beep
 [2021-04-20 02:20:36]: Taip [VergleriSay, Level 19]: weq
+[2021-04-20 02:20:37]: Taip [VergleriSay, Level 19]: velet
+[2021-04-20 02:20:39]: ~DemoizL~ [, Level 39]: Move: who are you ?
+[2021-04-20 02:20:40]: Taip [VergleriSay, Level 19]: yas 5
+[2021-04-20 02:20:42]: Taip [VergleriSay, Level 19]: max
+[2021-04-20 02:20:43]: ***  [, Level 0]: 'Marcisten' has left the game
