@@ -21963,3 +21963,10 @@
 [2021-04-19 23:49:57]: SanoreX.* [Chilli.*, Level 23]: şatgan
 [2021-04-19 23:50:03]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-19 23:50:06]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:50:17]: Raidon [, Level 24]: SanoreX: bi sn
+[2021-04-19 23:50:22]: SanoreX [Chilli.*, Level 27]: adam masım
+[2021-04-19 23:50:23]: SanoreX [Chilli.*, Level 27]: um
+[2021-04-19 23:50:25]: SanoreX [Chilli.*, Level 27]: masum
+[2021-04-19 23:50:26]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:50:28]: SanoreX [Chilli.*, Level 27]: Raidon:
+[2021-04-19 23:50:28]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
