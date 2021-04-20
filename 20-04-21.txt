@@ -16282,3 +16282,23 @@
 [2021-04-20 10:45:35]:   [, Level 0]: (1)Kirito: fKiNg nOoBs
 [2021-04-20 10:45:35]: Kirito [{TQuila}, Level 41]: fKiNg nOoBs
 [2021-04-20 10:45:36]:   [, Level 0]: yair: yair: better than me
+[2021-04-20 10:45:40]: Kirito [{TQuila}, Level 41]: yAiR: bEtTeR ThAn mE
+[2021-04-20 10:45:40]: Nudelsaft c: [FookinLads, Level 43]: b
+[2021-04-20 10:45:40]: (2)Kirito [{TQuila}, Level 27]: yAiR: bEtTeR ThAn mE
+[2021-04-20 10:45:40]: (3)Kirito [{TQuila}, Level 12]: yAiR: bEtTeR ThAn mE
+[2021-04-20 10:45:40]:   [, Level 0]: (1)Kirito: yAiR: bEtTeR ThAn mE
+[2021-04-20 10:45:41]:   [, Level 0]: Kaptar: bob ws
+[2021-04-20 10:45:42]: Nudelsaft c: [FookinLads, Level 43]: c
+[2021-04-20 10:45:43]:   [, Level 0]: cunt: Isegrin: xDDDD
+[2021-04-20 10:45:44]: power2 [TrRShClNrRs, Level 0]: ghfdjxc: now be very carefull, u need to just walk to the right when u stand here okay? trust me
+[2021-04-20 10:45:44]: ghfdjxc [, Level 0]: power2: i follow u
+[2021-04-20 10:45:44]: Kirito [{TQuila}, Level 41]: gHfDjXc: NoW Be vErY CaReFuLl, U NeEd tO JuSt wAlK To tHe rIgHt wHeN U StAnD HeRe oKaY? tRuSt mE
+[2021-04-20 10:45:44]: (3)Kirito [{TQuila}, Level 12]: gHfDjXc: NoW Be vErY CaReFuLl, U NeEd tO JuSt wAlK To tHe rIgHt wHeN U StAnD HeRe oKaY? tRuSt mE
+[2021-04-20 10:45:44]: (2)Kirito [{TQuila}, Level 27]: gHfDjXc: NoW Be vErY CaReFuLl, U NeEd tO JuSt wAlK To tHe rIgHt wHeN U StAnD HeRe oKaY? tRuSt mE
+[2021-04-20 10:45:44]:   [, Level 0]: (1)Kirito: pOwEr2: i fOlLoW U
+[2021-04-20 10:45:46]: ***  [, Level 0]: '[D] Nudelsaft c' entered and joined the game
+[2021-04-20 10:45:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-20 10:45:50]:   [, Level 0]: (1)Kirito: [InFo] YoU CaN DrOp fLaGs wItH 'f3' (Or tHe kEy fOr vOtE YeS)
+[2021-04-20 10:45:50]: Kirito [{TQuila}, Level 41]: [InFo] YoU CaN DrOp fLaGs wItH 'f3' (Or tHe kEy fOr vOtE YeS)
+[2021-04-20 10:45:50]: (2)Kirito [{TQuila}, Level 27]: [InFo] YoU CaN DrOp fLaGs wItH 'f3' (Or tHe kEy fOr vOtE YeS)
+[2021-04-20 10:45:50]: (3)Kirito [{TQuila}, Level 12]: [InFo] YoU CaN DrOp fLaGs wItH 'f3' (Or tHe kEy fOr vOtE YeS)
