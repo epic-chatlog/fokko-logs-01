@@ -412,3 +412,10 @@
 [2021-04-20 00:18:29]: ***  [, Level 0]: '-LGCO-limon' has left the game
 [2021-04-20 00:18:30]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:18:30]: ***  [, Level 0]: MysterX is on a killing spree with 5 blocks
+[2021-04-20 00:18:32]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:18:32]: ***  [, Level 0]: Raidon is on a killing spree with 5 blocks
+[2021-04-20 00:18:32]: Kezo [DogParty, Level 41]: Nightmare: i dont play blmapchill idc
+[2021-04-20 00:18:37]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-20 00:18:39]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:18:41]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:18:41]: bababuia [AUG CREW, Level 0]: help
