@@ -4601,3 +4601,8 @@
 [2021-04-20 03:00:03]: ***  [, Level 0]: 'muluk' has left the game
 [2021-04-20 03:00:03]: ***  [, Level 0]: 'muliboy' has left the game
 [2021-04-20 03:00:03]: (1)MOM [, Level 28]: falkenauge: ich saß die ganze zeit im haus
+[2021-04-20 03:00:07]: (1)MOM [, Level 28]: falkenauge: bin am farmen
+[2021-04-20 03:00:08]: rexi [, Level 0]: Kenshi ツ:
+[2021-04-20 03:00:09]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: du hast mich im start getötet wo ich endless checkpoint hatte
+[2021-04-20 03:00:10]: ***  [, Level 0]: ϻɪɔʜɑʟ finished in: 1 minute(s) 31.10 second(s)
+[2021-04-20 03:00:10]: ***  [, Level 0]: New record: 3 minute(s) 12.34 second(s) better.
