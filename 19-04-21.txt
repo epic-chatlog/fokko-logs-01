@@ -20456,3 +20456,5 @@
 [2021-04-19 18:37:05]: Black [, Level 26]: Kirito:  WAR
 [2021-04-19 18:37:06]: ***  [, Level 0]: 'Black' has left the game
 [2021-04-19 18:37:10]: Kirito [{TQuila}, Level 41]: xD
+[2021-04-19 18:37:39]: ***  [, Level 0]: 'sando' has left the game
+[2021-04-19 18:37:39]: ***  [, Level 0]: 'sandu' entered and joined the game
