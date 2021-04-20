@@ -20590,3 +20590,8 @@
 [2021-04-20 13:19:14]: El patron [FookinLads, Level 0]: cool
 [2021-04-20 13:19:15]: Axandos² [, Level 21]: ChillerDragon:
 [2021-04-20 13:19:17]:   [, Level 0]: RM | Arin: 9:6
+[2021-04-20 13:19:19]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-20 13:19:20]: ***  [, Level 0]: 'adamabel' joined the spectators
+[2021-04-20 13:19:21]: [D] mamikral011 [DogParty, Level 27]: HardreenClutch: fuckk
+[2021-04-20 13:19:25]:   [, Level 0]: █  Zeus  █: [D] mamikral011:  gel mapi bitirek
+[2021-04-20 13:19:27]: ***  [, Level 0]: 'warlucky' has left the game (Too weak connection (not acked for 60 seconds))
