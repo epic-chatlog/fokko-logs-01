@@ -6620,3 +6620,5 @@
 [2021-04-20 04:38:33]: ***  [’ÿÿÿ, Level 0]: 'totaly friendly' has left the game
 [2021-04-20 04:38:34]: SanoreX [Chilli.*, Level 27]: RM | Arin: pls come
 [2021-04-20 04:38:34]: ***  [’ÿÿÿ, Level 0]: 'totaly friendly' entered and joined the game
+[2021-04-20 04:38:37]: ***  [’ÿÿÿ, Level 0]: 'Cup' entered and joined the game
+[2021-04-20 04:38:43]:   [, Level 0]: ChillerDragon.*: viso ?
