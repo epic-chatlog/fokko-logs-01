@@ -931,3 +931,8 @@
 [2021-04-20 00:35:12]: 1 [, Level 18]: niye
 [2021-04-20 00:35:13]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:35:15]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:35:19]: Intensiv_ [DogParty, Level 11]: beni blokluyordun hep farmdayken
+[2021-04-20 00:35:20]: power2 [TrRShClNrRs, Level 0]: stop fighting 1 Intensiv
+[2021-04-20 00:35:22]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:35:24]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:35:24]: SanoreX [Chilli.*, Level 27]: RM | Arin: thank you <3333
