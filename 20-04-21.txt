@@ -22604,3 +22604,6 @@
 [2021-04-20 15:09:40]: keepertrain._. [, Level 30]: bob: tf?
 [2021-04-20 15:09:55]: [D] TeigHuhn [, Level 0]: bo
 [2021-04-20 15:09:59]: [D] TeigHuhn [, Level 0]: bob:
+[2021-04-20 15:10:05]: [D] TeigHuhn [, Level 0]: do you have weapons
+[2021-04-20 15:10:06]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 0 minute(s) 27.22 second(s)
+[2021-04-20 15:10:06]: ***  [, Level 0]: New record:  6.04 second(s) better.
