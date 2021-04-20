@@ -8691,3 +8691,6 @@
 [2021-04-20 06:22:55]: *ExTr1Me* [DDMI, Level 0]: vlevo
 [2021-04-20 06:22:56]: Nightmare [, Level 0]: ERROR: yo
 [2021-04-20 06:22:57]: Mista bombastic [TrRShClNrRs, Level 40]: HeavyGeneral: ?
+[2021-04-20 06:23:02]: Mista bombastic [TrRShClNrRs, Level 40]: HeavyGeneral:
+[2021-04-20 06:23:06]: ***  [���, Level 0]: '[D] AlinGaming9' entered and joined the game
+[2021-04-20 06:23:10]: *ExTr1Me* [DDMI, Level 0]: нихуя не дает
