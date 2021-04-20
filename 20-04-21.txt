@@ -23782,3 +23782,5 @@
 [2021-04-20 16:58:48]: Zephir ツ [404, Level 40]: GODLIKe: mhh with dummi
 [2021-04-20 16:58:52]: GODLIKe [, Level 44]: Zephir ツ: okay
 [2021-04-20 16:59:00]: Kenshi ツ [404, Level 40]: GODLIKe: wait i depose
+[2021-04-20 16:59:05]: Cup [, Level 0]: bob:  stop pls
+[2021-04-20 16:59:11]: bob [, Level 36]: you Cup of coffe?
