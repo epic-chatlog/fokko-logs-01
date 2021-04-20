@@ -15272,3 +15272,5 @@
 [2021-04-20 10:26:48]:   [, Level 0]: yair: xddddddd
 [2021-04-20 10:26:51]: Ðeathscyth [, Level 3]: kurama: do me endless jumps
 [2021-04-20 10:27:01]: Kirito [{TQuila}, Level 41]: Zephir ツ: no reason to kill me tho. its not your war
+[2021-04-20 10:27:05]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-20 10:27:08]: ***  [, Level 0]: 'tee' entered and joined the game
