@@ -4947,3 +4947,7 @@
 [2021-04-20 03:18:24]: [D]ϻɪɔʜɑʟ [DogParty, Level 21]: wait?
 [2021-04-20 03:18:29]: Lumos [, Level 0]: CKA3A4NIK[NR]: go left
 [2021-04-20 03:18:33]:   [, Level 0]: CKA3A4NIK[NR]: (1)Ðream:  ку ты портал купил?
+[2021-04-20 03:18:39]: [D]ϻɪɔʜɑʟ [DogParty, Level 21]: lag
+[2021-04-20 03:18:41]: ***  [, Level 0]: 'Kenshi ツ' entered and joined the game
+[2021-04-20 03:18:45]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-20 03:18:45]: ***  [, Level 0]: 'Isegrin' has left the game
