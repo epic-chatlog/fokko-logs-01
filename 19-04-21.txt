@@ -20664,3 +20664,5 @@
 [2021-04-19 19:08:24]: Black [, Level 26]: ok bob
 [2021-04-19 19:08:37]: ☺ [, Level 27]: i leave bye
 [2021-04-19 19:08:37]: |HolyHo|° [FookinLads, Level 11]: Gren:
+[2021-04-19 19:08:43]: ***  [, Level 0]: '(1)☺' has left the game
+[2021-04-19 19:08:48]: ***  [, Level 0]: '☺' has left the game
