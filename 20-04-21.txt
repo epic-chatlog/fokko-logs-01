@@ -5831,3 +5831,8 @@
 [2021-04-20 04:04:31]: ***  [, Level 0]: totaly friendly is on a killing spree with 10 blocks
 [2021-04-20 04:04:41]: ***  [, Level 0]: totaly friendly's killing spree was ended by Ravinan (11 blocks)
 [2021-04-20 04:04:45]: ***  [, Level 0]: Ravinan is on a killing spree with 5 blocks
+[2021-04-20 04:04:55]: ***  [, Level 0]: Ravinan is on a killing spree with 10 blocks
+[2021-04-20 04:04:55]: ***  [, Level 0]: Chillingo is on a killing spree with 20 blocks
+[2021-04-20 04:04:55]: ***  [, Level 0]: Ravinan's killing spree was ended by Chillingo (10 blocks)
+[2021-04-20 04:04:57]: CKA3A4NIK[NR] [Night Raid, Level 35]: XD
+[2021-04-20 04:04:57]: RM | Arin [Retard MNKY, Level 41]: falkenauge:
