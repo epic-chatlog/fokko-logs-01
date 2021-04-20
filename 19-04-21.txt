@@ -20464,3 +20464,9 @@
 [2021-04-19 18:38:18]: ***  [, Level 0]: 'sandu' has left the game
 [2021-04-19 18:38:19]: ***  [, Level 0]: 'sandu' entered and joined the game
 [2021-04-19 18:38:21]: (1)☺ [, Level 26]: oops
+[2021-04-19 18:38:24]: ***  [, Level 0]: 'sandu' has left the game
+[2021-04-19 18:38:24]: ***  [, Level 0]: 'sandu' entered and joined the game
+[2021-04-19 18:38:25]: |HolyHo|° [FookinLads, Level 11]: (1)☺: xD
+[2021-04-19 18:38:26]: (1)☺ [, Level 26]: sorry
+[2021-04-19 18:38:33]: ***  [, Level 0]: 'sandu' has left the game
+[2021-04-19 18:38:34]: ***  [, Level 0]: 'sandu' entered and joined the game
