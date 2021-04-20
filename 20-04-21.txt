@@ -11033,3 +11033,6 @@
 [2021-04-20 08:05:40]: pow232 [, Level 0]: BC|Tixnix:
 [2021-04-20 08:05:42]: ***  [ýÿÿ, Level 0]: tayson's killing spree was ended by Axandos (27 blocks)
 [2021-04-20 08:05:46]: Zephir ãƒ„ [404, Level 40]: .: ok no stack
+[2021-04-20 08:05:50]: ***  [ýÿÿ, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-20 08:05:51]: . [TrRShClNrRs, Level 11]: Zephir ãƒ„: xd
+[2021-04-20 08:05:54]: . [TrRShClNrRs, Level 11]: Zephir ãƒ„: okay
