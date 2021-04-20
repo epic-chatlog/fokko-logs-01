@@ -8384,3 +8384,7 @@
 [2021-04-20 06:06:19]: Coca [Drunks, Level 25]: (1)Æ¬evan:
 [2021-04-20 06:06:21]: ***  [þÿÿ, Level 0]: 'BC|serwan' would have timed out, but can use timeout protection now
 [2021-04-20 06:06:21]: Coca [Drunks, Level 25]: (1)Æ¬evan:
+[2021-04-20 06:06:22]: ***  [þÿÿ, Level 0]: 'thekewsik' changed name to 'el'
+[2021-04-20 06:06:28]: Black [, Level 0]: RGB: HLAA
+[2021-04-20 06:06:28]: Lakatos Mario [, Level 0]: pls help me
+[2021-04-20 06:06:34]: [D] El patron [FookinLads, Level 24]: RBG: you want war
