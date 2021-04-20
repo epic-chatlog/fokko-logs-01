@@ -20869,3 +20869,6 @@
 [2021-04-19 19:31:51]: ***  [, Level 0]: '|HolyHo|°' has left the game
 [2021-04-19 19:31:53]: ***  [, Level 0]: '|HolyHo|°' entered and joined the game
 [2021-04-19 19:32:01]: bob [, Level 36]: Killua: u had no dyn?
+[2021-04-19 19:32:11]: Black [, Level 26]: wait is TL|ŦƹƦ$ŦǾN  Killua
+[2021-04-19 19:32:11]: Gren [, Level 23]: Black: wbnswe serfr dscord
+[2021-04-19 19:32:15]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 57]: bob i had 2 binds for different cl_mouse_max_distance s i switch between 100 and 700 like some indian
