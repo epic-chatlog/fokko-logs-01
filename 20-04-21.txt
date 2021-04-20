@@ -3599,3 +3599,5 @@
 [2021-04-20 02:22:24]:   [, Level 0]: ṆḕẌṳS: h
 [2021-04-20 02:22:28]:   [, Level 0]: sun.slow(y): Move: noname
 [2021-04-20 02:22:28]: Taip [VergleriSay, Level 19]: tysm
+[2021-04-20 02:22:35]:   [, Level 0]: Move: stfu sun.slow(y)
+[2021-04-20 02:22:38]: ***  [, Level 0]: 'JEEZTANGUY' has left the game
