@@ -1082,3 +1082,8 @@
 [2021-04-20 00:43:33]: ***  [, Level 0]: 'at insan' has left the game
 [2021-04-20 00:43:35]: SanoreX [Chilli.*, Level 27]: do and I open door
 [2021-04-20 00:43:40]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:43:42]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:43:44]: ***  [, Level 0]: 'at insan' entered and joined the game
+[2021-04-20 00:43:47]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:43:49]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:43:52]: RM | Arin [Retard MNKY, Level 41]: SanoreX:  OMG
