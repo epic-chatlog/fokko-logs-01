@@ -8688,3 +8688,6 @@
 [2021-04-20 06:22:30]: ERROR [404, Level 76]: idk?
 [2021-04-20 06:22:40]: Mista bombastic [TrRShClNrRs, Level 40]: HeavyGeneral: ?
 [2021-04-20 06:22:41]: ***  [þÿÿ, Level 0]: 'á¹†á¸•áºŒá¹³S' entered and joined the game
+[2021-04-20 06:22:55]: *ExTr1Me* [DDMI, Level 0]: vlevo
+[2021-04-20 06:22:56]: Nightmare [, Level 0]: ERROR: yo
+[2021-04-20 06:22:57]: Mista bombastic [TrRShClNrRs, Level 40]: HeavyGeneral: ?
