@@ -8660,3 +8660,8 @@
 [2021-04-20 06:21:03]: *ExTr1Me* [DDMI, Level 0]: Soyler: Ğ³Ğ¾ Ğ·Ğ° Ğ¼Ğ½Ğ¾Ğ¹ Ñ€Ğµ
 [2021-04-20 06:21:06]: Coca [Drunks, Level 25]: Æ¬evan: Ñ Ğ½ĞµÑ‡Ñ‘)
 [2021-04-20 06:21:10]: Levi [, Level 0]: Coca:
+[2021-04-20 06:21:29]: ***  [şÿÿ, Level 0]: 'Pouet[NR]' finished the special race!
+[2021-04-20 06:21:30]: ***  [şÿÿ, Level 0]: 'Ãream' finished the special race!
+[2021-04-20 06:21:30]: Levi [, Level 0]: (1)Coca:
+[2021-04-20 06:21:30]: ***  [şÿÿ, Level 0]: [D] Yoshi finished in: 2 minute(s) 11.30 second(s)
+[2021-04-20 06:21:30]: ***  [şÿÿ, Level 0]: Yoshi finished in: 2 minute(s)  8.46 second(s)
