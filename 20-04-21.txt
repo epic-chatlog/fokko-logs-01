@@ -9965,3 +9965,6 @@
 [2021-04-20 07:16:48]: Nudelsaft c: [FookinLads, Level 43]: Raidon: helper
 [2021-04-20 07:16:52]: ***  [���, Level 0]: 'sL|KeBu28' entered and joined the game
 [2021-04-20 07:16:52]: Raidon [, Level 24]: wtf
+[2021-04-20 07:17:08]: ***  [k, Level 0]: 'soleri1' entered and joined the game
+[2021-04-20 07:17:10]: ***  [k, Level 0]: 'adamabel' entered and joined the game
+[2021-04-20 07:17:11]: ***  [k, Level 0]: 'ϻɪɔʜɑʟ' entered and joined the game
