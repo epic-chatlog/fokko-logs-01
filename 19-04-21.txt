@@ -20063,3 +20063,5 @@
 [2021-04-19 17:44:05]: ***  [, Level 0]: 'nar' entered and joined the game
 [2021-04-19 17:45:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-19 17:49:23]: ***  [, Level 0]: 'weqe' entered and joined the game
+[2021-04-19 17:49:35]: ezy [ComRoach, Level 23]: HE MY FREND
+[2021-04-19 17:49:38]: Kirito [{TQuila}, Level 41]: nah
