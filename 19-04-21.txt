@@ -19559,3 +19559,9 @@
 [2021-04-19 16:59:34]: Shiro. [kys, Level 43]: typical french kid
 [2021-04-19 16:59:34]: bob [, Level 36]: ok
 [2021-04-19 16:59:38]: Zephir ツ [404, Level 40]: Shiro.: c'est plus le meilleur joueur si il est pas capable de démolir la police a lui seul
+[2021-04-19 16:59:53]: Shiro. [kys, Level 43]: ERROR stopid
+[2021-04-19 16:59:53]: bob [, Level 36]: error
+[2021-04-19 16:59:55]: bob [, Level 36]: hii
+[2021-04-19 16:59:56]: bob [, Level 36]: i love u
+[2021-04-19 17:00:00]: Shiro. [kys, Level 43]: omagad u love him
+[2021-04-19 17:00:01]: Shiro. [kys, Level 43]: fuck off
