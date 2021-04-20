@@ -12036,3 +12036,10 @@
 [2021-04-20 08:40:04]:   [, Level 0]: casserole :p: Hazel: war
 [2021-04-20 08:40:05]: Falco642 [, Level 0]: Hazel: ??
 [2021-04-20 08:40:10]: x7|ERROR [, Level 26]: x7|Nudelsaft c::  xD
+[2021-04-20 08:40:12]: ***  [ýÿÿ, Level 0]: bob fan is on a killing spree with 5 blocks
+[2021-04-20 08:40:12]: ***  [ýÿÿ, Level 0]: 'x7|ERROR' has left the game
+[2021-04-20 08:40:12]: ***  [ýÿÿ, Level 0]: 'x7|Nudelsaft c:' has left the game
+[2021-04-20 08:40:13]: ***  [ýÿÿ, Level 0]: x7|HeavyGeneral's killing spree was ended by Zephir ãƒ„ (15 blocks)
+[2021-04-20 08:40:15]: yair [, Level 36]: rq
+[2021-04-20 08:40:17]: ***  [ýÿÿ, Level 0]: 'fluffrit' joined the game
+[2021-04-20 08:40:22]: ERROR. [404, Level 47]: solche lappens
