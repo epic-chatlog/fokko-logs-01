@@ -21038,3 +21038,4 @@
 [2021-04-19 20:55:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-19 20:57:04]: ***  [, Level 0]: 'r4d' has left the game
 [2021-04-19 21:00:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-19 21:01:54]: ***  [, Level 0]: 'sikiş' entered and joined the game
