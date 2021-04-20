@@ -20283,3 +20283,6 @@
 [2021-04-20 13:05:00]:   [, Level 0]: bob: in the ocean
 [2021-04-20 13:05:01]: weqe [669, Level 0]: bob: we wont be brothers again
 [2021-04-20 13:05:07]: (1)☺ [, Level 26]: El patron: mannnnnnnnnn
+[2021-04-20 13:05:13]: ***  [, Level 0]: 'Vanish Abar²' has left the game
+[2021-04-20 13:05:15]: ***  [, Level 0]: RM | Arin is on a killing spree with 5 blocks
+[2021-04-20 13:05:18]: ***  [, Level 0]: 'Axel' would have timed out, but can use timeout protection now
