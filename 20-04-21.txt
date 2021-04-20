@@ -6560,3 +6560,6 @@
 [2021-04-20 04:35:50]: ***  [’ÿÿÿ, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-20 04:35:53]: SanoreX [Chilli.*, Level 27]: :D: bkl
 [2021-04-20 04:36:05]: ***  [’ÿÿÿ, Level 0]: '(1)ZEWO' has left the game
+[2021-04-20 04:36:07]: ***  [’ÿÿÿ, Level 0]: [D] El patron is on a killing spree with 5 blocks
+[2021-04-20 04:36:16]: ***  [’ÿÿÿ, Level 0]: 'Minato / FR' has left the game
+[2021-04-20 04:36:18]: ***  [’ÿÿÿ, Level 0]: 'nameless tee' has left the game
