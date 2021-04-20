@@ -7962,3 +7962,6 @@
 [2021-04-20 05:44:03]: ***  [þÿÿ, Level 0]: 'TopHat' entered and joined the game
 [2021-04-20 05:44:44]: ***  [þÿÿ, Level 0]: '31sj' entered and joined the game
 [2021-04-20 05:44:46]: ***  [þÿÿ, Level 0]: 'BlockTop' entered and joined the game
+[2021-04-20 05:44:53]: ***  [þÿÿ, Level 0]: 'rexi' has left the game (Timeout Protection over)
+[2021-04-20 05:44:53]: ***  [þÿÿ, Level 0]: 'ReXi' has left the game (Timeout Protection over)
+[2021-04-20 05:44:54]: ***  [þÿÿ, Level 0]: 'cunt' has left the game
