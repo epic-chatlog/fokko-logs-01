@@ -21959,3 +21959,4 @@
 [2021-04-19 23:49:34]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-19 23:49:34]: SanoreX.* [Chilli.*, Level 23]: amk adam
 [2021-04-19 23:49:34]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:49:38]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
