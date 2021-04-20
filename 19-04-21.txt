@@ -19852,3 +19852,5 @@
 [2021-04-19 17:20:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-19 17:20:50]: bob [, Level 36]: rqrqrq
 [2021-04-19 17:20:59]: bob [, Level 36]: Shiro,: me no blocker me gores
+[2021-04-19 17:21:04]: Shiro, [Whɪтє, Level 51]: komm gores
+[2021-04-19 17:21:06]: bob [, Level 36]: no
