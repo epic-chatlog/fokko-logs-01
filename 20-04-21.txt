@@ -19433,3 +19433,7 @@
 [2021-04-20 12:28:40]: BlockTop [AFK [D], Level 0]: HELP ME REATADS
 [2021-04-20 12:28:42]: BlockTop [AFK [D], Level 0]: HEEELp
 [2021-04-20 12:28:45]: {(.)}  |  Raaaw [{(.)} GP, Level 31]: SkyForge: bb <3
+[2021-04-20 12:28:51]: Intensiv_ [DogParty, Level 11]: eyw
+[2021-04-20 12:28:53]: ***  [, Level 0]: 'TopHat' has left the game
+[2021-04-20 12:28:53]: ***  [, Level 0]: 'BlockTop' has left the game
+[2021-04-20 12:28:56]: Meetiteusz [TrRShClNrRs, Level 29]: ChillerDragon: i have more important things to do than writing you but yes
