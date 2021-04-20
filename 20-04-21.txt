@@ -7418,3 +7418,7 @@
 [2021-04-20 05:09:37]:   [, Level 0]: Kezo: ERROR: NAH
 [2021-04-20 05:09:39]:   [, Level 0]: Kezo: ERROR: LİER
 [2021-04-20 05:09:40]: ***  [, Level 0]: '(1)K!ked' has left the game
+[2021-04-20 05:09:49]:   [, Level 0]: Kezo: ERROR: good lier
+[2021-04-20 05:09:49]: ERROR. [404, Level 47]: so die
+[2021-04-20 05:09:55]:   [, Level 0]: Random Guy: fokkonaut:  25 -29
+[2021-04-20 05:09:57]:   [, Level 0]: Kezo: ERROR: so stupid lier ?
