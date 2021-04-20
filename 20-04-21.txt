@@ -553,3 +553,7 @@
 [2021-04-20 00:23:19]: Kezo [DogParty, Level 41]: wtf
 [2021-04-20 00:23:20]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:23:25]: ***  [, Level 0]: 'Cup' entered and joined the game
+[2021-04-20 00:23:26]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:23:27]: ***  [, Level 0]: '(1)' entered and joined the game
+[2021-04-20 00:23:28]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:23:36]: SanoreX.* [Chilli.*, Level 23]: DUR 2SN
