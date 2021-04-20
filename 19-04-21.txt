@@ -21712,3 +21712,8 @@
 [2021-04-19 23:33:24]: SanoreX [Chilli.*, Level 27]: göt
 [2021-04-19 23:33:25]: SanoreX [Chilli.*, Level 27]: gör
 [2021-04-19 23:33:25]: ***  [, Level 0]: 'Jerry' entered and joined the game
+[2021-04-19 23:33:30]: [D] JustRace [404, Level 0]: cl_aimbot 1
+[2021-04-19 23:33:31]: Raidon [, Level 0]: SanoreX: knk
+[2021-04-19 23:33:36]: Raidon [, Level 0]: SanoreX: ben local host geçiyom
+[2021-04-19 23:33:36]: ***  [, Level 0]: 'JotaCerve' entered and joined the game
+[2021-04-19 23:33:39]: SanoreX [Chilli.*, Level 27]: Raidon: ok
