@@ -6443,3 +6443,11 @@
 [2021-04-20 04:31:02]:   [, Level 0]: ZEWO: ohaa
 [2021-04-20 04:31:06]:   [, Level 0]: [D] El patron: Zephir ãƒ„: ?
 [2021-04-20 04:31:08]: ***  [’ÿÿÿ, Level 0]: '(1)nameless tee' entered and joined the game
+[2021-04-20 04:31:09]: Zephir ãƒ„ [404, Level 40]: El Monkey: ?
+[2021-04-20 04:31:10]: Cacke [, Level 22]: Karzen: help
+[2021-04-20 04:31:10]:   [, Level 0]: nameless tee: help
+[2021-04-20 04:31:12]: Zephir ãƒ„ [404, Level 40]: El patron: ?
+[2021-04-20 04:31:14]: ***  [’ÿÿÿ, Level 0]: 'Bugi' has left the game
+[2021-04-20 04:31:16]: SanoreX [Chilli.*, Level 27]: ALMA
+[2021-04-20 04:31:18]: ***  [’ÿÿÿ, Level 0]: 'W.D' has left the game
+[2021-04-20 04:31:20]: [D]Ï»ÉªÉ”ÊœÉ‘ÊŸ [, Level 21]: GODLIKe: :D xD
