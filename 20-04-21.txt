@@ -806,3 +806,8 @@
 [2021-04-20 00:30:58]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:31:03]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:31:05]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:31:08]: Nightmare [, Level 0]: power: Kezo u will regret this
+[2021-04-20 00:31:09]: SanoreX [Chilli.*, Level 27]: Lakatos Mario:
+[2021-04-20 00:31:10]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:31:11]: SanoreX [Chilli.*, Level 27]: RM | Arin:
+[2021-04-20 00:31:12]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
