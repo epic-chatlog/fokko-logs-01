@@ -18557,3 +18557,8 @@
 [2021-04-20 11:58:15]: bob [, Level 36]: XDDDDDDDDDDDDD
 [2021-04-20 11:58:21]: ***  [, Level 0]: 'Falco642' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-20 11:58:21]: ***  [, Level 0]: 'Falco641' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-20 11:58:24]: weqe [669, Level 13]: bob: u never loved me ?
+[2021-04-20 11:58:27]: bob [, Level 36]: stop
+[2021-04-20 11:58:30]: Nagisa [H] [E8, Level 3]: Matiteusz: plz
+[2021-04-20 11:58:33]: weqe [669, Level 13]: bob: i cant belive this
+[2021-04-20 11:58:33]: ***  [, Level 0]: 'andyandyadny' entered and joined the game
