@@ -21845,3 +21845,5 @@
 [2021-04-19 23:42:01]: ***  [, Level 0]: Tom finished in: 6 minute(s) 14.80 second(s)
 [2021-04-19 23:42:07]: ***  [, Level 0]: Jerry finished in: 6 minute(s) 20.32 second(s)
 [2021-04-19 23:42:07]: ***  [, Level 0]: 'Jerry' finished the special race!
+[2021-04-19 23:42:15]: Fearless [, Level 40]: JustRace:  zephir is noname he helps him 24/7
+[2021-04-19 23:42:16]: Raidon's Pet [, Level 20]: Ðream: can help?
