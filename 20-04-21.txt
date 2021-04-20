@@ -13353,3 +13353,10 @@
 [2021-04-20 09:17:26]: ERROR [404, Level 76]: El patron:  so no need to be scared
 [2021-04-20 09:17:34]: ***  [, Level 0]: 'DomileFighter' has left the game
 [2021-04-20 09:17:34]: ***  [, Level 0]: 'cyberFighter' has left the game
+[2021-04-20 09:17:36]: ***  [, Level 0]: ### 'Souly' Get youself a brand new DDNet BOT now!!! https://louis.place/twbot.html
+[2021-04-20 09:17:37]: (C)Ali [Blood Gang , Level 3]: (2)Salut:
+[2021-04-20 09:17:37]: ***  [, Level 0]: ### 'Souly' Get youself a brand new DDNet BOT now!!!! https://louis.place/twbot.html
+[2021-04-20 09:17:42]: ***  [, Level 0]: 'Niemand' has left the game
+[2021-04-20 09:17:42]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-20 09:17:44]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-20 09:17:45]: ***  [, Level 0]: 'tee' entered and joined the game
