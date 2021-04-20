@@ -20477,3 +20477,9 @@
 [2021-04-20 13:14:34]: ***  [, Level 0]: RM | Arin is on a killing spree with 5 blocks
 [2021-04-20 13:14:36]: HardreenClutch [\ЧՁθ/, Level 57]: El patron:  damit Axandos  schön spaß hat gehasst zu werden von allen
 [2021-04-20 13:14:40]: ***  [, Level 0]: 'Victor_Iz' has left the game
+[2021-04-20 13:14:46]: ***  [, Level 0]: RM | Arin's killing spree was ended by f"{self.name}" (9 blocks)
+[2021-04-20 13:14:46]: ***  [, Level 0]: 'DWedicXYT' entered and joined the game
+[2021-04-20 13:14:51]: HardreenClutch [\ЧՁθ/, Level 57]: El patron:  außer von so idioten wie chiller
+[2021-04-20 13:14:52]: ***  [, Level 0]: Kirito is on a killing spree with 5 blocks
+[2021-04-20 13:14:52]:   [, Level 0]: RM | Arin: f"{self.name}":  you are wbing ez clap
+[2021-04-20 13:14:55]: SkyForge [, Level 22]: noname:  your pretty good at sucking zephirs dick
