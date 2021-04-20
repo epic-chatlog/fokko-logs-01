@@ -5338,3 +5338,7 @@
 [2021-04-20 03:37:17]: ***  [, Level 0]: 'tee' entered and joined the game
 [2021-04-20 03:37:19]: thekewsik [, Level 0]: i want be a friend zephir
 [2021-04-20 03:37:22]: no friendly tee [, Level 0]: me to
+[2021-04-20 03:37:32]: Taip [VergleriSay, Level 19]: sta
+[2021-04-20 03:37:34]: Taip [VergleriSay, Level 19]: kurtar
+[2021-04-20 03:37:35]: Taip [VergleriSay, Level 19]: yada
+[2021-04-20 03:37:36]: Taip [VergleriSay, Level 19]: war4life
