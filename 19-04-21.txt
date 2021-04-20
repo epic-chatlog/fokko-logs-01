@@ -22123,3 +22123,7 @@
 [2021-04-19 23:58:10]: SanoreX [Chilli.*, Level 27]: brainless tee: amcık dursana
 [2021-04-19 23:58:16]: SanoreX [Chilli.*, Level 27]: brainless tee: sen başlattın pi
 [2021-04-19 23:58:18]: SanoreX [Chilli.*, Level 27]: brainless tee: sen başlattın piç
+[2021-04-19 23:58:23]: brainless tee [, Level 0]: stay here
+[2021-04-19 23:58:24]: ***  [, Level 0]: 177. brainless tee Time: 00:53.06, requested by brainless tee
+[2021-04-19 23:58:31]: Raidon [, Level 24]: SanoreX: oha bak
+[2021-04-19 23:58:32]: ***  [, Level 0]: 'Jeloudagh' has left the game
