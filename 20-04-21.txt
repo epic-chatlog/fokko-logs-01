@@ -20509,3 +20509,8 @@
 [2021-04-20 13:16:01]: [D] SkyForge [, Level 0]: (1)Black:  noob
 [2021-04-20 13:16:05]: [D] mamikral011 [DogParty, Level 27]: ~DemoizL~:
 [2021-04-20 13:16:08]: f"{self.name}" [, Level 18]: RM | Arin: come
+[2021-04-20 13:16:14]: [D] mamikral011 [DogParty, Level 27]: noname: help or war
+[2021-04-20 13:16:15]: (1)Black [, Level 0]: SkyForge: NOOB
+[2021-04-20 13:16:17]: Axandos² [, Level 21]: El patron:  hälst ja lieber zu error anstatt zu mir xd
+[2021-04-20 13:16:17]: [D] SkyForge [, Level 0]: (1)Black:  imma just hunt you down for life :)
+[2021-04-20 13:16:20]: noname [, Level 21]: mamikral011:  you killimg me?
