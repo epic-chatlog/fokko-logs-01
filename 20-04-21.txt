@@ -4617,3 +4617,7 @@
 [2021-04-20 03:00:42]: Zephir ツ [404, Level 40]: Axandos: wtf come ?
 [2021-04-20 03:00:42]: ***  [, Level 0]: 'ZEWO' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-20 03:00:42]: ***  [, Level 0]: '(1)ZEWO' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-20 03:00:48]:   [, Level 0]: (1)Meetiteusz: Kompingo: come
+[2021-04-20 03:00:48]: any﹥❅ [404, Level 38]: Matiteusz:
+[2021-04-20 03:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-20 03:00:52]: ṆḕẌṳS [Chilli.*, Level 0]: #5 blocker: jetpack pls
