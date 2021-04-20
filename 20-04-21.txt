@@ -20446,3 +20446,5 @@
 [2021-04-20 13:13:23]: ***  [, Level 0]: 'weqe' has left the game
 [2021-04-20 13:13:24]:   [, Level 0]: Zephir ツ: Axandos: never ask peace again
 [2021-04-20 13:13:26]: f"{self.name}" [, Level 18]: RM | Arin: 1v1 then
+[2021-04-20 13:13:28]: [D] El patron [FookinLads, Level 31]: bob:
+[2021-04-20 13:13:38]: Axandos [, Level 26]: u betraited me with ur gay friends Zephir ツ
