@@ -1420,3 +1420,8 @@
 [2021-04-20 00:56:45]: ***  [, Level 0]: 'Cacke' has left the game
 [2021-04-20 00:56:45]: ***  [, Level 0]: 'Cup' has left the game
 [2021-04-20 00:56:47]: SanoreX [Chilli.*, Level 27]: come
+[2021-04-20 00:56:50]: f"{self.name}" [, Level 0]: stupid lags
+[2021-04-20 00:56:52]: ***  [, Level 0]: 'fajorwerka' has left the game
+[2021-04-20 00:56:54]: kais [, Level 66]: RM | Arin: damn, you're so low iq
+[2021-04-20 00:56:55]: ***  [, Level 0]: 'fajorwerka' entered and joined the game
+[2021-04-20 00:56:56]: ᴄʜɪᴋᴀ [, Level 39]: S Y T H N:  kommen sie in se call
