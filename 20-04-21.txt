@@ -7898,3 +7898,6 @@
 [2021-04-20 05:33:50]: ERROR. [404, Level 47]: xD
 [2021-04-20 05:34:05]: ***  [, Level 0]: ':D' has left the game (Timeout)
 [2021-04-20 05:34:06]: ***  [, Level 0]: 'Nagisa [H]' has left the game (Timeout)
+[2021-04-20 05:34:08]: GReeeN [, Level 41]: rexi:  lass ma gores
+[2021-04-20 05:34:13]: rexi [, Level 0]: GReeeN: gleich
+[2021-04-20 05:34:20]: [D] El patron [FookinLads, Level 24]: wtf i cant kill flappy
