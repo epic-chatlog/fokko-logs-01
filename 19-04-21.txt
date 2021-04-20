@@ -21021,3 +21021,5 @@
 [2021-04-19 20:45:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-19 20:50:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-19 20:50:54]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 20:51:22]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 20:51:25]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
