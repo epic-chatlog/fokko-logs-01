@@ -20692,3 +20692,9 @@
 [2021-04-20 13:23:44]: █  Zeus  █ [, Level 0]: mamikral011:
 [2021-04-20 13:23:47]: █  Zeus  █ [, Level 0]: barışak mı
 [2021-04-20 13:23:50]: [D] mamikral011 [DogParty, Level 27]: █  Zeus  █: kimsin
+[2021-04-20 13:23:54]: █  Zeus  █ [, Level 0]: ali
+[2021-04-20 13:23:55]: ☺ [, Level 28]: i quitte Zephir ツ bye
+[2021-04-20 13:24:00]: Zephir ツ [404, Level 40]: ☺: bye
+[2021-04-20 13:24:02]: mamikral011 [DogParty, Level 22]: █  Zeus  █: ali orospu
+[2021-04-20 13:24:05]: ***  [, Level 0]: '(1)☺' has left the game
+[2021-04-20 13:24:05]: ***  [, Level 0]: '☺' has left the game
