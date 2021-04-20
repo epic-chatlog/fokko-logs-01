@@ -20296,3 +20296,8 @@
 [2021-04-19 18:20:09]: Black [, Level 26]: ok what evert
 [2021-04-19 18:20:11]: Kirito [{TQuila}, Level 41]: you should have made the rule before
 [2021-04-19 18:20:11]: Black [, Level 26]: ever
+[2021-04-19 18:20:24]: Black [, Level 26]: Kirito: its not mine
+[2021-04-19 18:20:27]: Black [, Level 26]: 4
+[2021-04-19 18:20:29]: Black [, Level 26]: 3
+[2021-04-19 18:20:30]: Black [, Level 26]: 2
+[2021-04-19 18:20:31]: Black [, Level 26]: 1
