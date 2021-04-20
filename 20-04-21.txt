@@ -22490,3 +22490,5 @@
 [2021-04-20 15:02:08]: ***  [, Level 0]: 'power' has left the game
 [2021-04-20 15:02:08]: ***  [, Level 0]: 'power2' has left the game
 [2021-04-20 15:02:08]: ***  [, Level 0]: 'HardreenClutch' entered and joined the game
+[2021-04-20 15:02:27]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-20 15:02:35]: ☺ [, Level 28]: kri
