@@ -20722,3 +20722,7 @@
 [2021-04-19 19:15:09]: bob [, Level 36]: iam sorry
 [2021-04-19 19:15:13]: bob [, Level 36]: i forgot
 [2021-04-19 19:15:15]: bob [, Level 36]: u gve mem oney+
+[2021-04-19 19:15:20]: bob [, Level 36]: u sau
+[2021-04-19 19:15:21]: bob [, Level 36]: sorry
+[2021-04-19 19:15:22]: ***  [, Level 0]: 'bob' has been muted for 60 seconds
+[2021-04-19 19:15:26]: Black [, Level 26]: idc about money
