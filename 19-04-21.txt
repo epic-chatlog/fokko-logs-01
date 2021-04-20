@@ -20088,3 +20088,5 @@
 [2021-04-19 17:52:41]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-19 17:54:08]: ☺ [, Level 27]: my money pls Kirito
 [2021-04-19 17:54:14]: ***  [, Level 0]: 'LAG' entered and joined the game
+[2021-04-19 17:54:24]: ☺ [, Level 27]: Kirito: my money pls
+[2021-04-19 17:54:28]: (1)Kirito [, Level 27]: i collected 76
