@@ -20036,3 +20036,7 @@
 [2021-04-19 17:38:43]: (1)☺ [, Level 26]: xD
 [2021-04-19 17:38:44]: Kirito [{TQuila}, Level 41]: xD
 [2021-04-19 17:38:53]: Kirito [{TQuila}, Level 41]: stop ruining stack dumbo
+[2021-04-19 17:39:25]: ☺ [, Level 27]: sorry i press hammerfly
+[2021-04-19 17:39:25]: Kirito [{TQuila}, Level 41]: ah ok
+[2021-04-19 17:39:27]: ***  [, Level 0]: 'ezy' has left the game (Timeout)
+[2021-04-19 17:39:27]: ***  [, Level 0]: 'nar' has left the game (Timeout)
