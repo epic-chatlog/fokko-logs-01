@@ -5563,3 +5563,7 @@
 [2021-04-20 03:52:27]: ***  [, Level 0]: 'Black' has left the game
 [2021-04-20 03:52:46]: ***  [, Level 0]: Niklas is on a killing spree with 10 blocks
 [2021-04-20 03:52:48]:   [, Level 0]: CKA3A4NIK[NR]: falkenauge:
+[2021-04-20 03:52:50]: Tom [, Level 25]: Crøzzz:  help
+[2021-04-20 03:52:50]:   [, Level 0]: CKA3A4NIK[NR]: [D] falkenauge:
+[2021-04-20 03:52:55]: Taip [VergleriSay, Level 19]: why
+[2021-04-20 03:52:57]: Taip [VergleriSay, Level 19]: I like turtles.
