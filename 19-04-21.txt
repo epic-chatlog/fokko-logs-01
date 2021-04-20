@@ -21470,3 +21470,6 @@
 [2021-04-19 23:18:20]: SanoreX [Chilli.*, Level 27]: u gay
 [2021-04-19 23:18:21]: JustRace [404, Level 0]: SanoreX:  came*
 [2021-04-19 23:18:26]: SanoreX [Chilli.*, Level 27]: come and farm
+[2021-04-19 23:18:35]: SanoreX [Chilli.*, Level 27]: cl_aimbot 0
+[2021-04-19 23:18:40]: JustRace [404, Level 0]: cl_aimbot 1
+[2021-04-19 23:18:42]: SanoreX [Chilli.*, Level 27]: cl_aimbot 0
