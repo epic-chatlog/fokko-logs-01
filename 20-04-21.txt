@@ -16882,3 +16882,24 @@
 [2021-04-20 10:54:43]: (2)Kirito [{TQuila}, Level 27]: fIcK DeIn tOcHtEr vOn hInTeN
 [2021-04-20 10:54:44]: ***  [, Level 0]: 'HardreenClutch' entered and joined the game
 [2021-04-20 10:54:45]: ghfdjxc [, Level 0]: power2: what now : D
+[2021-04-20 10:54:50]: Nudelsaft c: [FookinLads, Level 43]: (3)Kirito: mach ausxy
+[2021-04-20 10:54:50]: (1)Kirito [{TQuila}, Level 15]: (3)KiRiTo: MaCh aUsXy
+[2021-04-20 10:54:50]: Kirito [{TQuila}, Level 41]: (3)KiRiTo: MaCh aUsXy
+[2021-04-20 10:54:50]: (2)Kirito [{TQuila}, Level 27]: (3)KiRiTo: MaCh aUsXy
+[2021-04-20 10:54:50]: (3)Kirito [{TQuila}, Level 12]: (3)KiRiTo: MaCh aUsXy
+[2021-04-20 10:54:54]: ***  [, Level 0]: '(1)Souly' has left the game
+[2021-04-20 10:54:54]: (1)Kirito [{TQuila}, Level 15]: '(1)sOuLy' HaS LeFt tHe gAmE
+[2021-04-20 10:54:54]: (2)Kirito [{TQuila}, Level 27]: '(1)sOuLy' HaS LeFt tHe gAmE
+[2021-04-20 10:54:54]: (3)Kirito [{TQuila}, Level 12]: '(1)sOuLy' HaS LeFt tHe gAmE
+[2021-04-20 10:54:55]: Kirito [{TQuila}, Level 41]: '(1)sOuLy' HaS LeFt tHe gAmE
+[2021-04-20 10:54:57]: power [TrRShClNrRs, Level 0]: wait ghfdjxc
+[2021-04-20 10:54:57]: (1)Kirito [{TQuila}, Level 15]: wAiT GhFdJxC
+[2021-04-20 10:54:57]: (2)Kirito [{TQuila}, Level 27]: wAiT GhFdJxC
+[2021-04-20 10:54:58]: (3)Kirito [{TQuila}, Level 12]: wAiT GhFdJxC
+[2021-04-20 10:54:58]: Kirito [{TQuila}, Level 41]: wAiT GhFdJxC
+[2021-04-20 10:55:01]:   [, Level 0]: RM | Arin: ich ficke schwule elute
+[2021-04-20 10:55:01]: ***  [, Level 0]: '[D] SkyForge' entered and joined the game
+[2021-04-20 10:55:01]: (1)Kirito [{TQuila}, Level 15]: iCh fIcKe sChWuLe eLuTe
+[2021-04-20 10:55:01]: (3)Kirito [{TQuila}, Level 12]: iCh fIcKe sChWuLe eLuTe
+[2021-04-20 10:55:01]: Kirito [{TQuila}, Level 41]: iCh fIcKe sChWuLe eLuTe
+[2021-04-20 10:55:01]: (2)Kirito [{TQuila}, Level 27]: iCh fIcKe sChWuLe eLuTe
