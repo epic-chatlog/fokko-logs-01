@@ -10848,3 +10848,6 @@
 [2021-04-20 07:55:37]: ERROR [404, Level 76]: but now i go eat
 [2021-04-20 07:55:49]: BulgarianTee [Bulgaria, Level 0]: ERROR: rage afk
 [2021-04-20 07:55:49]: ***  [ýÿÿ, Level 0]: tayson is on a killing spree with 15 blocks
+[2021-04-20 07:55:50]: ***  [ýÿÿ, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-20 07:55:52]: ***  [ýÿÿ, Level 0]: tayson's killing spree was ended by Maykol4xd (15 blocks)
+[2021-04-20 07:55:59]: ReXi [, Level 17]: warte
