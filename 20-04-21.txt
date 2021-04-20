@@ -16438,3 +16438,17 @@
 [2021-04-20 10:47:33]: (1)Kirito [{TQuila}, Level 15]: cUnT: kP
 [2021-04-20 10:47:34]: (3)Kirito [{TQuila}, Level 12]: cUnT: kP
 [2021-04-20 10:47:34]: Kirito [{TQuila}, Level 41]: cUnT: kP
+[2021-04-20 10:47:43]: ***  [, Level 0]: TimePause is on a killing spree with 5 blocks
+[2021-04-20 10:47:44]: (1)Kirito [{TQuila}, Level 15]: tImEpAuSe iS On a kIlLiNg sPrEe wItH 5 BlOcKs
+[2021-04-20 10:47:44]: (2)Kirito [{TQuila}, Level 27]: tImEpAuSe iS On a kIlLiNg sPrEe wItH 5 BlOcKs
+[2021-04-20 10:47:44]: Kirito [{TQuila}, Level 41]: tImEpAuSe iS On a kIlLiNg sPrEe wItH 5 BlOcKs
+[2021-04-20 10:47:44]: (3)Kirito [{TQuila}, Level 12]: tImEpAuSe iS On a kIlLiNg sPrEe wItH 5 BlOcKs
+[2021-04-20 10:47:45]: ***  [, Level 0]: 'TimePause's nub' entered and joined the game
+[2021-04-20 10:47:53]:   [, Level 0]: tayson: noob
+[2021-04-20 10:47:53]: ***  [, Level 0]: 'RM | Arin' entered and joined the game
+[2021-04-20 10:47:53]: (1)Kirito [{TQuila}, Level 15]: nOoB
+[2021-04-20 10:47:53]: (2)Kirito [{TQuila}, Level 27]: nOoB
+[2021-04-20 10:47:53]: Kirito [{TQuila}, Level 41]: nOoB
+[2021-04-20 10:47:53]: (3)Kirito [{TQuila}, Level 12]: nOoB
+[2021-04-20 10:47:55]:   [, Level 0]: tayson: noob
+[2021-04-20 10:47:55]: ***  [, Level 0]: '(1)Souly' entered and joined the game
