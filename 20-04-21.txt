@@ -7689,3 +7689,6 @@
 [2021-04-20 05:20:35]:   [, Level 0]: TL|ŦƹƦ$ŦǾN: wtf are those lags
 [2021-04-20 05:20:38]: RM | Arin [Retard MNKY, Level 41]: bruder mein Wlan macht Flick flack
 [2021-04-20 05:20:40]: Hazel [, Level 0]: bist stuck
+[2021-04-20 05:20:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-20 05:20:53]:   [, Level 0]: Random Guy: f
+[2021-04-20 05:20:56]: ***  [, Level 0]: '(1)vollesprit' has left the game (Too weak connection (not acked for 60 seconds))
