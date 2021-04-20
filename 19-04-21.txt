@@ -20280,3 +20280,6 @@
 [2021-04-19 18:18:36]: Kirito [{TQuila}, Level 41]: 9/8
 [2021-04-19 18:19:04]: Kirito [{TQuila}, Level 41]: 9/9
 [2021-04-19 18:19:06]: Black [, Level 26]: 9-9
+[2021-04-19 18:19:14]: Kirito [{TQuila}, Level 41]: oof
+[2021-04-19 18:19:17]: Black [, Level 26]: gg
+[2021-04-19 18:19:21]: Kirito [{TQuila}, Level 41]: why gg?
