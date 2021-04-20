@@ -9759,3 +9759,6 @@
 [2021-04-20 07:05:39]:   [, Level 0]: weqe: [D] JustRace: my brother
 [2021-04-20 07:05:40]: Â°YoshiÂ° [, Level 30]: JustRace: pls i just race
 [2021-04-20 07:05:41]: JustRace's cat [, Level 11]: oky :(
+[2021-04-20 07:05:48]:   [, Level 0]: weqe: JustRace: my only brother
+[2021-04-20 07:05:50]: ***  [þÿÿ, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-20 07:05:54]: ***  [þÿÿ, Level 0]: Cup is on a killing spree with 5 blocks
