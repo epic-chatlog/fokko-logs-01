@@ -316,3 +316,14 @@
 [2021-04-20 00:13:40]: (1)cat [, Level 0]: Noxl: no such command drop
 [2021-04-20 00:13:40]: [D] Nightmare [, Level 20]: Meetiteusz: baank
 [2021-04-20 00:13:41]: ***  [, Level 0]: 'Kezo' entered and joined the game
+[2021-04-20 00:13:44]: Noxl [.bad, Level 48]: Meetiteusz:
+[2021-04-20 00:13:45]: Meetiteusz [TrRShClNrRs, Level 29]: Nightmare: wait
+[2021-04-20 00:13:45]: Raidon's Pet [, Level 20]: şaka
+[2021-04-20 00:13:47]: Noxl [.bad, Level 48]: <<
+[2021-04-20 00:13:48]: Noxl [.bad, Level 48]: Meetiteusz:
+[2021-04-20 00:13:49]: ***  [, Level 0]: 'BitchCoin' entered and joined the game
+[2021-04-20 00:13:49]: SanoreX.* [Chilli.*, Level 23]: Raidon: canlı dersteyim afk
+[2021-04-20 00:13:49]: Raidon [, Level 24]: gel safe afk yapak
+[2021-04-20 00:13:51]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:13:53]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:13:55]: Noxl [.bad, Level 48]: Meetiteusz: fast
