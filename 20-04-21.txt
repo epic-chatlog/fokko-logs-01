@@ -8512,3 +8512,4 @@
 [2021-04-20 06:13:13]: ***  [���, Level 0]: 'Falco641' has left the game (Timeout)
 [2021-04-20 06:13:28]: *ExTr1Me* [DDMI, Level 0]: благо я в блок играл дохуя
 [2021-04-20 06:13:30]: ***  [���, Level 0]: 'Falco641' entered and joined the game
+[2021-04-20 06:13:49]: Coca [Drunks, Level 25]: упс
