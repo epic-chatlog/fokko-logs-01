@@ -8549,3 +8549,8 @@
 [2021-04-20 06:16:04]: Coca [Drunks, Level 25]: Æ¬evan:
 [2021-04-20 06:16:04]:   [, Level 0]: the last kozol: Ğ´Ñ
 [2021-04-20 06:16:05]:   [, Level 0]: the last kozol: Ğ³Ğ¾
+[2021-04-20 06:16:07]:   [, Level 0]: the last kozol: Ğ·Ğ°Ğ¹Ğ´Ğ¸
+[2021-04-20 06:16:08]:   [, Level 0]: the last kozol: Ğ¿Ğ¾Ñ‡ĞµĞ¼Ñƒ
+[2021-04-20 06:16:10]: ***  [şÿÿ, Level 0]: 'flexdodo' has left the game
+[2021-04-20 06:16:18]: ***  [şÿÿ, Level 0]: 'Yoshi' entered and joined the game
+[2021-04-20 06:16:19]: ***  [şÿÿ, Level 0]: 'Lakatos Mario' has left the game
