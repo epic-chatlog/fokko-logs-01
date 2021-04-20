@@ -20977,3 +20977,5 @@
 [2021-04-19 20:15:45]: ***  [, Level 0]: '(1)DiscordBridge' entered and joined the game
 [2021-04-19 20:15:45]: ***  [, Level 0]: Successfully logged in
 [2021-04-19 20:15:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 20:16:52]: Killua [FookinLads, Level 37]: stopawpwap
+[2021-04-19 20:16:53]: Killua [FookinLads, Level 37]: :c
