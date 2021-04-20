@@ -21151,3 +21151,7 @@
 [2021-04-19 22:38:19]: [D] #5 blocker [Chilli.*, Level 0]: chiller xd
 [2021-04-19 22:38:27]: SanoreX [Chilli.*, Level 27]: xd
 [2021-04-19 22:38:38]: SanoreX [Chilli.*, Level 27]: wait
+[2021-04-19 22:38:49]: [D] #5 blocker [Chilli.*, Level 0]: im listening music
+[2021-04-19 22:38:52]: [D] #5 blocker [Chilli.*, Level 0]: Meggyfa
+[2021-04-19 22:38:54]: ***  [, Level 0]: '(1)SanoreX' entered and joined the game
+[2021-04-19 22:38:56]: [D] #5 blocker [Chilli.*, Level 0]: hungarian music
