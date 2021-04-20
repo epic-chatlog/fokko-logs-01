@@ -17691,3 +17691,11 @@
 [2021-04-20 11:27:58]: ***  [, Level 0]: 'Nibba' has left the game
 [2021-04-20 11:27:58]: Green.exe [, Level 0]: f7ck
 [2021-04-20 11:27:59]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-20 11:27:59]: JustRace [404, Level 36]: Sayme:  I didn't forgot to block you
+[2021-04-20 11:28:01]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-20 11:28:02]: ***  [, Level 0]: 'gamerzerof' joined the game
+[2021-04-20 11:28:03]:   [, Level 0]: dont kill me: Kirito:  why
+[2021-04-20 11:28:04]: Lucas [THECEPS, Level 35]: Green.exe: i know that
+[2021-04-20 11:28:06]: Kirito [{TQuila}, Level 41]: dont kill me: just wait
+[2021-04-20 11:28:09]: Green.exe [, Level 0]: Lucas: come
+[2021-04-20 11:28:10]:   [, Level 0]: dont kill me: Kirito:  kk
