@@ -81,3 +81,7 @@
 [2021-04-20 00:03:28]: Noxl [.bad, Level 48]: 8le mn zmasn
 [2021-04-20 00:03:29]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:03:32]: Intensiv_ [DogParty, Level 11]: Noxl:  türkmüsün
+[2021-04-20 00:03:36]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:03:38]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:03:43]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:03:45]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
