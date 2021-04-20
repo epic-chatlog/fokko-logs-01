@@ -19781,3 +19781,8 @@
 [2021-04-20 12:41:01]: ***  [, Level 0]: SkyForge's killing spree was ended by (1)Kirito (5 blocks)
 [2021-04-20 12:41:02]: Axel ² [TrRShClNrRs, Level 21]: (1)|HolyHo|°: thanks
 [2021-04-20 12:41:06]: weqe [669, Level 0]: [D] mamikral011: WHAT THE FUCK
+[2021-04-20 12:41:10]: (1)|HolyHo|° [FookinLads, Level 11]: Axel ²: u ever had portal b4?
+[2021-04-20 12:41:11]: f"{self.name}" [, Level 18]: money
+[2021-04-20 12:41:14]: ***  [, Level 0]: '~DemoizL~' finished the special race!
+[2021-04-20 12:41:16]: Axel ² [TrRShClNrRs, Level 21]: (1)|HolyHo|°: no
+[2021-04-20 12:41:16]: pollice helper [, Level 0]: how
