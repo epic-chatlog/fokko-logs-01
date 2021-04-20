@@ -18701,3 +18701,9 @@
 [2021-04-20 12:02:53]: nameless [, Level 0]: sec
 [2021-04-20 12:02:54]: ***  [, Level 0]: 'Darking' has left the game
 [2021-04-20 12:02:57]: bob [, Level 36]: brother this doesnt exist :(
+[2021-04-20 12:02:57]: ***  [, Level 0]: 'BULLETBOT' has left the game
+[2021-04-20 12:02:58]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 12:03:00]: ***  [, Level 0]: 'bubblechicken50' has left the game
+[2021-04-20 12:03:04]: weqe [669, Level 13]: it does brother bob but u have to trust the process
+[2021-04-20 12:03:06]: ***  [, Level 0]: 'f"{self.name}"' finished the special race!
+[2021-04-20 12:03:07]: weqe [669, Level 13]: love beats everything bob!
