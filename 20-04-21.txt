@@ -355,3 +355,7 @@
 [2021-04-20 00:15:22]: JustRace [404, Level 36]: Kezo:  yo
 [2021-04-20 00:15:26]: JustRace [404, Level 36]: Kezo:  w
 [2021-04-20 00:15:29]: Noxl [.bad, Level 48]: Kezo: yooooo
+[2021-04-20 00:15:38]: ***  [, Level 0]: [D] BitchCoin is on a killing spree with 5 blocks
+[2021-04-20 00:15:45]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:15:47]: ***  [, Level 0]: '[RUS]' entered and joined the game
+[2021-04-20 00:15:47]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
