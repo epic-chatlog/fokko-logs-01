@@ -21418,3 +21418,5 @@
 [2021-04-19 23:15:02]: ***  [, Level 0]: 'Raidon' entered and joined the game
 [2021-04-19 23:15:02]: ~Never~ [Chilli.*, Level 7]: ?
 [2021-04-19 23:15:09]: Raidon [, Level 24]: SanoreX: knk
+[2021-04-19 23:15:15]: SanoreX [Chilli.*, Level 27]: he,
+[2021-04-19 23:15:21]: Raidon [, Level 24]: SanoreX: şu ddracede build ettim releaseyide
