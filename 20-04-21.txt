@@ -1821,3 +1821,6 @@
 [2021-04-20 01:10:34]: kais [, Level 66]: Axandos: bruh, nobo's way
 [2021-04-20 01:10:35]: SanoreX [Chilli.*, Level 27]: <3
 [2021-04-20 01:10:41]: Taip [VergleriSay, Level 19]: yeter olm
+[2021-04-20 01:10:42]: Taip [VergleriSay, Level 19]: dalma
+[2021-04-20 01:10:42]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-20 01:10:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
