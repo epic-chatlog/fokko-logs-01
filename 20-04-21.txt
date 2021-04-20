@@ -12100,3 +12100,10 @@
 [2021-04-20 08:41:28]: ***  [ýÿÿ, Level 0]: 'Niemand' entered and joined the game
 [2021-04-20 08:41:32]: ERROR. [404, Level 47]: u got war
 [2021-04-20 08:41:34]: brainless tee [, Level 24]: POV: your ping is 600
+[2021-04-20 08:41:38]: ***  [ýÿÿ, Level 0]: 'elpapuds' entered and joined the game
+[2021-04-20 08:41:40]: ***  [ýÿÿ, Level 0]: 'DarkKris Ð¸Ð· ï¿½' entered and joined the game
+[2021-04-20 08:41:41]:   [, Level 0]: ChillerDragon: war ERROR
+[2021-04-20 08:41:42]:   [, Level 0]: BulgarianTee: (1)ERROR.: u too boomer to take jokes?
+[2021-04-20 08:41:47]: ***  [ýÿÿ, Level 0]: 'tee' has left the game
+[2021-04-20 08:41:48]: ***  [ýÿÿ, Level 0]: 'tee' entered and joined the game
+[2021-04-20 08:41:48]: weqe [669, Level 13]: Zephir ãƒ„: help brother <<'
