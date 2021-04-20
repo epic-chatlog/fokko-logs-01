@@ -8100,3 +8100,7 @@
 [2021-04-20 05:55:17]: ***  [���, Level 0]: 'f"{self.name}"' has left the game (Timeout Protection over)
 [2021-04-20 05:55:18]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 57]: BulgarianTee: dont u dare fag
 [2021-04-20 05:55:21]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 57]: omg BulgarianTee
+[2021-04-20 05:55:23]: BulgarianTee [Bulgaria, Level 0]: TL|ŦƹƦ$ŦǾN: wut?
+[2021-04-20 05:55:27]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 57]: BulgarianTee: i accidently killed
+[2021-04-20 05:55:30]: BulgarianTee [Bulgaria, Level 0]: TL|ŦƹƦ$ŦǾN: bruh
+[2021-04-20 05:55:32]: ***  [���, Level 0]: 'PoliceTee' entered and joined the game
