@@ -6394,3 +6394,7 @@
 [2021-04-20 04:28:48]: ***  [’ÿÿÿ, Level 0]: 'El patron' entered and joined the game
 [2021-04-20 04:28:57]: ***  [’ÿÿÿ, Level 0]: 'Coca' has left the game
 [2021-04-20 04:29:08]: ***  [’ÿÿÿ, Level 0]: '[D] El patron' entered and joined the game
+[2021-04-20 04:29:23]: GODLIKe. [, Level 39]: [D] â™¥TAKOâ™¥:
+[2021-04-20 04:29:25]: Intensiv_ [DogParty, Level 11]: sal
+[2021-04-20 04:29:26]: Intensiv_ [DogParty, Level 11]: kurtaram
+[2021-04-20 04:29:29]: Minato / FR [Limoncello, Level 15]: gg
