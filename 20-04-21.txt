@@ -359,3 +359,9 @@
 [2021-04-20 00:15:45]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:15:47]: ***  [, Level 0]: '[RUS]' entered and joined the game
 [2021-04-20 00:15:47]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:15:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-20 00:15:52]: (1)cat [, Level 0]: Noxl: no such command DROP
+[2021-04-20 00:15:53]: Nightmare [, Level 27]: Kezo: I AM ALLY FUCKING IDIOT
+[2021-04-20 00:15:53]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:15:55]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:15:55]: ***  [, Level 0]: '[RUS]' has left the game
