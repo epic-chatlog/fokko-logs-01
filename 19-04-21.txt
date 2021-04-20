@@ -22120,3 +22120,6 @@
 [2021-04-19 23:58:03]: Raidon [, Level 24]: gel riske atma
 [2021-04-19 23:58:04]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-19 23:58:06]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:58:10]: SanoreX [Chilli.*, Level 27]: brainless tee: amcık dursana
+[2021-04-19 23:58:16]: SanoreX [Chilli.*, Level 27]: brainless tee: sen başlattın pi
+[2021-04-19 23:58:18]: SanoreX [Chilli.*, Level 27]: brainless tee: sen başlattın piç
