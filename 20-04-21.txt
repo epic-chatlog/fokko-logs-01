@@ -22299,3 +22299,6 @@
 [2021-04-20 14:49:48]: power [TrRShClNrRs, Level 0]: what is it and why do u do it= Kirito
 [2021-04-20 14:49:49]: ***  [, Level 0]: 'adamabel' joined the game
 [2021-04-20 14:49:56]: ***  [, Level 0]: 'adamabel' joined the spectators
+[2021-04-20 14:49:57]: Kirito [{TQuila}, Level 27]: power: automatic message
+[2021-04-20 14:50:04]: Intensiv [DogParty, Level 19]: git
+[2021-04-20 14:50:05]: Intensiv [DogParty, Level 19]: lan
