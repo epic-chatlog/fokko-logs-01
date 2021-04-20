@@ -7934,3 +7934,8 @@
 [2021-04-20 05:39:52]: ReXi [, Level 0]: ich geh gores
 [2021-04-20 05:40:02]: GReeeN [, Level 41]: gut
 [2021-04-20 05:40:21]: ***  [þÿÿ, Level 0]: 'Taip' entered and joined the game
+[2021-04-20 05:40:33]: ***  [þÿÿ, Level 0]: 'Ravinan' has left the game (Timeout Protection over)
+[2021-04-20 05:40:34]: ***  [þÿÿ, Level 0]: 'SanoreX' has left the game (Timeout Protection over)
+[2021-04-20 05:40:34]: ***  [þÿÿ, Level 0]: 'SanoreX.*' has left the game (Timeout Protection over)
+[2021-04-20 05:40:34]: ***  [þÿÿ, Level 0]: 'AllTheIDDrace' has left the game (Timeout Protection over)
+[2021-04-20 05:40:37]: ***  [þÿÿ, Level 0]: 'insta-GH___PRQ' entered and joined the game
