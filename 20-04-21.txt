@@ -21963,3 +21963,5 @@
 [2021-04-20 14:31:54]: ***  [, Level 0]: 'yuumika' has left the game
 [2021-04-20 14:31:56]: bob [, Level 36]: i keep hooking until i got 2nd hammer on u
 [2021-04-20 14:31:58]: ***  [, Level 0]: '(1)8hwa' entered and joined the game
+[2021-04-20 14:32:11]: [D] Cylox [{TQuila}, Level 0]: ME
+[2021-04-20 14:32:12]: bob [, Level 36]: yes
