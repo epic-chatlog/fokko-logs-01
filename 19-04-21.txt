@@ -21945,3 +21945,4 @@
 [2021-04-19 23:48:13]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-19 23:48:14]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-19 23:48:17]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:48:33]: SanoreX [Chilli.*, Level 27]: sgotgun
