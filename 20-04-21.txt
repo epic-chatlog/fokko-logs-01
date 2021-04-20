@@ -22946,3 +22946,7 @@
 [2021-04-20 15:40:47]: bob [, Level 36]: TeigHuhn: rechts xd komm
 [2021-04-20 15:40:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-20 15:40:53]: [D] ERROR [404, Level 57]: get me onfarm
+[2021-04-20 15:40:56]: bob [, Level 36]: TeigHuhn: wie alt bist du
+[2021-04-20 15:40:57]: TeigHuhn [, Level 0]: <3
+[2021-04-20 15:40:58]: [D] ERROR [404, Level 57]: get me onfarm
+[2021-04-20 15:40:59]: TeigHuhn [, Level 0]: 16
