@@ -22544,3 +22544,4 @@
 [2021-04-20 15:05:22]: ***  [, Level 0]: '[D] lomy' has left the game
 [2021-04-20 15:05:23]: ***  [, Level 0]: 'natu' entered and joined the game
 [2021-04-20 15:05:25]: SoulyD [, Level 47]: ?
+[2021-04-20 15:05:34]: SoulyD [, Level 47]: bob: why
