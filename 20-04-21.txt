@@ -10816,3 +10816,5 @@
 [2021-04-20 07:54:23]: ***  [ýÿÿ, Level 0]: 'noob help' entered and joined the game
 [2021-04-20 07:54:28]: ***  [ýÿÿ, Level 0]: 'Good man' finished the special race!
 [2021-04-20 07:54:28]: ***  [ýÿÿ, Level 0]: 'Coca' finished the special race!
+[2021-04-20 07:54:41]: . [TrRShClNrRs, Level 11]: ERROR: da fuk
+[2021-04-20 07:54:46]: BulgarianTee [Bulgaria, Level 0]: ERROR: wut u still have war with him?
