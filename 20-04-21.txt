@@ -3566,3 +3566,7 @@
 [2021-04-20 02:20:40]: Taip [VergleriSay, Level 19]: yas 5
 [2021-04-20 02:20:42]: Taip [VergleriSay, Level 19]: max
 [2021-04-20 02:20:43]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-20 02:20:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-20 02:20:50]:   [, Level 0]: experto patrono: Cylox: Virus did
+[2021-04-20 02:20:50]: cry Raryx [, Level 58]: hatHCHecks: я пошёл в эндлесс
+[2021-04-20 02:20:59]:   [, Level 0]: Virus: [D] Cylox: nio
