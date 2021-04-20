@@ -21918,3 +21918,7 @@
 [2021-04-19 23:45:51]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-19 23:45:53]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-19 23:45:54]: SanoreX.* [Chilli.*, Level 23]: bari elleme
+[2021-04-19 23:45:56]: SanoreX.* [Chilli.*, Level 23]: dur
+[2021-04-19 23:46:06]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:46:07]: SanoreX.* [Chilli.*, Level 23]: ya
+[2021-04-19 23:46:09]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
