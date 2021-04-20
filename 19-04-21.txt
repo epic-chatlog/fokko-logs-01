@@ -20059,3 +20059,5 @@
 [2021-04-19 17:42:27]: ***  [, Level 0]: 'Zephir ツ' has left the game
 [2021-04-19 17:43:56]: ***  [, Level 0]: 'nar' has left the game
 [2021-04-19 17:43:59]: ***  [, Level 0]: 'ezy' has left the game
+[2021-04-19 17:44:02]: ***  [, Level 0]: 'ezy' entered and joined the game
+[2021-04-19 17:44:05]: ***  [, Level 0]: 'nar' entered and joined the game
