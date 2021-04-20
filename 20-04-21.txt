@@ -17813,3 +17813,5 @@
 [2021-04-20 11:31:55]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 11:31:56]: Lucas [THECEPS, Level 35]: Kirito: for?
 [2021-04-20 11:31:56]: Kirito [{TQuila}, Level 41]: Lucas: i give back
+[2021-04-20 11:32:07]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 11:32:07]: [D] JustRace [404, Level 0]: GReeeN:  hmm
