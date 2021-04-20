@@ -16302,3 +16302,19 @@
 [2021-04-20 10:45:50]: Kirito [{TQuila}, Level 41]: [InFo] YoU CaN DrOp fLaGs wItH 'f3' (Or tHe kEy fOr vOtE YeS)
 [2021-04-20 10:45:50]: (2)Kirito [{TQuila}, Level 27]: [InFo] YoU CaN DrOp fLaGs wItH 'f3' (Or tHe kEy fOr vOtE YeS)
 [2021-04-20 10:45:50]: (3)Kirito [{TQuila}, Level 12]: [InFo] YoU CaN DrOp fLaGs wItH 'f3' (Or tHe kEy fOr vOtE YeS)
+[2021-04-20 10:45:51]: ***  [, Level 0]: ### '[D] Nudelsaft c' a
+[2021-04-20 10:45:51]: ***  [, Level 0]: 'Tato15' joined the game
+[2021-04-20 10:45:53]:   [, Level 0]: yair: yair: better than me
+[2021-04-20 10:45:53]: ***  [, Level 0]: ### '[D] Nudelsaft c' b
+[2021-04-20 10:45:55]:   [, Level 0]: yair: yair: better than me
+[2021-04-20 10:45:55]: Kirito [{TQuila}, Level 41]: yAiR: bEtTeR ThAn mE
+[2021-04-20 10:45:55]:   [, Level 0]: (1)Kirito: yAiR: bEtTeR ThAn mE
+[2021-04-20 10:45:55]: (2)Kirito [{TQuila}, Level 27]: yAiR: bEtTeR ThAn mE
+[2021-04-20 10:45:55]: (3)Kirito [{TQuila}, Level 12]: yAiR: bEtTeR ThAn mE
+[2021-04-20 10:45:56]: ***  [, Level 0]: ### '[D] Nudelsaft c' c
+[2021-04-20 10:45:56]: power2 [TrRShClNrRs, Level 0]: go, just walk right ghfdjxc
+[2021-04-20 10:46:01]:   [, Level 0]: tayson: run XDDD
+[2021-04-20 10:46:01]:   [, Level 0]: (1)Kirito: rUn xDdD
+[2021-04-20 10:46:01]: Kirito [{TQuila}, Level 41]: rUn xDdD
+[2021-04-20 10:46:01]: (2)Kirito [{TQuila}, Level 27]: rUn xDdD
+[2021-04-20 10:46:01]: (3)Kirito [{TQuila}, Level 12]: rUn xDdD
