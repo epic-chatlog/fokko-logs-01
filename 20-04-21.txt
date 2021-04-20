@@ -18985,3 +18985,14 @@
 [2021-04-20 12:12:36]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 12:12:37]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 12:12:40]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 12:12:46]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 12:12:46]:   [, Level 0]: Papaya: wow
+[2021-04-20 12:12:46]: Taip [VergleriSay, Level 20]: ok
+[2021-04-20 12:12:48]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 12:12:48]: Taip [VergleriSay, Level 20]: i dont move
+[2021-04-20 12:12:48]:   [, Level 0]: Papaya: what a skill
+[2021-04-20 12:12:48]: RM | Arin [Retard MNKY, Level 0]: |HolyHo|:  i did nothing
+[2021-04-20 12:12:50]:   [, Level 0]: Papaya: wooow
+[2021-04-20 12:12:53]: soleri1 [, Level 0]: __init__(self):: plss help
+[2021-04-20 12:12:53]:   [, Level 0]: Papaya: cat: helo
+[2021-04-20 12:12:54]: RM | Arin [Retard MNKY, Level 0]: you are riskin alot
