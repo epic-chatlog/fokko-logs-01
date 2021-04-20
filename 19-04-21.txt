@@ -19940,3 +19940,4 @@
 [2021-04-19 17:28:05]: ***  [, Level 0]: 'nar' entered and joined the game
 [2021-04-19 17:28:06]: ***  [, Level 0]: 'nar' has left the game
 [2021-04-19 17:28:12]: ***  [, Level 0]: 'nar' entered and joined the game
+[2021-04-19 17:28:25]: ***  [, Level 0]: ### '[D] ♥TAKO♥' PORTAAAAAAAAAAAAL
