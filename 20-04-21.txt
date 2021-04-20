@@ -22106,3 +22106,6 @@
 [2021-04-20 14:40:17]: Isegrin [, Level 55]: power: SHOW DIK
 [2021-04-20 14:40:26]: bob [, Level 36]: what else
 [2021-04-20 14:40:31]: Kłosu [, Level 0]: how to drop weapon
+[2021-04-20 14:40:39]: Isegrin [, Level 55]: Kłosu: f1 kill enter
+[2021-04-20 14:40:39]: bob [, Level 36]: do this  + jump after 1st hammer
+[2021-04-20 14:40:45]: bob [, Level 36]: again
