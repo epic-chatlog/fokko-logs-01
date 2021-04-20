@@ -6306,3 +6306,6 @@
 [2021-04-20 04:24:28]: CKA3A4NIK[NR] [Night Raid, Level 35]: SanoreX:  And?
 [2021-04-20 04:24:30]: SanoreX [Chilli.*, Level 27]: wait
 [2021-04-20 04:24:35]: (1)vollesprit [, Level 0]: KebabOzor me dit pas que t's vu le ytp ?
+[2021-04-20 04:24:43]: [D] ♥TAKO♥ [DogParty, Level 0]: İchMichel:  mantıklı o yüzden yapmicam :D
+[2021-04-20 04:24:47]: SanoreX [Chilli.*, Level 27]: CKA3A4NIK: bind b "say /money drop 1; +fire"
+[2021-04-20 04:24:54]: Intensiv_ [DogParty, Level 11]: sanorex oldugunu nerden bilmicem
