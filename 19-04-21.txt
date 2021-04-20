@@ -20052,3 +20052,6 @@
 [2021-04-19 17:40:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-19 17:41:54]: ***  [, Level 0]: 462. ezy Time: 01:16.94, requested by ezy
 [2021-04-19 17:42:01]: Zephir ツ [404, Level 40]: bref
+[2021-04-19 17:42:10]: (1)☺ [, Level 26]: bref quoi
+[2021-04-19 17:42:13]: Zephir ツ [404, Level 40]: bonne nuit / good night
+[2021-04-19 17:42:18]: (1)☺ [, Level 26]: bye
