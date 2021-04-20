@@ -21439,3 +21439,7 @@
 [2021-04-20 14:00:02]: tloRIAN [so woo, Level 0]: wt
 [2021-04-20 14:00:03]: tloRIAN [so woo, Level 0]: f
 [2021-04-20 14:00:06]: mamikral011 [DogParty, Level 22]: Axel ²:
+[2021-04-20 14:00:10]: mamikral011 [DogParty, Level 22]: Axel ²: fuck
+[2021-04-20 14:00:10]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 14:00:12]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 14:00:16]: [D] mamikral011 [DogParty, Level 27]: █  Zeus  █: yardım
