@@ -23041,3 +23041,4 @@
 [2021-04-20 15:51:31]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-20 15:51:45]: TeigHuhn [, Level 0]: sry
 [2021-04-20 15:51:57]: ***  [, Level 0]: 'mamily' entered and joined the game
+[2021-04-20 15:52:24]: ***  [, Level 0]: '우주허머' entered and joined the game
