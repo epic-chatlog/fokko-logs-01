@@ -114,3 +114,6 @@
 [2021-04-20 00:05:03]: ***  [, Level 0]: 'Nightmare' entered and joined the game
 [2021-04-20 00:05:10]: Nightmare [, Level 0]: JustRace: hacher
 [2021-04-20 00:05:15]: Noxl [.bad, Level 48]: cat: give me my moni
+[2021-04-20 00:05:20]: Raidon [, Level 24]: Jeloudagh: bro press k
+[2021-04-20 00:05:21]: (1)cat [, Level 0]: how
+[2021-04-20 00:05:28]: Raidon [, Level 24]: Jeloudagh: bro press k
