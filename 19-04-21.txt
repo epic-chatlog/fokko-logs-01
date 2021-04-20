@@ -19941,3 +19941,6 @@
 [2021-04-19 17:28:06]: ***  [, Level 0]: 'nar' has left the game
 [2021-04-19 17:28:12]: ***  [, Level 0]: 'nar' entered and joined the game
 [2021-04-19 17:28:25]: ***  [, Level 0]: ### '[D] ♥TAKO♥' PORTAAAAAAAAAAAAL
+[2021-04-19 17:28:34]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-19 17:28:35]: [D] ♥TAKO♥ [DogParty, Level 0]: PORTAAAAAAAAAAAAL
+[2021-04-19 17:28:37]: ***  [, Level 0]: ### '[D] ♥TAKO♥' PORTAAAAAAAAAAAAL
