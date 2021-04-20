@@ -23578,3 +23578,7 @@
 [2021-04-20 16:45:25]: ***  [, Level 0]: '¡ RodCYREX 神' would have timed out, but can use timeout protection now
 [2021-04-20 16:45:27]: Zephir ツ [404, Level 40]: GODLIKe: that my friend and i don't know u
 [2021-04-20 16:45:45]: GODLIKe [, Level 44]: Zephir ツ: u didnt say me xd
+[2021-04-20 16:45:49]: bob [, Level 36]: hrhrh
+[2021-04-20 16:45:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-20 16:45:53]: Cup [, Level 0]: yes
+[2021-04-20 16:45:56]: Zephir ツ [404, Level 40]: GODLIKe: no need to be friendly
