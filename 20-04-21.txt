@@ -22990,3 +22990,9 @@
 [2021-04-20 15:45:41]: ***  [, Level 0]: '(1)Souly' has left the game
 [2021-04-20 15:45:41]: ***  [, Level 0]: '(1)SoulyD' has left the game
 [2021-04-20 15:45:42]: bob [, Level 36]: bb xd
+[2021-04-20 15:45:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-20 15:45:51]: ***  [, Level 0]: GODLIKe. finished in: 6 minute(s) 50.82 second(s)
+[2021-04-20 15:45:51]: ☺ [, Level 28]: Zephir ツ:
+[2021-04-20 15:45:53]: bob [, Level 36]: Kenshi ツ: what u see?
+[2021-04-20 15:45:55]: ***  [, Level 0]: BangTheWinner finished in: 6 minute(s) 54.56 second(s)
+[2021-04-20 15:45:58]: ☺ [, Level 28]: Zephir ツ:
