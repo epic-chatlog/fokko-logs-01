@@ -2057,3 +2057,9 @@
 [2021-04-20 01:19:26]: ***  [, Level 0]: '(1)MOM' entered and joined the game
 [2021-04-20 01:19:27]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 01:19:33]: Aka'DysoneK [, Level 0]: not udelsaft c:: so why i`ve been arrested ?
+[2021-04-20 01:19:34]: Arktict [, Level 31]: say it
+[2021-04-20 01:19:34]: ***  [, Level 0]: 'Teet' has left the game
+[2021-04-20 01:19:35]: ***  [, Level 0]: 'CHIRICHIRIS' has left the game
+[2021-04-20 01:19:36]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 01:19:38]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 01:19:44]: ***  [, Level 0]: 'Raidon' entered and joined the game
