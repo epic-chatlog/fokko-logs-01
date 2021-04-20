@@ -17621,3 +17621,9 @@
 [2021-04-20 11:24:47]: ***  [, Level 0]: 'gamerzerof' joined the spectators
 [2021-04-20 11:24:50]: ***  [, Level 0]: 'gamerzerof' joined the game
 [2021-04-20 11:25:04]: Lucas [THECEPS, Level 35]: I like turtles.
+[2021-04-20 11:25:20]: Kirito [{TQuila}, Level 41]: Kaptar: war4life
+[2021-04-20 11:25:21]: ***  [, Level 0]: 'gamerzerof' joined the spectators
+[2021-04-20 11:25:24]: ***  [, Level 0]: 'Kiko' has left the game
+[2021-04-20 11:25:25]: ***  [, Level 0]: 'gamerzerof' joined the game
+[2021-04-20 11:25:26]: Kaptar [, Level 24]: Kirito: sure
+[2021-04-20 11:25:29]: ***  [, Level 0]: 'BULLETBOT' entered and joined the game
