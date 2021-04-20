@@ -21130,3 +21130,6 @@
 [2021-04-19 22:33:54]: SanoreX [Chilli.*, Level 27]: promise
 [2021-04-19 22:34:05]: ***  [, Level 0]: 'Renko' has left the game
 [2021-04-19 22:34:13]: SanoreX [Chilli.*, Level 27]: omg
+[2021-04-19 22:34:18]: SanoreX [Chilli.*, Level 27]: #5 blocker: go block DiscordBridge
+[2021-04-19 22:34:21]: SanoreX [Chilli.*, Level 27]: spec him
+[2021-04-19 22:34:26]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
