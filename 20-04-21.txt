@@ -419,3 +419,5 @@
 [2021-04-20 00:18:39]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:18:41]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:18:41]: bababuia [AUG CREW, Level 0]: help
+[2021-04-20 00:18:52]: ***  [, Level 0]: 'MysterX' has left the game
+[2021-04-20 00:18:53]: ***  [, Level 0]: 'LightNSoul' has left the game
