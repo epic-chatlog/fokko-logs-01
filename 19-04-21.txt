@@ -20634,3 +20634,4 @@
 [2021-04-19 19:03:54]: ***  [, Level 0]: '¡ RodCYREX 神' has left the game
 [2021-04-19 19:03:56]: bob [, Level 36]: u want me to come with taser
 [2021-04-19 19:04:02]: bob [, Level 36]: stop wb
+[2021-04-19 19:04:12]: bob [, Level 36]: taser taser taser
