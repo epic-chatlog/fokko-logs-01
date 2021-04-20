@@ -13341,3 +13341,7 @@
 [2021-04-20 09:17:04]: ***  [, Level 0]: (2)MOM's killing spree was ended by (1)Falco641 (5 blocks)
 [2021-04-20 09:17:05]: ***  [, Level 0]: 'tee' has left the game
 [2021-04-20 09:17:06]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-20 09:17:12]: ***  [, Level 0]: ### 'Souly' Get youself a brand new DDNet BOT now!!! https://louis.place/twbot.html
+[2021-04-20 09:17:13]: ERROR. [404, Level 47]: El patron:  nudelsaft
+[2021-04-20 09:17:13]: ***  [, Level 0]: ### 'Souly' Get youself a brand new DDNet BOT now!!!! https://louis.place/twbot.html
+[2021-04-20 09:17:16]: polish saft [FookinLads, Level 43]: [D] El patron: nudelsaft
