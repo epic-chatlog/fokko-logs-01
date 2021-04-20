@@ -21168,3 +21168,7 @@
 [2021-04-19 22:42:41]: SanoreX [Chilli.*, Level 27]: hi
 [2021-04-19 22:42:56]: ***  [, Level 0]: 'robin cz' entered and joined the game
 [2021-04-19 22:44:01]: (1)SanoreX [Chilli.*, Level 0]: lag
+[2021-04-19 22:44:06]: ***  [, Level 0]: 'robin cz' has left the game
+[2021-04-19 22:44:06]: ***  [, Level 0]: 'koko cz' has left the game
+[2021-04-19 22:44:10]: SanoreX [Chilli.*, Level 27]: hi
+[2021-04-19 22:44:12]: SanoreX [Chilli.*, Level 27]: lagg
