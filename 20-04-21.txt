@@ -1340,3 +1340,8 @@
 [2021-04-20 00:53:25]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:53:25]: RM | Arin [Retard MNKY, Level 41]: just remove
 [2021-04-20 00:53:30]: [D] Nightmare [, Level 0]: vollesprit: nah
+[2021-04-20 00:53:35]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:53:37]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:53:39]: SanoreX [Chilli.*, Level 27]: RM | Arin: I need this
+[2021-04-20 00:53:44]: RM | Arin [Retard MNKY, Level 41]: YESIK
+[2021-04-20 00:53:45]: ***  [, Level 0]: 'kais' entered and joined the game
