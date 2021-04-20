@@ -11124,3 +11124,7 @@
 [2021-04-20 08:09:43]: ***  [ıÿÿ, Level 0]: 'tee' has left the game
 [2021-04-20 08:09:45]:   [, Level 0]: S Y T H N: ERROR: ey mach es doch nicht kapput :C
 [2021-04-20 08:09:46]: ***  [ıÿÿ, Level 0]: 'tee' entered and joined the game
+[2021-04-20 08:09:48]: BulgarianTee [Bulgaria, Level 0]: ERROR: he kills my dadd
+[2021-04-20 08:09:51]: Ká´€ÊÏrÏƒ`âœ” [Falcon(XA), Level 0]: noob help:
+[2021-04-20 08:09:52]: ***  [ıÿÿ, Level 0]: 'tee' has left the game
+[2021-04-20 08:09:54]: ERROR [404, Level 76]: just a bit of fun
