@@ -20483,3 +20483,8 @@
 [2021-04-20 13:14:52]: ***  [, Level 0]: Kirito is on a killing spree with 5 blocks
 [2021-04-20 13:14:52]:   [, Level 0]: RM | Arin: f"{self.name}":  you are wbing ez clap
 [2021-04-20 13:14:55]: SkyForge [, Level 22]: noname:  your pretty good at sucking zephirs dick
+[2021-04-20 13:14:56]: El patron [FookinLads, Level 0]: yo
+[2021-04-20 13:15:00]: ***  [, Level 0]: El patron's killing spree was ended by Axandos² (8 blocks)
+[2021-04-20 13:15:01]: ***  [, Level 0]: ChillerDragon.* is on a killing spree with 5 blocks
+[2021-04-20 13:15:02]: noname [, Level 21]: SkyForge: ß
+[2021-04-20 13:15:06]: ***  [, Level 0]: Kirito's killing spree was ended by RM | Arin (5 blocks)
