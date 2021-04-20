@@ -8997,3 +8997,6 @@
 [2021-04-20 06:33:07]: Random Guy [, Level 0]: (1)ERROR: chess is more exciting
 [2021-04-20 06:33:10]: ***  [þÿÿ, Level 0]: '(1)cunt' entered and joined the game
 [2021-04-20 06:33:13]: Random Guy [, Level 0]: (1)ERROR: comon
+[2021-04-20 06:33:20]:   [, Level 0]: Black: hyper: dont help
+[2021-04-20 06:33:28]: Yoshi [, Level 30]: power: pls help
+[2021-04-20 06:33:30]:   [, Level 0]: hyper: XDD
