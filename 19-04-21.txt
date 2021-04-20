@@ -21458,3 +21458,7 @@
 [2021-04-19 23:17:35]: SanoreX [Chilli.*, Level 27]: cl_aimbot 0
 [2021-04-19 23:17:36]: ***  [, Level 0]: 'Magi:' has left the game
 [2021-04-19 23:17:41]: SanoreX [Chilli.*, Level 27]: ~Never~: block him
+[2021-04-19 23:17:45]: JustRace [404, Level 0]: ~Never~:  don't run away C:
+[2021-04-19 23:17:50]: SanoreX [Chilli.*, Level 27]: ez
+[2021-04-19 23:17:51]: JustRace [404, Level 0]: hah
+[2021-04-19 23:17:53]: ~Never~ [Chilli.*, Level 7]: ez
