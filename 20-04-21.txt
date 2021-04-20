@@ -21881,3 +21881,6 @@
 [2021-04-20 14:25:40]: ***  [, Level 0]: '[D] Cylox' entered and joined the game
 [2021-04-20 14:25:42]: bob [, Level 36]: nicee
 [2021-04-20 14:25:48]: ***  [, Level 0]: (2)Zʷʰʸˀ is on a killing spree with 5 blocks
+[2021-04-20 14:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-20 14:25:50]: bob [, Level 36]: power: could you do it before?
+[2021-04-20 14:25:57]: power [TrRShClNrRs, Level 0]: yes bob :D xD
