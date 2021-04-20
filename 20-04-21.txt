@@ -253,3 +253,8 @@
 [2021-04-20 00:09:56]: Raidon [, Level 24]: evet
 [2021-04-20 00:09:59]: Raidon [, Level 24]: kill çekti slk
 [2021-04-20 00:09:59]: SanoreX.* [Chilli.*, Level 23]: Raidon: evt
+[2021-04-20 00:10:02]: Noxl [.bad, Level 48]: ./drop money
+[2021-04-20 00:10:08]: ***  [, Level 0]: Meetiteusz finished in: 1 minute(s) 58.90 second(s)
+[2021-04-20 00:10:08]: ***  [, Level 0]: New record: 21.32 second(s) better.
+[2021-04-20 00:10:09]: Raidon [, Level 24]: SanoreX.*: bunlarlamı öldürcen beni
+[2021-04-20 00:10:10]: Raidon [, Level 24]: salak
