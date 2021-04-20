@@ -20544,3 +20544,6 @@
 [2021-04-20 13:17:30]:   [, Level 0]: RM | Arin: 4:1
 [2021-04-20 13:17:30]: mamikral011 [DogParty, Level 22]: Zephir ツ:
 [2021-04-20 13:17:35]:   [, Level 0]: RM | Arin: 5:1
+[2021-04-20 13:17:40]:   [, Level 0]: RM | Arin: 5:2
+[2021-04-20 13:17:46]: ***  [, Level 0]: 'warlucky' entered and joined the game
+[2021-04-20 13:17:49]: Zephir ツ [404, Level 40]: 15v1
