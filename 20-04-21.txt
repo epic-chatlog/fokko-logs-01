@@ -5359,3 +5359,5 @@
 [2021-04-20 03:38:35]:   [, Level 0]: ChillerDragon.*: ich bin detsch
 [2021-04-20 03:38:40]:   [, Level 0]: Intensiv_: rexi:  help
 [2021-04-20 03:38:46]: ***  [, Level 0]: '『Jester』' has left the game
+[2021-04-20 03:38:54]:   [, Level 0]: Intensiv_: Kenshi ツ:  help
+[2021-04-20 03:38:59]: Ðeathscyth [, Level 3]: Zephir ツ: help
