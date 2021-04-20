@@ -9749,3 +9749,7 @@
 [2021-04-20 07:05:10]: ***  [þÿÿ, Level 0]: 'ERROR's coala' changed name to 'JustRace's cat'
 [2021-04-20 07:05:17]: (1)ERROR [404, Level 25]: xD
 [2021-04-20 07:05:17]: ***  [þÿÿ, Level 0]: 'Taip' entered and joined the game
+[2021-04-20 07:05:25]: BulgarianTee [Bulgaria, Level 0]: Nudelsaft c:: papa, ERROR dont say me "hello" :(
+[2021-04-20 07:05:28]: JustRace's cat [, Level 11]: JustRace:  hi
+[2021-04-20 07:05:31]: Nudelsaft c: [FookinLads, Level 43]: BulgarianTee: ERROR bad
+[2021-04-20 07:05:33]: (2)Kirito [{TQuila}, Level 0]: avioocals: he has my name so it is my dummy u dumb?
