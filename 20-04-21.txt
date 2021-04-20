@@ -7801,3 +7801,4 @@
 [2021-04-20 05:25:44]: [D] El patron [FookinLads, Level 24]: GReeeN:
 [2021-04-20 05:25:50]: ***  [, Level 0]: '[D] Random Guy' would have timed out, but can use timeout protection now
 [2021-04-20 05:25:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-20 05:25:59]: ***  [, Level 0]: 'Lakatos Mario' has left the game (Timeout Protection over)
