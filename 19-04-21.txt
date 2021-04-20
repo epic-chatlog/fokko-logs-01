@@ -21420,3 +21420,7 @@
 [2021-04-19 23:15:09]: Raidon [, Level 24]: SanoreX: knk
 [2021-04-19 23:15:15]: SanoreX [Chilli.*, Level 27]: he,
 [2021-04-19 23:15:21]: Raidon [, Level 24]: SanoreX: şu ddracede build ettim releaseyide
+[2021-04-19 23:15:29]: SanoreX [Chilli.*, Level 27]: Raidon: f-ddracemi
+[2021-04-19 23:15:29]: ***  [, Level 0]: klas finished in: 3 minute(s) 17.16 second(s)
+[2021-04-19 23:15:29]: ***  [, Level 0]: New record: 1 minute(s)  4.28 second(s) better.
+[2021-04-19 23:15:33]: Raidon [, Level 24]: SanoreX: autoexemiydi nyedi neyi nerde oluşturuyoz
