@@ -8571,3 +8571,7 @@
 [2021-04-20 06:17:12]: ***  [þÿÿ, Level 0]: 'Ð¿Ð¸Ð¿ÑƒÐºÐ°' joined the game
 [2021-04-20 06:17:20]: ***  [þÿÿ, Level 0]: Â»â„±â„¬â„‘Â« is on a killing spree with 15 blocks
 [2021-04-20 06:17:21]: ***  [þÿÿ, Level 0]: 'nameless tee' has left the game
+[2021-04-20 06:17:27]: ***  [þÿÿ, Level 0]: 'Ð¿Ð¸Ð¿ÑƒÐºÐ°' has left the game
+[2021-04-20 06:17:29]: ***  [þÿÿ, Level 0]: 'JustRace' entered and joined the game
+[2021-04-20 06:17:30]: ***  [þÿÿ, Level 0]: 'RGB' has left the game
+[2021-04-20 06:17:30]: ***  [þÿÿ, Level 0]: 'RBG' has left the game
