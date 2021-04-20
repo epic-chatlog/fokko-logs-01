@@ -7905,3 +7905,6 @@
 [2021-04-20 05:34:46]: ***  [, Level 0]: 'Axandos²' has left the game
 [2021-04-20 05:34:48]: SanoreX.* [Chilli.*, Level 23]: fokkonaut: no
 [2021-04-20 05:34:53]: SanoreX.* [Chilli.*, Level 23]: fokkonaut: I have jet
+[2021-04-20 05:34:58]: ***  [, Level 0]: 'fokkonaut' has left the game
+[2021-04-20 05:35:01]: GReeeN [, Level 41]: fokkonaut:  fix it
+[2021-04-20 05:35:01]: SanoreX [Chilli.*, Level 27]: gaynaut
