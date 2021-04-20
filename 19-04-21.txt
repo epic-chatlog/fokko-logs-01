@@ -21428,3 +21428,7 @@
 [2021-04-19 23:15:45]: ***  [, Level 0]: '(1)cat' entered and joined the game
 [2021-04-19 23:15:45]: SanoreX [Chilli.*, Level 27]: Raidon: build autoexec.cfg
 [2021-04-19 23:15:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 23:15:52]: Raidon [, Level 24]: nereye
+[2021-04-19 23:15:58]: SanoreX [Chilli.*, Level 27]: f-ddrace/build/autoexec.cfg
+[2021-04-19 23:15:58]: Raidon [, Level 24]: buildin içinemi
+[2021-04-19 23:16:00]: SanoreX [Chilli.*, Level 27]: evt
