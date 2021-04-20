@@ -1389,3 +1389,9 @@
 [2021-04-20 00:55:24]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:55:25]: S Y T H N [Akatsuki, Level 37]: JustRace: hey^^
 [2021-04-20 00:55:26]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:55:29]: ***  [, Level 0]: 'fajorwerka' has left the game
+[2021-04-20 00:55:32]: ***  [, Level 0]: 'fajorwerka' entered and joined the game
+[2021-04-20 00:55:34]: JustRace [404, Level 36]: S Y T H N:  yo
+[2021-04-20 00:55:36]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:55:39]: SanoreX [Chilli.*, Level 27]: workingggggggggg
+[2021-04-20 00:55:41]: ***  [, Level 0]: Axandos²'s killing spree was ended by Eladio (7 blocks)
