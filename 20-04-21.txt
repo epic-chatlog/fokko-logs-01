@@ -11036,3 +11036,7 @@
 [2021-04-20 08:05:50]: ***  [ýÿÿ, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-20 08:05:51]: . [TrRShClNrRs, Level 11]: Zephir ãƒ„: xd
 [2021-04-20 08:05:54]: . [TrRShClNrRs, Level 11]: Zephir ãƒ„: okay
+[2021-04-20 08:06:07]: pow232 [, Level 0]: [D] BC|serwan:
+[2021-04-20 08:06:09]: pow232 [, Level 0]: BC|serwan:
+[2021-04-20 08:06:11]:   [, Level 0]: Falco641: Niklas: gay kid
+[2021-04-20 08:06:13]: pow232 [, Level 0]: BC|serwan:
