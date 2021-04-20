@@ -21513,3 +21513,9 @@
 [2021-04-19 23:21:15]: SanoreX [Chilli.*, Level 27]: ~Never~: say cl_aimbot 0 when he say cl_aimbot 1
 [2021-04-19 23:21:18]: MysterX [AoT Fan, Level 0]: cl_aimbot 1
 [2021-04-19 23:21:33]: ~Never~ [Chilli.*, Level 7]: cl_aimbow 0
+[2021-04-19 23:21:39]: SanoreX [Chilli.*, Level 27]: cl_kill 1
+[2021-04-19 23:21:41]: MysterX [AoT Fan, Level 0]: cl_aimbot 1
+[2021-04-19 23:21:41]: SanoreX [Chilli.*, Level 27]: kill
+[2021-04-19 23:21:43]: ~Never~ [Chilli.*, Level 7]: cl_aimbot 0
+[2021-04-19 23:21:44]: SanoreX [Chilli.*, Level 27]: JustRace: kill
+[2021-04-19 23:21:45]: JustRace [404, Level 0]: hah
