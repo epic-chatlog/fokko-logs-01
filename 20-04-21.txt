@@ -7948,3 +7948,4 @@
 [2021-04-20 05:42:18]: ***  [þÿÿ, Level 0]: 'deSi' entered and joined the game
 [2021-04-20 05:42:39]: ***  [þÿÿ, Level 0]: 'deSi' has left the game
 [2021-04-20 05:42:42]: ***  [þÿÿ, Level 0]: 'Ð²Ð¾Ð²Ð°Ð½' entered and joined the game
+[2021-04-20 05:42:59]: ***  [þÿÿ, Level 0]: 'szczur' entered and joined the game
