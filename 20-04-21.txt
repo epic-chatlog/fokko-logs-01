@@ -5742,3 +5742,4 @@
 [2021-04-20 04:01:43]: ***  [, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-20 04:01:46]: ***  [, Level 0]: Chillingo is on a killing spree with 10 blocks
 [2021-04-20 04:01:48]: ***  [, Level 0]: Ravinan is on a killing spree with 5 blocks
+[2021-04-20 04:02:01]: ***  [, Level 0]: Ravinan's killing spree was ended by Chillingo (5 blocks)
