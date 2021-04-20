@@ -3443,3 +3443,11 @@
 [2021-04-20 02:16:22]:   [, Level 0]: .: beep
 [2021-04-20 02:16:27]: [D] Cylox [{TQuila}, Level 25]: aaaaaaaaaa
 [2021-04-20 02:16:27]: #5 blocker [Chilli.*, Level 0]: no
+[2021-04-20 02:16:30]: Intensiv [DogParty, Level 18]: olm hepsi düşmanım nasıl geleyim aq
+[2021-04-20 02:16:30]: Taip [VergleriSay, Level 19]: help
+[2021-04-20 02:16:31]: krallll [DogParty, Level 27]: Axandos²: dont stop okey
+[2021-04-20 02:16:31]: Taip [VergleriSay, Level 19]: ?
+[2021-04-20 02:16:37]: vollesprit [, Level 2]: MOM
+[2021-04-20 02:16:38]: mamikral011 [DogParty, Level 0]: Intensiv: war
+[2021-04-20 02:16:39]: ***  [, Level 0]: '(1)Kompingo' has left the game
+[2021-04-20 02:16:39]: ***  [, Level 0]: '(1)[D] Kompingo' has left the game
