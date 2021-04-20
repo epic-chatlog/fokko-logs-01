@@ -20968,3 +20968,12 @@
 [2021-04-19 20:14:49]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 57]: xd
 [2021-04-19 20:15:21]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 57]: i have endless ehre
 [2021-04-19 20:15:25]: Killua [FookinLads, Level 37]: omg 200 ping nice
+[2021-04-19 20:15:45]: ***  [, Level 0]: 'o' entered and joined the game
+[2021-04-19 20:15:45]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.2, by fokkonaut
+[2021-04-19 20:15:45]: ***  [, Level 0]: '(1)o' entered and joined the game
+[2021-04-19 20:15:45]: ***  [, Level 0]: 'StreamerDragon' entered and joined the game
+[2021-04-19 20:15:45]: ***  [, Level 0]: 'DiscordBridge' entered and joined the game
+[2021-04-19 20:15:45]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.2, by fokkonaut
+[2021-04-19 20:15:45]: ***  [, Level 0]: '(1)DiscordBridge' entered and joined the game
+[2021-04-19 20:15:45]: ***  [, Level 0]: Successfully logged in
+[2021-04-19 20:15:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
