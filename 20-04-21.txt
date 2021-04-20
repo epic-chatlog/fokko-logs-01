@@ -17420,3 +17420,11 @@
 [2021-04-20 11:15:24]: HardreenClutch [\ЧՁθ/, Level 57]: Green.exe:  ja
 [2021-04-20 11:15:29]: ***  [, Level 0]: 'AllTheIDDrace' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-20 11:15:29]: ***  [, Level 0]: 'Vertex' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-20 11:15:38]: ***  [, Level 0]: 'gamerzerof' joined the spectators
+[2021-04-20 11:15:39]:   [, Level 0]: Recep: JustRace: bro
+[2021-04-20 11:15:41]: [D] El patron [FookinLads, Level 24]: a
+[2021-04-20 11:15:41]:   [, Level 0]: Recep: plzz
+[2021-04-20 11:15:42]: ***  [, Level 0]: 'gamerzerof' joined the game
+[2021-04-20 11:15:42]: Kaptar [, Level 24]: Zephir ツ: normal je suis seul ptdr, sa fait dix fois je le déboite quand il est seul mdr
+[2021-04-20 11:15:44]: ***  [, Level 0]: 'KoalasSindCool' has left the game
+[2021-04-20 11:15:45]: [D] El patron [FookinLads, Level 24]: aaaaaaaaaaaaaaaaa
