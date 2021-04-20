@@ -7837,3 +7837,6 @@
 [2021-04-20 05:29:04]: ERROR. [404, Level 47]: xD
 [2021-04-20 05:29:11]: ERROR. [404, Level 47]: OH NO
 [2021-04-20 05:29:11]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-20 05:29:12]: ***  [, Level 0]: 'Black' entered and joined the game
+[2021-04-20 05:29:12]: [D] El patron [FookinLads, Level 24]: xd
+[2021-04-20 05:29:15]: ***  [, Level 0]: ### 'TL|ŦƹƦ$ŦǾN' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
