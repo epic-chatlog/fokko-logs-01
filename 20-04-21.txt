@@ -16041,3 +16041,29 @@
 [2021-04-20 10:42:38]:   [, Level 0]: (1)Kirito: i pReSsEd
 [2021-04-20 10:42:38]: Random Guy [, Level 40]: only one shoot
 [2021-04-20 10:42:42]:   [, Level 0]: yair: what
+[2021-04-20 10:42:45]: Lucas [THECEPS, Level 35]: Kirito: stop it get some help
+[2021-04-20 10:42:45]:   [, Level 0]: (1)Kirito: kIrItO: sToP It gEt sOmE HeLp
+[2021-04-20 10:42:46]: Kirito [{TQuila}, Level 41]: kIrItO: sToP It gEt sOmE HeLp
+[2021-04-20 10:42:46]:   [, Level 0]: (2)Kirito: kIrItO: sToP It gEt sOmE HeLp
+[2021-04-20 10:42:46]:   [, Level 0]: (3)Kirito: kIrItO: sToP It gEt sOmE HeLp
+[2021-04-20 10:42:46]: SoulyD [, Level 47]: TimePause: send help
+[2021-04-20 10:42:46]: ***  [, Level 0]: 'artur_xyz br' has left the game
+[2021-04-20 10:42:46]: power2 [TrRShClNrRs, Level 0]: u can see where the freeze is and where it isnt gh
+[2021-04-20 10:42:46]: Taip [VergleriSay, Level 19]: do kill
+[2021-04-20 10:42:46]: ***  [, Level 0]: 'woona' has left the game
+[2021-04-20 10:42:48]: |HolyHo|° [FookinLads, Level 11]: RescheBrezn: smart move
+[2021-04-20 10:42:48]: Random Guy [, Level 40]: El patron: why you killing me i am cute
+[2021-04-20 10:42:49]: ghfdjxc [, Level 0]: power2: i pressed
+[2021-04-20 10:42:49]:   [, Level 0]: (1)Kirito: eL PaTrOn: WhY YoU KiLlInG Me i aM CuTe
+[2021-04-20 10:42:49]: Kirito [{TQuila}, Level 41]: pOwEr2: i pReSsEd
+[2021-04-20 10:42:49]:   [, Level 0]: (2)Kirito: pOwEr2: i pReSsEd
+[2021-04-20 10:42:49]: (3)Kirito [{TQuila}, Level 12]: pOwEr2: i pReSsEd
+[2021-04-20 10:42:50]: ***  [, Level 0]: 'ReccoTRTR' has left the game
+[2021-04-20 10:42:50]: ***  [, Level 0]: 'Tato15' joined the game
+[2021-04-20 10:42:50]: tayson [, Level 0]: TimePause:  ez?
+[2021-04-20 10:42:50]:   [, Level 0]: BulgarianTee: Zephir ツ: see? :D
+[2021-04-20 10:42:53]: ***  [, Level 0]: 'ReccoTRTR' entered and joined the game
+[2021-04-20 10:42:53]:   [, Level 0]: (1)Kirito: 'ReCcOtRtR' eNtErEd aNd jOiNeD ThE GaMe
+[2021-04-20 10:42:53]: (3)Kirito [{TQuila}, Level 12]: 'ReCcOtRtR' eNtErEd aNd jOiNeD ThE GaMe
+[2021-04-20 10:42:53]: Kirito [{TQuila}, Level 41]: 'ReCcOtRtR' eNtErEd aNd jOiNeD ThE GaMe
+[2021-04-20 10:42:53]:   [, Level 0]: (2)Kirito: 'ReCcOtRtR' eNtErEd aNd jOiNeD ThE GaMe
