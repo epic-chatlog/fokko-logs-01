@@ -5373,3 +5373,6 @@
 [2021-04-20 03:40:20]: falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: xD
 [2021-04-20 03:40:27]: ***  [, Level 0]: 'EssT' entered and joined the game
 [2021-04-20 03:40:35]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-20 03:40:44]: ***  [, Level 0]: 'Recep' entered and joined the game
+[2021-04-20 03:40:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-20 03:40:52]: ***  [, Level 0]: 'tee' has left the game
