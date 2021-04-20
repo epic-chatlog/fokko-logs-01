@@ -6727,3 +6727,7 @@
 [2021-04-20 04:43:06]: SanoreX [Chilli.*, Level 27]: go plots
 [2021-04-20 04:43:07]:   [, Level 0]: ChillerDragon.*: ok
 [2021-04-20 04:43:08]: Cylox [{TQuila}, Level 32]: sdorry
+[2021-04-20 04:43:12]: монстр [, Level 0]: Fire
+[2021-04-20 04:43:12]: Intensiv_ [DogParty, Level 11]: El patron:
+[2021-04-20 04:43:13]: Intensiv_ [DogParty, Level 11]: ?
+[2021-04-20 04:43:15]: SanoreX [Chilli.*, Level 27]: ChillerDragon.*: real?
