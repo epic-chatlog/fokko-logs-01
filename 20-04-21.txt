@@ -17620,3 +17620,4 @@
 [2021-04-20 11:24:47]: Nagisa [H] [E8, Level 3]: ZEUS:hook
 [2021-04-20 11:24:47]: ***  [, Level 0]: 'gamerzerof' joined the spectators
 [2021-04-20 11:24:50]: ***  [, Level 0]: 'gamerzerof' joined the game
+[2021-04-20 11:25:04]: Lucas [THECEPS, Level 35]: I like turtles.
