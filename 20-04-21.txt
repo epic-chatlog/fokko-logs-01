@@ -827,3 +827,6 @@
 [2021-04-20 00:31:40]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:31:43]: Intensiv_ [DogParty, Level 11]: power:  10 minute
 [2021-04-20 00:31:43]: SanoreX [Chilli.*, Level 27]: RM | Arin: can you come plot 11? pls I need portal player
+[2021-04-20 00:31:45]: SanoreX [Chilli.*, Level 27]: RM | Arin: plss
+[2021-04-20 00:31:45]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:31:47]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
