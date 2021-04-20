@@ -7968,3 +7968,5 @@
 [2021-04-20 05:45:16]: ***  [þÿÿ, Level 0]: 'nenny' entered and joined the game
 [2021-04-20 05:45:30]: ***  [þÿÿ, Level 0]: 'BC|serwan' entered and joined the game
 [2021-04-20 05:45:32]: ***  [þÿÿ, Level 0]: 'BC|Tixnix' entered and joined the game
+[2021-04-20 05:45:49]: nenny [doq, Level 0]: Black: ok
+[2021-04-20 05:45:50]: ***  [þÿÿ, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
