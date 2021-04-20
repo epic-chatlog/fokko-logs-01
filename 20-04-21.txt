@@ -19786,3 +19786,11 @@
 [2021-04-20 12:41:14]: ***  [, Level 0]: '~DemoizL~' finished the special race!
 [2021-04-20 12:41:16]: Axel ² [TrRShClNrRs, Level 21]: (1)|HolyHo|°: no
 [2021-04-20 12:41:16]: pollice helper [, Level 0]: how
+[2021-04-20 12:41:20]: pollice helper [, Level 0]: to give money
+[2021-04-20 12:41:21]: f"{self.name}" [, Level 18]: police officer: kill
+[2021-04-20 12:41:22]: Axel ² [TrRShClNrRs, Level 21]: (1)|HolyHo|°: I actually thought to buy it
+[2021-04-20 12:41:24]: iMxtteo [DogParty, Level 27]: wait
+[2021-04-20 12:41:25]: (1)Kirito [{TQuila}, Level 41]: SkyForge: suck dick faggot
+[2021-04-20 12:41:27]: pollice helper [, Level 0]: No
+[2021-04-20 12:41:29]: mamikral011 [DogParty, Level 22]: weqe: ?
+[2021-04-20 12:41:31]: SkyForge [, Level 22]: (1)Kirito:  anyway afk now, fuck you later
