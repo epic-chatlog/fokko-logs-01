@@ -19934,3 +19934,5 @@
 [2021-04-19 17:27:35]: ***  [, Level 0]: 'bob' has been muted for 60 seconds
 [2021-04-19 17:27:35]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 44]: RQRQRQRQRQRQRRQRQRQRQR
 [2021-04-19 17:27:36]: ***  [, Level 0]: 'ezy' entered and joined the game
+[2021-04-19 17:27:38]: (1)☺ [, Level 26]: rq
+[2021-04-19 17:27:40]: Zephir ツ [404, Level 40]: TL|ŦƹƦ$ŦǾN: not strong shiro
