@@ -7031,3 +7031,5 @@
 [2021-04-20 04:56:06]: SanoreX [Chilli.*, Level 27]: adamÄ±
 [2021-04-20 04:56:07]: SanoreX [Chilli.*, Level 27]: ver
 [2021-04-20 04:56:10]: ***  [’ÿÿÿ, Level 0]: 'Niemand' has left the game
+[2021-04-20 04:56:12]: ***  [’ÿÿÿ, Level 0]: 'Niemand' entered and joined the game
+[2021-04-20 04:56:20]: ***  [’ÿÿÿ, Level 0]: 'Niemand' has left the game
