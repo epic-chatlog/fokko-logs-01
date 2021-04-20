@@ -20004,3 +20004,5 @@
 [2021-04-20 12:50:54]: ***  [, Level 0]: '(2)Lord11' entered and joined the game
 [2021-04-20 12:51:04]: Kenshi ツ [404, Level 40]: iMxtteo: ok
 [2021-04-20 12:51:05]: ***  [, Level 0]: '⋡HollyWood⋠' entered and joined the game
+[2021-04-20 12:51:14]: cat [, Level 7]: El Monkey: why
+[2021-04-20 12:51:17]: Axel ² [TrRShClNrRs, Level 11]: Zephir ツ: ?
