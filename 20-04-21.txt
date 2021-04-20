@@ -6883,3 +6883,4 @@
 [2021-04-20 04:49:02]: ***  [’ÿÿÿ, Level 0]: 'Niemand' has left the game
 [2021-04-20 04:49:04]: ***  [’ÿÿÿ, Level 0]: 'Niemand' entered and joined the game
 [2021-04-20 04:49:05]: SanoreX [Chilli.*, Level 27]: El patron: 100k in dummy acc idiot
+[2021-04-20 04:49:17]: [D] El patron [FookinLads, Level 24]: SanoreX: restart
