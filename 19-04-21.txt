@@ -21381,3 +21381,5 @@
 [2021-04-19 23:10:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-19 23:11:06]: #5 blocker [Chilli.*, Level 24]: figth test
 [2021-04-19 23:11:10]: ~Never~ [Chilli.*, Level 7]: ?
+[2021-04-19 23:11:24]: SanoreX [Chilli.*, Level 27]: ~Never~: u chilli.* but ur skin color why red?
+[2021-04-19 23:11:30]: SanoreX [Chilli.*, Level 27]: need be green
