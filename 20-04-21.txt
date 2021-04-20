@@ -1946,3 +1946,10 @@
 [2021-04-20 01:15:43]: ***  [, Level 0]: 'Virus' entered and joined the game
 [2021-04-20 01:15:44]: ***  [, Level 0]: 'Nightmare' has left the game
 [2021-04-20 01:15:44]: ***  [, Level 0]: '[D] Nightmare' has left the game
+[2021-04-20 01:15:48]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-20 01:15:49]: ᴄʜɪᴋᴀ [, Level 39]: Shiro.:  help me
+[2021-04-20 01:15:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-20 01:15:52]: Shiro. [410N3, Level 43]: Arktict: just menfou de toi
+[2021-04-20 01:15:52]: SanoreX [Chilli.*, Level 27]: RM | Arin: bb
+[2021-04-20 01:15:55]: ***  [, Level 0]: '1' finished the special race!
+[2021-04-20 01:15:58]: ***  [, Level 0]: 'SanoreX' has left the game
