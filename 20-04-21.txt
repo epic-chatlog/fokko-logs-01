@@ -20159,3 +20159,5 @@
 [2021-04-20 12:57:38]: ***  [, Level 0]: '(1)Black' entered and joined the game
 [2021-04-20 12:57:42]: ***  [, Level 0]: 'avioocals 2.0' entered and joined the game
 [2021-04-20 12:57:59]: ***  [, Level 0]: 'nenny' entered and joined the game
+[2021-04-20 12:58:04]: ***  [, Level 0]: '(1)nenny' entered and joined the game
+[2021-04-20 12:58:11]: Deëivid! [Instinct☁, Level 0]: artur_xyz br: siga-me
