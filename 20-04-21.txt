@@ -5452,3 +5452,4 @@
 [2021-04-20 03:45:20]: ***  [, Level 0]: 'Choppaemon' entered and joined the game
 [2021-04-20 03:45:30]: ***  [, Level 0]: 'Falco642' entered and joined the game
 [2021-04-20 03:45:35]: GODLIKe [, Level 44]: Ding Dong: stop or die
+[2021-04-20 03:45:39]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
