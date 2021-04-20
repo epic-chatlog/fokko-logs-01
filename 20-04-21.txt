@@ -15514,3 +15514,10 @@
 [2021-04-20 10:34:43]: ***  [, Level 0]: 'elqueso' joined the game
 [2021-04-20 10:34:47]: BulgarianTee [Bulgaria, Level 25]: error rq
 [2021-04-20 10:34:48]: (1)Kirito [, Level 0]: eRrOr rQ
+[2021-04-20 10:34:50]: ***  [, Level 0]: 'elqueso' joined the spectators
+[2021-04-20 10:34:54]: ***  [, Level 0]: 'elqueso' joined the game
+[2021-04-20 10:34:55]: ***  [, Level 0]: 'Lucifero' has left the game
+[2021-04-20 10:34:57]: brainless tee [, Level 0]: wtf
+[2021-04-20 10:34:58]: bob [, Level 36]: YelloWorlD: can u translate?
+[2021-04-20 10:34:58]: (1)Kirito [, Level 0]: yElLoWoRlD: cAn u tRaNsLaTe?
+[2021-04-20 10:35:00]: ***  [, Level 0]: Salut finished in: 10 minute(s) 14.14 second(s)
