@@ -18104,3 +18104,6 @@
 [2021-04-20 11:42:47]: JustRace [404, Level 36]: Intensiv_:  your friend, kezo, started killing us for no reason and you participated at his side
 [2021-04-20 11:42:56]: JustRace [404, Level 36]: Intensiv_:  so I am killing you too
 [2021-04-20 11:42:56]: ***  [, Level 0]: 'pinkee' entered and joined the game
+[2021-04-20 11:42:58]: {(.)}  |  Raaaw [{(.)} GP, Level 31]: Bitch: you are such a nice person
+[2021-04-20 11:43:03]: Bitch [, Level 0]: {(.)}  |  Raaaw: why
+[2021-04-20 11:43:04]: ***  [, Level 0]: 'pinkee' has left the game
