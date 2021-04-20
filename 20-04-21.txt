@@ -7920,3 +7920,4 @@
 [2021-04-20 05:36:34]: ***  [þÿÿ, Level 0]: 'AllTheIDDrace' would have timed out, but can use timeout protection now
 [2021-04-20 05:36:40]: ***  [þÿÿ, Level 0]: 'Black' has left the game
 [2021-04-20 05:36:40]: ***  [þÿÿ, Level 0]: 'ilav' has left the game (Timeout)
+[2021-04-20 05:36:44]: ReXi [, Level 0]: El patron: >>>>
