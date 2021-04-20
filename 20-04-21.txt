@@ -4980,3 +4980,4 @@
 [2021-04-20 03:20:05]: ***  [, Level 0]: 'MOM' has left the game
 [2021-04-20 03:20:21]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-20 03:20:25]:   [, Level 0]: CKA3A4NIK[NR]: (1)Ðream:  Привет, ты портал купил?
+[2021-04-20 03:20:26]: GODLIKe [, Level 44]: lagg
