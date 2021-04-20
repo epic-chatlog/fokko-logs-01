@@ -20223,3 +20223,7 @@
 [2021-04-20 13:02:15]:   [, Level 0]: bob: [D] El patron: cant weqe
 [2021-04-20 13:02:16]: [D] El patron [FookinLads, Level 31]: Zephir ツ:  help
 [2021-04-20 13:02:21]: ***  [, Level 0]: 'ibrahim' entered and joined the game
+[2021-04-20 13:02:28]: ***  [, Level 0]: 'abdousteve348' has left the game
+[2021-04-20 13:02:30]: ***  [, Level 0]: 'ibrahim' has left the game
+[2021-04-20 13:02:32]: ***  [, Level 0]: '8hwa' entered and joined the game
+[2021-04-20 13:02:36]: [D] El patron [FookinLads, Level 31]: Zephir ツ:  fast
