@@ -7326,3 +7326,5 @@
 [2021-04-20 05:06:22]: (1)ERROR [404, Level 25]: [D] ♥TAKO♥:
 [2021-04-20 05:06:28]: [D] ♥TAKO♥ [DogParty, Level 0]: ERROR:  ?
 [2021-04-20 05:06:29]: (1)ERROR [404, Level 25]: [D] ♥TAKO♥:  sell me plot 4
+[2021-04-20 05:06:37]: (1)ERROR [404, Level 25]: [D] ♥TAKO♥:  sell me plot 4 150k
+[2021-04-20 05:06:41]: Lucas [THECEPS, Level 35]: Zephir ツ: Kenshi ツ good luck with hunting
