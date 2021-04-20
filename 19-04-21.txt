@@ -21786,3 +21786,6 @@
 [2021-04-19 23:37:52]: ***  [, Level 0]: 'Lexi<3' has left the game
 [2021-04-19 23:37:56]: SanoreX [Chilli.*, Level 27]: joke
 [2021-04-19 23:38:02]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:38:04]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:38:07]: ***  [, Level 0]: 'Meetiteusz' entered and joined the game
+[2021-04-19 23:38:12]: JotaCerve [, Level 0]: don't know what to do
