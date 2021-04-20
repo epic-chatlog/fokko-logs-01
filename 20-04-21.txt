@@ -5446,3 +5446,7 @@
 [2021-04-20 03:45:03]: ***  [, Level 0]: 'Goldy' entered and joined the game
 [2021-04-20 03:45:05]: Minato/fr dumy [Limoncello, Level 0]: Zephir ツ: mrc
 [2021-04-20 03:45:08]:   [, Level 0]: Goldy: hi faggots
+[2021-04-20 03:45:14]: ***  [, Level 0]: 'szczur' entered and joined the game
+[2021-04-20 03:45:19]: ***  [, Level 0]: 'avøcados' has left the game
+[2021-04-20 03:45:19]: ***  [, Level 0]: 'avioocals' has left the game
+[2021-04-20 03:45:20]: ***  [, Level 0]: 'Choppaemon' entered and joined the game
