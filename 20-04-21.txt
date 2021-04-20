@@ -4893,3 +4893,7 @@
 [2021-04-20 03:15:35]: ***  [, Level 0]: 'thekewsik' entered and joined the game
 [2021-04-20 03:15:37]: Taip [VergleriSay, Level 0]: biz takımız
 [2021-04-20 03:15:38]: MOM [, Level 28]: falkenauge: hab jetzt deine ip adresse. Bis heute abend
+[2021-04-20 03:15:43]: ***  [, Level 0]: 'Rethurz' entered and joined the game
+[2021-04-20 03:15:48]: ~DemoizL~ [, Level 39]: vollesprit: bah c'est pas mal
+[2021-04-20 03:15:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-20 03:15:51]: vollesprit [, Level 2]: et au brevet 720 /800
