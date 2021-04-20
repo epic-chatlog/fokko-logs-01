@@ -7949,3 +7949,6 @@
 [2021-04-20 05:42:39]: ***  [þÿÿ, Level 0]: 'deSi' has left the game
 [2021-04-20 05:42:42]: ***  [þÿÿ, Level 0]: 'Ð²Ð¾Ð²Ð°Ð½' entered and joined the game
 [2021-04-20 05:42:59]: ***  [þÿÿ, Level 0]: 'szczur' entered and joined the game
+[2021-04-20 05:43:09]: ***  [þÿÿ, Level 0]: 'szczur' has left the game
+[2021-04-20 05:43:13]: Taip [VergleriSay, Level 0]: bo
+[2021-04-20 05:43:14]: Taip [VergleriSay, Level 0]: bro
