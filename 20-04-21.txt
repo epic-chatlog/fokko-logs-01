@@ -23693,3 +23693,5 @@
 [2021-04-20 16:52:46]: ***  [, Level 0]: '###' changed name to 'GODLIKe'
 [2021-04-20 16:52:48]: bob [, Level 36]: play with him
 [2021-04-20 16:52:48]: ***  [, Level 0]: 'nickid' has left the game
+[2021-04-20 16:52:55]: Cup [, Level 0]: freeze me
+[2021-04-20 16:53:01]: GODLIKe [, Level 44]: QWOEKPĞLQWE
