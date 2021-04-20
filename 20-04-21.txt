@@ -9858,3 +9858,6 @@
 [2021-04-20 07:10:17]: ***  [þÿÿ, Level 0]: [D] JustRace is on a killing spree with 10 blocks
 [2021-04-20 07:10:21]:   [, Level 0]: Kezo: OMGGGGGGGGGGG
 [2021-04-20 07:10:22]:   [, Level 0]: Kezo: JustRace: are you happy now
+[2021-04-20 07:10:25]: (1)ERROR [404, Level 25]: JustRace:  what happend xd
+[2021-04-20 07:10:26]: ***  [þÿÿ, Level 0]: 'IMPOSTOR' entered and joined the game
+[2021-04-20 07:10:31]:   [, Level 0]: IMPOSTOR: Ñƒ
