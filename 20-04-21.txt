@@ -7862,3 +7862,7 @@
 [2021-04-20 05:30:51]: GReeeN [, Level 41]: hi
 [2021-04-20 05:30:53]: Zephir ツ [404, Level 40]: ERROR: or leav spec mode
 [2021-04-20 05:30:56]: ***  [, Level 0]: 'Axandos' entered and joined the game
+[2021-04-20 05:31:05]: rexi [, Level 0]: wie gehts
+[2021-04-20 05:31:06]: ***  [, Level 0]: 'Axandos²' entered and joined the game
+[2021-04-20 05:31:14]: SanoreX.* [Chilli.*, Level 23]: Good man:
+[2021-04-20 05:31:15]: GReeeN [, Level 41]: muss muss
