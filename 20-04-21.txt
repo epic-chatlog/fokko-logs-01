@@ -5367,3 +5367,5 @@
 [2021-04-20 03:39:33]: ***  [, Level 0]: 'at insan' has left the game
 [2021-04-20 03:39:33]: ***  [, Level 0]: 'vollesprit' has left the game (Timeout)
 [2021-04-20 03:39:38]: ***  [, Level 0]: 'Ravinan' entered and joined the game
+[2021-04-20 03:39:41]: ***  [, Level 0]: 'Intensiv_' has left the game
+[2021-04-20 03:39:48]: ***  [, Level 0]: 'tee' has left the game
