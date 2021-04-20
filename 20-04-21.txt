@@ -2109,3 +2109,9 @@
 [2021-04-20 01:21:13]: [D] ghp [, Level 0]: oxi kalo
 [2021-04-20 01:21:13]: Raidon [, Level 0]: not udelsaft c:: i need autoexec
 [2021-04-20 01:21:14]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 01:21:15]: not udelsaft c: [not kinLads, Level 60]: -/stats not udelsaft c:
+[2021-04-20 01:21:16]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 01:21:20]: ***  [, Level 0]: 'nameless te' has left the game
+[2021-04-20 01:21:24]: (1) [, Level 0]: ᴄʜɪᴋᴀ: why did u change ur name
+[2021-04-20 01:21:25]: ←   [, Level 0]: not udelsaft c:: console kill
+[2021-04-20 01:21:26]: ***  [, Level 0]: 'Jeloudagh' has left the game
