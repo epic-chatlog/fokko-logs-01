@@ -345,3 +345,6 @@
 [2021-04-20 00:14:37]: SanoreX [Chilli.*, Level 27]: ok
 [2021-04-20 00:14:51]: ***  [, Level 0]: '[D] BitchCoin' entered and joined the game
 [2021-04-20 00:14:55]: Noxl [.bad, Level 48]: cat: give me moni'
+[2021-04-20 00:15:02]: ***  [, Level 0]: Meetiteusz finished in: 0 minute(s) 26.28 second(s)
+[2021-04-20 00:15:02]: ***  [, Level 0]: New record:  4.28 second(s) better.
+[2021-04-20 00:15:02]: ***  [, Level 0]: JotaCerve is on a killing spree with 5 blocks
