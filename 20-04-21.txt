@@ -7033,3 +7033,7 @@
 [2021-04-20 04:56:10]: ***  [’ÿÿÿ, Level 0]: 'Niemand' has left the game
 [2021-04-20 04:56:12]: ***  [’ÿÿÿ, Level 0]: 'Niemand' entered and joined the game
 [2021-04-20 04:56:20]: ***  [’ÿÿÿ, Level 0]: 'Niemand' has left the game
+[2021-04-20 04:56:25]: Cylox [{TQuila}, Level 32]: yrm
+[2021-04-20 04:56:28]: Cylox [{TQuila}, Level 32]: yrdm
+[2021-04-20 04:56:29]: vollesprit [, Level 3]: Falco642 how can they have all that money ???!!!
+[2021-04-20 04:56:29]: SanoreX [Chilli.*, Level 27]: caylox
