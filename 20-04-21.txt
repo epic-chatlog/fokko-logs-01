@@ -12087,3 +12087,12 @@
 [2021-04-20 08:41:11]: ***  [ýÿÿ, Level 0]: 'tee' has left the game
 [2021-04-20 08:41:12]: ***  [ýÿÿ, Level 0]: '(1)BC|serwan' has left the game
 [2021-04-20 08:41:12]: ***  [ýÿÿ, Level 0]: 'tee' entered and joined the game
+[2021-04-20 08:41:14]: ERROR. [404, Level 47]: bulgariantee idc
+[2021-04-20 08:41:16]: â–ˆ  Zeus  â–ˆ [, Level 0]: Salut:  help im in the bank
+[2021-04-20 08:41:16]:   [, Level 0]: BulgarianTee: (1)ERROR.: and none of us put "xSD7" as clantag
+[2021-04-20 08:41:21]: ***  [ýÿÿ, Level 0]: 'tee' has left the game
+[2021-04-20 08:41:22]: ***  [ýÿÿ, Level 0]: 'like clan 404' entered and joined the game
+[2021-04-20 08:41:23]:   [, Level 0]: BulgarianTee: (1)ERROR.: we just put it in name as joke
+[2021-04-20 08:41:23]: ***  [ýÿÿ, Level 0]: 'tee' entered and joined the game
+[2021-04-20 08:41:24]: ERROR. [404, Level 47]: bulgariantee idc
+[2021-04-20 08:41:25]: ***  [ýÿÿ, Level 0]: 'Niemand' has left the game
