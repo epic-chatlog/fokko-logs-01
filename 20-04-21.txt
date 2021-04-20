@@ -348,3 +348,8 @@
 [2021-04-20 00:15:02]: ***  [, Level 0]: Meetiteusz finished in: 0 minute(s) 26.28 second(s)
 [2021-04-20 00:15:02]: ***  [, Level 0]: New record:  4.28 second(s) better.
 [2021-04-20 00:15:02]: ***  [, Level 0]: JotaCerve is on a killing spree with 5 blocks
+[2021-04-20 00:15:13]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:15:14]: [D] Nightmare [, Level 20]: Kezo: yoo
+[2021-04-20 00:15:15]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:15:17]: JotaCerve [, Level 0]: hahahaha
+[2021-04-20 00:15:22]: JustRace [404, Level 36]: Kezo:  yo
