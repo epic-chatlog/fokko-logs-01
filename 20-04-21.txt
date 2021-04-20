@@ -7810,3 +7810,5 @@
 [2021-04-20 05:26:32]: ***  [, Level 0]: 'Habeebee' has left the game (Timeout Protection over)
 [2021-04-20 05:26:35]: ***  [, Level 0]: 'AzH' has left the game
 [2021-04-20 05:26:39]: [D] El patron [FookinLads, Level 24]: hahahahah
+[2021-04-20 05:26:43]: [D] El patron [FookinLads, Level 24]: HardreenClutch: hilf mir
+[2021-04-20 05:26:45]: :D [E8, Level 5]: flappy: plz help
