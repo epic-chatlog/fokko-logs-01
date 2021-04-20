@@ -20150,3 +20150,6 @@
 [2021-04-19 18:00:41]: Black [, Level 26]: Kirito: see ?
 [2021-04-19 18:00:42]: (1)☺ [, Level 26]: xd
 [2021-04-19 18:00:44]: Black [, Level 26]: he is good
+[2021-04-19 18:00:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-19 18:00:51]: Kirito [{TQuila}, Level 41]: mhm ok
+[2021-04-19 18:00:56]: Kirito [{TQuila}, Level 41]: ezy: dont help anyone
