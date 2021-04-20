@@ -21518,3 +21518,6 @@
 [2021-04-20 14:04:25]: ***  [, Level 0]: 'coffee [D]' has left the game
 [2021-04-20 14:04:28]: Isegrin [, Level 55]: RQRQR
 [2021-04-20 14:04:31]: Axandos [, Level 26]: P4Pyr0s:  AAAAAA LEFT
+[2021-04-20 14:04:45]: RM | Arin [Retard MNKY, Level 16]: Axandos:  war auf dem weg junge
+[2021-04-20 14:04:47]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-20 14:04:48]: ***  [, Level 0]: 'El Monkey' has left the game
