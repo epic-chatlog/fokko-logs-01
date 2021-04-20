@@ -21789,3 +21789,6 @@
 [2021-04-19 23:38:04]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-19 23:38:07]: ***  [, Level 0]: 'Meetiteusz' entered and joined the game
 [2021-04-19 23:38:12]: JotaCerve [, Level 0]: don't know what to do
+[2021-04-19 23:38:19]: JustRace [404, Level 36]: I don't really farm
+[2021-04-19 23:38:24]: JustRace [404, Level 36]: but ty
+[2021-04-19 23:38:24]: SanoreX [Chilli.*, Level 27]: XDDDDDDDDDDDDDDDDDDDDDDDDDDD
