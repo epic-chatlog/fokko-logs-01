@@ -14832,3 +14832,7 @@
 [2021-04-20 10:08:25]: ***  [, Level 0]: 'Zephir's fan' entered and joined the game
 [2021-04-20 10:08:27]: BulgarianTee [Bulgaria, Level 25]: ERROR: i want rematch
 [2021-04-20 10:08:27]: Ðeathscyth [, Level 3]: comic: nvm ill die and try coming there again
+[2021-04-20 10:08:33]: ***  [, Level 0]: ERROR. is on a killing spree with 20 blocks
+[2021-04-20 10:08:34]: comic [comically, Level 15]: Ðeathscyth: okay..
+[2021-04-20 10:08:39]:   [, Level 0]: ~~ADVENTURE-~]: help
+[2021-04-20 10:08:41]: ***  [, Level 0]: 'KojmeroJukotr' changed name to 'KotyhouErewog'
