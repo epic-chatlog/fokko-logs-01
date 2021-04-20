@@ -8720,3 +8720,10 @@
 [2021-04-20 06:23:58]: Mista bombastic [TrRShClNrRs, Level 40]: HeavyGeneral: how?
 [2021-04-20 06:24:00]: Levi [, Level 0]: GReeeN: ???
 [2021-04-20 06:24:01]: ***  [þÿÿ, Level 0]: 'Demogorgon' entered and joined the game
+[2021-04-20 06:24:02]: HeavyGeneral [FookinLads, Level 44]: Mista bombastic: how
+[2021-04-20 06:24:06]: Mista bombastic [TrRShClNrRs, Level 40]: HeavyGeneral: how?
+[2021-04-20 06:24:10]: ERROR [404, Level 76]: [D] JustRace:  no but im vored
+[2021-04-20 06:24:10]: HeavyGeneral [FookinLads, Level 44]: Mista bombastic: how
+[2021-04-20 06:24:11]: ERROR [404, Level 76]: bored
+[2021-04-20 06:24:12]: ***  [þÿÿ, Level 0]: Yoshi finished in: 2 minute(s) 29.08 second(s)
+[2021-04-20 06:24:12]: ***  [þÿÿ, Level 0]: 'Nudelsaft c:' entered and joined the game
