@@ -7227,3 +7227,9 @@
 [2021-04-20 05:03:15]: Coca [Drunks, Level 25]: [D] â™¥TAKOâ™¥: help
 [2021-04-20 05:03:16]: [D] El patron [FookinLads, Level 24]: rexi:
 [2021-04-20 05:03:22]:   [, Level 0]: totaly friendly: plis el patron
+[2021-04-20 05:03:26]: Zephir ãƒ„ [404, Level 40]: AllTheIDDrace: want die ?
+[2021-04-20 05:03:26]:   [, Level 0]: totaly friendly: get me to the bank
+[2021-04-20 05:03:27]: [D] El patron [FookinLads, Level 24]: totaly friendly: kill me
+[2021-04-20 05:03:32]:   [, Level 0]: totaly friendly: i cant
+[2021-04-20 05:03:35]:   [, Level 0]: Kezo: YelloWorlD: rq
+[2021-04-20 05:03:35]: ***  [’ÿÿÿ, Level 0]: '0-0' entered and joined the game
