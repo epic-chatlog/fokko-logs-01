@@ -5250,3 +5250,9 @@
 [2021-04-20 03:33:02]:   [, Level 0]: CKA3A4NIK: 2
 [2021-04-20 03:33:02]: ϻɪɔʜɑʟ [DogParty, Level 24]: TRr...
 [2021-04-20 03:33:03]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-20 03:33:05]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-20 03:33:05]: ***  [, Level 0]: 'Niemand' entered and joined the game
+[2021-04-20 03:33:06]:   [, Level 0]: CKA3A4NIK: 3?
+[2021-04-20 03:33:09]: kais [, Level 66]: FunforFun: quand t'y es faut faire f4 pour ouvrir le menu
+[2021-04-20 03:33:09]: ϻɪɔʜɑʟ [DogParty, Level 24]: riC
+[2021-04-20 03:33:10]:   [, Level 0]: CKA3A4NIK: OMG
