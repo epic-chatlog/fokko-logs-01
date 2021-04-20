@@ -15490,3 +15490,12 @@
 [2021-04-20 10:34:08]: ghfdjxc [, Level 0]: oh :'D
 [2021-04-20 10:34:11]: BulgarianTee [Bulgaria, Level 25]: TimePause: yes i dont need but the other 2 'if' statements are still correct
 [2021-04-20 10:34:12]: Kirito [{TQuila}, Level 41]: tImEpAuSe: YeS I DoNt nEeD BuT ThE OtHeR 2 'iF' sTaTeMeNtS ArE StIlL CoRrEcT
+[2021-04-20 10:34:14]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-20 10:34:15]: ***  [, Level 0]: nenny is on a killing spree with 5 blocks
+[2021-04-20 10:34:18]: BulgarianTee [Bulgaria, Level 25]: TimePause: false*
+[2021-04-20 10:34:18]: Kirito [{TQuila}, Level 41]: tImEpAuSe: FaLsE*
+[2021-04-20 10:34:23]: Nagisa [H] [E8, Level 3]: jump
+[2021-04-20 10:34:23]: Kirito [{TQuila}, Level 41]: jUmP
+[2021-04-20 10:34:24]: ***  [, Level 0]: '(1)ERROR' has left the game
+[2021-04-20 10:34:24]: ***  [, Level 0]: '(1)ERROR.' has left the game
+[2021-04-20 10:34:24]: Brezn [, Level 33]: |HolyHo|: ok
