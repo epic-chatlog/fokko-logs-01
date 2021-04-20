@@ -20666,3 +20666,6 @@
 [2021-04-19 19:08:37]: |HolyHo|° [FookinLads, Level 11]: Gren:
 [2021-04-19 19:08:43]: ***  [, Level 0]: '(1)☺' has left the game
 [2021-04-19 19:08:48]: ***  [, Level 0]: '☺' has left the game
+[2021-04-19 19:08:55]: Gren [, Level 23]: Black: came wath |HolyHo|
+[2021-04-19 19:08:56]: Black [, Level 26]: are u sure u want to do this bob ?
+[2021-04-19 19:09:01]: Black [, Level 26]: Gren: NO]
