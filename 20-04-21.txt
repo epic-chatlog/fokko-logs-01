@@ -17495,3 +17495,4 @@
 [2021-04-20 11:18:01]: ***  [, Level 0]: 'artur_xyz br' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-20 11:18:03]: ***  [, Level 0]: 'Peaches' changed name to 'bubblechicken50'
 [2021-04-20 11:18:03]: ***  [, Level 0]: 'KoalasSindCool' has left the game
+[2021-04-20 11:18:17]:   [, Level 0]: |HolyHo|°: Mista bombastic: down
