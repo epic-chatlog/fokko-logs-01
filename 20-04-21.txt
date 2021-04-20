@@ -1088,3 +1088,7 @@
 [2021-04-20 00:43:49]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:43:52]: RM | Arin [Retard MNKY, Level 41]: SanoreX:  OMG
 [2021-04-20 00:43:56]: SanoreX [Chilli.*, Level 27]: wait
+[2021-04-20 00:44:09]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:44:09]: ***  [, Level 0]: RM | Arin is on a killing spree with 5 blocks
+[2021-04-20 00:44:10]: ***  [, Level 0]: (1)Ðream is on a killing spree with 30 blocks
+[2021-04-20 00:44:11]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
