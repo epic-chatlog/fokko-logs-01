@@ -14826,3 +14826,9 @@
 [2021-04-20 10:08:09]: ***  [, Level 0]: '[D] ṆḕẌ�' has left the game
 [2021-04-20 10:08:10]: ☺ [, Level 27]: tue
 [2021-04-20 10:08:13]:   [, Level 0]: fluffrit: hjello
+[2021-04-20 10:08:24]: ***  [, Level 0]: 'cunt' has left the game
+[2021-04-20 10:08:24]:   [, Level 0]: fluffrit: tree
+[2021-04-20 10:08:25]: BulgarianTee [Bulgaria, Level 25]: ERROR: i outtabbed
+[2021-04-20 10:08:25]: ***  [, Level 0]: 'Zephir's fan' entered and joined the game
+[2021-04-20 10:08:27]: BulgarianTee [Bulgaria, Level 25]: ERROR: i want rematch
+[2021-04-20 10:08:27]: Ðeathscyth [, Level 3]: comic: nvm ill die and try coming there again
