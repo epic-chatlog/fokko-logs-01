@@ -20894,3 +20894,5 @@
 [2021-04-19 19:35:24]: (1)Black [, Level 0]: Gren: timeout
 [2021-04-19 19:35:27]: (1)Black [, Level 0]: bob: last raid
 [2021-04-19 19:35:30]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 57]: tell me if dead |HolyHo|°
+[2021-04-19 19:35:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-19 19:35:53]: |HolyHo|° [FookinLads, Level 11]: dead
