@@ -272,3 +272,5 @@
 [2021-04-20 00:10:55]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:10:57]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:11:00]: SanoreX.* [Chilli.*, Level 23]: JotaCerve: spec me come
+[2021-04-20 00:11:10]: ***  [, Level 0]: 'power2' entered and joined the game
+[2021-04-20 00:11:14]: Noxl [.bad, Level 48]: Meetiteusz:
