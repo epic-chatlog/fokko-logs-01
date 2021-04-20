@@ -17667,3 +17667,7 @@
 [2021-04-20 11:27:00]: ***  [, Level 0]: SkyForge is on a killing spree with 10 blocks
 [2021-04-20 11:27:03]: ***  [, Level 0]: '[D] BULLETBOT' has left the game
 [2021-04-20 11:27:05]: Green.exe [, Level 0]: Lucas: you have pistol
+[2021-04-20 11:27:12]: ***  [, Level 0]: 'gamerzerof' joined the spectators
+[2021-04-20 11:27:15]: ***  [, Level 0]: 'gamerzerof' joined the game
+[2021-04-20 11:27:20]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-20 11:27:21]: ***  [, Level 0]: 'nameless tee' entered and joined the game
