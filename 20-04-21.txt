@@ -21637,3 +21637,9 @@
 [2021-04-20 14:10:51]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 14:10:53]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 14:10:54]: █  Zeus  █ [, Level 0]: evt
+[2021-04-20 14:10:57]: mamikral011 [DogParty, Level 22]: █  Zeus  █: ok kanka
+[2021-04-20 14:10:59]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 14:11:02]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 14:11:03]: Cylox [{TQuila}, Level 32]: puşt söylesene atmazdım
+[2021-04-20 14:11:04]: mamikral011 [DogParty, Level 22]: █  Zeus  █: gel sana para atam
+[2021-04-20 14:11:06]: █  Zeus  █ [, Level 0]: lan sen sabah neden bizi öldürüyodum
