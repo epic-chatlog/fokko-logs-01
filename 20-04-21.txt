@@ -177,3 +177,8 @@
 [2021-04-20 00:07:29]: ***  [, Level 0]: 'Lumos' has left the game
 [2021-04-20 00:07:30]: ***  [, Level 0]: Eladio is on a killing spree with 10 blocks
 [2021-04-20 00:07:32]: [D] Nightmare [, Level 0]: JustRace: il salvez pe Noxl's cat ?
+[2021-04-20 00:07:34]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:07:36]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:07:41]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:07:42]: ***  [, Level 0]: '¡ RodCYREX 神' entered and joined the game
+[2021-04-20 00:07:43]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
