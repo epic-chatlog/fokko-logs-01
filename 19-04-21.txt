@@ -21065,3 +21065,4 @@
 [2021-04-19 21:52:43]: ***  [, Level 0]: 'O.o' entered and joined the game
 [2021-04-19 21:53:24]: ***  [, Level 0]: 'O.o' has left the game
 [2021-04-19 21:54:13]: ***  [, Level 0]: 'klas' entered and joined the game
+[2021-04-19 21:55:11]: ***  [, Level 0]: 'Vesorp' entered and joined the game
