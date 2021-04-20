@@ -21953,3 +21953,9 @@
 [2021-04-19 23:49:18]: SanoreX.* [Chilli.*, Level 23]: fuck u Jeloudagh
 [2021-04-19 23:49:22]: ***  [, Level 0]: 'FIGHTING GOLD' has left the game
 [2021-04-19 23:49:24]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:49:26]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:49:32]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:49:34]: Raidon's Pet [, Level 20]: SanoreX: kimseyi alma amk
+[2021-04-19 23:49:34]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:49:34]: SanoreX.* [Chilli.*, Level 23]: amk adam
+[2021-04-19 23:49:34]: ***  [, Level 0]: 'Jeloudagh' has left the game
