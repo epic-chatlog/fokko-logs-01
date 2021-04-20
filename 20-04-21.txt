@@ -8265,3 +8265,6 @@
 [2021-04-20 06:01:12]:   [, Level 0]: .S L E E P Y': PoliceTee:  it was hisotry test too LMFAO
 [2021-04-20 06:01:23]: ***  [þÿÿ, Level 0]: 'Deine Mutter' entered and joined the game
 [2021-04-20 06:01:35]: ***  [þÿÿ, Level 0]: '_Koneko_1' has left the game
+[2021-04-20 06:01:39]: ***  [þÿÿ, Level 0]: 'adamabel' joined the spectators
+[2021-04-20 06:01:44]: ***  [þÿÿ, Level 0]: 'adamabel' joined the game
+[2021-04-20 06:01:48]: ***  [þÿÿ, Level 0]: 'Deine Mutter' changed name to '[D] BC|Tixnix'
