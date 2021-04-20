@@ -6152,3 +6152,5 @@
 [2021-04-20 04:16:04]: Nagisa [H] [E8, Level 2]: salcanmÄ±
 [2021-04-20 04:16:08]: Taip [VergleriSay, Level 19]: no
 [2021-04-20 04:16:10]: ***  [ìýÿÿ, Level 0]: '(1)ZEWO' entered and joined the game
+[2021-04-20 04:16:19]: ***  [’ÿÿÿ, Level 0]: 'oskar pikuniku' has left the game
+[2021-04-20 04:16:24]: (1)vollesprit [, Level 0]: Falco641 i mean , you have the hook but you don't need to hold the mouse's click
