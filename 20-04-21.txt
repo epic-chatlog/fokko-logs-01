@@ -7765,3 +7765,7 @@
 [2021-04-20 05:23:53]: ***  [, Level 0]: 'Intensiv' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-20 05:23:55]: ***  [, Level 0]: '(1)kais' has left the game (Timeout Protection over)
 [2021-04-20 05:23:55]: ***  [, Level 0]: 'kais' has left the game (Timeout Protection over)
+[2021-04-20 05:24:02]: rexi [, Level 0]: dein dummy alter
+[2021-04-20 05:24:03]: ***  [, Level 0]: 'abdousteve348' has left the game (Timeout Protection over)
+[2021-04-20 05:24:07]: RM | Arin [Retard MNKY, Level 41]: HAHAH ER IST GETIMEOUTET XD
+[2021-04-20 05:24:09]: SanoreX.* [Chilli.*, Level 23]: haha kais gg
