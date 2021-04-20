@@ -22839,3 +22839,6 @@
 [2021-04-20 15:30:06]: ♥TAKO♥ [DogParty, Level 26]: Kenshi ツ:  why?
 [2021-04-20 15:30:33]: Kenshi ツ [404, Level 40]: ♥TAKO♥: u help Souly u need to dfie
 [2021-04-20 15:30:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-20 15:31:06]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
+[2021-04-20 15:31:08]: ***  [, Level 0]: Rem's bae finished in: 0 minute(s) 39.20 second(s)
+[2021-04-20 15:31:08]: ***  [, Level 0]: New record:  5.44 second(s) better.
