@@ -21328,3 +21328,6 @@
 [2021-04-19 23:04:51]: ***  [, Level 0]: 'Tom' entered and joined the game
 [2021-04-19 23:04:57]: Noxl. [.bad, Level 35]: SanoreX: hmm
 [2021-04-19 23:04:58]: Noxl. [.bad, Level 35]: ok
+[2021-04-19 23:05:02]: kurama [New Gen., Level 0]: Noxl.: kk
+[2021-04-19 23:05:06]: SanoreX.* [Chilli.*, Level 23]: Noxl: u have portalrifle?
+[2021-04-19 23:05:12]: kurama [New Gen., Level 0]: SanoreX.*: bbb
