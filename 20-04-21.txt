@@ -888,3 +888,6 @@
 [2021-04-20 00:33:29]: Meetiteusz [TrRShClNrRs, Level 29]: Nightmare: he killed u only
 [2021-04-20 00:33:31]: power2 [TrRShClNrRs, Level 0]: Nightmare: called teamplay ^^
 [2021-04-20 00:33:34]: 1 [, Level 18]: dur
+[2021-04-20 00:33:44]: [D] Nightmare [, Level 0]: power2: no is called fear of being killed
+[2021-04-20 00:33:44]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:33:46]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
