@@ -17929,3 +17929,5 @@
 [2021-04-20 11:35:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-20 11:35:50]: ***  [, Level 0]: 'the last kozol' entered and joined the game
 [2021-04-20 11:35:58]:   [, Level 0]: Sayme: ZEUS: what he did
+[2021-04-20 11:36:09]:   [, Level 0]: ZEUS: Sayme idk
+[2021-04-20 11:36:10]: Lucas [THECEPS, Level 35]: dont kill me: what if i kill you
