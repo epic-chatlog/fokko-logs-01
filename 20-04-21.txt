@@ -2063,3 +2063,9 @@
 [2021-04-20 01:19:36]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 01:19:38]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 01:19:44]: ***  [, Level 0]: 'Raidon' entered and joined the game
+[2021-04-20 01:19:50]: ghp [1234, Level 0]: kalo
+[2021-04-20 01:19:51]: Arktict [, Level 31]: already that
+[2021-04-20 01:19:56]: ghp [1234, Level 0]: kalo 18 pliz
+[2021-04-20 01:19:57]: ***  [, Level 0]: 'Aka'DysoneK' has left the game
+[2021-04-20 01:19:57]: not udelsaft c: [not kinLads, Level 60]: Aka'DysoneK: another player with a high level arrested u for spawnblocking
+[2021-04-20 01:19:58]: Arktict [, Level 31]: halo
