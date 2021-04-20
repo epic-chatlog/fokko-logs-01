@@ -10346,3 +10346,8 @@
 [2021-04-20 07:36:04]: ***  [˝ˇˇ, Level 0]: '~DemoizL~' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-20 07:36:04]: . [TrRShClNrRs, Level 43]: ERROR: oh
 [2021-04-20 07:36:04]: ERROR. [404, Level 47]: u said
+[2021-04-20 07:36:07]:   [, Level 0]: Falco642: shit
+[2021-04-20 07:36:12]: ***  [˝ˇˇ, Level 0]: 'Telefantastic' entered and joined the game
+[2021-04-20 07:36:14]: . [TrRShClNrRs, Level 43]: ERROR: oh  , that wasnt the last thing tho xd
+[2021-04-20 07:36:15]:   [, Level 0]: BitchPlease Jr.: ty
+[2021-04-20 07:36:17]: . [TrRShClNrRs, Level 43]: ERROR: what did (1)√êream wtf
