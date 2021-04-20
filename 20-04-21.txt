@@ -22545,3 +22545,7 @@
 [2021-04-20 15:05:23]: ***  [, Level 0]: 'natu' entered and joined the game
 [2021-04-20 15:05:25]: SoulyD [, Level 47]: ?
 [2021-04-20 15:05:34]: SoulyD [, Level 47]: bob: why
+[2021-04-20 15:05:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-20 15:05:52]: keepertrain._. [, Level 30]: Souly:
+[2021-04-20 15:05:52]: SoulyD [, Level 47]: no u keepertrain._.
+[2021-04-20 15:05:53]: P4Pyr0s [, Level 25]: bob:
