@@ -21688,3 +21688,9 @@
 [2021-04-20 14:13:19]: Cylox [{TQuila}, Level 32]: şakaa
 [2021-04-20 14:13:32]: ***  [, Level 0]: 'soleri1' has left the game (Timeout)
 [2021-04-20 14:13:32]: noname [, Level 21]: Victor:
+[2021-04-20 14:13:39]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 14:13:41]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 14:13:42]: Flipper [, Level 0]: XD
+[2021-04-20 14:13:42]: █  Zeus  █ [, Level 0]: bayrağı çaldı lannn
+[2021-04-20 14:13:48]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 14:13:50]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
