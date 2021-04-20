@@ -18510,3 +18510,7 @@
 [2021-04-20 11:56:16]: weqe [669, Level 13]: why not bob
 [2021-04-20 11:56:16]: ***  [, Level 0]: 'the last AMOGUS' has left the game (Timeout)
 [2021-04-20 11:56:17]: bob [, Level 36]: u randomm
+[2021-04-20 11:56:18]: ***  [, Level 0]: '(2)nameless tee' has left the game
+[2021-04-20 11:56:22]: weqe [669, Level 13]: u hurt me bob
+[2021-04-20 11:56:23]: ***  [, Level 0]: 'the last kozol' has left the game
+[2021-04-20 11:56:23]: ***  [, Level 0]: 'the last kozlik' has left the game
