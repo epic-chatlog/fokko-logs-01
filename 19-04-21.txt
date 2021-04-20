@@ -20332,3 +20332,6 @@
 [2021-04-19 18:25:08]: ***  [, Level 0]: Kirito is on a killing spree with 5 blocks
 [2021-04-19 18:25:10]: Gren [, Level 23]: not me
 [2021-04-19 18:25:12]: Gren [, Level 23]: fker
+[2021-04-19 18:25:17]: Kirito [{TQuila}, Level 41]: Gren: what?
+[2021-04-19 18:25:19]: Gren [, Level 23]: im respawn
+[2021-04-19 18:25:26]: Kirito [{TQuila}, Level 41]: what did you call me?
