@@ -22440,3 +22440,7 @@
 [2021-04-20 14:57:49]: ***  [, Level 0]: 'MRUniverse' has left the game
 [2021-04-20 14:57:52]: ***  [, Level 0]: 'Falkum' has left the game
 [2021-04-20 14:57:52]: TeigHuhn [, Level 0]: Lord11: okay my friend
+[2021-04-20 14:58:06]: Lord11 [, Level 0]: TeigHuhn: sry friend
+[2021-04-20 14:58:08]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-20 14:58:10]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-20 14:58:13]: keepertrain._. [, Level 30]: YelloWorlD: help? >>
