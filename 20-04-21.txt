@@ -18554,3 +18554,6 @@
 [2021-04-20 11:58:06]: ***  [, Level 0]: 'El Monkey' entered and joined the game
 [2021-04-20 11:58:07]: weqe [669, Level 13]: bob: our brotherhood was a lie ?
 [2021-04-20 11:58:08]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-20 11:58:15]: bob [, Level 36]: XDDDDDDDDDDDDD
+[2021-04-20 11:58:21]: ***  [, Level 0]: 'Falco642' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-20 11:58:21]: ***  [, Level 0]: 'Falco641' has left the game (Too weak connection (not acked for 60 seconds))
