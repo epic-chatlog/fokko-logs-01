@@ -1778,3 +1778,15 @@
 [2021-04-20 01:09:13]: ***  [, Level 0]: Matiteusz is on a killing spree with 20 blocks
 [2021-04-20 01:09:14]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 01:09:15]: ***  [, Level 0]: 'f"{self.name}"' has left the game (Timeout Protection over)
+[2021-04-20 01:09:15]: ***  [, Level 0]: '__init__(self):' has left the game (Timeout Protection over)
+[2021-04-20 01:09:15]: ***  [, Level 0]: Taip's killing spree was ended by ghp (5 blocks)
+[2021-04-20 01:09:15]: vollesprit [, Level 2]: Sanorex here
+[2021-04-20 01:09:16]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 01:09:16]: ᴄʜɪᴋᴀ [, Level 39]: GODLIKe:  xD
+[2021-04-20 01:09:20]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 01:09:23]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 01:09:23]: Taip [VergleriSay, Level 19]: yey
+[2021-04-20 01:09:25]: ***  [, Level 0]: 'Vortex' entered and joined the game
+[2021-04-20 01:09:26]: GODLIKe [, Level 44]: JPOQWEKĞ
+[2021-04-20 01:09:26]: ᴄʜɪᴋᴀ [, Level 39]: GODLIKe:  :O
+[2021-04-20 01:09:27]: GODLIKe [, Level 44]: QĞKWELÜWQE
