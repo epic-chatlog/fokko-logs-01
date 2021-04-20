@@ -305,3 +305,14 @@
 [2021-04-20 00:13:27]: SanoreX.* [Chilli.*, Level 23]: Raidon: canlı dersteyim afk
 [2021-04-20 00:13:28]: SanoreX.* [Chilli.*, Level 23]: sorry
 [2021-04-20 00:13:30]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:13:31]: Raidon's Pet [, Level 20]: SanoreX.*: np
+[2021-04-20 00:13:32]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:13:33]: SanoreX.* [Chilli.*, Level 23]: ndedne
+[2021-04-20 00:13:33]: Raidon's Pet [, Level 20]: SanoreX.*: bi sm
+[2021-04-20 00:13:35]: Raidon's Pet [, Level 20]: SanoreX.*: bi sn
+[2021-04-20 00:13:38]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:13:39]: SanoreX.* [Chilli.*, Level 23]: ndedne touchpad
+[2021-04-20 00:13:40]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:13:40]: (1)cat [, Level 0]: Noxl: no such command drop
+[2021-04-20 00:13:40]: [D] Nightmare [, Level 20]: Meetiteusz: baank
+[2021-04-20 00:13:41]: ***  [, Level 0]: 'Kezo' entered and joined the game
