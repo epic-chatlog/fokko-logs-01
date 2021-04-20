@@ -12445,3 +12445,14 @@
 [2021-04-20 08:50:42]: Falco641 [.bad, Level 21]: AllTheIDDrace: wtf?
 [2021-04-20 08:50:44]: ***  [ýÿÿ, Level 0]: sL|KeBu28 is on a killing spree with 30 blocks
 [2021-04-20 08:50:47]: ***  [ýÿÿ, Level 0]: 'Melanie' has left the game
+[2021-04-20 08:50:49]: HeavyGeneral [FookinLads, Level 44]: ERROR:
+[2021-04-20 08:50:49]: ***  [ýÿÿ, Level 0]: 'Niemand' has left the game
+[2021-04-20 08:50:50]: bob [, Level 36]: YelloWorlD: fight him
+[2021-04-20 08:50:50]: ***  [ýÿÿ, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-20 08:50:50]: ***  [ýÿÿ, Level 0]: 'Niemand' entered and joined the game
+[2021-04-20 08:50:52]: ***  [ýÿÿ, Level 0]: 'Shy-ra.' has left the game
+[2021-04-20 08:50:54]: ***  [ýÿÿ, Level 0]: 'fluffrit' joined the spectators
+[2021-04-20 08:50:56]:   [, Level 0]: YelloWorlD: HeavyGeneral: yesterday i didnt touch you but u attack me for nothing
+[2021-04-20 08:50:57]: ***  [ýÿÿ, Level 0]: 'fluffrit' joined the game
+[2021-04-20 08:50:58]: (C)Ali [Blood Gang , Level 3]: mamikral011:  yapma mal oรง
+[2021-04-20 08:50:58]: ERROR [404, Level 76]: HeavyGeneral: ?
