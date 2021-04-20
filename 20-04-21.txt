@@ -21443,3 +21443,5 @@
 [2021-04-20 14:00:10]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 14:00:12]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 14:00:16]: [D] mamikral011 [DogParty, Level 27]: █  Zeus  █: yardım
+[2021-04-20 14:00:27]: █  Zeus  █ [, Level 0]: pls
+[2021-04-20 14:00:31]: [D] mamikral011 [DogParty, Level 27]: █  Zeus  █: banka de amk
