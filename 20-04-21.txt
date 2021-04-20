@@ -15373,3 +15373,12 @@
 [2021-04-20 10:31:13]: ***  [, Level 0]: 'natsu' has left the game
 [2021-04-20 10:31:14]:   [, Level 0]: Kirito: 'NaTsU' hAs lEfT ThE GaMe
 [2021-04-20 10:31:16]: ***  [, Level 0]: BULLETBOT is on a killing spree with 5 blocks
+[2021-04-20 10:31:17]: #LIAN# [, Level 0]: weqe: left !!
+[2021-04-20 10:31:17]:   [, Level 0]: Kirito: wEqE: lEfT !!
+[2021-04-20 10:31:19]: bob [, Level 36]: [D] Cylox: weqe is #1 enemy
+[2021-04-20 10:31:23]:   [, Level 0]: BULLETBOT: :(
+[2021-04-20 10:31:23]: ***  [, Level 0]: 'artur_xyz br' entered and joined the game
+[2021-04-20 10:31:24]: Cylox [{TQuila}, Level 32]: hass
+[2021-04-20 10:31:24]:   [, Level 0]: Kirito: hAsS
+[2021-04-20 10:31:25]: #LIAN# [, Level 0]: weqe: oh right also xD
+[2021-04-20 10:31:26]: bob [, Level 36]: [D] Cylox: ahah
