@@ -8534,3 +8534,10 @@
 [2021-04-20 06:15:22]: ***  [þÿÿ, Level 0]: 'Ð¿Ð¸Ð¿ÑƒÐºÐ°' joined the spectators
 [2021-04-20 06:15:25]: ***  [þÿÿ, Level 0]: 'Ð¿Ð¸Ð¿ÑƒÐºÐ°' joined the game
 [2021-04-20 06:15:27]: ***  [þÿÿ, Level 0]: 'BC|serwan' entered and joined the game
+[2021-04-20 06:15:32]: ***  [þÿÿ, Level 0]: 'Ð¿Ð¸Ð¿ÑƒÐºÐ°' joined the spectators
+[2021-04-20 06:15:33]: RBG [R, Level 19]: ERROR: whi
+[2021-04-20 06:15:35]: RBG [R, Level 19]: war
+[2021-04-20 06:15:36]: ***  [þÿÿ, Level 0]: 'Ð¿Ð¸Ð¿ÑƒÐºÐ°' joined the game
+[2021-04-20 06:15:37]: ***  [þÿÿ, Level 0]: Â»â„±â„¬â„‘Â« is on a killing spree with 10 blocks
+[2021-04-20 06:15:37]: ***  [þÿÿ, Level 0]: 'HeavyGeneral' entered and joined the game
+[2021-04-20 06:15:40]: ERROR. [404, Level 47]: xDDD ok
