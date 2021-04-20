@@ -20475,3 +20475,5 @@
 [2021-04-19 18:38:59]: (1)☺ [, Level 26]: tjet at spawn |HolyHo|
 [2021-04-19 18:39:08]: ***  [, Level 0]: 'sandu' has left the game
 [2021-04-19 18:39:09]: ***  [, Level 0]: 'sandu' entered and joined the game
+[2021-04-19 18:39:19]: ***  [, Level 0]: 'sandu' has left the game
+[2021-04-19 18:39:22]: |HolyHo|° [FookinLads, Level 11]: (1)☺: yes but come
