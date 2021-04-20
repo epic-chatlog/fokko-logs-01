@@ -12358,3 +12358,5 @@
 [2021-04-20 08:48:07]: ***  [ýÿÿ, Level 0]: 'fluffrit' joined the spectators
 [2021-04-20 08:48:11]: ***  [ýÿÿ, Level 0]: 'fluffrit' joined the game
 [2021-04-20 08:48:12]: ERROR [404, Level 76]: BulgarianTee:  they will see
+[2021-04-20 08:48:21]: BulgarianTee [Bulgaria, Level 25]: Nudelsaft c:: it was but now i wont be able to farm XD
+[2021-04-20 08:48:23]: ***  [ýÿÿ, Level 0]: sL|KeBu28 is on a killing spree with 20 blocks
