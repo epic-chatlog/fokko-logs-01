@@ -11229,3 +11229,9 @@
 [2021-04-20 08:13:44]: bob [, Level 36]: ERROR: woher kennst du Zephir ãƒ„
 [2021-04-20 08:13:46]: ***  [ıÿÿ, Level 0]: '(1)Good man' finished the special race!
 [2021-04-20 08:13:49]:   [, Level 0]: ERRORS DAD: ERRORS DAD:  u are my favourtie son
+[2021-04-20 08:13:59]: Ãream [TrRShClNrRs, Level 47]: Zephir ãƒ„: nubu:D
+[2021-04-20 08:14:02]: bob [, Level 36]: ERROR: woher kennst du Zephir ãƒ„
+[2021-04-20 08:14:03]: ***  [ıÿÿ, Level 0]: 'MCgreg Tee' entered and joined the game
+[2021-04-20 08:14:10]: ERROR [404, Level 76]: hier
+[2021-04-20 08:14:10]: ***  [ıÿÿ, Level 0]: sL|KeBu28's killing spree was ended by Hazel (17 blocks)
+[2021-04-20 08:14:10]: Zephir ãƒ„ [404, Level 40]: bob: speack english
