@@ -22109,3 +22109,5 @@
 [2021-04-20 14:40:39]: Isegrin [, Level 55]: Kłosu: f1 kill enter
 [2021-04-20 14:40:39]: bob [, Level 36]: do this  + jump after 1st hammer
 [2021-04-20 14:40:45]: bob [, Level 36]: again
+[2021-04-20 14:40:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-20 14:40:50]: bob [, Level 36]: jumop
