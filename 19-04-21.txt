@@ -21164,3 +21164,5 @@
 [2021-04-19 22:40:25]: ***  [, Level 0]: '(1)SanoreX.*' entered and joined the game
 [2021-04-19 22:40:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-19 22:42:32]: SanoreX [Chilli.*, Level 27]: wait me
+[2021-04-19 22:42:35]: ***  [, Level 0]: 'koko cz' entered and joined the game
+[2021-04-19 22:42:41]: SanoreX [Chilli.*, Level 27]: hi
