@@ -21819,3 +21819,6 @@
 [2021-04-19 23:40:18]: SanoreX [Chilli.*, Level 27]: amka
 [2021-04-19 23:40:30]: Raidon's Pet [, Level 20]: JotaCerve: WAR
 [2021-04-19 23:40:31]: Fearless [, Level 40]: pffff
+[2021-04-19 23:40:38]: ***  [, Level 0]: 'oVerVoLv' entered and joined the game
+[2021-04-19 23:40:43]: ***  [, Level 0]: 'oVerVoLv' has left the game
+[2021-04-19 23:40:43]: ***  [, Level 0]: '(1)Ƭevan' entered and joined the game
