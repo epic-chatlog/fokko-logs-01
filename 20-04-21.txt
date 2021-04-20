@@ -1858,3 +1858,7 @@
 [2021-04-20 01:11:57]: ***  [, Level 0]: 'falkenauge' finished the special race!
 [2021-04-20 01:12:03]: ***  [, Level 0]: '[D] Evaly FBI a' has left the game
 [2021-04-20 01:12:03]: RM | Arin [Retard MNKY, Level 41]: how to teleport to your plot?
+[2021-04-20 01:12:11]: ghp [1234, Level 0]: xaze
+[2021-04-20 01:12:12]: JustRace [404, Level 36]: Isegrin:  bully
+[2021-04-20 01:12:15]: ghp [1234, Level 0]: xaze 1
+[2021-04-20 01:12:21]: vollesprit [, Level 2]: sorry
