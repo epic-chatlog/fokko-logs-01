@@ -21984,3 +21984,6 @@
 [2021-04-20 14:32:51]: ***  [, Level 0]: 'IwillBlockYou' entered and joined the game
 [2021-04-20 14:33:07]: Cylox [{TQuila}, Level 32]: bob: COME
 [2021-04-20 14:33:08]: ***  [, Level 0]: (2)Zʷʰʸˀ is on a killing spree with 5 blocks
+[2021-04-20 14:33:22]: Flipper [, Level 0]: ~DemoizL~ wait
+[2021-04-20 14:33:25]: ***  [, Level 0]: 'Flupper' entered and joined the game
+[2021-04-20 14:33:27]: Zephir ツ [404, Level 40]: Toniloni: i don't remember if we have war or no ?
