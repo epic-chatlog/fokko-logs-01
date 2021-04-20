@@ -20200,3 +20200,5 @@
 [2021-04-19 18:06:09]: Black [, Level 26]: what
 [2021-04-19 18:06:09]: (1)☺ [, Level 26]: Kirito: help me pls
 [2021-04-19 18:06:10]: Black [, Level 26]: e
+[2021-04-19 18:06:16]: (1)☺ [, Level 26]: not here
+[2021-04-19 18:06:21]: Kirito [{TQuila}, Level 41]: where
