@@ -21284,3 +21284,4 @@
 [2021-04-19 23:00:01]: (1)SanoreX [Chilli.*, Level 0]: AMK
 [2021-04-19 23:00:16]: ***  [, Level 0]: 'Noxl' entered and joined the game
 [2021-04-19 23:00:16]: SanoreX [Chilli.*, Level 27]: U BLOCK ME
+[2021-04-19 23:00:31]: kurama [New Gen., Level 0]: who
