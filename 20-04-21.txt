@@ -17663,3 +17663,7 @@
 [2021-04-20 11:26:50]: Green.exe [, Level 0]: Lucas: you want see bug
 [2021-04-20 11:26:55]: ***  [, Level 0]: 'avioocals' entered and joined the game
 [2021-04-20 11:26:56]: ***  [, Level 0]: '[D] BULLETBOT' has left the game
+[2021-04-20 11:26:59]: ***  [, Level 0]: '[D] BULLETBOT' entered and joined the game
+[2021-04-20 11:27:00]: ***  [, Level 0]: SkyForge is on a killing spree with 10 blocks
+[2021-04-20 11:27:03]: ***  [, Level 0]: '[D] BULLETBOT' has left the game
+[2021-04-20 11:27:05]: Green.exe [, Level 0]: Lucas: you have pistol
