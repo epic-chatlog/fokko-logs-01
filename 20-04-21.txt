@@ -17565,3 +17565,9 @@
 [2021-04-20 11:22:10]: |HolyHo|° [FookinLads, Level 11]: [D] El patron: >
 [2021-04-20 11:22:15]: ***  [, Level 0]: Brezn's killing spree was ended by {(.)}  |  Raaaw (7 blocks)
 [2021-04-20 11:22:19]: SkyForge [, Level 22]: Kirito:  are you bullying randos? ._.
+[2021-04-20 11:22:24]: ***  [, Level 0]: 'gamerzerof' joined the spectators
+[2021-04-20 11:22:25]: ***  [, Level 0]: 'GReeeN' entered and joined the game
+[2021-04-20 11:22:26]: ***  [, Level 0]: Abu JAFFAR is on a killing spree with 5 blocks
+[2021-04-20 11:22:28]: ***  [, Level 0]: 'gamerzerof' joined the game
+[2021-04-20 11:22:29]: ***  [, Level 0]: Abu JAFFAR's killing spree was ended by 9628 (5 blocks)
+[2021-04-20 11:22:32]: ***  [, Level 0]: Green.exe is on a killing spree with 5 blocks
