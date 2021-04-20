@@ -14548,3 +14548,8 @@
 [2021-04-20 09:56:47]: ***  [, Level 0]: 'artur_xyz br' entered and joined the game
 [2021-04-20 09:56:47]: YelloWorlD [DogParty, Level 38]: avioocals: ok
 [2021-04-20 09:56:50]: BulgarianTee [Bulgaria, Level 25]: fak srry
+[2021-04-20 09:56:56]: ***  [, Level 0]: 'jeder' entered and joined the game
+[2021-04-20 09:56:59]: ***  [, Level 0]: 'jeder' joined the spectators
+[2021-04-20 09:57:00]: ***  [, Level 0]: '(C)Ali' has left the game (Timeout Protection over)
+[2021-04-20 09:57:00]: ***  [, Level 0]: '█  Zeus  █' has left the game (Timeout Protection over)
+[2021-04-20 09:57:04]: ***  [, Level 0]: 'choc' has left the game
