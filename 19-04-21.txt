@@ -21401,3 +21401,5 @@
 [2021-04-19 23:13:18]: SanoreX [Chilli.*, Level 27]: ««»«»«»«»«»»«xxzx
 [2021-04-19 23:13:23]: ~Never~ [Chilli.*, Level 7]: #5 blocker: what command]
 [2021-04-19 23:13:32]: #5 blocker [Chilli.*, Level 24]: ?
+[2021-04-19 23:13:44]: #5 blocker [Chilli.*, Level 24]: ./stats
+[2021-04-19 23:13:45]: ***  [, Level 0]: Noxl. finished in: 6 minute(s) 32.34 second(s)
