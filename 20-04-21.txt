@@ -21382,3 +21382,6 @@
 [2021-04-20 13:56:05]: ***  [, Level 0]: 'freetee' has left the game
 [2021-04-20 13:56:06]: ***  [, Level 0]: SkyForge is on a killing spree with 5 blocks
 [2021-04-20 13:56:12]: ***  [, Level 0]: 'taco bell' has left the game
+[2021-04-20 13:56:14]: ***  [, Level 0]: 'RM | Arin' left the minigame 'Survival'
+[2021-04-20 13:56:15]: ***  [, Level 0]: mamikral011 is on a killing spree with 10 blocks
+[2021-04-20 13:56:16]: Isegrin [, Level 55]: (2)Zʷʰʸˀ: prank
