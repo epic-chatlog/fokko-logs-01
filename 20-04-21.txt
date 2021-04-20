@@ -8374,3 +8374,5 @@
 [2021-04-20 06:05:50]: ***  [þÿÿ, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-20 06:05:51]: ***  [þÿÿ, Level 0]: '__init__(self):' has left the game
 [2021-04-20 06:05:51]: ***  [þÿÿ, Level 0]: '(1)f"{self.name}' has left the game
+[2021-04-20 06:06:03]: RGB [R, Level 23]: Black: hla
+[2021-04-20 06:06:07]: ***  [þÿÿ, Level 0]: 'adamabel' joined the spectators
