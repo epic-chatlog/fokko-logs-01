@@ -16727,3 +16727,8 @@
 [2021-04-20 10:52:17]: Kirito [{TQuila}, Level 41]: '[d] NuDeLsAfT C' hAs lEfT ThE GaMe
 [2021-04-20 10:52:17]: (2)Kirito [{TQuila}, Level 27]: '[d] NuDeLsAfT C' hAs lEfT ThE GaMe
 [2021-04-20 10:52:17]: (3)Kirito [{TQuila}, Level 12]: '[d] NuDeLsAfT C' hAs lEfT ThE GaMe
+[2021-04-20 10:52:25]: Brezn [, Level 33]: Salut: why=
+[2021-04-20 10:52:25]: (1)Kirito [{TQuila}, Level 15]: sAlUt: WhY=
+[2021-04-20 10:52:25]: (2)Kirito [{TQuila}, Level 27]: sAlUt: WhY=
+[2021-04-20 10:52:25]: (3)Kirito [{TQuila}, Level 12]: sAlUt: WhY=
+[2021-04-20 10:52:25]: Kirito [{TQuila}, Level 41]: sAlUt: WhY=
