@@ -23695,3 +23695,6 @@
 [2021-04-20 16:52:48]: ***  [, Level 0]: 'nickid' has left the game
 [2021-04-20 16:52:55]: Cup [, Level 0]: freeze me
 [2021-04-20 16:53:01]: GODLIKe [, Level 44]: QWOEKPĞLQWE
+[2021-04-20 16:53:05]: Cup [, Level 0]: laggg
+[2021-04-20 16:53:08]: GODLIKe [, Level 44]: fast nerf bonus xd
+[2021-04-20 16:53:10]: ERROR [404, Level 76]: ### change name ir war
