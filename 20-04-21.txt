@@ -248,3 +248,8 @@
 [2021-04-20 00:09:41]: SanoreX.* [Chilli.*, Level 23]: wait
 [2021-04-20 00:09:41]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:09:46]: Raidon [, Level 24]: SanoreX.*: mal aq şalsdkaşsld
+[2021-04-20 00:09:51]: SanoreX.* [Chilli.*, Level 23]: Raidon: kim
+[2021-04-20 00:09:54]: SanoreX.* [Chilli.*, Level 23]: adammı
+[2021-04-20 00:09:56]: Raidon [, Level 24]: evet
+[2021-04-20 00:09:59]: Raidon [, Level 24]: kill çekti slk
+[2021-04-20 00:09:59]: SanoreX.* [Chilli.*, Level 23]: Raidon: evt
