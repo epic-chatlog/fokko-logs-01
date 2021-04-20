@@ -18634,3 +18634,9 @@
 [2021-04-20 12:00:33]:   [, Level 0]: (1)☺: cest quoi le vip Zephir ツ
 [2021-04-20 12:00:35]: weqe [669, Level 13]: bob: wtf
 [2021-04-20 12:00:37]: ***  [, Level 0]: Chillingo is on a killing spree with 10 blocks
+[2021-04-20 12:00:41]: :D [E8, Level 6]: me frind sorry me you enemy no help again
+[2021-04-20 12:00:49]: ***  [, Level 0]: '(1)Kirito' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-20 12:00:49]: ***  [, Level 0]: '(2)Kirito' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-20 12:00:49]: ***  [, Level 0]: 'Kirito' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-20 12:00:49]: ***  [, Level 0]: '(3)Kirito' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-20 12:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
