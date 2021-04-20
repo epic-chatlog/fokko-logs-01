@@ -20132,3 +20132,5 @@
 [2021-04-19 17:58:34]: nar [ComRoach, Level 19]: Black: ana ma ktlto
 [2021-04-19 17:58:43]: nar [ComRoach, Level 19]: hwh ktln
 [2021-04-19 17:58:51]: nar [ComRoach, Level 19]: lany sa3dt flap
+[2021-04-19 17:59:01]: Black [, Level 26]: Kirito: he said that he havent killed u
+[2021-04-19 17:59:03]: Black [, Level 26]: u did
