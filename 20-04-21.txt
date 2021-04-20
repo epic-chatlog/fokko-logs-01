@@ -21449,3 +21449,4 @@
 [2021-04-20 14:00:36]: ***  [, Level 0]: 'tloRIAN' has left the game
 [2021-04-20 14:00:41]: █  Zeus  █ [, Level 0]: Axandos:  i not save him
 [2021-04-20 14:00:44]: █  Zeus  █ [, Level 0]: pls help
+[2021-04-20 14:00:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
