@@ -21344,3 +21344,7 @@
 [2021-04-19 23:07:01]: #5 blocker [Chilli.*, Level 24]: my plot yesssssssssssssssssssssss
 [2021-04-19 23:07:05]: ***  [, Level 0]: 'Tom' has left the game
 [2021-04-19 23:07:16]: SanoreX.* [Chilli.*, Level 23]: iydrss:
+[2021-04-19 23:07:17]: SanoreX.* [Chilli.*, Level 23]: iydrss: knk
+[2021-04-19 23:07:21]: [D] iydrss [, Level 11]: he
+[2021-04-19 23:07:22]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-19 23:07:27]: [D] iydrss [, Level 11]: efndm
