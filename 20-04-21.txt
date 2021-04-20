@@ -19437,3 +19437,6 @@
 [2021-04-20 12:28:53]: ***  [, Level 0]: 'TopHat' has left the game
 [2021-04-20 12:28:53]: ***  [, Level 0]: 'BlockTop' has left the game
 [2021-04-20 12:28:56]: Meetiteusz [TrRShClNrRs, Level 29]: ChillerDragon: i have more important things to do than writing you but yes
+[2021-04-20 12:29:02]: ***  [, Level 0]: 'Petyr' has left the game
+[2021-04-20 12:29:03]: {(.)}  |  Raaaw [{(.)} GP, Level 31]: iMxtteo:
+[2021-04-20 12:29:04]: ***  [, Level 0]: 'nameless' has left the game
