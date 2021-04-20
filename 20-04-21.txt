@@ -17513,3 +17513,5 @@
 [2021-04-20 11:19:27]: P4Pyr0s [, Level 25]: forget it ^^
 [2021-04-20 11:19:36]: ***  [, Level 0]: 'Mista bombastic' has left the game
 [2021-04-20 11:19:39]: ***  [, Level 0]: 'Toxic Rick' entered and joined the game
+[2021-04-20 11:19:44]: ***  [, Level 0]: '(1)nameless tee' has left the game
+[2021-04-20 11:19:45]: ***  [, Level 0]: 'nameless tee' entered and joined the game
