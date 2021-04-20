@@ -20487,3 +20487,5 @@
 [2021-04-19 18:41:47]: ***  [, Level 0]: 'red' entered and joined the game
 [2021-04-19 18:41:47]: ***  [, Level 0]: 'chanhui' has left the game
 [2021-04-19 18:41:59]: (1)☺ [, Level 26]: after take the flag red on flappy
+[2021-04-19 18:42:29]: (1)☺ [, Level 26]: WTF
+[2021-04-19 18:42:29]: ***  [, Level 0]: 'TL|ŦƹƦ$ŦǾN' entered and joined the game
