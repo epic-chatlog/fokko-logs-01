@@ -9987,3 +9987,7 @@
 [2021-04-20 07:18:15]: ***  [ýÿÿ, Level 0]: 'adamabel' entered and joined the game
 [2021-04-20 07:18:18]: ***  [ýÿÿ, Level 0]: 'adamabel' has left the game
 [2021-04-20 07:18:18]: BulgarianTee [Bulgaria, Level 0]: ;c
+[2021-04-20 07:18:21]: El patron [FookinLads, Level 31]: Zephir ãƒ„:   nudelsaft killed us
+[2021-04-20 07:18:28]: Raidon [, Level 24]: why
+[2021-04-20 07:18:30]: ***  [ýÿÿ, Level 0]: 'Raidon' has left the game
+[2021-04-20 07:18:31]: Zephir ãƒ„ [404, Level 40]: Nudelsaft c:: wtf ?
