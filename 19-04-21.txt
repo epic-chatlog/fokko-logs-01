@@ -20055,3 +20055,5 @@
 [2021-04-19 17:42:10]: (1)☺ [, Level 26]: bref quoi
 [2021-04-19 17:42:13]: Zephir ツ [404, Level 40]: bonne nuit / good night
 [2021-04-19 17:42:18]: (1)☺ [, Level 26]: bye
+[2021-04-19 17:42:27]: ***  [, Level 0]: 'Kenshi ツ' has left the game
+[2021-04-19 17:42:27]: ***  [, Level 0]: 'Zephir ツ' has left the game
