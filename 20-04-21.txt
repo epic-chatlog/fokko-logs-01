@@ -22725,3 +22725,6 @@
 [2021-04-20 15:20:08]: ***  [, Level 0]: 'L1P3KC' joined the spectators
 [2021-04-20 15:20:12]: ***  [, Level 0]: 'L1P3KC' joined the game
 [2021-04-20 15:20:19]: [D] ERROR [404, Level 57]: Zephir ツ:  protect me im on my lil tablet at work i cant play normal
+[2021-04-20 15:20:34]: Zephir ツ [404, Level 40]: ERROR: im afk.. i come in 30 minutes
+[2021-04-20 15:20:37]: [D] ERROR [404, Level 57]: kk
+[2021-04-20 15:20:38]: bob [, Level 36]: Retard Arin ;): pro
