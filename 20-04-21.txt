@@ -21722,3 +21722,6 @@
 [2021-04-20 14:15:20]: ***  [, Level 0]: 'pollice helper' has left the game
 [2021-04-20 14:15:20]: ***  [, Level 0]: 'police officer' has left the game
 [2021-04-20 14:15:25]: JotaCerve [, Level 0]: how
+[2021-04-20 14:15:31]: JotaCerve [, Level 0]: noname: how did you activate that portal
+[2021-04-20 14:15:36]: noname [, Level 21]: i didnt
+[2021-04-20 14:15:39]: Cylox [{TQuila}, Level 32]: Foxie♥: foxieee
