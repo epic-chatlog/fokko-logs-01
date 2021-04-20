@@ -1139,3 +1139,10 @@
 [2021-04-20 00:46:04]: rexi [, Level 0]: power2:
 [2021-04-20 00:46:04]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:46:06]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:46:14]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:46:16]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:46:20]: SanoreX [Chilli.*, Level 27]: RM | Arin: plot 1 ur?
+[2021-04-20 00:46:22]: Meetiteusz [TrRShClNrRs, Level 29]: power2: look now on tevan xD
+[2021-04-20 00:46:22]: SanoreX [Chilli.*, Level 27]: or 1
+[2021-04-20 00:46:23]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:46:24]: SanoreX [Chilli.*, Level 27]: or 2
