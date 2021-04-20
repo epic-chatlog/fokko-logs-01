@@ -7730,3 +7730,7 @@
 [2021-04-20 05:21:50]: ***  [, Level 0]: 'løminatiøn·' has left the game (Timeout)
 [2021-04-20 05:21:52]: Black [, Level 0]: ??
 [2021-04-20 05:21:53]: rexi [, Level 0]: ich komm nicht hoch
+[2021-04-20 05:21:59]: ***  [, Level 0]: 'Lakatos Mario' would have timed out, but can use timeout protection now
+[2021-04-20 05:22:03]: SanoreX.* [Chilli.*, Level 23]: omg
+[2021-04-20 05:22:03]: Black [, Level 0]: ur server is bad asf
+[2021-04-20 05:22:03]: rexi [, Level 0]: halleluja
