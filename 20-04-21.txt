@@ -107,3 +107,8 @@
 [2021-04-20 00:04:41]: Raidon [, Level 24]: Jeloudagh: bro
 [2021-04-20 00:04:46]: ***  [, Level 0]: 'Rz5z' has left the game
 [2021-04-20 00:04:48]: Raidon [, Level 24]: Jeloudagh: f1 > bind q kill > press q
+[2021-04-20 00:04:54]: Noxl [.bad, Level 48]: (1)cat: wtff
+[2021-04-20 00:04:57]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:04:59]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:05:00]: Raidon [, Level 24]: Jeloudagh: f1 > bind q kill > press q (you can kill)
+[2021-04-20 00:05:03]: ***  [, Level 0]: 'Nightmare' entered and joined the game
