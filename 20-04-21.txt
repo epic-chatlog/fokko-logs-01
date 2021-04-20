@@ -17488,3 +17488,8 @@
 [2021-04-20 11:17:41]: Taip [VergleriSay, Level 20]: Isegrin bro
 [2021-04-20 11:17:44]: ***  [, Level 0]: 'gamerzerof' joined the spectators
 [2021-04-20 11:17:50]: Zephir ツ [404, Level 40]: Kaptar: alors essaye pas
+[2021-04-20 11:17:50]: ***  [, Level 0]: 'gamerzerof' joined the game
+[2021-04-20 11:17:51]: ***  [, Level 0]: 'ördek' has left the game
+[2021-04-20 11:17:55]: P4Pyr0s [, Level 0]: RM | Arin:  seit wann so bad
+[2021-04-20 11:17:55]: Taip [VergleriSay, Level 20]: Isegrin bro
+[2021-04-20 11:18:01]: ***  [, Level 0]: 'artur_xyz br' has left the game (Too weak connection (not acked for 60 seconds))
