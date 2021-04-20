@@ -21295,3 +21295,6 @@
 [2021-04-19 23:01:42]: ***  [, Level 0]: '#5 blocker' has left the game (Timeout Protection over)
 [2021-04-19 23:01:42]: ***  [, Level 0]: '[D] #5 blocker' has left the game (Timeout Protection over)
 [2021-04-19 23:01:49]: ~Never~ [Chilli.*, Level 7]: ?
+[2021-04-19 23:02:24]: SanoreX [Chilli.*, Level 27]: kurama: come
+[2021-04-19 23:02:27]: kurama [New Gen., Level 0]: SanoreX:
+[2021-04-19 23:02:30]: kurama [New Gen., Level 0]: SanoreX: where
