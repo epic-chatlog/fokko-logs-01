@@ -21583,3 +21583,8 @@
 [2021-04-20 14:07:54]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 14:07:56]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 14:08:00]: mamikral011 [DogParty, Level 22]: fokkonaut: fuck
+[2021-04-20 14:08:04]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 14:08:05]: Kiko [, Level 7]: mamikral011: XDDD
+[2021-04-20 14:08:06]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 14:08:07]: mamikral011 [DogParty, Level 22]: fokkonaut: thank
+[2021-04-20 14:08:16]: ***  [, Level 0]: 'pao com banana' entered and joined the game
