@@ -20228,3 +20228,5 @@
 [2021-04-19 18:10:58]: ***  [, Level 0]: '(1)☺' left the minigame 'Block'
 [2021-04-19 18:11:07]: ***  [, Level 0]: Chillingo is on a killing spree with 15 blocks
 [2021-04-19 18:11:08]: Kirito [{TQuila}, Level 41]: oh
+[2021-04-19 18:11:20]: Black [, Level 26]: can we kick Chillingo
+[2021-04-19 18:11:20]: ***  [, Level 0]: Chillingo's killing spree was ended by Kirito (15 blocks)
