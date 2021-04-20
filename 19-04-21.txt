@@ -20669,3 +20669,6 @@
 [2021-04-19 19:08:55]: Gren [, Level 23]: Black: came wath |HolyHo|
 [2021-04-19 19:08:56]: Black [, Level 26]: are u sure u want to do this bob ?
 [2021-04-19 19:09:01]: Black [, Level 26]: Gren: NO]
+[2021-04-19 19:09:05]: bob [, Level 36]: Black: red is war
+[2021-04-19 19:09:06]: red [, Level 19]: Black: whi
+[2021-04-19 19:09:07]: bob [, Level 36]: u help
