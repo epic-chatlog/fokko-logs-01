@@ -20523,3 +20523,4 @@
 [2021-04-19 18:51:33]: (1)☺ [, Level 26]: fast
 [2021-04-19 18:51:54]: Killua [FookinLads, Level 37]: bob i want to add something to my discord bot. the bot can already add/remove people to/from team/war list, i can see if they are online and their level
 [2021-04-19 18:52:06]: Killua [FookinLads, Level 37]: bob i can already read messages in discord written ingame live
+[2021-04-19 18:52:12]: Killua [FookinLads, Level 37]: bob i can already send messages from discord to game
