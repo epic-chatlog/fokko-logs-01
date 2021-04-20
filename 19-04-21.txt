@@ -20672,3 +20672,6 @@
 [2021-04-19 19:09:05]: bob [, Level 36]: Black: red is war
 [2021-04-19 19:09:06]: red [, Level 19]: Black: whi
 [2021-04-19 19:09:07]: bob [, Level 36]: u help
+[2021-04-19 19:09:16]: red [, Level 19]: bob: you start
+[2021-04-19 19:09:23]: Black [, Level 26]: bob: yeah ok
+[2021-04-19 19:09:25]: bob [, Level 36]: Killua: help
