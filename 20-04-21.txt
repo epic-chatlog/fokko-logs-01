@@ -14748,3 +14748,7 @@
 [2021-04-20 10:04:45]: Ðeathscyth [, Level 3]: teec tac: bruh
 [2021-04-20 10:04:53]: ***  [, Level 0]: 'Vertex' entered and joined the game
 [2021-04-20 10:04:56]: comic [comically, Level 15]: Hazel: imma go now
+[2021-04-20 10:05:02]: ***  [, Level 0]: 'kurama' entered and joined the game
+[2021-04-20 10:05:08]: Hazel [, Level 0]: no
+[2021-04-20 10:05:09]: ***  [, Level 0]: '(1)teec tac' entered and joined the game
+[2021-04-20 10:05:09]: Hazel [, Level 0]: comic:  :c
