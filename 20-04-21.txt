@@ -13491,3 +13491,10 @@
 [2021-04-20 09:22:17]: ***  [, Level 0]: 'tee' has left the game
 [2021-04-20 09:22:17]: (2)MOM [, Level 23]: WHY
 [2021-04-20 09:22:19]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-20 09:22:20]:   [, Level 0]: yair: xd
+[2021-04-20 09:22:27]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-20 09:22:27]: ***  [, Level 0]: '[BOT-GG]=:":' has left the game
+[2021-04-20 09:22:27]: ***  [, Level 0]: 'fluffrit' has left the game
+[2021-04-20 09:22:27]: ***  [, Level 0]: '[HELP=12$]' has left the game
+[2021-04-20 09:22:28]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-20 09:22:31]: ***  [, Level 0]: '[SHOP]' has left the game
