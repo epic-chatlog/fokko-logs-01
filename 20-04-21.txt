@@ -10038,3 +10038,7 @@
 [2021-04-20 07:20:30]:   [, Level 0]: Falco642: im in one
 [2021-04-20 07:20:30]:   [, Level 0]: avioocals: x
 [2021-04-20 07:20:31]:   [, Level 0]: soleri1: BC|serwan: come
+[2021-04-20 07:20:50]: ***  [ýÿÿ, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-20 07:20:54]: ***  [ýÿÿ, Level 0]: 'bob' entered and joined the game
+[2021-04-20 07:20:56]: vollesprit [, Level 4]: Falco642 no
+[2021-04-20 07:20:59]: ***  [ýÿÿ, Level 0]: sL|KeBu28 is on a killing spree with 5 blocks
