@@ -20647,3 +20647,9 @@
 [2021-04-20 13:21:21]: El patron [FookinLads, Level 0]: Axandos: kommst du
 [2021-04-20 13:21:21]: ***  [, Level 0]: nenny is on a killing spree with 15 blocks
 [2021-04-20 13:21:22]:   [, Level 0]: █  Zeus  █: Lord11:  sen hüso musun
+[2021-04-20 13:21:27]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-20 13:21:27]: ***  [, Level 0]: '__init__(self):' has left the game
+[2021-04-20 13:21:28]: ***  [, Level 0]: nenny's killing spree was ended by RM | Arin (15 blocks)
+[2021-04-20 13:21:29]: mamikral011 [DogParty, Level 22]: Axel ²: come
+[2021-04-20 13:21:30]: ***  [, Level 0]: 'woona' has left the game
+[2021-04-20 13:21:33]:   [, Level 0]: Axandos: El patron:  ja ez 10 vs 1
