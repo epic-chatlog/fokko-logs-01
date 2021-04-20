@@ -5931,3 +5931,6 @@
 [2021-04-20 04:07:33]: ***  [, Level 0]: 'Bugi' has left the game
 [2021-04-20 04:07:34]: İchMichel [{TQuila}, Level 32]: benıum cylox
 [2021-04-20 04:07:40]: İchMichel [{TQuila}, Level 32]: alsana
+[2021-04-20 04:07:42]: ***  [, Level 0]: 'İchMichel.' has left the game
+[2021-04-20 04:07:45]: ***  [, Level 0]: Ravinan's killing spree was ended by Chillingo (16 blocks)
+[2021-04-20 04:07:48]: ***  [, Level 0]: 'İchMichel.' entered and joined the game
