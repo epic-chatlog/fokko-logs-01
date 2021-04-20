@@ -17973,3 +17973,6 @@
 [2021-04-20 11:38:30]:   [, Level 0]: ZEUS: Sayme he are noob
 [2021-04-20 11:38:36]: police officer [, Level 1]: KIRITO
 [2021-04-20 11:38:43]: police officer [, Level 1]: kirito
+[2021-04-20 11:38:52]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 11:38:54]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 11:38:58]:   [, Level 0]: не обижа: цеа
