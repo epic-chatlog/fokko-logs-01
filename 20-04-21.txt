@@ -5362,3 +5362,8 @@
 [2021-04-20 03:38:54]:   [, Level 0]: Intensiv_: Kenshi ツ:  help
 [2021-04-20 03:38:59]: Ðeathscyth [, Level 3]: Zephir ツ: help
 [2021-04-20 03:39:24]: ***  [, Level 0]: 'ChillerDragon.*' changed name to 'avioocals'
+[2021-04-20 03:39:28]:   [, Level 0]: Intensiv_: koro:  hacked
+[2021-04-20 03:39:33]: ***  [, Level 0]: 'sta' has left the game
+[2021-04-20 03:39:33]: ***  [, Level 0]: 'at insan' has left the game
+[2021-04-20 03:39:33]: ***  [, Level 0]: 'vollesprit' has left the game (Timeout)
+[2021-04-20 03:39:38]: ***  [, Level 0]: 'Ravinan' entered and joined the game
