@@ -7909,3 +7909,5 @@
 [2021-04-20 05:35:01]: GReeeN [, Level 41]: fokkonaut:  fix it
 [2021-04-20 05:35:01]: SanoreX [Chilli.*, Level 27]: gaynaut
 [2021-04-20 05:35:26]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-20 05:35:46]: ***  [, Level 0]: 'Axandos' has left the game (Timeout)
+[2021-04-20 05:35:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
