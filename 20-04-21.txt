@@ -20471,3 +20471,9 @@
 [2021-04-20 13:14:24]: HardreenClutch [\ЧՁθ/, Level 57]: El patron:  schreib ihn auf die liste
 [2021-04-20 13:14:25]: Axandos² [, Level 21]: El patron:  du hast mir nicht geholfen El patron
 [2021-04-20 13:14:30]: mamikral011 [DogParty, Level 22]: Kirito: portal
+[2021-04-20 13:14:31]: ***  [, Level 0]: 'Matiteusz' has left the game
+[2021-04-20 13:14:33]: El patron [FookinLads, Level 0]: Axandos²: cool
+[2021-04-20 13:14:34]: f"{self.name}" [, Level 18]: RM | Arin: so youre scared noob ok
+[2021-04-20 13:14:34]: ***  [, Level 0]: RM | Arin is on a killing spree with 5 blocks
+[2021-04-20 13:14:36]: HardreenClutch [\ЧՁθ/, Level 57]: El patron:  damit Axandos  schön spaß hat gehasst zu werden von allen
+[2021-04-20 13:14:40]: ***  [, Level 0]: 'Victor_Iz' has left the game
