@@ -7971,3 +7971,5 @@
 [2021-04-20 05:45:49]: nenny [doq, Level 0]: Black: ok
 [2021-04-20 05:45:50]: ***  [þÿÿ, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-20 05:46:16]: ***  [þÿÿ, Level 0]: 'Pouet[NR]' entered and joined the game
+[2021-04-20 05:46:18]: Black [, Level 0]: lag
+[2021-04-20 05:46:29]: ***  [þÿÿ, Level 0]: 'totaly friendly' entered and joined the game
