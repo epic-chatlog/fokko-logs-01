@@ -3836,3 +3836,7 @@
 [2021-04-20 02:29:53]: ***  [, Level 0]: '(1)' entered and joined the game
 [2021-04-20 02:29:53]: ***  [, Level 0]: '(1)' has left the game
 [2021-04-20 02:29:54]: Arktict [, Level 31]: Zephir ツ:
+[2021-04-20 02:30:00]: ***  [, Level 0]: 'El Monkey' entered and joined the game
+[2021-04-20 02:30:01]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-20 02:30:02]: ***  [, Level 0]: '(1)' entered and joined the game
+[2021-04-20 02:30:04]: Arktict [, Level 31]: sun.slow(y):
