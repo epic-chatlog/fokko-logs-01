@@ -9070,3 +9070,7 @@
 [2021-04-20 06:35:43]: ***  [şÿÿ, Level 0]: 'pomarancz' joined the game
 [2021-04-20 06:35:44]: ***  [şÿÿ, Level 0]: HardreenClutch is on a killing spree with 15 blocks
 [2021-04-20 06:35:45]:   [, Level 0]: Black: power2: (1)Salut stop now
+[2021-04-20 06:35:50]: ***  [şÿÿ, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-20 06:35:53]: ***  [şÿÿ, Level 0]: 'pomarancz' has left the game
+[2021-04-20 06:35:53]: ***  [şÿÿ, Level 0]: 'hello' has left the game
+[2021-04-20 06:36:00]: *ExTr1Me* [DDMI, Level 0]: Ğ° Ğ³Ğ´Ğµ ÑÑƒĞ¿ĞµÑ€
