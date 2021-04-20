@@ -22413,3 +22413,5 @@
 [2021-04-20 14:56:02]: cunt [TrRShClNrRs, Level 0]: lomy: yes
 [2021-04-20 14:56:06]: cunt [TrRShClNrRs, Level 0]: lomy: im sorry for that
 [2021-04-20 14:56:07]: ***  [, Level 0]: '你好`keeper' entered and joined the game
+[2021-04-20 14:56:16]: lomy [, Level 0]: cunt: np
+[2021-04-20 14:56:22]: ***  [, Level 0]: '你好`keeper' changed name to 'keepertrain._.'
