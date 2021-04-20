@@ -21204,3 +21204,4 @@
 [2021-04-19 22:50:38]: [D] #5 blocker [Chilli.*, Level 0]: XDDDDDDDDDDDú
 [2021-04-19 22:50:39]: (1)SanoreX.* [Chilli.*, Level 0]: what the fuclk
 [2021-04-19 22:50:40]: kurama [New Gen., Level 0]: xD
+[2021-04-19 22:50:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
