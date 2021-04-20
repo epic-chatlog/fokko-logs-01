@@ -17529,3 +17529,5 @@
 [2021-04-20 11:20:27]: ***  [, Level 0]: 'gamerzerof' joined the spectators
 [2021-04-20 11:20:28]: ***  [, Level 0]: 'Ļåҕ | Tare' entered and joined the game
 [2021-04-20 11:20:30]: ***  [, Level 0]: 'gamerzerof' joined the game
+[2021-04-20 11:20:40]: ***  [, Level 0]: 'gamerzerof' joined the spectators
+[2021-04-20 11:20:40]: Kirito [{TQuila}, Level 41]: for what Salut ?
