@@ -21432,3 +21432,7 @@
 [2021-04-19 23:15:58]: SanoreX [Chilli.*, Level 27]: f-ddrace/build/autoexec.cfg
 [2021-04-19 23:15:58]: Raidon [, Level 24]: buildin içinemi
 [2021-04-19 23:16:00]: SanoreX [Chilli.*, Level 27]: evt
+[2021-04-19 23:16:04]: ***  [, Level 0]: 'JustRace' entered and joined the game
+[2021-04-19 23:16:11]: Raidon [, Level 24]: release kullanıyom ona atcam dimi
+[2021-04-19 23:16:11]: ***  [, Level 0]: 'Magi:' entered and joined the game
+[2021-04-19 23:16:15]: SanoreX [Chilli.*, Level 27]: evt
