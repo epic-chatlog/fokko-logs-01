@@ -9111,3 +9111,7 @@
 [2021-04-20 06:37:12]: (1)ERROR [404, Level 25]: xDDDD
 [2021-04-20 06:37:13]: *ExTr1Me* [DDMI, Level 0]: 8 Ð¿Ñ€Ñ‹Ð¶ÐºÐ¾Ð²
 [2021-04-20 06:37:14]: BC|Tixnix [BC, Level 35]: Nudelsaft c:: ;-(
+[2021-04-20 06:37:19]: HardreenClutch [, Level 57]: ERROR:  xD
+[2021-04-20 06:37:21]: ***  [þÿÿ, Level 0]: 'RÑ”Ä¸Ïƒâœ˜' has left the game
+[2021-04-20 06:37:23]: [D] Nightmare [, Level 0]: El patron: yoo
+[2021-04-20 06:37:28]: ***  [þÿÿ, Level 0]: [D] BC|serwan is on a killing spree with 5 blocks
