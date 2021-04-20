@@ -15333,3 +15333,7 @@
 [2021-04-20 10:29:43]: [D] El patron [FookinLads, Level 24]: Kirito:  cry
 [2021-04-20 10:29:44]:   [, Level 0]: yair: omg
 [2021-04-20 10:29:45]:   [, Level 0]: yair: dude
+[2021-04-20 10:29:52]: Cylox [{TQuila}, Level 32]: bob:
+[2021-04-20 10:29:53]: ***  [, Level 0]: '[d]' entered and joined the game
+[2021-04-20 10:29:57]: bob [, Level 36]: [D] Cylox: where
+[2021-04-20 10:29:58]: Cylox [{TQuila}, Level 32]: bob: lrgy
