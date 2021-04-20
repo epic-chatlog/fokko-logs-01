@@ -10841,3 +10841,7 @@
 [2021-04-20 07:55:16]:   [, Level 0]: S Y T H N: ReXi: miess
 [2021-04-20 07:55:19]: BulgarianTee [Bulgaria, Level 0]: ERROR: ah yeah
 [2021-04-20 07:55:20]: BulgarianTee [Bulgaria, Level 0]: ERROR: XD
+[2021-04-20 07:55:27]: ***  [ýÿÿ, Level 0]: ERROR is on a killing spree with 15 blocks
+[2021-04-20 07:55:27]: ERROR [404, Level 76]: xD
+[2021-04-20 07:55:35]: bob [, Level 36]: GReeeN
+[2021-04-20 07:55:37]: BulgarianTee [Bulgaria, Level 0]: GReeeN: u
