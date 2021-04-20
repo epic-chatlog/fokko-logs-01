@@ -1135,3 +1135,7 @@
 [2021-04-20 00:45:55]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:45:55]: SanoreX [Chilli.*, Level 27]: RM | Arin: pls do in my plot
 [2021-04-20 00:45:57]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:46:00]: SanoreX [Chilli.*, Level 27]: or I sad
+[2021-04-20 00:46:04]: rexi [, Level 0]: power2:
+[2021-04-20 00:46:04]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:46:06]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
