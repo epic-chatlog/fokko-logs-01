@@ -8033,3 +8033,8 @@
 [2021-04-20 05:51:11]: ***  [þÿÿ, Level 0]: 'totaly friendly' has left the game (Timeout)
 [2021-04-20 05:51:11]: ***  [þÿÿ, Level 0]: 'thekewsik' has left the game (Timeout)
 [2021-04-20 05:51:11]: BulgarianTee [Bulgaria, Level 0]: TL|Å¦Æ¹Æ¦$Å¦Ç¾N: bruh
+[2021-04-20 05:51:16]: ***  [þÿÿ, Level 0]: 'totaly friendly' entered and joined the game
+[2021-04-20 05:51:17]: ***  [þÿÿ, Level 0]: '(1)ZEWO' entered and joined the game
+[2021-04-20 05:51:17]: ***  [þÿÿ, Level 0]: 'f"{self.name}"' would have timed out, but can use timeout protection now
+[2021-04-20 05:51:25]: BulgarianTee [Bulgaria, Level 0]: TL|Å¦Æ¹Æ¦$Å¦Ç¾N: is that a way to tell me "come raid me nob idc what u do war4life"?
+[2021-04-20 05:51:27]: ***  [þÿÿ, Level 0]: 'Ð²Ð¾Ð²Ð°Ð½' has left the game
