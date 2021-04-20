@@ -22018,3 +22018,12 @@
 [2021-04-19 23:52:50]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-19 23:52:51]: Raidon [, Level 24]: SanoreX: köşeye geç shot gun bişeler yap
 [2021-04-19 23:52:52]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:52:59]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:52:59]: SanoreX.* [Chilli.*, Level 23]: Raidon: ok
+[2021-04-19 23:53:01]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:53:02]: MysterX [AoT Fan, Level 0]: Gren: ez
+[2021-04-19 23:53:07]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:53:08]: ***  [, Level 0]: 'Kiøn1029' entered and joined the game
+[2021-04-19 23:53:09]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:53:09]: Intensiv [DogParty, Level 18]: help
+[2021-04-19 23:53:10]: SanoreX [Chilli.*, Level 27]: ya lag
