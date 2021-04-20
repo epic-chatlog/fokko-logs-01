@@ -20258,3 +20258,6 @@
 [2021-04-19 18:15:59]: Black [, Level 26]: 4
 [2021-04-19 18:15:59]: Kirito [{TQuila}, Level 41]: from 6 to 3?
 [2021-04-19 18:16:04]: Black [, Level 26]: wtf
+[2021-04-19 18:16:06]: Kirito [{TQuila}, Level 41]: 6 to 9 i mean
+[2021-04-19 18:16:08]: Black [, Level 26]: 6!!!!!!!!
+[2021-04-19 18:16:15]: Kirito [{TQuila}, Level 41]: 7-4 its now
