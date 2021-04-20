@@ -21332,3 +21332,5 @@
 [2021-04-19 23:05:06]: SanoreX.* [Chilli.*, Level 23]: Noxl: u have portalrifle?
 [2021-04-19 23:05:12]: kurama [New Gen., Level 0]: SanoreX.*: bbb
 [2021-04-19 23:05:23]: kurama [New Gen., Level 0]: Tom:  hey tom
+[2021-04-19 23:05:28]: #5 blocker [Chilli.*, Level 24]: SanoreX: look
+[2021-04-19 23:05:39]: ***  [, Level 0]: 'kurama' has left the game
