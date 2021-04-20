@@ -21717,3 +21717,8 @@
 [2021-04-19 23:33:36]: Raidon [, Level 0]: SanoreX: ben local host geçiyom
 [2021-04-19 23:33:36]: ***  [, Level 0]: 'JotaCerve' entered and joined the game
 [2021-04-19 23:33:39]: SanoreX [Chilli.*, Level 27]: Raidon: ok
+[2021-04-19 23:33:42]: Gren [, Level 23]: leser
+[2021-04-19 23:33:45]: ***  [, Level 0]: '~Never~' has left the game
+[2021-04-19 23:33:46]: Raidon [, Level 0]: SanoreX: sende gel ya
+[2021-04-19 23:33:47]: Fearless [, Level 40]: Gren:  stfu fair fight
+[2021-04-19 23:33:49]: SanoreX [Chilli.*, Level 27]: Raidon: yok
