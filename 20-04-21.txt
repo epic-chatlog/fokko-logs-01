@@ -400,3 +400,6 @@
 [2021-04-20 00:17:54]: ***  [, Level 0]: 'OwO' has left the game
 [2021-04-20 00:17:58]: ***  [, Level 0]: 'power' entered and joined the game
 [2021-04-20 00:18:01]: Kezo [DogParty, Level 41]: Nightmare: i dont want cuz he helper
+[2021-04-20 00:18:11]: [D] Nightmare [, Level 20]: Kezo: ok let's see what yelloworld said
+[2021-04-20 00:18:13]: ***  [, Level 0]: 'dr.domifixtdich' has left the game
+[2021-04-20 00:18:16]: [D] Nightmare [, Level 20]: Kezo: and error too
