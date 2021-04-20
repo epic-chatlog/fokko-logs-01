@@ -21487,3 +21487,6 @@
 [2021-04-19 23:19:59]: #5 blocker [Chilli.*, Level 24]: SanoreX: wait chill
 [2021-04-19 23:20:01]: ~Never~ [Chilli.*, Level 7]: JustRace: bot
 [2021-04-19 23:20:09]: JustRace [404, Level 0]: cl_aimbot 1
+[2021-04-19 23:20:20]: SanoreX [Chilli.*, Level 27]: cl_aimbot 0
+[2021-04-19 23:20:22]: ~Never~ [Chilli.*, Level 7]: xD
+[2021-04-19 23:20:22]: SanoreX [Chilli.*, Level 27]: DONT OPEN
