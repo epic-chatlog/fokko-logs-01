@@ -55,3 +55,5 @@
 [2021-04-20 00:02:01]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:02:05]: insta-GH___PRQ [GH, Level 23]: Noxl: help flappy
 [2021-04-20 00:02:07]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:02:09]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:02:14]: SanoreX [Chilli.*, Level 27]: knk yeneriz
