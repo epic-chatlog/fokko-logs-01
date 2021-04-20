@@ -21035,3 +21035,4 @@
 [2021-04-19 20:53:46]: ZillyDreck [3, Level 0]: Bye! Come back if you need something.
 [2021-04-19 20:55:11]: ***  [, Level 0]: 'Jeloudagh' has left the game (Timeout)
 [2021-04-19 20:55:39]: ***  [, Level 0]: 'r4d' entered and joined the game
+[2021-04-19 20:55:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
