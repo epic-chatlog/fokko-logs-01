@@ -7222,3 +7222,8 @@
 [2021-04-20 05:03:07]: Coca [Drunks, Level 25]: [D] ♥TAKO♥:
 [2021-04-20 05:03:07]:   [, Level 0]: totaly friendly: we can be frieds
 [2021-04-20 05:03:08]: Coca [Drunks, Level 25]: [D] ♥TAKO♥:
+[2021-04-20 05:03:11]: (1)ERROR [404, Level 25]: xDDD
+[2021-04-20 05:03:13]:   [, Level 0]: totaly friendly: help me get to the bank
+[2021-04-20 05:03:15]: Coca [Drunks, Level 25]: [D] ♥TAKO♥: help
+[2021-04-20 05:03:16]: [D] El patron [FookinLads, Level 24]: rexi:
+[2021-04-20 05:03:22]:   [, Level 0]: totaly friendly: plis el patron
