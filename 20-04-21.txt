@@ -22942,3 +22942,7 @@
 [2021-04-20 15:40:43]: ***  [, Level 0]: 'hhnaut31' entered and joined the game
 [2021-04-20 15:40:43]: [D] ERROR [404, Level 57]: helpon farm
 [2021-04-20 15:40:43]: TeigHuhn [, Level 0]: bob: what is right
+[2021-04-20 15:40:44]: P4Pyr0s [, Level 25]: Zephir ツ:
+[2021-04-20 15:40:47]: bob [, Level 36]: TeigHuhn: rechts xd komm
+[2021-04-20 15:40:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-20 15:40:53]: [D] ERROR [404, Level 57]: get me onfarm
