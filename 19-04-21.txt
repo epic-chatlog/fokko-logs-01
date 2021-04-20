@@ -21303,3 +21303,8 @@
 [2021-04-19 23:02:41]: (1)SanoreX.* [Chilli.*, Level 0]: dont say sanorex
 [2021-04-19 23:02:55]: [D] iydrss [, Level 11]: la sen nie serveri doldurdun xd
 [2021-04-19 23:02:59]: ***  [, Level 0]: 'NaruTo' has left the game
+[2021-04-19 23:03:25]: (1)SanoreX [Chilli.*, Level 0]: fuck
+[2021-04-19 23:03:29]: (1)SanoreX [Chilli.*, Level 0]: other game crash
+[2021-04-19 23:03:31]: ***  [, Level 0]: 'SanoreX' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-19 23:03:31]: ***  [, Level 0]: 'SanoreX.*' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-19 23:03:32]: kurama [New Gen., Level 0]: SanoreX: i to go bb
