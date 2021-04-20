@@ -23582,3 +23582,4 @@
 [2021-04-20 16:45:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-20 16:45:53]: Cup [, Level 0]: yes
 [2021-04-20 16:45:56]: Zephir ツ [404, Level 40]: GODLIKe: no need to be friendly
+[2021-04-20 16:46:13]: Zephir ツ [404, Level 40]: GODLIKe: stop talk and fight or rq or be afk
