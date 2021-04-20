@@ -21441,3 +21441,5 @@
 [2021-04-19 23:16:22]: SanoreX [Chilli.*, Level 27]: ok
 [2021-04-19 23:16:23]: Raidon [, Level 24]: deneyip geliyom
 [2021-04-19 23:16:23]: SanoreX [Chilli.*, Level 27]: help
+[2021-04-19 23:16:29]: Noxl [.bad, Level 48]: wait
+[2021-04-19 23:16:30]: ***  [, Level 0]: 'Raidon' has left the game
