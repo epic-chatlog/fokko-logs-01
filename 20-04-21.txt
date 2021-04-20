@@ -22536,3 +22536,7 @@
 [2021-04-20 15:04:57]: ***  [, Level 0]: '(1)Black' has left the game
 [2021-04-20 15:04:57]: lusche [TrRShClNrRs, Level 0]: Rem's dummy: eCHTER BREMER?
 [2021-04-20 15:05:03]: lusche [TrRShClNrRs, Level 0]: IHH
+[2021-04-20 15:05:09]: ***  [, Level 0]: 'El Monkey' has left the game
+[2021-04-20 15:05:10]: lusche [TrRShClNrRs, Level 0]: hässlich+
+[2021-04-20 15:05:10]: keepertrain._. [, Level 30]: GReeeN: hi
+[2021-04-20 15:05:17]: GODLIKe [, Level 44]: Rem's bae: dont touch BangTheWinner
