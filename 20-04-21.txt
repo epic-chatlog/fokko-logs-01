@@ -17469,3 +17469,7 @@
 [2021-04-20 11:16:54]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 11:16:56]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 11:16:57]: HardreenClutch [\ЧՁθ/, Level 57]: Green.exe:  was
+[2021-04-20 11:17:04]: ***  [, Level 0]: 'Kiko' entered and joined the game
+[2021-04-20 11:17:05]: ***  [, Level 0]: 'gamerzerof' joined the spectators
+[2021-04-20 11:17:08]: ***  [, Level 0]: 'gamerzerof' joined the game
+[2021-04-20 11:17:09]: ***  [, Level 0]: 'nameless :(' entered and joined the game
