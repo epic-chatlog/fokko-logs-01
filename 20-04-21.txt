@@ -882,3 +882,9 @@
 [2021-04-20 00:33:19]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:33:21]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:33:21]: ***  [, Level 0]: (1)Ƭevan is on a killing spree with 15 blocks
+[2021-04-20 00:33:24]: [D] Nightmare [, Level 0]: Meetiteusz: power2 imagine 2v1 me
+[2021-04-20 00:33:27]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:33:29]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:33:29]: Meetiteusz [TrRShClNrRs, Level 29]: Nightmare: he killed u only
+[2021-04-20 00:33:31]: power2 [TrRShClNrRs, Level 0]: Nightmare: called teamplay ^^
+[2021-04-20 00:33:34]: 1 [, Level 18]: dur
