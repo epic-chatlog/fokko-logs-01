@@ -12552,3 +12552,7 @@
 [2021-04-20 08:54:31]: ***  [ýÿÿ, Level 0]: 'bob fan' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-20 08:54:31]: ***  [ýÿÿ, Level 0]: 'tee pliss help' has left the game (Timeout)
 [2021-04-20 08:54:32]: BulgarianTee [Bulgaria, Level 25]: hi NoÃ©mi *
+[2021-04-20 08:54:37]:   [, Level 0]: mamikral011: Zephir ãƒ„: ?
+[2021-04-20 08:54:40]: ***  [ýÿÿ, Level 0]: 'nameless tee' joined the game
+[2021-04-20 08:54:43]:   [, Level 0]: yair: sifgasgfyhkgfk
+[2021-04-20 08:54:44]: ***  [ýÿÿ, Level 0]: Vertex is on a killing spree with 5 blocks
