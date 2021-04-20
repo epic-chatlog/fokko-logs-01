@@ -21716,3 +21716,6 @@
 [2021-04-20 14:14:54]: ***  [, Level 0]: [D] mamikral011 is on a killing spree with 5 blocks
 [2021-04-20 14:15:01]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 0 minute(s) 51.78 second(s)
 [2021-04-20 14:15:03]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 14:15:05]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 14:15:08]: bob [, Level 36]: (C)Ali: komm lunte drehen
+[2021-04-20 14:15:13]: ***  [, Level 0]: 'Jeloudagh' has left the game
