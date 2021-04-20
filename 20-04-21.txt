@@ -6329,3 +6329,9 @@
 [2021-04-20 04:25:33]: ***  [’ÿÿÿ, Level 0]: 'Ä°chMichel.' changed name to '[D] Cylox'
 [2021-04-20 04:25:41]: Cylox [{TQuila}, Level 32]: la yardÄ±m
 [2021-04-20 04:25:42]: Cylox [{TQuila}, Level 32]: para var
+[2021-04-20 04:25:45]: ***  [’ÿÿÿ, Level 0]: 'FIGHTING GOLD' entered and joined the game
+[2021-04-20 04:25:50]: ***  [’ÿÿÿ, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-20 04:25:51]: Intensiv_ [DogParty, Level 11]: 1 dakika
+[2021-04-20 04:25:53]: Intensiv_ [DogParty, Level 11]: kesinleÅŸtircem
+[2021-04-20 04:25:53]: rexi [, Level 0]: Lucas:
+[2021-04-20 04:25:57]:   [, Level 0]: Cacke: KarzenJW: come
