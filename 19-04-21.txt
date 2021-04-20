@@ -20868,3 +20868,4 @@
 [2021-04-19 19:31:51]: ***  [, Level 0]: '|HolyHo|' has left the game
 [2021-04-19 19:31:51]: ***  [, Level 0]: '|HolyHo|°' has left the game
 [2021-04-19 19:31:53]: ***  [, Level 0]: '|HolyHo|°' entered and joined the game
+[2021-04-19 19:32:01]: bob [, Level 36]: Killua: u had no dyn?
