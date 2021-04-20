@@ -23312,3 +23312,7 @@
 [2021-04-20 16:24:38]: TeigHuhn [, Level 0]: ☺: ok make it silent
 [2021-04-20 16:24:44]: ☺ [, Level 28]: ahh je dois quitter Kenshi ツ  bye
 [2021-04-20 16:24:49]: █  Zeus  █ [, Level 0]: Kenshi ツ:  im dummy
+[2021-04-20 16:25:04]: ☺ [, Level 28]: bye Kenshi ツ
+[2021-04-20 16:25:07]: Zephir ツ [404, Level 40]: bye
+[2021-04-20 16:25:08]: ***  [, Level 0]: '(1)☺' has left the game
+[2021-04-20 16:25:08]: ***  [, Level 0]: '☺' has left the game
