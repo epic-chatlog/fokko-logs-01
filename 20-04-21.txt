@@ -8015,3 +8015,7 @@
 [2021-04-20 05:50:10]: ***  [þÿÿ, Level 0]: 'Nudelsaft c:' has left the game
 [2021-04-20 05:50:16]: ***  [þÿÿ, Level 0]: 'Amogus' has left the game
 [2021-04-20 05:50:36]: ***  [þÿÿ, Level 0]: '(1)f"{self.name}' entered and joined the game
+[2021-04-20 05:50:44]: ***  [þÿÿ, Level 0]: 'tee' has left the game
+[2021-04-20 05:50:46]: ***  [þÿÿ, Level 0]: 'tee' entered and joined the game
+[2021-04-20 05:50:50]: ***  [þÿÿ, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-20 05:50:50]: (1)nenny [, Level 0]: Lakatos Mario:  OK
