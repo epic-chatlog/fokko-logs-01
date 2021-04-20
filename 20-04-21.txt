@@ -3514,3 +3514,13 @@
 [2021-04-20 02:19:24]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
 [2021-04-20 02:19:29]: ***  [, Level 0]: 'krallll' has left the game
 [2021-04-20 02:19:32]: ***  [, Level 0]: 'Sectumsempra' has left the game
+[2021-04-20 02:19:35]: ***  [, Level 0]: 'krallll' entered and joined the game
+[2021-04-20 02:19:36]: hatHCHecks [Sombrero, Level 37]: rfr
+[2021-04-20 02:19:37]: hatHCHecks [Sombrero, Level 37]: ва
+[2021-04-20 02:19:39]: hatHCHecks [Sombrero, Level 37]: вау
+[2021-04-20 02:19:41]: hatHCHecks [Sombrero, Level 37]: я ща
+[2021-04-20 02:19:41]: cry Raryx [, Level 58]: hatHCHecks: я хз что в полисе
+[2021-04-20 02:19:41]: ***  [, Level 0]: '(1)experto patro' entered and joined the game
+[2021-04-20 02:19:42]: hatHCHecks [Sombrero, Level 37]: жди
+[2021-04-20 02:19:42]:   [, Level 0]: .: baaa
+[2021-04-20 02:19:45]:   [, Level 0]: .: boop
