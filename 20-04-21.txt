@@ -8681,3 +8681,5 @@
 [2021-04-20 06:21:59]: ***  [þÿÿ, Level 0]: 'the last kozlik' has left the game
 [2021-04-20 06:21:59]: ***  [þÿÿ, Level 0]: 'the last kozol' has left the game
 [2021-04-20 06:22:07]: Kishimotoâš” [FookinLads, Level 46]: GReeeN: wer ist des?
+[2021-04-20 06:22:13]: ***  [þÿÿ, Level 0]: 'Nightmare' entered and joined the game
+[2021-04-20 06:22:14]: [D] JustRace [404, Level 0]: ERROR:  he is my friend
