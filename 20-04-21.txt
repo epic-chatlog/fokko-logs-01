@@ -10649,3 +10649,6 @@
 [2021-04-20 07:48:01]: JustRace [404, Level 30]: ERROR:  . is helping tevan
 [2021-04-20 07:48:02]: Lord11 [, Level 0]: Taip: peace
 [2021-04-20 07:48:04]: Taip [VergleriSay, Level 19]: if you are
+[2021-04-20 07:48:07]: Taip [VergleriSay, Level 19]: hes friend
+[2021-04-20 07:48:08]: . [TrRShClNrRs, Level 11]: [D] JustRace: no shit sherlock
+[2021-04-20 07:48:12]: Lord11 [, Level 0]: no im not
