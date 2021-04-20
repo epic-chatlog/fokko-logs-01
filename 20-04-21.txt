@@ -2597,3 +2597,7 @@
 [2021-04-20 01:41:25]: ***  [, Level 0]: 'nameless tee' joined the spectators
 [2021-04-20 01:41:26]: experto patrono [, Level 11]: xd
 [2021-04-20 01:41:28]: ***  [, Level 0]: 'Viper Tee' entered and joined the game
+[2021-04-20 01:41:30]: #5 blocker [Chilli.*, Level 0]: xd
+[2021-04-20 01:41:31]: ***  [, Level 0]: '(1)Matiteusz' entered and joined the game
+[2021-04-20 01:41:33]: ***  [, Level 0]: 'Viper Tee' has left the game
+[2021-04-20 01:41:39]: ***  [, Level 0]: [D] Kompingo is on a killing spree with 5 blocks
