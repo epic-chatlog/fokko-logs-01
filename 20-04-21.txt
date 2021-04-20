@@ -4111,3 +4111,6 @@
 [2021-04-20 02:42:26]:   [, Level 0]: no friendly tee: i only want lvl :(
 [2021-04-20 02:42:29]: ***  [, Level 0]: 'artur_xyz br' entered and joined the game
 [2021-04-20 02:42:31]: Nagisa [H] [E8, Level 2]: fazla uçtuk
+[2021-04-20 02:42:35]: Davidboss8 [senior, Level 0]: Axandos: ...<<
+[2021-04-20 02:42:45]: ***  [, Level 0]: 'artur_xyz br' has left the game
+[2021-04-20 02:42:46]: Nagisa [H] [E8, Level 2]: yetmio
