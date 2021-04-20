@@ -20436,3 +20436,7 @@
 [2021-04-20 13:12:54]:   [, Level 0]: RM | Arin: nenny:  f"{self.name}"  only randoms
 [2021-04-20 13:12:56]:   [, Level 0]: d+: weqe:  brother
 [2021-04-20 13:12:59]:   [, Level 0]: d+: wanna ctf3
+[2021-04-20 13:13:03]:   [, Level 0]: Zephir ツ: HardreenClutch:
+[2021-04-20 13:13:06]: weqe [669, Level 0]: d+ i flw brother
+[2021-04-20 13:13:07]: ChillerDragon.* [|*KoG*|, Level 42]: stop asking u picked ur side avioocals
+[2021-04-20 13:13:10]: ***  [, Level 0]: 'd+' has left the game
