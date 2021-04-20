@@ -7774,3 +7774,6 @@
 [2021-04-20 05:24:19]: ***  [, Level 0]: '♥TAKO♥' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-20 05:24:21]: rexi [, Level 0]: probier alter
 [2021-04-20 05:24:26]: [D] El patron [FookinLads, Level 24]: Killua:
+[2021-04-20 05:24:39]: [D] El patron [FookinLads, Level 24]: ich habe 13k xd
+[2021-04-20 05:24:39]: ***  [, Level 0]: 'Black' has left the game (Timeout)
+[2021-04-20 05:24:43]: Random Guy [, Level 25]: fokkonaut: :DDDDDDDDD
