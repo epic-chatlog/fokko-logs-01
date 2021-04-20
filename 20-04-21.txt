@@ -353,3 +353,5 @@
 [2021-04-20 00:15:15]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:15:17]: JotaCerve [, Level 0]: hahahaha
 [2021-04-20 00:15:22]: JustRace [404, Level 36]: Kezo:  yo
+[2021-04-20 00:15:26]: JustRace [404, Level 36]: Kezo:  w
+[2021-04-20 00:15:29]: Noxl [.bad, Level 48]: Kezo: yooooo
