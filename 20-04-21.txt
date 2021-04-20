@@ -4631,3 +4631,5 @@
 [2021-04-20 03:01:26]: ***  [, Level 0]: 'UtoPia™ Pon4i' entered and joined the game
 [2021-04-20 03:01:26]: ϻɪɔʜɑʟ [DogParty, Level 24]: i waited
 [2021-04-20 03:01:26]: ***  [, Level 0]: 'artur_xyz br' entered and joined the game
+[2021-04-20 03:01:42]: ***  [, Level 0]: 'UtoPia™ Pon4i' has left the game
+[2021-04-20 03:01:45]: ***  [, Level 0]: 'Ðream' left the minigame 'Block'
