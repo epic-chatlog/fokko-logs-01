@@ -20311,3 +20311,9 @@
 [2021-04-20 13:07:04]: ***  [, Level 0]: 'Meetiteusz' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-20 13:07:06]: (2)Zʷʰʸˀ [NULL, Level 26]: [D] SkyForge: he is
 [2021-04-20 13:07:08]: (1)Kirito [{TQuila}, Level 41]: SkyForge: kys so i can laugh
+[2021-04-20 13:07:14]: [D] SkyForge [, Level 0]: Kirito:  noob xD
+[2021-04-20 13:07:17]: El patron [FookinLads, Level 0]: weqe:
+[2021-04-20 13:07:21]: ***  [, Level 0]: 'avioocals 2.0' has left the game
+[2021-04-20 13:07:22]: El patron [FookinLads, Level 0]: weqe: help
+[2021-04-20 13:07:23]: ***  [, Level 0]: ChillerDragon is on a killing spree with 5 blocks
+[2021-04-20 13:07:23]: weqe [669, Level 0]: yes El patron
