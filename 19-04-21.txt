@@ -20644,3 +20644,6 @@
 [2021-04-19 19:05:22]: Black [, Level 26]: bob:
 [2021-04-19 19:05:25]: bob [, Level 36]: red:
 [2021-04-19 19:05:25]: (1)☺ [, Level 26]: stop
+[2021-04-19 19:05:29]: red [, Level 19]: (1)☺: thes my flag
+[2021-04-19 19:05:33]: TL|ŦƹƦ$ŦǾN [FookinLads, Level 57]: bob i thought of making an artificial intelligence bot that will predict who the player is based on ping, level and average skill evaluation XD but that would mean ild have to record every sin
+[2021-04-19 19:05:38]: red [, Level 19]: (1)☺: im came naw
