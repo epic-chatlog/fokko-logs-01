@@ -9959,3 +9959,7 @@
 [2021-04-20 07:16:25]: ***  [þÿÿ, Level 0]: '(2)Salut' entered and joined the game
 [2021-04-20 07:16:30]: :D [E8, Level 5]: Taip:cvb ver
 [2021-04-20 07:16:32]: ***  [þÿÿ, Level 0]: 'å’¸é±¼æœ«' entered and joined the game
+[2021-04-20 07:16:43]: Taip [VergleriSay, Level 0]: ne a
+[2021-04-20 07:16:44]: Taip [VergleriSay, Level 0]: q
+[2021-04-20 07:16:44]: Raidon [, Level 24]: Nudelsaft c:: why xD
+[2021-04-20 07:16:48]: Nudelsaft c: [FookinLads, Level 43]: Raidon: helper
