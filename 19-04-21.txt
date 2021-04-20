@@ -20101,3 +20101,5 @@
 [2021-04-19 17:55:04]: ☺ [, Level 27]: sorry man
 [2021-04-19 17:55:12]: (1)Kirito [, Level 27]: oh you have it? xD
 [2021-04-19 17:55:27]: ☺ [, Level 27]: wait i deposit
+[2021-04-19 17:55:33]: ***  [, Level 0]: 'Black' entered and joined the game
+[2021-04-19 17:55:38]: Black [, Level 0]: HI
