@@ -10579,3 +10579,8 @@
 [2021-04-20 07:45:04]: JustRace [404, Level 30]: BulgarianTee:  yes
 [2021-04-20 07:45:07]: JustRace [404, Level 30]: BulgarianTee:  let's clean
 [2021-04-20 07:45:08]: bob [, Level 36]: clean
+[2021-04-20 07:45:10]: ERROR [404, Level 76]: BulgarianTee:  JustRace  go
+[2021-04-20 07:45:13]: BulgarianTee [Bulgaria, Level 0]: EZZZZZZ
+[2021-04-20 07:45:16]: ERROR [404, Level 76]: imma eat now BulgarianTee  xD
+[2021-04-20 07:45:16]: ***  [ıÿÿ, Level 0]: 'ğ•ğ”¸â„|niQ' entered and joined the game
+[2021-04-20 07:45:19]: Falco641 [.bad, Level 21]: Taip: wait why u war him
