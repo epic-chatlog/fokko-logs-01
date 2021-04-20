@@ -8056,3 +8056,7 @@
 [2021-04-20 05:53:25]: (1)nenny [, Level 0]: taiP DONT
 [2021-04-20 05:53:26]: (1)nenny [, Level 0]: Taip:
 [2021-04-20 05:53:29]: ***  [þÿÿ, Level 0]: 'tee' has left the game
+[2021-04-20 05:53:40]: ***  [þÿÿ, Level 0]: 'Soyler' entered and joined the game
+[2021-04-20 05:53:40]: Lakatos Mario [, Level 0]: im very noob
+[2021-04-20 05:53:40]: BulgarianTee [Bulgaria, Level 0]: ERROR: WAIT
+[2021-04-20 05:53:42]: BulgarianTee [Bulgaria, Level 0]: ERROR: I CAN EXPLAIN
