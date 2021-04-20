@@ -8560,3 +8560,7 @@
 [2021-04-20 06:16:28]: *ExTr1Me* [DDMI, Level 0]: care
 [2021-04-20 06:16:29]: ***  [���, Level 0]: 'пипука' joined the spectators
 [2021-04-20 06:16:30]: *ExTr1Me* [DDMI, Level 0]: slowly
+[2021-04-20 06:16:32]: ***  [���, Level 0]: 'пипука' joined the game
+[2021-04-20 06:16:35]:   [, Level 0]: the last kozol: на месте
+[2021-04-20 06:16:41]: ***  [���, Level 0]: 'пипука' joined the spectators
+[2021-04-20 06:16:44]: ***  [���, Level 0]: 'пипука' joined the game
