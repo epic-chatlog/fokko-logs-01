@@ -10139,3 +10139,7 @@
 [2021-04-20 07:27:54]:   [, Level 0]: ReXi: sL|KeBu28: kam von coffee nää
 [2021-04-20 07:27:57]:   [, Level 0]: [D] JustRace: El patron:  drinking and eating while fw
 [2021-04-20 07:28:02]: ERROR [404, Level 76]: Zephir ツ:
+[2021-04-20 07:28:06]: Zephir ツ [404, Level 40]: ERROR: ?
+[2021-04-20 07:28:08]: sL|KeBu28 [Gunfiyah, Level 0]: ReXi: keine ahnung hab es von synth
+[2021-04-20 07:28:13]: ***  [���, Level 0]: 'ϻɪɔʜɑʟ' has left the game
+[2021-04-20 07:28:13]: ***  [���, Level 0]: '[D]ϻɪɔʜɑʟ' has left the game
