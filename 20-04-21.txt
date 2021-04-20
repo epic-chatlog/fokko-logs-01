@@ -800,3 +800,9 @@
 [2021-04-20 00:30:47]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:30:49]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:30:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-20 00:30:55]: SanoreX [Chilli.*, Level 27]: Fearless:
+[2021-04-20 00:30:56]: ***  [, Level 0]: (1)Ƭevan is on a killing spree with 5 blocks
+[2021-04-20 00:30:56]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:30:58]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:31:03]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:31:05]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
