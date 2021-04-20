@@ -9861,3 +9861,5 @@
 [2021-04-20 07:10:25]: (1)ERROR [404, Level 25]: JustRace:  what happend xd
 [2021-04-20 07:10:26]: ***  [þÿÿ, Level 0]: 'IMPOSTOR' entered and joined the game
 [2021-04-20 07:10:31]:   [, Level 0]: IMPOSTOR: Ñƒ
+[2021-04-20 07:10:44]: ***  [þÿÿ, Level 0]: Falco641 is on a killing spree with 5 blocks
+[2021-04-20 07:10:44]:   [, Level 0]: IMPOSTOR: Ñƒ
