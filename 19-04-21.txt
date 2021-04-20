@@ -21648,3 +21648,4 @@
 [2021-04-19 23:29:35]: Zerstrian [, Level 52]: omw Fearless
 [2021-04-19 23:29:35]: [D] JustRace [404, Level 0]: cl_aimbot 1
 [2021-04-19 23:29:52]: Raidon [, Level 0]: cl_aimbot 0
+[2021-04-19 23:30:07]: ZEWO [, Level 0]: SanoreX: durrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
