@@ -16753,3 +16753,16 @@
 [2021-04-20 10:52:51]: ***  [, Level 0]: 'tee' entered and joined the game
 [2021-04-20 10:52:51]: ***  [, Level 0]: 'Cylox' has left the game
 [2021-04-20 10:52:55]: power2 [TrRShClNrRs, Level 0]: noo
+[2021-04-20 10:53:01]:   [, Level 0]: Isegrin: mute krito -1
+[2021-04-20 10:53:01]: (2)Kirito [{TQuila}, Level 27]: mUtE KrItO -1
+[2021-04-20 10:53:01]: Kirito [{TQuila}, Level 41]: mUtE KrItO -1
+[2021-04-20 10:53:01]: (3)Kirito [{TQuila}, Level 12]: mUtE KrItO -1
+[2021-04-20 10:53:01]: (1)Kirito [{TQuila}, Level 15]: mUtE KrItO -1
+[2021-04-20 10:53:06]: ***  [, Level 0]: '(1)SoulyD' entered and joined the game
+[2021-04-20 10:53:06]: (1)Kirito [{TQuila}, Level 15]: '(1)sOuLyD' eNtErEd aNd jOiNeD ThE GaMe
+[2021-04-20 10:53:06]: Kirito [{TQuila}, Level 41]: '(1)sOuLyD' eNtErEd aNd jOiNeD ThE GaMe
+[2021-04-20 10:53:06]: (2)Kirito [{TQuila}, Level 27]: '(1)sOuLyD' eNtErEd aNd jOiNeD ThE GaMe
+[2021-04-20 10:53:06]: (3)Kirito [{TQuila}, Level 12]: '(1)sOuLyD' eNtErEd aNd jOiNeD ThE GaMe
+[2021-04-20 10:53:07]: ***  [, Level 0]: '(1)SoulyD' has left the game
+[2021-04-20 10:53:07]: ***  [, Level 0]: 'brainless tee' has left the game
+[2021-04-20 10:53:08]: ***  [, Level 0]: 'brainless tee' entered and joined the game
