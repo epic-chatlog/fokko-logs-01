@@ -6510,3 +6510,5 @@
 [2021-04-20 04:33:18]: ***  [’ÿÿÿ, Level 0]: 'avioocals' entered and joined the game
 [2021-04-20 04:33:23]: ***  [’ÿÿÿ, Level 0]: 'Salut' has left the game
 [2021-04-20 04:33:32]: ***  [’ÿÿÿ, Level 0]: 'Ãream' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-20 04:33:42]: SanoreX [Chilli.*, Level 27]: DUR DÄ°CEM
+[2021-04-20 04:33:43]: SanoreX [Chilli.*, Level 27]: AMK
