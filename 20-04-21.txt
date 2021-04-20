@@ -8741,3 +8741,12 @@
 [2021-04-20 06:24:24]: *ExTr1Me* [DDMI, Level 0]: нет дж
 [2021-04-20 06:24:26]: *ExTr1Me* [DDMI, Level 0]: нет хука
 [2021-04-20 06:24:26]: Soyler [|*KoG*|, Level 0]: ору
+[2021-04-20 06:24:31]: BulgarianTee [Bulgaria, Level 0]: ERROR: bad
+[2021-04-20 06:24:32]: *ExTr1Me* [DDMI, Level 0]: так тебя не спасти
+[2021-04-20 06:24:32]: ***  [���, Level 0]: 'the last kozlik' entered and joined the game
+[2021-04-20 06:24:34]: *ExTr1Me* [DDMI, Level 0]: а не стоп
+[2021-04-20 06:24:34]: Levi [, Level 0]: ERROR:
+[2021-04-20 06:24:35]: ERROR [404, Level 76]: war
+[2021-04-20 06:24:37]: BulgarianTee [Bulgaria, Level 0]: ERROR: wat
+[2021-04-20 06:24:37]: ***  [���, Level 0]: 'Raidon' entered and joined the game
+[2021-04-20 06:24:39]: BulgarianTee [Bulgaria, Level 0]: ERROR: wdym why
