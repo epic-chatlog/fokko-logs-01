@@ -61,3 +61,6 @@
 [2021-04-20 00:02:28]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:02:30]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:02:31]: Noxl [.bad, Level 48]: mn ant
+[2021-04-20 00:02:42]: Raidon [, Level 24]: k
+[2021-04-20 00:02:43]: SanoreX [Chilli.*, Level 27]: -LGCO-limon: kurtar beni Raidon u blocklarız
+[2021-04-20 00:02:44]: ***  [, Level 0]: 'Jeloudagh' has left the game
