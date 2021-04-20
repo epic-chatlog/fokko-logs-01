@@ -21995,3 +21995,7 @@
 [2021-04-19 23:51:42]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-19 23:51:42]: ***  [, Level 0]: 'Intensiv' entered and joined the game
 [2021-04-19 23:51:42]: Raidon [, Level 24]: SanoreX: gel
+[2021-04-19 23:51:47]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:51:49]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:51:53]: ***  [, Level 0]: 'MateQ' entered and joined the game
+[2021-04-19 23:51:53]: ***  [, Level 0]: 'Jeloudagh' has left the game
