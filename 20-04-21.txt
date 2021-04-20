@@ -12514,3 +12514,5 @@
 [2021-04-20 08:52:51]: Black [, Level 0]: lag?
 [2021-04-20 08:52:51]: BulgarianTee [Bulgaria, Level 25]: dis
 [2021-04-20 08:52:52]: LareneGyvaeh [FookinLads, Level 0]: fking dog helper
+[2021-04-20 08:52:52]: BulgarianTee [Bulgaria, Level 25]: game
+[2021-04-20 08:52:58]:   [, Level 0]: nameless tee: lag
