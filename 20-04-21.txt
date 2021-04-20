@@ -3805,3 +3805,6 @@
 [2021-04-20 02:28:40]: ***  [, Level 0]: '1' entered and joined the game
 [2021-04-20 02:28:42]: Arktict [, Level 31]: Axandos²: no
 [2021-04-20 02:28:42]:   [, Level 0]: vollesprit: [D] mamikral011: well , you already kill me without any reaseons
+[2021-04-20 02:28:52]: ~DemoizL~ [, Level 39]: vollesprit: il a rq
+[2021-04-20 02:28:52]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-20 02:28:53]: . [>), Level 4]: u have 8 jumps?
