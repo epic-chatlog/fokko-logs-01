@@ -11019,3 +11019,6 @@
 [2021-04-20 08:04:52]: BulgarianTee [Bulgaria, Level 0]: omg
 [2021-04-20 08:04:52]: ***  [ýÿÿ, Level 0]: tayson is on a killing spree with 25 blocks
 [2021-04-20 08:04:54]: ERROR [404, Level 76]: xD
+[2021-04-20 08:05:00]: BulgarianTee [Bulgaria, Level 0]: MY DDNET WAS DED FOR A SEC ERROR. :C
+[2021-04-20 08:05:02]: BulgarianTee [Bulgaria, Level 0]: bad
+[2021-04-20 08:05:07]: ERROR [404, Level 76]: xD
