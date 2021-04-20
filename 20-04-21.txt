@@ -11219,3 +11219,12 @@
 [2021-04-20 08:13:25]: ***  [ıÿÿ, Level 0]: 'Niklas' has left the game
 [2021-04-20 08:13:26]:   [, Level 0]: ERRORS DAD: he is a feine
 [2021-04-20 08:13:29]: ***  [ıÿÿ, Level 0]: 'Niklas' entered and joined the game
+[2021-04-20 08:13:34]: ***  [ıÿÿ, Level 0]: ',' entered and joined the game
+[2021-04-20 08:13:34]: Zephir ãƒ„ [404, Level 40]: ERROR: they try to brock all time the stack
+[2021-04-20 08:13:36]: BulgarianTee [Bulgaria, Level 0]: ERRORS DAD: i meant ERROR's brother, not ERROR
+[2021-04-20 08:13:37]: GReeeN [\Ğ§ÕÎ¸/, Level 41]: ReXi:
+[2021-04-20 08:13:40]: ***  [ıÿÿ, Level 0]: 'fluffrit' joined the spectators
+[2021-04-20 08:13:42]: BulgarianTee [Bulgaria, Level 0]: ERRORS DAD: XDDD
+[2021-04-20 08:13:43]: ***  [ıÿÿ, Level 0]: 'fluffrit' joined the game
+[2021-04-20 08:13:44]: bob [, Level 36]: ERROR: woher kennst du Zephir ãƒ„
+[2021-04-20 08:13:46]: ***  [ıÿÿ, Level 0]: '(1)Good man' finished the special race!
