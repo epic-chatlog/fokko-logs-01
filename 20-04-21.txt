@@ -17587,3 +17587,7 @@
 [2021-04-20 11:23:07]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 11:23:09]:   [, Level 0]: bubblechicken50: I thought u wanted it
 [2021-04-20 11:23:09]: Kaptar [, Level 24]: Zephir ツ: tu m'explique cmt je rentre avec 2jump xd ?
+[2021-04-20 11:23:17]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 11:23:18]: ***  [, Level 0]: 'NeXus' entered and joined the game
+[2021-04-20 11:23:19]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 11:23:21]: ***  [, Level 0]: 'PANZELKOWY' has left the game
