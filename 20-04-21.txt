@@ -23674,3 +23674,5 @@
 [2021-04-20 16:51:31]: bob [, Level 36]: [D] ERROR: HELLO
 [2021-04-20 16:51:45]: [D] ERROR [404, Level 57]: GODLIKe:  im good im working rn
 [2021-04-20 16:51:45]: GODLIKe [, Level 44]: ERROR: Zephir ツ say we have war XDDDDDD
+[2021-04-20 16:52:03]: [D] ERROR [404, Level 57]: GODLIKe:  if he war u u have war with him ofc
+[2021-04-20 16:52:05]: Zephir ツ [404, Level 40]: GODLIKe: nope
