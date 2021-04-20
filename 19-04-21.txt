@@ -19936,3 +19936,7 @@
 [2021-04-19 17:27:36]: ***  [, Level 0]: 'ezy' entered and joined the game
 [2021-04-19 17:27:38]: (1)☺ [, Level 26]: rq
 [2021-04-19 17:27:40]: Zephir ツ [404, Level 40]: TL|ŦƹƦ$ŦǾN: not strong shiro
+[2021-04-19 17:28:04]: Zephir ツ [404, Level 40]: bob: ez
+[2021-04-19 17:28:05]: ***  [, Level 0]: 'nar' entered and joined the game
+[2021-04-19 17:28:06]: ***  [, Level 0]: 'nar' has left the game
+[2021-04-19 17:28:12]: ***  [, Level 0]: 'nar' entered and joined the game
