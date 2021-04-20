@@ -24,3 +24,7 @@
 [2021-04-20 00:00:49]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:00:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-20 00:00:51]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:01:08]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:01:10]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:01:14]: SanoreX [Chilli.*, Level 27]: -LGCO-limon: limon sende de arkadaşlarına dursunlar biri daha kill çekmeyi bilmio aq
+[2021-04-20 00:01:16]: ***  [, Level 0]: 'Jeloudagh' has left the game
