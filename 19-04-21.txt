@@ -21588,3 +21588,6 @@
 [2021-04-19 23:25:41]: ***  [, Level 0]: 'Raidon' entered and joined the game
 [2021-04-19 23:25:44]: Raidon [, Level 0]: SanoreX: knk
 [2021-04-19 23:25:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 23:25:51]: SanoreX [Chilli.*, Level 27]: ZEWO: cl_aimbot 1 yazma JustRace blockluyo bizi aimbot açıyo onda o
+[2021-04-19 23:25:52]: Raidon [, Level 0]: SanoreX: oldu gelcenmi hamachi ile
+[2021-04-19 23:26:00]: SanoreX [Chilli.*, Level 27]: Raidon: yok gelmem sanırım
