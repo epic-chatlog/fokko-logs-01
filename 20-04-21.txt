@@ -1453,3 +1453,10 @@
 [2021-04-20 00:57:54]: 『Jester』 [freeporçay, Level 0]: no
 [2021-04-20 00:57:56]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:58:00]: 1 [, Level 18]: LEVEL KAÇSIN
+[2021-04-20 00:58:04]: ***  [, Level 0]: 'Teet' has left the game
+[2021-04-20 00:58:05]: S Y T H N [Akatsuki, Level 37]: Axandos: annoying kid spass bin weg
+[2021-04-20 00:58:06]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-20 00:58:10]: Axandos² [, Level 21]: bb
+[2021-04-20 00:58:10]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:58:12]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:58:15]: SanoreX [Chilli.*, Level 27]: kais: so annoying
