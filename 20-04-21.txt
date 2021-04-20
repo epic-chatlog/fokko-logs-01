@@ -15456,3 +15456,6 @@
 [2021-04-20 10:33:04]: ***  [, Level 0]: 'artur_xyz br' has left the game
 [2021-04-20 10:33:06]: ERROR. [404, Level 47]: (1)Kirito:  tzf?
 [2021-04-20 10:33:07]: Kirito [{TQuila}, Level 41]: (1)KiRiTo:  tZf?
+[2021-04-20 10:33:14]: ***  [, Level 0]: 'artur_xyz br' entered and joined the game
+[2021-04-20 10:33:18]: [D] Cylox [{TQuila}, Level 0]: bob:
+[2021-04-20 10:33:18]: Kirito [{TQuila}, Level 41]: bOb:
