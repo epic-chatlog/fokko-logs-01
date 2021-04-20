@@ -10556,3 +10556,7 @@
 [2021-04-20 07:43:35]: ***  [ýÿÿ, Level 0]: '(1)Good man' entered and joined the game
 [2021-04-20 07:43:38]: Taip [VergleriSay, Level 19]: sendende alÄ±rÄ±m
 [2021-04-20 07:43:39]: Taip [VergleriSay, Level 19]: mp
+[2021-04-20 07:43:40]: Taip [VergleriSay, Level 19]: np
+[2021-04-20 07:43:43]: Taip [VergleriSay, Level 19]: wqeqe
+[2021-04-20 07:43:44]:   [, Level 0]: (1)Good man: bob: bobbii))
+[2021-04-20 07:43:50]: bob [, Level 36]: Nagisa [H]: OMGGG NAGISA FURKU
