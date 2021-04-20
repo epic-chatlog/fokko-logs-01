@@ -22009,3 +22009,7 @@
 [2021-04-19 23:52:12]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-19 23:52:14]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-19 23:52:19]: SanoreX [Chilli.*, Level 27]: XD
+[2021-04-19 23:52:21]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:52:23]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-19 23:52:29]: ***  [, Level 0]: 'MateQ' has left the game
+[2021-04-19 23:52:32]: ***  [, Level 0]: '-LGCO-limon' entered and joined the game
