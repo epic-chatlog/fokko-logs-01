@@ -16545,3 +16545,23 @@
 [2021-04-20 10:49:06]: (3)Kirito [{TQuila}, Level 12]: nUdElSaFt c:: aLlEs pEr hAnD BrO
 [2021-04-20 10:49:06]: (1)Kirito [{TQuila}, Level 15]: nUdElSaFt c:: aLlEs pEr hAnD BrO
 [2021-04-20 10:49:06]: Nudelsaft c: [FookinLads, Level 43]: Kirito: ne will gucken ob du wieder mit dem drecks client antwortest
+[2021-04-20 10:49:13]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
+[2021-04-20 10:49:13]: (1)Kirito [{TQuila}, Level 15]: '(1)nAmElEsS TeE' eNtErEd aNd jOiNeD ThE GaMe
+[2021-04-20 10:49:13]: (2)Kirito [{TQuila}, Level 27]: '(1)nAmElEsS TeE' eNtErEd aNd jOiNeD ThE GaMe
+[2021-04-20 10:49:13]: (3)Kirito [{TQuila}, Level 12]: '(1)nAmElEsS TeE' eNtErEd aNd jOiNeD ThE GaMe
+[2021-04-20 10:49:14]: Kirito [{TQuila}, Level 41]: '(1)nAmElEsS TeE' eNtErEd aNd jOiNeD ThE GaMe
+[2021-04-20 10:49:14]: ***  [, Level 0]: 'Tato15' joined the spectators
+[2021-04-20 10:49:15]: Taip [VergleriSay, Level 19]: dude
+[2021-04-20 10:49:16]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-20 10:49:17]: Kirito [{TQuila}, Level 41]: Nudelsaft c:: ne bin auf meinem eigenem client bro xD
+[2021-04-20 10:49:17]: (1)Kirito [{TQuila}, Level 15]: nUdElSaFt c:: nE BiN AuF MeInEm eIgEnEm cLiEnT BrO Xd
+[2021-04-20 10:49:17]: (2)Kirito [{TQuila}, Level 27]: nUdElSaFt c:: nE BiN AuF MeInEm eIgEnEm cLiEnT BrO Xd
+[2021-04-20 10:49:17]: (3)Kirito [{TQuila}, Level 12]: nUdElSaFt c:: nE BiN AuF MeInEm eIgEnEm cLiEnT BrO Xd
+[2021-04-20 10:49:18]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-20 10:49:18]: Taip [VergleriSay, Level 19]: stop it
+[2021-04-20 10:49:18]: ***  [, Level 0]: 'Tato15' joined the game
+[2021-04-20 10:49:23]: avioocals 2.0 [|*MorE*|, Level 0]: press d
+[2021-04-20 10:49:23]: Kirito [{TQuila}, Level 41]: pReSs d
+[2021-04-20 10:49:23]: (3)Kirito [{TQuila}, Level 12]: pReSs d
+[2021-04-20 10:49:23]: (2)Kirito [{TQuila}, Level 27]: pReSs d
+[2021-04-20 10:49:23]: (1)Kirito [{TQuila}, Level 15]: pReSs d
