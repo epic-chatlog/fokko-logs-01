@@ -21900,3 +21900,7 @@
 [2021-04-19 23:44:51]: Noxl [.bad, Level 48]: JustRace: <<
 [2021-04-19 23:44:53]: Fearless [, Level 40]: JustRace:  i seen him fight
 [2021-04-19 23:44:58]: Fearless [, Level 40]: JustRace:  like this
+[2021-04-19 23:45:09]: red [, Level 19]: war
+[2021-04-19 23:45:13]: MysterX [AoT Fan, Level 0]: war
+[2021-04-19 23:45:13]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:45:15]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
