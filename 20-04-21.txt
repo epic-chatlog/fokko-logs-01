@@ -6262,3 +6262,7 @@
 [2021-04-20 04:21:54]:   [, Level 0]: SanoreX: GODLIKe: de bakarÄ±z ona
 [2021-04-20 04:21:56]: ***  [’ÿÿÿ, Level 0]: 'Amnesia.' entered and joined the game
 [2021-04-20 04:21:57]: ***  [’ÿÿÿ, Level 0]: KebabOzor is on a killing spree with 5 blocks
+[2021-04-20 04:22:02]: ***  [’ÿÿÿ, Level 0]: 'Minato/fr dumy' has left the game
+[2021-04-20 04:22:04]:   [, Level 0]: SanoreX: GODLIKe: de bakarÄ±z ona
+[2021-04-20 04:22:11]: Jerry [, Level 32]: where
+[2021-04-20 04:22:12]: ***  [’ÿÿÿ, Level 0]: KebabOzor's killing spree was ended by Cup (5 blocks)
