@@ -22732,3 +22732,11 @@
 [2021-04-20 15:20:47]: Zephir ツ [404, Level 40]: bob: protect ERROR ok ?
 [2021-04-20 15:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-20 15:20:52]: Rem's bae [, Level 42]: booooob
+[2021-04-20 15:20:58]: (1)☺ [, Level 0]: quoi Zephir ツ
+[2021-04-20 15:20:58]: Zephir ツ [404, Level 40]: ☺: protect ERROR
+[2021-04-20 15:21:03]: (1)☺ [, Level 0]: ok Zephir ツ
+[2021-04-20 15:21:04]: GODLIKe [, Level 44]: (1)SoulyD:dont sleep
+[2021-04-20 15:21:06]: GODLIKe [, Level 44]: P4Pyr0s:
+[2021-04-20 15:21:08]: (1)SoulyD [, Level 40]: okay okay
+[2021-04-20 15:21:11]: (1)☺ [, Level 0]: ERROR: hey
+[2021-04-20 15:21:12]: bob [, Level 36]: Zephir ツ: yes
