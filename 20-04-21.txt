@@ -10851,3 +10851,4 @@
 [2021-04-20 07:55:50]: ***  [ýÿÿ, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-20 07:55:52]: ***  [ýÿÿ, Level 0]: tayson's killing spree was ended by Maykol4xd (15 blocks)
 [2021-04-20 07:55:59]: ReXi [, Level 17]: warte
+[2021-04-20 07:56:12]: ***  [ýÿÿ, Level 0]: 'woona' has left the game
