@@ -21266,3 +21266,4 @@
 [2021-04-19 22:57:42]: ***  [, Level 0]: '#5 blocker' would have timed out, but can use timeout protection now
 [2021-04-19 22:57:42]: ***  [, Level 0]: '[D] #5 blocker' would have timed out, but can use timeout protection now
 [2021-04-19 22:57:52]: (1)SanoreX.* [Chilli.*, Level 0]: kurama: spawn
+[2021-04-19 22:58:06]: (1)SanoreX.* [Chilli.*, Level 0]: kurama: /spec (1)SanoreX
