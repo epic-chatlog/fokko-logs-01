@@ -23647,3 +23647,7 @@
 [2021-04-20 16:50:28]: ***  [, Level 0]: '[D] ERROR' entered and joined the game
 [2021-04-20 16:50:28]: Zephir ツ [404, Level 40]: GODLIKe: good, just need to wait tomorrow
 [2021-04-20 16:50:29]: ***  [, Level 0]: 'Beetlebrick' entered and joined the game
+[2021-04-20 16:50:33]: P4Pyr0s [, Level 21]: Cup:
+[2021-04-20 16:50:34]: P4Pyr0s [, Level 21]: left
+[2021-04-20 16:50:37]: ***  [, Level 0]: (3)Zʷʰʸˀ is on a killing spree with 5 blocks
+[2021-04-20 16:50:41]: GODLIKe [, Level 44]: Zephir ツ: ops error join game
