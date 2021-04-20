@@ -21495,3 +21495,10 @@
 [2021-04-19 23:20:31]: SanoreX [Chilli.*, Level 27]: DONT OPEN
 [2021-04-19 23:20:33]: SanoreX [Chilli.*, Level 27]: cl_aimbot 0
 [2021-04-19 23:20:35]: MysterX [AoT Fan, Level 0]: cl_aimbot 1
+[2021-04-19 23:20:37]: ~Never~ [Chilli.*, Level 7]: cl_aimbot 1
+[2021-04-19 23:20:39]: ***  [, Level 0]: 'Noxl.' finished the special race!
+[2021-04-19 23:20:40]: ***  [, Level 0]: 'klas' finished the special race!
+[2021-04-19 23:20:40]: MysterX [AoT Fan, Level 0]: cl_aimbot 1
+[2021-04-19 23:20:41]: SanoreX [Chilli.*, Level 27]: cl_aimbot 0
+[2021-04-19 23:20:43]: ***  [, Level 0]: 'Noxl' finished the special race!
+[2021-04-19 23:20:48]: JustRace [404, Level 0]: cl_aimbot 1
