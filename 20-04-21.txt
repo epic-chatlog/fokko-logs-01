@@ -20188,3 +20188,5 @@
 [2021-04-20 13:00:18]: ***  [, Level 0]: '(1)|HolyHo|°' has left the game
 [2021-04-20 13:00:18]:   [, Level 0]: bob: weqe: ahah
 [2021-04-20 13:00:19]: ***  [, Level 0]: '(1)Black' has left the game
+[2021-04-20 13:00:21]: mamikral011 [DogParty, Level 22]: pollice helper:
+[2021-04-20 13:00:25]: ***  [, Level 0]: 'Axel ²' has left the game
