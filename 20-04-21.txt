@@ -10154,3 +10154,5 @@
 [2021-04-20 07:28:33]: ***  [ýÿÿ, Level 0]: 'muliboy' entered and joined the game
 [2021-04-20 07:28:38]:   [, Level 0]: Flipper: BulgarianTee: where are you men
 [2021-04-20 07:28:41]: ***  [ýÿÿ, Level 0]: '(1)nameless tee' has left the game
+[2021-04-20 07:28:43]: BulgarianTee [Bulgaria, Level 0]: Flipper: in police men
+[2021-04-20 07:28:43]:   [, Level 0]: [D] JustRace: BulgarianTee:  but I care
