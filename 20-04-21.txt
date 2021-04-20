@@ -10317,3 +10317,6 @@
 [2021-04-20 07:35:10]: . [TrRShClNrRs, Level 43]: JustRace: xd
 [2021-04-20 07:35:11]: Random Guy [, Level 40]: xd
 [2021-04-20 07:35:14]: . [TrRShClNrRs, Level 43]: JustRace: what did (1)Ãream do
+[2021-04-20 07:35:18]: Flipper [, Level 0]: click x
+[2021-04-20 07:35:21]: ***  [ıÿÿ, Level 0]: 'å’¸é±¼æœ«' has left the game
+[2021-04-20 07:35:21]: ***  [ıÿÿ, Level 0]: '[D] å’¸é±¼æœ«' has left the game
