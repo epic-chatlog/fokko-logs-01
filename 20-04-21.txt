@@ -6874,3 +6874,7 @@
 [2021-04-20 04:48:32]: SanoreX [Chilli.*, Level 27]: El patron: I give u 100k and help
 [2021-04-20 04:48:33]: ***  [’ÿÿÿ, Level 0]: '(1)ERROR' has left the game
 [2021-04-20 04:48:39]: SanoreX [Chilli.*, Level 27]: El patron: I give u 100k and help 100k in dummy acc
+[2021-04-20 04:48:46]: weqe [669, Level 13]: kais: war
+[2021-04-20 04:48:47]:   [, Level 0]: RM | Arin: kais:  stop
+[2021-04-20 04:48:51]: ERROR [404, Level 76]: xD
+[2021-04-20 04:48:54]:   [, Level 0]: Lakatos Mario: sry
