@@ -21067,3 +21067,5 @@
 [2021-04-19 21:54:13]: ***  [, Level 0]: 'klas' entered and joined the game
 [2021-04-19 21:55:11]: ***  [, Level 0]: 'Vesorp' entered and joined the game
 [2021-04-19 21:55:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-19 21:56:16]: ***  [, Level 0]: '(1)Vesorp' entered and joined the game
+[2021-04-19 21:56:16]: ***  [, Level 0]: '(1)Vesorp' has left the game
