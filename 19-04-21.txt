@@ -20268,3 +20268,5 @@
 [2021-04-19 18:16:58]: ***  [, Level 0]: 'guigui' entered and joined the game
 [2021-04-19 18:17:09]: Black [, Level 26]: what
 [2021-04-19 18:17:12]: ***  [, Level 0]: 'guigui' has left the game
+[2021-04-19 18:17:24]: Kirito [{TQuila}, Level 41]: 8/5
+[2021-04-19 18:17:30]: Black [, Level 26]: wow
