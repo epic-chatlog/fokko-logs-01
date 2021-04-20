@@ -22842,3 +22842,6 @@
 [2021-04-20 15:31:06]: ***  [, Level 0]: 'P4Pyr0s' entered and joined the game
 [2021-04-20 15:31:08]: ***  [, Level 0]: Rem's bae finished in: 0 minute(s) 39.20 second(s)
 [2021-04-20 15:31:08]: ***  [, Level 0]: New record:  5.44 second(s) better.
+[2021-04-20 15:31:38]: ***  [, Level 0]: 'BangTheWinner' has left the game
+[2021-04-20 15:31:44]: ***  [, Level 0]: 'mamikral011' has left the game (Timeout)
+[2021-04-20 15:31:44]: ***  [, Level 0]: '[D] mamikral011' has left the game (Timeout)
