@@ -8300,3 +8300,8 @@
 [2021-04-20 06:02:47]: Soyler [|*KoG*|, Level 0]: бля запутаная карта
 [2021-04-20 06:02:48]: BulgarianTee [Bulgaria, Level 0]: .S L E E P Y': he 10 4ed you?
 [2021-04-20 06:02:50]: Ƭevan [TrRShClNrRs, Level 50]: xD
+[2021-04-20 06:02:52]: ***  [���, Level 0]: '__init__(self):' entered and joined the game
+[2021-04-20 06:02:53]: .S L E E P Y' [iPro ♡, Level 0]: no me
+[2021-04-20 06:02:55]: ***  [���, Level 0]: 'the last kozlik' entered and joined the game
+[2021-04-20 06:02:57]: BulgarianTee [Bulgaria, Level 0]: .S L E E P Y': yes he 10 4 u
+[2021-04-20 06:03:03]: .S L E E P Y' [iPro ♡, Level 0]: no i 10 4 him
