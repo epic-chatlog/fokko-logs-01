@@ -68,3 +68,11 @@
 [2021-04-20 00:02:46]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 00:02:53]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 00:02:55]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:02:59]: Raidon [, Level 24]: fuck off
+[2021-04-20 00:03:06]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 00:03:06]: Tom [, Level 32]: hahaha
+[2021-04-20 00:03:07]: SanoreX [Chilli.*, Level 27]: no u
+[2021-04-20 00:03:07]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-20 00:03:07]: ***  [, Level 0]: 'Jerry' has left the game
+[2021-04-20 00:03:08]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
+[2021-04-20 00:03:09]: Rz5z [.bad, Level 35]: rqqqqqqq
