@@ -21324,3 +21324,7 @@
 [2021-04-19 23:04:36]: Noxl. [.bad, Level 35]: what
 [2021-04-19 23:04:49]: SanoreX.* [Chilli.*, Level 23]: he my friend Noxl n
 [2021-04-19 23:04:49]: Noxl. [.bad, Level 35]: kurama: kk
+[2021-04-19 23:04:51]: SanoreX.* [Chilli.*, Level 23]: dont block
+[2021-04-19 23:04:51]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-19 23:04:57]: Noxl. [.bad, Level 35]: SanoreX: hmm
+[2021-04-19 23:04:58]: Noxl. [.bad, Level 35]: ok
