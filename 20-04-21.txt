@@ -10083,3 +10083,6 @@
 [2021-04-20 07:25:24]:   [, Level 0]: bob: ajahj
 [2021-04-20 07:25:26]:   [, Level 0]: JustRace: bob:  bish
 [2021-04-20 07:25:33]: ***  [ýÿÿ, Level 0]: 'Nahuel' entered and joined the game
+[2021-04-20 07:25:43]: ***  [ýÿÿ, Level 0]: 'Flipper' entered and joined the game
+[2021-04-20 07:25:43]: BulgarianTee [Bulgaria, Level 0]: bAd
+[2021-04-20 07:25:43]: Â°YoshiÂ° [, Level 30]: aviÃ¸Ã¸cals 2.0: if i do i die
