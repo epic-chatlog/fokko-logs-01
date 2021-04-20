@@ -9025,3 +9025,8 @@
 [2021-04-20 06:34:31]: ***  [þÿÿ, Level 0]: '[D] Yoshi' changed name to 'Â°Yoshi'
 [2021-04-20 06:34:32]: Levi [, Level 0]: [D] Nightmare: help
 [2021-04-20 06:34:32]: ***  [þÿÿ, Level 0]: 'adm' has left the game
+[2021-04-20 06:34:38]: Levi [, Level 0]: [D] Nightmare: help
+[2021-04-20 06:34:39]: ERROR's coala [DogParty, Level 19]: ERROR:  hi
+[2021-04-20 06:34:40]: ***  [þÿÿ, Level 0]: 'pomarancz' joined the spectators
+[2021-04-20 06:34:41]: ***  [þÿÿ, Level 0]: 'Yoshi' changed name to 'Â°YoshiÂ°'
+[2021-04-20 06:34:43]: ***  [þÿÿ, Level 0]: 'pomarancz' joined the game
