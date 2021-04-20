@@ -18019,3 +18019,5 @@
 [2021-04-20 11:39:58]:   [, Level 0]: Intensiv_: JustRace: no problem
 [2021-04-20 11:40:00]: ***  [, Level 0]: 'CKA3A4NIK[NR]' entered and joined the game
 [2021-04-20 11:40:01]:   [, Level 0]: bubblechicken50: ZEUS: come
+[2021-04-20 11:40:03]: JustRace [404, Level 36]: Intensiv_:  you cannot kill me
+[2021-04-20 11:40:04]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
