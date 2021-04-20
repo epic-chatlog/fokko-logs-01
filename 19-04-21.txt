@@ -22072,3 +22072,6 @@
 [2021-04-19 23:55:55]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-19 23:55:57]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-19 23:56:03]: SanoreX [Chilli.*, Level 27]: brainless tee: yaw hehe aimbotcu seni godlikesin
+[2021-04-19 23:56:04]: ***  [, Level 0]: 'Eladio' entered and joined the game
+[2021-04-19 23:56:04]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-19 23:56:06]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
