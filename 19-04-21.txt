@@ -21288,3 +21288,5 @@
 [2021-04-19 23:00:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-19 23:00:55]: Noxl [.bad, Level 48]: hi
 [2021-04-19 23:01:00]: ***  [, Level 0]: 'Noxl.' entered and joined the game
+[2021-04-19 23:01:16]: ~Never~ [Chilli.*, Level 7]: xD
+[2021-04-19 23:01:17]: (1)#5 blocker [Chilli.*, Level 0]: wtf
