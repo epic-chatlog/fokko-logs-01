@@ -21377,3 +21377,4 @@
 [2021-04-20 13:55:21]: ***  [, Level 0]: 'Luna' has left the game
 [2021-04-20 13:55:21]: ***  [, Level 0]: 'Terra' has left the game
 [2021-04-20 13:55:48]: [D] SkyForge [, Level 0]: Isegrin:  war?
+[2021-04-20 13:55:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
