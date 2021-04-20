@@ -7261,3 +7261,8 @@
 [2021-04-20 05:04:23]: SanoreX [Chilli.*, Level 27]: szczur: grenade
 [2021-04-20 05:04:24]:   [, Level 0]: totaly friendly: shi
 [2021-04-20 05:04:25]:   [, Level 0]: totaly friendly: shit
+[2021-04-20 05:04:28]:   [, Level 0]: totaly friendly: i dont have
+[2021-04-20 05:04:31]:   [, Level 0]: totaly friendly: i only have 2
+[2021-04-20 05:04:37]: GOLD [404, Level 40]: (1)ERROR: omaf
+[2021-04-20 05:04:38]: (1)ERROR [404, Level 25]: fuck off rly they blocked mine today
+[2021-04-20 05:04:38]: ***  [’ÿÿÿ, Level 0]: '0-0' has left the game
