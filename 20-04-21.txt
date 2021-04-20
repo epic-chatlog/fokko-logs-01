@@ -7960,3 +7960,5 @@
 [2021-04-20 05:43:39]: ***  [þÿÿ, Level 0]: 'Black' entered and joined the game
 [2021-04-20 05:43:57]: ***  [þÿÿ, Level 0]: 'Amogus' entered and joined the game
 [2021-04-20 05:44:03]: ***  [þÿÿ, Level 0]: 'TopHat' entered and joined the game
+[2021-04-20 05:44:44]: ***  [þÿÿ, Level 0]: '31sj' entered and joined the game
+[2021-04-20 05:44:46]: ***  [þÿÿ, Level 0]: 'BlockTop' entered and joined the game
