@@ -21799,3 +21799,5 @@
 [2021-04-19 23:38:36]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-19 23:38:38]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-19 23:38:58]: ***  [, Level 0]: 'Raidon's Pet' entered and joined the game
+[2021-04-19 23:39:04]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
+[2021-04-19 23:39:16]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 45.92 second(s)
