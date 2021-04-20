@@ -23114,3 +23114,5 @@
 [2021-04-20 16:05:14]: ☺ [, Level 28]: Zephir ツ: en vrai pareil je bug
 [2021-04-20 16:05:16]: Zephir ツ [404, Level 40]: GODLIKe: just wait tomorrow
 [2021-04-20 16:05:21]: GODLIKe [, Level 44]: Zephir ツ: okay
+[2021-04-20 16:05:34]: Zephir ツ [404, Level 40]: ☺: ta 50ms j'en est 100
+[2021-04-20 16:05:35]: GODLIKe [, Level 44]: Zephir ツ: u cant play teeworlds u just play bonus
