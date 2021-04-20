@@ -20503,3 +20503,5 @@
 [2021-04-19 18:45:26]: ***  [, Level 0]: 'XxHACKxX' has left the game
 [2021-04-19 18:45:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-19 18:46:08]: ***  [, Level 0]: ### 'Killua' RRRRREEEEEEEEEEEEEEEEEEEEEEEEE
+[2021-04-19 18:47:39]: Killua [FookinLads, Level 0]: hi error
+[2021-04-19 18:47:41]: ***  [, Level 0]: 'Prohake707' has left the game
