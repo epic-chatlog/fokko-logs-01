@@ -15910,3 +15910,8 @@
 [2021-04-20 10:40:36]: ***  [, Level 0]: 'Kirito' has been muted for 60 seconds
 [2021-04-20 10:40:36]: ***  [, Level 0]: 'ERROR' has left the game
 [2021-04-20 10:40:38]:   [, Level 0]: BulgarianTee: rq
+[2021-04-20 10:40:41]: :D [E8, Level 5]: yes plz
+[2021-04-20 10:40:43]:   [, Level 0]: yair: \rq
+[2021-04-20 10:40:46]: ***  [, Level 0]: 'Raidon's Pet' entered and joined the game
+[2021-04-20 10:40:50]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-20 10:40:51]: |HolyHo|° [FookinLads, Level 11]: Brezn: war
