@@ -20321,3 +20321,5 @@
 [2021-04-19 18:24:20]: Kirito [{TQuila}, Level 41]: 15/12 gg
 [2021-04-19 18:24:23]: Black [, Level 26]: gg
 [2021-04-19 18:24:26]: ***  [, Level 0]: 'Kirito' left the minigame 'Block'
+[2021-04-19 18:24:40]: Gren [, Level 23]: ez
+[2021-04-19 18:24:43]: Kirito [{TQuila}, Level 41]: who killed me?
