@@ -20194,3 +20194,5 @@
 [2021-04-19 18:05:26]: Kirito [{TQuila}, Level 41]: oop
 [2021-04-19 18:05:28]: Black [, Level 26]: xD
 [2021-04-19 18:05:30]: Kirito [{TQuila}, Level 41]: wrong weapon xD
+[2021-04-19 18:05:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-19 18:05:50]: Black [, Level 26]: DONT DO THIS GAY MOVE
