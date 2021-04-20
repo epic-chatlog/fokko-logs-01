@@ -11228,3 +11228,4 @@
 [2021-04-20 08:13:43]: ***  [ýÿÿ, Level 0]: 'fluffrit' joined the game
 [2021-04-20 08:13:44]: bob [, Level 36]: ERROR: woher kennst du Zephir ãƒ„
 [2021-04-20 08:13:46]: ***  [ýÿÿ, Level 0]: '(1)Good man' finished the special race!
+[2021-04-20 08:13:49]:   [, Level 0]: ERRORS DAD: ERRORS DAD:  u are my favourtie son
