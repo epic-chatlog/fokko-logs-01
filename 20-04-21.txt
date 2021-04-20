@@ -4590,3 +4590,6 @@
 [2021-04-20 02:59:16]: ***  [, Level 0]: 'power' has left the game
 [2021-04-20 02:59:16]: ***  [, Level 0]: 'power2' has left the game
 [2021-04-20 02:59:16]: Nagisa [H] [E8, Level 2]: desculpa
+[2021-04-20 02:59:31]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: achso es war nur einfach so
+[2021-04-20 02:59:35]: [D] falkenauge [Ʀ.I.Ƈ.|BC, Level 35]: glück oder?
+[2021-04-20 02:59:38]: ***  [, Level 0]: Chillingo's killing spree was ended by -:-|ML (9 blocks)
