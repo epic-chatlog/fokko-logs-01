@@ -21801,3 +21801,5 @@
 [2021-04-19 23:38:58]: ***  [, Level 0]: 'Raidon's Pet' entered and joined the game
 [2021-04-19 23:39:04]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
 [2021-04-19 23:39:16]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 45.92 second(s)
+[2021-04-19 23:39:20]: ***  [, Level 0]: Meetiteusz finished in: 1 minute(s) 11.00 second(s)
+[2021-04-19 23:39:20]: ***  [, Level 0]: New record: 1 minute(s)  9.22 second(s) better.
