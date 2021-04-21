@@ -25044,3 +25044,4 @@
 [2021-04-20 21:33:42]: Vesorp [666, Level 26]: cyka
 [2021-04-20 21:35:44]: ***  [, Level 0]: 'Vesorp' has left the game
 [2021-04-20 21:35:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-20 21:38:21]: ***  [, Level 0]: 'ZEWO' entered and joined the game
