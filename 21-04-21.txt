@@ -441,3 +441,4 @@
 [2021-04-21 00:37:19]: ***  [œÿÿÿ, Level 0]: '[D] marcelo' entered and joined the game
 [2021-04-21 00:37:54]: police officer [, Level 3]: wait
 [2021-04-21 00:38:09]: ***  [î, Level 0]: 'HoÅ„i' entered and joined the game
+[2021-04-21 00:38:23]: ***  [î, Level 0]: '(1)MOM' entered and joined the game
