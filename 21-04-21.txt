@@ -927,3 +927,6 @@
 [2021-04-21 01:13:57]: ***  [�, Level 0]: 'ES' entered and joined the game
 [2021-04-21 01:13:58]: ϻɪɔʜɑʟ [DogParty, Level 24]: (1)cat:
 [2021-04-21 01:14:03]: ϻɪɔʜɑʟ [DogParty, Level 24]: grenade
+[2021-04-21 01:14:11]: ***  [�, Level 0]: nenny is on a killing spree with 10 blocks
+[2021-04-21 01:14:14]: ***  [�, Level 0]: nenny's killing spree was ended by 1 (10 blocks)
+[2021-04-21 01:14:15]: ***  [�, Level 0]: 'nenny' has left the game
