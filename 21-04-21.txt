@@ -602,3 +602,5 @@
 [2021-04-21 00:54:16]: Intensiv_ [DogParty, Level 12]: 1:  alsana
 [2021-04-21 00:54:35]: ***  [Ž, Level 0]: 'ElTioNoVaToN:s' entered and joined the game
 [2021-04-21 00:54:40]: ***  [Ž, Level 0]: 'sad' has left the game
+[2021-04-21 00:54:49]: ***  [Ž, Level 0]: 'blazingd420' has left the game
+[2021-04-21 00:54:50]: klas [, Level 0]: t
