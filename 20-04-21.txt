@@ -24950,3 +24950,4 @@
 [2021-04-20 19:36:08]: klas [, Level 0]: what jump
 [2021-04-20 19:36:39]: ezy [.bad, Level 23]: yo start
 [2021-04-20 19:36:54]: ezy [.bad, Level 23]: you kill me and im geve my deamy and kill you
+[2021-04-20 19:37:00]: ezy [.bad, Level 23]: you ezy
