@@ -24036,3 +24036,5 @@
 [2021-04-20 17:25:19]: Cup [, Level 0]: mal benim ali ananı siken ali
 [2021-04-20 17:25:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-20 17:26:15]: Cup [, Level 0]: lan sikiş  dün akşam seni canlı yayında izledim lan mal
+[2021-04-20 17:26:27]: ***  [, Level 0]: 'noname' finished the special race!
+[2021-04-20 17:26:30]: ***  [, Level 0]: 'xBaseL' entered and joined the game
