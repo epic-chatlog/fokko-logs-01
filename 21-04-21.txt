@@ -161,3 +161,8 @@
 [2021-04-21 00:14:55]: muliboy [, Level 0]: could i make it back
 [2021-04-21 00:15:02]: muliboy [, Level 0]: ??
 [2021-04-21 00:15:03]: ***  [, Level 0]: [POLICE-CHANNEL] 'Santa Claus' is spawnblocking. Catch him!
+[2021-04-21 00:15:09]: ***  [, Level 0]: Santa Claus is on a killing spree with 5 blocks
+[2021-04-21 00:15:09]: ***  [, Level 0]: [POLICE-CHANNEL] 'Santa Claus' is spawnblocking. Catch him!
+[2021-04-21 00:15:12]: ***  [, Level 0]: Santa Claus's killing spree was ended by coffee (5 blocks)
+[2021-04-21 00:15:13]: Matiteusz [TrRShClNrRs, Level 37]: ERROR: NNANANANANN
+[2021-04-21 00:15:15]: muliboy [, Level 0]: how#
