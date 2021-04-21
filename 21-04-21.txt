@@ -1266,3 +1266,6 @@
 [2021-04-21 01:40:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-21 01:40:56]: ***  [, Level 0]: (1)ghp finished in: 21 minute(s) 51.80 second(s)
 [2021-04-21 01:40:56]: ***  [, Level 0]: '(1)ghp' finished the special race!
+[2021-04-21 01:40:59]: ã€Jesterã€ [, Level 0]: at insan:  adamlar seni bi yere kadar getirdi ben malmÄ±yÄ±m
+[2021-04-21 01:41:00]: ***  [, Level 0]: (1)[D] ghp finished in: 19 minute(s) 36.04 second(s)
+[2021-04-21 01:41:00]: ***  [, Level 0]: '(1)[D] ghp' finished the special race!
