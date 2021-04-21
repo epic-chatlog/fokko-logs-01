@@ -177,3 +177,9 @@
 [2021-04-21 00:15:50]: ***  [, Level 0]: ':/ MX' has left the game
 [2021-04-21 00:15:51]: ERROR. [404, Level 57]: i took money xD
 [2021-04-21 00:15:52]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-21 00:16:02]: Matiteusz [TrRShClNrRs, Level 37]: avioocals: yeah
+[2021-04-21 00:16:04]: ***  [, Level 0]: '[D] Santa Claus' has left the game
+[2021-04-21 00:16:04]: ***  [, Level 0]: 'Santa Claus' has left the game
+[2021-04-21 00:16:05]: muliboy [, Level 0]: how could i make it back
+[2021-04-21 00:16:08]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-21 00:16:10]: ***  [, Level 0]: ':/ MX' entered and joined the game
