@@ -679,3 +679,5 @@
 [2021-04-21 01:02:12]: Nagisa [H] [E8, Level 3]: no
 [2021-04-21 01:02:13]: ***  [�, Level 0]: [POLICE-CHANNEL] 'Isegrin' is spawnblocking. Catch him!
 [2021-04-21 01:02:13]: ***  [�, Level 0]: 'bartoszekfan' has left the game
+[2021-04-21 01:02:14]: ***  [�, Level 0]: 'ṆḕẌṳS' entered and joined the game
+[2021-04-21 01:02:18]: ***  [�, Level 0]: [POLICE-CHANNEL] 'ϻɪɔʜɑʟ' has been caught by 'Isegrin' (5 minutes arrest)
