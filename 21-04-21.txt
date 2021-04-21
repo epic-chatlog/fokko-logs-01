@@ -23,3 +23,6 @@
 [2021-04-21 00:01:57]: #5 blocker [Chilli.*, Level 24]: ERROR.: kell jetpack?
 [2021-04-21 00:01:59]: #5 blocker [Chilli.*, Level 24]: xd
 [2021-04-21 00:02:12]: SanoreX.* [Chilli.*, Level 23]: xd
+[2021-04-21 00:02:21]: SanoreX.* [Chilli.*, Level 23]: ERROR: help pls
+[2021-04-21 00:02:23]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
+[2021-04-21 00:02:24]: muluk [, Level 0]: and now
