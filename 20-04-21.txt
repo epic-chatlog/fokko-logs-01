@@ -24809,3 +24809,6 @@
 [2021-04-20 19:25:36]: ***  [, Level 0]: 'nameless tee' joined the game
 [2021-04-20 19:25:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-20 19:25:50]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-20 19:25:54]: ***  [, Level 0]: 'nameless tee' joined the game
+[2021-04-20 19:25:58]: Awaxaz [Blood Day, Level 0]: ben ekstim onmuda mak
+[2021-04-20 19:26:06]: Awaxaz [Blood Day, Level 0]: ez
