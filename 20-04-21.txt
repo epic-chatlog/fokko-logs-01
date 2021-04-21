@@ -23961,3 +23961,5 @@
 [2021-04-20 17:15:50]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-20 17:15:55]: sikiş [, Level 0]: gel roket at
 [2021-04-20 17:16:05]: ¡ RodCYREX 神 [Blood Day, Level 8]: :S
+[2021-04-20 17:16:11]: ¡ RodCYREX 神 [Blood Day, Level 8]: kendimi attım daha işe yaradı
+[2021-04-20 17:16:17]: sikiş [, Level 0]: roket at
