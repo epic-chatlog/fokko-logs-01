@@ -25651,3 +25651,6 @@
 [2021-04-20 23:55:06]: muluk [, Level 0]: ok
 [2021-04-20 23:55:15]: comic [comically, Level 15]: ghostsniper2019: why 2019?
 [2021-04-20 23:55:16]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-20 23:55:18]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-20 23:55:18]: ERROR [404, Level 76]: xD
+[2021-04-20 23:55:23]: Raidon [, Level 24]: SanoreX: up
