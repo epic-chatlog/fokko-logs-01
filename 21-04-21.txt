@@ -582,3 +582,7 @@
 [2021-04-21 00:52:54]: klas [, Level 0]: (1)Cup: what gun
 [2021-04-21 00:53:00]: Raidon [, Level 24]: (1)muliboy:
 [2021-04-21 00:53:04]: (1)Cup [, Level 0]: klas: ?
+[2021-04-21 00:53:12]: klas [, Level 0]: why
+[2021-04-21 00:53:16]: klas [, Level 0]: gun
+[2021-04-21 00:53:24]: ***  [Ž, Level 0]: 'coffee' has left the game
+[2021-04-21 00:53:24]: ***  [Ž, Level 0]: 'coffee [D]' has left the game
