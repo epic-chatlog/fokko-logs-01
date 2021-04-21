@@ -25507,3 +25507,8 @@
 [2021-04-20 23:44:40]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 38.56 second(s)
 [2021-04-20 23:44:44]: Matiteusz [TrRShClNrRs, Level 37]: Isegrin: tag
 [2021-04-20 23:44:44]: [D] #5 blocker [Chilli.*, Level 0]: flag wtf
+[2021-04-20 23:44:51]: Matiteusz [TrRShClNrRs, Level 37]: Isegrin: muj tata
+[2021-04-20 23:44:52]: ***  [, Level 0]: 'valerabest' has left the game
+[2021-04-20 23:44:57]: ANIME BOY [, Level 0]: how to go to spawn with money
+[2021-04-20 23:44:59]: SanoreX.* [Chilli.*, Level 23]: #5 blocker: look
+[2021-04-20 23:45:01]: ***  [, Level 0]: ':/ MX' has left the game
