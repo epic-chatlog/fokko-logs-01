@@ -1118,3 +1118,6 @@
 [2021-04-21 01:30:37]: ***  [Ž, Level 0]: 'Marcisten' has left the game
 [2021-04-21 01:30:38]: Meetiteusz [TrRShClNrRs, Level 29]: Mista bombastic hi
 [2021-04-21 01:30:41]: :D [E8, Level 6]: nagisa
+[2021-04-21 01:30:46]: Meetiteusz [TrRShClNrRs, Level 29]: kurva
+[2021-04-21 01:30:49]: :D [E8, Level 6]: eyw
+[2021-04-21 01:30:50]: ***  [Ž, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
