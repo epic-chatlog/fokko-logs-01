@@ -25245,3 +25245,6 @@
 [2021-04-20 23:04:08]: ***  [, Level 0]: 'Tom' entered and joined the game
 [2021-04-20 23:04:31]: ***  [, Level 0]: 'Jerry' entered and joined the game
 [2021-04-20 23:05:33]: ***  [, Level 0]: '(1)Tom' entered and joined the game
+[2021-04-20 23:05:37]: ***  [, Level 0]: 'Jerry' has left the game (Timeout)
+[2021-04-20 23:05:37]: ***  [, Level 0]: 'Tom' has left the game (Timeout)
+[2021-04-20 23:05:44]: ***  [, Level 0]: 'JɨKɆӾ' has left the game
