@@ -276,3 +276,7 @@
 [2021-04-21 00:23:41]: ***  [, Level 0]: 'GrosS' entered and joined the game
 [2021-04-21 00:23:44]: Taip [VergleriSay, Level 0]: how
 [2021-04-21 00:23:46]: ***  [, Level 0]: 'KetchupNecmy' has left the game
+[2021-04-21 00:23:51]: Taip [VergleriSay, Level 0]: ho
+[2021-04-21 00:23:52]: Raidon [, Level 24]: Ƭevan: get screenshot
+[2021-04-21 00:23:53]: Raidon [, Level 24]: xd
+[2021-04-21 00:23:57]: Taip [VergleriSay, Level 0]: how
