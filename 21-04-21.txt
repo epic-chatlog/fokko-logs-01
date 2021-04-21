@@ -611,3 +611,4 @@
 [2021-04-21 00:55:19]: ***  [Ž, Level 0]: iydrss finished in: 3 minute(s) 25.64 second(s)
 [2021-04-21 00:55:40]: ***  [Ž, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-21 00:55:50]: ***  [Ž, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-21 00:56:01]: Raidon [, Level 24]: (1)Cup: help
