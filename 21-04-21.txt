@@ -1867,3 +1867,11 @@
 [2021-04-21 02:13:07]: Nagisa [H] [E8, Level 3]: gel
 [2021-04-21 02:13:15]: Nagisa [H] [E8, Level 3]: silag al
 [2021-04-21 02:13:16]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-21 02:13:23]: ***  [Ž, Level 0]: 'HARUN BABA01 21' entered and joined the game
+[2021-04-21 02:13:24]: ***  [Ž, Level 0]: 'tee' has left the game
+[2021-04-21 02:13:25]: Nagisa [H] [E8, Level 3]: nereye gÃ¶tÃ¼rim seni
+[2021-04-21 02:13:26]: ***  [Ž, Level 0]: 'tee' entered and joined the game
+[2021-04-21 02:13:29]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' has been caught by 'Isegrin' (12 minutes arrest)
+[2021-04-21 02:13:33]: ***  [Ž, Level 0]: 'Rem's bae' entered and joined the game
+[2021-04-21 02:13:33]: Isegrin [, Level 55]: el champeon: xD
+[2021-04-21 02:13:33]: Nagisa [H] [E8, Level 3]: sÄ±nÄ±rsÄ±z jump istermisin
