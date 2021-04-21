@@ -1376,3 +1376,10 @@
 [2021-04-21 01:49:51]: ***  [é, Level 0]: 'klas 2' has left the game
 [2021-04-21 01:49:52]: ***  [é, Level 0]: 'Taip' entered and joined the game
 [2021-04-21 01:49:53]: Nagisa [H] [E8, Level 3]: sta:
+[2021-04-21 01:49:57]: Terra [, Level 0]: how do we exit spectator mode btw
+[2021-04-21 01:49:58]: at insan [freepor√ßay, Level 0]: evt
+[2021-04-21 01:49:59]: muluk [, Level 0]: laser
+[2021-04-21 01:49:59]: Nagisa [H] [E8, Level 3]: inf jump gelcenmi
+[2021-04-21 01:50:01]: at insan [freepor√ßay, Level 0]: dur
+[2021-04-21 01:50:02]: Nagisa [H] [E8, Level 3]: gel
+[2021-04-21 01:50:04]: at insan [freepor√ßay, Level 0]: dur
