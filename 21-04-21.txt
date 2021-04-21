@@ -609,3 +609,4 @@
 [2021-04-21 00:55:14]: ***  [Ž, Level 0]: 'klas 2' has left the game
 [2021-04-21 00:55:14]: ***  [Ž, Level 0]: 'klas' has left the game
 [2021-04-21 00:55:19]: ***  [Ž, Level 0]: iydrss finished in: 3 minute(s) 25.64 second(s)
+[2021-04-21 00:55:40]: ***  [Ž, Level 0]: 'nameless tee' entered and joined the game
