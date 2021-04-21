@@ -25384,3 +25384,7 @@
 [2021-04-20 23:30:20]: ***  [, Level 0]: Ƭevan finished in: 1 minute(s) 50.16 second(s)
 [2021-04-20 23:30:20]: ***  [, Level 0]: New record: 53.68 second(s) better.
 [2021-04-20 23:30:43]: #5 blocker [Chilli.*, Level 24]: .XFault: stop
+[2021-04-20 23:30:48]: .XFault [, Level 0]: um hahahaha minecraft kid
+[2021-04-20 23:30:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-20 23:30:52]: ***  [, Level 0]: 'Уточка'-'' finished the special race!
+[2021-04-20 23:30:55]: ***  [, Level 0]: 'muluk' finished the special race!
