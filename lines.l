@@ -18,9 +18,9 @@
    21881 18-04-21.txt
    22162 19-04-21.txt
    25700 20-04-21.txt
-     561 21-04-21.txt
+     566 21-04-21.txt
        3 README.md
        7 autocommit.sh
        6 getlines.sh
-      20 lines.l
-  299903 total
+      24 lines.l
+  299912 total
