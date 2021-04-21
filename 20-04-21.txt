@@ -25288,3 +25288,4 @@
 [2021-04-20 23:11:54]: ***  [, Level 0]: 'ghostsniper2019' has left the game
 [2021-04-20 23:11:54]: ***  [, Level 0]: [POLICE-CHANNEL] 'Уточка'-'' is spawnblocking. Catch him!
 [2021-04-20 23:12:01]: muliboy [, Level 0]: lags
+[2021-04-20 23:12:44]: muliboy [, Level 0]: we need laser
