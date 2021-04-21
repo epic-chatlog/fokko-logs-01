@@ -25193,3 +25193,5 @@
 [2021-04-20 22:53:02]: K!ked [De}|{aBю, Level 62]: ya
 [2021-04-20 22:53:03]: S Y T H N [, Level 37]: are yoz bot?
 [2021-04-20 22:53:07]: S Y T H N [, Level 37]: are yoz boti.?
+[2021-04-20 22:54:01]: ***  [, Level 0]: 'Recep' has left the game (Timeout)
+[2021-04-20 22:54:01]: ***  [, Level 0]: 'Taip' has left the game (Timeout)
