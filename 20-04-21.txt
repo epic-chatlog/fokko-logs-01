@@ -25571,3 +25571,5 @@
 [2021-04-20 23:50:17]: ***  [, Level 0]: [POLICE-CHANNEL] 'impostor amogus' is spawnblocking. Catch him!
 [2021-04-20 23:50:18]: SanoreX [Chilli.*, Level 27]: avioocals: I need xd
 [2021-04-20 23:50:20]: SanoreX [Chilli.*, Level 27]: avioocals: I need xp
+[2021-04-20 23:50:44]: muliboy [, Level 0]: and  ow
+[2021-04-20 23:50:44]: ***  [, Level 0]: 'tee' has left the game (Too weak connection (not acked for 60 seconds))
