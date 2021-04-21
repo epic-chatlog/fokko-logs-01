@@ -25235,3 +25235,4 @@
 [2021-04-20 23:01:10]: ***  [, Level 0]: 'Noxl' has left the game (Timeout)
 [2021-04-20 23:01:10]: ***  [, Level 0]: 'Rz5z' has left the game (Timeout)
 [2021-04-20 23:01:16]: muliboy [, Level 0]: en
+[2021-04-20 23:01:38]: ***  [, Level 0]: 'cat' entered and joined the game
