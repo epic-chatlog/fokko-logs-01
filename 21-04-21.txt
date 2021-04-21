@@ -883,3 +883,7 @@
 [2021-04-21 01:12:11]: ***  [Ž, Level 0]: : is on a killing spree with 15 blocks
 [2021-04-21 01:12:12]: Raidon [, Level 24]: YOU NO HAVE CHEK POINT
 [2021-04-21 01:12:14]: Raidon [, Level 24]: FUCK YOUUU
+[2021-04-21 01:12:17]: ***  [Ž, Level 0]: [POLICE-CHANNEL] ':' is spawnblocking. Catch him!
+[2021-04-21 01:12:19]: muluk [, Level 0]: sry
+[2021-04-21 01:12:25]: ***  [Ž, Level 0]: [POLICE-CHANNEL] ':' is spawnblocking. Catch him!
+[2021-04-21 01:12:27]: Raidon [, Level 24]: DONT SAY SORRY
