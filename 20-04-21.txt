@@ -25607,3 +25607,8 @@
 [2021-04-20 23:52:34]: ***  [, Level 0]: [POLICE-CHANNEL] 'dummier' is spawnblocking. Catch him!
 [2021-04-20 23:52:36]: avioocals 2.0 [|*MorE*|, Level 0]: I BLOCK NPT U
 [2021-04-20 23:52:37]: (1)Tom [, Level 32]: deposit
+[2021-04-20 23:52:40]: ***  [, Level 0]: 'Virus' entered and joined the game
+[2021-04-20 23:52:40]: SanoreX [Chilli.*, Level 27]: (1)Ƭevan: bind b "+fire; say /money drop 1"
+[2021-04-20 23:52:43]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-20 23:52:44]: ***  [, Level 0]: [POLICE-CHANNEL] 'dummier' is spawnblocking. Catch him!
+[2021-04-20 23:52:47]: SanoreX [Chilli.*, Level 27]: (1)Ƭevan: bind b "+fire; say /money drop 1" use with shotgun
