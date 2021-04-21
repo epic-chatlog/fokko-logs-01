@@ -1042,3 +1042,5 @@
 [2021-04-21 01:25:55]: sta [freeporçay, Level 0]: sonunda 8 jump aldım
 [2021-04-21 01:25:55]: ***  [�, Level 0]: '[D] Santa Claus' has left the game
 [2021-04-21 01:25:59]: ṆḕẌṳS [Chilli.*, Level 0]: NABAM
+[2021-04-21 01:26:08]: ***  [�, Level 0]: '(1)Raidon's Pet' entered and joined the game
+[2021-04-21 01:26:08]: sta [freeporçay, Level 0]: es
