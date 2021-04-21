@@ -549,3 +549,6 @@
 [2021-04-21 00:50:26]: ***  [Ž, Level 0]: 'cHurch' entered and joined the game
 [2021-04-21 00:50:30]: ~DemoizL~ [, Level 39]: avioocals: a la police on block pas pour rien
 [2021-04-21 00:50:36]: (1)muluk [, Level 0]: wait pls
+[2021-04-21 00:50:39]: ~DemoizL~ [, Level 39]: avioocals: il est simpa lui
+[2021-04-21 00:50:40]: avioocals [|*MorE*|, Level 0]: MAIS JALLAIS TE SAUVER
+[2021-04-21 00:50:50]: ***  [Ž, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
