@@ -25294,3 +25294,6 @@
 [2021-04-20 23:13:51]: ***  [, Level 0]: '_Wolk376_' entered and joined the game
 [2021-04-20 23:14:01]: ***  [, Level 0]: 'Best Troll' has left the game
 [2021-04-20 23:14:03]: muliboy [, Level 0]: we need laser
+[2021-04-20 23:14:09]: ***  [, Level 0]: 'KenanKardes' entered and joined the game
+[2021-04-20 23:14:09]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-20 23:14:12]: muliboy [, Level 0]: or tom 1
