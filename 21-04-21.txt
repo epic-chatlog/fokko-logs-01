@@ -859,3 +859,6 @@
 [2021-04-21 01:10:53]: [D] ghp [, Level 0]: sosori
 [2021-04-21 01:10:58]: Raidon [, Level 24]: muluk: im know
 [2021-04-21 01:11:01]: Raidon [, Level 24]: muluk: go up
+[2021-04-21 01:11:07]: ***  [Ž, Level 0]: : is on a killing spree with 10 blocks
+[2021-04-21 01:11:07]: ***  [Ž, Level 0]: '(1)Matiteusz' entered and joined the game
+[2021-04-21 01:11:11]: nenny [doq, Level 0]: : noob
