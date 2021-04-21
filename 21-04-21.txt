@@ -332,3 +332,7 @@
 [2021-04-21 00:28:42]: muluk [, Level 0]: wtf
 [2021-04-21 00:28:50]: ***  [, Level 0]: 'LexyEvil' entered and joined the game
 [2021-04-21 00:28:52]: ***  [, Level 0]: 'oyun kralı' entered and joined the game
+[2021-04-21 00:28:58]: ***  [, Level 0]: 'oyun kralı' has left the game
+[2021-04-21 00:29:00]: Meetiteusz [TrRShClNrRs, Level 29]: Ƭevan: someone ate cokc
+[2021-04-21 00:29:04]: avioocals [|*MorE*|, Level 0]: salut kais
+[2021-04-21 00:29:05]: Meetiteusz [TrRShClNrRs, Level 29]: Ƭevan: idk
