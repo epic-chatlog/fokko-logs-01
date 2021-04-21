@@ -2698,3 +2698,9 @@
 [2021-04-21 02:45:00]: (1)Raidon [, Level 0]: Æ¬evan: laser me
 [2021-04-21 02:45:00]: [D] ghp [, Level 0]: sosori
 [2021-04-21 02:45:02]:   [, Level 0]: .S L E E P Y': ghp: yes
+[2021-04-21 02:45:03]: [D] ghp [, Level 0]: sosori
+[2021-04-21 02:45:04]:   [, Level 0]: .S L E E P Y': random
+[2021-04-21 02:45:04]: ***  [ƒýÿÿ, Level 0]: '[D] ghp' has been muted for 60 seconds
+[2021-04-21 02:45:07]: ReXi [, Level 0]: GReeeN: positiv oder negativ
+[2021-04-21 02:45:08]: ***  [ƒýÿÿ, Level 0]: 'XDMAN' has left the game
+[2021-04-21 02:45:09]:   [, Level 0]: [D] Cylox: kristalik25: help me
