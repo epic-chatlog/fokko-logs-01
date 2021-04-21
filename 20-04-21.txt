@@ -25419,3 +25419,5 @@
 [2021-04-20 23:35:09]: ***  [, Level 0]: 'PARDUS' entered and joined the game
 [2021-04-20 23:35:49]: ***  [, Level 0]: 'Cup' entered and joined the game
 [2021-04-20 23:35:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-20 23:35:57]: [D] #5 blocker [Chilli.*, Level 0]: spec flappy
+[2021-04-20 23:36:02]: muliboy [, Level 0]: tom
