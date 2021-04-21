@@ -90,3 +90,4 @@
 [2021-04-21 00:07:52]: ***  [, Level 0]: 'Matiteusz' has left the game (Timeout)
 [2021-04-21 00:07:52]: ***  [, Level 0]: 'Meetiteusz' has left the game (Timeout)
 [2021-04-21 00:07:59]: Ƭevan [TrRShClNrRs, Level 50]: (1)ERROR:
+[2021-04-21 00:08:13]: avioocals 2.0 [|*MorE*|, Level 0]: noob
