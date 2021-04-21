@@ -23866,3 +23866,5 @@
 [2021-04-20 17:06:17]: bob [, Level 36]: XD
 [2021-04-20 17:06:31]: (C)Ali [Blood Gang , Level 4]: dummy ile konuşunca başka kişi ile mi konuşüyor oluyosun
 [2021-04-20 17:06:33]: ezy [.bad, Level 0]: لخ
+[2021-04-20 17:06:46]: ***  [, Level 0]: 'nar' entered and joined the game
+[2021-04-20 17:06:48]: Kenshi ツ [404, Level 40]: ERROR: just 2 jumps :c
