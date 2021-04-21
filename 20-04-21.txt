@@ -24478,3 +24478,4 @@
 [2021-04-20 18:39:53]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-20 18:40:01]: (1)☺ [, Level 26]: bob: yeeee
 [2021-04-20 18:40:12]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-20 18:40:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
