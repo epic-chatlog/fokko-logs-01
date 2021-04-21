@@ -25171,3 +25171,4 @@
 [2021-04-20 22:49:14]: ***  [, Level 0]: 'Jerry' has left the game
 [2021-04-20 22:49:14]: ***  [, Level 0]: 'Tom' has left the game
 [2021-04-20 22:50:19]: K!ked [De}|{aBю, Level 62]: EZ
+[2021-04-20 22:50:32]: ***  [, Level 0]: 'Lakatos Mario' has left the game
