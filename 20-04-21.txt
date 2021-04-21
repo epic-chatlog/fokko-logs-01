@@ -25125,3 +25125,4 @@
 [2021-04-20 22:35:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-20 22:36:29]: ***  [, Level 0]: '[D] Boti.' entered and joined the game
 [2021-04-20 22:36:43]: ***  [, Level 0]: '[D] Boti.' has left the game
+[2021-04-20 22:37:02]: ***  [, Level 0]: 'Boti.' has left the game
