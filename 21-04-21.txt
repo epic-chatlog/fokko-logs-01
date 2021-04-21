@@ -1835,3 +1835,6 @@
 [2021-04-21 02:11:14]: ***  [�, Level 0]: 'you zi' has left the game
 [2021-04-21 02:11:21]: sta [freeporçay, Level 0]: 『Jester』:  2 hesaptanda silah var
 [2021-04-21 02:11:27]: ***  [�, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-21 02:11:29]: Nagisa [H] [E8, Level 3]: muliboy: stop me enemy help
+[2021-04-21 02:11:31]: sta [freeporçay, Level 0]: ama ben 1 tanesinden almıştım
+[2021-04-21 02:11:37]: ***  [�, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
