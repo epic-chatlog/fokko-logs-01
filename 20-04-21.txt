@@ -24261,3 +24261,5 @@
 [2021-04-20 18:05:07]: ***  [, Level 0]: 'neko' has left the game
 [2021-04-20 18:05:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-20 18:06:59]: ***  [, Level 0]: 'moinmoion' entered and joined the game
+[2021-04-20 18:07:09]: ***  [, Level 0]: 'ERROR' has left the game
+[2021-04-20 18:07:09]: ***  [, Level 0]: '[D] ERROR' has left the game
