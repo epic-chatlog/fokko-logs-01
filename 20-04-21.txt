@@ -23919,3 +23919,5 @@
 [2021-04-20 17:12:12]: Cup [, Level 0]: lan mal kill çek
 [2021-04-20 17:12:15]: Cup [, Level 0]: gel
 [2021-04-20 17:12:25]: Cup [, Level 0]: lan kafanı sikim gel
+[2021-04-20 17:12:30]: [D] ERROR [404, Level 57]: xdddddddddddddddd
+[2021-04-20 17:12:36]: ***  [, Level 0]: 'Vesorp' entered and joined the game
