@@ -24805,3 +24805,5 @@
 [2021-04-20 19:24:28]: Bruh. [Blood Day, Level 7]: orda banka var
 [2021-04-20 19:25:05]: Awaxaz [Blood Day, Level 0]: klas amk izleme
 [2021-04-20 19:25:13]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-20 19:25:32]: ***  [, Level 0]: 'nameless tee' joined the spectators
+[2021-04-20 19:25:36]: ***  [, Level 0]: 'nameless tee' joined the game
