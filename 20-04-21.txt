@@ -24487,3 +24487,4 @@
 [2021-04-20 18:42:27]: (1)☺ [, Level 26]: thx dude
 [2021-04-20 18:42:39]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-20 18:42:43]: (1)☺ [, Level 26]: ahh
+[2021-04-20 18:42:51]: ***  [, Level 0]: 'AllTheIDDrace' has left the game
