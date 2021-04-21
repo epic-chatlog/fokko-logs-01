@@ -1214,3 +1214,8 @@
 [2021-04-21 01:36:30]: sta [freeporçay, Level 0]: Nagisa [H]:  bende silah yok
 [2021-04-21 01:36:41]: Nagisa [H] [E8, Level 3]: git al sen orda bekle istersen
 [2021-04-21 01:36:47]: sta [freeporçay, Level 0]: nerde
+[2021-04-21 01:36:51]: ***  [�, Level 0]: Meetiteusz finished in: 3 minute(s) 21.86 second(s)
+[2021-04-21 01:36:56]: sta [freeporçay, Level 0]: bomba dan da yok
+[2021-04-21 01:36:58]: Nagisa [H] [E8, Level 3]: aşağıda var
+[2021-04-21 01:37:00]: Meetiteusz [TrRShClNrRs, Level 29]: Raidon: what are you doing
+[2021-04-21 01:37:00]: ***  [�, Level 0]: 'nameless tee' has left the game
