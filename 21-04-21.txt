@@ -1128,3 +1128,8 @@
 [2021-04-21 01:31:13]: ***  [é, Level 0]: 'tee' has left the game
 [2021-04-21 01:31:14]: [D] ghp [, Level 0]: ES zignomi
 [2021-04-21 01:31:14]: ***  [é, Level 0]: 'tee' entered and joined the game
+[2021-04-21 01:31:19]: ghp [1234, Level 0]: ES zignomi
+[2021-04-21 01:31:23]: ***  [é, Level 0]: 'tee' has left the game
+[2021-04-21 01:31:25]: ***  [é, Level 0]: 'tee' entered and joined the game
+[2021-04-21 01:31:26]:   [, Level 0]: Cylox: xD
+[2021-04-21 01:31:28]: sta [freepor√ßay, Level 0]: es stopppppppppppp
