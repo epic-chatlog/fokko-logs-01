@@ -1597,3 +1597,6 @@
 [2021-04-21 01:59:58]: Meetiteusz [TrRShClNrRs, Level 29]: police officer:
 [2021-04-21 01:59:59]: ***  [Ž, Level 0]: 'oyun kralÄ±' has left the game
 [2021-04-21 02:00:00]: Meetiteusz [TrRShClNrRs, Level 29]: Æ¬evan:
+[2021-04-21 02:00:11]: ***  [Ž, Level 0]: 'tee' has left the game
+[2021-04-21 02:00:14]: ***  [Ž, Level 0]: 'tee' entered and joined the game
+[2021-04-21 02:00:16]: ***  [Ž, Level 0]: yazan~_+ is on a killing spree with 5 blocks
