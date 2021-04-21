@@ -294,3 +294,6 @@
 [2021-04-21 00:25:15]: avioocals 2.0 [|*MorE*|, Level 0]: pls
 [2021-04-21 00:25:19]: avioocals 2.0 [|*MorE*|, Level 0]: Matiteusz: is my friend
 [2021-04-21 00:25:22]: ***  [, Level 0]: 'GrosS' has left the game
+[2021-04-21 00:25:26]: Taip [VergleriSay, Level 0]: STOP
+[2021-04-21 00:25:32]: ***  [, Level 0]: 'kais' has left the game
+[2021-04-21 00:25:32]: ***  [, Level 0]: '(1)kais' has left the game
