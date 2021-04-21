@@ -1354,3 +1354,5 @@
 [2021-04-21 01:48:30]: Raidon [, Level 24]: Terra: spec
 [2021-04-21 01:48:37]:   [, Level 0]: nenny: Matiteusz:  srr
 [2021-04-21 01:48:38]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-21 01:48:48]: Raidon [, Level 24]: Terra: 1 min
+[2021-04-21 01:48:49]: Terra [, Level 0]: Raidon: i can't use spec
