@@ -25050,3 +25050,4 @@
 [2021-04-20 21:41:42]: ***  [, Level 0]: 'ZEWO' has left the game
 [2021-04-20 21:45:34]: ***  [, Level 0]: 'Tom' entered and joined the game
 [2021-04-20 21:45:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-20 21:46:43]: ***  [, Level 0]: 'ClemEntine' entered and joined the game
