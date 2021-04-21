@@ -1546,3 +1546,4 @@
 [2021-04-21 01:57:06]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
 [2021-04-21 01:57:12]: ***  [Ž, Level 0]: el champeon is on a killing spree with 10 blocks
 [2021-04-21 01:57:12]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-21 01:57:26]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'ShiroKIngt' is spawnblocking. Catch him!
