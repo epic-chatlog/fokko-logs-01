@@ -546,3 +546,6 @@
 [2021-04-21 00:50:12]: ***  [é, Level 0]: '„ÄéJester„Äè' would have timed out, but can use timeout protection now
 [2021-04-21 00:50:21]: avioocals [|*MorE*|, Level 0]: PK TU LES LAISSE ALLER
 [2021-04-21 00:50:24]: avioocals [|*MorE*|, Level 0]: IL NOUS BLOCK
+[2021-04-21 00:50:26]: ***  [é, Level 0]: 'cHurch' entered and joined the game
+[2021-04-21 00:50:30]: ~DemoizL~ [, Level 39]: avioocals: a la police on block pas pour rien
+[2021-04-21 00:50:36]: (1)muluk [, Level 0]: wait pls
