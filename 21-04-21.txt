@@ -553,3 +553,8 @@
 [2021-04-21 00:50:40]: avioocals [|*MorE*|, Level 0]: MAIS JALLAIS TE SAUVER
 [2021-04-21 00:50:50]: ***  [Ž, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-21 00:51:02]: pollice helper [, Level 1]: avioocals can you take flappy from there they stink
+[2021-04-21 00:51:06]: ~DemoizL~ [, Level 39]: avioocals: c'est Ã  dire ?
+[2021-04-21 00:51:06]: ***  [Ž, Level 0]: 'Snaxy' entered and joined the game
+[2021-04-21 00:51:15]: ***  [Ž, Level 0]: 'Snaxy' has left the game
+[2021-04-21 00:51:17]: ***  [Ž, Level 0]: 'Cacke' has left the game
+[2021-04-21 00:51:17]: ***  [Ž, Level 0]: 'Cup' has left the game
