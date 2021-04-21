@@ -1861,3 +1861,7 @@
 [2021-04-21 02:12:42]:   [, Level 0]: „ÄéJester„Äè: jump
 [2021-04-21 02:12:51]: sta [freepor√ßay, Level 0]: sen reset mi √ßektin
 [2021-04-21 02:12:55]: ***  [é, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-21 02:12:56]: ***  [é, Level 0]: 'any' has left the game
+[2021-04-21 02:13:02]: ***  [é, Level 0]: 'tee' has left the game
+[2021-04-21 02:13:05]: ***  [é, Level 0]: 'tee' entered and joined the game
+[2021-04-21 02:13:07]: Nagisa [H] [E8, Level 3]: gel
