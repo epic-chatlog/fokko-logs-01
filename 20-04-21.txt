@@ -25072,3 +25072,4 @@
 [2021-04-20 22:04:13]: ***  [, Level 0]: 'Jerry' finished the special race!
 [2021-04-20 22:04:19]: ***  [, Level 0]: Tom finished in: 9 minute(s)  2.04 second(s)
 [2021-04-20 22:04:19]: ***  [, Level 0]: 'Tom' finished the special race!
+[2021-04-20 22:05:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
