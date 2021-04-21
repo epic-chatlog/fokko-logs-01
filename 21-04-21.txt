@@ -1083,3 +1083,6 @@
 [2021-04-21 01:29:07]: ***  [�, Level 0]: '.' entered and joined the game
 [2021-04-21 01:29:09]: sta [freeporçay, Level 0]: 『Jester』:  ne
 [2021-04-21 01:29:09]: Nagisa [H] [E8, Level 3]: ghp
+[2021-04-21 01:29:19]: 『Jester』 [, Level 0]: sta biz giddik bb
+[2021-04-21 01:29:22]: Raidon [, Level 24]: oyun kralı: kes ananı sikmim şimdi piç
+[2021-04-21 01:29:24]: at insan [freeporçay, Level 0]: bb
