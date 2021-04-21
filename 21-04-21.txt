@@ -608,3 +608,4 @@
 [2021-04-21 00:55:12]: ***  [Ž, Level 0]: New record: 2 minute(s)  5.40 second(s) better.
 [2021-04-21 00:55:14]: ***  [Ž, Level 0]: 'klas 2' has left the game
 [2021-04-21 00:55:14]: ***  [Ž, Level 0]: 'klas' has left the game
+[2021-04-21 00:55:19]: ***  [Ž, Level 0]: iydrss finished in: 3 minute(s) 25.64 second(s)
