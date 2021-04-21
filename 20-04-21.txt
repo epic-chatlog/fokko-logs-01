@@ -25696,3 +25696,5 @@
 [2021-04-20 23:59:33]: Taip [VergleriSay, Level 21]: see you late
 [2021-04-20 23:59:34]: f"{self.name}" [, Level 0]: bye
 [2021-04-20 23:59:35]: Taip [VergleriSay, Level 21]: i come
+[2021-04-20 23:59:36]: ***  [, Level 0]: 'Taip' has left the game
+[2021-04-20 23:59:36]: ***  [, Level 0]: 'Taip2' has left the game
