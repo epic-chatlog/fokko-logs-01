@@ -24083,3 +24083,7 @@
 [2021-04-20 17:33:18]: ***  [, Level 0]: '(C)Ali' has left the game
 [2021-04-20 17:33:27]: ***  [, Level 0]: (2)Zʷʰʸˀ's killing spree was ended by Bruh. (6 blocks)
 [2021-04-20 17:33:40]: sikiş [, Level 0]: ez
+[2021-04-20 17:33:45]: sikiş [, Level 0]: ü,
+[2021-04-20 17:33:47]: sikiş [, Level 0]: ez
+[2021-04-20 17:33:51]: ***  [, Level 0]: sikiş is on a killing spree with 5 blocks
+[2021-04-20 17:33:52]: sikiş [, Level 0]: ez
