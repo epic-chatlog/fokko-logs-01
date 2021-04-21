@@ -25362,3 +25362,4 @@
 [2021-04-20 23:25:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-20 23:25:50]: #5 blocker [Chilli.*, Level 24]: dont touch sythn
 [2021-04-20 23:25:53]: .XFault [, Level 0]: #5 blocker: bsc ur bad
+[2021-04-20 23:26:16]: .XFault [, Level 0]: #5 blocker: is my dummy xD
