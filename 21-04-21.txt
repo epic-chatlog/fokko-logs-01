@@ -106,3 +106,5 @@
 [2021-04-21 00:09:29]: ***  [, Level 0]: 'comic' has left the game
 [2021-04-21 00:09:31]: ***  [, Level 0]: ':/ MX' has left the game
 [2021-04-21 00:09:33]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-21 00:09:48]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-21 00:09:50]: ***  [, Level 0]: ':/ MX' entered and joined the game
