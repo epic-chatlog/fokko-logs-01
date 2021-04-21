@@ -23917,3 +23917,5 @@
 [2021-04-20 17:12:01]: noname [, Level 25]: nar:
 [2021-04-20 17:12:04]: Cup [, Level 0]: kill çek sikiş
 [2021-04-20 17:12:12]: Cup [, Level 0]: lan mal kill çek
+[2021-04-20 17:12:15]: Cup [, Level 0]: gel
+[2021-04-20 17:12:25]: Cup [, Level 0]: lan kafanı sikim gel
