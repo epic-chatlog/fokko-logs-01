@@ -543,3 +543,4 @@
 [2021-04-21 00:49:37]: ***  [é, Level 0]: 'Intensiv_' entered and joined the game
 [2021-04-21 00:49:47]: ***  [é, Level 0]: [POLICE-CHANNEL] 'sad' is spawnblocking. Catch him!
 [2021-04-21 00:49:55]: ***  [é, Level 0]: 'Mine_Exp' has left the game
+[2021-04-21 00:50:12]: ***  [é, Level 0]: '„ÄéJester„Äè' would have timed out, but can use timeout protection now
