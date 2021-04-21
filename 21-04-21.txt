@@ -34,3 +34,9 @@
 [2021-04-21 00:03:21]: Raidon [, Level 24]: ERROR: xd
 [2021-04-21 00:03:30]: #5 blocker [Chilli.*, Level 24]: avioocals 2.0: sry pls
 [2021-04-21 00:03:40]: avioocals [|*MorE*|, Level 0]: Meetiteusz: block not me
+[2021-04-21 00:03:51]: avioocals [|*MorE*|, Level 0]: u troll me
+[2021-04-21 00:03:53]: #5 blocker [Chilli.*, Level 24]: avioocals 2.0: i help you all time
+[2021-04-21 00:03:54]: avioocals [|*MorE*|, Level 0]: I block u
+[2021-04-21 00:03:56]: (1)ERROR [404, Level 25]: #5 blocker:  idc about this wtf u tried to hook me if i took sanorex. thats why
+[2021-04-21 00:03:59]: ***  [, Level 0]: f"{self.name}" finished in: 3 minute(s) 35.88 second(s)
+[2021-04-21 00:03:59]: ***  [, Level 0]: New record: 8 minute(s)  1.30 second(s) better.
