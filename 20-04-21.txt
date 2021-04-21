@@ -24940,3 +24940,5 @@
 [2021-04-20 19:35:29]: ***  [, Level 0]: 'Viper Tee' entered and joined the game
 [2021-04-20 19:35:34]: ***  [, Level 0]: 'Viper Tee' has left the game
 [2021-04-20 19:35:36]: ezy [.bad, Level 23]: Night Team :D: yes
+[2021-04-20 19:35:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-20 19:35:50]: ezy [.bad, Level 23]: tl3b roblox
