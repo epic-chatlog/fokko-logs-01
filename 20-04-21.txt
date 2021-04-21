@@ -25425,3 +25425,4 @@
 [2021-04-20 23:36:09]: comic [comically, Level 15]: type
 [2021-04-20 23:36:10]: ***  [, Level 0]: 'SanoreX' entered and joined the game
 [2021-04-20 23:36:13]: ***  [, Level 0]: 'Cacke' entered and joined the game
+[2021-04-20 23:36:25]: [D] Уточк� [, Level 0]: my dummy is stuned
