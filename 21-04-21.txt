@@ -1014,3 +1014,5 @@
 [2021-04-21 01:22:41]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'I LEWÄ°S TR' is spawnblocking. Catch him!
 [2021-04-21 01:22:48]: ***  [Ž, Level 0]: 'I LEWÄ°S TR' has left the game
 [2021-04-21 01:23:04]: Raidon [, Level 24]: Santa Claus: grenade
+[2021-04-21 01:23:18]: ***  [Ž, Level 0]: [POLICE-CHANNEL] '(1)ghp' is spawnblocking. Catch him!
+[2021-04-21 01:23:23]: Raidon [, Level 24]: Santa Claus: u have inf jump?
