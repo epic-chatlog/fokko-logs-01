@@ -25561,3 +25561,4 @@
 [2021-04-20 23:49:15]: ***  [, Level 0]: 'ERROR.' entered and joined the game
 [2021-04-20 23:49:19]: SanoreX [Chilli.*, Level 27]: lag
 [2021-04-20 23:49:32]: ***  [, Level 0]: 'dummier' entered and joined the game
+[2021-04-20 23:49:33]: ***  [, Level 0]: 'ERROR.' has left the game
