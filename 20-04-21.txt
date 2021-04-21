@@ -24133,3 +24133,4 @@
 [2021-04-20 17:50:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-20 17:50:53]: Sokuş [, Level 0]: ez
 [2021-04-20 17:50:54]: (1)☺ [, Level 0]: its a fucking bitch ERROR
+[2021-04-20 17:51:13]: (1)☺ [, Level 0]: he want very die ERROR
