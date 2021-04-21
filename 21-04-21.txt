@@ -98,3 +98,4 @@
 [2021-04-21 00:09:00]: ***  [, Level 0]: '[D] #5 blocker' has left the game
 [2021-04-21 00:09:00]: ***  [, Level 0]: '#5 blocker' has left the game
 [2021-04-21 00:09:03]: ***  [, Level 0]: 'Meetiteusz' entered and joined the game
+[2021-04-21 00:09:05]: avioocals 2.0 [|*MorE*|, Level 0]: xD
