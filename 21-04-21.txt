@@ -985,3 +985,8 @@
 [2021-04-21 01:18:51]: ***  [�, Level 0]: 'Hawli bir insan' entered and joined the game
 [2021-04-21 01:19:00]: [D] Santa Claus [, Level 0]: ElTioNoVaToN:s: lit me conocen en todos los servidores, en cambio a ti nadie te conoce y ya calla
 [2021-04-21 01:19:06]: ***  [�, Level 0]: 'oyun kralı' has left the game
+[2021-04-21 01:19:12]: Noémi [Queen , Level 40]: (1)cat:
+[2021-04-21 01:19:17]: ElTioNoVaToN:s [, Level 0]: Santa Claus: vamos a uno de bueno ping y te doy clase feo klo
+[2021-04-21 01:19:18]: ***  [�, Level 0]: 'ṆḕẌṳS' entered and joined the game
+[2021-04-21 01:19:18]: ***  [�, Level 0]: 'ϻɪɔʜɑʟ' has left the game (Timeout)
+[2021-04-21 01:19:18]: ***  [�, Level 0]: '[D]ϻɪɔʜɑʟ' has left the game (Timeout)
