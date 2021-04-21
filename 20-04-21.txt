@@ -25120,3 +25120,5 @@
 [2021-04-20 22:33:36]: ***  [, Level 0]: Drop money: '/money drop <amount>'
 [2021-04-20 22:33:36]: ***  [, Level 0]: Invalid whisper
 [2021-04-20 22:35:24]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[2021-04-20 22:35:39]: Rz5z [.bad, Level 35]: Boti.: hi
+[2021-04-20 22:35:41]: Boti. [.bad, Level 0]: hi
