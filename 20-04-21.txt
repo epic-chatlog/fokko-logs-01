@@ -25603,3 +25603,7 @@
 [2021-04-20 23:52:10]: ***  [, Level 0]: dummier is on a killing spree with 5 blocks
 [2021-04-20 23:52:13]: [D] #5 blocker [Chilli.*, Level 0]: Kiøn1029: nézd
 [2021-04-20 23:52:25]: Kiøn1029 [.bad, Level 32]: aham
+[2021-04-20 23:52:29]: muluk [, Level 0]: deposit or windraw
+[2021-04-20 23:52:34]: ***  [, Level 0]: [POLICE-CHANNEL] 'dummier' is spawnblocking. Catch him!
+[2021-04-20 23:52:36]: avioocals 2.0 [|*MorE*|, Level 0]: I BLOCK NPT U
+[2021-04-20 23:52:37]: (1)Tom [, Level 32]: deposit
