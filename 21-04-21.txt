@@ -1686,3 +1686,7 @@
 [2021-04-21 02:03:50]:   [, Level 0]: Luna: oops
 [2021-04-21 02:03:58]:   [, Level 0]: Luna: Taip:
 [2021-04-21 02:03:59]: ***  [é, Level 0]: 'you zi' entered and joined the game
+[2021-04-21 02:04:04]: ***  [é, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
+[2021-04-21 02:04:05]: Raidon's Pet [, Level 21]: Bubba :3[ƒê]: help pls
+[2021-04-21 02:04:12]: ***  [é, Level 0]: [POLICE-CHANNEL] 'Soros' has been caught by '1' (10 minutes arrest)
+[2021-04-21 02:04:13]: ***  [é, Level 0]: 'Davidboss8' has left the game
