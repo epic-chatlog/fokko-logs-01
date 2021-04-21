@@ -25076,3 +25076,4 @@
 [2021-04-20 22:07:24]: Jerry [, Level 0]: niQ
 [2021-04-20 22:07:29]: Jerry [, Level 0]: <<<<
 [2021-04-20 22:10:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-20 22:15:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
