@@ -25135,3 +25135,4 @@
 [2021-04-20 22:40:00]: ***  [, Level 0]: 'P#@U#@R#@P#@L#@' entered and joined the game
 [2021-04-20 22:40:03]: ***  [, Level 0]: 'aboba' entered and joined the game
 [2021-04-20 22:40:06]: ***  [, Level 0]: 'P#@U#@R#@P#@L#@' has left the game
+[2021-04-20 22:40:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
