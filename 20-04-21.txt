@@ -23951,3 +23951,5 @@
 [2021-04-20 17:14:57]: Cup [, Level 0]: sikiş:
 [2021-04-20 17:15:02]: ***  [, Level 0]: 462. ezy Time: 01:16.94, requested by ezy
 [2021-04-20 17:15:06]: TeigHuhn [, Level 0]: bob:
+[2021-04-20 17:15:09]: TeigHuhn [, Level 0]: bob:  why
+[2021-04-20 17:15:14]: TeigHuhn [, Level 0]: bob: warum
