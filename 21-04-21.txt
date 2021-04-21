@@ -4670,3 +4670,7 @@
 [2021-04-21 04:00:39]: SanoreX [Chilli.*, Level 27]: Niemand: HELP
 [2021-04-21 04:00:39]: ***  [ƒýÿÿ, Level 0]: 'Telefantastic' would have timed out, but can use timeout protection now
 [2021-04-21 04:00:39]: ***  [ƒýÿÿ, Level 0]: 'Mista bombastic' would have timed out, but can use timeout protection now
+[2021-04-21 04:00:43]:   [, Level 0]: KiLee: (1)muliboy:  come left up safe mexD
+[2021-04-21 04:00:49]: ***  [ƒýÿÿ, Level 0]: '(1)Mista bombast' has left the game
+[2021-04-21 04:00:50]: ***  [ƒýÿÿ, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-21 04:00:51]: ***  [ƒýÿÿ, Level 0]: '(1)Mista bombast' entered and joined the game
