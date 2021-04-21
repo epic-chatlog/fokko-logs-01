@@ -1390,3 +1390,7 @@
 [2021-04-21 01:50:24]: ***  [�, Level 0]: 'Kong' entered and joined the game
 [2021-04-21 01:50:32]:   [, Level 0]: mamikral011: nenny: sa
 [2021-04-21 01:50:33]: Terra [, Level 0]: Raidon: how do we exit spec mode
+[2021-04-21 01:50:33]:   [, Level 0]: nenny: as
+[2021-04-21 01:50:36]: ***  [�, Level 0]: 'Kong' has left the game
+[2021-04-21 01:50:36]:   [, Level 0]: klas: 『Jester』: nasıl sınırsız jump var
+[2021-04-21 01:50:44]: Raidon [, Level 24]: Terra: right shift
