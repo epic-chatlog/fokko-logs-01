@@ -1362,3 +1362,8 @@
 [2021-04-21 01:48:58]: ***  [Ž, Level 0]: 'sta' finished the special race!
 [2021-04-21 01:48:59]: Terra [, Level 0]: oh
 [2021-04-21 01:49:04]: ***  [Ž, Level 0]: ':D' finished the special race!
+[2021-04-21 01:49:09]: Terra [, Level 0]: i don't think i can reach there
+[2021-04-21 01:49:09]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-21 01:49:10]: ***  [Ž, Level 0]: '~DemoizL~' entered and joined the game
+[2021-04-21 01:49:13]: ***  [Ž, Level 0]: 'alter' entered and joined the game
+[2021-04-21 01:49:17]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
