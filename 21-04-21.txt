@@ -673,3 +673,9 @@
 [2021-04-21 01:01:54]: Intensiv_ [DogParty, Level 12]: â–¼
 [2021-04-21 01:01:58]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'Isegrin' is spawnblocking. Catch him!
 [2021-04-21 01:01:59]: ***  [Ž, Level 0]: 'bartoszekfan' entered and joined the game
+[2021-04-21 01:02:03]: ***  [Ž, Level 0]: 'MysterX' has left the game
+[2021-04-21 01:02:08]: ***  [Ž, Level 0]: 'Swagerek99' has left the game
+[2021-04-21 01:02:09]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'Ï»ÉªÉ”ÊœÉ‘ÊŸ' is spawnblocking. Catch him!
+[2021-04-21 01:02:12]: Nagisa [H] [E8, Level 3]: no
+[2021-04-21 01:02:13]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'Isegrin' is spawnblocking. Catch him!
+[2021-04-21 01:02:13]: ***  [Ž, Level 0]: 'bartoszekfan' has left the game
