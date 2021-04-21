@@ -134,3 +134,5 @@
 [2021-04-21 00:11:56]: Raidon's Pet [, Level 20]: vericeksin'
 [2021-04-21 00:12:15]: Raidon's Pet [, Level 20]: kaşınma ananı islkerim
 [2021-04-21 00:12:18]: oyun kralı [, Level 18]: bankada
+[2021-04-21 00:12:32]: muliboy [, Level 0]: whats that
+[2021-04-21 00:12:38]: Raidon's Pet [, Level 20]: oyun kralı: eğer yanlış bi hareket yaparsan ananı bellerim ona göre 6k vericeksin
