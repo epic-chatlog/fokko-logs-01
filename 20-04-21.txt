@@ -25349,3 +25349,5 @@
 [2021-04-20 23:22:47]: ***  [, Level 0]: 'comic' entered and joined the game
 [2021-04-20 23:22:57]: [D] #5 blocker [Chilli.*, Level 0]: chiller skills
 [2021-04-20 23:24:00]: ***  [, Level 0]: muluk finished in: 12 minute(s)  4.64 second(s)
+[2021-04-20 23:24:05]: ***  [, Level 0]: muliboy finished in: 9 minute(s)  3.64 second(s)
+[2021-04-20 23:24:17]: .XFault [, Level 0]: xD
