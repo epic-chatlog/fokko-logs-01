@@ -24010,3 +24010,6 @@
 [2021-04-20 17:21:43]: Sokuş [, Level 0]: olum düzelt vurmuyor
 [2021-04-20 17:21:46]: Sokuş [, Level 0]: roket at
 [2021-04-20 17:21:53]: ezy [.bad, Level 23]:  Black hla
+[2021-04-20 17:22:03]: Black [, Level 0]: ezy: hla
+[2021-04-20 17:22:03]: Bruh. [Blood Day, Level 6]: haa
+[2021-04-20 17:22:06]: Bruh. [Blood Day, Level 6]: onu mu diyon
