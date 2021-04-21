@@ -25515,3 +25515,5 @@
 [2021-04-20 23:45:03]: ***  [, Level 0]: ':/ MX' entered and joined the game
 [2021-04-20 23:45:10]: ***  [, Level 0]: [POLICE-CHANNEL] 'Taip' is spawnblocking. Catch him!
 [2021-04-20 23:45:14]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-20 23:45:16]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-20 23:45:17]: ***  [, Level 0]: [POLICE-CHANNEL] 'Taip' has been caught by 'Isegrin' (5 minutes arrest)
