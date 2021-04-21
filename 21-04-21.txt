@@ -3376,3 +3376,5 @@
 [2021-04-21 03:10:00]: . [TrRShClNrRs, Level 11]: ERROR: stak
 [2021-04-21 03:10:03]: ***  [ƒýÿÿ, Level 0]: '(1)Meetiteusz' entered and joined the game
 [2021-04-21 03:10:03]: avioocals 2.0 [|*MorE*|, Level 0]: fun
+[2021-04-21 03:10:09]: ***  [ƒýÿÿ, Level 0]: 'tee' entered and joined the game
+[2021-04-21 03:10:14]: ReXi [, Level 0]: GReeeN: hÃ¤ tf was soll ich denn fragen
