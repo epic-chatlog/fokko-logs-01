@@ -24291,3 +24291,4 @@
 [2021-04-20 18:16:20]: (1)☺ [, Level 26]: the name pls
 [2021-04-20 18:16:20]: ***  [, Level 0]: '(1)Black' entered and joined the game
 [2021-04-20 18:16:28]: ***  [, Level 0]: 'Vertex' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-20 18:16:35]: ***  [, Level 0]: 'Vertex' left the minigame 'Survival'
