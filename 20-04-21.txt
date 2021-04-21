@@ -25061,3 +25061,4 @@
 [2021-04-20 21:56:01]: ***  [, Level 0]: '(1)Tom' entered and joined the game
 [2021-04-20 21:56:15]: ***  [, Level 0]: '(1)Tom' has left the game
 [2021-04-20 21:57:58]: ***  [, Level 0]: '𝕎𝔸ℝ|niQ' entered and joined the game
+[2021-04-20 21:58:30]: 𝕎𝔸ℝ|niQ [WarAllServ, Level 38]: Уточка'-': ты тоже тут играешь
