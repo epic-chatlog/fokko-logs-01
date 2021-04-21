@@ -25219,3 +25219,4 @@
 [2021-04-20 22:58:16]: ***  [, Level 0]: '#5 blocker' entered and joined the game
 [2021-04-20 22:59:07]: ***  [, Level 0]: '[D] Уточк�' entered and joined the game
 [2021-04-20 22:59:33]: ***  [, Level 0]: '[D] Уточк�' has left the game
+[2021-04-20 23:00:00]: Noxl [.bad, Level 48]: K!ked: i love you
