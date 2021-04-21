@@ -25164,3 +25164,4 @@
 [2021-04-20 22:47:56]: ***  [, Level 0]: K!ked finished in: 0 minute(s) 41.96 second(s)
 [2021-04-20 22:47:56]: ***  [, Level 0]: New record: 2 minute(s) 19.08 second(s) better.
 [2021-04-20 22:48:03]: ***  [, Level 0]: cHurch finished in: 3 minute(s) 24.06 second(s)
+[2021-04-20 22:48:17]: ***  [, Level 0]: 'muluk' entered and joined the game
