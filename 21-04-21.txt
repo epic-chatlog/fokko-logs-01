@@ -898,3 +898,5 @@
 [2021-04-21 01:12:43]: Raidon [, Level 24]: DONT PLAY FOKKONAUT PLAYGROUND FUCKING NOOB
 [2021-04-21 01:12:44]: ***  [Ž, Level 0]: [POLICE-CHANNEL] ':' is spawnblocking. Catch him!
 [2021-04-21 01:12:53]: :D [E8, Level 6]: me police
+[2021-04-21 01:12:55]: ***  [Ž, Level 0]: [POLICE-CHANNEL] ':' is spawnblocking. Catch him!
+[2021-04-21 01:13:02]: ***  [Ž, Level 0]: [POLICE-CHANNEL] ':' has been caught by 'Isegrin' (12 minutes arrest)
