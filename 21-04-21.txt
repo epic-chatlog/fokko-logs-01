@@ -1477,3 +1477,6 @@
 [2021-04-21 01:53:44]: ***  [Ž, Level 0]: [POLICE-CHANNEL] '[D] mamikral011' is spawnblocking. Catch him!
 [2021-04-21 01:53:50]: ***  [Ž, Level 0]: 'uki9' entered and joined the game
 [2021-04-21 01:53:51]: Nagisa [H] [E8, Level 3]: nerdesin
+[2021-04-21 01:53:57]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' has been caught by 'Taip' (19 minutes arrest)
+[2021-04-21 01:54:00]:   [, Level 0]: [D] mamikral011: Raidon's Pet: yardÄ±m et
+[2021-04-21 01:54:05]: Intensiv [DogParty, Level 19]: wow
