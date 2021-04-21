@@ -284,3 +284,4 @@
 [2021-04-21 00:24:23]: Evaly FBI agent [, Level 0]: you have to be to an accuarate distance
 [2021-04-21 00:24:27]: Evaly FBI agent [, Level 0]: and jump
 [2021-04-21 00:24:30]: Evaly FBI agent [, Level 0]: then hook
+[2021-04-21 00:24:51]: ***  [, Level 0]: 'comic' entered and joined the game
