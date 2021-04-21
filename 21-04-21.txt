@@ -960,3 +960,11 @@
 [2021-04-21 01:17:22]: ElTioNoVaToN:s [, Level 0]: No√©mi: malo klo
 [2021-04-21 01:17:22]: „ÄéJester„Äè [, Level 0]: Nagisa [H]:
 [2021-04-21 01:17:23]: ***  [é, Level 0]: '(1)[D] ghp' entered and joined the game
+[2021-04-21 01:17:24]: „ÄéJester„Äè [, Level 0]: Nagisa [H]:
+[2021-04-21 01:17:27]: Nagisa [H] [E8, Level 3]: ne lan ne
+[2021-04-21 01:17:31]: ***  [é, Level 0]: Santa Claus finished in: 4 minute(s)  2.86 second(s)
+[2021-04-21 01:17:31]: ***  [é, Level 0]: New record: 5 minute(s) 28.10 second(s) better.
+[2021-04-21 01:17:31]: ***  [é, Level 0]: 'Santa Claus' finished the special race!
+[2021-04-21 01:17:31]: ***  [é, Level 0]: [D] Santa Claus finished in: 13 minute(s)  6.04 second(s)
+[2021-04-21 01:17:31]: ***  [é, Level 0]: '[D] Santa Claus' finished the special race!
+[2021-04-21 01:17:35]: No√©mi [Queen , Level 40]: ElTioNoVaToN:s: police is lvl 18
