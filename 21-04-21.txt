@@ -971,3 +971,4 @@
 [2021-04-21 01:17:39]: Nagisa [H] [E8, Level 3]: ES:noob
 [2021-04-21 01:17:41]: 『Jester』 [, Level 0]: Nagisa [H]: sınırsız jump aldırçakltım
 [2021-04-21 01:17:48]:   [, Level 0]: at insan: bana aldırsana jester
+[2021-04-21 01:17:57]:   [, Level 0]: at insan: 『Jester』:  bana aldırsana
