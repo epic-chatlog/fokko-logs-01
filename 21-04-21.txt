@@ -1173,3 +1173,7 @@
 [2021-04-21 01:33:11]: ***  [é, Level 0]: 'ReXi' entered and joined the game
 [2021-04-21 01:33:14]: ***  [é, Level 0]: 'tee' has left the game
 [2021-04-21 01:33:16]: ***  [é, Level 0]: 'tee' entered and joined the game
+[2021-04-21 01:33:21]: [D] Nightmare [FookinLads, Level 20]: Matiteusz u enemy
+[2021-04-21 01:33:25]: ***  [é, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-21 01:33:27]: Matiteusz [TrRShClNrRs, Level 37]: Nightmare: sure
+[2021-04-21 01:33:32]: sta [freepor√ßay, Level 0]: es help pls
