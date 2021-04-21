@@ -589,3 +589,7 @@
 [2021-04-21 00:53:31]: (1)Cup [, Level 0]: klas: what?
 [2021-04-21 00:53:33]: avioocals [|*MorE*|, Level 0]: je gray
 [2021-04-21 00:53:39]: (1)Cup [, Level 0]: klas: you want jet pack?
+[2021-04-21 00:53:40]: Meetiteusz [TrRShClNrRs, Level 29]: Ƭevan: Ur doing emm
+[2021-04-21 00:53:42]: klas [, Level 0]: what
+[2021-04-21 00:53:48]: klas [, Level 0]: klas /jetpack
+[2021-04-21 00:53:49]: Meetiteusz [TrRShClNrRs, Level 29]: Ƭevan: this pointing sign i forgot name xD
