@@ -219,3 +219,5 @@
 [2021-04-21 00:18:42]: muluk [, Level 0]: Tevan:
 [2021-04-21 00:18:46]: Raidon [, Level 24]: Ƭevan: ?
 [2021-04-21 00:19:05]: :/ MX [rompeculos, Level 0]: ???
+[2021-04-21 00:19:13]: ***  [, Level 0]: 'Snaxy' entered and joined the game
+[2021-04-21 00:19:23]: ***  [, Level 0]: Meetiteusz finished in: 10 minute(s)  9.82 second(s)
