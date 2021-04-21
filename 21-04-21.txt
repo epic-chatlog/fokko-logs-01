@@ -510,3 +510,5 @@
 [2021-04-21 00:46:42]: ***  [é, Level 0]: [POLICE-CHANNEL] 'blazingd420' has been caught by 'Isegrin' (5 minutes arrest)
 [2021-04-21 00:46:43]: Raidon's Pet [, Level 21]: Isegrin: ty for jetpack xD
 [2021-04-21 00:46:47]: Isegrin [, Level 55]: NPk
+[2021-04-21 00:47:00]: ***  [é, Level 0]: 'K!ked' entered and joined the game
+[2021-04-21 00:47:04]: ***  [é, Level 0]: [POLICE-CHANNEL] 'Ho≈Ñi' is spawnblocking. Catch him!
