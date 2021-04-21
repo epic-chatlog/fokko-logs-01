@@ -25322,3 +25322,6 @@
 [2021-04-20 23:18:13]: muliboy [, Level 0]: go up
 [2021-04-20 23:18:16]: ***  [, Level 0]: 'Tom' entered and joined the game
 [2021-04-20 23:18:25]: ***  [, Level 0]: '(1)Jerry' entered and joined the game
+[2021-04-20 23:18:35]: muliboy [, Level 0]: wtf
+[2021-04-20 23:18:40]: muliboy [, Level 0]: yes
+[2021-04-20 23:18:42]: muliboy [, Level 0]: here
