@@ -936,3 +936,5 @@
 [2021-04-21 01:15:03]: ghfdjxc [, Level 0]: 1: can we do the fly gun run ?
 [2021-04-21 01:15:25]: ghp [1234, Level 0]: sosori
 [2021-04-21 01:15:39]: ϻɪɔʜɑʟ [DogParty, Level 24]: war?
+[2021-04-21 01:15:50]: ***  [�, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-21 01:15:55]: ***  [�, Level 0]: 'oyun kralı' entered and joined the game
