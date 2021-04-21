@@ -1101,3 +1101,5 @@
 [2021-04-21 01:29:55]: [D] ghp [, Level 0]: sosori es
 [2021-04-21 01:30:00]: [D] ghp [, Level 0]: sosori SE
 [2021-04-21 01:30:01]: Santa Claus [, Level 30]: Ƭevan: xD
+[2021-04-21 01:30:06]: [D] ghp [, Level 0]: sosori Es
+[2021-04-21 01:30:08]: [D] ghp [, Level 0]: sosori ES
