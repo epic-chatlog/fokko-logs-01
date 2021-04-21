@@ -25612,3 +25612,7 @@
 [2021-04-20 23:52:43]: ***  [, Level 0]: 'Virus' has left the game
 [2021-04-20 23:52:44]: ***  [, Level 0]: [POLICE-CHANNEL] 'dummier' is spawnblocking. Catch him!
 [2021-04-20 23:52:47]: SanoreX [Chilli.*, Level 27]: (1)Ƭevan: bind b "+fire; say /money drop 1" use with shotgun
+[2021-04-20 23:52:51]: Matiteusz [TrRShClNrRs, Level 37]: avioocals: no
+[2021-04-20 23:52:58]: muluk [, Level 0]: how could i make an account
+[2021-04-20 23:53:01]: Matiteusz [TrRShClNrRs, Level 37]: avioocals: but i block youy
+[2021-04-20 23:53:02]: ***  [, Level 0]: [POLICE-CHANNEL] 'dummier' has been caught by 'Isegrin' (10 minutes arrest)
