@@ -25465,3 +25465,6 @@
 [2021-04-20 23:40:39]: ***  [, Level 0]: ':/ MX' entered and joined the game
 [2021-04-20 23:40:40]: ***  [, Level 0]: 'Meetiteusz' entered and joined the game
 [2021-04-20 23:40:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-20 23:41:08]: SanoreX.* [Chilli.*, Level 23]: (1)cat: anti blocker arena look at
+[2021-04-20 23:41:09]: PARDUS [CRAZY TURKS, Level 0]: help
+[2021-04-20 23:41:10]: SanoreX.* [Chilli.*, Level 23]: (1)cat: anti blocker arena look at me
