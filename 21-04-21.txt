@@ -136,3 +136,5 @@
 [2021-04-21 00:12:18]: oyun kralı [, Level 18]: bankada
 [2021-04-21 00:12:32]: muliboy [, Level 0]: whats that
 [2021-04-21 00:12:38]: Raidon's Pet [, Level 20]: oyun kralı: eğer yanlış bi hareket yaparsan ananı bellerim ona göre 6k vericeksin
+[2021-04-21 00:13:08]: ***  [, Level 0]: 'coffee' entered and joined the game
+[2021-04-21 00:13:16]: oyun kralı [, Level 18]: tmm
