@@ -1492,3 +1492,4 @@
 [2021-04-21 01:55:02]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
 [2021-04-21 01:55:06]: sta [freeporÃ§ay, Level 0]: Nagisa [H]:  aldÄ±rsana
 [2021-04-21 01:55:20]: ***  [Ž, Level 0]: Soros's killing spree was ended by Taip (6 blocks)
+[2021-04-21 01:55:32]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'Soros' has been caught by 'Taip' (10 minutes arrest)
