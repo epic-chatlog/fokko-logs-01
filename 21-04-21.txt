@@ -340,3 +340,9 @@
 [2021-04-21 00:29:13]: ***  [, Level 0]: '1' entered and joined the game
 [2021-04-21 00:29:15]: ***  [, Level 0]: 'tee' entered and joined the game
 [2021-04-21 00:29:15]: ***  [, Level 0]: '[D] Evaly FBI a' entered and joined the game
+[2021-04-21 00:29:19]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-21 00:29:21]: kais [, Level 66]: Ƭevan: ik
+[2021-04-21 00:29:22]: ***  [, Level 0]: Cup finished in: 3 minute(s)  0.28 second(s)
+[2021-04-21 00:29:22]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-21 00:29:23]: ***  [, Level 0]: '[D] Evaly FBI a' has left the game
+[2021-04-21 00:29:26]: ***  [, Level 0]: coffee is on a killing spree with 5 blocks
