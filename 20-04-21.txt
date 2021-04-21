@@ -25366,3 +25366,4 @@
 [2021-04-20 23:26:28]: [D] #5 blocker [Chilli.*, Level 0]: .XFault: oh sry
 [2021-04-20 23:26:37]: [D] #5 blocker [Chilli.*, Level 0]: .XFault: pls
 [2021-04-20 23:26:47]: .XFault [, Level 0]: um
+[2021-04-20 23:27:17]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
