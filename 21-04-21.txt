@@ -291,3 +291,6 @@
 [2021-04-21 00:25:07]: ***  [, Level 0]: '1' has left the game (Timeout)
 [2021-04-21 00:25:08]: ***  [, Level 0]: Taip is on a killing spree with 5 blocks
 [2021-04-21 00:25:11]: avioocals 2.0 [|*MorE*|, Level 0]: (1)Ƭevan:
+[2021-04-21 00:25:15]: avioocals 2.0 [|*MorE*|, Level 0]: pls
+[2021-04-21 00:25:19]: avioocals 2.0 [|*MorE*|, Level 0]: Matiteusz: is my friend
+[2021-04-21 00:25:22]: ***  [, Level 0]: 'GrosS' has left the game
