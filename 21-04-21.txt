@@ -1840,3 +1840,6 @@
 [2021-04-21 02:11:37]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
 [2021-04-21 02:11:47]: ***  [Ž, Level 0]: el champeon is on a killing spree with 10 blocks
 [2021-04-21 02:11:47]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-21 02:12:05]: ***  [Ž, Level 0]: 'tee' has left the game
+[2021-04-21 02:12:05]: Intensiv_ [DogParty, Level 12]: Meetiteusz:  come
+[2021-04-21 02:12:05]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
