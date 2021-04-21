@@ -997,3 +997,5 @@
 [2021-04-21 01:20:31]: No√©mi [Queen , Level 40]: cat: police
 [2021-04-21 01:20:34]: ***  [é, Level 0]: 'CHIRICHIRIS' has left the game
 [2021-04-21 01:20:41]: No√©mi [Queen , Level 40]: I like turtles.
+[2021-04-21 01:20:50]: ***  [é, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-21 01:20:55]: Raidon's Pet [, Level 21]: Santa Claus: i can help you but wait
