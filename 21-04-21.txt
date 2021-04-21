@@ -1542,3 +1542,7 @@
 [2021-04-21 01:56:57]: Mondaa [(none), Level 41]: take me left
 [2021-04-21 01:56:58]: Mondaa [(none), Level 41]: pls
 [2021-04-21 01:56:59]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-21 01:57:02]:   [, Level 0]: mamikral011: yazan~_+: yardÄ±mm
+[2021-04-21 01:57:06]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-21 01:57:12]: ***  [Ž, Level 0]: el champeon is on a killing spree with 10 blocks
+[2021-04-21 01:57:12]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
