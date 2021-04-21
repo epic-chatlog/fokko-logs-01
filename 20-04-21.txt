@@ -25009,3 +25009,4 @@
 [2021-04-20 19:55:51]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 19:56:43]: ***  [, Level 0]: 'senteapressão' has left the game
 [2021-04-20 19:59:03]: ***  [, Level 0]: 'SinKy' entered and joined the game
+[2021-04-20 20:00:08]: ***  [, Level 0]: 'SinKy' has left the game
