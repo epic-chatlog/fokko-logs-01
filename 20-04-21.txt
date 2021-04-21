@@ -24050,3 +24050,9 @@
 [2021-04-20 17:27:12]: ***  [, Level 0]: 'ezy' finished the special race!
 [2021-04-20 17:27:27]: Cup [, Level 0]: bu mapin moduratoru işte amk
 [2021-04-20 17:27:46]: Cup [, Level 0]: mallık yapma amk adam akıllı oynunu oyna
+[2021-04-20 17:27:58]: (C)Ali [Blood Gang , Level 4]: xBaseL:
+[2021-04-20 17:27:59]: Sokuş [, Level 0]: nerden bakabilirim bu canlı yyına
+[2021-04-20 17:28:04]: ***  [, Level 0]: 'ezy' has left the game
+[2021-04-20 17:28:04]: ***  [, Level 0]: 'nar' has left the game
+[2021-04-20 17:28:05]: ***  [, Level 0]: 'xBaseL' has left the game
+[2021-04-20 17:28:08]: ***  [, Level 0]: 'ezy' entered and joined the game
