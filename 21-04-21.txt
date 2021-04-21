@@ -600,3 +600,5 @@
 [2021-04-21 00:54:12]: ***  [, Level 0]: 'ã€Jesterã€' has left the game (Timeout Protection over)
 [2021-04-21 00:54:14]: ***  [, Level 0]: 'ã€Jesterã€' entered and joined the game
 [2021-04-21 00:54:16]: Intensiv_ [DogParty, Level 12]: 1:  alsana
+[2021-04-21 00:54:35]: ***  [, Level 0]: 'ElTioNoVaToN:s' entered and joined the game
+[2021-04-21 00:54:40]: ***  [, Level 0]: 'sad' has left the game
