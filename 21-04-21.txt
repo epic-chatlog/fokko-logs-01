@@ -454,3 +454,6 @@
 [2021-04-21 00:39:53]: (1)Cup [, Level 0]: 1 framerate down :)
 [2021-04-21 00:40:35]: ***  [h, Level 0]: Isegrin finished in: 3 minute(s) 44.54 second(s)
 [2021-04-21 00:40:49]: ***  [Ž, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-21 00:41:17]: avioocals 2.0 [|*MorE*|, Level 0]: ~DemoizL~:
+[2021-04-21 00:41:21]: avioocals 2.0 [|*MorE*|, Level 0]: SALUT
+[2021-04-21 00:41:24]: ~DemoizL~ [, Level 39]: salut ^^
