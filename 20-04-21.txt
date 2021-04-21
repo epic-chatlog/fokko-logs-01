@@ -24004,3 +24004,4 @@
 [2021-04-20 17:20:40]: ***  [, Level 0]: 'Vesorp' has left the game
 [2021-04-20 17:20:42]: ***  [, Level 0]: 'Sokuş' entered and joined the game
 [2021-04-20 17:20:50]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-20 17:21:27]: Sokuş [, Level 0]: ¡ RodCYREX 神:  nabıyosun amk teene bak
