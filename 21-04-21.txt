@@ -1603,3 +1603,6 @@
 [2021-04-21 02:00:24]: ***  [Ž, Level 0]: '.' entered and joined the game
 [2021-04-21 02:00:30]: Raidon [, Level 24]: Æ¬evan: sorry but im really need flag
 [2021-04-21 02:00:33]: Raidon [, Level 24]: Æ¬evan: sorry but im really need flag :(
+[2021-04-21 02:00:38]: ***  [Ž, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-21 02:00:43]: ***  [Ž, Level 0]: ',' entered and joined the game
+[2021-04-21 02:00:46]: muluk [, Level 0]: granate
