@@ -25168,3 +25168,5 @@
 [2021-04-20 22:48:40]: ***  [, Level 0]: 'muliboy' entered and joined the game
 [2021-04-20 22:49:04]: ***  [, Level 0]: 'K!ked' finished the special race!
 [2021-04-20 22:49:07]: Jerry [, Level 32]: nudelllllllllllllllllll!!!!!!!!!!!!!!!!!!!!!!!11
+[2021-04-20 22:49:14]: ***  [, Level 0]: 'Jerry' has left the game
+[2021-04-20 22:49:14]: ***  [, Level 0]: 'Tom' has left the game
