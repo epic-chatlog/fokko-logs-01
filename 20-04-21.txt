@@ -24501,3 +24501,4 @@
 [2021-04-20 18:44:09]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-20 18:45:21]: ***  [, Level 0]: 'noname' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-20 18:45:21]: ***  [, Level 0]: 'P4Pyr0s' has left the game (Timeout)
+[2021-04-20 18:45:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
