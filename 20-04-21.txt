@@ -25462,3 +25462,6 @@
 [2021-04-20 23:40:20]: ***  [, Level 0]: ':/ MX' entered and joined the game
 [2021-04-20 23:40:31]: ***  [, Level 0]: '(1)Ƭevan' entered and joined the game
 [2021-04-20 23:40:37]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-20 23:40:39]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-20 23:40:40]: ***  [, Level 0]: 'Meetiteusz' entered and joined the game
+[2021-04-20 23:40:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
