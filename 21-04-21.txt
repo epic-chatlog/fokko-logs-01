@@ -95,3 +95,6 @@
 [2021-04-21 00:08:24]: muluk [, Level 0]: what can i make with money
 [2021-04-21 00:08:29]: ***  [, Level 0]: 'Matiteusz' entered and joined the game
 [2021-04-21 00:08:40]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-21 00:09:00]: ***  [, Level 0]: '[D] #5 blocker' has left the game
+[2021-04-21 00:09:00]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-21 00:09:03]: ***  [, Level 0]: 'Meetiteusz' entered and joined the game
