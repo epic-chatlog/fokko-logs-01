@@ -301,3 +301,4 @@
 [2021-04-21 00:25:44]: Taip [VergleriSay, Level 0]: i want block
 [2021-04-21 00:25:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-21 00:25:50]: Evaly FBI agent [, Level 0]: but i want as well
+[2021-04-21 00:26:01]: Taip [VergleriSay, Level 0]: STOPPPPPPPPPPPPP
