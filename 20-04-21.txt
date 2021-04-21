@@ -24509,3 +24509,4 @@
 [2021-04-20 18:50:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-20 18:51:09]: ***  [, Level 0]: 'Black' entered and joined the game
 [2021-04-20 18:51:10]: ***  [, Level 0]: 'Black' has left the game
+[2021-04-20 18:52:29]: Bruh. [Blood Day, Level 7]: ha .d
