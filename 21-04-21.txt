@@ -120,3 +120,5 @@
 [2021-04-21 00:11:00]: ***  [, Level 0]: 'Santa Claus' entered and joined the game
 [2021-04-21 00:11:02]: ***  [, Level 0]: ':/ MX' has left the game
 [2021-04-21 00:11:04]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-21 00:11:12]: Raidon's Pet [, Level 20]: oyun kralı: piçlik yapma ver paramı ben alıcaktım
+[2021-04-21 00:11:13]: avioocals 2.0 [|*MorE*|, Level 0]: xD
