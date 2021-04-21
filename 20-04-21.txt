@@ -23915,3 +23915,5 @@
 [2021-04-20 17:11:46]: sikiş [, Level 0]: ya anaı sikiyim ne diyon
 [2021-04-20 17:11:58]: Cup [, Level 0]: kill çek
 [2021-04-20 17:12:01]: noname [, Level 25]: nar:
+[2021-04-20 17:12:04]: Cup [, Level 0]: kill çek sikiş
+[2021-04-20 17:12:12]: Cup [, Level 0]: lan mal kill çek
