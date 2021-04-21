@@ -83,3 +83,4 @@
 [2021-04-21 00:06:38]: ***  [, Level 0]: '__init__(self):' has left the game
 [2021-04-21 00:06:38]: ***  [, Level 0]: 'f"{self.name}"' has left the game
 [2021-04-21 00:06:39]: ***  [, Level 0]: 'avioocals' entered and joined the game
+[2021-04-21 00:06:42]: ***  [, Level 0]: 'avioocals 2.0' entered and joined the game
