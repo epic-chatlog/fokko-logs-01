@@ -453,3 +453,4 @@
 [2021-04-21 00:39:29]: ***  [û, Level 0]: '(1)Bitch' entered and joined the game
 [2021-04-21 00:39:53]: (1)Cup [, Level 0]: 1 framerate down :)
 [2021-04-21 00:40:35]: ***  [h, Level 0]: Isegrin finished in: 3 minute(s) 44.54 second(s)
+[2021-04-21 00:40:49]: ***  [Ž, Level 0]: [INFO] You can create an account using '/register'
