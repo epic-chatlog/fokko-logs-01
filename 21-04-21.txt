@@ -442,3 +442,6 @@
 [2021-04-21 00:37:54]: police officer [, Level 3]: wait
 [2021-04-21 00:38:09]: ***  [Ó, Level 0]: 'Ho≈Ñi' entered and joined the game
 [2021-04-21 00:38:23]: ***  [Ó, Level 0]: '(1)MOM' entered and joined the game
+[2021-04-21 00:38:30]: ***  [Ó, Level 0]: 'marcelo' has left the game
+[2021-04-21 00:38:30]: ***  [Ó, Level 0]: '[D] marcelo' has left the game
+[2021-04-21 00:38:33]: Meetiteusz [TrRShClNrRs, Level 29]: ∆¨evan: Ill pay you for this job
