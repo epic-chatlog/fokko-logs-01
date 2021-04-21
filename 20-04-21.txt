@@ -25593,3 +25593,6 @@
 [2021-04-20 23:51:30]: (1)Tom [, Level 32]: put it at ur bank
 [2021-04-20 23:51:31]: [D] #5 blocker [Chilli.*, Level 0]: WTF
 [2021-04-20 23:51:32]: ***  [, Level 0]: 'oyun kralı' has left the game
+[2021-04-20 23:51:38]: muliboy [, Level 0]: how
+[2021-04-20 23:51:40]: ***  [, Level 0]: 'oyun kralı' entered and joined the game
+[2021-04-20 23:51:43]: dummier [, Level 0]: Isegrin: die faster
