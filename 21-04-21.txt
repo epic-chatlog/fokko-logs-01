@@ -649,3 +649,9 @@
 [2021-04-21 01:00:43]: ***  [Ž, Level 0]: '(1)Tom' has left the game
 [2021-04-21 01:00:44]: ***  [Ž, Level 0]: 'Tom' has left the game
 [2021-04-21 01:00:44]: ***  [Ž, Level 0]: '(1)Jerry' has left the game
+[2021-04-21 01:00:47]: ***  [Ž, Level 0]: ':P' changed name to 'Nagisa [H]'
+[2021-04-21 01:00:47]: ***  [Ž, Level 0]: ':H' changed name to ':D'
+[2021-04-21 01:00:49]: Intensiv_ [DogParty, Level 12]: cHurch:  :(
+[2021-04-21 01:00:50]: ***  [Ž, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-21 01:00:54]: ***  [Ž, Level 0]: '[D]Ï»ÉªÉ”ÊœÉ‘ÊŸ' entered and joined the game
+[2021-04-21 01:00:56]: K!ked [De}|{aBÑŽ, Level 62]: avioocals:
