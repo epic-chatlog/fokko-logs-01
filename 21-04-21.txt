@@ -4267,3 +4267,9 @@
 [2021-04-21 03:45:48]: ***  [ƒýÿÿ, Level 0]: 'Vozilo Broj 3' has left the game
 [2021-04-21 03:45:50]: . [TrRShClNrRs, Level 11]: Ï»ÉªÉ”ÊœÉ‘ÊŸ: but we cant let you help them
 [2021-04-21 03:45:50]: ***  [ƒýÿÿ, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-21 03:45:55]: . [TrRShClNrRs, Level 11]: Ï»ÉªÉ”ÊœÉ‘ÊŸ: will you help
+[2021-04-21 03:46:00]:   [, Level 0]: [D] marcelo: sooo
+[2021-04-21 03:46:00]: Black [, Level 26]: KiLee: come
+[2021-04-21 03:46:01]: ***  [ƒýÿÿ, Level 0]: 'Telefantastic' would have timed out, but can use timeout protection now
+[2021-04-21 03:46:01]: ***  [ƒýÿÿ, Level 0]: 'Mista bombastic' would have timed out, but can use timeout protection now
+[2021-04-21 03:46:02]:   [, Level 0]: KiLee: Black: i have no endless
