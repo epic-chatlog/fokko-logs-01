@@ -24255,3 +24255,7 @@
 [2021-04-20 18:04:27]: ***  [, Level 0]: '(3)Zʷʰʸˀ' has left the game
 [2021-04-20 18:04:27]: ***  [, Level 0]: '(2)Zʷʰʸˀ' has left the game
 [2021-04-20 18:04:59]: (1)☺ [, Level 26]: bye
+[2021-04-20 18:05:04]: Zʷʰʸˀ [NULL, Level 37]: bye
+[2021-04-20 18:05:05]: ***  [, Level 0]: '(1)Zʷʰʸˀ' has left the game
+[2021-04-20 18:05:05]: ***  [, Level 0]: 'Zʷʰʸˀ' has left the game
+[2021-04-20 18:05:07]: ***  [, Level 0]: 'neko' has left the game
