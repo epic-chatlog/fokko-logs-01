@@ -25132,3 +25132,6 @@
 [2021-04-20 22:38:20]: ***  [, Level 0]: 'P#@U#@R#@P#@L#@' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-20 22:38:59]: ***  [, Level 0]: 'JɨKɆӾ' entered and joined the game
 [2021-04-20 22:39:40]: ***  [, Level 0]: 'Lakatos Mario' entered and joined the game
+[2021-04-20 22:40:00]: ***  [, Level 0]: 'P#@U#@R#@P#@L#@' entered and joined the game
+[2021-04-20 22:40:03]: ***  [, Level 0]: 'aboba' entered and joined the game
+[2021-04-20 22:40:06]: ***  [, Level 0]: 'P#@U#@R#@P#@L#@' has left the game
