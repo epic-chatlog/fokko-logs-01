@@ -1011,3 +1011,4 @@
 [2021-04-21 01:21:56]: at insan [freeporÃ§ay, Level 0]: kaldÄ±k
 [2021-04-21 01:22:06]: ***  [Ž, Level 0]: 'oyun kralÄ±' entered and joined the game
 [2021-04-21 01:22:10]: ***  [Ž, Level 0]: 'sta' entered and joined the game
+[2021-04-21 01:22:41]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'I LEWÄ°S TR' is spawnblocking. Catch him!
