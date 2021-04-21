@@ -24524,3 +24524,8 @@
 [2021-04-20 18:53:55]: ¡ RodCYREX 神 [Blood Day, Level 10]: fln takıl
 [2021-04-20 18:53:57]: Pyrox ヤ [Bloody Day, Level 0]: lan
 [2021-04-20 18:53:59]: Pyrox ヤ [Bloody Day, Level 0]: amk amacı yoki
+[2021-04-20 18:54:03]: ¡ RodCYREX 神 [Blood Day, Level 10]: var
+[2021-04-20 18:54:04]: Pyrox ヤ [Bloody Day, Level 0]: bok gibi map yapmışlark
+[2021-04-20 18:54:10]: ¡ RodCYREX 神 [Blood Day, Level 10]: map değil modlu
+[2021-04-20 18:54:12]: ¡ RodCYREX 神 [Blood Day, Level 10]: server
+[2021-04-20 18:54:12]: Pyrox ヤ [Bloody Day, Level 0]: çook karışık
