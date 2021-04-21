@@ -24723,3 +24723,10 @@
 [2021-04-20 19:17:42]: nar [.bad, Level 0]: ez
 [2021-04-20 19:17:44]: nar [.bad, Level 0]: nop
 [2021-04-20 19:17:48]: nar [.bad, Level 0]: amk
+[2021-04-20 19:18:02]: Awaxaz [Blood Day, Level 0]: 3 kelinme var bunlarda amk
+[2021-04-20 19:18:03]: ***  [, Level 0]: 'klas' entered and joined the game
+[2021-04-20 19:18:03]: Bruh. [Blood Day, Level 7]: amk amk herkez
+[2021-04-20 19:18:04]: Awaxaz [Blood Day, Level 0]: ez nop amk
+[2021-04-20 19:18:04]: Bruh. [Blood Day, Level 7]: amk
+[2021-04-20 19:18:07]: Bruh. [Blood Day, Level 7]: efendim amk
+[2021-04-20 19:18:11]: Bruh. [Blood Day, Level 7]: iyiyim amk
