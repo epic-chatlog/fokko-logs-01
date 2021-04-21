@@ -311,3 +311,4 @@
 [2021-04-21 00:26:22]: ***  [, Level 0]: 'tee' entered and joined the game
 [2021-04-21 00:26:35]: muliboy [, Level 0]: do you want to go there
 [2021-04-21 00:26:36]: Taip [VergleriSay, Level 0]: U CANT BLOCK
+[2021-04-21 00:26:45]: ***  [, Level 0]: 'Cacke' entered and joined the game
