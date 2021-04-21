@@ -574,3 +574,8 @@
 [2021-04-21 00:52:28]: avioocals [|*MorE*|, Level 0]: Intensiv:
 [2021-04-21 00:52:31]: Intensiv [DogParty, Level 19]: ?,
 [2021-04-21 00:52:34]: cHurch [HUITA, Level 45]: 10l
+[2021-04-21 00:52:35]: cHurch [HUITA, Level 45]: k
+[2021-04-21 00:52:36]: Intensiv [DogParty, Level 19]: thank you
+[2021-04-21 00:52:36]: cHurch [HUITA, Level 45]: :C
+[2021-04-21 00:52:36]: ***  [Ž, Level 0]: 'JANOSKI' entered and joined the game
+[2021-04-21 00:52:41]: ***  [Ž, Level 0]: 'JANOSKI' has left the game
