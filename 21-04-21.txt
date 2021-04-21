@@ -1765,3 +1765,7 @@
 [2021-04-21 02:07:14]: ***  [, Level 0]: 'egemen' entered and joined the game
 [2021-04-21 02:07:17]: Isegrin [, Level 55]: Bubba :3[Ä]: D-:
 [2021-04-21 02:07:17]: Raidon's Pet [, Level 21]: eyw
+[2021-04-21 02:07:27]: ***  [, Level 0]: [POLICE-CHANNEL] 'avioocals' is spawnblocking. Catch him!
+[2021-04-21 02:07:27]: ***  [, Level 0]: avioocals is on a killing spree with 5 blocks
+[2021-04-21 02:07:27]: ***  [, Level 0]: [POLICE-CHANNEL] 'avioocals' is spawnblocking. Catch him!
+[2021-04-21 02:07:28]: ã€Jesterã€ [, Level 0]: sta altÄ±na sÄ±k
