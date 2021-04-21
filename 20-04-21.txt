@@ -24613,3 +24613,6 @@
 [2021-04-20 19:02:05]: nar [.bad, Level 0]: nop
 [2021-04-20 19:02:07]: nar [.bad, Level 0]: swh
 [2021-04-20 19:02:07]: Pyrox ヤ [Bloody Day, Level 0]: niye gidion
+[2021-04-20 19:03:02]: Pyrox ヤ [Bloody Day, Level 0]: ez
+[2021-04-20 19:03:05]: Pyrox ヤ [Bloody Day, Level 0]: siktim adamı
+[2021-04-20 19:03:06]: Pyrox ヤ [Bloody Day, Level 0]: za
