@@ -558,3 +558,4 @@
 [2021-04-21 00:51:15]: ***  [Ž, Level 0]: 'Snaxy' has left the game
 [2021-04-21 00:51:17]: ***  [Ž, Level 0]: 'Cacke' has left the game
 [2021-04-21 00:51:17]: ***  [Ž, Level 0]: 'Cup' has left the game
+[2021-04-21 00:51:24]: ***  [Ž, Level 0]: 'iydrss' entered and joined the game
