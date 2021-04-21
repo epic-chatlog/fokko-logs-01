@@ -190,3 +190,9 @@
 [2021-04-21 00:16:28]: ***  [, Level 0]: 'LucasFresh33' has left the game
 [2021-04-21 00:16:41]: ***  [, Level 0]: ':/ MX' has left the game
 [2021-04-21 00:16:43]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-21 00:17:13]: Matiteusz [TrRShClNrRs, Level 37]: Ƭevan: what ur building xD
+[2021-04-21 00:17:13]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-21 00:17:15]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-21 00:17:18]: ***  [, Level 0]: 'zizibuczek' entered and joined the game
+[2021-04-21 00:17:20]: Raidon [, Level 24]: ERROR:
+[2021-04-21 00:17:20]: ***  [, Level 0]: 'zizibuczek' has left the game
