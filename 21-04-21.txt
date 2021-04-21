@@ -140,3 +140,5 @@
 [2021-04-21 00:13:16]: oyun kralı [, Level 18]: tmm
 [2021-04-21 00:13:20]: Raidon's Pet [, Level 20]: oyun kralı: seni bu oyunda doğduğuna pişman edicem piç
 [2021-04-21 00:13:24]: Santa Claus [, Level 0]: Jerry: stop or die
+[2021-04-21 00:13:40]: avioocals [|*MorE*|, Level 0]: coffee:
+[2021-04-21 00:13:42]: avioocals [|*MorE*|, Level 0]: wtf
