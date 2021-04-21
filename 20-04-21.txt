@@ -25022,3 +25022,4 @@
 [2021-04-20 20:27:16]: ***  [, Level 0]: 'senteapressão' has left the game
 [2021-04-20 20:27:28]: ***  [, Level 0]: 'Black' has left the game
 [2021-04-20 20:30:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-20 20:35:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
