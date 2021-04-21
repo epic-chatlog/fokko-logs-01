@@ -586,3 +586,6 @@
 [2021-04-21 00:53:16]: klas [, Level 0]: gun
 [2021-04-21 00:53:24]: ***  [Ž, Level 0]: 'coffee' has left the game
 [2021-04-21 00:53:24]: ***  [Ž, Level 0]: 'coffee [D]' has left the game
+[2021-04-21 00:53:31]: (1)Cup [, Level 0]: klas: what?
+[2021-04-21 00:53:33]: avioocals [|*MorE*|, Level 0]: je gray
+[2021-04-21 00:53:39]: (1)Cup [, Level 0]: klas: you want jet pack?
