@@ -25573,3 +25573,6 @@
 [2021-04-20 23:50:20]: SanoreX [Chilli.*, Level 27]: avioocals: I need xp
 [2021-04-20 23:50:44]: muliboy [, Level 0]: and  ow
 [2021-04-20 23:50:44]: ***  [, Level 0]: 'tee' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-20 23:50:48]: [D] #5 blocker [Chilli.*, Level 0]: SanoreX: The Chilli.* clan number of members?
+[2021-04-20 23:50:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-20 23:50:56]: ***  [, Level 0]: [POLICE-CHANNEL] 'impostor amogus' has been caught by 'Isegrin' (10 minutes arrest)
