@@ -24106,3 +24106,4 @@
 [2021-04-20 17:39:50]: ***  [, Level 0]: 'ribeiroolivia07' has left the game
 [2021-04-20 17:40:50]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-20 17:41:04]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 0 minute(s) 42.28 second(s)
+[2021-04-20 17:41:28]: Sokuş [, Level 0]: 2 dakka kaldı darbeye
