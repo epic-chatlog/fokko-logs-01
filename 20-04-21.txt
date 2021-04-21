@@ -25395,3 +25395,6 @@
 [2021-04-20 23:31:07]: #5 blocker [Chilli.*, Level 24]: .XFault: im chiller
 [2021-04-20 23:31:11]: ***  [, Level 0]: 'Tom' finished the special race!
 [2021-04-20 23:31:11]: .XFault [, Level 0]: xFD
+[2021-04-20 23:31:25]: comic [comically, Level 15]: why are both the flags here lol
+[2021-04-20 23:31:29]: ***  [, Level 0]: '.XFault' has left the game
+[2021-04-20 23:31:29]: ***  [, Level 0]: 'S Y T H N' has left the game
