@@ -467,3 +467,9 @@
 [2021-04-21 00:42:05]: ***  [Ž, Level 0]: 'klas 2' entered and joined the game
 [2021-04-21 00:42:09]: kais [, Level 66]: Æ¬evan: nul ?
 [2021-04-21 00:42:13]: ***  [Ž, Level 0]: '1' finished the special race!
+[2021-04-21 00:42:16]: ***  [Ž, Level 0]: '(1)Cup' finished the special race!
+[2021-04-21 00:42:17]: Raidon [, Level 24]: Æ¬evan: xd shotgun
+[2021-04-21 00:42:17]: Æ¬evan [TrRShClNrRs, Level 50]: nubsxD ->
+[2021-04-21 00:42:19]: ***  [Ž, Level 0]: 'Redemption(' entered and joined the game
+[2021-04-21 00:42:25]: ***  [Ž, Level 0]: 'nameless tee' has left the game
+[2021-04-21 00:42:28]: ***  [Ž, Level 0]: 'nameless tee' entered and joined the game
