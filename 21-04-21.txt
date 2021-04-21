@@ -3339,3 +3339,7 @@
 [2021-04-21 03:07:32]:   [, Level 0]: Bombi.YT: stay up
 [2021-04-21 03:07:35]: ReXi [, Level 0]: GReeeN: ok letzte frage
 [2021-04-21 03:07:35]:   [, Level 0]: (1)Raidon: xd
+[2021-04-21 03:07:52]: ***  [ƒýÿÿ, Level 0]: 'tee' has left the game
+[2021-04-21 03:07:55]: ***  [ƒýÿÿ, Level 0]: 'tee' entered and joined the game
+[2021-04-21 03:07:57]: ***  [ƒýÿÿ, Level 0]: 'Cylox' has left the game (Timeout)
+[2021-04-21 03:07:57]: ***  [ƒýÿÿ, Level 0]: '[D] Cylox' has left the game (Timeout)
