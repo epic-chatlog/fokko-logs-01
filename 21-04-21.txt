@@ -3085,3 +3085,16 @@
 [2021-04-21 02:57:54]: ReXi [, Level 0]: egak
 [2021-04-21 02:57:55]: ***  [ƒýÿÿ, Level 0]: Soros is on a killing spree with 25 blocks
 [2021-04-21 02:57:56]: ReXi [, Level 0]: l
+[2021-04-21 02:57:57]: [D] ghp [, Level 0]: no pliz
+[2021-04-21 02:57:58]: ***  [ƒýÿÿ, Level 0]: [POLICE-CHANNEL] 'Soros' is spawnblocking. Catch him!
+[2021-04-21 02:57:59]: ***  [ƒýÿÿ, Level 0]: '(1)Cylox' has left the game
+[2021-04-21 02:58:00]:   [, Level 0]: â€¢Intensiv_: fokkonaut:
+[2021-04-21 02:58:01]:   [, Level 0]: â€¢Intensiv_: Wrong password
+[2021-04-21 02:58:03]:   [, Level 0]: â€¢Intensiv_: :(
+[2021-04-21 02:58:04]: fokkonaut [flawLess, Level 102]: no
+[2021-04-21 02:58:05]:   [, Level 0]: avioocals: x
+[2021-04-21 02:58:05]:   [, Level 0]: [D] El patron: avioocals: wait
+[2021-04-21 02:58:06]: ***  [ƒýÿÿ, Level 0]: 'oyun kralÄ±' entered and joined the game
+[2021-04-21 02:58:07]: ***  [ƒýÿÿ, Level 0]: Soros's killing spree was ended by á´„ÊœÉªá´‹á´€ (28 blocks)
+[2021-04-21 02:58:07]: fokkonaut [flawLess, Level 102]: â€¢Intensiv: pw for rcon is helpersAreBaad
+[2021-04-21 02:58:09]: ***  [ƒýÿÿ, Level 0]: 'tee' has left the game
