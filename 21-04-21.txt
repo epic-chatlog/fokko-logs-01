@@ -4674,3 +4674,19 @@
 [2021-04-21 04:00:49]: ***  [ƒýÿÿ, Level 0]: '(1)Mista bombast' has left the game
 [2021-04-21 04:00:50]: ***  [ƒýÿÿ, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-21 04:00:51]: ***  [ƒýÿÿ, Level 0]: '(1)Mista bombast' entered and joined the game
+[2021-04-21 04:00:53]: ***  [ƒýÿÿ, Level 0]: '(1)Mista bombast' has left the game (Timeout Protection used)
+[2021-04-21 04:00:54]:   [, Level 0]: #5 blocker: Not Zerstrian: help
+[2021-04-21 04:00:54]:   [, Level 0]: pro: who
+[2021-04-21 04:00:54]:   [, Level 0]: KiLee: xD
+[2021-04-21 04:00:54]: (1)muliboy [, Level 0]: i must go in ten minutes
+[2021-04-21 04:00:56]: (1)Raidon [TrRShCINrRs, Level 0]: Cylox:
+[2021-04-21 04:00:57]: ***  [ƒýÿÿ, Level 0]: '(1)Telefantastic' entered and joined the game
+[2021-04-21 04:00:59]: ***  [ƒýÿÿ, Level 0]: '_titan_macters_' entered and joined the game
+[2021-04-21 04:00:59]: ***  [ƒýÿÿ, Level 0]: '(1)Good man' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-21 04:00:59]: ***  [ƒýÿÿ, Level 0]: '(1)Coca' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-21 04:00:59]: ***  [ƒýÿÿ, Level 0]: 'Good man' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-21 04:00:59]: ***  [ƒýÿÿ, Level 0]: 'Coca' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-21 04:00:59]: ***  [ƒýÿÿ, Level 0]: '(1)Telefantastic' has left the game (Timeout Protection used)
+[2021-04-21 04:01:00]: (1)Raidon [TrRShCINrRs, Level 0]: Cylox:
+[2021-04-21 04:01:01]:   [, Level 0]: #5 blocker: ,: help
+[2021-04-21 04:01:03]: [D] Cylox [{TQuila}, Level 25]: ya
