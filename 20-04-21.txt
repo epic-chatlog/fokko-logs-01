@@ -25641,3 +25641,6 @@
 [2021-04-20 23:54:15]: (1)Tom [, Level 32]: muluk
 [2021-04-20 23:54:23]: SanoreX [Chilli.*, Level 27]: wait
 [2021-04-20 23:54:24]: ***  [, Level 0]: '(1)Raidon' has left the game
+[2021-04-20 23:54:28]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-20 23:54:36]: SanoreX [Chilli.*, Level 27]: Isegrin: look my house
+[2021-04-20 23:54:37]: ***  [, Level 0]: ':/ MX' has left the game
