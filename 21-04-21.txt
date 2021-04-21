@@ -1534,3 +1534,11 @@
 [2021-04-21 01:56:41]: ***  [é, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
 [2021-04-21 01:56:42]: :D [E8, Level 6]: right
 [2021-04-21 01:56:47]: ***  [é, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-21 01:56:49]: ghp [1234, Level 0]: ah
+[2021-04-21 01:56:51]: ***  [é, Level 0]: el champeon is on a killing spree with 5 blocks
+[2021-04-21 01:56:51]: ***  [é, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-21 01:56:55]: Mondaa [(none), Level 41]: „ÄéJester„Äè:
+[2021-04-21 01:56:56]: ***  [é, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-21 01:56:57]: Mondaa [(none), Level 41]: take me left
+[2021-04-21 01:56:58]: Mondaa [(none), Level 41]: pls
+[2021-04-21 01:56:59]: ***  [é, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
