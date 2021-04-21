@@ -24349,3 +24349,7 @@
 [2021-04-20 18:25:49]: (1)Black [, Level 0]: xD
 [2021-04-20 18:25:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-20 18:25:51]: (1)Black [, Level 0]: BYE  <3
+[2021-04-20 18:25:55]: (1)☺ [, Level 26]: bye
+[2021-04-20 18:25:59]: Bruh. [Blood Day, Level 6]: bye
+[2021-04-20 18:26:01]: (1)Black [, Level 0]: cya
+[2021-04-20 18:26:03]: (1)☺ [, Level 26]: bye
