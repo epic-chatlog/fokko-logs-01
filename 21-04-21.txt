@@ -1187,3 +1187,7 @@
 [2021-04-21 01:33:55]: ***  [Ž, Level 0]: 'tee' entered and joined the game
 [2021-04-21 01:34:03]: sta [freeporÃ§ay, Level 0]: es help pls
 [2021-04-21 01:34:06]: ***  [Ž, Level 0]: '(1)kais' entered and joined the game
+[2021-04-21 01:34:12]: ã€ŽJesterã€ [, Level 0]: oyun kralÄ±:  sÄ±nÄ±rsÄ±z jump
+[2021-04-21 01:34:15]: ***  [Ž, Level 0]: 'tee' has left the game
+[2021-04-21 01:34:16]: ***  [Ž, Level 0]: 'tee' entered and joined the game
+[2021-04-21 01:34:22]: Nightmare [FookinLads, Level 27]: Santa Claus: >
