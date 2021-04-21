@@ -25517,3 +25517,9 @@
 [2021-04-20 23:45:14]: ***  [, Level 0]: ':/ MX' has left the game
 [2021-04-20 23:45:16]: ***  [, Level 0]: ':/ MX' entered and joined the game
 [2021-04-20 23:45:17]: ***  [, Level 0]: [POLICE-CHANNEL] 'Taip' has been caught by 'Isegrin' (5 minutes arrest)
+[2021-04-20 23:45:28]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-20 23:45:32]: Raidon [, Level 24]: Taip: göt gibi kalırsın oç
+[2021-04-20 23:45:32]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-20 23:45:33]: [D] #5 blocker [Chilli.*, Level 0]: Kiøn1029: csá
+[2021-04-20 23:45:37]: Kiøn1029 [.bad, Level 32]: hello
+[2021-04-20 23:45:39]: ***  [, Level 0]: 'Recep' entered and joined the game
