@@ -24600,3 +24600,5 @@
 [2021-04-20 19:00:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-20 19:00:52]: Bruh. [Blood Day, Level 7]: yokla nooblar bile oynuyo
 [2021-04-20 19:00:57]: Bruh. [Blood Day, Level 7]: gel o afk
+[2021-04-20 19:01:27]: Pyrox ヤ [Bloody Day, Level 0]: EZ(Y)
+[2021-04-20 19:01:30]: Bruh. [Blood Day, Level 7]: GLE
