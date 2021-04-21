@@ -1594,3 +1594,6 @@
 [2021-04-21 01:59:47]: (1)[D] ghp [, Level 0]: signomi
 [2021-04-21 01:59:54]: (1)[D] ghp [, Level 0]: sosori
 [2021-04-21 01:59:55]: sta [freeporçay, Level 0]: 『Jester』:  nerdesin
+[2021-04-21 01:59:58]: Meetiteusz [TrRShClNrRs, Level 29]: police officer:
+[2021-04-21 01:59:59]: ***  [�, Level 0]: 'oyun kralı' has left the game
+[2021-04-21 02:00:00]: Meetiteusz [TrRShClNrRs, Level 29]: Ƭevan:
