@@ -52,3 +52,7 @@
 [2021-04-21 00:04:37]: avioocals 2.0 [|*MorE*|, Level 0]: ERROR: I block oyun kralı ?
 [2021-04-21 00:04:45]: oyun kralı [, Level 18]: no
 [2021-04-21 00:04:49]: ***  [, Level 0]: 'Toxic Lucas' entered and joined the game
+[2021-04-21 00:05:03]: ***  [, Level 0]: '(1)avioocals' entered and joined the game
+[2021-04-21 00:05:05]: Raidon [, Level 24]: Kiøn1029: Matiteusz block you
+[2021-04-21 00:05:06]: ***  [, Level 0]: '(1)avioocals 2.0' entered and joined the game
+[2021-04-21 00:05:11]: Raidon [, Level 24]: Kiøn1029: true
