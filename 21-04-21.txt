@@ -3737,3 +3737,8 @@
 [2021-04-21 03:25:32]: [D] El patron [FookinLads, Level 24]: mamikral011: wait
 [2021-04-21 03:25:33]: Meetiteusz [TrRShClNrRs, Level 29]: Zephir ツ: taser spamming
 [2021-04-21 03:25:39]: Zephir ツ [404, Level 40]: ERROR: not hard
+[2021-04-21 03:25:44]: Meetiteusz [TrRShClNrRs, Level 29]: Zephir ツ: do something else than infinity hooking me and spamming taser
+[2021-04-21 03:25:50]: ***  [����, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-21 03:25:52]: ᴄʜɪᴋᴀ [iPro, Level 39]: ERROR:  how can we team
+[2021-04-21 03:25:52]: ERROR [404, Level 76]: Well Zephir ツ  i didnt slept today
+[2021-04-21 03:25:52]: Falco641 [.bad, Level 21]: tee: no just hold d here, nothing else
