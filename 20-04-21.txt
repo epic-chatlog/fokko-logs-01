@@ -25596,3 +25596,6 @@
 [2021-04-20 23:51:38]: muliboy [, Level 0]: how
 [2021-04-20 23:51:40]: ***  [, Level 0]: 'oyun kralı' entered and joined the game
 [2021-04-20 23:51:43]: dummier [, Level 0]: Isegrin: die faster
+[2021-04-20 23:51:48]: (1)Tom [, Level 32]: f4
+[2021-04-20 23:51:53]: (1)Tom [, Level 32]: here
+[2021-04-20 23:51:58]: (1)Tom [, Level 32]: when loged in
