@@ -44,3 +44,8 @@
 [2021-04-21 00:04:04]: ***  [, Level 0]: __init__(self): finished in: 2 minute(s) 32.16 second(s)
 [2021-04-21 00:04:04]: ***  [, Level 0]: New record: 2 minute(s) 10.78 second(s) better.
 [2021-04-21 00:04:04]: (1)Tom [, Level 32]: i dont understand u go to bank eandpres f4 f3 f3
+[2021-04-21 00:04:26]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-21 00:04:28]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-21 00:04:30]: ***  [, Level 0]: 'SanoreX' has left the game
+[2021-04-21 00:04:30]: ***  [, Level 0]: 'SanoreX.*' has left the game
+[2021-04-21 00:04:34]: #5 blocker [Chilli.*, Level 24]: avioocals 2.0: basszalak arcon te stex arcú
