@@ -2194,3 +2194,7 @@
 [2021-04-21 02:25:40]: Coca [Drunks, Level 25]: Taip: war
 [2021-04-21 02:25:41]: ***  [ƒýÿÿ, Level 0]: 'sr66' entered and joined the game
 [2021-04-21 02:25:46]: ***  [ƒýÿÿ, Level 0]: 'Hawli bir insan' entered and joined the game
+[2021-04-21 02:25:47]:   [, Level 0]: sr66: hi
+[2021-04-21 02:25:50]: ***  [ƒýÿÿ, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-21 02:25:57]: ***  [ƒýÿÿ, Level 0]: 'Hard to belive' has left the game
+[2021-04-21 02:25:57]: ***  [ƒýÿÿ, Level 0]: 'Davidboss8' has left the game
