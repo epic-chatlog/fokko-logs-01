@@ -1226,3 +1226,8 @@
 [2021-04-21 01:37:40]: ***  [é, Level 0]: 'lolo' entered and joined the game
 [2021-04-21 01:37:42]: Nagisa [H] [E8, Level 3]: rocket al saƒüdan
 [2021-04-21 01:37:47]: Matiteusz [TrRShClNrRs, Level 37]: ∆¨evan: spec my dummy
+[2021-04-21 01:37:52]: ***  [é, Level 0]: 'Mondaa' entered and joined the game
+[2021-04-21 01:37:56]: „ÄéJester„Äè [, Level 0]: muluk:
+[2021-04-21 01:38:00]: ***  [é, Level 0]: '1' finished the special race!
+[2021-04-21 01:38:00]: ***  [é, Level 0]: 'Terra' finished the special race!
+[2021-04-21 01:38:03]: Matiteusz [TrRShClNrRs, Level 37]: ∆¨evan: spec my dummy
