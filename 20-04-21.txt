@@ -25298,3 +25298,4 @@
 [2021-04-20 23:14:09]: ***  [, Level 0]: 'Tom' has left the game
 [2021-04-20 23:14:12]: muliboy [, Level 0]: or tom 1
 [2021-04-20 23:14:21]: KenanKardes [, Level 0]: sa beyler
+[2021-04-20 23:14:43]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
