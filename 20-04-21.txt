@@ -25691,3 +25691,8 @@
 [2021-04-20 23:58:29]: comic [comically, Level 15]: lmao
 [2021-04-20 23:58:41]: ***  [, Level 0]: 'KetchupNecmy' entered and joined the game
 [2021-04-20 23:58:58]: muluk [, Level 0]: whts a 4 digd number
+[2021-04-20 23:59:30]: Taip [VergleriSay, Level 21]: i need to go
+[2021-04-20 23:59:31]: Taip [VergleriSay, Level 21]: bye
+[2021-04-20 23:59:33]: Taip [VergleriSay, Level 21]: see you late
+[2021-04-20 23:59:34]: f"{self.name}" [, Level 0]: bye
+[2021-04-20 23:59:35]: Taip [VergleriSay, Level 21]: i come
