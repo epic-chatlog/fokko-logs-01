@@ -25432,3 +25432,8 @@
 [2021-04-20 23:37:24]: ***  [, Level 0]: 'Avel.bg' entered and joined the game
 [2021-04-20 23:37:27]: SanoreX [Chilli.*, Level 27]: hi #5 blocker
 [2021-04-20 23:37:27]: avioocals [|*MorE*|, Level 0]: #5 blocker: cat I go the jetpack wait
+[2021-04-20 23:37:35]: [D] #5 blocker [Chilli.*, Level 0]: hi
+[2021-04-20 23:37:35]: ***  [, Level 0]: 'avioocals 2.0' entered and joined the game
+[2021-04-20 23:37:35]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-20 23:37:37]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-20 23:37:40]: ***  [, Level 0]: 'Avel.bg' has left the game
