@@ -3412,3 +3412,7 @@
 [2021-04-21 03:11:32]: ERROR. [404, Level 57]: . if i get out i just clean again
 [2021-04-21 03:11:38]: ***  [ƒıÿÿ, Level 0]: 'nameless te' has left the game
 [2021-04-21 03:11:43]: GReeeN [\Ğ§ÕÎ¸/, Level 0]: ReXi:  kann sein ja
+[2021-04-21 03:11:44]: ***  [ƒıÿÿ, Level 0]: 'ÏœÊ€Ä±É¢ÊŠÊ‚' finished the special race!
+[2021-04-21 03:11:49]: ***  [ƒıÿÿ, Level 0]: '[D]Ï»ÉªÉ”ÊœÉ‘ÊŸ' finished the special race!
+[2021-04-21 03:11:52]: ***  [ƒıÿÿ, Level 0]: 'nenny' has left the game
+[2021-04-21 03:11:54]: ***  [ƒıÿÿ, Level 0]: 'Cylox' entered and joined the game
