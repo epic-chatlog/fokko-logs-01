@@ -25285,3 +25285,5 @@
 [2021-04-20 23:11:23]: ***  [, Level 0]: [POLICE-CHANNEL] 'Уточка'-'' is spawnblocking. Catch him!
 [2021-04-20 23:11:25]: muliboy [, Level 0]: (1)Tom:
 [2021-04-20 23:11:41]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-20 23:11:54]: ***  [, Level 0]: 'ghostsniper2019' has left the game
+[2021-04-20 23:11:54]: ***  [, Level 0]: [POLICE-CHANNEL] 'Уточка'-'' is spawnblocking. Catch him!
