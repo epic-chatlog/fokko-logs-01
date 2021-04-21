@@ -625,3 +625,4 @@
 [2021-04-21 00:58:30]: ***  [Ž, Level 0]: 'Hawli bir insan' entered and joined the game
 [2021-04-21 00:58:31]: ***  [Ž, Level 0]: '[D] iydrss' has left the game
 [2021-04-21 00:58:31]: ***  [Ž, Level 0]: 'iydrss' has left the game
+[2021-04-21 00:58:52]: ***  [Ž, Level 0]: 'nameless tee' has left the game
