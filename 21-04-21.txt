@@ -406,3 +406,6 @@
 [2021-04-21 00:34:03]: Raidon's Pet [, Level 21]: xd
 [2021-04-21 00:34:04]: ***  [, Level 0]: (1)Cup finished in: 3 minute(s) 58.12 second(s)
 [2021-04-21 00:34:12]: Raidon's Pet [, Level 21]: kais: jail
+[2021-04-21 00:34:20]: kais [, Level 66]: Raidon's Pet: ?
+[2021-04-21 00:34:22]: Taip [VergleriSay, Level 21]: marcelo stop bitch
+[2021-04-21 00:34:28]: Raidon's Pet [, Level 21]: kais: you draw jail
