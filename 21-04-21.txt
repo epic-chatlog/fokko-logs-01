@@ -1337,3 +1337,6 @@
 [2021-04-21 01:46:56]: ***  [Ž, Level 0]: '(1)Mondaa' has left the game
 [2021-04-21 01:47:04]: Meetiteusz [TrRShClNrRs, Level 29]: Æ¬evan: XD
 [2021-04-21 01:47:09]: ***  [Ž, Level 0]: '~DemoizL~' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-21 01:47:12]: Meetiteusz [TrRShClNrRs, Level 29]: KURVA
+[2021-04-21 01:47:17]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'avioocals 2.0' is spawnblocking. Catch him!
+[2021-04-21 01:47:21]: ***  [Ž, Level 0]: 'pennywise' has left the game
