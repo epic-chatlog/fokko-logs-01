@@ -25003,3 +25003,5 @@
 [2021-04-20 19:54:41]: ***  [, Level 0]: 'Jeloudagh' has left the game
 [2021-04-20 19:54:43]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
 [2021-04-20 19:55:10]: ***  [, Level 0]: 'senteapressão' entered and joined the game
+[2021-04-20 19:55:20]: ***  [, Level 0]: 'Jeloudagh' has left the game
+[2021-04-20 19:55:22]: ***  [, Level 0]: 'Jeloudagh' entered and joined the game
