@@ -3644,3 +3644,7 @@
 [2021-04-21 03:21:10]: [D] mamikral011 [DogParty, Level 27]: . watch
 [2021-04-21 03:21:12]: Random Guy [, Level 40]: fokkonaut: i bought grenade and i have
 [2021-04-21 03:21:16]: . [TrRShClNrRs, Level 11]: mamikral011: what
+[2021-04-21 03:21:20]: . [TrRShClNrRs, Level 11]: mamikral011: u stopped?
+[2021-04-21 03:21:24]: . [TrRShClNrRs, Level 11]: [D] mamikral011: ok he stops
+[2021-04-21 03:21:28]: [D] mamikral011 [DogParty, Level 27]: . yea he is no stoped
+[2021-04-21 03:21:30]:   [, Level 0]: Cylox: noo
