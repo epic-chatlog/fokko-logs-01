@@ -1838,3 +1838,5 @@
 [2021-04-21 02:11:29]: Nagisa [H] [E8, Level 3]: muliboy: stop me enemy help
 [2021-04-21 02:11:31]: sta [freeporÃ§ay, Level 0]: ama ben 1 tanesinden almÄ±ÅŸtÄ±m
 [2021-04-21 02:11:37]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-21 02:11:47]: ***  [Ž, Level 0]: el champeon is on a killing spree with 10 blocks
+[2021-04-21 02:11:47]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
