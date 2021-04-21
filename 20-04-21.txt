@@ -25628,3 +25628,6 @@
 [2021-04-20 23:53:21]: ***  [, Level 0]: 'dummier' has left the game
 [2021-04-20 23:53:21]: ***  [, Level 0]: 'impostor amogus' has left the game
 [2021-04-20 23:53:22]: (1)Tom [, Level 32]: type:   /register
+[2021-04-20 23:53:40]: Matiteusz [TrRShClNrRs, Level 37]: avioocals: yes
+[2021-04-20 23:53:43]: (1)Tom [, Level 32]: all commands start whit /
+[2021-04-20 23:53:44]: muluk [, Level 0]: and htthen
