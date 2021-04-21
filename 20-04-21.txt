@@ -24993,3 +24993,4 @@
 [2021-04-20 19:50:02]: Black [, Level 0]: امش
 [2021-04-20 19:50:04]: Black [, Level 0]: HLA
 [2021-04-20 19:50:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-20 19:53:09]: ***  [, Level 0]: 'igor miguel' entered and joined the game
