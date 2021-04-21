@@ -196,3 +196,6 @@
 [2021-04-21 00:17:18]: ***  [, Level 0]: 'zizibuczek' entered and joined the game
 [2021-04-21 00:17:20]: Raidon [, Level 24]: ERROR:
 [2021-04-21 00:17:20]: ***  [, Level 0]: 'zizibuczek' has left the game
+[2021-04-21 00:17:31]: muliboy [, Level 0]: Tevan:
+[2021-04-21 00:17:32]: Meetiteusz [TrRShClNrRs, Level 0]: avioocals: jumps
+[2021-04-21 00:17:34]: muliboy [, Level 0]: hel
