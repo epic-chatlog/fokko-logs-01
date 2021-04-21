@@ -622,3 +622,6 @@
 [2021-04-21 00:57:12]: Intensiv_ [DogParty, Level 12]: cHurch:  sorry
 [2021-04-21 00:57:55]: iydrss [|TR| Agalar, Level 24]: Niemand:  okey im opening for you
 [2021-04-21 00:58:13]: Intensiv_ [DogParty, Level 12]: cHurch:  help
+[2021-04-21 00:58:30]: ***  [Ž, Level 0]: 'Hawli bir insan' entered and joined the game
+[2021-04-21 00:58:31]: ***  [Ž, Level 0]: '[D] iydrss' has left the game
+[2021-04-21 00:58:31]: ***  [Ž, Level 0]: 'iydrss' has left the game
