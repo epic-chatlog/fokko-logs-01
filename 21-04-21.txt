@@ -2669,3 +2669,5 @@
 [2021-04-21 02:43:44]: ***  [ƒýÿÿ, Level 0]: '(1)Coca' has left the game
 [2021-04-21 02:43:44]: ***  [ƒýÿÿ, Level 0]: ### '(1)Raidon's Pet' @everyone spec flappy
 [2021-04-21 02:43:47]: ***  [ƒýÿÿ, Level 0]: ### '(1)Raidon' @everyone spec flappy
+[2021-04-21 02:43:53]: Coca [Drunks, Level 25]: Cylox: /spec Coca
+[2021-04-21 02:44:00]: at insan [freeporÃ§ay, Level 0]: Kezo:  help plss
