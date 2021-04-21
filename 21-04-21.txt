@@ -1348,3 +1348,6 @@
 [2021-04-21 01:47:53]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
 [2021-04-21 01:48:02]: Raidon [, Level 24]: spec avioocals
 [2021-04-21 01:48:12]: Raidon [, Level 24]: Terra: bro
+[2021-04-21 01:48:16]: Raidon [, Level 24]: Terra: you can help me?
+[2021-04-21 01:48:25]:   [, Level 0]: mamikral011: (1)ES: stop
+[2021-04-21 01:48:27]: Terra [, Level 0]: Raidon: where are you?
