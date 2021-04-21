@@ -215,3 +215,6 @@
 [2021-04-21 00:18:08]: ***  [, Level 0]: ':/ MX' has left the game
 [2021-04-21 00:18:10]: ***  [, Level 0]: ':/ MX' entered and joined the game
 [2021-04-21 00:18:12]: Ƭevan [TrRShClNrRs, Level 50]: shit
+[2021-04-21 00:18:40]: ***  [, Level 0]: 'ghostsniper2019' has left the game
+[2021-04-21 00:18:42]: muluk [, Level 0]: Tevan:
+[2021-04-21 00:18:46]: Raidon [, Level 24]: Ƭevan: ?
