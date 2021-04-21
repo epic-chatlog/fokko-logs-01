@@ -25500,3 +25500,6 @@
 [2021-04-20 23:44:08]: SanoreX.* [Chilli.*, Level 23]: #5 blocker: look
 [2021-04-20 23:44:10]: SanoreX.* [Chilli.*, Level 23]: #5 blocker: come
 [2021-04-20 23:44:13]: ***  [, Level 0]: 'neim' entered and joined the game
+[2021-04-20 23:44:30]: ***  [, Level 0]: 'valerabest' entered and joined the game
+[2021-04-20 23:44:30]: Matiteusz [TrRShClNrRs, Level 37]: Isegrin: ale zagrzybialy niedojeb
+[2021-04-20 23:44:33]: SanoreX.* [Chilli.*, Level 23]: wait
