@@ -1928,3 +1928,7 @@
 [2021-04-21 02:15:36]: Meetiteusz [TrRShClNrRs, Level 29]: .: idk
 [2021-04-21 02:15:40]: ***  [é, Level 0]: 'HolyVater' entered and joined the game
 [2021-04-21 02:15:42]:   [, Level 0]: „ÄéJester„Äè: sta lazerin var vursana
+[2021-04-21 02:15:45]: :D [E8, Level 6]: yapma
+[2021-04-21 02:15:49]: Meetiteusz [TrRShClNrRs, Level 29]: .:  no
+[2021-04-21 02:15:50]: ***  [é, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-21 02:15:52]: ***  [é, Level 0]: 'Bubba :3[ƒê]' entered and joined the game
