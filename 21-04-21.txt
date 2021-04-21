@@ -1211,3 +1211,4 @@
 [2021-04-21 01:36:13]: sta [freeporçay, Level 0]: Nagisa [H]:  gel gidek
 [2021-04-21 01:36:13]: Nagisa [H] [E8, Level 3]: ben vaarken nah
 [2021-04-21 01:36:24]: Nagisa [H] [E8, Level 3]: dummy gelsin
+[2021-04-21 01:36:30]: sta [freeporçay, Level 0]: Nagisa [H]:  bende silah yok
