@@ -25408,3 +25408,5 @@
 [2021-04-20 23:32:53]: Уточка'-' [, Level 0]: comic you admin?
 [2021-04-20 23:32:58]: comic [comically, Level 15]: Уточка'-': wut
 [2021-04-20 23:33:02]: comic [comically, Level 15]: Уточка'-': whered you get that?
+[2021-04-20 23:33:11]: Уточка'-' [, Level 0]: special race
+[2021-04-20 23:33:16]: ***  [, Level 0]: 'KondzistyY' entered and joined the game
