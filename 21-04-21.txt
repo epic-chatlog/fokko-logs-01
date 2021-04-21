@@ -1384,3 +1384,9 @@
 [2021-04-21 01:50:02]: Nagisa [H] [E8, Level 3]: gel
 [2021-04-21 01:50:04]: at insan [freeporçay, Level 0]: dur
 [2021-04-21 01:50:09]: Raidon [, Level 24]: Terra: go pls
+[2021-04-21 01:50:22]: Raidon [, Level 24]: hey Terra
+[2021-04-21 01:50:22]:   [, Level 0]: mamikral011: yazan~_+: sa
+[2021-04-21 01:50:23]: sta [freeporçay, Level 0]: Nagisa [H]:  gel
+[2021-04-21 01:50:24]: ***  [�, Level 0]: 'Kong' entered and joined the game
+[2021-04-21 01:50:32]:   [, Level 0]: mamikral011: nenny: sa
+[2021-04-21 01:50:33]: Terra [, Level 0]: Raidon: how do we exit spec mode
