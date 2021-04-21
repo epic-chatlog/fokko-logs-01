@@ -25064,3 +25064,4 @@
 [2021-04-20 21:58:30]: 𝕎𝔸ℝ|niQ [WarAllServ, Level 38]: Уточка'-': ты тоже тут играешь
 [2021-04-20 21:59:34]: ***  [, Level 0]: [D] Уточк� finished in: 8 minute(s) 45.20 second(s)
 [2021-04-20 21:59:39]: ***  [, Level 0]: Уточка'-' finished in: 8 minute(s) 40.82 second(s)
+[2021-04-20 22:00:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
