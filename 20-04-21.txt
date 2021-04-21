@@ -24511,3 +24511,5 @@
 [2021-04-20 18:51:10]: ***  [, Level 0]: 'Black' has left the game
 [2021-04-20 18:52:29]: Bruh. [Blood Day, Level 7]: ha .d
 [2021-04-20 18:53:11]: ***  [, Level 0]: 'Pyrox ヤ' entered and joined the game
+[2021-04-20 18:53:15]: Bruh. [Blood Day, Level 7]: hg
+[2021-04-20 18:53:17]: Pyrox ヤ [Bloody Day, Level 0]: hb
