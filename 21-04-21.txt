@@ -580,3 +580,5 @@
 [2021-04-21 00:52:36]: ***  [Ž, Level 0]: 'JANOSKI' entered and joined the game
 [2021-04-21 00:52:41]: ***  [Ž, Level 0]: 'JANOSKI' has left the game
 [2021-04-21 00:52:54]: klas [, Level 0]: (1)Cup: what gun
+[2021-04-21 00:53:00]: Raidon [, Level 24]: (1)muliboy:
+[2021-04-21 00:53:04]: (1)Cup [, Level 0]: klas: ?
