@@ -1370,3 +1370,9 @@
 [2021-04-21 01:49:30]: Raidon [, Level 24]: Terra: go super room 1 sec pls
 [2021-04-21 01:49:38]: ***  [é, Level 0]: '(1)~DemoizL~' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-21 01:49:40]: (1)muluk [, Level 0]: help
+[2021-04-21 01:49:44]: Nagisa [H] [E8, Level 3]: inf jump gelcenmi
+[2021-04-21 01:49:45]: ***  [é, Level 0]: 'Soros' entered and joined the game
+[2021-04-21 01:49:50]: at insan [freepor√ßay, Level 0]: kim
+[2021-04-21 01:49:51]: ***  [é, Level 0]: 'klas 2' has left the game
+[2021-04-21 01:49:52]: ***  [é, Level 0]: 'Taip' entered and joined the game
+[2021-04-21 01:49:53]: Nagisa [H] [E8, Level 3]: sta:
