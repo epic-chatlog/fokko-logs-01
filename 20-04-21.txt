@@ -24127,3 +24127,5 @@
 [2021-04-20 17:47:28]: sikiş [, Level 0]: senin o ananı yumruk deisi edice
 [2021-04-20 17:47:34]: sikiş [, Level 0]: orospu çocu seni ya
 [2021-04-20 17:48:52]: sikiş [, Level 0]: ez
+[2021-04-20 17:50:02]: ERROR [404, Level 76]: u gy?
+[2021-04-20 17:50:05]: ERROR [404, Level 76]: gay?
