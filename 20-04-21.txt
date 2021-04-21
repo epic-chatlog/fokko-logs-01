@@ -23881,3 +23881,7 @@
 [2021-04-20 17:08:12]: Cup [, Level 0]: lannn
 [2021-04-20 17:08:16]: bob [, Level 36]: i walked in
 [2021-04-20 17:08:18]: bob [, Level 36]: x#
+[2021-04-20 17:08:23]: ERROR [404, Level 76]: xdd
+[2021-04-20 17:08:23]: Cup [, Level 0]: TeigHuhn:  traitor ?
+[2021-04-20 17:08:29]: TeigHuhn [, Level 0]: Cup: ?
+[2021-04-20 17:08:29]: ¡ RodCYREX 神 [Blood Day, Level 8]: dont
