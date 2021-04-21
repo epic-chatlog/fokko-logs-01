@@ -40,3 +40,7 @@
 [2021-04-21 00:03:56]: (1)ERROR [404, Level 25]: #5 blocker:  idc about this wtf u tried to hook me if i took sanorex. thats why
 [2021-04-21 00:03:59]: ***  [, Level 0]: f"{self.name}" finished in: 3 minute(s) 35.88 second(s)
 [2021-04-21 00:03:59]: ***  [, Level 0]: New record: 8 minute(s)  1.30 second(s) better.
+[2021-04-21 00:04:00]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-21 00:04:04]: ***  [, Level 0]: __init__(self): finished in: 2 minute(s) 32.16 second(s)
+[2021-04-21 00:04:04]: ***  [, Level 0]: New record: 2 minute(s) 10.78 second(s) better.
+[2021-04-21 00:04:04]: (1)Tom [, Level 32]: i dont understand u go to bank eandpres f4 f3 f3
