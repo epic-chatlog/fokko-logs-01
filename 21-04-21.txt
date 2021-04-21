@@ -1528,3 +1528,9 @@
 [2021-04-21 01:56:24]: ***  [Ž, Level 0]: 'alter' has left the game
 [2021-04-21 01:56:29]: sta [freeporÃ§ay, Level 0]: muluk:  help
 [2021-04-21 01:56:34]: muliboy [, Level 0]: were
+[2021-04-21 01:56:39]: :D [E8, Level 6]: inf jump
+[2021-04-21 01:56:40]: muliboy [, Level 0]: ah
+[2021-04-21 01:56:41]: sta [freeporÃ§ay, Level 0]: saÄŸdayÄ±z muluk
+[2021-04-21 01:56:41]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-21 01:56:42]: :D [E8, Level 6]: right
+[2021-04-21 01:56:47]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
