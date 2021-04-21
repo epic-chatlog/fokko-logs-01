@@ -664,3 +664,8 @@
 [2021-04-21 01:01:19]: ***  [�, Level 0]: [POLICE-CHANNEL] 'ϻɪɔʜɑʟ' is spawnblocking. Catch him!
 [2021-04-21 01:01:25]: ***  [�, Level 0]: ϻɪɔʜɑʟ's killing spree was ended by Isegrin (5 blocks)
 [2021-04-21 01:01:33]: Intensiv_ [DogParty, Level 12]: 1:  war
+[2021-04-21 01:01:39]: Intensiv_ [DogParty, Level 12]: 1:  war4life
+[2021-04-21 01:01:45]: ϻɪɔʜɑʟ [DogParty, Level 24]: Isegrin: stop
+[2021-04-21 01:01:46]: ***  [�, Level 0]: '(1)Cacke' has left the game
+[2021-04-21 01:01:46]: ***  [�, Level 0]: '(1)Cup' has left the game
+[2021-04-21 01:01:48]: ***  [�, Level 0]: [POLICE-CHANNEL] 'Isegrin' is spawnblocking. Catch him!
