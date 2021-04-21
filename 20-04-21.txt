@@ -25663,3 +25663,4 @@
 [2021-04-20 23:55:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-20 23:55:50]: Raidon [, Level 24]: SanoreX: kaç jump var
 [2021-04-20 23:55:53]: SanoreX [Chilli.*, Level 27]: 1
+[2021-04-20 23:56:06]: SanoreX [Chilli.*, Level 27]: OMG
