@@ -1185,3 +1185,5 @@
 [2021-04-21 01:33:40]: ***  [é, Level 0]: 'tee' entered and joined the game
 [2021-04-21 01:33:54]: ***  [é, Level 0]: 'tee' has left the game
 [2021-04-21 01:33:55]: ***  [é, Level 0]: 'tee' entered and joined the game
+[2021-04-21 01:34:03]: sta [freepor√ßay, Level 0]: es help pls
+[2021-04-21 01:34:06]: ***  [é, Level 0]: '(1)kais' entered and joined the game
