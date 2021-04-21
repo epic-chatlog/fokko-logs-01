@@ -1037,3 +1037,5 @@
 [2021-04-21 01:25:13]: Meetiteusz [TrRShClNrRs, Level 29]: Ƭevan: what do you think about emm continue what we did yesterday xD
 [2021-04-21 01:25:22]: sta [freeporçay, Level 0]: 『Jester』:  orda beni çekmeseydin yukarı çıkcakım
 [2021-04-21 01:25:32]: ***  [�, Level 0]: '(1)Raidon' entered and joined the game
+[2021-04-21 01:25:47]: sta [freeporçay, Level 0]: sonunda 8 jump aldım
+[2021-04-21 01:25:50]: ***  [�, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
