@@ -1368,3 +1368,5 @@
 [2021-04-21 01:49:13]: ***  [Ž, Level 0]: 'alter' entered and joined the game
 [2021-04-21 01:49:17]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
 [2021-04-21 01:49:30]: Raidon [, Level 24]: Terra: go super room 1 sec pls
+[2021-04-21 01:49:38]: ***  [Ž, Level 0]: '(1)~DemoizL~' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-21 01:49:40]: (1)muluk [, Level 0]: help
