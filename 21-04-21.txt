@@ -637,3 +637,4 @@
 [2021-04-21 00:59:55]: ***  [Ž, Level 0]: '[D] Santa Claus' entered and joined the game
 [2021-04-21 01:00:01]: S Y T H N [, Level 37]: Santa Claus: hey Santaa jail :D
 [2021-04-21 01:00:02]: ***  [Ž, Level 0]: ':D' changed name to ':H'
+[2021-04-21 01:00:14]: [D] Santa Claus [, Level 0]: Hiii S Y T H N ^^
