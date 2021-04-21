@@ -25340,3 +25340,4 @@
 [2021-04-20 23:20:12]: S Y T H N [, Level 37]: xD
 [2021-04-20 23:20:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-20 23:21:24]: ***  [, Level 0]: 'S Y T H N.' entered and joined the game
+[2021-04-20 23:21:44]: muliboy [, Level 0]: you need laser
