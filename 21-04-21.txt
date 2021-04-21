@@ -995,3 +995,5 @@
 [2021-04-21 01:19:52]: 『Jester』 [, Level 0]: dummy deydim
 [2021-04-21 01:20:09]: ElTioNoVaToN:s [, Level 0]: Santa Claus: responde ctm
 [2021-04-21 01:20:31]: Noémi [Queen , Level 40]: cat: police
+[2021-04-21 01:20:34]: ***  [�, Level 0]: 'CHIRICHIRIS' has left the game
+[2021-04-21 01:20:41]: Noémi [Queen , Level 40]: I like turtles.
