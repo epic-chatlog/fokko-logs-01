@@ -369,3 +369,6 @@
 [2021-04-21 00:31:18]: muluk [, Level 0]: hlp
 [2021-04-21 00:31:20]: muluk [, Level 0]: up
 [2021-04-21 00:31:22]: avioocals [|*MorE*|, Level 0]: i COME
+[2021-04-21 00:31:28]: avioocals [|*MorE*|, Level 0]: 2 min
+[2021-04-21 00:31:28]: muluk [, Level 0]: thanks
+[2021-04-21 00:31:36]: ***  [, Level 0]: 'tee' has left the game
