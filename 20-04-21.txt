@@ -25512,3 +25512,6 @@
 [2021-04-20 23:44:57]: ANIME BOY [, Level 0]: how to go to spawn with money
 [2021-04-20 23:44:59]: SanoreX.* [Chilli.*, Level 23]: #5 blocker: look
 [2021-04-20 23:45:01]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-20 23:45:03]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-20 23:45:10]: ***  [, Level 0]: [POLICE-CHANNEL] 'Taip' is spawnblocking. Catch him!
+[2021-04-20 23:45:14]: ***  [, Level 0]: ':/ MX' has left the game
