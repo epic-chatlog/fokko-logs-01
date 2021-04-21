@@ -49,3 +49,5 @@
 [2021-04-21 00:04:30]: ***  [, Level 0]: 'SanoreX' has left the game
 [2021-04-21 00:04:30]: ***  [, Level 0]: 'SanoreX.*' has left the game
 [2021-04-21 00:04:34]: #5 blocker [Chilli.*, Level 24]: avioocals 2.0: basszalak arcon te stex arcú
+[2021-04-21 00:04:37]: avioocals 2.0 [|*MorE*|, Level 0]: ERROR: I block oyun kralı ?
+[2021-04-21 00:04:45]: oyun kralı [, Level 18]: no
