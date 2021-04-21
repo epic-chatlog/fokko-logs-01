@@ -24491,3 +24491,6 @@
 [2021-04-20 18:43:12]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-20 18:43:22]: ***  [, Level 0]: 'bob' has left the game
 [2021-04-20 18:43:25]: ***  [, Level 0]: 'moinmoion' entered and joined the game
+[2021-04-20 18:43:31]: ***  [, Level 0]: 'moinmoion' has left the game
+[2021-04-20 18:43:33]: Bruh. [Blood Day, Level 7]: lag
+[2021-04-20 18:43:35]: (1)☺ [, Level 26]: i am tired
