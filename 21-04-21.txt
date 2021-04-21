@@ -2790,3 +2790,9 @@
 [2021-04-21 02:48:05]: ***  [ƒýÿÿ, Level 0]: 'tee' has left the game
 [2021-04-21 02:48:07]: ***  [ƒýÿÿ, Level 0]: 'tee' entered and joined the game
 [2021-04-21 02:48:10]: ***  [ƒýÿÿ, Level 0]: 'Kezo' has left the game
+[2021-04-21 02:48:17]: ***  [ƒýÿÿ, Level 0]: 'tee' has left the game
+[2021-04-21 02:48:17]: [D] ghp [, Level 0]: orea febgo
+[2021-04-21 02:48:17]:   [, Level 0]: Golden YT (PL): help
+[2021-04-21 02:48:18]: (1)Raidon [, Level 0]: k
+[2021-04-21 02:48:18]: ***  [ƒýÿÿ, Level 0]: 'tee' entered and joined the game
+[2021-04-21 02:48:20]: (1)Raidon [, Level 0]: .: bro
