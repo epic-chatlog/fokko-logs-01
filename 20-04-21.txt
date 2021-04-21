@@ -25232,3 +25232,6 @@
 [2021-04-20 23:00:56]: muliboy [, Level 0]: noo#
 [2021-04-20 23:01:00]: muliboy [, Level 0]: i want get
 [2021-04-20 23:01:00]: Уточка'-' [, Level 0]: too
+[2021-04-20 23:01:10]: ***  [, Level 0]: 'Noxl' has left the game (Timeout)
+[2021-04-20 23:01:10]: ***  [, Level 0]: 'Rz5z' has left the game (Timeout)
+[2021-04-20 23:01:16]: muliboy [, Level 0]: en
