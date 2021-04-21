@@ -149,3 +149,7 @@
 [2021-04-21 00:14:09]: ***  [, Level 0]: ':/ MX' has left the game
 [2021-04-21 00:14:11]: ***  [, Level 0]: ':/ MX' entered and joined the game
 [2021-04-21 00:14:16]: muliboy [, Level 0]: whats you pproblem
+[2021-04-21 00:14:20]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-21 00:14:20]: ***  [, Level 0]: '1' entered and joined the game
+[2021-04-21 00:14:22]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-21 00:14:24]: avioocals [|*MorE*|, Level 0]: coffee: I help u
