@@ -25142,3 +25142,5 @@
 [2021-04-20 22:42:09]: ***  [, Level 0]: '𝕎𝔸ℝ|niQ' has left the game
 [2021-04-20 22:42:19]: ***  [, Level 0]: [POLICE-CHANNEL] 'hatHCHecks' is spawnblocking. Catch him!
 [2021-04-20 22:43:31]: ***  [, Level 0]: hatHCHecks is on a killing spree with 5 blocks
+[2021-04-20 22:43:40]: ***  [, Level 0]: [POLICE-CHANNEL] 'hatHCHecks' is spawnblocking. Catch him!
+[2021-04-20 22:43:50]: Nudelsaft c: [FookinLads, Level 43]: aaaaaa
