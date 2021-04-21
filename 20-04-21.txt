@@ -25438,3 +25438,4 @@
 [2021-04-20 23:37:37]: ***  [, Level 0]: ':/ MX' entered and joined the game
 [2021-04-20 23:37:40]: ***  [, Level 0]: 'Avel.bg' has left the game
 [2021-04-20 23:37:53]: ***  [, Level 0]: 'SanoreX.*' entered and joined the game
+[2021-04-20 23:38:08]: comic [comically, Level 15]: ok man with flag incoming
