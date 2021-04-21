@@ -25545,3 +25545,5 @@
 [2021-04-20 23:47:30]: muluk [, Level 0]: wtf
 [2021-04-20 23:47:32]: S Y T H N [, Level 37]: Raidon's Pet: thx
 [2021-04-20 23:47:41]: ***  [, Level 0]: '.XFault' entered and joined the game
+[2021-04-20 23:47:42]: Raidon's Pet [, Level 20]: avioocals: wait
+[2021-04-20 23:47:50]: ***  [, Level 0]: '.XFault' has left the game
