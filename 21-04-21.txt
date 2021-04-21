@@ -1394,3 +1394,11 @@
 [2021-04-21 01:50:36]: ***  [�, Level 0]: 'Kong' has left the game
 [2021-04-21 01:50:36]:   [, Level 0]: klas: 『Jester』: nasıl sınırsız jump var
 [2021-04-21 01:50:44]: Raidon [, Level 24]: Terra: right shift
+[2021-04-21 01:50:47]: ***  [�, Level 0]: [POLICE-CHANNEL] 'Ǥãųš' is spawnblocking. Catch him!
+[2021-04-21 01:50:49]: 『Jester』 [, Level 0]: klas: yetenek
+[2021-04-21 01:50:50]: ***  [�, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-21 01:50:53]: 『Jester』 [, Level 0]: :D:
+[2021-04-21 01:50:53]:   [, Level 0]: klas: wow
+[2021-04-21 01:50:55]: ***  [�, Level 0]: 'nenny' has left the game
+[2021-04-21 01:50:55]: Terra [, Level 0]: well i cant
+[2021-04-21 01:50:57]:   [, Level 0]: mamikral011: jes:D
