@@ -25049,3 +25049,4 @@
 [2021-04-20 21:40:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-20 21:41:42]: ***  [, Level 0]: 'ZEWO' has left the game
 [2021-04-20 21:45:34]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-20 21:45:49]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
