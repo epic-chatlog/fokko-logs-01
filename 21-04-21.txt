@@ -1012,3 +1012,4 @@
 [2021-04-21 01:22:06]: ***  [Ž, Level 0]: 'oyun kralÄ±' entered and joined the game
 [2021-04-21 01:22:10]: ***  [Ž, Level 0]: 'sta' entered and joined the game
 [2021-04-21 01:22:41]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'I LEWÄ°S TR' is spawnblocking. Catch him!
+[2021-04-21 01:22:48]: ***  [Ž, Level 0]: 'I LEWÄ°S TR' has left the game
