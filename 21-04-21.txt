@@ -2603,3 +2603,5 @@
 [2021-04-21 02:40:46]: Lahmacun [, Level 0]: Nagisa [H]: aga gezdiriyonda ben biÅŸe anlamadÄ±m
 [2021-04-21 02:40:50]: ***  [ƒýÿÿ, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-21 02:40:53]: ***  [ƒýÿÿ, Level 0]: 'El patron' entered and joined the game
+[2021-04-21 02:40:56]: Nagisa [H] [E8, Level 3]: bana f4 bas bi
+[2021-04-21 02:41:06]: ***  [ƒýÿÿ, Level 0]: '[D] Cylox' entered and joined the game
