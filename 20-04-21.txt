@@ -25144,3 +25144,7 @@
 [2021-04-20 22:43:31]: ***  [, Level 0]: hatHCHecks is on a killing spree with 5 blocks
 [2021-04-20 22:43:40]: ***  [, Level 0]: [POLICE-CHANNEL] 'hatHCHecks' is spawnblocking. Catch him!
 [2021-04-20 22:43:50]: Nudelsaft c: [FookinLads, Level 43]: aaaaaa
+[2021-04-20 22:43:53]: Noxl [.bad, Level 48]: sry
+[2021-04-20 22:43:56]: ***  [, Level 0]: 'cHurch' entered and joined the game
+[2021-04-20 22:43:58]: ***  [, Level 0]: [POLICE-CHANNEL] 'hatHCHecks' is spawnblocking. Catch him!
+[2021-04-20 22:43:59]: [D] Nudelsaft c [FookinLads, Level 60]: its ok
