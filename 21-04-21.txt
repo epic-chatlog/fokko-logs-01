@@ -64,3 +64,6 @@
 [2021-04-21 00:05:23]: ***  [, Level 0]: '(1)avioocals' entered and joined the game
 [2021-04-21 00:05:23]: ***  [, Level 0]: 'tee' has left the game
 [2021-04-21 00:05:25]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-21 00:05:28]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-21 00:05:29]: (1)Tom [, Level 32]: I like turtles.
+[2021-04-21 00:05:35]: oyun kralı [, Level 18]: (1)ERROR:  help pls
