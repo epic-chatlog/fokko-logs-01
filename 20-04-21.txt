@@ -24063,3 +24063,5 @@
 [2021-04-20 17:29:35]: ***  [, Level 0]: '(1)P4Pyr0s' entered and joined the game
 [2021-04-20 17:29:40]: ***  [, Level 0]: Sokuş is on a killing spree with 10 blocks
 [2021-04-20 17:29:55]: ***  [, Level 0]: '(1)P4Pyr0s' has left the game
+[2021-04-20 17:29:58]: Sokuş [, Level 0]: ali kurtar beni
+[2021-04-20 17:30:05]: Cup [, Level 0]: Sokuş:  police arıyacam lan bekle
