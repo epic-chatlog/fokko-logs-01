@@ -336,3 +336,7 @@
 [2021-04-21 00:29:00]: Meetiteusz [TrRShClNrRs, Level 29]: Ƭevan: someone ate cokc
 [2021-04-21 00:29:04]: avioocals [|*MorE*|, Level 0]: salut kais
 [2021-04-21 00:29:05]: Meetiteusz [TrRShClNrRs, Level 29]: Ƭevan: idk
+[2021-04-21 00:29:13]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-21 00:29:13]: ***  [, Level 0]: '1' entered and joined the game
+[2021-04-21 00:29:15]: ***  [, Level 0]: 'tee' entered and joined the game
+[2021-04-21 00:29:15]: ***  [, Level 0]: '[D] Evaly FBI a' entered and joined the game
