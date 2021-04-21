@@ -25091,3 +25091,31 @@
 [2021-04-20 22:32:58]: ***  [, Level 0]: ### '[D] Nudelsaft c' X7 FOR LIVE 404 FOR GAY
 [2021-04-20 22:33:04]: [D] Nudelsaft c [FookinLads, Level 60]: oops
 [2021-04-20 22:33:25]: ***  [, Level 0]: 'nickid' has left the game
+[2021-04-20 22:33:34]: ←   [, Level 0]: Nudelsaft c:: 1moneydrop
+[2021-04-20 22:33:34]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-20 22:33:34]: ***  [, Level 0]: Bank: 0
+[2021-04-20 22:33:34]: ***  [, Level 0]: Wallet: 41052
+[2021-04-20 22:33:34]: ***  [, Level 0]: Euros: 0
+[2021-04-20 22:33:34]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-20 22:33:34]: ***  [, Level 0]: [WALLET] +116 collected
+[2021-04-20 22:33:34]: ***  [, Level 0]: [WALLET] +3 collected
+[2021-04-20 22:33:34]: ***  [, Level 0]: [WALLET] +2 collected
+[2021-04-20 22:33:34]: ***  [, Level 0]: [WALLET] -25328 dropped
+[2021-04-20 22:33:34]: ***  [, Level 0]: [WALLET] -282 dropped
+[2021-04-20 22:33:34]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-20 22:33:34]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-20 22:33:34]: ***  [, Level 0]: Invalid whisper
+[2021-04-20 22:33:36]: ←   [, Level 0]: Nudelsaft c:: 0moneydrop
+[2021-04-20 22:33:36]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-20 22:33:36]: ***  [, Level 0]: Bank: 0
+[2021-04-20 22:33:36]: ***  [, Level 0]: Wallet: 38066
+[2021-04-20 22:33:36]: ***  [, Level 0]: Euros: 0
+[2021-04-20 22:33:36]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-20 22:33:36]: ***  [, Level 0]: [WALLET] +2 collected
+[2021-04-20 22:33:36]: ***  [, Level 0]: [WALLET] -25885 dropped
+[2021-04-20 22:33:36]: ***  [, Level 0]: [WALLET] -208 dropped
+[2021-04-20 22:33:36]: ***  [, Level 0]: [WALLET] +25 collected
+[2021-04-20 22:33:36]: ***  [, Level 0]: [WALLET] -74 dropped
+[2021-04-20 22:33:36]: ***  [, Level 0]: ~~~~~~~~~~
+[2021-04-20 22:33:36]: ***  [, Level 0]: Drop money: '/money drop <amount>'
+[2021-04-20 22:33:36]: ***  [, Level 0]: Invalid whisper
