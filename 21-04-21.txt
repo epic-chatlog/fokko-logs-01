@@ -931,3 +931,4 @@
 [2021-04-21 01:14:14]: ***  [Ž, Level 0]: nenny's killing spree was ended by 1 (10 blocks)
 [2021-04-21 01:14:15]: ***  [Ž, Level 0]: 'nenny' has left the game
 [2021-04-21 01:14:42]: ***  [Ž, Level 0]: '(1)Matiteusz' changed name to 'Matiteusz.'
+[2021-04-21 01:14:47]: ***  [Ž, Level 0]: 'Matiteusz.' changed name to 'Matiteusz'
