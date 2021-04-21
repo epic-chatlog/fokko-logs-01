@@ -512,3 +512,6 @@
 [2021-04-21 00:46:47]: Isegrin [, Level 55]: NPk
 [2021-04-21 00:47:00]: ***  [é, Level 0]: 'K!ked' entered and joined the game
 [2021-04-21 00:47:04]: ***  [é, Level 0]: [POLICE-CHANNEL] 'Ho≈Ñi' is spawnblocking. Catch him!
+[2021-04-21 00:47:09]: ***  [é, Level 0]: Ho≈Ñi is on a killing spree with 5 blocks
+[2021-04-21 00:47:09]: ***  [é, Level 0]: [POLICE-CHANNEL] 'Ho≈Ñi' is spawnblocking. Catch him!
+[2021-04-21 00:47:10]: ***  [é, Level 0]: Ho≈Ñi's killing spree was ended by (1)muluk (5 blocks)
