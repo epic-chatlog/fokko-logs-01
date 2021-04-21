@@ -24285,3 +24285,5 @@
 [2021-04-20 18:14:32]: (1)☺ [, Level 26]: ti look
 [2021-04-20 18:14:51]: Black [, Level 26]: herlp b
 [2021-04-20 18:15:24]: (1)☺ [, Level 26]: the name
+[2021-04-20 18:15:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-20 18:15:50]: ***  [, Level 0]: '(1)Black' entered and joined the game
