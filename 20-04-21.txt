@@ -23796,3 +23796,4 @@
 [2021-04-20 17:00:19]: TeigHuhn [, Level 0]: Zʷʰʸˀ:  i need your help
 [2021-04-20 17:00:28]: GODLIKe [, Level 44]: bob: get out
 [2021-04-20 17:00:30]: Cup [, Level 0]: (2)Zʷʰʸˀ:  wtf are you doing
+[2021-04-20 17:00:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
