@@ -25148,3 +25148,5 @@
 [2021-04-20 22:43:56]: ***  [, Level 0]: 'cHurch' entered and joined the game
 [2021-04-20 22:43:58]: ***  [, Level 0]: [POLICE-CHANNEL] 'hatHCHecks' is spawnblocking. Catch him!
 [2021-04-20 22:43:59]: [D] Nudelsaft c [FookinLads, Level 60]: its ok
+[2021-04-20 22:44:12]: hatHCHecks [Sombrero, Level 37]: K!ked: q
+[2021-04-20 22:44:15]: Noxl [.bad, Level 48]: nice
