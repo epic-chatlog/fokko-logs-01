@@ -25140,3 +25140,4 @@
 [2021-04-20 22:41:46]: ***  [, Level 0]: 'K!ked' entered and joined the game
 [2021-04-20 22:42:09]: ***  [, Level 0]: 'niQ' has left the game
 [2021-04-20 22:42:09]: ***  [, Level 0]: '𝕎𝔸ℝ|niQ' has left the game
+[2021-04-20 22:42:19]: ***  [, Level 0]: [POLICE-CHANNEL] 'hatHCHecks' is spawnblocking. Catch him!
