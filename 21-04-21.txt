@@ -346,3 +346,6 @@
 [2021-04-21 00:29:22]: ***  [, Level 0]: 'tee' entered and joined the game
 [2021-04-21 00:29:23]: ***  [, Level 0]: '[D] Evaly FBI a' has left the game
 [2021-04-21 00:29:26]: ***  [, Level 0]: coffee is on a killing spree with 5 blocks
+[2021-04-21 00:29:32]: ***  [, Level 0]: Cacke finished in: 2 minute(s) 44.54 second(s)
+[2021-04-21 00:29:39]: ***  [, Level 0]: 'tee' has left the game
+[2021-04-21 00:29:40]: ***  [, Level 0]: 'tee' entered and joined the game
