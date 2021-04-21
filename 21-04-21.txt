@@ -1290,3 +1290,6 @@
 [2021-04-21 01:43:20]: :D [E8, Level 6]: geldim
 [2021-04-21 01:43:31]: ***  [é, Level 0]: 'nameless tee' entered and joined the game
 [2021-04-21 01:43:37]: ***  [é, Level 0]: «§√£≈≥≈°'s killing spree was ended by (1)ES (6 blocks)
+[2021-04-21 01:43:52]: ***  [é, Level 0]: 'nameless tee' has left the game
+[2021-04-21 01:43:52]: :D [E8, Level 6]: jetpack gun alcaz
+[2021-04-21 01:43:56]: sta [freepor√ßay, Level 0]: ok
