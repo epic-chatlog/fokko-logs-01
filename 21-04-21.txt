@@ -171,3 +171,9 @@
 [2021-04-21 00:15:30]: ***  [, Level 0]: [POLICE-CHANNEL] 'Santa Claus' has been caught by '1' (10 minutes arrest)
 [2021-04-21 00:15:31]: Matiteusz [TrRShClNrRs, Level 37]: ERROR: why i should
 [2021-04-21 00:15:33]: ***  [, Level 0]: '[D] Santa Claus' entered and joined the game
+[2021-04-21 00:15:49]: Matiteusz [TrRShClNrRs, Level 37]: ERROR: he ruined this same like you xD
+[2021-04-21 00:15:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-21 00:15:49]: muliboy [, Level 0]: how
+[2021-04-21 00:15:50]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-21 00:15:51]: ERROR. [404, Level 57]: i took money xD
+[2021-04-21 00:15:52]: ***  [, Level 0]: ':/ MX' entered and joined the game
