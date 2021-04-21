@@ -4255,3 +4255,15 @@
 [2021-04-21 03:45:37]: . [TrRShClNrRs, Level 11]: Ï»ÉªÉ”ÊœÉ‘ÊŸ: i know
 [2021-04-21 03:45:38]:   [, Level 0]: [D] marcelo: #5 blocker:  soo ?
 [2021-04-21 03:45:38]: ***  [ƒýÿÿ, Level 0]: '(1)Mista bombast' entered and joined the game
+[2021-04-21 03:45:39]: ***  [ƒýÿÿ, Level 0]: 'SanoreX' entered and joined the game
+[2021-04-21 03:45:41]: (1)Raidon [TrRShCINrRs, Level 0]: gel super rooma
+[2021-04-21 03:45:43]: (1)Raidon [TrRShCINrRs, Level 0]: fokkonaut: da var
+[2021-04-21 03:45:43]: (1)muliboy [, Level 0]: come
+[2021-04-21 03:45:44]: ***  [ƒýÿÿ, Level 0]: 'El patron' has left the game
+[2021-04-21 03:45:44]: ***  [ƒýÿÿ, Level 0]: '[D] El patron' has left the game
+[2021-04-21 03:45:45]: (1)Raidon [TrRShCINrRs, Level 0]: [D] Cylox:
+[2021-04-21 03:45:46]: . [TrRShClNrRs, Level 11]: Ï»ÉªÉ”ÊœÉ‘ÊŸ: i see
+[2021-04-21 03:45:48]: [D]Ï»ÉªÉ”ÊœÉ‘ÊŸ [DogParty, Level 21]: .: i frindly
+[2021-04-21 03:45:48]: ***  [ƒýÿÿ, Level 0]: 'Vozilo Broj 3' has left the game
+[2021-04-21 03:45:50]: . [TrRShClNrRs, Level 11]: Ï»ÉªÉ”ÊœÉ‘ÊŸ: but we cant let you help them
+[2021-04-21 03:45:50]: ***  [ƒýÿÿ, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
