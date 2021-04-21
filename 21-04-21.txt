@@ -698,3 +698,6 @@
 [2021-04-21 01:03:30]: S Y T H N [, Level 37]: hm?
 [2021-04-21 01:03:31]: ***  [�, Level 0]: Raidon finished in: 2 minute(s) 46.72 second(s)
 [2021-04-21 01:03:36]: ***  [�, Level 0]: Raidon's Pet finished in: 1 minute(s) 26.54 second(s)
+[2021-04-21 01:03:43]: Intensiv [DogParty, Level 19]: 1:  sen sıçtın olm polise giremicen
+[2021-04-21 01:03:45]: 『Jester』 [, Level 0]: Raidon: help
+[2021-04-21 01:03:48]: ***  [�, Level 0]: '[D] ṆḕẌ�' entered and joined the game
