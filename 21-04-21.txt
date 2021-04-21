@@ -1068,3 +1068,7 @@
 [2021-04-21 01:28:17]: sta [freeporçay, Level 0]: Nagisa [H]:  yardım ett
 [2021-04-21 01:28:18]: ***  [�, Level 0]: '[D] Santa Claus' entered and joined the game
 [2021-04-21 01:28:20]: Nightmare [FookinLads, Level 27]: Santa Claus: >> pls
+[2021-04-21 01:28:25]: sta [freeporçay, Level 0]: Nagisa [H]:  Nagisa [H]
+[2021-04-21 01:28:29]: ***  [�, Level 0]: '[D] Nightmare' entered and joined the game
+[2021-04-21 01:28:31]: Nagisa [H] [E8, Level 3]: tmm
+[2021-04-21 01:28:33]: Raidon's Pet [, Level 21]: oyun kralı: war
