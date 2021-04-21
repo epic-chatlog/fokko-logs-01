@@ -1356,3 +1356,9 @@
 [2021-04-21 01:48:38]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
 [2021-04-21 01:48:48]: Raidon [, Level 24]: Terra: 1 min
 [2021-04-21 01:48:49]: Terra [, Level 0]: Raidon: i can't use spec
+[2021-04-21 01:48:54]: ***  [Ž, Level 0]: 'Nagisa [H]' finished the special race!
+[2021-04-21 01:48:57]: Terra [, Level 0]: say where you are
+[2021-04-21 01:48:57]: Raidon [, Level 24]: Terra: super room help
+[2021-04-21 01:48:58]: ***  [Ž, Level 0]: 'sta' finished the special race!
+[2021-04-21 01:48:59]: Terra [, Level 0]: oh
+[2021-04-21 01:49:04]: ***  [Ž, Level 0]: ':D' finished the special race!
