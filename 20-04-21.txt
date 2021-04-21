@@ -25443,3 +25443,5 @@
 [2021-04-20 23:38:36]: SanoreX.* [Chilli.*, Level 23]: look
 [2021-04-20 23:38:49]: [D] #5 blocker [Chilli.*, Level 0]: SanoreX.*: HOW?
 [2021-04-20 23:38:55]: SanoreX.* [Chilli.*, Level 23]: idk
+[2021-04-20 23:39:02]: SanoreX.* [Chilli.*, Level 23]: bind b "+fire; say /money drop 1"
+[2021-04-20 23:39:04]: SanoreX.* [Chilli.*, Level 23]: in f1
