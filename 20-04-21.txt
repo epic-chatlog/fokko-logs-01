@@ -25528,3 +25528,6 @@
 [2021-04-20 23:45:49]: SanoreX.* [Chilli.*, Level 23]: Tom: stop get it
 [2021-04-20 23:46:20]: SanoreX.* [Chilli.*, Level 23]: #5 blocker: can u give me flag?
 [2021-04-20 23:46:21]: ***  [, Level 0]: 'avioocals 2.0' finished the special race!
+[2021-04-20 23:46:27]: ***  [, Level 0]: 'avioocals' finished the special race!
+[2021-04-20 23:46:36]: SanoreX.* [Chilli.*, Level 23]: aaaa
+[2021-04-20 23:46:38]: SanoreX.* [Chilli.*, Level 23]: thxxx
