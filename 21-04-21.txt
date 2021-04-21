@@ -420,3 +420,5 @@
 [2021-04-21 00:34:55]: ***  [, Level 0]: 'dummier' has left the game
 [2021-04-21 00:34:55]: ***  [, Level 0]: 'impostor amogus' has left the game
 [2021-04-21 00:34:59]: Raidon's Pet [, Level 21]: police officer: login
+[2021-04-21 00:35:12]: avioocals 2.0 [|*MorE*|, Level 0]: grenade
+[2021-04-21 00:35:19]: police officer [, Level 3]: i m  not police
