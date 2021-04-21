@@ -1779,3 +1779,9 @@
 [2021-04-21 02:07:52]: Raidon's Pet [, Level 21]: luna
 [2021-04-21 02:07:54]: No√©mi [Queen , Level 40]: (1)[D] ghp: dude im lvl 40
 [2021-04-21 02:07:54]: (1)ghp [1234, Level 0]: hahaha
+[2021-04-21 02:07:58]: ***  [é, Level 0]: 'MysterX' entered and joined the game
+[2021-04-21 02:08:05]: Raidon's Pet [, Level 21]: Luna: WTF
+[2021-04-21 02:08:05]: ***  [é, Level 0]: 'Czeburson' has left the game
+[2021-04-21 02:08:05]: mamikral011 [DogParty, Level 0]: Luna: fuck
+[2021-04-21 02:08:07]: ***  [é, Level 0]: '[D] mamikral011' entered and joined the game
+[2021-04-21 02:08:09]: el champeon [, Level 0]: MysterX: wut
