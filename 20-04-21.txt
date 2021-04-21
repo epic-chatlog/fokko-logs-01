@@ -23799,3 +23799,7 @@
 [2021-04-20 17:00:50]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-20 17:01:00]: Cup [, Level 0]: Zephir ツ:  help
 [2021-04-20 17:01:02]: GODLIKe [, Level 44]: DX
+[2021-04-20 17:01:12]: ***  [, Level 0]: 'Beetlebrick' entered and joined the game
+[2021-04-20 17:01:14]: GODLIKe [, Level 44]: oops
+[2021-04-20 17:01:15]: Cup [, Level 0]: TeigHuhn:  kill
+[2021-04-20 17:01:16]: noname [, Level 25]: Beetlebrick:
