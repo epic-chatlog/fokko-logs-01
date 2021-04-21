@@ -1966,3 +1966,5 @@
 [2021-04-21 02:17:18]: ***  [Ž, Level 0]: 'HEmon' has left the game
 [2021-04-21 02:17:23]: ***  [Ž, Level 0]: (1)Raidon finished in: 2 minute(s) 57.30 second(s)
 [2021-04-21 02:17:24]: [D] mamikral011 [DogParty, Level 0]: Kezo: napcam amk
+[2021-04-21 02:17:36]: ***  [Ž, Level 0]: 1 finished in: 0 minute(s) 49.24 second(s)
+[2021-04-21 02:17:36]: ***  [Ž, Level 0]: New record: 46.76 second(s) better.
