@@ -396,3 +396,8 @@
 [2021-04-21 00:33:07]: Raidon's Pet [, Level 21]: xd
 [2021-04-21 00:33:37]: ***  [, Level 0]: 'ben gizliyim' changed name to '『Jester』'
 [2021-04-21 00:33:38]: Raidon's Pet [, Level 21]: ah i havent money
+[2021-04-21 00:33:42]: Raidon's Pet [, Level 21]: xd
+[2021-04-21 00:33:42]: ***  [, Level 0]: 'Norbikrool' entered and joined the game
+[2021-04-21 00:33:43]: 『Jester』 [, Level 0]: 1 sa
+[2021-04-21 00:33:45]: ***  [, Level 0]: 'police officer' entered and joined the game
+[2021-04-21 00:33:51]: ***  [, Level 0]: 1 finished in: 3 minute(s) 52.76 second(s)
