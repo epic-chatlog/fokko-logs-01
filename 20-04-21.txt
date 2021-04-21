@@ -24670,3 +24670,6 @@
 [2021-04-20 19:10:12]: Pyrox ヤ [Bloody Day, Level 0]: senden 11 para geldi
 [2021-04-20 19:10:16]: ***  [, Level 0]: 'Blackdude' entered and joined the game
 [2021-04-20 19:10:16]: ***  [, Level 0]: 'Blackdude' has left the game
+[2021-04-20 19:10:46]: ezy [.bad, Level 0]: ezy
+[2021-04-20 19:10:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-20 19:10:54]: Bruh. [Blood Day, Level 7]: bekle dur
