@@ -24563,3 +24563,5 @@
 [2021-04-20 18:56:42]: ***  [, Level 0]: 'ezy' entered and joined the game
 [2021-04-20 18:56:46]: Pyrox ヤ [Bloody Day, Level 0]: gel vs
 [2021-04-20 18:56:54]: ***  [, Level 0]: 'nar' entered and joined the game
+[2021-04-20 18:57:24]: Bruh. [Blood Day, Level 7]: hook me
+[2021-04-20 18:57:25]: ***  [, Level 0]: 462. ezy Time: 01:16.94, requested by ezy
