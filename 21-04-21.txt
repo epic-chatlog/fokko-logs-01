@@ -188,3 +188,5 @@
 [2021-04-21 00:16:25]: ***  [, Level 0]: ':/ MX' has left the game
 [2021-04-21 00:16:27]: ***  [, Level 0]: ':/ MX' entered and joined the game
 [2021-04-21 00:16:28]: ***  [, Level 0]: 'LucasFresh33' has left the game
+[2021-04-21 00:16:41]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-21 00:16:43]: ***  [, Level 0]: ':/ MX' entered and joined the game
