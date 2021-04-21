@@ -25503,3 +25503,7 @@
 [2021-04-20 23:44:30]: ***  [, Level 0]: 'valerabest' entered and joined the game
 [2021-04-20 23:44:30]: Matiteusz [TrRShClNrRs, Level 37]: Isegrin: ale zagrzybialy niedojeb
 [2021-04-20 23:44:33]: SanoreX.* [Chilli.*, Level 23]: wait
+[2021-04-20 23:44:40]: Isegrin [, Level 55]: Matiteusz: twuj ojciec?
+[2021-04-20 23:44:40]: ***  [, Level 0]: Matiteusz finished in: 0 minute(s) 38.56 second(s)
+[2021-04-20 23:44:44]: Matiteusz [TrRShClNrRs, Level 37]: Isegrin: tag
+[2021-04-20 23:44:44]: [D] #5 blocker [Chilli.*, Level 0]: flag wtf
