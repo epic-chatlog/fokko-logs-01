@@ -1335,3 +1335,5 @@
 [2021-04-21 01:46:46]: ***  [Ž, Level 0]: '(1)~DemoizL~' entered and joined the game
 [2021-04-21 01:46:54]: ***  [Ž, Level 0]: (1)Raidon's Pet is on a killing spree with 5 blocks
 [2021-04-21 01:46:56]: ***  [Ž, Level 0]: '(1)Mondaa' has left the game
+[2021-04-21 01:47:04]: Meetiteusz [TrRShClNrRs, Level 29]: Æ¬evan: XD
+[2021-04-21 01:47:09]: ***  [Ž, Level 0]: '~DemoizL~' has left the game (Too weak connection (not acked for 60 seconds))
