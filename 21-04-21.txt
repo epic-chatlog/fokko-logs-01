@@ -1195,3 +1195,5 @@
 [2021-04-21 01:34:31]: ***  [Ž, Level 0]: Terra finished in: 7 minute(s) 25.54 second(s)
 [2021-04-21 01:34:33]: :D [E8, Level 6]: pro
 [2021-04-21 01:34:43]: Nagisa [H] [E8, Level 3]: blocker
+[2021-04-21 01:35:06]: ***  [Ž, Level 0]: '(1)kais' has left the game
+[2021-04-21 01:35:09]: [D] Nightmare [FookinLads, Level 20]: FUCKING FLAPPY
