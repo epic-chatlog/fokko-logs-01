@@ -204,3 +204,5 @@
 [2021-04-21 00:17:38]: Meetiteusz [TrRShClNrRs, Level 0]: avioocals: named
 [2021-04-21 00:17:40]: Meetiteusz [TrRShClNrRs, Level 0]: avioocals: with 8
 [2021-04-21 00:17:44]: Meetiteusz [TrRShClNrRs, Level 0]: avioocals: small number xD
+[2021-04-21 00:17:47]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-21 00:17:50]: ***  [, Level 0]: ':/ MX' entered and joined the game
