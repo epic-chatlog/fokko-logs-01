@@ -24440,3 +24440,5 @@
 [2021-04-20 18:31:48]: (1)Black [, Level 23]: bye
 [2021-04-20 18:31:50]: ***  [, Level 0]: '(1)Black' has left the game
 [2021-04-20 18:31:51]: (1)☺ [, Level 26]: bye
+[2021-04-20 18:32:09]: Bruh. [Blood Day, Level 7]: :D
+[2021-04-20 18:32:10]: Bruh. [Blood Day, Level 7]: xd
