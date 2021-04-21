@@ -24346,3 +24346,6 @@
 [2021-04-20 18:25:03]: (1)Black [, Level 0]: ok
 [2021-04-20 18:25:10]: (1)Black [, Level 0]: sry sir
 [2021-04-20 18:25:31]: (1)☺ [, Level 26]: i am soon lvl 29 its for that's
+[2021-04-20 18:25:49]: (1)Black [, Level 0]: xD
+[2021-04-20 18:25:49]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-20 18:25:51]: (1)Black [, Level 0]: BYE  <3
