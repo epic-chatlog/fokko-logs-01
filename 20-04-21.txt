@@ -25487,3 +25487,7 @@
 [2021-04-20 23:42:22]: [D] #5 blocker [Chilli.*, Level 0]: my money xd
 [2021-04-20 23:42:25]: [D] #5 blocker [Chilli.*, Level 0]: not enough
 [2021-04-20 23:42:28]: SanoreX.* [Chilli.*, Level 23]: #5 blocker: look at this
+[2021-04-20 23:42:43]: SanoreX.* [Chilli.*, Level 23]: DONT GET
+[2021-04-20 23:42:49]: SanoreX.* [Chilli.*, Level 23]: #5 blocker: WAR?
+[2021-04-20 23:42:52]: [D] #5 blocker [Chilli.*, Level 0]: no
+[2021-04-20 23:42:52]: SanoreX.* [Chilli.*, Level 23]: OFFF
