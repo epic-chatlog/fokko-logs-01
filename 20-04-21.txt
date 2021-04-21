@@ -25040,3 +25040,5 @@
 [2021-04-20 21:33:20]: ***  [, Level 0]: 'Vesorp' entered and joined the game
 [2021-04-20 21:33:24]: Vesorp [666, Level 0]: kais:
 [2021-04-20 21:33:34]: ***  [, Level 0]: 'Уточка'-'' entered and joined the game
+[2021-04-20 21:33:40]: Vesorp [666, Level 26]: ruski
+[2021-04-20 21:33:42]: Vesorp [666, Level 26]: cyka
