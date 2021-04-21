@@ -23973,3 +23973,6 @@
 [2021-04-20 17:16:46]: ***  [, Level 0]: 'TeigHuhn' has left the game
 [2021-04-20 17:16:46]: ***  [, Level 0]: '[D] TeigHuhn' has left the game
 [2021-04-20 17:16:53]: ***  [, Level 0]: 'Bruh.' entered and joined the game
+[2021-04-20 17:17:01]: ¡ RodCYREX 神 [Blood Day, Level 8]: o bot bu arada
+[2021-04-20 17:17:07]: Bruh. [Blood Day, Level 0]: ben afk
+[2021-04-20 17:17:09]: Cup [, Level 0]: ¡ RodCYREX 神:  knkk
