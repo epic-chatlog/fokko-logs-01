@@ -862,3 +862,6 @@
 [2021-04-21 01:11:07]: ***  [é, Level 0]: : is on a killing spree with 10 blocks
 [2021-04-21 01:11:07]: ***  [é, Level 0]: '(1)Matiteusz' entered and joined the game
 [2021-04-21 01:11:11]: nenny [doq, Level 0]: : noob
+[2021-04-21 01:11:17]: ***  [é, Level 0]: 'Meetiteusz' has left the game (Timeout)
+[2021-04-21 01:11:17]: ***  [é, Level 0]: 'Matiteusz' has left the game (Timeout)
+[2021-04-21 01:11:21]: at insan [freepor√ßay, Level 0]: Hawli bir insan:  sal knk
