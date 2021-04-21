@@ -604,3 +604,7 @@
 [2021-04-21 00:54:40]: ***  [Ž, Level 0]: 'sad' has left the game
 [2021-04-21 00:54:49]: ***  [Ž, Level 0]: 'blazingd420' has left the game
 [2021-04-21 00:54:50]: klas [, Level 0]: t
+[2021-04-21 00:55:12]: ***  [Ž, Level 0]: [D] iydrss finished in: 2 minute(s) 59.54 second(s)
+[2021-04-21 00:55:12]: ***  [Ž, Level 0]: New record: 2 minute(s)  5.40 second(s) better.
+[2021-04-21 00:55:14]: ***  [Ž, Level 0]: 'klas 2' has left the game
+[2021-04-21 00:55:14]: ***  [Ž, Level 0]: 'klas' has left the game
