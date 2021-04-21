@@ -938,3 +938,5 @@
 [2021-04-21 01:15:39]: ϻɪɔʜɑʟ [DogParty, Level 24]: war?
 [2021-04-21 01:15:50]: ***  [�, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-21 01:15:55]: ***  [�, Level 0]: 'oyun kralı' entered and joined the game
+[2021-04-21 01:16:06]: [D]ϻɪɔʜɑʟ [DogParty, Level 21]: war
+[2021-04-21 01:16:07]: ***  [�, Level 0]: 'S Y T H N' changed name to '(1)'
