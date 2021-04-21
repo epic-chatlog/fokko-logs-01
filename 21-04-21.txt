@@ -3308,3 +3308,9 @@
 [2021-04-21 03:06:03]: ***  [ƒýÿÿ, Level 0]: 'Soros' has left the game (Timeout)
 [2021-04-21 03:06:04]: (1)ghp [1234, Level 0]: noo-[
 [2021-04-21 03:06:04]: â€¢Intensiv [DogParty, Level 19]: Davidboss8:  1 minute rocket
+[2021-04-21 03:06:08]: Davidboss8 [senior, Level 14]: wait
+[2021-04-21 03:06:14]: ***  [ƒýÿÿ, Level 0]: '(1)ghp' has left the game
+[2021-04-21 03:06:14]: ***  [ƒýÿÿ, Level 0]: '(1)[D] ghp' has left the game
+[2021-04-21 03:06:15]: ***  [ƒýÿÿ, Level 0]: 'Davidboss8' has left the game
+[2021-04-21 03:06:18]: ***  [ƒýÿÿ, Level 0]: '[D] ghp' has left the game
+[2021-04-21 03:06:18]: ***  [ƒýÿÿ, Level 0]: 'ghp' has left the game
