@@ -1467,3 +1467,7 @@
 [2021-04-21 01:53:14]: ***  [Ž, Level 0]: 'oyun kralÄ±' entered and joined the game
 [2021-04-21 01:53:15]:   [, Level 0]: [D] mamikral011: Taip: dur la
 [2021-04-21 01:53:15]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
+[2021-04-21 01:53:16]: ***  [Ž, Level 0]: 'ShiroKIngt' entered and joined the game
+[2021-04-21 01:53:19]: Intensiv [DogParty, Level 19]: ~DemoizL~:  help
+[2021-04-21 01:53:25]: ***  [Ž, Level 0]: el champeon's killing spree was ended by (1)ES (7 blocks)
+[2021-04-21 01:53:28]: ***  [Ž, Level 0]: [POLICE-CHANNEL] 'el champeon' is spawnblocking. Catch him!
