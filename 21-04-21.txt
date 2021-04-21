@@ -2240,3 +2240,8 @@
 [2021-04-21 02:27:46]: Kezo [DogParty, Level 41]: â™£
 [2021-04-21 02:27:47]: Intensiv_ [DogParty, Level 12]: â–¼
 [2021-04-21 02:27:49]: Kezo [DogParty, Level 41]: â™ 
+[2021-04-21 02:27:55]: Intensiv_ [DogParty, Level 12]: â€¢
+[2021-04-21 02:27:55]: ***  [ƒýÿÿ, Level 0]: 'CKA3A4NIK[NR]' has left the game
+[2021-04-21 02:27:56]: Kezo [DogParty, Level 41]: â€¢Slowy
+[2021-04-21 02:27:59]: ***  [ƒýÿÿ, Level 0]: 'avioocals' has left the game
+[2021-04-21 02:27:59]: ***  [ƒýÿÿ, Level 0]: 'avioocals 2.0' has left the game
