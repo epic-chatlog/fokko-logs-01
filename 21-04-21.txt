@@ -1045,3 +1045,4 @@
 [2021-04-21 01:26:08]: ***  [�, Level 0]: '(1)Raidon's Pet' entered and joined the game
 [2021-04-21 01:26:08]: sta [freeporçay, Level 0]: es
 [2021-04-21 01:26:21]: 『Jester』 [, Level 0]: sta bi at insan a baksan
+[2021-04-21 01:26:45]: Marcisten [Helper, Level 0]: i have lag spikes, do you guys have lag spikes too?
