@@ -25068,3 +25068,7 @@
 [2021-04-20 22:02:08]: ***  [, Level 0]: 'niQ' entered and joined the game
 [2021-04-20 22:02:41]: ***  [, Level 0]: '[D] Уточк�' has left the game
 [2021-04-20 22:02:41]: ***  [, Level 0]: 'Уточка'-'' has left the game
+[2021-04-20 22:04:13]: ***  [, Level 0]: Jerry finished in: 15 minute(s)  0.96 second(s)
+[2021-04-20 22:04:13]: ***  [, Level 0]: 'Jerry' finished the special race!
+[2021-04-20 22:04:19]: ***  [, Level 0]: Tom finished in: 9 minute(s)  2.04 second(s)
+[2021-04-20 22:04:19]: ***  [, Level 0]: 'Tom' finished the special race!
