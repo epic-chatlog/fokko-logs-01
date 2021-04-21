@@ -1257,3 +1257,5 @@
 [2021-04-21 01:39:34]: ***  [Ž, Level 0]: Nagisa [H] finished in: 13 minute(s) 43.10 second(s)
 [2021-04-21 01:39:44]:   [, Level 0]: ZEWO: yazan~_+:
 [2021-04-21 01:39:52]: ***  [Ž, Level 0]: sta finished in: 14 minute(s) 29.32 second(s)
+[2021-04-21 01:40:04]: Matiteusz [TrRShClNrRs, Level 37]: 1: close him
+[2021-04-21 01:40:09]: Matiteusz [TrRShClNrRs, Level 37]: 1: cage Santa Claus
