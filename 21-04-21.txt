@@ -895,3 +895,6 @@
 [2021-04-21 01:12:35]: ***  [é, Level 0]: 'Èù¢Ê°É' entered and joined the game
 [2021-04-21 01:12:39]: ***  [é, Level 0]: : is on a killing spree with 20 blocks
 [2021-04-21 01:12:39]: ***  [é, Level 0]: [POLICE-CHANNEL] ':' is spawnblocking. Catch him!
+[2021-04-21 01:12:43]: Raidon [, Level 24]: DONT PLAY FOKKONAUT PLAYGROUND FUCKING NOOB
+[2021-04-21 01:12:44]: ***  [é, Level 0]: [POLICE-CHANNEL] ':' is spawnblocking. Catch him!
+[2021-04-21 01:12:53]: :D [E8, Level 6]: me police
