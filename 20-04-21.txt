@@ -25547,3 +25547,5 @@
 [2021-04-20 23:47:41]: ***  [, Level 0]: '.XFault' entered and joined the game
 [2021-04-20 23:47:42]: Raidon's Pet [, Level 20]: avioocals: wait
 [2021-04-20 23:47:50]: ***  [, Level 0]: '.XFault' has left the game
+[2021-04-20 23:48:06]: SanoreX [Chilli.*, Level 27]: I cant get this maniys
+[2021-04-20 23:48:06]: ***  [, Level 0]: 'Recep' changed name to 'Taip2'
