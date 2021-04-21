@@ -25455,3 +25455,4 @@
 [2021-04-20 23:39:53]: ***  [, Level 0]: ':/ MX' entered and joined the game
 [2021-04-20 23:39:58]: SanoreX.* [Chilli.*, Level 23]: DONT COLLECT
 [2021-04-20 23:39:59]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-20 23:40:01]: ***  [, Level 0]: ':/ MX' entered and joined the game
