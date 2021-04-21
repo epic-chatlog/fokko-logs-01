@@ -4779,3 +4779,8 @@
 [2021-04-21 04:05:22]: ***  [ƒýÿÿ, Level 0]: '(1)Falco641' entered and joined the game
 [2021-04-21 04:05:23]:   [, Level 0]: #5 blocker: blocker flappy
 [2021-04-21 04:05:25]: SanoreX [Chilli.*, Level 27]: help
+[2021-04-21 04:05:26]: SanoreX [Chilli.*, Level 27]: lolpoep:
+[2021-04-21 04:05:32]: ***  [ƒýÿÿ, Level 0]: '(1)Falco642' entered and joined the game
+[2021-04-21 04:05:36]: , [TrRShClNrRs, Level 43]: Papaya: u leavin?:C
+[2021-04-21 04:05:36]: ***  [ƒýÿÿ, Level 0]: 'FIGHTING GOLD' has left the game
+[2021-04-21 04:05:36]: ***  [ƒýÿÿ, Level 0]: 'MysterX' has left the game
