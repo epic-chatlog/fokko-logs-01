@@ -1197,3 +1197,5 @@
 [2021-04-21 01:34:43]: Nagisa [H] [E8, Level 3]: blocker
 [2021-04-21 01:35:06]: ***  [Ž, Level 0]: '(1)kais' has left the game
 [2021-04-21 01:35:09]: [D] Nightmare [FookinLads, Level 20]: FUCKING FLAPPY
+[2021-04-21 01:35:14]: ***  [Ž, Level 0]: 'Nightmare' has left the game
+[2021-04-21 01:35:14]: ***  [Ž, Level 0]: '[D] Nightmare' has left the game
