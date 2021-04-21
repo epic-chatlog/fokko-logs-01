@@ -27,3 +27,5 @@
 [2021-04-21 00:02:23]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
 [2021-04-21 00:02:24]: muluk [, Level 0]: and now
 [2021-04-21 00:02:41]: (1)Tom [, Level 32]: ince u loged in u can deposit your money
+[2021-04-21 00:02:52]: [D] #5 blocker [Chilli.*, Level 0]: Meetiteusz: help
+[2021-04-21 00:02:56]: muluk [, Level 0]: i write /pin (0832) and then its saying you need a 4 digd number
