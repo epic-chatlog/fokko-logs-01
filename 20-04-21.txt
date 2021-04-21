@@ -24259,3 +24259,4 @@
 [2021-04-20 18:05:05]: ***  [, Level 0]: '(1)Zʷʰʸˀ' has left the game
 [2021-04-20 18:05:05]: ***  [, Level 0]: 'Zʷʰʸˀ' has left the game
 [2021-04-20 18:05:07]: ***  [, Level 0]: 'neko' has left the game
+[2021-04-20 18:05:50]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
