@@ -1383,3 +1383,4 @@
 [2021-04-21 01:50:01]: at insan [freeporçay, Level 0]: dur
 [2021-04-21 01:50:02]: Nagisa [H] [E8, Level 3]: gel
 [2021-04-21 01:50:04]: at insan [freeporçay, Level 0]: dur
+[2021-04-21 01:50:09]: Raidon [, Level 24]: Terra: go pls
