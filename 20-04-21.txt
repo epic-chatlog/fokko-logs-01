@@ -25243,3 +25243,4 @@
 [2021-04-20 23:03:05]: cHurch [HUITA, Level 45]: so rude
 [2021-04-20 23:03:06]: cHurch [HUITA, Level 45]: :c
 [2021-04-20 23:04:08]: ***  [, Level 0]: 'Tom' entered and joined the game
+[2021-04-20 23:04:31]: ***  [, Level 0]: 'Jerry' entered and joined the game
