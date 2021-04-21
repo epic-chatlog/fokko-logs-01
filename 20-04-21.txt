@@ -24239,3 +24239,9 @@
 [2021-04-20 18:02:44]: ***  [, Level 0]: 'Black' entered and joined the game
 [2021-04-20 18:02:45]: (1)☺ [, Level 26]: Zʷʰʸˀ: just hurt him with your hammer
 [2021-04-20 18:02:48]: sikiş [, Level 0]: bye bye noob
+[2021-04-20 18:02:51]: ***  [, Level 0]: 'sikiş' has left the game
+[2021-04-20 18:02:51]: ***  [, Level 0]: 'Sokuş' has left the game
+[2021-04-20 18:02:54]: (2)Zʷʰʸˀ [NULL, Level 27]: xD
+[2021-04-20 18:02:54]: (1)☺ [, Level 26]: rq
+[2021-04-20 18:02:56]: (1)☺ [, Level 26]: RQ
+[2021-04-20 18:03:01]: ***  [, Level 0]: 'sikiş' entered and joined the game
