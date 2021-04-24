@@ -7649,3 +7649,5 @@
 [2021-04-24 08:54:36]: ***  [, Level 0]: 'GODLIKe' has left the game
 [2021-04-24 08:54:36]: Nagisa [H] [s2G, Level 7]: bank
 [2021-04-24 08:54:41]: s 🅱 e v e [, Level 7]: lets go to the bank
+[2021-04-24 08:55:00]: ***  [, Level 0]: '(1)Duke Ellingto' has left the game
+[2021-04-24 08:55:10]: ***  [, Level 0]: 'Duke Ellington' has left the game (Timeout)
