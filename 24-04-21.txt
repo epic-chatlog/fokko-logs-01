@@ -8288,3 +8288,5 @@
 [2021-04-24 09:26:13]:   [, Level 0]: [D] El patron: Kenshi ツ:  i now
 [2021-04-24 09:26:15]: ERRORa [404, Level 76]: idiot
 [2021-04-24 09:26:15]: ***  [, Level 0]: '(3)NeMo' entered and joined the game
+[2021-04-24 09:26:20]: Telefucktastic [TrRShClNrRs, Level 0]: Mista bombastic:
+[2021-04-24 09:26:26]: noname [, Level 24]: Kenshi ツ:  I AM NOT P4Pyr0s
