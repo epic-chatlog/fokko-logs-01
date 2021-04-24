@@ -7561,3 +7561,7 @@
 [2021-04-24 08:50:47]: (1)nenny [, Level 0]: Taip2:  dummy
 [2021-04-24 08:50:55]: HardreenClutch [\ЧՁθ/, Level 58]: ERROR:  ?
 [2021-04-24 08:50:56]: Nagisa [H] [s2G, Level 7]: ./register cool 12345 12345
+[2021-04-24 08:51:05]:   [, Level 0]: s 🅱 e v e: I did it
+[2021-04-24 08:51:08]: ERROR [404, Level 76]: dog
+[2021-04-24 08:51:09]: ***  [, Level 0]: ### 'ERROR' Woof-Woof
+[2021-04-24 08:51:12]: ***  [, Level 0]: Devastator is on a killing spree with 30 blocks
