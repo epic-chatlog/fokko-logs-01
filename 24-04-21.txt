@@ -5377,3 +5377,7 @@
 [2021-04-24 06:55:05]: Good man [Chilli.*, Level 33]: ERROR: pls)
 [2021-04-24 06:55:15]: Good man [Chilli.*, Level 33]: ERROR: )
 [2021-04-24 06:55:18]: ***  [, Level 0]: 'Rainbow Tee' entered and joined the game
+[2021-04-24 06:55:23]: [D] El patron [FookinLads, Level 24]: any:
+[2021-04-24 06:55:25]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-24 06:55:29]: Good man [Chilli.*, Level 33]: Cylox: hi)
+[2021-04-24 06:55:32]: Cylox [{TQuila}, Level 0]: Hİ
