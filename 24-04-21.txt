@@ -5209,3 +5209,6 @@
 [2021-04-24 06:01:36]: ***  [, Level 0]: 'Karl' entered and joined the game
 [2021-04-24 06:01:49]: ***  [, Level 0]: 'Taip' entered and joined the game
 [2021-04-24 06:01:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-24 06:01:58]: Taip [VergleriSay, Level 0]: lag
+[2021-04-24 06:01:58]: Rainbow Tee [KyStiKi, Level 0]: having 120 ping be like:
+[2021-04-24 06:02:02]: ***  [, Level 0]: '咸鱼末' has left the game (Timeout Protection over)
