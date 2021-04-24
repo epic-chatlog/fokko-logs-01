@@ -8625,3 +8625,5 @@
 [2021-04-24 09:44:34]: ***  [, Level 0]: '(1)NinjaWhite' has left the game
 [2021-04-24 09:44:34]: ***  [, Level 0]: 'NinjaWhite' has left the game
 [2021-04-24 09:44:34]:   [, Level 0]: Nuagebiscuit: I am neutral
+[2021-04-24 09:44:43]:   [, Level 0]: Nuagebiscuit: Je sais pas ou il est
+[2021-04-24 09:44:47]: Matiteusz [TrRShClNrRs, Level 20]: Zephir ツ: can i be a little bit moved on left
