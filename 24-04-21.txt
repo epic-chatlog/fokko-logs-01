@@ -5182,3 +5182,4 @@
 [2021-04-24 05:53:16]: Rainbow Tee [KyStiKi, Level 0]: nenny: also i have 190 ping so i get freezed when i come to you
 [2021-04-24 05:53:24]: Rainbow Tee [KyStiKi, Level 0]: ChillerDragon: xd
 [2021-04-24 05:53:24]: ChillerDragon [Chilli.*, Level 45]: Rainbow Tee: I am currently afk. (fixing ddos lol)
+[2021-04-24 05:53:36]: ***  [, Level 0]: 'Michel' has left the game (Too weak connection (not acked for 60 seconds))
