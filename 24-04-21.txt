@@ -8810,3 +8810,8 @@
 [2021-04-24 09:50:52]:   [, Level 0]: Cylox.: come
 [2021-04-24 09:50:54]: Sayme [, Level 11]: Dennis: no sorry(
 [2021-04-24 09:50:57]: ***  [, Level 0]: 'Mista bombastic' has left the game
+[2021-04-24 09:51:01]: ***  [, Level 0]: 'ダライアス' has left the game
+[2021-04-24 09:51:05]: Sayme [, Level 11]: Dennis: soon i shoult leave(
+[2021-04-24 09:51:08]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-24 09:51:10]: Dennis [, Level 0]: Sayme:  alright then :)
+[2021-04-24 09:51:13]:   [, Level 0]: Cylox.: wtf
