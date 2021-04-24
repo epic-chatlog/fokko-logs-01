@@ -5404,3 +5404,11 @@
 [2021-04-24 06:56:55]: ***  [, Level 0]: ':D' entered and joined the game
 [2021-04-24 06:56:59]: any [404, Level 38]: Cylox: ok
 [2021-04-24 06:57:01]: ***  [, Level 0]: 'Nagisa [H]' entered and joined the game
+[2021-04-24 06:57:03]: ERROR. [404, Level 57]: Nudelsaft c::  server wird immer leerer
+[2021-04-24 06:57:03]: ***  [, Level 0]: Coca finished in: 1 minute(s) 23.46 second(s)
+[2021-04-24 06:57:04]: ***  [, Level 0]: Good man finished in: 1 minute(s) 15.60 second(s)
+[2021-04-24 06:57:05]: Cylox [{TQuila}, Level 33]: any: ?
+[2021-04-24 06:57:06]: ChillerDragon [|*KoG*|, Level 45]: such high ground Nudelsaft c:
+[2021-04-24 06:57:09]: Nudelsaft c: [FookinLads, Level 60]: woran das wohl liegt ERROR xD
+[2021-04-24 06:57:13]: ***  [, Level 0]: 'Keeper.*' has left the game
+[2021-04-24 06:57:13]: ***  [, Level 0]: 'Keeeper.*' has left the game
