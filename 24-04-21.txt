@@ -7607,3 +7607,7 @@
 [2021-04-24 08:52:52]: Cylox. [, Level 25]: GODLIKe:
 [2021-04-24 08:53:01]: Devastator [\ЧՁθ/, Level 41]: nenny:  i kill who i like to kill
 [2021-04-24 08:53:03]: Ļåҕ Lobster [Ļåҕ, Level 35]: JustRace: ms
+[2021-04-24 08:53:15]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
+[2021-04-24 08:53:15]: ***  [, Level 0]: '[D] Nuagebiscui' has left the game
+[2021-04-24 08:53:15]: ***  [, Level 0]: 'Nuagebiscuit' has left the game
+[2021-04-24 08:53:15]: ERROR [404, Level 76]: ChillerDragon.*:  rage afk
