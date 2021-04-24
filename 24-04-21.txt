@@ -7582,3 +7582,10 @@
 [2021-04-24 08:52:00]:   [, Level 0]: s 🅱 e v e: Nagisa [H]: what is that
 [2021-04-24 08:52:02]: Nagisa [H] [s2G, Level 7]: come
 [2021-04-24 08:52:02]: ERROR [404, Level 76]: xD
+[2021-04-24 08:52:08]: ERROR [404, Level 76]: yeah they are
+[2021-04-24 08:52:11]: ***  [, Level 0]: 'Duke Ellington' entered and joined the game
+[2021-04-24 08:52:11]: Nagisa [H] [s2G, Level 7]: no troll
+[2021-04-24 08:52:13]: ***  [, Level 0]: 'kit' entered and joined the game
+[2021-04-24 08:52:14]: ERROR [404, Level 76]: dog
+[2021-04-24 08:52:16]: ***  [, Level 0]: ### 'ERROR' Woof-Woof
+[2021-04-24 08:52:17]: (1)nenny [, Level 0]: Devastator:
