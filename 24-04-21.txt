@@ -6007,3 +6007,7 @@
 [2021-04-24 07:28:12]: ChillerDragon [Chilli.*, Level 45]: ich dich auch
 [2021-04-24 07:28:14]: fokkonaut [flawLess, Level 102]: ChillerDragon: ich freu mich auf das ding von heinrich, dann kann ich das aktuelle 0.6 protocol droppen und das einbauen
 [2021-04-24 07:28:15]: ***  [, Level 0]: 'asd' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-24 07:28:19]: ***  [, Level 0]: Ðream's killing spree was ended by ERROR. (6 blocks)
+[2021-04-24 07:28:19]: ERROR [404, Level 76]: nicht an dich ChillerDragon  hoff nicht
+[2021-04-24 07:28:22]: ChillerDragon [Chilli.*, Level 45]: das wird fire fokkonaut
+[2021-04-24 07:28:24]: fokkonaut [flawLess, Level 102]: ChillerDragon: yes
