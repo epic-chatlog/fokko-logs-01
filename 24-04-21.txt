@@ -5206,3 +5206,4 @@
 [2021-04-24 06:00:28]: ***  [, Level 0]: 'hardbass' has left the game (Timeout)
 [2021-04-24 06:01:21]: ***  [, Level 0]: 'magik E' has left the game (Timeout)
 [2021-04-24 06:01:21]: ***  [, Level 0]: 'magik D' has left the game (Timeout)
+[2021-04-24 06:01:36]: ***  [, Level 0]: 'Karl' entered and joined the game
