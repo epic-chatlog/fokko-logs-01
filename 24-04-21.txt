@@ -5428,3 +5428,6 @@
 [2021-04-24 06:57:47]: Cylox [{TQuila}, Level 33]: fuck you
 [2021-04-24 06:57:48]: Cylox [{TQuila}, Level 33]: bitch
 [2021-04-24 06:58:01]: ***  [, Level 0]: 'Cylox.' entered and joined the game
+[2021-04-24 06:58:19]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
+[2021-04-24 06:58:20]: Coca [Drunks, Level 25]: Ƭevan: блин не убивай его(
+[2021-04-24 06:58:26]: ***  [, Level 0]: '(1)ERROR.' entered and joined the game
