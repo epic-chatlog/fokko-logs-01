@@ -6202,3 +6202,5 @@
 [2021-04-24 07:39:51]: Matiteusz [TrRShClNrRs, Level 20]: ERROR: NP
 [2021-04-24 07:39:54]: ***  [, Level 0]: 'Flugy' has left the game
 [2021-04-24 07:40:05]:   [, Level 0]: OP|Supers: fokkonaut:  gimmmee
+[2021-04-24 07:40:15]:   [, Level 0]: OP|Supers: portal
+[2021-04-24 07:40:19]:   [, Level 0]: OP|Supers: xD
