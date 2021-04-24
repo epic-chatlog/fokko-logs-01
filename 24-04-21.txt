@@ -5189,3 +5189,5 @@
 [2021-04-24 05:54:16]: ***  [, Level 0]: 'UOYKCUFI' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-24 05:54:22]: ***  [, Level 0]: '(1)nenny' has left the game
 [2021-04-24 05:54:22]: ***  [, Level 0]: 'nenny' has left the game
+[2021-04-24 05:54:56]: ***  [, Level 0]: 'BS' has left the game (Timeout Protection over)
+[2021-04-24 05:54:56]: ***  [, Level 0]: 'ZATIMY' has left the game (Timeout Protection over)
