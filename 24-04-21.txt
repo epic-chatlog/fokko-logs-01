@@ -7048,3 +7048,7 @@
 [2021-04-24 08:29:59]:   [, Level 0]: Isegrin: Ļåҕ Lobster: rape de chilera
 [2021-04-24 08:30:02]: ***  [, Level 0]: 'Maddox' has left the game
 [2021-04-24 08:30:08]: ERROR [404, Level 76]: lass doch einfach
+[2021-04-24 08:30:11]: ***  [, Level 0]: nameless tee is on a killing spree with 5 blocks
+[2021-04-24 08:30:14]: ***  [, Level 0]: 'cunt' entered and joined the game
+[2021-04-24 08:30:20]: ***  [, Level 0]: 'the last kozol' entered and joined the game
+[2021-04-24 08:30:20]: ***  [, Level 0]: 'cunt' has left the game
