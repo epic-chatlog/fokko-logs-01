@@ -5897,3 +5897,9 @@
 [2021-04-24 07:23:26]: Cylox [{TQuila}, Level 33]: 10k
 [2021-04-24 07:23:28]: Cylox [{TQuila}, Level 33]: xD
 [2021-04-24 07:23:29]: HardreenClutch [\ЧՁθ/, Level 58]: ERROR:  ?
+[2021-04-24 07:23:34]: ***  [, Level 0]: '1' entered and joined the game
+[2021-04-24 07:23:37]: ERROR [404, Level 76]: xD
+[2021-04-24 07:23:37]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-24 07:23:38]: Taip [VergleriSay, Level 23]: DONTTTTTTTTTTTTT
+[2021-04-24 07:23:39]: ChillerDragon [|*KoG*|, Level 45]: wtf
+[2021-04-24 07:23:42]: ChillerDragon [|*KoG*|, Level 45]: i so lkucky
