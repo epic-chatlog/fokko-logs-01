@@ -8815,3 +8815,11 @@
 [2021-04-24 09:51:08]: ***  [, Level 0]: 'Mista bombastic' entered and joined the game
 [2021-04-24 09:51:10]: Dennis [, Level 0]: Sayme:  alright then :)
 [2021-04-24 09:51:13]:   [, Level 0]: Cylox.: wtf
+[2021-04-24 09:51:14]:   [, Level 0]: Cylox.: ow
+[2021-04-24 09:51:19]: ***  [, Level 0]: 'HardreenClutch' has left the game
+[2021-04-24 09:51:19]: ***  [, Level 0]: 'Devastator' has left the game
+[2021-04-24 09:51:19]: Sayme [, Level 11]: Dennis: rus?
+[2021-04-24 09:51:22]: ERROR. [404, Level 58]: xD
+[2021-04-24 09:51:23]: Dennis [, Level 0]: Sayme:  german
+[2021-04-24 09:51:25]: ***  [, Level 0]: '.' entered and joined the game
+[2021-04-24 09:51:25]:   [, Level 0]: Cylox.: thx
