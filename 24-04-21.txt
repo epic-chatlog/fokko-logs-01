@@ -5185,3 +5185,7 @@
 [2021-04-24 05:53:36]: ***  [, Level 0]: 'Michel' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-24 05:53:56]: nenny [doq, Level 5]: ddos
 [2021-04-24 05:54:00]: nenny [doq, Level 5]: shit
+[2021-04-24 05:54:13]: MOM [, Level 29]: chiller dragon ddos the server
+[2021-04-24 05:54:16]: ***  [, Level 0]: 'UOYKCUFI' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-24 05:54:22]: ***  [, Level 0]: '(1)nenny' has left the game
+[2021-04-24 05:54:22]: ***  [, Level 0]: 'nenny' has left the game
