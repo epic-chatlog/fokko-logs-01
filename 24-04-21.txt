@@ -5710,3 +5710,7 @@
 [2021-04-24 07:15:47]: ***  [, Level 0]: 'sta' has left the game
 [2021-04-24 07:15:49]: (2)MOM [, Level 0]: thanks bro
 [2021-04-24 07:15:50]: 'yan² [, Level 1]: ah yes genre là aujourd'hui t'as du attendre autant de temps pour te co ? Badass Tomani
+[2021-04-24 07:15:58]: ***  [, Level 0]: 'Ultradark' has left the game
+[2021-04-24 07:15:58]: F=limf(x) dx->0 [, Level 0]: +26 mdr
+[2021-04-24 07:16:06]: ***  [, Level 0]: Taip finished in: 1 minute(s) 15.28 second(s)
+[2021-04-24 07:16:06]: ***  [, Level 0]: New record: 8 minute(s) 28.84 second(s) better.
