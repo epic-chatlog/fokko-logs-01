@@ -8290,3 +8290,5 @@
 [2021-04-24 09:26:15]: ***  [, Level 0]: '(3)NeMo' entered and joined the game
 [2021-04-24 09:26:20]: Telefucktastic [TrRShClNrRs, Level 0]: Mista bombastic:
 [2021-04-24 09:26:26]: noname [, Level 24]: Kenshi ツ:  I AM NOT P4Pyr0s
+[2021-04-24 09:26:34]:   [, Level 0]: [D] El patron: Sayme: oke
+[2021-04-24 09:26:34]: ***  [, Level 0]: '(1)Coca' has left the game
