@@ -6810,3 +6810,7 @@
 [2021-04-24 08:14:40]:   [, Level 0]: [D] mamikral011: :D
 [2021-04-24 08:14:43]: ***  [, Level 0]: 'El Mati Leyenda' entered and joined the game
 [2021-04-24 08:14:46]:   [, Level 0]: muluk: we need laser
+[2021-04-24 08:14:54]: ***  [, Level 0]: 'avioocals 2.0' has left the game
+[2021-04-24 08:14:54]: ***  [, Level 0]: 'avioocals' has left the game
+[2021-04-24 08:14:56]:   [, Level 0]: muluk: reset
+[2021-04-24 08:14:56]: Raven [, Level 0]: muluk: how we can get it?
