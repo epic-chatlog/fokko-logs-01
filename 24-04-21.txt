@@ -5525,3 +5525,7 @@
 [2021-04-24 07:06:29]: Cylox [{TQuila}, Level 33]: why man
 [2021-04-24 07:06:30]: NeMo [, Level 0]: (1)ERROR: u want to go down?
 [2021-04-24 07:06:30]: at insan [freeporçay, Level 0]: Nagisa [H]:  senin silah varmı
+[2021-04-24 07:06:34]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-24 07:06:36]: (1)ERROR [404, Level 48]: y
+[2021-04-24 07:06:36]: Nagisa [H] [s2G, Level 6]: evt
+[2021-04-24 07:06:37]: |KS| Kyrma [KyStiKi, Level 0]: nenny: i know, i loving him
