@@ -8446,3 +8446,4 @@
 [2021-04-24 09:35:30]: ERRORa [404, Level 76]: (1)Matiteusz:  i wont do anything
 [2021-04-24 09:35:31]: Matiteusz [TrRShClNrRs, Level 20]: ERROR.: or i cant
 [2021-04-24 09:35:34]: Sayme [, Level 11]: vollesprit: if main reason "just becaue" - thats little child logic
+[2021-04-24 09:35:40]: Matiteusz [TrRShClNrRs, Level 20]: ERROR.: cuz everyone are scared of you and they will help x
