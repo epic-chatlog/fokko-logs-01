@@ -6283,3 +6283,8 @@
 [2021-04-24 07:45:40]: OP|Supers [, Level 0]: 'yan²:  SRY
 [2021-04-24 07:45:46]: ***  [, Level 0]: 'Kodi' entered and joined the game
 [2021-04-24 07:45:48]: ***  [, Level 0]: OP|Supers's killing spree was ended by [D] NinjaWhite (12 blocks)
+[2021-04-24 07:45:56]: ***  [, Level 0]: 'Swarfey' entered and joined the game
+[2021-04-24 07:45:56]: Cylox. [, Level 25]: Nudelsaft c:: hi
+[2021-04-24 07:46:00]: Nudelsaft c: [FookinLads, Level 60]: hi
+[2021-04-24 07:46:00]: ***  [, Level 0]: 'Nuagebiscuit' entered and joined the game
+[2021-04-24 07:46:01]: ERROR. [404, Level 57]: Devastator:  so langweilig dieser server xDD
