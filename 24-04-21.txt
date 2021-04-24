@@ -6805,3 +6805,4 @@
 [2021-04-24 08:13:47]: (1)nenny [, Level 0]: lagg
 [2021-04-24 08:13:58]: ***  [, Level 0]: 'DOOCK' entered and joined the game
 [2021-04-24 08:14:07]: ***  [, Level 0]: 'muluk' entered and joined the game
+[2021-04-24 08:14:21]: ***  [, Level 0]: 'kison5555' has left the game
