@@ -6133,3 +6133,5 @@
 [2021-04-24 07:33:11]: S Y T H N [, Level 0]: Devastator: weswegen naamen geändert?
 [2021-04-24 07:33:15]: (1)nenny [, Level 0]: any STOP İT
 [2021-04-24 07:33:29]: (1)nenny [, Level 0]: any STOP İT STOPPP
+[2021-04-24 07:33:37]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-24 07:33:44]: ***  [, Level 0]: 'avioocals' entered and joined the game
