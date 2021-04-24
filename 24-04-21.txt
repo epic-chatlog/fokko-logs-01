@@ -8045,3 +8045,5 @@
 [2021-04-24 09:13:34]:   [, Level 0]: [D] El patron: lag
 [2021-04-24 09:13:37]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-24 09:13:39]: ERROR. [404, Level 58]: huh
+[2021-04-24 09:13:45]: !TeeF_ [, Level 0]: aboba: folow me, i'll show you them
+[2021-04-24 09:13:52]: Devastator [\ЧՁθ/, Level 41]: ERROR:  El patron  fragt ob ich nicht in 404 bi
