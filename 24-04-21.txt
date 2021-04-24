@@ -5395,3 +5395,7 @@
 [2021-04-24 06:56:15]: [D] El patron [FookinLads, Level 24]: Rainbow Tee:  me dummy
 [2021-04-24 06:56:20]: ERROR. [404, Level 57]: ChillerDragon:  das wird immer einfacher
 [2021-04-24 06:56:21]: Cylox [{TQuila}, Level 33]: omg
+[2021-04-24 06:56:25]: ChillerDragon [Chilli.*, Level 45]: xD
+[2021-04-24 06:56:27]: Cylox [{TQuila}, Level 33]: Ƭevan: war
+[2021-04-24 06:56:28]: nenny [doq, Level 0]: gun pls
+[2021-04-24 06:56:34]: nenny [doq, Level 0]: gunn
