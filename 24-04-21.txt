@@ -5240,3 +5240,10 @@
 [2021-04-24 06:43:04]: ***  [, Level 0]: '(1)DiscordBridge' entered and joined the game
 [2021-04-24 06:43:04]: ***  [, Level 0]: '[WmS] TeigHuhn' entered and joined the game
 [2021-04-24 06:43:04]: ***  [, Level 0]: Successfully logged in
+[2021-04-24 06:44:54]: ***  [, Level 0]: '(1)o' entered and joined the game
+[2021-04-24 06:44:54]: ***  [, Level 0]: 'o' entered and joined the game
+[2021-04-24 06:44:54]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.2, by fokkonaut
+[2021-04-24 06:44:54]: ***  [, Level 0]: '(1)DiscordBridge' entered and joined the game
+[2021-04-24 06:44:54]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.2, by fokkonaut
+[2021-04-24 06:44:55]: ***  [, Level 0]: Successfully logged in
+[2021-04-24 06:45:00]: ***  [, Level 0]: 'ChillerDragon.*' entered and joined the game
