@@ -8411,3 +8411,6 @@
 [2021-04-24 09:34:02]:   [, Level 0]: Cylox.: Ƭevan: hi
 [2021-04-24 09:34:14]: ERRORa [404, Level 76]: Matiteusz:  well they dont try anymore
 [2021-04-24 09:34:16]: Sayme [, Level 11]: vollesprit: i understand. But i don't attack him and not started war.
+[2021-04-24 09:34:19]: ***  [, Level 0]: 'i m noob' has left the game
+[2021-04-24 09:34:21]: ***  [, Level 0]: 'i m noob' entered and joined the game
+[2021-04-24 09:34:28]: Matiteusz [TrRShClNrRs, Level 20]: ERROR.: . PROBABLY JOIN
