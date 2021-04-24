@@ -6281,3 +6281,5 @@
 [2021-04-24 07:45:37]: OP|Supers [, Level 0]: 'yan²:  srz
 [2021-04-24 07:45:38]: fokkonaut [flawLess, Level 102]: Ƭevan: did you know, you get portal back from laser
 [2021-04-24 07:45:40]: OP|Supers [, Level 0]: 'yan²:  SRY
+[2021-04-24 07:45:46]: ***  [, Level 0]: 'Kodi' entered and joined the game
+[2021-04-24 07:45:48]: ***  [, Level 0]: OP|Supers's killing spree was ended by [D] NinjaWhite (12 blocks)
