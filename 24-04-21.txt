@@ -5474,3 +5474,6 @@
 [2021-04-24 07:02:24]: ***  [, Level 0]: 'boa pergunta' entered and joined the game
 [2021-04-24 07:02:30]: El patron [FookinLads, Level 32]: xd
 [2021-04-24 07:02:40]: ***  [, Level 0]: 'boa pergunta' joined the spectators
+[2021-04-24 07:02:44]: ***  [, Level 0]: 'boa pergunta' joined the game
+[2021-04-24 07:02:46]: MOM [, Level 0]: bro just kjumpo
+[2021-04-24 07:02:49]: ***  [, Level 0]: 'Ultradark' entered and joined the game
