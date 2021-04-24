@@ -5504,3 +5504,5 @@
 [2021-04-24 07:04:43]: ***  [, Level 0]: 'Raven' entered and joined the game
 [2021-04-24 07:04:50]: ***  [, Level 0]: 'Raven' has left the game
 [2021-04-24 07:04:53]: Taip [VergleriSay, Level 23]: sorry
+[2021-04-24 07:04:57]: ***  [, Level 0]: 'Raven' entered and joined the game
+[2021-04-24 07:04:59]: ***  [, Level 0]: 'Raven Dummy' entered and joined the game
