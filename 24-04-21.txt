@@ -5969,3 +5969,10 @@
 [2021-04-24 07:26:38]: NeMo [, Level 27]: (1)ERROR.: wake up i helped u 3 times
 [2021-04-24 07:26:44]: Coca [Drunks, Level 25]: Cylox: dont worry
 [2021-04-24 07:26:48]: fokkonaut [flawLess, Level 102]: ChillerDragon: gabs shcon eine dso
+[2021-04-24 07:26:50]: ***  [, Level 0]: '[D] taco bell' entered and joined the game
+[2021-04-24 07:26:50]: ***  [, Level 0]: '(1)1' has left the game
+[2021-04-24 07:26:50]: ChillerDragon.* [|*KoG*|, Level 42]: nice
+[2021-04-24 07:26:52]: ChillerDragon.* [|*KoG*|, Level 42]: ne fokkonaut
+[2021-04-24 07:26:53]: fokkonaut [flawLess, Level 102]: kk
+[2021-04-24 07:26:55]: El patron [FookinLads, Level 32]: ERROR:  er ist tot
+[2021-04-24 07:26:57]: Devastator [\ЧՁθ/, Level 0]: ERROR:  beweg dich doch
