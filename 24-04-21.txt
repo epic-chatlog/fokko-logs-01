@@ -6876,3 +6876,9 @@
 [2021-04-24 08:19:50]: ERROR. [404, Level 57]: mad
 [2021-04-24 08:19:51]: ***  [, Level 0]: ### 'ERROR.' Woof-Woof
 [2021-04-24 08:19:56]: Matiteusz [TrRShClNrRs, Level 20]: yes
+[2021-04-24 08:19:57]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-24 08:19:59]:   [, Level 0]: Davidboss8: Matiteusz: wait and help
+[2021-04-24 08:20:03]: Raven [, Level 0]: muliboy: i saw a boy with a portal laser or something like that
+[2021-04-24 08:20:07]: [D] mamikral011 [DogParty, Level 23]: (1)nenny: war
+[2021-04-24 08:20:08]:   [, Level 0]: Davidboss8: forget it Matiteusz
+[2021-04-24 08:20:08]: ***  [, Level 0]: '(1)nameless tee' entered and joined the game
