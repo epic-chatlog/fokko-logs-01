@@ -5995,3 +5995,5 @@
 [2021-04-24 07:27:35]: 'yan² [, Level 1]: damn
 [2021-04-24 07:27:37]: ERROR [404, Level 76]: musste mein dummy retten diggah xDDD
 [2021-04-24 07:27:38]: Devastator [\ЧՁθ/, Level 0]: ERROR:  sei nicht afk wen ich helfe
+[2021-04-24 07:27:43]: any [404, Level 38]: ERROR.
+[2021-04-24 07:27:46]: ***  [, Level 0]: 'sosock' has left the game
