@@ -8029,3 +8029,5 @@
 [2021-04-24 09:12:09]: ***  [, Level 0]: NinjaWhite is on a killing spree with 10 blocks
 [2021-04-24 09:12:19]: ***  [, Level 0]: '.' has left the game
 [2021-04-24 09:12:25]: :D [s2G, Level 11]: come
+[2021-04-24 09:12:28]: [D] Nuagebiscui [, Level 0]: UI est francais
+[2021-04-24 09:12:34]: ***  [, Level 0]: 'Crown4own' entered and joined the game
