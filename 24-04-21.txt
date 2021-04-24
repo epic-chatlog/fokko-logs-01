@@ -5343,3 +5343,6 @@
 [2021-04-24 06:52:11]: Coca [Drunks, Level 25]: Ƭevan: ку ку ёпты спаси в ендлесе
 [2021-04-24 06:52:16]: ***  [, Level 0]: '[D] Keeper.*' changed name to 'Keeeper.*'
 [2021-04-24 06:52:22]: Ðream [TrRShClNrRs, Level 38]: щя
+[2021-04-24 06:52:49]: Coca [Drunks, Level 25]: Ƭevan: ты купил портал?
+[2021-04-24 06:52:50]: ***  [, Level 0]: '(C)Ali' entered and joined the game
+[2021-04-24 06:52:53]: [D] El patron [FookinLads, Level 24]: ERROR:  darf ich leute ihn die war liste eintragen
