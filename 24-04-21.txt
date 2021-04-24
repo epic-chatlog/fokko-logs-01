@@ -5251,3 +5251,13 @@
 [2021-04-24 06:45:21]: ***  [, Level 0]: '[D] El patron' entered and joined the game
 [2021-04-24 06:46:17]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
 [2021-04-24 06:46:18]: ***  [, Level 0]: 650. [D] El patron Time: 02:03.60, requested by [D] El patron
+[2021-04-24 06:46:52]: ***  [, Level 0]: 'any' entered and joined the game
+[2021-04-24 06:46:54]: ***  [, Level 0]: 'o' entered and joined the game
+[2021-04-24 06:46:54]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.2, by fokkonaut
+[2021-04-24 06:46:54]: ***  [, Level 0]: '(1)o' entered and joined the game
+[2021-04-24 06:46:54]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-24 06:46:54]: ***  [, Level 0]: 'StreamerDragon' entered and joined the game
+[2021-04-24 06:46:54]: ***  [, Level 0]: '[WmS] TeigHuhn' entered and joined the game
+[2021-04-24 06:46:54]: ***  [, Level 0]: '(1)DiscordBridge' entered and joined the game
+[2021-04-24 06:46:54]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.2, by fokkonaut
+[2021-04-24 06:46:55]: ***  [, Level 0]: Successfully logged in
