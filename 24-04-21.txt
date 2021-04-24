@@ -8398,3 +8398,6 @@
 [2021-04-24 09:33:20]: Lucas [THECEPS, Level 35]: Cylox.: how much was it
 [2021-04-24 09:33:21]: ERRORa [404, Level 76]: no probably not
 [2021-04-24 09:33:27]: Kenshi ツ [404, Level 40]: ERROR.: :c
+[2021-04-24 09:33:34]:   [, Level 0]: Cylox.: xD
+[2021-04-24 09:33:37]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-24 09:33:39]: vollesprit [, Level 4]: Sayme tss  ,  there isn't any reason lol
