@@ -6847,3 +6847,5 @@
 [2021-04-24 08:16:56]: [D] mamikral011 [DogParty, Level 23]: ~DemoizL~: portal?
 [2021-04-24 08:17:00]: ***  [, Level 0]: 'Merio94' has left the game
 [2021-04-24 08:17:03]: ***  [, Level 0]: 'Merio94' entered and joined the game
+[2021-04-24 08:17:24]:   [, Level 0]: muluk: WTF
+[2021-04-24 08:17:24]: (1)nenny [, Level 0]: ~DemoizL~: ?
