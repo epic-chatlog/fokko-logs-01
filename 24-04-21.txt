@@ -8547,3 +8547,10 @@
 [2021-04-24 09:40:54]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
 [2021-04-24 09:41:12]: Devastator [\ЧՁθ/, Level 41]: El patron:  ich mach gerade kein wae
 [2021-04-24 09:41:15]:   [, Level 0]: Cylox.: any ☍: heyeye
+[2021-04-24 09:41:22]: [D] Dennis [, Level 0]: kais:  wait
+[2021-04-24 09:41:22]: ***  [, Level 0]: '[D] Nera' has left the game
+[2021-04-24 09:41:22]: ***  [, Level 0]: 'Nera' has left the game
+[2021-04-24 09:41:26]: ***  [, Level 0]: '(1)nenny' has left the game
+[2021-04-24 09:41:26]: ***  [, Level 0]: 'nenny' has left the game
+[2021-04-24 09:41:27]:   [, Level 0]: kais: Dennis: ?
+[2021-04-24 09:41:28]: [D] Dennis [, Level 0]: kais:  dammit
