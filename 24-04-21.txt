@@ -5292,3 +5292,10 @@
 [2021-04-24 06:49:09]: Keeper.* [Chilli.*, Level 30]: ChillerDragon.*: aaa
 [2021-04-24 06:49:09]: ChillerDragon.* [|*KoG*|, Level 42]: aaaaaaaa ERROR. *
 [2021-04-24 06:49:27]: ChillerDragon.* [|*KoG*|, Level 42]: hier gibts nix zusehen ERROR is nur test server
+[2021-04-24 06:49:30]: ***  [, Level 0]: 'boa pergunta' entered and joined the game
+[2021-04-24 06:49:33]: Nudelsaft c: [FookinLads, Level 24]: yay
+[2021-04-24 06:49:34]: ERROR. [404, Level 57]: macht nix
+[2021-04-24 06:49:36]: Nudelsaft c: [FookinLads, Level 24]: lvl 24 acc gefunden
+[2021-04-24 06:49:39]: ***  [, Level 0]: 'Cosmo' entered and joined the game
+[2021-04-24 06:49:40]: ChillerDragon.* [|*KoG*|, Level 42]: hacker Nudelsaft c:
+[2021-04-24 06:49:40]: Keeper.* [Chilli.*, Level 30]: El patron: no
