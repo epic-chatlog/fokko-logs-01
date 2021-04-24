@@ -5962,3 +5962,5 @@
 [2021-04-24 07:26:08]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
 [2021-04-24 07:26:11]: ***  [, Level 0]: 'asd' entered and joined the game
 [2021-04-24 07:26:12]: ***  [, Level 0]: 'Penguin' entered and joined the game
+[2021-04-24 07:26:24]: Good man [Chilli.*, Level 33]: Cylox: get speed
+[2021-04-24 07:26:24]: ***  [, Level 0]: '(1)asd' entered and joined the game
