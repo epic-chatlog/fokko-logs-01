@@ -5160,3 +5160,9 @@
 [2021-04-24 05:51:05]: (1)Falco641 [.bad, Level 21]: I HIT RESET 10 SECONDS AGO AND JUST DIED
 [2021-04-24 05:51:11]: ***  [, Level 0]: 'Jerry' has left the game (Timeout)
 [2021-04-24 05:51:15]: Abdii [I lav kais, Level 0]: Kezo:  <<<
+[2021-04-24 05:51:27]: ***  [, Level 0]: 'SanoreX' would have timed out, but can use timeout protection now
+[2021-04-24 05:51:27]: ***  [, Level 0]: 'SanoreX.*' would have timed out, but can use timeout protection now
+[2021-04-24 05:51:28]: ***  [, Level 0]: '(1)SanoreX' has left the game (Timeout)
+[2021-04-24 05:51:28]: ***  [, Level 0]: '(1)SanoreX.*' has left the game (Timeout)
+[2021-04-24 05:51:28]: ***  [, Level 0]: 'sLlHer00' has left the game (Timeout)
+[2021-04-24 05:51:30]: ***  [, Level 0]: 'LUIG1' has left the game (Timeout)
