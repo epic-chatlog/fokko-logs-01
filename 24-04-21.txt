@@ -5155,3 +5155,6 @@
 [2021-04-24 05:50:56]: ***  [, Level 0]: 'ZATIMY' would have timed out, but can use timeout protection now
 [2021-04-24 05:50:57]: ***  [, Level 0]: '『Jester』' has left the game (Timeout)
 [2021-04-24 05:50:57]: Rainbow Tee [KyStiKi, Level 0]: nenny: 190 ping, is that explains all?
+[2021-04-24 05:51:01]: ***  [, Level 0]: 'casserole :p' has left the game (Timeout)
+[2021-04-24 05:51:02]: Rainbow Tee [KyStiKi, Level 0]: magik D: dont work :(
+[2021-04-24 05:51:05]: (1)Falco641 [.bad, Level 21]: I HIT RESET 10 SECONDS AGO AND JUST DIED
