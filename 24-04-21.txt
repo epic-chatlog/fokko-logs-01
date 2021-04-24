@@ -6789,3 +6789,5 @@
 [2021-04-24 08:12:41]: ***  [, Level 0]: avioocals 2.0 finished in: 6 minute(s) 33.34 second(s)
 [2021-04-24 08:12:41]: ***  [, Level 0]: 'avioocals 2.0' finished the special race!
 [2021-04-24 08:12:41]: ***  [, Level 0]: '[D] ~DemoizL~' finished the special race!
+[2021-04-24 08:12:55]: ***  [, Level 0]: 'S22F4' entered and joined the game
+[2021-04-24 08:12:55]: ***  [, Level 0]: 'Ðream' joined the minigame 'Block', use '/block' to join aswell
