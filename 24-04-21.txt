@@ -7572,3 +7572,8 @@
 [2021-04-24 08:51:32]: Nagisa [H] [s2G, Level 7]: me 12
 [2021-04-24 08:51:35]:   [, Level 0]: s 🅱 e v e: Nagisa [H]: WOW
 [2021-04-24 08:51:38]: :D [s2G, Level 11]: sorry 11
+[2021-04-24 08:51:42]: Taip [VergleriSay, Level 23]: nagisa kanka
+[2021-04-24 08:51:44]: Nagisa [H] [s2G, Level 7]: me 7 dummy 11
+[2021-04-24 08:51:45]: Taip [VergleriSay, Level 23]: takım
+[2021-04-24 08:51:50]: Taip [VergleriSay, Level 23]: nennyle
+[2021-04-24 08:51:51]: Taip [VergleriSay, Level 23]: teamiz
