@@ -5183,3 +5183,4 @@
 [2021-04-24 05:53:24]: Rainbow Tee [KyStiKi, Level 0]: ChillerDragon: xd
 [2021-04-24 05:53:24]: ChillerDragon [Chilli.*, Level 45]: Rainbow Tee: I am currently afk. (fixing ddos lol)
 [2021-04-24 05:53:36]: ***  [, Level 0]: 'Michel' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-24 05:53:56]: nenny [doq, Level 5]: ddos
