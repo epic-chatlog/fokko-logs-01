@@ -5291,3 +5291,4 @@
 [2021-04-24 06:49:02]: ChillerDragon.* [|*KoG*|, Level 42]: OMG PINGS
 [2021-04-24 06:49:09]: Keeper.* [Chilli.*, Level 30]: ChillerDragon.*: aaa
 [2021-04-24 06:49:09]: ChillerDragon.* [|*KoG*|, Level 42]: aaaaaaaa ERROR. *
+[2021-04-24 06:49:27]: ChillerDragon.* [|*KoG*|, Level 42]: hier gibts nix zusehen ERROR is nur test server
