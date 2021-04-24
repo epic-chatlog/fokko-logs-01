@@ -8313,3 +8313,8 @@
 [2021-04-24 09:28:21]: Kenshi ツ [404, Level 40]: El patron: i play for fun
 [2021-04-24 09:28:21]: ***  [, Level 0]: 'Mistigrix' has left the game
 [2021-04-24 09:28:26]: Nagisa [H] [s2G, Level 7]: Cylox.:bende oraya gelmek istiyom
+[2021-04-24 09:28:32]:   [, Level 0]: Cylox.: Nagisa [H]: zor
+[2021-04-24 09:28:36]: (1)nenny [, Level 0]: Devastator: Nera  my brother PLS
+[2021-04-24 09:28:37]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-24 09:28:40]: Nagisa [H] [s2G, Level 7]: kapıyı açın
+[2021-04-24 09:28:40]: ERRORa [404, Level 76]: xD
