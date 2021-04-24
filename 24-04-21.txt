@@ -6802,3 +6802,5 @@
 [2021-04-24 08:13:37]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-24 08:13:40]:   [, Level 0]: [D] mamikral011: pro pro
 [2021-04-24 08:13:46]: ***  [, Level 0]: 'Ðream' left the minigame 'Block'
+[2021-04-24 08:13:47]: (1)nenny [, Level 0]: lagg
+[2021-04-24 08:13:58]: ***  [, Level 0]: 'DOOCK' entered and joined the game
