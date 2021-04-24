@@ -9192,3 +9192,4 @@
 [2021-04-24 10:09:10]: ***  [, Level 0]: [D] El patron is on a killing spree with 10 blocks
 [2021-04-24 10:09:10]: ***  [, Level 0]: 'Ethan' has left the game
 [2021-04-24 10:09:12]:   [, Level 0]: ERROR: Ļåҕ Lobster:  why kill o.o
+[2021-04-24 10:09:30]: ***  [, Level 0]: 'Ris u salat' has left the game
