@@ -8308,3 +8308,4 @@
 [2021-04-24 09:27:45]: ***  [, Level 0]: 'yeba' has left the game
 [2021-04-24 09:27:45]: ***  [, Level 0]: 'aboba' has left the game
 [2021-04-24 09:27:50]: Matiteusz [TrRShClNrRs, Level 20]: ERROR.: XDDDDD
+[2021-04-24 09:28:00]: ***  [, Level 0]: 'Mistigrix' entered and joined the game
