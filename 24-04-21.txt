@@ -5597,3 +5597,6 @@
 [2021-04-24 07:09:44]: ***  [, Level 0]: 'boa pergunta' joined the spectators
 [2021-04-24 07:09:45]: F=limf(x) dx->0 [, Level 0]: 'yan²: mmmh ok trkl
 [2021-04-24 07:09:46]: nenny [doq, Level 5]: meaning?
+[2021-04-24 07:09:48]: ***  [, Level 0]: 'boa pergunta' joined the game
+[2021-04-24 07:09:48]: nenny [doq, Level 5]: I don't know the meaning
+[2021-04-24 07:09:51]: ***  [, Level 0]: 'ṆḕẌṳS' entered and joined the game
