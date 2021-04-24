@@ -5146,3 +5146,5 @@
 [2021-04-24 05:50:12]: mamikral011 [DogParty, Level 0]: evt var
 [2021-04-24 05:50:16]: Kezo [DogParty, Level 41]: ddos ?
 [2021-04-24 05:50:20]: magik D [, Level 0]: Rainbow Tee: just dont play xD
+[2021-04-24 05:50:36]: ***  [, Level 0]: 'Dominika02341' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-24 05:50:36]: magik D [, Level 0]: Rainbow Tee: or go fake afk
