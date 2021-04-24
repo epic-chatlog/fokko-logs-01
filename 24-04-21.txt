@@ -9181,3 +9181,5 @@
 [2021-04-24 10:08:29]:   [, Level 0]: Rainbow Tee: [D] Dennis: bruh, i do nothing
 [2021-04-24 10:08:33]:   [, Level 0]: ERROR: Ļåҕ Lobster:  but u said war :(
 [2021-04-24 10:08:37]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-24 10:08:41]: ***  [, Level 0]: 'Ethan' entered and joined the game
+[2021-04-24 10:08:47]:   [, Level 0]: ERROR: xD
