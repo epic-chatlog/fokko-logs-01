@@ -5607,3 +5607,7 @@
 [2021-04-24 07:10:15]: boa pergunta [sei la, Level 0]: NOOB
 [2021-04-24 07:10:18]: boa pergunta [sei la, Level 0]: STOP
 [2021-04-24 07:10:22]: ***  [, Level 0]: 'ṆḕẌṳS' has left the game
+[2021-04-24 07:10:37]: Rainbow Tee [KyStiKi, Level 12]: any ☍: xd, you wanna move me into kill tiles
+[2021-04-24 07:10:38]: Ļåҕ Lobster [Ļåҕ, Level 35]: ERROR: you war chiller ?
+[2021-04-24 07:10:42]: ***  [, Level 0]: Taip finished in: 9 minute(s) 44.12 second(s)
+[2021-04-24 07:10:46]: ERROR [404, Level 76]: ye
