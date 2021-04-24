@@ -6068,3 +6068,6 @@
 [2021-04-24 07:30:12]: any ☍ [404, Level 41]: hi fokkonaut !
 [2021-04-24 07:30:13]: Ðream [TrRShClNrRs, Level 47]: xD
 [2021-04-24 07:30:17]: Nudelsaft c: [FookinLads, Level 37]: S Y T H N: xD
+[2021-04-24 07:30:19]: fokkonaut [flawLess, Level 102]: Nudelsaft c:: ich nutze ein ganz anderes serverinfo protokoll und ein ganz anderes protocol für die connection
+[2021-04-24 07:30:24]: fokkonaut [flawLess, Level 102]: Nudelsaft c:: nein das kannst du nicht faken xD
+[2021-04-24 07:30:25]: ChillerDragon.* [Chilli.*, Level 42]: Nudelsaft c:: ja aber wenn du das fakest hast du es implementiert xd
