@@ -6242,3 +6242,5 @@
 [2021-04-24 07:43:31]: HardreenClutch [\ЧՁθ/, Level 58]: Shymoux:  she never block me
 [2021-04-24 07:43:35]: Matiteusz [TrRShClNrRs, Level 20]: Ðream: how to set it xD
 [2021-04-24 07:43:37]: ERROR. [404, Level 57]: El patron:  dummy restart
+[2021-04-24 07:43:37]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-24 07:43:42]: Shymoux [, Level 40]: avioocals: il me crois pas xD
