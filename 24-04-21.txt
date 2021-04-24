@@ -5309,3 +5309,8 @@
 [2021-04-24 06:50:15]: El patron [FookinLads, Level 32]: Coca:  you want
 [2021-04-24 06:50:15]: Keeper.* [Chilli.*, Level 30]: ERROR.: aaa
 [2021-04-24 06:50:16]: Nudelsaft c: [FookinLads, Level 26]: nah 1. lvl 0
+[2021-04-24 06:50:19]: Nudelsaft c: [FookinLads, Level 26]: 2. lvl 2
+[2021-04-24 06:50:20]: Nudelsaft c: [FookinLads, Level 26]: 3. lvl 24
+[2021-04-24 06:50:22]: Nudelsaft c: [FookinLads, Level 26]: 4. lvl 26
+[2021-04-24 06:50:24]: Coca [Drunks, Level 25]: El patron: do peace with me)
+[2021-04-24 06:50:30]: [D] El patron [FookinLads, Level 24]: Coca:  idk
