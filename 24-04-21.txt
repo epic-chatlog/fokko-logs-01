@@ -6026,3 +6026,10 @@
 [2021-04-24 07:28:59]: ChillerDragon [Chilli.*, Level 45]: xD
 [2021-04-24 07:28:59]: ERROR [404, Level 76]: xD
 [2021-04-24 07:29:03]: ChillerDragon.* [|*KoG*|, Level 42]: lost
+[2021-04-24 07:29:05]: ***  [, Level 0]: 'Rєĸσ✘' entered and joined the game
+[2021-04-24 07:29:06]: ERROR [404, Level 76]: heinricht boss
+[2021-04-24 07:29:07]:   [, Level 0]: Rєĸσ✘: dogs
+[2021-04-24 07:29:09]: Ðream [TrRShClNrRs, Level 47]: xD
+[2021-04-24 07:29:09]: ERROR [404, Level 76]: heinrich boss
+[2021-04-24 07:29:11]:   [, Level 0]: Rєĸσ✘: Ðream: stinky
+[2021-04-24 07:29:12]: fokkonaut [flawLess, Level 102]: ChillerDragon: ERROR will eigenen server aufmachen
