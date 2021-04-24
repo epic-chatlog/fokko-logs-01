@@ -6288,3 +6288,7 @@
 [2021-04-24 07:46:00]: Nudelsaft c: [FookinLads, Level 60]: hi
 [2021-04-24 07:46:00]: ***  [, Level 0]: 'Nuagebiscuit' entered and joined the game
 [2021-04-24 07:46:01]: ERROR. [404, Level 57]: Devastator:  so langweilig dieser server xDD
+[2021-04-24 07:46:08]: Devastator [\ЧՁθ/, Level 0]: ERROR:  ja schon
+[2021-04-24 07:46:09]: fokkonaut [flawLess, Level 102]: back :D
+[2021-04-24 07:46:13]: Devastator [\ЧՁθ/, Level 0]: ERROR:  war mal besser
+[2021-04-24 07:46:14]: ***  [, Level 0]: 'i m p o s t o r' has left the game
