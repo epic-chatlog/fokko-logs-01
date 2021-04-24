@@ -5372,3 +5372,5 @@
 [2021-04-24 06:54:14]: Nudelsaft c: [FookinLads, Level 60]: x)
 [2021-04-24 06:54:18]: ChillerDragon.* [Chilli.*, Level 42]: u woot mate
 [2021-04-24 06:54:27]: Nudelsaft c: [FookinLads, Level 60]: hax
+[2021-04-24 06:54:34]: ERROR [404, Level 76]: kek
+[2021-04-24 06:54:45]: Good man [Chilli.*, Level 33]: ERROR: pls make portal in jetpack for me)
