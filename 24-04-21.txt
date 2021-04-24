@@ -5491,3 +5491,8 @@
 [2021-04-24 07:03:54]: ***  [, Level 0]: 'boa pergunta' joined the spectators
 [2021-04-24 07:03:58]: ***  [, Level 0]: 'boa pergunta' joined the game
 [2021-04-24 07:04:05]: ***  [, Level 0]: 'boa pergunta' joined the spectators
+[2021-04-24 07:04:06]: ***  [, Level 0]: '(1)Good man' entered and joined the game
+[2021-04-24 07:04:08]: ***  [, Level 0]: 'boa pergunta' joined the game
+[2021-04-24 07:04:11]: Rainbow Tee [KyStiKi, Level 12]: [D] El patron: btw, my dummy
+[2021-04-24 07:04:12]: ***  [, Level 0]: '(1)Coca' entered and joined the game
+[2021-04-24 07:04:14]: ***  [, Level 0]: 'Raven' entered and joined the game
