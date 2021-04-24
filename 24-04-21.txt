@@ -8571,3 +8571,6 @@
 [2021-04-24 09:42:14]: Matiteusz [TrRShClNrRs, Level 20]: avioocals: WHY WHY WHY
 [2021-04-24 09:42:17]: ***  [, Level 0]: '(1)ChillerDragon' has left the game
 [2021-04-24 09:42:19]: Matiteusz [TrRShClNrRs, Level 20]: avioocals: WHY UR HELPINGHIM
+[2021-04-24 09:42:24]: ***  [, Level 0]: '(1)ChillerDragon' entered and joined the game
+[2021-04-24 09:42:26]: Matiteusz [TrRShClNrRs, Level 20]: ERROR: as i told
+[2021-04-24 09:42:29]: [D] Dennis [, Level 0]: Sayme:  thanks
