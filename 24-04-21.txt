@@ -6487,3 +6487,5 @@
 [2021-04-24 07:54:19]: Devastator [\ЧՁθ/, Level 0]: fokkonaut:  give me OP waffe digga hopp
 [2021-04-24 07:54:20]: ***  [, Level 0]: ### 'ERROR' Woof-Woof
 [2021-04-24 07:54:21]:   [, Level 0]: [D] mamikral011: no
+[2021-04-24 07:54:24]: ***  [, Level 0]: (1)OP|Supers is on a killing spree with 10 blocks
+[2021-04-24 07:54:24]:   [, Level 0]: ChillerDragon: bra ich brauch wd client edit der keine particel rendert xd
