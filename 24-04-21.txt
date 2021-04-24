@@ -5976,3 +5976,8 @@
 [2021-04-24 07:26:53]: fokkonaut [flawLess, Level 102]: kk
 [2021-04-24 07:26:55]: El patron [FookinLads, Level 32]: ERROR:  er ist tot
 [2021-04-24 07:26:57]: Devastator [\ЧՁθ/, Level 0]: ERROR:  beweg dich doch
+[2021-04-24 07:27:02]: Coca [Drunks, Level 25]: Cylox: nice
+[2021-04-24 07:27:07]: Cylox. [, Level 0]: thx
+[2021-04-24 07:27:11]: ChillerDragon [Chilli.*, Level 45]: xD
+[2021-04-24 07:27:12]: ***  [, Level 0]: 'asd' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-24 07:27:12]: Cylox. [, Level 0]: my best friend
