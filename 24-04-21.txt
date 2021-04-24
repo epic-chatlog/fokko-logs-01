@@ -5284,3 +5284,8 @@
 [2021-04-24 06:48:47]: El patron [FookinLads, Level 32]: ChillerDragon.*: ow
 [2021-04-24 06:48:48]: ***  [, Level 0]: 'Coca' entered and joined the game
 [2021-04-24 06:48:50]: ***  [, Level 0]: 'ERROR' entered and joined the game
+[2021-04-24 06:48:54]: ***  [, Level 0]: 'ERROR.' entered and joined the game
+[2021-04-24 06:48:57]: Coca [Drunks, Level 25]: ERROR: hi
+[2021-04-24 06:48:57]: ChillerDragon.* [|*KoG*|, Level 42]: aaa StreamerDragon
+[2021-04-24 06:49:00]: ChillerDragon.* [|*KoG*|, Level 42]: aaa Keeper.*
+[2021-04-24 06:49:02]: ChillerDragon.* [|*KoG*|, Level 42]: OMG PINGS
