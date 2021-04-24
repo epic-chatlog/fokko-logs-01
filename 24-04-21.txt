@@ -7011,3 +7011,4 @@
 [2021-04-24 08:27:16]: ***  [, Level 0]: 'Maiki' has left the game
 [2021-04-24 08:27:16]: ***  [, Level 0]: 'ABC' has left the game
 [2021-04-24 08:27:17]:   [, Level 0]: Taip: wa4life
+[2021-04-24 08:27:31]: taco bell [, Level 16]: wa4life
