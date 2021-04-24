@@ -6859,3 +6859,6 @@
 [2021-04-24 08:18:17]: :D [s2G, Level 11]: bu botta ne var amk
 [2021-04-24 08:18:17]: Matiteusz [TrRShClNrRs, Level 20]: ERROR: Ur not chasing me?
 [2021-04-24 08:18:18]: nenny [doq, Level 6]: efendim :D
+[2021-04-24 08:18:21]: ERROR [404, Level 76]: hm?
+[2021-04-24 08:18:24]: ***  [, Level 0]: 'Квасик' has left the game
+[2021-04-24 08:18:24]: Matiteusz [TrRShClNrRs, Level 20]: ERROR: weird
