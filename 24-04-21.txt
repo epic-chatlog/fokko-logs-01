@@ -7292,3 +7292,5 @@
 [2021-04-24 08:38:42]: lomination [, Level 35]: ERROR:
 [2021-04-24 08:38:43]:   [, Level 0]: Nuagebiscuit: chiller dragon §§§
 [2021-04-24 08:38:51]:   [, Level 0]: Nuagebiscuit: !!!
+[2021-04-24 08:39:00]:   [, Level 0]: ChillerDragon: what Nuagebiscuit
+[2021-04-24 08:39:05]:   [, Level 0]: s 🅱 e v e: whos the laser thats carrying me
