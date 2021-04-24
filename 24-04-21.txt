@@ -5158,3 +5158,5 @@
 [2021-04-24 05:51:01]: ***  [, Level 0]: 'casserole :p' has left the game (Timeout)
 [2021-04-24 05:51:02]: Rainbow Tee [KyStiKi, Level 0]: magik D: dont work :(
 [2021-04-24 05:51:05]: (1)Falco641 [.bad, Level 21]: I HIT RESET 10 SECONDS AGO AND JUST DIED
+[2021-04-24 05:51:11]: ***  [, Level 0]: 'Jerry' has left the game (Timeout)
+[2021-04-24 05:51:15]: Abdii [I lav kais, Level 0]: Kezo:  <<<
