@@ -5172,3 +5172,8 @@
 [2021-04-24 05:51:56]: ***  [, Level 0]: 'Tziys*' has left the game (Timeout)
 [2021-04-24 05:52:02]: Rainbow Tee [KyStiKi, Level 0]: xd, i readed i #developer, chillerdragon ddos server xd
 [2021-04-24 05:52:04]: ChillerDragon [Chilli.*, Level 45]: Rainbow Tee: I am currently afk. (fixing ddos lol)
+[2021-04-24 05:52:15]: ***  [, Level 0]: '[D] El patron' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-24 05:52:18]: Meetiteusz [TrRShClNrRs, Level 12]: i love this lags
+[2021-04-24 05:52:20]: nenny [doq, Level 5]: Rainbow Tee: If you help me, I'll help you too. Do you understand me?
+[2021-04-24 05:52:22]: ***  [, Level 0]: '(1)Falco641' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-24 05:52:22]: ***  [, Level 0]: 'Falco642' has left the game (Timeout)
