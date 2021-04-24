@@ -5170,3 +5170,5 @@
 [2021-04-24 05:51:49]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-24 05:51:55]: ***  [, Level 0]: 'Kezo' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-24 05:51:56]: ***  [, Level 0]: 'Tziys*' has left the game (Timeout)
+[2021-04-24 05:52:02]: Rainbow Tee [KyStiKi, Level 0]: xd, i readed i #developer, chillerdragon ddos server xd
+[2021-04-24 05:52:04]: ChillerDragon [Chilli.*, Level 45]: Rainbow Tee: I am currently afk. (fixing ddos lol)
