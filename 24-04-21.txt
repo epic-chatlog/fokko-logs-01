@@ -6244,3 +6244,6 @@
 [2021-04-24 07:43:37]: ERROR. [404, Level 57]: El patron:  dummy restart
 [2021-04-24 07:43:37]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-24 07:43:42]: Shymoux [, Level 40]: avioocals: il me crois pas xD
+[2021-04-24 07:43:52]: ***  [, Level 0]: 'soleri1' entered and joined the game
+[2021-04-24 07:43:56]: ***  [, Level 0]: 'Mamba' entered and joined the game
+[2021-04-24 07:43:59]: ERROR. [404, Level 57]: xD
