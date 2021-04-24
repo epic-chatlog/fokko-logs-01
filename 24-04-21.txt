@@ -6728,3 +6728,6 @@
 [2021-04-24 08:08:12]: ***  [, Level 0]: 'dummier' has left the game
 [2021-04-24 08:08:14]: avioocals 2.0 [|*MorE*|, Level 0]: xD
 [2021-04-24 08:08:16]: (1)nenny [, Level 0]: HeavyGeneral: wtf you better
+[2021-04-24 08:08:31]: Matiteusz [TrRShClNrRs, Level 20]: FUCK
+[2021-04-24 08:08:35]: ***  [, Level 0]: 'Vertex' has left the game
+[2021-04-24 08:08:37]: ***  [, Level 0]: [INFO] You can create an account using '/register'
