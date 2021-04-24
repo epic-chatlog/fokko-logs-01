@@ -5177,3 +5177,5 @@
 [2021-04-24 05:52:20]: nenny [doq, Level 5]: Rainbow Tee: If you help me, I'll help you too. Do you understand me?
 [2021-04-24 05:52:22]: ***  [, Level 0]: '(1)Falco641' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-24 05:52:22]: ***  [, Level 0]: 'Falco642' has left the game (Timeout)
+[2021-04-24 05:52:50]: Rainbow Tee [KyStiKi, Level 0]: nenny: you dont help me anytime i have been blocked by someone
+[2021-04-24 05:52:54]: nenny [doq, Level 5]: oh lag
