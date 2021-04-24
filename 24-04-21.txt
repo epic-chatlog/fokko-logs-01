@@ -5198,3 +5198,4 @@
 [2021-04-24 05:56:48]: ***  [, Level 0]: '咸鱼末' entered and joined the game
 [2021-04-24 05:56:49]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-24 05:57:24]: El patron [FookinLads, Level 32]: flappy:
+[2021-04-24 05:57:33]: ***  [, Level 0]: 'koro' has left the game (Timeout)
