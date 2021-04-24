@@ -6374,3 +6374,7 @@
 [2021-04-24 07:50:02]: ***  [, Level 0]: 'ERROR' has left the game (You have been banned for 30 minutes)
 [2021-04-24 07:50:02]: 'yan² [, Level 1]: ghp:  D
 [2021-04-24 07:50:02]: ERROR. [404, Level 57]: xD
+[2021-04-24 07:50:07]: 'yan² [, Level 1]: noob ghp
+[2021-04-24 07:50:08]: Devastator [\ЧՁθ/, Level 0]: ERROR:  HM XD
+[2021-04-24 07:50:12]:   [, Level 0]: ChillerDragon: xd
+[2021-04-24 07:50:14]: ERROR. [404, Level 57]: geht schnell xD
