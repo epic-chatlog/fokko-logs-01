@@ -5511,3 +5511,5 @@
 [2021-04-24 07:05:38]: ***  [, Level 0]: '(1)asd' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-24 07:05:47]: Nagisa [H] [s2G, Level 0]: nc portal
 [2021-04-24 07:05:52]: boa pergunta [sei la, Level 0]: bruh
+[2021-04-24 07:06:02]: ***  [, Level 0]: 'at insan' entered and joined the game
+[2021-04-24 07:06:04]: Rainbow Tee [KyStiKi, Level 12]: nenny: ultra bad, you blocking flappy
