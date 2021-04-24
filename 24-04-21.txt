@@ -8633,3 +8633,14 @@
 [2021-04-24 09:44:54]: ***  [, Level 0]: 'Ðream' joined the minigame 'Block', use '/block' to join aswell
 [2021-04-24 09:44:57]:   [, Level 0]: Cylox.: taco bell:
 [2021-04-24 09:45:01]: ***  [, Level 0]: 'ダライアス' entered and joined the game
+[2021-04-24 09:45:06]: Matiteusz [TrRShClNrRs, Level 20]: avioocals: what?
+[2021-04-24 09:45:06]: ***  [, Level 0]: '(1)Good man' has left the game
+[2021-04-24 09:45:08]:   [, Level 0]: [D] Nuagebiscui: no
+[2021-04-24 09:45:09]: Matiteusz [TrRShClNrRs, Level 20]: hello ERROR
+[2021-04-24 09:45:09]: ***  [, Level 0]: 'Ðream' left the minigame 'Block'
+[2021-04-24 09:45:10]: Dennis [, Level 0]: (1)Sayme:  below you
+[2021-04-24 09:45:10]: Zephir ツ [404, Level 41]: Matiteusz: maybe, ask ERROR
+[2021-04-24 09:45:12]: ***  [, Level 0]: 'Good man' has left the game
+[2021-04-24 09:45:12]: ***  [, Level 0]: 'Coca' has left the game
+[2021-04-24 09:45:12]:   [, Level 0]: Cylox.: wait
+[2021-04-24 09:45:13]: ERROR [404, Level 76]: lets do again
