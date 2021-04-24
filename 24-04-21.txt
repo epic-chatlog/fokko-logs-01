@@ -5412,3 +5412,7 @@
 [2021-04-24 06:57:09]: Nudelsaft c: [FookinLads, Level 60]: woran das wohl liegt ERROR xD
 [2021-04-24 06:57:13]: ***  [, Level 0]: 'Keeper.*' has left the game
 [2021-04-24 06:57:13]: ***  [, Level 0]: 'Keeeper.*' has left the game
+[2021-04-24 06:57:15]: ERROR. [404, Level 57]: ja woran nur
+[2021-04-24 06:57:16]: ChillerDragon [|*KoG*|, Level 45]: na weil ERROR immer ddost
+[2021-04-24 06:57:16]: ERROR. [404, Level 57]: xDD
+[2021-04-24 06:57:18]: ***  [, Level 0]: '(2)Cosmo' has left the game
