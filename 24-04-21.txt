@@ -9198,3 +9198,7 @@
 [2021-04-24 10:10:01]: ***  [, Level 0]: 'Papi migue' has left the game
 [2021-04-24 10:10:15]:   [, Level 0]: ,: Matiteusz: lol
 [2021-04-24 10:10:19]:   [, Level 0]: Ļåҕ Lobster: Zephir ツ: thanks you
+[2021-04-24 10:10:28]: ***  [, Level 0]: 'MaksZero' entered and joined the game
+[2021-04-24 10:10:29]: (1)nenny [, Level 0]: Zephir ツ:
+[2021-04-24 10:10:32]: ***  [, Level 0]: 'coekie' has left the game
+[2021-04-24 10:10:37]: (1)nenny [, Level 0]: ERROR:
