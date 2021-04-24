@@ -5714,3 +5714,5 @@
 [2021-04-24 07:15:58]: F=limf(x) dx->0 [, Level 0]: +26 mdr
 [2021-04-24 07:16:06]: ***  [, Level 0]: Taip finished in: 1 minute(s) 15.28 second(s)
 [2021-04-24 07:16:06]: ***  [, Level 0]: New record: 8 minute(s) 28.84 second(s) better.
+[2021-04-24 07:16:09]: Badass Tomani [, Level 0]: 'yan²:  aujdh je peux meme pas
+[2021-04-24 07:16:16]: [D] Shymoux [, Level 0]: Ƭevan:
