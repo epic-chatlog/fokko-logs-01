@@ -9113,3 +9113,5 @@
 [2021-04-24 10:04:30]: . [TrRShClNrRs, Level 43]: ERROR,: i never smoke xd
 [2021-04-24 10:04:42]: . [TrRShClNrRs, Level 43]: Ƭevan: PF XD
 [2021-04-24 10:04:49]: . [TrRShClNrRs, Level 43]: ERROR: just dont smoke haha
+[2021-04-24 10:04:58]: . [TrRShClNrRs, Level 43]: ERROR: its that simplee
+[2021-04-24 10:04:59]: ERROR, [404, Level 58]: i have to :(
