@@ -8132,3 +8132,8 @@
 [2021-04-24 09:18:00]: Nagisa [H] [s2G, Level 7]: come
 [2021-04-24 09:18:13]: Matiteusz [TrRShClNrRs, Level 20]: Telefucktastic: hi
 [2021-04-24 09:18:24]: ***  [, Level 0]: 'avioocals 2.0' entered and joined the game
+[2021-04-24 09:18:28]: Kezo [[!KESLAN!], Level 41]: ERROR: I gave my money to my friends and I won't play anymore
+[2021-04-24 09:18:30]: Nagisa [H] [s2G, Level 7]: thx
+[2021-04-24 09:18:31]: ***  [, Level 0]: 'Gh[0]stly' entered and joined the game
+[2021-04-24 09:18:37]: (1)Sayme [, Level 0]: ERROR.: thx
+[2021-04-24 09:18:37]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
