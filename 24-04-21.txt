@@ -5228,3 +5228,4 @@
 [2021-04-24 06:05:40]: ***  [, Level 0]: 'Karl' has left the game (Timeout)
 [2021-04-24 06:06:07]: ***  [, Level 0]: 'Good man' entered and joined the game
 [2021-04-24 06:06:25]: ***  [, Level 0]: 'Good man' has left the game
+[2021-04-24 06:06:49]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
