@@ -8200,3 +8200,7 @@
 [2021-04-24 09:21:47]: ***  [, Level 0]: 'MOM' entered and joined the game
 [2021-04-24 09:21:48]: Ļåҕ Lobster [Ļåҕ, Level 35]: ERROR: xDDDDDDDDDDD
 [2021-04-24 09:21:54]: ***  [, Level 0]: 'Furry KwaXDkp' has left the game
+[2021-04-24 09:22:01]: ERROR. [404, Level 58]: OMG
+[2021-04-24 09:22:02]: ***  [, Level 0]: 'IceBiggity' has left the game
+[2021-04-24 09:22:03]: ERROR. [404, Level 58]: xDDDDDDDDDDDDDDD
+[2021-04-24 09:22:07]: Matiteusz [TrRShClNrRs, Level 20]: Devastator: fucker
