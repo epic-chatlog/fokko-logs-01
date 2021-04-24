@@ -6798,3 +6798,7 @@
 [2021-04-24 08:13:29]: Raven Dummy [, Level 0]: Matiteusz: how u get a laser?
 [2021-04-24 08:13:33]: ***  [, Level 0]: 'S22F4' has left the game
 [2021-04-24 08:13:33]: ***  [, Level 0]: Chillingo is on a killing spree with 5 blocks
+[2021-04-24 08:13:37]:   [, Level 0]: [D] mamikral011: :D
+[2021-04-24 08:13:37]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-24 08:13:40]:   [, Level 0]: [D] mamikral011: pro pro
+[2021-04-24 08:13:46]: ***  [, Level 0]: 'Ðream' left the minigame 'Block'
