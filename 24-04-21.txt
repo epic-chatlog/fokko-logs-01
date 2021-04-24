@@ -5194,3 +5194,4 @@
 [2021-04-24 05:55:27]: ***  [, Level 0]: 'SanoreX.*' has left the game (Timeout Protection over)
 [2021-04-24 05:55:27]: ***  [, Level 0]: 'SanoreX' has left the game (Timeout Protection over)
 [2021-04-24 05:55:29]: ***  [, Level 0]: 'MOM' has left the game (Timeout)
+[2021-04-24 05:56:22]: ***  [, Level 0]: '[D] El patron' entered and joined the game
