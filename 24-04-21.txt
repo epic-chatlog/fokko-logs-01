@@ -5148,3 +5148,10 @@
 [2021-04-24 05:50:20]: magik D [, Level 0]: Rainbow Tee: just dont play xD
 [2021-04-24 05:50:36]: ***  [, Level 0]: 'Dominika02341' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-24 05:50:36]: magik D [, Level 0]: Rainbow Tee: or go fake afk
+[2021-04-24 05:50:48]: mamikral011 [DogParty, Level 0]: evt
+[2021-04-24 05:50:50]: Falco642 [, Level 0]: bruh this lags
+[2021-04-24 05:50:55]: Kezo [DogParty, Level 41]: ddosa sokayım beyaw
+[2021-04-24 05:50:56]: ***  [, Level 0]: 'BS' would have timed out, but can use timeout protection now
+[2021-04-24 05:50:56]: ***  [, Level 0]: 'ZATIMY' would have timed out, but can use timeout protection now
+[2021-04-24 05:50:57]: ***  [, Level 0]: '『Jester』' has left the game (Timeout)
+[2021-04-24 05:50:57]: Rainbow Tee [KyStiKi, Level 0]: nenny: 190 ping, is that explains all?
