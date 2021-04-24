@@ -6680,3 +6680,7 @@
 [2021-04-24 08:05:12]: Devastator [\ЧՁθ/, Level 41]: ERROR:  langweiler
 [2021-04-24 08:05:19]: ***  [, Level 0]: 'Mr.666' entered and joined the game
 [2021-04-24 08:05:21]: Matiteusz [TrRShClNrRs, Level 20]: Ƭevan: how did you set this xD
+[2021-04-24 08:05:26]: ***  [, Level 0]: 'Mr.666' has left the game
+[2021-04-24 08:05:30]: NeMo [, Level 27]: taco bell:
+[2021-04-24 08:05:33]: ***  [, Level 0]: 'bully' entered and joined the game
+[2021-04-24 08:05:35]: NeMo [, Level 27]: here is the room
