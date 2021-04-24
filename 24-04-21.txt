@@ -6146,3 +6146,4 @@
 [2021-04-24 07:34:33]: 'yan² [, Level 1]: flappy: *
 [2021-04-24 07:34:37]: ***  [, Level 0]: '挖惹发' has left the game
 [2021-04-24 07:34:45]: fokkonaut [flawLess, Level 102]: ChillerDragon: 0.6.5 auch nicht nur ddnet
+[2021-04-24 07:35:01]: Taip [VergleriSay, Level 23]: why
