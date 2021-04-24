@@ -6570,3 +6570,6 @@
 [2021-04-24 07:58:30]: ***  [, Level 0]: '(1)Meetiteusz' entered and joined the game
 [2021-04-24 07:58:34]: ghp [1234, Level 0]: riekana'
 [2021-04-24 07:58:37]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-24 07:58:51]: ***  [, Level 0]: '[D] bobiballo' entered and joined the game
+[2021-04-24 07:58:55]: NinjaWhite [, Level 24]: Devastator:
+[2021-04-24 07:58:57]: ***  [, Level 0]: '[D] bobiballo' has left the game
