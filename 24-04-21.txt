@@ -8310,3 +8310,6 @@
 [2021-04-24 09:27:50]: Matiteusz [TrRShClNrRs, Level 20]: ERROR.: XDDDDD
 [2021-04-24 09:28:00]: ***  [, Level 0]: 'Mistigrix' entered and joined the game
 [2021-04-24 09:28:10]:   [, Level 0]: [D] El patron: Kenshi ツ:  i no bonus and i clap u ow
+[2021-04-24 09:28:21]: Kenshi ツ [404, Level 40]: El patron: i play for fun
+[2021-04-24 09:28:21]: ***  [, Level 0]: 'Mistigrix' has left the game
+[2021-04-24 09:28:26]: Nagisa [H] [s2G, Level 7]: Cylox.:bende oraya gelmek istiyom
