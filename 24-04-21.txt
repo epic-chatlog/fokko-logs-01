@@ -6297,3 +6297,9 @@
 [2021-04-24 07:46:24]: ERROR. [404, Level 57]: yes
 [2021-04-24 07:46:24]: ***  [, Level 0]: '(1)OP|Supers' entered and joined the game
 [2021-04-24 07:46:29]:   [, Level 0]: mamikral011: fokkonaut: brooo :D
+[2021-04-24 07:46:29]: ***  [, Level 0]: Raven Dummy is on a killing spree with 5 blocks
+[2021-04-24 07:46:34]: fokkonaut [flawLess, Level 102]: mamikral hey
+[2021-04-24 07:46:37]: ghp [1234, Level 0]: portal pliz
+[2021-04-24 07:46:37]:   [, Level 0]: mamikral011: :D
+[2021-04-24 07:46:39]: fokkonaut [flawLess, Level 102]: \(^-^)/
+[2021-04-24 07:46:39]:   [, Level 0]: mamikral011: :D
