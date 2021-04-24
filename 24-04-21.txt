@@ -5361,3 +5361,7 @@
 [2021-04-24 06:53:37]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-24 06:53:40]: Nudelsaft c: [FookinLads, Level 60]: stimmt
 [2021-04-24 06:53:41]: Good man [Chilli.*, Level 33]: Ƭevan: ок )
+[2021-04-24 06:53:46]: El patron [FookinLads, Level 32]: Good man:  100k
+[2021-04-24 06:53:50]: Good man [Chilli.*, Level 33]: El patron: XD
+[2021-04-24 06:53:51]: Nudelsaft c: [FookinLads, Level 60]: ChillerDragon: müssen den dann chlecht oder schlecht nennen
+[2021-04-24 06:53:54]: ***  [, Level 0]: '(2)Cosmo' entered and joined the game
