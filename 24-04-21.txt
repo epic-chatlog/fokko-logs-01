@@ -5508,3 +5508,4 @@
 [2021-04-24 07:04:59]: ***  [, Level 0]: 'Raven Dummy' entered and joined the game
 [2021-04-24 07:05:26]: ***  [, Level 0]: 'asd' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-24 07:05:29]: ***  [, Level 0]: 'NeMo' entered and joined the game
+[2021-04-24 07:05:38]: ***  [, Level 0]: '(1)asd' has left the game (Too weak connection (not acked for 60 seconds))
