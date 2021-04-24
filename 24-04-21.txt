@@ -6054,3 +6054,10 @@
 [2021-04-24 07:29:45]: ERROR [404, Level 76]: mein root bleibt testserver xD
 [2021-04-24 07:29:50]: ChillerDragon.* [Chilli.*, Level 42]: Nudelsaft c:: na vanilla clients sind nich suporrted
 [2021-04-24 07:29:52]: ***  [, Level 0]: i m p o s t o r finished in: 2 minute(s) 27.24 second(s)
+[2021-04-24 07:29:54]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-24 07:29:56]: ChillerDragon.* [Chilli.*, Level 42]: Nudelsaft c:: also nur token clients
+[2021-04-24 07:29:57]: Nudelsaft c: [FookinLads, Level 37]: fokkonaut: hast geschrieben  man kann nur mit 0.6 ddnet oder 0.7 connecten
+[2021-04-24 07:30:01]: fokkonaut [flawLess, Level 102]: Nudelsaft c:: ddnet hat ein ganz anderes protokol als vanilla 0.6
+[2021-04-24 07:30:03]: ***  [, Level 0]: '|KS| Kyrma' has left the game
+[2021-04-24 07:30:03]: ***  [, Level 0]: 'Rainbow Tee' has left the game
+[2021-04-24 07:30:04]: ChillerDragon.* [Chilli.*, Level 42]: bot
