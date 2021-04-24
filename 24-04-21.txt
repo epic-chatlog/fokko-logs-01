@@ -8978,3 +8978,11 @@
 [2021-04-24 09:58:07]: ***  [, Level 0]: '(2)Sayme' entered and joined the game
 [2021-04-24 09:58:08]: Zephir ツ [404, Level 41]: Ļåҕ Lobster: je gagne
 [2021-04-24 09:58:10]: . [TrRShClNrRs, Level 43]: Matiteusz: gai
+[2021-04-24 09:58:12]: ERROR, [404, Level 58]: Matiteusz:  youre mates are here
+[2021-04-24 09:58:14]: Kirito [{TQuila}, Level 41]: Dennis: you blocke Cylox
+[2021-04-24 09:58:16]: ***  [, Level 0]: [D] taco bell is on a killing spree with 5 blocks
+[2021-04-24 09:58:16]: Matiteusz [TrRShClNrRs, Level 20]: ERROR: thats right
+[2021-04-24 09:58:18]: Ļåҕ Lobster [Ļåҕ, Level 35]: koro: wtf ?
+[2021-04-24 09:58:20]: ERROR, [404, Level 58]: yaaay
+[2021-04-24 09:58:22]: Dennis [, Level 0]: Kirito:  he attacked me first
+[2021-04-24 09:58:22]: Ļåҕ Lobster [Ļåҕ, Level 35]: Zephir ツ: batard
