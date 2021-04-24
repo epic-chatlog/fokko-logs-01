@@ -8154,3 +8154,8 @@
 [2021-04-24 09:19:34]: noname [, Level 24]: Kenshi ツ:  let me do a dummy
 [2021-04-24 09:19:35]:   [, Level 0]: IceBiggity: hello
 [2021-04-24 09:19:42]: Kenshi ツ [404, Level 40]: noname: yeah, ur friend say me that
+[2021-04-24 09:19:44]: (1)nenny [, Level 0]: lag
+[2021-04-24 09:19:45]: s 🅱 e v e [, Level 7]: Hello
+[2021-04-24 09:19:49]: ***  [, Level 0]: '[D] noname' entered and joined the game
+[2021-04-24 09:19:52]: ***  [, Level 0]: 'Kezo' has left the game
+[2021-04-24 09:19:53]: [D] Nera [, Level 0]: Devastator: retard
