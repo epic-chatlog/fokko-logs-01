@@ -7022,3 +7022,7 @@
 [2021-04-24 08:28:06]: [D] mamikral011 [DogParty, Level 23]: Devastator: ?
 [2021-04-24 08:28:29]: ***  [, Level 0]: '[     ]' has left the game
 [2021-04-24 08:28:31]: [D] mamikral011 [DogParty, Level 23]: Devastator: why atack Davidboss8
+[2021-04-24 08:28:37]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-24 08:28:39]: Davidboss8 [senior, Level 0]: he is bored mamikral011
+[2021-04-24 08:28:42]: ***  [, Level 0]: 'Raven Dummy' finished the special race!
+[2021-04-24 08:28:44]: Matiteusz [TrRShClNrRs, Level 20]: Cylox: why swarfy is down there xD
