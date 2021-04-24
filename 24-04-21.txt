@@ -6776,3 +6776,8 @@
 [2021-04-24 08:11:53]:   [, Level 0]: [D] mamikral011: Ļåҕ Lobster: block (1)nenny _
 [2021-04-24 08:11:54]:   [, Level 0]: [D] mamikral011: ?
 [2021-04-24 08:11:54]: ***  [, Level 0]: 'i m p o s t o r' entered and joined the game
+[2021-04-24 08:12:00]: ***  [, Level 0]: 'dummier' entered and joined the game
+[2021-04-24 08:12:01]: ***  [, Level 0]: 'Ðream' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-24 08:12:02]: Ļåҕ Lobster [Ļåҕ, Level 35]: nenny: say sorry
+[2021-04-24 08:12:05]: nenny [doq, Level 5]: Ļåҕ Lobster:sorry?
+[2021-04-24 08:12:07]: nenny [doq, Level 5]: ı was just kidding
