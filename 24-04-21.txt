@@ -8986,3 +8986,7 @@
 [2021-04-24 09:58:20]: ERROR, [404, Level 58]: yaaay
 [2021-04-24 09:58:22]: Dennis [, Level 0]: Kirito:  he attacked me first
 [2021-04-24 09:58:22]: Ļåҕ Lobster [Ļåҕ, Level 35]: Zephir ツ: batard
+[2021-04-24 09:58:27]: Dennis [, Level 0]: Kirito:  now you both die
+[2021-04-24 09:58:28]: Matiteusz [TrRShClNrRs, Level 20]: ERROR: mista is joinign
+[2021-04-24 09:58:30]: [D] Nuagebiscui [, Level 0]: I am neutral
+[2021-04-24 09:58:31]: Dennis [, Level 0]: Rainbow Tee:  stfu
