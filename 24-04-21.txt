@@ -5207,3 +5207,5 @@
 [2021-04-24 06:01:21]: ***  [, Level 0]: 'magik E' has left the game (Timeout)
 [2021-04-24 06:01:21]: ***  [, Level 0]: 'magik D' has left the game (Timeout)
 [2021-04-24 06:01:36]: ***  [, Level 0]: 'Karl' entered and joined the game
+[2021-04-24 06:01:49]: ***  [, Level 0]: 'Taip' entered and joined the game
+[2021-04-24 06:01:49]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
