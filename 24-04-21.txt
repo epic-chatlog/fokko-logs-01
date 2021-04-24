@@ -5261,3 +5261,4 @@
 [2021-04-24 06:46:54]: ***  [, Level 0]: '(1)DiscordBridge' entered and joined the game
 [2021-04-24 06:46:54]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.2, by fokkonaut
 [2021-04-24 06:46:55]: ***  [, Level 0]: Successfully logged in
+[2021-04-24 06:47:20]: ***  [, Level 0]: 'Ðream' entered and joined the game
