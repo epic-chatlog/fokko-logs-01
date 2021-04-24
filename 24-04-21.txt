@@ -6090,3 +6090,5 @@
 [2021-04-24 07:31:01]: fokkonaut [flawLess, Level 102]: xd
 [2021-04-24 07:31:01]:   [, Level 0]: Nudelsaft c:: ich nicht, deshalb frage ich xD
 [2021-04-24 07:31:01]: El patron [FookinLads, Level 32]: HardreenClutch:  wtf
+[2021-04-24 07:31:15]: fokkonaut [flawLess, Level 102]: ChillerDragon: er dachte glaube ich an diese CL_DDNET_VERSION ODER WIE DER KRAM HEI?T
+[2021-04-24 07:31:17]: ERROR [404, Level 76]: xD
