@@ -5802,3 +5802,7 @@
 [2021-04-24 07:19:33]: ChillerDragon.* [Chilli.*, Level 42]: wie siehst du denn aus wtf ERROR.
 [2021-04-24 07:19:34]: Matiteusz [TrRShClNrRs, Level 20]: Ðream: i died xD
 [2021-04-24 07:19:38]: ***  [, Level 0]: 'SoniCN' entered and joined the game
+[2021-04-24 07:19:39]: Devastator [\ЧՁθ/, Level 0]: ChillerDragon:  how match
+[2021-04-24 07:19:43]: ***  [, Level 0]: '(1)asd' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-24 07:19:46]: Taip [VergleriSay, Level 23]: Shymoux: bro plz come
+[2021-04-24 07:19:48]: Badass Tomani [, Level 0]: F=limf(x) dx->0:  tu figth ?
