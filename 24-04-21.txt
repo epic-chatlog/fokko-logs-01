@@ -6791,3 +6791,5 @@
 [2021-04-24 08:12:41]: ***  [, Level 0]: '[D] ~DemoizL~' finished the special race!
 [2021-04-24 08:12:55]: ***  [, Level 0]: 'S22F4' entered and joined the game
 [2021-04-24 08:12:55]: ***  [, Level 0]: 'Ðream' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-24 08:13:01]: Raven [, Level 0]: Matiteusz: how u get a laser?
+[2021-04-24 08:13:03]: ***  [, Level 0]: 'starf' has left the game
