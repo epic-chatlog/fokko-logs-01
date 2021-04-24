@@ -5464,3 +5464,4 @@
 [2021-04-24 07:01:17]: ***  [, Level 0]: 'Taip2' entered and joined the game
 [2021-04-24 07:01:19]: [D] El patron [FookinLads, Level 24]: any ☍: ?
 [2021-04-24 07:01:23]: Taip2 [VergleriSay, Level 0]: Cylox aga gel
+[2021-04-24 07:01:33]: nenny [doq, Level 5]: El patron: where did you get the gun?
