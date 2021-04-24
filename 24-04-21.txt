@@ -6197,3 +6197,5 @@
 [2021-04-24 07:38:54]: 'yan² [, Level 1]: did it xD SoniCN
 [2021-04-24 07:39:13]: ***  [, Level 0]: 'Flugy' entered and joined the game
 [2021-04-24 07:39:29]: ***  [, Level 0]: 'OP|Supers' entered and joined the game
+[2021-04-24 07:39:39]: ***  [, Level 0]: '[D] NinjaWhite' entered and joined the game
+[2021-04-24 07:39:41]: (1)ERROR [404, Level 48]: Matiteusz:  thanks for the 3 jets xDD
