@@ -6700,3 +6700,6 @@
 [2021-04-24 08:06:21]: galega [, Level 0]: help
 [2021-04-24 08:06:21]: NeMo [, Level 27]: taco bell: u buy the key
 [2021-04-24 08:06:24]: taco bell [, Level 16]: yes
+[2021-04-24 08:06:28]: NeMo [, Level 27]: go
+[2021-04-24 08:06:31]: HeavyGeneral [FookinLads, Level 45]: any: wow so cringe
+[2021-04-24 08:06:36]: NeMo [, Level 27]: see i cant taco bell
