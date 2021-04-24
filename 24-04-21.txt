@@ -7071,3 +7071,7 @@
 [2021-04-24 08:31:28]: mamikral011 [DogParty, Level 28]: any ☍: war?
 [2021-04-24 08:31:31]: Davidboss8 [senior, Level 0]: I was just playing lol
 [2021-04-24 08:31:32]: mamikral011 [DogParty, Level 28]: any ☍: fuck u
+[2021-04-24 08:31:36]: mamikral011 [DogParty, Level 28]: ERROR:
+[2021-04-24 08:31:36]: ***  [, Level 0]: 'Falco641' entered and joined the game
+[2021-04-24 08:31:39]: mamikral011 [DogParty, Level 28]: any ☍: ok
+[2021-04-24 08:31:44]: any ☍ [404, Level 41]: mamikral011: dont help demoizl
