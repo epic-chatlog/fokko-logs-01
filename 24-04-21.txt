@@ -6784,3 +6784,8 @@
 [2021-04-24 08:12:12]: ***  [, Level 0]: 'starf' entered and joined the game
 [2021-04-24 08:12:15]: ***  [, Level 0]: Raven Dummy's killing spree was ended by løminatiøn· (28 blocks)
 [2021-04-24 08:12:23]: ***  [, Level 0]: 'Sade' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-24 08:12:35]: ***  [, Level 0]: 'Ðream' left the minigame 'Block'
+[2021-04-24 08:12:39]: ***  [, Level 0]: 'Merio94' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-24 08:12:41]: ***  [, Level 0]: avioocals 2.0 finished in: 6 minute(s) 33.34 second(s)
+[2021-04-24 08:12:41]: ***  [, Level 0]: 'avioocals 2.0' finished the special race!
+[2021-04-24 08:12:41]: ***  [, Level 0]: '[D] ~DemoizL~' finished the special race!
