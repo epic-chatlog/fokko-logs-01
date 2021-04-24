@@ -6271,3 +6271,8 @@
 [2021-04-24 07:45:14]: Devastator [\ЧՁθ/, Level 0]: fokkonaut: ???
 [2021-04-24 07:45:14]: ***  [, Level 0]: 'Mamba' has left the game
 [2021-04-24 07:45:15]: ***  [, Level 0]: 'yan²'s killing spree was ended by flappy (6 blocks)
+[2021-04-24 07:45:17]: ***  [, Level 0]: 'Duke Ellington' entered and joined the game
+[2021-04-24 07:45:22]:   [, Level 0]: [D] ghp: 1
+[2021-04-24 07:45:25]: nenny [doq, Level 5]: Taip: tmm
+[2021-04-24 07:45:26]: ***  [, Level 0]: OP|Supers is on a killing spree with 10 blocks
+[2021-04-24 07:45:27]: ***  [, Level 0]: [D] NinjaWhite's killing spree was ended by OP|Supers (7 blocks)
