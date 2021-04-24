@@ -8148,3 +8148,4 @@
 [2021-04-24 09:18:50]: ERROR. [404, Level 58]: xD
 [2021-04-24 09:18:55]: noname [, Level 24]: didn t we made peace
 [2021-04-24 09:18:59]: ***  [, Level 0]: 'yeba' entered and joined the game
+[2021-04-24 09:19:08]: ERROR. [404, Level 58]: hes ally xD
