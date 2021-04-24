@@ -8087,3 +8087,6 @@
 [2021-04-24 09:15:28]: (1)nenny [, Level 0]: Kezo:  sa
 [2021-04-24 09:15:31]: ***  [, Level 0]: 'yeba' entered and joined the game
 [2021-04-24 09:15:32]: ***  [, Level 0]: 'BLACK' has left the game
+[2021-04-24 09:15:33]: Kezo [[!KESLAN!], Level 41]: nenny: as knk
+[2021-04-24 09:15:42]: Nagisa [H] [s2G, Level 7]: where you go
+[2021-04-24 09:15:43]: ERROR. [404, Level 58]: i know what u wrote to shiro Kezo
