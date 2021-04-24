@@ -5352,3 +5352,7 @@
 [2021-04-24 06:53:08]: ERROR [404, Level 76]: El patron:  musst du heavy bescheid sagem
 [2021-04-24 06:53:09]: ERROR [404, Level 76]: n
 [2021-04-24 06:53:10]: Good man [Chilli.*, Level 33]: Ƭevan: круто)
+[2021-04-24 06:53:22]: ***  [, Level 0]: 'nenny' entered and joined the game
+[2021-04-24 06:53:22]: ChillerDragon.* [Chilli.*, Level 42]: Nudelsaft c:: wir sollten mal n tech clan aufmachen
+[2021-04-24 06:53:27]: Ðream [TrRShClNrRs, Level 47]: Good man: до джет подбросить?
+[2021-04-24 06:53:31]: ChillerDragon.* [|*KoG*|, Level 42]: Nudelsaft c:: so mit warlist auf github und eignem client und so
