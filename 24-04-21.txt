@@ -6022,3 +6022,7 @@
 [2021-04-24 07:28:47]: fokkonaut [flawLess, Level 102]: hey StreamerDragon :D
 [2021-04-24 07:28:48]: ERROR [404, Level 76]: ja heinricht bombe fokkonaut
 [2021-04-24 07:28:51]: ***  [, Level 0]: '|KS| Kyrma' entered and joined the game
+[2021-04-24 07:28:58]: fokkonaut [flawLess, Level 102]: ERROR: xd
+[2021-04-24 07:28:59]: ChillerDragon [Chilli.*, Level 45]: xD
+[2021-04-24 07:28:59]: ERROR [404, Level 76]: xD
+[2021-04-24 07:29:03]: ChillerDragon.* [|*KoG*|, Level 42]: lost
