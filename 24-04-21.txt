@@ -8027,3 +8027,5 @@
 [2021-04-24 09:12:06]: ***  [, Level 0]: 'Telefantastic' has left the game
 [2021-04-24 09:12:09]:   [, Level 0]: [D] El patron: Ļåҕ Lobster: cool
 [2021-04-24 09:12:09]: ***  [, Level 0]: NinjaWhite is on a killing spree with 10 blocks
+[2021-04-24 09:12:19]: ***  [, Level 0]: '.' has left the game
+[2021-04-24 09:12:25]: :D [s2G, Level 11]: come
