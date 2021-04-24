@@ -6176,3 +6176,7 @@
 [2021-04-24 07:37:16]: ***  [, Level 0]: 'NinjaWhite' entered and joined the game
 [2021-04-24 07:37:18]: Cylox. [, Level 25]: Nudelsaft c:: ı joke man
 [2021-04-24 07:37:26]: Nudelsaft c: [FookinLads, Level 60]: Cylox: so do i
+[2021-04-24 07:37:30]: ERROR. [404, Level 57]: EZ
+[2021-04-24 07:37:32]: ***  [, Level 0]: Raven Dummy is on a killing spree with 5 blocks
+[2021-04-24 07:37:33]: ERROR. [404, Level 57]: :*
+[2021-04-24 07:37:39]:   [, Level 0]: NinjaWhite: Raven:
