@@ -5280,3 +5280,7 @@
 [2021-04-24 06:48:37]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-24 06:48:37]: Good man [Chilli.*, Level 0]: any: endless pls)
 [2021-04-24 06:48:38]: Nudelsaft c: [FookinLads, Level 0]: admin2win
+[2021-04-24 06:48:45]: ChillerDragon.* [Chilli.*, Level 42]: admin2win lmao
+[2021-04-24 06:48:47]: El patron [FookinLads, Level 32]: ChillerDragon.*: ow
+[2021-04-24 06:48:48]: ***  [, Level 0]: 'Coca' entered and joined the game
+[2021-04-24 06:48:50]: ***  [, Level 0]: 'ERROR' entered and joined the game
