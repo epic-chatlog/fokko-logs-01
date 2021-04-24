@@ -5179,3 +5179,4 @@
 [2021-04-24 05:52:22]: ***  [, Level 0]: 'Falco642' has left the game (Timeout)
 [2021-04-24 05:52:50]: Rainbow Tee [KyStiKi, Level 0]: nenny: you dont help me anytime i have been blocked by someone
 [2021-04-24 05:52:54]: nenny [doq, Level 5]: oh lag
+[2021-04-24 05:53:16]: Rainbow Tee [KyStiKi, Level 0]: nenny: also i have 190 ping so i get freezed when i come to you
