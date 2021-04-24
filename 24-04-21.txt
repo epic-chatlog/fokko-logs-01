@@ -6452,3 +6452,7 @@
 [2021-04-24 07:52:37]: ***  [, Level 0]: 'ABC' has left the game
 [2021-04-24 07:52:39]: Ƭevan [TrRShClNrRs, Level 50]: Matiteusz: they are friend)
 [2021-04-24 07:52:42]: ERROR. [404, Level 57]: Coca:
+[2021-04-24 07:52:47]: ERROR. [404, Level 57]: xD
+[2021-04-24 07:52:50]: Matiteusz [TrRShClNrRs, Level 20]: Ƭevan: i dont know them xD
+[2021-04-24 07:52:51]: ***  [, Level 0]: (1)OP|Supers is on a killing spree with 5 blocks
+[2021-04-24 07:52:54]:   [, Level 0]: ChillerDragon: also ja falls wir hier bleiben sollten muss ich mal mit dns und so alles einrichten dann hast du alle sachen im web panel wieder fokkonaut
