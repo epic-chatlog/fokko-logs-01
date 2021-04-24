@@ -6247,3 +6247,5 @@
 [2021-04-24 07:43:52]: ***  [, Level 0]: 'soleri1' entered and joined the game
 [2021-04-24 07:43:56]: ***  [, Level 0]: 'Mamba' entered and joined the game
 [2021-04-24 07:43:59]: ERROR. [404, Level 57]: xD
+[2021-04-24 07:44:02]: fokkonaut [flawLess, Level 102]: out is easier Ƭevan xd
+[2021-04-24 07:44:09]: ERROR. [404, Level 57]: AHHH
