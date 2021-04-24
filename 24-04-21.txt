@@ -5346,3 +5346,7 @@
 [2021-04-24 06:52:49]: Coca [Drunks, Level 25]: Ƭevan: ты купил портал?
 [2021-04-24 06:52:50]: ***  [, Level 0]: '(C)Ali' entered and joined the game
 [2021-04-24 06:52:53]: [D] El patron [FookinLads, Level 24]: ERROR:  darf ich leute ihn die war liste eintragen
+[2021-04-24 06:52:56]: Coca [Drunks, Level 25]: Ƭevan: не надо уже
+[2021-04-24 06:53:02]: Ðream [TrRShClNrRs, Level 47]: Coca: да
+[2021-04-24 06:53:03]: ***  [, Level 0]: '(C)Ali' has left the game
+[2021-04-24 06:53:08]: ERROR [404, Level 76]: El patron:  musst du heavy bescheid sagem
