@@ -6613,3 +6613,6 @@
 [2021-04-24 08:01:14]: (1)ERROR [404, Level 48]: xD
 [2021-04-24 08:01:19]:   [, Level 0]: [D] mamikral011: nenny: yokla  şakasına arada bi alıom
 [2021-04-24 08:01:23]: NeMo [, Level 27]: HardreenClutch: what
+[2021-04-24 08:01:37]: ***  [, Level 0]: ''yan²' has left the game
+[2021-04-24 08:01:39]: (1)nenny [, Level 0]: knk şaka yapıyon ama bu şakayla herkes senden nefret edebilir ChillerDragon a yardım ettin diye
+[2021-04-24 08:01:39]:   [, Level 0]: ChillerDragon: (1)nenny: I am currently afk.
