@@ -6806,3 +6806,4 @@
 [2021-04-24 08:13:58]: ***  [, Level 0]: 'DOOCK' entered and joined the game
 [2021-04-24 08:14:07]: ***  [, Level 0]: 'muluk' entered and joined the game
 [2021-04-24 08:14:21]: ***  [, Level 0]: 'kison5555' has left the game
+[2021-04-24 08:14:36]: ***  [, Level 0]: Chillingo is on a killing spree with 10 blocks
