@@ -8318,3 +8318,7 @@
 [2021-04-24 09:28:37]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-24 09:28:40]: Nagisa [H] [s2G, Level 7]: kapıyı açın
 [2021-04-24 09:28:40]: ERRORa [404, Level 76]: xD
+[2021-04-24 09:28:49]:   [, Level 0]: Cylox.: kapı zor açılıyo
+[2021-04-24 09:28:51]: Matiteusz [TrRShClNrRs, Level 20]: Kenshi ツ: its cuz of me cuz me and yellow started war and my clan helped me and yellow clan helped him xD
+[2021-04-24 09:28:52]:   [, Level 0]: Cylox.: burdan degıl
+[2021-04-24 09:28:53]: (1)nenny [, Level 0]: Devastator: Er ist mein Bruder
