@@ -35,7 +35,7 @@
   
   <script>
     var lines;
-    fetch(`https://raw.githubusercontent.com/epic-chatlog${document.location.pathname}main/lines.l`)
+    fetch(`https://raw.githubusercontent.com/epic-chatlog/${document.location.pathname.split("/")[1]}/main/lines.l`)
         .then(a => a.text())
         .then(b => {
             lines = b;
